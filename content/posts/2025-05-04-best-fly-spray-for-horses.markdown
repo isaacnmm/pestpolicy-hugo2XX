@@ -1,4 +1,4 @@
-﻿---
+---
 author: Isaac
 layout: post
 title: 7 Best Fly Spray for Horses 2025 Reviewed
@@ -10,10 +10,7 @@ tags: []
 slug: /best-fly-spray-for-horses/
 lastmod: 2025-05-07T12:21:24+03:00
 ---
-> **We may earn a commission when you click and buy from Amazon.com.**
->
 
----
 **Are you searching for the best fly spray for horses? One that's not only effective but also gentle on horses with sensitive skin? **
 Look no further!
 - Our top-rated fly spraysrepel[horse flies](https://animaldiversity.org/accounts/Tabanus_similis/),[gnats](https://pestpolicy.com/best-gnat-repellents/),and other pests while ensuring safety for both you and your equine friends.

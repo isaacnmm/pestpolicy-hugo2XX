@@ -1,4 +1,4 @@
-﻿---
+---
 author: Isaac
 layout: post
 title: 7 Best Noise Cancelling Headphones Under 50 in 2025
@@ -10,10 +10,7 @@ tags: []
 slug: /best-noise-cancelling-headphones-under-50/
 lastmod: 2025-05-07T12:21:24+03:00
 ---
-> **We may earn a commission when you click and buy from Amazon.com.**
->
 
----
 If you're looking for the best
 [noise canceling headphones](https://en.wikipedia.org/wiki/Noise-cancelling_headphones)
 under 50, you're in the right place!
@@ -119,3 +116,4 @@ Cons:
 These
 best noise cancelling headphones under 50 are
 great for individuals wearing glasses or those who don't like bulky headphones.
+

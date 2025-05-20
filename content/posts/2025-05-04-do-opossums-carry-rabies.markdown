@@ -1,4 +1,4 @@
-﻿---
+---
 author: Isaac
 layout: post
 title: Do Opossums Carry Rabies - 7 Quick Facts
@@ -10,16 +10,13 @@ tags: []
 slug: /do-opossums-carry-rabies/
 lastmod: 2025-05-07T12:21:26+03:00
 ---
-> **We may earn a commission when you click and buy from Amazon.com.**
->
 
----
 Opossums go through garbage,
 [hunt mice and snakes](https://pestpolicy.com/what-do-opossums-eat/)
 , and hang around roadkill - which exposes them to dangerous diseases like rabies.
 
 So, the question is: do opossums carry rabies?
-**In brief, NO, Opossum/ possums are very unlikely to carry rabies. Opossums' body temperature is too low to inhibit the rabies virus compared to other wildlife like foxes, skunks, raccoons, and bats. **
+**In brief, NO, Opossum/ possums are very unlikely to carry rabies. Opossums' body temperature is too low to inhibit the rabies virus compared to other wildlife like foxes, skunks, raccoons, and bats.�**
 [amazon bestseller="Best Opossums Cages" items="2" template="table"]
 ## Cold Body Temperature - Do Opossums Carry Rabies
 The opossum is just one of the many animals that are immune to rabies.

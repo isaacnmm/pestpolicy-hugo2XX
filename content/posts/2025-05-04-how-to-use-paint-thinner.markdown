@@ -1,4 +1,4 @@
-﻿---
+---
 author: Isaac
 layout: post
 title: How to Use Paint Thinner
@@ -9,10 +9,7 @@ tags: []
 slug: /how-to-use-paint-thinner/
 lastmod: 2025-05-07T12:21:28+03:00
 ---
-> **We may earn a commission when you click and buy from Amazon.com.**
->
 
----
 Paint thinner including Xylene, Naptha, Acetone, and Turpentine
 1. Paint thinner is a substance used to make paint thinner. Paint thinner is a term that can be used to describe many different substances. Turpentine, Acetone, Naptha, Xylene, and many more substances can be used to reduce the thickness of paint.
 1. While latex-based primers and paints are convenient and versatile, oil-based primers and paints still are good choices in certain applications. However, if you are going to use oil-based products, you will need to know how to properly use paint thinners or solvents to thin paint, and clean brushes and other equipment when youre done. Keep reading to learn how.
@@ -33,3 +30,4 @@ Paint thinners should not be used with latex paints, shellac or lacquers.
 #### CLEAN BRUSHES AND APPLICATORS
 - Step 1: Use the Three-Container MethodUsing the three-container approach avoids waste and potential harm to the environment. First, choose the appropriate solvent to remove the type of paint you used. Brushes used with oil-based paint must be cleaned with paint thinner formulated to remove it. Check the product label to be sure you made the right choice. You can also ask someone at your local True Value hardware store for help.Partially fill three containers with solvent. Rinse most of the paint out in the first container, blot it on newsprint, and then spin the brush in a spinner. Next, rinse it in the second container, blot, and repeat spinning. Repeat the process using the third container. Then pour all the thinner into a sealable container and allow the paint to settle out for a few days.Rinse your brushes and equipment with water, blot them with an old towel or rag and then hang them to dry.
 - Step 2: Dispose of or Store Solvents ProperlyAfter youve cleaned your applicators following the tips in step 1, check to see if the thinner in your sealed container is clear and that all of the paint particles in the container have settled to the bottom. Pour off the clear thinner into another sealable container and then mark it as used thinner with a permanent marker for later reuse. Collect the paint that settled in the container in another separate, sealable container for later disposal at your local hazardous waste disposal location. Check with your city government to see where these sites are located.Safety Alerts!Do not pour used thinner or oil-based paints into drains or onto the ground. This can pollute soil and water.Where possible, store solvents somewhere with adequate ventilation, preferably outside of the home, such as in a shed. If vapors escape from containers, they can build up in a non-ventilated space and potentially cause harm.Dont fill containers of solvent all the way to the top. Their vapors need room to expand and an over-full container can potentially burst. Once your containers reach the halfway-full mark, seal them and dispose of them at a hazardous waste disposal location.Thats it! Now you know how to properly use paint thinner and solvents.
+

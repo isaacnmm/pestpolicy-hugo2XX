@@ -1,4 +1,4 @@
-ï»¿---
+---
 author: Isaac
 layout: post
 title: How Long Can Fleas Live Without a Host?
@@ -10,10 +10,7 @@ tags: []
 slug: /how-long-can-fleas-live-without-a-host/
 lastmod: 2025-05-07T12:21:27+03:00
 ---
-> **We may earn a commission when you click and buy from Amazon.com.**
->
 
----
 Fleas are generally parasites that
 [need a host to survive](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5734377/)
 . But how long can fleas live without a host? Well, because of their thirst for blood and parasitic nature, they depend on the host most of their time.
@@ -27,8 +24,8 @@ Because fleas are parasites, it is difficult to live without a host. They get th
 In fact, a female flea will not lay her first eggs until after her first blood meal. Hence they need to find a host so they quickly attach to feed and continue with the next stage of the life cycle.
 Related:
 [Using Dawn Dish Soap for Fleas?](https://pestpolicy.com/dawn-dish-soap-for-fleas/)
-### **Life Cycle of a FleaÂ  **
-A flea has a life span of between 60-100 days. But they can live even for a whole year even the conditions are not conducive for the egg, larvae, or pupae to rapture to the next stage.Â Â Lets have a closer look at the different stages and their behaviors.
+### **Life Cycle of a Flea  **
+A flea has a life span of between 60-100 days. But they can live even for a whole year even the conditions are not conducive for the egg, larvae, or pupae to rapture to the next stage.  Lets have a closer look at the different stages and their behaviors.
 ### **Eggs **
 This is the first stage in a life cycle. A flea likes to lay its eggs on the host. Most of the preferred hosts are pets at home because their blood is nutritious and makes fleas lay more eggs.
 - When the pet is grooming or shaking, these eggs fall on the carpets, bedding, furniture, and any other surface
@@ -52,7 +49,7 @@ This is the fourth and final stage of a flea. It is at this stage that the pupa 
 - Their hind legs are also powerful enough to jump 150 times their own length to get to the host. As for the female, they start to lay eggs within a period of 48 hours.
 All the eggs laid before mating are infertile and will not hatch. As the flea takes more of pet blood it continues to lay eggs that hatch.
 - A female can lay up 20-30 per day and up to 180 eggs in its lifespan.
-However, if the environmental conditions are not good, the pupa may stay in the cocoon for up to a period of one year.Â The adult fleas are not many and their population is about 5 percent.
+However, if the environmental conditions are not good, the pupa may stay in the cocoon for up to a period of one year. The adult fleas are not many and their population is about 5 percent.
 Read Also:
 [Can Fleas Bite Through Clothes?](https://pestpolicy.com/can-fleas-bite-through-clothes/)
 ## **How Long Do Fleas Live With A Host? **

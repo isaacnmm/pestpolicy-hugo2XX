@@ -1,4 +1,4 @@
-﻿---
+---
 author: Isaac
 layout: post
 title: 7 Best Paint Thinner for Oil Painting in 2025
@@ -9,10 +9,7 @@ tags: []
 slug: /best-paint-thinner-for-oil-painting/
 lastmod: 2025-05-07T12:21:24+03:00
 ---
-> **We may earn a commission when you click and buy from Amazon.com.**
->
 
----
 Have you had a difficult time choosing an oil thinner for your oil paints? We're going to talk about all your options - the best paint thinner for oil painting. All these paints can be used both to
 [clean the brushes](https://pestpolicy.com/best-paint-brushes-for-edging/)
 and thin your oil paints.
@@ -39,7 +36,7 @@ The thinner behaves and smells great - comparable to OMS. But the packaging for 
 Pros:
 - You may dip the paintbrushes into your bottle and this will help reduce waste.
 - It'll thin your alkyds and standard oils excellently - while also removing that bad sheen from your alkyds.
-- So, for your art studio, you can now remove the toxic chemicals and turpentine  - with this oil paint thinner.
+- So, for your art studio, you can now remove the toxic chemicals and turpentine� - with this oil paint thinner.
 - Despite that its smell is relatively strong, - can be applied around your living room and[kitchen](https://pestpolicy.com/best-paint-for-kitchen-cabinets/).
 
 Cons:
@@ -100,3 +97,4 @@ The eco-friendly Citra Solv 8 thinner is excellently used as a substitute for va
 The best paint thinner for oil painting is safe and will leave that
 aromatherapy - varnishes, resins, various painting mediums.
 It is a nontoxic option to the turpentine product - plus it offers excellent performance.
+

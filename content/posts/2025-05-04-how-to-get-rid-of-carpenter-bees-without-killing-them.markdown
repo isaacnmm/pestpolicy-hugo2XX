@@ -1,4 +1,4 @@
-ï»¿---
+---
 author: Isaac
 layout: post
 title: How to Get Rid Of Carpenter Bees without Killing Them
@@ -10,16 +10,13 @@ tags: []
 slug: /how-to-get-rid-of-carpenter-bees-without-killing-them/
 lastmod: 2025-05-07T12:21:27+03:00
 ---
-> **We may earn a commission when you click and buy from Amazon.com.**
->
 
----
 Unlike bumble/honey bees, carpenter bees do more than just carry out pollination - they bore woods and create nests. Also,
 [female carpenter bees may sting humans](https://pestpolicy.com/do-carpenter-bees-bite/)
 if provokes.
-**So, on how to get rid of carpenter bees without killing them; you can install a sacrificial piece of wood, install carpenter bee traps, use a Sweep net, adopt preventive measures like WD-40, or make some noise to scare bees away.Â **
-**Alternatively, hanging wind chime works incredibly, while painting wooden surface prevents carpenter bees from boring.Â **
-**Further, you can opt to wait for the bees to leave on their own, vacuum them, or use almond/citrus oil as well.Â **
+**So, on how to get rid of carpenter bees without killing them; you can install a sacrificial piece of wood, install carpenter bee traps, use a Sweep net, adopt preventive measures like WD-40, or make some noise to scare bees away. **
+**Alternatively, hanging wind chime works incredibly, while painting wooden surface prevents carpenter bees from boring. **
+**Further, you can opt to wait for the bees to leave on their own, vacuum them, or use almond/citrus oil as well. **
 [amazon bestseller="Best Repellent for Carpenter Bees" items="2" template="table"]
 ## How to Get Rid Of Carpenter Bees without Killing Them
 ### 1. Using a Sweep net
@@ -31,9 +28,9 @@ In case you spot flying carpenter bees, use a sweep net with a long handle - swi
 NB: Sweep nets are common in the local market and relatively cheap as compared to options such as vacuuming.
 Related:
 [Removing Get Rid of Ground Bees](https://pestpolicy.com/how-to-get-rid-of-ground-bees/)
-### 2.Â  Installing Sacrificial Piece of Wood
+### 2.  Installing Sacrificial Piece of Wood
 A sacrificial wood is a standard lumber piece, which is highly visible and attracts carpenter bees preferentially.
-The wooden size may change (varying lengths and widths) depending on the bee colony at your placeÂ  - small sizes are meant for medium colonies, while large sizes should be used to trap large bee colonies.
+The wooden size may change (varying lengths and widths) depending on the bee colony at your place  - small sizes are meant for medium colonies, while large sizes should be used to trap large bee colonies.
 - The piece of wood should be built using softwood trees such as redwood, pine, or cedar.
 - Moreover, the selected piece should also be untreated with any chemical or unvarnished/unpainted (paint /varnish prevents carpenter bees from chewing the softwood).
 - Upon preparation, hang the piece of wood in an open place/exposed (Hunker suggests so) such that the carpenter bees can locate it easily.

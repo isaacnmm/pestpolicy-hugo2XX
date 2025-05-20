@@ -1,4 +1,4 @@
-﻿---
+---
 author: Isaac
 layout: post
 title: Jordan Bartee at the CalArts Machine Lab
@@ -9,10 +9,7 @@ tags: []
 slug: /jordan-bartee-at-the-calarts-machine-lab/
 lastmod: 2025-05-07T12:21:28+03:00
 ---
-> **We may earn a commission when you click and buy from Amazon.com.**
->
 
----
 Jordan Bartee is a renowned innovator and creative force in the field of digital arts and design. His work at the CalArts Machine Lab highlights his dedication to merging technology with artistic expression, creating groundbreaking projects that challenge conventional boundaries.
 ## Who is Jordan Bartee?
 Jordan Bartee is a digital artist, educator, and technologist whose expertise spans interactive design, machine learning, and experimental music. His association with the California Institute of the Arts (CalArts) Machine Lab underscores his commitment to fostering creativity through technology.

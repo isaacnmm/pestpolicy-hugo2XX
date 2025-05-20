@@ -1,4 +1,4 @@
-﻿---
+---
 author: Isaac
 layout: post
 title: Spraying Yard with Dawn for Fleas
@@ -10,10 +10,7 @@ tags: []
 slug: /spraying-yard-with-dawn-for-fleas/
 lastmod: 2025-05-07T12:21:28+03:00
 ---
-> **We may earn a commission when you click and buy from Amazon.com.**
->
 
----
 My brother and I are neighbors and we have lawns that are green and well-manicured. So we are always worried about the idea of pests like fleas taking over the yards.
 So, on the question of spraying the yard with dawn for fleas, I note that spraying
 [dawn dish soap](https://pestpolicy.com/dawn-dish-soap-for-fleas/)

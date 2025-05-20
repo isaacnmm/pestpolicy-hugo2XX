@@ -1,4 +1,4 @@
-ï»¿---
+---
 author: Isaac
 layout: post
 title: How Many Box Jumps Should I Do?
@@ -9,10 +9,7 @@ tags: []
 slug: /how-many-box-jumps-should-i-do/
 lastmod: 2025-05-07T12:21:27+03:00
 ---
-> **We may earn a commission when you click and buy from Amazon.com.**
->
 
----
 How Many Box Jumps Should I Do? well, It depends on your strength and goals.
 - Thus, for cardio endurance, you can do 4 sets of 20 reps with 60 seconds of rest in between.
 - Conversely, you can do 5 sets of 5 reps for power and strength using a higher box jump.
@@ -65,7 +62,7 @@ Besides, a
 comparing between low- moderate- and high- levels jump has revealed that overdoing the jumps may not bring in the desired results.
 
 This study advocates doing better jumps and at a Moderate-frequency i.e. 2-3 jumps per week. You dont need to perform higher frequency jumps per week to attain positive results. If you do this, youll cause unnecessary stress to your joints and the body wont have enough recovery time.
-## How manyÂ sets and reps ofÂ box jumps should I do?
+## How many sets and reps of box jumps should I do?
 If youre a beginner in box jumps you can start with a set of 5 with 510 reps. Rest for 60 seconds between sets to give your body time to recover before you take on the next rep. However, listen to your body and stop if you need to.
 ## Rules for Better Box Jumps
 Just like other workout routines, box jumps are a great workout alternative that you can engage in at the gym. However, its crucial that you do the jumps correctly to avoid injuries. If its your first time jumping go easy on yourself and follow the rules.

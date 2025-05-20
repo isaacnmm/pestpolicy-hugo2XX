@@ -1,4 +1,4 @@
-ï»¿---
+---
 author: Isaac
 layout: post
 title: How to Get Rid of Termites - Pest Control Tips
@@ -10,10 +10,7 @@ tags: []
 slug: /how-to-get-rid-of-termites/
 lastmod: 2025-05-07T12:21:27+03:00
 ---
-> **We may earn a commission when you click and buy from Amazon.com.**
->
 
----
 Know how to get rid of termites? Despite that, most homeowners prefer professional
 [termite extermination](https://content.ces.ncsu.edu/termites-biology-and-control)
 - particularly after a termite inspection - comprehensive steps for prevention and total termite extermination.
@@ -22,14 +19,14 @@ In summary, the most common technique includes
 [soil treatment](https://pestpolicy.com/soil-treatment-for-termites/)
 and
 [chemical termite killers](https://pestpolicy.com/best-termite-killer/)
-with active ingredients such as fipronil and imidacloprid. Further, you may also directly treat the wood and furniture to get rid of termitesÂ (
+with active ingredients such as fipronil and imidacloprid. Further, you may also directly treat the wood and furniture to get rid of termites (
 [check termite images](https://pestpolicy.com/what-does-a-termite-look-like/)
 ).
 While at it, you may also position baits in the house and lawn. Such chemicals will release IGRs. After contacting the termites, the termites will go back to their colony and kill them through poisoning.
 [amazon bestseller="Best Termite Killers" items="2" template="table"]
 Additional methods you can use include fumigation, using dust agents, employing foam agents, and further avoiding disturbing the
 [termite hills - for both termite prevention](https://pestpolicy.com/termite-prevention/)
-and extermination.Â Read Also:
+and extermination. Read Also:
 [Flying Ants vs. Termites](https://pestpolicy.com/flying-ants-vs-termites/)
 .
 ## Details: How to Get Rid of Termites - Pest Control Tips
@@ -102,3 +99,4 @@ So, that's how to get rid of termites - for the active termite colony in the woo
 But first, undertake termite inspection before taking treatment further, including using
 [termite baits stations](https://pestpolicy.com/best-termite-bait-stations/)
 and soil treatment.
+

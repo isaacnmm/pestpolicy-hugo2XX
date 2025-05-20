@@ -1,4 +1,4 @@
-﻿---
+---
 author: Isaac
 layout: post
 title: Zhidong Controller Review for 2025
@@ -9,10 +9,7 @@ tags: []
 slug: /zhidong-controller-review/
 lastmod: 2025-05-07T12:21:29+03:00
 ---
-> **We may earn a commission when you click and buy from Amazon.com.**
->
 
----
 The
 [Zhidong Controller](https://www.amazon.com/dp/B01HBKLIJ8/?tag=p-policy-20)
 is a multi-modem both DirectInput and input.
@@ -37,3 +34,4 @@ Read Also:
 2. PC full vibration feedback
 3. Comfortable to use buttons
 4. Has a backlight
+

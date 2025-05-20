@@ -1,4 +1,4 @@
-﻿---
+---
 author: Isaac
 layout: post
 title: Top 7 Best Flea Spray for House Carpets Reviewed
@@ -10,10 +10,7 @@ tags: []
 slug: /best-flea-spray-for-house-carpets/
 lastmod: 2025-05-07T12:21:23+03:00
 ---
-> **We may earn a commission when you click and buy from Amazon.com.**
->
 
----
 When choosing the best flea spray for house carpets, you can consider things like effectiveness,
 [ease of use](https://pestpolicy.com/where-do-fleas-come-from/)
 , safety for pets and children, and residual effect.

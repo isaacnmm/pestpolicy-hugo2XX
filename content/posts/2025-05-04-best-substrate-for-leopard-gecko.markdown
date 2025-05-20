@@ -1,4 +1,4 @@
-﻿---
+---
 author: Isaac
 layout: post
 title: 7 Best Substrate for Leopard Gecko Reviewed
@@ -10,10 +10,7 @@ tags: []
 slug: /best-substrate-for-leopard-gecko/
 lastmod: 2025-05-07T12:21:25+03:00
 ---
-> **We may earn a commission when you click and buy from Amazon.com.**
->
 
----
 When choosing the best substrate for
 [leopard geckos](https://animaldiversity.org/accounts/Eublepharis_macularius/)
 , you can consider things like safety, ease of cleaning, and comfort for your pet.
@@ -61,7 +58,7 @@ Some products, like
 For example,
 *Non-Adhesive Shelf Liner*
 can be cut to fit the enclosure and reused after cleaning, making it a cost-effective option over time.
-## Top 5 Product Recommendations - Substrate for Leopard Gecko
+## Top 5 Product Recommendations -�Substrate for Leopard Gecko
 ### [1. GECKOPIA Premium Reptile Liner  Reptile Carpet](https://www.amazon.com/dp/B09W7KQHCS/?tag=p-policy-20)
 Reptile Carpet is a go-to choice for many
 [Leopard Gecko](https://pestpolicy.com/are-leopard-geckos-nocturnal/)

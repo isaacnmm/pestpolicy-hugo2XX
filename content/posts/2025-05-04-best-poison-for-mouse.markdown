@@ -1,4 +1,4 @@
-﻿---
+---
 author: Isaac
 layout: post
 title: 5 Best Poison for Mouse 2025 Reviewed
@@ -10,10 +10,7 @@ tags: []
 slug: /best-poison-for-mouse/
 lastmod: 2025-05-07T12:21:25+03:00
 ---
-> **We may earn a commission when you click and buy from Amazon.com.**
->
 
----
 When dealing with a mouse infestation, choosing the right poison can make a significant difference. Below are some of the best poisons for effectively eliminating mice, ensuring your home stays rodent-free.
 ### [1. Tomcat Mouse Killer](https://www.amazon.com/dp/B00J4LFSN4?tag=p-policy-20)
 The

@@ -1,4 +1,4 @@
-ï»¿---
+---
 author: Isaac
 layout: post
 title: How To Use Eucalyptus Oil For Bed Bugs
@@ -10,28 +10,25 @@ tags: []
 slug: /how-to-use-eucalyptus-oil-for-bed-bugs/
 lastmod: 2025-05-07T12:21:28+03:00
 ---
-> **We may earn a commission when you click and buy from Amazon.com.**
->
 
----
 Eucalyptus oil is a natural and effective way to get rid of bed bugs -
 [just like with lavender](https://pestpolicy.com/does-lavender-kill-bed-bugs/)
 . So, for details on how to use eucalyptus oil for bed bugs, read on for this
 [DIY bed bug control](https://pestpolicy.com/diy-bed-bug-spray/)
 guide.
 **You can mix 10-20 drops with 30 ml of water and use to spray the bedding and mattress. Lavender, peppermint, tea tree, and eucalyptus essential oils are good at keeping bed bugs away as they don't like their strong odors.**
-**We suggest putting a couple of drops of each of these essential oils on the corners of your bed - but don't tough it: The odor should last for days, effectively driving away bed bugs.Â **
+**We suggest putting a couple of drops of each of these essential oils on the corners of your bed - but don't tough it: The odor should last for days, effectively driving away bed bugs. **
 [amazon bestseller="Best Bed Bugs killers" items="2" template="table"]
 ## Details: How To Use Eucalyptus Oil For Bed Bugs
 ### 1. Mild Versus Severe Bed Bug Infestations
-Eucalyptus oil, an Â essential oil, will effectively control mild infestations, and is a good idea to have on hand as an emergency measure. The best way to use it for bed bugs is in your washer when you're washing the sheet; this will also kill mites.
+Eucalyptus oil, an  essential oil, will effectively control mild infestations, and is a good idea to have on hand as an emergency measure. The best way to use it for bed bugs is in your washer when you're washing the sheet; this will also kill mites.
 But for treating severe infestations of bed bugs, you should consult a
 [professional exterminator](https://pestpolicy.com/)
 or use Insecticides such as pyrethroids, pyrethrins (chrysanthemum flowers extract), and neonicotinoids.
 Eucalyptus oil may cause skin irritation or damage so diluting with water before spraying clothes or furniture with it is recommended.
 In some cases, eucalyptus oil may make symptoms worse if inhaled directly from the bottle without first mixing it up in another container because some individuals are allergic to this substance.
-### 2. On MattressÂ and Bed sheets
-For your mattressÂ and bed sheets, sprayÂ the eucalyptus oil solution on the mattress, then use a clean cloth to wipe it in.
+### 2. On Mattress and Bed sheets
+For your mattress and bed sheets, spray the eucalyptus oil solution on the mattress, then use a clean cloth to wipe it in.
 You may also add the eucalyptus oil onto your laundry loads (like in washers) in order to kill bed bugs and their eggs.
 A couple drops each of these essential oils can be applied in a few places around your room - on corners of furniture or underneath objects.
 ### **3. F****urniture and other Household items**
@@ -59,7 +56,7 @@ and pillows, as these are more likely to keep the bugs away from you while still
 Add the lemon grass oil to your washer (laundry) - it has high levels of citronellol and citronellal, which are both natural insect repellents.
 So, add 30ml of lemon grass oil to the hot water and detergent for a full load (or use about 15 drops in your hand or spray bottle).
 Spray on bedding every few days; can also be sprayed on mattress, carpeting, pillows, etc. You can put some drops on corners of bed as well - this will help keep bugs away from that area.
-[A 2014 Changlu WangÂ study](https://www.mdpi.com/2075-4450/5/4/849/htm)
+[A 2014 Changlu Wang study](https://www.mdpi.com/2075-4450/5/4/849/htm)
 showed that the citronellol in lemon grass oil (and other essential oils) is an effective deterrent against bed bugs (Cimex lectularius) in comparison to the synthetic repellent DEET.
 ### 2.*Tea Tree Oil*
 Tea tree oil has been shown to be effective against bed bugs - killing them and other insects on contact - but use it undiluted as it'll trigger allergic reactions and skin irritation.

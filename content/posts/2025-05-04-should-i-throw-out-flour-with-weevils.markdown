@@ -1,4 +1,4 @@
-﻿---
+---
 author: Isaac
 layout: post
 title: Should I Throw Out Flour With Weevils?
@@ -10,10 +10,7 @@ tags: []
 slug: /should-i-throw-out-flour-with-weevils/
 lastmod: 2025-05-07T12:21:28+03:00
 ---
-> **We may earn a commission when you click and buy from Amazon.com.**
->
 
----
 Flour weevils are common insects that attack cereals and flour. The breeding rate could be adverse if the matter is not corrected in time. Perhaps you have a similar problem; what do you do?
 **Well, should I throw out flour with weevils? The direct answer is NO. Lightly weevil-infested flour is actually safe for human consumption. You won't get food poisoning or other stomach upset cases.**
 **However, for densely weevil-infested flour, it's advisable to get rid of it completely. Normally, weevils will feed on starch content in the flour, thus rendering it unsafe for consumption. **

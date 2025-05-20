@@ -1,4 +1,4 @@
-ï»¿---
+---
 author: Isaac
 layout: post
 title: How to Get Rid of Ground Bees
@@ -10,16 +10,13 @@ tags: []
 slug: /how-to-get-rid-of-ground-bees/
 lastmod: 2025-05-07T12:21:27+03:00
 ---
-> **We may earn a commission when you click and buy from Amazon.com.**
->
 
----
 Have you noticed some conical dirt piles, but similar to anthills, with large openings in your yard? You could be having ground bees in your lawn! To be sure, watch any bees or insects flying into or out of the burrowed ground.
 - [Ground bees](https://entomology.cals.cornell.edu/extension/wild-pollinators/native-bees-your-backyard)dig mainly in bare areas of the garden or lawn, particularly in early spring. Therefore, maybe you should consider how to get rid of ground bees[that are in your yard](https://pestpolicy.com/how-to-get-rid-of-squirrels-in-the-yard/)?
 Related:
 [Easily Get Rid of Sweat Bees](https://pestpolicy.com/get-rid-sweat-bees/)
 .
-**Wait:Â **
+**Wait: **
 Bee stings are feared because they are lethal, and they cause pain. But, do ground bees pose a danger to you, your family, or your pets?
 [amazon bestseller="Best Killers for Ground Bees" items="2" template="table"]
 ## Details: How to Get Rid of Ground Bees
@@ -52,8 +49,8 @@ There are many wild and characteristically solitary bees. The wild bees are cons
 ### Size and color of ground bees
 Ground bees have colors ranging from purple, red, blue, yellow, and black. They are about one inch long.
 Ground bees have their mating season between March and May. Female bees in the colony of ground bees function as worker bees. The females dig burrows in the mating season, ready to fill them with eggs and bee bread.
-**Life Saver!!:Â **
-**Check a Video on How to Spot Ground Bee NestsÂ **
+**Life Saver!!: **
+**Check a Video on How to Spot Ground Bee Nests **
 https://www.youtube.com/watch?v=BjWrd0Z8rkw
 ## Are Ground Bees Dangerous?
 Male ground bees like

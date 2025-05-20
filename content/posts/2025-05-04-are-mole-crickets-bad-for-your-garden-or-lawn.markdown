@@ -1,4 +1,4 @@
-﻿---
+---
 author: Isaac
 layout: post
 title: Are Mole Crickets bad for your Garden or Lawn?
@@ -10,10 +10,7 @@ tags: []
 slug: /are-mole-crickets-bad-for-your-garden-or-lawn/
 lastmod: 2025-05-07T12:21:23+03:00
 ---
-> **We may earn a commission when you click and buy from Amazon.com.**
->
 
----
 If you're concerned about the well-being of your garden or lawn and whether mole crickets
 [might be causing harm](https://pestpolicy.com/are-crickets-good-or-bad/)
 , this comprehensive guide will provide you with a thorough understanding of the impact of mole crickets on your green spaces.

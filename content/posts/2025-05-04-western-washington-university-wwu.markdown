@@ -1,4 +1,4 @@
-﻿---
+---
 author: Isaac
 layout: post
 title: 'Bellingham: Western Washington University (WWU)'
@@ -10,10 +10,7 @@ tags: []
 slug: /western-washington-university-wwu/
 lastmod: 2025-05-07T12:21:28+03:00
 ---
-> **We may earn a commission when you click and buy from Amazon.com.**
->
 
----
 Located in Bellingham, WA, Western Washington University (WWU) is a vibrant institution renowned for its academic excellence, stunning campus, and strong community spirit. Here's a closer look at what makes WWU a standout educational destination.
 #### Academic Excellence
 WWU offers a wide range of undergraduate and graduate programs across various disciplines, including the arts, sciences, business, education, and more. The university is known for its strong emphasis on liberal arts education, providing students with a well-rounded academic experience that prepares them for a successful career and a fulfilling life.

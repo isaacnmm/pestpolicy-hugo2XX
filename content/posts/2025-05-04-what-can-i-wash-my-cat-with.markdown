@@ -1,4 +1,4 @@
-﻿---
+---
 author: Isaac
 layout: post
 title: What Can I Wash My Cat with - 7 Tips
@@ -10,10 +10,7 @@ tags: []
 slug: /what-can-i-wash-my-cat-with/
 lastmod: 2025-05-07T12:21:28+03:00
 ---
-> **We may earn a commission when you click and buy from Amazon.com.**
->
 
----
 You're ready to give your fluffy, adorable cat a bath -
 [or it has fleas](https://pestpolicy.com/how-to-tell-if-your-cat-has-fleas/)
 . You're considering using shampoo, maybe dish soap, or probably laundry detergent?
@@ -98,10 +95,11 @@ This recipe creates a simple and gentle oatmeal shampoo that can help soothe irr
 - Ground oatmeal (1 cup)
 - Baking soda (  cup)
 - Water (4 cups)
-Soak your cats fur in the mixture for five minutes and then rinse off the DIY shampoo with some warm water. The oatmeal shampoo can be stored in the refrigerator for up to two weeks.
+Soak your cats fur in the mixture for five minutes and then rinse off the DIY shampoo with some warm water.�The oatmeal shampoo can be stored in the refrigerator for up to two weeks.
 ## Conclusion
 I hope this article has given you some good tips for keeping your cat clean.
 - When faced with a cat who needs to be washed fast, not one of the above alternatives is going to disappoint.
 If you have any other questions, please feel free to contact me and I'll try my best to answer them!
 
 Have a great day!
+

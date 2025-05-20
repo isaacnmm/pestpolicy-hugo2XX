@@ -1,4 +1,4 @@
-﻿---
+---
 author: Isaac
 layout: post
 title: Ecosmart Organic Horse Fly Knockdown Review
@@ -10,10 +10,7 @@ tags: []
 slug: /ecosmart-organic-horse-fly-knockdown-repellent-review/
 lastmod: 2025-05-07T12:21:26+03:00
 ---
-> **We may earn a commission when you click and buy from Amazon.com.**
->
 
----
 This is an Ecosmart Organic Horse Fly Knockdown review. EcoSMART Organic is also an
 [effective horse fly repellent](https://livestockvetento.tamu.edu/horse-flydeer-fly-insecticides/)
 that qualifies for our noble list of the

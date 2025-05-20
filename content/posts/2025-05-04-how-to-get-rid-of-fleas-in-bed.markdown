@@ -1,4 +1,4 @@
-﻿---
+---
 author: Isaac
 layout: post
 title: How to Get Rid of Fleas in Bed
@@ -10,10 +10,7 @@ tags: []
 slug: /how-to-get-rid-of-fleas-in-bed/
 lastmod: 2025-05-07T12:21:27+03:00
 ---
-> **We may earn a commission when you click and buy from Amazon.com.**
->
 
----
 Fun fact: Over 95% of the
 [flea population](https://pestpolicy.com/flea-life-cycle/)
 will be scattered all over your house (including in the bed) with the pets hosting just 5% of the pests.

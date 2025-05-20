@@ -1,4 +1,4 @@
-﻿---
+---
 author: Isaac
 layout: post
 title: How to Exercise With Bad Knees to Lose Weight
@@ -9,10 +9,7 @@ tags: []
 slug: /how-to-exercise-with-bad-knees-to-lose-weight/
 lastmod: 2025-05-07T12:21:27+03:00
 ---
-> **We may earn a commission when you click and buy from Amazon.com.**
->
 
----
 In this post, Ill take you through different cardio workouts planned to assist you to lose weight, even when you have a bad knee - How to exercise with bad knees to lose weight.
 
 But first, the term
@@ -30,7 +27,7 @@ as they will improve your knees muscle quality and fight sarcopenia.
 
 Luckily, walking and light
 [running with the right footwear](https://pestpolicy.com/best-running-shoes-for-bad-knees/)
-and cushioned shoes is a non-pharmacologic therapy, and thus you wont need to take medications. Notably, walking has been wide studies and approved for the disabled and elderly population.
+and cushioned shoes�is a non-pharmacologic therapy, and thus you wont need to take medications. Notably, walking has been wide studies and approved for the disabled and elderly population.
 
 Further, taking long-term walking plans can largely improve your knee pain and body functioning and slows physical function declining, also among the disabled people.
 
@@ -57,3 +54,4 @@ Compared to other cardio exercises, swimming will have minimal stress on the bad
 Further, due to the reduced pain, youll find yourself working out longer in the water compared to other cardio training.
 ## Conclusion
 Therefore, if you are suffering from a specific condition or injury, you should know that not all the exercises we described will appropriate. Therefore, listen to your bodys reaction and follow your doctors recommendations, if are under some for that condition.
+

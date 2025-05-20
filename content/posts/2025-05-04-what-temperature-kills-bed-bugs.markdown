@@ -1,4 +1,4 @@
-﻿---
+---
 author: Isaac
 layout: post
 title: What Temperature Kills Bed Bugs?
@@ -9,10 +9,7 @@ tags: []
 slug: /what-temperature-kills-bed-bugs/
 lastmod: 2025-05-07T12:21:29+03:00
 ---
-> **We may earn a commission when you click and buy from Amazon.com.**
->
 
----
 Bed bugs are notorious for being resilient pests that can infest your home without you even noticing. One of the most effective ways to eliminate them is by using temperature to your advantage. Bed bugs cant survive extreme temperatures, and applying either heat or cold is an effective strategy to eradicate them.
 ## How Heat Can Kill Bed Bugs
 Bed bugs are sensitive to heat, and exposing them to temperatures above 113F (45C) for several minutes can kill them at all life stages, from eggs to adults. The heat needs to be sustained for at least 90 minutes to be effective, so using heat treatment methods like steam cleaning or using a heat chamber can be highly beneficial. However, it is important to monitor the temperature carefully, as exceeding 120F (49C) can damage your furniture and belongings.

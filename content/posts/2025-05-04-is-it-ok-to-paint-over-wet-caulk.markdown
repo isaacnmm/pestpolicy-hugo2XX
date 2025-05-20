@@ -1,4 +1,4 @@
-﻿---
+---
 author: Isaac
 layout: post
 title: Is it OK to paint over wet caulk?
@@ -9,10 +9,7 @@ tags: []
 slug: /is-it-ok-to-paint-over-wet-caulk/
 lastmod: 2025-05-07T12:21:28+03:00
 ---
-> **We may earn a commission when you click and buy from Amazon.com.**
->
 
----
 *When it comes to home improvement projects, caulking plays a crucial role in sealing gaps and preventing water damage. *
 *However, there may be instances where you find yourself wondering whether it's safe to paint over wet caulk. In this article, we will explore the ins and outs of this topic and provide you with all the necessary information to tackle this common dilemma.*
 **The Answer: Can You Paint Over Wet Caulk?**

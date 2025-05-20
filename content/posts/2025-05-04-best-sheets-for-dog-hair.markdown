@@ -1,4 +1,4 @@
-﻿---
+---
 author: Isaac
 layout: post
 title: Best Sheets for Dog Hair
@@ -9,10 +9,7 @@ tags: []
 slug: /best-sheets-for-dog-hair/
 lastmod: 2025-05-07T12:21:25+03:00
 ---
-> **We may earn a commission when you click and buy from Amazon.com.**
->
 
----
 Finding the best sheets to keep dog hair off your bed can be a challenge, but these highly rated options on Amazon make it easy. Designed with pet owners in mind, they combine practicality with comfort.
 ### Mellanni Bed Sheet Set
 The Mellanni sheets are made from high-quality brushed microfiber, known for being soft, durable, and resistant to dog hair. They are wrinkle-free, stain-resistant, and machine washable, making them perfect for pet-friendly households.

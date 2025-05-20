@@ -1,4 +1,4 @@
-﻿---
+---
 author: Isaac
 layout: post
 title: Wasp Control in Vancouver
@@ -11,10 +11,7 @@ tags: []
 slug: /wasp-control-in-vancouver/
 lastmod: 2025-05-07T12:21:28+03:00
 ---
-> **We may earn a commission when you click and buy from Amazon.com.**
->
 
----
 Wasps are a common sight in Vancouver during the warmer months. While they play a beneficial role in controlling other pest populations, they can become a serious nuisance and pose risks to human health.
 
 Wasps are known for their aggressive behavior, especially when they feel threatened or when their nest is disturbed. Stings from wasps can be painful and, in some cases, cause severe allergic reactions that require medical attention.

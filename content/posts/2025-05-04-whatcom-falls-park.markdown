@@ -1,4 +1,4 @@
-﻿---
+---
 author: Isaac
 layout: post
 title: Discover Whatcom Falls Park
@@ -10,10 +10,7 @@ tags: []
 slug: /whatcom-falls-park/
 lastmod: 2025-05-07T12:21:29+03:00
 ---
-> **We may earn a commission when you click and buy from Amazon.com.**
->
 
----
 ### Discover Whatcom Falls Park
 Nestled in the heart of Bellingham, WA, Whatcom Falls Park offers a serene escape from the hustle and bustle of daily life. Spanning over 240 acres, this park is a gem of natural beauty, providing a perfect blend of lush greenery, stunning waterfalls, and recreational activities.
 #### A Natural Wonderland

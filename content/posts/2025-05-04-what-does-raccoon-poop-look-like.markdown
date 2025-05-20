@@ -1,4 +1,4 @@
-﻿---
+---
 author: Isaac
 layout: post
 title: What Does Raccoon Poop Look Like Really?
@@ -10,16 +10,13 @@ tags: []
 slug: /what-does-raccoon-poop-look-like/
 lastmod: 2025-05-07T12:21:29+03:00
 ---
-> **We may earn a commission when you click and buy from Amazon.com.**
->
 
----
 Raccoons are nocturnal, thus it's difficult to spot them easily during the day. But,
 [raccoon poops and urine](https://pestpolicy.com/parasites/baylisascaris/resources/raccoonlatrines.pdf)
 smell are key indicators in case of invasion.
 **So, what does raccoon poop look like? Well, raccoon poop is brown in color (dark to light brown) and appears like an elongated pinky finger on the ground. **
 - **The poop's size is about 3 to 6 inches long. Raccoon droppings can be piled in a cluster form or slightly scattered within the area. **
-**Raccoon poop (fresh) has a strong odor that can be detected from a couple of feet away. Raccoon poop is very contagious as it houses roundworms and bacteria that transmit diseases such as hantavirus and histoplasmosis. **
+**Raccoon poop (fresh) has a strong odor that can be detected from a couple of feet away. Raccoon poop is very contagious as it houses roundworms and bacteria that transmit diseases such as hantavirus and histoplasmosis.�**
 [amazon bestseller="Best Raccoons Repellent" items="2" template="table"]
 https://www.youtube.com/watch?v=aY6q-C_XzrY
 ## Details: What Does Raccoon Poop Look Like?

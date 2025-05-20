@@ -1,4 +1,4 @@
-﻿---
+---
 author: Isaac
 layout: post
 title: Tacoma Art Museum
@@ -10,10 +10,7 @@ tags: []
 slug: /tacoma-art-museum/
 lastmod: 2025-05-07T12:21:28+03:00
 ---
-> **We may earn a commission when you click and buy from Amazon.com.**
->
 
----
 Tacoma, Washington, a city nestled in the picturesque Pacific Northwest, is not only renowned for its natural beauty but also for its vibrant cultural scene, of which the Tacoma Art Museum (TAM) stands as a proud cornerstone. Founded in 1935, TAM has evolved into a beacon of art and culture, enriching the community with its diverse collections and engaging exhibitions.
 **History and Mission**
 Established by a group of local art enthusiasts, TAM originally focused on collecting and promoting the art and artists of the Pacific Northwest. Over the decades, the museum has expanded its scope to include broader American and European art, while maintaining a strong commitment to showcasing the talent and creativity of the region.

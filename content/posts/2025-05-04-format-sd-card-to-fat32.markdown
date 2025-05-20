@@ -1,4 +1,4 @@
-﻿---
+---
 author: Isaac
 layout: post
 title: Format SD Card to FAT32
@@ -9,10 +9,7 @@ tags: []
 slug: /format-sd-card-to-fat32/
 lastmod: 2025-05-07T12:21:26+03:00
 ---
-> **We may earn a commission when you click and buy from Amazon.com.**
->
 
----
 Formatting an SD card to FAT32 is a common procedure, especially when you need to use the card with older devices or systems that require this specific file system. Below is a guide to help you format your SD card to FAT32 on different operating systems.
 ### 1. Why Format SD Card to FAT32?
 The FAT32 file system is widely supported by many devices, including digital cameras, gaming consoles, and older operating systems. Its also the default format for many devices such as Raspberry Pi, GoPro cameras, and other embedded systems. Some devices may not recognize SD cards formatted with NTFS or exFAT, making FAT32 the preferred choice.

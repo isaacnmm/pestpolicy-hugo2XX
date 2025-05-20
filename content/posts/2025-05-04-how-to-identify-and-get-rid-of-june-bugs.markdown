@@ -1,4 +1,4 @@
-﻿---
+---
 author: Isaac
 layout: post
 title: How to Identify and Get Rid of June Bugs
@@ -9,10 +9,7 @@ tags: []
 slug: /how-to-identify-and-get-rid-of-june-bugs/
 lastmod: 2025-05-07T12:21:27+03:00
 ---
-> **We may earn a commission when you click and buy from Amazon.com.**
->
 
----
 June bugs can be a nuisance in your garden and around your home, but identifying and controlling them is possible with the right strategies. Below, well explore how to recognize these pests and methods for effective removal.
 ### What Are June Bugs?
 June bugs, also known as May beetles, are large beetles belonging to the scarab family. They are most active during the late spring and summer months, feeding on leaves and plants, which can damage gardens and crops.

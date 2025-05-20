@@ -1,4 +1,4 @@
-﻿---
+---
 author: Isaac
 layout: post
 title: How Long Do Ticks Live on Humans?
@@ -10,10 +10,7 @@ tags: []
 slug: /how-long-do-ticks-live-on-humans/
 lastmod: 2025-05-07T12:21:27+03:00
 ---
-> **We may earn a commission when you click and buy from Amazon.com.**
->
 
----
 In this article, we'll tackle this question - how long do ticks live on humans? Definitely, longer engagement with ticks could result in infections and conditions such as
 [anemia just with flea infestations](https://pestpolicy.com/what-do-fleas-look-like/)
 .

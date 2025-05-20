@@ -1,4 +1,4 @@
-﻿---
+---
 author: Isaac
 layout: post
 title: How To Thin Acrylic Paint (Acrylics Paint)
@@ -9,10 +9,7 @@ tags: []
 slug: /how-to-thin-acrylic-paint/
 lastmod: 2025-05-07T12:21:28+03:00
 ---
-> **We may earn a commission when you click and buy from Amazon.com.**
->
 
----
 The paint application process doesnt only require a professional painter; having well-thinned paint is crucial in attaining the best quality paint finish.
 
 If you get it wrong when thinning, chances are that you wont attain an excellent finish coat. Perhaps you are wondering how to undertake paint thinning?
@@ -80,7 +77,7 @@ For further thinning instruction, consider checking the manufacturers directives
 > [Removing Acrylic Paint from Concrete](https://pestpolicy.com/how-to-remove-acrylic-paint-from-concrete/)
 ## How to Revive Dried Acrylic Paint
 Perhaps you have thinned too much acrylic paint and at a point, the paint begins to dry out before you are done with the application process.
-In this regard, you will need to revive the paint back to its original state before it forms a solid paint block. When reviving acrylic paint, you can either add little water, thinning medium or acrylic binder.
+In this regard, you will need to revive the paint back to its original state before it forms a solid paint block.�When reviving acrylic paint, you can either add little water, thinning medium or acrylic binder.
 More so, the choice of thinning medium to use should be compatible with the one used previously in that particular paint compound.
 Acrylic paint can only be revived when its about to dry  a completely dried acrylic paint is not possible to revive.
 You can actually prevent your paint from drying by covering the can with a piece of polyethylene paper or cloth. Alternatively, add little water or thinner and stir gently every time the paint begins to solidify.
@@ -131,3 +128,4 @@ To summarize, on how to thin acrylic paint, you start by selecting the tools & r
 Then, decide on which thinning solvent to use. You can either thin acrylic paint by using water (for acrylic-latex paint), acrylic binder, paint thinner, or pouring medium.
 You must stick to instructions and procedures highlighted in this article when using either of the above methods in order to attain the best quality acrylic solvent.
 In addition, its advisable to check on the paint labels (on the package) to gain more information and thinning directives from the manufacturer.
+

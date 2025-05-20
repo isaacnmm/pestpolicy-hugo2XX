@@ -1,4 +1,4 @@
-﻿---
+---
 author: Isaac
 layout: post
 title: How to Remove Soot from Walls
@@ -9,10 +9,7 @@ tags: []
 slug: /how-to-remove-soot-from-walls/
 lastmod: 2025-05-07T12:21:28+03:00
 ---
-> **We may earn a commission when you click and buy from Amazon.com.**
->
 
----
 Usually, kitchen walls and burnt surfaces are left with soot that kills the initial aesthetic appearance. Removing soot and
 [oil stains](https://pestpolicy.com/how-to-remove-oil-stains-from-wall-paint/)
 requires a professional approach and appropriate method.
@@ -121,7 +118,7 @@ Besides, the solvent kills adhesive forces between soot and wall surface thus en
 https://www.youtube.com/watch?v=Igfp7aqeSTA
 ## Best Homemade Soot Remover from Wall
 You can consider using either of the following homemade soot removers for your soot cleaning process:
-### Method 1: Using Vinegar  White Vinegar
+### Method 1:�Using Vinegar  White Vinegar
 Vinegar breaks both old and recent soot and kills the surface adhesive force upon application. But high vinegar concentration may damage painted walls.
 **Tools and Materials required**
 - Vinegar and sponge

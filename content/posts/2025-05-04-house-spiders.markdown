@@ -1,4 +1,4 @@
-﻿---
+---
 author: Isaac
 layout: post
 title: 'House Spiders: Causes, Bites & Control'
@@ -10,10 +10,7 @@ tags: []
 slug: /house-spiders/
 lastmod: 2025-05-07T12:21:27+03:00
 ---
-> **We may earn a commission when you click and buy from Amazon.com.**
->
 
----
 House Spiders (Parasteatoda tepidariorum) popular as the American house spider or common house spider are classified under the
 [Parasteatoda genus](https://edis.ifas.ufl.edu/pdf/IN/IN39400.pdf)
 .

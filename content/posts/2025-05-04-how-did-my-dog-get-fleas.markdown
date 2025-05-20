@@ -1,4 +1,4 @@
-﻿---
+---
 author: Isaac
 layout: post
 title: How Did My Dog Get Fleas?
@@ -10,10 +10,7 @@ tags: []
 slug: /how-did-my-dog-get-fleas/
 lastmod: 2025-05-07T12:21:27+03:00
 ---
-> **We may earn a commission when you click and buy from Amazon.com.**
->
 
----
 Recently, I noticed my neighbor's dog scratching and upon further inspection, I have served simply that on them.
 - So my neighbor's biggest question was how did my dog get fleas this is a question. Has it become a flea magnet? This is a question I'll be answering in this article.
 **But in brief, dogs can get fleas from other animals such as foxes, raccoons, and rodents, or from the house (from flea-infested blankets, rugs, and bedding), or even in outdoor spaces such as the neighbor's yard, or flea-infested kennels. **

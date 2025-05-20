@@ -1,4 +1,4 @@
-ï»¿---
+---
 author: Isaac
 layout: post
 title: Can Dog Fleas Transfer to Humans?
@@ -10,10 +10,7 @@ tags: []
 slug: /can-dog-fleas-transfer-to-humans/
 lastmod: 2025-05-07T12:21:26+03:00
 ---
-> **We may earn a commission when you click and buy from Amazon.com.**
->
 
----
 Recently my friend, Jane, got a healthy-looking dog.
 **Sadly**
 , the dog was flea-infested. Jane applied
@@ -22,19 +19,19 @@ on the dog to save the situation.
 But, she's still worried whether "Dog Fleas Transfer to Humans?" Can the bugs jump/ bite him, his kids, or his wife? I seek to answer these questions in this short post.
 **The simple answer is Yes**
 .
-[Dog fleas (CtenocephalidesÂ canis](https://pestpolicy.com/best-flea-combs-for-dogs/)
+[Dog fleas (Ctenocephalides canis](https://pestpolicy.com/best-flea-combs-for-dogs/)
 ) will sometimes jump onto humans, bite them and suck blood - although they mainly suck blood from dogs and cats.
 Scientific research
 [shows](https://pestpolicy.com/)
 that fleas will quickly move to another and
 [hitchhike people as they move to other houses](https://pestpolicy.com/can-humans-carry-fleas-from-one-home-to-another/)
-,Â just like the
+, just like the
 [over 2,000 flea species](https://ohioline.osu.edu/factsheet/HYG-2081-11)
 .
 [amazon bestseller="Best Fleas Killers" items="2" template="table"]
 ## Can Dog Fleas Transfer to Humans? People's hair?
 A
-[quick google search on whetherÂ Can Dog Fleas](https://pestpolicy.com/how-to-kill-flea-eggs/)
+[quick google search on whether Can Dog Fleas](https://pestpolicy.com/how-to-kill-flea-eggs/)
 Transfer to Humans - most related information available online is false. Some articles claim that only dog fleas (Ctenocephalides canis) attack canines and that only the
 *Pulex irritans *
 can
@@ -43,7 +40,7 @@ beings.
 *Pulex irritans*
 feed on blood (humans, dogs, and cats) and will bite human beings (leaving itchy red bumps ) and only
 *survive on human blood. *
-*FleasÂ *
+*Fleas *
 transmit tapeworms, cause flea allergy dermatitis (FAD) and anemia. Control
 [fleas on clothes](https://pestpolicy.com/how-to-get-rid-of-fleas-on-clothes-and-bedding/)
 and

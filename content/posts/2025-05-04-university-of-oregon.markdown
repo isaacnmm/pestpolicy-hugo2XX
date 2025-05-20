@@ -1,4 +1,4 @@
-﻿---
+---
 author: Isaac
 layout: post
 title: University of Oregon
@@ -10,10 +10,7 @@ tags: []
 slug: /university-of-oregon/
 lastmod: 2025-05-07T12:21:28+03:00
 ---
-> **We may earn a commission when you click and buy from Amazon.com.**
->
 
----
 The University of Oregon (UO), located in Eugene, is a prominent public research university known for its commitment to academic excellence, innovation, and sustainability.
 
 Established in 1876, UO has grown into a vibrant institution that attracts students from across the globe. With its diverse academic offerings, state-of-the-art facilities, and rich cultural heritage, the University of Oregon stands as a beacon of higher education in the Pacific Northwest.

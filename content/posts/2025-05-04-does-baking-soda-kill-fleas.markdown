@@ -1,4 +1,4 @@
-﻿---
+---
 author: Isaac
 layout: post
 title: Does Baking Soda Kill Fleas? Natural
@@ -10,10 +10,7 @@ tags: []
 slug: /does-baking-soda-kill-fleas/
 lastmod: 2025-05-07T12:21:26+03:00
 ---
-> **We may earn a commission when you click and buy from Amazon.com.**
->
 
----
 Does baking soda kill
 [fleas](https://pestpolicy.com/what-do-fleas-look-like/)
 ? You may have heard that baking soda can be used to kill fleas, but is there any truth to this statement? Previously, I outlined how to use

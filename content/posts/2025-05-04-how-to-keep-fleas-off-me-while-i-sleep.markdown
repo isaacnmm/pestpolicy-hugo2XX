@@ -1,4 +1,4 @@
-﻿---
+---
 author: Isaac
 layout: post
 title: How to Keep Fleas off Me While I Sleep
@@ -10,10 +10,7 @@ tags: []
 slug: /how-to-keep-fleas-off-me-while-i-sleep/
 lastmod: 2025-05-07T12:21:27+03:00
 ---
-> **We may earn a commission when you click and buy from Amazon.com.**
->
 
----
 When fleas jump onto your bed they'll make your sleep comfortable and queen inflict flea bites that are painful.
 
 So, you ask, how to keep fleas off me while I sleep? In brief, cover your skin with long-sleeve and clothing (pants and socks), and treat the gear and clothing with 0.5% permethrin-containing flea control products.

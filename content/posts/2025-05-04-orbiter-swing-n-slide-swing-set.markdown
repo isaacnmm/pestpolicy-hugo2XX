@@ -1,4 +1,4 @@
-﻿---
+---
 author: Isaac
 layout: post
 title: Orbiter Swing-N-Slide Swing Set
@@ -9,10 +9,7 @@ tags: []
 slug: /orbiter-swing-n-slide-swing-set/
 lastmod: 2025-05-07T12:21:28+03:00
 ---
-> **We may earn a commission when you click and buy from Amazon.com.**
->
 
----
 Orbiter Swing-N-Slide is a more massive playset compared to other regular options. However, the playset offers superior quality
 [play options](https://www.csub.edu/~lwildman/21st_Schools/documents/Sch14.htm)
 at a reasonable price.
@@ -51,3 +48,4 @@ Pros:
 
 Cons:
 - Swing styles are few.
+

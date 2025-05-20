@@ -1,4 +1,4 @@
-﻿---
+---
 author: Isaac
 layout: post
 title: How to Thin Latex Paint for HVLP
@@ -9,10 +9,7 @@ tags: []
 slug: /how-to-thin-latex-paint-for-hvlp/
 lastmod: 2025-05-07T12:21:28+03:00
 ---
-> **We may earn a commission when you click and buy from Amazon.com.**
->
 
----
 If you own a high volume low pressure
 [(HVLP) spray painter](https://pestpolicy.com/best-hvlp-paint-sprayer-for-latex-paint/)
 ; then, appropriate paint thinning is paramount in order to attain excellent paint flow rate and avoid spray gun blockage during the paint application process.
@@ -128,3 +125,4 @@ Latex paints are manufactured in different thicknesses as per intended purposes.
 Therefore, when thinning, you will need to select the right latex paint that matches your HVLP sprayer to avoid unnecessary damage.
 Moreover, proper tools and materials should be put in place while instructions given by the manufacturer should be followed accordingly in order to attain suitable paint concentration.
 Importantly, wear the correct protective gear when thinning paint for your own safety purposes.
+

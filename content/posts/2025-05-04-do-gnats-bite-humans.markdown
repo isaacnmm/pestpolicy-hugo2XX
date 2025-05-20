@@ -1,4 +1,4 @@
-﻿---
+---
 author: Isaac
 layout: post
 title: Do Gnats Bite Humans?
@@ -10,15 +10,12 @@ tags: []
 slug: /do-gnats-bite-humans/
 lastmod: 2025-05-07T12:21:26+03:00
 ---
-> **We may earn a commission when you click and buy from Amazon.com.**
->
 
----
 Gnat bite transmits diseases such as carrison, sandy fever, and river blindness among others. Therefore,
 [preventive measures](https://pestpolicy.com/best-gnat-repellents/)
 should be undertaken whatsoever. So, can gnats bite really! How and why, if so?
 - **Well, YES! the female gnats will bite humans & animals (to feed on blood). But male gnats don't bite humans since they feed on plant juice and flower nectar. **
-- **Unlike bees and wasps, gnats don't sting (the insects have a jagged saw-like mouthpiece that cuts through the skin when sucking blood). **
+- **Unlike bees and wasps, gnats don't sting (the insects have a jagged saw-like mouthpiece that cuts through the skin when sucking blood).�**
 Usually, a Gnat bite appears like a tiny reddish spot with moderate swelling on your skin surface. The swelling is itchy and very painful, especially when touched. The pain and swelling may take over a week to heal.
 [amazon bestseller="Best Repellents for Gnats" items="2" template="table"]
 Related:

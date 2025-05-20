@@ -1,4 +1,4 @@
-ï»¿---
+---
 author: Isaac
 layout: post
 title: Can I Freeze Roaches to Death? Cold Treatment?
@@ -10,16 +10,13 @@ tags: []
 slug: /freeze-roaches-to-death/
 lastmod: 2025-05-07T12:21:26+03:00
 ---
-> **We may earn a commission when you click and buy from Amazon.com.**
->
 
----
 [Cockroaches](https://en.wikipedia.org/wiki/Cockroach)
 are unwelcome visitors in our homes - these
 [ear mites will even attack humans](https://pestpolicy.com/can-humans-get-ear-mites-from-dogs/)
 . Majority of roaches hibernate during winter to maintain their warmth. But, some remain active and get into our homes.
-**But can I freeze roaches to death? Yes. While this may sound like a lame suggestion, its a low-risk control tactic that wont cost you a dime. Why? Cockroaches die when temperatures fall to a certain level.Â Â **
-## **Details: Can I Freeze Roaches to Death?Â **
+**But can I freeze roaches to death? Yes. While this may sound like a lame suggestion, its a low-risk control tactic that wont cost you a dime. Why? Cockroaches die when temperatures fall to a certain level.  **
+## **Details: Can I Freeze Roaches to Death? **
 Roaches prefer temperatures between 25-30 degrees Celsius. When they fall below this level, the roaches will move to a warmer place. This explains why infestations are high in spring and summer.
 
 Although roaches are cold-blooded, they cant make the transition from room temperature to an extremely cold environment in a matter of seconds. Also, you can consider the
@@ -54,7 +51,7 @@ When temperatures fall below 0 degrees F, the roaches will die within half an ho
 [cockroaches come out at night?](https://pestpolicy.com/why-do-cockroaches-come-out-at-night/)
 ## What Do Roaches Do During Winter?
 You may see a few running under the carpets but most of them will move to the kitchen. Here, they can eat and mate just like in normal temperatures. When the temperature rises again, you can easily spot them.
-**Can Roaches infestation during winter season?Â Yes. This happens when they get inside our homes and hide in a warm place. When its too cold, we use heaters to keep our homes warm.Â **
+**Can Roaches infestation during winter season? Yes. This happens when they get inside our homes and hide in a warm place. When its too cold, we use heaters to keep our homes warm. **
 That way, we create a favorable environment where roaches can live. And because roaches are nocturnal, they hide in crevices and behind kitchen appliances.
 Related:
 [Do Cockroaches Eat Bed Bugs?](https://pestpolicy.com/do-cockroaches-eat-bed-bugs/)
@@ -65,7 +62,7 @@ Because you cant freeze the entire house, you should trap the roaches in a seale
 ## Other approaches to deal with roaches infestation
 Whether its summer or winter season, there are many ways of eliminating roaches from your home.
 
-They include: Baits and traps.Â You should place them in strategic places where you spot the roaches frequently.
+They include: Baits and traps. You should place them in strategic places where you spot the roaches frequently.
 
 Vacuuming - It should be emptied immediately to ensure the roaches dont escape. Also, you can use diatomaceous earth or boric acid.
 ## Red flags of a cockroach infestation:

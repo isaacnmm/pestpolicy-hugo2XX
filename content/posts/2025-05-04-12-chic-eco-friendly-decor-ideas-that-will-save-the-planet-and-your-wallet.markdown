@@ -1,4 +1,4 @@
-﻿---
+---
 author: Isaac
 layout: post
 title: 12 Chic Eco-Friendly Decor Ideas That Will Save the Planet and Your Wallet!
@@ -10,10 +10,7 @@ tags: []
 slug: /12-chic-eco-friendly-decor-ideas-that-will-save-the-planet-and-your-wallet/
 lastmod: 2025-05-07T12:21:23+03:00
 ---
-> **We may earn a commission when you click and buy from Amazon.com.**
->
 
----
 Transform your living space into an eco-friendly sanctuary with these 12 stylish decor ideas.
 
 Not only will they elevate your home aesthetics, but they also promote sustainability, proving that chic design and environmental consciousness can go hand in hand.
@@ -86,3 +83,4 @@ Embracing eco-friendly decor is not just a trend; it's a lifestyle that reflects
 With these chic ideas, you can create a beautiful home that aligns with your values while being kind to your wallet.
 
 Which of these ideas will you incorporate into your space?
+

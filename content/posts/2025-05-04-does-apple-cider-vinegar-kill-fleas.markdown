@@ -1,4 +1,4 @@
-﻿---
+---
 author: Isaac
 layout: post
 title: Does Apple Cider Vinegar Kill Fleas??
@@ -10,10 +10,7 @@ tags: []
 slug: /does-apple-cider-vinegar-kill-fleas/
 lastmod: 2025-05-07T12:21:26+03:00
 ---
-> **We may earn a commission when you click and buy from Amazon.com.**
->
 
----
 Does apple cider vinegar kill fleas? To make your life and that of your pets as stress-free as possible, proper flea extermination is necessary.
 Summer is here, and unfortunately, it brings along a lot of flea activity plus the hatching of
 [flea eggs](https://pestpolicy.com/what-do-flea-eggs-look-like/)
@@ -59,7 +56,7 @@ Prepare soapy water in a bowl.
 **Step 8:**
 Add  or 1 cup of vinegar to the solution.
 **Step 9:**
-Use the flea comb again to groom your pet while consistently dipping it in the homemade dawn dish soap and vinegar solution for fleas. Treating your home.
+Use the flea comb again to groom your pet while consistently dipping it in the homemade dawn dish soap and vinegar solution for fleas.�Treating your home.
 Related:
 [Flea Eggs Vs. Dandruff: Tell the Difference?](https://pestpolicy.com/flea-eggs-vs-dandruff/)
 ## Dawn Dish Soap for Fleas in Carpet
@@ -155,3 +152,4 @@ One way to do this is regularly treating your yard. Remember to keep a bottle of
 Search the internet for other creative and effective ways to use Dawn dish soap and vinegar for fleas. You can also use Dawn dish soap for
 [fleas on puppies](https://pestpolicy.com/best-puppy-shampoo-for-fleas/)
 and kittens.
+

@@ -1,4 +1,4 @@
-ï»¿---
+---
 author: Isaac
 layout: post
 title: Does Baby Powder Kill Bed Bugs?
@@ -10,10 +10,7 @@ tags: []
 slug: /does-baby-powder-kill-bed-bugs/
 lastmod: 2025-05-07T12:21:26+03:00
 ---
-> **We may earn a commission when you click and buy from Amazon.com.**
->
 
----
 Sometimes, bed bug infestations can make you feel
 defeated. You'll consider many natural products like
 [essential oils](https://pestpolicy.com/essential-oils-for-bed-bugs/)
@@ -21,18 +18,18 @@ defeated. You'll consider many natural products like
 *d*
 *oes Baby Powder Kill Bed Bugs? *
 - ***The short answer is, NO, baby powder can't kill bed bugs. Baby powder will only irritate bed bugs or will only musk the scent from the bugs.***
-- ***However, the powder may kill the bed bugs only by trapping them.Â Related: Pictures of Bed Bugs.Â **
+- ***However, the powder may kill the bed bugs only by trapping them. Related: Pictures of Bed Bugs. **
 *
 [amazon bestseller="Best Bed Bugs Killers" items="2" template="table"]
 ## Does Baby Powder Kill Bed Bugs? DIY Bed Bug Treatment
-**Myth 1:Â **
+**Myth 1: **
 *Baby powder will dry the bed bugs skin*
-- Well, homeowners wrongly claim that baby powderÂ will work like
+- Well, homeowners wrongly claim that baby powder will work like
 [diatomaceous earth](https://pestpolicy.com/does-diatomaceous-earth-kill-bed-bugs/)
 - that it'll dry the bug's skin.
 You'd need to sprinkle the baby powder on floors, furniture, and mattress.
 - If it were true, the powder would dry out the bed bug's exoskeleton and thus dehydrate them - including[baby bed bugs](https://pestpolicy.com/baby-bed-bugs/).
-**Myth 2:Â **
+**Myth 2: **
 Locking bed bugs in containers with baby powder
 [will kill them](https://pestpolicy.com/does-lysol-kill-bed-bugs/)
 . This is partly true, but the bugs wont die from any
@@ -65,7 +62,7 @@ As noted above, a
 [bed bug trap will work well](https://pestpolicy.com/how-to-get-rid-of-bed-bugs-fast/)
 if created using baby powder having talcum - particularly when combined with some other ingredients.
 Dr. Changlu Wang put down this bed bug trap research from Rutgers University. Below are the retirements as outlined by the researcher:
-1. Masking tape,Â Gloves,Â Talcum baby powder,Â A cotton ball, and dry ice cubes
+1. Masking tape, Gloves, Talcum baby powder, A cotton ball, and dry ice cubes
 2. Thermos flask, flat-bottomed pet dish, and fabric that'll fully cover the pet dish's outer surface.
 So, let's dive into how actually to assemble this bed bug trap to achieve top effectiveness.
 1. Cover the out surface of the pet dish using the fabrics plus the glue from the masking tape. This enables the[bed bugs to climb](https://pestpolicy.com/bed-bug-bites-vs-mosquito-bites/)onto the pet dish.
@@ -84,7 +81,7 @@ Besides using baby powder, below are the other
 bed bugs. Check this
 [guide to check where bed bugs hide](https://pestpolicy.com/where-do-bed-bugs-hide/)
 .
-### 1. Bed BugÂ Aerosol Spray
+### 1. Bed Bug Aerosol Spray
 [Bed bugsprays](https://pestpolicy.com/proof-bed-bug-spray-review/)
 will be great insecticides that'll quickly get into the crevices and cracks.
 Using

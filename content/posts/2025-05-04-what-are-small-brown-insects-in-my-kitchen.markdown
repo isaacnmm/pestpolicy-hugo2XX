@@ -1,4 +1,4 @@
-﻿---
+---
 author: Isaac
 layout: post
 title: What Are Small Brown Insects In My Kitchen?
@@ -10,10 +10,7 @@ tags: []
 slug: /what-are-small-brown-insects-in-my-kitchen/
 lastmod: 2025-05-07T12:21:28+03:00
 ---
-> **We may earn a commission when you click and buy from Amazon.com.**
->
 
----
 What are
 [small brown insects in my kitchen](https://pestpolicy.com/pet-safe-roach-killer/)
 ? This is the right place for you because we have prepared the right answers to this question.

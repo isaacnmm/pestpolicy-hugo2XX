@@ -1,4 +1,4 @@
-﻿---
+---
 author: Isaac
 layout: post
 title: How to Get Rid of Ants Naturally Outside??
@@ -10,10 +10,7 @@ tags: []
 slug: /how-to-get-rid-of-ants-naturally-outside/
 lastmod: 2025-05-07T12:21:27+03:00
 ---
-> **We may earn a commission when you click and buy from Amazon.com.**
->
 
----
 The first and foremost step in killing
 [ants](https://en.wikipedia.org/wiki/Ant)
 is to identify their nests and try to destroy them. For this purpose, one can use boiling water, by pouring it over the ant colony.
@@ -147,3 +144,4 @@ Some of the other insects outside the house or in the garden can attract the ant
 1. [Ant Control for Householders  Entomology](https://entomology.ca.uky.edu/ef619)
 2. [Ants Management Guidelines--UC IPM](http://ipm.ucanr.edu/PMG/PESTNOTES/pn7411.html)
 3. [Ants in the Home - 5.518 - ExtensionExtension](http://extension.colostate.edu/topic-areas/insects/ants-in-the-home-5-518/)
+

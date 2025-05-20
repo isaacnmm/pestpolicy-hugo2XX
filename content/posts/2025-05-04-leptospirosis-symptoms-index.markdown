@@ -1,4 +1,4 @@
-﻿---
+---
 author: Isaac
 layout: post
 title: Leptospirosis Symptoms Index
@@ -9,10 +9,7 @@ tags: []
 slug: /leptospirosis-symptoms-index/
 lastmod: 2025-05-07T12:21:28+03:00
 ---
-> **We may earn a commission when you click and buy from Amazon.com.**
->
 
----
 Leptospirosis is a bacterial infection that can affect both humans and animals. It is caused by bacteria of the genus
 *Leptospira*
 , and can lead to severe symptoms or even death if left untreated. Understanding the symptoms of leptospirosis is essential for early detection and treatment. This index will help you identify the various symptoms of leptospirosis and understand the progression of the disease.

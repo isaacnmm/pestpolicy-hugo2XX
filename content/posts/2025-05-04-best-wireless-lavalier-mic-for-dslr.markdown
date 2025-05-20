@@ -1,4 +1,4 @@
-﻿---
+---
 author: Isaac
 layout: post
 title: 7 Best Wireless Lavalier Mic for DSLR 2025
@@ -9,10 +9,7 @@ tags: []
 slug: /best-wireless-lavalier-mic-for-dslr/
 lastmod: 2025-05-07T12:21:26+03:00
 ---
-> **We may earn a commission when you click and buy from Amazon.com.**
->
 
----
 For videography and photography, you'll require the best wireless lavalier mic for
 [DSLR camera (like for YouTubers)](https://pestpolicy.com/best-camera-for-youtube/)
 . They're suitable for churches, conferences, news reporters, podcasting, and sports anchors.
@@ -125,3 +122,4 @@ You'll love that the receiver and transmitter both have LCD displays with some b
 Further, with the XLR cable, the Saramonic UwMic9 mic will support the
 [XLR transmitter](https://en.wikipedia.org/wiki/XLR_connector)
 plus it has an amazing body-build quality.
+

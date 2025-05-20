@@ -1,4 +1,4 @@
-﻿---
+---
 author: Isaac
 layout: post
 title: Sanding Walls before Painting
@@ -9,10 +9,7 @@ tags: []
 slug: /sanding-walls-before-painting/
 lastmod: 2025-05-07T12:21:28+03:00
 ---
-> **We may earn a commission when you click and buy from Amazon.com.**
->
 
----
 You can use either a sanding block or some
 [sandpaper](https://pestpolicy.com/what-grit-sandpaper-for-primer-before-paint/)
 will help smoothen those uneven surfaces (particularly those with high-gloss and gloss paint), followed by simple wiping and drying.
@@ -77,8 +74,9 @@ Therefore, this step allows one to do away with the imperfections by filling the
 For the corners, use some sanding sponge - don't use a hand sander as it might lead to damage to the corners. You'll not achieve that crisp corner while also causing unwanted gouge scuff.
 But you can sand around a few inches on your corners using the hand sander. Finally, get your sanding paper or a sanding sponge to touch up your surfaces.
 So, to sand your corners using just a sponge as opposed to using the large-sized hand sanders since this could end up gouging your corners.
-## Step 7:  Final Light-Sanding
+## Step 7:� Final Light-Sanding
 The last step will involve some light-sanding of your surfaces using some light pressure - but don't sand the same spots using the straight-line technique.
 Such a process may leave unnecessary depression or groove - which will effectively show after you've painted. Avoid sanding on various openings and electrical boxes.
 ## Conclusion
 Therefore, you'll learn to prevent regular sanding mistakes while also getting the right outcomes on the drywall sanding project. This will clearly be a dusty and tedious job.
+

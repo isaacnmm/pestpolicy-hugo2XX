@@ -1,4 +1,4 @@
-ï»¿---
+---
 author: Isaac
 layout: post
 title: Does the Dryer Kill Fleas?
@@ -10,21 +10,18 @@ tags: []
 slug: /does-the-dryer-kill-fleas/
 lastmod: 2025-05-07T12:21:26+03:00
 ---
-> **We may earn a commission when you click and buy from Amazon.com.**
->
 
----
 Drying fabric or clothes at high temperatures is often prescribed to homeowners
 [killing bugs such as bed bugs](https://pestpolicy.com/what-temperature-kills-bed-bugs/)
-. ButÂ does the dryer kill fleas?
-- **Well, in summary, YES, the high temperatures in a dryer do kill fleas plus all their babies including eggs and flea larvae on your clothes, curtains, and bedding.Â **
-- **So, launder the clothing and other fabrics 10 minutes at temperatures of ~ 95F (35C). Finally, undertake the garment drying (at the highest temperature) to kill the fleas and other bugs.Â **
+. But does the dryer kill fleas?
+- **Well, in summary, YES, the high temperatures in a dryer do kill fleas plus all their babies including eggs and flea larvae on your clothes, curtains, and bedding. **
+- **So, launder the clothing and other fabrics 10 minutes at temperatures of ~ 95F (35C). Finally, undertake the garment drying (at the highest temperature) to kill the fleas and other bugs. **
 ## Details: Does The Dryer Kill Fleas?
 Besides killing the adult fleas,
 dryers will also exterminate flea eggs (on your fabric, clothes, stuffed animals, and bedding) prior to the hatching.
 - Fleas will largely get into your home via those pets -[treat these while controlling the fleas](https://pestpolicy.com/best-flea-treatment-for-cats/). The bugs will largely hide around your bedding, carpet, and various soft surfaces.
 To effectively control the fleas in your spaces, you'll require to wash and dry the washable items, plus flea-treat the pets and floors. Fleas will jump from the washed items into that hot dryer.
-## How toÂ Kill Fleas Using a Dryer?
+## How to Kill Fleas Using a Dryer?
 ### 1. Machine Wash the Clothes
 First, you'll need to machine-wash the clothes with the hottest allowable water for that fabric.
 - Further, ensure to only use the regular detergent.
@@ -62,11 +59,11 @@ For
 [the flea larvae](https://pestpolicy.com/what-do-flea-larvae-look-like/)
 , flea eggs, and eggs will drown and die in water - even better if the water is hot.
 But ensure you clean the pet's clothes and then bathe your pets for fleas - in addition to using these methods to kill the fleas on those pets.
-**a. Washer with Soapy Hot WaterÂ **
+**a. Washer with Soapy Hot Water **
 Use some effective bleach and detergent to exterminate those flea larvae, flea eggs, and adult fleas too.
 - Further, the dryer will produce turbulence to kill those fleasalso combined with its hot water.
 Therefore, the clothes washer won't exterminate the fleas without using the dryer - as the latter will produce extreme heat and turbulence.
-**b. Use Dish Soap + WaterÂ **
+**b. Use Dish Soap + Water **
 Next, use
 [dawn dish soap](https://pestpolicy.com/dawn-dish-soap-for-fleas/)
 to exterminate the remaining fleas - the fleas will drown due to the dish soap - these bugs are lightweight, and their body size is small.
@@ -79,7 +76,7 @@ clothes, and beddings.
 **a.**
 First, wash those fabrics you have for about ten minutes. Make sure the temperature at washing is around 140F - clean all the attire and beddings.
 **b.**
-Next, ensure to re-wash &Â re-wash the garments, fabrics, and bedding - this should be redone roughly 3 times - ensure the washer machine temperature is around 140F - wash for roughly 3-10 minutes.
+Next, ensure to re-wash & re-wash the garments, fabrics, and bedding - this should be redone roughly 3 times - ensure the washer machine temperature is around 140F - wash for roughly 3-10 minutes.
 
 The repeated washing will help clean the bugs and their eggs from the bedding and clothes before you kick start the drying process.
 **c.**

@@ -1,4 +1,4 @@
-ï»¿---
+---
 author: Isaac
 layout: post
 title: What Does Bed Bug Poop Look Like? 7 Tips
@@ -10,10 +10,7 @@ tags: []
 slug: /what-does-bed-bug-poop-look-like/
 lastmod: 2025-05-07T12:21:29+03:00
 ---
-> **We may earn a commission when you click and buy from Amazon.com.**
->
 
----
 *What does bed bug poop look like?*
 First, they're not solid and difficult to pick up - they'll readily smear like toothpaste since it looks like a liquid.
 [Bed bugs](https://nysipm.cornell.edu/whats-bugging-you/bed-bugs/bed-bug-faqs///)
@@ -22,7 +19,7 @@ will feed every 5 to 10 days and numb your pain using its anesthetic saliva (
 ). You may notice eggs,
 *feces*
 , and skin castings on bed or old box spring.
-**In summary, bed bug poop looks like tiny-spot clusters that you'll find on your bed. The feces are made up of digested blood - but they won't be red because the blood has dried. The feces appear darker, black, or rust-colored. Check quality bed bug sprays below.Â **
+**In summary, bed bug poop looks like tiny-spot clusters that you'll find on your bed. The feces are made up of digested blood - but they won't be red because the blood has dried. The feces appear darker, black, or rust-colored. Check quality bed bug sprays below. **
 [amazon bestseller="Best Bed Bug Spray" items="2" template="table"]
 ## What Does Bed Bug Poop Look Like? 7 Tips
 *When smeared on different surfaces, bed bug poop leaves some dark or pink-colored stains - mainly, it'll go smooth and tiny drop when not absorbed by your fabric. *
@@ -45,7 +42,7 @@ You'll rarely get bed bug feces on your sheets. The
 [bed bugs hide](https://pestpolicy.com/where-do-bed-bugs-hide/)
 under the mattress where they'll digest the blood and poop.
 Bed bugs don't catch illnesses from the bed bug poop, and hence they'll drop their feces everywhere - particularly on areas that they digest on under mattresses.
-### 2. Smooth -Â What[Does Bed Bug](https://pestpolicy.com/does-bleach-kill-bed-bugs/)Poop Feel Like?
+### 2. Smooth - What[Does Bed Bug](https://pestpolicy.com/does-bleach-kill-bed-bugs/)Poop Feel Like?
 Further, the fecal matter is smooth - compared to the
 [cockroach waste](https://pestpolicy.com/what-does-roach-poop-look-like/)
 that feels very granular. The feces will smear very quickly and thus stain chairs, sofas, furniture, drapes, bed sheets, mattresses.
@@ -121,4 +118,4 @@ Also,
 [bed bug](https://pestpolicy.com/does-lysol-kill-bed-bugs/)
 feces will soak in your fabrics to leave a regular and tiny stain. This will look anything like you dropped some ink drop on your bed sheet.
 Finally, bed bug poop will smear on your sheets to form a shape like that created by ink stains. Read Also:
-*Best mole traps.Â *
+*Best mole traps. *

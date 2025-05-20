@@ -1,4 +1,4 @@
-﻿---
+---
 author: Isaac
 layout: post
 title: Best Cushioned Running Shoes for Bad Knees
@@ -9,10 +9,7 @@ tags: []
 slug: /best-cushioned-running-shoes-for-bad-knees/
 lastmod: 2025-05-07T12:21:23+03:00
 ---
-> **We may earn a commission when you click and buy from Amazon.com.**
->
 
----
 Running is a great way to stay fit, but for individuals with bad knees, it can be a painful experience. The impact from running can put stress on your knee joints, leading to discomfort or even injury. One way to alleviate some of the strain is by wearing cushioned running shoes. These shoes provide extra support and cushioning to reduce the impact on your knees and help you run more comfortably.
 ## Best Cushioned Running Shoes for Bad Knees
 ### 1.[Brooks Glycerin 20](https://www.amazon.com/dp/B08Y5V95B4?tag=p-policy-20)

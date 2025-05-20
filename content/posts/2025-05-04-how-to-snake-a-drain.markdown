@@ -1,4 +1,4 @@
-ï»¿---
+---
 author: Isaac
 layout: post
 title: How to Snake a Drain (Quick Unclogging)
@@ -10,20 +10,17 @@ tags: []
 slug: /how-to-snake-a-drain/
 lastmod: 2025-05-07T12:21:28+03:00
 ---
-> **We may earn a commission when you click and buy from Amazon.com.**
->
 
----
 How to snake a drain? Sometimes you need a quick fix to your slow-moving drain. Or maybe pouring boiling water down the drain doesn't work anymore?
-- Well,[snaking your drain](https://pestpolicy.com/best-drain-snakes/)would be anÂ excellent option for this! But, while at it, other options include[using a plunger](https://pestpolicy.com/how-to-use-a-plunger/)or[drain cleaners](https://pestpolicy.com/best-drain-cleaner//).
+- Well,[snaking your drain](https://pestpolicy.com/best-drain-snakes/)would be an excellent option for this! But, while at it, other options include[using a plunger](https://pestpolicy.com/how-to-use-a-plunger/)or[drain cleaners](https://pestpolicy.com/best-drain-cleaner//).
 In the snaking process, you'd use the drain snake (also known as a drain auger, electric eel, or a toilet jack) to destroy clogs sitting down the drain.
 **See these drain snakes.**
 [amazon bestseller="Snake a Drain" items="2" template="table"]
-## **1. How to Unclog a Drain with a SnakeÂ **
+## **1. How to Unclog a Drain with a Snake **
 A
 [drain snake](https://pestpolicy.com/best-drain-snakes/)
 consists of a long coiled wire with a spiral spring, usually an inch thick with a handle on the other end. This tool`s working mechanism is the opposite of how a plunger operates.
-**Tools required:Â **
+**Tools required: **
 Hand gloves, Drain Auger, Pipe wrench or pliers or a screwdriver, and Towels or rags. The following are steps to be followed when snaking a
 [sink drain](https://pestpolicy.com/thrift-drain-cleaner-review/)
 .
@@ -46,7 +43,7 @@ Turning it in a clockwise direction leads to some clogs getting dismantled while
 This is done to prevent the clog from slipping back into the drain and place them into the bucket. Return the P-trap into its position and tighten the fasteners.
 **7. Run water down the sink to check whether the clogs have cleared from the drain.**
 When the operation is successful, the dislodged clog takes a few seconds to clear, after which water flows easily. If not successful, you can repeat the snaking operation or call a plumber for further assistance.
-## **2.Â **How to Snake a Shower Drain
+## **2. **How to Snake a Shower Drain
 Have you ever found yourself in the bathroom standing in a pool of water, trying to push the water using your legs? Embarrassing right?
 Soap residues materials like
 [hair in the bathtub](https://pestpolicy.com/how-to-unclog-a-bathtub-drain-with-standing-water/)

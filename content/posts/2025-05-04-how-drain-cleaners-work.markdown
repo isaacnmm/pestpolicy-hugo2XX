@@ -1,4 +1,4 @@
-ï»¿---
+---
 author: Isaac
 layout: post
 title: How Drain Cleaners Work (Unclogging) Plumbing
@@ -10,17 +10,14 @@ tags: []
 slug: /how-drain-cleaners-work/
 lastmod: 2025-05-07T12:21:27+03:00
 ---
-> **We may earn a commission when you click and buy from Amazon.com.**
->
 
----
 Cooking oil, hair, scum, soap, slime, and sludge can block drains leading to water obstruction or blockage.
 Today Im explaining how the
 [best drain cleaners](https://pestpolicy.com/best-drain-cleaner//)
 cut through standing water and eat up the organic matter in PVC and metal pipes. Recently, I discussed how to
 [unclog stagnant water in your bathtub](https://pestpolicy.com/how-to-unclog-a-bathtub-drain-with-standing-water/)
 .
-**Summary:Â Oxidizing drain cleaners (withÂ nitrate ions) utilize heat and gas to unclog drains while caustic drain cleaners generate hydroxide ions that clear the drain clog. It produces heat to break down the grease & oil. Here're the top drain cleaners.Â **
+**Summary: Oxidizing drain cleaners (with nitrate ions) utilize heat and gas to unclog drains while caustic drain cleaners generate hydroxide ions that clear the drain clog. It produces heat to break down the grease & oil. Here're the top drain cleaners. **
 [amazon bestseller="Best Drain Cleaners" items="2" template="table"]
 ## How Drain Cleaners Work (Unclogging) Plumbing
 Chemical drain clears produce heat and gas, which may melt the PVC pipes if not used according to label instructions. Further, you must keep the cleaners away from animals or children as they are dangerous if ingested.
@@ -35,10 +32,10 @@ The products may burn clothes or char mucous membranes, skin, and eyes. Precauti
 Their mechanism of action is by introducing hydronium ions (ion H3O+) to the
 [clogged drain](https://pestpolicy.com/dont-use-vinegar-and-baking-soda-to-clean-clogged-drains/)
 and thus attracts a majority of the electrons.
-**2. OxidizingÂ drain cleaners**
-: OxidizingÂ drain cleaners have nitrates, peroxides, and bleach. This chemical class of cleaners will oxidize the drain clog by extracting electrons from it.
+**2. Oxidizing drain cleaners**
+: Oxidizing drain cleaners have nitrates, peroxides, and bleach. This chemical class of cleaners will oxidize the drain clog by extracting electrons from it.
 Notably, being heavy compared to water, the chemical drain cleaner will settle at the bottom of any standing water, producing gas and heat that clears the clog.
-**3. CausticÂ drain cleaners**
+**3. Caustic drain cleaners**
 : These
 [types of chemical drain cleaners](https://pestpolicy.com/pure-lye-drain-opener-review/)
 have caustic potash and lye.

@@ -1,4 +1,4 @@
-﻿---
+---
 author: Isaac
 layout: post
 title: "How Does\_Capstar\_Work? Flea Treatment"
@@ -10,10 +10,7 @@ tags: []
 slug: /how-does-capstar-work-flea-treatment/
 lastmod: 2025-05-07T12:21:27+03:00
 ---
-> **We may earn a commission when you click and buy from Amazon.com.**
->
 
----
 If you need to keep fleas off your cats and dogs, then the Capstar Flea Tablets is highly recommended by pet owners and vets - even when you
 [sleep with flea-infested dogs in your bed](https://pestpolicy.com/dog-has-fleas-and-sleeps-in-my-bed/)
 .

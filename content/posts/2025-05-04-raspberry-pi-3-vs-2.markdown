@@ -1,4 +1,4 @@
-﻿---
+---
 author: Isaac
 layout: post
 title: Raspberry Pi 3 vs 2
@@ -9,10 +9,7 @@ tags: []
 slug: /raspberry-pi-3-vs-2/
 lastmod: 2025-05-07T12:21:28+03:00
 ---
-> **We may earn a commission when you click and buy from Amazon.com.**
->
 
----
 The Raspberry Pi 3 and Raspberry Pi 2 are both popular single-board computers used for various projects, ranging from home automation to robotics and media centers. However, the Raspberry Pi 3 comes with several improvements over its predecessor, the Raspberry Pi 2. Let's compare both models in terms of key specifications and features to help you choose the right one for your needs.
 ### 1. Processor
 - **Raspberry Pi 3**: The Pi 3 features a 1.2 GHz quad-core ARM Cortex-A53 processor. This is a significant upgrade from the Raspberry Pi 2 and provides better performance for handling multitasking and demanding applications.

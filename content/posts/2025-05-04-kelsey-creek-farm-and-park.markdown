@@ -1,4 +1,4 @@
-﻿---
+---
 author: Isaac
 layout: post
 title: Kelsey Creek Farm and Park
@@ -10,10 +10,7 @@ tags: []
 slug: /kelsey-creek-farm-and-park/
 lastmod: 2025-05-07T12:21:28+03:00
 ---
-> **We may earn a commission when you click and buy from Amazon.com.**
->
 
----
 Located in the heart of Bellevue, Washington, Kelsey Creek Farm and Park is a charming urban oasis that offers visitors a
 [unique blend of natural beauty](https://bellevuewa.gov/city-government/departments/parks/community-centers/kelsey-creek-farm)
 , historical significance, and educational opportunities.

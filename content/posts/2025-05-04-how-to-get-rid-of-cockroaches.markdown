@@ -1,4 +1,4 @@
-ï»¿---
+---
 author: Isaac
 layout: post
 title: How to Get Rid of Cockroaches - Kill Roaches
@@ -10,15 +10,12 @@ tags: []
 slug: /how-to-get-rid-of-cockroaches/
 lastmod: 2025-05-07T12:21:27+03:00
 ---
-> **We may earn a commission when you click and buy from Amazon.com.**
->
 
----
 A
 [cockroach infestation](https://extension.entm.purdue.edu/publications/E-23/E-23.html)
 is probably the hardest household to control. Besides being very sneaky, cockroaches breed very fast,
-[bite human beingsÂ when foodÂ sources are limited](https://pestpolicy.com/do-cockroaches-bite/)
-,Â  scared, and may even develop resistance to pesticides.
+[bite human beings when food sources are limited](https://pestpolicy.com/do-cockroaches-bite/)
+,  scared, and may even develop resistance to pesticides.
 But dont despair; there are different
 [best roach killers](https://pestpolicy.com/best-roach-killer-for-apartments/)
 . In this article, we discuss in detail some of the best ways to get rid of cockroaches fast.
@@ -55,16 +52,16 @@ Pesticide sprays contain active ingredients like Pyrethrin, which produce a knoc
 How to Use Baits, Sprays, and IGRs for Cockroaches
 - If using the combination, spray a small amount in targeted areas like cracks, crevices, behind and beneath the sinks, behind and under refrigerators around[pipes and drains](https://pestpolicy.com/sink-not-draining-but-pipes-clear/), etc.
 - Ensure the spray penetrates well to ensure the pests are quickly eliminated
-IGRs, on the other hand, cause sterility in adult roaches, making reproduction impossible.Â When used together, the three treatment methods can quickly eliminate any roaches lurking in your home.
+IGRs, on the other hand, cause sterility in adult roaches, making reproduction impossible. When used together, the three treatment methods can quickly eliminate any roaches lurking in your home.
 ### Step 3: Dust with Boric Acid Powder
 [Boric acid](https://pestpolicy.com/does-boric-acid-kill-roaches/)
 is one of the best natural remedies for eliminating roaches. When ingested,
 [boric acid](https://pestpolicy.com/harris-boric-acid-roach-powder-with-lure-review/)
-kills cockroaches in just a matter of minutes.Â Although highly toxic in cockroaches, boric acid is completely
+kills cockroaches in just a matter of minutes. Although highly toxic in cockroaches, boric acid is completely
 [safe for humans and pets](https://pestpolicy.com/pet-safe-roach-killer/)
 .
 The powder is best applied in areas where cockroaches are likely to walk through. Upon contact, the powder sticks on the cockroach and is absorbed into its body. Once inside, the acid destroys its digestive and nervous system, causing death.
-The cockroach may also die from ingesting the powder.Â Boric acid is a suitable natural
+The cockroach may also die from ingesting the powder. Boric acid is a suitable natural
 [cockroach treatment if pesticide sprays](https://pestpolicy.com/bengal-roach-spray-review/)
 and baits are not an option.
 How to Use Boric Acid for Cockroaches
@@ -79,14 +76,14 @@ Its not unlikely to find a few roaches in a clean home. As long as there are cra
 However, a clean home is more unlikely to experience a severe
 [roach infestation](https://pestpolicy.com/what-do-roaches-smell-like/)
 than a dirty and cluttered home.
-Even with countless treatments, roaches will still infest your cluttered home.Â Regularly vacuuming and decluttering your
+Even with countless treatments, roaches will still infest your cluttered home. Regularly vacuuming and decluttering your
 [home is key to keeping these bugs](https://pestpolicy.com/does-vinegar-kill-bed-bugs/)
 at bay.
 How to Get rid of Cockroaches Through Vacuuming/Cleaning
 - Regularly vacuum and clean the floor, kitchen countertops, drawers, cabinets, insider appliances, behind and under the refrigerator, ovens, and other areas.
 - Declutter your kitchen, sitting area, laundry room, closets, cupboards, drawers, and any other potential hiding place.
 - Vacuum behind the seat cushions, behind sofasetc
-## **How to Get Rid Of German CockroachesÂ **
+## **How to Get Rid Of German Cockroaches **
 [German cockroach](https://en.wikipedia.org/wiki/German_cockroach)
 (Blatella germanica (L.)) is a widely distributed pest mostly found in homes, the best roach killer for apartments, and the roach bomb hotels, restaurants, and other institutions.
 If your home is infested with German cockroaches, you may see them running away immediately, you turn on lights or open the cabinet door. And since these cockroaches are known to spread germs that cause allergic reactions, its vital to eliminate them as fast as possible.
@@ -99,7 +96,7 @@ to get rid of German cockroaches. But first, well give a summary of the German c
 We have discovered that German roaches thrive best where there are favorable conditions like good humidity, food, shelter, and water.
 Unfortunately, your house offers all these favorable conditions.
 To get rid of the German roaches in your house, keep all kitchen and bathroom surfaces and sinks clean and dry. Wash all your cabinets and appliances regularly. You should also pay close attention to your backyard by removing all unused items or woodpiles.
-You can also install a dehumidifier in your home. Â When your house is less humid, the German cockroaches will find it less attractive to settle in it.
+You can also install a dehumidifier in your home.  When your house is less humid, the German cockroaches will find it less attractive to settle in it.
 Also, ensure you store food in airtight containers. Also, throw away your garbage regularly. Set aside time to do general cleaning in your house; you may mop, sweep, or vacuum regularly.
 **Remember To**
 : (1)
@@ -108,7 +105,7 @@ Keep the roaches hungry-put foods in tight containers and eliminate leftovers (1
 Do not offer them any shelter- seal all cracks and small holes in your house.
 Besides cleaning, you can also seal all cracks and small holes in your home to block all pathways the bugs might be using to access your home.
 If these measures are followed correctly, your house will be roach free. However, if the German cockroaches still find their way into your house, then its time to take more drastic measures to eliminate these annoying creatures!!
-**What are German cockroaches?Â **
+**What are German cockroaches? **
 The German cockroach has a unique ability of high reproduction compared to other cockroach species. The female German
 [cockroaches produce many eggs](https://pestpolicy.com/how-to-kill-cockroach-eggs/)
 per capsule; thus, they undergo a short time from hatching to sexual maturity, leading to quick population growth.
@@ -117,12 +114,12 @@ Like most cockroaches, German roaches prefer to settle in warm and dark places. 
 of food, water, and harborage increases the German roach's ability to develop populations and reduce growth quickly.
 This disgusting creature loves to settle in an environment that is moist, warm, and dark. Hence, they are mostly found in bathrooms and kitchens where water and food leftovers are readily available. German roaches are scavengers that consume sweet foods, meat, grease, and garbage.
 To eradicate these tiny creatures from your home, you should always keep kitchen surfaces clean,
-[useÂ drain cleaners](https://pestpolicy.com/is-drain-cleaner-an-acid-or-base/)
+[use drain cleaners](https://pestpolicy.com/is-drain-cleaner-an-acid-or-base/)
 to keep all drainage and pipes clean, and repair leaking pipes. You can also fix all cracks and small holes where they are likely to hide.
 ### Step 2: Use baking soda plus sugar to kill German Roaches
 Using
 [baking soda and sugar](https://books.google.co.ke/books?id=4j8n8hIBEa0C&printsec=frontcover&dq=baking+soda+German+Roaches&hl=en&sa=X&redir_esc=y#v=onepage&q=baking%20soda%20German%20Roaches&f=false)
-is a natural and effective home remedy to kill German roaches. Sugar acts as an important bait for a German cockroach as it likes sweet products. OnÂ the other hand, the baking soda acts as a poison that destroys the roaches digestive system.
+is a natural and effective home remedy to kill German roaches. Sugar acts as an important bait for a German cockroach as it likes sweet products. On the other hand, the baking soda acts as a poison that destroys the roaches digestive system.
 [Baking soda](https://pestpolicy.com/does-baking-soda-kill-fleas/)
 works by creating huge amounts of gas, causing the stomach of roaches to burst, hence die instantly.
 When using this mixture, ensure the cockroaches have access to little water. Water reacts with baking soda to give a bad solution that acts on
@@ -172,7 +169,7 @@ How Should You Use Boric Acid To Eliminate German Roaches?
 - Place a fine layer of the boric acid mixture near cracks or openings where roaches are dwelling or feeding
 - Replace the powder after every five days until you eliminate all roaches.
 - Ensure you put the boric acid in high places like on top of cabinets or rooftops if possible. Cockroaches prefer high places; therefore, placing boric acid at higher paces wont waste time.
-### Step 4:Â Mint oil spray naturally kills German Roaches
+### Step 4: Mint oil spray naturally kills German Roaches
 Mint oil is also a proven natural remedy that can effectively kill German roaches in your home. Mint oil has strong repellent formulations and is known to be very toxic to German cockroaches.
 Apart from leaving pleasant smells on surfaces, mint oil also eradicates all germs and bacteria left behind by the German roaches.
 Recent research endorses the effectiveness and importance of mint oil in eliminating German roaches. Mint oil is a powerful natural home remedy for getting rid of German cockroaches.
@@ -183,7 +180,7 @@ German Roaches?
 -- Identify where the German roaches are hiding or their common pathways
 -- Shake the spray bottle properly and spray in all areas you have identified
 -- Continue spreading the identified regions daily until the German roaches get killed.
-### Step 5:Â Catnip naturally eradicates German Roaches
+### Step 5: Catnip naturally eradicates German Roaches
 Catnip is a natural
 [pest repellent](https://pestpolicy.com/best-ultrasonic-pest-repellers/)
 and contains insecticidal properties that aid in killing roaches.
@@ -201,7 +198,7 @@ How Can You Use Bay Leaves To Eradicate Roaches?
 -- Sprinkle the powder in all areas roaches are likely to inhabit
 -- Within a short period, the roaches will leave their habitat and relocate to some other places where the environment is conducive for them.
 ## **Conclusion**
-Cockroaches are not only stubborn and unsightly- but they are also disease carriers and can be dangerous to have around.Â Dont wait till the infestation gets out of hand.
+Cockroaches are not only stubborn and unsightly- but they are also disease carriers and can be dangerous to have around. Dont wait till the infestation gets out of hand.
 These useful ways on how to get rid of cockroaches will help you banish them for good.
 German roaches are familiar household creatures and are among the most challenging roach species to eradicate.
 However, with the above-discussed tips on the best home remedy to

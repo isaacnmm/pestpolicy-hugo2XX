@@ -1,4 +1,4 @@
-ï»¿---
+---
 author: Isaac
 layout: post
 title: 9 Best Flea Spray for Home 2025 Reviewed
@@ -10,10 +10,7 @@ tags: []
 slug: /best-flea-spray-for-home/
 lastmod: 2025-05-07T12:21:23+03:00
 ---
-> **We may earn a commission when you click and buy from Amazon.com.**
->
 
----
 Looking for the best flea spray for your home? Say no more! In this post, Ill discuss that and other related questions.
 - [Flea bites and flea infestations](https://pestpolicy.com/can-fleas-live-on-clothes/)are everyday problems for most pet owners. The bugs will jump from one pet to another or the[yard](https://pestpolicy.com/best-flea-spray-for-yard/)while spreading diseases.
 A suitable flea spray will exterminate the adult
@@ -54,7 +51,7 @@ It comprises two active ingredients- peppermint (30%) and Eugenol (70%), which i
 , repel fleas and ticks.
 It is also able to
 [kill flea larvae and eggs](https://pestpolicy.com/how-to-kill-flea-eggs/)
-, ticks as well as mosquitoes.Â Vets Best
+, ticks as well as mosquitoes. Vets Best
 [Flea and Tick home](https://pestpolicy.com/home-remedies-for-fleas/)
 spray are available in a 32-ounce pack and an 8-ounce pack.
 Vets Best
@@ -123,7 +120,7 @@ It leaves no sticky mess and stains, and the smell is not too strong for humans 
 With just a single can (20oz) of
 [flea tick professional pest control](https://pestpolicy.com/diatomaceous-earth-for-fleas/)
 , you get rid of any flea infestation in your home and prevent any further infestation from occurring.
-- It covers an area of almost 2625 square feet. The active ingredients that make this possible are Permethrin,Â  Pyriproxyfen, an IGR, and Pyrethrins.
+- It covers an area of almost 2625 square feet. The active ingredients that make this possible are Permethrin,  Pyriproxyfen, an IGR, and Pyrethrins.
 - They work by inhibiting the reproduction cycle of[fleas and killing](https://pestpolicy.com/does-salt-kill-fleas/)adult fleas instantly.
 This combination is highly effective in getting
 [rid of fleas](https://pestpolicy.com/how-to-get-rid-of-fleas-on-clothes-and-bedding/)

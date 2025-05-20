@@ -1,4 +1,4 @@
-ï»¿---
+---
 author: Isaac
 layout: post
 title: What is an oboe?
@@ -9,34 +9,31 @@ tags: []
 slug: /what-is-an-oboe/
 lastmod: 2025-05-07T12:21:29+03:00
 ---
-> **We may earn a commission when you click and buy from Amazon.com.**
->
 
----
 The World Guinness Records documents oboe and French horn are the hardest instruments of all to play. But, what is an oboe? How will it fit into your solo work on the orchestra?
-Well, I have to state that the French horn is difficult to play but the oboe - woodwind instrument - is the hardest.Â By definition, the OboeÂ  the treble instrument - (pronounced as
+Well, I have to state that the French horn is difficult to play but the oboe - woodwind instrument - is the hardest. By definition, the Oboe  the treble instrument - (pronounced as
 *OH-boh*
 ) is a
 [woodwind instruments](https://en.wikipedia.org/wiki/Woodwind_instrument)
 , double-reed mouthpiece to be specific.
-Well, the regular oboe would play the soprano or treble range. Notably, Oboes can be made from synthetic materials but mainly wood is the main material.Â Read Also:
+Well, the regular oboe would play the soprano or treble range. Notably, Oboes can be made from synthetic materials but mainly wood is the main material. Read Also:
 [SD Card for Raspberry Pi 3](https://pestpolicy.com/best-sd-card-for-raspberry-pi-3/)
-## OboeÂ definition
-**In short: an oboe is a kind ofÂ reed made from 2 piecesÂ of cane that vibrate against each other, and thusÂ create a sound just like in otherÂ woodwind instruments such as theÂ bassoon andÂ English horn.Â **
-1. **Origin of Instrument:Â Western EuropeÂ **
-2. **Family of oboe:Â Double reed,Â Woodwinds, & Wind instrumentÂ **
-3. **Invention Date:Â Mid 1700'sÂ **
+## Oboe definition
+**In short: an oboe is a kind of reed made from 2 pieces of cane that vibrate against each other, and thus create a sound just like in other woodwind instruments such as the bassoon and English horn. **
+1. **Origin of Instrument: Western Europe **
+2. **Family of oboe: Double reed, Woodwinds, & Wind instrument **
+3. **Invention Date: Mid 1700's **
 4. **A close relation to Piccolo OBO & Bass oboe**
 Your regular soprano oboe will be about 25
 1
 
 2
-inches (0.65Â m) long and has a flared bell, a conicalÂ bore, and some metalÂ keys.
+inches (0.65 m) long and has a flared bell, a conical bore, and some metal keys.
 The Oboe produces sounds when you blow air into the reed at an appropriate pressure, which makes it vibrate together with the present air column.
 Oboe is mainly as a solo instrument, in folk music, chamber music, orchestras, and concert bands.
-## History of theÂ oboe
-OboeÂ history & oboeÂ music
-The oboe began its life in the middle Ages like a Shan. Â The oboe holds a long history. Early pictorial examples of a double-reed instrument that resemble the oboe were discovered in Samaria dating back to 2800 BC.
+## History of the oboe
+Oboe history & oboe music
+The oboe began its life in the middle Ages like a Shan.  The oboe holds a long history. Early pictorial examples of a double-reed instrument that resemble the oboe were discovered in Samaria dating back to 2800 BC.
 Under the reign of arts benefactor Louis XIV, 3 names stand out that were to play a critical role in the development of the oboe: these were (1) the virtuous woodwind player of
 **Michelle Philidor**
 , (2) the composer
@@ -76,14 +73,14 @@ octave key under your left-hand thumb and its utilized to access former range. H
 #### 4. Finger Keys
 #### 5. The Reed
 #### 6. The Staple
-OboeÂ sound and facts
+Oboe sound and facts
 ### How To Play the Oboe: Beginner's Guide
 ## Resources
 1.
 [Bibliographies & Guides to the Oboe Repertoire](https://researchguides.uoregon.edu/oboe/bibliographies)
 2.
 [Oboe reed investigations](https://eprints.utas.edu.au/12400/)
--Â University of Tasmania
+- University of Tasmania
 3.
 [A Study of Oboe Reeds](https://scholarworks.gvsu.edu/cgi/viewcontent.cgi?article=1119&context=sss)
--Â Grand Valley State University
+- Grand Valley State University

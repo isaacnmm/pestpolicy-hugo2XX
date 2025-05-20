@@ -1,4 +1,4 @@
-﻿---
+---
 author: Isaac
 layout: post
 title: How to Kill Fleas on Dogs Naturally
@@ -10,10 +10,7 @@ tags: []
 slug: /how-to-kill-fleas-on-dogs-naturally-safe-and-fast/
 lastmod: 2025-05-07T12:21:27+03:00
 ---
-> **We may earn a commission when you click and buy from Amazon.com.**
->
 
----
 Natural flea control methods will not leave
 [dangerous chemical residues](https://www.nrdc.org/sites/default/files/poisonsonpets.pdf)
 on your dogs fur.
@@ -73,7 +70,7 @@ In its powdered form, borax is regularly employed in many cleaning agents. My re
 [Borax will kill fleas](https://pestpolicy.com/borax-flea-killer/)
 by incising the bugs exoskeleton and dehydrating their body hence killing them. Despite that, borax is great in killing flea larvae, too; it does not
 [eliminate flea eggs on cats and dogs](https://pestpolicy.com/how-to-get-rid-of-flea-eggs-on-cats/)
-but can be
+but�can be
 [mixed to create a spray for yard flea spray](https://pestpolicy.com/best-flea-spray-for-yard/)
 .
 **Caution**

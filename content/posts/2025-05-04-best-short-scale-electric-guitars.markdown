@@ -1,4 +1,4 @@
-﻿---
+---
 author: Isaac
 layout: post
 title: 7 Best Short Scale Electric Guitars 2025
@@ -9,10 +9,7 @@ tags: []
 slug: /best-short-scale-electric-guitars/
 lastmod: 2025-05-07T12:21:25+03:00
 ---
-> **We may earn a commission when you click and buy from Amazon.com.**
->
 
----
 If you are a kid, a player with petite hands or a traveler wishing to play the guitar - the best short scale electric guitars more playable.
 
 It has a shorter distance between nut and bridge (in the 22 inches - 24  inches).
@@ -61,4 +58,5 @@ Read Also:
 ## Conclusion
 Why short scale electric guitars
 - portability, comfort, sound, and string tension.
-It has a 4-piece mahogany build that has Wilkinson 14:1 tuner and 500k Ω pots that have superior quality.
+It has a 4-piece mahogany build that has Wilkinson 14:1 tuner and 500k O pots that have superior quality.
+

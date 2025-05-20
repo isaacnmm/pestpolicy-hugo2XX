@@ -1,4 +1,4 @@
-﻿---
+---
 author: Isaac
 layout: post
 title: How to Get Rid of Spray Paint Smell
@@ -9,10 +9,7 @@ tags: []
 slug: /how-to-get-rid-of-spray-paint-smell/
 lastmod: 2025-05-07T12:21:27+03:00
 ---
-> **We may earn a commission when you click and buy from Amazon.com.**
->
 
----
 As a DIY home renovator, you understand that spray paint is a convenient and efficient option to give your living space a fresh new look.
 
 However, the overpowering
@@ -69,3 +66,4 @@ In conclusion, by following these steps, you'll be able to neutralize the odor a
 - Additionally, consider using baking soda, deodorizing sprays, activated charcoal and cleaning the surfaces with white vinegar to eliminate the smell of spray paint.
 - Remember that it may take a few days to completely dissipate the smell, so be patient and repeat the steps as needed.
 Don't forget to use proper ventilation and mask while doing these steps if the smell is very strong.
+

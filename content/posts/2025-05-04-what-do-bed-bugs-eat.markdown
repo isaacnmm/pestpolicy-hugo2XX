@@ -1,4 +1,4 @@
-﻿---
+---
 author: Isaac
 layout: post
 title: What Do Bed Bugs Eat?
@@ -10,16 +10,13 @@ tags: []
 slug: /what-do-bed-bugs-eat/
 lastmod: 2025-05-07T12:21:28+03:00
 ---
-> **We may earn a commission when you click and buy from Amazon.com.**
->
 
----
 Bed bugs have
 [many predators](https://pestpolicy.com/what-eats-bed-bugs/)
 .
 
 So might wonder that bed bugs eat a variety of foods - from human blood, skin or the crumbs of food. So, what do bed bugs eat?
-**Summary: Most bed bugs species mainly feed on blood of mammals like human. For example, Cimex lectularius only feed on human blood. **
+**Summary: Most bed bugs species mainly feed on blood of mammals like human. For example, Cimex lectularius only feed on human blood.�**
 **NB: Bed bug lack teeth and tongue for chewing and swallowing food - and thus they'll only eat blood.**
 ### **Does Food Attract Bed Bugs?**
 When I say food, I am referring to the food we eat. Many household pests such roaches, mice and rats will hang around your house as long as theres something for them to eat. On the contrary, bed bugs arent attracted to any of the food we eat.
@@ -105,3 +102,4 @@ If you have a large infestation, bed bugs will come out to feed in broad dayligh
 You have seen that bed bugs will eat nothing else apart from blood from warm-blooded animals. So, when they get into your house, their only source of food will be you and your family including pets.
 
 Therefore, its advisable to prevent bed bugs or act quickly to eradicate them whenever they appear in your house.
+

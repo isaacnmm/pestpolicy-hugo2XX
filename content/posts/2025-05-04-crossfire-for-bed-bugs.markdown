@@ -1,4 +1,4 @@
-﻿---
+---
 author: Isaac
 layout: post
 title: CrossFire for Bed Bugs Reviewed
@@ -10,10 +10,7 @@ tags: []
 slug: /crossfire-for-bed-bugs/
 lastmod: 2025-05-07T12:21:26+03:00
 ---
-> **We may earn a commission when you click and buy from Amazon.com.**
->
 
----
 Most folks can achieve a bedbug-free home for less than $200-$300 over 2-3 months with some diligence. If done correctly, you shouldnt see bed bugs after 2-3 weeks when using CrossFire along with Cimexa.
 
 Many people swear by steaming or heat-treating

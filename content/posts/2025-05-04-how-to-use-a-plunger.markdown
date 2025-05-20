@@ -1,4 +1,4 @@
-ï»¿---
+---
 author: Isaac
 layout: post
 title: How to Use a Plunger for Toilet or Sink Drain
@@ -10,11 +10,8 @@ tags: []
 slug: /how-to-use-a-plunger/
 lastmod: 2025-05-07T12:21:28+03:00
 ---
-> **We may earn a commission when you click and buy from Amazon.com.**
->
 
----
-Overflowing toilets and slow-drains are a common plumbing problem in most homes.Â Do you find using a
+Overflowing toilets and slow-drains are a common plumbing problem in most homes. Do you find using a
 [drain snake](https://pestpolicy.com/how-to-snake-a-drain/)
 , a
 [drain cleaner](https://pestpolicy.com/best-drain-cleaner//)
@@ -26,25 +23,25 @@ the right way.
 [amazon bestseller="Best Plunger for Toilet" items="2" template="table"]
 ## Details: How to Use a Plunger for Toilet or Sink Drain
 **0:**
-**Pick the right plunger for the work. What do you want to unclog? Is it a toilet, bathtub, or sink?Â **
-- *Cup-style plungers*have a shallow dome and a flat-bottom rim. It'll create an airtight seal when youÂ plunge it into the sink basin. Compared to[toilet plungers](https://pestpolicy.com/how-to-unclog-a-toilet-without-a-plunger/), the cup-style plungerÂ has no flap and is idealÂ for unclogging sinks and bathtubs.
+**Pick the right plunger for the work. What do you want to unclog? Is it a toilet, bathtub, or sink? **
+- *Cup-style plungers*have a shallow dome and a flat-bottom rim. It'll create an airtight seal when you plunge it into the sink basin. Compared to[toilet plungers](https://pestpolicy.com/how-to-unclog-a-toilet-without-a-plunger/), the cup-style plunger has no flap and is ideal for unclogging sinks and bathtubs.
 - *Flange or toilet plungers*have an extra flap that's attached inside the cup. When inserted into a toilet, flange plungers will create a tight air seal and thus produce a high suction power. These are suitable for unblocking toilets.
 Related:
 [Best Drain Snakes](https://pestpolicy.com/best-drain-snakes/)
-### How to Plunge a Toilet (withÂ Flange or Toilet Plungers)
-**1:Â **
+### How to Plunge a Toilet (with Flange or Toilet Plungers)
+**1: **
 If the toilet bowl is full, wear some gloves and bail out the excess water until it's half full. Alternatively, wait at least 10 minutes for the water level in the bowl to drop after flushing.
-**2:Â **
-If the bowl is empty, add water until half full.Â The right amount of water will completely cover the cup of the plunger, thereby increasing suction power.
-**3:Â **
+**2: **
+If the bowl is empty, add water until half full. The right amount of water will completely cover the cup of the plunger, thereby increasing suction power.
+**3: **
 Next, submerge the plunger and position it over the
 [drain opening](https://pestpolicy.com/pure-lye-drain-opener-review/)
 at the bottom of the toilet.
-**4:Â **
+**4: **
 Be sure to hold the plunger vertically. This will
 [ensure the drain opening](https://pestpolicy.com/xionlab-safer-drain-opener-review/)
 is completely sealed for proper suction.
-**5:Â **
+**5: **
 Gently insert and press the toilet plunger until the drain opening is completely sealed. Then, push and pull down the plunger with the handle still in a vertical position.
 NB: Do not completely pull out the plunger to avoid breaking the seal.
 - Continue pushing and pulling the plunger for about 15 seconds or more.
@@ -52,29 +49,29 @@ NB: Do not completely pull out the plunger to avoid breaking the seal.
 - Add more water into the toilet and continue the same process. This will ensure that all the debris clogging it is gone before flushing.
 - Remove the debris after the second round and flush the toilet. You can use hot water to flush down the toilet, which will help dissolve soap scum along the drain.
 - If plunging doesnt bear any fruits, consider using a Snake Drain or call your local plumber.
-### How to Plunge a Sink (withÂ Cup-style Plungers)
-**1:Â **
+### How to Plunge a Sink (with Cup-style Plungers)
+**1: **
 If unclogging a bathroom/kitchen sink or bathtub, you need to seal the
 [drainpipe](https://pestpolicy.com/sink-not-draining-but-pipes-clear/)
 before plunging. In other words, you need to block the overflow opening.
-**2:Â **
+**2: **
 Use a wet rag or towel to block the opening. This will seal in the air and therefore increase suction power while plunging.
-**3:Â **
+**3: **
 If youre dealing with blocked double-basin kitchen sinks, block the opening in one basin before plunging the other.
-**4:Â **
+**4: **
 Next, fill the basin half-full with tap water. Then, place the cup plunger into the sink basin or bowl drain hole until its completely submerged.
-**5:Â **
+**5: **
 Push down the handle so that the cup forms a complete seal with the drain opening. Pull up the handle and continue pushing and pulling with the plunger.
-**6:Â **
+**6: **
 As you do so, avoid tilting the cup as you might break the seal and reduce the suction power. Pump for around 20 seconds before releasing the plunger.
-**7:Â **
+**7: **
 Youll see some debris after releasing the plunger. Collect and throw it in the trash bin.
-**8:Â **
+**8: **
 Add more water to the sink and repeat the process. At this point, plunging will become much more comfortable as the clog loosens up. The second round should help clear the clog completely.
 ## Pro Tips for using your Plunger
 *But first*
 :
-1. Plunge vertical andÂ straight: Notably, along your plunger will reduce the force and may loosen the tool's seal.
+1. Plunge vertical and straight: Notably, along your plunger will reduce the force and may loosen the tool's seal.
 2. Submerge your plunger: If the bowl or dish has little water, add more water to submerge the plunger's rubber end fully.
 3. Remove air from your plunger cup: Reduce the air in the plunger cup by slowly pressing down the plunger to generate a good seal and excellent suction.
 1. Should you still experience a slow drain, consider plunging more, and this time around, use more force.

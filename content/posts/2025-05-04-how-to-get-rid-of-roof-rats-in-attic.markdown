@@ -1,4 +1,4 @@
-﻿---
+---
 author: Isaac
 layout: post
 title: How to Get Rid of Roof Rats in Attic
@@ -10,10 +10,7 @@ tags: []
 slug: /how-to-get-rid-of-roof-rats-in-attic/
 lastmod: 2025-05-07T12:21:27+03:00
 ---
-> **We may earn a commission when you click and buy from Amazon.com.**
->
 
----
 Have you recently discovered some activity in your attic and are afraid that it could be
 [roof rats or black rats](https://en.wikipedia.org/wiki/Black_rat)
 ? While it can be a worrying thought, it is not uncommon for rats to inhabit less populated areas of a house.
@@ -97,7 +94,7 @@ These traps are convenient and easy to use because they dont require any baiting
 ### 4. Block the Entry Points
 While you make efforts to get rid of roof rats in the attic, dont forget to block all the entry passages to discourage the roof rats from entering the attic.
 
-This will not only help you catch the ones inside the attic but also prevent other rats from entering. You may block the passages by spraying or keeping repellant agents near the entry points or covering holes with material that cant be chewed such as steel wool.  Some of the more likely entry passages are:
+This will not only help you catch the ones inside the attic but also prevent other rats from entering. You may block the passages by spraying or keeping repellant agents near the entry points or covering holes with material that cant be chewed such as steel wool.� Some of the more likely entry passages are:
 - Gaps in shingles
 - Vent covers that are damaged
 - Cracks
@@ -117,3 +114,4 @@ Getting rid of roof rats in the attic is a time-consuming process but dont forge
 2. [Rat Management Guidelines--UC IPM](http://ipm.ucanr.edu/PMG/PESTNOTES/pn74106.html)
 3. [Effectiveness of rodenticides for managing invasive roof rats](https://www.ncbi.nlm.nih.gov/pubmed/24443051)
 4. [About Roof Rats - the County of Santa Clara](https://www.sccgov.org/sites/vector/resources/brochures/Documents/Roof%20Rats.pdf)
+

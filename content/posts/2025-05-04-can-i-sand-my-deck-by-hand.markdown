@@ -1,4 +1,4 @@
-﻿---
+---
 author: Isaac
 layout: post
 title: Can I Sand My Deck By Hand?
@@ -9,10 +9,7 @@ tags: []
 slug: /can-i-sand-my-deck-by-hand/
 lastmod: 2025-05-07T12:21:26+03:00
 ---
-> **We may earn a commission when you click and buy from Amazon.com.**
->
 
----
 If you're a homeowner with a
 [deck in need of refinishing](https://pestpolicy.com/how-to-refinish-a-deck/)
 , you might be wondering whether it's possible to sand it by hand.

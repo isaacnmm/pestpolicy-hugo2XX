@@ -1,4 +1,4 @@
-﻿---
+---
 author: Isaac
 layout: post
 title: How to Sand Between Deck Boards
@@ -9,10 +9,7 @@ tags: []
 slug: /how-to-sand-between-deck-boards/
 lastmod: 2025-05-07T12:21:28+03:00
 ---
-> **We may earn a commission when you click and buy from Amazon.com.**
->
 
----
 When building a deck, its crucial to learn how to sand between deck boards. You need to ensure that all boards are as smooth as possible. They must have a similar width for them to be level.
 
 If you dont do that, therell be incongruities between the boards you use. If you do this manually, the procedure of sanding between deck boards will consume time.
@@ -57,3 +54,4 @@ Apply medium pressure to your hand sander and check that the appearance is even.
 .
 ## **Summary**
 Ensure your deck is completely dry before sanding. Wait for a few days before sanding if it has rained recently. The surface of the deck, rails, and board edges should be treated as separate tasks. The sanding technique for each is different.
+

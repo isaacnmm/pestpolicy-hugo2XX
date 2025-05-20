@@ -1,4 +1,4 @@
-﻿---
+---
 author: Isaac
 layout: post
 title: Using Borax for Ants Outside
@@ -9,10 +9,7 @@ tags: []
 slug: /borax-for-ants-outside/
 lastmod: 2025-05-07T12:21:26+03:00
 ---
-> **We may earn a commission when you click and buy from Amazon.com.**
->
 
----
 Borax is a popular and effective solution for controlling ants, especially outdoors. It disrupts the ants digestive system, ultimately eliminating them and their colonies. Heres a guide on how to use borax effectively to deal with ants in your yard or garden.
 ## How to Use Borax for Ants Outside
 ### 1. Understand How Borax Works

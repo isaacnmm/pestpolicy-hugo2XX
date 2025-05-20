@@ -1,4 +1,4 @@
-ï»¿---
+---
 author: Isaac
 layout: post
 title: Raspberry Pi 3 B Review + Performance
@@ -9,10 +9,7 @@ tags: []
 slug: /raspberry-pi-3-b-review/
 lastmod: 2025-05-07T12:21:28+03:00
 ---
-> **We may earn a commission when you click and buy from Amazon.com.**
->
 
----
 There is so much fun in DIY Raspberry Pi projects, such as security cameras and digital weather stations.
 - [Raspberry Pi model 3 B+](https://www.raspberrypi.org/products/raspberry-pi-3-model-b-plus/)is the newest upgrade, being more flexible and powerful, but still low priced. I recently run a test for the[micro-SD card for Raspberry Pi 3](https://pestpolicy.com/best-sd-card-for-raspberry-pi-3/).
 The upgrade brings superior WiFi performance, wired LAN performance, CPU frequency (200MHz faster), and other significant modifications but still maintained the 1GB memory.
@@ -22,8 +19,8 @@ Below are the first impressions and benchmarks after a brief but thorough experi
 ## Raspberry Pi 3 B Review + Performance
 ### Hardware
 Pi 3 Model 3 B+ has two key features that stand out compared to earlier Pi models: a metal shield that covers the Bluetooth and WiFi circuitry (assist in RF emissions containment) and the SoC's metal cover (for dissipating heat).
-*But, what are the favorable hardware modifications?Â *
-- Model 3 B+Â comes with a push or pull MicroSD card slot as opposed to the earlier push-to-eject.
+*But, what are the favorable hardware modifications? *
+- Model 3 B+ comes with a push or pull MicroSD card slot as opposed to the earlier push-to-eject.
 - It comes with a premium-looking Pi logo that is engaged on its wireless cover. Previous models had the symbol being etched on their circuit board, which looked low-class. Further, the Broadcom SoC has a beautiful metal cover.
 - Model 3 B+ has a metal enclosure CPU build that dissipates heat well than the plastic covering on the earlier models: without additional active cooling or heatsink.
 - Further, it has a highly standardized board layout and forms factor
@@ -64,3 +61,4 @@ If you are utilizing the Raspberry Pi in complex projects, you must add componen
 - To create an excellent first computer, you'll need a case that has top ports' cut-outs, and that will be easy to dismantle whenever required.
 - Also, you can include a PoE hat adapter to power up the Raspberry Pi through the Ethernet cable-supplied power, mainly when used with motion detectors.
 Model B+'s Ethernet port will allow the gigabit transfer speeds with speeds going up to 315Mbps. Your WiFi radio will do superior in Model B+'s 5GHz band.
+

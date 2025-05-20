@@ -1,4 +1,4 @@
-﻿---
+---
 author: Isaac
 layout: post
 title: Top 9 Termite Prevention Tips
@@ -10,10 +10,7 @@ tags: []
 slug: /termite-prevention/
 lastmod: 2025-05-07T12:21:28+03:00
 ---
-> **We may earn a commission when you click and buy from Amazon.com.**
->
 
----
 In this article, I've outlined some termite prevention tips to help protect your structures from termites.
 Active fight against
 [termites](http://npic.orst.edu/pest/termite.html)
@@ -22,7 +19,7 @@ Active fight against
 and using the
 [best termite killers](https://pestpolicy.com/best-termite-killer/)
 .
-*In summary, termite prevention starts by reducing the wood-to-soil contract around the structures, remove the cardboard, paper, mulch, plants, wood, or lumber near the structure's foundation. Also, build a 4-inch termite barrier between your house and the mulch. *
+*In summary, termite prevention starts by reducing the wood-to-soil contract around the structures, remove the cardboard, paper, mulch, plants, wood, or lumber near the structure's foundation. Also, build a 4-inch termite barrier between your house and the mulch.�*
 [amazon bestseller="Best Termite Killers" items="2" template="table"]
 ## 4 Indoor Termite Prevention Tips
 ### 1. Seal Windows and Doors Tightly

@@ -1,4 +1,4 @@
-﻿---
+---
 author: Isaac
 layout: post
 title: 7 Best No See Ums Repellent 2025 Reviewed
@@ -10,10 +10,7 @@ tags: []
 slug: /best-no-see-ums-repellent/
 lastmod: 2025-05-07T12:21:24+03:00
 ---
-> **We may earn a commission when you click and buy from Amazon.com.**
->
 
----
 Whether you're hiking, camping, or just enjoying your backyard,
 [No-see-ums](https://en.wikipedia.org/wiki/Ceratopogonidae)
 may

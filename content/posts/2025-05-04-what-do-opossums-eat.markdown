@@ -1,4 +1,4 @@
-ï»¿---
+---
 author: Isaac
 layout: post
 title: What Do Opossums Eat? 9 Diet Facts
@@ -10,13 +10,10 @@ tags: []
 slug: /what-do-opossums-eat/
 lastmod: 2025-05-07T12:21:28+03:00
 ---
-> **We may earn a commission when you click and buy from Amazon.com.**
->
 
----
 Opossums are omnivores, meaning that they eat both plants and animals - like humans. But really, what do opossums eat? Opossums need a balanced diet of proteins, fats, and carbohydrates to maintain good health.
-*A natural diet for an opossum would be lots of insects (insects are high in protein), small mammals (high in fat), and the occasional fruit or nut (high in carbs). They need a very high calcium diet (which can be found in plant products).Â *
-*In captivity, opossums/ possums eat different foods including vegetables and dog food. But in summary, their diet can be leafy greens (like kale & spinach), grains (like oats & rice), and fruits (like oranges & apples).Â *
+*A natural diet for an opossum would be lots of insects (insects are high in protein), small mammals (high in fat), and the occasional fruit or nut (high in carbs). They need a very high calcium diet (which can be found in plant products). *
+*In captivity, opossums/ possums eat different foods including vegetables and dog food. But in summary, their diet can be leafy greens (like kale & spinach), grains (like oats & rice), and fruits (like oranges & apples). *
 [amazon bestseller="Best Opossums Food" items="2" template="table"]
 Related:
 [Do Opossums Carry Rabies](https://pestpolicy.com/do-opossums-carry-rabies/)

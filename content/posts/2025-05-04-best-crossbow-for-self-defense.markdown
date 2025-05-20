@@ -1,4 +1,4 @@
-﻿---
+---
 author: Isaac
 layout: post
 title: 7 Best Crossbow for Self Defense 2025 Reviewed
@@ -9,10 +9,7 @@ tags: []
 slug: /best-crossbow-for-self-defense/
 lastmod: 2025-05-07T12:21:23+03:00
 ---
-> **We may earn a commission when you click and buy from Amazon.com.**
->
 
----
 While on this site, we won't encourage careless shooting, at one time or another, you will need the b
 est Crossbow for self-defense
 when an attacker comes to your home.
@@ -73,7 +70,7 @@ With the four by 32 Multi-range Scope, you'll achieve excellent accuracy in your
 The tool has a Full-Dipped Camo Pattern and Weaver-style Scope Mount that is adjustable. The device has Ambidextrous Auto Safety that will be safe while using it for self-defense.
 Read Also:
 [Ergonomic Sofa Reviewed](https://pestpolicy.com/best-ergonomic-sofa/)
-### [5. Cobra System Crossbow K-8025](https://www.amazon.com/dp/B00NZ8O1AY/?tag=p-policy-20)
+### [5. Cobra System Crossbow�K-8025](https://www.amazon.com/dp/B00NZ8O1AY/?tag=p-policy-20)
 The Cobra System K-8025 crossbow has an 80-pound pistol and an 80-pound limb.
 Interestingly, the crossbow has a self-cocking structure with the characteristic Pistol-style structure.
 The Crossbow has a compact design and is made of a strong plastic body. It operates with short bows that are made of compressed molded fiberglass.

@@ -1,4 +1,4 @@
-﻿---
+---
 author: Isaac
 layout: post
 title: Can I Use Baby Shampoo On My Cat?
@@ -10,10 +10,7 @@ tags: []
 slug: /can-i-use-baby-shampoo-on-my-cat/
 lastmod: 2025-05-07T12:21:26+03:00
 ---
-> **We may earn a commission when you click and buy from Amazon.com.**
->
 
----
 Well, it takes a well-trained cat to make it have a bath, otherwise, cats hate water. To bath or
 [remove fleas](https://pestpolicy.com/what-do-flea-eggs-look-like-on-a-cat/)
 , can I use baby shampoo on my cat? The whole process of

@@ -1,4 +1,4 @@
-ï»¿---
+---
 author: Isaac
 layout: post
 title: Bedlam Plus Bed Bug Spray Review
@@ -10,10 +10,7 @@ tags: []
 slug: /bedlam-plus-bed-bug-spray-review/
 lastmod: 2025-05-07T12:21:23+03:00
 ---
-> **We may earn a commission when you click and buy from Amazon.com.**
->
 
----
 Hey guys, and welcome. I've reviewed Bedlam Plus bed bug spray - one of our
 [best bed bug sprays](https://pestpolicy.com/best-bed-bug-spray/)
 in this post.
@@ -23,9 +20,9 @@ Bedlam Plus residue will continue killing bed bugs for about 4 weeks after appli
 First off, I note that Bedlam will also
 [kill the bed bugs and the eggs](https://pestpolicy.com/how-to-kill-bed-bug-eggs/)
 resistant to pesticides such as pyrethroids.
-*So, let's get started!Â *
+*So, let's get started! *
 [amazon bestseller="Bedlam Plus Bed Bug Spray" items="2" template="table"]
-## #1:Â Review Summary
+## #1: Review Summary
 So, Bedlam Plus is a residue formula, and hence even after applying, its active ingredients will continue repelling and
 [killing bed bugs](https://pestpolicy.com/does-lysol-kill-bed-bugs/)
 for about 1-4 weeks. Spray lightly on fabrics, drapes, sofas, mattresses, and
@@ -42,7 +39,7 @@ strains.
 While spraying your sofas, you'll need to give special attention to corner cracks, folds, and seams since that's where you'll mainly find
 [bed bugs, larvae, and their eggs](https://pestpolicy.com/what-does-bed-bug-poop-look-like/)
 while still reducing their hatching rate. But, cover up your aquariums to protect your reptiles and fish.
-**Unique Features:Â **
+**Unique Features: **
 - Won't stain your fabrics (water-safe types), clothes, and surfaces.
 - Great for spot-treating carpets, wooden furniture, and mattresses.
 - Kills a[range of pests including bed bugs](https://pestpolicy.com/does-vinegar-kill-bed-bugs/)and fleas
@@ -72,7 +69,7 @@ such as bed bug frames and door frames.
 ## #3: My Experience:
 ### 1.
 ## #4: Spectracide Bug Stop Fogger vs. Other Sprays
-### 1. Bedlam Plus Bed Bug Spray Vs. Ortho Home DefenseÂ Dual-Action
+### 1. Bedlam Plus Bed Bug Spray Vs. Ortho Home Defense Dual-Action
 [Review of Ortho Home Defense Dual-Action](https://pestpolicy.com/ortho-home-defense-dual-action-bed-bug-killer-review/)
 ### 2.[Bedlam Plus Bed Bug Spray](https://pestpolicy.com/how-to-get-rid-of-bed-bugs-fast/)vs. Proof Bed Bug Spray
 [Review of Proof Bed Bug Spray](https://pestpolicy.com/proof-bed-bug-spray-review/)

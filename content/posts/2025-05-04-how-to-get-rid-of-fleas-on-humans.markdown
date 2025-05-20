@@ -1,4 +1,4 @@
-﻿---
+---
 author: Isaac
 layout: post
 title: How to Get Rid of Fleas on Humans
@@ -10,10 +10,7 @@ tags: []
 slug: /how-to-get-rid-of-fleas-on-humans/
 lastmod: 2025-05-07T12:21:27+03:00
 ---
-> **We may earn a commission when you click and buy from Amazon.com.**
->
 
----
 Fleas are common pests with hairy pets like cats and dogs but they can also attack humans. There are over 2000 species and some species also attack humans. This guide on how to get rid of fleas on humans has all you need to know.
 - **Unlike fury pets, fleas attacking humans like to hide either on the clothing or hair. To get rid of them, you need to wash your hair with anti-fleas products. **
 - **Taking a bath with a flea shampoo will also help. Ultimately, knowing their source and other infested areas will do much good when eliminating them.**
@@ -38,7 +35,7 @@ This works well in killing fleas in your beards and hair. Unfortunately, there i
 is also a product that you can use to eliminate fleas.
 After applying it to your hair give it about 10 minutes before you can wash it off and have a fleas free hair. It is gentle on your hair but tough on the fleas.
 **c. A mixture of baking soda, salt, and water **
-This is a good alternative if you dont have the fleas shampoo or the dish soap. When using this method, you mix baking soda with salt and water and apply it to your hair for about 10 minutes.
+This is a good alternative if you dont have the fleas shampoo or the dish soap.�When using this method, you mix baking soda with salt and water and apply it to your hair for about 10 minutes.
 - Though it has a low effective rate, it is more of a homemade solution and will help eliminate the fleas.
 - When you are done applying shampoo and dish soap, comb your hair to remove the dead fleas from your head.
 If you had used the baking soda mixture, properly wash your head before you can comb the hair to remove the dead fleas.

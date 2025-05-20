@@ -1,4 +1,4 @@
-ï»¿---
+---
 author: Isaac
 layout: post
 title: "Can Bed Bugs Bite through \u200BClothing?"
@@ -10,13 +10,10 @@ tags: []
 slug: /can-bed-bugs-bite-through-clothing/
 lastmod: 2025-05-07T12:21:26+03:00
 ---
-> **We may earn a commission when you click and buy from Amazon.com.**
->
 
----
 "Wear long-sleeved clothes, and youll be safe from bed bug bites (Cimex lectularius Linnaeus)." Maybe, maybe not. But bed bug bites are painful and will cause anemia. So, you're wondering, can bed bugs bite through clothing?
-*The short answer is, NO, bed bugs lack teeth to gnaw through clothing or fabric. The bugs only have a sharpÂ and long proboscis allowing them to access your blood vessels.Â *
-*The bed bug's feeding response is triggered when they land on bare skin. So, any bites that you notice under your clothes may have been caused by other bugs like scabies mites or mosquitoes.Â *
+*The short answer is, NO, bed bugs lack teeth to gnaw through clothing or fabric. The bugs only have a sharp and long proboscis allowing them to access your blood vessels. *
+*The bed bug's feeding response is triggered when they land on bare skin. So, any bites that you notice under your clothes may have been caused by other bugs like scabies mites or mosquitoes. *
 [amazon bestseller="Best Bed Bugs Killers" items="2" template="table"]
 ## Can Bed Bugs Bite through Clothing? Pajamas, Socks, Fabric?
 As we've noted above, bed bugs won't bite through pajamas, just like in other clothes and fabrics. Bed bugs lack teeth to help them gnaw pajamas, plastic, or different material.
@@ -30,7 +27,7 @@ So, any bed bugs bites you find after a night's sleep, despite having worn your 
 Luckily, most leggings and socks are too tight for bed bugs to bite underneath them - and the bugs won't definitely bite through them.
 Most leggings have nylon and elastic materials that'll tightly hug your legs and hence prevent
 [bed bug bites](https://pestpolicy.com/how-long-do-bed-bug-bites-last/)
-.Â Therefore, any bed bugs bite you'll notice on your legs will only occur at any bare skin that the bugs will find.
+. Therefore, any bed bugs bite you'll notice on your legs will only occur at any bare skin that the bugs will find.
 So, when you're wearing leggings for protection, also ensure you control bed bugs in other ways like sprays or steaming
 [lures](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1365-2915.2008.00790.x)
 .
@@ -152,7 +149,7 @@ will readily cover your box spring or mattress and thus destroy one of the bug's
 But who comes you're using encasement but still get bed bugs bites. Well, definitely, mattresses only hold a small percent of the blood-suckers. Therefore, you'll need to combine this method with other techniques to subdue it to the colony.
 Related:
 [How to Kill Bed Bug Eggs?](https://pestpolicy.com/how-to-kill-bed-bug-eggs/)
-## **Laundry Tips - Sorting, Washing & Drying, StoringÂ **
+## **Laundry Tips - Sorting, Washing & Drying, Storing **
 However, just washing the clothes with just water wont assist
 [get rid of the bed bugs](https://pestpolicy.com/how-to-get-rid-of-bed-bugs-fast/)
 . Washing the infected clothes will remove some bed bugs, while drying will eventually kill the remaining bloodsuckers.
@@ -168,13 +165,13 @@ But ensure that you seal your plastic bags before you start moving the laundry -
 [bugs won't spread](https://pestpolicy.com/how-do-bed-bugs-spread/)
 to the Laundromat or other house locations.
 ### 2. Wash and Dry your Laundry
-Check the fabric's or clothes allowable hottest temperature and go ahead to wash and dry.Â This will
+Check the fabric's or clothes allowable hottest temperature and go ahead to wash and dry. This will
 [remove and kill the bed bugs](https://pestpolicy.com/do-ants-kill-bed-bugs/)
 from your cotton, linen or velvet, canvas, jersey, lace, or lycra.
 All the dry-clean clothes will be
 [placed inside the dryer](https://pestpolicy.com/does-dryer-kill-bed-bugs/)
 with medium-high temperature settings for about half an hour. Also, you can take your cleaned clothes to your cleaner for pressing.
-### 3.Â Fold and Disinfect the Clothes
+### 3. Fold and Disinfect the Clothes
 Next, you'll now need to fold your cleaned and dried clothes - only place the clothes inside a new plastic bag if you're doing your laundry in a laundry facility.
 Further, don't use a folding table as you can get bed bugs in these locations. Ensure the clothes remain in the plastic bags until you arrive at your house.
 Further, if your house is bed bug treated, you can now take out the plastic bags' clothes.

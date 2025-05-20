@@ -1,4 +1,4 @@
-﻿---
+---
 author: Isaac
 layout: post
 title: 'DIY Bed Bug Spray: 7 Homemade Recipes & Tips'
@@ -10,10 +10,7 @@ tags: []
 slug: /diy-bed-bug-spray/
 lastmod: 2025-05-07T12:21:26+03:00
 ---
-> **We may earn a commission when you click and buy from Amazon.com.**
->
 
----
 Bed bugs
 [are tiny pests](https://pestpolicy.com/bed-bug-life-cycle/)
 that will disturb your sleep by biting and sucking your blood before retreating to the seams of your couch or bed.

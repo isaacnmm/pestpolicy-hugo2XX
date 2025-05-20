@@ -1,4 +1,4 @@
-ï»¿---
+---
 author: Isaac
 layout: post
 title: Dont Use Vinegar and Baking Soda to Clean Clogged Drains
@@ -10,14 +10,11 @@ tags: []
 slug: /dont-use-vinegar-and-baking-soda-to-clean-clogged-drains/
 lastmod: 2025-05-07T12:21:26+03:00
 ---
-> **We may earn a commission when you click and buy from Amazon.com.**
->
 
----
 Today Ill discuss my short investigation with vinegar and baking soda to see if its perfect in unblocking slow-moving drains as some
 [YouTubers Claim](https://www.youtube.com/watch?v=4u0sMRKb0NY)
 . The two ingredients are readily available and will have a bubbling reaction.
-*Summary: It's a thumbs down for theÂ vinegar and baking soda in unclogging blocked drains and de-scaling pipes. AÂ recent experiment proves that the bubbling (Sodium Acetate + Water) can't de-clog your drain or remove the clogging gunk deep down the drain. So, I'll stick toÂ reliable drain cleaners.Â *
+*Summary: It's a thumbs down for the vinegar and baking soda in unclogging blocked drains and de-scaling pipes. A recent experiment proves that the bubbling (Sodium Acetate + Water) can't de-clog your drain or remove the clogging gunk deep down the drain. So, I'll stick to reliable drain cleaners. *
 [amazon bestseller="Best Drain Cleaner" items="2" template="table"]
 ## Vinegar + Baking Soda = Sodium Acetate + Water
 When you add vinegar to Baking soda, youll create a bubbling mix. However, the bubbling is just producing Sodium Acetate + Water, which will not do a reliable deep cleaning.
@@ -40,7 +37,7 @@ The effervescence will be lovely, and the resulting bubbles will run down the
 I know most of you may believe the bubbles (from the white vinegar plus baking soda) will break down the clogs (hair, oils,
 [shampoo](https://pestpolicy.com/best-flea-shampoo-for-dogs/)
 , and grease), but all this does not get to the clogging gunk deep in the drain.
-**Alternatives  Boiled water, Dish Soap, Salt, Drain SnakeÂ **
+**Alternatives  Boiled water, Dish Soap, Salt, Drain Snake **
 However, if you still dont fancy using the recommended
 [drain cleaners](https://pestpolicy.com/thrift-drain-cleaner-review/)
 , you can use boiled water and mix it with some dish soap (it works in the drain with oil or grease buildup, such as kitchen sinks). Further, you can add salt to boiled
@@ -48,7 +45,7 @@ However, if you still dont fancy using the recommended
 .
 I recently covered how to
 [unclog a shower drain full of hair](https://pestpolicy.com/how-to-unclog-a-shower-drain-full-of-hair/)
-, just like its covered in this guide showingÂ why these alternative methods are effective.
+, just like its covered in this guide showing why these alternative methods are effective.
 However, youll need to remove the hair, oil, and grease clog balls by
 [snaking the drain](https://pestpolicy.com/best-drain-snakes/)
 for shower or bathtub clog.

@@ -1,4 +1,4 @@
-ï»¿---
+---
 author: Isaac
 layout: post
 title: How to Trap Raccoons (With Live Traps)
@@ -10,10 +10,7 @@ tags: []
 slug: /how-to-trap-raccoons/
 lastmod: 2025-05-07T12:21:28+03:00
 ---
-> **We may earn a commission when you click and buy from Amazon.com.**
->
 
----
 
 Quality raccoon traps, if used correctly, will give you high success rates.
 
@@ -26,7 +23,7 @@ Caution: But check with the local authorities if raccoon trapping is legal or ho
 Related:
 [How to control Racoons](https://pestpolicy.com/how-to-get-rid-of-raccoons/)
 ## How to Trap Raccoons
-### **Step 1:Â **Select a Raccoon Trap
+### **Step 1: **Select a Raccoon Trap
 [Raccoons](https://www.esf.edu/aec/adks/mammals/raccoon.htm)
 are adaptive wild animals. They host pests like roundworms and spread rabies, and will forage in your garbage bins. Killing or hunting raccoons is illegal in some states.
 
@@ -40,7 +37,7 @@ Raccoon traps will come with 1 or 2 doors  from which youll select the one that 
 ### Step 2: Decide on the Trap Placement Location
 First, set up the trap around areas that you've seen raccoons frequent or where there is evidence of their damage. Place the raccoon trap on a flat surface.
 
-I had tried trapping some raccoons (around a creek that had animals tracks, near barns/ houses) for about a month but they kept eloping me.Â However, raccoons will generally love location such as:
+I had tried trapping some raccoons (around a creek that had animals tracks, near barns/ houses) for about a month but they kept eloping me. However, raccoons will generally love location such as:
 1. Mulch beds
 2. Attics
 3. Woodpiles
@@ -63,7 +60,7 @@ Notably, some nasty wild animals like raccoons may knock over the trap as they t
 
 Related:
 [Do Moles Have Eyes?](https://pestpolicy.com/do-moles-have-eyes/)
-### Step 4:Â Finally, Set the Raccoon Trap
+### Step 4: Finally, Set the Raccoon Trap
 Now, its now that you keenly set the traps door or doors in the raccoon traps ready to trap the nasty wild rodents. Do this keenly on a flat or even surface.
 
 Check the trap usage instruction in the manual for different requirements. After setting the trap, now, its time to test-drive the trigger-and-close systems through pressing down the provided trigger plate.
@@ -79,10 +76,10 @@ Raccoons are very cunning wild animals (rodents for that matter). Therefore, rec
 shows that the back of the raccoon trap must be covered using a half-inch wire mesh to ensure that the raccoon wont steal the bait from outside the trap.
 
 Definitely, the rodents will attempt to get the bait via the trap bars. However, because raccoons are nocturnal, you should only open the traps during the night. This'll prevent the trap catching animals such as cats or rats.
-### **2.Â **Place Bait Trap leading to Trap Door
+### **2. **Place Bait Trap leading to Trap Door
 Next, place the bait in a manner that itll leave a trail that leads to your raccoon trap. For example, one piece of the raccoon bait must be positioned around the raccoon trail.
 
-Also, you can place it around places food was located. This will trap the raccoon as it attempts to get back to where it ate the food last time.Â  But first, ensure you remove the food.
+Also, you can place it around places food was located. This will trap the raccoon as it attempts to get back to where it ate the food last time.  But first, ensure you remove the food.
 ## 3. Practices for Humana Raccoon Trapping
 For human treatment of the Raccoons, you
 [should](http://wdfw.wa.gov/living/nuisance/trapping.html)
@@ -91,7 +88,7 @@ put 1-2 tennis balls in the raccoon traps and thus allow the large rodents to re
 Related:
 [Best racoon baits](https://pestpolicy.com/raccoon-baits/)
 ### 4. Put on Gloves
-Notably, since raccoons have some sensitive nose, youll need to put on some gloves when youre setting up the rodent trap.Â Further, was the new raccoon traps using vinegar and water as this will eliminate animals oils.
+Notably, since raccoons have some sensitive nose, youll need to put on some gloves when youre setting up the rodent trap. Further, was the new raccoon traps using vinegar and water as this will eliminate animals oils.
 
 Further, was the new racoon traps using vinegar and water as this will eliminate animals oils. Next, create a mist around the raccoon trap using a spray of aromatic vegetation (or fir needles) and water  this will help conceal the smell of human beings.
 ### 5. Fix the Racoon Cage Securely
@@ -102,3 +99,4 @@ Therefore, with some simple manoeuvres, the wild animals can flip the cage and f
 1. [Trap-Vaccinate-Release Program to Control Raccoon Rabies ... - NCBI](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3376792/)
 2. [Best Management Practices for Trapping Raccoons in the United States](https://www.dec.ny.gov/docs/wildlife_pdf/trapbmpsraccoon.pdf)
 3. [Trapping Nuisance Wildlife  Purdue Extension Forestry & Natural](https://pestpolicy.com/)
+

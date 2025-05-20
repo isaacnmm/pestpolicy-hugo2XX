@@ -1,4 +1,4 @@
-﻿---
+---
 author: Isaac
 layout: post
 title: Can Humans Carry Fleas from One Home to Another?
@@ -10,10 +10,7 @@ tags: []
 slug: /can-humans-carry-fleas-from-one-home-to-another/
 lastmod: 2025-05-07T12:21:26+03:00
 ---
-> **We may earn a commission when you click and buy from Amazon.com.**
->
 
----
 Fleas are tiny pests that primarily infest dogs and cats, feeding on their blood and causing itching, allergies, and even diseases. But what about humans?
 **Can we carry fleas from one house to another?**
 The answer is
@@ -106,3 +103,4 @@ can stop fleas from spreading.
 By staying proactive, you can
 **avoid accidentally transporting fleas**
 to a new home!
+

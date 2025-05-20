@@ -1,4 +1,4 @@
-ï»¿---
+---
 author: Isaac
 layout: post
 title: What Causes Bed Bugs? Causes and Symptoms
@@ -10,10 +10,7 @@ tags: []
 slug: /what-causes-bed-bugs/
 lastmod: 2025-05-07T12:21:28+03:00
 ---
-> **We may earn a commission when you click and buy from Amazon.com.**
->
 
----
 [Bed bugs](https://pestpolicy.com/pictures-of-bed-bugs/)
 (Cimex lectularius) are a fact of life, particularly after
 [states banned DDT](https://www.epa.gov/ingredients-used-pesticide-products/ddt-brief-history-and-status)
@@ -47,11 +44,11 @@ for months after taking a full blood meal. Therefore, segregating the infested f
 Therefore, for any of us renters and homeowners out here, we'll need to rightly
 [inspect & treat, for bed bugs](https://pestpolicy.com/does-baby-powder-kill-bed-bugs/)
 , any old furniture you're to bring home.
-*How to Treating Used Furniture for Bed BugsÂ *
+*How to Treating Used Furniture for Bed Bugs *
 To prevent or control the bed bugs, you can use either chemical (
 [insecticide - like sprays](https://pestpolicy.com/best-bed-bug-spray/)
 ) or non-chemical ways. But be patient as the eradication may require several treatment cycles.
-- [Steam clean and vacuum](https://pestpolicy.com/best-bed-bug-steamer/)all the old furniture and mattress  including the box-spring cracks.Â You can use[foggers or bombs](https://pestpolicy.com/best-fogger-for-fleas/)that are approved for killing bed bugs.
+- [Steam clean and vacuum](https://pestpolicy.com/best-bed-bug-steamer/)all the old furniture and mattress  including the box-spring cracks. You can use[foggers or bombs](https://pestpolicy.com/best-fogger-for-fleas/)that are approved for killing bed bugs.
 - Clean the dirt and clutter thats lying around the rooms  this will help cut the number of[locations that the bed bugs](https://pestpolicy.com/dead-bed-bugs/)can hide.
 - Also, examine the second-hand furniture for cracks and holes  youll need to seal and caulk these to kill the bed bugs,[their eggs](https://pestpolicy.com/how-to-kill-bed-bug-eggs/), and babies.
 - Next, treat the bedbug-infested mattress or furniture using heat for about 15 to 30 minutes. If its a fabric, you can use a clothes dryer at medium-high temperatures.
@@ -66,7 +63,7 @@ However, the bugs may also hitchhike your clothes either in private homes or oth
 In fact, a recent
 [NPMA's case study](https://www.npmapestworld.org/default/assets/File/newsroom/magazine/2015/nov-dec_2015.pdf)
 reported that 75% of the respondents had an encounter with bed bugs in motels and hotels.
-*How to Prevent and Control Bed Bugs while TravellingÂ *
+*How to Prevent and Control Bed Bugs while Travelling *
 - First, inspect the hotel room to[detect any signs of bed bugs](https://pestpolicy.com/bed-bug-eggs/). I note that for this, youll require just a good flashlight. So, examine luggage racks, the headboard, and mattress. Check the mattress seams for signs of spots and stains  change room/ hotel and notify the management.
 - Inspect the chairs. Sofas and behind beds headboard. This must happen first before starting unpacking. Any[bed bugs signs](https://pestpolicy.com/what-does-bed-bug-poop-look-like/)will prove enough to change room/ hotel and notify the management.
 - Avoid changing to a room directly above or next to the one[infested by bed bugs](https://pestpolicy.com/proof-bed-bug-spray-review/). Notably, bed bugs will readily hitchhike through wall sockets, luggage, and housekeeping carts to the next room.
@@ -92,7 +89,7 @@ infestations.
 ### 4. Bed bugs will hide inClutter
 Clutter forms an excellent
 [hiding place](https://pestpolicy.com/where-do-fleas-live/)
-for bed bugs - this will include switch plates, wallpapers, baseboards, furniture, beds.Â Therefore, reducing the clutter will guarantee that the bugs won't spread.
+for bed bugs - this will include switch plates, wallpapers, baseboards, furniture, beds. Therefore, reducing the clutter will guarantee that the bugs won't spread.
 Further, it would help if you did not carry objects to a non-infested area from the already infected area. Sadly, if you do the contrary, the bloodsuckers will quickly move around, hiding in clothes and furniture.
 Ensure to throw all the bed, bug-infested objects into some plastic trash bags. Also, ensure that you take the plastic bags when it's full of infested items. Don't throw clothes on the bed or the floor - discard the items you no longer wear.
 Have plastic boxes to replace the cardboard boxes you have. Notably, cardboards are a great hiding place for the
@@ -107,6 +104,6 @@ Therefore, for all the large number of people you'll see entering and exiting a 
 ## Conclusion
 First,
 [bed bugs mainly hide](https://pestpolicy.com/where-do-bed-bugs-hide/)
-in closets, second-hand furniture, upholstery, upholstery, bed frames, box springs, and mattresses seams.Â But as weve noted, bed bugs are caused by
+in closets, second-hand furniture, upholstery, upholstery, bed frames, box springs, and mattresses seams. But as weve noted, bed bugs are caused by
 [old- furniture and second-hand mattresses](https://pestpolicy.com/best-bed-bug-mattress-encasements/)
 , infested luggage while on international travels.

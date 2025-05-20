@@ -1,4 +1,4 @@
-﻿---
+---
 author: Isaac
 layout: post
 title: Does Rubbing Alcohol Kill Fleas?
@@ -10,10 +10,7 @@ tags: []
 slug: /does-rubbing-alcohol-kill-fleas/
 lastmod: 2025-05-07T12:21:26+03:00
 ---
-> **We may earn a commission when you click and buy from Amazon.com.**
->
 
----
 Having fleas around your home can be a real menace. They like to bite and cause itchiness on pets and humans. Does
 [rubbing alcohol](https://www.webmd.com/first-aid/ss/rubbing-alcohol-uses)
 kill fleas? Well, there are various methods to control them and alcohol is one of them.
@@ -47,7 +44,7 @@ Fortunately, these methods range from natural to chemicals that are non-toxic an
 ### 1. Using essential oils.
 So, does vinegar kill fleas? Well, there are many essential oils but you can
 [use vinegar or apple cider](https://pestpolicy.com/does-apple-cider-vinegar-kill-fleas/)
-.  They produce a stringent smell that repels fleas away.
+.� They produce a stringent smell that repels fleas away.
 - When administering, you can dilute it in the pets drinking water. For every teaspoon, you can add at least 4 cups of water before giving it to your dog.
 - Another essential oil to use is garlic oil or garlic capsules.
 Unlike vinegar, you can use garlic oil by putting some drops on the pets food. This makes it taste like spiced food though it should be done in limited portions. The smell of garlic repels fleas away from your pet.

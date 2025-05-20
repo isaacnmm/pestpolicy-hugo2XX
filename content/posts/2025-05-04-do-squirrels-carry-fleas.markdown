@@ -1,4 +1,4 @@
-ï»¿---
+---
 author: Isaac
 layout: post
 title: Do Squirrels Carry Fleas?
@@ -10,10 +10,7 @@ tags: []
 slug: /do-squirrels-carry-fleas/
 lastmod: 2025-05-07T12:21:26+03:00
 ---
-> **We may earn a commission when you click and buy from Amazon.com.**
->
 
----
 Well, it is hard to
 [get rid of fleas at your home](https://pestpolicy.com/how-to-get-rid-of-fleas-in-the-house-fast/)
 if you don't know where they are coming from. So, really, do squirrels carry fleas?
@@ -23,7 +20,7 @@ Wildlife, particularly rodents can easily deposit
 which brings a host of challenges for humans.
 **To answer this question, YES - squirrels carry fleas. The pests and their eggs can be dropped from the squirrel's fur and fall off on your garden**
 **, lawn, or yard as the rodent walks through. **
-**Fleas jump and attach themselves to their hosts, humans, and animals alike including squirrels. The fleas' eggs or larvae that fall off can infest your property when they hatch into adulthood.Â **
+**Fleas jump and attach themselves to their hosts, humans, and animals alike including squirrels. The fleas' eggs or larvae that fall off can infest your property when they hatch into adulthood. **
 [amazon bestseller="Best Fleas Killers" items="2" template="table"]
 - [Fleas are a type of parasite](http://www.idph.state.il.us/envhealth/pcfleas.htm)and live on the body of an animal, including squirrels!
 - As these flea parasites feed off blood from their host, they can cause some serious health consequences for animals or people who come in contact with them.
@@ -157,7 +154,7 @@ Dog owners should be careful about letting their pets chase or scare away any sq
 When you have a squirrel and a dog at the same home, it's important to always monitor their interaction. Dogs can transmit fleas to both dogs and squirrels (and vice versa) - if there are any fleas present in your pet's coat.
 - To avoid either of them getting infested with parasites from each other, consider bathing both more often than you usually would.
 ## Can squirrel fleas live on humans?
-Can fleas live on humans?Â No, the fleas will not live on humans for more than 24 hours. They usually bite people around the ankles and lower legs (feet) but later jump off to a suitable host or pet bed.
+Can fleas live on humans? No, the fleas will not live on humans for more than 24 hours. They usually bite people around the ankles and lower legs (feet) but later jump off to a suitable host or pet bed.
 
 It's also possible that a human could get fleas by handling pets, which are often infected with them, then touching their face without washing hands first.
 

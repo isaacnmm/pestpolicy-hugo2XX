@@ -1,4 +1,4 @@
-﻿---
+---
 author: Isaac
 layout: post
 title: 'Coronavirus (2019-nCoV) and Healthcare Personnel (HCP): Using PPE'
@@ -9,10 +9,7 @@ tags: []
 slug: /coronavirus-2019-ncov-hcp-using-ppe/
 lastmod: 2025-05-07T12:21:26+03:00
 ---
-> **We may earn a commission when you click and buy from Amazon.com.**
->
 
----
 The coronavirus (2019-nCoV) has become a global health concern, and healthcare personnel (HCP) are at the forefront of combating the disease. Proper use of personal protective equipment (PPE) is crucial for preventing the spread of the virus and protecting healthcare workers. This article provides a guide on how healthcare personnel can use PPE effectively when treating patients with suspected or confirmed COVID-19.
 ## Types of PPE for Healthcare Personnel
 ### 1.[N95 Respirators](https://www.amazon.com/dp/B084V8KZ71?tag=p-policy-20)

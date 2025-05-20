@@ -1,4 +1,4 @@
-ï»¿---
+---
 author: Isaac
 layout: post
 title: Does Bleach Kill Bed Bugs? and Eggs?
@@ -10,14 +10,11 @@ tags: []
 slug: /does-bleach-kill-bed-bugs/
 lastmod: 2025-05-07T12:21:26+03:00
 ---
-> **We may earn a commission when you click and buy from Amazon.com.**
->
 
----
 For years, bleach has been a product of choice for sanitizing and cleaning for most people. Due to its corrosive nature, homeowners have often considered it to kill bed bugs.
-- **Does Bleach Kill Bed Bugs? Well in summary, Â Technically,Â bleach will kill bed bugs by makingÂ the sodium hypochlorite oxidize the bug's body or outerÂ shell.**
+- **Does Bleach Kill Bed Bugs? Well in summary,  Technically, bleach will kill bed bugs by making the sodium hypochlorite oxidize the bug's body or outer shell.**
 - **Yet, humans or pets could inhale their toxic fumes, or it might damage your clothes and fabrics. Also, it would help if you sprayed the bleach mixture directly on the bed bug. **
-*Just like cockroaches, bed bugs are challenging to control and will multiply fast. BedÂ bug sprays would be a more effective and faster alternative. *
+*Just like cockroaches, bed bugs are challenging to control and will multiply fast. Bed bug sprays would be a more effective and faster alternative. *
 [amazon bestseller="Best Bed Bug Killer" items="2" template="table"]
 ## Does Bleach Kill Bed Bugs? and Their Eggs
 According to Michigan's research, Hsp33 (a protein) tends to react with bleach and thus killed the bacteria under test.
@@ -50,7 +47,7 @@ Bleach will only kill bed bugs through direct contact and be less effective for 
 - Bleach cannot poison[bed bugs](https://pestpolicy.com/what-does-bed-bug-poop-look-like/)that fall near it.
 - Therefore, the homeowner would require to[spray the chemical directly on the bed bug](https://pestpolicy.com/proof-bed-bug-spray-review/)body  if not, youll have missed the train.
 Therefore, if the bed bugs will be hiding in fabrics and clothes, you might unintentionally damage them.
-### 2.Â Bleach can poison pets and humans
+### 2. Bleach can poison pets and humans
 Bleach may also
 [poison your pets](https://www.petmd.com/dog/emergency/poisoning-toxicity/bleach-poisoning-pets-what-you-should-know)
 , adult human beings, and kids. But how? If your kids or dogs/ cars accidentally ingest the bleaching liquid, they might get poisoned.
@@ -68,7 +65,7 @@ C. hemipterus were previously considered odorless, but various chemical compound
 Therefore, bleach will not be a great
 [bed bug](https://pestpolicy.com/are-bed-bug-eggs-hard-or-soft/)
 control solution since the bugs will detect the chemical and go into hiding.
-### 4.Â Heat treatment is a better alternative
+### 4. Heat treatment is a better alternative
 For this, you'll do over 2 hours of heat treatment of your rooms at 140 degrees F. Such a treatment will allow you to
 [kill visible bed bugs](https://pestpolicy.com/do-ants-kill-bed-bugs/)
 and those hiding inside cracks and crevices.

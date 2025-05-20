@@ -1,4 +1,4 @@
-﻿---
+---
 author: Isaac
 layout: post
 title: 7 Best Electronic Flea Combs for Cats &amp; Dogs
@@ -10,10 +10,7 @@ tags: []
 slug: /best-electronic-flea-comb/
 lastmod: 2025-05-07T12:21:23+03:00
 ---
-> **We may earn a commission when you click and buy from Amazon.com.**
->
 
----
 Fleas can be a
 [persistent nuisance](https://pestpolicy.com/where-do-fleas-come-from/)
 for pets and their owners alike. Traditional

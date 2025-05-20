@@ -1,4 +1,4 @@
-﻿---
+---
 author: Isaac
 layout: post
 title: What Sound Does a Raccoon Make? 7 Sounds
@@ -10,16 +10,13 @@ tags: []
 slug: /what-sound-does-a-raccoon-make/
 lastmod: 2025-05-07T12:21:29+03:00
 ---
-> **We may earn a commission when you click and buy from Amazon.com.**
->
 
----
 Could you be hearing some indiscernible animal noises/sounds at night in your attic and wonder what it could be? But, how do you tell if it's
 [raccoon's sound](http://ipm.ucanr.edu/PMG/PESTNOTES/pn74116.html)
 ?
 **Well, the question at hand is, what sound does a raccoon make? Raccoons produce sounds like **
 **churring/purring, barking, chattering, hissing, and growling. **
-**Raccoons may squeal, screech (like a whistle), snarl, or scream as well. Snorting and whimpering sounds are associated with adult raccoons, while baby raccoons make mewing, cry, and whine. **
+**Raccoons may squeal, screech (like a whistle), snarl, or scream as well. Snorting and whimpering sounds are associated with adult raccoons, while baby raccoons make mewing, cry, and whine.�**
 [amazon bestseller="Best Raccoons Repellent" items="2" template="table"]
 Related:
 [Does Raccoon Poop Look Like?](https://pestpolicy.com/what-does-raccoon-poop-look-like/)

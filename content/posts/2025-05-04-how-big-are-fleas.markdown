@@ -1,4 +1,4 @@
-ï»¿---
+---
 author: Isaac
 layout: post
 title: How Big are Fleas? Size in Flea Life Cycle
@@ -10,25 +10,22 @@ tags: []
 slug: /how-big-are-fleas/
 lastmod: 2025-05-07T12:21:27+03:00
 ---
-> **We may earn a commission when you click and buy from Amazon.com.**
->
 
----
 Fleas are
 [tiny insects (order Siphonaptera)](https://pestpolicy.com/what-do-fleas-look-like/)
 that exist parasitically (sucking blood) on hosts birds, mammals, and pets like dogs & cats.
 Key identifies of the fleas include their color which can vary from black, reddish-brown, or brown; visible with naked eyes but may
 [hide in](https://pestpolicy.com/does-vacuuming-kill-flea-larvae/)
-*furniture & carpet fibers, and animals coats or fur.Â *
+*furniture & carpet fibers, and animals coats or fur. *
 **But how big are fleas? Adult fleas are dark brown and will measure about 1.4 - 3.3 millimeters in body length. **
-**But male fleas have a shorter body (average 1 millimeter) compared to females (average 2.5 millimeters). Despite being tiny, fleas can be seen through naked eyes.Â **
+**But male fleas have a shorter body (average 1 millimeter) compared to females (average 2.5 millimeters). Despite being tiny, fleas can be seen through naked eyes. **
 Related:
 [Commercial Grade Flea Killer for Yard](https://pestpolicy.com/best-flea-spray-for-yard/)
 .
 ## Details: How Big are Fleas?
 ### 1. Fleas' Body Length
 First, fleas are classified as true insects as they have 6 legs and 3 body segments (head, the thorax & abdomen).
-- **Fleas have a narrow body but their body length is about 1.55 - 3.25 millimeters.Â **
+- **Fleas have a narrow body but their body length is about 1.55 - 3.25 millimeters. **
 As noted above, male fleas have a shorter body length - males have an average length of 1 millimeter or under while females have an average length of 2.5 millimeters.
 Despite that fleas are tiny in length and width, you can see them with naked eyes. However, fleas can still hide animal fur or hair including
 [animals and pets with white fur](https://pestpolicy.com/can-fleas-live-in-human-hair/)
@@ -43,7 +40,7 @@ Fleas will feed only on the blood of birds and mammals (this includes humans).
 2. Sesame seed measure 3.5 millimeters in diameter
 3. Penny's side measure 1.5 millimeters thick
 4. A dime measure 17.9 millimeters in diameter
-5. Black pepper peppercornÂ measures 5 millimeters in diameter
+5. Black pepper peppercorn measures 5 millimeters in diameter
 ### 2. Fleas' Head
 The head of the fleas is narrow or elongated and thus it'll easily move through tiny spaces including the carpet fibers and animal hair.
 - Males fleas have a head that is almost equal in length to its head. However, the head of the female fleas measures about double the pest's body length.
@@ -69,7 +66,7 @@ When the flea is well fed, you can inspect its last segment and see the
 [flea's sensilium](https://livestockvetento.tamu.edu/insectspests/fleas/)
 (senses the bug's host) and also the genitals.
 - Fleas have a[lifecycle](https://pestpolicy.com/flea-life-cycle/)that lasts about 2-3 months but these bugs could live for even 1.5 years in different localities (varied humidity and temperature), and the presence of host blood.
-### 3. Fleas'Â Thorax
+### 3. Fleas' Thorax
 The thorax of fleas has 3 leg pairs with their hind ones being the longest.
 - The thorax has 3 segments; the prothorax, mesothorax, and metathorax.
 The 3 parts of the fleas' thorax have their backsides overlapping and thus they're squeezing onto each other.

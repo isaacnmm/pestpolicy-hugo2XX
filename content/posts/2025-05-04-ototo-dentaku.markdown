@@ -1,4 +1,4 @@
-﻿---
+---
 author: Isaac
 layout: post
 title: Ototo Dentaku - Make Music from Anything
@@ -9,10 +9,7 @@ tags: []
 slug: /ototo-dentaku/
 lastmod: 2025-05-07T12:21:28+03:00
 ---
-> **We may earn a commission when you click and buy from Amazon.com.**
->
 
----
 The
 [Ototo synthesizer](https://dentakulondon.com/ototo)
 is a groundbreaking musical invention kit that empowers anyone to create their own instruments without prior electronics knowledge. Designed by Dentaku, this PCB-based synthesizer opens up endless possibilities for music creation by combining touchpads, input/output, and sensors. Whether youre a seasoned musician or a curious beginner, Ototo transforms everyday objects into musical tools.

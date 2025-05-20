@@ -1,4 +1,4 @@
-ï»¿---
+---
 author: Isaac
 layout: post
 title: Does Rubbing Alcohol Kill Bed Bugs?
@@ -10,10 +10,7 @@ tags: []
 slug: /does-rubbing-alcohol-kill-bed-bugs/
 lastmod: 2025-05-07T12:21:26+03:00
 ---
-> **We may earn a commission when you click and buy from Amazon.com.**
->
 
----
 So, your home or premises has become infested with bed bugs? Nobody wants toxic chemicals in their home.
 *Before calling in an exterminator*
 , try some natural, homemade procedures such as rubbing alcohol,
@@ -23,7 +20,7 @@ So, your home or premises has become infested with bed bugs? Nobody wants toxic 
 , or
 [Ammonia](https://pestpolicy.com/does-ammonia-kill-bed-bugs/)
 .
-And if you have little kids, youre probably looking for solutions that kill bed bugs and bed bug eggs naturally (in addition to having fast action).Â In this post, I've discussed how rubbing alcohol can
+And if you have little kids, youre probably looking for solutions that kill bed bugs and bed bug eggs naturally (in addition to having fast action). In this post, I've discussed how rubbing alcohol can
 [kill bed bugs](https://pestpolicy.com/does-lysol-kill-bed-bugs/)
 .
 **Summary: The short answer is YES!**
@@ -79,7 +76,7 @@ Vacuum-clean your entire house. This should be done regularly anyway to prevent 
 **Step 9: **
 Consider other
 [natural methods](https://pestpolicy.com/top-7-natural-termite-control-can-easily/)
-described below if these steps havent worked. Some items might need to be thrown out completely if they are very infested.Â If all else fails, call in the exterminator!
+described below if these steps havent worked. Some items might need to be thrown out completely if they are very infested. If all else fails, call in the exterminator!
 ## **Homemade bed bug spray recipe**
 Did you know that you can make your own bed bug sprays using essential oils? All you need is an empty spray bottle, some
 [essential oils](https://pestpolicy.com/essential-oils-for-bed-bugs/)
@@ -90,10 +87,10 @@ with water and spray infected areas. Sometimes the above solutions by themselves
 Here is a
 [bed bug spray](https://pestpolicy.com/bedlam-plus-bed-bug-spray-review/)
 recipe made up of natural ingredients such as vinegar, rubbing alcohol, and essential oils.
-## **Rubbing alcohol alternatives?Â **
+## **Rubbing alcohol alternatives? **
 How effective is
 [vinegar in killing bed bugs](https://pestpolicy.com/does-vinegar-kill-bed-bugs/)
-? Well,Â Vinegar is another natural way to
+? Well, Vinegar is another natural way to
 [kill bed bugs directly](https://pestpolicy.com/do-ants-kill-bed-bugs/)
 on contact but is not always effective as a repellent. Yes, bleach will kill bed bugs. However, it is a chemical so use it sparingly.
 Diatomaceous Earth is another natural solution that you can try, which also dehydrates
@@ -124,6 +121,6 @@ and frames. But they can also spread throughout your house, infesting every furn
 as they feed off the blood, causing a rash in some people. So you really want to get
 [rid of them fast](https://pestpolicy.com/how-to-get-rid-of-ground-bees/)
 !
-## **ConclusionÂ **
+## **Conclusion **
 Weve shown you different natural remedies to kill bed bugs without harsh chemicals. It might take some trial and error to find the right one for you.
 However, combining alcohol with other steps such as steaming and vacuuming will likely give you the best results. If all else fails, call in the exterminator.

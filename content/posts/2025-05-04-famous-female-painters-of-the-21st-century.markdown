@@ -1,4 +1,4 @@
-﻿---
+---
 author: Isaac
 layout: post
 title: Famous Female Painters of the 21st Century
@@ -9,10 +9,7 @@ tags: []
 slug: /famous-female-painters-of-the-21st-century/
 lastmod: 2025-05-07T12:21:26+03:00
 ---
-> **We may earn a commission when you click and buy from Amazon.com.**
->
 
----
 The 21st century has seen the rise of many influential female artists who have made significant contributions to the world of painting. From contemporary art to abstract and conceptual pieces, these women have shaped the modern art landscape. Here are some of the most famous female painters of the 21st century.
 ## Top Female Painters of the 21st Century
 ### 1.[Yayoi Kusama](https://www.amazon.com/dp/B084V8KZ71?tag=p-policy-20)
@@ -23,8 +20,8 @@ Cindy Sherman is an American photographer and painter, widely recognized for her
 Kara Walker is an African American artist known for her provocative and darkly emotional works, which often explore themes of race, gender, and history. She is particularly recognized for her cut-paper silhouettes, which combine the traditional with the confrontational, challenging viewers to think critically about Americas past and present.
 ### 4.[Jenny Holzer](https://www.amazon.com/dp/B07ZC3H1S7?tag=p-policy-20)
 Jenny Holzer is an American artist known for her use of text in her artwork. Her paintings often feature political and social messages, and she is one of the most influential artists of the conceptual movement. Her work challenges traditional boundaries, and her messages continue to resonate with contemporary audiences.
-### 5.[Marina Abramović](https://www.amazon.com/dp/B01B0ZS4IK?tag=p-policy-20)
-Although primarily known for her performance art, Marina Abramovićs work as a painter and visual artist is equally influential. Her pieces often explore the limits of endurance, pain, and the human body. She has become one of the most significant contemporary artists, pushing boundaries and redefining the relationship between the artist and the audience.
+### 5.[Marina Abramovic](https://www.amazon.com/dp/B01B0ZS4IK?tag=p-policy-20)
+Although primarily known for her performance art, Marina Abramovics work as a painter and visual artist is equally influential. Her pieces often explore the limits of endurance, pain, and the human body. She has become one of the most significant contemporary artists, pushing boundaries and redefining the relationship between the artist and the audience.
 ### Impact of Female Painters on Modern Art
 Female painters of the 21st century have not only broken barriers within the art world but have also become central figures in challenging traditional notions of gender, race, and identity. Their works have contributed to the redefinition of contemporary art, offering fresh perspectives that challenge societal norms.
 ### Conclusion

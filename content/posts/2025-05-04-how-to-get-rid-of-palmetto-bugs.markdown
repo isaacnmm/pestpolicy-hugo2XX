@@ -1,4 +1,4 @@
-﻿---
+---
 author: Isaac
 layout: post
 title: How to Get Rid of Palmetto Bugs
@@ -10,14 +10,11 @@ tags: []
 slug: /how-to-get-rid-of-palmetto-bugs/
 lastmod: 2025-05-07T12:21:27+03:00
 ---
-> **We may earn a commission when you click and buy from Amazon.com.**
->
 
----
 The sight of
 [palmetto bugs](https://en.wikipedia.org/wiki/Florida_woods_cockroach)
 crawling around your house is simply disgusting. In case youre wondering how to get rid of it, you dont need to worry. Weve already done the research for you.
-**Carry out these 5 simple tips to get rid of these palmetto bugs without making direct contact. **
+**Carry out these 5 simple tips to get rid of these palmetto bugs without making direct contact.�**
 - **Place roach glue traps around the place in strategic positions.**
 - **Use boric acid to make homemade roach baits.**
 - **Spread out food-grade diatomaceous earth over the entire place.**
@@ -105,3 +102,4 @@ Professionals have found out that these plants have a certain chemical called
 . These have the potential of repel not only palmetto bugs but its other equally disgusting relatives as well.
 
 Were sure now youre aware of how to get rid of palmetto bugs. With the help of the tips that weve provided you, you can easily disinfect your home and keep it safe from palmetto bugs.
+

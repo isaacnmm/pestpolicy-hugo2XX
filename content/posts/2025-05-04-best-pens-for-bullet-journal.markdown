@@ -1,4 +1,4 @@
-﻿---
+---
 author: Isaac
 layout: post
 title: 7 Best Pens for Bullet Journal 2025 Reviewed
@@ -9,10 +9,7 @@ tags: []
 slug: /best-pens-for-bullet-journal/
 lastmod: 2025-05-07T12:21:25+03:00
 ---
-> **We may earn a commission when you click and buy from Amazon.com.**
->
 
----
 Using the right pen for your bullet journal can make all the difference. Whether youre a beginner or a seasoned bullet journal enthusiast, having smooth-writing, vibrant, and smudge-free pens is essential. Lets explore some of the best pens available on Amazon and why theyre perfect for enhancing your journaling experience.
 ## Best Pens for Bullet Journal
 ### 1.[Pilot G2 Gel Pens](https://www.amazon.com/dp/B001GAOTSW?tag=p-policy-20)

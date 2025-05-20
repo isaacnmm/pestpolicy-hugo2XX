@@ -1,4 +1,4 @@
-﻿---
+---
 author: Isaac
 layout: post
 title: How Do You Keep Horse Flies Away Naturally?
@@ -10,10 +10,7 @@ tags: []
 slug: /how-do-you-keep-horse-flies-away-naturally/
 lastmod: 2025-05-07T12:21:27+03:00
 ---
-> **We may earn a commission when you click and buy from Amazon.com.**
->
 
----
 Natural horse fly repellents are made from naturally grown plants or animals. Further,
 [processing the repellents](https://pestpolicy.com/best-fly-spray-for-horses/)
 undergo must not downgrade the natural form of its ingredients.

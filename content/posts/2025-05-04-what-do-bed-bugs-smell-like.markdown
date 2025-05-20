@@ -1,4 +1,4 @@
-ï»¿---
+---
 author: Isaac
 layout: post
 title: What Do Bed Bugs Smell Like?
@@ -10,10 +10,7 @@ tags: []
 slug: /what-do-bed-bugs-smell-like/
 lastmod: 2025-05-07T12:21:28+03:00
 ---
-> **We may earn a commission when you click and buy from Amazon.com.**
->
 
----
 What do bed bugs smell like? If there is an odor in your home that you do not recognize, you may be wondering if the culprit could be a bed bug infestation.
 But how do you know? In this article, we will examine what
 [bed bugs](https://pestpolicy.com/pictures-of-bed-bugs/)
@@ -56,9 +53,9 @@ We briefly touched on how you might spot a bed bug infestation aside from their 
 [flea bites vs. bed bugs bites](https://pestpolicy.com/flea-bites-vs-bed-bug-bites/)
 . Let's look in a little more detail at the signs you should be looking out for.
 As we mentioned, to properly smell bed bugs, you will need to be met with a rather large gathering of these pests, so it is best to tackle the problem earlier or spot any of the following signs.
-- The shells of bed bugs may be found on your soft furnishings or flooring.Â You might find dead bed bugs.
+- The shells of bed bugs may be found on your soft furnishings or flooring. You might find dead bed bugs.
 - You may notice that you have bite marks on your skin or find that your skin is irritated and itchy.
-- Bed bug fecal matter and[dead bed bugs may be present in the home](https://pestpolicy.com/dead-bed-bugs/); thisÂ is usually black, dust-like particles that will leave a red smear when rubbed or crushed.
+- Bed bug fecal matter and[dead bed bugs may be present in the home](https://pestpolicy.com/dead-bed-bugs/); this is usually black, dust-like particles that will leave a red smear when rubbed or crushed.
 Read Also:
 [Dead Bed Bugs](https://pestpolicy.com/dead-bed-bugs/)
 ## Common Misconceptions About The Smell Of Bed Bugs?

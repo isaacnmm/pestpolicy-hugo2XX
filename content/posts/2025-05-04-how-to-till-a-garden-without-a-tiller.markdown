@@ -1,4 +1,4 @@
-﻿---
+---
 author: Isaac
 layout: post
 title: How to Till a Garden without a Tiller
@@ -9,10 +9,7 @@ tags: []
 slug: /how-to-till-a-garden-without-a-tiller/
 lastmod: 2025-05-07T12:21:28+03:00
 ---
-> **We may earn a commission when you click and buy from Amazon.com.**
->
 
----
 The millennium-old practice of
 [tilling land](https://extension.unh.edu/blog/2020/10/low-no-till-gardening)
 comes with many benefits yet is exceedingly tiring, and time-consuming. What of discovering a hack that saves you dozens of efforts?
@@ -29,7 +26,7 @@ The garden planner solves a number of your headaches like helping you determine 
 - It has a lot of ready-designed objects like compost bins, sheds, fences that are dropped right to your garden.
 Objects include sheds, fences, and compost bins, which can be adjusted to fit your space. Click on the plant you want to add, and then on the place where you want to plant it.
 Hold and drag your mouse to draw a block or row. As you add plants, the space required is clearly shown by a colored space around the plant.
-The tooltip feature displays the number of plants that can fit in that area. Related:
+The tooltip feature displays the number of plants that can fit in that area.�Related:
 [Front Tine vs. Rear Tine Tillers](https://pestpolicy.com/front-tine-vs-rear-tine-tillers/)
 ### 2. Kill the existing weeds/grass
 Secondly, you need to kill weeds or grass to ensure it doesn't shoot up anymore.

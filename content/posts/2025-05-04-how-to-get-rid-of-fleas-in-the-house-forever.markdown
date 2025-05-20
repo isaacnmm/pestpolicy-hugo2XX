@@ -1,4 +1,4 @@
-﻿---
+---
 author: Isaac
 layout: post
 title: How to Get Rid Of Fleas in the House Forever
@@ -10,10 +10,7 @@ tags: []
 slug: /how-to-get-rid-of-fleas-in-the-house-forever/
 lastmod: 2025-05-07T12:21:27+03:00
 ---
-> **We may earn a commission when you click and buy from Amazon.com.**
->
 
----
 Fleas are a
 [common pest](https://entnemdept.ufl.edu/creatures/urban/occas/catflea.htm)
 in the house; They're small, they jump high, they'll multiply so fast, and can be incredibly difficult to get rid of.

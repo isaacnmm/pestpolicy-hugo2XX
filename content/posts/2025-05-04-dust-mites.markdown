@@ -1,4 +1,4 @@
-﻿---
+---
 author: Isaac
 layout: post
 title: 'Dust Mites & Allergies: How to Get rid of Them'
@@ -10,10 +10,7 @@ tags: []
 slug: /dust-mites/
 lastmod: 2025-05-07T12:21:26+03:00
 ---
-> **We may earn a commission when you click and buy from Amazon.com.**
->
 
----
 If your home has dust (which is practically in every home) there will be dust mites. These pests will eat dead skin flakes that have been shared by pets and humans.
 The microscopic organisms (invisible)
 [won't bite humans](https://pestpolicy.com/do-dust-mites-bite/)

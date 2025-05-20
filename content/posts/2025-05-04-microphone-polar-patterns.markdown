@@ -1,4 +1,4 @@
-﻿---
+---
 author: Isaac
 layout: post
 title: Microphone Polar Patterns
@@ -9,10 +9,7 @@ tags: []
 slug: /microphone-polar-patterns/
 lastmod: 2025-05-07T12:21:28+03:00
 ---
-> **We may earn a commission when you click and buy from Amazon.com.**
->
 
----
 Microphone polar patterns refer to the sensitivity of a microphone to sound from different directions. These patterns define how a microphone picks up sound from various angles, and they play a crucial role in determining how and where the microphone should be placed in different environments. Understanding microphone polar patterns is essential for both recording engineers and performers to ensure optimal sound capture. In this guide, we will explore the different types of polar patterns, how they work, and their applications in various audio scenarios.
 ### What are Microphone Polar Patterns?
 Microphone polar patterns describe the directionality of a microphonehow it picks up sound from different angles around it. Polar patterns are typically depicted as a graph, with the microphones position at the center. The graph shows the microphones sensitivity to sound from different directions. A microphone with a tight polar pattern will pick up sound from a narrower range of angles, while a microphone with a broader polar pattern will capture sound from a wider range.

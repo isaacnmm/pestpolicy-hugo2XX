@@ -1,4 +1,4 @@
-ï»¿---
+---
 author: Isaac
 layout: post
 title: Can Humans Get Ear Mites from Dogs?
@@ -10,16 +10,13 @@ tags: []
 slug: /can-humans-get-ear-mites-from-dogs/
 lastmod: 2025-05-07T12:21:26+03:00
 ---
-> **We may earn a commission when you click and buy from Amazon.com.**
->
 
----
 Can humans get ear mites from dogs?
 [Ear mites](https://vcahospitals.com/know-your-pet/ear-mites-otodectes-in-cats-and-dogs)
 will cause your dogs to scratch and shake their ears very frequently. They live in their ear canal & cause itchiness, as evidenced by frequent scratching.
-*The simple answer is  YES. These parasites spread rapidly and can be transmitted to humans through physical contact with the affected animal. It's sporadic for humans to catch ear mites. If they get into your body, they won't survive for long since they are not adapted to live in a human host.Â *
+*The simple answer is  YES. These parasites spread rapidly and can be transmitted to humans through physical contact with the affected animal. It's sporadic for humans to catch ear mites. If they get into your body, they won't survive for long since they are not adapted to live in a human host. *
 [Demodectic mites and sarcoptic mites](https://www.petmd.com/blogs/fullyvetted/2012/feb/sarcoptic_vs_demodectic_mange-12823)
-are common mites that can be transmitted from dogs to humans. So, you might be worried about ear mites being transmitted from your dogs to your family.Â Related:
+are common mites that can be transmitted from dogs to humans. So, you might be worried about ear mites being transmitted from your dogs to your family. Related:
 [Medicine for Ear Mites in Cats](https://pestpolicy.com/best-medicine-for-ear-mites-in-cats/)
 .
 [amazon bestseller="Ear Mites from Dogs" items="2" template="table"]

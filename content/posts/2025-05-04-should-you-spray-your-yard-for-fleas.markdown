@@ -1,4 +1,4 @@
-﻿---
+---
 author: Isaac
 layout: post
 title: Should You Spray Your Yard for Fleas?
@@ -10,10 +10,7 @@ tags: []
 slug: /should-you-spray-your-yard-for-fleas/
 lastmod: 2025-05-07T12:21:28+03:00
 ---
-> **We may earn a commission when you click and buy from Amazon.com.**
->
 
----
 If used around the house (beyond just the Yard),
 [Vet's Best Flea Spray](https://pestpolicy.com/best-flea-spray-for-yard/)
 will leave no stains even in places that the pets eat, play, sleep or live.

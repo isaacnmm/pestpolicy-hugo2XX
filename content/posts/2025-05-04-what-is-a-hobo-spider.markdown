@@ -1,4 +1,4 @@
-﻿---
+---
 author: Isaac
 layout: post
 title: What Is A Hobo Spider? - 9 Hobo Facts
@@ -10,10 +10,7 @@ tags: []
 slug: /what-is-a-hobo-spider/
 lastmod: 2025-05-07T12:21:29+03:00
 ---
-> **We may earn a commission when you click and buy from Amazon.com.**
->
 
----
 This post will answer the question "What is a Hobo Spider?" and give you 9 other interesting facts about these unique creatures!
 
 Hobo spiders (Tegenaria agrestis) are aggressive
@@ -122,7 +119,7 @@ where it is not dark or damp:
 - Eliminate their food sources by keeping vegetation trimmed back from foundations of buildings and sidewalks;
 - Place sticky traps in areas of high-traveling activity near exterior walls.
 ## Can a hobo spider kill a Dog or Cat?
-Recent studies shoes that hobo spider bites aren't harmful or won't kill your cat or dog; this is unlike the case with
+Recent studies shoes that hobo spider�bites aren't harmful or won't kill your cat or dog; this is unlike the case with
 **brown recluse and the **
 black widow that's fatal to pets and humans.
 

@@ -1,4 +1,4 @@
-ï»¿---
+---
 author: Isaac
 layout: post
 title: 7 Best Cross Training Shoes for High Arches 2025
@@ -9,21 +9,18 @@ tags: []
 slug: /best-cross-training-shoes-for-high-arches/
 lastmod: 2025-05-07T12:21:23+03:00
 ---
-> **We may earn a commission when you click and buy from Amazon.com.**
->
 
----
 Best Cross Training Shoes for High Arches should have ample midsole cushioning and under-arch support to alleviate pain or discomfort caused by high arches.
 
 A high arch (pes cavus) is the opposite of a
 [flat foot](https://pestpolicy.com/best-womens-dress-shoes-for-flat-feet/)
-. However, high arches tend to cause more pain than flat feet. Therefore, trainers with high arches will need neutral cushioned shoes or shoes that have an additional bump within the midfoot unit.Â  Such shoes promote flexibility and encourage natural pronation.
+. However, high arches tend to cause more pain than flat feet. Therefore, trainers with high arches will need neutral cushioned shoes or shoes that have an additional bump within the midfoot unit.  Such shoes promote flexibility and encourage natural pronation.
 
-Hence, Ive compiled some of the Best Cross Training Shoes for High Arches. Check out the list and choose your favorite pair.Â Related:
+Hence, Ive compiled some of the Best Cross Training Shoes for High Arches. Check out the list and choose your favorite pair. Related:
 [Best Cross Training Shoes for Bad Knees](https://pestpolicy.com/best-cross-training-shoes-for-bad-knees/)
 ## Review: Best Cross Training Shoes for High Arches
 ### [1. Reebok Men's Crossfit Nano 8.0 Flexweave Sneaker](https://www.amazon.com/dp/B07Q3L258K/?tag=p-policy-20)
-If you want versatile and reliable Cross Training Shoes for High Arches thenÂ  Reebok Crossfit Nano 8.0 Flexweave got you covered. These shoes accommodate various cross-training activities like HIT,
+If you want versatile and reliable Cross Training Shoes for High Arches then  Reebok Crossfit Nano 8.0 Flexweave got you covered. These shoes accommodate various cross-training activities like HIT,
 [plyometrics](https://pestpolicy.com/best-shoes-for-plyometrics/)
 , jump box, aerobics, and many other exercises.
 

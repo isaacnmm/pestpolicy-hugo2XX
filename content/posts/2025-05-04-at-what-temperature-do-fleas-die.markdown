@@ -1,4 +1,4 @@
-﻿---
+---
 author: Isaac
 layout: post
 title: At What Temperature Do Fleas Die?
@@ -10,14 +10,11 @@ tags: []
 slug: /at-what-temperature-do-fleas-die/
 lastmod: 2025-05-07T12:21:23+03:00
 ---
-> **We may earn a commission when you click and buy from Amazon.com.**
->
 
----
 Using heat is one of the many ways of
 [getting rid of fleas in your home](https://pestpolicy.com/home-remedies-for-fleas/)
 . But what temperatures do fleas die? Well, this is the right place to find your answers.
-**Fleas die if exposed to a temperature above 35 C (95F) and temperatures below 8C (46.4F). If it is the immature adults, they die from temperatures as low as 13C (55.4F). Fleas cannot also survive the frozen winter temperatures. Those that do so hide under the fur of warm-blooded animals. **
+**Fleas die if exposed to a temperature above 35 C (95F) and temperatures below 8C (46.4F). If it is the immature adults, they die from temperatures as low as 13C (55.4F). Fleas cannot also survive the frozen winter temperatures. Those that do so hide under the fur of warm-blooded animals.�**
 [amazon bestseller="Best Killer for Fleas" items="2" template="table"]
 There are lots of things to know when
 [controlling fleas with temperature](https://pestpolicy.com/what-kills-fleas-on-contact/)

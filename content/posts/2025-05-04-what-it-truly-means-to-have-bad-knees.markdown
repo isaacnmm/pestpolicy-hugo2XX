@@ -1,4 +1,4 @@
-﻿---
+---
 author: Isaac
 layout: post
 title: What it Truly Means to Have Bad Knees?
@@ -10,10 +10,7 @@ tags: []
 slug: /what-it-truly-means-to-have-bad-knees/
 lastmod: 2025-05-07T12:21:29+03:00
 ---
-> **We may earn a commission when you click and buy from Amazon.com.**
->
 
----
 Below I discuss what it truly means to have Bad Knees? I was yearning to stay active, but I didnt have my ever strong knees.
 "Bad knees"  the root of most of my fitness challenges  is a collection of injuries that occur to the knee.
 The injuries are classified into two: (1) traumatic/ acute injuries and (2) overuse injuries - check these
@@ -45,7 +42,7 @@ Most of the outlined bad knees issue listed above can be prevented by keeping yo
 ### Appropriate exercises
 Notably, your bad knee will not love an intensive workout. Therefore, youll have to shift the workout plan to make the knee to familiarise.
 - You may begin with working out or exercising for about 3 days per week. During this period, you can increase the workout time and intensity while considering your bodys reaction.
-- If, you'll be jogging or running, ensure you acquire the[right shoes for bad knees](https://pestpolicy.com/best-running-shoes-for-bad-knees/). As we had noted earlier, it is essential to take breaks in your workout plans to give your bad knee enough time to recover.
+- If, you'll be jogging or running, ensure you acquire the[right shoes for bad knees](https://pestpolicy.com/best-running-shoes-for-bad-knees/).�As we had noted earlier, it is essential to take breaks in your workout plans to give your bad knee enough time to recover.
 - Therefore, for our current workout plan, you can take about 2 resting days during which time the body will recover.
 Notably, avoid rushing to a new sport without training the relevant muscles. For example, if youll be starting tennis in the next month, ensure you strength train relevant muscles, which will prepare you to handle the physical stress resulting from the game.
 ### Balance your workouts
@@ -54,3 +51,4 @@ https://www.youtube.com/watch?v=4UxUfRb619A
 ## Conclusion
 Therefore, bad knees could be painful and stressful as your attitude can fall or rise. Youll need to consume the right information regarding the proper exercises that will benefit both your bad knee and other muscles.
 After all, it is clear that bad knee should not hamper your workout and fitness journey. Therefore, mix up your workouts with cross-training, lunges, squats, and days off for rest.
+

@@ -1,4 +1,4 @@
-﻿---
+---
 author: Isaac
 layout: post
 title: Permethrin Insect Repellent - Interactions, Side Effects
@@ -10,10 +10,7 @@ tags: []
 slug: /permethrin/
 lastmod: 2025-05-07T12:21:28+03:00
 ---
-> **We may earn a commission when you click and buy from Amazon.com.**
->
 
----
 Permethrin is one of the synthetic chemicals that are classified under the
 [pyrethroids family](https://www.epa.gov/ingredients-used-pesticide-products/registration-review-pyrethrins-and-pyrethroids)
 and come from a chrysanthemum flower.

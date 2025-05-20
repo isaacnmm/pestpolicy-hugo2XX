@@ -1,4 +1,4 @@
-﻿---
+---
 author: Isaac
 layout: post
 title: 7 Best OS for Raspberry Pi 3 2025
@@ -9,10 +9,7 @@ tags: []
 slug: /best-os-for-raspberry-pi-3/
 lastmod: 2025-05-07T12:21:24+03:00
 ---
-> **We may earn a commission when you click and buy from Amazon.com.**
->
 
----
 Did you order a Raspberry Pi 3 without a ready installed Operating System? If Not, you might need to install the Best OS for Raspberry Pi 3.
 - If yes, then you'll need to install the operating system manually.
 Luckily you have operating systems options such as

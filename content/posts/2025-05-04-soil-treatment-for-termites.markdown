@@ -1,4 +1,4 @@
-ï»¿---
+---
 author: Isaac
 layout: post
 title: Soil Treatment for Termites Control
@@ -10,10 +10,7 @@ tags: []
 slug: /soil-treatment-for-termites/
 lastmod: 2025-05-07T12:21:28+03:00
 ---
-> **We may earn a commission when you click and buy from Amazon.com.**
->
 
----
 Soil treatment for termites involves using some contact insecticides around your house and yard to create barriers. The
 [subterranean termite control](https://pestpolicy.com/subterranean-termites-treatment/)
 process is divided into pre-construction plus the post-construction treatment.
@@ -55,7 +52,7 @@ Terms-mesh is a closely-knit mesh (made from stainless steel) that lasts for a l
 You may apply the termiticides on the wood or soil after the construction process is complete. The soil treatment insecticides can come in the form of
 [baits](https://pestpolicy.com/best-termite-bait-stations/)
 or liquids.
-### 1.Â Wall Foundations or Pipes
+### 1. Wall Foundations or Pipes
 The process may also involve rodding or trenching the soil around the wall foundations or pipes and piers.
 - Dig narrow trenches outside & inside the structure's (chimney or piers) foundation before injecting your termiticides into the soil.
 - Conduct a termite inspection (both outside and inside areas) on the house and other structures. You may engage a termite inspection company (but consider[termite inspection cost](https://pestpolicy.com/termite-inspection-cost/)).
@@ -67,12 +64,12 @@ You can establish a vertical termite barrier by applying insecticide in the hole
 - Avoid applying the insecticide into your drainage system if there is a danger of reaching the foundation drainage, french drains, or drain tile.
 - If the structure footing is exposed, you'll need to be applied next to (not under) the footing. Also, ensure you termite treat the soil around strictures like all the conduits and sewer pipes.
 - Caution, concrete slabs may provide other entry points for termites such as plumbing outlets and bath traps - which may render your previous termite treatment ineffective. Therefore, conduct good drilling as this will readily.
-### 4.**Wood treatmentÂ **
+### 4.**Wood treatment **
 This requires you to apply the termiticides on your wood, preventing or controlling a termite infestation. Some of the methods for a termite treatment on wood include pressure-treatment.
 - Pressure-treating the wood and the soil around it makes your structures to be termite and[carpenter ants](https://pestpolicy.com/best-ant-killer/)resistant.
 - The treatment involves the application of a chemical preservative through the use of high pressure.
 - Also, wood spraying using an effective termiticide allows the wood to be protected on its surface, but this chemical won't get deep into its pores.
-**5. Foundation Termite TreatmentÂ **
+**5. Foundation Termite Treatment **
 Treating the foundation for termites will also involve applying the termiticides on the house or wall foundations and elements.
 It helps build a barrier via positioning the termiticides in the brick walls or concrete block - between the walls where you find a space.
 Treating and drilling the house foundations enables the termiticides to penetrate the concrete footings that could have crevices and cracks.

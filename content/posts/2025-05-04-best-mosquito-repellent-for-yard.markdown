@@ -1,4 +1,4 @@
-ï»¿---
+---
 author: Isaac
 layout: post
 title: 7 Best Mosquito Repellent for Yard 2025
@@ -10,10 +10,7 @@ tags: []
 slug: /best-mosquito-repellent-for-yard/
 lastmod: 2025-05-07T12:21:24+03:00
 ---
-> **We may earn a commission when you click and buy from Amazon.com.**
->
 
----
 Do you find yourself constantly worrying about your kids getting mosquitoes bites every time they are out playing in your backyard? Well, you should be.
 - Mosquitoes are responsible for almost[720,000 deaths every year](https://www.isglobal.org/en_GB/-/mosquito-el-animal-mas-letal-del-mundo), with the biggest percentage being kids.
 - You can never go wrong with investing in a mosquito repellent for your yard. This can save you or your guests the discomfort that[comes with mosquito](https://pestpolicy.com/when-do-mosquitoes-come-out/)bites.
@@ -56,14 +53,14 @@ Third, on my list is the Spectracide Triazicide. This is an outdoor insect
 [killer that repels and kills mosquitoes](https://pestpolicy.com/best-mosquito-killer/)
 and 260 other annoying pests such as ticks, crickets, gnats, beetles, fleas, bugs, worms by contact.
 Spectracide Triazicide insect spray is very effective; in just one thorough application, the spray's effects last for up to 8 weeks. Some people have reported that they have felt the effects 12 weeks after application. A single bottle covers an area of 2100 square feet.
-Using this insect killer is pretty easy and straightforward. You just attachÃ© your garden hose to the repellant bottle and spray targeting the affected area - related -
+Using this insect killer is pretty easy and straightforward. You just attaché your garden hose to the repellant bottle and spray targeting the affected area - related -
 [top mosquito traps](https://pestpolicy.com/best-mosquito-trap/)
 .
 It may not be
 [safe for pets](https://pestpolicy.com/pet-safe-roach-killer/)
 and humans since it is chemically synthesized. It is made of a pyrethroid class insecticide- Gama-Cyhalothrin.
 Spectracide Triazicide either comes in a 32-ounce bottle of dilutable concentrate formula or ready to spray formula. Both work the same way. After application, it does not leave any stain; neither does it have any after-scent.
-With the Spectracide Triazicide mosquito spray, you are guaranteed aÂ  pest-free yard, lawn, vegetable garden, flowers, trees, grass, and water baths.
+With the Spectracide Triazicide mosquito spray, you are guaranteed a  pest-free yard, lawn, vegetable garden, flowers, trees, grass, and water baths.
 ## [5. Summit 20-Pack Mosquito Dunk- Best Larvicide Killer](https://www.amazon.com/dp/B002GJPFIU/?tag=p-policy-20)
 [amazon box="B002GJPFIU" template="horizontal"]
 Summit 20-Pack Mosquito Dunk is specially formulated to kill mosquito larvae before they become old enough to start biting. It is used in any standing water - here's how to unclog the water.
@@ -99,8 +96,8 @@ You will only need to attach the garden hose to the bottle to start spraying on 
 [amazon box="B00BLXZJW4" template="horizontal"]
 My first review, which is also my
 [top pick, goes to Ortho](https://pestpolicy.com/ortho-home-defense-dual-action-bed-bug-killer-review/)
-Bug B Gon.Â  What makes it stand out is the long-lasting period of effectiveness- its effects last up to 6 months.
-- Another reason why Ortho Bug B Gon made it to the top of my review is that it kills as many as 235+ listed different species of outdoor pests among the mosquitoes, fleas, spiders,Â  ants, and ticks.
+Bug B Gon.  What makes it stand out is the long-lasting period of effectiveness- its effects last up to 6 months.
+- Another reason why Ortho Bug B Gon made it to the top of my review is that it kills as many as 235+ listed different species of outdoor pests among the mosquitoes, fleas, spiders,  ants, and ticks.
 Using this product, your yard, flowers, trees, shrubs, and lawns will remain pest-free.
 It comes in a 32-ounce bottle, which covers an area of up to 5,300 square feet. Unless your yard is larger, a single bottle is enough to keep mosquitoes away for 6 months.
 The active ingredients found in this

@@ -1,4 +1,4 @@
-﻿---
+---
 author: Isaac
 layout: post
 title: Do I Need To Sand Fiberglass Boat Before Painting?
@@ -9,10 +9,7 @@ tags: []
 slug: /do-i-need-to-sand-fiberglass-boat-before-painting/
 lastmod: 2025-05-07T12:21:26+03:00
 ---
-> **We may earn a commission when you click and buy from Amazon.com.**
->
 
----
 If you're a boat owner looking to refresh the appearance of your fiberglass boat with a
 [new coat of paint](https://pestpolicy.com/how-to-paint-a-fiberglass-boat/)
 , you might wonder if sanding is necessary before applying the paint. Sanding fiberglass boats before painting is a common practice, but is it really essential?
