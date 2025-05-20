@@ -1,7 +1,7 @@
 ---
 layout: page
 title: DIY Painting
-date: '2025-03-21T14:36:16+00:00'
+$12025-05-19T00:00:00+00:00
 permalink: /diy-painting/
 ---
 

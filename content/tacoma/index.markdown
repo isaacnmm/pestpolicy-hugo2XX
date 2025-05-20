@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Tacoma
-date: '2025-03-21T12:52:28+00:00'
+$12025-05-19T00:00:00+00:00
 permalink: /tacoma/
 ---
+
 

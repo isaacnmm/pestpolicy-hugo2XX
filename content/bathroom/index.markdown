@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Top Bathroom Design Trends to Watch in 2025
-date: '2025-03-28T02:36:20+00:00'
+$12025-05-19T00:00:00+00:00
 permalink: /bathroom/
 ---
 

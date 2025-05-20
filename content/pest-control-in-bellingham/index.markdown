@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Pest Control in Bellingham, WA
-date: '2025-03-22T02:26:14+00:00'
+$12025-05-19T00:00:00+00:00
 permalink: /pest-control-in-bellingham/
 ---
 

@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Everett
-date: '2025-03-21T22:56:13+00:00'
+$12025-05-19T00:00:00+00:00
 permalink: /everett/
 ---
+
 

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Privacy Policy
-date: '2025-03-21T11:24:40+00:00'
+$12025-05-19T00:00:00+00:00
 permalink: /privacy-policy/
 ---
 
