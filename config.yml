@@ -116,6 +116,11 @@ menu:
 # privacy:
 #   # Customize privacy settings here
 
+  analytics: # This section might already exist, if so, just add the line below
+    googlesiteVerificationTag: "wcIIamJKWxC3IcPXe02IZlAEWcGk828ZThxeK1w3aUQ"
+    # If you have other verification tags (Bing, Yandex), you can add them here too,
+    # if your theme supports them (e.g., bingsiteVerificationTag: "YOUR_BING_CODE")
+
 # services:
 #   googleAnalytics:
 #     enable: true
