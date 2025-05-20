@@ -1,0 +1,124 @@
+# --- Basic Site Configuration (Edit these for Pest Policy) ---
+
+baseURL: 'https://pestpolicy.com/' # The base URL for your deployed website.
+
+languageCode: 'en-us'         # Your language code
+title: 'Home Improvement'         # Your website's title
+theme: "PaperModX"             # Make sure this is "PaperModX"
+
+permalinks:
+  posts: "/:slug/"             # Permalink structure for your articles
+
+# --- Homepage Info / Banner Configuration (theme-specific) ---
+
+homeInfoParams:
+  Title: "Welcome to Pest Policy"
+  Content: |
+    Your guide to achieving Great Homes - including pest-free, well-painted and also talking about running or walking shoes. 
+    # You can add more markdown content here for your banner.
+    # - For example: Learn more about [Sleep Hygiene](/sleep-hygiene/) or [Bedroom Environment](/bedroom-environment/).
+
+  # Example buttons (uncomment and edit if needed)
+  # buttons:
+  #   - name: "Explore Articles"
+  #     url: "/posts/"
+  #   - name: "About Us"
+  #     url: "/about/"
+
+# --- Theme-Specific Parameters (PaperModX) ---
+params:
+  env: "production" # Keep as "production" for live site builds
+
+  # Site Metadata for SEO
+  description: "Pest solutions, Sprayers and Paint. Visit the [Product Reviews](/categories/product-reviews/) or check out the [DIY Guides](/categories/guide/)."
+  keywords:
+    - pest control
+    - spray painting
+    - walking and running shoes
+
+  author: "Isaac"
+
+  DateFormat: "January 2, 2006" # Format for dates
+
+  defaultTheme: "light"        # Options: "light", "dark", or "auto"
+  # disableThemeToggle: true     # Uncomment to disable theme toggle
+
+  # Feature toggles
+  ShowShareButtons: true
+  ShowReadingTime: true
+  ShowPostNavLinks: true
+  ShowRssButtonLeafBundle: false
+  ShowToc: true
+  TocSide: right
+
+  # Profile Mode (optional homepage style)
+  # profileMode:
+  #   enabled: false
+  #   title: "Home Improvement"
+  #   subtitle: "Your journey to Home Improvement."
+  #   imageUrl: "path/to/your/profile/image.jpg"
+  #   imageZoom: false
+  #   imageCircleIcons: true
+  #   imageWidth: 125
+  #   imageHeight: 125
+  #   buttons:
+  #     - name: "Articles"
+  #       url: "/posts/"
+  #     - name: "About"
+  #       url: "/about/"
+
+  # Social Icons (optional)
+  # socialIcons:
+  #   - name: "linkedin"
+  #     url: "your-linkedin-profile-url"
+  #   - name: "github"
+  #     url: "your-github-profile-url"
+  #   - name: "twitter"
+  #     url: "your-twitter-profile-url"
+
+# --- Site Menu Configuration ---
+
+menu:
+  main:
+
+    - identifier: "articles"
+      name: "Blog"
+      url: "/posts/"
+      weight: 20
+
+    # Add more menu items as needed
+
+# --- Optional Advanced Config Sections (commented) ---
+
+# outputs:
+#   home: ["HTML", "RSS", "JSON"]
+#   page: ["HTML", "AMP"]
+#   section: ["HTML", "RSS"]
+#   taxonomy: ["HTML", "RSS"]
+#   term: ["HTML", "RSS"]
+
+# taxonomies:
+#   category: "categories"
+#   tag: "tags"
+#   series: "series"
+
+# markup:
+#   tableOfContents:
+#     startLevel: 2
+#     endLevel: 3
+#     ordered: true
+
+# sitemap:
+#   changefreq: "weekly"
+#   priority: 0.5
+#   filename: "sitemap.xml"
+
+# privacy:
+#   # Customize privacy settings here
+
+# services:
+#   googleAnalytics:
+#     enable: true
+#     id: "UA-XXXXXXXXX-X"
+
+# --- End of config.yaml ---
