@@ -1,19 +1,19 @@
----
+ï»¿---
+date: '2025-05-19T00:00:00+00:00'
+lastmod: '2025-05-19T00:00:00+03:00'
 author: Isaac
 layout: post
 title: What Do Stink Bugs Eat? Insects, Corn, Tomatoes?
-$12025-05-19T00:00:00+00:00
 categories:
 - Bed Bugs
 - Guide
 tags: []
 slug: /what-do-stink-bugs-eat/
-$12025-05-19T00:00:00+03:00
 ---
 
 Stink bugs are pests commonly
 [found in the garden](https://pestpolicy.com/how-can-you-tell-if-you-have-moles-in-your-yard/)
-but on some rare occasions, they make entry into our homes.  But do ever wonder what do stink bugs to survive?
+but on some rare occasions, they make entry into our homes.Â  But do ever wonder what do stink bugs to survive?
 - Well, stink bugs are well known for their pungent smell. There are many species of stink bugs and you can tell from their different colours.
 - Though the most common colour is brown other colours ranges from brown to red, yellow and white.
 - Stink bugs have mouth parts that have needle-like appendages that help in the consumption and uptake of nutrients in their bodies.
@@ -32,7 +32,7 @@ Stink bugs are fond of fruits especially those on trees because they are soft an
 and peaches.
 - This is because of their soft skins that are easy to penetrate and also suck the juice and the delicacy out of it.
 To most farmers, this attack by the stink bugs results in huge losses because the affected fruits cannot be sold. Infested fruits develop scars that make them hard to consume.
-### **2. Tomatoes  **
+### **2. TomatoesÂ  **
 Stink bugs also like feasting on tomatoes too. They enjoy sucking of the juice from them just like they do on fruits.
 - They feed on tomatoes by piercing through their soft skin and flesh, sucking as much as they need.
 Just like fruits, infested tomatoes cannot to eat or sell to farmers making them suffer loss.
@@ -76,8 +76,12 @@ Alternatively, having window blinds is also a good way of preventing the indoor 
 - Stink bugs will always look for somewhere warm to continue with their lifecycle during winter and the safest place could be indoors.
 Though they will be rarely destructive indoors, at some point they might also attack tomatoes and other fruits in your house
 ## Final thoughts
-What do stink bugs eat?  Stink bugs are more of outdoor bugs and their favourite food include, tomatoes, fruits, soybean, leaves and flowers of some plants.
+What do stink bugs eat?Â  Stink bugs are more of outdoor bugs and their favourite food include, tomatoes, fruits, soybean, leaves and flowers of some plants.
 - Some bugs are also predators and will also feed on other insects like caterpillars, beetles, aphids among others.
 - Though some bugs may invade our homes, they do so looking for shelter during winter. Some may also get attracted by the lights of foods in your home.
 If you find them in your homes there are several ways to eliminate them or even prevent their invasion either even on the garden.
+
+
+
+
 

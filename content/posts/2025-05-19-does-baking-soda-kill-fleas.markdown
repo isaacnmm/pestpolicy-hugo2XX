@@ -1,14 +1,14 @@
----
+﻿---
+date: '2025-05-19T00:00:00+00:00'
+lastmod: '2025-05-19T00:00:00+03:00'
 author: Isaac
 layout: post
 title: Does Baking Soda Kill Fleas? Natural
-$12025-05-19T00:00:00+00:00
 categories:
 - Fleas
 - Guide
 tags: []
 slug: /does-baking-soda-kill-fleas/
-$12025-05-19T00:00:00+03:00
 ---
 
 Does baking soda kill
@@ -75,4 +75,8 @@ when you find them lodging in your home. Also, other natural methods include
 One of these ways is using a baking soda and salt mixture, which is very effective at targeting
 [fleas within carpets](https://pestpolicy.com/best-flea-carpet-powder/)
 and furnishings.
+
+
+
+
 

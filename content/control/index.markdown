@@ -1,7 +1,8 @@
----
+﻿---
+date: '2025-05-19T00:00:00+00:00'
+lastmod: '2025-05-19T00:00:00+03:00'
 layout: page
 title: Home Improvement
-$12025-05-19T00:00:00+00:00
 permalink: /control/
 ---
 
@@ -23,3 +24,7 @@ Explore our professional pest control services to keep your space pest-free and 
 ### Get a Free Quote
 Discover our expert tips and tools for your DIY painting projects, ensuring a professional finish.
 ![](/assets/img//)
+
+
+
+

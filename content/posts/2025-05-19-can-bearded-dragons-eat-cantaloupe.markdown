@@ -1,19 +1,19 @@
----
+ï»¿---
+date: '2025-05-19T00:00:00+00:00'
+lastmod: '2025-05-19T00:00:00+03:00'
 author: Isaac
 layout: post
 title: Can Bearded Dragons Eat Cantaloupe? 7 Tips
-$12025-05-19T00:00:00+00:00
 categories:
 - Guide
 - Lizard
 tags: []
 slug: /can-bearded-dragons-eat-cantaloupe/
-$12025-05-19T00:00:00+03:00
 ---
 
 **So, can Bearded Dragon eat cantaloupe?Quick answer is No! Cantaloupes are over sugary (causing teeth decay), very acidic (cause indigestion problems). Also, cantaloupe have excess water content (which cause runny poo), Low calcium: phosphorous ratio as well as low quantities of minerals.**
 *Though most Bearded Dragon owners tend to feed their pet beardies with cantaloupe, this act may endanger the animals health at long run. *
-*Some vet recommends occasional feeding of bearded dragon with little bit of cantaloupe, but I suggest you avoid them completely due to the above named problems. *
+*Some vet recommends occasional feeding of bearded dragon with little bit of cantaloupe, but I suggest you avoid them completely due to the above named problems.Â *
 ## Can Bearded Dragons Eat Cantaloupe? 7 Tips
 Cantaloupe, also known as sweet melon, muskmelon, honeydew, rock melon or persian melon in different regions of the world, is a common fruit mainly eaten as a snack or dessert by people.
 Could be you grow cantaloupe in your farm or have come across some in the groceries and wonders whether your Bearded Dragon can eat these fruits.
@@ -50,7 +50,7 @@ Cantaloupe has 7.86g of sugar for every 100g of the fruit oz. This this level is
 [nutrition](https://pestpolicy.com/can-bearded-dragons-eat-apples/)
 requirements.
 In the ideal situation, an adult beardie should take 0.5g to 2g (max) sugar contentment for every 100g Oz of a given meal while juvenile beardies should be fed with meals that have 0.4g to 1.2g sugar content.
-Ideally, the sugar content in this fruit is already far beyond the needed amount in your lizards body/physiological processes. Excess sugar that is absorbed in the blood may cause high blood pressure or diabetes that may lead to death easily.
+Ideally, the sugar content in this fruit is already far beyond the needed amount in your lizards body/physiological processes.Â Excess sugar that is absorbed in the blood may cause high blood pressure or diabetes that may lead to death easily.
 Sugar, also accumulates on the teeth and between teeth gaps leading to teeth decay or dental carries. Normally, its not possible to brush the teeth of your beardies as a form of healthcare.
 However, you should monitor their sugar deposit level by ensuring that you feed less sugary meals and by also providing vegetable meals that have high fiber content, which brush the teeth in the process of feeding.
 Actually, its very necessary to engage a qualified vet often for teeth inspection of your beardie.
@@ -72,5 +72,9 @@ However, if there is a laxity in sugar monitoring, calcium: phosphorous ratio co
 Cantaloupe, just like avocado and orange, shouldnt be used as a main meal for your bearded dragon. The fruit is very acidic and has high water content that may lead to kidney failure, diarrhea or watery/runny poo.
 Moreover, cantaloupe has low calcium: phosphorous ratio, which inhibits uptake of calcium necessary for bone strengthening thus leading to metabolic bone disease.
 The high sugar content found in cantaloupe will cause teeth decay if not monitored at long run. It is therefore advisable to avoid use of cantaloupe as main diet for your pet bearded dragon.
+
+
+
+
 
 

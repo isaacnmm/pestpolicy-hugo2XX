@@ -1,14 +1,14 @@
----
+ï»¿---
+date: '2025-05-19T00:00:00+00:00'
+lastmod: '2025-05-19T00:00:00+03:00'
 author: Isaac
 layout: post
 title: Dead Bed Bugs - What Should You Do Now?
-$12025-05-19T00:00:00+00:00
 categories:
 - Bed Bugs
 - Guide
 tags: []
 slug: /dead-bed-bugs/
-$12025-05-19T00:00:00+03:00
 ---
 
 Seeing
@@ -79,7 +79,7 @@ The other places in which
 include box springs, electrical outlets, bed frames, chairs, picture frames, baseboards, and wallpapers.
 These are the areas that you need to check to
 [see if you have bed bugs](https://pestpolicy.com/can-you-see-bed-bugs/)
-in your house. Also, these pests are nocturnal, which means they go hiding during the day and come out to feed on your blood at night.
+in your house.Â Also, these pests are nocturnal, which means they go hiding during the day and come out to feed on your blood at night.
 Therefore, while looking, you are likely to find them in areas where you spend most of your time while at home. Unless they are large in number, they tend to hide a few feet from where they get their food.
 When you start
 [looking for live bed bugs](https://pestpolicy.com/can-bed-bugs-live-outside/)
@@ -92,7 +92,7 @@ The truth is
 [bed bugs are tiny, and they move very fast](https://pestpolicy.com/how-do-bed-bugs-spread/)
 , which means spotting them will be hard. Therefore, you need to start looking for other signs that your house is bed bug-infested.
 Start by looking for the signs of feces. You will find these around the bed frames and mattresses and in other areas that bed bugs like to use for hiding.
-If you see things that look like small, dark, spots, then you shall have found them. The other
+If you see things that look like small, dark, spots, then you shall have found them.Â The other
 [signs that you might have bed bugs](https://pestpolicy.com/can-bed-bugs-live-in-your-skin/)
 in the house are tiny red spots on your bedsheets.
 This can happen when you
@@ -129,7 +129,7 @@ Read Also:
 [Does Diatomaceous Earth Kill Bed Bugs?](https://pestpolicy.com/does-diatomaceous-earth-kill-bed-bugs/)
 ## Can Dogs Carry Bed Bugs?
 There is a possibility that your pet might have some bed bugs on their fur. This is true because their body can provide a perfect hiding haven for the bed bugs and other insects.
-For safety purposes, you need to ensure that your pet does not have any bed bug on them before you start cleaning. Check their fur and if you find that they have bed bugs or signs of them, use a non-toxic
+For safety purposes, you need to ensure that your pet does not have any bed bug on them before you start cleaning.Â Check their fur and if you find that they have bed bugs or signs of them, use a non-toxic
 [spray to kill the bed bugs](https://pestpolicy.com/bedlam-plus-bed-bug-spray-review/)
 .
 However, this should be done carefully since some pets might have sensitive skin. Such pets tend to develop allergic reactions when sprayed.
@@ -138,7 +138,7 @@ There are special pills that are created for pets that have allergic skin. If yo
 try to feed on their blood, they die and fall off.
 You can talk to your vet for the best way to administer the pills so that your pet does not get hurt in the process of fighting the best bugs.
 **Call an Exterminator**
-: If your house is infested to a level that you cant deal with, consider calling an exterminator. This also makes sense if you are not familiar with DIY techniques mentioned above.
+:Â If your house is infested to a level that you cant deal with, consider calling an exterminator. This also makes sense if you are not familiar with DIY techniques mentioned above.
 Read Also:
 [Does Baby Powder Kill Bed Bugs?](https://pestpolicy.com/does-baby-powder-kill-bed-bugs/)
 ## Conclusion
@@ -146,4 +146,8 @@ If you spot a dead bed bug in your house, it is important that you get ready to 
 Make sure that you locate the
 [areas used by bed bugs](https://pestpolicy.com/bed-bugs-vs-mites/)
 to hide and then using the right pesticide to kill them.
+
+
+
+
 

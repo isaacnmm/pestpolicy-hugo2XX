@@ -1,13 +1,13 @@
----
+﻿---
+date: '2025-05-19T00:00:00+00:00'
+lastmod: '2025-05-19T00:00:00+03:00'
 author: Isaac
 layout: post
 title: Town Square Park-Federal Way
-$12025-05-19T00:00:00+00:00
 categories:
 - Federal Way
 tags: []
 slug: /town-square-park-federal-way/
-$12025-05-19T00:00:00+03:00
 ---
 
 Town Square Park is a vibrant and welcoming public space located in the heart of Federal Way, Washington.
@@ -36,4 +36,8 @@ It provides a wide range of outdoor activities, including hiking, biking, fishin
 Poverty Bay Park features scenic views, beach access, and picnic areas, making it a tranquil spot for a picnic and enjoying the natural beauty of the waterfront.
 
 These parks collectively offer a variety of recreational opportunities and natural beauty, making Federal Way a great place for outdoor enthusiasts and families.
+
+
+
+
 

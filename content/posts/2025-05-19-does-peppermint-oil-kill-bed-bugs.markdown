@@ -1,14 +1,14 @@
----
+﻿---
+date: '2025-05-19T00:00:00+00:00'
+lastmod: '2025-05-19T00:00:00+03:00'
 author: Isaac
 layout: post
 title: Does Peppermint Oil Kill Bed Bugs?
-$12025-05-19T00:00:00+00:00
 categories:
 - Bed Bugs
 - Guide
 tags: []
 slug: /does-peppermint-oil-kill-bed-bugs/
-$12025-05-19T00:00:00+03:00
 ---
 
 Current research shows that essential oils have antiseptic, antifungal, & antibacterial properties. But which one really does
@@ -93,4 +93,8 @@ Objects such as stuffed animals, toys, and coaches require another method of app
 So, will peppermint oil really kill the bed bugs? Yes, peppermint oil is a common pest repellent and its chemical power is strong to allow it to repel or kill bed bugs.
 - But the caveat is you must spray the peppermint oil directly on the bed bug's body - to hit its skeleton.
 - This is to say that if you don't spray them play on the bed bugs' bodies, these pests can walk safely on services that have been sprayed with peppermint oil.
+
+
+
+
 

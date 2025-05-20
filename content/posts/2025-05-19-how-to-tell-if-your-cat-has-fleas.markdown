@@ -1,14 +1,14 @@
----
+﻿---
+date: '2025-05-19T00:00:00+00:00'
+lastmod: '2025-05-19T00:00:00+03:00'
 author: Isaac
 layout: post
 title: How To Tell If Your Cat Has Fleas
-$12025-05-19T00:00:00+00:00
 categories:
 - Fleas
 - Guide
 tags: []
 slug: /how-to-tell-if-your-cat-has-fleas/
-$12025-05-19T00:00:00+03:00
 ---
 
 As a pet parent, maybe sometimes you wonder how to tell if your cat has fleas.
@@ -66,7 +66,7 @@ In order to produce eggs, fleas only need to take a single full-blood drink from
 
 Female fleas can lay as many as 30-50 eggs a day by the time they reach maturity.
 
-Therefore, to control this massive reproduction, you must be vigilant about infestation symptoms.�Below is a video describing what you should look for if you suspect your cat has fleas.
+Therefore, to control this massive reproduction, you must be vigilant about infestation symptoms. Below is a video describing what you should look for if you suspect your cat has fleas.
 
 https://www.youtube.com/watch?v=Qc15EPS6iUk
 ### Sign 1 - Anemia and Itchy Bites
@@ -135,4 +135,8 @@ Once you've found the fleas in your house, it's time to get rid of them.
 Before using any of these treatments be sure to read instructions carefully.
 
 Be safe!
+
+
+
+
 

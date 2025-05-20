@@ -1,14 +1,14 @@
----
+﻿---
+date: '2025-05-19T00:00:00+00:00'
+lastmod: '2025-05-19T00:00:00+03:00'
 author: Isaac
 layout: post
 title: How to Get Rid Of Drain Flies in Septic Tank
-$12025-05-19T00:00:00+00:00
 categories:
 - Flies
 - Guide
 tags: []
 slug: /how-to-get-rid-of-drain-flies-in-septic-tank/
-$12025-05-19T00:00:00+03:00
 ---
 
 The tiny moth-like bugs (drain flies) buzzing around your septic tank or
@@ -65,4 +65,8 @@ Get the exterminator to inspect your septic tank, drains, and home in general fo
 or insecticides.
 ## Conclusion
 Drain flies in drains and septic tanks can be a nuisance. These locations provide an excellent location for breeding - due to the organic matter and water - you can use exterminators, seal drains, apply insecticides, clean the breeding sites, and use drain fly traps.
+
+
+
+
 

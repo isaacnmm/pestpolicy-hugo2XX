@@ -1,13 +1,13 @@
----
+﻿---
+date: '2025-05-19T00:00:00+00:00'
+lastmod: '2025-05-19T00:00:00+03:00'
 author: Isaac
 layout: post
 title: 9 Best Camera for Concerts 2025
-$12025-05-19T00:00:00+00:00
 categories:
 - Cameras
 tags: []
 slug: /best-camera-for-concerts/
-$12025-05-19T00:00:00+03:00
 ---
 
 [Live concerts](https://en.wikipedia.org/wiki/Concert)
@@ -92,5 +92,9 @@ If youre hunting for the best camera for concerts specifically, here are some ke
 Do you need a 1080p or 4K resolution? For filming indoors, youll require a great
 [ISO](https://www.nikonusa.com/en/learn-and-explore/a/products-and-innovation/iso-control.html)
 . Do you need audio or a tripod?
+
+
+
+
 
 

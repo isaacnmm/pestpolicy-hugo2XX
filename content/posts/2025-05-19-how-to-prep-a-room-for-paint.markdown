@@ -1,13 +1,13 @@
----
+﻿---
+date: '2025-05-19T00:00:00+00:00'
+lastmod: '2025-05-19T00:00:00+03:00'
 author: Isaac
 layout: post
 title: How to Prep a Room for Paint
-$12025-05-19T00:00:00+00:00
 categories:
 - DIY Paintings
 tags: []
 slug: /how-to-prep-a-room-for-paint/
-$12025-05-19T00:00:00+03:00
 ---
 
 Could be you need to paint your newly constructed room or carry out paint restoration to improve interior outlook impression. Then, its crucial to prep the room.
@@ -37,7 +37,7 @@ When stripping, its advisable to thin the walls/ceiling sufficiently to break pa
 should match the applied old paint (oil-based thinner should be used over oil-based paint and vice versa)
 Gently, strip the paint layer using a putty knife/
 [a paint](https://www.amazon.com/Toughest-Tools-Paint-Scraper-Remover/dp/B07XVBW45J/ref=sr_1_5?dchild=1&keywords=paint+scraper&qid=1610135050&sr=8-5)
-scraper, � be keen when running the scraper over the old paint to protect primary surface material from damage.
+scraper,   be keen when running the scraper over the old paint to protect primary surface material from damage.
 Repeat the procedure until the entire paint is removed  there should be minimal old paint traces on the surface.
 ### d. Sand the Ceiling/Walls
 Using medium grade sandpaper, sand the paint stripped surface gently (prevents structural damage) to remove old paint remnants.
@@ -131,5 +131,9 @@ During room prepping activity, its necessary to adhere to the following precauti
 Having read this article on how to prep a room for paint, I believe that you gained both application skills and surface restoration art, which will boost your DIY painting project.
 Usually, you are required to select the right material and tools for prepping activity, clean/sweep the room, and strip old paint before sanding the ceiling/walls to eliminate debris and surface roughness.
 Besides, it would help if you had to dust and wash the walls/ceiling (where appropriate), seal/repair the damaged ceiling/walls, polish the entire surface sufficiently to improve paint stickiness ability and reduce run formation when painting.
+
+
+
+
 
 

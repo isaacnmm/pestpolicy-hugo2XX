@@ -1,14 +1,14 @@
----
+ï»¿---
+date: '2025-05-19T00:00:00+00:00'
+lastmod: '2025-05-19T00:00:00+03:00'
 author: Isaac
 layout: post
 title: How Long Do Squirrels Live? Life Expectancy?
-$12025-05-19T00:00:00+00:00
 categories:
 - Guide
 - Squirrels
 tags: []
 slug: /how-long-do-squirrels-live/
-$12025-05-19T00:00:00+03:00
 ---
 
 Have you come across squirrels in your garden? But do you ever ask yourself how long do squirrels live? Did you know that there are different species of squirrels (
@@ -18,11 +18,11 @@ Well, I was in the same situation as you a few years back when I had squirrels a
 Related:
 [Squirrels Poison](https://pestpolicy.com/best-poison-for-squirrels/)
 ## **How Long Do Squirrels Live?**
-The life span of a squirrel is dependent on its species and the predisposing factors. For instance, squirrels in captivity live longer than those that live in the wild. The life span of the squirrels in the wild is shorter than those that live in captivity.
+The life span of a squirrel is dependent on its species and the predisposing factors.Â For instance, squirrels in captivity live longer than those that live in the wild. The life span of the squirrels in the wild is shorter than those that live in captivity.
 - Squirrels have predators like hawks, dogs among other carnivores in the wild. They barely survive even two years of their life. In case this happens, most of these squirrels can live between 6-12 years on average.
 - Squirrels can be categorized into 3 species which include flying squirrels, ground and tree squirrels.
 ### **1. Ground squirrels **
-Ground squirrels' life span varies from 2-4 years. Female squirrels live longer with a life span of 4 years while male squirrels live up to 2 years. This is according to the research carried out on California ground squirrels.
+Ground squirrels'Â life span varies from 2-4 years. Female squirrels live longer with a life span of 4 years while male squirrels live up to 2 years. This is according to the research carried out on California ground squirrels.
 ### **2. American red squirrel **
 The average life span of an American red squirrel is 5 years. Though this is not the case with most squirrels and 25% will live beyond one year.
 - Unlike ground squirrels, male red squirrels live longer than female ones.
@@ -46,7 +46,7 @@ Related:
 This is a common squirrel in the Midwest. They have a lifespan of 12-24 years. The oldest recorded grey squirrel was 20 years.
 ## **Factors That Affect the Life Span of Squirrels **
 If you are keeping a squirrel as a pet, there are different factors that can lower or raise the life span of any squirrel. Below is an outline.
-### ** 1. Pest and diseases **
+### **Â 1. Pest and diseases **
 Squirrels like any other animals are prone to pests and diseases which if not treated, can lead to death.
 - Squirrels are very much prone to viral diseases and the most common viral disease is squirrel pox. It is transmitted by insect bites which later turn into a tumor in some squirrels. In others, this virus can lead to skin ulcers, lesions, and scabs.
 - There are some other squirrels like the European red squirrel who are so vulnerable that they can even die from the infection. However, there are also those squirrels like the grey squirrel that are resistant to the virus.
@@ -76,4 +76,8 @@ Squirrels are rodents who greatly use their incisors in gnawing and eat. These i
 How long do squirrels live? This will totally depend on the predisposing factors and also the species of the squirrel.
 - It is also good to note that, most squirrels in captivity live longer than those in the wild. Most probably, a lot of squirrels have a longer life span if they survive the first and the second year of their life.
 Besides all these factors that lead to a shorter lifespan, it is good to be nice to the squirrels and other animals in your garden. If you have spotted squirrels frequently in your garden, maybe you need to consider doing a feeding area for them.
+
+
+
+
 

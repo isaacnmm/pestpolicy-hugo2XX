@@ -1,14 +1,14 @@
----
+﻿---
+date: '2025-05-19T00:00:00+00:00'
+lastmod: '2025-05-19T00:00:00+03:00'
 author: Isaac
 layout: post
 title: 'Wolf Spiders: Appearance, Behaviour, Habitat, Bites'
-$12025-05-19T00:00:00+00:00
 categories:
 - Guide
 - Spiders
 tags: []
 slug: /wolf-spiders/
-$12025-05-19T00:00:00+03:00
 ---
 
 Unlike the
@@ -86,4 +86,8 @@ When ready to mate, the female wolf spiders will drop scent markings that will h
 So what should I do when I see a wolf spider? You can evade the wolf spider bites by avoiding picking or touching (or even squishing) them.
 - Squishing the female wolf spiders may also damage the eggs sacs on their backs and thus may drop hundreds of them and spiderlings in your house - you can[use spider bombs to contol them](https://pestpolicy.com/bug-bomb-for-spiders/).
 Wolf spiders are mainly walking on the ground and will rarely climb on tall objects or structures.
+
+
+
+
 

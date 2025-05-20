@@ -1,13 +1,13 @@
----
+﻿---
+date: '2025-05-19T00:00:00+00:00'
+lastmod: '2025-05-19T00:00:00+03:00'
 author: Isaac
 layout: post
 title: 'Coronavirus (2019-nCoV) and Healthcare Personnel (HCP): Using PPE'
-$12025-05-19T00:00:00+00:00
 categories:
 - Guide
 tags: []
 slug: /coronavirus-2019-ncov-hcp-using-ppe/
-$12025-05-19T00:00:00+03:00
 ---
 
 The coronavirus (2019-nCoV) has become a global health concern, and healthcare personnel (HCP) are at the forefront of combating the disease. Proper use of personal protective equipment (PPE) is crucial for preventing the spread of the virus and protecting healthcare workers. This article provides a guide on how healthcare personnel can use PPE effectively when treating patients with suspected or confirmed COVID-19.
@@ -30,4 +30,8 @@ Using PPE effectively is crucial in preventing the transmission of COVID-19. Her
 - **Hand Hygiene:**Perform hand hygiene before and after donning and doffing PPE, as well as after any patient contact. Use soap and water or hand sanitizer with at least 60% alcohol.
 ### Conclusion
 Proper use of PPE is a critical component in protecting healthcare workers from COVID-19. By wearing the appropriate protective equipment and following infection control procedures, healthcare personnel can reduce the risk of transmission and ensure their safety while providing care to patients. Always ensure that you are using PPE according to guidelines and changing it as necessary to maintain a safe working environment.
+
+
+
+
 

@@ -1,13 +1,13 @@
----
+﻿---
+date: '2025-05-19T00:00:00+00:00'
+lastmod: '2025-05-19T00:00:00+03:00'
 author: Isaac
 layout: post
 title: 7 Best Acrylic Paint for Pouring in 2025
-$12025-05-19T00:00:00+00:00
 categories:
 - Paint
 tags: []
 slug: /best-acrylic-paint-for-pouring/
-$12025-05-19T00:00:00+03:00
 ---
 
 If you're looking for the best acrylic paint for pouring, you have to choose between different paint textures and brands - which might be a devastating task.
@@ -94,5 +94,9 @@ I recommend using soft-body or
 liquid Acrylic paints, like
 [Liquitex BASICS Acrylic](https://www.amazon.com/dp/B004M56VU2/?tag=p-policy-20)
 , that have a thinner consistency. Liquitex BASICS Acrylic paint has a great rich-creamy texture.
+
+
+
+
 
 

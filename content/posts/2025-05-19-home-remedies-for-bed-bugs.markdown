@@ -1,19 +1,19 @@
----
+ï»¿---
+date: '2025-05-19T00:00:00+00:00'
+lastmod: '2025-05-19T00:00:00+03:00'
 author: Isaac
 layout: post
 title: 9 Home Remedies for Bed Bugs
-$12025-05-19T00:00:00+00:00
 categories:
 - Bed Bugs
 - Guide
 tags: []
 slug: /home-remedies-for-bed-bugs/
-$12025-05-19T00:00:00+03:00
 ---
 
 If a bed bug has ever bitten you, you will agree with me that these bloodsuckers instill painful injections that may even lead to allergic or abnormal swelling.
 *Some home remedies for Bed bugs include the use of Diatomaceous Earth, Steam treatment, Borax, Hairdryer, Vacuuming, Heat treatment (very high or low temperature), Use of oil extracts (Tea Tree Oil/Peppermint Oil), Baking soda, and Hydrogen peroxide.*
-*Moreover, Bed bug Herb such as Sweet Flag, Lavender, Mint Leaves, Peppermint Leaves, Tea Tree Oil, Lemongrass, and Black Walnut Tea are best for killing and keeping off bed bugs plus baby bed bugs in your home. *
+*Moreover, Bed bug Herb such as Sweet Flag, Lavender, Mint Leaves, Peppermint Leaves, Tea Tree Oil, Lemongrass, and Black Walnut Tea are best for killing and keeping off bed bugs plus baby bed bugs in your home.Â *
 [amazon bestseller="Best Bed Bugs Killer" items="2" template="table"]
 ## Details: 9 Home Remedies for Bed Bugs
 ### 1. Use Extreme Heat or Extreme Cold
@@ -35,8 +35,8 @@ or room to a temperature below zero degrees. The low temperature denatures enzym
 it.
 You will need to carry out freezing at least four days for complete
 [bed bugs killing](https://pestpolicy.com/does-bleach-kill-bed-bugs/)
-to take place. NB:
-*This method may be slightly expensive but very efficient and environmentally friendly (it cause no pollution). *
+to take place.Â NB:
+*This method may be slightly expensive but very efficient and environmentally friendly (it cause no pollution).Â *
 Related:
 [Pictures of bed Bugs](https://pestpolicy.com/pictures-of-bed-bugs/)
 ### 2. Vacuuming
@@ -60,7 +60,7 @@ and larvae. Ensure you vacuum your bed bugs infested items thrice a month to rem
 is naturally occurring sedimentary rocks that are formed from microorganisms that decomposed for many years. Your need to carry out the following:
 
 - Grind the Diatomaceous Earth in fine grain powder.
-- Wear gloves and sprinkle the powder into bed bugs infested area. You can[rub bed](https://pestpolicy.com/how-to-get-rid-of-bed-bugs-fast/)bug-infested items with Diatomaceous powder or sprinkle it over the items.
+- Wear gloves and sprinkle the powder into bed bugs infested area. You can[rub bed](https://pestpolicy.com/how-to-get-rid-of-bed-bugs-fast/)bug-infestedÂ items with Diatomaceous powder or sprinkle it over the items.
 - You can also fill cracks and crevices with this powder too.
 - Leave the treated area or items for 1 to 3 days. You will need to do this after every three weeks for complete bed bugs elimination.
 - Then, vacuum the area or items to remove the Diatomaceous Earth and dead bed bugs.
@@ -98,7 +98,7 @@ Superheated
 , larvae, and adult bed bugs on contact. This method is quick-acting though it may require a specialist for complete bed bugs elimination.
 Keep off all heat sensitive items and pets during treatment.
 ### 6. Using Borax (Boric acid)
-Borax, also called boric acid, is a home solution that can instantly kill bed bugs on application. The borax concentration determines the ability to kill bed bugs and the amount fed/breathed by a bed bug.
+Borax, also called boric acid, is a home solution that can instantly kill bed bugs on application. The borax concentration determines the ability to kill bed bugsÂ and the amount fed/breathed by a bed bug.
 
 - Wear hand protection (gloves) and sprinkle borax on bed bugs infested items (mattress, bed sheet, clothes, etc.) or area (cracks, floor, or closets).
 - Leave them for 20 to 50 hours for the chemical to work.
@@ -115,7 +115,7 @@ since it contains a strong acetic acid, which affects the bed bugs' nervous syst
 - Put the mixture in a spray bottle and spray over the bed bugs infested items or area (cracks, floor, or closets).
 - Leave the area for 30 minutes for the medicine to act/kill.
 - Clean the items after treatment to remove vinegar and dead bed bugs.
-Vinegar will kill adult bed bugs on contact. The acetic acid in the vinegar will attack the nervous system, thus inhibiting transport activities.  Most of the bed bugs larvae wont die on contact (especially if the concentration wont be much). Therefore, it is recommended to supplement this method with others, such as the use of Diatomaceous Earth. It would help if you did not use vinegar on acid-sensitive items.
+Vinegar will kill adult bed bugs on contact. The acetic acid in the vinegar will attack the nervous system, thus inhibiting transport activities.Â  Most of the bed bugs larvae wont die on contact (especially if the concentration wont be much). Therefore, it is recommended to supplement this method with others, such as the use of Diatomaceous Earth. It would help if you did not use vinegar on acid-sensitive items.
 ### 8. Rubbing Alcohol
 [Alcohol is able to kill the entire life-cycle of bed bugs](https://pestpolicy.com/does-rubbing-alcohol-kill-bed-bugs/)
 (eggs, larvae, and adults) on contact.
@@ -157,8 +157,12 @@ Once bed bugs breathe Tea Tree Oil, they get suffocated and die since they affec
 human beings and pets, injecting pain and leaves marks that may swell or lead to allergic reactions. It is also necessary to observe proper bed bugs in preventive measures.
 Homemade bed bugs remedies such as the use of Diatomaceous Earth, Borax, Baking powder, Steam treatment, Heat treatment, Tea tree, vinegar, or use of herbs such as Indiana Lilac leaves can keep off or kill bed bugs infestation in the home.
 ## Sources:
-1. [Seasons, searches, and intentions: what the internet can tell us about the bed bug (Hemiptera: Cimicidae) epidemic](https://academic.oup.com/jme/article-abstract/53/1/116/2459664)
-2. [The resurgence of bed bugs, Cimex spp.(Hemiptera: Cimicidae) in Australia](https://www.researchgate.net/profile/Stephen_Doggett2/publication/228489217_The_resurgence_of_bed_bugs_Cimex_sppHemiptera_Cimicidae_in_Australia/links/579b526508ae802facba50ec.pdf)
-3. [Sleep Tight! Don't Let](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.651.9075&rep=rep1&type=pdf)[the Bed Bugs Bite](https://pestpolicy.com/pictures-of-bed-bug-bites/)[!](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.651.9075&rep=rep1&type=pdf)
+1. [Seasons, searches, and intentions: what the internet can tell us about theÂ bed bugÂ (Hemiptera: Cimicidae) epidemic](https://academic.oup.com/jme/article-abstract/53/1/116/2459664)
+2. [The resurgence ofÂ bed bugs, Cimex spp.(Hemiptera: Cimicidae) in Australia](https://www.researchgate.net/profile/Stephen_Doggett2/publication/228489217_The_resurgence_of_bed_bugs_Cimex_sppHemiptera_Cimicidae_in_Australia/links/579b526508ae802facba50ec.pdf)
+3. [Sleep Tight! Don't Let](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.651.9075&rep=rep1&type=pdf)[theÂ Bed BugsÂ Bite](https://pestpolicy.com/pictures-of-bed-bug-bites/)[!](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.651.9075&rep=rep1&type=pdf)
+
+
+
+
 
 

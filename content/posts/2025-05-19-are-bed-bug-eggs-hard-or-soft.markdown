@@ -1,14 +1,14 @@
----
+﻿---
+date: '2025-05-19T00:00:00+00:00'
+lastmod: '2025-05-19T00:00:00+03:00'
 author: Isaac
 layout: post
 title: Are Bed Bug Eggs Hard or Soft? Bed Bug Shells
-$12025-05-19T00:00:00+00:00
 categories:
 - Bed Bugs
 - Guide
 tags: []
 slug: /are-bed-bug-eggs-hard-or-soft/
-$12025-05-19T00:00:00+03:00
 ---
 
 Are
@@ -37,7 +37,7 @@ are very tiny, they have a hard outer shell covering the internal fluid. Thats w
 [diatomaceous earth cannot kill bed bug](https://pestpolicy.com/does-diatomaceous-earth-kill-bed-bugs/)
 eggs.
 Steaming and heat treatment are some of the most effective ways of destroying the hard outer shell found in bed bug eggs - including those of
-*baby bed bugs.�*
+*baby bed bugs. *
 Even so,
 [bed bug eggs squash](https://pestpolicy.com/harris-bed-bug-killer-review/)
 easily when subjected to mechanical forces such as when scrapped off or picked from the surface.
@@ -102,4 +102,8 @@ because they may not penetrate the hard outer shell found in bed bug eggs. The m
 eggs include steaming or freezing.
 ## Sources:
 1. [Bed Bug Management Guidelines--UC IPM](http://ipm.ucanr.edu/PMG/PESTNOTES/pn7454.html)
+
+
+
+
 

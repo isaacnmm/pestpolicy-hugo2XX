@@ -1,13 +1,13 @@
----
+﻿---
+date: '2025-05-19T00:00:00+00:00'
+lastmod: '2025-05-19T00:00:00+03:00'
 author: Isaac
 layout: post
 title: 7 Best Compact Cameras under 300 in 2025
-$12025-05-19T00:00:00+00:00
 categories:
 - Cameras
 tags: []
 slug: /best-compact-cameras-under-300/
-$12025-05-19T00:00:00+03:00
 ---
 
 In this post, Ive reviewed the best compact cameras under 300. Granted, its the end of summer and you need to take great shots of your kids.
@@ -54,5 +54,9 @@ Lightweight and portable  Ensure that the compact camera is lightweight and high
 ## Conclusion
 The best compact cameras under 300 - the features to look for in your compact camera, particularly when shopping online or dont have the chance to test drive the camera first.
 But, the alternative is visiting your local store and trying out different compact cameras to check if you can land some gold.
+
+
+
+
 
 

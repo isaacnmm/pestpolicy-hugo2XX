@@ -1,14 +1,14 @@
----
+﻿---
+date: '2025-05-19T00:00:00+00:00'
+lastmod: '2025-05-19T00:00:00+03:00'
 author: Isaac
 layout: post
 title: Bio-clean Drain Septic Bacteria 2 Review
-$12025-05-19T00:00:00+00:00
 categories:
 - Drains
 - Product Reviews
 tags: []
 slug: /bio-clean-drain-septic-bacteria-2-review/
-$12025-05-19T00:00:00+03:00
 ---
 
 Bio-clean Drain Septic Bacteria 2 Review? Dont we all hate the common challenge of the slow-moving drain in the kitchen or sink?
@@ -53,4 +53,8 @@ The
 [drain cleaner](https://pestpolicy.com/is-drain-cleaner-an-acid-or-base/)
 wont harm your pipes as it has not contained caustic, acidic, or alkaline formula. Further, it wont eat away any live tissue as hence its safe for yourself, your kids, or pets in addition to being eco-friendly.
 Further, the products of its action are only mineral ash, water, and carbon dioxide. The mineral ash must not make you worry as it's safe and even helps aid plant development.
+
+
+
+
 

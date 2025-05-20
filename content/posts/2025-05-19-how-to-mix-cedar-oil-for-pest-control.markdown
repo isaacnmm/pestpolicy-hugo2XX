@@ -1,14 +1,14 @@
----
+﻿---
+date: '2025-05-19T00:00:00+00:00'
+lastmod: '2025-05-19T00:00:00+03:00'
 author: Isaac
 layout: post
 title: How to Mix Cedar Oil for Pest Control
-$12025-05-19T00:00:00+00:00
 categories:
 - Fleas
 - Guide
 tags: []
 slug: /how-to-mix-cedar-oil-for-pest-control/
-$12025-05-19T00:00:00+03:00
 ---
 
 Cedar oil (
@@ -85,4 +85,8 @@ So in summary, you will be required to mix 220 ml of cedar oil with 770 ml of wa
 - Cedar oil kills various pests by covering their exoskeleton and thus suffocating the bugs.
 Cedar oil with higher concentrations will destroy the pest exoskeleton or emulsify its body fat.
 Cheers!
+
+
+
+
 

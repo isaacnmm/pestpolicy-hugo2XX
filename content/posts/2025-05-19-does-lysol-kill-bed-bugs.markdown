@@ -1,14 +1,14 @@
----
+ï»¿---
+date: '2025-05-19T00:00:00+00:00'
+lastmod: '2025-05-19T00:00:00+03:00'
 author: Isaac
 layout: post
 title: Does Lysol Kill Bed Bugs and Their Eggs?
-$12025-05-19T00:00:00+00:00
 categories:
 - Bed Bugs
 - Guide
 tags: []
 slug: /does-lysol-kill-bed-bugs/
-$12025-05-19T00:00:00+03:00
 ---
 
 Lysol is a disinfectant that kills germs, fungi, viruses, and bacteria
@@ -20,13 +20,13 @@ So, in summary, does Lysol make for an effective pesticide for bed bugs?
 - So, Lysol is unlikely to kill bed bugs (contrast this to[Bleach](https://pestpolicy.com/does-bleach-kill-bed-bugs/)), but an exterminator can provide a more thorough and effective solution such as heat treatment.
 [amazon bestseller="Best Bed Bug Killers" items="2" template="table"]
 ## What Kills Bed Bugs?
-Before we tackle the Lysol question, people typically use a number of chemicals when they're looking for a
+Before we tackle the LysolÂ question, people typically use a number of chemicals when they're looking for a
 [pesticide to kill bed bugs](https://pestpolicy.com/best-bed-bug-spray/)
 .
 To kill bed bugs fast, I recommend you use any one of the following: heat (
 [steamers](https://pestpolicy.com/best-bed-bug-steamer/)
 ) or pesticides.
-- **Lysol will only**** ****kill bed bugs if you spray and drown them directly with it. But ****bed bugs will ****escape contact with ****humans by hiding and thus spraying is challenging. **
+- **Lysol will only****Â ****kill bed bugs if you spray and drown them directly with it. But ****bed bugs will ****escape contact with ****humans by hiding and thus spraying is challenging.Â **
 - **Since ****Lysol is ****not an effective bed bug pesticide, I recommend using pyrethrin pesticides of your contact an exterminator to start a more robust pest removal program.**
 ### **Primary ****Pesticide ****ingredients? **
 Most bed bug pesticides are
@@ -109,4 +109,8 @@ But rubbing alcohol could also stains your bedding, mattress, and furniture that
 It is not uncommon for homeowners to try Lysol to get rid of bed bugs, but the results have been mixed.
 - Some people report that it does work and some say that it doesn't as well as other household products.
 Extreme heat isn't good for eggs. It kills bedbug eggs, as it would kill any kind of egg at the same temperature...
+
+
+
+
 

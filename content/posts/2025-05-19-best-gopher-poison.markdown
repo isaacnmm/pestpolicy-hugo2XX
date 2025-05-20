@@ -1,13 +1,13 @@
----
+﻿---
+date: '2025-05-19T00:00:00+00:00'
+lastmod: '2025-05-19T00:00:00+03:00'
 author: Isaac
 layout: post
 title: 7 Best Gopher Poison for 2025 Reviewed
-$12025-05-19T00:00:00+00:00
 categories:
 - Product Reviews
 tags: []
 slug: /best-gopher-poison/
-$12025-05-19T00:00:00+03:00
 ---
 
 [Gophers](http://ipm.ucanr.edu/PMG/PESTNOTES/pn7433.html)
@@ -45,7 +45,7 @@ Diphacinone is the active ingredient that's used to make the Kaput Gopher Bait. 
 
 
 
-The gophers seem to love this bait as their last meal.�It comes in a large-sized bucket for various uses. You only require a few ounces to put in each hole. However, you need to dig a hole and then place the bait.
+The gophers seem to love this bait as their last meal. It comes in a large-sized bucket for various uses. You only require a few ounces to put in each hole. However, you need to dig a hole and then place the bait.
 Make a hole in the ground and pour the pellets in, or use an applicator to do so. You'll have plenty of the bait to cover a wide area and apply it in each hole.
 After waiting for a few days, bait the holes again, and it'll help you get rid of the gophers.
 Pros:
@@ -134,5 +134,9 @@ Be careful when using gopher bait, however, as it is not only poisonous for the 
 1. [Gophers--UC IPM](http://ipm.ucanr.edu/QT/gopherscard.html)
 2. [Pocket gopher control techniques - Montana Agricultural](http://agresearch.montana.edu/wtarc/producerinfo/entomology-insect-ecology/Gofers/MTFactSheet.pdf)
 3. [Moles, voles, and gophers  Metro](https://www.oregonmetro.gov/tools-living/yard-and-garden/garden-problems/moles-voles-and-gophers)
+
+
+
+
 
 

@@ -1,14 +1,14 @@
----
+﻿---
+date: '2025-05-19T00:00:00+00:00'
+lastmod: '2025-05-19T00:00:00+03:00'
 author: Isaac
 layout: post
 title: Ecosmart Organic Horse Fly Knockdown Review
-$12025-05-19T00:00:00+00:00
 categories:
 - Flies
 - Product Reviews
 tags: []
 slug: /ecosmart-organic-horse-fly-knockdown-repellent-review/
-$12025-05-19T00:00:00+03:00
 ---
 
 This is an Ecosmart Organic Horse Fly Knockdown review. EcoSMART Organic is also an
@@ -35,4 +35,8 @@ Finally, get your Ecosmart horse
 [fly repellent and spray](https://pestpolicy.com/pyranha-wipe-n-spray-fly-review/)
 , but avoid the animal's face and eyes.
 Also, put the repellent on a cloth to moisten and treat the horses face. However, do not spray the eyes, face, or ears.
+
+
+
+
 

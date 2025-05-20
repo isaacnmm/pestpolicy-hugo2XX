@@ -1,14 +1,14 @@
----
+ï»¿---
+date: '2025-05-19T00:00:00+00:00'
+lastmod: '2025-05-19T00:00:00+03:00'
 author: Isaac
 layout: post
 title: How to Get Rid of Sand Fleas - 7 Tips
-$12025-05-19T00:00:00+00:00
 categories:
 - Fleas
 - Guide
 tags: []
 slug: /how-to-get-rid-of-sand-fleas/
-$12025-05-19T00:00:00+03:00
 ---
 
 Spring is here and with it,
@@ -16,7 +16,7 @@ Spring is here and with it,
 . In this article, I'll provide tips on how to get rid of sand fleas.
 - These tiny parasitic bugs inhabit humid beaches or coastal climates and they're known for their bite, itchiness, and difficulty to get rid of.
 - Sand fleas can bite both dogs and cats, as well as birds and humans. These itch-inducing bites can cause fatal infections or recurring skin conditions.
-So, inspect your pets, luggage, and home for sand fleas and undertake appropriate steps to prevent re-infestation. Related:
+So, inspect your pets, luggage, and home for sand fleas and undertake appropriate steps to prevent re-infestation.Â Related:
 [Flea Spray for Garden](https://pestpolicy.com/best-flea-spray-for-yard/)
 .
 [amazon bestseller="Sand Fleas Killers" items="2" template="table"]
@@ -94,7 +94,7 @@ Sand flea eggs that are deposited on clothes or bedding can be removed by launde
 It's also worth mentioning that washing those clothing items in cold water may not effectively kill all of the larvae because sand flea eggs have an outer shell that resists heat.
 If you share a room, check all of the bedding items and clothing for sand fleas.
 Inspect and clean dirty shoes to make sure sand fleas are not being transported back to your home.
-- Inspect your feet and footwear when getting back home. Look at the seams, fabric lining, and in-sole of shoes before you enter your house.
+- Inspect your feet and footwear when getting back home.Â Look at the seams, fabric lining, and in-sole of shoes before you enter your house.
 If you don't plan to clean the shoes right away, spray them with an insecticide containing permethrin or leave them outdoors; otherwise bag those up as well.
 ## Approach 4: Treat your Pets for Sand Fleas
 ### Step 1: Inspect cats & Dogs for Signs of Sand fleas
@@ -120,4 +120,8 @@ You can also treat the pets using diatomaceous earth or organic pesticides.
 I hope this article has been helpful in finding out how to get rid of sand fleas.
 If you have any questions about the topic, feel free to post a comment below or share your story with us!
 Seeya soon :)
+
+
+
+
 

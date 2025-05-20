@@ -1,19 +1,19 @@
----
+ï»¿---
+date: '2025-05-19T00:00:00+00:00'
+lastmod: '2025-05-19T00:00:00+03:00'
 author: Isaac
 layout: post
 title: What Do Opossums Eat? 9 Diet Facts
-$12025-05-19T00:00:00+00:00
 categories:
 - Guide
 - Moles
 tags: []
 slug: /what-do-opossums-eat/
-$12025-05-19T00:00:00+03:00
 ---
 
 Opossums are omnivores, meaning that they eat both plants and animals - like humans. But really, what do opossums eat? Opossums need a balanced diet of proteins, fats, and carbohydrates to maintain good health.
-*A natural diet for an opossum would be lots of insects (insects are high in protein), small mammals (high in fat), and the occasional fruit or nut (high in carbs). They need a very high calcium diet (which can be found in plant products). *
-*In captivity, opossums/ possums eat different foods including vegetables and dog food. But in summary, their diet can be leafy greens (like kale & spinach), grains (like oats & rice), and fruits (like oranges & apples). *
+*A natural diet for an opossum would be lots of insects (insects are high in protein), small mammals (high in fat), and the occasional fruit or nut (high in carbs). They need a very high calcium diet (which can be found in plant products).Â *
+*In captivity, opossums/ possums eat different foods including vegetables and dog food. But in summary, their diet can be leafy greens (like kale & spinach), grains (like oats & rice), and fruits (like oranges & apples).Â *
 [amazon bestseller="Best Opossums Food" items="2" template="table"]
 Related:
 [Do Opossums Carry Rabies](https://pestpolicy.com/do-opossums-carry-rabies/)
@@ -81,4 +81,8 @@ Outline the possum menu: Outlining what opossums eat is just as important as wha
 ## Conclusion
 On the question; what do opossums eat - h
 ere are some of the meals that opossums eat: - carrion (dead animals) - ectoparasites (animal or plant parasites found on an animal's skin, fur, feathers, scales, etc.) - fruits and vegetables. Opossum diets will vary depending on what is locally available in a given region.
+
+
+
+
 

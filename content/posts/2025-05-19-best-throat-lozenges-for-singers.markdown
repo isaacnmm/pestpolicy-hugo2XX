@@ -1,13 +1,13 @@
----
+﻿---
+date: '2025-05-19T00:00:00+00:00'
+lastmod: '2025-05-19T00:00:00+03:00'
 author: Isaac
 layout: post
 title: 9 Best Throat Lozenges for Singers 2025
-$12025-05-19T00:00:00+00:00
 categories:
 - Headphones
 tags: []
 slug: /best-throat-lozenges-for-singers/
-$12025-05-19T00:00:00+03:00
 ---
 
 What's the
@@ -109,5 +109,9 @@ Related:
 1. [Rapid relief of acute sore throat with AMC/DCBA throat lozenges: randomised controlled t](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1742-1241.2009.02230.x)[rial](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1742-1241.2009.02230.x)
 2. [Sprays and lozenges for sore throats](https://www.ajol.info/index.php/safp/article/view/76190)
 3. [Efficacy of AMC/DCBA lozenges for sore throat: A systematic review and metaanalysis](https://onlinelibrary.wiley.com/doi/abs/10.1111/ijcp.13002)
+
+
+
+
 
 

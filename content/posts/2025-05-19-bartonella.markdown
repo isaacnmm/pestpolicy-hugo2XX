@@ -1,13 +1,13 @@
----
+﻿---
+date: '2025-05-19T00:00:00+00:00'
+lastmod: '2025-05-19T00:00:00+03:00'
 author: Isaac
 layout: post
 title: Bartonella
-$12025-05-19T00:00:00+00:00
 categories:
 - Guide
 tags: []
 slug: /bartonella/
-$12025-05-19T00:00:00+03:00
 ---
 
 Bartonella is a type of bacteria that can cause a variety of illnesses in both humans and animals. It is often transmitted through the bites or scratches of infected animals, particularly cats, and is a major concern for people who handle animals frequently. In this article, we will explore the causes, symptoms, diagnosis, and treatment options for Bartonella infection.
@@ -48,4 +48,8 @@ Preventing Bartonella infection largely involves reducing the risk of exposure t
 - Wear gloves when cleaning litter boxes or handling animals that may have fleas.
 ### Conclusion
 Bartonella is a group of bacteria that can cause a variety of diseases in humans, ranging from mild illnesses like cat scratch fever to more serious conditions like endocarditis. While the bacteria are primarily transmitted through bites and scratches from infected animals, particularly cats, they can also be spread by fleas and ticks. Early diagnosis and treatment with antibiotics are essential to managing Bartonella infection and preventing complications. By practicing good hygiene and reducing the risk of exposure to infected animals, you can help protect yourself from this potentially serious infection.
+
+
+
+
 

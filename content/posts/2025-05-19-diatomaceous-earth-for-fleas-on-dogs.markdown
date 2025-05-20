@@ -1,23 +1,23 @@
----
+ï»¿---
+date: '2025-05-19T00:00:00+00:00'
+lastmod: '2025-05-19T00:00:00+03:00'
 author: Isaac
 layout: post
 title: Diatomaceous Earth for Fleas on Dogs
-$12025-05-19T00:00:00+00:00
 categories:
 - Fleas
 - Guide
 tags: []
 slug: /diatomaceous-earth-for-fleas-on-dogs/
-$12025-05-19T00:00:00+03:00
 ---
 
 Fleas are not only irritating and a nuisance to your dog, but they also cause painful wounds and internal infections.
-- **Many methods to get rid of fleas on dogs have been advanced. Below I review the Diatomaceous Earth for Fleas on Dogs. ****Among the numerous methods, many dog owners are opting for ways that dont involve chemicals.**
+- **Many methods to get rid of fleas on dogs have been advanced. Below I review the Diatomaceous Earth for Fleas on Dogs.Â ****Among the numerous methods, many dog owners are opting for ways that dont involve chemicals.**
 Methods that do not harm the environment, such as the use of
 [Diatomaceous Earth for Fleas](https://pestpolicy.com/diatomaceous-earth-for-fleas/)
 .
 [amazon bestseller="Diatomaceous Earth for Fleas" items="2" template="table"]
-## **Details: Diatomaceous Earth for Fleas on Dogs **
+## **Details: Diatomaceous Earth for Fleas on DogsÂ **
 Studies have found that
 [diatomaceous earth](https://pestpolicy.com/diatomaceous-earth/)
 has sharp edges that resemble bits of broken glass. The mode of action of DE is mechanical.
@@ -25,12 +25,12 @@ The diatoms
 [kill insects and parasites](https://pestpolicy.com/does-salt-kill-fleas/)
 by removing the protective outer shell that helps them conserve moisture; they then dehydrate and subsequently die.
 - DE comes in various forms,[granulated DE, milled DE, and Calcine DE](http://npic.orst.edu/ingred/de.html).
-**Granulated diatomaceous earth - **
+**Granulated diatomaceous earth -Â **
 Granulated DE is usually available as a powder and always fit for humans and pets' consumption.
 - For DE to be fit for consumption, it must contain less than 1% crystalline silica. Granulated DE is used as the food grade.
-**Milled diatomaceous earth - **
+**Milled diatomaceous earth -Â **
 Also called micronized DE. It is an excellent form of DE that is used in the manufacture of insecticides and pesticides.
-**Calcined Diatomaceous earth - **
+**Calcined Diatomaceous earth -Â **
 This form of DE is usually heat treated and used in water filtering and explosives manufacture.
 ## Benefits of Diatomaceous earth for Dogs
 **1. Non-toxic **
@@ -49,13 +49,13 @@ is rich in minerals like calcium, iron, sodium, silicon, and other minerals.
 DE is also fit for human beings' consumption, and their benefits are healthy skin, lower blood cholesterol, and good-looking hair and skin.
 ## **Diatomaceous Earth dosage & ingredients for Dogs**
 Granulated DE is readily available in health and pet shops.
-** **
+**Â **
 **Dosage **
 As earlier pointed out, DE is used in pets to boost digestion and eliminate internal parasites and worms.
 - Ensure that the DE to be used is food grade. On the amount of DE to give to your dog, consult with your veterinarian.
 However, these are the generally recommended amounts for your dogs:
 - Small dogs & the puppies  A half teaspoon of your food grade DE once a day in food
-- Dogs below  50 lbs 1 teaspoon of your food grade DE once a day in food.
+- Dogs belowÂ  50 lbs 1 teaspoon of your food grade DE once a day in food.
 - Dogs over 50 lbs- 1 tablespoon of your food grade DE once a day in food
 - Dogs over 100 lbs- 2 tablespoons of your food grade DE once a day in food.
 **Safety Cautions on Using Diatomaceous Earth for Fleas on Dogs**
@@ -64,7 +64,7 @@ These are the precautions that you need to watch out for:
 2. Ensure that you mix well the food and DE. Failure to incorporate OK causes irritation to the dog's lungs and you due to the dust.
 3. You can wear a face mask to avoid the dust and gloves inhaling to prevent your hands from drying.
 4. Store the DE in dry conditions. Damp conditions significantly reduce their effectiveness.
-## **Using Diatomaceous Earth for Dogs**
+## **UsingÂ Diatomaceous Earth for Dogs**
 Apart from using DE as food, it can be sprinkled to
 [kill fleas](https://pestpolicy.com/does-the-dryer-kill-fleas/)
 and other insects and parasites.
@@ -77,7 +77,7 @@ Identify areas where you will apply the diatomaceous earth. You should identify 
 resides or hangs out the most. This might be its kernel, your carpet.
 This is done to capture any
 [fleas and flea eggs](https://pestpolicy.com/how-to-kill-flea-eggs/)
-that may be around. It is important to note that DE has no effect on
+that may be around.Â It is important to note that DE has no effect on
 [flea eggs](https://pestpolicy.com/flea-eggs-vs-dandruff/)
 and will wait for them to hatch, so it acts on them.
 **Step 3 - **
@@ -95,4 +95,8 @@ Vacuum the areas where you had sprinkled the DE. The recommended vacuum cleaner 
 ## **Conclusion**
 Apart from being ingested to kill internal worms, diatomaceous can be sprinkled to ensure the flea's menace is eradicated.
 This is a very recommendable method since no chemicals are in use, making it safe for the pet (dog), you, and the environment.
+
+
+
+
 

@@ -1,14 +1,14 @@
----
+﻿---
+date: '2025-05-19T00:00:00+00:00'
+lastmod: '2025-05-19T00:00:00+03:00'
 author: Isaac
 layout: post
 title: 'DIY Bed Bug Spray: 7 Homemade Recipes & Tips'
-$12025-05-19T00:00:00+00:00
 categories:
 - Bed Bugs
 - Guide
 tags: []
 slug: /diy-bed-bug-spray/
-$12025-05-19T00:00:00+03:00
 ---
 
 Bed bugs
@@ -111,4 +111,8 @@ But spraying the rubbing alcohol on furniture, bedding, and mattress may leave t
 The DIY bed bug sprays will help exterminate the bugs - I recommend using essential oils, rubbing alcohol, vinegar, and diatomaceous earth.
 - These bed bug-repelling or killing sprays are effective and safe to use in the house or in business premises.
 Cheers!
+
+
+
+
 

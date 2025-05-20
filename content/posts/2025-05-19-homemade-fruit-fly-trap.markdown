@@ -1,20 +1,20 @@
----
+ï»¿---
+date: '2025-05-19T00:00:00+00:00'
+lastmod: '2025-05-19T00:00:00+03:00'
 author: Isaac
 layout: post
 title: Get Rid of Fruit Flies - Homemade Fruit Fly Trap
-$12025-05-19T00:00:00+00:00
 categories:
 - Flies
 - Guide
 tags: []
 slug: /homemade-fruit-fly-trap/
-$12025-05-19T00:00:00+03:00
 ---
 
 How would you love a homemade fruit fly trap? At times, you may find your compound or house, especially the kitchen, overtaken by a swarm of fruit flies.
 - This will upset you. Fruit flies will make your house look messy and unkempt.
-*Maybe you have even tried to remove the attractants of these fruit flies without succeeding? In this article, I've discussed the top fruit fly traps you can DIY. *
-*Homemade fruit fly traps may include vinegar (apple cider vinegar - that also kills fleas or white vinegar), using old wine or beer bottle, fruits/fruits peel jar, dish soap, banana jar, red wine trick, paper cone & old/rotten fruits and heated milk/sugar &pepper. *
+*Maybe you have even tried to remove the attractants of these fruit flies without succeeding? In this article, I've discussed the top fruit fly traps you can DIY.Â *
+*Homemade fruit fly traps may include vinegar (apple cider vinegar - that also kills fleasÂ or white vinegar), using old wine or beer bottle, fruits/fruits peel jar, dish soap, banana jar, red wine trick, paper cone & old/rotten fruits and heated milk/sugar &pepper.Â *
 [amazon bestseller="Best Fruit Fly Killer" items="2" template="table"]
 Read Also:
 [Flying Ants vs. Termites](https://pestpolicy.com/flying-ants-vs-termites/)
@@ -140,4 +140,8 @@ The following are some of the measures that you can take to prevent fruit flies 
 ## Conclusion
 You can trap fruit flies using a homemade trap right at your home. You can use vinegar, milk, sugar, fruits, fermenting or rotting substances, peppers, or even peels from vegetables to achieve this.
 When placed in a regulated container, these substances emit a scent that attracts fruit flies, which get trapped once they flew in. Not all homemade fruit flies can be used indoors.
+
+
+
+
 

@@ -1,14 +1,14 @@
----
+ï»¿---
+date: '2025-05-19T00:00:00+00:00'
+lastmod: '2025-05-19T00:00:00+03:00'
 author: Isaac
 layout: post
 title: How to Get Rid Of Fleas on Clothes and Bedding
-$12025-05-19T00:00:00+00:00
 categories:
 - Fleas
 - Guide
 tags: []
 slug: /how-to-get-rid-of-fleas-on-clothes-and-bedding/
-$12025-05-19T00:00:00+03:00
 ---
 
 Fleas hiding in clothes and bedding cause disastrous effects - like intense and annoying itching and may transmit diseases like
@@ -21,12 +21,12 @@ Fleas
 [clothing](https://pestpolicy.com/can-fleas-live-on-clothes/)
 (dirty areas) for ~ 24 hours. But the critters cause flea bites, which many people are allergic to, and cause
 skin infections or blisters (pus-filled).
-**The short answer on how to kill fleas in clothes and bedding -  detergent-launder the fabrics, heat-treatment, and turbulence produced by your washing machine will exterminate fleas, flea eggs, pupae, and larvae. **
+**The short answer on how to kill fleas in clothes and bedding -Â  detergent-launder the fabrics, heat-treatment, and turbulence produced by your washing machine will exterminate fleas, flea eggs, pupae, and larvae.Â **
 See these flea sprays.
 [amazon bestseller="Best Flea Spray" items="2" template="table"]
 ## Details: How to Get Rid Of Fleas on Clothes and Bedding
 ### 1. Dawn Dish Soap for Killing fleas
-Do fleas die in water? Generally, flea eggs and adult fleas won't kill fleas - just like most insects eggs will survive underwater for days. Just taking your pet for some swim won't kill fleas effectively.
+Do fleas die in water? Generally, flea eggs and adult fleas won't kill fleas - just like most insects eggs will survive underwater for days.Â Just taking your pet for some swim won't kill fleas effectively.
 But cleaning the pet
 [using dawn dish soap](https://pestpolicy.com/dawn-dish-soap-for-fleas/)
 mixture - the soap helps break the water's surface tension - enabling the tiny fleas to sink and drown. Place a lamp near the water to attract fleas.
@@ -35,20 +35,20 @@ Further, if you thoroughly wet and lather the pet's fur with dawn soap
 [andflea comb](https://pestpolicy.com/how-to-use-a-flea-comb/)
 , you'll drown most of the files eggs. The soap mixture will destroy the bug's
 exoskeletons leading to drowning.
-**Wash all clothes & bedding for 10 minutes ( in cold water): **
+**Wash all clothes & bedding for 10 minutes ( in cold water):Â **
 - Undertake routine washing and dry clothes and bedding. If there are clothes that can't be washed but can be dried, then you'll need to put them in the dryer and run it on a hot cycle for about 30 minutes - which will[kill the fleas](https://pestpolicy.com/does-the-dryer-kill-fleas/)too.
 
 - Flea eggs and adults[will not die easily](https://pestpolicy.com/flea-eggs-vs-dandruff/)when immersed in water. Fleas[will survive in water](https://pestpolicy.com/can-cats-get-fleas-in-the-winter/)for about seven days. Further, fleas will only drown in water after 24 hours when submerged as they sit on the water and not break water's surface tension. Fleas have cuticles that are covered with wax, and hence its skin is non-wettable with water.
 - **However**: Dish soap drops have surfactants that reduce water's surface tension and hence make the flea sink in water and drown. Therefore, washing the fabric with your detergent for ~ 10 minutes would make adult fleas drown**but not the pre-adult fleas**.
 - Flea eggs + larvae in your bedding and clothes will require the use of more rigorous laundry methods: This drives us to tactic #2
 https://www.youtube.com/watch?v=bemDY5em-Cg
-### 2. Max Washing Machine Settings**+ Soap **
+### 2.Â Max Washing Machine Settings**+ SoapÂ **
 Using a washing machine with water + soap will help remove fleas from your bedding and clothes. The water turbulence and heat plus that laundry detergent helps in exterminating the fleas.
 - The fleas in all the life stages are either exterminated during the washing process, or they'll eventually end up in your drainage and sewer.
 Also, any of the fleas or other insects that'll remain in the initial stages of the washing will be killed by the machine's or water turbulence and the heat.
-All you have to do is wash the clothing. The challenge is getting the right ingredients/ temperature and transporting the clothing and bedding to the laundry area (without dropping some fleas), either in your home or elsewhere.
-**Wash Clothing and bedding in Hot Water: **
-- Depending on the type of fabric: Cotton, Silk, Wool, etc... Wash the clothes in a washing machine or just hot water in a basin.
+All you have to do is wash the clothing.Â The challenge is getting the right ingredients/ temperature and transporting the clothing and bedding to the laundry area (without dropping some fleas), either in your home or elsewhere.
+**Wash Clothing and bedding in Hot Water:Â **
+- Depending on the type of fabric: Cotton, Silk, Wool, etc...Â Wash the clothes in a washing machine or just hot water in a basin.
 - However, including a detergent (the mild-type) to the hot water. Check these[vacuums for fleas](https://pestpolicy.com/best-vacuum-for-fleas/).
 - Adult fleas are exterminated at temperatures surpassing 35 C (95F) and when it is under 13C (55.4F). Also,[Flea larvae](https://pestpolicy.com/what-do-flea-larvae-look-like/)will die in their cocoon at a temperature of over 35 C.
 - The mechanical action and the hot water in the washing machine would definitely dislodge the fleas from the clothes and beddings and send them down the drain. The flea adults, eggs, larvae, and pupae would not survive through the laundering & drying process.
@@ -88,5 +88,9 @@ While at it, control the entry of feral cats, raccoons, and
 You must undertake flea prevention through spot-on flea extermination on your pets. Clean the pet carrier and brush plus flea comb the pets (including the long-haired pet) once they get home.
 ## Conclusion
 You don't want the fleas to spread. What you want to do is to put the laundry (clothes, blankets, bedsheets, e.t.c) in a nice sealed plastic bag and take them straight to the washing machine.
+
+
+
+
 
 

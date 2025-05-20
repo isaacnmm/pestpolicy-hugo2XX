@@ -1,13 +1,13 @@
----
+﻿---
+date: '2025-05-19T00:00:00+00:00'
+lastmod: '2025-05-19T00:00:00+03:00'
 author: Isaac
 layout: post
 title: Zhidong Controller Review for 2025
-$12025-05-19T00:00:00+00:00
 categories:
 - Controllers
 tags: []
 slug: /zhidong-controller-review/
-$12025-05-19T00:00:00+03:00
 ---
 
 The
@@ -34,5 +34,9 @@ Read Also:
 2. PC full vibration feedback
 3. Comfortable to use buttons
 4. Has a backlight
+
+
+
+
 
 

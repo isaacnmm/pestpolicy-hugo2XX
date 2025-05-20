@@ -1,19 +1,19 @@
----
+ï»¿---
+date: '2025-05-19T00:00:00+00:00'
+lastmod: '2025-05-19T00:00:00+03:00'
 author: Isaac
 layout: post
 title: Do Fleas Drown in Water? Floated or Submerged?
-$12025-05-19T00:00:00+00:00
 categories:
 - Fleas
 - Guide
 tags: []
 slug: /do-fleas-drown-in-water/
-$12025-05-19T00:00:00+03:00
 ---
 
 Do you have fleas in your home, or on pets like cats and dogs, and have been trying to kill them by drowning? Well, fleas flourish in dusty conditions but is water a risk to the bug's survival?
-- **So, do fleas drown in water? Yes, ****fleas will drown within 24 hours ****when submerged in water and may float alive for up to 7 days when drop fleas on the water surface - floating. **
-- **But if you add some dish soap to the water, it breaks down the surface tension making the fleas sink. **
+- **So, do fleas drown in water? Yes,Â ****fleas will drown within 24 hours ****when submerged in water and may float alive for up to 7 days when drop fleas on the water surface - floating. **
+- **But if you add some dish soap to the water, it breaks down the surface tension making the fleas sink.Â **
 [amazon bestseller="Best Killer for Fleas" items="2" template="table"]
 Related:
 [Flea Bombs that work](https://pestpolicy.com/best-fogger-for-fleas/)
@@ -29,7 +29,7 @@ Fleas wont die that fast when floated in water because of their body anatomy. A 
 - This wax-like coating is also called the cuticle.
 - It is this cuticle that plays an important role in preventing water entry into the fleas respiratory system giving its adaptive mechanism in the water.
 Its this cuticle that also allows these fleas to easily penetrate into pets far and into the skin.
-## **How to Drown Fleas? **
+## **How to Drown Fleas?Â **
 Though the wax-coating makes it hard to drown fleas, there are techniques that you can use to get rid of these disturbing pests.
 The easiest and fastest way to kill fleas by drowning is to mix dish soap with water. Why is the dish soap water method effective?
 - Dish soap destroys the wax-coating of the fleas and therefore when the fleas drown, water easily gets into the respiratory system and the fleas drown instantly.
@@ -63,4 +63,8 @@ Related:
 Do fleas drown in water? An outright yes. But, this does not happen with all types of water. For normal water, they may not drown because of the presence of surface tension and also because of their anatomy.
 Fleas float on normal water and can survive up to 7 days but when they drown, they may take up to 24 hours before they drown and die.
 If you add dish soap, to any normal water, it destroys the surface tension and also destroys the cuticle that makes fleas survive for long before they drown.
+
+
+
+
 

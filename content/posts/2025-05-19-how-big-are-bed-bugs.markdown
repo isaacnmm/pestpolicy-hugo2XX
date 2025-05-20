@@ -1,14 +1,14 @@
----
+﻿---
+date: '2025-05-19T00:00:00+00:00'
+lastmod: '2025-05-19T00:00:00+03:00'
 author: Isaac
 layout: post
 title: How Big are Bed Bugs? Identification & Removal
-$12025-05-19T00:00:00+00:00
 categories:
 - Bed Bugs
 - Guide
 tags: []
 slug: /how-big-are-bed-bugs/
-$12025-05-19T00:00:00+03:00
 ---
 
 How big are bed bugs? Bed bug bites are painful and
@@ -90,7 +90,7 @@ Bed bug eggs have a tough surface that'll withstand and survive most insecticide
 -, and thus, over 90% of the eggs will hatch successfully.
 Notably,
 [home solutions for bed bugs](https://pestpolicy.com/home-remedies-for-bed-bugs/)
-such as�borax, diatomaceous earth, vinegar, baking soda, or rubbing alcohol won't kill the bed bug eggs or even break through their shell.
+such as borax, diatomaceous earth, vinegar, baking soda, or rubbing alcohol won't kill the bed bug eggs or even break through their shell.
 So, where will you mainly find the bed bug eggs? The eggs will mainly be hidden on some protected sites (like cracks), but equally, this must be close to some food source.
 Therefore, please search for the eggs around the bed joints, headboard or mattress seams plus on box spring, or even attach themselves on the wall and wall cracks.
 On smell, you'll look for sweetish plus pungent odor coming from areas that bed bugs and their eggs hide - the scent comes from the bug's scent glands.
@@ -116,4 +116,8 @@ These are tiny bugs, but you may see them only clear when there's a huge infesta
 [bed bug sprays for control](https://pestpolicy.com/best-bed-bug-spray/)
 .
 So, for the question of how big are bed bugs?: Bed bugs are tiny bugs measuring about  inch in length - about apple seed's length - they're visible to the human eye.
+
+
+
+
 

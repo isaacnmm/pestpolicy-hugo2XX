@@ -1,14 +1,14 @@
----
+ï»¿---
+date: '2025-05-19T00:00:00+00:00'
+lastmod: '2025-05-19T00:00:00+03:00'
 author: Isaac
 layout: post
 title: What Kills Fleas on Contact?
-$12025-05-19T00:00:00+00:00
 categories:
 - Fleas
 - Guide
 tags: []
 slug: /what-kills-fleas-on-contact/
-$12025-05-19T00:00:00+03:00
 ---
 
 The question is; what kills fleas on contact? Will the remedy be safe for me and my pets? What product will
@@ -17,7 +17,7 @@ The question is; what kills fleas on contact? Will the remedy be safe for me and
 
 In this article, I've detailed the answer to this question. There are many flea-killing products like medicated drops, shampoos, repellents, and sprays - but they take time to work.
 **But what kills fleas on contact? Well, rubbing alcohol (isopropyl alcohol) will kill adult fleas on contact - it's best applied on flea-infested bedding or yard. Also,**
-** dawn dish soap kills flea eggs (via suffocation); thus, they won't reproduce, infest, or hatch. **
+**Â dawn dish soap kills flea eggs (via suffocation); thus, they won't reproduce, infest, or hatch.Â **
 - *NB: Large % of alcohol may be toxic to your pets and other animals - particularly if ingested but it may also be absorbed via the skin. *Related:[Where do Fleas Come From?](https://pestpolicy.com/where-do-fleas-come-from/)
 If you're curious how fleas (and their eggs) look, well
 [see this article](https://pestpolicy.com/what-do-baby-fleas-look-like/)
@@ -33,7 +33,7 @@ But as a pet owner, you'll better love rubbing alcohol for its flea-killing abil
 But should I use rubbing alcohol on my pet? Well, plucking the fleas from the cat's or dog's fur and dropping them into a rubbing alcohol bowl will kill the bugs.
 - However, washing the pet with some soapy hot water would still kill the fleas (and their eggs) but it won't endanger the health of your pet or the home.
 ## Danger1: Rubbing alcohol (Isopropyl alcohol) May be Toxic to pets
-Avoid pouring the rubbing alcohol on the cat's or dog's skin in an effort to examine the fleas as it can be toxic. Isopropyl alcohol will be toxic to the pets if absorbed into their skins in large amounts.
+Avoid pouring the rubbing alcohol on the cat's or dog's skin in an effort to examine the fleas as it can be toxic.Â Isopropyl alcohol will be toxic to the pets if absorbed into their skins in large amounts.
 
 However, it is critical to realize that some commercial flea killers also have a little percentage of alcohol. Therefore, over-spraying with such alcohol-
 containing products may lead to pet poisoning too.
@@ -88,7 +88,7 @@ You can also combine the flea shampoo, dish soap with a flea trap for better eff
 light or glue traps that use light or lovely scents to lure the fleas to be electrocuted or caught.
 So, where should you put or position the flea trap? Well, place the flea trap near your bed or pet bed and bedding as this is where fleas frequent. But avoid placing flea traps near
 flammable objects, drapery, or walls.
-But, do they really work? How effective are the flea traps? Well, flea traps will attract and help reduce massive flea
+But, do they really work? How effective are the flea traps?Â Well, flea traps will attract and help reduce massive flea
 infestations but the fleas may still move
 [jump onto another host like dogs or cats](https://pestpolicy.com/can-humans-carry-fleas-from-one-home-to-another/)
 .
@@ -144,4 +144,8 @@ So, on the question of "What Kills Fleas on Contact?", I recommend using rubbing
 Further, washing pets with dish soap can help suffocate (or drown) some of the adult fleas while flea traps can assist in reducing the flea population. Alternative me5thods include using diatomaceous earth as it'll kill fleas in many stages.
 
 Cheers!
+
+
+
+
 

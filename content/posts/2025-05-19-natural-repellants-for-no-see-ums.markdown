@@ -1,13 +1,13 @@
----
+﻿---
+date: '2025-05-19T00:00:00+00:00'
+lastmod: '2025-05-19T00:00:00+03:00'
 author: Isaac
 layout: post
 title: Natural Repellants for No-See-Ums
-$12025-05-19T00:00:00+00:00
 categories:
 - No See Ums
 tags: []
 slug: /natural-repellants-for-no-see-ums/
-$12025-05-19T00:00:00+03:00
 ---
 
 No-see-ums, also known as biting midges or sandflies, can be quite bothersome with their itchy bites. While there's no foolproof method to completely eradicate them, there are some natural repellents you can try to keep them at bay:
@@ -44,4 +44,8 @@ Mosquitos can get into your home through open windows. You can stop them with sc
 The small mesh screens can stop tiny bugs that people can't see including no see ums.
 ## Conclusion
 Remember to perform a patch test before applying any essential oil directly to your skin, as some people may have sensitivities or allergies. Also, reapply these repellents frequently, especially if you're sweating or swimming, as they may wear off over time.
+
+
+
+
 

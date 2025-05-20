@@ -1,23 +1,23 @@
----
+ï»¿---
+date: '2025-05-19T00:00:00+00:00'
+lastmod: '2025-05-19T00:00:00+03:00'
 author: Isaac
 layout: post
 title: Pros and Cons of Using Glue Traps for Mice
-$12025-05-19T00:00:00+00:00
 categories:
 - Guide
 - Rats
 tags: []
 slug: /pros-and-cons-of-using-glue-traps-for-mice/
-$12025-05-19T00:00:00+03:00
 ---
 
 Glue traps are a common and reliable way of
 [getting rid of mice](https://entomology.ca.uky.edu/ef617)
 in houses and offices.
 - A glue trap is a plastic tray or a compact cardboard with a sticky surface that holds pests once they come into contact with the glue.
-**But what are the pros and cons of using glue traps for mice? **
+**But what are the pros and cons of using glue traps for mice?Â **
 *Pros: easy to use, cheap to purchase, provide quick results, non- toxic, best for tight locations, and easy to dispose of the dead mouse. *
-*Cons: no effective results in extremes temperatures, some people consider it as a brutal act, pets and children can get stuck, requires frequent check-ups, and are easily damaged by dust and moisture. *
+*Cons: no effective results in extremes temperatures, some people consider it as a brutal act, pets and children can get stuck, requires frequent check-ups, and are easily damaged by dust and moisture.Â *
 Related:
 [Outdoor Rat Traps](https://pestpolicy.com/best-outdoor-rat-traps/)
 ## A) The Pros of Using Glue Traps for Mice
@@ -55,12 +55,12 @@ After a few days check the traps you have placed in different locations; there i
 - Wrap them together and throw them away in the garbage.
 ## B) The cons of using glue traps for mice
 ### 1. No effective results in extremes temperatures.
-In direct sunlight and extremes temperatures, glue trap wont work well. It will melt out. So in places with hot temperatures the following will happen;
+In direct sunlight and extremes temperatures, glue trap wont work well. It will melt out.Â So in places with hot temperatures the following will happen;
 - You will have to keep the trap in a flat position flat- this may hinder trapping mice in odd angles places since it will ooze out of the tray.
 - In direct sunlight, the glue will dry up.
 - If placed near the flames, hot water heater or gas, they can cause fire because the mouse can drag the trap onto the flames.
 ### 2. Its a brutal act
-Once a mouse is trapped in a glue trap, the following events will take place; The mouse suffers from starvation and suffocation for the days its stuck.
+Once a mouse is trapped in a glue trap, the following events will take place;Â The mouse suffers from starvation and suffocation for the days its stuck.
 - Mostly it may try to flee itself hence getting more injuries to its body parts. Most people consider this to be very inhuman.
 - The mouse trapped does not die immediately; it suffers for a long period and struggles a lot.
 - The mouse may panic and die from heart attack.
@@ -76,7 +76,7 @@ Sometimes pets and small children can get stuck to the trap causing injuries to 
 - Apply some cooking oil on the affected place and dab the glue remains.
 - Allow the oil to stay for some few minutes. Using a dry cloth, rub the skin to remove the softened glue.
 ### 4. Any other pet might get stuck on the trap e.g. House pets
-You need to take the trapped animal and dispose it to your garbage. A small child might get stuck his hand or leg while in the house accidentally.
+You need to take the trapped animal and dispose it to your garbage.Â A small child might get stuck his hand or leg while in the house accidentally.
 - The trap might have been spoilt by heat or moisture hence not meeting the mission.
 - The trap might have been dislocated by another pet or something from where you had placed it.
 - Trapped mice might use their own urine and hair to free themselves from the traps.
@@ -92,4 +92,8 @@ Mice will transmit diseases, contaminate food, and damage clothes and other hous
 - [House Mouse Management Guidelines--UC IPM](http://ipm.ucanr.edu/PMG/PESTNOTES/pn7483.html)
 - [What is a sticky trap? - Insects in the City](https://citybugs.tamu.edu/factsheets/ipm/what-is-a-sticky-trap/)
 - [Controlling House Mice - Nebraska Extension Wildlife](https://wildlife.unl.edu/pdfs/controlling-house-mice.pdf)
+
+
+
+
 

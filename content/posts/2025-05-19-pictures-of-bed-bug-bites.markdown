@@ -1,14 +1,14 @@
----
+ï»¿---
+date: '2025-05-19T00:00:00+00:00'
+lastmod: '2025-05-19T00:00:00+03:00'
 author: Isaac
 layout: post
 title: Pictures of Bed Bug Bites? Stings, Allergies?
-$12025-05-19T00:00:00+00:00
 categories:
 - Bed Bugs
 - Guide
 tags: []
 slug: /pictures-of-bed-bug-bites/
-$12025-05-19T00:00:00+03:00
 ---
 
 Are you trying to determine if we have bed bugs in the house? First, I'll narrate a personal experience I had eight months ago.
@@ -22,7 +22,7 @@ So, in this post, I'll outline different pictures of bed bug bites that'll help 
 , and
 [bed bugs can't jump or fly](https://pestpolicy.com/do-bed-bugs-jump/)
 .
-## Pictures of Bed Bug Bites? Stings, Allergies? -  What Do Bed Bug Bites Look Like?
+## Pictures of Bed Bug Bites? Stings, Allergies? -Â  What Do Bed Bug Bites Look Like?
 The bites are usually found on the body parts that are
 [exposed to the bed bugs](https://pestpolicy.com/what-does-bed-bug-poop-look-like/)
 while you sleep. These could be the neck, hands, shoulders, legs, arms, and face. Though not the usual case,
@@ -78,7 +78,7 @@ In most instances, one would feel
 [improvement from bed bug bites](https://pestpolicy.com/best-bed-bug-steamer/)
 within one to two weeks. This is a process that happens naturally.
 However, if you want to rid of the symptoms sooner, you might consider doing the things listed below.
-- Use anti-itch cream so that you stop feeling the itchiness. Also, you can[apply calamine lotion to the bed bug](https://pestpolicy.com/does-diatomaceous-earth-kill-bed-bugs/)bites. Find out the best cream that will not affect your skin due to[side effects](https://pestpolicy.com/diatomaceous-earth/).
+- Use anti-itch cream so that you stop feeling the itchiness.Â Also, you can[apply calamine lotion to the bed bug](https://pestpolicy.com/does-diatomaceous-earth-kill-bed-bugs/)bites. Find out the best cream that will not affect your skin due to[side effects](https://pestpolicy.com/diatomaceous-earth/).
 - Use an oral[antihistamine](https://www.webmd.com/allergies/antihistamines-for-allergies)so that you reduce the burning and itching.
 - Over-the-counter pain relievers can be used to remove the burning sensation[caused by the bed bug](https://pestpolicy.com/are-bed-bug-eggs-hard-or-soft/)bites. However, before using such medications, you need to confirm that they wont cause severe side effects.
 Though possible,
@@ -106,6 +106,10 @@ Bed bug bites can be a huge problem, especially if you dont know
 .
 Once you learn that
 [bed bugs have bitten you](https://pestpolicy.com/can-bed-bugs-get-in-your-hair/)
-, you can use the tricks mentioned above to relieve yourself of the symptoms.  See a medical expert if the condition gets severe.
+, you can use the tricks mentioned above to relieve yourself of the symptoms. Â See a medical expert if the condition gets severe.
+
+
+
+
 
 

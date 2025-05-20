@@ -1,13 +1,13 @@
----
+﻿---
+date: '2025-05-19T00:00:00+00:00'
+lastmod: '2025-05-19T00:00:00+03:00'
 author: Isaac
 layout: post
 title: Will Snow Ruin a Trampoline?
-$12025-05-19T00:00:00+00:00
 categories:
 - Guide
 tags: []
 slug: /will-snow-ruin-a-trampoline-winterizing-trampoline/
-$12025-05-19T00:00:00+03:00
 ---
 
 will snow ruin a trampoline? Winter is fast approaching, and many questions are running through your mind.
@@ -37,5 +37,9 @@ If you have decided to disassemble, you dont have to remove the entire structure
 [Stain For Swing Set](https://pestpolicy.com/best-stain-for-swing-set/)
 .
 Leave all the poles that secure the safety netting as well as the frame metal that connects the mat and the springs standing outside.
+
+
+
+
 
 

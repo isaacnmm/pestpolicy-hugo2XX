@@ -1,22 +1,22 @@
----
+ï»¿---
+date: '2025-05-19T00:00:00+00:00'
+lastmod: '2025-05-19T00:00:00+03:00'
 author: Isaac
 layout: post
 title: What Attracts Fleas?
-$12025-05-19T00:00:00+00:00
 categories:
 - Fleas
 - Guide
 tags: []
 slug: /what-attracts-fleas/
-$12025-05-19T00:00:00+03:00
 ---
 
 Fleas will pose a hazard (health) to both pets and humans. So, ensure to
 [flea-treat your cats](https://pestpolicy.com/best-flea-treatment-for-cats/)
-& dogs -  to avoid that massive infestation.
-**But what attracts fleas? As they find a host, cat fleas are mainly attracted by thermal and visual stimuli (heat & light). Others include C02 & exhaled breath from humans, movement, darkness, food, and warmth. **
+& dogs -Â  to avoid that massive infestation.
+**But what attracts fleas? As they find a host, cat fleas are mainly attracted by thermal and visual stimuli (heat & light). Others include C02 & exhaled breath from humans, movement, darkness, food, and warmth.Â **
 **Attraction Cues:**
-- *Host size & color, time of day, carbon dioxide, physical contact, warmth, gravity, host odor, air currents, and light movement. *
+- *Host size & color, time of day, carbon dioxide, physical contact, warmth, gravity, host odor, air currents, and light movement.Â *
 Related:
 [Do Fleas Suck Blood](https://pestpolicy.com/do-fleas-suck-blood/)
 ## Details: What Attracts Fleas?
@@ -24,12 +24,12 @@ When it emerges from its
 [cocoon](https://pestpolicy.com/what-do-flea-cocoons-look-like/)
 , adult fleas will begin sucking blood for survival - avoiding starvation will require feeding within a week.
 Cat fleas will largely be attracted by thermal and visual cues. But combining various stimuli will enhance the accuracy of how the fleas detect their hosts.
-### 1. Phototaxis (Light)
+### 1.Â Phototaxis (Light)
 Light will attract those adult fleas - this will mainly be the green-yellow light with wavelengths of 500 to 530 nm.
 - Turning the lights on or off quickly makes the fleas perceive such actions as a shadow from some possible host in the surrounding.
 - Thus, intermittent light will attract the fleas for about 8 times more compared to using continuous light.
 Notably, when positioned in dark places, over 90% of all fleas will start moving to areas with light within 1 hour.
-#### a. Intermittent Light
+#### a.Â Intermittent Light
 The light attraction for fleas will be better when the source of light is briefly & quickly interrupted within like 5-10 minutes.
 - As noted above, the light interruption seems to mimic some shadow that would be produced by some potential host when its passes by the bug.
 Thus, fleas will tend to quickly jump towards the side that had observed shadow.
@@ -75,7 +75,7 @@ and fleas - CO2 is that gas that warm-blooded animals breathe out.
 Fleas, especially cat fleas, will leap around more when there is a higher CO2 amount.
 - Besides, CO2 produced by humans tends to attract fleas more - this might down that humidity and warmth could increase the level of fleas' response.
 Further, a recent flea study shows that the bugs' activity & jumping as they're receiving CO2 in short bursts.
-### 7. Warmth (Thermotaxis)
+### 7.Â Warmth (Thermotaxis)
 The activity of fleas in your spaces will reduce when there is an
 [increase om heat](https://pestpolicy.com/are-fleas-attracted-to-heat/)
 - a positive response on the thermotactic conditions.
@@ -97,4 +97,8 @@ In summary, on the question "what attracts fleas", fleas will be attracted to th
 - Fleas seekwarmth from locations such as the pet's nestling and fur, or even their skin.
 Other stimuli that'll attract fleas are C02 & exhaled breath from humans, movement, darkness, food, and warmth. Further factors include
 *air currents, light movement, and host size & color.*
+
+
+
+
 

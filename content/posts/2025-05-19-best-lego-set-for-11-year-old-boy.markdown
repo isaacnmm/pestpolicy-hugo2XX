@@ -1,14 +1,14 @@
----
+﻿---
+date: '2025-05-19T00:00:00+00:00'
+lastmod: '2025-05-19T00:00:00+03:00'
 author: Isaac
 layout: post
 title: 7 Best Lego Set For 11 Year Old Boy 2025
-$12025-05-19T00:00:00+00:00
 categories:
 - Guide
 - Kids Playsets
 tags: []
 slug: /best-lego-set-for-11-year-old-boy/
-$12025-05-19T00:00:00+03:00
 ---
 
 Are you looking for a perfect lego set for your 11-year-old son? youll love my detailed recommendation on the Best Lego Set For an 11-Year-Old Boy. A Lego set and
@@ -131,5 +131,9 @@ Cons:
 Your 11-year-old will appreciate the learning, adventure, fun, and excitement that comes with owning a Lego set. Choosing any of the above-reviewed sets will guarantee excitement and a fun-filled experience for your child.
 
 Youll love how creative and adventurers they have become after seeing them put together all the pieces in a Lego set.
+
+
+
+
 
 

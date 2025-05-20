@@ -1,13 +1,13 @@
----
+﻿---
+date: '2025-05-19T00:00:00+00:00'
+lastmod: '2025-05-19T00:00:00+03:00'
 author: Isaac
 layout: post
 title: Top 9 Best Busking Amps for 2025
-$12025-05-19T00:00:00+00:00
 categories:
 - Guitar
 tags: []
 slug: /best-busking-amps/
-$12025-05-19T00:00:00+03:00
 ---
 
 I've always had a problem performing in front of large crowds. This is exasperated when there is limitless space on the performance stage.
@@ -77,5 +77,9 @@ Cons:
 ## Conclusion
 The best amplifiers for busking -
 In fact, your 50-watt amp may have just 3 decibels less than the 100-watts amp. Therefore, dont be confused, the wattage of the amp wont proportionately affect how much loud your amplifier will be.
+
+
+
+
 
 

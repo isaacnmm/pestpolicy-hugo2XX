@@ -1,22 +1,22 @@
----
+ï»¿---
+date: '2025-05-19T00:00:00+00:00'
+lastmod: '2025-05-19T00:00:00+03:00'
 author: Isaac
 layout: post
 title: Can Humans Get Ear Mites from Dogs?
-$12025-05-19T00:00:00+00:00
 categories:
 - Guide
 - Mites
 tags: []
 slug: /can-humans-get-ear-mites-from-dogs/
-$12025-05-19T00:00:00+03:00
 ---
 
 Can humans get ear mites from dogs?
 [Ear mites](https://vcahospitals.com/know-your-pet/ear-mites-otodectes-in-cats-and-dogs)
 will cause your dogs to scratch and shake their ears very frequently. They live in their ear canal & cause itchiness, as evidenced by frequent scratching.
-*The simple answer is  YES. These parasites spread rapidly and can be transmitted to humans through physical contact with the affected animal. It's sporadic for humans to catch ear mites. If they get into your body, they won't survive for long since they are not adapted to live in a human host. *
+*The simple answer is  YES. These parasites spread rapidly and can be transmitted to humans through physical contact with the affected animal. It's sporadic for humans to catch ear mites. If they get into your body, they won't survive for long since they are not adapted to live in a human host.Â *
 [Demodectic mites and sarcoptic mites](https://www.petmd.com/blogs/fullyvetted/2012/feb/sarcoptic_vs_demodectic_mange-12823)
-are common mites that can be transmitted from dogs to humans. So, you might be worried about ear mites being transmitted from your dogs to your family. Related:
+are common mites that can be transmitted from dogs to humans. So, you might be worried about ear mites being transmitted from your dogs to your family.Â Related:
 [Medicine for Ear Mites in Cats](https://pestpolicy.com/best-medicine-for-ear-mites-in-cats/)
 .
 [amazon bestseller="Ear Mites from Dogs" items="2" template="table"]
@@ -89,4 +89,8 @@ So you don't expect them to have any symptomatic effects on
 [humans within the short stay](https://pestpolicy.com/do-fleas-stay-on-humans/)
 . Compared to other mite infections, ear mites are less severe. Their impact on dogs and other pets will depend on the severity of the disease.
 However, with proper animal husbandry and expert treatment, you can quickly get rid of them and prevent future infestation.
+
+
+
+
 

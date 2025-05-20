@@ -1,13 +1,13 @@
----
+﻿---
+date: '2025-05-19T00:00:00+00:00'
+lastmod: '2025-05-19T00:00:00+03:00'
 author: Isaac
 layout: post
 title: 7 Best Wireless Mic for iPhone 2025
-$12025-05-19T00:00:00+00:00
 categories:
 - Mics
 tags: []
 slug: /best-wireless-mic-for-iphone/
-$12025-05-19T00:00:00+03:00
 ---
 
 The best wireless mic for iPhone will help you to easily record your podcasts,
@@ -132,5 +132,9 @@ package. See these
 [music vidoes production cameras](https://pestpolicy.com/best-camera-for-music-videos/)
 .
 It has receiver & transmitter, and portable case, belt clip, wind muff, USB charging cable, 3.5mm audio mic, and the TRRS Sound Output Cable.
+
+
+
+
 
 

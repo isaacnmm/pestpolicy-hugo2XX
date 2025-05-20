@@ -1,13 +1,13 @@
----
+﻿---
+date: '2025-05-19T00:00:00+00:00'
+lastmod: '2025-05-19T00:00:00+03:00'
 author: Isaac
 layout: post
 title: 7 Best Point and Shoot Camera Under 100 in 2025
-$12025-05-19T00:00:00+00:00
 categories:
 - Cameras
 tags: []
 slug: /best-point-and-shoot-camera-under-100/
-$12025-05-19T00:00:00+03:00
 ---
 
 Most smartphone cameras have
@@ -70,5 +70,9 @@ Read Also:
 [Laptop for Music Production](https://pestpolicy.com/best-laptop-for-music-production/)
 ### [6. Polaroid IEX29-RED HD 18 MP Optical Zoom Digital Camera](https://www.amazon.com/dp/B0177QDN5I/?tag=p-policy-20)
 It comes with a large LCD screen, image stabilization in-built flash and the red-eye reduction thatll allow you to take high-quality snapshots.
+
+
+
+
 
 

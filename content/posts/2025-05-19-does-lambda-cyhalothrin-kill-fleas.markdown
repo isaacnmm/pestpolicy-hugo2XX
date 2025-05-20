@@ -1,14 +1,14 @@
----
+﻿---
+date: '2025-05-19T00:00:00+00:00'
+lastmod: '2025-05-19T00:00:00+03:00'
 author: Isaac
 layout: post
 title: Does Lambda Cyhalothrin Kill Fleas?
-$12025-05-19T00:00:00+00:00
 categories:
 - Fleas
 - Guide
 tags: []
 slug: /does-lambda-cyhalothrin-kill-fleas/
-$12025-05-19T00:00:00+03:00
 ---
 
 [Lambda Cyhalothrin](http://npic.orst.edu/factsheets/l_cyhalogen.pdf)
@@ -64,4 +64,8 @@ Other products include Agricultural insecticides for treating pests on both non-
 Lambda-Cyhalothrin is an effective synthetic pyrethroid that will kill fleas in the house and in the yard.
 - Commercially there are many pest control products that contain lambda-cyhalothrin and you can inquire from your local exterminator or stores.
 Cheers
+
+
+
+
 

@@ -1,14 +1,14 @@
----
+ï»¿---
+date: '2025-05-19T00:00:00+00:00'
+lastmod: '2025-05-19T00:00:00+03:00'
 author: Isaac
 layout: post
 title: Harris Boric Acid Roach Powder with Lure Review
-$12025-05-19T00:00:00+00:00
 categories:
 - Cockroaches
 - Product Reviews
 tags: []
 slug: /harris-boric-acid-roach-powder-with-lure-review/
-$12025-05-19T00:00:00+03:00
 ---
 
 In this post, I've reviewed Harris Boric Acid powder as an effective roach killer. Harris Boric Acid is a historic roach control method, at least the composition's chemical side.
@@ -25,8 +25,8 @@ to the poison and trick it into feeding o its death. Further, the cockroaches te
 colony.
 The included straw has a tube-like design thatll allow the homeowner to place the
 [roach killing](https://pestpolicy.com/how-to-get-rid-of-cockroaches/)
-powders to the deepest of the cracks and crevices. But, being a chemical, boric acid must not be ingested by humans, pets, and livestock as it can be poisonous to them.
-## **Condensed milk mixture **
+powders to the deepest of the cracks and crevices.Â But, being a chemical, boric acid must not be ingested by humans, pets, and livestock as it can be poisonous to them.
+## **Condensed milk mixtureÂ **
 It would help if you mixed the boric acid roach killer with condensed milk, creating a thick paste thats highly attractive to top efficiency roaches. This will help confuse some roaches and bugs that will readily avoid eating some
 [roach baits](https://pestpolicy.com/best-roach-bait/)
 with a specific smell, color, or shape.
@@ -50,7 +50,7 @@ Ingesting high amounts of the roach acid powders can cause a coma, seizures, tre
 [killing powder](https://pestpolicy.com/does-baby-powder-kill-bed-bugs/)
 may trigger a burning or irritating feeling on your skin and eyes.
 Therefore, when making the boric acid application, you'll need to wear protective goggles and gloves to safeguard and block your eyes, mouth, and nose. However, exposure to low levels of boric acid may cause hives, rashes, burning sensation on your nasal passages, and dry throat.
-## **Compare Borax vs. Boric Acid **
+## **CompareÂ Borax vs.Â Boric AcidÂ **
 First things first, both borax and boric acid are extracted from the mineral boron. Further, you can both of these chemicals to kill roaches and other insects.
 But borax is used in toothpaste, laundry detergent, or
 [dish soap](https://pestpolicy.com/dawn-dish-soap-for-fleas/)
@@ -59,4 +59,8 @@ Therefore, borax incorporated in the regular use products comes in low quantitie
 ## **Sources:**
 1. [Boric Acid NPIC](http://npic.orst.edu/factsheets/boricgen.html#cancer).
 2. [Boric Acid Pesticide - Roach Control](https://entomology.ca.uky.edu/ef614).
+
+
+
+
 

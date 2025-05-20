@@ -1,19 +1,19 @@
----
+﻿---
+date: '2025-05-19T00:00:00+00:00'
+lastmod: '2025-05-19T00:00:00+03:00'
 author: Isaac
 layout: post
 title: ZD-V+ Controller 2025 Reviewed
-$12025-05-19T00:00:00+00:00
 categories:
 - Controllers
 tags: []
 slug: /zd-v-controller/
-$12025-05-19T00:00:00+03:00
 ---
 
 ZD-V + Controller - USB
 [Gaming Controller](https://pestpolicy.com/)
 is compatible with PlayStation 3, Android, and PC. Further, the controller runs from Windows XP up to Windows 10.
-## Review of the�ZD-V Controller in 2025
+## Review of the ZD-V Controller in 2025
 Further, it is a multimode, the DirectInput, and Xinput. Further, youll love the controller as it is easy to use since it is just play and play.
 ### Vibration feedback
 For an excellent gaming experience, the controller has Vibration feedback but youll require to change the keypad using the DirectInput Mode.
@@ -35,4 +35,8 @@ Read Also:
 3. Vibration Feedback Function
 4. Works with PS3, Windows XP up to Windows 10.
 5. Multi-mode and JD-SWITCH Function - check the[Flight Simulator Yoke Reviewed](https://pestpolicy.com/best-flight-simulator-yoke/)
+
+
+
+
 

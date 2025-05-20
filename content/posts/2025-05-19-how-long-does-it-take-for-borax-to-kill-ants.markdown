@@ -1,14 +1,14 @@
----
+﻿---
+date: '2025-05-19T00:00:00+00:00'
+lastmod: '2025-05-19T00:00:00+03:00'
 author: Isaac
 layout: post
 title: How Long Does It Take For Borax to Kill Ants
-$12025-05-19T00:00:00+00:00
 categories:
 - Ants
 - Guide
 tags: []
 slug: /how-long-does-it-take-for-borax-to-kill-ants/
-$12025-05-19T00:00:00+03:00
 ---
 
 Usually, the first line of defense against ants is some sort of poison that will kill them and keep them from coming back.
@@ -64,7 +64,7 @@ On ant baiting, here are a few tips for getting ants to take your bait back to t
 - Don't disturb - Don't kill ants that come around the borax bait. These are scouts who help find food for their colonies - they will carry the bait on their back to their nest.
 - Remove food sources - Keep your home as clean as possible in order to help prevent ants from coming into contact with any food sources. Also, store all of your food inside containers that have tight-fitting lids.
 ## Will borax kill the queen ant?
-Borax or boric acid combined with a sugary substance to make a liquid bait will kill adult�ants including the queen.
+Borax or boric acid combined with a sugary substance to make a liquid bait will kill adult ants including the queen.
 - But to kill ant larvae, create a borax bait with white sugar and borax (at a ratio of 1:1) and mix these ingredients until they are thoroughly mixed.
 - The larvae are more sensitive than adult ants so this mixture is lethal for them and also kills some insects such as termites.
 - Place baits on ant trails. This includes any surfaces where ants are found, such as railings, sidewalks, and walls.
@@ -94,4 +94,8 @@ On how long does it take for borax to kill ants: BORAX WORKS! Will Borax Kill Th
 Yes! It Works Slow Enough That Allows For Trips By A Foraging Ant Before Effect Is Lethal.
 
 Cheers!
+
+
+
+
 

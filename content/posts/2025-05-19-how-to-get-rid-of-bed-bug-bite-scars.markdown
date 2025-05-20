@@ -1,14 +1,14 @@
----
+﻿---
+date: '2025-05-19T00:00:00+00:00'
+lastmod: '2025-05-19T00:00:00+03:00'
 author: Isaac
 layout: post
 title: How to Get Rid of Bed Bug Bite Scars
-$12025-05-19T00:00:00+00:00
 categories:
 - Bed Bugs
 - Guide
 tags: []
 slug: /how-to-get-rid-of-bed-bug-bite-scars/
-$12025-05-19T00:00:00+03:00
 ---
 
 Treating bed bug bites can become a problem if you dont act on them promptly.
@@ -126,6 +126,10 @@ Related:
 [Can Rubbing Alcohol Kill Bed Bugs?](https://pestpolicy.com/does-rubbing-alcohol-kill-bed-bugs/)
 ## Conclusion
 Dealing with bed bug bite scars can be quite disturbing, especially when they appear on visible areas such as hands, neck, legs and face.
-Moreover, the scars are made worse and more evident when you constantly scratch on them.�With the above remedies, you can easily get rid of bed bug bite scars without using antibiotics.
+Moreover, the scars are made worse and more evident when you constantly scratch on them. With the above remedies, you can easily get rid of bed bug bite scars without using antibiotics.
+
+
+
+
 
 

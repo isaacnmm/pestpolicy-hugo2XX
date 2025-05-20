@@ -1,14 +1,14 @@
----
+﻿---
+date: '2025-05-19T00:00:00+00:00'
+lastmod: '2025-05-19T00:00:00+03:00'
 author: Isaac
 layout: post
 title: 'Do Chipmunks Live Underground?: The Answer'
-$12025-05-19T00:00:00+00:00
 categories:
 - Chipmunks
 - Guide
 tags: []
 slug: /do-chipmunks-live-underground/
-$12025-05-19T00:00:00+03:00
 ---
 
 [Chipmunks](https://extension.psu.edu/chipmunks)
@@ -59,7 +59,7 @@ When you dig the ground radially with intentions to view the
 [chipmunks underground shelter](https://www.humanesociety.org/resources/what-do-about-chipmunks)
 , you will see/find a long excavated narrow tunnel of varying width.
 
-How deep are chipmunk holes?�The central part of the burrow is slightly raised to avoid flooding in case water leaks. Moreover, the chamber might be reinforced with grass or leaves to create more warmth for the Chipmunks.
+How deep are chipmunk holes? The central part of the burrow is slightly raised to avoid flooding in case water leaks. Moreover, the chamber might be reinforced with grass or leaves to create more warmth for the Chipmunks.
 
 There are side pockets/hoards that may extend up to 2 feet. These are used to store food, collect empty shells or as a breeding ground. These are located slightly above the floor of the tunnel.
 
@@ -114,5 +114,9 @@ Chipmunks can cause serious damage in your home and need to be controlled using 
 1. [Chipmunk & Ground Squirrel - Wildlife Ecology and Damage](https://extension.psu.edu/chipmunks)
 2. [Chipmunks in the Garden - University of Vermont](https://pestpolicy.com/)
 3. [Golden-Mantled Ground Squirrel or Chipmunk? - UCCE](http://cecentralsierra.ucanr.edu/files/170223.pdf)
+
+
+
+
 
 

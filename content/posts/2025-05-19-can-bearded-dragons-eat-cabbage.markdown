@@ -1,22 +1,22 @@
----
+ï»¿---
+date: '2025-05-19T00:00:00+00:00'
+lastmod: '2025-05-19T00:00:00+03:00'
 author: Isaac
 layout: post
 title: Can Bearded Dragons Eat Cabbage?
-$12025-05-19T00:00:00+00:00
 categories:
 - Guide
 - Lizard
 tags: []
 slug: /can-bearded-dragons-eat-cabbage/
-$12025-05-19T00:00:00+03:00
 ---
 
 Cabbages, whether red, green, or variegated, are vegetables that are often eaten together with course meals across the world.
 Previously we checked
 [what bearded dragons eat](https://pestpolicy.com/what-do-bearded-dragons-eat/)
 . It may even concern you if these lizards can eat all cabbage species or not.
-*So, can bearded dragons eat cabbages? The simple answer is YES! The bearded dragon will feed on all varieties of cabbages without any problems. Actually, cabbages have rich vitamin composition (needed to boost beardies immune system), and high calcium: phosphorous ratio (that prevents metabolic bone disease). *
-*Cabbages have high dietary fiber (which prevents constipation), large mineral contents (needed for growth and development of tissues), contain powerful antioxidants and anti-inflammatory, low-fat content (thus preventing obesity) as well as relatively low sugar level that help reduce cases of diabetes and high blood pressure on your bearded dragon. *
+*So, can bearded dragons eat cabbages? The simple answer is YES! The bearded dragon will feed on all varieties of cabbages without any problems. Actually, cabbages have rich vitamin composition (needed to boost beardies immune system), and high calcium: phosphorous ratio (that prevents metabolic bone disease).Â *
+*Cabbages have high dietary fiber (which prevents constipation), large mineral contents (needed for growth and development of tissues), contain powerful antioxidants and anti-inflammatory, low-fat content (thus preventing obesity) as well as relatively low sugar level that help reduce cases of diabetes and high blood pressure on your bearded dragon.Â *
 [amazon bestseller="Food for Bearded Dragons" items="2" template="table"]
 ## Details: Can Bearded Dragons Eat Cabbage?
 But it is necessary to keep close monitoring of the sugar and
@@ -104,7 +104,7 @@ It is required of you to remove the following parts of the cabbages before feedi
 ### **1. The middle stalk/midrib**
 This is the hardest part of the cabbage that is found at the center and prolongs outside to form the taproot network.
 Though nutritious, your beardie wont be in a position to digest it easily (hard).
-In addition, the section has tough starch composition that impairs the digestion process. Actually, the stalk may get stuck in the alimentary canal causing impaction or chock your beardie to death.
+In addition, the section has tough starch composition that impairs the digestion process.Â Actually, the stalk may get stuck in the alimentary canal causing impaction or chock your beardie to death.
 ### **2. Foliage leaves/first leaves**
 First/foliage leaves of cabbages should be removed as they contain many chemicals (acquired at the initial stage  if cabbage is not organically grown) that may impair/affect your beardies digestive system.
 Moreover, these leaves stores excess oxalate (impairs digestion) needed for cabbage build up at the earlier stage of growth and development.
@@ -114,4 +114,8 @@ High calcium: phosphorous ratio should be one of the reasons for selecting cabba
 Remember to involve a qualified veterinarian often to check your beardies health, if you consider cabbages as a diet since they contain average sugar and water level that may arise if not monitored.
 ## Sources:
 1. [**Bearded Dragon Adaptations: Lesson for Kids  Study.com**](https://study.com/academy/lesson/bearded-dragon-adaptations-lesson-for-kids.html)
+
+
+
+
 

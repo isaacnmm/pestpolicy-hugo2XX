@@ -1,7 +1,8 @@
----
+﻿---
+date: '2025-05-19T00:00:00+00:00'
+lastmod: '2025-05-19T00:00:00+03:00'
 layout: page
 title: Locations
-$12025-05-19T00:00:00+00:00
 permalink: /locations/
 ---
 
@@ -11,3 +12,7 @@ permalink: /locations/
 - [Federal Way](https://pestpolicy.com/federal-way/pest-control-in-federal-way/)
 ## Oregon Service Locations
 - [Eugene](https://pestpolicy.com/eugene/pest-control-eugene/)
+
+
+
+

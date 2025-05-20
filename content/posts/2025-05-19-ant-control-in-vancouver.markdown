@@ -1,14 +1,14 @@
----
+﻿---
+date: '2025-05-19T00:00:00+00:00'
+lastmod: '2025-05-19T00:00:00+03:00'
 author: Isaac
 layout: post
 title: Ant Control in Vancouver
-$12025-05-19T00:00:00+00:00
 categories:
 - Ants
 - Guide
 tags: []
 slug: /ant-control-in-vancouver/
-$12025-05-19T00:00:00+03:00
 ---
 
 Ant infestations are a common issue for homeowners and businesses in Vancouver, particularly during the warmer months.
@@ -44,4 +44,8 @@ Ant control in Vancouver requires a comprehensive and knowledgeable approach. Pe
 that target the root cause of ant infestations.
 - With our expert technicians, thorough inspections, and preventative measures, we ensure that your home or business remains protected from these persistent pests.
 Trust PestPolicy to handle your ant problems promptly and professionally, allowing you to enjoy a pest-free environment and peace of mind.
+
+
+
+
 

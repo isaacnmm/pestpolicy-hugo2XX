@@ -1,7 +1,8 @@
----
+﻿---
+date: '2025-05-19T00:00:00+00:00'
+lastmod: '2025-05-19T00:00:00+03:00'
 layout: page
 title: Reviews
-$12025-05-19T00:00:00+00:00
 permalink: /reviews/
 ---
 
@@ -30,3 +31,7 @@ Acknowledged expertise
 3
 ### Achievements in Technology
 Innovative solutions
+
+
+
+

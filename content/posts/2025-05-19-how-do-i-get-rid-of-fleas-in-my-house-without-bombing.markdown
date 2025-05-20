@@ -1,21 +1,21 @@
----
+﻿---
+date: '2025-05-19T00:00:00+00:00'
+lastmod: '2025-05-19T00:00:00+03:00'
 author: Isaac
 layout: post
 title: How Do I Get Rid of Fleas in My House Without Bombing?
-$12025-05-19T00:00:00+00:00
 categories:
 - Fleas
 - Guide
 tags: []
 slug: /how-do-i-get-rid-of-fleas-in-my-house-without-bombing/
-$12025-05-19T00:00:00+03:00
 ---
 
 The Pyrethrins in the flea spray kill the adult fleas targeting the fleas nervous system and thus kill or paralyze them - with IGR - 0.1% pyriproxyfen.
 - An IGR in Ultracide-flea, the pyriproxyfen, will stop various biological triggers, making the flea evolve to its next life cycle stage.
 On how do I get rid of fleas in my house without
 [bombing](https://pestpolicy.com/best-fogger-for-fleas/)
-; check the detailed explanation below. These are the�flea fogger or flea bomb alternatives.
+; check the detailed explanation below. These are the flea fogger or flea bomb alternatives.
 [amazon bestseller="Best Flea Sprays" items="2" template="table"]
 ## **1. Pesticide Sprays**
 Pesticide sprays kill fleas and are suitable for home use. Watch out for ingredients like resmethrin & permethrin - unsuitable for
@@ -71,5 +71,9 @@ that will be hiding under your carpet, particularly the various stages such as p
 However, Ultracide-
 flea
 has the same action and composition as the Virbac Knockout and Siphotrol Plus II and will all thus kill and prevent flea infestation.
+
+
+
+
 
 

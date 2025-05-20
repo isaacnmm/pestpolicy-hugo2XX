@@ -1,14 +1,14 @@
----
+﻿---
+date: '2025-05-19T00:00:00+00:00'
+lastmod: '2025-05-19T00:00:00+03:00'
 author: Isaac
 layout: post
 title: How to Get Rid Of Drain Flies in Basement
-$12025-05-19T00:00:00+00:00
 categories:
 - Flies
 - Guide
 tags: []
 slug: /how-to-get-rid-of-drain-flies-in-the-basement/
-$12025-05-19T00:00:00+03:00
 ---
 
 If you're tired of the nuisance brought by the tiny nuzzling insects (drain flies also known as sewer flies) in your basement drains in your residence, it's time we go rid of them!
@@ -66,4 +66,8 @@ So, drain flies have proven a nuisance especially when they invade your basement
 [bathroom](https://pestpolicy.com/how-to-get-rid-of-drain-flies-in-the-bathroom/)
 , mainly because these areas have moisture, dampness, and organic matter - conditions that promote the fast breeding of these bugs.
 I hope the above DIY and commercially acquired products will help your get rid of the drain flies in your residential or commercial building basement.
+
+
+
+
 

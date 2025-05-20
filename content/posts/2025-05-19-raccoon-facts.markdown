@@ -1,14 +1,14 @@
----
+﻿---
+date: '2025-05-19T00:00:00+00:00'
+lastmod: '2025-05-19T00:00:00+03:00'
 author: Isaac
 layout: post
 title: Raccoon Facts (Very Detailed)
-$12025-05-19T00:00:00+00:00
 categories:
 - Guide
 - Raccoons
 tags: []
 slug: /raccoon-facts/
-$12025-05-19T00:00:00+03:00
 ---
 
 Whether your home is surrounded by trees or skyscrapers, raccoons are likely a part of the wildlife population in your area.
@@ -73,5 +73,9 @@ According to researchers, the black masks also help them to see more clearly. Th
 2. [http://mentalfloss.com/article/527175/10-clever-facts-about-raccoons](http://mentalfloss.com/article/527175/10-clever-facts-about-raccoons)
 3. [https://www.livescience.com/52655-raccoons.html](https://www.livescience.com/52655-raccoons.html)
 4. [http://www.havahart.com/raccoon-facts](http://www.havahart.com/raccoon-facts)
+
+
+
+
 
 

@@ -1,13 +1,13 @@
----
+ï»¿---
+date: '2025-05-19T00:00:00+00:00'
+lastmod: '2025-05-19T00:00:00+03:00'
 author: Isaac
 layout: post
 title: 7 Best Elite Dangerous Mods 2025 Reviewed
-$12025-05-19T00:00:00+00:00
 categories:
 - Controllers
 tags: []
 slug: /elite-dangerous-mods/
-$12025-05-19T00:00:00+03:00
 ---
 
 I've learned how to make Elite Dangerous better with mods, apps, and tweaks. Frontier was developed as a space simulator which is amazingly big.
@@ -21,7 +21,7 @@ I must state that most of the mods available are sound and visual such and HUD R
 [Voice attack](http://voiceattack.com/)
 is a third-party voice recognition software that will execute custom macro commands.
 - It allows you to create anything from custom macro to simple keystrokes and then speak your commands to operate Elite Dangerous.
-So, how much will such great software cost you? Well, voice attack has a
+So, how much will such great software cost you?Â Well, voice attack has a
 [free trial](http://www.voiceattack.com/download.aspx)
 for $8 that you can use for the first 21 days while deciding if you need to upgrade to the premium Voice Attack.
 - For a voice attack, youll only require a microphone to work with the software.
@@ -46,5 +46,9 @@ However, you could require getting the
 file to modify the HUD color.
 ## Conclusion
 Strictly speaking, there are no Elite: dangerous mods but there are many third-party tools if you are in the PC Master race.
-Roccat Power-Grid, TrackIR, Voice Attack, Head Tracking, and  HUD Recolour.
+Roccat Power-Grid, TrackIR, Voice Attack, Head Tracking, and Â HUD Recolour.
+
+
+
+
 

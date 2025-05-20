@@ -1,14 +1,14 @@
----
+﻿---
+date: '2025-05-19T00:00:00+00:00'
+lastmod: '2025-05-19T00:00:00+03:00'
 author: Isaac
 layout: post
 title: 7 Best Flea Combs for Cats in 2025 Reviewed
-$12025-05-19T00:00:00+00:00
 categories:
 - Fleas
 - Product Reviews
 tags: []
 slug: /best-flea-comb-for-cats/
-$12025-05-19T00:00:00+03:00
 ---
 
 In this post, Ive reviewed the
@@ -100,5 +100,9 @@ Pet Republique also sponsors the protection of abandoned cats and dogs  for the 
 Easier to grip, ergonomic design, and top-quality pins
 ** The Bad: **
 Relatively pricey
+
+
+
+
 
 

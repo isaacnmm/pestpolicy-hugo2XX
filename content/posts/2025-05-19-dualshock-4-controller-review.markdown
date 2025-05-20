@@ -1,13 +1,13 @@
----
+﻿---
+date: '2025-05-19T00:00:00+00:00'
+lastmod: '2025-05-19T00:00:00+03:00'
 author: Isaac
 layout: post
 title: Dualshock 4 Controller Review 2025 Reviewed
-$12025-05-19T00:00:00+00:00
 categories:
 - Controllers
 tags: []
 slug: /dualshock-4-controller-review/
-$12025-05-19T00:00:00+03:00
 ---
 
 Right off, the new PS4 controller popular as the DualShock 4 is the ultimate Sony controller, particularly considering the flaws that were in DualShock 3: poor triggers and bad sticks configuration.
@@ -31,5 +31,9 @@ Related:
 [Controller for Retropie](https://pestpolicy.com/best-controller-for-retropie/)
 # Conclusion
 This Dualshock 4 Controller Review has shown that DualShock 4 is a superior controller with its better layout and amazing trackpad. Also, the option and share peggers are an amazing addition to the gamepad.
+
+
+
+
 
 

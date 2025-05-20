@@ -1,14 +1,14 @@
----
+﻿---
+date: '2025-05-19T00:00:00+00:00'
+lastmod: '2025-05-19T00:00:00+03:00'
 author: Isaac
 layout: post
 title: What Is A Hobo Spider? - 9 Hobo Facts
-$12025-05-19T00:00:00+00:00
 categories:
 - Guide
 - Spiders
 tags: []
 slug: /what-is-a-hobo-spider/
-$12025-05-19T00:00:00+03:00
 ---
 
 This post will answer the question "What is a Hobo Spider?" and give you 9 other interesting facts about these unique creatures!
@@ -119,7 +119,7 @@ where it is not dark or damp:
 - Eliminate their food sources by keeping vegetation trimmed back from foundations of buildings and sidewalks;
 - Place sticky traps in areas of high-traveling activity near exterior walls.
 ## Can a hobo spider kill a Dog or Cat?
-Recent studies shoes that hobo spider�bites aren't harmful or won't kill your cat or dog; this is unlike the case with
+Recent studies shoes that hobo spider bites aren't harmful or won't kill your cat or dog; this is unlike the case with
 **brown recluse and the **
 black widow that's fatal to pets and humans.
 
@@ -134,4 +134,8 @@ So, on the question of "What is a Hobo Spider?" we hope this article has been he
 Hobo spider bites rarely result in serious medical issues but may cause swelling at the site of injury along with flu-like symptoms such as fever, chills, nausea, and headache.
 
 As always, happy spider hunting!
+
+
+
+
 

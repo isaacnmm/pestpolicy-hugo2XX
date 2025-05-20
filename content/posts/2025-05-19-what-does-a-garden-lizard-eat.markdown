@@ -1,22 +1,22 @@
----
+ï»¿---
+date: '2025-05-19T00:00:00+00:00'
+lastmod: '2025-05-19T00:00:00+03:00'
 author: Isaac
 layout: post
 title: What Does a Garden Lizard Eat?
-$12025-05-19T00:00:00+00:00
 categories:
 - Guide
 - Lizard
 tags: []
 slug: /what-does-a-garden-lizard-eat/
-$12025-05-19T00:00:00+03:00
 ---
 
-What Does a Garden Lizard Eat? A garden lizard is a great reptile pet for homeowners. These reptiles  (Calotes Veriscolor ) also known as oriental garden lizards reside in warm areas like Asia.
+What Does a Garden Lizard Eat? A garden lizard is a great reptile pet for homeowners. These reptilesÂ  (Calotes Veriscolor ) also known as oriental garden lizards reside in warm areas like Asia.
 
 You'll find these lizards in grass, trees, and bushes. They are always behind the scenes observing their environment quietly.
-*But the question is, what does a garden lizard feast on? *
+*But the question is, what does a garden lizard feast on?Â *
 - **In summary, garden lizards eat snails, caterpillars, insects, small crickets, and some greens and fruits. They also dont consume much. ****Garden lizards work with small portions at a time**.
-- **The oriental garden lizard feeds on insects such as ants, cockroaches, ants, and grasshoppers. They also eat small vertebrates such as rats and also eat other lizards. **
+- **The oriental garden lizard feeds on insects such as ants, cockroaches, ants, and grasshoppers. They also eat small vertebrates such as rats and also eat other lizards.Â **
 [amazon bestseller="Best Food for Lizards" items="2" template="table"]
 ## What Does a Garden Lizard Eat?
 The garden lizard has teeth and they are used for gripping the prey. They do not tear the prey when eating, they swallow it whole. The young and inexperienced garden lizards normally choke if the prey is too large for them.
@@ -65,4 +65,8 @@ The best thing about having the lizards in your garden is that they will eat up 
 A lizard cannot control its body temperature so it will be good if you can turn on the sprinklers during the hot summer holidays. When you notice that their tails are down then something is wrong. The lizard could be stressed or hurt by another animal. Again, keep your cat away from the lizard because the cat will make a snack out of it.
 ### **Conclusion**
 Garden lizards are creatures that simply love a low profile. They will eat all the bugs and cockroaches and be your constant companion in the garden. And as it is said, you are what you eat, and knowing what a lizard eats is the first step in truly knowing the garden lizard so that you can co-exist with them in a mutual manner.
+
+
+
+
 

@@ -1,14 +1,14 @@
----
+﻿---
+date: '2025-05-19T00:00:00+00:00'
+lastmod: '2025-05-19T00:00:00+03:00'
 author: Isaac
 layout: post
 title: Permethrin Insect Repellent - Interactions, Side Effects
-$12025-05-19T00:00:00+00:00
 categories:
 - Fleas
 - Guide
 tags: []
 slug: /permethrin/
-$12025-05-19T00:00:00+03:00
 ---
 
 Permethrin is one of the synthetic chemicals that are classified under the
@@ -86,4 +86,8 @@ Permethrin is a reliable insecticide that has been used for a long time for both
 - There are many permethrin-based products in the market and so ensure to consult experts while using them.
 Using permethrin products without care may lead to adverse pet and human health effects.
 Cheers!
+
+
+
+
 

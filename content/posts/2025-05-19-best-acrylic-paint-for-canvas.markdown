@@ -1,13 +1,13 @@
----
+﻿---
+date: '2025-05-19T00:00:00+00:00'
+lastmod: '2025-05-19T00:00:00+03:00'
 author: Isaac
 layout: post
 title: 7 Best Acrylic Paint for Canvas in 2025
-$12025-05-19T00:00:00+00:00
 categories:
 - Paint
 tags: []
 slug: /best-acrylic-paint-for-canvas/
-$12025-05-19T00:00:00+03:00
 ---
 
 If you're a beginner or expert painter/ artist hunting for the best acrylic paint for canvas, then relax you're in the right place.
@@ -115,5 +115,9 @@ See Also:
 [Deck sealer for pressure treated](https://pestpolicy.com/best-deck-sealer-for-pressure-treated-wood/)
 ## Conclusion
 You'll easily get primary colours and other options including white, black, and versatile brown great for most of your acrylic artwork with permanence and lightfastness - best acrylic paint for canvas.
+
+
+
+
 
 

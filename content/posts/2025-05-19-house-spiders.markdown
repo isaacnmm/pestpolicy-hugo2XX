@@ -1,14 +1,14 @@
----
+﻿---
+date: '2025-05-19T00:00:00+00:00'
+lastmod: '2025-05-19T00:00:00+03:00'
 author: Isaac
 layout: post
 title: 'House Spiders: Causes, Bites & Control'
-$12025-05-19T00:00:00+00:00
 categories:
 - Guide
 - Spiders
 tags: []
 slug: /house-spiders/
-$12025-05-19T00:00:00+03:00
 ---
 
 House Spiders (Parasteatoda tepidariorum) popular as the American house spider or common house spider are classified under the
@@ -116,4 +116,8 @@ So it is important that you adopt effective prevention and control of the house 
 - Prevention will involve filling up cracks that may allow spiders and insects to get into your spaces.
 - You can control the house spiders by[using spider bombs](https://pestpolicy.com/bug-bomb-for-spiders/), spider sprays, and vacuuming.
 Cheers!
+
+
+
+
 

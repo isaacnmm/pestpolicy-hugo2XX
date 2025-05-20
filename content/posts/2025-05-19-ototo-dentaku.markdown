@@ -1,13 +1,13 @@
----
+﻿---
+date: '2025-05-19T00:00:00+00:00'
+lastmod: '2025-05-19T00:00:00+03:00'
 author: Isaac
 layout: post
 title: Ototo Dentaku - Make Music from Anything
-$12025-05-19T00:00:00+00:00
 categories:
 - Keyboard
 tags: []
 slug: /ototo-dentaku/
-$12025-05-19T00:00:00+03:00
 ---
 
 The
@@ -50,4 +50,8 @@ Many creators have shared their positive experiences with Ototo. Musicians have 
 The
 [Ototo synthesizer](https://dentakulondon.com/ototo)
 by Dentaku is more than just a gadget; its a gateway to unlimited creativity. Its intuitive design, versatility, and wide range of applications make it an invaluable tool for musicians, educators, and hobbyists alike. Whether youre crafting melodies from plants or exploring experimental soundscapes, Ototo provides the perfect platform for innovation. If youre ready to redefine how you create music, the Ototo synthesizer is the ideal choice.
+
+
+
+
 

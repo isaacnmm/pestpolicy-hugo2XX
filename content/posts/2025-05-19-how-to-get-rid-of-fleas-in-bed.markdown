@@ -1,14 +1,14 @@
----
+﻿---
+date: '2025-05-19T00:00:00+00:00'
+lastmod: '2025-05-19T00:00:00+03:00'
 author: Isaac
 layout: post
 title: How to Get Rid of Fleas in Bed
-$12025-05-19T00:00:00+00:00
 categories:
 - Fleas
 - Guide
 tags: []
 slug: /how-to-get-rid-of-fleas-in-bed/
-$12025-05-19T00:00:00+03:00
 ---
 
 Fun fact: Over 95% of the
@@ -122,4 +122,8 @@ Some of these sprays will kill the flea eggs and the adult fleas on contact. So 
 Fleas are irritating pests and they'll have painful bites plus have different health effects.
 It's common for home homeowners to find fleas on the carpet, their pets (dogs and cats).
 - However, finding fleas on your bed or that of your kids might be surprising (including other living areas) but it still happens.
+
+
+
+
 

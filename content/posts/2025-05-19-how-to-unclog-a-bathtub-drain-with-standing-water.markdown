@@ -1,22 +1,22 @@
----
+ï»¿---
+date: '2025-05-19T00:00:00+00:00'
+lastmod: '2025-05-19T00:00:00+03:00'
 author: Isaac
 layout: post
 title: How to Unclog a Bathtub Drain With Standing Water
-$12025-05-19T00:00:00+00:00
 categories:
 - Drains
 - Guide
 tags: []
 slug: /how-to-unclog-a-bathtub-drain-with-standing-water/
-$12025-05-19T00:00:00+03:00
 ---
 
-Here's how to unclog a bathtub drain with standing water. Lately, Ive been getting many calls from clients who have clogged their bathtubs with excessive hair and soap scum.
+Here's how to unclog a bathtub drain with standing water.Â Lately, Ive been getting many calls from clients who have clogged their bathtubs with excessive hair and soap scum.
 I also recently covered how to
 [unclog a shower drain full of hair](https://pestpolicy.com/how-to-unclog-a-shower-drain-full-of-hair/)
 .
-*The questions definitely come like this: How do I unclog a bathtub drain with standing water? So, let's get started!  *
-*Summary: To clear the bathtub blockage and drain the standing water: use a Wet-Dry Vacuum (with no filter), use a plumbing snake through the overflow cover in the bathtub, plunge the bathtub thoroughly, or finally try one of the best drain cleaners. *
+*The questions definitely come like this: How do I unclog a bathtub drain with standing water? So, let's get started!Â  *
+*Summary: To clear theÂ bathtub blockage and drain the standing water: use aÂ Wet-Dry Vacuum (with no filter), use a plumbing snake through theÂ overflow cover in the bathtub,Â plunge the bathtub thoroughly, or finally try one of theÂ best drain cleaners.Â *
 [amazon bestseller="Best Drain Cleaner" items="2" template="table"]
 ## Unclogging your Bathtub Drain having Standing Water
 The water may back up, leading to pooling, which is definitely not cool. Further, the pooled water could also come with health issues such as bacteria development, odor development, and mosquito breeding.
@@ -29,29 +29,29 @@ may damage the plumbing pipes.
 **Requirements**
 : (1) Several screwdrivers (either the standard or fill-ups) depending on the type of screws on your Bathtub Drain. (2) A Flashlight (3) Wet-Dry Vacuum (ensure to remove its filter). Others include a damp rag, Sponge, bucket, and rubber gloves.
 Put on your rubber gloves to prevent getting infected with germs or bacteria. Ensure you block the bathtub overflow using your hands or some damp rag.
-**Extract all the standing water **
+**Extract all the standing waterÂ **
 So, to start, youll need to extract all the topical or standing water above the
 [drain to have a clean](https://pestpolicy.com/dont-use-vinegar-and-baking-soda-to-clean-clogged-drains/)
 working ground. Now, remove the screws, and this is where you can use the flashlight to see the screws.
 **Extract dislodged material - Apply Downward pressure.**
 Next up, please put on the wet-dry vacuum (after removing its filter) so that you can now extract any hair, soaps, feminine products, and wires stuck in the clogged drain.
 Now point the Vacuum Wand Extension to the clogged drain and press it down to prevent any air from getting in. Continue applying downward pressure on your vac tube, and press it completely before quickly pulling it up to extract that hair and other debris. So, as I noted, the drain stoppages are mainly caused by soap scum and hair.
-**Test bathtub drain if it's working well. **
+**Test bathtub drain if it's working well.Â **
 So, keep the vacuum turned on and completely remove the gunk before testing the Bathtub
 [Drain clearing](https://pestpolicy.com/sink-not-draining-but-pipes-clear/)
 rate. Now, turn on the water to test that all is draining as sometimes youd need to use a roller snake if the drain clog was further down at or beyond the t-trap.
-### Method 2: Snake the bathtub Drain  Plumbing Snake** **
-** **
+### Method 2:Â Snake the bathtub Drain  Plumbing Snake**Â **
+**Â **
 Now we come to the difficult plumbing snake on your bathtub. However, if you find this process too difficult, then you should hire a plumber to bring their professional services to unclog the standing water.
-**Remove overflow cover and snake. **
+**Remove overflow cover and snake.Â **
 Further, remove the overflow cover above the bathtub. Next, feed your plumbing snake through this overflow cover up to the point you experience relatively high push back.
-**Rotate snake anti-clockwise **
+**Rotate snake anti-clockwiseÂ **
 Next up, rotate the snake in an anti-clockwise direction to possibly break down the drain clog. Be keen to feel if the resistance has reduced when you push. If so, now pull the
 [snake out of the drain](https://pestpolicy.com/best-drain-snakes/)
 . Repeat this process until the clog is cleared. Finally, flush the drain using hot water.
-### Method 3: Thoroughly**Plunge the Bathtub **
-Next up is a more physically demanding method that will require you to use a plunge on the bathtub drain. But, youll first require ejecting all the stagnant water on the bathtub. Now, use the screwdriver to eject the screws on the overflow cover thats below your bathtub faucet.
-**Remove the coil and overflow cover. **
+### Method 3: Thoroughly**Plunge the BathtubÂ **
+Next up is a more physically demanding method that will require you to use a plunge on the bathtub drain. But, youll first require ejecting all the stagnant water on the bathtub. Now, use the screwdriver to eject the screws on the overflow coverÂ thats below your bathtub faucet.
+**Remove the coil and overflow cover.Â **
 Check the coil and eject all the foreign material and hair. Next, eject the overflow cover of your bathtub completely cover it using the damp rag. However, make sure that the overflow exit is airtight before starting the plugging process.
 **Plunge the Bathtub**
 Now take your
@@ -62,7 +62,7 @@ The litmus test for success in the plunging process will be when the standing wa
 . Finally, check
 [how drain cleaners work](https://pestpolicy.com/how-drain-cleaners-work/)
 if you'll consider this option.
-## **Dangers of standing water in your bathtub **
+## **Dangers of standing water in your bathtubÂ **
 As outlined in the
 [guide](https://www.plumbingnerds.com/standing-water-dangerous-health/)
 , having standing water in your bathtub is a dangerous affair. Ive listed the various hazards you might be exposing yourself and family to by having the standing water remain in the bathtub.  including breeding of insects and bacteria growth.
@@ -75,4 +75,8 @@ may come drinking or washing in the standing water. This is all fine until such 
 ## Conclusion
 The standing water could be a breeding ground for insects such as dragonflies, mosquitoes, and flies.
 Such insects could carry lead to an invasion for your family with the Zika virus or Malaria. Further, the stagnant water may also breed tapeworms and heart-worms.
+
+
+
+
 

@@ -1,13 +1,13 @@
----
+﻿---
+date: '2025-05-19T00:00:00+00:00'
+lastmod: '2025-05-19T00:00:00+03:00'
 author: Isaac
 layout: post
 title: Can You Paint Fiberglass Without Primer?
-$12025-05-19T00:00:00+00:00
 categories:
 - DIY Paintings
 tags: []
 slug: /can-you-paint-fiberglass-without-primer/
-$12025-05-19T00:00:00+03:00
 ---
 
 When starting on a
@@ -46,4 +46,8 @@ e
 offer the convenience of direct application on well-degreased and sanded fiberglass surfaces without the need for a separate primer.
 However, in situations where the fiberglass displays minor cracks, or irregularities, or has undergone filler application, using a primer is strongly recommended.
 The proper surface preparation, whether for direct application or primer use, is critical to achieving a durable, smooth, and aesthetically pleasing paint finish on fiberglass surfaces.
+
+
+
+
 

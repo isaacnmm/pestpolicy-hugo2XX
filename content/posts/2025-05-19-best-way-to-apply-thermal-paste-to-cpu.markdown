@@ -1,13 +1,13 @@
----
+﻿---
+date: '2025-05-19T00:00:00+00:00'
+lastmod: '2025-05-19T00:00:00+03:00'
 author: Isaac
 layout: post
 title: Best Way to Apply Thermal Paste to CPU?
-$12025-05-19T00:00:00+00:00
 categories:
 - Raspberry Pi 3
 tags: []
 slug: /best-way-to-apply-thermal-paste-to-cpu/
-$12025-05-19T00:00:00+03:00
 ---
 
 The right choice of thermal paste is critical for optimal CPU temperatures.
@@ -23,7 +23,7 @@ Notably, I recently upgraded the
 and thus I expect optimal gaming experience: Wolfenstein II: The New Colossus, Observer, and Call of Duty: WWII.
 
 Before conducting extensive research and test on thermal paste application, maybe like you, I only overhead of Rice, X, Pea, Straight-line application methods. This left me confused with the many opinions out there.
-**In summary:�**
+**In summary: **
 **However, if you need a straight answer: The best method to apply the thermal paste on your gaming CPU is the pea-sized dot' technique. **
 **In this method, you will apply a pea-sized - not too much - amount of the thermal compound in the middle of the CPUs surface and screw back the heat sink on top of it. **
 **Therefore, the thermal paste will spread naturally in a round or oval shape evenly over the CPU cores. Manually spreading would lead to the formation of air bubbles. **
@@ -74,5 +74,9 @@ The rule of thumb is that is less thermal past is always better since too much o
 Now: Check the video
 
 https://www.youtube.com/watch?v=3OO2uJl1JvA
+
+
+
+
 
 

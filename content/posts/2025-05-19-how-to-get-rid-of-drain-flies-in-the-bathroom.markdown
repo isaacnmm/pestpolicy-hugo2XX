@@ -1,14 +1,14 @@
----
+ï»¿---
+date: '2025-05-19T00:00:00+00:00'
+lastmod: '2025-05-19T00:00:00+03:00'
 author: Isaac
 layout: post
 title: How To Get Rid of Drain Flies in Bathroom or Shower
-$12025-05-19T00:00:00+00:00
 categories:
 - Flies
 - Guide
 tags: []
 slug: /how-to-get-rid-of-drain-flies-in-the-bathroom/
-$12025-05-19T00:00:00+03:00
 ---
 
 Hey, little friends! Have you seen tiny insects (measuring 1/8 inch in length) flying around your shower drain or bathroom sink? Well, these could be
@@ -16,10 +16,10 @@ Hey, little friends! Have you seen tiny insects (measuring 1/8 inch in length) f
 or drain flies!
 Drain flies (tiny bugs that have fuzzy wings
 [just like moths](https://pestpolicy.com/how-to-get-rid-of-pantry-moths/)
-) will mainly invade areas that have standing water including the kitchens and bathrooms. In this article, I'll outline all you need to know how to get rid of drain flies in your bathroom.
-**But in summary; here's how to get rid of drain flies; Clean the Bathroom Drains, Pour Boiling Water Down the Drain, using a drain cleaner (such as Bio-Clean or vinegar + baking soda), Use Baking Soda & Vinegar, Address Moisture Issues and Leaks, or using bleach to clean drains. **
+) will mainly invade areas that have standing water including the kitchens and bathrooms.Â In this article, I'll outline all you need to know how to get rid of drain flies in your bathroom.
+**But in summary; here's how to get rid of drain flies; Clean the Bathroom Drains,Â Pour Boiling Water Down the Drain,Â using a drain cleaner (such as Bio-Clean or vinegar + baking soda),Â Use Baking Soda & Vinegar,Â Address Moisture Issues and Leaks, orÂ using bleach to clean drains.Â **
 ## 7 Easy Ways How To Get Rid Of Drain Flies in Bathrooms
-### 1. Clean the Bathroom Drains
+### 1.Â Clean the Bathroom Drains
 To remove the drain flies from the bathroom, begin by cleaning all the spills and the drains. I recommend using a suitable
 [drain cleaner](https://pestpolicy.com/best-drain-cleaner/)
 such as Chemical Drain or Bio-Enzymatic Drain to help destroy the organic matter in your drains.
@@ -36,7 +36,7 @@ The water at high temperatures will kill those fly larvae but it'll also flush o
 - However, be cautious that you must pour the hot water slowly into the drains to avoid splashing it onto your skin or eyes.
 However, this technique of pouring hot water must only be applied to ceramic or metallic drains. This is because the hot water will damage your PVC or plastic pipes.
 - Hot water is an effective technique against drain flies but will also hinder the emergence of other drainage issues - especially blockages and clogs. This is because the water will dissolve the hair, grease, and soap.
-### 3. Use Baking Soda & Vinegar
+### 3.Â Use Baking Soda & Vinegar
 Next, you may use baking soda & vinegar (a combination) to remove drain flies from your bathroom. Baking soda and vinegar will combine to form a chemical compound that'll break down all the organic matter in the drain.
 1. The steps to use these ingredients will require you to combine - a 1/4 cup and 1/2 cup of baking soda & vinegar respectively.
 2. Pour this mixture down the bathroom drains - you'll notice bubbles and fizzling. Cover the drain using a rag or plug - this will help trap the chemical reaction inside the drain.
@@ -60,4 +60,8 @@ Finally, inspect if the shower drains still have drain flies - if these pests ar
 In conclusion, sewer flies, gnats or drain flies can be a nuisance when they attack your kitchens and bathrooms.
 Luckily, you can begin by getting rid of any standing water, unlocking the drains, and using chemicals such as black, drain cleaners, vinegar, and baking soda.
 Cheers!
+
+
+
+
 

@@ -1,14 +1,14 @@
----
+﻿---
+date: '2025-05-19T00:00:00+00:00'
+lastmod: '2025-05-19T00:00:00+03:00'
 author: Isaac
 layout: post
 title: 'Signs of Termites: 9 Early Signs in your Home'
-$12025-05-19T00:00:00+00:00
 categories:
 - Guide
 - Termites
 tags: []
 slug: /signs-of-termites/
-$12025-05-19T00:00:00+03:00
 ---
 
 Below Ive outlined signs of termites - these will become evident with rising atmospheric pressure, wind, light intensity, moisture levels, and temperatures - proper termite identiifcation will help you decide on the
@@ -92,4 +92,8 @@ However, I advise that you get expert
 for your structures and the house for effective control.
 Also, don't forget to undertake regular or annual termite prevention and control on various structures and the yard.
 Cheers!
+
+
+
+
 

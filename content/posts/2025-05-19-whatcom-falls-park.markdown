@@ -1,14 +1,14 @@
----
+﻿---
+date: '2025-05-19T00:00:00+00:00'
+lastmod: '2025-05-19T00:00:00+03:00'
 author: Isaac
 layout: post
 title: Discover Whatcom Falls Park
-$12025-05-19T00:00:00+00:00
 categories:
 - Bellingham
 - Guide
 tags: []
 slug: /whatcom-falls-park/
-$12025-05-19T00:00:00+03:00
 ---
 
 ### Discover Whatcom Falls Park
@@ -35,4 +35,8 @@ Open daily from 6 AM to 10 PM
 Free
 
 Whatcom Falls Park offers an unforgettable experience, blending the tranquility of nature with the joys of outdoor recreation. Come and discover the beauty and serenity of this beloved Bellingham park.
+
+
+
+
 

@@ -1,13 +1,13 @@
----
+﻿---
+date: '2025-05-19T00:00:00+00:00'
+lastmod: '2025-05-19T00:00:00+03:00'
 author: Isaac
 layout: post
 title: 7 Best Soundbars for Under 100 in 2025
-$12025-05-19T00:00:00+00:00
 categories:
 - Soundbars
 tags: []
 slug: /best-soundbars-for-under-100/
-$12025-05-19T00:00:00+03:00
 ---
 
 If you're looking for a
@@ -135,5 +135,9 @@ Cons:
 ## Conclusion
 So, that's it with the best soundbars for under 100 - the sound device has an LED that'll generate different colors and hence makes it easy to operate.
 Also, mounting the soundbar is simple or simply under the TV screen.
+
+
+
+
 
 

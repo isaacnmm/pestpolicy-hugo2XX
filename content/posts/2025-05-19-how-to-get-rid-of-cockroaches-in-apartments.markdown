@@ -1,22 +1,22 @@
----
+ï»¿---
+date: '2025-05-19T00:00:00+00:00'
+lastmod: '2025-05-19T00:00:00+03:00'
 author: Isaac
 layout: post
 title: How to Get Rid of Cockroaches in Apartments
-$12025-05-19T00:00:00+00:00
 categories:
 - Guide
 tags: []
 slug: /how-to-get-rid-of-cockroaches-in-apartments/
-$12025-05-19T00:00:00+03:00
 ---
 
 Roaches are notoriously difficult to get rid of. But don't let them win! In this article, I outline How to Get Rid of Cockroaches in Apartments. If roaches find shelter, food, and water in your apartment, they are staying for as long as they want to!
-**First, notify the property manager about any roach activity on their property so that they can take action against this pest infestation. Next up, try using some baits (roach traps), dusting with silica powder or diatomaceous earth (DE) as well as a boric acid solution for long-term control measures. **
-**You may also want to set some glue traps around your apartment if you're not too keen on using toxic chemicals. Finally, if you want to get the roaches out for good (and your landlord doesn't have any better ideas), hire an exterminator! **
+**First, notify the property manager about any roach activity on their property so that they can take action against this pest infestation. Next up, try using some baits (roach traps), dusting with silica powder or diatomaceous earth (DE) as well as a boric acid solution for long-term control measures.Â **
+**You may also want to set some glue traps around your apartment if you're not too keen on using toxic chemicals. Finally, if you want to get the roaches out for good (and your landlord doesn't have any better ideas), hire an exterminator!Â **
 [amazon bestseller="Best Roach Killers" items="2" template="table"]
 ## Details: How to Get Rid of Cockroaches in Apartments
 ### 1. Notify the property manager or landlord; Know Your Rights
-To control them, first, notify the property manager (or the landlord). The property manager or landlord will handle the roach infestations as outlined by their lease agreement or offer some quick tips on how to deal with these bugs themselves (for example, sealing up cracks around doors).
+To control them, first, notify the property manager (or the landlord).Â The property manager or landlord will handle the roach infestations as outlined by their lease agreement or offer some quick tips on how to deal with these bugs themselves (for example, sealing up cracks around doors).
 It's important to know your rights as a tenant in regards to pest control.
 Some leases may require the landlord or property manager to provide roach extermination services, while others just offer some tips on how you can manage them yourself (or not!). Read your lease agreement carefully!
 For example, if you pay monthly fees to cater to pest control - the property manager may owe you some roach control rounds for that month.
@@ -53,17 +53,17 @@ The process usually starts by placing bait stations such as apple cider vinegar 
 In a few days, they will come back with either poison bait or glue traps for capturing them alive so they may not pose any future problems if released into the wild. This is important because some poisons used in extermination could lead to secondary poisoning among pets who eat poisoned bugs.
 Keep it out of reach of children as, if handled improperly, this could lead to poisoning or even death!
 Sprays and other treatments will also work to kill roaches but are not always as effective. Some effective roach sprays include the Bengal Gold and the Ortho Home defense.
-The insecticide sprays mainly contain Permethrin or pyrethroids (comparable to botanical insecticides - pyrethrins). Sprays will also kill other insects, so be careful with where you are spraying.
+The insecticide sprays mainly contain PermethrinÂ or pyrethroids (comparable to botanicalÂ insecticidesÂ - pyrethrins). Sprays will also kill other insects, so be careful with where you are spraying.
 ### 6. Sprinkle Diatomaceous Earth
 Some people have noticed success by using
 [Diatomaceous Earth (food grade)](https://pestpolicy.com/diatomaceous-earth/)
 sprinkled around their house but this treatment can take months for visible results. This should also only be used when pets are excluded from the spaces.
-Diatomaceous earth powder will create that abrasive effect which will break the roaches' exoskeleton and exoskeleton.
+Diatomaceous earthÂ powder will create that abrasive effect which will break the roaches' exoskeleton and exoskeleton.
 Sprinkle the DE in areas where roaches are present, including all cracks and crevices around cabinets, behind refrigerators (baseboards if possible), along walls underneath appliances, especially under sinks.
 Consider pouring it into any holes or gaps found on your countertops so that they can not crawl back out again. You should also sprinkle some inside of drawers for those places hidden from sight.
 ### 7. Cockroach Traps - Boric acid or Dish soap
 For an extra effect set a trap with either boric acid or dish soap mixed with apple cider vinegar as bait by placing them at strategic points like corners and near drains."
-You can make the DIY roach killer - from boric acid ( Cup) & peanut butter ( Cup).
+You can make the DIY roach killer - from boric acid ( Cup)Â & peanut butter ( Cup).
 [Boric acid powder](https://pestpolicy.com/does-boric-acid-kill-roaches/)
 , if ingested, will exterminate the roaches while the peanut butter acts as an attractant.
 ### 8. Roach Treat the Perimeter Walls and Environment
@@ -77,4 +77,8 @@ They typically spray along baseboards, cracks in corners (especially near doors)
 So, on how to get rid of cockroaches in apartments - If you are a tenant in an apartment, be sure to notify the property manager immediately when roaches are spotted.
 Use baits like boric acid or traps including apple cider vinegar mixed with soap and placed near drains. Also, conduct a thorough cleaning of the apartment.
 Consider using diatomaceous earth as dusting under your appliances and along walls for more protection against them. Finally, if all won't work, hire that roach exterminator.
+
+
+
+
 

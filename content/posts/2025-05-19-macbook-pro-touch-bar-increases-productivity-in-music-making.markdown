@@ -1,17 +1,17 @@
----
+ï»¿---
+date: '2025-05-19T00:00:00+00:00'
+lastmod: '2025-05-19T00:00:00+03:00'
 author: Isaac
 layout: post
 title: Macbook Pro Touch bar - Music Productivity!
-$12025-05-19T00:00:00+00:00
 categories:
 - Laptops
 tags: []
 slug: /macbook-pro-touch-bar-increases-productivity-in-music-making/
-$12025-05-19T00:00:00+03:00
 ---
 
 ****
-Hi Guys. I recently purchased MacBook Pro and I love its Touch bar - located above the keyboard. Also, Apple released an update allowing the use of the touch bar (for some of the
+Hi Guys. I recently purchased MacBook Pro and I love its Touch bar - located above the keyboard. Also,Â Apple released an update allowing the use of the touch bar (for some of the
 [best Mac for music production](https://pestpolicy.com/best-mac-for-music-production/)
 )
 with the Logic Pro X.
@@ -23,7 +23,7 @@ In Logic, this touch bar allows one to edit various parameters in the software. 
 Its usefulness in word processing or video editing is in question  but I believe its highly useful in making music. Read Also:
 [Laptops for FL Studio](https://pestpolicy.com/best-laptops-for-fl-studio/)
 .
-### 1stTab - Track volume level
+### 1stTab -Â Track volume level
 The first table allows you to control the track volume level and the plugins in the signal chain. The great touch will allow you to control third-party plugins such as the
 [wave's C1 Compressor](https://www.waves.com/plugins/c1-compressor)
 , which I am using while writing this post.
@@ -45,4 +45,8 @@ Read Also:
 ## Conclusion
 The feature I love l love most about the touch bar is using it to control volume through the touchscreen fader without connecting any external MIDI controller or iPad. Further, it's more natural and faster compared to clicking using the mouse.
 In addition, controlling plug-in parameters is an amazing experience. But for others such as Charlie Q, it would be great to able to adjust the frequency in the cube as opposed to only the game van.
+
+
+
+
 

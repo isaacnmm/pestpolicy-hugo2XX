@@ -1,13 +1,13 @@
----
+﻿---
+date: '2025-05-19T00:00:00+00:00'
+lastmod: '2025-05-19T00:00:00+03:00'
 author: Isaac
 layout: post
 title: 7 Best PC Games for Couples 2025 Reviewed
-$12025-05-19T00:00:00+00:00
 categories:
 - Controllers
 tags: []
 slug: /best-pc-games-for-couples/
-$12025-05-19T00:00:00+03:00
 ---
 
 Looking for the best pc games for couples? Well, co-op games for couples offer an excellent opportunity to spend time, bond, and celebrate love.
@@ -64,4 +64,8 @@ In this article, we outline the best PC games for couples, with the caveat that 
 Notably, you won't regret engaging your partner in the game as it will give both of you a sense of care and accomplishment as you run through the
 [stages and levels](https://pestpolicy.com/best-motherboard-for-i5-7600k/)
 .
+
+
+
+
 

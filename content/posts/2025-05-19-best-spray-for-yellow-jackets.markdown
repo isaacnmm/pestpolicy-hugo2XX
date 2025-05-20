@@ -1,14 +1,14 @@
----
+﻿---
+date: '2025-05-19T00:00:00+00:00'
+lastmod: '2025-05-19T00:00:00+03:00'
 author: Isaac
 layout: post
 title: 7 Best Spray for Yellow Jackets 2025 Reviewed
-$12025-05-19T00:00:00+00:00
 categories:
 - Product Reviews
 - Wasps
 tags: []
 slug: /best-spray-for-yellow-jackets/
-$12025-05-19T00:00:00+03:00
 ---
 
 [Yellow Jackets (also known as wasps or hornets)](http://entnemdept.ufl.edu/creatures/urban/occas/hornet_yellowjacket.htm)
@@ -149,4 +149,8 @@ The Bad:
 For yellow jackets, consider purchasing from the brands I have reviewed. These are brands that have been tried and tested and have proven to do what they promise.
 - This review has got you covered whether the wasps live in high places of the structures or haven in underground nests.
 Finally, always remember to read and follow the health and safety precautions that come attached to these insecticides.
+
+
+
+
 

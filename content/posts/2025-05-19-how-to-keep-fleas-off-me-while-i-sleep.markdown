@@ -1,14 +1,14 @@
----
+﻿---
+date: '2025-05-19T00:00:00+00:00'
+lastmod: '2025-05-19T00:00:00+03:00'
 author: Isaac
 layout: post
 title: How to Keep Fleas off Me While I Sleep
-$12025-05-19T00:00:00+00:00
 categories:
 - Fleas
 - Guide
 tags: []
 slug: /how-to-keep-fleas-off-me-while-i-sleep/
-$12025-05-19T00:00:00+03:00
 ---
 
 When fleas jump onto your bed they'll make your sleep comfortable and queen inflict flea bites that are painful.
@@ -102,4 +102,8 @@ But the fleas you may find on the bedding and beds maybe there are mainly search
 If you have light-colored sheets on your bed, you may notice some oval-shaped, dark, and tiny spots to significant the presence of fleas in the bed.
 ## Conclusion
 You can keep fleas off your body while you're sleeping by spraying some flea repellent on the skin or clothing and wearing long socks and pants.
+
+
+
+
 

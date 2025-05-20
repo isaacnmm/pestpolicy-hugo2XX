@@ -1,14 +1,14 @@
----
+﻿---
+date: '2025-05-19T00:00:00+00:00'
+lastmod: '2025-05-19T00:00:00+03:00'
 author: Isaac
 layout: post
 title: How Did My Dog Get Fleas?
-$12025-05-19T00:00:00+00:00
 categories:
 - Fleas
 - Guide
 tags: []
 slug: /how-did-my-dog-get-fleas/
-$12025-05-19T00:00:00+03:00
 ---
 
 Recently, I noticed my neighbor's dog scratching and upon further inspection, I have served simply that on them.
@@ -129,4 +129,8 @@ So in summary please can jump onto your dog through various ways including comin
 In addition, you can use free shampoos to bathe your dogs.
 - You can still bathe the dogs with castile soap (unscented) but you should add some essential oils (just a few drops) such as citronella, tea tree, lavender, or eucalyptus
 Cheers!
+
+
+
+
 

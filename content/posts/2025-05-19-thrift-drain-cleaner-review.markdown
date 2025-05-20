@@ -1,14 +1,14 @@
----
+﻿---
+date: '2025-05-19T00:00:00+00:00'
+lastmod: '2025-05-19T00:00:00+03:00'
 author: Isaac
 layout: post
 title: Thrift Drain Cleaner Review - For Sinks & Toilets
-$12025-05-19T00:00:00+00:00
 categories:
 - Drains
 - Product Reviews
 tags: []
 slug: /thrift-drain-cleaner-review/
-$12025-05-19T00:00:00+03:00
 ---
 
 Finding a decent
@@ -55,5 +55,9 @@ That being said, if you have the plumbing experience and can afford to pull the 
 ## +Verdict
 Drain Cleaners might be a dime a dozen today, but it is easy to see why this one draws so much attention.
 You wont find that many drain cleaners on the market that come in crystal format, only require hot water to activate, and can liquefy hair and grease in 60 seconds without ruining your polished brass, porcelain, and chrome trim, plastic, or even the metal pipes.
+
+
+
+
 
 

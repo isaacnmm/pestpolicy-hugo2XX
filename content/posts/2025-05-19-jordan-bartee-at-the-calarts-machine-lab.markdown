@@ -1,13 +1,13 @@
----
+﻿---
+date: '2025-05-19T00:00:00+00:00'
+lastmod: '2025-05-19T00:00:00+03:00'
 author: Isaac
 layout: post
 title: Jordan Bartee at the CalArts Machine Lab
-$12025-05-19T00:00:00+00:00
 categories:
 - Recording
 tags: []
 slug: /jordan-bartee-at-the-calarts-machine-lab/
-$12025-05-19T00:00:00+03:00
 ---
 
 Jordan Bartee is a renowned innovator and creative force in the field of digital arts and design. His work at the CalArts Machine Lab highlights his dedication to merging technology with artistic expression, creating groundbreaking projects that challenge conventional boundaries.
@@ -34,4 +34,8 @@ Bartee's contributions to the digital arts are significant because they:
 - Push the boundaries of traditional art forms, introducing new ways to engage audiences.
 ## Conclusion
 Jordan Bartee's work at the CalArts Machine Lab exemplifies the transformative power of blending art and technology. By fostering innovation and creativity, he continues to inspire both artists and technologists to explore new possibilities in their fields.
+
+
+
+
 

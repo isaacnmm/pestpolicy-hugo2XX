@@ -1,14 +1,14 @@
----
+﻿---
+date: '2025-05-19T00:00:00+00:00'
+lastmod: '2025-05-19T00:00:00+03:00'
 author: Isaac
 layout: post
 title: 'Dust Mites & Allergies: How to Get rid of Them'
-$12025-05-19T00:00:00+00:00
 categories:
 - Guide
 - Mites
 tags: []
 slug: /dust-mites/
-$12025-05-19T00:00:00+03:00
 ---
 
 If your home has dust (which is practically in every home) there will be dust mites. These pests will eat dead skin flakes that have been shared by pets and humans.
@@ -109,4 +109,8 @@ Regular and effective cleaning of the filters will reduce the dust mites in the 
 ## Conclusion
 Dust mites are closely related to spiders and ticks but they are microscopic in size.
 On diet, as noted earlier, dust mites will eat the skin cells that are shed by humans and pets.
+
+
+
+
 

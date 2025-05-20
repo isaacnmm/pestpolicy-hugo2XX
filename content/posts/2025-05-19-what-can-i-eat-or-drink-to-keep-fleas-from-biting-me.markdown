@@ -1,14 +1,14 @@
----
+﻿---
+date: '2025-05-19T00:00:00+00:00'
+lastmod: '2025-05-19T00:00:00+03:00'
 author: Isaac
 layout: post
 title: What Can I Eat or Drink to Keep Fleas from Biting Me?
-$12025-05-19T00:00:00+00:00
 categories:
 - Fleas
 - Guide
 tags: []
 slug: /what-can-i-eat-or-drink-to-keep-fleas-from-biting-me/
-$12025-05-19T00:00:00+03:00
 ---
 
 Fleas can be an irritating problem, especially if youve got pets or spend time outdoors. While there are plenty of
@@ -43,4 +43,8 @@ While no method is foolproof, incorporating these natural remedies into your dai
 By tweaking your diet with Vitamin B1-rich foods, using natural repellents like lemon juice and essential oils, and keeping your environment clean, youll be better equipped to
 [keep those irritating fleas away](https://pestpolicy.com/how-do-i-keep-fleas-from-biting-me/)
 from you and your home.
+
+
+
+
 

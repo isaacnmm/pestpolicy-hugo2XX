@@ -1,13 +1,13 @@
----
+﻿---
+date: '2025-05-19T00:00:00+00:00'
+lastmod: '2025-05-19T00:00:00+03:00'
 author: Isaac
 layout: post
 title: What Grit Sandpaper for Primer before Paint?
-$12025-05-19T00:00:00+00:00
 categories:
 - DIY Paintings
 tags: []
 slug: /what-grit-sandpaper-for-primer-before-paint/
-$12025-05-19T00:00:00+03:00
 ---
 
 Surfaces such as rust metal require coarse grip sandpaper (
@@ -30,7 +30,7 @@ However, materials such as rust metal surfaces can be sanded initially by using 
 [Concrete Rust Remover](https://pestpolicy.com/best-concrete-rust-remover/)
 ) without any challenge.
 Indeed, the rust thickness (if less than 0.5mm) can easily be polished by using coarse grit sandpaper without blocking grit spacing.
-Rapid debris removal can also be attained by using coarse grit sandpaper, while the varnish layer is nicely cleaned by this grit size.�Coarse grit sandpaper size range from 40 to 60.
+Rapid debris removal can also be attained by using coarse grit sandpaper, while the varnish layer is nicely cleaned by this grit size. Coarse grit sandpaper size range from 40 to 60.
 ### 3. Medium
 Medium grit sandpaper is meant for pre-sanded surfaces such as sawed wood, rust-free metal surface, medium roughness composite material, and pre-cleaned hardwood.
 The medium grit sandpaper grips on to small surface protrusion and cuts sharp edges to attain a soft chamfer.
@@ -158,5 +158,9 @@ In conclusion, on, what grit sandpaper for primer before painting, the answer to
 For instance, when sanding hardwood material, you will need to begin with extra coarse grit sandpaper (to remove large debris), followed by coarse grit sandpaper (to remove stock material), and pass with medium-grit sandpaper to clean any unfinished wood from the surface.
 Further, you may be required to eliminate surface scratches with fine-grit sandpaper or pass ultra-fine grit sandpaper to achieve an excellent surface finish.
 In this regard, when selecting grit sandpaper for your polishing purposes, you need to understand the extent to which the finish quality should be attained.
+
+
+
+
 
 

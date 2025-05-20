@@ -1,14 +1,14 @@
----
+﻿---
+date: '2025-05-19T00:00:00+00:00'
+lastmod: '2025-05-19T00:00:00+03:00'
 author: Isaac
 layout: post
 title: How to Get Rid of Fleas on Humans
-$12025-05-19T00:00:00+00:00
 categories:
 - Fleas
 - Guide
 tags: []
 slug: /how-to-get-rid-of-fleas-on-humans/
-$12025-05-19T00:00:00+03:00
 ---
 
 Fleas are common pests with hairy pets like cats and dogs but they can also attack humans. There are over 2000 species and some species also attack humans. This guide on how to get rid of fleas on humans has all you need to know.
@@ -35,7 +35,7 @@ This works well in killing fleas in your beards and hair. Unfortunately, there i
 is also a product that you can use to eliminate fleas.
 After applying it to your hair give it about 10 minutes before you can wash it off and have a fleas free hair. It is gentle on your hair but tough on the fleas.
 **c. A mixture of baking soda, salt, and water **
-This is a good alternative if you dont have the fleas shampoo or the dish soap.�When using this method, you mix baking soda with salt and water and apply it to your hair for about 10 minutes.
+This is a good alternative if you dont have the fleas shampoo or the dish soap. When using this method, you mix baking soda with salt and water and apply it to your hair for about 10 minutes.
 - Though it has a low effective rate, it is more of a homemade solution and will help eliminate the fleas.
 - When you are done applying shampoo and dish soap, comb your hair to remove the dead fleas from your head.
 If you had used the baking soda mixture, properly wash your head before you can comb the hair to remove the dead fleas.
@@ -76,4 +76,8 @@ If you are washing your hair to rid of the fleas, you may need to repeatedly do 
 There are many ways on how to get rid of fleas in humans. Pets are the main source of pets and cannot be ignored when you are dealing with fleas.
 - They like to hide under the clothes, on the hair, among other areas in your house which must also be dealt with for successful elimination.
 Vacuum cleaning, using fleas repellents are among the effective methods to use when eliminating fleas and keeping them away from humans. Most importantly keep a clean environment for a fleas-free home.
+
+
+
+
 

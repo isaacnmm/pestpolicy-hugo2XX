@@ -1,14 +1,14 @@
----
+﻿---
+date: '2025-05-19T00:00:00+00:00'
+lastmod: '2025-05-19T00:00:00+03:00'
 author: Isaac
 layout: post
 title: What Are Small Brown Insects In My Kitchen?
-$12025-05-19T00:00:00+00:00
 categories:
 - Guide
 - Moths
 tags: []
 slug: /what-are-small-brown-insects-in-my-kitchen/
-$12025-05-19T00:00:00+03:00
 ---
 
 What are
@@ -77,4 +77,8 @@ can be controlled by using acaricides in farms but this cannot be applied in our
 What are small insects in my kitchen? The highest probability is that you are having pantry bugs in your kitchen.
 - These insects could be beetles, weevils, and silverfish among other bugs that have the same resemblance. A closer look at them and from some description given can tell what they really are.
 If indeed these are pantry bugs, you can employ the appropriate control measures given or even others that are favourable to you.
+
+
+
+
 

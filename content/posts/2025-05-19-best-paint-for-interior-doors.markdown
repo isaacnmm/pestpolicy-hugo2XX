@@ -1,13 +1,13 @@
----
+﻿---
+date: '2025-05-19T00:00:00+00:00'
+lastmod: '2025-05-19T00:00:00+03:00'
 author: Isaac
 layout: post
 title: 7 Best Paint for Interior Doors in 2025
-$12025-05-19T00:00:00+00:00
 categories:
 - Paint
 tags: []
 slug: /best-paint-for-interior-doors/
-$12025-05-19T00:00:00+03:00
 ---
 
 The interior of your house can be a high traffic zone, especially if you have more occupants who must move from one room to another.
@@ -165,5 +165,9 @@ Cons:
 > [Primer for Rusted Metal](https://pestpolicy.com/best-primer-for-rusted-metal/)
 ## Conclusion
 This is a non-exhaustive list of the Best Paint for Interior Doors. Keep reading my next blog posts to get more updates on this list.
+
+
+
+
 
 

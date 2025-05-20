@@ -1,14 +1,14 @@
----
+ï»¿---
+date: '2025-05-19T00:00:00+00:00'
+lastmod: '2025-05-19T00:00:00+03:00'
 author: Isaac
 layout: post
 title: 'How to Use Tea Tree Oil for Bed Bugs: Does it Work?'
-$12025-05-19T00:00:00+00:00
 categories:
 - Bed Bugs
 - Guide
 tags: []
 slug: /tea-tree-oil-for-bed-bugs/
-$12025-05-19T00:00:00+03:00
 ---
 
 Tea tree oil for bed bugs - finding an exterminator is expensive, and even when you find one, they use toxic chemicals.
@@ -42,11 +42,11 @@ in an area that is not easily noticeable. You will test the oil on it and see ho
 - Place one or two drops of the oil in your inner forearm. This is the ideal area for patch testing since the skin is highly sensitive and cannot be noticed easily. Also, you will not run out of the oil unknowingly.
 - For the test, you can use any dilution ratio. Try to use somewhere between 1-50%. Anything more than that might be too much, and your skin might not handle it; hence, you will obviously get an allergic reaction.
 - Place a bandage on the area on which you placed the few drops of diluted tea tree oil.
-- Let it dry. If you start to feel irritation around the area, remove the bandage immediately, and[wash thoroughly with water and soap](https://pestpolicy.com/best-car-wash-soap/).
+- Let it dry.Â If you start to feel irritation around the area, remove the bandage immediately, and[wash thoroughly with water and soap](https://pestpolicy.com/best-car-wash-soap/).
 However, if you dont feel any irritation within the first 24-48 hours, you are not allergic to the oil. Note that while you might be allergic to the oil, you might still be sensitive to a high concentration of the same.
 After running the patch test successfully, you can go ahead and
 [use the oil to kill bed bugs](https://pestpolicy.com/do-ants-kill-bed-bugs/)
-. If you learn that you are allergic to the oil, you can ask someone to do the work for you.
+.Â If you learn that you are allergic to the oil, you can ask someone to do the work for you.
 However, if there is no one to help, make sure that you cover your body well, leaving no skin exposed to the tea tree oil during the application.
 Related:
 [Does Diatomaceous Earth Kill Bed Bugs?](https://pestpolicy.com/does-diatomaceous-earth-kill-bed-bugs/)
@@ -91,4 +91,8 @@ Moreover, you should avoid getting in contact with the oil since it could irrita
 ## Sources:
 1. [Efficacy of an Essential Oil-Based Pesticide for Controlling Bed Bugs](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4592615/)
 2. [How to Get Rid of Bed Bugs Naturally -WikiHow](https://www.wikihow.com/Get-Rid-of-Bed-Bugs-Naturally)
+
+
+
+
 
