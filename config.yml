@@ -87,7 +87,7 @@ menu:
     - identifier: "contact" # A unique identifier for this menu item
       name: "Contact"      # The text displayed in the menu
       url: "/contact/"     # The URL of your contact page
-      weight: 40           # Adjust weight to control order (higher weight = further right)
+      weight: 50           # Adjust weight to control order (higher weight = further right)
 
 # --- Optional Advanced Config Sections (commented) ---
 
