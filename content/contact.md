@@ -9,7 +9,7 @@ outputs:
 
 ## Get in Touch
 
-Have questions, feedback, or just want to say hello? Use the form below to send us a message!
+We'd love to hear from you! Please use the form below to send us your questions, feedback, or email subscription requests.
 
 <form name="contact" method="POST" data-netlify="true" netlify-honeypot="bot-field">
     <input type="hidden" name="form-name" value="contact" />
@@ -28,5 +28,15 @@ Have questions, feedback, or just want to say hello? Use the form below to send 
         <button type="submit">Send Message</button>
     </p>
 </form>
+
+---
+
+## Other Ways to Connect
+
+If you prefer, you can also reach us directly:
+
+* **Email:** <a href="mailto:isaacnmm@gmail.com">isaacnmm@gmail.com</a>
+* **Phone:** +1 912-54-7642
+* **Address:** Federal Way
 
 ---
