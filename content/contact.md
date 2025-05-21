@@ -29,7 +29,6 @@ We'd love to hear from you! Please use the form below to send us your questions,
     </p>
 </form>
 
----
 
 ## Other Ways to Connect
 
@@ -38,5 +37,3 @@ If you prefer, you can also reach us directly:
 * **Email:** <a href="mailto:isaacnmm@gmail.com">isaacnmm@gmail.com</a>
 * **Phone:** +1 912-54-7642
 * **Address:** Federal Way
-
----
