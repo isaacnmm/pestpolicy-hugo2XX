@@ -50,11 +50,13 @@
     line-height: 1.4;
     margin-top: 1.2em;
     margin-bottom: 0.5em;
+    color: red; /* <-- Added: Change text color to Red */
 }
 
 @media (max-width: 768px) {
     .post-content h3 {
         font-size: 1.2em; /* Reduced for mobile H3s */
+        color: red; /* <-- Added: Change text color to Red for mobile too */
     }
 }
 
