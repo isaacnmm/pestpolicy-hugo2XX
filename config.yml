@@ -47,8 +47,6 @@ params:
   ShowReadingTime: true
   ShowPostNavLinks: true
   ShowRssButtonLeafBundle: false
-  ShowToc: true
-  TocSide: right
 
   # Profile Mode (optional homepage style)
   # profileMode:
