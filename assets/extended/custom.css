@@ -11,7 +11,7 @@
 /* Further reduce H1 font size specifically for smaller screens (mobile) */
 @media (max-width: 768px) { /* This breakpoint is common for mobile devices */
     .post-title { /* Target the class directly */
-        font-size: 1.5em !important; /* Force this font size on mobile */
+        font-size: 1em !important; /* Force this font size on mobile */
         line-height: 1 !important;
     }
 }
