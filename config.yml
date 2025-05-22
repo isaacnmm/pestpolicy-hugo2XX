@@ -75,7 +75,7 @@ params:
 
 # --- Site Menu Configuration ---
 
-menu:
+#menu:
   main:
     - identifier: "articles"
       name: "Blog"
