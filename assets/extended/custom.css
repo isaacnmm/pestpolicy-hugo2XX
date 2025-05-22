@@ -3,8 +3,8 @@
 /* Target the main H1 title on single post pages */
 .post-header .post-title, /* PaperModX uses .post-title inside .post-header for the main H1 */
 article.post-single h1 { /* Fallback/additional selector for single post H1s */
-    font-size: 2.2em; /* Adjust this value to make it smaller for desktop */
-    line-height: 1.2; /* Adjust line height for better spacing if needed */
+    font-size: 1.5em; /* Adjust this value to make it smaller for desktop */
+    line-height: 1; /* Adjust line height for better spacing if needed */
     margin-top: 0.5em; /* You might want to adjust top margin too */
     margin-bottom: 0.5em; /* Adjust bottom margin */
 }
@@ -13,8 +13,8 @@ article.post-single h1 { /* Fallback/additional selector for single post H1s */
 @media (max-width: 768px) { /* This breakpoint is common for mobile devices */
     .post-header .post-title,
     article.post-single h1 {
-        font-size: 1.8em; /* Adjust this value to make it smaller on mobile */
-        line-height: 1.3;
+        font-size: 1.5em; /* Adjust this value to make it smaller on mobile */
+        line-height: 1;
     }
 }
 
