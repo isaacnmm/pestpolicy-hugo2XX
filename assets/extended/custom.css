@@ -20,11 +20,11 @@ article.post-single h1 { /* Fallback/additional selector for single post H1s */
 
 /* If there are H1s *within* the article content itself, you can also target them */
 .post-content h1 {
-    font-size: 2em; /* Smaller H1s within the article body */
+    font-size: 1.3em; /* Smaller H1s within the article body */
     line-height: 1.2;
 }
 @media (max-width: 768px) {
     .post-content h1 {
-        font-size: 1.6em; /* Even smaller H1s within the article body on mobile */
+        font-size: 1.3em; /* Even smaller H1s within the article body on mobile */
     }
 }
