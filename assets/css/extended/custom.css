@@ -50,13 +50,40 @@
     line-height: 1.4;
     margin-top: 1.2em;
     margin-bottom: 0.5em;
-    color: red; /* <-- Added: Change text color to Red */
+    color: red; /* Apply red to the h3 itself */
 }
+
+/* Ensure links inside H3 are also red */
+.post-content h3 a {
+    color: red; /* <-- Added: Makes links inside H3 red */
+}
+
+/* You might also want to set hover/active states for these red links */
+.post-content h3 a:hover {
+    color: darkred; /* Example: Darker red on hover */
+    text-decoration: underline; /* Example: Add underline on hover */
+}
+
+/* And for visited links if you want them red too */
+.post-content h3 a:visited {
+    color: red; /* Example: Keep visited links red */
+}
+
 
 @media (max-width: 768px) {
     .post-content h3 {
         font-size: 1.2em; /* Reduced for mobile H3s */
-        color: red; /* <-- Added: Change text color to Red for mobile too */
+        color: red; /* Apply red to the h3 itself for mobile */
+    }
+    .post-content h3 a {
+        color: red; /* <-- Added: Makes links inside H3 red for mobile */
+    }
+    .post-content h3 a:hover {
+        color: darkred;
+        text-decoration: underline;
+    }
+    .post-content h3 a:visited {
+        color: red;
     }
 }
 
