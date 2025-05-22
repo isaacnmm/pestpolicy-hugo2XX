@@ -1,30 +1,29 @@
 /* Custom CSS in assets/css/extended/custom.css */
 
 /* Target the main H1 title on single post pages */
-.post-header .post-title, /* PaperModX uses .post-title inside .post-header for the main H1 */
-article.post-single h1 { /* Fallback/additional selector for single post H1s */
-    font-size: 1.5em; /* Adjust this value to make it smaller for desktop */
-    line-height: 1; /* Adjust line height for better spacing if needed */
-    margin-top: 0.5em; /* You might want to adjust top margin too */
-    margin-bottom: 0.5em; /* Adjust bottom margin */
+.post-title { /* Target the class directly */
+    font-size: 1.5em !important; /* Force this font size */
+    line-height: 1 !important; /* Force this line height */
+    margin-top: 0.5em !important;
+    margin-bottom: 0.5em !important;
 }
 
 /* Further reduce H1 font size specifically for smaller screens (mobile) */
 @media (max-width: 768px) { /* This breakpoint is common for mobile devices */
-    .post-header .post-title,
-    article.post-single h1 {
-        font-size: 1.5em; /* Adjust this value to make it smaller on mobile */
-        line-height: 1;
+    .post-title { /* Target the class directly */
+        font-size: 1.5em !important; /* Force this font size on mobile */
+        line-height: 1 !important;
     }
 }
 
 /* If there are H1s *within* the article content itself, you can also target them */
+/* Keep these as they were, without !important for now, unless you confirm they also aren't working */
 .post-content h1 {
-    font-size: 1.3em; /* Smaller H1s within the article body */
+    font-size: 2em; /* Smaller H1s within the article body */
     line-height: 1.2;
 }
 @media (max-width: 768px) {
     .post-content h1 {
-        font-size: 1.3em; /* Even smaller H1s within the article body on mobile */
+        font-size: 1.6em; /* Even smaller H1s within the article body on mobile */
     }
 }
