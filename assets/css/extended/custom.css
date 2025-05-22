@@ -1,0 +1,29 @@
+/* Custom CSS in assets/css/extended/custom.css */
+
+/* Target the main H1 title on single post pages */
+.post-title { /* Target the class directly */
+    font-size: 1.0em !important; /* Force this font size */
+    line-height: 1 !important; /* Force this line height */
+    margin-top: 0.5em !important;
+    margin-bottom: 0.5em !important;
+}
+
+/* Further reduce H1 font size specifically for smaller screens (mobile) */
+@media (max-width: 768px) { /* This breakpoint is common for mobile devices */
+    .post-title { /* Target the class directly */
+        font-size: 1em !important; /* Force this font size on mobile */
+        line-height: 1 !important;
+    }
+}
+
+/* If there are H1s *within* the article content itself, you can also target them */
+/* Keep these as they were, without !important for now, unless you confirm they also aren't working */
+.post-content h1 {
+    font-size: 2em; /* Smaller H1s within the article body */
+    line-height: 1.2;
+}
+@media (max-width: 768px) {
+    .post-content h1 {
+        font-size: 1.6em; /* Even smaller H1s within the article body on mobile */
+    }
+}
