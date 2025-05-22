@@ -101,6 +101,12 @@ menu:
 #   tag: "tags"
 #   series: "series"
 
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
 # markup:
 #   tableOfContents:
 #     startLevel: 2
