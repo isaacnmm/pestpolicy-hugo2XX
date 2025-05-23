@@ -2,7 +2,7 @@
 
 /* --- Main Article Title (H1 - .post-title) --- */
 .post-title {
-    font-size: 1.7em !important; /* Larger for desktop main title */
+    font-size: 1.5em !important; /* Larger for desktop main title */
     line-height: 1.1 !important;
     margin-top: 0.5em !important;
     margin-bottom: 0.8em !important;
@@ -10,14 +10,14 @@
 
 @media (max-width: 768px) {
     .post-title {
-        font-size: 1.8em !important; /* Reduced for mobile main title */
+        font-size: 1.5em !important; /* Reduced for mobile main title */
         line-height: 1.2 !important;
     }
 }
 
 /* --- H1s within Article Content (if used) --- */
 .post-content h1 {
-    font-size: 1.7em; /* Slightly smaller than main title on desktop */
+    font-size: 1.5em; /* Slightly smaller than main title on desktop */
     line-height: 1.2;
     margin-top: 1.5em;
     margin-bottom: 0.7em;
@@ -25,7 +25,7 @@
 
 @media (max-width: 768px) {
     .post-content h1 {
-        font-size: 1.6em; /* Reduced for mobile content H1s */
+        font-size: 1.5em; /* Reduced for mobile content H1s */
         line-height: 1.3;
     }
 }
