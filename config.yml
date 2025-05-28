@@ -6,6 +6,9 @@ languageCode: 'en-us'         # Your language code
 title: 'Home Improvement'         # Your website's title
 theme: "PaperModX"             # Make sure this is "PaperModX"
 
+# Enable generation of robots.txt for search engine instructions
+enableRobotsTXT: true
+
 permalinks:
   posts: "/:slug/"             # Permalink structure for your articles
 
@@ -32,8 +35,14 @@ params:
   description: "Pest solutions, Sprayers and Paint. Visit the [Product Reviews](/categories/product-reviews/) or check out the [DIY Guides](/categories/guide/)."
   keywords:
     - pest control
+    - pest solutions
     - spray painting
-    - walking and running shoes
+    - paint
+    - running shoes
+    - walking shoes
+    - home improvement
+    - DIY guides
+    - product reviews
 
   author: "Isaac"
 
