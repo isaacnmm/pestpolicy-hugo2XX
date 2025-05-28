@@ -48,8 +48,6 @@ params:
   ShowPostNavLinks: true
   ShowRssButtonLeafBundle: false 
   InstantClick: true # Speeds up page navigation (PapermodX specific) 
-  ScrollToTop: true
-  ShowBreadCrumbs: true
   ShowToc: true # Global toggle for Table of Contents
   TocSide: "right" # "left" or "right" for floating ToC
 
