@@ -53,7 +53,7 @@ params:
 
   # Feature toggles
   ShowShareButtons: true
-  #ShowReadingTime: true
+  ShowReadingTime: true
   ShowPostNavLinks: true
   ShowRssButtonLeafBundle: false 
   InstantClick: true # Speeds up page navigation (PapermodX specific) 
