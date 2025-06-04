@@ -9,16 +9,25 @@ theme: "PaperModX"             # Make sure this is "PaperModX"
 # Enable generation of robots.txt for search engine instructions
 enableRobotsTXT: true
 
+# Enable sitemap generation - CRITICAL for indexing!
+enableGitInfo: true # Helps with lastmod for sitemap
+buildFuture: true # Ensure future-dated content is built (useful for scheduling)
+
 permalinks:
   posts: "/:slug/"             # Permalink structure for your articles
 
 # --- Homepage Info / Banner Configuration (theme-specific) ---
 
 homeInfoParams:
-  Title: "Welcome to Pest Policy"
-  Content: Your guide to achieving Great Homes - including pest-free, well-painted and also talking about running or walking shoes. 
-    # You can add more markdown content here for your banner.
-    # - For example: Learn more about [Sleep Hygiene](/sleep-hygiene/) or [Bedroom Environment](/bedroom-environment/).
+  Title: "Welcome to Pest Policy: Your Home Improvement Hub" # Stronger call to action/value proposition
+  Content: | # Use multiline string for richer content with Markdown
+    Tackle pests, perfect your paint, and find the best running and walking shoes for a **truly great home** experience. Dive into our expert **DIY guides**, insightful **product reviews**, and proven **pest control solutions**.
+    
+    Ready to transform your living space?
+    
+    - Discover [Pest Control Strategies](/categories/pest-control-strategies/)
+    - Explore [Paint & Sprayer Reviews](/categories/paint-and-sprayers/)
+    - Find Your Perfect [Running & Walking Shoes](/categories/running-walking-shoes/)
 
   # Example buttons (uncomment and edit if needed)
   # buttons:
@@ -32,17 +41,29 @@ params:
   env: "production" # Keep as "production" for live site builds
 
   # Site Metadata for SEO
-  description: "Pest solutions, Sprayers and Paint. Visit the [Product Reviews](/categories/product-reviews/) or check out the [DIY Guides](/categories/guide/)."
+  description: "Pest Policy offers comprehensive DIY guides, expert product reviews, and actionable solutions for pest control, home painting, and choosing the best running & walking shoes. Achieve a beautiful, healthy, and comfortable home environment."
   keywords:
     - pest control
     - pest solutions
-    - spray painting
-    - paint
-    - running shoes
-    - walking shoes
-    - home improvement
+    - home pest removal
+    - DIY pest control
+    - organic pest control
+    - pest prevention tips
+    - residential pest management
+    - spray painting techniques
+    - interior paint
+    - exterior paint
+    - paint sprayers reviews
+    - best running shoes
+    - best walking shoes
+    - athletic footwear reviews
+    - home improvement projects
+    - home renovation tips
     - DIY guides
     - product reviews
+    - home maintenance
+    - healthy home living
+    - comfortable living
 
   author: "Isaac"
 
@@ -76,20 +97,20 @@ params:
   #     - name: "About"
   #       url: "/about/"
 
-  # Social Icons (optional)
-  # socialIcons:
-  #   - name: "linkedin"
-  #     url: "your-linkedin-profile-url"
-  #   - name: "github"
-  #     url: "your-github-profile-url"
-  #   - name: "twitter"
-  #     url: "your-twitter-profile-url"
+# --- Social Icons (optional) ---
+socialIcons:
+  - name: "facebook"
+    url: "https://web.facebook.com/profile.php?id=100067009801389"
+  - name: "twitter" # Renamed from "github" and URL updated for X (formerly Twitter)
+    url: "https://x.com/pestpolicy" 
+  - name: "youtube" # Renamed from "github" and URL updated for X (formerly Twitter)
+    url: "https://www.youtube.com/@pestpolicy4519" 
 
 # --- Site Menu Configuration ---
 
 menu:
   main:
-    - identifier: "articles"
+    - identifier: "blog"
       name: "Blog"
       url: "/posts/"
       weight: 20
@@ -101,23 +122,23 @@ menu:
 
 # --- Optional Advanced Config Sections (commented) ---
 
-# outputs:
-#   home: ["HTML", "RSS", "JSON"]
-#   page: ["HTML", "AMP"]
-#   section: ["HTML", "RSS"]
-#   taxonomy: ["HTML", "RSS"]
-#   term: ["HTML", "RSS"]
+outputs:
+  home: ["HTML", "RSS", "JSON"] # JSON for potential search/structured data
+  page: ["HTML", "AMP"] # AMP (Accelerated Mobile Pages) can improve mobile speed and visibility
+  section: ["HTML", "RSS"]
+  taxonomy: ["HTML", "RSS"]
+  term: ["HTML", "RSS"]
 
-# taxonomies:
-#   category: "categories"
-#   tag: "tags"
-#   series: "series"
+taxonomies:
+  category: "categories"
+  tag: "tags"
+  series: "series" # Useful for grouping related content, e.g., "Pest Control 101 Series"
 
 
 markup:
   goldmark:
     renderer:
-      unsafe: true
+      unsafe: true # Allows raw HTML in markdown, use with caution
 
 # markup:
 #   tableOfContents:
@@ -125,10 +146,10 @@ markup:
 #     endLevel: 3
 #     ordered: true
 
-# sitemap:
-#   changefreq: "weekly"
-#   priority: 0.5
-#   filename: "sitemap.xml"
+sitemap:
+  changefreq: "weekly" # How often your content is typically updated (adjust as needed)
+  priority: 0.7 # Higher priority for frequently updated/important content (homepage, new posts)
+  filename: "sitemap.xml" # Standard sitemap name
 
 # privacy:
 #   # Customize privacy settings here
