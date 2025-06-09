@@ -9,7 +9,7 @@ categories:
 - Lawn
 - Plant Care
 - Home Improvement
-tags: ["monkey grass", "trimming", "border plants", "lawn care", "liriope", "mondo grass", "gardening tips", "plant maintenance"]
+tags: ["lawn care", "plant maintenance"]
 slug: /how-and-when-to-trim-monkey-grass-border/
 ---
 
