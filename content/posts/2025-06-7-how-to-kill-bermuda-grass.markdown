@@ -42,8 +42,10 @@ This is often the most effective method for complete removal of Bermuda grass, e
 * **Product Type:** Use a non-selective herbicide containing **glyphosate** as the active ingredient. Glyphosate works by being absorbed through the plant's foliage and translocated throughout the plant, including its root system (rhizomes and stolons), killing it from the inside out.
 * **Application Steps:**
     1.  **Mow Low:** Mow the Bermuda grass as short as possible a few days before application.
-    2.  **Wait:** Allow 7-14 days for the herbicide to take full effect and the grass to yellow and die completely.
-    3.  **Repeat:** Bermuda grass is very tough. Expect to make **2-3 applications**, waiting 2-3 weeks between each, to ensure all rhizomes and stolons are dead. New growth indicates another application is needed.
+    2.  **Water:** Lightly water the area 24 hours before application. This encourages active growth, making the plant more receptive to the herbicide.
+    3.  **Apply:** Spray the herbicide evenly over the entire Bermuda grass area. Read and follow product instructions carefully regarding dilution rates, application methods, and safety.
+    4.  **Wait:** Allow 7-14 days for the herbicide to take full effect and the grass to yellow and die completely.
+    5.  **Repeat:** Bermuda grass is very tough. Expect to make **2-3 applications**, waiting 2-3 weeks between each, to ensure all rhizomes and stolons are dead. New growth indicates another application is needed.
 * **Safety Precautions:** Always wear appropriate [Personal Protective Equipment (PPE)](https://www.epa.gov/pesticide-worker-safety/personal-protective-equipment-ppe-pesticide-handlers), including gloves, long sleeves, long pants, and eye protection. Avoid spraying on windy days to prevent drift onto desirable plants. Check the forecast for rain, as rain can wash away the product before it's absorbed.
 * **Considerations:** Non-selective herbicides kill *all* vegetation they contact, so use with extreme caution near desired plants, trees, or shrubs.
 
