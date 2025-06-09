@@ -1,6 +1,6 @@
 ﻿---
-date: '2025-06-7T00:00:00+00:00'
-lastmod: '2025-06-7T00:00:00+03:00'
+date: '2025-06-7'
+lastmod: '2025-06-7'
 author: Isaac
 layout: post
 title: Spring Green Vs. TruGreen
