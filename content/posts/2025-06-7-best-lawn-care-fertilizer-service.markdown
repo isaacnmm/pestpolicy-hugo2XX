@@ -19,19 +19,6 @@ This guide will break down the best lawn care fertilizer services, comparing pro
 
 ---
 
-## Table of Contents
-
-* [What Are the Best Lawn Fertilization Services?](#what-are-the-best-lawn-fertilization-services)
-* [Professional Vs. DIY Lawn Fertilization Services](#professional-vs-diy-lawn-fertilization-services)
-* [Types of Lawn Fertilizer](#types-of-lawn-fertilizer)
-* [Types of Fertilizer Spreaders & Sprayers](#types-of-fertilizer-spreaders-sprayers)
-* [Best Time to Fertilize Your Lawn](#best-time-to-fertilize-your-lawn)
-* [Final Thoughts](#final-thoughts)
-* [FAQs About Lawn Fertilizer Companies](#faqs-about-lawn-fertilizer-companies)
-* [Methodology: How We Rank Lawn Care Companies](#methodology-how-we-rank-lawn-care-companies)
-
----
-
 ## What Are the Best Lawn Fertilization Services?
 
 Both professional lawn care companies and specialized DIY programs offer excellent fertilization solutions. Here are top choices known for their effective fertilization programs:

@@ -19,15 +19,6 @@ Whether you're looking for all-natural solutions or comprehensive synthetic prog
 
 ---
 
-## Table of Contents
-
-* [Top DIY Lawn Care Plans and Subscriptions](#top-diy-lawn-care-plans-and-subscriptions)
-* [Factors to Consider](#factors-to-consider)
-* [Is a DIY Lawn Care Service Worth It?](#is-a-diy-lawn-care-service-worth-it)
-* [Our Methodology](#our-methodology)
-
----
-
 ## Top DIY Lawn Care Plans and Subscriptions
 
 Choosing the right DIY lawn care program depends on your specific needs, comfort level with application, and preference for product types. Here are some of the top-rated options:

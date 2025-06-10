@@ -20,15 +20,6 @@ This guide delves into the best lawn care services for homes with dogs, focusing
 
 ---
 
-## Table of Contents
-
-* [Top 3 Providers](#top-3-providers)
-* [How Do I Choose the Best Lawn Care Service?](#how-do-i-choose-the-best-lawn-care-service)
-* [Considerations for a Lawn Care Service for Dogs](#considerations-for-a-lawn-care-service-for-dogs)
-* [Methodology: How We Rank Lawn Care Companies](#methodology-how-we-rank-lawn-care-companies)
-
----
-
 ## Top 3 Providers
 
 When it comes to balancing a healthy lawn with pet safety, these three providers stand out for their offerings and approach.
