@@ -1,6 +1,6 @@
 ﻿---
-date: '2025-06-10T00:00:00+00:00'
-lastmod: '2025-06-10T00:00:00+03:00'
+date: '2025-06-9T00:00:00+00:00'
+lastmod: '2025-06-9T00:00:00+03:00'
 author: Isaac
 layout: post
 title: Best DIY Lawn Care Programs and Services
