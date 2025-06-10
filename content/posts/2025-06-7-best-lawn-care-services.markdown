@@ -9,7 +9,7 @@ categories:
 - Guides
 - Home Improvement
 - Services
-tags: ["lawn care services", "lawn maintenance", "lawn care companies", "TruGreen", "Sunday", "Lawnbright", "Lawn Doctor", "Weed Man", "Lawn Love", "home services", "gardening", "yard work"]
+tags: []
 slug: /best-lawn-care-services/
 ---
 

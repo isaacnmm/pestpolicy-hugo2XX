@@ -8,7 +8,7 @@ categories:
 - Guide
 - Gardening
 - Home Improvement
-tags: ["tree selection", "landscaping", "yard planning", "tree care"]
+tags: []
 slug: /how-to-select-the-right-tree-for-your-yard/
 ---
 

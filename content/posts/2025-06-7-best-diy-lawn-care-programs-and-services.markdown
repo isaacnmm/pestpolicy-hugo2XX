@@ -9,7 +9,7 @@ categories:
 - Guides
 - Home Improvement
 - Services
-tags: ["DIY lawn care", "lawn care programs", "lawn care subscriptions", "fertilizer programs", "weed control DIY", "organic lawn care DIY", "home gardening", "lawn maintenance", "lawn care products"]
+tags: [] 
 slug: /best-diy-lawn-care-programs-and-services/
 ---
 

@@ -9,7 +9,7 @@ categories:
 - Home Improvement
 - Guides
 - Plant Care
-tags: ["soil testing", "soil texture", "garden soil", "lawn care", "gardening tips", "soil health", "loam", "clay", "sand", "drainage", "soil improvement"]
+tags: []
 slug: /how-to-test-your-yards-soil-texture/
 ---
 

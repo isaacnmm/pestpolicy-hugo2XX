@@ -8,7 +8,7 @@ categories:
 - Lawn Care
 - Guides
 - Home Improvement
-tags: ["Bermuda grass", "lawn care"]
+tags: []
 slug: /how-to-kill-bermuda-grass/
 ---
 

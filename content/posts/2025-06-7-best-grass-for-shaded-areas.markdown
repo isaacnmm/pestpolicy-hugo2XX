@@ -9,7 +9,7 @@ categories:
 - Guides
 - Landscaping
 - Gardening
-tags: ["shaded lawn", "shade grass", "grass types", "lawn problems", "gardening tips", "landscaping", "cool-season grass", "warm-season grass", "turfgrass", "lawn care"]
+tags: []
 slug: /best-grass-for-shaded-areas/
 ---
 
