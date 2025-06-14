@@ -3,7 +3,7 @@ date: '2025-06-15T00:00:00+03:00'
 lastmod: '2025-06-15T00:00:00+03:00'
 author: Isaac
 layout: post
-title: How to Grow Camellias - A Guide to Cultivating Elegant Evergreens
+title: How to Grow Camellias - Cultivating Elegant Evergreens
 categories:
   - Plants and Flowers
   - Guides
