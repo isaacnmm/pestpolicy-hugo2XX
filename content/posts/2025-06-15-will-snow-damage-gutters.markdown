@@ -1,6 +1,6 @@
 ﻿---
-date: '2025-07-05T10:30:00+03:00'
-lastmod: '2025-07-05T10:30:00+03:00'
+date: '2025-06-15T05:00:00+03:00'
+lastmod: '2025-06-15T05:00:00+03:00'
 author: Isaac
 layout: post
 title: Will Snow Damage Gutters? Winter Risks 
