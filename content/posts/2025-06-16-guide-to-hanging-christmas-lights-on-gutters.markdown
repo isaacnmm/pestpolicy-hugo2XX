@@ -1,6 +1,6 @@
 ﻿---
-date: '2025-12-01T08:00:00+03:00'
-lastmod: '2025-12-01T08:00:00+03:00'
+date: '2025-06-16T07:55:00+03:00'
+lastmod: '2025-06-16T07:55:00+03:00'
 author: Isaac
 layout: post
 title: Guide to Hanging Christmas Lights on Gutters - Decking the Halls Safely and Beautifully
