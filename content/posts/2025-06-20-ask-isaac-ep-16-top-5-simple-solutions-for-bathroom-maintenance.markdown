@@ -1,6 +1,6 @@
 ﻿---
-date: '2025-06-20T23:30:00+03:00'
-lastmod: '2025-06-20T23:30:00+03:00'
+date: '2025-06-20T10:00:00+03:00'
+lastmod: '2025-06-20T10:00:00+03:00'
 author: Isaac
 layout: post
 title: Ask Isaac Ep. 16 - Top 5 Simple Solutions for Bathroom Maintenance

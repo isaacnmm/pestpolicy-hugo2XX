@@ -1,6 +1,6 @@
 ﻿---
-date: '2025-06-23T10:00:00+03:00'
-lastmod: '2025-06-23T10:00:00+03:00'
+date: '2025-06-20T10:00:00+03:00'
+lastmod: '2025-06-20T10:00:00+03:00'
 author: Isaac
 layout: post
 title: A Shower Wand Made to Clean Your Tub - The Delta ProClean Handheld Shower

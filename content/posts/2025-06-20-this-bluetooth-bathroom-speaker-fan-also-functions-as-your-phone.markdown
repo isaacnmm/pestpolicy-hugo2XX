@@ -1,6 +1,6 @@
 ﻿---
-date: '2025-06-21T09:30:00+03:00'
-lastmod: '2025-06-21T09:30:00+03:00'
+date: '2025-06-20T10:00:00+03:00'
+lastmod: '2025-06-20T10:00:00+03:00'
 author: Isaac
 layout: post
 title: This Bluetooth Bathroom Speaker Fan Also Functions as Your Phone

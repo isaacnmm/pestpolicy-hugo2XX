@@ -1,6 +1,6 @@
 ﻿---
-date: '2025-06-20T12:00:00-04:00'
-lastmod: '2025-06-20T12:00:00-04:00'
+date: '2025-06-20T10:00:00+03:00'
+lastmod: '2025-06-20T10:00:00+03:00'
 author: PestPolicy Radio Team
 layout: post
 title: PestPolicy Radio Podcast - June 20, 2025 - Home Solutions

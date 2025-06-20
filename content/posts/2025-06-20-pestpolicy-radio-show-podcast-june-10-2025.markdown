@@ -1,6 +1,6 @@
 ﻿---
-date: '2025-06-10T10:00:00-05:00'
-lastmod: '2025-06-10T10:00:00-05:00'
+date: '2025-06-20T10:00:00+03:00'
+lastmod: '2025-06-20T10:00:00+03:00'
 author: Isaac
 layout: post
 title: PestPolicy Radio Show & Podcast - June 10, 2025 - Home Care Hacks
