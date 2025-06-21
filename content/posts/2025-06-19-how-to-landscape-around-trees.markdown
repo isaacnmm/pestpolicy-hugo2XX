@@ -1,6 +1,6 @@
 ---
-date: '2025-06-21T19:55:10+03:00'
-lastmod: '2025-06-21T19:55:10+03:00'
+date: '2025-06-19T19:55:10+03:00'
+lastmod: '2025-06-19T19:55:10+03:00'
 author: Isaac
 title: How to Landscape Around Trees Without Harming Them
 categories:
