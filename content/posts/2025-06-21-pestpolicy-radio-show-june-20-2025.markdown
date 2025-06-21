@@ -1,7 +1,7 @@
 ﻿---
 date: '2025-06-20T10:00:00+03:00'
 lastmod: '2025-06-20T10:00:00+03:00'
-author: PestPolicy Radio Show
+author: Isaac
 layout: post
 title: PestPolicy Radio Show - June 20, 2025 - Your Home Maintenance Q&A!
 categories:

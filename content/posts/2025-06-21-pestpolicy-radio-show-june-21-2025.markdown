@@ -1,7 +1,7 @@
 ﻿---
 date: '2025-06-21T10:00:00+03:00'
 lastmod: '2025-06-21T10:00:00+03:00'
-author: PestPolicy Radio Show
+author: Isaac
 layout: post
 title: PestPolicy Radio Show - June 21, 2025 - Sparkling Clean and Smart Homes!
 categories:
