@@ -10,7 +10,7 @@
 {{- /* Title */}}
 {{- $pageTitle := site.Title }}
 {{- if (and .Title (not .IsHome)) }}
-  {{- $pageTitle = printf "%s | %s" .Title $pageTitle }}
+  {{- $pageTitle = printf "%s | %s" .Title $pageTitle }}
 {{- end }}
 <title>{{ $pageTitle }}</title>
 
@@ -19,12 +19,21 @@
 {{ with site.Params.keywords -}}<meta name="keywords" content="{{- range $i, $e := . }}{{ if $i }}, {{ end }}{{ $e }}{{ end }}">{{ end }}
 {{- else }}
 <meta name="keywords" content="{{ if .Params.keywords -}}
-    {{- range $i, $e := .Params.keywords }}{{ if $i }}, {{ end }}{{ $e }}{{ end }} {{- else }}
-    {{- range $i, $e := .Params.tags }}{{ if $i }}, {{ end }}{{ $e }}{{ end }} {{- end -}}">
+    {{- range $i, $e := .Params.keywords }}{{ if $i }}, {{ end }}{{ $e }}{{ end }} {{- else }}
+    {{- range $i, $e := .Params.tags }}{{ if $i }}, {{ end }}{{ $e }}{{ end }} {{- end -}}">
 {{- end }}
-<meta name="description" content="{{- with .Description }}{{ . }}{{- else }}{{- if or .IsPage .IsSection}}
-    {{- .Summary | default (printf "%s - %s" .Title  site.Title) }}{{- else }}
-    {{- with site.Params.description }}{{ . }}{{- end }}{{- end }}{{- end -}}">
+
+{{/* EDITED: Standard Meta Description - with content body snippet fallback */}}
+<meta name="description" content="{{ with .Description }}{{ . }}{{ else }}
+    {{- if .IsPage -}}
+        {{- .RawContent | plainify | truncate 150 "..." -}}
+    {{- else if .IsHome -}}
+        {{- site.Params.description | default .Site.Title -}}
+    {{- else -}}
+        {{- .Title -}}
+    {{- end -}}
+{{- end -}}">
+
 <meta name="author" content="{{ (partial "author.html" . ) }}">
 <link rel="canonical" href="{{ if .Params.canonicalURL -}} {{ trim .Params.canonicalURL " " }} {{- else -}} {{ .Permalink }} {{- end }}">
 {{- if site.Params.analytics.googlesiteVerificationTag }}
@@ -74,27 +83,36 @@
 
 {{- /* Misc */}}
 {{- if hugo.IsProduction | or (eq site.Params.env "production") }}
-  {{- if .Site.Config.Services.GoogleAnalytics.ID }}
-    {{- template "_internal/google_analytics.html" . }}
-  {{- end -}}
-  {{- if site.Params.useCustomAnalytics }}
-    {{- partialCached "custom_analytics.html" . "custom_analytics.html" }}
-  {{- end -}}
+  {{- if .Site.Config.Services.GoogleAnalytics.ID }}
+    {{- template "_internal/google_analytics.html" . }}
+  {{- end -}}
+  {{- if site.Params.useCustomAnalytics }}
+    {{- partialCached "custom_analytics.html" . "custom_analytics.html" }}
+  {{- end -}}
 {{- end -}}
 
 {{- /* https://developer.twitter.com/en/docs/twitter-for-websites/cards/guides/getting-started */}}
 {{- if .Params.cover.image }}
-  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:card" content="summary_large_image" />
 {{- else }}
-  {{- with site.Params.images -}}
-    <meta name="twitter:card" content="summary" />
-  {{- end }}
+  {{- with site.Params.images -}}
+    <meta name="twitter:card" content="summary" />
+  {{- end }}
 {{- end }}
 <meta name="twitter:title" content="{{ $pageTitle }}" />
-<meta name="twitter:description" content="{{ with .Description }}{{ . }}{{ else }}{{if .IsPage}}{{ .Summary }}{{ else }}{{ with site.Params.description }}{{ . }}{{ end }}{{ end }}{{ end -}}" />
+
+{{/* EDITED: Twitter Card Description - with content body snippet fallback */}}
+<meta name="twitter:description" content="{{ with .Description }}{{ . }}{{ else }}
+    {{- if .IsPage -}}
+        {{- .RawContent | plainify | truncate 120 "..." -}}
+    {{- else -}}
+        {{- .Title -}}
+    {{- end -}}
+{{- end -}}" />
+
 {{- with site.Params.socialAccounts.twitter }}
-  <meta name="twitter:site" content="@{{ .username }}" />
-  <meta name="twitter:creator" content="@{{ .username }}" />
+  <meta name="twitter:site" content="@{{ .username }}" />
+  <meta name="twitter:creator" content="@{{ .username }}" />
 {{- end }}
 
 {{- template "partials/templates/opengraph.html" (dict "page" . "pageTitle" $pageTitle) }}
@@ -103,42 +121,42 @@
 
 {{- partial "extend_head.html" . }}
 <noscript>
-    <style>
-        #theme-toggle,
-        .top-link {
-            display: none;
-        }
+    <style>
+        #theme-toggle,
+        .top-link {
+            display: none;
+        }
 
-    </style>
-    {{- if (and (ne site.Params.defaultTheme "light") (ne site.Params.defaultTheme "dark")) }}
-    <style>
-        @media (prefers-color-scheme: dark) {
-            :root {
-                --theme: rgb(29, 30, 32);
-                --entry: rgb(46, 46, 51);
-                --primary: rgb(218, 218, 219);
-                --secondary: rgb(155, 156, 157);
-                --tertiary-bg: rgb(65, 66, 68);
-                --content: rgb(196, 196, 197);
-                --code-bg: rgb(55, 56, 62);
-                --border: rgb(51, 51, 51);
-            }
+    </style>
+    {{- if (and (ne site.Params.defaultTheme "light") (ne site.Params.defaultTheme "dark")) }}
+    <style>
+        @media (prefers-color-scheme: dark) {
+            :root {
+                --theme: rgb(29, 30, 32);
+                --entry: rgb(46, 46, 51);
+                --primary: rgb(218, 218, 219);
+                --secondary: rgb(155, 156, 157);
+                --tertiary-bg: rgb(65, 66, 68);
+                --content: rgb(196, 196, 197);
+                --code-bg: rgb(55, 56, 62);
+                --border: rgb(51, 51, 51);
+            }
 
-            .list-page {
-                background: var(--theme);
-            }
+            .list-page {
+                background: var(--theme);
+            }
 
-            .list-page:not(.dark)::-webkit-scrollbar-track {
-                background: 0 0;
-            }
+            .list-page:not(.dark)::-webkit-scrollbar-track {
+                background: 0 0;
+            }
 
-            .list-page:not(.dark)::-webkit-scrollbar-thumb {
-                border-color: var(--theme);
-            }
-        }
+            .list-page:not(.dark)::-webkit-scrollbar-thumb {
+                border-color: var(--theme);
+            }
+        }
 
-    </style>
-    {{- end }}
+    </style>
+    {{- end }}
 </noscript>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7369419631229178"
-     crossorigin="anonymous"></script>
+     crossorigin="anonymous"></script>
