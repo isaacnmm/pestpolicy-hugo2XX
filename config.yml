@@ -2,9 +2,9 @@
 
 baseURL: 'https://pestpolicy.com/' # The base URL for your deployed website.
 
-languageCode: 'en-us'         # Your language code
-title: 'Home Improvement'         # Your website's title
-theme: "PaperModX"             # Make sure this is "PaperModX"
+languageCode: 'en-us'            # Your language code
+title: 'Home'                    # Your website's title
+theme: "PaperModX"               # Make sure this is "PaperModX"
 
 # Enable generation of robots.txt for search engine instructions
 enableRobotsTXT: true
@@ -14,7 +14,7 @@ enableGitInfo: true # Helps with lastmod for sitemap
 buildFuture: true # Ensure future-dated content is built (useful for scheduling)
 
 permalinks:
-  posts: "/:slug/"             # Permalink structure for your articles
+  posts: "/:slug/"                # Permalink structure for your articles
 
 # --- Homepage Info / Banner Configuration (theme-specific) ---
 
@@ -69,15 +69,15 @@ params:
 
   DateFormat: "January 2, 2006" # Format for dates
 
-  defaultTheme: "light"        # Options: "light", "dark", or "auto"
+  defaultTheme: "light"          # Options: "light", "dark", or "auto"
   # disableThemeToggle: true     # Uncomment to disable theme toggle
 
   # Feature toggles
   ShowShareButtons: true
   #ShowReadingTime: true
   ShowPostNavLinks: true
-  ShowRssButtonLeafBundle: false 
-  InstantClick: true # Speeds up page navigation (PapermodX specific) 
+  ShowRssButtonLeafBundle: false
+  InstantClick: true # Speeds up page navigation (PapermodX specific)
   #ShowToc: true # Global toggle for Table of Contents
   TocSide: "right" # "left" or "right" for floating ToC
 
@@ -102,9 +102,9 @@ socialIcons:
   - name: "facebook"
     url: "https://web.facebook.com/profile.php?id=100067009801389"
   - name: "twitter" # Renamed from "github" and URL updated for X (formerly Twitter)
-    url: "https://x.com/pestpolicy" 
+    url: "https://x.com/pestpolicy"
   - name: "youtube" # Renamed from "github" and URL updated for X (formerly Twitter)
-    url: "https://www.youtube.com/@pestpolicy4519" 
+    url: "https://www.youtube.com/@pestpolicy4519"
 
 # --- Site Menu Configuration ---
 
@@ -116,15 +116,15 @@ menu:
       weight: 20
 
     - identifier: "contact" # A unique identifier for this menu item
-      name: "Contact"      # The text displayed in the menu
-      url: "/contact/"     # The URL of your contact page
-      weight: 50           # Adjust weight to control order (higher weight = further right)
+      name: "Contact"        # The text displayed in the menu
+      url: "/contact/"       # The URL of your contact page
+      weight: 50             # Adjust weight to control order (higher weight = further right)
 
 # --- Optional Advanced Config Sections (commented) ---
 
 outputs:
-  home: ["HTML", "RSS", "JSON"] # JSON for potential search/structured data
-  page: ["HTML", "AMP"] # AMP (Accelerated Mobile Pages) can improve mobile speed and visibility
+  home: ["HTML", "RSS", "JSON"]
+  page: ["HTML"] # AMP removed here
   section: ["HTML", "RSS"]
   taxonomy: ["HTML", "RSS"]
   term: ["HTML", "RSS"]
