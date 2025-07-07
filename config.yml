@@ -124,7 +124,7 @@ menu:
 
 outputs:
   home: ["HTML", "RSS", "JSON"]
-  page: ["HTML"] # AMP removed here 2
+  page: ["HTML"] # AMP removed here 77
   section: ["HTML", "RSS"]
   taxonomy: ["HTML", "RSS"]
   term: ["HTML", "RSS"]
