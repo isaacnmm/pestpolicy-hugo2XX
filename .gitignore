@@ -6,6 +6,7 @@
 # Folders
 _obj
 _test
+node_modules/  <-- ADD THIS LINE
 
 # Architecture specific extensions/prefixes
 *.[568vq]
