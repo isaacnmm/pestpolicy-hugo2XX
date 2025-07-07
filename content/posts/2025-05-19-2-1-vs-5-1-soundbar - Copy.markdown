@@ -1,6 +1,6 @@
 ﻿---
-date: '2025-07-6T00:00:00+00:00'
-lastmod: '2025-07-6T00:00:00+03:00'
+date: '2025-07-06T00:00:00+00:00'
+lastmod: '2025-07-06T00:00:00+03:00'
 author: Isaac
 layout: post
 title: Test 2.1 vs 5.1 Soundbar
