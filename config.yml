@@ -13,6 +13,10 @@ enableRobotsTXT: true
 enableGitInfo: true # Helps with lastmod for sitemap
 buildFuture: true # Ensure future-dated content is built (useful for scheduling)
 
+# --- Hugo Build Settings for Error Checking (NEW SECTION) ---
+build:
+  failOnMissingRefs: true # This will make Hugo error out if ref/relref shortcodes point to non-existent pages
+
 permalinks:
   posts: "/:slug/"                # Permalink structure for your articles
 

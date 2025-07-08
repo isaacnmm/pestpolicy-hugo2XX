@@ -1,0 +1,12 @@
+{
+  "files": [
+    "content/posts/2025-07-07-test-link.markdown"
+  ],
+  "baseUrl": null,
+  "ignorePatterns": [
+    { "pattern": "^mailto:" },
+    { "pattern": "^tel:" }
+  ],
+  "timeout": "10s",
+  "concurrency": 5
+}

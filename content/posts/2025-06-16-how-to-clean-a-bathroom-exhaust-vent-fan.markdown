@@ -1,6 +1,6 @@
-﻿---
-date: '2025-06-16T10:15:00+03:00'
-lastmod: '2025-06-16T10:15:00+03:00'
+---
+date: '2025-07-05T00:00:00+00:00'
+lastmod: '2025-07-05T00:00:00+03:00'
 author: Isaac
 layout: post
 title: How to Clean a Bathroom Exhaust Vent Fan

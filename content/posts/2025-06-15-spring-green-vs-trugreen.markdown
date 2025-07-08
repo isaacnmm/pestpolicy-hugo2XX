@@ -1,6 +1,6 @@
-﻿---
-date: '2025-06-15T00:00:00+00:00'
-lastmod: '2025-06-15T00:00:00+03:00'
+---
+date: '2025-07-05T00:00:00+00:00'
+lastmod: '2025-07-05T00:00:00+03:00'
 author: Isaac
 layout: post
 title: Spring Green vs. TruGreen - A Head-to-Head Lawn Care Comparison
@@ -108,7 +108,7 @@ Our comprehensive methodology for evaluating lawn care companies, including indu
 
 1.  **Service Breadth & Customization (25%):**
     * **Range of Services:** Does the company offer a full suite of services (fertilization, weed, pest, disease control, aeration, overseeding, tree/shrub care)?
-    * **Program Flexibility:** Are there options for different needs (e.g., basic, comprehensive, organic) and can services be customized or added à la carte?
+    * **Program Flexibility:** Are there options for different needs (e.g., basic, comprehensive, organic) and can services be customized or added � la carte?
     * **Diagnostic Approach:** How well do they assess a lawn's specific needs (e.g., soil tests, on-site inspections)?
 
 2.  **Service Model & Expertise (20%):**
