@@ -1,5 +1,6 @@
 ---
-title: "Welcome to Pest Policy" # This title might or might not be displayed depending on theme settings
+title: "Pest Policy: Your Guide to a Great Home"
+description: "Discover expert guides on pest control, choosing paint sprayers, and finding the best walking and running shoes for a healthier home and lifestyle."
 # You can add other front matter here, like a specific layout, if needed
 ---
 
