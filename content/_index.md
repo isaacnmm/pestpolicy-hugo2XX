@@ -13,7 +13,7 @@ tags: []
 slug: /
 ---
 
-# Pest Policy: Your Guide to a Great Home
+# Pest Policy: Your Guide to Home Improvement
 
 Welcome to Pest Policy, your essential resource for creating a comfortable, safe, and healthy living environment. We believe a truly great home is a blend of practical maintenance, aesthetic improvements, and a commitment to a healthier lifestyle.
 
