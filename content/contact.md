@@ -1,7 +1,7 @@
 ---
 title: "Contact Us"
 date: 2025-05-21T09:00:00+03:00
-layout: "single" # Or "page" - "single" usually works for PapermodX
+layout: "single" 
 url: "/contact/"
 outputs:
   - HTML
