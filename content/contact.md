@@ -7,8 +7,6 @@ outputs:
   - HTML
 ---
 
-## Get in Touch
-
 We'd love to hear from you! Please use the form below to send us your questions, feedback, or anything else.
 
 <form name="contact" method="POST" data-netlify="true" netlify-honeypot="bot-field" class="contact-form">
