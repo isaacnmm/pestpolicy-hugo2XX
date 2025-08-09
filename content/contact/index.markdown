@@ -1,15 +1,6 @@
-﻿---
-date: '2025-07-10T00:00:00+00:00'
-lastmod: '2025-07-10T00:00:00+03:00'
-layout: page
-title: Contact Us
-permalink: /contact/
 ---
-
 ## Get in Touch
-
 We'd love to hear from you! Please use the form below to send us your questions, feedback, or email subscription requests.
-
 <form name="contact" method="POST" data-netlify="true" data-netlify-honeypot="bot-field">
   <p hidden>
     <label>Don't fill this out if you're human: <input name="bot-field" /></label>
@@ -30,16 +21,8 @@ We'd love to hear from you! Please use the form below to send us your questions,
     <button type="submit">Send Message</button>
   </p>
 </form>
-
 **Email:** isaacnmm@gmail.com
 **Address:** Federal Way
 **Phone:** +1 912-54-7642
 
-
-
-
-
-
-
-
-
+﻿--- date: '2025-07-10T00: 00: 00+00: 00' lastmod: '2025-07-10T00: 00: 00+03: 00' layout: page title: Contact Us permalink: /contact/

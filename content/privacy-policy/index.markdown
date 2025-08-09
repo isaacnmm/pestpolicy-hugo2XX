@@ -1,11 +1,4 @@
-﻿---
-date: '2025-07-10T00:00:00+00:00'
-lastmod: '2025-07-10T00:00:00+03:00'
-layout: page
-title: Privacy Policy
-permalink: /privacy-policy/
 ---
-
 # Ezoic Services
 Ezoic Services
 This website uses the services of Ezoic Inc. (“Ezoic”), including to manage third-party interest-based advertising. Ezoic may employ a variety of technologies on this website, including tools to serve content, display advertisements and enable advertising to visitors of this website, which may utilize first and third-party cookies.
@@ -29,11 +22,4 @@ You can view Ezoic’s privacy policy
 , or for additional information about Ezoic’s advertising and other partners, you can view Ezoic’s advertising partners
 [here.](https://www.ezoic.com/privacy-policy/advertising-partners/)
 
-
-
-
-
-
-
-
-
+﻿--- date: '2025-07-10T00: 00: 00+00: 00' lastmod: '2025-07-10T00: 00: 00+03: 00' layout: page title: Privacy Policy permalink: /privacy-policy/
