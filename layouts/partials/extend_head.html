@@ -1,26 +1,47 @@
 <style>
-  #icons {
-    display: flex;
-    flex-wrap: wrap;
-    margin-top: 2em;
-  }
+#icons {
+  display: flex;
+  flex-wrap: wrap;
+  margin-top: 2em;
+  justify-content: center; /* center icons on narrow screens */
+}
+
+#icons .item {
+  width: 80px;
+  height: 50px;
+  margin: 10px;
+  flex: 0 1 auto; /* allow flexibility */
+}
+
+#icons .item .name {
+  font-size: 12px;
+  user-select: all;
+  text-align: center;
+  word-wrap: break-word;
+}
+
+#icons .item .icon {
+  display: flex;
+  justify-content: center;
+}
+
+/* Make SVG scale better on smaller screens */
+#icons .item svg {
+  width: 30px;
+  height: 30px;
+  max-width: 100%;
+  height: auto;
+}
+
+/* Responsive tweak: reduce item width on very small screens */
+@media (max-width: 400px) {
   #icons .item {
-    width: 80px;
-    height: 50px;
-    margin: 10px;
+    width: 60px;
+    height: 40px;
+    margin: 6px;
   }
   #icons .item .name {
-    font-size: 12px;
-    user-select: all;
-    text-align: center;
+    font-size: 10px;
   }
-  #icons .item .icon {
-    display: flex;
-    justify-content: center;
-  }
-  #icons .item svg {
-    width: 30px;
-    height: 30px;
-  }
+}
 </style>
-
