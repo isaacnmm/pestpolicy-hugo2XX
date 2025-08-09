@@ -1,13 +1,25 @@
-{{ printf "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"yes\"?>" | safeHTML }}
+{{- printf "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"yes\"?>" | safeHTML }}
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  {{ range .Pages }}
-  {{ if not (or (eq .Kind "taxonomy") (eq .Kind "term")) }}
+  {{- range .Pages }}
+    {{- if not (or (eq .Kind "taxonomy") (eq .Kind "term")) }}
   <url>
-    <loc>{{ .Permalink }}</loc>
-    {{ if not .Lastmod.IsZero }}<lastmod>{{ .Lastmod.Format "2006-01-02T15:04:05-07:00" | safeHTML }}</lastmod>{{ end }}
-    {{ with .Sitemap.ChangeFreq }}<changefreq>{{ . }}</changefreq>{{ end }}
-    {{ with .Sitemap.Priority }}<priority>{{ . }}</priority>{{ end }}
+    <loc>{{ .Permalink | safeURL }}</loc>
+    {{- if not .Lastmod.IsZero }}
+      <lastmod>{{ .Lastmod.Format "2006-01-02T15:04:05-07:00" }}</lastmod>
+    {{- else if .Date }}
+      <lastmod>{{ .Date.Format "2006-01-02T15:04:05-07:00" }}</lastmod>
+    {{- end }}
+    {{- with .Params.sitemap.changefreq }}
+      <changefreq>{{ . }}</changefreq>
+    {{- else if site.Params.sitemap.changefreq }}
+      <changefreq>{{ site.Params.sitemap.changefreq }}</changefreq>
+    {{- end }}
+    {{- with .Params.sitemap.priority }}
+      <priority>{{ . }}</priority>
+    {{- else if site.Params.sitemap.priority }}
+      <priority>{{ site.Params.sitemap.priority }}</priority>
+    {{- end }}
   </url>
-  {{ end }}
-  {{ end }}
+    {{- end }}
+  {{- end }}
 </urlset>
