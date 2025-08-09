@@ -1,163 +1,27 @@
-<meta charset="utf-8">
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
-<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
 
-{{- if hugo.IsProduction | or (eq .Site.Params.env "production") }}
-<meta name="robots" content="index, follow">
-{{- else }}
-<meta name="robots" content="noindex, nofollow">
-{{- end }}
+<title>{{ if .IsHome }}{{ .Site.Title }}{{ else if .Params.seo_title }}{{ .Params.seo_title }} - {{ .Site.Title }}{{ else if .Title }}{{ .Title }} - {{ .Site.Title }}{{ else }}{{ .Site.Title }}{{ end }}</title>
 
-{{- $pageTitle := .Site.Title }}
-{{- if and .Params.seo_title (not .IsHome) }}
-  {{- $pageTitle = printf "%s - %s" .Params.seo_title .Site.Title }}
-{{- else if and .Title (not .IsHome) }}
-  {{- $pageTitle = printf "%s - %s" .Title .Site.Title }}
-{{- else if .IsHome }}
-  {{- $pageTitle = .Site.Title }}
-{{- end }}
-<title>{{ $pageTitle }}</title>
+<meta name="description" content="{{ with .Description }}{{ . }}{{ else if .IsPage }}{{ .RawContent | plainify | truncate 150 "..." }}{{ else }}{{ .Site.Params.description | default .Site.Title }}{{ end }}" />
 
-{{- if .IsHome }}
-  {{ with .Site.Params.keywords -}}
-    <meta name="keywords" content="{{- delimit . ", " }}">
-  {{ end }}
-{{- else }}
-  <meta name="keywords" content="{{ if .Params.keywords -}}
-    {{- delimit .Params.keywords ", " }}
-    {{- else }}
-    {{- delimit .Params.tags ", " }}
-    {{- end }}">
-{{- end }}
+<meta name="robots" content="{{ if or hugo.IsProduction (eq .Site.Params.env "production") }}index, follow{{ else }}noindex, nofollow{{ end }}" />
 
-<meta name="description" content="{{ with .Description }}{{ . }}{{ else }}
-  {{- if .IsPage -}}
-    {{- .RawContent | plainify | truncate 150 "..." -}}
-  {{- else if .IsHome -}}
-    {{- .Site.Params.description | default .Site.Title -}}
-  {{- else -}}
-    {{- .Title -}}
-  {{- end -}}
-{{- end }}">
+<link rel="canonical" href="{{ with .Params.canonicalURL }}{{ . }}{{ else }}{{ .Permalink }}{{ end }}" />
 
-<meta name="author" content="{{ partial "author.html" . }}">
+{{- $styles := slice
+  (resources.Get "css/core/theme-vars.css")
+  (resources.Get "css/core/reset.css")
+  (resources.Match "css/common/*.css" | resources.Concat "assets/css/common.css")
+  (resources.Match "css/extended/*.css" | resources.Concat "assets/css/extended.css")
+}}
 
-<link rel="canonical" href="{{ with .Params.canonicalURL }}{{ . | trim }}{{ else }}{{ .Permalink }}{{ end }}">
-
-{{- if .Site.Params.analytics.googlesiteVerificationTag }}
-<meta name="google-site-verification" content="{{ .Site.Params.analytics.googlesiteVerificationTag }}">
-{{- end }}
-{{- if .Site.Params.analytics.yandexsiteVerificationTag }}
-<meta name="yandex-verification" content="{{ .Site.Params.analytics.yandexsiteVerificationTag }}">
-{{- end }}
-{{- if .Site.Params.analytics.bingsiteVerificationTag }}
-<meta name="msvalidate.01" content="{{ .Site.Params.analytics.bingsiteVerificationTag }}">
-{{- end }}
-
-{{- /* Stylesheets bundling - adjust paths to your project */}}
-{{- $theme_vars := resources.Get "css/core/theme-vars.css" }}
-{{- $reset := resources.Get "css/core/reset.css" }}
-{{- $media := resources.Get "css/core/zmedia.css" }}
-{{- $common := resources.Match "css/common/*.css" | resources.Concat "assets/css/common.css" }}
-{{- $commonHighlight := resources.Get "css/common/highlight.scss" | css.Sass }}
-
-{{- $core := (slice $theme_vars $reset $common $commonHighlight $media) | resources.Concat "assets/css/core.css" }}
-{{- $extended := resources.Match "css/extended/*.css" | resources.Concat "assets/css/extended.css" }}
-{{- $extendedScss := resources.Match "css/extended/*.scss" | resources.Concat "assets/css/extended.scss" | css.Sass }}
-
-{{- $stylesheet := (slice $core $extended $extendedScss) | resources.Concat "assets/css/stylesheet.css" | minify }}
+{{- $stylesheet := $styles | resources.Concat "assets/css/stylesheet.css" | minify }}
 
 {{- if not .Site.Params.assets.disableFingerprinting }}
   {{- $stylesheet = $stylesheet | fingerprint }}
-  <link crossorigin="anonymous" href="{{ $stylesheet.RelPermalink }}" integrity="{{ $stylesheet.Data.Integrity }}" rel="preload stylesheet" as="style">
-{{- else }}
-  <link crossorigin="anonymous" href="{{ $stylesheet.RelPermalink }}" rel="preload stylesheet" as="style">
 {{- end }}
 
-<link rel="icon" href="{{ .Site.Params.favicon | default "favicon.ico" | absURL }}">
-<link rel="apple-touch-icon" href="{{ .Site.Params.appleTouchIcon | default "apple-touch-icon.png" | absURL }}">
+<link rel="stylesheet" href="{{ $stylesheet.RelPermalink }}" crossorigin="anonymous" />
 
-{{- range .AlternativeOutputFormats }}
-  <link rel="{{ .Rel }}" type="{{ .MediaType.Type | html }}" href="{{ .Permalink | safeURL }}">
-{{- end }}
-
-{{- range .AllTranslations }}
-  <link rel="alternate" hreflang="{{ .Lang }}" href="{{ .Permalink }}">
-{{- end }}
-
-{{- if hugo.IsProduction | or (eq .Site.Params.env "production") }}
-  {{- if .Site.Config.Services.GoogleAnalytics.ID }}
-    {{- template "_internal/google_analytics.html" . }}
-  {{- end }}
-  {{- if .Site.Params.useCustomAnalytics }}
-    {{- partialCached "custom_analytics.html" . "custom_analytics.html" }}
-  {{- end }}
-{{- end }}
-
-{{- /* Twitter Card */ }}
-{{- if .Params.cover.image }}
-  <meta name="twitter:card" content="summary_large_image" />
-{{- else }}
-  {{- with .Site.Params.images }}
-    <meta name="twitter:card" content="summary" />
-  {{- end }}
-{{- end }}
-
-<meta name="twitter:title" content="{{ $pageTitle }}" />
-<meta name="twitter:description" content="{{ with .Description }}{{ . }}{{ else }}
-  {{- if .IsPage -}}
-    {{- .RawContent | plainify | truncate 120 "..." -}}
-  {{- else -}}
-    {{- .Title -}}
-  {{- end -}}
-{{- end }}">
-
-{{- with .Site.Params.socialAccounts.twitter }}
-  <meta name="twitter:site" content="@{{ .username }}" />
-  <meta name="twitter:creator" content="@{{ .username }}" />
-{{- end }}
-
-{{- template "partials/templates/opengraph.html" (dict "page" . "pageTitle" $pageTitle) }}
-{{- template "partials/templates/schema_json.html" (dict "page" . "pageTitle" $pageTitle) }}
-
-{{- partial "extend_head.html" . }}
-
-<noscript>
-  <style>
-    #theme-toggle,
-    .top-link {
-      display: none;
-    }
-  </style>
-  {{- if (and (ne .Site.Params.defaultTheme "light") (ne .Site.Params.defaultTheme "dark")) }}
-  <style>
-    @media (prefers-color-scheme: dark) {
-      :root {
-        --theme: rgb(29, 30, 32);
-        --entry: rgb(46, 46, 51);
-        --primary: rgb(218, 218, 219);
-        --secondary: rgb(155, 156, 157);
-        --tertiary-bg: rgb(65, 66, 68);
-        --content: rgb(196, 196, 197);
-        --code-bg: rgb(55, 56, 62);
-        --border: rgb(51, 51, 51);
-      }
-
-      .list-page {
-        background: var(--theme);
-      }
-
-      .list-page:not(.dark)::-webkit-scrollbar-track {
-        background: 0 0;
-      }
-
-      .list-page:not(.dark)::-webkit-scrollbar-thumb {
-        border-color: var(--theme);
-      }
-    }
-  </style>
-  {{- end }}
-</noscript>
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7369419631229178"
-  crossorigin="anonymous"></script>
+<link rel="icon" href="{{ .Site.Params.favicon | default "favicon.ico" | absURL }}" />
