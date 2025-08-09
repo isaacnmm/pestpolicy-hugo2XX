@@ -6,18 +6,26 @@
     <loc>{{ .Permalink | safeURL }}</loc>
     {{- if not .Lastmod.IsZero }}
       <lastmod>{{ .Lastmod.Format "2006-01-02T15:04:05-07:00" }}</lastmod>
-    {{- else if .Date }}
-      <lastmod>{{ .Date.Format "2006-01-02T15:04:05-07:00" }}</lastmod>
+    {{- else }}
+      {{- if .Date }}
+        <lastmod>{{ .Date.Format "2006-01-02T15:04:05-07:00" }}</lastmod>
+      {{- end }}
     {{- end }}
+
     {{- with .Params.sitemap.changefreq }}
       <changefreq>{{ . }}</changefreq>
-    {{- else if site.Params.sitemap.changefreq }}
-      <changefreq>{{ site.Params.sitemap.changefreq }}</changefreq>
+    {{- else }}
+      {{- with site.Params.sitemap.changefreq }}
+        <changefreq>{{ . }}</changefreq>
+      {{- end }}
     {{- end }}
+
     {{- with .Params.sitemap.priority }}
       <priority>{{ . }}</priority>
-    {{- else if site.Params.sitemap.priority }}
-      <priority>{{ site.Params.sitemap.priority }}</priority>
+    {{- else }}
+      {{- with site.Params.sitemap.priority }}
+        <priority>{{ . }}</priority>
+      {{- end }}
     {{- end }}
   </url>
     {{- end }}
