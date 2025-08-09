@@ -1,0 +1,102 @@
+/* Custom CSS in assets/css/extended/custom.css */
+
+/* --- Main Article Title (H1 - .post-title) --- */
+.post-title {
+    font-size: 1.2em !important; /* Larger for desktop main title */
+    line-height: 1.1 !important;
+    margin-top: 0.5em !important;
+    margin-bottom: 0.8em !important;
+}
+
+@media (max-width: 768px) {
+    .post-title {
+        font-size: 1.2em !important; /* Reduced for mobile main title */
+        line-height: 1.2 !important;
+    }
+}
+
+/* --- H1s within Article Content (if used) --- */
+.post-content h1 {
+    font-size: 1.5em; /* Slightly smaller than main title on desktop */
+    line-height: 1.2;
+    margin-top: 1.5em;
+    margin-bottom: 0.7em;
+}
+
+@media (max-width: 768px) {
+    .post-content h1 {
+        font-size: 1.5em; /* Reduced for mobile content H1s */
+        line-height: 1.3;
+    }
+}
+
+/* --- H2 Headings --- */
+.post-content h2 {
+    font-size: 1.2em; /* Appropriate size for desktop H2s */
+    line-height: 1.3;
+    margin-top: 1.5em;
+    margin-bottom: 0.6em;
+}
+
+@media (max-width: 768px) {
+    .post-content h2 {
+        font-size: 1.2em; /* Reduced for mobile H2s */
+    }
+}
+
+/* --- H3 Headings --- */
+.post-content h3 {
+    font-size: 1.2em; /* Appropriate size for desktop H3s */
+    line-height: 1.4;
+    margin-top: 1.2em;
+    margin-bottom: 0.5em;
+    color: red; /* Apply red to the h3 itself */
+}
+
+/* Ensure links inside H3 are also red */
+.post-content h3 a {
+    color: red; /* <-- Added: Makes links inside H3 red */
+}
+
+/* You might also want to set hover/active states for these red links */
+.post-content h3 a:hover {
+    color: darkred; /* Example: Darker red on hover */
+    text-decoration: underline; /* Example: Add underline on hover */
+}
+
+/* And for visited links if you want them red too */
+.post-content h3 a:visited {
+    color: red; /* Example: Keep visited links red */
+}
+
+
+@media (max-width: 768px) {
+    .post-content h3 {
+        font-size: 1.2em; /* Reduced for mobile H3s */
+        color: red; /* Apply red to the h3 itself for mobile */
+    }
+    .post-content h3 a {
+        color: red; /* <-- Added: Makes links inside H3 red for mobile */
+    }
+    .post-content h3 a:hover {
+        color: darkred;
+        text-decoration: underline;
+    }
+    .post-content h3 a:visited {
+        color: red;
+    }
+}
+
+/* --- H4 Headings --- */
+.post-content h4 {
+    font-size: 1.2em; /* Appropriate size for desktop H4s */
+    line-height: 1.5;
+    margin-top: 1em;
+    margin-bottom: 0.4em;
+}
+
+@media (max-width: 768px) {
+    .post-content h4 {
+        font-size: 1em; /* Reduced for mobile H4s (matching body font size) */
+    }
+}
