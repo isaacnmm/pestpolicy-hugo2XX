@@ -1,5 +1,5 @@
 ---
-title: The Best Gravity-Feed Spray Guns for Woodworking 2025
+title: 7 Best Gravity-Feed Spray Guns for Woodworking 2025
 description: For any dedicated woodworker, there comes a moment of truth. Youve spent hours, if not days, selecting the perfect lumber, meticulously cutting joinery, and...
 slug: best-gravity-feed-spray-gun-for-woodworking
 date: 2025-08-07 00:00:00+00:00
