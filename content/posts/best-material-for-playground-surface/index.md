@@ -22,7 +22,7 @@ So, If youre wondering what to put under swing set consider these options
 2. **Solid Rubber Surface**
 3. **Rubber Playground Mulch**
 4. **Engineered Wood Fiber (**Wood playground mulch**)**
-5. **Play Sand and�gravel**
+5. **Play Sand andgravel**
 The above options fall under two main categories
 1. **Loose-Fill Materials**
 Loose-fill materials are granular in nature, thus easy to spread out beneath the swing set surface. They are low-cost and need minimal skill during installation. They include:
@@ -38,9 +38,9 @@ Unitary ground covers are more expensive than Loose-fill materials. They require
 ## What is the Best Material to put under a Swing Set? - Details
 Well, all the playground surface options are great. However, depending on your needs, budget, and preference, you may find one option better than the other one.
 
-I will provide all the relevant and up-to-date information to help you make a good decision for your swing set surface. �Hence, below, I will discuss all the options you can choose for your playground surface.
+I will provide all the relevant and up-to-date information to help you make a good decision for your swing set surface. Hence, below, I will discuss all the options you can choose for your playground surface.
 
-Types of Playground Surfaces: �Loose-Fill Materials.
+Types of Playground Surfaces: Loose-Fill Materials.
 ### **1. Engineered Wood Fiber**** (**Wood Playground Mulch)
 
 The good thing about Engineered Wood Fiber is that its readily available, economical, durable, and low maintenance.
@@ -114,7 +114,7 @@ The initial cost of pea gravel is low. However, the maintenance is a bit high. Y
 Pea gravel is readily available. Most Landscaping companies around the U.S.A deliver to your doorstep or job site. However, you can also order online at Amazon, Home Depot, or any other online supplier.
 **Maintenance**
 Pea gravel is a loose fill that can compress and redistribute. Therefore, you need to shovel to prevent cases of injuries. Rake the playground cover back underneath the swing set periodically.
-### **4. Playground Sand�**
+### **4. Playground Sand**
 
 Sand has been a top choice for most people looking for the best Material for Playground Surface. Its cheap, easy to maintain, and readily available. Ensure you buy the coarse grain for your swing set surface cover.
 **Appearance**
@@ -130,14 +130,14 @@ However, sand requires regular maintenance to keep it clean and safe. Thus, it m
 
 Further, youll need to replace sand yearly or when it becomes dirty.
 **Availability**
-Sand is also readily available and you can get it delivered to you at your doorstep. �You can also order sand online from Amazon, Home Depot, and other online stores.
+Sand is also readily available and you can get it delivered to you at your doorstep. You can also order sand online from Amazon, Home Depot, and other online stores.
 **Maintenance**
 Sand is difficult to maintain. It's susceptible to insects, animal wastes, and can hide harmful objects. Thus, youll need to take your time to monitor the sand closely.
 
 Sand also scatters during childrens playtime, so youll need to rake it periodically to prevent injuries.
 
 Youll also need to replace the sand yearly or every time it gets dirty.
-**Types of Playground Surfaces: �Unitary Covers**
+**Types of Playground Surfaces: Unitary Covers**
 ### **5. Artificial Grass (Turf) **
 Artificial grass is widely used on soccer fields and delivers a beautiful scene wherever it's installed. Most people also use the turf for the swing set surface.
 **Appearance**
@@ -145,7 +145,7 @@ Turf doesnt loose its texture or color. It has a synthetic material that enhance
 **Safety**
 Turf provides better drainage than the normal grass, thus, it delivers enhanced slip-resistance.it provides good cushioning and provides protection against injuries. However, if your swing set is higher, the turf may not provide the impact absorption thats needed.
 
-If you still feel you need to install the turf as the swing set surface cover, consider getting shock pads�to protect your children against injuries.
+If you still feel you need to install the turf as the swing set surface cover, consider getting shock padsto protect your children against injuries.
 **Cost **
 The installation cost of Artificial Grass/turf is a bit higher especially if you have to cover a bigger surface. Youll also need to include an anti-static solution on the overall cost. However, proper maintenance will reduce repair cost
 **Availability**
@@ -153,7 +153,7 @@ Artificial grass/ turf is readily available. Most online stores like Amazon, Hom
 **Maintenance**
 Turf requires little maintenance after installation. However, you might need to wash the grass regularly to maintain cleanliness. Also, ensure timely repairs when you notice any damage.
 ### 6. Pour in Place**/ **Rubber Playground Tiles/ Rubber Mat
-Another excellent unitary surface option worth using underneath the swing set is the Pour in Place.� This playground cover option provides a safe surface for children of all ages to play with.
+Another excellent unitary surface option worth using underneath the swing set is the Pour in Place. This playground cover option provides a safe surface for children of all ages to play with.
 **Appearance**
 Pour in Place is a combination of two layers of rubbers. The good thing about this option is that you get to choose what you want. They are available in various color options, so you get to choose what blends well with your yards theme.
 **Safety**
@@ -187,7 +187,7 @@ Furthermore, grass doesnt provide the required shock absorption against impact. 
 Grass can also harbor bacteria and other deadly insects especially if not well maintained or monitored. Thus, your children or pets may be at risk of getting sick.
 ## Conclusion
 I hope that this article has provided you enough information on the Best Material for Playground Surface
-**. �**
+**. **
 However, we recommend that when choosing your playset surface cover safety should always be on your mind.
 
 No child should get hurt while playing. Ensure that the ground cover you choose provides the least risk to your child. Check age-appropriate ground surface covers.

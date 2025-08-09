@@ -17,11 +17,11 @@ layout: post
 On the question, what do bed bugs look like? Bed bugs are wingless, oval-shaped, flat, and small-bodied bugs - adults have wing vestiges (the wing pads) - but
 [bed bugs can't fly](https://pestpolicy.com/do-[bed-bugs](https://pestpolicy.com/bed-bug-bites-vs-mosquito-bites/)-fly/)
 .
-- **The brown-colored or orange adult [bed](https://pestpolicy.com/bed-bug-bites-vs-other-bites/) bug tends to turn red once they suck blood. On size, they're about 4 - 5 mm (or 3/16 an inch) - and they somehow slow.�**
-- **The oval-shaped and six-legged bugs will also appear relatively flattened on their top when they've not sucked blood recently.�**
-- **Bed bugs can be seen with your naked eyes (you'll get them in crevices and cracks) but their nymphs could be too small - check their hiding places.�**
+- **The brown-colored or orange adult [bed](https://pestpolicy.com/bed-bug-bites-vs-other-bites/) bug tends to turn red once they suck blood. On size, they're about 4 - 5 mm (or 3/16 an inch) - and they somehow slow.**
+- **The oval-shaped and six-legged bugs will also appear relatively flattened on their top when they've not sucked blood recently.**
+- **Bed bugs can be seen with your naked eyes (you'll get them in crevices and cracks) but their nymphs could be too small - check their hiding places.**
 Further, the nymphs that have hatched recently will have the size of a pin's head (or apple seed) - they'll be tan or white in color until their feed on blood.
-## How Will I identify those**Bed Bugs?�**
+## How Will I identify those**Bed Bugs?**
 **Hiding Locations **
 - Clothing, on pets, curtains, mattresses, seams, bedding, beds, and other furniture - they hide at day time.
 - Bed bugs will hide both in dirty or clean spaces - and thus cleaning will not fully prevent these bugs.
@@ -89,7 +89,7 @@ Bed bugs will be on any of your body parts that they'll mainly be on the exposed
 - The bite areas could appear like flea or mosquito bites - and they're slightly swollen.
 You'll notice the bites will be aligned in a single straight line or in groupings - but flea bites will be on the ankles or lower legs while the mosquito bites will appear more sporadic.
 - However, other individuals won't be allergic to the bite from bed bugs and hence won't show bite signs.
-**Treating bites�**
+**Treating bites**
 To treat the bed bug bites, you'll use a myriad of methods - but you may require a few weeks to achieve great results.
 **1. Ice Pack**
 - Besides using those over-the-counter treatments, ice packs can help relieve the pain from bed bug bites.

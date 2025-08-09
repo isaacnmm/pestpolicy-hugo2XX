@@ -20,7 +20,7 @@ The question is; what kills [fleas](https://pestpolicy.com/how-to-kill-flea-eggs
 
 In this article, I've detailed the answer to this question. There are many flea-killing products like medicated drops, shampoos, repellents, and sprays - but they take time to work.
 **But what kills fleas on contact? Well, rubbing alcohol (isopropyl alcohol) will kill adult fleas on contact - it's best applied on flea-infested bedding or yard. Also,**
-**�dawn dish soap kills flea eggs (via suffocation); thus, they won't reproduce, infest, or hatch.�**
+**dawn dish soap kills flea eggs (via suffocation); thus, they won't reproduce, infest, or hatch.**
 - *NB: Large % of alcohol may be toxic to your pets and other animals - particularly if ingested but it may also be absorbed via the skin. *Related:Where do Fleas Come From?
 If you're curious how fleas (and their eggs) look, well
 see this article
@@ -36,7 +36,7 @@ flea infestation in your house - fast
 But should I use rubbing alcohol on my pet? Well, plucking the fleas from the cat's or dog's fur and dropping them into a rubbing alcohol bowl will kill the bugs.
 - However, washing the pet with some soapy hot water would still kill the fleas (and their eggs) but it won't endanger the health of your pet or the home.
 ## Danger1: Rubbing alcohol (Isopropyl alcohol) May be Toxic to pets
-Avoid pouring the rubbing alcohol on the cat's or dog's skin in an effort to examine the fleas as it can be toxic.�Isopropyl alcohol will be toxic to the pets if absorbed into their skins in large amounts.
+Avoid pouring the rubbing alcohol on the cat's or dog's skin in an effort to examine the fleas as it can be toxic.Isopropyl alcohol will be toxic to the pets if absorbed into their skins in large amounts.
 
 However, it is critical to realize that some commercial flea killers also have a little percentage of alcohol. Therefore, over-spraying with such alcohol-
 containing products may lead to pet poisoning too.
@@ -91,7 +91,7 @@ You can also combine the flea shampoo, dish soap with a flea trap for better eff
 light or glue traps that use light or lovely scents to lure the fleas to be electrocuted or caught.
 So, where should you put or position the flea trap? Well, place the flea trap near your bed or pet bed and bedding as this is where fleas frequent. But avoid placing flea traps near
 flammable objects, drapery, or walls.
-But, do they really work? How effective are the flea traps?�Well, flea traps will attract and help reduce massive flea
+But, do they really work? How effective are the flea traps?Well, flea traps will attract and help reduce massive flea
 infestations but the fleas may still move
 jump onto another host like dogs or cats
 .

@@ -27,7 +27,7 @@ such as lufenuron, and kill adult fleas using cat medication such as nitenpyram 
 [fleas on your cat](https://entnemdept.ufl.edu/creatures/urban/occas/catflea.htm)
 or kittens? Notably, fleas will not just cause itching on your feline friends but will also trigger anemia, hair loss and could introduce tapeworms.
 
-## **How to Get Rid of Flea Eggs on Cats Step By Step�**
+## **How to Get Rid of Flea Eggs on Cats Step By Step**
 But, what color are flea eggs on a cat? Well, flea eggs have a rounded oval shape. If freshly deposited,
 flea eggs
 will look translucent white but change to pearl-like and opaque with time. Experts consider
@@ -42,7 +42,7 @@ flea shampoo
 to undertake the same role, mainly because adult cats can withstand insecticides and smell.
 Cat flea shampoo has insecticides that will kill the adult frees and break their life cycle to stop them from further egg-laying. In this early bathing process, some
 flea eggs will be washed
-off the�cats fur.
+off thecats fur.
 ### 2. Brush the cat's fur using aFlea comb
 Next, take the special
 [flea comb](https://pestpolicy.com/best-flea-combs-for-dogs/)

@@ -17,8 +17,8 @@ layout: post
 Encountering bed bugs during your stay at a hotel booked through Booking.com can be a frustrating and uncomfortable experience.
 - Fortunately, you have the right to seek a refund for the inconvenience caused.
 In this comprehensive guide, we will walk you through the process, step by step, to ensure you get the compensation you deserve.
-**Note: Remember to collect evidence and document every step of the process for your refund request.��**
-## **1. Gathering Evidence of Bed Bug Presence�**
+**Note: Remember to collect evidence and document every step of the process for your refund request.**
+## **1. Gathering Evidence of Bed Bug Presence**
 The first and most crucial step in securing a refund for a bed bug infestation is gathering concrete evidence. Bed bugs are notorious for their ability to hide in various nooks and crannies within a hotel room.
 To effectively document their presence, follow these steps as outlined in
 [bedbugreports.com](https://bedbugreports.com/)

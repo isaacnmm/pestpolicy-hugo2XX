@@ -18,9 +18,9 @@ Do water purification tablets kill viruses? Water
 [purification tablets](https://upurifywater.com/best-water-purification-tablets/)
 release free chlorine into the dirty water to kill pathogens, just like municipal water treatment.
 *In summary, water purification tablets with chlorine dioxide will kill micro-organisms like cryptosporidium, bacteria, and viruses. But are the [tablet](https://pestpolicy.com/best-laptop-tablet-combo/) safe? *
-*The tablets will be safe or used by human beings in the purification process - kill dangerous micro-organisms and treat the water. But store the tablets well as recommended by the manufactures to avoid damage or poisoning.�*
+*The tablets will be safe or used by human beings in the purification process - kill dangerous micro-organisms and treat the water. But store the tablets well as recommended by the manufactures to avoid damage or poisoning.*
 Read Also:
-H0w to Use�Dawn Dish Soap for Fleas?
+H0w to UseDawn Dish Soap for Fleas?
 
 ## Do Water Purification Tablets Kill Viruses? 7 Tips
 ### 1. Chlorine Dioxide-Based Purification Tablets
@@ -52,7 +52,7 @@ The Chlorine dioxide and iodine chemical used in these tablets will readily kill
 Further, water purification using the tablets also
 [kill weeds in your flower bed](https://pestpolicy.com/best-weed-killers-for-flower-beds/)
 since they have chlorine and iodine as their main active ingredients - so that other micro-organism won't grow in the water or its surroundings.
-### 3. Great for�Emergency - Purify andKill Viruses
+### 3. Great forEmergency - Purify andKill Viruses
 If you need to kill pathogens and viruses in your water during disasters such as hurricanes or floods, water purification tablets will come in handy. In such disaster cases, it's usually a challenge to get clean and purified water.
 The tablets are portable and simple to carry around, making it easy to ship them to disaster-prone areas. Further, the tablets will kill viruses and purify even pond or well water to make it ready for human beings' drinking.
 Read Also:

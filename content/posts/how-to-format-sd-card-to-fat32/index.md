@@ -38,7 +38,7 @@ Note that SDFormatter will not format your SD card whose capacity is bigger than
 [fat32format](http://www.ridgecrop.demon.co.uk/index.htm?guiformat.htm)
 . Other options of the FAT32 Format tool, but not so easy to use, are
 [EaseUS Partition](http://www.easeus.com/partition-manager/epm-free.html)
-or�the
+orthe
 [MiniTool Partition Wizard](http://www.minitool.com/partition-manager/partition-wizard-home.html)
 .
 1. Download the FAT32 Format tool (guiformat.exe download) by ridgecrop consultants. Run the tool on your computer. Note, you'll not need to install anything!
@@ -80,10 +80,10 @@ Caution: As I have noted above, youll need to back up all the important files an
 5. Check the appearing window and select the FAT32 partition and hit ok
 6. Click Apply to format.
 ## Considerations buy Raspberry Pi 3 SD card
-### **1. SD Class (Class 1 to Class 10)�**
+### **1. SD Class (Class 1 to Class 10)**
 Your cards class will affect the transfer speed and storage of data. For example, class 5 cards will only allow 5 MB/s.
 - Further, you should note that the higher the class number implies that the SD card will perform better in your operation of raspberry pi3.
-### **2. Micro SD storage capacity�**
+### **2. Micro SD storage capacity**
 Despite that you might only require only 4GB to install the Raspbian Lite image, other installations are different.
 - To install Raspbian or NOOBs, your least SD card capacity for microSD should be 8GB.
 - Raspberry Pi 1B+, 2B, and 3B comes with a microSDHC card slot and thus will only allow a maximum of 32GB size SD cards.
@@ -92,7 +92,7 @@ However, there are
 SD cards that will function in the microSDXC cards slot which are larger than 32 GB. All SD cards larger than 32 GB will be formatted to the exFAT filesystem, as noted by the Raspberry Pi foundation, as opposed to the normal FAT32 filesystem.
 ## Conclusion
 Raspberry Pi 3 Model B & Model B+ is only compatible with Micro SD cards.
-- The SD card store data files and enable�Raspberry Pi3 Software�booting.
-In addition, consider purchasing a��cooler and
+- The SD card store data files and enableRaspberry Pi3 Softwarebooting.
+In addition, consider purchasing acooler and
 [power supply](https://pestpolicy.com/best-power-supply-raspberry-pi-3/)
 for the highest efficiency.

@@ -28,7 +28,7 @@ Requirements - Vinegar, soft sponges, water, heating pan, soft cloths, or towels
 best paint stripper for metal
 .
 ### 1. Prepare Vinegar Solution
-The first step is to prepare your vinegar solution for paint removal. Brings about 0.25 of your distilled�vinegar in a safe container to heat. Boils about 0.25 - 1 cup of water and allow it to simmer.
+The first step is to prepare your vinegar solution for paint removal. Brings about 0.25 of your distilledvinegar in a safe container to heat. Boils about 0.25 - 1 cup of water and allow it to simmer.
 Turn off your heat source and bring the vinegar container into the hot water and allow the vinegar to warm appropriately. Also, you may heat the vinegar by putting using a microwaveable bowl in your microwave oven.
 ### 2. Soak Swabs in Vinegar
 Now, dip some cotton swap into your vinegar. However, ensure cut the vinegar moisture in the swab by squeezing it between the fingers.
@@ -43,7 +43,7 @@ The warm vinegar will easily soak your identified paint for the time allowed to 
 best paint stripper for wood
 .
 ### 4. Finally, Scrape off your Paint
-So, once the paint is fully soaked in the hot vinegar its time to physically remove it from your surfaces like glass or doors.�So, simply use a stiff credit card or rubber spatula to scrape off of gently flick the paint from the various surfaces.
+So, once the paint is fully soaked in the hot vinegar its time to physically remove it from your surfaces like glass or doors.So, simply use a stiff credit card or rubber spatula to scrape off of gently flick the paint from the various surfaces.
 Ensure that apply to apply just gentle or light pressure while doing some quick motions so that you won't significantly scratch the surface finishes. However, you may soak more vinegar in the swab if the paint proves stubborn resisting removal.
 So, the hot vinegar serves to loosen the paint - and thus all you'll have to do finally is to wipe off the damped paint using some cloth or rubber spatula.
 https://www.youtube.com/watch?v=QXOCZMjTRq0

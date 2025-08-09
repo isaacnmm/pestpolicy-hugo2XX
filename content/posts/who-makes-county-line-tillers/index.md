@@ -16,8 +16,8 @@ layout: post
 Many of the tractor Implements we use to break or till our land or lawns are manufactured in the US.
 Finish mowers
 and [tillers](https://pestpolicy.com/best-electric-tiller-for-clay-soil/) are mainly manufactured in Italy.
-- Well, some wheels, ripper teeth, cutting edges, blades, gears, gearboxes, steel are made in China. But,*who makes county line tillers?�*
-**Simple answer - county line tillers are manufactured by King Kutter - great for the yard, garden, or raised beds. Its a private label for TSC. In fact, you'll notice the King Kutter phone number stuck on the implement.�**
+- Well, some wheels, ripper teeth, cutting edges, blades, gears, gearboxes, steel are made in China. But,*who makes county line tillers?*
+**Simple answer - county line tillers are manufactured by King Kutter - great for the yard, garden, or raised beds. Its a private label for TSC. In fact, you'll notice the King Kutter phone number stuck on the implement.**
 ## Details: Who Makes County Line Tillers?
 Well, CountyLine Rotary Tiller is an excellent
 [garden cultivator](https://pestpolicy.com/best-garden-tiller-for-a-woman/)

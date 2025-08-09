@@ -30,7 +30,7 @@ This is a simple and standard yard mower.
 It has an Auto-Choke OHV engine that's 382cc that'll easily achieve a mowing speed of 4.25 MPH. Luckily, the
 Troy-Bilt 382cc comes with its powerful 6-speed transmission.
 The mowers's size makes it work great as a walk-behind mower plus also like a riding mower. Its rear wheels are 166.5 while it has a 135 inches in its front wheels. Thus, it'll be easy take narrow turns with the turning radius of 18 inches.
-But the machines' PTO is controlled manually� and thus its blade engagement will be challenging and slow. Further, the fuel tank is 1.3-gallon in capacity and luckily it has gas level sight window.
+But the machines' PTO is controlled manually and thus its blade engagement will be challenging and slow. Further, the fuel tank is 1.3-gallon in capacity and luckily it has gas level sight window.
 Pros:
 - Convenient turn radius that measures 18 inches.
 - Has an adjustable blade that allow an adjustable mowing blade height.
@@ -70,7 +70,7 @@ Cons:
 
 ### [3. Poulan Pro PP155H42 (15.5 HP) Gas Riding Lawn Mower](https://www.amazon.com/dp/B019F8TWB0/?tag=p-policy-20)
 Poulan Pro PP155H42 is a great competitor among top lawn mowers for hilly terrain. Luckily, the mower has adjustable six heights for cleaner mowing. You'll find the mower's air filter to be simple to maintain and clean.
-The machine has an oscillating deck that's 42-inches wide and thus the mower won't lose maneuverability.� It'll give you 16HP that's adequate to mow yards in up hills.
+The machine has an oscillating deck that's 42-inches wide and thus the mower won't lose maneuverability. It'll give you 16HP that's adequate to mow yards in up hills.
 Poulan Pro PP155H42 is easy to drive plus you'll love its hydrostatic transmission that's automatic and you won't have to worry about gears or clutch.
 The large mower competes favorably on price and performance with the Husqvarna models. You'll get very high torque for mowing from the machine's V-twin engine (16 hp).
 But the mower has reverse speed that's very fast, small wheels, and its gas tank is equally small (about 2.5 gallons) and thus may require refilling for long distances of towing or mowing.
@@ -93,14 +93,14 @@ So, regardless if you're
 [mowing a huge property](https://pestpolicy.com/best-lawn-mower-for-large-yard/)
 or smaller yard you'll need high quality lawn mowers. So, below are the considerations to make when choosing your mower.
 
-### 1.**Engine Horsepower (HP)�**
-Most riding lawn mowers tend have and engine power of 13 - 30 horsepower as they're generally heavier and bigger compared to Rotary walk-behinds that have 2-7�horsepower.
+### 1.**Engine Horsepower (HP)**
+Most riding lawn mowers tend have and engine power of 13 - 30 horsepower as they're generally heavier and bigger compared to Rotary walk-behinds that have 2-7horsepower.
 The
 [lawn mower horsepower](https://www.hunker.com/13405208/how-to-get-more-hp-out-of-a-lawn-mower-engine)
 denotes the amount of engine power that your mower will provide for your mowing tasks - particularly in its transmission and the grass-cutting blades.
 ### 2. Engine Torque
-This describes the force that'll keep the blades in the riding lawn mower spinning - its outlined as foot-pounds (ft-lbs).�Go for a riding mower that has higher torque since it'll cut the tick and tall grass more easily.
+This describes the force that'll keep the blades in the riding lawn mower spinning - its outlined as foot-pounds (ft-lbs).Go for a riding mower that has higher torque since it'll cut the tick and tall grass more easily.
 Further, choose a mower with more blades as it'll give you a better cut width. Riding lawn mowers have 10.5 - 26.0 ft-lbs in torque while the walk-behind mowers will have 4.50 - 8.75 ft-lbs.
-### 3.**Engine Displacement�**
+### 3.**Engine Displacement**
 Engine displacement denotes the engine's cylinder size - which is outlined in cubic centimeters (cc). A higher engine displacement translates to more engine and mower power.
 Further, consider the mowers turning radius as this affects how tightly the machine with turn. So, choose a mower that has a small turning radius because this will allow you to make sharp turns.

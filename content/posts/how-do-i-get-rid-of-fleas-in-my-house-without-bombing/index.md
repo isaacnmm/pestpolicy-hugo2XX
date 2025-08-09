@@ -18,7 +18,7 @@ The Pyrethrins in the flea spray kill the adult [fleas](https://pestpolicy.com/c
 - An IGR in Ultracide-flea, the pyriproxyfen, will stop various biological triggers, making the flea evolve to its next life cycle stage.
 On how do I get [rid](https://pestpolicy.com/getting-rid-of-fleas-in-the-carpet/) of fleas in my house without
 bombing
-; check the detailed explanation below. These are the�flea fogger or flea bomb alternatives.
+; check the detailed explanation below. These are theflea fogger or flea bomb alternatives.
 
 ## **1. Pesticide Sprays**
 Pesticide sprays kill fleas and are suitable for home use. Watch out for ingredients like resmethrin & permethrin - unsuitable for

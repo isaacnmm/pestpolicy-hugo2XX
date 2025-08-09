@@ -15,7 +15,7 @@ tags:
 - field
 layout: post
 ---
-Few things are as frustrating for a gardener or homeowner as discovering inexplicable damage to plants, trees, or lawn, only to realize the culprits are small, unassuming rodents. Often mistaken for moles or mice, voles � commonly referred to as field mice � are a pervasive nuisance that can wreak havoc on a landscape with their voracious appetites and tunneling habits. Unlike moles that feed on insects, voles are primarily herbivores, making a direct assault on the very plants you cherish.
+Few things are as frustrating for a gardener or homeowner as discovering inexplicable damage to plants, trees, or lawn, only to realize the culprits are small, unassuming rodents. Often mistaken for moles or mice, voles  commonly referred to as field mice  are a pervasive nuisance that can wreak havoc on a landscape with their voracious appetites and tunneling habits. Unlike moles that feed on insects, voles are primarily herbivores, making a direct assault on the very plants you cherish.
 
 From gnawing on the bark of young trees to decimating garden crops and creating unsightly surface tunnels in your lawn, vole damage can be extensive and demoralizing. Understanding these elusive creatures, recognizing the distinct signs of their activity, and implementing targeted control strategies are crucial steps in protecting your yard and garden. This guide will provide comprehensive insights into identifying voles and the damage they cause, along with a range of effective methods to control their populations and mitigate their impact.
 

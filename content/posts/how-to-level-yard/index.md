@@ -18,7 +18,7 @@ An uneven yard, characterized by dips, bumps, and improper slopes, is more than 
 
 Leveling a yard can range from a simple top-dressing project for a slightly bumpy lawn to extensive regrading for severe drainage issues. The approach you take will depend on the severity of the problem and the desired outcome. This guide will walk you through the essential tools, techniques, and considerations for effectively leveling your yard, helping you understand why this task is important and how to tackle it safely and efficiently.
 
-## The Tools You�ll Need to Level a Yard
+## The Tools Youll Need to Level a Yard
 
 Having the right tools is essential for an efficient and effective yard leveling project. The specific tools will vary slightly depending on the scale and method of leveling you choose, but here's a comprehensive list:
 

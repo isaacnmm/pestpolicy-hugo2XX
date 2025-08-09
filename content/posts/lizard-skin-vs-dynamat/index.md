@@ -36,13 +36,13 @@ Even though the amount of work it takes to apply it is minimal, it still needs e
 Application on small surfaces is not too much of a hassle, but larger surfaces are a bit trickier. It is not capable of covering the cars whole surface. You will most probably need a professional to apply it for you, and this will end up costing you more.
 ### Advantages of using Lizard Skin.
 The sound deadening abilities of the lizard skin spray are not bad, and many of the reviews from people who have tried it so far are good.
-Application of the lizard skin spray is not hard; you can do it by yourself and in quite a small amount of time too.�No parts are left unsprayed when you use lizard skin, so you are assured of full coverage.
+Application of the lizard skin spray is not hard; you can do it by yourself and in quite a small amount of time too.No parts are left unsprayed when you use lizard skin, so you are assured of full coverage.
 Using the Dynamat, as earlier mentioned, involves risking trapping of moisture, causing air bubbles. You do not run this risk with Lizard Spray since it is a spray and not a mat.
 You will not risk any injury during application since it does not involve any cutting. Even if you hire a professional to spray it on for you, you still will end up paying a cheaper cost as compared to Dynamat.
 Read Also:
 Headphones for Music Production
 ### Disadvantages of using Lizard Spray.
-Just like any other spraying process, things can get messy and all over if you do not exercise caution.�Lizard spray completely sticks on, so make sure you are super careful with your car paint.
+Just like any other spraying process, things can get messy and all over if you do not exercise caution.Lizard spray completely sticks on, so make sure you are super careful with your car paint.
 Even though application seems more comfortable as compared to Dynamat, it would still be highly recommended to get a professional to execute it for you, unless you are one and have done it before.
 It may be cheaper than Dynamat, but that still does not make it super affordable. Prepare your coins. Read Also:
 Camera for Concerts

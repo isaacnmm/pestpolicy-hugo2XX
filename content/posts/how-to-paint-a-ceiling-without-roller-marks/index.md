@@ -16,15 +16,15 @@ layout: post
 Perhaps you have come across a [ceiling](https://pestpolicy.com/do-you-need-to-backroll-after-spraying-ceiling/) with roller marks and wonder how to eliminate them when painting, and you're wondering how to
 [beautify your room](https://www.forbes.com/sites/houzz/2014/10/21/10-tips-to-make-a-small-bedroom-look-great/)
 .
-*On how to paint the ceiling without roller marks - to achieve that beautiful room look - undertake great surface preparation/ cleaning, painting tools selection, paint selection/preparation, actual painting, and paint finish techniques.�*
+*On how to paint the ceiling without roller marks - to achieve that beautiful room look - undertake great surface preparation/ cleaning, painting tools selection, paint selection/preparation, actual painting, and paint finish techniques.*
 
-*Moreover, the individual procedures for painting the ceiling must be adhered to as per the given instructions without overlooking precautions and safety measures associated with paint application.�*
+*Moreover, the individual procedures for painting the ceiling must be adhered to as per the given instructions without overlooking precautions and safety measures associated with paint application.*
 > See Also:
 > Bathroom Ceiling Paint to Prevent Mold
 ## Details: How To Paint A Ceiling Without Roller Marks
 It will help if you have paint removers when painting to correct any errors during application.
 ### a. Painting tools selection
-Tool selection is the most critical step in achieving quality finish when painting since tools determine the paint pick-up and release effectiveness.�Ensure to remove all excess paint from the roller as you're
+Tool selection is the most critical step in achieving quality finish when painting since tools determine the paint pick-up and release effectiveness.Ensure to remove all excess paint from the roller as you're
 putting the paint roller
 to get different paint. When painting, you will need some of the following devices for tools/items in place:
 - [Stand-alone](https://www.amazon.com/dp/B002AAZGQG/?tag=p-policy-20)ladder and paint tape
@@ -84,7 +84,7 @@ an airless sprayer
 https://www.youtube.com/watch?v=7uYMSxBh_Ro
 **5. Use a thin roller nap**
 The thickness of the roller nap should be as minimal as possible. Thicker roller nap produces a sloppier paint layer that is thick and ugly stipple. Indeed, a thick roller nap creates conspicuous roller marks that are more tedious to smoothen with a paintbrush.
-Consider buying a�  roller nap with fine finish material and perfectly trimmed to prevent side paint release when painting.
+Consider buying a  roller nap with fine finish material and perfectly trimmed to prevent side paint release when painting.
 **6. Rolling technique**
 When paint rolling, move your paint loaded roller in one direction of the ceiling continuously. Then, change the direction of rolling  the opposite direction. These rolling techniques help eliminate roller marks that may have been formed before drying out (for fast drying paints).
 Typically, the first coat should be rolled in one direction while the other takes the other rolling direction. Do not over press the roller on the ceiling when roll painting (may cause roller marks)  high-quality paint should stick instantly upon contacting the ceiling's primary surface.
@@ -147,7 +147,7 @@ You will need to identify the section with roller marks and scrap it off gently 
 ### b. Prime The Clean Area
 Primer is usually applied for the porous ceiling and new drywall ceiling to improve stickiness strength. Besides, some water-based paint will always need a primer (as per the manufacturers instructions) before the actual application.
 ### c. Prepare the paint and apply
-Dilute or thin paint appropriately and apply gently using a soft paintbrush or a roller on the cleaned section. To achieve the best finish result, use the paint sprayer instead  the sprayed paint perfectly merges with the adjacent old paint layer without any roller marks.�Leave the painted surface to cure naturally.
+Dilute or thin paint appropriately and apply gently using a soft paintbrush or a roller on the cleaned section. To achieve the best finish result, use the paint sprayer instead  the sprayed paint perfectly merges with the adjacent old paint layer without any roller marks.Leave the painted surface to cure naturally.
 ## Conclusion
 Roller marks are common problems experienced when painting a ceiling. Suppose you want to succeed in painting a ceiling without roller marks?
 In that case, you will have to consider the following step appropriately: surface preparation/cleaning, painting tools selection, paint preparation, actual painting, and paint finish techniques keenly.

@@ -69,4 +69,4 @@ The recliner has a contemporary style with the soft mocha beige that will feel s
 ## Conclusion
 In this article, I outlined the best recliner for tall people, analyzing size, weight limit, and comfort.
 - Recliners can be frustrating to find the match for your height and weight limit. However, we have outlined the best that would be best for the tall and big person.
-Pick one of them and check its features to determine if it will serve you well.�Happy shopping!
+Pick one of them and check its features to determine if it will serve you well.Happy shopping!

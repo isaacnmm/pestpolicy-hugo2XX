@@ -18,7 +18,7 @@ The legs of [fleas](https://pestpolicy.com/can-fleas-bite-through-clothes/) have
 dogs
 , and even humans.
 **Why do [flea](https://pestpolicy.com/do-fleas-bite-humans/) bites itch? Well, fleas will bite humans and pets where they'll secrete some saliva into the blood - which the host's body and blood take as an allergen. **
-**The immune system will send histamine to counter the allergen (flea saliva) and thus the chemical triggers itching and swelling.�**
+**The immune system will send histamine to counter the allergen (flea saliva) and thus the chemical triggers itching and swelling.**
 ## Details: Why Do Flea Bites Itch?
 The flea saliva will be taken like an allergen triggering your immune systems to release histamine that will irritate your skin and trigger itching.
 But how will flea bites appear on humans? You'll notice the flea bites are discolored, small bumps that could be in the form of a cluster or line.
@@ -56,7 +56,7 @@ Although some DIY fleabites treatment options could work well, you should counse
 - Presing ice packs on a flea bite (or any skin locations) will cut the blood volume that flows to that location. This reduced blood will reduce itchiness, swelling, inflammation, and pain.
 - You should cover that ice pack with a light towel before placing it on the flea bite for about 10 minutes - this will provide excellent relief.
 Use the ice pack or some towel-wrapped frozen vegetables wrapped to help ease the skin numbness, relieve swelling, and soothe your skin irritation.
-**4. Oatmeal -�**
+**4. Oatmeal -**
 Oat flakes and oatmeal have long been used for soothing itching, rashes, and skin irritation - and it'll be helpful with flea bites.
 - You can use a number of products that contact oat flakes or oatmeal; these include products like shampoo, body wash, and lotion.
 Otherwise, for oatmeal, mix some warm water with 1-2 tablespoons of the oatmeal before soaking your lower legs or feet in that solution for about fifteen minutes.
@@ -64,10 +64,10 @@ Otherwise, for oatmeal, mix some warm water with 1-2 tablespoons of the oatmeal 
 - Then create some sticky (thick) oatmeal mixed with water and the colloidal oatmeal.
 - Finally, cover the flea bites using the colloidal oatmeal mixture - and allow about ten minutes before wiping off that oatmeal mixture from the flea bite.
 **5. Aloe vera**
--�Aloe vera is widely used as a DIY treatment for sunburns but it's also an important remedy to treat flea bites.
+-Aloe vera is widely used as a DIY treatment for sunburns but it's also an important remedy to treat flea bites.
 - You'll simply apply the alow vera gel onto the flea bite to ease the discomfort, itchiness, and redness.
 The succulent Aloe vera gel has salicylic acid - this is what will reduce pain and itchiness when applied on the flea bite.
-**6.�Honey**
+**6.Honey**
 - Honey is also a popular product in DIY remedies and it has antimicrobial properties that will help ease pain and itching.
 - The catalase enzyme in the hone will help ease the pain and skin inflammation.
 I recommend using unprocessed honey onto the flea bite - and you may put some bandage on the flea bite as not doing it may cause messy stickiness.

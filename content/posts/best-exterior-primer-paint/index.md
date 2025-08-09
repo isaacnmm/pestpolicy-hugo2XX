@@ -179,7 +179,7 @@ Cons:
 
 > See Also:
 > [Gold Paint for Wood ed](https://pestpolicy.com/best-gold-paint-for-wood/)
-### [7. Rust-Oleum 8781502 �Flat Aluminum Primer](https://www.amazon.com/dp/B000C018C2/?tag=p-policy-20)
+### [7. Rust-Oleum 8781502 Flat Aluminum Primer](https://www.amazon.com/dp/B000C018C2/?tag=p-policy-20)
 Rust-Oleum 8781502 is a latex primer that features highly refined aluminum grains integration, which coats metal surfaces excellently without dripping. The solvent is formulated with self-activating catalysts that quicken stickiness action and eliminate blisters formation.
 
 Consider Rust-Oleum 8781502 when painting all exterior metal surfaces (especially galvanized surface) since the primer forms a tough, resilient coat layer that is waterproof and long-lasting on single coat application.

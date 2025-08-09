@@ -18,7 +18,7 @@ The first question is, is [borax](https://pestpolicy.com/is-borax-safe-for-cats/
 Borax is a chemical compound (Na2B4O7(OH)410H2O) that has multiple uses in industry, but many people use it as a laundry booster or as an insecticide because of its low toxicity to mammals and birds.
 **But, just how toxic is borax to dogs?**
 - **Dogs are susceptible to borax toxicity at over 0.02 oz per lb of body weight. It will **[**cause clinical signs**](https://onlinelibrary.wiley.com/doi/book/10.1002/9780470699010)** like loss of appetite, retching, diarrhea, vomiting, abdominal pain, anemic skin/ gums, shock, and **[**death**](https://jamanetwork.com/journals/jama/article-abstract/274229)**.**
-- **The dog exposed to borax or boric acid frequently vomits, produces stools with blue-green substance or blood, and becomes lethargic or droopy-eyed.�**
+- **The dog exposed to borax or boric acid frequently vomits, produces stools with blue-green substance or blood, and becomes lethargic or droopy-eyed.**
 
 ## **Is Borax Safe For Dogs?**
 Borax is a chemical compound that can be found at many grocery stores. But the real question is how much borax can a small dog eat before being dangerous?
@@ -58,7 +58,7 @@ Borax poisonings in dogs are a medical emergency and must be addressed immediate
 - Bloody drool and drooling
 - Gastric ulceration
 - Abdominal pain
-The signs of borax poisoning will come up in 2-4 hours�after contact, inhalation, or ingestion. Contact the vet immediately for treatment if you notice such symptoms.
+The signs of borax poisoning will come up in 2-4 hoursafter contact, inhalation, or ingestion. Contact the vet immediately for treatment if you notice such symptoms.
 https://www.youtube.com/watch?v=mh8hXYRWQmM
 ## Causes of Dog Borax Poisoning
 Boron, a naturally occurring element found in a number of products used around the home can have adverse effects on your canine companion.

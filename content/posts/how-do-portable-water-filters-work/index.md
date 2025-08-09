@@ -20,7 +20,7 @@ The methods include water treatment and water filtering including
 to use during camping or exploration missions.
 Water purification will involve passing the water via filters (make from fiberglass or ceramic) that'll remove the soil sediments and other bad microorganisms.
 ## How Do Portable Water Filters Work?
-### **1. Squeeze Filters�**
+### **1. Squeeze Filters**
 Squeeze filters are lightweight, easy to use and hence you can carry them upcountry, camping, or just general road and off-road traveling.
 So, readily filter your water and take safe and clean water with unmatched confidence. Luckily, most can readily fit into your hands - easy to use, and it's highly packable.
 Squeeze filters will mainly consist of pores that are as small as 0.1 microns. They'll come with some printed usage instructions to allow easier operation.
@@ -32,12 +32,12 @@ Squeeze filters work akin to the pump filters but won't need additional housing 
 On operation of the squeeze filters, you'll simply need to squeeze the pouch or bottle and this will make the water move out - hence are good for camping or backpacking.
 Check too:
 Running with Bad Knees (7 key Secretes)
-### **2. Pump Filters�**
+### **2. Pump Filters**
 [Pump water filters](https://ufonline.ufl.edu/infographics/five-water-purification-designs/)
 will utilize your body's energy for pumping out water via the filter. These are excellent for quick water filtration like when you're on camping or exploration missions.
 Considering your pumping energy - you can get clean and safe water within a very short time - buts its filters will age fast and it requires high amounts of energy for the pumping process.
 However, get a pump filter that' easy to use and clean - this enables you to rejuvenate the pump filter within a short time. The pump filters are equally light-weight and easy to use.
-### 3.**Gravity Filters�**
+### 3.**Gravity Filters**
 Gravity filters profit from the force of gravity to get rid of contaminants and sediments in your water. It has 2 chambers - a lower one and a
 mediator
 one that holds
@@ -48,7 +48,7 @@ So, as you camp in the wild, take some dirty water, and simply let it get down t
 Shoes for Heavy Female Runners
 .
 ## Water Treatment
-### **1. Chemicals�**
+### **1. Chemicals**
 Water treatment using various methods like water purification tablets - luckily these will kill micro-organisms including protozoa and bacteria. Those with iodine or chlorine dioxide chemicals.
 Strain the dirty water through a shirt or bandanna to remove the debris and finally pass them through the chemical treatment process to kill micro-organisms like viruses.
 However, chemical water treatment solutions could leave some bad after-taste and may need that you leave the water standing for some time before drinking.

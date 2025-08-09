@@ -141,7 +141,7 @@ Each brush is uniquely crafted to hold more paint and paint smoothly without a d
 [other paintbrushes](https://pestpolicy.com/best-paint-brushes-for-watercolor/)
 .
 The set is versatile because it can accommodate a wide range of paints such as chalk paint, acrylic paint, and water & oil-based paints.
-What's more, they are versatile enough to serve on walls, deck, metal, and other surfaces. Whether you want to apply glue or house d�cor paint, this is the set to buy.
+What's more, they are versatile enough to serve on walls, deck, metal, and other surfaces. Whether you want to apply glue or house dcor paint, this is the set to buy.
 And it doesnt matter whether you are a novice or professional; the Rescare 4psc set poses no challenge at all. The brushes are light and comfortable to hold, making it possible to paint for a longer period without fatigue.
 Pros:
 - Lightweight and easy to use

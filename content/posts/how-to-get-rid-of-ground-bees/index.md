@@ -19,7 +19,7 @@ Have you noticed some conical dirt piles, but similar to anthills, with large op
 Related:
 [Easily Get Rid of Sweat Bees](https://pestpolicy.com/get-rid-sweat-bees/)
 .
-**Wait:�**
+**Wait:**
 Bee stings are feared because they are lethal, and they cause pain. But, do ground bees pose a danger to you, your family, or your pets?
 
 ## Details: How to Get Rid of Ground Bees
@@ -52,8 +52,8 @@ There are many wild and characteristically solitary bees. The wild bees are cons
 ### Size and color of ground bees
 Ground bees have colors ranging from purple, red, blue, yellow, and black. They are about one inch long.
 Ground bees have their mating season between March and May. Female bees in the colony of ground bees function as worker bees. The females dig burrows in the mating season, ready to fill them with eggs and bee bread.
-**Life Saver!!:�**
-**Check a Video on How to Spot Ground Bee Nests�**
+**Life Saver!!:**
+**Check a Video on How to Spot Ground Bee Nests**
 https://www.youtube.com/watch?v=BjWrd0Z8rkw
 ## Are Ground Bees Dangerous?
 Male ground bees like

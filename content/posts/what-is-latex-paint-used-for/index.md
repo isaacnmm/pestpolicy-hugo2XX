@@ -15,7 +15,7 @@ layout: post
 ---
 Various types of paints are manufactured in certain forms and concentrations in order to serve a given purpose. Perhaps you have come across [latex](https://pestpolicy.com/how-to-remove-latex-paint-from-concrete/) in your place and wonder where its best used for. Can latex [paint](https://pestpolicy.com/how-to-remove-latex-paint-from-metal/) be applied to concrete or furniture?
 
-*So, what is latex paint used for? Latex paint can be used on surfaces such as concrete slabs, drywall, concrete blocks, prepped furniture/wood, interior finish, fiberglass surfaces, metallic surfaces, aluminum siding, masonry, art, and craft.�*
+*So, what is latex paint used for? Latex paint can be used on surfaces such as concrete slabs, drywall, concrete blocks, prepped furniture/wood, interior finish, fiberglass surfaces, metallic surfaces, aluminum siding, masonry, art, and craft.*
 *However, the right concentration and proper procedure should be followed when applying latex paint to achieve the best final finish. Otherwise, you may end up experiencing some of the problems associated with latex paint, as highlighted in this article.*
 ## Details: What is Latex Paint Used For?
 ### a. Concrete slabs and concrete blocks
@@ -76,7 +76,7 @@ Latex paint is manufactured in various colors that work incredibly for art and c
 Usually, you will need to prepare the surface ready for artwork appropriately and mix latex paint in the right concentration to achieve the best outlook design.
 NB: Avoid excess dilution or thick coating as it may peel off when abrasive force is directly applied.
 ## What are Major Problems Associated with Latex Paint?
-Latex paint is not only coupled with numerous advantages; it also has some problems that crop up here and there during preparation, application, or final result.�Some of the main problems of latex paint include:
+Latex paint is not only coupled with numerous advantages; it also has some problems that crop up here and there during preparation, application, or final result.Some of the main problems of latex paint include:
 1. **Less durable.**Latex paint defaces (when exposed to direct sun) faster than oil-based paints. Therefore, it requires repetitive painting after a given period to maintain its original stunning outlook.
 2. **Its are packed in large quantities.**Latex paint is manufactured and packed in large quantities, unlike oil-based paint that comes in small containers. The structural formula has less concentration strength, and thus minimal dilution is carried out before painting. Therefore, a large quantity of latex paint is needed to cover a surface area.
 3. **Less elastic or low expansion.**The chemical formula used in the manufacture of latex paint is static and doesnt allow elongation. Therefore, the application is a little bit tedious than oil-based paints.

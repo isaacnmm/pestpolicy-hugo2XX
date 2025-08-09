@@ -23,25 +23,25 @@ carrots
 .
 However, it is crucial to carefully assess the food you offer to these unique and docile reptiles, as some foods may be unsafe for their consumption.
 So, mushrooms: [are](https://pestpolicy.com/are-blue-tailed-lizards-poisonous/) they safe for Bearded Dragons?
-*In summary, it's generally unsafe to feed mushrooms to bearded dragons - despite these bites having essential nutrients.�Although mushrooms have essential nutrients, many varieties, including wild mushrooms, are toxic to reptiles, including bearded dragons.�*
-- *Besides, the consumption of mushrooms can lead to digestive problems or organ failure in bearded dragons due to these bites having high acidity levels and an unbalanced calcium-to-phosphorus ratio.�*
-**Check out these Bearded Dragon Foods.�**
+*In summary, it's generally unsafe to feed mushrooms to bearded dragons - despite these bites having essential nutrients.Although mushrooms have essential nutrients, many varieties, including wild mushrooms, are toxic to reptiles, including bearded dragons.*
+- *Besides, the consumption of mushrooms can lead to digestive problems or organ failure in bearded dragons due to these bites having high acidity levels and an unbalanced calcium-to-phosphorus ratio.*
+**Check out these Bearded Dragon Foods.**
 
-## Risks in Feeding**Mushrooms to ****Bearded Dragons�**
+## Risks in Feeding**Mushrooms to ****Bearded Dragons**
 ### **1. U***nbalanced **calcium-to-phosphorus ratio Causes Bone-related Illnesses*
-The�calcium-to-phosphorus ratio is a critical aspect when analyzing the foods to give your�bearded dragons. Phosphorus has a critical role in cell functioning and energy production. On the other hand, Calcium is required to appropriate metabolic processes, bone development, and muscle function.
+Thecalcium-to-phosphorus ratio is a critical aspect when analyzing the foods to give yourbearded dragons. Phosphorus has a critical role in cell functioning and energy production. On the other hand, Calcium is required to appropriate metabolic processes, bone development, and muscle function.
 However, the calcium-to-phosphorus ratio must be carefully balanced - their diet must contain a high amount of calcium compared to phosphorus.
-- An imbalance where the bearded dragon's diet has more phosphorus (than calcium) leads to lower rates of�calcium absorption and thus may result in diseases like metabolic bone disease (MBD), fractures, deformities, or even brittle bones.
+- An imbalance where the bearded dragon's diet has more phosphorus (than calcium) leads to lower rates ofcalcium absorption and thus may result in diseases like metabolic bone disease (MBD), fractures, deformities, or even brittle bones.
 Bearded dragons require a diet with a calcium-to-phosphorous ratio of 2:1 or 1:1. However, mushrooms have high phosphorus ratios and may lead to bone-related health conditions. For instance, the ratio in portabella mushrooms is 1:16.3 - calcium to phosphorous.
 So, feeding your bearded dragon with mushrooms isnt good for their health. The unbalanced Ca:P ratio in mushrooms interferes with calcium absorption in the beardies body.
 - This results in calcium deficiency which in turn leads to problems such as metabolic bone disease, muscle weakness, and the inability of blood to clot.
 When the amount of phosphorous exceeds calcium, phosphorous reacts with calcium to form calcium phosphate which is difficult to absorb in the gut.
 - Further, experts recommend including more foods that have a balanced calcium-to-phosphorus ratio in the[dragon's diet](https://pestpolicy.com/what-do-bearded-dragons-eat/). Some of these foods are vegetables and calcium-dusted insects.
-### **2. ****Oxalic Acid in Mushrooms Negatively Affects calcium levels�**
+### **2. ****Oxalic Acid in Mushrooms Negatively Affects calcium levels**
 Mushrooms have a considerable amount of oxalic acid - an element that'll negatively affect the levels of calcium that's available in the body of your bearded dragon.
 So, if you feed mushrooms to bearded dragons, the oxalic acid in the food will bind with calcium to create calcium oxalate (CaC2O4)- a compound that is insoluble and indigestible to your bearded dragons.
 - So, binding calcium in an insoluble compound implies that there less calcium will be readily absorbed for proper body functioning in the beaded dragon such as in bone formation - read this may cause calcium deficiency.
-As noted earlier, calcium is a vital nutrient in these reptiles as it helps in enhancing metabolic processes,� nerve transmission, muscle contraction, and making strong bones.
+As noted earlier, calcium is a vital nutrient in these reptiles as it helps in enhancing metabolic processes, nerve transmission, muscle contraction, and making strong bones.
 - To make up for the low calcium levels, the body tends to get calcium from available sources such as bones. This leads to a condition called metabolic bone disease where bones become soft and weak.
 Signs of metabolic bone disease in bearded dragons include deformed limbs, arched spine, limping, bone fracture, and lethargy among others.
 ## Alternatives to Mushrooms
@@ -69,7 +69,7 @@ Some foods under this category include:
 You can supplement calcium for the reptiles through substrates - Experts recommend using some considerable
 substrate
 in the diet of these reptiles to supplement the calcium levels in their food - but this must be done in moderation to avoid impaction or digestive problems.
-## **Mushroom Toxicity for Bearded Dragons�**
+## **Mushroom Toxicity for Bearded Dragons**
 Although some mushrooms are included in the human diet, therere a few species of toxic mushrooms. They are potentially harmful to both humans and animals including bearded dragons when accidentally ingested.
 Out of the common mushroom species, only a few species are lethal. Many others will only lead to noticeable symptoms when ingested by humans or animals.
 - Distinguishing between edible and poisonous mushrooms is extremely difficult because they share a lot of similarities.
@@ -98,11 +98,11 @@ These could be symptoms of Amanita phalloides mushrooms popularly known as death
 **d. Hallucinogenic Syndrome:**
 Though nontoxic the magic mushroom causes hallucinogenic symptoms such as staggering, seizure, depression, muscle problems, or coma in severe cases. Since these mushrooms are illegal, its unlikely to find them in someones yard.
 The only possible place your pet may pick magic mushroom is from the trash. If such symptoms are observed, serious veterinary intervention is required.
-### **2. How to Prevent/Deal with Mushroom Poisoning�**
+### **2. How to Prevent/Deal with Mushroom Poisoning**
 Mushrooms grow anywhere as long as theres high moisture content. They can grow in the yard and damp places like in the garage, or basement.
 When you take your bearded dragon outdoors -
 keep them caged
-, therere chances of ingesting toxic stuff including mushrooms.�Here are tips for preventing/dealing with mushroom poisoning.
+, therere chances of ingesting toxic stuff including mushrooms.Here are tips for preventing/dealing with mushroom poisoning.
 1. Remove any mushrooms that are growing in your home. Common areas to check for mushroom growth include the yard, flower garden, near woodpiles, outdoor water points, and so on.
 2. Ensure your bearded dragon does not stray to the garden or yard.
 3. If you cannot immediately identify a mushroom, treat it as toxic. Therefore, you should contact your vet in case of suspected mushroom ingestion.

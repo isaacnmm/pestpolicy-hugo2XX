@@ -15,7 +15,7 @@ tags:
 - false
 layout: post
 ---
-For many homeowners, a lush, green lawn is a point of pride, a beautiful backdrop for outdoor living. However, this verdant carpet can quickly become a patchwork of yellow spots, divots, and worn paths when active dogs are in the picture. While our beloved canine companions bring joy to our lives, their natural behaviors � from urinating and defecating to digging and running � can pose significant challenges to maintaining a healthy and attractive lawn.
+For many homeowners, a lush, green lawn is a point of pride, a beautiful backdrop for outdoor living. However, this verdant carpet can quickly become a patchwork of yellow spots, divots, and worn paths when active dogs are in the picture. While our beloved canine companions bring joy to our lives, their natural behaviors  from urinating and defecating to digging and running  can pose significant challenges to maintaining a healthy and attractive lawn.
 
 The damage caused by dogs is not merely cosmetic; concentrated urine can scorch grass, digging can destroy root systems, and repetitive traffic can compact soil and create bare spots. Whether you're dealing with your own playful pup or neighborhood dogs frequently visiting your property, finding effective and humane ways to deter them is essential for preserving your green oasis. This guide will explore the various ways dogs impact your lawn, offer a range of solutions from commercial and DIY repellents to physical barriers and [dog](https://pestpolicy.com/best-dog-backpack-carrier-for-hiking/)-repelling plants, and delve into training strategies to encourage more desirable behavior, ultimately helping you achieve a harmonious balance between pet ownership and lawn care.
 
@@ -76,7 +76,7 @@ Incorporating certain plants into your landscaping can act as a natural, living 
 2.  **Rue:** A perennial herb with a strong, unpleasant aroma that many dogs dislike. It can cause skin irritation in some people, so handle with gloves.
 3.  **Lavender:** While pleasant to humans, its strong essential oil scent can be a deterrent to dogs when planted in dense borders.
 4.  **Prickly Plants:** Planting thorny or spiky shrubs along your lawn's edge can create a physical barrier that dogs won't want to cross. Examples include barberry, roses (with caution for thorns), or juniper.
-5.  **Hot Pepper Plants:** Growing hot peppers (like cayenne or jalape�o) in pots around sensitive areas can deter some curious dogs due to the capsaicin, but ensure the dogs don't actually eat the peppers.
+5.  **Hot Pepper Plants:** Growing hot peppers (like cayenne or jalapeo) in pots around sensitive areas can deter some curious dogs due to the capsaicin, but ensure the dogs don't actually eat the peppers.
 
 **Strategic Planting:** Create dense borders or hedges with these plants around your lawn or garden beds to form a deterrent zone.
 

@@ -33,7 +33,7 @@ On the other hand, your waling shoe must not come with a flared heel. Notably, a
 Compared to walkers - as a heavy female runner  youll require extra cushioning in your footwear,
 compression socks,
 and the best athletic shoes for lower back pain. Recent research shows that runners create an impact of over 3 times their body weight when running  which if not appropriately harnessed could lead to shock on your joints and muscles.
-Therefore, as an overweight runner, youll require additional cushioning on the forefront and shoe heel compared to the walkers.�Walkers must go for light footwear that has enough cushioning to avoid excessive shock on the legs and feet.
+Therefore, as an overweight runner, youll require additional cushioning on the forefront and shoe heel compared to the walkers.Walkers must go for light footwear that has enough cushioning to avoid excessive shock on the legs and feet.
 ### Flexible and Breathable
 Truth be told, both walking and running footwear must be flexible. To determine whether your shoe is flexible, youll need to press down using the shoes toe and note the point where itll bend.
 Many of the available runners shoes will flex at the midfoot or arch. However, other models will flex at your forefoot. Such variations are aimed to match varied foot strike needs of different runners.

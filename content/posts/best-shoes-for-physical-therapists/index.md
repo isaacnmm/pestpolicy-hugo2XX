@@ -47,7 +47,7 @@ Dansko Women's Professional Leather is the best shoes for physical therapists. T
 
 The Heel measures about 1.5 inches" which is ideal heel height for all-day walking or standing. The upper of this shoe is high-quality leather that adapts to the natural shape of the wearer's foot for a more comfortable and improved wear experience.
 
-The forefoot section of Danko features a Thermoplastic toe box that acts as a protective barrier for toes and provides durable reinforcement allowing your toes to move naturally for added comfort. �The PVC inner frame delivers crucial stability and helps to alleviate pronation and tortue.
+The forefoot section of Danko features a Thermoplastic toe box that acts as a protective barrier for toes and provides durable reinforcement allowing your toes to move naturally for added comfort. The PVC inner frame delivers crucial stability and helps to alleviate pronation and tortue.
 
 The shoe also has a Polyethylene heel counter, which is a protective element that allows the natural movement of heels while walking. The heel counter also works as a natural shoehorn while offering lateral stability to the foot.
 
@@ -148,14 +148,14 @@ Pros:
 Cons:
 - Some customers complained that the toe box is not wide enough
 
-### [7. Prop�t Men's LifeWalker Strap Walking Shoe](https://www.amazon.com/dp/B000BVZNUK/?tag=p-policy-20)
-Prop�t Men's Life Walker provides a supportive and comfortable walking or standing companion. The shoe one of the best for a physical therapist who spends long hours on their feet attending to patients.
+### [7. Propt Men's LifeWalker Strap Walking Shoe](https://www.amazon.com/dp/B000BVZNUK/?tag=p-policy-20)
+Propt Men's Life Walker provides a supportive and comfortable walking or standing companion. The shoe one of the best for a physical therapist who spends long hours on their feet attending to patients.
 
 The shoe has a rubber outsole that provides protection against abrasion. The herringbone tread pattern on the outsole delivers reliable traction on various surfaces. The removable orthotic insert provides extra comfort and support. You can also use custom-made orthotics for extra support.
 
 The Propet Life Walker Strap features a full-grain leather upper. The leather provides a soft and supportive covering helping to hold the foot securely in place. This material also has small pores that allow the flow of air into the shoes.
 
-The padded collar and tongue ensure extra comfort.� The nylon material on the interior provides a soft in-shoe feeling. The straps ensure your feet have a secure lockdown.
+The padded collar and tongue ensure extra comfort. The nylon material on the interior provides a soft in-shoe feeling. The straps ensure your feet have a secure lockdown.
 
 The midsole features EVA foam, which is a cushioning unit that facilitates smooth heel to toe transition. The EVA absorbs shock, helping to protect the underfoot against hard ground impact.
 

@@ -23,7 +23,7 @@ bed bugs
 climb metal? Also, check our
 [list of ultimate drain cleaners](https://pestpolicy.com/best-drain-cleaner//)
 as bed bugs can again come into your house through dirty drains.
-## So,�Can bed bugs climb metal or plastic?
+## So,Can bed bugs climb metal or plastic?
 Bedbugs are very agile creatures that
 [can climb any surface](https://njaes.rutgers.edu/fs1251/)
 , so long as it has the right texture. Any surface that allows them some level of traction will be scaled with ease.

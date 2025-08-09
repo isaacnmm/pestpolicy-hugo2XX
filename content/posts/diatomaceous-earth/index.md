@@ -34,14 +34,14 @@ Silicon dioxide has two naturally occurring forms, namely crystalline silicon di
 ## **Chemical formula:**SiO2.
 ### 1. Crystalline Silicon dioxide
 It is mostly found in sand, quartz, and emerald, amongst others. Breathing crystalline silicon dioxide causes silicosis, lung cancer, chronic bronchitis, and other respiratory problems.
-**Appearance: �**
+**Appearance: **
 crystalline Silicon dioxide is transparent to gray odorless powder.
 It has an irritating effect on the skin and eyes once it is in contact with you.
 ### 2. Amorphous Silicon dioxide
 Amorphous means without shape. The structure of amorphous silicon dioxide is loose and without shape.
 Also called Silica gel is a powdery form of Silicon dioxide. It is highly adsorbent, i.e., it can remove material such as water, ammonia, and other gases from the air. Most Diatomaceous earth is made up of amorphous silicon dioxide.
 Breathing amorphous does not cause any severe health issues in your respiratory tract.
-## Diatomaceous earth Food grade� vs. Filter grade diatomaceous earth
+## Diatomaceous earth Food grade vs. Filter grade diatomaceous earth
 Diatomaceous earth has two main forms, namely food grade diatomaceous earth and filter grade diatomaceous earth.
 Food grade diatomaceous earth has been approved for human and pet consumption, while filter grade diatomaceous earth is used for water filtration and dynamite production.
 Food grade diatomaceous earth is also used as a pesticide and an insecticide. When ingested by either you or your pets, it kills worms. Food grade diatomaceous earth gets rid of fleas, roaches, bugs,
@@ -79,7 +79,7 @@ If you look at diatomaceous earth under a microscope, you will realize it has sh
 ### 5. Water Filtration
 Filter grade Diatomaceous earth is used to filter
 water and other fluids to kill viruses
-and�bacteria and remove heavy metal toxins.
+andbacteria and remove heavy metal toxins.
 - Chicken feed and other animals
 Feeding your chickens with Diatomaceous earth leads to the production of stronger eggs. This is attributed to calcium from the diatomaceous earth.
 For other animals, Diatomaceous earth kills parasites and pests.
@@ -101,7 +101,7 @@ There are two ways of getting rid of ants using
 1. Pest grade Diatomaceous Earth
 2. The applicator of your own choice
 Dry application method
-- Step 1- Identify areas where you have seen ants crawling and spot any places that might be the ants' entry points; if*�the ants are moving across a large flat area, use the wet application. If the ants are moving along edges, cracks, baseboards, and window sills, use the dry application method.�*
+- Step 1- Identify areas where you have seen ants crawling and spot any places that might be the ants' entry points; if*the ants are moving across a large flat area, use the wet application. If the ants are moving along edges, cracks, baseboards, and window sills, use the dry application method.*
 - Step 2- Use a duster to apply Diatomaceous Earth to the edges, behind baseboards, and other places you will find hard to reach. Use a flour sifter to apply to larger problem areas, and remember to apply to the windows and doors where you have spotted ants.
 - Step 3- Once you apply Diatomaceous Earth to the affected parts, ants will want to find alternative routes and paths to watch out for them. Apply Diatomaceous Earth to the new paths. Clean off the areas you applied Diatomaceous Earth after a month as you pay more focus on entry spots for the ants to prevent future entry.
 Wet application method
@@ -109,7 +109,7 @@ Wet application method
 - Step 2- Fill a spray bottle with the Diatomaceous Earth mixture to target larger areas such as walls where you spotted ants. This method works when the water evaporates.
 - Step 3- Take note of alternative routes taken by theants after sprayingand spray again. Clean off the applied surfaces after some time as focusing more on entry spots for the ants to prevent future entry.
 ## 1. Diatomaceous Earth**Roaches**
-Roaches are a nuisance in the home. From the smell they cause to the scares to the infections they can cause, these insects are a real menace. Of the organic methods available, Diatomaceous Earth is actually the most effective method.� Better still, its a natural method hence no toxicity ensuring safety for you and your family.
+Roaches are a nuisance in the home. From the smell they cause to the scares to the infections they can cause, these insects are a real menace. Of the organic methods available, Diatomaceous Earth is actually the most effective method. Better still, its a natural method hence no toxicity ensuring safety for you and your family.
 The following are the steps to be followed when using Diatomaceous Earth to eliminate roaches in your home.
 - Step 1- Clean Ensure your house is clean. Vacuum all places; food remains should be disposed of, behind furniture. Cleanliness is itself enough remedy for roaches.
 - Step 2- Ensure that all areas are for the application of Diatomaceous Earth are dry. Diatomaceous Earth is more effective when dry, and the surface is dry. Seal any cracks that may leak any water or moisture.

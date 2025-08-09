@@ -48,7 +48,7 @@ Once you cut the branch down, then you need to hope that it falls exactly where 
 If you have been successful until now, then this past is the last part of the method. Once the nest falls in the bag, you need to tie it hard.
 The ending part is your choice, whether you want to dispose of it or burn it away. Anyway, it will do the job just fine.
 ## Where Are Hornet Nests Located?
-*�*
+**
 *The most important thing to know to dispose of these nests is to find about their location and existence.*
 A hornet nest generally looks like a paper or mud-like construction, mostly in the shape of a pine cone, mass lump, or like an upside-down apiary.
 Hornets usually search for a sheltered location to make their nest - G

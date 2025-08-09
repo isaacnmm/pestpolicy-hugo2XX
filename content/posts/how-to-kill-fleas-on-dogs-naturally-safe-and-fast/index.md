@@ -73,7 +73,7 @@ effective in flea control
 Borax will kill fleas
 by incising the bugs exoskeleton and dehydrating their body hence killing them. Despite that, borax is great in killing flea larvae, too; it does not
 eliminate flea eggs on cats and dogs
-but�can be
+butcan be
 mixed to create a spray for yard flea spray
 .
 **Caution**

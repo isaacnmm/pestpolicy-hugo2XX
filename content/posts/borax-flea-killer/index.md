@@ -22,17 +22,17 @@ Well, it's
 budget-friendly, effective, all-natural treatment, and safe around kids, cats, and dogs.
 - The Borax in your laundry room provides a safer way to control fleas - without using harsh chemicals.
 - Borax can help homeowners control flea problems in and around our homes - includingflea eggs?. Let's find out!
-*In summary, Borax will kill both adult fleas plus other insects that feed on plant juices and animal and human blood. But Borax won't kill immature insects, including. Though, you must note that are differences between boric acid and Borax.�*
+*In summary, Borax will kill both adult fleas plus other insects that feed on plant juices and animal and human blood. But Borax won't kill immature insects, including. Though, you must note that are differences between boric acid and Borax.*
 # **In a Hurry? View Top Borax Flea Killers**
 
 ## **1. Our #1 Pick: Borax 20 Mule Team Booster Fleas on Carpet**
 
 My vet advised using this Borax 20 Mule Team against a flea infestation in the yard, carpets, or whole house. I left the borax flea killer on the floors for two days - remember to apply the fine powder under the stove, refrigerator, and couch.
-- In addition tokilling fleas, Borax�will remove bad odors from your living spaces.�You can pour the Borax into areas where dogs and kittens do visit.
+- In addition tokilling fleas, Boraxwill remove bad odors from your living spaces.You can pour the Borax into areas where dogs and kittens do visit.
 - Further, avoid watering the yard (and use it when there's no rain) after applying Borax as this can reduce its effectiveness.
-Generally, Borax is used as a�natural herbicide,�cleaner,� floor cleaner, and rust remover. This�20 Mule Team Borax will kill fleas and
+Generally, Borax is used as anatural herbicide,cleaner, floor cleaner, and rust remover. This20 Mule Team Borax will kill fleas and
 kill insects such as roaches
-but won't kill them in their�immature growth stages.
+but won't kill them in theirimmature growth stages.
 First, I vacuumed the whole house and then the areas where I had poured the Borax. Luckily, this product can be used as a color-safe bleach, laundry booster, and garbage disposal cleaner.
 My vet advised using this Borax 20 Mule Team (definitely the best borax acid) against a flea infestation in the yard, carpets, or whole house.
 I left the borax flea killer on the floors for two days - remember to apply the fine powder under the stove, refrigerator, and couch, which exterminated
@@ -56,7 +56,7 @@ This product will also kill fleas on wall cracks, under carpets, and on your bed
 Dishwasher Detergent to Prevent Etching
 .
 ## Borax Flea Killer (7 Easy Flea Removal Steps)
-**Step 1: Deep Floor and Carpet Vacuuming�**
+**Step 1: Deep Floor and Carpet Vacuuming**
 Choose the best borax brand for
 flea treatment
 .
@@ -74,7 +74,7 @@ Borax for fleas?
 - 99% Pure Boric Acid contains Acidum boricum, orthoboric acid, boracic acid, hydrogen borate, and boric acid. Therefore, you can use this neutron absorber, flame retardant, flea control insecticide, or antiseptic. Read Also:
 Flea Eggs Vs. Dandruff
 .
-**Step 2: Pour Borax Powder�**
+**Step 2: Pour Borax Powder**
 Treat your dogs play area thoroughly with various
 flea treatments
 . Target the borax flea treatment to the places where your dog frequents.
@@ -84,7 +84,7 @@ dog has a massive flea
 infestation, you should place him in an outside shelter after treating him. Use that time to treat the
 house for fleas using Borax.
 **Step 3: Leave Sprinkled Borax for 8 - 48 Hours**
-Now,�leave the sprinkled Borax for 8 - 48 hours on the
+Now,leave the sprinkled Borax for 8 - 48 hours on the
 carpet and flea-treated
 areas.
 Consult your vet on the best de-worming medication for your dog as the
@@ -134,7 +134,7 @@ and spiders in the crevices, garage, and storage areas. I noted that you could m
 
 This 2 Pk
 Boric Acid
-for fleas will also kill ants and cockroaches. �So, whether its for your personal or rental apartment, this product will work great in killing the whole flea cycle.
+for fleas will also kill ants and cockroaches. So, whether its for your personal or rental apartment, this product will work great in killing the whole flea cycle.
 All youll need is to sprinkle the boric acid powder all over your house to get the
 fleas and roaches in their hiding places
 . Luckily, it has a residue effect of about two months and will continue killing the fleas and their larvae.
@@ -157,10 +157,10 @@ As the flea larvae hatch, Borax dehydrates the fleas outer tissues and kills the
 Also, Borax contaminates the food preserves for the flea larvae. The larvae feed on the contaminated food (mainly droppings by adult fleas) and get ripped to death.
 ## **How to use Borax for fleas in Yard & Lawn**
 What youll require to control fleas in your lawn:
-**Borax powder, salt, sprinklers or water hose, and diatomaceous earth. But you can also use the�**
+**Borax powder, salt, sprinklers or water hose, and diatomaceous earth. But you can also use the**
 Best Flea Spray for Yard
 .
-**Precautions:�**
+**Precautions:**
 Wear
 [gloves](https://www.amazon.com/dp/B01MYMRZEI/?tag=p-policy-20)
 and cover your face using a dust protector. The borax powder can cause significant throat and skin irritation if you do not take safety precautions.
@@ -168,9 +168,9 @@ First: Clear your Lawn or Yard -
 Remove any obstacles such as containers and movable furniture. This will make it easier to apply the Borax on your lawn.
 **Step 1: Choose a Dry Day and week**
 Borax will be useful in treating fleas when there are low moisture levels in your garden. Therefore, treat your yard when there is no rain or any rain forecast in that week. Also, turn off your water sprinkler system.
-**Step 2: �Mix Borax, diatomaceous earth, and salt.**
+**Step 2: Mix Borax, diatomaceous earth, and salt.**
 To achieve the highest effectiveness, mix one part of two parts of Borax and diatomaceous earth with one part of salt.
-**Step 3: �Sprinkle borax on your lawn**
+**Step 3: Sprinkle borax on your lawn**
 Ready? Go! Sprinkle the borax mixture on your lawn using a hand trowel. You will need to reach all the corners of your yard and cover it maximally on the surface.
 Also, ensure to maintain the dry atmosphere in your yard 2-3 days after the borax application. The time allowance will allow the Borax to dehydrate the fleas, thus killing them.
 **Step 4: Spread the Borax **
@@ -223,7 +223,7 @@ Borax is an active ingredient in detergent soaps and toothpaste and can help red
 and
 **eliminate the whole flea life cycle**
 : eggs, larvae, and adults.
-In addition to using�Borax
+In addition to usingBorax
 ** on fleas**
 control, you can also use them on other bugs like cockroaches and moths. It is also a cheap way to get rid of fungus and weeds in your garden. In different industries, Borax is used as a flame retardant for bleaching purposes and to glaze enamel.
 ## Where to buy Borax for fleas
@@ -240,7 +240,7 @@ You will most likely come across the Borax labeled "20 Mule Team" in the local s
 **But, what diseases can you get from fleas?**
 Fleas can transmit the following diseases: (1) Mycoplasma haemofelis, (2) Murine Typhus (3) Cat Scratch Disease, (4) Tapeworms, and (5) flea allergy dermatitis (FAD) in cats and dogs, which is reported to be above 50% of the vet testified cases.
 ## **Is borax safe for cats and dogs (Pets)?**
-**First:�**
+**First:**
 Did you know there is a difference between Borax and boric acid powders? Most pet owners use the above terms interchangeably, which could lead to dangerous outcomes if one is not keen on the one they use on their dog or cat.
 It is essential to know which one, between Borax and boric acid, is the recommended natural flea treatment option. You should also be aware of the safety precautions you should take while using Borax to treat fleas on your cat.
 ## Borax vs. boric acid powders: which is safer?
@@ -277,5 +277,5 @@ Equally, DE is considered a safe
 [flea prevention](https://pestpolicy.com/can-cats-get-fleas-in-the-winter/)
 alternative to Borax. If you purchase DE that is labeled food-grade, you can use it to deworm humans and animals.
 It will take DE about 24-72 hours to kill the fleas in your home. The DE powder will also destroy any other fleas that will emerge from their cocoons within that time.
-## **Finally:�****How To Use Boric Acid To Kill Fleas in Carpet�**
+## **Finally:****How To Use Boric Acid To Kill Fleas in Carpet**
 https://www.youtube.com/watch?v=OGuSVOr4BHw

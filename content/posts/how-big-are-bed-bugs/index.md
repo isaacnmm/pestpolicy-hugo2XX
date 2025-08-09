@@ -93,7 +93,7 @@ steamers (with temperatures over 120 degrees)
 -, and thus, over 90% of the eggs will hatch successfully.
 Notably,
 home solutions for bed bugs
-such as�borax, diatomaceous earth, vinegar, baking soda, or rubbing alcohol won't kill the bed bug eggs or even break through their shell.
+such asborax, diatomaceous earth, vinegar, baking soda, or rubbing alcohol won't kill the bed bug eggs or even break through their shell.
 So, where will you mainly find the bed bug eggs? The eggs will mainly be hidden on some protected sites (like cracks), but equally, this must be close to some food source.
 Therefore, please search for the eggs around the bed joints, headboard or mattress seams plus on box spring, or even attach themselves on the wall and wall cracks.
 On smell, you'll look for sweetish plus pungent odor coming from areas that bed bugs and their eggs hide - the scent comes from the bug's scent glands.

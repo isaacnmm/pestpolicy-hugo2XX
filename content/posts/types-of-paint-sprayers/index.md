@@ -27,7 +27,7 @@ HVLP sprayers
 are modern tech spray devices that utilize a low-pressure internal mechanism (turbine) to create airflow, which in turn atomize paint molecules.
 Usually, the HVLP sprayers are fitted with resilient motors that continuously spin the fan to generate steady airflow internally.
 The air is channeled through the hosepipe into a spray gun, where it meets with paint (administered through gravity method from a canister/container).
-The proximity trigger is used to initiate atomization and halt the painting process at will.�HVLP sprayers provide high-quality finish coat, detailed result, flawless finish, easier to control (when painting), and limit overspray during paint application.
+The proximity trigger is used to initiate atomization and halt the painting process at will.HVLP sprayers provide high-quality finish coat, detailed result, flawless finish, easier to control (when painting), and limit overspray during paint application.
 Moreover, High Volume Low-Pressure sprayers are suitable when carrying out DIY projects or when undertaking intricate painting tasks  the sprayers can work with nearly all types of paint solvents without blockage or internal clogging.
 HVLP sprayers also guarantee high speed during paint application (improved efficiency) and minimal paint wastage since the nozzle design inhibits side spray and excess paint release.
 With HVLP sprayers, you are able to attain excellent finish, especially when
@@ -86,7 +86,7 @@ you need to purchase. Its a fact that large paint sprayers are more expensive th
 Therefore, buy such paint sprayers only when you have large-scale paint applications or for commercial use.
 ### 2. Availability of Spare Parts
 Paint sprayers are often damaged due to internal wear, wrong operations, handling inappropriate paint solvent, or even through the aging aspect of some parts.
-Therefore, part replacement is a common maintenance concept for most paint sprayers.�Buy a paint sprayer that has spare parts available within your locality or local dealers.
+Therefore, part replacement is a common maintenance concept for most paint sprayers.Buy a paint sprayer that has spare parts available within your locality or local dealers.
 Otherwise, it will be very expensive to maintain a paint sprayer or you may be forced to throw it away in case of failure.
 ### 3. Size
 Small-sized paint sprayers are suitable for small-scale painting projects or DIY projects. A small-sized paint sprayer (like handheld type) is more comfortable to move along when painting and thus wont weigh you down  lightweight.

@@ -18,7 +18,7 @@ Office owners and homeowners loathe any form of pest infestations. The bugs may 
 Luckily, if you have a reliable bug control company such as Affordable Pest LLC, you can evade these pest problems, and take back the amazing spaces youve enjoyed before.
 
 In this article, I'll get in-depth into reviewing Affordable Pest LLC, checking if their technicians are able to troubleshoot pest issues, answer different questions, and their knowledge or experience in using various safe and effective bug control techniques.
-## **Review: Affordable Pest LLC�**
+## **Review: Affordable Pest LLC**
 The
 exterminator
 has an excellent pest control record and extensive years of experience. Their professionals are experienced in handling various wildlife, rodents, and bug problems.

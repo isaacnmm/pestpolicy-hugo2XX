@@ -26,7 +26,7 @@ Notably, I recently upgraded the
 and thus I expect optimal gaming experience: Wolfenstein II: The New Colossus, Observer, and Call of Duty: WWII.
 
 Before conducting extensive research and test on thermal paste application, maybe like you, I only overhead of Rice, X, Pea, Straight-line application methods. This left me confused with the many opinions out there.
-**In summary:�**
+**In summary:**
 **However, if you need a straight answer: The best method to apply the thermal paste on your gaming CPU is the pea-sized dot' technique. **
 **In this method, you will apply a pea-sized - not too much - amount of the thermal compound in the middle of the CPUs surface and screw back the heat sink on top of it. **
 **Therefore, the thermal paste will spread naturally in a round or oval shape evenly over the CPU cores. Manually spreading would lead to the formation of air bubbles. **

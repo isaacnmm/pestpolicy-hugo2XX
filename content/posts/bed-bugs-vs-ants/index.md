@@ -54,7 +54,7 @@ Bites from bed bugs
 will leave itchy dark red bumps on your skin.
 - However, the key differentiating factor is that such bites are clustered in a group and 3 (or more) lines through the breakfast-lunch-dinner pattern.
 However, you'll mainly find the
-bed bug bites on the�upper extremities
+bed bug bites on theupper extremities
 , hands, and arms.
 - Bed bug bites cause varied reactions to different people.
 - For example, some people will develop an allergicskin response and itching after a bed bug bitewhile others will not react.
@@ -62,7 +62,7 @@ However,
 [bed bug bites will leave some red bumps](https://pestpolicy.com/how-long-do-bed-bug-bites-last/)
 that could appear in a linear pattern, developing into big red welts. Youll mainly find the bites on your back and upper body, hands, and arms.
 **Ant Bites**
-Equally, ant bites and stings will leave itchy and�painful itchy red bumps on your skin.
+Equally, ant bites and stings will leave itchy andpainful itchy red bumps on your skin.
 The affected region could develop some major swelling. However, this could vary with the type of question that bites your skin.
 - For example,Fire antsmay leave some sharp burning sensation and white pustules in the middle of your red bumps due to injecting potent acid.
 While some ants will bite, most of the ant species sting their prey and inject venom into their body.

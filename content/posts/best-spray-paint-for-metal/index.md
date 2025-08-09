@@ -86,12 +86,12 @@ The solvent is highly agitated to boost stickiness, while the liquid is furnishe
 Rust-Oleum 7271830 comes with a fast-drying formula (takes 20 minutes to dry) and impressive silver color that makes the painted surface stand out. Indeed, the coated layer is fade-resistant and waterproof.
 Moreover, Rust-Oleum 7271830 protects the metal from chipping, peeling, or scuffing upon application  you can use the spray in any weather condition.
 Rust-Oleum 7271830 doesnt irritate the skin upon contact or pollute the environment (has low VOC contents). Use a one-coat coverage with your matte chalky that's smooth to
-[freshen the d�cor](https://www.decoraid.com/blog/10-ways-to-freshen-up-your-decor-2019)
+[freshen the dcor](https://www.decoraid.com/blog/10-ways-to-freshen-up-your-decor-2019)
 .
 You can also use Rust-Oleum 7271830 on other surfaces such as wood, concrete, or composite without any challenges.
 The shiny coat finish left by Rust-Oleum 7271830 is scratch-resistant and eliminates the growth of molds and algae in a humid area. It creates that
 vintage wood looks
-even on�ceramic, canvas, or metal.
+even onceramic, canvas, or metal.
 NB: Rust-Oleum 7271830 comes with a classic nozzle design that supports multiple direction spray application. Rust-Oleum 7271830 is usable in either outdoor or indoor spray application.
 Pros:
 - It comes with a classic nozzle - supports the directional application.

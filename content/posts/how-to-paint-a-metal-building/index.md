@@ -20,7 +20,7 @@ layout: post
 ### Details: How to Paint a Metal Building
 Besides, painting eliminates rust and boosts the buildings service life.
 
-However, painting metal is not easy, especially when wrong paint selection and procedure is undertaken.�The tools and material required include:
+However, painting metal is not easy, especially when wrong paint selection and procedure is undertaken.The tools and material required include:
 - Polishing machine and Sander
 - A paintbrush and Blower
 - Waterpoint and Degreasing cleaner

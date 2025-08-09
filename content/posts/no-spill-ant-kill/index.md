@@ -67,7 +67,7 @@ Check for the ant trails as this is what the bugs will follow as they search for
 The ant killer will also be great for controlling the bugs in
 outdoor spaces like the lawn
 . Check the places near the house that ants are observed trailing.
-So, set up the No-Spill Ant Kill around those locations but ensure that kids & pets cant's access them. You can create a perimeter defense by positioning the baits around the�foundation.
+So, set up the No-Spill Ant Kill around those locations but ensure that kids & pets cant's access them. You can create a perimeter defense by positioning the baits around thefoundation.
 Ensure to space the No-Spill Ant Kill baits with like 5 - 10 feet to achieve the best outcomes. Furter, inspect the baits for any ant activity.
 ## Conclusion
 The no-spill ant kill by Maggies Farm has 3% borax that'll effectively exterminate the ant colonies in both the indoor spaces or also outdoor locations.

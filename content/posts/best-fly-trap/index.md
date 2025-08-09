@@ -16,14 +16,14 @@ layout: post
 ---
 In this post, I've [reviewed](https://pestpolicy.com/best-gopher-traps/) the best fly [trap](https://pestpolicy.com/best-silverfish-traps/) available. Besides carrying bacteria that can cause illnesses, flies have a constant buzzing annoying as well.
 - You want them away from your food and away from your kitchen.
-It is almost impossible to keep them from invading your kitchen, and thats where insecticides and fly-killing devices come in handy.�Let's get started!
+It is almost impossible to keep them from invading your kitchen, and thats where insecticides and fly-killing devices come in handy.Let's get started!
 # **In a Rush? View top Best Fly Traps**
 
 ## [1. Our #1 Pick: RESCUE! Disposable Fly Trap](https://www.amazon.com/dp/B07DD28F84/?tag=p-policy-20)
 
 This reusable fly trap from Rescue is guaranteed to take care of the fly problem around your house.
 Containing no chemicals and, therefore, non-toxic to human beings, this is absolutely the perfect solution to those cringy creatures flying around your house.
-- It is also very affordable.�This product from Rescue, renowned for making traps that dont contain any chemicals, is also environment-friendly as it doesnt cause harm to other insects such as bees.
+- It is also very affordable.This product from Rescue, renowned for making traps that dont contain any chemicals, is also environment-friendly as it doesnt cause harm to other insects such as bees.
 It can be used away from the house as it attracts and traps flies within a range of 20 feet.
 The trap is reusable and has a long shelf life, and can, therefore, be carried on picnics and camping trips to keep the flies away from the food.
 As long as you have water to be used in activating the edible attractants in the trap. Ensure you seal properly when disposing of the waste traps.

@@ -15,7 +15,7 @@ layout: post
 ---
 Are you an overweight person looking for a perfect and fun way to exercise? Well, the Best Mini Trampoline for Heavy Adults is a sure deal.
 
-In this article, I will only review heavy-duty�mini trampolines with over 300lbs weight capacity. Such trampolines would be ideal for plus-sized people looking for great exercise equipment.
+In this article, I will only review heavy-dutymini trampolines with over 300lbs weight capacity. Such trampolines would be ideal for plus-sized people looking for great exercise equipment.
 
 Read and choose your favorite Mini Trampoline for Heavy Adults.
 
@@ -26,7 +26,7 @@ Best Mini Trampoline for Adults
 If youre looking for the Best Mini Trampoline for Heavy Adults pick the bellicon Plus. This trampoline supports over 440lbs of weight and it features durable construction to support the excess weight.
 
 Furthermore, this trampoline has Ultra-Strong Bungees
-**�**
+****
 cords that accommodate any load thrown at it. The bungee suspension system supports low-impact exercises that will not stress your joints and other body parts.
 
 More than that, the bungee cord suspension has 5 different resistance strengths. This means you can choose the perfect bounce for your weight or workout style.

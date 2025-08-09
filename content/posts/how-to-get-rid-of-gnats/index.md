@@ -27,7 +27,7 @@ Gnats do really like rotten fruits due to fermentation smell. This is an inexpen
 3. The gnats will move in and get stuck inside the jar; the plastic cover will hinder them from flying out.
 *Why do the r*
 *otten bananas trap work? *
-*Gnats have the ability to smell rotting vegetables and fruits from miles away and get attracted towards them. So once they will smell the sweet scent of overripe bananas they will come in huge numbers to feast on them. Unfortunate they will get stuck inside the jar and the cover on top will prevent them from flying out.�*
+*Gnats have the ability to smell rotting vegetables and fruits from miles away and get attracted towards them. So once they will smell the sweet scent of overripe bananas they will come in huge numbers to feast on them. Unfortunate they will get stuck inside the jar and the cover on top will prevent them from flying out.*
 https://www.youtube.com/watch?v=9ndKIRm_vh0
 ### 2. Dish Soap, Apple Cider Vinegar and Sugar Trap
 Next, youll make a gnats trap by mixing a few drops of dish soap, apple cider vinegar and sugar. All what you need is a container; dish soap, sugar and apple cider vinegar.
@@ -36,7 +36,7 @@ Next, youll make a gnats trap by mixing a few drops of dish soap, apple cider vi
 3. Make sure you have several such traps and place them where the gnats are seen frequently in your room.
 4. Also you can fill a spray bottle with this solution and anytime you come across any [gnat](https://pestpolicy.com/best-gnat-repellent/) circling around you, spray it off with it.
 *Why does the *
-*Soap, Vinegar & Sugar Trap work?� *
+*Soap, Vinegar & Sugar Trap work? *
 *This trap is an easy and quick to clear out all gnats. The gnats will be attracted to fragrance smell of vinegar and sugar in the container. Once they come into contact with this solution, they wont escape due to the dish soap.*
 *Note, this solution is harmless to your environment and your indoor plants.*
 ### 3. Use of stale wine
@@ -54,7 +54,7 @@ One thing you will notice, gnats love moist areas inside the house.
 3. Give it some few minutes to kill all the pests in the drains and sinks
 4. Do this as many times as possible until all gnats are completely destroyed.
 ### 5. Placing sticky fly traps in most populated areas
-Take some sticky fly traps like yellow sticky traps; they will attract gnats with their bright color.� Place a few of them in your kitchen, bathroom and table room near the windows.
+Take some sticky fly traps like yellow sticky traps; they will attract gnats with their bright color. Place a few of them in your kitchen, bathroom and table room near the windows.
 
 Gnats love damn sites, if you have plants in your house, place sticky fly trap under the leaves or on top soils.
 
@@ -86,7 +86,7 @@ Another feature of gnats is that they are attracted to light. In this homemade t
 2. Take your basin and put some water in it, add some soap dish drops and mix it well.
 3. Then place the candle stick holding your candle there.
 4. Make sure there is no other source of light in the room. Take your matchbox and light the candle.
-How does this trap work?�This trap has two benefits;
+How does this trap work?This trap has two benefits;
 1. First the gnats will be drawn near the candle by the light, some will get burnt their wings and die.
 2. Others will go for reflection in the water instead. Once they fall in the water containing soap dish they wont manager to survive again.
 ### 9. Maintain cleanliness in your house.

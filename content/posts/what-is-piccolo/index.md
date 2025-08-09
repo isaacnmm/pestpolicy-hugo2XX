@@ -23,7 +23,7 @@ In short: Piccolo (pronounced as piccolo) is a woodwind family member and is con
 [orchestral](https://en.wikipedia.org/wiki/Orchestra)
 setting is defined as the "piccolo or flute III".
 1. Origin of piccolo:Western Europe
-2. Family of piccolo:��Aerophone,�Wind instrument,�Woodwinds,Flutes
+2. Family of piccolo:Aerophone,Wind instrument,Woodwinds,Flutes
 3. Invention Date:Mid 1800's
 4. The close relation toAlto flute, Bass flute, & Flutes - check theseCamera for Music Videos.
 But, how would a transition from a flute to the piccolo be? Well, as noted above, the piccolo is practically a smaller flute with the same fingerings but with notes being an octave higher and with a smaller embouchure.

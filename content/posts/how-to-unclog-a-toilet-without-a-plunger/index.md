@@ -17,13 +17,13 @@ layout: post
 Sometimes toilets will clog ceaselessly. Thus, your "bank deposits" will float as the water level rises. A [plunger](https://pestpolicy.com/how-to-use-a-plunger/) would be a
 [viable solution](https://aces.nmsu.edu/pubs/_g/G304/welcome.html)
 to save the situation.
-However, the�poop smell and water flushing might discourage you from using your�plunger. Also, maybe even the available
+However, thepoop smell and water flushing might discourage you from using yourplunger. Also, maybe even the available
 [plunger is for your kitchen sink](https://pestpolicy.com/how-to-use-a-plunger/)
 .
 Therefore, in this post, you'll learn the DIY tips on unclogging your toilet without a plunger or having to call a plumber.
 
-## **Method 1: Mixing baking soda and vinegar�**
-*Requirements:�Baking soda, Vinegar, Small bucket, and Hot water  (not boiling water)*
+## **Method 1: Mixing baking soda and vinegar**
+*Requirements:Baking soda, Vinegar, Small bucket, and Hot water  (not boiling water)*
 This method is used for soft blockages.
 Baking soda and vinegar/)
 are used in many household activities. They are mostly used as cleaning chemicals.
@@ -43,8 +43,8 @@ water may also damage pipes down the drain
 Flush water to ascertain that the blockage is cleared. If the water does not flush, you may consider repeating the process. You can try an alternative method. However, if the problem persists, you can contact your plumber for further assistance.
 Related:
 Reliable Roach Killers
-## **Method 2:�****Using Dish soap and hot water�**
-*Requirements:�Dish soap, Bucket, Hot water.�*
+## **Method 2:****Using Dish soap and hot water**
+*Requirements:Dish soap, Bucket, Hot water.*
 Another way of unclogging is by using dish soap and hot water. Remember not to use boiling water so that you cannot spoil the toilet bowl and pipes.
 Dish
 soap is used for many purposes, including washing
@@ -54,15 +54,15 @@ Since dish soap is heavier than water, it sinks to the bottom of the bowl lubric
 **Step 1 - Pour about half a cup of dish soap into the toilet bowl.**
 After pouring the dish soap into the bowl, it will sink because of its dense nature. Wait for about 25 minutes before making the next move. Dish soap is preferred to shampoos or bar soaps since they contain fats that could clog the toilet.
 Remember to put a good amount of dish soap enough to unclog the toilet. The 25 minutes are for buying time to let the water level drop and let the dish soap act effectively.
-*How does the dish soap work?�*
+*How does the dish soap work?*
 Dish soap lubricates whatever is causing the clog. It then pushes the material down the drain once the hot water is poured.
 **Step 2 - Pour the hot water into the bowl.**
 Pour the hot water directly into the bowl. You are advised not to use boiling water not to spoil the ceramic of the toilet bowl. Pouring boiling water leads to the sudden expansion of the ceramic hence cracking.
 **Step 3 - Test Flush**
 Flush your toilet to ascertain that the clog is cleared
 If the operation was successful, the water should drain with ease. If the water does not drain, it means the operation was not successful. You can repeat the process. If the water still does not drain, you can try out other methods discussed here or call a plumber for further help.
-## **Method 3:�****Breaking up the clog with a hanger�**
-*Requirements:�Coat hanger, Pliers, Piece of rag/clothing, Duct tape, Gloves, Trash bin.�*
+## **Method 3:****Breaking up the clog with a hanger**
+*Requirements:Coat hanger, Pliers, Piece of rag/clothing, Duct tape, Gloves, Trash bin.*
 This is an
 eco-friendly way of removing clogs
 since no chemicals are involved. The use of chemicals poses a great risk to your drains and ceramic.
@@ -80,11 +80,11 @@ Once you are sure the blockage has been broken down, retrieve the wire hanger an
 Once you remove your hanger, you can flush the toilet to ascertain that the clog is cleared. If the method was effective, the water should flush and drain quickly.
 If not, you can repeat the process, and if the problem persists, you can try out any other method as described here before calling a plumber.
 
-## **Method 4: **** Use a drain snake to breaking up the clog�**
-*Requirements:�Drain snake, Gloves, and Trash bin.�*
+## **Method 4: **** Use a drain snake to breaking up the clog**
+*Requirements:Drain snake, Gloves, and Trash bin.*
 A
-drain snake�(flexible
-cleaning tool or an auger) will be an excellent solution to break up the hard drain clogs. It's an eco-friendly method since no chemicals are used.�A drain snake consists of a long wire screw that has a corkscrew on its tip.
+drain snake(flexible
+cleaning tool or an auger) will be an excellent solution to break up the hard drain clogs. It's an eco-friendly method since no chemicals are used.A drain snake consists of a long wire screw that has a corkscrew on its tip.
 The wire is flexible that you can easily move down the toilet to clear the clogs. It can maneuver the curves and go deep to as far as the length allows. However, you must select the
 right type of drain snake
 for the job.
@@ -104,16 +104,16 @@ You are always advised to try bringing what has been trapped up against the surf
 **Step 4 - Test Flush**
 To ascertain that the operation was successful, you should flush the toilet. If successful, the water will drain quickly. If not, you can repeat again and again until the clog clears. Else if, you can try other methods of unclogging a toilet before calling a plumber.
 ## **Other ways of removing clogs without a plunger**
-**1. Using a chemical drain drainer�**
+**1. Using a chemical drain drainer**
 You are advised to avoid them at all costs and only use them as a last resort. They pose great harm to people, pets. They are also very corrosive to pipes.
 Ensure that there is free circulation of air in your toilet when using them. Their fumes are usually very poisonous. Apply them according to the accorded instructions. Ensure that you have protective gear for your protection.
-**2. By use of a wet/dry vacuum�**
+**2. By use of a wet/dry vacuum**
 Ensure that the bowl has no water. Put the end of the vacuum
 cleaner in the drain
 . Place it a few inches into the drain.
 You can use a rag as a seal around the drain. Turn the vacuum cleaner machine on, and the chances are that the vacuum cleaner will suck out the clog.
-**�How to**
-**Prevention of clogs�**
+**How to**
+**Prevention of clogs**
 A clogged toilet is not only embarrassing but also stressful. It causes inconveniences for a lot of people. Here are some tips on how to avoid future clogs:
 1. Only flush human waste and tissue paper- Pipes used in the toilets are specifically designed to[flush human waste and tissue paper](https://pestpolicy.com/best-toilet-paper-for-septic/). Any other materials will cause clogging. Dispose of such wastes in a trash bin and not the toilet.
 2. Any other materials you dispose of in the toilet should be water-soluble. Other materials such as sanitary towels, toothbrushes, and others should be disposed of in a trash bin.

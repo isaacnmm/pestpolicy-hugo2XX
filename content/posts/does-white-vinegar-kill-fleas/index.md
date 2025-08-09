@@ -18,7 +18,7 @@ Vinegar is a common household ingredient that you will find around the kitchen b
 Flea bites are painful and they may cause the transmission of diseases. Further, removing [fleas](https://pestpolicy.com/does-apple-cider-vinegar-kill-fleas/) from your house and pets is challenging and expensive but you can use some home remedies.
 - **So, does white vinegar (acetic acid) kill fleas? In summary, no, spraying the cider vinegar on the dog bed or rugs wouldn't kill fleas but it will help repel the pests from your house and pets. **
 - **The reason is that the vinegar acid is relatively weak to break through the shells of flea larvae and free eggs. **
-**However, adult fleas tend to avoid pets such as cats and dogs that are sprayed with white vinegar. But the vinegar solution won't kill the adult fleas.�**
+**However, adult fleas tend to avoid pets such as cats and dogs that are sprayed with white vinegar. But the vinegar solution won't kill the adult fleas.**
 ## Details: is white vinegar a good DIY flea spray?
 Control or prevention of fleas requires that you kill or sterilize the flea
 **larvae **
@@ -55,7 +55,7 @@ So, in a liter of water and some 10 drops of Sage essential oils and rosemary pl
 - Mix these ingredients together and allow them to sit for 12 hours.
 - Finally spray that flea repellent onto your dogs ears, legs, tail, and belly.
 - Since this is a flea repellent, just like the coconut oil above, you should spray eat on the pets from outdoor spaces.
-Other essential oils that you may use instead include lemongrass oil and cedar oil.�However, this must only be used with a diffuser or conservatively just a few drops and ensure dilute well with water.
+Other essential oils that you may use instead include lemongrass oil and cedar oil.However, this must only be used with a diffuser or conservatively just a few drops and ensure dilute well with water.
 ## Here's how to remove fleas from your house
 Controlling fleas from your house will help you protect the pets that you love from these bugs.
 First, you should consider natural repellents that you can plant in your yard; this will secrete oils that will repel fleas.

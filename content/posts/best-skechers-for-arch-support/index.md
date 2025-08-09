@@ -23,7 +23,7 @@ Also Read:
 Best Shoes for High Arches and Standing All Day
 ## Review: 7 Best Skechers for Arch Support
 ### [1. Skechers for Work Women's Soft Stride-Softie Lace-Up](https://www.amazon.com/dp/B0007TLSDC/?tag=p-policy-20)
-Skechers for Work Soft Stride-Softie Lace-Up takes the first spot for the Best Skechers for Arch Support. These shoes provide excellent support, comfort, and durability.� Theyre ideal for all-day walking and standing without feeling any discomfort or pains.
+Skechers for Work Soft Stride-Softie Lace-Up takes the first spot for the Best Skechers for Arch Support. These shoes provide excellent support, comfort, and durability. Theyre ideal for all-day walking and standing without feeling any discomfort or pains.
 
 The upper of these womens best sketchers for arch support feature a leather material with an amazing lace-up design that provides extra comfort and a perfect fit for all-day comfort.
 

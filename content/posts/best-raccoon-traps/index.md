@@ -14,7 +14,7 @@ tags:
 - trap
 layout: post
 ---
-In this post, Ive reviewed the best [raccoon](https://pestpolicy.com/best-raccoon-bait/) traps and cages available today.�My key considerations are that the traps must be safe to the non-target animals and equally humane for
+In this post, Ive reviewed the best [raccoon](https://pestpolicy.com/best-raccoon-bait/) traps and cages available today.My key considerations are that the traps must be safe to the non-target animals and equally humane for
 raccoons
 .
 

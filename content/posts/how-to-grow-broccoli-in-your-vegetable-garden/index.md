@@ -117,4 +117,4 @@ Beyond the common "Calabrese" heading broccoli, there are other interesting type
 
 ## Final Thoughts
 
-Growing broccoli in your vegetable garden is a highly rewarding endeavor that brings fresh, nutrient-dense produce directly to your kitchen. While it appreciates specific conditions�namely, cool weather, full sun, and consistent moisture�these are easily achievable with proper planning and diligent care. By understanding its needs, addressing potential challenges, and timely harvesting, you can enjoy a continuous supply of this versatile and healthy vegetable, enhancing both your culinary creations and your gardening satisfaction.
+Growing broccoli in your vegetable garden is a highly rewarding endeavor that brings fresh, nutrient-dense produce directly to your kitchen. While it appreciates specific conditionsnamely, cool weather, full sun, and consistent moisturethese are easily achievable with proper planning and diligent care. By understanding its needs, addressing potential challenges, and timely harvesting, you can enjoy a continuous supply of this versatile and healthy vegetable, enhancing both your culinary creations and your gardening satisfaction.

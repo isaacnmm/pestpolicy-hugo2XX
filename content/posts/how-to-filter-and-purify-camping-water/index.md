@@ -15,7 +15,7 @@ layout: post
 ---
 Here's how to filter and purify camping water? It's essential to ensure that your camp-ground is safe and clean for drinking without viruses and bacteria.
 - *In summary, you can filter and purify your camp-ground water using the following ways; portable water filters, chemical tablets, and using water filters. *
-*You'll need to filter the water to remove the sediments and soil in either rivers, springs, and lakes.�*
+*You'll need to filter the water to remove the sediments and soil in either rivers, springs, and lakes.*
 Read Also:
 Athletic [Shoes for Lower Back Pain](https://pestpolicy.com/best-athletic-shoes-for-lower-back-pain/)
 .
@@ -33,11 +33,11 @@ Water filters that have carbon will also filter heavy metals, chlorine, pesticid
 However, remember to unclog the water filter regularly as it may not filter properly or may accumulate microbes causing diseases to you and your family.
 Read Also:
 [Shoes for Waitressing Reviewed](https://pestpolicy.com/best-shoes-for-waitressing/)
-### **2.�****Chemical Tablets**
+### **2.****Chemical Tablets**
 Chemical tablets - particularly chlorine-based tablets, will purify water, including killing protozoa, viruses, and bacteria. Also, iodine-based pills are equally effective.
 - Further, chemicals and filters are highly portable and very easy to use at home, during camping or exploration missions - water from springs, rivers, lagoons, and lakes.
 But the water purification tablets may leave a bad after-taste in the water and will only be effective within six months once you open the tablet container.
-### **3. Boiling Water�**
+### **3. Boiling Water**
 To purify your camping water, you can use boiling to get rid of micro-organisms but won't remove the awful taste.
 - Further, you'll need to give the water time for a cooling time before you drink.
 - However, you'll require to get the water from a fast-flowing source as opposed to still waters that are settled around buildings, roads, or farmed land.
@@ -53,7 +53,7 @@ Walking Shoes for Lower Back Pain
 ## Dangers of Drinking Impure Water?
 Consequences and risks of drinking impure water like parasites and bacteria include diseases and infections from ingesting the contaminated water.
 - Poor sanitation may contaminate water mainly also be triggered by wildlife and humans as they defecate, bathe, live, and the hunt is dumping the remains in rivers and lakes.
-The camping or wild may also trigger giardiasis - a protozoan condition that's water-borne, cholera, and dysentery�leading to awful diarrhea - due to bacterial and viruses.
+The camping or wild may also trigger giardiasis - a protozoan condition that's water-borne, cholera, and dysenteryleading to awful diarrhea - due to bacterial and viruses.
 Read Also:
 [Youth Baseball Bats Reviewed](https://pestpolicy.com/best-youth-baseball-bats/)
 ## Conclusion

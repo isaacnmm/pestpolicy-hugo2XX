@@ -135,7 +135,7 @@ New Balance 928 V3 is one of the best Men's walking shoes for flat feet and buni
 wide feet
 .
 
-The shoe features a Rollbar post system that aims to control rear-foot movement.� The system also helps to maintain the midsole structure, hence, avert supination and overpronation. The midfoot also features ABZORB cushioning technology that provides excellent shock absorption helping to prevent injuries on the foot and lower back section.
+The shoe features a Rollbar post system that aims to control rear-foot movement. The system also helps to maintain the midsole structure, hence, avert supination and overpronation. The midfoot also features ABZORB cushioning technology that provides excellent shock absorption helping to prevent injuries on the foot and lower back section.
 
 The removable PU sockliner has exceptional anti-microbial properties, which promotes a clean and healthy foot environment for additional comfort. The Walking Strike path is an outsole technology that guides the foot as you walk to provide you superior stability and motion control.
 

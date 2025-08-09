@@ -31,7 +31,7 @@ Other than that, the Nimbus 23 also boasts of a FLYTEFOAM technology that ensure
 
 Furthermore, the upper part of these mens running shoes has an Engineered Mesh fabric that stretches to hug the foot for a secure fit. The mesh has a Multi-directional pattern that enhances ventilation and stability.
 
-Besides that, the padded collar and tongue provide additional comfort and support. �The midfoot also provides a secure lockdown around the midsection for a comfortable running experience.
+Besides that, the padded collar and tongue provide additional comfort and support. The midfoot also provides a secure lockdown around the midsection for a comfortable running experience.
 
 Youll also appreciate the excellent lacing design of the Nimbus 23. The laces provide flexibility and the ability to adjust the tightness or looseness of your shoes.
 
@@ -173,7 +173,7 @@ Cons:
 ### [7. New Balance Men's Fresh Foam 1080 V10 Running Shoe](https://www.amazon.com/dp/B0815YVM7N/tag=p-policy-20)
 The New Balance Men's Fresh Foam 1080 V10 is one of the best Cushioned Running Shoes for tall guys. The shoe is designed to provide unmatched comfort and support to almost all foot types and sizes.
 
-For starters, the upper incorporates an engineered knit upper thats stretchy and accommodates different foot shapes and sizes. The upper also allows for adequate breathability.� The structured heel counter helps to hold the foot in place, thus preventing accidental shoe removal.
+For starters, the upper incorporates an engineered knit upper thats stretchy and accommodates different foot shapes and sizes. The upper also allows for adequate breathability. The structured heel counter helps to hold the foot in place, thus preventing accidental shoe removal.
 
 Furthermore, the toe box is spacious enough to allow the natural movement of the foot. This feature makes the shoe ideal for
 [runners with wide feet](https://pestpolicy.com/best-running-shoes-for-men-with-wide-feet/)
@@ -199,7 +199,7 @@ Cons:
 ## Guide for the Best Running Shoes for Tall Guys
 In this guide, Ill provide some of the factors you need to consider when buying the best running shoes for tall guys.
 **Avoid Shoes with Heels**
-Some running shoes have high and big soles, which are unnecessary for a guy who is tall. �Average size soles are better. You might even go minimalist and youll more ground control. Therefore, when doing your shoe shopping look closely at each picture. Look at the heels; ask yourself if you can maneuver through the running terrain with ease.
+Some running shoes have high and big soles, which are unnecessary for a guy who is tall. Average size soles are better. You might even go minimalist and youll more ground control. Therefore, when doing your shoe shopping look closely at each picture. Look at the heels; ask yourself if you can maneuver through the running terrain with ease.
 **Darker Colors May Be Better**
 Dark colors have a way of concealing attributes that you might not want other people to concentrate on for long. For instance, if its your wide feet, you may opt for darker shoes as opposed to white or other shiny colors. The same goes for clothes.
 **Comfort**

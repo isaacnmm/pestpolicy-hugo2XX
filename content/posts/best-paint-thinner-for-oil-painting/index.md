@@ -39,7 +39,7 @@ The thinner behaves and smells great - comparable to OMS. But the packaging for 
 Pros:
 - You may dip the paintbrushes into your bottle and this will help reduce waste.
 - It'll thin your alkyds and standard oils excellently - while also removing that bad sheen from your alkyds.
-- So, for your art studio, you can now remove the toxic chemicals and turpentine� - with this oil paint thinner.
+- So, for your art studio, you can now remove the toxic chemicals and turpentine - with this oil paint thinner.
 - Despite that its smell is relatively strong, - can be applied around your living room andkitchen.
 
 Cons:

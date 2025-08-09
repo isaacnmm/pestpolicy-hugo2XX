@@ -43,11 +43,11 @@ Identifying the specific disease is vital for effective treatment. Here are some
     * **Affected Grasses:** Cool-season grasses like tall fescue, perennial ryegrass, and Kentucky bluegrass.
 2.  **Dollar Spot:**
     * **Symptoms:** Small, circular, sunken patches of straw-colored grass, typically 1-6 inches in diameter, resembling the size of a silver dollar. Individual blades often have distinct hour-glass shaped lesions.
-    * **Conditions:** Moderate temperatures (60-80�F), high humidity, prolonged dew, low nitrogen fertility.
+    * **Conditions:** Moderate temperatures (60-80F), high humidity, prolonged dew, low nitrogen fertility.
     * **Affected Grasses:** Most turfgrasses, especially bentgrass, annual bluegrass, and perennial ryegrass.
 3.  **Red Thread:**
     * **Symptoms:** Irregular patches of grass, often tan to reddish-brown, with distinctive pinkish-red, thread-like structures (fungal growth) extending from the grass blades.
-    * **Conditions:** Cool, wet weather (50-75�F), low nitrogen fertility, stressed lawns.
+    * **Conditions:** Cool, wet weather (50-75F), low nitrogen fertility, stressed lawns.
     * **Affected Grasses:** Ryegrass and fescues are particularly susceptible.
 4.  **Snow Mold (Gray Snow Mold & Pink Snow Mold):**
     * **Symptoms:** Circular patches of matted, bleached, or grayish-white grass appearing as snow melts. Pink snow mold can have a pinkish tint at the edges.
@@ -68,7 +68,7 @@ The approach to treating lawn fungal diseases should combine cultural practices 
 
 1.  **Cultural Practices (Primary Treatment & Prevention):**
     * **Adjust Watering:** Water deeply and infrequently, preferably in the early morning (between 4 AM and 10 AM) to allow grass blades to dry completely before nightfall. Avoid late afternoon or evening watering.
-    * **Improve Drainage & Airflow:** Core aerate compacted soil. Dethatch if there's excessive thatch (over � inch). Ensure good air circulation by pruning surrounding shrubs or trees if they create excessive shade.
+    * **Improve Drainage & Airflow:** Core aerate compacted soil. Dethatch if there's excessive thatch (over  inch). Ensure good air circulation by pruning surrounding shrubs or trees if they create excessive shade.
     * **Mow Correctly:** Mow at the appropriate height for your grass type, generally on the higher side (2.5-3 inches for most cool-season grasses). Taller grass encourages deeper roots and shades out weeds. Keep mower blades sharp to avoid tearing grass blades, which creates entry points for fungi.
     * **Fertilize Properly:** Follow soil test recommendations for balanced nutrition. Avoid excessive nitrogen, especially in hot, humid conditions, as this can encourage many fungal diseases. Use slow-release nitrogen fertilizers when possible.
     * **Remove Clippings (if active disease):** If a disease is active, bag and remove clippings to prevent the spread of fungal spores. Otherwise, grasscycling (leaving clippings on the lawn) is beneficial for returning nutrients.
@@ -100,7 +100,7 @@ Prevention is the most effective and sustainable long-term strategy for managing
     * Consider using slow-release fertilizers for a more consistent nutrient supply.
 5.  **Improve Air Circulation:**
     * Core aerate annually or bi-annually, especially if you have compacted soil or heavy foot traffic.
-    * Dethatch if your thatch layer exceeds � inch.
+    * Dethatch if your thatch layer exceeds  inch.
     * Prune nearby trees and shrubs to improve sunlight penetration and air movement over the lawn.
 6.  **Manage Thatch:** Regularly monitor thatch levels and dethatch when necessary (as described above).
 7.  **Ensure Proper Drainage:** Address any areas of standing water or poor surface drainage through regrading, installing French drains, or creating rain gardens.
@@ -109,7 +109,7 @@ Prevention is the most effective and sustainable long-term strategy for managing
 
 ## Final Thoughts About Grass Fungal Diseases
 
-Dealing with grass fungal diseases can be a frustrating challenge for any homeowner, but it's a common issue that is largely manageable. The most effective approach isn't a quick fix with chemicals, but rather a holistic strategy rooted in sound cultural practices. By understanding the conditions that favor fungal growth�primarily excessive moisture, improper nutrition, and poor soil health�you gain the power to manipulate your lawn's environment to be inhospitable to these pathogens.
+Dealing with grass fungal diseases can be a frustrating challenge for any homeowner, but it's a common issue that is largely manageable. The most effective approach isn't a quick fix with chemicals, but rather a holistic strategy rooted in sound cultural practices. By understanding the conditions that favor fungal growthprimarily excessive moisture, improper nutrition, and poor soil healthyou gain the power to manipulate your lawn's environment to be inhospitable to these pathogens.
 
 While fungicides can provide immediate relief for severe outbreaks, they should be viewed as a temporary solution. The true long-term success in preventing and managing lawn diseases lies in consistent, proper mowing, strategic watering, balanced fertilization based on soil tests, and regular aeration and dethatching. These preventative measures build a resilient lawn from the ground up, one that is naturally better equipped to resist and recover from the challenges posed by fungal invaders, ensuring your turf remains a source of pride rather than frustration.
 

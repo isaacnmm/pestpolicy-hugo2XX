@@ -29,7 +29,7 @@ tar Brite is designed with a formula that ensures minimal or no discharge of har
 
 Similarly, Star Brite saves you time by loosening waterline, rust and leaf stains, fish blood, or other types of marine deposits and making it easy to clean them with minimum scrubbing. Additionally, strong formula incorporated in this cleaner is designed to help you remove stains fast.
 This cleaner is practically ranked the best for commercial fiberglass cleaning purposes alongside its environmentally friendly features formula. Using this cleaner will give your boat a new look making it both efficient and durable to serve you.
-However, this cleaner is known to produce a strong smell, and in case you are allergic, I recommend you put on a mask to avoid inhaling the strong fumes while cleaning.� It would help if you also took extra care to avoid contact with the aluminum product as it is highly reactive.
+However, this cleaner is known to produce a strong smell, and in case you are allergic, I recommend you put on a mask to avoid inhaling the strong fumes while cleaning. It would help if you also took extra care to avoid contact with the aluminum product as it is highly reactive.
 Pros:
 - Environmental friendly
 - No acidic components discharge
@@ -66,7 +66,7 @@ However, extra caution is needed as the cleaner emits a strong smell and is equa
 Pros:
 - Instant cleaning
 - Leaves a shiny surface
-- Manufactured� in the USA
+- Manufactured in the USA
 Cons:
 - Strong smell
 - Irritation to the skin
@@ -98,6 +98,6 @@ Pros:
 Cons:
 - Poor packaging
 ## Conclusion
-After conclusive product review, I hope that it helped you make the right decision for your boat cleaner.� You may also want to go through the recommendations below to give a clear direction on your purchase.
+After conclusive product review, I hope that it helped you make the right decision for your boat cleaner. You may also want to go through the recommendations below to give a clear direction on your purchase.
 For the most rated boat cleaner, Star-Brite Hull & Bottom Cleaner is an ideal choice for you. Commercially it is ranked the best fiberglass boat cleaner alongside its environmental-friendly features.
 For a multipurpose cleaner, I would highly recommend Meguiar's-M6732, One Step Compound. This compound can perform three tasks in one. It cleans, gel coats, and restores your fiberglass boat at the same time. I also recommend other painted surfaces and metals.

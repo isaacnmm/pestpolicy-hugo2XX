@@ -111,7 +111,7 @@ To make the structure even safer, a thick and durable pad covers all the springs
 
 More than that, the Zupapa trampoline has enough springs that provide impressive bounce for a fun filled jumping experience. The springs are also rust resistant, hence, durable.
 
-In addition, the higher enclosure net�ensures additional safety for the jumper. Besides that, the frames on this structure feature hot-dip galvanizing technology that protects it from rust. Hence, enhanced durability and stability.
+In addition, the higher enclosure netensures additional safety for the jumper. Besides that, the frames on this structure feature hot-dip galvanizing technology that protects it from rust. Hence, enhanced durability and stability.
 
 Youll also appreciate the longer net poles that extends all the way to the ground. These poles make the net more stable and sturdy for extra safety.
 Pros:

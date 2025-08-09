@@ -22,7 +22,7 @@ So, which are the best mics for recording acoustic guitar? Well, with the many o
 Related:
 9 Best Camera for Music Videos
 .
-## **Reviews: 7 Best Mics for Recording Acoustic Guitar 2025�**
+## **Reviews: 7 Best Mics for Recording Acoustic Guitar 2025**
 ### [**1. Shure SM81 Cardioid Small Diaphragm Mic - #1 Pick**](https://www.amazon.com/dp/B0002D0JHE/?tag=p-policy-20)
 The reputation of SM81 microphone in music production and performance cannot be underestimated.
 
@@ -113,7 +113,7 @@ Pros:
 Cons:
 - None
 
-### [**6. Shure KSM141  Dual-Pattern Cardioid Condenser Mic�**](https://www.amazon.com/dp/B0002J1K8U/?tag=p-policy-20)
+### [**6. Shure KSM141  Dual-Pattern Cardioid Condenser Mic**](https://www.amazon.com/dp/B0002J1K8U/?tag=p-policy-20)
 The reputation of this mic in acoustic guitar and vocal sound recording cannot be without a reason. Its a versatile mic that provides an option for either omnidirectional or cardioid sound pick-up pattern.
 
 While most multi-pattern mics use a twofold diaphragm configuration, KSM141 features one diaphragm.
@@ -135,7 +135,7 @@ Cons:
 If youre recording or performing using an acoustic guitar, you cant go wrong with ATM450 microphone.
 
 Its essentially a cardioid condenser microphone with a frequency response of between 40 Hz and 20 kHz. That makes it ideal for the range of sounds produced by acoustic guitars.
-With its large-diaphragm, ATM450 produces a natural and smooth sound free from background noise. Theres a built-in high pass filter to help minimize noise from low-frequency sounds.� Noise from high-frequency sounds is dealt with by the 10 dB pad which can be switched on or off.
+With its large-diaphragm, ATM450 produces a natural and smooth sound free from background noise. Theres a built-in high pass filter to help minimize noise from low-frequency sounds. Noise from high-frequency sounds is dealt with by the 10 dB pad which can be switched on or off.
 ATM45 also features an isolation clamp which not only provides a means for mounting but also acts as a damper for mechanical interruptions.
 Pros:
 - Clear and filtered sound quality

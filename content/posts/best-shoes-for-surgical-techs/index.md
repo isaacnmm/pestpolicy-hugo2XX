@@ -192,7 +192,7 @@ Cons:
 **Comfort**
 When it comes to buying any type of shoe and in this case Best Shoes for Surgical Techs always lean on the comfort side. Surgical Techs spend most of their time at the OR where they remain standing doing their duties.
 
-These medical personnel needs to invest in comfortable shoes to make their OR days bearable. �Some comfort features to consider include, breathability, reliable traction, good cushioning, and accommodative upper. Among many other features.
+These medical personnel needs to invest in comfortable shoes to make their OR days bearable. Some comfort features to consider include, breathability, reliable traction, good cushioning, and accommodative upper. Among many other features.
 **Ample Protection and Support**
 As a surgical tech, youll want to remain safe and well-supported throughout the surgical operation. Therefore, its crucial you invest in shoes that promote your safety and protection. At the OR, youre at risk of fluids and sharp objects like needles, hence, you need protective wear and this includes supportive closed shoes.
 **Durability**

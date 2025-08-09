@@ -30,7 +30,7 @@ Here's what to look for when distinguishing grassy weeds from your lawn:
     * **Upright vs. Low-Growing:** Some weeds, like Annual Bluegrass, can have a more upright growth compared to a low-mowed turf. Others, like Goosegrass, tend to grow very flat and low to the ground, making them hard to mow.
 
 * **Color:**
-    * **Shade Difference:** While subtle, some grassy weeds might have a slightly different shade of green than your lawn � often lighter, yellowish-green (e.g., Crabgrass) or a distinct bluish-green (e.g., Tall Fescue growing where it's not wanted).
+    * **Shade Difference:** While subtle, some grassy weeds might have a slightly different shade of green than your lawn  often lighter, yellowish-green (e.g., Crabgrass) or a distinct bluish-green (e.g., Tall Fescue growing where it's not wanted).
     * **Seasonal Color:** Some weeds show distinct color changes with temperature, becoming purplish in cold weather (e.g., Annual Bluegrass).
 
 * **Blade Characteristics:**
@@ -53,7 +53,7 @@ Annual grassy weeds complete their entire life cycle (germinate, grow, produce s
 
 1.  **Crabgrass (*Digitaria spp.*):**
     * **Appearance:** One of the most notorious grassy weeds. It's a light-green, coarse-bladed grass that grows in unsightly clumps, often radiating outwards from a central point. It thrives in hot, dry conditions and thin, weak turf.
-    * **Life Cycle:** Germinates in late spring/early summer when soil temperatures consistently reach 55-60�F. Grows vigorously through summer, produces finger-like seed heads, and dies with the first hard frost, leaving behind thousands of seeds for the next year.
+    * **Life Cycle:** Germinates in late spring/early summer when soil temperatures consistently reach 55-60F. Grows vigorously through summer, produces finger-like seed heads, and dies with the first hard frost, leaving behind thousands of seeds for the next year.
     * **Why it's a problem:** Spreads rapidly, outcompetes desirable grass for resources, and leaves bare spots when it dies in fall.
 
 2.  **Annual Bluegrass (*Poa annua*):**
@@ -108,8 +108,8 @@ Controlling grassy weeds requires a multi-pronged approach that combines good cu
 
 2.  **Pre-Emergent Herbicides (for Annual Grassy Weeds):**
     * **Timing is CRITICAL:** These herbicides form a barrier in the soil that prevents seeds from germinating. They do not kill existing plants.
-        * **For Crabgrass/Foxtail/Goosegrass:** Apply in early spring *before* soil temperatures consistently reach 55-60�F (usually when Forsythia bushes are blooming).
-        * **For Annual Bluegrass:** Apply in late summer/early fall *before* soil temperatures drop below 70�F, or in early spring for spring-germinating types.
+        * **For Crabgrass/Foxtail/Goosegrass:** Apply in early spring *before* soil temperatures consistently reach 55-60F (usually when Forsythia bushes are blooming).
+        * **For Annual Bluegrass:** Apply in late summer/early fall *before* soil temperatures drop below 70F, or in early spring for spring-germinating types.
     * **Application:** Apply uniformly using a spreader. Water it in immediately according to label directions to activate the barrier.
     * **Caution:** Do not apply pre-emergent herbicides if you plan to overseed within 6-12 weeks, as it will also prevent your desirable grass seed from germinating.
 

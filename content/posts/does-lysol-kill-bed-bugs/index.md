@@ -23,13 +23,13 @@ So, in summary, does Lysol make for an effective pesticide for bed bugs?
 - So, Lysol is unlikely to kill bed bugs (contrast this toBleach/)), but an exterminator can provide a more thorough and effective solution such as heat treatment.
 
 ## What Kills Bed Bugs?
-Before we tackle the Lysol�question, people typically use a number of chemicals when they're looking for a
+Before we tackle the Lysolquestion, people typically use a number of chemicals when they're looking for a
 pesticide to kill bed bugs
 .
 To kill bed bugs fast, I recommend you use any one of the following: heat (
 steamers
 ) or pesticides.
-- **Lysol will only****�****kill bed bugs if you spray and drown them directly with it. But ****bed bugs will ****escape contact with ****humans by hiding and thus spraying is challenging.�**
+- **Lysol will only********kill bed bugs if you spray and drown them directly with it. But ****bed bugs will ****escape contact with ****humans by hiding and thus spraying is challenging.**
 - **Since ****Lysol is ****not an effective bed bug pesticide, I recommend using pyrethrin pesticides of your contact an exterminator to start a more robust pest removal program.**
 ### **Primary ****Pesticide ****ingredients? **
 Most bed bug pesticides are

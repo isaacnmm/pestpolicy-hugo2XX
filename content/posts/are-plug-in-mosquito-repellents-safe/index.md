@@ -17,20 +17,20 @@ layout: post
 Mosquito repellent plugins [are](https://pestpolicy.com/are-blue-tailed-lizards-poisonous/) the most reliable way of keeping mosquitoes at bay.
 
 But are they safe for us? I have done a comprehensive research on this topic and have some important facts to share with you!
-**Are mosquito repellent plugins safe? When wrongly applied, mosquito repellent plugins can result to the following; they could cause respiratory disorders to babies, allergic reactions, and can cause a condition called hypospadias for babies and pregnant women.�**
+**Are mosquito repellent plugins safe? When wrongly applied, mosquito repellent plugins can result to the following; they could cause respiratory disorders to babies, allergic reactions, and can cause a condition called hypospadias for babies and pregnant women.**
 Let's get started!
 ## Details: Are Plug In Mosquito Repellents Safe?
-Ultrasonic mosquito repellants�devices use high frequency sound waves to keep away mosquitoes.
+Ultrasonic mosquito repellantsdevices use high frequency sound waves to keep away mosquitoes.
 But does this really work? Research shows that ultrasonic mosquito repellants are not as effective as they are purported to be. They are only 57% effective and I wouldn't advice you get them, instead use chemical mosquito plugin.
 - Mosquito repellent plugins work by slowly releasing an insecticide when plugged into a socket and switched on. The plugins use tablets or liquids which is converted to vapor when exposed to heat.
-- Other than mosquitoes, these devices are very effective in killing insects such as horseflies, wasps and bees.�The devices have active ingredients like allethrin, DEETA, permethrin and natural oils.
+- Other than mosquitoes, these devices are very effective in killing insects such as horseflies, wasps and bees.The devices have active ingredients like allethrin, DEETA, permethrin and natural oils.
 - Always carefully read the instructions on the packets before using the device. One thing ,don't use it when the air-conditioning is on, it could violently spread the chemicals that could be toxic for asthmatic and allergic people.
 https://www.youtube.com/watch?v=-Vx41Hg0uM0
-## **What is a Mosquito Repellant Plugin?�**
+## **What is a Mosquito Repellant Plugin?**
 A plug-in mosquito repellent is a device that works by releasing an insecticide gradually once it is plugged into a socket.
 
 They can use either liquid chemicals or tablets, the liquid converts into vapour once exposed to heat. There are various ingredients used in these plugin devices namely DEET, permethrin and natural oils.
-**Types of Plugins�**
+**Types of Plugins**
 -
 *Chemical Plugin*
 ; They contain prallethrin chemical that kills mosquitoes. The chemical poses little danger to you and therefore safe.
@@ -40,19 +40,19 @@ They can use either liquid chemicals or tablets, the liquid converts into vapour
 - They produce high-frequency sound that repels mosquitoes and other insects.
 
 How safe are these plug-in mosquito repellents? When you carefully follow the instructions on the packets before use, the repellants are safe. In contrast, they can be quite harmful when there is skin contact.
-## **Effects of�****Mosquito Repellant Plugin**
+## **Effects of****Mosquito Repellant Plugin**
 ### *i) On pregnant women*
 If the repellant chemical directly comes in contact with the skin, some of it gets absorbed into the blood system which chances of reaching the fetus. Despite the fact that it might not cause birth abnormalities, it could cause a significant threat to the mother's health especially if she is allergic.
 
 For the mothers who got in contact with plugin repellents during the first three months of their pregnancy, their male babies could have a condition called Hypospadias (difficulty opening penis or its foreskin)
-### *ii) On babies�*
+### *ii) On babies*
 Plugin Mosquito repellents emit chemical fumes that could cause various respiratory disorders like asthma to your baby. It is advisable to use mosquito repellants when your baby is over 2 months. Below is how you can use the plugin repellents safely when you have a baby below 2 months.
 - Before the plugin repellant starts working, make sure baby is sit or sleep in a different room.
 - Don't keep the baby in a room with the plugin repellent all night.
 - Dress your baby in full sleeved clothes to prevent their skin from being exposed.
 - Wash your hands thoroughly after handling the repellents before touching your baby.
 - Babyies are crawlers and if you have plugged the repellent in a low level socket, they may attract them. The risk is these plugin repellants heat up quickly and might pause a burning hazard to your baby if he or she touches it.
-## **Why use Mosquito Repellent Plugins ?�**
+## **Why use Mosquito Repellent Plugins ?**
 There are several other methods you can use to prevent or kill mosquitoes, but why should you use mosquito plugins? Here is why;
 ### 1. It is 100% Effective
 Mosquito repellent plugins are a sure method of killing mosquitoes and other house bound insects like wasps and horseflies. They contain the DEET ingredient that kills mosquitoes in totality within a short time.
@@ -75,11 +75,11 @@ It has prallethrin, an insecticide made from chrysanthemums. It releases vapor w
 ### 4. Lifesystems Mosquito Plugin Repellant
 A bottle of it provides up to seven night's protection. The plugin releases an odourless scent that is extremely powerful against mosquitoes but harmless to humans.
 
-It has an active ingredient called Transfluthrin.� It has a battery-powered version making it usable in locations where power supply isn't readily accessible. It doesn't produce any noise nor emit any chemical smells. For the best results, turn it on an hour before you sleep.
+It has an active ingredient called Transfluthrin. It has a battery-powered version making it usable in locations where power supply isn't readily accessible. It doesn't produce any noise nor emit any chemical smells. For the best results, turn it on an hour before you sleep.
 ### 5. MosquitoKiller Plugin Repellant
 It comes with a supply of 15 tablets enough for two weeks. Each tablet last for about 10 hours. It however has an odour that could affect you if you are allergic.
 
-Having talked about the� repellent plugin, you would want to know about mosquitoes, where they breed, and what harm they can cause, right? Keep reading, that's what is next.
+Having talked about the repellent plugin, you would want to know about mosquitoes, where they breed, and what harm they can cause, right? Keep reading, that's what is next.
 ## **Where Mosquitoes Breed **
 Mosquitoes mostly breed in stagnant fresh water. There are however some mosquitoe species that breed can breed in salt water. Below are some of the most likely breeding grounds.
 1. Flower Pots: When you overwater your plants in the flowers pot,you cause stagnant water hence creating a breeding ground.
@@ -104,7 +104,7 @@ Some of its symptoms are tiredness, headache, body aches, fever, nausea, vomitin
 
 Individuals infected with this virus would develop neurologic illnesses such as encephalitis and meningitis which can be deadly.
 ### iv) Yellow Fever
-Individuals who contract this disease mostly don't experience symptoms or any illnesses. But when the symptoms do develop, the patient will develop high fever, jaundice, bleeding, shock or failure of some body organs.�You can however be vaccinated against yellow favour when travelling to high risk areas.
+Individuals who contract this disease mostly don't experience symptoms or any illnesses. But when the symptoms do develop, the patient will develop high fever, jaundice, bleeding, shock or failure of some body organs.You can however be vaccinated against yellow favour when travelling to high risk areas.
 ### v) Lymphatic Filariasis
 This is a mosquito-borne illness that impairs the affected person's lymphatic system. This may result to the enlargement of the different body parts leading to serious issues like pain and disability.
 ### vi) Malaria
@@ -117,13 +117,13 @@ It is caused by the bite of Aedes mosquito and can be transmitted through interc
 Currently, there isn't a specific vaccine or medication for Zika virus giving you even more reasons as to why you should prevent mosquito bites.
 ### viii) Rift Valley Fever
 Symptoms for this illness occur three to seven days after infection and they include back pain, fever, dizziness, weakness and liver abnormalities. In severe cases, patients experience blurry vision which could progress to complete vision loss. Rift Valley fever has treatment and preventive vaccines.
-**How to Prevent Mosquitoes from Breeding.�**
-Listed below are some of the methods you can use to prevent mosquitoes from breeding.�Eliminate Standing Water; emptying and draining all objects that hold standing water like barrels and trash cans as mosquitoes are more likely to breed here.
+**How to Prevent Mosquitoes from Breeding.**
+Listed below are some of the methods you can use to prevent mosquitoes from breeding.Eliminate Standing Water; emptying and draining all objects that hold standing water like barrels and trash cans as mosquitoes are more likely to breed here.
 1. Drill holes in at the bottom of garbage recycling containers. Holes on the sides will allow significant water to accumulate at the bottom of the containers creating a breeding environment for mosquitoes.
 2. Keep gutters unclogged and clean. Always ensure your downspouts are draining properly without leaving clogs in the drainage area.
 3. Keep swimming pools clean and chlorinated. Even when not in use, keep the pools chlorinated .
 4. Ornamental and fish ponds should regularly be aerated to ensure water keeps moving ,this discourages mosquitoes from laying eggs. You can alternatively restock the fish pond with mosquito-eating fish.
-## **Summary�**
+## **Summary**
 Are mosquito repellant plugins safe to use? Sure ,they're! But we have also seen the impact they can cause when you fail to follow instructions.
 
 I would advise you consider mosquito plugin repellents when shopping for such products , they are surely worth the shot!

@@ -78,7 +78,7 @@ With the leather sectional sofa, you will effectively entertain your family with
 - Durable genuine leather
 - Has chaise section, back support pillows, and a rectangular ottoman
 - Easy to assemble
-**Types of leather sofas:�**
+**Types of leather sofas:**
 Contemporary leather sectional sofa, - leather recliner, - oversized leather sectional sofa, - rustic couch, - chaise black leather sectional sofa, and - top grain leather sectional sofa
 ## Conclusion
 Leather sectional sofas will make your living room look beautiful and classy.

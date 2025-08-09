@@ -23,7 +23,7 @@ Fertilizer burn is a setback that can leave homeowners frustrated and their lawn
 
 Fertilizer burn, often referred to as "chemical burn" or "salt burn," occurs when grass roots are exposed to an excessive concentration of salts present in fertilizers. Most fertilizers, particularly synthetic ones, are composed of mineral salts that dissolve in water to release nutrients. While a controlled amount of these salts is beneficial for plant uptake, too much can create an osmotic imbalance.
 
-In simple terms, when the salt concentration in the soil around the grass roots becomes higher than the salt concentration inside the roots, water is drawn *out* of the roots rather than being absorbed *into* them. This process, known as reverse osmosis, essentially dehydrates the grass cells, causing them to dry out, turn yellow or brown, and eventually die. The effect is similar to what happens when you pour salt on a slug � it draws out the moisture. This rapid dehydration is why the damage appears so quickly and severely, mimicking a scorched appearance.
+In simple terms, when the salt concentration in the soil around the grass roots becomes higher than the salt concentration inside the roots, water is drawn *out* of the roots rather than being absorbed *into* them. This process, known as reverse osmosis, essentially dehydrates the grass cells, causing them to dry out, turn yellow or brown, and eventually die. The effect is similar to what happens when you pour salt on a slug  it draws out the moisture. This rapid dehydration is why the damage appears so quickly and severely, mimicking a scorched appearance.
 
 ## Identifying Fertilizer Burn
 

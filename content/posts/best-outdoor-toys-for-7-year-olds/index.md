@@ -33,9 +33,9 @@ Youll love the creativity of your kids as they work to overcome the 9 obstacles 
 
 The course has the following components spinning wheel, gymnastic rings, monkey bars, monkey fist knot, 2 freestyle rings, and webbing rope ladder among many other activities.
 
-Other than that, the Ninja Warrior Obstacle Course has put in place excellent safety measures to ensure your little one is safe throughout the training.� The innovative hook system and carabiner can accommodate up to 1000 lbs.
+Other than that, the Ninja Warrior Obstacle Course has put in place excellent safety measures to ensure your little one is safe throughout the training. The innovative hook system and carabiner can accommodate up to 1000 lbs.
 
-The ninja course is also easy to assemble. Simply attach the slackline to 2 strong trees. The trees should be about 10-55 ft. apart.� Add the obstacles and let your kids have fun.
+The ninja course is also easy to assemble. Simply attach the slackline to 2 strong trees. The trees should be about 10-55 ft. apart. Add the obstacles and let your kids have fun.
 
 The ninja course kit also features a detailed manual guide that makes the installation process easy and convenient.
 Pros:
@@ -133,7 +133,7 @@ If you want to teach your 7-year-old about the different types of airplanes pick
 
 This Klutz book is amazing. Its simple to read and understand. it has child-friendly and very interactive reading material that will appeal to you and your child. The book is also sturdy and features paper at the back which you can fold for flying.
 
-Furthermore, the Airplanes Craft Kit comes with 10 different planes and an array of patterned papers.� It also features 40 sheets that are custom-designed for additional fun.
+Furthermore, the Airplanes Craft Kit comes with 10 different planes and an array of patterned papers. It also features 40 sheets that are custom-designed for additional fun.
 
 Other than that, the kit comes with easy-to-follow instructions and the paper produces the best paper airplanes with unique designs.
 
@@ -159,7 +159,7 @@ This remote control car has a waterproof design. The car can do all stunts imagi
 
 More than that, the Off-road monster design of this remote control car allows it to go through rough terrains like the grass, mud, and sandy beach among others.
 
-Furthermore, the remote car has 7 functional modes that ensure its efficiency.� The application modes include automatic, 180 double-sided rolling, 360 rotation, forward, backward, and turn left.
+Furthermore, the remote car has 7 functional modes that ensure its efficiency. The application modes include automatic, 180 double-sided rolling, 360 rotation, forward, backward, and turn left.
 
 The remote control car has a strong and sturdy body design thats made with non-toxic ABS Plastic and superior metal materials. These materials are safe for children. The car also meets the highest certification standards.
 

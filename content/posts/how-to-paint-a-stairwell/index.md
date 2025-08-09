@@ -14,7 +14,7 @@ layout: post
 ---
 [Stairwell](https://pestpolicy.com/how-do-you-paint-a-ceiling-in-a-stairwell/) painting may not be easy, especially when the wrong procedure or paint selection is engaged. Low-quality paint or inappropriate painting procedure leads to peeling and scuffing with time. Could you be facing similar challenges?
 
-*On how to paint a stairwell - select the tools and material required, clean the surface, strip old paint, sand the surface, and fill & repair damaged sections before final polishing.�*
+*On how to paint a stairwell - select the tools and material required, clean the surface, strip old paint, sand the surface, and fill & repair damaged sections before final polishing.*
 *Besides, you must select the right primer and prepare it accordingly, apply the primer, select and prepare finish paint, apply to finish paint, and undertake quality coat finish. You will also need to cover unwanted sections (to prevent staining) and prioritize painting handrails before coating the stairwell.*
 ## Details: How to Paint a Stairwell
 *For safety purposes, wear protective gear and adhere to precautions highlighted in this article. *
@@ -35,8 +35,8 @@ ools and material required are:
 - Using a broom, sweep the stairwell and dust the handrail. Alternatively use a blower or a vacuum cleaner to remove dust particles and debris from the surface
 - Mop the stairwell and leave it to dry
 - Set extension ladder in place for easier access to higher sections
-### Step 1:�Strip off old paint
-- Prepare to strip�chemical as per the manufacturers guidelines
+### Step 1:Strip off old paint
+- Prepare to stripchemical as per the manufacturers guidelines
 - Apply to strip chemical over the stairwell using a paintbrush until the entire surface is covered
 - Leave the stripping chemical to cure and quench sufficiently
 - Using a paint scraper, strip the old paint gently. Be careful not to damage the primary stairwell material
@@ -75,7 +75,7 @@ Importantly, match your primer with the finish paint option  water-based primer 
 - Thin appropriately  as per the manufacturers instructions
 - Stir sufficiently until the primer mix uniformly
 - Test the solvent over the stairwell to assess the stickiness level
-### Step 1:�Apply the Primer
+### Step 1:Apply the Primer
 - Dip the paintbrush or a roller into the primer solvent and load sufficiently
 - Cut off excess primer to prevent runs or surface drains
 - Apply primer  back and forth gently

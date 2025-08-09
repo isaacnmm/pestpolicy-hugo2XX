@@ -116,7 +116,7 @@ Pros:
 - Well made
 - Doesnt produce noise as you bounce
 - Durable
-- Uses cords instead of springs�for enhanced safety
+- Uses cords instead of springsfor enhanced safety
 
 Cons:
 - A bit pricey
@@ -164,7 +164,7 @@ Pros:
 - Non-slip legs
 
 Cons:
-- Some people complain that the Stability bars�came apart after few months of use
+- Some people complain that the Stability barscame apart after few months of use
 
 ### [7. Sportplus Unisex Quiet Miniature Indoor Rebounder](https://www.amazon.com/dp/B01N8W1WI4/?tag=p-policy-20)
 If youre looking for joint-friendly workouts, you need to invest in this high-performing rebounder for seniors. This trampoline is ideal for low-impact exercises. It will help you to recuperate quickly as you shed off excess fat.

@@ -25,7 +25,7 @@ The sprayer must have an efficient design and light-weight construction to allow
 ### [1. Graco-TrueCoat 17A466-360 DS Paint Gun or Sprayer](https://www.amazon.com/dp/B00NHX6UWY/?tag=p-policy-20)
 Maybe you prefer light and small [sprayers](https://pestpolicy.com/best-paint-sprayer-for-ceiling/) for oil- or water-based paints and
 Enamel or Latex
-.�Graco-TrueCoat 17A466-360 has great usable adjustments - the high-speed plus the low-speed setting.
+.Graco-TrueCoat 17A466-360 has great usable adjustments - the high-speed plus the low-speed setting.
 
 The Graco-TrueCoat 17A466-360
 [professional [sprayer](https://pestpolicy.com/best-paint-sprayer-for-doors/)](https://pestpolicy.com/best-professional-airless-paint-sprayer/)
@@ -59,7 +59,7 @@ Wagner-0525029 Pro is described as a revolutionary sprayer with power control to
 kitchen cabinets
 .
 
-Wagner-0525029 Pro has lesser over-spray thanks to the 2-setting power for your thin materials.� With the backpack and 5-foot suction, you can paint directly from the backpack or can.
+Wagner-0525029 Pro has lesser over-spray thanks to the 2-setting power for your thin materials. With the backpack and 5-foot suction, you can paint directly from the backpack or can.
 For painting on large surfaces or trim, the 3-speed control (electronic) makes it easy to undertake different painting tasks - and fast ~ about 8 Gallons every hour even with
 wooden furniture
 .
@@ -121,7 +121,7 @@ The sprayer's piston pump is made from steel and will thus allow adjusting of fl
 spray tips and guns
 .
 You can streamline the sprayer's flow rate thanks to the locking mechanism that is secure - and hence suitable for spraying the complex structural designs.
-Graco-TrueCoat 16Y385� allows precision control of finishings even on curved and narrow objects. You can paint in different directions on wardrobes, shelves, cabinets, and cupboards.
+Graco-TrueCoat 16Y385 allows precision control of finishings even on curved and narrow objects. You can paint in different directions on wardrobes, shelves, cabinets, and cupboards.
 With the sprayer working for several days, you'll get that professional experience. It'll work on tough and complex painting projects with unmatched ease.
 The
 spray tip is reversible allows continuous spraying and thus prevents

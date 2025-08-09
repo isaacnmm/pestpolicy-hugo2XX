@@ -19,7 +19,7 @@ Spring is here and with it,
 . In this article, I'll provide tips on how to get [rid](https://pestpolicy.com/getting-rid-of-fleas-in-the-carpet/) of sand [fleas](https://pestpolicy.com/how-do-i-get-rid-of-fleas-in-my-house-without-bombing/).
 - These tiny parasitic bugs inhabit humid beaches or coastal climates and they're known for their bite, itchiness, and difficulty to get rid of.
 - Sand fleas can bite both dogs and cats, as well as birds and humans. These itch-inducing bites can cause fatal infections or recurring skin conditions.
-So, inspect your pets, luggage, and home for sand fleas and undertake appropriate steps to prevent re-infestation.�Related:
+So, inspect your pets, luggage, and home for sand fleas and undertake appropriate steps to prevent re-infestation.Related:
 Flea Spray for Garden
 .
 
@@ -97,7 +97,7 @@ Sand flea eggs that are deposited on clothes or bedding can be removed by launde
 It's also worth mentioning that washing those clothing items in cold water may not effectively kill all of the larvae because sand flea eggs have an outer shell that resists heat.
 If you share a room, check all of the bedding items and clothing for sand fleas.
 Inspect and clean dirty shoes to make sure sand fleas are not being transported back to your home.
-- Inspect your feet and footwear when getting back home.�Look at the seams, fabric lining, and in-sole of shoes before you enter your house.
+- Inspect your feet and footwear when getting back home.Look at the seams, fabric lining, and in-sole of shoes before you enter your house.
 If you don't plan to clean the shoes right away, spray them with an insecticide containing permethrin or leave them outdoors; otherwise bag those up as well.
 ## Approach 4: Treat your Pets for Sand Fleas
 ### Step 1: Inspect cats & Dogs for Signs of Sand fleas

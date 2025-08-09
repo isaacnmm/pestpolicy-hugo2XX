@@ -20,7 +20,7 @@ from the [metal](https://pestpolicy.com/can-you-use-acrylic-paint-on-metal/) sur
 Often, people destroy the metal surface or the entire structural impression during paint restoration and end up attaining a low-quality finish.
 *Well, in this article, I will be discussing how to remove paint from a metal railing. First, you need to set aside materials and tools required for paint removal and clean the metal rail surface with a paintbrush or a piece of cloth to eliminate dust and surface debris.*
 *Then, identify the type of paint applied on the rail (is paint oil-based or water-based?), check the metal type, and decide on the method to use before commencing the paint removal process. You can remove paint by using stripping chemicals, using a heat gun, a sander/polishing machine, or a wire brush and soap detergent. *
-*The method of paint removal selected is a function of the extent of the painted area and the nature of the paint (is the paint wet or dried?). You ought to follow the procedure highlighted for each paint removal method in order to attain a quality finish and prevent damage to the primary metal surface.��*
+*The method of paint removal selected is a function of the extent of the painted area and the nature of the paint (is the paint wet or dried?). You ought to follow the procedure highlighted for each paint removal method in order to attain a quality finish and prevent damage to the primary metal surface.*
 ## Details: How to Remove Paint from Metal Railing
 ### a. Select the Required Items and Tools
 - Stripping chemical turpentine or thinner
@@ -56,7 +56,7 @@ https://www.youtube.com/watch?v=19tG3-8Ls-4&t=47s
 - Repeat the steps above until the entire paint layer is completely removed
 - Clean the metal surface with water to remove paint traces
 The heat from the heat gun breaks the paint molecules into a weak molecular form, which is more comfortable to clean.
-This method is suitable for dried oil-based paint.�However, the method is slightly expensive for commercial use.
+This method is suitable for dried oil-based paint.However, the method is slightly expensive for commercial use.
 Moreover, this method is applicable in areas with power connections.
 ### d. Using Sander and Polishing Machine
 - Plug the sander into a power source and switch on

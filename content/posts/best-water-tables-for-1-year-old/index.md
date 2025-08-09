@@ -114,7 +114,7 @@ The playset features the Wavemaker Wheel that adds to the fun and excitement of 
 
 More than that, this water table is large enough to accommodate multiple kids to play all at once. So, if there are other older children in the house they can all play together at once.
 
-Furthermore, this water table features mermaid-themed characters that include two mermaids, an oyster shell, a water bucket, and two narwhals. The playset also features spinning palm trees, �waterfall slides, and hiding places. All these interactive elements provide a fun way to learn, imagine,� and think.
+Furthermore, this water table features mermaid-themed characters that include two mermaids, an oyster shell, a water bucket, and two narwhals. The playset also features spinning palm trees, waterfall slides, and hiding places. All these interactive elements provide a fun way to learn, imagine, and think.
 Pros:
 - Easy to assemble
 - Accommodates multiple kids

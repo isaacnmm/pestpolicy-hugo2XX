@@ -163,7 +163,7 @@ Timing is one of the most critical factors for successful overseeding. Applying 
 
 **General Guidelines for Optimal Timing:**
 
-* **Soil Temperature:** For cool-season grasses, aim for soil temperatures between 50-65�F (10-18�C). For warm-season grasses, aim for soil temperatures consistently above 65�F (18�C). A soil thermometer is a valuable tool.
+* **Soil Temperature:** For cool-season grasses, aim for soil temperatures between 50-65F (10-18C). For warm-season grasses, aim for soil temperatures consistently above 65F (18C). A soil thermometer is a valuable tool.
 * **Avoid Extreme Weather:** Never overseed just before a heatwave, drought, or a severe cold snap, as this will likely kill the young seedlings.
 
 By carefully timing your overseeding efforts, you significantly increase the chances of successful germination and establishment, leading to a thicker, healthier lawn.
@@ -172,7 +172,7 @@ By carefully timing your overseeding efforts, you significantly increase the cha
 
 Effective overseeding involves more than just scattering seed. Proper preparation and application techniques are crucial for ensuring good seed-to-soil contact, which is essential for germination and establishment.
 
-Here�s a step-by-step guide to the best way to overseed your lawn:
+Heres a step-by-step guide to the best way to overseed your lawn:
 
 1.  **Mow Your Lawn Low:**
     * Before overseeding, mow your existing lawn shorter than usual, about 1-2 inches high. This reduces the competition from established grass for sunlight and moisture, allowing the new seedlings to get enough light. Bag the clippings to expose the soil.

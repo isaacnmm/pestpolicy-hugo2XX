@@ -21,18 +21,18 @@ essential oils/)
 *d*
 *oes Baby Powder Kill Bed Bugs? *
 - ***The short answer is, NO, baby powder can't kill bed bugs. Baby powder will only irritate bed bugs or will only musk the scent from the bugs.***
-- ***However, the powder may kill the bed bugs only by trapping them.�Related: Pictures of Bed Bugs.�**
+- ***However, the powder may kill the bed bugs only by trapping them.Related: Pictures of Bed Bugs.**
 *
 
 ## Does Baby Powder Kill Bed Bugs? DIY Bed Bug Treatment
-**Myth 1:�**
+**Myth 1:**
 *Baby powder will dry the bed bugs skin*
-- Well, homeowners wrongly claim that baby powder�will work like
+- Well, homeowners wrongly claim that baby powderwill work like
 diatomaceous earth
 - that it'll dry the bug's skin.
 You'd need to sprinkle the baby powder on floors, furniture, and mattress.
 - If it were true, the powder would dry out the bed bug's exoskeleton and thus dehydrate them - includingbaby bed bugs.
-**Myth 2:�**
+**Myth 2:**
 Locking bed bugs in containers with baby powder
 will kill them
 . This is partly true, but the bugs wont die from any
@@ -65,7 +65,7 @@ As noted above, a
 bed bug trap will work well
 if created using baby powder having talcum - particularly when combined with some other ingredients.
 Dr. Changlu Wang put down this bed bug trap research from Rutgers University. Below are the retirements as outlined by the researcher:
-1. Masking tape,�Gloves,�Talcum baby powder,�A cotton ball, and dry ice cubes
+1. Masking tape,Gloves,Talcum baby powder,A cotton ball, and dry ice cubes
 2. Thermos flask, flat-bottomed pet dish, and fabric that'll fully cover the pet dish's outer surface.
 So, let's dive into how actually to assemble this bed bug trap to achieve top effectiveness.
 1. Cover the out surface of the pet dish using the fabrics plus the glue from the masking tape. This enables thebed bugs to climbonto the pet dish.
@@ -84,7 +84,7 @@ methods we can use to control
 bed bugs. Check this
 guide to check where bed bugs hide
 .
-### 1. Bed Bug�Aerosol Spray
+### 1. Bed BugAerosol Spray
 Bed bugsprays
 will be great insecticides that'll quickly get into the crevices and cracks.
 Using

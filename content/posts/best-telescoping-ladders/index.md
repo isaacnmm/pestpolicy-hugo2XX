@@ -18,7 +18,7 @@ A telescopic model gives you the convenience of a collapsible frame allowing you
 The best telescoping ladders are highly flexible, durable, and light enough to carry around just like
 folding ladders for painters
 .
-## **7 Best Telescoping Ladders�**
+## **7 Best Telescoping Ladders**
 ### [1. Xtend+Climb Home Series 770P+ Telescoping ladders](https://www.amazon.com/dp/B00FX9M8CG/?tag=p-policy-20)
 This versatile edition was designed with homeowners and DIYers in mind because it is not only compact and portable, but it is also a safe, durable, and strong alternative to other rival products.
 S

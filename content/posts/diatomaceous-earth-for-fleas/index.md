@@ -26,17 +26,17 @@ Diatomaceous Earth
 for fleas' extermination safely. But you can click here to check out how to use
 DE.
 
-## **What's Diatomaceous Earth? How Does It Work?�**
+## **What's Diatomaceous Earth? How Does It Work?**
 **Definition**
 : Diatomaceous Earth is a soft (powdered) sedimentary rock discovered by a farmer in the 1830s initially thought to be limestone. DE is made up of fossil diatoms, which are hard-shelled algae from different water plants.
 DE powder has tiny, razor-sharp edges (if checked through a microscopic) that'll quickly shred or break the fleas' exoskeletons and its inner organs, which is definitely fatal.
-***Sidenote**: These characteristics have afforded Diatomaceous Earth various applications in mild abrasion, mechanical insect repelling, and filtration (charcoal filters).�*
+***Sidenote**: These characteristics have afforded Diatomaceous Earth various applications in mild abrasion, mechanical insect repelling, and filtration (charcoal filters).*
 If inhaled, the small razor-like diatoms in Diatomaceous Earth will damage the
 flea's respiratory system and kill
 the bug. Fortunately, DE works through mechanical action, and thus fleas won't develop resistance like they do with chemical flea killers.
 DE will also dehydrate and
 kill other insects such as fleas
-, aphids,� lice, ticks, mites, roaches, ants, bed bugs, and various garden pests. Diatomaceous Earth is suitable for controlling adult and
+, aphids, lice, ticks, mites, roaches, ants, bed bugs, and various garden pests. Diatomaceous Earth is suitable for controlling adult and
 larvae fleas
 in dry or indoor spaces like pet bedding or houses.
 ## How Long Does the DE's Action Last?
@@ -50,7 +50,7 @@ Diatomaceous Earth will be effective against fleas for three weeks in your yard,
 - Keep your Diatomaceous Earth powder dry, or it'll lose its power. Thus, you must not expose the DE to rain or sprinkler water when flea treating your porches, gardens, or yards.
 - For wet grounds or in the rainy season, useflea sprayswith[pyrethroids](https://citybugs.tamu.edu/factsheets/ipm/ent-6003/)like esfenvalerate and esfenvalerate or other IGR pyriproxifen.
 ## Using Diatomaceous Earth for Fleas (Step By Step)
-Only use "food-grade" Diatomaceous Earth since it has no added chemicals that would otherwise poison your kids and pets.�DE used for charcoal filters or swimming pool has carcinogenic ingredients. But, many of the
+Only use "food-grade" Diatomaceous Earth since it has no added chemicals that would otherwise poison your kids and pets.DE used for charcoal filters or swimming pool has carcinogenic ingredients. But, many of the
 pest control
 DE options are crystalline in nature.
 **Step 1: **
@@ -105,31 +105,31 @@ efforts should essentially concentrate on areas where flea larvae are mainly fou
 I was experiencing a problem with fleas in our garden. It seemed no matter my efforts; the fleas would still keep coming back. I had sprayed some over-the-counter solutions and permethrin, but I was playing a falling battle. Luckily, diatomaceous earth came into the picture to save my face against embarrassment from the fleas and ants.
 So, use Diatomaceous earth to kill fleas in your deck and yard effectively. You'll need to sprinkle the Diatomaceous earth powder in the yard and around the house, particularly in places where the cats and dogs stay mainly.
 **Caution**
-:�Diatomaceous earth will be less effective when wet - either due to rains or just yard irrigation and watering. Therefore, DE will be more active on�concrete,�gravel, or�bare ground. Besides, you'll need to reapply the�Diatomaceous earth after watering the yard or following the�rains.
+:Diatomaceous earth will be less effective when wet - either due to rains or just yard irrigation and watering. Therefore, DE will be more active onconcrete,gravel, orbare ground. Besides, you'll need to reapply theDiatomaceous earth after watering the yard or following therains.
 - Sprinkle a handful of the Diatomaceous earth powder into the yard and let the dust drip into the flea-infested places.
-- Alternatively, you can use a�dust spreader that will increase your efficiency and speed or applying the�Diatomaceous earth.
+- Alternatively, you can use adust spreader that will increase your efficiency and speed or applying theDiatomaceous earth.
 - If the prevalent weather is dry (for the next ten days), you can mix the Diatomaceous earth with water - the DE mixture will change topowder within the next one week and killthe fleas.
-DE,�like any other dust, is poisonous if inhaled in large quantities. Also,�DE's sharp edges can harm the soft tissues in your lungs and throat. Therefore, use�safety goggles and�dust-filtering masks when handling or applying diatomaceous earth for fleas.
+DE,like any other dust, is poisonous if inhaled in large quantities. Also,DE's sharp edges can harm the soft tissues in your lungs and throat. Therefore, usesafety goggles anddust-filtering masks when handling or applying diatomaceous earth for fleas.
 Despite that diatomaceous earth is not a quick-action flea solution, it's highly effective on heavily infested areas by fleas and fleas larvae, such as pet bedding and house.
 How to locate the flea-infested yard areas
 To quickly find the flea-infested areas in your yard, wear some knee-high and white socks, and stand at one location in the backyard. If fleas are in the areas you're standing, you'll see the Persky pests jumping onto your white socks.
 However, massive flea infestation will be concentrated on a few critical areas instead of being in the whole yard. But yard areas that received a lot of foot traffic or extended direct sunlight won't experience massive flea infestations.
-On the contrary, secluded and shaded areas are more prone to massive flea infestations. For example, such fields include�kennels,�doghouses, and places that dogs or cats take a rest in your yard or garden.
+On the contrary, secluded and shaded areas are more prone to massive flea infestations. For example, such fields includekennels,doghouses, and places that dogs or cats take a rest in your yard or garden.
 ## Diatomaceous Earth for Fleas on Cats
 As a natural and thus safe flea control solution,
 [Diatomaceous earth (DE) is excellent for cats](https://pestpolicy.com/diatomaceous-earth-for-fleas-on-cats/)
 . Therefore, follow the below-outlined
 steps to control fleas
 in cats using Diatomaceous earth.
-### 1.**Check The Flea-prone areas�**
+### 1.**Check The Flea-prone areas**
 First, you'll need to identify the areas in your house and backyard that are highly prone to flea infestation - particularly places where the cat tends to spend a lot of its time.
-Suspect areas include their loved�rug or�pillow, the�cat tree,�kennel, or bed. Therefore, pay special attention to the outlined regions when you're applying the�diatomaceous earth.
+Suspect areas include their lovedrug orpillow, thecat tree,kennel, or bed. Therefore, pay special attention to the outlined regions when you're applying thediatomaceous earth.
 ### 2. Vacuum Cat's sleeping areas
 Next up, clean and vacuum the cat's sleeping things and places such as the pillow, rugs. And kennel - particularly areas where the cats mainly rest. I recommend you use a shop vac instead of the regular vacuum, as the latter would burn its motor since DE will be hard on it.
 Vacuuming will assist in gathering all the fleas eggs that could be dropped in the areas. This is particularly helpful as it'll remove the flea eggs that the diatomaceous earth can't kill until the time they become a flea larva with a relatively soft exoskeleton.
-**3. Pour the Diatomaceous Earth�**
-Next up, it's time that you now pour the diatomaceous earth into the cat's resting places. I would suggest you use DE spreaders, a� tied-off sock, or a sieve. The areas to concentrate on include the cat bedding.
-However, ensure that you apply the�diatomaceous earth only on the relatively dry areas as it'll ensure that the powder is more effective against fleas attacking your act. Also, allow the�DE to settle on the application area for about 14 days.
+**3. Pour the Diatomaceous Earth**
+Next up, it's time that you now pour the diatomaceous earth into the cat's resting places. I would suggest you use DE spreaders, a tied-off sock, or a sieve. The areas to concentrate on include the cat bedding.
+However, ensure that you apply thediatomaceous earth only on the relatively dry areas as it'll ensure that the powder is more effective against fleas attacking your act. Also, allow theDE to settle on the application area for about 14 days.
 ### 4. Flea Comb your cat
 Sadly so, some
 fleas might survive the above harsh treatment
@@ -142,11 +142,11 @@ fur won't escape. Also, repeat the
 flea combing
 process a couple of times a week. To clean up this diatomaceous earth, use the shop vac, some wet towels, and filterless vacuums.
 ## Diatomaceous Earth for Fleas on Dogs
-You can use�Diatomaceous earth (DE) to prevent or control the number of
+You can useDiatomaceous earth (DE) to prevent or control the number of
 fleas that could be biting
 your dog. Luckily, as noted above, DE is both
 [safe and effective against fleas to use on your lovely dog](https://pestpolicy.com/diatomaceous-earth-for-fleas-on-dogs/)
-. Check the flea control steps you can take on your dog using�Diatomaceous earth.
+. Check the flea control steps you can take on your dog usingDiatomaceous earth.
 ### 1. Consider areas where your Dog rests
 First things first, you'll need to consider the places where your dog will spend its time in the house or even in the yard.
 Like cats, dogs will spend their time in places such as rugs, pillows, kennels, or beds. Therefore, you'll have known the places you'll concentrate on your application of diatomaceous earth.
@@ -159,7 +159,7 @@ flea eggs than the larvae
 and adult flea stages as it has a protective cover.
 ### 3. Sprinkle the Diatomaceous Earth
 Now, onto the main process using our diatomaceous earth. Just like when we were considering cats above, you may use a DE applicator, tied-off sock, or a simple sieve to spread the diatomaceous earth on the identified places.
-The places to concentrate on are�blankets or pet beds  but this must be done with the powder in its dry form to achieve the highest level of effectiveness.
+The places to concentrate on areblankets or pet beds  but this must be done with the powder in its dry form to achieve the highest level of effectiveness.
 Finally, allow the Diatomaceous Earth powder to stand on the sprinkled areas for about 2-3 weeks to kill all the adult
 fleas and their larvae
 .

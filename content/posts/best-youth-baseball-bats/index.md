@@ -16,7 +16,7 @@ layout: post
 To maintain long-term game integrity, all youth players (sluggers) must acquire the
 best youth baseball bats
 that comply with the wood-like performance standard.
-- Therefore, the new bats must be made from alloy or composite and thus "seem like wood."�Related:[Best Infield Gloves](https://pestpolicy.com/best-infield-gloves/).
+- Therefore, the new bats must be made from alloy or composite and thus "seem like wood."Related:[Best Infield Gloves](https://pestpolicy.com/best-infield-gloves/).
 Scouting for Youth Baseball Bats? What's New? The
 [wood-like USABat standard](http://web.usabaseball.com/video/play.jsp?content_id=1594584083)
 has dramatically changed the youth baseball arena, starting 1
@@ -127,6 +127,6 @@ Youth bats are controlled by the USSSA 1.15 Bat Performance Factor (BPF) standar
 - Youth baseball bats have a light and straightforward design but are adequately rough to allow rough handling.
 They are created from composite, alloy, or high-tech materials.
 ## Conclusion
-What does this imply?�The new baseball standard aims to level the playing for pitchers and batters since previous bats had become too powerful and thus unfairly advantaged batters using the hot bats.
+What does this imply?The new baseball standard aims to level the playing for pitchers and batters since previous bats had become too powerful and thus unfairly advantaged batters using the hot bats.
 - Further, the new bats should match the 2 5/8- and 2 1/4- inch dimensions.
 Also, a drop-weight limit will not be applied. However, the solid wood and one-piece bats are auto-approved for the new standard.

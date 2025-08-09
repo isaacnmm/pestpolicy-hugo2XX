@@ -17,7 +17,7 @@ layout: post
 Spiders, those unwelcome houseguests! They often seek refuge indoors during colder months, especially in our cozy heated homes. When we spot them, we scramble to find ways to
 eliminate them
 , like considering [bleach](https://pestpolicy.com/does-bleach-kill-bed-bugs/) (Sodium Hypochlorite).
-**But does bleach  really work against spiders? Indeed, highly concentrated bleach (above 11%) with its potent acidity can effectively exterminate spiders, their eggs, and even other pests like flies when generously applied.�**
+**But does bleach  really work against spiders? Indeed, highly concentrated bleach (above 11%) with its potent acidity can effectively exterminate spiders, their eggs, and even other pests like flies when generously applied.**
 However, it's important to be aware that bleach is not environmentally friendly due to its high toxicity. When using it indoors, protective gear is essential. Additionally, be cautious about using bleach on hardwood floors or natural materials such as wood and stone.
 
 For a simpler and more efficient spider control solution, consider opting for specialized products designed to eradicate these arachnids, such as

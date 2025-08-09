@@ -75,7 +75,7 @@ If you cant distinguish between a good and a bad paint, here is a very simple wa
 First, you can open the can and smell it. If the paint is bad, it will have a very staunch smell. This is a clear indication that that paint should be thrown away.
 Secondly, try to stir the paint with a stirrer. If the paint is good, it will stir gently and the paint will liquefy and you can try it out by painting on a board to the teat on its consistency.
 To some extent, the spoilt paints may develop molds and mildew which is a clear indication that the paint is bad and beyond repair.
-Caution:�In some instances, the paint may have some lumps and some clever bunch may try to use a filter mechanism to get off the lumps and reuse the paint.
+Caution:In some instances, the paint may have some lumps and some clever bunch may try to use a filter mechanism to get off the lumps and reuse the paint.
 Once the paint has developed the lumps, its done, it's dead and there is nothing you can do about it.
 > See Also:
 > [Paint Stripper for Metal](https://pestpolicy.com/best-paint-stripper-for-metal/)

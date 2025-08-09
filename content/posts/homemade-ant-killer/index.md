@@ -20,7 +20,7 @@ These are tried and tested
 that can be easily made using locally available materials and simple equipment.
 Below is my guide on how to make simple
 ant killers
-in the comfort of your home.�Related:
+in the comfort of your home.Related:
 Fire Ant Killer for Lawns
 .
 
@@ -133,7 +133,7 @@ eat sweet food
 7. Store the remaining bait in an airtight container and at room temperature. Keep the substance out of reach of children and pets.
 ### **7. Cinnamon Solution**
 As an essential oil, cinnamon can be used to repel and kill ants. Ants cannot withstand the smell of cinnamon. So, you can keep them away by treating your surfaces with the recipe.
-It will repel those already in the house and prevent new ones from entering the house.�Cinnamon oil is
+It will repel those already in the house and prevent new ones from entering the house.Cinnamon oil is
 safe to use around kids and pets
 . When sprayed in the house, it leaves a very inviting fragrance.
 *Requirements*
@@ -164,7 +164,7 @@ The soap interferes with the ants pheromones, making them unable to follow track
 5. Keep your spray ready and use it to kill the ants you see crawling on your surfaces.
 Related:
 [How to Get Rid Of Ants in the Bathroom](https://pestpolicy.com/how-to-get-rid-of-ants-in-the-bathroom/)
-### **9. Baking Soda, Dish Soap & Apple Cider Vinegar�**
+### **9. Baking Soda, Dish Soap & Apple Cider Vinegar**
 You dont have to worry about using chemicals to eradicate ants in your house. With simple over the counter ingredients, you can make an effective ant killer. You can use it indoors without worrying about your kids and pets. Plus, it smells nice!
 *Requirements*
 : Baking soda, Apple cider vinegar, dish soap, and Water.
@@ -206,7 +206,7 @@ The jelly appeals to ants to come and eat the bait. When they ingest the bait, b
 5. Make some holes on the lid andplace it outside near ant mounds or commonentry points. Ants will get inside the container to eat the bait. Your bait wont be destroyed by rain.
 6. Keep replacing thebait stationsuntil you get rid of all ants.
 7. You can store the unused bait in a sealable jar and label it clearly to avoid accidental misuse.
-### **12. Borax Powder, Sugar, Molasses & Yeast�**
+### **12. Borax Powder, Sugar, Molasses & Yeast**
 Ants are always looking for something sweet to eat. This recipe contains three ingredients that will tempt the ants to eat your bait: sugar, molasses, and yeast.
 The sticky molasses conceals the borax powder making it invisible to the unsuspecting ants.
 *Requirements*
@@ -220,11 +220,11 @@ The sticky molasses conceals the borax powder making it invisible to the unsuspe
 4. Ants will consume the sweet deadly bait and share it with the rest of the colony, including the queen. Thus, it is possible to wipe out the entire colony with this bait.
 5. Once the bait is consumed, clean your surfaces with soapy water to deter new ants from following the trails.
 6. Store the unused bait in an airtight jar away from children and pets.
-### **13. Clove, Tea Tree, and Peppermint�**
+### **13. Clove, Tea Tree, and Peppermint**
 This combination of essential oils will eliminate ants in your house and prevent new ones from coming in.
 While these
 essential
-oils' scent�appeals to humans, it is disgusting to insects such as ants. The scent is so powerful to keep ants at bay for a long time.
+oils' scentappeals to humans, it is disgusting to insects such as ants. The scent is so powerful to keep ants at bay for a long time.
 *Ingredients*
 : Peppermint oil, Tea tree oil, and Clove oil
 *Equipment*
@@ -238,7 +238,7 @@ oils' scent�appeals to humans, it is disgusting to insects such as ants. The s
 6. Store the unused solution in an airtight container for future use.
 Check Out:
 Bed Bugs vs. Ants
-### **14. Citrus Oil, Molasses, Dish Soap, and Water��**
+### **14. Citrus Oil, Molasses, Dish Soap, and Water**
 Dish soap and citrus oil are toxic ingredients you can use to eradicate ants in your house. Molasses acts as the luring ingredient to make the ants come to your bait.
 The solution can be used inside the house without worrying about kids and pets. Plus, you can use it on your plants without destroying them.
 *Requirements*

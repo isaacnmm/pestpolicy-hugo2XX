@@ -17,7 +17,7 @@ layout: post
 ---
 Bermudagrass is a popular choice for lawns in warm climates due to its exceptional heat and drought tolerance, rapid growth, and ability to withstand heavy traffic. It creates a dense, beautiful turf when properly maintained. However, its aggressive spreading nature, which makes it an excellent choice for turf, also means it can become a persistent [weed](https://pestpolicy.com/applying-weed-and-feed-products-to-st-augustine-grass/) in areas where it's not desired, or be easily invaded by other aggressive weeds if not managed. The challenge for homeowners and professionals alike is how to control unwanted weeds *within* a Bermudagrass lawn without harming the desirable turf itself.
 
-Many common herbicides that work effectively on weeds in other grass types can severely damage or kill Bermudagrass. Therefore, selecting the right weed killer � one that is specifically formulated to be safe for Bermudagrass while still targeting common broadleaf and grassy weeds � is crucial. This guide will delve into the nuances of Bermudagrass as a lawn choice, explore whether it's considered "good" or "bad" (or even illegal in some places), and most importantly, identify the [best](https://pestpolicy.com/best-commercial-fertilizer-spreaders/) weed killers that can help you maintain a pristine Bermudagrass lawn by targeting the invaders without harming your desired turf.
+Many common herbicides that work effectively on weeds in other grass types can severely damage or kill Bermudagrass. Therefore, selecting the right weed killer  one that is specifically formulated to be safe for Bermudagrass while still targeting common broadleaf and grassy weeds  is crucial. This guide will delve into the nuances of Bermudagrass as a lawn choice, explore whether it's considered "good" or "bad" (or even illegal in some places), and most importantly, identify the [best](https://pestpolicy.com/best-commercial-fertilizer-spreaders/) weed killers that can help you maintain a pristine Bermudagrass lawn by targeting the invaders without harming your desired turf.
 
 ## 4 Best Weed Killers for Bermuda Grass
 
@@ -30,7 +30,7 @@ Here are 4 categories of weed killers commonly recommended for Bermudagrass lawn
     * **What they kill:** These are highly effective against a wide range of common broadleaf weeds such as dandelions, clover, plantain, chickweed, henbit, thistle, and many more.
     * **How they work:** These are systemic herbicides, meaning they are absorbed by the weed's leaves and transported throughout the plant, disrupting growth and eventually killing it.
     * **Safety for Bermudagrass:** Generally very safe for established Bermudagrass when applied according to label directions. Bermudagrass is quite tolerant to these active ingredients.
-    * **Application:** Available in both liquid concentrate (requiring a sprayer) and granular forms (often combined with fertilizer as "weed and feed"). Apply when weeds are actively growing and temperatures are moderate (typically 60-85�F). Avoid applying during extreme heat or drought stress.
+    * **Application:** Available in both liquid concentrate (requiring a sprayer) and granular forms (often combined with fertilizer as "weed and feed"). Apply when weeds are actively growing and temperatures are moderate (typically 60-85F). Avoid applying during extreme heat or drought stress.
     * **Examples:** Ortho Weed B Gon MAX Weed Killer for Lawns, Spectracide Weed Stop for Lawns for Southern Lawns, many generic "Trimec" equivalents.
 
 2.  **Quinclorac (for Crabgrass and some Broadleaf Weeds):**
@@ -60,7 +60,7 @@ Here are 4 categories of weed killers commonly recommended for Bermudagrass lawn
 **Important Considerations for All Applications:**
 
 * **Read the Label:** This is paramount. Every product label contains specific instructions for application rates, timing, target weeds, safety precautions, and turfgrass tolerance.
-* **Temperature:** Most herbicides are most effective and safest for the lawn when applied during moderate temperatures (e.g., 60-85�F). Avoid applying during extreme heat (above 90�F) or when the lawn is stressed by drought.
+* **Temperature:** Most herbicides are most effective and safest for the lawn when applied during moderate temperatures (e.g., 60-85F). Avoid applying during extreme heat (above 90F) or when the lawn is stressed by drought.
 * **Moisture:** Some require moist soil, others require dry foliage. Follow label instructions.
 * **Spot Treatment vs. Broadcast:** For isolated weeds, spot treatment is preferred to minimize overall chemical use. For widespread infestations, a broadcast application might be necessary.
 * **Establishment Period:** Do not apply herbicides to newly seeded or newly sodded Bermudagrass until it is well-established (e.g., after 2-3 mowings or several months, refer to label).
@@ -73,7 +73,7 @@ Bermudagrass (*Cynodon dactylon*) is a warm-season turfgrass widely utilized acr
 
 Here are its key characteristics:
 
-* **Warm-Season Grass:** Bermudagrass thrives in hot temperatures, actively growing when temperatures are between 75�F and 95�F (24�C and 35�C). It goes dormant and turns brown when temperatures consistently fall below 50-55�F (10-13�C), typically during winter frosts.
+* **Warm-Season Grass:** Bermudagrass thrives in hot temperatures, actively growing when temperatures are between 75F and 95F (24C and 35C). It goes dormant and turns brown when temperatures consistently fall below 50-55F (10-13C), typically during winter frosts.
 * **Growth Habit:** It spreads aggressively through both **stolons** (above-ground runners that root at the nodes) and **rhizomes** (below-ground runners that produce new shoots and roots). This extensive root and runner system allows it to quickly fill in bare spots, recover from damage, and form a very dense turf.
 * **Texture:** Varieties range from fine-textured (like hybrid Bermudagrass, often used on golf courses) to medium-textured. Most common lawn varieties are medium-textured.
 * **Color:** Typically a medium to dark green, though color can vary with fertility and variety.

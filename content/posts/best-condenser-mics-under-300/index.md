@@ -85,5 +85,5 @@ These three applications ensure you use the mic on any recording source, thus, y
 Read Also:
 Camera for Beginner Filmmaker
 ## Conclusion
-If your studio has switchable multi-patterns, you can use this incredible SE 2200A II mic to record anything you want - the�best condenser mics under 300.
+If your studio has switchable multi-patterns, you can use this incredible SE 2200A II mic to record anything you want - thebest condenser mics under 300.
 However, with or without a studio this mic is an excellent choice for anyone who craves, clarity, transparency, and consistency in their tones.

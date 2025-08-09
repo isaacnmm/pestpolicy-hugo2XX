@@ -18,7 +18,7 @@ layout: post
 - You wont have to dig into your garden or house foundations with a bait station to eliminate termites.
 - Since the baiting system operates below the ground surface, your family and pets would be exposed to toxic chemicals.
 This guide features the [best](https://pestpolicy.com/best-chipmunk-repellents/) termite bait stations in the market, a buyers guide, and tips for making the best use of the bait stations.
-**Check these bait stations.�**
+**Check these bait stations.**
 
 ## [1. #1 Top Pick:**Advance Termite Detection Baiting Station**](https://www.amazon.com/dp/B01LD5PQQ8/?tag=p-policy-20)
 
@@ -58,7 +58,7 @@ When pushed into the ground, the locator shield remains above the ground to enab
 And with the dow technology, the bait station will pop up, indicating
 termites in the soil
 .
-This pack of 15 stakes will be ideal for a small to medium-sized home.� For effective results, its advisable to place the stakes at intervals about 10 feet or less.
+This pack of 15 stakes will be ideal for a small to medium-sized home. For effective results, its advisable to place the stakes at intervals about 10 feet or less.
 The distance from your house foundation should be between 2 and 3 feet. The instruction manual will give go more information about its installation and safety precautions.
 The only limitation with this termite bait is the tendency to pop up prematurely when theres a lot of moisture in the soil. This might give the wrong signals about the presence of termites.
 The Good:

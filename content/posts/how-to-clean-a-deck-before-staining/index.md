@@ -16,7 +16,7 @@ Cleaning and staining a [deck](https://pestpolicy.com/can-i-sand-my-deck-by-hand
 [never be clean](https://www.extension.iastate.edu/news/2008/jul/120901.htm)
 .
 In this article, we will walk you through the step-by-step process of cleaning and staining a deck, making it easy for even the most inexperienced DIY home renovators to tackle this project - such as
-*weathered wood deck.�*
+*weathered wood deck.*
 **Step 1: Sweep the Deck**
 The first step in the deck cleaning process is to sweep the deck to remove any loose debris, such as leaves, twigs, or other small debris.
 
@@ -46,7 +46,7 @@ Damaged or rotting boards can weaken the overall structure of your deck and can 
 **Step 5: Apply the Stain**
 Finally, it's time to apply the stain. It's important to choose the right stain for your deck. You can find stains specifically designed for different types of wood, such as cedar or redwood.
 
-Be sure to follow the manufacturer's instructions when applying the stain.�When applying the stain, use a paint roller or brush and be sure to work in sections and overlap your strokes to ensure even coverage.
+Be sure to follow the manufacturer's instructions when applying the stain.When applying the stain, use a paint roller or brush and be sure to work in sections and overlap your strokes to ensure even coverage.
 
 Allow the stain to dry according to the manufacturer's recommendations before using the deck again.
 See Also:

@@ -19,7 +19,7 @@ deck
 
 Wet and Forget is a useful product to remove stains (including mildew or mold), and you won't require excessive scrubbing, washing, or cleaning.
 With this product, you'll only require wiping, mild-rinsing, and spraying your cleaning agent to achieve that sparkling clean surface. So, do away with
-pressure�washing-removal/)
+pressurewashing-removal/)
 , and it's pet-friendly.
 The green coating that's fine in texture (could be moss or algae) may be covering your floor's siding or
 the wooden deck
@@ -71,7 +71,7 @@ Cons:
 ### 3. Lichen stain Removal with Wet & Forget s
 The wet & forget stain remover will effectively remove Lichen - which is a combination of fungus and algae that live in a symbiotic relationship.
 Get your sprayer - same that suitable for spraying fertilizer and water on your plants. So, soak the lichen with a solution of the stain remover.
-I would recommend roughly 15 minutes to soften the lichen's outer layer and thus penetrate to remove the lichens. The remover works on� 750-2250 square feet considering surface porosity.
+I would recommend roughly 15 minutes to soften the lichen's outer layer and thus penetrate to remove the lichens. The remover works on 750-2250 square feet considering surface porosity.
 ### 4. Working Process of the Wet & Forget
 Consider the materials; the stain remover - Wet and Forget - will work well on
 [fiberglass](https://pestpolicy.com/best-paint-for-fiberglass-boats/)
@@ -82,16 +82,16 @@ Compared to various roof-cleaning substances with a harsh ingredient, this stain
 > See Also:
 > How to Paint a Stairwell
 However, the stain remover will work slowly, and thus you could require some re-application within the month - particularly for tough stains.
-## How Safe is�Wet & Forget?
+## How Safe isWet & Forget?
 First, Wet & Forget will be super useful and safe to use both for your
 [indoor & outdoor spaces](https://pestpolicy.com/can-you-use-exterior-paint-indoors/)
 - as approved by EPA - it won't damage the surfaces under the mildew, moss, or mold.
 As noted earlier, Wet & Forget does not include bleach, nor is it acidic or caustic - the formula is equally eco-friendly and biodegradable - which means that it's safe.
-The product will be comfortable and safe to use as a stain remover� - apply the liquid on your stained surfaces - you won't need to rinse or scrub the surfaces using water.
+The product will be comfortable and safe to use as a stain remover - apply the liquid on your stained surfaces - you won't need to rinse or scrub the surfaces using water.
 You should use smart bottles and sprayers for the less messy and even easier application of the stain remover. With the triggers and nozzles in the
 latex sprayers
 , you can get to great heights.
-## Key�Wet & Forget Benefits
+## KeyWet & Forget Benefits
 There are several benefits and features - you'll love the moss remover, algae, and garage mildew.
 1. The remover has no harsh chemicals, and hence it'll be safe to use around plants, landscaping, and pets - therefore, the product won't also damage other surfaces.
 2. The non-caustic, bleach-free, and non-acidic - and hence it'll stop growth and bacteria with no damage to your[outdoor surfaces](https://www.thespruce.com/complete-guide-to-popular-patio-materials-4079664)or landscape.

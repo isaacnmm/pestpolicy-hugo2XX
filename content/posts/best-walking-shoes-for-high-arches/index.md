@@ -21,7 +21,7 @@ But.the foot arch is an important part of your foot since it assists in supporti
 Work Shoes for High Arches
 .
 ## Reviews: 9 Best Walking Shoes for High Arches 2025 Reviewed
-### [1. Brooks Men's Addiction Walker -�Brooks High Arch](https://www.amazon.com/dp/B0012HR2I8/?tag=p-policy-20)
+### [1. Brooks Men's Addiction Walker -Brooks High Arch](https://www.amazon.com/dp/B0012HR2I8/?tag=p-policy-20)
 Brooks Addiction Walker is a leather (full-grain) walker suitable for your high arches. The leather tends to give in significantly easily at the toe region, which is great for high arches.
 
 
@@ -34,7 +34,7 @@ I noted that Brooks Addiction Walker worked excellently with various high arch o
 The shoes footbed has DNA cushioning and arch support thatll adapt to each of your steps. Read Also:
 Shoes for High Arches And Standing All Day
 .
-### [2. New Balance MW928 Walker �- New balance Arch Support](https://www.amazon.com/dp/B01NB9K3XO/?tag=p-policy-20)
+### [2. New Balance MW928 Walker - New balance Arch Support](https://www.amazon.com/dp/B01NB9K3XO/?tag=p-policy-20)
 New Balance MW928 Walker has its characteristic Rollbar midsole thatll stabilize your rear foot and hence control over-pronation.
 
 

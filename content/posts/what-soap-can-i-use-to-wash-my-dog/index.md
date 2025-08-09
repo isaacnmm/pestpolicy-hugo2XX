@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 Dogs love playing and making themselves dirty. Washing them also becomes very tricky because not every soap can work on them.
-- **What soap I can use to wash my dog?  A good soap/shampoo will not trigger an allergic reaction in your dog.� You can get a good allergic report from your vet so that you may know what to avoid.�**
+- **What soap I can use to wash my dog?  A good soap/shampoo will not trigger an allergic reaction in your dog. You can get a good allergic report from your vet so that you may know what to avoid.**
 Another thing is that there are some dogs that are smelly when they get dirty. In this case, you need to know what is the best shampoo/ soap to get rid of that smell.
 ## What Soap Can I Use to Wash My Dog?  The Best Choice
 When you want to clean your dog, you surely want the best for him. There are dog specialist dog soaps with precise pH requirements for the dog.
@@ -38,7 +38,7 @@ This is also another human soap that can also be effective for washing your dog.
 .
 - Unlike other liquid soap, castile soap does not contain any elements of detergents that can harm your puppy.
 - It is effective in cleaning the dirt without causing harm to the natural body oils of the dogs skin. The skin remains intact and moisturized.
-You can use it to kill ticks and fleas that harm the dog and cause constant itching.�Lastly, it is scented and you can get it in multiple varieties.
+You can use it to kill ticks and fleas that harm the dog and cause constant itching.Lastly, it is scented and you can get it in multiple varieties.
 ### **3. Dove**
 Dove is formulated with natural ingredients that make it safe and tender to use on your dag.
 - Though it has customized pH for human skin, its natural ingredients make it possible to use on dogs and other pets.
@@ -56,7 +56,7 @@ Due to the difference in pH, some human soaps may cause harm or trigger allergic
 - Human skin is acidic while a dogs skin is an alkane using the identification on the periodic table.
 - Therefore, using human shampoo on dogs will definitely have some effect on the dogs skin.
 The same shampoos that moisturize the human body are more likely to trigger itching and dry skin on the puppy.
-Some may even result in bacterial infection affecting the health of your dog.�There are those that can serve both as human shampoo and used to wash dogs.
+Some may even result in bacterial infection affecting the health of your dog.There are those that can serve both as human shampoo and used to wash dogs.
 ### **2. Can I use baby shampoo on my dog?**
 Baby shampoo very good shampoos for washing your dog. If I were, you, I would rather use baby shampoos to wash my dog than adult shampoo.
 - From the way they are formulated, they are used on delicate skin and without artificial coloring and perfumes.

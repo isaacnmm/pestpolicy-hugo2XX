@@ -31,7 +31,7 @@ and
 Despite that the Core i5-6600K and Core i7-6700K processors are among the best in the Skylake range, they are not however the best in Intels whole range. However, I believe that 6700K will be your ultimate bang for the buck for as your content generation CPU.
 But, which CPU should you use for gaming? Must PC gamers always take the core i7 CPU? Does hyper-threading truly make a difference with the modern triple-a titles?
 https://www.youtube.com/watch?v=KdnlGc5NAno
-### *Hyperthreading? -�i5 6600k vs i7 6700k*
+### *Hyperthreading? -i5 6600k vs i7 6700k*
 The i7-6700K CPU is a 4-core chip that has
 [hyperthreading](https://www.intel.com/content/www/us/en/architecture-and-technology/hyper-threading/hyper-threading-technology.html)
 which achieves 4.0 GHz, which you can overclock itself to 4.2 GHz at its various cores and without surpassing the chips temperature allowance range.
@@ -40,7 +40,7 @@ The Core i7-6700K processor replaced the i7-4790K as is considered as one of the
 The i7 6700K is a 4-core processor that comes with hyper-threading. Therefore, it has 4 cores and 8 threats. Further, i7 6700Ks native speed is 4GHZ and would turbo to a max of 4.2 GHz, without overclocking.
 Read Also:
 [Gaming Projector Reviewed](https://pestpolicy.com/best-gaming-projector/)
-### *Overclocking:�i5 6600k vs i7 6700k*
+### *Overclocking:i5 6600k vs i7 6700k*
 The i7 6700k will come with a 4.0GHz clock speed, which is more than the 3.5GHz in your i5 6600k.
 However, the clocking speed difference will not have a significant difference in your gaming. Read Also:
 [Laptop Tablet Combo Reviewed](https://pestpolicy.com/best-laptop-tablet-combo/)

@@ -17,10 +17,10 @@ But how do you paint a
 [fiberglass [boat](https://pestpolicy.com/best-fiberglass-boat-cleaner/)](https://en.wikipedia.org/wiki/Fiberglass)
 ? Which is the correct approach in the case of paint restoration? These are some of the questions most boat owners ask themselves.
 
-*So, in this article, we shall be discussing how to paint a fiberglass boat. To achieve an excellent finish, you will need to follow the right steps/procedure, carry out proper paint selection, paint preparation, paint application with an airless paint sprayer, sanding process, and smart final finish.�*
-*Its important to know that selecting the wrong paint damages fiberglass coating, which may lead to a marine accident when cruising. Pay close attention to leakage points when painting the hull interior.�*
+*So, in this article, we shall be discussing how to paint a fiberglass boat. To achieve an excellent finish, you will need to follow the right steps/procedure, carry out proper paint selection, paint preparation, paint application with an airless paint sprayer, sanding process, and smart final finish.*
+*Its important to know that selecting the wrong paint damages fiberglass coating, which may lead to a marine accident when cruising. Pay close attention to leakage points when painting the hull interior.*
 ## Details: How to Paint a Fiberglass Boat
-*Its advisable to kill the engine, empty the gas tank, and remove all boat items when painting the boat since some boat paints are highly flammable. See Also: Removing Latex Paint From Metal.�*
+*Its advisable to kill the engine, empty the gas tank, and remove all boat items when painting the boat since some boat paints are highly flammable. See Also: Removing Latex Paint From Metal.*
 ### a. Items needed
 - Dual-action Sander material and foam brush
 - Wax removing solvent and fiberglass primer
@@ -53,7 +53,7 @@ Latex Vs Acrylic Paint
 ### c. Paint selection
 Paint selection is critical for a fiberglass boat. The boat is divided into two major areas; the upper topside and the bottom area that is usually submerged in water.
 For the bottom section, you can comfortably use two-part polyurethane paint. The paint should have a high affinity for fiberglass material. This particular paint can also be used when restoring the painted surface. However, sanding and primer should precede the application process.
-Use one-part polyurethane paint for the tip side and interior hull section. Following the primer or undercoat application, the rolling painting or spraying should be preferred instead.� You can use enamel or alkyd paints as a finisher.
+Use one-part polyurethane paint for the tip side and interior hull section. Following the primer or undercoat application, the rolling painting or spraying should be preferred instead. You can use enamel or alkyd paints as a finisher.
 The 5-gallon container will be sufficient to cover the entire fiberglass boat painting (interior and exterior hull).
 NB: Always follow the manufacturers advice when mixing the paint. See Also:
 Using Acrylic Paint On Metal?

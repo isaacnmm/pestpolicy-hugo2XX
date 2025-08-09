@@ -74,11 +74,11 @@ Although Polti Vaporetto Smart 40 is not as simple to handle as the handheld ste
 Its boiler is made from stainless steel that's heavy-duty to easily handle the steam's high pressure and temperature.
 It'll
 exterminate all bed bugs like the foggers
-in the whole lifecycle  the adult bed bugs, larvae, and their eggs.�Related:
+in the whole lifecycle  the adult bed bugs, larvae, and their eggs.Related:
 Best Vacuum for Dog Hair
 ## Conclusion
 MR-100 Primo will get to over 210 degrees Fahrenheit at its steam, releasing tips, which will
 kill both fleas, fleas' eggs, and flea larvae
 .
-- Further, its extended power cord is also�retractable to simplify the steaming process and storage afterward.
+- Further, its extended power cord is alsoretractable to simplify the steaming process and storage afterward.
 However, ensure that you hold the bed bug steamer tip at about 1 to 2 inches near the item you're steaming.

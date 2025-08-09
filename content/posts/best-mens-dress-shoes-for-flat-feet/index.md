@@ -72,7 +72,7 @@ Cons:
 ### [3. Rockport Men's Leader 2 Bike Slip on](https://www.amazon.com/dp/B01J9DTVDA/?tag=p-policy-20)
 If youre looking for a mans dress shoe that offers comfort and style for an official or casual setting you should pick Rockport Men's Leader 2 Bike Slip-on.
 
-The glowing leather upper and the square toe area provides a perfect look for that professional setting.� The collar has sufficient padding that ensures extra comfort.
+The glowing leather upper and the square toe area provides a perfect look for that professional setting. The collar has sufficient padding that ensures extra comfort.
 
 This Leader 2 Bike Slip-on features a patented Rockport lightweight sole that delivers lightweight shock absorption to ensure you remain comfortable throughout the day.
 
@@ -99,7 +99,7 @@ Cons:
 ### [4. Dunham Men's Jericho Oxford](https://www.amazon.com/dp/B07C5D7Y66/?tag=p-policy-20)
 Dunham shoes are custom made for all-day comfort and are perfect as official or casual wear. The Dunham Men's Jericho Oxford are some of the best mens shoes for flat feet thanks to its excellent construction and features.
 
-The shoe features a removable molded EVA footbed that delivers excellent shock absorption to protect the feet from hard ground impact.� The footbed also moulds your foot to give you a comfortable fit. You can also replace the footbed with orthotics for extra comfort and support.
+The shoe features a removable molded EVA footbed that delivers excellent shock absorption to protect the feet from hard ground impact. The footbed also moulds your foot to give you a comfortable fit. You can also replace the footbed with orthotics for extra comfort and support.
 
 The construction of the shoe is Seam-sealed and waterproof. This means the shoe repels water allowing you to work on various work environments including stepping on a wet surface without worry of becoming wet.
 
@@ -127,7 +127,7 @@ This Men's Diabetic dress shoe has a protective toe box that offers additional p
 
 Other than that, the removable insoles provide comfort and cushioning. You can also replace the insoles with custom-made orthotics for additional foot comfort and support.
 
-The fine details of this dress shoe make it classic and elegant. Youll love the comfort and style youll experience when wearing these shoes.� Also, if you have foot problems like bunions,
+The fine details of this dress shoe make it classic and elegant. Youll love the comfort and style youll experience when wearing these shoes. Also, if you have foot problems like bunions,
 claw toes
 , hammertoes, and other foot conditions, these are the dress shoes that would help ease your pain.
 Pros:

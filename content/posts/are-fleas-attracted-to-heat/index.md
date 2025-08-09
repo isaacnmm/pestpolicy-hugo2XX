@@ -16,8 +16,8 @@ layout: post
 As fleas search for food
 or flea dirt
 , they'll be attracted by different stimuli to know a fitting host - are thermal and visual the main stimuli for attracting fleas?
-**So, are fleas attracted to heat (Thermotaxis)? Yes, over 90% of fleas will be attracted to fleas within 30 minutes but on its own, it has limited effectiveness in host-finding.�**
-**Combining various stimuli such as movement, heat, and light (or shadows) will result in a higher attracting response on the fleas.�**
+**So, are fleas attracted to heat (Thermotaxis)? Yes, over 90% of fleas will be attracted to fleas within 30 minutes but on its own, it has limited effectiveness in host-finding.**
+**Combining various stimuli such as movement, heat, and light (or shadows) will result in a higher attracting response on the fleas.**
 ## Details: Are Fleas Attracted to Heat? Thermotaxis?
 As noted above, cat fleas will get attracted to their hosts through stimuli and thermal cues or stimuli. Thermotaxis denotes the aspect of repulsion or attraction towards heat.
 - So, cat fleas are considered to be attracted and stimulated by heat or warmth - which means that they're positively thermotactic.

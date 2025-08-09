@@ -79,7 +79,7 @@ Additionally, it doesnt entertain acids, solvents, oils, moisture, and alkyds. I
 Pros:
 - You can purchase it in various measures, i.e., gallons and quartz.
 - Resistant to moisture, oils, solvents, and acids
-- Covers a wide area and dries up� pretty fast
+- Covers a wide area and dries up pretty fast
 - Easy to clean, and it doesnt entertain stains and mildew.
 
 Cons:
@@ -134,7 +134,7 @@ Ultimately the tough yet glossy polyurethane finish guarantees you resistance fr
 peeling off
 , and fading.
 Pros:
-- Cleaning it� is so easy
+- Cleaning it is so easy
 - Allows for the application using different tools
 - Delivers a professional finish
 - You can get it in twenty-one glossy colors.

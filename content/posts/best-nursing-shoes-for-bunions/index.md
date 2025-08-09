@@ -195,4 +195,4 @@ Cons:
 
 Conclusion
 
-The best nursing shoes for bunions should be spacious with a roomy toe box to provide enough room for bunions without creating a lot of pressure. �Bunion shoes should also be comfortable, supportive, and stable to allow you to perform your duties successfully. All the reviewed shoes in this list are some of the best and nurses with bunions or anyone who spends hours on feet will benefit from these shoes.
+The best nursing shoes for bunions should be spacious with a roomy toe box to provide enough room for bunions without creating a lot of pressure. Bunion shoes should also be comfortable, supportive, and stable to allow you to perform your duties successfully. All the reviewed shoes in this list are some of the best and nurses with bunions or anyone who spends hours on feet will benefit from these shoes.

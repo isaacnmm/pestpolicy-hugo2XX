@@ -185,7 +185,7 @@ Cons:
 ### [7. Nike Men's Air Max Typha 2 Training Shoes](https://www.amazon.com/dp/B07G5S617X/?tag=p-policy-20)
 Nike Men's Air Max Typha 2 is another excellent sled pushing shoe you might want to pick. It allows you to maneuver through various exercises efficiently.
 
-For starters, the outsole of Nike Air Max Typha 2 features a durable rubber compound that provides excellent traction and durability.� The bottom of the sole has lugs to provide additional grip during sled pushing and other exercises.
+For starters, the outsole of Nike Air Max Typha 2 features a durable rubber compound that provides excellent traction and durability. The bottom of the sole has lugs to provide additional grip during sled pushing and other exercises.
 
 More than that, the midsole incorporates the Max Air technology. This technology provides a lightweight, durable, and multi-purpose kind of cushioning. Youll notice that the shoe goes back to its original shape after your workouts. This aspect is made possible by the air sole units with pressurized gas that allows you to bounce back after impacts.
 
@@ -209,7 +209,7 @@ Ensure that the sled push shoes that you choose have excellent pair of insoles. 
 
 The insoles will also provide enough arch support and protect you from pain or discomfort while dragging the sled. Shoes with removable insoles also provide the opportunity to replace them with custom-made orthotics for extra comfort and support.
 **Durability**
-Durable shoes will provide you value for your money. Sled pushing requires you to invest in durable shoes to avoid the hustle of going back to shopping. This way you focus more on your exercises. Durable shoes may come at a cost but they are worth it.� Theyll provide a longer wearing period without the usual wear and tear seen in cheap shoes.
+Durable shoes will provide you value for your money. Sled pushing requires you to invest in durable shoes to avoid the hustle of going back to shopping. This way you focus more on your exercises. Durable shoes may come at a cost but they are worth it. Theyll provide a longer wearing period without the usual wear and tear seen in cheap shoes.
 **Shock Absorption**
 Shock-absorbing shoes are a great choice when it comes to sled pushing or dragging. Shoes with excellent Shock absorption will help to reduce or prevent injuries during impact. Thus, protect your knees, joints, and muscles from harm.
 ## Conclusion

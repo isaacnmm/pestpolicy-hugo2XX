@@ -75,7 +75,7 @@ Here are some of the leading providers in lawn weed control, each with distinct 
 
 **Lawn Doctor:** Known for its locally owned franchises and proprietary equipment, Lawn Doctor backs its weed control services with a strong customer satisfaction guarantee.
 
-* **Weed Control Focus:** Lawn Doctor offers customized weed control plans that include pre-emergent applications for grassy weeds like crabgrass and post-emergent treatments for broadleaf weeds. Their "Turf Tamer�" equipment ensures precise and even product distribution. They aim to not just eliminate weeds but also build a thick, healthy lawn to prevent future infestations.
+* **Weed Control Focus:** Lawn Doctor offers customized weed control plans that include pre-emergent applications for grassy weeds like crabgrass and post-emergent treatments for broadleaf weeds. Their "Turf Tamer" equipment ensures precise and even product distribution. They aim to not just eliminate weeds but also build a thick, healthy lawn to prevent future infestations.
 * **Key Strengths:** Strong "Lawn Doctor Guarantee" which means if you're not satisfied, they'll reapply the treatment at no additional cost or refund the cost of your last application. Local ownership often provides responsive service and tailored plans.
 * **Considerations:** Results can vary slightly by franchise location. While their guarantee is strong, it's essential to communicate issues promptly.
 * [Learn about Lawn Doctor's Weed Control Services](https://www.lawndoctor.com/weed-control/)
@@ -184,7 +184,7 @@ Our rankings for the best lawn care services for weeds are based on a thorough e
 A: The time it takes for weed killer to work varies. Liquid post-emergent herbicides can show visible results (wilting, yellowing) within hours to a few days, with weeds dying completely within 1-3 weeks. Granular products or those requiring watering in may take longer. Pre-emergents work by preventing germination, so you won't see immediate "killing" action.
 
 ### Q: When is the best time to apply pre-emergent weed killer?
-A: For summer annual weeds like crabgrass, apply pre-emergent in early spring when soil temperatures consistently reach 50-55�F (10-13�C), usually before forsythia bushes bloom. For winter annuals, apply in late summer/early fall when temperatures drop. Timing is crucial for effectiveness.
+A: For summer annual weeds like crabgrass, apply pre-emergent in early spring when soil temperatures consistently reach 50-55F (10-13C), usually before forsythia bushes bloom. For winter annuals, apply in late summer/early fall when temperatures drop. Timing is crucial for effectiveness.
 
 ### Q: Is professional weed killer safe for pets and children?
 A: Most professional lawn care companies use EPA-registered products that are safe for pets and children *once dry*. Technicians should provide clear instructions on re-entry times, which are typically 1-4 hours for liquid applications. Always follow these guidelines and keep pets and children off the treated area until it's completely dry. Organic or natural options may offer immediate re-entry.

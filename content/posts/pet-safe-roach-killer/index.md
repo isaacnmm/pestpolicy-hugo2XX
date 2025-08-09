@@ -20,7 +20,7 @@ apartments
 But you also don't
 want to use all/)
 harsh ingredients as this may harm your pets - including cats and dogs.
-**Check these pet safe cockroach killers.�**
+**Check these pet safe cockroach killers.**
 
 ## How Do I Get Rid Of Roaches Without Harming Pets?
 Roaches can be found anywhere but they seem to love warm, moist places like bathrooms and kitchens where food spills happen often.
@@ -82,7 +82,7 @@ I was wondering if Combat-Max is safe for dogs and cats. (I have a food-driven c
 You can place this bait near ovens, corners, cupboards, behind toilets, cabinets, or even under your sink where roaches frequent or hide including crevices and cracks.
 Combat-Max is a perfect bait trap for eradicating and preventing cockroaches. It has twelve bait stations and a syringe of gel (12-gram) to eliminate roaches.
 ## [2. Raid Roach & Ant Killer (from Essential Oils)](https://www.amazon.com/dp/B07N9N9VVK/?tag=p-policy-20)
-Raid Roach & Ant Killer will kill ants and roaches on contact and during their foraging time.�Plus it has the added bonus of being made with essential oils that can help your body naturally fight against bugs invading the home!
+Raid Roach & Ant Killer will kill ants and roaches on contact and during their foraging time.Plus it has the added bonus of being made with essential oils that can help your body naturally fight against bugs invading the home!
 
 - It works as a powerful repellant by masking odors from food sources or other organic materials in the environment, but when sprayed directly onto insects they are killed immediately.
 Raid Roach & Ant Killer will be safe to spray even when pets and kids are around - it made from pine trees and lemongrass extract.
@@ -100,10 +100,10 @@ This pet-safe insecticide will eliminate ants in your home, and the flower smell
 Related:
 [Quality drain cleaners](https://pestpolicy.com/best-drain-cleaner//)
 ## [4. EcoLogic HG-75000 Roach & Ant Killer](https://www.amazon.com/dp/B01LG282J6/?tag=p-policy-20)
-If you're looking for a natural, plant-based roach insecticide, this EcoLogic HG 75000 is the best.�It is safe to use around pets and kids as its ingredients are derived from botanical plant extracts.
+If you're looking for a natural, plant-based roach insecticide, this EcoLogic HG 75000 is the best.It is safe to use around pets and kids as its ingredients are derived from botanical plant extracts.
 
 The contact-killing roach killer will also exterminate other insects like crickets and spiders. EcoLogic HG-75000 was helpful enough that my apartment is now roach-free!
-EcoLogic bug products (eco-friendly) offer a way for mindful homeowners to avoid traditional pesticides that can be harmful - it made from a botanical oil and �Lemongrass oil.
+EcoLogic bug products (eco-friendly) offer a way for mindful homeowners to avoid traditional pesticides that can be harmful - it made from a botanical oil and Lemongrass oil.
 Some people are skeptical that bug sprays containing only natural oils can work or roaches but after using it, I am completely sold.
 EcoLogic HG-75000 is perfect for people who don't want to use traditional pesticides. This insecticide can be applied on the outside of your house and clear away any insects that pose a threat.
 ## [5. All-N-One Roach Defense - Non-Toxic](https://www.amazon.com/dp/B01C3KBPC6/?tag=p-policy-20)
@@ -118,11 +118,11 @@ Neem is gaining popularity as a top
 safe pest repellent
 product. It's extracted from a neem tree, and its attributes are excellent in controlling cockroaches.
 
-It can be applied in either powder or oil form.�When using powdered neem, sprinkle it in the infested area.
+It can be applied in either powder or oil form.When using powdered neem, sprinkle it in the infested area.
 If you're using the oil form, pour it into a spraying bottle and
 apply the spray in roaches'
 habitats.
-For the product to be more effective, mix neem with cocoa powder to attract cockroaches to it.�Yes, I am talking about beat to make the all-natural beer can roach trap.
+For the product to be more effective, mix neem with cocoa powder to attract cockroaches to it.Yes, I am talking about beat to make the all-natural beer can roach trap.
 Check this to know the details on how to use it - beer can roach traps are among the
 [least toxic roach control methods](https://lancaster.unl.edu/enviro/pest/factsheets/120-94.htm)
 . Luckily, this method is purely DIY and is safe for both you, your kids, and your pets.
@@ -157,7 +157,7 @@ A Greener mindset is blended with plant oils, which are significant in blocking 
 It's also an effective repellent pesticide that keeps pests away from the treated areas. This pesticide is in spray formula, and it has no harmful effects on pets.
 Additionally, you can use it indoors around kids and pets, and it doesn't contaminate water supplies.
 ## Which Raid Is Safe for Pets?
-Raid�Roach & Ant Killer spray is safe for pets and children if applied as directed to exterminate flying and crawling insects including roaches and ants.
+RaidRoach & Ant Killer spray is safe for pets and children if applied as directed to exterminate flying and crawling insects including roaches and ants.
 The plant-based ingredients in the
 [raid roach killer](https://pestpolicy.com/raid-ant-roach-killer-insecticide-spray-review/)
 are from pine-ree and lemongrass are not hazardous to pets.

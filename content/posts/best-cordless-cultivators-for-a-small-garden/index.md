@@ -67,7 +67,7 @@ Cons:
 ### [4. SereneLife PSLTLL1854 18V hand-held cordless tiller](https://www.amazon.com/dp/B07GDJ2CSH/?tag=p-policy-20)
 This unit features an 18V power output with a rechargeable battery feature is guaranteed to make your landscaping easier. This unit offers a working time of 25 minutes on a 4-hour full battery charge cycle.
 I
-ts integrated debris protection shield ensures maximum safety for the user.�SereneLife features an 18V power output cultivator system offering a tilling width of 7.9 inches and a depth of 3.2. Its motor rotates at 280rpm and above which makes this tool ideal for landscaping and gardening tasks such as weeding, composting and soil preparation.
+ts integrated debris protection shield ensures maximum safety for the user.SereneLife features an 18V power output cultivator system offering a tilling width of 7.9 inches and a depth of 3.2. Its motor rotates at 280rpm and above which makes this tool ideal for landscaping and gardening tasks such as weeding, composting and soil preparation.
 This tillers blades are made out of steel alloy which makes it ideal for gardens, paths, backyards and other landscaping uses. This tool is bound to leave your garden looking immaculate and straightforward with its ABS branded front tine till blades.
 This SereneLife brand features an adjustable grip angle for easier control and cultivating through robust regions smoothly. This feature allows the
 [cultivator](https://pestpolicy.com/best-electric-tiller-for-clay-soil/)

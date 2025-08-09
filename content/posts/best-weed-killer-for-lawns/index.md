@@ -37,7 +37,7 @@ A crucial factor is ensuring the weed killer is selective, meaning it kills weed
 *Scotts Turf Builder Weed and Feed*
 is a good example, as it not only kills weeds but also nourishes your grass, promoting thicker and healthier growth.
 
-Always check whether the product is safe for your specific type of grass.�Related:
+Always check whether the product is safe for your specific type of grass.Related:
 [Weed Killer for flower bed](https://pestpolicy.com/[best](https://pestpolicy.com/best-chipmunk-repellents/)-weed-killers-for-flower-beds/)
 **3. Application Method**
 Some products, like

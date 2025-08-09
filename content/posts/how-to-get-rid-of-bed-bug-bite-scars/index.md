@@ -129,4 +129,4 @@ Related:
 [Can Rubbing Alcohol Kill Bed Bugs?](https://pestpolicy.com/does-rubbing-alcohol-kill-bed-bugs/)
 ## Conclusion
 Dealing with bed bug bite scars can be quite disturbing, especially when they appear on visible areas such as hands, neck, legs and face.
-Moreover, the scars are made worse and more evident when you constantly scratch on them.�With the above remedies, you can easily get rid of bed bug bite scars without using antibiotics.
+Moreover, the scars are made worse and more evident when you constantly scratch on them.With the above remedies, you can easily get rid of bed bug bite scars without using antibiotics.

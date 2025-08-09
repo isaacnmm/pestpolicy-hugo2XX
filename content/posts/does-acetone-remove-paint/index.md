@@ -18,9 +18,9 @@ Do you have a house wall, car, or
 garage
 that's painted in some odd Rust-Oleum color? So, you're wondering, "does [acetone](https://pestpolicy.com/can-you-clean-hvlp-with-acetone/) remove paint?" The painting has no clear coat but offers excellent corrosion resistance and color retention.
 
-*In brief, YES, Acetone (a solvent) removes acrylic paint, enamels, and oil-based paints (both dry and fresh). It'll lift the mineral spirits and dry fast as you spin and shake the brush.�*
-*Acetone, as an ingredient, is used to remove paint and varnish. It'll take off the paint right off when you pour it directly on your painted surfaces.�*
-*When you get your paint ruined, you spray the acetone on the painting, and it'll merely clean it. Acetone is neither HAP nor VOC and hence it's usable both for cleaning or clearing your finishes.�*
+*In brief, YES, Acetone (a solvent) removes acrylic paint, enamels, and oil-based paints (both dry and fresh). It'll lift the mineral spirits and dry fast as you spin and shake the brush.*
+*Acetone, as an ingredient, is used to remove paint and varnish. It'll take off the paint right off when you pour it directly on your painted surfaces.*
+*When you get your paint ruined, you spray the acetone on the painting, and it'll merely clean it. Acetone is neither HAP nor VOC and hence it's usable both for cleaning or clearing your finishes.*
 ## Details: Does Acetone Remove Paint?
 Although acetone has some strong odor, it's not toxic since it'll only lead to some moderate irritation on your central nervous system. See Also:
 [Stain Pressure Treated Wood](https://pestpolicy.com/how-to-stain-pressure-treated-wood/)

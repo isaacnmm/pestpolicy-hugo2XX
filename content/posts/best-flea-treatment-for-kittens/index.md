@@ -38,10 +38,10 @@ This product does not irritate your kitten or your humans during application.
 However, for kittens with sensitive skin, I recommend that you use the pray
 option for flea treatment
 to avoid instilling injuries on pets.
-**NB: All flea-treated kittens/cats should be kept away in an enclosed for 24 hours. Keep Advantage II away from children.�**
+**NB: All flea-treated kittens/cats should be kept away in an enclosed for 24 hours. Keep Advantage II away from children.**
 The Good:
 - Waterproof/resistant and Fragrance-free.
-- Veterinary recommended and�Easier to apply  Liquid form.
+- Veterinary recommended andEasier to apply  Liquid form.
 - No irritation and quick-acting  12 hours.
 - Effective  30 days action duration.
 The Bad:
@@ -54,7 +54,7 @@ https://www.youtube.com/watch?v=ZzHEQeAtVoE
 
 Could you be looking for a tablet medicine for your kitten treatment? Capstar (nitenpyram) is the top quality for your kitten.
 - It is an oral product that startskilling 30 minutes after tabletadministration (quick-acting).
-- The veterinary recommended product assures you of 90%of theflea's killing�on your kitten within 4 to 6 hours for every single dose of Capstar application.
+- The veterinary recommended product assures you of 90%of theflea's killingon your kitten within 4 to 6 hours for every single dose of Capstar application.
 It
 kills adult flea
 and larvae on your kitten before they lay eggs  you can see flea fall off after death. Capstar is convenient and easy to use. You only need to place the tablet deep in the mouth for the kitten to swallow or mix it with the kittens food.
@@ -90,7 +90,7 @@ Administer 1 to 3 dosages of ZoGuard Plus within a month. To do this, squeeze an
 ZoGuard Plus offers a long-lasting solution to your kitten flea infestations.
 The Good:
 - Waterproof/water-resistant and Quick-acting  kills in 12 hours.
-- Convenience/easy to use and�No irritations.
+- Convenience/easy to use andNo irritations.
 - Long-lasting and Point application advantage.
 - Kills the entire flea life cycle.
 - Also, kill lice and ticks
@@ -140,7 +140,7 @@ The non-staining product leads well, thus suitable for other
 places on your home flea
 treatment such as coaches, furniture, carpet, crates, and outdoor places.
 The treatment effect of Vet's Best Flea is long-lasting, even after bathing your kitten.
-**NB: This product is meant for kitten/cat flea treatment. It should not be used on any other animal/pet.�**
+**NB: This product is meant for kitten/cat flea treatment. It should not be used on any other animal/pet.**
 The Good:
 - Nonpollutant - no harmful chemicals and Natural scent  contains certified natural oil.
 - Easier/convenient to use and Efficient  Kills the entire flea life cycle.
@@ -160,7 +160,7 @@ flea treatment at your home
 The long-lasting effect (initiated by the products action formula) injected on the skin of your kitten can offer 6 weeks of continuous protection,
 Cheristin is suitable for kittens/cats age 8 weeks or more. Their weight should lay between 1.8 to 25 pounds. This product is available without permission  provided that you follow instructions during use.
 Cheristin is economical. You administer one dose for 1 to 3 months.
-*NB: Apply the product on the neck region  round the neck or between shoulder blades.�*
+*NB: Apply the product on the neck region  round the neck or between shoulder blades.*
 The Good:
 - Easier and convenient - point application.
 - Long last treatment effect  6 weeks.

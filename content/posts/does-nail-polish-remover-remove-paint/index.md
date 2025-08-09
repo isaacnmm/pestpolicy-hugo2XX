@@ -15,13 +15,13 @@ layout: post
 ---
 Perhaps you work in the cosmetic industry and often use nail polish in one way or another. You could even have polished your nails and effectively cleaned using nail polish remover. Or else, you wonders, which other methods can nail polish remover, be used for.
 
-*So, does nail polish remover remove paint? Simply, **YES**. Nail polish remover is a solvent compound manufactured to breakdown the synthetic resins, nitrocellulose, and plasticizers found in the hard nail polish coating for easier cleaning.�*
+*So, does nail polish remover remove paint? Simply, **YES**. Nail polish remover is a solvent compound manufactured to breakdown the synthetic resins, nitrocellulose, and plasticizers found in the hard nail polish coating for easier cleaning.*
 *The active agent in this product is usually Acetone (for acetone-based nail polish remover), which is responsible for breaking down the molecular bonds in the paint. Indeed, the solvent entails ingredients that have a complicated formula, which is self-activating upon application.*
 *Nail Polish remover works best for latex-based paint, uncured paint, and oil-based paint. Its high penetration capacity and bond braking affinity make this compound superior as an alternative option for paint removal.*
 *Moreover, Nail Polish Remover can be used on surfaces such as Painted walls, finished wood, sealed stones, tires, ceiling, glass, polished metal, bathtubs, concrete floors, laminated furniture, windowpanes, oil sealants, leather material, kitchen sinks, carpets, and plastic material.*
 ## Details: Does Nail Polish Remover Remove Paint
 *However, its not advisable to use nail polish remover on surfaces such as fresh wood, unsealed stones, suede material, naked fire surface, cushioned material, gas pipes, and multi-colored surfaces.*
-*Further, you will need to wear a respirator and hand gloves since nail polish remover cause skin irritation and respiratory discomfort upon inhalation.�*
+*Further, you will need to wear a respirator and hand gloves since nail polish remover cause skin irritation and respiratory discomfort upon inhalation.*
 ### a. Active ingredients in Nail Polish Remover
 Nail polish remover is a solvent compound that features a complex carbon-based formula that breaks down traces of synthetic resins, nitrocellulose, and plasticizers found in the hard nail polish coating for the more straightforward removal process.
 
@@ -30,7 +30,7 @@ Most nail polish removers are usually acetone-based (though others are natural),
 Acetone easily mixes with water, thus giving room for optional dilution to the best application concentration. Nail polish remover is further integrated with self-activating ingredients that act without wetting the surface under paint removal.
 
 https://www.youtube.com/watch?v=MS7Xswsz4Ew
-### b.� Types of paint removed by Nail Polish Remover
+### b. Types of paint removed by Nail Polish Remover
 Nail polish remover works effectively in the paint removal process in 2 to 5 minutes after application. As an organic-base compound, it will clean the following types of paints:
 - Latex-based paints and Oil-based paint
 - Acrylic paints and Enamels

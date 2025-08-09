@@ -98,10 +98,10 @@ Here's a breakdown of the ideal timing and why:
 
 1.  **Wait for the First Hard Freeze:**
     * Do not apply winter mulch when the soil is still warm. If you mulch too early, while the ground is still relatively warm, the mulch can trap this warmth, preventing the soil from cooling down naturally. This can confuse plants, delay their dormancy, and even encourage late-season growth that is then vulnerable to the first severe cold snap. It can also create a cozy, sheltered environment for rodents and other pests looking for a warm winter home near your plants.
-    * A "hard freeze" typically means temperatures drop to 28�F (-2�C) or lower for several hours. This usually causes the surface of the soil to freeze.
+    * A "hard freeze" typically means temperatures drop to 28F (-2C) or lower for several hours. This usually causes the surface of the soil to freeze.
 
 2.  **Aim for Consistent Cold, Not Deep Freeze:**
-    * The ideal time is when daytime temperatures consistently stay below 40�F (4�C) and nighttime temperatures are regularly dipping below freezing. The goal is to provide a consistent blanket of insulation *after* the plant has entered dormancy and the soil has begun to cool and solidify.
+    * The ideal time is when daytime temperatures consistently stay below 40F (4C) and nighttime temperatures are regularly dipping below freezing. The goal is to provide a consistent blanket of insulation *after* the plant has entered dormancy and the soil has begun to cool and solidify.
     * The mulch then prevents the ground from repeatedly thawing and refreezing during winter warm spells, which leads to frost heave.
 
 3.  **Regional Variations:**

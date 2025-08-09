@@ -26,7 +26,7 @@ Most people love the comfort and support that these socks provide. The socks fea
 
 3In addition, the socks have a lightweight design that delivers good fitting support. Hence, additional comfort for healthy feet
 
-Other than that, these socks deliver ultimate protection to feet. The WC4 wellness socks are ideal for those with sensitive feet, neuropathy, excess swelling, and diabetes. �Youll appreciate the light gradient compression that provides lightweight support to feet. Hence, provides healthier and relaxed feet.
+Other than that, these socks deliver ultimate protection to feet. The WC4 wellness socks are ideal for those with sensitive feet, neuropathy, excess swelling, and diabetes. Youll appreciate the light gradient compression that provides lightweight support to feet. Hence, provides healthier and relaxed feet.
 
 The WC4 socks for sensitive feet are also anatomically designed to fit both your right and left foot. To ensure proper placement of the foot into these socks the heel and toes sections are knitted carefully to give you that sure fit.
 
@@ -36,7 +36,7 @@ More than that, these socks also feature quality breathable material that has ex
 Pros:
 - Highly comfortable
 - Breathable
-- Ideal for neuropathy�and sensitive feet
+- Ideal for neuropathyand sensitive feet
 - Ideal for achy tired feet
 - Delivers perfect feet
 
@@ -48,7 +48,7 @@ If youre one of those patients who complain of numbness or a tingling sensation 
 
 The Juzo Socks are Diabetic Friendly and they provide relief to people with various foot conditions. The socks provide relief for diabetics, athletes, and people who are on their feet for long periods.
 
-More than that, the Comfort Silver Sole provides a pillowy feeling ensuring that you have unmatched comfort throughout the day. Youll love the extra cushioning that offers protection to the bottom of the foot.������ Thus, the socks prevent callus buildup, blisters, or any other underfoot discomfort.
+More than that, the Comfort Silver Sole provides a pillowy feeling ensuring that you have unmatched comfort throughout the day. Youll love the extra cushioning that offers protection to the bottom of the foot. Thus, the socks prevent callus buildup, blisters, or any other underfoot discomfort.
 
 The channeled toe seam on the silver sole also ensures reduced friction or irritation. The Juzo socks also have Antibacterial properties with X-STATIC pure silver fibers that naturally eliminate bacteria and fungi. Thus, reduce or prevent foot odor.
 Pros:
@@ -166,11 +166,11 @@ If you have sensitive feet youll want socks that deliver supreme comfort. The EM
 
 The socks feature a non-elastic wide top that provides a loose fit for effective blood circulation. This design also eliminates irritation. The seamless hand-linked toes ensure supreme comfort and prevent abrasion.
 
-Other than that, youll appreciate the great quality of these best socks for sensitive feet. They are well designed to ensure high quality and durability.� The good part is that they remain the same even after washing several times.
+Other than that, youll appreciate the great quality of these best socks for sensitive feet. They are well designed to ensure high quality and durability. The good part is that they remain the same even after washing several times.
 
 These socks are also easy to wash and the maintenance is easy. Theyre machine washable.
 
-The EMEM Apparel Men's Diabetic Dress socks are ideal for every occasion. You can use it as everyday wear for work, special occasions, or just chilling at home.� These are among the best socks for the elderly and diabetics.
+The EMEM Apparel Men's Diabetic Dress socks are ideal for every occasion. You can use it as everyday wear for work, special occasions, or just chilling at home. These are among the best socks for the elderly and diabetics.
 Pros:
 - Available in a variety of colors and sizes
 - Great quality

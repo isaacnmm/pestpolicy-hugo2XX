@@ -18,7 +18,7 @@ As spring bursts forth with vibrant colors, a profusion of yellow and white flow
 
 Understanding the precise differences between these flowers is not just a matter of botanical accuracy; it can also inform your gardening choices, especially regarding planting conditions, toxicity, and overall landscape design. This guide will clarify the distinctions between daffodils, jonquils, and buttercups, explain their unique features, and help you decide which is the best fit for your garden.
 
-## What�s the [Difference](https://pestpolicy.com/difference-between-a-bee-and-a-wasps-nest/) [Between](https://pestpolicy.com/difference-between-ceiling-paint-and-wall-paint/) Daffodils, Jonquils, and Buttercups?
+## Whats the [Difference](https://pestpolicy.com/difference-between-a-bee-and-a-wasps-nest/) [Between](https://pestpolicy.com/difference-between-ceiling-paint-and-wall-paint/) Daffodils, Jonquils, and Buttercups?
 
 The main difference lies in their botanical classification and specific physical characteristics:
 

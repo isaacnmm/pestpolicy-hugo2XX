@@ -46,7 +46,7 @@ This is to ensure that you're truly dealing with or controlling noseeums and not
 - The No See Ums will be around some standing water as they require it for procreation.
 Thus, check if your property or home has standing water that hasn't been drained for long. This can play host or homage to the no see ums.
 Further, the bugs love eating nectar - which's largely available in lawns and gardens.
-**2. Have saw-like�mouthparts**
+**2. Have saw-likemouthparts**
 - The mouthparts of no see ums are saw-like since they're created for sucking blood.
 Therefore, the bugs will bite humans and pets frequently (painful bites) particularly in the yard or outdoor spaces.
 **3. They carry diseases**
@@ -60,7 +60,7 @@ The noseeums will equally make humans sick (
 The tiny bugs measure about 1/8-inch or under and are grey-colored.
 ### Step 2: Noseeums Inspection
 Inspecting for noseeums will help you in the bug control phase. This phase helps identify the places ( "hotspots") where the bugs will get attracted to, congregate and breed.
-**1. Hotspots to inspect�**
+**1. Hotspots to inspect**
 So, if you're wondering about the hotspots to check the noseeums. I noted above that they'll mainly hide around standing water just like with mosquitoes.
 So, inspect those swampy and muddy areas - there are the
 places they'll lay eggs - also check on moist soil, streams, and lakes.
@@ -78,7 +78,7 @@ But what cues will you be looking for as you inspect for no see um? We've noted 
 But since the no see um will be tiny to see clearly, you'll require to check on the hotspots for signs of their breeding or hiding. Also, is there wet mulch, yard debris, or moist soil?
 
 After you've identified the breeding area of the no see ums, you'll thus easily apply the bug treatment you've selected to exterminate them.
-**3. No See Um Treatment�**
+**3. No See Um Treatment**
 No wits time for treating the no see ums after you've identified their activity.
 
 But before going deeper into the bug treatment, carefully read and adhere to the product label instructions such as putting on the PPEs advised.
@@ -108,7 +108,7 @@ To remove no see um in the indoor spaces or also the house, you'll like to use t
 
 Pyrid aerosol is excellent for indoor no see um treatment as it's a good space and contact spray that'll easily and fast knock down the bugs. The aerosol will remove or repel the bugs from the pets and humans around your house.
 
-However, ensure to remove all the food objects like pots, bowls, and glasses. Also, ensure to close doors, windows, and your air conditioner.�The Pyrid Aerosol should be applied over 1,050 cubic ft for 1-3 seconds.
+However, ensure to remove all the food objects like pots, bowls, and glasses. Also, ensure to close doors, windows, and your air conditioner.The Pyrid Aerosol should be applied over 1,050 cubic ft for 1-3 seconds.
 
 Also, don't let humans or pets get into the sprayed spaces for 15 minutes - and also undertake proper ventilation before allowing living beings into the spaces. Also, wipe those countertops and the eating surfaces.
 ### Step 4: No See Um Prevention

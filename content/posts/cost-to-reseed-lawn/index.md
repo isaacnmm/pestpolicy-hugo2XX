@@ -24,9 +24,9 @@ The cost to seed a lawn can vary significantly depending on whether you're overs
 
 For a typical 5,000 to 10,000 square foot lawn:
 
-* **DIY Overseeding (Seed Only):** $50 � $200
-* **Professional Overseeding/Reseeding:** $200 � $1,350
-* **Seeding a New Lawn (Professional, including prep):** $1,250 � $7,000 (for 5,000 to 10,000 sq ft)
+* **DIY Overseeding (Seed Only):** $50  $200
+* **Professional Overseeding/Reseeding:** $200  $1,350
+* **Seeding a New Lawn (Professional, including prep):** $1,250  $7,000 (for 5,000 to 10,000 sq ft)
 
 These figures generally include materials and labor for professional services, while DIY costs are primarily for seed and potentially rental equipment.
 
@@ -130,7 +130,7 @@ For major projects like a full lawn renovation, the investment in a professional
 
 ## Final Thoughts
 
-Reseeding or seeding your lawn is an investment in your home's curb appeal and the overall health of your outdoor space. While costs can vary widely, understanding the factors involved�from the type of grass seed to the extent of preparation needed�empowers you to make informed decisions. Whether you choose the hands-on DIY approach or opt for professional expertise, a well-seeded lawn promises a greener, thicker, and more resilient turf for years to come.
+Reseeding or seeding your lawn is an investment in your home's curb appeal and the overall health of your outdoor space. While costs can vary widely, understanding the factors involvedfrom the type of grass seed to the extent of preparation neededempowers you to make informed decisions. Whether you choose the hands-on DIY approach or opt for professional expertise, a well-seeded lawn promises a greener, thicker, and more resilient turf for years to come.
 
 ## FAQs About Reseeding Costs
 

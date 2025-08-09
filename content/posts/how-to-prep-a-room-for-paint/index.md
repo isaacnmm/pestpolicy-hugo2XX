@@ -40,7 +40,7 @@ the paint thinner
 should match the applied old paint (oil-based thinner should be used over oil-based paint and vice versa)
 Gently, strip the paint layer using a putty knife/
 [a paint](https://www.amazon.com/Toughest-Tools-Paint-Scraper-Remover/dp/B07XVBW45J/ref=sr_1_5?dchild=1&keywords=paint+scraper&qid=1610135050&sr=8-5)
-scraper, � be keen when running the scraper over the old paint to protect primary surface material from damage.
+scraper,  be keen when running the scraper over the old paint to protect primary surface material from damage.
 Repeat the procedure until the entire paint is removed  there should be minimal old paint traces on the surface.
 ### d. Sand the Ceiling/Walls
 Using medium grade sandpaper, sand the paint stripped surface gently (prevents structural damage) to remove old paint remnants.

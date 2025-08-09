@@ -21,7 +21,7 @@ killer for lawns, you can consider factors like effectiveness, safety, applicati
 ### **1. Effectiveness**
 Some products, like
 [Amdro Ant Block](https://www.amazon.com/dp/B002YJOSBW/?tag=p-policy-20)
-, are highly effective in killing fire ants due to their active ingredient, hydramethylnon.�This compound works by disrupting the ants' digestive system, leading to colony elimination even in
+, are highly effective in killing fire ants due to their active ingredient, hydramethylnon.This compound works by disrupting the ants' digestive system, leading to colony elimination even in
 [bathroom](https://pestpolicy.com/how-to-get-rid-of-ants-in-the-bathroom/)
 .
 Another effective choice is

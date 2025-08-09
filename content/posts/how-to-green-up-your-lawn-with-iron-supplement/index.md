@@ -75,7 +75,7 @@ Timing is important for optimal results and to minimize risk.
 * **Growing Season:** Apply iron during the active growing season of your grass type.
     * **Cool-Season Grasses:** Spring and fall are ideal, when temperatures are moderate. Avoid application during the heat of summer.
     * **Warm-Season Grasses:** Late spring through summer, during their peak growth.
-* **Cooler Temperatures:** Iron is best applied when temperatures are moderate (below 85�F/29�C). High heat combined with iron can increase the risk of burning the grass.
+* **Cooler Temperatures:** Iron is best applied when temperatures are moderate (below 85F/29C). High heat combined with iron can increase the risk of burning the grass.
 * **Morning Application:** Applying in the morning allows the grass blades to absorb the liquid iron before the sun gets too intense, and allows granular products to be watered in before the heat of the day.
 * **Avoid Drought Stress:** Ensure your lawn is well-hydrated before applying iron. Never apply to a drought-stressed or dormant lawn.
 

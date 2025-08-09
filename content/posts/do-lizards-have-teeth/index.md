@@ -18,7 +18,7 @@ Probably youve seen a [lizard](https://pestpolicy.com/are-lizards-poisonous/) ru
 
 Further, how do these lizards even feed  with or without teeth? So, do lizards have teeth?
 - **The short answer is, YES! Lizards have teeth that are well adapted to the type of food they eat. The dentition of lizards varies from one species to another within the taxonomic family where some have pleurodont teeth formation while others have acrodont teeth.**
-- **The shape of their teeth is either conical, pointed, or serrated to help them grip the prey and push it into the digestive tract. Lizards do not have alveoli or tooth sockets in their dentition. Some lizard species have venom ducts connected to their tooth roots to help paralyzed their prey.�**
+- **The shape of their teeth is either conical, pointed, or serrated to help them grip the prey and push it into the digestive tract. Lizards do not have alveoli or tooth sockets in their dentition. Some lizard species have venom ducts connected to their tooth roots to help paralyzed their prey.**
 
 
 Related:
@@ -36,7 +36,7 @@ Particularly, this fusion should be handled with care (by lizard owners) since a
 
 The acrodont teeth are weak and easily lost. With wear and tear resulting from biting, their jawbones are left exposed or sometimes bleeding due to abrasive action.
 
-Lizards possessing the acrodont type of teeth include Agamid lizards like water dragons, bearded dragons, and chameleons. �Acrodont class is highly susceptible to diseases such as periodontal.
+Lizards possessing the acrodont type of teeth include Agamid lizards like water dragons, bearded dragons, and chameleons. Acrodont class is highly susceptible to diseases such as periodontal.
 **2. Pleurodont teeth classification.**
 This is the main type of dentition that is found in most lizards. The teeth are attached to the interior side of the jawbone creating a wider surface that offers strong fusion as compared to the acrodont type.
 

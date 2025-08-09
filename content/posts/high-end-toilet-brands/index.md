@@ -46,7 +46,7 @@ What distinguishes a high-end toilet from a standard one lies in its array of fe
 
 ### Water Efficiency:
 
-Despite their advanced features, many high-end toilets are designed with water conservation in mind. Technologies like dual-flush systems (offering different flush volumes for liquid and solid waste) and powerful, efficient flushing systems (e.g., TOTO's Tornado Flush) ensure effective cleaning with minimal water usage, often meeting WaterSense� criteria.
+Despite their advanced features, many high-end toilets are designed with water conservation in mind. Technologies like dual-flush systems (offering different flush volumes for liquid and solid waste) and powerful, efficient flushing systems (e.g., TOTO's Tornado Flush) ensure effective cleaning with minimal water usage, often meeting WaterSense criteria.
 
 ---
 
@@ -70,7 +70,7 @@ A long-standing leader in bathroom fixtures, Kohler offers a range of intelligen
 * **Signature Technologies:**
     * **Numi 2.0:** Kohler's flagship intelligent toilet, known for its striking minimalist design, integrated speakers with ambient lighting, Alexa voice control, heated seat, personalized cleansing, and automatic features.
     * **Eir and Veil Intelligent Toilets:** These models offer sleek designs with features like automatic open/close lids, heated seats, self-cleaning stainless steel wands (with UV-light sanitation on some models), and automatic flush.
-    * **CleanCoat� Technology:** A special surface treatment that prevents water mineral stains and makes cleaning easier.
+    * **CleanCoat Technology:** A special surface treatment that prevents water mineral stains and makes cleaning easier.
 * **Key Models:** The **Numi 2.0 Smart Toilet** is a standout for its comprehensive smart home integration and luxurious experience. The **Veil** and **Eir** series offer highly aesthetic designs with advanced hygiene features.
 
 ### 3. Duravit (Germany)
@@ -78,9 +78,9 @@ A long-standing leader in bathroom fixtures, Kohler offers a range of intelligen
 Known for its collaborations with renowned designers and its commitment to quality ceramics, Duravit's **SensoWash** shower toilets combine minimalist aesthetics with advanced bidet functionality.
 * **Signature Technologies:**
     * **SensoWash:** Integrated shower toilet seats offering various wash functions (rear, lady, comfort wash), warm air dryer, heated seat, and user profile programming via remote control or app.
-    * **Duravit Rimless�:** An open rim design for improved hygiene and efficient flushing.
+    * **Duravit Rimless:** An open rim design for improved hygiene and efficient flushing.
     * **WonderGliss:** A special ceramic coating that keeps surfaces smooth and repels dirt.
-* **Key Models:** The **SensoWash� Starck f** and **SensoWash� i** series showcase sleek, integrated designs that blend seamlessly into modern bathrooms, emphasizing sophisticated simplicity and high performance.
+* **Key Models:** The **SensoWash Starck f** and **SensoWash i** series showcase sleek, integrated designs that blend seamlessly into modern bathrooms, emphasizing sophisticated simplicity and high performance.
 
 ### 4. Geberit (Switzerland)
 

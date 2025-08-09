@@ -34,7 +34,7 @@ More than that, the soccer mom chair features padded armrests and a beverage hol
 Pros:
 - Available in attractive colors
 - Easy fold technology allows for convenient transportation and storage
-- The spring-action rocking technology�provides extra comfort and relaxation
+- The spring-action rocking technologyprovides extra comfort and relaxation
 - The chair holds up to 250 pounds
 
 Cons:
@@ -104,7 +104,7 @@ Pros:
 - Convenient side pocket
 
 Cons:
-- Some people reported that the Carry bag�was not as durable as they had expected
+- Some people reported that the Carry bagwas not as durable as they had expected
 
 ### [5. Quik Shade MAX Shade Chair](https://www.amazon.com/dp/B00SKZYHEC/?tag=p-policy-20)
 You dont need to worry about a hot sunny day while attending your kids soccer game thanks to the Quik Shade MAX Shade Chair. This chair allows you to follow the game at the sidelines under the hot sun without excess heat exposure.

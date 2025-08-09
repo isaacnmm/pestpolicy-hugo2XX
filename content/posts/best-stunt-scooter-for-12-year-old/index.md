@@ -110,7 +110,7 @@ Pros
 - 110MM durable wheels
 - Quick and easy to assemble
 Cons
-- Some people complain that the grip tape�came off after only weeks of use
+- Some people complain that the grip tapecame off after only weeks of use
 ### [5. Mongoose Freestyle Kick Scooter](https://www.amazon.com/dp/B086Z3D7J3/?tag=p-policy-20)
 If youre looking for a well-designed and high-performing scooter you can never go wrong with the Mongoose Freestyle Kick Scooter. Its one of the best stun scooters for 12 year old or anyone above the age of 8 with a weight limit of 220lbs.
 
@@ -160,11 +160,11 @@ Pros
 Cons
 - Some people complained that its not highly durable
 ### [7. Gotrax Pro Scooters - Stunt Scooter](https://www.amazon.com/dp/B08NH3ZFZM/?tag=p-policy-20)
-The Gotrax Pro Scooters - Stunt Scooter�is an amazing scooter that has received many positive reviews from its users. Youll love its high performance, safety features, and reliability.
+The Gotrax Pro Scooters - Stunt Scooteris an amazing scooter that has received many positive reviews from its users. Youll love its high performance, safety features, and reliability.
 
 The good thing about this scooter is that its ideal for extreme environments and terrains. It features solid 110mm Aluminum wheels, a durable Aluminum Deck, Steel Reinforced V-Bars, and Quiet Steel Brake. The scooter makes it easier for kids to achieve their goals or even surpass them.
 
-More than that, the Gotrax Pro Scooters give your kid a smooth gliding experience.� Its one of the best freestyle scooters that ensures safety for the child as they glide. This scooter is fitted with ABEC-9 bearings that deliver a smoother and quieter ride.
+More than that, the Gotrax Pro Scooters give your kid a smooth gliding experience. Its one of the best freestyle scooters that ensures safety for the child as they glide. This scooter is fitted with ABEC-9 bearings that deliver a smoother and quieter ride.
 
 The scooter also has highly responsive brakes for additional safety.
 

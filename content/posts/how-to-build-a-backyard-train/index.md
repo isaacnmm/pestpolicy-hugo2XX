@@ -15,7 +15,7 @@ layout: post
 ---
 In this article, I will provide a straightforward guide on [how](https://pestpolicy.com/how-to-camp-out-in-your-backyard/) to build a [Backyard](https://pestpolicy.com/best-backyard-trampolines/) Train. If building a train in your backyard has been your dream for some time now I got you covered.
 
-You need to know the different types of trains then decide which among them suits your backyard best.� Some examples to consider include Barrel trains, wooden Railroad�trains, and Gauge Train tracks among others.
+You need to know the different types of trains then decide which among them suits your backyard best. Some examples to consider include Barrel trains, wooden Railroadtrains, and Gauge Train tracks among others.
 
 Just note that youll need to have some basic welding skills to accomplish this project. However, if you lack the welding skills liaise with someone who can provide the needed assistance to avoid being stuck.
 
@@ -33,7 +33,7 @@ Follow this guide on how to build a backyard train. Within hours, you would have
 ### Step 1: Gather Everything You Need For the Project
 Youll need the following to start off
 - [55-gallon HDPE barrel](https://www.amazon.com/dp/B06Y2H5GVX/?tag=p-policy-20)
-- [10-inch wagon�wheels](https://www.amazon.com/dp/B00ECAVJ1I/?tag=p-policy-20)
+- [10-inch wagonwheels](https://www.amazon.com/dp/B00ECAVJ1I/?tag=p-policy-20)
 - Hollow square steel rods
 - 11 gauge square tub 1-inch each
 - Hollow circular steel rods
@@ -113,5 +113,5 @@ Conclusion
 
 You now know how to build a backyard train using barrels. However, it's important you know that there are other trains you can build.
 
-Some come ready-made they need little to no work.� Others, youll need to invest a lot of your time and resources like on this
+Some come ready-made they need little to no work. Others, youll need to invest a lot of your time and resources like on this
 [video below](https://www.youtube.com/watch?v=U3Y2fy6M2-8)

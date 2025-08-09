@@ -36,7 +36,7 @@ Selecting a high-end bathtub is about more than just filling a space; it's about
 These brands are consistently recognized for their exceptional quality, innovative design, and luxurious bathing experiences.
 
 1.  **Victoria + Albert:**
-    * **Specialty:** Renowned for freestanding tubs crafted from **QUARRYCAST�**, a proprietary blend of Volcanic Limestone� and high-performance resins.
+    * **Specialty:** Renowned for freestanding tubs crafted from **QUARRYCAST**, a proprietary blend of Volcanic Limestone and high-performance resins.
     * **Pros:** Exceptionally durable, naturally white, warm to the touch, excellent heat retention, and available in a wide array of stunning contemporary and traditional freestanding designs.
     * **Notable Collections:** Amiata, Eldon, Naples.
 
@@ -46,7 +46,7 @@ These brands are consistently recognized for their exceptional quality, innovati
     * **Notable Collections:** Meisterstuck, Conoduo, Centro Duo Oval.
 
 3.  **Kohler:**
-    * **Specialty:** A household name in plumbing, Kohler's high-end lines offer a vast selection of luxury tubs, including unique materials like **KOHLER Lithocast�** (a solid-surface material) and sophisticated hydrotherapy systems.
+    * **Specialty:** A household name in plumbing, Kohler's high-end lines offer a vast selection of luxury tubs, including unique materials like **KOHLER Lithocast** (a solid-surface material) and sophisticated hydrotherapy systems.
     * **Pros:** Wide range of styles, sizes, and price points within the luxury segment; strong reputation for innovation in hydrotherapy (VibrAcoustic, BubbleMassage); good availability and support.
     * **Notable Collections:** Underscore, Stillness, Purist.
 
@@ -56,7 +56,7 @@ These brands are consistently recognized for their exceptional quality, innovati
     * **Notable Collections:** Signature, J-500, J-400.
 
 5.  **Duravit:**
-    * **Specialty:** German manufacturer known for its sleek, minimalist designs and high-quality materials like **DuraSolid�** (a mineral cast material) and acrylic. They often collaborate with renowned international designers.
+    * **Specialty:** German manufacturer known for its sleek, minimalist designs and high-quality materials like **DuraSolid** (a mineral cast material) and acrylic. They often collaborate with renowned international designers.
     * **Pros:** Contemporary aesthetics, seamless forms, good heat retention, and a strong emphasis on modern bathroom design.
     * **Notable Collections:** Luv, Happy D.2 Plus, Cape Cod.
 
@@ -83,7 +83,7 @@ Beyond brand reputation, several critical factors should guide your decision:
     * **Acrylic:** Most common, lightweight, good heat retention, wide range of shapes/colors, can scratch. High-end acrylic is thicker and more durable.
     * **Cast Iron:** Extremely durable, excellent heat retention, very heavy, classic aesthetic, often enameled.
     * **Steel Enamel:** Highly durable, scratch-resistant, hygienic, vibrant white, lightweight compared to cast iron.
-    * **Solid Surface/Stone Resin (e.g., QUARRYCAST�, Lithocast�, DuraSolid�, Tuff Stone):** Luxurious feel, excellent heat retention, repairable, seamless look, weighty, often allows for unique sculptural forms.
+    * **Solid Surface/Stone Resin (e.g., QUARRYCAST, Lithocast, DuraSolid, Tuff Stone):** Luxurious feel, excellent heat retention, repairable, seamless look, weighty, often allows for unique sculptural forms.
     * **Copper/Nickel:** Unique aesthetic, naturally antimicrobial, excellent heat conductivity (cools faster), patinas over time, higher maintenance.
 2.  **Type:**
     * **Freestanding:** A sculptural statement piece, flexible placement (requires floor-mounted faucet).
@@ -115,4 +115,4 @@ Once you've selected your dream tub, elevate the entire bathing experience with 
 
 ## Final Thoughts About High-End Bathtub Brands
 
-Investing in a high-end bathtub from a reputable brand is a cornerstone of creating a luxurious and functional bathroom sanctuary. It's a decision that combines aesthetic aspirations with practical considerations of durability, comfort, and advanced features. By understanding the unique qualities of leading brands and carefully evaluating your specific needs, you can select a bathtub that not only becomes the showpiece of your bathroom but also a cherished retreat for relaxation and personal well-being for years to come. It�s an investment in daily luxury and the enduring value of your home.
+Investing in a high-end bathtub from a reputable brand is a cornerstone of creating a luxurious and functional bathroom sanctuary. It's a decision that combines aesthetic aspirations with practical considerations of durability, comfort, and advanced features. By understanding the unique qualities of leading brands and carefully evaluating your specific needs, you can select a bathtub that not only becomes the showpiece of your bathroom but also a cherished retreat for relaxation and personal well-being for years to come. Its an investment in daily luxury and the enduring value of your home.

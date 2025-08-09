@@ -25,7 +25,7 @@ Zoysia grass (*Zoysia spp.*) is a warm-season turfgrass that thrives in hot weat
 
 Here's a closer look at what makes Zoysia unique:
 
-* **Warm-Season Grass:** Zoysia actively grows when temperatures are consistently warm, typically from late spring through early fall. It goes dormant and turns a straw-like brown in cooler temperatures (below 50-60�F), usually after the first frost, and greens up again in late spring.
+* **Warm-Season Grass:** Zoysia actively grows when temperatures are consistently warm, typically from late spring through early fall. It goes dormant and turns a straw-like brown in cooler temperatures (below 50-60F), usually after the first frost, and greens up again in late spring.
 * **Dense Growth Habit:** Zoysia spreads aggressively via both above-ground stolons and underground rhizomes. This extensive lateral growth allows it to form an incredibly dense, thick turf that effectively chokes out most weeds. This density is one of its most prized features.
 * **Exceptional Durability and Wear Tolerance:** Due to its robust spreading habit and tough blades, Zoysia is highly tolerant of foot traffic and wear, making it an excellent choice for active families and lawns that see heavy use. It's often used on golf courses (fairways and tees) and athletic fields.
 * **Heat and Drought Tolerance:** Once established, Zoysia possesses impressive heat and drought tolerance. Its deep root system and stoloniferous growth allow it to survive prolonged dry periods, often requiring less water than other warm-season grasses. It will often go dormant during extreme drought, conserving energy, and green up once water returns.
@@ -60,7 +60,7 @@ Ultimately, the decision to overseed Zoysia should be based on the current healt
 
 Even with its reputation for density, Zoysia grass can develop unsightly patches. Understanding the underlying causes is the first step toward effective remediation.
 
-1.  **Dormancy Cycles:** Zoysia is a warm-season grass. In cooler temperatures (typically below 50-60�F), it goes dormant and turns brown. If your lawn is in a transition zone, areas that experience colder pockets or more shade might go dormant earlier or stay dormant longer, creating temporary patchy appearances against areas that are still green or have already greened up. This is a natural, seasonal phenomenon.
+1.  **Dormancy Cycles:** Zoysia is a warm-season grass. In cooler temperatures (typically below 50-60F), it goes dormant and turns brown. If your lawn is in a transition zone, areas that experience colder pockets or more shade might go dormant earlier or stay dormant longer, creating temporary patchy appearances against areas that are still green or have already greened up. This is a natural, seasonal phenomenon.
 
 2.  **Insufficient Sunlight:** While Zoysia tolerates some shade, it thrives in full sun. Areas that receive less than 6 hours of direct sunlight per day will often thin out, become weak, and appear patchy. The grass might grow but will be less dense and more susceptible to other problems.
 
@@ -87,11 +87,11 @@ Even with its reputation for density, Zoysia grass can develop unsightly patches
 
 Identifying the specific cause is crucial for choosing the correct treatment, whether it's adjusting watering, addressing compaction, treating pests, or implementing a targeted overseeding plan.
 
-## How to Overseed Zoysia Grass � 8 Easy Steps
+## How to Overseed Zoysia Grass  8 Easy Steps
 
 Overseeding Zoysia requires meticulous preparation and consistent care, especially given its slow germination rate. Follow these steps for the best chance of success.
 
-**Timing is Crucial:** The ideal time to overseed Zoysia is in **late spring to early summer** when soil temperatures are consistently above 65�F (and ideally 70�F or warmer) and the grass is actively growing. This typically aligns with late May through July in warm-season zones. Overseeding too early in spring can lead to poor germination due to cool soil.
+**Timing is Crucial:** The ideal time to overseed Zoysia is in **late spring to early summer** when soil temperatures are consistently above 65F (and ideally 70F or warmer) and the grass is actively growing. This typically aligns with late May through July in warm-season zones. Overseeding too early in spring can lead to poor germination due to cool soil.
 
 1.  **Mow Short and Bag Clippings:**
     * Set your mower to one of its lowest settings, around 1 to 1.5 inches.
@@ -157,4 +157,4 @@ Proper care after overseeding is vital to nurture the new Zoysia seedlings and i
 
 Overseeding Zoysia grass is a valuable tool for rejuvenating thinning lawns, repairing damaged areas, and enhancing overall turf density. While Zoysia's self-repairing nature is a significant advantage, strategic overseeding can accelerate the process and help you achieve a more uniform, resilient, and beautiful lawn.
 
-The success of your overseeding project hinges on meticulous preparation�including proper mowing, dethatching, and aeration�and diligent follow-up care, particularly consistent watering during the crucial germination phase. Remember that Zoysia is a slow starter, so patience is a virtue. By providing the right conditions and consistent nurturing, you'll be rewarded with the thick, durable, and visually appealing Zoysia lawn that makes it such a sought-after turfgrass.
+The success of your overseeding project hinges on meticulous preparationincluding proper mowing, dethatching, and aerationand diligent follow-up care, particularly consistent watering during the crucial germination phase. Remember that Zoysia is a slow starter, so patience is a virtue. By providing the right conditions and consistent nurturing, you'll be rewarded with the thick, durable, and visually appealing Zoysia lawn that makes it such a sought-after turfgrass.

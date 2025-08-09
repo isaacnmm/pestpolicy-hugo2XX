@@ -14,19 +14,19 @@ tags:
 - lizard
 layout: post
 ---
-What do [baby](https://pestpolicy.com/can-i-use-baby-shampoo-on-my-cat/) lizards eat?�What do lizards feed their young ones (also know as
+What do [baby](https://pestpolicy.com/can-i-use-baby-shampoo-on-my-cat/) lizards eat?What do lizards feed their young ones (also know as
 [hatchlings](https://nhm.org/stories/tis-season-baby-lizards)
 )? How do they do it and how long before they can go get their food?
 Well, this article piece is all about lizard baby food -just like noted that
 [garden lizard eats caterpillars, insects, small crickets, and some greens and fruits](https://pestpolicy.com/what-does-a-garden-lizard-eat/)
 .
-*But what do baby lizards eat?� *
-*Baby lizards eat what their parents eat. Yes, they eat insects, roaches, plants, or even both. The only difference is the food ratio. Baby lizards only eat baby portions. For example, if they are eating an insect, the insect should be smaller than them.�*
-*Baby lizards eat by themselves. Nobody mashes up the prey for them. Its like a natural instinct in their DNA. They get the prey or plant and eat it up. You should note that a baby lizard will eat what its line of species eats. The other element that forms a baby lizards diet is the kind of environment it dwells in.�*
+*But what do baby lizards eat? *
+*Baby lizards eat what their parents eat. Yes, they eat insects, roaches, plants, or even both. The only difference is the food ratio. Baby lizards only eat baby portions. For example, if they are eating an insect, the insect should be smaller than them.*
+*Baby lizards eat by themselves. Nobody mashes up the prey for them. Its like a natural instinct in their DNA. They get the prey or plant and eat it up. You should note that a baby lizard will eat what its line of species eats. The other element that forms a baby lizards diet is the kind of environment it dwells in.*
 
-*A lizard can be carnivorous, insectivorous, herbivorous, or omnivorous.� A carnivorous lizard will eat insects or even small rodents and worms. The herbivores are vegetarians while the omnivores are on a balanced diet of vegetation and meat. Well, a pet lizard does not have very many options as the wild one but you need to know what to feed them and their young ones so that their dietary requirements are met.�*
+*A lizard can be carnivorous, insectivorous, herbivorous, or omnivorous. A carnivorous lizard will eat insects or even small rodents and worms. The herbivores are vegetarians while the omnivores are on a balanced diet of vegetation and meat. Well, a pet lizard does not have very many options as the wild one but you need to know what to feed them and their young ones so that their dietary requirements are met.*
 ## What Do Baby Lizards Eat? 7 Lizard Diets - Food Portions
-A baby lizard eats what the adult lizard eats. The only difference is the portion. In short, you can call them miniature adults because they are independent of day one.� They will eat small portions or sizes of the following:
+A baby lizard eats what the adult lizard eats. The only difference is the portion. In short, you can call them miniature adults because they are independent of day one. They will eat small portions or sizes of the following:
 - Small worms
 - Small insects
 - Flies
@@ -38,11 +38,11 @@ You should also ensure that once they are done eating, the extra food or prey is
 At night you might notice that their bodies are buried inside the soil. Dont be alarmed, this is how they protect themselves. However, we also noted that
 [leopard geckos are crepuscular](https://pestpolicy.com/are-leopard-geckos-nocturnal/)
 .
-## **�How And What Do I Feed My Baby Lizard**
+## **How And What Do I Feed My Baby Lizard**
 Your baby lizard has been born in your pet enclosure; so naturally, they cannot go off hunting because they eat what you provide. First and foremost, you need to know the type of lizard you have. If it is a meat-eater, a plant-eater or it eats plants and meat.
 Once you have cleared this, the next thing to do is to go to a credible pet store. You will find food assorted according to size so that your hatchling does not choke while eating. Get enough food because their hunting skills are still at a novice level.
 A hatchling is born with all the digestive organs that they require to process an adult diet. If you have a baby lizard under your care you should not be afraid. They are not too young to handle live prey. You are taking care of their nutritional needs and you are also stimulating them mentally.
-Do not go away when the baby lizard is feeding. Monitor them and if there is any unfinished food or prey after twenty minutes then you should remove it.� This is to ensure the prey does not harm the hatchling and that there is no soiling in the cage from the prey.
+Do not go away when the baby lizard is feeding. Monitor them and if there is any unfinished food or prey after twenty minutes then you should remove it. This is to ensure the prey does not harm the hatchling and that there is no soiling in the cage from the prey.
 ## **What Does A Baby Lizard Drink**
 A lizard cage with plants, natural substrate, and water is a misting paradise for lizards. This ensures high humidity levels which is great for them. There are lizards that actually take in water via their skin instead of drinking.
 Just because the lizards do not consume water heavily does not mean that you leave the water dish in the cage for a day. Ensure that they have a fresh supply daily.
@@ -63,13 +63,13 @@ An insectivore baby lizard will eat small insects. Some of the common insect del
 So what is the difference between an insectivore lizard and one that is a carnivore? The difference is in the preference. The insectivore is restricted to insects while the carnivore devours flesh such as frogs, rodents, and other lizards.
 Related:
 Red-Eyed Crocodile Skink Care
-## **�What Does An Omnivorous Baby Lizard Eat**
+## **What Does An Omnivorous Baby Lizard Eat**
 Well, these lizards get to enjoy the best of both worlds. They enjoy their vegetables, fruits, and protein. You should note that even though they can eat whatever they like, they also have a preference. Examples of such lizards are:
 - Bluetongue skinks
 - Green iguanas
 - Bearded dragons
 ## **What Fruits And Greens Should I Give A Hatchling**
-The first rule is to ensure that you will be offering variety.� There are different fruits and greens lizards can enjoy.
+The first rule is to ensure that you will be offering variety. There are different fruits and greens lizards can enjoy.
 Variety ensures that the lizard has an option and that they are catered for nutritionally.
 Greens like dark green lettuce are great as for fruits, grapes are a favorite. To ensure that none of the fruits and vegetables have been sprayed with any pesticides or chemical fertilizers.
 **Fruits for your baby lizard**
@@ -96,13 +96,13 @@ Greens like dark green lettuce are great as for fruits, grapes are a favorite. T
 - Zucchini
 - Bell peppers
 - A mixture of frozen vegetables from your favorite grocery store
-Did you know that there are lizards that love eating flowers?� Yes, they love roses, hibiscus, and some other flower petals that tickle their fancy.
+Did you know that there are lizards that love eating flowers? Yes, they love roses, hibiscus, and some other flower petals that tickle their fancy.
 Whatever your lizard eats, ensure that you practice good hygiene. Wash the fruits, vegetables, or any other plant before feeding it to them.
 You can use mild soap for this purpose then rinse thoroughly. This is to ensure that your pet does not consume any chemical used to treat the food while it was being grown on the farm.
 Do note that some dark leafy greens contain oxalates meaning that they can inhibit the absorption of calcium into the lizards body.
 This could lead to them having the metabolic bone disease. You should, therefore, serve these greens in moderation.
 Feed them greens once daily. Ensure that you cut up the greens in manageable slices. The bowl should be shallow enough for them to see the food. Any uneaten food must be removed daily.
-Lettuce has no nutritional value but it helps with hydration.�Feed your lizard some seeds or pellets once a week.
+Lettuce has no nutritional value but it helps with hydration.Feed your lizard some seeds or pellets once a week.
 For baby lizards or lizards in captivity, you will need to add supplements to their food. You can dust their prey with some calcium dust or any other approved lizard multivitamin.
 ## **Are Ants A Favorite**
 There are many types of lizards that eat ants. In fact, desert lizards love them.

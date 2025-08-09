@@ -53,7 +53,7 @@ Browning grass is a symptom, not a cause, and pinpointing the exact reason often
 8.  **Thatch Buildup:**
     * **Appearance:** Grass looks dry or stressed despite watering. Brown areas may appear where grass is shallow-rooted in the thatch layer.
     * **Cause:** A thick layer of dead organic matter between grass blades and soil surface prevents water, air, and nutrients from reaching the roots.
-    * **Solution:** Dethatch if the layer is over � inch thick.
+    * **Solution:** Dethatch if the layer is over  inch thick.
 9.  **Improper Mowing:**
     * **Appearance:** Scalping (mowing too short) causes grass to turn yellow or brown, especially in uneven spots. Ragged cuts from dull blades cause browned tips.
     * **Cause:** Excessive stress on grass plants.

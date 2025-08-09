@@ -29,7 +29,7 @@ If your child is a beginner in the riding arena, this youth ATV for beginners wo
 
 Its one of the best gas-powered four-wheelers that would provide the thrill and excitement of traversing different terrains and hills.
 
-The kid will love the smooth-shifting abilities of the ATV.� It has automatic transmission processes that allow for smooth shifting during riding. The young rider will not need to worry about switching gears or using the clutch.
+The kid will love the smooth-shifting abilities of the ATV. It has automatic transmission processes that allow for smooth shifting during riding. The young rider will not need to worry about switching gears or using the clutch.
 
 Besides that, this youth's ATV comes with wireless remote control thats located at the handlebar. The parent can stop the car about 21 yards away. This feature enhances the safety of the young rider.
 
@@ -74,7 +74,7 @@ Another excellent 4 wheeler ATV from Razor that you can buy right away for your 
 
 Your child will fall in love with the excellent performance of the Quad 500. The ATV can reach crazy speeds, allowing the kids to have the time of their lifetime.
 
-More than that, �this wheeler features a �total of 36-volt batteries. Each of the batteries has 12 volts capacity. This battery capacity provides about 60 minutes of riding time.
+More than that, this wheeler features a total of 36-volt batteries. Each of the batteries has 12 volts capacity. This battery capacity provides about 60 minutes of riding time.
 
 The Quad has a maximum speed of 15 kilometers per hour. For children, this speed is high so its important that your child has previous experience in riding ATVs.
 

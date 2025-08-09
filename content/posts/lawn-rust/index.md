@@ -35,7 +35,7 @@ Lawn rust is a fungal disease caused by various species of the *Puccinia* genus.
 Lawn rust thrives under specific environmental conditions, often appearing in late summer or early fall, but can occur anytime during the growing season when conditions are right:
 
 * **Prolonged Leaf Wetness:** High humidity, frequent light rain, heavy dew, or overwatering (especially in the evening) keeps grass blades wet, providing the necessary moisture for spores to germinate.
-* **Moderate Temperatures:** Optimal temperatures for rust development are typically between 68-86�F (20-30�C) during the day and 60-70�F (15-21�C) at night.
+* **Moderate Temperatures:** Optimal temperatures for rust development are typically between 68-86F (20-30C) during the day and 60-70F (15-21C) at night.
 * **Slow-Growing Grass:** Lawns that are growing slowly due to nutrient deficiency (especially nitrogen), compaction, drought stress, or too frequent, short mowing are more susceptible.
 * **Shade:** Shaded areas where grass dries out slowly are more prone to rust.
 
@@ -78,7 +78,7 @@ Prevention is the most effective long-term strategy for managing lawn rust. By c
     * Prune overhanging tree branches or dense shrubs to increase sunlight penetration and air circulation to shaded areas of the lawn.
     * Ensure good air movement in general.
 5.  **Mow at the Correct Height:** Always mow at the highest recommended height for your grass type. This promotes healthy, resilient grass that can better withstand disease.
-6.  **Manage Thatch and Compaction:** Regularly aerate compacted areas and dethatch if your thatch layer exceeds � inch. These practices improve drainage, air circulation, and nutrient uptake, leading to a healthier turf less prone to disease.
+6.  **Manage Thatch and Compaction:** Regularly aerate compacted areas and dethatch if your thatch layer exceeds  inch. These practices improve drainage, air circulation, and nutrient uptake, leading to a healthier turf less prone to disease.
 7.  **Clean Equipment:** If you've mowed an infected lawn, clean your mower deck and blades before moving to a healthy area to avoid spreading spores.
 8.  **Avoid Excessive Stress:** Do not fertilize a stressed lawn (e.g., during drought or extreme heat). Address other potential stressors like insect infestations.
 

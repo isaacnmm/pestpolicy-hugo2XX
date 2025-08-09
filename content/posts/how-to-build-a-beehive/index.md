@@ -375,7 +375,7 @@ While the Langstroth hive dominates commercial and hobbyist beekeeping, several 
         * **Not Interchangeable:** Components are not standardized or interchangeable with Langstroth equipment.
 
 2.  **Warre Hive:**
-    * **Design:** A vertical, modular hive designed by Abb� �mile Warre, emphasizing a "people's hive" approach that mimics a hollow tree. It uses smaller, square-shaped boxes with top bars (no foundation) and focuses on minimal intervention. Bees build comb from the top down.
+    * **Design:** A vertical, modular hive designed by Abb mile Warre, emphasizing a "people's hive" approach that mimics a hollow tree. It uses smaller, square-shaped boxes with top bars (no foundation) and focuses on minimal intervention. Bees build comb from the top down.
     * **Pros:**
         * **Natural Beekeeping:** Very low intervention, promotes natural comb building and colony behavior.
         * **Good Insulation:** Often built with thicker walls for better insulation.

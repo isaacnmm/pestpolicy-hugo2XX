@@ -78,7 +78,7 @@ Cons:
 This is arguably one of the cheapest and most efficient lawn mower for clipping wet lawns. This Greenworks lawn mower cutting ability during wet conditions is facilitated by its wheels traction and highly efficient cutting blade.
 
 
-This mower is highly durable and features a 4 year limited manufacturer guarantee.�This units 14 cutting deck is light weight but highly versatile. Despite being equipped with a small 14 cutting deck, this units blades are sharp and highly responsive which ensures that no lumps of grass are left behind.
+This mower is highly durable and features a 4 year limited manufacturer guarantee.This units 14 cutting deck is light weight but highly versatile. Despite being equipped with a small 14 cutting deck, this units blades are sharp and highly responsive which ensures that no lumps of grass are left behind.
 The MO40B00 electric lawn mower features a single lever 5 adjustable height positions offering a cutting height range of 1 to 3 inches for the best clipping performance in all environments. Its 2 in 1 feature provides rear mulching and bagging functionality for multiple usage.
 Pros:
 - Its wheels have high traction making it suitable for mowing in wet conditions - review these[lawn mowers with mulcher](https://pestpolicy.com/best-lawn-mower-with-mulcher/).
@@ -156,7 +156,7 @@ A strongly rated mower helps is highly efficient at channeling more torque to th
 The sharpness of the mowers blade is an important consideration when cutting wet grass. A mower with a large number of blades and winged configuration are more preferable.
 This is an important consideration because the mower has to be moved about in damp conditions. The mower should be light enough to ensure ease of control. In this case, a battery powered mower is lighter in weight as compared to petrol powered units. Lawn mowers with collapsible handle designs are more preferable for ease of storage and portability.
 ### 5. Cost and Chute size
-Whereas ride on mower feature high price tags, there are smaller fairly priced models that offer exemplary performance.� It is important to consider the technical specifications of the available models before committing the purchase decision.
+Whereas ride on mower feature high price tags, there are smaller fairly priced models that offer exemplary performance. It is important to consider the technical specifications of the available models before committing the purchase decision.
 This is an important consideration when dealing with wet grass. Larger chutes prevent the clipped grass from clamping together.
 ## Conclusion
 In summary, the Zoom 42 series has emerged as the fastest and efficient mower given its large cutting deck. It also offers the fastest operating ride during damp conditions. Although this unit attracts a high price tag, it is highly popular among landscapers.

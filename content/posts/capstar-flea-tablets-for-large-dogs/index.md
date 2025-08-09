@@ -25,7 +25,7 @@ Luckily, Capstar is safe for use on so you can give a second dose to the dog if 
 Administering the Capstar flea trap tablets will require that you conceal the medication in the pet's food or drop it into the dog's mouth directly.
 - Inspect the dog thoroughly to ensure it has swallowed the flea tablet or re-administer the medication if you are not sure if it has swallowed.
 NB: Remember that the fleas can multiply and reproduce while on another pet in your household even when you flea-treated your dog.
-- So, it is good to adopt a comprehensive flea treatment approach for the house and on other pets. Related:[Capstar Flea Tablets�for Small Dogs](https://pestpolicy.com/capstar-flea-tablets-for-small-dogs/).
+- So, it is good to adopt a comprehensive flea treatment approach for the house and on other pets. Related:[Capstar Flea Tabletsfor Small Dogs](https://pestpolicy.com/capstar-flea-tablets-for-small-dogs/).
 ## Dosage and Reaction
 Capstar flea tablets must be administered separately to the dog or other pets.
 - For example, you must not administer Capstar tablets to any pet whose weight is below 2 pounds.

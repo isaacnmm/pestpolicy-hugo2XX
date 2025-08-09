@@ -36,7 +36,7 @@ Crabgrass (*Digitaria spp.*) is an **annual grassy weed**. This means that indiv
 
 Understanding this cycle is crucial for timing your control efforts:
 
-1.  **Germination (Spring/Early Summer):** Crabgrass seeds begin to germinate when soil temperatures consistently reach **55-60�F (13-15�C)** for several consecutive days, typically around the time when forsythia bushes bloom or lilacs are in full flower. This usually occurs after the last frost of winter, but before the peak heat of summer.
+1.  **Germination (Spring/Early Summer):** Crabgrass seeds begin to germinate when soil temperatures consistently reach **55-60F (13-15C)** for several consecutive days, typically around the time when forsythia bushes bloom or lilacs are in full flower. This usually occurs after the last frost of winter, but before the peak heat of summer.
 2.  **Growth (Summer):** Once germinated, crabgrass grows rapidly during the warm summer months, especially in areas with full sun and thin turf. It spreads quickly, outcompeting desirable grass for water, nutrients, and sunlight.
 3.  **Seed Production (Late Summer/Early Fall):** As summer progresses into early fall, mature crabgrass plants produce abundant seed heads. These seeds drop into the soil, replenishing the seed bank for the next year.
 4.  **Death (First Frost):** With the first hard frost of autumn, the individual crabgrass plants die, turning brown and shriveling. However, the legacy of their thousands of seeds remains, ready to sprout next spring.
@@ -64,7 +64,7 @@ For homeowners preferring an eco-friendlier approach, several natural methods ca
 
 4.  **Corn Gluten Meal (CGM):**
     * **Effectiveness:** Primarily a **pre-emergent** herbicide, meaning it prevents crabgrass seeds from germinating. It also acts as a natural fertilizer.
-    * **Method:** Apply in early spring *before* crabgrass germinates (when soil temps are consistently 55-60�F). Water lightly after application.
+    * **Method:** Apply in early spring *before* crabgrass germinates (when soil temps are consistently 55-60F). Water lightly after application.
     * **Considerations:** It does not kill existing crabgrass. Requires precise timing for effectiveness. Results may not be as immediate or complete as synthetic pre-emergents. Can also prevent other seeds (like new grass seed) from germinating, so avoid using if overseeding.
 
 5.  **Smothering/Solarization:**
@@ -82,7 +82,7 @@ For widespread or stubborn crabgrass infestations, chemical herbicides can offer
 
 * **Purpose:** These herbicides create a chemical barrier in the soil that prevents crabgrass seeds from germinating. They do not kill existing crabgrass.
 * **Key Ingredients:** Look for active ingredients such as prodiamine, dithiopyr, or pendimethalin.
-* **Timing is Crucial:** Apply in early spring *before* soil temperatures consistently reach 55-60�F (13-15�C) and *before* crabgrass seeds sprout. This is usually around the time forsythia blooms or lilacs are in full flower.
+* **Timing is Crucial:** Apply in early spring *before* soil temperatures consistently reach 55-60F (13-15C) and *before* crabgrass seeds sprout. This is usually around the time forsythia blooms or lilacs are in full flower.
 * **How to Apply:** Apply evenly across your lawn, typically in granular form using a spreader. Water immediately after application to activate the chemical barrier.
 * **Considerations:**
     * **Will Prevent All Seeds:** Do not apply pre-emergent if you plan to overseed or lay new grass seed, as it will also prevent your desirable grass seeds from germinating. Wait at least 2-4 months after application before seeding, depending on the product.
@@ -114,7 +114,7 @@ The most effective long-term strategy for crabgrass control is prevention. A hea
     * **Overseeding:** Regularly overseed thin areas of your lawn, especially in the fall for cool-season grasses. A dense turf leaves no room for crabgrass.
 
 2.  **Apply a Pre-Emergent Herbicide Annually:**
-    * Even with a healthy lawn, a pre-emergent herbicide is your best preventative measure against crabgrass. Apply it in early spring before soil temperatures consistently reach 55-60�F. This creates a barrier that stops seeds from sprouting.
+    * Even with a healthy lawn, a pre-emergent herbicide is your best preventative measure against crabgrass. Apply it in early spring before soil temperatures consistently reach 55-60F. This creates a barrier that stops seeds from sprouting.
 
 3.  **Address Bare Spots Promptly:**
     * Any bare patch in your lawn is an open invitation for crabgrass. Fill these areas by seeding, sodding, or plugging as quickly as possible. Prepare the soil, plant new grass, and nurture it to establish a dense cover.

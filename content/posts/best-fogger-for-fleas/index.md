@@ -117,8 +117,8 @@ hatching eggs
 - Kills a range of pests, including fleas, roaches, and ants
 - Won't stain or wet your fabric and furniture
 **Cons:**
-- Large�rooms may require a second application
-- Large�rooms may require a second application
+- Largerooms may require a second application
+- Largerooms may require a second application
 ## Conclusion
 Choosing the best fogger for fleas requires careful consideration of factors such as effectiveness, safety, and the duration of protection. Each of the products mentioned offers unique benefits, making them suitable for different situations.
 

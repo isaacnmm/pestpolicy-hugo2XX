@@ -15,9 +15,9 @@ layout: post
 ---
 [Oil](https://pestpolicy.com/how-to-thin-oil-based-paint-for-spray-gun/) stain removal can be problematic to many especially when it occurs on a painted surface. Cleaning the stained area without affecting the background color may not be easier.
 
-*Here's how to remove oil stains from wall paint; use Baking Soda, White vinegar, Ammonia, WD 40, or TSP (Trisodium Phosphate) (these products won't bleach or damage the painted surfaces).�*
+*Here's how to remove oil stains from wall paint; use Baking Soda, White vinegar, Ammonia, WD 40, or TSP (Trisodium Phosphate) (these products won't bleach or damage the painted surfaces).*
 *These compounds feature a unique chemical formula that breaks down the oil stains molecules (wet or dry paint) into a thick viscous fluid that is easier to clean. *
-*You will be able to eliminate oil stains from various surfaces/fabrics in a couple of minutes provided the right procedure, and precautions are taken into considerations.�*
+*You will be able to eliminate oil stains from various surfaces/fabrics in a couple of minutes provided the right procedure, and precautions are taken into considerations.*
 See Also:
 Paint Sprayer for Furniture
 ## Details: How to Remove Oil Stains From Wall Paint
@@ -58,7 +58,7 @@ Before carrying out the stain removal process, you need to adhere to some of the
 - Wear hand gloves when applying ammonium solution, Trisodium Phosphate, baking soda, and white vinegar  these oil stain remover irritates the skin on contact or causes a burning sensation. Though the effect may be mild, prolonged usage burns the melanin.
 - Store these products away from pets and children. When swallowed, they cause stomach upset, vomiting, burn, and may lead to death if not attended in 24 hours.
 - Dispose remained solution after cleaning oil stains  you can drain them in a sink or waste pit.
-The procedure of each of the above oil stain removers may vary slightly. However, there are basic steps that must be followed, �and which apply to either of them. These include:
+The procedure of each of the above oil stain removers may vary slightly. However, there are basic steps that must be followed, and which apply to either of them. These include:
 1. Blow dirt over the stained area to improve oil stain removers action time  avoid touching the stain or pre-wiping the stained area before application. Such actions lead to the spread of oil stains in other areas instead.
 2. Carry out the stained areas drop experiment to ascertain whether the compound you are about to use with work effectively without affecting the wall paint coating or primary surface material.
 3. Consider applying a large amount over dry stain than wet oil stain during application  allow quenching time too.
@@ -76,7 +76,7 @@ Avoid using undiluted dish soap or Shampoo as it may affect the surface material
 Sprayer for Latex Paint
 ### 2. Cornstarch
 Prepare a cornstarch paste in a bold. Spread the paste over the oil-stained area and leave it for 10 minutes to quench.
-Then clean to dryness using a wet cloth.�Do not scratch the cornstarch paste during removal.
+Then clean to dryness using a wet cloth.Do not scratch the cornstarch paste during removal.
 ### 3. Aloe Vera gel
 Prepare Aloe Vera extract in a mortar and squeeze through a sieve to form a thick viscous liquid. Dilute the extract with little water.
 Then, spread the Aloe Vera over the oil-stained surface and leave it for 5 minutes to cure. The clean the residue with clean water.

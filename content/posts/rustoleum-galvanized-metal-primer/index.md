@@ -15,8 +15,8 @@ tags:
 layout: post
 ---
 It is important to go for a primer that will be compatible with your paint and the surface if you want a professional look - and that's why I've reviewed the [Rustoleum](https://pestpolicy.com/rustoleum-rust-reformer-review/) Galvanized Metal Primer below.
-If you are a pro, you will clearly understand the challenges of painting non-primed galvanized metal.�After drying, the paint easily peels off when subjected to adverse weather and direct sunlight.
-*In brief: Rust-Oleum (e.g. Rust-Oleum 3202) removes rust easily by creating great�adhesion on galvanized surfaces and aluminum - it's also simple to clean using water + soap. But the surface must be prepared, cleaned - including spot-welded and unpainted sheet metal.�*
+If you are a pro, you will clearly understand the challenges of painting non-primed galvanized metal.After drying, the paint easily peels off when subjected to adverse weather and direct sunlight.
+*In brief: Rust-Oleum (e.g. Rust-Oleum 3202) removes rust easily by creating greatadhesion on galvanized surfaces and aluminum - it's also simple to clean using water + soap. But the surface must be prepared, cleaned - including spot-welded and unpainted sheet metal.*
 ## Details: Rustoleum Galvanized Metal Primer
 ### [1. Rust-Oleum Flat Aluminum Primer-8781502 - Corrosion-Resistant](https://www.amazon.com/dp/B000C018C2/?tag=p-policy-20)
 For the best Galvanized Metal Primer, the flat aluminum primer will be a great deal for you. W

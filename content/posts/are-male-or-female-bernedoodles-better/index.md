@@ -22,14 +22,14 @@ adorable pets
 It is natural to wonder if you made the right decision. Do not worry, as we have done extensive research on this matter to make things easier for you. Read on to find out more.
 
 
-## **Details: Are Male or Female Bernedoodles Better?�**
-Are male or female bernedoodles better?� Well, it depends. Size and personality are the main differentiating factors.
+## **Details: Are Male or Female Bernedoodles Better?**
+Are male or female bernedoodles better? Well, it depends. Size and personality are the main differentiating factors.
 - Male Bernedoodles are larger compared to their female counterparts. Consequently, everything about them has dialed up a notch.
 - The[characteristics of a Bernedoodle](https://welovedoodles.com/bernedoodle/)also differ based on their gender. Males tend to be more playful.
 If a Bernedoodle is actively running and jumping around, chances are it is a male. They also tend to be quite stubborn when it comes to training.
 On the other hand, females are much more docile. They are mild-mannered and take well to training sessions.
 Owners tend to get pets that reflect their personalities. So whichever Bernedoodle resonates with you the most should be your pick.
-**�**
+****
 Owning a pet is a big responsibility but a rewarding one. Naturally, you want to be prepared and provide the best home for your beloved Bernedoodle.
 We have already covered the basics but lets take a more analytical approach to raise both male and female Bernedoodles. If that sounds like a good idea to you, keep reading as we have some great ideas to share.
 It is important to keep in mind there is no major difference between male and female Bernedoodles. Everything we talk about below can be applied to both genders without much change.

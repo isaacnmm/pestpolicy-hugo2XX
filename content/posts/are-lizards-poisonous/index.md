@@ -18,9 +18,9 @@ House lizards eat a great deal of insects in the house and some are kept as pets
 [Lizards are vertebrates](https://pestpolicy.com/are-lizards-vertebrates-or-invertebrates/)
 .
 
-Lizards will bite you when they feel threatened.�But are lizards poisonous?
-**Short answer is NO. Most house lizards are not poisonous. But they have viruses and bacteria on their skin which can cause serious illness when consumed by humans.�**
-**Only the Blue-tailed [lizard](https://pestpolicy.com/are-lizards-vertebrates-or-invertebrates/) has poison on the skin. A few lizards are known to have venomous bites. These include the Mexican Bearded Lizards, Iguanas and the Gila.�**
+Lizards will bite you when they feel threatened.But are lizards poisonous?
+**Short answer is NO. Most house lizards are not poisonous. But they have viruses and bacteria on their skin which can cause serious illness when consumed by humans.**
+**Only the Blue-tailed [lizard](https://pestpolicy.com/are-lizards-vertebrates-or-invertebrates/) has poison on the skin. A few lizards are known to have venomous bites. These include the Mexican Bearded Lizards, Iguanas and the Gila.**
 
 ## **Are Lizards Poisonous?**
 **1. Lizards Bite for Defence **
@@ -37,7 +37,7 @@ Your only worry with lizards should be the pathogens on their skin such as
 [Salmonella](https://www.petmd.com/reptile/care/diseases-your-pet-reptile-can-give-you)
 . When you touch your pet lizard, you might ingest the harmful pathogens causing you fall sick.
 
-Lizards are attracted to food stuff especially milk. Thus when they touch your food or accidentally fall into milk, you might incur serious infections.�A few lizards like the blue-tailed lizard contain poison on their skin.
+Lizards are attracted to food stuff especially milk. Thus when they touch your food or accidentally fall into milk, you might incur serious infections.A few lizards like the blue-tailed lizard contain poison on their skin.
 ## Common Venomous Lizards
 **1. Gila Monster**
 Gila is an endangered lizard of northern Mexico and the south-western US. Its usually black in color with bright spots on various parts of the body. It has a notable stout body which is bulged at the head and tail.
@@ -64,8 +64,8 @@ Unlike most lizards, iguanas are vegetarians. However, they have sharp teeth whi
 [venom](https://en.wikipedia.org/wiki/Venom)
 is relatively mild compared to other venomous lizards.
 
-Although they dont attack easily, they can cause serious injuries on soft skin such as face, hands and legs.�But they are known to warn intruders before they strike. Watch out for iguanas when they take a deep breath, lower their dewlap or stand on their fours.
-**4. Monitor Lizard�**
+Although they dont attack easily, they can cause serious injuries on soft skin such as face, hands and legs.But they are known to warn intruders before they strike. Watch out for iguanas when they take a deep breath, lower their dewlap or stand on their fours.
+**4. Monitor Lizard**
 Last but not least is the
 monitor lizards
 . Commonly found in Australia, these lizards vary greatly in size (2/3 foot to 10 feet). They are not usually very aggressive to intruders and will tend to run away.
@@ -95,7 +95,7 @@ Also if you dont manage to remove the lizard, take the cat to the vet with the l
 Lizard venoms will inflict pain and cause serious reactions to your body. The intensity of the reactions will depend on species of lizard that bites you.
 
 Lizard venoms are however less serious compared to snake venoms and can be treated with minimal complications. Kids can be at risk of developing serious complications from lizard venoms.
-## **Do Lizards Carry Salmonella?�**
+## **Do Lizards Carry Salmonella?**
 Lizard bites can transfer pathogens such as
 [Salmonella](https://www.mayoclinic.org/diseases-conditions/salmonella/symptoms-causes/syc-20355329)
 .
@@ -103,14 +103,14 @@ Symptoms of lizard bites in humans include:
 - Pain and Convulsions
 - Decreases blood pressure
 - Blurred vision
-- Swelling and�Numbness
-- Diarrhea and�Shock
+- Swelling andNumbness
+- Diarrhea andShock
 - Difficulty in breathing
 In case of lizard bites, seek medical attention as soon as possible. Delayed medical attention can lead to complications or even death.
 ## How to Treat Lizard Bites
 When youre bitten by a lizard you might not immediately know whether its poisonous or not. So the first thing to do is to call poison expert to help in identification.
 
-If they cannot respond your call of distress with prompt, take a photo of the lizard and report to the nearest hospital.�If possible take the lizard with you. But you risk getting more bites which can worsen the condition.
+If they cannot respond your call of distress with prompt, take a photo of the lizard and report to the nearest hospital.If possible take the lizard with you. But you risk getting more bites which can worsen the condition.
 
 Waiting for symptoms to show might only make the condition worse. Treatments for poisonous and non-poisonous lizard bites include:
 **1. Treating Non-Poisonous Lizard Bites**
@@ -153,13 +153,13 @@ Therere only few venomous lizards on earth. Unlike the common house lizards, ven
 Whenever they bite, venomous lizards tend to cling on the victim while they release venom. The powerful jaws on their head makes it hard to detach.
 
 Its advisable not to try to pull the animal as this would leave broken teeth in the victims flesh and cause further tissue damage. Here is what to do.
-**Open the Jaws with a Prying Tool -�**
+**Open the Jaws with a Prying Tool -**
 A prying tool such as a pliers or butter knife can be used to force open the jaws, and safely dislodge the lizard from the victim.
-**Immerse the Lizard in Water -�**
+**Immerse the Lizard in Water -**
 Immersing the victims body together with the lizard in cold water is a safe way of detaching the animal. Some lizards are protected and so killing them is an offence.
-**Flame under the Chin -�**
+**Flame under the Chin -**
 Another method of getting the lizard from the victims flesh is to slightly apply a flame just below the chin.
-**Allow the Lizard to Stand On Its Feet -�**
+**Allow the Lizard to Stand On Its Feet -**
 If the lizard gets good grip on the ground, it may feel secure and release the grip. But this is not a quick method if you want to save the victim from subsequent venoms.
 ## **Final Word**
 Most lizards are non-venomous and will not readily bite you. Even the few venomous lizards bite when provoked or in defense when they feel threatened.

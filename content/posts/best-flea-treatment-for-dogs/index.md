@@ -85,7 +85,7 @@ NexGard starts killing fleas within 30 minutes and eliminates them before they c
 Related:
 [Dog flea shampoos](https://pestpolicy.com/best-flea-shampoo-for-dogs/)
 .
-### [**4.�**Advantage II for Dogs](https://www.amazon.com/dp/B00061MSGM/?tag=p-policy-20)
+### [**4.**Advantage II for Dogs](https://www.amazon.com/dp/B00061MSGM/?tag=p-policy-20)
 **Advantage II**
 **Advantage II**
 is a fast-acting, waterproof topical treatment that kills fleas through contact, meaning fleas don't have to bite your dog to be eliminated. It starts working within 12 hours and offers protection for a full month.

@@ -14,8 +14,8 @@ tags:
 layout: post
 ---
 If your deck is faded or bleached; then, refinishing is urgently required to restore its initial beauty.
-*On how to refinish a deck - select the material and tools required, pre-clean the surface, strip old paint, sand, wash, repair, and fill damaged sections before carrying out final polishing.�*
-*Besides, you need to select and prepare deck stain, re-stain the deck, select and prepare the finish paint, and apply the finish paint (using a paintbrush or a roller). For quality deck finish, you may consider sealing the final paint coat with Thompsons sealer.�*
+*On how to refinish a deck - select the material and tools required, pre-clean the surface, strip old paint, sand, wash, repair, and fill damaged sections before carrying out final polishing.*
+*Besides, you need to select and prepare deck stain, re-stain the deck, select and prepare the finish paint, and apply the finish paint (using a paintbrush or a roller). For quality deck finish, you may consider sealing the final paint coat with Thompsons sealer.*
 ## 
 ## How to Refinisha Deck
 *Remember; when painting, its advisable to wear protective gear and adhere to precautions highlighted in this article for your safety purpose. *
@@ -108,7 +108,7 @@ To carry out the deck paint sealing process, will need to follow the steps/proce
 - Wear protective gear for safety
 - Blow off dust particles and debris from the deck surface
 - Mop the surface and leave it to dry to touch
-### Step�2: Sealer preparation
+### Step2: Sealer preparation
 - Pour the sealer into the bucket
 - Thin the sealer appropriately if need be
 - Stir the sealer toattain uniform solvent

@@ -101,13 +101,13 @@ Physix Gear Socks are made using gradient compression to give you the stamina yo
 
 Physix Gear Socks are the best compression socks. They offer comfort as they are manufactured using breathable and anti-bacterial material to give your feet a relaxed and fresh feeling all day long. They'll heal circulatory conditions. Great for work, flights, pregnancy & running.
 Another fantastic feature that these compression socks have to offer is the ability to absorb excess moisture from your feet. Therefore, smelly feet and discomfort will be something of the past when you invest in Physix gear compression socks. Also, you can effortlessly wash the socks with the knowledge that they will not lose their size and shape.
-Perfect Fit: These socks provide excellent compression, hence; have an exceptional level of tightness which helps to enhance circulation, thereby preventing swelling.�For a more comfortable and perfect fit, the socks are designed with a support mechanism to keep your feet, legs, and ankles flexible and firm as you stand for those hours.
+Perfect Fit: These socks provide excellent compression, hence; have an exceptional level of tightness which helps to enhance circulation, thereby preventing swelling.For a more comfortable and perfect fit, the socks are designed with a support mechanism to keep your feet, legs, and ankles flexible and firm as you stand for those hours.
 Highly Responsive: These compression socks are quality meets comfort and are ideal for those who stand all day. Even after hours of wearing them, youll be very comfortable. The socks are durable and do not wear and tear quickly.
 Pros:
-- Highly durable and�Fits perfectly
+- Highly durable andFits perfectly
 - Comfort: The fabric used in the manufacture of these compressions socks is comfy and soft, with a low risk of either chaffing or uncomfortably rubbing your feet.
 - Also, the design prevents excess tightening around the ankles or calves, while holding the socks securely to prevent them from slipping off.
-- Comfortable and�Highly responsive
+- Comfortable andHighly responsive
 - Design: The wide calf design is specifically included to ensure your calf muscles are not compressed too tightly.
 - Also, the mouth of the socks is a bit wider but with enough elasticity to allow easy pull-on. Once youve worn them, the midweight compression offers support to your feet, calves, and ankles.
 
@@ -124,7 +124,7 @@ SB SOX Socks features a Compression technology that offers 20-30mmHg compression
 
 The heel and toe are well cushioned to offer needed comfort while standing all day.
 These compression socks are carefully designed to provide superior comfort, relief, and support without compromising the mobility of the wearer. The durability of the socks is guaranteed as all the socks from Physix are double stitched to enable them last longer, hence, giving you value for your money.
-Unique Features: (1)�Made of durable material to ensure they last longer and give you value for your money�(2)�Great socks for those who are required to stand all day because of the stability and support they offer.�(3)�Excellent midweight compression�(4)�Offers unmatched comfort�(5)�The elasticity is excellent allowing the socks to hold without slipping down.
+Unique Features: (1)Made of durable material to ensure they last longer and give you value for your money(2)Great socks for those who are required to stand all day because of the stability and support they offer.(3)Excellent midweight compression(4)Offers unmatched comfort(5)The elasticity is excellent allowing the socks to hold without slipping down.
 Highly Durable: SB Compression Socks are one of the most durable compression socks you may want to try. They are made of premium fabric that makes them comfortable and soft. Also, the toe and heel cushioning, non-stretch band, and flat seams increase the product life of these socks.
 Excellent Support And Cushioning: The socks offer excellent arch support and cushioning helping to lower joint and muscle impact you are likely to experience while standing the whole day.
 Comfort: These socks are designed using layers of elastic to give a more consistent compression on the ankle, feet, and legs. Youre assured of comfort and support even after wearing the socks the whole day. The compression is not very tight, allowing blood circulation to your feet.
@@ -133,7 +133,7 @@ Pros:
 - Features lightweight breathable materials to give you comfort. It also features anti-static and anti-odor material.
 - Ideal for both men and women
 - Provides graduated compression throughout your shins, feet, and calves to improve blood circulation, muscle, and joint stability.
-- Thus, you get the stamina to withstand longer standing periods.�Offers excellent cushioning
+- Thus, you get the stamina to withstand longer standing periods.Offers excellent cushioning
 - Improves stability of joints and breathability
 - Graduated compression and highly durable fabric
 
@@ -147,7 +147,7 @@ Tennis Shoes for Standing on Concrete All Day
 Who wants to be caught wearing uncomfortable socks all day? Certainly not me! Am sure you hold the same sentiment. When buying compression socks comfort should be your number one priority.
 Choose those that are well ventilated, cushioned, and offer support to your feet. Look for the following when buying compression socks.
 ### 2. Compression:
-Compression is the second thing you need to check.�Choose socks that offer more compression. Good compression prevents your legs and feet from swelling. They also support the veins, while giving you all the endurance you need to stand all day.
+Compression is the second thing you need to check.Choose socks that offer more compression. Good compression prevents your legs and feet from swelling. They also support the veins, while giving you all the endurance you need to stand all day.
 Compression socks can also prevent your legs from becoming tired and achy as a result of standing the whole day.
 ### 3. Style:
 Compression socks come in different styles and designs. They include; Knee-High Socks, Sleeves, and Thigh-High Socks. Choose a style that will make you comfortable.
@@ -161,4 +161,4 @@ best compression socks for standing all day
 . Each of the reviewed products meets the highest standards of durability, quality, and stability.
 They are well-cushioned, comfortable, and offer the necessary support.
 Go through each sock review and choose those that you feel are ideal for you.
-We promise you to value all the reviewed socks.�However, if you have any medical condition, get recommendations from your doctor before buying the compression socks.
+We promise you to value all the reviewed socks.However, if you have any medical condition, get recommendations from your doctor before buying the compression socks.

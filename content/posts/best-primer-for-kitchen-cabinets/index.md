@@ -79,7 +79,7 @@ This makes it a perfect stain for vintage cabinets' preparation before applicati
 You can use KILZ Restoration to tickle tough stains and save yourself the unnecessary cost of sanding your cabinets. Moreover, you can get the primer in one and 5-gallon cans, of which one gallon covers about 300-400 square ft.
 In case you intend to do a quick paint, this primer has a quick-drying feature that enables you to cover your work fast on
 plastic
-,�plaster, metal, and wooden kitchen cabinets.
+,plaster, metal, and wooden kitchen cabinets.
 However, to achieve excellent results, this primer should be applied as fast as possible. You can apply this primer either by use of a roller brush or an
 airless sprayer
 .

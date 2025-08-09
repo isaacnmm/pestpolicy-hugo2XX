@@ -38,7 +38,7 @@ You can control Cockroaches for up to 12 months with one can of Ortho. This prod
 Ortho home defense pray is ready to use for both indoors and outdoors cockroach killing. It can also inhibit bug infestations.
 Ortho spray is able to eliminate more than 130 insect species, among them include spiders, ants, fleas, millipedes, earwigs, house centipedes, and Home invading bugs.
 This product is easier to use and apply. You simply press the spray button and aim to the intrusion of cockroaches  the instant poisonous spray will kill available roaches and repel any future infestation.
-Ortho home defense is very affordable.�For indoor use, spray in the bathroom - floor & walls, crevices, kitchen cabinets, decks, windows, doors, and basement.
+Ortho home defense is very affordable.For indoor use, spray in the bathroom - floor & walls, crevices, kitchen cabinets, decks, windows, doors, and basement.
 Ortho is re-usable and long-lasting. You will not need to bend, pump, or cause hand fatigue during application.
 Pros:
 - Long-lasting  12 months use.
@@ -93,7 +93,7 @@ Wondercide is a naturally derived alternative to a chemical product suitable for
 
 
 This product is best for indoor cockroach treatment. It repels and kills crawling, flying, and stinging insects such as cockroaches, spiders, wasps, flies, mosquitoes, and moths on contact. It can also kill carpet beetles, palmetto, water bugs, scorpions, and ticks.
-Wondercide is quick-acting. It will kill the entire lifecycle of cockroaches in a couple of minutes.�This spray is safe for humans and pets. It will not cause skin irritation or discomfort on contact.
+Wondercide is quick-acting. It will kill the entire lifecycle of cockroaches in a couple of minutes.This spray is safe for humans and pets. It will not cause skin irritation or discomfort on contact.
 It has four credible scents assorted from cedar, rosemary, peppermint, and lemongrass. These altogether leave behind aromatherapeutic fragrances in your room during the auction.
 Wondercide is best when used on carpet, furniture, floor, cracks, and bedding. It eliminates eggs, larvae, and adult cockroaches completely.
 It is efficient to use Wondercide. A 32 Oz bottle can treat up to 400 square feet  this saves on monies (economic).

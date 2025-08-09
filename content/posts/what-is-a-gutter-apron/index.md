@@ -53,7 +53,7 @@ Several reputable manufacturers produce high-quality gutter aprons and related r
 
 2.  **Quality Edge:**
     * **Overview:** Quality Edge is a leading manufacturer of metal building products, including extensive lines of siding, soffit, fascia, and rainware. They emphasize high-quality finishes and innovative designs.
-    * **Gutter Apron Offering:** Quality Edge offers "Gutter Apron" products typically in aluminum or steel, with various color options to match common siding and gutter colors. Their products often feature durable finishes like Q800 TuffTech� or Kynar�, designed for longevity and weather resistance. They also produce different drip edge styles that can serve similar functions, ensuring water is directed into the gutter.
+    * **Gutter Apron Offering:** Quality Edge offers "Gutter Apron" products typically in aluminum or steel, with various color options to match common siding and gutter colors. Their products often feature durable finishes like Q800 TuffTech or Kynar, designed for longevity and weather resistance. They also produce different drip edge styles that can serve similar functions, ensuring water is directed into the gutter.
     * **Why they're a top choice:** Focus on durable finishes, wide color palette, and comprehensive metal exterior product lines.
 
 3.  **Klauer Manufacturing:**

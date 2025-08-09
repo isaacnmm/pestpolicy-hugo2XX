@@ -16,8 +16,8 @@ layout: post
 ---
 So, are soundbars worth it? Well, soundbars are touted as an easy method to upgrade your TV's audio quality. Compared to home theaters, soundbars are cheap, less complex, and takes less space - they're minimal and sleek.
 - *So, are soundbars worth it? In short, YES, soundbars are worth it. Soundbars have an easy installation process, are stylish, (fewer wires, cords, buttons, & speakers), plus they're affordable. *
-- *Also, soundbars have better sound quality than built-in TV speakers and are compatible with the latest sound technologies including smart-home devices.�*
-*A [soundbar](https://pestpolicy.com/2-1-vs-5-1-soundbar/) will have 2+ speakers (surround or stereo) in its long cabinet - some soundbars may have a wireless speakers - check these check soundbars.�*
+- *Also, soundbars have better sound quality than built-in TV speakers and are compatible with the latest sound technologies including smart-home devices.*
+*A [soundbar](https://pestpolicy.com/2-1-vs-5-1-soundbar/) will have 2+ speakers (surround or stereo) in its long cabinet - some soundbars may have a wireless speakers - check these check soundbars.*
 
 ## Are Soundbars Worth It? - 7 Key Tips
 Quality soundbars are excellent to get high-quality audio from your TV. Despite that most soundbars won't sound better than separate speakers (for music), they're superior to built-in TV speakers.
@@ -46,7 +46,7 @@ Regardless if you need a 7.1, 5.1, 2.1 or such setup - the soundbars will come a
 ### 3. Soundbars have Minimalist and Sleek Design
 To match your chic modern decor, soundbars have a minimalist and stylish design that you'll love. Further, with their wireless subwoofer, you'll have even fewer wires that will be crossing around your spaces and rooms.
 Therefore, the soundbar design will match your TV's slim aesthetic - which also providing quality audio that'll go well with the excellent TV visuals for watching different films and TV shows with a great experience.
-The soundbar will sit flush with your cinema set-up or against the wall� - which is great for little spaces or small homes - thanks to their minimal and sleek design which is pleasing both to the ear and to your eyes. You can wall-mount the soundbar on the side, above, or in front of the TV screen.
+The soundbar will sit flush with your cinema set-up or against the wall - which is great for little spaces or small homes - thanks to their minimal and sleek design which is pleasing both to the ear and to your eyes. You can wall-mount the soundbar on the side, above, or in front of the TV screen.
 Your traditional surround audio systems have bulky ugly looking components despite giving excellent sound quality. But we hate the disorganization, including the large wiring and equipment particularly if these ones aren't in your main living area.
 Therefore, with a good-quality soundbar, you can get great sound while also keeping your rooms and spaces tidy and neat - call it compact and stylish.
 For example, the system acts like the receiver while also holding all your front speakers - that's a minus 3 of the large components in your traditional surround audio systems. Notably, wireless connectivity allows you to place the surrounds and sub(s) at your selected location without needing wires.

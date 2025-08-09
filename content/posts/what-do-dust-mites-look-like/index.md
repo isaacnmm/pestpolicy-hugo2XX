@@ -18,7 +18,7 @@ Homeowners
 [confuse [dust](https://pestpolicy.com/do-dust-mites-bite/) mites and bed bugs](https://pestpolicy.com/bed-bugs-vs-mites/)
 . If you suspect you are having mites infestation and cant tell what exactly they are, well, this is the right place for you.
 - **So, what do dust mites look like? - Dust mites are microscopic creatures and very hard to see with our bare eyes. They commonly feed on dead human and animal skin cells.**
-- **From a microscopic view, they are tiny oval-shaped insects. They have 8 legs and they do not have wings. They are greyish-black in color with some stripes and they move from one place to another through crawling.�**
+- **From a microscopic view, they are tiny oval-shaped insects. They have 8 legs and they do not have wings. They are greyish-black in color with some stripes and they move from one place to another through crawling.**
 Dust mites cannot be categorized as parasites because they dont sting, or bite and neither do they burrow into the human body.
 
 ## Details: What Do Dust Mites Look Like?
@@ -80,8 +80,8 @@ If you are able to establish that indeed you have the dust mites, you can employ
 However, it is almost impossible to tell the extent of their infestation in your home.
 - Dust mites have a very short life span and it is possible that they have multiplied into millions before you can start seeing the signs.
 - There are various pesticides that a formulated to kill them either by contact or through the systemic mode of action.
-I recommend the use of this pesticide to help reduce their population.� These pest control products are available in most stores.
+I recommend the use of this pesticide to help reduce their population. These pest control products are available in most stores.
 ## Conclusion
 What do dust mites look like? Well, it is hard to see these mites with your eyes but can also tell about their existence through the symptoms caused on your bodies.
 - They dont bite, or sting but can cause allergic reactions like asthma and others.
-That said and done, it� is good to regularly clean your room and apply all the necessary measures to keep off this dust mites.
+That said and done, it is good to regularly clean your room and apply all the necessary measures to keep off this dust mites.

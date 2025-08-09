@@ -19,7 +19,7 @@ surfaces can be cumbersome, especially when the wrong procedure is followed. Per
 
 *Summary: Here's how to remove paint from concrete - using a paint stripper, absorbent stripper method, trisodium phosphate, or soda blasting method such as on the driveway. In each of the following methods, you need to adhere to the correct steps and precautions to attain the best quality finish.*
 *The decision of which paint removal method to use should be determined by the type of paint under a removal (is it acrylic or latex paint?). Besides, surface cleaning should be done sufficiently before any paint removal process begins to eliminate dust and debris.*
-*Notably, the extent of surface area under paint removal is a factor that you shouldnt overlook as critical to cost implication. To acquire a more in-depth insight, let us get into the details.�*
+*Notably, the extent of surface area under paint removal is a factor that you shouldnt overlook as critical to cost implication. To acquire a more in-depth insight, let us get into the details.*
 > See Also:
 > How to Concrete Sealer with Muriatic Acid
 ## Details: How to Remove Paint from Concrete
@@ -80,7 +80,7 @@ The soda blasting method is suitable for commercial paint removal from concrete 
 concrete grinders
 .
 The technique guarantees excellent paint removal and protects the concrete surface from destruction.
-However, this method is slightly expensive as compared to other alternatives.�The soda Blasting method can be used to remove both oil-based and water-based paint.
+However, this method is slightly expensive as compared to other alternatives.The soda Blasting method can be used to remove both oil-based and water-based paint.
 **Items Required**
 - [Blasting unit/machine](https://www.amazon.com/dp/B01JUZN6WY/?tag=p-policy-20) pot blast
 - Industrial sodium bicarbonate  baking soda

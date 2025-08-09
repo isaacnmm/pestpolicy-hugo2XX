@@ -24,7 +24,7 @@ Timing is a critical factor for successful St. Augustine grass establishment. As
 
 The best time to plant St. Augustine grass, whether using sod, plugs, or sprigs, is during its **active growing season**, which is typically **late spring through early summer**.
 
-* **Ideal Temperature Range:** Soil temperatures should consistently be above 65�F (18�C), and ideally between 70-90�F (21-32�C). This usually corresponds to air temperatures reliably above 80�F (27�C).
+* **Ideal Temperature Range:** Soil temperatures should consistently be above 65F (18C), and ideally between 70-90F (21-32C). This usually corresponds to air temperatures reliably above 80F (27C).
 * **Why this timing?**
     * **Rapid Rooting and Spreading:** Warm soil temperatures promote quick root development, allowing the grass to establish itself efficiently and begin spreading via its stolons (above-ground runners).
     * **Reduced Stress:** Planting during its peak growth period minimizes transplant shock and allows the grass to quickly overcome any initial stress.
@@ -156,7 +156,7 @@ Once your St. Augustine grass is planted, ongoing maintenance is crucial for suc
     * **Established Lawn:** Water deeply and infrequently. Aim for 1 inch of water per week (from rain or irrigation), applied in one or two sessions, to encourage deep root systems and drought tolerance. Water early in the morning to reduce disease risk.
 
 2.  **Mowing:**
-    * **Delay First Mow:** Do not mow newly laid sod until it has firmly rooted (test by gently tugging on a corner � if it resists, it's ready). For plugs and sprigs, wait until they have significantly spread and grown. This usually takes 2-3 weeks for sod, longer for others.
+    * **Delay First Mow:** Do not mow newly laid sod until it has firmly rooted (test by gently tugging on a corner  if it resists, it's ready). For plugs and sprigs, wait until they have significantly spread and grown. This usually takes 2-3 weeks for sod, longer for others.
     * **Mow High:** St. Augustine grass performs best when mowed at a height of **2.5 to 4 inches**. Mowing too short stresses the grass, especially in hot weather, and encourages weed growth.
     * **"One-Third Rule":** Never remove more than one-third of the blade height in a single mowing. If the grass is tall, mow more frequently or raise the deck.
     * **Sharp Blades:** Always use a mower with sharp blades to ensure a clean cut, which promotes healthier growth and reduces disease susceptibility.

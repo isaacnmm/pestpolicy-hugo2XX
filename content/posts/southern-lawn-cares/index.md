@@ -14,7 +14,7 @@ tags:
 - lawn
 layout: post
 ---
-The [Southern](https://pestpolicy.com/southern-lawn-care/) United States, characterized by its long, hot summers and mild winters, is home to distinct types of grasses known as "warm season grasses." Unlike their cool-season counterparts found further North, these grasses thrive in temperatures between 80�F and 95�F, and go dormant, turning brown, when temperatures consistently fall below 50-55�F. Understanding the unique needs of these turf varieties is crucial for cultivating a lush, resilient [lawn](https://pestpolicy.com/10-essential-lawn-and-garden-tools-for-fall/) year-round.
+The [Southern](https://pestpolicy.com/southern-lawn-care/) United States, characterized by its long, hot summers and mild winters, is home to distinct types of grasses known as "warm season grasses." Unlike their cool-season counterparts found further North, these grasses thrive in temperatures between 80F and 95F, and go dormant, turning brown, when temperatures consistently fall below 50-55F. Understanding the unique needs of these turf varieties is crucial for cultivating a lush, resilient [lawn](https://pestpolicy.com/10-essential-lawn-and-garden-tools-for-fall/) year-round.
 
 This guide will walk you through the essential care practices for Southern lawns, focusing on the specific needs of warm-season grasses across each season. We'll cover everything from proper watering and fertilization to weed and pest control, ensuring your lawn remains a vibrant green backdrop for your home.
 
@@ -36,8 +36,8 @@ Spring is a critical time for Southern lawns, as warm-season grasses begin to em
 
 * **Scalping & Cleanup (Late Winter/Early Spring - February/March):** As soon as the threat of frost has passed and your lawn begins to show signs of greening, *scalp* your lawn. This involves mowing at the lowest setting possible (without damaging the crown of the plant) to remove dead winter growth. Bag the clippings. This helps the soil warm up faster and encourages new green growth. Clear away any remaining leaves or debris.
 * **Soil Testing (Early Spring):** Conduct a soil test every 2-3 years. This provides valuable insights into your soil's pH and nutrient levels, guiding your fertilization strategy.
-* **Weed Control (Early Spring):** Apply a **pre-emergent herbicide** when soil temperatures consistently reach 50-55�F (typically late February to early March, but timing is critical for crabgrass prevention). This creates a barrier that prevents weed seeds from germinating. Spot treat any existing broadleaf weeds as needed.
-* **Fertilization (Late Spring - April/May):** Wait until your warm-season grass is fully greened up and actively growing (usually when temperatures are consistently above 65�F at night) before applying your first round of nitrogen fertilizer. This avoids feeding winter weeds or pushing growth too early when the grass is still waking up. Follow soil test recommendations for N-P-K ratios.
+* **Weed Control (Early Spring):** Apply a **pre-emergent herbicide** when soil temperatures consistently reach 50-55F (typically late February to early March, but timing is critical for crabgrass prevention). This creates a barrier that prevents weed seeds from germinating. Spot treat any existing broadleaf weeds as needed.
+* **Fertilization (Late Spring - April/May):** Wait until your warm-season grass is fully greened up and actively growing (usually when temperatures are consistently above 65F at night) before applying your first round of nitrogen fertilizer. This avoids feeding winter weeds or pushing growth too early when the grass is still waking up. Follow soil test recommendations for N-P-K ratios.
 * **Aeration & Dethatching (Late Spring/Early Summer - April/June):** Warm-season grasses are best aerated and dethatched during their active growth period. This typically means late spring to early summer. Aeration relieves soil compaction, allowing water, nutrients, and air to reach the roots. Dethatching removes excessive thatch buildup that can harbor pests and diseases.
 * **Mowing:** As growth begins, gradually raise your mowing height to the recommended level for your specific grass type. Mow frequently enough to remove no more than one-third of the blade height at a time. Leave clippings on the lawn if they are small, as they return nutrients to the soil.
 
@@ -95,7 +95,7 @@ TruGreen's ability to combine scientific expertise with localized knowledge and 
 ## FAQs About Caring For a Southern Lawn
 
 **Q: When should I first fertilize my warm-season grass in the spring?**
-A: Wait until your warm-season grass is fully greened up and actively growing, usually when nighttime temperatures are consistently above 65�F. Fertilizing too early (when dormant or just starting to green) can feed weeds or stress the grass.
+A: Wait until your warm-season grass is fully greened up and actively growing, usually when nighttime temperatures are consistently above 65F. Fertilizing too early (when dormant or just starting to green) can feed weeds or stress the grass.
 
 **Q: How often should I water my Southern lawn in the summer?**
 A: Aim for deep and infrequent watering, providing about 1 inch of water per week, either from rainfall or irrigation. Water once or twice a week, deeply, rather than frequent shallow watering, to encourage deep root growth. Early morning is the best time to water.
@@ -104,7 +104,7 @@ A: Aim for deep and infrequent watering, providing about 1 inch of water per wee
 A: Yes, you can overseed Bermudagrass (and some Zoysia lawns) with a cool-season grass like annual ryegrass in the fall (late September/October) to maintain green color through the winter. The ryegrass will die off as the warm-season grass greens up in spring.
 
 **Q: What's the best way to deal with crabgrass in a Southern lawn?**
-A: Prevention is key. Apply a pre-emergent herbicide in early spring when soil temperatures consistently reach 50-55�F. For any crabgrass that emerges, spot treat with a post-emergent herbicide labeled for your specific grass type and for crabgrass.
+A: Prevention is key. Apply a pre-emergent herbicide in early spring when soil temperatures consistently reach 50-55F. For any crabgrass that emerges, spot treat with a post-emergent herbicide labeled for your specific grass type and for crabgrass.
 
 **Q: How low should I mow warm-season grasses?**
 A: Mowing height varies by grass type, but typically ranges from 1-3 inches during the active growing season. St. Augustinegrass often prefers 2.5-3 inches, while Bermudagrass can be mowed lower (1-2 inches). Avoid removing more than one-third of the blade length at a time. Raise the mowing height slightly during periods of extreme heat or drought stress.

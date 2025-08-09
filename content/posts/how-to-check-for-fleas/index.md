@@ -14,7 +14,7 @@ tags:
 - picture
 layout: post
 ---
-Below I've outlined�how to check for fleas.�Sadly, this thought triggers an
+Below I've outlinedhow to check for fleas.Sadly, this thought triggers an
 itching feeling in me
 : does my dog have fleas? Or is it just unfounded fear?
 Since I acquired my dog pet: my fluffy king, I have had numerous challenges. Some of them include feed selection,
@@ -26,10 +26,10 @@ running on my pet. I tried numerous flea treatments, but the fleas always came b
 
 ## How to Check for Fleas? 7 Steps (with Pictures)
 To check for dog fleas on your pet, you will require the following tools; a
-flea�comb
+fleacomb
 ,
 soaped water
-, and a white kitchen�paper.
+, and a white kitchenpaper.
 ### **Step #1: Conduct a visual check on your dog**
 Despite that flea are small in body size, it is possible to catch a bug's glimpse
 when jumping
@@ -46,13 +46,13 @@ flea comb
 through the dogs fur or coat.
 Ensure to put
 adequate pressure on the flea comb
-to touch the dogs skin smoothly. Check if the flea comb has picked some adult fleas or flea�dirt�(flea droppings or fleas).�Drown any fleas that you catch using soapy water.
+to touch the dogs skin smoothly. Check if the flea comb has picked some adult fleas or fleadirt(flea droppings or fleas).Drown any fleas that you catch using soapy water.
 Flea droppings are mainly comma-shaped, and when placed on the wet kitchen paper, they leave a red ring, signifying blood from the flea.
-**But First:�**
+**But First:**
 **Video Courtesy of**
-**�Banfield Pet Hospital**
+**Banfield Pet Hospital**
 https://youtu.be/-VWr1UhTFw0
-**Next, some details on the flea life cycle �**
+**Next, some details on the flea life cycle **
 This will help you understand why fleas have always come back and how you can wittingly get ahead of the coming fleas generation.
 **The flea life cycle is divided into four stages:**
 **- Eggs:**
@@ -83,11 +83,11 @@ Dog fleas are small brown insects that attack dogs and cats, and other animals.
 - Despite being small in body size, dog fleas can be seen using naked eyes. Also,fleas jump and hop from one hostto another with their strong legs.
 - Therefore, I must have been getting it wrong as the flea treatments only provided short-lived solutions.
 - Over the years, I have learned the need to have the right information about fleas'signs and symptomson my dog and the useful products for controlling the bugs.
-- **Surely:�**You would like to learn from my experience; rather than yours! I have learned how to manage my cat and the pest that affects it the hard way.
+- **Surely:**You would like to learn from my experience; rather than yours! I have learned how to manage my cat and the pest that affects it the hard way.
 - Therefore, read on to learn the various signs, symptoms,recommended treatments, and safety precautions to take while considering fleas on your dog.
-**So, how do you free your dog from fleas?�**
+**So, how do you free your dog from fleas?**
 After a careful analysis of expert veterinary information combined with the vast experience with dealing with my dogs, in this guide,
-**I will aim to answer the following questions:�**
+**I will aim to answer the following questions:**
 # Why do fleas keep coming back?
 Fleas thrive excellently in warm summer months and wet spring months but may appear at any time. However, after the flea appears in your residence, getting rid of them will be a daunting task.
 While you start on the journey to fight fleas in your residence and on your dog, fleas have a particular advantage that makes them very hardy. Here the particular flea advantages:
@@ -154,9 +154,9 @@ life stages
 Fipronil is a slow-acting poison and a broad-spectrum insecticide that disturbs the fleas central nervous system. The fipronil and s-methoprene ingredients are deposited in the dogs sebaceous glands and are regularly sprayed in the dogs coat.
 Frontline Plus offers protection for your dog against fleas for 30 days. Also, the product is labeled and is actually safe for nursing and pregnant dogs.
 However, it is critical to follow all the label instructions for maximum safety. Also, consider the age of the dog while purchasing the product.
-**Note:�**
+**Note:**
 In case of overdosing the Frontline Plus on your dog, call the veterinarian without delay.
-### **2. Adams Plus Shampoo with Precor �**
+### **2. Adams Plus Shampoo with Precor **
 How about you bathe your dog with a
 shampoo that will leave the fleas
 dead, your dog clean and shining? Adams Plus Shampoo will effectively
@@ -189,7 +189,7 @@ drop the fleas
 being or animal to reach your indoor dog.
 If there are some critters in your house, then they can carry fleas to the indoor dog. Despite that you may not set eyes on the mice, they could drop the fleas and their eggs in the house. The eggs would hatch and attach themselves to another host, the indoor cat or dog.
 Also, since fleas love warm atmospheres, they will jump on your clothes when you walk around your yard and drop into the house to attack your dog.
-**Therefore:�**
+**Therefore:**
 [thrive_text_block color="note" headline="] Despite that your dog is always indoors, they can get fleas through various methods that include the fleas jumping into their kernel or being carried by a host to the house. Some of the hosts could include mice, wild cats, and human beings. [/thrive_text_block]
 It is important to install various flea prevention methods to safeguard your dog from flea infestation. Treat your indoor dog and cat as often as you would treat any pet roaming around your yard.
 ## Safety Precautions for Handling Flea Control Products

@@ -22,7 +22,7 @@ termite fumigation
 and using the
 best termite killers
 .
-*In summary, termite prevention starts by reducing the wood-to-soil contract around the structures, remove the cardboard, paper, mulch, plants, wood, or lumber near the structure's foundation. Also, build a 4-inch termite barrier between your house and the mulch.�*
+*In summary, termite prevention starts by reducing the wood-to-soil contract around the structures, remove the cardboard, paper, mulch, plants, wood, or lumber near the structure's foundation. Also, build a 4-inch termite barrier between your house and the mulch.*
 
 ## 4 Indoor Termite Prevention Tips
 ### 1. Seal Windows and Doors Tightly

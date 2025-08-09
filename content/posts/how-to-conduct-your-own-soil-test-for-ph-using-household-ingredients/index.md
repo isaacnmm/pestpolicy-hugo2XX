@@ -47,20 +47,20 @@ The accuracy of your homemade test, limited as it is, still depends on getting a
 1.  **Gather Tools:** You'll need a clean trowel or spade, a clean bucket, and several small, clean containers (like plastic cups or jars) for the individual tests.
 2.  **Take Multiple Samples:** Do not just scoop soil from the surface or one spot. For a general idea of your yard's pH, take small scoops of soil from 5-10 different locations across your lawn, garden beds, or planting areas. Dig down about 4-6 inches (10-15 cm) to get below the very surface. Avoid areas near house foundations or large trees, as these can have skewed pH levels.
 3.  **Mix Thoroughly:** Place all the collected soil samples into your clean bucket. Break up any large clumps and remove any grass, rocks, or organic debris. Mix the soil thoroughly to create a composite, representative sample.
-4.  **Divide Sample:** Divide the mixed soil into two separate, equal portions in your clean cups or jars � one for the vinegar test and one for the baking soda test. You'll need about � cup (120 ml) of soil for each test.
+4.  **Divide Sample:** Divide the mixed soil into two separate, equal portions in your clean cups or jars  one for the vinegar test and one for the baking soda test. You'll need about  cup (120 ml) of soil for each test.
 
 ### The Vinegar Test (for alkaline soil)
 
 This test is designed to detect if your soil is alkaline (basic). Vinegar is an acid, and if your soil is alkaline, a chemical reaction will occur, producing carbon dioxide gas, which you'll see as fizzing.
 
 **Materials:**
-* Soil sample (about � cup)
-* � cup distilled white vinegar (5% acetic acid)
+* Soil sample (about  cup)
+*  cup distilled white vinegar (5% acetic acid)
 * Clean cup or jar
 
 **Steps:**
-1.  Place the � cup of soil into a clean cup or jar.
-2.  Slowly pour about � cup of distilled white vinegar over the soil sample.
+1.  Place the  cup of soil into a clean cup or jar.
+2.  Slowly pour about  cup of distilled white vinegar over the soil sample.
 3.  **Observe for Fizzing:** Watch closely for any fizzing, bubbling, or effervescence.
     * **Strong Fizzing:** Indicates your soil is alkaline, likely with a pH of 7.5 or higher. The stronger the fizz, the more alkaline your soil.
     * **Slight Fizzing:** Suggests your soil is moderately alkaline, perhaps between 7.0 and 7.5.
@@ -71,16 +71,16 @@ This test is designed to detect if your soil is alkaline (basic). Vinegar is an 
 This test is designed to detect if your soil is acidic. Baking soda (sodium bicarbonate) is a base, and if your soil is acidic, a chemical reaction will occur, producing carbon dioxide gas, resulting in fizzing.
 
 **Materials:**
-* Soil sample (about � cup)
-* � cup distilled water
-* � cup baking soda
+* Soil sample (about  cup)
+*  cup distilled water
+*  cup baking soda
 * Clean cup or jar
 * Spoon
 
 **Steps:**
-1.  Place the � cup of soil into a clean cup or jar.
+1.  Place the  cup of soil into a clean cup or jar.
 2.  Add enough distilled water to the soil to create a muddy consistency, similar to a thick paste. Mix thoroughly.
-3.  Sprinkle about � cup of baking soda over the muddy soil mixture.
+3.  Sprinkle about  cup of baking soda over the muddy soil mixture.
 4.  **Observe for Fizzing:** Watch closely for any fizzing, bubbling, or effervescence.
     * **Strong Fizzing:** Indicates your soil is acidic, likely with a pH of 6.0 or lower. The stronger the fizz, the more acidic your soil.
     * **Slight Fizzing:** Suggests your soil is moderately acidic, perhaps between 6.0 and 7.0.

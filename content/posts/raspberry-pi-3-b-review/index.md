@@ -22,8 +22,8 @@ Raspberry Pi 3 vs. two vs. Zero
 ## Raspberry Pi 3 B Review + Performance
 ### Hardware
 Pi 3 Model 3 B+ has two key features that stand out compared to earlier Pi models: a metal shield that covers the Bluetooth and WiFi circuitry (assist in RF emissions containment) and the SoC's metal cover (for dissipating heat).
-*But, what are the favorable hardware modifications?�*
-- Model 3 B+�comes with a push or pull MicroSD card slot as opposed to the earlier push-to-eject.
+*But, what are the favorable hardware modifications?*
+- Model 3 B+comes with a push or pull MicroSD card slot as opposed to the earlier push-to-eject.
 - It comes with a premium-looking Pi logo that is engaged on its wireless cover. Previous models had the symbol being etched on their circuit board, which looked low-class. Further, the Broadcom SoC has a beautiful metal cover.
 - Model 3 B+ has a metal enclosure CPU build that dissipates heat well than the plastic covering on the earlier models: without additional active cooling or heatsink.
 - Further, it has a highly standardized board layout and forms factor

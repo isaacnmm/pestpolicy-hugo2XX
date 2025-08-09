@@ -16,19 +16,19 @@ layout: post
 ---
 [Windex](https://en.wikipedia.org/wiki/Windex)
 is a degreaser for hard-to-clean surfaces like fans and hoods. But, does Windex kill spiders and their eggs?
-**Well, here's my experience!�**
+**Well, here's my experience!**
 - Recently, I glanced over in your son's room to see a**venomous spider**crawling down the wall. All I found near to kill the Windex degreaser. I sprayed it.
 - The spider drooped over and died. End of story? Nope! I promptly took on a search about Windex versus spiders.
 **So, is**
-**Windex deadly enough to kill spiders? Yes! Spray enough Windex on a spider and it'll die fairly quickly. Windex has lethal ammonia (ammonium hydroxide) &�**
+**Windex deadly enough to kill spiders? Yes! Spray enough Windex on a spider and it'll die fairly quickly. Windex has lethal ammonia (ammonium hydroxide) &**
 [**sodium dodecylbenzene sulfonate**](https://patents.google.com/patent/CN100423640C/en)
-** thatll block the spiders book lungs, block its breathing to suffocate it.�**
+** thatll block the spiders book lungs, block its breathing to suffocate it.**
 
 ## Does Windex Kill Spiders and their Eggs?
 This article will discuss the effectiveness of Windex to exterminate spiders & its pros and cons as an
 insecticide
 .
-**Let's dive right in.�**
+**Let's dive right in.**
 ### 1. Surfactants: Ammonium Hydroxide & Sodium Dodecylbenzene Sulfonate
 The ammonia and sodium dodecylbenzene sulfonate in Windex is deadly to spiders; they work collectively to kill the spider on contact.
 - You can use it as a spray, but make sure the spider is directly hit with the chemical, or else they'll flee into their webs after being sprayed
@@ -55,7 +55,7 @@ Spiders react differently when exposed to ammonia gas in Windex (varied
 concentration of ammonia
 . If the concentration is high, it will kill them faster. But, if it is lower, it will take a little longer for them to die.
 The size and age of the spider will also affect how long it takes to kill it. The older they are, the more time Windex needs to take effect on them.
-- For example, household Windex usually contains a small concentration�of ammonia[0.05 to 0.1 (5% - 10%)](https://www.immaculatejanitorialservices.com/2012/03/windex-not-just-for-cleaning-glass/), which will kill baby spiders and eggs - this may not kill large spiders instantly on contact.
+- For example, household Windex usually contains a small concentrationof ammonia[0.05 to 0.1 (5% - 10%)](https://www.immaculatejanitorialservices.com/2012/03/windex-not-just-for-cleaning-glass/), which will kill baby spiders and eggs - this may not kill large spiders instantly on contact.
 The concentration of ammonia in Windex can be increased by adding more or less water to it. This will speed up the process, but increase cost and housekeeping time.)
 ### **2. Area Sprayed (**sq. feet)
 It takes more than one can/bottle of Windex to cover a large area of the spiders(more than 200sq feet) and kill or exterminate the spiders and their eggs.
@@ -116,7 +116,7 @@ You will have to spray this mixture daily for 2 to 6 weeks for the complete elim
 **2. Using Black peppers.**
 Black peppers are a natural way of eliminating spider infestation in your home. It is a perfect solution when you need to repel spiders in your place than kill. You will need to grind several black peppers into fine pieces and sprinkle them to spider hideouts.
 You can also boil (3 to 4 cups of water) the black peppers and then strain the water before spraying in spider-infested areas. Black pepper is also able to repel other insects such as spider mites and ants
-*.�Keep of kids while spraying your house/place  the spicy peppered liquid causes itching and burning sensation*
+*.Keep of kids while spraying your house/place  the spicy peppered liquid causes itching and burning sensation*
 .
 **3. Use of Diatomaceous Earth.**
 Diatomaceous Earth is one of the best natural ways of killing and eliminating spiders and
@@ -140,6 +140,6 @@ You will only need to spray/apply essential oil in spider hideouts or infested a
 ## Conclusion
 In summary; does Windex kill spiders? Yes! If you spray enough Windex (ammonia-based cleaner) on them they will eventually die.
 This helps eliminate those insects and pests in your home or office without resorting to potentially harmful chemicals or pesticides.
-- Windex is a cleaning product with ammonium�gas, and it will repel spiders from your house.
+- Windex is a cleaning product with ammoniumgas, and it will repel spiders from your house.
 Windex is not toxic but could cause irritation when it comes in contact with sensitive parts of the body like the eyes or mouth if ingested orally.
 Comment your thoughts below.

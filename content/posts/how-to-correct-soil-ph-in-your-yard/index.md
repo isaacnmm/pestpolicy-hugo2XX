@@ -15,7 +15,7 @@ tags:
 - your
 layout: post
 ---
-You've learned about the critical role of soil pH in your yard's overall health � how this single chemical measurement dictates the availability of vital nutrients to your plants, whether they're turfgrass, flowers, shrubs, or trees. Perhaps you've already observed the tell-tale signs of an imbalance: stunted growth, persistent moss, yellowing foliage, or a general lack of vigor despite your best efforts at watering and fertilizing. The good news is that soil pH isn't a fixed, unchangeable characteristic. With a clear understanding of the 'how-to,' you can effectively adjust your soil to create an optimal environment for your plants to thrive.
+You've learned about the critical role of soil pH in your yard's overall health  how this single chemical measurement dictates the availability of vital nutrients to your plants, whether they're turfgrass, flowers, shrubs, or trees. Perhaps you've already observed the tell-tale signs of an imbalance: stunted growth, persistent moss, yellowing foliage, or a general lack of vigor despite your best efforts at watering and fertilizing. The good news is that soil pH isn't a fixed, unchangeable characteristic. With a clear understanding of the 'how-to,' you can effectively adjust your soil to create an optimal environment for your plants to thrive.
 
 This guide moves beyond the "why" and dives deep into the practical "how" of correcting soil pH in your yard. We'll recap why this correction is so important and reiterate the absolute necessity of a proper soil test. Then, we'll provide detailed instructions on how to raise overly acidic soil using liming materials and how to lower overly alkaline soil using acidifiers, covering application techniques, timing, and what to expect. By following these steps, you'll be empowered to take direct control of your soil's chemistry, unlocking its full potential and paving the way for a healthier, more vibrant landscape.
 
@@ -116,7 +116,7 @@ Successfully correcting soil pH requires attention to detail. Avoiding these com
 1.  **Ignoring Soil Test Recommendations:** The most frequent error. Guessing leads to over-application or under-application, creating new problems.
 2.  **Applying to Wet Foliage:** Granular amendments can stick to wet grass blades and cause burning, especially in hot sun. Always apply to dry turf.
 3.  **Applying During Stress Periods:** Avoid applying lime or sulfur during heatwaves, droughts, or when your lawn is otherwise stressed. This can exacerbate existing issues.
-4.  **Not Spreading Evenly:** Uneven application leads to patchy results � some areas corrected, others still imbalanced or even over-corrected. Use a good spreader and overlap passes.
+4.  **Not Spreading Evenly:** Uneven application leads to patchy results  some areas corrected, others still imbalanced or even over-corrected. Use a good spreader and overlap passes.
 5.  **Expecting Immediate Results:** pH correction is a slow, chemical process. Patience is crucial. Don't reapply based on immediate visual observation.
 6.  **Not Watering In:** Amendments need to be watered into the soil to begin reacting. Neglecting this step reduces effectiveness.
 7.  **Using the Wrong Product:** Different types of lime and acidifiers have different strengths and compositions. Use the specific type recommended by your soil test or for your desired outcome.

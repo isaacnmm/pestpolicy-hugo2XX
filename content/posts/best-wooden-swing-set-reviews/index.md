@@ -91,4 +91,4 @@ Cons:
 - You might need professional help when assembling
 ## Conclusion
 The space of your backyard should not limit you when choosing your swing set. As weve discussed, each yard size has that perfect set that can fit perfectly on it.
-With our analysis and review on Best Wooden Swing Set, we hope you find one that meets your preference, budget, and space.�All The Best As You Make Your Choice!
+With our analysis and review on Best Wooden Swing Set, we hope you find one that meets your preference, budget, and space.All The Best As You Make Your Choice!

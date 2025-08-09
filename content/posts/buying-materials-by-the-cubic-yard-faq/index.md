@@ -140,7 +140,7 @@ Let's use our earlier weight estimates:
 
 * **Mulch:** A cubic yard of dry mulch (500 lbs) is well within the payload capacity of most half-ton trucks. Even wet mulch (1,000 lbs) might be manageable for some, but close to the limit for others.
 * **Topsoil/Compost:** A cubic yard of dry topsoil (2,000 lbs) or wet compost (2,000 lbs) is right at or *above* the typical payload of many half-ton trucks. Wet topsoil (2,700 lbs) is almost certainly too heavy for a standard half-ton.
-* **Sand/Gravel:** A cubic yard of sand (3,000 lbs) or gravel (3,400 lbs) is **too heavy** for most half-ton pickup trucks. You'd need a � ton or 1-ton truck, or a heavy-duty trailer.
+* **Sand/Gravel:** A cubic yard of sand (3,000 lbs) or gravel (3,400 lbs) is **too heavy** for most half-ton pickup trucks. You'd need a  ton or 1-ton truck, or a heavy-duty trailer.
 
 **Recommendations:**
 

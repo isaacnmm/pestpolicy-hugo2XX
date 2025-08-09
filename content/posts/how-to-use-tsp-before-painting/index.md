@@ -19,8 +19,8 @@ TSP (Na3PO4 - Trisodium Phosphate) is a detergent (an all-purpose cleaner) to cl
 Due to its ability to dissolve and emulsify, TSP has
 [various uses](https://en.wikipedia.org/wiki/Trisodium_phosphate)
 , including heavy-duty cleaning, driveways preparation, paintbrush cleaning, paint stripping, and degreasing.
-- *On how to use tsp before painting, prepare the walls for painting by repairing all cracks, and ensuring sand or smooth the surface walls. Lay down some drop cloths and tape off the surfaces nearby wood trim, baseboards, and ceiling.�*
-- *Mix the TSP cleaner with adequate water for the best results on the various surfaces. Also, rinse the TSP from the surfaces and allow enough drying time before painting. Alternatively, you can use sandpaper since TSP can remove paint.�*
+- *On how to use tsp before painting, prepare the walls for painting by repairing all cracks, and ensuring sand or smooth the surface walls. Lay down some drop cloths and tape off the surfaces nearby wood trim, baseboards, and ceiling.*
+- *Mix the TSP cleaner with adequate water for the best results on the various surfaces. Also, rinse the TSP from the surfaces and allow enough drying time before painting. Alternatively, you can use sandpaper since TSP can remove paint.*
 ## Details: How to Use TSP Before Painting
 ### Step 1: TSP cleaner Prepping
 You'll mix the TSP powder with some warm water (in a larger bucket) and use it to wipe down the surfaces - this enhances the paint's adhesiveness - which also TSP acts as a stain remover, removes mildew and molds.
@@ -39,7 +39,7 @@ With TSP, you can easily clean your furniture, such as cabinets and decks, in pr
 PO
 4
 ) will also effectively
-remove soot build-up�from walls
+remove soot build-upfrom walls
 .
 ### Step 3: Cleaning with TSP
 Remember to wear rubber gloves before you begin the cleaning task - this prevents skin irritation, particularly on any opening or small cuts on the hands. You may use a towel, rag, or even a sponge for cleaning.

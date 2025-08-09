@@ -62,7 +62,7 @@ This Lego set also comes with awesome accessories like the capes for Emily, Book
 
 In addition, the set includes a 2-story castle tower that has a cave, bedroom, opening dungeon gate, and shackles and chains for binding the queen.
 Pros:
-- The queen dragon�is big
+- The queen dragonis big
 - Colorful
 - Easy to set up
 - Provides hours of fun
@@ -178,7 +178,7 @@ The car is a two-in-one model that you can build for play or for display. You ca
 Pros:
 - Highly comfortable
 - Breathable
-- Ideal for neuropathy�and sensitive feet
+- Ideal for neuropathyand sensitive feet
 - Ideal for achy tired feet
 - Delivers perfect feet
 

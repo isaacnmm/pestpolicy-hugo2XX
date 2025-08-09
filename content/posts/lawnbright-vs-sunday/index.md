@@ -35,7 +35,7 @@ Launched in 2019, Sunday has been a pioneer and market leader in the DIY natural
 Both companies offer seasonal subscription plans that deliver products to your door at optimal times for application.
 
 **Lawnbright Plans & Services:**
-Lawnbright�s core offering is a fully customized lawn care plan.
+Lawnbrights core offering is a fully customized lawn care plan.
 * **Customization:** Plans are highly tailored based on a free soil test (recommended) or detailed questionnaire about your lawn's current condition, size, and location. This allows for precise nutrient delivery.
 * **Ingredients:** Focus on organic and natural ingredients like North Atlantic sea kelp, cedar oil, cornmeal, and blackstrap molasses. They explicitly state "no harsh chemicals, ever." Their products are designed to enhance microbial diversity and long-term soil health.
 * **Application:** Products are liquid and come in hose-end spray bottles with dual-nozzle attachments for easy, even application.

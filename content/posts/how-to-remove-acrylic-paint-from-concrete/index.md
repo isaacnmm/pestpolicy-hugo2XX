@@ -17,10 +17,10 @@ layout: post
 Today's question came from Jake, one of our avid painting blog readers. The question relates to; how to remove [acrylic](https://pestpolicy.com/how-to-remove-acrylic-paint-from-canvas/) paint from
 concrete
 . Compared to oil-based paint, acrylic paint (being water-based) will be easier to clean.
-- *In summary, use a rag to wipe off the wet paint from concrete. Dip your scrub brush in some soapy water and scrub the concrete wall.�*
+- *In summary, use a rag to wipe off the wet paint from concrete. Dip your scrub brush in some soapy water and scrub the concrete wall.*
 - 
-- *Use more soap solution to clean up a lot of the wet paint and remove it quickly. Soak all the wet paint using a sponge and finally rinse the concrete surface using freshwater through a high-pressure hose.�*
-*Repeat the process until all the paint is removed.�*
+- *Use more soap solution to clean up a lot of the wet paint and remove it quickly. Soak all the wet paint using a sponge and finally rinse the concrete surface using freshwater through a high-pressure hose.*
+*Repeat the process until all the paint is removed.*
 Acrylic paints tend to dry quite fast while also becoming water-resistant and sturdy once dried. Could he
 acrylic coat
 be challenging to remove from concrete?
@@ -33,14 +33,14 @@ You can remove both wet and dry acrylic paint. Just like using a paint stripper 
 **Requirements to Remove acrylic paint**
 - *A pressure washer or Hose*
 - *Paintbrush*
-- *Bucket�*
+- *Bucket*
 - Protective Gear
 - *Soapy water solution*
 - *Paint stripper or Acrylic paint remover*
 - *Scrub brush*
 - *Putty Knife, Razor or Paint Scraper*
-- *Sponge and�Rags*
-### 1. Method 1: For Wet Acrylic Paint - Using Soapy Water + Sc*rub brush�*
+- *Sponge andRags*
+### 1. Method 1: For Wet Acrylic Paint - Using Soapy Water + Sc*rub brush*
 You can use a water-soaked rag to clean up your wet acrylic paint without damaging the concrete surface. This is possible with dry acrylic paint, but you'll require some acrylic paint remover.
 ### Step #1:
 For the acrylic paint that's still fresh on the concrete surface - I recommend using soapy water and a rag or scraper. So, prepare some soapy water solution (properly mixed-up) in a bucket.
@@ -56,7 +56,7 @@ https://www.youtube.com/watch?v=82MVQwg6POk
 The acrylic paint remover will handle any old or dried acrylic paint that proves challenging for soapy water, rag, and scrub brush. The remover readily dissolves the
 [acrylic paint's resin](https://www.sciencedirect.com/topics/chemistry/acrylic-resin)
 .
-#### Step #1:**Prepare the Concrete Surface�**
+#### Step #1:**Prepare the Concrete Surface**
 The first thing you need to collect materials needed to remove your acrylic paint from concrete. Take a vacuum or broom to clean your painted concrete surfaces -
 [incluing latext paint.](https://pestpolicy.com/how-to-remove-latex-paint-from-concrete/)
 Removing the debris or dirt on the concrete will get the surface ready for action. Further, get some paint scraper to remove a little more acrylic paint from the concrete.
@@ -67,7 +67,7 @@ The paint remover must work excellently with acrylic paints to be worth the tria
 - Pour some paint stripper (e.g., for furniture) or acrylic paint remover on the painted concrete. - you'll get these products in your local hardware outlet.
 - Envelop the oil-stained area using a stripper-soaked rag - this makes the place moist - allow it to settle for some hours - and thus, the pain will be softened.
 Leave the remover to work for about 1-8 hours to effectively strip off the acrylic paint.
-#### Step #3:**Scrub Concrete Surface�**
+#### Step #3:**Scrub Concrete Surface**
 Next, use a scraper on the stained wall - use together with soapy water. Ensure to rinse the wall surface thoroughly.
 Check for any residue and reapply your stripper. Let the surface sit in that condition for 1 hour before finally conducting a thorough scrub.
 However, I would recommend using a
@@ -77,17 +77,17 @@ Use a paintbrush to apply some stripper for the areas you'd consider as trouble 
 #### Step #4: Wash the Concrete Surface
 Finally, its time to undertake the ultimate wash. So, hose the concrete surface with clean water. But fir your
 [open-air concrete](https://pestpolicy.com/how-to-remove-paint-from-concrete-without-chemicals/)
-such as the garage floor surfaces�or driveways, you may need to get a power washer.
+such as the garage floor surfacesor driveways, you may need to get a power washer.
 The power washers will effect
 ively clean or wash down larger areas. You'll get the machines for cheap (with the hiring option being the best) at most local stores.
 ### 3. Method 3: Acetone + Razor Scraper
 For this method, pour the acetone on the paint stain and then get your razor scraper to remove the dried paint. Also, use some paper towels to clean up the paint residual.
 I recommend you get some stripper gel to remove any other remaining stain. Use soapy and warm water to effectively brush the remaining residue - you can also vacuum/ pressure washer.
 Power washers will remove most of the dried acrylic paints even on larger surfaces with much ease. However, use a paintbrush to apply some paint stripper on the trouble spots - and finally, power-wash the concrete.
-In case the paint thinner fails to remove the acrylic paint, apply muriatic�acid. This material is highly corrosive and thus you must wear protective gear including goggles and gloves.
+In case the paint thinner fails to remove the acrylic paint, apply muriaticacid. This material is highly corrosive and thus you must wear protective gear including goggles and gloves.
 Muriatic acid must also be applied in the adequately ventilated areas or you'll require to put on a respirator. Also, adhere to the manufactures instructions - like correct water-to-water parts.
-### 4. Method 4:**Blasting Method with a�**Sand Blaster
-#### Step #1: Get the**Blasting Unit�**
+### 4. Method 4:**Blasting Method with a**Sand Blaster
+#### Step #1: Get the**Blasting Unit**
 This method will be required for removing a load of acrylic paint from the concrete surfaces. I recommend renting a good blaster for one of your favorite local stores.
 Even though one of your powerful blasters could generate intimidating sound, this technique won't harm the environment like using the other chemical products such as a paint remover or stripper.
 Further, get your baking soda (sodium bicarbonate) that's the industrial type - it'll be

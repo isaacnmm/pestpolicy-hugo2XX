@@ -14,7 +14,7 @@ tags:
 - cleaner
 layout: post
 ---
-So,�is drain [cleaner](https://pestpolicy.com/best-drain-cleaner/) an acid or base?�The short and simple answer to this question is that a
+So,is drain [cleaner](https://pestpolicy.com/best-drain-cleaner/) an acid or base?The short and simple answer to this question is that a
 [drain cleaner](https://pestpolicy.com/best-drain-cleaner//)
 can either be
 [an acid or a base](https://van.physics.illinois.edu/qa/listing.php?id=491&t=acids-and-bases-in-drain-cleaner)

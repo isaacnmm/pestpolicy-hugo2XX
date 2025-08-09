@@ -14,9 +14,9 @@ tags:
 layout: post
 ---
 Could be you have come across lizards in a pond, river, sea, ocean, or stagnant water at your home and wonder how they move about. How do they cross water bodies? So,
-* can lizard Swim?�*
+* can lizard Swim?*
 **The direct answer is, YES! Lizards can swim in water bodies including rivers, seas, oceans, or pods. These reptiles use their tail to propel themselves forward when swimming plus use front limbs for vertical movement. **
-**Some lizards like Gecko can even walk on water. Lizard, they're vertebrates, such as Marine Iguanas can swim in deep seas or oceans down to the floor in search of food while holding their breath for 45 minutes.�**
+**Some lizards like Gecko can even walk on water. Lizard, they're vertebrates, such as Marine Iguanas can swim in deep seas or oceans down to the floor in search of food while holding their breath for 45 minutes.**
 
 ## Details: Can Lizards Swim? Can they Drown? Movement
 Lizards can swim. The swimming capability varies from one species to another and is determined by body size, shape and length of the tail. Some lizard species such as Gecko and skinks can walk or run on the water bodies.
@@ -34,7 +34,7 @@ To dive downwards, the lizard pitches its head at a downward angle and locks the
 
 The Lizard is able to move vertically upward while using the font legs/limbs, which acts as flippers. The dorsal protrusion found at the back of the lizards help them from rolling sideways while swimming. They also acts as breakers for the sea/ocean current which may alter lizards movement.
 
-The Iguana, Bearded dragon, Komodo dragon and Asian water monitor lizards are known to swim deep in the sea or ocean waters in search of food.�Once the lizard gets its tail detached, it may not be possible to swim well and may get drowned in most cases.
+The Iguana, Bearded dragon, Komodo dragon and Asian water monitor lizards are known to swim deep in the sea or ocean waters in search of food.Once the lizard gets its tail detached, it may not be possible to swim well and may get drowned in most cases.
 
 Related:
 [Do Lizards Have Bones?](https://pestpolicy.com/do-lizards-have-bones/)
@@ -49,11 +49,11 @@ Marine Iguanas are able to swim down to ocean beds/floors in search of food. In 
 ### 3. Challenges faced by Lizards while swimming.
 Drowning is major problem that face lizards while swimming. Though they can hold their breath longer (1 to 48 minutes) than other animals (human beings, birds), lizards get drowned when the air withheld replenishes.
 
-Lizards that are used to flesh waters such as Nile monitor lizards will easily drown in case they find themselves in large water mass such as Mediterranean Sea.�Salty water environment makes the breathing activity of lizards difficult.
+Lizards that are used to flesh waters such as Nile monitor lizards will easily drown in case they find themselves in large water mass such as Mediterranean Sea.Salty water environment makes the breathing activity of lizards difficult.
 
 The salt particles block the nasal cavities and lizards breathing system causing them to drown or get fatigued faster. Though some lizards such as Marine Iguanas, Bearded Dragon and Komodo Dragons are adapted to swimming deep in salty sea and ocean waters.
 
-However, most species of flesh water lizards are unable to fit in those environments.�Small size lizards are easily carried by sea and ocean current. They lack efficient braking mechanism and may be taken far into the water bodies where they get drowned.
+However, most species of flesh water lizards are unable to fit in those environments.Small size lizards are easily carried by sea and ocean current. They lack efficient braking mechanism and may be taken far into the water bodies where they get drowned.
 
 Lizards that prefer to walk on water (gecko) are easily swept away by the water waves and eventually get drowned or fed by the prey.
 ## 4. Adaptation of Lizards to swimming.
@@ -94,7 +94,7 @@ Lizards are able to swim longer while on the water surface than when under water
 
 Related:
 [Are Lizards Poisonous?](https://pestpolicy.com/are-lizards-poisonous/)
-## **Can Lizards Walk On Water?�**
+## **Can Lizards Walk On Water?**
 Yes! Lizards such as Gecko and skinks tend to walk on water that swim. These lizards love shallow waters. Though they have long tails, they rarely use them to swim. Instead, they walk on the water surface by flipping their partially webbed limbs.
 
 In Central America, the lizard called Jesus Christ lizard is known to literally walk on the water. This species has its body and legs adapted to maintain the lizard on the water body. It walks mostly against the water current to prevent it from being carried away.

@@ -40,7 +40,7 @@ are very tiny, they have a hard outer shell covering the internal fluid. Thats w
 diatomaceous earth cannot kill bed bug
 eggs.
 Steaming and heat treatment are some of the most effective ways of destroying the hard outer shell found in bed bug eggs - including those of
-*baby bed bugs.�*
+*baby bed bugs.*
 Even so,
 bed bug eggs squash
 easily when subjected to mechanical forces such as when scrapped off or picked from the surface.

@@ -14,7 +14,7 @@ tags:
 - poop
 layout: post
 ---
-What does roach poop look like?�Cockroaches will leave their droppings almost anywhere they pass through. The droppings are typically found in damp areas and near sources of food.
+What does roach poop look like?Cockroaches will leave their droppings almost anywhere they pass through. The droppings are typically found in damp areas and near sources of food.
 
 You can find them in the kitchen, bathroom, under the sink, and so on.
 But what does roach poop look like? Roach poop can appear as brown or black stains, smears, and coarse or ground black pepper. Sometimes they can take the shape of a cylinder.
@@ -33,7 +33,7 @@ Roach droppings tend to have rounded ends, while those of rodents are somehow po
 Roaches come to your house in search of food and water. Although roaches feed on almost anything, they are mostly attracted to the
 food we eat
 .
-Therefore it is common to find roach droppings near food storage areas.�Roach droppings can be found in large numbers in dark corners or crevices where roaches hide from humans or pets.
+Therefore it is common to find roach droppings near food storage areas.Roach droppings can be found in large numbers in dark corners or crevices where roaches hide from humans or pets.
 Closets, cabinets, behind furniture, drawers, and other hidden areas make charming places for roaches to hide and breed. So, its possible to find large amounts of roach droppings in these areas.
 [Roaches also tend to hide and nest](https://pestpolicy.com/how-to-find-a-roach-nest/)
 underneath the mattress because these areas are given fewer cleanups. Roaches can penetrate the crevices in the
@@ -86,7 +86,7 @@ and breed. In such a case the closet and your clothes will be stained with roach
 - Wipe the closet thoroughly with a disinfectant soap and rinse with clean water.
 Read Also:
 Do Cockroaches Bite?
-## **Conclusion�**
+## **Conclusion**
 Evidence of roach droppings in your house should give you worries no matter how few they are.
 They contain pheromones that attract other roaches to your house. Thus, a few roaches can end up becoming an infestation.
 Therefore, when getting rid of roaches, its advisable also to clean their droppings to erase the pheromones (communicating aids) - you can use

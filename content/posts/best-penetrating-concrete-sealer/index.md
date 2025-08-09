@@ -54,7 +54,7 @@ Armor-AR350 is an acrylic solvent-based concrete sealer suitable for sealing and
 A gallon of Armor-AR350 covers 175 square ft. per single coat and can be applied with either a roller or a sprayer and still get a wet, darkened, and low-gloss finish.
 However, it is important to note that the sealer does have a non-slid mechanism, and to achieve this; one has to mix it with a non-slip additive for the desired results.
 The Armor AR350 application is recommended in the evening or late afternoon of extreme temperature, and recoating should be done after 24 hours.
-The sealer can be used on an unsealed surface or reapplied to surfaces previously sealed with acrylic-based solvents. Mixtures of urethane�and Epoxy will create suitable
+The sealer can be used on an unsealed surface or reapplied to surfaces previously sealed with acrylic-based solvents. Mixtures of urethaneand Epoxy will create suitable
 [concrete sealant options](https://en.wikipedia.org/wiki/Concrete_sealer)
 .
 Pros:

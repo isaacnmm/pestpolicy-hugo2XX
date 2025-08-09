@@ -17,9 +17,9 @@ layout: post
 Really, what do flea eggs look like? Well, for anyone whos been
 bitten by a bed bug
 , you can be sure some tiny flea eggs are lurking around to hatch  either from your cat or dogs.
-*But to control flea eggs, you must effectively know their physical appearance and places where theyre hidden  including differences between flea eggs and flea dirt.�*
+*But to control flea eggs, you must effectively know their physical appearance and places where theyre hidden  including differences between flea eggs and flea dirt.*
 *In summary, [fleas](https://pestpolicy.com/flea-eggs-vs-dandruff/) eggs are tiny specs (0.5 lengths by 0.25 mm width), rounded-oval shape, with a flexible-chorion and softshell. *
-*Adult females fleas produce eggs 1 to 2 days after taking a full blood meal and mating. [Flea](https://pestpolicy.com/how-long-do-flea-eggs-take-to-hatch/) eggs will be laid on a host like cats or dogs, but they'll fall off shortly (within hours).�*
+*Adult females fleas produce eggs 1 to 2 days after taking a full blood meal and mating. [Flea](https://pestpolicy.com/how-long-do-flea-eggs-take-to-hatch/) eggs will be laid on a host like cats or dogs, but they'll fall off shortly (within hours).*
 
 ## Flea Eggs - What Do Flea Eggs Look Like?
 ### 1. Size - How big is Flea Eggs?
@@ -42,7 +42,7 @@ fleas human hair
 ), yard, or on the pet.
 Flea eggs are microscopic creatures thatll look like the grain of salt. Notably, a single grain of salt dropped on some of the ground may be difficult to notice or find. They are microscopic and thus will only be seen when theyre in clusters.
 https://www.youtube.com/watch?v=o0W5eeUqcQQ
-### 2.�Color - What Color Are Flea Eggs?
+### 2.Color - What Color Are Flea Eggs?
 Flea eggs are off-white because of their flexible-chorion and soft shell  it may mistake the flea egg for a grain of salt
 of dirt while on the ground.
 The oval-shaped eggs may also be mistaken for the color of human dry skin thats whitish and rough due to lack of oiling. However, the identity of the fleas eggs may only be fully verified with a microscope.
@@ -82,9 +82,9 @@ The eggs that are dislodged from the host will fall into either the
 outdoor and indoor
 environment. Notably, these eggs will fall off where the pets will be sleeping or walking into.
 Therefore, the movement of the host will influence the spaces where the eggs will be distributed. But most of them will be lying around the feeding, resting, and sleeping areas of the pets.
-#### b.�Humid and Warm Micro-climate
+#### b.Humid and Warm Micro-climate
 Under unfavorable humidity and temperature, fleas eggs tend to desiccate very fast. Therefore, you'll mainly find viable and live eggs around areas with humid and warm micro-climates.
-The RH should be anywhere above 50%, while the �Ambient temperature needs to be in the range of 11C to 39C to enable the eggs' survival.
+The RH should be anywhere above 50%, while the Ambient temperature needs to be in the range of 11C to 39C to enable the eggs' survival.
 ### 3. Carpeted Rooms
 The fleas will thus be clustered and hidden in the
 carpet

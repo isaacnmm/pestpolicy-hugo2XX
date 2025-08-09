@@ -26,8 +26,8 @@ heat
 So,
 *how high can fleas jump? *
 **Fleas can jump a maximum of **
-**7 inches (18�cm) vertically and 13 inches (33�cm) horizontally (an average 40 - 99 times of the flea's body length) - it's only second to **
-**froghopper. Its hind-most pair of legs are significantly adapted in jumping. Here's how to tell if you have a flea problem.�**
+**7 inches (18cm) vertically and 13 inches (33cm) horizontally (an average 40 - 99 times of the flea's body length) - it's only second to **
+**froghopper. Its hind-most pair of legs are significantly adapted in jumping. Here's how to tell if you have a flea problem.**
 ## How High Can Fleas Jump?
 
 The fleas's legs are long and appropriately build for jumping. The bug provides a forceful and quick jump - it wont depend on power from directly from its muscles but on the energy stored in the
@@ -45,11 +45,11 @@ are some of the fleas species that don't jump well. These fleas have lost their 
 **Human Flea (Pulex Irritans)**
 - Human fleas jump at a height and distance similar to cat fleas. Therefore, human fleas jump about 33 cm (13 inches) just like cat fleas.
 ## Flea Anatomy  Jumping Mechanism
-It's important to learn the anatomical build of the fleas' legs to lean how these bugs jump from one host or area to another. Its legs are segmented into 4 sections� - the segments being tarsus, tibia, femur, and coxa from outwards towards the body.
+It's important to learn the anatomical build of the fleas' legs to lean how these bugs jump from one host or area to another. Its legs are segmented into 4 sections - the segments being tarsus, tibia, femur, and coxa from outwards towards the body.
 The leg joints - particularly the femur is a thick joint segment of the fleas' leg and it has a large amount of muscle and it links the trochanter to the bug's tibia. the fleas' tibia is sectioned and it links femur to the fleas' tarsi. In addition, the fleas tarsi stand furthest to the bug's body.
 The flea's trochanters are noted to touch the ground when the bugs are jumping. But the tarsi of the flea is a critical part of jumping for the fleas. Notably, fleas derive their jumping power from the spectacular jumps. Its resilin contains some protein that is stretchy - to contract and extends allowing the flea to jump over distances.
 ## How Fast Can Fleas Jump?
-Considering the shape and size of fleas - these flat and tiny bugs measure about 1/12 -� 1/8 inches move of jump quickly and effectively over distances or between the pet's hairs. The hind legs, from its 6 legs, of these fleas, allow the bugs to jump quickly.
+Considering the shape and size of fleas - these flat and tiny bugs measure about 1/12 - 1/8 inches move of jump quickly and effectively over distances or between the pet's hairs. The hind legs, from its 6 legs, of these fleas, allow the bugs to jump quickly.
 Some fleas species will jump about 150 times its body length. Further, the record jump ever recorded in fleas was a vertical jump of 4 feet.
 [Without a host, fleas can survive for about 100 - 150 days](https://pestpolicy.com/how-long-can-fleas-live-without-a-host/)
 - however, it must remain undisturbed to avoid wasting energy moving around or jumping.

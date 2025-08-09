@@ -54,7 +54,7 @@ essential oils
 , repel fleas and ticks.
 It is also able to
 kill flea larvae and eggs
-, ticks as well as mosquitoes.�Vets Best
+, ticks as well as mosquitoes.Vets Best
 Flea and Tick home
 spray are available in a 32-ounce pack and an 8-ounce pack.
 Vets Best
@@ -123,7 +123,7 @@ It leaves no sticky mess and stains, and the smell is not too strong for humans 
 With just a single can (20oz) of
 flea tick professional pest control
 , you get rid of any flea infestation in your home and prevent any further infestation from occurring.
-- It covers an area of almost 2625 square feet. The active ingredients that make this possible are Permethrin,� Pyriproxyfen, an IGR, and Pyrethrins.
+- It covers an area of almost 2625 square feet. The active ingredients that make this possible are Permethrin, Pyriproxyfen, an IGR, and Pyrethrins.
 - They work by inhibiting the reproduction cycle offleas and killingadult fleas instantly.
 This combination is highly effective in getting
 rid of fleas

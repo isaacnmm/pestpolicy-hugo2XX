@@ -55,9 +55,9 @@ When seeking a reliable gutter cleaning service in Cincinnati, it's wise to cons
 * **Services:** Gutter cleaning, window cleaning (interior and exterior), and sometimes power washing.
 * **Good For:** Homeowners who prefer to bundle multiple exterior cleaning services with one reliable provider, benefiting from streamlined scheduling and a cohesive approach to home maintenance.
 
-### Jose�s Painting & Handyman Services
+### Joses Painting & Handyman Services
 
-* **Overview:** Jose�s Painting & Handyman Services offers a wide range of home improvement solutions, which can include gutter cleaning as part of their comprehensive handyman offerings.
+* **Overview:** Joses Painting & Handyman Services offers a wide range of home improvement solutions, which can include gutter cleaning as part of their comprehensive handyman offerings.
 * **What Sets Them Apart:** While their primary focus is painting and general handyman work, they are known for their responsiveness, professionalism, and ability to handle various tasks efficiently. Customers often appreciate their broad skill set and good communication.
 * **Services:** Gutter cleaning (as part of handyman services), interior and exterior painting, drywall repair, pressure washing, and various other home repairs and remodeling.
 * **Good For:** Homeowners who might need gutter cleaning along with other small home repair or maintenance tasks, preferring the convenience of a versatile handyman service.

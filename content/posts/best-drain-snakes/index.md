@@ -21,7 +21,7 @@ So, quit experimenting with acidic cleaners, plungers, or coat hangers. So, what
 If you need a quick answer, I approve of the
 [FlexiSnake](https://www.amazon.com/dp/B01NB0729G/?tag=p-policy-20)
 drain snake, especially for hair-clog removal. It has grabbers and small hooks that'll attach to the hair as the auger rotates even around the p-trap.
-# **In a Hurry? Check Best Drain Snakes�**
+# **In a Hurry? Check Best Drain Snakes**
 
 ## [1. Our #1 Pick:Forlivese 25-Inch Drain Opener orHair snake Tool](https://www.amazon.com/dp/B07RMHNHYC/?tag=p-policy-20)
 
@@ -48,7 +48,7 @@ The Good:
 - The hairy hooks dismantle the hair clogs without damaging the pipes or toilet porcelain.
 The Bad:
 - Designed for hair clogs
-So, let's get started!�Related:
+So, let's get started!Related:
 [Quality Drain Cleaners](https://pestpolicy.com/best-drain-cleaner//)
 .
 ## [**5. ****Ridgid 41408 Snake Maxcore Cable (AUTOFEED)**](https://www.amazon.com/dp/B00203U69K/?tag=p-policy-20)
@@ -127,10 +127,10 @@ It has cable clamps to hold the snake cable tightly when breaking the difficult 
 The lock (auto-feed) engages the snakes bearings to avoid pommel squeezing  which reduces your fatigue. Further, for comfort and great grip, Ryobi-P4001 has some GRIP ZONE over-mold.
 The tool has an 18 V battery that's interchangeable with any similar battery from Ryobi. It'll even reach speeds of up to 600 RPM, making it a favorite of many plumbers.
 The Good:
-- Its cable is reinforced� (25 feet) - which helps hinder kinking.
+- Its cable is reinforced (25 feet) - which helps hinder kinking.
 - Allow both reverse & forward feeding - a system that'll help prevent homeowner fatigue.
 - Its GRIP ZONE over-mold is effective and thus allows a great snake grip. You won't require professional gloves.
-- Has an excellent�auto-lock mechanism
+- Has an excellentauto-lock mechanism
 The Bad:
 - Not light in weight
 ## **10. Dr. Drain VEDRAU01A1 Plumbers Spring Snake**
@@ -156,7 +156,7 @@ With this Ridgid K-45AF snake, you won't have to mess your hands o clothes - it 
 - It's great for unclogging sinks, the lavatory bathtub, showers, or even urinals. You'll love the flexible auger and the rust-proof material. The 115 V plug on this snake will give your 15% more efficiency.
 With this device, you can go as deep as 25 ft. deep into your
 drain pipes
-. Pipe diameters range from  to 2.�The motor used in this device has a variable speed enabling you to push and pull the cable swiftly.
+. Pipe diameters range from  to 2.The motor used in this device has a variable speed enabling you to push and pull the cable swiftly.
 Thus you can easily tackle even the toughest blockages without much fatigue. Its compact size enables easy transportation and allows you to maneuver through hard-to-reach areas.
 Whats more, this
 [drain cleaner](https://pestpolicy.com/is-drain-cleaner-an-acid-or-base/)
@@ -184,19 +184,19 @@ The Good:
 The Bad:
 - Its costly to replace the cable
 - At 215 pounds, this is not the ideal unit to get to the fourth floor
-## **Buyers Guide - Best Drain Snake�**
+## **Buyers Guide - Best Drain Snake**
 When shopping for a drain snake, it is common for many customers to become overwhelmed by the many varieties that the market has to offer.
 - It is worth noting that price does not always go with quality. So, be keen not to be fooled by shopkeepers who present the pricey products as the best in quality and performance.
 - Also, different customers may be interested in different features of a product.
 So what you see as the qualifying factor in a product may not be the qualifying factor for another customer. Thus, I find it important to share some of the most important factors to consider when buying a drain snake.
-## Considerations**�when buying a drain snake**
+## Considerations**when buying a drain snake**
 **1. Cable Length**
 Drain cleaners come with varying cable lengths. So, depending on the span of your clogs, the ideal cable should be able to reach them.
 - Usually, your cable length will be determined by theplace you livein. Typically, people who live in a single storied house will require a drain unit with a least 25 ft cable, such as Ridgid 41408.
 A 25 ft cable will not be the ideal cable for cleaning a bathroom drain on the second floor. You need a unit with at least 25 ft cable length.
 **2. Diameter**
 A drain snake should slide freely through the drain piping to reach the clogs. That means the diameter of the cable should always be smaller than that of the drain piping.
-Experts usually recommend a difference of at least  to 1 between the snake diameter and the pipe diameter.�If you dont know the pipe diameter, go for a small diameter.
+Experts usually recommend a difference of at least  to 1 between the snake diameter and the pipe diameter.If you dont know the pipe diameter, go for a small diameter.
 **3. Auger Mechanism**
 Every snake needs a means of spinning the cable through the drain. Turning of the cable is what makes it possible to negotiate curves and penetrate clogs.
 Avoid units that lack an auger mechanism. The auger mechanism you opt for should be reliable. Otherwise, you might spend a lot of time unclogging your drain or even retrieving the cable from the drain.
@@ -207,7 +207,7 @@ In the case of interchangeable heads, choose those that are easy to change. Belo
 2. **Cutting head**: A cutting head is the most preferred head for blockages that require cutting. Most professional plumbers prefer this type of cable head.
 3. **Fixed Head:**This type of head is fixed on the cable and cannot be changed.
 4. **Interchangeable Head**: When a drain snake comes with an interchangeable head, it provides you with a way of leveraging different heads to cater to different types of clogs. The good thing is that they are easy to change and do not require special tools to change.
-## **How to use the Drain Snakes�**
+## **How to use the Drain Snakes**
 **1.**
 We'll take the plumber's snake. Next, I've loosened the thumbscrew, as this will allow me to pull out the snake.
 **2.**

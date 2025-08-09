@@ -58,10 +58,10 @@ Further, different bullet journalists report that Moleskine's classic notebook h
 Of course, Notebook producers design some beautiful, sturdy, long-lasting, and premium Notebooks in the world.
 However, they're not all created equal, and each has its downsides as well as strong points.
 If you choose the appropriate Journal Notebook, you'll not only get a great organization system to increase productivity, but also combine all the following: sketchbook, diary, notebook, to-do list.
-### How Bullet Journaling�Changed My Life
+### How Bullet JournalingChanged My Life
 I am now informed! A bullet journal is not merely what I thought it was: a "dear diary."
 It's excitingly your "brain's filing cabinet" with its unique, customizable symbols and charts to assist you to track your goals, to-do list, and calendar.
-**a. Concentrated better on self-care�**
+**a. Concentrated better on self-care**
 I've no problem with scheduling my daily evening morning workout. However, in my journey to increased self-care, I have incorporated a morning meditation, which I tend to miss time always.
 - However, with the bullet journal at hand, I've now have created a "healthy and fitness" page that allows me to plan my self-care routine.
 For example, the exciting box coloring for my stretch sessions has enabled me to take my supplements, vitamins easily, and early morning stretches.

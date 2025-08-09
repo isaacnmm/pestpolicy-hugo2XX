@@ -33,10 +33,10 @@ In addition to these macronutrients, some fertilizers may also include micronutr
 
 The single most important factor in determining when to fertilize is whether you have **cool-season grass** or **warm-season grass**. These two categories have distinct growth cycles.
 
-* **Cool-Season Grasses:** These grasses thrive in cooler temperatures (optimal growth between 60-75�F or 15-24�C). They are typically found in the northern half of the United States, the transition zone, and higher elevations.
+* **Cool-Season Grasses:** These grasses thrive in cooler temperatures (optimal growth between 60-75F or 15-24C). They are typically found in the northern half of the United States, the transition zone, and higher elevations.
     * **Common types:** Kentucky Bluegrass, Perennial Ryegrass, Tall Fescue, Fine Fescue.
     * **Growth Cycle:** Grow most vigorously in spring and fall, often going dormant or slowing growth in hot summer months.
-* **Warm-Season Grasses:** These grasses prefer warmer temperatures (optimal growth between 80-95�F or 27-35�C). They are prevalent in the southern half of the United States and tropical/subtropical regions.
+* **Warm-Season Grasses:** These grasses prefer warmer temperatures (optimal growth between 80-95F or 27-35C). They are prevalent in the southern half of the United States and tropical/subtropical regions.
     * **Common types:** Bermuda Grass, Zoysia Grass, St. Augustine Grass, Centipede Grass.
     * **Growth Cycle:** Grow most vigorously in late spring, summer, and early fall, going dormant and turning brown in cooler winter months.
 
@@ -85,11 +85,11 @@ Always let your lawn's appearance guide you. If it looks healthy and green, you 
 * **Consider Slow-Release Fertilizers:** These provide a steady supply of nutrients over time, reducing the risk of burn and promoting more consistent growth.
 * **Don't Fertilize Stressed Grass:** Avoid fertilizing dormant, drought-stressed, or unhealthy lawns. Ensure your lawn is actively growing and adequately hydrated.
 
-## Weather�s Impact on Fertilizing
+## Weathers Impact on Fertilizing
 
 Weather conditions play a significant role in fertilizer effectiveness and safety.
 
-* **Temperature:** Avoid fertilizing during extreme heat (above 85�F/29�C for cool-season, or prolonged drought for warm-season grasses). High temperatures stress grass, making it more susceptible to burn.
+* **Temperature:** Avoid fertilizing during extreme heat (above 85F/29C for cool-season, or prolonged drought for warm-season grasses). High temperatures stress grass, making it more susceptible to burn.
 * **Rainfall:** Ideally, apply granular fertilizer before a light rain to help water it in. However, avoid applying before heavy downpours, which can lead to runoff and nutrient pollution. If using liquid, apply to a dry lawn and then water in.
 * **Wind:** Avoid applying granular fertilizer on windy days, as it can lead to uneven distribution and product drift onto unintended areas (garden beds, hardscapes).
 
@@ -110,7 +110,7 @@ Deciding between DIY and professional lawn fertilization depends on your comfort
 
 The complexity of "when to fertilize your lawn" stems from the intricate interplay of grass biology, soil science, and environmental factors. There isn't a single universal answer, but rather a set of guidelines tailored to specific conditions. Understanding your grass type is the paramount first step, dictating the prime windows for nutrient uptake and recovery. Following this, conducting a soil test provides an invaluable roadmap for what nutrients are truly needed.
 
-Beyond timing, the *how* of fertilization�using proper application techniques, adhering to label rates, and considering weather conditions�is equally important to avoid common pitfalls like fertilizer burn or nutrient runoff. Ultimately, successful lawn fertilization is an ongoing, adaptive process, not a one-time event. It requires observation, patience, and a commitment to nurturing your turf based on its unique requirements.
+Beyond timing, the *how* of fertilizationusing proper application techniques, adhering to label rates, and considering weather conditionsis equally important to avoid common pitfalls like fertilizer burn or nutrient runoff. Ultimately, successful lawn fertilization is an ongoing, adaptive process, not a one-time event. It requires observation, patience, and a commitment to nurturing your turf based on its unique requirements.
 
 ## FAQs About Fertilizing Your Lawn
 

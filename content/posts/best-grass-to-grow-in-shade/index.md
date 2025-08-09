@@ -99,7 +99,7 @@ When choosing, always identify your climate zone first, then assess the specific
 
 Growing grass in shady areas presents unique challenges beyond just selecting the right seed. Reduced sunlight impacts photosynthesis, leading to weaker grass, while competition from trees for water and nutrients, and often poor air circulation, exacerbate the problem. Success requires careful preparation and optimized planting techniques.
 
-Here�s how to grow grass successfully in shaded areas:
+Heres how to grow grass successfully in shaded areas:
 
 1.  **Assess and Maximize Light:**
     * **Prune Trees and Shrubs:** Before planting, prune lower branches and thin the canopy of nearby trees. This can dramatically increase the amount of light reaching the lawn area. Aim for at least 3-4 hours of direct sun or consistent dappled light.

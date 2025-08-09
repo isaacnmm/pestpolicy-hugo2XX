@@ -23,8 +23,8 @@ You'll use the
 [household baking soda (home remedy)](https://www.onecrazyhouse.com/40-uses-for-baking-soda/)
 , and it won't also require specialized tools, painting knowledge, or equipment. Baking soda will refresh the surface of the hinges and wall paints with no hazardous fumes.
 *In summary, here's how to remove paint from metal with baking soda; *
-- *Fill your large bowl with water (1-quart), place the pot over a fire, and add some baking soda (1/4 a cup) but don't stir and a**llow the water to get to a low boil.�*
-- *Hold the painted metal with tongs, put it inside the baking soda solution (leave for 15 minutes), and finally remove the metal piece - scrub off the paint using a cloth or toothbrush.�*
+- *Fill your large bowl with water (1-quart), place the pot over a fire, and add some baking soda (1/4 a cup) but don't stir and a**llow the water to get to a low boil.*
+- *Hold the painted metal with tongs, put it inside the baking soda solution (leave for 15 minutes), and finally remove the metal piece - scrub off the paint using a cloth or toothbrush.*
 ## Details: How to Remove Paint from Metal with Baking Soda
 Why use baking soda to strip paint? There are many
 methods of removing paint
@@ -47,18 +47,18 @@ painting goggles
 - It is also readily available in the kitchen or at your local grocery store - you'll easily strip the paint from the metal parts.
 ### Step 2: Add Baking Soda
 Next, place the pot (with one quarter-filled water) and then add a
-*1/4 a cup of kitchen baking soda. But don't stir the baking soda hat you've added into the water.�*
+*1/4 a cup of kitchen baking soda. But don't stir the baking soda hat you've added into the water.*
 Let the baking soda settle at the bottom of the pot before low boiling the water over a fire.
 - The baking soda + water solution willremove most paint types from carpetand metal, and it won't damage the material.
 ### Step 3: Low Boil the Water
 Upon turning on your stove, allow the water to low-boil the water with baking soda - turn off the stove once the water begins bubbling lightly.
 Allow the baking soda solution to simmer. Prepare the surface where you'll place the painted item for drying - on the piece of your dry cloth.
 - The eco-friendly paint stripping method willsafely remove paint on your material, including on plastics and metal, with no cases of unpleasant fumes or harsh chemicals.
-### Step 4:� Lower the Metal Piece into the Water
+### Step 4: Lower the Metal Piece into the Water
 Now, hold your painted metal piece with the tongs and lower it into the baking soda + water mixture that's simmering.
 
 Don't let the metal hardware touch each other while in the baking soda mixture - and they must not touch the sides of your pot. Then, leave the metal piece inside the water for about 15 minutes.
-### Step 5:� Let the Mixture Boil for 15 to 20 minutes.
+### Step 5: Let the Mixture Boil for 15 to 20 minutes.
 Boil your baking soda mixture (with the metal piece inside) for roughly 15 to 20 minutes. This boiling process enables the paint on the metal piece to bubble and gets removed.
 The paint will be removed on the principle that metal and paint will expend differently under various temperatures - and this allows an easy breakage of their bond and hence easy stripping.
 Then, get the metal item from your billing water using tongs. Allow it to dry and

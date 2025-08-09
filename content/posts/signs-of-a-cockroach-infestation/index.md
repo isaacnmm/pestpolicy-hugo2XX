@@ -18,7 +18,7 @@ Are you
 [suspecting [cockroaches](https://pestpolicy.com/cockroach-eggs/) in your house](https://pestpolicy.com/how-to-get-rid-of-cockroaches-in-apartments/)
 ? One thing you need to know is that roaches are nocturnal pests and are very active during the night.
 They are very tactical, as they will also hide in crevices and cracks which complicate things.
-**In summary, the signs of a [cockroach](https://pestpolicy.com/cockroach-vs-palmetto-bug/) infestation are roach droppings, live or dead cockroaches, smear marks, shredded roach skin, strong odor, roach egg capsules, plus furniture and property damage.�**
+**In summary, the signs of a [cockroach](https://pestpolicy.com/cockroach-vs-palmetto-bug/) infestation are roach droppings, live or dead cockroaches, smear marks, shredded roach skin, strong odor, roach egg capsules, plus furniture and property damage.**
 
 What is annoying is that they will feed on anything in your home from food, clothes, papers, plastics and anything around then hide only for you to find damages.
 ## **Signs of a Cockroach Infestation - 7 Notable Signs **
@@ -38,7 +38,7 @@ Once in a while when you are likely to spot roaches roaming around the house as 
 - In some extreme cases where there is an over-infestation, you will even see the cockroaches during the day as they try to get something to eat.
 Also, you may also spot them when they are dead due to many factors. These dead roaches mostly appear where there are dropping or eggs around them.
 Related:
-Controlling�Heavy Roach Infestation
+ControllingHeavy Roach Infestation
 ### **3. ****Smear marks **
 Cockroaches have a tendency to leave dark smear trails on the walls as they crawl along.
 These marks are visible where the area is humid and moist. They are also the marks that roaches make to and fro as they get to the source of their food.

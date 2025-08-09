@@ -74,7 +74,7 @@ Chalk Paint for Kitchen Cabinets
 The Valspar Paint offers that great professional finish considering your unique painting technique. You may need to use sprayers, rollers, or
 paint with edging brushes
 .
-Besides, with the Valspar Paint, you won't require to use a primer -� but for
+Besides, with the Valspar Paint, you won't require to use a primer - but for
 priming, before your painting
 , you might need to avoid
 chalk paint

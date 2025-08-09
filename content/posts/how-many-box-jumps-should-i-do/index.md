@@ -65,7 +65,7 @@ Besides, a
 comparing between low- moderate- and high- levels jump has revealed that overdoing the jumps may not bring in the desired results.
 
 This study advocates doing better jumps and at a Moderate-frequency i.e. 2-3 jumps per week. You dont need to perform higher frequency jumps per week to attain positive results. If you do this, youll cause unnecessary stress to your joints and the body wont have enough recovery time.
-## How many�sets and reps of�box jumps should I do?
+## How manysets and reps ofbox jumps should I do?
 If youre a beginner in box jumps you can start with a set of 5 with 510 reps. Rest for 60 seconds between sets to give your body time to recover before you take on the next rep. However, listen to your body and stop if you need to.
 ## Rules for Better Box Jumps
 Just like other workout routines, box jumps are a great workout alternative that you can engage in at the gym. However, its crucial that you do the jumps correctly to avoid injuries. If its your first time jumping go easy on yourself and follow the rules.

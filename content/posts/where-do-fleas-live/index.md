@@ -19,12 +19,12 @@ layout: post
 
 ---
 
-Where do fleas live?�Often-times,
+Where do fleas live?Often-times,
 fleas
 will cause a scare in your home and
 yard - but you can control these bugs
 . Equally important is that fleas will be challenging to track them down and maintain too.
-*In Summary, fleas are mainly ectoparasites & live on pet hosts where they'll suck blood, fleas mate, and ultimately lay eggs. They'll live on the pet hosts and wildlife up-to when they're brushed off, fall off or die.�*
+*In Summary, fleas are mainly ectoparasites & live on pet hosts where they'll suck blood, fleas mate, and ultimately lay eggs. They'll live on the pet hosts and wildlife up-to when they're brushed off, fall off or die.*
 https://www.youtube.com/watch?v=g6vMqrhltxQ
 See top quality flea sprays.
 
@@ -96,7 +96,7 @@ Also,
 flea pupae will only come
 out of their cocoons when they sense high amounts of carbon dioxide, vibrations, or body heat - these alert them that their potential host (cats or dogs) is near.
 ## 4. Where Fleas Live in Yard?
-*Fleas originate from wildlife and hide in the protected and shady outdoors spaces - particularly under leaf and grass piles - leaving flea eggs and flea larvae. Adult fleas will jump onto humans and pets to get into the indoor spaces.�*
+*Fleas originate from wildlife and hide in the protected and shady outdoors spaces - particularly under leaf and grass piles - leaving flea eggs and flea larvae. Adult fleas will jump onto humans and pets to get into the indoor spaces.*
 Do fleas live in the grass? The
 bugs will hide and live
 in tall grass or some wood piles in your yard. So, ensure you
@@ -106,7 +106,7 @@ So, you'll mainly find fleas hiding in the dark, moist, and humid areas of the y
 These yard areas will include moist regions, outdoor furniture (check rugs and cushions), garage or shed, food debris, woodpiles, weeds -
 effective weed killers
 and shrubs, and tall grass.
-## **5. Can Fleas Live On Humans?�**
+## **5. Can Fleas Live On Humans?**
 The regular
 cat and dog fleas prefer pets
 (cats or dogs) since they'll hide in their furry coat. Compared to pets,

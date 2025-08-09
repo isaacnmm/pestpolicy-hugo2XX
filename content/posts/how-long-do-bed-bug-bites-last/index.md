@@ -23,7 +23,7 @@ bed bug bites will mainly last anything from 1-2 weeks (roughly ten days), Thoug
 But,
 baby bed bugs
 have weaker mandibles, and thus their bites won't go deep your skin or last long.
-**Check these bed bug killers.�**
+**Check these bed bug killers.**
 
 ## So, how long do bed bug bites last?
 Even in prevention, sometimes people are just unlucky and can get bitten when on holiday or staying in a rented apartment.
@@ -32,7 +32,7 @@ Even in prevention, sometimes people are just unlucky and can get bitten when on
 These infestations do not just pose health risks, but it can cause property loss and intensive damage to the building and its reputation.
 Check the
 [best drain cleaner](https://pestpolicy.com/best-drain-cleaner//)
-.�Recently I tackled this topic -
+.Recently I tackled this topic -
 Stink Bugs versus Bed Bugs
 .
 ## Identifying Bed Bugs Bite

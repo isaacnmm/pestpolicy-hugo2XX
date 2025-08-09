@@ -18,8 +18,8 @@ Do you own one of these
 [smart bearded [dragon](https://pestpolicy.com/can-bearded-dragons-eat-apples/)](https://pestpolicy.com/how-smart-are-[bearded](https://pestpolicy.com/can-bearded-dragons-eat-bananas/)-dragons/)
 or have you seen one at you field or zoo and even wonder what they actually eat?
 But when it comes to other foods such as onions, you may need to pay a little bit of attention.
-*So, can bearded Dragon Eat Onions?�*
-**The simple answer is No. Never feed bearded dragon with (cooked or raw). Onions are laced with high levels of acids and have high calcium to phosphorous ratio. These components cause indigestion problems along the delicate alimentary canal of Bearded Dragon.�**
+*So, can bearded Dragon Eat Onions?*
+**The simple answer is No. Never feed bearded dragon with (cooked or raw). Onions are laced with high levels of acids and have high calcium to phosphorous ratio. These components cause indigestion problems along the delicate alimentary canal of Bearded Dragon.**
 ## Details: Can Bearded Dragons Eat Onions?
 ### 1. Toxic to their digestive system
 Onions (scientific name
@@ -32,7 +32,7 @@ You will notice mixed reaction when you feed your beard dragon with onions due t
 pet bearded dragon
 to even shed tears (though they dont cry like human beings do).
 - Though scientific research has been done, it has not been able to establish the exact chemical that cause tears and itching sensation on bearded dragon.
-The onion leaves produces slippery fluid between leaf layers, which makes it unpleasant meal for your bearded dragon.� The green leafy onions have hollow inner sections that incubate gas, which causes vomiting to your bearded dragon when eaten.
+The onion leaves produces slippery fluid between leaf layers, which makes it unpleasant meal for your bearded dragon. The green leafy onions have hollow inner sections that incubate gas, which causes vomiting to your bearded dragon when eaten.
 ### 2. High Acidity level
 Onions have high level of acid content, which cause hurt burn and throat discomfort to your bearded dragon when eaten. The Folate (Folic Acid) & ascorbic acid portions found in onions form a high pH environment in chyme within the stomach thus inhibiting normal working of digestive enzymes (high acid levels inactivates the digestive enzymes).
 - Raw onions when eaten causes burning sensation (due to acid content) on the tongue and inner lining of Bearded dragons mouth. This feeling makes the pet get agitated or angry leading to loss of appetiteand they can't mate.
@@ -44,7 +44,7 @@ Proper calcium to phosphorous ratio for your bearded dragon to achieve healthy l
 Onion has other nutritional components that may be of nutritional value for your bearded dragon. For every 100 grams of onions sliced for analysis, the following nutritional components will be found:
 1. Calcium  23 milligrams ,**Phosphorus  29 milligrams**& Potassium  146 milligrams
 2. Iron  0.21 milligrams & Magnesium  10 milligrams
-3. Protein  1.1 gram, Sugars  4.24 grams &��� Carbohydrates  9.34 grams
+3. Protein  1.1 gram, Sugars  4.24 grams & Carbohydrates  9.34 grams
 4. *Folate (Folic Acid)  19 micrograms & Vitamin C (L-ascorbic acid)  7.4 milligrams*
 5. *Pantothenic Acid (B5)  0.123 milligrams*& Niacin (B3)  0.116 milligrams
 By observation, it is clear that the phosphorous (written in bold) levels in sample is far much high as compared to calcium. In addition, the acidity level in different onion nutritional components (written in italic) are far much high too. This means that onions are not suitable for bearded dragon at whatever case.

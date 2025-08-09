@@ -56,7 +56,7 @@ The sofa will come with arm cushions and a USB port to allow you to relax sit wi
 This ergonomic recliner will be an excellent addition to your relaxed room or man cave. The classy sofa increases the aesthetic value of your room while taking care of your body ergonomics.
 Unique Features - Motion recliner sofa, - Tufted backs to increase comfort. - Contrast stitch, - USB port, - Pillow top arm cushions, and chaise style recliners.
 ### [4. Reel Comfort Series 3-Seat Reclining Black Leather](https://www.amazon.com/dp/B0146T9AMY/?tag=p-policy-20)
-Reel Comfort Series 3-Seat Reclining Sofa has a curved design that increases the room d�cor. It has a cup holder wedge and a magazine storage compartment.
+Reel Comfort Series 3-Seat Reclining Sofa has a curved design that increases the room dcor. It has a cup holder wedge and a magazine storage compartment.
 C
 omes with two recliners with levers being recessed. The chairs center recliner comes with a pull handle.
 - Coming with a theatre-style aesthetic, the Reel Comfort Series 3-Seat sofa is a great ergonomic addition to your living room or lounge.

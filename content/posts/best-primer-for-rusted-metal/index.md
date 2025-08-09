@@ -135,7 +135,7 @@ Cons:
 ### [6. Krylon K06903907 Rust Protector Primers](https://www.amazon.com/dp/B008BMP1X0/?tag=p-policy-20)
 Unlike no other rust converters, Krylon K06903907 is unique in the sense that it serves both as a paint and a primer, therefore, eliminating the need to buy rust remover and paint separately.
 
-This in turn makes work easier and faster and therefore achieving two targets with one product. �With multiple colors to choose from this, you get to choose either, semi-gloss, gloss, or the matte finish from the 30 colors available.
+This in turn makes work easier and faster and therefore achieving two targets with one product. With multiple colors to choose from this, you get to choose either, semi-gloss, gloss, or the matte finish from the 30 colors available.
 From the choices available it is pretty clear, that Krylon K06903907 is multi-purpose and gives you exactly what you want for your
 metallic doors
 . The varieties available include a classic and clear gray and red and white oxide.
@@ -158,7 +158,7 @@ Cons:
 > Painting over primed surface
 > ?
 ### [7. Eastwood Rust Converter, One Quart](https://www.amazon.com/dp/B07PPPPKGM/?tag=p-policy-20)
-If you are looking for the most recent high-tech rust removers, then Eastwood is the right choice for you.� Eastwood is multipurpose that halts enduring rust and converts it into a dark layer that prepares the surface for painting.
+If you are looking for the most recent high-tech rust removers, then Eastwood is the right choice for you. Eastwood is multipurpose that halts enduring rust and converts it into a dark layer that prepares the surface for painting.
 
 Unlike other converters, you do not need to do sanding to achieve a smooth paintable surface because Eastwood transforms it for you.
 It is designed with a stronger ability to penetrate the surface than any other available brands and neutralize the available rust.

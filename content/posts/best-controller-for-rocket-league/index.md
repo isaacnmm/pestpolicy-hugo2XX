@@ -25,12 +25,12 @@ Controller for Steam Link
 ## Reviews: 7 Best Controller for Rocket League in 2025
 ### [1. Steam Controller for Great Precise Control - #1 Top Pick](https://www.amazon.com/dp/B016KBVBCS/?tag=p-policy-20)
 Gaming experts usually have to choose between the familiarity of a controller and the precision of a mouse or choose between your coach and your desk. But how about having both?
-The steam controller�is excellent with Rocket League since you can program the grips for drift or boost and acceleration or brake.
+The steam controlleris excellent with Rocket League since you can program the grips for drift or boost and acceleration or brake.
 It comes with innovative rumble support, gentle haptics whine, and inner paddles, which make it comfortable to crouch. The steam community is a major plus!
 The Steam controller will not just be a gamepad but a passport that will give you thousands of games that you could previously only play with a mouse and keyboard on your coach.
 Through its one-to-one positioning, your steam controller will allow you to virtualize familiar controls such as a scroll, mouse, or trackball.
 Further, the controller will enable you to type messages from your court and surf the internet quickly. You can also connect multiple [controllers](https://pestpolicy.com/best-controller-for-retropie/) and have fun gaming with your friends.
-Customizable [controller](https://pestpolicy.com/best-controller-for-steam-link/):�You can customize your steam controller based on different games.
+Customizable [controller](https://pestpolicy.com/best-controller-for-steam-link/):You can customize your steam controller based on different games.
 Also, if you lack time to customize things on your controller layout, you can download a fantastic control scheme on the jump on the Steam Community.
 Dual-stage triggers: The controller has dual-stage triggers that have a digital switch and an analog pull to enable you to improve the competitive game.
 Haptic feedback: The grip buttons or bumpers at the back of the controller and the real-time haptic feedback provided through twin force reactors increase conform in your gaming.
@@ -52,8 +52,8 @@ Microsoft Xbox 360 Wired Controller has a familiar feel and is plug-and-play in 
 It has an ergonomic design, comes with two vibration feedback motors, 2-analog pressure-point triggers, and an 8-way directional pad. Has an integrated 3.5mm port headset.
 Further, if any game will not recognize the controller, you can manually
 [set up the Xbox 36 for the rocket league](https://www.marauderclan.com/topic/375-how-to-play-rocket-league-with-a-controller-on-your-pc/)
-and assign various buttons.�Despite that the controller and other hardware could cost more, it is much cheaper to download games than in different setups.
-*Design:�*
+and assign various buttons.Despite that the controller and other hardware could cost more, it is much cheaper to download games than in different setups.
+*Design:*
 Your Xbox 360 controller will free you from your coffee table and wires, which can be uneasy due to using a keyboard and mouse.
 - The controller is compatible with Xbox 360 and XP PCs and various Microsoft gaming platforms, and it is easy to configure on PC.
 - The controller has Vibration Feedback that will give you an excellent feel of the rocket league game.
@@ -104,7 +104,7 @@ if the plug and play fail. It is a next-gen gamepad that has gesture, voice, and
 Xbox One has innovative Impulse triggers that produce vibration feedback to allow you to experience all the crashes and jolts.
 - The gamepad is ergonomically designed to fit perfectly into your hands.
 - The controller has a sleek design, clean lines, and sharp corners that you will find extremely beautiful to use.
-It comes with an 8-core x86 processor, which will enable you to shift to entertainment or gaming with increased ease.�Also, it is loaded with memory and has an HDMI Pass-Thru.
+It comes with an 8-core x86 processor, which will enable you to shift to entertainment or gaming with increased ease.Also, it is loaded with memory and has an HDMI Pass-Thru.
 Pros:
 - Redesigned designed D-pad, rumble feedback enabled Trigger buttons
 - Fast transfer of data with a new wireless radio, Plug and play

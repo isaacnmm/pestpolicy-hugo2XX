@@ -26,8 +26,8 @@ traps
 steamers
 , or mechanical squashing.
 *When you squash a bed bug, it leaves bed bug eggs, a bloodstain plus a terrible odor. *
-*Bed bugs, like cooked pea or beans, will be easy to squash. But baby bed bugs will be easier to crash - when they've sucked blood.�*
-*You may squash or burst bed bugs with your fingers or shoe leaving behind a red stain from the host's blood.�*
+*Bed bugs, like cooked pea or beans, will be easy to squash. But baby bed bugs will be easier to crash - when they've sucked blood.*
+*You may squash or burst bed bugs with your fingers or shoe leaving behind a red stain from the host's blood.*
 
 ## Details: What Happens When You Squish a Bed Bug?
 When you squash a bed bug that has freshly fed from its host, it'll leave blood and bloodstains on your finger. Any bed bug that hasn't sucked blood for some time will have a hard shell - this means that it won't squash easily.
@@ -103,7 +103,7 @@ You'll find the swallow bugs in cliff swallow nests and barn or other human stru
 - If you have cats and tend to sit around in outdoor spaces - ticks could invade and bite you and other humans.
 Ticks may cause
 [Ehrlichiosis](https://www.mayoclinic.org/diseases-conditions/ehrlichiosis/symptoms-causes/syc-20372142)
-and�Lyme Disease. They'll mainly glue to dense woods, tall grass, shrubs, and leaves.
+andLyme Disease. They'll mainly glue to dense woods, tall grass, shrubs, and leaves.
 For protection, put on protective clothing like and tuck the pant legs plus avoid tick-infested areas.
 ## Conclusion
 Bed bug eggs will be cemented into the crevices and cracks using glue-like substances, including inside wood and fabric. Therefore, it'll be difficult to pick or squash the bed bugs.

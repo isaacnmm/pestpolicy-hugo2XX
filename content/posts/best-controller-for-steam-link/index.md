@@ -15,7 +15,7 @@ layout: post
 ---
 Your
 [Steam Link](https://www.amazon.com/dp/B016XBGWAQ/?tag=p-policy-20)
-will you to seamless stream or mirroring of any steam�content from a
+will you to seamless stream or mirroring of any steamcontent from a
 [steam Machine](https://en.wikipedia.org/wiki/Steam_Machine_(hardware_platform))
 or PC to a TV set.
 - If you own a[steam Link](https://www.amazon.com/dp/B016XBGWAQ/?tag=p-policy-20), you can use it to play steam games using a compatible controller.
@@ -27,7 +27,7 @@ Plug the micro USB cord into the computer through the USB and then plug the othe
 Xbox One S Controller features the key tweaks that are added to the Xbox One controller such as a 3.5mm jack. Read Also:
 Motherboard for i7 6700
 .
-The Xbox One S saw the exit of the chat adapter.�In addition, the controller has a better ergonomic design that will make the device to be comfortable in your hands for its use with�Steam Link.
+The Xbox One S saw the exit of the chat adapter.In addition, the controller has a better ergonomic design that will make the device to be comfortable in your hands for its use withSteam Link.
 - Other additions include the rough controller back, smaller log, and adjusted curve lines.
 - Compared to the Xbox Elite, the Xbox One S has soft bumpers. Also, the Xbox One S allows a high level of customization as it is also available in many colors.
 Despite that headphones and microphone, Bluetooth adapters, flight sticks, racing wheels will not naturally be supported on your steam link, you may utilize
@@ -52,11 +52,11 @@ Compatibility with Steam Link - In rocket leagues, you can use the left-back pad
 Further, you can totally remap each of the buttons on the steam [controller](https://pestpolicy.com/best-controller-for-retropie/) to fit your game. Further, each game on steam is fully customized and laid out for the steam controller.
 - Finally, you may download the community layouts that match your steam link gaming needs.
 - You can also produce and share your favorite control schemes in the community.
-Support -�The steam controller will enable you to enjoy all the Steam games on the Television. Further, it will be great even for all the games that are not designed with controller support.
-The controller allows the use of the Dual-stage triggers either as digital or analog inputs.�Ergonomic design -�The controller is designed with the garner in mind to give him top comfort and experience.
+Support -The steam controller will enable you to enjoy all the Steam games on the Television. Further, it will be great even for all the games that are not designed with controller support.
+The controller allows the use of the Dual-stage triggers either as digital or analog inputs.Ergonomic design -The controller is designed with the garner in mind to give him top comfort and experience.
 For example, the buttons and inputs zones are located with a consideration of their need precision and rate of use.
 It has HD haptic feedback and dual trackpads that youll find helpful in steam link gaming.
-### [3. Dual Shock 4 Controller with clickable touch pad and� Built-in speaker](https://www.amazon.com/dp/B01M6CV5IF/?tag=p-policy-20)
+### [3. Dual Shock 4 Controller with clickable touch pad and Built-in speaker](https://www.amazon.com/dp/B01M6CV5IF/?tag=p-policy-20)
 I can state that you can now connect DS4 to the Steam Link wireless. Steam released
 [official support](http://store.steampowered.com/news/26185/)
 for DS4, which comes with excellent custom configuration.
@@ -84,4 +84,4 @@ Ive reviewed the controllers based on some categories:
 - (3) PC and steam link compatibility
 - (4) Responsiveness  do your buttons provide adequate tact.
 - (5) Gaming experience for bucks.
-**The Steam Link is compatible with the outlined controllers:�**
+**The Steam Link is compatible with the outlined controllers:**

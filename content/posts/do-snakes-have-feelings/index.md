@@ -24,7 +24,7 @@ Related:
 ## Details: Do Snakes Have Feelings?
 Various scientific researchers have proven that snake have feelings. The can show hunger, anger, happiness, fear or respond to touch. However, most snakes show varying emotional reactions towards some of these feelings.
 ### **1. Anger feelings**
-Often, most snakes when angered, they react by biting. They would rebel their enemies by threatening to bite them or spiting their poisonous/venomous saliva. �This defensive reaction is brought by sadness feelings that has materialized/accumulated in them.
+Often, most snakes when angered, they react by biting. They would rebel their enemies by threatening to bite them or spiting their poisonous/venomous saliva. This defensive reaction is brought by sadness feelings that has materialized/accumulated in them.
 
 Snakes generate anger because of life stresses, hunger and reproduction occurrences. When each of these causes of anger materializes, they make snakes to respond with mixed negative reactions that may harm other snakes, pets or humans.
 

@@ -40,11 +40,11 @@ Ensure you have put on the protective and right garments before you set off to s
 In some places you will set the tiller not to shallow in the ground as you may not till the area and give the best results. If the tiller is set to a bigger depth one may find hard rocks and tree roots. Both materials can destroy the tiller and hinder faster process of tilling, so its good to avoid them.
 After that, on the area you wish to till place the tiller now. Once you have well positioned it, hold the tillers handles well with both hands and adjust the blades down. Switch the tiller on and dont forget to keep a firm grip as the blades will slightly jumps up from the soil before the process of digging begins.
 ### 5. Rotate the Tiller Tines to Till the Grass
-Press the clutch level to allow the tines dig into the soil. Start a continuous and slow �forward push as the blades stir up the soil, Tackle the ground in rows for best results. After covering the ground once dont stop. Check these
+Press the clutch level to allow the tines dig into the soil. Start a continuous and slow forward push as the blades stir up the soil, Tackle the ground in rows for best results. After covering the ground once dont stop. Check these
 best garden tillers for women
 .
 You can use a perpendicular pattern to go over the surface again. Make sure you dont miss a single inch while tilling. Leaving some areas untilled and tilling others can lead to poor results.
-After completion of one row, make sure you remove the blades from the soils by pressing down the handles.�Move to a new row and put the blades again into the soils, press the clutch again to allow the tines dig into the soils again.
+After completion of one row, make sure you remove the blades from the soils by pressing down the handles.Move to a new row and put the blades again into the soils, press the clutch again to allow the tines dig into the soils again.
 ### 6. Till Repeatedly until Satisfied
 Keep on moving from one row to another until all the grasses are removed. Do not forget to go over the surface again for the best results.
 After tilling the worksite, go over the surface with a rake for a few minutes to make sure the area is free from debris and is smooth for the desired results.
@@ -54,4 +54,4 @@ One of the key benefits to use a tiller its very fast compared to hand tools hen
 harrows are also effective in refining soil
 .
 One is able to remove grass in a huge portion of land. Second original organic matter is retained in the garden as you turn the sod under.
-Also much energy is not consumed since you will only be pushing the tiller and automatically the blades will cut the grass.�As you know hand tools can be very tiresome and slow hence taking much time in one task.
+Also much energy is not consumed since you will only be pushing the tiller and automatically the blades will cut the grass.As you know hand tools can be very tiresome and slow hence taking much time in one task.

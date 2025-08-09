@@ -13,14 +13,14 @@ tags:
 - evo
 layout: post
 ---
-[Samsung Evo+�32 GB](https://www.amazon.com/dp/B00WR4IJBE/?tag=p-policy-20)
+[Samsung Evo+32 GB](https://www.amazon.com/dp/B00WR4IJBE/?tag=p-policy-20)
 is Samsungs innovative and top-performing MicroSD Memory Card that is suitable for your Raspberry Pi.
 - Samsung Evo+ is uniquely created to satisfy your content generation needs and deliver a larger storage capacity than their predecessor in the Samsung EVO line.
 Right off, let borrow from the
 [previous Raspberry Pi Micro-SD tests](https://pestpolicy.com/best-sd-card-for-[raspberry-pi-3](https://pestpolicy.com/best-heatsink-for-raspberry-pi-3/)/)
 we conducted on the Raspberry Pi 3 Micro-SD card.
 Samsung Evo+ topped the list of the best SD card tested. Here is its performance parameter:
-- 4K random read (8.58�MB/sec)
+- 4K random read (8.58MB/sec)
 - 4K random write (3.12 MB/sec)
 Read Also:
 [Format SD Card to FAT32 from exFAT](https://pestpolicy.com/how-to-format-sd-card-to-fat32/)
@@ -39,4 +39,4 @@ Samsung EVO Plus is NAND powered and will thus easily attain the 100MB/s for the
 Read Also:
 [Heatsink for Raspberry Pi 3](https://pestpolicy.com/best-heatsink-for-raspberry-pi-3/)
 ## Conclusion
-Samsung EVO Plus is an awesome selection for your Raspberry Pi, digital camera, and media recording.�This is mainly due to its superior sequential write and read speeds.
+Samsung EVO Plus is an awesome selection for your Raspberry Pi, digital camera, and media recording.This is mainly due to its superior sequential write and read speeds.

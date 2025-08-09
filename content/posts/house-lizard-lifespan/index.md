@@ -17,9 +17,9 @@ layout: post
 House Lizard Lifespan - Probably you have come across the house lizard (commonly known as house gecko) in your house, yard, compound or zoo and wonder how long
 these vertebrate
 s live. Could House Lizards live just like human beings or survive for a couple of weeks?
-*So, whats the house lizards lifespan?�*
+*So, whats the house lizards lifespan?*
 **The simple answer is, house lizard live for 4 to 6 years on average. However, this lifespan is subject to factors such as the care given, environment/climate and availability of basic needs for the house lizard. **
-**Some house lizards may even live slightly longer than 6 years if the above factors are maintained. On the other hand, skin shedding problems and wounding occurrences may lower the lifespan of the house lizards.�**
+**Some house lizards may even live slightly longer than 6 years if the above factors are maintained. On the other hand, skin shedding problems and wounding occurrences may lower the lifespan of the house lizards.**
 
 ## What's the House Lizard Lifespan?
 The house lizard (also known as house gecko) has a life span of 4 to 6 years on average. This period is subjects to factors such as environment/climate, care given and availability of basic needs.
@@ -41,16 +41,16 @@ House lizards requires basic needs such as proper habitat, food and water and ri
 The presence of food and water is vital for the survival of house lizard. Provide a variety of food such as crickets, ants, flies, leafhoppers, mealworms, grasshoppers, moths, soft shell beetles, pupae of butterflies and moths to your pet house lizard. Lizards that lack enough food and water die earlier (short life span  less than 18 months)
 Provide the right amount of water for your house lizard in shallow bowls and make sure you replace it regularly. You can even provide a small pod in the cage for your house lizard to swim. Lack of right basic needs for your house lizard will reduce its life span.
 **3. Care given.**
-Proper care is vital for the house lizard if you need to boost its lifespan.� Ensure that you take your pet house lizards to veterinary regularly. Monitor the health of your house lizard every 48 hours. Clean the cage regularly and quarantine new pet house lizards for the first one to two months.
+Proper care is vital for the house lizard if you need to boost its lifespan. Ensure that you take your pet house lizards to veterinary regularly. Monitor the health of your house lizard every 48 hours. Clean the cage regularly and quarantine new pet house lizards for the first one to two months.
 Provide stimulation such as mist spay that cause house lizards to relax and active within the cage. You can have rocks, hollows, plants and hideouts within the cage. You can even hide food for your house lizard to make it do something else.
 House lizards that have been given continuous proper care have lived even more than 6 years.
-## **Health Problems That Affect the Lifespan of House Lizard�**
+## **Health Problems That Affect the Lifespan of House Lizard**
 The following are problems that affects the lifespan of the House Lizards mostly:
 **1. Wounding Problem.**
 House lizards have soft skin that is easily wounded. Scratch from the walls or spikes on the house lizards skin cause mild to severe wounds.
 Normally, House Lizards would prefer to roll on soft surfaces. You must ensure that the substrate in the cage does not cause injuries on landing or while moving about. You can also provide some soft beddings in your House lizards hideout.
 House lizard are easily wounded when they fall due to their soft skin. Their skin also get ruptured by impact force. The scratch from the paws of the other lizards while playing cause back and skin wounds. These would leads to severe bleeding and their autotomy nature (self-amputation of tail in case of danger) may lead to death if not attended.
-Lizards that are often wounded have lower lifespan (1 to 2 years) whereas those house lizards that are less wounded have longer lifespan (4 to 6 years).�NB: In case your pet lizards are wounded, seek quick medication from your vet.
+Lizards that are often wounded have lower lifespan (1 to 2 years) whereas those house lizards that are less wounded have longer lifespan (4 to 6 years).NB: In case your pet lizards are wounded, seek quick medication from your vet.
 **2. Skin Shedding Problem.**
 House Lizards do shed their skin often (after every 4 to 6 weeks). They, then, eat their skin such that you may not notice easily. However, their skin color change can be noticed.
 Contrary, some house lizards have problem while shedding their skin. You will notice a thick/excess skin at the neck, back/dorsal, tail, at the head and around the eye due to the unshed skin. This skin cause extreme pain, unhappiness and continued discomfort to your house lizard.

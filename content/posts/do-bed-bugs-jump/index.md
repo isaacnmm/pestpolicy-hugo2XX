@@ -19,10 +19,10 @@ Theres a common belief that
 can jump! Well, bed bugs are crafty creatures and youll find them anywhere in the house.
 
 Youll find them on your bed, inside furniture, on walls and even on the celling. But do they jump from one place to another.
-**A short answer is  No. Bed bugs cant jump. Their legs are meant for crawling rather than jumping. Their lack of wings also prevents them for flying around. However, they can crawl at relatively high speeds (about 1m per minute).�**
+**A short answer is  No. Bed bugs cant jump. Their legs are meant for crawling rather than jumping. Their lack of wings also prevents them for flying around. However, they can crawl at relatively high speeds (about 1m per minute).**
 Related:
 Pictures of Bed Bugs
-## **Details: Do Bed Bugs Jump? - Bedbug Movement�**
+## **Details: Do Bed Bugs Jump? - Bedbug Movement**
 Therere several household pests that look like bed bugs. So, when you see small creatures jumping from one place to another you might be tempted to think you have bed bugs.
 
 Well, the first pests you should rule out are bed bugs. Unlike fleas, bed bugs cannot jump around. Their short limbs and flat bodies are designed for crawling  Not jumping. Thus, you dont expect them to jump into your clothes or items.
@@ -39,7 +39,7 @@ Perhaps their most outstanding means of mobility is crawling and climbing on thi
 
 However they wont climb on all surfaces. Polished surfaces such as glass and porcelain tend to be too smooth for bed bugs to climb. Also rugged surfaces such as those covered with fur and hair prove difficult for bed bugs to navigate.
 
-Their small hooks get stuck on these materials.�Thats why you wont find bed bugs on your hairy pets or animals.
+Their small hooks get stuck on these materials.Thats why you wont find bed bugs on your hairy pets or animals.
 
 Related:
 Can Bed Bugs Get in Your Hair?

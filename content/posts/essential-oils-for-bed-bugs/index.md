@@ -19,7 +19,7 @@ Whenever conventional bed bug treatments fail, many homeowners opt for natural t
 [including essential oils](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4592615/)
 . But do they really work effectively?
 *Well, many essential oils have been in use for pest control for decades. These include lavender, tea tree oil, thyme, peppermint, among others. *
-*Let's get started!�*
+*Let's get started!*
 
 ## Essential Oils For Bed Bugs - Top 9 Oils
 ### **1. Lavender oil for Bed Bugs**
@@ -51,7 +51,7 @@ Therefore, when using a lavender essential oil, it is important to spray every c
 ### **2. Tea Tree Oil for Bed Bugs**
 Tea tree essential oil has natural insecticide
 and insect repellent properties, making it an ideal remedy for eradicating insects, including bed bugs. Tea tree oil is a natural solvent.
-When it gets into contact with the insects exoskeleton, it dissolves into the internal fluids and suffocates them to death.�When sprayed
+When it gets into contact with the insects exoskeleton, it dissolves into the internal fluids and suffocates them to death.When sprayed
 directly on bed bugs
 , tea tree oil will kill bed bugs and repel them from the area.
 To use it on bed bugs, dilute about 20 drops of the oil and spray
@@ -68,7 +68,7 @@ bed bugs
 and deter them from coming to your house.
 Use the thyme essential oil, dilute about 10 drops with water and spray directly on the infected area. Or you can put the leaves in a net and place them in the affected places.
 Set the leaves under the mattress, cushion, or inside the cupboard to repel the bed bugs. Alternatively, you can burn thyme sticks near the infested area.
-To completely repel bed bugs, you need to apply these procedures for at least 30 days.�To
+To completely repel bed bugs, you need to apply these procedures for at least 30 days.To
 kill bed bugs
 , you need to spray the bed bugs with undiluted thyme essential oil.
 However, it is not safe to use undiluted thyme oil near your kids or pregnant women. Besides, the oil can increase the blood pressure to dangerous levels in some individuals.
@@ -79,7 +79,7 @@ unbearable to pests, including bed bugs
 .
 This makes it a safe substance to get
 rid of bed bugs
-from our premises.�To
+from our premises.To
 repel bed bugs
 , spray them with diluted peppermint. It works best when applied directly on the infested places.
 You can also soak cotton balls in peppermint and place them around the infested areas. This will only help repel
@@ -87,7 +87,7 @@ bed bugs and deter them from the area
 . When applied directly to the bed bugs, undiluted peppermint essential oil will kill them instantly.
 However, concentrated peppermint oil can cause a severe burning sensation when it comes into contact with your skin. To reduce the burning effect, peppermint can be diluted with an appropriate oil such as carrier oil.
 Related:
-**Vinegar will kill bed bugs?�**
+**Vinegar will kill bed bugs?**
 ### **5. Lemongrass oil for Bed Bugs**
 Lemongrass essential oil kills bedbugs by creating unfavorable conditions around the insect. When sprayed directly on the insect, lemongrass oil raises the acidity level inside the
 body of the bed bug
@@ -103,7 +103,7 @@ and deterring them from your house. To use lemongrass oil on bed bugs, follow th
 Cedar oil spray has been in use as an insect repellent for many decades. Many insects, including bed bugs, dislike the scent of cedar oil.
 So, when
 sprayed along the areas affected by bed bugs
-, it is possible to repel them. However, you wont kill bed bugs with cedar oil.�To prepare your cedar oil spray, dilute one teaspoon of the oil with one cup of water.
+, it is possible to repel them. However, you wont kill bed bugs with cedar oil.To prepare your cedar oil spray, dilute one teaspoon of the oil with one cup of water.
 Put the solution in a spray bottle and spray directly on the infested places. This will repel bed bugs from their hideouts and deter them for a few days.
 Cedar oil can also be applied using a steamer to kill bed bugs and their eggs. Steam treatment will effectively
 kill the bed bugs and their eggs

@@ -38,7 +38,7 @@ Cons:
 - Needs to be sprayed carefully
 - Is not pet-friendly
 - Only kills and does not prevent weed growth
-### [2. Preen Extended Preventer� Weed Preventer](https://www.amazon.com/dp/B074J5699N/?tag=p-policy-20)
+### [2. Preen Extended Preventer Weed Preventer](https://www.amazon.com/dp/B074J5699N/?tag=p-policy-20)
 This solution, like the Preen Garden Weed Preventer discussed above, is more of a weed preventer than a weed killer.
 
 The Preen extended control weed preventer prevents weed and wild grass seeds from germinating and averts their growth before they can even bud.

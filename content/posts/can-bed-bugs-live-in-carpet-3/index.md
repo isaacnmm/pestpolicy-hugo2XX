@@ -18,8 +18,8 @@ Bed bugs! Their name is quite deceiving.Mainly, youll find these pests living in
 [suck human blood](https://pestpolicy.com/what-do-[bed-bugs](https://pestpolicy.com/bed-bug-bites-vs-mosquito-bites/)-eat/)
 . But, can [bed](https://pestpolicy.com/bed-bug-bites-vs-other-bites/) bugs live in carpet?
 **The simple answer is, YES, bed bugs can live in the carpet and other dark locations. This is particularly common in the gap between the carpet and baseboard and **
-**edges of the carpet behind your furniture.�**
-**The carpet is a great spot for females to lay eggs.�**
+**edges of the carpet behind your furniture.**
+**The carpet is a great spot for females to lay eggs.**
 So, lets get started!
 ## **Can Bed Bugs Live in Carpet?**
 Bed bugs prefer hiding in locations where it is easy for them to bite on a host (here's how to
@@ -73,7 +73,7 @@ Now, the contents of the canister are little debris which can be easily differen
 The part of carpet that is tacked behind sofa sets, cabinets or beds is very dark, meaning it is a safe haven where bed bugs can hide and breed. To inspect this place, youll need some extra muscle to move things around.
 
 If youve bed bugs in your carpet, then this part of the house could be harbouring a host of them. Some will be on the carpet and others on the furniture just close to the carpet.
-**Conclusion�**
+**Conclusion**
 Bed bugs can get in your carpet and give you a hard time to eradicate. However, with the above remedies, you can easily get these pesky insects out of your carpet.
 
-These include diatomaceous earth, borax powder, heat treatment, steam treatment and vacuuming.�I recommend using a combination of these remedies to eradicate bed bugs and prevent future infestation.
+These include diatomaceous earth, borax powder, heat treatment, steam treatment and vacuuming.I recommend using a combination of these remedies to eradicate bed bugs and prevent future infestation.

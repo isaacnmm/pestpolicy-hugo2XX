@@ -17,8 +17,8 @@ Have you ever considered painting your metal [interior](https://pestpolicy.com/b
 
 Often, homeowners face challenges when coating [metal](https://pestpolicy.com/best-paint-for-metal-garage-door/) interior door, especially while selecting the paint and prepping the surface. Undertaking wrong painting procedure and paint preparation has always led to peeling, chipping, and scuffing. Could you be facing similar problems?
 *On how to paint a metal interior door, choose the right tools and material, remove the door and hardware (if not fixed permanently), clean the door with a degreaser, and remove old paints before sanding the surface.*
-*Further, select and prepare the primer as per the manufacturers instructions, gently apply the primer, select and prepare the finish paint, apply to finish paint intermittently to achieve quality stickiness, and leave the door to dry naturally before replacing the hardware and fixing it back.�*
-*Notably, wear the protective gear for safety purposes and consider a professional painter in case you are new to painting activity. Remember, quality paint finish is a function of adherence to instructions and procedures given in this article.�*
+*Further, select and prepare the primer as per the manufacturers instructions, gently apply the primer, select and prepare the finish paint, apply to finish paint intermittently to achieve quality stickiness, and leave the door to dry naturally before replacing the hardware and fixing it back.*
+*Notably, wear the protective gear for safety purposes and consider a professional painter in case you are new to painting activity. Remember, quality paint finish is a function of adherence to instructions and procedures given in this article.*
 ## Details: How to Paint a Metal Interior Door
 ### a. Select material needed when painting
 - A paintbrush and Screwdriver

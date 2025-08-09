@@ -20,7 +20,7 @@ Right? Well, it may not be that peaceful if you have wasps infestation in your h
 [control these wasps](https://extension.unh.edu/resources/files/Resource000532_Rep554.pdf)
 .
 
-Could be you have come across Fake Wasps Nests  a perfect designed, non-toxic wasps trap that lure the wasps into death chamber.� So, my question is, do fake wasps nests work?
+Could be you have come across Fake Wasps Nests  a perfect designed, non-toxic wasps trap that lure the wasps into death chamber. So, my question is, do fake wasps nests work?
 **Yes! Fake Wasps Nests are designed in a shape that resembles the own wasps made nest. The wasps are tricked to think that there are already existing wasps in the territory. **
 **The human-made decoy fools the wasps to fly into the chamber where they get trapped and killed through suffocation.**
 Lets get into details.
@@ -47,7 +47,7 @@ Wasps lives in colonies within your home or compound. They can harm your humans 
 
 Fake wasps nest are supposed to eliminate these insects in a peaceful way. To realize this, the wasps are expected to fly into the Fake Wasps Nest where they get trapped and killed.
 
-This method is a simple way of ensuring that you do not cause commotion in wasps hideouts during eradication.�It is risky to allow wasps infestation in your home/compound/place  they multiply relatively fast posting threats to the occupants.
+This method is a simple way of ensuring that you do not cause commotion in wasps hideouts during eradication.It is risky to allow wasps infestation in your home/compound/place  they multiply relatively fast posting threats to the occupants.
 ## What makes Fake Wasps Nest Ineffective?
 The Fake Wasps Nest may not be as effective as you might expect. This is attributed mainly by the behavior of different species of wasps. Research shows that, most wasps do not like living in artificial Fake Wasps Nests. Instead, they prefer to build their own wasps nests.
 
@@ -77,7 +77,7 @@ You must continuously monitor the wasps occurrences in case you notice some in y
 ## Can Wasps Re-Use Their Own Made Nest?
 No! In the real life, wasps wont opt to go for their old abandoned nest. Naturally, during winter, most of male wasps die due to advance weather conditions.
 
-The queen is, then, forced to leave and search for a new place to hibernate until summer.�During the following year, the wasps would build other nests in their new location, abandoning their previous nests completely.
+The queen is, then, forced to leave and search for a new place to hibernate until summer.During the following year, the wasps would build other nests in their new location, abandoning their previous nests completely.
 
 Sometimes, the queen may return to the old place but wont live in the old nest. Instead, the queen wasps would make a new nest near to the old one and begin to breed. This behavior tell you that the Fake Wasps Nests may not be an option for the wasps on return thus rendering them ineffective.
 

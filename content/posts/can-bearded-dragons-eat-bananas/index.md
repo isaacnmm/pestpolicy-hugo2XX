@@ -18,15 +18,15 @@ layout: post
 are widely eaten at homes in cooked form or as snacks when ripe. It concerns many whether
 [bearded dragons can feed](https://pestpolicy.com/what-do-bearded-dragons-eat/)
 on bananas, whether ripe or raw. May be you even wonders if banana peels, leaves or stems can be used to feed these lizards.
-*So, can bearded dragon eat bananas? The direct answer is YES!� Bearded dragons will comfortably feed on bananas whether ripe or unripe. Bananas have rich vitamin composition (needed to boost immunity), high dietary fibers (specially unripe bananas  which prevents constipation), high potassium content (needed to regulate blood pressure and kidney stones).�*
-*Bananas have strong antioxidants (dopamine, catechins  reduces heart diseases), low salt and sugar content (especially unripe bananas- which reduces diabetes and teeth decay), low water level (that reduce over hydration) as well as rich mineral components such as folate, iron, niacin, riboflavin, magnesium, manganese & calcium, which improves growth and development of bones, tissues and organs.�*
+*So, can bearded dragon eat bananas? The direct answer is YES! Bearded dragons will comfortably feed on bananas whether ripe or unripe. Bananas have rich vitamin composition (needed to boost immunity), high dietary fibers (specially unripe bananas  which prevents constipation), high potassium content (needed to regulate blood pressure and kidney stones).*
+*Bananas have strong antioxidants (dopamine, catechins  reduces heart diseases), low salt and sugar content (especially unripe bananas- which reduces diabetes and teeth decay), low water level (that reduce over hydration) as well as rich mineral components such as folate, iron, niacin, riboflavin, magnesium, manganese & calcium, which improves growth and development of bones, tissues and organs.*
 
 ## Can Bearded Dragons Eat Bananas?? 7 Secrets
 **Yes, but**
 bananas shouldnt be fed as the main meal since they contain low calcium: phosphorous ratio (leads to metabolic bone disease). These are the key considerations in
 [caring for beaded dragons](https://www.texvetpets.org/article/bearded-dragons-cold-blooded-companions/)
 .
-They have relatively high sugar level (some ripe bananas � causing diabetes) as well as low glycemic index (controls carbs uptake into the bloodstream). Controlled and supplemented banana feeding is therefore required.
+They have relatively high sugar level (some ripe bananas  causing diabetes) as well as low glycemic index (controls carbs uptake into the bloodstream). Controlled and supplemented banana feeding is therefore required.
 ### 1. Rich Vitamin Composition
 Bananas are rich in vitamin A (10.67mg - which is necessary for normal vision, boosts reproduction and immune system), vitamin B1 (that helps in breakdown of carbohydrates to give energy on your beardie as well as boost nerve signals).
 Bananas also have vitamin B6 (0.4mg-needed for creation of red blood cells and metabolism of protein & fat) and vitamin C (8.4mg-necessary for growth & development as well as repair of all worn out body tissues).
@@ -44,7 +44,7 @@ https://www.youtube.com/watch?v=rFL6Bmecvxs
 ### 4. Strong Antioxidant
 Bananas (especially Cavendish species) are considered to have high antioxidants such as dopamine, cetachins and gallocatechins. Gallocatechins will help reduce cholesterol (that cause clogging of inner lumen of blood vessels) accumulation in your beardie by breaking any cholesterol traces.
 On the other hand, dopamine will enhance oxidation of low-density lipoproteins and reduce plasma oxidative stress.
-Importantly, the Trans-� carotene and cetachins found in bananas will further help reduce heart diseases and generative illness that may attack your beardie.
+Importantly, the Trans- carotene and cetachins found in bananas will further help reduce heart diseases and generative illness that may attack your beardie.
 ### 5. Low Salt and Sugar content
 Apple bananas, cooking banana and Williamss banana species have low salts and sugar levels, especially when raw. There is actually 4.5mg to 12mg sugar for every 145g of banana fruits.
 Starch in unripe bananas inhibits salts and sugar concentration - just like with
@@ -85,7 +85,7 @@ in a ratio of 1:3.
 8. You should supplement banana feeds with main diet always. Feed 250g to 600g of bananas per given meal.
 ***NB***
 : Its necessary to feed you beardie with bananas nearing to ripen than feeding them with immediate or over ripen bananas.
-## **How Often Should You Feed Your Bearded Dragon?�**
+## **How Often Should You Feed Your Bearded Dragon?**
 Bananas should be used as occasional meal due some problems (mentioned in this article) that may arise when used as main diet for your bearded dragon. Feed your beardie once or twice per month with banana salad.
 Avoid excess use of green bananas combination when preparing the meal since they have very low glycemic index that lowers the carbs uptake rate.
 Baby beardie shouldnt be fed using immediate harvested unripe bananas or fully ripe bananas as this may affects its digestive track or make it docile.
@@ -114,7 +114,7 @@ You will have to select banana species such as Williams that has higher glycemic
 ### **6. Bananas with low calcium: phosphorous ratio**
 Most banana species have low calcium: phosphorous ratio thus occasional feeding is recommended. However, some banana species have higher ratio than others do. Therefore, you are required to select those bananas that have higher calcium: phosphorous ratio in order to reduce occurrence of metabolic bone disease that may occur.
 ## Conclusion
-So,�can bearded dragons eat bananas?
+So,can bearded dragons eat bananas?
 [Bearded dragons will not only eat](https://pestpolicy.com/can-bearded-dragons-eat-mango/)
 bananas, but will also feed on their peels and leaves. However, bananas should not be used as main diet. Occasionally, feed your beardie with 250g to 600g of banana salad that is supplemented with other main meal.
 Avoid banana species that have high sugar level, low glycemic index as well as low calcium: phosphorous ratio. Importantly, always engage qualified veterinary to provide medical checkups after every 3 months in case you often feed your beardie with bananas.

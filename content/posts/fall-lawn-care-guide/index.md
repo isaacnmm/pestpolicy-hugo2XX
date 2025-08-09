@@ -97,7 +97,7 @@ Fall is an excellent time to tackle broadleaf weeds.
 
 * **Target Weeds:** Weeds like dandelions, clover, plantain, and creeping Charlie are actively storing energy in their roots in the fall, making them highly susceptible to systemic herbicides.
 * **Pre-Emergent Herbicides:** For temperate climates, apply a pre-emergent herbicide in early spring to prevent summer annual weeds. Fall pre-emergents target winter annuals.
-* **Post-Emergent Herbicides:** Apply a liquid broadleaf weed killer when weeds are actively growing but temperatures are mild (between 10-25�C / 50-75�F). Look for products containing combinations of 2,4-D, MCPP, and dicamba.
+* **Post-Emergent Herbicides:** Apply a liquid broadleaf weed killer when weeds are actively growing but temperatures are mild (between 10-25C / 50-75F). Look for products containing combinations of 2,4-D, MCPP, and dicamba.
 * **Spot Treat:** For scattered weeds, spot treat rather than blanket-spraying the entire lawn.
 
 ---

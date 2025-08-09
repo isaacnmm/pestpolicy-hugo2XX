@@ -15,8 +15,8 @@ layout: post
 ---
 A tiller will help you in turning and aerating the soil in your vegetable garden or farm.
 - So, for tillingraised flower bedsornew ground, a tiller has gained increased attention among DIY gardeners. Therefore, Ive made a[choosing-the-right-tiller](https://www.motherearthnews.com/organic-gardening/choosing-the-right-tiller)- front tine vs. rear tine [tillers](https://pestpolicy.com/best-rear-tine-tiller/).
-**Rear [tine](https://pestpolicy.com/how-to-use-a-rear-tine-tiller/) tillers have more power - hence are appropriate for tilling larger and open gardens. But they're equally heavy and costly compared to front-tine tillers.�**
-**But front tine tillers enable closer tilling for small spaces and around most obstacles. They are also cheaper than comparable rear tine tiller - considering power and size.�**
+**Rear [tine](https://pestpolicy.com/how-to-use-a-rear-tine-tiller/) tillers have more power - hence are appropriate for tilling larger and open gardens. But they're equally heavy and costly compared to front-tine tillers.**
+**But front tine tillers enable closer tilling for small spaces and around most obstacles. They are also cheaper than comparable rear tine tiller - considering power and size.**
 ## Details: Front Tine vs. Rear Tine Tillers - Differences?
 **- For new uncultivated Ground**
 : You might want to consider renting or buying a rear tine tiller. Its counter-rotating tines are just what you need to get started.

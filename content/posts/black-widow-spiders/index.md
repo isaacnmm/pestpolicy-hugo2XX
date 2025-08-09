@@ -49,7 +49,7 @@ The black widows or the Latrodectus spiders will occupy temperate areas includin
 The black widows win spin webs outside of inside buildings, especially in the corners and areas near homes occupied by humans.
 - Black riddles will hide in woodpiles and crevices plus other secluded areas that have darkness.
 In the house, these spiders will hide areas such as cluttered places, closets, basements, dark corners, and garages.
-### 3.�Items / Foods Eaten By the Black Widows.
+### 3.Items / Foods Eaten By the Black Widows.
 Just like with other spiders the Black widows will mainly feed on various arthropods such as scorpions, cockroaches, beetles, grasshoppers, and ants.
 - For example, the Black widow may trap flies using their webs and eat them.
 Also, these spiders will feed on various insects and spiders that are trapped in their webs.

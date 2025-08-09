@@ -28,8 +28,8 @@ kill effect on the whole roach
 colony.
 The included straw has a tube-like design thatll allow the homeowner to place the
 roach killing
-powders to the deepest of the cracks and crevices.�But, being a chemical, boric acid must not be ingested by humans, pets, and livestock as it can be poisonous to them.
-## **Condensed milk mixture�**
+powders to the deepest of the cracks and crevices.But, being a chemical, boric acid must not be ingested by humans, pets, and livestock as it can be poisonous to them.
+## **Condensed milk mixture**
 It would help if you mixed the boric acid roach killer with condensed milk, creating a thick paste thats highly attractive to top efficiency roaches. This will help confuse some roaches and bugs that will readily avoid eating some
 roach baits
 with a specific smell, color, or shape.
@@ -53,7 +53,7 @@ Ingesting high amounts of the roach acid powders can cause a coma, seizures, tre
 killing powder
 may trigger a burning or irritating feeling on your skin and eyes.
 Therefore, when making the boric acid application, you'll need to wear protective goggles and gloves to safeguard and block your eyes, mouth, and nose. However, exposure to low levels of boric acid may cause hives, rashes, burning sensation on your nasal passages, and dry throat.
-## **Compare�Borax vs.�Boric Acid�**
+## **CompareBorax vs.Boric Acid**
 First things first, both borax and boric acid are extracted from the mineral boron. Further, you can both of these chemicals to kill roaches and other insects.
 But borax is used in toothpaste, laundry detergent, or
 dish soap

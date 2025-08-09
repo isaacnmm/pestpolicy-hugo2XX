@@ -60,7 +60,7 @@ Spring Green, like many national lawn care companies, typically offers a range o
     * **Perimeter Pest Control:** Treatments around the foundation of the home to deter insects.
     * **Winterizer Application:** A fall fertilizer designed to prepare the lawn for winter dormancy.
 
-A review would specifically list the typical number of applications per year for core programs and detail the scope of each specialty service, including whether they are bundled or offered � la carte.
+A review would specifically list the typical number of applications per year for core programs and detail the scope of each specialty service, including whether they are bundled or offered  la carte.
 
 ## Spring Green Cost
 

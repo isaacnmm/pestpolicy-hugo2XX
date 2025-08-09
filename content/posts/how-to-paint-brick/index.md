@@ -30,7 +30,7 @@ during paint application for personal safety and adhere to precautions highlight
 - Using a blower, blow off dust and surface debris from bricks gently. Alternatively, you can sweep using a broom or vacuum the surface.
 - Fill an empty bucket with water and mop the surface - to remove finite dirt and dust particles
 - Leave the surface to dry
-To gain in-depth information, let us get into the details.�The materials and tools required are;
+To gain in-depth information, let us get into the details.The materials and tools required are;
 - Wire Brush and a paint brush
 - Sanderand gloves
 - Primer and empty bucket

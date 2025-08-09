@@ -90,4 +90,4 @@ Follow these steps for a thorough winterization process:
 
 ## Final Thoughts on Winterizing
 
-Winterizing your lawn is an investment in its future health. It's about providing the right conditions and nutrients at the right time to help your grass build resilience against the dormant season. While it requires a bit of effort in the fall, the reward is a stronger, healthier lawn that wakes up earlier, looks better, and requires less intensive care come spring. Don't skip these crucial steps � your lawn will thank you for it!
+Winterizing your lawn is an investment in its future health. It's about providing the right conditions and nutrients at the right time to help your grass build resilience against the dormant season. While it requires a bit of effort in the fall, the reward is a stronger, healthier lawn that wakes up earlier, looks better, and requires less intensive care come spring. Don't skip these crucial steps  your lawn will thank you for it!

@@ -29,7 +29,7 @@ The garden planner solves a number of your headaches like helping you determine 
 - It has a lot of ready-designed objects like compost bins, sheds, fences that are dropped right to your garden.
 Objects include sheds, fences, and compost bins, which can be adjusted to fit your space. Click on the plant you want to add, and then on the place where you want to plant it.
 Hold and drag your mouse to draw a block or row. As you add plants, the space required is clearly shown by a colored space around the plant.
-The tooltip feature displays the number of plants that can fit in that area.�Related:
+The tooltip feature displays the number of plants that can fit in that area.Related:
 [Front Tine vs. Rear Tine Tillers](https://pestpolicy.com/front-tine-vs-rear-tine-tillers/)
 ### 2. Kill the existing weeds/grass
 Secondly, you need to kill weeds or grass to ensure it doesn't shoot up anymore.

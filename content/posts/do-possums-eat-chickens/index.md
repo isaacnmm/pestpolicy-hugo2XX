@@ -42,14 +42,14 @@ calcium vegetables, chicken crockpot, and bones.
 Also, what smells do the possum hate? Well, these animals won't love
 ammonia - so I would recommend you pour some ammonia into that coffee container.
 ### How to Stop Possums from Killing My Chicken?
-**1. Remove chicken or pet food�**
+**1. Remove chicken or pet food**
 Avoid leaving chicken or pet food lying around overnight. Such idle foods tend to attract the possums.
 
 Put the chicken or pet food in some metallic (and air-tight ) containers - this will prevent the mother possum from nesting around and rearing their babies.
 
 The possums and their younglings will eventually take over your spaces - and this will endanger you5r chicken as the adult possums will think that the food belongs to their babies.
-**2. Line the Chicken coop with 10-inch tin�**
-Line the chicken coop with some 10-inches tin to bar possums eating up the wood-� they won't attack the chicken easily.
+**2. Line the Chicken coop with 10-inch tin**
+Line the chicken coop with some 10-inches tin to bar possums eating up the wood- they won't attack the chicken easily.
 
 So, lining up the chicken structures with tin inside and outside - this is because the possums won't chew on the tin.
 **3. Don't Leave Chicken Eggs overnight**
@@ -58,12 +58,12 @@ Next, I caution against leaving the chicken eggs overnight in that coop.
 This is because the scent of the egg
 will attract predators including raccoon's
 , skunks, and possums.
-**4. Place Mothballs and Ammonia�**
+**4. Place Mothballs and Ammonia**
 Next, position some mothballs and ammonia (odour or stink) as these will help remove the possum from its hiding area.
 
 So, pour the ammonia onto some coffee container and place a wick (towel or rag) that'll help disperse the stinking fumes.
 - Check locations that look like possum shelters and place the mothballs or ammonia
-**5. Pour Wolf or Fox Urine repel possums�**
+**5. Pour Wolf or Fox Urine repel possums**
 Skunks, raccoons, and possums won't get near that chicken coop or nearby hiding areas that have wolf or fox urine.
 - You may also use the fox-urine granules (Shake-Away) by the brand name as they'll repel and scare off the rodents and possums.
 Besides, you may use human urine to repel the possums around the
@@ -73,7 +73,7 @@ Possum traps will also be a great addition to the feature in reducing chicken de
 - Some baits suitable for the possum trap includeapples, peanut butter, vegetables, berries, and fruit.
 But remove these traps around the morning time to prevent catching other small pets or even your chickens.
 https://www.youtube.com/watch?v=GQcqgdEfsyQ
-**7. Fencing�**
+**7. Fencing**
 Fencing around that yard or garden will also hinder possums from reaching your chicken.
 - Definitely, their strong teeth won't tear down that fence - but avoid chicken wires as they're too weak.
 Further, don't allow drinkable water around your garden or yard as this will attract possums that may attack your chicken.

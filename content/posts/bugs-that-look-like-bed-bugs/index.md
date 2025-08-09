@@ -14,7 +14,7 @@ tags:
 - bed
 layout: post
 ---
-Bed bug look-alikes often make it hard to identify bed bugs, which eventually results in wrong eradication methods.�If you dont know the characteristics of common of bugs in your house, it is possible to mistake them
+Bed bug look-alikes often make it hard to identify bed bugs, which eventually results in wrong eradication methods.If you dont know the characteristics of common of bugs in your house, it is possible to mistake them
 [for bed bugs](https://pestpolicy.com/best-bed-bug-steamer/)
 .
 

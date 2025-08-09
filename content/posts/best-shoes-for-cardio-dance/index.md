@@ -53,7 +53,7 @@ The midsole also features FlyteFoam technology, which is a lightweight, and high
 
 The molded EVA sockliner and the Ortholite X-40 technology ensure you have a better fit and extra cushioning and underfoot support.
 
-The outsole of Nimbus 22 also features a durable AHAR material.�This rubber compound provides protection against abrasion. The flex grooves located beneath the outsole also provide excellent traction on wet or dry surfaces.
+The outsole of Nimbus 22 also features a durable AHAR material.This rubber compound provides protection against abrasion. The flex grooves located beneath the outsole also provide excellent traction on wet or dry surfaces.
 
 The upper is an engineered monofilament fabric thats extremely lightweight and smooth. The fabric adds extra comfort to feet and allows fresh air into the shoe for a cool and dry cardio dance experience. The upper also holds the foot in place for a secure fit.
 

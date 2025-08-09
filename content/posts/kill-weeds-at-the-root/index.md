@@ -230,7 +230,7 @@ While many weed problems can be tackled by a diligent homeowner, there are speci
     * If you're unsure what type of weed you're dealing with, or if you suspect a particular disease or pest is contributing to your lawn's weakness (making it susceptible to weeds), a professional can accurately diagnose the problem. Misidentification leads to ineffective treatments.
 
 3.  **Compacted Soil Requiring Aeration/Dethatching:**
-    * While you can rent equipment, power core aerators and dethatchers are heavy, cumbersome machines. If your lawn is severely compacted or has a thick thatch layer (over � inch), professional aeration and dethatching services will be more efficient and thorough. Proper aeration is crucial for lawn health and weed prevention.
+    * While you can rent equipment, power core aerators and dethatchers are heavy, cumbersome machines. If your lawn is severely compacted or has a thick thatch layer (over  inch), professional aeration and dethatching services will be more efficient and thorough. Proper aeration is crucial for lawn health and weed prevention.
 
 4.  **Desire for a Perfect Lawn with Minimal Effort:**
     * For homeowners who want a pristine, weed-free lawn but lack the time, tools, or interest in ongoing DIY maintenance, a professional service provides consistent, year-round care, including fertilization, weed control, and often pest and disease management.

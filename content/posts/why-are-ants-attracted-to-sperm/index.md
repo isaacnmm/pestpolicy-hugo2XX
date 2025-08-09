@@ -15,9 +15,9 @@ tags:
 layout: posts
 ---
 [Ants](https://pestpolicy.com/ant-control-in-bellingham/), those tiny yet industrious creatures, seem to have a peculiar penchant for some rather unexpected substances. One such substance that has raised eyebrows and piqued curiosity is human sperm.
-***The Sweet Attraction: Sperm and Sugar -�**At first glance, the idea of ants being drawn to sperm may seem perplexing. However, the key to understanding this behavior lies in the composition of sperm itself.�*
+***The Sweet Attraction: Sperm and Sugar -**At first glance, the idea of ants being drawn to sperm may seem perplexing. However, the key to understanding this behavior lies in the composition of sperm itself.*
 *Sperm, like every cell in our body, contains sugar molecules. What's intriguing is that men's semen gets an additional dose of sugars secreted into the mix during its formation in the testicles. This sugar-rich concoction serves as a sweet treat for ants, offering them an abundant source of energy.*
-## **Sperm and Its Sugar Content�**
+## **Sperm and Its Sugar Content**
 Ants are opportunistic foragers, and any resource that resembles a potential food source is fair game for these diligent insects.
 While it may not align with our human sensibilities, ants rely on gathering and storing resources whenever they can, as they cannot predict when their next meal will be available. Consequently, the sugar-rich semen becomes a valuable source of
 [nutrition for them](https://pubmed.ncbi.nlm.nih.gov/29273326/)

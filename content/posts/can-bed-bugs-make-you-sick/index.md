@@ -37,10 +37,10 @@ You may also suffer depression, insomnia, sleeplessness, stress and weakened imm
 Body rashes resulting from the allergic effect of bed bugs bites is an ugly appearance. They are very painful and scratching them may lead to further acceleration of the
 scabs from the bed bug bites
 . This occurrence is common, especially if you are allergic to bed bugs.
-### **2. Bed bug bites cause allergic Reactions�**
+### **2. Bed bug bites cause allergic Reactions**
 Besides that bed bug bites will cause swelling, they may also trigger allergic reactions on most human. Such allergies are caused by histamine that is present in the bed bugs saliva.
 
-If you are allergic to be bugs, youll experience body swelling, sudden body rashes that are irritating and hence you will feel the urge to scratch them continuously.�Other allergic reactions include sneezing, abdominal pain, fast purse rate, feeling warm or even a pale skin.
+If you are allergic to be bugs, youll experience body swelling, sudden body rashes that are irritating and hence you will feel the urge to scratch them continuously.Other allergic reactions include sneezing, abdominal pain, fast purse rate, feeling warm or even a pale skin.
 **How do you treat an allergic reaction to bed bugs?**
 First, if you experience any of the above listed allergic reactions after a bed bug bite, seek immediate medical assistance. Ive listed some first aid actions you can administer before getting to your physician for further examination.
 - Clean with warm water.
@@ -48,15 +48,15 @@ First, if you experience any of the above listed allergic reactions after a bed 
 - Leave the part uncovered for the medication to work.
 In case the reaction is rapid, I advise you rush to hospital or;
 - Conduct an injection with either corticosteroid, antihistamine or epinephrine medicine immediatelly.
-### **3. Can Bed Bugs Make You Tired?�**
+### **3. Can Bed Bugs Make You Tired?**
 Definitely! These insects are parasites that bites. They will feed on you, cause itching and discomfort.
 
-Moreover, getting rid of bed bugs is not easy. You may be trying every time without succeeding; this is tiresome.� Your effort to implement the preventive measures is even more tedious.
+Moreover, getting rid of bed bugs is not easy. You may be trying every time without succeeding; this is tiresome. Your effort to implement the preventive measures is even more tedious.
 
 Also, the fact that bed bugs reproduce at a very high rate can be problematic. One bed bug can carry about 500 egg in its life. This post a challenge of huge multiplication.
 
 In case you and your humans are invaded by bedbugs, this stresses you much as you think of possible solution.
-### **4. Bed Bugs Cause Psychological Torture to Humans?�**
+### **4. Bed Bugs Cause Psychological Torture to Humans?**
 Just in case you have ever been bitten by a bed bug, if they are mentioned, you may feel affected in a way. This is because you fear experiencing the pain you went through the previous time.
 
 You will even feel sick if you are living in the house infested by bed bugs. You may not even desire to fall asleep on that bed when you know they will attack you.
@@ -93,7 +93,7 @@ Bed bugs are small insects that you may at times not see with your naked eye. Th
 - Ceiling fixtures.
 - Old clothes and luggage.
 - Photo frames.
-## **How to get rid of bed bugs?�**
+## **How to get rid of bed bugs?**
 To prevent bed bugs in your home, you can follow the following approaches:
 - Ensure that you do thorough cleaning in your house.
 - Check all possible hideouts like cracks,[carpets](https://pestpolicy.com/can-bed-bugs-live-in-carpet/), and furniture regularly.
@@ -108,7 +108,7 @@ Treat your house using available bed bugs pesticide. You can use any product wit
 These products are manufacture with a purpose of killing different species of bed bugs that may thrive in your house. Chemical in them kills the bed bugs.
 
 You will need to mix them with the suitable solvent and then spray in various bed bugs hideout. These pesticides are very toxic and may have side effect to users or environment. They should therefore be handled with care.
-### **Method 2: Steam Fumigation�**
+### **Method 2: Steam Fumigation**
 You will need to lock all openings in your house, detach all the furniture, drawers, clothing, bedding and anything that can withhold the bed bugs.
 
 Connect the power source to the
@@ -121,7 +121,7 @@ This method is environmental friendly, as it does not cause pollution.
 
 Related:
 Spiders Eat Bed Bugs?
-### **Method 3: Vacuum�**
+### **Method 3: Vacuum**
 You will need to vacuum the whole house using vacuum cleaner of high performance. Vacuum all bedding, cracks, furniture, drawers, bookstores, clothing and any possible bed bug hideouts.
 
 This method ensure that the vacuum sucks bed bugs and their eggs in those places. The vacuum machine is also fed with hot air from within that assist in immediate killing of the bed bugs once they are sucked.
@@ -129,7 +129,7 @@ This method ensure that the vacuum sucks bed bugs and their eggs in those places
 You will be required to do this regularly so as to ensure that bed bugs left during the previous vacuum operation are destroyed.
 
 This method may not execute killing completely, especially if you do not vacuum all bed bug hideouts, which may leave some behind. However, it is more suitable when you do not need to dispose your items.
-### **Method 4: Disposal�**
+### **Method 4: Disposal**
 In this method, you will need to dispose all infested items completely and replace with new ones. This ensures that they carry with them eggs and bed bugs thus getting rid of them.
 
 This method is not highly recommendable as you may not be willing to dispose newly acquired items that have just been infested.
@@ -140,5 +140,5 @@ Bed bugs do not make you sick. However, Bed bugs cause allergy, social stigma, p
 
 It is important to be cautious when killing bed bugs; employ the best method that suit your place best. Always educate your humans on how to deal with bed bugs bites and allergies.
 
-If you encounter allergic reactions from bed bug, be quick to seek medication.�Prevention of bed bugs is the best way. In case your place is infested with bed bugs, kindly try the methods discussed above to treat them. Always observe precautions given.
-**�**
+If you encounter allergic reactions from bed bug, be quick to seek medication.Prevention of bed bugs is the best way. In case your place is infested with bed bugs, kindly try the methods discussed above to treat them. Always observe precautions given.
+****

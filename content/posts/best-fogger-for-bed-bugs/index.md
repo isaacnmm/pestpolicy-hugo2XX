@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 Could you be looking for a method that would kill bed bugs without being engaged directly for the entire time? Then, the best [fogger](https://pestpolicy.com/best-fogger-for-fleas/) for bed bugs is a brilliant way!
-- Bed bug bombs will kill bed bugs in both residential and non-residential.�They have insecticide like[pyrethroid, permethrin, or pyrethrin](https://www.epa.gov/bedbugs/pesticides-control-bed-bugs), killing these bloodsuckers�when blended with other chemicals.
+- Bed bug bombs will kill bed bugs in both residential and non-residential.They have insecticide like[pyrethroid, permethrin, or pyrethrin](https://www.epa.gov/bedbugs/pesticides-control-bed-bugs), killing these bloodsuckerswhen blended with other chemicals.
 These chemical combinations at a given ratio are packed in a pressurized container/can. But first, check this -
 do bed bug bombs work
 ?
@@ -117,7 +117,7 @@ Black Flag has a quick, decisive formula that helps it navigate easily into the 
 The Good:
 - Has quick action power kills bed bugin seconds on contact.
 - It is odorless  leaves behind a fresh scent.
-- Cheaper means  the kit has 6 aerosol cans and�Doesnt mess furniture or bedding  leaves no residue.
+- Cheaper means  the kit has 6 aerosol cans andDoesnt mess furniture or bedding  leaves no residue.
 - It can kill a variety of household pests,bed bugs, ants, roaches, and houseflies.
 - Covers large volume  approximately 200 cubic feet and a height of up to 10 feet.
 The Bad:
@@ -167,7 +167,7 @@ The Bad:
 YES. Bed bug bombs will help you kill bed bugs without you being there. It is simple to administer bed bug bombs as compared to other methods like heat treatment.
 - This is also a cheapermethod that you can use to controla small area in your house or office for a small period of time (2 to 4 hours).
 Most bed bug bombs do not affect humans or pets through irritation. Bed bug bombs will also kill other household pests such as fleas, ants, and houseflies.
-**2. What are the ingredients in Bed Bug Bomb?�**
+**2. What are the ingredients in Bed Bug Bomb?**
 Bed bug bombs are usually made of chemical components of the pyrethrin family. Permethrin, one of the pyrethrin family components, is based on extracts from the chrysanthemum flower.
 This was first used in the killing of mosquitoes. Permethrin is dangerous and can kill any animal, but the concentrations in a product determine its action extent.
 **3. Are Bed Bug Bombs Safe for Humans and Pets?**
@@ -196,6 +196,6 @@ may fail to kill all the bed bugs in your house or office. This may be attribute
 1. Insufficient penetration of the chemicals into bed bugs hideouts  killing occurs only when the chemical gets into contact with bed bugs.
 2. Bed bugs infestation may be more than the bed bug bomb's quantity  some are not killed after application lapse time.
 3. Mutation  bed bugs may mutate after several applications. You will, therefore, need to change the product with an alternative.
-## **Conclusion�**
+## **Conclusion**
 Bed bug bombs, also called foggers, contain insecticides such as pyrethroid, permethrin, or pyrethrin,n which, when blend with other chemicals, kills bed bugs.
 Once lit, they release the concentrated aerosols slowly into the room, killing bed bugs once in contact.

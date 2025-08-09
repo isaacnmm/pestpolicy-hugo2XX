@@ -53,11 +53,11 @@ Cons:
 ### [2. Saucony Men's Guide 13 Running Shoe](https://www.amazon.com/dp/B086H2YTNW/tag=p-policy-20)
 Saucony Guide 13 are some of the best shoes to wear for plantar fibroma. They provide excellent support, comfort, and stability. The shoe can also serve mild-to-moderate overpronators. It has good stability features and other technologies that make it stand out among its competitors.
 
-Firstly, the midsole of Saucony Guide 13 features the New PWRRUN cushioning technology.� This component provides excellent shock absorption and responsive toe-offs. It delivers excellent underfoot comfort helping to soothe your Plantar Fibroma.
+Firstly, the midsole of Saucony Guide 13 features the New PWRRUN cushioning technology. This component provides excellent shock absorption and responsive toe-offs. It delivers excellent underfoot comfort helping to soothe your Plantar Fibroma.
 
 Furthermore, the shoe also features a TPU guidance frame near the medial area. This component helps to prevent overpronation (excessive inward foot rolling) and helps to guide each foot towards a more natural gait cycle to enhances motion.
 
-In addition, Guide 13 also features FORM FIT in its construction.� The FORM FIT delivers a made-for-me feel kind of feeling with uncompromising and consistent support to the foot for improved performance.
+In addition, Guide 13 also features FORM FIT in its construction. The FORM FIT delivers a made-for-me feel kind of feeling with uncompromising and consistent support to the foot for improved performance.
 
 The Guide 13 come with removable insoles that provide enough arch support ensuring the underfoot has proper support. This promotes the overall comfort of the foot and helps to soothe foot conditions like Plantar Fibroma.
 
@@ -177,7 +177,7 @@ Cons:
 - Some reviewers complain that the outsole separates from the midsole after a few months of use
 
 ### [7. Saucony Men's VERSAFOAM Cohesion 12 Road Running Shoe](https://www.amazon.com/dp/B07FNDBZX5/tag=p-policy-20)
-Saucony Men's VERSAFOAM Cohesion 12 is another incredible shoe for plantar fibroma.� The Cohesion 12 is a high-performing running shoe that incorporates reliable technologies to deliver the best results.
+Saucony Men's VERSAFOAM Cohesion 12 is another incredible shoe for plantar fibroma. The Cohesion 12 is a high-performing running shoe that incorporates reliable technologies to deliver the best results.
 
 For starters, the shoe features VERSAFOAM technology. This cushioning technology delivers a soft spongy feel on the foot for enhanced comfort throughout the running or walking experience.
 

@@ -20,29 +20,29 @@ we recommend for you. The aerosol spray insecticide is specifically designed to 
 - Its active ingredients are Imidacloprid (0.05%), n-Octyl bicycloheptene dicarboximide (1.00%), and 2-dimethyl-3-(2-methylprop-1-enyl) Cyclopropanecarboxylate.
 - You can use this insecticide as a spot treatment around or on your mattress seams, luggage, carpets, suitcases, or bed frames. So, let's get down to the review.
 
-## #1:�Review Summary
+## #1:Review Summary
 Ortho Home Defense Dual-Action is a fast-acting (and long-lasting)
 formula to defend your home or office space from bed bugs
-, brown dog ticks, and�fleas.
+, brown dog ticks, andfleas.
 I found it great to treat even large areas and
 kill the pyrethroid-resistant bed bugs
 , including their eggs and larvae. Ortho Home Defense comes in 2 convention sizes.
 Luckily, the spray formula will dry fast, it's unscented, and non-staining to clothes, linen, or fabrics (water-resistant fabrics).
-**Unique Features:�**
+**Unique Features:**
 - Easy to spray into crevices and wall cracks that are often difficult to reach
 - Has a quick knock-down effect - with its fast-acting formula
-- An excellent�spottreatment for the household bed bugs
-- Delivered in either the�3-ounce or the 18-ounce convenient cans
+- An excellentspottreatment for the household bed bugs
+- Delivered in either the3-ounce or the 18-ounce convenient cans
 The Good:
 - Quick-knockdown effect
-- Good forbed bug prevention and killing�throughcontact
-- Kills even�the insecticide-resistant bed bugs
-- Has the�3-ounce pack that's travel convenient
+- Good forbed bug prevention and killingthroughcontact
+- Kills eventhe insecticide-resistant bed bugs
+- Has the3-ounce pack that's travel convenient
 - Has a mild and non-irritating smell.
-- Great for use on clothes and furniture�finishes
+- Great for use on clothes and furniturefinishes
 The Bad:
 - Labourious to apply
-**Caution:�**
+**Caution:**
 Leave the area you've sprayed for about 3 to 4 hours. This allows the spray to dry and thus avoid poisoning your kids, or
 pets such as cats and dogs
 .
@@ -68,16 +68,16 @@ bed bug treatment
 If you're dealing with bed bugs that have developed immunity against various pesticides (as noted by
 [National Geographic](https://news.nationalgeographic.com/news/2013/13/130314-bedbug-insecticide-resistance-pest-science/)
 ), then Ortho Home Defense is an excellent solution for you.
-From the onset,�Ortho comes out as a highly reliable manufacturer of
+From the onset,Ortho comes out as a highly reliable manufacturer of
 pest control
 solutions. Equally, this
 roach spray brand will kill
-even�stink bugs,�dust mites,�and fleas.
+evenstink bugs,dust mites,and fleas.
 ## #3: My Experience:
 ### 1. Is Ortho Home Defense kid and pet safe?
 Ortho Home Defense and its active ingredients are EPA-registered and safe to use around for yourself, your kids, and pets such as cats and dogs. However, please don't use it around aquatic life like fish.
 However, I haven't experienced many people who've been poisoned by
-Ortho Home Defense. However, realize that�deltamethrin may be�neurotoxic or irritate your skin.
+Ortho Home Defense. However, realize thatdeltamethrin may beneurotoxic or irritate your skin.
 I found this spray great for safely treating the covering of the traveling luggage as a spot treatment. Further, it's safe for treating mattress seams, furniture, and carpets.
 In summary,
 Ortho Home Defense will be safe to use around your kids and pets, but you must not use it near aquatic life like fish.
@@ -88,8 +88,8 @@ Ortho states that you begin with the daily application before going to 2-3 times
 Finally, you can now spray weekly or once every two weeks. Therefore, you can use
 bed bug spray to both protect and kill
 the pests.
-## #4:�Ortho Home Defense�vs. Other Sprays
-**1.�Ortho Home Defense Dual-Action�vs. Harris Bed Bug Killer Review**
+## #4:Ortho Home Defensevs. Other Sprays
+**1.Ortho Home Defense Dual-Actionvs. Harris Bed Bug Killer Review**
 Harris Bed Bug Killer Review
 **2. Ortho Home Defense Dual-Action vs. Spectracide Bug Stop**
 [Spectracide Bed Bug Stop Fogger](https://pestpolicy.com/spectracide-bug-stop-fogger-review-for-bed-bugs/)

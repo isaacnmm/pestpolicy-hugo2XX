@@ -17,15 +17,15 @@ Removing
 acrylic paint
 from canvas becomes challenging, especially when the paint has dried out. How you can clean paint spots or the entire canvas? Which method works best? Is the washing machine safe?
 
-*So, here's how to remove acrylic paint from the canvas; by either using denatured alcohol/isopropyl alcohol, mineral spirits, ammonia, turpentine, or acetone/nail polish.�*
-*These solvents clean both wet and dry acrylic paint effectively if the right procedure is followed. You can effectively carry out optional cleaning methods such as spot cleaning, stripping/full canvas cleaning, and final cleaning without any problem.�*
-*Alternatively, you can use commercially available products such as Dumond Paint remover, �Grandma's Secret GS7001, or Wegner spray paint remover. But you will need to check on the material specifications and match them with the best paint remover.�*
+*So, here's how to remove acrylic paint from the canvas; by either using denatured alcohol/isopropyl alcohol, mineral spirits, ammonia, turpentine, or acetone/nail polish.*
+*These solvents clean both wet and dry acrylic paint effectively if the right procedure is followed. You can effectively carry out optional cleaning methods such as spot cleaning, stripping/full canvas cleaning, and final cleaning without any problem.*
+*Alternatively, you can use commercially available products such as Dumond Paint remover, Grandma's Secret GS7001, or Wegner spray paint remover. But you will need to check on the material specifications and match them with the best paint remover.*
 ## Details: How to Remove Acrylic Paint from Canvas
 ### a. Denature Alcohol or Isopropyl alcohol
 Dilute one liter of denatured alcohol with two liters of water (1:2 ratio). Using a sponge, rub the surface with acrylic paint gently. This solvent will remove wet
 [acrylic paint](https://www.youtube.com/watch?v=YAo1gfNIhXw)
 instantly upon contact.
-For dry acrylic paint, you will need to quench the surface before stripping.�Denatured alcohol contains strong, active agents (ethyl 5%) that break down the paint molecular bond into a thick paint viscous fluid, which is easier to clean.
+For dry acrylic paint, you will need to quench the surface before stripping.Denatured alcohol contains strong, active agents (ethyl 5%) that break down the paint molecular bond into a thick paint viscous fluid, which is easier to clean.
 Beside, denatured alcohol penetrates the canvas without affecting the material fabric. For a thicker layer of acrylic paint, isopropyl alcohol is suitable. Further, you will need to use a concentrated solvent to improve the bond-breaking affinity during action time.
 Notably, denature alcohol irritates the skin and nasal cavity; thus, you should wear protective gear when cleaning. See Also:
 [Can You Use Acrylic Paint On Metal?](https://pestpolicy.com/can-you-use-acrylic-paint-on-metal/)

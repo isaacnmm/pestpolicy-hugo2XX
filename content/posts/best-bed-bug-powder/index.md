@@ -126,7 +126,7 @@ Does Baby Powder Kill Bed Bugs?
 https://www.youtube.com/watch?v=CWiu07UDH50
 There is a wide range of powders that you can use to protect your
 home from being bed
-bug-infested�effectively.
+bug-infestedeffectively.
 To use the powders in the right way, you need to start by clearing the clutter and other mess in your bedroom and other parts of the house.
 Apply your favorite powder in the holes, crevices, under the carpet, and in stuffed toys. These are the
 [areas that the bed bugs use to hide](https://pestpolicy.com/what-causes-bed-bugs/)

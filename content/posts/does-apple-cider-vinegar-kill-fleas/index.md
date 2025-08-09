@@ -59,7 +59,7 @@ Prepare soapy water in a bowl.
 **Step 8:**
 Add  or 1 cup of vinegar to the solution.
 **Step 9:**
-Use the flea comb again to groom your pet while consistently dipping it in the homemade dawn dish soap and vinegar solution for fleas.�Treating your home.
+Use the flea comb again to groom your pet while consistently dipping it in the homemade dawn dish soap and vinegar solution for fleas.Treating your home.
 Related:
 Flea Eggs Vs. Dandruff: Tell the Difference?
 ## Dawn Dish Soap for Fleas in Carpet

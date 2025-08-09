@@ -190,7 +190,7 @@ When buying the best shoe for overweight nurses comfort should be your priority.
 
 When looking for comfortable shoes, consider the breathability of the footwear. The shoes should allow free entry of air inside so that your feet remain fresh always.
 
-Another factor is a roomy toe box. For maximum comfort, your toes or your feet should be able to move naturally.� If you have
+Another factor is a roomy toe box. For maximum comfort, your toes or your feet should be able to move naturally. If you have
 [wide feet](https://pestpolicy.com/best-running-shoes-for-men-with-wide-feet/)
 , you need to check the size of the forefoot and weather the interior of the shoe is spacious.
 ### The Outsole

@@ -30,7 +30,7 @@ Before installation, selecting the appropriate fan is paramount. Consider these 
     * **For bathrooms over 100 sq ft or with high ceilings:** Calculate the room's volume (Length x Width x Height in feet). Divide the volume by 60 (minutes) and multiply by 8 (air changes per hour). (e.g., 10'x12'x8' bathroom = 960 cu ft. (960 / 60) * 8 = 128 CFM. Choose 130 CFM or 150 CFM).
     * **Add for Fixtures:** For jetted tubs, add 50 CFM. For separate toilet enclosures or showers, add 50 CFM each.
 2.  **Sone Rating (Noise Level):** Lower sones mean quieter operation.
-    * **1.0 sone or less:** Very quiet, almost silent � ideal for comfort.
+    * **1.0 sone or less:** Very quiet, almost silent  ideal for comfort.
     * **1.0 - 2.0 sones:** Quiet.
     * **Over 3.0 sones:** Can be quite noisy.
 3.  **Duct Size:** Match the fan's exhaust port to your existing or planned ductwork (common sizes are 4-inch or 6-inch). Larger ducts generally allow for better airflow and quieter operation.
@@ -150,4 +150,4 @@ Once installed, a little maintenance goes a long way:
 
 ## Final Thoughts
 
-Properly installing a bathroom vent fan is a vital investment in your home's health and longevity. By carefully selecting the right fan, determining its optimal placement, and diligently following the installation steps � especially concerning safe electrical work and correct ducting practices � you can ensure your bathroom remains a fresh, dry, and comfortable space, protected from the damaging effects of excessive moisture. This DIY project is a testament to proactive home maintenance, yielding significant benefits for years to come.
+Properly installing a bathroom vent fan is a vital investment in your home's health and longevity. By carefully selecting the right fan, determining its optimal placement, and diligently following the installation steps  especially concerning safe electrical work and correct ducting practices  you can ensure your bathroom remains a fresh, dry, and comfortable space, protected from the damaging effects of excessive moisture. This DIY project is a testament to proactive home maintenance, yielding significant benefits for years to come.

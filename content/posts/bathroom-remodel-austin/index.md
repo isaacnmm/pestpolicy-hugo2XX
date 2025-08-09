@@ -41,21 +41,21 @@ The cost of a bathroom remodel in Austin can fluctuate significantly based on fa
 
 **Average Cost Ranges in Austin:**
 
-* **Minor Renovation (Cosmetic Update):** This type of project involves cosmetic changes like painting, updating fixtures (faucets, lighting), replacing a vanity, or new flooring over existing. Expect costs to range from **$6,100 � $13,100**. This can be a great option for a quick refresh or budget-conscious homeowners.
-* **Mid-Range Remodel (Partial Renovation):** This typically involves replacing key elements like the tub, shower, toilet, vanity, and tiling while generally keeping the existing layout. Costs can range from **$12,200 � $26,200**. Some sources suggest higher mid-range costs for Austin, reaching **$35,000 to $75,000** for elevated finishes.
-* **Major Renovation (Full Remodel):** This is a complete overhaul, often involving moving plumbing lines, changing the layout, new drywall, and higher-end fixtures and finishes. Expect costs to be in the **$16,600 � $35,800+** range. For a full, high-end remodel with layout changes, prices can easily jump to **$75,000 � $100,000+**.
+* **Minor Renovation (Cosmetic Update):** This type of project involves cosmetic changes like painting, updating fixtures (faucets, lighting), replacing a vanity, or new flooring over existing. Expect costs to range from **$6,100  $13,100**. This can be a great option for a quick refresh or budget-conscious homeowners.
+* **Mid-Range Remodel (Partial Renovation):** This typically involves replacing key elements like the tub, shower, toilet, vanity, and tiling while generally keeping the existing layout. Costs can range from **$12,200  $26,200**. Some sources suggest higher mid-range costs for Austin, reaching **$35,000 to $75,000** for elevated finishes.
+* **Major Renovation (Full Remodel):** This is a complete overhaul, often involving moving plumbing lines, changing the layout, new drywall, and higher-end fixtures and finishes. Expect costs to be in the **$16,600  $35,800+** range. For a full, high-end remodel with layout changes, prices can easily jump to **$75,000  $100,000+**.
 * **Luxury/High-End Primary Bathroom Remodel:** For large master bathrooms with custom cabinetry, premium stone countertops, spa-like showers (multiple showerheads, steam), freestanding tubs, and smart home integration, costs can start from **$50,000 and easily exceed $100,000, potentially reaching $200,000+** for very elaborate, custom projects.
 
 **Cost Breakdown by Components (Estimates):**
 
 * **Labor Costs:** Can represent 30-50% of the total project cost, typically ranging from $50 to $150+ per hour for specialists. General contractors often charge 10-20% of the total project cost as their fee.
-* **Fixtures (toilet, sink, faucet):** $500 � $2,500+
-* **Vanity & Countertop:** $800 � $5,000+
-* **Shower/Bathtub Installation:** $1,000 � $15,000+ (custom showers or tub-to-shower conversions can be higher)
-* **Tile (materials & installation):** $1,500 � $12,000+ (highly dependent on tile type, complexity of pattern, and area)
-* **Plumbing & Electrical (if moving lines):** $2,000 � $8,000+
-* **Drywall & Painting:** $1,000 � $3,000
-* **Permits & Inspections:** $175 � $2,000 (varies significantly by scope and city regulations)
+* **Fixtures (toilet, sink, faucet):** $500  $2,500+
+* **Vanity & Countertop:** $800  $5,000+
+* **Shower/Bathtub Installation:** $1,000  $15,000+ (custom showers or tub-to-shower conversions can be higher)
+* **Tile (materials & installation):** $1,500  $12,000+ (highly dependent on tile type, complexity of pattern, and area)
+* **Plumbing & Electrical (if moving lines):** $2,000  $8,000+
+* **Drywall & Painting:** $1,000  $3,000
+* **Permits & Inspections:** $175  $2,000 (varies significantly by scope and city regulations)
 
 **Factors Influencing Cost:**
 

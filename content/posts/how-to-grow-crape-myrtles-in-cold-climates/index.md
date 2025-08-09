@@ -43,9 +43,9 @@ Choosing the right cultivar is the single most important step for success in col
 * **'Sioux':** Medium pink flowers, upright, good mildew resistance.
 * **'Tonto':** Fuchsia-red flowers, semi-dwarf, excellent mildew resistance.
 * **'Zuni':** Lavender flowers, compact, good mildew resistance.
-* **Black Diamond� Series:** (e.g., 'Crimson Red', 'Purely Purple', 'Mystic Magenta') Known for dark foliage and vibrant flowers. Some are rated to Zone 6, with reports of Zone 5 survival, often as dieback perennials.
-* **First Editions� Series:** (e.g., 'Bellini' series for dwarfs, 'Ruffled Red Magic', 'Plum Magic') Several varieties in this series offer enhanced cold hardiness.
-* **Enduring Summer� Series:** (e.g., 'Red', 'Pink') Compact varieties, often hardy to Zone 6.
+* **Black Diamond Series:** (e.g., 'Crimson Red', 'Purely Purple', 'Mystic Magenta') Known for dark foliage and vibrant flowers. Some are rated to Zone 6, with reports of Zone 5 survival, often as dieback perennials.
+* **First Editions Series:** (e.g., 'Bellini' series for dwarfs, 'Ruffled Red Magic', 'Plum Magic') Several varieties in this series offer enhanced cold hardiness.
+* **Enduring Summer Series:** (e.g., 'Red', 'Pink') Compact varieties, often hardy to Zone 6.
 
 When purchasing, always check the plant tag for its specific USDA Hardiness Zone rating.
 

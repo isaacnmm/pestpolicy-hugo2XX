@@ -56,9 +56,9 @@ We briefly touched on how you might spot a bed bug infestation aside from their 
 flea bites vs. bed bugs bites
 . Let's look in a little more detail at the signs you should be looking out for.
 As we mentioned, to properly smell bed bugs, you will need to be met with a rather large gathering of these pests, so it is best to tackle the problem earlier or spot any of the following signs.
-- The shells of bed bugs may be found on your soft furnishings or flooring.�You might find dead bed bugs.
+- The shells of bed bugs may be found on your soft furnishings or flooring.You might find dead bed bugs.
 - You may notice that you have bite marks on your skin or find that your skin is irritated and itchy.
-- Bed bug fecal matter anddead bed bugs may be present in the home; this�is usually black, dust-like particles that will leave a red smear when rubbed or crushed.
+- Bed bug fecal matter anddead bed bugs may be present in the home; thisis usually black, dust-like particles that will leave a red smear when rubbed or crushed.
 Read Also:
 [Dead Bed Bugs](https://pestpolicy.com/dead-bed-bugs/)
 ## Common Misconceptions About The Smell Of Bed Bugs?

@@ -93,7 +93,7 @@ Further, the automatic hydrostatic transmission provides an opportunity for spee
 - Poulan Pro PP155H42 has a flexible chassis that will enable you to easily maintain the deck's power to cut your yards grass evenly.
 Poulan Pro PP155H42 has a 15.5 HP OHV engine (single cylinder) with an air filter thats easy to maintain and use. Further, you wont require to prime to choke the engine with the installed ReadyStart starting.
 For additional capacity, you can also use side discharge, bagging, and mulching. Further, for mowing your uneven ground, this unit comes with deck wheels that are anti-scalp. With a 42 inches cutting deck.
-Poulan Pro PP155H42 has six preset cutting heights that enable you to cut the grass at your favorite cutting height. �Further, the adjustable-height system has an easy-to-use lever to allow excellent spring-assisted cutting.
+Poulan Pro PP155H42 has six preset cutting heights that enable you to cut the grass at your favorite cutting height. Further, the adjustable-height system has an easy-to-use lever to allow excellent spring-assisted cutting.
 Its cutting deck has a durable build, and it draws air, allowing air circulation  this enables the tractor grass to lift the grass and mow clean.
 Its steering wheels are ergonomically designed to provide comfort and reduce fatigue.
 The mower has a 6-inch turning radius thatll allow you to easily maneuver around different obstacles and tight corners in your small yard. To enhance this, its front axle is made from cast iron and rotates to each mowing.

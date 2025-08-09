@@ -162,11 +162,11 @@ NB: Vinegar irritate nasal cavity and skin upon contact  you should wear protect
 Dish soap like
 [Cascade Complete Dishwasher](https://www.amazon.com/dp/B07G28CM6P/?tag=p-policy-20)
 cleans paints through paint bonds breakdown. Prepare dish soap solution and rub it gently over the paint-stained surface until the paint is fully removed.
-Then, wash the clothes in warm water before rinsing to dryness.�You can mix dish soap in warm water and soak your paint-stained clothes for one hour before cleaning.
+Then, wash the clothes in warm water before rinsing to dryness.You can mix dish soap in warm water and soak your paint-stained clothes for one hour before cleaning.
 Notably, carry a drop-test experiment before soaking your clothes to confirm concentration performance.
 ### 4. Baking soda
 Mix a tablespoon of baking powder with vinegar/mineral spirit and rub gently (with a sponge) over paint-stained clothes until the paint is cleaned.
-Wash the area with soapy detergent and clean water to remove traces of baking soda and vinegar from clothes before rinsing to dry.�NB: Baking soda is suitable for latex paint removal.
+Wash the area with soapy detergent and clean water to remove traces of baking soda and vinegar from clothes before rinsing to dry.NB: Baking soda is suitable for latex paint removal.
 > See Also:
 > [Removing Paint from Metal Door](https://pestpolicy.com/how-to-remove-paint-from-metal-door/)
 ## Conclusion

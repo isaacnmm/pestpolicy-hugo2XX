@@ -33,7 +33,7 @@ Not all trees are suited for indoor life. Success begins with selecting species 
     * **Drought Tolerant:** Olive, Yucca, Ponytail Palm, some Dracaena.
 3.  **Mature Size and Growth Rate:**
     * Even "indoor" trees will try to grow. Choose a species that can be managed with pruning or that naturally stays within a reasonable indoor height.
-    * Consider the eventual height and spread � a tree that grows too large too quickly might outgrow your space.
+    * Consider the eventual height and spread  a tree that grows too large too quickly might outgrow your space.
 4.  **Common Indoor Tree Species:**
     * **Fiddle Leaf Fig (*Ficus lyrata*):** Popular for its large, dramatic leaves. Needs bright, indirect light and consistent watering.
     * **Rubber Plant (*Ficus elastica*):** Easier to care for than Fiddle Leaf Fig, with glossy, dark green leaves. Tolerates slightly lower light.

@@ -25,7 +25,7 @@ Leaf miners are not a single species but rather the larvae of various insects, m
 **Here's how they cause the damage:**
 
 * **Mining Tunnels:** As the larvae feed, they create meandering tunnels or "mines" within the leaf. This feeding activity disrupts the leaf's cellular structure, causing the mined areas to appear white, silver, or translucent, as chlorophyll is destroyed.
-* **Impact on Photosynthesis:** The primary function of leaves is photosynthesis � converting sunlight into energy for the plant. Extensive mining reduces the leaf's photosynthetic capacity, weakening the plant.
+* **Impact on Photosynthesis:** The primary function of leaves is photosynthesis  converting sunlight into energy for the plant. Extensive mining reduces the leaf's photosynthetic capacity, weakening the plant.
 * **Aesthetic Damage:** While less critical for food crops, the damage is unsightly.
 * **Severity:** For mature, healthy tomato plants, minor leaf miner damage is often cosmetic and doesn't severely impact yields. However, heavy infestations, especially on young plants or seedlings, can stunt growth, cause premature leaf drop, and significantly reduce fruit quality and quantity.
 

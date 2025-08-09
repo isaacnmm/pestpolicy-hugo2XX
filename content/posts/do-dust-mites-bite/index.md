@@ -20,7 +20,7 @@ that have eight legs and a small head and they feed off flakes of dead skin shed
 - NB: an adult human will shed about 500 million flakes of their dead skin daily.
 Dust mites measure about 1/100 inch in length and so it's only visible through a microscope.
 The symptoms of dust mites for humans include itching and sneezing - but these can be related to chiggers, ticks, and spiders.
-**But do dust mites bite humans? No, the mouthparts of dust mites are quite rudimentary and so they can't sting or bite humans.�**
+**But do dust mites bite humans? No, the mouthparts of dust mites are quite rudimentary and so they can't sting or bite humans.**
 - **On the contrary, dust mites will eat their own cast of skins and poop or fungi, pollen, pet skin, and flakes of dead human skin.**
 We've seen that dust mites will not bite or sting humans (
 [this is unlike other [mite](https://pestpolicy.com/what-do-dust-mites-look-like/) species](https://pestpolicy.com/best-fungicide-powdery-mildew/)

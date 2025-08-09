@@ -27,7 +27,7 @@ As earlier stated, bugs come into our house because they are looking for food. I
 - In this case, weevils infest open cereals and grains where they lay eggs and continue in their multiplication.
 - They feed on these cereals where they lay eggs inside the grains where their life cycle starts. Their larvae stage eats and develops in the grain before the metamorphosis into adults.
 Idianmeal moth, rice weevil, beetle, lay hundreds of eggs in the infested food making it inconsumable. The damage by these bugs is more of contamination than the food they consume.
-### **2. Flour mix� **
+### **2. Flour mix **
 Flour mix and other processed foods are very susceptible to attack by
 floor weevils, wheat bugs, rice bugs and flour
 . They are also visible on pasta, cakes, and any other mixes.
@@ -56,7 +56,7 @@ In size, rice weevils are slightly bigger than bean weevils.
 Also, rice weevils have a snout while bean weevil doesnt.
 Bean weevils have a light brown colour and are oval-shaped while rice weevils are white and slender in shape.
 ### **2. Idianmeal Moth**
-This is most probably the most visible pantry bug in our kitchen.� Unlike the weevils, the moths show up in your kitchen when searching for the best site for mating and lay their eggs.
+This is most probably the most visible pantry bug in our kitchen. Unlike the weevils, the moths show up in your kitchen when searching for the best site for mating and lay their eggs.
 - Their most destructive stage is the larvae which are easy to find on flour, cereals, rice, nuts, and dried fruits among others.
 The larvae leave behind a trail of webbing, poop and dead skin making it hard to consume the infested food. As the larvae mature and turn into moths that can be easily spotted flying around.
 Though the food infested by these moths is not harmful, it is also not good for consumption and should be disposed of immediately.

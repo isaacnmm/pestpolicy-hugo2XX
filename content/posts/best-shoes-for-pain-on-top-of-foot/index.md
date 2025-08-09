@@ -57,7 +57,7 @@ The upper features an engineered mesh thats highly supportive and lightweight. T
 
 Further, the internal lining features a smooth textile that doesnt irritate the upper part of the foot. The tongue and the collar padding hold the foot in place and ensures additional cushioning for the upper part of the feet to alleviate top of foot pain.
 
-The outsole of Saucony Kinvara 10 is all rubber while the midsole unit has a Ground-contact EVA+ material that has the ability to resist damage. This material also provides good traction on various surfaces. �The outsole also has flex grooves patterns that encourage the natural movement of the foot.
+The outsole of Saucony Kinvara 10 is all rubber while the midsole unit has a Ground-contact EVA+ material that has the ability to resist damage. This material also provides good traction on various surfaces. The outsole also has flex grooves patterns that encourage the natural movement of the foot.
 
 The midsection features a full-length EVERUN topsole that enhances the foot responsiveness during running. The lightweight material retains its original shape after each use.
 
@@ -145,18 +145,18 @@ Pros:
 Cons:
 - Some people complain that they run small
 
-### [6. Prop�t Men's Stability X Strap Sneaker](https://www.amazon.com/dp/B071FP32WQ/?tag=p-policy-20)
-Prop�t Stability X Strap is an every walking sneaker designed to provide comfort and support. It comes with exceptional features that ensure it alleviates common discomforts.
+### [6. Propt Men's Stability X Strap Sneaker](https://www.amazon.com/dp/B071FP32WQ/?tag=p-policy-20)
+Propt Stability X Strap is an every walking sneaker designed to provide comfort and support. It comes with exceptional features that ensure it alleviates common discomforts.
 
 For starters, the outsole is all rubber to provided needed traction as you walk on various surfaces. The EVA midsole provides excellent arch support ensuring you have needed stability and balance to withstand all-day standing or walking.
 
-The upper of Prop�t Stability X Strap features a mesh material that incorporates padded tongue and collar for extra comfort. The soft nylon lining ensures your feet remain safe from irritation. The mesh delivers excellent breathability for a dry and fresh walking experience.
+The upper of Propt Stability X Strap features a mesh material that incorporates padded tongue and collar for extra comfort. The soft nylon lining ensures your feet remain safe from irritation. The mesh delivers excellent breathability for a dry and fresh walking experience.
 
 The external heel counter provides needed heel support and prevents accidental shoe removal. The PU insole features cushioning ridges and a gel heel pad for unmatched comfort.
 
 These shoes come with dual insoles that provide a customized fit, comfort, and support. However, you can remove both insoles to accommodate custom orthotics.
 
-The Prop�t Stability X Strap is also medically approved as a therapeutic shoe for people with various foot issues.
+The Propt Stability X Strap is also medically approved as a therapeutic shoe for people with various foot issues.
 Pros:
 - Comfort
 - Provides relief against the top of foot pain, bunions, and[claw toes](https://pestpolicy.com/best-shoes-for-claw-toes/).

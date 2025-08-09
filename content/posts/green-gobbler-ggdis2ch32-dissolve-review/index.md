@@ -46,14 +46,14 @@ will also be clogged by toothpaste as you brush your teeth. A major differentiat
 remedy because
 it doesn't work
 .
-**The Good:�**
-- **1. Pre-measured Liquid bottles:�**As you may have noted, this green gobbler liquid is packed in a plastic bottle that is conveniently divided into two compartments with separate lids. Luckily, each of the packets is enough for a single treatment or[drain unclogging](https://pestpolicy.com/how-drain-cleaners-work/).
+**The Good:**
+- **1. Pre-measured Liquid bottles:**As you may have noted, this green gobbler liquid is packed in a plastic bottle that is conveniently divided into two compartments with separate lids. Luckily, each of the packets is enough for a single treatment or[drain unclogging](https://pestpolicy.com/how-drain-cleaners-work/).
 - Therefore, no mess and no measuring. You'll use one chamber for your kitchen or shower sink while you'll need to empty two chambers when cleaning any toilet clogs.
-- **2. Environmental friendly:�**Green Gobbler works through enzymatic action and does not produce dangerous fumes while in action. Its not basic, acidic, or acoustic-like your regular drain cleaners. This has earned this cleaner the prestigious EPA approval for being environmentally friendly and[biodegradable](https://en.wikipedia.org/wiki/Biodegradation).
+- **2. Environmental friendly:**Green Gobbler works through enzymatic action and does not produce dangerous fumes while in action. Its not basic, acidic, or acoustic-like your regular drain cleaners. This has earned this cleaner the prestigious EPA approval for being environmentally friendly and[biodegradable](https://en.wikipedia.org/wiki/Biodegradation).
 - **3. Great for PVC and metal pipes**: Contrary to common belief, this liquid[drain cleaner](https://pestpolicy.com/xionlab-safer-drain-opener-review/)will work well in both PVC and metal pipes  this includes cast iron, copper, and aluminum. It also dissolves most clogs and hair fast enough. It's also great for big toilet clogs.
 - It has fast dissolve technology that will help to clear the drain clogs effectively. So, if you have regular problems with toilet clogs and are environmentally conscious, then this Green Gobbler dissolve should be your ultimate drain cleaner.
-**The Bad:�**
-- **1. Requires hot water:�**Green Gobbler comes in a liquid form. After 20-30 minutes, you'll need to flush the toilet (not activating) using hot water. Therefore, if you're not on solar power, the process could be delayed by power blackout or gas unavailability.
+**The Bad:**
+- **1. Requires hot water:**Green Gobbler comes in a liquid form. After 20-30 minutes, you'll need to flush the toilet (not activating) using hot water. Therefore, if you're not on solar power, the process could be delayed by power blackout or gas unavailability.
 - **2. Slow on fully clogged drains:**I noted that when the drain or sink, if fully clogged, you might need to use a snake first or a bent hanger wire, or else the process will be too slow.
 ## Conclusion
 Itll dissolve fast, oil, soap scum, hair, and grease  in its amazingly two pre-measured portions. Being heavier or denser than

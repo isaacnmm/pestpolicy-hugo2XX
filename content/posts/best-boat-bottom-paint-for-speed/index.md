@@ -91,7 +91,7 @@ Cons:
 ### [4. Total Boat Underdog anti-fouling hull bottom paint](https://www.amazon.com/dp/B07CNV2YHH/?tag=p-policy-20)
 For boat owners looking for short term protection on a budget, the Underdog solvent-based paint is the go-to choice. Its ablative properties allow your vessel to release biocide while reducing paint build-up.
 
-Compared to other ablative bottom paints, this edition can withstand the hassles of trailering and beaching.�This paint provides excellent adhesion on a wide range of surfaces, from wood to fiberglass to steel and iron.
+Compared to other ablative bottom paints, this edition can withstand the hassles of trailering and beaching.This paint provides excellent adhesion on a wide range of surfaces, from wood to fiberglass to steel and iron.
 For best results, apply on a clean and sanded surface. Additionally, this product is easy to use: mix, pour, and apply to the surface using a sprayer, roller, or
 paintbrush - just like with brake calipers
 .
@@ -118,9 +118,9 @@ Its highly efficient polishing finish improves fuel efficiency while reducing dr
 The Micron-Extra pain retains its anti-fouling properties when the boat is not in use, hence allowing you to relaunch without the need for repainting. The smooth paint offers excellent performance and versatility for a
 professional boat finish
 .
-Compared to other anti-fouling options in the market, you are guaranteed a smooth performance with this option. �Also available in a low emissions formula, reduced carbon dioxide sulfur dioxide emissions significantly improve your hulls performance.
+Compared to other anti-fouling options in the market, you are guaranteed a smooth performance with this option. Also available in a low emissions formula, reduced carbon dioxide sulfur dioxide emissions significantly improve your hulls performance.
 The controlled wearing properties of this Interlux product deliver a consistent and uninterrupted antifouling performance. Depending on the surface preparation and layers of paint applied, you are guaranteed a lasting performance throughout the racing season.
-This paint can be applied over hard conventional coatings after intense sanding. This paint comes in a 1-gallon size package, which provides sufficient coverage over larger surfaces. �For the best results in the long term, pay attention to the manufacturers indications.
+This paint can be applied over hard conventional coatings after intense sanding. This paint comes in a 1-gallon size package, which provides sufficient coverage over larger surfaces. For the best results in the long term, pay attention to the manufacturers indications.
 Pros:
 - Guarantee improved fuel efficiency.
 - Excellent anti-fouling performance

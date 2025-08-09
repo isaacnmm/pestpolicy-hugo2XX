@@ -52,7 +52,7 @@ Some of the most active ingredients are cinnamon oil, cedar oil, sulphut, and cl
 
 Since it is formulated with natural ingredients, the product is safe for use in areas with plants, pets, and people. This implies that while it helps to control snakes, it will not harm them.
 
-From the label, you will see that the manufacturing company recommends 8-inch bands. This means you cannot do much with just four pounds of the product.�However, this is not a big deal since the product is relatively inexpensive.
+From the label, you will see that the manufacturing company recommends 8-inch bands. This means you cannot do much with just four pounds of the product.However, this is not a big deal since the product is relatively inexpensive.
 
 Though it might serve your needs, the product is a bit ineffective in the rainy seasons, so you might need to reapply after every downpour.
 
@@ -174,7 +174,7 @@ Cons:
 - Rain can easily wash the powder
 - Could kill lizards and frogs
 
-## Buyer's Guide:�Best Snake Repellent for Yard
+## Buyer's Guide:Best Snake Repellent for Yard
 ### 1. Tips for Repelling Snakes
 Though the products mentioned above work to repel snakes and keep them from invading your yard for some time, there are directions to be followed.
 
@@ -186,13 +186,13 @@ Since some repellents might contain harmful chemicals, make sure to put on prote
 ### 2. Does Lime Keep Snakes Away?
 Many have been taught to use lime to keep snakes off their turf. However, there is no scientific proof to back this claim.
 
-You might have been told that by putting lime around your property, you will prevent snakes from entering your compound.�Though this might sound a great idea, lime does nothing to prevent snakes from entering your home.
+You might have been told that by putting lime around your property, you will prevent snakes from entering your compound.Though this might sound a great idea, lime does nothing to prevent snakes from entering your home.
 
 Also, you need to understand that instead, lime is a substance that can be dangerous to your loved ones and pets. It has been reported that lime causes severe skin burn, which is why you should avoid it.
 ### 3. Does salt keep snakes away?
 Many studies have been conducted to confirm whether salt could be used to keep snakes away from home. It is accurate to state that nothing has been found to work.
 
-Instead, the products that contain salt are formulated with other chemicals that might harm your health.�It is essential to consider using methods that have been studied and proven to work.
+Instead, the products that contain salt are formulated with other chemicals that might harm your health.It is essential to consider using methods that have been studied and proven to work.
 
 If anything, snakes do not feed on salt, which is why you cant feed them salt to kill them. Also, salt does not dehydrate snakes, so they will just walk through it and invade your home.
 

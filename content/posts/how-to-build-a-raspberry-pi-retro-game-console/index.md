@@ -30,7 +30,7 @@ and
 [RetroArch](http://www.libretro.com/)
 , which is Raspbian created by Linux.
 Notably, you'll find it easy to start with RetroPie through an installation of the SD image that is a suitable system created over the Raspbian OS.
-RetroPie combines suite utilities and tools to make it easy to run ROMs for different old-fashioned gaming stages.�However, your Raspberry Pi will not have its internal hard drive, and thus you'll need to employ a microSD card to store the RetroPie files and operating system.
+RetroPie combines suite utilities and tools to make it easy to run ROMs for different old-fashioned gaming stages.However, your Raspberry Pi will not have its internal hard drive, and thus you'll need to employ a microSD card to store the RetroPie files and operating system.
 Therefore, you'll require to
 [download](https://retropie.org.uk/download/)
 the appropriate version of the SD-Card Image. However, note that you'll find two kinds of SD-Card Image:
@@ -40,8 +40,8 @@ the appropriate version of the SD-Card Image. However, note that you'll find two
 If your
 [Raspberry Pi SD card](https://pestpolicy.com/best-sd-card-for-[raspberry-pi-3](https://pestpolicy.com/best-heatsink-for-raspberry-pi-3/)/)
 is above 32 GB, you'll need to
-format to�FAT32
-so that it can work with the retro games you'll install.�As I had outlined
+format toFAT32
+so that it can work with the retro games you'll install.As I had outlined
 earlier
 , all SD cards bigger than 32GB will have the SDXC card, which is not compatible with NOOBS.
 Therefore, to use such as 64GB and above SD card in [Raspberry](https://pestpolicy.com/best-os-for-raspberry-pi-3/) Pi, you'll need to format the card to the exFAT filesystem.
@@ -50,8 +50,8 @@ For Windows, use the
 FAT32 Format
 that you can download and run on your PC to format your SD card to FAT32 ready for Raspberry Pi operations. For Mac OS and Linux, use the
 [SD Formatter](https://www.sdcard.org/downloads/formatter_4/)
-plus the FAT32 Format�tools.
-### 4. Mac�- Installing operating system images
+plus the FAT32 Formattools.
+### 4. Mac- Installing operating system images
 For Mac, you'll install the RetroPie image using the
 [ApplePi-Baker](http://www.pibakery.org/download.html)
 tool.
@@ -73,23 +73,23 @@ Your next step will require that you properly install the SD card to the Raspber
 Remember that you'll only switch on power to your Raspberry Pi after linking all the Pi peripherals. Therefore, finally, connect the
 [Raspberry Pi MicroUSB power supply](https://pestpolicy.com/best-power-supply-raspberry-pi-3/)
 .
-To get game ROMs, you'll require to link the Raspberry Pi to the internet and find explanation scraping and gaming evaluation.�You can connect your Pi to the internet through:
+To get game ROMs, you'll require to link the Raspberry Pi to the internet and find explanation scraping and gaming evaluation.You can connect your Pi to the internet through:
 1. WiFi  RetroPie
 For the WiFi, you'll need to link all the Pi peripheral and then hit the RetroPie menu on the Raspberry Pi and hit WI-FI.
 2. WiFi  in-built
 If you have Wireless Pi Zero and Raspberry Pi 3, then you can connect to the internet through the in-built WiFi.
 3. WiFi dongle
 If none of the above WIFI options are available, then you can purchase a USB WiFi adapter that will allow you to link to the internet.
-4. Ethernet Cable�(CAT5)
+4. Ethernet Cable(CAT5)
 Notably, not all of us fancy the WIFI connection to the internet. Therefore, you can use the Ethernet (CAT5) cable to link your PI to the internet.
 ### 7. Expand the SD card and link the Raspberry Pi
-I must say that the SD card is now bigger than before.�Therefore, if you have an SD card that has a capacity of over 4GB, you'll need to expand it using
+I must say that the SD card is now bigger than before.Therefore, if you have an SD card that has a capacity of over 4GB, you'll need to expand it using
 [raspi-config](https://elinux.org/RPi_raspi-config)
 by running the sudo raspi-config command line.
 After finishing the installation and expansion, reboot the Raspberry Pi.
 ### 8. Connect the Raspberry Pi
 To copy the game ROMs, you'll now link the Raspberry Pi with the PC, which will enable you to rework its configuration files readily.
-### 9. Set up controller and search�Game ROMs
+### 9. Set up controller and searchGame ROMs
 For your
 retro game controller
 to function with the Raspberry Pi, you'll need to set up the USB controller.

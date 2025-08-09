@@ -20,7 +20,7 @@ In this guide, Ill show you how to remove paint from the [metal](https://pestpol
 Water and soap definitely won't scrape off stubborn paint from the metal doors, doorknobs, hinges, and radiators. First, I would recommend using a
 paint stripper for metal
 to remove the paint leave the metal bare.
-*In summary, here's how to how to remove paint from the metal door; prepare the metal surface and wear your protective gear, apply the paint stripper (and wait for 8 hours), remove the paint stripper and use some mineral spirits, and finally clean the metal surface.�*
+*In summary, here's how to how to remove paint from the metal door; prepare the metal surface and wear your protective gear, apply the paint stripper (and wait for 8 hours), remove the paint stripper and use some mineral spirits, and finally clean the metal surface.*
 ## Details: How to Remove Paint from Metal Door
 ### Step 1: Gather the Requirements
 First, gather the requirements, including a respirator, paint scraper, drop cloth, eye protection, disposable paint brushes, rubber gloves, nylon brush, mineral spirits, and paint stripping gel.
@@ -47,9 +47,9 @@ The nail polish remover will come with acetone being the main ingredient. Aceton
 ### Step 5: Apply Rust Remover
 You'll need to apply some
 rust remover
-that'll appear due to the presence of normal moisture - �this will mainly be on windowsills and radiators.
+that'll appear due to the presence of normal moisture - this will mainly be on windowsills and radiators.
 Thus, it's evident that removing paint from the metal door will require more care than just scrapping the paint coat layers.
-Rust removers will soak the metal rust and restore the door metal surface without scrubbing or chipping.�However, you can also use white vinegar to remove the door metal rust.
+Rust removers will soak the metal rust and restore the door metal surface without scrubbing or chipping.However, you can also use white vinegar to remove the door metal rust.
 It'll also soak or cover the metal surface - next, allow it to soak for 3 hours or overnight before scrubbing off the rusty paste. Some good products in this class include wink 1081, jelmar calcium, and wd-40 specialist.
 > See Also:
 > Removing rust from large metal objects
@@ -57,7 +57,7 @@ It'll also soak or cover the metal surface - next, allow it to soak for 3 hours 
 Soda blasting will help remove paint and stains from the metal surfaces - including on your metal door. For this process, you'll blast baking soda onto the door metal, machinery, or cars with the help of compressed air.
 Baking soda (Sodium bicarbonate) creates an abrasive impact on the door metal that'help remove the paint - it's also effective on surfaces such as wood and glass - it's luckily non-toxic.
 So, the baking soda blasting process is non-hazardous. Simultaneously, the chemical is also food-grade, which means it can be used both at home, commercially, and for industrial applications in removing paint coats.
-After the paint removal process is completed, you'll need to dissolve the baking soda into water and wash it down the drain. It won't contaminate materials or cause adverse health effects on both humans and your pets -� but you'll need to wear PPE for protection against paint lead.
+After the paint removal process is completed, you'll need to dissolve the baking soda into water and wash it down the drain. It won't contaminate materials or cause adverse health effects on both humans and your pets - but you'll need to wear PPE for protection against paint lead.
 > See Also:
 > Rustoleum galvanized metal primer
 ## Other Alternatives to Removing Paint from Metal Door

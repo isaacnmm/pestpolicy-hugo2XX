@@ -16,7 +16,7 @@ layout: post
 ---
 Getting a good [stain](https://pestpolicy.com/best-stain-for-douglas-fir-door/) will help to protect your
 wooden swing [set](https://pestpolicy.com/best-stain-for-cedar-swing-set/)
-from adverse weather conditions like harsh humidity, extreme heat, rain,� and snow.
+from adverse weather conditions like harsh humidity, extreme heat, rain, and snow.
 Also, even the best or highly-priced swing sets need proper maintenance. Taking good care of a playset will ensure it remains flawless for ages, even under extreme natural conditions.
 ## 7 Best Stain for Swing Set in 2025
 ### [1. Ready Seal 112 Stain for Swing Set](https://www.amazon.com/dp/B00MDVLMGK/?tag=p-policy-20)

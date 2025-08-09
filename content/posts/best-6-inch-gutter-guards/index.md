@@ -27,7 +27,7 @@ This article will highlight the top gutter guard options specifically suited for
 For 6-inch gutters, robust micro-mesh systems are generally the gold standard, offering comprehensive protection and ensuring optimal water flow even during torrential downpours. Both professionally installed and high-quality DIY options are available.
 
 1.  **LeafFilter (Stainless Steel Micro-Mesh with uPVC Frame):**
-    * **Expert Take:** LeafFilter's patented system is consistently top-rated for all gutter sizes, including 6-inch. Its surgical-grade **stainless steel micro-mesh** (275 microns) is unparalleled at blocking all debris � from large leaves and twigs to tiny pine needles, shingle grit, and even pollen. The durable uPVC frame is designed to fit securely over existing 6-inch gutters without interfering with roof shingles. It handles massive water volumes, crucial for larger gutters.
+    * **Expert Take:** LeafFilter's patented system is consistently top-rated for all gutter sizes, including 6-inch. Its surgical-grade **stainless steel micro-mesh** (275 microns) is unparalleled at blocking all debris  from large leaves and twigs to tiny pine needles, shingle grit, and even pollen. The durable uPVC frame is designed to fit securely over existing 6-inch gutters without interfering with roof shingles. It handles massive water volumes, crucial for larger gutters.
     * **Pros:** Supreme debris filtration, excellent water handling capacity, professional installation with a comprehensive **lifetime transferable warranty**, strong customer reviews.
     * **Cons:** Higher price point due to professional installation, uPVC frame might be a consideration for those prioritizing all-metal construction.
 
@@ -73,7 +73,7 @@ Choosing the ideal gutter guard for your 6-inch gutters requires careful conside
 
 ### 1. Filtration Effectiveness (Micro-Mesh is Best)
 
-* **Comprehensive Debris Protection:** 6-inch gutters are designed for high water flow, but their large opening can also collect vast amounts of debris. For the best protection against all types of debris�including small, problematic ones like pine needles, shingle grit, and seeds�a **micro-mesh system** is highly recommended. It prevents clogs that can impact the high volume capacity of 6-inch gutters.
+* **Comprehensive Debris Protection:** 6-inch gutters are designed for high water flow, but their large opening can also collect vast amounts of debris. For the best protection against all types of debrisincluding small, problematic ones like pine needles, shingle grit, and seedsa **micro-mesh system** is highly recommended. It prevents clogs that can impact the high volume capacity of 6-inch gutters.
 * **Avoid Large Openings:** Coarse screens or guards with large perforations will inevitably let smaller debris into your gutters, leading to accumulation and future clogs.
 
 ### 2. Material Durability and Longevity
@@ -84,7 +84,7 @@ Choosing the ideal gutter guard for your 6-inch gutters requires careful conside
 
 ### 3. Water Handling Capacity
 
-* **Designed for High Flow:** Your 6-inch gutters are there for a reason � to handle significant rainfall. The gutter guard must not impede this. Micro-mesh systems, particularly those with raised patterns or angled installations, are excellent at allowing large volumes of water to pass through while shedding debris.
+* **Designed for High Flow:** Your 6-inch gutters are there for a reason  to handle significant rainfall. The gutter guard must not impede this. Micro-mesh systems, particularly those with raised patterns or angled installations, are excellent at allowing large volumes of water to pass through while shedding debris.
 * **No Overshooting:** A common issue with poorly designed or clogged guards is water "overshooting" the gutter during heavy downpours. High-quality guards prevent this by effectively channeling all water into the gutter.
 
 ### 4. Installation Method: Professional vs. DIY

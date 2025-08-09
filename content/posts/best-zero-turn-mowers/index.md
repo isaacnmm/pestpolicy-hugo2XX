@@ -79,7 +79,7 @@ This mower is designed for those with large properties who need to cover a lot o
 **Cons:**
 - Large size may be difficult to maneuver in smaller areas.
 - Higher price point.
-## **3. Ariens 25HP ZTR� Zero-Turn Mower**
+## **3. Ariens 25HP ZTR Zero-Turn Mower**
 The
 **Ariens 25HP ZTR**
 features a 52-inch fabricated deck and a 25 HP Kohler 7000 Series engine, designed to provide reliable power and performance.

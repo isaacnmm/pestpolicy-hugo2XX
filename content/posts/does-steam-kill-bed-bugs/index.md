@@ -17,8 +17,8 @@ layout: post
 "Goodnight, sleep tight, and don't let the bed bugs bite!"
 
 The thought of sharing our beds with resilient critters that live off our skin and blood is enough to make your flesh crawl.
-**So, does Steam Kill Bed Bugs?�**
-**The short answer is, Yes, using steam is a great way to kill bed bugs and allow us all to sleep a little easier in our beds.�**
+**So, does Steam Kill Bed Bugs?**
+**The short answer is, Yes, using steam is a great way to kill bed bugs and allow us all to sleep a little easier in our beds.**
 ## Does Steam Kill Bed Bugs?
 Bed bugs are small insects that look a little like the seeds from an apple. They are usually brown but can look red when they have had a full feed of blood.
 

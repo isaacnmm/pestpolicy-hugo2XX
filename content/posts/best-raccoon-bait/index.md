@@ -56,7 +56,7 @@ Always place the bait away from the walls of the trap. Raccoons are intelligent 
 
 Remember to place something heavy on top of the trap so that the raccoon doesnt knock it over.
 If you need to trap more than a single raccoon, it is advisable to engage the services of a professional so that the nursery can be quickly relocated after trapping. This will guarantee the safety of the kits. The expert will also be able to put measures that prevent future invasions again.
-Always find out the laid down wildlife regulation policies for your area so you dont find yourself on the wrong side of the law.�Related:
+Always find out the laid down wildlife regulation policies for your area so you dont find yourself on the wrong side of the law.Related:
 [Learn The Raccoon Facts](https://pestpolicy.com/raccoon-facts/)
 An egg -
 Raccoons arent picky eaters. They eat anything and everything they come across. Eggs are some of their favorites. You can trap them by simply placing an uncracked egg at the back of the trap.

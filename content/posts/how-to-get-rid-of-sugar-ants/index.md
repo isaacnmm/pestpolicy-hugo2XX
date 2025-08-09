@@ -25,7 +25,7 @@ In this post, I've discussed the 5 effective ways on how to get rid of the sugar
 ## How to Get Rid of Sugar Ants
 You'll mainly see sugar ants in the yard, under rocks, on trees, and if you are not careful, in your home. They are mainly attracted to sugary foods and scraps and they will do anything to gain entry into your home to find them.
 
-These� insect's body size allows them to gain entry into your home through the tiniest spaces.�Sugar ants can be extremely annoying to most homeowners.�Let's get into the details of how to get rid of sugar ants once and for all:
+These insect's body size allows them to gain entry into your home through the tiniest spaces.Sugar ants can be extremely annoying to most homeowners.Let's get into the details of how to get rid of sugar ants once and for all:
 ## A. Natural Methods
 ### 1. Keep your house clean, especially the kitchen
 The typical sugar ant diet consists of anything they can find lying around in your home. Even a tiny crumb from a snack you hastily devoured might be enough to attract hundreds of ants to your home. Always keep your home clean and surfaces free from food scraps that might attract ants. Make sure you clean dirty dishes in the sink and dispose of your trash regularly. Wipe down the counters thoroughly, dust your shelves, vacuum your floors, and have professionals clean the carpet regularly.
@@ -55,4 +55,4 @@ If you have tried all these methods and failed( which is highly unlikely), your 
 ## Sources:
 1. [Targeted Removal of Ant Colonies in Ecological Experiments - NCBI](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2999503/)
 2. [Banded sugar ant - Wikipedia](https://en.wikipedia.org/wiki/Banded_sugar_ant)
-3. [Follower ants in a tandem pair are not always na�ve - NCBI](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4448225/)
+3. [Follower ants in a tandem pair are not always nave - NCBI](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4448225/)

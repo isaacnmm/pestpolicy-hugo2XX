@@ -198,4 +198,4 @@ Cons:
 > [Paint Brushes for Watercolor](https://pestpolicy.com/best-paint-brushes-for-watercolor/)
 ## Conclusion
 Choosing the best paint brush for smooth finish is vital in eliminating drains that occur when painting. Usually, paint brushes are manufactured for various paint application purposes, and proper selection/matching is needed when placing your order.
-Your top choice paintbrush should be lightweight, durable, more comfortable to use, simple to clean, attractive, and feature fine filament material.�It will also help if you consider an affordable paint brush without sacrificing the net quality during purchase.
+Your top choice paintbrush should be lightweight, durable, more comfortable to use, simple to clean, attractive, and feature fine filament material.It will also help if you consider an affordable paint brush without sacrificing the net quality during purchase.

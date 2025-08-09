@@ -16,7 +16,7 @@ layout: post
 ---
 Cockroaches never go away. They persist, adapt, and reproduce, making them difficult to control.
 - However, using the best [roach](https://pestpolicy.com/best-roach-killer-for-apartments/) bait can significantly improve your chances of[eliminating](https://www.entm.purdue.edu/ants/pubs/18.pdf)these household pests.
-Below, I've reviewed the top roach baits available today, highlighting their effectiveness in controlling German roaches - especially due to the secondary kill effect.�Related:
+Below, I've reviewed the top roach baits available today, highlighting their effectiveness in controlling German roaches - especially due to the secondary kill effect.Related:
 [Other roach killers](https://pestpolicy.com/best-roach-killer-for-apartments/)
 ## Top 7 Best Roach Baits in the Market
 ### [1. Advion 383920 German Roach Bait (Tubes + Plungers)](https://www.amazon.com/dp/B00730QW70?&linkCode=ll1&tag=p-policy-20&linkId=4784351070cd9c6b39ae5413388b4e41&language=en_US&ref_=as_li_ss_tl)

@@ -114,7 +114,7 @@ MasterShield gutter guards are designed for **professional installation only** b
 1.  **Gutter Inspection and Cleaning:** The installers will first inspect your existing gutters, ensure they are properly pitched, and thoroughly clean out all debris.
 2.  **Minor Repairs:** Any necessary minor repairs to your existing gutters (e.g., re-securing loose sections, sealing leaks) are typically performed.
 3.  **Custom Fitting:** The aluminum frame sections with the micro-mesh are custom-cut on-site to fit your gutter system perfectly.
-4.  **Securing the Guards:** MasterShield guards are typically secured to the front lip of the gutter and often slide partially under the roof shingles. Their "Shingle-Safe� back" is designed to allow this without voiding most shingle warranties, but it's always wise to confirm with your shingle manufacturer if this is a concern. The guards are installed at the same pitch as the roof, which may involve re-pitching existing gutters for optimal performance.
+4.  **Securing the Guards:** MasterShield guards are typically secured to the front lip of the gutter and often slide partially under the roof shingles. Their "Shingle-Safe back" is designed to allow this without voiding most shingle warranties, but it's always wise to confirm with your shingle manufacturer if this is a concern. The guards are installed at the same pitch as the roof, which may involve re-pitching existing gutters for optimal performance.
 5.  **Seamless Integration:** Panels are designed to interlock seamlessly to prevent gaps, and endcaps enclose the system.
 6.  **Cleanup:** The installation team ensures a thorough cleanup of all debris from the job site.
 
@@ -171,6 +171,6 @@ As with any company, some negative reviews exist, though they are less common. T
 
 For homeowners who are tired of constant gutter cleaning and are seeking a high-performance, long-term solution, **MasterShield Gutter Guards are definitely worth considering.** Their patented micro-mesh and roof-pitch design directly address common issues faced by other gutter guard systems, offering a highly effective barrier against virtually all types of debris.
 
-While the initial investment is substantial, the benefits�including significantly reduced maintenance, prevention of costly water damage, enhanced home value (due to the transferable warranty), and peace of mind�often outweigh the cost for many homeowners. If your property is heavily treed, prone to pine needles, or experiences heavy rainfall, MasterShield's advanced filtration and shedding capabilities make it a top-tier choice.
+While the initial investment is substantial, the benefitsincluding significantly reduced maintenance, prevention of costly water damage, enhanced home value (due to the transferable warranty), and peace of mindoften outweigh the cost for many homeowners. If your property is heavily treed, prone to pine needles, or experiences heavy rainfall, MasterShield's advanced filtration and shedding capabilities make it a top-tier choice.
 
 We recommend obtaining a free, no-obligation quote from a local MasterShield dealer and comparing it with 1-2 other reputable, professionally installed systems (like LeafFilter or Gutter Helmet) to ensure you choose the best gutter protection solution for your specific home and budget.

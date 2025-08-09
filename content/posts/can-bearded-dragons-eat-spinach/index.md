@@ -16,7 +16,7 @@ layout: post
 ---
 We've seen that [bearded](https://pestpolicy.com/can-bearded-dragons-eat-apples/) dragons will eat fruits like peaches, watermelon, strawberries, and even apples. But can bearded dragons eat spinach - the green leafy vegetable?
 - Can spinach harm the bearded dragons or does it hold some significant nutritional value for them?
-**So, technically, YES - bearded dragons will feed on spinach as it's not toxic to these pets and the leafy vegetables have some level of nutritional value.�**
+**So, technically, YES - bearded dragons will feed on spinach as it's not toxic to these pets and the leafy vegetables have some level of nutritional value.**
 But spinach has notable compounds that would make the vegetable unsuitable for feeding to the bearded dragons on a regular basis. So, we generally advise you to avoid spinach in the beardies' diet.
 
 Check these
@@ -32,15 +32,15 @@ Bearded dragons will require a dietary balanced meal that included veggies, frui
 The adult dragon will require 20% insects and 80% plants. But baby or younger dragons require 30% plants and 70% insects (meat) or even 50-50 as advised by the veterinarian.
 - Bearded dragons are considered omnivores - and thus they'll feed on both plant and meat foods. But their nutritional requirement will change with their age.
 - So, if you're checking out meat alternatives or sources to give your dragons, I would recommend trying some Nightcrawlers. Further, the plant-based dies must have mainly vegetables.
-Feeding Spinach to�Bearded Dragons? Any Benefits?
+Feeding Spinach toBearded Dragons? Any Benefits?
 
 The benefits of feeding spinach to our bearded dragons include that it offers some level of nutritional value.
 
 These are the nutritional values of raw spinach - this is per every 100 grams as noted by the
-*Agriculture Department in the United States.�*
+*Agriculture Department in the United States.*
 - Magnesium 79 mg
 - Iron 2.71 mg
-- Vitamin A469 �g
+- Vitamin A469 g
 - Vitamin C28.1 mg
 - Protein 2.86 g
 - Fat 0.39 g
@@ -56,7 +56,7 @@ These are the nutritional values of raw spinach - this is per every 100 grams as
 Spinach is an antioxidant- and nutrient-rich vegetable as it comes with high levels of calcium, iron, folic acid, vitamin K, vitamin C, and carotenoids.
 - On anti-oxidants, spinach is a great source of antioxidants such as lutein which is considered to reduce the probability of macular degeneration and enhance eye health.
 - Spinach contains a great blend of antioxidants and minerals that'll help the dragon to evade heart problems as it reduces cholesterol levels.
-The anti-oxidants and minerals will also strengthen the bearded dragon's bones and tissue� - keeping the dragon's bonds strong and also healthy.
+The anti-oxidants and minerals will also strengthen the bearded dragon's bones and tissue - keeping the dragon's bonds strong and also healthy.
 ### 2. Suitable Vitamins Source
 The beaded dragons will reap some significant vitamin quantities in the spinach - these include vitamins C, B-6, and A.
 **Vitamin C -**

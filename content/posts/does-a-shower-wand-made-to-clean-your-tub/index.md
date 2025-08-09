@@ -24,7 +24,7 @@ Among the myriad options available, the **Delta ProClean Handheld Shower** stand
 
 The Delta ProClean Handheld Shower is designed with a thoughtful combination of spray technology, ergonomic design, and convenient features that make it highly effective for both personal use and rigorous cleaning.
 
-* ### **The Signature ProClean� Spray**
+* ### **The Signature ProClean Spray**
     This is the star feature that sets the ProClean apart. Delta's ProClean spray is engineered to deliver a **concentrated, high-pressure stream of water**. Unlike a wide, gentle rain-like spray, the ProClean setting funnels water through fewer, more powerful nozzles, creating a forceful jet.
     * **For Cleaning:** This targeted power is invaluable for blasting away soap scum, rinsing off cleaning solution residue, and dislodging hair or grime from the tub and shower walls. It can reach into corners and along grout lines more effectively than a standard spray, significantly reducing the need for excessive scrubbing. It's particularly useful for rinsing after applying a foaming cleaner, ensuring all suds are thoroughly washed down the drain.
     * **For Personal Use:** While powerful, it can also provide a vigorous rinse, ideal for washing shampoo out of long hair or invigorating your shower experience.
@@ -47,11 +47,11 @@ The Delta ProClean Handheld Shower is designed with a thoughtful combination of 
 * ### **Water Efficiency (WaterSense Certified)**
     Many Delta ProClean handheld showers are **WaterSense certified**, meaning they use 2.0 gallons per minute (GPM) or less, without compromising performance. This ensures that even with a powerful "ProClean" spray, you're conserving water, which is good for both the environment and your utility bills.
 
-* ### **Magnetic Docking (MagnaTite� Technology)**
-    Some higher-end Delta handhelds, including variants that might offer the ProClean spray, feature **MagnaTite� Docking**. This magnetic system securely holds the handheld shower in place when not in use, making it incredibly easy to snap it back onto the shower arm mount, even with wet or soapy hands. This convenience enhances the user experience, especially during cleaning when you might be switching between scrubbing and rinsing. If MagnaTite isn't present, a robust, adjustable cradle that securely holds the wand is still essential.
+* ### **Magnetic Docking (MagnaTite Technology)**
+    Some higher-end Delta handhelds, including variants that might offer the ProClean spray, feature **MagnaTite Docking**. This magnetic system securely holds the handheld shower in place when not in use, making it incredibly easy to snap it back onto the shower arm mount, even with wet or soapy hands. This convenience enhances the user experience, especially during cleaning when you might be switching between scrubbing and rinsing. If MagnaTite isn't present, a robust, adjustable cradle that securely holds the wand is still essential.
 
 * ### **Durable Finishes and Easy Cleaning**
-    Delta offers various finishes (e.g., Chrome, SpotShield� Brushed Nickel, Venetian Bronze�). Finishes like **SpotShield�** are designed to resist water spots and fingerprints, which makes cleaning the fixture itself easier and helps maintain its pristine appearance. The nozzles on Delta showerheads often feature soft rubberized spray holes (Touch-Clean� nozzles) that allow you to easily wipe away calcium and lime buildup with just a touch of your finger, ensuring the spray remains strong and consistent over time.
+    Delta offers various finishes (e.g., Chrome, SpotShield Brushed Nickel, Venetian Bronze). Finishes like **SpotShield** are designed to resist water spots and fingerprints, which makes cleaning the fixture itself easier and helps maintain its pristine appearance. The nozzles on Delta showerheads often feature soft rubberized spray holes (Touch-Clean nozzles) that allow you to easily wipe away calcium and lime buildup with just a touch of your finger, ensuring the spray remains strong and consistent over time.
 
 * ### **Straightforward Installation**
     Replacing an existing showerhead with a Delta ProClean handheld model is typically a straightforward DIY task that requires minimal tools (often just an adjustable wrench and plumber's tape). This means you can upgrade your shower's functionality without the need for a professional plumber.

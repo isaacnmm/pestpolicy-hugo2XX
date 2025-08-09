@@ -71,7 +71,7 @@ This power wheel also comes with excellent safety features to keep the 3-year-ol
 
 More than that, this power wheel features an enclosed bicycle chain that makes pedaling and forward movement easy. This feature provides safety and comfort.
 
-The good thing with this power wheel is that your little one will grow with it. The manufacturers recommended age for this ride on car is 3-7 years. The ideal weight is 30 lbs. and its dimensions are 24.75"� x 50.5" x 25.75".
+The good thing with this power wheel is that your little one will grow with it. The manufacturers recommended age for this ride on car is 3-7 years. The ideal weight is 30 lbs. and its dimensions are 24.75" x 50.5" x 25.75".
 Pros:
 - Easy to assemble
 - Provides excellent outdoor fun

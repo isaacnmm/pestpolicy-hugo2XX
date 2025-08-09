@@ -17,9 +17,9 @@ layout: post
 Bed bugs will feed on your bare (or hairless) skin areas - including legs, arms, face, and neck. For starters,
 bed bug bites
 will appear as tiny red welts that'll effectively remain for 2+ weeks.
-*Can bed bugs live in your skin?...No? Bed bugs don't like heat so that they won't stick to the human skin or hair. They'll feed on humans' blood (skin) but hide in other locations like clothes.�*
+*Can bed bugs live in your skin?...No? Bed bugs don't like heat so that they won't stick to the human skin or hair. They'll feed on humans' blood (skin) but hide in other locations like clothes.*
 *Therefore, any bugs that are burrowing and living in human skin are possibly ticks, lice, or fleas. Bed bugs will mainly travel on shoes, luggage, and backpacks*
-*.�*
+*.*
 
 ## Details: Can Bed Bugs Live in Your Skin? Bite Signs?
 Bedbugs have made a significant comeback in the world - and the United States specifically. They feed mainly on blood from warm-blooded hosts and humans - have a
@@ -28,7 +28,7 @@ to identity.
 But bed bug bites will be painless as they'll inject some blood thinner or anticoagulant plus an anesthetic that'll produce some numbing effect for about 5-10 minutes.
 Bed bugs
 will mainly be active at night since they're attracted to the constant carbon dioxide flow we emit while sleeping. The bite turns into a big itchy and raised welt - they're infected if scratched.
-Every human being will react differently to the bed bug bites. It's an everyday reality that� 30 percent of
+Every human being will react differently to the bed bug bites. It's an everyday reality that 30 percent of
 humans won't show any reaction to the bites
 - they might only see some small puncture wound.
 Bedbugs may take about two weeks to develop, and they'll be lined in a row on your skin -
@@ -39,7 +39,7 @@ https://www.youtube.com/watch?v=d2w0BIY_v2E
 Bed bug bites heal
 fully within 3-6 weeks
 . However, when there is a significant infestation, new bites could accumulate as the older edges disappear.
-However, the bedbug bites won't generally need treatment - most people will mainly experience just itching. For severe itching, you may get oral antihistamines or�topical steroid creams for relief.
+However, the bedbug bites won't generally need treatment - most people will mainly experience just itching. For severe itching, you may get oral antihistamines ortopical steroid creams for relief.
 The
 [bedbugs](https://www.webmd.com/skin-problems-and-treatments/ss/slideshow-bedbugs)
 are brownish, oval, and small in size (apple seed)- they'll live on blood from humans and animals. The fed bug
@@ -62,10 +62,10 @@ bed bugs will scatter all over your bedroom, hiding
 in protected areas or crevices in different apartments and rooms. Therefore, having
 [bed bugs](https://pestpolicy.com/dead-bed-bugs/)
 won't signify dirtiness.
-## When Do�Bedbugs Bite?
+## When DoBedbugs Bite?
 [Bedbugs will be jumping](https://pestpolicy.com/do-bed-bugs-jump/)
 up and down during the night to bite humans in their sleep. They'll pierce your skin to draw blood using its elongated beak.
-They'll feed for 3-10 minutes allowing it to get blood-engorged while also crawling away securely. The bites initially are painless but�could lead to itchy welts.
+They'll feed for 3-10 minutes allowing it to get blood-engorged while also crawling away securely. The bites initially are painless butcould lead to itchy welts.
 Flea bites
 will predominantly be located around your ankles, but bed bug bites are found on any exposed skin when humans are sleeping. Further, bed bugs don't have a central red spot like flea bites.
 ## Signs of Bed bugs Infestation?

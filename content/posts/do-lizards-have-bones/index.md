@@ -14,12 +14,12 @@ tags:
 - bone
 layout: post
 ---
-Probably you have come across various species of lizards in your home, compound, fields, yards, or zoo and wonder if they have bones. How then are their body muscles supported?��So,
-*do lizards have bones?�*
+Probably you have come across various species of lizards in your home, compound, fields, yards, or zoo and wonder if they have bones. How then are their body muscles supported?So,
+*do lizards have bones?*
 **The direct answer is, YES, all **
 lizards are vertebrates
-** that have bones that are interconnected together to help them in locomotion.�**
-**The bones of lizards are classified under either appendicular skeleton or axial skeleton. These bones offer support, protection of internal organs, and options for attachment of body muscles and cells. The number of each bone varies according to size and species of lizard.�**
+** that have bones that are interconnected together to help them in locomotion.**
+**The bones of lizards are classified under either appendicular skeleton or axial skeleton. These bones offer support, protection of internal organs, and options for attachment of body muscles and cells. The number of each bone varies according to size and species of lizard.**
 
 ## Details: Do Lizards Have Bones?
 [Lizards, like other reptiles, have bones](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4860302/)
@@ -59,7 +59,7 @@ The appendicular skeleton in lizards comprises of the bones that form the front 
 **1. Pectoral girdle.**
 This consist of two main bones, that is, the scapula and the collarbone also called clavicle. The clavicle is s-shaped [bone](https://pestpolicy.com/do-spiders-have-bones/), which articulates with the sternum at the front chest of the lizard. The clavicle also joins the scapula at the end of lizards shoulder.
 
-Its main function is to support the scapula. Lizards have two collarbones  each jointed at the sternum and scapula.�Scapula is a bone that articulates with humerus and aid in the shoulder movement of lizard.
+Its main function is to support the scapula. Lizards have two collarbones  each jointed at the sternum and scapula.Scapula is a bone that articulates with humerus and aid in the shoulder movement of lizard.
 
 Scapula has a wide v-shaped surface area that offers an option for attachment of the neck and back muscles that coordinates the movement of joints. Lizards have two scapula  one for each front leg/limb.
 **2. Front Legs.**
@@ -74,7 +74,7 @@ The bones at the front legs of lizards function to coordinate in the locomotion 
 The Pelvic girdle has three bones that provide an option for the attachment of the lizards hind legs. The three bones are the pubis (front), ischium (back) and ilium (wing). The pelvic girdle also provides the surface for attachment of back muscles.
 
 Most lizard species have their pelvic girdle fused and linked to the axial skeleton at the caudal vertebrae except in large lizards such as Komodo Dragon and Tree Crocodile Monitor and
-bearded dragons� do they eat tomatoes?
+bearded dragons do they eat tomatoes?
 .
 
 In small lizards, the femur is connected directly to the axial skeleton through the ball and socket joint at the sacral vertebrae.
@@ -103,7 +103,7 @@ The dorsal vertebrae, also called thoracic vertebrae, is found at the chest regi
 
 The end of each rid is attached to sternum (breastbone) that is located at the front chest region. The number of ribs and vertebra varies from one lizard species to another. Large lizards like Tree Crocodile monitor and Komodo Drago have 15 to 24 vertebra, the medium sized lizard lizards have 10 to 16 dorsal vertebra while small lizards such as savannah and chameleon lizards have 7 to 11 thoracic vertebrae.
 
-Each dorsal vertebra is connected to two ribs (one on either side).� The dorsal vertebral provides option for the attachment of the back muscles.
+Each dorsal vertebra is connected to two ribs (one on either side). The dorsal vertebral provides option for the attachment of the back muscles.
 
 Related:
 [Are Lizards Poisonous?](https://pestpolicy.com/are-lizards-poisonous/)
@@ -123,4 +123,4 @@ Are Leopard Geckos Nocturnal?
 ## Conclusions
 All Lizard species have bones that are collectively linked to aid them in protection and locomotion. The bones are classified under either appendicular skeleton or axial skeleton.
 
-Main functions of the bones include support, protection of internal organs and offer options for attachment of body muscles. �The total number of bones vary according to size and species of lizard. Lizards have an average of 28 specialized bones.
+Main functions of the bones include support, protection of internal organs and offer options for attachment of body muscles. The total number of bones vary according to size and species of lizard. Lizards have an average of 28 specialized bones.

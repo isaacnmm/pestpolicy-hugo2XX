@@ -17,7 +17,7 @@ layout: post
 [live trapping for moles](https://pestpolicy.com/best-mole-traps/)
 .
 - In some parts of the United States and Europe, you'll need a trapping or hunting [trap](https://pestpolicy.com/best-fly-trap/) to trap moles legally - you'd need to check with the wildlife authorities in your area for details.
-**Moles are generally unclassified (you can kill or trap them in your property if they harm domestic animals, crops, or plants) but the use of� snap trap or body-gripping mole traps is illegal in areas such as Washington, D.C. since they will kill or injure the moles - thanks to a law passed in 2000.�**
+**Moles are generally unclassified (you can kill or trap them in your property if they harm domestic animals, crops, or plants) but the use of snap trap or body-gripping mole traps is illegal in areas such as Washington, D.C. since they will kill or injure the moles - thanks to a law passed in 2000.**
 Moles survive thanks to human activity (feeding mainly on garbage) since they're non-commensal species - it doesn't harm humans in urban areas. However, the mole traps that have the design considered as
 body-gripping are not allowed.
 ## Details: Why are Mole Traps Illegal?
@@ -39,8 +39,8 @@ Moles are considered unclassified - and thus homeowners are allowed to kill the 
 How would you know that you have gophers or moles - an excellent sign for gopher presence including holes and openings.
 - If the holes have fresh and fluffy dirt will point to the presence of moles and gophers continuing with their digging activity.
 For example, in North Carolina, you must get a depredation permit that'll allow you to undertake legal control of the moles in the backyard or garden.
-- But will it be legal to kill voles? Well, moles and voles�have different feeding habits; this means that methods used to treat voles won't harm moles.� However, treating for grabs may also help control moles.
-North Carolina has three key mole species; star-nosed�mole, hairy-tailed�mole, and the eastern�mole - these will dig tunnels but won't dig up plant bulbs and roots.
+- But will it be legal to kill voles? Well, moles and voleshave different feeding habits; this means that methods used to treat voles won't harm moles. However, treating for grabs may also help control moles.
+North Carolina has three key mole species; star-nosedmole, hairy-tailedmole, and the easternmole - these will dig tunnels but won't dig up plant bulbs and roots.
 ## Alternatives to Mole Traps?
 ### 1. Smoke Bombs
 Smoke bombs will work effectively for controlling wildlife including
@@ -49,7 +49,7 @@ ground squirrels, skunks, rats, woodchucks, moles, and gophers.
 However, some cities may prohibit the use of smoke bombs for control of moles since the smoke could also drift to the neighbors homes - which may be offensive.
 ### 2. Poison Baits
 Poison baits are equally an appropriate mole-control technique - some of the most popular will have warfarin which is a blood-thinner and this will make the moles bleed to their death.
-- Warfarin will equally kill other animals such as songbirds, chickens, pet and feral hogs, dogs, mice, cats, and rats� - but may also poison humans.
+- Warfarin will equally kill other animals such as songbirds, chickens, pet and feral hogs, dogs, mice, cats, and rats - but may also poison humans.
 The zinc phosphide baits should be used to control moles - but must only be in the hands of licensed mole-control experts.
 - However, criminal or civil liability may befall you if any of the baits intended for killing moles land is picked and consumed by children or pets - and if especially they suffer injury, death, or illness.
 ### 3. Flooding
@@ -58,6 +58,6 @@ Because moles usually create comprehensive tunnels, flooding these tunnels can b
 Luckily, flooding the moles is a legal of controlling moles as it will not directly cause physical injury to the animal but will kill it humanely.
 - However, practically flooding may only work to irritate the moles and thus they may be forced to move off your property - this natural technique for mole control is cheap and may be used more regularly.
 ## Conclusion
-In conclusion, the anti-trapping law passed in 2000 bans trapping moles in some states such as Washington DC - especially with methods using the snap�trap or body-gripping design traps.
+In conclusion, the anti-trapping law passed in 2000 bans trapping moles in some states such as Washington DC - especially with methods using the snaptrap or body-gripping design traps.
 - Alternative mole control methods that are legal include using drowning, drugs, gas, ferrets, and shooting.
 - Generally, moles are considered unclassified and thus homeowners are allowed to trap this wildlife especially if they're damaging your property, or harming your domestic animals or crops.

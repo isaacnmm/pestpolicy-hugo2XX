@@ -19,12 +19,12 @@ When I first left my parent's house and got my apartment, it was a frustrating h
 **Lets face it:**
 Controlling
 [bed bugs](https://www.cornellcollege.edu/student-health/bed-bug-info.shtml)
-can be a difficult, expensive, and time-consuming task given that they've�become
+can be a difficult, expensive, and time-consuming task given that they'vebecome
 [more resistant to insecticides](https://www.bbc.com/news/science-environment-35421742)
 such as neonicotinoids. But imagine what it would be like if
 bed bugs could also fly-hide/)
 ? Well, this would be a notable horror. So, let's dive right in for more details.
-**In short, NO - Bed bugs do not�jump or fly**
+**In short, NO - Bed bugs do notjump or fly**
 but have dysfunctional wing pads. They mainly use crawling to move around looking for a blood meal, a
 hiding place
 , or a new host.
@@ -42,18 +42,18 @@ You ever wondered
 Well, bed bugs are wingless insects. However, on the flip side, these bugs winglets make it look like they have wings, but the wings do not develop fully.
 So, the flat body (oval too) and underdeveloped wings are the bugs' key features. To put it into perspective, bed bugs are something just some inches larger than your largest fleas.
 **To avoid confusion**
-,� bed bugs are about apple-seed-sized insects living off blood from human beings and animals. Before sucking blood, the bugs will be flat in
+, bed bugs are about apple-seed-sized insects living off blood from human beings and animals. Before sucking blood, the bugs will be flat in
 shape but swells into a reddish colored
 bug after the blood meal. However, since bed bugs only feed on blood, seeing them on your premises does not signify that you have a dirty living.
-**What about baby bed bugs?�**
+**What about baby bed bugs?**
 Just like the adult bed bugs, their
 nymphs (the Immature bedbugs)
 are also wingless but will also shed some skin (molting) 5 times before attaining the adult stage.
 So, since they cannot jump around quickly to hide from human beings and other enemies, these bugs will hide in tiny spaces, particularly in a cluster.
 For example, you can find the bed bugs and their eggs in headboards, bed frames, box springs, and mattresses. But don't worry, I created an article on
-*�*
+**
 how to get rid of stink bugs.
-## **Do Bed Bugs Climb Walls?�**
+## **Do Bed Bugs Climb Walls?**
 As noted above, bed bugs and their nymphs will move only through crawling. Their crawling sprees will most likely lead the bugs to climb on different favorable walls and finally getting onto beds, cupboards, and cabinets.
 Besides, bed bugs can crawl through drain pipes to get from one house to another. Therefore, its always a good idea to unblocked clogged drains, possibly using one of the
 [best drain cleaners](https://pestpolicy.com/best-drain-cleaner//)
@@ -67,6 +67,6 @@ But dont be too happy; the bugs can still use electrical runs and pipe chases. C
 or
 bed bug steamers
 .
-## **Conclusion�**
+## **Conclusion**
 Its clear now that, despite having some wing pads, bed bugs will not jump or fly like your regular insects such as flies and fleas.
 The legs of these bugs do not have enough energy to propel it into a distance through jumping. Therefore, the sole method of movement for the bed bugs is through crawling.

@@ -191,7 +191,7 @@ Cons:
 ### [7. Krylon K01000A07 Metallic Spray Paint 18K Gold](https://www.amazon.com/dp/B000BZX3H6/?tag=p-policy-20)
 Krylon K01000A07 gold paint features low VOC component integrations and natural grain additives that improve overall outlook upon application.
 
-The high stickiness ability/adhesive strength that comes with� Krylon K01000A07 holds over the painted surface instantly without dripping.
+The high stickiness ability/adhesive strength that comes with Krylon K01000A07 holds over the painted surface instantly without dripping.
 Indeed, Krylon K01000A07 integrates complex chemical formulation, which is self-leveling and drain free.
 By choosing to use Krylon K01000A07, you will not only eliminate peeling and scuffing problems, but you'll also curb costs associated with frequent painting - the coating layer is long-lasting.
 Furthermore, Krylon K01000A07 is designed with a simple press nozzle (for precise application) and comes in a sufficiently pressurized form, which supports smooth paint spray action without any overspray.

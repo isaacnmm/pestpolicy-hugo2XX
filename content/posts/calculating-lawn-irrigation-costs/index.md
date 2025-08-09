@@ -18,7 +18,7 @@ A lush, green [lawn](https://pestpolicy.com/10-essential-lawn-and-garden-tools-f
 
 Irrigation costs are influenced by a combination of factors, including your local water rates, the efficiency of your watering system, the size of your lawn, and even your watering habits. By breaking down the components of water usage and applying simple calculations, you can gain clarity on where your money is going and identify opportunities for savings. This guide will delve into best practices for efficient watering, provide a step-by-step approach to calculating your water use and associated costs, and explore other factors that can impact your irrigation budget, ultimately empowering you to manage your lawn's thirst more effectively.
 
-## Watering Do's and Don�ts
+## Watering Do's and Donts
 
 Before diving into calculations, adopting efficient watering habits is the first step to reducing costs. The goal is to maximize water absorption and minimize waste.
 

@@ -84,10 +84,10 @@ Pros
 - Best Christmas gift
 Cons
 - Accommodates only one character inside
-[LEGO Creator 3 in 1 Townhouse Pet Shop & Caf� (31097)](https://www.amazon.com/dp/B07QQ39VMY/?tag=p-policy-20)
+[LEGO Creator 3 in 1 Townhouse Pet Shop & Caf (31097)](https://www.amazon.com/dp/B07QQ39VMY/?tag=p-policy-20)
 If youre looking for a Lego set that would enhance your childs creative thinking then this 3 in 1 play set would be a perfect bet.
 
-It allows the kid to create and recreate 3 fun toys. They can build a townhouse, a caf�, and pet shop. They can then rebuild and come up with a Market Street or a multi-story Bank. Their creativity will allow them build whatever they can imagine.
+It allows the kid to create and recreate 3 fun toys. They can build a townhouse, a caf, and pet shop. They can then rebuild and come up with a Market Street or a multi-story Bank. Their creativity will allow them build whatever they can imagine.
 
 This amazing townhouse has a wide range of exciting interior details that can inspire creative building. It forces the child to be imaginative and creative for an awesome play experience.
 

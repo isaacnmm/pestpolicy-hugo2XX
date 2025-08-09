@@ -35,8 +35,8 @@ It has a cutlass micro USB port and signature power button, in addition to the t
 .
 Further, it has an 8 MP camera on the back and has a headphone jackpot on its top. The tablet has a 2K resolution and 10.1 inches display screen.
 It uses the Snapdragon A10 that will not heat since it has a large surface area and thus allow you to play high-intensity games.
-Design -�The tablet is sleek, with a plastic body, and slimmer than the Z2. Considering numbers, the tablet is just 6.1 mm thick. It has front-facing speakers that will provide adequate volume while you are gaming.
-Screen Mirroring -�The tablet has an exciting screen mirroring, which you can duplicate or simulate the screen's contents on different devices.
+Design -The tablet is sleek, with a plastic body, and slimmer than the Z2. Considering numbers, the tablet is just 6.1 mm thick. It has front-facing speakers that will provide adequate volume while you are gaming.
+Screen Mirroring -The tablet has an exciting screen mirroring, which you can duplicate or simulate the screen's contents on different devices.
 The feature (screencast like in Xbox One) allows you to link your console and the tablet, through an app, and thus you can play games on the TV for continuous gaming.
 Remote Play - The tablet is created like the PS4 with the goal of taking advantage of a
 [Remote Play](https://www.playstation.com/en-za/explore/ps4/features/remote-play/)
@@ -51,7 +51,7 @@ Intel Core i5 6600k vs i7 6700k Gaming Performance
 Itll come with some pre-installed Google apps such as Samsung AppStore, Kids app, and Google Play Store. Its battery will run for a straight 9 gaming hours.
 It has a coarse display resolution that is rectangular, which is great for gaming and taking videos. Has a Wi-Fi Internet connection, an in-built microphone, but sadly it lacks a webcam.
 Galaxy Tab E Lite 7 has a screen with amazing color and brightness but it wont match the high-end gaming tablets. It comes with the home button and 2 sensors for recent apps and back.
-Good Android tablets tailored for gaming should have a large screen (Probably above 8 inches), 1920 x 1080 screen resolution, be fast, great camera (maybe more than 5 MP ), run Android Kitkat 4.4 or better, and�16 GB or more storage space.
+Good Android tablets tailored for gaming should have a large screen (Probably above 8 inches), 1920 x 1080 screen resolution, be fast, great camera (maybe more than 5 MP ), run Android Kitkat 4.4 or better, and16 GB or more storage space.
 ### [3. Samsung Galaxy Tab A 8" 32 GB Wifi Tablet](https://www.amazon.com/dp/B075VS89SW/?tag=p-policy-20)
 Samsung Galaxy Tab A 8-inch is an innovative 4G LTE support tablet that has an 8-inch screen. The tablet has a metal frame that makes it both strong and good-looking.
 The Best Android Tablet for Gaming will come with a 3-month YouTube red subscription that allows you to enjoy great music and kid-appropriate apps.
@@ -82,12 +82,12 @@ Also, NVIDIA SHIELD K1 can stream PC games from
 and
 [GeForce NOW](http://shield.nvidia.com/game-streaming-with-geforce-now)
 , in addition to supporting the native games such as Need for Speed No Limits.
-Screen -�It has a 1920 x 1200p HD display that is 8 inches. If youll be playing a Tegra-optimised game, sure the Best Android Tablet for Gaming will have a better display.
-Speaker Quality -�The Nvidia Shield has excellent Speaker Quality that is front-facing and additional ones at the bottom and top of the device.
+Screen -It has a 1920 x 1200p HD display that is 8 inches. If youll be playing a Tegra-optimised game, sure the Best Android Tablet for Gaming will have a better display.
+Speaker Quality -The Nvidia Shield has excellent Speaker Quality that is front-facing and additional ones at the bottom and top of the device.
 The speakers have a dual bass reflex port that will assist you to lessen distortion at higher levels. Read Also:
 Best Laptop Tablet Combo
 .
-Exclusive Game to Shield - There are games that are bundled on the SHIELD K1� tablet and thus make the device more attractive to its fans.
+Exclusive Game to Shield - There are games that are bundled on the SHIELD K1 tablet and thus make the device more attractive to its fans.
 Trine 2 is one of the exclusive games on SHIELD K1. It combines rich graphics with 2D platforming, and you can
 [purchase it for Consoles and PC](http://store.steampowered.com/app/35720/)
 .
@@ -124,12 +124,12 @@ Galaxy Tab S comes with exceptional software, such as
 Milk Music and Paper Garden
 , that will enhance your entertainment and gaming requirements.
 SideSync
-3.0 and Android 4.4.2 KitKat -�Samsung Galaxy Tab S runs Android 4.4.2 KitKat and you can go to Samsung's App store to get exciting Samsung apps.
+3.0 and Android 4.4.2 KitKat -Samsung Galaxy Tab S runs Android 4.4.2 KitKat and you can go to Samsung's App store to get exciting Samsung apps.
 The
 SideSync
 3.0 feature will enable you to synchronize content such as links and text via copy and pasting, which makes the table not just good for gaming but also work.
 Also, the tablet has the Multi Window feature that allows a gamer to use multiple apps running in parallel windows to each other.
-- Storage -�The tablet has 16GB of storage and 3GB RAM to enable smooth gaming and entertainment.
+- Storage -The tablet has 16GB of storage and 3GB RAM to enable smooth gaming and entertainment.
 - With the Exynos 5 Octa CPU, you can be assured that the tablet will function effectively in gaming and streaming.
 Also, the tab has 8MP/2.1MP back and front-facing cameras to enhance your entertainment and picture taking while you are gaming.
 It has 1.3 and 1.9GHz quad-core processors that will assure that the tablet runs fast and does not eat up your battery power fast. Read Also:

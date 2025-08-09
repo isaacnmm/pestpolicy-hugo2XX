@@ -31,7 +31,7 @@ When it comes to surface tension gutter guards, the market is dominated by a few
 
 2.  **Gutter Helmet:**
     * **Why it's a top pick:** Gutter Helmet is a widely recognized brand that installs **over your existing gutters**. It features a robust, ribbed, heavy-gauge aluminum cover with a patented "nose-forward" design. The ribs help break the surface tension of the water, ensuring it drops into the gutter even in heavy rain, while debris falls off. It's known for its durability and effective handling of large leaves.
-    * **Pros:** Very durable and robust construction, effective at shedding large debris, good water handling, professional installation, available with integrated heating (Helmet Heat�).
+    * **Pros:** Very durable and robust construction, effective at shedding large debris, good water handling, professional installation, available with integrated heating (Helmet Heat).
     * **Cons:** Higher cost, can allow some fine debris (pine needles, shingle grit) into the slot, potential for overshooting on extremely steep roofs or in extremely heavy rain.
 
 3.  **K-Guard Leaf-Free Gutter System:**
@@ -40,7 +40,7 @@ When it comes to surface tension gutter guards, the market is dominated by a few
     * **Cons:** High cost (includes new gutters), susceptible to fine debris entry, might still overshoot in extreme conditions.
 
 4.  **Raindrop Gutter Guard:**
-    * **Why it's a top pick:** While often categorized as a "filter" type due to its grid-like surface, Raindrop's design leverages both surface tension and a unique ribbed structure to guide water. Its sloped, heavy-duty polypropylene (a durable plastic) material allows water to drop through while larger debris falls off. It�s effective for both large and medium-sized debris and is remarkably robust for a non-metal option.
+    * **Why it's a top pick:** While often categorized as a "filter" type due to its grid-like surface, Raindrop's design leverages both surface tension and a unique ribbed structure to guide water. Its sloped, heavy-duty polypropylene (a durable plastic) material allows water to drop through while larger debris falls off. Its effective for both large and medium-sized debris and is remarkably robust for a non-metal option.
     * **Pros:** Very durable and rigid (for plastic), handles high water volume, effective against medium to large debris, less prone to overshooting than some full reverse-curve designs, professional or advanced DIY installation.
     * **Cons:** Not as effective against fine debris as micro-mesh, can collect some small debris on the grid, appearance might be less sleek than solid covers. *Note: While plastic, its unique design warrants inclusion for performance in this category.*
 

@@ -40,21 +40,21 @@ The cost of a bathroom remodel in Chicago is influenced by numerous factors, inc
 
 **Average Cost Ranges in Chicago:**
 
-* **Powder Room/Half Bath Update (Cosmetic/Minor):** For small spaces (15-36 sq. ft.) involving cosmetic updates like painting, new fixtures, and smart storage solutions, expect to pay **$9,000 � $22,000**.
-* **Guest Bathroom Remodel (Mid-Range):** For mid-sized spaces (36-64 sq. ft.) involving replacement of tub/shower, toilet, vanity, and new tiling, without major layout changes, costs typically range from **$20,000 � $38,000**.
-* **Primary Bathroom Renovation (Full Remodel):** For larger spaces (64-120 sq. ft.) with significant updates, potentially including layout changes, new drywall, and higher-end fixtures. Costs generally range from **$28,000 � $65,000**.
+* **Powder Room/Half Bath Update (Cosmetic/Minor):** For small spaces (15-36 sq. ft.) involving cosmetic updates like painting, new fixtures, and smart storage solutions, expect to pay **$9,000  $22,000**.
+* **Guest Bathroom Remodel (Mid-Range):** For mid-sized spaces (36-64 sq. ft.) involving replacement of tub/shower, toilet, vanity, and new tiling, without major layout changes, costs typically range from **$20,000  $38,000**.
+* **Primary Bathroom Renovation (Full Remodel):** For larger spaces (64-120 sq. ft.) with significant updates, potentially including layout changes, new drywall, and higher-end fixtures. Costs generally range from **$28,000  $65,000**.
 * **Luxury/High-End Primary Bathroom Remodel:** For large, custom bathrooms with premium finishes (e.g., custom cabinetry, natural stone, elaborate shower systems, heated floors, smart tech), costs can start from **$70,000 and easily exceed $100,000+**, particularly in affluent neighborhoods like Winnetka, Evanston, Gold Coast, or Streeterville.
 
 **Cost Breakdown by Components (Estimates for a Mid-Range to Full Remodel):**
 
 * **Labor Costs:** Can represent 40-60% of the total project cost. Union tradespeople or highly experienced professionals in Chicago may command higher daily rates. General contractors typically charge 10-20% of the total project cost for their management fees.
-* **Fixtures (toilet, sink, faucet):** $500 � $3,000+
-* **Vanity & Countertop:** $1,000 � $6,000+
-* **Shower/Bathtub Installation:** $1,500 � $15,000+ (complex walk-in showers or custom tiling on the higher end)
-* **Tile (materials & installation):** $2,000 � $15,000+ (cost varies greatly by tile type, size, pattern complexity, and area covered)
-* **Plumbing & Electrical (if moving or upgrading):** $2,500 � $10,000+ (often higher in older Chicago buildings due to outdated systems)
-* **Drywall & Painting:** $1,200 � $3,500
-* **Permits & Inspections:** $200 � $2,500 (varies by scope and Chicago's specific Department of Buildings requirements)
+* **Fixtures (toilet, sink, faucet):** $500  $3,000+
+* **Vanity & Countertop:** $1,000  $6,000+
+* **Shower/Bathtub Installation:** $1,500  $15,000+ (complex walk-in showers or custom tiling on the higher end)
+* **Tile (materials & installation):** $2,000  $15,000+ (cost varies greatly by tile type, size, pattern complexity, and area covered)
+* **Plumbing & Electrical (if moving or upgrading):** $2,500  $10,000+ (often higher in older Chicago buildings due to outdated systems)
+* **Drywall & Painting:** $1,200  $3,500
+* **Permits & Inspections:** $200  $2,500 (varies by scope and Chicago's specific Department of Buildings requirements)
 
 **Factors Influencing Cost:**
 

@@ -28,15 +28,15 @@ What it truly means to have Bad Knees
 ### Soft Surface Running
 Do you run on hard surfaces such as concrete? You could be inducing harm to your knees. However, researchers recommend that you run on softer surfaces like grass to reduce the amount of shock that hits your knees.
 
-However, always choose a soft but stable surface to avoid twisting your need, which would cause additional injury.�If youve suffered shin splints or runners knee, soft surfaces such as trails will be great for your knees. Choose trails that are marked as asphalt or dirt.
+However, always choose a soft but stable surface to avoid twisting your need, which would cause additional injury.If youve suffered shin splints or runners knee, soft surfaces such as trails will be great for your knees. Choose trails that are marked as asphalt or dirt.
 
-However, avoid trails that have rock and roots as you could land at a wrong angle to harm your knee.�A recent
+However, avoid trails that have rock and roots as you could land at a wrong angle to harm your knee.A recent
 [study by Foot and Ankle International journal](https://www.ncbi.nlm.nih.gov/pubmed/18785416)
 concluded that running on an asphalt surface reduced the risk of injury, tendinopathy, compared to running on the sandy surface
 **Avoid**
 : Sand tails should be a no for you unless you are sure that they have been hard-packed. This is mainly because loose sand will twist your knee, hip, or ankle.
 
-Running Shoes -�Running can be fun and safe if you have shoes that give proper support to your knees,
+Running Shoes -Running can be fun and safe if you have shoes that give proper support to your knees,
 [particularly running shoes for bad knees](https://pestpolicy.com/best-[running-shoes](https://pestpolicy.com/best-mens-running-shoes-for-bad-knees/)-for-bad-knees/)
 .
 

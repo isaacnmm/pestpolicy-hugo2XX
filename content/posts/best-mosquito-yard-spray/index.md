@@ -157,7 +157,7 @@ The Good:
 - Odourless
 The Bad:
 - Not natural
-## Considerations**�for Best Mosquito Yard Sprays**
+## Considerations**for Best Mosquito Yard Sprays**
 Gardens, yards, and lawns provide a good harbourage for mosquitoes and other pests. When your yard is infested with
 mosquitoes, you risk suffering from mosquito bites
 and diseases. With the best spray for mosquitoes, it possible to keep your yard free from mosquitoes and other pests.

@@ -16,7 +16,7 @@ layout: post
 ---
 Discovering a cluster of mushrooms seemingly sprout overnight in [your](https://pestpolicy.com/how-to-control-dandelions-in-your-yard/) otherwise pristine lawn can be a perplexing and sometimes alarming sight for homeowners. These intriguing fungi, with their diverse shapes, sizes, and colors, often appear after periods of rainfall or in damp, shaded areas. While some might find them charming, others view them as unsightly invaders that mar the aesthetic of their landscape. More importantly, a significant concern for many is the potential danger these mysterious growths pose, especially to curious children and pets.
 
-Mushrooms are merely the fruiting bodies of fungi, the visible tip of a vast, often beneficial, underground network called mycelium. Their presence is usually an indication of rich organic matter within your soil � a sign that, surprisingly, your soil may be quite healthy. However, if their numbers are overwhelming or if there are safety concerns, steps can be taken to manage their appearance. This guide will explore why mushrooms appear in your yard, assess their potential dangers, outline various methods for their removal and prevention, discuss their often-overlooked benefits, and advise on when to call in professional help, ensuring you can manage these fascinating but sometimes unwelcome guests with confidence.
+Mushrooms are merely the fruiting bodies of fungi, the visible tip of a vast, often beneficial, underground network called mycelium. Their presence is usually an indication of rich organic matter within your soil  a sign that, surprisingly, your soil may be quite healthy. However, if their numbers are overwhelming or if there are safety concerns, steps can be taken to manage their appearance. This guide will explore why mushrooms appear in your yard, assess their potential dangers, outline various methods for their removal and prevention, discuss their often-overlooked benefits, and advise on when to call in professional help, ensuring you can manage these fascinating but sometimes unwelcome guests with confidence.
 
 ## Why Are Mushrooms Growing in My Yard?
 
@@ -83,7 +83,7 @@ Since mushrooms are a symptom of underlying conditions, getting rid of them natu
 2.  **Mow Them Down:** Mowing will effectively remove the visible mushroom caps, preventing spore dispersal. Clean your mower blades afterward.
 3.  **Reduce Organic Matter:**
     * **Remove Buried Debris:** If possible, excavate and remove old tree stumps, large roots, or construction wood buried in the lawn. This is the most effective long-term solution.
-    * **Control Thatch:** Dethatch your lawn if the thatch layer is over � inch thick.
+    * **Control Thatch:** Dethatch your lawn if the thatch layer is over  inch thick.
 4.  **Improve Drainage:**
     * **Aeration:** Core aeration helps alleviate compacted soil, improving water penetration and reducing waterlogged areas.
     * **Address Low Spots:** Fill low-lying areas that collect water with a mixture of topsoil and sand.

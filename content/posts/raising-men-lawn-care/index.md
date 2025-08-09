@@ -21,7 +21,7 @@ Rodney Smith Jr., the visionary behind RMLCS, was inspired to start the initiati
 
 ### The 50-Yard Challenge: A Catalyst for Character Development
 
-The centerpiece of the Raising [Men](https://pestpolicy.com/best-mens-dress-shoes-for-flat-feet/) Lawn Care Service is the "50-Yard Challenge." This challenge invites children and young adults, typically between the ages of 7 and 17, to commit to mowing 50 lawns for free for elderly, disabled, single mothers, and veterans in their communities. When a child bravely accepts this challenge, Rodney Smith Jr. sends them a special care package containing a white RMLCS t-shirt, eye protection, and ear protection � essential gear for safe lawn care.
+The centerpiece of the Raising [Men](https://pestpolicy.com/best-mens-dress-shoes-for-flat-feet/) Lawn Care Service is the "50-Yard Challenge." This challenge invites children and young adults, typically between the ages of 7 and 17, to commit to mowing 50 lawns for free for elderly, disabled, single mothers, and veterans in their communities. When a child bravely accepts this challenge, Rodney Smith Jr. sends them a special care package containing a white RMLCS t-shirt, eye protection, and ear protection  essential gear for safe lawn care.
 
 The challenge is structured to encourage sustained effort and reward commitment:
 * **Milestone Recognition:** For every 10 lawns completed, the participant receives a different colored t-shirt, progressing from white, to orange, green, blue, and finally, upon completion of all 50 lawns, a prestigious black shirt. This visual progression serves as a powerful motivator and a symbol of their dedication.

@@ -14,7 +14,7 @@ tags:
 - picture
 layout: post
 ---
-Below Ive listed 99+ images/pictures of bed bugs,�including
+Below Ive listed 99+ images/pictures of bed bugs,including
 [baby bed bugs](https://pestpolicy.com/baby-[bed-bugs](https://pestpolicy.com/pictures-of-bed-bug-bites/)/)
 , nymphs, fertilized females, eggs, and adults.
 When you consider controlling bed bugs (
@@ -24,7 +24,7 @@ When you consider controlling bed bugs (
 Bed bugs are flat- to oval-shaped reddish-brown insects that are 4-5 mm long. They suck blood while youre sleeping or resting - mainly at night. We all feel itching when we hear or read about these bugs -
 [psychosomatic effects](https://www.theatlantic.com/health/archive/2014/10/bed-bug-madness-the-psychological-toll-of-the-blood-suckers/381447/)
 .
-*So, what do bed bugs look like? Whats their size, color, and body shape compared to objects such as liberty coins, Petri dishes, Suitcase, etc. Lets get started!��*
+*So, what do bed bugs look like? Whats their size, color, and body shape compared to objects such as liberty coins, Petri dishes, Suitcase, etc. Lets get started!*
 ## What Do Bed Bugs Look Like? 99+ Pictures of Bed Bugs
 ### **1. ****Actual Size of Adult ****Bed Bugs**(See Pictures)
 **Size**
@@ -55,7 +55,7 @@ bed bugs
 are small, flattened, and oval-shaped insects that have considerably reduced wings. Theyre visible to the human eye. Other names of these bugs are mahogany flats, chinches, or red coats.
 Adults are about one-sixth of the whole
 bed bug population
-.� The hemelytra (fore wings) are broad and short with a rectangular shape. Also, the bed bugs sides are covered by stiff and
+. The hemelytra (fore wings) are broad and short with a rectangular shape. Also, the bed bugs sides are covered by stiff and
 short hair
 .
 **Bed Bug Legs**
@@ -82,7 +82,7 @@ They are flat to oval-shaped, depending on the amount of blood theyve sucked. Ho
 ### 3. Massive Bed Bug Infestation on Sofa
 Bed bugs will hide
 in most furniture types - particularly in their undersides, seams, and corners.
-- The rule of thumb is that bed bugs will fit in any crack that can also take a credit card.*Check the bugs below hanging on sofas!�*
+- The rule of thumb is that bed bugs will fit in any crack that can also take a credit card.*Check the bugs below hanging on sofas!*
 
 Rarely will bed bugs hide in vinyl, suede, or leather sofa or couch materials.
 - So, if you sit on an infested chair or couch - its highly likely that youllcarry the bed bugs to your home.
@@ -105,7 +105,7 @@ to be shriveled and lying on their back. If you inspect your mattresses and box 
 signs of bed bugs
 .
 
-Some may include dead bed bugs or specks of blood.�Have you found some dead bed bugs in your house? - Check the one below.
+Some may include dead bed bugs or specks of blood.Have you found some dead bed bugs in your house? - Check the one below.
 - Bed bugs dont play or pretend to be dead - according to[**behavioral sociology**](https://link.springer.com/article/10.1007%2Fs00265-017-2436-8).
 - Therefore, any of them that remains entirely still after some disturbance is most likely dying or dead.
 Any bugs that are still alive will run away with subtle lighting (
@@ -118,7 +118,7 @@ Image Credits: AFPMB
 You might also want to inspect hidden areas like wall joins, ceiling and cracks, bedroom furniture, and carpet, and your beds.
 - Below is a video of some dead bugs. Disclaimer, some live ones were filmed.
 
-### **2. Pictures of�baby bed bugs**
+### **2. Pictures ofbaby bed bugs**
 Baby
 bed bugs will hatch from eggs
 (theyre pinhead-sized) and grow to be adults in only one month. But these insects will require a dry and warm environment.
@@ -208,7 +208,7 @@ The bugs will lay eggs on the curtain thatll stick more due to their glue.
 - Heres a couple of adult bed bugs, their eggs, nymph, andflea dirton the top inside of thecurtains - this is so scary being in a kids room!
 - Some bed bugs may attack drapes in packing, shipping, or on the production floor. The curtain may also pick bugs at the dry cleaner.
 This may again come from bed-bug-infested luggage rugs or mattresses to your drapes.
-### **5. Pictures of Bed Bugs�on Mattress****�**
+### **5. Pictures of Bed Bugson Mattress******
 Female Cimex lectularius will lay their eggs in crevices and cracks, particularly on the edges of your bed frames, box springs, and mattresses.
 
 The pest will also occupy crevices and cracks - hiding in bed rails, headboards, empty bed stands, mattresses tufts or folds, and spring soils. Youll see cast skins, fecal stains, and even eggs.
@@ -222,7 +222,7 @@ These are the bed bugs that my neighbor collected in her daughters room.
 Sadly her kids had a meltdown - particularly with her son, who has autism, and thus they had to sleep at my house.
 
 This made the neighbor feel like a bad mother that the kids had to endure all this.
-### **5. Pictures of Bed Bug Bites�**
+### **5. Pictures of Bed Bug Bites**
 Bed bugs dont
 spread disease
 , but theyre expensive to exterminate and difficult to contain.
@@ -243,12 +243,12 @@ bed bugs crawling
 , bed bugs, dirt, or skin reaction from a bed bug bite.
 Most bed bugs will get into your home by
 hitchhiking your clothes or jumping
-onto your briefcase or luggage when youre traveling.�Related:
+onto your briefcase or luggage when youre traveling.Related:
 What will cause Bed Bugs?.
 
 To control these critters, place the suitcases in unique provided garbage bags and position them outside in the cold.
 Further, you may set the luggage in the car trunk if it heats to about 120 degrees.
-### **7. Bed bugs on Liberty Coin�**
+### **7. Bed bugs on Liberty Coin**
 Below is an image of a
 [comparison between a real adult bed bug](https://pestpolicy.com/stink-bugs-vs-bed-bugs/)
 and a liberty coin.
@@ -259,6 +259,6 @@ Also, bed bugs will easily migrate from one room or house to another through Wir
 First, the bug injects a mumbling agent into your body such that youll only feel the bites after about 10 minutes.
 https://www.youtube.com/watch?v=PfuJ8iIMSKY
 ## Conclusion
-On the�pictures of bed bugs;
+On thepictures of bed bugs;
 males wont lay eggs like their female counterparts.
 They all have six legs, are brown, and are about an apple seed in size. None of them will take care of the young nymphs or eggs.

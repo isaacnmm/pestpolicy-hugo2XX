@@ -20,7 +20,7 @@ environment
 ## Key Factors to Consider
 ### **1. Safety **
 Some products, like
-**Reptile Carpet such as�Zoo Med Eco Cage**
+**Reptile Carpet such asZoo Med Eco Cage**
 , are designed to minimize the risk of impaction, a common concern with loose substrates.
 
 Reptile Carpet is a non-loose [substrate](https://pestpolicy.com/best-substrate-for-leopard-gecko/) that provides a solid surface, reducing the chance of your bearded dragon

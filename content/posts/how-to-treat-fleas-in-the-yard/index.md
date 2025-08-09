@@ -31,7 +31,7 @@ amazon bestseller="Best [Flea Killer" items="2" template="table"]
 How do you confirm if there are fleas in the yard? Well, if you suspect there are fleas in your yard, find out for sure by wearing a pair of white long socks and walking around the area.
 - Fleas like to hide, so you should examine a look at your socks (for fleas) after walked around in the yard.
 - Remember to seal the socks in a plastic bag and dispose of the package.
-**Some tips on how to treat the backyard and keep fleas off your lawn or yard include:�**
+**Some tips on how to treat the backyard and keep fleas off your lawn or yard include:**
 ## Step By Step: How to Treat Fleas in the Yard
 ### **Step 1: Use Yard Flea Pesticide**
 Fleas are mainly attracted to moist, dark areas so you'll need to use a pesticide like Wondercide yard flea spray, which will kill off the fleas., mosquitoes, and ticks.
@@ -48,9 +48,9 @@ https://www.youtube.com/watch?v=tU9Wkx0S4E8
 ### **Step 2: Create a Flea Barrier **
 One way to get rid of fleas in your yard is by building a flea barrier.
 
-Clear the area surrounding your house of plants, brush, and leaf litter to make it less inviting to fleas.�Cover the area with a layer of sand or gravel.
+Clear the area surrounding your house of plants, brush, and leaf litter to make it less inviting to fleas.Cover the area with a layer of sand or gravel.
 
-Once that dries, apply water to it and cover it with fresh mulch - this will create an impenetrable barrier for fleas!�Related:
+Once that dries, apply water to it and cover it with fresh mulch - this will create an impenetrable barrier for fleas!Related:
 Spraying dawn for yard fleas
 **Mulching with cedar**
 In order to make your yard less inviting for fleas and ticks, apply cedar mulch wherever pets like to rest such as the patio, porch, deck, hedge, and other play areas.
@@ -72,7 +72,7 @@ The following are some tips for how to mow your lawn correctly:
 - Cut at least two inches above ground level so as not to leave any long pieces or clumps behind; these act as).
 
 - Mow the lawn high, dethatch and treat with insecticide (optional). Maintain a healthy yard by not letting the grass grow too long.
-### **Step 4: **Dethatch�the Yard
+### **Step 4: **Dethatchthe Yard
 Dethatching will help to kill fleas in the yard - keep the thatch at under half-inch or lower.
 - Flea larvae hatch in the moist soil and congregate near blades of grass.
 The adult fleas will lay eggs on these blades, making them a breeding ground for future infestation.
@@ -83,7 +83,7 @@ Taller weeds like dandelions should be pulled up as well if you haven't already 
 
 But keep your yard tidy and healthy by not letting the grass grow too long: cut at least two inches above ground level when dethatching before treating with insecticide (optional).
 
-Maintain an attractive, insect-free yard by keeping grass short and healthy.�A good way to discourage fleas is to keep the lawn tidy, but not too overgrown.
+Maintain an attractive, insect-free yard by keeping grass short and healthy.A good way to discourage fleas is to keep the lawn tidy, but not too overgrown.
 - Dethatching will help destroy larvae in moist soil so they can't congregate near blades of grass where adults may lay eggs.
 ### **Step 5: **Don't Overwater the Yard
 Dont overwater the yard or garden - this will help to control fleas. Reducing irrigation excessively will help combat their reproduction cycle - keep the watering at a maximum of 1-inch of water weekly.
@@ -165,7 +165,7 @@ Steps for Vacuuming Furniture:
 ### Step 11: Wash Pet Bedding, Clothes, and Linens
 Pets are wonderful companions and diligent housekeepers, but their fur isn't 100% convenient.
 
-You may need to wash your clothes, bedding, and linens (with�hot, & soapy water) more often when pets live with you!
+You may need to wash your clothes, bedding, and linens (withhot, & soapy water) more often when pets live with you!
 
 To clean pet bedding, clothes, and linens:
 *Step One *

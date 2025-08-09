@@ -14,7 +14,7 @@ tags:
 - feed
 layout: post
 ---
-Maintaining a lush, green lawn is a goal for many homeowners, especially those in warmer climates where St. Augustine grass thrives. The desire for a pristine, [weed](https://pestpolicy.com/best-weed-killer-bermuda-grass/)-free turf often leads people to consider "weed and [feed](https://pestpolicy.com/best-gravity-feed-spray-gun-for-woodworking/)" products � a convenient, all-in-one solution promising to nourish the grass while simultaneously eradicating unwanted invaders. However, applying these combination products to St. Augustine grass requires a nuanced understanding, as this particular turf type is more sensitive to certain herbicides than others.
+Maintaining a lush, green lawn is a goal for many homeowners, especially those in warmer climates where St. Augustine grass thrives. The desire for a pristine, [weed](https://pestpolicy.com/best-weed-killer-bermuda-grass/)-free turf often leads people to consider "weed and [feed](https://pestpolicy.com/best-gravity-feed-spray-gun-for-woodworking/)" products  a convenient, all-in-one solution promising to nourish the grass while simultaneously eradicating unwanted invaders. However, applying these combination products to St. Augustine grass requires a nuanced understanding, as this particular turf type is more sensitive to certain herbicides than others.
 
 While the convenience of a weed and feed product is undeniable, a "one-size-fits-all" approach can sometimes do more harm than good. This article will delve into the specifics of St. Augustine grass, explain how weed and feed products work, outline crucial timing considerations, discuss the controversies surrounding certain chemicals like atrazine, and ultimately guide you toward maintaining a healthy, vibrant St. Augustine lawn effectively.
 
@@ -51,7 +51,7 @@ Most weed and feed products come in granular form, applied with a broadcast or d
 Timing is crucial for St. Augustine grass due to its specific growth cycle and sensitivity.
 
 * **Ideal Time:** The best time to apply a weed and feed product to St. Augustine grass is during its **active growing season**, typically in **late spring (April-May) or early summer**, after the grass has fully emerged from dormancy and has been mowed a couple of times. This ensures the grass is actively growing and can benefit from the fertilizer, and that weeds are also actively growing and susceptible to the herbicide.
-* **Temperature Matters:** Air temperatures should consistently be between 65�F and 85�F (18�C - 30�C). Applying in extreme heat can stress the grass and increase the risk of herbicide damage.
+* **Temperature Matters:** Air temperatures should consistently be between 65F and 85F (18C - 30C). Applying in extreme heat can stress the grass and increase the risk of herbicide damage.
 * **Moisture:** Apply when weeds are actively growing, but the grass leaves are slightly damp. This helps granular herbicides stick to weed foliage.
 * **Avoid Rain and Wind:** Do not apply if heavy rain is expected within 24-48 hours, as it can wash away the product. Avoid windy days to prevent drift onto desirable plants.
 
@@ -103,7 +103,7 @@ Given the concerns with atrazine, many homeowners and lawn care professionals ar
     * For **crabgrass**, a **pre-emergent herbicide** is the most effective strategy.
 
 3.  **For Pre-Emergent Weed Control (Preventing Weed Seeds):**
-    * **Prodiamine, Dithiopyr, or Pendimethalin:** These are common active ingredients in pre-emergent herbicides that create a barrier to prevent weed seeds (both grassy and broadleaf) from germinating. They are generally safe for established St. Augustine grass. Apply in early spring before soil temperatures reach 55�F for summer weeds like crabgrass, and in fall for winter weeds like annual bluegrass. *Do not use on newly laid sod or areas you plan to seed (though St. Augustine is rarely seeded).*
+    * **Prodiamine, Dithiopyr, or Pendimethalin:** These are common active ingredients in pre-emergent herbicides that create a barrier to prevent weed seeds (both grassy and broadleaf) from germinating. They are generally safe for established St. Augustine grass. Apply in early spring before soil temperatures reach 55F for summer weeds like crabgrass, and in fall for winter weeds like annual bluegrass. *Do not use on newly laid sod or areas you plan to seed (though St. Augustine is rarely seeded).*
 
 When choosing any herbicide, whether standalone or in a weed and feed product, the **most critical step is to read the product label carefully**. Ensure it explicitly states that it is safe for St. Augustine grass and follow all application rates and instructions precisely. Misapplication can lead to severe turf damage.
 

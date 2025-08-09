@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 Does [boric](https://pestpolicy.com/does-boric-acid-kill-roaches/) acid kill bed bugs? Boric acid is one of the most famous pest killer in the market. It has various home applications. Some people use it to kill bed bugs.
-**But does boric acid kill bed bugs? The answer to this question is NO! However, Boric acid can kill bed bugs, but only when eaten/inhaled or injected into them.�**
+**But does boric acid kill bed bugs? The answer to this question is NO! However, Boric acid can kill bed bugs, but only when eaten/inhaled or injected into them.**
 
 **On the other hand, bed bugs feed on blood and unless boric acid is mixed with blood, from which they feed and get it into their body; then it may never kill them.**
 So, lets start.
@@ -103,9 +103,9 @@ Boric acid does not cause any irritation to skin when touched by hands. It is ne
 
 In case you rub your eyes with hands having boric acid, you will feel a basic sensation for a short time since boric acid is a salt compound.
 
-It cant harm your eyes, as you will even realize that the eye contact lens is made up of a portion of boric acid.�Boric acid when swallowed may cause diarrhea, stomach pain, vomiting and nausea.
+It cant harm your eyes, as you will even realize that the eye contact lens is made up of a portion of boric acid.Boric acid when swallowed may cause diarrhea, stomach pain, vomiting and nausea.
 
-It may not be extreme, however it is important to seek doctors checkup if symptoms persist.�Boric acid is dangerous to human when inhaled.
+It may not be extreme, however it is important to seek doctors checkup if symptoms persist.Boric acid is dangerous to human when inhaled.
 
 It has a sharp irritation to the breathing/respiratory system, which makes you uncomfortable- it may be accompanied by coughing (though rare).
 

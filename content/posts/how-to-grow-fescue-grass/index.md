@@ -96,7 +96,7 @@ Once your fescue lawn is established, proper ongoing maintenance is key to its h
     * **Schedule:** Fertilize fescue primarily in the fall (late August/early September and again in late October/November) to support root growth and winter hardiness. A light spring application (March/April) can also be beneficial, but avoid heavy nitrogen fertilization in late spring/summer, which can stress the grass during heat.
     * **Soil Test:** Continue to perform soil tests every 2-3 years to guide your fertilization program.
 4.  **Weed Control:**
-    * **Pre-emergents:** Apply pre-emergent herbicides in early spring (before soil temperatures reach 55�F) to prevent crabgrass and other annual weeds.
+    * **Pre-emergents:** Apply pre-emergent herbicides in early spring (before soil temperatures reach 55F) to prevent crabgrass and other annual weeds.
     * **Post-emergents:** Spot-treat broadleaf weeds as they appear with appropriate post-emergent herbicides. Be careful with herbicides on newly seeded lawns (wait until after 2-3 mows).
     * **Healthy Lawn:** A dense, healthy fescue lawn is the best defense against weeds.
 5.  **Aeration:**

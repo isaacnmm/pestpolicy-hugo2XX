@@ -16,10 +16,10 @@ layout: post
 ---
 Can bearded dragons eat broccoli? Vegetables are part of the
 recommended diet
-for bearded dragons.�Broccoli is a source of essential minerals and vitamins. However, not all vegetables are
+for bearded dragons.Broccoli is a source of essential minerals and vitamins. However, not all vegetables are
 good for your bearded [dragon](https://cvm.ncsu.edu/documents/caring-for-your-bearded-dragon/)
 .
-*So, can bearded dragons eat broccoli? A simple answer is YES. A little broccoli wont do harm to your beardie. However, you should only feed your beardie with small amounts of broccoli once in a while. Thats because broccoli contains high contents of oxalic acid which may cause kidney failure in reptiles.�*
+*So, can bearded dragons eat broccoli? A simple answer is YES. A little broccoli wont do harm to your beardie. However, you should only feed your beardie with small amounts of broccoli once in a while. Thats because broccoli contains high contents of oxalic acid which may cause kidney failure in reptiles.*
 **
 ## **Can Bearded Dragons Eat Broccoli?**
 Broccoli provides a good source of calcium, protein, fibre and vitamins such as vitamin A, B1, C, E and K. But they also contain high levels of oxalic acid which makes it unsuitable for reptiles including bearded dragons.
@@ -51,7 +51,7 @@ As earlier said, you can give your bearded dragon small amounts of broccoli with
 7. In case your bearded develops complications after eating broccoli stop the feeding immediately. If possible consult your veterinarian.
 Related:
 [Can Bearded Dragons Eat Apples?](https://pestpolicy.com/can-bearded-dragons-eat-apples/)
-## **How to Prepare Broccoli for Bearded Dragon�**
+## **How to Prepare Broccoli for Bearded Dragon**
 https://www.youtube.com/watch?v=6LoSPtI19Z0
 - Wash fresh broccoli with running water or in a bowl of clean water. Rub it with your fingers to remove dirt and any lodged insects. Wipe the broccoli with a tea towel to dry.
 - Use a sharp knife to cut off the leaves from the stalk. Now part off the florets by cutting them out from the stalk.

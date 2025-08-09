@@ -31,11 +31,11 @@ Pros:
 - Proven Effectiveness  Scientifically tested to kill fleas, flea eggs, and ticks on contact, suitable for both active infestations and prevention.
 - Versatile Application  Can be used on various surfaces (bedding, carpets, furniture, outdoor areas) and is safe for direct application on dogs (12+ weeks).
 - Gentle & Family-Friendly  Free from harsh chemicals, making it safe around pets and people when used as directed.
-- Made in the USA� Manufactured with quality domestic and imported ingredients.
+- Made in the USA Manufactured with quality domestic and imported ingredients.
 Cons:
 - Shipping Restrictions  May not be available for all delivery locations (check before purchasing).
 - Scent Sensitivity  Peppermint fragrance may be strong for some pets or owners.
-- Reapplication Needed� Natural formulas may require more frequent use compared to synthetic pesticides.
+- Reapplication Needed Natural formulas may require more frequent use compared to synthetic pesticides.
 ## **2. Vet's [Best](https://pestpolicy.com/best-flea-collar-for-dogs/) Topical Tick& Flea  Spot-on Spray**
 Vet's Best Natural is a natural
 [home spray](https://pestpolicy.com/best-flea-spray-for-home/)
@@ -50,7 +50,7 @@ Pros:
 - Environmentally friendly  no pollution.
 - Fast killing and Can treat cats and kittens.
 - Not harmful to kids and is easy to use.
-- Pleasant scent and�Non-staining.
+- Pleasant scent andNon-staining.
 - It can be used for home flea treatment.
 Cons:
 - Requires multiple applications.
@@ -87,14 +87,14 @@ Keep off any treated puppy away from friends. In case the grease doesnt deplete 
 PetArmor Plus doesnt irritate your puppy during and after application unless it is allergic.
 Pros:
 - Its waterproof and Quick-acting  5 minutes
-- Inhibitflea infestation and�Can also killlice and tick
+- Inhibitflea infestation andCan also killlice and tick
 - Non-irritating
 - Top-quality and easy to use
 Cons:
 - Can only be used on the dog.
 - Slightly costly.
 ## [5. Frontline Plus for Dogs Small Dog (5-22 pounds)](https://www.amazon.com/dp/B0002J1FNK/?tag=p-policy-20)
-Frontline Plus is a trusted flea protection product for your puppy. With veterinary approval for nearly 20 years, Frontline Plus can kill�flea and their eggs 12 hours after application.
+Frontline Plus is a trusted flea protection product for your puppy. With veterinary approval for nearly 20 years, Frontline Plus can killflea and their eggs 12 hours after application.
 This product is suitable for puppies aged 8 weeks or older. Its more suited/effective for puppies weighing within the range of 2 to 22 pounds.
 - It provides waterproof protection and a treatment action for 30 days from the time of application.
 - The serum Frontline Plus has stick properties that limit it from being washed down.
@@ -106,7 +106,7 @@ fleas on your dog
 It is long-lasting. A 6-dose package of Frontline Plus will give you 6 months of service time with six application rounds.
 Pros:
 - Top-quality  veterinary recommended.
-- Kills in 12 hours and�2 active ingredients.
+- Kills in 12 hours and2 active ingredients.
 - Easy to apply and waterproof.
 - Long-lasting  30 days per dose.
 - It can kill both Flea and eggs.

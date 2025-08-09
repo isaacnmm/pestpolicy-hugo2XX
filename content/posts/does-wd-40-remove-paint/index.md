@@ -17,20 +17,20 @@ Does WD 40 work like a paint cleaner, a lubricant, or a degreaser? How effective
 sprayer for latex paint
 ?
 
-*So, does WD 40 remove paint? The direct answer is YES. WD 40 is a powerful organic compound with a complex hydrocarbon that'll break the paint molecular bonds instantly, thus allow easier stripping.�*
-*WD 40 works effectively on surfaces such as metal, plastic (but not clear polystyrene and polycarbonate), sealed wood, ceramics, leather fabrics, glass, Automotive parts, rubber, laminated paper and painted walls without any problems.�*
+*So, does WD 40 remove paint? The direct answer is YES. WD 40 is a powerful organic compound with a complex hydrocarbon that'll break the paint molecular bonds instantly, thus allow easier stripping.*
+*WD 40 works effectively on surfaces such as metal, plastic (but not clear polystyrene and polycarbonate), sealed wood, ceramics, leather fabrics, glass, Automotive parts, rubber, laminated paper and painted walls without any problems.*
 See Also:
 Paint Sprayer for Furniture
 ## Details: Does WD 40 Remove Paint?
-*It should also not be applied on surfaces such as naked stones/not sealed, suede, unfinished wood, non-laminated papers, electronics casing, cushioned material, and unpainted walls.�*
-*WD 40 is not suitable for large surface area (due to economic reasons). Notably, the right application of WD 40 leads to excellent paint removal without causing surface destruction or distortion.�*
+*It should also not be applied on surfaces such as naked stones/not sealed, suede, unfinished wood, non-laminated papers, electronics casing, cushioned material, and unpainted walls.*
+*WD 40 is not suitable for large surface area (due to economic reasons). Notably, the right application of WD 40 leads to excellent paint removal without causing surface destruction or distortion.*
 https://www.youtube.com/watch?v=tmY-tS2Ydro
 ### a. Active ingredients in WD 40
 WD 40 is a hydrocarbon compound whose main ingredients entail petroleum-based paraffin, aliphatic hydrocarbon (which is similar to kerosene), carbon Dioxide, and aliphatic hydrocarbons.
 These Ingredients are specially formulated (some may be omitted according to the intended use of a particular WD 40 product) and combine chemically for effective action upon application.
-Indeed,� WD 40 comes with super active agents, which breaks the molecular bonds in the paint (within 3 to 5 minutes), thus forming a thick viscous compound that is easier to strip. Moreover, the solvent features a high penetrative property that works effectively on the dense paint coating.
+Indeed, WD 40 comes with super active agents, which breaks the molecular bonds in the paint (within 3 to 5 minutes), thus forming a thick viscous compound that is easier to strip. Moreover, the solvent features a high penetrative property that works effectively on the dense paint coating.
 WD 40 is a less flammable, highly impressive and anti-leak product which integrates hygroscopic characteristic that eliminates the moisture on the surface instantly.
-However, the excess application causes humid accumulation from the surrounding, leading to rusting in some surfaces like chain drives.�For effective paint removal, WD 40 works best for a small area.
+However, the excess application causes humid accumulation from the surrounding, leading to rusting in some surfaces like chain drives.For effective paint removal, WD 40 works best for a small area.
 See Also:
 Can You Use Acrylic Paint On Metal?
 ### b. Types of paint Removed
@@ -45,7 +45,7 @@ For the paint removal process, you can use WD 40 on surfaces such metal (stainle
 The named surfaces should be polished or cleaned before application to achieve the best results. You should use a large amount of WD 40 for effective action, and multiple layer sections should be covered well to avoid unnecessary removal from the surrounding.
 ### d. Surfaces Not to Use WD 40
 Never use WD 40 on firearms. This product is hygroscopic (attracts water); thus, it will accumulate moisture on the surface leading to rust or explosion.
-Surfaces like chain drives are not recommended since WD 40 is not a lubricant -� it also accelerates the wear and tears on the moving part (not a lubricant).
+Surfaces like chain drives are not recommended since WD 40 is not a lubricant - it also accelerates the wear and tears on the moving part (not a lubricant).
 Further, you should avoid using WD 40 over a large surface area (due to economic reasons) and areas such as non-laminated papers, naked stones/not sealed, suede, unfinished wood, cushioned material, electronics casing, and unpainted  WD 40 may stain the surfaces, corrode or ever damage the upper layer during the paint removal process.
 A necessary precaution to consider is the drop test experiment that helps in confirmation of paint removal efficiency.
 See Also:
@@ -59,7 +59,7 @@ WD 40 is popular in the industry since 1954 due to unmatched advantages such as:
 - Non-abrasive and eliminate rust
 - Easier to clean and long action effects
 Besides, WD 40 is known to provide numerous alternative solutions at home, as highlighted further in this article.
-During application of WD 40, �you should consider some of the following precautions for effective paint removal:
+During application of WD 40, you should consider some of the following precautions for effective paint removal:
 1. All surfaces under paint remover should be cleaned  enhance quick penetration
 2. Respirators or nose mask should be won  to prevent nasal irritation
 - You should wear hand gloves  prevents skin burn/irritation
@@ -70,7 +70,7 @@ NB: The amount of WD 40 applied over a given surface is a function of the paint 
 See Also:
 [Does Goo Gone Remove Paint?](https://pestpolicy.com/does-goo-gone-remove-paint/)
 ## Step to Follow when using WD 40 in Paint Removal
-For effective paint removal when using WD 40, you will need to follow the laid procedure chronologically. Besides, you need to have the following items: WD 40 solve, soap detergent, sponge, scraper, a piece of clean cloth, clean water, �a basic and paintbrush.
+For effective paint removal when using WD 40, you will need to follow the laid procedure chronologically. Besides, you need to have the following items: WD 40 solve, soap detergent, sponge, scraper, a piece of clean cloth, clean water, a basic and paintbrush.
 1. Clean the surface you intend to remove paint - use paintbrush
 2. Administer drop test to ascertain the quality and efficiency of WD 40 on the surface
 3. Spray the painted surface sufficiently and leave it for 3 to 6 minutes to quench  forms a thick viscous fluid
@@ -109,7 +109,7 @@ Malco Tru is a heavy-duty polishing and buffing compound that work perfectly in 
 The active agents in Malco Tru remove stains and scratches (1000-1500) in a couple of minutes without affecting the original surface of the material. Moreover, Malco Tru is a versatile compound that features a water-based formula, which is biodegradable and less toxic.
 ### 2. Star Brite Rust
 Star Brite is a reliable stain remover that features a unique structural formula, which is quick-acting and non-abrasive. The solvent comes in a portable can with a classic spray nozzle, which allows point application during paint/stain removal.
-You can use Star Brite over surfaces such as metal, fiberglass, vinyl, plastic, etc. without affecting the original cover. Besides, the� Star Brite comes with a simple hand trigger for optional spray administration, and a stable can design.
+You can use Star Brite over surfaces such as metal, fiberglass, vinyl, plastic, etc. without affecting the original cover. Besides, the Star Brite comes with a simple hand trigger for optional spray administration, and a stable can design.
 See Also:
 Paint Sprayer for Interior Walls
 ### 3. HydroSilex Rewind

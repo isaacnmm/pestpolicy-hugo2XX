@@ -17,11 +17,11 @@ layout: post
 Most
 [bed bug killers](https://pestpolicy.com/does-rubbing-alcohol-kill-[bed-bugs](https://pestpolicy.com/do-ants-eat-bed-bugs/)/)
 may not work and are expensive - but you can use natural treatments such as pests. So, below we answer this question - do ants kill bed bugs?
-*In summary, ants (among other insects) such as the red-imported fire and pharaoh ant species predate and kill bed bugs. But exterminators also recommend heat treatment for bed bugs.�*
-*The predators of bed bugs are Masked Bed Bug Hunter, House Centipedes, Thanatus Flavidus Spiders, American Cockroaches, Pharaoh Ants, Red-Imported Fire Ants, and Argentine Ants.�*
+*In summary, ants (among other insects) such as the red-imported fire and pharaoh ant species predate and kill bed bugs. But exterminators also recommend heat treatment for bed bugs.*
+*The predators of bed bugs are Masked Bed Bug Hunter, House Centipedes, Thanatus Flavidus Spiders, American Cockroaches, Pharaoh Ants, Red-Imported Fire Ants, and Argentine Ants.*
 *Pharaoh ants are considered the most dangerous ant species in killing and eating bed bugs - especially for few bed bugs - besides fire ants and argentine ants. But *
-*ants won't help remove massive bed bug infestations.�*
-***See top spider killers.�***
+*ants won't help remove massive bed bug infestations.*
+***See top spider killers.***
 
 ## Details: Do Ants Kill Bed Bugs??
 But ants will also help locate the bed bugs' hiding places -but you won't have to introduce the bugs into your house - as may also prove difficult to
@@ -40,8 +40,8 @@ could be challenging than bed bugs.
 The masked bed-bug hunter (R
 *eduvius personatus*
 ) is considered to be an assassin bug with 6 spider-like legs, oval and flattened body - they're active predators of bedbugs and different insects.
-This spider species mainly feed on insec6ts and bedbugs - but if mishandled, it can bite humans to defend themselves.�The nocturnal feeders plus their nymphs cover themselves using insect parts, lint, and house dust - glued on their bodies.
-The Masked hunter live in dry and warm areas - such as your home - they're gray and brown (they're able to fly too) - measuring anywhere around� 17 - 22 millimeters.
+This spider species mainly feed on insec6ts and bedbugs - but if mishandled, it can bite humans to defend themselves.The nocturnal feeders plus their nymphs cover themselves using insect parts, lint, and house dust - glued on their bodies.
+The Masked hunter live in dry and warm areas - such as your home - they're gray and brown (they're able to fly too) - measuring anywhere around 17 - 22 millimeters.
 The bed bug hunters are named so because they'll hide in the dust when in their nymph stage. The bugs have symbiosis life relationships with pigeons and bats - bed bugs will feed on insects attracted by the pigeons and bats.
 - But, it is not advisable to introduce masked bed-bug hunters and some subspecies into the house as they may bring diseases to you and other humans.
 - Also, these masked hunters will bite humans (painfully) whenever they feel threatened - some liken the bite tothat of snakes.
@@ -50,10 +50,10 @@ https://www.youtube.com/watch?v=Fv4qs7_ZXz8
 ## Do Ants EatInsects andBed Bugs?
 The Salt Lake scientists report that lizards ate different insects including flies - and the black ants would also exterminate bed bugs. Ants will also feed on nectar and rotting fruits - while Aphids also feeding on sap.
 Other ant species, some red or black, smaller or even larger will scavenge but won't be an effective treatment for the bed bugs. The scavengers and predators will besides feeding on leftovers eat insects.
-You'll find the masked hunters in houses and barns -� and places with pigeons and bats - they also
+You'll find the masked hunters in houses and barns - and places with pigeons and bats - they also
 eat arthropods
 .
-## Bed Bugs�versusArgentine Ants
+## Bed BugsversusArgentine Ants
 The small Argentine ant is domiciled in Brazil, Uruguay, and Argentina - it measures about 1/10-inch in length but their queens have longer bodies - and all have black and dark brown colored.
 Argentine ants, like the
 carpenter ants

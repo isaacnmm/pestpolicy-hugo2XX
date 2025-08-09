@@ -28,7 +28,7 @@ Noise Cancelling Headphones Under 50
 ### [1. Sennheiser HD 650 Open Back [Headphone](https://pestpolicy.com/best-headphones-for-guitar-amps/) - #1 Pick](https://www.amazon.com/dp/B00018MSNI/?tag=p-policy-20)
 Sennheiser HD 650 has earned top fame for good reasons  it has premium neodymium magnets and acoustic silk (allows ultra-fine damping), relatively high clamping force (but comfortable).
 
-Thus, HD 650 takes the top spot for Best Headphones for Music Production.�Considering the design, the Sennheiser HD 650 won't win a beauty contest.
+Thus, HD 650 takes the top spot for Best Headphones for Music Production.Considering the design, the Sennheiser HD 650 won't win a beauty contest.
 However, it has a solidly built design that speaks to Sennheiser's excellent sense of material engineering. Most importantly, most of its parts are user-serviceable - thus, you can take them apart, clean, or replace them.
 First, I like the Sennheiser HD 650's rich, powerful sound that has a great sense of authority  particularly in the bass. Also, the treble is smooth, but it's textured  but it's still well extended. This pair is great for intermediate to pro audio engineers. I feel that the HD 650 is even better for having a tighter sound and warmer tone - thus, the soundstage will come out a little more intimate and compressed.
 Some music producers claim that the HD 650 is veiled or slow - but, I don't agree with this. It'll not scratch the inner of your eardrum with trebles like the AKG or Bayer dynamic DT 880.

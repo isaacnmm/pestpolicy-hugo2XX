@@ -126,7 +126,7 @@ Once you've identified the cause of standing water, you can implement a range of
 
 ## Final Thoughts
 
-Standing water in your yard is a clear signal that something is amiss with your property's drainage. Ignoring it can lead to a host of problems, from damaged landscaping and mosquito infestations to potentially costly foundation issues. By understanding the common causes � be it compacted soil, improper grading, or clogged gutters � you can effectively diagnose the problem.
+Standing water in your yard is a clear signal that something is amiss with your property's drainage. Ignoring it can lead to a host of problems, from damaged landscaping and mosquito infestations to potentially costly foundation issues. By understanding the common causes  be it compacted soil, improper grading, or clogged gutters  you can effectively diagnose the problem.
 
 The solutions available are diverse, ranging from simple fixes like extending downspouts and aerating your lawn, to more involved projects like installing French drains, creating rain gardens, or regrading your yard. For minor issues, a DIY approach might suffice, but for persistent or severe problems, consulting with a landscape architect or drainage professional can save you time, money, and frustration in the long run.
 

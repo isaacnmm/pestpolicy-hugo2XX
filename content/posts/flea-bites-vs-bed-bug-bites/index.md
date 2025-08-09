@@ -15,7 +15,7 @@ tags:
 - bite
 layout: post
 ---
-The small red bumps appearing in specific areas of your skin can be hard to tell apart.�Well tell you how to figure out whether theyre [flea](https://pestpolicy.com/can-fleas-bite-through-clothes/) bites or
+The small red bumps appearing in specific areas of your skin can be hard to tell apart.Well tell you how to figure out whether theyre [flea](https://pestpolicy.com/can-fleas-bite-through-clothes/) bites or
 [bedbug](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3255965/)
 bites.
 **Both these bites swell up and can be itchy, so here are some tips thatll help you tell the difference between them:**

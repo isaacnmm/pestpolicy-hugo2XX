@@ -48,7 +48,7 @@ Polyurethane Sealants are manufactured as either water-based or solvent-based po
 The solvent-based Polyurethane Sealants are the best suitable oil-based painted wood  avoid using it over latex pain and vice versa.
 **3. Sealant and Paint Combination**
 This combination entails a gallon paint container that integrates sealing compounds within its chemical formulation. Such kind of paint is there (but rare).
-- Usually, the sealant sticks along the paint layer and acts as a UV-rays blocker upon drying.�This solvent compound is also resistant to fading and peeling especially if the right number of coats are applied.
+- Usually, the sealant sticks along the paint layer and acts as a UV-rays blocker upon drying.This solvent compound is also resistant to fading and peeling especially if the right number of coats are applied.
 - Before buying sealant and paint combination compound, its advisable to confirm the labels for certification purposes.
 Remember, sealant and paint combination is a better option for a low-cost alternative. However, this method may not be stronger than using the actual sealant approach.
 ### Step 3: Surface Preparation
@@ -58,7 +58,7 @@ Remember, sealant and paint combination is a better option for a low-cost altern
 NB: You can opt for the sand section that has rots or mold using
 [fine-grit sandpaper](https://pestpolicy.com/what-grit-sandpaper-for-primer-before-paint/)
 .
-### Step 4:� Sealant Preparation
+### Step 4: Sealant Preparation
 - Pour the sealant into an empty bucket  start with a smaller quantity.
 - Thin accordingly and stir thoroughly to attain a uniform solution. When thinning, follow the manufacturers instructions keenly.
 - Blend the sealant with surface color, if necessary, and stir once more.

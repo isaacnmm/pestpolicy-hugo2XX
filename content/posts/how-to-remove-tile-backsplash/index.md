@@ -34,7 +34,7 @@ Spray Paint from Chipping off Metal
 For you to successfully remove any kind of tile backlash there are very important tools that you need to check on your list. This includes but not limited to:
 - A flat chisel
 - 6-in-1- 1 painters tool
-- A hammer/a�mini mallet
+- A hammer/amini mallet
 - Drywall putty (optional)
 - Sandpaper (optional)
 - Googles

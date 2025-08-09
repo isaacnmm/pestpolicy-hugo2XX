@@ -13,7 +13,7 @@ tags:
 - iron
 layout: post
 ---
-As an enthusiast of wrought iron railings, the greatest concern is how to keep them beautiful for long.�The best paints for wrought iron railings will keep the piece's
+As an enthusiast of wrought iron railings, the greatest concern is how to keep them beautiful for long.The best paints for wrought iron railings will keep the piece's
 aesthetic beauty rolling-from-chipping-off-metal/)
 .
 
@@ -162,7 +162,7 @@ This spray is just amazing with its 100 % stainless steel formulation. Very uniq
 
 Among them is high resistance to extreme temperatures of up to 250 degrees Fahrenheit.
 That notwithstanding, this paint makes the metals UV light resistant, water, and oil-resistant therefore improving on its shelf life and durability.
-It also does good work in protecting the surface against rust which is of the biggest enemies of metals.�The paint is also certified d with low emission of VOC and its usage feels safe either indoors or outdoors.
+It also does good work in protecting the surface against rust which is of the biggest enemies of metals.The paint is also certified d with low emission of VOC and its usage feels safe either indoors or outdoors.
 The paint has a fast-drying effect and creates a coat that is scratch-resistant and easy to clean-up of ant stain. Within one hour the surface is ready for other purposes including a second coat if need be.
 Pros:
 - Contains stainless steel 100% formulation

@@ -62,7 +62,7 @@ The heel and forefoot sections feature a Balanced Cushioning mechanism that enha
 
 The upper features a new Quick Dry Trail Mesh that provides extra durability. The Strobel Last on the upper section stretches throughout the shoe for a more comfortable wearing experience. The Gaiter Trap uses the hook and loop tab to prevent debris from accumulating below the outsole.
 
-Furthermore, the TRAILCLAW are canted lugs placed strategically below the section of the metatarsal of the shoe.� The aim of these lugs is to offer needed grip during toe-off especially on harsh surfaces.
+Furthermore, the TRAILCLAW are canted lugs placed strategically below the section of the metatarsal of the shoe. The aim of these lugs is to offer needed grip during toe-off especially on harsh surfaces.
 
 The outsole of Altra 3.5 features Vibram MegaGrip. This durable compound provides excellent traction on most surfaces including harsh trails.
 Pros:
@@ -114,7 +114,7 @@ will benefit from the spacious interior.
 
 The Ergonomic Rocker Design helps to reduce pressure on toe joints and the feet. It ensures a low heel to toe gap for an enhanced ground reaction. This improves your overall stability during walking or running. Hence, it lessens the strain caused by walking.
 
-The Gravity Defyer shoes are diabetic orthopedic shoes that help to restore diabetic foot health or prevent injuries.� The soft interior of the shoe is ideal for those with conditions like diabetic neuropathy and sensitive feet. The soft interior prevents foot irritation.
+The Gravity Defyer shoes are diabetic orthopedic shoes that help to restore diabetic foot health or prevent injuries. The soft interior of the shoe is ideal for those with conditions like diabetic neuropathy and sensitive feet. The soft interior prevents foot irritation.
 
 Other health conditions that would benefit from these diabetic-friendly shoes include back pain, ankle pain, knee pain, ingrown toenails, and Mortons neuroma among many other conditions.
 Pros:
@@ -202,7 +202,7 @@ Wearing high heels continuously is linked to lower back pain and changing the na
 Well-cushioned shoes help to reduce excess ground impact during walking or running. Excellent cushioning attenuates shock and relieves stress on the back section of your body. Ensure you buy shoes that feature midsole that have good cushioning technologies. Some of the midsole technologies include polyurethane foam, EVA, and many others.
 
 Therefore, individuals with high arches need to choose shoes with softer midsole. Those with low arches should pick shoes with firmer midsoles to facilitate enhanced motion control.
-### **�Consider Orthotics**
+### **Consider Orthotics**
 If you require extra support or comfort, consider getting custom-made orthotics for your shoes. Individuals with high arches or flat feet can benefit from using an orthotic insert to support their arches.
 
 Orthotics provide extra support, cushioning, and great shock absorption especially on hard surfaces.

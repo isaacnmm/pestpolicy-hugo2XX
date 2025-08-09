@@ -72,11 +72,11 @@ Once you have identified an active grub infestation, curative treatments are nec
 For those seeking a more eco-friendly approach, several organic options exist:
 
 1.  **Beneficial Nematodes:** These are microscopic, naturally occurring roundworms (*Heterorhabditis bacteriophora* is a common species for grubs). They are parasites that seek out and kill grubs by entering their bodies, releasing bacteria, and multiplying.
-    * **Timing:** Apply in late summer to early fall when grubs are young and actively feeding. Soil temperatures should be between 50-90�F (10-32�C).
+    * **Timing:** Apply in late summer to early fall when grubs are young and actively feeding. Soil temperatures should be between 50-90F (10-32C).
     * **Application:** Follow specific product instructions, as nematodes are living organisms. They require moist soil and application during cooler parts of the day (early morning or evening) to survive UV light. Water before and after application.
     * **Effectiveness:** Can be effective but are sensitive to environmental conditions and proper application.
 2.  **Milky Spore (Paenibacillus popilliae):** This is a naturally occurring bacterium that specifically targets Japanese beetle grubs. It causes a fatal disease in the grubs, and as they die, more spores are released into the soil, providing long-term control.
-    * **Timing:** Can be applied anytime when soil temperatures are above 60�F (15�C). It is a slow-acting preventative.
+    * **Timing:** Can be applied anytime when soil temperatures are above 60F (15C). It is a slow-acting preventative.
     * **Effectiveness:** Very specific to Japanese beetle grubs. Takes 2-3 years to establish sufficient levels in the soil for effective control, but then can last for 10-15 years. Not suitable for immediate relief from a severe, active infestation from various grub types.
 3.  **Cultural Controls:** Reinforce all the good lawn care practices mentioned under "Preventing Lawn Grubs." A healthy, vigorous lawn with deep roots can often withstand minor grub populations without showing significant damage. Over-watering and excessive thatch can create conditions favorable for grubs.
 4.  **Hand Picking (Small Areas):** If you only have a few grubs and very localized damage, you can manually pick them out of the soil when you find them.

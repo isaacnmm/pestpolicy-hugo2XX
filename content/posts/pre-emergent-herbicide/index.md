@@ -39,7 +39,7 @@ The effectiveness of the pre-emergent barrier typically lasts for several weeks 
 Timing is absolutely critical for the success of pre-emergent herbicides. Applying it too early or too late will significantly reduce its effectiveness. The goal is to apply it *before* the weed seeds you're targeting begin to germinate.
 
 1.  **For Summer Annual Weeds (e.g., Crabgrass, Foxtail, Goosegrass):**
-    * **The Soil Temperature Rule:** This is the most accurate indicator. Apply pre-emergent when soil temperatures consistently reach **50-55�F (10-13�C)** at a 2-4 inch depth for several consecutive days. These temperatures signal that summer annual weed seeds are about to germinate.
+    * **The Soil Temperature Rule:** This is the most accurate indicator. Apply pre-emergent when soil temperatures consistently reach **50-55F (10-13C)** at a 2-4 inch depth for several consecutive days. These temperatures signal that summer annual weed seeds are about to germinate.
     * **Phenological Indicators:** A common natural indicator for crabgrass germination is when **forsythia shrubs are in full bloom** or when **dogwoods are beginning to bloom**. These plants often bloom when soil temperatures are ideal for crabgrass.
     * **Geographic Timing:**
         * **Southern Climates:** Often late February to early March.
@@ -48,8 +48,8 @@ Timing is absolutely critical for the success of pre-emergent herbicides. Applyi
     * **Split Applications:** For lawns with heavy crabgrass pressure or very long growing seasons, a split application (half the recommended rate in early spring, and the second half 6-8 weeks later) can provide extended control.
 
 2.  **For Winter Annual Weeds (e.g., Annual Bluegrass/Poa Annua, Chickweed, Henbit):**
-    * **Fall Application:** Apply pre-emergent in **late summer to early fall** (late August to mid-September for many regions), when nighttime temperatures begin to consistently drop below 60�F (15�C). This is before winter annual weed seeds germinate.
-    * **Soil Temperature Rule:** When soil temperatures are consistently falling below 70�F (21�C).
+    * **Fall Application:** Apply pre-emergent in **late summer to early fall** (late August to mid-September for many regions), when nighttime temperatures begin to consistently drop below 60F (15C). This is before winter annual weed seeds germinate.
+    * **Soil Temperature Rule:** When soil temperatures are consistently falling below 70F (21C).
 
 **Important Considerations:**
 * **Do NOT Apply Before Overseeding:** Pre-emergents will prevent *all* seed germination, including desirable grass seed. If you plan to overseed or reseed your lawn, you must wait until the pre-emergent's residual activity has worn off (typically 6-12 weeks, check product label) or use a "safe for seeding" pre-emergent if available.

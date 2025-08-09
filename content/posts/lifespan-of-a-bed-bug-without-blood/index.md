@@ -16,8 +16,8 @@ layout: post
 ---
 Bed bugs are warm-blooded, reddish-brown, and wingless pests that survive from blood meals.
 But what's the lifespan of a bed bug without blood.
-**In brief; adult bed bugs will live for 400 days (a year) without taking�that blood meal (they're well resilient) while the nymphs will only survive for 20 to 90 days.�**
-- **Thus, there is a very limited chance that you can starve the bed bugs to their death as the 20 to 400 days will be too long before they die.�**
+**In brief; adult bed bugs will live for 400 days (a year) without takingthat blood meal (they're well resilient) while the nymphs will only survive for 20 to 90 days.**
+- **Thus, there is a very limited chance that you can starve the bed bugs to their death as the 20 to 400 days will be too long before they die.**
 But luckily for you,
 female
 bed bugs will not reproduce without taking that crucial and
@@ -46,7 +46,7 @@ In an empty house, bed bugs will survive for about 8 to 18 months without that c
 But bed bugs are excellent in hibernating cold temperature and lack of blood meal in the spaces such as in the empty houses - thus it'll challenging to specifically pinpoint when the bugs will die from starvation.
 
 Issues or conditions that'll affect how long the bed bugs survive or live without that blood meal in your empty house are:
-**1. Bed Bug Life Stage�**
+**1. Bed Bug Life Stage**
 Bed bugs will require massive blood to develop from nymph stage (via 5 steps) to become adults - these stages demand rapid development.
 - That's the reason the bed bug nymphs will live shorter (about 2 months) if it won't get that blood meal after hatching.
 - However, when the nymphs have feed and appear reddish - they'll survive even up to 8 months without feeding - taking that human blood meal.
@@ -59,7 +59,7 @@ Despite that bed bus will evidently survive for long even when your house is emp
 Notably, the bed bugs will withstand just about 25 degrees Fahrenheit - just a number of days. Thus, for the houses in extreme weather - you can leave the empty space to exterminate the bugs.
 - Further, for the extreme high temperatures such as above 113 degrees Fahrenheit - the bugs would also die.
 ## Conclusion
-So, the�lifespan of a bed bug without blood is about 2 months to 13 months - so you'll require
+So, thelifespan of a bed bug without blood is about 2 months to 13 months - so you'll require
 [spraying](https://pestpolicy.com/best-bed-bug-spray/)
 - they won't reproduce easily with no that human blood meal.
 - So, you can reduce the scratching and itching brought by the bed bug bites - this is by reducing the supply of food. But practically, bed bugs will go hunting for any available host to suck blood from them.

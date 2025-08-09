@@ -25,7 +25,7 @@ Nothing gives a painter more confidence than knowing the name behind his uniquel
 
 Wooster Brush Company has been in this business since 1851 and has continually given Americans and the rest of the world a new meaning in painting.
 These rollers are designed with a shed resistance mechanism and have a high density that allows them to offer great performance. If you are a professional, you will definitely love the smooth finish that this roller gives with its anti-matting design.
-The white rollers have intertwined fibers that offer good coverage on any surface applied regardless of the painting material.� The rollers can stay strong even for full-day use in painting without cracking.
+The white rollers have intertwined fibers that offer good coverage on any surface applied regardless of the painting material. The rollers can stay strong even for full-day use in painting without cracking.
 They are good water-resistant and you can suitably use them on medium surfaces or even tight surfaces like trims for an excellent performance.
 Pros:
 - They are durable

@@ -55,12 +55,12 @@ It is also vital you inspect the building's perimeter to ascertain that there ar
 Some of the most effective
 natural botanical treatments used to kill
 termites are orange oil and Neem oil.
-Orange oil:�Orange oil has an active compound referred to as d-limonene. D-limonene has a potent formulation that enables it to kill termites instantly. Orange
+Orange oil:Orange oil has an active compound referred to as d-limonene. D-limonene has a potent formulation that enables it to kill termites instantly. Orange
 oil treatment is also useful
 in eliminating colonies of Dry wood termite.
 Neem
 oil: N
-eem oil is also a top-rated botanical treatment for killing termites. This oil is obtained from the Asian neem tree. When using neem oil to eliminate termites, ensure you apply it in their colonies so that the termites will directly ingest it and die.�Remember!!�If you want a quick result, repeat Neem oil's application several times until the whole colony is killed.
+eem oil is also a top-rated botanical treatment for killing termites. This oil is obtained from the Asian neem tree. When using neem oil to eliminate termites, ensure you apply it in their colonies so that the termites will directly ingest it and die.Remember!!If you want a quick result, repeat Neem oil's application several times until the whole colony is killed.
 **6. Cardboard Trap to Kill Termites**
 The use of cardboard is the most non-toxic and
 natural termite killer recipe
@@ -80,10 +80,10 @@ Boric acid acts by sticking
 on the antennae, legs, and bodies of termites. These pests consume the boric acid during grooming, which is poisonous for them, hence dying instantly.
 Important Precaution: Boric acid is toxic if inhaled. For your safety, you should always use gloves and masks while using it. Ensure your children and pets dont come into contact with this acid because of its toxic properties.
 ## Types of Termites
-Drywood Termites:�If your residence or business is infested with Drywood termites, youll notice wood that is not directly in contact with the ground is eaten up.
+Drywood Termites:If your residence or business is infested with Drywood termites, youll notice wood that is not directly in contact with the ground is eaten up.
 Drywood termites are easy to identify since they dont build earthen mud tubes. A sure way to confirm a dry wood termite infestation is by looking out for hard, dry fecal capsules that normally form piles.
 Drywood termites attack all kinds of dry wood. Further, they sometimes attack furniture or other wood products, especially in those that would normally not have this kind of termites.
-Subterranean Termites:�On the other hand, the subterranean termites live underground and depend on the soil for moisture and colony formation.
+Subterranean Termites:On the other hand, the subterranean termites live underground and depend on the soil for moisture and colony formation.
 Youll identify subterranean termite infestation on your building's external walls when you see tubes made of mud, wood chips, and soft fecal matter directed towards the wood product.
 Below are the top termite killer recipes that will guarantee you a termite-free residence within the shortest time possible.
 ## Conclusion
@@ -94,6 +94,6 @@ natural home
 remedies
 guarantee maximum safety because they dont contain harmful chemicals.
 ## Sources:
-1. NCBI -�Termite Resistance of MDF Panels Treated with Various Boron Compounds
+1. NCBI -Termite Resistance of MDF Panels Treated with Various Boron Compounds
 2. [Disodium Octaborate tetrahydrate - Wikipedia](https://en.wikipedia.org/wiki/Disodium_octaborate_tetrahydrate)
-3. [Drywood Termites -�General Biology](https://extension.arizona.edu/sites/extension.arizona.edu/files/pubs/az1232.pdf)
+3. [Drywood Termites -General Biology](https://extension.arizona.edu/sites/extension.arizona.edu/files/pubs/az1232.pdf)

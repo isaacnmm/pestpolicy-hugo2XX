@@ -14,9 +14,9 @@ tags:
 - wipe
 layout: post
 ---
-PYRANHA Wipe N Spray offers protection to your horse against insects such as biting [flies](https://pestpolicy.com/absorbine-ultrashield-ex-brand-residual-insecticide-review/) in addition to fleas, gnats, and mosquitoes.�Youll require just 1-2 ounces for every horse and will be excellent if you daily on your horse.
+PYRANHA Wipe N Spray offers protection to your horse against insects such as biting [flies](https://pestpolicy.com/absorbine-ultrashield-ex-brand-residual-insecticide-review/) in addition to fleas, gnats, and mosquitoes.Youll require just 1-2 ounces for every horse and will be excellent if you daily on your horse.
 Interestingly, you wont need to mix the chemical with anything as it is delivered ready to use. In this post, I've reviewed this PIRANHA Wipe N Spray which is among the
-*best fly spray for horses.�*
+*best fly spray for horses.*
 
 Flies will particularly be rampant during the months of summer  particularly with areas that experience hot summers and mild winters. With this Pyranha
 [Fly Spray](https://pestpolicy.com/espree-aloe-herbal-fly-repellent-horse-spray-review/)
@@ -42,9 +42,9 @@ You can use a towel of mitt for the horses face or just spray all over the other
 kills fleas
 , gnats, mosquitos in addition to other dominant insects that tend to attack horses. Definitely, with this spray I dont have to re-spraying my horse since it will actively control the flies for about 1 week.
 2. After using the spray I noticed that my horse immediately tends to become less irritable with lesswagging of its tail.Luckily, this formula controls/ repel more than just the flies that you were initially targeting.
-3.�The fly spray will not irritate your horses skin. Further, its cost-effective as youll require less number of spray re-applications. However, you must not wet the horse.
+3.The fly spray will not irritate your horses skin. Further, its cost-effective as youll require less number of spray re-applications. However, you must not wet the horse.
 4. Further, as noted above, PYRANHA Wipe N Spray contains lanolin thatll ease the dryness or in your horses skin, even with the chapped skin. Further, as I noted earlier, this lanolin ingredient left the horses coat shining, healthy and soft.
-## The downsides of this**PYRANHA Wipe N Spray Fly�**
+## The downsides of this**PYRANHA Wipe N Spray Fly**
 Despite all the love I have for this spray, below I outline some of the cons I experienced (this is for total transparency).
 For dirty, sandy, or dusty areas, you might find out that upon applying the fly spray, dirt could s stick on your horse. Therefore, if youre in a horse show, you might require to constantly need to wipe your horses skin.
-Second, some horse owners may not like the smell (the strong citronella scent we discussed earlier) of this PYRANHA Wipe N Spray�product. However, this is not the case with all of us out here  the best you can do is to test it as you night also love the citronella scent like myself.
+Second, some horse owners may not like the smell (the strong citronella scent we discussed earlier) of this PYRANHA Wipe N Sprayproduct. However, this is not the case with all of us out here  the best you can do is to test it as you night also love the citronella scent like myself.

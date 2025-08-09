@@ -104,7 +104,7 @@ Cons:
 - Pricey
 
 ### [4. HOKA ONE ONE Men's Clifton 6 Running Shoe](https://www.amazon.com/dp/B07T2NTM1N/?tag=p-policy-20)
-HOKA ONE ONE Men's Clifton 6 is a neutral running shoe thats highly supportive to the needs of Posterior Tibial Tendonitis sufferers.� The shoe has a generous midsole that promotes comfort. its also well-cushioned, offers excellent arch support, and has a roomy forefoot to provide a comfortable ride.
+HOKA ONE ONE Men's Clifton 6 is a neutral running shoe thats highly supportive to the needs of Posterior Tibial Tendonitis sufferers. The shoe has a generous midsole that promotes comfort. its also well-cushioned, offers excellent arch support, and has a roomy forefoot to provide a comfortable ride.
 
 The midsole of Clifton 6 features a thick EVA foam that provides a plush and responsive ride. The stack height shouldnt worry, as the shoe is light enough for long-distance running. The Meta-Rocker design encourages smoother transitions during running.
 
@@ -149,7 +149,7 @@ Cons:
 ### [6. Saucony Men's S20483-2 Trail Running Shoe](https://www.amazon.com/dp/B07FFLRMS8/?tag=p-policy-20)
 Saucony Peregrine ISO Posterior Tibial Tendonitis running shoe offers a perfect blend of traction, durability, cushioning, and support. It comes with features and technologies that help to soothe feet with inflamed Posterior Tendonitis.
 
-The midsole features an EVERUN Topsole, which stretches from the heel area to the forefoot.� The EVERUN delivers a responsive and more bouncy ride for a comfortable running experience.
+The midsole features an EVERUN Topsole, which stretches from the heel area to the forefoot. The EVERUN delivers a responsive and more bouncy ride for a comfortable running experience.
 
 PWRFOAM and EVERUN Topsole work in conjunction to minimize landing impact. Hence, protect your feet and ankles from injuries. The two technologies facilitate high-energy return for the runners. They also provide unmatched underfoot cushioning during running. Allowing to run with Posterior Tendonitis with ease.
 

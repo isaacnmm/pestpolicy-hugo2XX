@@ -19,12 +19,12 @@ The bugs will target the weak pine trees from injury or stress.
 For example, the mountain pine beetle, mainly found in North America, is black or reddish brown in color.
 So in this article, I'll get into the details of how you can get [rid](https://pestpolicy.com/get-rid-sweat-bees/) of the pine bark beetles that have been killing your trees.
 - But I would also recommend any arborist or homeowner get professional exterminators, if DIY pest control is not your thing - tryTerminix,Orkin, orArmored Pest Svc- they'll use specialized and more effective chemicals, baits, or chemicals.
-### **Identifying the Pine Bark Beetle�**
+### **Identifying the Pine Bark Beetle**
 [Pine bark beetles](https://ipm.ucanr.edu/legacy_assets/pdf/pestnotes/pnbarkbeetles.pdf)
 are relatively tiny insects that measure about 2.5 to 6 mm in body length. They have black or dark brown colors with some spines at their back.
 I have listed some of the signs that you can check out to know if there is an infestation of the pine bark beetles.
 - **Drying branches:**As pine bark beetles feed on the tree's bark and deny the tree its nutrition, the branches will dry off or have needles.
-- **Boring Dust:**Signs of some[sawdust-like and fine substance that is reddish or rusty-brown](https://www.fs.usda.gov/detail/r3/forest-grasslandhealth/insects-diseases/?cid=stelprdb5228465)near the tree's bark�of the tree will punish the presence of pine bark beetles.
+- **Boring Dust:**Signs of some[sawdust-like and fine substance that is reddish or rusty-brown](https://www.fs.usda.gov/detail/r3/forest-grasslandhealth/insects-diseases/?cid=stelprdb5228465)near the tree's barkof the tree will punish the presence of pine bark beetles.
 - **Pitch tubes: **pitch tubes or sap or resin are produced by the pine trees as they attempt to push the Beatles out.
 - **Discolored or strained bark: **a yellow or reddish brown pine tree bark may indicate are dying tree due to bugs.
 It's crucial to note that June bugs and pine bark beetles may have similar sizes, shapes, and colors. However,
@@ -34,7 +34,7 @@ feed and live on shrubs and grass or lawns, and they don't bore into tree barks.
 Weak and sick trees won't survive an attack caused by the pine bark beetles. The sick trees will produce some
 [chemicals that attract the pine bark beetles](https://henderson.ces.ncsu.edu/2020/05/pest-alert-pine-bark-beetles/)
 . So, you must be quick in the treatment of the pine trees to allow them to survive.
-### 1. Treatment 1: Spray**Dominion 2L�**
+### 1. Treatment 1: Spray**Dominion 2L**
 As noted earlier, pine bark beetles will bore holes in the leaves, branches, and trunk of pine trees - especially the weak and sickly ones. With the use of Dominion 2L, any landscaper, arborist, or homeowner can remove these bugs and save the pine tree under attack.
 - Dominion 2L contains imidacloprid as its active ingredient. Imidacloprid (a systemic insecticide) gets into pine trees through the roots (sapwood) and moves to the trees' bark, trunk, and branches through the plant's vascular system.
 Once ingested by the bugs, Imidacloprid will paralyze its nervous system causing death or paralysis. This is how Dominion 2L is able to protect the pine trees from bugs such as scale insects, aphids, and pine bark beetles.
@@ -42,12 +42,12 @@ Once ingested by the bugs, Imidacloprid will paralyze its nervous system causing
 - Second, Dominion 2L offers longer (1 year) protection against bugs like pine bark beetles. And finally, the insecticide is simple to use for either exterminators or DIY homeowners.
 However, Dominion 2L may harm non-target insects such as butterflies and bees which are considered beneficial.
 To apply this Dominion 2L, just sprinkle the product around the base of the pine tree - don't forget to wear your eye protection and gloves.
-### 2. Treatment 2: Use**Sylo Insecticide�**
+### 2. Treatment 2: Use**Sylo Insecticide**
 The Sylo Insecticide on the other hand is applied to the pine tree - you may apply it using a suitable sprayer. The active ingredient, cypermethrin, will kill pine bark beetles fast - just apply this product to the trees' bark.
 - Thus, the insecticide will effectively contact those bugs and also exterminate them. Luckily, this insecticide will also exterminate the pine bark beetles that are lurking just on the tree but have not bored into its bark.
-- The early prevention measure using this �Sylo Insecticide will ensure that the pine bark beetles won't spread to other trees - giving time for the weak or sick trees to recover while the healthy ones continue thriving without pests.
+- The early prevention measure using this Sylo Insecticide will ensure that the pine bark beetles won't spread to other trees - giving time for the weak or sick trees to recover while the healthy ones continue thriving without pests.
 Further, you'll find Sylo insecticide readily in your local stores or hardware as so you won't have to struggle to get it.
-### 3.**Prune the infested Trees�**
+### 3.**Prune the infested Trees**
 Next, I recommend that you prune those trees infested by pine bark beetles.
 - But ensure to fully remove the limbs and branches that are infected. This will prevent the number of these bugs that'll transfer to other trees in the neighborhood.
 I recommend that you prune the trees during winter or late fall as during this time you won't cause much damage to the trees and the bugs are relatively dormant and so they won't spread much once disturbed.
@@ -55,7 +55,7 @@ Further, after pruning, you'll need to dispose of all the limbs and branches in 
 - Pruning will also help remove the various life stages of the pine bark beetles including their eggs.
 Related:
 [How to Get Rid of Gnats](https://pestpolicy.com/how-to-get-rid-of-gnats/)
-### 4.**Dispose of the Dead Pine Trees�**
+### 4.**Dispose of the Dead Pine Trees**
 Besides pruning, the pine trees, you'll also require to remove all the dead trees that are in the area.
 - This is because the dead pines may act as hosts to other pine bark beetles - promoting their growth and fast reproduction.
 The dries pine trees will be easier for the beetles to bore into their bark, feed, and lay eggs. Also, the beetle larvae will develop easily in the tree tunnels created by the bugs.

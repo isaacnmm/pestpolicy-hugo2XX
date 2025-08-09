@@ -17,7 +17,7 @@ layout: post
 May be you have come across various species of lizards in your home, park or zoo and wonder whether they have backbones or not. How could their internal organs be protected or supported? Could they be having similar anatomy as mammals or other animals?
 **So, Are Lizards Vertebrates or Invertebrates? The simple answer is, all species of [Lizard](https://pestpolicy.com/are-lizards-poisonous/) are vertebrates (they have backbone also called the vertebral column/spinal column). **
 **The lizards spinal column is divided into cervical, dorsal, caudal regions and sacral apart from legless lizards whose backbone is divided into caudal and precaudal. **
-**The main function of the backbone is to offer protection to the spinal cord. It also provides an option for attachment of body muscles.�**
+**The main function of the backbone is to offer protection to the spinal cord. It also provides an option for attachment of body muscles.**
 
 ## Are Lizards Vertebrates or Invertebrates?
 Lizards including

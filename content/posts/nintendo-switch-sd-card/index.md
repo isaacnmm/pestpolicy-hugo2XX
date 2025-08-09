@@ -93,9 +93,9 @@ Motherboard for i7 6700 (non-K)
 ## How To Install Micro SD Card in Nintendo switch SD card slot
 *Lets face it:*
 The 32GB internal storage of your Nintendo Switch might not be enough to store many, or just enough, digitally downloaded game titles.
-Maybe you have just acquired a Nintendo Switch Micro SD Card and you are ready to hit go with new game titles.�You might want to take pictures or take screenshots of the Nintendo switch.
-But wait a minute!�You must have numerous questions regarding the use of additional storage in the Nintendo switch.
-Do I require a memory card?�Where is Nintendo switch SD card slot? How do you insert or remove the SD card from the Nintendo Switch?
+Maybe you have just acquired a Nintendo Switch Micro SD Card and you are ready to hit go with new game titles.You might want to take pictures or take screenshots of the Nintendo switch.
+But wait a minute!You must have numerous questions regarding the use of additional storage in the Nintendo switch.
+Do I require a memory card?Where is Nintendo switch SD card slot? How do you insert or remove the SD card from the Nintendo Switch?
 In this guide, I will go through all the above issues and offer solutions  step by step. But first, if you need to know the location of the Nintendo switch SD card slot, check the below description and images.
 Read Also:
 Android Tablet for Gaming
@@ -115,10 +115,10 @@ So, how do you install the micro SD card?
 7. However, if the MicroSD card for your console is not recognized, ensure that the card is inserted properly inserted into the Nintendo switch SD card slot. Further, make sure that the SD card is formatted correctly.
 ## How to remove the MicroSD Card
 1. Switch off your Nintendo Switch console
-2. Smoothly swing open the SD card stand�open to reveal its microSD card slot.
+2. Smoothly swing open the SD card standopen to reveal its microSD card slot.
 3. Gently push down the microSD card at the top until there is a click sound.
 4. Finally, slide the microSD card out of the consoles microSD card slot.
-### What type of memory card does your�Nintendo switch use?
+### What type of memory card does yourNintendo switch use?
 First, before thinking of installing the microSD card to your Nintendo Switch, you must ask a very important question: Do I go for an SD card or a microSD card?
 Well, it is critical to ensure that the microSD cards are compatible with your Switch.
 Your Nintendo switch will only support a maximum of 2GB microSD cards, 4GB-32GB microSDHC cards, and 64GB or more capacity for the microSDXC cards. However, check the compatible Nintendo Switch SD cards you can pick.
@@ -142,5 +142,5 @@ Option B: The other great option is to move your switch games to another externa
 In this article, I have covered how you can install and remove the microSD card from the Nintendo Switch console.
 If you need extra storage space for the exciting digitally download games, youll need to buy additional storage space.
 ## Conclusion
-In this article, Ill outline the�best Nintendo switch sd card that you can purchase today. Further, we have categorized the SD cards according to their storage capacity: 64GB, 128GB, and 200GB.
+In this article, Ill outline thebest Nintendo switch sd card that you can purchase today. Further, we have categorized the SD cards according to their storage capacity: 64GB, 128GB, and 200GB.
 Pick an appropriate Nintendo Switch SD Card that will allow optimum performance in your switch. Take note of the class, speeds, and the capacity as you make the ultimate buying decision.

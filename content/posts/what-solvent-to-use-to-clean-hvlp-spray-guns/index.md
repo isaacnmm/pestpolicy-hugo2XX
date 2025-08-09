@@ -19,7 +19,7 @@ However, the question of which solvent to use for cleaning HVLP spray guns often
 **The Answer:**
 **The best solvent to use for cleaning HVLP spray guns is a specialized gun cleaner or a mixture of water and solvent designed for paint gun cleaning.**
 These solutions are formulated to effectively remove paint residues and ensure proper maintenance of your HVLP spray gun.
-*In simple terms, use a gun cleaner or a mixture of water and solvent specifically meant for paint gun cleaning to ensure your HVLP spray gun stays in top condition.�*
+*In simple terms, use a gun cleaner or a mixture of water and solvent specifically meant for paint gun cleaning to ensure your HVLP spray gun stays in top condition.*
 ## **Why Specialized Gun Cleaners?**
 Specialized gun cleaners are engineered to dissolve and remove paint residues and other contaminants from HVLP spray guns without causing damage to delicate internal components or the spray gun's surfaces.
 

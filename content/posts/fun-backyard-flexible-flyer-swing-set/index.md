@@ -16,7 +16,7 @@ layout: post
 The Fun Backyard Flexible Flyer Swing Set offers an excellent
 [healthy play option for kids](https://healthinformatics.uic.edu/healthy-games-and-activities-for-kids/)
 and their friends.
-With the various play activities, the swing set will allow increased fitness and fun.�Read Also:
+With the various play activities, the swing set will allow increased fitness and fun.Read Also:
 [Swing Set for Older Kids](https://pestpolicy.com/best-swing-set-for-older-kids/)
 
 ## Fun Backyard Flexible Flyer Swing Set

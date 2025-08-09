@@ -95,7 +95,7 @@ For homeowners seeking a reliable, comprehensive, and expertly managed professio
 * **Science-Based Approach:** TruGreen employs PhD-certified agronomists who develop their treatment programs, ensuring they are scientifically sound and effective for various grass types and regional conditions.
 * **Comprehensive Plans:** They offer a range of annual plans (e.g., TruHealth, TruComplete) that include essential treatments like fertilization, targeted weed control (pre- and post-emergent), and pest control. They also provide options for aeration, overseeding, and organic-based solutions (TruNatural).
 * **Tailored for Your Lawn:** Each service begins with a "Healthy Lawn Analysis" by a TruGreen specialist, who assesses your lawn's specific needs, soil conditions, and any existing problems to create a customized treatment plan.
-* **Guaranteed Results:** TruGreen offers its "Healthy Lawn Guarantee�," promising to return and re-treat your lawn as often as needed between scheduled visits if you are not satisfied, at no additional cost. This commitment provides excellent peace of mind.
+* **Guaranteed Results:** TruGreen offers its "Healthy Lawn Guarantee," promising to return and re-treat your lawn as often as needed between scheduled visits if you are not satisfied, at no additional cost. This commitment provides excellent peace of mind.
 * **Convenience:** All treatments are scheduled and applied by trained technicians, eliminating guesswork and effort on your part. You receive a service summary after each visit with recommendations for between-visit care.
 * **Extensive Support:** TruGreen offers robust customer support and educational resources, ensuring homeowners are informed and can easily address any concerns.
 

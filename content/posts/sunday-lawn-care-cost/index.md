@@ -33,7 +33,7 @@ Sunday Lawn Care distinguishes itself by focusing on a more natural approach to 
     * **Specific Soil Amendments:** Products addressing issues like compaction or specific nutrient deficiencies.
 * **Educational Resources and Support:** Sunday provides extensive online resources, application guides, and access to a team of lawn advisors to assist homeowners.
 
-## Sunday�s Subscription Pricing
+## Sundays Subscription Pricing
 
 Sunday's primary pricing model is a subscription for their customized lawn plan, delivered in multiple shipments throughout the year. The cost of this subscription is **not a fixed, flat rate** for all customers. Instead, it is highly personalized and primarily determined by the following factors:
 
@@ -44,7 +44,7 @@ Sunday's primary pricing model is a subscription for their customized lawn plan,
 
 When you go to Sunday's website and enter your address and lawn size, their system calculates an estimated annual cost for your customized base plan. This annual cost is then typically broken down into payments per shipment.
 
-## Sunday�s Individual Product Pricing
+## Sundays Individual Product Pricing
 
 Beyond the main subscription plan, Sunday also sells a variety of individual products, which can be purchased separately without a subscription or as add-ons to an existing plan. These individual products cover specific needs like targeted weed control, pest solutions, or grass seed.
 

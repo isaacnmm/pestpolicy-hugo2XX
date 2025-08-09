@@ -17,10 +17,10 @@ Painting protects primary material from damage and eliminates external agents th
 [[kitchen](https://pestpolicy.com/how-to-paint-kitchen-cabinets-without-sanding/) cabinet paintwork](https://www.amazon.com/dp/B07KXLPCG1/?tag=p-policy-20)
 may not be easy, especially when wrong data is estimated.
 
-*So, how much does it cost to paint kitchen cabinets? Well, the painting cost for kitchen cabinets ranges from $700 to $2200. However, the cost of repainting, the cost may rise up to $400.�*
+*So, how much does it cost to paint kitchen cabinets? Well, the painting cost for kitchen cabinets ranges from $700 to $2200. However, the cost of repainting, the cost may rise up to $400.*
 *But the answer varies with the size of the cabinet, location, type of paint to be used, and the quality of finish expected eventually. *
 *When planning for your painting work, you need to account for the cost of material and tools required, labor cost, transport cost, the cost associated with a method of painting (is it spray painting or use of a paintbrush/roller?), and miscellaneous costs.*
-*Moreover, you need to familiarize yourself with the costs of various paints, the cost of repainting, painting cost per square foot, and the overall painting cost that you may end up incurring; for your own budget purpose.�*
+*Moreover, you need to familiarize yourself with the costs of various paints, the cost of repainting, painting cost per square foot, and the overall painting cost that you may end up incurring; for your own budget purpose.*
 ## Details: How Much Does It Cost To Paint Kitchen Cabinets
 Remember, cabinet painting costs may vary from place to place due to economic factors. Therefore, its important to keep yourself up to date with painting trends in your area.
 ### a. Cost of Material and Tools
@@ -87,7 +87,7 @@ The transport costs associated with miscellaneous purchases were not in the init
 You can always set aside $50 to $70 for a miscellaneous costs plan.
 ### d. Transport Cost
 Depending on where your home is located, the transport cost will also vary  the far the kitchen (home) the higher the transport cost. Moreover, the cost of transporting the material and tools needed is determined by the quantity ordered.
-You will pay more if the quantities ordered are more  unless the seller offers after-sales services.�Transport costs also include the cost of ferrying the painter to your home and back.
+You will pay more if the quantities ordered are more  unless the seller offers after-sales services.Transport costs also include the cost of ferrying the painter to your home and back.
 Otherwise, such costs will be accounted for in labor costing. In case you are buying a few materials and tools, its advisable to purchase them from a nearby retailer/vendor.
 However, for large quantities, its recommended that you buy them from manufacturers or wholesalers in order to enjoy after-sales services and other discounts.
 The transport may cost you about $13 to $60 per mile depending on the road infrastructure in your locality.
@@ -130,7 +130,7 @@ Every homeowner desires to have quality painted kitchen cabinets though this is 
 ### 2. Choice of Paint Type to Use
 The paint type for the kitchen cabinet could either be oil-based or water-based  the choice depends on the type of quality finish you intend to achieve and the location of your kitchen cabinets.
 Oil-based paint should not be used on cabinets found near the fireplace, while water-based paint should be used on kitchen cabinets located away from the water point.
-Otherwise, waterproofing is mandatory.�When selecting your paint choice, consider other factors listed below:
+Otherwise, waterproofing is mandatory.When selecting your paint choice, consider other factors listed below:
 **Water-based paint or latex paint**
 - Easier to apply
 - More comfortable to thin

@@ -21,7 +21,7 @@ Designing a landscape that deters deer isn't just about choosing plants they dis
 
 ## The Deer-Proof Garden
 
-While no garden can be 100% "deer-proof" (especially when deer are hungry enough), a "deer-resistant" garden is one designed to minimize attractive food sources and create deterrents. It�s about building layers of defense to encourage deer to look elsewhere for their meals.
+While no garden can be 100% "deer-proof" (especially when deer are hungry enough), a "deer-resistant" garden is one designed to minimize attractive food sources and create deterrents. Its about building layers of defense to encourage deer to look elsewhere for their meals.
 
 ### Understanding Deer Behavior: Why They Browse
 
@@ -152,7 +152,7 @@ Creating a deer-resistant landscape is part of a broader strategy for sustainabl
 
 * **Designing with Native Plants:** Many native plants have evolved alongside local wildlife and may exhibit natural deer resistance, while also supporting local ecosystems. Researching native plants for your specific region can lead to resilient and ecologically beneficial choices.
 * **Types of Deer Fencing and Installation:** For serious deer pressure or to protect valuable crops, a well-designed and properly installed deer fence is often the most effective solution. Learn about different fence materials, heights, and installation techniques.
-* **Integrated Pest Management (IPM) Principles:** While deer are large browsers, applying IPM principles � a holistic approach that considers environmental factors and integrates various pest control methods � can be adapted to managing wildlife damage effectively and sustainably.
+* **Integrated Pest Management (IPM) Principles:** While deer are large browsers, applying IPM principles  a holistic approach that considers environmental factors and integrates various pest control methods  can be adapted to managing wildlife damage effectively and sustainably.
 * **Understanding Deer Foraging Habits Seasonally:** Deer diets change throughout the year. Knowing what they prefer to eat in spring, summer, fall, and winter can help you anticipate Browse pressure and protect vulnerable plants at specific times.
 * **The Role of Companion Planting for Pest Deterrence:** Some gardeners believe certain aromatic plants can deter not only insect pests but also larger animals like deer. While not scientifically proven for deer, it's an interesting avenue to explore.
 * **Winterizing Your Garden Against Animal Damage:** Beyond deer, other animals like rabbits and voles can cause winter damage. Learn about specific strategies to protect plants during the colder months when food sources are scarce.

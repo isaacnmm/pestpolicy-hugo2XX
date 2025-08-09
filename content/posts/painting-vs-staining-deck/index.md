@@ -25,7 +25,7 @@ Compared to brick pavers and concrete, wooden decks will require a higher level 
 paint it
 , or stain it.
 ## Painting Vs. Staining Deck - 7 Differences
-### **1. A Natural look -�**How do you tell if Deck is stained or painted?
+### **1. A Natural look -**How do you tell if Deck is stained or painted?
 Well, wood stains will give you a more semi-solid to transparent opacity - a more natural look compared to wood paints. However, paints will give you a manufactured or refined finish look.
 Stains will fill up the wood pores and create a thin film that'll leave a natural grain finish while the cracks will also see-through. Oil-based deck stains will significantly seep into the wood's pores but won't raise the wood grains.
 However, paints have many resins and pigments; they'll fill the wood grams and dry to create an opaque surface that will cover the attractive wood grains besides hiding the wood cracks.
@@ -56,7 +56,7 @@ But for both staining and painting, you'll need to appropriately
 . For a stain plus sealer in one product, you won't require an extra topcoat.
 Further, you can use a roller or brush to apply one coat of deck stain. No globs from the thin stain will pool on the wood, and since it's transparent, it won't leave lap marks.
 But before you paint, you'll require to treat the deck using some wood preservatives and coat it using a suitable primer. You'll require at least two coats of oil-based or latex paint, but the thick paint will also leave laps and globs on the deck surface - thus will finally require a clean sealer (polyurethane).
-### 6. Longevity -�Is it better to stain or paint a deck?
+### 6. Longevity -Is it better to stain or paint a deck?
 First, deck paints will last for a long time compared to deck stains despite the that both will be affected by different issues such as peeling and chipping for paints and discoloration for deck stains.
 However, on stains vs. paints in longevity question - paints are highly durable (may go up to 10 years or more) before needing a re-application. Latex paints (
 applied using latex paint sprayers

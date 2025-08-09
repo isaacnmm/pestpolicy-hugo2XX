@@ -105,7 +105,7 @@ Pros:
 - Tradition of excellence
 
 Cons:
-- None� found
+- None found
 
 See Also:
 [Spray Paints for Plastic ed](https://pestpolicy.com/best-spray-paints-for-plastic/)
@@ -121,7 +121,7 @@ In addition to rim application, the Performix 11287 is suitable for a wide range
 Pros:
 - Extra-protective features
 - Easy to apply
-- Handles extreme temperatures and �shock well
+- Handles extreme temperatures and shock well
 
 Cons:
 - Excessive shine
@@ -140,7 +140,7 @@ The paint can offers you decent coverage as a single can covers a pair of calipe
 Pros:
 - All-round performance
 - Comes in different color variants
-- Dependable� quality
+- Dependable quality
 
 Cons:
 - Long waiting time for curing

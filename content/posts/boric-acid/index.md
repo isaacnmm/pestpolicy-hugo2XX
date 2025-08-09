@@ -31,7 +31,7 @@ BO
 - The white powder or colorless crystals of this Boric acid (first created by Wilhelm Homberg) will dissolve in water.
 
 ## Boric AcidOccurrence
-You'll mainly find Boric acid around volcanic areas like Nevada, Lipari Islands, and�Tuscany as
+You'll mainly find Boric acid around volcanic areas like Nevada, Lipari Islands, andTuscany as
 [sassolite](https://en.wikipedia.org/wiki/Sassolite)
 - which is a free state. It has antimicrobial and antifungal properties.
 
@@ -72,7 +72,7 @@ and cleanser.
 It can help remove
 odor and stains from your fabrics - by adding 1/2 cup of boric acid into the laundry. It'll also work great for cleaning windows, bathroom, floor, and sinks.
 You'll find
-Borax used in cleaning products like diaper creams, glass�cleaners, dish detergents, air fresheners, stain removers (laundry), and toilet bowl�cleaners plus
+Borax used in cleaning products like diaper creams, glasscleaners, dish detergents, air fresheners, stain removers (laundry), and toilet bowlcleaners plus
 ant killers
 .
 But is it safe for home cleaning? Yes, boric acid is safe,
@@ -80,7 +80,7 @@ effective, and powerful to use as a household cleaner and pesticide. It has a li
 For cleaning toilet bowls or
 [clogged drainages](https://pestpolicy.com/best-drain-cleaner//)
 , you'll need to simply pour the boric acid on the surfaces and let it work for roughly 1/2 an hour.
-### **3. Treats Yeast Infections�**
+### **3. Treats Yeast Infections**
 Boric acid is also an effective solution for treating yeast infections, especially yeast infections. Medics recommend it (as female suppositories) for the prevention of Candida fungi.
 The
 capsule (female BA capsules) is inserted into the female and it'll be effective for 6 - 12 months - apply for 7 days t 2 weeks depending on the infection intensity.
@@ -102,13 +102,13 @@ prevention
 of
 recurrent
 athlete's foot - just put some of the powder into the stockings or socks.
-Further, boric acid will prevent toenail fungus and stinky feet- just sprinkle some of this powder on the stockings and socks - just like you do with the�athletes foot.
+Further, boric acid will prevent toenail fungus and stinky feet- just sprinkle some of this powder on the stockings and socks - just like you do with theathletes foot.
 It's also excellent for foot fungus or
 tinea-pedis infections
 treatment - you can also use
-undecylenic�acid or boric acid as they'll hinder dermatophyte growth.
+undecylenicacid or boric acid as they'll hinder dermatophyte growth.
 Finally, boric acid offers a fast way to cure that toenail fungus. Simply sprinkle the boric acid or baking soda onto the shoes and socks - they reduce moisture on the nails.
-## Symptoms and Signs of� Boric acid Exposure
+## Symptoms and Signs of Boric acid Exposure
 Some of the prevalent signs of boric acid exposure include bright red skin rash, diarrhea, and blue-green vomit. Inhaling borax will cause dry throat, nose, and mouth.
 As noted above, boric acid will be toxic to your skin, and it's also corrosive to the human skin. You may experience nose bleeding, shortness of breath, sore throat, and coughing.
 For infants, they may experience a coma, confusion, convulsions, and abnormal postures in addition to nervous system effects. Thus, ensure a treatment in 2 hours.
@@ -116,7 +116,7 @@ Boric acid will be safe for pets and humans if moderately exposed - but excessiv
 [roach-killing items](https://pestpolicy.com/best-roach-killer-for-apartments/)
 causes acute poisoning.
 
-Will boric acid affect wildlife including fish and birds?�No, boric acid is largely non-toxic to most
+Will boric acid affect wildlife including fish and birds?No, boric acid is largely non-toxic to most
 [wildlife](http://npic.orst.edu/envir/wildlife.html)
 including fish and birds - but it may prove slightly toxic to bees and some fresh-water fish.
 ## Conclusion

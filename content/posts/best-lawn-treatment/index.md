@@ -56,7 +56,7 @@ Fertilization is the backbone of a vibrant lawn, providing the necessary nutrien
 Weeds are persistent competitors for your lawn's resources. A multi-pronged approach is most effective.
 
 * **Pre-Emergent Herbicides:** These are your first line of defense, creating a barrier in the soil that prevents weed seeds from germinating. They are crucial for controlling annual weeds like crabgrass.
-    * **Timing:** Apply in early spring *before* soil temperatures consistently reach 50-55�F (for cool-season) or before weeds emerge (for warm-season). A fall application can also target cool-season annual weeds.
+    * **Timing:** Apply in early spring *before* soil temperatures consistently reach 50-55F (for cool-season) or before weeds emerge (for warm-season). A fall application can also target cool-season annual weeds.
 * **Post-Emergent Herbicides:** These target existing, actively growing weeds.
     * **Selective Herbicides:** Designed to kill broadleaf weeds (e.g., dandelions, clover) without harming your grass.
     * **Non-Selective Herbicides:** Kill all vegetation they contact (e.g., glyphosate). Use these only for spot treatment of stubborn weeds or in areas where you want to clear all growth.
@@ -121,7 +121,7 @@ For those opting for professional lawn care, **TruGreen** consistently stands ou
 * **Science-Driven Programs:** TruGreen's treatment plans are developed by PhD-certified agronomists, ensuring they are rooted in advanced turf science and optimized for various grass types and local conditions across the country.
 * **Comprehensive Service Offerings:** They provide a range of annual programs (e.g., TruHealth, TruComplete) that cover essential treatments such as fertilization, targeted weed control (both pre- and post-emergent), and insect control. They also offer optional services like aeration, overseeding, and even natural/organic-based solutions (TruNatural).
 * **Customized for Your Yard:** Every TruGreen service begins with a "Healthy Lawn Analysis" where a specialist evaluates your lawn's unique challenges, soil conditions, and grass type to build a personalized treatment schedule.
-* **"Healthy Lawn Guarantee�":** TruGreen backs its services with a strong guarantee. If you're not satisfied with the results between scheduled visits, they promise to return and re-treat your lawn at no additional cost. This commitment underscores their confidence in their services.
+* **"Healthy Lawn Guarantee":** TruGreen backs its services with a strong guarantee. If you're not satisfied with the results between scheduled visits, they promise to return and re-treat your lawn at no additional cost. This commitment underscores their confidence in their services.
 * **Convenience and Support:** Their trained technicians perform all applications on a regular schedule, and you receive detailed service summaries and recommendations after each visit. TruGreen also provides strong customer support to address any questions or concerns.
 
 By entrusting your lawn to a professional service like TruGreen, you leverage expert knowledge, advanced products, and consistent care, ultimately leading to a greener, healthier, and more enjoyable outdoor space without the DIY effort.

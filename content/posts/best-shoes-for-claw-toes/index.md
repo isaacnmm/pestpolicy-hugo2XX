@@ -192,7 +192,7 @@ Cons:
 
 ## Buyers Guide for Best Shoes for Claw Toes
 ### Spacious Shoes with Roomy Toe Box
-Your claw toes will need ample space to prevent them from getting irritated and developing blisters.� Therefore, when choosing the best shoes for claw toes, its crucial that you pick wide shoes that have a spacious toe box. This feature will ensure you remain comfortable during your daily activities, as the toes wont rub against the upper.
+Your claw toes will need ample space to prevent them from getting irritated and developing blisters. Therefore, when choosing the best shoes for claw toes, its crucial that you pick wide shoes that have a spacious toe box. This feature will ensure you remain comfortable during your daily activities, as the toes wont rub against the upper.
 ### Excellent Cushioning
 Ensure you pick a shoe that has a contoured footbed and bouncy cushioning. These features will ensure ultimate comfort for the entire foot. Good cushioning protects feet during the heel strike and prevents injuries or any discomfort when your feet hit the ground. Good cushioning can eliminate annoying and persistent foot pains.
 ### Orthotics

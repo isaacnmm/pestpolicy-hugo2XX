@@ -40,7 +40,7 @@ At their core, Gutter Helmet and LeafFilter represent the two dominant philosoph
 | Feature                 | Gutter Helmet                               | LeafFilter                                      |
 | :---------------------- | :------------------------------------------ | :---------------------------------------------- |
 | **Technology** | Surface Tension / Reverse Curve             | Micro-Mesh Filtration                           |
-| **Core Material** | Heavy-gauge Aluminum                        | Stainless Steel Mesh (275�) on uPVC Frame       |
+| **Core Material** | Heavy-gauge Aluminum                        | Stainless Steel Mesh (275) on uPVC Frame       |
 | **Installed Over** | Existing gutters                            | Existing gutters                                |
 | **Debris Blocked** | Large leaves, twigs, larger debris          | All debris (leaves, pine needles, shingle grit, pollen, seeds) |
 | **Water Flow** | Excellent for high volumes; can overshoot in extreme rain on steep roofs | Excellent for high volumes; minimal overshooting |

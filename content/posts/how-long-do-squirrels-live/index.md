@@ -21,11 +21,11 @@ Well, I was in the same situation as you a few years back when I had squirrels a
 Related:
 Squirrels Poison
 ## **How Long Do Squirrels Live?**
-The life span of a [squirrel](https://pestpolicy.com/do-squirrels-attack-humans/) is dependent on its species and the predisposing factors.�For instance, squirrels in captivity live longer than those that live in the wild. The life span of the squirrels in the wild is shorter than those that live in captivity.
+The life span of a [squirrel](https://pestpolicy.com/do-squirrels-attack-humans/) is dependent on its species and the predisposing factors.For instance, squirrels in captivity live longer than those that live in the wild. The life span of the squirrels in the wild is shorter than those that live in captivity.
 - Squirrels have predators like hawks, dogs among other carnivores in the wild. They barely survive even two years of their life. In case this happens, most of these squirrels can live between 6-12 years on average.
 - Squirrels can be categorized into 3 species which include flying squirrels, ground and tree squirrels.
 ### **1. Ground squirrels **
-Ground squirrels'�life span varies from 2-4 years. Female squirrels live longer with a life span of 4 years while male squirrels live up to 2 years. This is according to the research carried out on California ground squirrels.
+Ground squirrels'life span varies from 2-4 years. Female squirrels live longer with a life span of 4 years while male squirrels live up to 2 years. This is according to the research carried out on California ground squirrels.
 ### **2. American red squirrel **
 The average life span of an American red squirrel is 5 years. Though this is not the case with most squirrels and 25% will live beyond one year.
 - Unlike ground squirrels, male red squirrels live longer than female ones.
@@ -49,7 +49,7 @@ Control Raccoons Easily
 This is a common squirrel in the Midwest. They have a lifespan of 12-24 years. The oldest recorded grey squirrel was 20 years.
 ## **Factors That Affect the Life Span of Squirrels **
 If you are keeping a squirrel as a pet, there are different factors that can lower or raise the life span of any squirrel. Below is an outline.
-### **�1. Pest and diseases **
+### **1. Pest and diseases **
 Squirrels like any other animals are prone to pests and diseases which if not treated, can lead to death.
 - Squirrels are very much prone to viral diseases and the most common viral disease is squirrel pox. It is transmitted by insect bites which later turn into a tumor in some squirrels. In others, this virus can lead to skin ulcers, lesions, and scabs.
 - There are some other squirrels like the European red squirrel who are so vulnerable that they can even die from the infection. However, there are also those squirrels like the grey squirrel that are resistant to the virus.

@@ -17,13 +17,13 @@ layout: post
 
 A high arch (pes cavus) is the opposite of a
 flat foot
-. However, high arches tend to cause more pain than flat feet. Therefore, trainers with high arches will need neutral cushioned shoes or shoes that have an additional bump within the midfoot unit.� Such shoes promote flexibility and encourage natural pronation.
+. However, high arches tend to cause more pain than flat feet. Therefore, trainers with high arches will need neutral cushioned shoes or shoes that have an additional bump within the midfoot unit. Such shoes promote flexibility and encourage natural pronation.
 
-Hence, Ive compiled some of the Best Cross Training Shoes for High Arches. Check out the list and choose your favorite pair.�Related:
+Hence, Ive compiled some of the Best Cross Training Shoes for High Arches. Check out the list and choose your favorite pair.Related:
 [Best Cross Training Shoes for Bad Knees](https://pestpolicy.com/best-cross-training-shoes-for-bad-knees/)
 ## Review: Best Cross Training Shoes for High Arches
 ### [1. Reebok Men's Crossfit Nano 8.0 Flexweave Sneaker](https://www.amazon.com/dp/B07Q3L258K/?tag=p-policy-20)
-If you want versatile and reliable Cross Training Shoes for High Arches then� Reebok Crossfit Nano 8.0 Flexweave got you covered. These shoes accommodate various cross-training activities like HIT,
+If you want versatile and reliable Cross Training Shoes for High Arches then Reebok Crossfit Nano 8.0 Flexweave got you covered. These shoes accommodate various cross-training activities like HIT,
 plyometrics
 , jump box, aerobics, and many other exercises.
 

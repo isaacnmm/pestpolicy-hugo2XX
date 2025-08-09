@@ -171,6 +171,6 @@ It's always crucial for you to adequately research the availability of spares in
 Now that you have read the buyer's guide and know what to look for when it comes to shopping for trimmers, keep in mind that all products are right. However, others are better and have a lower price tag.
 Therefore, researching could get you a performer at a lower price compared to purchasing a recognizable brand. Look out for a trimmer that will suit your needs without making you go beyond your budget.
 ## Sources:
-1. [Cordless hedge trimmer�for seed collection](http://npj.uwpress.org/content/6/2/132.short)
+1. [Cordless hedge trimmerfor seed collection](http://npj.uwpress.org/content/6/2/132.short)
 2. [Mechanical Shearing Device for Potted Rosemary Christmas Tree Topiaries](https://journals.ashs.org/horttech/abstract/journals/horttech/14/1/article-p95.xml)
-3. [The Design of the New Electric�Hedge Trimmer](http://en.cnki.com.cn/Article_en/CJFDTotal-XNGX201502025.htm)
+3. [The Design of the New ElectricHedge Trimmer](http://en.cnki.com.cn/Article_en/CJFDTotal-XNGX201502025.htm)

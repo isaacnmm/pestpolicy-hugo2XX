@@ -23,7 +23,7 @@ For the 3D games, I used Splatoon 2 for your Nintendo 64; if you use your Raspbe
 [Retropie](https://retropie.org.uk/)
 .
 ## Reviews: 7 Best [Controller](https://pestpolicy.com/best-controller-for-steam-link/) for Retropie 2025
-### [1. PS4 DualShock 4 Controller - �- For 2D & 3D Games - #1 Pick](https://www.amazon.com/dp/B01LWVX2RG/?tag=p-policy-20)
+### [1. PS4 DualShock 4 Controller - - For 2D & 3D Games - #1 Pick](https://www.amazon.com/dp/B01LWVX2RG/?tag=p-policy-20)
 DualShock 4 has a double analogs button layout with a softer texture that will fit perfectly in your hands. It has new analogs with indents at the player's thumb top that allow it to sit raised.
 With an amazing touchpad, you'll easily swipe zoom flick. Further, the controller has a speaker that you can integrate your gaming with a headphone jack that is below the r2 and l2 buttons.
 Further, the controller has an additional share button that would enable you to share with friends.
@@ -142,7 +142,7 @@ or
 Best sd card for Raspberry Pi 3
 through HDMI on Television.
 Retro Pie enables you to change your PC or Raspberry Pi into a retro-gaming device and thus enhance more accessible gaming in classic Computer games, Arcade games, and console games.
-I chose to test the controllers with Darkstalkers since it needs fast response time in the directional pad and buttons. Also, The Last Blade is unique as it will utilize all the six gamepad buttons and need d-pad dexterity.�You don't want to get a non-specific retro pie gaming controller with or button actuation and design quality.
+I chose to test the controllers with Darkstalkers since it needs fast response time in the directional pad and buttons. Also, The Last Blade is unique as it will utilize all the six gamepad buttons and need d-pad dexterity.You don't want to get a non-specific retro pie gaming controller with or button actuation and design quality.
 What about
 Retrolink Nintendo 64? -
 For playing the Nintendo 64 games, I love the RetroLink controller as it excellently replicates the Nintendo 64 controller.

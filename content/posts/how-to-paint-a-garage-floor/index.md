@@ -14,7 +14,7 @@ tags:
 layout: post
 ---
 Special epoxy (
-two-part�epoxy
+two-partepoxy
 ) is the best for garage floors - but give it a thin and well-mixed application. The
 garage floor paint
 will allow a great home upgrade - eases cleaning and removes any gunk.
@@ -26,10 +26,10 @@ Many garages are abused and neglected - some with excessive dirt, and oil spills
 > See Also:
 > Fixing peeling paint on drywall
 ## Details: How to Paint a Garage Floor: Epoxy or Latex?
-So, let's check you and other homeowners�can improve/ upgrade the function and look of your garage. But don't
+So, let's check you and other homeownerscan improve/ upgrade the function and look of your garage. But don't
 [remove old paint](https://pestpolicy.com/how-to-remove-paint-from-concrete-without-chemicals/)
 since it'll be easier than working on bare cement - but sand lightly.
-Note that your epoxy floor paint will be extra-tough that won't be damaged easily by gasoline, oil,� or chemicals. Here are the
+Note that your epoxy floor paint will be extra-tough that won't be damaged easily by gasoline, oil, or chemicals. Here are the
 *materials and tools*
 you'll require for the garage painting job.
 https://www.youtube.com/watch?v=dLzQNFCRMRI
@@ -79,13 +79,13 @@ Using the scraper, keenly scrape off the hard dirt and then apply your degreaser
 Clean out the excess water (don't over-wetting the surface) and allow the concrete to dry.
 > See Also:
 > Quality Walk-Behind Concrete Grinder
-### Step #3 - Cover the�Concrete�Cracks
+### Step #3 - Cover theConcreteCracks
 After inspecting the concrete floor, you'll need to fill up the clear floor cracks. The concrete cracks may cause cracks on the floor finish - so you'll need to repair the flaws.
 
 You can use a repair compound for the small cracks on the concrete floor - this helps fill up the patches. But get the concrete patch to repair deeper and wider cracks - leave layers to dry for some time.
 
 I recommend you get some wet rag that'll help you remove the excess concrete patch and thus leave you with a much smoother floor. Allow the surface to dry.
-### Step #4 - Time for�Etch Concrete
+### Step #4 - Time forEtch Concrete
 It is now time to etch treat the concrete floor (
 maybe muriatic acid
 ) that'll open the pores a and hence it'll get a rough feel and look - like sandpaper. So, it'll be easier for the paint to adhere to the surface.
@@ -93,7 +93,7 @@ Che
 ck and adhere to the label instructions. Otherwise, you can use a sander to get the same surface aspect. But ensure to finally clean the
 [dust](https://serc.carleton.edu/NAGTWorkshops/health/case_studies/airborne_dust_p.html)
 and sand from the concrete.
-### Step #4 -�Prime the Surface and Paint the Concrete
+### Step #4 -Prime the Surface and Paint the Concrete
 Finally, coming to the last step s - it is now time to apply a suitable primer - but ensure the surface is dry enough. A roller helps spread the prime over the floor edges - for better bonding and adhesion.
 Next, its painting time - spread the 1st concrete floor paint but ensure it is keenly mixed for better adhesion onto the garage floor concrete.
 I would recommend you get some nylon brush for 1st paint coat application. Gently apply the first coat and leave it to dry (air-drying) for about 24 hours.
@@ -102,9 +102,9 @@ roller
 this time around. Also, ensure to clean the tools using water plus detergent.
 Also, leave the fans running for faster drying and also remove any fumes sticking around in the room. Allow the paint to dry for roughly 24 to 48 hours to avoid paint smudging.
 https://www.youtube.com/watch?v=Q-bcclfTUA8
-## **Should I Paint My Garage Floor?�**
+## **Should I Paint My Garage Floor?**
 So, if you're asking yourself if you should paint the garage floor, maybe you should (in the first place) protected the floor. So, the painting will protect objects and keep the garage clean.
-### **1. Easy and Inexpensive�**
+### **1. Easy and Inexpensive**
 Painting the garage floor will also improve the concrete appearance that had been worn out due to dirt, dust,
 rustiness
 , and oil leaks. Further, cleaning the floors will be much easier.
@@ -112,7 +112,7 @@ Other floors options include mats, carpets, sealers, and interlocking tiles. Bar
 But painting the floors will be easy and inexpensive as you can simply use the leftover floor paint or grease. Also, you won't require specialized skills like
 interior painting
 .
-### 2. Low**Maintenance�**
+### 2. Low**Maintenance**
 Painted garages will be low-maintenance and hence your garage will be neat at a low price. You'll require just clean water and a brush or dust mop to clean all the gathered dust.
 Besides, you can recoat and retouch the floors when it flakes, peels, or wears out with time. You may simply use your spatula over the work-out space and finally mop the floor - and recoat.
 ### 3. Color Variety
@@ -125,4 +125,4 @@ prevents mildew growth
 > See Also:
 > Paint for a Concrete Driveway
 ## Conclusion
-On�how to paint a garage floor, is it epoxy or latex? The summarised process will be washing the floor, sand (uneven areas and old paint) plus vacuum the garage, fill hole and cracks, prime, and paint.
+Onhow to paint a garage floor, is it epoxy or latex? The summarised process will be washing the floor, sand (uneven areas and old paint) plus vacuum the garage, fill hole and cracks, prime, and paint.

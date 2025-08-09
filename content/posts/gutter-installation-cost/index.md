@@ -94,7 +94,7 @@ The lifespan of your gutters heavily depends on the **material**, quality of ins
 
 ---
 
-## Signs That It�s Time To Replace Your Gutters
+## Signs That Its Time To Replace Your Gutters
 
 Ignoring gutter problems can lead to significant water damage to your home. Look for these signs that indicate it's time for replacement:
 

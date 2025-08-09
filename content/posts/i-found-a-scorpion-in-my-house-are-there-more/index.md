@@ -15,8 +15,8 @@ tags:
 layout: post
 ---
 Scorpions are a pest that will come out regularly in the desert areas of the United States (especially the southwestern regions).
-**So, we just today found such a scorpion in our neighbor's [house](https://pestpolicy.com/house-lizard-lifespan/). So I'm wondering if there could be more around.�**
-**My answer is that this will depend on the location and region that you found this scorpion  - which means where you live.�**
+**So, we just today found such a scorpion in our neighbor's [house](https://pestpolicy.com/house-lizard-lifespan/). So I'm wondering if there could be more around.**
+**My answer is that this will depend on the location and region that you found this scorpion  - which means where you live.**
 Related:
 Pest Control Services Near Me
 ## Details: I Found One Scorpion In My House? Could There Be More?

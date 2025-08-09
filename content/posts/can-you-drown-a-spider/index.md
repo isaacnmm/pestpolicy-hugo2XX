@@ -17,12 +17,12 @@ layout: post
 Probably there are thousand ways you can kill you can kill a [spider](https://pestpolicy.com/do-spiders-have-antennae/) in your yard or house.
 
 But definitely, most of us know crushing it with a blunt object - the Hulk smash" technique. But,
-**can you drown a spider?�**
-**The simple answer is, No, you cannot drown a spider - as stated by Real Science - but they'll die if submerged in sewer. Spiders have a very low oxygen intake due to their low metabolic rate and thus drowning may take 1-3 hours.�**
-**But water spider or diving-bell spider can live fully under water. Spider breathe through book lungs or web gills and remain under water for over 24 hours.�**
+**can you drown a spider?**
+**The simple answer is, No, you cannot drown a spider - as stated by Real Science - but they'll die if submerged in sewer. Spiders have a very low oxygen intake due to their low metabolic rate and thus drowning may take 1-3 hours.**
+**But water spider or diving-bell spider can live fully under water. Spider breathe through book lungs or web gills and remain under water for over 24 hours.**
 ## Details: Can You Drown a Spider? Flush Water Death?
 Just like human beings, spiders also drink water and this is why you might find them around water sources such as shower or bath stalls. Also, can the spider drawn in the ocean if its swept by any random sunbather.
-Spiders spending time around the shower or bath stalls may end up being flashed down the drain when you're bathing.�So, if you're wondering if spiders can actually drown when you flash them them down the drain - relax we get into the details. Can they crawl or climb back fighting for its life.
+Spiders spending time around the shower or bath stalls may end up being flashed down the drain when you're bathing.So, if you're wondering if spiders can actually drown when you flash them them down the drain - relax we get into the details. Can they crawl or climb back fighting for its life.
 [caption id="" align="aligncenter" width="474"]
 
 Images Source:
@@ -33,7 +33,7 @@ The truth is: According to the
 , any spider that's flushed will only drown within 1-3 hours since they have low oxygen intake dude to their low metabolic rate.
 Some spider species sick as
 [diving bell spider](https://en.wikipedia.org/wiki/Diving_bell_spider)
-won't drown easily anyway because �they'll create underwater webs which allow gaseous exchange.�The webs enable the spider to rise above the water surface once daily -� prevents it from being
+won't drown easily anyway because they'll create underwater webs which allow gaseous exchange.The webs enable the spider to rise above the water surface once daily - prevents it from being
 washed away the drain
 .
 Therefore, when trying to kill the spiders you should know that
@@ -105,11 +105,11 @@ but it'll also be effective against spiders.
 - In addition, you can sprinkle the powder along the doors, or between the storm windows and window.
 ## Conclusion
 So, we've tackled the question - "can you drown a spider?" The response is that its impossible to easily drown spiders since they have low oxygen intake and equally low metabolic rate. This means that some spiders may even survive under water for 1-3 hours.
-Equally surprising is that some spiders like water spider or diving-bell spider will use their book lungs or web gills for respiration�when they're under water. Therefore, these spider will�survive for longer (over 24 hours) without coming to the water surface.
+Equally surprising is that some spiders like water spider or diving-bell spider will use their book lungs or web gills for respirationwhen they're under water. Therefore, these spider willsurvive for longer (over 24 hours) without coming to the water surface.
 I've outlined alternative methods you can use to repel spiders from your house - as opposed to killing them since these arachnids assist in maintaining a
 [balanced ecological environment](https://www.researchgate.net/profile/Rajeswaran_Jagadeesan/publication/265541377_Role_of_spiders_in_agriculture_and_horticulture_ecosystem/links/5a093bc10f7e9b68229ce8f6/Role-of-spiders-in-agriculture-and-horticulture-ecosystem.pdf)
 . Some of the methods include using tobacco, borax, and cedar oil.
 ## Sources:
-1. [Rearing environment affects behaviour of jumping�spiders](https://www.sciencedirect.com/science/article/pii/S0003347299912824)
-2. [You can save that�spider!](https://search.informit.com.au/documentSummary;dn=418204111735627;res=IELHSS)
-3. [Brown recluse�spiders](https://books.google.com/books?hl=en&lr=&id=OCypCwAAQBAJ&oi=fnd&pg=PA412&dq=Drown+a+Spider&ots=kd5m99dhqM&sig=2ROtbsX_vuflVmjH85zaFbgitb4)
+1. [Rearing environment affects behaviour of jumpingspiders](https://www.sciencedirect.com/science/article/pii/S0003347299912824)
+2. [You can save thatspider!](https://search.informit.com.au/documentSummary;dn=418204111735627;res=IELHSS)
+3. [Brown reclusespiders](https://books.google.com/books?hl=en&lr=&id=OCypCwAAQBAJ&oi=fnd&pg=PA412&dq=Drown+a+Spider&ots=kd5m99dhqM&sig=2ROtbsX_vuflVmjH85zaFbgitb4)

@@ -17,7 +17,7 @@ Are you looking for the Best Running Shoes for
 [IT Band Syndrome](https://www.cedars-sinai.org/health-library/diseases-and-conditions/i/iliotibial-band-syndrome.html)
 ? Youre right on time! ITBS (IT Band Syndrome) is one of the primary causes of knee pain among many runners. The ITBS is so painful and can make a runner abandon their training schedule.
 
-However, investing in the correct Iliotibial (IT) Band Syndrome�shoes and
+However, investing in the correct Iliotibial (IT) Band Syndromeshoes and
 [doing the right exercise](https://uhs.princeton.edu/sites/uhs/files/documents/Illiotibial-Band-Syndrome.pdf)
 will provide support for your knee problem allowing you to continue with your usual activities.
 
@@ -226,7 +226,7 @@ The major cause of knee pain is wearing shoes that lack stability and a proper s
 
 Therefore, its crucial that you pick shoes that will provide you the extra support and stability. Choose Shoes that will encourage a smooth heel to toe transition. This way, youll avoid straining your knees, hence achieve a proper running form
 ### Reliable traction
-When picking the best running shoes for IT Band Syndrome it's crucial you choose those with an outsole that will provide reliable traction and grip. �Such traction and grip will protect you from falls or slips
+When picking the best running shoes for IT Band Syndrome it's crucial you choose those with an outsole that will provide reliable traction and grip. Such traction and grip will protect you from falls or slips
 
 Chose an outsole that would provide additional cushioning to your underfoot. The outsole should also provide good ground contact to enhance performance and responsiveness.
 ## Conclusion

@@ -91,7 +91,7 @@ A package is designed with 6 pieces that come with and you can use multiple colo
 This is particularly good for those who love hunting because you can blend your gun with the jungle to make yourself invisible.
 You can use this paint on multiple surfaces including wood, plastics, and metals among others.
 However, its adhesion on plastics is questionable which a key point to note before use is.
-Upon application, it takes about 30 minutes for the paint to dry and approximately one hour for the surface to be ready to touch.� You can get the paint in a pack of 6 different colors.
+Upon application, it takes about 30 minutes for the paint to dry and approximately one hour for the surface to be ready to touch. You can get the paint in a pack of 6 different colors.
 Pros:
 - It is oil-based
 - Good for hiding

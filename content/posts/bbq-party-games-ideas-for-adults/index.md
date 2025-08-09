@@ -43,17 +43,17 @@ The game is simple to play. You can group up in teams of four. Put on the Velcro
 
 The Four Legged Team Races is a fun game that children, teenagers, and
 [adults can play](https://pestpolicy.com/best-pc-games-for-couples/)
-. The game encourages teamwork and cooperation. These races are excellent outdoor�party games ideas for adults that you can incorporate in your BBQ party.
+. The game encourages teamwork and cooperation. These races are excellent outdoorparty games ideas for adults that you can incorporate in your BBQ party.
 ### [4. Cornhole](https://www.amazon.com/dp/B00HFAH9WU/?tag=p-policy-20)
 Another excellent BBQ party game idea for adults worth considering is the Cornhole game. This game will ensure your BBQ party is on another level. Most people prefer this classic game during outdoor parties.
 
 Depending on where you live, the cornhole might have a different name but the rules of engagement remain.
-- The game provides a simple and fun way to spend the BBQ party with friends and family. To play the game, you will need participants, an open space, and a Cornhole Set**�**
+- The game provides a simple and fun way to spend the BBQ party with friends and family. To play the game, you will need participants, an open space, and a Cornhole Set****
 - Youll need to group people in to teams so that they compete against each other.
 **So How Do You Play Cornhole ?**
-Cornhole is a fun BBQ party game that involves 2 or 4 people competing.� During the cornhole game, the players stand on the same side and throw the beanbags or sandbags towards the other side.
+Cornhole is a fun BBQ party game that involves 2 or 4 people competing. During the cornhole game, the players stand on the same side and throw the beanbags or sandbags towards the other side.
 
-The aim of throwing the bags is to attempt to get them through the holes on the cornhole boards.�Here a video on how to play the cornhole.
+The aim of throwing the bags is to attempt to get them through the holes on the cornhole boards.Here a video on how to play the cornhole.
 ### [5. Ladder Toss](https://www.amazon.com/dp/B07PDLXN3L/?tag=p-policy-20)
 The Ladder Toss is a perfect indoor or outdoor game thats a perfect idea for the BBQ party. This BBQ party game for adults provides an opportunity for professionals and beginners to enjoy the game.
 
@@ -75,7 +75,7 @@ Here a video on how to play washer Toss
 ### [7. Hilarious Bigfoot Game](https://www.amazon.com/dp/B00PYLU3GG/?tag=p-policy-20)
 Another BBQ party game idea for adults worth trying is the Hilarious Bigfoot Game. Just as the name of the game suggests, its funny and entertaining hence, would leave your guests thrilled for hours.
 
-These hilarious outdoor�party games provide the perfect opportunity to bond and make close connections among the players.
+These hilarious outdoorparty games provide the perfect opportunity to bond and make close connections among the players.
 
 Its a simple game to make and play. Thus, your family and friends get to interact more during the process. Youll need
 - Plastic balls get them at Amazon using this link
@@ -111,7 +111,7 @@ To make things less messy, you can boil the eggs and eat them after the game.
 
 The egg and spoon provides a perfect opportunity to unite participants during the BBQ party or a family reunion.
 
-I remember that we once did the egg and spoon race during our family reunion and it was a fun and exciting experience.� The good thing is that all ages participated and it was a great way for members who were not familiar with each other to bond quickly and have fun at the same time.
+I remember that we once did the egg and spoon race during our family reunion and it was a fun and exciting experience. The good thing is that all ages participated and it was a great way for members who were not familiar with each other to bond quickly and have fun at the same time.
 ### [**10. Limbo**](https://www.amazon.com/dp/B07WRL1NTY/?tag=p-policy-20)
 The limbo remains one of the most popular and favorite games played by adults during outdoor parties like in BBQs or other events.
 

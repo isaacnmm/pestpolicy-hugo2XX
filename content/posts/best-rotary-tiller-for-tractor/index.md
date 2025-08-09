@@ -40,7 +40,7 @@ Cons:
 King Kutter Gear-Driven Rotary Tiller comes with a rugged exterior making it ideal for tackling new tilling grounds. The tiller has a set of durable tines, which makes it easy for you to till a virgin ground.
 
 
-It does not require a massive tractor as 25-40 horsepower is enough to work with the tiller.�The tiller's robust cast iron gearbox and square tube frame give it power and speed, making tilling a large piece of land child's play. It has L-shaped flanges that help in mixing the soil for aeration.
+It does not require a massive tractor as 25-40 horsepower is enough to work with the tiller.The tiller's robust cast iron gearbox and square tube frame give it power and speed, making tilling a large piece of land child's play. It has L-shaped flanges that help in mixing the soil for aeration.
 Its 60-inch cutting width increases the tilling surface, which in turn reduces the tilling time. With a heavy-duty slip-clutch, tilling in a straight line gets very comfortable. The tiller's 8 inches cutting depth ensures this tilling beast will tackle any soil comfortably.
 It is best suited for areas that need maximum soil mix. Therefore, it's ideal for
 preparing raised seedbeds
@@ -94,7 +94,7 @@ Cons:
 King Kutter Gear-Driven Rotary Tiller weighs 780 pounds. This large tiller is heavy, making it ideal for tilling the hard soil. Heavy tillers push the field better and don't buckle easily when farming on hard land.
 
 
-Most of the parts are made of durable, sturdy metal, making the tiller durable.�The tiller works well with tractors with horsepower ranging from 35 to 50 HP. As a result, tilling with this tiller is effortless as it offers more shaft revolutions per minute, increasing its efficiency.
+Most of the parts are made of durable, sturdy metal, making the tiller durable.The tiller works well with tractors with horsepower ranging from 35 to 50 HP. As a result, tilling with this tiller is effortless as it offers more shaft revolutions per minute, increasing its efficiency.
 The tiller has a large 72-inch Tilling width. A large digging width reduces the tilling time as it covers a large area in a single pass. Its 4 feet offset ensures tire tracks get cleared at the end of the tilling process. Depth 8 inches maximum.
 The tiller offers you a variety of digging heights with its 3 point digging-height adjustment mechanism. It comes with robust six flanges with have L shaped tines for better soil rotation and aeration.
 The tiller is best suited for tilling flower gardens and small farms.
@@ -112,7 +112,7 @@ Victory Rotary Tiller is a mean-looking heavy-duty tiller weighing 725 pounds. W
 
 
 A tractor with horsepower ranging from 40 to 60 HP will power this tiller effortlessly. The tillers tines rotate in the direction of the wheels. The Forward rotation tines are efficient when it comes to turning the soil for proper nutrients distribution.
-Turning the grounds ensures that the earth is adequately aerated, making it fertile too.�The rugged tiller has an 80 inch tilling Width. Therefore, the tiller takes a short time to till an acre of land. Its 10 Flanges with a total of 60 blades make cultivating a large farm easy as it covers a vast area in a single pass.
+Turning the grounds ensures that the earth is adequately aerated, making it fertile too.The rugged tiller has an 80 inch tilling Width. Therefore, the tiller takes a short time to till an acre of land. Its 10 Flanges with a total of 60 blades make cultivating a large farm easy as it covers a vast area in a single pass.
 The L shaped blades are perfect for turning the soil. The tiller has a 4 point height adjustment mechanism with the maximum depth being 7 inches. The tiller can till on any ground comfortably as it has sharp blades. It would be a dream tiller for a landscape contractor due to its efficiency and performance.
 Pros:
 - Laser balanced tractor tiller
@@ -138,7 +138,7 @@ Pros:
 Cons:
 - Heavy
 
-## **Considerations for Best Rotary Tiller for Tractor buying guide�**
+## **Considerations for Best Rotary Tiller for Tractor buying guide**
 
 **1. Tilling Width**
 If you have a large piece of land, consider a tiller with a large width. The width should be more extensive than the maximum width of the tractors rear wheels. View the
@@ -147,7 +147,7 @@ Front Tine vs. Rear Tine Tillers
 It will make it easy for you as you will make fewer passes when tilling as compared to a tiller with a small width. In most cases, tillers with large tilling diameter are pricey. But they guarantee you a short turnaround time when it comes to mowing large unwelcoming pieces of land.
 **2. Power and weight of the tiller **
 Tillers are made of various metals, which in turn weigh differently. You need to consider the type of soil you will be working on. A heavy tiller is ideal for a rocky and hard ground for ease in penetration as it's powerful.
-You need a lighter tiller when it comes to loam soil as a heavy one will compact the soil giving you a wrong end product.�When it comes to tilling depth, areas with soft soil don't need digging deeper compared to clay and rocky ground.
+You need a lighter tiller when it comes to loam soil as a heavy one will compact the soil giving you a wrong end product.When it comes to tilling depth, areas with soft soil don't need digging deeper compared to clay and rocky ground.
 If you rotate your crops, you may not need to dig deeper as compared to those who farm the same produce all year round.
 **3. Tiller rotation and number of tines **
 Choosing a tine tiller is dependent on the type of soil you will be tilling. Tillers with a large tilling width take less time to till a large yard as they have many tines. The many tines make the tiller heavier making them ideal for harder and compact grounds. Most tillers come with the following tines:

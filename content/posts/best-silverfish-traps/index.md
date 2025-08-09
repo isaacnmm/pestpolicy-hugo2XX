@@ -66,7 +66,7 @@ is a popular glue-based trap that can be used for various pests, including silve
 - **Pros**: Effective for multiple pests, versatile placement.
 - **Cons**: Adhesive may dry out over time, requiring frequent replacement.
 ### [2.**Dekko Silverfish Paks**](https://www.amazon.com/dp/B002Y2OW6A/?tag=p-policy-20)
-The�Dekko Silverfish Paks�are chemical-based traps that attract and kill silverfish using a slow-release poison.
+TheDekko Silverfish Paksare chemical-based traps that attract and kill silverfish using a slow-release poison.
 
 They are designed to be placed in areas where silverfish are often seen, such as attics, basements, or behind furniture. These traps are highly effective but require caution if pets or children are around.
 **Unique Features**

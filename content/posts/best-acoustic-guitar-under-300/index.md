@@ -27,7 +27,7 @@ The FG has made it easier for many musicians (especially those on a budget) to i
 What I love most about this amazing instrument is that its built using state of the art acoustic analysis technology to give you a much louder and powerful sound. The 800 series has received a massive improvement to offer better projection.
 Youll appreciate the standard neck of this Yamaha FG800 as its comfortable and smooth. The instrument features a solid Sitka spruce at the top, while its back and sides are made using Nato/Okume (eastern mahogany).
 The new scalloped bracing body makes this guitar stand. Its headstock is made using sealed die-cast chrome which does an excellent job when playing the guitar.
-These guitars are ideal for beginners, intermediate-level guitarists, or even advanced players.�Related:
+These guitars are ideal for beginners, intermediate-level guitarists, or even advanced players.Related:
 Mics for Recording Acoustic Guitar
 https://www.youtube.com/watch?v=E3cqM9Z0HZQ
 ### [2. Breedlove Discovery Concert - #2 Pick](https://www.amazon.com/dp/B00HWIC3JY/?tag=p-policy-20)

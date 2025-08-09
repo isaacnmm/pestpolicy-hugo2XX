@@ -159,6 +159,6 @@ Cons:
 Read Also:
 SD Card for Raspberry Pi 3
 ## **Conclusion**
-As an artist, you want to express your imagination in the best way possible - get the�best laptops for drawing.�This will only be achieved if you invest in a powerful laptop.
+As an artist, you want to express your imagination in the best way possible - get thebest laptops for drawing.This will only be achieved if you invest in a powerful laptop.
 When searching for a laptop for drawing consider a device that can handle heavy graphics and give you at least 1920 x 1080 resolution.
 A good laptop should also have sensitive and accurate touchscreen functionality. The above devices come with all the functions you need for drawing.

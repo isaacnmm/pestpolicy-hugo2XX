@@ -18,7 +18,7 @@ Better preparation of your surface for paintwork is as vital as the paintwork it
 Consequently, the quality of the products and user safety should be a priority and proper knowledge of your paints' importance.
 Below are the [best](https://pestpolicy.com/best-acrylic-paint-for-pouring/) paint removers to give you a clean surface ready for a recoat or painting and equally help you make an informed decision. See Also:
 Exterior wood Paint
-to prevent chip, fade, and�rot.
+to prevent chip, fade, androt.
 ## 7 Best Chemical Paint Remover for Wood
 ### [1. Sunnyside Corporation, 65664-Paint & Varnish Remover](https://www.amazon.com/dp/B000TUHPAY/?tag=p-policy-20)
 One of the most unique and environmentally friendly paint removers is here. It is designed with user safety in mind and has zero toxins and no methylene chloride or NMP.
@@ -26,7 +26,7 @@ W
 ith this remover, you only need 30 minutes to have your paint removed from the surface, making it among the fast and reliable paint removers available.
 
 A single coat of Sunnyside-65664 removes up to 3 layers of coatings at-a-time. It removes water-based, oil-based paint coatings and others, stains, varnishes, urethanes, among others.
-Ultimately you can have a surface easy to clean with soap and water.�In case of an indoor activity, Sunnyside-65664 is odorless and fumeless and guarantees you comfort to carry out the paint removal job.
+Ultimately you can have a surface easy to clean with soap and water.In case of an indoor activity, Sunnyside-65664 is odorless and fumeless and guarantees you comfort to carry out the paint removal job.
 It has become one of the most sorts after remover for its reliability and efficiency to remove paint without causing damage to the surface below.
 Its multipurpose ability to remove paint and stains also extends to
 concrete decks

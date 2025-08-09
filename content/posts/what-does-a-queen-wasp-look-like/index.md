@@ -18,9 +18,9 @@ The
 [Queen Wasp](https://www.ncbi.nlm.nih.gov/pubmed/24219699)
 is a female wasp that has acquired full maturity, are mandated to lays eggs, and raise a new generation of wasps.
 
-The queen wasp is specially fed and treated by worker wasps while resting.� It is not assigned any other duties.
+The queen wasp is specially fed and treated by worker wasps while resting. It is not assigned any other duties.
 **How do you Identify a Queen Wasp? The simple answer to this is that, Queen Wasp is naturally larger than all other female workers and drones (males). **
-**This is due to special care given to the queen wasp by the workers. In addition, the Queen Wasp can either be red, brown, metallic blue, yellow or combined stripes of these colors.�**
+**This is due to special care given to the queen wasp by the workers. In addition, the Queen Wasp can either be red, brown, metallic blue, yellow or combined stripes of these colors.**
 Related:
 Can Wasps Sting More Than Once?
 ## Details: How to Identify a Queen Wasp
@@ -32,13 +32,13 @@ To identify the Queen wasp, you can look for the following features, sign or tra
 **1. Shape and size**
 Normally, Queen Wasp is larger than any female wasp (worker) or drone (male) in any given wasp nest. The large size is due to special meals fed to the Queen Wasp, which also makes it acquire hormones that boosts its growth.
 
-The shape of the queen wasp is round and elongated. Its chest protrudes slightly as compared to other wasps.�The triangular-shaped head of Queen Wasp and a distinctive waist having a sharp pointed stinger gives it a clear identification.
+The shape of the queen wasp is round and elongated. Its chest protrudes slightly as compared to other wasps.The triangular-shaped head of Queen Wasp and a distinctive waist having a sharp pointed stinger gives it a clear identification.
 *NB: It is only female wasps (even the queen) that have stingers, which they use for self-defense.*
 **2. Color**
 The Queen Wasp may be yellow, brown, metallic blue or red. Some species of wasp has a queen which has black and white stripped abdomen  these colors are brighter than that of other wasps within the nest.
 **3. Winter Appearance**
 Most of the worker wasps and drones die before winter due to fall in temperature. The Queen Wasp migrates and hibernates in a new place waiting to lay eggs. This is clear that any wasp you will see during the winter season must be a Queen wasp. You can see them if you visit any wasp nest in your area.
-**4.�Movement**
+**4.Movement**
 Normally, the Queen wasps do not move about in the colonies of wasps. It remains in a given cell where worker wasps feed it. You will see worker wasps moving back and forth at a given point where they could be feeding the Queen wasp. Moreover, the Queen could be surrounded by new young wasps for mother care.
 **5. Security**
 The Queen cell is given tight security by the female workers. You will notice, in any wasp nest, that there are wasps that surround a given area and seem not to leave  this could be one of the cells having the queen wasp.
@@ -56,7 +56,7 @@ The Lower abdomen of the Queen Wasp is sharp pointed and are longer as compared 
 ## How Does a Wasp Become Queen?
 The journey of the wasp to becoming the future queen begins when the mother queen mates with the drones just before winter. Then, the mother queen leaves the wasp nest to new place where it hibernates.
 
-The laid eggs hatch to larvae in wasps nest cells from where they are fed by the queen using its chews.�These larva are expected to mature and become female wasps (workers).
+The laid eggs hatch to larvae in wasps nest cells from where they are fed by the queen using its chews.These larva are expected to mature and become female wasps (workers).
 
 However, the larvae that will become the new queen is specially fed by the mother queen. The research shows that, the new queen larvae contains more proteins that other larva and that it is usually larger.
 
@@ -145,7 +145,7 @@ The Queen Wasp is mainly fed with proteins by the workers to help it lay fertile
 ## Can Queen Wasp Live Without Food?
 During hibernation, Queen Wasp is sustained by the food it ate during the springtime. However, the Queen Wasp is able to store some of the food in its nest where it feed on it intermittently during the hibernation.
 
-Normally, the Queen Wasp can stay without food for 20 to 100 days. It is usually in active dormancy.�Other wasps such as workers and drones can only survive between 11 to 23 days without food.
+Normally, the Queen Wasp can stay without food for 20 to 100 days. It is usually in active dormancy.Other wasps such as workers and drones can only survive between 11 to 23 days without food.
 ## Conclusion
 Queen Wasp is a female wasp that has been treated specially by the workers and assigned the role of breeding wasp generations for its entire lifetime.
 

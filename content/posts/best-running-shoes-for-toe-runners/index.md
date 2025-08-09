@@ -18,7 +18,7 @@ Best Running Shoes for Toe Runners provide an interesting option for runners who
 - Toe running entails contacting the ground with your toes, metatarsals, or the ball of the foot, and then the heel follows afterward.
 Since most of the load would be on your toes or ball of the foot, youre likely to experience toe strain or metatarsal stress fractures.
 
-Luckily, Ive reviewed some of the Best Running Shoes for Toe Runners to make toe running enjoyable and pain-free.�Also Read:
+Luckily, Ive reviewed some of the Best Running Shoes for Toe Runners to make toe running enjoyable and pain-free.Also Read:
 Best Stability Running Shoes for Overpronators-for-overpronators/)
 ## Review: 9 Best Running Shoes for Toe Runners
 ### [1. Merrell Men's Vapor Glove 4 Running Shoes for Toe Runners](https://www.amazon.com/dp/B07DYG7C3V/?tag=p-policy-20)
@@ -36,7 +36,7 @@ The Merrell Vapor Glove 4 also has M Select FRESH, which is an antibacterial com
 
 The heel counter of this toe runner shoes has a Hyperlock technology. The technology helps to secure the foot, hence prevent unintended shoe removal.
 Pros:
-- Close-to-the-ground�construction
+- Close-to-the-groundconstruction
 - Lightweight ideal for all daywear
 - Flexible
 - Excellent aesthetics
@@ -76,7 +76,7 @@ Cons:
 ### [3. Vibram Men's KSO EVO Cross Training Shoe](https://www.amazon.com/dp/B07L56W15C/?tag=p-policy-20)
 Vibram KSO EVO is one of the Best vibram five fingers for everyday use. Most toe runners are impressed by the excellent ground feel, traction, flexibility, and protection that this this minimalist shoe provides.
 
-The outsole has a synthetic rubber sole thats highly durable and reliable. The sole provides good traction on various surfaces and it remains in good shape for long.� The sole provides stability for toes and legs without compromising on comfort and support.
+The outsole has a synthetic rubber sole thats highly durable and reliable. The sole provides good traction on various surfaces and it remains in good shape for long. The sole provides stability for toes and legs without compromising on comfort and support.
 
 The Vibram KSO EVO sole delivers needed grip to carry you through different terrains including road, rock terrains, and many others.
 
@@ -102,7 +102,7 @@ Cons:
 ### [4. New Balance Men's Minimus 10 V1 Trail Running Shoe](https://www.amazon.com/dp/B07BL2N36T/?tag=p-policy-20)
 New Balance 10 V1 finds a spot in the best running shoes for toe runners because of its close to the ground contact, support, comfort, stability, and traction.
 
-The New Balance 10 V1 features Vibram outsole�that provides close ground contact enabling the runner stability to control their movements during running. The outsole also has flex grooves that enhance the shoes flexibility while ensuring excellent grip on various surfaces.
+The New Balance 10 V1 features Vibram outsolethat provides close ground contact enabling the runner stability to control their movements during running. The outsole also has flex grooves that enhance the shoes flexibility while ensuring excellent grip on various surfaces.
 
 In the midsole unit of NB 10 V1, theres an Acteva foam, which is a lightweight material that provides needed platform compression. Thus, facilitates high responsiveness and comfortable running experience.
 

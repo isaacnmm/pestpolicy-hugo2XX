@@ -27,7 +27,7 @@ The Fisher-Price Sweet Snugapuppy Dreams Cradle 'n Swing takes the first spot fo
 
 For starters, this swing features 6 swing speeds that you can easily customize to fit what your baby loves most. It comes with 16 different soothing songs and nature sounds to help your baby relax and fall asleep quickly.
 
-More than that, this Cradle 'n Swing from Fisher-Price is soft, snuggly, and soothing.� Youll love the sweet reaction of your child once you put them on this swing. The two swinging motions enhance the soothing process.
+More than that, this Cradle 'n Swing from Fisher-Price is soft, snuggly, and soothing. Youll love the sweet reaction of your child once you put them on this swing. The two swinging motions enhance the soothing process.
 
 Furthermore, youll love the luxurious-looking puppy seat pad that provides superior coziness to your baby. The seat also provides crucial support to the body and head of a newborn. The Overhead mobile with its three cuddly friends plus a mirrored dome provides the perfect enjoyment for your baby.
 

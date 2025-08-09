@@ -17,7 +17,7 @@ layout: post
 The sight of
 [palmetto bugs](https://en.wikipedia.org/wiki/Florida_woods_cockroach)
 crawling around your house is simply disgusting. In case youre wondering how to get [rid](https://pestpolicy.com/how-to-get-rid-of-brown-recluse-spiders/) of it, you dont need to worry. Weve already done the research for you.
-**Carry out these 5 simple tips to get rid of these [palmetto](https://pestpolicy.com/cockroach-vs-palmetto-bug/) bugs without making direct contact.�**
+**Carry out these 5 simple tips to get rid of these [palmetto](https://pestpolicy.com/cockroach-vs-palmetto-bug/) bugs without making direct contact.**
 - **Place roach glue traps around the place in strategic positions.**
 - **Use boric acid to make homemade roach baits.**
 - **Spread out food-grade diatomaceous earth over the entire place.**

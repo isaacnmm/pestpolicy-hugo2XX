@@ -16,10 +16,10 @@ layout: post
 ---
 If you have seen flying termites around your home, you probably have a lot of questions in mind.
 - Do flying termites eat wood? Though most people confuse flying termites with flying ants they are clearly different.
-**So, do Flying Termites Eat Wood? Flying termites do not eat wood but only fly out to mate and reproduce and to form a new colony. In this flying termite stage, they only survive in that state for nearly an hour or two before their wings fall off and they seek a nest to lay their eggs.�**
-**But, when they shed wings, they cause destruction by burrowing into woods or establish nests where they start their next life cycle - know how to control termites.�**
+**So, do Flying Termites Eat Wood? Flying termites do not eat wood but only fly out to mate and reproduce and to form a new colony. In this flying termite stage, they only survive in that state for nearly an hour or two before their wings fall off and they seek a nest to lay their eggs.**
+**But, when they shed wings, they cause destruction by burrowing into woods or establish nests where they start their next life cycle - know how to control termites.**
 
-## **What Are Flying Termites - Know these Insects�**
+## **What Are Flying Termites - Know these Insects**
 Flying termites are part of the termites life cycle and part of the larger insects family. They are winged and also are the reproductive part of the termites cycle. They are known as the alates.
 If you have never seen flying termites, you are most probably going to confuse them with the flying ants.
 - Alates have 4 wings of the same size with a pair on each side. Their thorax and abdomen are almost similar in size and the waist is thick. The antennae are straight with a 3/8 inch long body that can reach even  inch wide.
@@ -28,7 +28,7 @@ If you have never seen flying termites, you are most probably going to confuse t
 Therefore, every time you see flying termites, you need to raise an alarm over an incoming or an already existing infestation in your home.
 Related:
 [Subterranean Termites Treatment](https://pestpolicy.com/subterranean-termites-treatment/)
-## **Where can you Find the F****lying Termites?�**
+## **Where can you Find the F****lying Termites?**
 The flying termites come from an already established nest to go mate and reproduce. After mating, their wings fall off as they seek a new nest to start another colony.
 - They burrow underwood and other suitable places for the next colony.
 - When they are successful, they reproduce and the cycle continues
@@ -39,7 +39,7 @@ The major reason why flying termites come out from their colonies is that they a
 - If the infestation is during the late summer, the swarm is from the dry wood species they also like appearing in the evenings.
 - They are very fond of artificial lights and will storm into your house in case you leave your windows and doors open.
 - Lastly, damp wood species like swarm during summer but also like hiding under damp wood and rotten pieces of timber.
-When the summer season is on, damp wood species also like entering our houses like swollen balloons if the windows and doors are open.� Use window shields to prevent these termites and other insects from getting into your house.
+When the summer season is on, damp wood species also like entering our houses like swollen balloons if the windows and doors are open. Use window shields to prevent these termites and other insects from getting into your house.
 ## **How Long Do Flying Termites Live?**
 Flying termites dont survive for long in this nature.
 - It takes approximately 1 hour as they mate and drop off their wings to look for nests where they can reproduce.

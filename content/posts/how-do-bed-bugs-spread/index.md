@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 So, how do bed bugs spread? Bed bugs (the 1/4 inch long and wingless bugs) are a problem at home and in other accommodations. But how do bed bugs spread?
-*Summary: Bed bugs spread through crawling to new surfaces, hitchhiking people's clothes and suitcases when human beings remove and following uncleaned drainages.�*
+*Summary: Bed bugs spread through crawling to new surfaces, hitchhiking people's clothes and suitcases when human beings remove and following uncleaned drainages.*
 Bed bugs crawl on the bed and bite your body, and the
 bite's effect could last for 1-2 weeks
 . They are usually reddish-brown and are often mistaken for tiny mites or mites.

@@ -62,7 +62,7 @@ When you dig the ground radially with intentions to view the
 [chipmunks underground shelter](https://www.humanesociety.org/resources/what-do-about-chipmunks)
 , you will see/find a long excavated narrow tunnel of varying width.
 
-How deep are chipmunk holes?�The central part of the burrow is slightly raised to avoid flooding in case water leaks. Moreover, the chamber might be reinforced with grass or leaves to create more warmth for the Chipmunks.
+How deep are chipmunk holes?The central part of the burrow is slightly raised to avoid flooding in case water leaks. Moreover, the chamber might be reinforced with grass or leaves to create more warmth for the Chipmunks.
 
 There are side pockets/hoards that may extend up to 2 feet. These are used to store food, collect empty shells or as a breeding ground. These are located slightly above the floor of the tunnel.
 

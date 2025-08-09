@@ -16,8 +16,8 @@ layout: post
 Painting cabinets is a common activity carried out during paint restoration or new coat application in homes of commercial places. Whether its a kitchen [cabinet](https://pestpolicy.com/best-paint-for-kitchen-cabinets/) or a wardrobe, sanding affects the finish outlook upon paint application, especially the case of the laminate wood.
 
 Could you be facing similar challenges and wonder how to paint your cabinet afresh or restore old paint?
-*On how to paint [kitchen](https://pestpolicy.com/how-much-does-it-cost-to-paint-kitchen-cabinets/) cabinets without sanding, select the right material and tools, detach cabinet drawers and doors, clean the entire cabinet, select the right paint, and prepare it accordingly.�*
-*Further, carry out actual painting step by step, attain a classic final finish before fixing back the cabinet drawers and doors. Put on proper protection gear during paint application to boost your safety and avoid any hazards. See Also:�*
+*On how to paint [kitchen](https://pestpolicy.com/how-much-does-it-cost-to-paint-kitchen-cabinets/) cabinets without sanding, select the right material and tools, detach cabinet drawers and doors, clean the entire cabinet, select the right paint, and prepare it accordingly.*
+*Further, carry out actual painting step by step, attain a classic final finish before fixing back the cabinet drawers and doors. Put on proper protection gear during paint application to boost your safety and avoid any hazards. See Also:*
 stain for your swing set
 .
 ## Details: How to Paint Kitchen Cabinets without Sanding

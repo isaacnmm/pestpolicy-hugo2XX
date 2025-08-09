@@ -92,7 +92,7 @@ You do not have to worry about the price tag as the brushes are equally affordab
 You can comfortably enjoy your paintwork without having to worry about finger fatigue with the smoothly designed handle. Equally the rust proof ferrule hold the bristles firmly and the brush giving your brush durable performance
 Pros:
 - Durable
-- Variety� size and shapes
+- Variety size and shapes
 - Applicable of acrylic and oil-based paints
 - Soft bristles
 - Affordable
@@ -129,7 +129,7 @@ Lastly, these brushes come with a 100% risk-free purchase with a refund or repla
 Pros:
 - Durable
 - Great handle
-- Fine� bristles
+- Fine bristles
 
 Cons:
 - None found

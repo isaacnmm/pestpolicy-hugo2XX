@@ -22,7 +22,7 @@ Ergonomic Sofa Reviewed
 ## 7 Long Range Wireless Driveway Alert System Compared
 Depending on your needs and preferences, your Long Range Wireless Driveway Alert System can have any of the three types of sensors. Read Also:
 Crossbow for Self [Defense](https://pestpolicy.com/best-crossbow-for-self-defense/)
-### **1.****�****Metal Sensing Probes**
+### **1.********Metal Sensing Probes**
 Metal Sensing Probes are designed to only detect moving metal such as vehicles through electromagnetic waves or magnetic detection.
 - However, the metal sensing probes will not help you see human beings and animals because they are not magnetic sensitive.
 - The alarm system will work efficiently in areas where there are no moving metal objects or vehicle traffic. Therefore, it can efficiently work near gates, hedges, and car parks.

@@ -37,13 +37,13 @@ Our kids are scared to death to play on the playset. So, how do we keep Wasps Aw
 *swings, slides, on the roof of the playhouse, among other areas. The wasps can literally attack any section of the playset and find a perfect resting point. This can be dangerous for you and your kids.*
 ## **So, How Do You Keep ****Wasps**** off- Details**
 
-Well, I did some research online to find out what other people with wasp infestation are doing to end the menace. �I will discuss the methods I used plus those that other people have used and seen success.
+Well, I did some research online to find out what other people with wasp infestation are doing to end the menace. I will discuss the methods I used plus those that other people have used and seen success.
 ### 1. Natural Insect Pest Control
 Use the following natural methods to repel wasp invasion.
 **a) Use Herbs**
 You may decide to plant herbal plants in your backyard, outdoor sitting area, or around the patio. Wasps dont like plants with aroma. Therefore, planting things like thyme, eucalyptus, citronella, among others can help in repelling wasps.
 **b) A mix of vinegar, salt & sugar**
-A solution of vinegar, salt, and sugar will work wonders. This solution attracts wasps and they get stuck inside the solution for wasps-free playsets. �Youll need a cup of vinegar, 4 tablespoons of sugar, and 4 tablespoons of salt.
+A solution of vinegar, salt, and sugar will work wonders. This solution attracts wasps and they get stuck inside the solution for wasps-free playsets. Youll need a cup of vinegar, 4 tablespoons of sugar, and 4 tablespoons of salt.
 **c) Detergent, Tap Water, & Peppermint extract**
 Fill tap water in your regular spray bottle; add a cup of any liquid detergent, then add about 20 drops of peppermint extract. This solution is effective at eliminating wasps.
 ### 2. Fake Wasps Nest
@@ -53,7 +53,7 @@ The beauty about these decoy wasp nests is that they fool the wasps into believi
 
 These nests trick the wasps into believing that other wasps have already settled into that specific region. Since wasps are territorial in nature, they cant settle where other wasps are present. So they end up moving away.
 
-I bought a ready-made wasp nest from Amazon. However, you can make one yourself. Its pretty simple. �Take brown paper and crumple it. Fill this brown bag with other papers to make it gain more volume. Hang it on your playset and wait for the results.
+I bought a ready-made wasp nest from Amazon. However, you can make one yourself. Its pretty simple. Take brown paper and crumple it. Fill this brown bag with other papers to make it gain more volume. Hang it on your playset and wait for the results.
 ### 3. Use Wasp and Hornet Spray
 Wasp and Hornet Spray are effective at eliminating wasps. I at one time used the wasp spray on my wooden deck. The wasps had built nests and you could see them flying around. I sprayed the nests thoroughly and killed the wasp population on my deck.
 ### 4. Use of chemicals

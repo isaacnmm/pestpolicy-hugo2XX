@@ -46,16 +46,16 @@ I
 mproved PCIe slot to reduce GPU sag and support
 EVGA 1070 SC. Has audio CAPs and red LED strips for sound and aesthetics?
 However, the board only has red LEDs, which you can turn off.
-**Excellent Surround LED -�**
+**Excellent Surround LED -**
 It allows for additional LED customizations that you can adapt to your lifestyle. In the beat mode, when you play any music via the audio jack, it will pulsate the LEDs to the musics sound.
 Further, it has a front panel G connector to enable easy installation and supports thunderbolt three. The board is mainly black but has silver metal details that pop up on its RAM and PC Express slots.
 It has 2 black heat sinks which are covered in a black finish that matches the black PCB and other board's components.
-**Thunderbolt 3 protocol -�**
+**Thunderbolt 3 protocol -**
 The motherboard allows single-wire bandwidth that runs to heights of about 40 GB/s, which is double the amount in the previous Thunderbolt.
 - The bandwidth will come with protocols like USB 3.1 and Mini Display Port 1.2 that have backward compatibility.
-**Hybrid Fan Headers -�**
+**Hybrid Fan Headers -**
 The motherboard has a water pump power header that will control the fans and ware pump. Further, with the fan system, you can easily select between various available PWM and voltage calibration modes.
-**VR Support and LED Surround -�**
+**VR Support and LED Surround -**
 The motherboard has metal shielding, NVMe support, and Thunderbolt 3 for fast video and data transfer that will boost your VR gaming experience.
 Further, it allows Intel USB 3.1 and uses 4 PCIe Gen3 Lanes that will provide you 32 GB/s with about 10 GB/s transfer speeds for every USB 3.1.
 Extra Durable PCIe Metal Shield will protect your motherboard from damage caused by the heavy graphics card. Related:
@@ -64,12 +64,12 @@ Extra Durable PCIe Metal Shield will protect your motherboard from damage caused
 ASRock Z170M EXTREME4 is one of the best for its superior specifications with the small form factor and excellent graphics performance.
 With its 12 power phases, reset or power buttons, and a diagnosis HEX screen, the ASRock Z170M EXTREME4 comes out as the best mo-bo in this class for overlapping.
 It comes with an Intel LAN controller and secondary "recovery" BIOS, which allows a top gaming experience with minimal problems.
-*5 real fan headers -�*
+*5 real fan headers -*
 Also, the mobo has all its 5 fan headers supporting PWM.
 Notably, in other motherboards, just the CPU-OPT and CPU pin headers (of the 4 generally available) are real PWM headers.
 The PWM allows more precise control of fan speed as compared to when using voltage.
 *12 power phases - ASRock Z170M EXTREME4 provides greater OC stability and highly stable power since it has more power phases (12), while other moos have 8-10 power phases.*
-*On-board HEX screen -�*
+*On-board HEX screen -*
 Also, it has power or reset buttons (great for OC-ing) and the on-board HEX screen (need for trouble-shooting), features that are only available on premium motherboards.
 It comes with has SLI support and a two-card crossfire. Further, due to its micro ATX mobo design, the motherboard will fit into the squeezed CPU cases.
 - I consider this motherboard an excellent mobo for i5 6600k as it has great specs to play video games that require heavy graphics.

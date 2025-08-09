@@ -24,7 +24,7 @@ This comprehensive review will explore the features, benefits, and potential dra
 
 All American Gutter Protection specializes in a **micro-mesh gutter guard system**. Their product features a high-quality stainless steel micro-mesh screen bonded to a durable aluminum body. This design is engineered to allow water to flow freely into the gutter while effectively blocking a wide range of debris, from large leaves and twigs to smaller, more troublesome elements like pine needles and shingle grit.
 
-What sets All American Gutter Protection apart is their emphasis on robust materials � the 100% aluminum body prevents warping and bending, unlike some plastic or vinyl alternatives. The stainless steel micro-mesh is known for its durability and resistance to corrosion, ensuring a long lifespan. They also offer a variety of colors to blend seamlessly with your home's exterior.
+What sets All American Gutter Protection apart is their emphasis on robust materials  the 100% aluminum body prevents warping and bending, unlike some plastic or vinyl alternatives. The stainless steel micro-mesh is known for its durability and resistance to corrosion, ensuring a long lifespan. They also offer a variety of colors to blend seamlessly with your home's exterior.
 
 Overall, All American Gutter Protection positions itself as a premium provider focused on quality materials and effective debris filtration.
 
@@ -76,7 +76,7 @@ All American Gutter Protection stands out for its commitment to an all-aluminum 
 All American Gutter Guards employ a sophisticated **micro-mesh filtration system** designed to keep gutters free of debris while ensuring optimal water flow. Here's how it works:
 
 1.  **Water Flows Onto the Mesh:** As rainwater runs off your roof, it reaches the gutter where the All American Gutter Protection system is installed.
-2.  **Micro-Mesh Filtration:** The water passes through the incredibly fine holes of the stainless steel micro-mesh screen. These tiny perforations are small enough to block virtually all solid debris � including leaves, twigs, pine needles, seed pods, shingle grit, and even roof granules.
+2.  **Micro-Mesh Filtration:** The water passes through the incredibly fine holes of the stainless steel micro-mesh screen. These tiny perforations are small enough to block virtually all solid debris  including leaves, twigs, pine needles, seed pods, shingle grit, and even roof granules.
 3.  **Debris Shedding:** Larger debris that lands on the micro-mesh surface is designed to dry out and be blown away by wind or washed off by subsequent rainfall. The design of the guard, combined with the wind, helps prevent debris from accumulating and forming a barrier.
 4.  **Durable Aluminum Frame:** The micro-mesh is supported by a sturdy, 100% extruded aluminum frame. This frame provides structural integrity, preventing the guard from bending, warping, or sagging over time, even under heavy snow or ice. The aluminum is also naturally corrosion-resistant.
 5.  **Secure Installation:** The guards are securely fastened to the gutter and fascia, ensuring they remain in place and provide consistent protection.

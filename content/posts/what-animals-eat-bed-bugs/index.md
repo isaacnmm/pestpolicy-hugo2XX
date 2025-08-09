@@ -17,8 +17,8 @@ layout: post
 If you're wondering which animals will eat bed bugs (Hemiptera), read on to get the details. But you might not want some of these
 *natural bed bug enemies*
 around your home - maybe geckos? or Ants?
-*So, what animals or insects will eat bed bugs? Well, common bed bug killers include ants (fire, argentine, or pharaoh ants), masked hunters, centipedes, spiders, cockroaches, and lizards such as geckos.�*
-*With mattress encasements for bed bugs, it's possible to watch for bed bugs and also reducing the possible hiding spaces in your box spring or mattress. The bugs undergo metamorphosis - from egg to nymph - it has no larval stage.�*
+*So, what animals or insects will eat bed bugs? Well, common bed bug killers include ants (fire, argentine, or pharaoh ants), masked hunters, centipedes, spiders, cockroaches, and lizards such as geckos.*
+*With mattress encasements for bed bugs, it's possible to watch for bed bugs and also reducing the possible hiding spaces in your box spring or mattress. The bugs undergo metamorphosis - from egg to nymph - it has no larval stage.*
 - NB: Cats and dogs won't eat bed bugs - maybe by accident but dogs mayassistin searching for bed bugs- canine scent detection.
 
 ## Details: What Animals Eat Bed Bugs? - Bed Bug Predators

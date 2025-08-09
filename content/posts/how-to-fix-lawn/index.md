@@ -34,7 +34,7 @@ Before you can fix an unhealthy lawn, you need to understand *what* is making it
 3.  **Inspect the Soil:**
     * **Moisture:** Is it too dry, too wet, or compacted? Dig a small hole (6 inches deep) to check moisture levels.
     * **Compaction:** Is the soil hard and difficult to penetrate?
-    * **Thatch Layer:** Is there a thick, spongy layer (over � inch) of dead organic matter between the grass blades and the soil surface?
+    * **Thatch Layer:** Is there a thick, spongy layer (over  inch) of dead organic matter between the grass blades and the soil surface?
 4.  **Check for Pests:** Look for grubs (white C-shaped larvae under the sod), armyworms, chinch bugs, or other insects. Dig in affected areas.
 5.  **Consider Your Practices:**
     * **Watering:** Are you watering deeply and infrequently, or shallowly and often? What time of day?
@@ -61,7 +61,7 @@ Once you've diagnosed the problem, the repair process often involves a combinati
 Beyond basic repairs, these methods address common issues and strengthen your lawn for long-term health:
 
 1.  **Aerate Compacted Soil:** Use a core aerator to remove plugs of soil. This relieves compaction, allowing air, water, and nutrients to reach grass roots, promoting deeper growth. Do this when grass is actively growing (fall for cool-season, late spring/early summer for warm-season).
-2.  **Dethatch Excessive Thatch:** If your thatch layer is more than � inch thick, use a power rake or dethatcher to remove it. This improves water penetration, nutrient absorption, and reduces disease susceptibility. Do this when grass is actively growing.
+2.  **Dethatch Excessive Thatch:** If your thatch layer is more than  inch thick, use a power rake or dethatcher to remove it. This improves water penetration, nutrient absorption, and reduces disease susceptibility. Do this when grass is actively growing.
 3.  **Water Correctly:** The number one cultural practice. Water deeply (1 inch per week) and infrequently (allowing topsoil to dry between waterings) to encourage deep root growth. Water in the early morning to minimize evaporation and disease.
 4.  **Fertilize Strategically:** Based on a soil test, apply a balanced fertilizer at the right times for your grass type (e.g., fall and spring for cool-season, late spring/summer for warm-season). Proper nutrients build a strong, dense lawn.
 5.  **Overseed Thin Areas:** If your lawn is thin but not completely bare, overseeding increases density, helping grass outcompete weeds and fill in weak spots. Best done after aeration or dethatching, during optimal seeding times for your grass type.

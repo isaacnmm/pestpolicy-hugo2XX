@@ -46,7 +46,7 @@ https://www.youtube.com/watch?v=zVOIIv4NA5c
 ### [2. Bates- Paint Scraper, Paint Remover](https://www.amazon.com/dp/B071XDP685/?tag=p-policy-20)
 If you are looking forward to completely removing that paint or stain on the concrete, wall, or any other surface?
 
-This is the right tool for you. �Though its just a simple tool, it serves different uses like a paint scraper, paint can opener, a screwdriver among others.
+This is the right tool for you. Though its just a simple tool, it serves different uses like a paint scraper, paint can opener, a screwdriver among others.
 Designed with stainless steel, this blade has proved to be durable to serve the painter for days and years. This tool is rust-proof and will last for ages.
 It gives an excellent finish on your surface to make it ready for painting or any other project.
 The well-designed handle enables you to efficiently scarp the paint from concrete, wood, ceiling, cabinets among others with comfort without experiencing hand fatigue.

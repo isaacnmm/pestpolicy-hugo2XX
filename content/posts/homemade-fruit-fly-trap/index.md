@@ -16,8 +16,8 @@ layout: post
 ---
 How would you love a homemade fruit fly trap? At times, you may find your compound or house, especially the kitchen, overtaken by a swarm of fruit [flies](https://pestpolicy.com/how-to-get-rid-of-drain-flies-in-septic-tank/).
 - This will upset you. Fruit flies will make your house look messy and unkempt.
-*Maybe you have even tried to remove the attractants of these fruit flies without succeeding? In this article, I've discussed the top fruit fly traps you can DIY.�*
-*Homemade fruit fly traps may include vinegar (apple cider vinegar - that also kills fleas�or white vinegar), using old wine or beer bottle, fruits/fruits peel jar, dish soap, banana jar, red wine trick, paper cone & old/rotten fruits and heated milk/sugar &pepper.�*
+*Maybe you have even tried to remove the attractants of these fruit flies without succeeding? In this article, I've discussed the top fruit fly traps you can DIY.*
+*Homemade fruit fly traps may include vinegar (apple cider vinegar - that also kills fleasor white vinegar), using old wine or beer bottle, fruits/fruits peel jar, dish soap, banana jar, red wine trick, paper cone & old/rotten fruits and heated milk/sugar &pepper.*
 
 Read Also:
 Flying Ants vs. Termites

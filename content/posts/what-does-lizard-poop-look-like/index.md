@@ -14,11 +14,11 @@ tags:
 - poop
 layout: post
 ---
-What does [lizard](https://pestpolicy.com/are-lizards-poisonous/) [poop](https://pestpolicy.com/what-does-raccoon-poop-look-like/) look like?�Reptiles such as salamanders lizards and geckos love to hang around the house. You will find their poop on any surface including your bed, sofa set, and wardrobe among other places.
+What does [lizard](https://pestpolicy.com/are-lizards-poisonous/) [poop](https://pestpolicy.com/what-does-raccoon-poop-look-like/) look like?Reptiles such as salamanders lizards and geckos love to hang around the house. You will find their poop on any surface including your bed, sofa set, and wardrobe among other places.
 Certainly, these fecal droppings can create a disgusting mess in the house - particularly after a
 heavy meal
 . Sometimes, it difficult to differentiate lizard poop from that of rodents and birds.
-*So, how does lizard poop look like? Lizard poop appears as black droppings with a white substance on one end. The white matter shows the presence of uric acid and its excreted together with the solid waste.�*
+*So, how does lizard poop look like? Lizard poop appears as black droppings with a white substance on one end. The white matter shows the presence of uric acid and its excreted together with the solid waste.*
 *This is because lizards use one opening (cloaca) to excrete solid waste and urine. The size of the droppings vary according to the size and species of the lizard. Related: What Does Leopard Gecko Eat?*
 
 ## What Does Lizard Poop Look Like??
@@ -51,7 +51,7 @@ Unlike lizard poop, snake poop is quite lose and has no defined shape. The white
 A snake feeds by swallowing their prey whole. So their poop contains the indigestible remains such as bones, teeth, hooves, hair and scales.
 Related:
 [What Does a Garden Lizard Eat?](https://pestpolicy.com/what-does-a-garden-lizard-eat/)
-### **How to Clean Lizard Poop Stain from fabrics�**
+### **How to Clean Lizard Poop Stain from fabrics**
 When handling any animal poop always wear gloves to avoid direct contact with disease-causing bacteria.
 Scoop out the droppings with a scrapper or pick the droppings with a piece of cloth and dispose them in the trash bin or compost.
 Stains left on fabrics and bedding by lizard poop can be cleaned using the following procedure.
@@ -74,7 +74,7 @@ First scoop out the droppings with a scrapper and dispose the stuff in the trash
 - Saturate the stain with undiluted hydrogen peroxide. For better results, soak a clean towel with hydrogen peroxide and place it on the stain. Leave it until morning.
 - Clean the surface with a wet towel until it is dry.
 - Some stains may discolor you wooden surfaces completely. In this case wood sanding may be necessary. Alternatively you can apply a stain similar to the color of your wooden surface.
-## Conclusion**�**
+## Conclusion****
 Lizards can cause discomfort especially when they are in large numbers. Their fecal droppings are potential avenues for diseases such as salmonella.
 The situation gets worse if you have other pests like rodents, birds among others. However, its possible to differentiate the types of pests in your house using their fecal droppings.
 This makes it easier to trace them and use the correct pest eradication remedy. If youre having trouble identifying the type of pest in your house, its the right time you contacted your local pest exterminator.

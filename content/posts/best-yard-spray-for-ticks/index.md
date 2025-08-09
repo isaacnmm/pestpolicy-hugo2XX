@@ -16,7 +16,7 @@ layout: post
 ---
 Seeking for the best yard [spray](https://pestpolicy.com/best-roach-spray/) for ticks? Search no more! But first, what damage have
 [ticks](https://en.wikipedia.org/wiki/Tick)
-caused you?�Well, having ticks around your compound can be very dangerous for your family and your pets.
+caused you?Well, having ticks around your compound can be very dangerous for your family and your pets.
 
 When these creatures infest your pets and animals, they infect them with harmful diseases that may eventually be transmitted to humans.
 It's therefore essential to act on them as soon as possible to avoid an infestation. The number of sprays for eradicating ticks in the [yard](https://pestpolicy.com/average-yard-size/) is so overwhelming that it becomes a challenge to choose the best.
@@ -72,7 +72,7 @@ Spectracide Triazicide Spray is an excellent addition to Spectracide's range of 
 
 
 
-Its fast-acting formula kills by contact and continues to kill for the next three months. It targets the insect at all stages of the life cycle.�Spectracide is useful for insects below and above the ground.
+Its fast-acting formula kills by contact and continues to kill for the next three months. It targets the insect at all stages of the life cycle.Spectracide is useful for insects below and above the ground.
 Thus, it is the best defense against ticks and fleas in a yard. It can also be effectively used against insect infestation in flower bushes and trees. Its ingredients will not affect your flowers and vegetables. Besides, it's safe for people, kids, and pets once it has been allowed around 2 hours to dry.
 The spray comes ready to use and with a nozzle for quick and easy application. When hooked to a garden horse, this nozzle allows Spectracide to concentrate on mixing proportionally with water as it comes out. It comes in a pack of six 32 ounce bottles. A single bottle will cover up to 5000 square feet of your yard.
 When appropriately used, Spectracide Triazicide spray can effectively exterminate ticks and prevent their recurrence. Besides, it will act against other crawling and flying insects such as Japanese beetles, fleas, mosquitoes, ants, and many others.
@@ -174,10 +174,10 @@ Cons:
 Read Also:
 How High Can Fleas Jump
 ?
-## **Considerations in the Best Yard Spray for Ticks�**
+## **Considerations in the Best Yard Spray for Ticks**
 ### **1. Chemical Treatments**
 Usually, insect sprays that don't contain chemicals as their active ingredients are regarded as the best remedies. The chemical treatments that you use indoors may not necessarily work effectively outdoors since the weather conditions are different.
-You will also find that treatments that you use outdoors vary in their effectiveness.�Therefore chemical treatments work effectively when applied to their specific environments.
+You will also find that treatments that you use outdoors vary in their effectiveness.Therefore chemical treatments work effectively when applied to their specific environments.
 As an example, Methoprene won't be effective when used in direct sunlight, since UV rays usually break it down. It's, however, effective where there is shade. Therefore, when buying insect killers, make sure it is ideal for the specific outdoor conditions in your yard.
 Also, look for chemical treatments that contain the most effective active ingredients in the market. Products that contain pyrethrin prove to very effective in destroying insects throughout their stages of the lifecycle.
 ### **2. Non-Chemical Treatments**

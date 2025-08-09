@@ -160,7 +160,7 @@ Cons:
 ### [7. Merrell Men's Moab 2 Vent Hiking Shoe](https://www.amazon.com/dp/B01HFAAASO/tag=p-policy-20)
 Merrell Men's Moab 2 are some of the best hiking shoes for sweaty feet. The Merrell Moab is a brand loved by many hikers for its comfort and durability features.
 
-For starters, �the top section of Merrell Men's Moab 2 utilizes a leather mesh material that delivers excellent breathability and durability. The interior also has Breathable mesh lining that ensures an additional flow of air.
+For starters, the top section of Merrell Men's Moab 2 utilizes a leather mesh material that delivers excellent breathability and durability. The interior also has Breathable mesh lining that ensures an additional flow of air.
 
 Furthermore, youll appreciate the Targeted heel cushioning that enhances the comfort levels while decreasing stress on the foot with every step you make. This means you can cover long distances without experiencing excess pressure on your foot thanks to the air cushion.
 

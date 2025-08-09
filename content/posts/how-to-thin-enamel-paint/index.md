@@ -23,12 +23,12 @@ But most paint users face challenges when thinning (one may over dilute or even 
 *Importantly, you should always wear protective gear (gloves, respirator, facemask, and overall) when thinning since enamel paint may release toxic fumes harmful to human health. *
 *To gain an in-depth understanding, let us get into the details.*
 ## Details: How to Thin Enamel Paint ( Step-By-Step)
-### **STEP 1: Select Best/Ideal Location�**
+### **STEP 1: Select Best/Ideal Location**
 Items Required
 - Paint stirrer andsafety goggles, overalls, and gloves
 - Respirator and Paint Thinner
 - Empty Bucket and Thinning surface
-- Paint sprayer,�paintbrush, orroller
+- Paint sprayer,paintbrush, orroller
 - Piece of Cloth
 Select an ideal environment that is well-ventilated since enamel fumes cause breathing difficulties. Moreover, thinner add a toxic smell that irritates the nasal cavity or respiratory system when inhaled.
 Its advisable to open windows and doors when thinning paint in a room or opt-out paint thinning in an open field.
@@ -38,8 +38,8 @@ and enamel paint may cause dizziness, headache, or nausea when inhaled in excess
 > See Also:
 > Thinning Semi-Gloss Paint
 https://www.youtube.com/watch?v=7vRka88ZSsg
-### **STEP**** 2: Wear Protective Gear�**
-**Weather Considerations�**
+### **STEP**** 2: Wear Protective Gear**
+**Weather Considerations**
 - Prevailing weather condition determines the amount of thinner that is to be used during the application process. Humid and warm temperatures require more thinning (thinner), while less humid and cooler weather needs less thinning (thinner).
 Therefore, it is advisable to prepare your enamel paint during cooler and less humid weather conditions with the same amount of thinner used.
 Human safety and health are paramount during the thinning process. Ensure you put on protective gear (facemask, respirator, gloves, eye goggles, boots,
@@ -55,10 +55,10 @@ Thinner meant for water-based enamel paint are not appropriate for oil-based ena
 .
 **NB**
 : Never thin oil-based enamel paint with water.
-### **STEP�****4: Prep the Paint  Where necessary**
+### **STEP****4: Prep the Paint  Where necessary**
 Prep paint appropriately (where necessary) to improve the thinning action.
 You need to read instructions or labels on the paint fast since not all enamel paint requires prepping.
-### **STEP�****5: Measure Right Amount of Thinner **
+### **STEP****5: Measure Right Amount of Thinner **
 Put a substantial amount of paint in the bucket, then add a small quantity of thinner and stir. Add more thinner and stir until the mixture is sufficiently thinned.
 Usually, you are expected to maintain paint to the thinner ratio of 3:1 or 4:1. This can be achieved by actual measuring of enamel paint and thinner before mixing
 even for weathered wood
@@ -77,7 +77,7 @@ Thinning process for
 paint HVLP sprayer
 should be thinned further to prevent blockage of the spray gun.
 https://www.youtube.com/watch?v=ebNnw4nwdhI
-### **STEP�****6: **Testing the Thinned paint/Mixture
+### **STEP****6: **Testing the Thinned paint/Mixture
 Carry out a drop test experiment on the surface to be painted. To do this, you will need to paint a small surface using any method (
 spray paint
 , paintbrush, or roller).

@@ -24,7 +24,7 @@ Propagation not only saves money but also provides immense satisfaction in nurtu
 
 ## Why Propagate Hydrangeas?
 
-* **Free Plants:** The most obvious benefit � get new plants without buying them.
+* **Free Plants:** The most obvious benefit  get new plants without buying them.
 * **Genetic Duplication:** Cuttings and division create clones of the parent plant, ensuring the new plants have the exact same characteristics (flower color, size, form).
 * **Rejuvenation:** Dividing older, overgrown clumps can rejuvenate the parent plant, encouraging more vigorous growth and flowering.
 * **Sharing:** A wonderful way to share your favorite hydrangeas with fellow gardeners.
@@ -47,7 +47,7 @@ This method is ideal for creating many new plants from a single parent. It works
 * Sharp, clean pruning shears or a sharp knife
 * Small pots (7-10 cm / 3-4 inches in diameter)
 * Seedling or cutting mix (a sterile, well-draining mix of peat moss and perlite or vermiculite)
-* Rooting hormone (powder or gel � optional but highly recommended)
+* Rooting hormone (powder or gel  optional but highly recommended)
 * Pencil or dibber (for making planting holes)
 * Plastic bag or dome (to create a humidity tent)
 * Misting bottle

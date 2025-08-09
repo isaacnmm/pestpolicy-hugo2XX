@@ -17,7 +17,7 @@ layout: post
 Most homeowners in Florida have experienced the tiny Red Ants challenge - this is among other 49+ ant species such as
 [red fire ant, carpenter ant](https://pestpolicy.com/carpenter-ants-vs-fire-ants)
 , and ghost ants.
-**Some of the tiny ants that wreak havoc in the Florida area include the yellow ant, black ant, sugar ant, and pharaoh ant. Despite that these tiny ants may look harmless, I've noted that they'll bite humans and pets to leave so much pain - you'll be left treating the ant bites.�**
+**Some of the tiny ants that wreak havoc in the Florida area include the yellow ant, black ant, sugar ant, and pharaoh ant. Despite that these tiny ants may look harmless, I've noted that they'll bite humans and pets to leave so much pain - you'll be left treating the ant bites.**
 In this post, I've discussed the Tiny Red Ants In Florida in detail and what you should know or worry about. Let's dig right into it.
 ## Details: Tiny Red Ants In Florida
 ### 1. Yellow Ants
@@ -60,7 +60,7 @@ The crawling ants and also the workers of the Big Headed Ant will equally be fou
 - Keeping the food containers air-tight will avoid attracting the ants with the scent while also avoiding spillage
 You should also screen or caulk any window, or baseboard cracks and holes that the ants might be using to forage in the house.
 ### 4. Fire Ants
-Some fire ant species that you'll find in Florida are red imported fire ant (RIFA) and the �Solenopsis Invicta Buren - all of which will be in the Port Saint Lucie and Stuart regions.
+Some fire ant species that you'll find in Florida are red imported fire ant (RIFA) and the Solenopsis Invicta Buren - all of which will be in the Port Saint Lucie and Stuart regions.
 - The fire ants (Red Imported species) came into Florida mainly from south and central America around the time when World War II concluded.
 The Fire ants will sting and bite especially when they've gathered in a crowd - they'll largely bite the feet. You'll notice
 that the ants are black or brown-colored with a dark abdomen.
@@ -68,7 +68,7 @@ that the ants are black or brown-colored with a dark abdomen.
 The food the fire ants will love includes Lipids (oils, lard, grease), Proteins (meat and insects), Carbohydrates (syrups, sugars, and fruits).
 - The treatment options for fire ants include spot and barrier treatments, and mound treatments or baiting applications.
 ## Conclusion
-The tiny red ants in Florida are pharaoh ants (comparable to Thief ants),�Yellow Ants,
+The tiny red ants in Florida are pharaoh ants (comparable to Thief ants),Yellow Ants,
 Fire Ants,
 Big Headed Ants,
 Carpenter Ants.

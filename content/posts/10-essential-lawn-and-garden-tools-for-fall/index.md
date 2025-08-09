@@ -32,7 +32,7 @@ A sturdy wheelbarrow is a workhorse in any season, but it shines particularly in
 
 ## 4. Hand Pruners (Bypass and Anvil)
 
-Fall is an excellent time for certain pruning tasks, especially for deciduous trees and shrubs after they drop their leaves, making their structure more visible. Hand pruners are essential for making clean cuts on smaller branches (up to � inch thick).
+Fall is an excellent time for certain pruning tasks, especially for deciduous trees and shrubs after they drop their leaves, making their structure more visible. Hand pruners are essential for making clean cuts on smaller branches (up to  inch thick).
 * **Bypass Pruners:** Work like scissors, with blades that bypass each other. Ideal for live stems, making clean cuts that heal well.
 * **Anvil Pruners:** Have a sharp blade that cuts down onto a flat anvil. Better for dead wood or tough, woody stems, but can crush live stems.
 Having a sharp, well-maintained pair of hand pruners is crucial for promoting plant health and shaping.

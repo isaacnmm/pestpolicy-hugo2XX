@@ -22,7 +22,7 @@ When choosing the best bed bug heaters, you can consider things like efficiency,
 Some products, like the
 **ZappBug [Bed](https://pestpolicy.com/bed-bug-bites-vs-other-bites/) Bug **
 and
-**Dr. Infrared Heater DR-122�**
+**Dr. Infrared Heater DR-122**
 are designed for maximum efficiency, ensuring thorough heat penetration to eliminate bed bugs at all stages of their lifecycle.
 
 Efficiency in a bed bug heater is crucial because bed bugs can be resilient and often hide in deep crevices. An efficient heater will reach temperatures high enough to kill bed bugs in all their hiding places, including eggs, larvae, and adults.
@@ -114,7 +114,7 @@ PackTite is easily collapsible, which is easier to store. It is fitted with hand
 - **Pros**: Compact, portable, effective.
 - **Cons**: Smaller treatment area, longer heating time for larger items.
 ## Conclusion
-When selecting the best bed bug heater, it's important to consider factors like efficiency, ease of use, portability, safety features, and capacity.�The products listed above offer a range of options to meet different needs and preferences.
+When selecting the best bed bug heater, it's important to consider factors like efficiency, ease of use, portability, safety features, and capacity.The products listed above offer a range of options to meet different needs and preferences.
 
 By carefully evaluating these factors, you can choose a heater that will
 effectively eliminate bed bugs

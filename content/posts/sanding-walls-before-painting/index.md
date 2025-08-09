@@ -76,7 +76,7 @@ Therefore, this step allows one to do away with the imperfections by filling the
 For the corners, use some sanding sponge - don't use a hand sander as it might lead to damage to the corners. You'll not achieve that crisp corner while also causing unwanted gouge scuff.
 But you can sand around a few inches on your corners using the hand sander. Finally, get your sanding paper or a sanding sponge to touch up your surfaces.
 So, to sand your corners using just a sponge as opposed to using the large-sized hand sanders since this could end up gouging your corners.
-## Step 7:� Final Light-Sanding
+## Step 7: Final Light-Sanding
 The last step will involve some light-sanding of your surfaces using some light pressure - but don't sand the same spots using the straight-line technique.
 Such a process may leave unnecessary depression or groove - which will effectively show after you've painted. Avoid sanding on various openings and electrical boxes.
 ## Conclusion

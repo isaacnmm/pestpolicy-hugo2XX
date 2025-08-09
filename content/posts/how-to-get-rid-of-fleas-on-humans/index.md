@@ -38,7 +38,7 @@ Dish soap
 is also a product that you can use to eliminate fleas.
 After applying it to your hair give it about 10 minutes before you can wash it off and have a fleas free hair. It is gentle on your hair but tough on the fleas.
 **c. A mixture of baking soda, salt, and water **
-This is a good alternative if you dont have the fleas shampoo or the dish soap.�When using this method, you mix baking soda with salt and water and apply it to your hair for about 10 minutes.
+This is a good alternative if you dont have the fleas shampoo or the dish soap.When using this method, you mix baking soda with salt and water and apply it to your hair for about 10 minutes.
 - Though it has a low effective rate, it is more of a homemade solution and will help eliminate the fleas.
 - When you are done applying shampoo and dish soap, comb your hair to remove the dead fleas from your head.
 If you had used the baking soda mixture, properly wash your head before you can comb the hair to remove the dead fleas.

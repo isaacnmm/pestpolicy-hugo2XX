@@ -15,8 +15,8 @@ layout: post
 ---
 Rusting is a common problem that occurs on metal, especially iron-based metal if proper preventive measures are not taken into place. Rusting is more prone to a rainy/saline environment than a cool or warm climate. Therefore, when rusting occurs, its important to remove it and consider painting as one way of rust prevention. The most cumbersome process is rust removal. Could you be facing such a challenge?
 
-*On how to remove rust from metal before painting -� you can either use citric acid, vinegar, commercial rust remover like Metal Rescue, baking soda Lemon and salt, or fresh potato and dish soap when removing rust from metal. Besides, the correct procedure and solvent preparation should be carried out according to instructions given before the actual paint application is done.*
-*Further, surface preparation and prepping is crucial before applying any rust removal chemical finish your DIY painting. Also, you must wear protective gear when carrying out rust removal to prevent any injuries from occurring. Importantly, stick to safety measures and precautions given to prevent health hazards or any environmental pollution.�*
+*On how to remove rust from metal before painting - you can either use citric acid, vinegar, commercial rust remover like Metal Rescue, baking soda Lemon and salt, or fresh potato and dish soap when removing rust from metal. Besides, the correct procedure and solvent preparation should be carried out according to instructions given before the actual paint application is done.*
+*Further, surface preparation and prepping is crucial before applying any rust removal chemical finish your DIY painting. Also, you must wear protective gear when carrying out rust removal to prevent any injuries from occurring. Importantly, stick to safety measures and precautions given to prevent health hazards or any environmental pollution.*
 ## Details: How to Remove Rust from Metal before Painting
 ### a. Using Citric Acid
 **Items and Tool Required**
@@ -122,11 +122,11 @@ Fresh potato has chemicals that decompose rust upon contact when rubbing. The di
 - Then, polish the decomposed rust using an angle grinder until entire rust particles are removed
 - Soak a piece of cloth in soapy water and wipe the metal surface to clean traced of baking soda and rust particles
 - Rinse the surface to dryness
-Baking soda acts instantly upon application and breaks down the paint layer into small particles that are easily removed by a paintbrush or grinder. A thick rust layer should be pre-cleaned before baking soda is applied.�This method is best for light rust thickness.
+Baking soda acts instantly upon application and breaks down the paint layer into small particles that are easily removed by a paintbrush or grinder. A thick rust layer should be pre-cleaned before baking soda is applied.This method is best for light rust thickness.
 ## What Causes Rusting to Occur on Metal?
 ### 1. Presence of Water
 Water is the major cause of the rusting process. Oxygen in air, in presence of water, reacts with the iron metal to form rust (hydrated iron (II) oxide). The process of rusting repeats itself continuously until the entire metal surface is damaged.
-Water enhances rust when in contact with direct iron metal. Usually, oxygen is present in the air, and therefore, the reaction occurs continuously.� Metals that are used in wet areas should be well coated and protected to prevent rusting from taking place.
+Water enhances rust when in contact with direct iron metal. Usually, oxygen is present in the air, and therefore, the reaction occurs continuously. Metals that are used in wet areas should be well coated and protected to prevent rusting from taking place.
 ### 2. High Salinity
 When Iron comes into contact with salt content, it starts reacting and forms an oxide that leads to rusting on the surface. Highly concentrated salt accelerates the rusting process upon contact with the metal surface.
 You will notice that the metal structures found in saline places are more prone to rusting than other places. The protective method in these areas should be carried often to prevent further surface damage or rust occurrence.

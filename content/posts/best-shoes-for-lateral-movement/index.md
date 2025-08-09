@@ -16,7 +16,7 @@ layout: post
 Investing in the Best Shoes for Lateral Movement will allow you to expand your workout routine.
 - Lateral/ Side-to-side movement is part of the cross-training regime and its necessary if you want to improve your exercise routine.
 - Hence, Shoes for Lateral Movement must have excellent traction, stability, breathability, and slight cushioning.
-Check out the following top Shoes for Lateral Movement.�Related:
+Check out the following top Shoes for Lateral Movement.Related:
 Best Cross Training Shoes for Bad Knees
 ## Review: 7 Best Shoes for Lateral Movement
 ### [1. Nike Women's Metcon 5 X Training Shoes](https://www.amazon.com/dp/B07VVRRRBG/?tag=p-policy-20)
@@ -135,7 +135,7 @@ The Crazytrain Elite has a midsole that features Adidas boost technology. This t
 
 The toe box area, heel section, and the external part of the midfoot features rubber overlays that protect these areas from abrasion or harsh terrains.
 Pros:
-- Boost technology�supports lateral foot movement
+- Boost technologysupports lateral foot movement
 - Comfortable
 - Durable
 - Supportive

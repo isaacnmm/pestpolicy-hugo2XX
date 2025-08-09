@@ -151,7 +151,7 @@ While highly effective, it's not portable (requires a flat surface) and isn't id
 Backyard gatherings, camping, and
 [patio use](https://pestpolicy.com/best-gnat-repellent/)
 .
-## **Conclusion�**
+## **Conclusion**
 The
 **best gnat repellent**
 depends on your needs:

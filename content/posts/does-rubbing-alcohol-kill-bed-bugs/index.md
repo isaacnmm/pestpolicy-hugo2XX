@@ -23,7 +23,7 @@ bleach/)
 , or
 Ammonia
 .
-And if you have little kids, youre probably looking for solutions that kill bed bugs and bed bug eggs naturally (in addition to having fast action).�In this post, I've discussed how rubbing alcohol can
+And if you have little kids, youre probably looking for solutions that kill bed bugs and bed bug eggs naturally (in addition to having fast action).In this post, I've discussed how rubbing alcohol can
 [kill bed bugs](https://pestpolicy.com/does-lysol-kill-bed-bugs/)
 .
 **Summary: The short answer is YES!**
@@ -79,7 +79,7 @@ Vacuum-clean your entire house. This should be done regularly anyway to prevent 
 **Step 9: **
 Consider other
 natural methods
-described below if these steps havent worked. Some items might need to be thrown out completely if they are very infested.�If all else fails, call in the exterminator!
+described below if these steps havent worked. Some items might need to be thrown out completely if they are very infested.If all else fails, call in the exterminator!
 ## **Homemade bed bug spray recipe**
 Did you know that you can make your own bed bug sprays using essential oils? All you need is an empty spray bottle, some
 essential oils
@@ -90,10 +90,10 @@ with water and spray infected areas. Sometimes the above solutions by themselves
 Here is a
 bed bug spray
 recipe made up of natural ingredients such as vinegar, rubbing alcohol, and essential oils.
-## **Rubbing alcohol alternatives?�**
+## **Rubbing alcohol alternatives?**
 How effective is
 [vinegar in killing bed bugs](https://pestpolicy.com/does-vinegar-kill-bed-bugs/)
-? Well,�Vinegar is another natural way to
+? Well,Vinegar is another natural way to
 kill bed bugs directly
 on contact but is not always effective as a repellent. Yes, bleach will kill bed bugs. However, it is a chemical so use it sparingly.
 Diatomaceous Earth is another natural solution that you can try, which also dehydrates
@@ -124,6 +124,6 @@ bed bugs do bite
 as they feed off the blood, causing a rash in some people. So you really want to get
 rid of them fast
 !
-## **Conclusion�**
+## **Conclusion**
 Weve shown you different natural remedies to kill bed bugs without harsh chemicals. It might take some trial and error to find the right one for you.
 However, combining alcohol with other steps such as steaming and vacuuming will likely give you the best results. If all else fails, call in the exterminator.

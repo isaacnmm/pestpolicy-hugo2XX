@@ -22,19 +22,19 @@ on the dog to save the situation.
 But, she's still worried whether "Dog [Fleas](https://pestpolicy.com/dog-has-fleas-and-sleeps-in-my-bed/) Transfer to Humans?" Can the bugs jump/ bite him, his kids, or his wife? I seek to answer these questions in this short post.
 **The simple answer is Yes**
 .
-[Dog fleas (Ctenocephalides�canis](https://pestpolicy.com/best-[flea](https://pestpolicy.com/how-to-tell-if-your-dog-has-fleas/)-combs-for-dogs/)
+[Dog fleas (Ctenocephalidescanis](https://pestpolicy.com/best-[flea](https://pestpolicy.com/how-to-tell-if-your-dog-has-fleas/)-combs-for-dogs/)
 ) will sometimes jump onto humans, bite them and suck blood - although they mainly suck blood from dogs and cats.
 Scientific research
 shows
 that fleas will quickly move to another and
 hitchhike people as they move to other houses
-,�just like the
+,just like the
 [over 2,000 flea species](https://ohioline.osu.edu/factsheet/HYG-2081-11)
 .
 
 ## Can Dog Fleas Transfer to Humans? People's hair?
 A
-quick google search on whether�Can Dog Fleas
+quick google search on whetherCan Dog Fleas
 Transfer to Humans - most related information available online is false. Some articles claim that only dog fleas (Ctenocephalides canis) attack canines and that only the
 *Pulex irritans *
 can
@@ -43,7 +43,7 @@ beings.
 *Pulex irritans*
 feed on blood (humans, dogs, and cats) and will bite human beings (leaving itchy red bumps ) and only
 *survive on human blood. *
-*Fleas�*
+*Fleas*
 transmit tapeworms, cause flea allergy dermatitis (FAD) and anemia. Control
 fleas on clothes
 and

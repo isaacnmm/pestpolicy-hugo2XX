@@ -52,7 +52,7 @@ Both the Propel Vs. Skywalker Trampolines have different offerings and options. 
 
 The propel trampolines are available in different sizes ranging from 7ft to 15ft. while the available shapes are round and rectangular. The propel website has a rectangular option that measures12ft by 8ft.
 
-Conversely, Skywalker trampolines provide an array of options. They are available in different shapes including square, rectangle, oval, and round. The Skywalker Round trampolines sizes range from 7.5ft to 16ft.� The largest Skywalker rectangular offering measures 10ft by 17ft.
+Conversely, Skywalker trampolines provide an array of options. They are available in different shapes including square, rectangle, oval, and round. The Skywalker Round trampolines sizes range from 7.5ft to 16ft. The largest Skywalker rectangular offering measures 10ft by 17ft.
 
 Although the propel trampolines are available in different color options the sizes are color-coded. This means the customer doesnt have the luxury of choosing the trampoline color.
 ## Product Reviews for Propel Vs Skywalker Trampoline

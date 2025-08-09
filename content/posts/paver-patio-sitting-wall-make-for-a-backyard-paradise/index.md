@@ -91,7 +91,7 @@ Thoughtful planning is the most crucial phase. It allows you to anticipate chall
 
 ## Projects: From Paver Patio to Sitting Wall
 
-Building a paver patio with an integrated sitting wall is a significant undertaking that requires careful execution. While a detailed step-by-step guide is beyond the scope of this article (and varies greatly by specific design and materials), here�s an overview of the key project phases and considerations. Always refer to specific installation guides from your paver and wall block manufacturers for precise instructions.
+Building a paver patio with an integrated sitting wall is a significant undertaking that requires careful execution. While a detailed step-by-step guide is beyond the scope of this article (and varies greatly by specific design and materials), heres an overview of the key project phases and considerations. Always refer to specific installation guides from your paver and wall block manufacturers for precise instructions.
 
 1.  **Layout and Excavation:**
     * **Mark the Area:** Use marking paint or string lines to clearly delineate the exact footprint of your patio and the base of your sitting wall.
@@ -99,7 +99,7 @@ Building a paver patio with an integrated sitting wall is a significant undertak
 
 2.  **Base Preparation:**
     * **Geotextile Fabric:** Lay down a layer of permeable geotextile fabric over the excavated soil. This prevents the base aggregate from mixing with the subsoil and helps with drainage.
-    * **Gravel Base:** Fill the excavated area with crushed gravel (often � inch minus compactable aggregate). Spread it evenly in layers (typically 2-4 inches per layer) and **compact thoroughly** with a plate compactor (rentable). This is the most critical step for stability and longevity. Each layer must be compacted.
+    * **Gravel Base:** Fill the excavated area with crushed gravel (often  inch minus compactable aggregate). Spread it evenly in layers (typically 2-4 inches per layer) and **compact thoroughly** with a plate compactor (rentable). This is the most critical step for stability and longevity. Each layer must be compacted.
     * **Wall Footing:** The sitting wall should have its own robust gravel footing, often wider and slightly deeper than the patio base, extending below the frost line in cold climates if structural integrity is paramount.
 
 3.  **Building the Sitting Wall:**

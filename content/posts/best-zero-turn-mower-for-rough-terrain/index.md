@@ -168,6 +168,6 @@ In addition to the above factors, consider the relative prices of competing prod
 The Husqvarna MZ261 is the best zero-turn option offering a combination of superior mowing quality and ability.
 This unit's back wheels provide an ergonomic grip, which is just what you need to work that yard located in rough terrain. This product provides that professional finish on your lawn with relative ease.
 ## Sources:
-1. [Steering control for�zero turn�radius�mower](https://patents.google.com/patent/US5644903A/en)
-2. [Rotary�Mowers�Safety: Lawn Care Training Guide,�Mower�Care, and Safe Use](https://vtechworks.lib.vt.edu/bitstream/handle/10919/56082/BSE-47NP.pdf?sequence=1)
-3. [Learning a�terrain�model for autonomous navigation in�rough terrain](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.225.5540&rep=rep1&type=pdf)
+1. [Steering control forzero turnradiusmower](https://patents.google.com/patent/US5644903A/en)
+2. [RotaryMowersSafety: Lawn Care Training Guide,MowerCare, and Safe Use](https://vtechworks.lib.vt.edu/bitstream/handle/10919/56082/BSE-47NP.pdf?sequence=1)
+3. [Learning aterrainmodel for autonomous navigation inrough terrain](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.225.5540&rep=rep1&type=pdf)

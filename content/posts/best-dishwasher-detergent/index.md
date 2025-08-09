@@ -53,7 +53,7 @@ The Good:
 - Convenient application
 The Bad:
 - The fragrance is too strong for some people
-## [3. #3 Pick:**Cascade Platinum� Action-Pacs Detergent for Dishwasher**](https://www.amazon.com/dp/B01NGTV4J5/?tag=p-policy-20)
+## [3. #3 Pick:**Cascade Platinum Action-Pacs Detergent for Dishwasher**](https://www.amazon.com/dp/B01NGTV4J5/?tag=p-policy-20)
 
 Dishwashing gets easier and effective when done with a powerful detergent.
 Cascade Platinum 62 count dishwasher detergent is formulated with powerful ingredients that will cut through, lift off and rinse any residue on your dishes.

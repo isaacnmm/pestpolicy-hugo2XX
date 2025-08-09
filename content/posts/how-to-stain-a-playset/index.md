@@ -12,7 +12,7 @@ tags:
 - playset
 layout: post
 ---
-In this article I will discuss step by step process of� How to Stain a Playset. If youve had your playset for more than a year its likely that youve noticed some fading, cracking, splitting, or even rotting.
+In this article I will discuss step by step process of How to Stain a Playset. If youve had your playset for more than a year its likely that youve noticed some fading, cracking, splitting, or even rotting.
 
 Your playset has endured extreme weather conditions like hot sun, rain, snow, harsh winds, and high humidity. Its no surprise that it has lost its initial attractiveness and vitality. Thus, its time to stain it and give it a fresh new look.
 
@@ -44,7 +44,7 @@ Tip: staining on damp wood will not bring you the desired results. Damp wood doe
 ### Step 2: Remove Everything except the Wood
 Playsets usually feature various plastic accessories that provide additional play activities for the kids for a fun-filled playing experience. These accessories may include swings, slides, telescopes, and steering wheels among others.
 
-You should remove all these accessories. You can also remove the canopy roof.� Just eliminate Anything that is not wood from the playset.
+You should remove all these accessories. You can also remove the canopy roof. Just eliminate Anything that is not wood from the playset.
 
 Removing all these things from the playset will make staining less difficult. Youll also know what needs to be repaired or replaced. In addition, you protect them from being messed up with the stain.
 ### Step 3: Clean the Playset
@@ -111,7 +111,7 @@ Next, attach back all the accessories you had previously removed from the playse
 You need to stain your swing set for the following reasons
 - To enhance the color and overall appearance of the swing set
 - Staining provides you a perfect opportunity to examine the safety of the swing set and pinpoint the accessories that need repair or replacements
-- Youll need to stain the swing set to enhance the longevity�of the structure
+- Youll need to stain the swing set to enhance the longevityof the structure
 ## What Kind Of Stain Do You Use On A Swing Set?
 The kind of stain that you use on your playset will determine whether youll have a successful project. The best stain for swing will protect your playset from extreme weather conditions. Hence, stains are available as oil-based or water-based.
 
@@ -147,7 +147,7 @@ However, you dont need to add a sealant frequently as you would the stain
 ## How much does it cost to stain a playset?
 One gallon of stain goes for about $45-$80 depending on the brand youre using. Youll also need brushes and a sprayer.
 
-If youll do the work alone, youll only need to buy the things needed for the staining project. However, if youll seek professional assistance, youll need to include the labor cost. Thus, set aside about �$200- $400.
+If youll do the work alone, youll only need to buy the things needed for the staining project. However, if youll seek professional assistance, youll need to include the labor cost. Thus, set aside about $200- $400.
 ## How Much Stain Do I Need For a Playset?
 Youll need 1-3 gallons depending on the size of the playset.
 

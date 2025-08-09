@@ -128,7 +128,7 @@ The KILZ L378601 comes with a sure promise to paint new life into exterior and i
 
 Its application is easy, and it fills up to 3mm into the hairline. Grease, hot tires and dirt, should not worry you much because this product is fully resistant.
 After painting, the final result is a distinct speckled coating in either grey or tan shades. To touch, you have to wait for one hour, but a recoat is applicable in three to four hours.
-Pathways should be open to light foot traffic in about 24hours, but a driveway will be ready in 72 hours.�For the best outcomes, apply the paint using an adhesive roller (a quarter an inch). Shake a single gallon well and apply it to a 50 square feet surface area.
+Pathways should be open to light foot traffic in about 24hours, but a driveway will be ready in 72 hours.For the best outcomes, apply the paint using an adhesive roller (a quarter an inch). Shake a single gallon well and apply it to a 50 square feet surface area.
 Pros:
 - Gives a distinct speckled coating
 - Delivers a textured matte finish

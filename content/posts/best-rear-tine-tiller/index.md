@@ -42,10 +42,10 @@ https://www.youtube.com/watch?v=65z13-mQ6y4
 ### [2. Poulan Pro PPCRT17, (208cc) - Husqvarna Rear Tine Tiller](https://www.amazon.com/dp/B019DY7J8O/?tag=p-policy-20)
 Poulan Pro PPCRT17 is an excellent rear tine tiller for micro farmers or home gardeners as it's powerful but not smaller.
 Its an excellent option for anyone who struggles with pushing the heavy rear tillers.
-Versatile tiller - Poulan Pro PPCRT17�tiller is a versatile piece of machine that most people will find easy to use.
+Versatile tiller - Poulan Pro PPCRT17tiller is a versatile piece of machine that most people will find easy to use.
 - Most farmers that you can operate this tiller with just one hand and from the side of this machine.
-- Counter-rotating tines - Poulan Pro PPCRT17�has counter-rotating tines that are 13 inches.
-These will easily break up all types of tough and uncultivated soil. Luckily, this has both reverse and forward modes. �You can engage the tillers reverse mode to allow simple transport of this machine.
+- Counter-rotating tines - Poulan Pro PPCRT17has counter-rotating tines that are 13 inches.
+These will easily break up all types of tough and uncultivated soil. Luckily, this has both reverse and forward modes. You can engage the tillers reverse mode to allow simple transport of this machine.
 Adjustable handle and tilling depth The tiller comes with an adjustable handle and hence itll be easy to customize to match the current tilling needs.
 In addition, you can adjust the tilling depth and speed of tilling using the depth stake.
 LCT Over Head Valve Engine  This rear tiller engine on the Poulan Pro PPCRT17 will run cleaner and cooler compared to other engine types n- and thus has a longer life span besides that youll love its pleasant operation.
@@ -103,7 +103,7 @@ Therefore, rear-tine tillers are more recommended for grounds that have heavy so
 Rear-tine tillers will plow the hard ground and leave you with soft soil thatll effectively be receiving your seedling, fertilizer, mulch, and seeds. You can achieve all this without breaking your back.
 ### 2. Front Tine Tillers
 Front Tine Tillers are suitable for any garden or lawn owner who needs to break up loosely bound soil  particularly loamy soil thats soft while also adding compost. These ones will be very easy to push through the loose soil.
-## How to Pick the�Best Rear Tine Tillers
+## How to Pick theBest Rear Tine Tillers
 Gardening can be an excellent part-time or full-time activity  either for leisure or for revenue generation.
 - However, to make beds, rows, or generally dig the rocky or rough soil, youll need a good tiller.
 Of course, using a spade or shovel will be difficult but with a tiller, youll save time, money, and effort. But how do you select your ultimate tiller?
@@ -113,21 +113,21 @@ Rear tine tillers will either have a counter-rotation or forward rotation mechan
 - These counter-rotating tines are effective in mixing up the soil such as clay on compact grounds. Therefore, I would recommend this tiller for new ground including yards, gardens, and beds.
 - Forward rotation tines  The tines will be rotating in a similar direction to that taken by the tillers wheels. Such a rotation direction also assists in losing up soil and breaking up roots and weeds  which will be ready for sowing.
 - Dual rotating tillers - Hint: A tiller with both counter-rotating plus forward tines is an excellent choice if youre planning to use the machine for different soils types of terrains. This one combines both the counter-rotation and forward rotation tines.
-### 2.�Tiller power
+### 2.Tiller power
 Definitely, tillers  including these rear-tine tillers, will display power over horsepower on their engine rating. This is unlike in other garden tools that are engine-powered. Heres what engine size to pick:
 - For clay soil and compact new ground  For this kind of ground that was not recently upturned, you should pick an engine with a 200cc+ engine power capacity size (this would include 350cc or 500cc).
 - This will readily break up the compact soil, roots, and heavy obstacles to leave you with smooth soil ready for sowing. NB: cc, in this case, denotes cubic centimeters.
 - For land thats tilled regularly, particularly annually, you may pick an engine with 100 to 180cc engine power capacity size.
-### 3.�Tine depth
+### 3.Tine depth
 Most of us gardeners already know this but generally tilling at a depth of about 4-6 inches is adequate for most crop types.
 This is particularly so for ground thats not new. However, for new ground or garden, youll require the tilling depth to be a few inches longer than 6 inches.
 While choosing your tiller, I would recommend one thatll give you 6 inches tilling depth if its for new ground or a garden that has heavy soil  this will give your seedlings and plants adequate aeration and growth space of their roots.
-### 4.�Tilling width
+### 4.Tilling width
 These tillers will have a tilling width that ranges from 10 inches (25 centimeters) to about 20 inches (50 centimeters).
 Definitely, its not possible to change a large-width tined tiller for use in smaller spaces  and thus its important to check your tilling width requirement.
 - Wider tilling width- Therefore, for the small-width rear-tine tillers, the gardener will require to make much more turns while tilling their land since the width is small. This will be great if youre working on rectangular beds or uniform spaces.
-- Narrow tilling width� This will be the tillers whose tilling with is around 10 inches. Itll be great for irregularly shaped, curved, or decorative gardens. Your tilling width will vary on the number of tiller tines  definitely many will come with a width of 24 inches.
-### 5.�Tiller Torque
+- Narrow tilling width This will be the tillers whose tilling with is around 10 inches. Itll be great for irregularly shaped, curved, or decorative gardens. Your tilling width will vary on the number of tiller tines  definitely many will come with a width of 24 inches.
+### 5.Tiller Torque
 The rear tine tiller will require significantly high torque to rotate the tines  which is generally a derivative of the power of the machine.
 - Therefore, choose a tiler that has higher torque as itll easily shred down all the hard soil, roots, and mulch thats in your garden. Typically, the best rear tine tillers will have their torque ranging from 8 to 10 lb. per ft.
 ### 6. Tiller tires and tread size

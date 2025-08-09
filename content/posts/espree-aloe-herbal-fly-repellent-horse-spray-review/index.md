@@ -18,7 +18,7 @@ Espree Aloe Herbal (one of the
 **reliable spray for horses**
 ) is a horse fly repellent contains Aloe Vera and botanical oils, which are natural ingredients.
 - Also, it has conditioner and sunscreen to protect the coat of your horse.
-- The unique aspects of this�Espree horse fly repellent come ready to use and thus won't require additional mixing and have sunscreen and naturalAloe Vera.
+- The unique aspects of thisEspree horse fly repellent come ready to use and thus won't require additional mixing and have sunscreen and naturalAloe Vera.
 
 Espree was invented by Teri Payne Jones in 1989, who loved Aloe Vera natural ingredients and his horses. Therefore, Teri was directly involved in the development of care for horses, which created maximum satisfaction in his career.
 ## Natural Aloe ingredients
@@ -34,7 +34,7 @@ Its scent is heavenly, which you and your horse will love. Notably, the great sm
 Previously, I had used several fly repellents for my equine friend. I would avoid any fly repellent that had relatively toxic chemicals. Sadly, all the repellents I used would not work effectively in repelling the horse flies.
 Finally, your horse's coat will be left shinning even more and won't make it fade in any way as would with other fly repellents.
 But, with this Espree Aloe Herbal, the horses can peacefully feed on their hay or graze around with no disturbance from the flies. I also noted that the horse no longer has marks of fly bites on their legs.
-## No allergic�Chrysanthemums or�pyrethrin
+## No allergicChrysanthemums orpyrethrin
 Some of us horse owners are allergic to some active ingredients in chemical fly repellents such as Chrysanthemums or pyrethrin. Luckily, this Espree Aloe Herbal gives horse owners a natural alternative that human beings and horses will love.
 Despite having natural active ingredients, this Espree Aloe Herbal repellent is considerably effective in repelling the flies from your horse. Luckily, the product leaves the horse's fur in a greatly smelling, shiny, and soft condition that most of us, the horse owners, love.
-Also, being a natural horse fly solution, you won't worry about using it around your kids or pets.� Espree Aloe Herbal won't poison them since it's naturally created with no chemicals.
+Also, being a natural horse fly solution, you won't worry about using it around your kids or pets. Espree Aloe Herbal won't poison them since it's naturally created with no chemicals.

@@ -145,7 +145,7 @@ Cons:
 - High maintenance due to the high engine speed and power, which increases gas usage.
 
 *Related: Best Riding Lawn Mower for Tall Grass*
-## **Considerations for Best Riding Lawn Mower in Rough Terrain�**
+## **Considerations for Best Riding Lawn Mower in Rough Terrain**
 Youll need to
 [find a mower](https://pestpolicy.com/how-to-choose-a-riding-lawn-mower/)
 that is durable and well-built, one which will not loosen up and jam when it comes across little obstacles.
@@ -170,7 +170,7 @@ No transmission system is perfect. Each comes with advantages and disadvantages.
 A warranty is a guarantee that the manufacturer has confidence in his product. When you go for a riding lawn mower, go for a manufacturer that gives a long-term warranty for their product. A few of the above riding lawn mowers come with a minimum of two years' warranty.
 Getting a product on warranty will also save you potential costs that you would have incurred without the guarantee. Manufacturers' defects will always happen.
 A warranty is there to safeguard you as a consumer, as well as build the reputation of the manufacturer. A manufacturer will not issue a warranty on a riding lawn mower that is faulty, as it will cost them.
-## **Conclusion�**
+## **Conclusion**
 Maintenance is the crucial link between you and a well-working riding lawnmower.
 - So, sharpen the blades at least twice a year and ensure that you do not use them on wet grass to avoid the grass clamping the edges.
 With the best riding lawn mowers at your disposal, youll achieve a beautiful, welcoming lawn in your home, no matter how rugged the terrain is.

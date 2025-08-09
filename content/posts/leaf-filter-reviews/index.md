@@ -80,7 +80,7 @@ LeafFilter primarily focuses on providing and installing their proprietary gutte
 
 ---
 
-## What Is LeafFilter�s Installation Process?
+## What Is LeafFilters Installation Process?
 
 LeafFilter's installation process is handled by trained professionals and is designed to be efficient and secure:
 

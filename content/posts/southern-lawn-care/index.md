@@ -20,7 +20,7 @@ Navigating the nuances of warm-season grass care requires a seasonal approach, a
 
 ## Caring for Warm Season Grasses
 
-Warm-season grasses are the backbone of Southern lawns, characterized by their vigorous growth in temperatures between 75-95�F (24-35�C) and their ability to withstand the region's often intense heat and humidity. They spread by stolons (above-ground runners) and/or rhizomes (underground runners), creating a dense, durable turf.
+Warm-season grasses are the backbone of Southern lawns, characterized by their vigorous growth in temperatures between 75-95F (24-35C) and their ability to withstand the region's often intense heat and humidity. They spread by stolons (above-ground runners) and/or rhizomes (underground runners), creating a dense, durable turf.
 
 Common warm-season grasses in the South include:
 
@@ -36,10 +36,10 @@ Key characteristics for all warm-season grasses: they go dormant (turn brown) du
 
 Spring is a critical time for Southern lawns as warm-season grasses emerge from dormancy and begin their active growth cycle.
 
-* **Scalping (Late Winter/Early Spring):** Once temperatures consistently reach 60-65�F (15-18�C) and the grass shows signs of green-up, consider scalping (mowing at your mower's lowest setting). This removes dead leaf blades, allows sunlight to penetrate the soil for quicker green-up, and prepares the lawn for new growth. Remove all clippings.
-* **Dethatching & Aeration:** If your lawn has a thick thatch layer (over � inch) or compacted soil, late spring (after active green-up) is the ideal time to dethatch and core aerate. This improves air, water, and nutrient penetration.
+* **Scalping (Late Winter/Early Spring):** Once temperatures consistently reach 60-65F (15-18C) and the grass shows signs of green-up, consider scalping (mowing at your mower's lowest setting). This removes dead leaf blades, allows sunlight to penetrate the soil for quicker green-up, and prepares the lawn for new growth. Remove all clippings.
+* **Dethatching & Aeration:** If your lawn has a thick thatch layer (over  inch) or compacted soil, late spring (after active green-up) is the ideal time to dethatch and core aerate. This improves air, water, and nutrient penetration.
 * **Fertilization (Late Spring):** Wait until your lawn has fully greened up and resumed active growth (usually late April to May) before applying your first fertilizer. Use a balanced, slow-release granular fertilizer, often with higher nitrogen content. A soil test is highly recommended to determine specific nutrient needs.
-* **Weed Control (Pre-Emergent):** Apply a pre-emergent herbicide in late winter or early spring (when soil temperatures are consistently 50-55�F / 10-13�C) to prevent summer annual weeds like crabgrass, goosegrass, and spurge from germinating. Follow label instructions carefully.
+* **Weed Control (Pre-Emergent):** Apply a pre-emergent herbicide in late winter or early spring (when soil temperatures are consistently 50-55F / 10-13C) to prevent summer annual weeds like crabgrass, goosegrass, and spurge from germinating. Follow label instructions carefully.
 * **Pest Prevention:** Be vigilant for early signs of common spring pests like mole crickets or spring armyworms. Address immediately if detected.
 
 ## Caring for Your Southern Lawn in Summer
@@ -59,7 +59,7 @@ Fall is a critical transition period for Southern lawns, as warm-season grasses 
 * **Fertilization (Late Summer/Early Fall):** Apply a final fertilizer application in late August or early September. This should be a balanced fertilizer, possibly with a slightly higher potassium content to aid in winter hardiness. Avoid heavy nitrogen applications as temperatures begin to drop, as this can encourage new growth that is susceptible to cold damage.
 * **Weed Control (Post-Emergent & Pre-Emergent):**
     * **Post-Emergent:** Treat actively growing broadleaf weeds (like clover, dandelion) in early fall when they are most susceptible.
-    * **Pre-Emergent:** Apply a pre-emergent herbicide in mid to late fall (when soil temperatures drop below 70�F / 21�C) to prevent cool-season annual weeds like Poa annua (annual bluegrass) and henbit from germinating in winter.
+    * **Pre-Emergent:** Apply a pre-emergent herbicide in mid to late fall (when soil temperatures drop below 70F / 21C) to prevent cool-season annual weeds like Poa annua (annual bluegrass) and henbit from germinating in winter.
 * **Aeration (Early Fall):** If you didn't aerate in spring and your lawn suffers from compaction, early fall is another excellent time to do so.
 * **Leaf Management:** Rake or mulch fallen leaves regularly. A thick layer of leaves can smother grass, block sunlight, and create conditions favorable for disease.
 * **Reduce Mowing Frequency:** As growth slows, gradually reduce mowing frequency. Raise your mowing height slightly for the last few cuts of the season.
@@ -91,7 +91,7 @@ For homeowners seeking professional help with their Southern lawn, **TruGreen** 
 
 **Why TruGreen for Southern Lawns:**
 * **Tailored Programs:** TruGreen's plans (like TruHealth, TruComplete, or TruSignature) are specifically designed to meet the seasonal needs of different grass types, including St. Augustine, Bermudagrass, Zoysiagrass, and Centipedegrass. Their programs adjust fertilization and weed/pest control to the unique growing cycles of warm-season turf.
-* **Expert Knowledge:** TruGreen employs agronomists and highly trained technicians who understand the specific challenges of Southern climates � from intense heat and humidity to unique regional pests (like chinch bugs in Florida) and diseases (like brown patch).
+* **Expert Knowledge:** TruGreen employs agronomists and highly trained technicians who understand the specific challenges of Southern climates  from intense heat and humidity to unique regional pests (like chinch bugs in Florida) and diseases (like brown patch).
 * **Comprehensive Solutions:** Beyond basic feeding, TruGreen addresses common Southern lawn issues like grubs, fire ants, chinch bugs, and specific weeds prevalent in the region. They also offer crucial services like aeration and overseeding to combat compaction and thinness.
 * **Convenience:** Their scheduled, year-round applications ensure your lawn receives consistent care at the optimal times, taking the guesswork and labor off your hands.
 * **Healthy Lawn Guarantee:** Their commitment to re-servicing your lawn between visits if issues arise provides a strong peace of mind, especially when dealing with the unpredictable nature of Southern weather and pest cycles.
@@ -101,7 +101,7 @@ While local providers may offer personalized service, TruGreen's national scale,
 ## FAQs About Caring For a Southern Lawn
 
 **Q1: What's the biggest mistake Southern homeowners make with their lawns?**
-A1: The biggest mistake is often improper watering � either too little (leading to stress and dormancy) or too much (leading to root rot and disease). Another common mistake is applying fertilizer at the wrong time, especially too much nitrogen in late fall, which can damage the grass during winter.
+A1: The biggest mistake is often improper watering  either too little (leading to stress and dormancy) or too much (leading to root rot and disease). Another common mistake is applying fertilizer at the wrong time, especially too much nitrogen in late fall, which can damage the grass during winter.
 
 **Q2: Should I overseed my warm-season lawn with ryegrass for winter green-up?**
 A2: While some homeowners do this for aesthetics, it's generally not recommended for the long-term health of your warm-season grass. The cool-season ryegrass competes with the warm-season grass for nutrients and water in spring, delaying its green-up and potentially weakening it. If you choose to overseed, use annual ryegrass, which dies out more easily in spring.
@@ -113,4 +113,4 @@ A3: This is a common confusion. Drought-stressed grass will recover with water. 
 A4: During the peak growing season (summer), warm-season grasses typically require mowing weekly, sometimes even twice a week for aggressive growers like Bermudagrass. Always follow the "one-third rule," never removing more than one-third of the blade length at once, to avoid stressing the grass.
 
 **Q5: When should I apply weed killer to my Southern lawn?**
-A5: For **pre-emergent** control of summer annual weeds (like crabgrass), apply in late winter/early spring when soil temps reach 50-55�F. For **post-emergent** control of existing broadleaf weeds, apply in early to mid-fall when weeds are actively growing but before a hard freeze. Always use products safe for your specific grass type.
+A5: For **pre-emergent** control of summer annual weeds (like crabgrass), apply in late winter/early spring when soil temps reach 50-55F. For **post-emergent** control of existing broadleaf weeds, apply in early to mid-fall when weeds are actively growing but before a hard freeze. Always use products safe for your specific grass type.

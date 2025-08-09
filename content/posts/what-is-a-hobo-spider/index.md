@@ -122,7 +122,7 @@ where it is not dark or damp:
 - Eliminate their food sources by keeping vegetation trimmed back from foundations of buildings and sidewalks;
 - Place sticky traps in areas of high-traveling activity near exterior walls.
 ## Can a hobo spider kill a Dog or Cat?
-Recent studies shoes that hobo spider�bites aren't harmful or won't kill your cat or dog; this is unlike the case with
+Recent studies shoes that hobo spiderbites aren't harmful or won't kill your cat or dog; this is unlike the case with
 **brown recluse and the **
 black widow that's fatal to pets and humans.
 

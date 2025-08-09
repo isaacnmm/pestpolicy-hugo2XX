@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 So, when do mosquitoes come [out](https://pestpolicy.com/how-to-grow-knock-out-roses/)? Naturally, mosquitoes tend to go during certain times of the day or season. Knowing their most active time or season presents an excellent opportunity to prevent bites or diseases they come with. So, when do mosquitoes come out?
-*Well, mosquitoes will come out either during the day or night, depending on the species. However, they often avoid the scorching midday sunlight to prevent dehydration. Besides, they remain active in the warmer months and hibernate during winter.�*
+*Well, mosquitoes will come out either during the day or night, depending on the species. However, they often avoid the scorching midday sunlight to prevent dehydration. Besides, they remain active in the warmer months and hibernate during winter.*
 But its possible to have mosquitoes in indoor
 [spaces during the winter season](http://vectorbio.rutgers.edu/outreach/habitat.php)
 because its warmer inside there. Thus it would help if you were prepared with mosquito repellents during winter to keep off those that come indoors to escape low temperatures out there.
@@ -23,9 +23,9 @@ because its warmer inside there. Thus it would help if you were prepared with mo
 ## When Do Mosquitoes Come Out? Most Active?
 Plus, it would be best to get rid of possible mosquito breeding areas such as
 standing water
-.�Read Also:
+.Read Also:
 Bed Bug Bites Vs. Mosquito Bites
-.�The time of the day that mosquitoes come out to varies from one species to another.
+.The time of the day that mosquitoes come out to varies from one species to another.
 Out of the 176 recognized mosquito species in the U.S, only two are regarded as the most common. These include Culex Pipiens (common house mosquito) and the Aedes Aegypti (Asian tiger).
 The Aedes usually come out during the day. They tend to be active from the morning up to late afternoon when they aggressively
 bite humans like fleas
@@ -41,7 +41,7 @@ https://www.youtube.com/watch?v=fhmgAelTXmk
 Well, you might have heard or come across some literature about mosquito season. These are times of the year when youre likely to experience maximum mosquito presence or bites. But does it have to do with the seasons?
 Its something to do with the temperature levels and not the season. Since mosquitoes are cold-blooded creatures, their activity is affected by the temperature in their surroundings. Naturally, their action tends to be at the highest during the warm summer season.
 Mosquitoes begin to become active above 10C, often reaching full activity when temperatures reach 26C and above.
-Thus you expect higher chances of bites and infections from mosquitoes during such conditions.�However, as temperatures escalate, mosquitoes go into hiding to escape dehydration.
+Thus you expect higher chances of bites and infections from mosquitoes during such conditions.However, as temperatures escalate, mosquitoes go into hiding to escape dehydration.
 Winter seasons are worst for mosquitoes. When temperatures fall below 10C, they result in hibernation, and a period often referred to as diapause. During this period, youre less likely to experience mosquito bites.
 Read Also:
 Best Mosquito Killer
@@ -81,7 +81,7 @@ Read Also:
 Best Mosquito Trap
 ## **Conclusion**
 The winter season brings a lot of relief from mosquito bites and illnesses. That because mosquitoes tend to hibernate from the cold weather.
-But once the winter is over, you need to get prepared to protect yourself and your family from the resurgence of mosquitoes.�Armed with the above knowledge and tips, you dont have to abandon your routines for fear of mosquitoes.
+But once the winter is over, you need to get prepared to protect yourself and your family from the resurgence of mosquitoes.Armed with the above knowledge and tips, you dont have to abandon your routines for fear of mosquitoes.
 However, more considerable precautions are necessary when outdoors. Besides clearing hiding and breeding areas, you can use repellents and wear long-sleeved
 clothes to prevent bites
 .

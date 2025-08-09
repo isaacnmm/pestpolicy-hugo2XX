@@ -29,8 +29,8 @@ Heated gutter guards typically integrate self-regulating heat cables directly in
     * **Pros:** Top-tier debris protection, highly effective ice prevention, professional installation, robust **lifetime transferable warranty** with a no-clog guarantee.
     * **Cons:** Premium price point, electricity consumption during winter.
 
-2.  **Gutter Helmet with Helmet Heat�:**
-    * **Why it's a top pick:** Gutter Helmet's unique reverse-curve design excels at shedding leaves and heavy debris. When paired with their **Helmet Heat� system**, an insulated, self-regulating heat cable is integrated within the gutter cover. This system ensures that the gutter opening and interior remain free of ice, allowing water to flow freely even in freezing conditions.
+2.  **Gutter Helmet with Helmet Heat:**
+    * **Why it's a top pick:** Gutter Helmet's unique reverse-curve design excels at shedding leaves and heavy debris. When paired with their **Helmet Heat system**, an insulated, self-regulating heat cable is integrated within the gutter cover. This system ensures that the gutter opening and interior remain free of ice, allowing water to flow freely even in freezing conditions.
     * **Pros:** Extremely durable aluminum construction, effective at shedding large debris and preventing ice, professional installation, strong warranties.
     * **Cons:** Can be expensive, less effective at blocking fine debris (like pine needles) compared to micro-mesh, potential for overshooting in extreme rain on steep roofs.
 
@@ -56,7 +56,7 @@ Heated gutter guards typically integrate self-regulating heat cables directly in
 | Company | Gutter Guard Type | Heating Integration | Primary Benefit | Installation | Average Cost (per linear foot, installed)\* | Warranty (Gutter Guard / Heating) |
 | :------------------------ | :---------------------------- | :------------------------------ | :------------------------------- | :------------- | :----------------------------------------- | :------------------------------------------ |
 | **LeafFilter** | SS Micro-Mesh on uPVC frame | Integrated Heat Cable | Ultimate debris & ice prevention | Professional | $25 - $60+ | Lifetime Transferable (No-Clog) / Product |
-| **Gutter Helmet** | Reverse Curve (Solid Aluminum) | Integrated Helmet Heat� Cable | Heavy-duty debris & ice prevention | Professional | $30 - $70+ | Lifetime Performance / Product |
+| **Gutter Helmet** | Reverse Curve (Solid Aluminum) | Integrated Helmet Heat Cable | Heavy-duty debris & ice prevention | Professional | $30 - $70+ | Lifetime Performance / Product |
 | **Edge Melt Systems** | Aluminum Screen/Cover | Multiple Heat Cables (Self-Reg) | Specialized Ice Dam Prevention | Professional | Varies widely ($40 - $100+) | Varies (often 10-30 years on components) |
 | **Klean Gutter** | SS Micro-Mesh on Expanded Metal | Compatible (often separate) | Durability, Cold Climate Perf. | Professional/DIY | $25 - $55+ | Varies (often 25-Year) / Manufacturer |
 | **Raptor Micro-Mesh** | SS Micro-Mesh on Aluminum Frame | DIY Heat Cable Compatible | DIY-friendly, cost-effective | DIY | $2 - $4 (guard only) + $1-$6 (cable) | 25-Year Product / Manufacturer (for cable) |

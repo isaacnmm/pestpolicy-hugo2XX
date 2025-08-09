@@ -22,13 +22,13 @@ bumblebees-vs-bumblebee/)
 , hornets, & wasps (
 check wasp sprays
 ) survive after stinging, but bees die after stinging.
-*In summary, on size - wasps are 1/2 inch to 1 inch in length, but hornets a longer while bees are 2/25 inches (2 mm) to 77/50 (39 mm) - leaf-cutter�bee.�*
-*On color - hornets have white and black rings or yellow and black rings, but wasps have yellow and black rings. Bees are golden-colored - yellow or black but may also be purple, blue, green, orange, and red.�*
+*In summary, on size - wasps are 1/2 inch to 1 inch in length, but hornets a longer while bees are 2/25 inches (2 mm) to 77/50 (39 mm) - leaf-cutterbee.*
+*On color - hornets have white and black rings or yellow and black rings, but wasps have yellow and black rings. Bees are golden-colored - yellow or black but may also be purple, blue, green, orange, and red.*
 
 ## Bees vs. Wasps vs. Hornets - 7 Key Differences?
 Well, wasps (non-furry insects) are carnivores, while bees are furry and will east flower pollen to produce honey. Check these
 sprays for yellow jackets.
-### **1. ****Color�**
+### **1. ****Color**
 **Bee:**
 The color of bees can range between yellow and black, depending on the species. But
 [honey bees share different traits](https://askabiologist.asu.edu/honey-bee-anatomy)
@@ -83,7 +83,7 @@ Bees are less aggressive than both wasps and hornets - but
 **Wasp:**
 Wasps are more aggressive than bees but not as aggressive as hornets. Like others in the Vespidae family, they can sting several times, each time withdrawing their stinger from the victim.
 [Wasps may also sting](https://www.healthline.com/health/wasp-sting)
--�they usually sting when provoked or defending their nests.
+-they usually sting when provoked or defending their nests.
 **Hornet:**
 Hornets are very quick at stinging. They will sting at the slightest provocation. They belong to the Vespidae family, whose stingers are not barbed. That means they can sting several times because of the ability to withdraw their stinger.
 A hornet sting inflicts a lot of pain and can sometimes lead to fatal allergic reactions in some individuals.

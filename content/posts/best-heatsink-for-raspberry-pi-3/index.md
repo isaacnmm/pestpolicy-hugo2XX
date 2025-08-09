@@ -59,7 +59,7 @@ Easycargo 15 pcs Raspberry Pi Heatsink Al + Cu is compatible with Pi 3, Pi 2, an
 - They have a short profile to fit in the standard Pi cases. Can cool IC Chips, regulators, processors.
 The Games&Tech heatsink has a thermal adhesive layer that will make it easy to install on the Pi 3 board.
 However, make sure that the chip modules do not have grease and dirt. Finally, remove the guard line and press it on the chip modules.
-The heatsink will fit the RAM/CPU, Power, and Network chips of your Raspberry Pi.�Applying the heatsink on your Raspberry Pi will ensure that the device is cold in the overclocking mode.
+The heatsink will fit the RAM/CPU, Power, and Network chips of your Raspberry Pi.Applying the heatsink on your Raspberry Pi will ensure that the device is cold in the overclocking mode.
 Read Also:
 Power Supply for Raspberry Pi 3
 ### [5. SainSmart Copper Heatsink Cooler 3 Set](https://www.amazon.com/dp/B00IR72LJQ/?tag=p-policy-20)

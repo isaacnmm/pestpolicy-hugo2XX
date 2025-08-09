@@ -34,7 +34,7 @@ Read Also:
 SD card for Raspberry Pi 3
 ### [2. [2 Year Warranty] Avantree 4.0 Adapter](https://www.amazon.com/dp/B00VWEK4IG/?tag=p-policy-20)
 The adapter dimensions are 0.9 in x 0.5 in x 0.2 in; Producer:
-**�**
+****
 Avantree. Avantree USB Bluetooth 4.0 Adapter is a dual-mode Bluetooth 4.0 (Low energy and classic).
 As opposed to the Rocketek LE USB Bluetooth 4.0 Adapter above, Avantree USB Adapter is a class 1 device that supports a 50 -100m range (depending on antennae efficiency).
 Using the CSR Harmony Bluetooth stack, the Avantree USB Bluetooth adapter for windows 10 supports most of the present-day Bluetooth profiles.
@@ -74,8 +74,8 @@ If you do not wish to use the installation CD, you can easily download the
 [AC600Mbps USB Adapter drivers](https://goo.gl/INhAVQ)
 .
 For the Mac OS X 10.12 users, kindly utilize Mac OS X 10.6-10.11 driver for an active adapter installed in your device.
-## **Choosing the Best Bluetooth Adapter for Windows 10�**
-### **1. Compatibility:�**
+## **Choosing the Best Bluetooth Adapter for Windows 10**
+### **1. Compatibility:**
 Luckily, we have conducted an internet search and conducted tests for the Best USB Bluetooth adapter for windows 10. Also, note that the dongle is plug-and-play on Windows 10 PC. Check
 [Windows 10 Music player](https://pestpolicy.com/best-music-player-for-windows-10-free-download/)
 .
@@ -96,6 +96,6 @@ Also, class 1 devices will consume more power to transfer data signals on a more
 Your class 1 Bluetooth adapter will require a larger and more powerful antennae connection compared to the class 2 adapter.
 However, you should know that the class 1 adapter has an internal antenna that significantly improves its range and functioning.
 Among the key issues, you should consider while selecting a Bluetooth dongle for your Windows 10 include (1) Compatibility (2) Range (3) Class, and (4) Coverage Range.
-## **Conclusion�**
+## **Conclusion**
 Selecting an appropriate Bluetooth adapter for your Windows 10 will make your life easier in creating a piconet.
 Further, you'll reduce the number of wires running on your work desk and save energy.

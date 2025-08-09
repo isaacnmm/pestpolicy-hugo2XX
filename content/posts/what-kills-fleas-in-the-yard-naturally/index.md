@@ -51,7 +51,7 @@ y is this important for safety reasons, but it will also ensure you get the best
 - Always read the ingredi
 ents, instructions, and warning labels carefully. Some sprays are made with natural ingredients and may be safe to use around your pets.
 With other sprays, you'll need to remove your pet first before spraying and also wait until it dries completely before bringing pets back into the Yard.
-Whether it's also effective before the adult stage:�For the best results, you want to use sprays that get to the source of the problem: flea eggs, larvae, and pupae.
+Whether it's also effective before the adult stage:For the best results, you want to use sprays that get to the source of the problem: flea eggs, larvae, and pupae.
 ## Can Fleas Infest My Yard?
 Definitely, Yes! Fleas will readily infest and multiply in your yards or lawns as they have a favorable environment. But you can effectively cut down on the number and frequency of flea attacks in the Yard by trimming vegetation, tree branches, and grass.
 Trimming the excessive foliage will cut down on the available dark areas that you'll see in your garden or lawn. This significantly cuts down on the favorable shady conditions needed by fleas larvae to survive. In the short term, I recommend using chemical flea treatment as some may not exterminate the flea larvae and eggs.

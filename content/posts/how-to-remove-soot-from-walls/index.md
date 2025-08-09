@@ -121,7 +121,7 @@ Besides, the solvent kills adhesive forces between soot and wall surface thus en
 https://www.youtube.com/watch?v=Igfp7aqeSTA
 ## Best Homemade Soot Remover from Wall
 You can consider using either of the following homemade soot removers for your soot cleaning process:
-### Method 1:�Using Vinegar  White Vinegar
+### Method 1:Using Vinegar  White Vinegar
 Vinegar breaks both old and recent soot and kills the surface adhesive force upon application. But high vinegar concentration may damage painted walls.
 **Tools and Materials required**
 - Vinegar and sponge

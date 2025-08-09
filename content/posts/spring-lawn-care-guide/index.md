@@ -15,7 +15,7 @@ tags:
 - lawn
 layout: post
 ---
-After the dormancy of winter, spring brings the promise of renewal � and for your [lawn](https://pestpolicy.com/10-essential-lawn-and-garden-tools-for-fall/), it's the most critical season for setting the stage for a lush, healthy year. The actions you take in [spring](https://pestpolicy.com/spring-green-lawn-care/) directly impact your lawn's resilience against summer stresses, its ability to fight off weeds and diseases, and its overall vibrant appearance.
+After the dormancy of winter, spring brings the promise of renewal  and for your [lawn](https://pestpolicy.com/10-essential-lawn-and-garden-tools-for-fall/), it's the most critical season for setting the stage for a lush, healthy year. The actions you take in [spring](https://pestpolicy.com/spring-green-lawn-care/) directly impact your lawn's resilience against summer stresses, its ability to fight off weeds and diseases, and its overall vibrant appearance.
 
 Spring lawn care isn't a one-size-fits-all approach; it depends on your grass type (cool-season or warm-season), your local climate, and the specific condition of your lawn after winter. However, by understanding the fundamental principles and implementing key practices, you can awaken your lawn from its winter slumber and prepare it for a season of vigorous growth and beauty.
 
@@ -76,7 +76,7 @@ Follow these steps to give your lawn the best possible start in spring:
 
 * **When:** As soon as the grass begins to grow and dries out enough to avoid clumping.
 * **Why:** Begin mowing at the highest recommended setting for your grass type ($3-4$ inches or more). Taller grass blades promote deeper root growth, shade the soil to conserve moisture, and help suppress weeds.
-* **How:** Always follow the "one-third rule" � never remove more than one-third of the blade's height in a single mow.
+* **How:** Always follow the "one-third rule"  never remove more than one-third of the blade's height in a single mow.
 * **Mulch Clippings:** Leave grass clippings on the lawn. They return valuable nutrients and organic matter to the soil, acting as a natural, free fertilizer.
 
 ### 7. Sharpen Mower Blades

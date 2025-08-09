@@ -21,7 +21,7 @@ At times, you may even find yourself dislodging cement particles in the process 
 *Here's how to remove spray paint from concrete - using TSP, Graffiti remover, soapy detergent & water, sandblaster, power washer, or paint stripper/thinner. These methods eliminate both wet and dried paint. *
 *
 *
-*However, some oil-stained concrete will need thinning or a solvent oil-soluble to clean the oil-layer before the paint removal process begins.�*
+*However, some oil-stained concrete will need thinning or a solvent oil-soluble to clean the oil-layer before the paint removal process begins.*
 Alternatively, you can use commercially available spray paint removers such as
 [Motsenbocker's Lift Off](https://www.amazon.com/dp/B0013CFNKG/?tag=p-policy-20)
 ,
@@ -38,7 +38,7 @@ The use of TSP (
 ) is one of the most efficient ways to guarantee a perfect finish if proper procedure is followed.
 Material Required
 - TSP (liquid or powder form) and warm, clean water
-- Stiff bristle brush and hose pipe for� outdoors removal
+- Stiff bristle brush and hose pipe for outdoors removal
 - 1-gallon water bucket and pop or rag for indoors painting removal
 - 5-gallon water bucket and protective gear  goggles, face mask, gloves, etc.
 Procedure to Follow
@@ -60,7 +60,7 @@ These products are manufactured in forms such as trigger sprayers, aerosol cans,
 Material Required
 - Graffiti remover and 1-gallon water bucket
 - Scrub brush with stiff bristles and clean, warm water
-- Heavy-duty absorbent cloth and� garden hose pipe for outdoors painting removal
+- Heavy-duty absorbent cloth and garden hose pipe for outdoors painting removal
 - Mop/rag and water bucket for indoors painting removal
 - Protective gear, e.g., gloves, respirator, overall, goggles, etc.
 Procedure to follow
@@ -164,10 +164,10 @@ You can remove graffiti and other stains such as oil stains, molds, or animal st
 ### [2. BHA Easy-Strip](https://www.amazon.com/dp/B087YYM2HQ/?tag=p-policy-20)
 BHA Strip is an abrasive design paint removal that features finely packed brush leave that integrates extra coarse silicon carbide abrasive grains  durable.
 The wide range diameter (4-1/2 inch paint stripper drum) allows simple clamping during paint removal without much hassle. Indeed, the product is self-locking and delivers excellent abrasion grip during paint removal without spinning.
-BHA Strip is lightweight and durable. Its unique back filler design allows fine polishing. This product can also be used in �Weld Cleaning, Body Filler, Removing Rust, Bondo, or Sealant.
+BHA Strip is lightweight and durable. Its unique back filler design allows fine polishing. This product can also be used in Weld Cleaning, Body Filler, Removing Rust, Bondo, or Sealant.
 ### [3. Sunnyside Corporation 65664 Paint & Varnish Remover](https://www.amazon.com/dp/B000TUHPAY/?tag=p-policy-20)
 Sunnyside is solvent type spray paint remover that features strong, quick-acting natural agents, which break paint molecular bonds instantly upon applications.
-Sunnyside is convenient to use and comes with a non-drip formula that allows horizontal applications without runs. �This compound is packed in a large container (wide coverage) that is highly portable and easier to refill.
+Sunnyside is convenient to use and comes with a non-drip formula that allows horizontal applications without runs. This compound is packed in a large container (wide coverage) that is highly portable and easier to refill.
 Besides, Sunnyside integrates high penetrant substrates that break thick layers sufficiently. Moreover, this solvent is non-flammable and works for both oil & water-based paint during removal.
 ## How to Paint Concrete
 During the paint application process, you will need to follow the procedure highlighted below to achieve an excellent finish.

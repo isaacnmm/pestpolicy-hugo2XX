@@ -25,7 +25,7 @@ bed bugs can't bite through clothing-bite-through-clothing/)
 , and
 [bed bugs can't jump or fly](https://pestpolicy.com/do-bed-bugs-jump/)
 .
-## Pictures of Bed Bug Bites? Stings, Allergies? -� What Do Bed Bug Bites Look Like?
+## Pictures of Bed Bug Bites? Stings, Allergies? - What Do Bed Bug Bites Look Like?
 The bites are usually found on the body parts that are
 exposed to the bed bugs
 while you sleep. These could be the neck, hands, shoulders, legs, arms, and face. Though not the usual case,
@@ -81,7 +81,7 @@ In most instances, one would feel
 improvement from bed bug bites
 within one to two weeks. This is a process that happens naturally.
 However, if you want to rid of the symptoms sooner, you might consider doing the things listed below.
-- Use anti-itch cream so that you stop feeling the itchiness.�Also, you canapply calamine lotion to the bed bugbites. Find out the best cream that will not affect your skin due toside effects.
+- Use anti-itch cream so that you stop feeling the itchiness.Also, you canapply calamine lotion to the bed bugbites. Find out the best cream that will not affect your skin due toside effects.
 - Use an oral[antihistamine](https://www.webmd.com/allergies/antihistamines-for-allergies)so that you reduce the burning and itching.
 - Over-the-counter pain relievers can be used to remove the burning sensationcaused by the bed bugbites. However, before using such medications, you need to confirm that they wont cause severe side effects.
 Though possible,
@@ -109,4 +109,4 @@ how best to deal with them
 .
 Once you learn that
 [bed bugs have bitten you](https://pestpolicy.com/can-bed-bugs-get-in-your-hair/)
-, you can use the tricks mentioned above to relieve yourself of the symptoms. �See a medical expert if the condition gets severe.
+, you can use the tricks mentioned above to relieve yourself of the symptoms. See a medical expert if the condition gets severe.

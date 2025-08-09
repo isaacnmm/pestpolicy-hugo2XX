@@ -87,7 +87,7 @@ Related:
 What Do Roaches Smell Like?
 ## **How to Eradicate Cockroaches Vs. Waterbugs**
 Waterbugs are more comfortable to eradicate than cockroaches. That because roaches tend to be invasive and quickly adapt to the environment for their survival. They also live in large colonies and reproduce rapidly.
-### **1. Roach Baits� **
+### **1. Roach Baits **
 However, both pests can be eradicated using the same methods. Below are some of the most effective remedies for cockroaches and waterbugs.
 Roach baits
 provide an easy and convenient way of eradicating waterbugs and cockroaches. The

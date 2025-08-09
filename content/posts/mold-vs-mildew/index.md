@@ -28,7 +28,7 @@ Depending on the species, the color of mold ranges from black, brown, green, blu
 **Mildew:**
 [Mildew appears as a powdery](https://pestpolicy.com/best-fungicide-powdery-mildew/)
 (check fungicide killers) and flattened patch, usually yellowish, gray, or white. With time the color turns to brown and eventually black.
-### 2. Smell -�Mold Vs. Mildew
+### 2. Smell -Mold Vs. Mildew
 **Mold:**
 Molds have a musty and tangy smell that can spread to every corner of your home through the spores.
 The smell comes from the mold growth process, which releases microbial compounds into the air.

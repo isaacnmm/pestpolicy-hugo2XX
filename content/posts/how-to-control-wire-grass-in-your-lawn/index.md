@@ -28,7 +28,7 @@ The first step in dealing with wire grass is accurate identification, as control
 While "wire grass" is a general term, here are the two most common culprits you might encounter in a lawn setting:
 
 1.  **Nimblewill (*Muhlenbergia schreberi*):**
-    * **Appearance:** This is arguably the most common "wire grass" in many lawns, particularly in the mid-Atlantic and Midwestern U.S. It�s a warm-season perennial grass, so it greens up in summer and turns dormant (brown/straw-colored) in fall, contrasting sharply with cool-season turf.
+    * **Appearance:** This is arguably the most common "wire grass" in many lawns, particularly in the mid-Atlantic and Midwestern U.S. Its a warm-season perennial grass, so it greens up in summer and turns dormant (brown/straw-colored) in fall, contrasting sharply with cool-season turf.
     * **Texture:** Fine-bladed but with a tough, wiry texture, especially at the base. It often grows in distinct, sprawling patches.
     * **Growth Habit:** Spreads by stolons (above-ground runners) that root at the nodes, creating a dense mat. It often has a purplish tinge at the nodes.
     * **Where it grows:** Prefers shaded, moist areas but can tolerate sun. It's often found invading fescue or Kentucky bluegrass lawns.
@@ -129,7 +129,7 @@ Controlling wire grass is often a persistent battle, requiring a combination of 
 
 ## Final Thoughts on Dealing With Wire Grass
 
-Dealing with wire grass in your lawn can be a frustrating and protracted battle, but it is certainly not impossible. The key to success lies in understanding the enemy � whether it's nimblewill, Bermudagrass, or quackgrass � and then committing to a targeted, persistent strategy.
+Dealing with wire grass in your lawn can be a frustrating and protracted battle, but it is certainly not impossible. The key to success lies in understanding the enemy  whether it's nimblewill, Bermudagrass, or quackgrass  and then committing to a targeted, persistent strategy.
 
 There's no single magic bullet for wire grass. For small, isolated patches, meticulous manual removal, ensuring every last rhizome or stolon is extracted, offers the most immediate and chemical-free solution. For more widespread infestations, strategic use of non-selective herbicides like glyphosate, followed by reseeding, often becomes a necessary evil, creating temporary bare spots that can be reclaimed with desirable turf. When attempting selective control, careful product selection based on your specific wire grass and lawn type is paramount to avoid damaging your existing turf.
 

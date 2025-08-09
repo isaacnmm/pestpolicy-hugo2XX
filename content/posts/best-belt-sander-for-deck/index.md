@@ -68,7 +68,7 @@ Cons:
 
 Read Also:
 Best Camera for Music Videos
-### [4. Genesis GBS321A with Variable-Speed Deck Belt Sander� - #4 Pick](https://www.amazon.com/dp/B00HSDVVLE/?tag=p-policy-20)
+### [4. Genesis GBS321A with Variable-Speed Deck Belt Sander - #4 Pick](https://www.amazon.com/dp/B00HSDVVLE/?tag=p-policy-20)
 This belt sander gives you power and versatility in addition to a quiet performance and ease of use capabilities for efficient sanding. This unit is specially designed for deck builders, wood workers, furniture makers and other professionals looking for unparalleled quality and results.
 
 The Genesis GBS321A is powered by an 8.0-amp motor with an electronic speed control feature which ensures constant speed when working. A variable speed control dial will allow you to adjust the speed dial which ranges from 390-1180ft/min to the desired use.
@@ -82,7 +82,7 @@ Pros:
 Cons:
 - Dust bag is porous
 
-### [5. POWERTEC BD1500 Deck Belt-Disc Sander 1" by 30" + 5"� - #5](https://www.amazon.com/dp/B010BOZ8C4/?tag=p-policy-20)
+### [5. POWERTEC BD1500 Deck Belt-Disc Sander 1" by 30" + 5" - #5](https://www.amazon.com/dp/B010BOZ8C4/?tag=p-policy-20)
 With this 2-in-1 combination sander, you get maximum work space in addition to multifunctional sanding performance and woodworking applications. You get exceptional reliability with this unit thanks to its two in one feature. This is the go-to tool for home improvement DIYers as well as professionals looking for a reliable tool for their projects.
 
 This units motor features a 2.5 Amp induction motor capable of delivering a non-load speed of 3450rpm. This gives you a quiet and powerful peak performance of 120v, 60hz, 1/3 hp. This delivers enough torque to handle both small and large projects.
@@ -132,7 +132,7 @@ Cons:
 ### 1. Belt speed and Belt grit
 The variable speed control feature is one of the most important features if you are looking to work on that deck in the shortest time possible. Whereas low end models lack this feature, you might want to go for a model that allows you to deal with a variety of belt grits giving you more control over the sanding process.
 You need a unit with a powerful motor to power it through to overcome the resistance caused by the sanding belt when it makes contact with the decking board. If the engine is incapable of overcoming the resistance, the belt might stall, skip, or slip. If the motor is too powerful for the sander, the belt may wear down rapidly. The recommended sander should have a grit belt range of 80 to 220 grit belts.
-### 2. Durability and��Motor
+### 2. Durability andMotor
 You might want to go for a model whose housing and other critical components are made out of sturdy materials. In particular, the idler wheel, tracking nob, and driver should be highly durable. If youre going for a benchtop model, ensure it has a solid base to attenuate the shock generated during use.
 The ideal handheld belt sander motor output should range from 6A to 10A. You might want to go for a model that gives you more output for a relatively low price.
 ### 3. Dust extraction and Price

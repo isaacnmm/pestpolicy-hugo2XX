@@ -35,7 +35,7 @@ A paint grinder machine or sandblaster cleans latex paint by polishing the paint
 The user must be keen when carrying out latex paint removal to prevent accidents and excessive surface erosion -
 [removing latex paint from metal](https://pestpolicy.com/how-to-remove-latex-paint-from-metal/)
 .
-**�Required items**
+**Required items**
 - Sandblast medium (high-grade sandpaper) and protective items such as gloves, dust coat, and face mask
 - Paint grinder or sandblaster  rated at least 50 psi
 - Pressure washer (for indoor) or dry-wet vacuum (for both indoors or outdoors)
@@ -134,7 +134,7 @@ NB: For effective latex paint removal, proper concentration is required, and pai
 Besides, you can carry out a drop test experiment to ascertain the action of the solvent.
 > See Also:
 > What the best Paint to use on Concrete?
-## Precautions and safety measures� for Latex Paint Removal
+## Precautions and safety measures for Latex Paint Removal
 During the latex paint removal process, proper safety guidelines and precautions should be adhered to - this is to prevent accidents and health hazards.
 The following are some of the precautions and safety guidelines for the best latex paint removal practice:
 1. Open window and doors (ventilation) hen carrying out indoors latex paint removal

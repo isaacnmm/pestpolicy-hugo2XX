@@ -63,12 +63,12 @@ Others, like the
 *Rolf Club 3D FLEA Collar*
 , may not be fully waterproof but can still withstand minor exposure to moisture. If your cat is often outdoors or exposed to water, choosing a water-resistant collar is crucial.
 ## Top 5 Product Recommendations
-### **1. Seresto Flea and Tick Collar for Cats�**
+### **1. Seresto Flea and Tick Collar for Cats**
 *Unique Features:*
 The Seresto Flea and Tick Collar offers up to 8 months of continuous protection against fleas and ticks. Its designed to kill fleas on contact, meaning fleas dont have to bite your cat to be killed.
 
 The collar is also water-resistant, ensuring it remains effective even if your cat gets wet. Additionally, it features a quick-release mechanism for added safety.
-Seresto flea collar will slowly release a low amount of�flumethrin and
+Seresto flea collar will slowly release a low amount offlumethrin and
 [imidacloprid](https://www.sciencedirect.com/science/article/pii/S0304401717304703)
 (the broad-spectrum insecticides) on your cat's coat and skin over eight months.
 *Benefits:*

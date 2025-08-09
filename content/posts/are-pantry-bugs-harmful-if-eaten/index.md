@@ -19,7 +19,7 @@ across pantry bugs in your house
 ? You probably have many questions about them. Maybe, you are even wondering if [pantry](https://pestpolicy.com/how-long-do-pantry-bugs-live/) bugs are harmful if eaten.
 - You are likely to find these pantry bugs in the food storage areas, kitchen cabinets among other areas in your house. They[like hiding in](https://pestpolicy.com/what-causes-pantry-bugs/)pasta, powdered milk, bread, dried fruits and herbs, nuts, and crackers.
 If not careful, there are higher chances of eating them.
-## **Are Pantry Bugs Harmful If Eaten?-�**Can Pantry Moths Make Me Sick?
+## **Are Pantry Bugs Harmful If Eaten?-**Can Pantry Moths Make Me Sick?
 No. If you have accidentally eaten a pantry bug, there is not much need to worry since most of them are not harmful.
 But since its hard to tell the difference between good and harmful bugs. It is better not to eat them at all. Some bugs may have the potential to transmit diseases that could a
 [long-term effect on you](https://pestpolicy.com/how-long-do-pantry-bugs-live/)
@@ -30,14 +30,14 @@ Below is a list of identification of some pantry bugs for easier verification an
 ### **1. ****Maize and rice weevils**
 These are very common in granaries where you have
 stored up your maize, rice, and other cereals
-.� They are also known to attack other crops like oats, wheat, barley, peas, sorghum, and cottonseed among others.
+. They are also known to attack other crops like oats, wheat, barley, peas, sorghum, and cottonseed among others.
 They bore holes into grains, cereals, and legumes making. Below is their life cycle and how to identify them.
 **Life-cycle**
 A grain weevil has a life span of 5-8 months. This happens if the temperature and the humidity are constantly constant. For temperatures are between 15-34 C and humidity of 40 percent.
 The life cycle of the weevil begins when a mature female lays its egg inside the grain. It can lay 300-400 eggs per lifetime.
 - A female weevil lays one egg per gain after which she seals off the holes with some wax. The wax released to seal the entry dries off forming a raised mark on the seed.
 - When the egg hatches, a white larva is released that is without legs. This larva stays in the grain while feeding on it until it develops into a pupa.
-When the pupa transforms into an adult, it bores a hole to exit the grain.�It takes approximately 36 days for a weevil to fully mature and be ready to hatch an egg.
+When the pupa transforms into an adult, it bores a hole to exit the grain.It takes approximately 36 days for a weevil to fully mature and be ready to hatch an egg.
 Immediately after leaving the grain, the female releases pheromones insinuating readiness to mate.
 ### **2. ****Drugstore beetle **
 This is another pantry bug that you are likely to find in your household. They are a common pest in warmer areas and environments.
@@ -60,7 +60,7 @@ The pupa stays in this stage for 15-20 days before transforming into an adult mo
 It takes about 3 days for the adults to mate and lay eggs and the cycle continues.
 ## Frequently asked questions
 ### **Can drugstore store beetle harm you when eaten?**
-Like most pantry bugs, the drugstore beetle is harmless if eaten accidentally.� However, there are ways of reducing their infestation into your food and grains.
+Like most pantry bugs, the drugstore beetle is harmless if eaten accidentally. However, there are ways of reducing their infestation into your food and grains.
 Keeping your foodstuffs below a temperature of 20 C will keep these bugs since they cannot survive in such an environment.
 ## **How to eliminate pantry bugs**
 **Check the food at the store**

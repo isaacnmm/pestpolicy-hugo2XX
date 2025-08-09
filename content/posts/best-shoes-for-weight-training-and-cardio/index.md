@@ -126,7 +126,7 @@ Altra Solstice is a highly versatile cross-trainer that accommodates weight trai
 
 The outsole of Altra Solstice features a durable rubber compound that offers protection against wear and tear. The rubber compound also provides underfoot protection. Beneath the outsole, there are shallow zigzag grooves that provide a multi-directional grip, allowing you to engage in different multidirectional movements with much ease.
 
-The midsole of Altra Solstice features a zero-drop design. �This design incorporates EVA form that provides reliable cushioning while ensuring sufficient energy return during intense workouts. The zero-drop construction helps to distribute impact evenly. The EVA foam provides needed flexibility during training sessions.
+The midsole of Altra Solstice features a zero-drop design. This design incorporates EVA form that provides reliable cushioning while ensuring sufficient energy return during intense workouts. The zero-drop construction helps to distribute impact evenly. The EVA foam provides needed flexibility during training sessions.
 
 The natural foot design of the shoe encourages the toes to spread out naturally. Thus, extra comfort and stability that encourages better mobility.
 

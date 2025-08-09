@@ -15,8 +15,8 @@ tags:
 layout: post
 ---
 Do Cats [Eat](https://pestpolicy.com/do-flying-termites-eat-wood/) Lizards? Have you ever met lizards and cats together in your home, yard or compound? Can your lizard and cat pet live together? It is interesting to find how cats go along with lizards in your place? So, do cats eat lizards?
-*The direct answer is YES! Cats will eat lizards. Cats are great lizard predators. They will hunt, kill and eat lizard either by cutting it into pieces or swallow it whole (for the small sized cats).�*
-*Cats prefer eating smaller lizards such as geckos, skins and Savannah�lizards. However, depending on the species, cats may not be safe after eating lizards. Some species such as salamanders and juvenile blue-tailed skinks secrets poison in their skin, which may kill your cat if eaten.�*
+*The direct answer is YES! Cats will eat lizards. Cats are great lizard predators. They will hunt, kill and eat lizard either by cutting it into pieces or swallow it whole (for the small sized cats).*
+*Cats prefer eating smaller lizards such as geckos, skins and Savannahlizards. However, depending on the species, cats may not be safe after eating lizards. Some species such as salamanders and juvenile blue-tailed skinks secrets poison in their skin, which may kill your cat if eaten.*
 
 *Though house lizards (gecko) may not have venom or poison, they carry parasites (liver flukes), pathogens and bacteria (salmonella) which affect adversely on the health of your cat when eaten.*
 Related:
@@ -25,7 +25,7 @@ Related:
 ### 1. How Do Cat Eat Lizards
 Cats normally hunt and kill the lizards before eating them. The cat will cut (using its teeth-canines) lizard into parts for easier swallowing. Also, the cat can tear the soft flesh from the body meat of the lizard. Main parts of lizards that are usually fed on by the cats include the body meat, limbs and the tail. When feeding on the lizards, cats do not remove lizards skin (which is infectious in some lizard species).
 Most cats do not eat the Head of lizard unless when they swallow lizard whole (which is a rare case). Small cats dont eat the lizards bones. You will, probably, find bones leftovers where the cat was feeding.
-Cats dont hunt lizards as a group unless when training their kitten. You are not likely to spot cats feeding since they hide mostly.�After killing the lizard, cat begins by eating the tail since its soft, fatty and its caudal bones can be chewed together with meat easily.
+Cats dont hunt lizards as a group unless when training their kitten. You are not likely to spot cats feeding since they hide mostly.After killing the lizard, cat begins by eating the tail since its soft, fatty and its caudal bones can be chewed together with meat easily.
 ### 2. Which Lizards Do Cats Eat Most?
 Your pet cat may not be selective when hunting lizards for food. However, most cats have been found to hunt more some of the following lizard species:
 1. **House lizards (Gecko).**These lizards are readily available at many homes and are safer when eaten by cats (not toxic/poisonous, contains no venom).

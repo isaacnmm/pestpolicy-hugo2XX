@@ -19,7 +19,7 @@ A wasp infestation could be such frustration in your place, especially if no las
 Moreover, you need to check on operation mechanism, impacts on kids & pets, and available certification. Match fogger to the recommended environment (indoors or outdoors).
 Related:
 Bees vs Wasps vs Hornets
-## Reviews: Top�Wasp Foggers
+## Reviews: TopWasp Foggers
 
 ### [1. FMC - 10058237 - Pyrethrin Fogger](https://www.amazon.com/dp/B07TC5BQL8/?tag=p-policy-20)
 
@@ -169,7 +169,7 @@ Hot Shot is an outdoor wasp fogger that features a complex structural formulatio
 The water-based solvent integration provides sufficient surface contact and limits stain effects upon us - it's more comfortable to clean.
 Further, Hot Shot comes in a 2-pack canister that works best for both small to medium scale wasps elimination. You will appreciate the 17.5oz ratio, which sprays up to 27 feet from a single point without relocation.
 Actually, Hot Shot is fitted with an improved spray nozzle that supports both directional and points application - this prevents overspray, which leads to further chemical losses.
-By selecting Hot Shot, you'll not only eliminate the entire wasp's life cycle (eggs, larvae, pupae, and adult), but you will also kill other insects such as yellow jackets, caterpillars,� and scorpions, in your home.
+By selecting Hot Shot, you'll not only eliminate the entire wasp's life cycle (eggs, larvae, pupae, and adult), but you will also kill other insects such as yellow jackets, caterpillars, and scorpions, in your home.
 More so, Hot Shot leaves behind a long-lasting residual effect that inhibits further re-infestation - it repels external wasp. Consider Hot Shot for best outdoor wasp elimination - do not use it indoors whatsoever.
 Always take precautions when fumigating since direct inhalation may cause nasal irritation or discomfort.
 Though slightly expensive, Hot Shot guarantees value for money, when use in small to medium scale wasps elimination.
@@ -214,4 +214,4 @@ To wrap up, on the best wasp fogger, you need to consider factors such as the ac
 - Further, you should match the fogger with a recommended area of use, check the environmental effects, human & pets safety, as well as the mode of killing indicated by the manufacturer.
 - Having an area covered by a given wasp fogger in mind is critical as it reduces the chances of chemical overflow, which may affect unplanned areas.
 - Indeed, it's advisable to always check on the labels for further information and see to it if there is any certification needed before use.
-Since most of these foggers may trigger fire, precautions should be put into place before use.� It's recommended that you contact a professional exterminator if you are new to wasp fogger. Importantly, go for a budget-friendly wasp fogger without compromising net quality.
+Since most of these foggers may trigger fire, precautions should be put into place before use. It's recommended that you contact a professional exterminator if you are new to wasp fogger. Importantly, go for a budget-friendly wasp fogger without compromising net quality.

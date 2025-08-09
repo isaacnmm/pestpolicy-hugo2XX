@@ -250,7 +250,7 @@ slug: /how-to-revive-dead-grass/
 ---
 # How to Revive Your Lifeless Lawn
 
-Seeing your once lush, green lawn turn into a brown, crispy carpet can be disheartening. It often leaves homeowners wondering if their grass is beyond saving. The good news is that what often appears to be "dead" grass is frequently just dormant�a protective survival mechanism the grass employs during periods of stress. Reviving a seemingly lifeless lawn is entirely possible, but it requires a systematic approach, a bit of patience, and an understanding of the underlying causes of its decline.
+Seeing your once lush, green lawn turn into a brown, crispy carpet can be disheartening. It often leaves homeowners wondering if their grass is beyond saving. The good news is that what often appears to be "dead" grass is frequently just dormanta protective survival mechanism the grass employs during periods of stress. Reviving a seemingly lifeless lawn is entirely possible, but it requires a systematic approach, a bit of patience, and an understanding of the underlying causes of its decline.
 
 This guide will walk you through the essential steps to diagnose the problem, explain why lawns turn brown, and provide a comprehensive plan to bring your grass back to life. From identifying dormancy versus death to implementing a tailored revival strategy, you'll gain the knowledge to transform your brown patch into a vibrant, healthy green space once again.
 
@@ -332,7 +332,7 @@ Once you've determined if your grass is dormant or dead and identified the likel
 
 8.  **Protect New Seed:** If you've reseeded, cover the area lightly with straw or a seed germination blanket. This helps retain moisture, prevents birds from eating the seeds, and protects against washout from rain or irrigation. Keep the soil consistently moist until the seeds germinate and establish.
 
-9.  **Mow Properly and Regularly:** Once new grass is established (or dormant grass is actively growing), resume regular mowing. Follow the "one-third rule"�never remove more than one-third of the grass blade height in a single mowing. Maintain the appropriate mowing height for your grass type (generally 2.5-3.5 inches for cool-season, 1-2.5 inches for warm-season). Keep your mower blades sharp to prevent tearing.
+9.  **Mow Properly and Regularly:** Once new grass is established (or dormant grass is actively growing), resume regular mowing. Follow the "one-third rule"never remove more than one-third of the grass blade height in a single mowing. Maintain the appropriate mowing height for your grass type (generally 2.5-3.5 inches for cool-season, 1-2.5 inches for warm-season). Keep your mower blades sharp to prevent tearing.
 
 ## Lawn Maintenance Tips
 

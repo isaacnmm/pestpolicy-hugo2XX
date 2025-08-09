@@ -97,7 +97,7 @@ This recipe creates a simple and gentle oatmeal shampoo that can help soothe irr
 - Ground oatmeal (1 cup)
 - Baking soda (  cup)
 - Water (4 cups)
-Soak your cats fur in the mixture for five minutes and then rinse off the DIY shampoo with some warm water.�The oatmeal shampoo can be stored in the refrigerator for up to two weeks.
+Soak your cats fur in the mixture for five minutes and then rinse off the DIY shampoo with some warm water.The oatmeal shampoo can be stored in the refrigerator for up to two weeks.
 ## Conclusion
 I hope this article has given you some good tips for keeping your cat clean.
 - When faced with a cat who needs to be washed fast, not one of the above alternatives is going to disappoint.

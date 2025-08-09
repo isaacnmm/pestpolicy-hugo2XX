@@ -41,7 +41,7 @@ Bed
 Scabies Vs. Bed Bugs
 .
 So, don't confuse bed bugs with bugs that can fly. But equally important is that bed bugs, even without flying, will cause massive problems for pets and humans.
-## How to Identify�Bed Bugs?
+## How to IdentifyBed Bugs?
 From the onset,
 [bed bugs](https://wagner.edu/campus-services/operations/bed-bug-policy/)
 are brownish, tiny ( 1/4 inches) and oval-shaped insects feeding on a cat or dog blood - but also humans' blood. But the adult bed bugs are about the apple seed but a flat body.
@@ -84,10 +84,10 @@ bugs don't bite
 humans, but they do bite on bats. You'll mainly get these
 bugs on or around the areas
 that bats live - these include the attic or similar dark areas.
-### 3.�Carpet beetles
+### 3.Carpet beetles
 Carpet beetles have red or orange scales on their black-patterned body. They have short antennae emerging from their hidden heads - when viewed over them.
 
-These oval-shaped bugs 2 to 4 millimeters, which is about �1/16 inches. However, carpenter beetle, as opposed to bed bugs, has wings but will only take flight in the daytime.
+These oval-shaped bugs 2 to 4 millimeters, which is about 1/16 inches. However, carpenter beetle, as opposed to bed bugs, has wings but will only take flight in the daytime.
 However,
 carpenter bees don't bit
 e like bed bugs but will trigger allergies and dermatitis on the human skin. You'll find them on carpet fabrics and flesh flowers.
@@ -113,7 +113,7 @@ You may find bed bugs inside public transportation, rental cars, and taxis - in 
 [Can you squish a bed bug](https://pestpolicy.com/what-happens-when-you-squish-a-bed-bug/)
 ? Well, YES, it'll burst, leaving red bloodstains. Bed bugs will move over distances by hitchhiking on human beings, clothing, or send-hand furniture - particularly around mattress or couch seams.
 ## Conclusion
-Do bed bugs have wings?�No - bed bugs have no wings - but you can identify them with their oval, flat any tiny body measuring about 1/4 inches but have wing pads as opposed to having fully-functional wings.
+Do bed bugs have wings?No - bed bugs have no wings - but you can identify them with their oval, flat any tiny body measuring about 1/4 inches but have wing pads as opposed to having fully-functional wings.
 Adult bed bugs can be seen with your naked eyes, but babies and nymphs will mainly exist in clusters - you'll find both on crevices and cracks.
 Bed bugs measure roughly the size of an apple seed or a pinhead. However,
 [bed bug eggs](https://pestpolicy.com/how-to-kill-bed-bug-eggs/)

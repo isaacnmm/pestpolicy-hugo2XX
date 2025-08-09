@@ -66,7 +66,7 @@ Outdoor furniture re-gain surface strength upon application. Moreover, the furni
 Enamel paint may not be used over every material, due to compatibility issues. Below are some of the surfaces/materials that can be coated with enamel paint:
 #### **a. Metal**
 Metal such as mild steel, aluminum, stainless steel, iron, and iron alloy can be painted with enamel paint.
-The pain solvent sticks sufficiently forming a uniform paint layer.�Moreover, enamel paint prevents rusting and chipping action.
+The pain solvent sticks sufficiently forming a uniform paint layer.Moreover, enamel paint prevents rusting and chipping action.
 #### **b. Wood**
 Wood structures such as chairs, tables, picture frames, etc. can be painted using enamel paint without any problem.
 Enamel solvent penetrates the wood material sufficiently and seals surface pores entirely upon application.

@@ -52,7 +52,7 @@ Heres a quick look at how painter salaries vary across the U.S.:
 **Lower-Paying States:**
 - Mississippi:**$36,000**
 - Arkansas:**$37,000**
-- Alabama:**$38,000�**
+- Alabama:**$38,000**
 Related:
 [Painters Tape for Textured Walls](https://pestpolicy.com/best-painters-tape-for-textured-walls/)
 ### **Conclusion: Is Painting a Lucrative Career?**

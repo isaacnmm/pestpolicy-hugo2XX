@@ -17,11 +17,11 @@ layout: post
 From an outward look, moles appear not to have eyes! But how do they manage to dig tunnels and destroy our gardens?
 
 Moles will do anything that is done by animals that have eyes. They dig tunnels, move around, look for food, mate and also evade enemies. But do they have eyes?
-**Short answer is YES  Moles have eyes which are covered by a fur and a thin membrane. These eyes cant see things but can differentiate light and dark. Their eyes help them in knowing time periods and seasons of the year.�**
+**Short answer is YES  Moles have eyes which are covered by a fur and a thin membrane. These eyes cant see things but can differentiate light and dark. Their eyes help them in knowing time periods and seasons of the year.**
 
 Related:
 [Best Mole Traps](https://pestpolicy.com/best-mole-traps/)
-## **Details: Do Moles Have Eyes?�**Can Moles See?
+## **Details: Do Moles Have Eyes?**Can Moles See?
 Moles have eyes which are permanently covered by skin and fur. However, the fact that they shy away from bright light means that their eyes are capable detecting light.
 
 Even without eyes, moles continue to wreak havoc in our beautiful lawns and gardens. Lets see how they manage to do that!
@@ -32,7 +32,7 @@ Notably, moles follow a regular routine from morning to evening. That means they
 
 https://www.youtube.com/watch?v=eVQrtnb8xn8
 
-Researchers say that such a controlled routine is made possible by their eyes.�Furthermore, their eyes help in knowing the time of the year. Thats why they only come out during spring in search of mates.
+Researchers say that such a controlled routine is made possible by their eyes.Furthermore, their eyes help in knowing the time of the year. Thats why they only come out during spring in search of mates.
 
 A typical research done on Iberian moles shows that although their eyes are completely closed, they possess structures similar to those of diurnal animals. These structures connect factually to the brain and help moles in detecting and avoiding light.
 
@@ -58,18 +58,18 @@ Moles can also use their scents to communicate with mates and identify food. The
 ## **Do Moles See Their Prey?**
 Moles dont use their eyes to locate their food. They use their nostrils to locate foods such as earthworms, snails, spiders, centipedes among other small insects.
 
-Research has shown that moles are some of the few mammals that can smell in stereo.�Their nostrils can detect odors independently.
+Research has shown that moles are some of the few mammals that can smell in stereo.Their nostrils can detect odors independently.
 
 Different signals are sent to the brain, making it possible to discern the direction of the smell. Thus, they have the ability to differentiate food from other things by picking up the intensity of smell.
 ## **Do Moles See Predators?**
 Although moles spend most of their time in their underground tunnels, they come out to look for mates especially during spring.
 
-This makes them vulnerable to predators such as cats, dogs and birds of prey. However, they also have ways of evading predators.�Since they have a poor eyesight, they wont see predators.
+This makes them vulnerable to predators such as cats, dogs and birds of prey. However, they also have ways of evading predators.Since they have a poor eyesight, they wont see predators.
 
 However, their stereo sense of smell (both nostrils sniff independently) allows them to detect potential predators and retreat to their tunnels. With one sniff, a mole is able to tell there is a cat around. In fact, pouring soiled cat litter into holes made by moles can repel them.
 ## **Conclusion**
 Moles have eyes but they are not used for seeing things. They are however able to differentiate light and dark as portrayed by their tendency to avoid light.
 
-Lack of functional eyes doesnt prevent them from surviving in their environment.�They compensate for the poor eyesight with a powerful sense of touch on their nose.
+Lack of functional eyes doesnt prevent them from surviving in their environment.They compensate for the poor eyesight with a powerful sense of touch on their nose.
 
 In addition they have a powerful stereo sense of smell. These two qualities allow them to navigate in their tunnels, locate food, mate and evade predators.

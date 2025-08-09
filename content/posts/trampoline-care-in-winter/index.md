@@ -22,7 +22,7 @@ Swing Sets for Small Yards
 ## Step by Step: Trampoline Care In Winter
 ### 1. Manufacturers Manual
 Most if not all trampolines come with care manual on how to properly maintain and care for the trampoline.
-It is critical that you go through the manufacturers manual on tips to care for the structure.�However, weve compiled some tips that you can follow to keep your jumping set in excellent working condition.
+It is critical that you go through the manufacturers manual on tips to care for the structure.However, weve compiled some tips that you can follow to keep your jumping set in excellent working condition.
 When you do proper maintenance, your trampoline can last for years without losing its bounciness and stability. Therefore, proper maintenance and care are crucial in extending the lifespan of the structure.
 Read Also:
 Swing Set Under 200

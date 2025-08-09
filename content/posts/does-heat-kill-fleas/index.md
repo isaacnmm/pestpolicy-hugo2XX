@@ -20,7 +20,7 @@ thatll feed on blood from mammals and birds.
 
 Fleas will mainly hide floor cracks, beddings and furniture  and thus it is challenging to control them. But,
 *does [heat](https://pestpolicy.com/best-heat-gun-for-removing-paint/) kill fleas? *
-**In summary, YES, heat will kill fleas, their eggs, and larvae  particularly heat from steaming, laundering, dryers, professional heat treatment (Entotherm), and flea heaters. So, lets get into the details!�**
+**In summary, YES, heat will kill fleas, their eggs, and larvae  particularly heat from steaming, laundering, dryers, professional heat treatment (Entotherm), and flea heaters. So, lets get into the details!**
 ## Details: Does Heat Kill Fleas?
 Completely yes, extremely high temperatures will destroy a life cycle of a pest at any stage.
 ### 1. Steam
@@ -67,7 +67,7 @@ This is a non chemical method to eliminate pests through the targeted applicatio
 6. To ensure heat is well distributed, to measure and record the whole procedure, some heat sensors are assigned.
 7. After the fleas treatment, a report is given to show heat exposure at the correct temperatures for the correct time.
 8. In some situations, a low toxicity pesticide may be used as to safe guard against fleas attack again in your home.
-## **Conclusion�**
+## **Conclusion**
 Most people find it hard on how to make their home fleas free. Although there are so many home remedies to get rid of these parasites, they dont completely kill fleas, eggs and larvae.
 This gives a chance for another flea infestation to arise. Its very productive to try and use heat to eliminate these fleas, simply because all adult fleas, eggs and larvae will be destroyed.
-Follow the steps highlighted above and for once you will solve flea problem in your home. Make sure you read and follow the instructions on your heaters manual.�A home free of pests such as fleas is a happy peaceful home for you and your pets.
+Follow the steps highlighted above and for once you will solve flea problem in your home. Make sure you read and follow the instructions on your heaters manual.A home free of pests such as fleas is a happy peaceful home for you and your pets.

@@ -27,7 +27,7 @@ Tactically, the moles
 and raccoons
 do this when looking for food from underground. They can dig these tunnels of up to 8 ft. in an hour leaving several heaps of soil above the ground.
 ### 2.**Drying plants and grass**
-Another sign is the drying of grass and other plants in your yard.� As the moles burrow underground, they destroy the roots of anything they find on their way.
+Another sign is the drying of grass and other plants in your yard. As the moles burrow underground, they destroy the roots of anything they find on their way.
 Most tunnels are shallow and easily reach plant roots. This destroys the grass and other plants along the tunnels leaving them dry and weathered.
 With their strong and sharp claws, moles can tear down even the strongest of the plant's root system turning them yellowish and weathered.
 ### 3.**Sighting a mole**

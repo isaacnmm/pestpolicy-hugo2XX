@@ -185,7 +185,7 @@ The adjustable pressure conveniently puts you in total control of the paint flow
 
 Like its counterparts, the ProX17 features an easy suction tube that enables you to spray the paint directly from a one to five-gallon bucket. It supports up to 150 feet of paint hose to give you a relaxing time on storied buildings.
 
-For your continuous spraying, the RAC IV 515 Switch Tip is provided to allow you to reverse the tip in case of clogging.�Other accessories include in the package;
+For your continuous spraying, the RAC IV 515 Switch Tip is provided to allow you to reverse the tip in case of clogging.Other accessories include in the package;
 - An SG3 Metal Spray Gun that has an in-built swivel
 - PowerFlush adaptor
 - Quick Start-Up Guide

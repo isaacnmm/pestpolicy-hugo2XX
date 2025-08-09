@@ -78,7 +78,7 @@ With a little consistent effort, you can banish that cloudy film and enjoy truly
 
 Imagine a single device that not only vacuums up dust, dirt, and pet hair but also mops your hard floors, all with minimal intervention from you. The real game-changer is the **self-cleaning and self-emptying dock**.
 
-**Here�s how these next-gen robots are different:**
+**Heres how these next-gen robots are different:**
 
 * **Dual Functionality (Vacuum & Mop):** These units seamlessly transition between vacuuming carpets and mopping hard floors. Many now feature advanced mopping systems that use oscillating pads, pressurized scrubbing, or even rotating brushes for a deeper clean than just a damp cloth. Some can even lift their mop pads when they detect carpet, preventing wet carpets.
 * **Intelligent Navigation & Mapping:** Equipped with LiDAR, vSLAM, or other advanced sensors, these robots meticulously map your home, allowing them to navigate efficiently, avoid obstacles, and clean in neat, organized rows. You can often set no-go zones, no-mop zones, and direct them to clean specific rooms via a smartphone app.

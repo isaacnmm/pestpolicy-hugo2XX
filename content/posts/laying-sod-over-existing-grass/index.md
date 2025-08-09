@@ -29,7 +29,7 @@ While the concept of simply rolling out new sod over an old lawn might seem like
 4.  **Pest and Disease Risk:** The old, decaying grass and thatch layer beneath the new sod create an ideal breeding ground for pests and diseases. Hidden insect eggs, fungal spores, or even grubs present in the old turf can quickly migrate to the new sod, causing widespread damage. The poor air circulation and excessive moisture that can accumulate between the layers further promote these issues.
 5.  **Waste of Investment:** Sod is a significant investment. Opting for a shortcut by laying it over existing grass severely compromises the likelihood of that investment paying off. The sod may not establish properly, leading to patches dying off, uneven growth, and the eventual need for costly repairs or complete reinstallation. What seems like a time-saver upfront often results in more work and expense down the line.
 
-In essence, laying sod over existing grass creates a challenging, unstable, and often unhealthy environment for the new turf. It's akin to building a house on a shaky foundation � it might stand for a little while, but it's destined for problems. Proper site preparation is the cornerstone of successful sod installation.
+In essence, laying sod over existing grass creates a challenging, unstable, and often unhealthy environment for the new turf. It's akin to building a house on a shaky foundation  it might stand for a little while, but it's destined for problems. Proper site preparation is the cornerstone of successful sod installation.
 
 ## The Right Way to Prepare for Sod (The Recommended Method)
 

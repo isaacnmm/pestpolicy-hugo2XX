@@ -97,7 +97,7 @@ Installing a rain chain is a relatively straightforward DIY project, but a few k
 
 Beyond basic installation, consider these tips to maximize the effectiveness and beauty of your rain chains:
 
-* **Strategic Placement:** Install rain chains where they can be appreciated � near a patio, window, entryway, or garden bed.
+* **Strategic Placement:** Install rain chains where they can be appreciated  near a patio, window, entryway, or garden bed.
 * **Multiple Chains:** For longer gutter runs or larger homes, multiple rain chains can be installed, creating a rhythmic visual effect across the facade.
 * **Lighting:** Uplighting a rain chain at night can create a dramatic and enchanting display as water cascades down, making it a focal point even after dark.
 * **Winter Considerations:** In freezing climates, ice can build up on rain chains. While copper and sturdy chains generally handle this well, extremely heavy ice can pull on gutters. Consider detaching them or ensuring sufficient strength during heavy ice accumulation.

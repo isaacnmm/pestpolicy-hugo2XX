@@ -148,4 +148,4 @@ Camellias are excellent candidates for container growing, especially in climates
 
 ## Final Thoughts
 
-Growing camellias is a journey that rewards patience and attention to their specific needs. By providing them with the right site conditions�namely, well-draining, acidic soil and protection from harsh sun and winds�you will unlock their full potential. Their stunning evergreen foliage and spectacular, often fragrant blooms will bring unparalleled beauty to your garden, particularly when the rest of the landscape is still slumbering, proving that camellias are truly the jewels of the winter and early spring garden.
+Growing camellias is a journey that rewards patience and attention to their specific needs. By providing them with the right site conditionsnamely, well-draining, acidic soil and protection from harsh sun and windsyou will unlock their full potential. Their stunning evergreen foliage and spectacular, often fragrant blooms will bring unparalleled beauty to your garden, particularly when the rest of the landscape is still slumbering, proving that camellias are truly the jewels of the winter and early spring garden.

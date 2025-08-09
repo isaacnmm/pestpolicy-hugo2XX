@@ -32,7 +32,7 @@ The ReVent fan is designed with innovation at its core, addressing common instal
 
 ### 2. Versatile Wall and Ceiling Mount Design
 
-* **Dual Compatibility:** Unlike many fans designed for either ceiling or wall, the ReVent fan is engineered to be installed in both orientations. This flexibility allows homeowners to choose the best ventilation point for their specific bathroom layout � directly over a shower in a ceiling, or through an exterior wall.
+* **Dual Compatibility:** Unlike many fans designed for either ceiling or wall, the ReVent fan is engineered to be installed in both orientations. This flexibility allows homeowners to choose the best ventilation point for their specific bathroom layout  directly over a shower in a ceiling, or through an exterior wall.
 * **Direct Wall Venting:** When mounted on an exterior wall, it provides a very short, direct path for humid air to exhaust outside, minimizing ductwork and potential airflow loss.
 
 ### 3. High Performance with Quiet Operation

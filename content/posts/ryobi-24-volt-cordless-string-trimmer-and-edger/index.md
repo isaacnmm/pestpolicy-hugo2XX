@@ -41,7 +41,7 @@ Ryobi tools are often recognized for their distinct green and black aesthetic an
 
 ## Performance in Action
 
-How does the Ryobi 24-Volt perform where it counts � in the yard?
+How does the Ryobi 24-Volt perform where it counts  in the yard?
 
 * **Trimming Power:** For typical residential grass and light weeds, the 24-volt motor generally provides sufficient power. It excels at trimming around flower beds, fences, and sidewalks. However, it may struggle with very thick, overgrown brush or dense weeds, where a higher voltage (e.g., 40V) or gas model might be necessary.
 * **Edging Capability:** The rotating head is a significant convenience. When used as an edger, it typically delivers clean lines along driveways and sidewalks, though user technique and a steady hand are still important for perfectly straight edges.

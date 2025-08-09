@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 Are you looking to make your backyard more bird-friendly? Well, you need the right habitat to attract a variety of popular birds into your backyard. Hence, a bird-friendly garden must fulfill the birds basic needs like water, food, shelter, and nesting sites.
-*So, which are these Bird Friendly Backyard Ideas? Some ideas to consider include Ensuring your backyard has a water source, putting up a bird feeder, growing native plants, having different layers of plants, providing adequate shelter, including a variety of plant species, Reduce Open Areas, and leaving part of the yard in its natural form.��*
+*So, which are these Bird Friendly Backyard Ideas? Some ideas to consider include Ensuring your backyard has a water source, putting up a bird feeder, growing native plants, having different layers of plants, providing adequate shelter, including a variety of plant species, Reduce Open Areas, and leaving part of the yard in its natural form.*
 
 ## Bird Friendly Backyard Ideas
 Check out the ideas below to create an amazing habitat that will attract colorful wild birds and heart-warming melodies.
@@ -69,7 +69,7 @@ To ensure you have a bird-friendly backyard youll need to provide adequate shelt
 - You can provide shelter by growing dense plants or dense vegetation that will help shield the birds from predators like cats, hawks, and others.
 The dense vegetation will also provide a suitable place for birds to settle and nest. This means they will have a permanent residence in your backyard. They won't need to move as your backyard caters to all their basic needs including water, food, and shelter.
 ### 8. Grow Plants with Flowers, Seeds, or Berries
-Some plants are a rich source of food for wild birds and including them in your bird�gardens will attract a variety of bird species.
+Some plants are a rich source of food for wild birds and including them in your birdgardens will attract a variety of bird species.
 - Some flowers become excellent winter foods and they ensure the birds have a meal throughout the season.
 Berry bushes also provide a reliable food source for the birds. Examples of plants that you can grow in a bird-friendly garden include wild roses, Oregon grape, blueberries, and cherries among many others.
 ### 9. Use Organic Fertilizers

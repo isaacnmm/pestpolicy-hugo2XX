@@ -54,7 +54,7 @@ Having the right materials and tools on hand before you begin will make the cons
 * **Water Pump:** The heart of your waterfall. Choose a submersible pump rated for the desired flow rate (gallons per hour, GPH) based on the volume of water needed and the height/width of your waterfall. Consult pump charts that match GPH to head height.
 * **Tubing/Hosing:** Flexible, kink-resistant tubing to connect the pump to the spillway. The diameter should match the pump's output to ensure proper flow.
 * **Waterfall Spillway/Weir:** This is the device where the water exits the tubing and creates the waterfall effect. Can be a pre-formed plastic spillway or simply designed with flat stones.
-* **Rocks and Boulders:** A variety of sizes � large boulders for structural support, medium rocks for shaping the falls, and smaller stones/gravel for filling gaps and the stream bed. Choose natural, non-toxic rocks (avoid limestone for fish ponds, as it can alter pH).
+* **Rocks and Boulders:** A variety of sizes  large boulders for structural support, medium rocks for shaping the falls, and smaller stones/gravel for filling gaps and the stream bed. Choose natural, non-toxic rocks (avoid limestone for fish ponds, as it can alter pH).
 * **Gravel/River Rocks:** For the bottom of the pond or the reservoir of a pondless waterfall.
 * **Foam Sealant (Waterfall Foam):** Black expanding foam specifically designed for water features. It seals gaps between rocks, forcing water to flow over the desired path rather than under or around rocks.
 * **Leveling Sand (Optional):** Can be used to create a smooth, level base for the liner.

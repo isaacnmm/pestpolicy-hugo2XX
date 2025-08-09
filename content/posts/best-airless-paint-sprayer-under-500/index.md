@@ -81,7 +81,7 @@ and other surfaces.
 
 This sprayer uses the HVLP technique to give you a master class finish for the
 home exterior or interior
-.�Designed with full-body metal, you stand guaranteed of more services for longer.
+.Designed with full-body metal, you stand guaranteed of more services for longer.
 Similarly, the sprayer comes with a unique hyper-flex hose pipe that joins the turbine to the spray gun and stands out in the market for its durability.
 You get this sprayer in these parts namely;
 turbine
@@ -163,7 +163,7 @@ to cover the ceilings
 .
 This sprayer has the ability to minimize overspray up to 55% and therefore less bleeding therefore achieving an evenly painted surface.
 That said and done, this sprayer is so far considered 3 times more durable than similar sprayers in the market. This is possible due to its metallic and durable components used to design it.
-Additionally, it comes with a manufacturers warranty of 2 years.�It comes designed with a 25 ft. hose pipe to assist achieve a larger area of your paintwork with minimum hand fatigue.
+Additionally, it comes with a manufacturers warranty of 2 years.It comes designed with a 25 ft. hose pipe to assist achieve a larger area of your paintwork with minimum hand fatigue.
 However, the sprayer is easily prone to clogging and may give you hard time while cleaning. Consequently, it also offers the shortest range among the Titan ControlMax sprayers.
 Pros:
 - 3 times more durable than other similar brands

@@ -15,8 +15,8 @@ tags:
 layout: post
 ---
 Fleas will reproduce rapidly and may soon become a challenge to pets, pet owners, and households. But is [steam](https://pestpolicy.com/does-steam-kill-bed-bugs/) cleaning a suitable method to eradicate fleas?
-- **To control the flea problem effectively, steam cleaning alone will kill some flea eggs and adult fleas, but it won't solve the flea problem entirely.�**
-- **So, combine steam cleaning with other methods for better outcomes. R****egularly vacuum your spaces frequently, wash the pet bedding, and use suitable flea treatment in combination with steam cleaning.��**
+- **To control the flea problem effectively, steam cleaning alone will kill some flea eggs and adult fleas, but it won't solve the flea problem entirely.**
+- **So, combine steam cleaning with other methods for better outcomes. R****egularly vacuum your spaces frequently, wash the pet bedding, and use suitable flea treatment in combination with steam cleaning.**
 In this article, I'll outline other tools you can use in combination with
 [steam cleaners](https://pestpolicy.com/best-steam-cleaner-for-fleas/)
 to eliminate fleas.

@@ -20,15 +20,15 @@ When choosing the best [poison](https://pestpolicy.com/best-gopher-poison/) for
 
 Selecting the right product requires understanding the specific needs of your situation to effectively control the squirrel population without causing undue harm to non-target animals or the environment.
 ## Key Factors to Consider
-**1. Safety�**
+**1. Safety**
 Safety is paramount when choosing a poison, especially if you have pets or children. Anticoagulants, such as like
 [**Tomcat All-Weather Bait Chunx**](https://www.amazon.com/dp/B0071D0DAG/?tag=p-policy-20)
 contain Warfarin, which is effective against squirrels but has a known antidote, Vitamin K1, making it a safer option for use around pets.
 
-Anticoagulants work by preventing blood from clotting, leading to internal bleeding and eventual death in squirrels.�Additionally, products containing zinc phosphide, like
+Anticoagulants work by preventing blood from clotting, leading to internal bleeding and eventual death in squirrels.Additionally, products containing zinc phosphide, like
 *Bonide Mole and Gopher Bait*
 , are effective but must be used with extreme caution as they are highly toxic and have no antidote.
-**2. Effectiveness�**
+**2. Effectiveness**
 Some products, like
 [**Kaput Rat & Mouse Bait**](https://www.amazon.com/dp/B004HFHB60/?tag=p-policy-20)
 , are known for their high efficacy in eliminating squirrels quickly. The active ingredient in these pellets is Brodifacoum, a potent anticoagulant that causes internal bleeding in rodents, leading to death.
@@ -36,7 +36,7 @@ Some products, like
 This product is particularly effective in reducing large squirrel populations swiftly, making it a go-to option for many -
 get rid of them
 .
-**3. Ease of Use�**
+**3. Ease of Use**
 Some products, like
 *JT Eaton Bait Block*
 , come in convenient block forms that are easy to place in various locations around your property.
@@ -50,7 +50,7 @@ When considering the environmental impact, products like
 stand out. RatX is made from natural ingredients and is designed to be non-toxic to birds and other wildlife.
 
 This product works by dehydrating the squirrel after ingestion, leading to death without the risk of secondary poisoning to predators or scavengers.
-**5. Cost-Effectiveness�**
+**5. Cost-Effectiveness**
 For those looking for a budget-friendly option,
 *Tomcat All-Weather Bait Chunx*
 offers a cost-effective solution.

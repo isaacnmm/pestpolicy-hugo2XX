@@ -76,10 +76,10 @@ Lawn Love's pricing is determined by several factors, which are often calculated
 
 **General Price Ranges (illustrative, always get a custom quote):**
 
-* **Bi-weekly Mowing:** $30 � $65+ per service for an average residential lawn.
-* **Fertilization:** $35 � $70+ per application.
-* **Aeration:** $80 � $150+ per service.
-* **Yard Cleanup/Leaf Removal:** $60 � $150+ depending on yard size and debris volume.
+* **Bi-weekly Mowing:** $30  $65+ per service for an average residential lawn.
+* **Fertilization:** $35  $70+ per application.
+* **Aeration:** $80  $150+ per service.
+* **Yard Cleanup/Leaf Removal:** $60  $150+ depending on yard size and debris volume.
 
 Lawn Love aims for transparent, instant quotes, but it's crucial to understand that these can be adjusted if the professional assesses the job as more complex than initially mapped. They often promote bundling services for potential savings.
 

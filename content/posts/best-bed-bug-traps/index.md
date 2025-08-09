@@ -17,7 +17,7 @@ layout: post
 Bed bugs will often hide in mattresses and come out at night to suck your blood.
 - But, with the best Bed bug traps andbed bug sprays, you can easily detect and exterminate the bugs.
 You may say that fumigation is the best option but exactly how safe are these methods if they expose you and your family to many toxic hazards.
-Let's get started!�Related:
+Let's get started!Related:
 [Top Drain Uncloggers](https://pestpolicy.com/best-drain-cleaner//)
 
 ## [1. #1 Top Pick: Harris Bed-Bug Traps - Parent (20-Pack)](https://www.amazon.com/dp/B01BRTNPCC/?tag=p-policy-20)
@@ -102,7 +102,7 @@ and stores them till discarded.
 It is wide, strong, and solid. It is wide so that it can fit subtly under most furniture legs no matter the size. Put the traps under the legs of your living room or bedroom furniture.
 Check the traps and pour the trapped bed bugs out. It is safe to use around children and is chemical and pesticide-free.
 Using bug Snarer ensures no bugs will get to you because all furniture is covered with safe bug-proof traps. It is excellent for hotels, hospitals, and hostels, where many people stay.
-## **Conclusion�**
+## **Conclusion**
 Like the famous nursery rhyme goes, good night and sleep tight and dont let the
 bed bugs bite
 .

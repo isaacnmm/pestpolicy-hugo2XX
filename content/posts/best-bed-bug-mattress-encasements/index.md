@@ -28,14 +28,14 @@ bed bug steamers
 and
 sprays
 .
-**Check these out top bed bug mattress encasements.�**
+**Check these out top bed bug mattress encasements.**
 
 ## [1. Our #1 Top Pick: SureGuard Mattress Encasement Bed Bug Proof](https://www.amazon.com/dp/B00WI09NM6/?tag=p-policy-20)
 
 Featuring a fine zipper with Invisi-Zip coupled with SureSeal Technology, this encasement effectively protects your mattress from
 bed bugs
 . By sealing the mattress on all sides, any remaining bed bugs are suffocated and starved to death.
-The encasement comes in 8 sizes, which will fit on any mattress length and depth.�Made with high-quality material, the encasement resists wear and tear so that you can enjoy years of bedbugs protection.
+The encasement comes in 8 sizes, which will fit on any mattress length and depth.Made with high-quality material, the encasement resists wear and tear so that you can enjoy years of bedbugs protection.
 Besides protecting your mattress against adult and
 baby bed bugs
 . SureGuard is also 100% waterproof. It will protect your mattress from liquids, stains, perspiration, and bedwetting.

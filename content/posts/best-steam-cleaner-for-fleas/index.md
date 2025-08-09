@@ -56,7 +56,7 @@ The
 is lightweight and portable, making it ideal for quick jobs or smaller areas. For larger spaces, a more powerful but still maneuverable option like the
 **Bissell PowerFresh Lift-Off Pet Steam Mop**
 may be a better choice.
-## Top 5� Recommendations - [Best](https://pestpolicy.com/best-dog-brush-for-short-hair-shedding/) Steam Cleaner for Fleas
+## Top 5 Recommendations - [Best](https://pestpolicy.com/best-dog-brush-for-short-hair-shedding/) Steam Cleaner for Fleas
 ### [1.**Dupray Neat Steam Cleaner**](https://www.amazon.com/dp/B07C44DM6D/?tag=p-policy-20)
 The
 **Dupray Neat Steam Cleaner**

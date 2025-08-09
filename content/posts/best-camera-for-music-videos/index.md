@@ -325,7 +325,7 @@ Autofocus, usually written as the AF system, is a technology that is gaining a l
 Sometimes, its common to concentrate on the cameras pixels and forget the viewfinder. A viewfinder allows you to select and capture the intended details only. In this, you choose the subject using a frame.
 An adequate viewfinder will capture only the selected features and block everything outside the frame. So, when choosing your camera to ensure it comes with a viewfinder sufficient to ensure you get the desired results.
 This is a technology built into a mirrorless camera or lens to help reduce blurs that occur due to camera motion. It works by automatically adjusting the position of the camera lens to compensate for the tilt and pan induced by a shaky camera. Thus, you can shoot videos while holding the camera with your hands and still get high-quality images.
-## **Conclusion�**
+## **Conclusion**
 To get many YouTube subscribers, you require a camera with a larger sensor, interchangeable lenses, fast Auto-focus speed, & better depth of field/focus for
 different music video shots
 .

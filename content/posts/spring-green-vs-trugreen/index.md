@@ -25,17 +25,17 @@ Choosing the right lawn care provider is a significant decision for any homeowne
 As a franchise-based company, Spring Green's pricing can exhibit some regional variation depending on the local owner's operational costs and market.
 
 * **Annual Cost Range:** For basic to comprehensive plans, you can generally expect to pay between **$500 and $2,000 per year**.
-    * **Basic Lawn Care (Fertilization & Weed Control):** Roughly **$500�$1,200 annually** for small to mid-sized lawns.
-    * **With Add-ons (e.g., Aeration, Pest Control, Disease Prevention):** Costs can climb towards the higher end of the range, often **$1,200�$2,000+ per year**.
-* **Per Service/Application Estimates:** While not always explicitly published, individual fertilization and weed control applications might start from around **$50 per service**, with add-ons like aeration costing approximately **$75�$100 per application**.
+    * **Basic Lawn Care (Fertilization & Weed Control):** Roughly **$500$1,200 annually** for small to mid-sized lawns.
+    * **With Add-ons (e.g., Aeration, Pest Control, Disease Prevention):** Costs can climb towards the higher end of the range, often **$1,200$2,000+ per year**.
+* **Per Service/Application Estimates:** While not always explicitly published, individual fertilization and weed control applications might start from around **$50 per service**, with add-ons like aeration costing approximately **$75$100 per application**.
 
 ### TruGreen:
 
 As the largest national provider, TruGreen often has more standardized pricing, though still adjusted for local market conditions and lawn size. They frequently offer attractive introductory rates.
 
 * **Annual Cost Range:** TruGreen's annual plans typically range from **$640 to $1,500 per year** for an average-sized lawn. More comprehensive plans or larger lawns can push the cost up to **$2,000 annually or more**.
-    * **Basic Plans (e.g., TruMaintenance for Weed Control + Fertilization):** Start around **$640�$730 per year**.
-    * **Mid-Tier Plans (e.g., TruHealth, TruComplete including Grub Control, Aeration, Overseeding):** May cost **$1,100�$1,350+ annually**.
+    * **Basic Plans (e.g., TruMaintenance for Weed Control + Fertilization):** Start around **$640$730 per year**.
+    * **Mid-Tier Plans (e.g., TruHealth, TruComplete including Grub Control, Aeration, Overseeding):** May cost **$1,100$1,350+ annually**.
     * **Comprehensive Plans (e.g., TruSignature, including Tree & Shrub Care):** Can reach up to **$1,500+ per year**.
 * **Per Service/Application Estimates (for a 5,000 sq. ft. lawn):**
     * **Fertilization & Weed Control:** Roughly **$73 per visit** (often 5-7 visits per year).

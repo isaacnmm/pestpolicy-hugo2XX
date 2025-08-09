@@ -22,7 +22,7 @@ They'll be straw or light brown (before taking a blood meal) and the size of a p
 ) infests over 20% of American homes.
 It's essential to control the bed bugs nymphs in your house, bed frames, or
 mattress encasements
-.�Check
+.Check
 what bed bugs look like?
 
 ## Baby Bed Bugs (Looks - Visible?, Size, Colors, Bites)
@@ -31,8 +31,8 @@ https://youtu.be/QozV-JdePM0
 ## **What Do Baby Bed Bugs Look Like?**
 The
 bed bug
-species that mainly attack human�beings are the
-*Cimex hemipterus�or the�Cimex lectularius*
+species that mainly attack humanbeings are the
+*Cimex hemipterusor theCimex lectularius*
 .
 [Adult bed bugs](https://www.epa.gov/bedbugs)
 (females) lay about
@@ -40,11 +40,11 @@ species that mainly attack human�beings are the
 .
 The baby bed bugs-nymphs pass through 5 juvenile "nymph" stages as they molt towards attaining the adult stage - the wingless, reddish-brown, blood-sucking insects.
 **Sidenote**
-: Always spray�against�bedbugs,
+: Always sprayagainstbedbugs,
 fleas
 , or
 roaches
-on used�clothes and�furniture before you get them into your house.�But also, check this guide on how to use
+on usedclothes andfurniture before you get them into your house.But also, check this guide on how to use
 steam heat treatment
 ,
 rubbing alcohol
@@ -55,7 +55,7 @@ bleach
 , or
 Lysol
 to kill bed bugs
-### **1. Appearance and Size�**
+### **1. Appearance and Size**
 In size, Nymphs are in between the
 bed bug eggs
 (1 mm / 0.09 inches) to the size of an adult bed bug (4.5 mm / 0.18 inches).
@@ -64,7 +64,7 @@ bed bugs
 are tiny in size (definitely) but will grow bigger as they suck more blood and molt.
 It's important to note that it's possible to
 see nymphs with the naked eye
-.�An adult bed bug will�be something like an apple seed in size (about 4.5mm), and it is red or brown.
+.An adult bed bug willbe something like an apple seed in size (about 4.5mm), and it is red or brown.
 [caption id="attachment_6620" align="aligncenter" width="300"]
 
 Bed Bugs Lifecycle. Credit: phdmc.org[/caption]
@@ -72,11 +72,11 @@ The baby bed bugs-nymphs add about 0.5 mm of their size at each molting stage (o
 At the 5th nymph stage, the baby bed bug is almost equal to their adult counterparts. But for more clarity, check out the
 [video](https://www.youtube.com/watch?v=xLhL09m5oDM)
 (Courtesy of Sandy Honess) and see how you can differentiate the nymphs from the adult bed bugs.
-### **2. Shape and�****Color�**
+### **2. Shape and****Color**
 Nymphs have an oval just like their counterparts. So, the main difference between the nymphs and the adult bed bugs is just the color. After hatching, nymphs will be yellow-white (almost colorless) but will turn reddish or brown as they feed on blood.
 Before they suck blood, bed bugs are relatively thin and hence will easily slip through cracks and crevices into mattress covers and furniture spaces where they hid, waiting to lay eggs or attack their next host.
 https://www.youtube.com/watch?v=2jGm8widTEY
-## **Do baby bed bugs Jump or Crawl?�**
+## **Do baby bed bugs Jump or Crawl?**
 First things first, the baby bed bug, just like the
 adult bed bugs, can't fly or jump
 . However, these bugs have a breakneck speed when running on a flat surface, ceilings, walls, and floors.
@@ -84,7 +84,7 @@ To be specific, bed bugs will clock about
 [4 feet every second](https://www.terminix.com/bed-bug-control/behavior/do-bed-bugs-jump/)
 . I am wondering if even adult
 bed bugs can fly
-? Do Check�this
+? Do Checkthis
 Guide for more details
 .
 Nevertheless, compared to insects like fleas that can hop and jump around, bed bugs can only crawl or run very fast on floors and other surfaces. Nothing would qualify as an adventure in the movement of bed bugs.
@@ -100,7 +100,7 @@ bed bugs wont do great in moving in thick carpets
 Further, the short legs are also too frail to push heavy objects aside, incredibly when moving in thick hair, carpets, or grass. Therefore, they would opt to climb up the items and drop on the other side or circumnavigate them in such cases.
 ## **Do Baby Bed Bugs Bite?**
 Immediately after hatching, the nymphs from the eggs (nymphs) need to suck a pint of human (of your pets) to allow it to grow, live, and molt into other lifecycle stages.
-Check the nymphs (Nymphs) - Color, Pictures, Movement.�Side note:
+Check the nymphs (Nymphs) - Color, Pictures, Movement.Side note:
 Bed bug eggs
 take two weeks to hatch, after which the nymph moves through the five molt stages during which they must feed on blood.
 **Therefore, the short answer is**

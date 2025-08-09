@@ -17,7 +17,7 @@ layout: post
 Bed bugs hide in a cluster at different locations in your house, including a bed frame, bed buttons, clothes, bedding, cracks, or mattress seam. But do bed bugs only hide in bedrooms? Probably not! Youll also find these bugs in other locations in your residence. So, can bed bugs live on the carpet?
 *The simple answer is, YES, bed bugs will burrow through, hide, and live in your carpets fibers. Bed bugs will infest all carpets, including doormats, theater or studio carpets, church carpets, offices, and laundry room carpets, or even carpets in your car. *
 *Carpets offer a better breeding ground for bed bugs as most of them are rare, and shaking off the dust from them wont remove bed bugs infestation. *
-*Lets get into details - but also check these flea killing powders.�*
+*Lets get into details - but also check these flea killing powders.*
 
 ## Can Bed Bugs Live in Carpet? (Control Guide)
 Bed bugs can live-live-in-your-skin/)
@@ -39,7 +39,7 @@ bed bug can lay about 200 to 450 eggs
 in its entire life of 2 to 6 months.
 Bed bugs only move out to while looking for human blood meal or mate, after which the return. If you look under your bed bug-infested carpet, you will notice clusters of eggs, nymphs, or adult bed bugs crawling.
 NB:
-*Carpet in your bedroom is a classic bed bugs hideout  this will house thousands of them from where they lay eggs, reproduce, spread, and attack you while asleep.�*
+*Carpet in your bedroom is a classic bed bugs hideout  this will house thousands of them from where they lay eggs, reproduce, spread, and attack you while asleep.*
 ## How bed bugs infest your Carpets.
 Your carpets can get infested with bed bugs in the following ways. Here're the main
 causes of bed bug infestation
@@ -81,7 +81,7 @@ NB:
 Lock the bed bugs infested carpet in your room and heat the room to a temperature of 120  140 degrees Fahrenheit. During heat treatment, the room temperature rises to kill all bed bugs in the carpets and other hideouts in the room.
 This method is
 safe for pets
-and humans in your house  you will need to remove all heat-sensitive items within.� Specialized equipment used in this method is slightly expensive. You can also
+and humans in your house  you will need to remove all heat-sensitive items within. Specialized equipment used in this method is slightly expensive. You can also
 best bed bug steamers
 .
 Alternatively, you can purchase smaller size special bed bug Zappers that can heat the room to bed bugs room temperature  these bed bugs zappers are designed to kill of stages of bed bugs.
@@ -97,12 +97,12 @@ You can pour boiling water on bed bug-infested carpets. However, this may not ki
 [treating other bed bugs](https://pestpolicy.com/can-bed-bugs-get-in-your-hair/)
 infested items such as a mattress, bedding, curtains, clothes, or baseboard.
 NB:
-*Check first the fabric/fiber used to make carpets before treatment. Plastic and wool synthetic carpets may shrink when dipped in boiling water.�*
+*Check first the fabric/fiber used to make carpets before treatment. Plastic and wool synthetic carpets may shrink when dipped in boiling water.*
 ### 4. Using Diatomaceous Earth
 Diatomaceous earth
 is a naturally occurring silica product made up of fossilizing skeletons of sea/aquatic creatures. Sprinkle Diatomaceous earth powder over bed bugs infested carpets.
 Leave it for 5 to 10 minutes, then vacuum the carpet  bed bugs will breathe this chemical and die. Bed bugs that will not have died before vacuuming will suffocate in the canister/collector.
-*You will have to carry out this process 2 to 4 times.�*
+*You will have to carry out this process 2 to 4 times.*
 ## How to Prevent Carpet from Bed Bugs Infestation
 Prevent your home carpets from bed bugs infestation by using any of the following ways:
 1. Stop purchasing second-hand carpets, furniture, or home items.

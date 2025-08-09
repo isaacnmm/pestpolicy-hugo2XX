@@ -18,7 +18,7 @@ Summertime in many parts of the World including the United States such as in Was
 [they live longer too](https://pestpolicy.com/how-long-do-squirrels-live/)
 .
 Well, squirrels are comparatively cute and most of us may get attracted to them. In fact, we argue that squirrels are not like lions, bears, or wolves. But do squirrels attack humans?
-*In brief, Yes, squirrels will attack humans whenever they feel threatened - their powerful bites may bring dangerous diseases. So, if you love watching or feeding squirrels in the backyard, you must keep some safe distance.�*
+*In brief, Yes, squirrels will attack humans whenever they feel threatened - their powerful bites may bring dangerous diseases. So, if you love watching or feeding squirrels in the backyard, you must keep some safe distance.*
 - Therefore, if there are squirrels around your house or backyard, you'll need to hire professional [squirrel](https://pestpolicy.com/do-squirrels-carry-ticks/) control - these will help with inspection and control of the squirrel.
 ## Details: Do Squirrels Attack Humans?
 Despite being cute animals, squirrels are equally territorial and competitive mammals. Therefore, the males and females will compete for territories while building nests during fall.
@@ -40,7 +40,7 @@ Such damage in damage by the squirrels will expose your roof to different enviro
 - Besides, the squirrels will chew house elements like the electrical wires while also causing an attraction to pests like raccoons.
 Related:
 Spray for Yellow Jackets
-## **What Should We Do When a Squirrel Gets Inside?�**
+## **What Should We Do When a Squirrel Gets Inside?**
 If a squirrel lands on your property, especially in the attic, you must take quick remedies to avoid further attacks on humans and pets. I recommend you;
 - Use vinegar: Soak some rags into cider vinegar and place these around the door of the attic or at your fireplace.
 - Make noise: When the squirrel is already in the chimney or attic, make massive noises to help scare the animal away from your property.
@@ -55,7 +55,7 @@ More squirrels in the backyard increase the likelihood of some of them chewing t
 As noted above, the squirrels may eat through electrical wires and hence may lead to a power outage, fires, and economic losses around the house.
 Chewing or gnawing on plumbing works and pipes by the squirrels may lead to breakages and water leakages in the house or the backyard.
 - Squirrels will come from the wild environment and will thus carry bugs and parasites such as mites, ticks, and fleas -humans may get ear mites from dogs?
-## How to Remove�Squirrels
+## How to RemoveSquirrels
 So, if you're not ready to allow the squirrels to leave your surrounding on their own or if they're attacking humans, then you need to adopt appropriate removal methods.
 - A one-way squirrels exclusion door will work well in removing the animals since once they get out of the home or yard, they won't easily get back and attack humans.
 - [Live-trapping of these squirrels](https://pestpolicy.com/how-to-get-rid-of-squirrels-in-the-yard/)will help easily and humanely remove these animals from our spaces. For example, one may use cage traps in spaces such as holes and attics.

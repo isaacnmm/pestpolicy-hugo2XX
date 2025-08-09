@@ -24,10 +24,10 @@ So, I've reviewed the top
 bed bug/)
 sprays and outlined how you can use them in your house, bed, or furniture.
 *Side Note*
-:�Sadly, the
+:Sadly, the
 [bed bugs](https://entomology.ca.uky.edu/ef636)
 bite, spread diseases, leave skin shells, and fecal matter - besides making us very nervous as they increase.
-*So, let's get started!�*
+*So, let's get started!*
 # **In a Hurry? Check Best Bed Bug Spray**
 
 ## [1. Our #1 Pick: Ortho Home Defense (Mac Dual-Action) Bed Bug Spray](https://www.amazon.com/dp/B07YM6QZQV/?tag=p-policy-20)
@@ -51,7 +51,7 @@ Luckily, the bed bug spray will kill >130 crawling insects, including bed bugs, 
 around the house, under electrical appliances, in the garage, and in your basements.
 But there's a caveat: Ortho Home Defense will be toxic to your grazing animals and bees. Therefore, avoid spraying the lawns or grounds where the animals, including goats and cows, will forage within seven days.
 The Good:
-- Effective �spot treatment for� home and indoor spaces
+- Effective spot treatment for home and indoor spaces
 - Also kills insecticide- (pyrethroid) resistant bed bugs.
 - Will kill adult bed bugs and their eggs fast through contact by damaging the bed bugs nervous system.
 - It also kills dust mites, fleas, andstink bugs.
@@ -74,13 +74,13 @@ This model won't damage your upholstery or other fabrics with the odorless spray
 Further, the large container means that this
 bed bug killer
 is budget-friendly.
-View the full�Harris Bed Bug Killer review
-. You can spray on your�mattresses, clothes, and furniture.
+View the fullHarris Bed Bug Killer review
+. You can spray on yourmattresses, clothes, and furniture.
 The Good:
 - Both contact and residue killing
 - Natural ingredients that are safe for kids and pets
 - Suitable to apply on the mattress, furniture, and clothes
-- Leaves an excellent�cedar scent
+- Leaves an excellentcedar scent
 - EPA certified
 The Bad:
 - None
@@ -128,10 +128,10 @@ An interesting fact to note is that silica dust has a higher efficacy in killing
 bed bug's
 wax and thus enhance speedier desiccation.
 - Cimexadust is finely ground dust that sticks on a bed bug's body (via electrostatic attraction) and breaks its exoskeleton (cuticle) to dehydrate the bug to its death. Keep off kids and pets.
-The�silica dust, which you'll puff onto the
+Thesilica dust, which you'll puff onto the
 [bug's hiding areas, will dry on the bug's exoskeleton](https://pestpolicy.com/what-causes-bed-bugs/)
-and thus dehydrate it to cause its death. It comes with a�puffer and applicator.
-You may use a�paintbrush to spread the dust thinly onto crevices and�baseboards that the bed bugs will be hiding or moving around. Luckily, silica isn't toxic to human beings but wear a mask.
+and thus dehydrate it to cause its death. It comes with apuffer and applicator.
+You may use apaintbrush to spread the dust thinly onto crevices andbaseboards that the bed bugs will be hiding or moving around. Luckily, silica isn't toxic to human beings but wear a mask.
 The Good:
 - Viable for about ten years if left undisturbed.
 - Silica-based hence kills by dehydrating the bed bugs.
@@ -148,9 +148,9 @@ FenvaStar EcoCap employs "microencapsulation" and will easily give the deadly do
 To reach the wall cracks and floor crevices, you'll require a pump sprayer. FenvaStar EcoCap is also reusable and cheap, making it an excellent option for most homeowners who need to treat the bugs but on a budget.
 FenvaStar EcoCap will be great for indoor bed bug extermination, partially for food cabinets, underneath appliances, and under carpets.
 You can apply in outdoor spaces, including on ornamental plants, turf, structural, and livestock houses. However, dont spray more than once in 2 weeks as it could lead to poisoning.
-You'll require�1 to 2 ounces of the�FenvaStar EcoCap per gallon of
+You'll require1 to 2 ounces of theFenvaStar EcoCap per gallon of
 [water to spray against the bed bugs](https://pestpolicy.com/can-bed-bugs-survive-in-water/)
-. For every square foot to be treated for bed bugs, you'll require to apply a spray burst of about� 2 seconds.
+. For every square foot to be treated for bed bugs, you'll require to apply a spray burst of about 2 seconds.
 The Good:
 - Employs themicroencapsulation technology in random elimination of the bed bugs
 - Budget-friendly
@@ -159,9 +159,9 @@ The Bad:
 - No quick knock-down effect
 ## [6. Bayer Advanced Bed Bug Spray - Perimeter or Spot Treatment](https://www.amazon.com/dp/B001IDO78O/?tag=p-policy-20)
 
-Bayer Advanced 700480, with� B-Cyfluthrin and Sodium O-Phenylphenate as the active ingredients,
+Bayer Advanced 700480, with B-Cyfluthrin and Sodium O-Phenylphenate as the active ingredients,
 is amazingly great for killing these bugs in a quick knockdown manner.
-- Bayer Advanced also kills bacteria causingenterobacter aerogenes and�Staphylococcus Aureus.It has a long residue effect of 1 year for indoor bed bug protection.
+- Bayer Advanced also kills bacteria causingenterobacter aerogenes andStaphylococcus Aureus.It has a long residue effect of 1 year for indoor bed bug protection.
 Bayer Advanced 700480 will kill a wide range of pests (
 60+ outline pests)
 like bed bugs,
@@ -187,13 +187,13 @@ residue effect of 3 weeks,
 a
 [safe](http://pmep.cce.cornell.edu/profiles/insect-mite/mevinphos-propargite/neem-cold/neem_oil_mcl_0513.pdf)
 alternative for the chemical-based sprays.
-- The active ingredient in�Proof 100% Effective is[Cold-Pressed Neem Oil (5.5%)](http://npic.orst.edu/factsheets/neemgen.html)- fromneem tree seeds,which will repel the bed bugs but wont be great in disrupting the bugs lifecycle.
+- The active ingredient inProof 100% Effective is[Cold-Pressed Neem Oil (5.5%)](http://npic.orst.edu/factsheets/neemgen.html)- fromneem tree seeds,which will repel the bed bugs but wont be great in disrupting the bugs lifecycle.
 It's known to be both eco-friendly and kills through contact, which is equally suitable for indoor bed bug control.
 You can apply it to your carpets, clothes, and furniture.
 - Despite being a "natural" pesticide,Proof of 100% Spray won't be safe if inhaled by kids or adult humans.
-- Therefore, when spraying, you'll also need a�fumigation mask to avoid inhaling the fumes.
+- Therefore, when spraying, you'll also need afumigation mask to avoid inhaling the fumes.
 Since its neem-based,
-Proof 100%�Spray
+Proof 100%Spray
 is safe for both your kids and pets. The Azadirachtin from the neem
 oil will disrupt the bed bugs'
 hormones, which translates to poor mating or reproduction.
@@ -207,7 +207,7 @@ Check this comprehensive Proof bed bug spray review
 The Good:
 - Comes in a spray bottle and will thus be easy to use
 - It's a contact-killing bed bug killer.
-- Contain natural active ingredients from the�Neem tree (thus it's non-toxic)
+- Contain natural active ingredients from theNeem tree (thus it's non-toxic)
 - It contains Azadirachtin that'll disrupt the reproduction cycle of the bed bugs by affecting hormones' functioning.
 - Has a residue effect of about 2 weeks
 The Bad:

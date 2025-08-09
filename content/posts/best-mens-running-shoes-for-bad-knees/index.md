@@ -204,4 +204,4 @@ Cons:
 ## Conclusion
 The best mens running shoes for bad knees are an important accessory to any male experiencing painful knees during the running session. You can eliminate all the pains and discomforts associated with bad knees by investing in the correct footwear.
 
-Luckily, Ive reviewed some of the top-rated shoes for bad knees.� All the reviewed shoes on the above list boast of good cushioning, comfort, durability, reliable traction, and breathability. Go ahead and choose your favorite pair.
+Luckily, Ive reviewed some of the top-rated shoes for bad knees. All the reviewed shoes on the above list boast of good cushioning, comfort, durability, reliable traction, and breathability. Go ahead and choose your favorite pair.

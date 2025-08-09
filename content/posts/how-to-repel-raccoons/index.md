@@ -13,7 +13,7 @@ tags:
 - raccoon
 layout: post
 ---
-Below is�how to repel raccoons?�A [raccoon](https://pestpolicy.com/how-to-get-rid-of-raccoons/) is probably one of the most tenacious and clever pests that boasts a wide variety of athletic skills.
+Below ishow to repel raccoons?A [raccoon](https://pestpolicy.com/how-to-get-rid-of-raccoons/) is probably one of the most tenacious and clever pests that boasts a wide variety of athletic skills.
 [Raccoons](https://en.wikipedia.org/wiki/Raccoon)
 can jump, climb, run, or swim with ease, and they have an unparalleled ability to break into trashcans near your home.
 

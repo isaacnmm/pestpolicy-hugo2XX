@@ -36,14 +36,14 @@ Netgear's Nighthawk EX7000 is a modern and powerful WiFi extender that has simil
 Netgear Nighthawk EX7000 WI-FI Extender also has Ethernet ports (5 GHz) and thus may serve as a Gigabit Ethernet Switch.
 You can easily seat up the extender by pressing the WPS button. Further, the device will allow you to set up its settings via an online browser.
 Characteristically, the EX7000 WI-FI Extender has an angular design, black color, and three antennas on its back.
-It has a dual-band 802.11ac WiFi, which allows 1300Mbs (for 5 GHz), and 600Mbs (2.4 GHz), with the appropriate wireless adapters.� Covers Up-to 10000 Square feet.
+It has a dual-band 802.11ac WiFi, which allows 1300Mbs (for 5 GHz), and 600Mbs (2.4 GHz), with the appropriate wireless adapters. Covers Up-to 10000 Square feet.
 The device has 5 USB 3.0 ports that you can use to connect a USB flash drive that can act as a network share. With the 5GHz Ethernet ports, you'll easily connect with multiple game consoles, TVs, and computers.
 With the online portal, you can easily set up the 2.4GHz & 5GHz bands. However, you would need to touch the WPS button to connect to another wireless device.
 Further, with the WiFi Analytics app, you can pinpoint the crowded WiFi channels or note the network signal strength.
 https://www.youtube.com/watch?v=v6ljxqA1DMY
 ### [3. NETGEAR Nighthawk X4 AC2200 WiFi Range Extender (EX7300) - #3 Pick](https://www.amazon.com/dp/B01D6JEMWS/?tag=p-policy-20)
 Third, in line with the Best WiFi Extender for Verizon Fios, is the X4 AC2200 NETGEAR-Nighthawk. Characteristically, the X4 AC2200 NETGEAR-Nighthawk Extender has a white and grey color scheme.
-The WiFi extender has a 3-pin plug and a model tower look.�Are you worried about WiFi overheating? Well, the X4 AC2200  Extender comes with vents on all its sides and reduces overheating problems.
+The WiFi extender has a 3-pin plug and a model tower look.Are you worried about WiFi overheating? Well, the X4 AC2200  Extender comes with vents on all its sides and reduces overheating problems.
 The devices support 802.11 a/b/g/n/ac, both a 2.4 and 5 GHz gateway or router  which attains up to 2.2Gbps. Also, it has 450 Mbps + 1733 Mbps WiFi speed performance.
 Further, with the FastLane technology and MU-MIMO, the extender will allow seamless simultaneous streaming.
 Considering coverage range, the X4 AC2200  Extender will extend your WiFi up to 10,000 square feet. The extender is easy to use as its setup is CD-less.
@@ -57,7 +57,7 @@ It's Stateful Packet Inspection (SPI) allows customization of your firewall.
 - The extender allows you to extend your Verizon WiFi range to about 325 feet, great for your residence.
 The extender comes with the "beamforming technology" that will enhance your signal range and strength.
 Do not worry about the safety of your kids with the WiFi as the extender comes with parental control capability.
-Further, the extender has an integrated antenna�and slim build that allows you to place it at any desk, taking very little space.
+Further, the extender has an integrated antennaand slim build that allows you to place it at any desk, taking very little space.
 Further, the extender is plug and play, and thus you'll not require any unique software or CDs to install. The extender will allow MAC address filtering with the WPA2 or WPA wireless protection. Read Also:
 Motherboard for i7 6700 (non-K)
 .

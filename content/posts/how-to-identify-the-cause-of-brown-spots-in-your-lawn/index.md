@@ -118,13 +118,13 @@ Fungal diseases often appear in specific patterns and are exacerbated by certain
 
 1.  **Brown Patch:**
     * **Appearance:** Circular or irregularly shaped brown patches, often with a distinct "smoke ring" or dark border of discolored grass, especially in the early morning dew. Can range from a few inches to several feet in diameter.
-    * **Cause:** Caused by *Rhizoctonia solani* fungus, active in hot, humid weather (70-90�F) with high nighttime temperatures and prolonged leaf wetness.
+    * **Cause:** Caused by *Rhizoctonia solani* fungus, active in hot, humid weather (70-90F) with high nighttime temperatures and prolonged leaf wetness.
     * **Clues:** Symptoms appear quickly during hot, humid periods.
     * **Treatment:** Reduce nitrogen fertilization during hot months, improve air circulation, avoid overwatering (especially in the evening), dethatch, and use fungicides if severe.
 
 2.  **Dollar Spot:**
     * **Appearance:** Small, circular, straw-colored spots (the size of a silver dollar or larger) that often merge into larger irregular patches. Individual blades may have tan lesions with reddish-brown borders.
-    * **Cause:** Caused by *Clarireedia jacksonii* (formerly *Sclerotinia homoeocarpa*) fungus, active in moderate temperatures (60-85�F) with extended periods of leaf wetness and often low nitrogen fertility.
+    * **Cause:** Caused by *Clarireedia jacksonii* (formerly *Sclerotinia homoeocarpa*) fungus, active in moderate temperatures (60-85F) with extended periods of leaf wetness and often low nitrogen fertility.
     * **Clues:** Small, distinct spots, often appearing in spring and fall.
     * **Treatment:** Adequate fertilization (especially nitrogen), proper watering to avoid prolonged leaf wetness, dethatching, and fungicides if persistent.
 

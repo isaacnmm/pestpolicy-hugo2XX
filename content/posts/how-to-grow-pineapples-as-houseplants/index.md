@@ -17,7 +17,7 @@ layout: post
 ---
 The pineapple (*Ananas comosus*) is an iconic symbol of the tropics, celebrated for its unique spiky fruit and lush, architectural foliage. While most of us associate pineapples with sun-drenched plantations, it's surprisingly easy and rewarding to grow a pineapple plant right in your own home, even in non-tropical climates. Starting a pineapple plant from the top of a store-bought fruit is a popular and fun horticultural experiment that can transform your indoor space with exotic flair.
 
-While it takes patience � often 2-3 years to produce fruit � the journey from a discarded crown to a mature, fruiting plant is captivating. Even without fruit, the striking rosette of sword-like leaves makes for an impressive [houseplant](https://pestpolicy.com/how-to-repot-houseplants/). This guide will take you through the simple steps of propagating a pineapple top, providing the essential care for its growth, and even coaxing it into producing its own sweet, homegrown fruit.
+While it takes patience  often 2-3 years to produce fruit  the journey from a discarded crown to a mature, fruiting plant is captivating. Even without fruit, the striking rosette of sword-like leaves makes for an impressive [houseplant](https://pestpolicy.com/how-to-repot-houseplants/). This guide will take you through the simple steps of propagating a pineapple top, providing the essential care for its growth, and even coaxing it into producing its own sweet, homegrown fruit.
 
 ## About Pineapples
 

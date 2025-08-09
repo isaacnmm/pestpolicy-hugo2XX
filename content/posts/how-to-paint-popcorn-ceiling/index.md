@@ -49,7 +49,7 @@ When you are sure you have all the tools needed for the job, you can begin by se
 This includes sitting at the most strategic point to place your step ladder for good coverage of the ceiling.
 The next point is laying the drop cloth by clearing any material underneath and organizing where to keep your tools.
 When you are done, mark out all the edges and the walls that are within your painting range with masking tape to help minimize paint dropping.
-You can either remove the furniture within the room or have them well covered with a big drop cloth.�Ensure to mask the drop cloth to the floor to avoid dust from underneath getting on the furniture.
+You can either remove the furniture within the room or have them well covered with a big drop cloth.Ensure to mask the drop cloth to the floor to avoid dust from underneath getting on the furniture.
 Ensure the furniture is protected from paint dropping above and the dust from below the surface. When the workspace is ready and covering done - proceed to the next step.
 > See Also:
 > Paint Finish for Ceilings

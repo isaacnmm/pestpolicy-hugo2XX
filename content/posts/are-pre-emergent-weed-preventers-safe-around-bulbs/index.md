@@ -48,12 +48,12 @@ Understanding the active ingredients helps you choose the right product.
 
 ### Generally Safe (for established bulbs):
 
-1.  **Prodiamine:** (e.g., in Dimension�) A popular and effective choice for lawns and garden beds. It creates a long-lasting barrier. Generally considered safe around bulbs when applied correctly.
+1.  **Prodiamine:** (e.g., in Dimension) A popular and effective choice for lawns and garden beds. It creates a long-lasting barrier. Generally considered safe around bulbs when applied correctly.
 2.  **Pendimethalin:** (e.g., in Scotts Halts, Sta-Green Crabgrass Preventer) Another widely used pre-emergent. Similar safety profile to prodiamine for established bulbs.
 3.  **Corn Gluten Meal (CGM):**
     * **Organic Option:** This is a natural, organic pre-emergent that also acts as a slow-release nitrogen fertilizer.
     * **How it Works:** It inhibits root formation in weed seedlings.
-    * **Safety around Bulbs:** **Very safe** around established bulbs and other desirable plants. It�s also pet-friendly.
+    * **Safety around Bulbs:** **Very safe** around established bulbs and other desirable plants. Its also pet-friendly.
     * **Considerations:** Less potent than synthetic options, and results may take longer to become apparent. Needs to be watered in thoroughly after application for activation.
 
 4.  **Isoxaben:** (e.g., in some granular weed preventers for flower beds) Offers broad-spectrum weed control and is generally safe for established ornamentals, including bulbs.

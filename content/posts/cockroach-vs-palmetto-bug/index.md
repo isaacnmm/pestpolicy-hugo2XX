@@ -38,7 +38,7 @@ They seldom
 bite humans
 , and their bites are nothing to worry about as they show up as tiny, red marks but are not poisonous or painful.
 It might seem that the worst these pests can do is cause disruption in your home, but beware!
-Due to their love of hiding in dirty, unsanitary locations, they can infect your food with bacteria like salmonella. Furthermore, they can set off asthma and allergies.�Read Also:
+Due to their love of hiding in dirty, unsanitary locations, they can infect your food with bacteria like salmonella. Furthermore, they can set off asthma and allergies.Read Also:
 Best Roach Killer
 ## **Where Do They Make Their Home? **
 When it comes down to the cockroach vs. the palmetto bug, both are very versatile. They don't perish quickly.
@@ -69,7 +69,7 @@ spray your home's interior and exterior
 - Make a poison using three partsboric acidand one part powdered sugar
 The sugar is the
 lure, and then the boric acid
-takes over and kills them.�Read Also:
+takes over and kills them.Read Also:
 [Do Cockroaches Bite?](https://pestpolicy.com/do-cockroaches-bite/)
 ## Conclusion
 As if that isn't enough, these hardy cockroaches can survive two or three months minus food and go an entire month with no water.

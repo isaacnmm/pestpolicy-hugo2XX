@@ -28,10 +28,10 @@ When exposed, the water in them evaporates, and subsequently, they become dehydr
 - Granulated DE is usually available as a powder and always fit for humans and pets' consumption. For DE to be fit for consumption, it must contain less than 1% crystalline silica. Granulated DE is used as the food grade.
 **Milled diatomaceous earth**
 - Also called micronized DE. It is an excellent form of DE that is used in the manufacture of insecticides and pesticides.
-**Calcined Diatomaceous earth -�**
+**Calcined Diatomaceous earth -**
 This form of DE is usually heat treated and used in water filtering and explosives manufacture.
 
-## **Benefits of Diatomaceous Earth for Fleas�**
+## **Benefits of Diatomaceous Earth for Fleas**
 1. Natural dewormer
 Apart from
 getting rid of fleas
@@ -50,7 +50,7 @@ Cats come in different sizes, which means that their dosages will actually be di
 - Full-grown cats (7-13 lbs)- 1 teaspoon of food-grade DE once a day in food
 - Large cats (>13 lbs)-1.5 teaspoon of food-grade DE once a day in food.
 *Kittens- nursing kittens should not be given DE until they start taking solid foods
-## **Safety Cautions on Using�Diatomaceous Earth for Fleas on Cats**
+## **Safety Cautions on UsingDiatomaceous Earth for Fleas on Cats**
 The following are the precautions:
 1. Ensure that the DE you are giving your cat is food grade. It should have less than 1% crystalline silica.
 2. Ensure that you mix well the food and DE. Failure to mix OK causes irritation to the lungs of the cat and you due to the dust.
@@ -65,7 +65,7 @@ when using DE to eliminate fleas from your cat.
 **Step 2**
 - Vacuum those places where your cat likes to hang out the most. By this, you will collect any eggs that have not hatched. DE does not affect the eggs and will wait for them to hatch, so it acts.
 **Step 3**
-- Sprinkle the areas with DE. Always ensure that the surfaces are dry since damp conditions reduce the effectiveness of DE. You can use an applicator of your choice.�Leave the DE on the surfaces for some weeks.
+- Sprinkle the areas with DE. Always ensure that the surfaces are dry since damp conditions reduce the effectiveness of DE. You can use an applicator of your choice.Leave the DE on the surfaces for some weeks.
 **Step 4-**
 Let your cat roam around the places you have applied DE for some days and then bathe it. Ensure that you use a soap-free moisturizing shampoo.
 **Step 5- **

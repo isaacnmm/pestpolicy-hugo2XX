@@ -80,7 +80,7 @@ The upper also has a 3D Fit Printed design that offers shoes structure and extra
 pain on top of foot
 while ensuring additional comfort.
 
-The Brooks Adrenaline GTS 20 has an outsole with a blown rubber compound.� This rubber compound provides needed protection against abrasion. Below the outsole, youll find strategically placed Omega Flex Grooves that encourages the foot to bend naturally. They also ensure a smooth heel to toe transition while providing crucial grip on surfaces.
+The Brooks Adrenaline GTS 20 has an outsole with a blown rubber compound. This rubber compound provides needed protection against abrasion. Below the outsole, youll find strategically placed Omega Flex Grooves that encourages the foot to bend naturally. They also ensure a smooth heel to toe transition while providing crucial grip on surfaces.
 Pros:
 - Provides excellent stability
 - Comfortable
@@ -171,7 +171,7 @@ Mizuno Wave Inspire 16 is a stability running shoe for overpronators. It offers 
 
 The upper features engineered mesh material. This sock-like material holds the foot in place. The upper has small pores that aid in breathability that allows the free flow of air into the shoe for a dry and fresh wear experience.
 
-The Mizuno Wave Inspire 16 features the Wave thermoplastic plate within the midsection. The plate provides midfoot stability hence prevent overpronation.� The U4ic technology provides long-lasting cushioning and helps in shock absorption. It also supports the foot during the gait cycle.
+The Mizuno Wave Inspire 16 features the Wave thermoplastic plate within the midsection. The plate provides midfoot stability hence prevent overpronation. The U4ic technology provides long-lasting cushioning and helps in shock absorption. It also supports the foot during the gait cycle.
 
 Underneath the heel section, there is an X10 compound, which is a rubber technology that promotes the shoes durability while preventing excess wear and tear. This compound also provides reliable traction on various surfaces.
 
@@ -188,7 +188,7 @@ Cons:
 
 ## Buyers Guide Best Stability Running Shoes for Overpronators
 ### Flexibility
-The best stability running shoes for overpronators should offer the right level of flexibility.� Ensure you choose shoes that offer support while protecting you from twisting your ankles as you run.
+The best stability running shoes for overpronators should offer the right level of flexibility. Ensure you choose shoes that offer support while protecting you from twisting your ankles as you run.
 
 If youll be running on uneven surfaces like grass, youll need shoes that offer the right flexibility and grip to prevent accidents.
 

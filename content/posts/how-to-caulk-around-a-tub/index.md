@@ -143,4 +143,4 @@ With your tub sparkling clean and dry, it's time to plan your caulk application 
 
 ## Final Thoughts
 
-Re-caulking around a tub is a fundamental home maintenance task that directly impacts the longevity and health of your bathroom. By investing the time in meticulous preparation and following these steps for **how to caulk around a tub**�especially filling the tub, using 100% silicone, and employing proper smoothing techniques�you can achieve a professional-quality, watertight seal. This DIY project will protect your home from costly water damage, deter mold growth, and refresh the appearance of your bathroom for years to come.
+Re-caulking around a tub is a fundamental home maintenance task that directly impacts the longevity and health of your bathroom. By investing the time in meticulous preparation and following these steps for **how to caulk around a tub**especially filling the tub, using 100% silicone, and employing proper smoothing techniquesyou can achieve a professional-quality, watertight seal. This DIY project will protect your home from costly water damage, deter mold growth, and refresh the appearance of your bathroom for years to come.

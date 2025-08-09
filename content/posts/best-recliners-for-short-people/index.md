@@ -35,7 +35,7 @@ Read Also:
 Blackout Curtains Reviewed
 ### [2. Best Selling Davis Fabric Recliner Club Chair, Light Beige](https://www.amazon.com/dp/B00ERBG3C2/?tag=p-policy-20)
 Therefore: Its a no-brainer that searching for the perfect recliner for yourself, as a person of short stature, is an even more challenging task.
-- I recommend the�Flash Furniture Kids Microfiber Recliner as the Best Recliners For Short People.
+- I recommend theFlash Furniture Kids Microfiber Recliner as the Best Recliners For Short People.
 - When purchasing decent Recliners For Tall People you won't need to have many specifics in your mind.
 I will give you additional information, critical in making a purchase decision, later in the Buyers Guide. Read Also:
 Best Ergonomic Sofa

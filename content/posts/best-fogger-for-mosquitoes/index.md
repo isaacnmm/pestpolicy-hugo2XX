@@ -19,7 +19,7 @@ activity like picnics, barbeque, or camping
 . This is why I have prepared the best [fogger](https://pestpolicy.com/best-fogger-for-bed-bugs/) for mosquitoes to help you in managing them.
 - These foggers come in different brands and sizes but all serve the same purposes-keeping your area mosquito-free.
 - Unlike traps, these foggers are more reliable and effective in eliminating and making your environment mosquito-free.
-In this article, I will closely scrutinize these foggers and present informed buying options.�In a Hurry? Check these foggers for Mosquitoes for Hiking.
+In this article, I will closely scrutinize these foggers and present informed buying options.In a Hurry? Check these foggers for Mosquitoes for Hiking.
 
 ## [1. Our #1 Pick: Black-Flag 190095 Repelling Propane Fogger](https://www.amazon.com/dp/B0001AUFAO/?tag=p-policy-20)
 
@@ -55,7 +55,7 @@ Bed Bug Bites Vs Mosquito Bites
 The fastest way to eliminate the mosquitoes in the outskirts of your house- patios, decks, picnic areas, or backyards.
 Cutter
 kills by contact
-.� You can use it on, flies, gnats, ants, and moths among others.
+. You can use it on, flies, gnats, ants, and moths among others.
 Every purchase of cutter comes packaged in a pair of 16 oz. can. This can cover an area of 1,200 cubic feet. If you are still having more mosquitoes, you can reapply the cutter but 24 hours after the first application.
 - You dont need to get worried about transporting them as they are very portable and easy to spray.
 - Apart from killing the insects, the cutter also repels this insect and keeps your home protected.

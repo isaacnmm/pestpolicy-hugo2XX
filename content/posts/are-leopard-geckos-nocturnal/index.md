@@ -15,17 +15,17 @@ tags:
 layout: post
 ---
 Leopard geckos [are](https://pestpolicy.com/are-fleas-nocturnal/) terrestrial animals that mostly live on the ground and under rocks. Naturally, you will find them in the Middle East and Asia in countries like Iran, Afghanistan and India. So,
-*are [leopard](https://pestpolicy.com/what-does-leopard-gecko-eat/) geckos nocturnal?�*
+*are [leopard](https://pestpolicy.com/what-does-leopard-gecko-eat/) geckos nocturnal?*
 **In summary, contrary to popular belief Leopard geckos **are crepuscular and not nocturnal. They are not active the whole night, but you'll only enjoy them at fading light at dusk and dawn during twilight. ****
-****Leopard geckos difference from the rest of nocturnal gecko is they have large eyes and ears so they can see and hear clearly at night.�****
-# **In a Hurry? Check these Geckos�Foods**
+****Leopard geckos difference from the rest of nocturnal gecko is they have large eyes and ears so they can see and hear clearly at night.****
+# **In a Hurry? Check these GeckosFoods**
 
-## Details:**Are Leopard Geckos Nocturnal?�**
+## Details:**Are Leopard Geckos Nocturnal?**
 Geckos may fall under the lizard family, but physically, they are very different from lizards. Lizards lack eyelids and lick their eyes to clean them. Finally, all geckos have vocal cords that allow them to bark as a protective mechanism to scare away predators.
 
 Leopard geckos, on the other hand, have a unique set of features that differentiate them from your normal gecko. They lack sticky toe pads which limit their ability to climb. Leopard geckos have vocal cords just like other geckos. Leopard geckos are different from other geckos as they have eyelids and dont lick their eyes to clean them.
-*Leopard geckos Described:�*
-- An adult Leopard length is between 20.5-27.5cm and may weigh between 45-65 grams.�During winter, they undergo semi-hibernation (brumation), which is triggered by low temperatures.
+*Leopard geckos Described:*
+- An adult Leopard length is between 20.5-27.5cm and may weigh between 45-65 grams.During winter, they undergo semi-hibernation (brumation), which is triggered by low temperatures.
 - During brumation, they sleep fulltime and uses energy reserves stored in their tails, waking up only to drink water.
 ## **Are all Geckos Crepuscular ?**
 Geckos make good reptile pets. However, you may not enjoy them much as you may want to. It all depends on the time of the day they are active.
@@ -45,9 +45,9 @@ A good example is the Lygodactylus williamsi naturally found in Africa. The Lygo
 Nocturnal geckos are active during the night and spend most of their day time sleeping.
 
 There are several species of geckos that are predominantly nocturnal like Moorish gecko which active at night but will occasionally feed or drink water during the day.
-## **Do Leopard Geckos Need Light At Night?�**
+## **Do Leopard Geckos Need Light At Night?**
 The establishment that Leopard geckos are indeed not nocturnal but
-**Crepuscular�**
+**Crepuscular**
 led to a debate on whether they need Ultraviolet lighting. Many pet owners dont offer UV lighting to their leopard geckos.
 
 Surprisingly, there are no apparent health issues associated with a lack of UVB. However, research has further shown that although they dont bask under the sun to get UV light, they use the few hours they come out to feed at dusk and dawn to get UV too.
@@ -67,12 +67,12 @@ As a pet owner, you must put into consideration that geckos as reptiles are exot
 A bulb offering basking temperatures of 32 degrees should be available for the gecko the whole day in the spot area. In the cool end, the temperatures should be maintained at 25 degrees.
 
 You must monitor the temperatures and humidity levels more so during the winter to ensure that the gecko is kept sufficiently warm.
-## **What Time Of Day Should I Feed My Leopard Gecko?�**
+## **What Time Of Day Should I Feed My Leopard Gecko?**
 You may be wondering what the ideal time of the day to feed your gecko is. Geckos mainly feed insects like crickets, locusts etc. The live food in the form of insect gets loaded in calcium balancer, and phosphorus should not be included in the diet.
 
 The ideal time for you to feed your gecko is between 7-9 pm immediately after its active following a docile day. It is also the best time to enjoy your pet as its up and full of glory.
 
-The feeding lasts between 10-20 minutes after which any unconsumed live food should be withdrawn from the gecko.�If your gecko is less than a year old, feeding it once in a day is enough.
+The feeding lasts between 10-20 minutes after which any unconsumed live food should be withdrawn from the gecko.If your gecko is less than a year old, feeding it once in a day is enough.
 
 Adult geckos should, however, be fed once in two days. Sometimes your leopard gecko may refuse to eat. The scenario is as a result of illness.
 

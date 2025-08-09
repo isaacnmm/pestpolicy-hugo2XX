@@ -61,7 +61,7 @@ Some products, like
 For example,
 *Non-Adhesive Shelf Liner*
 can be cut to fit the enclosure and reused after cleaning, making it a cost-effective option over time.
-## Top 5 Product Recommendations -�Substrate for Leopard Gecko
+## Top 5 Product Recommendations -Substrate for Leopard Gecko
 ### [1. GECKOPIA Premium Reptile Liner  Reptile Carpet](https://www.amazon.com/dp/B09W7KQHCS/?tag=p-policy-20)
 Reptile Carpet is a go-to choice for many
 Leopard Gecko

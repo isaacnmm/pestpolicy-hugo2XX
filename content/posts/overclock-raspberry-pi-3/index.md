@@ -16,7 +16,7 @@ layout: post
 In this article, Ill teach you how to overclock your Raspberry pi 3  with the goal of improving its performance.
 
 Despite that overclocking mainly happen on the software level, the changes will significantly affect the physical level too.
-First, increasing the power of the Raspberry Pi 3 processor  through overclocking  may cause hazardous overheating of the Raspberry Pi and all the hardware components near it.�Notably, the temperatures reach highs of 100  C! Read Also:
+First, increasing the power of the Raspberry Pi 3 processor  through overclocking  may cause hazardous overheating of the Raspberry Pi and all the hardware components near it.Notably, the temperatures reach highs of 100  C! Read Also:
 USB Hub for iMac
 .
 ## Why Overclock Raspberry Pi 3?
@@ -33,25 +33,25 @@ SD Card for Raspberry Pi 3
 .
 3. A great power supply  for this I advise that you take a 5v 3A power supply.
 ## **Modify the Raspberry Pi 3 configuration files.**
-Lets dive right into the overclocking details.�For previous Raspberry Pi models, you only required to use the sudo raspi-config command. But now, youll have to modify the Raspberry Pi 3 configuration files.
+Lets dive right into the overclocking details.For previous Raspberry Pi models, you only required to use the sudo raspi-config command. But now, youll have to modify the Raspberry Pi 3 configuration files.
 1. First, well require modifying the /boot/config.txt files that hold different settings that are loading during Raspberry Pi startup. The settings mainly affect the processor use and Raspberry Pi behavior.
 Therefore, begin a terminal window in the Raspberry Pi and input the command below:
 sudo nano /boot/config.txt
-The above command will launch the file named /boot/config.txt. Further, the command�sudo and the text editor�nano will request the system to undertake the function using the administrator account (�/boot/config.txt because this is a critical action.
+The above command will launch the file named /boot/config.txt. Further, the commandsudo and the text editornano will request the system to undertake the function using the administrator account (/boot/config.txt because this is a critical action.
 1. With the file being open, ready for modification, now edit it so that you input the below-outlined lines:
 *core_freq=500 # GPU Frequency*
 *arm_freq=1300 # CPU Frequency*
 *over_voltage=4 #Electric power sent to CPU / GPU (4 = 1.3V)*
 *disable_splash=1 # Disables the display of the electric alert screen*
-However, note that the above lines might already be available in different lines. In such a case, youll only need to ensure that the lines are not commented on (this means that the lines of code must not begin with one�#)
-1. Next, save all the changes through this shortcut�Ctrl+o and finally exit from the file using this shortcut�Ctrl+x.
+However, note that the above lines might already be available in different lines. In such a case, youll only need to ensure that the lines are not commented on (this means that the lines of code must not begin with one#)
+1. Next, save all the changes through this shortcutCtrl+o and finally exit from the file using this shortcutCtrl+x.
 2. Finally, use the reboot command to restart your Raspberry Pi
 Read Also:
 [Laptop for Music Production](https://pestpolicy.com/best-laptop-for-music-production/)
 ## Test whether the overclock is enabled
 To check, just run this command lscpu, and itll show the processor details. Therefore, if the CPU max MHz values are 1500, then youre on point  youve overclocked the Raspberry Pi 3!
 ## Overclocking Raspberry Pi 2 or older models
-Like I had noted above, overclocking the Raspberry Pi 2 and easier models is much easier. Therefore, the modification will be a lot easier as youll utilize the GUI�raspi-config.
+Like I had noted above, overclocking the Raspberry Pi 2 and easier models is much easier. Therefore, the modification will be a lot easier as youll utilize the GUIraspi-config.
 So, on the Raspberry Pi terminal, give the command below:
 sudo raspi
 *-config*

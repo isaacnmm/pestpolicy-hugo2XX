@@ -41,16 +41,16 @@ The Ash hardwood legs fitted on the nursery chair will allow you to rock easily.
 
 The Nursery Sleepytime Rocker has durable linen and polyester materials that will give you top comfort as you nurse your baby. Further, it has a detachable lumbar pillow and has a stylish look.
 
-Interestingly, the chair has a stylish and pragmatic design that will fit well into the nursery d�cor such as the
+Interestingly, the chair has a stylish and pragmatic design that will fit well into the nursery dcor such as the
 blackout curtains
 .
 The cushions are firm and the small back pillow is excellent in shape and size to offer great support to the back.
 I must say that chair is comfortable and will give you the required support while you rest and breastfeed your baby.
 - It is spacious enough that it can accommodate another small kid when you are still seated nursing your infant.
-- Fits into Room Decor -�The rocking nursing chair has light-colored Wood legs that will fit excellently into your room or nursery decor.
+- Fits into Room Decor -The rocking nursing chair has light-colored Wood legs that will fit excellently into your room or nursery decor.
 Hand-crafted upholstery - The nursery rocking chair has a hand-created and safe upholstery made from Pebble Weave to produce a trendy feel.
 - You truly will not just get a truly functional chair but also a beautiful and stylish component added to your nursery space.
-- Ash hardwood -�The chair is crafted from Ash hardwood that is properly balanced to offer an amazingly comforting rocking motion.
+- Ash hardwood -The chair is crafted from Ash hardwood that is properly balanced to offer an amazingly comforting rocking motion.
 Further, the Upholstery material is chemical-free. Also, the chair satisfies the CA TB117-2013 requirements on flammability.
 https://www.youtube.com/watch?v=2PpGKqFmja0
 Read Also:
@@ -77,7 +77,7 @@ ACME 59390 Sharan Rocking Chair has a padded back and seat area.
 - It has a strong build to increase safety while you are rocking the baby away.
 The front legs are cabriole while it adopts the scalloped apron french style. ACME 59390 Sharan Rocking Chair has a fresh design that comes with cabriole front legs, a scalloped apron, and unique fabric cushions with flowery patterns.
 
-It has a padded back and seat area for additional comfort. Notably, the chair will improve the face of your nursery d�cor. Read Also:
+It has a padded back and seat area for additional comfort. Notably, the chair will improve the face of your nursery dcor. Read Also:
 [Best Ergonomic Sofa](https://pestpolicy.com/best-ergonomic-sofa/)
 .
 - The back and seat come as separate parts and thus it will require some assembly worm.
@@ -87,4 +87,4 @@ Bullet Journal Notebook
 ## Conclusion
 Well-balanced - The sleepytime Rocker for the nursery is well-balanced with minimal padding and creates great comfort for nursing.
 - The chair has ash hardwood legs enhanced and excellent smooth rocking or[recliners for short people](https://pestpolicy.com/best-recliners-for-short-people/).
-Aesthetic Look -�The nursery rocking chair is easy to install and has an excellent aesthetic look. However, the chair would also be an excellent addition to the indoor room.
+Aesthetic Look -The nursery rocking chair is easy to install and has an excellent aesthetic look. However, the chair would also be an excellent addition to the indoor room.

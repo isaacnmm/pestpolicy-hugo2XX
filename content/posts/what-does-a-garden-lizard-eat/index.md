@@ -14,12 +14,12 @@ tags:
 - lizard
 layout: post
 ---
-What Does a Garden [Lizard](https://pestpolicy.com/are-lizards-poisonous/) Eat? A [garden](https://pestpolicy.com/10-essential-lawn-and-garden-tools-for-fall/) lizard is a great reptile pet for homeowners. These reptiles� (Calotes Veriscolor ) also known as oriental garden lizards reside in warm areas like Asia.
+What Does a Garden [Lizard](https://pestpolicy.com/are-lizards-poisonous/) Eat? A [garden](https://pestpolicy.com/10-essential-lawn-and-garden-tools-for-fall/) lizard is a great reptile pet for homeowners. These reptiles (Calotes Veriscolor ) also known as oriental garden lizards reside in warm areas like Asia.
 
 You'll find these lizards in grass, trees, and bushes. They are always behind the scenes observing their environment quietly.
-*But the question is, what does a garden lizard feast on?�*
+*But the question is, what does a garden lizard feast on?*
 - **In summary, garden lizards eat snails, caterpillars, insects, small crickets, and some greens and fruits. They also dont consume much. ****Garden lizards work with small portions at a time**.
-- **The oriental garden lizard feeds on insects such as ants, cockroaches, ants, and grasshoppers. They also eat small vertebrates such as rats and also eat other lizards.�**
+- **The oriental garden lizard feeds on insects such as ants, cockroaches, ants, and grasshoppers. They also eat small vertebrates such as rats and also eat other lizards.**
 
 ## What Does a Garden Lizard Eat?
 The garden lizard has teeth and they are used for gripping the prey. They do not tear the prey when eating, they swallow it whole. The young and inexperienced garden lizards normally choke if the prey is too large for them.

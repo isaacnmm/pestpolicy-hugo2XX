@@ -200,6 +200,6 @@ You can also check the product for the manufacturers recommended age. They usual
 ### **3. What Is The Best Ride On Toy For A 1 Year Old?**
 The best ride-on toy for a 1-year-old should have excellent safety features like parental controls, safety belts, and comfortable seats.
 
-I recommend Uenjoy Kids Ride on Cars with Remote Control.� This ride-on has excellent safety features and technologies to keep your one-year-old safe.
+I recommend Uenjoy Kids Ride on Cars with Remote Control. This ride-on has excellent safety features and technologies to keep your one-year-old safe.
 ## Conclusion
 I hope that this review on the Best Power Wheels For 1 Year Old has been helpful. All the power wheels recommended on this list are some of the best on the market. Hence, choosing either of them will help your little one have uninterrupted fun while remaining safe.

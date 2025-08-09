@@ -16,7 +16,7 @@ layout: post
 ---
 [Capstar](https://pestpolicy.com/capstar-flea-tablets-for-large-dogs/) tablets are
 [effective remedies for controlling [fleas](https://pestpolicy.com/capstar-flea-treatment-reviews/)](https://pestpolicy.com/how-to-get-rid-of-fleas/)
-in dogs, puppies, kittens, and cats. In the Star article, I will discuss�Capstar flea tablets for small dogs (up to 11kg).
+in dogs, puppies, kittens, and cats. In the Star article, I will discussCapstar flea tablets for small dogs (up to 11kg).
 Notably, capital will begin killing the fleas on your dog in around half an hour and its effectiveness will last for one day.
 - So I advise that you start the journey of controlling that flea infestation on your car or the dog by administering Capstar - it is an effective flea killer and it's also fast-acting.
 Let's dig in!

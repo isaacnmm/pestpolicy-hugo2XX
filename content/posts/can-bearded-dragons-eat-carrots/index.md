@@ -19,7 +19,7 @@ Can
 eat carrots? You know that bearded dragons love eating a variety of vegetables. Vegetables are a good source of minerals, vitamins, and water. So, we recently analyzed this -
 what do bearded dragons eat?
 But, can bearded dragons eat carrots?
-**Short answer is YES  Bearded dragons love eating carrots. Carrots are rich in Beta-carotene and vitamin A which are essential requirements in a bearded dragons diet. However, carrots should be avoided if the bearded dragon is presently on vitamin A supplements.�**
+**Short answer is YES  Bearded dragons love eating carrots. Carrots are rich in Beta-carotene and vitamin A which are essential requirements in a bearded dragons diet. However, carrots should be avoided if the bearded dragon is presently on vitamin A supplements.**
 Thats because feeding the bearded dragon on carrots while it is receiving vitamin A supplements might lead excess vitamin A. This condition is known as vitamin A toxicity or hypervitaminosis A.
 
 ## **Can Bearded Dragons Eat Carrots?**
@@ -29,7 +29,7 @@ Carrots contain numerous nutrients which contribute to the overall health of you
 Vitamin A is an essential requirement in a bearded dragons diet. Bearded dragons get vitamin A either from plants such as carrots or it can be administered as vitamin A supplements. Read also;
 [Can Bearded Dragons Eat Cabbage?](https://pestpolicy.com/can-bearded-dragons-eat-cabbage/)
 Giving vitamin A to your bearded dragon comes with three benefits. The main importance of vitamin A in a beardies body is vision. Just like in humans, carrots help in maintaining eye health since they contain a lot of vitamin A. A deficiency in vitamin A can adversely affect the beardies eye sight.
-Thats why swollen eyes are the first symptoms of vitamin A deficiency in a bearded dragon.�Vitamin A also plays an important role in bone development, skin health, protein synthesis and reproductive health.
+Thats why swollen eyes are the first symptoms of vitamin A deficiency in a bearded dragon.Vitamin A also plays an important role in bone development, skin health, protein synthesis and reproductive health.
 While vitamin A proves good for your bearded dragon, it can reach toxic levels if given in excess. If youre feeding your beardie on carrots, its extremely hard for the calcium to reach toxic levels.
 However, if you feed your beardie with carrots and vitamin A supplements at the same time, theyre very likely to suffer vitamin A toxicity (hypervitaminosis A). Therefore, its advisable not to feed your bearded dragon with carrots at a time when they are on vitamin A supplements.
 ### **2. ****Contains Beta-Carotene**

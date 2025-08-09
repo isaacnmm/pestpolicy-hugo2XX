@@ -55,7 +55,7 @@ It can hold up to 2000 CC or 60 OZ of water. It also delivers a good range of 32
 
 Other than that, Youll love that this water gun is perfectly designed for children to have endless summertime. It's lightweight. It weighs 0.85lbs. its also easy to operate and use.
 
-More than that, the safety of the user is highly taken into account. The water gun features a durable thick plastic that meets all the safety standards. It complies with the US Toy�Safety�Standard.
+More than that, the safety of the user is highly taken into account. The water gun features a durable thick plastic that meets all the safety standards. It complies with the US ToySafetyStandard.
 
 The materials used in the construction of this water gun are eco-friendly and non-toxic. Thus, youre sure of your kids' safety while playing.
 

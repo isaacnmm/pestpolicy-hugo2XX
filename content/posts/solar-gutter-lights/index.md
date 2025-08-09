@@ -28,7 +28,7 @@ While specific product recommendations can change rapidly, understanding the fea
 * **Battery Life & Capacity:** A good solar gutter light will have a high-capacity rechargeable battery (often Ni-MH or Li-ion) that can store enough energy to power the LEDs for 8-12 hours after a full day's charge.
 * **Solar Panel Efficiency:** Larger and more efficient solar panels (often monocrystalline silicon) will charge the battery faster, especially on cloudy days, ensuring reliable performance.
 * **Durability and Weatherproofing (IP Rating):** Outdoor lights need to withstand the elements. Look for an IP (Ingress Protection) rating of IP55 or higher, indicating good protection against dust and water jets. Materials like ABS plastic and stainless steel are common.
-* **Installation Versatility:** Many solar gutter lights offer multiple mounting options � clipping directly onto the gutter lip, screwing into a fascia board or fence, or even wall-mounting.
+* **Installation Versatility:** Many solar gutter lights offer multiple mounting options  clipping directly onto the gutter lip, screwing into a fascia board or fence, or even wall-mounting.
 * **Light Modes & Features:**
     * **Auto On/Off:** A photocell sensor automatically turns the light on at dusk and off at dawn.
     * **Motion Sensor:** For security, some lights feature PIR (Passive Infrared) motion sensors that trigger brighter illumination when movement is detected.
@@ -54,7 +54,7 @@ Selecting the right solar gutter lights involves weighing several practical and 
     * **Screw-in:** Provides a more permanent and secure installation on fascia boards, fences, or walls.
     * **Adjustability:** Lights with rotatable heads or adjustable brackets offer more flexibility in directing the light.
 
-4.  **Weather Resistance:** Given their outdoor exposure, IP rating is crucial. An IP55 rating is generally sufficient, but IP65 or IP67 offers superior protection against heavy rain and dust. Check the materials � ABS plastic and stainless steel are durable and rust-resistant.
+4.  **Weather Resistance:** Given their outdoor exposure, IP rating is crucial. An IP55 rating is generally sufficient, but IP65 or IP67 offers superior protection against heavy rain and dust. Check the materials  ABS plastic and stainless steel are durable and rust-resistant.
 
 5.  **Brightness and LED Count:** More LEDs generally mean brighter light, but also check the lumen rating. Don't solely rely on LED count. Consider if the light is bright enough for your intended use without being overly harsh.
 

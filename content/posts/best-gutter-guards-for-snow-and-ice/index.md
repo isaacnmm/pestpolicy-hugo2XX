@@ -29,8 +29,8 @@ When it comes to snow and ice, the ideal gutter guard not only keeps debris out 
     * **Pros:** Exceptional debris filtration, highly effective and reliable ice prevention, professional installation ensures proper electrical setup, comprehensive **lifetime transferable warranty** with a no-clog guarantee.
     * **Cons:** Premium price point, electricity consumption during winter months.
 
-2.  **Gutter Helmet with Helmet Heat�:**
-    * **Why it's a top pick:** Gutter Helmet's unique **reverse-curve (surface tension) design** is made from heavy-gauge aluminum and is excellent at shedding leaves and handling high water volumes. When combined with their proprietary **Helmet Heat� system**, an insulated, self-regulating heat cable runs inside the gutter under the cover. This ensures the narrow opening and internal gutter channel remain clear of ice, allowing meltwater to drain freely.
+2.  **Gutter Helmet with Helmet Heat:**
+    * **Why it's a top pick:** Gutter Helmet's unique **reverse-curve (surface tension) design** is made from heavy-gauge aluminum and is excellent at shedding leaves and handling high water volumes. When combined with their proprietary **Helmet Heat system**, an insulated, self-regulating heat cable runs inside the gutter under the cover. This ensures the narrow opening and internal gutter channel remain clear of ice, allowing meltwater to drain freely.
     * **Pros:** Extremely durable and robust construction, effective at shedding large debris and preventing ice, sleek integrated appearance, professional installation, strong warranties.
     * **Cons:** Higher cost, less effective at blocking very fine debris (pine needles, shingle grit) which can still potentially enter the slot and accumulate, though the heat helps mitigate this.
 
@@ -61,7 +61,7 @@ When it comes to snow and ice, the ideal gutter guard not only keeps debris out 
 | Gutter Guard Brand | Gutter Guard Type | Heating Integration | Primary Debris Blocked | Ice Prevention Effectiveness | Installation | Average Cost (per linear foot, installed)* | Warranty (Gutter Guard / Heating) |
 | :----------------- | :---------------------------- | :------------------------------ | :--------------------- | :--------------------------- | :------------- | :----------------------------------------- | :------------------------------------------ |
 | **LeafFilter** | SS Micro-Mesh on uPVC frame | Integrated Heat Cable | All debris (fine) | Excellent | Professional | $25 - $60+ | Lifetime Transferable (No-Clog) / Product |
-| **Gutter Helmet** | Reverse Curve (Solid Aluminum) | Integrated Helmet Heat� Cable | Large debris | Very Good | Professional | $30 - $70+ | Lifetime Performance / Product |
+| **Gutter Helmet** | Reverse Curve (Solid Aluminum) | Integrated Helmet Heat Cable | Large debris | Very Good | Professional | $30 - $70+ | Lifetime Performance / Product |
 | **MasterShield** | SS Micro-Mesh on Aluminum Frame | Compatible (separate cables) | All debris (fine) | Excellent (with heat) | Professional | $20 - $50+ (guard only) | Lifetime Transferable / Mfr. (for cable) |
 | **Edge Melt Systems** | Aluminum Screen/Cover | Multiple Heat Cables (Self-Reg) | Varies by guard type | Superior (specialized) | Professional | Varies widely ($40 - $100+) | Varies (often 10-30 years on components) |
 | **K-Guard** | One-Piece Gutter/Guard | Integrated/Add-on Heated Options | Large debris | Very Good | Professional | $28 - $65+ | Lifetime (Clog-Free) / Product |

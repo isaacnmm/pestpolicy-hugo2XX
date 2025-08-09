@@ -28,7 +28,7 @@ At only 20 pounds weight, mantis 7250 is perhaps one of the lightest garden till
 
 Its an electric-powered tiller featuring a 540 W motor with an option for three speed selections. This motor transmits power to the tines through a worm gear giving it enormous strength to plough into hard and compact soil. Tines rotate at 240 rpm allowing you to achieve better tilling efficiency.
 Tines can dig up to 9-inch deep and 10-inch wide. Such a small width enables you to manoeuvre through tight spaces in your garden without damaging your crops. These tines have a curvy design to maximise the tiling efficiency. This allows for better soil drainage and aeration.
-Tines can be turned around to 2 or 3 inches to enable shallow digging or weeding. Since they are very sharp, they cut through the soil with minimal kicks.� Thus women gardeners can push it without much hustle.
+Tines can be turned around to 2 or 3 inches to enable shallow digging or weeding. Since they are very sharp, they cut through the soil with minimal kicks. Thus women gardeners can push it without much hustle.
 With its instant starting mechanism and quiet motor, you dont have to worry about disturbing your neighbour. Handles have a firm grip with which you can comfortably control the tiller. Plus the handles can be folded during storage or transport.
 Pros:
 - Light but high performance tiller
@@ -172,7 +172,7 @@ However, small tillers wont be helpful if you have a large garden or the soil is
 Garden tillers can either be powered by electricity or gasoline engines. Both of these engines can be found in compact tillers meaning they can conveniently be used by women gardeners.
 However, most electrically powered tillers come in lightweight designs making them ideal for women. They are also easy to operate and require minimal maintenance. All you need is to be near a source of electric power.
 On the other hand, most gasoline powered engines are heavy and may prove hard for women gardeners to push around. They require regular maintenance like oil monitoring, refills, changing spark plugs among others.
-These are not easy tasks for most women gardeners.�So, an electric tiller is perhaps the most ideal for women because of its lightweight and the little maintenance involved.
+These are not easy tasks for most women gardeners.So, an electric tiller is perhaps the most ideal for women because of its lightweight and the little maintenance involved.
 ### **4. Easy to assemble**
 Usually garden tillers come in parts and therefore require careful assembly before operation. They also come with manuals for assembling. Most women are not used to mechanical jobs such as tightening bolts or connecting electrical components.
 Therefore, your tiller should be easy to assemble so that you dont have to incur costs from assembling services.
@@ -181,9 +181,9 @@ Different tillers come with various configurations which make their operation mo
 With a 4-cycle engine, you dont have to mix oil and gas as in the case of 2-cycle engines. Ergonomically designed handles allow you to operate and manoeuvre the tiller with less tiredness.
 ### **6. Safety**
 Safety considerations cannot be overlooked when dealing with powered machines. You might incur serious injuries when your body or clothes get into contact with the rotating parts of the machine.
-Thus, its important to read the instructions carefully when operating your garden tiller.�Also consider buying an equipment that is safe to use to minimize the risk of injuries. Always use the appropriate safety gear such as boots, long pants, and safety glasses.
+Thus, its important to read the instructions carefully when operating your garden tiller.Also consider buying an equipment that is safe to use to minimize the risk of injuries. Always use the appropriate safety gear such as boots, long pants, and safety glasses.
 ### **7. Storage**
 Most home owners prefer to store their tillers in their garage. So, you should determine whether you have enough space for storage. You will require more space for gas powered tillers than for electric powered tillers.
 ## **Conclusion**
 While there are many garden tillers in the market, not all are ideal for operation by women gardeners. Some are too heavy for women to push and require regular maintenance to keep them going.
-That means, careful selection should be made when buying the best tiller for a woman.�The best tiller should allow easy operation and have minimal maintenance procedures.
+That means, careful selection should be made when buying the best tiller for a woman.The best tiller should allow easy operation and have minimal maintenance procedures.

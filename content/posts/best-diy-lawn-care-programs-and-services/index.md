@@ -56,12 +56,12 @@ Choosing the right DIY lawn care program depends on your specific needs, comfort
 * **Considerations:** Requires knowing your grass type, which can be a hurdle for some. Products may be more potent and require careful application, potentially less "natural" than Sunday or Lawnbright.
 * [Check Out DoMyOwn Turf Box](https://www.domyown.com/turf-box-c-1793.html)
 
-### Scotts� Turf Builder� Programs: Widely Available & Accessible
+### Scotts Turf Builder Programs: Widely Available & Accessible
 
-**Scotts� Turf Builder� Programs:** While not a subscription service in the same vein as the others, Scotts offers easy-to-follow, seasonal DIY programs using their widely available granular products.
+**Scotts Turf Builder Programs:** While not a subscription service in the same vein as the others, Scotts offers easy-to-follow, seasonal DIY programs using their widely available granular products.
 
 * **Service Model:** Scotts provides pre-designed seasonal lawn care programs (e.g., 4-step program) that you purchase as individual products at garden centers or hardware stores. You apply them yourself using a spreader, typically aligning with spring, early summer, late summer, and fall applications.
-* **Product Focus:** Primarily granular fertilizers with integrated weed control (pre-emergent and broadleaf), insect control, and sometimes winterizers. Their "All-In-One Particle� Technology" aims for even nutrient distribution.
+* **Product Focus:** Primarily granular fertilizers with integrated weed control (pre-emergent and broadleaf), insect control, and sometimes winterizers. Their "All-In-One Particle Technology" aims for even nutrient distribution.
 * **Key Strengths:** Extremely accessible, widely available, clear instructions on packaging, and a long-standing reputation in the industry. Great for homeowners who prefer granular products and shopping locally.
 * **Considerations:** Less customized than subscription services (no soil test for personalized nutrient recommendations). Requires more active management of purchasing and remembering application times. Primarily synthetic.
 * [Learn about Scotts Turf Builder](https://www.scotts.com/en-us/products/lawn-food)

@@ -17,9 +17,9 @@ layout: post
 I am sitting here in my rented property - and I am at a loss of what to do that'll clear this bed bug infestation. I moved into the house eight months ago! But, my son and I have had a nightmare with
 bed bugs bites
 - these red irritated and itchy bumps.
-*There are many exaggerated claims out there on lavender and other essential oils for household & medicinal uses. But,�does lavender Kill Bed Bugs (check pictures)?�*
-*The simple answer is, No, Lavender won't kill bed bugs - but the bugs don't like its smell. So, mixing lavender oil with rubbing alcohol (91% proof) will repel or deter the bloodsuckers.�*
-*Lavender won't be an excellent long term treatment but will keep the bites to a minimum!!! Side Note: Also, bed bugs hate cedar oil, bleach, vinegar, and tea tree.�*
+*There are many exaggerated claims out there on lavender and other essential oils for household & medicinal uses. But,does lavender Kill Bed Bugs (check pictures)?*
+*The simple answer is, No, Lavender won't kill bed bugs - but the bugs don't like its smell. So, mixing lavender oil with rubbing alcohol (91% proof) will repel or deter the bloodsuckers.*
+*Lavender won't be an excellent long term treatment but will keep the bites to a minimum!!! Side Note: Also, bed bugs hate cedar oil, bleach, vinegar, and tea tree.*
 
 ## Does Lavender Kill Bed Bugs? DIY Bed Bug Removal
 No major scientific research points to the effectiveness of lavender in killing bed bugs. This

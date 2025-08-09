@@ -20,7 +20,7 @@ Can bearded dragons eat mango? Mango (
 Could be you have come across a number of them at market place or you grow various mango species and wonders if
 bearded dragons can eat them
 . It may also concern you if beardies can eat mango peels, leaves or stems/backs.
-**So, the question here is, can Bearded Dragons Eat Mangoes? The direct answer is YES! Beardies feed on mangoes without any problems. Actually, mangoes are rich in minerals and Vitamins (needed for growth and immune boost).�**
+**So, the question here is, can Bearded Dragons Eat Mangoes? The direct answer is YES! Beardies feed on mangoes without any problems. Actually, mangoes are rich in minerals and Vitamins (needed for growth and immune boost).**
 
 ## Details: Can Bearded Dragons Eat Mango? 7 Secrets
 *Moreover, mangoes have relatively low water content (thus prevent over hydration) and it is an aphrodisiac fruit (improves beardies sexual activities). *
@@ -48,7 +48,7 @@ Notably, ripe mangoes have more antioxidants than unripe ones.
 ### 4. Rich Mineral Content
 There is 168mg of potassium in every 100g of fresh ripe mango salad. Potassium is required for smooth muscle contraction, fluid regulation and quick nerves signal control in your bearded dragon. In addition, potassium will lower the blood pressure, control excess water levels and prevent occurrence of diseases such as osteoporosis and kidney stones.
 Presence of 11mg calcium will further help strengthen your beardies bones and teeth. Other minerals present include Sodium (1.3mg  needed for osmoregulation and blood pressure balance), Magnesium (10mg boosts heartbeat and maintains smooth nerve signal response), Zinc (0.19mg-required for cell division and repair of injuries), Manganese (0.063mg needed for metabolism of cholesterol and amino acid as well as clotting process) and Iron (0.16mg-prevents anemia and oxygen transportation).
-Mangoes also contain phyto-nutrients such as �-carotene, �-cryptoxanthin and a-carotene, which easily combine with other antioxidants thus helping in elimination of free radicals.
+Mangoes also contain phyto-nutrients such as -carotene, -cryptoxanthin and a-carotene, which easily combine with other antioxidants thus helping in elimination of free radicals.
 https://www.youtube.com/watch?v=7rr1Zsce594
 ### 5. Relative Water Content Level
 On average, most mango species contain 49% to 74% water content when ripe. This quantity wont be harmful to your beardie if controlled feeding is carried out. Your beardie will have a stable osmoregulation (very crucial process for beardie without which it suffers kidney failure) if you follow proper feeding and preparation procedure given below.
@@ -85,7 +85,7 @@ Mango species such as chaunsa have high water content as compared to others and 
 Select mangoes, such as apple mangoes, which has low water content to eliminate such problems. It is also necessary to avoid overripe mangoes as they to be more acid the benzoic acid content in some mango species increases as they overripe.
 ### **2. Mangoes With High Sugar Levels**
 Generally, mangoes have relatively high sugar content of about 7.68g per every 100g of mango salad. Excess sugar intake by beardies cause high blood pressure, diabetes and heart attack. In addition, sugar accumulates within teeth gaps and lead to teeth decay  this is very common.
-Select low sugar mango species for your beardies occasional or daily feed supplement e.g.� keitt mango, osteen mango or haden mango varieties.
+Select low sugar mango species for your beardies occasional or daily feed supplement e.g. keitt mango, osteen mango or haden mango varieties.
 You can feed your beardie with mangoes that are about to ripen  they usually have low sugar content.
 ### **3. Mangoes With Low Calcium: Phosphorous Ratio**
 One great problem of mangoes is that they have low calcium: phosphorous ratio of 0.4:1. This is dangerous since excess phosphorous inhibits (binds) calcium from being absorbed into the bloodstream leading to calcium deficiency disease called metabolic bone disease.

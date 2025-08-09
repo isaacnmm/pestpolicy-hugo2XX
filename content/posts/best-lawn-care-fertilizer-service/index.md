@@ -39,7 +39,7 @@ Both professional lawn care companies and specialized DIY programs offer excelle
 
 **Lawn Doctor:** A franchise-based professional service known for its proprietary equipment and localized expertise in fertilization.
 
-* **Fertilization Focus:** Lawn Doctor uses a patented "Turf Tamer�" equipment that ensures precise and even distribution of their custom-blended fertilizers. Their programs are specifically designed for the local climate and grass types by regional specialists.
+* **Fertilization Focus:** Lawn Doctor uses a patented "Turf Tamer" equipment that ensures precise and even distribution of their custom-blended fertilizers. Their programs are specifically designed for the local climate and grass types by regional specialists.
 * **Key Strengths:** Strong emphasis on customized nutrient blends based on soil analysis, consistent application, and a robust satisfaction guarantee. Their local ownership often means more personalized attention.
 * **Considerations:** Availability varies by location due to their franchise model. Like other professional services, it's a hands-off approach for the homeowner.
 * [Discover Lawn Doctor's Fertilization Services](https://www.lawndoctor.com/[lawn-care](https://pestpolicy.com/best-lawn-care-service-for-dogs/)-services/fertilization/)
@@ -172,7 +172,7 @@ The optimal timing for fertilization depends heavily on your grass type and loca
 
 ### Cool-Season Grasses (e.g., Kentucky Bluegrass, Fescue, Ryegrass)
 
-These grasses thrive in cooler temperatures (60-75�F / 15-24�C) and typically have two main growth periods: spring and fall.
+These grasses thrive in cooler temperatures (60-75F / 15-24C) and typically have two main growth periods: spring and fall.
 
 * **Early Spring (March-April):** A light application to kickstart growth as grass emerges from dormancy. Avoid heavy nitrogen that can lead to excessive top growth at the expense of roots.
 * **Fall (September-November):** The most important feeding. Two applications are often recommended: one in early fall and another in late fall (before the first hard frost). This promotes strong root development, nutrient storage for winter, and an early green-up next spring.
@@ -180,9 +180,9 @@ These grasses thrive in cooler temperatures (60-75�F / 15-24�C) and typicall
 
 ### Warm-Season Grasses (e.g., Bermuda, Zoysia, St. Augustine, Centipede)
 
-These grasses prefer warmer temperatures (80-95�F / 27-35�C) and actively grow during summer.
+These grasses prefer warmer temperatures (80-95F / 27-35C) and actively grow during summer.
 
-* **Late Spring (April-May):** First application after the grass has fully greened up and begun active growth, usually once soil temperatures consistently reach 65�F (18�C).
+* **Late Spring (April-May):** First application after the grass has fully greened up and begun active growth, usually once soil temperatures consistently reach 65F (18C).
 * **Summer (June-August):** Regular feedings throughout the summer growing season, typically every 4-8 weeks depending on the fertilizer type and desired results.
 * **Early Fall (September):** A final, lighter application before dormancy to help with winter hardiness. Avoid fertilizing too late in fall.
 

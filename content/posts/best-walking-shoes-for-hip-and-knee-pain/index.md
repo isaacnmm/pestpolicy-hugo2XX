@@ -43,7 +43,7 @@ Cons
 Also Read:
 Best Shoes for Standing All Day with Bad Knees
 ### [2. ASICS Women's Gel-Cumulus 22 Running Shoes](https://www.amazon.com/dp/B082Q3DXLJ/tag=p-policy-20)
-ASICS Women's Gel-Cumulus 22 is one of the best Walking and Running Shoe for Hip and knee pain.�� Its durable, comfortable, and well-cushioned.� its also one of the best neutral running shoes and its ideal for people who are looking for a supportive, lightweight, and flexible running or walking shoe.
+ASICS Women's Gel-Cumulus 22 is one of the best Walking and Running Shoe for Hip and knee pain. Its durable, comfortable, and well-cushioned. its also one of the best neutral running shoes and its ideal for people who are looking for a supportive, lightweight, and flexible running or walking shoe.
 
 The midsole of Gel Cumulus 22 features FlyteFoam Propel Technology that delivers excellent bounce back for more comfortable walking or running experience. Further, the forefoot and rearfoot feature a Gel cushioning system that helps in shock reduction while walking or running.
 

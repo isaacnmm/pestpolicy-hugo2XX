@@ -16,12 +16,12 @@ layout: post
 ---
 Pet lizards that look like
 **dragons**
-**?�**
+**?**
 **May**
 be you have ever heard of dragon or seen them in movies. These eminent creatures depict great power and they are viewed differently from one community to another.
 
 Perhaps you may even desire to see a dragon live. Can you imagine having your own pet dragon at home? So,
-*what pet lizards that look like Dragon?�*
+*what pet lizards that look like Dragon?*
 **In summary, **
 *pet lizards that look like dragons include Chinese Water Dragons, Bearded Dragons, Red-Eyed Crocodile Skinks, Plumed Basilisks, Crested Geckos, Draco Lizards, Green Iguanas, Armadillo Lizards, Horned Lizards, Sailfin Dragons and Frilled Dragons among others.*
 ## 5 Pet Lizards That Look Like Dragons.
@@ -76,7 +76,7 @@ Plumed Basilisk measures between 2 to 3 feet when fully grown and lives for up t
 These lizards love to roam a lot within the cage and therefore, large space should be provided. They like digging small holes and climbing walls and trees. Such provisions should be available in the enclosure.
 - Plumed Basilisks are native in Central America, especially in Costa Rica and Guatemala. They are found in dense forest, rivers and large waterways due to food abundance and escape mechanism (running on water). You can also find them in Nicaragua, West Panama and Eastern Honduras.
 - Plumed Basilisks feed on live bugs such as locust, mealworms and crickets. They can also eat small fish or snake by swallowing them whole. This tells you that Plumed Basilisks are carnivores in nature.
-You can bond with Plumed Basilisks with time though they love having their quiet moments, especially after feeding. �These reptiles have unique personalities that you may not find with other lizards. They are hard to find around but amazing to pet in your home.
+You can bond with Plumed Basilisks with time though they love having their quiet moments, especially after feeding. These reptiles have unique personalities that you may not find with other lizards. They are hard to find around but amazing to pet in your home.
 
 Then threatened, Plumed Basilisk usually run across the water body instead of swimming and hence their nickname Jesus Christ.
 

@@ -17,10 +17,10 @@ layout: post
 *Below I've outlined h*
 ow to get rid of squirrels in the yard.
 *Are you tired from squirrels and want to get rid of them? We will help you with this. *
-*With the passage of time and need of the hour, various methods have emerged to tackle this specieshome�remedies to eliminate squirrels.�*
+*With the passage of time and need of the hour, various methods have emerged to tackle this specieshomeremedies to eliminate squirrels.*
 Squirrels are an animal that looks quite funny, being small in size, and extremely active and elusive. With the
 restless nature and extreme swift movements, they are tough to catch and potentially can cause a lot of damage to your property and holdings.
-**See [Squirrel](https://pestpolicy.com/do-squirrels-attack-humans/) solutions.�**
+**See [Squirrel](https://pestpolicy.com/do-squirrels-attack-humans/) solutions.**
 
 Squirrels dont leave anything unharmed, from woods to vegetables; all are vulnerable to their potential of harmful instincts.
 They can cause fleas and even tick to your pets.
@@ -62,7 +62,7 @@ Shake it as hard as you can and like the other methods, spray it to the corners 
 https://www.youtube.com/watch?v=jw9Xn7G8gTM
 ## How to Scare Away Squirrels
 **1. Squirrel Exclusion Collars**
-*Want to scare the squirrels?�*
+*Want to scare the squirrels?*
 Scaring the squirrel can be an effective and proactive approach for the exclusion of squirrels. One of the things that really scare out these squirrels is the collar typically made up of sharp metal.
 These collars are positioned around the trees, poles, and bird feeders. When this animal tries to
 climb up the pole

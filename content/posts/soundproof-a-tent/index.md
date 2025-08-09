@@ -23,13 +23,13 @@ Headphones for Music Production
 ### 1. Carpeting
 One of the cheaper end easiest ways to soundproof would be to lay carpeting down, thick carpets work best absorbing the bass frequencies which travel through the ground.
 ### 2. Moving Blankets
-These�blankets are known to be great for absorbing sound and they are not too�expensive either. All you will need to do is hang them in your tent against the�walls and they will act as a sound barrier.
+Theseblankets are known to be great for absorbing sound and they are not tooexpensive either. All you will need to do is hang them in your tent against thewalls and they will act as a sound barrier.
 https://www.youtube.com/watch?v=dEUP9Qp81dQ
 ### 3. Acoustic Barriers
 This material is used in recording studios granting it a great material to use. It can be on the more expensive side but I believe it is worth every penny.
 When purchasing the material companies size them to room size in a house or studio so you may have to cut the material down to the size of your tent.
 ### 4. Building a Structure
-This�tip is aimed more for those who will be living in a tent for at least a few�days and more as building and placing a temporary structure can still take up a�lot of time.
+Thistip is aimed more for those who will be living in a tent for at least a fewdays and more as building and placing a temporary structure can still take up alot of time.
 You will need to build and assemble a wooden frame around your tent and attach materials that can insulate sound onto the wooden beans. Read Also:
 Noise Cancelling Headphones
 .
@@ -39,8 +39,8 @@ The only downfall to this is that you will need to have noise in order to counci
 [Noise Cancelling Headphones Under 200](https://pestpolicy.com/best-noise-cancelling-headphones-under-200/)
 .
 ### 6. Curtains
-There�are some great curtains on the market which are thick and designed to help block�out sound and light.
-You could always purchase your desired curtains and hang�them in your tent having them act as a sound barrier.
+Thereare some great curtains on the market which are thick and designed to help blockout sound and light.
+You could always purchase your desired curtains and hangthem in your tent having them act as a sound barrier.
 ### 7. White Noise Machines
 For a quick and easier solution, you could always try a white noise machine. These machines are designed to do one thing and one thing only, to create white noise.
 The White noise acts as a barrier for any outside noises giving you an opportunity of peaceful sleep. Read Also:

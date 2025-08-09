@@ -74,16 +74,16 @@ Always make clean cuts. Avoid leaving stubs, as these can invite pests and disea
 Having the right tools, and keeping them sharp and clean, is crucial for making precise cuts that heal well and minimize damage to your shrubs.
 
 1.  **Hand Pruners (Bypass Pruners):**
-    * **Purpose:** For small branches, up to � inch in diameter.
+    * **Purpose:** For small branches, up to  inch in diameter.
     * **Type:** Always choose **bypass pruners** (blades cross like scissors) over anvil pruners (blade cuts against a flat surface). Bypass pruners make clean cuts that heal better.
     * **Quality:** Invest in a good quality pair; they will stay sharp longer and be more comfortable to use.
 
 2.  **Loppers:**
-    * **Purpose:** For larger branches, typically up to 1� to 2 inches in diameter.
+    * **Purpose:** For larger branches, typically up to 1 to 2 inches in diameter.
     * **Features:** Have long handles that provide leverage, allowing you to cut thicker branches with less effort. Like hand pruners, opt for bypass loppers for clean cuts.
 
 3.  **Pruning Saw:**
-    * **Purpose:** For branches larger than what loppers can handle (over 1� to 2 inches).
+    * **Purpose:** For branches larger than what loppers can handle (over 1 to 2 inches).
     * **Types:** Available as folding saws, fixed-blade saws, or pole saws. Designed with aggressive teeth to cut efficiently through wood.
     * **Safety:** Always use caution and proper technique. Ensure a clear workspace.
 
@@ -186,8 +186,8 @@ By providing attentive post-pruning care, you help your shrubs recover quickly f
 
 ## Conclusion: A Healthier, More Beautiful Shrub
 
-Pruning, once demystified, reveals itself not as a destructive act but as a vital and rewarding aspect of garden maintenance. It is the language through which we communicate with our shrubs, guiding their growth, enhancing their natural beauty, and ensuring their long-term health. By understanding the fundamental "why, when, and how" of pruning � from recognizing dead wood to mastering specific techniques like thinning and renewal cuts � you gain the confidence to shape your landscape with precision and purpose.
+Pruning, once demystified, reveals itself not as a destructive act but as a vital and rewarding aspect of garden maintenance. It is the language through which we communicate with our shrubs, guiding their growth, enhancing their natural beauty, and ensuring their long-term health. By understanding the fundamental "why, when, and how" of pruning  from recognizing dead wood to mastering specific techniques like thinning and renewal cuts  you gain the confidence to shape your landscape with precision and purpose.
 
 Armed with sharp, clean tools and knowledge of your shrubs' unique flowering habits, you can transform overgrown, unproductive plants into vibrant, floriferous specimens. The benefits extend far beyond the visual: improved air circulation, increased light penetration, reduced disease susceptibility, and stimulated growth all contribute to a more resilient and thriving garden ecosystem.
 
-So, banish the apprehension and embrace the shears. Approach each shrub with a thoughtful eye, making intentional cuts that serve a specific purpose. With practice, you�ll not only cultivate healthier, more beautiful shrubs but also deepen your connection to the living landscape you nurture. The art of pruning is an ongoing journey of learning and observation, promising a more refined and flourishing yard for years to come.
+So, banish the apprehension and embrace the shears. Approach each shrub with a thoughtful eye, making intentional cuts that serve a specific purpose. With practice, youll not only cultivate healthier, more beautiful shrubs but also deepen your connection to the living landscape you nurture. The art of pruning is an ongoing journey of learning and observation, promising a more refined and flourishing yard for years to come.

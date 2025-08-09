@@ -19,9 +19,9 @@ Bed bugs are tiny insects (1/4 inch in body length) and are a nuisance to humans
 You will mainly find these bloodsuckers in residential or public premises and public places. Nevertheless, its challenging to
 [locate their hideouts](https://extension.psu.edu/biology-habitat-and-management-of-[bed-bugs](https://pestpolicy.com/bed-bug-bites-vs-mosquito-bites/))
 . So, where do bed bugs hide?
-*Simply put, bed bugs hide in mattress seams, wall or floor cracks, bed frames, chair joints, second-hand furniture joints, couches, bedding, clothes seams, ceiling, and clothe shelves.� Often, bed bugs hide during the day and appear at night when you are asleep.�*
+*Simply put, bed bugs hide in mattress seams, wall or floor cracks, bed frames, chair joints, second-hand furniture joints, couches, bedding, clothes seams, ceiling, and clothe shelves. Often, bed bugs hide during the day and appear at night when you are asleep.*
 
-## **Details: Where Do Bed Bugs Hide? - Identify Bed Bugs�**
+## **Details: Where Do Bed Bugs Hide? - Identify Bed Bugs**
 First, here're the
 signs of bed bugs infestations:
 black spot on the bed framework, the bloodstain on the bedding, rusty/dark excrete of bed bugs on the mattress, bed bug shells where they live, must odor of bed bugs scent, and bites on your skin. Also, here are the
@@ -41,7 +41,7 @@ hideouts for bed bugs
 8. **Doors and window frames-**The spaces left at the gates, hinges, and bushes offer are hideouts of bedbugs in your home.
 Related:
 How do bed bugs spread?
-### 2.�Bed Bugs Hide in�Bedroom
+### 2.Bed Bugs Hide inBedroom
 Your bedroom has items that may have offer hideouts for bed bugs. These include:
 1. **Mattresses and pillows.**You willfind colonies of bed bugsalong the seam of mattresses.Bed bugs pierce the mattresseswith their mouthpart and enter the interior part. Your pillow may have a colony of bed bugs, too, since most of them are attracted by the carbon dioxide you breathe out.
 2. **Your blankets, mattress cover, pillowcases,**bed covers, and bed sheets offer a suitable environment for bed bugs to hide. What bed bugs do is hide between layers of the bedding or hide within the folding of these beddings. Beddings must be well straightened. A heap of dirty clothes in your bedroom will also house bed bugs.
@@ -49,10 +49,10 @@ Your bedroom has items that may have offer hideouts for bed bugs. These include:
 4. **Bed Framework.**You will identify bed bugs in the joint space of the bed framework. The hollowmetallic or plastic frameworkprovides a more suitable environment for the hiding of bed bugs. You will find colonies ofbed bugs in the hollow sectionsfrom where they will come during the night to attack you or your humans.
 5. The ceiling of your bedroom provides a space for bed bugs hideouts. Though it takes longer for bed bugs to climb up, they would find safety there eventually.
 6. **Footwears.**Bed bugs hide inside shoes or boots that you may have left in your bedroom. Even though you have placed footwear in a rack, bed bugs will find their way there. The footwear that you do not use should be disposed of.
-### 3.�Bed Bugs Hide in�Showers Areas
+### 3.Bed Bugs Hide inShowers Areas
 Showers are not places you expect bed bugs. However, modern showers, tubs have cabinets/shelves for storing laundry items. These are common hideouts of these bed bugs.
 The cistern, piping network, and door lining also offer points where bed bugs may hide.
-The piping network of the showers/bathtub offers hideouts too.� Some bathrooms have hot/warm water, which gives bed bugs suitable conditions for breeding.
+The piping network of the showers/bathtub offers hideouts too. Some bathrooms have hot/warm water, which gives bed bugs suitable conditions for breeding.
 ## Where do bed bugs hide in public places?
 ### 1. Public service vehicles / Trains
 Have you ever boarded a public service vehicle or a passengers train and experienced a
@@ -100,12 +100,12 @@ At night, it is difficult to identify bed bugs in the dark. Their black color ca
 1. Source of light. e.g., Flashlight. This will help concentrate light to point in the darkness you suspect to be bed bugs hideouts.
 2. A pair of forceps/tweezers - This tool helps you pick the bed bugs precisely to confirm that they are the ones. This is possible because bed bugscant's jump or fly.
 3. Vacuum machine or Steamer- This will be used to suck bed bugs from mattresses or cushions if you happen to suspect their signs.
-4. Spatula/crevice knife- This helps remove the bed bugs from the cracks. You can also use compressed air as a substitute.�Collecting basin/ jar/container- use this to put bed bugs that you have caught.
+4. Spatula/crevice knife- This helps remove the bed bugs from the cracks. You can also use compressed air as a substitute.Collecting basin/ jar/container- use this to put bed bugs that you have caught.
 5. Hand lens/magnifying device- since bed bugs are small insects, you will need to enlarge them for visibility.
 ## How to find Bed Bugs during the day
 You will find it difficult to bed bugs during the day. However, in case you need to find them, you will have to do the following things:
 1. Put your Bedding or mattress ([and their encasements](https://pestpolicy.com/best-bed-bug-mattress-encasements/)) outside under a direct sun- you will see them move out due to heating.
-2. Remove all cushions and furniture coversspray�bed bugs hideouts with the bed bug killers during the day.
+2. Remove all cushions and furniture coversspraybed bugs hideouts with the bed bug killers during the day.
 3. Knock severally the joint of Home furniture and closets to disturb their comfort.
 4. Place carbon dioxide source/emitter near their suspected hideouts- bed bugs are attracted to carbon dioxide.
 ## How to prevent and Control Bed bugs
@@ -116,7 +116,7 @@ prevent and control bed bugs
 2. Sealing all the cracks on the wall and floor completely and stop buying second-hand furniture. Ensure your pets are often treated against bed bug attacks and engage a bed bug examiner/professional to check any presence of bed bugs.
 3. Washing anddrying (at about 140 Degrees Fahrenheit)all clothes and bedding regularly and ensure sockets are covered.
 4. Cover your mattress well with top-quality fabric and fit your bed feet with bed bug monitors to keep off bed bugs.
-5. Inspect your furniture regularly to check bed bugs and be aware of bed bugs in public places.�Train on how to identify bed bugs and ensure you do not move bedding from place to place.
+5. Inspect your furniture regularly to check bed bugs and be aware of bed bugs in public places.Train on how to identify bed bugs and ensure you do not move bedding from place to place.
 ## Conclusion
 Bed bugs can be found in both public and residential places. Maintain
 [good cleanliness](https://pestpolicy.com/can-bed-bugs-live-in-carpet/)

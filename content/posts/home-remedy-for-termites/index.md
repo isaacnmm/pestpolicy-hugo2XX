@@ -17,15 +17,15 @@ layout: post
 Soil treatment for termites with
 [chemical termite killers](https://pestpolicy.com/best-termite-killer/)
 like fipronil and imidacloprid is the most common termite-removal method.
-*Termites can eat your home's structural beams causing significant damage. But, which are the best home remedies for termites? One that's effective, budget-friendly, yet safe to the environment?�*
-*In summary, the home remedies for termites (including dry wood�termites) include wet cardboard, orange oil, perimeter barrier, sunlight, nematodes, vinegar, and borates.�*
+*Termites can eat your home's structural beams causing significant damage. But, which are the best home remedies for termites? One that's effective, budget-friendly, yet safe to the environment?*
+*In summary, the home remedies for termites (including dry woodtermites) include wet cardboard, orange oil, perimeter barrier, sunlight, nematodes, vinegar, and borates.*
 ## Home Remedy for Termites
 These insects, like damp wood and dry wood termites, can be
 [challenging and expensive to control](https://www.wikihow.com/Get-Rid-of-Termites)
 . So, how you treat the house for termites naturally?
 
 ### 1. Wet Cardboard Trap
-Do you corrugated boxes in the storage closet or garage? Then you have a great tool to make your termite trap.�Termites love water plus cellulose - so the wet cardboard (contains cellulose) will attract the termites.
+Do you corrugated boxes in the storage closet or garage? Then you have a great tool to make your termite trap.Termites love water plus cellulose - so the wet cardboard (contains cellulose) will attract the termites.
 1. Pick several cardboard pieces (flat strips), wet the cardboard, and position where you suspect a termite colony will pass or are already settled.
 2. Next, termites will settle on the wet cardboard box as they feed on cellulose. Putting the cardboard bait down lures the termites to come together to a single point where you can control them.
 3. After the termites have steeled on the wet cellulose cardboard, pick it with the bugs and burn it outside. This will kill all the[termites and their babies](https://pestpolicy.com/what-does-a-termite-look-like/). Repeat this process until you can no longer see the termites moving around.
@@ -64,7 +64,7 @@ outlines that nematodes are very effective in controlling termites in the lab. V
 ### 5. Beneficial Nematodes
 Nematodes enter the termite's body and start feeding on its blood and muscles. The parasitic roundworms release bacteria, and this causes blood poisoning for the termites, causing death. Nematodes are effective in killing termites.
 You can purchase beneficial nematodes in different local or online stores to control invasive termites. Once the termite dies, the nematodes continue multiplying and move onto their next host and poison it to death.
-- Mix the nematodes (the microscopic roundworms) with some water. But first, requirements are nematodes, water,�spraying bottle, stirring stick, and bowl.
+- Mix the nematodes (the microscopic roundworms) with some water. But first, requirements are nematodes, water,spraying bottle, stirring stick, and bowl.
 - Fill the bowl with water and pout the nematodes into it, ready to control the nematodes. Use the stirring stick to mix up the nematodes with the water. Leave for 5-10 minutes.
 - Put the nematode-water mixture into some spraying bottle and spray on places with a termite infestation or passing routes. Begin spraying from your backyard.
 - Ensure your spray holds the highest pressure, as this will help prevent blockage. Shake your sprayer while continuing with the spraying to prevent the nematodes from settling at the bottom of the bottle.

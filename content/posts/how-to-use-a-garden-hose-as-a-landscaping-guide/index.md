@@ -15,7 +15,7 @@ tags:
 - hose
 layout: post
 ---
-Embarking on a landscaping project, whether it's designing a new flower bed, rerouting a pathway, or defining the edge of a lawn, often feels like a daunting task. While sophisticated design software and professional consultations are valuable, sometimes the simplest tools yield the most effective results. Enter the humble [garden](https://pestpolicy.com/10-essential-lawn-and-garden-tools-for-fall/) hose�an indispensable item in every gardener's arsenal, not just for watering, but also as an incredibly versatile and intuitive guide for laying out landscape designs.
+Embarking on a landscaping project, whether it's designing a new flower bed, rerouting a pathway, or defining the edge of a lawn, often feels like a daunting task. While sophisticated design software and professional consultations are valuable, sometimes the simplest tools yield the most effective results. Enter the humble [garden](https://pestpolicy.com/10-essential-lawn-and-garden-tools-for-fall/) hosean indispensable item in every gardener's arsenal, not just for watering, but also as an incredibly versatile and intuitive guide for laying out landscape designs.
 
 The beauty of using a garden hose lies in its flexibility and immediate visual feedback. It allows you to transform abstract ideas from paper or your imagination into a tangible, movable representation on the ground. This hands-on approach helps you visualize curves, test proportions, and refine your layout in real-time, preventing costly mistakes before you ever break ground or invest in plants. This guide will walk you through the practical steps of leveraging your garden hose as a dynamic landscaping design tool, helping you achieve a harmonious and functional outdoor space.
 
@@ -77,7 +77,7 @@ Begin by laying out the most dominant or structural elements of your design firs
 Once the main lines are in place, start shaping the boundaries of your garden beds and borders.
 * **Create Flowing Curves:** Aim for long, graceful curves rather than tight, abrupt turns. Organic curves tend to look more natural and are easier to maintain (e.g., mowing around them).
 * **Consider Depth:** Think about how deep you want your beds to be. A bed that's too narrow might look insignificant and restrict plant choices. For house-adjacent beds, a depth of 3-5 feet is often a good starting point, allowing for multiple layers of plants.
-* **Adjust and Refine:** Continually step back and view your lines from different angles�from your patio, from various windows, from the street. Does the shape feel balanced? Does it flow well? Does it look too large or too small? Nudge the hose until the curves feel just right.
+* **Adjust and Refine:** Continually step back and view your lines from different anglesfrom your patio, from various windows, from the street. Does the shape feel balanced? Does it flow well? Does it look too large or too small? Nudge the hose until the curves feel just right.
 
 ### Step 4: Visualize Pathways and Flow
 If your design includes new pathways, use the hose to define their edges.

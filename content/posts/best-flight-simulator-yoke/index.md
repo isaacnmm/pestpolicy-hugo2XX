@@ -18,7 +18,7 @@ There has been increased innovation and upgrades in modern gaming devices such a
 - Also, the devices run on realism capacity, customs mapping ability of the buttons, and compatibility with different flight games.
 Therefore, it is no surprise that we as buyers get confused and overwhelmed when choosing the flight simulator yoke to purchase. Read Also:
 [Controller for Rocket League](https://pestpolicy.com/best-controller-for-rocket-league/)
-## Reviews:�7 Best Flight Simulator Yoke 2025
+## Reviews:7 Best Flight Simulator Yoke 2025
 ### [1. Saitek Pro Flight Yoke - 3-Lever Throttle (PZ44)](https://www.amazon.com/dp/B000TCEU4Q/?tag=p-policy-20)
 A unique feature of the Saitek Pro Flight Yoke is that the candle can travel 90 degrees in every direction.
 - This will affect the aileron travel since it will offer more precise and sensitive control over your ladle axis.
@@ -31,7 +31,7 @@ function to every button.
 - Apart from the yoke harsh centering problem in the Saitek device, they are real top products, even superior to CH ones.
 The Saitek Yoke is heavy and would not simply sit on a table devoid of clamping. This is mainly because it has a metal cast aluminum compared to other yokes that have plastic casings.
 The Saitek Yoke has an aileron action where you will hear a big bump when you move through the center. However, there is a clear and quiet notch at its center, just like when you move in the pitch axis.
-*Ease of installation -�*
+*Ease of installation -*
 Notably, the Saitek yoke is favorable to make people due to the sturdy steel shaft and high-quality bearings.
 - This setup will offer you a highly responsive control of the airplane.
 - Quadrant controls and the Yoke will excellently plug into the PC through the USB.
@@ -59,8 +59,8 @@ However, the Eclipse yoke has additional switches, knobs, and buttons. New dual 
 Further, you can now control more functions on the Yoke without reaching for your keyword.
 The Eclipse was designed to solve one key challenge in the old Yoke: sticking, which the new CH has now incorporated the favorable free-floating shaft design.
 The main aim of the Eclipse yoke is to fly the plane in pitch and roll, and thus it is designed around two analog axes aimed at controlling the elevators and the ailerons.
-The Yoke features 240 programmable functions that will give you excellent control of your flight simulation. �With the 7' USB cord, you'll achieve an excellent plug-and-play experience.
-*Thumb Rudder Paddles -�*
+The Yoke features 240 programmable functions that will give you excellent control of your flight simulation. With the 7' USB cord, you'll achieve an excellent plug-and-play experience.
+*Thumb Rudder Paddles -*
 Also, similar to the CH Flight Sim Yoke, it has three analog axes as levers at the top of the yoke casing utilized for mixture controls and throttle prop.
 The unique feature of the Eclipse Yoke is that it has an extra 6
 th
@@ -68,7 +68,7 @@ analog axis manipulated by the unique peddle setup. Read Also:
 [Ergonomic Sofa](https://pestpolicy.com/best-ergonomic-sofa/)
 .
 The peddle setup is a self-centering axis aimed for use as a rudder control. You can use the thumb rudder paddles for rudder control (for flight games) or like gear shifters (for racing games).
-*Free-floating shaft -�*
+*Free-floating shaft -*
 Further, if you've used an earlier version of the CH Yoke, you'll quickly observe that the Eclipse Yoke's shaft is free-floating during pitch and roll.
 Therefore, it implies that it lacks a central notch that could cause mechanical interference for fine control at the central position, and thus you'll easily make the accurate turn.
 - Despite that the aileron axis centers flawlessly at zero, the elevator axis will not do the same.

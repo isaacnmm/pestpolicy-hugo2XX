@@ -17,7 +17,7 @@ layout: post
 The Bigheaded Ants (sceientifically;
 *Pheidole megacephala*
 ) is classified as one of the top 100
-["World's dangerous"�invaders](https://lancaster.unl.edu/pest/ants/bigheadant.shtml)
+["World's dangerous"invaders](https://lancaster.unl.edu/pest/ants/bigheadant.shtml)
 including in businesses and homes.
 The Bigheaded Ants will get into your house to forage for water and food through the seams and cracks around the doors and windows or on the house foundation.
 But are the Bigheaded Ants really a risk or nuisance to humans? Well, yes...here's why; First, the ants will leave extensive debris and dirt in the house to feed their colonies. Also, the ants will scavenge and forage persistently both outside and inside the house.
@@ -36,7 +36,7 @@ Following the confirmation that the ants are truly Bigheaded Ants, you'll requir
 [cost of an Ant Exterminator Cost](https://pestpolicy.com/how-much-does-an-ant-exterminator-cost/)
 .
 In this time, you'll thus require to pinpoint exactly the places that those Bigheaded ants could be hiding or also the objects and location that could have been infested; which means you'll realize the places to concentrate the ant treatment.
-**Inspect Areas?�**
+**Inspect Areas?**
 For the Bigheaded ants, you'll require to inspect the outdoor spaces since these species don't colonize the indoor areas.
 - Therefore, I would recommend that you inspect thoroughly under the general clutter, leaf litter, yard debris, bricks, stones, logs, near trees, and the yard.
 - Additionally, inspect other areas like the driveways, areas near the house slab, and around the pavement.
@@ -61,14 +61,14 @@ To create a viable ant-treatment remedy using Supreme IT - you'll require to mix
 - But you'll need to calculate and determine how much of the Supreme IT you'll require to mix depending on the footage of the garden to be treated for ants.
 - For example, if the yard area to be treated for ants is less than 1,000 square feet, then you'll need to mix less than 1 ounce of the Supreme IT.
 Remember to apply the Supreme IT mixture on foundations, around yard perimeter, and also to spray on crevices & cracks, plumbing or electrical penetrations, around pet houses, garage doors, rain gutters, soffits, eaves, near gates, door frames, and window frames.
-### 2. Use**Bifen LP Granules�**
+### 2. Use**Bifen LP Granules**
 The next chemical is an insecticide and it'll treat the various yard insects such as ants.
 - The chemical also has a long residue effect - which is around 3 months and you may distribute it all over your garden.
 On the amount to apply, you'll require Bifen LP in the amount of 2.3 pounds to treat ants in an area of about 1,000 square feet of your yard.
 - For the tools, you'll need to use some hand spreader or the push spreader to apply the Bifen LP.
 You may spread the Bifen LP around the trees and flowerbed - the tools will assist in spreading the chemical all over the yard, backyard, or garden.
 However, if the yard area is smaller, you'll require to determine the amount of the Bifen LP that's appropriate for that space to effectively exterminate the ants.
-### **3. Use Ant� Gel Bait (Ant-Trax) and Fipro Aerosol�**
+### **3. Use Ant Gel Bait (Ant-Trax) and Fipro Aerosol**
 The Ant-Trax and Fipro Aerosol ant treatments will be effective for controlling ants that are foraging actively - especially in indoor spaces.
 One key advantage of these ant treatments is that they're slow-acting.
 - Thus the ants will carry them on their body back to their nest where they'll exterminate their colony.

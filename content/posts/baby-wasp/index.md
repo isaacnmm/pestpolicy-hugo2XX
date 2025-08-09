@@ -17,8 +17,8 @@ layout: post
 As homeowners, we're often faced with [wasp](https://pestpolicy.com/do-fake-wasps-nests-work/) attacks and other flying insects, especially in summer and thus it's critical to know all that appertains to
 [wasps, bees, and hornets](https://pestpolicy.com/bees-vs-wasps-vs-hornets/)
 .
-**So, what are [baby](https://pestpolicy.com/baby-bed-bugs/) wasps, what do they look like? Well, a baby wasp is a youngling of a wasp that's between the egg stage to an adult wasp; includes the larvae, pupa, and then virgin queen or young male drone.�**
-However, the baby wasp will be helped in their feeding activities by the�adult worker wasps until they're adult enough to take various responsibilities.
+**So, what are [baby](https://pestpolicy.com/baby-bed-bugs/) wasps, what do they look like? Well, a baby wasp is a youngling of a wasp that's between the egg stage to an adult wasp; includes the larvae, pupa, and then virgin queen or young male drone.**
+However, the baby wasp will be helped in their feeding activities by theadult worker wasps until they're adult enough to take various responsibilities.
 ## Details: What Do Baby Wasps Look Like?
 The wasps will move via 4 life stages to get to adulthood - these are Egg-Larvae-Pupa-Adult. However, the baby wasp is a youngling wasp that is between the stages of egg & adult wasp.
 - Therefore, the baby wasp is described as a development stage as the insect grows to become an adult.
@@ -51,8 +51,8 @@ Further, the wasp queen will move to other places during the mating time to avoi
 Checking the wasps' physical appearance would help you specifically identify those baby wasps.
 - So, you'll need to check some unique physical features of the wasps - you'll mainly locate them in their nest, shelter, or the nest.
 The baby wasps will come mainly as hornets, paper wasps, and yellowjackets.
-**1. Shape of Baby Wasps�**
-Baby wasps of varied species will have different shapes. For example, the baby yellowjacket waps have a�sloped sharp end,�cone-shaped abdomen, and a narrow waist.
+**1. Shape of Baby Wasps**
+Baby wasps of varied species will have different shapes. For example, the baby yellowjacket waps have asloped sharp end,cone-shaped abdomen, and a narrow waist.
 - Another species is the mud dauber wasp whose baby stage has an elongated (thin) body and a while those of the paper species have long legs and a waist that is spindle-shaped.
 Besides the baby wasps of the European Hornet species has a smooth (hairless) body and a narrow waist.
 - Also, the babies of this species do not turn while developing.

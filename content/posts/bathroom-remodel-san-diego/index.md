@@ -40,21 +40,21 @@ The cost of a bathroom remodel in San Diego, like other major Californian cities
 
 **Average Cost Ranges in San Diego:**
 
-* **Minor Renovation (Cosmetic Update):** This typically involves updating surfaces and fixtures without changing the layout or moving plumbing/electrical. Expect to pay **$6,000 � $13,000**. This can include new paint, updated lighting, a new vanity top, and fresh flooring.
-* **Mid-Range Remodel (Partial Renovation):** This project usually involves replacing key elements like the tub, shower, toilet, and vanity, along with new tiling, while maintaining the existing layout. Costs generally range from **$12,000 � $28,000**.
-* **Full Remodel (Major Renovation):** A complete overhaul that may involve changing the layout, moving plumbing lines, new drywall, and mid- to high-end fixtures and finishes. Expect costs in the **$25,000 � $55,000+** range.
+* **Minor Renovation (Cosmetic Update):** This typically involves updating surfaces and fixtures without changing the layout or moving plumbing/electrical. Expect to pay **$6,000  $13,000**. This can include new paint, updated lighting, a new vanity top, and fresh flooring.
+* **Mid-Range Remodel (Partial Renovation):** This project usually involves replacing key elements like the tub, shower, toilet, and vanity, along with new tiling, while maintaining the existing layout. Costs generally range from **$12,000  $28,000**.
+* **Full Remodel (Major Renovation):** A complete overhaul that may involve changing the layout, moving plumbing lines, new drywall, and mid- to high-end fixtures and finishes. Expect costs in the **$25,000  $55,000+** range.
 * **Luxury/High-End Primary Bathroom Remodel:** For large primary bathrooms with custom cabinetry, premium natural stone, advanced shower systems (e.g., steam, multiple jets), freestanding tubs, and smart technology integration. Costs can easily exceed **$55,000, reaching $100,000 or even $150,000+** for elaborate, custom designs.
 
 **Cost Breakdown by Components (Estimates for a Mid-Range to Full Remodel):**
 
 * **Labor Costs:** Typically represent 35-55% of the total project cost. In San Diego, specialized trades (plumbers, electricians, tile setters) can have higher rates. General contractors often charge 15-25% of the total project cost as their fee.
-* **Fixtures (toilet, sink, faucet):** $600 � $3,500+
-* **Vanity & Countertop:** $1,000 � $7,000+
-* **Shower/Bathtub Installation:** $1,500 � $18,000+ (custom walk-in showers with intricate tilework will be on the higher end)
-* **Tile (materials & installation):** $2,000 � $15,000+ (cost varies significantly by tile material, size, complexity of pattern, and area covered)
-* **Plumbing & Electrical (if moving or upgrading):** $2,500 � $12,000+
-* **Drywall & Painting:** $1,500 � $4,000
-* **Permits & Inspections:** $300 � $2,500 (varies by scope and City of San Diego's specific Development Services Department requirements)
+* **Fixtures (toilet, sink, faucet):** $600  $3,500+
+* **Vanity & Countertop:** $1,000  $7,000+
+* **Shower/Bathtub Installation:** $1,500  $18,000+ (custom walk-in showers with intricate tilework will be on the higher end)
+* **Tile (materials & installation):** $2,000  $15,000+ (cost varies significantly by tile material, size, complexity of pattern, and area covered)
+* **Plumbing & Electrical (if moving or upgrading):** $2,500  $12,000+
+* **Drywall & Painting:** $1,500  $4,000
+* **Permits & Inspections:** $300  $2,500 (varies by scope and City of San Diego's specific Development Services Department requirements)
 
 **Factors Influencing Cost:**
 

@@ -45,7 +45,7 @@ bed bug being 2.5 mm in size
 , you can see them with your naked human eyes. You'll notice that the adults anywhere near red, brown, or tan. Check here for
 what bed bugs look like
 .
-However, the eggs and nymphs are tiny, and they'll be more challenging to see with your naked eyes -� not unless they appear in clusters - one of them is anywhere like a pinhead-sized.
+However, the eggs and nymphs are tiny, and they'll be more challenging to see with your naked eyes - not unless they appear in clusters - one of them is anywhere like a pinhead-sized.
 Eggs are generally off-white of pearly whites, and they mainly exist in clusters of many eggs that'll ultimately measure about 1 millimeter in length.
 ## Common Areas Where Bed Bug Eggs Are Found?
 So,
@@ -68,7 +68,7 @@ bed bugs will live in clusters
 - that's the only way you can see them since they're too tiny for the naked eye when separated. So, here're the
 signs of bed bug
 eggs - particularly in the areas you rest or sleep.
-*Bedroom:�*
+*Bedroom:*
 In the bedroom, check especially around or on -
 - Mattresses buttons and folds, tufts, bed frames, mattresses, and box-springs.
 - Examine furniture, including chairs and desks - avoid second-hand furniture like the plague.
@@ -89,7 +89,7 @@ You may find these smears and spots around the bed, on mattresses, pillowcases, 
 This shows that the beds were feeding around the bedding and sheets. In addition to fecal spots, also check for cast skins.
 ## Are bed bug eggs hard?
 *So, are bed bug eggs hard? *
-These nymphs are simple to squash because�they're
+These nymphs are simple to squash becausethey're
 soft - they're sticky and smooth.
 These
 eggs are hard to pick up because they'll easily

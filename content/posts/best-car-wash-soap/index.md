@@ -84,7 +84,7 @@ The Good:
 The Bad:
 - Several rags are required to clean effectively.
 - Now ideal for heavy dirt
-## **5. Mothers California  05602 Gold Car Wash�**
+## **5. Mothers California  05602 Gold Car Wash**
 If youre looking for a blend of efficient cleaning and delicate care, Mothers 05602 car wash soap is a good choice.
 Its strong formulation washes all common stains, including dirt, pollen, bird droppings, among other stains.
 But unlike
@@ -184,7 +184,7 @@ Thus, a highly concentrated car wash soap will give you several washes before bu
 **Safety**
 Your product of choice should not contain harsh ingredients that might affect you or damage your car's paint.
 [Follow how to use a plunger](https://pestpolicy.com/how-to-use-a-plunger/)
-.�Also, an environmentally friendly product will go a long way to protect the surrounding environment from pollution.
+.Also, an environmentally friendly product will go a long way to protect the surrounding environment from pollution.
 ## **Conclusion**
 Not all soaps or shampoos are good for cleaning cars. Some of them will leave your car with a dull appearance and expose the paint finish to corrosion.
 - However, the best car wash soap will give your car a brilliant and lasting surface finish.

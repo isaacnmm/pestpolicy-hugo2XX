@@ -19,10 +19,10 @@ Ant bites can be painful, cause swelling,
 , or
 [allergic reactions](https://www.webmd.com/allergies/guide/allergic-reaction-causes)
 , and you may require some soothing treatment. In this article, I'll describe how to treat ant bites; what should I do?
-**To treat ant bites, hydrocortisone cream & antihistamine will ease the itching. Wash the bite area using water & soap, then smear some antiseptic and an antiseptic like calamine or hydrocortisone.�**
-**If there is swelling around the ant bite area, cold-compress that place with an ice pack. Other DIY remedies include apple cider vinegar, olive oil, baking soda & lemon juice, salt, toothpaste, cucumber, and honey.�**
+**To treat ant bites, hydrocortisone cream & antihistamine will ease the itching. Wash the bite area using water & soap, then smear some antiseptic and an antiseptic like calamine or hydrocortisone.**
+**If there is swelling around the ant bite area, cold-compress that place with an ice pack. Other DIY remedies include apple cider vinegar, olive oil, baking soda & lemon juice, salt, toothpaste, cucumber, and honey.**
 Let's check the details!
-## **Signs of Bites or Stings from Ants�**
+## **Signs of Bites or Stings from Ants**
 The signs you'll get following the [ant](https://pestpolicy.com/ant-control-in-federal-way/) bites include pain and itching especially if you're attacked by many ants in a swarm.
 - However, you'll notice that bites from other ant species are less intense compared to the ones caused by fire ants.
 General ant bites are less uncomfortable, less itchy or painful, and less red.
@@ -39,7 +39,7 @@ You should also apply some ice on the ant bite area to reduce the pain. Other tr
 - Another solution would be using astringents, aloe vera, and diluted ammonium - these will offer relative relief.
 Further, the bite or sting marks caused by the ants will be finished within a week.
 - However, scratches on the bite area could trigger further infection - and thus the bite or sting bite marks may remain longer.
-### 2.�Avoid Contact
+### 2.Avoid Contact
 Besides treating the ant bites, avoidance is considered an effective technique too.
 - So, when you notice an ant nest, it would be great if you avoid the urge to disturb the insect's homes.
 Further, when playing or working in the outdoor spaces, it'll be great if you wear socks and shoes.
@@ -54,7 +54,7 @@ Luckily, if you need immediate ants' bite relief, honey will be an excellent rem
 So, simply apply some hone drops on the ants' bite area.
 Related:
 Quality Fire Ant Killer
-### **4. Baking Soda & ****Lemon Juice�**
+### **4. Baking Soda & ****Lemon Juice**
 Baking soda & lemon juice are critical DIY elements that can help stop the pain & discomfort that arise from ant bites.
 - So, if you have some lemons in the yard, you might find them helpful in tackling that ant bite challenge. Simply cut that fruit, squeeze some quice and drop it into a bowl.
 I recommend you apply the lemon juice directly onto the ant bite area - this has in the past given me quick relief.
@@ -63,7 +63,7 @@ As with the lemon juice, baking soda too will also help ease your pain and disco
 Simply mix some 3 teaspoons of the baking soda with some water and mix to create some thick paste.
 - Next, apply that basking soda mixture onto the area affected by the ant bite.
 So, the baking soda & lemon juice will work well in reducing that discomfort or pain that is caused by the ant bite.
-**5. Apple Cider Vinegar�**
+**5. Apple Cider Vinegar**
 Likewise, Apple Cider Vinegar is a common ingredient in most kitchens - it's loved for various purposes.
 - However, the substance has acidic features - apple cider vinegar will ease the itching and pain on the ant bite area.
 But make sure to mix that apple cider vinegar with enough water prior to applying it to the bite area.
@@ -71,7 +71,7 @@ So, if you've stepped onto some ant bed, the apple cider vinegar will be excelle
 - This apple cider vinegar will finish that itchy and painful bite from ants including the fire ants.
 ### **6. Olive Oil and C****ucumber**
 Olive oil will also be a suitable remedy when trying to treat or cool down the pain or itching that arises from the ant bites.
-- The oleocanthal in the olive oil will prevent inflammation�from the enzymes.
+- The oleocanthal in the olive oil will prevent inflammationfrom the enzymes.
 You'll require just some of the oil on your palm and smear it on the ant bite area - and you'll get pain relief.
 - Cucumber will also be great on the ant bite - simply cut it into some slices and apply the gel on your ant bite.
 Related:

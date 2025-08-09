@@ -209,7 +209,7 @@ Cons:
 ### 11. Terro Spider & Insect Trap
 This spider and insect trap from the renowned brands Terro works by trapping spiders, together with any other insects present, and eventually killing them. For people not comfortable with killing these spiders and insects, the trap also allows them to release these creatures outdoors. However, this means that they can come back.
 
-The Terro spider & bug trap helps catch and get rid of insects such as mosquitoes, ants, worms, etc. �It is a popular product in the market because of its non-toxic nature, easy-to-use design, kid and pet-friendly formula as well as its natural ingredients.
+The Terro spider & bug trap helps catch and get rid of insects such as mosquitoes, ants, worms, etc. It is a popular product in the market because of its non-toxic nature, easy-to-use design, kid and pet-friendly formula as well as its natural ingredients.
 Pros:
 - Traps as well as kills venomous spiders and all other insects
 - Non-toxic

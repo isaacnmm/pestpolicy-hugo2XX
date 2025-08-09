@@ -19,9 +19,9 @@ and
 are major problems facing most dog/pet owners.
 
 Could you be having challenges while differentiating between the Dog Ear Mites and Yeast Infections? Then, this article is for you.
-**Dog Ear Mites (also known as Otodectes cynotis mites) is a parasitic infection that is caused by tiny parasites called ear mites.�**
+**Dog Ear Mites (also known as Otodectes cynotis mites) is a parasitic infection that is caused by tiny parasites called ear mites.**
 **It is characterized by red inflammation and severe irritations. **
-**On the other hand, Yeast Infections is caused by growth of yeast (fungus) in the ear canal and its characterized by odor and brown greasy stinking discharge.�**
+**On the other hand, Yeast Infections is caused by growth of yeast (fungus) in the ear canal and its characterized by odor and brown greasy stinking discharge.**
 Related:
 [Best Ear Mite Medicine for Dogs](https://pestpolicy.com/best-ear-mite-medicine-for-dogs/)
 ## Differences between Dog Ear Mites Vs Yeast Infection
@@ -64,7 +64,7 @@ You can also carry out
 Using a biopsy punch, obtain a small skin on the dogs ear and check on the yeast presence (in this technique, it is important to engage a veterinarian or specialist).
 
 It is necessary to bring other pets for checkup so that treatment can begin immediately (in case they are found infected).
-*NB: Ensure that you always put on the medical/protection gears while carrying out any diagnosis. Label all diagnosed dogs/pets appropriately.�*
+*NB: Ensure that you always put on the medical/protection gears while carrying out any diagnosis. Label all diagnosed dogs/pets appropriately.*
 ### 4. Treatment Methods
 **Dog Ear Mites can be treated**
 using various ear applications. These solutions are manufactured with ability to get rid of the eggs, larvae and adult ear mites.
@@ -112,7 +112,7 @@ Both, the Dog Ear Mites and Yeast Infection shares common preventive methods. Yo
 ### 3. Side Effects.
 Dog Ear mites and Yeast Infections are dangerous infections if not treated immediately. They cause continuous irritation and severe pain on your dog  this creates discomfort.
 
-There is high loss of blood that is associated with Dog Ear Mites and Yeast Infections  this may lead to anemia.�Clogging caused by yeast infections and Dog Ear Mites in the ear canal as well as eardrum may cause deafness to your dog at long run.
+There is high loss of blood that is associated with Dog Ear Mites and Yeast Infections  this may lead to anemia.Clogging caused by yeast infections and Dog Ear Mites in the ear canal as well as eardrum may cause deafness to your dog at long run.
 
 Moreover, continuous ill health resulting from Dog Ear Mites and Yeast Infections may lead to general body weakness and this may eventually kill your dog.
 **Importantly**

@@ -18,7 +18,7 @@ If your job involves standing all day, you need comfortable and supportive footw
 Being on feet for long hours can cause vein inflammation. Over time, the inflammation can progress to painful or chronic varicose veins.
 [Excessive standing](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4591921/)
 may also cause pain on joints, spine, knees, hips, feet, and
-lower back�pain
+lower backpain
 . Therefore, its crucial to pick supportive shoes that are ideal for all-day standing.
 
 Related:
@@ -104,7 +104,7 @@ If you want to leave a lasting impression or stand out among the rest, these are
 
 Its available in different sizes and color options including the extra-wide (EE). The shoes are Full Grain leather and are available in chocolate brown and black colors. The leather-lined insole material allows breathability while resisting moisture. The leather material also retains its original shape allowing a longer period of wear.
 
-The shoe features a craftable leather outsole that comes with a wooden stacked heel.� The shoe also has five eyelets that feature an excellent waxed lacing system that ensures you have a secure fit for all-day standing.
+The shoe features a craftable leather outsole that comes with a wooden stacked heel. The shoe also has five eyelets that feature an excellent waxed lacing system that ensures you have a secure fit for all-day standing.
 Pros:
 - Comfortable
 - Leather upper

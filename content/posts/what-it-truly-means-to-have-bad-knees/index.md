@@ -45,7 +45,7 @@ Most of the outlined bad knees issue listed above can be prevented by keeping yo
 ### Appropriate exercises
 Notably, your bad knee will not love an intensive workout. Therefore, youll have to shift the workout plan to make the knee to familiarise.
 - You may begin with working out or exercising for about 3 days per week. During this period, you can increase the workout time and intensity while considering your bodys reaction.
-- If, you'll be jogging or running, ensure you acquire the[right shoes for bad knees](https://pestpolicy.com/best-running-shoes-for-bad-knees/).�As we had noted earlier, it is essential to take breaks in your workout plans to give your bad knee enough time to recover.
+- If, you'll be jogging or running, ensure you acquire the[right shoes for bad knees](https://pestpolicy.com/best-running-shoes-for-bad-knees/).As we had noted earlier, it is essential to take breaks in your workout plans to give your bad knee enough time to recover.
 - Therefore, for our current workout plan, you can take about 2 resting days during which time the body will recover.
 Notably, avoid rushing to a new sport without training the relevant muscles. For example, if youll be starting tennis in the next month, ensure you strength train relevant muscles, which will prepare you to handle the physical stress resulting from the game.
 ### Balance your workouts

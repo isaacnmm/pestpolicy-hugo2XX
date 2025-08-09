@@ -21,7 +21,7 @@ You must have noticed some
 Well, this is a worrying issue, mainly when you have yourself, kids, and pets around the house and
 [kitchen](https://pestpolicy.com/best-[ant](https://pestpolicy.com/how-to-get-rid-of-ants-in-car/)-killer/)
 . Therefore, how do you get rid of [ants](https://pestpolicy.com/how-to-get-rid-of-ants-naturally-outside/) in the bathroom?
-**First:�**
+**First:**
 Ants appearing in the bathroom is not an uncommon occurrence. They are attracted by
 human hair
 , stagnant water, or drains. Also, ants are attracted by lotions, perfumes, and toothpaste due to their sweet taste and smell.
@@ -39,7 +39,7 @@ The ants head connects to the thorax through the as thin neck. Further, the thor
 **-**
 However, the main distinguishing feature of ants is their waist pinched down at the back in the link with its abdomen.
 ## Get Rid Of Ants in the Bathroom
-### **1. Understand the ant colony� **
+### **1. Understand the ant colony **
 Knowing the specific insect that is in your bathroom will be important, particularly when determining which
 [pest control](https://pestpolicy.com/flying-ants-vs-termites/)
 product of the method to use.

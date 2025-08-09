@@ -26,7 +26,7 @@ Some products, like
 contains DEET and is incredibly effective against sand fleas and
 [other parasites](https://pestpolicy.com/best-no-see-ums-repellent/)
 , providing long-lasting protection.
-### **2. Safety for Humans and Pets�**
+### **2. Safety for Humans and Pets**
 Safety is a top priority when choosing a flea spray, especially if you have pets or children.
 [**Adams Flea and Tick Home Spray**](https://www.amazon.com/dp/B00JN9H50M/?tag=p-policy-20)
 is designed to be safe for both humans and animals.

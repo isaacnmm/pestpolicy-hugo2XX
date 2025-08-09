@@ -107,10 +107,10 @@ Cons:
 
 ### 6. WoodMaxx FM-78H PTO Flail Mower
 The large mower is designed to withstand the harshest mowing conditions from thick shrubs to rainy weather. Its 804 pounds is enough to hold it down to the ground properly.
-The thick deck plate materials make it durable as they can withstand the stress that comes with mowing shrubs.�The mower has a powerful motor with 30-65 horsepower, giving it the ability to mow through any vegetation effortlessly.
+The thick deck plate materials make it durable as they can withstand the stress that comes with mowing shrubs.The mower has a powerful motor with 30-65 horsepower, giving it the ability to mow through any vegetation effortlessly.
 Its drive belts and belt tensioners are perfect for adjusting the belt tension automatically. As a result, the belts remain firm during the mowing process.
 Woodmaxx FM-78H comes with an overall width of 79.5 inches. However, the actual cutting width is 74 inches, making mowing with this mower a child's play.
-You can adjust its cutting height from 0.75-inches to 4 inches. Therefore, you can choose to mow your lawn to different sizes.�The mower is best suited for mowing large tracts of lawns with minimal obstructions like trees.
+You can adjust its cutting height from 0.75-inches to 4 inches. Therefore, you can choose to mow your lawn to different sizes.The mower is best suited for mowing large tracts of lawns with minimal obstructions like trees.
 It's difficult to mow around obstacles with the mower. Cleaning and maintaining the mower is straightforward. Use a hard brush to remove grass or shrub debris. Further, use a piece of soapy clothing to remove soil and other darts that the mower may attract during the mowing process.
 Pros:
 - Durable

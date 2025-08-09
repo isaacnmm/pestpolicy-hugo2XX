@@ -17,11 +17,11 @@ layout: post
 The world of photography has been transformed by drone technology or
 [surveillance](https://www.brookings.edu/research/drones-and-aerial-surveillance-considerations-for-legislatures/)
 , opening up breathtaking aerial perspectives that were once impossible without expensive helicopter rentals.
-*Summary: If you need a quick answer, I recommend either�*
+*Summary: If you need a quick answer, I recommend either*
 [DJI Phantom 4 PRO](https://www.amazon.com/dp/B08RCHDW96/?tag=p-policy-20)
 or
 [DJI Inspire 2](https://www.amazon.com/dp/B06X9DS9PH/?tag=p-policy-20)
-*as your best drones for still photography.��*
+*as your best drones for still photography.*
 ## Reviews: Top 5 Best Drones for Still Photography
 ### [1. DJI Phantom 4 PRO Professional Drone, Hobby RC Quadcopter](https://www.amazon.com/dp/B08RCHDW96/?tag=p-policy-20)
 Next up is the DJI Phantom 4 Pro (with a hull shape), which has interestingly included the omnidirectional (5-direction) obstacle avoidance for all objects, including buildings or trees that are on its way while shooting your photographs.
@@ -41,7 +41,7 @@ It comes with the dual battery system, which gives the drone loner flight time, 
 I love its versatility  it has mountable gimbals that provide room for mounting an extra camera in the future. For a quick spin (manual), the drone has C1 & C2 buttons that you can customize to 14 available options  features that, among others, ensure that the flight is safe and stable.
 It has a Zenmuse X5S camera with a fantastic FPV camera (which is forward-facing) that allows one to view around the drone and hence enhance seamless controlling. Additional features include that you can also alter the maximum speed when the drone is descending (from 8.9 mph to about 20.1 mph).
 Its processor (the CineCore 2.1) allows burst mode camera shooting. It has a lightweight build, with reliable motors and allows excellent control and propulsion. From a distance of 30 meters, the drone can detect various objects that you need to photograph.
-*The two models will allow you to unleash your photography creativity, capture those excellent aerial shots, capture still images from different angles, just like you require music videos.�*
+*The two models will allow you to unleash your photography creativity, capture those excellent aerial shots, capture still images from different angles, just like you require music videos.*
 https://www.youtube.com/watch?v=14oajBu64JA
 ### [3. Yuneec Typhoon H Pro - Ultra HD 4K](https://www.amazon.com/dp/B01MQDQ7WR/?tag=p-policy-20)
 This Typhoon H is the old viable option to the DJI Inspire 2 and Phantom 4. Unique characteristics include the 360-degree gimbal (for panoramic images), obstacle avoidance (through Realsense), and has a landing gear (6-rotor) that is retractable in addition to having folding arms!

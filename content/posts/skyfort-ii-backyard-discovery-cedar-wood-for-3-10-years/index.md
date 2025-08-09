@@ -22,7 +22,7 @@ Great Way to Anchor a Swing Set
 ### **Money bars **
 Skyfort II has monkey bars, which go the full length, and will sing them into the elevated clubhouse. However, I noted that the monkey bars are very high above the ground and thus the small and short kids might not reach them effectively.
 https://www.youtube.com/watch?v=MGWqkzB1VY4
-Hence, you might need to create a stand or short kids to reach the monkey bars.�The set has an amazing and bumpy slide to create real fun rides for your kids. Also, the slide is highly sturdy and thus will withhold the recommended weight appropriately.
+Hence, you might need to create a stand or short kids to reach the monkey bars.The set has an amazing and bumpy slide to create real fun rides for your kids. Also, the slide is highly sturdy and thus will withhold the recommended weight appropriately.
 You might require about 2-4 days to install the project. Read Also:
 [Swing Sets for Small Yards](https://pestpolicy.com/best-[swing-sets](https://pestpolicy.com/fun-backyard-flexible-flyer-swing-set/)-for-small-yards/)
 .
@@ -59,7 +59,7 @@ Assembled Dimensions
 ### Cedar Wood Design
 Sky Fort II swing set is largely designed from durable Cedar Wood. Therefore, with the appropriately created small and tight knots, the wood will not decay or create cracks.
 Further, the cedar wood has a clear and smooth look from the pre-staining procedure. However, the swing set is easy to assemble due to the Safe-T-Fuse design.
-Further, the swing beam is laminated and has brackets that are designed from steel or secure swinging experience for your kids.�Check out these quality
+Further, the swing beam is laminated and has brackets that are designed from steel or secure swinging experience for your kids.Check out these quality
 Wooden swing set
 .
 ## **FAQ
@@ -73,4 +73,4 @@ Wooden swing set
 4. Question 4: Is it weather resistant?
 - Response: Yes, it will withstand the snow, rain, and the sun.
 ## Conclusion
-The Skyfort II will serve you right if you have more than one kid that require to play on the set simultaneously.�The swing set is strong, durable, and safe for all the play and swinging needs in your [backyard](https://pestpolicy.com/saratoga-backyard-discovery-cedar-wood/).
+The Skyfort II will serve you right if you have more than one kid that require to play on the set simultaneously.The swing set is strong, durable, and safe for all the play and swinging needs in your [backyard](https://pestpolicy.com/saratoga-backyard-discovery-cedar-wood/).

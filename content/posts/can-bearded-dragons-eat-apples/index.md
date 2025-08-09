@@ -23,11 +23,11 @@ mango
 But most of us wonder; which food or snacks should your avoid or give to beardies? Well,
 bearded dragons eat a variety of foods
 like fruits, vegetables or commercial foods.
-*But can bearded dragons eat apple? Yes, bearded dragons will eat apples. However, for a healthy diet, peel the apple's skin and cut the fruit into small pieces.�*
-**Ensure the Caution - only feed apples like a treat because excessive apples will lead to runny stools.�**
-**Apples are a source of nutrients including vitamin C, proteins, fiber and so on. Apples also contain a lot of water which helps in hydrating your beardies.�**
+*But can bearded dragons eat apple? Yes, bearded dragons will eat apples. However, for a healthy diet, peel the apple's skin and cut the fruit into small pieces.*
+**Ensure the Caution - only feed apples like a treat because excessive apples will lead to runny stools.**
+**Apples are a source of nutrients including vitamin C, proteins, fiber and so on. Apples also contain a lot of water which helps in hydrating your beardies.**
 
-## **Bearded Dragons and the Apples��**
+## **Bearded Dragons and the Apples**
 Apples make a very good diet for bearded dragons like
 tomatoes eat bearded dragons
 . Apples are good for because of their high nutrition value. But peel the apple fruit first before feeding on the beardies.
@@ -53,7 +53,7 @@ Bearded dragons won't easily eat the apple skins or peels. The pets are unable t
 https://www.youtube.com/watch?v=SK7oFmnkBkI
 ### **Can Bearded Dragons Drink Apple Juice?**
 Apples are very enticing to bearded dragons. So, they wont resist the taste of apple juice. However, they should be given small amounts of apple juice because its sugary drink.
-Too much sugar isnt good for a bearded dragons stomach. It causes loose stool thus leading to a lot of mess in their cage.�You can take advantage of the sweetness in apple juice to teach your bearded dragon how to drink water from a bowl.
+Too much sugar isnt good for a bearded dragons stomach. It causes loose stool thus leading to a lot of mess in their cage.You can take advantage of the sweetness in apple juice to teach your bearded dragon how to drink water from a bowl.
 Beardies are not used to drinking water from a pool when in the wild. They normally hydrate from their diet which mainly consists of plants and insects.
 Adding apple juice to the beardies water bowl makes the water a little bit tasty. Your pet will get lured to the flavoured water and with time it will get used to using the water bowl even without the flavour.
 ### **Can Bearded Dragons Eat Green Apples?**
@@ -69,7 +69,7 @@ Related:
 Some bearded dragons take some time to get accustomed to a new diet or environment. As a result you might notice that your beardie isnt eating apples.
 But with some effort and trick you can easily get your
 [bearded dragon to start eating](https://pestpolicy.com/can-bearded-dragons-eat-mango/)
-apples.�Follow these steps to prepare and teach your beardie to eat apples:
+apples.Follow these steps to prepare and teach your beardie to eat apples:
 - Wash the apples to remove dirt and any chemicals used as pesticides.
 - Peel off the skin using a knife or vegetable peeler. Ensure you dont lose too much of the flesh. If this is too much work, you can get a mini peeler to help you peel apples in a short time.
 - Slice the apples into very thin pieces. Bearded dragons wont be able to chew large chunks of apples. For baby beardies, the pieces should be even smaller.

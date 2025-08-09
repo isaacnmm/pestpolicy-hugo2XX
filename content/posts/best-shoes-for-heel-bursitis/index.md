@@ -85,7 +85,7 @@ Besides that, the tongue and collar have enough padding to secure the foot and p
 
 Furthermore, the upper section of these womens running shoes features a woven double jacquard mesh material. This material is soft and seamless, thus adapts to the natural motion and shape of your foot. The material also has small pores that allow excellent breathability.
 
-In addition, the upper also features a 3D Fit Print design. This technology enhances the shoes aesthetics while reinforcing the fa�ade to give it structure.
+In addition, the upper also features a 3D Fit Print design. This technology enhances the shoes aesthetics while reinforcing the faade to give it structure.
 
 Lastly, the outsole features a durable rubber compound with non-prominent lugs to enhance surface traction, grip, and control. The flex grooves at the bottom allow the shoe to move naturally with the foot for enhanced flexibility.
 

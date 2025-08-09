@@ -133,7 +133,7 @@ Cons:
 ## Considerations for Best Tiller for Breaking New Ground
 ### 1. Front tine or rear tine
 For large and open areas, you might want to go for rear tine counter-rotating tillers with a wide width. Rear tine tillers are preferred for breaking new ground by most users.
-Their powered wheels and counter-rotating tines are effective in breaking up soil.�If you are working on smaller landscaping projects, front-tine tiller cultivators are more ideal.
+Their powered wheels and counter-rotating tines are effective in breaking up soil.If you are working on smaller landscaping projects, front-tine tiller cultivators are more ideal.
 These tillers are driven by the tines, which have an adjustable width of 12-26 inches. You will find them more ideal for navigating through tight garden spaces. Check which is which -
 Front Tine vs. Rear Tine Tillers?
 ### 2. Forward rotating and counter-rotating tines

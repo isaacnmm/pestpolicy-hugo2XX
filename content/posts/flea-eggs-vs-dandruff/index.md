@@ -18,7 +18,7 @@ Sometimes it is not easy to tell the difference between flea eggs vs. dandruff t
 [[fleas](https://pestpolicy.com/how-long-do-flea-eggs-take-to-hatch/) can't live in human hair](https://pestpolicy.com/can-fleas-live-in-human-hair/)
 .
 ***You are arming yourself with the knowledge to successfully determine which will significantly help you treat these conditions, including allergies. ***
-***When you spot small white flakes on your pet's skin, it might be easy to jump to conclusions without knowing the difference between dandruff and [flea](https://pestpolicy.com/what-do-flea-eggs-look-like/) eggs - flea eggs can be killed by vacuuming while adults through flea bombs.�***
+***When you spot small white flakes on your pet's skin, it might be easy to jump to conclusions without knowing the difference between dandruff and [flea](https://pestpolicy.com/what-do-flea-eggs-look-like/) eggs - flea eggs can be killed by vacuuming while adults through flea bombs.***
 
 ## Flea Eggs vs. Dandruff - How to Tell the Difference?
 Panic can set in, especially with the prospect of having a flea infestation, but you should not panic until you know exactly what you are dealing with.

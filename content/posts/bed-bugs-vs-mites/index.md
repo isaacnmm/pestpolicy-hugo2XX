@@ -17,17 +17,17 @@ layout: post
 What are the differences between bed bugs vs. mites? No infestation from any of the
 bed bugs/)
 or mites is good. But exterminating them requires that you know their differences.
-*In summary, bed bugs are blood-sucking insects that bite human and animal hosts. However, Dust mites are arachnids eating dead skin cells left by humans, ticks, and spiders in homes.�*
+*In summary, bed bugs are blood-sucking insects that bite human and animal hosts. However, Dust mites are arachnids eating dead skin cells left by humans, ticks, and spiders in homes.*
 *But mites don't bite humans but will cause skin irritation. Bed bugs are tiny insects that don't fly but will live in cracks on bed frames, box springs, mattresses, beds, textiles, and furniture.
 *
 
 ## Bed Bugs Vs. Mites - How to Tell the Difference
 Bed bugs are mainly active
-at night and cause anemia and itching (may cause secondary dermal infections) - but don't spread diseases.�Read Also:
+at night and cause anemia and itching (may cause secondary dermal infections) - but don't spread diseases.Read Also:
 Can Cockroaches Fly
 ?
-### 1. Physical Appearance*i. Size�*
-*Bed bugs:�*
+### 1. Physical Appearance*i. Size*
+*Bed bugs:*
 *On size*
 , bed bugs will grow to about
 1/4 of an inch (1 - 6.8 mm) in length - adults measure 5 mm to 7 mm - an apple seed's size in length.
@@ -57,7 +57,7 @@ colorless/ semi-translucent or translucent-tan after hatching but will turn
 brownish on maturing. When you
 squish bed bugs
 , they'll leave a red bloodstain and some
-*terrible odor.�*
+*terrible odor.*
 *Mites*
 : Mite's color has different colors, including reddish-brown, brown, tan - or a mixture of colors; some species are green, blue, or bright red. Larvae mites (arachnids) are red (natural pigment).
 The sarcoptic (scabies mites or mange mites) are about 120 species. These species are pale-brown and tiny in size. Read also;
@@ -121,7 +121,7 @@ https://www.youtube.com/watch?v=FlyebXrv2Kk
 ## Conclusion
 You can use covers (dust-proof),
 [mattresses covers](https://pestpolicy.com/best-bed-bug-mattress-encasements/)
-,� blankets, and sheets for bed bugs. I would also recommend using
+, blankets, and sheets for bed bugs. I would also recommend using
 steamers to kill bed bugs
 to clean up even the dead
 [bed bugs](https://pestpolicy.com/dead-bed-bugs/)

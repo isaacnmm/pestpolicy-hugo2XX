@@ -22,7 +22,7 @@ gives you a consistent level and allows a uniform planting depth that eventually
 
 For small land, you can use manual tillers but motorized tillers- like the
 [PTO tillers](https://pestpolicy.com/best-pto-[tiller](https://pestpolicy.com/best-tiller-for-breaking-new-ground/)-for-the-money/)
-, are more appropriate for cultivating a more extensive garden, vegetable garden, or lawn.�Read Also:
+, are more appropriate for cultivating a more extensive garden, vegetable garden, or lawn.Read Also:
 Pole Digger for Rocky Soil.
 ## Root Tillers: 7 Best Tiller for Roots in 2025
 ### [1. Sun-Joe TJ604E 13.5-AMP 16-Inches Electric Garden Cultivator or Tiller](https://www.amazon.com/dp/B01DTIC79Q/?tag=p-policy-20)
@@ -53,7 +53,7 @@ Champion Dual-Rotating is a budget-friendly tiller that is available. It comes w
 
 Luckily, the
 Champion Dual-Rotating has adjustable tilling width. Therefore, you can get readily till in wide paths and narrow rows suing the same Dual-Rotating tiller.
-This tiller also includes four steel tines (13.8 inches), making the tilling process easier - flexibly switch between forward to reverse.�The tines are also dual rotating, and thus they'll quickly break down the problematic soil and roots in your yard.
+This tiller also includes four steel tines (13.8 inches), making the tilling process easier - flexibly switch between forward to reverse.The tines are also dual rotating, and thus they'll quickly break down the problematic soil and roots in your yard.
 The gear-driven tiller has a transmission made from cast iron, and it's equally fixed in the cast-iron case. You'll have an easy time chopping those roots in your land.
 Rear-tine tillers also have 13 inches self-propelling wheels, making it easy to operate in rough terrain and tree roots in the lawn or garden. Check these
 riding lawn mower for rough terrain
@@ -107,7 +107,7 @@ Further, the tiller's tines are designed from durable metal, and this will enabl
 For a situation where you'll be tilling a big yard, you can adjust the machines tilling depth to 6.5 inches. Further, the handles on the
 YARDMAX YT4565 are fold-able - which allows better storage as the machine will take less space.
 Pros:
-- Allow more profoundcultivation with its dual-rotation plus comes withself-sharpening tiller�tines.
+- Allow more profoundcultivation with its dual-rotation plus comes withself-sharpening tillertines.
 - Better balance with the wheel havingcounterweightsand thus ease of use (handling) while tilling your land.
 - Providessecure working due to its installed safety shields
 - Broader tilling width (18 inches) plus better tilling depth (7 inches) allow faster tilling and hence more substantial ground coverage.
@@ -125,7 +125,7 @@ the tiller has a tilling width of 18 inches, and hence you'll easily cover more 
 Husqvarna TR317C has both forward and counter transmission, and thus any newbie or experienced farmer will easily till using the tool to cultivate with the forward-rotating tines. Therefore, I would recommend this Husqvarna TR317C for cutting or uprooting plant or tree roots - remember its an ear-tine tiller.
 Next,
 Husqvarna TR317C has a speed of 180 RPM in its 208cc engine from Briggs & Stratton that has enough power to cut out or remove roots. Thus, be ready to use this tool to cut through various roots with top efficiency. Also, the device has a quality tine shield that'll protect you from flying debris that may come when you're tilling your garden.
-Husqvarna TR317D is also appropriate for undertaking lighter-duty tilling.� Wit its tines being 6.5 inches in depth and made from durable steel plus they are counter-rotate, you'll readily pulverize and break up any hard or compact soil.
+Husqvarna TR317D is also appropriate for undertaking lighter-duty tilling. Wit its tines being 6.5 inches in depth and made from durable steel plus they are counter-rotate, you'll readily pulverize and break up any hard or compact soil.
 The
 [rear-tine tiller](https://pestpolicy.com/best-rear-tine-tiller/)
 will work in all USA states as its CARB-compliant - it'll also give you top fuel efficiency with its powerful 208cc engine. It also has agricultural tires that are engineered to work perfectly for most land and soil types. Its 17 inches tilling swath is also adjustable through 7 tilling depth adjustments - it's a tremendous rugged tool for many homeowners.

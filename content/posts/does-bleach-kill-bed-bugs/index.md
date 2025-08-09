@@ -15,9 +15,9 @@ tags:
 layout: post
 ---
 For years, bleach has been a product of choice for sanitizing and cleaning for most people. Due to its corrosive nature, homeowners have often considered it to kill bed bugs.
-- **Does Bleach Kill Bed Bugs? Well in summary, �Technically,�bleach will kill bed bugs by making�the sodium hypochlorite oxidize the bug's body or outer�shell.**
+- **Does Bleach Kill Bed Bugs? Well in summary, Technically,bleach will kill bed bugs by makingthe sodium hypochlorite oxidize the bug's body or outershell.**
 - **Yet, humans or pets could inhale their toxic fumes, or it might damage your clothes and fabrics. Also, it would help if you sprayed the bleach mixture directly on the bed bug. **
-*Just like cockroaches, bed bugs are challenging to control and will multiply fast. Bed�bug sprays would be a more effective and faster alternative. *
+*Just like cockroaches, bed bugs are challenging to control and will multiply fast. Bedbug sprays would be a more effective and faster alternative. *
 
 ## Does Bleach Kill Bed Bugs? and Their Eggs
 According to Michigan's research, Hsp33 (a protein) tends to react with bleach and thus killed the bacteria under test.
@@ -50,7 +50,7 @@ hiding places
 - Bleach cannot poisonbed bugsthat fall near it.
 - Therefore, the homeowner would require tospray the chemical directly on the bed bugbody  if not, youll have missed the train.
 Therefore, if the bed bugs will be hiding in fabrics and clothes, you might unintentionally damage them.
-### 2.�Bleach can poison pets and humans
+### 2.Bleach can poison pets and humans
 Bleach may also
 [poison your pets](https://www.petmd.com/dog/emergency/poisoning-toxicity/bleach-poisoning-pets-what-you-should-know)
 , adult human beings, and kids. But how? If your kids or dogs/ cars accidentally ingest the bleaching liquid, they might get poisoned.
@@ -68,7 +68,7 @@ C. hemipterus were previously considered odorless, but various chemical compound
 Therefore, bleach will not be a great
 bed bug
 control solution since the bugs will detect the chemical and go into hiding.
-### 4.�Heat treatment is a better alternative
+### 4.Heat treatment is a better alternative
 For this, you'll do over 2 hours of heat treatment of your rooms at 140 degrees F. Such a treatment will allow you to
 kill visible bed bugs
 and those hiding inside cracks and crevices.

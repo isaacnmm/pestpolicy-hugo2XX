@@ -37,7 +37,7 @@ The product will give a great primer layer on your metal tools, machinery, and e
 ### 3. Metal Surface Restoration
 Rust development tends to create imperfections on the metal surface. Thus, using the Rustoleum rust reformer, you can hide the surface flaws and remove the rust.
 Thus, for your metallic tools and DIY metal projects, you can use this reformer to restore the smoothness and integrity of the metallic surfaces.
-## What's this�Rustoleum Rust Reformer
+## What's thisRustoleum Rust Reformer
 Rustoleum Reformer is a coating (flat-black) that'll bond with the metallic surfaces that are rusty and hence reduces rusting - by simply spraying the surfaces - with no
 sanding
 .
@@ -45,8 +45,8 @@ Created in 1921 by a famous sea captain (Robert Ferguson), Rustoleum Reformer de
 So, Rustoleum keeps the metallic surfaces intact and safe - and you can readily touch-up or paint on the tools, machinery, or equipment - the primer layer increases durability and eases corrosion.
 On Rust Reformer usage, just pour some Rust Reformer onto a container (non-metallic), then spray or brush the solution onto the rusted surfaces - creating a black coating in 15 minutes.
 ## Suitable Features of Rustoleum Rust Reformer
-### **1. Easily Paintable�**
-Despite that it is not required,�Rustoleum Rust Reformer will leave a very paintable metal surface using your various
+### **1. Easily Paintable**
+Despite that it is not required,Rustoleum Rust Reformer will leave a very paintable metal surface using your various
 oil-based primers
 or using other water- / oil-based paints.
 On the quality of the resulting metal surface, you'll love that it'll be even and smooth. But this is highly dependent on the prevailing rust situations, and the spraying skills employed.
@@ -73,7 +73,7 @@ The black-color finish may be used both in your
 outdoor or indoor projects
 covering about 15 feet square - considering coat numbers used - large surfaces may need 2+ Rust-Oleum containers.
 On safety, Rust Reformer is safe to use on your various surfaces provided it's away from possible fire sources like naked flame or cigarettes.
-### 5. Less�Toxic
+### 5. LessToxic
 Rust Reformer uses tannic acid - which is less volatile and less toxic. This is unlike other rust reformers that utilize phosphoric acid for their chelation process - and thus are more harmful.
 Despite that, you might not require to wear a gauze mask, get yourself
 safety glasses

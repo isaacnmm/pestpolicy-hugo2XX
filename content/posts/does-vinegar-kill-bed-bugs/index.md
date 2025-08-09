@@ -14,15 +14,15 @@ tags:
 - vinegar
 layout: post
 ---
-Does vinegar kill bed bugs?�Bed bug infestations have seen an increase in natural bed bug remedies like
+Does vinegar kill bed bugs?Bed bug infestations have seen an increase in natural bed bug remedies like
 essential oil for bed bugs/)
 . Among those in everyday use is vinegar.
-*The simple answer is  YES. A highly-concentrated solution of white vinegar will kill bed bugs on contact. The acetic acid in vinegar kills bed bugs by interfering with the PH levels in their internal fluids.�*
+*The simple answer is  YES. A highly-concentrated solution of white vinegar will kill bed bugs on contact. The acetic acid in vinegar kills bed bugs by interfering with the PH levels in their internal fluids.*
 
-*Also, vinegar has a pungent smell that repels bed bugs, including killing bed bug nymphs.��*
-## **Details: Does Vinegar Kill Bed Bugs? Home Remedy Guide�**
+*Also, vinegar has a pungent smell that repels bed bugs, including killing bed bug nymphs.*
+## **Details: Does Vinegar Kill Bed Bugs? Home Remedy Guide**
 However, research has shown that vinegar can be used as a pesticide because of its acidic properties. Also, the antibacterial properties of vinegar make it an ideal substance for dissipating unwanted smells.
-- Vinegarkills bed bugs by contact. So, you might have to spray directly on them to achieve good results.�Whensprayed on bed bugs, the acid in vinegar shocks the nervous system and disrupts the PH level causing the insect to die.
+- Vinegarkills bed bugs by contact. So, you might have to spray directly on them to achieve good results.Whensprayed on bed bugs, the acid in vinegar shocks the nervous system and disrupts the PH level causing the insect to die.
 - If you want good results, use undiluted vinegar foreradicating bed bugs. When spraying, be sure to saturate the surfaces with vinegar. You are also required tospray frequentlyto be able to control bed bug infestation.
 - **Note**that vinegar has little or no effect on the bed bug eggstheir egg-shells act as a significant barrier to vinegar. Thus, you will have to use another treatment to prevent them from hatching.
 *Vinegar Described*
@@ -49,7 +49,7 @@ kill bed bugs
 that keep coming back. Check
 bed bug images
 .
-### **Which Type Of Vinegar Kills Bed Bugs?�**
+### **Which Type Of Vinegar Kills Bed Bugs?**
 The most common types of vinegar are white vinegar (corn),
 apple cider vinegar
 (apples), red vinegar (grapes), rice vinegar (rice), and malt vinegar (barley).
@@ -65,7 +65,7 @@ bed bug bites
 . It is mild on the skin. When
 applied on bed bug bites
 , it can reduce the irritation and help in the healing process.
-## **Does Vinegar Treat Bed Bug Bites?�**
+## **Does Vinegar Treat Bed Bug Bites?**
 If you have a bed bug infestation, vinegar will help you in control and treat the bites. Normally,
 bed bug bites are painful and itchy
 to the touch.

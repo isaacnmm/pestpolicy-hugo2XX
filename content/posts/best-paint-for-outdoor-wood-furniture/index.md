@@ -13,7 +13,7 @@ tags:
 - wood
 layout: post
 ---
-The best paint for [outdoor](https://pestpolicy.com/best-paint-for-outdoor-wood-deck/) wood furniture and outdoor decks�can be sprayed using your
+The best paint for [outdoor](https://pestpolicy.com/best-paint-for-outdoor-wood-deck/) wood furniture and outdoor deckscan be sprayed using your
 deck stain sprayer
 - to shield you from extreme weather - including severe humidity and extreme heat.
 
@@ -59,7 +59,7 @@ Rust-Oleum 253536 is a water-based (advanced) outdoor wooden paint that creates 
 trims, and Baseboards
 ,
 decks
-,�walls, and ceilings. The low-odor paint guarantees comfort when you're painting.
+,walls, and ceilings. The low-odor paint guarantees comfort when you're painting.
 The paint will give your outdoor furniture that brilliant shimmer due to the included real mica beads - these will allow the coating to shine to light. You'll get complete ceiling elegance with a luxurious touch - with about 2 coats.
 Rust-Oleum 253536 offers safe paint application as it has low levels of odor. You'll get the paint in 15 varied shades - and you'll require only 30 minutes for the outdoor furniture or ceiling to dry - effective and fast drying time.
 
@@ -130,7 +130,7 @@ Cons:
 - Sand required
 
 ### [5. Rust-Oleum 1976730 Painters Outdoor and indoor project Touch Latex](https://www.amazon.com/dp/B000BZX6TQ/?tag=p-policy-20)
-Rust-Oleum 1976730 is a latex-based outdoor paint that is super versatile - you can easily refresh your outdoor furniture in any minor and massive renovation. It is suitable for use on canvas, plaster,� ceramic, metal, and glass - to give that lovely glossy finish.
+Rust-Oleum 1976730 is a latex-based outdoor paint that is super versatile - you can easily refresh your outdoor furniture in any minor and massive renovation. It is suitable for use on canvas, plaster, ceramic, metal, and glass - to give that lovely glossy finish.
 
 The paint won't chip and tear or wear due to its double cover technology - the clean and fresh worn-out wooden surfaces. You can use water plus soap to clean the surfaces - but use some 180 to 200 grit sandpaper - the safe and low-odor product.
 
@@ -169,8 +169,8 @@ For old outdoor furniture that has mildew and stains, you may use some premium c
 Further, ensure that you rinse the surfaces of the outdoor furniture - but during cold weather, make sure to move the wooden pieces to the
 indoor spaces for drying - place them on shelter, carpet, and garage.
 ### Step #2: Sanding & Prime or Not
-Next, you'll require sanding of the surfaces of your outdoor furniture that requires stained. However, for old finishes, you'll need to roughen these surfaces.�Begin using coarse-type sandpaper on the bare wood to remove any old finished.
+Next, you'll require sanding of the surfaces of your outdoor furniture that requires stained. However, for old finishes, you'll need to roughen these surfaces.Begin using coarse-type sandpaper on the bare wood to remove any old finished.
 
-Next, is to determine if priming will be required - for stained and painted surfaces, you only require the stain coat - allowing it to become the�primer. Avoid using a primer, if you're staining some opacity - they may show through transparent and translucent stains.
+Next, is to determine if priming will be required - for stained and painted surfaces, you only require the stain coat - allowing it to become theprimer. Avoid using a primer, if you're staining some opacity - they may show through transparent and translucent stains.
 ## Conclusion
 The quality and features of Rust-Oleum 253536 reduce clean-up time and the mess - you'll thus require just water and water to clean the surfaces. But the paint could have had better consistency - despite that it's usable on both exterior and interior areas.

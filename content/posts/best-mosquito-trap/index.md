@@ -72,7 +72,7 @@ This model operates quietly, utilizing a fan to trap mosquitoes without the nois
 - **Bulky:**Takes up significant space in your yard.
 - **Higher Price Point:**More expensive than smaller models.
 ### [3.**Katchy Indoor Insect Trap**](https://www.amazon.com/dp/B07B6RZP4H/?tag=p-policy-20)
-The Katchy Indoor Insect Trap uses a triple attraction method, combining UV light, a fan, and sticky glue boards to capture mosquitoes and other flying insects. Its compact and stylish design allows it to blend seamlessly into any room's d�cor.
+The Katchy Indoor Insect Trap uses a triple attraction method, combining UV light, a fan, and sticky glue boards to capture mosquitoes and other flying insects. Its compact and stylish design allows it to blend seamlessly into any room's dcor.
 
 Additionally, this trap is incredibly easy to use with a straightforward plug-and-play setup, requiring minimal maintenance to keep it running effectively.
 **Cons:**
@@ -96,6 +96,6 @@ Additionally, it is designed for ease of maintenance, with a removable tray that
 - **Bright Light:**The light may be too bright for some indoor spaces.
 - **Limited to Mosquitoes and Small Insects:**Not effective for larger pests.
 ## **Conclusion**
-Choosing the best mosquito trap involves considering factors like effectiveness, coverage area, ease of use, safety, and cost efficiency.�The products listed above offer a range of features to suit different needs and environments.
+Choosing the best mosquito trap involves considering factors like effectiveness, coverage area, ease of use, safety, and cost efficiency.The products listed above offer a range of features to suit different needs and environments.
 
 Whether you're looking for something simple for indoor use or a heavy-duty trap for a large outdoor area, these top recommendations provide reliable options to help keep your space mosquito-free.

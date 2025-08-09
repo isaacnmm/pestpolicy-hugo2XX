@@ -15,13 +15,13 @@ tags:
 - eat
 layout: post
 ---
-Below I've tackled this questions - "do cockroaches eat bed bugs?"�Most people dread from the disgusting sight of domestic cockroaches.
+Below I've tackled this questions - "do cockroaches eat bed bugs?"Most people dread from the disgusting sight of domestic cockroaches.
 
 Natural/biological pest control remedies like
 [Bed Bug Predators](https://pestpolicy.com/what-eats-[bed-bugs](https://pestpolicy.com/do-spiders-eat-bed-bugs/)/)
 have now become popular. So, do roaches [eat](https://pestpolicy.com/what-animals-eat-bed-bugs/) bed bugs?
 **Simple answer, YES  Cockroaches are known predators of bed bugs, which wreak havoc in millions of homes. However, only some species of cockroaches eat bed bugs. **
-**Particularly the American and the German cockroaches are very fond of feasting on bed bugs. Others cockroaches that eat bed bugs include the oriental and the brown-banded cockroaches.�**
+**Particularly the American and the German cockroaches are very fond of feasting on bed bugs. Others cockroaches that eat bed bugs include the oriental and the brown-banded cockroaches.**
 ## **Details: Do Cockroaches Eat Bed Bugs?**
 It is very uncomfortable to have bed bugs inhabit your home. They hide in furniture, pillows, clothing and luggage near their human host. Bed bug bites cause unbearable irritations and allergic reactions to human bodies.
 
@@ -31,7 +31,7 @@ To roaches, bed bugs seem like a nice snack. You might wonder how roaches are ab
 
 Related:
 [Get Rid of Bed Bug Bite Scars](https://pestpolicy.com/how-to-get-rid-of-bed-bug-bite-scars/)
-## **Which Cockroach Species Eat Bed Bugs?�**
+## **Which Cockroach Species Eat Bed Bugs?**
 Several species of cockroaches are very fond of eating bed bugs. The most common bed bug-eating cockroaches include the German and the American cockroaches. Others in the list are the oriental and the brown-banded cockroach.
 ### **1. American cockroach (waterbug)**
 Its the largest household roach in America. They are fond of fermenting material, but will feed on almost any kind food. When indoors, they feed on crumbs that scatter on the floor, under appliances, behind kitchen cabinets and insects such as bed bugs.
@@ -77,7 +77,7 @@ Cockroaches also cause asthmatic reactions among children and the elderly during
 ## Conclusion
 Do cockroaches eat bed bugs? NO. The fact that cockroaches eat bed bugs does not make them a reliable pest control method. You have noticed that bed bugs dont constitute the main diet for cockroaches.
 
-Cockroaches feed on almost anything they come across. That means, they dont go hunting for bed bugs wherever they are.�Obviously, you cant resolve to have enough cockroaches to feed on the bed bugs in your house.
+Cockroaches feed on almost anything they come across. That means, they dont go hunting for bed bugs wherever they are.Obviously, you cant resolve to have enough cockroaches to feed on the bed bugs in your house.
 
 You would end up with a hoard of roaches, hence creating another problem. Furthermore, bed bugs reproduce very rapidly and will replenish their population in a matter of time.
 

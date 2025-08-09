@@ -41,11 +41,11 @@ Two different methods can be used to anchor a trampoline: Use of wind stake and 
 ### Method 1: Use Of Stake To Anchor A Trampoline
 You Will Need - Concrete, Shovel, Hammer, and Tape measure.
 Step 1 - Identify where youll want your trampoline located. Place the trampoline in that location so you can mark the positions of the legs.
-Step 2-�After correctly marking the leg positions, move your trampoline so you can get working space.
-Step 3 -�Using the shovel, dig holes in the locations you had marked; ensure that the holes are narrow and broad enough.
-Step 4 -�Put your wind stakes on the holes, attach the legs of the trampoline, and then pour the concrete. Smooth the concrete appropriately.
+Step 2-After correctly marking the leg positions, move your trampoline so you can get working space.
+Step 3 -Using the shovel, dig holes in the locations you had marked; ensure that the holes are narrow and broad enough.
+Step 4 -Put your wind stakes on the holes, attach the legs of the trampoline, and then pour the concrete. Smooth the concrete appropriately.
 Cover with gravel or wood chips and allow it to dry for at least 24 hours before allowing kids to play on it.
-Note:�This method is considered a permanent one, so if you intend to move houses in the future, it is not the ideal method for you.
+Note:This method is considered a permanent one, so if you intend to move houses in the future, it is not the ideal method for you.
 Also, this technique is not highly recommendable by experts because when strong winds or storm strikes its likely that the legs of the trampoline will pull away from the cement and still cause damage.
 It is advisable to use anchoring kits that are made to hold the trampoline down. These wind anchoring kits if well installed have low cases of pulling away or letting the trampoline pull off.
 ### Method 2: Use Of Purchased Trampoline Wind Anchors
@@ -59,20 +59,20 @@ Swing Set Under 200
 .
 First, well discuss the steps you need to follow when anchoring your trampoline, and then well recommend some of the best trampoline anchor kits available on amazon.com.
 ## Steps To Follow When Anchoring Trampoline Wind Anchors
-Step 1 -�Go through this
+Step 1 -Go through this
 [guide](https://pestpolicy.com/best-trampoline-anchors/)
 , click, and order an anchoring kit that you feel is ideal for you.
 The decision you make should be dependent on the type of soil in your compound, the size of your trampoline, and the level of wind or storm in your area.
-Step 2 -�Select an appropriate location where the trampoline will be set up. Mark the position of each leg, dig deep holes, and Twist the anchors for several inches into the ground.
+Step 2 -Select an appropriate location where the trampoline will be set up. Mark the position of each leg, dig deep holes, and Twist the anchors for several inches into the ground.
 Or you can place the anchors on the legs of the trampoline. The installation route you take will depend on the manufacturers instructions.
 If the kit didnt come with instructions, get a strap that will help connect the anchor to the trampoline frame. For good results, Ensure that you Strap each leg to its corresponding anchor.
-Step 3 -�Place the anchor on the holes you had dug and twist them several inches into the ground. Wrap each trampoline leg with a strap, before attaching it to the anchor.
+Step 3 -Place the anchor on the holes you had dug and twist them several inches into the ground. Wrap each trampoline leg with a strap, before attaching it to the anchor.
 You can also secure all the straps using the hooks attached to the trampoline frame as well as one of the screw holes of the ground anchor.
-Step 4 -�Bolt or screw all the anchors into the ground, then, carefully adjust all the straps to attain the same tension.
+Step 4 -Bolt or screw all the anchors into the ground, then, carefully adjust all the straps to attain the same tension.
 Step 5 - After youve secured the trampoline legs to the ground, you should also protect your trampolines disk. Read Also:
 Swing Sets for Small Yards
 .
 It is common to see the disk or upper part of the trampoline detach from the legs, notably if the set-up was permanent.
-Step 6 -�Youll need to secure the frame of the trampoline using ratchet straps; these straps will help to safeguard the upper part of the trampoline from detaching itself.
+Step 6 -Youll need to secure the frame of the trampoline using ratchet straps; these straps will help to safeguard the upper part of the trampoline from detaching itself.
 First, get pointed stakes (pickets) and insert them into the ground near the perimeter of the bouncing surface.
 Now, wrap those ratchet straps via the frame of the trampoline and the pickets, this way youll make a better and stable anchor that will protect your trampoline.

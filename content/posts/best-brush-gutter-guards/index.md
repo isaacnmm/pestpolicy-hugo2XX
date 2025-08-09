@@ -85,7 +85,7 @@ While brush gutter guards are simple, a few considerations will help you choose 
 
 6.  **Maintenance Expectations:**
     * While brush guards prevent *clogs* in the traditional sense, they are not maintenance-free. Leaves and debris will sit on top of the bristles and may need to be brushed or blown off periodically, especially after heavy fall leaf drops.
-    * Over time, fine grit and sludge can accumulate deep within the bristles, requiring you to pull out the brushes and manually clean them � a messy job. Expect to do this every 1-3 years depending on your debris load.
+    * Over time, fine grit and sludge can accumulate deep within the bristles, requiring you to pull out the brushes and manually clean them  a messy job. Expect to do this every 1-3 years depending on your debris load.
 
 7.  **Cost and Lifespan:**
     * **Affordable:** Brush guards are one of the most budget-friendly gutter guard options, typically costing **$3 - $7 per linear foot** for materials.

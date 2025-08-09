@@ -35,7 +35,7 @@ Humans spend a lot of time within the home; it makes sense for the bed bugs to d
 Bed bugs prefer to live in a warmer environment, and this is, of course, more simple when indoors. Being outside would not harm them, but they are not as keen on the outdoors' cooler temperatures.
 - Some factors determine how long bed bugs can survive outside, and some of these are as follows.
 - Temperature extremes will have some effect on bed bugs, but they really do have to be extreme. These are pretty resilient little animals and are likely to survive hot and cold temperatures but will likely die off if the temperature drops well below freezing.
-- Of course, as with any insect, the bed bug has predators, and depending on the prevalence of these in your garden will depend on how long the bed bugs can last. Some of the most typical�bed bug predators include lizards, spiders, and ants.
+- Of course, as with any insect, the bed bug has predators, and depending on the prevalence of these in your garden will depend on how long the bed bugs can last. Some of the most typicalbed bug predators include lizards, spiders, and ants.
 - If the bed bugs do not have access to food, they will eventually die out. That being said, these tough little pests can survive for months without food, but the females will be unable to produce[eggs](https://pestpolicy.com/bed-bug-eggs/)if they are not fed.
 ## Can Bed Bugs Get Back Inside once Removed from the House?
 Now that we have established that bed bugs can indeed live in an outdoor environment, we need to determine whether they can return after you have kicked them out of the home.

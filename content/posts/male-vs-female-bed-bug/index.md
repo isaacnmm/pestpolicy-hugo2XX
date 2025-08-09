@@ -27,7 +27,7 @@ Bedbugs (both male and female) are characterized by three body parts (head, thor
 - Though both genders have wings, they can't help when it comes to flying - the wings are vestigial.
 The body structure of male and female bedbugs is covered with an exoskeleton composed of soft body tissues.
 - *Bedbugs (male & female) have stripe mark patterns on their abdomen and have equal body size. *
-*Their body layout is made up of the head, thorax, and abdomen. The movement is made possible with the help of 3 pairs of legs that are strategically fixed.�*
+*Their body layout is made up of the head, thorax, and abdomen. The movement is made possible with the help of 3 pairs of legs that are strategically fixed.*
 Related:
 Will Rubbing Alcohol Kill Bed Bugs?
 ### b. Color

@@ -48,7 +48,7 @@ Stink bugs have well-designed wings that
 bed bugs, you will find no wings
 in their makeup.
 Bed bugs do not fly
-because they have�dysfunctional wing pads - and not wings great for flying.
+because they havedysfunctional wing pads - and not wings great for flying.
 ### 4. Color
 Without any scintilla of doubt, stink bugs come in a gamut of colors. These bugs can either be green, red, purple, brown, and black. However, the easiest way to
 notice a bed bug
@@ -79,7 +79,7 @@ The adult of both bugs maintains around a one-quarter inch long. The babies of a
 When stink
 bugs bite
 , there is every possibility to experience an allergic reaction. Besides, the
-bite from�stink bugs
+bite fromstink bugs
 can be painful at the same time. One fantastic feature of a stink bug is that it appears in a plethora of colors.
 This feature makes it possible for stink bugs to blend and adapt to any environment they find themselves.
 Bed bugs will leave red welts

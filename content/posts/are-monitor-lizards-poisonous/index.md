@@ -16,7 +16,7 @@ layout: post
 ---
 Probably you have come across monitor lizards in your field, yard, compound or zoo and wonder if they could be poisonous. You may even have seen them feed on rats, snakes or rodents. But [are](https://pestpolicy.com/are-blue-tailed-lizards-poisonous/) Monitor Lizards Poisonous?
 **The direct answer is YES. Monitor lizards (such as Komodo Dragon, Asian Water Monitor, and Tree Crocodile Monitor) can bite and cause poisonous infections since they are venomous. **
-**The venom contains crotamine, which prevents blood clotting leading to a drop in blood pressure and cause death at the long run. On the other hand, Monitor Lizards such as Bengal Monitor and Savana Monitor are believed to be harmless and defenseless. However, these species are few.�**
+**The venom contains crotamine, which prevents blood clotting leading to a drop in blood pressure and cause death at the long run. On the other hand, Monitor Lizards such as Bengal Monitor and Savana Monitor are believed to be harmless and defenseless. However, these species are few.**
 
 
 Related:
@@ -52,16 +52,16 @@ Related:
 Do Anole Lizards Bite?
 ### **6. African Savannah Monitor, or White-throated Monitor, Rock Monitor, Savannah Monitor**(**Varanus exanthematicus**)
 This Species of Monitor lizard is found in savannah and arid areas of Eastern and southern Africa. It is carnivore in nature and will kill small animals such as baby tortoise and invertebrates for food.
-Normally, Savannah monitor loves solitary life. It bites when threated and knocks off its assailants using its long tail. There is no report showing death resulting from Savannah Monitor.�This species can be kept as a pet.
+Normally, Savannah monitor loves solitary life. It bites when threated and knocks off its assailants using its long tail. There is no report showing death resulting from Savannah Monitor.This species can be kept as a pet.
 ## Are monitor Lizards Poisonous to Human Beings?
 Monitor lizards such as Komodo Dragon, Asian Water Monitor and Tree Crocodile Monitor are termed as human threat since they contain venom. These reptiles do not hunt human beings, however, when provoked or while stressed, they can bite dangerously.
 The bite from a Monitor lizard causes poisonous infections. The monitor lizards venom contains crotamine, which causes blood not to clot leading to drop in overall blood pressure in victims body  this may lead to death if not attended to immediately.
 The bite from monitor lizard may be as deep as 0.5 to 2 inches and cause large swelling. The blood Oz continuously from the bite without stopping  you must therefore be quick to act on a bite from Monitor Lizards. The bite may take up to a month to fully heal the scar left during the attack.
-In United Kingdom, The Sun Newspaper reported a case of Ronald Huff, 42, who died from venom injected by Monitor Lizard bite in 2002.� In fact, the reptile use to be left to roam in his house freely as a pet. After paralyzing Ronald Huff, the monitor lizard even fed on his hands and stomach organs in this bizarre incidence.
+In United Kingdom, The Sun Newspaper reported a case of Ronald Huff, 42, who died from venom injected by Monitor Lizard bite in 2002. In fact, the reptile use to be left to roam in his house freely as a pet. After paralyzing Ronald Huff, the monitor lizard even fed on his hands and stomach organs in this bizarre incidence.
 **On the contrary**
 , some Monitor Lizards such as Bengal Monitor and Savana Monitor are believed to be harmless and defenseless.
 However, these species are few and their behavior may be caused by large weight or hormonal imbalance. Research is still being carried out to establish what can make them aggressive like other species of monitor lizards.
-The monitor lizards harbor salmonella bacteria that causes infections to both human beings and pet.� The pet Monitor Lizard should be disinfected often (once per month) to prevent them from dropping these bacteria in your compound.
+The monitor lizards harbor salmonella bacteria that causes infections to both human beings and pet. The pet Monitor Lizard should be disinfected often (once per month) to prevent them from dropping these bacteria in your compound.
 ## Are Monitor Lizards Poisonous to your pets (cats & dogs)?
 Monitor lizards are poisonous reptiles that will attach your pets on approach. Komodo Dragon and Tree Crocodile Monitors will bite your dogs or cats using their sharp pointed venomous teeth, paralyzing them to death  the teeth of monitor lizards are strong enough to penetrate the skin of your pets unlike other lizard species.
 The bite from a monitor lizard may take more than a month for your pet to heal on vet treatment. The Monitor Lizards are always threated by the presence of dogs or cats since these pets tend to feed on them. Monitor lizard uses its paws, crawls and tail when attacking its assailants.

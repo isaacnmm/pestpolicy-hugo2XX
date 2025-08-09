@@ -21,7 +21,7 @@ A new paint coat on the aluminium [boat](https://pestpolicy.com/how-to-paint-a-f
 Below I've outlined the detailed steps of painting an aluminium boat to (hopefully) make your boat-painting project much more straightforward. Luckily, with the correct formula, you won't need professional shipwright or
 expert painters
 .
-*To paint your aluminium boat Sand off the boat surface, scrub and pressure-wash the aluminium off contaminants and dust, apply the primer, paint about two paint coats, apply a clear coat once the coats are cured, and finally apply the anti-fouling paint.�*
+*To paint your aluminium boat Sand off the boat surface, scrub and pressure-wash the aluminium off contaminants and dust, apply the primer, paint about two paint coats, apply a clear coat once the coats are cured, and finally apply the anti-fouling paint.*
 ## Details: How to Paint an Aluminum Boat
 The market has a range of painting products, but some aren't quality of they are expensive. I've compiled a list of quality and affordable tools and materials you'll require for the Boat paint Job.
 1. Electric power drill
@@ -111,7 +111,7 @@ Give the primer a few hours to dry before beginning the exterior priming. Repeat
 Leave the primer overnight or up to 12 hours to dry, and this will help
 prevent the rusting of the large metal object
 .
-### Step #3:�Paint the Aluminum Boat
+### Step #3:Paint the Aluminum Boat
 So, this is the final step in the painting process, and thus we must give it total attention. While as it, get yourself a
 [quality water-resistant aluminium boat paint](https://pestpolicy.com/best-paints-for-aluminum-boats/)
 .

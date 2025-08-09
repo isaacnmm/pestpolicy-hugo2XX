@@ -18,7 +18,7 @@ For along time, scientific evidence considered that spiders are dominated by tou
 
 **So, do spiders have ears? Spiders don't have ears or eardrums but jumping spiders can hear **
 **sounds even from 5 meters away. **
-**A recent�study show that spiders�have tiny sensitive hairs to detect sound.�**
+**A recentstudy show that spidershave tiny sensitive hairs to detect sound.**
 ## Details: Do Spiders Have Ears?
 
 According to the

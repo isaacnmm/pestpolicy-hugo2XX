@@ -38,7 +38,7 @@ TruGreen's dominant position in the industry is a result of several key advantag
 * **Unmatched Scale and Availability:** Operating almost nationwide, TruGreen is accessible to a vast majority of homeowners, making it a convenient choice regardless of your location.
 * **Scientific Expertise:** Their programs are developed by a team of turf scientists and agronomists, ensuring treatments are based on the latest research and best practices.
 * **Trained Specialists:** TruGreen invests heavily in training its technicians, equipping them with the knowledge and skills to properly diagnose lawn issues and apply treatments effectively.
-* **Healthy Lawn Guarantee�:** This industry-leading guarantee promises that TruGreen will re-treat your lawn as many times as needed between scheduled visits, at no additional cost, if you're not satisfied with the results. This provides significant peace of mind.
+* **Healthy Lawn Guarantee:** This industry-leading guarantee promises that TruGreen will re-treat your lawn as many times as needed between scheduled visits, at no additional cost, if you're not satisfied with the results. This provides significant peace of mind.
 * **Convenience:** For busy homeowners, TruGreen offers a completely hands-off solution, eliminating the need to research products, purchase equipment, or spend time on DIY applications.
 
 ### Common Considerations and Customer Feedback
@@ -53,6 +53,6 @@ While TruGreen excels in many areas, customer reviews and general experience hig
 
 ### Conclusion
 
-TruGreen stands as a premier choice for professional lawn care, offering a comprehensive, science-backed approach to turf management across nearly all of the United States. Its extensive service offerings, highly trained specialists, and the robust Healthy Lawn Guarantee� make it an attractive option for homeowners seeking convenience, expertise, and reliable results. While the scale of its operations can sometimes lead to minor inconsistencies in localized service, TruGreen�s commitment to scientific principles and customer satisfaction typically ensures that lawns under its care thrive. For those who value a hands-off, expert-driven solution to achieve and maintain a beautiful, healthy lawn, TruGreen remains a top-tier contender in the professional lawn care market.
+TruGreen stands as a premier choice for professional lawn care, offering a comprehensive, science-backed approach to turf management across nearly all of the United States. Its extensive service offerings, highly trained specialists, and the robust Healthy Lawn Guarantee make it an attractive option for homeowners seeking convenience, expertise, and reliable results. While the scale of its operations can sometimes lead to minor inconsistencies in localized service, TruGreens commitment to scientific principles and customer satisfaction typically ensures that lawns under its care thrive. For those who value a hands-off, expert-driven solution to achieve and maintain a beautiful, healthy lawn, TruGreen remains a top-tier contender in the professional lawn care market.
 
 ---

@@ -72,12 +72,12 @@ Though it depends on your roach infestation's severity, 18 baits are more than e
 ### 5. All Baits are Childproof
 If youve got toddlers and young children in the house, you need to think about their safety when setting up the bait stations. With Combat Max, you can rest easy knowing that all 18 bait stations are encased in childproof containers and are therefore safe to use around the house.
 For maximum effectiveness, always ensure that the bait stations are touching the walls and spread out at least 1 foot away from each other. They are especially useful when setting up in corners.
-**Pros�**
+**Pros**
 - Offers excellent coverage with 18 bait stations
 - Utilizes a powerful insecticide that kills in hours and lasts for 12 months
 - Designed to handle German cockroaches
 - Bait stations are easy to set up.
-**Cons�**
+**Cons**
 - While sufficient enough to reduce infestations, Combat Max fails at curbing proliferation permanently.
 ## Conclusion
 Combat Max 12 Month Roach Killer should be enough for most roach infestations. The baits are encased in childproof containers, and thats a massive advantage if you have a family with small children.

@@ -144,7 +144,7 @@ The most effective weed control strategy isn't just about killing existing weeds
 
 4.  **Apply Pre-Emergent Herbicides (Strategically):**
     * This is a critical preventive measure for annual weeds. Apply in early spring for summer annuals (like crabgrass) and in late fall for winter annuals (like annual bluegrass).
-    * Timing is key: apply *before* soil temperatures reach 50-55�F consistently for spring, and before fall weed seeds germinate.
+    * Timing is key: apply *before* soil temperatures reach 50-55F consistently for spring, and before fall weed seeds germinate.
 
 5.  **Fix Bare Spots:**
     * Overseed or reseed any bare or thinning areas promptly. Exposed soil is an open invitation for weeds.

@@ -18,20 +18,20 @@ When it comes to [lawn](https://pestpolicy.com/10-essential-lawn-and-garden-tool
 
 This article delves into Scotts' legacy of innovation, clarifies its past involvement in professional services, highlights its popular DIY product lines, and helps you decide between tackling lawn care yourself or hiring a pro, ultimately offering a recommendation for professional assistance.
 
-## Scotts� History of Innovation
+## Scotts History of Innovation
 
-The Scotts Miracle-Gro Company boasts a rich history spanning over 150 years, founded in 1868 by Orlando McLean Scott in Marysville, Ohio. Initially focusing on selling quality weed-free seed to farmers, Scotts soon recognized the burgeoning consumer market and began selling grass seed to homeowners in the early 1900s � a groundbreaking move at the time.
+The Scotts Miracle-Gro Company boasts a rich history spanning over 150 years, founded in 1868 by Orlando McLean Scott in Marysville, Ohio. Initially focusing on selling quality weed-free seed to farmers, Scotts soon recognized the burgeoning consumer market and began selling grass seed to homeowners in the early 1900s  a groundbreaking move at the time.
 
 Scotts' history is marked by several key innovations that have shaped the lawn care industry:
 
 * **First Retail Grass Seed:** Scotts was the pioneer in making grass seed directly available to consumers through retail outlets, moving beyond mail-order.
-* **Turf Builder� (1928):** This revolutionary product marked Scotts' entry into lawn fertilizer, acknowledging that grass had unique nutritional needs.
+* **Turf Builder (1928):** This revolutionary product marked Scotts' entry into lawn fertilizer, acknowledging that grass had unique nutritional needs.
 * **The Scotts Spreader (1930):** Recognizing the need for even application, Scotts developed its own spreader, essential for consistent lawn care results.
 * **Research Division (1946):** Scotts established the first commercial organization dedicated exclusively to turfgrass research, cementing its commitment to scientific advancement.
 * **Weed & Feed (1947):** A true game-changer, Scotts introduced the first selective weed control and fertilizer combination in a convenient, dry-applied form, simplifying lawn maintenance for homeowners.
 * **Controlled-Release Nitrogen (1956):** Scotts developed a lightweight fertilizer designed specifically for grass, utilizing urea-formaldehyde technology for the first controlled release of nitrogen, minimizing burn risk and providing sustained feeding.
-* **Acquisition of Miracle-Gro� (1995):** This merger brought together two titans of the lawn and garden world, expanding Scotts' influence beyond lawns into gardening.
-* **Roundup� Marketing Rights (1999):** Scotts secured exclusive marketing rights for consumer Roundup herbicide products, further solidifying its presence in the chemical pest control market.
+* **Acquisition of Miracle-Gro (1995):** This merger brought together two titans of the lawn and garden world, expanding Scotts' influence beyond lawns into gardening.
+* **Roundup Marketing Rights (1999):** Scotts secured exclusive marketing rights for consumer Roundup herbicide products, further solidifying its presence in the chemical pest control market.
 
 These innovations highlight Scotts' long-standing commitment to making effective lawn and garden care accessible to the average homeowner.
 
@@ -66,10 +66,10 @@ These products are widely available at major retailers, home improvement stores,
 
 Beyond core lawn care, The Scotts Miracle-Gro Company has diversified its portfolio to include a vast array of gardening and outdoor living products, largely through strategic acquisitions:
 
-* **Miracle-Gro�:** The iconic brand for plant food, potting mixes, and garden soils, known for its instant-feeding solutions for flowers, vegetables, and houseplants.
-* **Ortho�:** A leading brand for pest control solutions around the home and garden, including insecticides, fungicides, and herbicides (e.g., Ortho Home Defense Max, Ortho WeedClear).
-* **Roundup�:** Scotts holds the exclusive marketing rights for consumer Roundup herbicide products in many regions, providing non-selective weed control solutions.
-* **Bonnie Plants� (minority stake):** One of the largest growers of vegetable and herb plants for home gardens.
+* **Miracle-Gro:** The iconic brand for plant food, potting mixes, and garden soils, known for its instant-feeding solutions for flowers, vegetables, and houseplants.
+* **Ortho:** A leading brand for pest control solutions around the home and garden, including insecticides, fungicides, and herbicides (e.g., Ortho Home Defense Max, Ortho WeedClear).
+* **Roundup:** Scotts holds the exclusive marketing rights for consumer Roundup herbicide products in many regions, providing non-selective weed control solutions.
+* **Bonnie Plants (minority stake):** One of the largest growers of vegetable and herb plants for home gardens.
 * **Hydroponics & Indoor Growing:** Scotts has expanded into the rapidly growing hydroponic and indoor gardening market with brands like Hawthorne Gardening Company.
 
 This broader portfolio establishes Scotts Miracle-Gro as a comprehensive leader in consumer lawn and garden solutions.
@@ -102,7 +102,7 @@ While Scotts provides excellent DIY products, for homeowners seeking professiona
 * **Comprehensive Programs:** TruGreen offers multiple tiered plans (e.g., TruHealth, TruComplete, TruSignature) that cover a full spectrum of needs, including fertilization, weed control (pre- and post-emergent), insect control, grub prevention, and aeration/seeding. They also offer a TruNatural plan for those preferring an organic-based approach.
 * **Professional-Grade Products and Equipment:** TruGreen utilizes commercial-grade products and specialized equipment for precise and effective application, which are generally more potent and provide better results than retail products.
 * **Convenience and Time-Saving:** They handle all applications on a scheduled basis, freeing up your time and eliminating the need to store chemicals or equipment.
-* **Healthy Lawn Guarantee�:** TruGreen stands behind its service. If you're not satisfied, they promise to re-treat your lawn as often as needed between scheduled visits, at no additional cost.
+* **Healthy Lawn Guarantee:** TruGreen stands behind its service. If you're not satisfied, they promise to re-treat your lawn as often as needed between scheduled visits, at no additional cost.
 * **Nationwide Availability:** With widespread operations across the U.S., TruGreen is accessible to a vast majority of homeowners.
 
 For those who desire a consistently healthy, vibrant lawn without the time commitment, research, or physical effort of DIY, TruGreen provides a robust, expert-driven solution built on decades of combined experience from both its original operations and the legacy of Scotts LawnService.

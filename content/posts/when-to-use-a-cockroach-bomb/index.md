@@ -17,7 +17,7 @@ layout: post
 Roaches will invade your building or home through various routes and then multiply rapidly. There are many
 methods you can use to control roaches
 - like roach bombs.
-**So, on the question - when to use a cockroach bomb? Use roach bombs when other DIY control methods don't work and when the infestation is massive and has proven stubborn.�**
+**So, on the question - when to use a cockroach bomb? Use roach bombs when other DIY control methods don't work and when the infestation is massive and has proven stubborn.**
 The nocturnal roaches can be noted with the oily (strong-scented) scent, empty egg casings, or droppings.
 Check too:
 [Roach Infestation Signs](https://pestpolicy.com/signs-of-a-cockroach-infestation/)
@@ -60,17 +60,17 @@ you'd better use roach sprays
 .
 - Besides roach foggers or bombs won't treat the roach source - it'll exterminate just some of the roaches in your house.
 - You'll require to adequately treat yourself properly against roaches to prevent or reducing their entry into the house from outside.
-But should you use�store-bought roach bombs? Are they effective? Well, don't pick foggers from your store as they have a bad coat and odor, plus they'll leave a mess.
+But should you usestore-bought roach bombs? Are they effective? Well, don't pick foggers from your store as they have a bad coat and odor, plus they'll leave a mess.
 ## Safety Precautions while using Roch Foggers
 The precautions to consider in using roach bombs especially around kids, plants, and pets include:
 - Note that the chemicals used in those roach foggers may be toxic - thus you'll require to follow the usage directions - so you don't harm the pets and family.
 Further, take care of the food containers and items - ensure they're covered tightly and also store the uncovered food in areas that foggers particles won't settle.
 Note that the fogger particles may penetrate some plastics, fabric, cardboard, and paper - since some of these are porous - do, you'll need to cover food using non-porous materials.
-Besides, you'll require to turn off electronics and ignition sources such as�pilot lights prior to setting off your roach bomb - as a fire may start.
+Besides, you'll require to turn off electronics and ignition sources such aspilot lights prior to setting off your roach bomb - as a fire may start.
 Make sure the house and the premises are adequately ventilated once you've completed roach bombing. Remain (plus the pets) outsides as instructed on label instructions.
 Check label instructions on how to ventilate the house once you get back to the space - such as opening the windows. You may need to consult the landlord before the treatment.
 ## Should I Hire an Exterminator?
-Roches will invade the home or office spaces and notoriously get challenging to control - they'll hide easily and are equally�resilient to pesticides.
+Roches will invade the home or office spaces and notoriously get challenging to control - they'll hide easily and are equallyresilient to pesticides.
 Therefore, first try DIY roach-treatment methods such as sealing wall gaps,
 boric acid
 , and removing water plus food sources - but if this doesn't work, you'll need a roach expert.

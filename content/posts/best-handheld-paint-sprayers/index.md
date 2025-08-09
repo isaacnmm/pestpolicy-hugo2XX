@@ -25,7 +25,7 @@ It would also help if you chose a handheld sprayer with a comfortable handle and
 ### [1. Graco Ultra Max Cordless Airless Handheld Paint Sprayer](https://www.amazon.com/dp/B072C4HZ9B/?tag=p-policy-20)
 Graco Ultra Max is a cordless paint sprayer that features a sturdy outer casing, abrasion-resistant, and long-lasting - it allows
 excellent and professional painting
-.�The sprayer integrates modern airless spray technology that guarantees quality surface finish and minimal drain occurrences when painting.
+.The sprayer integrates modern airless spray technology that guarantees quality surface finish and minimal drain occurrences when painting.
 
 Indeed, a resilient compact lithium battery that is rechargeable and runs for a long time on a single charge powers Graco. The adjustable nozzle is nicely designed to enable multiple spray options and
 [precise point spray applications](https://pestpolicy.com/best-commercial-paint-sprayers/)
@@ -106,7 +106,7 @@ Popoman is a lightweight spray painter that features a classic design, which is 
 The sprayer comes with a high-grade plastic canister that offers extra paint storage (1300ml) when painting without frequent refilling.
 Indeed, Popoman is specially manufactured using rigid outer casing and housing components that resist wear & tear when painting. Moreover, Popoman comes with a clear canister (for paint observation) thats replaceable and well designed to support vertical positioning (stand-alone) when painting.
 Popoman integrates an adjustable volume dial and relatively high flowrate (800ml/min) that renders fine paint droplets without creating drains. You will love the comfortable handle that comes with Popoman as it offers excellent grip support without sliding when painting.
-This sprayer features four classic copper nozzles (replaceable), creating unique paint spray patterns without overspray.� Popoman runs under a powerful motor (500watts) that wont blow out or get fatigued when painting.
+This sprayer features four classic copper nozzles (replaceable), creating unique paint spray patterns without overspray. Popoman runs under a powerful motor (500watts) that wont blow out or get fatigued when painting.
 Importantly, Popoman is simple to set up and more comfortable to clean. The sprayer effectively
 [adds to the interior walls' texture](https://pestpolicy.com/best-airless-paint-sprayer-for-interior-walls/)
 .

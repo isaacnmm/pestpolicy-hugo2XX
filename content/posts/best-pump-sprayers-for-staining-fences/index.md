@@ -24,7 +24,7 @@ You should stain or paint your wood fence (
 On quantity, you'll require one gallon of
 stain for painting
 smaller fences of roughly 175 square feet. But you'll need about 2 to 4 gallons of stain to paint larger fences of a maximum of 700 square feet.
-But should you pressure wash your fence prior to painting?� Well, YES, pressure-wash the fences to remove
+But should you pressure wash your fence prior to painting? Well, YES, pressure-wash the fences to remove
 grime, dust, dirt, and
 old finish(es) as these may ultimately show through the stained surfaces.
 ## 7 Best Pump Sprayers for Staining Fences in 2025
@@ -100,7 +100,7 @@ The sprayer can attain very high pressure compared to other models - and thus it
 Despite being relatively pricey compared to other sprayer models, Chapin-International 1949 will be worth it since it'll give you additional pressure. It's simple to clean and
 fill - due to the wide mouth (4-inch) and Tri-Poxy tank (3. 5-Gallon).
 Chapin-International 1949 is loved by
-homeowners and professionals including for many concrete applications - but ensure to use with the provided instructions. The lock-on feature allows easy shut off in addition to the nozzle, wand,� and brass pump.
+homeowners and professionals including for many concrete applications - but ensure to use with the provided instructions. The lock-on feature allows easy shut off in addition to the nozzle, wand, and brass pump.
 Pros:
 - Very durable fence staining sprayer
 - Comes with theTri-Lock seal allowing tight pump locking

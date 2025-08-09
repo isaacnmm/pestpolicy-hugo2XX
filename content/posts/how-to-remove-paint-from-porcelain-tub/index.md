@@ -46,7 +46,7 @@ NB: You can opt to use cold water on soapy detergent. However, cold water requir
 > See Also:
 > Sprayer for Latex Paint
 https://www.youtube.com/watch?v=NmZgeevrEMI
-### Method 2:�Using turpentine
+### Method 2:Using turpentine
 Turpentine removes both oil-based and water-based paint sufficiently. Upon application, the active agent in turpentine acts instantly upon contact with the paint molecules.
 Whether wet or dried paint, turpentine has similar action effects and wont leave any paint traces on the surface.
 However, turpentine emits fumes that may irritate your nasal cavity if inhale or may cause skin discomfort upon contact. More so, an excess concentration of turpentine may deface porcelain primary material.
@@ -134,12 +134,12 @@ Steps to Follow
 - Soak a piece of cloth in softener solvent and apply over paint stain
 - For dried paint stain, leave the surface to cure for 10 to 15 minutes
 - Using a scrubbing grit material, rub the paint stain gently
-Repeat the steps above until the entire paint is removed.�Clean the paint debris and mop the porcelain tub to dryness
+Repeat the steps above until the entire paint is removed.Clean the paint debris and mop the porcelain tub to dryness
 > See Also:
 > White Paints for Interior Walls
 ### Method 7: Using lubricating Spray and Scraper
 Using a scraper should be the last option when cleaning paint stains from the porcelain surface since the scraper damages or tears the porcelains primary material.
-Therefore, high precautions should be considered during the paint removal process.�The lubricating spray is needed to quench the paint stain for an easier scrapping process.
+Therefore, high precautions should be considered during the paint removal process.The lubricating spray is needed to quench the paint stain for an easier scrapping process.
 Materials and Tools Needed
 - Lubricating spray and Paint scrapper
 - Rag or mop and Water and soap

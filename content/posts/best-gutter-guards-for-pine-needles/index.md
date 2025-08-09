@@ -60,7 +60,7 @@ When it comes to blocking pine needles, **micro-mesh gutter guards** are undenia
 
 | Gutter Guard Brand         | Filter Type                    | Frame Material | Installation Type | Effectiveness against Pine Needles | Warranty                       | Key Benefit for Pine Needles                           |
 | :------------------------- | :----------------------------- | :------------- | :---------------- | :--------------------------------- | :----------------------------- | :----------------------------------------------------- |
-| **LeafFilter** | Ultra-fine SS Micro-Mesh (275�) | uPVC           | Professional      | Excellent                          | Lifetime (Transferable)        | Smallest mesh openings, elevated design for shedding. |
+| **LeafFilter** | Ultra-fine SS Micro-Mesh (275) | uPVC           | Professional      | Excellent                          | Lifetime (Transferable)        | Smallest mesh openings, elevated design for shedding. |
 | **HomeCraft Gutter Protect** | Marine-grade SS Micro-Mesh     | Aluminum       | Professional      | Excellent                          | Lifetime (Transferable)        | Raised diamond mesh promotes self-shedding.           |
 | **All American Gutter Protect** | Fine SS Micro-Mesh             | Aluminum       | Professional      | Excellent                          | Lifetime Performance Guarantee | Robust construction, reliable fine filtration.        |
 | **MasterShield** | Fine SS Micro-Mesh             | Aluminum       | Professional      | Excellent                          | Lifetime (Transferable)        | Roof-pitch installation for enhanced shedding.        |

@@ -103,7 +103,7 @@ Cons:
 - Uneven appearance
 
 ### **5. Woodrich Timber Oil Old Timber Stain (Deep-Penetrating) for Log Cabins**
-Timber Oil Stain is also a deep-penetrating wood stain that's great highlighting for the wood-rich wood. It's suitable for mildew, water, and� UV rays to bring out your wood's natural beauty - including new wooden structures and just timber.
+Timber Oil Stain is also a deep-penetrating wood stain that's great highlighting for the wood-rich wood. It's suitable for mildew, water, and UV rays to bring out your wood's natural beauty - including new wooden structures and just timber.
 
 
 Woodrich Timber Oil Stain is an oil-based weathered-wood stain in 3 classic colors - use a paint sprayer or brush. It'll give an attractive finish for about 750 square feet of wood surface staining. It has timber oil that'll penetrate deep into the weathered wood's texture to give a fresh look and life.

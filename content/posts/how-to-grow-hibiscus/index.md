@@ -66,7 +66,7 @@ Tropical hibiscus are sun-loving beauties perfect for containers or as seasonal 
 These herbaceous giants provide a dramatic late-season display.
 
 * **Sunlight:** Full sun is best for the most abundant blooms. They can tolerate very light shade but flowering will be reduced.
-* **Soil:** Moist, well-draining soil. They tolerate a wide range of soil types, including clay, as long as it's not waterlogged. They are called "swamp mallows" for a reason � they appreciate consistent moisture.
+* **Soil:** Moist, well-draining soil. They tolerate a wide range of soil types, including clay, as long as it's not waterlogged. They are called "swamp mallows" for a reason  they appreciate consistent moisture.
 * **Watering:** Keep the soil consistently moist, especially during hot, dry periods and when plants are establishing.
 * **Fertilizing:** A balanced granular fertilizer in early spring as new growth emerges is usually sufficient. Avoid over-fertilizing, which can lead to leggy growth at the expense of flowers.
 * **Pruning:**

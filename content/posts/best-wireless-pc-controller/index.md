@@ -18,7 +18,7 @@ Is the
 or
 [Xbox 360 Controller](https://www.amazon.com/dp/B004QRKWKQ/?tag=p-policy-20)
 the Best Wireless PC Controller?
-- For some 3rd person, flying, and driving games such as*Elite Dangerous*and*Overwatch*,�the Keyboard-Mouse combo cant beat the convenience and simplicity of the Best Wireless Controller for[PC Gaming](https://en.wikipedia.org/wiki/PC_game).
+- For some 3rd person, flying, and driving games such as*Elite Dangerous*and*Overwatch*,the Keyboard-Mouse combo cant beat the convenience and simplicity of the Best Wireless Controller for[PC Gaming](https://en.wikipedia.org/wiki/PC_game).
 The controllers can play different game categories, including
 [Rocket League](https://pestpolicy.com/[best](https://pestpolicy.com/best-joystick-for-elite-dangerous/)-controller-rocket-league/)
 and
@@ -43,14 +43,14 @@ Pros:
 - Long battery life
 - Easy to set up
 - Ergonomic and comfortable build
-- Highly computable with all games marked*Windows LIVE.�*
+- Highly computable with all games marked*Windows LIVE.*
 Cons:
 - No manual power off allowance
 
 ### [2. Logitech Gamepad F710  Wireless](https://www.amazon.com/dp/B0041RR0TW/?tag=p-policy-20)
 Logitech Gamepad F710  Wireless adopted the layout of the Dual Shock II pad, both width and weight, and controls that are compatible with the Xbox 360.
 Unique Features - Controls are customizable, Vibration feedback through double vibration motors, Fast wireless connectivity - 2.4 GHz.
-Has wide games support and supports complete wireless functionality. It has a small plug and plays receiver.�It has both DirectInput and Xinput support, Dual vibration motors, two analog sticks, and a Dpad. You can use the Profiler software to customize the controls.
+Has wide games support and supports complete wireless functionality. It has a small plug and plays receiver.It has both DirectInput and Xinput support, Dual vibration motors, two analog sticks, and a Dpad. You can use the Profiler software to customize the controls.
 The wireless Logitech Gamepad F710 is a reliable controller that has both the DirectInput and Xinput modes.
 For your Best Wireless Controller for PC Gaming needs, the Logitech Gamepad F710 is favorably compatible with Windows XP up to Windows 8.
 Further, the Controller comes with a long-lasting battery, R and L triggers, R and L buttons, two analog sticks, and a Dpad. It has a 2.4 GHz wireless connection that will allow the device to achieve optimum performance in your gaming.
@@ -78,12 +78,12 @@ It comes with a better Xbox One pad and softer curves that will give you a bette
 The DualShock 4 is the best PC gaming controller as it combines the progressive evolution of nature and the PlayStation controller familiarity.
 **New Sticks and Pad**
 Further, DualShock 4 has a better d-pad compared to those on Microsoft Xbox, and thus works great for street fighter gaming on PC. However, you might need to use the input mapper.
-It has an excellent analog trigger feel, with the bumpers and triggers producing a great tactile feel.�Its sticks are more sensitive, responsive (at the center), and lighter.
-**Concave design�**
+It has an excellent analog trigger feel, with the bumpers and triggers producing a great tactile feel.Its sticks are more sensitive, responsive (at the center), and lighter.
+**Concave design**
 DS4 has an excellent concave design to give you a better grip and gaming feel. Also, it has a raised ring near the edge and is thus easier to grip. I found the DualShock 4 to be more sensitive and smoother.
 The DualShock 4 adds a front-facing touchpad to its original Sony PlayStation design. Also, it has excellent sticks and triggers. Interestingly, the DualShock 4 controller will work excellently with games such as Steam and Shovel Knight.
 With its built-in speaker, light bar, and touchpad, the DS4 Controller will better your gaming experience. Also, if you are a music lover, the Controller has a 3.5mm audio jack just for you.
-**DualShock 4 Wireless Sony Controller Review�**
+**DualShock 4 Wireless Sony Controller Review**
 **Mac or PC connection? **
 For Mac or PC connection, you'll need to use a Sony DS4 USB Wireless adapter. You can fix any DS4 worn-out rubber using the GelTabz PS4 "thumb grips." It is Bluetooth compatible and has a rechargeable battery.
 **Short and fat trigger **
@@ -95,7 +95,7 @@ Standard Triggers, Micro USB Cable, Parallel Thumbnails, Inset directional pad, 
 Note that the Start button is renamed as the Options button. Further, you can press the Share button to save a 15 minutes gameplay before the game ends, which you can share the screenshots and video online.
 Further, you can press the Share button to stream video games from sites such as Twitch. Also, while playing, you can enable to show your comments and those of your viewers.
 The share button in DS4 will allow you to seamlessly share your best moments, live-stream, screenshots, and videos without interrupting the game action.
-**Better grip and ergonomics�**
+**Better grip and ergonomics**
 With its improved design and better grip, youll find the DualShock 4 as an excellent alternative to the Xbox One controller.
 Sony DualShock 4 feels great in the hands due to its excellent ergonomics with the familiar Sony controller design. With its micro USB cable, and on Windows 10, the gamepad will be plug and play.
 You can connect your DS4 to the PC wireless through Bluetooth, with Bluetooth functionality in your PC, or purchase the
@@ -103,14 +103,14 @@ You can connect your DS4 to the PC wireless through Bluetooth, with Bluetooth fu
 , which you'll input into the computer.
 - Since many PC games utilize the ABYX button prompts, you'll need to install the[unofficial DS4Windows](http://ds4windows.com/).
 - Therefore, all the games supporting the use of controllers will work with the DS4 after installing the unofficial drivers.
-DS4 enables extensive LED customization. The�DS4Windows will function effectively and also allow you to use the gamepad's central trackpad like a mouse.
+DS4 enables extensive LED customization. TheDS4Windows will function effectively and also allow you to use the gamepad's central trackpad like a mouse.
 [tabby title="
 *DS4*
 vs DS3"]
 *But, what is right in Dualshock 4 (DS4) compared to Dualshock 3 (DS3)?*
 Dualshock 4 now has a clickable 2-point touchpad. Despite its increased length and breadth, DS4 is more efficient than DS3. There are back LEDs that light in different functions, such as during controller charging.
 Also, DS4 has remodeled R1, R2, and L1, L2 buttons, which are even more spread out, which will give you better feedback and access. DS4 also has a .5mm headphone jack at the front section to enable the addition of earphones.
-At the center of the navigation keys, joysticks, and D-Pad, the DS4 has a touchpad that will enable multi-finger scrolling and enhance the navigation and pinch to zoom functions. Thus, it is possible to swipe commands in games that require such inputs.�Finally, it is now possible to charge the DualShock 4 when the PS4 is powered off.
+At the center of the navigation keys, joysticks, and D-Pad, the DS4 has a touchpad that will enable multi-finger scrolling and enhance the navigation and pinch to zoom functions. Thus, it is possible to swipe commands in games that require such inputs.Finally, it is now possible to charge the DualShock 4 when the PS4 is powered off.
 However, you need an InputMapper program download for the gamepad to work if you have challenges connecting to the PC.
 Read the full DualShock 4 review here
 .
@@ -126,7 +126,7 @@ Cons:
 ### [4. Xbox One Elite Wireless Controller](https://www.amazon.com/dp/B00BGA9X9W/?tag=p-policy-20)
 Xbox One Elite Wireless Controller is yours if you are a regular gamer and require controllers with the high build quality.
 In Xbox One Elite, quality metallic parts replace plastic pads and sticks. The underside is a rubberized surface that allows a better grip. It has curved edges.
-Unique Features -�2 D-Pads and six thumbsticks, paddles, and a wireless controller, Hybrid drive Console - 1TB.
+Unique Features -2 D-Pads and six thumbsticks, paddles, and a wireless controller, Hybrid drive Console - 1TB.
 The Xbox One Elite features among the most versatile and comfortable gamepads available. Notably, Xbox One Elite came as an Xbox One rebrand.
 Also, Xbox 360 controller is universally compatible with any game for PC.
 It has rubber grips and stainless steel parts that you can change to fit your taste.
@@ -152,7 +152,7 @@ Cons:
 ### [5. Steam Controller by Valve - Best Controller for customization](https://www.amazon.com/dp/B016KBVBCS/?tag=p-policy-20)
 Steam Controller by Valve brings many games only historically available on keyboard and mouse to your PC. It also has twin force reactors for real-time haptic feedback.
 Dual-stage triggers have a digital switch and analog pull for better gaming competitiveness.
-Unique Features -�Highly customizable, Touchpad, Grip Triggers.
+Unique Features -Highly customizable, Touchpad, Grip Triggers.
 Compared to the PlayStation and Xbox, Steam Controller by Valve is an innovative device that you can customize to your taste and thus achieve an appealing look.
 - You can type from your couch and surf the web. Further, you can connect multiple steam controllers to have fun as a group.
 - Also, you can use the one-to-one positioning you can virtualize various controls such as a scroll wheel, mouse, or trackball.
@@ -189,10 +189,10 @@ and Windows PC.
 However, Xbox Wireless Controller does not have a touchpad, and the shoulder buttons seem clumsily located.
 However, some gamers will choose the DualShock 4 due to its good analog sticks and favorable triggers.
 It has a rough grip that will allow you to remain on the target. Therefore, it will give you the feeling and comfort that comes with the use of most Xbox-type controllers.
-The Controller has Bluetooth that will go about double the wireless range covered by the Xbox One Controllers.�Read the�Xbox Wireless Controller�full review
+The Controller has Bluetooth that will go about double the wireless range covered by the Xbox One Controllers.Read theXbox Wireless Controllerfull review
 [here](https://www.amazon.com/dp/B01LPZM7VI/?tag=p-policy-20)
 .
-**So, Why did I choose PC gaming Over Console gaming?�**
+**So, Why did I choose PC gaming Over Console gaming?**
 - With classic games, mid-tier developers, and big-budget titles, PC gaming will give you an unmatched game selection.
 - Also, it has extensive "Backwards Compatibility" with games in databases such as[DOSBox](https://www.dosbox.com/)and[Interactive Fiction Database](http://ifdb.tads.org/)coming in handy.
 A Powerful Gaming PC (
@@ -207,7 +207,7 @@ However, which are the "Windows 10 compatible" gaming controllers? Well, many: X
 ### [7. ZD N Full Vibration Wireless Controller](https://www.amazon.com/dp/B01HBKLIJ8/?tag=p-policy-20)
 Wow, I love the ZD N Wireless Controller as one of the Best Wireless Controllers for PC Gaming.
 It loves the button response and the amazing feel. Also, I like it when it is paired with the first generation of PS3.
-***Unique Features -�***
+***Unique Features -***
 DirectInput and X-input modes, JD-SWITCH Function, Plug and play, and Comfortable.
 - The ZD N Wireless Controller works perfectly both with Android and PC gaming.
 - Therefore, with the compatibility with Playstation 3, Xbox 360, Android, and Windows XP up to Win 10.
@@ -230,7 +230,7 @@ Cons:
 ### [8. ZD-V+ USB Wired Gaming Controller - Budget Controller](https://www.amazon.com/dp/B01HBKLIJ8/?tag=p-policy-20)
 ZD-V+ is an innovative controller in the ZD class of controllers, which will serve in your PC, PS3, and Android gaming.
 ZD V+ will give you a classy touch that you can only get with more expensive controllers.
-***Unique Features -�***
+***Unique Features -***
 Supports vibration feedback in the X-input enabled games and Plug and play in PS3, or X-input mode enabled games.
 - Youll find the Controller easy to install and use as it is a plug-and-play device on windows and other software.
 - Further, the buttons are highly responsive and will not stick, which will allow faster reaction time.
@@ -264,7 +264,7 @@ is a device that enables one to wireless stream the Steam content from the Steam
 Your Steam Link will support the below-outlined input devices:
 1. Keyboard and mouse, The Steam Controller, Xbox 360 Wireless Controller, PS3, and PS4 Controllers
 2. Xbox 360 Wired Controller, Xbox One S Controller, Nvidia Shield Controller, Logitech F710 - Wireless, Xbox One Wired Controller
-**Also:�**
+**Also:**
 You can use the
 [VirtualHere](http://store.steampowered.com/app/440520/)
 to enable support for headphones, Bluetooth adapters, microphones, flight sticks, fight sticks, and Racing wheels on the steam link.
@@ -277,7 +277,7 @@ and
 [Xbox 360 Wireless Set Up](https://support.xbox.com/en-US/xbox-on-windows/accessories/xbox-controller-for-windows-setup)
 Controller to demonstrate how to connect the Controller to your PC wirelessly.
 In this connection, you will use a Wireless Adapter Dongle if the Controller does not have a built-in wireless adapter.
-1. Using�USB connections, connect the Wireless Adapter to the PC (if the adapter is not inbuilt)
+1. UsingUSB connections, connect the Wireless Adapter to the PC (if the adapter is not inbuilt)
 2. Go to the PC settings and hit the "ADD Bluetooth and other devices" button.
 3. Select all the options outlined below that button
 4. Select the Xbox Wireless Gamepad.

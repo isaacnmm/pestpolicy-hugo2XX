@@ -104,7 +104,7 @@ The choice depends on your priorities: speed vs. long-term soil health, environm
 
 ## Choosing the Right Fertilizer
 
-Selecting the "right" fertilizer is crucial for success. Here�s how to make an informed choice:
+Selecting the "right" fertilizer is crucial for success. Heres how to make an informed choice:
 
 1.  **Get a Soil Test:** This is the most important step. A professional soil test (available through your local university extension office or private labs) will tell you your soil's pH, nutrient deficiencies (N-P-K), and organic matter content. This prevents over-fertilizing nutrients you already have and ensures you apply what's needed.
 2.  **Know Your Grass Type:**
@@ -148,7 +148,7 @@ Even the best fertilizer won't perform optimally without proper timing and appli
 
 **Next Steps (Post-Application):**
 
-* **Watering:** Immediately after applying granular fertilizer, water your lawn thoroughly to activate the nutrients and wash them down to the soil. For liquid fertilizers, check the label � some require immediate watering, others need time to dry.
+* **Watering:** Immediately after applying granular fertilizer, water your lawn thoroughly to activate the nutrients and wash them down to the soil. For liquid fertilizers, check the label  some require immediate watering, others need time to dry.
 * **Wait to Mow:** Avoid mowing for 24-48 hours after application to allow the fertilizer to settle and absorb.
 * **Monitor:** Observe your lawn over the coming weeks for signs of improvement or any issues.
 

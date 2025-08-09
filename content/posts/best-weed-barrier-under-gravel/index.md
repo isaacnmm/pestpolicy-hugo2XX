@@ -33,7 +33,7 @@ Pros:
 - Puncture and tear resistance  it is thick such that weeds wont puncture through
 - Suitable for under mulch, gravel, and rock - crushed stone.
 - Has in-lines printed on it to enhance garden symmetry
-- Made from environment-friendly�and equally biodegradable plastic
+- Made from environment-friendlyand equally biodegradable plastic
 - The woven fabric design restricts light while allowing water to pass through
 
 Cons:
@@ -107,6 +107,6 @@ Related:
 [How to Till a Garden without a Tiller](https://pestpolicy.com/how-to-till-a-garden-without-a-tiller/)
 ## Conclusion
 Weed barriers will prevent weeds from encroaching your plants  particularly under gravel, allowing air and moisture.
-They enable the soil to breathe, reduce nutrient leaching, and prevent water evaporation.�Finally, Ive reviewed the top weed Barrier under Gravel.
+They enable the soil to breathe, reduce nutrient leaching, and prevent water evaporation.Finally, Ive reviewed the top weed Barrier under Gravel.
 - The key point to note is that your chosen unit must have a material thats highly permeable to water.
 However, it must not be overly absorbent as this might allow weeds to overgrow.

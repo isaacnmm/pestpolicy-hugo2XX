@@ -89,7 +89,7 @@ or colors with no requirement for priming.
 By selecting INSL-X, you will enjoy extensive area coverage (350 - 450 square feet) and achieve hard coating that resists chipping, peeling, and scuffing on a single application.
 Besides, INSL-X leaves a durable waterproof paint layer that resists dust, grease, and UV rays damage.
 INSL-X integrates super adhesive additives that seal porous points and holes during cabinet paint restoration.
-Unlike most acrylic paints, INSL-X guarantees unparalleled performance when used within a temperature range of� 10 to 32 degrees.
+Unlike most acrylic paints, INSL-X guarantees unparalleled performance when used within a temperature range of 10 to 32 degrees.
 Besides, the solvent is simple to prepare and apply. You wont experience nasal irritation or skin discomfort when you come into contact with INSL-X.
 The white satin compound is packed in a one-gallon container with a classic handle to ease transportation  highly portable.
 With INSL-X, you dont need to prime the surface or sand the cabinet material when painting  the paint can be applied directly. INSL-X painting errors can be cleaned with soap and water when still wet  no thinning required.

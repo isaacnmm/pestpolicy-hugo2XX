@@ -63,7 +63,7 @@ Cons:
 ### [3. Dansko Women's XP Clogs](https://www.amazon.com/dp/B07DX3QQM4/?tag=p-policy-20)
 Danskos clogs are darling to those who spend many hours on their feet. Nurses, teachers, restaurant workers, and many others swear by Danskos all-day comfort.
 
-The Dansko XP 2.0�features an EVA midsole. this material is extremely lightweight, hence, makes this shoe light for additional comfort. this means, even if you spend hours on your feet youll not worry about fatigue or experience any foot discomfort.
+The Dansko XP 2.0features an EVA midsole. this material is extremely lightweight, hence, makes this shoe light for additional comfort. this means, even if you spend hours on your feet youll not worry about fatigue or experience any foot discomfort.
 
 Other than that, youll love the comfort and the cushioning the footbed provides. The footbed features Dansko Natural Arch technology that provides additional support and responsiveness to the shoe.
 
@@ -150,7 +150,7 @@ Cons:
 - A customer complained that it runs a little big
 
 ### [7. Skechers for Work Women's Soft Stride Lace-Up](https://www.amazon.com/dp/B001PYZ82A/?tag=p-policy-20)
-The Skechers Soft Stride sneakers are also the best non-slip shoes for standing all day. �They feature rubber outsoles that have exceptional tread patterns that deliver superior grip on slippery, wet, oily, and hard surfaces.
+The Skechers Soft Stride sneakers are also the best non-slip shoes for standing all day. They feature rubber outsoles that have exceptional tread patterns that deliver superior grip on slippery, wet, oily, and hard surfaces.
 
 The upper of the Soft Stride is all leather while the lace-up design ensures you get a secure fit. You can adjust the lacing system according to your preference.
 

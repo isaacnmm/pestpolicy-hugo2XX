@@ -17,27 +17,27 @@ layout: post
 Witnessing my pets scratching, or even falling ill from flea bites is distressing. So, you're wondering, can Dawn dish soap (the household detergent)
 [really kill [fleas](https://pestpolicy.com/spraying-yard-with-dawn-for-fleas/)](https://pestpolicy.com/best-flea-treatment-for-puppies/)
 on your dogs or cats?
-**Certainly! Dawn dish soap can kill fleas on your cats and dogs, but it's a less effective flea control method compared to IGR sprays. Although it can easily remove grease and oil from wild birds, the flea-killing process is different.�**
-- *According to Dr. Andrea Miller, Dawn **dish soap works by degreasing the fleas' protective exoskeleton waxy *through the*surfactant effect**, essentially drowning them. Also, the fleas become susceptible to dehydration, and other environmental stressors.�*
+**Certainly! Dawn dish soap can kill fleas on your cats and dogs, but it's a less effective flea control method compared to IGR sprays. Although it can easily remove grease and oil from wild birds, the flea-killing process is different.**
+- *According to Dr. Andrea Miller, Dawn **dish soap works by degreasing the fleas' protective exoskeleton waxy *through the*surfactant effect**, essentially drowning them. Also, the fleas become susceptible to dehydration, and other environmental stressors.*
 - *Also, Dawn dish soap reduces the surface tension of water, which means that when you use it to bathe your pet, fleas lose their ability to stay afloat on the water's surface. This causes them to sink and drown - drowning agent.*
 Let's get into the details!
-**But first, check these alternative flea shampoos for cats and dogs.��**
+**But first, check these alternative flea shampoos for cats and dogs.**
 
 ## How Will Dawn Dish Soap Kill Fleas?
 Dawn dish soap works to clean oil, grime, and grease on wild birds and pets through a chemical reaction called emulsification.
 
 - Emulsification with Blue Dawn is the result of a chemical reaction between hydrogen peroxide and fatty substances, such as oils from food residue; as explained by a certified veterinarian[Dr. Andrea Miller](https://libertypethospital.com/our-team/).
 **However; **
-The flea-killing process uses a different process than emulsification.�Like all dish detergents, Dawn Dish Soap is a surfactant.
+The flea-killing process uses a different process than emulsification.Like all dish detergents, Dawn Dish Soap is a surfactant.
 - A surfactant will reduce the surface tension of water and other liquids with which it comes into contact.
 **Method 1: Reduces surface tension of water  makes fleas sink and drown.**
-*�*
+**
 Typically flea treatments come in the form of topical pesticide solutions such as sprays or powders that need to be used directly on your pet.
 - Dawn dish soap doesnt kill fleas directly (as pesticides do) - but does so by reducing the surface tension of the water and hence makes the flea sink to its death.
 - The flea's exoskeletons are made of a protective waxy layer that enables the adult fleas to float on water.
 So, dawn (plus other comparable soaps) will reduce surface tension that yields the exoskeleton, and hence the adult fleas will sink and drown.
 Dawn dish soap (compared to dog flea shampoo) destroys fleas' exoskeletons and kills them. B
-*ut first: How Soap Reduces the Surface Tension Of Water.�*
+*ut first: How Soap Reduces the Surface Tension Of Water.*
 https://www.youtube.com/watch?v=hfXZEpw0qrQ
 Notably, ordinarily, fleas have a waxy layer, and their small size prevents them from the break the surface tension of water.
 But with dish soap, the surfactants will make the fleas sink and drown quickly. The dawn soap makes the pet's waxy cuticle absorb water and thus drown.
@@ -81,9 +81,9 @@ puppy flea shampoo
 - Frequent skin irritation, a burning sensation, and hair loss are possible side effects of Dawn dish soap if it comes in contact with your dogs or cats skin.
 If the pet already has irritation from fleas, and you put Dawn on a part of their skin that is already irritated, it will get worse.
 - Dawn Dish Soap can't be used as a shampoo for feline or canine pets and should only be used on dishes.
-- **Veterinarians recommend using these ****dog flea shampoo**** or ****cat shampoo**** for your dog and cat respectively.�**
-When used for routine bathing of your�pets,�dishwashing soaps will�quickly strip your�pet's skin�of the natural oils that help to nourish and protect it.
-This leaves the�skin�less well-hydrated and decreases its ability to keep bacterial, yeast, and allergic irritants at bay.
+- **Veterinarians recommend using these ****dog flea shampoo**** or ****cat shampoo**** for your dog and cat respectively.**
+When used for routine bathing of yourpets,dishwashing soaps willquickly strip yourpet's skinof the natural oils that help to nourish and protect it.
+This leaves theskinless well-hydrated and decreases its ability to keep bacterial, yeast, and allergic irritants at bay.
 If used on the pet's skin for routine bathing, Dawn Dish Soap can strip the natural oils off and decreases the ability to fight allergic irritants, yeast, and bacteria.
 Natural oils work to protect and nourish the skin. Too much Dawn dish soap can cause the skin to become dry and irritated.
 Related:
@@ -99,7 +99,7 @@ Dawn dish soap can kill and exterminate (removes dead skin and
 [flea dirt](https://pestpolicy.com/what-is-flea-dirt/)
 ) at the same time. It's only recommended if the pet is exposed to the bugs from locations such as pet daycare or boarding facilities.
 **Otherwise: **
-**Use year-round (prescription)�topical and oral�flea treatments **
+**Use year-round (prescription)topical and oralflea treatments **
 - Effective year-round flea treatment for adult pets typically involves a topical flea medication applied to the animal's skin.
 In the event that you find fleas on a pet in your own home, it is best to purchase over-the-counter
 [Capstar flea killers](https://pestpolicy.com/best-flea-treatment-for-cats/)

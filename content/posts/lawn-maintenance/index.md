@@ -118,7 +118,7 @@ Having the right tools makes lawn maintenance more efficient and effective. The 
 
 5.  **Watering Equipment:**
     * **Hoses:** Durable, kink-resistant garden hoses.
-    * **Sprinklers:** Oscillating, impulse, rotary, or pop-up systems � chosen based on lawn size and shape.
+    * **Sprinklers:** Oscillating, impulse, rotary, or pop-up systems  chosen based on lawn size and shape.
     * **Rain Gauge/Tuna Cans:** Essential for measuring water output.
     * **Timers:** To automate watering schedules.
 
@@ -138,7 +138,7 @@ Having the right tools makes lawn maintenance more efficient and effective. The 
 
 Investing in quality equipment that suits your lawn's size and your maintenance goals will make the tasks more efficient and enjoyable.
 
-## Making � and Keeping � Your Grass Thick and Healthy
+## Making  and Keeping  Your Grass Thick and Healthy
 
 A thick, dense lawn is your best defense against weeds, pests, and diseases. It creates a beautiful carpet that's resilient and enjoyable.
 

@@ -69,7 +69,7 @@ In order to produce eggs, fleas only need to take a single full-blood drink from
 
 Female fleas can lay as many as 30-50 eggs a day by the time they reach maturity.
 
-Therefore, to control this massive reproduction, you must be vigilant about infestation symptoms.�Below is a video describing what you should look for if you suspect your cat has fleas.
+Therefore, to control this massive reproduction, you must be vigilant about infestation symptoms.Below is a video describing what you should look for if you suspect your cat has fleas.
 
 https://www.youtube.com/watch?v=Qc15EPS6iUk
 ### Sign 1 - Anemia and Itchy Bites

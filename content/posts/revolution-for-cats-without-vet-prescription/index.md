@@ -32,7 +32,7 @@ So, getting the Revolution Plus medication to kill fleas but without prescriptio
 But why is Revolution Plus so good at killing fleas? This is mainly due to the medication's special formulation that protects the cats from fleas for about a month.
 - So, as you are starting the flea control journey, you must seek to know the pests under consideration and how they attack your [cat](https://pestpolicy.com/how-to-tell-if-your-cat-has-fleas/).
 Related:
-Capstar Flea Tablets�for Large Dogs
+Capstar Flea Tabletsfor Large Dogs
 ## Controlling Fleas on Cats Using Frontline Plus Flea Medication
 Frontline Plus is an excellent and effective oral flea treatment that won't require the prescription of a vet.
 - You can purchase Frontline Plus without a prescription to kill pests includingear mites, chewing lice, heartworms, ticks, roundworms, ringworms, flea larvae, flea eggs, and adult fleas.

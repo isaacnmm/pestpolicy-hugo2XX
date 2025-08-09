@@ -97,7 +97,7 @@ These traps are convenient and easy to use because they dont require any baiting
 ### 4. Block the Entry Points
 While you make efforts to get rid of roof rats in the attic, dont forget to block all the entry passages to discourage the roof rats from entering the attic.
 
-This will not only help you catch the ones inside the attic but also prevent other rats from entering. You may block the passages by spraying or keeping repellant agents near the entry points or covering holes with material that cant be chewed such as steel wool.� Some of the more likely entry passages are:
+This will not only help you catch the ones inside the attic but also prevent other rats from entering. You may block the passages by spraying or keeping repellant agents near the entry points or covering holes with material that cant be chewed such as steel wool. Some of the more likely entry passages are:
 - Gaps in shingles
 - Vent covers that are damaged
 - Cracks

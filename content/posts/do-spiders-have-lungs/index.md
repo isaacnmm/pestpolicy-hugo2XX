@@ -26,7 +26,7 @@ have no bones
 , plus have a
 long tubular and masculine heart
 . But, do spiders have lungs?
-**The short answer is, YES, spiders have either 1 or 2 pairs of book lungs. The arachnids breathe through their book lungs or trachea - these are the very narrow tubes laid all through the [spider](https://pestpolicy.com/can-you-drown-a-spider/)'s body.�**
+**The short answer is, YES, spiders have either 1 or 2 pairs of book lungs. The arachnids breathe through their book lungs or trachea - these are the very narrow tubes laid all through the [spider](https://pestpolicy.com/can-you-drown-a-spider/)'s body.**
 ## Details: Do Spiders Have Lungs??
 Spiders have either 1 or 2 "book lungs" pairs for
 [respiration](https://en.wikipedia.org/wiki/Respiration_organ)
@@ -100,9 +100,9 @@ For the
 (in males and females), you'll notice book gills similar to what is in spiders. Researchers opine that book lungs developed from the
 [book gills](https://www.sciencedirect.com/science/article/pii/S1467803915000353)
 - but you'll find these externally.
-The genital operculum is the front flap� but it has no gills. Notably, the flap-like book gills seem to have developmned from legs and they allow respiration when the animal is under water.
+The genital operculum is the front flap but it has no gills. Notably, the flap-like book gills seem to have developmned from legs and they allow respiration when the animal is under water.
 ## How Do Spiders Breathe Underwater?
-Some spiders like Scuba spider use their web like gills to breather when they're under water. Others like the Argyroneta aquatica will breathe via fine�abdomenal hairs to bubbles floating on the water surface.
+Some spiders like Scuba spider use their web like gills to breather when they're under water. Others like the Argyroneta aquatica will breathe via fineabdomenal hairs to bubbles floating on the water surface.
 Some diving-bell spider use their web like a gill for breathing - particularly when they get under water. For example,
 [Stefan Hetz](http://www.activetouch.de/index.php?id=38)
 and
@@ -110,7 +110,7 @@ and
 conducted a study using 12 spiders to note that the spiders used their web like their gill when they're under water.
 The web is silk like and will enable oxygen to move from the environment near the ware and get to the spider while also allowing carbon dioxide to get back to the environment.
 Seymour reported that the diving-bell spiders could survive for over 24 hours under water. Therefore, these arachnids will easily hide from their prey and predators.
-## How Sea Spiders Breathe Without� Gills or�Lungs
+## How Sea Spiders Breathe Without Gills orLungs
 
 Many strange creatures exist in the cold Antarctic depths  particularly under the Antarctic ice. Giant sea spiders are the strangest of them all. Definitely, the Antarctic spider species will grow very big while the normal sea spiders are usually small in size.
 In addition, these Antarctic spiders have even more strange internal organs. For example, youll find a section of their guts and even all their genitals in their legs. Further, they have a very weak
@@ -120,7 +120,7 @@ Therefore, the spiders will only pump the hemolymph via their guts movement as o
 While at it, lobsters, crabs and fish use gills for gaseous exchanges. In this, water will flow over the gills to absorb the available oxygen. However, worms on land or at sea will generally absorb the oxygen via their skin.
 However, for sea spiders  they lack lungs or gills while their skin is just
 [the exoskeleton  but no internal bones](https://pestpolicy.com/do-spiders-have-bones/)
- which is thick to allow oxygen absorption. �However, the sea spiders have many pores what they use for respiration.
+ which is thick to allow oxygen absorption. However, the sea spiders have many pores what they use for respiration.
 ## Sources:
-1. [Respiration in�spiders�(Araneae)](https://link.springer.com/article/10.1007/s00360-016-0962-8)
-2. [Adaptation of the�spiders�to the environment: the case of some Chilean species](https://www.frontiersin.org/articles/10.3389/fphys.2015.00220)
+1. [Respiration inspiders(Araneae)](https://link.springer.com/article/10.1007/s00360-016-0962-8)
+2. [Adaptation of thespidersto the environment: the case of some Chilean species](https://www.frontiersin.org/articles/10.3389/fphys.2015.00220)

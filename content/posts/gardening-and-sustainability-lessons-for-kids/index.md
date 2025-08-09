@@ -32,7 +32,7 @@ Starting a garden doesn't require vast plots of land or expensive equipment. The
 3.  **Involve Them in the Design:** Let your kids help decide the shape of the garden, where different plants will go, and even pick out some fun garden decorations. Giving them ownership from the start boosts their engagement.
 4.  **Prepare the Soil:** This is fundamental for healthy plants.
     * If using a raised bed or pots, fill with a good quality potting mix or a blend of garden soil and compost.
-    * For an in-ground garden, clear weeds, then enrich the soil with plenty of organic matter like compost. Explain why healthy soil is important � it's where the plants get their food!
+    * For an in-ground garden, clear weeds, then enrich the soil with plenty of organic matter like compost. Explain why healthy soil is important  it's where the plants get their food!
 5.  **Gather Kid-Friendly Tools:** Invest in child-sized gloves, trowels, watering cans, and hand rakes. These make the work easier and more enjoyable for little hands.
 
 ---
@@ -113,6 +113,6 @@ Beyond the routine tasks, infuse fun and creativity into the gardening experienc
 
 ## Conclusion
 
-Setting up a home garden with your children is far more than just a hobby; it's an investment in their future. It's a tangible way to teach them patience, responsibility, and the profound satisfaction of working with nature. More importantly, it provides an invaluable platform for understanding the core principles of sustainability � from reducing waste and conserving water to appreciating local food systems and supporting biodiversity.
+Setting up a home garden with your children is far more than just a hobby; it's an investment in their future. It's a tangible way to teach them patience, responsibility, and the profound satisfaction of working with nature. More importantly, it provides an invaluable platform for understanding the core principles of sustainability  from reducing waste and conserving water to appreciating local food systems and supporting biodiversity.
 
 As they witness the miracle of a tiny seed transforming into a nourishing plant, children develop a deep respect for the environment and a clearer understanding of their place within it. These hands-on lessons in the garden foster not just green thumbs, but also eco-conscious minds, empowering the next generation to make sustainable choices and contribute to a healthier planet. So, grab your child-sized trowels, find a sunny spot, and embark on a rewarding journey of growth, learning, and delicious harvests.

@@ -17,7 +17,7 @@ layout: post
 HVLP
 (high volume, low pressure) [spray](https://pestpolicy.com/best-automotive-hvlp-spray-gun-for-the-money/) guns are a popular tool for DIY home renovators and professionals alike. They are efficient and provide a smooth, even finish on surfaces such as walls, furniture, and cabinets.
 
-However, like any tool, [HVLP](https://pestpolicy.com/best-hvlp-spray-gun-for-lacquer/) spray guns require regular cleaning and maintenance to ensure they continue to function properly.�In this article, we will go through the steps of cleaning an
+However, like any tool, [HVLP](https://pestpolicy.com/best-hvlp-spray-gun-for-lacquer/) spray guns require regular cleaning and maintenance to ensure they continue to function properly.In this article, we will go through the steps of cleaning an
 HVLP spray gun
 , so you can keep your tool in top condition.
 ## How To Clean an HVLP Spray Gun
@@ -38,7 +38,7 @@ This will flush out any paint residue that may be inside the gun. It is importan
 ### **Step 4: Disassemble the gun, including the tip, and soak all of the parts in the cleaning solution or water for a few minutes.**
 The next step is to disassemble the gun. This includes removing the tip, as well as any other parts such as the air cap and fluid nozzle. Once the gun is disassembled, soak all of the parts in the cleaning solution or water for a few minutes. This will allow the cleaning solution or water to break down any paint residue that may be on the parts.
 
-Step 5: Use a brush or a toothbrush to scrub any paint residue from the parts.�After the parts have soaked for a few minutes, take a brush or a toothbrush and scrub any paint residue from the parts.
+Step 5: Use a brush or a toothbrush to scrub any paint residue from the parts.After the parts have soaked for a few minutes, take a brush or a toothbrush and scrub any paint residue from the parts.
 
 Make sure to pay attention to the small crevices and grooves, as paint can often get trapped in these areas. Scrubbing the parts will ensure that all the paint is removed, and the gun will be ready for use.
 ### **Step 6: Rinse the parts with water and dry them thoroughly with a clean cloth or air gun.**
@@ -58,7 +58,7 @@ In addition to regular cleaning, it's also important to keep your gun lubricated
 
 Regular cleaning and maintenance of your HVLP spray gun will help prolong its lifespan and ensure that it continues to provide a smooth, even finish on your projects.
 
-By following these simple steps, you can keep your HVLP spray gun in top condition, so you can continue to tackle your DIY home renovation projects with ease.�Additional Considerations while using the HVLP spray gun
+By following these simple steps, you can keep your HVLP spray gun in top condition, so you can continue to tackle your DIY home renovation projects with ease.Additional Considerations while using the HVLP spray gun
 
 There are some additional points that you should consider when cleaning your HVLP spray gun:
 1. Always wear gloves and protective eyewear when cleaning your HVLP spray gun. This will protect your skin and eyes from the chemicals used in cleaning solutions.

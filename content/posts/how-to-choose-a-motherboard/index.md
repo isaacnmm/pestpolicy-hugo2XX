@@ -35,10 +35,10 @@ Most current computers employ the
 You should note that the microATX mobos are fitting with both the ATX case and the microATX case. However, your ATX will only be fitting with the ATX case.
 However, be keen to note the nonstandard features of motherboards that will not fit into any of the other cases.
 https://www.youtube.com/watch?v=lP-pinlU-Ko
-### 2. Processor Socket�type
+### 2. Processor Sockettype
 A Processor socket, in the current mobos, is the part that connects your motherboard and the processor.
 If youve been keen on the CPU interiors, your processor comes with many pins that will fit into the processor socket and the corresponding holes.
-*Notably:�*
+*Notably:*
 Most processor sockets today employ the ZIF lever in safeguarding your processor in its socket.
 So, how do you know your processor socket type? Its easy to see the processor socket by determining the motherboard records and instructions.
 Therefore, view the model number of the motherboard over the internet, on the socket (first eject the processor cooler), or by running the diagnostic utility tools.
@@ -81,4 +81,4 @@ Laptop Tablet Combo Reviewed
 RAID allows the grouping hard drives to increase data access speed and boost fault tolerance.
 Despite that most motherboard will come with RAID Support, you should be keen to ensure the feature is available on your new motherboard.
 ## Conclusion
-While scouting a great gaming motherboard, consider the above critical and performance.�Also, remember to consider on-board features such as video and audio integration features.
+While scouting a great gaming motherboard, consider the above critical and performance.Also, remember to consider on-board features such as video and audio integration features.

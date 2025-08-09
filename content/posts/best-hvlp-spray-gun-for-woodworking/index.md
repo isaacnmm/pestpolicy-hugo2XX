@@ -15,7 +15,7 @@ layout: post
 ---
 Are you at the crossroads, still unable to choose the Best HVLP Spray Gun for Woodworking for
 many house exteriors
-?� Well, worry less because you are not alone.
+? Well, worry less because you are not alone.
 
 Typically, paint [sprayers](https://pestpolicy.com/best-hvlp-paint-sprayer-for-latex-paint/) pose this challenge because they come in many different models with varying features that can easily confuse a new user. You can pick
 any painting sprayer-automotive-paint-gun-for-beginners/)
@@ -70,7 +70,7 @@ Other specs that add the value of this gun are;
 - A 25 feet hose with an air control valve to regulate overspray and bounce back.
 - An installed 1.3 mm Air cap set
 - Lightweight and portable 400cc Gravity Cup
-- Quick Connect Coupling and� Air Control Valve
+- Quick Connect Coupling and Air Control Valve
 Pros:
 - Creates less overspray compared to the gravity HVLP gun
 - Doesnt need a separate compressor

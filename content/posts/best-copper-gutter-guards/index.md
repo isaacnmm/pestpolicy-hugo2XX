@@ -39,7 +39,7 @@ Here, we'll focus on brands/types known for high-quality copper components or th
     * **Cons:** Very high cost, limited availability to specialized fabricators, quality depends entirely on the craftsman, potential for longer lead times.
 
 3.  **LeafFilter (with "Copper" Color Option - uPVC Frame with Stainless Steel Mesh):**
-    * **Expert Take:** While LeafFilter's primary offering uses a uPVC frame and stainless steel mesh, they often provide a "copper" color option for their frame. This allows for a visual match with copper gutters, offering the brand's proven micro-mesh filtration capabilities. It�s important to note this is an aesthetic match, not actual copper construction for the entire guard.
+    * **Expert Take:** While LeafFilter's primary offering uses a uPVC frame and stainless steel mesh, they often provide a "copper" color option for their frame. This allows for a visual match with copper gutters, offering the brand's proven micro-mesh filtration capabilities. Its important to note this is an aesthetic match, not actual copper construction for the entire guard.
     * **Pros:** Excellent debris filtration, highly reliable performance, professional installation with comprehensive lifetime warranty, provides a visual complement to copper gutters at a potentially lower cost than full copper.
     * **Cons:** Frame is uPVC (not actual copper), which might be a dealbreaker for purists seeking all-copper components.
 
@@ -101,7 +101,7 @@ When investing in copper gutter guards, you're not just buying protection; you'r
 
 Choosing copper gutter guards is a decision that blends aesthetic appreciation with practical protection. These guards are more than just functional components; they are an extension of your home's refined character and a commitment to enduring quality.
 
-**Here�s why investing in great copper gutter guards is a smart choice for your home:**
+**Heres why investing in great copper gutter guards is a smart choice for your home:**
 
 * **Unmatched Durability:** Copper is an incredibly resilient metal, resistant to rust, corrosion, and extreme weather. A high-quality copper gutter guard will last as long as your copper gutters, potentially for a century or more, making it a true generational investment.
 * **Superior Aesthetics:** The natural beauty of copper, with its evolving patina, adds significant curb appeal and a touch of timeless elegance that no other material can replicate. Copper gutter guards maintain this visual continuity.

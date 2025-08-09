@@ -110,10 +110,10 @@ Timing is paramount when applying herbicides for dandelion control, particularly
 * **Second Best Time: Spring (Early to Mid-Spring):** You can also effectively spray dandelions in the spring when they are actively growing and have emerged with their broad leaves.
     * **Before Flowering/Seeding:** Try to spray them before they produce yellow flowers and especially before they turn into white "puffballs" to prevent new seeds from spreading.
     * **Active Growth:** Ensure the dandelions are actively growing (not dormant from cold nights) so they can effectively absorb and translocate the herbicide.
-    * **Temperature Matters:** Check herbicide labels for optimal temperature ranges. Most broadleaf herbicides work best when temperatures are consistently above 50-60�F (10-15�C) but below 85�F (29�C). High temperatures can cause the herbicide to volatilize or damage the lawn.
+    * **Temperature Matters:** Check herbicide labels for optimal temperature ranges. Most broadleaf herbicides work best when temperatures are consistently above 50-60F (10-15C) but below 85F (29C). High temperatures can cause the herbicide to volatilize or damage the lawn.
 
 * **Times to Avoid:**
-    * **Hot Summer Months:** Avoid spraying when temperatures are consistently above 85-90�F (29-32�C). Herbicides can become less effective or cause damage to your lawn turf in extreme heat.
+    * **Hot Summer Months:** Avoid spraying when temperatures are consistently above 85-90F (29-32C). Herbicides can become less effective or cause damage to your lawn turf in extreme heat.
     * **Dry/Dormant Conditions:** Dandelions need to be actively growing to absorb herbicides. Don't spray during drought conditions or when the dandelions are stressed or dormant.
     * **Windy Days:** Never spray on windy days, as herbicide drift can damage desirable plants in your yard or your neighbor's.
     * **Before Rain:** Check the product label for the rain-free period required after application (usually a few hours). Rain too soon after spraying will wash the herbicide off the leaves, rendering it ineffective.
@@ -138,7 +138,7 @@ A thick, healthy lawn is the single best defense against dandelions and other we
 
 Pre-emergent herbicides create a chemical barrier in the soil that prevents weed seeds from germinating. While effective for many annual weeds, their effectiveness against perennial dandelions (which regrow from taproots) is limited once the plant is established. However, they can help prevent new dandelion seeds from sprouting.
 
-* **Timing is Critical:** Apply pre-emergents in early spring before soil temperatures consistently reach 50-55�F (10-13�C) and before dandelions germinate.
+* **Timing is Critical:** Apply pre-emergents in early spring before soil temperatures consistently reach 50-55F (10-13C) and before dandelions germinate.
 * **Caution with Seeding:** Do not apply pre-emergent herbicides if you plan to overseed your lawn within the next 8-12 weeks, as they will prevent grass seed germination as well.
 
 ### Post-Emergent Herbicides (More Detail than Spot Spray)

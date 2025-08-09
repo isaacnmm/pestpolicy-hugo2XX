@@ -69,7 +69,7 @@ https://www.youtube.com/watch?v=sH2KblmOlFo
 Related:
 How to Tell If You Have Fleas
 ## Conclusion
-What do flea larvae look like?�Many people tend to look out for adult
+What do flea larvae look like?Many people tend to look out for adult
 fleas or the easily recognizable flea eggs
 when they are concerned that they may have an infestation of these irritating parasites.
 However, one of the most

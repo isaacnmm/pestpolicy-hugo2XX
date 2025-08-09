@@ -58,7 +58,7 @@ The whole body of
 is covered with hairs. It is also critical to note that the female bumblebees' body has yellow hair patches on their upper abdomen. Further, bumblebees socially live in underground nests.
 Female bumblebees cannot sting continuously. Further, they will only attack you or your animal's attack when disturbed. Despite that, the stings can be painful; it is not dangerous unless it is around the neck or head or for people who have an allergic reaction to bee venom.
 The bumblebee is in the genus Bombus. There are more than 250 species and mainly live in higher altitudes. It has a round body covered in a pile
-*�*
+**
 (long branched setae) of soft hair.
 ## Indications
 ### Carpenter Bees
@@ -91,6 +91,6 @@ chemical and non-chemical control methods
 .
 ### Chemical treatment
 Since timing is important for the control of bumblebees, note the bumblebee nest's location when it is still day time. At night or early evening, or early morning before dawn, treat the nest with the appropriate insecticides to maximize effectiveness.
-Treating the nests during day time can reach very few bees as most are active and busy outside the nest. Remember to wear protective clothing such as a bee veil. �You can use D-Force HPX or D-Force HPX to kill the bees. Also, you can apply D Fence Dust around or inside the nest.
+Treating the nests during day time can reach very few bees as most are active and busy outside the nest. Remember to wear protective clothing such as a bee veil. You can use D-Force HPX or D-Force HPX to kill the bees. Also, you can apply D Fence Dust around or inside the nest.
 Use insecticides containing resmethrin or pyrethrins to knock- down the bumblebees. Also, you can use the dust of sprays that contain carbaryl (Sevin). After treatment, close the bumblebee hole with soil.
-**�**
+****

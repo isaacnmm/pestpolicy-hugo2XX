@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 Keeping a tarantula is not for the weak-hearted. Only a professional enthusiast or an award-winning entomologist should have a cobalt blue tarantula in their home. Let's start by talking about [caring](https://pestpolicy.com/selecting-and-caring-for-a-live-christmas-tree/) for your cobalt blue tarantula spider.
-**Overview of Cobalt Blue Tarantula:�**
+**Overview of Cobalt Blue Tarantula:**
 Cobalt blue tarantulas are named after the color of their legs. In comparison, their bodies and carapaces are drab, with a grayish-blue color.
 - However, this blue appears only in high light; otherwise, they appear black or very dark gray.
 They have a glittery metallic look reflected off the hairs when you can see the blue. The color of some hairs can even be white or yellow.
@@ -55,7 +55,7 @@ The best way to keep a Cobalt blue tarantula secure is to learn everything there
 Then, to ensure that the tarantula's surroundings are to its liking, make sure you have a large enough glass tank with a secure top. Other pets, big or tiny, should be kept away from your tarantula.
 ## **Do Humans Face a Threat from the Cobalt Blue Tarantula?**
 Cobalt blues are naturally defensive; therefore if they feel threatened, they will attack.
-- The good news is that no one has died or been seriously injured as a result of a bite from this spider.�When a cobalt blue tarantula stomps the ground and raises its legs, you know it is preparing to attack.
+- The good news is that no one has died or been seriously injured as a result of a bite from this spider.When a cobalt blue tarantula stomps the ground and raises its legs, you know it is preparing to attack.
 This is a signal to take a step back. They will also roll their teeth back or extend them forward to show them.
 ## **To Sum Up**
-This is�the complete guide to caring for a cobalt blue tarantula -�If you want to buy your first tarantula, we encourage you to consider this species after carefully reading the care instructions above. They must eat a specific diet and live in a specific environment to thrive.
+This isthe complete guide to caring for a cobalt blue tarantula -If you want to buy your first tarantula, we encourage you to consider this species after carefully reading the care instructions above. They must eat a specific diet and live in a specific environment to thrive.

@@ -39,7 +39,7 @@ Understanding these characteristics is the first step in making an informed deci
 
 ## Cool-Season Grasses for Sandy Soils
 
-Cool-season grasses thrive in regions with cold winters and hot summers, performing best when air temperatures are between 60�F and 75�F (15�C - 24�C). While sandy soils generally favor warm-season grasses due to their drought resilience, some cool-season varieties have developed adaptations that make them more suitable for these challenging conditions.
+Cool-season grasses thrive in regions with cold winters and hot summers, performing best when air temperatures are between 60F and 75F (15C - 24C). While sandy soils generally favor warm-season grasses due to their drought resilience, some cool-season varieties have developed adaptations that make them more suitable for these challenging conditions.
 
 1.  **Tall Fescue (*Festuca arundinacea*):**
     * **Why it's suitable:** Tall Fescue is renowned for its deep root system, which can extend several feet into the soil, allowing it to tap into deeper moisture reserves. This makes it one of the most drought-tolerant cool-season grasses. It also tolerates a wider range of soil conditions than other fescues, including less-than-ideal nutrient levels. Its coarse texture helps it withstand some foot traffic.
@@ -55,7 +55,7 @@ Cool-season grasses thrive in regions with cold winters and hot summers, perform
 
 ## Warm-Season Grasses for Sandy Soils
 
-Warm-season grasses are generally better suited for sandy soils than cool-season varieties due to their natural adaptations to heat and drought, which often go hand-in-hand with conditions in sandy environments. They thrive when air temperatures are between 80�F and 95�F (27�C - 35�C).
+Warm-season grasses are generally better suited for sandy soils than cool-season varieties due to their natural adaptations to heat and drought, which often go hand-in-hand with conditions in sandy environments. They thrive when air temperatures are between 80F and 95F (27C - 35C).
 
 1.  **Bermudagrass (*Cynodon dactylon*):**
     * **Why it's suitable:** Bermudagrass is a champion of drought tolerance and heat resistance. It develops an incredibly deep and extensive root system (up to 6 feet in some cases) and spreads aggressively via both stolons (above-ground) and rhizomes (underground), allowing it to quickly recover from stress and fill in bare spots. It thrives in full sun and handles foot traffic exceptionally well.
@@ -143,7 +143,7 @@ The best alternative depends on your aesthetic preferences, budget, and the spec
 
 ## Final Thoughts on the Drought-Tolerant Lawn Grass for Sandy Soil
 
-Cultivating a vibrant, healthy lawn in sandy soil, especially one that can withstand drought conditions, is entirely achievable with the right strategy. It begins with selecting grass varieties specifically adapted to these challenging environments�those with deep root systems and efficient water use, like Tall Fescue among cool-season grasses, and Bermudagrass, Zoysiagrass, Bahiagrass, or Centipedegrass among warm-season options.
+Cultivating a vibrant, healthy lawn in sandy soil, especially one that can withstand drought conditions, is entirely achievable with the right strategy. It begins with selecting grass varieties specifically adapted to these challenging environmentsthose with deep root systems and efficient water use, like Tall Fescue among cool-season grasses, and Bermudagrass, Zoysiagrass, Bahiagrass, or Centipedegrass among warm-season options.
 
 Beyond choosing the right grass, amending your sandy soil with generous amounts of organic matter is perhaps the most critical long-term investment. This simple step dramatically improves its capacity to retain the precious water and nutrients that otherwise quickly leach away. Coupled with smart watering practices (deep and infrequent), lighter but more frequent fertilization, and proper mowing heights, you can create a resilient turf that not only survives but thrives.
 

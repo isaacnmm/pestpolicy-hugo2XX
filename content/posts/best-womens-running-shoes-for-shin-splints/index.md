@@ -13,7 +13,7 @@ tags:
 - running
 layout: post
 ---
-One way women can use to prevent�shin splints�is to invest in the Best Womens Running Shoes for Shin Splints.
+One way women can use to preventshin splintsis to invest in the Best Womens Running Shoes for Shin Splints.
 
 Shin Splints (medial tibial stress syndrome) is a common condition that affects most runners because of the repetitive stress experienced on the shin. This may cause pain, inflammation, or even swelling along the shin.
 
@@ -30,7 +30,7 @@ The Impact Guidance System promotes the natural movement of the foot throughout 
 
 The shoe also features FlyteFoam Lyte Technology on its midsole. The technology provides a lightweight formulation and together with the organic nanofibers, it provides superior cushioning throughout the running session. On the other hand, FlyteFoam Propel Technology incorporates an elastomer compound to provide reliable bounce back and high responsiveness.
 
-The generous padding on the heel section prevents foot irritation at the back while discouraging unintended shoe removal.� The high-abrasion rubber outsole provides reliable traction on roads,
+The generous padding on the heel section prevents foot irritation at the back while discouraging unintended shoe removal. The high-abrasion rubber outsole provides reliable traction on roads,
 [pavements](https://pestpolicy.com/best-shoes-for-running-on-pavement/)
 , and many other challenging surfaces.
 Pros:
@@ -193,7 +193,7 @@ Cons:
 
 ## What to look for in Best womens Running Shoes for Shin Splints
 ### Cushioning
-When looking for the Best womens Running Shoes for Shin Splints ensure you pick the ones that are properly cushioned to provide maximum comfort. �Good cushioning will greatly help in shock absorption. Therefore, you wouldnt have to worry about the hard ground impact that causes pain on the shin and the foot. Just choose shoes with excellent cushioning.
+When looking for the Best womens Running Shoes for Shin Splints ensure you pick the ones that are properly cushioned to provide maximum comfort. Good cushioning will greatly help in shock absorption. Therefore, you wouldnt have to worry about the hard ground impact that causes pain on the shin and the foot. Just choose shoes with excellent cushioning.
 ### Durability
 When buying any type of footwear, its crucial that you pick ones with longer wear period to save you the energy of having to go shopping all the time.
 

@@ -19,7 +19,7 @@ You may have read many
 [cat flea treatment](https://pestpolicy.com/best-flea-treatment-for-cats/)
 reviews, which have been confusing for a person who's not a professional exterminator.
 We want to simplify the process for you by sharing with you five of the best flea drops for cats based on our research and experience.
-**Check the top flea drops.��**
+**Check the top flea drops.**
 
 ## [1. Our #1 Top Pick: Hartz-UltraGuard Topical Flea Prevention](https://www.amazon.com/dp/B07D3DTSDT/?tag=p-policy-20)
 

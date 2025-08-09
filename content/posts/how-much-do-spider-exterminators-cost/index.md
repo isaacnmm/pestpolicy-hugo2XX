@@ -18,7 +18,7 @@ Despite that spiders contribute highly to the ecosystem by eating harmful bugs l
 
 In this blog post, we will answer one of the most common questions asked by people: How much do [spider](https://pestpolicy.com/can-you-drown-a-spider/) exterminators cost?
 **In brief; **
-- **The cost of a spider [exterminator](https://pestpolicy.com/how-much-is-an-exterminator-for-mice/) varies depending on the size and type of pest control company. If you have an infestation, your best bet is to call several companies and get quotes before making a decision.�**
+- **The cost of a spider [exterminator](https://pestpolicy.com/how-much-is-an-exterminator-for-mice/) varies depending on the size and type of pest control company. If you have an infestation, your best bet is to call several companies and get quotes before making a decision.**
 - **The average cost for most types of spider extermination services in the United States is $200 - $300 per visit.**
 Spiders reproduce quickly - so find a spider exterminator for your house.
 
@@ -75,7 +75,7 @@ Reactive treatment to control spiders inside your home can cost anywhere from $1
 - In reactive treatment, exterminators will spray pesticide in areas such as inside baseboards, ceilings, and the crawl spaces around your house.
 It's not likely to offer any long-term protection from future infestations because it doesn't get rid of anything outside (in the yard or on neighboring properties) and it won't protect against more spiders coming into your house in the near future.
 ### 2. Preventive Spider Treatment
-Preventive spider treatment�will cost you anywhere from $500 - $1,000, but it can offer a lot more protection.
+Preventive spider treatmentwill cost you anywhere from $500 - $1,000, but it can offer a lot more protection.
 
 In this type of treatment, an exterminator will spray pesticide outside your house and on neighboring properties to deal with any spiders that could come in.
 - They'll also seal up the exterior cracks or gaps around your house so those spiders won't be able to get inside either.
@@ -89,7 +89,7 @@ Before you call an exterminator, make sure to know what kind of information they
 The type of spider in question can affect the extermination measures, so it's important to tell your exterminator the specific spider they will be working with.
 
 You can provide the exterminator with a call describing what types of spiders are present as well as their general physical characteristics.
-- Among the most common arachnids found in homes are funnel web,[**jumping**](https://entomology.ca.uky.edu/spider-chart),[**yellow sac**](http://entomology.wsu.edu/outreach/bug-info/yellow-sac-spider/),[**cellar spider**](https://extension.psu.edu/longbodied-cellar-spider),[**brown recluse**](http://ento.psu.edu/extension/factsheets/brown-recluse-spiders),�and[**black widow**](https://texasinsects.tamu.edu/southern-black-widow-spider/).
+- Among the most common arachnids found in homes are funnel web,[**jumping**](https://entomology.ca.uky.edu/spider-chart),[**yellow sac**](http://entomology.wsu.edu/outreach/bug-info/yellow-sac-spider/),[**cellar spider**](https://extension.psu.edu/longbodied-cellar-spider),[**brown recluse**](http://ento.psu.edu/extension/factsheets/brown-recluse-spiders),and[**black widow**](https://texasinsects.tamu.edu/southern-black-widow-spider/).
 ### 2. Spider Location
 Gathering information about the spiders' location will ensure that your exterminator is better prepared for effective treatment.
 

@@ -19,7 +19,7 @@ use a paint sprayer
 
 *On how to [prevent](https://pestpolicy.com/how-does-oiling-prevent-rusting/) [paint](https://pestpolicy.com/how-many-coats-of-paint-on-a-fiberglass-boat/) overspray when spraying - prepare the spray area, set proper spray pressure, select the right spray tip/nozzle, and choose the right spray equipment.*
 *Undertake appropriate spraying techniques, create a spray booth, maintain the right spraying distance, increase the electrostatic charge rate, use painters tape, and orient the tip at the right angle during paint application. *
-*Remember, safety is paramount when spray painting. Therefore, wear protective gear and adhere to spray instructions highlighted in this article - with your�*
+*Remember, safety is paramount when spray painting. Therefore, wear protective gear and adhere to spray instructions highlighted in this article - with your*
 Airless Paint Sprayer
 ?
 ## How to Prevent Paint Overspray When Spray Painting

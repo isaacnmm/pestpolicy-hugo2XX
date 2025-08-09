@@ -24,7 +24,7 @@ seem like an overkill for small yards - they'll be inconvenient and costly. I re
 ## 7 Best Lawn Mower for Large Yard
 ### [1. Overall Mower for Large Yard - Husqvarna HU800AWDH Mower](https://www.amazon.com/dp/B00S6Z2GWQ/?tag=p-policy-20)
 Husqvarna HU800AWDH Mower is a powerful & fast gas-powered walk-behind mower that will work excellent for your large yard. It comes with the 190 cc engine that'll allow you to mow your yard in record time.
-The lawn mower has an all-wheel drive capability means that you'll require lesser force to moves�the mower across your lawn
+The lawn mower has an all-wheel drive capability means that you'll require lesser force to movesthe mower across your lawn
 or uneven terrain
 . It has wheels with ball bearing - this makes it quite easy to move around the yard.
 
@@ -58,10 +58,10 @@ Pros:
 Cons:
 - Limited positions for the variable handle
 - Would require some bigger battery
-### [3.�Craftsman 37430Gas-Powered 3-in-1 Push Mower](https://www.amazon.com/dp/B00S6Z2GWQ/?tag=p-policy-20)
-For your large yard, the Craftsman 37430 mower allows you to mow easily with no stressing cords. Further, the machine is easy to use because of its power -�Craftsman 37430 has a 5-Torque Engine to provide a torque of 5.0 ft./lb.
+### [3.Craftsman 37430Gas-Powered 3-in-1 Push Mower](https://www.amazon.com/dp/B00S6Z2GWQ/?tag=p-policy-20)
+For your large yard, the Craftsman 37430 mower allows you to mow easily with no stressing cords. Further, the machine is easy to use because of its power -Craftsman 37430 has a 5-Torque Engine to provide a torque of 5.0 ft./lb.
 Craftsman 37430 has a cutting deck that measures 21 inches and hence is excellent in cutting grass. Further, it'll readily reduce the grass - even the tough grass on your large yard.
-Craftsman 37430 is lightweight - it weighs just 65 pounds.�The mower has a 21-inch deck made of steel and comes with 11-inch (back) and 7-inch wheels (front).
+Craftsman 37430 is lightweight - it weighs just 65 pounds.The mower has a 21-inch deck made of steel and comes with 11-inch (back) and 7-inch wheels (front).
 For the discharge of clippings, the Craftsman 37430 mower comes with a side-discharge, bag, and mulch. It has a rear & front height-adjustment levers.
 This family-friendly yard mower performs excellently as it fires greatly on all cylinders. I noted that when I pressed the priming bulb about 3-4 times, the mowers will start easily when you pull the mower's cord.
 You can rear-discharge, mulch, bag, or mulch the grass clippings. In addition, the height adjustments allowance in the dual-point deck makes it easy to cut the grass.
@@ -70,7 +70,7 @@ Pros:
 - The 5-Torque Engine gives the mower great cutting power
 - 3-in-1 design
 - You'll find it smooth to handle plus the rear wheels are large enough to cut through uneven turf
-- Has a cutting width of�21 inches
+- Has a cutting width of21 inches
 Cons:
 - Hidden oil cap
 - Its a gas-powered mower

@@ -19,7 +19,7 @@ persistent noise-outside/)
 
 Crickets, though small, can be incredibly disruptive, especially when they find their way indoors. Fortunately, there are several effective strategies to address this problem and restore peace and quiet to your home.
 ### Understanding Why Crickets Chirp
-Crickets chirp primarily for communication, with males using the sound to attract females or to ward off other males.�The chirping is produced by rubbing their wings together, a process known as stridulation.
+Crickets chirp primarily for communication, with males using the sound to attract females or to ward off other males.The chirping is produced by rubbing their wings together, a process known as stridulation.
 
 The frequency and intensity of chirping can vary depending on temperature, with crickets typically chirping more as the temperature rises. Understanding this can help in managing their behavior effectively.
 

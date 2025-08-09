@@ -33,7 +33,7 @@ However, materials such as rust metal surfaces can be sanded initially by using 
 Concrete Rust Remover
 ) without any challenge.
 Indeed, the rust thickness (if less than 0.5mm) can easily be polished by using coarse grit sandpaper without blocking grit spacing.
-Rapid debris removal can also be attained by using coarse grit sandpaper, while the varnish layer is nicely cleaned by this grit size.�Coarse grit sandpaper size range from 40 to 60.
+Rapid debris removal can also be attained by using coarse grit sandpaper, while the varnish layer is nicely cleaned by this grit size.Coarse grit sandpaper size range from 40 to 60.
 ### 3. Medium
 Medium grit sandpaper is meant for pre-sanded surfaces such as sawed wood, rust-free metal surface, medium roughness composite material, and pre-cleaned hardwood.
 The medium grit sandpaper grips on to small surface protrusion and cuts sharp edges to attain a soft chamfer.

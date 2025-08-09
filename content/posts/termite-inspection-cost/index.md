@@ -20,27 +20,27 @@ You'll undertake a termite inspection during the regular home maintenance or hom
 It's a visual inspection of the home (including crawlspaces & basements) for
 signs of termites
 . But
-*how much does a termite inspection cost?�*
+*how much does a termite inspection cost?*
 Well, the average termite inspection cost is $150, but it can go as low as
 $60 depending on the size and condition of your home. But some
 bug control
 firms will waive this fee if you eventually hire them for termites extermination.
 
-## *Details: Average Termite Inspection Cost?��*
-*Caution: the termite inspector must be experienced, licensed, insured, and bonded.�So, what's the average termite inspection cost?�*
+## *Details: Average Termite Inspection Cost?*
+*Caution: the termite inspector must be experienced, licensed, insured, and bonded.So, what's the average termite inspection cost?*
 As an estate closing cost, the termite inspection costs will be about $60 to $150, plus this will also give you a
 [WDO (Wood-Destroying) Report](https://housemaster.com/article/401-wood-destroying-organism-inspection)
 with two sections.
 - **Section 1**: Includes the critical step the homeowner or the exterminator must take to protect their investment structures from the termites.
 - **Section 2**: Outlines the likely problems or shortcomings during the termite control process using thebest termite killers, a professional exterminator, orhome remedies.
 https://www.youtube.com/watch?v=ntpTtOYP7dQ
-*What's Included in this Cost?�*
+*What's Included in this Cost?*
 - On certifications, termite inspectors are very different from home inspectors. Home inspectors will inspect water, electrical, structural systems, roof, and cooling and heating units.
 - However, it would help if you undertook termite inspections in 2 years.
-*Extra Inspection costs?�*
+*Extra Inspection costs?*
 - 1-year warranty - If the termite inspection report comes as part of the home purchase, you'd need a 1-year connecting warranty costing you between $270 to $360.
 - Discounts - You might get a free termite inspection when your house is not part of the prevailing real estate transaction.
-***Caution:�***
+***Caution:***
 - Ensure the termite inspector gives you a repair guarantee encase anything will be damaged in the but inspection process.
 - Don't hire an inspector who offers exaggerated claims, such as having a "secret formula" for termite inspection and extermination.
 - Is the termite inspector legitimate? Well, contact the local client protection organization to ensure they've not committed offenses in other towns.
@@ -55,7 +55,7 @@ https://www.youtube.com/watch?v=sNqlBZZd75k&feature=youtu.be
 ## How to Hire a Termite Inspector?
 Termites are nasty
 bugs that'll gnaw off your home
-and other structures. But hiring a termite inspector may also eat up a fortune of your finances.�Here's how to hire one effectively.
+and other structures. But hiring a termite inspector may also eat up a fortune of your finances.Here's how to hire one effectively.
 ### 1. Conduct Termite Inspectors Research
 First, check this
 [termite inspector guide by NPMA](https://npmapestworld.org/resourcecenter/hud/)
@@ -103,7 +103,7 @@ The termite extermination cost will vary depending on several factors, including
 3. The number and type of treatments needed - for example, will be a soil treatment fumigation or spot treatment. For example, you may usetermite bait stations.
 4. Soil treatment costs generally range from $800 - $1,500. But fumigation ranges from $1,400 upwards, while the spot treatment will cost you roughly $250 per area of 10-square-foot.
 ## How to Select the Best Termite Control Agency
-**Notably:�**
+**Notably:**
 Give the high cost of repairing caused by termite damage; youll note that it is advisable to conduct a practical termite inspection.
 Once youve decided to pre-treat or go all-out war on termites, searching for the right professional pest control agency would be your next call.
 You would have to hire their services to have them assess the possible damage already in place and the total termite inspection costs and
@@ -120,7 +120,7 @@ Do not just consider the cost of the termite inspection and control agency; comp
 5. You may find their packages a very ideal and worry-free termite treatment deal. Sometimes a pricey package can be worth it in the end.
 6. Dont fret as soon as you find out your home is infested with termites. Take your time to make a sound decision by researching online and reading up on factoids and whatnot before you point that finger on the yellow pages on the fanciest looking pest control advertisement.
 7. And lastly, dont get pressured by sales talk. Many pest control agencies will attempt to lure you into signing a contract with them by making it seem like your house will cave-in in a matter of weeks if you take the time to shop around. This is a very dishonest technique that has worked on a lot of homeowners.
-**Note:�**
+**Note:**
 Be very clear and let them know you are merely window shopping for termite inspection costs for the time being, and let them know you appreciate their time and their effort to help you out but would need more time to make a commitment and a decision.
 ## **Factors to Consider For Termite Fumigation Cost?**
 Despite that you might want the termite problem eliminated immediately, you will need to consider the agencies you hire carefully.

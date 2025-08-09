@@ -45,7 +45,7 @@ Unlike interior paints, exterior paint eliminates molds and mildew when used in 
 Avoid applying exterior paint in the kitchen and fireplace always  the VOC components in this paint are highly flammable and may lead to a fire outbreak in case of contact.
 The living room, bedroom, and baby closets should also not be painted with exterior paint because the paint contains poisonous fumes that affect the respiratory system when inhaled. Further, the VOCs effects are long-lasting (may take over six months to surge after painting) and negatively affect allergic persons.
 Never paint floors with exterior paint  the oil-based compound is slippery and may lead to a fall accident. Furniture used in the living room, kitchen, and bedroom should also not be painted using exterior paint due to similar reasons too.
-The interior paints must be self-priming, stain-resistant, fade-resistant, low odor, water-based,� washable, and scrub-able - and must readily adhere to your interior walls
+The interior paints must be self-priming, stain-resistant, fade-resistant, low odor, water-based, washable, and scrub-able - and must readily adhere to your interior walls
 with no sanding
 .
 ### e. Advantages and disadvantages
@@ -72,7 +72,7 @@ Exterior paint forms a long-lasting coat upon application than interior paint. Y
 Indeed, exterior paint is coupled with numerous properties such s waterproof, UV-rays protected, and fade-resistant, which are not found in most
 interior paints
 .
-You may have to repaint your surface often, within a given period, �if coated with interior paint than when coated with exterior paint.
+You may have to repaint your surface often, within a given period, if coated with interior paint than when coated with exterior paint.
 Further, the exterior paint forms a permanent coat layer that is more cumbersome to remove  the interior paint coat can quickly be scrapped and washed with soap and water.
 Further, different additives may remove
 [mildew spores](https://www.wikihow.com/Reduce-Mold-Spores-in-the-Air)

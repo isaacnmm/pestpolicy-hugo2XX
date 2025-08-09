@@ -29,7 +29,7 @@ The upper of GEL-KAYANO 26 features a synthetic mesh material thats soft. The co
 
 Youll appreciate the natural and comfortable feel the KAYANO 26 provides. This is thanks to the anatomically shaped insole that adapts to your feets natural shape.
 
-The midsection of KAYANO 26 features a great combination of Gel, Flyte Foam Propel, and Flyte Foam�Lyte.
+The midsection of KAYANO 26 features a great combination of Gel, Flyte Foam Propel, and Flyte FoamLyte.
 
 Flytefoam Lyte aids in shock absorption thus allows safe landing of feet while running on pavement. The Gel provides needed cushioning and protects your feet against injuries. The Flyte Foam Propel is located at the heel and toes area and it works to ensure shoe responsiveness during running.
 
@@ -37,7 +37,7 @@ Furthermore, the KAYANO 26 also features a Guidance Trusstic System with the mid
 
 On top of that, the external heel counter keeps the rear foot secured properly. This 26
 th
-version of �Kayano promotes comfort, stability, and protection while running on hard surfaces like pavements or roads.
+version of Kayano promotes comfort, stability, and protection while running on hard surfaces like pavements or roads.
 Pros:
 - Well-cushioned midsole
 - Breathable upper

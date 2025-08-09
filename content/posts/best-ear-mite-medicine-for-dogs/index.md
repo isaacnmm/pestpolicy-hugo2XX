@@ -34,8 +34,8 @@ completely and inhibit any future infections. It is tested and proven against Ca
 You not have to smell after use  this product leaves the dogs ears smelling fresh. This product is readily available with or without hydrocortisone.
 ZYMOX comes in 3 package for various applications: 1.25 oz. bottle, 4 oz. bottle and 8 oz. bottle.
 How to Use ZYMOX:
-- Apply gently on the dogs ear and fill the ear canal and�Massage gently beneath the ear/infected areas to allow it fill the ear canal.
-- Wipe gently excess medicine and�Apply once per day for 7 days (for chronic disease, apply up to 14 days)
+- Apply gently on the dogs ear and fill the ear canal andMassage gently beneath the ear/infected areas to allow it fill the ear canal.
+- Wipe gently excess medicine andApply once per day for 7 days (for chronic disease, apply up to 14 days)
 - Use Zymox Otic (with hydrocortisone) to treat dogs ears having red inflammations.
 - Use Zymox Otic (without hydrocortisone) for prophylactic case on your dog.
 - However, do not clear dogs ears before and during use.
@@ -99,11 +99,11 @@ Multiple applications and use. The product has long history of treating various 
 Perfect combinations. Dog Ear Cleaner has combination of the highest quality ingredients that will aid boost a healthy and vibrant life for your dog.
 Variety. The product comes in various packages and quantities that open a choice for you.
 Pros:
-- Easier to use and�Safe for puppies/kittens.
-- Also suitable for cats and�Quick acting.
-- No irritation and�Veterinary recommended.
+- Easier to use andSafe for puppies/kittens.
+- Also suitable for cats andQuick acting.
+- No irritation andVeterinary recommended.
 - Anti-fungal, anti-bacteria and ant-yeast.
-- Alcohol free and�High penetration.
+- Alcohol free andHigh penetration.
 
 Cons:
 - For dogs, cats and horses only.
@@ -128,7 +128,7 @@ The natural ingredients in The Doggie Dailies are able to inhibit future infecti
 3. Massage beneath the ear to allow for efficient flow.
 4. Repeat the same daily.
 Pros:
-- Easier to use  solution and�Quick acting.
+- Easier to use  solution andQuick acting.
 - Can be used on dogs and cats.
 - Non-irritating  wont sting or burn.
 - Odorless  eliminates bad smell.
@@ -158,10 +158,10 @@ This product guarantees you a 100% healing. It effectively works on contact  it 
 - Massage beneath the ears to allow effective contact action.
 - Repeat this daily.
 Pros:
-- Easier application and�Safe  no chemicals.
-- Non-irritating and�Can treat cats.
-- Plant based  natural and�Top quality.
-- Extra-power and�Affordable
+- Easier application andSafe  no chemicals.
+- Non-irritating andCan treat cats.
+- Plant based  natural andTop quality.
+- Extra-power andAffordable
 
 Cons:
 - Can only be used for dogs and cats treatment.
@@ -198,19 +198,19 @@ EcoEars is a naturally made dogs ear mites medicine that works on contact while 
 
 
 The multi-symptoms product will help you treat some of the following infections on your dog:
-- Itching earlobes and�Clogged ear canal and eardrum.
-- Smelly discharge and odor and�Red swellings and inflammation.
-- Wax, dirt and debris stuck in the ear way and�Eliminates parasites, bacterial, yeasts and fungal related infections.
+- Itching earlobes andClogged ear canal and eardrum.
+- Smelly discharge and odor andRed swellings and inflammation.
+- Wax, dirt and debris stuck in the ear way andEliminates parasites, bacterial, yeasts and fungal related infections.
 EcoEars is a veterinary approved product with a broad spectrum that will aid you in solving most of your dogs ear problems.
 This product is made in USA through a strict adherence to FDA guidelines. EcoEars is highly effectives, gentle and strong enough to complete its treatment functions.
 With EcoEars, you will experience 100% safety during and use for both user and the dog. It doesnt cause any irritation or discomfort on skin when touched.
 This product is free from pharmaceuticals and chemical components. Its ingredients consists of Witch Hazel Extract, Rosemary Extract, Denatured Grain Alcohol, Tea Tree Oil, Organic Mullein Leaf Extract, Boric Acid Ionic Silver Solution, Polysorbate 2 and Vegetable Glycerin.
 EcoEars works on contact. Its Natural healing formula makes it penetrate effectively through the ear canals. This product it suitable for dogs aged 12 weeks and above.
-**�How to use EcoEars.**
-- Lay your dog by sides and�Wipe out any dirt or debris gently on the ear way.
+**How to use EcoEars.**
+- Lay your dog by sides andWipe out any dirt or debris gently on the ear way.
 - Pour the EcoEars into ear canal until its full  do the same for the other ear.
 - Massage the ear severally to allow deep penetration.
-- Allow your dog to shake its head if need be and�Administer the medicine twice per day for 10 to 15 days.
+- Allow your dog to shake its head if need be andAdminister the medicine twice per day for 10 to 15 days.
 **Donts: **
 Never use it on breeding ears or ruptured eardrums and Never administer oral application on this product.
 Pros:
@@ -224,7 +224,7 @@ Cons:
 - For eternal use only.
 - Suitable for dogs only.
 
-## Buyer's Guide:�What are the signs of ear mites?
+## Buyer's Guide:What are the signs of ear mites?
 Your dog/puppy will show some the following signs in case it is suffering from ear mites.
 1. Waxy/dark smelly discharge from the ears.
 2. Frequent shaking of head accompanied by scratching of the interior part of ears.
@@ -247,10 +247,10 @@ Ear mites infected dog is injected with special medicine that initiate faster he
 NB: Dont carry out this option unless ear mites is at its chronic stage (Involve a specialist/veterinary where possible if symptoms persists).
 ### Which are alternative home ways of treating Dogs Ear Mites?
 The following are home alternatives you can use to treat dog against mites.
-1. Mineral oil and�Corn oil.
-2. Olive oil and�Hydrogen peroxide.
+1. Mineral oil andCorn oil.
+2. Olive oil andHydrogen peroxide.
 3. Almond oil with vitamin E additive.
-4. White vinegar and�Yellow dock root extracts.
+4. White vinegar andYellow dock root extracts.
 To achieve treatment using the above products, you will have to try several combinations as you observer the healing response on your dog.
 The oil products will give a soft soothing environment that will ensure other medicine to work well.
 These medicine does not a guarantee you excellent healing  there is no scientific research that has ever proven effective healing of these alternatives.

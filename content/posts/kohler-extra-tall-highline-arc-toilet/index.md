@@ -46,18 +46,18 @@ The Highline Arc series is recognized for its blend of traditional styling with 
 
 ---
 
-## Flushing Power and Water Efficiency: The Class Five� Canister Flush
+## Flushing Power and Water Efficiency: The Class Five Canister Flush
 
 Beneath its tall and elegant exterior, the Kohler Highline Arc Extra Tall toilet houses a powerful and efficient flushing system:
 
-* **Class Five� Flushing Technology:** This is Kohler's proprietary gravity-fed flushing system. It's designed to deliver "virtually plug-free performance" and superior rinsing power for a clean bowl. Key to this system is the large 3-inch canister flush valve, which creates a rapid, strong siphon for waste removal. Unlike traditional flapper systems, the canister valve rotates 360 degrees, allowing water to flow from every direction into the bowl for a powerful, consistent flush.
-* **WaterSense� Certified (1.28 GPF):** Most Highline Arc Extra Tall models are WaterSense� certified by the EPA, meaning they use 1.28 gallons per flush (GPF) or less. This significantly reduces water consumption compared to older, less efficient toilets (which could use 3.5 GPF or more), potentially saving thousands of gallons of water per year and lowering your utility bills. Despite the low GPF, the Class Five� technology ensures that performance is not compromised.
+* **Class Five Flushing Technology:** This is Kohler's proprietary gravity-fed flushing system. It's designed to deliver "virtually plug-free performance" and superior rinsing power for a clean bowl. Key to this system is the large 3-inch canister flush valve, which creates a rapid, strong siphon for waste removal. Unlike traditional flapper systems, the canister valve rotates 360 degrees, allowing water to flow from every direction into the bowl for a powerful, consistent flush.
+* **WaterSense Certified (1.28 GPF):** Most Highline Arc Extra Tall models are WaterSense certified by the EPA, meaning they use 1.28 gallons per flush (GPF) or less. This significantly reduces water consumption compared to older, less efficient toilets (which could use 3.5 GPF or more), potentially saving thousands of gallons of water per year and lowering your utility bills. Despite the low GPF, the Class Five technology ensures that performance is not compromised.
 
 ---
 
 ## Convenience and Installation
 
-Kohler often offers its Highline Arc toilets as part of their "Complete Solution�" package. This means that the toilet comes in a single box with everything needed for installation, including:
+Kohler often offers its Highline Arc toilets as part of their "Complete Solution" package. This means that the toilet comes in a single box with everything needed for installation, including:
 
 * **Bowl and Tank:** The main components.
 * **Slow-Close Toilet Seat:** A popular feature that prevents slamming and reduces wear and tear.
@@ -71,7 +71,7 @@ This "all-in-one" approach simplifies the purchasing process and ensures you hav
 ## Pros of the Kohler Highline Arc Extra Tall Toilet
 
 * **Superior Comfort and Accessibility:** The "Extra Tall" height is a standout feature, making it exceptionally easy for adults, especially taller individuals or those with mobility challenges, to sit down and stand up.
-* **Powerful and Efficient Flush:** The Class Five� canister flush system provides robust waste removal with a single flush, while its 1.28 GPF rating ensures excellent water conservation.
+* **Powerful and Efficient Flush:** The Class Five canister flush system provides robust waste removal with a single flush, while its 1.28 GPF rating ensures excellent water conservation.
 * **Reliable Brand Quality:** Kohler is a trusted name in plumbing, known for producing durable and well-engineered products.
 * **Complete Solution Package:** The inclusion of the seat and all necessary installation hardware simplifies the purchase and installation process.
 * **Clean and Modern Aesthetic:** The Highline Arc's design is versatile, fitting well into various bathroom styles.

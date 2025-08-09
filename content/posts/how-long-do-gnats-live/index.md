@@ -16,7 +16,7 @@ layout: post
 Gnats are restless two-winged flies commonly found in residential and commercial establishments.
 
 How long do gnats live?
-**The simple answer is: The average lifespan of Gnats is 7-21 days. This will depend on several factors like food sources, temperature, habitat, and available moisture.�**
+**The simple answer is: The average lifespan of Gnats is 7-21 days. This will depend on several factors like food sources, temperature, habitat, and available moisture.**
 ## Different [Gnat](https://pestpolicy.com/best-gnat-repellent/) species - How Long Do Gnats [Live](https://pestpolicy.com/best-streaming-devices-for-live-tv/)?
 Examples of flies that fit the above description include fungus gnats, fruit flies, black flies, phorid flies, eye gnats, and biting midges. Read on and learn more!
 ### 1. Fruit flies

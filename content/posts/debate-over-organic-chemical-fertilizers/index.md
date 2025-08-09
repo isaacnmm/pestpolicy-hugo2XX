@@ -47,7 +47,7 @@ Synthetic fertilizers, also known as inorganic or mineral fertilizers, are manuf
 ### Cons: Environmental Impact, Soil Health Concerns, Nutrient Leaching
 
 1.  **Environmental Pollution:**
-    * **Runoff and Leaching:** Because they are highly soluble, synthetic fertilizers are prone to leaching through the soil or running off with rainwater into waterways. This excess nitrogen and phosphorus can cause eutrophication � algal blooms that deplete oxygen, harming aquatic life and ecosystems.
+    * **Runoff and Leaching:** Because they are highly soluble, synthetic fertilizers are prone to leaching through the soil or running off with rainwater into waterways. This excess nitrogen and phosphorus can cause eutrophication  algal blooms that deplete oxygen, harming aquatic life and ecosystems.
     * **Nitrous Oxide Emissions:** The production and use of nitrogen fertilizers contribute to nitrous oxide (N2O) emissions, a potent greenhouse gas.
 2.  **Soil Health Degradation:**
     * **Lack of Organic Matter:** Synthetic fertilizers primarily feed the plant, not the soil. They do not add organic matter, which is vital for building healthy soil structure, improving water retention, and supporting beneficial microbial life. Over time, reliance solely on synthetic fertilizers can lead to depleted, compacted, and less fertile soil.
@@ -61,7 +61,7 @@ Organic fertilizers are derived from naturally occurring sources, including plan
 
 ### Pros: Soil Health, Sustainable Release, Environmental Friendliness, Micronutrients
 
-1.  **Feeds the Soil Ecosystem:** This is arguably the biggest advantage. Organic fertilizers nourish not just the plants but the entire soil food web � beneficial bacteria, fungi, earthworms, and other microorganisms. These microbes break down the organic matter, releasing nutrients in a slow, steady, and plant-available form. This process builds healthy soil structure, improves aeration, drainage, and water retention.
+1.  **Feeds the Soil Ecosystem:** This is arguably the biggest advantage. Organic fertilizers nourish not just the plants but the entire soil food web  beneficial bacteria, fungi, earthworms, and other microorganisms. These microbes break down the organic matter, releasing nutrients in a slow, steady, and plant-available form. This process builds healthy soil structure, improves aeration, drainage, and water retention.
 2.  **Slow and Steady Nutrient Release:** Nutrients are released gradually as organic matter decomposes. This reduces the risk of nutrient leaching, runoff, and fertilizer burn. It also provides a consistent supply of nutrients to plants over a longer period, reducing the need for frequent applications.
 3.  **Environmental Friendliness:**
     * **Reduced Pollution:** Less prone to leaching and runoff, minimizing nutrient pollution in waterways.

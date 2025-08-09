@@ -13,15 +13,15 @@ tags:
 - vocal
 layout: post
 ---
-Looking for the�best
+Looking for thebest
 [vocal mic](http://artsites.ucsc.edu/EMS/Music/tech_background/TE-20/teces_20.html)
 under 200? Getting excellent voice recordings depends on the quality of the vocal mic you use.
 
 But you dont have to break a bank to get a high-performance mic for your voice recording or streaming projects.
-If youre operating on a tight budget, you can get a quality mic under 200.� Its a review of 7 most outstanding vocal microphones under 200 in the market today.
+If youre operating on a tight budget, you can get a quality mic under 200. Its a review of 7 most outstanding vocal microphones under 200 in the market today.
 Related:
 [7 Best [Mics](https://pestpolicy.com/best-condenser-mics-under-300/) for Recording Acoustic Guitar](https://pestpolicy.com/[best](https://pestpolicy.com/best-harmonica-microphones/)-mics-for-recording-acoustic-guitar/)
-## **Reviews: Top 7 Best Vocal Mic Under�**$**200 in 2025**
+## **Reviews: Top 7 Best Vocal Mic Under**$**200 in 2025**
 ### [**1. Blue Yeti Vocal Microphone with USB**](https://www.amazon.com/dp/B00N1YPXW2/?tag=p-policy-20)
 If youre looking for a premium vocal microphone, get yourself Blue Yeti. Its a high-quality USB mic that is designed for both entry-level and professional applications.
 
@@ -84,7 +84,7 @@ Cons:
 ### [**4. Mxl 770 Vocal Cardioid Microphone**](https://www.amazon.com/dp/B0007NQH98/?tag=p-policy-20)
 You dont have to break a bank to get a quality vocal microphone for your home recording studio. MXL 770 gives you an opportunity to make attain professional recording at a very affordable price.
 
-Being a cardioid sound pickup mic, it will be a great tool for vocal recording since its only sensitive to sounds that come from the front side.� Any other sounds that come for the rear or sides will be isolated leading to accurate vocals.
+Being a cardioid sound pickup mic, it will be a great tool for vocal recording since its only sensitive to sounds that come from the front side. Any other sounds that come for the rear or sides will be isolated leading to accurate vocals.
 However, since it has a small diaphragm, its likely to get interference in case its used in a noisy place. Thus, its recommended to use it in a fully soundproof space to avoid picking unwanted sounds from outside.
 Its frequency response ranges between 30 Hz and 20 kHz. In case therere loud sounds, the mic gives you an option to add an extra 10 dB pad to minimize the interference. Plus theres a shock mount to reduce interference from vibrations.
 Also included is a switch for minimising rumble.

@@ -55,7 +55,7 @@ Logitech Wireless f710 functions perfectly with the Sony Android TVs.
 The
 [Logitech Gamepad F710 Software](http://support.logitech.com/en_us/product/wireless-gamepad-f710/downloads)
 will allow you to customize the gamepad select wheels, headsets, keyboards, and mice.
-- So, does Logitech gamepad f710 work on windows 10? Well, yes Logitech f710� will work perfectly with your windows 10.
+- So, does Logitech gamepad f710 work on windows 10? Well, yes Logitech f710 will work perfectly with your windows 10.
 However, if you have connectivity issues follow the below steps to solve the problem. Also, follow the
 [Logitech forum](https://community.logitech.com/s/question/0D531000050zwceCAA/wireless-gamepad-f710-windows-10)
 . Now to the step:

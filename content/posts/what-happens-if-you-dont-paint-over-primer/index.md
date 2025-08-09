@@ -17,7 +17,7 @@ Usually, the
 is done before actual paint application is undertaken in order to boost adhesive contact of the finish coat. Some painters tend to skip primer and directly apply finish paint.
 *So, what happens if you dont paint over primer? Well, the surface (under paint application) experiences low-paint adhesion, non-uniformity between paint color and sheen, while the surface demands several coats before attaining an excellent finish. *
 
-*In addition, the low stickiness action (associated with the unprimed surface) leads to peeling and scuffing, while uneven surface coating may initiate chipping or flaking. More so, the finish coat ends up having leakage on damaged sections.�*
+*In addition, the low stickiness action (associated with the unprimed surface) leads to peeling and scuffing, while uneven surface coating may initiate chipping or flaking. More so, the finish coat ends up having leakage on damaged sections.*
 > See Also:
 > Sandpaper for Primer before Paint
 > ?
@@ -55,7 +55,7 @@ Paint layer damage that results from unprimed surface leads to leakages  for sea
 Apart from being used as a sealer and adhesion booster, primer works as a primary paint layer  it works as an undercoat and thus improves surface strength for subsequent paint coat applications.
 Unprimed surfaces demand more paint coats than primed surfaces  this is due to the fact that the first paint layer is used as a primer (not a primer), while the rest of the paint layers adds to stickiness until the required finish is attained.
 Since finish paint doesnt contain a primer composition, more paint coats are needed to attain intended quality results.
-Therefore, its more expensive to paint over an unprimed surface than painting over a primed surface.�See Also:
+Therefore, its more expensive to paint over an unprimed surface than painting over a primed surface.See Also:
 Primer for Rusted Metal
 .
 ## How to Prime Surface for Painting
@@ -116,4 +116,4 @@ Moreover, the primer also seals the primary coat layer from rust agents (in meta
 ## Conclusion
 To wide up, on what happens if you dont paint over primer, you will experience low paint adhesion, non-uniformity between paint color and sheen, while the surface demands several coats before attaining an excellent finish.
 Besides, the low stickiness action initiates peeling and scuffing, while uneven surface coating may lead to chipping or flaking. Further, the finish coat is easily damaged and causes uncalled-for leakages.
-Notably, the unprimed surface has low service life and poor outlook appearance.�To attain a quality paint finish, you must select the right primer, match the finish paint correctly, and prepare the solvents according to the manufacturers instructions.
+Notably, the unprimed surface has low service life and poor outlook appearance.To attain a quality paint finish, you must select the right primer, match the finish paint correctly, and prepare the solvents according to the manufacturers instructions.

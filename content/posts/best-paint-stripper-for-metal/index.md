@@ -157,15 +157,15 @@ To remove paint from your metal hardware, doors, dresser, and lamp, et yourself 
 Equally, wear pants, a long-sleeved shirt,
 safety glasses
 , and rubber gloves - this will protect your skin. Also, using a mask or respirator will help prevent the inhalation of harmful paint stripper fumes.
-### Step 2:**Paint Stripper Application�**
+### Step 2:**Paint Stripper Application**
 It is time to apply your chemical paint stripper on the metal or glass surface - you can use a
 disposable paintbrush
 - allow the remover to set as outlined in the product instructions.
 To remove the old paint, apply the stripper coat uniformly over the metal surface using the inexpensive paintbrush. Allow the stripper to work for 20 minutes until you notice paint bubbling.
-### Step**3: Paint Scraping�**
+### Step**3: Paint Scraping**
 Next, use a plastic scraper to eject the metal surfaces' softened paint before applying the next stripper coat, if required.
 But use a nylon brush or scrubbing pad to scrape off the paint from harder-to-reach place and crevices on the metal surface. Repeat the stripper application and brush or scrape off all the paint.
-### Step**4: Mineral Spirit Application�**
+### Step**4: Mineral Spirit Application**
 The next step is applying mineral spirits or
 vinegar on the metal
 and finally wiping the surface. Eject all leftover paint flakes and any other chemical residue.

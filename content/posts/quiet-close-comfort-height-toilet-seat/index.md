@@ -66,7 +66,7 @@ This type of toilet seat combines two primary innovations to elevate the bathroo
 
 ### 5. Aesthetic Variety
 
-* **Matching Design:** Available in various shapes (round, elongated) and colors (most commonly white, but also biscuit/bone or black) to perfectly match different toilet bowl shapes and bathroom d�cors.
+* **Matching Design:** Available in various shapes (round, elongated) and colors (most commonly white, but also biscuit/bone or black) to perfectly match different toilet bowl shapes and bathroom dcors.
 * **Sleek Profile:** The quiet-close mechanism is often integrated subtly, maintaining a sleek and uncluttered appearance.
 
 ---

@@ -20,7 +20,7 @@ Besides being such a big nuisance, ants are incredibly destructive. Have you con
 The best ant traps and
 [ant killers](https://pestpolicy.com/best-ant-killer/)
 will help you eliminate these destructive insects before causing more damage.
-**Check the top ant traps.�**
+**Check the top ant traps.**
 
 ## [1. #1 Top Pick: TERRO-T300B Liquid Pre-filled Ant Killer](https://www.amazon.com/dp/B00E4GACB8/?tag=p-policy-20)
 
@@ -54,7 +54,7 @@ A slow-acting ingredient, Abamectin, allows the ants to get back to the colony a
 This helps to kill the colony much faster. The trap is
 safe for use around pets
 , is long-lasting, and quite affordable.
-**How to use Enforcer Ant Trap�**
+**How to use Enforcer Ant Trap**
 - Open the bait and set the trap in strategic areas
 - The ant population will be significantly reduced in two weeks or less if the infestation isnt severe.
 ## [5. Advance 375a Granules with Bait Stations](https://www.amazon.com/dp/B003EAP02G/?tag=p-policy-20)
@@ -80,7 +80,7 @@ is an excellent ant trap for both indoors and outdoors.
 - The bait comes in the form of a narrow bottomed canister with two compartments.One compartment contains granular baits and the other liquid baits.
 The bait also contains numerous holes where the ants move in and out quickly, carrying the colony's bait. This, of course, makes eliminating the colony much easier and quicker.
 The bait is made of rugged green polypropylene, which perfectly blends in with the outdoors. Its also tamper-proof, waterproof, and wont spill the contents through the entry points. Plus, the station is resistant to UV rays, allows the bait to stay active for extended periods.
-**How to use Kness Ant Bait Stations�**
+**How to use Kness Ant Bait Stations**
 - Load the canister with bait in both compartments
 - Stick the bait in the ground or wherever youre facing a significant infestation
 ## [7. Grants Indoor Ant Traps](https://www.amazon.com/dp/B00719KO0Y/?tag=p-policy-20)

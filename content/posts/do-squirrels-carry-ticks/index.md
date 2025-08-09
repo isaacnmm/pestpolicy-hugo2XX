@@ -18,7 +18,7 @@ Squirrels are part of the
 bigger rodents family
 . They are prone to pests and parasites but do squirrels carry ticks?
 **Do Squirrels Carry Ticks? Yes, squirrels can carry ticks, and they also carry other parasites like fleas and spread them to pets and also humans. **
-- **Among the most common ticks are the [squirrel](https://pestpolicy.com/do-squirrels-attack-humans/) ticks. They are also likely to host ticks that cause Lyme disease.�**
+- **Among the most common ticks are the [squirrel](https://pestpolicy.com/do-squirrels-attack-humans/) ticks. They are also likely to host ticks that cause Lyme disease.**
 **Squirrels are known for their long fluffy tail as they invade cereals, nuts, and other foods from our homes. They bring harm by spreading diseases that are caused by ticks and fleas and other parasites.
 **
 
@@ -69,7 +69,7 @@ This way you can then proceed to use sprays and other tick control measures to t
 Some essential oils and are very
 good repellents are against squirrels
 . Peppermint and garlic are very effective because of their pungent smell.
-- Using this around your house keeps off the squirrels.� Alternatively, you can also use hot pepper on the food given to squirrels.
+- Using this around your house keeps off the squirrels. Alternatively, you can also use hot pepper on the food given to squirrels.
 Pepper has a very irritating effect on the squirrels which chases them from around your house.
 ### **5. Predator Decoy and Scents **
 The primary predators for the squirrels are hawks, eagles, foxes, and coyotes.

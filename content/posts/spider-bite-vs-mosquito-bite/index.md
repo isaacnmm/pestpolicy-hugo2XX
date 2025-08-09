@@ -22,7 +22,7 @@ Related:
 Bed Bug Bites versus Mosquito Bites
 ## Details: Spider Bite vs Mosquito Bite; What Bit Me?
 ### 1. Different in Bite Appearance?
-*a. Mosquito bite�*
+*a. Mosquito bite*
 Mosquito bites to animals and humans mainly come from their females to get that blood meal - enabling great egg production.
 - Using their proboscis (mouthpart), mosquitos pierce your skin and suck blood.
 - Its saliva causes your skin to itch and bump. For some people, the effect is more strong redness, soreness, and swelling.
@@ -36,9 +36,9 @@ Further, mosquito bites reactions may have severe reactions including;
 - Hives
 - Low-grade fever
 - Wide-area skin redness and swelling
-*b. Spider Bite�*
+*b. Spider Bite*
 The charactratics of spider bites from spiders such as the lack of widow spiders include pinprick-like, sharp, and immediate pain.
-Also, the bite location will be numb.�Additional symptoms for bites from the black widow spider are;
+Also, the bite location will be numb.Additional symptoms for bites from the black widow spider are;
 - Itchy skin rash
 - Excessive sweating
 - Headache
@@ -60,9 +60,9 @@ Finally, bites by Hobo spiders - and its bite on your skin will include;
 - Hardened bite-area skin
 - Severe headache that beings shortly after getting bitten - and the headache could remain active for about a week.
 ### 2. Causes High-Risk** i**llnesses?
-*a. Mosquito bite�*
+*a. Mosquito bite*
 Mosquito bites will result in pink, red & rounded, plus itchy bumps. But this bite could result in severe illnesses like eastern equine encephalitis (EEE), malaria, West Nile virus, and Zika virus.
-Zika virus will, for many humans, result in a flu-like illness. However, newborns from mothers infected with this virus could get microcephaly�birth defects.
+Zika virus will, for many humans, result in a flu-like illness. However, newborns from mothers infected with this virus could get microcephalybirth defects.
 The
 [CDC notes](https://pestpolicy.com)
 that the West Nile virus was (in 2019) spread over 47 states of the US.
@@ -71,8 +71,8 @@ Further, humans that get West Nile that's severe may develop encephalitis, menin
 - But mosquitoes will largely infect humans with malaria - but the malaria cases have malaria transmission in the US.
 The malaria flu will result in symptoms such as vomiting, nausea, muscle aches, headache, and fever. However, CDC notes that malaria is treatable & preventable.
 Another mosquito species known as
-*Aedes scapularis is found in Latin and Caribbean America but also in Florida - as noted by the JMEntomology.�*
-*b. Spider Bite�*
+*Aedes scapularis is found in Latin and Caribbean America but also in Florida - as noted by the JMEntomology.*
+*b. Spider Bite*
 Spider bites won't largely result in grave problems. However, you could experience pain, swelling, and redness around the area with the spider bite.
 - But bites from spiders like the hobo spiders, brown recluse, and the black widow may result in more grave effects
 Such effects may include muscle cramps that are painful, severe headaches, and trouble breathing - such effects from spider bites could need urgent medical care.
@@ -83,13 +83,13 @@ So, which spider species will be venomous to humans? From the over 60 spider spe
 - **Black widows -**These back window species will mainly occupy the outhouses, fence, woodpiles, and building eaves (overhangs) - and largely occupy the Southern & Western U.S. Their belly has an hourglass shape that is colored red.
 ## The difference in Treatment of Spider and Mosquito Bites
 After identifying that bite, it's important to use the right technique to treat the various bug bites.
-**Treating Spider Bites:�**
+**Treating Spider Bites:**
 - Begin by quickly locating that spider which bit you. You might need to search those hiding or dark areas - this will help you identify if the bite is toxic.
 - For toxic spider bites such as from Brown recluse or Black Widow spider, you'll require emergency medical treatment.
 - Avoid home treatment if their spider at hand is noted to inject toxic through their bites
 - Thoroughly clean the spider bite, if the spider is identified as being non-toxic, and this will help avoid further infection
 - In addition, to prevent an additional allergic reaction from that spider bite, I advise you take some antihistamine
-**Treating Mosquito Bites:�**
+**Treating Mosquito Bites:**
 - Compared to the bites from ticks or spiders, mosquito bites are known to be largely harmless
 - So, unless there are serious symptoms such as fever or nausea, you won't require to take those drastic measures
 - To stop the skin itching after the mosquito bite, I recommend you rub some baking soda or salt.

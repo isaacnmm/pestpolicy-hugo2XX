@@ -64,14 +64,14 @@ You may not need to use many different products, but it will depend on how sever
 Flea treatment is tricky for pets. All the eggs, which will hatch soon after they are laid, need to be killed at the same time as the adult fleas.
 - So, use a flea spray + flea tablets to ensure that any future infestation is dealt with immediately.
 ### Step 3: Use Flea Tablets
-Flea tablets�such as the
+Flea tabletssuch as the
 Novartis Capstar are fed on cats
 and
 [dogs](https://pestpolicy.com/best-flea-treatment-for-dogs/)
 to remove fleas with fast results - exterminating the bugs in about 30 minutes.
 - Flea tablets are used in combination with a good flea shampoo.
 The flea tablet helps to kill the eggs and larvae of the insect on contact, while the shampoo helps remove live fleas that may be stuck on your pets skin or fur.
-- The best way to tell if an animal has been bitten by a tick is through its behavior �- such as lethargy, having decreased appetite, not grooming properly (or dong it excessively), etc.
+- The best way to tell if an animal has been bitten by a tick is through its behavior - such as lethargy, having decreased appetite, not grooming properly (or dong it excessively), etc.
 Flea tablets work well for dogs especially because they can get very dirty at times and hard to wash off effectively enough without some assistance from medication like this!
 - But flea tablets won't exterminate flea eggs, pupae, and larvae - plus they'll only be effective for 24 hours and thus require re-treatment after this time.
 Flea tablets will work best when your pet is visiting areas with a high risk of fleas like pet parks, pet hotels, grooming salons, or vet clinics. But it would help to combine flea tablets + flea sprays.

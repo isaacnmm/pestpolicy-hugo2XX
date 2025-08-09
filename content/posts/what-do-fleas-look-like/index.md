@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 Fleas are small wingless insects that can be classified as parasites that are difficult to control. These insects predominantly live on small animals kept at home as pets, such as cats and dogs.
-- Fleas are also common among birds and various other wild animals.�Being parasitic, fleas survive almost exclusively on a diet of blood.
+- Fleas are also common among birds and various other wild animals.Being parasitic, fleas survive almost exclusively on a diet of blood.
 - They belong in the order Siphonaptera, which encompasses over 2,500 different species.
 The focus of this post shall be on what fleas look like, but first things firstrelated:
 Bed Bug Pictures

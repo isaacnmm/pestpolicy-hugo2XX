@@ -191,7 +191,7 @@ Cons:
 - You might need to break in on them
 
 ## Buyers Guide for Best Tactical Boots for Plantar Fasciitis
-### **Comfort�**
+### **Comfort**
 Comfort is everything when buying any kind of shoe. Therefore, when choosing Best Tactical Boots for Plantar Fasciitis youll want to pick a pair thats comfortable to your feet.
 
 Some of the things to look out for include; the weight of the boot- the boot shouldnt be too heavy such that it prevents you from successfully accomplishing your mission. It should be well cushioned, breathable, flexible, and supportive.

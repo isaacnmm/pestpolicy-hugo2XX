@@ -34,7 +34,7 @@ TruGreen is known for its structured, comprehensive annual plans that bundle mul
 * **Perimeter Pest Control:** Treatments around the home's foundation to deter pests.
 * **Mosquito Control:** Targeted applications to reduce mosquito populations.
 
-TruGreen generally offers a few core plans (e.g., TruHealth, TruComplete, TruSignature) with increasing levels of service, along with various � la carte options for specific issues. Their "Healthy Lawn Guarantee" promises re-service between scheduled visits if problems persist.
+TruGreen generally offers a few core plans (e.g., TruHealth, TruComplete, TruSignature) with increasing levels of service, along with various  la carte options for specific issues. Their "Healthy Lawn Guarantee" promises re-service between scheduled visits if problems persist.
 
 **Weed Man's Service Offerings:**
 Weed Man also provides a wide range of services, often with a strong emphasis on weed management, as their name suggests. Their offerings typically include:
@@ -47,7 +47,7 @@ Weed Man also provides a wide range of services, often with a strong emphasis on
 * **Soil Amendments:** Services like soil pH control (e.g., lime) and soil revitalizers (e.g., humic acid) to optimize growing conditions.
 * **Perimeter Pest Control & Mosquito/Flea/Tick Control:** Extensive options for outdoor pest management.
 
-Weed Man often allows for more � la carte selection of services, enabling homeowners to build a program tailored to their specific needs without necessarily committing to a bundled annual plan.
+Weed Man often allows for more  la carte selection of services, enabling homeowners to build a program tailored to their specific needs without necessarily committing to a bundled annual plan.
 
 ## Service Model: Corporate vs. Franchise
 
@@ -82,14 +82,14 @@ Comparing the exact costs of TruGreen and Weed Man services can be challenging, 
 
 **Factors Influencing Cost for Both:**
 * **Lawn Size:** The larger your lawn, the more product and labor required, leading to higher costs.
-* **Services Chosen:** Comprehensive plans or extensive � la carte selections will naturally be more expensive.
+* **Services Chosen:** Comprehensive plans or extensive  la carte selections will naturally be more expensive.
 * **Lawn Condition:** Lawns requiring more intensive initial treatments (e.g., severe weed infestation, significant pest damage) may incur higher costs.
 * **Geographic Location:** Labor rates, product costs, and local market competition influence pricing.
 * **Number of Applications:** Most programs involve multiple visits throughout the growing season, typically 5-7 applications.
 
 **General Observations:**
 * **TruGreen:** Often provides upfront quotes for their structured annual plans, with basic plans for a standard 5,000 sq. ft. lawn typically ranging from $400 to $800+ annually, and more comprehensive plans potentially exceeding $1,000-$1,500. They may offer initial discounts for new customers.
-* **Weed Man:** Pricing tends to be customized post-consultation, reflecting their more � la carte approach. Costs can be competitive with TruGreen for similar services, though some customers report Weed Man being slightly higher for equivalent plans due to their local, specialized approach.
+* **Weed Man:** Pricing tends to be customized post-consultation, reflecting their more  la carte approach. Costs can be competitive with TruGreen for similar services, though some customers report Weed Man being slightly higher for equivalent plans due to their local, specialized approach.
 
 It's highly recommended to get quotes from both companies, and potentially a local independent provider, to compare specific services and pricing for your lawn.
 
@@ -104,7 +104,7 @@ It's highly recommended to get quotes from both companies, and potentially a loc
 
 **TruGreen Cons:**
 * **Customer Service Consistency:** Some national call center experiences can be less personalized; quality may vary by branch.
-* **Less Customization for Basic Plans:** While � la carte options exist, their core strength is bundled plans, which may include services a customer doesn't feel they need.
+* **Less Customization for Basic Plans:** While  la carte options exist, their core strength is bundled plans, which may include services a customer doesn't feel they need.
 * **Technician Turnover:** As a large company, there might be more frequent changes in technicians servicing your property.
 
 ## Weed Man Pros & Cons

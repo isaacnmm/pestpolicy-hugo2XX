@@ -25,7 +25,7 @@ Check out the detailed review below.
 
 Related:
 Best Shoes for Plyometrics
-## Review:� 7 Best Shoes for Box Jumps
+## Review: 7 Best Shoes for Box Jumps
 ### [1. Reebok Men's Nano X1 Cross Trainer](https://www.amazon.com/dp/B08W5NGZCN/?tag=p-policy-20)- Shoes for Box Jumps
 If youre looking for an all-around sneaker that will allow you to do box jumps plus other workouts pick the Nano X1. This is one of the best shoes For CrossFit and Insanity. It will take you through various exercises without getting a biting.
 
@@ -138,7 +138,7 @@ Cons:
 - You might need to order a high size higher than your usual size
 
 ### [5. New Balance Women's Minimus 20 V7 Cross Trainer](https://www.amazon.com/dp/B07RMW8C8X/?tag=p-policy-20)
-The New Balance Women's Minimus 20 V7 is another excellent box jumps shoe you might want to buy.� This womens box jumps shoe is lightweight, comfortable, and highly flexible.
+The New Balance Women's Minimus 20 V7 is another excellent box jumps shoe you might want to buy. This womens box jumps shoe is lightweight, comfortable, and highly flexible.
 
 The New Balance Minimus 20 V7 utilizes a single Vibram rubber outsole. This durable outsole delivers excellent traction on both indoor and outdoor surfaces. The outsole is also non-marking, thus doesnt leave irritating marks on surfaces.
 

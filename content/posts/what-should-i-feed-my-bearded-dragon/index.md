@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 So, what should I feed my [bearded](https://pestpolicy.com/can-bearded-dragons-eat-apples/) [dragon](https://pestpolicy.com/can-bearded-dragons-eat-bananas/)? Well, bearded dragons are pets that are feed on several vegetables, fruits, and insects.
-*So, feed the bearded dragons with fruits (tomatoes, mangoes, bananas or grapes, etc.), vegetables (cabbages, broccoli, greens, pepper, sweet potato, or cucumber, etc.), insects (king-worms, meal-worms, crickets, etc.), or substrates for bearded dragons.�*
+*So, feed the bearded dragons with fruits (tomatoes, mangoes, bananas or grapes, etc.), vegetables (cabbages, broccoli, greens, pepper, sweet potato, or cucumber, etc.), insects (king-worms, meal-worms, crickets, etc.), or substrates for bearded dragons.*
 Thus, its evident
 [bearded dragons](https://cvm.ncsu.edu/documents/caring-for-your-bearded-dragon/)
 will feed on various foods, including fruits, vegetables, insects, and equally the commercially available substrates.
@@ -76,7 +76,7 @@ Bananas will contain the following nutrients Calcium (5 mg), Phosphorus (22 mg),
 14. Raisins
 15. Kiwi
 16. Apricots
-However, you must be careful as you feed your bearded dragon with some of this soft fruit such as kiwi because they'll ferment due to their sugary nature� - which eventually causes teeth issues.
+However, you must be careful as you feed your bearded dragon with some of this soft fruit such as kiwi because they'll ferment due to their sugary nature - which eventually causes teeth issues.
 ## What Vegetables Can Bearded Dragons Eat?
 The baby of bearded dragons won't feed on most of the vegetables out there. Mainly, baby beardies eat 20% vegetables + fruits and 80% insects.
 Please don't feed the pet with pale vegetables such as celery or iceberg lettuce because they have limited nutrients.

@@ -31,8 +31,8 @@ https://www.youtube.com/watch?v=vkdyD4gMEfM
 ### b. Concentration level needed
 For better paint removal, isopropyl alcohol or denatured alcohol should have 75% to 95% alkanol content. This is necessary to improve bond-breaking affinity without damaging the surface under paint removal.
 Moreover, the user should be protected well since these liquids (at high concentration) caused skin irritation (on contact) or nasal cavity discomfort upon inhalation.
-You can manually dilute the alcohol using distilled/clean water or purchase the right concentration for your paint removal use.�Having a 100% concentration of alcohol is risky to the user and may destroy the surface being cleaned.
-Usually, the active agents may stain or corrode the surface, especially plastics, if the professional application is not followed during removal.�NB: Avoid direct contact during application.
+You can manually dilute the alcohol using distilled/clean water or purchase the right concentration for your paint removal use.Having a 100% concentration of alcohol is risky to the user and may destroy the surface being cleaned.
+Usually, the active agents may stain or corrode the surface, especially plastics, if the professional application is not followed during removal.NB: Avoid direct contact during application.
 ### c. Areas of application
 Denatured alcohol is best used in mild paint removal, cleaning agent examinator, solvent for various bleaching agents as well as the sanding aid.
 On the other and, Isotropic Alcohol can be used in dense paint removal due to its high alkanol concentration index.
@@ -76,7 +76,7 @@ Thinner is manufactured using a mixture of toluene and methanol (a bit toxic) or
 The lacquer thinner can be used on non-porous surfaces such as metal and glass, unpainted wood, and unvarnished to remove paint. Due to its toxic scents, one should use a nose mask during application.
 ## Which other ways can Rubbing Alcohol be used for?
 Apart from removing paint on surfaces, rubbing alcohol/isopropyl alcohol can also be used in other ways, as indicated below:
-### 1.� Restoration of car headlights
+### 1. Restoration of car headlights
 Isopropyl is preferably used. During this process, sanding is carried out before applying the alcohol.
 The quenching process leaves a clear glass. See Also:
 [Painting Vs Staining Deck  7 Key Differences](https://pestpolicy.com/painting-vs-staining-deck/)

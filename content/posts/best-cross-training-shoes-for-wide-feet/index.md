@@ -57,7 +57,7 @@ Cons:
 ### [2. inov-8 Men's F-LITE 260 Knit (M) Cross Trainer](https://www.amazon.com/dp/B07GH2C5ZC/?tag=p-policy-20)
 Inov-8 F-LITE 260 is one of the best CrossFit shoes for wide feet. It has a spacious toe box that comfortably accommodates people with wide feet.
 
-The upper of Inov-8 F-Lite 260 features a stretchy and breathable knitted material. �This upper material provides a comfortable and natural fit allowing unrestricted foot movement.
+The upper of Inov-8 F-Lite 260 features a stretchy and breathable knitted material. This upper material provides a comfortable and natural fit allowing unrestricted foot movement.
 
 The rearfoot has a synthetic overlay wrap that helps to hold the foot securely preventing it from wobbling during intense training like plyometrics, cardio, and weightlifting among others.
 
@@ -211,7 +211,7 @@ Best cross training shoes for wide feet should have spacious forefoot and toe bo
 
 Further, the upper material for shoes of wide feet people should be stretchy enough to accommodate the feet during intense sessions. The upper should also be breathable to allow air into the shoe chamber
 ### Firmer Outsole and Midsole
-A firm outsole and midsole ensure you have comfortable and injury-free workouts.� Cross-training involves a lot of jumping, rope climbing, and heavy lifting among many other intense workouts. Therefore, choosing shoes with the firm midsole and outsole will ensure you achieve your training goals
+A firm outsole and midsole ensure you have comfortable and injury-free workouts. Cross-training involves a lot of jumping, rope climbing, and heavy lifting among many other intense workouts. Therefore, choosing shoes with the firm midsole and outsole will ensure you achieve your training goals
 
 Also, ensure the outsole is durable and provides reliable traction to avoid accidental falls or slips during the workout session.
 ### Heel Drop

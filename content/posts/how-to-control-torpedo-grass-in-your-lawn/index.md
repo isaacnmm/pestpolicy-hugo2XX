@@ -106,7 +106,7 @@ Selective herbicides target specific types of weeds (like grassy weeds) while sp
 
 ### General Chemical Application Tips:
 
-* **Timing:** Apply herbicides when torpedo grass is actively growing, typically from late spring through early fall, when temperatures are between 70-85�F. This ensures the plant is actively taking up the herbicide.
+* **Timing:** Apply herbicides when torpedo grass is actively growing, typically from late spring through early fall, when temperatures are between 70-85F. This ensures the plant is actively taking up the herbicide.
 * **Multiple Applications:** Due to its robust rhizome system, a single application is rarely sufficient. Plan for sequential applications as directed on the product label.
 * **Add Surfactant:** Many herbicides benefit from the addition of a non-ionic surfactant. This helps the herbicide spread and penetrate the waxy leaf surface of torpedo grass, increasing its effectiveness. Always check the product label for recommendations.
 * **Calibrate Sprayer:** Ensure your sprayer is calibrated correctly to apply the herbicide at the recommended rate.
@@ -124,6 +124,6 @@ Controlling torpedo grass is rarely a one-time event; it's a long-term managemen
 
 ## Final Thoughts About Torpedo Grass in Your Lawn
 
-Torpedo grass is a formidable foe for any homeowner striving for a pristine lawn. Its aggressive rhizomes and adaptability make it a persistent challenge. However, with accurate identification, a proactive prevention strategy, and the diligent application of appropriate control methods�whether manual removal, solarization, or carefully chosen herbicides�you can significantly reduce its impact.
+Torpedo grass is a formidable foe for any homeowner striving for a pristine lawn. Its aggressive rhizomes and adaptability make it a persistent challenge. However, with accurate identification, a proactive prevention strategy, and the diligent application of appropriate control methodswhether manual removal, solarization, or carefully chosen herbicidesyou can significantly reduce its impact.
 
 The battle against torpedo grass is often a marathon, not a sprint. By arming yourself with knowledge and committing to consistent effort, you can protect your desirable turf and reclaim the beauty of your lawn from this invasive intruder.

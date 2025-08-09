@@ -145,7 +145,7 @@ The primer is easy to apply and you can use a brush, a roller, or a sprayer. How
 This primer does an excellent job of preparing your surface for painting and is compatible with most paints.
 It is also a great product when it comes to hiding imperfections on your wall. Uniquely this is one of the only primers that allow for aeration making it one of the best for fitting wallpapers.
 Pros:
-- Good for fighting� mildew
+- Good for fighting mildew
 - Strong adhesion
 - Applied on multiple surfaces
 - Has low odor and VOC

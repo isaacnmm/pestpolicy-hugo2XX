@@ -150,7 +150,7 @@ Besides other beautiful properties, the product is designed with a spatter- resi
 
 It dries to the touch after one hour and takes a recoat after two hours. While you may need to undertake several coats to hide the stains, the final result is always excellent. And for total stain-blocking, the manufacture recommends a recoat after four hours.
 
-Application is easy as all you need is a quality brush, a nap roller, or paint sprayer.� One gallon covers roughly 250 square feet on porous surfaces, but it can stretch up to 400 square feet on a smooth surface.
+Application is easy as all you need is a quality brush, a nap roller, or paint sprayer. One gallon covers roughly 250 square feet on porous surfaces, but it can stretch up to 400 square feet on a smooth surface.
 Pros:
 - It changes color to highlight defects
 - Works well on both textured and smooth surfaces

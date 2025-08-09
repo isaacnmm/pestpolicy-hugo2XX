@@ -271,7 +271,7 @@ Having the right tools and materials ready will make the installation process mu
 * **Gloves:** To protect your hands.
 * **Measuring Tape:** To measure the area and material.
 * **Utility Knife or Heavy-Duty Scissors:** For cutting the fabric or plastic. A utility knife is generally preferred for straight, clean cuts and can be used with a straightedge.
-* **Landscape Staples/Pins:** U-shaped or J-shaped metal pins to secure the fabric/plastic to the ground. You'll need plenty � typically one every 1-2 feet along edges and seams, and throughout the center for larger pieces.
+* **Landscape Staples/Pins:** U-shaped or J-shaped metal pins to secure the fabric/plastic to the ground. You'll need plenty  typically one every 1-2 feet along edges and seams, and throughout the center for larger pieces.
 * **Hammer or Rubber Mallet:** To drive in landscape staples (optional, but helpful for hard ground).
 * **Weed Killer (Optional):** A non-selective herbicide like glyphosate for initial weed clearing.
 * **Wheelbarrow or Tarp:** For moving soil, weeds, or mulch.

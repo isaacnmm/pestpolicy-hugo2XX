@@ -26,10 +26,10 @@ Symptoms of garlic toxicosis in cats include lethargy, pale gums, increased hear
 The claim that garlic, mixed with brewer's yeast, can repel fleas lacks solid scientific evidence. The theory behind it is that the garlicky odor emitted by the cat would deter fleas. However, this hasn't been proven effective, and the potential risks of garlic poisoning far outweigh any unproven benefits.
 ## **Finding Safe and Effective Solutions for Flea-Free Cats**
 Instead of resorting to unsafe home remedies, there are several safe and effective options for flea control in cats:
-- **Veterinarian Consultations:**Consulting your veterinarian is the best first step.�They can recommend**age-appropriate, safe, and effective flea prevention and treatment options**tailored to your cat's specific needs and lifestyle.
+- **Veterinarian Consultations:**Consulting your veterinarian is the best first step.They can recommend**age-appropriate, safe, and effective flea prevention and treatment options**tailored to your cat's specific needs and lifestyle.
 - **Topical Treatments:**These monthly medication[alternatives](https://pestpolicy.com/best-flea-treatment-for-cats/)applied to the back of the neck are a popular and effective way to prevent and kill fleas.
-- **Oral Medications:**For severe infestations or cats who dislike topical treatments,�veterinarian-prescribed oral medications can provide effective flea control.
-- **Environmental Control:**Regularly washing bedding,�vacuuming,�and treating flea-infested areas with**pet-safe insecticides**are crucial to break the flea life cycle and prevent re-infestation.
+- **Oral Medications:**For severe infestations or cats who dislike topical treatments,veterinarian-prescribed oral medications can provide effective flea control.
+- **Environmental Control:**Regularly washing bedding,vacuuming,and treating flea-infested areas with**pet-safe insecticides**are crucial to break the flea life cycle and prevent re-infestation.
 **Remember:**
 - **Never use essential oils or household products**on your cat for flea control as they can be toxic.
 - **Regularly check your cat for fleas**and consult your veterinarian if you notice any signs of infestation.

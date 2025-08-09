@@ -27,20 +27,20 @@ The most accurate indicator for pre-emergent application is **soil temperature**
 
 ### For Spring Application (Targeting Summer Annual Weeds like Crabgrass):
 
-* **Optimal Soil Temperature:** Apply when soil temperatures are consistently **between 50�F and 55�F (10�C to 13�C) at a depth of 2-4 inches for several consecutive days.**
+* **Optimal Soil Temperature:** Apply when soil temperatures are consistently **between 50F and 55F (10C to 13C) at a depth of 2-4 inches for several consecutive days.**
     * **Indicator Plant:** A classic natural indicator for this soil temperature range is when **Forsythia bushes begin to bloom and are about half to fully bloomed.** Another common indicator is when lilacs start to bud.
     * **Timing by Region (General Guidelines):**
         * **Southern U.S. (Deep South):** Late February to early March.
         * **Transition Zone (Mid-Atlantic, Lower Midwest):** Mid-March to early April.
         * **Northern U.S. (Upper Midwest, Northeast):** Mid-April to early May.
         * **Pacific Northwest:** Often March to April.
-    * **Why this window?** Crabgrass seeds typically begin to germinate when soil temperatures reach 55�F consistently. Applying the pre-emergent just before or as the soil hits this threshold ensures the barrier is in place when germination starts. Applying too early risks the barrier breaking down before all seeds germinate, and applying too late means some weeds will have already sprouted, rendering the pre-emergent ineffective against them.
+    * **Why this window?** Crabgrass seeds typically begin to germinate when soil temperatures reach 55F consistently. Applying the pre-emergent just before or as the soil hits this threshold ensures the barrier is in place when germination starts. Applying too early risks the barrier breaking down before all seeds germinate, and applying too late means some weeds will have already sprouted, rendering the pre-emergent ineffective against them.
 * **Split Applications:** In areas with long growing seasons or where temperatures fluctuate significantly, a split application might be beneficial. Apply half the recommended rate in the optimal early spring window, and the second half 6-8 weeks later. This extends the protective barrier.
 
 ### For Fall Application (Targeting Winter Annual Weeds like Henbit, Chickweed, Poas):
 
-* **Optimal Soil Temperature:** Apply when soil temperatures consistently **drop below 70�F (21�C) in late summer to early fall.**
-    * **Indicator:** This is typically when nighttime temperatures consistently fall below 60�F (15�C).
+* **Optimal Soil Temperature:** Apply when soil temperatures consistently **drop below 70F (21C) in late summer to early fall.**
+    * **Indicator:** This is typically when nighttime temperatures consistently fall below 60F (15C).
     * **Timing by Region (General Guidelines):**
         * **Northern U.S.:** Late August to mid-September.
         * **Transition Zone:** September to early October.

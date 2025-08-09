@@ -45,7 +45,7 @@ Having everything ready beforehand makes the process smoother.
 1.  **New Pot:**
     * **Size:** Choose a pot that is only **1-2 inches (2.5-5 cm) larger in diameter** than the current pot. Going too big can lead to overwatering and root rot because the large volume of soil holds too much moisture for the current root system.
     * **Drainage Holes:** **Absolutely essential.** Never use a pot without drainage holes.
-    * **Material:** Terracotta (porous, allows roots to breathe, dries faster) or plastic (retains moisture longer, lighter) � choose based on plant needs and aesthetic preference.
+    * **Material:** Terracotta (porous, allows roots to breathe, dries faster) or plastic (retains moisture longer, lighter)  choose based on plant needs and aesthetic preference.
 2.  **Fresh Potting Mix:**
     * **Specific to Plant:** Use a high-quality, fresh potting mix appropriate for your plant type.
         * **General Houseplants:** All-purpose indoor potting mix.
@@ -78,7 +78,7 @@ Follow these steps carefully for a successful repotting experience.
     * If the plant is severely root-bound, you may need to make a few vertical cuts (about 1 inch deep) on the sides of the root ball with a clean knife to encourage new root growth.
     * Trim off any soft, mushy, dark, or foul-smelling roots (signs of root rot). Also, prune any overly long or circling roots to encourage branching.
 6.  **Add Potting Mix to the New Pot:** Pour a layer of fresh potting mix into the bottom of the new pot. The amount should be sufficient so that when the plant is placed on top, the base of the plant (where the stems meet the soil) will be at the same level as, or slightly below, the rim of the new pot (leaving about 1-2 inches / 2.5-5 cm of headroom for watering).
-7.  **Position the Plant:** Center the plant in the new pot. Double-check the soil level � it's crucial not to bury the stem too deep, especially for plants like succulents.
+7.  **Position the Plant:** Center the plant in the new pot. Double-check the soil level  it's crucial not to bury the stem too deep, especially for plants like succulents.
 8.  **Backfill with Potting Mix:** Carefully fill the remaining space around the root ball with fresh potting mix. Gently tamp down the soil with your fingers or the trowel to remove large air pockets, but avoid compacting it too tightly. You want it firm but still airy.
 9.  **Water Thoroughly:** Water the newly repotted plant deeply until water drains freely from the bottom of the pot. This helps settle the soil around the roots.
 10. **Clean Up:** Tidy your workspace and wipe down the new pot.

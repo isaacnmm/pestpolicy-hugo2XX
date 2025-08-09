@@ -20,7 +20,7 @@ So, which are the best [tick](https://pestpolicy.com/best-tick-collars-for-dogs/
 After intense research, I came up with seven products with proven effectiveness for e
 [radicating ticks from dogs](https://www.banglajol.info/index.php/JAVAR/article/view/19632)
 .
-**See these Tick Shampoo.�**
+**See these Tick Shampoo.**
 ## 7 Best Tick Shampoo for Dogs
 ### [1.**Adams Plus Dog Shampoo for Flea and Tick**](https://www.amazon.com/dp/B004KDRGD2/?tag=p-policy-20)
 Any professional pest exterminator will recommend this shampoo for eradicating ticks from dogs.

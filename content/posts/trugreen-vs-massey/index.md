@@ -123,7 +123,7 @@ Our comprehensive methodology for evaluating lawn care companies, including nati
 
 1.  **Service Breadth & Customization (25%):**
     * **Range of Services:** Does the company offer a full suite of services (fertilization, weed, pest, disease control, aeration, overseeding, tree/shrub care)?
-    * **Program Flexibility:** Are there options for different needs (e.g., basic, comprehensive, organic) and can services be customized or added � la carte?
+    * **Program Flexibility:** Are there options for different needs (e.g., basic, comprehensive, organic) and can services be customized or added  la carte?
     * **Diagnostic Approach:** How well do they assess a lawn's specific needs (e.g., soil tests, on-site inspections)?
 
 2.  **Service Model & Expertise (20%):**

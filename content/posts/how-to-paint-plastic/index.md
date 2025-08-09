@@ -13,7 +13,7 @@ tags:
 - diy
 layout: post
 ---
-Painting [plastic](https://pestpolicy.com/best-spray-paints-for-plastic/) material could be one of the most cumbersome tasks, especially when wrong [paint](https://pestpolicy.com/how-to-remove-paint-from-plastic/) selection and improper procedures are undertaken.�Usually, the finish paint coat may peel, fade, or flake with time, thus leading to primary material weakening.
+Painting [plastic](https://pestpolicy.com/best-spray-paints-for-plastic/) material could be one of the most cumbersome tasks, especially when wrong [paint](https://pestpolicy.com/how-to-remove-paint-from-plastic/) selection and improper procedures are undertaken.Usually, the finish paint coat may peel, fade, or flake with time, thus leading to primary material weakening.
 
 *Well, in this article we shall have a discussion on how to paint plastic. To begin, you select the tools and material required, clean the surface, strip the old paint and sand gently, polish the surface, and blow off the dust and dislodged debris.*
 *Select appropriate plastic paint, prepare the paint sufficiently (as per the manufacturers instructions), apply the paint (1st coat), and then undertake quality finish before leaving the surface to dry to touch.*

@@ -24,13 +24,13 @@ While there is a wide variety of roaches, the majority of them are nocturnal. Sc
 
 This rhythm is a sleep-wake cycle that keeps alternating between pause/activity periods of these nasty bugs and governing their conduct of different organisms.
 
-In short, this rhythm is solely responsible for the night activity cycle of these insects.�In this activity cycle, cockroaches hunt for food and water in a low light environment and stay mostly inactive during the day.
+In short, this rhythm is solely responsible for the night activity cycle of these insects.In this activity cycle, cockroaches hunt for food and water in a low light environment and stay mostly inactive during the day.
 
 Their immobility during the daylight hour is either to stay safe from predators or nature's extremities.
 
 This means when the bedtime is approaching and the light goes off, a big welcome sign flag to your enemies.
 
-And now they will cascade in bulk from under the kitchen shelves, store room cabinets, washroom holes, and the smallest crack and the crevices.�Stay SAFE!
+And now they will cascade in bulk from under the kitchen shelves, store room cabinets, washroom holes, and the smallest crack and the crevices.Stay SAFE!
 ## Do Roaches Sleep During the Day?
 Plenty of research has been conducted on the activity cycle of roaches and a few of them to find out whether they sleep during the day or not! And each one points to the aforementioned circadian rhythm responsible for a sustained bout of inactivity in these bugs.
 
@@ -56,7 +56,7 @@ Roaches are always out on forage for food and water during the darkest hours whe
 ## Have a large number of these bugs at home?
 You will surely discover hundreds of thousands of them wobbling and running for shelter when you suddenly turn on the lights after 4 hours of darkness interval.
 
-And the reason is nothing but the leftover in the cooking and the dining space.�After the sundown, cockroaches are prone to emerge in a big group and hunt for foods.
+And the reason is nothing but the leftover in the cooking and the dining space.After the sundown, cockroaches are prone to emerge in a big group and hunt for foods.
 
 In fact, roaches can feed on virtually anything, including the tiniest food scraps that you might have left uncleaned from the last supper.
 

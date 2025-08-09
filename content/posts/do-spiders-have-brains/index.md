@@ -22,7 +22,7 @@ Spiders are tiny arachnids that seem to be very intelligent for their small size
 of
 [spider foggers](https://pestpolicy.com/best-fogger-for-spiders/)
 .
-**But, do spiders have brains? Well, technically, spiders have no brains in the manner anatomy defines "brains". However, the arachnids have neural/ nerve cell clusters filling up many spaces in the spider's cephalothorax. Notably, the"brains" of some spiders like Jumping spiders tend to extend down in their legs.�**
+**But, do spiders have brains? Well, technically, spiders have no brains in the manner anatomy defines "brains". However, the arachnids have neural/ nerve cell clusters filling up many spaces in the spider's cephalothorax. Notably, the"brains" of some spiders like Jumping spiders tend to extend down in their legs.**
 ## Details: Do Spiders Have Brains??
 It would require a big brain for the small spiders to have such magnificent web-weaving prowess and weave webs that are even bigger than the arachnids.
 A recent
@@ -50,7 +50,7 @@ Related:
 The Hallers rule states that as an animal's body size reduces, the more its proportion of its body taken by its body increases. For example, 2-3% of the human's body mass is composed of the brain.
 Further, scientifically, the tiny animal brains take up 15% of the creatures biomass - however, some spiders tend to be much smaller comparatively.
 However, brain cells also need high amounts of energy. Thus, the spiders will be converting most of the food they take up into brain power.
-From a Costa Rica and Panama study on the spider's brain extension, researchers resolved that the Nephila clavipes had a weight that's a 400,000 multiple of� the small spiders.
+From a Costa Rica and Panama study on the spider's brain extension, researchers resolved that the Nephila clavipes had a weight that's a 400,000 multiple of the small spiders.
 ## How Do Large Spider Brains Help In Spinning Webs?
 Its a key presumption that spiders require a large brain to create to super complicated webs. This is relatively true to some extend but not for all the spider species.
 For example, the kleptoparasitic spiders have eveolved and are unable to spin their webs and so they steal such webs from other spiders. However, these kleptoparasitic spiders do not have a smaller brain compared to other spiders.

@@ -19,7 +19,7 @@ A clean [bathroom](https://pestpolicy.com/replacing-a-bathroom-exhaust-fan/) exh
 The good news? Cleaning your bathroom exhaust fan is a
 **simple, 30-minute task**
 that can significantly improve your bathroom's air quality and extend the life of your fan. Follow this comprehensive guide to do it rightthe first time.
-## **Why Cleaning Your Exhaust Fan Matters�**
+## **Why Cleaning Your Exhaust Fan Matters**
 
 Before we dive in, lets talk about why this maintenance task is so important for your bathroom:
 
@@ -51,7 +51,7 @@ Gathering these simple tools beforehand will make the process smooth and efficie
 - **Old toothbrush or small detailing brush** Perfect for scrubbing stubborn grime from fan blades and tight crevices.
 - **White vinegar (optional)** Excellent for dissolving mineral deposits and killing mildew without harsh fumes.
 - **Step ladder or sturdy stool** Essential for safely reaching ceiling-mounted fans. Always ensure its stable before climbing.
-*(Helpful Extras: Replacement filters if your model uses them, nitrile gloves if youre sensitive to dust, and a headlamp or flashlight for better visibility.)�*
+*(Helpful Extras: Replacement filters if your model uses them, nitrile gloves if youre sensitive to dust, and a headlamp or flashlight for better visibility.)*
 ## **Step-by-Step Cleaning Process**
 ### **Step 1: Turn Off the Power (Critical Safety Step)**
 

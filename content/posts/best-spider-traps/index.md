@@ -54,7 +54,7 @@ Designed for both indoor and outdoor use, these traps are pre-baited with a powe
 ### [**2. Catchmaster 72MAX Pest Trap**](https://www.amazon.com/dp/B07Q697VZK/?tag=p-policy-20)
 These versatile glue traps can be laid flat or folded into a tent shape to protect the adhesive from dust and debris.
 
-They are also pre-scented to attract spiders and other crawling insects.�Brown recluse spiders are notoriously difficult to capture but
+They are also pre-scented to attract spiders and other crawling insects.Brown recluse spiders are notoriously difficult to capture but
 [**bait aversion**](https://portal.nifa.usda.gov/web/crisprojectpages/0231493-behavioral-resistance-and-bait-aversion-in-the-german-cockroach.html)
 is still a worry among spider exterminators.
 - **Benefits:**Very easy to use and dispose of, non-toxic, and effective in capturing a wide range of insects -even mice.

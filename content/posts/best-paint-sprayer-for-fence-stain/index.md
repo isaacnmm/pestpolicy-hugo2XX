@@ -35,10 +35,10 @@ Test the sprayer's technique and pattern on a separate wood sheep before pointin
 Despite that, some DIYers report that the sprayer has a usage learning curve - but the company has prepared great
 [instructional videos on the Graco website](https://www.graco.com/us/en/homeowner/support/education-center.html)
 . The machine will give you 2800 PSI through its piston pump (stainless steel).
-You won't need to refill the stain sprayer ait its flexible suction hose will draw the paint directly from your containers.� - this allows clean (no mess) and fast fence staining.
-The stand-mounted design will protect the pump components from water ingress and debris.� You can also work comfortably, thanks to the 25-foot hose, along your fence, with the base unit's minimal movement.
+You won't need to refill the stain sprayer ait its flexible suction hose will draw the paint directly from your containers. - this allows clean (no mess) and fast fence staining.
+The stand-mounted design will protect the pump components from water ingress and debris. You can also work comfortably, thanks to the 25-foot hose, along your fence, with the base unit's minimal movement.
 The airless DIY paint sprayer has a floor-standing pump, and its robust handle fixed on the device's upper casing allows easier transportation or movement. It can spray either oil- or water-based stains and paints.
-Graco recommends you use an extension rod (20-inch) while you're spraying the decks. But you may use a brush to hinder stain pooling or unevenness� - when your painting technique is off.
+Graco recommends you use an extension rod (20-inch) while you're spraying the decks. But you may use a brush to hinder stain pooling or unevenness - when your painting technique is off.
 So, when staining the fence, a suitable sprayer or spray gun will allow you to work on the surfaces easily and fast. I know that you may opt to use a painting contractor, but a sprayer will make your DIY staining project exciting.
 Pros:
 - Can spray your unthinned paints
@@ -147,7 +147,7 @@ oil-based
 and water-based materials.
 Due to its massive spraying power, Fuji-2203G Semi-PRO 2 can be used with un-tinned stains and paints with no issues. Luckily, you may also spray the stain directly from some container or bucket.
 The spray gun is the non-bleed type that reduces the chances of sputtering or spitting if the gun trigger is incipiently depressed. This sprayer won't have a continuous airflow from its turbine - and hence air won't bleed out.
-Fuji-2203G Semi-PRO 2 has a metallic turbine that replaces an air compressor� (external). Also, the turbine spray gun will produce less noise during operation - it's equally lighter and less bulky.
+Fuji-2203G Semi-PRO 2 has a metallic turbine that replaces an air compressor (external). Also, the turbine spray gun will produce less noise during operation - it's equally lighter and less bulky.
 Its metallic turbine housing of the Semi-PRO 2 helps protect the device's internal components while you're strong, using, and transporting it. Also, the device will protect its air hose and spray gun thanks to the turbine storage areas.
 Fuji-2203G Semi-PRO 2 has a flexible air hose that comes with its kink-free spring, and hence the hose won't be pinched or kinked around the connections. Its air hoses have couplings that are easy to connect or disconnect.
 Pros:

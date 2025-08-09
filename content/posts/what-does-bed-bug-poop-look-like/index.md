@@ -22,7 +22,7 @@ see bed bug images
 ). You may notice eggs,
 *feces*
 , and skin castings on bed or old box spring.
-**In summary, bed bug poop looks like tiny-spot clusters that you'll find on your bed. The feces are made up of digested blood - but they won't be red because the blood has dried. The feces appear darker, black, or rust-colored. Check quality bed bug sprays below.�**
+**In summary, bed bug poop looks like tiny-spot clusters that you'll find on your bed. The feces are made up of digested blood - but they won't be red because the blood has dried. The feces appear darker, black, or rust-colored. Check quality bed bug sprays below.**
 
 ## What Does Bed Bug Poop Look Like? 7 Tips
 *When smeared on different surfaces, bed bug poop leaves some dark or pink-colored stains - mainly, it'll go smooth and tiny drop when not absorbed by your fabric. *
@@ -45,7 +45,7 @@ bugs won't digest their blood meal fast
 bed bugs hide
 under the mattress where they'll digest the blood and poop.
 Bed bugs don't catch illnesses from the bed bug poop, and hence they'll drop their feces everywhere - particularly on areas that they digest on under mattresses.
-### 2. Smooth -�WhatDoes Bed BugPoop Feel Like?
+### 2. Smooth -WhatDoes Bed BugPoop Feel Like?
 Further, the fecal matter is smooth - compared to the
 cockroach waste
 that feels very granular. The feces will smear very quickly and thus stain chairs, sofas, furniture, drapes, bed sheets, mattresses.
@@ -121,4 +121,4 @@ Also,
 bed bug
 feces will soak in your fabrics to leave a regular and tiny stain. This will look anything like you dropped some ink drop on your bed sheet.
 Finally, bed bug poop will smear on your sheets to form a shape like that created by ink stains. Read Also:
-*Best mole traps.�*
+*Best mole traps.*

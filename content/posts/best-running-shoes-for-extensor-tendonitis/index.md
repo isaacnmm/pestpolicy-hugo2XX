@@ -56,7 +56,7 @@ Cons:
 - Limited color variations
 
 ### [2. Mizuno Women's Wave Rider 23 Wave knit Running [Shoe](https://pestpolicy.com/best-running-shoes-for-flat-feet-and-bunions/)](https://www.amazon.com/dp/B07QVTF9G4/?tag=p-policy-20)
-Mizuno Wave Rider �23 also finds a spot in the best running shoes for Extensor Tendonitis. The Rider 23 is designed for injury prevention. Thus, boasts of lightweight comfort, cushioning, and flexibility.
+Mizuno Wave Rider 23 also finds a spot in the best running shoes for Extensor Tendonitis. The Rider 23 is designed for injury prevention. Thus, boasts of lightweight comfort, cushioning, and flexibility.
 
 The Mizuno Wave knit 23 has a midsole that has a smooth ride dual-compound technology that incorporates U4icX and U4ic that promote bouncy and comfortable ride without compromising on support, durability, and shock attenuation.
 

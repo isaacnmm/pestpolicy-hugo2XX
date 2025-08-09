@@ -45,11 +45,11 @@ in an area that is not easily noticeable. You will test the oil on it and see ho
 - Place one or two drops of the oil in your inner forearm. This is the ideal area for patch testing since the skin is highly sensitive and cannot be noticed easily. Also, you will not run out of the oil unknowingly.
 - For the test, you can use any dilution ratio. Try to use somewhere between 1-50%. Anything more than that might be too much, and your skin might not handle it; hence, you will obviously get an allergic reaction.
 - Place a bandage on the area on which you placed the few drops of diluted tea tree oil.
-- Let it dry.�If you start to feel irritation around the area, remove the bandage immediately, andwash thoroughly with water and soap.
+- Let it dry.If you start to feel irritation around the area, remove the bandage immediately, andwash thoroughly with water and soap.
 However, if you dont feel any irritation within the first 24-48 hours, you are not allergic to the oil. Note that while you might be allergic to the oil, you might still be sensitive to a high concentration of the same.
 After running the patch test successfully, you can go ahead and
 use the oil to kill bed bugs
-.�If you learn that you are allergic to the oil, you can ask someone to do the work for you.
+.If you learn that you are allergic to the oil, you can ask someone to do the work for you.
 However, if there is no one to help, make sure that you cover your body well, leaving no skin exposed to the tea tree oil during the application.
 Related:
 Does Diatomaceous Earth Kill Bed Bugs?

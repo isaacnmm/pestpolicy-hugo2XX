@@ -22,7 +22,7 @@ Their bristles' quality and nature define the best paint brushes for oil-based p
 This article will enable you to articulate and make an excellent choice for your paint job. To achieve the right painting quality,
 [paint with the right brush](https://pestpolicy.com/best-paint-brushes-for-edging/)
 with your oil-based paints.
-## s: Top 7 Best Paint Brushes for Oil Based Paint�in�2025
+## s: Top 7 Best Paint Brushes for Oil Based Paintin2025
 ### [1. Purdy 144400340 XL Series Swan Enamel/Wall Paint Brush, 4 inch](https://www.amazon.com/dp/B00002N6IR/?tag=p-policy-20)
 Purdy 144400340-XL is an excellent brush from Purdy Brush Company that blends polyester and nylon with extra thick and extra-long bristles.
 
@@ -129,7 +129,7 @@ primers
 , stains, and
 latex plus oil-based paints
 .
-The ferrule is made of stainless steel that is non-corrosive, giving a firm grip on the bristles, making them durable.�The brush can be used on projects such as woodwork, floors, decks and antiques
+The ferrule is made of stainless steel that is non-corrosive, giving a firm grip on the bristles, making them durable.The brush can be used on projects such as woodwork, floors, decks and antiques
 Pros:
 - Durable
 - Easy to clean

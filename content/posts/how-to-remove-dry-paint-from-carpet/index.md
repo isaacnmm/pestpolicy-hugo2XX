@@ -17,8 +17,8 @@ You should match the carpet cleaning solvent with the type of stain under remova
 *So, in this article, we shall be discussing how to remove dry paint from the carpet. To remove dry paint, you can either use laundry detergent and warm water, Denatured/Rubbing alcohol, washing machine and soap, or blot with Turpentine. *
 *Alternatively, you can opt to use Hairspray, commercial paint removers like Goo Gone, acetone, or mineral spirit, especially for small section paint stain. During the paint removal process, ensure the solvent is thinned or diluted appropriately (follow manufacturers instructions).*
 ## Details: How to Remove Dry Paint from Carpet
-*Avoid highly concentrated paint removers as they may bleach your carpet.�*
-*Put on protective gear and stick to the procedure and precautions to remove paint or deck stains on the carpet.�*
+*Avoid highly concentrated paint removers as they may bleach your carpet.*
+*Put on protective gear and stick to the procedure and precautions to remove paint or deck stains on the carpet.*
 > See Also:
 > Removing Paint from Brick
 ### Method 1: Blot with Turpentine
@@ -92,7 +92,7 @@ Right cleaning settings should be considered when removing paint in order to pre
 *Steps to Follow*
 - Put on protective gear for personal safety
 - Fill the Washing machine with water and soap detergent
-- Connect the washing machine to power and� set it to cleaning options
+- Connect the washing machine to power and set it to cleaning options
 - Press the switch button and aim the tip to the paint-stained area
 - Run the nozzle back and forth until the entire paint is removed
 - Rinse the section with clean water

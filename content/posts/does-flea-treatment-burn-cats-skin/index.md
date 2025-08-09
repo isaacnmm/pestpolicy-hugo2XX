@@ -14,7 +14,7 @@ tags:
 - flea
 layout: post
 ---
-On how to flea treat kittens with sensitive skin?�Kittens/cats with sensitive skin are delicate animals to handle, even with
+On how to flea treat kittens with sensitive skin?Kittens/cats with sensitive skin are delicate animals to handle, even with
 kittens' best flea treatment
 . These skin sensations are triggered by some causes such as:
 1. Allergens  cause irritation and itching.
@@ -23,7 +23,7 @@ kittens' best flea treatment
 You can use some of the ways highlighted while treating your skin sensitive kitten/cat:
 1. Select antifungalshampoo for cleaning your kitten- the cleaning product should be free from parabens, ethoxylated, or sulfates.
 2. Avoid using creams, serum, or paste options of kitten flea treatment products (this may cause injuries on their skin during application). Instead, go for spray, powder, chewable, or table flea treatment options.
-3. During the application, press theflea killergently�on the surface.
+3. During the application, press theflea killergentlyon the surface.
 4. Treat kennel for kittens often with flea-killing products.
 5. Cover your kitten after treatment to avoid any possible inspection.
 6. In case your kittens are food allergic, try to use a non-processed diet that is rice, fish, and basic vegetables based.
@@ -59,7 +59,7 @@ flea collar
 will work magic for you as it can treat your kitten for 8months.
 - The product is a 100%[natural flea treatment](https://pestpolicy.com/does-apple-cider-vinegar-kill-fleas/)that is veterinary recommended.
 - Nieko[flea collar is quick-acting](https://pestpolicy.com/best-flea-collar-for-dogs/), as it will begin to work after 24 hours once fitted. It works on contact killing adult fleas, larvae, and eggs.
-The collar is waterproof and safe for all kittens/cats  it does not cause irritations.� It wont be affected by sun exposure or bleach due to its high-resistant fabric material.
+The collar is waterproof and safe for all kittens/cats  it does not cause irritations. It wont be affected by sun exposure or bleach due to its high-resistant fabric material.
 Nieko flea collar is non-greasy, hypoallergenic, and odorless. The collar is made of
 organic essential oils
 that do not harm your kitten. It has a natural oil that inhibits/prevents the infestation of the flea.
@@ -67,11 +67,11 @@ The durable collar comes in a sizable length that works for all cats/kittens  yo
 Nieko flea collar is eco-friendly and assures you continuous protection for your kitten 24/7.
 Nieko flea collar is light in weight. This product wont cause any discomfort to your kitten/cat during the entire time of use.
 The Good:
-- No irritation and�Natural/organic  no pollution.
+- No irritation andNatural/organic  no pollution.
 - Waterproof/water-resistant.
-- Non-grease and�Hypoallergenic
-- Adjustable size and�Quick acting  in 24 hours.
-- Inhibits flea infestation and�Eco friendly.
+- Non-grease andHypoallergenic
+- Adjustable size andQuick acting  in 24 hours.
+- Inhibits flea infestation andEco friendly.
 The Bad:
 - Relatively Expensive.
 Related: Check the

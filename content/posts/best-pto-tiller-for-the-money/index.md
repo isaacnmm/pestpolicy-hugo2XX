@@ -68,11 +68,11 @@ Pros:
 Cons:
 - None
 
-### [3. Titan 60" Heavy Duty Rotary Tiller - Gear Drive plus�PTO Driven](https://www.amazon.com/dp/B07DVQ1FZ5/?tag=p-policy-20)
+### [3. Titan 60" Heavy Duty Rotary Tiller - Gear Drive plusPTO Driven](https://www.amazon.com/dp/B07DVQ1FZ5/?tag=p-policy-20)
 Titan 60" is an efficient and equally powerful PTO tiller but may not match top-rated brands available. But you'll get great tilling power. It has a sturdy build quality with its 60 width that will allow the farmer larger ground over a short time.
 
 
-The PTO tiller has 6 flanges plus 36 tines to offer 18 inches in tilling width. Thus, the tiller blades won't jam when you're digging.�But this Titan 60" tiller is heavy and thus it'll demand you get a tractor that's heavy-duty to help in pulling the tiller.
+The PTO tiller has 6 flanges plus 36 tines to offer 18 inches in tilling width. Thus, the tiller blades won't jam when you're digging.But this Titan 60" tiller is heavy and thus it'll demand you get a tractor that's heavy-duty to help in pulling the tiller.
 
 Since the company management knows that the tiller has massive competition from the American tillers, they mid-tier cultivator is designed to deliver superior digging quality.
 

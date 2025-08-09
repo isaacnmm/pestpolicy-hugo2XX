@@ -16,9 +16,9 @@ layout: post
 Proper
 [land preparation](https://www.indstate.edu/university-engagement/sustainability/garden/tiller-usage-and-soil-health-information)
 is crucial for any serious gardener to ensure they get a good harvest.
-- ** Whether you are preparing an existing seedbed or creating a new one, you need to have proper equipment knowledge.�**
+- ** Whether you are preparing an existing seedbed or creating a new one, you need to have proper equipment knowledge.**
 - **How to use a rear mount tiller? Before starting up the tiller, ensure you have protective gear on for safety. **
-**Industrial boots, fitting clothing, safety goggles, and work gloves should keep you safe. You also need ear protection from the noise produced during the tilling process.�**
+**Industrial boots, fitting clothing, safety goggles, and work gloves should keep you safe. You also need ear protection from the noise produced during the tilling process.**
 ## Details: How to Use a Rear Tine Tiller?
 Read and understand the operation manual and get to know the tiller in depth.
 Use a dipstick to check oil levels before operating it. Find essential proponents of the tiller such as tine control, choke, the off/on switch, breaking and reverses levers, etc.
@@ -45,9 +45,9 @@ The
 The front-tillers are light, smaller, and look nice generally. Rear-tined tillers tines, on the other hand, are located at the rear end of the tiller.
 - The engine is located directly on top of tines which ensures that the tiller is firmly grounded.
 The rear-tined tiller is bigger and meaner looking with a bigger frame. In terms of design, the rear-tined tiller is the winner.
-## **Engine Power and Performance�**
+## **Engine Power and Performance**
 The rear-tined tiller has a big engine compared to the front-tine tillers making it powerful and ideal for digging vast tracts of land.
-**�**
+****
 Front-tine tiller tines rotate forward as they pull the tiller forcing you to hold down it down to prevent it from propelling forward.
 - If your ground is not new, standard rotation is the best to use for you as it works best in mixing the soil.
 - Mixing the soil ensures that it is properly aerated to support soil microorganisms, making it fertile.
@@ -60,10 +60,10 @@ In terms of maneuverability, its easier to maneuver front tine tillers in tight 
 ## **Suitable areas**
 A rear-tined tiller is ideal for tilling a vast virgin land with hard clay soil since it is heavier and holds its ground better.
 On the other hand, a front-tine, the tiller is ideal for small tracts of land with soft soil such as loam or sandy soil.
-**Verdict�**
+**Verdict**
 As you have noticed, the rear-tined tiller beats the front-tine tillers in suitable areas, power and performance, wheel size and stability, and efficiency in making the soil fertile.
 Although the rear-tined tiller is expensive and hard to maneuver in tight spaces, I would still go for it as its the better tiller.
-## **Will a tiller kill weeds?�**
+## **Will a tiller kill weeds?**
 The question every garden owner asks is whether a tiller will kill weeds and eradicate them permanently.
 - A tiller does not kill weeds. A tiller has tines or blades that are used to break up the soil in preparation for the planting season.
 With a tiller, it's easy for you to remove weeds as compared to uprooting them since you will take out the whole weed, including its roots.
@@ -77,7 +77,7 @@ The most expensive ones have a cutting depth of between 8-10 inches with cutting
 - You may optimize the tiller by fitting it with specialty tines. You can do this by buying forward rotating and counter-rotating tines.
 - Others are dual rotating tines that go both backward and forward, which gives you a lot of options while tilling your land.
 The different types of tines ensure that you have an easy time farming your garden, whether it has soft or hard soil beds.
-## **Conclusion****�**
+## **Conclusion******
 Tillers make your work easy as you work on your garden. They assist you to remove weeds that choke your plants.
 - They also play a significant role in ensuring your garden soil remains aerated and fertile.
 - As you may have learned, you need to consider factors like the size of your land, the nature of the soil, and your budget before deciding to buy a rear or front tiler.

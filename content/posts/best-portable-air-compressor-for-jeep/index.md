@@ -161,7 +161,7 @@ Consider an air compressor that comes with the necessary accessories to avoid in
 The air hose and power cord should be of appropriate length to enable you attend to all the tires with convenience. In addition, they should be made from heavy duty materials so that they do not wear out after a while.
 You might also opt for one that comes with a carry bag. Carry bags are designed for storing the compressor and its accessories.
 ### **Versatility**
-Its a good idea to get an equipment that will enable you to inflate your jeep and also serve other purposes. You might need compressed air for inflating tires of other vehicles, bicycle, motorcycle, bed or soccer balls.�Compressed air can also be used to clean equipment or gadgets such as electronics.
+Its a good idea to get an equipment that will enable you to inflate your jeep and also serve other purposes. You might need compressed air for inflating tires of other vehicles, bicycle, motorcycle, bed or soccer balls.Compressed air can also be used to clean equipment or gadgets such as electronics.
 ### **Display**
 Ensure your air compressor comes with an accurate display. This allows you to accurately monitor the tire pressure to avoid over inflation. If you prefer an analog display, make sure the gauge has small graduations to enable accurate pressure readings.
 Some air compressors come with both analog and digital displays. Thus, youre able to read the pressure accurately and easily.
@@ -172,6 +172,6 @@ Different brands of air compressors have different runtimes for which cooling is
 Power and speed are the most important things you need in a portable air compressor. This helps you keep your jeep tires always inflated no matter where youre.
 Also, durability of the equipment is of great importance. An equipment that is made with durable materials will go for many years without major break downs.
 So, depending on your budget and preferences, youll get a reliable product from the above list.
-**�Sources:�**
-1. [Cooling**air�**energy recovery in**portable air compressor**: an exergoeconomic analysis](https://www.inderscienceonline.com/doi/abs/10.1504/IJEX.2025.093144)
-2. [Conceptual design of automotive**compressor�**for integrated**portable air�**conditioning system](https://www.matec-conferences.org/articles/matecconf/abs/2017/11/matecconf_etic2017_01040/matecconf_etic2017_01040.html)
+**Sources:**
+1. [Cooling**air**energy recovery in**portable air compressor**: an exergoeconomic analysis](https://www.inderscienceonline.com/doi/abs/10.1504/IJEX.2025.093144)
+2. [Conceptual design of automotive**compressor**for integrated**portable air**conditioning system](https://www.matec-conferences.org/articles/matecconf/abs/2017/11/matecconf_etic2017_01040/matecconf_etic2017_01040.html)

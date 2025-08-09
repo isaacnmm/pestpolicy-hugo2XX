@@ -37,8 +37,8 @@ The journey from a tiny seed to a vibrant blade of grass is influenced by severa
     * **Seed Mixes:** Many lawn seed products are mixes of different types (e.g., Kentucky Bluegrass for density, Perennial Ryegrass for fast cover, Fescue for shade/toughness). In a mix, you'll see the ryegrass sprout first, followed by the fescues, and finally the bluegrass.
 
 2.  **Soil Temperature:** This is perhaps the most critical environmental factor for germination. Grass seeds have specific temperature ranges at which they will germinate most effectively.
-    * **Cool-Season Grasses (e.g., Kentucky Bluegrass, Fescue, Ryegrass):** Optimal soil temperatures for germination are typically between **50�F and 65�F (10�C - 18�C)**. Air temperatures will generally be in the 60s and low 70s during these times.
-    * **Warm-Season Grasses (e.g., Bermudagrass, Zoysiagrass, Centipedegrass):** Optimal soil temperatures are higher, usually between **65�F and 80�F (18�C - 27�C)**. Air temperatures will typically be in the 80s during these periods.
+    * **Cool-Season Grasses (e.g., Kentucky Bluegrass, Fescue, Ryegrass):** Optimal soil temperatures for germination are typically between **50F and 65F (10C - 18C)**. Air temperatures will generally be in the 60s and low 70s during these times.
+    * **Warm-Season Grasses (e.g., Bermudagrass, Zoysiagrass, Centipedegrass):** Optimal soil temperatures are higher, usually between **65F and 80F (18C - 27C)**. Air temperatures will typically be in the 80s during these periods.
     * **Too Cold:** Seeds may sit dormant or rot.
     * **Too Hot:** Seeds may desiccate (dry out) before they can germinate, or new seedlings may struggle with heat stress.
 

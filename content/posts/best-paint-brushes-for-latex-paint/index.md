@@ -19,9 +19,9 @@ and
 quality paintbrushes
 for less hassle and reducing tediousness.
 
-The�best
+Thebest
 paintbrush for [latex paint](https://www.woosterbrush.com/reviews-advice/choose-right-paintbrush/)
-should be easy to clean and produce a high-quality finish for a professional-looking surface.�The ultimate pick offers smooth paint release, given the water-soluble nature of latex paints.
+should be easy to clean and produce a high-quality finish for a professional-looking surface.The ultimate pick offers smooth paint release, given the water-soluble nature of latex paints.
 Latex Vs. Acrylic Paint
 .
 Choosing the right brush - either
@@ -97,7 +97,7 @@ Pros:
 Cons:
 - Not suitable for repeated use
 
-### [4. 3pc Stanley Fatmax Paint� Brush Set](https://www.amazon.com/dp/B00I93W4L8/?tag=p-policy-20)
+### [4. 3pc Stanley Fatmax Paint Brush Set](https://www.amazon.com/dp/B00I93W4L8/?tag=p-policy-20)
 The Stanley Fatmax range of paintbrushes is designed to offer a professional performance for all kinds of paints. The polyester filaments utilized in this pick are 100% tipped and round tapered for improved durability.
 
 Their smooth, chiseled elongation improves paint distribution without dragging or leaving brush marks. The Purdy will be great for the hobby or DIY renovation project, such as walls and

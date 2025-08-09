@@ -162,4 +162,4 @@ Cons:
 
 ## Conclusion
 The quality of music or mixes you make depends on your level of skills and the equipment you use. Headphones are one of the equipment that will contribute to your performance.
-The above DJ headphones have an emphasis on bass energy and a balance in the lows and mids.�Get an efficient headphone today and take your deejaying skills to another level.
+The above DJ headphones have an emphasis on bass energy and a balance in the lows and mids.Get an efficient headphone today and take your deejaying skills to another level.

@@ -30,7 +30,7 @@ as they will improve your knees muscle quality and fight sarcopenia.
 
 Luckily, walking and light
 [running with the right footwear](https://pestpolicy.com/best-running-shoes-for-bad-knees/)
-and cushioned shoes�is a non-pharmacologic therapy, and thus you wont need to take medications. Notably, walking has been wide studies and approved for the disabled and elderly population.
+and cushioned shoesis a non-pharmacologic therapy, and thus you wont need to take medications. Notably, walking has been wide studies and approved for the disabled and elderly population.
 
 Further, taking long-term walking plans can largely improve your knee pain and body functioning and slows physical function declining, also among the disabled people.
 

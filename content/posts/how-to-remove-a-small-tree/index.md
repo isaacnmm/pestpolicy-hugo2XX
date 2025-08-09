@@ -97,7 +97,7 @@ While DIY is largely about saving money, there are still some potential costs.
     * **Stump Remover Chemicals:** KSh 1,000 - KSh 3,000.
     * **Disposal:** If you can't use the wood/chips, you might pay a small fee at a local dumping site.
 * **Professional Costs (for comparison):**
-    * In Nairobi, professional removal of a truly "small" tree (under 9 meters / 30 feet tall with a small trunk) might range from **KSh 5,000 � KSh 12,000**, which often includes hauling away debris and potentially basic stump grinding for a little extra. For the average homeowner, this can be a very reasonable cost for safety and convenience.
+    * In Nairobi, professional removal of a truly "small" tree (under 9 meters / 30 feet tall with a small trunk) might range from **KSh 5,000  KSh 12,000**, which often includes hauling away debris and potentially basic stump grinding for a little extra. For the average homeowner, this can be a very reasonable cost for safety and convenience.
 
 ## DIY Vs. Hiring a Pro
 

@@ -41,8 +41,8 @@ Importantly, follow safety and precautions given when staining your wooden struc
 > HVLP Spray Gun for Cabinets
 ### c. Cleaning/washing the wood  surface preparation
 Wood surface cleaning/preparation is a crucial step as it helps improve stain stickiness ability over a given wooden surface. Using sandpaper, polish the new wooden structure gently without over pressing (prevents primary surface material damage).
-When restoring a stained wooden structure, scrub the surface using a steel brush to dislodge the primary stain coat layer  you can apply a thinner to improve the removal process.� The abrasive motion should be in the direction of wood grain orientation to prevent surface grain damage and distortion.
-Moreover, the polished wooden surface should be wiped to dryness (to remove dust and moisture content) to improve stain stickiness and eliminate chipping/peeling occurrences. �You can wash the polished surface (where necessary) with a pressure washer and leave it to dry before stain application.
+When restoring a stained wooden structure, scrub the surface using a steel brush to dislodge the primary stain coat layer  you can apply a thinner to improve the removal process. The abrasive motion should be in the direction of wood grain orientation to prevent surface grain damage and distortion.
+Moreover, the polished wooden surface should be wiped to dryness (to remove dust and moisture content) to improve stain stickiness and eliminate chipping/peeling occurrences. You can wash the polished surface (where necessary) with a pressure washer and leave it to dry before stain application.
 ### d. Preparing the stain
 Using a stain mixer, stir the stain appropriately to achieve the best solvent per the manufacturers instructions.
 When preparing wood stain, its necessary to consider the type of method you are using during stain application (is it a paintbrush, a roller, or a spray painter).
@@ -72,7 +72,7 @@ NB: Never sprinkle water over a water-based stained wooden structure after the s
 You can only stain pressure treated wood when it is scorched. Usually, during pressure treatment, chemical substances are forced into the wooden material to prevent insect damage and improve aging time.
 Your wooden material could either be pressure treated by wet-treatment or kiln-dried. The wet treatment process requires further drying before stain application takes place.
 On the other hand, the dry-kiln method of pressure wood treatment (KDAT kiln-dried after treatment or ADAT- air-dried after treatment) eliminates moisture content from the wooden material. Thus, a direct stain application can be carried out.
-Before carrying out the stained wood process, you will need to confirm the surface dryness level.� This can be done using the sprinkle test method.
+Before carrying out the stained wood process, you will need to confirm the surface dryness level. This can be done using the sprinkle test method.
 You will need to sprinkle some water over the wooden surface and leave it for 10 minutes. If the water is absorbed into the wood within the period, you can stain the surface immediately  the wood would have dried sufficiently.
 However, if the water droplets on the wooden surface remain after 10 minutes, you will need to give the wood more time to dry.
 This process is essential since the wet pressure treated wood contains water repellent chemicals, which resist both water-based and oil-based stain upon application.

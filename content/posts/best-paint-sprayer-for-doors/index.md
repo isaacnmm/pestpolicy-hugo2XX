@@ -134,7 +134,7 @@ You can use the sprayer for up to
 colors thanks to the
 FlexLiner Bag that's reusable.
 
-- Besides theFlexLiner Bags, the 120 volts sprayer comes witha� storage case, operation manual, reversible spraying tips.
+- Besides theFlexLiner Bags, the 120 volts sprayer comes witha storage case, operation manual, reversible spraying tips.
 - The standing sprayer design is also solid enough.
 - The machine's power flush allows easy cleaning
 

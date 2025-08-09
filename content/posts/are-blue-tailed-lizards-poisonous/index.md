@@ -18,7 +18,7 @@ Could be you have come across Blue Tailed Lizards in your home, yard or zoo and 
 [poisonous](https://pestpolicy.com/[are](https://pestpolicy.com/are-fleas-attracted-to-heat/)-lizards-poisonous/)
 . Can these reptiles really harm your children, dogs, cats or other home occupants? May be you are even worried how dangerous their saliva or bite could be.
 **Well, the question here is, are Blue Tailed Lizards Poisonous? The direct answer is NO. Blue Tailed Lizards are humble, non- poisonous reptiles that will present no threat to your children, humans or pets such as dogs and cats since their bite do not contain venom. **
-**According to Savannah River Ecology Laboratory, there is no scientific record that shows a long lasting effect of a bite from a Blue Tailed Lizard on human or pet. Nevertheless, some sources claim that when eaten by cats or dogs, Blue Tailed Lizards may cause sickness and lead to death.�**
+**According to Savannah River Ecology Laboratory, there is no scientific record that shows a long lasting effect of a bite from a Blue Tailed Lizard on human or pet. Nevertheless, some sources claim that when eaten by cats or dogs, Blue Tailed Lizards may cause sickness and lead to death.**
 
 
 Related:
@@ -64,13 +64,13 @@ https://www.youtube.com/watch?v=CQ3g415tSTs
 ## Can Blue Tailed Lizards Be Poisonous to Your Dogs, then?
 No. The blue tailed lizards will rarely bite the dogs. Instead, the reptile tends to escape once it sees a dog as it fears being eaten. Blue tailed lizards do not contain venom and their bites cause no injuries on your dog (has no strong teeth).
 
-Blue Tailed Lizards may bring Salmonella Bacteria in your kennel, which may cause bacterial infection on your dogs skin.�In case your dog feeds on the BlueTailed Lizard, it may generate some complications. In addition, you dog may acquire liver fluke from Blue Tailed Lizards.
+Blue Tailed Lizards may bring Salmonella Bacteria in your kennel, which may cause bacterial infection on your dogs skin.In case your dog feeds on the BlueTailed Lizard, it may generate some complications. In addition, you dog may acquire liver fluke from Blue Tailed Lizards.
 
-Sources says that the dog may show symptoms such as dizziness, movement imbalance, fever, loss of appetite, or crossed eyes. If you notice such symptoms on your dog, kindly seek urgent medication from a dog professional or veterinary.�It is important to keep of your dogs from any Blue Tailed Lizard in your area.
+Sources says that the dog may show symptoms such as dizziness, movement imbalance, fever, loss of appetite, or crossed eyes. If you notice such symptoms on your dog, kindly seek urgent medication from a dog professional or veterinary.It is important to keep of your dogs from any Blue Tailed Lizard in your area.
 ## Will cats and dogs eat Blue Tailed Lizards?
 Absolutely! Cats and dogs hunt for blue tailed lizard and feed on them since they are small and easier to catch as compared to other animals  they dont run fast when in danger.
 
-Mostly, the cat highly feeds on these lizards since it is able to climb walls and roofs to attack them right in their hideouts.�Dogs, on the other hand, hunt blue tailed lizards in open fields/rocks and bushes where they hide among other species.
+Mostly, the cat highly feeds on these lizards since it is able to climb walls and roofs to attack them right in their hideouts.Dogs, on the other hand, hunt blue tailed lizards in open fields/rocks and bushes where they hide among other species.
 
 As stated above, blue tailed lizards may not be 100% present safe for your pets unlike other lizard species. It will transmit liver fluke to your pets, causing severe destruction if not quickly treated.
 
