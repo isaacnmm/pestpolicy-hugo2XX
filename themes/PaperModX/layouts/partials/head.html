@@ -2,24 +2,24 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-{{- if hugo.IsProduction | or (eq site.Params.env "production") }}
+{{- if hugo.IsProduction | or (eq .Site.Params.env "production") }}
 <meta name="robots" content="index, follow">
 {{- else }}
 <meta name="robots" content="noindex, nofollow">
 {{- end }}
 
-{{- $pageTitle := site.Title }}
+{{- $pageTitle := .Site.Title }}
 {{- if and .Params.seo_title (not .IsHome) }}
-  {{- $pageTitle = printf "%s - %s" .Params.seo_title site.Title }}
+  {{- $pageTitle = printf "%s - %s" .Params.seo_title .Site.Title }}
 {{- else if and .Title (not .IsHome) }}
-  {{- $pageTitle = printf "%s - %s" .Title site.Title }}
+  {{- $pageTitle = printf "%s - %s" .Title .Site.Title }}
 {{- else if .IsHome }}
-  {{- $pageTitle = site.Title }}
+  {{- $pageTitle = .Site.Title }}
 {{- end }}
 <title>{{ $pageTitle }}</title>
 
 {{- if .IsHome }}
-  {{ with site.Params.keywords -}}
+  {{ with .Site.Params.keywords -}}
     <meta name="keywords" content="{{- delimit . ", " }}">
   {{ end }}
 {{- else }}
@@ -34,7 +34,7 @@
   {{- if .IsPage -}}
     {{- .RawContent | plainify | truncate 150 "..." -}}
   {{- else if .IsHome -}}
-    {{- site.Params.description | default .Site.Title -}}
+    {{- .Site.Params.description | default .Site.Title -}}
   {{- else -}}
     {{- .Title -}}
   {{- end -}}
@@ -44,14 +44,14 @@
 
 <link rel="canonical" href="{{ with .Params.canonicalURL }}{{ . | trim }}{{ else }}{{ .Permalink }}{{ end }}">
 
-{{- if site.Params.analytics.googlesiteVerificationTag }}
-<meta name="google-site-verification" content="{{ site.Params.analytics.googlesiteVerificationTag }}">
+{{- if .Site.Params.analytics.googlesiteVerificationTag }}
+<meta name="google-site-verification" content="{{ .Site.Params.analytics.googlesiteVerificationTag }}">
 {{- end }}
-{{- if site.Params.analytics.yandexsiteVerificationTag }}
-<meta name="yandex-verification" content="{{ site.Params.analytics.yandexsiteVerificationTag }}">
+{{- if .Site.Params.analytics.yandexsiteVerificationTag }}
+<meta name="yandex-verification" content="{{ .Site.Params.analytics.yandexsiteVerificationTag }}">
 {{- end }}
-{{- if site.Params.analytics.bingsiteVerificationTag }}
-<meta name="msvalidate.01" content="{{ site.Params.analytics.bingsiteVerificationTag }}">
+{{- if .Site.Params.analytics.bingsiteVerificationTag }}
+<meta name="msvalidate.01" content="{{ .Site.Params.analytics.bingsiteVerificationTag }}">
 {{- end }}
 
 {{- /* Stylesheets bundling - adjust paths to your project */}}
@@ -67,15 +67,15 @@
 
 {{- $stylesheet := (slice $core $extended $extendedScss) | resources.Concat "assets/css/stylesheet.css" | minify }}
 
-{{- if not site.Params.assets.disableFingerprinting }}
+{{- if not .Site.Params.assets.disableFingerprinting }}
   {{- $stylesheet = $stylesheet | fingerprint }}
   <link crossorigin="anonymous" href="{{ $stylesheet.RelPermalink }}" integrity="{{ $stylesheet.Data.Integrity }}" rel="preload stylesheet" as="style">
 {{- else }}
   <link crossorigin="anonymous" href="{{ $stylesheet.RelPermalink }}" rel="preload stylesheet" as="style">
 {{- end }}
 
-<link rel="icon" href="{{ site.Params.favicon | default "favicon.ico" | absURL }}">
-<link rel="apple-touch-icon" href="{{ site.Params.appleTouchIcon | default "apple-touch-icon.png" | absURL }}">
+<link rel="icon" href="{{ .Site.Params.favicon | default "favicon.ico" | absURL }}">
+<link rel="apple-touch-icon" href="{{ .Site.Params.appleTouchIcon | default "apple-touch-icon.png" | absURL }}">
 
 {{- range .AlternativeOutputFormats }}
   <link rel="{{ .Rel }}" type="{{ .MediaType.Type | html }}" href="{{ .Permalink | safeURL }}">
@@ -85,11 +85,11 @@
   <link rel="alternate" hreflang="{{ .Lang }}" href="{{ .Permalink }}">
 {{- end }}
 
-{{- if hugo.IsProduction | or (eq site.Params.env "production") }}
+{{- if hugo.IsProduction | or (eq .Site.Params.env "production") }}
   {{- if .Site.Config.Services.GoogleAnalytics.ID }}
     {{- template "_internal/google_analytics.html" . }}
   {{- end }}
-  {{- if site.Params.useCustomAnalytics }}
+  {{- if .Site.Params.useCustomAnalytics }}
     {{- partialCached "custom_analytics.html" . "custom_analytics.html" }}
   {{- end }}
 {{- end }}
@@ -98,7 +98,7 @@
 {{- if .Params.cover.image }}
   <meta name="twitter:card" content="summary_large_image" />
 {{- else }}
-  {{- with site.Params.images }}
+  {{- with .Site.Params.images }}
     <meta name="twitter:card" content="summary" />
   {{- end }}
 {{- end }}
@@ -112,7 +112,7 @@
   {{- end -}}
 {{- end }}" />
 
-{{- with site.Params.socialAccounts.twitter }}
+{{- with .Site.Params.socialAccounts.twitter }}
   <meta name="twitter:site" content="@{{ .username }}" />
   <meta name="twitter:creator" content="@{{ .username }}" />
 {{- end }}
@@ -129,7 +129,7 @@
       display: none;
     }
   </style>
-  {{- if (and (ne site.Params.defaultTheme "light") (ne site.Params.defaultTheme "dark")) }}
+  {{- if (and (ne .Site.Params.defaultTheme "light") (ne .Site.Params.defaultTheme "dark")) }}
   <style>
     @media (prefers-color-scheme: dark) {
       :root {
