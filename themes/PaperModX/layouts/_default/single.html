@@ -16,20 +16,11 @@
       {{- end -}}
       {{- if .Draft -}}<sup><span class="entry-isdraft">&nbsp;&nbsp;[draft]</span></sup>{{- end -}}
     </h1>
-    {{- if .Description }}
-    <div class="post-description">
-      {{- .Description -}}
-    </div>
-    {{- end }}
-    {{- if not (.Param "hideMeta") }}
-    <div class="post-meta">
-      {{- partial "post_meta.html" . -}}
-      {{/* TODO move to footer */}}
-      {{/* partial "edit_post.html" . */}}
-      {{/* partial "post_canonical.html" . */}}
-    </div>
-    {{- end }}
+
+    {{/* Removed visible post-description */}}
+    {{/* Removed post-meta line (date, categories, etc.) */}}
   </header>
+
   {{- $isHidden := .Params.cover.hidden | default site.Params.cover.hiddenInSingle | default site.Params.cover.hidden }}
   {{- partial "cover.html" (dict "cxt" . "IsHome" false "isHidden" $isHidden) }}
   {{- if (.Param "ShowToc") }}
