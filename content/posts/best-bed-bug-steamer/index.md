@@ -30,7 +30,7 @@ Renowned for its durability and power, the Vapamore MR-100 is a top choice for s
 With a high-temperature steam output and a long-lasting boiler, it effectively kills bed bugs and their eggs in mattresses, furniture, and other hiding places.
 - **Key features:**High-temperature steam, durable construction, long-lasting boiler
 - **Best for:**Large infestations, heavy-duty cleaning
-https://www.youtube.com/watch?v=gro0c0mYqMw
+
 ## [2.**McCulloch MC1375 Steam Cleaner**](https://www.amazon.com/MC1375-Accessories-Extra-Long-Chemical-Free-Appliances/dp/B00G00BT72?th=1&linkCode=ll1&tag=p-policy-20&linkId=336eee2d191b9f4a99290c071d1cab13&language=en_US&ref_=as_li_ss_tl)
 The McCulloch MC1375 offers a good balance of power and affordability.
 Its versatile design allows you to clean various surfaces, including mattresses, carpets, and upholstery.

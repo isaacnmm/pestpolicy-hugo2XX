@@ -39,7 +39,7 @@ You might be very careful when it comes to prevention, but there are several way
 1. First off, identify anypotential sources of flea infestationfor your pet
 2. Be aware of areas where squirrels, coyotes, and other animals may have left behind eggs or larva, a potentially serious problem with their reproductive cycle
 3. Avoid places in which fleas and[ticks thrive](https://pestpolicy.com/do-squirrels-carry-ticks/)
-https://www.youtube.com/watch?v=pFXQYQftDFU
+
 ## How Do You Get Rid of Fleas on Pet Squirrels?
 Why doesn't anyone turn down orphaned squirrels at my practice with Nicole, our manager? I had a good time last night.
 

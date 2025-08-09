@@ -23,7 +23,7 @@ Having spider infestation in your home could be such a chilling moment, especial
 Related:
 [Exterminating Brown Recluse Spiders](https://pestpolicy.com/how-to-get-rid-of-brown-recluse-spiders/)
 ## How to Get Rid of Wolf Spiders
-https://www.youtube.com/watch?v=v6M_84t3oa4
+
 ### 1. Pesticides
 Most pesticides and Insecticides in the local market kill wolf spiders and
 hobo spiders
@@ -71,7 +71,7 @@ If you suspect that wolf spiders are lurking in your compound or house; then, co
 - You'll need to prepare or purchase several sticky traps.
 Then, lay them down strategically at places you suspect wolf spiders may pass or crawl (it may be your bedroom, garage, kitchen, store, yard, or toilet) and leave them for 5 days or so. Later, come and inspect your trap for any capture.
 Any trapped wolf spider should be disposed of far away from the compound. Ensure the sticky traps are placed far from kids and pets whatsoever.
-https://www.youtube.com/watch?v=A_kAVhRspJg
+
 ### 8. Wash spiders away
 Using pressurized water, from a hosepipe or jet stream, you can wash away wolf spider infestation. Usually, you aim water jet at the spiders' hideouts - the water pushes the spiders out instantly.
 - Upon removal, the spiders (plus their eggs) float in water and are easily washed away.

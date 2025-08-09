@@ -40,7 +40,7 @@ Though edible, green bananas should, least be used as meal for your beardie as i
 For every 100g of banana fruits, there is 422mg to 453mg of potassium mineral on average. This quantity is quite high as compared to other fruits such as grapes, mangoes or apricots.
 Potassium mainly regulates fluid balance, nerve signals and enables smooth muscle contraction of your beardie. NB: Ripe bananas have more potassium content that unripe ones.
 In addition, high potassium in bananas will help reduce water retention in the body and lower blood pressure of your beardie. Importantly, potassium will protect your beardie against kidney stones and osteoporosis/stroke.
-https://www.youtube.com/watch?v=rFL6Bmecvxs
+
 ### 4. Strong Antioxidant
 Bananas (especially Cavendish species) are considered to have high antioxidants such as dopamine, cetachins and gallocatechins. Gallocatechins will help reduce cholesterol (that cause clogging of inner lumen of blood vessels) accumulation in your beardie by breaking any cholesterol traces.
 On the other hand, dopamine will enhance oxidation of low-density lipoproteins and reduce plasma oxidative stress.

@@ -46,7 +46,7 @@ Pros:
 Cons:
 - Susceptible to rust
 
-https://www.youtube.com/watch?v=koe2ajei_VI
+
 > See Also:
 > Staining a Pressure Treated Wood
 ### [2. Earlex-HV5500 HVLP Gun Sprayer](https://www.amazon.com/dp/B004RGOKR2/?tag=p-policy-20)
@@ -75,7 +75,7 @@ Pros:
 Cons:
 - Expensive
 
-https://www.youtube.com/watch?v=p0pqTZ9mP1Q
+
 > See Also:
 > [Deck Sealer for Pressure Treated Wood](https://pestpolicy.com/best-deck-sealer-for-pressure-treated-wood/)
 ### [3. TCP Global Professional HVLP Spray Gun](https://www.amazon.com/dp/B001OZMOV8/?tag=p-policy-20)

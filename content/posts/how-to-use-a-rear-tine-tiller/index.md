@@ -36,7 +36,7 @@ Choosing the best tine tiller to work with depends on several considerations lik
 You can choose the best tiller to do your work by evaluating what both tillers can do, putting into consideration the above factors.
 Related:
 How to Till a Garden without a Tiller
-https://www.youtube.com/watch?v=0sjd3BOKL90
+
 ## **Construction and design**
 The
 **front-tine tillers**

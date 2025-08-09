@@ -51,7 +51,7 @@ Pros:
 Cons:
 - Not approved for areas having foot traffic
 
-https://www.youtube.com/watch?v=CTdavcuF6UI
+
 ### [2. Rust-Oleum 253536 Elegant metallic Accents Paint for Furniture, Doors, Trim](https://www.amazon.com/dp/B003EELMYM/?tag=p-policy-20)
 Rust-Oleum 253536 offers elegance in form of this Accents Paint that'll effectively revamp the color and outlook of your ceiling. Besides being great for ceiling painting, you can use it on a variety of exterior and interior DIY projects.
 
@@ -76,7 +76,7 @@ Cons:
 - Inadequate sparkle
 - Offers poor consistency
 
-https://www.youtube.com/watch?v=WB0oY40kX-g
+
 ### [3. KILZ Exterior/ Interior Enamel Patio and Porch Latex Floor-Paint](https://www.amazon.com/dp/B01MQCGX1T/?tag=p-policy-20)
 KILZ Exterior/ Interior is a unique paint for revamping the outlook of your patio floors, wooden porch, and decks. The paint will give the surfaces excellent protection and style -with even cheaper maintenance - easily extend your home space.
 
@@ -160,7 +160,7 @@ Cons:
 Many outdoor furniture may include plastic, aluminum, wrought iron, and wicker - you can get them that fresh stai on the
 cordless paint sprayers
 - painting and staining the outdoor furniture require comprehensive steps.
-https://www.youtube.com/watch?v=inBDiX_aBTI
+
 ### Step #1: Surface Preparation
 The outdoor require painting and staining will help keep the surfaces free from
 [mildew](https://www.benjaminmoore.com/en-us/contractors/job-solutions/troubleshooting/mildew)

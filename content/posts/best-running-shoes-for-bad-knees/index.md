@@ -40,7 +40,7 @@ runners
 to use the shoe for an extended period and
 [losing weight](https://pestpolicy.com/how-to-exercise-with-[bad](https://pestpolicy.com/how-to-exercise-with-bad-knees-to-lose-weight/)-knees-to-lose-weight/)
 .
-https://www.youtube.com/watch?v=NTkZ9GqKD3U
+
 ### [2. ASICS Men's Gel-Venture 6 Running Shoe - #2 Pick](https://www.amazon.com/dp/B0725BSK2P/?tag=p-policy-20)
 GEL-Venture 6 comes with an excellent outsole to give you adequate traction in all your run on rough roads. A
 [recent study](http://www.ncbi.nlm.nih.gov/pubmed/23377837)
@@ -52,7 +52,7 @@ Further, it's excellent cushioning will give you a smooth ride as it absorbs all
 This shoe is also championed to be fantastic
 footwear for supination
 . It has rear-foot Gel Cushioning assists a runner in taking off the shock that land on foot. It's comfortable and has fantastic sizing.
-https://www.youtube.com/watch?v=wnkq-o2R4Hw
+
 Read Also:
 Running Shoes vs. Walking Shoes for Weight Loss
 ### [3. Brooks Men's Glycerin 14 - #3 Pick](https://www.amazon.com/dp/B017MZ9UHO/?tag=p-policy-20)

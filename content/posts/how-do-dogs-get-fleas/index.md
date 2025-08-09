@@ -33,7 +33,7 @@ To prevent fleas from jumping onto dogs from the wild animals, it's important to
 Further, remove garbage and garbage bins from your backyard as they could attract wildlife. For example, removing garbage may help prevent the coming of hungry
 raccoons and foxes - this could have brought fleas to your dogs.
 However, dogs may still socialize with various wildlife and other pets -which implies that the most critical control of fleas will be using an effective and regular flea treatment.
-https://www.youtube.com/watch?v=WCagGpFKdh0
+
 ### 2. Contact with Domestic Animals
 Flea-infested domestic animals and pets may also pose a risk to making dogs get fleas. For example, dogs may also get fleas through contact with feral animals and other domestic pets such as cats.
 - You'd note that Ctenocephalides canis ([dog](https://pestpolicy.com/best-dog-beds/) fleas) may not just attack and suck blood from cats but could also jump onto and bite dogs and their puppies.

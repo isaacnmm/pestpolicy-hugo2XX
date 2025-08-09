@@ -28,7 +28,7 @@ I'll describe the best heat sink single to cool your raspberry pi 3.
 It will, if you have a reliable
 Pi 3 Operating System
 , reduce hardware failure risk, and extend the pi 3's lifetime.
-https://www.youtube.com/watch?v=NPkFuWP2CoQ
+
 Read Also:
 [Raspberry Pi 3 B Review + Performance](https://pestpolicy.com/raspberry-pi-3-b-review/)
 .

@@ -38,7 +38,7 @@ With the transport only mode, you can safely move the tiller without tines spinn
 This unit is loved by both professionals and DIY homeowners for all soil types. Its rear and side shields are serrated and equally adjustable  which significantly improves the tiller's safety and performance.
 Ease of operation  With the exceptional hand-operated mechanism, you can simply hold the tiller  steering it with one hand as you stand on the uncultivated ground.
 Further, the tiller has a front counterweight thats fixed on the pneumatic wheels (13-inch) that equally have AG tread tires. Its drag bar is also easy to adjust  which improves the tillers balance.
-https://www.youtube.com/watch?v=65z13-mQ6y4
+
 ### [2. Poulan Pro PPCRT17, (208cc) - Husqvarna Rear Tine Tiller](https://www.amazon.com/dp/B019DY7J8O/?tag=p-policy-20)
 Poulan Pro PPCRT17 is an excellent rear tine tiller for micro farmers or home gardeners as it's powerful but not smaller.
 Its an excellent option for anyone who struggles with pushing the heavy rear tillers.

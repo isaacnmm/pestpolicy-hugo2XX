@@ -29,7 +29,7 @@ Next, you will add 770 ml (26 Oz) of water into the container that has the cedar
 Finally, turning on the water makes it properly dilute your cedar oil to a concentration that will control the pests.
 The cautions involved in this pest remedy are to effectively read the product instructions because various brands may have a different dilution ratio.
 - When you mix 120 ml of cedar oil with 770 ml of water, you'll have made enough spray to pest-treat about 5000 square feet.
-https://www.youtube.com/watch?v=_WHXX7vaMy8
+
 ## Which Pests Can Be Controlled By Cedar Oil?
 Cedar oil is mainly composed of cedrene and cedrol - components that create
 [cedar camphor.](https://ecommons.cornell.edu/bitstream/handle/1813/56116/cedarwood-oil-MRP-NYSIPM.pdf?sequence=1)

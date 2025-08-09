@@ -50,7 +50,7 @@ Notably, your bad knee will not love an intensive workout. Therefore, youll have
 Notably, avoid rushing to a new sport without training the relevant muscles. For example, if youll be starting tennis in the next month, ensure you strength train relevant muscles, which will prepare you to handle the physical stress resulting from the game.
 ### Balance your workouts
 Like your proper and healthy diet, exercises should come in a balanced manner. Therefore, avoid following a similar workout plan over and over again: itll weaken your joints, and its monotonous too.
-https://www.youtube.com/watch?v=4UxUfRb619A
+
 ## Conclusion
 Therefore, bad knees could be painful and stressful as your attitude can fall or rise. Youll need to consume the right information regarding the proper exercises that will benefit both your bad knee and other muscles.
 After all, it is clear that bad knee should not hamper your workout and fitness journey. Therefore, mix up your workouts with cross-training, lunges, squats, and days off for rest.

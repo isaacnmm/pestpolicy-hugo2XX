@@ -40,7 +40,7 @@ Cons:
 - Other entities can easily access your data
 ?
 
-[embed]https://www.youtube.com/watch?v=bJ-OOuPk-5Q[/embed]
+[embed]
 ### [2. Dell Inspiron 15 7559](https://www.amazon.com/dp/B01FUUKEFU/?tag=p-policy-20)
 Over the years, Dells Inspiron has built a name for itself. Despite not having a fancy attribute, the satisfying quality attributed with Del computers is not left out.
 Looks are deceiving with this laptop, despite looking simple it is a subtle beast. It stands out as a very powerful laptop found in the market.

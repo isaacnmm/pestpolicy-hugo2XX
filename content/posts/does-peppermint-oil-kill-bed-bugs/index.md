@@ -71,7 +71,7 @@ The pests will lay many eggs for a short time and that is how your house may bec
 The peppermint oil and rubbing alcohol will thus be very important as they will kill the bed bugs before the bed bugs hatch.
 ## Alternative Remedies to Kill Bed Bugs
 Peppermint oil is a good repellent and killer for bed bugs but there are alternatives that you can use.
-https://www.youtube.com/watch?v=7Obtru04wBE
+
 ### 1. Diatomaceous earth
 Diatomaceous Earth will be a great and safe remedy you can use as an alternative to chemical pesticides.
 - Diatomaceous earth is made of non-chemical grains (sand-like) that are made of silicon and it is a safe alternative.

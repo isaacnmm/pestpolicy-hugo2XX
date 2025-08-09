@@ -28,7 +28,7 @@ Fender Duo-Sonic is smaller (equally portable) and has a shorter scale (hence mo
 
 This Duo-Sonic has a relatively bigger offset body, in addition, to reverse polarity or reverse wind circuits to allow great humbucking. It gives very aggressive neck and bridge tones  as noted above are great for Strat squall & Tele twang.
 The guitars shorter scale provides change to employ strings of heavier gauge  and thus has slinkier tension enables the strong to bend even for 0.014s or 0.013s allowing it to give great tone. It offers maximum note separation.
-https://www.youtube.com/watch?v=qe3c6jSB9sE&feature=youtu.be
+
 Related:
 7 Best Acoustic Guitar Under 300
 ### [2. Mustang 90 Short Scale Offset Guitar - #2 Pick](https://www.amazon.com/dp/B01KWPTJAO/?tag=p-policy-20)
@@ -37,7 +37,7 @@ Fender Mustang 90 is an indie classic popularly known as the exceptional garage 
 With a 9.5-inch fingerboard radius and 24-inch scale length, this Fender Mustang 90 has a highly playable fretboard (better than a full-size guitar) and quality components. It has a great polyester finish in addition to the aesthetic alder wood.
 It has a master volume, tone control, and 3-way pickup, which are all great for beginners. For additional resonance, the manufacturer included the 6 saddle string. It'll work great for unconventional style and garage rock.
 Fender Mustang 90 has a compact shape that makes it highly playable for kids or people with small hands. Also, it's great for being easy to play has low action and short frets. Also, its highly portable and light with a 9.5-inch fretboard radius.
-https://www.youtube.com/watch?v=7PB5y-gEOUw&feature=youtu.be
+
 
 Read Also:
 Headphones for Music Production
@@ -47,7 +47,7 @@ Next up is the Gibson SG Special 2016 T, which in simple terms is durable, sturd
 Its mini-humbuckers allow thick-fat sound in addition to warm vintage tones. I loved that the guitar is resonant and clear. I noticed that its highly playable and comfortable in my hands with its beveled edges, smooth contours, and slimline designs.
 Equally, this guitar has a 4-way rhythm or treble switch, in addition to separate tone and volume controls. In addition, it has a stop bar tailpiece and Tune-o-Matic bridge that will enhance tuning stability & sustain.
 This Gibson SG Special 2016 T was popularly used by players such as Tommy Iommi or Jimi Hendrix. It has a solid mahogany body in addition to the 1-11/16 nut width and mahogany neck.
-https://www.youtube.com/watch?v=SSDyLpBK0vI&feature=youtu.be
+
 Related:
 7 Best Headphones for Guitar Amps
 ### [4. Epiphone G-400 Pro Electric Guitar with Coil-Splitting](https://www.amazon.com/dp/B007AGR5JQ/?tag=p-policy-20)

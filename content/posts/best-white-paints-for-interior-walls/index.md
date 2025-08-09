@@ -50,7 +50,7 @@ Cons:
 - Not best for Commercially interior walls like theatre
 - May need more coats for rough surfaces.
 
-https://www.youtube.com/watch?v=CRXCB_3gLok
+
 > See Also:
 > Removing the Paint From Concrete
 ### [2. Drylok 28613 Extreme Latex Masonry Waterproofer Interior paint](https://www.amazon.com/dp/B0014AZ3ES/?tag=p-policy-20)
@@ -80,7 +80,7 @@ Cons:
 - Not best for kitchen walls  weaken.
 - Need primer for rough interior walls
 
-https://www.youtube.com/watch?v=3toY7CrJrM8
+
 ### [3. CALIWEL HOME & OFFICE LATEX PREMIUM INTERIOR PAINT](https://www.amazon.com/dp/B00IKVJO9E/?tag=p-policy-20)
 Caldwell is a water-based paint that features a high-quality natural ingredient that acts instantly upon application without dripping. The low odor paint is well refined to improve molecular stickiness and reduce peeling that may occur.
 

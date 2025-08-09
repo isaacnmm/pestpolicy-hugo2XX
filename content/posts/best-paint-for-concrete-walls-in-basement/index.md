@@ -39,7 +39,7 @@ Pros:
 Cons:
 - None
 
-https://www.youtube.com/watch?v=D9OePSL7I_8
+
 > See Also:
 > Great Way to Remove Paint from Concrete
 ### [2. INSL-X AMW100009A-01 WaterBlock Acrylic Masonry Waterproofer Paint](https://www.amazon.com/dp/B07KXN7XSY/?tag=p-policy-20)
@@ -58,7 +58,7 @@ Pros:
 Cons:
 - Not very good on floors
 
-https://www.youtube.com/watch?v=v4BPuil3S2o
+
 > See Also:
 > Pressure Treated Wood Be Sealed
 ### [3. The Spruce Best Home by KILZ 15125501](https://www.amazon.com/dp/B07QFYNVC3/?tag=p-policy-20)

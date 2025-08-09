@@ -70,14 +70,14 @@ You can purchase beneficial nematodes in different local or online stores to con
 - Ensure your spray holds the highest pressure, as this will help prevent blockage. Shake your sprayer while continuing with the spraying to prevent the nematodes from settling at the bottom of the bottle.
 Caution: Spray at sunset or early morning as this is when the nematodes will be highly active. Further, the ground temperature must be below 60F to prevent nematode death.
 - One package of nematodes can treat an area of about 1,600 square feet for termites. The nematodes will be in powder or granule form to allow easier mixing and dissolving.
-https://www.youtube.com/watch?v=Zd8P5Nv7MLA&feature=youtu.be
+
 ### 6. Borates
 Borax powder (Sodium borate) is mainly used as a laundry cleaner, but it's also an effective home remedy for controlling termites. You can mix the borax with water and spray or sprinkle the powered around the house - see
 [this guide](http://nisuscorp.com/pest-management-professionals/products/bora-care#The-Science-Behind-Bora-Care)
 .
 - Borates applied on the foundation penetrations, expansion joints, plumbing penetrations, concrete, and wood surfaces will penetrate and offer extended termite control. Keep the surfaces sealed to protect them from moisture.
 Disodium octaborate tetrahydrate (DOT) is the chemical component of borates is safe for plants and humans but relatively toxic to fungi and insects.
-https://www.youtube.com/watch?v=yZFXPLG_Uy0
+
 ## Conclusion
 Besides the home termite control methods outlined above, I recommend taking preventive measures against the bugs and their babies.
 Keep any cellulose, cardboard, firewood, or wood away from the house as they tend to attract termites into the yard and home. Also, ensure adequate drainage and excellent ventilation for the interior and exterior of your house.

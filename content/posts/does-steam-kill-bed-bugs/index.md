@@ -24,7 +24,7 @@ Bed bugs are small insects that look a little like the seeds from an apple. They
 
 Bed bugs live off the blood of animals and humans and don't only live in our beds, although it's easy to see why a thick warm mattress can make a great home and hiding place with a regular, easy food supply.
 
-https://www.youtube.com/watch?v=f_tTehoyQng
+
 
 Bed bugs don't have wings but travel quickly across floors and can climb walls. Infestations are not always easy to spot until their numbers have grown and they can be difficult to get rid of.
 
@@ -42,7 +42,7 @@ The best way to use
 [vacuums or steamers](https://pestpolicy.com/best-bed-bug-steamer/)
 to kill bed bugs is to apply the steam using a brush or tool attachment. The broader the attachment the better in order to distribute the heat to a wider area at a time.
 
-https://www.youtube.com/watch?v=15mfpAmrlqg
+
 
 The good thing is that bed bugs do not need to be exposed to this degree of heat for a long time before they succumb so you will not need to concentrate the steamer on the same area for long.
 

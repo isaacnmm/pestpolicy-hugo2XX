@@ -33,7 +33,7 @@ from home.
 One thing that you should bear in mind is that baking soda cannot get shot with
 [fleas](https://extension.psu.edu/cat-fleas)
 when it is used on its own. However, when used in conjunction with salt, it can become a fleas worst nightmare.
-https://www.youtube.com/watch?v=xQymqfA3vXs
+
 This is a great natural way to treat any
 home with an infestation of fleas
 , and it is a perfect choice for homes with children where the use of pesticides and sprays might not be 100% safe.
@@ -68,7 +68,7 @@ killing fleas on your pet
 with baking soda. While there is some advice suggesting that you can use baking soda on your pet to remove fleas, it is a much more sensible idea to use
 diatomaceous earth
 on the animal itself. This is a tried and tested method of killing fleas on your pet.
-https://www.youtube.com/watch?v=qjUn0xsoce4
+
 ## Conclusion
 There are many
 [natural and inexpensive ways to kill fleas](https://pestpolicy.com/does-apple-cider-vinegar-kill-fleas/)

@@ -38,7 +38,7 @@ andclean out dirt effectively, but you must place it very close to a powers sour
 However, the dog hair tends to cling on the pet hair attachment  and thus might require cleaning after youre done vacuuming and
 [cleaning a clogged drain](https://pestpolicy.com/best-drain-cleaner//)
 .
-https://www.youtube.com/watch?v=bmD-FgVvpMU
+
 ## [2. #2 Pick:Hoover WindTunnel T-Series Pet Bagged Upright Vacuum](https://www.amazon.com/dp/B001304XKE/?tag=p-policy-20)
 
 Hoover WindTunnel T-Series is an Uprightand budget-friendly
@@ -56,12 +56,12 @@ killing bed bugs and their babies
 The vacuum includes the HEPA Media Bag (made from Activated Carbon) allow easy trapping and filtering of dirt and foul odors.
 However, remember to replace the vacuum bag when it's filled with dog hair.
 Further, clean the vacuum filters regularly to ensure smooth operation to keep both the side and bag compartment working well.
-https://www.youtube.com/watch?v=YgLmDqbgIeo
+
 Related:
 Best Bed Bug Steamer
 ## [3. #3 Pick:Miele Triflex-HX1 Cat and Dog Battery-Powered Bagless](https://www.amazon.com/dp/B075S9NZJL/?tag=p-policy-20)
 
-https://www.youtube.com/watch?v=f45MxrWK3LQ
+
 ## [4. BObsweep PetHair Plus Robotic Vacuum Cleaner & Mop](https://www.amazon.com/dp/B01JSSGSY6/?tag=p-policy-20)
 
 Next up is this bObsweep PetHair Plus thats great for cleaning dog hair, mopping, filtering dirt particles, sweeping and general home vacuuming, and also cleaning hardwood flooring.

@@ -47,7 +47,7 @@ Pros:
 Cons:
 - None
 
-https://www.youtube.com/watch?v=ggjgO6udpYw
+
 Related:
 2.1 vs 5.1 Soundbar
 ### [2. VIZIO SB2920-C6 Soundbar (2.0 Channel + 26 Inches) - #2 Pick](https://www.amazon.com/dp/B00SMBFZNG/?tag=p-policy-20)
@@ -93,7 +93,7 @@ Pros:
 Cons:
 - Low quality cable
 
-https://www.youtube.com/watch?v=M8rhRBHVJFw
+
 ### [4. TaoTronics 4 (Wireless & Wired 4.2 Spekears) - #4 Pick](https://www.amazon.com/dp/B078P4291Z/?tag=p-policy-20)
 TaoTronics 4 is made by the proficient TaoTronics company - its a budget-friendly soundbar that has Bluetooth, 11-meters remote control suitable for gaming, family entertainment, and theaters.
 

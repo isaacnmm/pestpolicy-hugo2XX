@@ -38,7 +38,7 @@ Cons:
 - Inhumane
 - Difficult to dispose of and clean
 
-https://www.youtube.com/watch?v=v9lK8AeMqMs
+
 
 Read Also:
 Ant Killer for Yard
@@ -58,7 +58,7 @@ Pros:
 Cons:
 - Can only trap one rodent at a time
 
-https://www.youtube.com/watch?v=Slf8d8BT_m4
+
 
 Read Also:
 [Snake Repellent for Yard](https://pestpolicy.com/best-snake-repellent-for-yard/)
@@ -81,7 +81,7 @@ Cons:
 - Cannot be placed in a wet or moist place
 - A bit overpriced
 
-https://www.youtube.com/watch?v=VxOxWXaFwQE
+
 Related:
 How to Get Rid of Roof Rats in Attic
 ### [4. AB Pro-Quality Live Humane Animal Trap](https://www.amazon.com/dp/B013FLER72/?tag=p-policy-20)

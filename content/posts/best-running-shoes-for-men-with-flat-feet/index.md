@@ -44,7 +44,7 @@ The design of these shoes is built to offer comfort, support, and stability. The
 Youll appreciate the ASICS Impact Guidance System which allows feet to roll naturally as you run. As a flat-feet runner overpronation may cause you more pain as you run interfering with your running sessions. Wearing this Gel-Kayano 24 helps to prevent your feet from rolling inwards. As a result, you get to clock many miles without fear of any injuries.
 Most if not all users appreciate the comfort and support these shoes provide. The shoes feature a cushioning system with an amazing gel technology that aids in shock absorption.
 Runners with flat feet are protected from feeling the intense ground impact as the shock is absorbed to give them a more comfortable ride.
-https://www.youtube.com/watch?v=DGWDZQJqDfU
+
 Read Also:
 Work Shoes for High Arches
 ### [3. Brooks Men's Beast '18 Super DNA Midsole](https://www.amazon.com/dp/B077TD3C6G/?tag=p-policy-20)

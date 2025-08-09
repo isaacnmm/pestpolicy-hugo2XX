@@ -30,7 +30,7 @@ With about 3,000 strokes every minute, and an eight-inch stoke, the reciprocatin
 
 Depending on the distance between you and your attacker, youll need to choose the Best Self Defense Weapon Besides Gun wisely.
 
-https://www.youtube.com/watch?v=t0DwdGKGzgk
+
 
 Read Also:
 Driveway Alarms Reviewed
@@ -76,7 +76,7 @@ For example, using a knife would require that you get close to your attacker. Bu
 
 In such cases, a reciprocating saw, pepper spray, batons, or sword walking sticks can help you protect yourself in case of a home invasion.
 
-https://www.youtube.com/watch?v=WwC6CRAnNyk
+
 
 Read Also:
 [Select a Wireless Driveway Alarm](https://pestpolicy.com/how-to-select-a-wireless-driveway-alarm/)
@@ -94,7 +94,7 @@ The flipping unit is spring-loaded to prevent any activation through an accident
 - Further, it will be highly effective on mentally unstable persons or those under the influence of alcohol or other drugs.
 Protect yourself against rape, robbery, murder, and violent crimes easily with the Fox 5.3 self Defense Spray.
 
-https://www.youtube.com/watch?v=hG4vjIxcd8Y
+
 
 Read Also:
 [Crossbow for Self Defense](https://pestpolicy.com/best-crossbow-for-self-defense/)
@@ -117,7 +117,7 @@ The Taser also has a timer that will alert you when to fire, mainly when its car
 
 Further, you can purchase an extended battery that will enhance more grip and allow you to store an extra cartridge at the bottom that will be easily accessible while dealing with your attacker.
 
-https://www.youtube.com/watch?v=4g9hC7jrDms
+
 
 Read Also:
 [Long Range Wireless Driveway Alert System](https://pestpolicy.com/long-range-wireless-driveway-alert-system/)

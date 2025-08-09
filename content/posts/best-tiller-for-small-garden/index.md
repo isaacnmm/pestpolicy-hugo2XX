@@ -37,7 +37,7 @@ Pros:
 Cons:
 - Hard to assemble
 
-https://www.youtube.com/watch?v=S_xTLzzTZHo
+
 Read Also:
 [Best PTO [Tiller](https://pestpolicy.com/best-tiller-for-breaking-new-ground/) For The Money](https://pestpolicy.com/best-pto-tiller-for-the-money/)
 ### [2. Earthwise TC70025 7.5 corded electric tiller](https://www.amazon.com/dp/B06Y24KQYN/?tag=p-policy-20)
@@ -60,7 +60,7 @@ Pros:
 Cons:
 - It has a small electric cord
 
-https://www.youtube.com/watch?v=CNlWgnmbX3Y
+
 Read Also:
 Best Rotavator for Allotment
 ### [3. Earthquake MC43 cultivator 43cc 10](https://www.amazon.com/dp/B07L9YVTCB/?tag=p-policy-20)

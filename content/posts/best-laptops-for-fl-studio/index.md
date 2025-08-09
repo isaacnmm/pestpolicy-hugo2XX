@@ -35,7 +35,7 @@ ASUS VivoBook N705UD also has an NVidia graphics card (GTX 1050), which is gamin
 Youll get top color accuracy, clarity, and sharpness with this laptops 4K UHD display, which is great for FL Studio, photo & video editing.
 Further, its i7-8550U processor will take less power consumption. It comes with a remarkable graphics card (NVidia GeForce 1050), 256GB SSD, and a 16GB RAM. The Intel Core i7 processor has the huge Turbo mode and thus its cores will easily overclock to about 3.2 GHz (920XM).
 It has the star-gray finish with the great build quality and solid input devices (suitable for traveling music production). Its also lighter and sleeker compared to other laptops in its class.
-https://www.youtube.com/watch?v=gkjOk_U-2HI
+
 Related:
 7 Best Sound Cards for Music Production
 ## [2. Lenovo Legion Y720 - 15.6" (Intel Core i7) 8GB RAM - #2](https://www.amazon.com/dp/B074L1NK79/?tag=p-policy-20)
@@ -45,7 +45,7 @@ Its audio is amazingly fine-tuned by JBL while it also has equalization presets 
 Looks aside, this laptop has a Thunderbolt 3 port on the right, main display port, two USB 3.0 ports, and an HDMI port. On the left, the laptop has another USB 3.0 port, an Ethernet jack, a power connector, and an audio jack.
 Its sound is exceptional  this is one of the outstanding features of this Lenovo Legion Y720 laptop. It can fill up your large room with a lot of each.
 It doesnt distort (even at maximum volume)  the highs are great, you can hear the vocal, with the Mids being nice and clean  in addition to having bass. It accomplished all the above sound features with 2 speakers at its front and the subwoofer at the bottom.
-https://www.youtube.com/watch?v=zk8yrTGpn1Y
+
 ## [3. HP ENVY 17.3 inch Touchscreen i7-8550U Quad-Core - #3](https://www.amazon.com/dp/B07BPYB7NL/?tag=p-policy-20)
 The HP ENVY 17.3" is a great bargain laptop and is marketed as an excellent computer to replace your regular desktop.
 
@@ -81,7 +81,7 @@ For effective communication between the sound card and your FL Studio DAW, the A
 I would say that a 16GB RAM would be adequate for handling the FL studio DAW, particularly if you're running many sample-based instruments.
 ## Conclusion
 However, make sure your laptop comes with extra free RAM slots to allow future RAM upgrade - but add RAM in pairs all the time. Laptops have CL9-11 RAM. Hence,
-[frequency](https://www.youtube.com/watch?v=dWgzA2C61z4)
+[frequency](
 &
 channels
 are not significant in this production.

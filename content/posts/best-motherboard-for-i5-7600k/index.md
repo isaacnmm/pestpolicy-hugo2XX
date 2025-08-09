@@ -41,7 +41,7 @@ Pros:
 - Top UEFI BIOS build
 Cons:
 - Has no UEFI RGB LED design
-https://www.youtube.com/watch?v=O_7sikq5k14
+
 ### [2. MSI Pro Z270 SLI PLUS DDR4](https://www.amazon.com/dp/B01MR32I8L/?tag=p-policy-20)
 Z270 SLI Plus is SLI and thus is great for heavy work and gaming with Intels top chipset. It has Military Grade 5 elements, supports Crossfire, and SLI, USB 3.1, and has Turbo M.2 slots.
 T
@@ -79,7 +79,7 @@ Pros:
 - Smart Fan 5 with Hybrid Fan Headers and Temperature Sensors
 Cons:
 - None
-https://www.youtube.com/watch?v=LQp7tJRydqM
+
 ### [4. ASRock Fatal1ty Z170 Gaming K6](https://www.amazon.com/dp/B013M795RG/?tag=p-policy-20)
 The ASRock Fatal1ty Z170 Gaming K6 will be an excellent gaming motherboard that will be compatible with your i5 7600k CPU supporting the LGA 1150 or 1151 Socket and Killer E2400 network.
 T

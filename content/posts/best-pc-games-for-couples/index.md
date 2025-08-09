@@ -24,7 +24,7 @@ You can now play Overcooked, created by Ghost Town Games, on your Xbox One, Play
 Overcooked is truly a joyful and stressful PC game, tasking a maximum of 4 players in cooking food.
 BRING MORE MUSHROOMS! This is a common cry of all the angry chefs on Overcooked co-op game
 Check an amazing Overcooked game review
-https://www.youtube.com/watch?v=iwnZiraNRys
+
 It is a game where you and your spouse will sizzle and simmer but also work hard not to spoil the broth. Notably, there will be chaos, screams, and shouts that will not just be nerve breaking but also exciting.
 - Sure enough, as the clock ticks, youll need more coordination and cooperation in chopping vegies, stirring soup, and cleaning the dishes.
 - Further, each higher level will come with a complex and different dish that you will enjoy cooking with your husband or wife.
@@ -41,7 +41,7 @@ You will guide friends and Sackboy around planets that look like the Earth. You 
 **Teamwork **
 The game has simplified roles such as moving about, hanging on objects, and jumping. Also, you can swing arms or make faces until you and your spouse have enough fun.
 Well, at this point you can check the Little Big Planet full video review.
-https://www.youtube.com/watch?v=4AA63j-3qZg
+
 Well, youll definitely have fun with your spouse as the game has easy controls and upper levels that are harder but curious to achieve.
 Read Also:
 Gaming Chair for Tall Person
@@ -52,7 +52,7 @@ Both of you will take turns in battle station operations, defense, and weapon ma
 > The aim in Lovers in a Dangerous Spacetime is to locate 5 space-bunnies so as to unblock a gigantic love heart. Consequently, with the heart, you can now move to the next stage in the gaming campaign  one among 4 campaigns in the game.
 However, there are different kinds of enemies and sceneries on the way that could harm you and thus affect your shooting techniques, flying capability, and functioning of your weapons.
 Check the full review.
-https://www.youtube.com/watch?v=HSlgNUJ3UwE
+
 - Therefore, brace yourself with the required[steam link [controllers](https://pestpolicy.com/best-controller-for-retropie/)](https://pestpolicy.com/best-controller-for-steam-link/), and enjoy a thrilling and hilarious coop game with your lover.
 - However, if you prefer to go it solo, for now, load the game and challenge yourself into the strategically-designed gaming campaign.
 With your partner (co-pilot), you will be required to fly a circular spaceship having varied terminals through different space stations, asteroid belts in a rescue mission.

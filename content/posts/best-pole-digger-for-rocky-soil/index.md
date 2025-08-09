@@ -36,7 +36,7 @@ Pros:
 Cons:
 - Relatively heavy (35lbs)
 
-https://www.youtube.com/watch?v=aVkNCYTq_cw
+
 ### [2. Southland SEA438 One Man Earth Auger with 43cc, 2 Cycle](https://www.amazon.com/dp/B0063MSXYY/?tag=p-policy-20)
 If you are looking for beastly performance in a hole digger, the SEA438 series is the ultimate tool to go for.
 
@@ -55,7 +55,7 @@ Pros:
 Cons:
 - Gasoline powered and unfriendly to the environment
 
-https://www.youtube.com/watch?v=CY5YyXwTqwI
+
 Read Also:
 Best Tiller For Roots
 ### [3. XtremepowerUS V-Type 55CC 2 Stroke Gas Post Hole Digger 3/4" Shaft 1-Man Auger](https://www.amazon.com/dp/B00CAY8WTU/?tag=p-policy-20)

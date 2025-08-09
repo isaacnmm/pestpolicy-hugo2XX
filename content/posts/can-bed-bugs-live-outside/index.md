@@ -25,7 +25,7 @@ Their name might suggest that they prefer to inhabit a bed, but this is misleadi
 
 When looking for a place to stay, one of the main priorities is food, and bed bugs will live wherever food can be most easily accessed. In answer to the question of can bed bugs live outside, they can, but they prefer not to.
 Bed bugs have become used to living in the indoor environment, and as we mentioned, they live where there is food. These minute pests feed off a host, in this case, a human, and so they will find homes where their host can be easily accessed.
-https://www.youtube.com/watch?v=Y1QXtI2IhB4
+
 Humans spend a lot of time within the home; it makes sense for the bed bugs to do the same. That being said, bed bugs can often be found in outdoor areas which are frequented often by their human hosts; this can include things such as;
 - cars
 - outdoor furniture such as deck chairs and wooden tables
@@ -44,7 +44,7 @@ Bed bugs cannot fly or jump, like their distant cousins, the
 , but they can still return into a house by way of attachment once they have been sent packing.
 They do this by simply being on something that is returned inside; for example, if they live in a garden table, you then cover with a table cloth for a BBQ.
 Once the BBQ is over, you return the table cloth into the home, and any bed bugs that have latched onto it will hitch a ride inside.
-https://www.youtube.com/watch?v=yChSIxn_9A8
+
 It is essential that if you know there is a bed infestation outdoors or recently evicted some from within the home, you are extremely careful when bringing things back in from outside.
 It is also worth noting that while they are tiny insects, they can travel around 20 meters in any one day and so can quickly march right back into the home should they wish to.
 ## How Can I Get Rid Of Bed Bugs

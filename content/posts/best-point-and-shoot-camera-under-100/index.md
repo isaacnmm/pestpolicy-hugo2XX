@@ -40,7 +40,7 @@ With 5 times zoom, this camera will take great detailed 20 megapixel photos with
 Next up is the Sony Cyber-Shot DSC-W800. Its an amazing kit thatll help you capture those treasurable memories. With 5 times zoom, this camera will take great detailed 20 megapixel photos. Its easy to use and you can easily pick up the settings youll require to use.
 This point and shoot camera can also comfortably sit on your tripod. It's so small that you can just fit into your pocket as you move out or travel. But it doesn't have WIFI or dynamic range.
 Further, if you deem that photo wont serve the required purpose, you can shoot a high-definition video with sound, and using the panoramic shots, you can capture your 360 degrees in a single sweep at a touch of a single button.
-https://www.youtube.com/watch?v=70V2IgDKaVY
+
 Read Also:
 Bass Compressor Pedal
 ### [3. Nikon COOLPIX A10 with 5x optical zoom (720p HD videos) - #3 Pick](https://www.amazon.com/dp/B01MRCWQRM/?tag=p-policy-20)

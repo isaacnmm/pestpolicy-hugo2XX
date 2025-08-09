@@ -34,7 +34,7 @@ Pros:
 Cons:
 - Features a small dust collection bag
 
-https://www.youtube.com/watch?v=dU7dxuZkSlE
+
 ### [2. TACKLIFE Belt Sander + Sanding Belts (13 Pcs) + Variable-Speed - #2](https://www.amazon.com/dp/B076GVG4J6/?tag=p-policy-20)
 This belt sander is packed with terrific features, making it the ultimate choice for DIYers and professionals alike. Hence, it is ideal for work and home improvement alike because it is premium workmanship.
 One of the best features of this unit is that it features 13 pieces of sanding belts (7pcs 80 grit aluminum oxide and 6pcs 120 grit), which not only saves you money but also meets different needs for your various projects.

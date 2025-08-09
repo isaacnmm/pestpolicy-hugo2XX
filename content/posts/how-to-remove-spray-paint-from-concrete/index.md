@@ -53,7 +53,7 @@ Procedure to Follow
 The TSP breaks down the spray paint molecular bonds forming a thick liquid that is easily washed out with water. But
 TSP is highly toxic
 and may be harmful if it runs into water bodies.
-https://www.youtube.com/watch?v=RyVT4vKIcN8
+
 ### Method #2: Using Graffiti remover
 Graffiti removers are manufactured with strong ingredients,s which penetrate deeply and break down the paint layer without affecting the concrete structure.
 These products are manufactured in forms such as trigger sprayers, aerosol cans, pastes, sponges, liquid solutions, or wipes for optional selection.
@@ -74,7 +74,7 @@ Procedure to follow
 NB: This method is best for vertical concrete as it minimizes dripping that may occur during the spray paint removal. Importantly, it is relatively cheaper and efficient as compared to thinner and TSP.
 See Also:
 Remove Paint from Concrete without Chemicals
-https://www.youtube.com/watch?v=mdz2JqEUi2U
+
 ### Method #3: Scrub with Soapy Detergent and Water
 The use of soapy detergent and water is the best method for a smaller area. The soap breaks the paint bond during paint removal while the water cleans the residue.
 Material Required

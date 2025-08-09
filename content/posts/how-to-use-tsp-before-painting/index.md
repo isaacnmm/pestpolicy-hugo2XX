@@ -28,7 +28,7 @@ So, dilute your TSP using warm water in the ratio of 1/2 cup of the TSP with war
 For safety purposes, wear
 protective goggles
 and rubber gloves when working with the TSP cleaner. You'll require to dip some sponge into your TSP cleaner to wipe down your walls.
-https://www.youtube.com/watch?v=r0zqPy3Eb9Y
+
 > See Also:
 > Belt Sander for Deck
 ### Step 2: Workstation or Area Prepping

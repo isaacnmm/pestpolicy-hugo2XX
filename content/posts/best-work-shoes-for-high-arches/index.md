@@ -28,7 +28,7 @@ The waterproof leather upper ensures you remain comfortable and fresh throughout
 You'll love the reliable Vibram rubber outsole designed to offer needed traction, stability, and support on various terrain.
 Theses shoes will support your raised arches as you walk without worsening your foot pain. It features a Lace-up closure system to give you that optimal fit.
 Another impressive feature is the Breathable, waterproof membrane that helps to keep your feet dry, fresh, and comfortable throughout the day. Also, the CleansportNXT controls odor while the DuPont Sorona fiber keeps moisture off your feet to give you extra comfort while working.
-https://www.youtube.com/watch?v=txUTBZOfcmA
+
 Read Also:
 [Walking Shoes For Men With Flat Feet](https://pestpolicy.com/best-[walking-shoes](https://pestpolicy.com/best-work-boots-for-plantar-fasciitis/)-for-men-with-flat-feet/)
 ### [2. Brooks Men's Addiction Walker Walking Shoes](https://www.amazon.com/Brooks-Addiction-Walker-Walking-Shoes/dp/B0012HR2I8/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=p-policy-20&linkId=82d5697b4b005aa417fc084385eb036b&language=en_US)
@@ -38,7 +38,7 @@ You'll love that the shoe provides great support and has amazing slip-resistant 
 The forefoot and the rear sections of the shoes feature Hydroflow technology. This exceptional technology allows these Brooks Addiction Walking Shoes to provide you excellent cushioning and excellent shock absorption. Therefore, your high arches remain protected all day long as they get all the support they need from these walking shoes.
 Another appealing feature is the shoe's full-grain leather. The leather allows soft and comfortable wear while ensuring the top part of your feet is not pressed hard against the shoe's upper.
 The midsole is designed using the MOGO insole to protect you from shocks you're likely to experience as your foot strikes the ground. The insole is S-257 Cush sole, meaning the midsole section maintains its durability because of this Cush single compound. Hence, you'll love the support and comfort that these shoes will give you.
-https://www.youtube.com/watch?v=txUTBZOfcmA
+
 Read Also:
 Shoes For High Arches And Standing All Day
 ### [3. Alegria Women's Paloma Flat](https://www.amazon.com/dp/B0033WST6E/?tag=p-policy-20)

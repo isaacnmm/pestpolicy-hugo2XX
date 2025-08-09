@@ -35,7 +35,7 @@ Pros:
 Cons:
 - It has a small collection bag
 
-https://www.youtube.com/watch?v=UJkaczdIpy8
+
 ### [2. Yard Machines 21 self-propelled mower](https://www.amazon.com/dp/B06WVZTHQ7/?tag=p-policy-20)
 Powered by a 159cc gasoline engine, this unit also features an auto-choke system for easy and instant start-up of the mower while eliminating the need for priming.
 
@@ -51,7 +51,7 @@ Pros:
 Cons:
 - It is not ideal for hilly terrain
 
-https://www.youtube.com/watch?v=ZGfFGYawPFk
+
 ### [3. Troy Bilt TB 105 self-propelled mower](https://www.amazon.com/dp/B01NCZDWI2/?tag=p-policy-20)
 This mower is features a 159cc engine which offers strong and long lasting performance which is just what you need for all your gardening and lawn care maintenance goals.
 

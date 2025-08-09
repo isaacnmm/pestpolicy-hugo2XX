@@ -37,7 +37,7 @@ Pros:
 Cons:
 - You require a longer power cable to cover a bigger area
 
-https://www.youtube.com/watch?v=G43m5tRjZ5A
+
 Related:
 Front Tine vs. Rear Tine Tillers
 ### [2. Schiller Ground Care Mantis](https://www.amazon.com/dp/B00N6X9VY4/?tag=p-policy-20)

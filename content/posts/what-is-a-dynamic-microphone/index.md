@@ -31,10 +31,10 @@ Dynamic Microphone[/caption]
 Dynamic microphones are considered velocity-sensitive. These mics are considered the all-around particularly for
 recoding studios equipments
 and around keyboard workstations.
-https://www.youtube.com/watch?v=KcllHUHyXbc
+
 ## How Does Dynamic Microphone Work?
 Also, these dynamic mics will give you well-rounded and mellow sounds. These ones have a unidirectional (cardioid) response pattern.
-https://www.youtube.com/watch?v=KcllHUHyXbc
+
 The microphone filter with the cardioid pattern will filter the wind and noise coming from the backside and thus isolate or preserve the audio source during studio recording.
 ## Dynamic vs Condenser Microphone
 First, lest's discuss a transducer - this will help us understand the differences between dynamic vs condenser mics. So, a transducer is described as is the component inside the microphone that'll make an electrical signal from the acoustic sound waves it picks up.
@@ -53,7 +53,7 @@ Further, these mics have a higher tolerance for different loud instruments (high
 Dynamic mics are truly warm compared to condenser mics - and are thus excellent for recoding spoken word - check thesemicrophones for vocals.
 However, dynamic mics won't be very sensitive like the condenser mics - and thus you'll need to be closer or even produce a louder sound.
 Thus for stage performance recoding horns and drums, the dynamic mic will give you a warmer sound.
-https://www.youtube.com/watch?v=Y01N_L1VA4I
+
 ### 2.Condenser Microphones
 Condenser mics
 , on the other hand, will have an electrically charged diaphragm as opposed to mechanical one in dynamic mics. Sound waves arriving into the mic will vibrate the metal-coated plastic and will be changed into electrical signals.

@@ -30,7 +30,7 @@ roach nest
 Try to identify if you have a high infestation in one area or if there are scattered sightings throughout your apartment; different strategies need to be used for each scenario.
 An Integrated Pest Management approach would work better for a low-level infestation while complete elimination may require hiring exterminators with stronger chemicals like Cypermethrin.
 Dispose of any exposed food or water sources, including anything that is spilling out of your garbage can (in particular those moist foods) - as they will also be attracting more roaches.
-https://www.youtube.com/watch?v=l-kXfEmupXc
+
 ### 3. Clean Up the Apartment
 The most important thing is getting rid of the food sources roaches are looking for in your apartment: crumbs on counters, pet food bowls, spoiled produce (especially potatoes), dirty dishes left overnight...anything that might attract roaches!
 Dispose of garbage properly-use more than one bag if necessary because roach infestations usually start from trash cans outside that have been improperly disposed of away

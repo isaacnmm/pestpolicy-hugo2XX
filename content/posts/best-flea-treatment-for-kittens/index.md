@@ -49,7 +49,7 @@ The Bad:
 - Dangerous when swallowed.
 ## [2. #2 Pick:Advantage Flea & Tick Kittens and Cats Treatment Shampoo](https://www.amazon.com/dp/B00IZ9Z39G/?tag=p-policy-20)
 
-https://www.youtube.com/watch?v=ZzHEQeAtVoE
+
 ## [3. #3 Pick: Capstar Fast-Acting Oral Flea Treatment for kitten](https://www.amazon.com/dp/B07Q1TKTP9/?tag=p-policy-20)
 
 Could you be looking for a tablet medicine for your kitten treatment? Capstar (nitenpyram) is the top quality for your kitten.
@@ -67,7 +67,7 @@ The Good:
 - It can also be dogs/puppies and Top quality.
 The Bad:
 - Won'tkill fleaeggs.
-https://www.youtube.com/watch?v=pF0ovIggNQU
+
 ## [4. ZoGuard Plus Flea for Cats/kittens](https://www.amazon.com/dp/B07P9NNK9S/?tag=p-policy-20)
 
 The ZoGuard Plus is an

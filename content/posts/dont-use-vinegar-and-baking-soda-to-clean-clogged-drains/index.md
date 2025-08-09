@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 Today Ill discuss my short investigation with vinegar and baking soda to see if its perfect in unblocking slow-moving drains as some
-[YouTubers Claim](https://www.youtube.com/watch?v=4u0sMRKb0NY)
+[YouTubers Claim](
 . The two ingredients are readily available and will have a bubbling reaction.
 *Summary: It's a thumbs down for thevinegar and baking soda in unclogging blocked drains and de-scaling pipes. Arecent experiment proves that the bubbling (Sodium Acetate + Water) can't de-clog your drain or remove the clogging gunk deep down the drain. So, I'll stick toreliable drain cleaners.*
 

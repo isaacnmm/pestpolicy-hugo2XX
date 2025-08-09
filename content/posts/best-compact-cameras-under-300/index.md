@@ -29,7 +29,7 @@ Macro Mode: The macro mode for this compact camera allows you to capture small c
 CMOS Sensor: It has the CMOS sensor (20.3 megapixels) - 1/2.3 plus its DIGIC 6 image processor to give you excellent image and video quality (Full-HD 1080p),
 great deep-shadow working and improved dynamic range.
 Built-in lens: It has a 35mm built-in lens to allow about 24 to 960-millimeter focal length. With f/3.3 to f/6.9 aperture range  it offers an optical zoom of 40x. But, the small sensor wont be great for filming in low-light areas.
-https://www.youtube.com/watch?v=iQxIGYH-l0E
+
 ### [2. Nikon COOLPIX A900 (Silver) Digital Camera - #2 Pick](https://www.amazon.com/dp/B07BRVPH52/?tag=p-policy-20)
 Next up is the Nikon Coolpix A900 that features a 1/2.3 inches 20-megapixel sensor (BSI CMOS sensor) with 3.4 - 6.9 aperture, and has a 35 times optical zoom lens.
 

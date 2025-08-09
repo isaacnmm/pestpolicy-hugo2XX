@@ -90,7 +90,7 @@ Pros:
 Cons:
 - None
 
-https://www.youtube.com/watch?v=SSiN546czpc
+
 ### [4. Sennheiser e945 Vocals Super-Cardioid Dynamic Hand-held Mic](https://www.amazon.com/dp/B000NAXCC0/?tag=p-policy-20)
 S
 ennheiser e945 is an equally excellent vocal mic that'll give you natural and clear sound to readily cut through noise mix. It'll be natural and effective either to grungy or clear voice while working best even for loud stages - a great

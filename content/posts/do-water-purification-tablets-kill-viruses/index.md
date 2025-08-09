@@ -29,17 +29,17 @@ cryptosporidium
 , bacteria, and viruses due to chlorine dioxide that's
 highly effective against microorganisms.
 Chlorine dioxide is highly effective as a water purification and cleaning water with tablets. However, chlorine-dioxide tablets take a long time (4 hours) to treat water.
-https://www.youtube.com/watch?v=nRmd6ZfxCt0&feature=youtu.be
+
 ### 2. Chlorine-Based Water Tablets
 Chlorine-based tablets contain chlorine that helps purify the water. But water treated with these tablets may become contaminated when stored for a long time.
 Further, chlorine-based tablets will have some aftertaste with the chlorine taste. But it's possible to eliminate the chlorine aftertaste by allowing the bottle to remain open and evaporate.
-https://www.youtube.com/watch?v=IC11aUEkoEw
+
 ### 3. Iodine-BasedWaterTablets
 Iodine-based tablets are considered to be more effective when used with warm water. However, you'll require to allow about half an hour to purify the water for use with cold water. Further, these iodine tablets will equally kill viruses and bacteria in your water.
 Equally, the iodine tablets will allow some after- taste in your water. Options to remove the taste include waiting for the taste to escape to thin air or using vitamin C that'll readily neutralize the after- taste following the completion of
 [water purification](https://pestpolicy.com)
 . For thyroid patients - avoid iodine tablets.
-https://www.youtube.com/watch?v=FkvDrzPe_vk
+
 ## Benefits of EmployingWater Purification Tablets
 ### 1. Tablets are Portable andMobile
 Luckily, water purification tablets are easy to carry. You can easily fill some containers or pockets as you travel or go camping to purify water for your whole family. Further, it'll be straightforward to use the tablets as you move around your job or hobbies.

@@ -29,7 +29,7 @@ But the process is not as simple as this. There are certain conditions that the 
 - Fleas that live on cats are known to perform the entirety of their essential day-to-day needs (feeding, mating, living, etc.) on their host -control the fleas in the yard.
 - It has never been observed thatfleas have mated away from their host. This is because the temperature iscritical when the fleasare breeding, and they require a warm environment to mate successfully.
 - As we mentioned, the fleas require feeding before mating can occur, and this is another reason why they always mate whilst on their host as they can mate directly after receiving a blood meal.
-https://www.youtube.com/watch?v=GrYNRYsjAkg
+
 Read Also:
 Do Fleas Stay On Humans?
 ## Males And Females

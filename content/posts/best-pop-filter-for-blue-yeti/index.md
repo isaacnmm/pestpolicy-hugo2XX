@@ -52,7 +52,7 @@ Pros:
 Cons:
 - Nsssssss
 
-https://www.youtube.com/watch?v=yy3wTtk4YCQ
+
 ### [3. Studio Microphone Pop Filter Mic Wind Screen or Swivel Mount - #3 Pick](https://www.amazon.com/dp/B008AOH1O6/?tag=p-policy-20)
 Its mesh is highly fine that youll think its a transparent silk but stronger and tougher. And, if youre using the condenser microphones, youll love that this pop filter is hydrophobic, which will reduce sonic issues.
 

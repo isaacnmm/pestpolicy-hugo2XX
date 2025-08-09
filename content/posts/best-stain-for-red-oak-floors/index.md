@@ -41,7 +41,7 @@ Pros:
 Cons:
 - None found
 
-https://www.youtube.com/watch?v=kE1Pi4wb7GY
+
 > See Also:
 > Staining Deck for the First Time
 ### [2. General Finishes Gel Oil-Base Stain - Flat Out Flat and Gel Topcoat](https://www.amazon.com/dp/B001DT5D2M/?tag=p-policy-20)
@@ -64,7 +64,7 @@ Pros:
 Cons:
 - None found
 
-https://www.youtube.com/watch?v=vGMJWz3mnEo
+
 > See Also:
 > Removing Oil Stains from Wall [Paint?](https://pestpolicy.com/how-to-remove-oil-stains-from-wall-paint/)
 ### [3. Minwax-63483000 [Stain](https://pestpolicy.com/best-stain-for-pine/) Wood Finish Marker - Fast drying and Easy touch-up](https://www.amazon.com/dp/B0000DI7ZH/?tag=p-policy-20)

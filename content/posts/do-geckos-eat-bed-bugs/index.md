@@ -52,7 +52,7 @@ There are alternative pests that you may feed to your lizards - house lizards wo
 yard
 .
 Lizards are largely diurnal, and they won't eat numerous mosquitoes, but will opportunist capturing of the pests. But toads and frogs crepuscular & nocturnal) eat more mosquitoes.
-https://www.youtube.com/watch?v=yLBtiyLAgAU&feature=youtu.be
+
 Lizards love mosquito diets - they'll simply stick out their sticky tongue and feed on the bugs. But lizards may not be welcome in homes that have small rodents,
 cats
 , and dogs.
@@ -64,7 +64,7 @@ Therefore, to help control mosquitoes, you may avoid killing the lizards you not
 ### 2. Mice and Rats
 Mice and rats will create a great food source for geckos in your spaces - even in the rented spaces - but they'll mainly eat the young ones and rat litter.
 Geckos will efficiently predate on mice and rats - geckos mainly hide in dark areas - and they'll feed on the pinkies - young rats particularly while their mother rat is away.
-https://www.youtube.com/watch?v=wAqMRsTMiwI&feature=youtu.be
+
 You'll find the lizards hanging around dark places - locations where you also get mice and rats and their younglings. Thus lizards get to snack on the pests and theirpinkies.
 ### 2.Cockroaches
 So, will geckos feed on cockroaches? Well, yes geckos and house lizards will also eat roaches and their larva. But they occupy different places - roaches love places near the ground.

@@ -39,7 +39,7 @@ Pros:
 - Minimalistic and foldable headphones with great sound quality
 Cons:
 - Unstable fit
-https://www.youtube.com/watch?v=QL-qRXzpLPw
+
 ### [2. COWIN E7 Bluetooth Active Noise-Cancelling Headphones](https://www.amazon.com/dp/B00NWYGZO6/?tag=p-policy-20)
 COWIN E7 is also an excellent pair of Bluetooth headphones that offer active noise reduction, portable design, and great sound quality.
 S
@@ -60,7 +60,7 @@ Pros:
 - The noise cancellation feature is effective in both enclosed and outdoor spaces.
 Cons:
 - None
-https://www.youtube.com/watch?v=fzZH3So6BOg
+
 ### [3. MX10 Bluetooth Sports Noise Cancellation Headphones](https://www.amazon.com/dp/B01LYDQMXC/?tag=p-policy-20)
 MX10 headphones satisfy the noise-canceling needs of any sportsperson or runner - they're long-lasting, waterproof, offers a secure fit, and gives quality sound.
 B

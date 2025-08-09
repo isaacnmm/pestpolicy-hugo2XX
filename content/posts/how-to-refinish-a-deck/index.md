@@ -26,7 +26,7 @@ aterials and tools required are:
 - Wear protective gear  gloves, boots, respirator, overall, and goggles  for safety purposes
 - Sweep the deck surface with a broom to eliminate dust and surface debris
 - Mop or[pre-clean the deck](https://pestpolicy.com/how-to-clean-a-deck-before-staining/)with water and soap if need be
-https://www.youtube.com/watch?v=8Cav43PSEKM
+
 ### Step 2: Stripping of old paint/stain
 - Prepare paint stripping chemical as per manufacturers instructions
 - Using a paintbrush, apply the stripping chemical over the deck  back and forth
@@ -67,7 +67,7 @@ More so, the deck found in a sunny environment should be primed with lighter/tra
 - Gently, pour the primer stain into an empty bucket
 - Thin the primer as per the manufacturers instructions
 - Test the thinned primer over the deck surface to assess the stickiness action
-https://www.youtube.com/watch?v=8eQhrVbOp_4
+
 ### Step 8: Re-staining Deck
 - Dip the paintbrush into the primed solvent and load it appropriately
 - Cut off the excess primer

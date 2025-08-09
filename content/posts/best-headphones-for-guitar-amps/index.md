@@ -29,7 +29,7 @@ It has a non-detachable (10ft long) cable which will great for guitarists since 
 - Notably, sound engineers who love this over-the-ear MDRV6 are Gucci Mane & Paul Van Dyk  they are great for playing bass or guitar,recording, and mixing.
 **Why It Rocks**
 : The Sony MDRV6 (Micro Dynamic Receiver) is a discontinued gem still floating around second-hand markets, and its a steal for guitarists. Its ultra-wide frequency range captures everything from rumbling low-end chords to piercing solos, delivering a full-bodied sound that doesnt skimp on detail. The 10ft non-detachable cable gives you freedom to move, and at 68 ohms, it pairs effortlessly with most amps.
-https://www.youtube.com/watch?v=GelYQnyH5Bo
+
 ### [2. Creative Aurvana Live! Headphones  Best for Nuanced Sound](https://www.amazon.com/dp/B000ZJZ7OA/?tag=p-policy-20)
 This Creative Aurvana Live has Bio-Cellulose drivers and thus allows the narrow soundstage.
 I
@@ -41,7 +41,7 @@ as detailed compared to your regular headphones.
 Creative Aurvana Live has excellent noise isolation (for areas like a coffee shop or noisy office) but not as effective as the closed-back alternatives.
 **Why It Rocks**
 : With bio-cellulose drivers, the Aurvana Live! offers a natural midrange and detailed imagingperfect for hearing separation in multi-effect setups. The bass is extended but not overpowering, and the highs are crisp without being harsh. Lightweight with soft on-ear pads, its comfy for long sessions.
-https://www.youtube.com/watch?v=xYXjpw7yfQg
+
 ### [3. Audio-Technica ATH-M50x Studio Headphones Best All-Rounder](https://www.amazon.com/dp/B00HVLUR86/?tag=p-policy-20)
 The Audio-Technica ATH-M50x is loved by both musicians and audio engineers  it has a modern & comfortable design, improved sound isolation, great bass response, and an extended frequency range (15Hz - 28kHz).
 - These closed-back headphones are great for sound monitoring  and are highly recommended for guitar amps.

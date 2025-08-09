@@ -46,7 +46,7 @@ You'll notice that flea eggs will be anything similar to the ping pong balls, th
 - But will flea eggs fall off fast? Well, this will depend on the length of the pet's fur and the activity status (severity) of that infestation. However, most flea eggs tend to fall off the pet's fur in just a few days.
 With flea bites, your pet will itch or scratch the body naturally and thus the flea eggs will be shed faster. Normally, flea eggs will be lying around the areas that your pet rests or sleeps - this includes the pet's bed or on the carpets.
 - During the warmer weather, the pets will move into the backwoods and backyards - as do the fleas. This weather will make the flea eggs (and larvae) hatch or molt to the next stage (in just weeks) - which makes controlling challenging.
-https://www.youtube.com/watch?v=g6vMqrhltxQ
+
 ### **2. Rugs and Carpets**
 First, yes flea eggs can be found on rugs,
 floorboard gaps,
@@ -81,7 +81,7 @@ Further, treat your flea-infested pets using medication and
 flea shampoo (like for cats)
 - consult the pet vet. Remove the trash bin and garbage bag - plus vacuum the furniture and carpeting - finally remove that vacuum bag.
 - You cancontrol the bugs and their eggsin your yard using Nematodes (microscopic worms) as they'll eat the flea larvae and eggs. But the worms won't harm your gardens, grass, pets, and humans - you can buy the Nematodes from various stores.
-https://www.youtube.com/watch?v=lrectTfm3CQ
+
 ## How Fast do the Eggs Fall
 Researchers have reported that over half of the flea eggs will fall off from the pet in just 2 hours after getting laid. Over 65-percent of the eggs will have dropped from the cat in 4 hours.
 About 70-percent of the flea eggs will be dislodged from the pet's fur within 8 hours. Only under 3-percent of the flea eggs will be left on the host with over 27-percent eaten while grooming.

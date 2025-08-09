@@ -44,7 +44,7 @@ To make the eucalyptus oil repellent or spray; the requirements are as follows: 
 Next, mix the spray ingredients together in the bottle and shake it well. Heavy bug infestations might require a stronger eucalyptus oil to kill both adults and eggs.
 Then, spray the mixture onto bedding or mattresses to deter the bed bugs from sleeping there - this will get rid or repel the bed bugs. Also, spray into those hard-to-reach corners where bed bugs love hiding out.
 The bed bugs themselves will be deterred from crawling over those sprayed surfaces in order to avoid contact with the repellent effect and being killed by it as well.
-https://www.youtube.com/watch?v=7Obtru04wBE
+
 ## Precautions When Using Eucalyptus Oil
 Eucalyptus oil may be toxic when ingested so it is important to be cautious around children and pets.
 Avoid skin contact with eucalyptus oil as it may also cause skin irritation, contact dermatitis and an allergic reaction.

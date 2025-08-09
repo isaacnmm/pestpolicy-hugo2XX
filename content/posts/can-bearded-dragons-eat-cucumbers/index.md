@@ -34,7 +34,7 @@ hydrating your bearded dragon
 Another reason that makes cucumber
 suitable for bearded dragons
 is that it isnt too acidic. The ratio of calcium to phosphorous in cucumber makes it less acidic, meaning it wont harm your beardie.
-https://www.youtube.com/watch?v=K1xNvAduR5M
+
 When
 feeding your bearded dragon
 with cucumber, be sure to remove the skin to make it easy to chew and digest. It should also be sliced into small pieces since your beardie wont be able to chew large chunks.

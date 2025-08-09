@@ -31,7 +31,7 @@ So, what causes back pain?Back pain and other spine-related problems result from
 
 Read Also:
 Bullet Journal Notebook
-https://www.youtube.com/watch?v=UGSiqbggoY0
+
 ## How to relieve back pain fast at home  Step by Step
 ### 1. Core muscle exercise  The right way!
 Muscle tightness is one of the causes of low back pain. Notably, hip flexors, quads, and

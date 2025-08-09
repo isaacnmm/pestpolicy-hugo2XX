@@ -31,7 +31,7 @@ It is suitable for lawns, roses, and hedges. Its broad-spectrum action ensures m
 - Long-lasting protection.
 - Cons:Needs reapplication every two weeks.
 - Needs reapplication every two weeks.
-https://www.youtube.com/watch?v=qAKu2csnUbo
+
 ###
 ## [2. BioAdvanced Powdery Mildew Fungicide](https://www.amazon.com/dp/B000NCUW6M/?tag=p-policy-20)
 BioAdvanced offers a reliable solution for managing powdery mildew across various plants. It is easy to apply and highly effective against mildew, making it a popular choice among gardeners.

@@ -39,7 +39,7 @@ Pros:
 Cons:
 - Moderate paint smell
 
-https://www.youtube.com/watch?v=JdP5Gqylllo
+
 
 See Also:
 Paint Sprayer for Interior Walls
@@ -65,7 +65,7 @@ Pros:
 Cons:
 - None found
 
-https://www.youtube.com/watch?v=ZWLMEm2JmzE
+
 See Also:
 Chalk paint for kitchen cabinets
 ### [3. Colorbond 3047 Plastic Plastic Acura Charcoal](https://www.amazon.com/dp/B00G6INQCO/?tag=p-policy-20)

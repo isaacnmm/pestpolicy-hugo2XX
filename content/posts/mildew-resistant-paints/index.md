@@ -47,7 +47,7 @@ Cons:
 - May cause eye and skin irritation upon contact
 - They are packed in white color only.
 
-https://www.youtube.com/watch?v=4j9Q9osm7ew
+
 ### [2. Rubber seal Liquid Rubber Waterproofing Paint](https://www.amazon.com/dp/B00PHNPG90/?tag=p-policy-20)
 The rubber seal is modern waterproofing paint that features a simple molecular formulation, which breaks instantly and spread evenly (self-leveling) without drains upon application.
 
@@ -73,7 +73,7 @@ Cons:
 - The quantity could be more for commercial use.
 - May cause eye irritation upon contact
 
-https://www.youtube.com/watch?v=-YKGdkpK03s
+
 > See Also:
 > Paint for Metal Garage Door
 ### [3. INSL-X AMW100009A-01 Acrylic Waterproofer Paint](https://www.amazon.com/dp/B07KXN7XSY/?tag=p-policy-20)

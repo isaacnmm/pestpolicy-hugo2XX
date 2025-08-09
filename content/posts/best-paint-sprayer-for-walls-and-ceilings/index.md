@@ -46,7 +46,7 @@ Pros:
 Cons:
 - Not recommended to work on transformers
 
-https://www.youtube.com/watch?v=yNcTrlq5TuI
+
 > Read Also:
 > Heat Gun for Removing Paint
 ### [2. Graco Magnum 262805 X7 Cart Airless Paint Sprayer](https://www.amazon.com/dp/B0026SSW8G/?tag=p-policy-20)
@@ -69,7 +69,7 @@ Pros:
 Cons:
 - May require conversion equipment to work in some countries
 
-https://www.youtube.com/watch?v=KKxakPtaP3c
+
 > See Also:
 > Exterior Paint to Prevent Mold
 ### [3. The HomeRight C800971](https://www.amazon.com/dp/B071X9FZ7R/?tag=p-policy-20)
@@ -90,7 +90,7 @@ Pros:
 Cons:
 - May not have plugs for some countries like Australia
 
-https://www.youtube.com/watch?v=KZOsAIBhE-4
+
 > See Also:
 > Paint Stripper for Metal
 ### [4. Paint Zoom Handheld Electric Spray Gun](https://www.amazon.com/dp/B005IF5LW4/?tag=p-policy-20)

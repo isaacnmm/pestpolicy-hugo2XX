@@ -32,7 +32,7 @@ Interestingly, the sofa has a durable construction and a stain-resistant fabric 
 - Also, it has very short legs that keep it low on the ground and thus prevent objects and pets from rolling under the sofa.
 The sofa has modern soft overstuffed and tweed fabric and the three-layer feather-plush cushions will not compromise on your comfort and style.
 The sofa is heavy and big, 127 inches x 39.5 inches x 37 inches, and thus will not topple or tip if it is pushed. Also, its top is down-filled and comfortable for you and your family to sit.
-https://www.youtube.com/watch?v=wuHxM7yK4QM
+
 ### [2. Oliver Smith - Large Light Grey - Upholstered Quality](https://www.amazon.com/dp/B01N3D4UHS/?tag=p-policy-20)
 For families looking for affordability without compromising quality, the Oliver Smith Large Light Grey Sectional Sofa is a fantastic option. Priced competitively, this sofa combines excellent fabric upholstery with a user-friendly assembly process that requires no tools.
 Two people can put it together in about an hour, making it an ideal choice for those who dread complicated furniture setups. The sectional includes loveseats and a corner piece, creating a versatile layout that fosters conversation,

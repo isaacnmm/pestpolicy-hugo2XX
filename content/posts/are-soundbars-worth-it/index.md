@@ -34,7 +34,7 @@ Some
 that make it super easy to install and use the Soundbars. Thus, you can easily stream or change the show, and music without using a remote TV controller.
 Also, the apps make the soundbars to be very compatible with your smart-home devices and thus enable hands-free control of your entertainment devices.
 - Simply place the soundbar, connect the TV plus other components. Ensure to do the connections prior to mounting the soundbar permanently - check[optical vs digital coaxial](https://www.lifewire.com/coaxial-vs-optical-digital-cable-3134605).
-https://www.youtube.com/watch?v=tVUDY5irLBo
+
 ### 2. Soundbars have Superior Sound quality
 Initially, soundbars fell short on sound quality - they offered a better alternative to the sound system for the flat-screen TV. Thus, soundbars were just slightly superior to the in-built TV speakers.
 However, soundbars are now deep and better positioned in the home entertainment space and hence have developed to become better sound systems.
@@ -50,7 +50,7 @@ The soundbar will sit flush with your cinema set-up or against the wall - which 
 Your traditional surround audio systems have bulky ugly looking components despite giving excellent sound quality. But we hate the disorganization, including the large wiring and equipment particularly if these ones aren't in your main living area.
 Therefore, with a good-quality soundbar, you can get great sound while also keeping your rooms and spaces tidy and neat - call it compact and stylish.
 For example, the system acts like the receiver while also holding all your front speakers - that's a minus 3 of the large components in your traditional surround audio systems. Notably, wireless connectivity allows you to place the surrounds and sub(s) at your selected location without needing wires.
-https://www.youtube.com/watch?v=if9_S_bn2b8
+
 ### 4. Soundbars are Compatible with Latest Technology
 By design, most soundbars will seamlessly integrate with your favorite smart-home devices that have the latest technology including the smart TV, Amazon Alexa, Dolby Atmos, or even 4K TV.
 The latest soundbars allow wireless audio streaming through Bluetooth plus they'll have convenient inputs like Coaxial and Optical, regular HDMI, and HDMI ARC - check differences in

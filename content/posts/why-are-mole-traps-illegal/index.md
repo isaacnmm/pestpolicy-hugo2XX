@@ -32,7 +32,7 @@ The wildlife department has notably even fined and prosecuted those companies an
 The spearing type and scissor-type mole traps are banned for use since they fall under the body-gripping design of traps that could harm or kill the wild animals.
 - The scissor mole traps are created with "U"-shaped jaws and those will generally kill the animal when triggered or tripped - it's positioned in a tunnel for more effectiveness.
 The wildlife department suggests using other mole control techniques including poison, noisemakers, or ignoring the moles since they're non-commensal animals.
-https://www.youtube.com/watch?v=sOn-qBRUDpU
+
 ## Which Mole traps are Legal?
 Moles are considered unclassified - and thus homeowners are allowed to kill the wildlife when they're causing harm to your property or damaging crops and harming the domestic animals.
 - However, there are mole traps that are legal to use - these include the live-trapping traps such as the suitcase-type or cage traps as these do not fall under the body-grasping design.

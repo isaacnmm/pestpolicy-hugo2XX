@@ -56,7 +56,7 @@ insecticide - like sprays
 - Also, examine the second-hand furniture for cracks and holes  youll need to seal and caulk these to kill the bed bugs,their eggs, and babies.
 - Next, treat the bedbug-infested mattress or furniture using heat for about 15 to 30 minutes. If its a fabric, you can use a clothes dryer at medium-high temperatures.
 - But, you can bag and launder the second-hand items at about 120 F. For box-spring and mattress, youll need to encase them.
-https://www.youtube.com/watch?v=FJeycCNgvtU
+
 ### 2. Travelling - Bed Bugs Hitchhike Clothes and Suitcases
 Besides the loss of luggage and food poisoning, most
 travelers worry even more about travel bugs and bed bugs

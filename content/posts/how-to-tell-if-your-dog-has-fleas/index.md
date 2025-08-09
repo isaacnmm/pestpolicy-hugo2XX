@@ -96,7 +96,7 @@ As fleas are heavy blook suckers, when they're in an area with more than just a 
 
 The gums are usually pale in appearance and the dog will have a hard time breathing due to low levels of hemoglobin.
 
-https://www.youtube.com/watch?v=iiSRHPxDsOs
+
 
 Anemia is when there are not enough red blood cells. The hemoglobin in blood is a protein molecule inside the red blood cells that moves oxygen to all parts of your body.
 

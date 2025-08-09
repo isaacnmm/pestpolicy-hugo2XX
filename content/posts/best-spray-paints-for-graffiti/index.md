@@ -58,7 +58,7 @@ Pros:
 Cons:
 - Susceptible to clogging
 
-https://www.youtube.com/watch?v=wzddOfJh2yc
+
 ### [2. Krylon K05592007 Graffiti COLORmaxx Spray](https://www.amazon.com/dp/B07LFXGDWK/?tag=p-policy-20)
 Krylon K05592007 is a high-quality graffiit paint that's appropriate for spaying on wicker, plastic, amnd metal. I noted that wihton 10 minutes to 2 hours, the graffiit paint will be dried.
 
@@ -77,7 +77,7 @@ Pros:
 Cons:
 - Protect the surrounding area
 
-https://www.youtube.com/watch?v=2lo4fvlHl7c
+
 ### [3. Krylon K05592007 Graffiti COLORmaxx Spray](https://www.amazon.com/dp/B07LFXGDWK/?tag=p-policy-20)
 MTN 94 graffiti Paint is a versatile aerosol that has low pressure and it comes with a broad opacity color range that will dry quickly. The spray works great for your creative work to give some matte finish.
 

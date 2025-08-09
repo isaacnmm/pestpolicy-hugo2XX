@@ -65,7 +65,7 @@ confuse bed bugs for mites
 . Therefore, it's not recommended to use a
 DIY bed bug control
 .
-https://www.youtube.com/watch?v=esYzPzyXT4E
+
 What's the
 signs of bed bug
 infestation. Well, it is possible to mistake bed bugs with other similar bugs, and thus here are the signs to check:
@@ -113,7 +113,7 @@ Nymphs may also look translucent, and thus they may easily camouflage with the e
 3. 3?? nymph stage -2.5 millimeters
 4. 4thnymph stage  3 millimeters
 5. 5thnymph stage  4.5 millimeters
-https://www.youtube.com/watch?v=Ode-l7G8FL8
+
 ## Conclusion
 These are tiny bugs, but you may see them only clear when there's a huge infestation. To effectively control bed bugs, you must know their average size, color, and shape- try
 [bed bug sprays for control](https://pestpolicy.com/best-bed-bug-spray/)

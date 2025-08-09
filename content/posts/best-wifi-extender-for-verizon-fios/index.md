@@ -41,7 +41,7 @@ Pros:
 - Allow inter-device connection thanks to its WPS button functioning well with different routers and gateways. You can choose between the two repeater Wi-Fi Modes, either the extended or Wi-Fi dedicated access locus.
 Cons:
 - None found
-https://www.youtube.com/watch?v=x6UTqqlMOHA
+
 ### [2. Verizon AC1750 FiOS Quantum 800 Mbps Gateway](https://www.amazon.com/dp/B00QRJ8YME/?tag=p-policy-20)
 Verizon AC1750 FiOS also works with dual-band technology boosting the Verizon Fios Wifi speed. It offers 5 GHz and 2.4 GHz will operate simultaneously, plus the router's self-organizing technology will work with the dual frequencies.
 V
@@ -64,7 +64,7 @@ Pros:
 - The WPA and WPA2 wireless protection allow effective MAC address filtering
 Cons:
 - None
-https://www.youtube.com/watch?v=mMEf89Oqo2k
+
 ### [3. Nighthawk EX7300 AC2200 Wi-Fi Mesh Range Extender](https://www.amazon.com/dp/B01D6JEMWS/?tag=p-policy-20)
 Nighthawk EX7300 AC2200 is a plug-in repeater that'll install within minutes while also allowing MU-MIMO data streaming
 . The device has an internal antenna in addition to its many high-power amplifiers.

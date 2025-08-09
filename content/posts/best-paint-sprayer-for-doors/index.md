@@ -56,7 +56,7 @@ Pros:
 Cons:
 - None
 
-https://www.youtube.com/watch?v=pY1vC-a8k3k&t=9s
+
 > See Also:
 > Deck Stain for Pressure Treated Wood
 ### [2. HomeRight C800971 Door-Painting Sprayer for DIY PROJECTS](https://www.amazon.com/dp/B071X9FZ7R/?tag=p-policy-20)
@@ -87,7 +87,7 @@ Pros:
 Cons:
 - None
 
-https://www.youtube.com/watch?v=lfi7uE-rLlM&feature=youtu.be
+
 ### [3. Graco-TrueCoat 17D889-360 Variable Speed Hand-held Sprayer](https://www.amazon.com/dp/B00ZLIV55A/?tag=p-policy-20)
 Graco-TrueCoat 17D889-360 offers great speed control (variable speed), plus the reversible tip reduces cases of sprayer
 clogging. You can spray about 25 gallons annually.
@@ -140,7 +140,7 @@ FlexLiner Bag that's reusable.
 
 - Larger-sized sprayer.
 
-https://www.youtube.com/watch?v=POwipZb5CiE
+
 ## Conclusion
 The best paint sprayer for doors comes with a metal frame cart that's durable and also has wheels for greater portability.
 HVLP Technology in the sprayer allows even and smooth coverage even for

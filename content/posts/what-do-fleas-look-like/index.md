@@ -21,7 +21,7 @@ The focus of this post shall be on what fleas look like, but first things firstr
 Bed Bug Pictures
 .
 ## What do fleas look like? (30+ Images of Fleas & Eggs)
-https://www.youtube.com/watch?v=mjjGoiGhIUM
+
 First and foremost, fleas are transmitters of a wide spectrum of diseases to both humans and animals. Some of these include the following;
 1.
 **Murine Typhus**

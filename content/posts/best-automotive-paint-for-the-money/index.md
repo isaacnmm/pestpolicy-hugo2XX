@@ -45,7 +45,7 @@ Cons:
 - Small-sized automotive paint cans
 - Cloggin issues
 
-https://www.youtube.com/watch?v=sfzS6BpCAiA
+
 ### [2. Performix 11203 Automotive Plastic Dip Black](https://www.amazon.com/dp/B0006SU3QW/?tag=p-policy-20)
 Performix 11203 is a multi-purpose automotive paint that'll coat your items for protection against corrosion, acids, and moisture while also providing controlled, comfortable and non-slip grip.
 
@@ -69,7 +69,7 @@ Pros:
 Cons:
 - May peel
 
-https://www.youtube.com/watch?v=KcR860heWU4
+
 ### [3. Dupli-Color BSP200 Car Paint Shop](https://www.amazon.com/dp/B0029818Q6/?tag=p-policy-20)
 Dupli-Color BSP200 is a quality automotive lacquer paint that comes ready-to-spray formula. Its simple to apply (requires no reducing or mixing) and also fast-drying.
 

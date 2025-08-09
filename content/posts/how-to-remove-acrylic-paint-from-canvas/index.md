@@ -23,7 +23,7 @@ from canvas becomes challenging, especially when the paint has dried out. How yo
 ## Details: How to Remove Acrylic Paint from Canvas
 ### a. Denature Alcohol or Isopropyl alcohol
 Dilute one liter of denatured alcohol with two liters of water (1:2 ratio). Using a sponge, rub the surface with acrylic paint gently. This solvent will remove wet
-[acrylic paint](https://www.youtube.com/watch?v=YAo1gfNIhXw)
+[acrylic paint](
 instantly upon contact.
 For dry acrylic paint, you will need to quench the surface before stripping.Denatured alcohol contains strong, active agents (ethyl 5%) that break down the paint molecular bond into a thick paint viscous fluid, which is easier to clean.
 Beside, denatured alcohol penetrates the canvas without affecting the material fabric. For a thicker layer of acrylic paint, isopropyl alcohol is suitable. Further, you will need to use a concentrated solvent to improve the bond-breaking affinity during action time.
@@ -40,7 +40,7 @@ Mix a cup of ammonia with three cups of clean water. Using a sponge, smear the a
 In case you want to clean the entire canvas, you will need to soak it (canvas) in an ammonium solution before stripping.
 Wet paint is easily cleaned using a piece of cloth or sponge, while dry acrylic paint needs a primer before the solvent application. A paintbrush is required to clean the surface after the quenching process is complete.
 Remember, ammonia emits poisonous gases that may choke or irritate the respiratory system. The solvent cause skin burn or irritation too.
-https://www.youtube.com/watch?v=VprgA4HrI0w
+
 ### d. Turpentine
 Apply turpentine over the acrylic painted canvas and leave it for 6 minutes. Then, wash using soapy detergents until the paint is entirely cleaned.
 The turpentine has strong, active agents, which helps in the breakdown of acrylic paint molecular bonds on contact. The high affinity of the solvent gives it instant action power for both wet and dry acrylic paint.
@@ -69,7 +69,7 @@ You will need to clean the canvas (after stripping acrylic paint) using soapy de
 Eventually, rinse the canvas with plenty of clean water before drying. The pressure cleaner works best in the final finish process. See Also:
 Can you use WD 40 Remove Paint?
 You should be carried out precise final cleaning without affecting the adjacent area  for the spot cleaning method. You may also require to stretch the canvas evenly for better cleaning accessibility.
-https://www.youtube.com/watch?v=2lPoQvjJRPg
+
 ## Safety and Precautions to consider when Removing Acrylic Paint from Canvas
 While the acrylic paint removal process can be enjoyable, it may lead to fatal accidents or death if safety is not considered.
 First, most acrylic paint removers are flammable, and thus fire may result if precautions are not adhered to.

@@ -36,7 +36,7 @@ Pros:
 - Made in USA
 Cons:
 - None found
-https://www.youtube.com/watch?v=EMU08yhAauw
+
 ### [2. Wooster-RR662-9 Golden Roller Cover](https://www.amazon.com/dp/B000ZZYJM0/?tag=p-policy-20)
 Wooster-RR664-9 is a high-quality Golden roller manufactured by Wooster Brush Company. The good part of this brush is the absorbent quality that makes it easy and quick to cover any given surface.
 If

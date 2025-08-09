@@ -32,7 +32,7 @@ The swing set seat is created from durable molded plastic and has a safety harne
 Also, the sets frames are foldable, and thus you will find them highly portable and easy to store.
 The swing set comes with cheerful and brings colors that will cheer up your kid. The maximum weight for kids on the swing set is set at 55 pounds.
 Unique features: Age 9 to 36 months and has a safety harness and comfortable padded seat, Rust-resistant, and powder-coated galvanized steel frame. Its metal legs are metal legs, and its legs are made from Blow-moulded plastic to increase safety and security, and the Steel frame is covered with foam tubes.
-https://www.youtube.com/watch?v=_ndGarAUgjI
+
 ### [2. Little Tikes Cozy Coupe First Swing - Runner-Up](https://www.amazon.com/dp/B00F5Y4VU6/?tag=p-policy-20)
 The Cozy Coupe is considered to be a luxury brand due to its quality, but the
 [price is almost the same](https://pestpolicy.com/best-swing-set-under-200/)
@@ -50,7 +50,7 @@ Pros:
 - Wide seat or your growing toddler
 Cons:
 - May not favor toddlers who are unable to sit upright.
-https://www.youtube.com/watch?v=xZ0SfA171lE
+
 ### [3. High Back Full Bucket Toddler Swing Seat](https://www.amazon.com/dp/B01BCC8GCI/?tag=p-policy-20)
 Is your toddler learning how to swing? Then, the High Backswing seat is a perfect addition to the various play accessories you already have in your house.
 T

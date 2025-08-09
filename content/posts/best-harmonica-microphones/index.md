@@ -41,7 +41,7 @@ Pros:
 Cons:
 - Relatively pricey
 
-https://www.youtube.com/watch?v=tdtWUQF7CrI
+
 Read Also:
 Bass Amps for Small Gigs
 ### [2. SHURE 520DX microphone for Harmonica](https://www.amazon.com/dp/B0002CZYHK/?tag=p-policy-20)
@@ -61,7 +61,7 @@ Pros:
 Cons:
 - Relatively heavy
 
-https://www.youtube.com/watch?v=QOOS5TLyYA0
+
 ### [3. Peavy H5-C Cherry Bomb Microphone](https://www.amazon.com/dp/B003OURTAW/?tag=p-policy-20)
 The Cherry Bomb mic edition gives you the convenience of use, thanks to its conveniently positioned on/off button and rotary volume control.
 

@@ -36,7 +36,7 @@ Therefore, if you need to retain the wood's rustic (or natural) look while also 
 On cost, deck stains are generally cheaper (around $20 to $32 per gallon) compared to deck paints (that sell at around $33 to $65 per gallon). Further, staining, touch-up, and re-coat deck surfaces with a stain are much faster and cheaper.
 However, the painting process will take longer since it'll require that you prime the deck surfaces. Further, points may be expensive since they may flake, crack, or peel, but deck stains won't be easily affected by such features and won't chip.
 Notably, many commercially available stains will have some preservatives and hence won't need a primer for effective adherence. Thus, a stain will safeguard your deck from weather-related and moisture hazards - which will make the deck last longer.
-https://www.youtube.com/watch?v=8Ahnw8EBNfg&feature=youtu.be
+
 ### 3. Variety - Stains Vs. Paints?
 Paints will give you a better variety - they'll come in many hues from crimson, Matte Paint, royal blue, off-white, and chocolate brown. Also, paints come in various sheens and textures, including flat, matte, eggshell, satin, semi-gloss, and glossy.
 However, deck stains are specifically created to enhance the natural grains and characteristics of wood and only come in shades of brown or just clear varieties. Further, stains only exist in one sheen or texture and thus will be absorbed by the wood.

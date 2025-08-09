@@ -38,7 +38,7 @@ Pros:
 Cons:
 - Premium priced
 
-https://www.youtube.com/watch?v=8_ckBJxW6mU
+
 > See Also:
 > [Removing Paint from Metal Door](https://pestpolicy.com/how-to-remove-paint-from-metal-door/)
 ### [2. Kilz Premium High hide stain-blocking primer](https://www.amazon.com/dp/B0002YOZZU/?tag=p-policy-20)
@@ -60,7 +60,7 @@ Pros:
 Cons:
 - Adequate preparation is needed
 
-https://www.youtube.com/watch?v=7KQy-h7koHk
+
 > See Also:
 > [Spray Paints for Metal](https://pestpolicy.com/best-spray-paint-for-metal/)
 ### [3. Rust-Oleum 7215102 Stops Rust Hammered black paint](https://www.amazon.com/dp/B000BZWZHU/?tag=p-policy-20)

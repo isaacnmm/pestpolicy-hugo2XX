@@ -36,7 +36,7 @@ Sectional Sofa for Family
 Unique features
 - Adequately padded backs, seat, and arms
 - Well piped detailing and contemporary frame features
-https://www.youtube.com/watch?v=Dm4dGUB0gHk
+
 
 Read Also:
 Recliner for Tall People Reviewed
@@ -48,7 +48,7 @@ The chair has a reclining mechanism that is easy to pull to enable you to adjust
 The side hand lever will enable easy reclining and positioning of the sofa. The sofa comes with a very soft foam padded footrest, backrest, armrests, and headrest to provide highly comfortable sitting for the expectant woman.
 The sofa has a strong and soft recliner, which will favor you adequately in the pregnancy phase, and the bedroom and living room area. Read Also:
 [Recliners for Short People](https://pestpolicy.com/best-recliners-for-short-people/)
-https://www.youtube.com/watch?v=uzgRyCfmonA
+
 
 Read Also:
 [Recliners for Sleeping](https://pestpolicy.com/best-recliners-for-sleeping/)
@@ -66,7 +66,7 @@ Unique Features
 - Lever Recliner
 - Plush Upholstered Arms
 - Plush Pillow Back
-https://www.youtube.com/watch?v=Lh1T0c6MxNw
+
 
 Read Also:
 Outdoor Rocking Chairs Reviewed
@@ -74,7 +74,7 @@ Outdoor Rocking Chairs Reviewed
 What is a Pregnancy recliner?
 - A Pregnancy recliner will increase your comfort as you can easily adjust its position and recline to match your needs to relax and ease back and neck pain.
 *Video on the Pregnancy Recliner Sofa. You can also try the Neck and Shoulder Massager.*
-https://www.youtube.com/watch?v=4rTrsOYCXPw
+
 ## Conclusion
 Pregnancy recliners will help you reduce sore joints and foot swelling when you raise the footrests.
 - You can easily adjust the backrest to achieve good support for your upper torso.

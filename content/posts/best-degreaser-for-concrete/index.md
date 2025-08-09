@@ -63,7 +63,7 @@ Pros:
 Cons:
 - Not effective during wet seasons
 
-https://www.youtube.com/watch?v=TpTRpP0wPro
+
 ### [3. GP66 Miracle concrete degreaser](https://www.amazon.com/dp/B07CZQHHCR/?tag=p-policy-20)
 This proprietary all-in-one cleaning solution was originally designed for industrial applications but has since gained popularity in households across the world.
 

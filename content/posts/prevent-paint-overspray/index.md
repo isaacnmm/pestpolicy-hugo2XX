@@ -31,7 +31,7 @@ To protect surfaces from stray paint, you can cover them either with plastic she
 Moreover, be careful when covering the surface (especially when sticking with an adhesive) to safeguard the primary material during removal.
 > See Also:
 > Airless Paint Sprayer Cleaning Solution
-https://www.youtube.com/watch?v=3_ghpcS2pX8
+
 ### Step 2: Set Proper Spray Pressure
 Set the spray painter at the right pressure (40 to 50 psi) and pre-test on the surface under paint application.
 When beginning, the spray pressure should be low (for minimal atomization), while the flow rate should be regulated gently.
@@ -49,7 +49,7 @@ To determine the spray width of a particular tip, double the tip diameter e.g. 2
 When selecting a paint sprayer, consider the surface material under paint application  an airless sprayer delivers a quality paint coat with minimal overspray. Moreover, airless sprayers are efficient and suitable for commercial spray painting.
 Small scale paint spraying should be done using medium size paint sprayer like Wagner or Fuji sprayer  the sprayers come with guns and nozzles with minimal spray width that eliminate overspray.
 Further, buy the right sprayer accessories such as a gun and pressure pot for excellent spray performance.
-https://www.youtube.com/watch?v=SqMFPPGPB58
+
 ### Step 6: Undertaking Appropriate Spraying Technique
 Before commencing surface paint spray application, you need to watch and learn techniques needed when spraying a particular section.
 These skills include maintaining a particular pattern, inter-pattern change when painting, nozzle adjustment, and trigger release.
@@ -74,7 +74,7 @@ The electrostatic charge on paint is best when applied in a spray booth or comme
 In this regard, the surface under paint application is maintained at a negative charge and paint solvent maintained at positive  the charge polarity difference causes attraction during spray application and hence minimizes overspray.
 > See Also:
 > Graco Airless Paint Sprayer
-https://www.youtube.com/watch?v=BoW3tTeDv_E
+
 ### Step 10: Orienting Spray Tip at a Proper Spray Angle
 When spraying, wrong tip angle orientation leads to overspray  the paint misses the target surface and stains unwanted sections.
 Normally, you ought to aim the sprayers tip at a right angle to the surface or slightly tilted  the atomized paint particles hit the target perpendicularly thus limiting side spray.

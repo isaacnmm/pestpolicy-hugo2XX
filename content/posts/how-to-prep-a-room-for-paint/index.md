@@ -32,7 +32,7 @@ Clean the walls, floor, and ceiling to remove surface dust or debris that may ha
 To do this, you can opt to sweep using a broom or run a vacuum cleaner over the surface.
 Cleaning is crucial as it helps identify sections that need stripping, sanding, or polishing without much straining.
 Moreover, surface cleaning opens pores or surface holes sealed by the dust particles or debris.
-https://www.youtube.com/watch?v=X9q3FKNEyCw
+
 ### c. Strip Old Paint
 Old paint should be stripped entirely to create a smooth paint contact surface  boosts surface stickiness ability.
 When stripping, its advisable to thin the walls/ceiling sufficiently to break paint molecular bond and hence ease the removal process 

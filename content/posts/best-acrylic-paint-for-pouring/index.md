@@ -40,7 +40,7 @@ Pros:
 Cons:
 - None
 
-https://www.youtube.com/watch?v=nvXjWwJMFNM
+
 See Also:
 Quality Paint Stripper for Wood
 ### [2. Arteza Acrylic Metallic Paint Fade-Resistant - #2](https://www.amazon.com/dp/B082BFFC3Y/?tag=p-policy-20)
@@ -61,7 +61,7 @@ Pros:
 Cons:
 - None
 
-https://www.youtube.com/watch?v=Uq0sMzhsu3w
+
 See Also:
 Deck Stain for Weathered Wood
 ### [3. Artist's Loft Sellerfox Acrylic Paint - #3](https://www.amazon.com/dp/B079TZ5SJD/?tag=p-policy-20)

@@ -58,7 +58,7 @@ Cons:
 - It needs to be reapplied every 2-3 weeks for best results
 - Is not effective in all seasons especially winters
 - Cannot be applied or combined with other chemicals
-https://www.youtube.com/watch?v=h_h_4WT6yLg
+
 ### [3. For Imported Fire Ants - Martins Surrender Fire Ant Killer](https://www.amazon.com/dp/B004GTKJ2K/?tag=p-policy-20)
 This extremely powerful fire ant killer is the one for you if you are looking for a powder-based insecticide for mound treatment.
 F

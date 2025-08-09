@@ -43,7 +43,7 @@ Well, in this article, I've reviewed some highly effective and
 [safe](http://npic.orst.edu/health/child.html)
 roach
 killers that'll help your kill those roaches in the house.
-https://www.youtube.com/watch?v=IJ1yFkcFXa4
+
 ### [2. #2 Pick: Harris Roach Tablets - Boric-Acid Kills Roaches Permanently](https://www.amazon.com/dp/B001B1LI8A/?tag=p-policy-20)
 
 What do professionals use to kill roaches? Harris Boric Acid contains 40% boric acid and 1% lure. It has a straw attached to the top, which makes it easy to use.
@@ -60,7 +60,7 @@ will be your best defense against roaches.
 Check this comprehensive review of the
 [Bengal roach spray](https://pestpolicy.com/bengal-roach-spray-review/)
 - Bengal products work.
-https://www.youtube.com/watch?v=X28J_Gd_aJU
+
 ### [3 #3 Pick: Advion-383920 Roach Killers - German Roaches](https://www.amazon.com/dp/B00730QW70/?tag=p-policy-20)
 
 DuPont Advion cockroach gel bait contains (1) a
@@ -111,7 +111,7 @@ The Bad:
 Place the roach baits in areas where roaches frequent, mix peanut butter and boric acid to make a trap cake for roaches, pour diatomaceous earth in areas where roaches will be moving, and
 remove all water sources or clogs
 in the apartment.
-https://www.youtube.com/watch?v=trAarfO54YM
+
 ### [6. Ortho 0196410 Defense Roach Killer - Best Perimeter Spray](https://www.amazon.com/dp/B01N7KSXHX/?tag=p-policy-20)
 
 In addition to killing roaches in the apartment,
@@ -153,7 +153,7 @@ One of a few of the roaches will feed on the bait station and spread the love to
 But,
 [Indoxacarb](https://www.entm.purdue.edu/ants/pubs/18.pdf)
 and Imidacloprid are great ingredients as they'll trigger a secondary killing.
-https://www.youtube.com/watch?v=zdneAEAk4-0&list=PLgrcu70UoQH6TqhzrlODuqPkGOu_3ytwY
+
 ### [8. Black Flag Roach Motel 61009 Best Roach Trap](https://www.amazon.com/dp/B005S4MCAY/?tag=p-policy-20)
 
 Roach Motel 61009 roach trap will be great for moderate roach infestations  killing both cockroaches and various crawling insects - among the best cockroach killer.
@@ -168,7 +168,7 @@ I noted that this Roach Motel 61009 roach bait would work for kitchen areas (lik
 However, keep pets and children away from this bait as they might be unable to remove themselves from the sticky setup.
 This Black Flag Roach Motel 61009 will clean a roach infestation and wont leave carcasses spread all over the house like the roach sprays.
 As noted above, the roach trap employs a sticky and sweetly smelling formula that will attract the roaches to the created cardboard box.
-https://www.youtube.com/watch?v=RpkJtk3_W3U&feature=youtu.be
+
 ### [9. Raid Ant and Roach Killer Spray, Lemon](https://www.amazon.com/dp/B00J5IRXBW/?tag=p-policy-20)
 
 To expel cockroaches and avoid re-infestation, I recommend this Raid Ant &

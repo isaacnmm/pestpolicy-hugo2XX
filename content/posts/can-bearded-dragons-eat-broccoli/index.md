@@ -52,7 +52,7 @@ As earlier said, you can give your bearded dragon small amounts of broccoli with
 Related:
 [Can Bearded Dragons Eat Apples?](https://pestpolicy.com/can-bearded-dragons-eat-apples/)
 ## **How to Prepare Broccoli for Bearded Dragon**
-https://www.youtube.com/watch?v=6LoSPtI19Z0
+
 - Wash fresh broccoli with running water or in a bowl of clean water. Rub it with your fingers to remove dirt and any lodged insects. Wipe the broccoli with a tea towel to dry.
 - Use a sharp knife to cut off the leaves from the stalk. Now part off the florets by cutting them out from the stalk.
 - For each of the floret, remove the stem so that youre only left with the flowering part.

@@ -21,7 +21,7 @@ smell are key indicators in case of invasion.
 - **The poop's size is about 3 to 6 inches long. Raccoon droppings can be piled in a cluster form or slightly scattered within the area. **
 **Raccoon poop (fresh) has a strong odor that can be detected from a couple of feet away. Raccoon poop is very contagious as it houses roundworms and bacteria that transmit diseases such as hantavirus and histoplasmosis.**
 
-https://www.youtube.com/watch?v=aY6q-C_XzrY
+
 ## Details: What Does Raccoon Poop Look Like?
 ### 1. Color
 Raccoon poop is usually brown in color (this may vary from light to dark brown, depending on the climatic conditions).

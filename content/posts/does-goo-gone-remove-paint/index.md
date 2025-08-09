@@ -28,7 +28,7 @@ Goo Gone comes with a simple trigger spray option, which allows point applicatio
 Moreover, Goo Gone is manufactured with biodegradable properties (no pollution), and its safe for both pets and kids - in case of inhalation. Importantly, Goo Gone doesnt stain the surfaces under paint removal.
 See Also:
 Deck Sealer for Pressure Treated Wood
-https://www.youtube.com/watch?v=qpdHpBHOcPQ
+
 ### b. Types of Pain Removed by Goo Gone
 Goo Gone is formulated with an exceptional chemical ratio that works excellently for the following type paints.
 - Wet and dried latex paint

@@ -38,7 +38,7 @@ Further, you can readily detach the base and handle to allow configuration to lo
 Easy Customization with T.A.R.G.E.T. -Hotas Warthog uses the T.A.R.G.E.T. software that will allow you to put up various configurations and test to match your requirements. Therefore, you can easily set up favorable controls, with the various software levels.
 High Accuracy -The HallEffect AccuRate Technology (H.E.A.R.T.) allows the Hotas Warthog to have increased precision.
 The triggers and buttons are pressure-sensitive to create better realism. The sixteen-bit precision will enable you to easily move around with increased accuracy.
-https://www.youtube.com/watch?v=lCuQEsc1g_8
+
 Read Also:
 Wifi Extender for Verizon Fios
 ### [2. Saitek X52 Pro Flight Control](https://www.amazon.com/dp/B000LQ4HTS/?tag=p-policy-20)
@@ -83,7 +83,7 @@ The joysticks rubber material base helps increase resistance and thus the device
 Also, it is produced from heavy-duty plastics that will avoid excess joystick movement on the desk. It comes with a USB cable to allow you to easily connect to your PC.
 Beautiful Joystick - Extreme 3D Pro is more streamlined and smart to use in your gaming. Extreme 3D Pro is a sturdy, rapid action, and accurate joystick that will help you to easily transit from the cumbersome keyboard and mouse or poorly performing joystick.
 With 12 programmable buttons, the joystick will give you better control and precision combined with action of Rapid action technology and smooth throttle settings. However, the joystick has fragile rudder control.
-https://www.youtube.com/watch?v=0PUp-QjqxOo
+
 Read Also:
 [Nintendo Switch SD Card](https://pestpolicy.com/nintendo-switch-sd-card/)
 ## Conclusion

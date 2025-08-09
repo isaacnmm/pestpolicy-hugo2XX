@@ -95,7 +95,7 @@ You can also make swat trap, which you will swap and kill any flying wasps you s
 ### 2. Using Wasp Spray
 You can spray the wasps nests directly using the insecticide to kill eggs and adult wasps. Ensure you frequently do this to keep off future infestations. It is necessary to select the best spray for wasps.
 
-https://www.youtube.com/watch?v=f7GqQmTT1MU
+
 ### 3. Using wasps Repellent Dust
 Wasps repellent dusts are product made to release a smell that keeps off wasps. You can purchase these products and place them at different points in your compound or home.
 

@@ -37,7 +37,7 @@ Gliding is a great way for spiders (and other arthropods) to escape from predato
 Some spiders can even use
 [changes in wind currents](https://pestpolicy.com/how-to-get-rid-of-brown-recluse-spiders/)
 or tree branches like stepping stones across gaps too wide for jumping.
-https://www.youtube.com/watch?v=Ja4oMFOoK50
+
 ### How Spider Silk help in flight?
 The spider's silk is the strongest known natural material. It's stronger in some ways than steel and Kevlar, yet it's light as a feather!
 Spiders can make silk straight from liquid to solid by spinning out of their mouths or rear ends. The spider makes its own glue when needed, just like you might use Elmers glue from a jar.

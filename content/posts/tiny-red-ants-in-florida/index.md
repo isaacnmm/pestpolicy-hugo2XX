@@ -32,7 +32,7 @@ The yellow ants could also impact agriculture by contributing to the damaging of
 For the removal of these yellow ants from your Florida home or elsewhere, I
 recommend using some vacuum cleaner
 .
-https://www.youtube.com/watch?v=qSx2bNASW60
+
 ### 2. Carpenter Ants
 The Carpenter Ants scientifically referred to as then Camponotus floridanus are comparable in size and shape to the
 [Fire Ants](https://pestpolicy.com/best-fire-ant-killer-for-lawns/)

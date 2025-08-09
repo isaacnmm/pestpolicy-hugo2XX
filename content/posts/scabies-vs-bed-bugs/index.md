@@ -22,7 +22,7 @@ how to kill them-fast/)
 *Scabies bites cause a red rash (that appears in a line) and Intense itching.*
 amazon bestseller="Best [Bed Bugs Killers" items="2" template="table"]
 ## **Similarities: Scabies Vs. Bed Bugs: Identification & Treatment**
-https://www.youtube.com/watch?v=TBh8KW2lIm8
+
 ### **1.Itchiness**
 *Both bedbug bites and scabies bites are itchy.*
 This is due to the presence of two chemicals in their saliva. An anticoagulant stops blood from clotting and Anesthetic chemicals, which leaves a numb feeling preventing the bite from itching for a few seconds.
@@ -42,7 +42,7 @@ Bedbugs feed on one or two people in a single bed for most of their lifespan. Th
 The infestation is only spread if the individual mite lived on two or more people; however, it won't pass any diseases.
 Related:
 Does Dryer Kill Bed Bugs
-https://www.youtube.com/watch?v=QcpjbKCmqAw
+
 ## **Differences: Scabies Vs. Bed Bugs**
 ### **1. Size**
 *Bedbug Bites*

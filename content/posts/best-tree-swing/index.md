@@ -40,7 +40,7 @@ Pros:
 Cons:
 - None
 
-https://www.youtube.com/watch?v=a-Oxz3yKsdE
+
 Read Also:
 Outdoor Playsets for Toddlers
 ### [2. Spider Web Tree Swing - Play Platoon - #2 Pick](https://www.amazon.com/dp/B07B12ZHVV/?tag=p-policy-20)
@@ -59,7 +59,7 @@ Pros:
 Cons:
 - The package does not come with a hanging kit
 
-https://www.youtube.com/watch?v=sbogHjqfBTU
+
 Read Also:
 Stain For Cedar Swing Set
 ### [3. Galaxy Giant Tree Swing - #3 Pick](https://www.amazon.com/dp/B01DCU2RJG/?tag=p-policy-20)

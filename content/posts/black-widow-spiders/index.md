@@ -42,7 +42,7 @@ The symptoms of a black spider bite will include diaphragm paralysis, muscle ach
 Annually about 2,500 humans report having been bitten by black widows and getting relief from antivenoms.
 - The black widow venom is only recommended for people who are pregnant, those with high blood pressure, or humans with troubled breathing.
 The Black widow bites anti-venom first came up in the 1930s and horses are the main animals used in the research.
-https://www.youtube.com/watch?v=W42xShK0h8o
+
 ### 2. Where Can You Find The Black Widows?
 The black widows or the Latrodectus spiders will occupy temperate areas including those in South America, Africa, Australia, Asia, South Europe, and North America.
 - The Black widows have been mainly occupying the grasslands deserts and forests which are largely in the West and South areas in the United States.

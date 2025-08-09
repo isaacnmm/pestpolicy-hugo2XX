@@ -36,7 +36,7 @@ Pros:
 Cons:
 - None found
 
-https://www.youtube.com/watch?v=h6Wj9Q6YjH8
+
 > See Also:
 > Sprayer for Walls and Ceilings
 ### [2. Pro Grade 6 Pack Paint Brushes- angular brush](https://www.amazon.com/dp/B07CB1Y7CN/?tag=p-policy-20)
@@ -56,7 +56,7 @@ Pros:
 Cons:
 - None found
 
-https://www.youtube.com/watch?v=xemkr74HEyQ
+
 > See Also:
 > Removing Oil Stains from Wall Paint?
 ### [3. Wooster Brush-Angle Sash Paintbrush](https://www.amazon.com/dp/B002YC06T2/?tag=p-policy-20)

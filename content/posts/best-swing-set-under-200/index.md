@@ -44,7 +44,7 @@ Pros:
 Cons:
 - Low height, kids who grow fast are likely to outgrow it quickly
 
-https://www.youtube.com/watch?v=MmjREgUCFeM
+
 Read Also:
 Swing Sets for Small Yards
 ### [2. Step2 Panda Climber, Tan/Red/Yellow/Blue](https://www.amazon.com/dp/B0085Y831Q/?tag=p-policy-20)
@@ -63,7 +63,7 @@ Pros:
 Cons:
 - None
 
-https://www.youtube.com/watch?v=WY6VkxbFjUc
+
 Read Also:
 [Swing Set Under 200](https://pestpolicy.com/best-swing-set-under-200/)
 ### [3. Step2 All-Star Sports Climber](https://www.amazon.com/dp/B00A32OR2W/?tag=p-policy-20)

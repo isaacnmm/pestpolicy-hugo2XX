@@ -38,7 +38,7 @@ If you are dealing with latex paint, all you need is to rub it off with a clean 
 - Apply just enough denatured alcohol to dampen the rag
 - Pass the alcohol-soaked rag over the paint spot. Accordingly, rinse, re-soak, and repeat as necessary.
 - When finished, dry the spot with a clean and dry rag.
-https://www.youtube.com/watch?v=7XgOAVef1V4
+
 ### **2. Removing fresh oil-based paint using mineral spirits**
 Wet the spot rag with mineral spirits if you are dealing with an oil-based paint. For the best results in getting rid of the fresh paint, respond as fast as possible.
 - Immerse a soft clean rag into a small bowl of mineral spirits. Only dip a small area of the cloth.
@@ -57,7 +57,7 @@ Dry paint spots can be softened through soaking and scrubbing them off using hea
 - Dry the area using a separate dry rag
 > See Also:
 > Deck Stain for Pressure Treated Wood
-https://www.youtube.com/watch?v=oR20LbydCYo
+
 ### **4. Using mechanical methods to remove dried stubborn stains**
 If the stain cannot be washed away after being softened with heated linseed oil, a butter knife can be used to scrap beneath the spot and lift the stain off the trim wood.
 - Gently scrub using a butter knife to eliminate the softened paint drip; use gentle strokes to loosen and lift the stain.

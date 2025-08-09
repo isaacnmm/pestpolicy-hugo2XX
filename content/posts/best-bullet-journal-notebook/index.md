@@ -35,7 +35,7 @@ For the notebook enthusiasts, Leuchtturn1917 has a thread-bound hardcover, gusse
 - With its double bookmarks organization systems: an index and numbered pages.
 - Overall, I love the color selection, quality, and bookmarking and navigation systems that Leuchtturn1917 provides.
 Therefore, let's dive into the details of the highest quality Bullet Journal Notebook that you can purchase to organize your life activities at the best value possible.
-https://www.youtube.com/watch?v=Vv7Yhrj35Yw
+
 ### **2. Rhodia Webnotebook A5 Dot Grid**
 The Rhodia Webnotebook A5 Dot Grid, nicknamed "Webbie," is well known Best Bullet Journal Notebook, particularly to people who use fountain pens.
 - This is largely because the Webbie has a fountain pen, friendly papers.
@@ -46,7 +46,7 @@ The hardcover is also super smooth such that it even shows an imprint of its ela
 - Interestingly, the journal notebook has 892 ivory-colored pages.
 - The journal notebook has a pocket at the back that does not line up with the edges, which makes it easy to access.
 The ivory-colored paper is produced by Claire frontin and France and thus has a high-quality production. Also, the forms are very smooth and will feel keen to write on.
-https://www.youtube.com/watch?v=Z-SAeufIGp8
+
 ### [3. Moleskine Classic Notebook  Soft Cover](https://www.amazon.com/dp/8867323636/?tag=p-policy-20)
 Moleskine's classic notebook is multipurpose, hardy, lightweight, and soft to touch. Notably, the Moleskine notebooks are almost similar to the Leuchtturm1917.
 - Luckily, the journal is light enough to be carried in your bag.

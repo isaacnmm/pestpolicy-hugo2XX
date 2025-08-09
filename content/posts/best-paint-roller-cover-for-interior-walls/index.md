@@ -40,7 +40,7 @@ Pros:
 - Excellent forrough-surface painting
 Cons:
 - Not recomeneed fortextured painting
-https://www.youtube.com/watch?v=EMU08yhAauw
+
 ### [2. True-Blue Professional 4-Inch Paint-Roller Covers](https://www.amazon.com/dp/B0751PMGQJ/?tag=p-policy-20)
 True-Blue Professional has microfiber that is premium - this also allows you to add space color. It's great for painting different surfaces - with the appropriate
 nap length.
@@ -59,7 +59,7 @@ I also recommend True-Blue Professional painting your small projects, including 
 **, **
 trim or baseboards
 , walls - but you'll need to choose a suitable roller frame (4-inch).
-https://www.youtube.com/watch?v=CxIN_SwOVjQ
+
 ### [3. ALAZCO Mini 3-Inch Covers for Small Areas, Edges, and Painting Trims](https://www.amazon.com/dp/B0791SDDXD/?tag=p-policy-20)
 ALAZCO Mini 3-Inch is different - it's not your usual 9-inches+ paint roller that is suitable for large ceiling or walls - this one is smaller (3 Inches) and better for confined spaces.
 

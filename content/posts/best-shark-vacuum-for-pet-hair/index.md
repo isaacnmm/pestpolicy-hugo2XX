@@ -23,13 +23,13 @@ removal.
 
 ## [1. Our #1 Pick:Shark-IZ363HT Handheld & Cordless Vaccuum](https://www.amazon.com/dp/B08FP95RQD/?tag=p-policy-20)
 
-https://www.youtube.com/watch?v=m575vGsl2uU&t=7s
+
 ## **2. #2 Pick: Shark-ZU62 Zero-M Navigator Self-Cleaning Vacuum**
 
-https://www.youtube.com/watch?v=COi_KD05s1g
+
 ## [3. #3 Pick:Shark-APEX AZ1002 Upholstery & Crevice Tools Vacuum](https://www.amazon.com/dp/B07FX5PCMN/?tag=p-policy-20)
 
-https://www.youtube.com/watch?v=G9MnaSKQtR4
+
 ## [**4. Shark APEX AZ1002 Zero-M Anti-Hair Wrap Technology**](https://www.amazon.com/dp/B07FX5PCMN/?tag=p-policy-20)
 
 Shark APEX AZ1002 is an update from the Shark Apex AX951. But unlike Apex AX951, the new model features the Zero-M, which makes it possible to remove entangled hair.
@@ -51,7 +51,7 @@ The Good:
 - LED lights are useful around dark corners
 The Bad:
 - A bit heavy
-https://www.youtube.com/watch?v=G9MnaSKQtR4
+
 ## **5. Shark Rocket ZS351 Anti-Hair Wrap With Zero-M Technology**
 
 Shark Rocket ZS351 features premium-grade components that will make your work easier, efficient, and enjoyable.
@@ -69,7 +69,7 @@ The Good:
 - Gets under furniture with ease
 The Bad:
 - Short power cord
-https://www.youtube.com/watch?v=9qqn5xHCA8Q
+
 ## [**6. Shark Rotator NV752 TruePet Powered Lift-Away**](https://www.amazon.com/dp/B00X7R1FZ2/?tag=p-policy-20)
 
 NV752 TruePet vacuum cleaner is a true companion when it comes to cleaning pet fur.

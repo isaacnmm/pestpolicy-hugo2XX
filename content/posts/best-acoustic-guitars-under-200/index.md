@@ -37,7 +37,7 @@ Pros:
 Cons:
 - Not as exquisite looking as its rivals
 
-https://www.youtube.com/watch?v=_F57pSjdbiw
+
 Read Also:
 Acoustic Guitar Under 1000
 ### [2. Yamaha FG800 Acoustic Guitar](https://www.amazon.com/dp/B01C92QHLC/?tag=p-policy-20)
@@ -56,7 +56,7 @@ Pros:
 Cons:
 - None found
 
-https://www.youtube.com/watch?v=E3cqM9Z0HZQ
+
 Read Also:
 Acoustic Guitar Under 500
 ### [3. Epiphone DR-100 Acoustic Guitar](https://www.amazon.com/dp/B0002F7IV2/?tag=p-policy-20)

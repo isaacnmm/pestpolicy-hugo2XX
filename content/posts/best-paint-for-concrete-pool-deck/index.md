@@ -41,7 +41,7 @@ Pros:
 Cons:
 - None
 
-https://www.youtube.com/watch?v=mxINgCGKuI0&feature=youtu.be
+
 > See Also:
 > Refinishing your Deck
 ### [2. Insl-X WR-10XX semi-gloss pool paint](https://www.amazon.com/dp/B000NW136U/?tag=p-policy-20)
@@ -63,7 +63,7 @@ Pros:
 Cons:
 - Highly sensitive to temperature variations
 
-https://www.youtube.com/watch?v=MGlyETTjWGw
+
 ### [3. Kilz concrete and masonry protector and waterproofer](https://www.amazon.com/dp/B00B2G97FU/?tag=p-policy-20)
 This product is specially designed to breathe some new life into your pool deck. Its slip resistance performance is what you need if you are to
 [secure your swimming area](https://www.redcross.org/get-help/how-to-prepare-for-emergencies/types-of-emergencies/water-safety/swim-safety.html)

@@ -35,7 +35,7 @@ Wear protective gear during paint application for your own personal safety. To g
 - Pour the paint into an empty bucket gently
 - Thin the paint sufficiently as per the manufacturers instructions. Well thinned paint should flow smoothly without stopping when run on a gently inclined surface
 - Stir the paint solvent to attain a uniform compound
-https://www.youtube.com/watch?v=YcKV9mES3kY
+
 > See Also:
 > Pump Sprayers for Staining Fences
 ### b. Set and Test the Sprayer Settings

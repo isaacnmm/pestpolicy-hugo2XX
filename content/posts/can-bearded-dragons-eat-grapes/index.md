@@ -28,7 +28,7 @@ on them. Would it be okay if you feed it with grapes leaves or vines?
 Fiber acts as roughage and binds the food being digested within the alimentary canal. Normally, grapes fiber network will help prevent constipation (inability to release bowels) in your bearded dragon.
 Moreover, the grapes fibers are strong, long and coiled (especially for seedless grapes) thus providing a strong grip on food being digested without breaking. This improves the peristalsis process too  the smooth flow of chyme within the digestive track of your bearded dragon.
 NB: It is important to note that the fibers are never digested and are highly need in every diet that you feed your beardie.
-https://www.youtube.com/watch?v=_nCXF8WhW9o
+
 Related:
 [Can Bearded Dragons Eat Cantaloupe? 7 Tips](https://pestpolicy.com/can-bearded-dragons-eat-cantaloupe/)
 ### 2. Relative Water Content Level

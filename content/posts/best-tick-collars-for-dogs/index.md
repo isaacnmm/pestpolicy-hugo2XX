@@ -35,7 +35,7 @@ However, the manufacturer advises against regular baths as it may reduce its eff
 The Bayer Seresto Dog collar is an easy to use, low maintenance, and affordable tick collar for dogs that works as advertised -
 try dog beds
 .
-https://www.youtube.com/watch?v=S51z2k-4nSc
+
 ### [2. Arava Flea Prevention Collar](https://www.amazon.com/dp/B01N0UCPUS/?tag=p-policy-20)
 If you prefer natural tick collars, then the Arava Flea $ Tick Prevention Collar is an excellent choice.
 Treated with 100% natural herbal ingredients and essential oils, this collar is safe for your dog, children, and other pets.
@@ -49,7 +49,7 @@ However, avoid bathing your dog frequently as the protection duration may reduce
 The Arava Flea and Tick Collar are highly effective, safe, affordable, and long-lasting. Its ideal for large, medium, and small dogs - in combination with
 using yard tick sprays
 .
-https://www.youtube.com/watch?v=UzLuCiFZX1U
+
 ### [3. Rolf Club 3D FLEA Collar for Dogs](https://www.amazon.com/dp/B06XGWYHWR/?tag=p-policy-20)
 The Rolf Club 3D FLEA Collar for Dogs is an advanced,
 [fast-acting solution](https://pestpolicy.com/best-tick-shampoo-for-dogs/)

@@ -30,7 +30,7 @@ While sand fleas are tiny insects that you may not be able to spot with your nak
 When you're walking on sand, sand fleas are most likely to climb onto your legs and feet. If you're wearing shoes, they'll crawl up to your ankles.
 - Sand fleas are also known as "no-see-ums," because their bites can be difficult to notice when they come in groups and the saliva from the bite is injected deeply into your skin.
 - This makes it easier for them to feed on blood without being detected.
-https://www.youtube.com/watch?v=velEs7LWJHU
+
 ### Step 2: Do you have sand fleas bites?
 Sand fleas bite humans and pets to suck blood and embed their eggs. The sand flea bites are often red, round, itchy bumps that look like mosquito bites; see a
 comparison on mosquito bites vs spider bites

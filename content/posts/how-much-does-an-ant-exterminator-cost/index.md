@@ -36,7 +36,7 @@ Pest control costs are not simply random numbers that companies showcase in thei
 #### i. Level of Infestation
 The market rule of the thumb is that large ant infestation requires more pay. This is attributed to the fact that, naturally, the expert will need more time and pest killer to deal with [ants](https://pestpolicy.com/ant-exterminator-in-seattle/).
 The level of pest infestation is best measured by the surface area covered and/or the number of ants found in a given square foot.
-https://www.youtube.com/watch?v=fTbUBE1XCnM
+
 #### ii. The Type of Ant Species
 Consulting ant experts is highly recommended in the initial identification of the type of ant species infestation in your place.
 By so doing, you will easily settle for the best method to go, bearing in mind that there are more than a dozen species of ants, whose specific behavior and associated risks demand a well-thought remedy in order to achieve complete elimination.

@@ -30,7 +30,7 @@ This is a non-toxic natural way to kill fleas inn your house, if you have childr
 3. One time may not be enough, make it a routine for three days to ensure total elimination of fleas.
 4. Steam will not only kill larva and adult fleas but also all eggs will be killed by the high temperatures.
 5. Apart from killing these irritating fleas, your carpet, furniture and sofas will be free from any other pest dwelling there.
-https://www.youtube.com/watch?v=8UYQ4rbwsEM
+
 ### 2. Laundering
 This is an activity of washing items infested with fleas with some hot water and detergent in a washer. The bleach and the detergent will very well kill the fleas, larvae and their eggs.
 Also the washing machine will make violent movements along with hot water to kill the fleas. So if a flea misses the washer it wont miss death in the dryer due to its high temperatures.

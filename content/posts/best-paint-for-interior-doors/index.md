@@ -39,7 +39,7 @@ Pros:
 Cons:
 - Has paused some cleaning challenges
 
-https://www.youtube.com/watch?v=0vHaKWYsVE8
+
 > See Also:
 > Time To Paint a House Interior
 ### [2. Diamond Brite Paint 31600](https://www.amazon.com/dp/B00AENFLMK/?tag=p-policy-20)
@@ -58,7 +58,7 @@ Pros:
 Cons:
 - May emit some odor after application.
 
-https://www.youtube.com/watch?v=4qJd1yA4rTc
+
 > See Also:
 > Interior vs Exterior Paint
 ### [3. Diamond Brite Paint 80000 1-Quart Latex](https://www.amazon.com/dp/B00AENH66O/?tag=p-policy-20)

@@ -32,7 +32,7 @@ For example, the technicians offered to remove spider webs and wasp nests that t
 - I can report that the preventative treatment (specifically the annual plan) is cheaper compared to using reactive pest treatment.
 Related:
 Orkin Pest Control Review
-https://www.youtube.com/watch?v=TO-WC7yWvN8
+
 ## Negative vs Positive Reviews of Armored Pest SVC
 I sought to examine if the claims by armor pest defense matched up to the reviews given by the customers.
 - My conclusion is that there was a negative correlation - where customers reported the Pest Control services as being of poor quality.

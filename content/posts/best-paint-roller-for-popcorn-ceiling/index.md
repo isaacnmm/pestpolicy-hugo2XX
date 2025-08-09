@@ -40,7 +40,7 @@ Pros:
 Cons:
 - None found
 
-https://www.youtube.com/watch?v=Gkk-BmuX_3M
+
 > See Also:
 > Paint Finish for Ceilings
 ### [2. Bates Paint Roller- P 11-piece home painting supplies](https://www.amazon.com/dp/B01MRTEOHI/?tag=p-policy-20)
@@ -63,7 +63,7 @@ Pros:
 Cons:
 - Questionable quality for tray
 
-https://www.youtube.com/watch?v=43NFE9i9wr0
+
 > See Also:
 > Fixing Peeling Paint on Ceiling
 ### [3. True Blue Professional Paint Roller Covers](https://www.amazon.com/dp/B0751JYPGG/?tag=p-policy-20)

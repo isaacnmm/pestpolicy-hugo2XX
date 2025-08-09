@@ -61,7 +61,7 @@ that there was a reduced risk (in mice) of getting urinary bladder cancer after 
 However, some studies show that drinking alkaline water
 [could promote](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3195546/)
 a better update of chemotherapy medication for humans with cancer.
-https://www.youtube.com/watch?v=m1shnrqGHXE
+
 ## Alkaline Water vs. Plain Water
 Many people consider that plain water more suitable for their health as compared to drinking alkaline water. This is mainly because of fear that alkaline water would neutralize their's blood acid.
 However, as noted above, moderate drinking of alkaline water will reduce the chances of getting heart disease, high blood pressure, or even cancer.

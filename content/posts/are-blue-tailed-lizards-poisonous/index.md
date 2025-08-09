@@ -60,7 +60,7 @@ Some sources states that, when your cat eat Blue Tailed Lizard, it may fall sick
 
 Normally, Blue Tailed Lizards will try to escape in case the see a cat since most cats tend to feed on them. Though some species of lizards may not be poisonous to your cat, it is necessary to keep off your cat from any access to Blue Tailed Lizard.
 
-https://www.youtube.com/watch?v=CQ3g415tSTs
+
 ## Can Blue Tailed Lizards Be Poisonous to Your Dogs, then?
 No. The blue tailed lizards will rarely bite the dogs. Instead, the reptile tends to escape once it sees a dog as it fears being eaten. Blue tailed lizards do not contain venom and their bites cause no injuries on your dog (has no strong teeth).
 
@@ -97,7 +97,7 @@ You can secure safely your pet lizards so that cats and dogs do not eat them. Lo
 
 When playing with your blue tailed lizard pet, keep off your dogs and cats as they may grab and eat it. Or else, you can train your dog and cat to be friendly with your blue tailed lizard pet this may not be easy.
 
-https://www.youtube.com/watch?v=3q4tsvD8ah8
+
 ## Conclusion
 Blue Tailed Lizards are not poisonous. They may not harm you children, pets and other humans by their bite since they have no venom.
 

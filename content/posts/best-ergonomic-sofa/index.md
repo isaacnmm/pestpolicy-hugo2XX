@@ -27,7 +27,7 @@ Tangkula PU Leather Massage Chair Review. The sofa should allow you to sit uprig
 With the 2 cup holders on the chairs armrest, you can now rest easily to enjoy
 a drink while watching tour series or just relaxing.
 
-https://www.youtube.com/watch?v=rLkbKefnU4c
+
 Read Also:
 Athletic Shoes for Lower Back Pain
 ### [2. Top Grain VIVA Leather PU Ergonomic Sofa 3 Seater](https://www.amazon.com/dp/B01KNBFYHY/?tag=p-policy-20)
@@ -43,7 +43,7 @@ Its leather exterior is highly durable and will be comfortable for your sitting.
 The sofa has a manual reclining system to offer an awesome lounging experience with high levels of comfort which you can achieve by pushing on the backrest. It is easy to install as it requires minimal assembly.
 Youll love how the recliner fits into small spaces. It will fit perfectly in lofts, condos, and apartments that have small spaces.
 The sofa will also recline into many angles and thus will be favorable for older people.
-https://www.youtube.com/watch?v=zujxf0VVCOA
+
 Read Also:
 Quality Outdoor Rocking Chairs
 ### [3. Coaster 601711P Home Furnishings Power Sofa](https://www.amazon.com/dp/B00W9BXSMK/?tag=p-policy-20)

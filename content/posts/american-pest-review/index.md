@@ -44,7 +44,7 @@ I noted that the company is classified as being Green Pro Certified which means 
 - For example, American Pest has a clear plan on how to undertake pest control (while protecting the environment) on premises that have kids or pets.
 Reviews:
 Bulwark Exterminating Review
-https://www.youtube.com/watch?v=c1eoLsaK1n0&list=PLWAD1BNs6ORx3DP_Jg-_20_7zgIARWcHv
+
 ## Upsides and Downsides of American Pest Control
 Upsides
 - Offer protection from different wildlife and bug species

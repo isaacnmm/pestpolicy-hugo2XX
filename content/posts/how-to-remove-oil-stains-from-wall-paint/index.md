@@ -25,7 +25,7 @@ Paint Sprayer for Furniture
 ### a. Baking Soda
 Prepare four tablespoons of baking soda and mix with 2 cups of warm water. Stir appropriately and rub the solution over the oil stains gently using a piece of clean cloth or sponge.
 The compound reacts with oil stain breaking it into a thin fluid that dissolves in water. The baking soda solution wont affect the wall paint during application. However, you must be keen not to apply an excess abrasive force that may affect the primary paint layer during oil stain removal.
-https://www.youtube.com/watch?v=STwl4BOyMgc
+
 ### b. White vinegar
 White vinegar
 is composed of acetic acid (3% to 5%) and water (90% to 99%) plus other additives that improve flavor. The acidity part of white vinegar breaks down the oil stain to form a thin viscous fluid on the surface.
@@ -51,7 +51,7 @@ Add  cup of Trisodium Phosphate into 4 cups of water and stir evenly for one min
 Consider wearing gloves to avoid skin irritation associated with Trisodium Phosphate. See Also:
 [Stain for Swing Set ed](https://pestpolicy.com/best-stain-for-swing-set/)
 .
-https://www.youtube.com/watch?v=bsxjkII2WPo
+
 ## Precautions and Steps to Follow When Removing Oil-Stains from Wall Paint
 Before carrying out the stain removal process, you need to adhere to some of the precaution highlighted below:
 - When using ammonia, wear a face mask (respirator)  has a chocking smell that may irritate your nasal cavity when inhaled.

@@ -24,7 +24,7 @@ Headphones for Music Production
 One of the cheaper end easiest ways to soundproof would be to lay carpeting down, thick carpets work best absorbing the bass frequencies which travel through the ground.
 ### 2. Moving Blankets
 Theseblankets are known to be great for absorbing sound and they are not tooexpensive either. All you will need to do is hang them in your tent against thewalls and they will act as a sound barrier.
-https://www.youtube.com/watch?v=dEUP9Qp81dQ
+
 ### 3. Acoustic Barriers
 This material is used in recording studios granting it a great material to use. It can be on the more expensive side but I believe it is worth every penny.
 When purchasing the material companies size them to room size in a house or studio so you may have to cut the material down to the size of your tent.

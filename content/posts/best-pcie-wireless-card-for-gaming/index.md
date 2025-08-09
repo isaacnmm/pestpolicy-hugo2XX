@@ -27,7 +27,7 @@ Further, you can individually attach an antenna to the PCI-E card to achieve a m
 To achieve optimal signal connection with your adapter, the device has a magnetized external antenna for the best coverage.
 Also, the adapter has an R-SMA antenna connector that will allow you to easily connect to the antennae available in the market.
 To avoid overheating, the PCI-E adapter has a heat sink to dispel excessive heat from your motherboard.
-https://www.youtube.com/watch?v=KA6lg1YczrM
+
 
 Read Also:
 Gaming Chair for Tall Person
@@ -39,7 +39,7 @@ The adapter is good for multiplayer online gaming and HD video streaming.
 The 5GHz bandwidth is better than the crowded 2.4GHz band since the latter is shared by different wireless networks, phones, and microwaves.
 Therefore, you will get a more stable signal from your wireless network.
 The device offers advanced security in your connection with the WPA/WPA2 Encryption.
-https://www.youtube.com/watch?v=4X_qNkJY3_g
+
 
 Read Also:
 Gaming Projector

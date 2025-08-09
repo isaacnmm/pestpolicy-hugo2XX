@@ -31,7 +31,7 @@ sprayers will create an
 atomized paint mist that is fine and thinner but the
 [HVLP sprayer](https://pestpolicy.com/how-to-use-an-hvlp-paint-sprayer/)
 will give large droplets and a thicker coating because of the lower pressure.
-https://www.youtube.com/watch?v=zYBIdm2waxk
+
 ## What are HVLP Sprayers used for?
 ### 1. HVLP - Furniture finishing
 The paint is sprayed or released at relatively low pressure - and thus the gun produces less overspray - this reduces material wastage and also minimizes air pollution.
@@ -51,7 +51,7 @@ garage doors
 Because the nozzles are manufactured from copper, you can easily paint over different materials such as plastic and give you top block-resistance and durability.
 You can twist the sprayer's air cap to choose the desired spray patterns of the possible three. For more precise painting, twist the flow-control knob to play around with the flow rate of the material.
 Further, since the sprayer is a high-quality piece, you'll use it for longer to paint your furniture. The double-layer design promotes safety and enhances insulation.
-https://www.youtube.com/watch?v=3JYgSQKwkWI
+
 ### 2. HVLP - Painting yourBuildings
 HVLP sprayers will be great both for architectural work and renovating transportation constructions. It gives an even coating with the right nozzle for painting buildings with different paints.
 For example, you may use the HVLP sprayer for the application of inconsistent or layers of drywall mud - either outdoor or indoor - and you won't get
@@ -70,7 +70,7 @@ lacquer
 or
 interior wood stains
 .
-https://www.youtube.com/watch?v=xlvx8jHf9k0
+
 ### 3. HVLP - Marine finishing
 Great finishing is required for
 marine vessels

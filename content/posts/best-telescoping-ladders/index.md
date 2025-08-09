@@ -38,7 +38,7 @@ Pros:
 - Affordable
 Cons:
 - None found
-https://www.youtube.com/watch?v=w-U0XK8FyOg
+
 ### [2. Ohuhu 12.5 Ft. Aluminum Telescoping Extension Ladder](https://www.amazon.com/dp/B01LAHCOQ4/?tag=p-policy-20)
 This is heavy-duty equipment that is preferred by homeowners and exterior designers for its convenience.
 T
@@ -55,7 +55,7 @@ Pros:
 - Affordably priced
 Cons:
 - Tends to wobble when extended
-https://www.youtube.com/watch?v=PiBemkWS_hw
+
 ### [3. Luisladders Telescopic Mullti-Use 26 Ft Aluminum Extension Ladder](https://www.amazon.com/dp/B01FUCCPPA/?tag=p-policy-20)
 This ladder offers 4-in-1 utility: telescoping, twin step ladder, stairway step ladder, and two scaffold base capacity.
 W

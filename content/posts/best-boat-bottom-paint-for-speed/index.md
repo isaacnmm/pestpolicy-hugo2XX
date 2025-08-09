@@ -44,7 +44,7 @@ Pros:
 Cons:
 - Effects are temporary
 
-https://www.youtube.com/watch?v=RF_3iUco9xk
+
 > See Also:
 > Non-skid paint for aluminum boats
 ### [2. McLube Hullkote High-Performance Speed Polish](https://www.amazon.com/dp/B005MZ8DSO/?tag=p-policy-20)
@@ -66,7 +66,7 @@ Pros:
 Cons:
 - None
 
-https://www.youtube.com/watch?v=5zDxdwBneaw
+
 ### [3. Spartan multi-season antifouling paint](https://www.amazon.com/dp/B00LLIKSOS/?tag=p-policy-20)
 Pick this product if you are looking for an all-season anti-fouling coating for your speed boats hull.
 

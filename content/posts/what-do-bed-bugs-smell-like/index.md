@@ -27,7 +27,7 @@ There are many signs that an infestation of bed bugs might be present; some thin
 You may also notice that you suffer from irritation and itching as a result of these creatures. However, one of the giveaway signs that you have some unwelcome guests could be their scent - check these
 bed bug nymphs
 .
-https://www.youtube.com/watch?v=CdntsIC2kCs
+
 It is more common to notice bed bugs' odor when there is a much larger infestation; due to their small size, they need to be in a larger number for the smell to be potent enough to be detected by human nostrils.
 There have been suggestions that the smell of
 [bed bugs](https://entomology.ca.uky.edu/ef636)
@@ -40,7 +40,7 @@ That being said, there are various smells linked with bed bugs, and it is somewh
 - Almonds
 - Stink bugs (check stink bugs vs. bed bugs)
 It is quite likely that if you enter into a property where bed bugs are present with an odor, you will pick up on this right away; however, if you have an infestation in your home, you may become immune to the smell.
-https://www.youtube.com/watch?v=vaYepvm65gw
+
 Read Also:
 Does Vinegar Kill Bed Bugs?
 ## What Is The Reason For Bed Bugs Having A Distinct Scent?

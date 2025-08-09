@@ -36,7 +36,7 @@ Pros:
 Cons:
 - Cannot adjust the volume of alarm
 ?
-https://www.youtube.com/watch?v=SkSNu582aJc
+
 Read Also:
 Wifi Extender for Verizon Fios
 ### **2. Dakota Alert Vehicle Hardwired Control Box with Probe**
@@ -57,7 +57,7 @@ Pros:
 Cons:
 - Sometimes the alarm sets off when lightening strikes
 ?
-https://www.youtube.com/watch?v=Rp3TuFi_884
+
 Read Also:
 Bullet Journal Notebook
 ### **3. Mier DA 500 Buried Sensor System**

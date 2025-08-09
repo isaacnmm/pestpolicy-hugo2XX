@@ -43,7 +43,7 @@ Cons:
 - No EQ controls
 - The remote lacks treble control button
 
-https://www.youtube.com/watch?v=gXiaZSnAyjI
+
 Read Also:
 Noise Cancelling Headphones for Babies
 ### [2. Samsung HW-K450 2.1 Channel 300 Watt Soundbar](https://www.amazon.com/dp/B01DMRLUPG/?tag=p-policy-20)
@@ -69,7 +69,7 @@ Cons:
 - May have different sound effects in various rooms
 - Maximum volume may blow off the soundbar
 
-https://www.youtube.com/watch?v=Qot4ybjuO7k
+
 Read Also:
 Best Soundbar Under 200
 ### [3. Polk Audio Command Sound Bar](https://www.amazon.com/dp/B078HJMVTK/?tag=p-policy-20)

@@ -38,7 +38,7 @@ Notably, the Saitek yoke is favorable to make people due to the sturdy steel sha
 However, you might need to buy a USB hub to connect to other gadgets. Read Also:
 Power Supply for Raspberry Pi 3
 .
-https://www.youtube.com/watch?v=tNpJ_k5quOM
+
 ### [2. CH Flight Sim Yoke USB (200-615)](https://www.amazon.com/dp/product/B000056SPM/?tag=p-policy-20)
 Well, what is the difference between the CH fighter stick and the CH Flight Sim Yoke?
 First, the Flight Sim Yoke is fabricated for general aviation for games such as X plane and FS X or professional flight simulators like the X plane Pro.
@@ -52,7 +52,7 @@ Also, you'll experience an easy USB installation, without drivers, for your Maci
 The Yoke is made of heavy-duty plastic, but you could need to modify the desk to clamp the device for ease of use. Read Also:
 [Recliners for Short People](https://pestpolicy.com/best-recliners-for-short-people/)
 .
-https://www.youtube.com/watch?v=bpCwBkDBYNc
+
 ### [3. CH Products Eclipse Yoke](https://www.amazon.com/dp/product/B001GIOGBY/?tag=p-policy-20)
 The CH Eclipse yoke is similar to the CH yoke, the cheaper version of the former, but they have a similar internal system.
 However, the Eclipse yoke has additional switches, knobs, and buttons. New dual hat switches will enable you to zoom and pan around the cockpit.

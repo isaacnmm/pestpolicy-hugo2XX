@@ -44,10 +44,10 @@ hypoallergenic bed bug
 mattress encasement, SureGuard is an ideal choice. This mattress cover blocks allergens, dust mites, mold, mold, as well as disease-causing bacteria.
 Its high-quality cotton construction makes it not just durable but also highly breathable for cold comfort all night. Its too soft, noiseless, and free from fire retardants, PVC, Vinyl, and other harmful chemicals.
 For great peace of mind, SureGuard mattress encasement is backed by a 10-year quality guarantee. Its also GREENGUARD Gold Certified, easy to clean, and machine washable.
-https://www.youtube.com/watch?v=RRNlengZsns
+
 ## [**2. #2 Pick: LUCID Encasement Bed Bug Mattress Protector Allergen Proof & Waterproof**](https://www.amazon.com/dp/B00B1ZRLLY/?tag=p-policy-20)
 
-https://www.youtube.com/watch?v=nDwg2ZhftUI
+
 ## [3. Utopia Zippered Waterproof Mattress Encasement](https://www.amazon.com/dp/B00U6HREPQ/?tag=p-policy-20)
 
 Like SureGuard, Utopia mattress encasement completely seals your mattress, suffocating and blocking all bedbug's entry points.

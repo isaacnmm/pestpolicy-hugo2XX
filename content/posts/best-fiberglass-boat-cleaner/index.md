@@ -38,7 +38,7 @@ Pros:
 Cons:
 - Has a strong smell
 - Has skin irritation
-https://www.youtube.com/watch?v=TKhfiUEyeoM
+
 ### [2. Collonite-920 Fiberglass Boat Cleaner - Restores from Weathering](https://www.amazon.com/dp/B009VQDWRW/?tag=p-policy-20)
 Collonite-920 is an excellent fiberglass cleaner with a strong formulation to protect your boats bottom and fiberglass hull from the harsh marine atmosphere.
 A

@@ -43,7 +43,7 @@ If your pet is suffering from fleas, you will certainly want to tackle the probl
 - If you find a flea, you should not try to squash it, as this will not work; it is preferable to drown them.
 - Stay on top of fleachecks to make sure that any infestations can be quickly dealt with.
 - Use aflea treatment.
-https://www.youtube.com/watch?v=Yw8NLe2DP2M
+
 Related:
 Do Fleas Bite Humans?
 ### Dandruff
@@ -62,7 +62,7 @@ Once you have identified the problem as being dandruff, you will then be able to
 - Rinse your dog using a mixture of lime juice and water as vitamin C can assist in dandruff treatment.
 - Use an anti-dandruff shampoo.
 - Keep your pet's diet balanced and varied; good nutrition is essential for maintaining good skin health.
-https://www.youtube.com/watch?v=DbV9bY4gD_Q
+
 ## Conclusion
 If you see white flecks within your pet's fur, panic may set in, and concerns might begin as to whether these are flea eggs or dandruff.
 - However, the two can be easily told apart if you know what you are looking for.

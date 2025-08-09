@@ -51,7 +51,7 @@ or dogs groom themselves.
 Fleas will mainly hop, hide, and
 [bite humans (warm-blooded mammal) 2 to 7 times](http://ijpa.tums.ac.ir/index.php/ijpa/article/view/61)
 immediately; it emerges from the flea cocoon because they urgently need a blood meal and a host.
-https://www.youtube.com/watch?v=eXX0W8HEJ7I
+
 ## How Do Fleas Jump into the Human Hair?
 Fleas have long hind legs shaped from jumping - about 13 inches horizontally and
 [7 inches vertically](https://www.ncbi.nlm.nih.gov/pubmed/10962162)

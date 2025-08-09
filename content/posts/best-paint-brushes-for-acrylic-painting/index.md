@@ -39,7 +39,7 @@ Pros:
 Cons:
 - Questionable durability
 
-https://www.youtube.com/watch?v=HX3IzUaAI-Q
+
 > See Also:
 > Removing Acrylic Paint from Canvas
 ### [2. DArtisan Shoppe Maestro Series XV 15-Piece Acrylic Water Color](https://www.amazon.com/dp/B00OH2GC86/?tag=p-policy-20)
@@ -59,7 +59,7 @@ Pros:
 Cons:
 - None found
 
-https://www.youtube.com/watch?v=pzqfFmpMUsQ
+
 > See Also:
 > Acrylic Paint for Pouring
 ### [3. Artify 38-Piece Paint Brush Set for Acrylic Oil Water Color Paint](https://www.amazon.com/dp/B01AHJIW5I/?tag=p-policy-20)

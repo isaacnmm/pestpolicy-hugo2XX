@@ -88,7 +88,7 @@ It may take 1 to 7 days for the painted surface to achieve strong surface coatin
 Notably: The best paint selection always leads to a perfect and durable
 [coat finish](https://www.amazon.com/dp/B07DKCK9B8/?tag=p-policy-20)
 when proper painting procedures are followed.
-https://www.youtube.com/watch?v=hVOUjku0vMg&feature=youtu.be
+
 ## What Makes Paint to Peel?
 It is never guaranteed that your newly painted deck would maintain the current state forever. Peeling action is one of the significant challenges that affect painted surfaces. If you have faced such a problem, the following are possible reasons why peeling occurs on the deck surface.
 ### 1. Paint quality

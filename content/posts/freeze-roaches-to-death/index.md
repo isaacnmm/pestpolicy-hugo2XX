@@ -30,7 +30,7 @@ Cockroaches often die when exposed to temperatures below 15 degrees F. If you mo
 
 Its worth mentioning that you can only kill the eggs after prolonged exposure to a cold environment. The best strategy is to put the roaches into a sealed container and then place them into a freezer.
 
-https://www.youtube.com/watch?v=6DGgnj3L6Jw
+
 ## Can Cockroaches Survive In Winter?
 Since roaches can adapt to low temperatures, they will adjust to the immediate temperatures and stay warm. There are plenty of ways to avoid that exposure. Maybe you've just
 [seen just one cockroach](https://pestpolicy.com/i-saw-one-cockroach-should-i-be-worried/)

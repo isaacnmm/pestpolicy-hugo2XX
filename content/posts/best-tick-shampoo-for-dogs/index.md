@@ -42,7 +42,7 @@ The Good:
 - Ideal for dogs and cats
 The Bad:
 - Should not be used near the pet eyes
-https://www.youtube.com/watch?v=0C966q-fuiY
+
 ### [2. Vets Best Advanced Natural Dog Shampoo](https://www.amazon.com/dp/B07F44G1LS/?tag=p-policy-20)
 Vets shampoo will readily kill ticks and alleviate irritation or itchiness resulting from these bites.
 - It contains powerful natural ingredients, skin soothers, and moisturizers.

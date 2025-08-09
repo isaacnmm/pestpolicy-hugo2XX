@@ -43,7 +43,7 @@ Pros:
 Cons:
 - Has a strong odor
 
-https://www.youtube.com/watch?v=w1NTFj1XR54&t=6s
+
 > See Also:
 > Paint for Wrought Iron Railings
 ### [2. KILZ 2 Multi-Surface Stain Blocking Primer/ Sealer, White](https://www.amazon.com/dp/B0013FE5R0/?tag=p-policy-20)
@@ -64,7 +64,7 @@ Pros:
 Cons:
 - Its not easy to clean-up
 
-https://www.youtube.com/watch?v=Oi93S8k9tTw
+
 > See Also:
 > Ceiling Paint versus Wall Paint
 ### [3. KILZ Premium High-Hide Stain Blocking Primer/Sealer, 1-gallon](https://www.amazon.com/dp/B0002YOZZU/?tag=p-policy-20)

@@ -45,7 +45,7 @@ Steps to Follow
 NB: You can opt to use cold water on soapy detergent. However, cold water requires excess detergent to attain an excellent finish as compared to warm water.
 > See Also:
 > Sprayer for Latex Paint
-https://www.youtube.com/watch?v=NmZgeevrEMI
+
 ### Method 2:Using turpentine
 Turpentine removes both oil-based and water-based paint sufficiently. Upon application, the active agent in turpentine acts instantly upon contact with the paint molecules.
 Whether wet or dried paint, turpentine has similar action effects and wont leave any paint traces on the surface.
@@ -85,7 +85,7 @@ Steps to Follow
 NB: Excess concentration of denatured alcohol decolorizes the porcelains primary color.
 > See Also:
 > HVLP Paint Sprayer for Latex Paint
-https://www.youtube.com/watch?v=7CcWCv9ZhQs
+
 ### Method 4: Using Cleanser Powder and Sponge
 Cleanser powder decomposes wet paint and kills the surface adhesive contact, thus making both oil-based and water-based paint more comfortable to remove.
 For dried paint, cleanser powder needs quenching agents, which act as a staining medium sustainer.

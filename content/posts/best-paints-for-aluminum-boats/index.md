@@ -44,7 +44,7 @@ Pros:
 Cons:
 - Has odor.
 
-https://www.youtube.com/watch?v=q3mWWOK3-Dk
+
 > See Also:
 > [Non-skid paints for aluminum boats](https://pestpolicy.com/non-skid-paint-for-aluminum-boats/)
 ### [2. TUFF Coat UT-100 Non-Skid Coating](https://www.amazon.com/dp/B018MX1GHM/?tag=p-policy-20)
@@ -69,7 +69,7 @@ Pros:
 Cons:
 - Needs two coats
 
-https://www.youtube.com/watch?v=KOmzaPUrKNg
+
 > See Also:
 > Painting a Metal Building
 ### [3. Total Boat Aluminum Boat Paint](https://www.amazon.com/dp/B076VS71W6/?tag=p-policy-20)

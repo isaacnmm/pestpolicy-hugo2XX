@@ -37,7 +37,7 @@ Pros:
 Cons:
 - Does not give 4K video
 
-https://www.youtube.com/watch?v=ZQU7WvP7WuI
+
 Related:
 7 Best Sound Cards for Music Production
 ### [**2. Canon Mark III Full HD DSLR Digital Camera - #2 Pick**](https://www.amazon.com/dp/B007FGYZFI/?tag=p-policy-20)
@@ -57,7 +57,7 @@ Pros:
 Cons:
 - Not Wi-Fi enabled
 
-https://www.youtube.com/watch?v=i2oCMAnkNZg
+
 Related:
 9 Best Mac for Music Production
 ### [**3. Nikon D3500 Compact Digital Camera DSLR -#3 Pick**](https://www.amazon.com/dp/B07GWKDLGT/?tag=p-policy-20)

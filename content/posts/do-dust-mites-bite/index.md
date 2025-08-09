@@ -37,7 +37,7 @@ Dust mites will hide in locations where dust tends to settle; these places inclu
 - The[Allergy and Asthma Foundation](https://asthmaandallergies.org/)reports that Americans totaling roughly 20 million are insensitive to allergens resulting from dust mites.
 It's almost impossible to completely remove all the dust mites from your spaces but you can control their numbers.
 ## Challenges/ Health Risks Posed by Dust Mites
-https://www.youtube.com/watch?v=7nfOXIWWzR8
+
 Health experts have documented dust mites as a key indoor trigger for humans that have asthma and allergies.
 - So a continued and chronic dust mites' explosion can lead to adverse health effects for humans with allergies and those that are sensitive or allergic to mites.
 Exposure to dust mite allergies may result in mild asthma with symptoms being sneezing, watery eyes, or runny nose.

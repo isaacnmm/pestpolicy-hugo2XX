@@ -27,7 +27,7 @@ Metal Sensing Probes are designed to only detect moving metal such as vehicles t
 - However, the metal sensing probes will not help you see human beings and animals because they are not magnetic sensitive.
 - The alarm system will work efficiently in areas where there are no moving metal objects or vehicle traffic. Therefore, it can efficiently work near gates, hedges, and car parks.
 To install the Metal Sensing Probes alarm system, you can bury the alarm gadgets, as outlined in the product instructions, in the ground or place them on the ground level.
-https://www.youtube.com/watch?v=acDqBYGZ4ZA
+
 Read Also:
 [Driveway Alarms Reviewed](https://pestpolicy.com/best-driveway-alarms/)
 ### **2.**** Rubber Air Hose sensors**

@@ -31,7 +31,7 @@ The Deconovo Room Darkening Blackout Grommet Curtain is a perfect blackout curta
 Silver Grommets - The Deconovo Grommet Curtain has six silver-looking grommets for every one of the 42 inches curtains. The holes for the garments are big to accommodate most of the curtain rods available commercially.
 Further, the grommets are designed not to rust and are thus favorable as they wont mess with your curtains and room.
 Quality Design - The Deconovo Grommet Curtain has a unique stitch with no uneven edges or hems and no loose threads. Further, the curtains are machine washable and at under 30 C.
-https://www.youtube.com/watch?v=ykHwH6XswFo
+
 ### [2. Basics Blackout Curtain - For Morning sleep-ins and Afternoon naps](https://www.amazon.com/dp/B0153TOGC0/?tag=p-policy-20)
 Try the trusted Basics Blackout Curtain. It comes in 52Width by 84Length and 52Width by 63Length, with three choice colors.
 Also, it has two panels having coordinating tie-backs. Itll block harmful UV rays, light, sound, and heat or cold. It is 100% Polyester of triple-weave fabric.
@@ -52,7 +52,7 @@ Triple Weave Fabric -The AmazonBasics curtain will come in 2 panels that are cre
 The triple-weave technology will assist block light, and insulated from cold (during warmer) and heat (during summer) room conditions.
 Luckily, I found that the AmazonBasics curtain is light and soft, as opposed to other brands that are foam-backed and have tough liners.
 Velcro Ties and Rod Pocket -It has a rod pocket that will readily allow any decoration or standard rod. The curtain has 2 Velcro ties that you can use to easy to pull the panels.
-https://www.youtube.com/watch?v=Wgyk5SY_3TE
+
 
 Read Also:
 Bullet Journal Notebook
@@ -104,7 +104,7 @@ It has a sheer curtain panel and a blackout curtain panel, all that is 100% Poly
 Walking Shoes for Lower Back Pain
 .
 Itll give you a romantic look that will make your media or gaming room lively. The panels measure 52W by 84L and include 8 antique Bronze grommets.
-https://www.youtube.com/watch?v=jJy2URVaVX0
+
 Romantic appearance - The Best Home Fashion Blackout Tulle Lace & solid blackout Curtain will be an excellent treatment for your windows as it couples the romantic and dreamy appearance to transform your room dcor.
 - Triple Weave fabric -Its triple weave fabric allows you to blackout light since it has dense black threading in between to block light.
 - The blackout curtain and the Tulle sheer Lace will combine to give you an elegant look.

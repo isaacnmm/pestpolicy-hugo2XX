@@ -38,7 +38,7 @@ Cons:
 - It isn't very easy for people who don't know about the water filtration system.
 - Valve shut-offs following annual filter replacement.
 ?
-https://www.youtube.com/watch?v=uSpmdpO-nas
+
 
 Read Also:
 Walking [Shoes for Lower Back Pain](https://pestpolicy.com/best-walking-shoes-for-lower-back-pain/)
@@ -60,7 +60,7 @@ Cons:
 - Lower water waste.
 - Initially produces quirk-colored water.
 ?
-https://www.youtube.com/watch?v=Ve_r8kdeapY
+
 
 Read Also:
 Shoes for Waitressing Reviewed
@@ -84,7 +84,7 @@ Cons:
 - Costly
 - Low productivity rate
 ?
-[embed]https://www.youtube.com/watch?v=eSxh1sfO-qE[/embed]
+[embed]
 
 Read Also:
 Athletic Shoes for Lower Back Pain

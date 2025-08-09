@@ -46,7 +46,7 @@ Exterminating price will vary with the frequency of treatment, kind & level of i
 Bulwark exterminating, however, only provides services in 13 States and also specifically in key metropolitan areas.
 - The company uses people andpet-friendly productsto exterminate 60 + pests - which they describe as being very safe even more than toothpaste.
 The 60-days guarantee against the recurrence of live pests (anti-no show) is double what most companies offer to clients.
-https://www.youtube.com/watch?v=1IpJH7ReHp8
+
 ## Pest Covered and Plans by Bulwark Exterminating
 Despite being online, I noticed that the website for bulwark exterminating is simplistic and vague.
 For example, I could not tell outrightly whether bulwark offers integrated pest management from the website.

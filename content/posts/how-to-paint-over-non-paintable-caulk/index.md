@@ -48,7 +48,7 @@ With latex caulk, you will seal doors and windows spacing without any challenge.
 Silicone caulk is non-paintable and should be replaced with paintable caulk type when painting your surface to improve paint stickiness action and eliminate peeling and scuffing.
 > See Also:
 > Belt Sander for Deck
-https://www.youtube.com/watch?v=WAj9dj6d1EQ
+
 ### Step 2: Cleaning Over Non-Paintable Caulk
 - Wear protective gear  gloves, overalls, boots, safety goggles, and respirator  for personal protection
 - Using a rag or mop, wash the caulk sealed surface to remove dust and surface debris
@@ -86,7 +86,7 @@ NB: When removing silicone caulk, be careful not to pull out the entire tiles or
 - Then, apply the second paint coat (if need be) to improve the strength of the paint layer
 - Leave the final coat to dry
 NB: Cover the finish coat if the environment is dusty (prevents dust strain).
-https://www.youtube.com/watch?v=OmwFD-mIlW0
+
 ### Step 6: Quality Finish
 For quality paint finish, you may need to seal the painted area (with acrylic seals or vinyl) to prevent joint breakage and eliminate peeling action in a humid environment.
 Externally painted caulk should be sealed with UV-rays resistant sealants upon paint application.

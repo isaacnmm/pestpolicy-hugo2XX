@@ -41,7 +41,7 @@ Cons:
 - Needs constant shaking
 - Needs several coats
 
-https://www.youtube.com/watch?v=6ziO0ZytLuE
+
 > See Also:
 > Chalk Paint for Furniture
 ### [2. Bundle-Plasti Dip Wheel Kit, Copper Metalizer & Black Base, - 7 Pieces](https://www.amazon.com/dp/B00TANCXDK/?tag=p-policy-20)

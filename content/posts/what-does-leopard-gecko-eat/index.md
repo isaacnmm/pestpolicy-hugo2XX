@@ -51,7 +51,7 @@ Pros
 - Has High Protein and Dehydrated Ingredients
 Cons
 - **It does not excite all dragons
-https://www.youtube.com/watch?v=qGf5vGDqqqg
+
 ### 2. Cockroaches - Do leopard geckos eat cockroaches?
 Yes, Leopard geckos will many worms and bugs including Dubia Roaches (a great staple food), crickets, locusts, silkworms, hornworms, super-worms, and mealworms.
 
@@ -59,7 +59,7 @@ But are Dubia roaches too big for leopard geckos? Well, for leopard geckos that 
 
 The cockroaches will offer great nutrition to your
 leopard gecko as they have high protein that'll keep your geckos healthy and active. Also, you should feed the gecko with whole-grain cereals, fruits, and fresh veggies too.
-https://www.youtube.com/watch?v=qL1ASWBJFoY
+
 
 Tropical Cockroaches are the best tropical insects to use when feeding your Leopard Gecko within the tropics. The best cockroach species is Dubia roaches.
 

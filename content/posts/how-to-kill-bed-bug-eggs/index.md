@@ -64,7 +64,7 @@ C temperature and must not come with a tough airflow - this could make the bed b
 : I would recommend using
 bug foggers/ bombs
 cautiously, particularly ensuring the product is designed to kill bed bugs. However, bombs may lead to an explosion or fire if used carelessly.
-https://www.youtube.com/watch?v=C84UEbRZWv4
+
 ### 2. Follow-up With and Inspection
 The next step will be inspecting your premises, home, rooms, and items such as furniture or clothes for evidence of any bed bugs, eggs, and
 baby bed bugs

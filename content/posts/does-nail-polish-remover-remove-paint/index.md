@@ -29,7 +29,7 @@ Most nail polish removers are usually acetone-based (though others are natural),
 
 Acetone easily mixes with water, thus giving room for optional dilution to the best application concentration. Nail polish remover is further integrated with self-activating ingredients that act without wetting the surface under paint removal.
 
-https://www.youtube.com/watch?v=MS7Xswsz4Ew
+
 ### b. Types of paint removed by Nail Polish Remover
 Nail polish remover works effectively in the paint removal process in 2 to 5 minutes after application. As an organic-base compound, it will clean the following types of paints:
 - Latex-based paints and Oil-based paint

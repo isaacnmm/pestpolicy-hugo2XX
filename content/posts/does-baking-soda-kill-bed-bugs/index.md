@@ -34,7 +34,7 @@ Abrasion due to body contact with baking soda crystals wears and tears the bugs 
 **3. By Ingestion**
 The chemical reaction that occurs when a bed bug ingests baking soda makes its stomach swell, which causes death with time.
 - At times, the bugs stomach may burst (due to excess gas pressure) or just die of suffocation instead.
-https://www.youtube.com/watch?v=mzD_madhlCw
+
 ### Methods of Baking Soda Application
 The following are common baking soda application methods that you can use:
 **1. Pasting/Smearing**

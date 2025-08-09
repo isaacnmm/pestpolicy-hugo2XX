@@ -37,7 +37,7 @@ The odor from
 and enamel paint may cause dizziness, headache, or nausea when inhaled in excess.
 > See Also:
 > Thinning Semi-Gloss Paint
-https://www.youtube.com/watch?v=7vRka88ZSsg
+
 ### **STEP**** 2: Wear Protective Gear**
 **Weather Considerations**
 - Prevailing weather condition determines the amount of thinner that is to be used during the application process. Humid and warm temperatures require more thinning (thinner), while less humid and cooler weather needs less thinning (thinner).
@@ -76,7 +76,7 @@ roller
 Thinning process for
 paint HVLP sprayer
 should be thinned further to prevent blockage of the spray gun.
-https://www.youtube.com/watch?v=ebNnw4nwdhI
+
 ### **STEP****6: **Testing the Thinned paint/Mixture
 Carry out a drop test experiment on the surface to be painted. To do this, you will need to paint a small surface using any method (
 spray paint

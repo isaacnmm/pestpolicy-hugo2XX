@@ -41,7 +41,7 @@ DXRacer Tank Series has a strong and durable build that will not wobble or crack
 Therefore, even if youll have extended gaming time, youll find the chair comfortable and your back and neck won't ache easily.
 No heating -
 I must confess that gaming chairs can heat, on the sitting area, due to extended sitting. However, the DXRacer Tank Series will remain cool and allow you to enjoy working or gaming.
-https://www.youtube.com/watch?v=VLDEBXZ7dm0
+
 ### [2. Ficmax Large Size High-back Chair Ergonomic](https://www.amazon.com/dp/B079L5D89G/?tag=p-policy-20)
 You'll love the Ficmax Large Size High-back Ergonomic as it has a great recline and massager.
 It is visually appealing, easy to set up, and has awesome back and head (all removable) pillows for increased comfort. The chair will hold up to 300lbs. Seat height and back gradient are all adjustable.
@@ -59,7 +59,7 @@ Also, it has a footrest that you can adjust to match your relaxation needs while
 Broad armrests and footrests -
 The chair has broad armrests that will give any big guy great comfort.
 The metal frame and base are very strong to allow better support for about 300lbs.
-https://www.youtube.com/watch?v=zIcux2cyMnA
+
 ### [3. AKRacing Pro-X Luxury X](https://www.amazon.com/dp/B06XCFR56F/?tag=p-policy-20)
 AKRacing Pro-X Luxury XL is another chair to consider with great ergonomics and comfort. Notably, it has a 5-year warranty on parts and a 10-year warranty on the frame.
 It has excellent support and cushioning for great comfort. People about 275 lbs and62 will sit comfortably.

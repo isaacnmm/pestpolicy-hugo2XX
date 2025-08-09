@@ -42,7 +42,7 @@ Cons:
 - Slightly expensive
 - Special training needed
 
-https://www.youtube.com/watch?v=ODV4j3O_Z9s
+
 Read Also:
 bass amps for beginners
 ### [2. PRS Paul Reed Smith MT15 Mark Tremonti Signature](https://www.amazon.com/dp/B0798CH4YS/?tag=p-policy-20)
@@ -65,7 +65,7 @@ Cons:
 - No reverb onboard
 - Control knobs not backlit
 
-https://www.youtube.com/watch?v=3gb6ka6-0B0
+
 
 Read Also:
 Drones for Still Photography

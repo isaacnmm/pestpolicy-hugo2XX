@@ -32,7 +32,7 @@ The general but critical information about bed bugs include;
 - The bed bug nymph stage goes through five phases (stages) or what we call instars.
 - Each of the bedbug instar we require to take a blood meal for them to molt to the next instar stage.
 - Adult bed bugs can live for about 10 months but their whole life cycle will complete in between 1 to 4 months.
-https://www.youtube.com/watch?v=v6myZM7FO8w
+
 ### 1. Bed Bug Eggs
 The life cycle of a bed bug starts at the egg stage - the eggs are milky white and grain-like in shape.
 - Bed bugs (females) we lay eggs clustered in 10 to 20 pieces and a total of 200 - 500 eggs on in their lifetime different surfaces including bed frames.
@@ -105,7 +105,7 @@ You may also find bed bugs in clean hotel rooms or homes - this is contrary to t
 
 At what time will bed bugs bite humans? Well, bed bugs will largely bite humans as they sleep - especially at night.
 - The bugs will pierce your skin and suck blood via their elongated mouthparts for between 3 to 10 minutes before crawling away.
-https://www.youtube.com/watch?v=tqcc3ILhHP0
+
 ## Conclusion
 The life cycle of a bed bug we'll take it 2 three life stages which are; egg stage, nymph stage (through five instars), and finally the adult stage.
 - Through these three stages, bed bugs will have different shapes, sizes, colors, and feeding habits.

@@ -25,7 +25,7 @@ Squeeze filters are lightweight, easy to use and hence you can carry them upcoun
 So, readily filter your water and take safe and clean water with unmatched confidence. Luckily, most can readily fit into your hands - easy to use, and it's highly packable.
 Squeeze filters will mainly consist of pores that are as small as 0.1 microns. They'll come with some printed usage instructions to allow easier operation.
 It may come with a drinking cup, back-flush cup for easy sharing into other bottles or drinking. Further, some purifiers may have a back-flush plunger.
-https://www.youtube.com/watch?v=NNCzjJCEjK8
+
 The water filters have tiny pores that'll only let molecules of water to go through them while filtering out protozoa (cryptosporidium plus giardia) or bacteria such as e-coli.
 However, various microorganisms including bacteria need filters that have pores measuring under 0.2 microns for effective removal. Further, water filters having carbon elements will assist in improving the water flavor.
 Squeeze filters work akin to the pump filters but won't need additional housing material and weight like it is with other general pumps.

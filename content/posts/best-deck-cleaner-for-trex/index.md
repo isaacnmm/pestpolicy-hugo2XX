@@ -39,7 +39,7 @@ Pros:
 Cons:
 - Comes in a small package
 
-https://www.youtube.com/watch?v=J5IqHfnLfmY
+
 See Also:
 Painting Vs Staining Deck
 ### [2. Wet and Forget multi-surface outdoor cleaner - #2 Pick](https://www.amazon.com/dp/B001GTRBMO/?tag=p-policy-20)
@@ -59,7 +59,7 @@ Pros:
 Cons:
 - None found
 
-https://www.youtube.com/watch?v=3FTp1EEChn8
+
 See Also:
 [Best Deck Sealer for Pressure Treated Wood](https://pestpolicy.com/best-deck-sealer-for-pressure-treated-wood/)
 ### [3. Pour-N-Restore Oil Stain Remover - #3 Pick](https://www.amazon.com/dp/B000CCIESG/?tag=p-policy-20)

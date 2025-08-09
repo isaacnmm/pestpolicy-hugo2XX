@@ -34,7 +34,7 @@ Its natural ingredients ensure that you are not exposed to harmful chemicals, pr
 - **Versatile Use**: Suitable for outdoor activities, pets, and livestock.
 **Cons**
 - **Cost**: Potentially more expensive than chemical-based options.
-https://www.youtube.com/watch?v=UScC2Y2DhOE
+
 
 Related:
 Spiders versus mosquitoes bites

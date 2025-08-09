@@ -99,7 +99,7 @@ Pros:
 Cons:
 - May leave[brush streaks](https://pestpolicy.com/best-paint-roller-to-hide-imperfections/)
 
-https://www.youtube.com/watch?v=LltvvxJx7GU&app=desktop
+
 ## Conclusion
 If you need to revamp the 0utlook of your furniture and cabinets, I recommend using Valspar Paint to achieve that smooth and long-lasting finish.
 Luckily, you may use

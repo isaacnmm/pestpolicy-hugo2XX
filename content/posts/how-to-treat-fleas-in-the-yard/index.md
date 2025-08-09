@@ -44,7 +44,7 @@ Once I sprayed this pesticide on my lawn, there were no more pesky fleas giving 
 - Spray as close to the ground as possible- this will keep your pet from walking through it before they can get back into their house afterward!
 - Be careful of using chemicals on ornamentals; if you do spray an area where plants grow make sure you're spraying at least a few meters away from them.
 - Keep children out of treated areas until dry (at least 24 hrs)
-https://www.youtube.com/watch?v=tU9Wkx0S4E8
+
 ### **Step 2: Create a Flea Barrier **
 One way to get rid of fleas in your yard is by building a flea barrier.
 

@@ -50,7 +50,7 @@ Pros:
 Cons:
 - Can be a challenge to figure out your actual size
 
-https://www.youtube.com/watch?v=zur13Cjv-Ik&amp;feature=youtu.be
+
 Read Also:
 [Womens Running Shoes for Plantar Fasciitis](https://pestpolicy.com/best-womens-running-shoes-for-plantar-fasciitis/)
 ### [2. Kangoo Jumps XR3 Special Edition](https://www.amazon.com/dp/B003PE4YZ0/?tag=p-policy-20)
@@ -78,7 +78,7 @@ Pros:
 Cons:
 - Challenges in finding the right fit
 
-https://www.youtube.com/watch?v=4IgM8NXlxZM
+
 Read Also:
 Running Shoes for Heavy Female Runners
 ### [3. Air Kicks Anti-Gravity Running Boots](https://www.amazon.com/dp/B0045WIVSM/?tag=p-policy-20)
@@ -167,4 +167,4 @@ However, remember always to wear protective gear and use your jumping shoes on s
 # Conclusion
 You can now jump beyond your expectation with these fantastic jumping boots. All the best Kangoo jumps shoes we've reviewed meet all the quality and safety standards of jump shoes. So you can relax knowing that your safety and that of your children is guaranteed.
 Go through the article, and we assure you that you'll find one or two perfect shoes that meet your expectation. Our criterion for selecting these Kangoo jumps shoes was based on stability, cushioning, support, and safety of the shoe.
-[embed]https://www.youtube.com/watch?v=wXl4wQBn07Q&feature=youtu.be[/embed]
+[embed]

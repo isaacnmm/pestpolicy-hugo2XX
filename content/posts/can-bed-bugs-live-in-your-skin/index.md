@@ -34,7 +34,7 @@ humans won't show any reaction to the bites
 Bedbugs may take about two weeks to develop, and they'll be lined in a row on your skin -
 including their eggs
 . The bugs will mainly be in exposed areas like your arms, legs, hands, neck, and face.
-https://www.youtube.com/watch?v=d2w0BIY_v2E
+
 ## Bed Bug Bites?
 Bed bug bites heal
 fully within 3-6 weeks

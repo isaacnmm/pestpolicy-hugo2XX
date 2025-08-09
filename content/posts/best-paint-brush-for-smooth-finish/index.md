@@ -48,7 +48,7 @@ Cons:
 - Small handle size
 - Not suitable for very thick paint
 
-https://www.youtube.com/watch?v=ighzggXTSCc
+
 > See Also:
 > Turbine Paint Sprayer
 ### [2. Bates Paint Brushes Stain Brush, Trim Paint Brush, Professional Brush Set](https://www.amazon.com/dp/B07FW83JCJ/?tag=p-policy-20)
@@ -73,7 +73,7 @@ Cons:
 - Unsuitable for round corner painting
 - Has small brush handle
 
-https://www.youtube.com/watch?v=6noW8bBBh6I
+
 > See Also:
 > Swing Set Stains
 ### [3. KINJOEK Paint Brush Fence Edge Door, Acrylics Cabinet Deck, DIY Paint Stains](https://www.amazon.com/dp/B07QRGJKPB/?tag=p-policy-20)
@@ -100,7 +100,7 @@ Cons:
 - The compactness could be more.
 - Limited paint handle
 
-https://www.youtube.com/watch?v=gn32doG9WoM
+
 ### [4. Richard 80833 Goose Neck Angular Paint Brush](https://www.amazon.com/dp/B0051BMCO0/?tag=p-policy-20)
 Richard Goose is a traditional paintbrush that features sturdy construction, which offers excellent application performance and resists strain/wear. The paintbrush is manufactured using synthetic fibers and tough filaments that give longer service life.
 

@@ -38,13 +38,13 @@ My vet advised using this Borax 20 Mule Team (definitely the best borax acid) ag
 I left the borax flea killer on the floors for two days - remember to apply the fine powder under the stove, refrigerator, and couch, which exterminated
 fleas and their larvae
 .
-https://www.youtube.com/watch?v=bMl0XfVphiU&feature=youtu.be
+
 ## [2. #2 Pick: Fleabusters-Rx for Killing Fleas Plus](https://www.amazon.com/dp/B000MS6Q2Q/?tag=p-policy-20)
 
-https://www.youtube.com/watch?v=ErWUfkDoYXo
+
 ## **3. #3 Pick: Enforcer 20-Ounce Flea-Killer (Ocean Breeze) - Use on Carpet**
 
-https://www.youtube.com/watch?v=Q81FKnWq66E
+
 ## [4.JT Eaton 360 Answer Boric Acid Insecticidal Dust](https://www.amazon.com/dp/B000HMCAAO/?tag=p-policy-20)
 
 Next, this Answer boric acid made up of hydrogen borate (Orthoboric Acid) is a
@@ -138,7 +138,7 @@ for fleas will also kill ants and cockroaches. So, whether its for your personal
 All youll need is to sprinkle the boric acid powder all over your house to get the
 fleas and roaches in their hiding places
 . Luckily, it has a residue effect of about two months and will continue killing the fleas and their larvae.
-https://www.youtube.com/watch?v=fzlNeuwFdu8
+
 ## [8. Tranquility Products 10 lbs - Boric Acid Powder](https://www.amazon.com/dp/B0032RIGEK/?tag=p-policy-20)
 
 Tranquility Boric Acid will be great if you have a flea infestation on your wooden floors, and cat or dog bedding, and carpers - eliminating the whole flea cycle: adult fleas, flea larvae, and flea eggs.
@@ -147,7 +147,7 @@ diatomaceous earth for fleas in cats
 . Most homeowners use it to
 kill fleas
 under electrical appliances, under cabinets, and in the carpet lining.
-https://www.youtube.com/watch?v=qrbmH0fQpEs
+
 ## **How does Borax Kill Fleas?**
 **Method 1:**
 As a powder, Borax has no smell and can control fleas by dehydrating them. The borax powder breaks the fleas exoskeletons and enters their body, which leads to dehydration and death.
@@ -278,4 +278,4 @@ Equally, DE is considered a safe
 alternative to Borax. If you purchase DE that is labeled food-grade, you can use it to deworm humans and animals.
 It will take DE about 24-72 hours to kill the fleas in your home. The DE powder will also destroy any other fleas that will emerge from their cocoons within that time.
 ## **Finally:****How To Use Boric Acid To Kill Fleas in Carpet**
-https://www.youtube.com/watch?v=OGuSVOr4BHw
+

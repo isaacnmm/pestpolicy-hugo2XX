@@ -71,7 +71,7 @@ Pros:
 Cons:
 - Wear in the Rubber thumbsticks
 
-https://www.youtube.com/watch?v=pO41fVdAFhg
+
 Read Also:
 [Zero Gravity Massage Chairs](https://pestpolicy.com/best-zero-gravity-massage-chairs/)
 ### [3. TruMedic Instashiatsu Plus - Deep penetrating Massager](https://www.amazon.com/dp/B01516LTRK/?tag=p-policy-20)
@@ -97,7 +97,7 @@ Pros:
 Cons:
 - Wear in the Rubber thumbsticks
 
-https://www.youtube.com/watch?v=00uB0SwbMsI
+
 Read Also:
 [How To Relieve Back Pain Fast At Home](https://pestpolicy.com/relieve-back-pain-fast/)
 ## Conclusion

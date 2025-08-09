@@ -52,7 +52,7 @@ Cons:
 
 > See Also:
 > Removing Paint from Plastic
-https://www.youtube.com/watch?v=lgDnQKjt-gU
+
 ### [2. Purdy 144152325 XL Glide 2.5 nylon/polyester angled paintbrush](https://www.amazon.com/dp/B0000DH4KH/?tag=p-policy-20)
 The Purdy 2.5 XL Glide Series comes from a family of versatile brushes designed to tackle any form of paint or stain. The natural China-bristle made using hog hair will be excellent for oil-based paints.
 
@@ -73,7 +73,7 @@ Pros:
 Cons:
 - None found
 
-https://www.youtube.com/watch?v=ceFU2FKPpvk
+
 > See Also:
 > Paint Roller Cover for Interior Walls
 ### [3. King Origin 10 Piece Paint Brushes](https://www.amazon.com/dp/B071JJV4LF/?tag=p-policy-20)
@@ -153,7 +153,7 @@ Pros:
 Cons:
 - None found
 
-https://www.youtube.com/watch?v=4hSGNEPm0JE
+
 > See Also:
 > Concrete Rust Remover
 ### [7. Kilz Collection Master Handcrafted Nylon-Polyester 2.5 flat brush](https://www.amazon.com/dp/B06XPX9L6W/?tag=p-policy-20)

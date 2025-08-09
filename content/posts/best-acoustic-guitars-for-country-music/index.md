@@ -43,7 +43,7 @@ Cons:
 - Require pre-tuning
 - Unsuitable for kids
 
-https://www.youtube.com/watch?v=xxCy8iNtK0M
+
 Read Also:
 Acoustic Guitar Under 500
 ### [2. Martin Standard Series D-28 Dreadnought Acoustic Guitar - #2 Pick](https://www.amazon.com/dp/B0002GU6L0/?tag=p-policy-20)
@@ -65,7 +65,7 @@ Cons:
 - Needs initial tuning
 - No casing
 
-https://www.youtube.com/watch?v=0HTFi9Kdp7I
+
 Read Also:
 Acoustic Guitar Under 2000
 ### [3. Blueridge BR-140 Acoustic Guitar - #3 Pick](https://www.amazon.com/dp/B001G7H8YW/?tag=p-policy-20)

@@ -57,7 +57,7 @@ Cons:
 - May leave yellow tint if applied wrongly.
 - Slippery when starting
 
-https://www.youtube.com/watch?v=JqcnBYJ_STY
+
 > See Also:
 > Does Alcohol Remove Paint?
 ### [2. Rust-Oleum 01901 Wood Sealer Copper-coat Wood Stain & Preservative - #2 Pick](https://www.amazon.com/dp/B074QVGP2G/?tag=p-policy-20)
@@ -87,7 +87,7 @@ Pros:
 Cons:
 - May be overly thick to use for some painters
 
-https://www.youtube.com/watch?v=S01wewjHPb8
+
 ### [3. CabotStain 140.0003400.005 Wood Sealer Natural, Quart, Oil - #3 Pick](https://www.amazon.com/dp/B000BZX0B0/?tag=p-policy-20)
 Cabot Wood Sealer will give your wood a quick coat - particularly some golden glow, including for your pine that's cheap and sun-baked. It'll adequately seal and protect (from UV rays and mildew) your split rail fencing, decking, and outdoor wood and furniture.
 

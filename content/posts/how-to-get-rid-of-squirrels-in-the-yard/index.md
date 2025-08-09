@@ -35,7 +35,7 @@ But first:
 Check a Video Tutorial on How to
 [Trap Squirrels](http://ipm.ucanr.edu/PMG/PESTNOTES/pn7438.html)
 .
-https://www.youtube.com/watch?v=cmlnRgxsF1k
+
 ## 2. Dont feed them
 Squirrels come to the home because you feed them. Surprised?
 Yes, we are feeding these squirrels unintentionally. These squirrels come to our home regularly because they find something to fill their belly up every time they come.
@@ -59,7 +59,7 @@ Then add some water to mix it and a paste of it. Once the powdery paste is ready
 ## 7. Jalapeno Pepper
 In the list of the mixture, one more mixture has recently gained popularity, i.e., the mixture of jalapeno pepper, water, and vinegar.
 Shake it as hard as you can and like the other methods, spray it to the corners and commonly used places by squirrels.
-https://www.youtube.com/watch?v=jw9Xn7G8gTM
+
 ## How to Scare Away Squirrels
 **1. Squirrel Exclusion Collars**
 *Want to scare the squirrels?*

@@ -56,7 +56,7 @@ Pros:
 Cons:
 - Requires surface priming
 
-https://www.youtube.com/watch?v=-HoyYjvEoE8
+
 
 See Also:
 Pressure Washer for Paint Removal
@@ -86,7 +86,7 @@ Pros:
 Cons:
 - None
 
-https://www.youtube.com/watch?v=0vHaKWYsVE8
+
 ### [3. Retique Furniture Chalk Eco-Friendly Kitchen Cabinet Paint](https://www.amazon.com/dp/B075WYGJ51/?tag=p-policy-20)
 Retique Furniture Paint also offers great coverage in 1-2 coatings and required no proming or sanding for application. Its a less known chalk paint, but has a range of 40 colors with good coverage.
 

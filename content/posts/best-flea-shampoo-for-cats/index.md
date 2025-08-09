@@ -36,7 +36,7 @@ AdamsPlus
 Flea and Tick Shampoo
 with Precor are effective from the first wash; the shampoo can be used between seven to eight washes depending on your cat's size and application amount.
 The contents are a bright green to see where you are applying the shampoo and any areas you have missed when washing Off. It can also be used for dogs.
-https://www.youtube.com/watch?v=ZfkU6BhV_dI
+
 ## [2. #2 Pick: VetsBest Flea & Tick Premium Shampoo for Cats](https://www.amazon.com/dp/B07PHMB7T2/?tag=p-policy-20)
 
 Does your pet suddenly disappear as soon as you pull out any flea treatment?
@@ -51,7 +51,7 @@ The shampoo is made with natural oils that will calm your pet and give a fresh s
 Your pet comes first with this ingeniously blended formula and will stop fleas from taking over and spreading to all your other pets.
 ## [3. #3 Pick:Veterinary-Formula Tick & Flea Clinical-Care Shampoo](https://www.amazon.com/dp/B075S9NZJL/?tag=p-policy-20)
 
-https://www.youtube.com/watch?v=1U12tOi2Tdw
+
 ## [4. Zodiac Flea and Tick Shampoo for Dogs and Cats](https://www.amazon.com/dp/B0002ARGLE/?tag=p-policy-20)
 
 Stop the fleas infesting all your pets with Zodiacs Flea and Tick Shampoo that can be used for all your pets.

@@ -41,7 +41,7 @@ Pros:
 Cons:
 - Might need more than one application for good results
 
-https://www.youtube.com/watch?v=VfvbjZz1W6Y
+
 Read Also:
 [Bug Zapper for Mosquitoes](https://pestpolicy.com/[best](https://pestpolicy.com/best-ant-killer-for-yard/)-bug-zapper-for-mosquitoes/)
 ### [2. Scotts GrubEx - Grub Killer & Preventer - 5000 sq feet](https://www.amazon.com/dp/B0050DV4ZW/?tag=p-policy-20)
@@ -62,7 +62,7 @@ Pros:
 Cons:
 - Is only compatible with Scotts Spreaders
 
-https://www.youtube.com/watch?v=dtxS-T7oN0M
+
 Related:
 Best Fogger for Spiders
 ### [3. Sevin Ready-To-Use Dust Pack Containing 5% Carbaryl](https://www.amazon.com/dp/B006O8OWFG/?tag=p-policy-20)

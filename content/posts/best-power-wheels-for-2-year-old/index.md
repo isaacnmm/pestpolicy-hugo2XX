@@ -45,7 +45,7 @@ Pros:
 Cons:
 - Quiet expensive compared to other car brands
 
-https://www.youtube.com/watch?v=4dk6NzcZTjA
+
 Read Also:
 Swing Sets for Small Yards
 ### **2. Maserati Style 12V  Best For Ages 2-4 Years****
@@ -70,7 +70,7 @@ Pros:
 Cons:
 - The car takes time to assemble (45-60 minutes)
 
-https://www.youtube.com/watch?v=ZQotIBhxCfk
+
 Read Also:
 Stain For Cedar Swing Set
 ### [**3. Kids 12V Electric Power Ride - Ages 18 Months to 6 Years**](https://www.amazon.com/dp/B015QJI7DQ/?tag=p-policy-20)

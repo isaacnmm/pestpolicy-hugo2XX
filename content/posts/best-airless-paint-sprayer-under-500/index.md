@@ -47,7 +47,7 @@ Pros:
 Cons:
 - Requires a high level of maintenance
 
-https://www.youtube.com/watch?v=KKxakPtaP3c&t=10s
+
 ### [2. Graco Magnum 262800 X5 Airless Paint Sprayer](https://www.amazon.com/dp/B0026SR0FW/?tag=p-policy-20)
 The second runner slot goes to Graco Magnum 262800 X5 which is equally good with a slight modification of the X7.
 
@@ -71,7 +71,7 @@ Pros:
 Cons:
 - Has high chances of clogging
 
-https://www.youtube.com/watch?v=tl5pvnQPHOk
+
 > See Also:
 > Comapre Ceiling Paint and Wall Paint
 ### [3. Earlex 0HV6003PUS-6003 HVLP Paint Sprayer](https://www.amazon.com/dp/B00JRE163K/?tag=p-policy-20)

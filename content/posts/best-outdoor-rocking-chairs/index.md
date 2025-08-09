@@ -30,7 +30,7 @@ The sitting area measures about 18 inches in width and is thus suitable for most
 - You can now grab your sweet blanket and gaze at the moon and stars with the Char-Log Single Rocker with Star.
 - Youll enjoy the quality of outdoor time with the amazing rocking motion that the chair provides.
 - This is coupled with the assurance that it is high quality and thus safe.
-https://www.youtube.com/watch?v=o6kl7_E2JYs
+
 Insect Resistant - It is designed from a unique fir log and solid pine built, which ensures that it is resistant to stains, mold, and mildew.
 Read Also:
 Bullet Journal Notebook
@@ -45,7 +45,7 @@ I was sure I needed this outdoor rocking chair in my backyard and porch. My firs
 I must say that the chair is made of a quality and durable steel frame that can easily hold a maximum of 220 pounds of weight. Read Also:
 Rocking Chairs for Nursery
 .
-https://www.youtube.com/watch?v=6M058LwD_LI
+
 ### [3. Shine Company Vermont Porch Rocker](https://www.amazon.com/dp/B00IVJ77UI/?tag=p-policy-20)
 Shine Company Vermont Porch Rocker is a stylish and popular rocker with a solid hardwood build. It has a polyurethane paint finish: weatherproof.
 It has solid

@@ -29,7 +29,7 @@ In my mission to find a reliable pest control company, I came across various ser
 The company has hired (over the years) expert pest exterminators and they have adopted technology massively.
 - For example, Terminix is documented to be the first pest control service to get a patent in the termite control area.
 My review is that Terminix is a reliable and effective pest control self but it is good to examine multiple companies prior to picking the final one.
-https://www.youtube.com/watch?v=QOaxyMroWHo
+
 ## Upsides & Downsides of Terminix
 ### Upsides
 - Terminix pest service included the Nix bug Guarantee for a general control plan for pests so the next exterminator will come back to your residence when the pests return.

@@ -37,7 +37,7 @@ Pros:
 - Eco-friendly
 Cons:
 - Relatively limited coverage
-https://www.youtube.com/watch?v=x847MoybHE0
+
 ### [2. Zinsser Bulls Eye 123 Primers for all surfaces](https://www.amazon.com/dp/B000H5VKBQ/?tag=p-policy-20)
 For users looking for a multi-purpose primer for different home projects, Bulls Eye 123 presents the perfect solution. T
 his primer's odorless nature and ease of cleaning with soap and water make it ideal for kitchen oak cabinets.

@@ -33,7 +33,7 @@ The recliner cover will easily resist staining, and the material will fill rough
 It has a lane system with a drop in the coil to offer you comfort while sitting. It has back cushions and an attacked seat that will accommodate more than 350 pounds.
 It has heavily padded seats and has reinforcement in the high-tension regions. Also, it has rolled arms that are stylish and oozes comfort.
 The recliner has a Kiln-dried hardwood build with tenon and mortise. It is easy to assemble as it comes with just 2 pieces.
-[embed]https://www.youtube.com/watch?v=ELB2dM7WZFk[/embed]
+[embed]
 ### [2. CATNAPPER 546892222029 Rocker Recliner, Big Man](https://www.amazon.com/dp/B00K72VAI2/?tag=p-policy-20)
 The Catnapper Magnum reclining glider is designed to build excellent comfort for the above-average height person.
 t has a wide and comfortable sitting area, which has additional pillow-soft and plush padding. Its reclining system will enable a quick and smooth reclining mechanism.

@@ -32,7 +32,7 @@ This doesn't mean that all essential oils won't kill bed bugs. A
 reported an insecticide made from cedar and geranium oil kill bed bug in a quarter of the treated houses.
 What about real lavender? Real lavender will repel bed bugs but won't be as effective as a lavender spray. Lavender is proven to poison pets and animals, causing vomiting and nausea.
 However, bed bugs will wittingly move around the real lavender, and thus they won't get to ingest it - remember, bed bugs are only about 1/4 inch in body size.
-https://www.youtube.com/watch?v=CwTzacUJugk
+
 ## How DoesLavender Repel Bed Bugs?
 However, for lavender,
 [bed bugs](https://pestpolicy.com/what-animals-eat-[bed-bugs](https://pestpolicy.com/does-baby-powder-kill-bed-bugs/)/)

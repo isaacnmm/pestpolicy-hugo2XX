@@ -125,7 +125,7 @@ Also, the manufacturer provides a lifetime warranty for readability and write-ab
 **32GB storage capacity**
 The storage capacity is large enough for both the raspberry OS and leaves space for other siles such as data and your critical applications.
 
-https://www.youtube.com/watch?v=lPhJi64pInc
+
 ## Conclusion
 Just like the 32GB LoveRPi MicroSD Card, the LoveRPi 128GB Raspbian SD card is optimized for RASPBERRY PI3, particularly Pi Zero and the other Pi3 B.
 - The card has a Raspbian OS and NOOBS loader but lacks RPi-Tracker software.Equally, the LoveRPi 128GB SD card is highly efficient since it incorporates a modern and fast flash memory and excellent controllers.

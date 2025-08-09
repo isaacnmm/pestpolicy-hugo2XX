@@ -52,7 +52,7 @@ Pros:
 Cons:
 - None
 
-https://www.youtube.com/watch?v=xxCy8iNtK0M&feature=youtu.be
+
 
 Read Also:
 Laptop for Video Editing
@@ -73,7 +73,7 @@ Pros:
 Cons:
 - Large punch for a small-body acoustic guitar
 
-https://www.youtube.com/watch?v=jie4shtEaXM
+
 Read Also:
 [Best Acoustic Guitar Under 300](https://pestpolicy.com/best-acoustic-guitar-under-300/)
 ### [3. Taylor GS Mini Broad-Based Mahogany Guitar - #3 Pick](https://www.amazon.com/dp/B007IVUOXM/?tag=p-policy-20)
@@ -98,7 +98,7 @@ Pros:
 Cons:
 - None
 
-https://www.youtube.com/watch?v=8Sl9CsU-X00
+
 Read Also:
 Best Short Scale Electric Guitars
 ### [4. Art and Lutherie Roadhouse Acoustic-Electric Guitar](https://www.amazon.com/dp/B01N4GXGH6/?tag=p-policy-20)
@@ -141,7 +141,7 @@ Pros:
 Cons:
 - None
 
-https://www.youtube.com/watch?v=lwfhRY92eV4&feature=youtu.be
+
 
 Read Also:
 Sound Cards for Music Production

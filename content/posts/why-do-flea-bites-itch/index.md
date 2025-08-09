@@ -32,7 +32,7 @@ Also, the location and pattern of the flea bites will be unique compared to othe
 Thus, I would recommend you inspect for flea on the pets including cats & dogs. Check if the pers are restless or scratching - this could be indicators of flea bites.
 Related:
 What Do Flea Eggs Look Like on a Dog?
-https://www.youtube.com/watch?v=L0vnIIf11VY
+
 ## Flea Bites Won't Stop itching; What Should I do?
 First, I must say that it isn't advisable to see those flea bite areas. This could lead to skin breakage and may trigger further infection.
 - However, if you break the skin, I advise you to clean the area using some soap & water and finally cover the bite area using a bandage.

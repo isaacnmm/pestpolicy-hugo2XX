@@ -38,7 +38,7 @@ Pros:
 Cons:
 - Expensive
 
-https://www.youtube.com/watch?v=DI-TC80N2ek
+
 > See Also:
 > Folding Ladders for Painters
 ### [2. Da Vinci-5359 Watercolor Brushes](https://www.amazon.com/dp/B0069FC9FO/?tag=p-policy-20)
@@ -61,7 +61,7 @@ Pros:
 Cons:
 - expensive
 
-https://www.youtube.com/watch?v=p0ppRpUaIY8
+
 ### [3. DArtisan Maestro Series XV (15pc Set) Paint Brush](https://www.amazon.com/dp/B00OH2GC86/?tag=p-policy-20)
 Every watercolorist's dream is owning a cool set of the brush to serve him in the paintwork either as an artist or any other profession that requires brushes. This set of 15 professional quality paint brushes diversifies your choice for your different painting style.
 

@@ -29,7 +29,7 @@ On the other hand, if you reside in those regions that dont experience heavy sno
 Winter is just an ordinary period, and it shouldnt prevent you and your kids from having fun. I know winter can be icy, but hey, jumping will warm you up, just try it! Read Also:
 Swing Set Under 200
 .
-https://www.youtube.com/watch?v=46Y8J-vGCOo
+
 ## **Should You Disassemble Your Trampoline During Winter? **
 Most trampoline owners ponder this question a lot. To answer it directly, I would say it depends. But, if you have enough storage space, you can always take them down and store to reassemble later.
 It depends on the level of snow you usually experience in your area, the manufacturers opinion about the ability of the structure to survive in winter, and your personal preference. Read Also:

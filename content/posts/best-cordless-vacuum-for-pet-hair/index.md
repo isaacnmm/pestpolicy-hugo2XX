@@ -28,7 +28,7 @@ in the market, I have narrowed it down to
 
 ## [1. Our #1 Pick: Shark-IZ363HT Stick Vacuum (Anti-Allergen)](https://www.amazon.com/dp/B08FP95RQD/?tag=p-policy-20)
 
-https://www.youtube.com/watch?v=m575vGsl2uU
+
 ## [2. #2 Pick: Bissell Cordless ICONpet Stick Vacuum Cleaner](https://www.amazon.com/dp/B08SGQKXKZ/?tag=p-policy-20)
 
 Another one from Bissell! The concept features advanced functional details that will make your vacuuming jobs effective and less tiresome.
@@ -49,10 +49,10 @@ The Good:
 - Anti-allergen filtration
 The Bad:
 - Suction is a bit weak
-https://www.youtube.com/watch?v=06y6nByM8fs
+
 ## [3. #3 Pick: NEQUARE 280W 25Kpa Stick & Cordless Vacuum Cleaner](https://www.amazon.com/dp/B07Q6971T7/?tag=p-policy-20)
 
-https://www.youtube.com/watch?v=fwEYkAj_iwA
+
 ## [**4. Dyson V11 Vacuum Cleaner Cordless**](https://www.amazon.com/dp/B07NXJDBL8/?tag=p-policy-20)
 
 Dyson V11 will be an excellent tool for removing pet hair from your carpet, floor, couches, bedding, and baseboards.
@@ -76,7 +76,7 @@ The Good:
 The Bad:
 - Expensive
 - Small debris cup
-https://www.youtube.com/watch?v=R8npr7dbFwg
+
 ## [**5. Black+Decker 2 in 1 Cordless PowerSeries Pro Pet Hair Vacuum**](https://www.amazon.com/dp/B075VTL22P/?tag=p-policy-20)
 
 This is a next-level pet hair vacuum featuring the three smartest technologies to make your job easier and more accurate. These include Autosense, Filtersense, and Battersense.

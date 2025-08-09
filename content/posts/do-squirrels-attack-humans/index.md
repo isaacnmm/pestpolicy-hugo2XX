@@ -44,7 +44,7 @@ Spray for Yellow Jackets
 If a squirrel lands on your property, especially in the attic, you must take quick remedies to avoid further attacks on humans and pets. I recommend you;
 - Use vinegar: Soak some rags into cider vinegar and place these around the door of the attic or at your fireplace.
 - Make noise: When the squirrel is already in the chimney or attic, make massive noises to help scare the animal away from your property.
-https://www.youtube.com/watch?v=Xu-q47fM020
+
 Further, for any squirrel that is threatening to attack humans or is inside your property - consider hiring some professional remover and don't get overly close to the animals to avoid injury.
 - The pest control and removal experts will definitely understand the behavior of squirrels as compared to most of us.
 - Thus, the experts will remove the animals without hurting anyone.

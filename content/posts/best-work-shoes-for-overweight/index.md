@@ -37,7 +37,7 @@ Cons:
 - Unsuitable for women and kids
 - Limited sizes and colors
 
-https://www.youtube.com/watch?v=s4whCUbaGro
+
 ## [2. SUADEX Indestructible Steel Toe Work Shoes for Men/ Women](https://www.amazon.com/dp/B084ZCV192/?tag=p-policy-20)
 Suadex is sturdy shoes that feature a classic design and beautiful colors that will boost your confidence and esteem when walking among others.
 
@@ -59,7 +59,7 @@ Cons:
 - Unsuitable for men and kids
 - Maybe narrower for wide feet
 
-https://www.youtube.com/watch?v=RUVclFtIyRE
+
 ### [3. KEEN Utility Men's Atlanta Cool-M Industrial Shoe](https://www.amazon.com/dp/B004J3E58W/?tag=p-policy-20)
 Keen Utility is a classic industrial shoe that features tough rubber outer sole construction with extra flexibility to allow smooth foot arching when walking without muscle strains.
 

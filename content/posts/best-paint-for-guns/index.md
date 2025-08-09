@@ -37,7 +37,7 @@ Pros:
 Cons:
 - Some customers have nozzle issues
 
-https://www.youtube.com/watch?v=B5YyCzSfDRE
+
 > See Also:
 > Automotive HVLP Spray Gun for the Money
 ### [2. VHT Engine Paint, 12 Ounce (DE1641)](https://www.amazon.com/dp/B000GKAZFE/?tag=p-policy-20)
@@ -59,7 +59,7 @@ Pros:
 Cons:
 - Some clients have expressed color issues
 
-https://www.youtube.com/watch?v=7xFRn3z2cuI
+
 > See Also:
 > HVLP Paint Sprayer for Latex Paint
 ### [3. Rust-Oleum Automotive 260771, Gloss Clear](https://www.amazon.com/dp/B006ZLQ0JI/?tag=p-policy-20)

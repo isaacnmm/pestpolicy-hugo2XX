@@ -60,7 +60,7 @@ Pros:
 Cons:
 - Not readily available in all markets
 
-https://www.youtube.com/watch?v=P1coX8laMW0
+
 > See Also:
 > Best Paint Stripper for Metal
 ### [3. Kilz 1-Part Epoxy Acrylic Concrete and Garage Floor Paint](https://www.amazon.com/dp/B01MG7RWGF/?tag=p-policy-20)

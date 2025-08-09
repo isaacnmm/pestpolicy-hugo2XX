@@ -46,7 +46,7 @@ However, killing the termite swarmers only will not solve your termite problem.
 Therefore, killing the termite swarmers will only leave the other termite colony thriving unless you treat them.
 NB: Finding a few Formosan termites could be an exception when sighted in a building that is appropriately treated for termites.
 - This is because the Formosan swarmers will be attracted by light from outside colonies or trees and may enter the house, especially in the swam season.
-https://www.youtube.com/watch?v=CbFdJQuDAzM
+
 ### 2. Finding mud shelter tubes.
 If you see mud shelter tubes moving up the house plumbing, support piers, enable foundation walls, and outside foundation walls, then there could be a termite colony around.
 - For example, termites can build shelter tubes on the exterior side of a slab to enable them to get into the house under the siding.

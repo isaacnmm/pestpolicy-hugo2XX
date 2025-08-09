@@ -42,7 +42,7 @@ Pros:
 Cons:
 - None found
 
-https://www.youtube.com/watch?v=kE1Pi4wb7GY
+
 > See Also:
 > Sealer for Pressure Treated Wood
 ### [2. INSL-X Benjamin Moore-Tough Shield and Floor Paint](https://www.amazon.com/dp/B01NAO2J31/?tag=p-policy-20)
@@ -62,7 +62,7 @@ Pros:
 Cons:
 It is expensive
 
-https://www.youtube.com/watch?v=GDTVaZi3ZAs
+
 > See Also:
 > Swing Set Stain
 ### [3. KILZ Over Armor Concrete Coating and Smooth Wood](https://www.amazon.com/dp/B07C834BZM/?tag=p-policy-20)

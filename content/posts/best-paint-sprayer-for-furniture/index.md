@@ -114,7 +114,7 @@ Pros:
 Cons:
 - The device is bulky and most artists or homeowners might find it challenging to move around.
 Video can't be loaded because JavaScript is disabled:
-[HomeRight Paint Sprayer  (https://www.youtube.com/watch?v=wA17PvY5Uqs)](https://www.youtube.com/watch?v=wA17PvY5Uqs)
+[HomeRight Paint Sprayer  (
 ## Conclusion
 On the best paint sprayer for furniture,
 Spraytech 0518080 has v

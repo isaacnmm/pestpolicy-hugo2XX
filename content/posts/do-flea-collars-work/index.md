@@ -41,7 +41,7 @@ will only fleas that are near the gadget - this is rather ineffective. Also, som
 While at it,
 **Seresto flea collar**
 is a reliable device to repel and kill fleas & ticks on dogs and cats for eight months. Thus, the bugs won't transmit dangerous diseases or causes irritation on pets no more.
-https://www.youtube.com/watch?v=hftw4nqNPqg
+
 The collars effectively deliver the high-quality active ingredients on the pet's hair or skin surface - the fleas' hiding place. Luckily, flea collars will continually repel an kill fleas on the pets.
 **Bad odour? **
 No current flea collars won't release that kind of pungent odours. The devices will slow-release the active ingredients onto the pet's skin - reducing chances of strong odours.

@@ -54,7 +54,7 @@ The opossums are not bothered by the snake's venom - and so they will consume a 
 In fact, scientists are delivering and anti-venom for use on humans - taking advantage of the special feature of the opossums' blood. Ty these
 [gopher traps](https://pestpolicy.com/best-gopher-traps/)
 .
-https://www.youtube.com/watch?v=4UPcVCUpHNg
+
 ### **7. Opossums will Eat Garbage**
 The animals will go through the trash bin and eat garbage if they are hungry. Despite that the Opossums will hunt down the household pests (free pest control) - it can get messy when they ransack the garbage area.
 They are attracted by the garbage smell, and they will drink milk, juice, or soda if it is available. But this can be a problem when the opossums run down the garbage bins and bags to scatter the trash all over your yard as they look for food scrapes.

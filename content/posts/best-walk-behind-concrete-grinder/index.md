@@ -41,7 +41,7 @@ Cons:
 - Requires initial user training
 - Slightly heavy
 
-https://www.youtube.com/watch?v=RSwWEMM2lKY
+
 > See Also:
 > [Concrete Rust Remover ed](https://pestpolicy.com/best-concrete-rust-remover/)
 ### [2. XtremepowerUS 10-inch Walk-Behind Electric Concrete Floor Grinder](https://www.amazon.com/dp/B07VPC1CTQ/?tag=p-policy-20)
@@ -64,7 +64,7 @@ Cons:
 - May be affected by power shortage  electric powered
 - The grinding surface could be more
 
-https://www.youtube.com/watch?v=_63XHGyIpws
+
 > Read Also:
 > [Pressure Washer for Paint Removal](https://pestpolicy.com/best-pressure-washer-for-paint-removal/)
 ### [3. Husqvarna 967278206 PG 280 Floor Grinder](https://www.amazon.com/dp/B01J5UYLVE/?tag=p-policy-20)

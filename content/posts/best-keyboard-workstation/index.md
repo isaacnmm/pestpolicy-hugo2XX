@@ -63,7 +63,7 @@ Pros:
 Cons:
 - None
 
-https://www.youtube.com/watch?v=Oj7sVy7rCVw
+
 Read Also:
 Sound Cards for Music Production
 ### [3. Casio WK-6600 76-Key (+Power Supply) Work-station Keyboard](https://www.amazon.com/dp/B00I131U5C/?tag=p-policy-20)

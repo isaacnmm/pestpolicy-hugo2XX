@@ -30,7 +30,7 @@ Therefore, you can now achieve top DDR4 overclocking through timed signaling to 
 With ASUS prime Z270-P, its possible to achieve very high transfer speeds using the M.2 and x4 PCI Express 3.0 or 2.0 bandwidth, which will allow about 32 GB/s. Related:
 Sd card for raspberry pi 3
 .
-https://www.youtube.com/watch?v=SBMXpJDOjFM
+
 ### [2. GIGABYTE Z270X-Ultra Gaming - #2 Pick](https://www.amazon.com/dp/B01N66ZESI/?tag=p-policy-20)
 GIGABYTE Z270X-Ultra Gaming comes with superior DDR4 memory and Optane support, overclocking, and LGA 1151 socket.
 The PCIe and DIMMs slots are strong due to the created reinforcement, which will be helpful for your graphics card if you install the mo-bo vertically.
@@ -43,7 +43,7 @@ Intel USB3.1 Gen2, supporting corei6/i7.
 Therefore, the RGB Fusion App will allow you to customize the LED and enjoy the fantastic user experience by lighting different Z270X-Ultra Gaming zones, separately displaying aspects such as load and temperature.
 Also, with the RGB Fusion APP for the Z270X-Ultra Gaming, you can now view the lighting, both speed, and color, as you control the LED in the gaming computer.
 Further, the motherboard has a Smart Fan 5 that will keep your PC cool and at optimum performance. You can easily interchange the fan headers to show varied thermal sensors for the various Z270X-Ultra Gaming areas.
-https://www.youtube.com/watch?v=NFYCroRLBY4
+
 ### [3. ASUS ROG MAXIMUS-VIII HERO - #3 Pick](https://www.amazon.com/dp/B0126R4F8W/?tag=p-policy-20)
 Asus Maximus-VIII Hero is among the high-end motherboards that have quality traits and are easy to overclock. So, is ASUS MAXIMUS-VIII HERO your mo-bo?
 The motherboard has superior onboard audio, great fan control, and onboard reset and power switches. Therefore, Asus Maximus-VIII Hero will work excellently with your i7 6700.

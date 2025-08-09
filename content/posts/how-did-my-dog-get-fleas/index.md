@@ -50,7 +50,7 @@ Initial steps to achieve these may include are moving the dog's seeds, nuts, and
 However, don't discourage the dogs from socializing with other pets including other dogs as this could hinder their well-being.
 - On the contrary, I recommend that you employeffective flea treatment on a regular basis.
 So, you need to flea treat the dogs and all the other pets in the house as these will reduce the probability of flea infestation on dogs.
-https://www.youtube.com/watch?v=LZ9kNS8KDBA
+
 ### 2. Can Dogs Get Fleas From the House? Hotspot #2
 Please can get into the house through various ways including hitchhiking onto humans or pets.
 For example, wild animals like mice are raccoons can carry fleas from the outdoor spaces to your indoor areas.

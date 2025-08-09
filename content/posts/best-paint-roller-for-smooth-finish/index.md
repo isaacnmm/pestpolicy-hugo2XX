@@ -48,7 +48,7 @@ Cons:
 - Not suitable for painting high heights
 - Limited roll length
 
-https://www.youtube.com/watch?v=G4seJQP4Fl8
+
 > See Also:
 > Valspar Cabinet Paint
 ### [2. Wooster Brush R975-9 Painter's Choice Roller 9-Inch and 3/8-Inch](https://www.amazon.com/dp/B000I1VDBG/?tag=p-policy-20)
@@ -74,7 +74,7 @@ Cons:
 - Short handle  not for high walls
 - Roll covers could be more
 
-https://www.youtube.com/watch?v=BeL9ofK9hCI
+
 > See Also:
 > Paint Sprayer for Doors
 ### [3. Purdy Jumbo Mini Ultra Finish Roller](https://www.amazon.com/dp/B00F299MMG/?tag=p-policy-20)

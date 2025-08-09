@@ -45,7 +45,7 @@ Pros:
 Cons:
 - None found
 
-https://www.youtube.com/watch?v=Wq7bhx6T2cQ
+
 ### [2. Purdy-144080515 XL Paint Brush-Elite Dale Sash](https://www.amazon.com/dp/B008GKJLVA/?tag=p-policy-20)
 Purdy 144080515 XL is manufactured in the USA by Purdy. The brush blends both Orel polyester and DuPont-Chinex to give splendid bristles. The Chinex quality allows the bristles to the self flag while the polyester gives the bristles stiffness and high retention.
 
@@ -68,7 +68,7 @@ Pros:
 Cons:
 - None found
 
-https://www.youtube.com/watch?v=SIx6q1CKhHk
+
 ### [3. Wooster Brush Shortcut Angle Sash Q3211-2-Inch, Paintbrush](https://www.amazon.com/dp/B002YC06T2/?tag=p-policy-20)
 Wooster Q3211-2 is a polyester/nylon short-handled brush from Wooster Brush Company designed to give uniform coverage while resisting wear and tear. The brush is suitable for use on all kinds of paints like water-based paints and oil-based paints.
 

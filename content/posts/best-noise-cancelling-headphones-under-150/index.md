@@ -37,7 +37,7 @@ Pros:
 Cons:
 - Audio performance is affected by noise cancellation
 
-https://www.youtube.com/watch?v=BCaocpZZezs
+
 
 Read Also:
 Drones for Still Photography
@@ -62,7 +62,7 @@ Pros:
 Cons:
 - Causes hot ears with prolonged use
 
-https://www.youtube.com/watch?v=IfkakS7eQ8c
+
 
 Read Also:
 Compact Cameras under 300

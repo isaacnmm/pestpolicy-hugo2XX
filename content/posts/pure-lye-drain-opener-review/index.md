@@ -25,7 +25,7 @@ The Pure Lye Drain Opener is a pure white formula that is a natural remedy for y
 clogged drain
 . Its safe to use either in restaurants, hospitals, educational institutions, and households.
 I noticed that the finely shaped and small lye beads work great for PVC and metal pipes, chrome trims, and bath fixtures. The green/ eco-friendly clog remover contains almost 100% biodegradable formula with no bad odors, toxic chemicals, acids, or dyes.
-https://www.youtube.com/watch?v=chOsY3ynFDE
+
 ## Works in all drain types
 Pure Lye
 Drain Opener is powerful enough

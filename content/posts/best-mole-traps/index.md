@@ -43,7 +43,7 @@ Pros:
 Cons:
 - Has a plastic construction which could break
 
-https://www.youtube.com/watch?v=0GXj2Mk5ot4
+
 
 Read Also:
 [Raccoon Traps Reviewed](https://pestpolicy.com/best-raccoon-traps/)
@@ -67,7 +67,7 @@ Cons:
 - Not useful in sandy or loose soil
 - May not go deep enough.
 
-https://www.youtube.com/watch?v=uARbDzc3mGA
+
 
 Read Also:
 Fogger for Spiders Reviewed

@@ -25,7 +25,7 @@ In gaming projectors, input lag is the time difference between when a signal arr
 Since your gaming projector can also act as a home theater system, youd better do your research and possibly chuck an extra buck for the best unit.
 Well, a gaming project would be all you will need to have your gaming freedom. Read Also:
 SD card for Raspberry Pi 3
-https://www.youtube.com/watch?v=c3Nq6cTDh8s
+
 Read Also:
 [Quality Android Tablet for Gaming](https://pestpolicy.com/best-android-tablet-for-gaming/)
 .
@@ -37,7 +37,7 @@ So, recently they improved the BenQ HT2050 to the amazing BenQ HT2150ST. HT2050 
 - Considering the amazing upgrades, I gifted my gaming brother with the BenQ HT2150ST on his birthday.
 - BenQ HT2150ST has low input lag, particularly if you enable the Fast Mode and Game Picture Mode.
 BenQ HT2150ST has a short-throw capability allowing you to project a 100-inch picture over just 5 feet. Therefore, youll not have to worry about shadows appearing on the projection area.
-https://www.youtube.com/watch?v=iO0FeHLCpn8
+
 Read Also:
 [Laptop Tablet Combo](https://pestpolicy.com/best-laptop-tablet-combo/)
 ### [3. EUG Wireless ProjectorLED LCD Support - #3 Pick](https://www.amazon.com/dp/B00SIZG5MQ/?tag=p-policy-20)

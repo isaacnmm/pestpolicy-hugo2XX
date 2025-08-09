@@ -46,7 +46,7 @@ Pros:
 Cons:
 - A bit pricey, but highly responsive
 
-https://www.youtube.com/watch?v=mndUSp0ktbQ
+
 Read Also:
 Running Shoes For Men With Flat Feet
 ### [2. Vitalsox Compression Socks for Travel - #2 Pick](https://www.amazon.com/dp/B004BKIPUC/?tag=p-policy-20)
@@ -70,7 +70,7 @@ Pros:
 Cons:
 - Quite pricey
 
-https://www.youtube.com/watch?v=Cv_-CxrcY2o
+
 Read Also:
 Shoes for High Arches And Standing All Day
 ### [3. Sockwell Circulator Compression Socks - Best for circulation - #3 Pick](https://www.amazon.com/dp/B005P4N3UU//?tag=p-policy-20)

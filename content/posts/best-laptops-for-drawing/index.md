@@ -42,7 +42,7 @@ Pros:
 Cons:
 - Does not have USB-C
 
-https://www.youtube.com/watch?v=gWQf0B6C4Bs
+
 Related:
 7 Best Laptop for Video Editing
 ### [**2. Samsung 9 Pro Touch Screen Notebook**](https://www.amazon.com/dp/B076V63MQX/?tag=p-policy-20)

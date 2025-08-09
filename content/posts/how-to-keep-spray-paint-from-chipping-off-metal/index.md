@@ -45,7 +45,7 @@ You can opt to use a lens (hand lens) to identify intricate sections, which may 
 - Stain the area with a paint stripper and leave the surface to quench for a duration provided by the manufacturer
 - Using a paint scraper, scrub the surface gently to remove old chipping paint.
 - Repeat the previous step until the entire paint is removed.
-https://www.youtube.com/watch?v=BTgbVwfigeU
+
 ### Step 3: Sand and Polish the Area
 - Connect the sander to the power supply and press the power button on
 - Gently, run theSanderover the metal surface to remove the paint remains. Be careful not to damage the primary surface material

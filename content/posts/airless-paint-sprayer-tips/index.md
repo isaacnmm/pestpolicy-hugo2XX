@@ -33,7 +33,7 @@ However, as you rent the machine, ensure that the pump and hose are clean, plus 
 ### 2. Choose the right Spray Tip
 Next, you must decide on the right sprayer tip for your painting job. These tips will be sliding into the hole at the front of the paint spray gun. Spray tips marked using three-digit numbers (like 515) - match the numbers with the job at hand.
 The last two digits denote the hole size while the 1st number denotes the spray fan width. For example, a tip marked 515 would give out a 10-inches paint fan pattern (this implies you double the 1st number).
-https://www.youtube.com/watch?v=WvpQ2IeQmdI&feature=youtu.be
+
 However, the basic rule is that you'll need to use smaller tips (like 0.009 inches or 0.011 inches) for materials that have low viscosity or are thin like lacquers and
 deck stains
 .

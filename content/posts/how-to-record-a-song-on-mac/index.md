@@ -22,7 +22,7 @@ Therefore, it'll be possible to record music on the basic updated Macs - record 
 Read Also:
 Best Earbuds Under $50
 ## How to Record a Song on Mac (Step By Step)
-https://www.youtube.com/watch?v=mC92kIOfdpw
+
 ### Step 1: Launch**GarageBand & Start a New Recording Project**
 Launch the
 [GarageBand software](https://mediacommons.psu.edu/2017/04/30/starting-a-new-podcast-project-in-garageband/)
@@ -48,7 +48,7 @@ Best Camera for YouTube
 ### Step 5: Review the Recording
 It's now time to review the recording - So, hit the GarageBand's button located around the "Record" button - it'll look something like a triangle and a vertical line.
 Now, click the button and this will take the audio track to its beginning. So, click on the button marked "Play" and this will begin playing the audio back. To stop this p[layback, simply hit on the "Play" button.
-https://www.youtube.com/watch?v=9ly0agVwBRM
+
 ### Step 6: Record the**Sound**
 If required, you can re-record the track or sound. So, if the sound or tack isn't the quality you'll love - you can take back the track to the start and hit the "Record" button.
 Therefore, after hitting the recording button, it'll record the audio that'll overwrite your old audio - it must be clear that you'll lose the old audio. Also, remember to review the old audio after you're done recording the audio or track.

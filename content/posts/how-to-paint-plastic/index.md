@@ -49,7 +49,7 @@ The plastic surface that is previously painted requires paint stripping in order
 - Repeat the previous step once more until the old paint is completely removed
 - Using fine-grit sandpaper, sand the plastic surface to remove paint remnant and rough surface scratches that may have occurred
 - Blow off dust and mop the surface before going to the next step
-https://www.youtube.com/watch?v=1hUds71Bx48
+
 ### 3. Polishing and Blowing
 - Connect the polishing machine to the power source and switch on
 - Gently, run the polishing machine over the sanded plastic surface  back and forth
@@ -80,7 +80,7 @@ In case you consider using a primer, match it with preferred finish paint  oil-b
 To attain the best finish coat, its advisable to seal the finish paint. To achieve this, line the final coat with light paint solvent.
 Then, apply the paint sealer until the entire surface is covered. Leave the sealed plastic material to dry naturally.
 Always cover the sealed plastic item with a polyethylene bag in case its found in a dusty environment  to prevent it from dust stains.
-https://www.youtube.com/watch?v=tNsr43aFZgk
+
 ## Major Painting Problems Associated with Plastic?
 Wrongly painted plastic items experience some of the following problems:
 ### a. Peeling and Flaking

@@ -70,12 +70,12 @@ see nymphs with the naked eye
 Bed Bugs Lifecycle. Credit: phdmc.org[/caption]
 The baby bed bugs-nymphs add about 0.5 mm of their size at each molting stage (of the five juvenile "nymph" stages). However, do not confuse a cluster of bed bug eggs (with each measuring about 1 mm) with the nymphs.
 At the 5th nymph stage, the baby bed bug is almost equal to their adult counterparts. But for more clarity, check out the
-[video](https://www.youtube.com/watch?v=xLhL09m5oDM)
+[video](
 (Courtesy of Sandy Honess) and see how you can differentiate the nymphs from the adult bed bugs.
 ### **2. Shape and****Color**
 Nymphs have an oval just like their counterparts. So, the main difference between the nymphs and the adult bed bugs is just the color. After hatching, nymphs will be yellow-white (almost colorless) but will turn reddish or brown as they feed on blood.
 Before they suck blood, bed bugs are relatively thin and hence will easily slip through cracks and crevices into mattress covers and furniture spaces where they hid, waiting to lay eggs or attack their next host.
-https://www.youtube.com/watch?v=2jGm8widTEY
+
 ## **Do baby bed bugs Jump or Crawl?**
 First things first, the baby bed bug, just like the
 adult bed bugs, can't fly or jump

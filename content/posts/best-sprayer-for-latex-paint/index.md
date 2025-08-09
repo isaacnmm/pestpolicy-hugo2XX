@@ -36,7 +36,7 @@ Pros:
 Cons:
 - Bulky in design
 
-https://www.youtube.com/watch?v=KKxakPtaP3c
+
 > See Also:
 > Does Alcohol Remove Paint?
 ### [2. Wagner Flexio 590 sprayer](https://www.amazon.com/dp/B01LWVQ4EZ/?tag=p-policy-20)
@@ -56,7 +56,7 @@ Pros:
 Cons:
 - The nozzle is prone to clogging
 
-https://www.youtube.com/watch?v=hza19-xJChE
+
 > See Also:
 > [Gravity Feed Spray Guns](https://pestpolicy.com/best-gravity-feed-spray-guns/)
 ### [3. Homeright Finish Max Sprayer](https://www.amazon.com/dp/B003VKFDEO/?tag=p-policy-20)

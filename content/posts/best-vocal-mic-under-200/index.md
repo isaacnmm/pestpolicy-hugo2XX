@@ -41,7 +41,7 @@ Pros:
 Cons:
 - Not very durable
 
-https://www.youtube.com/watch?v=-FeRtj78lmI
+
 Related:
 [7 Best Condenser Mics under 300](https://pestpolicy.com/best-condenser-mics-under-300/)
 ### [**2. sE Electronics X1 Vocal Microphone**](https://www.amazon.com/dp/B002ZNZK78/?tag=p-policy-20)

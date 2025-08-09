@@ -34,7 +34,7 @@ Unique Features
 - Superior form factor - SD-XC
 - Large capacity - 200GB
 - High transfer speed - 90MB/s
-https://www.youtube.com/watch?v=pD4NjpuDGoM
+
 Read Also:
 Quality Gaming Projector
 ### [2. Lexar microSDXC 300x High-Performance](https://www.amazon.com/dp/B00XWPB85Q/?tag=p-policy-20)
@@ -52,7 +52,7 @@ Unique Features
 - Class 10 high-speed card
 - UHS-I technology that will achieve 45MB/s transfer speeds.
 - 64GB storage
-https://www.youtube.com/watch?v=ln6dDewfggs
+
 Read Also:
 Best Hotas Joysticks
 ### [3. PNY Elite MicroSDXC Card - 200GB](https://www.amazon.com/dp/B01KOZ00SW/?tag=p-policy-20)

@@ -71,7 +71,7 @@ The Good:
 - Safe for the user, utensils, and environment
 The Bad:
 - Relatively expensive
-https://www.youtube.com/watch?v=wtZyWtBW7pM
+
 ## [**4. Finish Powerball All in 1 Fresh Dishwasher Detergent**](https://www.amazon.com/dp/B078J8RCF8/?tag=p-policy-20)
 
 Finish 85 count dishwasher tablets are now enhanced with powerful ingredients making them more effective in dishwashing.

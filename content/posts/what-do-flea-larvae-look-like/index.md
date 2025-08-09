@@ -44,7 +44,7 @@ flea larvae around your home
 - The creature will have a whitish color to it.
 - It will be covered in tiny hairs, which are very light in color.
 The flea larvae are known to feed on the flea dust, which is essentially the waste product left behind from the adult fleas, and so you might notice these creatures around areas where flea dust is present.
-https://www.youtube.com/watch?v=aWhYjsb5yx0
+
 ## Where Do Flea Larvae Hide Out?
 The most popular
 place for the flea
@@ -65,7 +65,7 @@ how to control fleas in your yard
 - To effectively clear the home of fleas, you should vacuum thoroughly and put all bedding and soft furnishings through a hot wash in the washing machine; this willkill any flealarvae or fleas at other stages of development.
 - It would help if you were sure to clean inhard-to-reach areas where eggsand larvae may be hiding out, and this process should be repeated regularly for maximum effect. Also, tryfoggers for fleas.
 - You may need to employ a professionalpest controlcompany to find that the fleas and their larvae are incredibly stubborn.
-https://www.youtube.com/watch?v=sH2KblmOlFo
+
 Related:
 How to Tell If You Have Fleas
 ## Conclusion

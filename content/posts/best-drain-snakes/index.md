@@ -25,13 +25,13 @@ drain snake, especially for hair-clog removal. It has grabbers and small hooks t
 
 ## [1. Our #1 Pick:Forlivese 25-Inch Drain Opener orHair snake Tool](https://www.amazon.com/dp/B07RMHNHYC/?tag=p-policy-20)
 
-https://www.youtube.com/watch?v=mXxIR6fjDqw
+
 ## [2. #2 Pick:Vastar 19.6-Inch Clog Remover or Drain Snake](https://www.amazon.com/dp/B01DP87IF8/?tag=p-policy-20)
 
-https://www.youtube.com/watch?v=rLA1BVL4hFI
+
 ## [3. #3 Pick:5-in-1Clog Remover &Sink SnakeAuger orCleaner](https://www.amazon.com/dp/B07G6Z27ZD/?tag=p-policy-20)
 
-https://www.youtube.com/watch?v=rE0b0zRkkmo
+
 ## [**4. FlexiSnake Drain Snake **- Toilet & Hair Auger](https://www.amazon.com/dp/B01NB0729G/?tag=p-policy-20)
 
 FlexiSnake tops the best drain snakes - has grabbers and hooks thatll collect grime, filth, & hair without damaging the porcelain or pipes.

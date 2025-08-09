@@ -42,7 +42,7 @@ Pros:
 Cons:
 - Bottle clogging challenges.
 
-https://www.youtube.com/watch?v=JRdkG5KdZYE
+
 ### [2. Dumond-Chemicals 3332 Smart-Strip Odor-free and Biodegradable Paint Remover](https://www.amazon.com/dp/B001PCVKLK/?tag=p-policy-20)
 Dumond-Chemicals 3332 is a rotating paint remover or sander that'll eat away the paint and damage the floor. It's great for rough (but smooth) wood readying it for staining, varnishing, or painting.
 
@@ -90,7 +90,7 @@ Pros:
 Cons:
 - Needs enough indoor ventialltion
 
-https://www.youtube.com/watch?v=YbLemiYK3sg
+
 ### [4. Motsenbocker's Lift-Off Paint Remover (Latex-Based Paint Stripper)](https://www.amazon.com/dp/B07TZT8WYV/?tag=p-policy-20)
 Motsenbocker Lift-off paint stripper is also an easy-to-use product, and hence the painter won't require to buy some extras besides this remover. The US-made remover is also manufactured using durable and high-quality materials and technology.
 
@@ -110,7 +110,7 @@ Pros:
 Cons:
 - May need extended scrubbing
 
-https://www.youtube.com/watch?v=_1s8inRJ_eI&feature=youtu.be
+
 ### [5. Rust-Oleum 255449 Paint Remover for Metal (Liquid, Aerosol)](https://www.amazon.com/dp/B00FLPHGLU/?tag=p-policy-20)
 Rust-Oleum 255449 is an excellent paint and stain stripper readily available for metals and other tough finishes. Luckily, this remover is unique for being non-flammable and hence is suitable for use on metals that are around hot objects - don't fire hazard fear.
 

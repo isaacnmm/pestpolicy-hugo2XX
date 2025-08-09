@@ -42,7 +42,7 @@ Pros:
 Cons:
 - None
 
-https://www.youtube.com/watch?v=sqTxfP2CV0c
+
 ### [2. VIZIO SB3621n-F8M Soundbar + DTS virtual - #2 Pick](https://www.amazon.com/dp/B07BTRMBYS/?tag=p-policy-20)
 VIZIO
 SB3621n-F8M is also a great soundbar that also comes with the DTS audio, wireless 5.4 in sub-
@@ -65,7 +65,7 @@ Pros:
 Cons:
 - Lacks HDMI ARC and thus requires using TV remote control
 
-https://www.youtube.com/watch?v=Gt2LNJLri0Y
+
 ### [3. Bose Solo 5 TV Soundbar + Universal Remote-Control - #3 Pick](https://www.amazon.com/dp/B01AWLPUAG/?tag=p-policy-20)
 Bose Solo 5 is an exception when it comes to the balance between great sound quality and its also budget-friendly - it'll give you decent sound.
 

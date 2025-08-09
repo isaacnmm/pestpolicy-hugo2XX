@@ -39,7 +39,7 @@ But fleas can occasionally be found on the upper body of humans such as the pubi
 - Fleas may also bite any exposed skin area on the wrist but it's unlikely that way they will bite the human scalp or face.
 The best clothes that will help you stop flea bites ingrown closed-toe shoes, long pants, and socks.
 
-https://www.youtube.com/watch?v=xQHF4eZfmYc
+
 ### 2. Spraying a Flea Repellent for Humans
 Next, you can stop flies from landing on your clothes by spraying some suitable flea repellent such as 0.5% permethrin.
 

@@ -34,7 +34,7 @@ To acquire in-depth insight, let us get into the discussion.
 - Rinse the sink drain with clean water.
 **Note:**
 You may need a filter when carrying out this procedure  helps in precise administration, thus preventing spillage of chemicals on other surfaces.
-https://www.youtube.com/watch?v=hySkwXMn0pA
+
 ### b. Using a Zip-It tool - removes hair clumps
 **Tools and items required**
 **Procedure**

@@ -42,7 +42,7 @@ Pros:
 Cons:
 - None
 
-https://www.youtube.com/watch?v=h2IpCieH6Sg
+
 Read Also:
 [What's the Small-Hand Acoiutic Guitar](https://pestpolicy.com/best-acoustic-guitar-for-small-hands/)
 ?
@@ -87,7 +87,7 @@ Pros:
 Cons:
 - None
 
-https://www.youtube.com/watch?v=pgV1P6KzpBc&feature=youtu.be
+
 Read Also:
 [Acoustic Guitar Under 1500](https://pestpolicy.com/best-acoustic-guitar-under-1500/)
 ### [4. Breedloves African Oregon Concert CE](https://www.amazon.com/dp/B01MTFVZTL/?tag=p-policy-20)

@@ -39,7 +39,7 @@ Pros:
 - Features a 2-year warranty
 Cons:
 - It only comes in bright yellow
-https://www.youtube.com/watch?v=kNdh8VC-DCI&t=3s
+
 ### [2. Southland SRTT212 4-Stroke 196cc 18 Inches Rotary Tiller](https://www.amazon.com/dp/B007ICK4U4/?tag=p-policy-20)
 This
 Southland SRTT212

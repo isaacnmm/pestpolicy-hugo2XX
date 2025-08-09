@@ -34,7 +34,7 @@ Ceiling Paint vs. Wall Paint
 - Interior Primer and Interior Paint
 - Respirator and thinner
 - Paint sprayer
-https://www.youtube.com/watch?v=kAjl2Hyfyi0
+
 ### b. Ceiling Preparation - Sanding
 This stage is crucial since its geared toward eliminating the peels and chips from the ceiling. Further, the ceiling preparation paves the way for a more comfortable way of prime application. Follow the steps below:
 - Put on theprotective gear - goggles, dustcoat, respirator, gloves, face mask, and safety boots

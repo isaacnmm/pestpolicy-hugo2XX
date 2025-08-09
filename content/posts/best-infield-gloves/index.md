@@ -41,7 +41,7 @@ Cons:
 - Relatively pricey
 ?
 
-https://www.youtube.com/watch?v=wEx6ua9Uo6I
+
 
 Read Also:
 [Athletic [Shoes](https://pestpolicy.com/best-athletic-shoes-for-lower-back-pain/) for Lower Back Pain](https://pestpolicy.com/[best](https://pestpolicy.com/best-youth-baseball-bats/)-athletic-shoes-for-lower-back-pain/)
@@ -183,7 +183,7 @@ Cons:
 - None
 ?
 
-https://www.youtube.com/watch?v=wEx6ua9Uo6I
+
 
 Read Also:
 Driveway Alarms Reviewed

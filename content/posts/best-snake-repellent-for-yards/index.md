@@ -32,7 +32,7 @@ This powerful concoction overwhelms the snakes sense of smell, making it hard fo
 Its completely safe for plants, pets, and humans, and comes in a 2lb container which is enough to cover at least 1440 sq. ft. Its also budget-friendly. Related:
 Best fungicide for Powdery Mildew
 .
-https://www.youtube.com/watch?v=46r96qzSaak
+
 The Good:
 - Environmentallyfriendly no stinkformula made from essential oils
 - Safe for plants, pets, and humans.
@@ -137,7 +137,7 @@ Even better, the spikes provide extensive shock coverage and operate in a circul
 The chemical snake repellents are created to produce a pungent smell that will be harsh on the snakes. The snakes' mouthparts (
 [vomeronasal organs](https://academic.oup.com/chemse/article/26/4/433/266106)
 ), as opposed to their nose or nostrils, will sense the smell of the odor particles that the reptile picks up with its tongues.
-https://www.youtube.com/watch?v=eQ8bXLPQrTU
+
 ## Conclusion
 What about sonic repellents? Well, these types of snake repellents will produce sounds with a frequency that only the snakes will detect (and not human beings).
 The key to note is that the unique frequency sound is both irritating and unpleasant to the snakes, and thus, the reptiles will move away from that area.

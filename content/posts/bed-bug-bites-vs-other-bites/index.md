@@ -68,7 +68,7 @@ However, fleas will move and feed at any time of the day or night that they choo
 - So if you notice bites occurring and insects crawling on your skin during the day, you know that you are battling with fleas.
 But flea bites and bed bug bites have similarities; they take some time to be felt since they inject an anticoagulant.
 Also, both bites may lead to severe reactions such as itching and allergy (insect-related).
-https://www.youtube.com/watch?v=wd9UzvclvEQ
+
 ## 2. Bed Bug Bites Versus Mosquito Bites
 Mosquito bites will be painful since mosquitoes do not have the numbering ability like that in the saliva of bed bugs.
 - Also, mosquito bites will leave you with some unique (one or two) large marks on the skin.

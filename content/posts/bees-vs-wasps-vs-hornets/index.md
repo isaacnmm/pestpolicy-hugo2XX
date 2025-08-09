@@ -97,7 +97,7 @@ Female workers are tasked with all communal work, including gathering food, hous
 **Hornet:**
 At the center of a hornet hive is the queen, whose sole function is to lay eggs for reproduction. The seemingly few males in the nest only do mating and will die soon after mating.
 Female hornets perform daily communal jobs such as getting food, building the nest, protection, and feeding the larvae.
-https://www.youtube.com/watch?v=WCc8VGf_Anc
+
 ## **How to Control Bees, Wasps, and Hornets in Your Home**
 Bees, wasps, and hornets are valuable insects in the ecosystem as they help eliminate insect pests. For spiders, check if
 Windex does kill spiders

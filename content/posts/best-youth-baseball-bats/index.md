@@ -39,7 +39,7 @@ IonD end cap
 *Want to maximize energy and reduce shock vibration? *
 The bat will give you a balanced swing weight with its IonD end cap.
 The IonD end cap will allow you to cut the excessive weight at the end of the barrel and thus raise the bat speed due to the resultant light swing weight.
-https://www.youtube.com/watch?v=DzZPP4Cl-G0
+
 
 Read Also:
 [Athletic [Shoes](https://pestpolicy.com/best-athletic-shoes-for-lower-back-pain/) for Lower Back Pain](https://pestpolicy.com/[best](https://pestpolicy.com/best-infield-gloves/)-athletic-shoes-for-lower-back-pain/)
@@ -80,7 +80,7 @@ You'll experience less amount of stinging in your hands, and thus you'll increas
 Highly durable
 I would consider the Rawlings quarto Composite as relatively durable.
 The quarto will have some scratches but will not have significant damage under regular use, such as dents and cracks.
-https://www.youtube.com/watch?v=FOaI5zpjLSE
+
 
 Read Also:
 Crossbow for Self Defense
@@ -115,9 +115,9 @@ The 3Fusion handle has a highly streamlined design that allows it to serve the w
 For the 14 year youth and under baseball players, the
 [new USABat bat standards](http://www.littleleague.org/learn/equipment/baseballbatinfo/USA-Baseball-Bat-Standard-FAQs.htm)
 (YouTube -
-[New USABat bat standards Rules](https://www.youtube.com/watch?v=EHTRevtKxBs)
+[New USABat bat standards Rules](
 ) significantly affect leagues such as Little League, Dixie, AABC, Cal Ripken / Babe Ruth.
-https://www.youtube.com/watch?v=XCEUUF5n8UQ
+
 
 Read Also:
 Shoes for Waitressing Reviewed

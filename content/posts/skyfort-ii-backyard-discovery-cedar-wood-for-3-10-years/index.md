@@ -21,7 +21,7 @@ Great Way to Anchor a Swing Set
 
 ### **Money bars **
 Skyfort II has monkey bars, which go the full length, and will sing them into the elevated clubhouse. However, I noted that the monkey bars are very high above the ground and thus the small and short kids might not reach them effectively.
-https://www.youtube.com/watch?v=MGWqkzB1VY4
+
 Hence, you might need to create a stand or short kids to reach the monkey bars.The set has an amazing and bumpy slide to create real fun rides for your kids. Also, the slide is highly sturdy and thus will withhold the recommended weight appropriately.
 You might require about 2-4 days to install the project. Read Also:
 [Swing Sets for Small Yards](https://pestpolicy.com/best-[swing-sets](https://pestpolicy.com/fun-backyard-flexible-flyer-swing-set/)-for-small-yards/)

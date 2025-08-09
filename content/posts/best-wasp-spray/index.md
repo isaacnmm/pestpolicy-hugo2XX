@@ -23,10 +23,10 @@ Bees vs. wasps vs. hornets
 
 ## [1. Our #1 Pick:Ortho Home Entrapping Wasp and Hornet Killer](https://www.amazon.com/dp/B0784WG4FD/?tag=p-policy-20)
 
-https://www.youtube.com/watch?v=wri8fL8thyg
+
 ## **2. #2 Pick: Spectracide HG-95715 Hornet & Wasp Killer**
 
-https://www.youtube.com/watch?v=PvhiuM0b-BY
+
 ## [3. #3 Pick: Guarden'sLargeOut- & In-doors Reusable Mouse Traps](https://www.amazon.com/dp/B000NGR9OG/?tag=p-policy-20)
 
 The Spectracide PRO is manufactured essentially with a powerful wasps knockdown chemical that kills the entire wasps life cycle (egg, larvae, nymph, and adult) instantly on contact.

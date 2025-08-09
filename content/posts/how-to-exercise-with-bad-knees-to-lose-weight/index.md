@@ -21,7 +21,7 @@ is way too broad. However, with bad knees, you should work your knees without ja
 
 Appropriate workouts for your bad knees should incorporate non-plyometric exercises such as sitting back in the squat and avoiding the plyometric exercises such as jumping.
 
-https://www.youtube.com/watch?v=G_QZ4dh51ic
+
 ## How to Exercise With Bad Knees to Lose Weight
 ### 1. Walking
 Walking is awesome low-impact cardio that will reduce your knee pain. Unlike most bad pain sufferers who take up activity avoidance, you adopt different aerobic exercises such as walking. Such exercises are

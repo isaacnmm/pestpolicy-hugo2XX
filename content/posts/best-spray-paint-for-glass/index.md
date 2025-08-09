@@ -38,7 +38,7 @@ Pros:
 Cons:
 - Requires strict temperature observance
 
-https://www.youtube.com/watch?v=BmYohT5DYVM
+
 > See Also:
 > [Spray Paints for Graffiti](https://pestpolicy.com/best-spray-paints-for-graffiti/)
 ### [2. Krylon K09058007 Sea Glass Spray Paint, Cornflower](https://www.amazon.com/dp/B00PSNE08C/?tag=p-policy-20)
@@ -61,7 +61,7 @@ Pros:
 Cons:
 - Highly flammable
 
-https://www.youtube.com/watch?v=lspu8B1MW-4
+
 > See Also:
 > Paint for a Concrete Driveway
 ### [3. Design Master DM241 Premium Metallic Spray Paint](https://www.amazon.com/dp/B00N3SVJKG/?tag=p-policy-20)
@@ -87,7 +87,7 @@ Pros:
 Cons:
 - Sealant coat is needed
 
-https://www.youtube.com/watch?v=KO-wJ6hAA4k&feature=youtu.be
+
 ### [4. Rust-Oleum 257465 Frosted Specialty Spray](https://www.amazon.com/dp/B004M5B4U4/?tag=p-policy-20)
 This is one of the most amazing sprays that you can apply to get a frosty or a semi-transparent look to achieve that excellent
 [faux stained finish](https://abeautifulmess.com/diy-faux-stained-glass/)

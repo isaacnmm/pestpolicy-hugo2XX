@@ -38,7 +38,7 @@ If you choose to employ vinegar as a cricket repellent, here are the steps to fo
 1. Create a vinegar solution by mixing equal parts of water and vinegar.
 2. Spray this solution in areas where you suspect cricket activity, such as entry points, cracks, crevices, and other potential hiding spots.
 3. Reapply the solution as needed, especially after rain, to maintain its effectiveness.
-https://www.youtube.com/watch?v=UR0sfKV4l3U
+
 ## **Additional Questions**
 ### **1. Does Vinegar Harm Plants or Pets? **
 While vinegar is generally safe for most plants when diluted, it's crucial to avoid direct contact with plant leaves, as the acidity of vinegar can cause damage.

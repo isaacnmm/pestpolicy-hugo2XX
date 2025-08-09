@@ -26,7 +26,7 @@ The top spot for Best Walking Shoes for Men with Flat Feet is taken up by these 
 These Brooks Addiction shoes boost of a Progressive Diagonal Rollbar within the arch section. This Rollbar offers exceptional arch support while controlling progressive pronation. Hence, you get proper walking motion while reducing stress levels or any possible injuries to your hips, back, knees, or ankles.
 Another fantastic feature is the HydroFlow Technology with an active fluid cushioning system around the forefoot and heel sections. This feature improves midsole cushioning, comfort while ensuring excellent shock absorption experience.
 The stability, support, and comfort of these Brooks Addiction Walker make them a top choice for someone who walks around or stands all day long. Hence, these shoes are an ideal choice for those with flat-feet and crave all-day comfort and support.
-https://www.youtube.com/watch?v=LiuCR9Ui1uk
+
 Read Also:
 [Best walking shoes for high arches](https://pestpolicy.com/best-walking-shoes-for-high-arches/)
 .
@@ -38,7 +38,7 @@ Men with flat feet will appreciate the super soft cushioning provided by these s
 The Progressive Diagonal Rollbar provides Maximum Support to your feet by guiding the body to give it a natural motion posture while ensuring maximum comfort.
 You'll appreciate the external heel counter and the supportive saddle, which are designed to hold your feet to give you an excellent fit securely. Further, the superb sock liner ensures maximum cushioning for that exceptional plush in-shoe.
 Brooks Beast '18 also features a fantastic upper with an engineered air mesh, broad toe box, external heel counter, and a structured saddle. All these features work in combination with an improved fit with reinforced stability.
-https://www.youtube.com/watch?v=IkHw3WmCVrk
+
 Read Also:
 [Best walking shoes for travel](https://pestpolicy.com/best-walking-shoes-travel/)
 .

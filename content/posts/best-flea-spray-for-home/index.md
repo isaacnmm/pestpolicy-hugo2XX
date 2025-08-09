@@ -23,7 +23,7 @@ other flea stages; the eggs and larvae.
 
 ## [1. Our #1 Pick:Enforcer Parent for Ticks, Fleas - Up to 7 Months](https://www.amazon.com/dp/B0074YKTCY/?tag=p-policy-20)
 
-https://www.youtube.com/watch?v=LYQJfFPhWQI
+
 ## **2. #2 Pick: Adams Plus Flea and Tick Premise Spray**
 
 The Adams
@@ -69,7 +69,7 @@ may react. The great thing about it is that it does not leave stains on surfaces
 Another challenge is that you may have to spray frequently to hard-to-reach
 places
 to eliminate all flea.
-https://www.youtube.com/watch?v=uhHgHqv4wUI
+
 Related:
 Bed Bugs Sprays
 ## [4. Virbac Knockout E.S. Area Treatment- Best for Carpets](https://www.amazon.com/dp/B00AT6FY6A/?tag=p-policy-20)

@@ -23,13 +23,13 @@ But, finding the best dog brush for short hair shedding is a challenging task.
 
 ## [1. #1 Top Pick: Chirpy-Pets Grooming Brush for Short & Long Hair](https://www.amazon.com/dp/B0178VW3PS/?tag=p-policy-20)
 
-https://www.youtube.com/watch?v=16q683HLMXU
+
 ## [2. #2 Pick: Pet-Neat Dog De-shedding Dogs Tool](https://www.amazon.com/dp/B01M5DS0Z7/?tag=p-policy-20)
 
-https://www.youtube.com/watch?v=4E-eqbZ8b7c
+
 ## [3. #3 Pick: crbn Shedding & Detangling Brush for Short Dog Hair](https://www.amazon.com/dp/B08C1LFPY4/?tag=p-policy-20)
 
-https://www.youtube.com/watch?v=ZSMSs9HHYRk
+
 ## [4. 100% Natural Boar Bristle Hair Brush for Short](https://www.amazon.com/dp/B00WNGH08O/?tag=p-policy-20)
 
 Next up is Boar Bristle Brush thats great for thin and fine dog hair giving you an excellent shine.

@@ -78,7 +78,7 @@ Contamination caused on food by fruit flies lead to food poisoning. In addition,
 
 Importantly, you do not need to dispose you fruits or other vegetables just because they have been attached by fruit flies- just cut off the affected part since these flies do not dig deep while feeding.
 ## **How do you get rid of fruit flies?**
-https://www.youtube.com/watch?v=WwM0TA5N61U
+
 
 There various ways/methods of getting rid of fruit flies you can use in case they are giving you real problem. I have discussed each of them below.
 ### **Method 1: Attracting them using rotten fruit.**

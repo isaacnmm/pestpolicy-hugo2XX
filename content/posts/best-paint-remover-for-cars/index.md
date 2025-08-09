@@ -39,7 +39,7 @@ Pros:
 Cons:
 - It contains strong chemicals like Ethylbenzene, which might cause reproductive damage and bring about congenital disabilities.
 
-https://www.youtube.com/watch?v=k4LrvHOf1ZQ
+
 > See Also:
 > Antifouling Paint for Fiberglass
 ### [2. KRUD KUTTER the Must for Rust](https://www.amazon.com/dp/B001AH7AY6/?tag=p-policy-20)
@@ -62,7 +62,7 @@ Pros:
 Cons:
 - The remover is not best-suited for big projects.
 
-https://www.youtube.com/watch?v=cZ6tBZ4aqYk
+
 > See Also:
 > Paint for a Concrete Driveway
 ### [3. Krud Kutter Tough Task Remover](https://www.amazon.com/dp/B018A3O5ZO/?tag=p-policy-20)
@@ -172,7 +172,7 @@ Pros:
 Cons:
 - Can be a bit pricey if look around to compare
 
-https://www.youtube.com/watch?v=QlXSYhNeteE&feature=youtu.be
+
 > See Also:
 > Cordless Paint Sprayers
 ## Conclusion

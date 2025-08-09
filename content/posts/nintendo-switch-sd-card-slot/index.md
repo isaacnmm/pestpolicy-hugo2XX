@@ -28,7 +28,7 @@ Well, I can see the spot for the game card on the top. However, it can be tricky
 - But, if you flip the Nintendo switch around and check the bottom, boom! You'll see a kickstand that is hiding the SD card slot.
 - Therefore, the Nintendo switch SD card slot is hidden behind the kickstand on the flip side of the Nintendo switch.
 So, how do you install the micro SD card?
-https://www.youtube.com/watch?v=toKKONDAOvs
+
 #### How to To insert the MicroSD Card
 1. Switch off your Nintendo Switch console.
 2. Gently swing the kickstand open to reveal the Nintendo switch SD card slot.

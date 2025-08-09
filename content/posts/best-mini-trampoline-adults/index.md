@@ -45,7 +45,7 @@ Cons:
 - Some customers said that the product is quite heavy
 - Others also complained that springs come out after a while
 
-https://www.youtube.com/watch?v=HE7RXsCXLzM
+
 ### **2. Urban Rebounder Trampoline - Workout DVD and Stabilizing Bar**
 Are you considering a low impact yet useful workout option? This Urban Rebounder Trampoline will give you just that.
 
@@ -71,7 +71,7 @@ Pros:
 Cons:
 - The assembling process requires two people
 
-https://www.youtube.com/watch?v=G8lmGhvLSW4
+
 ### **3. AirZone Mini Band Fitness Trampoline **
 We start our rebounder trampoline review with the durable and portable AirZone Mini Band Fitness Trampoline.
 

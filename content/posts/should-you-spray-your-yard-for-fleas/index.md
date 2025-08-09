@@ -20,7 +20,7 @@ will leave no stains even in places that the pets eat, play, sleep or live.
 - However, you'll need to test a small area like on pant legs or shoes before you undertake full-blown spraying.
 Now, point the spray nozzle in any direction in your Yard or lawn to spray. However, ensure that you flea-spray the yard area evenly and avoid forming a puddle.
 
-https://www.youtube.com/watch?v=t4mJPb_z0fo
+
 ## Considerations in Yard Flea Spray
 ### 1. Ease-of-use and Duration:
 The flea sprays for yards we've reviewed can be used with a garden sprayer. Some even come with a very handy hose applicator. Most of the products we've reviewed last 3-4 weeks.

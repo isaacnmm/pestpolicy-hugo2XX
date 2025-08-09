@@ -74,7 +74,7 @@ Videographers and producers such as Ben Hausdorff working with the Pentatonix lo
 [YouTube camera](https://pestpolicy.com/best-camera-for-youtube/)
 and for concert videos. It shoots 120 fps for its windowed HD mode.
 Hausdorff used the camera for shooting the viral
-[evolution of the Ariana Grande music video](https://www.youtube.com/watch?v=POme133PQAg)
+[evolution of the Ariana Grande music video](
 with incredible harmonies. The Blackmagic 4K Pocket with a large monitor (at the rear) gave him an excellent recording time plus great 4K images.
 At the core of its performance is the 4/3 sensor, which can be used with a wide range of lenses. It has a resolution of 4096 x 2160 that's ideal for shooting 4K videos at 60fps. It wont introduce a crop factor, which may need further processing.
 The duo ISO configuration allows you to choose the camera sensitivity depending on the current lighting conditions and thus reduces noise at the higher ISOs. Produces excellent DCI 4K-RAW videos plus you'll love its simple-to-use menu.

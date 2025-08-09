@@ -36,7 +36,7 @@ Culex pipiens start biting in the evening and may remain active a couple of hour
 throughout the better part of the night, including dusk and dawn. They are known to cause malaria in humans. Read Also:
 Mosquito Yard Spray
 .
-https://www.youtube.com/watch?v=fhmgAelTXmk
+
 ## **Are Mosquitoes Active Throughout The Year?**
 Well, you might have heard or come across some literature about mosquito season. These are times of the year when youre likely to experience maximum mosquito presence or bites. But does it have to do with the seasons?
 Its something to do with the temperature levels and not the season. Since mosquitoes are cold-blooded creatures, their activity is affected by the temperature in their surroundings. Naturally, their action tends to be at the highest during the warm summer season.

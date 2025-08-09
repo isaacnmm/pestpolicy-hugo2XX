@@ -77,7 +77,7 @@ dog and house for fleas
 , continue vacuuming the floors. Vacuuming will help eject the
 flea eggs and larvae
 from their cocoons and thus be reached by the insecticide.
-https://www.youtube.com/watch?v=g6vMqrhltxQ
+
 ## What do dog fleas look like, and does my dog have some?
 Dog fleas are small brown insects that attack dogs and cats, and other animals.
 - Despite being small in body size, dog fleas can be seen using naked eyes. Also,fleas jump and hop from one hostto another with their strong legs.

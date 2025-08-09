@@ -69,7 +69,7 @@ Exterminators will take all precautionary measures, including wearing protective
 
 Do your groundwork before hiring an exterminator and ask if you need to do anything to prepare for the extermination.
 **So, what if bees ceases to exists?**
-https://www.youtube.com/watch?v=-IIQIsZIo7o
+
 
 Considering sex:Female sweat bees have stingers andcan cause a mild sting to yourfamily member or pets. However, the male sweat bees can only bite as they do not have stingers.But, pain caused by sweat bee stings
 [rank the lowest](https://nature.mdc.mo.gov/discover-nature/field-guide/sweat-bees)

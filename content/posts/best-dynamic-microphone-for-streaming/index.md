@@ -44,7 +44,7 @@ Cons:
 - Has only one pick-up pattern
 - Only two orientation options
 
-https://www.youtube.com/watch?v=j729-dC9q3c
+
 
 Read Also:
 What is a Dynamic Microphone?
@@ -68,7 +68,7 @@ Cons:
 - Not best for studio recording
 - unsuitable for multiple pairing
 
-https://www.youtube.com/watch?v=t3nF8-fLNVs
+
 
 Read Also:
 Best dynamic microphone

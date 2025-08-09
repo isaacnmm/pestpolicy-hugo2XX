@@ -25,7 +25,7 @@ With Lizard Skin, however, the risks in terms of application, both to you and yo
 Dynamat, first of all, most is a better option to go for when looking for the perfect sound deadening mechanism. Dynamat is also water-based, which makes it more comfortable in terms of application.
 With Dynamat, you have a minimal amount of work to put in during the installation. You also have the option of doing it in small phases and do not have to finish the job at once, since none of the sprayings will cause damage to your car.
 Dynamat is the most preferred option for a lot of people and has been for quite some time, thanks to its near-perfect ability to lessen road noise. It is also not asphalt-based, which a lot of other sound deadening mats are made of.
-https://www.youtube.com/watch?v=nGi4vLGpUgI
+
 Read Also:
 [Soundproof Barn Doors Easily!](https://pestpolicy.com/soundproof-barn-doors/)
 ### Cons of using Dynamat

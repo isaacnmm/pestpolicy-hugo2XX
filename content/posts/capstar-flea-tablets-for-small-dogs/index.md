@@ -35,7 +35,7 @@ Capstar flea tablets are all so fast in treating re-infestations - experts advis
 - Capstar tablets also have a quick knock-down effect on the fleas - so the pests will start falling off from the dog in just 30 minutes.
 Related:
 Diatomaceous Earth for Fleas on Dogs
-https://www.youtube.com/watch?v=Uy-OvxhEkJ0
+
 ## Effective and Fast Acting
 Capstar is made using the nitenpyram active ingredient which will kill the fleas fast on your cats and dogs - the knock-down effect is estimated at just 30 minutes.
 An analysis of the Capstars action shows that the remedy is able to disseminate 90 + percent of the adult fleas in just 4 hours (in dogs) and only 6 hours (in cats).

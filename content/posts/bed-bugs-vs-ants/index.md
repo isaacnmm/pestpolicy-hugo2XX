@@ -47,7 +47,7 @@ will have small bodies compared to those of ants, depending on the type of ant.
 Ants body shape is designed for dirty groundwork. Ants will crawl on the ground, searching for food and protecting their colony.
 - Therefore, the soldier ants will have mandibles and large heads to fight their foes.
 Also, ants have long body anatomy to enable them to crawl over long distances.
-https://www.youtube.com/watch?v=Fv4qs7_ZXz8
+
 ## **Bite Differences **
 **Bed bug bites**
 Bites from bed bugs
@@ -94,10 +94,10 @@ Their social organization enables them to defend their colony, extract resources
 But what if you experienced ant bites in bed?
 - The critical difference betweenbed bugs and antsis that ants will not hunt for human blood for their food.
 On the contrary, ants will search your home for fatty and sweet food remains.
-https://www.youtube.com/watch?v=naRwoyeZ3KA&t=127s
+
 ## Control Bed Bugs
 However, ants will
 bite human beings
 to protect themselves from any harm - Bed Bugs vs. Ants.
 Therefore, ants can live without a host since they feed on food debris and dead animals such as other insects.
-https://www.youtube.com/watch?v=xdN4brmXhcc
+

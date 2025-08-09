@@ -54,7 +54,7 @@ The mouth of fleas has parts that allow easy piercing of the hosts' skin so that
 - Further, the fleas' head has an antenna that allows the pest to sense various stimuli.
 - The stimuli that the fleas will sense through the sensilium (sensory organ) include temperature, vibrations, humidity, smell, and touch.
 - However, female fleas have shorter antennae but the males use their antenna for mating.
-https://www.youtube.com/watch?v=A5KvNcNz9aQ
+
 ### 3. Fleas' Abdomen
 The fleas have an abdomen with ten segments but just eight of these are visible.
 - However, the female fleas will have an abdomen that is heavier compared to that of the female fleas.

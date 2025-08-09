@@ -38,7 +38,7 @@ The Good:
 - Double door and removable top screen
 The Bad:
 - Possibility of glass breaking
-https://www.youtube.com/watch?v=YpoE12btxlc
+
 ## [**2. REPTI ZOO Double Door Glass Terrarium  Reptile**](https://www.amazon.com/dp/B07CV797LC/?tag=p-policy-20)
 
 This is a great terrarium for your snake pet. Its a glass-type enclosure with all the requirements for maintaining your reptile's health and comfort.
@@ -77,13 +77,13 @@ The Bad:
 - Relatively expensive
 ## [4. AQUA KT Terrariums Reptile Corner + Cup](https://www.amazon.com/dp/B07Z7PRV65/?tag=p-policy-20)
 
-https://www.youtube.com/watch?v=F-0w-LOCmEI
+
 ## [5. HYLYUN Terrarium Reptile Plant for Geckos Snake](https://www.amazon.com/dp/B08JCQH2GS/?tag=p-policy-20)
 
-https://www.youtube.com/watch?v=TtmCrF-uEig
+
 ## [6. 2Pack Reptile Terrarium Plants + Cup for Snake](https://www.amazon.com/dp/B087N9VWHS/?tag=p-policy-20)
 
-https://www.youtube.com/watch?v=SGKsLKUIEfM
+
 ## [**7. Exo Terra 24x 18x 12 All Glass Reptile Terrarium**](https://www.amazon.com/dp/B008N9LRCK/?tag=p-policy-20)
 
 This stylish terrarium looks impressive for indoor dcor. Its short design completed with glass walls makes it a pretty piece for your home improvement projects.

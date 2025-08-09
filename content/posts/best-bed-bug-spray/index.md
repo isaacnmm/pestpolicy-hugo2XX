@@ -58,7 +58,7 @@ The Good:
 - The spray will penetrate into deep cracks and crevices
 The Bad:
 - Has more toxic chemicals compared to natural pesticides
-https://www.youtube.com/watch?v=IgHyKfFkRLs
+
 ## [2. #2 Pick: Harris Bed Bug Killer, Liquid Spray with Odorless](https://www.amazon.com/dp/B011S1GYZO/?tag=p-policy-20)
 
 Harris
@@ -117,7 +117,7 @@ The Good:
 - Relatively mild odor
 The Bad:
 - Might cause mild irritation on the human skin
-https://www.youtube.com/watch?v=f7trCL-kXRo
+
 ## [4. Rockwell Labs CXID032 Cimexa Bed Bug Dust Insecticide](https://www.amazon.com/dp/B007OAY71M/?tag=p-policy-20)
 
 Cimexa

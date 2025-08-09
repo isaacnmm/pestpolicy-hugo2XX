@@ -29,7 +29,7 @@ Tomatoes are ideal meal for your bearded dragon
 as they are the main source of vitamin A, which promotes good vision, skin development and protein synthesis.
 However, it is dangerous to feed your dragon with excess of these fruits. Tomatoes contain oxalic acid (not easily excreted) which inhibits absorption of calcium needed for bone development.
 Importantly, avoid feeding your pet bearded dragon with tomatos leaves, stem or flowers since these parts contain alkaloids such as solanine and tomatine, which negatively affects its health, and alter its physiological processes greatly.
-https://www.youtube.com/watch?v=phSH8c6AZ1k&amp;t=2s
+
 #### **b. Apples**
 Apples for bearded dragons
 are an essential fruit as they contain 1% of vitamin A, 5% of Vitamin K and 14% of vitamin C, which enhances good vision and development. When feeding, it is necessary to peel the apples and slice them into sizable pieces that can be chewed and swallowed smoothly without chocking the lizard.

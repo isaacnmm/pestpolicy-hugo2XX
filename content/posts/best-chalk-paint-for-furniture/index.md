@@ -39,7 +39,7 @@ Pros:
 Cons:
 - Hard to use with a spray gun.
 
-https://www.youtube.com/watch?v=jYGEN4aC9Sc
+
 > See Also:
 > [Deck Stain for Pressure Treated Wood](https://pestpolicy.com/best-deck-stain-for-pressure-treated-wood/)
 ### [2. FolkArt 34152 Chalk Furniture Paint, 8 ounce](https://www.amazon.com/dp/B00SYIAKVE/?tag=p-policy-20)
@@ -60,7 +60,7 @@ Pros:
 Cons:
 - Suitable for indoors only
 
-https://www.youtube.com/watch?v=l50EYqSiLNc
+
 > See Also:
 > Pressure Washer for Paint Removal
 ### [3. Retique It Chalk Furniture Paint, 32 Ounces, Poly Kit](https://www.amazon.com/dp/B08BYWQZLH/?tag=p-policy-20)

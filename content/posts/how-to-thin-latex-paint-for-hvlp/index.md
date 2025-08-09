@@ -72,7 +72,7 @@ You can even use a funnel (narrow)  if the paint passes through smoothly, then c
 Once the paint-thinning test passes, you can load the paint into the HVLP paint sprayer (fill the canister or the pain up basin).
 Otherwise, you will need to add little water to thin the paint further until you get an excellent flow rate when painting.
 Further, if you experience nozzle clogging when painting, youll need to add more water to reduce viscosity and enhance paint pick-up by the paint sprayer.
-https://www.youtube.com/watch?v=uhJXoYkz2As
+
 ## Why Do You Need To Thin Latex Paint for HVLP?
 Thinning latex paint is one way of protecting the HVLP paint sprayer from damage during the paint application process.
 HVLP is a high volume low-pressure paint sprayer and thus its principles of operation utilize high volume at low pressure to atomize latex paint pattern at low-velocity and pressure.

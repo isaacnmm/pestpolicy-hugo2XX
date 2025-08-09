@@ -51,7 +51,7 @@ paintbrush
 Next, apply the soapy water into the concrete surfacing having acrylic paint. Use a rag to remove/ clean most or all of the wet paint on the concrete surface.
 Then, use a scrub brush and soapy water to scrub the surface (remember it is water-soluble). Put some soap solution into a bucket and dip your scrub brush inside - scrub the concrete.
 When most of the paint is washed down, hose the concrete surface using freshwater. The soap solution will dilute all the wet paint, and hence it'll be simple to remove - repeat until all paint is removed.
-https://www.youtube.com/watch?v=82MVQwg6POk
+
 ### 2. Method 2: Acrylic Paint Remover/ Stripper for Old or Dried Acrylic Paint
 The acrylic paint remover will handle any old or dried acrylic paint that proves challenging for soapy water, rag, and scrub brush. The remover readily dissolves the
 [acrylic paint's resin](https://www.sciencedirect.com/topics/chemistry/acrylic-resin)

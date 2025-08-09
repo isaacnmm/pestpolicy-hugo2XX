@@ -44,7 +44,7 @@ The Good:
 - Humans cannot hear the ultrasonic sound
 The Bad:
 - Might harm small pets
-https://www.youtube.com/watch?v=Kx0OkA5pP68
+
 ## [**5. TBI Pro - Ultrasonic Pest Repeller**](https://www.amazon.com/dp/B081S9HBNL/?tag=p-policy-20)
 
 This device has been upgraded to have triple pest repelling action. It makes use of ultrasonic, electromagnetic waves, and negative ions to keep both
@@ -62,7 +62,7 @@ The Good:
 - Safe for family and pets
 The Bad:
 - Relatively expensive
-https://www.youtube.com/watch?v=gbJOZY8SMJQ
+
 Related:
 [Best Outdoor Rat Traps](https://pestpolicy.com/best-outdoor-rat-traps/)
 ## [**6. Riddex Sonic Plus Pest Repeller**](https://www.amazon.com/dp/B003GC8S6M/?tag=p-policy-20)

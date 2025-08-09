@@ -56,7 +56,7 @@ Pros:
 Cons:
 - Not easy to install
 
-https://www.youtube.com/watch?v=MGWqkzB1VY4
+
 Read Also:
 Best way to anchor a swing set?
 ### [2. Saratoga Backyard Discovery - Upper Playdeck & Clubhouse](https://www.amazon.com/dp/B004SZTU6S/?tag=p-policy-20)
@@ -79,7 +79,7 @@ Cons:
 - High price
 - Difficult to install
 
-https://www.youtube.com/watch?v=GCSGVpccim0
+
 Read Also:
 Stain For Cedar Swing Set
 ### [3. Step2 Naturally Playful Swing Set with Glider](https://www.amazon.com/dp/B003NY672U/?tag=p-policy-20)

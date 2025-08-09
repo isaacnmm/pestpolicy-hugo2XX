@@ -27,7 +27,7 @@ When it comes to actual operation, we recommend that you stick to the manufactur
 Fine finish, low-pressure tip works for airless paint sprayer by reducing the energy required to atomize the paint (fluid) before reaching the surface under paint application.
 The FFLP tip utilizes the internal orifice design to blend the pressure difference (between entry and exit) and cause complete atomization needed for quality paint finish.
 Moreover, the orifice diameter is a function of intended quality and fan width as per the spray area under paint application. Moreover, the low-pressure concept of FFLP makes it more common in airless spray paint applications.
-https://www.youtube.com/watch?v=JnCztEg4_XA
+
 ### 2. Tip Performance
 The FFLP tip delivers a quality finish by preventing surface overspray and enhancing the paint atomization process.
 Unlike Low-pressure tips, FFLP tips are designed to eliminate surface drains and enhance quality finish performance during spray painting.

@@ -43,13 +43,13 @@ It also gets
 rids of bugs
 , deer ticks, flies, ants, Japanese beetles, worms, among other pests found both below or above the ground.
 You shouldnt be worried about your pets and children when using Cutter Backyard Spray. It poses no risk as long as it is used correctly and is left to dry before letting them play in the treated area.
-https://www.youtube.com/watch?v=zdmXo0i6JYM
+
 ## [2. #2 Pick: Gouso Mosquito-Repellent Rosemary, Citronella](https://www.amazon.com/dp/B08T5SX83G/?tag=p-policy-20)
 
-https://www.youtube.com/watch?v=NNqytj8UPBs
+
 ## [3. #3 Pick: Thermacell Patio-Shield DEET-Free Mosquito Repellent](https://www.amazon.com/dp/B075SBMTQL/?tag=p-policy-20)
 
-https://www.youtube.com/watch?v=0l43DVzOBKU
+
 ## [4. Spectracide Triazicide Insect Killer For Lawns](https://www.amazon.com/dp/B002ITJH82/?tag=p-policy-20)
 
 Third, on my list is the Spectracide Triazicide. This is an outdoor insect

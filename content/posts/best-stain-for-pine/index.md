@@ -40,7 +40,7 @@ Pros:
 Cons:
 - Does not work on the exterior surface
 
-https://www.youtube.com/watch?v=9BNuzBEwkcU
+
 > See Also:
 > Sealing pressure-treated wood deckeck
 ### [2. Defy Extreme Wood [Stain](https://pestpolicy.com/best-stain-for-red-oak-floors/) Natural Pine, 1-gallon](https://www.amazon.com/dp/B0062CWRHO/?tag=p-policy-20)
@@ -62,7 +62,7 @@ Pros:
 Cons:
 - None found
 
-https://www.youtube.com/watch?v=kE1Pi4wb7GY&t=5s
+
 > See Also:
 > Staining pressure-treated wood deck
 ### [3. Minwax 710730000 Wood Pine Finish](https://www.amazon.com/dp/B000GLG7XC/?tag=p-policy-20)

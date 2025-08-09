@@ -41,7 +41,7 @@ Pros:
 Cons:
 - Requires the[DS4 software](http://ds4windows.com/)for PC-controller connection
 ?
-https://www.youtube.com/watch?v=5bVgavhv_5Y
+
 ### [2. Nintendo Wii U Pro Controller - My Top Pick Controller - #2 Pick](https://www.amazon.com/dp/B00MUY0OFU/?tag=p-policy-20)
 Nintendo Wii U Pro Controller is good for people with old school and hard-core gaming. It allows increased gameplay, comfort, and accessibility.
 Comes with more ergonomic button and dual analog sticks, in addition to batteries that will last about 80 hours. The
@@ -57,7 +57,7 @@ Further, the analog sticks sit parallel to one another.
 To connect the controller, you'll only need to push the Sync button behind the USB ports' covers and then push the controller Sync button.
 It is compatible with all the Virtual Console Wii U games and most Wii U Video games such as Mario.
 A Retropie controller is indispensable in Retro Gaming on either the custom-built Raspberry Pi console, Mac, and on Windows. You'll find many non-specific Genesis, NES, or SNES replica controllers in the market, but with lousy performance ratings.
-https://www.youtube.com/watch?v=l9vDnyoDwIE
+
 ### [3. Buffalo Classic USB Gamepad Controller for 2D Games](https://www.amazon.com/dp/B002B9XB0E/?tag=p-policy-20)
 The Buffalo buffalo Classic controller is great for 2D GAMES in consoles like SNES and NES.
 The Buffalo Classic USB Gamepad is almost similar to your original super Nintendo gamepad, but it has the clear and turbo buttons. You'll find the controller excellent for gaming in Super R-Type and F-Zero.

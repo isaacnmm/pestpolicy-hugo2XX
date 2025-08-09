@@ -41,7 +41,7 @@ The Bad:
 - Larger body size and non-aggressive
 
 ## Compare carpenter bee vs. Bumblebee
-https://www.youtube.com/watch?v=O_7OR8IFas8
+
 ##
 ## Identification
 ### Carpenter bees

@@ -34,7 +34,7 @@ Despite that the device would not match the latest crossbow designs, we consider
 
 With the Crossbow, you will achieve excellent shooting accuracy with distances such as 48 yards, even when you are a beginner.
 
-https://www.youtube.com/watch?v=C2YhE-V108I
+
 Read Also:
 [Driveway Alarms Reviewed](https://pestpolicy.com/best-driveway-alarms/)
 ### [2. Barnett Ghost 420 Cross Bow  High End and high powered](https://www.amazon.com/dp/B01MTDH9IB/?tag=p-policy-20)
@@ -49,7 +49,7 @@ There is a superior bristle that can be replaced after wearing out. Further, if 
 
 Finally, the Crossbow has an Anti-Dry Fire (ADF) Trigger Structure, allows Single Bolt Assembly, and has a Soft Lock mechanism.
 
-https://www.youtube.com/watch?v=5L4uzVDBs2o
+
 Read Also:
 [Long Range Wireless Driveway Alert System](https://pestpolicy.com/long-range-wireless-driveway-alert-system/)
 ### [3. Prophecy 80 Pound Crossbow](https://www.amazon.com/dp/B00SI8TZCK/?tag=p-policy-20)

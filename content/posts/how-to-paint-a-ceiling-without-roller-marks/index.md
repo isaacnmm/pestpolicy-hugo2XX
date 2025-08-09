@@ -47,7 +47,7 @@ You can fill the damaged ceiling with putty or
 before polishing to eliminate protrusions or leakages that may lead to streaks or roller marks when painting. Moreover, wipe the ceiling entirely to remove dust or debris from the surface  these remnants weaken the paint stickiness and cause peeling action with time.
 **NB:**
 Concrete ceiling should not be sand to avoid structural distortion. Instead, the surface should be finished using fine cement plaster in the right ratio.
-https://www.youtube.com/watch?v=y8mlAVizZbY
+
 > See Also:
 > Fixing Peeling Paint On Ceiling
 ### c. Paint Selection and Preparation
@@ -81,7 +81,7 @@ When loading your roller, use less paint to prevent roller marks on the ceiling 
 You need to remove excess paint on the roller edges when loading to prevent roller marks. If required to use a sprayer, you may employ
 an airless sprayer
 - avoid air or HVLP sprayer.
-https://www.youtube.com/watch?v=7uYMSxBh_Ro
+
 **5. Use a thin roller nap**
 The thickness of the roller nap should be as minimal as possible. Thicker roller nap produces a sloppier paint layer that is thick and ugly stipple. Indeed, a thick roller nap creates conspicuous roller marks that are more tedious to smoothen with a paintbrush.
 Consider buying a  roller nap with fine finish material and perfectly trimmed to prevent side paint release when painting.

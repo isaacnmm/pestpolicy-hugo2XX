@@ -30,7 +30,7 @@ Besides, if there are any massive ground-digging or unearthing activities going 
 Bearded Dragons
 .
 - So even in your new house, all structures could be infested by scorpions escaping dangers from a construction or unearthing site.
-https://www.youtube.com/watch?v=RV-x46Qy30I
+
 ## Scorpion Species and their Biting
 First, scorpions are considered to be social animals and won't pose a major threat to humans.
 - Are scorpions really dangerous? Scorpions are not dangerous but they are non-venomous.

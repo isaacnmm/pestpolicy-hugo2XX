@@ -23,10 +23,10 @@ flea treatments for dogs
 
 ## [1. Our #1 Pick:Sheri High-Bolster, Machine Washable, Calming Dog Bed](https://www.amazon.com/dp/B07P6DQMQ4/?tag=p-policy-20)
 
-https://www.youtube.com/watch?v=jRA93UualfM
+
 ## **2. #2 Pick: Furhaven Memory-Foam & Orthopedic Dog Bed**
 
-https://www.youtube.com/watch?v=NH3nGxPpPkM
+
 ## [3. #3 Pick: Big Barker 7" Pillow Dog Bed (Headrest Edition)](https://www.amazon.com/dp/B0786PVJQS/?tag=p-policy-20)
 
 Big Barker is our

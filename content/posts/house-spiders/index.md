@@ -26,7 +26,7 @@ Let's dig in!
 The house spiders will take shelter in man-made structures such as your home barns and sheds.
 - So if you noticed many cobwebs around the house, then house spiders must be this first suspect.
 The spiders have a bulbous abdomen and produce uniquely-tangled webs.
-https://www.youtube.com/watch?v=U-mc3eU6MdI
+
 ### 1. Body Shape
 The female House spiders have an elevated (almost spherical) abdomen and they measure about 5 mm to 8 mm in length.
 - On the other hand, the male house spiders have abdomens that are elongated and their body length is about 3.7 mm to 4.8 mm.

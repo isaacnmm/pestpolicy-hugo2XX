@@ -59,7 +59,7 @@ HARRIS Wasp Killer is a suitable bug killer for targeting flying insects. The sp
 The foam in this HARRIS Wasp Killer will cover the bug's nest, expanding to stop the pests in their tracks - killing all the yellow jackets in the nest.
 On effectiveness and safety, HARRIS Wasp Killer is EPA approved and registered and hence we can trust its quality and environmental friendliness.
 - This versatile yellow jacket spray will be effective in killing these bugs in the attic, in indoor spaces, and in outdoor nests.
-https://www.youtube.com/watch?v=viiREVuemrE
+
 ### [4. Spectracide Carpenter Bee & Ground-Nesting Yellowjacket Killer](https://www.amazon.com/dp/B01L7W127O/?tag=p-policy-20)
 
 For bees and yellow jackets that
@@ -76,7 +76,7 @@ The Good:
 The Bad:
 - Its quite expensive for those on a tight budget.
 - It has a relatively shorter spraying distance, and you may need to get closer to the insects.
-https://www.youtube.com/watch?v=R6hzoFw5s9c
+
 ### [5. Wasp Freeze Wasp & Hornet Killer Insecticide](https://www.amazon.com/dp/B005EVBDC4/?tag=p-policy-20)
 
 Wasp and Hornet
@@ -94,7 +94,7 @@ The Good:
 - Cna spray up-t0 5 meters
 The Bad:
 - None
-https://www.youtube.com/watch?v=Abyvq7WUiTc
+
 ### [6. Spectracide* PRO Wasp & Hornet Killer (Aerosol)*](https://www.amazon.com/dp/B000NGR9OG/?tag=p-policy-20)
 
 Spectracide PRO is an indisputable instant killer of yellow jackets, wasps, and hornets. And just like the Raid, its residues will not spare wasps that come back to salvage their nest.

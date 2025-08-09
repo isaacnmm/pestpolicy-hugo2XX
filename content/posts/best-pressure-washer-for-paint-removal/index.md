@@ -44,7 +44,7 @@ Cons:
 - Plastic body
 - Relies on constant electricity supply
 
-https://www.youtube.com/watch?v=rQPvrcImN_4
+
 > See Also:
 > White Paints for Interior Walls
 ### [2. Simpson MSH3125 Cleaning & Paint Removal Gas-Pressure Washer](https://www.amazon.com/dp/B004MXKUCY/?tag=p-policy-20)
@@ -64,7 +64,7 @@ Pros:
 Cons:
 - None
 
-https://www.youtube.com/watch?v=UXqraSjNj-I
+
 > See Also:
 > How to Get Rid of Spray Paint Smell
 ### [3. WEN PW3100 Gas Paint Pressure Washer 208cc (2.5 GPM)](https://www.amazon.com/dp/B07Q1SWT94/?tag=p-policy-20)

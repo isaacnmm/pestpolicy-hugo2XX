@@ -45,7 +45,7 @@ Related:
 Best Bed Bug Spray
 ## **2. #2 Pick: Safer-51703 DE Insect, Ant, & Bed Bug Killer**
 
-https://www.youtube.com/watch?v=T1HXxG54XOE
+
 ## [3. #3 Pick: Harris Diatomaceous Earth Bed-Bug Killer](https://www.amazon.com/dp/B06WD7RL6L/?tag=p-policy-20)
 
 This powder is one of the best since it provides a thorough treatment.
@@ -63,7 +63,7 @@ Therefore, it can be safely used in homes with people and pets since it does not
 To get the best result from the product, you want to ensure that you target the holes and crevices that are mostly used by
 bed bugs to hide
 and reproduce.
-https://www.youtube.com/watch?v=43lJCkyt-mc
+
 ## [4. JT Eaton Crawling Insect Killer Powder](https://www.amazon.com/dp/B00EOMFSU2/?tag=p-policy-20)
 
 If you have
@@ -123,7 +123,7 @@ The dust is effective for up to ten years when used in undisturbed areas like ho
 Related:
 Does Baby Powder Kill Bed Bugs?
 ## How to Use Bed Bug powders
-https://www.youtube.com/watch?v=CWiu07UDH50
+
 There is a wide range of powders that you can use to protect your
 home from being bed
 bug-infestedeffectively.

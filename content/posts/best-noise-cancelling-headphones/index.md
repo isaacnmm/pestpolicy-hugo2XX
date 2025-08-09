@@ -38,7 +38,7 @@ Pros:
 Cons:
 - Relatively pricey
 
-https://www.youtube.com/watch?v=I65jo06QinI
+
 Read Also:
 [Noise Cancelling Headphones Under 100](https://pestpolicy.com/best-noise-cancelling-headphones-under-100/)
 .
@@ -58,7 +58,7 @@ Pros:
 Cons:
 - Unintuitive controls
 
-https://www.youtube.com/watch?v=Hxu5RREdZgk
+
 Read Also:
 [Noise Cancelling Headphones Under 150](https://pestpolicy.com/best-noise-cancelling-headphones-under-150/)
 .

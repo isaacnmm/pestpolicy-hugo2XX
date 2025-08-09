@@ -61,7 +61,7 @@ Alternatively, you can use anti-rodent feeders if you really have to feed the bi
 Pruning of the branches of the trees especially those close or are in contact with our houses.
 - Squirrels are very much likely to use them to get to the house especially when they are looking for a warmer place for breeding.
 By pruning these branches, you limit their access in and out of your house.
-https://www.youtube.com/watch?v=-kZw2SqFbp8
+
 ### **3. Using Squirrel Traps **
 In case you are dealing with wild squirrels, they are hard to get and you can use traps to catch them.
 This way you can then proceed to use sprays and other tick control measures to treat the ticks before letting them back into the wild.

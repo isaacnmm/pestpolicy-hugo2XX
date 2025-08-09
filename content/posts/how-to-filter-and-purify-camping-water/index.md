@@ -20,7 +20,7 @@ Read Also:
 Athletic [Shoes for Lower Back Pain](https://pestpolicy.com/best-athletic-shoes-for-lower-back-pain/)
 .
 ## How to Filter and Purify Camping Water?
-https://www.youtube.com/watch?v=b_tLfBz6WfM
+
 For explorers and campers, you won't want to risk getting infections and diseases from taking unclean and un-purified water from springs, lakes, lagoons, and rivers.
 ### **1. Portable Water Filters**
 When going camping or out of the house,
@@ -47,7 +47,7 @@ The still water will likely have sediment and dirt bits, and thus, you'll requir
 For the ghillie kettle, you won't require petroleum fuel because it'll use twigs and grass. The fire will rapidly heat the water that's held in the other chamber.
 A jet boil cook comes with an ignitor, stove, and pot built into a single unit. It's highly suitable for camping and hiking since it's equally lightweight.
 Luckily m it'll boil the water effectively within just 2 minutes but also uses a minimal amount of fuel. So, boil your camping water if you don't have portable water purifiers.
-https://www.youtube.com/watch?v=nRmd6ZfxCt0&t=7s
+
 Read Also:
 Walking Shoes for Lower Back Pain
 ## Dangers of Drinking Impure Water?

@@ -89,7 +89,7 @@ pet beds, carpets, and live hosts - cats and dogs to kill even flea
 .
 To treat you home effectively with salt for fleas, you'll need to treat the upholstery, home floors, and carpets. However, ensure that you empty and clean the vacuum bags and canisters.
 - Further, salt must allow sitting on the sprinkled areas overnice or for long hours so that the fleas will be dehydrated. But note that fleas won't kill flea pupae in the cocoons.
-https://www.youtube.com/watch?v=G0E1BfAEnUs
+
 ## Conclusion
 Natural remedies for fleas will work just as well as chemical flea treatment, including sprays, shampoos, and flea collars. Also, flea repelling plants like Spearmint, Lavender, Chrysanthemums, and Penny Royal is equally effective.
 ****

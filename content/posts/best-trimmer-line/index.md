@@ -37,7 +37,7 @@ Pros:
 Cons:
 - High noise levels
 
-https://www.youtube.com/watch?v=QL-scamJ0dQ
+
 ### [2. Oregon Heavy-Duty Professional Magnum Gatorline (Medium Weight)](https://www.amazon.com/dp/B0018TWCOO/?tag=p-policy-20)
 This is a medium weight trimmer [line](https://pestpolicy.com/pre-emergent-herbicide/) measuring 0.095 inches in diameter. It is capable of cutting through the main weeds and grasses growing around your compound. Yet, it is small enough to fit in most cord trimmers.
 

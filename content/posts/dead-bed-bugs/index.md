@@ -33,7 +33,7 @@ Instead, they have six legs. They vary in color; some are brown, while some are 
 pictures of bed bugs
 .
 After they have fed on enough blood, they appear to be reddish or dark. This one is caused by the color of blood.
-https://www.youtube.com/watch?v=tqcc3ILhHP0
+
 ## Why have you found a Dead Bed Bug?
 There are only two possibilities when you find dead
 bed bugs in your house

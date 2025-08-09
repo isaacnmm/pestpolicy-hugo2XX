@@ -40,7 +40,7 @@ Pros:
 Cons:
 - You may need to thin some types of paint - like when[applying thick paint](https://en.wikipedia.org/wiki/Impasto).
 
-https://www.youtube.com/watch?v=yDDRnj2c72A
+
 > See Also:
 > Paint your Metal Interior Door
 ### [2. Presa Premium Paint Brushes Set](https://www.amazon.com/dp/B011ARI5IU/?tag=p-policy-20)
@@ -64,7 +64,7 @@ Pros:
 Cons:
 - It may not work so well with thick textured paints.
 
-https://www.youtube.com/watch?v=bXQrCtiboGU
+
 ### [3. Purdy Dale Angular Trim Paint Brush](https://www.amazon.com/dp/B00002N8YZ/?tag=p-policy-20)
 This product is available in different sizes to help you exploit your full creative potential for the
 whole painting task
@@ -178,7 +178,7 @@ Pros:
 Cons:
 - The bristles can be affected by an aggressive wash.
 
-https://www.youtube.com/watch?v=Vjx0vSx80W8&feature=youtu.be
+
 ## Conclusion
 If you have taken an edge painting interview in the past and failed, or delivered poorly on a personal project, possibly you had chosen the wrong paints brushes.
 Certainly, edge painting is not as easy as you would imagine. You can now choose from my suggested list of the best paint brushes for edging and see the difference.

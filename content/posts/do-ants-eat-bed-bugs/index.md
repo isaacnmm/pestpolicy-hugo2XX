@@ -88,7 +88,7 @@ When therere many colonies of ants in your compound, you might end up having an 
 ## **Getting Rid of Bed Bugs & Ants**
 Both ants and bed bugs present varying difficulties in eradicating. Thus, if you have the two infestations, youll need to invest in different approaches to eradicate them.
 
-https://www.youtube.com/watch?v=Fv4qs7_ZXz8
+
 ### **Bed bugs**
 The size and shape of bed bugs makes it easy to hide in very narrow crevasses, where they live and breed rapidly. This makes it difficult to completely eradicate each and every bed bug even with the best pesticide in the market.
 

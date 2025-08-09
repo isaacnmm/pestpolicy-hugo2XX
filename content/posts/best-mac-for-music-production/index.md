@@ -37,7 +37,7 @@ video editing laptop
 .
 I tested this MacBook Pro's low-latency performance using Ableton Live in Pro Tools and stand-alone with excellent results. It has pro ports - (4) 40Gb Thunderbolt 3 that also act as USBC connections.
 Despite that, the 16-inch screen can't compare to the 27-inch in iMac Pro, MacBook Pro is significantly better than most Macs when it comes to less software clustering for music production.
-https://www.youtube.com/watch?v=cjOZtPLXdGU
+
 ### [2. Apple MacBook Pro 13-inch Space Gray](https://www.amazon.com/dp/B07K234RCV/?tag=p-policy-20)
 Apple MacBook Pro 13-inch is similar (with
 Touch Bar to improve music making productivity
@@ -56,7 +56,7 @@ New features include the True Tone display, Hey Siri, and an improved Magic keyb
 
 But with the highly portable 13-inch MacBook Pro (thin and light), I can now work at coffee shops, trains, or planes. This Mac has analog modeled plugins and fabulous mixing headphones to allow fast editing tune vocals and drums while traveling.
 The MacBook Pro has a silicone layer below every key, and thus you won't experience stuck keys. With its 2560 * 1600 pixels' True Tone display is colorful, bright, and sharp in resolution. It has Intel Iris 655 Plus graphics, which are awesomely helpful for video and photo editing.
-https://www.youtube.com/watch?v=V7pce4nrR4c
+
 ### [3. iMac Pro 27-inch - Best Studio Mac for Audio Production](https://www.amazon.com/dp/B07895T7BW/?tag=p-policy-20)
 iMac Pro 27-inch is great for large video or audio editing projects, including 4K & 8K plus for VR simulations and 3D rendering. You'll get a powerful iMac to record and produce with most DAWs.
 For your home studio, I recommend this iMac Pro 27-inch as it has many USB and USB-C ports plus adequate power to run your Digital Audio Workstation (DAW) software easily.

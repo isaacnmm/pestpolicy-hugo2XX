@@ -54,7 +54,7 @@ Aspire E 15 is great for mixing, recording, and making music if you require budg
 
 Interestingly, Acer has fewer OS failures or as blue screens issues. Aspire E 15 has a mechanical hard-drive (1TB), 16GB RAM, and Core i3 - 8130U CPU. Aspire E 15's UHD Graphics 620 and Intel Turbo 2.0 Boost will allow you to process quality graphics and streaming tasks respectively easily.
 The laptop has the 2GB VRAM in its powerful graphics card (NVIDIA GeForce MX150), USB 3.1 ports, and USB 3.0 (2 in number) for fast high-speed connection through your peripherals.
-https://www.youtube.com/watch?v=jUmxZWL1cFQ&feature=youtu.be
+
 It has True-Harmony audio, which provides the music producer with superior quality sound. Also, for your on-the-go production, the laptop's battery will give about 15 hours of battery power.
 ## [4.Razer Blade Stealth 13.3" QHD+ Touchscreen](https://www.amazon.com/dp/B072HNLQTH/?tag=p-policy-20)
 With its thin form factor (and ultraportable too), this Razor Blade Stealth is budget-friendly and powerful for music production and DJing. It comes with 500GB SSD, 16GB RAM, and reaches 3.5 GHz speed on its Intel i7 processors.

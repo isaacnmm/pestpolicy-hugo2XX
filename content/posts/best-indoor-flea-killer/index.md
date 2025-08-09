@@ -43,7 +43,7 @@ Cons:
 - You need to reapply the spray after a wash as its not waterproof.
 - The spray isnt too powerful.
 
-https://www.youtube.com/watch?v=yJhiBdFiiAA
+
 Related:
 How to Get Rid Of Fleas in Carpet
 ### [2. Virbac Knockout Spray - Indoor Flea Treatment](https://www.amazon.com/dp/B00AT6FY6A/?tag=p-policy-20)
@@ -64,7 +64,7 @@ Cons:
 - Requires at least two hours of drying out.
 - Leaves behind a nasty odor.
 
-https://www.youtube.com/watch?v=jU4JzEiRHmw
+
 ### [3. Dr. Green Pet Flea Spray](https://www.amazon.com/dp/B0128J9FLK/?tag=p-policy-20)
 Dr. Green Pet Flea Spray, just like the Wondercide Spray, uses all-natural ingredients and essential oils like cedar, clove, peppermint, and cinnamon oils.
 

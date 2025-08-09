@@ -45,7 +45,7 @@ To make a DIY flea trap, fill bowls with warm water mixed with dishwashing liqui
 
 Position the dinner plate or bowl on some wood and turn on the Night Light. Fleas will jump towards the night light and be stuck in the liquid soap. So, dispose of those traps which have done their work.
 
-https://www.youtube.com/watch?v=FYKOkaZN9cU
+
 
 Flea traps are essentially heat scares with a light bulb turned on, so that the fleas can be attracted to them.
 

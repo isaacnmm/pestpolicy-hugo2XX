@@ -23,7 +23,7 @@ The Lycos bit means "wolf" due to the wolf-like hunting habits but the spiders a
 Related:
 [How to Control Spiders](https://pestpolicy.com/how-to-get-rid-of-spiders/)
 .
-https://www.youtube.com/watch?v=v6M_84t3oa4
+
 ## Wolf Spider Appearance
 If you're thinking about your traditional spider then the wolf spiders won't match that body and behavior archetype.
 - First, wolf spiders will not spin webs but instead hunt down their prey just like wolves.

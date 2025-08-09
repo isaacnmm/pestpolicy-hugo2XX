@@ -39,7 +39,7 @@ The subject of aging should be considered since oil is more susceptible to aging
 Old oil should be
 removed from the metal surface
 and replaced with a new oil coat in order to improve the metals service life as well as keep off rust completely.
-https://www.youtube.com/watch?v=uw0DghUuySM
+
 > See Also:
 > Rustoleum galvanized metal primer
 ### c. How to apply oil on metal

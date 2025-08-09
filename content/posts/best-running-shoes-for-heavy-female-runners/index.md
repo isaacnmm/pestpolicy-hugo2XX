@@ -79,7 +79,7 @@ Pros:
 - Light and responsive andWell-cushioned
 Cons:
 - Some customers complained that the Upper fabric is not durable
-https://www.youtube.com/watch?v=lywhGBV6Nxo
+
 ### [**4. **HOKA ONE ONE Bondi 5 - Smooth Recovery Runs - #3 Pick](https://www.amazon.com/dp/B078XMRD8Z/?tag=p-policy-20)
 HOKA ONE ONE Womens Bondi 5 t
 ops the list of best running shoes for heavy female runners. B

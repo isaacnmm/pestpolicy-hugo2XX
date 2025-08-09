@@ -36,7 +36,7 @@ Pros:
 - Further, the headphones passively reduce the level of ambient noise by roughly 13dB, and hence the baby won't easily max out the device's volume.
 Cons:
 - Cable allow higher volume
-https://www.youtube.com/watch?v=hQU7UxNOf4Y
+
 ### [2. Baby Banz Earmuffs for 0-2+ Years Infant Ear Protection](https://www.amazon.com/dp/B01ANXM29K/?tag=p-policy-20)
 Baby Banz Earmuffs will be great for newborns or babies that are up to 24 months old. It protects the kid's hearing in an airplane, thunderstorms, fireworks, concerts, movies, and playgrounds.
 O

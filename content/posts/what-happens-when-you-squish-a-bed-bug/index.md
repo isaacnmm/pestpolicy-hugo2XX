@@ -39,7 +39,7 @@ bed bugs that will bite
 you. Therefore, you'll see some large blood smears on your body - besides
 bed bug bites
 , clothes, and bed sheets when you wake up.
-https://www.youtube.com/watch?v=LtnRmjDexjo
+
 ## Are Bed BugShells Soft or Hard?
 The bed bug's exoskeleton (outer part of its body) is a hard casing that's rigid to give the insect its body structure. Bed bugs will also shed or molt their exoskeleton as they grow.
 However, the bug's exoskeleton can't prevent you from squashing the bug at will. Further, the back part of the bed bug is highly flexible - this allows an easy busting when you crush the bug.
@@ -52,7 +52,7 @@ mattress encasements
 - they'll be hidden off in dark places or small cracks.
 But when in hidden areas, bed bug eggs are covered in the glue-type liquid that allows them to hide in wood or fabric. Thus, it'll be hard to pick up eggs and squash them. But bed bug spray will be the only sure weapon against bed bug eggs.
 However, it'll be challenging to scrape off or pick bed bugs eggs from most surfaces. The eggs will mainly be hidden in crevices and cracks to avoid unnecessary disturbance.
-https://www.youtube.com/watch?v=TYACvmm5zAE
+
 ## What aboutStains from Squashed Bed Bug?
 Squashing bed bugs will leave blood-stained drops on your fabric, fingers, and clothes. The blood will be from the blood-meal from human beings.
 Further, the bloodstains left behind will also come from any digested blood already in the bed bug's body - bust such blood will be thicker and darker.

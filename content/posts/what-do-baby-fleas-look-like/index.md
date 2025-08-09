@@ -42,7 +42,7 @@ carpets
 - further practice
 regular vacuuming
 .
-https://www.youtube.com/watch?v=zbFUhow871M
+
 ### 2. Flea Eggs
 Adult fleas (that's the female fleas) lay about 27 eggs in 24 hours.
 Fleas eggs
@@ -84,7 +84,7 @@ out of the flea eggs. They'll measure from 3 mm to 5 mm in length. The semi-tran
 You'll not mainly find
 [flea larvae on cats and dogs](https://pestpolicy.com/can-dog-fleas-transfer-to-humans/)
 , which makes flea treatment challenging, particularly when finding the baby fleas.
-https://www.youtube.com/watch?v=Q5Wb2kQfkqE
+
 ## Conclusion
 On what do baby fleas look like? - flea larvae or known as baby fleas, are tiny and whitish wormlike creatures that measure under -inches.
 Check for pepper- (flea feces )and "salt" (flea larvae) like objects around towel, rugs, or cat and dog bedding - check on furniture and

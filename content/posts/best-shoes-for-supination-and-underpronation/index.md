@@ -41,7 +41,7 @@ Coming with a 6mm heel drop, the shoe is excellent for fast runners. It allows a
 However, if you need additional cushioning in your Asics for the Supination, check the below shoes, and you'll love the protection provided to your foot. (1) Gel-Cumulus 18 (2) Gel-Sendai 3 (3) DynaFlyte (4) Gel Nimbus 18.
 You'll benefit from neutral padded shoes such as the supination or underpronation shoes: you won't require medical stability, and thus motion control shoes won't be your fit.
 The supination shoe brands will come enough cushioning/ padding to allow your foot to remain highly natural and roll enough to the end of your stride.
-https://www.youtube.com/watch?v=6icKTknXmeI
+
 ### [2. Asics Gel-Cumulus 19, Men's & Women's Dress Shoes for Supination](https://www.amazon.com/dp/B01MRHUSAD/?tag=p-policy-20)
 Offering you a comfortable ride on its plush cushioning, the Asics Gel-Cumulus 19 is an excellent choice for supination sneakers.
 
@@ -54,7 +54,7 @@ Supination correction mechanism
 - Asics Gel-Cumulus 19 offers a snug fit and is true to its size and is also lightweight compared to the Cumulus 18.
 - Coming with a 10mm offset (heel-toe) and a substantial cushioning (on forefront and Rearfoot), Cumulus 19 will quickly correct yours.
 - The Guidance Line System and FluidRide System allow the shoe to offer additional flexibility and shock absorption, respectively.
-https://www.youtube.com/watch?v=p6CWAP3pZwU
+
 ### [3. Brooks Men's Adrenaline Gts 17 Brooks's shoes for Supination](https://www.amazon.com/dp/B01GETZ0CS/?tag=p-policy-20)
 Brooks Adrenaline Gts 17 has a sleek update to its design, particularly to its upper (having supportive materials) that will enable you to walk and run faster even with Supination.
 

@@ -36,7 +36,7 @@ Heres a kicker!!
 Always repeat the application of the borax solution until the entire colony of termites is eliminated. You can also decide to use borate treatments combined with other natural
 [termite treatment for an effective](https://pestpolicy.com/how-to-get-rid-of-termites/)
 outcome.
-https://www.youtube.com/watch?v=yZFXPLG_Uy0
+
 **2. Parasitic Nematodes for Termites**
 Nematodes are worm species that love to feed on termites. If you have a
 [termite infestation in your home](https://pestpolicy.com/home-remedy-for-termites/)

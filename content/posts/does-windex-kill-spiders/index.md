@@ -41,7 +41,7 @@ Also, Ammonium (ammonia dissolved in water) is also a repellant for
 However, when you use it to control kill stinging insects like bees, be careful because you may get stung before exterminating the insect.
 Related:
 [Spider Bite vs. Mosquito Bite](https://pestpolicy.com/spider-bite-vs-mosquito-bite/)
-https://www.youtube.com/watch?v=U0DE-83lrWg
+
 ### 2. Water in Windex Drowns Spiders
 The water in the Windex degreaser will drown insects including spiders and their eggs.
 The Windex will lower the oxygen level in a spiders web and so it suffocates spiders by depriving them of air.

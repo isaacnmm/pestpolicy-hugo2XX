@@ -73,7 +73,7 @@ can be toxic to pets and children.
 - Attractive to roaches
 **Cons:**
 - Can be toxic to pets and children
-https://www.youtube.com/watch?v=ShJmFBc_0Og
+
 ### [5. Invicta Gold Cockroach Control Gel Bait](https://www.amazon.com/dp/B0049I6CT2?th=1&linkCode=ll1&tag=p-policy-20&linkId=9a8f689213a0231c2825f86b39e1b2bd&language=en_US&ref_=as_li_ss_tl)
 Invicta Gold Cockroach Control Gel Bait contains imidacloprid, which makes it effective for controlling German roaches both indoors and outdoors.
 - The bait works quickly, killing roaches within 25 minutes of contact. It also has 11 different attractants designed to lure various roach species.

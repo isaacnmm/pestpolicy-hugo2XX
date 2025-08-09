@@ -69,7 +69,7 @@ So wash the beddings through a hot cycle with detergent (including all the mattr
 - After washing the bedding, you may use a dryer and the Heat will help kill even more fleas.
 Also, you should vacuum the mattress thoroughly (and rigorously) including on the underside and its seams. I advise that you repeat the vacuuming process a number of times.
 - Remember to vacuum the headboard especially if it's made of fabric.
-https://www.youtube.com/watch?v=sLxExsHhV2I
+
 Additional steps you can take to control fleas in the whole bedroom include
 using a flea bomb
 .

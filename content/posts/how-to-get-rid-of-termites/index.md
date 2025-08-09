@@ -37,7 +37,7 @@ Termites have
 2,300 species, and they'll gnaw wood in your home and other properties plus included furniture - they'll weaken or damage wooden structures. These bugs have three body parts and six legs.
 - *Subterranean Termites*- Subterranean termites (cream-brown colored) create mud tubes to get to wooden structures, particularly in the humid or warm regions. These bugs measure about1/8 inches in length and are largely found in the Southeast.
 - *Dry-wood Termites*- The dry-wood termites will build nests on and eat dry wood and furniture. These termites are tan- or light-brown colored and measure about3/8 inches in length. The dry-wood termites largely live in coastal states and the Southwest.
-https://www.youtube.com/watch?v=DYPQ1Tjp0ew&feature=youtu.be
+
 - *Damp-wood Termites*- These termites feed on damaged or wood-soiled damp wood. The damp wood could includelogs, lumber, and stumps. Damp-wood termites are brown in color and measure about inch long plus they're mainly found in Pacific regions like southern Florida.
 - *Formosan Termites*- Formosan Termites is a highly dangeroussubterranean termite (they love both wet soil and moist wood) and will get into your structures through cracks, unsealed joints, or wood that's in contact with the soil. Formosan Termites are yellow-brown and measure inch long, living in wall nests and underground in the warmer South climates.
 ## 1. Inspection - How to Do A Termite Inspection

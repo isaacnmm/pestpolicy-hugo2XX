@@ -46,7 +46,7 @@ Pros:
 Cons:
 - None found
 
-https://www.youtube.com/watch?v=7YsN9JnetIo
+
 > See Also:
 > Turbine paint sprayer
 ### [2. Wagner Opti-Stain Plus Hand-held Sprayer](https://www.amazon.com/dp/B00N8YHM0G/?tag=p-policy-20)
@@ -70,7 +70,7 @@ Pros:
 Cons:
 - Relatively pricey
 
-https://www.youtube.com/watch?v=YcKV9mES3kY
+
 > See Also:
 > Painting a Deck with Peeling Paint
 ### [3. Graco Magnum X7 airless sprayer](https://www.amazon.com/dp/B07CS8T84F/?tag=p-policy-20)
@@ -188,7 +188,7 @@ Pros:
 Cons:
 - None found
 
-https://www.youtube.com/watch?v=4RKgIzkJlLc&feature=youtu.be
+
 > See Also:
 > [Deck Sealer for Pressure Treated Wood](https://pestpolicy.com/best-deck-sealer-for-pressure-treated-wood/)
 ## Conclusion

@@ -47,7 +47,7 @@ Pros:
 Cons:
 - Not great with thcker paints
 
-https://www.youtube.com/watch?v=KgfVUIptYGA
+
 ### [2. Wooster R017-9 Roller Frame for Textured Walls](https://www.amazon.com/dp/B00002N6IZ/?tag=p-policy-20)
 Wooster R017-9 Roller is a
 9-inch roller frame that'll also avoid slippage thanks to its quick-release spring plus the rolling bearings that'll reduce grey streaks or shank wear. See this
@@ -73,7 +73,7 @@ Pros:
 Cons:
 - Requires pressed rolling
 
-https://www.youtube.com/watch?v=zH-_yNUH2-s
+
 ### [3. TINTON LIFE Quality Rubber 7-Inch Empaistic Wood Pattern](https://www.amazon.com/dp/B01N57UI86/?tag=p-policy-20)
 Tinton Life is a suitable
 DIY painting roller made from durable soft rubber. The roller will paint the wood grains beautifully to give an excellent wall pattern.
@@ -121,7 +121,7 @@ Pros:
 Cons:
 - None found
 
-https://www.youtube.com/watch?v=_By-bt7yZbo
+
 ## Conclusion
 The best paint roller for textured walls will lead to a perfect wall that won't shred or tear. This may also work well with
 painting bare brick

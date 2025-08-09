@@ -71,7 +71,7 @@ Bed bugs an average thickness of your bank credit card. The bugs are about an ap
 : These arachnids will have pincer-looking mouth-parts, no antennae, and four pairs of legs. Mites have one body segment, but the shape is different in various species.
 Their pear-shaped, rounded, and soft body is covered by pale hairs that's fine. As noted above, mites (with their unsegmented body) are 0.04 inches.
 Due to the tiny body size, mites species may be over-looked - some are parasites, predators, decomposers (living in soil) while are others exist in the water while the rest exist in plants.
-https://www.youtube.com/watch?v=y3pEBbcWzug
+
 ### 2. Natural habitats
 *Bed bugs*
 :
@@ -117,7 +117,7 @@ leave red marks that are red-colored and tiny in size.
 Flea bites vs. bed bug bites
 . You'll find mites also most rooms in boarding houses, nursing home, motel, and hotel.
 But since dust mites won't be easy to notice - you'll have to use other signs. So, check for regular asthma and allergy attacks. Also, cleaning the spaces won't help remove the dust mites.
-https://www.youtube.com/watch?v=FlyebXrv2Kk
+
 ## Conclusion
 You can use covers (dust-proof),
 [mattresses covers](https://pestpolicy.com/best-bed-bug-mattress-encasements/)

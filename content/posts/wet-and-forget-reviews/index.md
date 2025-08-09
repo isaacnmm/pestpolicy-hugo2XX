@@ -26,7 +26,7 @@ the wooden deck
 ? Wet and Forget will be great for removing
 mold
 , mildew, moss, or algae stains.
-https://www.youtube.com/watch?v=7x9U6pyVkpE
+
 ## Details: Wet and Forget s
 The features of the stain remover Wet & Forget is
 biodegradable, and hence it is ecofriendly and safer - super convenient. Consideration contamination, Wet & Forget will work for 2-3 months.

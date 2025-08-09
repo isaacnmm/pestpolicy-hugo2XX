@@ -23,13 +23,13 @@ In this article, I will closely scrutinize these foggers and present informed bu
 
 ## [1. Our #1 Pick: Black-Flag 190095 Repelling Propane Fogger](https://www.amazon.com/dp/B0001AUFAO/?tag=p-policy-20)
 
-https://www.youtube.com/watch?v=_qUA1lAN9pI
+
 ## [2. #2 Pick: Black-Flag 190255 32- Ounce Mosquito Fogger Fuel](https://www.amazon.com/dp/B001H1HI42/?tag=p-policy-20)
 
-https://www.youtube.com/watch?v=VYJ7t_N7h70&t=5s
+
 ## [3. #3 Pick: Ortho Home-Defense Backyard Bug and Mosquito Fogger](https://www.amazon.com/dp/B07GBGSH69/?tag=p-policy-20)
 
-https://www.youtube.com/watch?v=QQsH1BUKum8
+
 ## [4. Makita PM7650H Mist Blower](https://www.amazon.com/dp/B00J3TT1RM/?tag=p-policy-20)
 
 Makita is good for commercial purposes especially if you have a wide area to cover.
@@ -47,7 +47,7 @@ Pros
 Cons
 - It is heavy
 - It is costly
-https://www.youtube.com/watch?v=7hJ8vaqfLgg
+
 Related:
 Bed Bug Bites Vs Mosquito Bites
 ## [5. Cutter 65704 Outdoor Fogger](https://www.amazon.com/dp/B003BB5M12/?tag=p-policy-20)

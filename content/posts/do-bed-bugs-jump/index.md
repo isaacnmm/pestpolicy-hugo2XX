@@ -33,7 +33,7 @@ When bed bugs fall or crawl into items, they might end up covering long distance
 
 If bed bugs crawl into your luggage or clothes, you might end up carrying them or their eggs to your house.
 
-https://www.youtube.com/watch?v=FvD7Wi1wPRM&t=11s
+
 ## **Do Bed Bugs Climb On Surfaces?**
 Perhaps their most outstanding means of mobility is crawling and climbing on things like walls, furniture, fabrics, plastic and metal. The hooks on their feet help them in gripping on almost any surface.
 
@@ -71,7 +71,7 @@ On the contrary, bed bugs have flat bodies and small legs which make it difficul
 
 Perhaps its good news to know that bed bugs cant jump from one person to another. Otherwise, this could provide them with an easy way to hitch a ride into new homes. At least they cant crawl into your clothes fast enough like fleas can jump.
 
-https://www.youtube.com/watch?v=Q04KnCn1tgM
+
 ## **Do Bed Bugs Jump From The Floor To Your Bed?**
 As you have seen, bed bugs wont fly or jump around. So, if you find bed bugs in your bed, they should have crawled to get there. If your bed is adjacent to the walls, bed bugs will crawl from other places to your bed at night in search of a blood meal.
 

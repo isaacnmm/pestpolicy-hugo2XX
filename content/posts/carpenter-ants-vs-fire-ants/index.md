@@ -61,7 +61,7 @@ Collecting the fire ants for proper identification requires adequate keenness fr
 - Finally, close the vial (with the fire ants inside) - but ensure to still use gloves to avoid ant bites - if bitten,[you can treat the ant bites](https://pestpolicy.com/how-to-treat-ant-bites/).
 Notably, fire ants come in 5 different species; red-imported fire ants, little-fire ants, desert-fire ants, tropical-fire ants, and the Southern (native) fire ants.
 - When the nests of these fire ants are attacked, the pest will move out aggressively ready to bite and sting in defense.
-https://www.youtube.com/watch?v=enUSUQu-wUw
+
 ## Level of Damage? Carpenter Ants vs Fire Ants
 So, you're considering if carpenter bites or fire ants will cause significant damage in and around the yard or house. Let's find out!
 ### **1. Fire ants **

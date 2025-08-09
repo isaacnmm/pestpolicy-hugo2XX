@@ -53,7 +53,7 @@ You can either remove the furniture within the room or have them well covered wi
 Ensure the furniture is protected from paint dropping above and the dust from below the surface. When the workspace is ready and covering done - proceed to the next step.
 > See Also:
 > Paint Finish for Ceilings
-https://www.youtube.com/watch?v=cD6hf3q_kTc
+
 ### Step 4: Thinning the Paint
 Use the utility knife to open the paint and if the paint is very thick, they are a high likelihood it going to flake off.
 Thinning the paint to at least 20 % is recommendable but that will also be determined on the given paint recommendations.
@@ -91,7 +91,7 @@ Remove the ladder and clean up the rollers, sprayer brush, and other tools.
 ### Cons of Using Popcorn
 - People fear popcorn because they think it may be containing asbestos. This is because those used in the pre-1970s were found to be containing this carcinogenic compound.
 - Another disadvantage is that some people feel it is an old-fashioned style and unpopular to do popcorn ceiling as compared to the smooth texture.
-https://www.youtube.com/watch?v=3kS3LuRiv9I
+
 ### Spraying Vs Rolling
 If you are stuck between rolling and spraying your popcorn ceiling, I have an answer for you.
 If you have a sprayer or considering owning one, it is the most appropriate form of the application over rolling.

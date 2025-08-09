@@ -57,7 +57,7 @@ Pros:
 Cons:
 - Costly primer
 
-https://www.youtube.com/watch?v=7KQy-h7koHk
+
 ### [2. Rust-Oleum 1976730 Water-based acrylic Painters-Touch Latex](https://www.amazon.com/dp/B000C02BLE/?tag=p-policy-20)
 Rust-Oleum 1976730 will work well for your outdoor and indoor priming project including on unglazed ceramic, masonry, plaster, and woo - long-lasting, resist chips, and low odor.
 
@@ -80,7 +80,7 @@ Pros:
 Cons:
 - Messy primer
 
-https://www.youtube.com/watch?v=qFgHvN5iXvE
+
 ### [3. Zinsser 03504 Cover-Stain Exterior/ Interior Oil Primer](https://www.amazon.com/dp/B000BZX6B4/?tag=p-policy-20)
 Zinsser 03504 is an excellent Exterior or Interior oil-primer that's loved by beginners. The mold- and mildew-resistant primer will work wonders on your wooden.
 

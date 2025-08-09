@@ -35,7 +35,7 @@ The tangle-free turbine tool is particularly effective at
 removing flea eggs
 from pet bedding and furniture with its counter-rotating brushes that prevent hair wrap while agitating surfaces.
 
-https://www.youtube.com/watch?v=MAGqdoxopec
+
 ### [2. Shark Navigator Lift-Away NV356E (Best Budget Flea Vacuum)](https://www.amazon.com/dp/B005KMDV9A?tag=p-policy-20)
 The Shark Navigator Lift-Away NV356E offers remarkable flea-fighting capabilities at a more accessible price point. Its Anti-Allergen Complete Seal Technology creates a closed system that prevents fleas and their eggs from escaping back into your home.
 

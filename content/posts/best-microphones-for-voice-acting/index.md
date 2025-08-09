@@ -43,7 +43,7 @@ Pros:
 Cons:
 - Slightly expensive
 - Requires some assembly
-https://www.youtube.com/watch?v=hI3YW7DjOk8
+
 ### [2. VO: 1-A Harlan Hogan Signature Series Microphone](https://www.amazon.com/dp/B002SMYUFY/?tag=p-policy-20)
 The Harlan Hogan is a condenser microphone featuring a classic golden diaphragm that captures large sound without internal hums caused by destructive interference. It includes studio-quality voice pick-ups that effectively filter external sound waves, delivering a deep,
 natural sound

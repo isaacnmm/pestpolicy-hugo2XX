@@ -24,7 +24,7 @@ Well-maintained septic and sewer system are essential for a better conducive env
 
 ## [1. Our #1 Pick:Caboo-TreeBambooBiodegradableToilet Paper](https://www.amazon.com/dp/B01LAJ8F0Q/?tag=p-policy-20)
 
-https://www.youtube.com/watch?v=bk-q8KrSiKA
+
 Check these
 drain snakes
 .
@@ -48,7 +48,7 @@ The Good:
 The Bad:
 - It is smaller than other toilet paper.
 - No scent.
-https://www.youtube.com/watch?v=mA5UeUdAd4w
+
 Read Also:
 Do Bed Bugs Smell Like
 ?
@@ -129,7 +129,7 @@ The Good:
 The Bad:
 - Less soft than others.
 - No fragrances
-https://www.youtube.com/watch?v=4BXLLjpS3x4
+
 ## [6. Angel Soft Toilet Paper](https://www.amazon.com/dp/B00I8DS5DA/?tag=p-policy-20)
 
 Angel Soft Toilet paper is designed with tough strength and resistance to overcome wear and tear during use. It has a luxurious softness that offers excellent comfort for the user.

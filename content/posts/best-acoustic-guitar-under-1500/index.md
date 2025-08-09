@@ -41,7 +41,7 @@ Cons:
 - Unsuitable for kids
 - Requires initial tuning
 
-https://www.youtube.com/watch?v=Mf5iC_p6css
+
 Read Also:
 [What's the best acoustic guitar under 2000?](https://pestpolicy.com/best-acoustic-guitar-under-2000/)
 ### [2. Kremona Romida Artist Series](https://www.amazon.com/dp/B005699PVU/?tag=p-policy-20)
@@ -67,7 +67,7 @@ Cons:
 - The inner compartment may be affected by water
 - Needs tuning training
 
-https://www.youtube.com/watch?v=xZp_rlhMRLI
+
 ### [3. Takamine EF341SC Pro Series](https://www.amazon.com/dp/B0002GXYDC/?tag=p-policy-20)
 Takamine is a classic dreadnought acoustic guitar that comes in an elegant design to boost your confidence during performance.
 

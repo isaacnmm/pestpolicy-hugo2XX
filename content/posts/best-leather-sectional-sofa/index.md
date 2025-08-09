@@ -33,7 +33,7 @@ Unique Features
 - Patented reversible design
 - Espresso bonded leather
 - Ottoman and arm have nail head accent
-https://www.youtube.com/watch?v=j6FgX-7txK8
+
 ### [2. Coaster Home Furnish 503431 Contemporary Sectional Sofa](https://www.amazon.com/dp/B00R2P6N8O/?tag=p-policy-20)
 With the 503431 Contemporary Sectional Sofa, you can now turn your living room into a modern lounge area. It is made from bonded leather (supple White).
 - Its covered conversation design will allow family and friends to come together, adding an edgy design to the sofa.
@@ -43,7 +43,7 @@ Sectional Sofa for Family
 .
 It has an upholstered base, boxed-edge seat cushions, and square button-tufting gives your Sectional sofa a stylish design.
 Also, the 503431 Contemporary Sectional Sofa has an in-built side table where you can serve snacks and drinks or place your book manuscript or remote controls.
-https://www.youtube.com/watch?v=gX5-xLWafJA
+
 ### [3. VIG Furniture 2227 Leather Sectional (Orange with Chaise)](https://www.amazon.com/dp/B00CRT52ZA/tag=p-policy-20)
 The VIG Furniture 2227 leather sofa is a modern sectional couch that has an orange theme. It has an adjustable headrest, double padded armrest, and low wooden legs.
 The sofa is created from high-quality leather to satisfy your needs for a comfortable and classy experience in your living room or lounge.

@@ -33,7 +33,7 @@ The waterproof membrane delivers superior breathability while whisking away mois
 The Steel-Flex puncture plates located on the soles are designed to protect your feet against sharp objects. Also, the outsole of this Timberland PRO is built to resist heat. Read Also:
 Women's Running Shoes For Plantar Fasciitis
 .
-https://www.youtube.com/watch?v=Wm2zpZ9dDCs
+
 ### [2. Timberland PRO Men's 6" Pit Boss Steel Toe - #2 Pick](https://www.amazon.com/dp/B000XET9ZU/?tag=p-policy-20)
 
 Timberland manufacturers are widely known for their supportive, durable, and comfortable work boots, and as such, this Timberland Pitboss, 6 Steel Toe Boot meets all these criteria.
@@ -55,7 +55,7 @@ Pros:
 Cons:
 - None
 
-https://www.youtube.com/watch?v=XfKGpa0tzxM
+
 Read Also:
 Running Shoes for Heavy Female Runners
 ### [3. Timberland PRO Gravel Pit 10" Steel -Toe Waterproof Boot - #3 Pick](https://www.amazon.com/dp/B001GB35KE/?tag=p-policy-20)
@@ -113,7 +113,7 @@ Pros:
 Cons:
 - A customer complained that its not incredibly waterproof
 
-https://www.youtube.com/watch?v=6q0MUfIL_cA&feature=youtu.be
+
 Read Also:
 [Running Shoes For Bad Knees](https://pestpolicy.com/[best](https://pestpolicy.com/best-snake-boots-for-hot-weather/)-running-shoes-for-bad-knees/)
 ## Conclusion

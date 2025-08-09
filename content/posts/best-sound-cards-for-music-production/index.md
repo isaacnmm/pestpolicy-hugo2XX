@@ -31,7 +31,7 @@ It has amazing DAWs - Waves Audio plugins, Ableton Live Lite, and Cubase LE. Fur
 Luckily, the audio interface allows various versatile inputs, such as a condenser or electric guitar. Its single USB cable will enable data to connect and power.
 Every channel provides balanced 1/4" & XLR input (for Lo-Z sources and microphones). Further, you can change the 1/4" input to receive instrument level source such as electric guitar or make it readily receive the line-level signal.
 You can get 48V to your XLR inputs from the phantom power switch that's great for professional condenser mics. The audio interface provides zero-latency monitoring for your input signal. Also, the LED metering will give you direct visual feedback for your input levels.
-https://www.youtube.com/watch?v=M-q7NYN9IQw
+
 ### [2. Focusrite Scarlett 2i2 USB Music Production Interface - #2 Pick](https://www.amazon.com/dp/B01E6T56EA/?tag=p-policy-20)
 Focusrite Scarlett 2i2 (2nd Gen) takes t
 he 2nd spot for best sound cards for music production - great for both home & semi-pro studios. You can use it with a desktop computer or the
@@ -49,7 +49,7 @@ It also allows a 96 kHz sample rate and 24-bit resolution recording, which will 
 Finally,
 regardless
 of whether there are small buffer sizes, this audio interface will prove light on your CPU. Scarlett 2i2's amp quality makes it accessible in comparison to premium interfaces, and systems in ribbon mics or most condensers.
-https://www.youtube.com/watch?v=B7tw8WRVnJQ
+
 ### [3. Apogee Duet 2 Audio Interface for Mac - #3 Pick](https://www.amazon.com/dp/B00BB2QBLI/?tag=p-policy-20)
 Apogee Duet USB
 interface came as an upgrade to the previous Apogee Duet, particularly having changed to USB support from FireWire (just like Apple is doing away with FireWire ports) and having improved sound quality.
@@ -60,7 +60,7 @@ For the MIDI controller, this audio interface shows low playback latency. Beside
 It has OLED display to show the various levels of speakers out,
 best headphones for music production
 , instrument and mic input. It will support CoreAudio (compatible with macOS), and its preamps allow a 75 dB gain range.
-https://www.youtube.com/watch?v=xZcMsq0amcc
+
 ### [4. Audient iD4 High-Performance USB Audio Interface - #3 Pick](https://www.amazon.com/dp/B079QFM7BT/?tag=p-policy-20)
 Second on our list is the
 Audient iD4

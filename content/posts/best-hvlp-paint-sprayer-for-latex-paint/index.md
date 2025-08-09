@@ -50,7 +50,7 @@ Cons:
 - It could be more portable  has no wheels
 - Slightly expensive
 
-https://www.youtube.com/watch?v=LIfMppsda2A
+
 ### [2. Earlex HV5500 HVLP Spray Station Paint Sprayer](https://www.amazon.com/dp/B004RGOKR2/?tag=p-policy-20)
 Earlex HV5500 is a semi-pro paint sprayer that features a 650 watts turbine, which delivers excellent power when painting without getting fatigued.
 
@@ -78,7 +78,7 @@ Cons:
 - Doesnt come with wheels
 - The hose pipe could be longer  13 feet
 
-https://www.youtube.com/watch?v=p0pqTZ9mP1Q&t=12s
+
 > See Also:
 > Graco Magnum X5 s
 ### [3. NEU MASTER 600 Watt High Power HVLP Paint Sprayer](https://www.amazon.com/dp/B07G2V6X2D/?tag=p-policy-20)

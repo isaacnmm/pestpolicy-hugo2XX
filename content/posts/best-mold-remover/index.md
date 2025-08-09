@@ -47,10 +47,10 @@ The Good:
 - Works on different surfaces
 The Bad:
 - It comes in a small package
-https://www.youtube.com/watch?v=fTTzPb_sbow
+
 ## [2. #2 Pick: GELIVABLE Mildew & Mold Gel Cleaner](https://www.amazon.com/dp/B08CR4ST1G/?tag=p-policy-20)
 
-https://www.youtube.com/watch?v=WH10bm4zElc
+
 ## [3. #3 Pick: Tilex Mold and Mildew Remover Spray](https://www.amazon.com/dp/B07BWMFVD5/?tag=p-policy-20)
 
 This remover features Clorox Bleach with disinfectant properties, which makes it ideal for eliminating bacteria found in homes.
@@ -87,7 +87,7 @@ The Good:
 - Allows you to access hard to reach areas
 The Bad:
 - Relatively pricey
-https://www.youtube.com/watch?v=lj0UCTIMYHo
+
 ## [5. Mold Armor Remover FG516 Mold Blocker, Trigger Spray](https://www.amazon.com/dp/B001CSF44G/?tag=p-policy-20)
 
 This product features active ingredients that are capable of removing even the stubbornest mold stains.

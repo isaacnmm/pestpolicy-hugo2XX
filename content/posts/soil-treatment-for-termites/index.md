@@ -24,7 +24,7 @@ or
 on the structures like the house or wall foundations and wood.
 However, you may termite-proof wood through pressure-treating using chemical insecticides or spraying. Also, you may place termites baits at appropriate locations in the yard.
 
-https://www.youtube.com/watch?v=kKrEcTs2tJI
+
 However, for Drywood, Dampwood, or Formosan termites, I recommend undertaking
 [fumigation](http://ipm.ucanr.edu/PMG/PESTNOTES/pn7440.html)
 or use one of the
@@ -45,7 +45,7 @@ ability will last the treated wood's lifetime.
 For this, you'll need to use a termiticide such as Termidor SC to pre-treat the foundation walls at their soil level for termites. But pre-treat the soil before pouring the slab - for new construction.
 - Use Termidor SC to pre-treat the concrete slabs, and this would work better if you apply the insecticide under the selected concrete slab - this is before pouring.
 - But for a slab that's already installed - you'll have to inject the chemical termite killer via a drill hole. Therefore, the insecticide will still pre-treat the soil underneath.
-https://www.youtube.com/watch?v=TuVj457vDFg
+
 ### **3. Termi-mesh Barrier and **Sentricon Baiting ****
 The Terms-mesh termite barrier that homeowners can apply on their piping penetrations before pouring the concrete to lay the slab.
 Terms-mesh is a closely-knit mesh (made from stainless steel) that lasts for a long time, and hence the termites won't easily penetrate it to eat your house and nearby structures.

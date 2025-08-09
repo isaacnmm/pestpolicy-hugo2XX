@@ -25,7 +25,7 @@ But does this really work? Research shows that ultrasonic mosquito repellants ar
 - Mosquito repellent plugins work by slowly releasing an insecticide when plugged into a socket and switched on. The plugins use tablets or liquids which is converted to vapor when exposed to heat.
 - Other than mosquitoes, these devices are very effective in killing insects such as horseflies, wasps and bees.The devices have active ingredients like allethrin, DEETA, permethrin and natural oils.
 - Always carefully read the instructions on the packets before using the device. One thing ,don't use it when the air-conditioning is on, it could violently spread the chemicals that could be toxic for asthmatic and allergic people.
-https://www.youtube.com/watch?v=-Vx41Hg0uM0
+
 ## **What is a Mosquito Repellant Plugin?**
 A plug-in mosquito repellent is a device that works by releasing an insecticide gradually once it is plugged into a socket.
 

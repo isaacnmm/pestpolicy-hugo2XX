@@ -45,7 +45,7 @@ Pros:
 Cons:
 - Expensive
 
-https://www.youtube.com/watch?v=muwh5dzXhxk&feature=youtu.be
+
 > See Also:
 > Suitable Paint for Concrete?
 ### [2. 5 GAL Armor AR350 Solvent Based Acrylic Wet Look Concrete Sealer](https://www.amazon.com/dp/B00N9FEI4C/?tag=p-policy-20)
@@ -69,7 +69,7 @@ Pros:
 Cons:
 - Slippery when applied without non-skid additive
 
-https://www.youtube.com/watch?v=muwh5dzXhxk&t=2s
+
 > See Also:
 > Process of removing Paint From Concrete
 ### [3. Siliconate-PS101 Multi-Surface Concrete Sealer](https://www.amazon.com/dp/B00CZFBQME/?tag=p-policy-20)
@@ -92,7 +92,7 @@ Pros:
 Cons:
 - None found
 
-https://www.youtube.com/watch?v=pXGfoRfoYBk
+
 ### [4. Black Diamond Stone Sealer-Wet Look](https://www.amazon.com/dp/B008RGZBQW/?tag=p-policy-20)
 A black diamond sealer is a wet-look sealer that provides a shiny and glossy finish. It can be used on interior and exterior surfaces such as driveways, garage surfaces, pavers, stones, and concrete floors.
 

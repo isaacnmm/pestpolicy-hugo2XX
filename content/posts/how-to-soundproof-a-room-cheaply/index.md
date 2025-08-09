@@ -20,7 +20,7 @@ Noise pollution is not something you should ignore especially if it is impossibl
 Read Also:
 Headphones for Music Production
 ## How to Soundproof a Room Cheaply
-https://www.youtube.com/watch?v=gmcjtRRK4PQ
+
 ### 1. Use furniture
 This is probably the easiest and cheapest way to reduce noise levels in your home since it simply involves rearranging the furniture you already own.
 If youve ever paid attention when moving in and out of a place, there is a big difference between how rooms sound when they are empty versus when you have moved in your stuff in there. An empty room has more echo and things sound louder.

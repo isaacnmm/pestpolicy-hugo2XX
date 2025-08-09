@@ -42,7 +42,7 @@ The Good:
 The Bad:
 - Quite pricey
 - Termite poison not included
-https://www.youtube.com/watch?v=Y9gl2Ok0uQY
+
 ## [2. #2 Pick: Advance-Termite Bait-Station Spider Access Tool](https://www.amazon.com/dp/B005665CMY/?tag=p-policy-20)
 
 ## [3. #3 Pick: Advance-Termite Bait-Station Monitoring Wood Insert](https://www.amazon.com/dp/B079GR4HZD/?tag=p-policy-20)

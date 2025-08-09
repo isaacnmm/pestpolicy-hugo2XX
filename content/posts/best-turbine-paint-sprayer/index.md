@@ -61,7 +61,7 @@ Pros:
 Cons:
 - Hose is too short for big projects
 
-https://www.youtube.com/watch?v=XubRrkpN0tA&feature=youtu.be
+
 > See Also:
 > [Paint Sprayer Under 200](https://pestpolicy.com/best-paint-sprayer-under-200/)
 ### [3. HomeRight C800766 Sprayer](https://www.amazon.com/dp/B003VKFDEO/?tag=p-policy-20)

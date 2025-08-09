@@ -30,7 +30,7 @@ to control both the adult and
 by bed bugs
 .
 These Masked hunters are even described as assassin bugs that'll colonize areas that are dry and warm - your home will be an excellent destination. These flying bugs will measure roughly 17 - 22 millimeters (with some gray or brown).
-https://www.youtube.com/watch?v=pqfXiJxwuvg&feature=youtu.be
+
 These
 bed-bug
 hunters will mainly hide around dust - the location where their nymph will form. They'll have that symbiosis association with pigeons and bats - which they take like their food.
@@ -65,7 +65,7 @@ From all the ant species, pharaoh ants are the best documented to
 The
 [Pharaoh ants](https://en.wikipedia.org/wiki/Pharaoh_ant)
 consider bed bugs as a great diet - but they're threatening to humans. The ants will help manage large bed bug infestations - the 1/16-inch workers will be honey-colored.
-https://www.youtube.com/watch?v=okbWPcx-ug4
+
 The ants are fast in reproducing - with a female laying roughly 400 eggs over its whole lifetime. They have distinct trails - and they need humid and warm conditions - and will love fats and sugars.
 - Pharaoh ants eat many objects such as bed bugs (plus their eggs) and clothing but will also transmit illness.
 Pharaoh ants look yellow-brown and are fast reproducers but will also spread diseases such as dysentery and salmonella - and thus you must be cautious when using them for bed bug control.

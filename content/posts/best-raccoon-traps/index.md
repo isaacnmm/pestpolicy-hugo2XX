@@ -34,7 +34,7 @@ Havahart 1045 is designed using durable steel and lasts longer since its resista
 Further, Havahart 1045 has strong wire mesh thats rust-resistant and includes steel reinforcements thatll resistant corrosion and rust. Havahart 1045 will close its doors when the raccoon gets into the containment chamber as it targets to run away with the bait.
 Luckily, despite being created using durable steel, Havahart 1045 can be moved easily using the amazingly placed handles thatll ensure youre safe from the animals bites. The traps moving parts wont hurt the raccoons when its inside and the rodent will still breathe easy when trapped  this guarantees a humane trapping experience.
 Havahart 1045 will readily trap other animals such as chipmunks, squirrels, and opossums, provided they weigh 12lbs and below. This will ensure that your yard will be cleaned off from the cunning rodents and other wild animals disturbing your peace and that of your pets.
-https://www.youtube.com/watch?v=V14_6LVngTM
+
 ### [2. AMAGABELI Catch Release Cage for Raccoon - #2 Pick](https://www.amazon.com/dp/B01MQO6CW7/?tag=p-policy-20)
 AMAGABELI Catch Release Cage for Raccoon is our second pick on this list. Its easy to assemble and operate in addition to having been designed using heavy-duty metal. The steel bars used to build this raccoon trap are sturdy and will resist careless rusting.
 
@@ -50,7 +50,7 @@ The trap is also collapsible (becomes even flat) which means that it wont eat up
 But which animals can it trap? Well, this MAGABELI Cage Trap will catch animals such as possum, stray cats, groundhogs,
 moles
 , pigeon, flying squirrels, and opossum. Itll catch them all humanely thanks to its pressure plate design.
-https://www.youtube.com/watch?v=JLpl9Pu_92I
+
 Related:
 [How to Repel Raccoons](https://pestpolicy.com/how-to-repel-raccoons/)
 ### [3. AB Large Raccoon Trap (Live Animal Humane)](https://www.amazon.com/dp/B07N4C83GH/?tag=p-policy-20)

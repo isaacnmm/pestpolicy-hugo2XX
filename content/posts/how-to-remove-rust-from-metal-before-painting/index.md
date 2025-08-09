@@ -163,7 +163,7 @@ Galvanized metal should be avoided in an acidic and saline environment since suc
 ### e. Sacrificial Protection
 In this method, a highly reactive metal is connected to a lowly reactive metal (the main metal to pre protected) in order to prevent rusting action. Usually, the tagged metal preferentially reacts with rust agents, thus protecting the main metal material.
 I a real situation, an indicator should be connected to sacrificial metal to show when the metal has depleted due to rust reaction. This method is suitable for metal pipes and containers that are used in wet areas.
-https://www.youtube.com/watch?v=IHDhNDNTaX4&feature=youtu.be
+
 > See Also:
 > Keep Spray Paint from Chipping off Metal
 ## Precautions and Safety Measures to Consider When Removing Rust from Metal

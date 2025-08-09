@@ -31,7 +31,7 @@ However, it should dawn on you that, a few weevil infestations are just an onset
 Densely weevil-infested flour should not be used whatsoever. The flour meal has an unpleasant taste upon cooking. Usually, the weevil infestation multiplies rapidly - they end up colonizing the entire flour package.
 - You will notice tiny brown insects pacing in the container - the movement is fast but haphazard.
 Moreover, the quality of flour fineness will deteriorate due to continue starch depravation - as weevils continue to feed on starch in the flour.
-https://www.youtube.com/watch?v=GsJjAlCr24c
+
 ### c. Action to Take
 Upon discovery that you have flour weevil infestation, you need to ascertain the degree/extent of the infestation. For light weevil infestation, you may opt to use the flour directly without any problem.
 - However, storing that particular flour (weevil infested) will only lead to further mess as the weevils breed further.
@@ -49,7 +49,7 @@ It's not easy to tell whether flour has weevils at the beginning until the infes
 However, if you are careful enough, you will note that the first mature weevils move about the flour, especially when you stir or turn the flour in the container.
 - The weevils appear as tiny brown bugs/insects - consider using a hand lens in order to improve overall visibility.
 Alternatively, fetch a little flour with a spoon and spread it in over plane mirror - observe if you will notice any weevil move about.
-https://www.youtube.com/watch?v=no8GuoNTHBQ
+
 ## How does Flour Get Weevil Infestation?
 Weevils originate from the source point, which is usually either the seller, granary, or millers. When wheat or maize is being milled, the weevil's eggs are rarely affected in whatever way unless treated.
 - These eggs are then transferred to the package, which eventually finds itself into your house, where they hatch into mature weevils finally.

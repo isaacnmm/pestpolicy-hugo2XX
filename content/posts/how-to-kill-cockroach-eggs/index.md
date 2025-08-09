@@ -37,7 +37,7 @@ methods of destroying
 cockroach eggs.
 ### 1. Crush the Eggs
 Yes, you can crush them with your shoes or use a heavy object. However, this can be a bit messy, so make sure to clean up the destroyed egg cases afterward, or they might serve as food for any lurking cockroaches.
-https://www.youtube.com/watch?v=6MKa65xtnJc
+
 ### 2. Burn Them
 You can try burning them, but kindly do this outside and be very cautious that you dont set anything else on fire by mistake. Sure, this method may be somewhat satisfying, but it is not very practical. Also, you wont enjoy the smell of burning cockroach eggs.
 ### 3. Pour Boric Acid over the Eggs
@@ -70,7 +70,7 @@ sacs are described below.
 - Oriental cockroach - Medium to dark reddish-brown. Approximately 8 to 10 mm.
 - German cockroach - usually shades of brown. Approximately 6 to 9 mm.
 - American cockroach - Dark brown. Approximately 8 mm long.
-https://www.youtube.com/watch?v=qnPerCD6Ygo
+
 Read Also:
 [Pet Safe Roach Killer](https://pestpolicy.com/pet-safe-roach-killer/)
 ## Conclusion

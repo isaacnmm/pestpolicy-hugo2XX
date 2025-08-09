@@ -37,7 +37,7 @@ The nested ant killing effects allow the bait to kill the ants in the nests and 
 oil-based and thus safe for pets and cats.
 The Maggie's ant-killer will be safe for animals as outlined on the product label - but don't spray on cats directly since the oil-based insecticide can be slightly toxic.
 No-Spill Ant Kill also has borax (a natural ingredient) that makes it simple to exterminate the ants with no dangerous chemical effects on the pets or surroundings.
-https://www.youtube.com/watch?v=4AY2PaKwEnY
+
 ### 3. Simple Installation Stations
 Those No-Spill Ant Kill stations will be simple to activate - through just removing that underside sticker.
 The bugs will walk on the surface of that bait and it won't drown - and thus it'll allow feeding and extermination of more of the ants around the home.

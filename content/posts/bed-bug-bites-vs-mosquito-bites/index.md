@@ -36,7 +36,7 @@ steamers for bed bugs
 Both bites are itchy because their saliva contains chemicals.Your skin will itch upon a bite from either of them because they contain two different chemicals: Anticoagulant and Anesthetics.
 Anticoagulant stops blood from clotting. This allows them (bedbug and mosquitoes) to suck up blood for several minutes before the wound closes up.
 Anesthetic chemical leaves a numb feeling which prevents the bite from itching at. First, this ensures you don't notice them feasting you, well, at least for seconds.
-https://www.youtube.com/watch?v=ObVqT9daRuc
+
 ### **3. Swelling**
 Both bites will appear swollen, can't be squeezed and popped. The bitten area will swell as a response mechanism from your body to enable more blood to reach it.
 More blood ensures sufficient white blood cells that can help fight the threat of infections. More blood concentration in the bit area will see it swell, but it can't be squeezed nor popped. Related:
@@ -89,7 +89,7 @@ Their preference for human blood has been attributed to the host's convenience, 
 . Also, the human
 [skin has an easier surface to bite](https://pestpolicy.com/can-bed-bugs-live-in-your-skin/)
 through compared to that of furrier animals.
-https://www.youtube.com/watch?v=oLplSJaNqfc
+
 ## **Where are you likely to get Mosquitoes and Bedbugs?**
 Both bedbugs and mosquitoes are scattered across the country, depending on the nature of the location.
 Bedbugs are most common in populated settlements like cities and suburbs. The higher the population, the more the bedbugs. The proximity of households enables the easier

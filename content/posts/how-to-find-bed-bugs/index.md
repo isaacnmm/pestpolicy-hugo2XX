@@ -62,7 +62,7 @@ As noted above, the female bed bugs (when pregnant) will wander around seeking h
 So, is it possible to carry the bed bug eggs on the human body? Well, the bed bugs will bite the human arms, hands, and legs but also the head and neck.
 However, the bugs won't live on the human or lay eggs on your body - and so you won't get bed bugs or their eggs in the hair.So, how should you kill those bed bug eggs? Well, I recommend using
 Isopropyl alcohol to exterminate the bed bug eggs plus the adults.
-https://www.youtube.com/watch?v=R26-3bKJUEA
+
 Further, you can repel the bed bugs using smells that they hate including Cinnamon powder, Lavender, Alcohol, Cayenne Pepper, garlic aroma, and Fresh mint.
 Will the bed bug eggs wash away in your shower? No, the bug eggs won't stay on the human skin and thus they won't be washed off when your bathe or shower. The bugs won't also infest the human
 hair like lice or
@@ -117,7 +117,7 @@ without feeding on blood. But, the bugs will feed for more than 1 time a day.
 For effective mating and reproduction, both the female and male bed bugs require to feed on blood at least 1 time in 2 weeks.
 Every of the female bed bugs will lay roughly 1 - 3 eggs each day and this will total to roughly 200 to 500 eggs over the bugs lifetime - with their lifetime being 6 to 12 months.
 Further, the bugs will take about 4-5 weeks to complete the Egg-to-egg life cycle - especially when the conditions such as temperature and humidity are favorable.
-https://www.youtube.com/watch?v=Qf_MSnOnQmA
+
 #### 3.Living conditions
 Bed bugs will survive and equally be active at temperatures from 46F (7C ) but will be dead when the temperatures rise to over 113F (45C ).
 Therefore,

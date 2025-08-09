@@ -42,7 +42,7 @@ Pros:
 Cons:
 - Expensive
 
-https://www.youtube.com/watch?v=Wq7bhx6T2cQ
+
 > See Also:
 > Wood Deck Sealer
 ### [2. Wooster-Q3211-2 Angle Sash Paint Brush](https://www.amazon.com/dp/B002YC06T2/?tag=p-policy-20)
@@ -70,7 +70,7 @@ Pros:
 Cons:
 - Too short handle
 
-https://www.youtube.com/watch?v=r2mmJeTr4zw
+
 > See Also:
 > Painting the Deck with Peeling Paint
 ### [3. Pro-Grade -4 set Paint Brushes](https://www.amazon.com/dp/B07Z88T8B1/?tag=p-policy-20)

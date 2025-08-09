@@ -27,7 +27,7 @@ Being under an organic chemical group, the OL factor (COOH) actively breaks the 
 The weakened bonds in the mixture allow more effortless removal action without much problem after some minutes. The alkanol agent in each type utilizes principles of solubility and weakens the bonds for easier removal.
 > See Also:
 > Deck Sealer for Pressure Treated Wood
-https://www.youtube.com/watch?v=vkdyD4gMEfM
+
 ### b. Concentration level needed
 For better paint removal, isopropyl alcohol or denatured alcohol should have 75% to 95% alkanol content. This is necessary to improve bond-breaking affinity without damaging the surface under paint removal.
 Moreover, the user should be protected well since these liquids (at high concentration) caused skin irritation (on contact) or nasal cavity discomfort upon inhalation.

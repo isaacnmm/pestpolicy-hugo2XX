@@ -42,7 +42,7 @@ Pros:
 Cons:
 - Quite pricey
 
-https://www.youtube.com/watch?v=c4jAkQuj3HY
+
 Read Also:
 Swing Set Under 200
 ### [2. Providence All Cedar Swing Set - #2 Pick](https://www.amazon.com/dp/B0057VRU1O/?tag=p-policy-20)
@@ -67,7 +67,7 @@ Pros:
 Cons:
 - Costly compared to other sets
 
-https://www.youtube.com/watch?v=21-6nqGV6N0
+
 Read Also:
 Stain For Cedar Swing Set
 ### [3. Backyard Swingin' Fun Metal Swing Set - #3 Pick](https://www.amazon.com/dp/B018ITS4BQ/?tag=p-policy-20)

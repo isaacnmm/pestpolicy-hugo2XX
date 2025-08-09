@@ -40,7 +40,7 @@ Despite not having distinguishable filters, these earplugs will produce amazing 
 Explicit Blocking compared to Filtering
 As noted above, great earplugs must be more compared to ordinary foam earplugs or an earmuff (that block noises and sounds only through mechanical means)  which fits these Eargasms earplugs are not.
 Eargasms earplugs will filter noise and allow only the appropriate sound to reach your ear canal. For band members and other musicians, the noise filtering features (as opposed to just mechanical sound blocking) can promote good performances.
-https://www.youtube.com/watch?v=Fjh9vwiiO2o
+
 Related:
 [Best Headphones for Guitar Amps](https://pestpolicy.com/best-headphones-for-guitar-amps/)
 ### [2. Earasers Hi-Fi Musicians Plugs Medium - #2 Pick](https://www.amazon.com/dp/B00E2D9HAA/?tag=p-policy-20)
@@ -51,7 +51,7 @@ I love that after inserting, the earplugs are generally discreet. With the "V fi
 It has a Smart Seal and soft silicone design that will take the sharpie of the ear canal to give your comfortable listening experience even in concerts and live shows.
 Earasers Hi-Fi earplug will simply attenuate the sound, using Smart Seal, at the lower level and hence it remains clear with no distortion or muffling.
 Its acoustic filter uniformly reduces the noise levels over the sound spectrum (at last the audible range). Further, they are easy to fit and will give you a top comfort.
-https://www.youtube.com/watch?v=0SosPzDq9kE
+
 Related:
 [7 Best Headphones for Music Production](https://pestpolicy.com/best-headphones-for-music-production/)
 

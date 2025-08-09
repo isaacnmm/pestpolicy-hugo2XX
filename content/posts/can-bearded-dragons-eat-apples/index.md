@@ -33,7 +33,7 @@ tomatoes eat bearded dragons
 . Apples are good for because of their high nutrition value. But peel the apple fruit first before feeding on the beardies.
 Notably apples are a good source of vitamin C, protein, fiber, carbs and so on. Though bearded dragons require small amounts of vitamin C, its a vital component of their diet.
 Improperly or unpeeled apples fed onto the bearded dragon could cause impaction. Also, give the apples as snacks - in small bits to avoid running stools. You can give bearded dragons water from some bowl.
-https://www.youtube.com/watch?v=y0ITWqNQyuU
+
 Deficiency in vitamin C can cause stomatitis, bleeding gums, bruising of skin. Bearded dragons or reptiles exhibiting such conditions are usually treated using vitamin C - known this to properly
 [care for your bearded dragon](http://www.animalplanet.com/pets/other-pets/bearded-dragon-stats-facts/)
 .
@@ -44,13 +44,13 @@ Related:
 ### **Can Baby Bearded Dragons Eat Apples?**
 You can feed your baby bearded dragon on apples but not on a regular basis. The diet of baby bearded dragons should consist of 80% animal protein since they are still in their growing stage.
 So, they should be fed more on insects such as roaches, worms, crickets and so on.
-https://www.youtube.com/watch?v=8tqQijUN0Dw
+
 Their plant protein diet should only be 20%. Therefore, baby bearded dragons should be fed with minimal amounts of apples. This applies to other fruits and vegetables.
 ## Can Bearded Dragons Eat Apple Skins?
 Well, bearded dragons will eat apples as part of their diet. However, don't feed the apple skins or peels to the bearded dragons as this may cause trigger runny stools.
 Also, cut the apples into small bits after peeling their skins. Because bearded dragons won't chew properly, the small bites makes it easy to eat and equally delicious.
 Bearded dragons won't easily eat the apple skins or peels. The pets are unable to properly digest the apples skins and thus you'll need to avoid feeding them on your beardies.
-https://www.youtube.com/watch?v=SK7oFmnkBkI
+
 ### **Can Bearded Dragons Drink Apple Juice?**
 Apples are very enticing to bearded dragons. So, they wont resist the taste of apple juice. However, they should be given small amounts of apple juice because its sugary drink.
 Too much sugar isnt good for a bearded dragons stomach. It causes loose stool thus leading to a lot of mess in their cage.You can take advantage of the sweetness in apple juice to teach your bearded dragon how to drink water from a bowl.

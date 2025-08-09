@@ -47,7 +47,7 @@ Pros:
 Cons:
 - Lacks in-line remote
 
-https://www.youtube.com/watch?v=-rsdsKBgdJo
+
 Read Also:
 [Best noise-canceling headphones under 100](https://pestpolicy.com/best-noise-cancelling-headphones-under-100/)
 ### [2. COWIN E8 Bluetooth Active Noise Cancelling Headphone - #2 Pick](https://www.amazon.com/dp/B07C6CC7TJ/?tag=p-policy-20)
@@ -74,7 +74,7 @@ Pros:
 Cons:
 - Keep off magnetic materials
 
-https://www.youtube.com/watch?v=Ydkqs_nkwwI
+
 
 Read Also:
 Camera for Beginner Filmmaker

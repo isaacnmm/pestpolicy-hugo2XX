@@ -29,7 +29,7 @@ Youll love the
 LED which will give you a clear visual clue of the gain reduction in your instrument. Most compressor pedals lack this feature, hence, making the MXR M87 stand out among others.
 The M87 comes loaded with an instruction manual that is extremely helpful as it gives clear guidelines on how to set up your instrument quickly. Thus, making it the best bass compressor pedals for beginners.
 Many musicians including live performers and those on recording studio praise the M87 because of its transparent nature. I love the fact that it doesnt alter the tone, hence you get to hear and feel your sound more clearly.
-https://www.youtube.com/watch?v=AhlWoAxzZuM
+
 ### [2. Ampeg Guitar Compression Effects Pedal (Opto Comp)](https://www.amazon.com/dp/B079H4YYP7?tag=p-policy-20)
 Ampeg Opto Comp is one of the simplest and effective compressor rigs you could get your hands on.
 
@@ -38,7 +38,7 @@ The compression knob allows you to set your preferred ratio limit (you can go up
 Youll appreciate the amazing onboard LEDs as they let you get a visual representation of all your actions. The green LED informs you of the compression level while the purple LED tells you its ready for use.
 What I love most about the Opto Comp is the fact that its both transparent and subtle in sound allowing you to attain excellent dynamic range.
 The Ampeg Opto Comp is a valuable optical compressor pedal that is simple, transparent, and easy to use. Its price is friendly and is ideal for those on a budget.
-https://www.youtube.com/watch?v=GSb7hgPbWvg
+
 Related:
 [7 Free Autotune vst Plugins](https://pestpolicy.com/free-autotune-vst-plugins/)
 ### [3. Boss LMB-3 Bass Limiter/Enhancer Pedal- Best Budget](https://www.amazon.com/dp/B000SLP5M4?tag=p-policy-20)

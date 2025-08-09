@@ -43,7 +43,7 @@ The Good:
 - Kills over 260 pests including mosquitoes
 The Bad:
 - Cannot be used indoors
-https://www.youtube.com/watch?v=gRptFQALKiU
+
 ## [**2. Ortho Bug B Gon Mosquito Killer for Gardens & Lawns**](https://www.amazon.com/dp/B07GSG5F4G/?tag=p-policy-20)
 
 No mosquito can resist the power of

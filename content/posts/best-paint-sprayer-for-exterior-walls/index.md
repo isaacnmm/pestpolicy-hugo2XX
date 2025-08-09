@@ -40,7 +40,7 @@ Cons:
 - Not suitable for small areas
 - Slightly expensive
 
-https://www.youtube.com/watch?v=oFLmXin5_F0
+
 > See Also:
 > [Sprayer for Interior Walls](https://pestpolicy.com/best-paint-sprayer-for-interior-walls/)
 ### [2. Titan ControlMax 1700 Pro Airless Paint Sprayer](https://www.amazon.com/dp/B06X3YNP1N/?tag=p-policy-20)
@@ -67,7 +67,7 @@ Cons:
 - The suction range is limited.
 - Requires cleaning before paint change
 
-https://www.youtube.com/watch?v=uhGJ2H9jOfg
+
 > See Also:
 > Automotive HVLP Spray Gun
 ### [3. HomeRight Power Flo Pro Airless Paint Sprayer](https://www.amazon.com/dp/B008HP25IK/?tag=p-policy-20)

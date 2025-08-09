@@ -41,7 +41,7 @@ Pros:
 Cons:
 - Some customers experienced difficulty putting it together
 
-https://www.youtube.com/watch?v=1FTB3qjpvyY
+
 Read Also:
 [Swing Sets for Small Yards](https://pestpolicy.com/best-swing-sets-for-small-yards/)
 ### [2. Fold & Go Trampoline (TM)](https://www.amazon.com/dp/B008R0XTYO/?tag=p-policy-20)
@@ -64,7 +64,7 @@ Cons:
 - Some customers complained that the dissembling process takes more time than the advertised time
 - Strong plastic smell is also a concern
 
-https://www.youtube.com/watch?v=SE3o-uAD0kQ
+
 Read Also:
 Swing Set Under 200
 ### **3. Bazoongi 48-Inch Bouncer Trampoline **

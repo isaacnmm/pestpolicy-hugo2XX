@@ -21,10 +21,10 @@ Leaving them untreated can lead to the animal to animal transmission. Here are t
 
 ## [**1. Our #1 Top Pick: PetArmor EarMite & Tick Cat's Treatment**](https://www.amazon.com/dp/B07F6MXJ9X/?tag=p-policy-20)
 
-https://www.youtube.com/watch?v=261A9mv7t1I
+
 ## [**2. #2 Pick: Miracle-Care R-7M 424224 EarMite Treatment**](https://www.amazon.com/dp/B00C351GBC/?tag=p-policy-20)
 
-https://www.youtube.com/watch?v=ZxOKWFNF-0k
+
 ## [**3. #3 Pick: Zymox Pet-King Brand Otic-Pet Ear-Mite Treatment with Hydrocortisone**](https://www.amazon.com/dp/B01NAGRRRU/?tag=p-policy-20)
 
 Zymox Otic Pet Ear Treatment is one of the most popular and effective ear mite treatments available. The treatment usually works in 7 days though it might take longer in other animals.

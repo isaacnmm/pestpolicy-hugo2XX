@@ -48,7 +48,7 @@ For most DIYers or homeowners, decks made from pressure-treated wood imply extra
 Therefore, despite that, you may have an excellent home the decks made using pressure-treated wood could be the sale deal-breaker due to the wooden deck's age, size, and condition.
 Notably, the composite decks made from high-quality materials will create an excellent appeal to your buyers since they'll need even lower maintenance - retaining better transferable value.
 ## Choosing your**Composite Decking?**
-https://www.youtube.com/watch?v=NDoSt5ErCSA
+
 ### 1. Budget Consideration
 Most composite decks will come in a variety of brands, colors, and styles - you'll require to consider your preferences of color, style, fastener choice, code, and site requirements, and budget.
 As note earlier, composite decking will cost you around $3 - $7 for each square foot. Thus, you'll need to consider the variation in color of your wood and plastic to match the home aesthetically.

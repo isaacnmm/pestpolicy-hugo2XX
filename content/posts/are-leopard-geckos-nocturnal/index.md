@@ -52,7 +52,7 @@ led to a debate on whether they need Ultraviolet lighting. Many pet owners dont 
 
 Surprisingly, there are no apparent health issues associated with a lack of UVB. However, research has further shown that although they dont bask under the sun to get UV light, they use the few hours they come out to feed at dusk and dawn to get UV too.
 
-https://www.youtube.com/watch?v=YBTZJAG-EJE
+
 
 A study has also shown that the skin of leopard gecko has a high affinity for UV in low light as compared to other reptiles. The expose explains why the leopard geckos spend the early hours of the morning or dusk active as this is the perfect time for them to absorb UV light.
 

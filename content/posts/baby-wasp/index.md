@@ -38,7 +38,7 @@ Within 12 - 18 days, the wasp larvae will spin some silk in the cells to encase 
 - At the start of winter, those queen wasp will begin their mating period before they migrate to other places.
 In the new location, those queen waps will create some shelter or nest.
 
-https://www.youtube.com/watch?v=b-azDxgBEcY
+
 
 Once the larvae achieve enough energy, they'll transform into a wasp pupa - a stage that is inactive and will stay dormant for about 1-2 weeks.
 - Also, the wasp pupa will continue storing enough energy for further development and growth.

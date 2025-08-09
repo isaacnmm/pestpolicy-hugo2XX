@@ -28,7 +28,7 @@ Gnats do really like rotten fruits due to fermentation smell. This is an inexpen
 *Why do the r*
 *otten bananas trap work? *
 *Gnats have the ability to smell rotting vegetables and fruits from miles away and get attracted towards them. So once they will smell the sweet scent of overripe bananas they will come in huge numbers to feast on them. Unfortunate they will get stuck inside the jar and the cover on top will prevent them from flying out.*
-https://www.youtube.com/watch?v=9ndKIRm_vh0
+
 ### 2. Dish Soap, Apple Cider Vinegar and Sugar Trap
 Next, youll make a gnats trap by mixing a few drops of dish soap, apple cider vinegar and sugar. All what you need is a container; dish soap, sugar and apple cider vinegar.
 1. Take a container; just add two tablespoons of vinegar and two cups of water in it. Mix thoroughly then add a table spoon of sugar and some soap dish drops. Mix them until the sugar dissolves.

@@ -54,7 +54,7 @@ Ground bees have colors ranging from purple, red, blue, yellow, and black. They 
 Ground bees have their mating season between March and May. Female bees in the colony of ground bees function as worker bees. The females dig burrows in the mating season, ready to fill them with eggs and bee bread.
 **Life Saver!!:**
 **Check a Video on How to Spot Ground Bee Nests**
-https://www.youtube.com/watch?v=BjWrd0Z8rkw
+
 ## Are Ground Bees Dangerous?
 Male ground bees like
 Carpenter Bees

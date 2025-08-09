@@ -48,7 +48,7 @@ Pros:
 Cons:
 - VOC based and a threat to the environment
 
-https://www.youtube.com/watch?v=6Fabtarl_Cg
+
 > See Also:
 > Spray Paints for Plastics
 ### [2. VHT Epoxy SP650 all-weather coating](https://www.amazon.com/dp/B0006HPL3I/?tag=p-policy-20)
@@ -72,7 +72,7 @@ Pros:
 Cons:
 - Adequate surface preparation is needed
 
-https://www.youtube.com/watch?v=e_p1IhnAW7E
+
 > See Also:
 > Ceiling Paint versus Wall Paint
 ### [3. Krylon K03207000 Appliance Epoxy Gloss](https://www.amazon.com/dp/B00397TJTY/?tag=p-policy-20)

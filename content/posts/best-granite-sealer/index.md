@@ -38,7 +38,7 @@ Pros:
 Cons:
 - Strong smell
 
-https://www.youtube.com/watch?v=-pYt5RiqY38
+
 > See Also:
 > Deck Sealer for Pressure Treated Wood
 ### [2. Tenax Ager Granite Sealer,1 Quart](https://www.amazon.com/dp/B000VM25LO/?tag=p-policy-20)
@@ -60,7 +60,7 @@ Pros:
 Cons:
 - Does not offer hide
 
-https://www.youtube.com/watch?v=WlQevc3DV7M
+
 > See Also:
 > [Deck Stain for Pressure Treated Wood](https://pestpolicy.com/best-deck-stain-for-pressure-treated-wood/)
 ### [3. DRY-TREAT Premium Impregnating Sealer, 110513-1 Quart](https://www.amazon.com/dp/B006HB93X6/?tag=p-policy-20)

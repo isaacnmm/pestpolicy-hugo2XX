@@ -43,7 +43,7 @@ Dell XPS 15 is an excellent choice for editing 4K and 1080p videos. It features 
 - Can get slightly hot  
 - Battery life ~7.5 hours  
 
-[Video Review](https://www.youtube.com/watch?v=AyzAsYCG_ms)
+[Video Review](
 
 ---
 
@@ -69,7 +69,7 @@ HP Spectre is a security-conscious choice with 3 years of McAfee internet securi
 - Display brightness could be better  
 - No support for 6K video formats  
 
-[Video Review](https://www.youtube.com/watch?v=Pr__xT7ieEw)
+[Video Review](
 
 ---
 

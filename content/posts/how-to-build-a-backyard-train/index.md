@@ -45,7 +45,7 @@ Youll need the following to start off
 Now, you need to decide the number of barrels you would wish your train to have. To make a good decision consider the number of children that would ride on the train. Will adults join in too?
 
 Check out this YouTube video on
-[DIY Barrel Train](https://www.youtube.com/watch?v=ZmopTBgGCzk)
+[DIY Barrel Train](
 and this website on
 [how to build a barrel train](https://www.popularmechanics.com/home/how-to-plans/how-to/a20791/how-to-build-a-diy-barrel-train-that-your-kids-will-love/)
 to learn more about this project.
@@ -114,4 +114,4 @@ Conclusion
 You now know how to build a backyard train using barrels. However, it's important you know that there are other trains you can build.
 
 Some come ready-made they need little to no work. Others, youll need to invest a lot of your time and resources like on this
-[video below](https://www.youtube.com/watch?v=U3Y2fy6M2-8)
+[video below](

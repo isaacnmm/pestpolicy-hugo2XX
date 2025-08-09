@@ -37,7 +37,7 @@ A single 16 oz bottle can treat up to 400 square feet of carpet or furniture. Fo
 - Not safe for direct exposure to kids and pets.
 **Best For**
 : Homeowners looking for a comprehensive flea treatment.
-https://www.youtube.com/watch?v=C2_GYFD6JDs
+
 #### **2.Natural-Care Carpet Powder for Flea Treatment**
 For those who prefer a natural approach, Natural-Care Carpet Powder is an excellent choice. It uses
 **diatomaceous earth**

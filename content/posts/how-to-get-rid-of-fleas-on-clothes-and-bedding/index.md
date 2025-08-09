@@ -44,7 +44,7 @@ exoskeletons leading to drowning.
 - Flea eggs and adultswill not die easilywhen immersed in water. Fleaswill survive in waterfor about seven days. Further, fleas will only drown in water after 24 hours when submerged as they sit on the water and not break water's surface tension. Fleas have cuticles that are covered with wax, and hence its skin is non-wettable with water.
 - **However**: Dish soap drops have surfactants that reduce water's surface tension and hence make the flea sink in water and drown. Therefore, washing the fabric with your detergent for ~ 10 minutes would make adult fleas drown**but not the pre-adult fleas**.
 - Flea eggs + larvae in your bedding and clothes will require the use of more rigorous laundry methods: This drives us to tactic #2
-https://www.youtube.com/watch?v=bemDY5em-Cg
+
 ### 2.Max Washing Machine Settings**+ Soap**
 Using a washing machine with water + soap will help remove fleas from your bedding and clothes. The water turbulence and heat plus that laundry detergent helps in exterminating the fleas.
 - The fleas in all the life stages are either exterminated during the washing process, or they'll eventually end up in your drainage and sewer.

@@ -46,7 +46,7 @@ Cons:
 - Slightly expensive
 - No base wheels for pull motion
 
-https://www.youtube.com/watch?v=oINDzu9CYSg
+
 > See Also:
 > WAGNER FLEXIO 3000
 ### [2. Graco Magnum 262805 X7 Cart Airless Paint Sprayer](https://www.amazon.com/dp/B0026SSW8G/?tag=p-policy-20)
@@ -73,7 +73,7 @@ Cons:
 - Wheels not pneumatic
 - Unsuitable for the small painting task
 
-https://www.youtube.com/watch?v=yYo8qOiYKq8
+
 > See Also:
 > Ceiling Paint vs Wall Paint
 ### [3. Wagner Spraytech Handheld HVLP Paint Sprayer](https://www.amazon.com/dp/B00FBP4QT0/?tag=p-policy-20)

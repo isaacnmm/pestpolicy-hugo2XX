@@ -49,7 +49,7 @@ Pros:
 Cons:
 - Comes with irreplaceable piston
 
-https://www.youtube.com/watch?v=mL9i6Lkuhd0
+
 ### [2. HomeRight Power Flo Pro Airless Paint Sprayer, C800879](https://www.amazon.com/dp/B008HP25IK/?tag=p-policy-20)
 If you are an enthusiast or a first-timer with a large project to undertake, this high-tech sprayer will be a good choice for you.
 
@@ -73,7 +73,7 @@ Pros:
 Cons:
 - Difficult to set up during large spraying projects
 
-https://www.youtube.com/watch?v=sIGmci77gME
+
 ### [3. Titan ControlMax 1500 Paint Sprayer, High-Efficiency Airless (HEA)](https://www.amazon.com/dp/B06XR8ND97/?tag=p-policy-20)
 ControlMax is a special airless sprayer that uses 1500 PSI in its operation.
 

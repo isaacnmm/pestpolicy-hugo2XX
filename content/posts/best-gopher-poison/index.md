@@ -39,7 +39,7 @@ Pros:
 Cons:
 - Once the gophers die, the situation can get quite gruesome.
 
-https://www.youtube.com/watch?v=MomC2Lfyw9Q
+
 Related:
 Do Moles Have Eyes?
 ### **2. Kaput Gopher Poison / Bait - #2 Pick**
@@ -58,7 +58,7 @@ Pros:
 Cons:
 - You need to dig or use an applicator to apply the bait.
 
-https://www.youtube.com/watch?v=64ZJo5sox4M
+
 Related:
 Best Mole Traps
 ### **3. Amdro Mole & Gopher Bait - #3 Pick**

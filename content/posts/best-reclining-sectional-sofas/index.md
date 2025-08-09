@@ -27,7 +27,7 @@ The grey color will provide a vibrant and bold look into your living room with a
 [Quality Ergonomic Sofa](https://pestpolicy.com/best-ergonomic-sofa/)
 .
 The sofa has a delightful luxurious texture which increases its attractiveness to use each and every day. The sectional seating is well padded to add more charm and thus increase comfort.
-https://www.youtube.com/watch?v=tBrXPYYfOkk
+
 ### [2. Ashley 617004849 Sectional Sofa](https://www.amazon.com/dp/B002YRAR8C/?tag=p-policy-20)
 Ashley 617004849 Sectional Sofa has a soft luxurious upholstery fabric that comes with a contemporary design that makes your living room look and feels better.
 - It has exceptional features that will offer better comfort for everyone sitting on it. The dual recliners will provide additional sleeping and resting.
@@ -42,7 +42,7 @@ Unique features
 - Durable and beautiful fabric that you will find easy to clean
 - Has 3 recliners
 - Has 2 cup holders to avoid beverage spillage
-https://www.youtube.com/watch?v=Gxh1AJKduyw
+
 ### [3. Ladden Elephant Skin Microfiber Sectional Sofa](https://www.amazon.com/dp/B00H1LMUYK/?tag=p-policy-20)
 The Ladden Microfiber Sectional Sofa by FOA is an excellent sectional that will enhance your relaxation and movie times.
 The sofa has microfiber (elephant skin) that is heavy, soft, and smooth. Read Also:

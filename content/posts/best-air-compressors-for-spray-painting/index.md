@@ -40,7 +40,7 @@ Pros:
 Cons:
 - It is expensive
 
-https://www.youtube.com/watch?v=UC38TsKLPTk
+
 > See Also:
 > Pressure Washer for Paint Removal
 ### [2. BOSTITCH (BTFP02012) Pancake Air Compressor](https://www.amazon.com/dp/B00UHNM1R0/?tag=p-policy-20)
@@ -60,7 +60,7 @@ Pros:
 Cons:
 - One year limited warrant
 
-https://www.youtube.com/watch?v=0WFbbZXfErw
+
 > See Also:
 > Spray Paint for Glass
 ### [3. California Air Compressor (8010)](https://www.amazon.com/dp/B00WM1VPKE/?tag=p-policy-20)

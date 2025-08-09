@@ -29,7 +29,7 @@ Youll appreciate the standard neck of this Yamaha FG800 as its comfortable and s
 The new scalloped bracing body makes this guitar stand. Its headstock is made using sealed die-cast chrome which does an excellent job when playing the guitar.
 These guitars are ideal for beginners, intermediate-level guitarists, or even advanced players.Related:
 Mics for Recording Acoustic Guitar
-https://www.youtube.com/watch?v=E3cqM9Z0HZQ
+
 ### [2. Breedlove Discovery Concert - #2 Pick](https://www.amazon.com/dp/B00HWIC3JY/?tag=p-policy-20)
 Another Acoustic Guitar that falls under the $300 mark is the Breedlove Discovery Concert. This guitar gives excellent sound, looks attractive, and its inexpensive.
 

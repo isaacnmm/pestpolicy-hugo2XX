@@ -33,7 +33,7 @@ Mold vs. Mildew
 **Cockroach **
  Cockroaches are also oval and possess three legs and one pair of antennae. Most cockroach species are relatively smaller than waterbugs. But at between 3.2 and 5.4 mm long, the American roach will most likely be mistaken for a waterbug.
 The best way to differentiate an American roach from a waterbug is to look at the color. Generally, American roaches are reddish-brown in color. They also have a distinct yellowish coloration on their head resembling figure 8.
-https://www.youtube.com/watch?v=AKWovPWl1O4
+
 ### **2. Location**
 **Cockroaches **
  The German and American roaches are the most common indoor cockroaches. They inhabit warm, humid, and dark places, especially where food is readily is available. You can find them in the kitchen, bathroom, near the sink, food stores, and cabinet, among other places.
@@ -118,7 +118,7 @@ Waterbugs will thrive in your compound and eventually find their way into your h
 - If you suspect that you have awaterbug infestation, ensure that all possible water pools inside the house are drained. These include pet water vessels, flower vessels, sink, and so on.
 - Get rid of pools of water around the compound. These may include rainwater collection vessels, birdbaths, and ground holes. For ground holes, you can fill them with soil.
 - If its raining, ensure that the flowing water does not get blocked by debris or items on your compound. The idea here is to reduce the ability of water to pool around.
-https://www.youtube.com/watch?v=VZlLbelKzHI
+
 ## **How to Prevent Cockroaches**
 Cockroaches come to your house in search of food, water, and warmth. So, effective prevention measures must be geared towards eliminating anything that attracts roaches. Below are some
 tips for preventing

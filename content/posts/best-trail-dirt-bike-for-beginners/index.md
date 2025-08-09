@@ -35,7 +35,7 @@ Pros:
 Cons:
 - Relatively pricey
 
-https://www.youtube.com/watch?v=LN23pe9PDpk
+
 ### [2. KTM 250 XC-F - #2 Pick](https://www.amazon.com/dp/B0182VBOJE/?tag=p-policy-20)
 This brand is renowned for its strong performance thanks to its highly developed engine, which is built into a race-designed chassis.
 

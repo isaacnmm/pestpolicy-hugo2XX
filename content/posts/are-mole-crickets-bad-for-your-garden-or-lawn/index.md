@@ -86,7 +86,7 @@ Rest assured, mole crickets are primarily plant pests and do not pose direct hea
 Embrace environmentally friendly control methods such as introducing nematodes that parasitize mole cricket larvae, utilizing beneficial nematodes, or applying neem oil to naturally deter mole crickets.
 - **Beneficial Nematodes**: These microscopic organisms parasitize mole cricket larvae, effectively reducing their populations. Beneficial nematodes can be applied to the soil and are a safe and non-toxic control method.
 - **Neem Oil**: Neem oil is a natural pesticide derived from the neem tree. It can deter mole crickets and disrupt their feeding behavior. Dilute neem oil according to the instructions and apply it to affected areas.
-https://www.youtube.com/watch?v=CwSvGyQ9zzY
+
 ### How Can I Assess the Extent of Mole Cricket Damage?
 To gauge the extent of mole cricket damage, meticulously inspect your lawn or garden for areas exhibiting wilted grass, yellowing plants, and mole cricket tunnels. Nighttime inspections may also unveil their presence.
 ## Conclusion

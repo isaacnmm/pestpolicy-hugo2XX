@@ -27,7 +27,7 @@ Why is the ratio crucial for your pets health? Well, its important to know that 
 This happens due to high affinity of phosphorous absorption. In addition, if phosphorous concentration is high, it will suppress calcium ions from any intake process.
 This will lead to calcium deficiency in your bearded dragon. Since calcium is required for bone strengthening and making, your pet lizard will end up suffering a very dangerous/deadly disease called metabolic bone disease.
 To avoid this occurrence, it is recommend that you feed your beardie with fruits that have high calcium: phosphorous ratio.
-https://www.youtube.com/watch?v=1gIL6J6Sqv4
+
 ### 2. Excess Water Content
 Cantaloupe has a very high water content of about 90%. Though water is necessary for your pet beardie hydration, excess of it will lead to over hydration.
 The alimentary canal of an over hydrated beardie has a mucus lining that prevents absorption of nutrients and accelerates flow of food before digestion occurs.

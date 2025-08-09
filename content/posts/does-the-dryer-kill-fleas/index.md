@@ -36,7 +36,7 @@ dryer.
 - Next, set the temperature of the dryer to the highest allowablefor the clothes or fabric loaded.
 Caution, drying the fabrics at that temperature will imply that the cloths may shrink.
 However, using the hot dryer is a critical step as the high temperature is what will kill the flea eggs and adult fleas.
-https://www.youtube.com/watch?v=8UYQ4rbwsEM
+
 ### 3. Full Cycle Dryer Running - Kill Fleas
 So, simply, YES, fleas will be killed by the high heat and ( extremely high temperatures) in the dryer.
 - Note, you must run that fabric dryer through a full cycle.

@@ -48,7 +48,7 @@ Cons:
 - The spray is highly flammable.
 - The spray vapor may irritate your eyes upon contact
 
-https://www.youtube.com/watch?v=Df87uVMW3dM
+
 ### [2. Seymour 620-1443 High Solids Spray Paint](https://www.amazon.com/dp/B000AYE2GY/?tag=p-policy-20)
 Seymour 620-1443 is an industrial grade spray paint that integrates best quality ingredients, which acts instantly upon application and form a self-levelled surface coat.
 
@@ -74,7 +74,7 @@ Cons:
 - Chemical may irritate the eyes upon contact.
 - The paint is highly flammable
 
-https://www.youtube.com/watch?v=nNKzOm7DS_k&feature=youtu.be
+
 ### [3. Rust-Oleum 7271830 Stops Rust Metallic Spray Paint](https://www.amazon.com/dp/B0019K1YD2/?tag=p-policy-20)
 By choosing Rust-Oleum 7271830 for your metal spray paint application, you will eliminate rust formation and achieve an excellent final finish.
 

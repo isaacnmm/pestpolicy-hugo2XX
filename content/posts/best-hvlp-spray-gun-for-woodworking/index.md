@@ -54,7 +54,7 @@ Cons:
 - You may find it noisy when using it indoors.
 - Does not work with Plasti Dip products
 
-https://www.youtube.com/watch?v=pY1vC-a8k3k
+
 > See Also:
 > Paint Sprayer for Walls and Ceilings
 ### [2. Fuji 2203G Semi-pros 2 - Gravity HVLP Spray System, Blue](https://www.amazon.com/dp/B00D4NPPQY/?tag=p-policy-20)
@@ -81,7 +81,7 @@ Cons:
 - Not compatible with airbrush guns
 - Not suitable for automobile finishes
 
-https://www.youtube.com/watch?v=q9RBMZnznE4
+
 > See Also:
 > Quality Swing Set Stains
 ### [3. HomeRight C800766, C900076 Finish Max Paint Sprayer](https://www.amazon.com/dp/B003VKFDEO/?tag=p-policy-20)
@@ -106,7 +106,7 @@ Cons:
 - Uses more paint as compared to rolling
 - Not a heavy-duty machine
 
-https://www.youtube.com/watch?v=hb1TAQ-kxr8
+
 > See Also:
 > Handheld Paint Sprayers
 ### [4. Earlex HV5500 HVLP Spray Station Paint Sprayer](https://www.amazon.com/dp/B004RGOKR2/?tag=p-policy-20)
@@ -135,7 +135,7 @@ affordable sprayer
 
 One useful feature of the Fuji Spray 5175G - T75G Gravity Spray Gun is the side Pattern Control Knob designed to help you adjust the fan size to your desired size.
 This model is quite light with an easy to pull trigger to give you little or no fatigue as you operate it. You won't have a problem with this sprayer with corrosion, sticking, and
-[painted surface rusting](https://www.youtube.com/watch?v=yiCAXbwVtbs)
+[painted surface rusting](
 .
 More superb features include;
 - Ergonomic Stay-Cool Handle

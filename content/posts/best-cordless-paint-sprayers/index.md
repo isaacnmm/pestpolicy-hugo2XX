@@ -45,7 +45,7 @@ Pros:
 - The device's reverse tips will make it easy to spray your gadgets and surfaces with limited clogging issues.
 Cons:
 - Not approved in sprauinglacquer paint
-https://www.youtube.com/watch?v=6a4TbgrOdnM
+
 ### [2. Graco TC Pro Quality Airless Cordless Paint Sprayer](https://www.amazon.com/dp/B074SKGF5B/?tag=p-policy-20)
 Graco TC Pro is a suitable cordless sprayer that'll work even with
 unthinned paint plus has a suitable lithium-ion battery (the 20-Volt MAX XR brand) for a great finish at lower pressure.
@@ -72,7 +72,7 @@ Pros:
 - Easily change the sprayer's pressure devoid of nozzle switches thus allow uninterrupted painting.
 Cons:
 - Costly
-https://www.youtube.com/watch?v=vx3RaixKZi8
+
 ### [3. Spraytech 0518080 Spray-Max HVLP Stain or Paint Sprayer](https://www.amazon.com/dp/B003PGQI48/?tag=p-policy-20)
 Spraytech 0518080 employs low-pressure and high volume technology that'll effectively atomize the paint to form fine particles and hence create some smooth surface finishes.
 S

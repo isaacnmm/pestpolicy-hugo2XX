@@ -50,13 +50,13 @@ I recommend you feed your dragon with just the gut-loaded insects, which points 
 Further, offer some Dubai
 [baby roaches](https://pestpolicy.com/what-do-baby-roaches-look-like//)
 , earthworms, crickets besides spraying some calcium powder on the pet's food. You may add some meal-worms, wax-worms, and butter-worms for extra fat.
-https://www.youtube.com/watch?v=l83ix4kGgHI
+
 ## What Fruit Do Bearded Dragons Eat?
 ### 1. Strawberries?
 Strawberries are a favorite food for bearded dragons, but you must wash and cut them into small pieces before giving them to your beadier.
 But, can bearded dragons eat strawberry seeds? Well, bearded dragons will eat the strawberry seeds since they're located outside the fruit - particularly on the achenes ovaries.
 Strawberry seeds will provide the beardies with great nutrients but don't feed them excessively to your pet as it'll lead to stomach problems.
-https://www.youtube.com/watch?v=C3kwlaMOJyc
+
 ### 2. Bananas?
 Bearded dragons will eat bananas (phosphorus)- however - only be 1-2 times every 30 days. Excessive feeding with bananas may lead to sicknesses like Metabolic Bone disease due to calcium deficiency.
 Bananas will contain the following nutrients Calcium (5 mg), Phosphorus (22 mg), Magnesium (27 mg), and Iron (0.3 mg) that'll be helpful to your Bearded dragons if fed in moderation.

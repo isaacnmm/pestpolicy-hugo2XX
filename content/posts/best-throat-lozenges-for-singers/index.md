@@ -41,7 +41,7 @@ Cons:
 - Most people wont love the artificial ingredients
 - May cause a numbing feeling
 
-https://www.youtube.com/watch?v=rAgY1WA6Qag
+
 
 Related:
 9 Best Laptops for Drawing

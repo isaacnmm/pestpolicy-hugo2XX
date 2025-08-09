@@ -55,7 +55,7 @@ However, it's incorrect to state that the tick will die once it falls off from t
 Some people say that disease transmission from ticks to humans mainly happens at the end of the feeding period when the animal gets full.
 Read Also:
 Tick Killer for Yard Reviewed
-https://www.youtube.com/watch?v=T9c_3_OBVO4
+
 ## How to find and remove ticks from humans
 Detecting ticks can be a challenging task for most hosts (including humans and dogs) - and this is not just because the kids have small bodies.
 The reason is that, just like fleas and bed bugs, ticks inject an anesthetic into the host's body and thus they're able to feed for longer without being detected or felt.

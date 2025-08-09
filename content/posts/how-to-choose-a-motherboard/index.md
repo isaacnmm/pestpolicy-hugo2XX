@@ -34,7 +34,7 @@ Most current computers employ the
 .
 You should note that the microATX mobos are fitting with both the ATX case and the microATX case. However, your ATX will only be fitting with the ATX case.
 However, be keen to note the nonstandard features of motherboards that will not fit into any of the other cases.
-https://www.youtube.com/watch?v=lP-pinlU-Ko
+
 ### 2. Processor Sockettype
 A Processor socket, in the current mobos, is the part that connects your motherboard and the processor.
 If youve been keen on the CPU interiors, your processor comes with many pins that will fit into the processor socket and the corresponding holes.

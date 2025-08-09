@@ -123,7 +123,7 @@ Cons:
 - Noisy
 - unsuitable tight places
 
-https://www.youtube.com/watch?v=oGJtw0UQ9xw&feature=youtu.be
+
 ### 7. The chapman FM120 Paddock Flail Mower
 The mower's hardy exterior materials are constructed to deal with all types of rough terrains and vegetation. The steel material gives it extra protection making it long-lasting.
 Its 18 HP powerful Briggs and Stratton engine gives it the ability to cut through shrubs and tough grass easily. The mowers rear rollers and centrifugal clutch ensure the machine can sustain itself for a long time during the mowing process.

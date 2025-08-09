@@ -39,7 +39,7 @@ Pros:
 Cons:
 - A customer complained about its durability
 
-https://www.youtube.com/watch?v=Dp9heEtN-dw
+
 Read Also:
 Keys to Running with Bad Knees
 ### [2. Brooks Women's Transcend 4 fabric with GUIDE RAILS](https://www.amazon.com/dp/B01GET4GFA/?tag=p-policy-20)
@@ -63,7 +63,7 @@ Pros:
 Cons:
 - Quiet expensive
 
-https://www.youtube.com/watch?v=8nSPF9n9GD4
+
 Read Also:
 What it truly means to have Bad Knees?
 ### [3. ASICS Women's Gel-Kayano 24 Shoe](https://www.amazon.com/dp/B071J8R19Y/?tag=p-policy-20)

@@ -99,7 +99,7 @@ Cons:
 - Limited flowrate
 - No automatic kill switch
 
-https://www.youtube.com/watch?v=1PwA9MItp9o&feature=youtu.be
+
 ### [4. Paint Sprayer, POPOMAN 500 Watts](https://www.amazon.com/dp/B085T9H7BK/?tag=p-policy-20)
 Popoman is a lightweight spray painter that features a classic design, which is attractive and provides unmatched stability.
 

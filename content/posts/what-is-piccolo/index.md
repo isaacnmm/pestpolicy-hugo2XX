@@ -30,7 +30,7 @@ But, how would a transition from a flute to the piccolo be? Well, as noted above
 Read Also:
 WiFi Extender for Verizon FiOS
 Therefore, initially, it would be challenging to adjust to the piccolos smaller embouchure. However, the piccolos have only the Eb key at its end and thus lacks the C# & C keys.
-https://www.youtube.com/watch?v=ivQpiJos1Sw
+
 Read Also:
 [Mac for Music Production](https://pestpolicy.com/best-mac-for-music-production/)
 So, as you add your fingers, youll be pressing down the keys, which closed the keys and hence making longer the tube inside and thus lowering the notes. Read Also:

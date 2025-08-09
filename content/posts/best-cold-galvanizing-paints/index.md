@@ -37,7 +37,7 @@ Pros:
 Cons:
 - Cannot be used on galvanized metals
 
-https://www.youtube.com/watch?v=IhRQ3katT54
+
 > See Also:
 > [Exterior Primer Paint](https://pestpolicy.com/best-exterior-primer-paint/)
 ### [2. Seymour 16-1445 Cold Galvanized Spray Paint](https://www.amazon.com/dp/B000AYHJQE/?tag=p-policy-20)
@@ -57,7 +57,7 @@ Pros:
 Cons:
 - It irritates skin and eyes
 
-https://www.youtube.com/watch?v=y8FhMR9hxNA
+
 > See Also:
 > Prevent Paint Chipping from Metal
 ### [3. CRC Zinc-It Cold Galvanize Spray Paint, 18412CS](https://www.amazon.com/dp/B000CCMLEY/?tag=p-policy-20)
@@ -165,7 +165,7 @@ Pros:
 Cons:
 - Its expensive
 
-https://www.youtube.com/watch?v=oP-05eoLv-s&feature=youtu.be
+
 > See Also:
 > Rusted Metal Primer
 ## Conclusion

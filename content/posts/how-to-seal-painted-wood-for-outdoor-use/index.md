@@ -39,7 +39,7 @@ Unlike polyurethane sealants,
 Polycrylic sealants
 are less durable and have a considerably lower service life.
 However, Polycrylic sealants are highly preferred due to their low VOC components  they are fewer pollutants.
-https://www.youtube.com/watch?v=CyJm0ZZ6hDA
+
 **2. Polyurethane Sealants**
 Polyurethane Sealants are manufactured as either water-based or solvent-based polyurethane compounds for the easier application process.
 - Usually, Polyurethane Sealants form atough finish coat, which resists peeling, chipping, or fading with time.
@@ -63,7 +63,7 @@ NB: You can opt for the sand section that has rots or mold using
 - Thin accordingly and stir thoroughly to attain a uniform solution. When thinning, follow the manufacturers instructions keenly.
 - Blend the sealant with surface color, if necessary, and stir once more.
 NB: A well-prepared sealant should hold on to the paintbrush without many drains.
-https://www.youtube.com/watch?v=OA743KRf5eg
+
 ### Step 5: Sealant Application
 Before you begin the sealant application, its advisable to carry out a drop test experiment over the painted wood to ascertain the stickiness action.
 - Dip the paintbrush or a roller in the sealant solvent and load the solution sufficiently  cut off all drains.

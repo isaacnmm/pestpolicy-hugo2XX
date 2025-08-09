@@ -40,7 +40,7 @@ from eggs
 .
 As compared to other vegetables like kales and corianders, cabbages show 64.6mcg extra of vitamin K. Cabbages also have vitamin D and B12, but in low quantities as compared to other vitamins.
 Also, cabbages Vitamin C (51.5mg of RDI- needed for the proper functioning of the bones, blood vessels, and smooth skin /muscle flexibility), Vitamin B1 (0.11mg - which boost nerve signals and accelerates carbohydrates breakdown to give energy for your beardie), Vitamin B6 (required for fat/protein metabolism and red blood cell creation) as well as vitamin A that boosts the beardies vision during the night.
-https://www.youtube.com/watch?v=LeihdUU3phg
+
 ### 3. High dietary fiber 2.5g
 For every 100g of fresh cabbage, there is 2.5g to 3.21g of fibers. Green cabbages have more fibers than variegated and red cabbage species.
 Fibers will keep a healthy digestion/alimentary canal by fueling regular and smooth bowel movement. It is the insoluble fibers found in cabbages that add bulk to the stool network, bind it well thus preventing your beardie from constipation (difficulties in releasing bowels).

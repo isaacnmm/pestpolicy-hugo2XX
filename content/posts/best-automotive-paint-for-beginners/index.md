@@ -39,7 +39,7 @@ Pros:
 Cons:
 - Expensive
 
-https://www.youtube.com/watch?v=rJryS3lduEs
+
 > See Also:
 > [Automotive Paint Gun for Beginners](https://pestpolicy.com/best-automotive-paint-gun-for-beginners/)
 ### [2. Dupli-Color Automotive Paint (BCL0125)](https://www.amazon.com/dp/B00407NK6A/?tag=p-policy-20)

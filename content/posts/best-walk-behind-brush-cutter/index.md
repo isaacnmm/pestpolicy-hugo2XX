@@ -42,7 +42,7 @@ Pros:
 Cons:
 - Fragile control levers
 
-https://www.youtube.com/watch?v=CfGBzsjf4ZA&feature=youtu.be
+
 ### [2. Billy Goat BC2600HEBHWalk Behind Brush Cutter (26-Inc + 13 HP)](https://www.amazon.com/dp/B00EAIOX8I/?tag=p-policy-20)
 Billy Goat BC2600HEBH is made by a company (Briggs & Stratton) thats a giant in manufacturing heavy-duty garden & lawn tools plus outdoor equipment.
 This lawn care unit has a frame made from heavy-duty steel. Its a well-built and sturdy brush cutter.
@@ -68,7 +68,7 @@ Pros:
 Cons:
 - Pricey
 
-https://www.youtube.com/watch?v=7SxQJWoD4FY
+
 ### [3. Brush Beast 36BBM17](https://www.amazon.com/dp/B00EAIOX8I/?tag=p-policy-20)
 Brush Beast 36BBM17 also has a powerful Briggs & Stratton engine like other lawn-care equipment from this company.
 The first great sign on this brush cutter is its frame thats made from heavy-duty steel. I cant forget the razor-sharp blades plus the powerful motor.

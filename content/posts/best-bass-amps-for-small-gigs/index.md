@@ -43,7 +43,7 @@ Cons:
 - No pedal input and usb
 - Small range master volume
 
-https://www.youtube.com/watch?v=sc_Z31vD1Sk
+
 Read Also:
 [Best bass amps for metal](https://pestpolicy.com/best-bass-amps-for-metal/)
 ### [2. Gallien-Krueger MB800 Ultra-Light Bass Amp](https://www.amazon.com/dp/B004QZB4Z0/?tag=p-policy-20)
@@ -67,7 +67,7 @@ Cons:
 - Noise control varies in various playrooms
 - May spoil EQ if mishandle by non-professionals
 
-https://www.youtube.com/watch?v=H4nVmaahuw0
+
 Read Also:
 [Best Busking Amps](https://pestpolicy.com/best-busking-amps/)
 ### [3. Fender Rumble 800 Bass Amp Head v3](https://www.amazon.com/dp/B07N29M92P/?tag=p-policy-20)

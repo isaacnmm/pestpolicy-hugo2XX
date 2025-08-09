@@ -41,7 +41,7 @@ Pros:
 Cons:
 - Requires more than one coat
 
-https://www.youtube.com/watch?v=w1NTFj1XR54
+
 > See Also:
 > Painting the Kitchen Cabinets without Sanding
 ### [2. KILZ-L211101 Primer Adhesion High Bonding Interior Sealer](https://www.amazon.com/dp/B01LYXUU4E/?tag=p-policy-20)
@@ -66,7 +66,7 @@ Pros:
 Cons:
 - Proper cleaning before priming
 
-https://www.youtube.com/watch?v=dxD_4XldUvg
+
 > See Also:
 > Painted Vs Stained Cabinets
 ### [3. KILZ Restoration Maximum Stain Primer/Sealer](https://www.amazon.com/dp/B007XH9PKO/?tag=p-policy-20)

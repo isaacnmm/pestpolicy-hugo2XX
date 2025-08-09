@@ -48,7 +48,7 @@ Cons:
 - Mild rashes have been reported to result after use
 - Pump not effective when the bottle is tilted
 
-https://www.youtube.com/watch?v=B_EucBapan0
+
 Read Also:
 [Fly Spray for Horses Reviewed](https://pestpolicy.com/best-fly-spray-for-horses/)
 ### [2. Best for Pets: Amrita Aromatherapy for Gnats](https://www.amazon.com/dp/B000F5K2N0/?tag=p-policy-20)
@@ -75,7 +75,7 @@ Cons:
 - Is reviewed to be less effective in the outdoors
 - Some pets may not like the odor of the spray
 
-https://www.youtube.com/watch?v=9ndKIRm_vh0
+
 Read Also:
 Do Fleas Have Wings?
 ### [3. Best for Babies: Buggins Natural Insect Repellent](https://www.amazon.com/dp/B00488I44E/?tag=p-policy-20)

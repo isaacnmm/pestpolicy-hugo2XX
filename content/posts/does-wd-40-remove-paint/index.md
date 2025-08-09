@@ -24,7 +24,7 @@ Paint Sprayer for Furniture
 ## Details: Does WD 40 Remove Paint?
 *It should also not be applied on surfaces such as naked stones/not sealed, suede, unfinished wood, non-laminated papers, electronics casing, cushioned material, and unpainted walls.*
 *WD 40 is not suitable for large surface area (due to economic reasons). Notably, the right application of WD 40 leads to excellent paint removal without causing surface destruction or distortion.*
-https://www.youtube.com/watch?v=tmY-tS2Ydro
+
 ### a. Active ingredients in WD 40
 WD 40 is a hydrocarbon compound whose main ingredients entail petroleum-based paraffin, aliphatic hydrocarbon (which is similar to kerosene), carbon Dioxide, and aliphatic hydrocarbons.
 These Ingredients are specially formulated (some may be omitted according to the intended use of a particular WD 40 product) and combine chemically for effective action upon application.

@@ -48,7 +48,7 @@ Pros:
 Cons:
 - Not suitable for thick or textured paints or stains.
 
-https://www.youtube.com/watch?v=Ga17gZACFmM
+
 ### [2. Goplus Airless Paint Sprayer 3000 PSI Power - Handyman Metal Gun Spray](https://www.amazon.com/dp/B07CQDYC1P/?tag=p-policy-20)
 Goplus airless paint sprayer provides 3000 PSI function pressure from its adjustable piston pump that's great for a handyman. The 5/8 hp motor is also adequate to power the pump and thus allow easy spraying using the airless paint sprayer - just like the
 HVLP paint sprayers

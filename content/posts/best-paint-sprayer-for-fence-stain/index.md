@@ -54,7 +54,7 @@ Cons:
 - Challenging to clean
 - The high power setting may lead to large overspray
 
-https://www.youtube.com/watch?v=0ci1Gt74_nA
+
 > See Also:
 > Baby Safe Paint for Crib
 ### [2. Wagner-Spraytech 0518080 Stain Sprayer for Fences, Woodworking, and Decks](https://www.amazon.com/dp/B003PGQI48/?tag=p-policy-20)
@@ -88,7 +88,7 @@ Pros:
 Cons:
 - Unsutable for big projects
 
-https://www.youtube.com/watch?v=pY1vC-a8k3k&t=9s
+
 ### [3. Graco-Magnum 262805-X7 with PowerFlush Adapter and RAC-IV SwitchTip](https://www.amazon.com/dp/B0026SSW8G/?tag=p-policy-20)
 With this Graco-Magnum 262805-X7, you won't get low-quality performance, noisiness, leaks, and clogs. The wheeled and durable transport system plus the great hose length enhances the performance - a great
 HVLP spray gun for cabinets
@@ -136,7 +136,7 @@ Pros:
 Cons:
 - Unsuitable forpainting your ceiling
 
-https://www.youtube.com/watch?v=lfi7uE-rLlM&feature=youtu.be
+
 > See Also:
 > Quality Fence Paints
 ### [5. Fuji-2203G Semi-PRO 2 - HVLP with 400cc Gravity Cup & Non-bleed Spray Gun](https://www.amazon.com/dp/B00D4NPPQY/?tag=p-policy-20)

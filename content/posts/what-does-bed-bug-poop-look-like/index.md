@@ -56,7 +56,7 @@ You'll mainly find the bed bug feces and also bed bugs around mattress seams. Th
 Therefore, I would recommend using
 bed bug mattress encasements
 to prevent and treat the bugs - besides treating crevices and cracks plus box springs.
-https://www.youtube.com/watch?v=IDjV9GLahBU
+
 ### 3. Does Bed Bug Feces Smell?
 Bed bug feces
 will be different from fecal matter from various animals - considering their smell. But the poop will have a musty smell due to having a large amount of digested blood.
@@ -91,7 +91,7 @@ However, you'll also find the
 , buttons, or mattress piping. You may notice
 bed bug shells
 that drop when the bugs molt.
-https://www.youtube.com/watch?v=ApYoDF2Uoec
+
 ## Are Black Spots or Stains on my Sheets fromBed Bugs?
 Have you seen some black spots on your bed - well, these don't bed bug feces? Sure, bed bugs will leave tiny and bright stains - but they'll appear in a line.
 The tiny bloodstain is from hosts' blood - the

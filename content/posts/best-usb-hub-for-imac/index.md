@@ -54,7 +54,7 @@ Pros:
 Cons:
 - Not cheap
 
-https://www.youtube.com/watch?v=Qu2dcervHd0
+
 
 Read Also:
 Headphones for Music Production
@@ -82,7 +82,7 @@ Pros:
 Cons:
 - Won't charge the iPad
 
-https://www.youtube.com/watch?v=-v_1yWLZM8A
+
 
 Read Also:
 DJ Headphones

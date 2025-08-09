@@ -23,7 +23,7 @@ do bed bug bombs work
 
 ## [1. Our #1 Pick:Bond 571 917568 Manufacturing O2812618 homes Bed-Bug Fogger](https://www.amazon.com/dp/B01N7RYOYC/?tag=p-policy-20)
 
-https://www.youtube.com/watch?v=aZsrN-USnfo
+
 ## [2. #2 Pick: Hot Shot HG-95911 Aerosol Bedbug and Flea Bomb](https://www.amazon.com/dp/B0047P8G96/?tag=p-policy-20)
 
 Hotshot is an amazing product for indoor
@@ -42,7 +42,7 @@ The Good:
 - It can cover a large volume  approximately 2000 cubic feet and a height of 8 to 10 feet.
 The Bad:
 - Dangerous, when inhaled  requires a respiratory mask.
-https://www.youtube.com/watch?v=CyfQ1fHi9Ho
+
 ## [3. #3 Pick: Bedlam Plus Bed Bug Aerosol](https://www.amazon.com/dp/B00A6JIAK2/?tag=p-policy-20)
 
 This top bed bug bomb. It kills both bed bugs and their egg and
@@ -62,7 +62,7 @@ The Good:
 - Easy to use  dual-mode point application can also be used for cloth moth,flea, and dust mite killing.
 The Bad:
 - Needs a disposable respirator mask during application.
-https://www.youtube.com/watch?v=Y5M2RGhkSKw
+
 ## [4. HARTZ UltraGuard Plus for Bed Bug, Tick & Flea](https://www.amazon.com/dp/B000633VGG/?tag=p-policy-20)
 
 Are you experiencing a rapid infestation of bed bugs? Hartz UltraGuard is an efficient product that will help you eliminate these bloodsuckers in a couple of minutes.

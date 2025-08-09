@@ -30,7 +30,7 @@ You should also remember to safely put away all the parts of the trampoline afte
 Also, ensure you seal the trampoline pads in the waterproof material when storing to avoid moisture from destroying them. Read Also:
 Swing Set Under
 .
-https://www.youtube.com/watch?v=PSAdWB8iMGc
+
 ### 2.**Use Trampoline Weather Cover **
 Trampoline covers are designed to help extend the lifespan of the trampoline by maintaining its original shape and keeping it clean. When you use these covers, the trampoline springs and padding will also get protected from the winter, and they will remain in good condition together with the trampoline.
 Choosing a high-quality cover will prevent your trampoline from getting damaged during winter. It will also help to stop water from destroying the pads.
@@ -45,7 +45,7 @@ Trampoline pads and bed are likely to get ruined by heavy snow or harsh weather;
 Cleaning will help to remove dirt or any pests and their larvae which might have taken refuge on the trampoline. Also, after cleaning, let the structure dry up thoroughly to prevent it from getting mildew. Read Also:
 [Stain For Swing Set](https://pestpolicy.com/best-stain-for-swing-set/)
 .
-https://www.youtube.com/watch?v=mjkFrqPejyU
+
 ## Conclusion
 When youre not planning on using your trampoline during winter, it is good to disassemble while carefully keeping all the accessories in a dry, cool area.
 This habit will protect your trampoline from extreme temperatures and frequent exposure to ice or snow, which can result in cracking of the safety pads.

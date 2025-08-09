@@ -31,7 +31,7 @@ Secondly, rubbing alcohol and other alcohol-based fleas products are highly flam
 Ultimately, when you want to control fleas from your pets and also from your house, alternative flea control methods are ideal such as
 flea combs for dogs
 .
-https://www.youtube.com/watch?v=bm7t30OkiHo
+
 ## What can Kill fleas Instantly In the House?
 Does rubbing alcohol kill fleas in carpet? Fleas can hide in any part of the house including under the carpets. But their number one host is the furry pets. Because of the dangers associated with rubbing alcohol, here are the alternative ways you can use to get rid of fleas.
 Vacuum cleaning your house. Though you can practice this as part of housekeeping, it will go a long way in keeping fleas away from your house.

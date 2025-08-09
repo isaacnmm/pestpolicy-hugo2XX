@@ -35,7 +35,7 @@ Pros:
 Cons:
 - None
 
-https://www.youtube.com/watch?v=M1EZ4XnkQkc
+
 Read Also:
 What's the best way to anchor a swing set
 ?
@@ -57,7 +57,7 @@ Pros:
 Cons:
 - None
 
-https://www.youtube.com/watch?v=WVNr5F9Uo1s
+
 Read Also:
 Swing Set Under 200
 ### **3. JumpSport Trampoline Weather Cover **

@@ -30,7 +30,7 @@ The solvent features stick-action properties that liquefy paint and thus, formin
 Moreover, the Mineral spirit is highly volatile and evaporates quickly without bleaching or reacting with the surface under paint removal if the right application procedure is followed.
 The etching action is achieved in a couple of seconds, while the high degree of activeness allows deep penetration into the dense paint layer.
 The transparent properties of mineral spirit make it easier to monitor the area under cover during the application, making it more useful and reliable in the current market.
-https://www.youtube.com/watch?v=LmSlD0Djf6A
+
 ### b. Area of Use  Where to Apply
 Mineral spirits work for oil-based paints (not for water-based paints) for excellent surface finish.
 The solvent dissolves paints on surfaces such as wood without a wax finish, bathtubs, tile, linoleum, laminated wood, sinks, automotive lacquer, sealed stones, finished furniture, wooden floor finish, wet paints as well as metal surface polishing.

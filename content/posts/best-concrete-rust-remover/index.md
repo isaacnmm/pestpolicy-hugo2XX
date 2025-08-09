@@ -40,7 +40,7 @@ Pros:
 - a quality USA-made product
 Cons:
 - None
-https://www.youtube.com/watch?v=6WsPQsO8ZX8
+
 ### [2. American Hydro Systems 2662 Rid O' Rust Liquid Rust Stain Remover](https://www.amazon.com/dp/B008YHTXQS/?tag=p-policy-20)
 American Hydro 2662 is suitable for rust removal for fiberglass shower that may show signs of yellowing or become gold-like - you don't have to waste 3 weeks attempting to get rid of the rust.
 Y

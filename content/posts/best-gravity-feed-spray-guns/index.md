@@ -46,7 +46,7 @@ Cons:
 - Comes in few selectable colors
 - Dont come with the piping kit
 
-https://www.youtube.com/watch?v=y_DzeRWEBPI
+
 > See Also:
 > Sprayer for Latex Paint
 ### [2. DeVilbiss GFG670 Plus Gravity Feed Spray Gun](https://www.amazon.com/dp/B0002SQYB4/?tag=p-policy-20)
@@ -73,7 +73,7 @@ Cons:
 - The cost is a bit high
 - Limited nozzle types
 
-https://www.youtube.com/watch?v=acVVBYF64Cw
+
 > See Also:
 > Gravity Feed Spray Gun for Woodworking
 ### [3. TCP Global Professional Gravity Feed HVLP Spray Gun](https://www.amazon.com/dp/B002PK2TD4/?tag=p-policy-20)

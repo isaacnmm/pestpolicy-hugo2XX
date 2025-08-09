@@ -44,7 +44,7 @@ Pros:
 Cons:
 - Some customers have complained about the fit being too for them.
 
-https://www.youtube.com/watch?v=0_gHl29fZdM
+
 Read Also:
 Stability Running Shoes Womens
 ### [2. Saucony Men's Performance No-Show Socks](https://www.amazon.com/dp/B07WGR2MCQ/?tag=p-policy-20)
@@ -69,7 +69,7 @@ Pros:
 Cons:
 - Not sold as a single pair
 
-https://www.youtube.com/watch?v=zZArjU7GsWo
+
 Read Also:
 Running Shoes for Heavy Female Runners
 ### [3. Tesla No Show Socks](https://www.amazon.com/dp/B07X91GP82/?tag=p-policy-20)

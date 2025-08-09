@@ -30,7 +30,7 @@ When you dig out their tunnels, you expose moles to bright light. In response to
 
 Notably, moles follow a regular routine from morning to evening. That means they know the time of the day. They wake early in the morning, rest at midday and get back to work at dusk before going to bed.
 
-https://www.youtube.com/watch?v=eVQrtnb8xn8
+
 
 Researchers say that such a controlled routine is made possible by their eyes.Furthermore, their eyes help in knowing the time of the year. Thats why they only come out during spring in search of mates.
 
@@ -42,7 +42,7 @@ Moles arent completely blind. They have eyes which are covered by a thin skin an
 
 Their retinal cells are also fully developed to enable light recognition. They can also see movements and shadows. However, they cant see clearly.
 
-https://www.youtube.com/watch?v=9dRGvmLGa2I&t=95s
+
 ## **How Do Moles Find Their Way?**
 Although moles cant see images, they have adapted ways of finding their way inside their tunnels and when they come above the ground.
 

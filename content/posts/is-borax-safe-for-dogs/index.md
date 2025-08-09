@@ -59,7 +59,7 @@ Borax poisonings in dogs are a medical emergency and must be addressed immediate
 - Gastric ulceration
 - Abdominal pain
 The signs of borax poisoning will come up in 2-4 hoursafter contact, inhalation, or ingestion. Contact the vet immediately for treatment if you notice such symptoms.
-https://www.youtube.com/watch?v=mh8hXYRWQmM
+
 ## Causes of Dog Borax Poisoning
 Boron, a naturally occurring element found in a number of products used around the home can have adverse effects on your canine companion.
 The causes of borax poisoning include:

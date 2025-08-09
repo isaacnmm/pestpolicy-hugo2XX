@@ -45,7 +45,7 @@ Pros:
 Cons:
 - Makes a thin coating
 
-https://www.youtube.com/watch?v=thzJeWPB74A
+
 > See Also:
 > Removing Latex Paint from Metal
 ### [2. Krylon-K09104000 COVERMAXX Spray Paint, 12 Ounce](https://www.amazon.com/dp/B013LT52WW/?tag=p-policy-20)
@@ -70,7 +70,7 @@ Pros:
 Cons:
 - Several coats needed
 
-https://www.youtube.com/watch?v=EVD7YeTMLAE
+
 > See Also:
 > Removing Paint from Metal Railing
 ### [3. Rust-Oleum 249061 2X Ultra Cover Painter's Touch](https://www.amazon.com/dp/B002BWORSG/?tag=p-policy-20)

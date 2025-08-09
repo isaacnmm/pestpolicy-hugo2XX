@@ -31,7 +31,7 @@ You may be surprised to learn that fleas can survive in a carpet for 2-3 months.
 - The eggs are laid directly onto the host animal, and as they move around, these eggs will fall out of the fur and wherever the land will be where they develop. A carpet is a perfect location for this.
 - Once the eggs hatch and the larvae become fully developed, they attach themselves to a hand to repeat the cycle.
 - If you have treated your pet for fleas and have not tackled your carpet, you can be sure that the fleas will continue to inhabit your floor as well as making their way back onto your pet to breed once more.
-https://www.youtube.com/watch?v=xisX7j--alU
+
 Related:
 [Can Fleas Live in Human Hair?](https://pestpolicy.com/can-fleas-live-in-human-hair/)
 ## How To Clean A Carpet To Get Rid Of Fleas

@@ -96,7 +96,7 @@ that'll melt the paint thanks to its heat - you'll finally only have to scrape i
 respirator mask for painting
 .
 A better option would be to use paint removers - but you'll need skin and eye protection - using gloves and glasses - and get yourself a suitable chemical respirator.
-https://www.youtube.com/watch?v=ocf-SrtRT2U
+
 With the paint removers, it'll be easy to strip off paint from wood and metal - or you may use a grinder or a drill attachment and using 3M-Sandblaster pads. Painting the outdoor and indoor spaces will be easy, and the surfaces simple to clean.
 > See Also:
 > Remove Paint from Wooden Floor

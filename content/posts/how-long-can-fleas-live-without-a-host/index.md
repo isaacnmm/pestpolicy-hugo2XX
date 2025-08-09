@@ -35,7 +35,7 @@ This is the first stage in a life cycle. A flea likes to lay its eggs on the hos
 The fertilized eggs hatch in a span of 2-12 days. From the
 [total flea population](https://pestpolicy.com/should-you-spray-your-yard-for-fleas/)
 in any house, the eggs comprise about 50-54%.
-https://www.youtube.com/watch?v=34MRKpf3rEE
+
 ### **Larvae **
 This is the second stage of the life cycle. The larvae are translucent to white in color and their size range from 2mm-5mm when they are fully grown.
 - As they mature, their color also changes to a darker color. As for larvae, they prefer dark areas in the house including under the carpets and in the crevices.

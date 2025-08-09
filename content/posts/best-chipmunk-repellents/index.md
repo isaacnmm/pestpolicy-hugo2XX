@@ -25,7 +25,7 @@ Their burrowing can undermine foundations and damage lawns, leading to costly re
 ## [1. Bonide 868 Outdoor Chipmunk Repellent](https://www.amazon.com/dp/B07JYFFMV1/?tag=p-policy-20)
 The Bonide 868 Chipmunk, Squirrel & Rodent Repellent is a ready-to-spray solution designed for outdoor use. It's formulated to deter chipmunks, squirrels, and other rodents from your lawn and garden areas.
 
-https://www.youtube.com/watch?v=hqkodcWEM9o
+
 
 The ready-to-spray formula makes it convenient to use, requiring minimal preparation. It's effective against not only chipmunks but also squirrels and other rodents, offering comprehensive protection for your outdoor space.
 - **Key Features:****Effective Deterrent:**Targets chipmunks, squirrels, and other rodents.**Ready-to-Spray Formula:**Easy application with minimal preparation.**Long-Lasting Protection:**Reduces the need for frequent reapplication.**Weather Resistant:**Maintains effectiveness even in rain and outdoor conditions.**Eco-Friendly:**Repels pests without harming your lawn, garden, or ornamental plants.
@@ -57,7 +57,7 @@ The T3-R Triple High Ultrasonic Pest Repellent is another effective ultrasonic c
 
 It uses a Dual Triple Attack Design to change the ultrasonic sound alternately so that rodents do not become used to it. This device is designed with durable and heavy-duty materials, ensuring long-term outdoor use.
 
-https://www.youtube.com/watch?v=X6A5f_zF18Y
+
 - **Key Features:****Dual Triple Attack Design:**Alternates ultrasonic frequencies to prevent adaptation.**Durable Build:**Made to withstand harsh outdoor conditions.**Non-Toxic:**Safe for humans and pets, except for small pets like hamsters.**Long-Lasting:**Provides reliable rodent repellent for extended periods.
 - **Dual Triple Attack Design:**Alternates ultrasonic frequencies to prevent adaptation.
 - **Durable Build:**Made to withstand harsh outdoor conditions.

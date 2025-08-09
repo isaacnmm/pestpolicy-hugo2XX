@@ -34,7 +34,7 @@ last? If not, check this
 guide
 .
 The notion you might have of bedbugs' inability to climb metal is based on the fact that bedbugs generally prefer to harbor on wooden frames instead of metallic ones.
-https://www.youtube.com/watch?v=t8lWbXMA9JM
+
 ## How to Handle a Bedbug Infestation
 You will be shocked just how relentless bedbugs are to turn you into their dinner. The fact that they cant climb metal or plastic comfortably should not guarantee you a good night's sleep.
 You must take additional measures to keep off their nasty and painful bites
@@ -55,7 +55,7 @@ around the metal or plastic pipes or
 [spray the bugs](https://pestpolicy.com/best-bed-bug-spray/)
 to discourage the bed bugs from scaling them.
 This should be enough incentive for you to call a professional pest control service if you want the scourge to be successfully decimated swiftly and permanently.
-https://www.youtube.com/watch?v=aQvb3bvpIyQ
+
 ## Familiar Hiding Places for Bedbugs
 Bedbugs are masters when it comes to the art of hiding. Naturally, these parasites will
 [hide in the corners of our beds](https://pestpolicy.com/where-do-bed-bugs-hide/)

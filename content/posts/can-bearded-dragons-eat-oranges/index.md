@@ -32,7 +32,7 @@ Also, the consumption of oranges interferes with the pets Ca:P ratio. Oranges co
 The extra calcium required for phosphorus is obtained by the body from the bones.
 This is a known cause of bone degeneration in beardies which are fed on oranges.Read Also:
 [Do Bearded Dragons Eat Onions?](https://pestpolicy.com/can-bearded-dragons-eat-onions/)
-https://www.youtube.com/watch?v=phSH8c6AZ1k
+
 **Side-note:**
 *Feed Bearded dragons with very small portions of limited types of fruits - including grapes, pears, cherries, peaches, plums, raspberries, pineapples, apples, peeled bananas, watermelon, and papayas.*
 ### **Can Bearded Dragons Eat Orange-Fed Insects?**

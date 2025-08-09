@@ -30,7 +30,7 @@ When the geese decide to invade your lawn they do it in numbers. Unless you have
 If you mount a fence around your yard, it will help you keep geese away.
 - You dont have to put a very high fence but just a sizeable fence to keep them off.
 With a fence around the yard, geese will not break through but keep off the yard.
-https://www.youtube.com/watch?v=Warr-YlzT38
+
 ### **2. Stop the Food Supply **
 What brings geese around the yard area is food-grass, leaves, berries, bulbs, and others.
 - As long as there is something in the yard for the geese to feed, they will always hang around the yard.

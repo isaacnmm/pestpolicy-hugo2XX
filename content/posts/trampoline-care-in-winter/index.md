@@ -33,7 +33,7 @@ To make the job easier, you can stretch up to the middle of the mat and pull out
 However, desist from using sharp or had equipment like a shovel since it will destroy the net or the mat of your structure. Read Also:
 The best way to anchor a swing set
 ?
-https://www.youtube.com/watch?v=bAoRk7jsgjU
+
 ### **3. Use Trampoline Anchor Kit**
 Trampoline anchor kits are some metal stakes that you can hammer into the ground which you then connect to the trampolines legs and frame using durable straps to help the structure stay in place during harsh weather.
 These anchor kits are handy, and they save you great liability if correctly installed. Go through

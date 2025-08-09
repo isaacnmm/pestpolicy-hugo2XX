@@ -22,13 +22,13 @@ Let's get started!Related:
 
 ## [1. #1 Top Pick: Harris Bed-Bug Traps - Parent (20-Pack)](https://www.amazon.com/dp/B01BRTNPCC/?tag=p-policy-20)
 
-https://www.youtube.com/watch?v=kBDii4lVx5Y
+
 ## [2. #2 Pick: Bed-Bug Monitor, Blocker & Interceptors](https://www.amazon.com/dp/B07MG8BD7X/?tag=p-policy-20)
 
-https://www.youtube.com/watch?v=ZcyjWuPMbSk
+
 ## [3. #3 Pick: Raid Bed-Bug Detector and Trap](https://www.amazon.com/dp/B01AS4ZVC4/?tag=p-policy-20)
 
-https://www.youtube.com/watch?v=H9d_EB6XFUc
+
 ## **4. Bed Bug ClimbUp Interceptors Passive Traps**
 
 The Bed Bug Climb Up traps is not a killer of bed bugs but a remedy while you figure out the steps you need to take to call an exterminator to handle the bugs.

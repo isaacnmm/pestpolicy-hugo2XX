@@ -42,7 +42,7 @@ The market has a range of painting products, but some aren't quality of they are
 16. Citristrip Stripping Gel (1 to 2 quarts)
 17. Plastic bags or plastic drop cloth
 18. Safety Glasses (see the safety goggles) and protective gloves (1.5 boxes)
-https://www.youtube.com/watch?v=WveT8HVqxM4
+
 ### Step #1:**Prepare an Appropriate Painting Spot**
 First off, preparing the aluminium boat for the paint job is a critical step - a clean boat will be much easier to paint. But you must undertake the process in an appropriate spot.
 - Go for a spot or location (such as a garage) where the harsh weather won't derail your work or deteriorate the paint job's quality. Paint the boat during warmer temperatures (winter may make the painting job damper).

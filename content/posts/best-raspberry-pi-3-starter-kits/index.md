@@ -34,13 +34,13 @@ Raspberry Pi 3B+ comes with an onboard LAN, better wireless connectivity
 *Wi-Fi bandwidth being 802.11ac), and a superior processor (*
 ARMv8 CPU
 *).*
-https://www.youtube.com/watch?v=eDLtXSCmllU
+
 ### [2. V-Kits Raspberry Pi 3 Model B+ Starter Kit - #2 Pick](https://www.amazon.com/dp/B07BDRD3LP/?tag=p-policy-20)
 Like the CanaKits Starter Kit above, the Vilros Raspberry Pi 3 Starter Kits also comes with a Pi 3 Model B+.
 Further, it gets you the adapter HDMI cable, power supply, and 2 heat sinks.
 - Get to exciting gaming with this V-Kits starter kit that has an additional 2SNES-type USB controllersand a MicroSD with RetroPie software.
 With the RetroPie software, you can change your single-board computer into a complete arcade console to mimic consoles like Game Boy and Apple II.
-https://www.youtube.com/watch?v=jl5m_mn9HWw
+
 ### [3. Raspberry Pi 3 Starter Kit by CanaKit (Complete with 32 GB) - #3 Pick](https://www.amazon.com/dp/B01C6Q4GLE/?tag=p-policy-20)
 As outlined in the title, this set is a full Starter Kit. Therefore, this will be all youll need to kick off your DIY PI 3 project.
 In addition to the amazing Raspberry Pi 3, the CanaKit full Starter Kit comes with:

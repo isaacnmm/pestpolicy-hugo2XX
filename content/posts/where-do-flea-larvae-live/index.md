@@ -34,7 +34,7 @@ free-living
 . But they'll hunt for food in the surroundings with their random foraging habits.
 But the worm-like bugs will largely feed on dried feces (waste) dropped by adult fleas. The larvae will also eat younger larvae and flea eggs - but they won't eat organic debris from hosts like cats.
 On food-seeking, flea larvae will move around the areas that have food. For instance, they'll move to an area with food (about 90 cm) after they hatch in one without - beating starvation - which can happen in 3 days.
-https://www.youtube.com/watch?v=sH2KblmOlFo
+
 **2. Darkness**
 Dark areas will be lovely for the flea larvae to thrive. These creatures tend to die when sun-exposed or if they're kept in open locations - this is because there will be low RH and it's hot.
 The worm-like creatures tend to escape sunlight by
@@ -55,7 +55,7 @@ For distance, flea larvae will move under 15 centimeters to about 46 centimeters
 - But compared to the first instar, the second instar are able to move further - but either way, none of the flea larvae stages will go beyond the eclosion point.
 On stimuli, flea larvae will move away from light - considered as negatively phototactic but will move with gravity - described as positively geotactic.
 Further, the worm-like creatures are thigmotactic and positively hygrotactic meaning that they react positively to physical contact and high humidity respectively. They'll avoid pet and pedestrian traffic.
-https://www.youtube.com/watch?v=fdDn5xO3Sqo
+
 ## Where Do Flea Larvae Live?
 **1. Around the House**
 Flea larvae will hide around the house in those protected areas especially under the rugs, and carpet fibers. They may also hide on hardwood floors - in the crevices and cracks.

@@ -23,13 +23,13 @@ Well, in this article, I have featured the best vacuum cleaners in the market. A
 
 ## [1. Our #1 Pick:BISSELL 2252 Green Pet Upright & CleanView Swivel](https://www.amazon.com/dp/B07MBQX9RD/?tag=p-policy-20)
 
-https://www.youtube.com/watch?v=s1j73hl5E4Q
+
 ## **2. #2 Pick: Shark-NV356E S2 Pet-Power, Lift-Away & Upright Vacuum**
 
-https://www.youtube.com/watch?v=ZjGMGrDeCxk
+
 ## [3. #3 Pick:Eureka-NEU182B Upright, Bagless & PowerSpeed Vacuum](https://www.amazon.com/dp/B07H65Z3G2/?tag=p-policy-20)
 
-https://www.youtube.com/watch?v=Mtb_t25WwAo
+
 ## [**4. Atrix - VACBP1 Corded Backpack Vacuum with HEPA Filter**](https://www.amazon.com/dp/B004LYNU3K/?tag=p-policy-20)
 
 To make your bedbug vacuuming projects more effective, you need a powerful vacuum cleaner like Atrix VACBP1.
@@ -49,7 +49,7 @@ The Good:
 - You can use it as a blower
 The Bad:
 - The power cord is only 1.5 feet long
-https://www.youtube.com/watch?v=x9mJjzGQ5jg
+
 ## [**5. Kenmore - 81614 Lightweight HEPA Filter Canister Vacuum**](https://www.amazon.com/dp/B075F44Y4C/?tag=p-policy-20)
 
 If you want a vacuum cleaner for removing bedbugs and other debris like dirt and pet hair, Kenmore 81614 is a good choice.

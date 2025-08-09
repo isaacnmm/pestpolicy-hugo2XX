@@ -27,7 +27,7 @@ Containing no chemicals and, therefore, non-toxic to human beings, this is absol
 It can be used away from the house as it attracts and traps flies within a range of 20 feet.
 The trap is reusable and has a long shelf life, and can, therefore, be carried on picnics and camping trips to keep the flies away from the food.
 As long as you have water to be used in activating the edible attractants in the trap. Ensure you seal properly when disposing of the waste traps.
-https://www.youtube.com/watch?v=SRa3wluzjqc
+
 Related:
 Best Fly Spray for Horses
 .
@@ -43,7 +43,7 @@ Containing no harmful chemicals, the trap can be used even by people with allerg
 Read Also:
 Best Roach killers
 .
-https://www.youtube.com/watch?v=Xh7l3-iawsU
+
 ## [3. #3 Pick: BEAPCO Fruit Fly Live Traps, Non-Toxic Indoor](https://www.amazon.com/dp/B00CRYOPMQ/?tag=p-policy-20)
 
 Coming in a pack of 6 with each trap pod lasting up to 30 days, these fruit fly traps are the way to go for a sustained attack against house flies.

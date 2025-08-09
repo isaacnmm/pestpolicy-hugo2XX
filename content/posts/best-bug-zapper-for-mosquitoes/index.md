@@ -50,7 +50,7 @@ Cons:
 - It does not have a battery compartment.
 - The 30-day cartridge is expensive to replace with a new one.
 
-https://www.youtube.com/watch?v=igeFP8KCZOQ
+
 
 Read Also:
 Does Coconut Oil Kill Fleas? 7 Secrets
@@ -83,7 +83,7 @@ Pros:
 Cons:
 - It has a limited Coverage of approximately 6,000 square feet or 0.14 acres.
 
-https://www.youtube.com/watch?v=Is_vYFD5Sks
+
 
 Read Also:
 How Do Flea Collars Work

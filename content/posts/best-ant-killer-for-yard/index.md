@@ -40,7 +40,7 @@ Cons:
 - It needs to be applied at the right time (you cant apply it before rain or during heavy dew times)
 - It is not as effective if used independently without the use of any other product
 
-https://www.youtube.com/watch?v=ASITNaINZo0
+
 Related:
 How to Get Rid of Ants Naturally Outside??
 ### [2. AMDRO Ant Block Home Perimeter Ant Bait Granules](https://www.amazon.com/dp/B0015I3ESG/?tag=p-policy-20)
@@ -61,7 +61,7 @@ Cons:
 - Granules might stick to each other, making the application process slightly tougher
 - Some ants arent attracted to the pellets due to the fact that they are so big
 
-https://www.youtube.com/watch?v=3UuAKODbNJE
+
 Related:
 Get Rid Of Ants in Car
 ### [3. Bayer Advanced Complete Ant Killer](https://www.amazon.com/dp/B001DKEOK8/?tag=p-policy-20)

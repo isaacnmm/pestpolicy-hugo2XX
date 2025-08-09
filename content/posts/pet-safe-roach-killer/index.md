@@ -126,7 +126,7 @@ For the product to be more effective, mix neem with cocoa powder to attract cock
 Check this to know the details on how to use it - beer can roach traps are among the
 [least toxic roach control methods](https://lancaster.unl.edu/enviro/pest/factsheets/120-94.htm)
 . Luckily, this method is purely DIY and is safe for both you, your kids, and your pets.
-https://www.youtube.com/watch?v=RpkJtk3_W3U
+
 ## [7. MILLIARD Borax Powder - Multi-Purpose Cleaner](https://www.amazon.com/dp/B005S4MCAY/?tag=p-policy-20)
 The active ingredients in this borax powder include nepetalactone, which is non-toxic to humans and pets.
 

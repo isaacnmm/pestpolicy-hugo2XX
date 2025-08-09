@@ -55,7 +55,7 @@ Pros:
 Cons:
 - Requires multiple applications.
 - Clove fragrance effects.
-https://www.youtube.com/watch?v=RqWIOWlj8UA
+
 ## [3. Bayer K9 Advantix II Flea for Small Dogs](https://www.amazon.com/dp/B004QRHRIQ/?tag=p-policy-20)
 K9 Advantix II tops my list. This product will get rid of fleas from your puppy in 12 hours after application, and the treatment effects continue for 30 days.
 - K9 Advantix II is veterinary-recommendedflea controlfor small dogs that lay between 4 to 10 pounds.

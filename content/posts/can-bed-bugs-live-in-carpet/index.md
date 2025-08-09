@@ -26,7 +26,7 @@ kill bed bugs
 by stepping on them directly.
 Carpets in your house/rooms may have more bed bugs infestations than other hideouts. Bed bugs prefer living in a warm place without much disturbance. Plastic carpets generate a warm temperate environment as they cling on the floor and are removed only when they get worn out. Therefore, bed bugs will crawl under them and breed successfully.
 Most house carpets are heavy and difficult to move/pull about in real life while cleaning your house. Just like other homeowners, you may prefer cleaning carpets after a couple of months  this offers bed bugs ample time to breed and spread.
-https://www.youtube.com/watch?v=VXcGax4E0DA
+
 Related:
 Bed Bugs Can't Jump
 ## Do Bed Bugs Lay Eggs In Carpet?

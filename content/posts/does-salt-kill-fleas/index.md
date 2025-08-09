@@ -33,7 +33,7 @@ dawn soap for fleas
 .
 Fleas can be a real nuisance, and often the use of chemicals and sprays to kill them off can be just as hazardous to the more welcome members of the family.Read Also:
 [Does Salt Kill Bed Bugs?](https://pestpolicy.com/does-salt-kill-bed-bugs/)
-https://www.youtube.com/watch?v=G0E1BfAEnUs&t=27s
+
 ## How Does Salt Kill Fleas?
 Most notably, salt can dry out the fleas, and this, in turn, kills them. Let's look at this in a little more detail - review these
 foggers for fleas

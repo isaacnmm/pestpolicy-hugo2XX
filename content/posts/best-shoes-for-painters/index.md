@@ -73,7 +73,7 @@ Pros:
 - It has a clamshell lacing and a rugged metal eyelet
 Cons:
 - Its break-in time is longer
-https://www.youtube.com/watch?v=P_Z1lEbSUVU
+
 ### [3. EVER-BOOTS Full-Grain Leather Painting & Construction Boots with Rubber Sole](https://www.amazon.com/dp/B00WQIPK5O/?tag=p-policy-20)
 EVER-BOOTS is a top-quality painting and construction boot with rubber soles and leather upper for great
 comfort and safety as you work

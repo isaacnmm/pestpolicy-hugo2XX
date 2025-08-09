@@ -50,7 +50,7 @@ Pros:
 Cons:
 - You might need to buy a half size up for perfect fit
 ?
-https://www.youtube.com/watch?v=cvyxPeItM3o
+
 
 Read Also:
 [Walking Shoes for Lower Back Pain](https://pestpolicy.com/best-walking-shoes-for-lower-back-pain/)
@@ -78,7 +78,7 @@ Pros:
 Cons:
 - None
 ?
-https://www.youtube.com/watch?v=UHJogD2F9e8
+
 
 Read Also:
 Android Tablet for Gaming
@@ -181,7 +181,7 @@ Cons:
 - Could have a long break-in
 - Its heel is relatively high
 ?
-https://www.youtube.com/watch?v=JIokFlvocuI
+
 ### [6. KEEN Women's Kaci Shoe](https://www.amazon.com/dp/B00HG8287W/?tag=p-policy-20)
 KEEN Women's Kaci shoe Features an amazing upper built with Full-Grain leather for a comfortable all-day work experience.
 The top is also water-resistant. The durable outsole has enough grip and traction, ensuring that you walk on all surfaces with confidence.

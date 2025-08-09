@@ -34,7 +34,7 @@ Top position for Best Condenser Mics under $300 is taken up by this amazing SE E
 The multi-pattern design allows this to mic a variety of recording applications. The good thing with this mic compared to other conventional mics is that it can toggle between different polar patterns, providing diverse recording purposes.
 This sE2200a II also features a brass capsule that is hand made using a gold-sputtered diaphragm to fit your preference. This exceptional capsule offers a broad range of frequency intended for great audio consistency. The good thing with the frequency response of this incredible instrument is that it captures all audio details giving you a perfect tune.
 Most music professionals applaud the transparency and clarity of this mic. It features a shock mount with a pop filter which ensures your vocals are always clear and on point while recording your music. Furthermore, the 20dB setting allows extra low-frequency control, allowing you to eliminate any unnecessary sound from your recordings.
-https://www.youtube.com/watch?v=MGeclFjcvoo
+
 Related:
 7 Best DJ Headphones
 ### [2. Audio-Technica AT2035 Large Diaphragm Studio Mic - #2 Pick](https://www.amazon.com/dp/B00D6RMFG6/?tag=p-policy-20)
@@ -44,7 +44,7 @@ Mics that deliver great performances dont have to be expensive and this amazing 
 The mic features a switchable filter, custom-made shock mount, protective pouch, and a 10dB pad. All these attributes allow the AT2035 to control sound levels to give a more balanced performance experience.
 Youll appreciate this versatile mic thats reliable as well as consistent. Its versatile in the sense that it can be used at home, during a live performance, and in professional studio applications. This large-diaphragm condenser microphone provides remarkable detail while ensuring reduced noise.
 The custom-made shock mount and the protective pouch allows this mic to maintain an incredible level of consistency. Its sturdy construction and enhanced performance specifications make this AT2035 mic stand out among many other mics.
-https://www.youtube.com/watch?v=JA8fdCRp9_A
+
 
 Read Also:
 Camera for Concerts

@@ -44,7 +44,7 @@ or keeping them away. Flea treatment is used to deal with a flea infestation tha
 While long duration on a product is generally good, sometimes those repellents usefulness fades over time. You want to stay on top of keeping up with your preventative measures once their duration has ended.
 **Indoors vs. Outdoors:**
 This is very important when it comes to deciding which products to use. As a general rule of thumb, outdoor products will need to be handled more carefully, as they generally will include pesticides. Be more aware of how youre applying them and where.
-https://www.youtube.com/watch?v=Wi2utRjOUAU
+
 
 Fleas are formidable pests, but with the
 **right knowledge and tools**

@@ -44,7 +44,7 @@ Often, people destroy the metal surface or the entire structural impression duri
 - Wash the metal rail with water and soap detergent to remove traces of mineral spirit and paint remnants
 - Rinse the surface to dryness with a piece of cloth
 NB: Do not smell stripping chemicals during application since the solvent contains components that may irritate your nasal cavity when inhaled.
-https://www.youtube.com/watch?v=19tG3-8Ls-4&t=47s
+
 > See Also:
 > Thin Oil Based Paint for Spray Gun
 ### c. Using a Heat gun and Paint Scraper
@@ -105,7 +105,7 @@ Moreover, the wrong use of sander may cause dents and scratches that affect the 
 Upon thinning the painted metal rail, the paint coat may fail to yield and hence resist removal eventually.
 Such cases are common especially when the stripping chemical reacts with the metals primary material.
 Incomplete paint quenching on metal rail forms surface stains, which appears very unpleasant.
-https://www.youtube.com/watch?v=9S5yRWVfWSo
+
 > See Also:
 > [Fixing Peeling Paint on Ceiling](https://pestpolicy.com/how-do-i-fix-peeling-paint-on-ceiling/)
 ## How to Protect and Repaint Metal Railing

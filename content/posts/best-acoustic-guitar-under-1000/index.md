@@ -44,7 +44,7 @@ Pros:
 Cons:
 - None
 
-https://www.youtube.com/watch?v=3JEMrPjLadg
+
 
 Read Also:
 Drones for Still Photography

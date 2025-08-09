@@ -46,7 +46,7 @@ Cons:
 - Its expensive
 - Has odor
 
-https://www.youtube.com/watch?v=OB6Cgml0SUw
+
 ### [2. FDC Rust Converter, Professional Grade Rust Repair](https://www.amazon.com/dp/B014LR5PA2/?tag=p-policy-20)
 This FDC rust converter is one of the fairly economical primers that are easy to use when it comes to converting rust into the inert black coat and stopping any further spread.
 
@@ -65,7 +65,7 @@ Pros:
 Cons:
 - Reacts with fabric and concrete
 
-https://www.youtube.com/watch?v=wlM8aT8IodA
+
 > See Also:
 > Will Vinegar Remove Paint?
 ### [3. TotalBoat Rust Primer Converter, Professional Repairs](https://www.amazon.com/dp/B013F9SLQM/?tag=p-policy-20)

@@ -44,7 +44,7 @@ For you to successfully remove any kind of tile backlash there are very importan
 ### Step 3: Covering the Surface
 If you are working on the kitchen and any surface, you need to cover the surface to avoid dirtying your floor and blocking your sinks. You can use a cotton cloth, old sheets among others.
 If you do not cover that surface, you are most likely going to have a hard surface trying to clean up the mess from crumbles and grouts from the backlash.
-https://www.youtube.com/watch?v=dLR81QJn830
+
 ### Step 4: Loosening the Grout and the Drywall
 With your tools ready and the floor well covered, this creates the right moment to begin your job. After having the identified the material used on the tiles, you can now proceed to the other
 First, identify the most discreet place where you can start removing tile to test the backlash. You can try removing one of the tiles from that point -
@@ -73,7 +73,7 @@ See Also:
 It is common to make some damages, nobody is guaranteed of a 100% perfect job. If you find yourself in this this situation, this is not the end.
 I am going to tell you how you will redeem yourself from this mess. If you have made some punctures and tears from the blade, a sandpapering will be a good option to clean up the mess.
 Adding a layer of sparkle followed by sanding is one of the best ways to smoothen your surface. In this case, sandpaper with 120 grit is the most appropriate that will give you a well-smoothed surface.
-https://www.youtube.com/watch?v=cXRcwgy51_o
+
 ### Step 7: Cleaning the Gout
 The grout which binds the tiles and the drywall together could prove to be cumbersome when cleaning it.
 A grout scraper would be the most appropriate for such a job. With it, you can maneuver in the ceramics without causing damage to the wall. You can also use it to minimize the cracking of tiles.

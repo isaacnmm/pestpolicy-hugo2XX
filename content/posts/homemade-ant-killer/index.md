@@ -43,7 +43,7 @@ and Peanut butter
 3. Cut the straws into 2-inch pieces and place them in places most frequented by ants.
 4. Ants will be attracted by the peanut butter and get killed by the boric acid. Ants are social creatures that love doing everything together.
 5. So, they will take the pieces back to the colony, hence distributing the poison to more ants.
-https://www.youtube.com/watch?v=8tuXNkfc2mg
+
 Related:
 [Bed Ant Killer](https://pestpolicy.com/best-ant-killer/)
 ### **2. Food-Grade Diatomaceous Earth Ant killer**

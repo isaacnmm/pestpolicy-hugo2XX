@@ -43,7 +43,7 @@ Pros:
 Cons:
 - It is not alcohol ink
 
-https://www.youtube.com/watch?v=shOpRxCK_gE
+
 > See Also:
 > Deck Sealer for Pressure Treated Wood
 ### [2. Design Master 731 Gold Metallic Paint](https://www.amazon.com/dp/B00114OO6A/?tag=p-policy-20)
@@ -64,7 +64,7 @@ Pros:
 Cons:
 - Its durability is questionable
 
-https://www.youtube.com/watch?v=UXYzjZBCXS0
+
 > See Also:
 > Deck Stain for Pressure Treated Wood
 ### [3. Plaid, Classic Gold 6110 Paint, 1 Pack](https://www.amazon.com/dp/B000MRUYI4/?tag=p-policy-20)

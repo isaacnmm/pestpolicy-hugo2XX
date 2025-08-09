@@ -36,7 +36,7 @@ Thus, it'll be possible to readily soap your paint using the vinegar-dipped swab
 Alternatively, dip some sponge or a paintbrush in the heated vinegar ready to remove the paint and its
 [harsh spray paint smell](https://pestpolicy.com/how-to-get-rid-of-spray-paint-smell/)
 . Next, it's now time to dab your vinegar onto your stubborn dried paint.
-https://www.youtube.com/watch?v=fmIzE3BMCAI
+
 ### 3. Soap Paint with Vinegar
 Next, we do the ultimate paint removal using your heated vinegar. So, use the vinegar swab and cover the identified paint using the warm vinegar. Allow the soaked paint to sit as it melts down for about 10 minutes to about 15 minutes.
 The warm vinegar will easily soak your identified paint for the time allowed to sit working its magic. However, if after the process, the paint is still sticking - you can now a hotel vinegar reapplication. See Also:
@@ -46,7 +46,7 @@ best paint stripper for wood
 So, once the paint is fully soaked in the hot vinegar its time to physically remove it from your surfaces like glass or doors.So, simply use a stiff credit card or rubber spatula to scrape off of gently flick the paint from the various surfaces.
 Ensure that apply to apply just gentle or light pressure while doing some quick motions so that you won't significantly scratch the surface finishes. However, you may soak more vinegar in the swab if the paint proves stubborn resisting removal.
 So, the hot vinegar serves to loosen the paint - and thus all you'll have to do finally is to wipe off the damped paint using some cloth or rubber spatula.
-https://www.youtube.com/watch?v=QXOCZMjTRq0
+
 ## Does Vinegar Hurt House Paint?
 Definitely, this depends on the convention of the vinegar solution that you're using for cleaning the walls. Less concentrated vinegar can clean the walls without hurting the paint but more concentration will simply soak and remove the paint and adhesives.
 Definitely, a new stain or sealers will brighten your surface but these won't remove grease or dirt. Thus, using your regular white vinegar will help you to cheaply remove these grease and dirt - its acidity readily removes the sticky residues, oils, and dirt.

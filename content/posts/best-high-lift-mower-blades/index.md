@@ -34,7 +34,7 @@ Pros:
 Cons:
 - None
 
-https://www.youtube.com/watch?v=hfVGDK9ZTiw
+
 Read Also:
 [[Best](https://pestpolicy.com/best-heavy-duty-flail-mower-for-atv/) PTO tiller for the money](https://pestpolicy.com/best-pto-tiller-for-the-money/)
 .
@@ -154,7 +154,7 @@ Pros:
 Cons:
 - None
 
-https://www.youtube.com/watch?v=MUSw4ax8lCk
+
 ## Considerations for Best High Lift Mower Blades
 If you are looking to replace or upgrade your lawnmower blade, searching for the best fit can be a challenging experience because it must fit perfectly and meet all your mowing needs.
 Key points of consideration include the blade size, manufacturer number, construction material, and shape.

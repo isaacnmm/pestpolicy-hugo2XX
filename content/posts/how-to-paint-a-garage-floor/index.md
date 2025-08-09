@@ -32,7 +32,7 @@ since it'll be easier than working on bare cement - but sand lightly.
 Note that your epoxy floor paint will be extra-tough that won't be damaged easily by gasoline, oil, or chemicals. Here are the
 *materials and tools*
 you'll require for the garage painting job.
-https://www.youtube.com/watch?v=dLzQNFCRMRI
+
 
 - Scrubbing brush (stiff-bristled)
 - Concrete Degreaser
@@ -101,7 +101,7 @@ Next, it is time for the second paint coat - make the second coat slightly thick
 roller
 this time around. Also, ensure to clean the tools using water plus detergent.
 Also, leave the fans running for faster drying and also remove any fumes sticking around in the room. Allow the paint to dry for roughly 24 to 48 hours to avoid paint smudging.
-https://www.youtube.com/watch?v=Q-bcclfTUA8
+
 ## **Should I Paint My Garage Floor?**
 So, if you're asking yourself if you should paint the garage floor, maybe you should (in the first place) protected the floor. So, the painting will protect objects and keep the garage clean.
 ### **1. Easy and Inexpensive**

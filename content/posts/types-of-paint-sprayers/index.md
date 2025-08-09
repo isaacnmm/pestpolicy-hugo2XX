@@ -35,7 +35,7 @@ painting kitchen cabinets
 , drawers, and complex interior sections.
 NB: Remember, the HVLP sprayer requires special handling (professional user) in order to prevent damage or total failure when wrong spray parameters are integrated.
 Before you make your purchase, its advisable to consider the operation mechanism that comes with a paint sprayer of your choice.
-https://www.youtube.com/watch?v=zYBIdm2waxk
+
 ### b. Airless Paint Sprayer
 Airless paint sprayers
 are specially designed to handle large and complex paint projects without much shifting when in action.
@@ -51,7 +51,7 @@ More so, an
 airless paint sprayer
 can push paint up to 20 meters (without getting fatigued) and covers a wide surface area within a very short time  this makes it more suitable for commercial use.
 Consider other factors like the cost, durability/material, design, net weight, availability of spare parts, ease to assemble, type of color handled, simple to clean, and portability without overlooking the overall quality.
-https://www.youtube.com/watch?v=A8V-ncMjmnw
+
 ### c. Handheld Paint Sprayer
 [A handheld paint sprayer](https://www.amazon.com/dp/B00ZLIV55A/?tag=p-policy-20)
 is a small, portable, and versatile device that is simple to use and more comfortable to move along when spray painting.
@@ -62,7 +62,7 @@ Normally, a handheld paint sprayer is fitted with a motor that generates torque 
 Indeed, a handheld paint sprayer is highly portable and lighter  some of these sprayers are cordless and can move along any surface without power cord interruption.
 As compared to airless paint sprayers, handheld paint sprayers are relatively cheaper and have low maintenance costs.
 However, the handheld paint sprayers are not suitable for large-scale or commercial paint applications.
-https://www.youtube.com/watch?v=Oy71bDlRpWU
+
 ### d. Conventional Compressor Sprayer
 As the name suggests, a
 [conventional compressor sprayer](https://www.amazon.com/dp/B001ASZJ8O/?tag=p-policy-20)
@@ -74,7 +74,7 @@ The conventional compressor (independent device) works excellently with a heavy-
 Conventional Compressor Sprayers are not common in home improvement (due to heavyweight and complexity) and require a professional operator when in use.
 Its also important to note that the conventional compressor sprayer is noisy (compressor noise) and a bit cumbersome when transporting.
 However, the sprayer offers smooth factory-grade delivery and comes with pressure adjustability to meet your spray demands.
-https://www.youtube.com/watch?v=JXcxMzaCem0
+
 ## Considerations for Buying a Paint Sprayer?
 Before ordering your paint sprayer, its advisable to consider some of the following factors in order to match your painting needs.
 ### 1. Cost

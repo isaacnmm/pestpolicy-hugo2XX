@@ -32,7 +32,7 @@ The i
 ndustrial products division produces a variety of electric, hydraulic, and pneumatic pumps to help you undertake highly demanding painting jobs with excellent finishing. These include pumps for airless or air-assisted paint or
 swing set stain
 sprayers.
-https://www.youtube.com/watch?v=A8V-ncMjmnw
+
 ## What's the Best Graco Airless Paint Sprayer?
 Most of they
 Graco's prayers, aimed for people pointing on large areas projects and similar indoor and outdoor and surfaces (including siding, barns, fences, and decks), are the airless models like

@@ -29,7 +29,7 @@ It has soft foam padding, a solid hardwood frame, and a long-lasting upholstery 
 Best Outdoor Rocking Chairs
 .
 Unique Features: Solid Hardwood Frame, Long-lasting Microfiber Upholstery, Added comfort with the Plush Padding, and Armrest with Cup Holder.
-https://www.youtube.com/watch?v=F9euNopUAE8
+
 
 Read Also:
 Blackout Curtains Reviewed
@@ -41,7 +41,7 @@ I will give you additional information, critical in making a purchase decision, 
 Best Ergonomic Sofa
 .
 The footrest will be slightly above your heel, and your arms will be at a perfect height to your elbows to increase comfort and allow you to relax.
-https://www.youtube.com/watch?v=i7vdGop1aa0
+
 
 Read Also:
 Bullet Journal Notebook

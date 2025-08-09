@@ -1,4 +1,4 @@
-ï»¿---
+---
 title: "Contact Us"
 date: '2025-07-10T00:00:00+00:00'
 layout: "single"
@@ -12,7 +12,7 @@ We'd love to hear from you! Please use the form below to send us your questions,
 <form name="contact" method="POST" data-netlify="true" netlify-honeypot="bot-field" class="contact-form">
     <input type="hidden" name="form-name" value="contact" />
     <p style="display:none;">
-        <label>Donâ€™t fill this out if youâ€™re human: <input name="bot-field" /></label>
+        <label>Don’t fill this out if you’re human: <input name="bot-field" /></label>
     </p>
 
     <div class="form-group">
@@ -42,3 +42,4 @@ If you prefer, you can also reach us directly:
 * **Email:** <a href="mailto:isaacnmm@gmail.com">isaacnmm@gmail.com</a>
 * **Phone:** +1 912-54-7642
 * **Address:** Federal Way
+

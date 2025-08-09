@@ -93,7 +93,7 @@ But this substance has some low toxicity on the human skin - and it might be cor
 Boric acid will ease or heal breakouts related to bacteria (
 *Propionibacterium acnes*
 ) thanks to its antibacterial properties. But it's outlawed in many places as it may also irritate the skin.
-https://www.youtube.com/watch?v=gfVGV9aIS0Y
+
 But is boric acid safe for pimples? Well, yes boric acid has antibacterial properties that'll treat acne but also prevent athlete's foot - if the powder is inserted in your stockings or socks.
 Will the boric acid be safe for the face? Boric acid and borax will irritate the skin mildly but it's very corrosive to the eyes or when eaten.
 ### 5. Prevent Athletes Foot

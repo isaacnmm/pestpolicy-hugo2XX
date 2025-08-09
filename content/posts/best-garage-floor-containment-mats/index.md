@@ -39,7 +39,7 @@ Pros:
 Cons:
 - It is stiff
 
-https://www.youtube.com/watch?v=Whj-Oy7q2S0
+
 > See Also:
 > [Paint for Metal Garage Door](https://pestpolicy.com/best-paint-for-metal-garage-door/)
 ### [2. Rubber-Cal 03_167_W_FR_15 Corrugated Rubber Floor Mats](https://www.amazon.com/dp/B004N28O3G/?tag=p-policy-20)
@@ -60,7 +60,7 @@ Pros:
 Cons:
 - Produces a strong odor
 
-https://www.youtube.com/watch?v=V4HiJ1dkfpI
+
 > See Also:
 > Granite Sealer ed
 ### [3. Delooant Parking Garage & Shop Floor Mats](https://www.amazon.com/dp/B07Q7W27ML/?tag=p-policy-20)

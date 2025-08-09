@@ -25,7 +25,7 @@ The metal swing set will be safer as compared to the wooden options, as the kids
 Stain For Cedar Swing Set
 .
 The heavy-duty swing set has belt swings and trapeze bar having gym rings. Also, do not worry about your kids pinching their fingers as the Monkey Bar swing set comes with rubber grips on the swings.
-https://www.youtube.com/watch?v=TZABHu81Yfo
+
 Also, the swings are securely secured using the chain clips at the top of the frame. You kids will love the monkey bars as they will allow have an unending adventure.
 The swing set has passed the safety standard requirements. Therefore, the set lacks any hard edges and its chains are covered and rounded to avoid pinching or scratching.
 Further, the swing set is UV-protected and thus you dont have to worry about fading, staining, or losing color. Read Also:

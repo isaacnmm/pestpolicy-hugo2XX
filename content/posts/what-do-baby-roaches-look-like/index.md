@@ -44,7 +44,7 @@ On the shape, baby roaches have a flat body that's also oval in shape - further,
 Adult female cockroaches will lay their eggs as ootheca - which has about 10 to 50 eggs - this varies with the roach species under consideration.
 Roach ootheca is an egg encasement (for between 10 to 50 eggs) seen in insects like mantises and roaches.
 Therefore, the roach eggs will be protected in their initial stages, and hence thorough control methods must be used against the roach nymphs.
-https://www.youtube.com/watch?v=5P7CB4oIZKo
+
 ## How to Identify Cockroach Eggs
 Baby
 [roaches are evidence that you've some roach nests](https://pestpolicy.com/how-to-find-a-roach-nest/)
@@ -72,7 +72,7 @@ Like other roaches, the German cockroaches also carry their ootheca (having abou
 German
 [roach eggs will take about 3 months](https://pestpolicy.com/combat-max-12-month-roach-killing-bait-review/)
 to hatch and molt from the egg stage to full adults.
-https://www.youtube.com/watch?v=vb5FqcTrFKY
+
 The female adults will also "lay" their oothecae measures about 9 mm in length by 6 mm in width - the egg encasement is brown-colored.
 - Each of these encasements will contain roughly 50 eggs. Further, their reproduction rate is thus fast.
 - However, the American roach nymphs lack wings, while their wing pads will only be seen clearly during the 3rd and 4th instar.

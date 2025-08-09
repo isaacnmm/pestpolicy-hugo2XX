@@ -28,7 +28,7 @@ If you suspect you have lizards in the house check for black pellet-like droppin
 The droppings might be tapered or rounded at the ends and their size varies with the species and size of lizards. Normally, wild lizards have bigger droppings compared to urban lizards.
 ### 3. Color
 Lizard poop can be easily be confused with poop from snakes, birds or rodents. Similar to lizards these pests, poop and pee through the same opening. Thus, their droppings contain solid matter and solid uric acid. However, the white cap in birds and snake poop covers a larger portion and tend to be more liquid.
-https://www.youtube.com/watch?v=wUYQ2o0A7kk
+
 Related:
 Are Leopard Geckos Nocturnal?
 ### **Where Do Lizards Poop?**

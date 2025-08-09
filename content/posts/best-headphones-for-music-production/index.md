@@ -33,7 +33,7 @@ However, it has a solidly built design that speaks to Sennheiser's excellent sen
 First, I like the Sennheiser HD 650's rich, powerful sound that has a great sense of authority  particularly in the bass. Also, the treble is smooth, but it's textured  but it's still well extended. This pair is great for intermediate to pro audio engineers. I feel that the HD 650 is even better for having a tighter sound and warmer tone - thus, the soundstage will come out a little more intimate and compressed.
 Some music producers claim that the HD 650 is veiled or slow - but, I don't agree with this. It'll not scratch the inner of your eardrum with trebles like the AKG or Bayer dynamic DT 880.
 Though, considering resolution and tightness, the HD 650 ranks up there with other premium headphones. It's apparent direct detail and resolution is lower since the treble seems to take a backseat in the sound mix. But, the HD 650 has superior technical capability.
-https://www.youtube.com/watch?v=y1l9Zej7UnY
+
 Read Also:
 Noise Cancelling Headphones Under 150
 ### [2. Beyerdynamic DT 770 PRO 80 Ohm Headphone - #2 Pick](https://www.amazon.com/dp/B0016MNAAI/?tag=p-policy-20)
@@ -45,7 +45,7 @@ If you don't mind the low-end frequencies, you'll find the boosted bass great fo
 I score these headphones highly for comfort  with its pillow and soft velour pads, which will have minimal pressure around your head and thus will work great for extended hours of music production. Despite not being highly portable, compared to smoothing like the ATH-M50x, the DT 770 Pro has a rugged aesthetic look.
 It has a precise, extended and punchy Bass (I believe they are bass-light), but also profoundly relaxed. Its bass response is more on the frequencies of the sub-bass and not mid-bass.
 Maybe you already know that the regular headphones require some mid-bass hump to produce acceptable bass  but the DT 770 Pro doesn't. To create a neutral and amazing studio-style sound w with its detailed highs, full sound stage, and deep natural bass.
-https://www.youtube.com/watch?v=lAv6fcfslCY
+
 Read Also:
 Earbuds Under 50
 ### [3. Audio-Technica ATH-M50x Studio Headphones](https://www.amazon.com/dp/B00HVLUR86/?tag=p-policy-20)

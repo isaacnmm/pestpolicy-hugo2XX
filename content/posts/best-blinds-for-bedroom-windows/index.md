@@ -99,14 +99,14 @@ Roller Blinds have a rolling mechanism with a control cord, and their fabric wil
 - Notably, I found Roller Blinds to be trendy and easy to install. Further, the blinds will come in varied colors and floral designs.
 To achieve excellent decor, utilize a bed throw of s similar color as the Bedroom Window Blinds. Also, you can have some scatter cushions to take care of the decor.
 *Here's how to install roller blinds*
-https://www.youtube.com/watch?v=j6DBMn0OQm0
+
 ### 2. Vertical blinds
 Vertical bedroom blinds will be great for sliding or glass openings such as doors and windows.
 - You'll notice that the vertical blinds are also stylish, just like the roller blinds, only that they are cheaper.
 Further, the Vertical blinds will work well in your patio or large windows (about
 5m by 5m
 ). I love them for their ease of installation and maintenance, mainly cleaning.
-https://www.youtube.com/watch?v=0ZPTUdG58Co
+
 ### 3. Wooden Blinds
 Wooden blinds are right, but not perfect, in blocking light going through your bedroom window.
 - However, the wooden blinds will only allow limited light to leak through the edges of the wood.
@@ -120,7 +120,7 @@ On the other hand, roman blinds are made of fabric and will give you more privac
 - Further, you can hunch the roman blinds to the top of the window to allow a better outer view.
 Luckily, the roman blinds will come in different colors and prints and will add style to your room.
 ## Considerations in the Best Blinds for Bedroom Windows
-https://www.youtube.com/watch?v=1Ks6rmFFk3o
+
 ### Personal Decor taste
 The first consideration to make on the bedroom blinds will be your taste for decor.
 - For example, do you have a chic, cause, or formal decor style?

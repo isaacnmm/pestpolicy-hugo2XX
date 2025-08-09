@@ -25,7 +25,7 @@ These options are even safe for use on horse gear and around other animals like 
 - **Sweat-Resistant:**RepeLock technology ensures it stays on even when your horse sweats.
 - **Sun Protection:**Contains sunscreen to shield your horse from harmful UV rays.
 - **Easy Application:**Continuous spray feature for even coverage.
-https://www.youtube.com/watch?v=h-0uvyNUVL8
+
 **Benefits:**
 - Long-lasting protection, even in wet conditions.
 - Provides additional sun protection for your horse.

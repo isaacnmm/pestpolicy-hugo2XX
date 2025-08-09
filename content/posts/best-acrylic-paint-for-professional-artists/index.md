@@ -74,7 +74,7 @@ Pros:
 Cons:
 - Costly
 
-https://www.youtube.com/watch?v=9Lv5lEAsoe8
+
 
 See Also:
 Antifouling Paint for Fiberglass
@@ -104,7 +104,7 @@ Pros:
 Cons:
 - Small-sized tubes not suitable for large artistic projects
 
-https://www.youtube.com/watch?v=gERTdbnC6dU
+
 ### [5. Winsor and Newton 2190517 Artists/ Galeria Acrylic Paint](https://www.amazon.com/dp/B00004THXG/?tag=p-policy-20)
 Winsor and Newton 2190517 are great for advanced or beginner artists since they're great-qua;lity and affordable. Further, the company is regularly improving and upgrading the paint features.
 

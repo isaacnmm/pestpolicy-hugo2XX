@@ -45,7 +45,7 @@ If you are a professional or a DIYer, there is a need to know more about what th
 This review will give you an elaborate guide to help you understand what it is you are dealing with and what is its limits.
 This sprayer comprises 3 main components that work differently but altogether enhance its performance.
 These components include X-Boost Turbine and 2 nozzles; ispray and a detail finish nozzle.
-https://www.youtube.com/watch?v=1q6YZsK4je8
+
 #### 1.1. X-BOOST TURBINE
 The X-Boost turbine is specially designed for this sprayer to generate pressure and create paint flow from the in-built motor. This is a great enabler of the many benefits found in this sprayer.
 The turbine is electric powered and can be used both indoors and outdoors. By default, the sprayer flow is set to the maximum but can be adjusted based on the kind of paint that you are using and also the kind of project that you are undertaking.

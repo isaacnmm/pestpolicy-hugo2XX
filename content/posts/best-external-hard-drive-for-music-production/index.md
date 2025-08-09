@@ -48,7 +48,7 @@ Pros:
 Cons:
 - None
 
-https://www.youtube.com/watch?v=QHgxrepWHRE
+
 Related:
 [Best USB Hub for iMac](https://pestpolicy.com/best-usb-hub-for-imac/)
 .
@@ -72,7 +72,7 @@ Pros:
 Cons:
 - Costly
 
-https://www.youtube.com/watch?v=1alJ3Fh_6Pw
+
 Related:
 How to Record a Song on Mac
 .

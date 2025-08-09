@@ -30,7 +30,7 @@ The Polyphonic Mode of this tool allows octaves to be synthesized while playing 
 This pedal produces single notes octave up and two octaves down when using the guitar. However, going very low while on the bass doesnt bring positive results, so its best to maintain an upward position.
 If you maintain the pitch up, the synthesized sound quality stays strong, clear, and balanced giving the bass prominence, hence improved overall sound.
 An octave pedal is a powerful tool and can add a whole lot of difference in your music by improving your tone and pitch signals. With that said, lets review some of the best bass octave pedals in the market today.
-https://www.youtube.com/watch?v=r6vUOgN0Haw
+
 ### **2. MXR M288 Bass Octave Pedal Deluxe - Runner-up **
 The M288 Bass pedal is one of the simplest, but highly effective pedals for bassists who are craving for a new experience. The tool is very easy to operate as it has only three control knobs.
 

@@ -59,7 +59,7 @@ Pros:
 Cons:
 - Must be used with preamp and XLR cable
 
-https://www.youtube.com/watch?v=APBcODtbGqc&vl=en
+
 Related:
 9 Best Camera for YouTube
 ### [**3. Rode NT1-A Instrument Cardioid Mic**](https://www.amazon.com/dp/B002QAUOKS/?tag=p-policy-20)

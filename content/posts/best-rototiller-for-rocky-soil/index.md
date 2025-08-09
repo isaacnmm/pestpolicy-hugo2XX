@@ -41,7 +41,7 @@ Pros:
 Cons:
 - Expensive
 
-https://www.youtube.com/watch?v=kNdh8VC-DCI
+
 ### [2. Greenworks 10-Inch 8 Amp Corded Tiller 27072](https://www.amazon.com/dp/B00D3KJN3O/?tag=p-policy-20)
 The corded tiller comes with a sturdy structure measuring 33x15x15 inches and weighing 29.3 pounds. Since it's foldable, it becomes compact hence occupying a smaller space.
 
@@ -63,7 +63,7 @@ Pros:
 Cons:
 - Light
 
-https://www.youtube.com/watch?v=GUVyO7eEWZs
+
 ### [3. Earthquake 20015 Versa FTT Rototiller](https://www.amazon.com/dp/B01AS01FQE/?tag=p-policy-20)
 The front tine tiller has an excellent structure measuring 51.2x35x24 inches. It weighs a paltry 85 pounds making it easy to operate. Its foldability makes it compact for secure storage.
 

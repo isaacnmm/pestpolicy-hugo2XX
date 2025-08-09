@@ -33,7 +33,7 @@ With the one-button mic or remote, you readily access the voice assistant, phone
 With its deep bass, this earbud will be great for listening to hip-hop, rock, and pop music.
 I also loved its lightweight design and the overall aluminum housing - which is aesthetically amazing.
 I noted that the earbuds fat low end made the rock music choruses to be highly meaty and lush. However, this JBL Live 100 lacks volume control, but for its price range, I love it.
-https://www.youtube.com/watch?v=pxTSXaZ7Nlk&feature=youtu.be
+
 
 Read Also:
 Point and Shoot Camera Under 100
@@ -55,7 +55,7 @@ Pros:
 Cons:
 - No microphone
 
-https://www.youtube.com/watch?v=yJeshFnNIhs
+
 
 Read Also:
 Camera for Beginner Filmmaker
@@ -80,7 +80,7 @@ Pros:
 Cons:
 - Battery life isnt impressive
 
-https://www.youtube.com/watch?v=YmnWy-AyimU
+
 
 Read Also:
 Camera for Music Videos
@@ -132,7 +132,7 @@ Further, the SoundMagic E10 provides enough bass response and noise isolation. A
 It has some extended bass, and they tremble  with an active bass that easily handles complex music track mix. However, note that these earbuds are not the
 [Noise Cancelling Headphones Under $200](https://pestpolicy.com/best-noise-cancelling-headphones-under-200/)
 .
-https://www.youtube.com/watch?v=skN4yheE5_E
+
 
 Read Also:
 Compact Cameras under 300

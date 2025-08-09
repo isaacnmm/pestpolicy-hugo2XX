@@ -51,7 +51,7 @@ Bleach's strong smell deters spiders from treated areas, much like
 
 In summary, bleach can be a potent spider control solution but should be used carefully, considering its potential side effects.
 
-https://www.youtube.com/watch?v=mgb3moUKc3c
+
 ## **How to Use Bleach to Get Rid of Spiders at Home**
 With nearly 40,000 spider species out there, it's not uncommon to find them in your bathroom. Luckily, you can use bleach to eliminate them due to its acetic acid properties. Here's what you'll need:
 **Materials:**
@@ -79,7 +79,7 @@ Yes, bleach is effective in killing not only spiders but also their eggs. The bl
 - Seal airtight containers holding food items before using bleach to prevent fumes from contaminating them.
 By following these steps and precautions, you can effectively use bleach to deal with spiders and their eggs in your home.
 
-https://www.youtube.com/watch?v=QNHaiZsKKxY&feature=youtu.be
+
 ## FAQs About Using Bleach to Kill Spiders
 ### 1. How quickly does bleach kill spiders?
 Bleach takes 10 minutes to 2 hours to kill spiders, depending on their size and bleach concentration. Smaller spiders may die in minutes, while larger ones require more time. Increasing bleach concentration can speed up the process.

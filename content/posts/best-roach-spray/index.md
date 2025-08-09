@@ -53,7 +53,7 @@ Cons:
 
 Read Also:
 Can Bed Bugs Get in Your Hair?
-https://www.youtube.com/watch?v=VElGpyMG5TE
+
 ### [2. Raid Max Cockroach Spray - # 2 Pick](https://www.amazon.com/dp/B003AOA3HS/?tag=p-policy-20)
 Raid Max is our top cockroach spray. The effective formula in Raid spray pesticide is the synthetic pyrethroids, which affect the cockroach nervous system  this helps kill intrusion of cockroaches on contact.
 
@@ -83,7 +83,7 @@ Cons:
 - Highly Flammable.
 - Has Poisonous chemical that may affect pets and kids.
 
-https://www.youtube.com/watch?v=YYKu68zDIZA
+
 Read Also:
 Does Steam Kill Bed Bugs?
 ### [3. Wondercide Natural Indoor Pest Control Spray](https://www.amazon.com/dp/B0764VD7ZW/?tag=p-policy-20)

@@ -57,7 +57,7 @@ For utmost ease, opt for a pedal-operated tractoryou be in charge of the speed a
 - I dont discredit manual transmissions at all.
 - They still offer the best option for budget-conscious consumers and the most experienced riders.
 They are ideal for tackling huge yards which are relatively flat with little to no obstacles.
-https://www.youtube.com/watch?v=J8TIvCYLJIg
+
 # Purchasing Your Riding Lawn Mower
 Now you know how to choose the best riding lawn mower for your garden.
 - You are definitely ready and certain with the type which addresses your gardening needs, right?

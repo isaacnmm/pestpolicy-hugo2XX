@@ -47,7 +47,7 @@ The below-laid procedure helps significantly in the successful painting of fiber
 11. Wet the painted area to keep off dust and ensure you carry the painting process with 54F to 77F temperature range. The humidity shouldnt exceed 81% to improve the drying process.
 12. Leave the painted fiberglass boat to drive for 24 to 48 hours. Do not test the boat until two weeks are over. This time allows the hull to harden and gain extra toughness that is water-resistant.
 NB: Avoid sanding the final finish. When painting the hull interior, clear all other items and fill the leak points before paint application. Importantly, you should remove interior masking after complete paint curing has taken place.
-https://www.youtube.com/watch?v=Eh40uZ0EdFM
+
 See Also:
 Latex Vs Acrylic Paint
 ### c. Paint selection

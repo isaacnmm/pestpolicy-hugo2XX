@@ -71,7 +71,7 @@ Female fleas can lay as many as 30-50 eggs a day by the time they reach maturity
 
 Therefore, to control this massive reproduction, you must be vigilant about infestation symptoms.Below is a video describing what you should look for if you suspect your cat has fleas.
 
-https://www.youtube.com/watch?v=Qc15EPS6iUk
+
 ### Sign 1 - Anemia and Itchy Bites
 Fleas are highly irritating, and many pets have little tolerance when it comes to biting at their fur in order to relieve the itch.
 - If your cat or dog is scratching itself excessively or licking its coat for a long time, it may have fleas on them.

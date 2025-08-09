@@ -42,7 +42,7 @@ Pros
 - Has a long-lasting control
 Cons
 - You have to keep on applying after some days
-https://www.youtube.com/watch?v=wV3xLIpWlQo
+
 Related:
 What Is A Hobo Spider?
 ### [2. Harris Spider Killer, 32oz](https://www.amazon.com/dp/B00E8LBRVI/?tag=p-policy-20)

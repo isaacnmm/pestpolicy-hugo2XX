@@ -40,7 +40,7 @@ Avoid pouring the rubbing alcohol on the cat's or dog's skin in an effort to exa
 
 However, it is critical to realize that some commercial flea killers also have a little percentage of alcohol. Therefore, over-spraying with such alcohol-
 containing products may lead to pet poisoning too.
-https://www.youtube.com/watch?v=e83meDz9Kjc
+
 In addition, ingesting the rubbing alcohol could also be toxic to the cat or dog. You'll not the poisoning within 1/2 an hour after ingesting - under5take emergency treatment to avoid fatal outcomes.
 The
 [ASPCA](https://www.aspcapro.org/resource/top-10-animal-toxins-2017)

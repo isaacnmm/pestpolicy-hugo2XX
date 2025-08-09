@@ -42,7 +42,7 @@ latex paint sprayers
 as you swap from solvent-based or water-based products.
 To enhance the drying process, wipe the wood surfaces using acetone juts before applying the finish or glue. Allow the solvent to evaporate, but don't leave it long for the oil to settle on the wood.
 Further, as a miscible solvent (mineral spirits), acetone will enhance the cleaning process of oil-glaze, oil-stain, and varnish brushes before washing using water and soap.
-https://www.youtube.com/watch?v=G_CAjLGLT3g
+
 ### 3. Acetone as an Excellent Solvent
 Mineral spirits (the residue ones) will make washing more challenging. Acetone will remove these mineral spirits and will dry fast when you shake or skin the paintbrush.
 Since Acetone is a powerful solvent, it'll be effective in removing stickers and masking tape that'll be stuck on the finish and those that prove difficult to remove.

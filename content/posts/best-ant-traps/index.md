@@ -42,10 +42,10 @@ Carpenter bee traps
 .
 ## [2. #2 Pick: Home-Plus (Metallic) Outdoor & Indoor Bait Station](https://www.amazon.com/dp/B08FF31QN4/?tag=p-policy-20)
 
-https://www.youtube.com/watch?v=wv5PB5S7iTI
+
 ## [3. #3 Pick: TERRO-T1806SR Outdoor Liquid Ant Baits](https://www.amazon.com/dp/B07Q7D2L3T/?tag=p-policy-20)
 
-https://www.youtube.com/watch?v=YtzqnK3CqDs
+
 ## [4. Enforcer AntMax Bait Station - EAMBS4](https://www.amazon.com/dp/B000BQWJ3Y/?tag=p-policy-20)
 
 The Enforcer EAMBS6 is a powerful ant trap that eliminates a wide variety of household ants. Available in 4 bait packs, this ant trap wipes out the Queen and the entire colony.

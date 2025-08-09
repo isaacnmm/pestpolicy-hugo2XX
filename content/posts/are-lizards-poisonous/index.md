@@ -56,7 +56,7 @@ blue tailed lizards are venomous
 
 Similar to Gila, this lizard bites it prey and holds on it with its powerful jaws before paralyzing it with its venom. For humans, the bite is only painful but it wont cause death.
 
-https://www.youtube.com/watch?v=Gq8bD0y2M3s
+
 **3. Iguana**
 These are large lizards stretching to about 6.6 feet long. The most common is the green iguana usually found in Brazil and Mexico. They mainly inhabit arid areas, tree and the edges of water bodies.
 

@@ -47,7 +47,7 @@ Cons:
 - Comes in limited colors  its grey.
 - The package could be more for commercial application
 
-https://www.youtube.com/watch?v=vK3cHQGYGtg
+
 > See Also:
 > Best Paints for your Fence
 ### [2. Retique It Chalk Furniture Paint](https://www.amazon.com/dp/B079QVWTVZ/?tag=p-policy-20)
@@ -79,7 +79,7 @@ Cons:
 - Unsuitable for large scale painting
 - Not suitable for wet cabinet material
 
-https://www.youtube.com/watch?v=Fpz7e38B8hw
+
 ### [3. INSL-X CC550109A-01 Cabinet](https://www.amazon.com/dp/B07KXLPCG1/?tag=p-policy-20)
 INSL-X is a urethane acrylic satin specially manufactured to deliver a factory smooth finish on your primary cabinet material.
 
@@ -162,7 +162,7 @@ Cons:
 - Not for extensive scale application  946ml can
 - May need an extra coat  primer formula
 
-https://www.youtube.com/watch?v=r_jv9hub5j4&feature=youtu.be
+
 ### [6. RUST-OLEUM 258242 Base Cabinet Transformations Kit](https://www.amazon.com/dp/B004QECDVA/?tag=p-policy-20)
 Rust-Oleum features a dark tint base that coats the cabinet primary material firmly without peeling.
 

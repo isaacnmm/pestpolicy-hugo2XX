@@ -33,7 +33,7 @@ With HallEffect AccuRate (H.E.A.R.T.) with 3D magnetic sensors technology, the j
 Power Supply for Raspberry Pi
 .
 Also, the spring systems will help you remain steady. However, if you need to play arcade shooters through fast activating twitch triggers and buttons, then the Warthog metal trigger could feel heavy and will have a long travel distance and thus can be too slow in comparison to others like the aviator.
-https://www.youtube.com/watch?v=9zUkHNb_-Fw
+
 ### [2. Thrustmaster T.Flight Hotas X - Budget Joystick - #2 Pick](https://www.amazon.com/dp/B001CXYMFS/?tag=p-policy-20)
 T-Flight H.O.T.A.S. X comes with detachable throttle control and a cozy wrist rest. It has a detachable throttle, a hat switch, and can move on the z-axis.
 - I consider the joystick as a great competitor in the elite dangerous gaming due to its five programmable axles and twelve buttons.
@@ -53,7 +53,7 @@ The joystick has a somewhat edgy design, for its price, despite being entirely c
 - With its weighted base, the stick will feel sturdy and friendly. Although it has a plastic build, the stick is reliable and durable.
 It offers excellently accurate gaming in games such as Elite Dangerous.Through its excellent control, dual-system aerodynamic, you can tilt the lever or rotating handle for total practicality.
 Pros: Adaptable resistance in the elite dangerous joystick, You can save button programming and configurations in its available Internal memory and Many buttons and great build.
-https://www.youtube.com/watch?v=TM4w0n4VdoU
+
 ### [3. Extreme 3D Pro Joystick for Windows - #3 Pick](https://www.amazon.com/dp/B00009OY9U/?tag=p-policy-20)
 Logitech Extreme 3D Pro is a strong and easy USB joystick that you wont have special connections to play your favorite game.
 It has the essential joystick features, which include an eight-way hat switch (top), 11 buttons, a rudder stick twist, 4 control axis, and a trigger (front).
@@ -81,7 +81,7 @@ The stick's lighted buttons will enable you to know the point to press quickly. 
 Further, the device will allow increased X-Y control through the use of non-contact technology. Compatible with: War Thunder, Star Citizen, Rise of Flight, and Elite: Dangerous.
 One challenge I identified with the Saitek X52 Pro is that the sticky is adequately grippy, and it has a twist functionality to actuate the rudder  a 3D Twist Rudder Control.
 Therefore, when you are twisting the stick, you'll need to clamp down using a lot of strength. However, you can use grip tape to solve this problem permanently.
-https://www.youtube.com/watch?v=nNj4ryd3kn4
+
 ### [5. Thrustmaster T.16000M FCS HOTAS](https://www.amazon.com/dp/B01KCHPRXA/?tag=p-policy-20)
 Thrustmaster T.16000M FCS HOTAS is my top elite dangerous joystick.
 It features T.W.C.S. and the H.E.A.R.T. magnetic precision technology with the characteristic ambidextrous use, which will make your gaming more realistic and have surgical precision.
@@ -102,7 +102,7 @@ Leather Sectional Sofa
 For example, the stick feels more solid, and its buttons have Braille-style markings for Elite Dangerous and can thus be readily identified.
 - Also,*T.16000M FCS HOTAS *has changed to an orange color theme with orange and black detailing.
 The plastic used is much thinner and the construction lighter. The stick's single-stage trigger was light and had a sharp and astonishing activation.
-https://www.youtube.com/watch?v=HD3WcCWRhwI
+
 ## Conclusion
 No other joystick has so many hats & buttons, a sturdy build, and is easy to customize. Read Also:
 Recliners for Sleeping

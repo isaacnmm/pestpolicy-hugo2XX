@@ -25,7 +25,7 @@ will cause a scare in your home and
 yard - but you can control these bugs
 . Equally important is that fleas will be challenging to track them down and maintain too.
 *In Summary, fleas are mainly ectoparasites & live on pet hosts where they'll suck blood, fleas mate, and ultimately lay eggs. They'll live on the pet hosts and wildlife up-to when they're brushed off, fall off or die.*
-https://www.youtube.com/watch?v=g6vMqrhltxQ
+
 See top quality flea sprays.
 
 ## Details: Where Do Fleas Live? 7 Common Hiding Places?
@@ -76,7 +76,7 @@ hiding space for fleas
 purchase the best dog beds
 - as this will allow the dog to sleep on their own.
 Further, you'll need to clean the pet bedding for the pest-infested pets, plus check the crevices and cracks that'll be around your house.
-https://www.youtube.com/watch?v=fxL9MGvMS6Q
+
 ## 3. Where Do FleasLive in Carpet?
 **Carpet**
 - How long will
@@ -118,7 +118,7 @@ by controlling or killing adults, pupae, larvae, and flea eggs.
 Flea may live on the pet's body for days since they provide a suitable blood meal. But
 fleas will bite the human's
 lower extremities, particularly the ankles and ankles - bites may lead to allergies.
-https://www.youtube.com/watch?v=Y1-tCT9n4I0&t=23s
+
 ## Conclusion
 So, it's clear that
 [fleas will live](https://pestpolicy.com/can-fleas-live-in-human-hair/)

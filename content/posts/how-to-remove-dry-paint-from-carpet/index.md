@@ -64,7 +64,7 @@ Hairspray generates heat that quenches the dried paint and hence making it more 
 NB: Be careful when using the Hairspray in order not to damage your carpet during the paint removal process.
 > See Also:
 > Removing Tile Backsplash
-https://www.youtube.com/watch?v=gzsbEtk-F-A
+
 ### Method 3: Using Denatured Alcohol or Isopropyl alcohol
 Denatured/Rubbing alcohol features a strong chemical formulation that breaks paint molecules instantly upon application.
 Moreover, denatured alcohol can either be used when cleaning both water-based and oil-based paint. The tools and materials required;

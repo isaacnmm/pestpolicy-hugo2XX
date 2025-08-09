@@ -29,7 +29,7 @@ Some acrylic paints are slightly mixed with latex base compound to improve surfa
 Acrylic paint wont irritate your skin upon contact; however, the smell associated with thinned paint may upset your respiratory system.
 > See Also:
 > Sprayer for Latex Paint
-https://www.youtube.com/watch?v=NLjckUn595c
+
 ### b. Coat strength
 Acrylic paint should be thinned appropriately before applications (as per the manufacturers guidelines). In this case, you will boost coat strength and stickiness on a given metal surface.
 Prime the surface before first coat application is crucial as it assists in stickiness boost and peel elimination. Usually, acrylic paint sticks firmly on a well-polished surface on a single coat application.

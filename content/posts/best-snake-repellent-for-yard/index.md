@@ -41,7 +41,7 @@ Pros:
 Cons:
 - Relatively pricey
 
-https://www.youtube.com/watch?v=46r96qzSaak
+
 ### 2.[Havahart 6400 Shield Reptile Snake Repellent - Runners-Up](https://www.amazon.com/dp/B00PK3CYKQ/?tag=p-policy-20)
 This is one of the most effective granular shake repellents. From most dealers, you will get it in 4-pound gabs.
 

@@ -26,13 +26,13 @@ What's the [best electronic flea comb?](https://pestpolicy.com/best-electronic-f
 ## [1. Our #1 Pick:Hartz Dematting & Detangling Dogs' Flea Comb](https://www.amazon.com/dp/B0055BNET8/?tag=p-policy-20)
 
 
-https://www.youtube.com/watch?v=6XvdJd5joI0
+
 ## [2. #2 Pick:GNAWRISHING Effective, Stain Remover & Durable Comb](https://www.amazon.com/dp/B07SHGK4M5/?tag=p-policy-20)
 
-https://www.youtube.com/watch?v=F_RCtuJSark
+
 ## [3. #3 Pick:Magic-Coat CONTOURED GRIP & Professional, COMPACT Comb](https://www.amazon.com/dp/B00K6ZR6DI/?tag=p-policy-20)
 
-https://www.youtube.com/watch?v=6TsbAaJL_xc
+
 ## **4. Wahl Pet 2 In 1 Home Flea Comb
 **
 

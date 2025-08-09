@@ -52,7 +52,7 @@ You can use this
 
 [water drop test](https://www.science.gov/topicpages/w/water+drop+tests)
  to make sure you get a clean concrete surface - this will simply require that you put some water on the concrete floor.
-https://www.youtube.com/watch?v=iPWr66TLUac
+
 ### Step #3 -Apply Paint Stripper
 As we've noted above, cleaning the concrete surface - removing dirt and debris with the contractors broom. You can also use a soap-water solution (mild) for removing all soil.
 Though, if you're dealing with paint stains on your patio, driveway, or garage - get yourself some effective paint stripper. But first, allow the surface to dry fully.
@@ -109,7 +109,7 @@ Biodegradable, substrate, and user-safe.
 These s
 oy-based cleaners are eco-friendly and innovative for the removal of paint on lead encapsulating, lead abatement, graffiti
 removal, and masonry or stone care.
-https://www.youtube.com/watch?v=gIz60agJwd0
+
 ## Method #4 - For Large Areas
 ### Step #1 - S**oda blasting**
 **a.**

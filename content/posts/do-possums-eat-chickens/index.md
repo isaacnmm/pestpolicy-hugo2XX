@@ -29,7 +29,7 @@ As noted above, possums and opossums will attack and eat your chickens. So, YES,
 The omnivore animals largely eat and prey on small invertebrates - but if they are occupying the backyard gardens, the possums could hunt your chickens and eggs too -
 [but the possums won't eat the cats](https://pestpolicy.com/do-possums-eat-cats/)
 or dogs.
-https://www.youtube.com/watch?v=HjSg16J1wyo
+
 ## Do Possums Steal and Eat Chicken Eggs?
 Ye
 s, possums that will manage to sneak into the chicken coop will (or come across eggs) will eat the chicken eggs - but they'll also prey on adult chickens.
@@ -72,7 +72,7 @@ garden or yard. Notably, the fresh urine will be bacteria-free and clean.
 Possum traps will also be a great addition to the feature in reducing chicken death and disappearance. Set up this device on areas you suspect possum frequent.
 - Some baits suitable for the possum trap includeapples, peanut butter, vegetables, berries, and fruit.
 But remove these traps around the morning time to prevent catching other small pets or even your chickens.
-https://www.youtube.com/watch?v=GQcqgdEfsyQ
+
 **7. Fencing**
 Fencing around that yard or garden will also hinder possums from reaching your chicken.
 - Definitely, their strong teeth won't tear down that fence - but avoid chicken wires as they're too weak.

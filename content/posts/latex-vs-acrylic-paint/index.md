@@ -44,7 +44,7 @@ Furthermore, latex paint has weak stickiness ability on some material surfaces s
 [your latex paint](https://pestpolicy.com/what-is-latex-paint-used-for/)
 needs frequent coat application to maintain its aesthetic appearance.
 Remember, acrylic paint is waterproof/resistant, while latex paint is highly washed away by water contact, thus bleaching the area undercover.
-https://www.youtube.com/watch?v=DAVXcZXxKcE
+
 ### d. Removal mechanism
 Latex paint is more comfortable to remove than acrylic paint. Indeed, latex paint can easily be washed out with water and soapy detergents, while acrylic paint needs thinning or scrapping before the cleaning process.
 Besides, acrylic paint irritates the skin upon contact, while latex paint does not. You may get choke when you inhale latex paint fumes during paint removal, unlike latex paint that is less irritant.

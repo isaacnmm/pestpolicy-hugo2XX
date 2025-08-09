@@ -43,7 +43,7 @@ Since installing the bird tape around your entire pond may be a bit costly, you 
 - To erect a partial fence, youll need to identify the spot that is most invaded by the birds and set up the fence there.
 - Such spots are normally easy to notice should you observe the birds on two or three occasions.
 In most cases, you will realize the geese prefer to land somewhere around the middle and proceed to seek shelter in one side of the pond or lawn  mostly the side free of human interaction.
-https://www.youtube.com/watch?v=t9N_54V-370
+
 ### c. Use of Liquid Goose Repellents
 Consider spraying liquid repellents on pond grass where geese land to feed.
 Usually, most liquid geese repellents are made from organic food-grade ingredients, and hence are safe for humans.
@@ -79,7 +79,7 @@ Once you have them in sight, hop onto your ATV and race faster towards where you
 If you have a dog as well as an ATV, then you can pair the two methods for a more rapid and permanent solution.
 Actually, the ATV or four-wheeler will help the dog quickly attain speed, and since the dog is trained, it will keep on chasing the geese in days to come.
 ATV or four-wheeler is considered as a short-term intervention method.
-https://www.youtube.com/watch?v=3_Clfx3rQ2w
+
 ### g. Lay down Geese Traps
 Before saying much about this technique of handling, trapping, or disturbing geese, it is important to note that many states cover the birds against illegal hunting or use of lethal and non-lethal force against them.
 - One of the common geese traps is the drop net trap, which is basically a set of four posts supporting a net over them.

@@ -28,7 +28,7 @@ This has been made possible by the comprehensive staff training that Orkin offer
 - The best [exterminators](https://pestpolicy.com/affordable-pest-llc-review/) under Orkin boast of 150 + hours of [pest](https://pestpolicy.com/american-pest-review/) control training that is super targeted.
 The effectiveness, Orkin reports that it has been hired by 1.7 + million commercial and residential clients all over the world.
 So, my conclusion is that Orkin is among the most tenured and cognizable exterminators globally.
-https://www.youtube.com/watch?v=rYS9BOjY9cY&t=2s
+
 ## Facts about pest control by Orkin
 P
 **ests covered**

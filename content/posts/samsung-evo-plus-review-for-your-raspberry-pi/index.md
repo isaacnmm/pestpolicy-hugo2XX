@@ -29,7 +29,7 @@ In comparison to the runners up, the
 , in the benchmark test whose parameters were:
 - 4K random read (14 MB/sec)
 - 4K random write (17 MB/sec)
-https://www.youtube.com/watch?v=bufrpvKAbfw
+
 The performance improvements in the all-new Samsung EVO Plus, Philippines manufactured, include increased storage capacity and attaining the U3 (Grade 3) speed class for the 64GB and over storage.
 With its characteristic white edge, the micro-SD card is awesome for people working in high-resolution videos & photography and in top-end smartphones.
 - The card printing is done in English and removes the symbol + while incorporating the Plus.

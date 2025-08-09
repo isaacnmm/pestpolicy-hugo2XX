@@ -33,7 +33,7 @@ The size of the bite mark from a spider is usually big/wide (deep fangs can be s
 Further, the
 [bedbug's bite](https://health.clevelandclinic.org/need-know-[bed-bugs](https://pestpolicy.com/do-spiders-eat-bed-bugs/)/)
 may appear like a flat patch on the skin or tiny-pus rashes.
-https://www.youtube.com/watch?v=wd9UzvclvEQ
+
 ### c. Number of Bites
 Spider leaves one [bite](https://pestpolicy.com/flea-bites-vs-bed-bug-bites/) at a time in a given surface/location, while bedbug carries multiple bites (clusters) in a given surface/point - you will see small shallow marks or swellings on your skin.
 ### d. Signs and Symptoms

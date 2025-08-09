@@ -26,7 +26,7 @@ In water with normal surface tension, fleas will just float and even jump away f
 [flea traps](https://pestpolicy.com/best-flea-trap/)
 .
 But if you put fleas in dish soap water, they will drown in a matter of seconds. Next time you consider drowning as a means of eliminating fleas from your area, you are wrong.
-https://www.youtube.com/watch?v=UJeDI9vw6eA
+
 ## **Why Dont Fleas Die When Floated on Water?**
 Fleas wont die that fast when floated in water because of their body anatomy. A closer look at its body shows that fleas have a wax-like coating that covers its whole body.
 - This wax-like coating is also called the cuticle.

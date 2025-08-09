@@ -70,7 +70,7 @@ Water is life in the enclosure so ensure that you place it in a shallow dish so 
 Crickets will jump inside the dish and drown (Skinks do not eat dead prey). The other element is the temperature. You should always have two thermometers for purpose of having the correct temperature is maintained.
 The red-eyed crocodile skink does not like too much heat. If there is a lamp then ensure there is a hedge of protection that stops accidental burns. This should also be done for the basking lights but you can also just raise the lamp from the floor. Temperatures should not go beyond 72 degrees.
 Everyone has an opinion about lighting. I have mine too. My skinks are healthy and none of them suffered from metabolic bone disease. I have no UV light, just a compact fluorescent light. The substrate should be appealing and easy to clean. A reptile carpet will do.
-https://www.youtube.com/watch?v=WFg0ttnAv7Y
+
 ## How to care for Eggs and Crocodile Young ones
 For the ultimate results in hatching, artificial incubation is recommended. You do this by removing the eggs from where the nest and transfer them, half-buried and slightly ventilated.
 The container can be filled with some moist peat moss ( not wet ) but you should be careful not to reposition the egg from its original position. The juveniles must eat every day and their food should be dusted with calcium supplements during every other mealtime.
@@ -94,7 +94,7 @@ These lizards are commonly found in Irian Jaya, Solomon Islands, and Papua New G
 - Pseudoponceleti
 - Ponceleti
 - Schmidti
-https://www.youtube.com/watch?v=LEfZZFP3-CE
+
 ## Characteristics of Red-Eyed Crocodile skink
 For you to be able to care well for the red-eyed crocodile skink, you will need to know the character it possesses. First and foremost, this skink has stout legs. Its underbelly is as majestic as its eyes, it's cream-colored.
 You already know why it is called red-eyed but do you know why the word crocodile is also included? Its scales are curved backward and they have tapered points plus it has four dorsal rows that look like those of a crocodile.

@@ -43,7 +43,7 @@ Cons:
 - Toxic
 - May cause skin irritation
 
-https://www.youtube.com/watch?v=AgFXFRziSkc
+
 Read Also:
 Can I Freeze Roaches to Death?
 ### [**2. Harris Boric Acid Roach Bait Powder - #2 Pick**](https://www.amazon.com/dp/B0026MD0G6/?tag=p-policy-20)
@@ -56,7 +56,7 @@ Packed in 16 oz. Bottles, this bait possesses an irresistible allure that attrac
 The main ingredient in this best roach powder is boric acid, a substance that kills roaches within 72 hours of application. Plus, it has a residual effect of up to several weeks. This is an advantage because it will kill roaches that hatch even after you have sprayed.
 Unlike other roach powders in the market, Harris boric acid roach bait powder is easy to apply. It has a long straw that allows you to apply the powder into crevices that are otherwise unreachable with your hands. Thus, you will be sure to cover all those small openings, which are often the favorite hideouts for these creatures.
 The powder has the potential to attract roaches with its food-grade ingredients but kills them shortly with its toxic boric acid. Its, however, odorless and does not stain the surfaces it is applied on.
-https://www.youtube.com/watch?v=EI9IgFT6i-c
+
 Read Also:
 [Yard Spray for Ticks Reviewed](https://pestpolicy.com/best-yard-spray-for-ticks/)
 ### **3. Raid Max Ants & Roach Spray **

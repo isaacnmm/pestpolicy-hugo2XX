@@ -29,7 +29,7 @@ best termite killers
 Also, close up openings that termites may use in your house (using caulk, grout, and cement), fix leaks in the indoor spaces, open blocked vents, clear shrubs and trees around the structures.
 So, seal off the windows and doors to prevent the termites' entry form where they'd eat up the structure's wooden skeleton. Besides, on rooftops and siding, seal up the crevices and cracks.
 Notably, termites are small in size and may even get into the house through spaces under the doors or even via broken glass. Inspect for any possible entry points for the termites.
-https://www.youtube.com/watch?v=t7cQhx-_Ydc
+
 ### 2. Clear Wood, Cellulose, Debris, and Timber
 Avoid pilling up wood debris or store firewood around the house and conduct appropriate termite inspection (see also the
 termite inspection costs
@@ -59,7 +59,7 @@ colony.
 Therefore, I would recommend using the galvanized post to elevate the wood from the soil and deny the termites an easy reach to feed on the insects.
 Next, repair and bits of the roof that's broken. Further, clear all the woodpiles that may be stacked around your property, including tree trunks, damp or rotten logs.
 Ensure you only install the termite-treated fence posts and walls, particularly for the perimeter and garden beds, to prevent termite attacks in the yard.
-https://www.youtube.com/watch?v=Z7IbkX07S24
+
 ### 2. Clear Dead Tree Stumps
 However, ensure that the yard or garden remains clean and neat - including clearing the overgrowth by trimming the grass and
 flower bed weeds

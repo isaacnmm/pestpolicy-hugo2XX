@@ -42,7 +42,7 @@ I love its versatility  it has mountable gimbals that provide room for mounting 
 It has a Zenmuse X5S camera with a fantastic FPV camera (which is forward-facing) that allows one to view around the drone and hence enhance seamless controlling. Additional features include that you can also alter the maximum speed when the drone is descending (from 8.9 mph to about 20.1 mph).
 Its processor (the CineCore 2.1) allows burst mode camera shooting. It has a lightweight build, with reliable motors and allows excellent control and propulsion. From a distance of 30 meters, the drone can detect various objects that you need to photograph.
 *The two models will allow you to unleash your photography creativity, capture those excellent aerial shots, capture still images from different angles, just like you require music videos.*
-https://www.youtube.com/watch?v=14oajBu64JA
+
 ### [3. Yuneec Typhoon H Pro - Ultra HD 4K](https://www.amazon.com/dp/B01MQDQ7WR/?tag=p-policy-20)
 This Typhoon H is the old viable option to the DJI Inspire 2 and Phantom 4. Unique characteristics include the 360-degree gimbal (for panoramic images), obstacle avoidance (through Realsense), and has a landing gear (6-rotor) that is retractable in addition to having folding arms!
 - **Camera:**CGO3+ (12MP, 4K)

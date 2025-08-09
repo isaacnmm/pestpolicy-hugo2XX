@@ -33,7 +33,7 @@ As an estate closing cost, the termite inspection costs will be about $60 to $15
 with two sections.
 - **Section 1**: Includes the critical step the homeowner or the exterminator must take to protect their investment structures from the termites.
 - **Section 2**: Outlines the likely problems or shortcomings during the termite control process using thebest termite killers, a professional exterminator, orhome remedies.
-https://www.youtube.com/watch?v=ntpTtOYP7dQ
+
 *What's Included in this Cost?*
 - On certifications, termite inspectors are very different from home inspectors. Home inspectors will inspect water, electrical, structural systems, roof, and cooling and heating units.
 - However, it would help if you undertook termite inspections in 2 years.
@@ -51,7 +51,7 @@ If only torching your home wouldnt cost too much, youd probably consider it. Ha!
 3. To confirm the effectiveness of a recenttermite treatment process.
 4. To satisfy the termite bond or the annual termite service agreement.
 ## 5 Signs that You Need a Termite Inspection?
-https://www.youtube.com/watch?v=sNqlBZZd75k&feature=youtu.be
+
 ## How to Hire a Termite Inspector?
 Termites are nasty
 bugs that'll gnaw off your home

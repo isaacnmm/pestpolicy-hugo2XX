@@ -38,7 +38,7 @@ Will Dragons Eat Mushrooms
 Bearded dragons will readily eat eggs because they contain proteins which are vital in their growth. Baby bearded dragons require diets that are higher in proteins and less in vegetables because of their higher growth rate. Typically baby beardies need 80% proteins and 20% vegetables.
 However, adults should be fed on 20% proteins and 80% vegetables. Whether youre dealing with adult or baby beardies, eggs should be given sparingly because they are very rich in proteins.
 High protein intake makes your bearded dragon excessively fat. The problem with this is that it may lead fatty liver disease where fat builds up in the liver cells. The liver may eventually fail to function effectively.
-https://www.youtube.com/watch?v=Pnnb7oWwRJs
+
 ### **Can Bearded Dragons Eat Raw Eggs?**
 A big NO to raw eggs! The bacterias present in raw eggs are likely to make your bearded dragon sick. You may end up with a dead beardie.
 Eggs should always be cooked before being fed to bearded dragons to kill the harmful bacterias.

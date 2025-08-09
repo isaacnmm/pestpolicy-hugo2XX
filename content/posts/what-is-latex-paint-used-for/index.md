@@ -26,7 +26,7 @@ During the application process, you will need to follow these steps:
 3. Apply the acrylic latex primer and leave it to cure for 1 hour
 4. Finish with latex coat
 NB: You may need to apply 2 or 3 coats according to the primary concrete textures nature. Moreover, sanding is needed when carrying out paint restoration.
-https://www.youtube.com/watch?v=q4HExuHQDFM
+
 ### b. Drywall
 Drywall mainly includes stonewall, wooden wall, metallic wall, concrete wall, or composite wall. Either of these walls can be painted using latex paint as long as the initial condition is dried thoroughly. Wetness affects the stickiness of the latex paint upon a given primary material and weakens flow-ability during application.
 Direct application can be carried out on a metallic wall, wooden wall, or composite without prepping. However, the stonewall requires initial polishing or cleaning to improve paint stickiness during application.
@@ -61,7 +61,7 @@ Follow the steps highlighted below during application:
 2. Prepare latex paint and prep where necessary (especially when restoring the surface)
 3. Using a paintbrush, apply latex paint gently  froth and back horizontally, then up and down
 NB: Never sand the fiberglass surface after painting  sanding affects primary surface microstructure and latex paint finish appearance.
-https://www.youtube.com/watch?v=LEtDVLzqr2k
+
 ### f. Metallic surfaces and Aluminum siding
 Latex paint sticks excellently on the metallic surface of material such as cast iron, mild steel, chrome, aluminum, and copper. However, high gloss metallic surface/high polished surfaces require prepping to improve stickiness ability when painting.
 You can use latex paint for aluminum siding too. The latex paint coats the aluminum surface nicely and prevents it from fading or cracking, resulting in other oil-based paint.

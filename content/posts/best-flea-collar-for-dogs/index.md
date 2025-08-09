@@ -33,7 +33,7 @@ The flea collar will slowly and in small quantities releasethe active ingredient
 and
 [Imidacloprid](http://npic.orst.edu/factsheets/archive/imidacloprid.html)
 , to spread the whole dog's coat, with the help of your dog's natural oils.
-https://www.youtube.com/watch?v=S51z2k-4nSc
+
 **Pros:**
 - Long-lasting protection up to 8 months.
 - Odorless, water-resistant, and non-greasy.

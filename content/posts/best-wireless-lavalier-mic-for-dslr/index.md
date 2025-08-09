@@ -55,7 +55,7 @@ Read Also:
 What're the Best Earplugs for Concerts
 ?
 
-https://www.youtube.com/watch?v=KuqLaaIl05c
+
 ### [2. Sennheiser AVX Digital Wireless Microphone System - #2 Pick](https://www.amazon.com/dp/B010EYIH1U/?tag=p-policy-20)
 Sennheiser AVX will give you excellent sound quality with its wireless audio reproduction that's hi-def - great wireless and a quality microphone.
 
@@ -75,7 +75,7 @@ Pros:
 Cons:
 - None
 
-https://www.youtube.com/watch?v=3YZtkSqghho
+
 ### [3. Saramonic UwMic9 UHF Wireless (96 Channel) Lavalier Mic - #3 Pick](https://www.amazon.com/dp/B01E12IOLE/?tag=p-policy-20)
 Saramonic UwMic9 is a budget-friendly but quality and wireless Lavalier Mic for DSLR. The aluminum-built mic is highly durable (just its other components) for your recoding jobs.
 
@@ -98,7 +98,7 @@ Pros:
 Cons:
 - Battery problems
 
-https://www.youtube.com/watch?v=_epTlnldPqc
+
 ### [4. Audio-Technica ATR3350 Omni-directional Lavalier Condenser Mic - #4 Pick](https://www.amazon.com/dp/B002HJ9PTO/?tag=p-policy-20)
 Audio-Technica ATR3350 is an omni-directional lavaliaer condenser mic that has high-quality body build at a budget-friendly cost. Its great for accurate and intelligible audio reproduction in addition to being great for video.
 

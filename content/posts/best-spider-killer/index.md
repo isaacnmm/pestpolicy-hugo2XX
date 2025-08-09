@@ -109,7 +109,7 @@ Spiders are often found in yards and homes due to two main reasons:
 - Look for products with long-term residual effects and strong sticking power. Cyfluthrin and Permethrin-based pesticides are effective for outdoor use and remain active for up to 90 days.
 **Indoor Pesticides:**
 - Choose low-odor, water-based products to avoid respiratory issues. Gentrol IGR is effective for preventing spider eggs from hatching and is ideal for indoor use.
-https://www.youtube.com/watch?v=nQ-wRJywFcI&t=3s
+
 ## Conclusion
 Selecting the right spider killer involves evaluating factors like effectiveness, safety, and environmental impact.
 - Whether you prefer natural solutions or chemical options, choosing a product that fits your needs can help you maintain a spider-free environment. Stay tuned for more pest control tips and reviews in our upcoming blog posts.

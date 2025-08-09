@@ -43,7 +43,7 @@ Pros:
 Cons:
 - Its expensive
 
-https://www.youtube.com/watch?v=aDgVWmH21LE
+
 > See Also:
 > Repainting Interior Walls
 ### [2. Scotch Contractor Grade Masking Tape, 9 Rolls](https://www.amazon.com/dp/B00125V10U/?tag=p-policy-20)
@@ -66,7 +66,7 @@ Pros:
 Cons:
 - Strict time adherence on tape removal
 
-https://www.youtube.com/watch?v=uSOTyvvn2Hk
+
 > See Also:
 > Paint Sprayer for Interior Walls
 ### [3. XFasten Professional Blue Painters Wall Tape](https://www.amazon.com/dp/B06VY2QD4V/?tag=p-policy-20)

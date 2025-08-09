@@ -41,7 +41,7 @@ Pros:
 Cons:
 - Slightly expensive as compared to others
 
-https://www.youtube.com/watch?v=aBae3-_3WYU
+
 Read Also:
 Wireless mic for iPhone
 ### [2. Samson G-Track Pro Professional USB Condenser Microphone - #2 Pick](https://www.amazon.com/dp/B075KL6ZLC/?tag=p-policy-20)
@@ -65,7 +65,7 @@ Cons:
 - May not pick far sound excellently
 - No directional sound cancelling mechanism
 
-https://www.youtube.com/watch?v=vEY-WSpUEmU
+
 Read Also:
 Harmonica Microphones-harmonica-microphones/)
 ### [3. Mojave Audio Condenser Professional Microphone - #3 Pick](https://www.amazon.com/dp/B0022NI10E/?tag=p-policy-20)

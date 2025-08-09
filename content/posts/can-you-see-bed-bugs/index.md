@@ -53,7 +53,7 @@ Another major distinguishing feature between bedbugs and other bugs is that they
 Related:
 Bed Bug Mattress Encasements
 ## Can I See Nymphs Or Bedbug Eggs With My Naked Eye?
-https://www.youtube.com/watch?v=R26-3bKJUEA
+
 Unlike adult bed bugs, nymphs usually sport a translucent or white-yellowish color. Their size varies depending on their current
 stage in the life cycle
 . In the first stage, most bed bug nymphs are usually 1.5 mm in length.

@@ -44,7 +44,7 @@ Cons:
 For better outcomes, do not apply more than one coat in 24 hours as the paint may dry insufficiently.
 > See Also:
 > [Antifouling Paint for Fiberglass](https://pestpolicy.com/best-antifouling-paint-for-fiberglass/)
-https://www.youtube.com/watch?v=uxBlQWy-AMk
+
 ### [2. Flexdel 10101 Aquagard Antifoulant Bottom Paint](https://www.amazon.com/dp/B003G9IAWM/?tag=p-policy-20)
 This is another water-based paint that has unique properties to give your boat a refined and durable luster.
 
@@ -63,7 +63,7 @@ Pros:
 Cons:
 - None
 
-https://www.youtube.com/watch?v=YLLkekJHvw8
+
 ### [3. TotalBoat TotalBilge Paint](https://www.amazon.com/dp/B00LLH4UW0/?tag=p-policy-20)
 To paint over your fiberglass boat and get good results, it is imperative to choose the right paint.
 

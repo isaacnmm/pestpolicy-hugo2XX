@@ -42,10 +42,10 @@ The Good:
 - Pleasant smell
 The Bad:
 - Pricey
-https://www.youtube.com/watch?v=tRv7XzHqK6A
+
 ## [2. #2 Pick: Mr. Pink Chemical-Guys CWS_402_64 Car-Wash Soap](https://www.amazon.com/dp/B071RKWXKV/?tag=p-policy-20)
 
-https://www.youtube.com/watch?v=DpRMdNyURQw
+
 ## [3. #3 Pick: Adam's Neutral PH Car Wash Shampoo](https://www.amazon.com/dp/B00UICCQGQ/?tag=p-policy-20)
 
 Maintaining a glossy look on your car gets easier with a powerful shampoo like Adam's car wash shampoo.
@@ -64,7 +64,7 @@ The Good:
 - Nice scent
 The Bad:
 - Low concentration
-https://www.youtube.com/watch?v=_kSc3GzGniA
+
 ## [**4. Optimum No Rinse Car Wash ****NR2010Q**](https://www.amazon.com/dp/B00D8DR0AO/?tag=p-policy-20)
 This car wash soap gives you a quick and effortless way of cleaning your car.
 As its name suggests, it eliminates the need for rinsing, thanks to the absence of soapy surfactants. It also reduces the amount of water you use in cleaning your car.

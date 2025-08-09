@@ -66,7 +66,7 @@ cool off on the clean surface or area that you had prepared earlier.
 
 Finally, scrub the metal piece using some dry cloth or some scrubbing brush - this will help remove and soda or paint residues. Wipe down the metal piece using a dry and fresh rag.
 
-https://www.youtube.com/watch?v=m7nxo4ArYUY
+
 ## FAQs 1: Natural Metal Paint Removal Alternatives
 ### 1. Paint Stripping With Chemicals
 You can use a variety of chemical removers on your paint. A key consideration is to go through the product label instructions - determine if it's a paste, aerosol, or
@@ -88,7 +88,7 @@ The baking soda (NAHCO3) is suitable, but ARMEX (with 70-270 microns particle) h
 
 Is soda blasting dangerous? You'll find baking soda (also described as Sodium bicarbonate) safe to use around both animals and humans. It won't cause skin burns or generate toxic fumes.
 
-https://www.youtube.com/watch?v=19tG3-8Ls-4
+
 ## Conclusion
 So, in this article, I've covered how to
 remove paint from metal

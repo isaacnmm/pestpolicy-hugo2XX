@@ -37,7 +37,7 @@ Pros:
 Cons:
 - None
 
-https://www.youtube.com/watch?v=e6M-QLtXVPI
+
 See Also:
 Best Stain for Swing Set
 ### [2. Duratec Fibre Glast with Hardener Sunshield Clear Top-coat](https://www.amazon.com/dp/B015NM22Y6/?tag=p-policy-20)
@@ -62,7 +62,7 @@ Pros:
 Cons:
 - None
 
-https://www.youtube.com/watch?v=4t45KuOLDA8
+
 See Also:
 Best Spray Paints for Plastic
 ### [3. Eastwood Diamond Clear Satin Finish DTM](https://www.amazon.com/dp/B071Y7SFRF/?tag=p-policy-20)

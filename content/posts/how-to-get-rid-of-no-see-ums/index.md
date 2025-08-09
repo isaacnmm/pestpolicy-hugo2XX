@@ -71,7 +71,7 @@ I would check the pets' water bowls, uncovered (and undrained) garbage cans, pud
 
 Indoors, I would inspect the utility rooms, bathrooms, and kitchens as these are also areas that the no see um will hide ready to bite - if there is standing water or leaks.
 
-https://www.youtube.com/watch?v=7vMkQfEVCsU
+
 **2. Cues to Check for**
 But what cues will you be looking for as you inspect for no see um? We've noted that you're largely checking for standing water.
 

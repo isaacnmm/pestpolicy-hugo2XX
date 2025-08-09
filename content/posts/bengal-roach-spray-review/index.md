@@ -42,13 +42,13 @@ Bengal spray is safe for pets and human beings - it's excellent for indoor, but 
 - But just like withroach bombs, ensure you remove pets, kids, and any adults from the house to avoid poisoning when spraying the insecticide. Leave the formula to settle before getting back to the sprayed space.
 - Further, ensure that the sprayed room is adequately ventilated before going back inside - there should be no signs of insecticide fumes.
 - Further, don't take pets like fish before the Bengal spray fumes are entirely gone. Also, carefully follow the product usage instructions - leave the sprayed spaces for the outlined hours.
-https://www.youtube.com/watch?v=AgFXFRziSkc
+
 ### 3. Easy to Spray - How to Use Bengal Roach Spray
 Bengal Roach Spray is delivered in an aerosol can that makes it super easy to spray the roach-infested spaces - including kitchens, apartments, cracks, and cupboards.
 Further, you won't require additional attachments when using this Bengal Roach Spray, particularly for hard to spray places like cabinets, sinks, drains (
 [examine these drain cleaners](https://pestpolicy.com/best-drain-cleaner//)
 ), refrigerators, and baseboards.
-https://www.youtube.com/watch?v=VWg_OaoY6W4
+
 However, spray the insecticides keenly on windows and doors since the roaches may easily use these routes to escape extermination in the indoor spaces.
 Further, Bengal Roach Spray
 will treat roach-hiding places like closets to prevent a later roach infestation

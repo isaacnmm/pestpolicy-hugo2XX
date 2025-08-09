@@ -44,7 +44,7 @@ Pros:
 Cons:
 - Its expensive
 
-https://www.youtube.com/watch?v=Fvt14yx9e7E
+
 ### [2. Wood Defender Transparent Fence Stain](https://www.amazon.com/dp/B082867RL5/?tag=p-policy-20)
 The beauty of a home is complemented by a well painted and designed fence - without
 paint peeling
@@ -68,7 +68,7 @@ Pros:
 Cons:
 - Not economical for small fences
 
-https://www.youtube.com/watch?v=3c3fTTPH23M
+
 > See Also:
 > 3D Wall Painting for Your Bedroom
 ### [3. KILZ Exterior Siding, Fence, and Barn Paint, 1-gallon](https://www.amazon.com/dp/B0015GE8DI/?tag=p-policy-20)
@@ -147,7 +147,7 @@ Pros:
 Cons:
 - None found
 
-https://www.youtube.com/watch?v=GK_74O_w3Dc&feature=youtu.be
+
 > See Also:
 > Paint for Outdoor Wood Deck
 ### [6. Ready Seal 510 Exterior Stain and Sealer, 5-Gallon](https://www.amazon.com/dp/B00EIVX96Y/?tag=p-policy-20)

@@ -41,7 +41,7 @@ The statement above tends to show that salt cannot be used to
 . Nevertheless, there are tips to help you use salt in the right way to help you
 eradicate bed bugs
 in your house successfully.
-https://www.youtube.com/watch?v=sADDCPS0Bh0
+
 ## **Does Salt Kill Bed Bugs?**
 It is hard to make it evident that salt
 kills bed bugs

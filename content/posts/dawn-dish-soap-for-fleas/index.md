@@ -38,7 +38,7 @@ Typically flea treatments come in the form of topical pesticide solutions such a
 So, dawn (plus other comparable soaps) will reduce surface tension that yields the exoskeleton, and hence the adult fleas will sink and drown.
 Dawn dish soap (compared to dog flea shampoo) destroys fleas' exoskeletons and kills them. B
 *ut first: How Soap Reduces the Surface Tension Of Water.*
-https://www.youtube.com/watch?v=hfXZEpw0qrQ
+
 Notably, ordinarily, fleas have a waxy layer, and their small size prevents them from the break the surface tension of water.
 But with dish soap, the surfactants will make the fleas sink and drown quickly. The dawn soap makes the pet's waxy cuticle absorb water and thus drown.
 If Dawn Dish Soap is not available, you can substitute any other type of dish detergent, but dish soap is usually more concentrated and will work better.

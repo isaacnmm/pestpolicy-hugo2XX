@@ -40,7 +40,7 @@ Cons:
 - Not suitable or large projects
 - Not preferred for exterior projects
 
-https://www.youtube.com/watch?v=zVOIIv4NA5c
+
 > See Also:
 > Paint for a Concrete Driveway
 ### [2. Bates- Paint Scraper, Paint Remover](https://www.amazon.com/dp/B071XDP685/?tag=p-policy-20)

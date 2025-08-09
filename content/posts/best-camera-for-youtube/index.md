@@ -44,7 +44,7 @@ Cons:
 - Does not allow 4K video recording
 - Lens hood not included
 
-https://www.youtube.com/watch?v=TVyMA49QAMU
+
 ### [**2. Canon YouTube PowerShot G7 X (The Mark III) - #2 Pick**](https://www.amazon.com/dp/B07TKNCQZL/?tag=p-policy-20)
 Take your Vlogging and youtube fantasy to professional levels with a high-end digital camera. Youll be overwhelmed by the quality of videos and images offered by this camera when compared to smartphones or low-end cameras.
 
@@ -63,7 +63,7 @@ Pros:
 Cons:
 - 4K video available only in automatic mode
 
-https://www.youtube.com/watch?v=4eQ6RAA7EH8
+
 ### [**3. Sony Mark VII (RX100) 4K Video Camera - #3 Pick**](https://www.amazon.com/dp/B07VPQV7BY/?tag=p-policy-20)
 Mark VII camera is an upgrade from the Mark VI. Although they look similar in appearance, the new edition comes with a superior sensor. The 20.1MP CMOS sensor makes use of back-illumination technology which gives the camera greater and faster sensitivity.
 

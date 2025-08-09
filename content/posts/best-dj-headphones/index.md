@@ -40,7 +40,7 @@ Pros:
 Cons:
 - None
 
-https://www.youtube.com/watch?v=5t7UpQ9POGM
+
 Related:
 7 Best Noise Cancelling Headphones Under $200
 ### [2. V-MODA Over-Ear Crossfade Wireless DJ [Headphone](https://pestpolicy.com/best-headphones-for-music-production/)](https://www.amazon.com/dp/B015R7AGHC/?tag=p-policy-20)
@@ -62,7 +62,7 @@ Pros:
 Cons:
 - Not fold-able
 
-https://www.youtube.com/watch?v=sVOqN9O-MGY
+
 Related:
 9 Best Earplugs for Concerts
 ### [3. PIONEER HDJ (X10-K) Headphone for Professional DJs](https://www.amazon.com/dp/B075BCB9Q1/?tag=p-policy-20)

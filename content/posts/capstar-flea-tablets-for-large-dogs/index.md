@@ -45,7 +45,7 @@ the pets' environment
 ).
 - So, repeat the flea treatment on the dog using Capstar tablets since the immature fleas in the environment will develop into mature ladies attacking your large dogs again.
 So, in addition to using the Capstar tablet to exterminate the adult fleas, you can use an insect growth inhibitor such as program flavor to help control fleas in the other life stages.
-https://www.youtube.com/watch?v=Uy-OvxhEkJ0
+
 ## Fleas life cycle
 Fleas are known to be fast producers and so their presence can cause a major problem to your pets and the household in general.
 - For example, 1 female flea willlay about 2000+ eggsbefore it dies.

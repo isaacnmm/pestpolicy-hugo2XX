@@ -136,7 +136,7 @@ It has 1.3 and 1.9GHz quad-core processors that will assure that the tablet runs
 Motherboard for i5 6600k
 .
 Gaming - Galaxy Tab S tablet has a Snapdragon 800 processor that gives us gamers a 2.3GHz per-core clock speed. Evidently, the Snapdragon 800 processor is an excellent choice for gaming requirements.
-https://www.youtube.com/watch?v=nAd5ztw-b7k
+
 ### [9. ASUS ZenPad 10.1", 2GB RAM, 64GB eMMC](https://www.amazon.com/dp/B01M4NPX77/?tag=p-policy-20)
 ASUS ZenPad 10.1 is a fashion-motivated design as it is clean, simple, and stylish as the Zen Company focused on offering both power and beauty with the metallic band and amazing leather pattern.
 Its display is enhanced by the ASUS VisualMaster that uses both the software and hardware to boost the brightness, clarity, sharpness, and contrast.
@@ -146,7 +146,7 @@ Its internal storage is 16GB and thus combined with the microSD card slot you ca
 - For example, youll get excellent graphics and can multi-task without a problem.
 The gaming tablet is based on Marshmallow Android 6.0 that allows better gaming performance and with cloud integration, it is possible to connect different android gadgets. You can now easily download music, movies, and games.
 I have created an outline for the critical specifications for Best Android Tablet for Gaming you should check before purchasing your ultimate gaming Android Tablet. (1). Processor (2). Screen Size (3). Operating System (4). Hybrid vs Standard.
-https://www.youtube.com/watch?v=LbpzZkxNU30
+
 Read Also:
 [Motherboard for i5 7600k](https://pestpolicy.com/best-motherboard-for-i5-7600k/)
 ## Conclusion

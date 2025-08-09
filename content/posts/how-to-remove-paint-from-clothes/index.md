@@ -37,7 +37,7 @@ Besides, rubbing alcohol wont stain your fabric if you follow the steps provided
 5. Soak the clothe in warm water and clean with soap detergent to remove the remains of rubbing alcohol
 6. Rinse with clean water
 NB: Rubbing alcohol/Isopropyl alcohol can be used in spot paint removal or entire cleaning without any problem provided that the right concentration is met during dilution.
-https://www.youtube.com/watch?v=_axtPWvqSlY
+
 ### 2. Liquid laundry detergent
 Liquid laundry detergent can either be commercially acquired or homemade. The liquid such as
 [Absolutely Clean Laundry](https://www.amazon.com/dp/B07K62ZWJD/?tag=p-policy-20)
@@ -114,7 +114,7 @@ Avoid cleaning acrylic paint-stained clothes with a washing machine as it many s
 - Switch on and let the cleaning process go on till the set time is over
 - Rinse the clothes and dry under the sun
 Its advisable to sort your paint-stained clothes when using the washing machine  sort clothes by material make, material texture, and other leaning parameters advised by the manufacturer.
-https://www.youtube.com/watch?v=FP-a8v2bXqY
+
 ### 6. Goo Gone
 Goo Gone is a commercially manufactures paint stain remover that features a complex chemical formulation, which acts instantly upon contact.
 The solvent breaks strong molecular bonds of both latex and acrylic paint without any problem.

@@ -80,7 +80,7 @@ Pros:
 Cons:
 - Low odor
 
-https://www.youtube.com/watch?v=_y2c_EMwNeo&feature=youtu.be
+
 ### [3. Retique It-by Renaissance Chalk Furniture Paint](https://www.amazon.com/dp/B00S517V7G/?tag=p-policy-20)
 Retique IT furniture paint is a 100% acrylic chalk paint with zero omissions and has no VOCs. It is made in the USA and designed with family safety into consideration.
 

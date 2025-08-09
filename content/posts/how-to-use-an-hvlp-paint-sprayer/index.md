@@ -27,7 +27,7 @@ tems required include:
 - Waterpoint and Thinned paint
 - HVLP spray tips and paint test board
 - Protective gear  overall, gloves, respirator, etc.
-https://www.youtube.com/watch?v=zYBIdm2waxk
+
 > See Also:
 > HVLP Paint Sprayer for Latex Paint
 ### Step 1: Select and fix the Right Tip for the Current painting Job
@@ -44,7 +44,7 @@ During the assembly, be careful not to use excess fitting force  you may break p
 According to the surface area under paint application, you may need to extend the suction hosepipe (to offer wide-area coverage) and the power cable to prevent frequent removal or disconnection.
 Further, the extension hosepipe should be the same size as the feed pipe to prevent internal shocks when painting due to pressure differences.
 Avoid using low-grade extension power cable  they cause internal cut-off in case of a power surge.
-https://www.youtube.com/watch?v=p7T20nPyqhA
+
 > See Also:
 > HVLP Spray Gun for Lacquer
 ### Step 4: Fasten the HVLP canister in Place and Other Gun Connections

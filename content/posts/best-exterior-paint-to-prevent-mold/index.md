@@ -48,7 +48,7 @@ Pros:
 Cons:
 - Sticks and leaves may stick on the surface and thus stain it.
 
-https://www.youtube.com/watch?v=OWhLrng_p2I
+
 ### [2. Behr Premium Plus White Satin Exterior Paint Plus Primer](https://www.amazon.com/dp/B00MZ8PDMU/?tag=p-policy-20)
 Behr Premium has numerous color options and is equally durable to last a few years. This paint has been used for many years for exterior surfaces even with the harshest weather.
 
@@ -73,7 +73,7 @@ Pros:
 Cons:
 - Relatively pricey
 
-https://www.youtube.com/watch?v=K1J8_cnRuUE
+
 ### [3. Rust-Oleum Zinsser Exterior Oiant - 1-Qt. PermaWhite Exterior Satin](https://www.amazon.com/dp/B000H5VKBQ/?tag=p-policy-20)
 Rust-Oleum Zinsser is the best exterior paint for wood - it'll resist both mildew, mold, and moisture and hence safeguard the wood from possible rotting during both the humid and wet climates.
 

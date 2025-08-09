@@ -34,7 +34,7 @@ With their strong and sharp claws, moles can tear down even the strongest of the
 Moles spend a lot of their time in the underground and its a rare occurrence to spot one
 They are mostly active in the evening and early morning. At this time, you may chance to spot them. Alternatively, they have a preference for loamy soils especially when the ground is moist.
 Also sometimes after a light rainfall, you may spot them coming to get some warmth from the surface. Moles are loners and mostly move alone. Sometimes, most of the damage you see in the yard could be the work of just a single mole.
-https://www.youtube.com/watch?v=beAhFAmqfSY
+
 ## What are moles?
 Mole is basically some burrowing animals that are found underground. They feed on underground insects and worms for survival. They vary in sizes between 4-11 inches.
 Some people confuse moles with rodents like mice or even rats.

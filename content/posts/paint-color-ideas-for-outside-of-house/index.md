@@ -21,7 +21,7 @@ Painting your newly constructed home will not only improve its outlook impressio
 
 ## Details: Paint Color Ideas for Outside of House
 When choosing paint color, its also important to consider the colors used by neighborhood and consider similar option for uniformity and impressiveness.
-https://www.youtube.com/watch?v=tiU41rVjyW4
+
 ### a. White  Sunny Areas
 White color is the best choice for house found in sunny or hot areas since the color acts as the reflective agent, which reduces internal heating.
 - Whether, the house structure is concrete, wooden, or metallic, applying white color work perfectly andimprove overall outlook impression.
@@ -47,7 +47,7 @@ The color is considered for moderate rainy environment and mild solar insolation
 You can opt to reinforce reddish brown color with white margin (
 [improve aesthetic appearance](https://pestpolicy.com/how-to-paint-popcorn-ceiling/)
 ), but never use black color alongside whatsoever.
-https://www.youtube.com/watch?v=jzBfG-o3Zp4
+
 ### f. Gray  dull or cool regions
 Gray color is suitable for painting houses found in dull environment  the area may not necessarily be rainy, but the weather should experience average solar radiation for the larger part of the year.
 - Gray color shows confidence and resilience  it always creates a classic natural appearance.

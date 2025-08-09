@@ -25,7 +25,7 @@ There are several steps that you will need to involve on that old paint to make 
 Before you can start cleaning the rim and the lid, you need to first lay old newspapers or drop cloth to avoid any spillage that may occur in the process.
 Once done, place the paint on the laid material and remove any form of dirt or dust that may have accumulated on the can.
 You can use a screwdriver or a flat-blade to remove any dried paint and rust from around the rim.
-https://www.youtube.com/watch?v=eOm4O7z9hks
+
 See Also:
 Spray Paint for Rims
 .
@@ -57,7 +57,7 @@ If you are fond of covering your paints, there is a high probability that that p
 However, that is not possible for all the paints and especially those that are packaged with plastic cans. Their lids are not tight enough and could let air in and make the paint go bad.
 The only challenge with sealed paints is a separation which is likely to occur but that doesnt mean you cannot reuse it.
 All you need is to use a painted rod and stir it thoroughly. If you find your paint has developed lumps, it is evident that the paint has gone bad and no longer reusable.
-https://www.youtube.com/watch?v=6I0kNEQA2pk
+
 > See Also:
 > Baby Safe Paint for Crib
 ### b. Open and exposed Paint

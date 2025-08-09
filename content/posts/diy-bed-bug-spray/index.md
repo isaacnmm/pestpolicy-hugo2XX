@@ -67,7 +67,7 @@ will kill bed bug eggs and adult bed bugs - an effective bug repellent too.
 But the lavender oil smell is just normal or great to humans.
 So, once you spray the oil in the house, I love that one too the space smelling sweat while also repelling the bed bugs.
 - To apply the lavender oil bed bug repellent, simply put the oil into a spray bottle and on the sheets and on the bedding.
-https://www.youtube.com/watch?v=mzD_madhlCw
+
 ### 2. Vinegar Solution
 Vinegar solution and spray will be an effective technique that a homeowner can use to
 repel and kill bed bugs

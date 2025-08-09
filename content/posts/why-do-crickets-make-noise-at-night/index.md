@@ -28,7 +28,7 @@ Contrary to a common misconception, crickets don't employ their legs to create t
 Stridulation occurs when the grooved sides of a cricket's wings rub against each other.This friction, coupled with the jagged edge above the grooves, generates the characteristic chirping sound.
 Interestingly, research has revealed that male crickets, when given the choice, prefer to use their right wings for chirping, as opposed to the left.
 On the other hand, female crickets lack the necessary wing structures for sound production, making chirping an exclusively male endeavor.
-https://www.youtube.com/watch?v=2AamJFpALjM
+
 ## **The Multi-Faceted Purpose of Cricket Chirping**
 ### *Mating Calls:*
 Perhaps the most well-known reason behind cricket chirping is its role in courtship. Male crickets utilize their chirping ability to create enticing mating calls.

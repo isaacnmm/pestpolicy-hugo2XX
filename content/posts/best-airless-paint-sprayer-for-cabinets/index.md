@@ -36,7 +36,7 @@ Graco Ultra-Corded 17M359 is easily repairable with all the parts being very rea
 My uncle purchased this airless sprayer and found it great for DIY painting including painting his kitchen cabinets for a fantastic and beautiful look.
 The Airless Paint Sprayer is simple to use with the included instructions with tips like the 515 or the 312 tip that's delivered with this model.
 Further, this sprayer worked great for my Honda civic that has a clear coat that was peeling. The paint matched excellently with the car's original paint - check their
-[youtube channel](https://www.youtube.com/user/GracoPaintSprayers/videos)
+[youtube channel](
 .
 But consider the humidity as they recommend using even under 70% humidity but this might not work. You may notice some powdery mist (white) on the surface - 64% is a better point.
 Pros:
@@ -48,7 +48,7 @@ Pros:
 Cons:
 - None
 
-https://www.youtube.com/watch?v=jHzoVJ7hV6k
+
 ### [2. HomeRight 2800 C800879 Power Flo-Pro Airless Sprayer](https://www.amazon.com/dp/B008HP25IK/?tag=p-policy-20)
 HomeRight 2800 C800879 is excellent for painting large projects including on cabinets,
 decks, garages, fences, sheds, and your home's exterior with a superior finish.
@@ -78,7 +78,7 @@ Pros:
 Cons:
 - None found
 
-https://www.youtube.com/watch?v=_zGhP-ZspLA
+
 ### [3. Graco Ultra-Cordless 17M363 Airless Hand-held Paint Sprayer](https://www.amazon.com/dp/B071CW2SV2/?tag=p-policy-20)
 Graco Ultra-Cordless 17M363 is powered by Lith
 ium-Ion (DEWALT XR) and excellent spray tips (RAC X FFLP) and it's really repairable allowing longer sprayer life.

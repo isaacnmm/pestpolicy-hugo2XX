@@ -51,7 +51,7 @@ Cons:
 - Cause eye and skin irritation on contact
 - It fatal when swallowed
 
-https://www.youtube.com/watch?v=RF_3iUco9xk&t=4s
+
 > See Also:
 > Paint Stripper for Wood
 ### [2. Dicor RPFRC1 Fiberglass RV Roof Coating - #2 Pick](https://www.amazon.com/dp/B007TQI96K/?tag=p-policy-20)
@@ -83,7 +83,7 @@ Cons:
 - Needs double coat for effective performance
 - Irritates eyes on contact
 
-https://www.youtube.com/watch?v=a_aEmUCa5Hw
+
 > See Also:
 > Belt Sander for Deck
 ### [3. Rust-Oleum 207012 Antifouling Flat Boat Paint Bottom - #3 Pick](https://www.amazon.com/dp/B000C0140S/?tag=p-policy-20)

@@ -43,7 +43,7 @@ Pros:
 Cons:
 - Its expensive
 
-https://www.youtube.com/watch?v=7gYSDBbRwBo
+
 ### [2. Graco Magnum Airless Paint Sprayer-X5 Stand](https://www.amazon.com/dp/B0026SR0FW/?tag=p-policy-20)
 This sprayer is quite similar X 7 series only that this sprayer is tied to stationary stand. It is equally competitive and the features are also similar.
 
@@ -64,7 +64,7 @@ Pros:
 Cons:
 - Not easily portable
 
-https://www.youtube.com/watch?v=tl5pvnQPHOk
+
 > See Also:
 > Cleaning your HVLP Spray Gun
 ### [3. Wagner Control Pro Paint Sprayer (0580678)](https://www.amazon.com/dp/B07MC9JG42/?tag=p-policy-20)

@@ -62,7 +62,7 @@ You'll love the Wireless Subwoofer that will provide bass. The 12-inches Subwoof
 Related:
 What're the top headphones for music production
 .
-https://www.youtube.com/watch?v=Jf8lDsLURnE
+
 ### 4. Roku Smart SoundbarPerformance
 Notably, this
 Roku Smart Soundbar will give you fine video quality including on Streaming Stick Plus and it doesn't require the longer loading times.

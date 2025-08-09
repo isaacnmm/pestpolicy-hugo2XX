@@ -52,7 +52,7 @@ Pros:
 Cons:
 - None
 
-https://www.youtube.com/watch?v=8tMZhCvEoRg
+
 See Also:
 Deck stain for weathered wood
 ### [2. Liquitex Heavy-Body Professional Acrylic Canvas Paint](https://www.amazon.com/dp/B075Y87RBX/?tag=p-policy-20)
@@ -72,7 +72,7 @@ Pros:
 Cons:
 - Not suitable for lqargescale projects
 
-https://www.youtube.com/watch?v=Ft_Q7eOw8jk
+
 See Also:
 Quality stain for swing set
 ### [3. Grumbacher Acrylic Academy Paint Mixing Set](https://www.amazon.com/dp/B001E0HL66/?tag=p-policy-20)

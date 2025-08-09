@@ -43,7 +43,7 @@ Pros:
 Cons:
 - Will need manual remapping of button
 
-https://www.youtube.com/watch?v=MsKg9xr0_7c
+
 Read Also:
 Heatsink for Raspberry Pi 3
 ### [2. Microsoft Xbox 360 Wired Controller - #2 Top Pick](https://www.amazon.com/dp/B004QRKWLA/?tag=p-policy-20)
@@ -69,7 +69,7 @@ Pros:
 Cons:
 - Few sticking joysticks cases
 
-https://www.youtube.com/watch?v=fde3vGlfk4w
+
 Read Also:
 Hotas Joysticks
 ### [3. DualShock 4 Wireless Controller - Wave Blue - #3 Pick](https://www.amazon.com/dp/B00KVP780Y/?tag=p-policy-20)
@@ -89,7 +89,7 @@ Pros:
 Cons:
 - Wear in the Rubber thumbsticks
 
-https://www.youtube.com/watch?v=C53kGXs3ziI
+
 Read Also:
 Wireless PC Controller
 ### [4. Xbox One Wireless - For Small hands](https://www.amazon.com/dp/B00CMQTUSS/?tag=p-policy-20)
@@ -113,7 +113,7 @@ Pros:
 Cons:
 - Relatively Pricey
 
-https://www.youtube.com/watch?v=4K8Jn3gYyzc
+
 Read Also:
 [Controller for Retropie](https://pestpolicy.com/best-controller-for-retropie/)
 ## Guide: Best Controller for Rocket League

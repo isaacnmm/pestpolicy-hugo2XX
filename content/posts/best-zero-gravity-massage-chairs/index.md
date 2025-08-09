@@ -33,7 +33,7 @@ Shiatsu and Twist program -LM6800 uses the Japanese
 [Shiatsu](http://www.shiatsusociety.org/treatments/about-shiatsu)
 technology, wherein its original form by humans - palms, thumbs, and fingers stretches the muscles and joints appropriately.
 - Shiatsu will restore body balance, offers energy, and enhance the better flow of blood.*Here's an LM6800 Installation Video.*
-https://www.youtube.com/watch?v=FCrzUzZiXtE
+
 ### [2. Official Medical Shiatsu Breakthrough 4 Recliner](https://www.amazon.com/dp/B073SL2GR1/?tag=p-policy-20)
 The Official Medical Shiatsu Breakthrough 4 Recliner is recommended by medical specialists such as pain specialists and chiropractors.
 A
@@ -45,7 +45,7 @@ Notably, the chair is comfortable and great for senior citizens and persons that
 M
 emory functions - The chair possesses two memory features allowing you to save and remember the massage settings and chair positions, particularly when in use by varied users or massage periods.
 Infrared Heating function - The chair has Infrared heating that utilizes carbon fiber to generate radiant heat serving to increase your body's temperature.
-https://www.youtube.com/watch?v=Rc-aoaGpeJ8&feature=youtu.be
+
 ### 3. BestMassage Shiatsu Chair  - Best Indoor Zero [Gravity Chair](https://www.amazon.com/dp/B00YGKYJGG/?tag=p-policy-20)
 BestMassage Shiatsu Chair with Long Rail and Heat allows big calves and protection against overheating.
 T

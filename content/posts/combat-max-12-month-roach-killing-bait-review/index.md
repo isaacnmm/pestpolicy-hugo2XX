@@ -28,7 +28,7 @@ Best Roach Killers
 While roach showers and sprays are only good for getting rid of the roaches you see, they are not very effective at dealing with infestations. This is because
 roaches propagate at an alarmingly high rate, and it doesnt take long for them to repopulate after a roach spray
 attack.
-https://www.youtube.com/watch?v=BkrhY-2sqIY
+
 You need a powerful bait, such as the one in the Combat Max 12 Month
 Roach Killer
 . Baiting is a more effective way of dealing with cockroaches because it slowly but gradually spreads the poison within their population and hideouts.

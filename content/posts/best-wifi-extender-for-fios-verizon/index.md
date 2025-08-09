@@ -30,7 +30,7 @@ The EX6400 series of the Wi-Fi-Range-Extender has substantial improvements from
 - its predecessor. It can connect to the 802.11 ac devices in addition to the old b/g/n (2.4 GHz) ones. The Ethernet port will allow you to connect your smart TV or game console to the Verizon WiFi network.
 With the compact wall-plug design, you'll easily plug the Wi-Fi-Range-Extender into the power outlet, and LED indicator lights will enable you to place the device in the correct location for maximum performance.
 You can use the WPS button to generate inter devices connections. Further, the device has 2 WiFi Modes: a WiFi access locus (dedicated), or you can select an extended range. The extender will work with various gateways and routers.
-https://www.youtube.com/watch?v=VXaZvLV6npU
+
 ### [2. Nighthawk AC1900 WiFi Extender (EX7000-100NAS) - #2 Pick](https://www.amazon.com/dp/B00R92CLD6/?tag=p-policy-20)
 Netgear's Nighthawk EX7000 is a modern and powerful WiFi extender that has similar features to the AC1900 series in the R7000 router. Considering the side, EX7000 is much smaller than the R7000 series.
 Netgear Nighthawk EX7000 WI-FI Extender also has Ethernet ports (5 GHz) and thus may serve as a Gigabit Ethernet Switch.
@@ -40,7 +40,7 @@ It has a dual-band 802.11ac WiFi, which allows 1300Mbs (for 5 GHz), and 600Mbs (
 The device has 5 USB 3.0 ports that you can use to connect a USB flash drive that can act as a network share. With the 5GHz Ethernet ports, you'll easily connect with multiple game consoles, TVs, and computers.
 With the online portal, you can easily set up the 2.4GHz & 5GHz bands. However, you would need to touch the WPS button to connect to another wireless device.
 Further, with the WiFi Analytics app, you can pinpoint the crowded WiFi channels or note the network signal strength.
-https://www.youtube.com/watch?v=v6ljxqA1DMY
+
 ### [3. NETGEAR Nighthawk X4 AC2200 WiFi Range Extender (EX7300) - #3 Pick](https://www.amazon.com/dp/B01D6JEMWS/?tag=p-policy-20)
 Third, in line with the Best WiFi Extender for Verizon Fios, is the X4 AC2200 NETGEAR-Nighthawk. Characteristically, the X4 AC2200 NETGEAR-Nighthawk Extender has a white and grey color scheme.
 The WiFi extender has a 3-pin plug and a model tower look.Are you worried about WiFi overheating? Well, the X4 AC2200  Extender comes with vents on all its sides and reduces overheating problems.

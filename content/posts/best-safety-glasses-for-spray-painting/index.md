@@ -41,7 +41,7 @@ Pros:
 Cons:
 - None found
 
-https://www.youtube.com/watch?v=bMZIDlNgDm0
+
 ### [2. Uvex Stealth OTG Safety Glasses](https://www.amazon.com/dp/B003U9VE94/?tag=p-policy-20)
 This is another popular over the glass edition from Uvex, specially designed to fit over standard prescription glasses.
 
@@ -58,7 +58,7 @@ Pros:
 Cons:
 - The wrap-around head band is uncomfortable to some
 
-https://www.youtube.com/watch?v=4X5P4p6IEIs
+
 > Read Also:
 > Automotive HVLP Spray Gun for the Money
 ### [3. Crew Law OTG Dielectric clear anti-fog safety glasses](https://www.amazon.com/dp/B074J4MX49/?tag=p-policy-20)

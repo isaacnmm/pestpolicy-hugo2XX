@@ -39,7 +39,7 @@ flea dirt
 . Any live fleas should be placed in a bowl of soapy water. If you're not sure any dirt found on your comb is actually from fleas, you can place it on the soapy water - if it turns red, this is a
 sign that its flea dirt
 .
-https://www.youtube.com/watch?v=NkWCcSNJVCA
+
 ### Step 2: Run the flea comb through the hair - "head towards its tail."
 Now, run the flea comb
 through your pet's hair

@@ -44,7 +44,7 @@ Pros:
 Cons:
 - Non-adjustable headband
 
-https://www.youtube.com/watch?v=HRn4e_wGOTU
+
 Read Also:
 Best Wireless Mic for iPhone
 ### [2. AKG C520 L Headset Vocal Microphone - #2 Pick](https://www.amazon.com/dp/B07Q9YKB8D/?tag=p-policy-20)
@@ -65,7 +65,7 @@ Pros:
 Cons:
 - Costly
 
-https://www.youtube.com/watch?v=X0_sSZrFJW8
+
 Read Also:
 Noise Cancelling Headphones for Babies
 ### [3. Countryman E6 Mic Omni-Earset - #3 Pick](https://www.amazon.com/dp/B00B8VXFK2/?tag=p-policy-20)

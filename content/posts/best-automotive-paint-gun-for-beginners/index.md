@@ -36,7 +36,7 @@ Pros:
 Cons:
 - The stock is not readily available in most stores
 
-https://www.youtube.com/watch?v=8-3re8Z_NLw
+
 ### [2. DeVilbiss StartingLine 802342 Spray Gun Kit - #2 Pick](https://www.amazon.com/dp/B000KSTFJO/?tag=p-policy-20)
 This edition of the DeVilbiss 2-gun set offers great value for money from a reputable and trusted brand. Although it can easily pass for an entry-level spray gun, it is versatile enough to cover whole cars.
 
@@ -55,7 +55,7 @@ Pros:
 Cons:
 - None found
 
-https://www.youtube.com/watch?v=jaDD9n_PEgw
+
 ### [3. Master Pro 44 series HVLP ultimate sprayer painter #3 Pick](https://www.amazon.com/dp/B07J5Q83MR/?tag=p-policy-20)
 The Master Pro 44 series is all you need for automotive base coats and clear coats, which utilizes the advanced atomization technology - here's
 how to remove the spray paint smell.

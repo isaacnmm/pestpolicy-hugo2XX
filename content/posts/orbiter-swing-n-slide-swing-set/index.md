@@ -27,7 +27,7 @@ The swing set has wood construction that is superior or swig set compared to the
 It is considered to be a more straightforward option in its class. The budget favorable swing set is designed to be low maintenance due to its uniquely created Woodguard posts. Read Also:
 [Best Stain For Cedar Swing Set](https://pestpolicy.com/best-stain-for-cedar-swing-set/)
 .
-https://www.youtube.com/watch?v=Eto4cuSgXXY
+
 ### *Ease of** installation *
 The set is easy to install, requiring an average of 3 hours to complete the whole process. For ease of installation and durability, the swing set comes with small predrilled holes and has anchors.
 Further, the company provides an easy to follow Orbiter Swing-N-Slide installation guide. The swing set will support a swing arc that is higher since it is 7 foot High. Read Also:

@@ -47,7 +47,7 @@ Cons:
 - The Package quantity could be more
 - May require further thinning for some particular surface application
 
-https://www.youtube.com/watch?v=MqPNMW7HSuY
+
 > See Also:
 > Paint Sprayer for Interior Walls
 ### [2. Design Master 746 Garden, Antique Gold](https://www.amazon.com/dp/B00114PXEW/?tag=p-policy-20)
@@ -74,7 +74,7 @@ Cons:
 - It comes in limited colors for optional selection
 - Unsuitable for commercial use - low quantity can
 
-https://www.youtube.com/watch?v=L1h_0k4m1O0
+
 > See Also:
 > HVLP Spray Gun for Lacquer
 ### [3. Krylon K01000A07 Premium Spray Paint](https://www.amazon.com/dp/B000BZX3H6/?tag=p-policy-20)

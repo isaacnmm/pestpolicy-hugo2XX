@@ -47,7 +47,7 @@ These beardies will readily eat tomatoes because they obtain vitamin A from them
 - Helps in protein synthesis
 - Promotes skin development - just like[apples for Bearded Dragons](https://pestpolicy.com/can-bearded-dragons-eat-apples/)
 However, it is advisable not to feed your beardie on too many tomatoes because they are high in oxalic acids. Oxalic acid inhibits the absorption of calcium which is necessary for bone development and in egg production by female dragons.
-https://www.youtube.com/watch?v=C9dE88_bgqc
+
 Although tomatoes contain too much vitamin A, they are not likely to kill your bearded dragon. Thats because your beardie readily converts the beta carotene in tomatoes into vitamin A whenever their body needs it.
 If theres enough vitamin A in their body, beta carotene is excreted as waste. However, they can easily be poisoned by synthetic vitamin A since they cannot excrete any excess.Related:
 Are Leopard Geckos Nocturnal

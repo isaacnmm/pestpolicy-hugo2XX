@@ -52,7 +52,7 @@ Rubbing alcohol is suitable for resenting soot stains as its action capability i
 - Repeat the previous steps until the soot is cleaned. Dont use a soot-stained sponge  wash it with soap and water before re-using
 - Clean the wall surface with Soapy detergent and leave it to dry naturally
 Melamine sponge is commercially available  it helps in improving the soot removal process.
-https://www.youtube.com/watch?v=X8tnJZxEtHM
+
 ### Method 3: Commercial Soot Remover
 Commercial soot remover such as Rutland 100B, contains active components, which helps in soot disintegration upon application.
 The solvent kills the soots adhesive contact on the wall surface, hence making it easier to remove.
@@ -118,7 +118,7 @@ Besides, the solvent kills adhesive forces between soot and wall surface thus en
 - Rinse the wall with clean water and leave it to dry naturally
 > See Also:
 > [Removing Spray Paint from Concrete](https://pestpolicy.com/how-to-remove-spray-paint-from-concrete/)
-https://www.youtube.com/watch?v=Igfp7aqeSTA
+
 ## Best Homemade Soot Remover from Wall
 You can consider using either of the following homemade soot removers for your soot cleaning process:
 ### Method 1:Using Vinegar  White Vinegar

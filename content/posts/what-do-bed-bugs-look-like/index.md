@@ -40,7 +40,7 @@ Tapered and oval body shape - it'll remain flat on their body shape until they'r
 Lenght of 4 - 5 mm (or 3/16 an inch)
 - You'll only see bed bugs in the daytime during food scarcity (fewer blood meals) or if there are heavy infestations - otherwise the bugs are mainly active at night.
 - You'll get bed bugs in homes, motels, and hotels - and thus knowhow to vacuum for bed bugs.
-https://www.youtube.com/watch?v=yGYbkjKnoag
+
 ## Signs or Indicators of Bed Bug Problems
 Below are the key indicators of the bed bug problems you'll get in your spaces.
 **1. Bed Bug Bites**

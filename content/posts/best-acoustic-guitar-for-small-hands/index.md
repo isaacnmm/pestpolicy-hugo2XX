@@ -44,7 +44,7 @@ Pros:
 Cons:
 - Some don't love its double-cutout design
 
-https://www.youtube.com/watch?v=bpijRA6h0tU
+
 ### [2. Taylor Academy 12e Series Acoustic-Electric Guitar](https://www.amazon.com/dp/B004MM8P3Q/?tag=p-policy-20)
 Taylor Academy 12e is also a great small-hand acoustic guitar with a width at Nut of 42.8 mm (1.687 inches) - it sounds great and it's equally light-weight.
 
@@ -70,7 +70,7 @@ Pros:
 Cons:
 - The build is not super top quality
 
-https://www.youtube.com/watch?v=nlrGZp-xedc
+
 ### [3. Littel Martin LX1 Small-Hand Acoustic Guitar](https://www.amazon.com/dp/B001R2O0BK/?tag=p-policy-20)
 With just 8 pounds, and measuring 18 in by 7 in by 39 in - this 23-inch scale instrument is great for adults or student player that have small hands, and who'd find full-size guitars being a challenge. Well, Martin will offer great playability, sound, and body quality.
 

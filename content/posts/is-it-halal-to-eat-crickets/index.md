@@ -30,7 +30,7 @@ Among the four major Sunni Islamic schools of thought (Madhabs), there are diffe
 - **Hanafi School:**Hanafi scholars generally hold the view that consuming bugs and insects is forbidden (haram).
 - **Maliki School:**Conversely, scholars within the Maliki school accept the consumption of insects, including crickets.
 - **Shafi'i and Hanbali Schools:**Scholars from the Shafi'i and Hanbali schools exhibit a nuanced stance, permitting the consumption of certain insects while prohibiting others. The specifics may vary among scholars within these schools.
-https://www.youtube.com/watch?v=L5IL49FL9r0
+
 ### The Role of Source and Preparation
 The halal status of insects hinges significantly on their source and how they are prepared. Just like any other food, insects must be sourced from reputable and halal sources.
 - This ensures they are raised and harvested in compliance with Islamic principles - acccording to the[Islamic Services of America](https://www.isahalal.com/news-events/blog/eating-insects-halal).

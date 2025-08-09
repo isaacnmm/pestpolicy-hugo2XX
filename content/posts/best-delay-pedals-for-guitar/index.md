@@ -37,7 +37,7 @@ Its highly usable due to its large knobs and hence easy to dial in the settings 
 Short Scale Electric Guitars
 .
 
-https://www.youtube.com/watch?v=ZU0ct39DeBI&feature=youtu.be
+
 ### [2. Line 6 DL4 Stompbox Delay Modeler - #2 Pick](https://www.amazon.com/dp/B0002CZVKK/?tag=p-policy-20)
 Line 6 DL4 Stompbox Delay modeler is both a digital delay plus a looper with a 14 seconds delay time.
 
@@ -47,7 +47,7 @@ It provides a variety of sounds such as instantaneous reverse delay, tape loop e
 
 I loved that the DL4 delay pedal is rugged and flexible. It has amazing sounds like the Auto-Volume Echo that couples a tape-style echo and the volume swell. Further, it has 4 footswitches that youll use to save and recall sounds. Also, the 6 knobs will be helpful to select models and change various parameters.
 **Using DL4 Delays**
-https://www.youtube.com/watch?v=x1zqZQZjkfM&feature=youtu.be
+
 
 Read Also:
 Acoustic Guitar Under 1500
@@ -96,7 +96,7 @@ Therefore, for a dirty signal and when you need long delays, the digital delay w
 
 However, feeding distorted or thick sound to the analog delay pedal could lead to the reproduction of harmonics at each repeat and hence lead to poor sound outcomes.
 **How to Choose the Best Delay Pedal**
-https://www.youtube.com/watch?v=wFH9W8GD9c0
+
 
 Read Also:
 [Delay Pedals for Guitar Reviewed](https://pestpolicy.com/best-delay-pedals-for-guitar/)

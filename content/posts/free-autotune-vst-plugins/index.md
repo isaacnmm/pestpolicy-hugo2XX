@@ -29,7 +29,7 @@ Notably, MAutoPitch entails a high-end user interface which offers an excellent 
 The visual display gives all the parameters and values straight to your eyes for easy interpretation and customization. As with most of the typical plugins, this one comes with options for varying the depth, speed, and for detuning.
 The speed knob allows you to set the speed at which the system skips out-of-tune notes. High speeds allow the system to quickly jump from one note to another, which may result in rough sounds. Smoother transitions can be attained by setting the system to a lower speed.
 With the depth control, youre able to set the plug-in so that it enhances the sound depth to the required level. Detune is meant for fine-tuning where you `can control the pitch to the most desirable levels.
-https://www.youtube.com/watch?v=8TvONFY1EH0
+
 ### **2. ****Auburn Sounds Graillon 2**
 Grail 2 will compete with even with most of the high-end autotune plugins in the market. Right from its good performance to its old-school user interface, everything in this plugin promises to take your studio [recording](https://pestpolicy.com/best-belt-sander-for-deck/) to another level.
 This user interface presents you with various control icons that you can easily set to your desired position. The display gives a waveform showing the current status of your note and corrections being executed by the plugin.

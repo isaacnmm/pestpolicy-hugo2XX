@@ -32,7 +32,7 @@ Birchwood - Haotian FST15 DG has a strong Birchwood frame that will provide adeq
 - My sister required a rocking chair for their kids nursery and theHaotian FST15-DGcame in handy.
 The key requirement was that the nursery rocker should have been both strong and comfortable. Interestingly, the Haotian FST15-DG is great for a nursing mother.
 Cotton cover - Haotian FST15 DG nursery chair has a cotton cover coupled with a zip to allow easy removing and washing. However, the cotton cover could stain easily if you are not careful about using proper cleaning processes.
-https://www.youtube.com/watch?v=UgDcn4HmPeg
+
 Read Also:
 Outdoor Rocking Chairs
 ### [2. Nursery Sleepytime Rocker with Ash Hardwood legs](https://www.amazon.com/dp/B00MVILHJC/?tag=p-policy-20)
@@ -52,7 +52,7 @@ Hand-crafted upholstery - The nursery rocking chair has a hand-created and safe 
 - You truly will not just get a truly functional chair but also a beautiful and stylish component added to your nursery space.
 - Ash hardwood -The chair is crafted from Ash hardwood that is properly balanced to offer an amazingly comforting rocking motion.
 Further, the Upholstery material is chemical-free. Also, the chair satisfies the CA TB117-2013 requirements on flammability.
-https://www.youtube.com/watch?v=2PpGKqFmja0
+
 Read Also:
 Neck and Shoulder Massager
 ### [3. Esright Gray Fabric Rocker Relax Glider](https://www.amazon.com/dp/B07X3BF3CP/?tag=p-policy-20)
@@ -68,7 +68,7 @@ The material soothes the mother with great comfort as they rock their baby to sl
 Wide sitting area - Compared to other single nursery rocking chairs, the Esright Gray rocker is a bit wide from back to front edge.
 You and your kids can easily stretch on the chair while you are rocking and sitting. Also, the chair has a good size that will fit excellently into the nursery.
 Strong Framework - Further, Esright Gray Fabric Rocker has a sturdy framework that will give you a guarantee of safety while you are nursing.
-https://www.youtube.com/watch?v=x1asKNi43CA
+
 Read Also:
 Zero Gravity Massage Chairs
 ### [4. ACME 59390 Sharan Rocking Chair](https://www.amazon.com/dp/B01HHUG7DE/?tag=p-policy-20)

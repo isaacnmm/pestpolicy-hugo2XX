@@ -41,7 +41,7 @@ Pros:
 Cons:
 - Not suitable for large projects
 
-https://www.youtube.com/watch?v=pY1vC-a8k3k&t=27s
+
 > See Also:
 > Paint Roller for Smooth Finish
 ### [2. Graco Magnum 262805 X7 Paint Sprayer](https://www.amazon.com/dp/B0026SSW8G/?tag=p-policy-20)
@@ -67,7 +67,7 @@ Pros:
 Cons:
 - It is expensive
 
-https://www.youtube.com/watch?v=KKxakPtaP3c&t=10s
+
 > See Also:
 > Sprayer for Fence Stain
 ### [3. HomeRight C800766 Finish Max Paint Sprayer](https://www.amazon.com/dp/B003VKFDEO/?tag=p-policy-20)

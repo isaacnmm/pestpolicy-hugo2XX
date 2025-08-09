@@ -49,7 +49,7 @@ cannot also survive in hot water. Normally, adult
 bed bugs
 and nymphs die at between 104F and 122F. Eggs are more heat-resistant, and you will be required to heat water to 125F or more for them to die. Read Also:
 Does Salt Kill Bed Bugs?
-https://www.youtube.com/watch?v=dlpsDjat1KI
+
 ## **How to Kill Bed Bugs with Water**
 When used correctly,
 water + bleach can be used to kill bed bugs

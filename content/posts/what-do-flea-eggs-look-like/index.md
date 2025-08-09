@@ -41,7 +41,7 @@ dawn dish soap
 fleas human hair
 ), yard, or on the pet.
 Flea eggs are microscopic creatures thatll look like the grain of salt. Notably, a single grain of salt dropped on some of the ground may be difficult to notice or find. They are microscopic and thus will only be seen when theyre in clusters.
-https://www.youtube.com/watch?v=o0W5eeUqcQQ
+
 ### 2.Color - What Color Are Flea Eggs?
 Flea eggs are off-white because of their flexible-chorion and soft shell  it may mistake the flea egg for a grain of salt
 of dirt while on the ground.
@@ -141,7 +141,7 @@ kill flea eggs
 and the larvae, too - equally by keeping your home tidy and clean. Also, you must vacuum under rugs and carpeted areas.
 Vacuuming on the hidden areas allows a quicker sucking on flea cocoons, larvae, and eggs. Equally, flea frequently hates disruption by blowers or vibrations and hence will prevent flea growth.
 Vacuuming will suck up the eggs in carpets and other fabrics. This will be incredibly helpful for indoor pets, spending most of their time on furniture, bed, or couch.
-https://www.youtube.com/watch?v=9aKUWodbSQE
+
 ### 3. Grooming with Flea Combs
 Flea combs for cats
 or dogs will help eject the eggs (or their clusters) from the pet's fur. Therefore, ensure you run the combs thoroughly in the pet's fur without injuring their skin.

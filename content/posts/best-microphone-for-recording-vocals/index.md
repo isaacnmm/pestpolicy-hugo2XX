@@ -48,7 +48,7 @@ Pros:
 Cons:
 - Less suitable for studio recoding
 
-https://www.youtube.com/watch?v=G5-3tm4ru-k
+
 ### [2. Rode NT1-A Cardioid Condenser Mic - #2 Pick](https://www.amazon.com/dp/B002QAUOKS/?tag=p-policy-20)
 Rode NT1-A is a versatile vocal mic that you can use with a range of instruments and varied singers with its non-dramatic boosts. You can shape the sound with EQ - great for recording various sources.
 
@@ -101,7 +101,7 @@ Pros:
 Cons:
 - Side-sound rejection is not properly refined
 
-https://www.youtube.com/watch?v=qKcyINVNmkI
+
 ### [4. Sennheiser MD 421 II Dynamic Vocal Mic - #4 Pick](https://www.amazon.com/dp/B0002H0RBS/?tag=p-policy-20)
 Sennheiser MD 421 II is also a great vocal mic for rock music - its a versatile recording dynamic mic. The cardioid dynamic mic has a
 large-diaphragm vocal mic

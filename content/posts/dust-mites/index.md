@@ -32,7 +32,7 @@ and reside in house dust.
 - Dust mites feed on dander - which are peelings of dead skin that are shed by pets and humans.
 Immunologists and allergists note that dust mites are major irritants that will worsen asthmatic symptoms and spark allergic attacks.
 - However, you don't have to worry about dust mites if they do not cause allergic reactions to you.
-https://www.youtube.com/watch?v=6hF8y41KXDM
+
 ## How Dust Mites Make Humans Sick
 From the onset, I have to say that dust mites do not bite humans.
 However, humans get sick when they get exposed to dust [mite](https://pestpolicy.com/what-do-dust-mites-look-like/) proof or faces, especially for people who have dust mite allergies.

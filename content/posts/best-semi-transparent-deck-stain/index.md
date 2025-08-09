@@ -55,7 +55,7 @@ Cons:
 - There are complain of over-saturation in heavy rain areas.
 - Its not suitable for commercial stain application.
 
-https://www.youtube.com/watch?v=jFic-2cKy1E
+
 > See Also:
 > Deck Stain for Pressure Treated Wood
 ### [2. DEFY Extreme 1 Gallon Semi-Transparent Exterior Wood Stain](https://www.amazon.com/dp/B0061OIK4M/?tag=p-policy-20)
@@ -83,7 +83,7 @@ Cons:
 - It may be more shinny, transparent on some wood deck.
 - Not suitable for small area application
 
-https://www.youtube.com/watch?v=kE1Pi4wb7GY
+
 > See Also:
 > Painting Vs Staining Deck
 ### [3. THOMPSONS WATERSEAL TH.042851-16 Semi-Transparent Stain](https://www.amazon.com/dp/B00KIZXYCI/?tag=p-policy-20)

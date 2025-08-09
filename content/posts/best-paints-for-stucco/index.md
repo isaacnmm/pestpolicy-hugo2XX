@@ -39,7 +39,7 @@ Pros:
 Cons:
 - Its very thick
 
-https://www.youtube.com/watch?v=M0E6FOL1RXM
+
 > See Also:
 > Gravity Feed Spray Guns
 ### [2. INSL-X AMW100009A-01 Water Block Acrylic Paint, White](https://www.amazon.com/dp/B07KXN7XSY/?tag=p-policy-20)
@@ -61,7 +61,7 @@ Cons:
 - Strict temperature adherence
 - Not suitable for interior surfaces
 
-https://www.youtube.com/watch?v=oIsgXisOEpc
+
 > See Also:
 > Sprayer for Latex Paint
 ### [3. Masonry and Stucco Paint, Black](https://www.amazon.com/dp/B00LWGAFH4/?tag=p-policy-20)

@@ -67,7 +67,7 @@ Excellent Upper: The upper of Brooks Glycerin 13is made using a 3D printer techn
 Exceptional Support: If you want a shoe that will offer you unmatched support for both your feet and lower back, try Brooks Glycerin 13.
 - The design of the shoe is built in a way that ensures an athlete gets the necessary support and stability.
 The heel and the area are high enough to provide a more firm fit near the ankle, thus, a reliable grip on different surfaces. Athletes with medium or high arches get to benefit from this terrific shoe. Check this
-[video](https://www.youtube.com/watch?v=YUwn0_2HahU)
+[video](
 .
 Pros:
 - Comfortable shoe
@@ -81,7 +81,7 @@ Cons:
 - Some customers complained that the outsole rubber was not ideal for wet surfaces
 - Relatively pricey
 ?
-https://www.youtube.com/watch?v=YUwn0_2HahU
+
 Read Also:
 Neck and Shoulder Massager
 ### [3. Mizuno Wave Rider 20 Mens Running Shoe - #3 Pick](https://www.amazon.com/dp/B01GXPT5IS/?tag=p-policy-20)
@@ -108,7 +108,7 @@ Cons:
 - Some customers complained that the toe box is a bit big
 ?
 
-https://www.youtube.com/watch?v=lywhGBV6Nxo
+
 Read Also:
 Bullet Journal Notebook
 ### [4. New Balance Women's W1340V2 Running Shoe](https://www.amazon.com/dp/B00GYOVUOQ/?tag=p-policy-20)
@@ -123,7 +123,7 @@ This shoe has a durable and stable sole thats made of rubber to give you needed 
 Comfortable And Supportive: The New Balance 1340 v2 features N2 technology that provides low ground impact cushioning that protects your feet from ground impact when they hit the ground.
 This technology is highly responsive and offers durable cushioning and a support system to the shoe.
 This extra cushioning protects your legs, feet, knees, and lower back from the ground impact, giving you the support and comfort you need. Check this
-[video](https://www.youtube.com/watch?v=3TgoSxaXbUU)
+[video](
 .
 Pros:
 - Stylish and attractive

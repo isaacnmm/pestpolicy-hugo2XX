@@ -39,7 +39,7 @@ Pros:
 - Compatible with both water and oil-based paints
 Cons:
 - There are chances of the spray gun clogging if proper thinning of the paint is not done.
-https://www.youtube.com/watch?v=7lMIGtFWbic
+
 ### 2. Why do priming on the galvanized surface before painting?
 As a painter, you can carry out the painting with or without priming and it will still hold, but how durable is it?
 If indeed you want the paint to adhere to the galvanized surface well, then priming the surface will be very necessary.

@@ -95,7 +95,7 @@ Cons:
 - Bulky mower
 - Not suitable for mowing on sloppy grounds
 
-https://www.youtube.com/watch?v=OSMf3qU_-Hk&amp=&feature=youtu.be
+
 ## Considerations in Riding Lawn Mower for 2 Acres
 ### 1. Comfortable Back Seat
 When riding through your 2 acres, you must maintain comfort through an ergonomic posture when youre sitting.
@@ -112,7 +112,7 @@ This Air Induction technology helps improve the efficiency of the mower by enhan
 This technology is an excellent addition to the mowers because it allows yard owners to achieve consistent cuts in their mowing  both for small or large yards.
 ### 4. Deck Wash Port
 Definitely, after mowing for many hours, youll require to clean the tractor  thats where you need the deck wash port.
-https://www.youtube.com/watch?v=94VplhoAX0U
+
 You can easily connect the deck wash port to your water horse and clean your mower  this also ensures low maintenance.
 ## Conclusion
 Additional features for the riding lawn mower include non-slip foot pads, cup holders, and mulching kits.

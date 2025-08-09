@@ -43,7 +43,7 @@ Pros:
 Cons:
 - Slightly Expensive
 - Lacks LED signal indicators for EQ
-https://www.youtube.com/watch?v=7-l13Klaygg
+
 ### [2. EBS-RD750 Reidmar 750 Watt Micro-amplifier](https://www.amazon.com/dp/B017BWN13W/?tag=p-policy-20)
 EBS-RD750 Reidmar is a top-quality bass amp for beginners that features a robust in-built control drive circuitry (750 watts), which is dedicated to delivering finite sound quality during live performance or recording.
 I
@@ -63,7 +63,7 @@ Pros:
 - Budget-friendly and low maintenance
 Cons:
 - None
-https://www.youtube.com/watch?v=MHG4kdocxqY
+
 ### [3. Fender Rumble 500 v3 Bass Combo Amplifier](https://www.amazon.com/dp/B00HWINPLO/?tag=p-policy-20)
 The Fender Rumble is a powerful electrical bass amp that features a dedicated foot-switchable overdrive circuitry.
 T

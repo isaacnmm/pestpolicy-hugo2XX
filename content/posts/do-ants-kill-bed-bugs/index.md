@@ -46,7 +46,7 @@ The bed bug hunters are named so because they'll hide in the dust when in their 
 - But, it is not advisable to introduce masked bed-bug hunters and some subspecies into the house as they may bring diseases to you and other humans.
 - Also, these masked hunters will bite humans (painfully) whenever they feel threatened - some liken the bite tothat of snakes.
 Masked hunters have wings and may also fly with elongated bodies - found in the eastern and central areas of the US. You'll find the bugs in colder areas - plus the warm and dry areas.
-https://www.youtube.com/watch?v=Fv4qs7_ZXz8
+
 ## Do Ants EatInsects andBed Bugs?
 The Salt Lake scientists report that lizards ate different insects including flies - and the black ants would also exterminate bed bugs. Ants will also feed on nectar and rotting fruits - while Aphids also feeding on sap.
 Other ant species, some red or black, smaller or even larger will scavenge but won't be an effective treatment for the bed bugs. The scavengers and predators will besides feeding on leftovers eat insects.

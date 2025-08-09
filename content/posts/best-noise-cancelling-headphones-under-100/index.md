@@ -46,7 +46,7 @@ Pros:
 Cons:
 - No interference receiver from other devices
 
-https://www.youtube.com/watch?v=mH5-luyb3Wc
+
 Read Also:
 Noise Cancelling Headphones for Babies
 ### [2. Skullcandy Crusher - #2 Pick](https://www.amazon.com/dp/B07C4HK5W1/?tag=p-policy-20)
@@ -73,7 +73,7 @@ Cons:
 - Few colors available  black and gray
 - Earmuffs may be tight for large heads
 
-https://www.youtube.com/watch?v=ekR3IlAF_h4
+
 Read Also:
 [Cheap noise cancelling headphones](https://pestpolicy.com/best-noise-cancelling-headphones-under-50/)
 ### [3. SANAG Bluetooth Wireless Headphone - #3 Pick](https://www.amazon.com/dp/B07V2CBZH5/?tag=p-policy-20)

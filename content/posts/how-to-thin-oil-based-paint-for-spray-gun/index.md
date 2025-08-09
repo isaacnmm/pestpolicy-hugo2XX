@@ -55,7 +55,7 @@ This move aims to keep the thinned paint from losing the achieved viscosity. To 
 ### Step 7: Load your Spray Gun
 Pour the paint into the spray gun and then get into action. To do this, open the spray gun canister and fill in the paint.
 Channel it carefully into the can to avoid spillage. You can get down to work now!
-https://www.youtube.com/watch?v=Ufx-a--e8w8
+
 ## Frequently Asked Questions
 ### 1. Why should the paint be thinned?
 Oil-based paints are quite viscous. They are thick and hence require thinning to avoid clogging the spray guns nozzle in simpler terms.

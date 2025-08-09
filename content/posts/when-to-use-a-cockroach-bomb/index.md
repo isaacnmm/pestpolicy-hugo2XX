@@ -42,7 +42,7 @@ The EPA works effectively in regulating pesticides plus those of roach bombs - t
 - Finally, the EPA recommends a thorough vacuuming, cleaning, and airing of the treated space.
 Notably, if you breathe the insecticide mist, you may cause poisoning to the pets in closed doors and various areas against pets and humans.
 - Therefore, I advise you to keep off the roach-treated spaces for between 2-4 hours - and thus you'll avert possible poisoning or illness.
-https://www.youtube.com/watch?v=FZgRbQt9JCA
+
 ## Should I use a Roach bomb?
 But first,
 total release aerosols,

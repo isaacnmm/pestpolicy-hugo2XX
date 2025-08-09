@@ -46,7 +46,7 @@ Pros:
 Cons:
 - None
 
-https://www.youtube.com/watch?v=aWxmDA8C_3M
+
 Read Also:
 Best Mics for Recording Acoustic Guitar
 ### [2. BOYA BY-WM2G Lavalier Wireless Mic](https://www.amazon.com/dp/B07GSWG9VH/?tag=p-policy-20)
@@ -68,7 +68,7 @@ Pros:
 Cons:
 - None
 
-https://www.youtube.com/watch?v=ZiormWkjAKU
+
 
 Read Also:
 Sound Cards for Music Production
@@ -87,7 +87,7 @@ see quality acoustic guitars
 On design favorably, the Shure MV88 iOS is compact, and hence it'll be easy to fit and carry into the pocket. You can move around with iPhone mic to different travelogues or outdoor video recording.
 Further, Shure MV88 iOS has excellent flexibility as you can simply flip and tilt the iPhone mic to varied directions and thus easily capture the required sound.
 For more comfortable usage, the mic will also work with apps accessible through the Apple store - these are
-[MOTIV Video](https://www.youtube.com/watch?v=0u1GWT_L7_Q)
+[MOTIV Video](
 and MOTIV Audio that allow better recording quality full HD audio.
 The device gives rich, clear, smooth, and crisp sound and vocals eve with no limiting or compression. With an appropriate placement, you'll notice that this is a portable and
 robust vocal mic

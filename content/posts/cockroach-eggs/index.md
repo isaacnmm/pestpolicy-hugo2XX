@@ -44,7 +44,7 @@ The female Furies species of the German cockroach will lay their eggs in warm an
 When the conditions are favorable for the female, cockroaches will create a new capsule of eggs within a few weeks.
 - After it is produced, a female roach will carry the egg capsule until sometime (one day or 2) before the eggs hatch.
 The egg case of the cockroaches will be enclosed by a protein that will harden to form a protective and strong casing.
-https://www.youtube.com/watch?v=Jz4F-vQesm0
+
 ## Locations to Find Cockroach Eggs
 It is common to find cockroaches in areas like the kitchens and bathrooms.
 - The locations have adequate water and food and thus act like nurseries for the young coaches and the cockroach eggs.

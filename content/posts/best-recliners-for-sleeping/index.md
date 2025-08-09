@@ -32,7 +32,7 @@ The recliner has a quick lever pull that you can use to position yourself comfor
 The rocking recliner would be an amazing nursery chair, in addition to its use in the living room. It's forth rocking and gentle back with comfort, both adults and children, to slumber.
 It has adequate padding on the arms and back to offer enough comfort. Unique features include contemporary Design, Lever Recliner, and Rocker Feature, and Plush Upholstered Arms, and Leather and polyurethane cover.
 Highlighted Features - The recliner has a padded headrest, which will enable you to lay your head on it and sleep sweetly; the recliner has a padded footrest to increase the leg and lower back.
-https://www.youtube.com/watch?v=Q5Zf57r3YeA
+
 ### [2. HomCom Heating PU Leather Recliner - Runner-Up](https://www.amazon.com/dp/B00GI1OH8G/?tag=p-policy-20)
 HomCom Deluxe Heated Vibrating Recliner can recline to a different position, and the massager will soothe your tight back and neck muscles.
 Also, the chair has a heating function that will enhance your slumber. Further, the chair can spin by 360 degrees to face your required direction.
@@ -48,7 +48,7 @@ Are you a temperamental sleeper? Or do you like laying totally flat? Or do you f
 - Life reclining mechanism - The chair's motor supports both the lift and recliner that you can operate by pushing a switch to get great lounging occurrence.
 Quality upholstery and Frame - The chair is made from brown upholstery that is thick and feels smooth. Also, it has a comfortable high back with a frame that is corner-blocked and strong.
 The strong metal frame will guarantee safe lift and reclining even for seniors and people with mobility challenges.
-https://www.youtube.com/watch?v=aBvbPSmw6Tg
+
 ### [3. Perfect Sleep Chair - Medical & Lift Chair](https://www.amazon.com/dp/B01M0B7RYL/?tag=p-policy-20)
 The perfect sleep chair is considered the Bugatti Veyron of recliner chairs. Despite its relatively high price, the Perfect Sleep Chair has features that will excel as a slumber recliner.
 - You can use the recliner like a semi-massager, lift chair, sleeper, or medical chair. Its full weight is 125 lbs and will hold a maximum of 375 lbs.

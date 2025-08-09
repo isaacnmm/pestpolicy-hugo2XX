@@ -34,7 +34,7 @@ Pros:
 Cons:
 - None found
 
-https://www.youtube.com/watch?v=qKcyINVNmkI
+
 Read Also:
 Best Condenser Mic Under 200
 ### [2. Heil Sound PR40 Dynamic Cardioid Studio Microphone](https://www.amazon.com/dp/B000SOYOTQ/?tag=p-policy-20)
@@ -52,7 +52,7 @@ Pros:
 Cons:
 - Lacks a pop filter
 
-https://www.youtube.com/watch?v=O_9hagV0ntE
+
 Read Also:
 XLR Mic for Streaming
 ### [3. Rode Procaster Cardioid Dynamic Mic](https://www.amazon.com/dp/B001IPUJJI/?tag=p-policy-20)

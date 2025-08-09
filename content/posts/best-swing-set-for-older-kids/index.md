@@ -46,7 +46,7 @@ Pros:
 Cons:
 - Quite pricey
 
-https://www.youtube.com/watch?v=Iaz-uFiKxDk
+
 ### [2. Step2 Naturally Playful Adventure Lodge Swing Set - #2 Pick](https://www.amazon.com/dp/B003NYEDYE/?tag=p-policy-20)
 Let your children develop their social skills, creativity, imagination, balance, and coordination with Step2 Naturally Playful Adventure Lodge Swing Set and Play Center.
 
@@ -68,7 +68,7 @@ Pros:
 Cons:
 - Adult supervision is required when kids are playing
 
-https://www.youtube.com/watch?v=SleUbnAziTU
+
 ### [3. Lifetime Adventure Tower Playset _#3 Pick](https://www.amazon.com/dp/B00J39JSJI/?tag=p-policy-20)
 Open your childs world of imagination with a lifetime's adventure tower playset. This playset offers a perfect way to indulge your kids in healthy physical activities.
 

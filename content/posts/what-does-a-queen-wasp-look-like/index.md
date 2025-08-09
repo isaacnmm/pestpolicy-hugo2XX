@@ -96,7 +96,7 @@ You will find the Queen Wasp in gardens, meadows, parks or in woodland. It becom
 
 Also, you may slightly see Queen Wasp during end of Autumn and early summer since this is the time it build nest and lay drone eggs, which mature during the summer period. The last egg laid at the end of the summer is usually fertilized purposely to raise a new queen.
 
-https://www.youtube.com/watch?v=X1Frjlm0tIs
+
 ## Are Queen Wasps be aggressive?
 Yes! The Queen Wasp and female wasps contain stinger. In case the Queen Wasp detects any danger, it becomes very aggressive. It will command its soldiers (workers) to attach the enemies.
 

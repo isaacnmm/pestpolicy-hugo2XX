@@ -60,7 +60,7 @@ NB: Its advisable to desist from using exterior paint in small rooms that are no
 See Also:
 Painting Bathroom Cabinets
 ## What are the Major Difference Between Indoor Paint and Outdoor Paint
-https://www.youtube.com/watch?v=j52-EXFqpn8
+
 ### 1. Chemical formulation
 Exterior paint features a complex structural formulation that mainly relies on acrylic resin, while interior paint entails a simple structural formula set on natural ingredients.
 Exterior paint is especially agitated to improve stickiness ability and comes with self-activating formula, while interior paint has an explicit formulation that requires water integration for activation.

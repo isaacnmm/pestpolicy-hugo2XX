@@ -41,7 +41,7 @@ Pros:
 Cons:
 - Some users say it does not last long enough
 
-https://www.youtube.com/watch?v=Org6WJyBEW4
+
 ### 2.[FMC Talstar Professional 3/4 Gallon Spider Killer - Close Second](https://www.amazon.com/dp/B01I5IRVDC/?tag=p-policy-20)
 This repellent is primarily created for commercial purposes. It is created to kill spiders and other bugs in homes and commercial areas.
 
@@ -59,7 +59,7 @@ Pros:
 Cons:
 - Does not kill for long enough
 
-https://www.youtube.com/watch?v=BRgQO_ynFSs
+
 ### 3.[Ortho Home Defense Comfort Wand Insect Killer](https://www.amazon.com/dp/B01N7KSXHX/?tag=p-policy-20)
 This product - best spider spray for indoors is the favorite for many households who are looking to protect their homes of any type of insects.
 

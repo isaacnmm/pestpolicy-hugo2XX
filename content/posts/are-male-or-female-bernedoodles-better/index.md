@@ -35,7 +35,7 @@ We have already covered the basics but lets take a more analytical approach to r
 It is important to keep in mind there is no major difference between male and female Bernedoodles. Everything we talk about below can be applied to both genders without much change.
 Read Also:
 Flea Combs for Dogs
-https://www.youtube.com/watch?v=IMyREaYn9-k
+
 ## **What are the Types of Bernedoodles?**
 Bernedoodles come in three major types. They are:
 ### **1. Tiny**

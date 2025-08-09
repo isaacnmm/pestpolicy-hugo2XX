@@ -91,7 +91,7 @@ Tea tree oil
 ,
 Lavender oil
 , Pepper powder, and Diatomaceous earth. Check these bed bugs on sofa massive bed bug infestation.
-https://www.youtube.com/watch?v=rXmtCMABLtw
+
 *So, youre wondering, would keeping your very clean prevent a bed bug infestation? *
 - Well, not really; bed bugs will attack whether the place is dirty or clean. However, with a clean house, youll find it easy to spot any bed bugs lucking around.
 - Exterminators recommend that youwash the bed sheets using hot water, avoid buying second-hand furniture, use a mattress cover, reduce room clutter, and inspect hotel rooms for bed bugs.
@@ -257,7 +257,7 @@ and a liberty coin.
 Also, bed bugs will easily migrate from one room or house to another through Wiring.
 - Bed bugs will usually feed on your blood when youre sleeping.
 First, the bug injects a mumbling agent into your body such that youll only feel the bites after about 10 minutes.
-https://www.youtube.com/watch?v=PfuJ8iIMSKY
+
 ## Conclusion
 On thepictures of bed bugs;
 males wont lay eggs like their female counterparts.

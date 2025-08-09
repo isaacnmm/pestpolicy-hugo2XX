@@ -48,7 +48,7 @@ Trisodium phosphate acts by breaking the paint layer into a thick viscous fluid,
 NB: Trisodium phosphate emits poisonous fumes and therefore, special care should be put into place to prevent intoxication  inhaling TSP may chock your respiratory system.
 > See Also:
 > Rust Remover for Concrete
-https://www.youtube.com/watch?v=tatl8Jaqcwg
+
 ### Method 2: Using Paint Stripper or Thinner
 Paint stripper or thinner contains active ingredients, which aids in paint breakdown and structural disintegration upon application.
 The solvent will remove either wet or dried acrylic/latex paint without any problem.
@@ -96,7 +96,7 @@ NB: Sodium bicarbonate wont cause any pollution during application (its environm
 However, soda has high pH, which damages bushes, flowers, and trees  it should not be used near such vegetation. When inhaled, soda fumes may cause nasal irritation.
 > See Also:
 > Lift Acrylic Paint from Concrete
-https://www.youtube.com/watch?v=219bJuXFhW0
+
 ### Method 4: Using a Paint Scraper and Thinner
 **Materials and Tools Required**
 - Paint Thinner like turpentine from Amazon

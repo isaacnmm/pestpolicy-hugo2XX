@@ -57,7 +57,7 @@ As soon as you see any type of spider crawling on your wall, in front of windows
 - These tools will save you all types of panic attacks and stress from spider attacks
 In this video, exterminator Jim Triggs provides some tips on how to kill spiders at home using a spider catcher.
 
-https://www.youtube.com/watch?v=UNwPECUavj8
+
 
 Well, a number of factors are important to consider in deciding whether or not you should contact an exterminator. But, before reaching out to a pest control company, take a look at
 1. What the company can do for you, and
@@ -223,7 +223,7 @@ Homeowners often have a misunderstanding of spiders. On one hand, they only move
 - Getting rid of the pests must start at every level: inside and outside the property - including on your neighbor's property and thus you should alert them before the spider treatment.
 Watch the video below to see how spiderlings hatch from their egg sacs and migrate.
 
-https://www.youtube.com/watch?v=8rTEe2vS-VI
+
 ## Conclusion
 In conclusion, the question of how much do spider exterminators cost? it is far more imperative that you get on top of the infestation as soon as possible before it becomes worse.
 

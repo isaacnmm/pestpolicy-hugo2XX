@@ -54,7 +54,7 @@ Pros:
 Cons:
 - Some users consider it to be too thick
 
-https://www.youtube.com/watch?v=zILUo5L-JZA
+
 > See Also:
 > Semi-Transparent Deck stain
 ### [2. Valspar Semi-Solid Cabot Stain Oil-Based for Siding and Deck](https://www.amazon.com/dp/B002MADHWE/?tag=p-policy-20)

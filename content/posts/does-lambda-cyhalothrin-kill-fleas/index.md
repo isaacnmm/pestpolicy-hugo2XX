@@ -28,7 +28,7 @@ Further exterminators love Lambda-cyhalothrin since it has a longer-lasting resi
 - Physically, lambda-cyhalothrin comes in a mild odor, beige when in solid form, but it's mainly colorless.
 - Also, the chemical is non-volatile and its solubility in water is low.
 Commercially you will find lambda-cyhalothrin in the form of granule formulations, granules, dust, concentrates, or liquid insecticide.
-https://www.youtube.com/watch?v=2gS2xZWfvVI
+
 ## Pros Of Using Lambda-Cyhalothrin For Flea and Pest Control
 Lambda-cyhalothrin is an effective pesticide to exterminate many household pests.
 - The synthetic pyrethroid is described as being dual-action in nature because it can kill fleas and other pests when they ingest or touch the insecticide.

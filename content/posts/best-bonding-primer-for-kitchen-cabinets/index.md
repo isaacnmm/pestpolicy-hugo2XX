@@ -44,7 +44,7 @@ Pros:
 Cons:
 - None found
 
-https://www.youtube.com/watch?v=dG9kY0KOb8M
+
 See Also:
 Acrylic Paint for Professional Artists
 ### [2. INSL-X PS800009A-01 Bonding Prime Lock-Plus Alkyd Primer](https://www.amazon.com/dp/B07KXP4C4M/?tag=p-policy-20)
@@ -69,7 +69,7 @@ Pros:
 Cons:
 - No spray gun recommended
 
-https://www.youtube.com/watch?v=4NFrDUTEB5g
+
 ### [3. Zinsser B-I-N Bonding Shellac-Base Primer](https://www.amazon.com/dp/B000C02C68/?tag=p-policy-20)
 Zinsser B-I-N Bonding is an excellent house-primer and
 stain sealer

@@ -35,7 +35,7 @@ toproach killers
 Related:
 Reliable Bed Bug Sprays
 .
-https://www.youtube.com/watch?v=H_HxwLHX8mc
+
 ## **Where does this smell come from?**
 ### **1. Secretions**
 Have you ever caught a roach and placed it on your hand? Did it have a smell? A single roach usually has no scent. Roaches produce odors when in large numbers.

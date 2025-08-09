@@ -35,7 +35,7 @@ The smell comes from the mold growth process, which releases microbial compounds
 **Mildew:**
 Mildew exhibits a foul and pungent odor that lingers around as long as theres mildew in the house.
 This smell results from mildew growth, which produces gases and releases them into the surrounding air.
-https://www.youtube.com/watch?v=fCq6J-FpziA
+
 ### **3. Where do They Grow?**
 **Mold:**
 Mold is both an indoor and outdoor fungi. Outside the house, mold grows on moist surfaces such as on soil, dust, walls, water pipes, etc.
@@ -51,7 +51,7 @@ Depending on the species, you might get respiratory problems, allergic reactions
 Black molds contain mycotoxins, which are associated with long-term health complications.
 **Mildew:**
 Inhaling mildew spores may result in health complications such as respiratory infections, coughing, headache, etc. However, complications caused by mildew are less serious than those caused by mold.
-https://www.youtube.com/watch?v=69axemMuM3g
+
 ## **Mold and Mildew Testing**
 You cannot see mold or mildew until it reaches a point where it visible to your eyes. In that case, you can differentiate between the two types of fungi.
 Sometimes, mold and mildew can originate from hidden crevices where it continues to grow and reproduce through spores.
@@ -88,7 +88,7 @@ Mold removal ought to be done with care to avoid spreading the spores to other h
 - If youre dealing with a small mold or mildew problem, you can clean it yourself.
 Before you begin the cleaning process, ensure you wear a protective face mask to dont inhale spores or fungicide fumes.
 Also, wear gloves to prevent the effects of fungi and fungicide on your hands. Below is a guide for removing mold from your home.
-https://www.youtube.com/watch?v=Rw4o4a7XZj4
+
 ## **Conclusion**
 Mold and mildew affect both structures and peoples health. They produce spores that spread rapidly through the air.
 - If left untreated, these fungi eventually get to any corner of the house with moisture and warmth.

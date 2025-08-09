@@ -30,7 +30,7 @@ Power Supply for Raspberry Pi 3
 - The best 2 in 1 laptop features the trademark fulcrum hinge and is available in two other variants that run on Intel Core i5 and Intel Core i7 processors.
 Apart from having the true heart of a beast, the Microsoft Surface Pro is equipped with Intel Iris and HD Graphics, making it ideal for a range of everyday applications including gaming.
 Other features include wireless connectivity, an 8MP rear webcam, and 1 USB port. The convertible measures 11.5 x 7.9 x 0.33 in and weighs 0.35 Kg.
-https://www.youtube.com/watch?v=kEhRBd5t8ag
+
 ### [2. HP Spectre X360](https://www.amazon.com/dp/B00UCENG14/?tag=p-policy-20)
 Gifted with aesthetic superiority, the HP Spectre X360 has the heart to back it all up.
 It comes pre-installed with Windows 8 running on Intel Core i7-7500U processor has Intel HD Graphics 520 with Intel Turbo Boost technology.
@@ -40,7 +40,7 @@ It is coupled with 8 GB of DDR3L-1600 SDRAM for flawless superfast performance. 
 With demand for both pieces of technology leveling off, there is a new-kid-on-the-block in the form of the best 2 in 1 laptop (Laptop Tablet Combo) which combines the best of both worlds  and everyone is in love. Related:
 [Android Tablet for Gaming.](https://pestpolicy.com/best-android-tablet-for-gaming/)
 Make sure to include the screen size, apart from vitals such as the processor type and speed, RAM, Graphics chip, storage type and capacity, connectivity options, ports and expansion slots, battery life, as well as aesthetic appeal.
-https://www.youtube.com/watch?v=dA5pILkH4Cg
+
 ### [3. HP X360 Business Flagship - 2 in 1 laptop cheap](https://www.amazon.com/dp/B078Z15J2C/?tag=p-policy-20)
 The HP X360 provides solid performance owing to its 7
 th

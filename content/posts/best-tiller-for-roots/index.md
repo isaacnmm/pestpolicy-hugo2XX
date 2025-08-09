@@ -44,7 +44,7 @@ Pros:
 Cons:
 - None
 
-https://www.youtube.com/watch?v=b-a_U092zg0
+
 Related:
 Front Tine vs. Rear Tine Tillers
 ### [2.Champion Dual-Rotating (19-Inch) Rear Tine Tiller](https://www.amazon.com/dp/B079CYGP6W/?tag=p-policy-20)
@@ -69,7 +69,7 @@ Cons:
 - It requires considerable effort in powering forward.
 - Considerably highly fuel consumption
 
-https://www.youtube.com/watch?v=7bedy6_ILTY
+
 ### [3. Dirty Hand Tools 106145 Counter-Rotating Rear-Tine Tiller](https://www.amazon.com/dp/B07NQYB8PC/?tag=p-policy-20)
 The Dirty Hand Tools 106145 allows reversing - makes it easy to till tight spaces. The machine is heavy and will easily cut through
 old and tenacious sod.
@@ -141,7 +141,7 @@ Pros:
 Cons:
 - Relatively Pricey
 
-https://www.youtube.com/watch?v=65z13-mQ6y4
+
 ## Conclusion
 Landscapers require a quality tiller that'll cut roots allow easier landscaping. Equally, larger roots need a tiller with higher horsepower to cut.
 So, improve your gardens, orchards, yards, or lawn by tilling off those roots that may affect the root development in flowers, vegetables, fruits, flowers, or other crops.

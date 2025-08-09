@@ -63,7 +63,7 @@ Pros:
 Cons:
 - Does not have a long residual effect
 
-https://www.youtube.com/watch?v=tU9Wkx0S4E8
+
 Read Also:
 Bug Zapper for Mosquitoes
 ### [**3. Spectracide Triazicide Spray Lawn & Yard - #3 Pick**](https://www.amazon.com/dp/B002ITJH82/?tag=p-policy-20)
@@ -85,7 +85,7 @@ Pros:
 Cons:
 - May affect plants at the time of flowering
 
-https://www.youtube.com/watch?v=gRptFQALKiU
+
 Read Also:
 Does Coconut Oil Kill Fleas? 7 Secrets
 ### **4. Bio advanced Insect & Tick Killer**

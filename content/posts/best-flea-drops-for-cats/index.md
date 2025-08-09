@@ -31,7 +31,7 @@ An application is further made easy by Hartz's patented applicator they call Pro
 - Pet Defender Plus is often marketed as fast-acting, long-lasting, and water-resistant.
 - This means you can bathe your furry partner as frequently as you please without interfering with the potency and performance of the topical drop formula.
 Use this anti-flea formula on cats aged eight weeks and above and weighing higher than 1.5 lbs.
-https://www.youtube.com/watch?v=bl4IxN6ZVKM
+
 ## [2. #2 Pick: Bayer Advantage II Flea Prevention for Cats](https://www.amazon.com/dp/B004QBDO0M/?tag=p-policy-20)
 
 Pet owners who seek the help of veterinarians are often advised to buy the Bayer Advantage II. Vets recommend it because it's one of the most effective remedies for flea prevention in cats.
@@ -46,12 +46,12 @@ All the fleas will be gone in about twelve hours following after you apply the i
 - A package contains six one-month applications.
 - You can choose from 3 different sizes, depending on the weight of your cat. It works on kittens from 8 weeks of age.
 Bayer Advantage II flea drop is practical, easy to apply, and safe. It won't irritate your cat's skin.
-https://www.youtube.com/watch?v=1cH8dojZV_A
+
 Related:
 Flea collars for cats
 ## [3. #3 Pick: Cheristin Flea Drops Topical 6 Weeks](https://www.amazon.com/dp/B07DJVPKTW/?tag=p-policy-20)
 
-https://www.youtube.com/watch?v=Uulet_dueAA
+
 ## [4. Vectra 3 Doses Green Flea Drops for Cats](https://www.amazon.com/dp/B00852H58K/?tag=p-policy-20)
 
 Next up on the list of best flea drops for cats is this Vectra Green is a premium quality alternative treatment for preventing cat fleas.
@@ -65,7 +65,7 @@ Furthermore, it is one of the few flea remedies that you can use to clean items 
 - These are the typical hiding places for fleas.
 - Do you hope to use the same flea drop for all your pets? Sorry, Vectra Green is specially formulated for cats and only the ones that weigh 9lbs and above.
 It won't be active on dogs or other pets. It comes as a three one-month treatment meaning one package will protect your cat for up to 3 months.
-[embed]https://www.youtube.com/watch?v=Mlt42S6waRE[/embed]
+[embed]
 Related:
 Ear Mites Treatment for Cats
 ## [5. PETARMOR Plus for Cats, Flea & Tick Prevention for Cats](https://www.amazon.com/dp/B00WWP1G40/?tag=p-policy-20)

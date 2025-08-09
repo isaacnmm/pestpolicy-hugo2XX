@@ -76,7 +76,7 @@ flea bites vs bed bug bites
 - You'll find flea bite marks on knee bends, uncles, and lower body
 Flea bite marks are also comparatively smaller compared to the marks of bed bug bites.
 Bed bug bites will look like some form of swelling while flea bites will appear like pimples or acne.
-https://www.youtube.com/watch?v=sLxExsHhV2I
+
 ### 2. Dont Allow Pets on the Bed
 If you're fond of allowing pets including cats and dogs to sleep next to you in the bed, it's time you either flea-treat animals or keep them off your sleeping area.
 Cats and dogs (if not properly flea-treated) will drop fleas and their eggs on your bed.

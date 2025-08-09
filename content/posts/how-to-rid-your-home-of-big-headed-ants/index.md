@@ -53,7 +53,7 @@ The treatment and control of the Bigheaded Ant will require you to use various c
 As noted above, the Bigheaded Ants will mainly colonize the outdoor areas but it'll be important to treat the indoor & outdoor spaces too.
 To effectively treat your spaces for ants, I would recommend that you include Supreme IT and Bifen LP Granules for the outdoors.
 - Also, include Ant-Trax Ant and Fipro Foaming Aerosol to treat the indoor spaces for ants.
-https://www.youtube.com/watch?v=dRi1zdgm5C8
+
 ### 1. Treating Ants in Outdoor Spaces; Include**Supreme IT**
 I recommend including the Supreme IT chemical in your ant-treatment regimen - this chemical allows easy drenching of the ant colony as well as creates a barrier in the yard and for your house and other structures.
 - Supreme IT for treating ants is known to hold a long residue effect - which is outlined to be about 90 days. Further, the product will kill insects and repel others including the Bigheaded ants.

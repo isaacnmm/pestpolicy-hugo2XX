@@ -40,7 +40,7 @@ at 80 psi to wash the area with the thinner. Also, remember to use sweeping moti
 Now use a stripper and a steel paint scraper to apply your paint stripper and let it work for some hours before scrapping it off and repeating the process. However, the project requires patience, and you must apply a
 clear sealant for metal
 to further protect the door - reapply regularly since it'll tend to oxidize.
-https://www.youtube.com/watch?v=8VIQbnzeq2Q
+
 ### Step 4: Apply Nail Polish Remover
 Finally, you'll now require to use some nail polish remover having acetone plus a brush with soft bristles to scrape off the paint from the metal door. Finally, scrape off the metal door using water to rinse out the paint from the metal surfaces.
 The nail polish remover will come with acetone being the main ingredient. Acetone is an excellent ingredient for removing latex-based and oil-based paints - you may also use the strip-off or even thin uncured paint.

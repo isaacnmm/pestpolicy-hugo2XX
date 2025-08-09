@@ -76,7 +76,7 @@ In order to estimate the labor cost of your cabinet painting, you will need to m
 Remember, the quoted labor cost doesnt incorporate the transport cost  for those painters coming from far, you may need to go deeper into your pocket.
 Alternatively, you may agree to charge your painting cost per day  the standard rate is about $200 to $500 per day at most.
 Further, you may opt to fix your paintwork at an hourly rate where you pay your professional painter somewhere between $20 to $54 per hour.
-https://www.youtube.com/watch?v=6R9HKvGxbR0
+
 ### c. Miscellaneous Cost
 Miscellaneous costs are costs that may be incurred and not accounted for in the budget.
 Its necessary to always have an extra side budget when planning for your kitchen cabinet painting since most times, the budget always spills over the actual plan.
@@ -109,7 +109,7 @@ The cost of paint using
 a paintbrush
 or a roller ranges between $2.5 to $7.5 per square foot.
 The extent to which the cost varies when painting using a roller or a paintbrush is determined by the cabinets design and ease to use a bush (when painting) without obstacles.
-https://www.youtube.com/watch?v=S49L_GoFO6Y
+
 ### h. Repaint Cost
 The average cost of repainting a kitchen cabinet ranges from $800 to $3500. The cost entails, the labor cost (surface preparation, sanding, and polishing, actual paint application), material, and tools needed.
 In case your cabinet requires partial repair, you may need to pay more (up to $100) for repair material and another reinforcement before actual painting is undertaken.

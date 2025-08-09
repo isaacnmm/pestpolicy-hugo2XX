@@ -47,7 +47,7 @@ Definitely, I would say that the section between the tillers gearbox and the tra
 Further, to rectify the situation, we may need to tighten the 6 or so bolts that are on the connection.
 However, ensure that you tighten each of the bolts using almost an equal amount of force to ensure that each of them exerts an even amount of pressure on the connection.
 Also, probably the drive chain might have jumped off  so youll require to examine the clutch pack.
-https://www.youtube.com/watch?v=jY53z24zQbo
+
 ## Conclusion
 Check if the clutch packs tend to rotate without turning the shaft half you should know that the clutch pack has a problem.
 However, ensure that the tractor is switched off while youre working on the PTO equipment.

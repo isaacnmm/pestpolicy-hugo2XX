@@ -52,7 +52,7 @@ Cons:
 
 See Also:
 Chalk Paint for Kitchen Cabinets
-https://www.youtube.com/watch?v=KKxakPtaP3c
+
 ### [2. Graco-Magnum X5 262800 Stand Airless Paint Sprayer](https://www.amazon.com/dp/B0026SR0FW/?tag=p-policy-20)
 Graco-Magnum X5 offer
 adjustable pressure to allow painting projects of various sizes. Also, it offers high pressure for unthinned paint thanks to the piston pump made from stainless steel.
@@ -77,7 +77,7 @@ Pros:
 Cons:
 - None found
 
-https://www.youtube.com/watch?v=tl5pvnQPHOk
+
 ### [3. Spraytech Wagner 0529010 FLEXiO Hand0held HVLP Sprayer](https://www.amazon.com/dp/B00FBP4QT0/?tag=p-policy-20)
 Spraytech Wagner 0529010 is great for various types and sizes of painting projects including
 trim,
@@ -162,6 +162,6 @@ Cons:
 
 See Also:
 Automotive Paint for the Money
-https://www.youtube.com/watch?v=Ga17gZACFmM&feature=youtu.be
+
 ## Conclusion
 Further, this simple-to-use airless sprayer brings excellent convenience when you're spraying your DIY projects. Also, the cleaning steps for this sprayer is fast and straightforward.

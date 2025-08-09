@@ -31,7 +31,7 @@ It runs at 900MHz power consumption and has better RAM (1GB RAM). It comes with 
 - Raspberry Pi 2 Model B will comfortably run Windows IoT and thus will attain top performance in your projects.
 Equally, Pi 2 Model B has back-compatibility and therefore, will work with the Model B+ components and cases since it has a similar layout and footprint.
 
-https://www.youtube.com/watch?v=qLo-0Tmmlrc
+
 ### [2. Raspberry Pi Model A+ - #2 Raspberry Pi Pick](https://www.amazon.com/dp/B00PEX05TO/?tag=p-policy-20)
 Raspberry Pi Model A+ was an upgrade from the very first 2012 model Raspberry Pi Model A: which was released in 2013.
 However, Pi Model A+ is an inferior form of Raspberry Pi Model B+ but it comes with a RAM of 512MB, a single USB port, is full-size but lacks Ethernet just like Pi Zero.
@@ -43,7 +43,7 @@ Further, it runs with just a third of the powerrequired, with its switching regu
 - It comes with full-size HDMI, its power source is Micro USB and has a DSI display.
 With just 700MHz of processor and 256MB of RAM, I would consider the Raspberry Pi Model A+ as wanting in power.
 
-https://www.youtube.com/watch?v=b_vYnq1UfPQ
+
 ### **3. Raspberry Pi Model B+ (B PLUS) _#3 Pick**
 Compared to Raspberry Pi A, A+, and B, the Model B+ is cheap and more adaptable, has 4 x USB Ports, reduced power consumption (600mA), 40 Pin GPIO, and has a Micro SD Port.
 The board comes with a 40 Pin GPIO, enhanced connectivity (4 USB-ports allowed), and better power consumption.

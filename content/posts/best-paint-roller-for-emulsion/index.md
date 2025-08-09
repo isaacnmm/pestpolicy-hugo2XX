@@ -36,7 +36,7 @@ Pros:
 Cons:
 - Cannot be used on tough surfaces
 
-https://www.youtube.com/watch?v=5JfuUArdaZQ
+
 > See Also:
 > Paint Roller Cover for Interior Walls
 ### [2. Pro Grade - Microfiber Paint Roller Cover, 5 Pack](https://www.amazon.com/dp/B07LG8XMJD/?tag=p-policy-20)
@@ -60,7 +60,7 @@ Pros:
 Cons:
 - Coverage is sometimes not even
 
-https://www.youtube.com/watch?v=cPagwmPsV4A
+
 > See Also:
 > Painting the Ceiling Without Roller Marks
 ### [3. Bates- Paint Roller Kit, 4" Roller Covers, Pack of 24](https://www.amazon.com/dp/B07SRFWCWY/?tag=p-policy-20)

@@ -34,7 +34,7 @@ The bed bugs will molt to their next stage if they acquire a blood meal - this i
 - So, on how the bed bugs will survive or live without that blood meal, the answer depends on the bed bug's age. For example, age affects if the bed bug stage is resistant to temperature variations andspecific pesticides/).
 The [bed](https://pestpolicy.com/baby-bed-bugs/) bugs that are newly hatched such as the Nymphs - will require to feed soonest (and very often) so that they can molt into adults - but that stage can survive for a number of weeks without that crucial blood meal.
 - But the adults will live for over 5 months with warm conditions - but most of these bugs will be in the digesting phase and not the feeding stage.
-https://www.youtube.com/watch?v=8jPWM6peI38
+
 ## Can Bed Bugs Reproduce Without Feeding?
 Female bed bugs will lay their eggs that have some adhesive and this makes sure they'll stick in one place - these will take about 6-17 days to hatch.
 The young-lings will start feeding after emerging from the eggs - but the adults and nymphs will survive for some time with no food or blood meal.

@@ -48,7 +48,7 @@ Termites also have two pairs of wings. However, both pairs of wings are of equal
 Flying ants have elbowed antennae.
 **Termites:**
 Termites have straight antennae.
-https://www.youtube.com/watch?v=V4oD_o7rlB0
+
 Check some of these
 Homemade Fruit Fly Traps
 ### 2. Behavior

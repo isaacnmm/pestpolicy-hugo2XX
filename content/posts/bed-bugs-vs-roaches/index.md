@@ -86,7 +86,7 @@ However, due to how cockroaches feed and live, it is more likely that they carry
 - For example, cockroaches will feed and leave around the sewer and trash bins where there are food sources, and areas that are dark and damp.
 So, because of visiting and living in such areas, cockroaches can spread diseases such as cholera fever, typhoid dysentery, and diarrhea.
 Besides, cockroaches can trigger allergies and asthma as they move around the dirty boots and pick different germs and allergens.
-https://www.youtube.com/watch?v=vv5OJ0hdsfc
+
 ## Conclusion
 In summary on cockroaches vs bed bugs, I would recommend getting a professional exterminator to help in the process.
 - However, I know that baby roaches and bed bugs may have a similar appearance.

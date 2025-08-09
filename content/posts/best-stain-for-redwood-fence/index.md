@@ -45,7 +45,7 @@ Cons:
 - Not for solid surface painting
 - Unsuitable for large surface painting
 
-https://www.youtube.com/watch?v=DGRumyKyDK0
+
 > See Also:
 > Deck Stain for Pressure Treated Wood
 ### [2. THOMPSONS WATERSEAL Solid Waterproofing Stain](https://www.amazon.com/dp/B00IKVLUZ0/?tag=p-policy-20)
@@ -70,7 +70,7 @@ Cons:
 - The capacity is only best for medium to small surface application.
 - Needs several coats in heavy rain environment
 
-https://www.youtube.com/watch?v=BMGFZaBfI9I
+
 > See Also:
 > Quality Paint for Kitchen Cabinets
 ### [3. Roxil Wood Protection Stain](https://www.amazon.com/dp/B081K32XJF/?tag=p-policy-20)
@@ -206,7 +206,7 @@ Cons:
 
 > See Also:
 > Deck Sealer for Pressure Treated Wood
-https://www.youtube.com/watch?v=iN0rAxMzaz8&feature=youtu.be
+
 ## Conclusion
 Having read about the best stains for redwood fence, you must have gained deep insight on how to deal with your redwood fence paint applications.
 Remember, you will have to choose a simple to prepare a redwood stain, more comfortable to clean, long-lasting, budget-friendly, water-resistant, and high-penetrative.

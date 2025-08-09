@@ -31,7 +31,7 @@ just like with eggs
 .
 Mangoes also have Vitamin B6 (0.119mg or 11.6% RDI needed for fat & protein metabolism as well as in manufacture of red blood cells), Vitamin C (34.6mg or 67.2% of RDI - required to help repair worn-out tissues and boost your beardies growth and development) and Vitamin E (0.9mg or 9.67% RDI  needed for destruction of free radicals within tissues and prevents beardies skin from UV rays damage that may occur).
 Importantly, mangoes have vitamin K (6% of RDI) that improves beardies blood clotting (in case of injuries) thus preventing any excess bleeding.
-https://www.youtube.com/watch?v=1nR8-CdT1xk
+
 Related:
 Best Substrate for Bearded Dragons
 ### 2. Rich Pre-Biotic Dietary Fiber
@@ -49,7 +49,7 @@ Notably, ripe mangoes have more antioxidants than unripe ones.
 There is 168mg of potassium in every 100g of fresh ripe mango salad. Potassium is required for smooth muscle contraction, fluid regulation and quick nerves signal control in your bearded dragon. In addition, potassium will lower the blood pressure, control excess water levels and prevent occurrence of diseases such as osteoporosis and kidney stones.
 Presence of 11mg calcium will further help strengthen your beardies bones and teeth. Other minerals present include Sodium (1.3mg  needed for osmoregulation and blood pressure balance), Magnesium (10mg boosts heartbeat and maintains smooth nerve signal response), Zinc (0.19mg-required for cell division and repair of injuries), Manganese (0.063mg needed for metabolism of cholesterol and amino acid as well as clotting process) and Iron (0.16mg-prevents anemia and oxygen transportation).
 Mangoes also contain phyto-nutrients such as -carotene, -cryptoxanthin and a-carotene, which easily combine with other antioxidants thus helping in elimination of free radicals.
-https://www.youtube.com/watch?v=7rr1Zsce594
+
 ### 5. Relative Water Content Level
 On average, most mango species contain 49% to 74% water content when ripe. This quantity wont be harmful to your beardie if controlled feeding is carried out. Your beardie will have a stable osmoregulation (very crucial process for beardie without which it suffers kidney failure) if you follow proper feeding and preparation procedure given below.
 Average water content is needed for your beardies homeostasis processes as well as maintenance of its skin and cells in hydrated state for proper physiological processes.

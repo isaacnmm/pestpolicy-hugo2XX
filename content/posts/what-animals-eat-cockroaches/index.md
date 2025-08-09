@@ -103,7 +103,7 @@ bearded dragons
 Geckos and lizards will inhabit warmer areas (being cold-blooded animals) and some humans may pet them - but will also feast on cockroaches.
 - Geckos will maul on the roaches in the house but if the bugs are many I suggest chartering a professional as opposed to bringing more geckos.
 Lizards (including iguanas or geckos ) will feed on insects including cockroaches.
-https://www.youtube.com/watch?v=PRJboAboJfo&feature=youtu.be
+
 Other roach predators:
 - Some roach predators such as lizards, frogs, and toads will reach the bugs using theirsticky and long tongues - and ultimately crushing the roaches using the strong jaws.
 - Wasps also lay eggs that hatch into larvae that'll eat the roaches while also the spores of the entomopathogenic fungi will attack cockroaches to exterminate them within weeks.
@@ -116,7 +116,7 @@ will eat roaches - you'll find them in wet environments, lakes, and ponds.
 Other frog species like the
 [White's tree](https://nationalzoo.si.edu/animals/whites-tree-frog)
 (found in New Guinea and Australia) will feed on roaches. They measure about 3 to 5 inches living in woodland or grassy areas - they're nocturnal.
-https://www.youtube.com/watch?v=GsXLafCdhw8&feature=youtu.be
+
 The dull-brown frogs will easily camouflage in the house and yard spaces and thus easily capture the roaches, small bugs, and also beetles for food.
 - During the daytime, the Spring Peeper will hide from spiders, roaches (nocturnal bugs), flies, ants, and beetles but will capture them at night.
 Further, toads (they're gray or dull brown) will slay roaches in the apartments and will mainly occupy backyards and places with shelter or water. But also red imported fire ants will eat roaches.
@@ -127,7 +127,7 @@ But some homeowners will rear domesticated spiders and these
 for their food. Spider species including
 [Brown Huntsmans](http://entnemdept.ufl.edu/creatures/urban/spiders/giant_crab_spider.htm)
 will also feed on roaches.
-https://www.youtube.com/watch?v=0LiALjybcJA
+
 ## Conclusion
 Eating the adult roaches plus their larvae, the natural predators will ensure the bug population is checked. For instance, spiders and
 some ants will prey

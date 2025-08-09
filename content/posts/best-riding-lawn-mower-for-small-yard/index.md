@@ -108,7 +108,7 @@ Pros:
 Cons:
 - Not great for uphill mowing due to its being heavy
 
-https://www.youtube.com/watch?v=kuLgVjA59-o&feature=youtu.be
+
 ### [5. Husqvarna YTA24V48 24V Mower with 48 Reinforced Cutting Deck](https://www.amazon.com/dp/B019ZN119G/?tag=p-policy-20)
 Husqvarna YTA24V48 has an auto-transmission that allows fast operation. Youll love electric clutch, charge port, choke-less start -Great for mowing small or big yard or farm  like other pedal mowers.
 This Husqvarna YTA24V48 will easily cut the grass within a very short time  Youll simply need to ride around your yard, around obstacles, or uneven grounds with your pedal tractor.
@@ -128,7 +128,7 @@ Cons:
 - None
 
 ## How to Choose a Riding Lawn Mower
-[embed]https://www.youtube.com/watch?v=J8TIvCYLJIg&feature=youtu.be[/embed]
+[embed]
 ## Considerations when Choosing a Riding Lawn Mower
 ### 1. The Riding Lawn Mower Technology
 What we now call riding lawn mowers were previously known as lawn tractors  a name that makes it look like miniature tractors.

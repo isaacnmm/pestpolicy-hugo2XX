@@ -35,7 +35,7 @@ This is a white powder that is very common for use in our households to control
 Also, the DE remains active as long as you are able to keep it intact and also dry within your house.
 When applying a tablespoon of DE mixed in a bottle will effectively do the work of killing those venomous spiders and other bugs hiding within and outside your house.
 - Spray the target areas being careful not to inhale the dust because it is harmful.
-https://www.youtube.com/watch?v=9ToC2kQm5Bk
+
 ### **2. Vinegar**
 This is still another useful product within your house that you can use to control or kill spiders. Vinegar has acetic acid which plays a vital role in chasing spiders from our houses.
 - It chases spiders by producing a strong odor that keeps them off.
