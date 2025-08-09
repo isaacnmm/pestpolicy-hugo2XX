@@ -19,7 +19,7 @@ In addition to killing roaches, the boric acid powder will also exterminate othe
 Boric Acid is highly effective in killing roaches yet also budget-friendly and thus topping the
 best roach killers
 available today.
-[amazon bestseller="Harris Boric Acid Roach Powder" items="2" template="table"]
+
 ## Special lure/ Attractant
 Harris
 [boric acid contains a unique lure thatll attract the roaches](https://pestpolicy.com/does-boric-acid-kill-roaches/)

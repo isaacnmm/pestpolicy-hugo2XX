@@ -26,7 +26,7 @@ with active ingredients such as fipronil and imidacloprid. Further, you may also
 check termite images
 ).
 While at it, you may also position baits in the house and lawn. Such chemicals will release IGRs. After contacting the termites, the termites will go back to their colony and kill them through poisoning.
-[amazon bestseller="Best Termite Killers" items="2" template="table"]
+
 Additional methods you can use include fumigation, using dust agents, employing foam agents, and further avoiding disturbing the
 termite hills - for both termite prevention
 and extermination.�Read Also:

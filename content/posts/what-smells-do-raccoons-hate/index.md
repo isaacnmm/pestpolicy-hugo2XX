@@ -17,7 +17,7 @@ You don't want raccoons digging up your yard or tearing apart your house or garb
 - There are a lot of repellents that claim they will[keep away raccoons](https://pestpolicy.com/how-to-get-rid-of-raccoons/), but what smells do Raccoons hate? What do animals respond to most strongly?
 **Answer: In brief, raccoons hate irritating smells like those from Epsom salt, peppermint oil, garlic, onion, and hot pepper. **
 **Also, real or synthetic scents of predator urine will repel raccoons. **
-[amazon bestseller="Best Raccoons Repellents" items="2" template="table"]
+
 ## What Problems Will Raccoons Bring to Your Property?
 Raccoons are hardy and adaptable mammals that thrive around homes where they have great access to shelter and food - they'll also transmit diseases like
 [Leptospirosis](https://www.addl.purdue.edu/newsletters/1997/fall/[raccoon](https://pestpolicy.com/how-to-get-rid-of-raccoons/).shtml)

@@ -21,7 +21,7 @@ But are flea bites on the human scalp common? Can these pests create a permanent
 - *In summary, when you sleep with a pet, fleas can temporarily hide in dense or full frizzy human hair (like Remy human hair). This is common when they can't find their preferred hosts like cats or dogs.�*
 - *While female fleas have lower fertility inside the human hair, human blood is not preferred by fleas. Thus you won't find flea eggs laid�or developing to other stages in the flea cycle.�*
 *However, chigoe or human fleas (found in tropical areas) will prefer human hosts. Human fleas will burrow into the human skin, suck blood, and lay eggs in their numbers. See the flea spray.�*
-[amazon bestseller="Best Flea Spray" items="2" template="table"]
+
 ## Details: Can Fleas Live in Human Hair? (7 Quick Tips)
 Usually,
 fleas won't stay or live in human

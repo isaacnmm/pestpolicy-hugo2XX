@@ -21,7 +21,7 @@ beardies feed on selected veggies, insects (bugs), fruits
 - **The short answer is NO - bearded dragons don't eat oranges - oranges contain excessive fruit acid and sugar that may irritate the digestive system of the bearded [dragon](https://pestpolicy.com/can-bearded-dragons-eat-bananas/) causing dehydration and diarrhea.�**
 Also, oranges contain more phosphorous than calcium, giving a Ca:P ratio that is incorrect for bearded dragons.
 These beardies love supplements that have a ratio of calcium: phosphorus ranging from 2:1 to 3:1. See other foods for bearded dragons.
-[amazon bestseller="Food for Bearded Dragons" items="2" template="table"]
+
 ## **Details: Can Bearded Dragons Eat oranges?�**
 Don't feed
 [bearded dragons](https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/central-bearded-dragon)

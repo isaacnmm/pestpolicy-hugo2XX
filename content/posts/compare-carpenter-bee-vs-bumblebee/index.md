@@ -18,7 +18,7 @@ Amidst the confusion between black bees in your yard, you must have tried to com
 - I hope you agree that differentiating between the two bee types was a difficult task.
 - In this article, we will examine the similarities and differences between a[bumblebee](https://en.wikipedia.org/wiki/Bumblebee)and a[carpenter bee](https://en.wikipedia.org/wiki/Carpenter_bee). But,[do Carpenter Bees Sting?](https://pestpolicy.com/do-carpenter-bees-bite/)
 But first, have a look at the quick guide below before we get into more details.
-[amazon bestseller="Best Killers for Carpenter Bee vs Bumblebee" items="2" template="table"]
+
 ### How to get rid of bumble bees naturally
 1. Fill all the holes, rodent, or animal burrows near your house to deter bumble bees from creating nests.
 2. Close all holes that point to the outside of your home.

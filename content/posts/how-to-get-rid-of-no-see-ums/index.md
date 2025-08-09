@@ -35,7 +35,7 @@ They can
 fly through the screens if you have a
 home even with some
 screened-in windows.
-[amazon bestseller="Best No-See-Ums Killer" items="2" template="table"]
+
 ## How to Get Rid of No-See-Ums
 The biting and blood-sucking no see ums bugs are quite dangerous.
 You might mistake them for wasps, bees, gnats, or mosquitoes - their features and effects will match those of the biting Midges or No See Ums.

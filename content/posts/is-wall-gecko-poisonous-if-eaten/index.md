@@ -22,7 +22,7 @@ Can Wall Geckos cause food poisoning or be poisonous when eaten by humans or car
 *is wall [gecko](https://pestpolicy.com/do-geckos-eat-bed-bugs/) poisonous if eaten?�*
 **The simple answer is NO! [Wall](https://pestpolicy.com/how-to-remove-paint-from-walls/) Gecko is not poisonous to humans or other animals when eaten. The meat from the Wall Gecko is non-toxic (has no toxins) and is safe for human consumption. **
 **However, there are some parts of Wall Gecko that should not be eaten e.g. skin and mouth-part. These sections are known to house pathogens and bacteria such as salmonella, which multiply rapidly and cause food poisoning when eaten.�**
-[amazon bestseller="Best Food for Geckos" items="2" template="table"]
+
 ## Details: Is Wall Gecko Poisonous If Eaten?
 The Wall Gecko is safe and edible reptile that does not cause any harm to human beings when eaten. Their meat does not have toxins and can also be eaten by other carnivores without causing any food poisoning.
 

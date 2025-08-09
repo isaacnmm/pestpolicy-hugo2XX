@@ -18,7 +18,7 @@ For years, bleach has been a product of choice for sanitizing and cleaning for m
 - **Does Bleach Kill Bed Bugs? Well in summary, �Technically,�bleach will kill bed bugs by making�the sodium hypochlorite oxidize the bug's body or outer�shell.**
 - **Yet, humans or pets could inhale their toxic fumes, or it might damage your clothes and fabrics. Also, it would help if you sprayed the bleach mixture directly on the bed bug. **
 *Just like cockroaches, bed bugs are challenging to control and will multiply fast. Bed�bug sprays would be a more effective and faster alternative. *
-[amazon bestseller="Best Bed Bug Killer" items="2" template="table"]
+
 ## Does Bleach Kill Bed Bugs? and Their Eggs
 According to Michigan's research, Hsp33 (a protein) tends to react with bleach and thus killed the bacteria under test.
 - Therefore, a similar reaction with bleach would alsokill bed bugs/).

@@ -21,7 +21,7 @@ Well, bed bugs eggs are soft to the touch and tend to crush when you try to pick
 They adhere to the surface, which makes it difficult to dislodge without squashing. Therefore, bed
 bug eggs
 are soft and can readily be destroyed by crushing with a stick or bare hands.
-[amazon bestseller="Best Bed Bugs Killers" items="2" template="table"]
+
 ## **Details: Are Bed Bug Eggs Hard or Soft? Bed Bug Shells**
 Bed bug eggs appear as grains of rice attached to surfaces. However, an attempt to touch them with your finger can tell you that they are soft, unlike rice grains.
 They tend to adhere to the surface due to the

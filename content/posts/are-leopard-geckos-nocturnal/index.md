@@ -19,7 +19,7 @@ Leopard geckos [are](https://pestpolicy.com/are-fleas-nocturnal/) terrestrial an
 **In summary, contrary to popular belief Leopard geckos **are crepuscular and not nocturnal. They are not active the whole night, but you'll only enjoy them at fading light at dusk and dawn during twilight. ****
 ****Leopard geckos difference from the rest of nocturnal gecko is they have large eyes and ears so they can see and hear clearly at night.�****
 # **In a Hurry? Check these Geckos�Foods**
-[amazon bestseller="Best Food for Geckos" items="2" template="table"]
+
 ## Details:**Are Leopard Geckos Nocturnal?�**
 Geckos may fall under the lizard family, but physically, they are very different from lizards. Lizards lack eyelids and lick their eyes to clean them. Finally, all geckos have vocal cords that allow them to bark as a protective mechanism to scare away predators.
 

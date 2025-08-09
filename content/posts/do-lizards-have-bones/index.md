@@ -20,7 +20,7 @@ Probably you have come across various species of lizards in your home, compound,
 lizards are vertebrates
 ** that have bones that are interconnected together to help them in locomotion.�**
 **The bones of lizards are classified under either appendicular skeleton or axial skeleton. These bones offer support, protection of internal organs, and options for attachment of body muscles and cells. The number of each bone varies according to size and species of lizard.�**
-[amazon bestseller="Best Food for Lizards" items="2" template="table"]
+
 ## Details: Do Lizards Have Bones?
 [Lizards, like other reptiles, have bones](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4860302/)
 . Their bones are classified under either appendicular skeleton or axial skeleton. The appendicular skeleton consists of the pelvic girdle, the pectoral, the limbs, and the bones of the front and hind legs.

@@ -23,7 +23,7 @@ is a degreaser for hard-to-clean surfaces like fans and hoods. But, does Windex 
 **Windex deadly enough to kill spiders? Yes! Spray enough Windex on a spider and it'll die fairly quickly. Windex has lethal ammonia (ammonium hydroxide) &�**
 [**sodium dodecylbenzene sulfonate**](https://patents.google.com/patent/CN100423640C/en)
 ** thatll block the spiders book lungs, block its breathing to suffocate it.�**
-[amazon bestseller="Windex" items="2" template="table"]
+
 ## Does Windex Kill Spiders and their Eggs?
 This article will discuss the effectiveness of Windex to exterminate spiders & its pros and cons as an
 insecticide

@@ -20,7 +20,7 @@ if provokes.
 **So, on how to get rid of carpenter bees without killing them; you can install a sacrificial piece of wood, install carpenter bee traps, use a Sweep net, adopt preventive measures like WD-40, or make some noise to scare bees away.�**
 **Alternatively, hanging wind chime works incredibly, while painting wooden surface prevents carpenter bees from boring.�**
 **Further, you can opt to wait for the bees to leave on their own, vacuum them, or use almond/citrus oil as well.�**
-[amazon bestseller="Best Repellent for Carpenter Bees" items="2" template="table"]
+
 ## How to Get Rid Of Carpenter Bees without Killing Them
 ### 1. Using a Sweep net
 This a device which is weaved or manufactured using a tough loose network that forms a tiny mesh, though which insects such as bees can't pass.

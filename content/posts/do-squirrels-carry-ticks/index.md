@@ -21,7 +21,7 @@ bigger rodents family
 - **Among the most common ticks are the [squirrel](https://pestpolicy.com/do-squirrels-attack-humans/) ticks. They are also likely to host ticks that cause Lyme disease.�**
 **Squirrels are known for their long fluffy tail as they invade cereals, nuts, and other foods from our homes. They bring harm by spreading diseases that are caused by ticks and fleas and other parasites.
 **
-[amazon bestseller="Best Squirrels Repellent" items="2" template="table"]
+
 Well, if you like
 [squirrels as a pet](https://pestpolicy.com/how-long-do-squirrels-live/)
 or you have wild squirrels invading your home, they are all likely to spread pests, parasites, and diseases in your home.

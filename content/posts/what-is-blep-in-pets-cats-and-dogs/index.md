@@ -21,7 +21,7 @@ Well, no one really knows the origin of this blep word, but you might already kn
 So, blep, it's usually not anything to worry about. But, blep can also significant damage to the face, teeth, or jaw. Read Also:
 Flea Treatment for Dogs
 .
-[amazon bestseller="Best Cat Food" items="2" template="table"]
+
 https://twitter.com/MeowMoeDotCom/status/1030926427850452993
 ## What is blep in pets Cats and dogs  Blepping - What is it?
 Despite that blep fans believe that cats are the only animals capable of bleeping, most pets can blep.

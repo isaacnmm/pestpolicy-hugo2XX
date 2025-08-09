@@ -20,7 +20,7 @@ still becomes a challenge.
 Additionally, you can also have a special shelter for them to avoid them constantly being in your yard. Geese will always visit your yard as long as they are looking for food and
 [a nesting place](https://pestpolicy.com/should-you-spray-your-yard-for-fleas/)
 .
-[amazon bestseller="Best Geese Repellent" items="2" template="table"]
+
 ## Details: How to Stop Geese From Pooping In Yard
 Everybody wants their yard well-maintained and neat but not when you have geese around.
 - Their droppings are huge and if they find a good nesting place, it will take your time to get them off.

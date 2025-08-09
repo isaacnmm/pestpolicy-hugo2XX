@@ -20,7 +20,7 @@ hunt mice and snakes
 
 So, the question is: do opossums [carry](https://pestpolicy.com/do-squirrels-carry-ticks/) rabies?
 **In brief, NO, Opossum/ possums are very unlikely to carry rabies. Opossums' body temperature is too low to inhibit the rabies virus compared to other wildlife like foxes, skunks, raccoons, and bats.�**
-[amazon bestseller="Best Opossums Cages" items="2" template="table"]
+
 ## Cold Body Temperature - Do Opossums Carry Rabies
 The opossum is just one of the many animals that are immune to rabies.
 

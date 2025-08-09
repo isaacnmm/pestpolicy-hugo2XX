@@ -20,15 +20,15 @@ The situation may even worsen for those victims who are wasps allergic.�To gai
 Bees vs. wasps vs. hornets
 .
 # **In a Hurry? View Best [Wasp](https://pestpolicy.com/best-wasp-fogger/) Sprays**
-[amazon bestseller="Best Wasp Spray" items="2" template="table"]
+
 ## [1. Our #1 Pick:Ortho Home Entrapping Wasp and Hornet Killer](https://www.amazon.com/dp/B0784WG4FD/?tag=p-policy-20)
-[amazon box="B0784WG4FD" template="horizontal"]
+
 https://www.youtube.com/watch?v=wri8fL8thyg
 ## **2. #2 Pick: Spectracide HG-95715 Hornet & Wasp Killer**
-[amazon box="B00EORP9SI" template="horizontal"]
+
 https://www.youtube.com/watch?v=PvhiuM0b-BY
 ## [3. #3 Pick: Guarden'sLargeOut- & In-doors Reusable Mouse Traps](https://www.amazon.com/dp/B000NGR9OG/?tag=p-policy-20)
-[amazon box="B000NGR9OG" template="horizontal"]
+
 The Spectracide PRO is manufactured essentially with a powerful wasps knockdown chemical that kills the entire wasps life cycle (egg, larvae, nymph, and adult) instantly on contact.
 The sharp narrow oz enabled by a nicely designed trigger allows point application in tiny holes, cracks, or other wasps hideouts - hornets.
 Spectracide PRO will secure a large area of 20 feet radius and instantly knock down any flying wasp without necessarily following it.
@@ -52,7 +52,7 @@ The Good:
 The Bad:
 - No for indoor application
 ## [4. Raid Wasp and Hornet Spray - #1 Wasp and Hornet Spray](https://www.amazon.com/dp/B00J1GXG32/?tag=p-policy-20)
-[amazon box="B00J1GXG32" template="horizontal"]
+
 Raid wasp spray tops our list due to its unbeatable performance through the
 active killing of horseflies
 and nested wasps on contact.
@@ -86,7 +86,7 @@ The Bad:
 Read Also:
 Does Windex Kill Spiders
 ## [5. Hot Shot 13416 Wasp - #1 Wasp and Hornet Spray](https://www.amazon.com/dp/B002Y6D2D0/?tag=p-policy-20)
-[amazon box="B002Y6D2D0" template="horizontal"]
+
 To enjoy extra killing radius distance, select Hot Shot- an engineered product to cover a jet spray distance of 27 feet from a single point of application.
 - The Hotshot's narrow edge nozzle is specially designed to allow point action when spraying  this reduces unnecessary losses.
 - Besides, the Hot Shot compound's powerful killing agent will kill both the adult wasps and hornets immediately on contact.
@@ -114,7 +114,7 @@ The Bad:
 Read Also:
 Best Mosquito Trap
 ## [6. Pt Wasp and Hornet Spray Freeze II Wasp Spray](https://www.amazon.com/dp/B01AO2TT64/?tag=p-policy-20)
-[amazon box="B01AO2TT64" template="horizontal"]
+
 For great destruction of wasps colonies, Pt Wasp and Hornet Spray Freeze are manufactured with a super active killing agent that instantly knocks down the wasps on contact.
 - This product freezes and paralyzes the wasps on contact before killing it, thus protecting you from any possible stinging.
 - With Pt Wasp and Hornet Freeze, you will be able to kill wasps over 15 feet away without moving any closer.
@@ -142,7 +142,7 @@ The Bad:
 Read Also:
 [Best Spray for Yellow Jackets](https://pestpolicy.com/best-spray-for-yellow-jackets/)
 ## [7. Syngenta 73654 Demand CS](https://www.amazon.com/dp/B002Y6BC1O/?tag=p-policy-20)
-[amazon box="B002Y6BC1O" template="horizontal"]
+
 When it comes to large colonies of wasp, Syngenta is the best wasp spray to use.
 The product features a powerful iCAP Technology that activates the compound for instant killing on contact after application.
 Syngenta comes in a large container that ensures several applications (of many wasps nest) without refiling or depletion.
@@ -171,7 +171,7 @@ The Bad:
 - Poisonous when swallowed
 - Slightly expensive
 ## [8. Wondercide Natural Indoor Pest Control Spray](https://www.amazon.com/dp/B0764VD7ZW/?tag=p-policy-20)
-[amazon box="B0764VD7ZW" template="horizontal"]
+
 For your indoors wasps killing action, consider Wondercide as it comes with a quick-acting chemical that kills the entire wasps life cycle on contact.
 - One amazing feature of this product is the pull trigger nozzle that allows you to control the amount of spray you release.
 - Moreover, the nozzle opening is specially designed to allow easier point applications without spilling off.
@@ -199,7 +199,7 @@ The Bad:
 - Not Suitable for outdoor use
 - Can be harmful when swallowed
 ## [9. TERRO T3300-2 Wasp Spray](https://www.amazon.com/dp/B00E4GACFO/?tag=p-policy-20)
-[amazon box="B00E4GACFO" template="horizontal"]
+
 TERRO comes in two great cans that will help eradicate any wasps infestation in your place in a couple of minutes.
 The product has a nicely designed nozzle that will enable point application. Moreover, the TERRO comes in a high pressurized state.
 The 19.0 TERRO Oz allows deep penetration, thus reaching wasps right in their cracks and other hideouts without strain.

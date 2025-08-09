@@ -19,7 +19,7 @@ Sometimes it is not easy to tell the difference between flea eggs vs. dandruff t
 .
 ***You are arming yourself with the knowledge to successfully determine which will significantly help you treat these conditions, including allergies. ***
 ***When you spot small white flakes on your pet's skin, it might be easy to jump to conclusions without knowing the difference between dandruff and [flea](https://pestpolicy.com/what-do-flea-eggs-look-like/) eggs - flea eggs can be killed by vacuuming while adults through flea bombs.�***
-[amazon bestseller="Best Flea Killers" items="2" template="table"]
+
 ## Flea Eggs vs. Dandruff - How to Tell the Difference?
 Panic can set in, especially with the prospect of having a flea infestation, but you should not panic until you know exactly what you are dealing with.
 One of the first things to note is whether the specks you are seeing remain on your pet for a prolonged time; if so, it is likely dandruff because this is a persistent condition, whereas flea eggs will only be present a brief time before they hatch.

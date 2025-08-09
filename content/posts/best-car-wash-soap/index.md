@@ -19,9 +19,9 @@ Cleaning your cars with the wrong soap contributes to the deterioration of their
 - So, which is the best car wash soap - it must be eco-friendly, safe for humans, and[safe for water life, including fish](http://www.journalajee.com/index.php/AJEE/article/view/9522)?
 Well, a good car wash soap will give your car a brilliant look and wont damage the paint.
 # **In a Hurry? Check Best Car Wash Soap**
-[amazon bestseller="Best Car Wash Soap" items="2" template="table"]
+
 ## [1. Our #1 Pick:**Meguiar's Car Wash - G7101FFP Gold Class**](https://www.amazon.com/dp/B071HR14SJ/?tag=p-policy-20)
-[amazon box="B071HR14SJ" template="horizontal"]
+
 As a trusted car wash soap, Meguiar's G7101FFP will remove all kinds of dirt and grime from your car.
 - Unlike detergents, this formulation works by foaming and lubricating surfaces to get rid of dirt.
 - That means it wont wash off the protective covering on your cars body.
@@ -44,10 +44,10 @@ The Bad:
 - Pricey
 https://www.youtube.com/watch?v=tRv7XzHqK6A
 ## [2. #2 Pick: Mr. Pink Chemical-Guys CWS_402_64 Car-Wash Soap](https://www.amazon.com/dp/B071RKWXKV/?tag=p-policy-20)
-[amazon box="B071RKWXKV" template="horizontal"]
+
 https://www.youtube.com/watch?v=DpRMdNyURQw
 ## [3. #3 Pick: Adam's Neutral PH Car Wash Shampoo](https://www.amazon.com/dp/B00UICCQGQ/?tag=p-policy-20)
-[amazon box="B00UICCQGQ" template="horizontal"]
+
 Maintaining a glossy look on your car gets easier with a powerful shampoo like Adam's car wash shampoo.
 Formulated with surfactants and lubricants, Adam's car wash shampoo works by lubricating paint surfaces and lifting all dirt types.
 - Its a perfect product for removing dirt, grease, grime, pollen, and other mess.

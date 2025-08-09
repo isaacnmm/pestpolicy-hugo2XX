@@ -25,7 +25,7 @@ harsh chemicals
 - Peppermint will repel insects including wasps, stink bugs, spiders, moths, head lice, gnats, fruit flies, fleas, andcockroaches.
 Apply the spider-repellent spray onto dark corners,� the perimeters, windows, and doors.
 ***See quality spider killers.�***
-[amazon bestseller="Best Spiders killers" items="2" template="table"]
+
 ## Details: Does Peppermint Oil Repel Spiders??
 ### 1. Spiders Hate Mint Peppermint
 Spiders hate the natural mint smell in the peppermint oil - so spray the mixture around your home. Also, the spray will leave a fresh minty smell.

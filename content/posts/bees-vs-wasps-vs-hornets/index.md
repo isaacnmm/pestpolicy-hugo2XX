@@ -24,7 +24,7 @@ check wasp sprays
 ) survive after stinging, but bees die after stinging.
 *In summary, on size - wasps are 1/2 inch to 1 inch in length, but hornets a longer while bees are 2/25 inches (2 mm) to 77/50 (39 mm) - leaf-cutter�bee.�*
 *On color - hornets have white and black rings or yellow and black rings, but wasps have yellow and black rings. Bees are golden-colored - yellow or black but may also be purple, blue, green, orange, and red.�*
-[amazon bestseller="Bees Wasps Hornets killers" items="2" template="table"]
+
 ## Bees vs. Wasps vs. Hornets - 7 Key Differences?
 Well, wasps (non-furry insects) are carnivores, while bees are furry and will east flower pollen to produce honey. Check these
 sprays for yellow jackets.

@@ -21,7 +21,7 @@ Using pesticide sprays, among other
 So,
 what kills fleas in the yard naturally?
 So, check the below home remedies:
-[amazon bestseller="Best [Flea](https://pestpolicy.com/how-to-kill-fleas-on-dogs-naturally-safe-and-fast/) Spray for Yard" items="2" template="table"]
+
 ### 1. Diatomaceous earth
 Diatomaceous Earth (DE) for fleas
 has silica shards that'll cut through the fleas' waxy exoskeleton causing dehydration and eventual death of the bugs and the flea larvae.

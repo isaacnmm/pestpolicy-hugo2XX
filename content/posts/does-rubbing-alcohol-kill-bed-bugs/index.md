@@ -33,7 +33,7 @@ Rubbing alcohol can both repel and
 But, depending on the severity of the
 bed bug problem
 , rubbing alcohol may only serve as a temporary solution, and you might need to try other solutions. Be warned: Alcohol is highly flammable, so be very careful when spraying surfaces.
-[amazon bestseller="Best Bed Bug Killers" items="2" template="table"]
+
 ## **How does alcohol work to kill bed bugs?**
 First, you want to use the right concentration of alcohol when
 treating your bed bug

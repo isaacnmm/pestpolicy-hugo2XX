@@ -19,7 +19,7 @@ The Pyrethrins in the flea spray kill the adult [fleas](https://pestpolicy.com/c
 On how do I get [rid](https://pestpolicy.com/getting-rid-of-fleas-in-the-carpet/) of fleas in my house without
 bombing
 ; check the detailed explanation below. These are the�flea fogger or flea bomb alternatives.
-[amazon bestseller="Best Flea Sprays" items="2" template="table"]
+
 ## **1. Pesticide Sprays**
 Pesticide sprays kill fleas and are suitable for home use. Watch out for ingredients like resmethrin & permethrin - unsuitable for
 cat flea treatment
@@ -57,7 +57,7 @@ using foggers that have also proven to eliminate fleas in the entire house effec
 - There is no doubt that DE plusboraxis an excellent natural flea control method that can offer all-year-round protection against fleas.
 You'll need to sprinkle the DE powder in the pet houses. Further, do not assume that locking your pet will prevent fleas from infestation. It is important to control the fleas inside the pet house too.
 ## [Suitable Fogger - BASF 671858 PT Ultracide Flea Insecticide](https://www.amazon.com/dp/B002QS0WDO/?tag=p-policy-20)
-[amazon box="B002QS0WDO" template="horizontal"]
+
 BASF 671858 PT is classified as a premise spray, covering about 2625 sq ft that can control indoor insects, such as fleas, at all
 their life stages
 .

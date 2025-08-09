@@ -21,7 +21,7 @@ House lizards eat a great deal of insects in the house and some are kept as pets
 Lizards will bite you when they feel threatened.�But are lizards poisonous?
 **Short answer is NO. Most house lizards are not poisonous. But they have viruses and bacteria on their skin which can cause serious illness when consumed by humans.�**
 **Only the Blue-tailed [lizard](https://pestpolicy.com/are-lizards-vertebrates-or-invertebrates/) has poison on the skin. A few lizards are known to have venomous bites. These include the Mexican Bearded Lizards, Iguanas and the Gila.�**
-[amazon bestseller="Best Food for Lizards" items="2" template="table"]
+
 ## **Are Lizards Poisonous?**
 **1. Lizards Bite for Defence **
 Most house lizards are harmless creatures and will always scamper for safety whenever they feel threatened. In rare cases they can bite you as a defense mechanism.

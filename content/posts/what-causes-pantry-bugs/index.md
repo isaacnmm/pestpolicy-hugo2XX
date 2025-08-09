@@ -17,7 +17,7 @@ layout: post
 Does the presence of [pantry](https://pestpolicy.com/how-long-do-pantry-bugs-live/) bugs worry you? I also get scared of them. Though their presence is inevitable we can try to find the root cause of what causes pantry bugs.
 - This will in a great way help minimize their presence and also[control any further infestation](https://pestpolicy.com/how-long-do-pantry-bugs-live/).
 That said and done, this article provides us with necessary information on how to deal with these pantry bugs.
-[amazon bestseller="Best Spray for Pantry Bugs" items="2" template="table"]
+
 ## What Causes Pantry Bugs?-What You Need To Know.
 The most common cause of pantry bugs infestation is brought processed foods and dry foods into your house. This dry food could be, grains, cereals, fruits, vegetables, nuts, bran and others in your store.
 - Processed foods like floor, chocolate, spaghetti, macaroni, bread, cookies, cheese, and candies are also possible attraction points.

@@ -24,7 +24,7 @@ Alternatively, you can use
 boric acid
 - follow the 4 step process; identification, inspection, control, and prevention.
 So, now let's check out the Bengal roach spray and its effectiveness. Roaches spoil the mood in every household - they'll develop into massive infestations after forming nests in hidden spaces plus inside walls.
-[amazon bestseller="Bengal Roach Spray Review" items="2" template="table"]
+
 ## Bengal Roach Spray Review - Cockroach Sprays
 But, Bengal
 roach spray-like combat max 12 will kill roaches

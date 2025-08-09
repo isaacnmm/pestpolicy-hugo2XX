@@ -17,7 +17,7 @@ layout: post
 Are you trying to determine if we have bed bugs in the house? First, I'll narrate a personal experience I had eight months ago.
 I had just come back from our vacation - I was into 1 Vrbo and two hotels - which I had thoroughly inspected with no signs of bed bugs.
 However, the next day, spots appeared on my daughter's arms and legs - as shown in the picture. I was worried - probably just like you are.
-[amazon bestseller="Best Bed Bugs Killers" items="2" template="table"]
+
 So, in this post, I'll outline different pictures of bed bug bites that'll help you determine if bed bugs have bitten you.
 **But first**
 , let clear this out of the way -

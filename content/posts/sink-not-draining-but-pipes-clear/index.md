@@ -21,7 +21,7 @@ In this post, I outline how I cleared my sink drain blockage that had persisted 
 - *I had disconnected the u-bend under the sink and tried using a wire coat hanger to clear any drain clog, all with no success.�*
 **Summary: Assuming that the waste line sits at a small decline, youll need to solve a possible airflow issue�for your vent stack. This will keep neutral air pressure (prevent negative or positive pressure). **
 **Thus, wastewater will flow down the drain with the help of gravity. You should know that the toilet waste line and the sink waste lines are connected at their vent stack.�**
-[amazon bestseller="Best Drain� Cleaners" items="2" template="table"]
+
 ## Sink Not Draining But Pipes Clear
 My issue was that maybe I had a more significant problem because, in the previous three months, I had just miraculously
 [unclogged�my stubborn bathtub that had standing water](https://pestpolicy.com/how-to-unclog-a-bathtub-drain-with-standing-water/)

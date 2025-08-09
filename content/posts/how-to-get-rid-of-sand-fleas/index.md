@@ -22,7 +22,7 @@ Spring is here and with it,
 So, inspect your pets, luggage, and home for sand fleas and undertake appropriate steps to prevent re-infestation.�Related:
 Flea Spray for Garden
 .
-[amazon bestseller="Sand Fleas Killers" items="2" template="table"]
+
 ## Approach 1: Identify the Sand Fleas - How to Get Rid of Sand Fleas
 ### Step 1: How do you identify the sand fleas?
 A sand flea looks like a sand particle and is the size of a grain of rice or a speck of salt. - you'll find it near the sand-water interface or in moist areas.

@@ -26,7 +26,7 @@ like fruits, vegetables or commercial foods.
 *But can bearded dragons eat apple? Yes, bearded dragons will eat apples. However, for a healthy diet, peel the apple's skin and cut the fruit into small pieces.�*
 **Ensure the Caution - only feed apples like a treat because excessive apples will lead to runny stools.�**
 **Apples are a source of nutrients including vitamin C, proteins, fiber and so on. Apples also contain a lot of water which helps in hydrating your beardies.�**
-[amazon bestseller="Food for Bearded Dragons" items="2" template="table"]
+
 ## **Bearded Dragons and the Apples��**
 Apples make a very good diet for bearded dragons like
 tomatoes eat bearded dragons

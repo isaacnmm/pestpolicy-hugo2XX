@@ -18,7 +18,7 @@ Cats love that clean life, they'll grom their skin regularly removing any dirt, 
 **Simple answer, NO, don't use human shampoo on cats - human shampoo's pH imbalance makes it aggressive and will make the pet's skin dry out.�**
 **Also, human shampoo may cause painful irritation and flakiness on the cat. So, talk to the cat's veterinarian about mild shampoos that will be great for your cat.�**
 - Also, kittens have more delicate skin than adult cats, and thus to clean them off dirt, use shampoos formulated for kittens - avoid[dog Shampoo](https://pestpolicy.com/can-you-use-dog-shampoo-on-cats/)too.
-[amazon bestseller="Best Shampoo for Cats" items="2" template="table"]
+
 ## Details: Can You Use Human Shampoo on Cats?
 Shampoos are designed to be species-specific and thus you must not use human or dog shampoo to bathe your cats. Minimize the number of bathes - like once every 6 weeks for short-haired breeds.
 But for the longer-haired cat breeds such as the Himalayans and Persians, you can bathe them more often since they tend to get dirty easily.

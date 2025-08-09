@@ -20,7 +20,7 @@ What do baby fleas look like? Check these baby flea (larvae) videos, images, and
 
 *Fleas in the pupal stage look lumpy and crusty with an irregular shape plus have a silky cocoon.�*
 *Flea eggs measure about anywhere from 0.04 millimeters plus have dry and smooth skin that is off-white.�*
-[amazon bestseller="Best Flea Killer" items="2" template="table"]
+
 Read Also:
 What's the best flea spray for your yard
 .

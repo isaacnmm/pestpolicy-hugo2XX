@@ -18,7 +18,7 @@ May be you have come across various species of lizards in your home, park or zoo
 **So, Are Lizards Vertebrates or Invertebrates? The simple answer is, all species of [Lizard](https://pestpolicy.com/are-lizards-poisonous/) are vertebrates (they have backbone also called the vertebral column/spinal column). **
 **The lizards spinal column is divided into cervical, dorsal, caudal regions and sacral apart from legless lizards whose backbone is divided into caudal and precaudal. **
 **The main function of the backbone is to offer protection to the spinal cord. It also provides an option for attachment of body muscles.�**
-[amazon bestseller="Best Food for Lizards" items="2" template="table"]
+
 ## Are Lizards Vertebrates or Invertebrates?
 Lizards including
 bearded dragons

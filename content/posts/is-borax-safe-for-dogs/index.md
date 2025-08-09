@@ -19,7 +19,7 @@ Borax is a chemical compound (Na2B4O7(OH)410H2O) that has multiple uses in indus
 **But, just how toxic is borax to dogs?**
 - **Dogs are susceptible to borax toxicity at over 0.02 oz per lb of body weight. It will **[**cause clinical signs**](https://onlinelibrary.wiley.com/doi/book/10.1002/9780470699010)** like loss of appetite, retching, diarrhea, vomiting, abdominal pain, anemic skin/ gums, shock, and **[**death**](https://jamanetwork.com/journals/jama/article-abstract/274229)**.**
 - **The dog exposed to borax or boric acid frequently vomits, produces stools with blue-green substance or blood, and becomes lethargic or droopy-eyed.�**
-[amazon bestseller="Best Dog Food" items="2" template="table"]
+
 ## **Is Borax Safe For Dogs?**
 Borax is a chemical compound that can be found at many grocery stores. But the real question is how much borax can a small dog eat before being dangerous?
 Well, for every pound (half a kilogram) of body weight, dogs are only able to tolerate about 0.25 grams (0.06 ounces) of borax before it is too much for them and can cause serious health problems such as vomiting or diarrhea.

@@ -20,7 +20,7 @@ or mites is good. But exterminating them requires that you know their difference
 *In summary, bed bugs are blood-sucking insects that bite human and animal hosts. However, Dust mites are arachnids eating dead skin cells left by humans, ticks, and spiders in homes.�*
 *But mites don't bite humans but will cause skin irritation. Bed bugs are tiny insects that don't fly but will live in cracks on bed frames, box springs, mattresses, beds, textiles, and furniture.
 *
-[amazon bestseller="Best Bed Bug Killers" items="2" template="table"]
+
 ## Bed Bugs Vs. Mites - How to Tell the Difference
 Bed bugs are mainly active
 at night and cause anemia and itching (may cause secondary dermal infections) - but don't spread diseases.�Read Also:

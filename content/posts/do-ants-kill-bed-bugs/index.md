@@ -22,7 +22,7 @@ may not work and are expensive - but you can use natural treatments such as pest
 *Pharaoh ants are considered the most dangerous ant species in killing and eating bed bugs - especially for few bed bugs - besides fire ants and argentine ants. But *
 *ants won't help remove massive bed bug infestations.�*
 ***See top spider killers.�***
-[amazon bestseller="Best Bed Bugs killers" items="2" template="table"]
+
 ## Details: Do Ants Kill Bed Bugs??
 But ants will also help locate the bed bugs' hiding places -but you won't have to introduce the bugs into your house - as may also prove difficult to
 [control these pests](https://nysipm.cornell.edu/whats-bugging-you/bed-bugs/bed-bug-faqs///)

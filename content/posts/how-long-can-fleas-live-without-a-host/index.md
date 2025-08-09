@@ -20,7 +20,7 @@ layout: post
 - **Fleas can survive for a period of 4-7 days without a host. But if you subject them to any longer than this, they will die. **
 - **Fleas have different stages of a life cycle but it is the adults that need the host more especially when laying eggs. Fleas can attach to many hosts, but their preferred hosts are the furry homes pets- cats and dogs.**
 If you study the life cycle of a flea, you shall get the opportunity to learn and understand about the fleas and their host.
-[amazon bestseller="Best Flea Killers" items="2" template="table"]
+
 ## Details: How Long Can Fleas Live Without A Host?
 Because fleas are parasites, it is difficult to live without a host. They get their food from the host to survive and reproduce.
 - But if you take a flea from hosts its chances of survival becomes minimal and can die. The longest they can survive without a host is 4-7 days maximum.

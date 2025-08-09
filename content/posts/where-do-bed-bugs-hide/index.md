@@ -20,7 +20,7 @@ You will mainly find these bloodsuckers in residential or public premises and pu
 [locate their hideouts](https://extension.psu.edu/biology-habitat-and-management-of-[bed-bugs](https://pestpolicy.com/bed-bug-bites-vs-mosquito-bites/))
 . So, where do bed bugs hide?
 *Simply put, bed bugs hide in mattress seams, wall or floor cracks, bed frames, chair joints, second-hand furniture joints, couches, bedding, clothes seams, ceiling, and clothe shelves.� Often, bed bugs hide during the day and appear at night when you are asleep.�*
-[amazon bestseller="Best Bed Bug Killers" items="2" template="table"]
+
 ## **Details: Where Do Bed Bugs Hide? - Identify Bed Bugs�**
 First, here're the
 signs of bed bugs infestations:

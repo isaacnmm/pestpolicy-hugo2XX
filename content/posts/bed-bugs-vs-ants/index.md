@@ -27,7 +27,7 @@ Bleach
 ,
 spraying
 , and the proper bite treatment.
-[amazon bestseller="Best Bed Bugs Killer" items="2" template="table"]
+
 ## Bed Bugs vs. Ants (Tell Them Apart): Facts - Body shape Differences
 Do bedbugs look like ants? Bed bugs and ants have
 [insect Anatomy](https://extension.umd.edu/sites/extension.umd.edu/files/_docs/programs/master-gardeners/Montgomery/Master%20Gardener%20Termites%20Ants%20Bed%20Bugs%202-17.pdf)

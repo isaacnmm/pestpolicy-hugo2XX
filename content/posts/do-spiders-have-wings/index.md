@@ -19,7 +19,7 @@ Some spiders even exhibit ballooning behavior - but do spiders have wings? Spide
 on long strands of silk  without wings!
 ***Well, what about winged spiders? Do these exist? No, not really. There are no known species of [spider](https://pestpolicy.com/can-you-drown-a-spider/) with fully developed wings capable of powered flight in any way comparable to that of insects or birds.�***
 ***However there is one genus (Palystes) whose females possess wing-like projections called apomoses which cover their reproductive organs and sometimes also extend beyond them. These structures serve only as protective covers and are not used for flight.�***
-[amazon bestseller="Best Spider Killers" items="2" template="table"]
+
 ## Details: Do Spiders Have Wings?
 Most insects have wings, but spiders dont. There are winged species of jumping spider (Salticidae) but these do not have wings in any way comparable to that of insects or birds and so they can't fly either.
 The jumping spiders' wings are actually a very thin layer of chitin, which is the substance that covers their exoskeleton.

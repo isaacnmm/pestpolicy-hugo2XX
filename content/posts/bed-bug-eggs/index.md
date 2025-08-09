@@ -26,7 +26,7 @@ So, in this guide, we delve into the details of what the eggs look like and how 
 on your clothing, yard, and house. Also, here's a guide on
 how to kill those bed bug eggs
 .
-[amazon bestseller="Best Bed Bugs Killers" items="2" template="table"]
+
 ## Bed Bug Eggs * Pictures * (Appearance and Life Cycle)
 What do
 bed bug eggs look and smell like

@@ -22,18 +22,18 @@ If you need a quick answer, I approve of the
 [FlexiSnake](https://www.amazon.com/dp/B01NB0729G/?tag=p-policy-20)
 drain snake, especially for hair-clog removal. It has grabbers and small hooks that'll attach to the hair as the auger rotates even around the p-trap.
 # **In a Hurry? Check Best Drain Snakes�**
-[amazon bestseller="Best Drain Snakes" items="2" template="table"]
+
 ## [1. Our #1 Pick:Forlivese 25-Inch Drain Opener orHair snake Tool](https://www.amazon.com/dp/B07RMHNHYC/?tag=p-policy-20)
-[amazon box="B07RMHNHYC" template="horizontal"]
+
 https://www.youtube.com/watch?v=mXxIR6fjDqw
 ## [2. #2 Pick:Vastar 19.6-Inch Clog Remover or Drain Snake](https://www.amazon.com/dp/B01DP87IF8/?tag=p-policy-20)
-[amazon box="B01DP87IF8" template="horizontal"]
+
 https://www.youtube.com/watch?v=rLA1BVL4hFI
 ## [3. #3 Pick:5-in-1Clog Remover &Sink SnakeAuger orCleaner](https://www.amazon.com/dp/B07G6Z27ZD/?tag=p-policy-20)
-[amazon box="B07G6Z27ZD" template="horizontal"]
+
 https://www.youtube.com/watch?v=rE0b0zRkkmo
 ## [**4. FlexiSnake Drain Snake **- Toilet & Hair Auger](https://www.amazon.com/dp/B01NB0729G/?tag=p-policy-20)
-[amazon box="B01NB0729G" template="horizontal"]
+
 FlexiSnake tops the best drain snakes - has grabbers and hooks thatll collect grime, filth, & hair without damaging the porcelain or pipes.
 FlexiSnake is also cheap and relatively long (18 inches) to reach the deepest clogs.
 It will entangle all hairballs  youll now easily pull out to break down the toilet or drain clogs. Its wand is highly flexible to allow the snake to reach challenging curves and tight spaces.
@@ -52,7 +52,7 @@ So, let's get started!�Related:
 [Quality Drain Cleaners](https://pestpolicy.com/best-drain-cleaner//)
 .
 ## [**5. ****Ridgid 41408 Snake Maxcore Cable (AUTOFEED)**](https://www.amazon.com/dp/B00203U69K/?tag=p-policy-20)
-[amazon box="B00203U69K" template="horizontal"]
+
 The Ridgid 41408 gives you the freedom to leverage on either manual or powered operation.
 For lighter jobs, you can use the manual crankcase. If the jobs require extra effort, you can connect this device to a power drill to achieve better torque.
 With its 25 feet flexible maxcore cable, you can tackle most of your drain problems even if you live upstairs. It is ideal for lines between 1 and 1 in diameter, meaning you can use it in your bathtub drain and sink, among other household clogs.
@@ -65,7 +65,7 @@ The Good:
 The Bad:
 - It is not ideal for toilets
 ## [**6. ****Milwaukee 2772A-20**](https://www.amazon.com/dp/B07814DJ12/?tag=p-policy-20)
-[amazon box="B07814DJ12" template="horizontal"]
+
 If you want to clean your drain with much less effort, then you need Milwaukee 2772A-20 M18 Fuel Drain Snake.
 - It utilizes a Cable Drive Locking Feed System which is an advanced technological trend for handheld power machines.
 A PowerState brush motor is incorporated in this device, meaning therere no wearable parts. This enhances the machine's ability to run for a prolonged time, especially when tackling tough drain cleaning chores.
@@ -81,7 +81,7 @@ The Good:
 The Bad:
 - Charger and battery are sold separately
 ## [7. General R-25SM Spin Drain Snake](https://www.amazon.com/dp/B003NFO528/?tag=p-policy-20)
-[amazon box="B003NFO528" template="horizontal"]
+
 R-25SM is a small-sized snake that'll break up minor clogs in the bathroom or kitchen sink. So, don't hire a plumber so fast - pick this tool and you'll be done in under 10 minutes.
 On design, R-25SM is designed from steel (rust-resistant), has rubber bumpers, and telescoping capability, and a durable 48-inches spring.
 R-25SM is excellent for unblocking sinks & urinals. The spring is flexible but equally tough to maneuver tight bends. Further, with the powerful telescope, you'll quickly see down the drains.
@@ -98,7 +98,7 @@ Related:
 Using a Drain Plunger
 .
 ## [8. RIDGID 46683 K-1 Snake Auger (With Telescoping)](https://www.amazon.com/dp/B00K6NEC78/?tag=p-policy-20)
-[amazon box="B00K6NEC78" template="horizontal"]
+
 RIDGID 46683 is insignificant, but its great for unclogging the difficult toilet blockages. In fact, this is the tool that plumbers dont want you to know  I discovered it the hard way.
 - Luckily, this RIDGID 46683 will tear down those clogs & blockages without damaging toilet porcelain and pipes.
 - Thus, readily prevent toilet backup for cheap and with minimal damages.
@@ -119,7 +119,7 @@ Related:
 How Drain cleaners Work
 .
 ## [**9. Ryobi P4001 One Plus 18V Drain - 25 ft Snake ****Auger**](https://www.amazon.com/dp/B019NH0E8S/?tag=p-policy-20)
-[amazon box="B019NH0E8S" template="horizontal"]
+
 The 25-foot Ryobi-P4001 is great for unclogging bathtubs, toilets, and sinks. You can unclog  to 2 (width) pipes. The cable wont work kinker since it is highly reinforced.
 - With the reverse and forward power, the snake is effective and easy to use in tearing down clogs.
 - I note that this snake is an excellent addition to the cordless power tools.
@@ -134,7 +134,7 @@ The Good:
 The Bad:
 - Not light in weight
 ## **10. Dr. Drain VEDRAU01A1 Plumbers Spring Snake**
-[amazon box="B07411XJLT" template="horizontal"]
+
 Dr. Drain VEDRAU01A1 is a DIY auger. The 25-feet cable auger has a tiny hand crank plus a crank knob, a big handle, and a mounted drum at the back. It has a large bulb tip and a metallic mouth for less wear.
 Dr. Drain VEDRAU01A1 will remove the toughest clogs in your floor drains, tub, sewer, and sink  a reliable household drain snake. It has a Flexi core to traverse the
 [drain pipes and unclog](https://pestpolicy.com/how-to-unclog-a-bathtub-drain-with-standing-water/)
@@ -151,7 +151,7 @@ The Bad:
 - Material is not strong enough
 ## **11. Ridgid Drain Snake 115v 35473 K-45AF  Shower & Sinks
 **
-[amazon box="B004QXQ8E4" template="horizontal"]
+
 With this Ridgid K-45AF snake, you won't have to mess your hands o clothes - it comes with a self-feeding cable that's easy to operate with just a push of its button.
 - It's great for unclogging sinks, the lavatory bathtub, showers, or even urinals. You'll love the flexible auger and the rust-proof material. The 115 V plug on this snake will give your 15% more efficiency.
 With this device, you can go as deep as 25 ft. deep into your
@@ -169,7 +169,7 @@ The Good:
 The Bad:
 - Relatively expensive
 ## [**12. Cobra Drain Snake GIDDS-211332 - **500 RPM](https://www.amazon.com/dp/B008MG0KD6/?tag=p-policy-20)
-[amazon box="B008MG0KD6" template="horizontal"]
+
 If you indeed
 [need a drain cleaner](https://pestpolicy.com/thrift-drain-cleaner-review/)
 to tackle tough and enormous clogging, you might go for this cobra GIDDS drain cleaner.

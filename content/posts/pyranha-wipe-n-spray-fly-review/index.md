@@ -17,7 +17,7 @@ layout: post
 PYRANHA Wipe N Spray offers protection to your horse against insects such as biting [flies](https://pestpolicy.com/absorbine-ultrashield-ex-brand-residual-insecticide-review/) in addition to fleas, gnats, and mosquitoes.�Youll require just 1-2 ounces for every horse and will be excellent if you daily on your horse.
 Interestingly, you wont need to mix the chemical with anything as it is delivered ready to use. In this post, I've reviewed this PIRANHA Wipe N Spray which is among the
 *best fly spray for horses.�*
-[amazon bestseller="PYRANHA Wipe N Spray Fly" items="2" template="table"]
+
 Flies will particularly be rampant during the months of summer  particularly with areas that experience hot summers and mild winters. With this Pyranha
 [Fly Spray](https://pestpolicy.com/espree-aloe-herbal-fly-repellent-horse-spray-review/)
 , you can easily control the flies and bugs attacking your horse.

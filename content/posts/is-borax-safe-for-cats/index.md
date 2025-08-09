@@ -28,7 +28,7 @@ and cats.
 **Cats, and kittens are more sensitive to the toxicity of borax than humans are - and if your cat ingests a large amount (5 grams and above), it damages their internal organs and skin which can cause poisoning, breathlessness, allergies, and death. **
 - **Moreover, inhaling sodium borate powder can inflame or irritate the respiratory system's mucous membrane. **
 - **Normally, dogs and cats do not lick sodium borate. But if they have it on their paws, they may lick it.**
-[amazon bestseller="Best [Fleas](https://pestpolicy.com/is-borax-safe-for-dogs/) Treatment for Cats" items="2" template="table"]
+
 - [Borax](https://pestpolicy.com/borax-flea-killer/) and boric acid are considered safer pesticides in comparison to other chemicals in killing fleas, ants, roaches, and fleas.
 - The 20 Mule-Team Borax is one of the borax-based cleaning products. However, borax is safe for cats if ingested in small and EPA-approved amounts.
 ## Is Borax Safe for Cats? Borax for Fleas

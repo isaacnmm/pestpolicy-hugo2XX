@@ -20,9 +20,9 @@ You may have read many
 reviews, which have been confusing for a person who's not a professional exterminator.
 We want to simplify the process for you by sharing with you five of the best flea drops for cats based on our research and experience.
 **Check the top flea drops.��**
-[amazon bestseller="Best Flea Drops for Cats" items="2" template="table"]
+
 ## [1. Our #1 Top Pick: Hartz-UltraGuard Topical Flea Prevention](https://www.amazon.com/dp/B07D3DTSDT/?tag=p-policy-20)
-[amazon box="B07D3DTSDT" template="horizontal"]
+
 Pet Defender Plus is another versatile anti-flea remedy that will benefit you if you own pets.
 - Its formulation consists of Fipronil and (S)-Methoprene, the two active ingredients on the famous Frontline Plus.
 - The formula is potent against adult [fleas](https://pestpolicy.com/best-flea-carpet-powder/), larvae, and eggs. It also decimates ticks and chewing lice.
@@ -33,7 +33,7 @@ An application is further made easy by Hartz's patented applicator they call Pro
 Use this anti-flea formula on cats aged eight weeks and above and weighing higher than 1.5 lbs.
 https://www.youtube.com/watch?v=bl4IxN6ZVKM
 ## [2. #2 Pick: Bayer Advantage II Flea Prevention for Cats](https://www.amazon.com/dp/B004QBDO0M/?tag=p-policy-20)
-[amazon box="B004QBDO0M" template="horizontal"]
+
 Pet owners who seek the help of veterinarians are often advised to buy the Bayer Advantage II. Vets recommend it because it's one of the most effective remedies for flea prevention in cats.
 - It comes as no surprise that it's among the [best](https://pestpolicy.com/best-flea-collar-for-dogs/)-selling treatment options for cat fleas.
 - Advantage II works through contact; therefore, fleas don't need to bite your cat first before the treatment can work on them.
@@ -50,10 +50,10 @@ https://www.youtube.com/watch?v=1cH8dojZV_A
 Related:
 Flea collars for cats
 ## [3. #3 Pick: Cheristin Flea Drops Topical 6 Weeks](https://www.amazon.com/dp/B07DJVPKTW/?tag=p-policy-20)
-[amazon box="B07DJVPKTW" template="horizontal"]
+
 https://www.youtube.com/watch?v=Uulet_dueAA
 ## [4. Vectra 3 Doses Green Flea Drops for Cats](https://www.amazon.com/dp/B00852H58K/?tag=p-policy-20)
-[amazon box="B00852H58K" template="horizontal"]
+
 Next up on the list of best flea drops for cats is this Vectra Green is a premium quality alternative treatment for preventing cat fleas.
 - It works against all stages of the lifecycle of this dreadful pest. Use it to kill flea eggs, larvae, pupae, and adults within six hours.
 - According to the manufacturer, it kills flea species that may transmit cat diseases, including tularemia, tapeworm, and bartonellosis.
@@ -69,7 +69,7 @@ It won't be active on dogs or other pets. It comes as a three one-month treatmen
 Related:
 Ear Mites Treatment for Cats
 ## [5. PETARMOR Plus for Cats, Flea & Tick Prevention for Cats](https://www.amazon.com/dp/B00WWP1G40/?tag=p-policy-20)
-[amazon box="B00WWP1G40" template="horizontal"]
+
 The fleas that have been terrorizing your cats do not stand a chance with this powerful flea drop by PetArmor.
 - It disrupts the lifecycle of insects by killing eggs, larvae, adults. It is also potent against ticks and chewing lice. The effects of the formula last for 30 days following application.
 - Plus for cats is vet-quality and is highly potent. It will start killing fleas approximately 24 hours after application and achieves peak performance in about 48 hours.
@@ -79,7 +79,7 @@ If you purchase this product, the delivery will include three 0.017 fl. oz topic
 This pesticide drop is formulated for cats weighing from 1.5 lbs and older than eight weeks.
 Besides fleas, PetArmor Plus can also protect your cat against tick infestation. However, you should read the provided instructions carefully before using them on your pets.
 ## [6. Arava Control Cat Flea Control Drops](https://www.amazon.com/dp/B01MS0VZYF/?tag=p-policy-20)
-[amazon box="B01MS0VZYF" template="horizontal"]
+
 The Arava Control Drops are ideal for pet owners who have more than one pet and facing severe flea infestation.
 - This versatile anti-flea regimen is effective on cats, dogs, and even their puppies. Besides, it can kill ticks and lice in addition to fleas.
 - Apply it, and all the fleas will be gone within the first hours, making it one of the quickest flea control drops in the market.

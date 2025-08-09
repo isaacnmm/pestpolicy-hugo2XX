@@ -20,15 +20,15 @@ Notably, Dogs Bed Orthopedic comes in varieties of colors such as grey, blue, re
 flea treatments for dogs
 .
 # **In a Hurry? See these Best Dog Beds**
-[amazon bestseller="Best Dog Beds" items="2" template="table"]
+
 ## [1. Our #1 Pick:Sheri High-Bolster, Machine Washable, Calming Dog Bed](https://www.amazon.com/dp/B07P6DQMQ4/?tag=p-policy-20)
-[amazon box="B07P6DQMQ4" template="horizontal"]
+
 https://www.youtube.com/watch?v=jRA93UualfM
 ## **2. #2 Pick: Furhaven Memory-Foam & Orthopedic Dog Bed**
-[amazon box="B0759JPRKY" template="horizontal"]
+
 https://www.youtube.com/watch?v=NH3nGxPpPkM
 ## [3. #3 Pick: Big Barker 7" Pillow Dog Bed (Headrest Edition)](https://www.amazon.com/dp/B0786PVJQS/?tag=p-policy-20)
-[amazon box="B0786PVJQS" template="horizontal"]
+
 Big Barker is our
 number one dog bed
 that features a high-density therapeutic foam that gives your pet dog a comfortable sleep without any cases of spinal or back pain.
@@ -56,7 +56,7 @@ The Bad:
 Read Also:
 Flea Treatment for Cats
 ## [4. Friends Forever Orthopedic Dog Bed Lounge Sofa](https://www.amazon.com/dp/B01LYMYKHW/?tag=p-policy-20)
-[amazon box="B01LYMYKHW" template="horizontal"]
+
 Lounge Sofa is a forever luxurious night sleep for your lovely pet dog. It is aesthetically designed using classically soft, baby mattress foam that will give your dog continuous comfort while relaxing.
 - The top-quality khaki cover additionally gives your pet exceptional therapy while asleep.
 - The middle-grade foam comes in various sizes, from small to giant XXL. Therefore, this product can be used by any dog size as long as you make the right considerations.
@@ -80,7 +80,7 @@ The Bad:
 Related:
 Can Humans Get Ear Mites from Dogs?
 ## [5. Sealy Lux Quad Layer Orthopedic Dog Bed](https://www.amazon.com/dp/B00G3D4S3S/?tag=p-policy-20)
-[amazon box="B00G3D4S3S" template="horizontal"]
+
 The pro-charcoal base Sealy Lux is a classical ideal dog bed that features a high-quality, incompressible mattress that is extra-hardened to improve its lifespan.
 - The dog bed features a nice impressive couch design that enables your dog to lean backward at will.
 - This therapeutic exercise aids in joints massage and nursing of the backbone, especially for a dog suffering from arthritis or spinal injuries.
@@ -106,7 +106,7 @@ The Good:
 The Bad:
 - Not Suitable for very large dogs
 ## [6. Kopeks 7-Inch Thick Orthopedic Dog Bed](https://www.amazon.com/dp/B01MRICFU2/?tag=p-policy-20)
-[amazon box="B01MRICFU2" template="horizontal"]
+
 Kopeks is a 100% orthopedic dog bed designed to make your dogs sleep extra comfortable.
 It features top-quality, hypoallergenic memory foam that is self-hardened to prevent any possible flattening while in use (durable).
 - The soft plush outer cover encompasses a simple zip mechanism that allows quick removal when cleaning.
@@ -133,7 +133,7 @@ The Bad:
 Related:
 [Diatomaceous Earth for [Fleas](https://pestpolicy.com/best-dog-backpack-carrier-for-hiking/) on Dogs](https://pestpolicy.com/diatomaceous-earth-for-fleas-on-dogs/)
 ## [7. Shag Vegan Fur Donut Cuddler](https://www.amazon.com/dp/B07BB63HBN/?tag=p-policy-20)
-[amazon box="B07BB63HBN" template="horizontal"]
+
 The Vegan fur is a [dog](https://pestpolicy.com/best-dog-brush-for-short-hair-shedding/) bed designed with extra softness to cuddle your pet nicely while asleep.
 The product feature a donut (round/rectangular) shape that is highly flexible  this allows your dog to sink in nicely while asleep and makes it generate great warmth.
 - You will definitely like the tender softness Vegan comes with  mainly to cater to your puppys comfort during the cold season.
@@ -159,7 +159,7 @@ The Bad:
 Related:
 Best Tick Collars for Dogs
 ## [8. Furhaven Pet Dog Bed](https://www.amazon.com/dp/B07PXTPLNW/?tag=p-policy-20)
-[amazon box="B07PXTPLNW" template="horizontal"]
+
 Furhaven is a cradle-shaped dog
 bed that features a high-density foam mattress
 that guarantees long life.
@@ -187,7 +187,7 @@ The Bad:
 Related:
 [Best Flea Collar for Dogs](https://pestpolicy.com/best-flea-collar-for-dogs/)
 ## [9. The Dogs Bed Orthopedic](https://www.amazon.com/dp/B0737NN185/?tag=p-policy-20)
-[amazon box="B0737NN185" template="horizontal"]
+
 When it comes to top-quality single-layer beddings, Dogs Bed Orthopedic is the best product to buy as it comes with an elegant comfy experience that boosts your pets confidence.
 - This dog bed is specially designed to withstand extra-heavy weight without flattening/deformation.
 - Also, your pet dog will enjoy rolling from either end as it enjoys the soft, luxurious outer covers curling.

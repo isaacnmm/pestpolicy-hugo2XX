@@ -19,7 +19,7 @@ best bed bug sprays
 .
 Nevertheless, we know that it leaves no residue and is odorless, but is it effective against bed bugs, eggs, and nymphs?
 So, let's get down to the review!
-[amazon bestseller="Spectracide Bug Stop Fogger for Bed Bugs" items="2" template="table"]
+
 ## #1:�Review Summary
 Spectracide bug stop fogger produces a mist (fine and penetrating one) that'll get deep down crevices,
 mattress encasements

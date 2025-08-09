@@ -22,7 +22,7 @@ The nocturnal roaches can be noted with the oily (strong-scented) scent, empty e
 Check too:
 [Roach Infestation Signs](https://pestpolicy.com/signs-of-a-cockroach-infestation/)
 . Check out the top roach bombs below...
-[amazon bestseller="Best Cockroach Bomb" items="2" template="table"]
+
 ## Effective? - When to Use a Cockroach Bomb?
 Cockroach bombs
 [will exterminate the bugs](https://entomology.ca.uky.edu/ef643)

@@ -30,7 +30,7 @@ Related:
 Red-Eyed Crocodile Skink Care
 .
 
-[amazon bestseller="Food for Bearded Dragons" items="2" template="table"]
+
 ## How Smart are Bearded Dragons? Research
 While humans may have once been the only species capable of imitation, new research has shown that some lizards are on equal footing with us in the intelligence department.
 - The[University of Lincoln, U.K research](https://www.lincoln.ac.uk/news/2014/09/970.asp)aimed to provide a better understanding of the intelligence of bearded dragons - through imitation testing.

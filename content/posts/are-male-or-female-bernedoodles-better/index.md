@@ -21,7 +21,7 @@ adorable pets
 - Whether you already have one or are looking to adopt, there are certain underlying factors to be aware of.
 It is natural to wonder if you made the right decision. Do not worry, as we have done extensive research on this matter to make things easier for you. Read on to find out more.
 
-[amazon bestseller="Bernedoodles" items="2" template="table"]
+
 ## **Details: Are Male or Female Bernedoodles Better?�**
 Are male or female bernedoodles better?� Well, it depends. Size and personality are the main differentiating factors.
 - Male Bernedoodles are larger compared to their female counterparts. Consequently, everything about them has dialed up a notch.

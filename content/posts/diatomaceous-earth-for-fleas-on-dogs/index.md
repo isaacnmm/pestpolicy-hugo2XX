@@ -19,7 +19,7 @@ Fleas are not only irritating and a nuisance to your dog, but they also cause pa
 Methods that do not harm the environment, such as the use of
 [Diatomaceous Earth for Fleas](https://pestpolicy.com/diatomaceous-earth-for-fleas/)
 .
-[amazon bestseller="Diatomaceous Earth for Fleas" items="2" template="table"]
+
 ## **Details: Diatomaceous Earth for Fleas on Dogs�**
 Studies have found that
 diatomaceous earth

@@ -19,7 +19,7 @@ Having spider infestation in your home could be such a chilling moment, especial
 - **Alternatively, you can lay down sticky spider traps around your compound/house, wash spiders away, kill the wolf spider with a broom, or practically hunt the spiders down. **
 - **Methods such as getting rid of clutter & debris, removing vegetation from the compound, and sealing crack/holes on the walls help in reducing wolf spiders breeding and future infestation.**
 **Installation of insects' screens on the walls and removing/changing your outdoor lighting will aid in further elimination of wolf spiders from your home.�**
-[amazon bestseller="Best Spray for Wolf Spiders" items="2" template="table"]
+
 Related:
 [Exterminating Brown Recluse Spiders](https://pestpolicy.com/how-to-get-rid-of-brown-recluse-spiders/)
 ## How to Get Rid of Wolf Spiders

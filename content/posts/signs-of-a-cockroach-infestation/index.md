@@ -19,7 +19,7 @@ Are you
 ? One thing you need to know is that roaches are nocturnal pests and are very active during the night.
 They are very tactical, as they will also hide in crevices and cracks which complicate things.
 **In summary, the signs of a [cockroach](https://pestpolicy.com/cockroach-vs-palmetto-bug/) infestation are roach droppings, live or dead cockroaches, smear marks, shredded roach skin, strong odor, roach egg capsules, plus furniture and property damage.�**
-[amazon bestseller="Best Killer for Cockroaches" items="2" template="table"]
+
 What is annoying is that they will feed on anything in your home from food, clothes, papers, plastics and anything around then hide only for you to find damages.
 ## **Signs of a Cockroach Infestation - 7 Notable Signs **
 There are different signs that you can use to tell if you have an infestation in your home. This is because roaches are hard to spot during the day and they will only come out when the lights are off.

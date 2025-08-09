@@ -21,7 +21,7 @@ trigger irritation and discomfort in dogs and cats. But do [fleas](https://pestp
 *In summary, the [flea](https://pestpolicy.com/why-do-flea-bites-itch/) will bite humans to suck blood, leaving 3-4 clusters of small-reddish spots - particularly on the ankles, feet, lower legs, calves.�*
 - *Flea bites trigger irritation, pain, scratching, and allergic reactions, plus a rash or white-top blisters. Fleas have a mouth with 3 stylet that is needle-like adapted for biting their hosts and sucking blood.�*
 - *The 2 styles on the outer side will bite (pierce) the human skin, and the remaining (middle) stylet will enter the blood capillary of the host and draw blood. **Also, the middle stylet injects some anticoagulant saliva to prevent blood clotting.�*
-[amazon bestseller="Best Flea Killers" items="2" template="table"]
+
 ## Do Fleas Bite Humans? Where? Home Flea Remedies
 Flea bites trigger inflammation, itching, and anemia due to blood loss to the parasitic insect in petshowever, it's
 clear that fleas

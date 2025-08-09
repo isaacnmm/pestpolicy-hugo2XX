@@ -17,9 +17,9 @@ On the best silverfish repellent, you will not only acquire a quality product bu
 - The current market is flooded with spray brands, which if you're not careful, you may end up acquiring ineffective repellents ortraps.
 During selection, consider factors like quantity, action time, residue effects (if any), user mechanism, packaging form (powder, liquid, or compressed gas?), and the environmental impact upon use.
 ## Reviews: Top 7 Best Silverfish Repellent in 2025
-[amazon bestseller="Best Silverfish Repellent" items="2" template="table"]
+
 ## [1. HARRIS Boric Acid Silverfish Killer Powder](https://www.amazon.com/dp/B0026MD0G6/?tag=p-policy-20)
-[amazon box="B0026MD0G6" template="horizontal"]
+
 HARRIS Boric is a silverfish killer/repellent that features a concentrated powder formulation, which kills on contact - a great
 Silverfish Killer
 .
@@ -43,7 +43,7 @@ The Bad:
 - Not suitable for commercial/large scale use
 - It may poison cooked food
 ## [2. Safer Brand 5168 Diatomaceous Repellent](https://www.amazon.com/dp/B000FLV9H2/?tag=p-policy-20)
-[amazon box="B000FLV9H2" template="horizontal"]
+
 Safer Brand features organic pest killing formula, which repels and kills entire silverfish infestation within 48 hours -
 getting rid of silverfish
 .
@@ -65,7 +65,7 @@ The Bad:
 - Require residual cleaning after use
 - Comes in one canister package only
 ## [3. Dekko Silverfish Repellent](https://www.amazon.com/dp/B01N7EZH7S/?tag=p-policy-20)
-[amazon box="B01N7EZH7S" template="horizontal"]
+
 Dekko is a modern grade silverfish repellent that features concentrated boric acid ingredients (20%) and 80% inert components, which act to kill upon ingestion.
 - The solid pack is finely compressed and gently agitated to boost poisoning action.
 By choosing Dekko Silverfish, you will reduce frequent purchasing costs (it's economical) and eliminate wastage caused by the use of spray or powder silverfish killers.
@@ -89,7 +89,7 @@ The Bad:
 Related:
 [Fogger for [Fleas](https://pestpolicy.com/are-fleas-nocturnal/)](https://pestpolicy.com/best-fogger-for-fleas/)
 ## [4. D-Fense Dust](https://www.amazon.com/dp/B007AIE8OY/?tag=p-policy-20)
-[amazon box="B007AIE8OY" template="horizontal"]
+
 D-Fence Dust is a bio-friendly silverfish killer that features finite chemical ingredients, which kills on contact.
 - The powerful deltamethrin (0.05%) is extra concentrated to boost killing power, while the solution is agitated to improve penetration.
 With D-Fence Dust, you will not only kill silverfish but also repel and inhibit their future infestation. The compound has strong residual effects that can last for over 8 months on single-use.
@@ -111,7 +111,7 @@ The Bad:
 - To be stored away from children
 - It's not a spray option
 ## [5. JT Eaton 360 silverfish Killer](https://www.amazon.com/dp/B000HMCAAO/?tag=p-policy-20)
-[amazon box="B000HMCAAO" template="horizontal"]
+
 JT Eaton 360 is a concentrated silverfish [repellent](https://pestpolicy.com/best-gnat-repellent/) that comes packed in a ready-to-use dilution ratio.
 - The inflammable compound is highly refined to improve killing action (kills in contact) and boost crack penetration.
 You will definitely love the alternative nozzle that comes with JT Eaton as it allows point application, thus eliminating overspray.
@@ -139,7 +139,7 @@ The Bad:
 Related:
 When to Use a Cockroach Bomb?
 ## [6. Ortho Home Defense](https://www.amazon.com/dp/B01N7KSXHX/?tag=p-policy-20)
-[amazon box="B01N7KSXHX" template="horizontal"]
+
 Ortho Home is a defensive silverfish repellent/killer that features a complex chemical formulation, which acts instantly on contact.
 The odorless compound is packed in a large storage container (11.7 ounces) which covers a wide area - it's best for large-scale use.
 With Ortho Home, you will enjoy one-touch comfort during application since it comes with a classic wand that allows point delivery without hand fatigue.
@@ -164,7 +164,7 @@ The Bad:
 Related:
 [Flea Spray for Yard](https://pestpolicy.com/best-flea-spray-for-yard/)
 ## [7. HARRIS Diatomaceous Earth](https://www.amazon.com/dp/B082LRSCV8/?tag=p-policy-20)
-[amazon box="B082LRSCV8" template="horizontal"]
+
 HARRIS Diatomaceous is a naturally sourced silverfish repellent that features a long-lasting fine powder, which kills pests on contract. The super-grade powder contains zero additives or fillers.
 Actually, HARRIS is composed of 100% freshwater diatomaceous earth, which guarantees the best action when in use.
 - As long as the compound is kept dry, it will continuously repel silverfish and prevent any future re-infestation.

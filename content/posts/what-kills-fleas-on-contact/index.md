@@ -26,7 +26,7 @@ If you're curious how fleas (and their eggs) look, well
 see this article
 that outlines the images and pictures of fleas.
 
-[amazon bestseller="Bets Fleas Killer" items="2" template="table"]
+
 ## Details: What Kills Fleas on Contact? - Rubbing alcohol?
 Isopropyl alcohol (rubbing alcohol) is popular as a disinfectant or germ-killing product.
 But as a pet owner, you'll better love rubbing alcohol for its flea-killing ability - kills fleas on contact to finish that

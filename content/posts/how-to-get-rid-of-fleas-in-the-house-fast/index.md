@@ -23,7 +23,7 @@ onto furniture, carpets, and bedding. So, on how to get rid of fleas in the hous
 - Wash all bedding, curtains, and clothes that have come into contact with fleas or their droppings using a temperature of at least 60C (140F) for all items.
 - Kill fleas on your pet by bathing them with a medicated shampoo, or using other methods, such as brushing their fur and giving them an oral medication
 - Treat your yard to prevent the infestation from coming back.
-[amazon bestseller="Best Fleas Killer for Apartment" items="2" template="table"]
+
 ## Step by Step - How to Get Rid Of Fleas in the House Fast
 ### Step 1: Use [Flea](https://pestpolicy.com/how-to-get-rid-of-flea-eggs-on-cats/) traps
 Flea traps offer an easy method to remove fleas from your home. They contain a chemical that attracts insects, which then die on their sticky surface.

@@ -23,7 +23,7 @@ and using the
 best termite killers
 .
 *In summary, termite prevention starts by reducing the wood-to-soil contract around the structures, remove the cardboard, paper, mulch, plants, wood, or lumber near the structure's foundation. Also, build a 4-inch termite barrier between your house and the mulch.�*
-[amazon bestseller="Best Termite Killers" items="2" template="table"]
+
 ## 4 Indoor Termite Prevention Tips
 ### 1. Seal Windows and Doors Tightly
 Also, close up openings that termites may use in your house (using caulk, grout, and cement), fix leaks in the indoor spaces, open blocked vents, clear shrubs and trees around the structures.

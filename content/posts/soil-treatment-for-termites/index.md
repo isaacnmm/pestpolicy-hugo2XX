@@ -23,7 +23,7 @@ or
 [imidacloprid](https://iaspub.epa.gov/apex/pesticides/f?p=CHEMICALSEARCH:3:::NO:1,3,31,7,12,25:P3_XCHEMICAL_ID:2571)
 on the structures like the house or wall foundations and wood.
 However, you may termite-proof wood through pressure-treating using chemical insecticides or spraying. Also, you may place termites baits at appropriate locations in the yard.
-[amazon bestseller="Termites Control" items="2" template="table"]
+
 https://www.youtube.com/watch?v=kKrEcTs2tJI
 However, for Drywood, Dampwood, or Formosan termites, I recommend undertaking
 [fumigation](http://ipm.ucanr.edu/PMG/PESTNOTES/pn7440.html)

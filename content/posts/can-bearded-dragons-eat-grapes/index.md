@@ -18,7 +18,7 @@ In this article I've answered this question - can bearded [dragon](https://pestp
 - **Answer; Yes - bearded dragon can eat grapes - just like other fruits and vegetables! Most species of bearded dragon eat grapes comfortably without any challenge  they actually like them.�**
 - **Grapes contains strong fiber content (needed to prevent constipation), relative water content (needed for osmoregulation), high potassium content (necessary for blood pressure control), low acid content as well as rich minerals and vitamin composition.�**
 - **Read Also: Can Bearded Dragons Eat Apples? See the bearded draons food.�**
-[amazon bestseller="Food for Bearded Dragons" items="2" template="table"]
+
 ## Can Bearded Dragons Eat Grapes? 7 Secrets
 ### 1. Rich/strong Fiber Content
 Grapes have rich and strong fiber content that is necessary for digestion process of your bearded dragon. For every 150g of grapes, there is 1.5g to 2.8g fiber content  this is quite high value as compared to other fruits and vegetables.

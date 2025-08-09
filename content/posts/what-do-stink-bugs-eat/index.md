@@ -23,7 +23,7 @@ but on some rare occasions, they make entry into our homes.� But do ever wonde
 Stink bugs are not a
 [common [bug](https://pestpolicy.com/bed-bug-bites-vs-mosquito-bites/) in the house](https://pestpolicy.com/how-to-treat-fleas-in-the-yard/)
 but when you find them, they are most probably hiding for winter.
-[amazon bestseller="Best Spray for Stink Bugs" items="2" template="table"]
+
 ## What Do Stink Bugs Eat? Food.
 Stink bugs eat a lot of things in our garden and also in the house. But their favourite food is tomatoes, ears of corn, leaves, flowers, fruits and soya beans.
 - In some cases, they also attack and eat other small insects.

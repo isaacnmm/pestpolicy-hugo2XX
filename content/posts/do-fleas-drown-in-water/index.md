@@ -17,7 +17,7 @@ layout: post
 Do you have fleas in your home, or on pets like cats and dogs, and have been trying to kill them by drowning? Well, fleas flourish in dusty conditions but is water a risk to the bug's survival?
 - **So, do fleas drown in water? Yes,�****fleas will drown within 24 hours ****when submerged in water and may float alive for up to 7 days when drop fleas on the water surface - floating. **
 - **But if you add some dish soap to the water, it breaks down the surface tension making the fleas sink.�**
-[amazon bestseller="Best Killer for Fleas" items="2" template="table"]
+
 Related:
 [Flea Bombs that work](https://pestpolicy.com/best-fogger-for-fleas/)
 ## Details: Do Fleas Drown In Water?

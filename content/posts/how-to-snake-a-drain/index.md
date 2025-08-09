@@ -18,7 +18,7 @@ How to snake a drain? Sometimes you need a quick fix to your slow-moving drain. 
 - Well,snaking your drainwould be an�excellent option for this! But, while at it, other options includeusing a plungeror[drain cleaners](https://pestpolicy.com/best-drain-cleaner//).
 In the snaking process, you'd use the drain snake (also known as a drain auger, electric eel, or a toilet jack) to destroy clogs sitting down the drain.
 **See these drain snakes.**
-[amazon bestseller="Snake a Drain" items="2" template="table"]
+
 ## **1. How to Unclog a Drain with a Snake�**
 A
 drain snake

@@ -23,7 +23,7 @@ drain snake
 So, in this article, we discuss how to use a
 [plunger](https://en.wikipedia.org/wiki/Plunger)
 the right way.
-[amazon bestseller="Best Plunger for [Toilet](https://pestpolicy.com/best-toilet-paper-for-septic/)" items="2" template="table"]
+
 ## Details: How to Use a Plunger for Toilet or Sink Drain
 **0:**
 **Pick the right plunger for the work. What do you want to unclog? Is it a toilet, bathtub, or sink?�**

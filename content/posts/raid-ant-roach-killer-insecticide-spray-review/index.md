@@ -25,7 +25,7 @@ Most homeowners will love the lemon scent in this roach killer, which will ensur
 The roach spray kills on contact; it has a fast roach and ant killer whose residue effect will last for about four weeks but lacks the secondary kill effect in
 roach baits
 .
-[amazon bestseller="Raid Ant Roach Killer Insecticide Spray" items="2" template="table"]
+
 ## Active Ingredients - Raid ant roach killer insecticide spray review
 This roach killing spray is made from Imiprothrin (0.100%) and Cypermethrin (0.100%), the ingredient thatll kill both ants and roaches on contact.
 Most homeowners also use the roach killing aerosol like an indoor residual spray to prevent roaches and ants from getting into your house for about one month. The spray dries fast, will leave no oily residue or foul odor in the place due to the fantastic lemon scent.

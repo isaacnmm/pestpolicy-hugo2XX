@@ -22,7 +22,7 @@ bite human beings�when food�sources are limited
 But dont despair; there are different
 best roach killers
 . In this article, we discuss in detail some of the best ways to get rid of cockroaches fast.
-[amazon bestseller="Best Roach Killers" items="2" template="table"]
+
 ## Details: How to Get Rid of Cockroaches - Kill Roaches
 ### Step 1: Eliminate Food, Water, & Hiding Places
 For cockroaches, such as

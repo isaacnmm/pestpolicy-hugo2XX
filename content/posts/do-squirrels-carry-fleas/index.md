@@ -24,7 +24,7 @@ which brings a host of challenges for humans.
 **To answer this question, YES - squirrels carry fleas. The pests and their eggs can be dropped from the [squirrel](https://pestpolicy.com/do-squirrels-carry-ticks/)'s fur and fall off on your garden**
 **, lawn, or yard as the rodent walks through. **
 **Fleas jump and attach themselves to their hosts, humans, and animals alike including squirrels. The fleas' eggs or larvae that fall off can infest your property when they hatch into adulthood.�**
-[amazon bestseller="Best Fleas Killers" items="2" template="table"]
+
 - [Fleas are a type of parasite](http://www.idph.state.il.us/envhealth/pcfleas.htm)and live on the body of an animal, including squirrels!
 - As these flea parasites feed off blood from their host, they can cause some serious health consequences for animals or people who come in contact with them.
 If you have observed your pet scratching or grooming themselves excessively, they may be reacting to a flea infestation.

@@ -21,7 +21,7 @@ smell like and what to look out for - to control
 [bed bugs, try these steamers](https://pestpolicy.com/best-bed-bug-steamer/)
 .
 The chances are that you will be much more likely to notice the other signs of bed bugs before you detect their aroma.
-[amazon bestseller="Best Bed Bugs Killers" items="2" template="table"]
+
 ## What Do Bed Bugs Smell Like??
 There are many signs that an infestation of bed bugs might be present; some things you might commonly notice are blood spots and the bed bugs dropping, which appear as specks.
 You may also notice that you suffer from irritation and itching as a result of these creatures. However, one of the giveaway signs that you have some unwelcome guests could be their scent - check these

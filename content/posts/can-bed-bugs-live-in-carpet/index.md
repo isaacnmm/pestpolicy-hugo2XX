@@ -18,9 +18,7 @@ Bed bugs hide in a cluster at different locations in your house, including a bed
 *The simple answer is, YES, bed bugs will burrow through, hide, and live in your carpets fibers. Bed bugs will infest all carpets, including doormats, theater or studio carpets, church carpets, offices, and laundry room carpets, or even carpets in your car. *
 *Carpets offer a better breeding ground for bed bugs as most of them are rare, and shaking off the dust from them wont remove bed bugs infestation. *
 *Lets get into details - but also check these flea killing powders.�*
-[amazon bestseller="
-Best Flea Carpet Powder
-" items="2" template="table"]
+
 ## Can Bed Bugs Live in Carpet? (Control Guide)
 Bed bugs can live-live-in-your-skin/)
 in carpets. Most people consider carpet as fabric to step on and believe that human applied force may cause discomfort/kill to any insect within or under the carpet. This is not true. It is not possible either to

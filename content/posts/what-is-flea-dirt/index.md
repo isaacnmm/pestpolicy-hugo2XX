@@ -30,7 +30,7 @@ house
 or the
 yard
 .
-[amazon bestseller="Best Fleas Killer" items="2" template="table"]
+
 ## What Is Flea Dirt? Flea Dirt's Color, Shape, and Size
 Fleas will
 poop either in their hiding place

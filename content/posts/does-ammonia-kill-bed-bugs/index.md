@@ -21,7 +21,7 @@ nymphs/)
 ?"
 **So, ammonia good for bed bugs? YES. Ammonia (or Ammonium hydroxide, a compound of nitrogen + hydrogen) kills bed bugs only on contact. But, you might need a combination of bed bugs control methods such as heat (done by an exterminator) or bed bug bombs. **
 **Check other bed bug killers.�**
-[amazon bestseller="Best Bed Bug Killer" items="2" template="table"]
+
 ## Does Ammonia Kill Bed Bugs and Their Eggs? Whats this ammonia?
 As noted above,
 [**Ammonia**](https://en.wikipedia.org/wiki/Ammonia)

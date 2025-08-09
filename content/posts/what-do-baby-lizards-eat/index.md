@@ -23,7 +23,7 @@ Well, this article piece is all about lizard baby food -just like noted that
 *But what do baby lizards eat?� *
 *Baby lizards eat what their parents eat. Yes, they eat insects, roaches, plants, or even both. The only difference is the food ratio. Baby lizards only eat baby portions. For example, if they are eating an insect, the insect should be smaller than them.�*
 *Baby lizards eat by themselves. Nobody mashes up the prey for them. Its like a natural instinct in their DNA. They get the prey or plant and eat it up. You should note that a baby lizard will eat what its line of species eats. The other element that forms a baby lizards diet is the kind of environment it dwells in.�*
-[amazon bestseller="Best Food for Baby Lizards" items="2" template="table"]
+
 *A lizard can be carnivorous, insectivorous, herbivorous, or omnivorous.� A carnivorous lizard will eat insects or even small rodents and worms. The herbivores are vegetarians while the omnivores are on a balanced diet of vegetation and meat. Well, a pet lizard does not have very many options as the wild one but you need to know what to feed them and their young ones so that their dietary requirements are met.�*
 ## What Do Baby Lizards Eat? 7 Lizard Diets - Food Portions
 A baby lizard eats what the adult lizard eats. The only difference is the portion. In short, you can call them miniature adults because they are independent of day one.� They will eat small portions or sizes of the following:

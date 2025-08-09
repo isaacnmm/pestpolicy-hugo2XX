@@ -19,7 +19,7 @@ Removing bed bugs can be undulating, especially when you are not sure the best t
 Most homeowners have tried various
 essential oils to kill bed bugs/)
 . But, does tea tree oil kill bed bugs?
-[amazon bestseller="Best Bed Bugs Killers" items="2" template="table"]
+
 ## How to Use Tea Tree Oil for Bed Bugs - Effective?
 The
 [Melaleuca alternifolia](https://en.wikipedia.org/wiki/Melaleuca_alternifolia)

@@ -19,7 +19,7 @@ layout: post
 "Wear long-sleeved clothes, and youll be safe from bed bug bites (Cimex lectularius Linnaeus)." Maybe, maybe not. But bed bug bites are painful and will cause anemia. So, you're wondering, can bed bugs bite through clothing?
 *The short answer is, NO, bed bugs lack teeth to gnaw through clothing or fabric. The bugs only have a sharp�and long proboscis allowing them to access your blood vessels.�*
 *The bed bug's feeding response is triggered when they land on bare skin. So, any bites that you notice under your clothes may have been caused by other bugs like scabies mites or mosquitoes.�*
-[amazon bestseller="Best Bed Bugs Killers" items="2" template="table"]
+
 ## Can Bed Bugs Bite through Clothing? Pajamas, Socks, Fabric?
 As we've noted above, bed bugs won't bite through pajamas, just like in other clothes and fabrics. Bed bugs lack teeth to help them gnaw pajamas, plastic, or different material.
 Notably, bed bugs have a sharp and long proboscis that they'll use to suck blood from your blood vessels on the human skin. In fact, the
@@ -93,7 +93,7 @@ Dealing with
 [bed bugs is a menace](https://njaes.rutgers.edu/bed-bug/videos.php)
 in our houses. They like to hide under clothes and mattresses but can bed bugs bite through clothes.
 - **The truth is bedbugs cannot bite through clothes. They have to find their way through the skin before they can bite. A lot of people think that they can bite through clothes but they dont. They only penetrate through the open spaces of the pajamas, blankets, socks, sheets, and other fabrics.**
-[amazon bestseller="Best Bed Bugs Repellent" items="2" template="table"]
+
 Different types of clothing that offer different kinds of protection on bed bugs. Whether you use it in the bedroom or living room, the experience is just different. Related:
 Bed Bug Foggers
 .

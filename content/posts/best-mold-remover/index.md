@@ -23,9 +23,9 @@ Additionally, irritant and toxic mold cleaners are not preferable for
 - if there are fleas on the lawn, try the
 yard flea spray
 .
-[amazon bestseller="Best Mold Remover" items="2" template="table"]
+
 ## [1. #1 Pick: RM-86 Instant Mold Stain & Mildew Stain Remover](https://www.amazon.com/dp/B07X7GSFXZ/?tag=p-policy-20)
-[amazon box="B07X7GSFXZ" template="horizontal"]
+
 The RM-86 stands out as one of the top-rated mold
 removers due to its fast
 action and ease of use.
@@ -49,10 +49,10 @@ The Bad:
 - It comes in a small package
 https://www.youtube.com/watch?v=fTTzPb_sbow
 ## [2. #2 Pick: GELIVABLE Mildew & Mold Gel Cleaner](https://www.amazon.com/dp/B08CR4ST1G/?tag=p-policy-20)
-[amazon box="B08CR4ST1G" template="horizontal"]
+
 https://www.youtube.com/watch?v=WH10bm4zElc
 ## [3. #3 Pick: Tilex Mold and Mildew Remover Spray](https://www.amazon.com/dp/B07BWMFVD5/?tag=p-policy-20)
-[amazon box="B07BWMFVD5" template="horizontal"]
+
 This remover features Clorox Bleach with disinfectant properties, which makes it ideal for eliminating bacteria found in homes.
 The most outstanding feature is the Smart Tube technology, which guarantees excellent results with every spray.
 This Tilex model is effective for using a wide range of non-porous surfaces around your home, including unglazed ceramic tiles, sinks, and counters.
@@ -71,7 +71,7 @@ The Bad:
 Read Also:
 Whatre the best weed killers for flower beds?
 ## [4. Wet and Forget 805048 Mold Remover (+ Stains)](https://www.amazon.com/dp/B078K3Q273/?tag=p-policy-20)
-[amazon box="B078K3Q273" template="horizontal"]
+
 If you are looking to eliminate mold, algae, and mildew on your outdoor surfaces with an easy application hose end, the Wet and Forget mold remover is just what you need.
 - All you need is to spray it on the surface and let the wind or rain do the rest.
 - No rinsing or scrubbing is needed with this model whose hose can reach up to 30 feet high, allowing you to spray a second-story building or roof.
@@ -89,7 +89,7 @@ The Bad:
 - Relatively pricey
 https://www.youtube.com/watch?v=lj0UCTIMYHo
 ## [5. Mold Armor Remover FG516 Mold Blocker, Trigger Spray](https://www.amazon.com/dp/B001CSF44G/?tag=p-policy-20)
-[amazon box="B001CSF44G" template="horizontal"]
+
 This product features active ingredients that are capable of removing even the stubbornest mold stains.
 Due to its high concentration, you only need a small amount to achieve excellent results.
 The FG516 is no ordinary mold cleaner because it leaves behind an invisible layer that lasts for up to three months.
@@ -110,7 +110,7 @@ The Bad:
 Read Also:
 [Whats the best fungicide for powdery mildew?](https://pestpolicy.com/best-fungicide-powdery-mildew/)
 ## [6. Concrobium Mold Household Cleaners, 1 Gallon](https://www.amazon.com/dp/B009AN7Y2U/?tag=p-policy-20)
-[amazon box="B009AN7Y2U" template="horizontal"]
+
 This mold remover effectively eliminates existing mold, prevents its re-growth, and gets rid of the accompanying musty smell.
 On application, this remover starts working as soon as it starts drying by crushing mold spores and leaving an invisible antimicrobial layer to prevent future growth.
 This cleaner is ideal for large spaces such as basements, cellars, whole rooms, wall cavities, and upcoming construction sites.
@@ -129,7 +129,7 @@ The Bad:
 Read Also:
 Whatre the best zero-turn mowers?
 ## [7. Zep mold and mildew stain remover 32 Oz](https://www.amazon.com/dp/B001SQSF3O/?tag=p-policy-20)
-[amazon box="B001SQSF3O" template="horizontal"]
+
 This unit utilizes an industrial-strength formula that dissolves mold and mildew on a variety of surfaces.
 This mold cleaner is bleach-based and designed for fiberglass, porcelain, and tile surfaces, making it ideal for internal and external use.
 Its ready-to-use formula eliminates stains without the need for scrubbing.
@@ -146,7 +146,7 @@ The Good:
 The Bad:
 - Leaves behind traces of chlorine scent
 ## [8. Skylarlife Home mold and mildew remover gel](https://www.amazon.com/dp/B08DRB752C/?tag=p-policy-20)
-[amazon box="B08DRB752C" template="horizontal"]
+
 With this Skylarlife mold cleaner, you get a wide range of usage for both indoor and outdoor surfaces, including tiles, baths, showers, sinks, refrigerators, showers, window frames, and so on.
 This unit utilizes a gel formulation, which makes it ideal for vertical and inclined surfaces because it does not flow down due to its adhesive properties.
 - Hence, this mold cleaner is smart, safe, and effective to use.

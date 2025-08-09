@@ -18,7 +18,7 @@ Green Gobbler is conveniently packed in two packets that youll find easy to use 
 [best drain cleaner](https://pestpolicy.com/best-drain-cleaner//)
 available in the market.
 The powder formula was great, but this new liquid option is even simpler to use. Just un-cock it and pour the contents one of the chambers, and you're done. Check top drain cleaners.
-[amazon bestseller="Green Gobbler GGDIS2CH32 Dissolve" items="2" template="table"]
+
 ## Green gobbler Liquid instructions
 Interestingly, you don't wear rubber gloves, no nothing - it's all safe. Most traditional
 drain cleaners

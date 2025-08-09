@@ -18,7 +18,7 @@ Bio-clean Drain Septic Bacteria 2 Review? Dont we all hate the common challenge 
 In this post, Ive reviewed the Bio-clean Drain Septic Bacteria, which is one of the
 [drain cleaners I recommend for your plumbing systems](https://pestpolicy.com/best-drain-cleaner//)
 . I tested Bio-clean using Friskies cat food that contains 10 % fats, 30 % protein, and the others are mineral substances & carbohydrates.
-[amazon bestseller="Bio-clean Drain Septic Bacteria 2" items="2" template="table"]
+
 You have to note that Bio-clean
 Drain cleaner
 is a bacteria/ enzyme formula that is eco-friendly. Luckily, itll tear down the clog/ gunk on the inner side of your
@@ -46,7 +46,7 @@ that required an allowance of 15-30 minutes to work on the drain clog fully, thi
 ### Cost-effective drain cleaner
 Bio-clean Drain cleaner is more very safe and cost-effective compared to other drain cleaners available in the market today  due to the en enzymatic mode of action. Bio-clean is highly economical.
 It allows about 100 drain treatments per bottle. As noted above, youll only require just one tablespoon to treat your clogged drain. The natural bacteria tend to multiply fast after eating some organic matter in the plumbing system, giving you faster and cheap drain removal.
-[amazon box="B001N09KN4" template="horizontal"]
+
 ### Genetically built formula
 The genetically built formula will consume all the soap scum, oil, grease, hair, and cotton in your clogged drains. Its a unique formula that is a development from the advances in the recent decades biotechnology. The clog's enzymes act by digesting the foreign material in a way just like how humans digest food.
 On the other hand, once mixed in water, the bio-clean digest the organic matter, tripling in number by the minute, and release mineral ash, carbon dioxide, and water. Further, the enzymes do not rely on gravity to act and will thus ill love throughout the clogged drain and eat away the organic matter.

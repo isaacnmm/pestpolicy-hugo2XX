@@ -27,7 +27,7 @@ Killing power of any bed bug
 bomb is determined by the concentration in each can, penetration action, and the area being served. Most bed bug bombs can
 reach bed bug hideouts
 within your room, especially if there is continuous air circulation. So, lets get into the details.
-[amazon bestseller="Best Bed Bugs Killers" items="2" template="table"]
+
 ## Do Bed Bug Bombs Work? Foggers - Do They Work?
 Bed bug bomb kills bed bugs by continuously fumigating/spraying the entire room with bed bug killing insecticide - any bed bug or eggs that come into contact with this chemical dies.
 The bed bug bombs, also known as foggers, are packed in pressurized can/canister in aerosol form. Most of these

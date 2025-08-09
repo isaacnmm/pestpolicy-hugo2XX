@@ -21,7 +21,7 @@ can either be
 .
 - Regardless of the acidity or basicity of your drain cleaner, they pretty much work in the same way.
 - However, this post shall delve deeper into this topic by trying to uncover which drain cleaners are the best, and how to choose them. Related:plumber's snakes.
-[amazon bestseller="Best Drain Cleaners" items="2" template="table"]
+
 ## Is drain cleaner acid or base? - Blocked [Drains](https://pestpolicy.com/best-shower-drain-cleaner/)?
 Drains could become clogged
 from various substances, the most common ones being insoluble solids. Examples include hair, tree roots, and leaves, as well as other solid substances.

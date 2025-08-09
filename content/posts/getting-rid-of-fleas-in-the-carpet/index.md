@@ -26,7 +26,7 @@ In this PestPolicy guide, this is what I'll be exploring:
 - What Should I Do with [Flea](https://pestpolicy.com/how-to-get-rid-of-fleas/)-Infested Furniture and Carpet?
 - 3 steps to getting rid of fleas in the carpet - fastest way
 - What Can I Use for Fleas on my Furniture?
-[amazon bestseller="Best Flea Killers for Carpets" items="2" template="table"]
+
 ## How do fleas end up in your carpet?
 The simplest explanation for how fleas (and flea eggs) end up on your carpet is that they jump from one dog or cat to another, or even worse, from the outdoors into a home.
 

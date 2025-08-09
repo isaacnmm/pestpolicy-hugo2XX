@@ -20,7 +20,7 @@ heavy meal
 . Sometimes, it difficult to differentiate lizard poop from that of rodents and birds.
 *So, how does lizard poop look like? Lizard poop appears as black droppings with a white substance on one end. The white matter shows the presence of uric acid and its excreted together with the solid waste.�*
 *This is because lizards use one opening (cloaca) to excrete solid waste and urine. The size of the droppings vary according to the size and species of the lizard. Related: What Does Leopard Gecko Eat?*
-[amazon bestseller="Best Food for Lizards" items="2" template="table"]
+
 ## What Does Lizard Poop Look Like??
 ### 1. Size
 If you suspect you have lizards in the house check for black pellet-like droppings about  inch long and 1/8 inch wide. Attached on one end of the poop is the urine crystal which is usually white in color. Thats because lizards poop and pee from the same opening (cloaca).

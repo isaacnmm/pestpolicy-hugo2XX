@@ -20,7 +20,7 @@ layout: post
 Fleas are tiny parasites that will attack and suck human and pet blood. Even before you get hold of these tiny pests,
 [it jumps into hiding](https://pestpolicy.com/how-to-get-rid-of-fleas-on-clothes-and-bedding/)
 .
-[amazon bestseller="Best Fleas Killer" items="2" template="table"]
+
 ## Details: How to Get Rid Of Fleas on Humans
 Fleas are tiny and very fast to jump off when they have been exposed. Because they are parasites, they like to suck blood from their host.
 ### **1. Wash the Clothes**

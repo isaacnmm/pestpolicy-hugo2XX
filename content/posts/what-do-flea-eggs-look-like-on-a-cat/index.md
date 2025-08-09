@@ -20,7 +20,7 @@ If you are a pet lover, you have to be very keen on identifying [fleas](https://
 Some cats and dogs also have light furs which may make it difficult to trace these flea eggs but you can use the methods listed below to help makes things easier. Related:
 Will Flea Treatment Burn Cats Skin
 ?
-[amazon bestseller="Best Flea Killers" items="2" template="table"]
+
 ## What Do Flea Eggs Look Like On A Cat?
 What do flea eggs look like to the human eye? Because cats are furry pets, you need to be keen when it comes to identifying fleas and their eggs. This is also applicable to dogs too.
 These pets are the biggest carriers and breeders of fleas in our homes and any effort to control fleas is a big win for eliminating fleas in your home.

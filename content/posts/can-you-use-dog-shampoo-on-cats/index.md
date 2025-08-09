@@ -29,7 +29,7 @@ Dog shampoo and other flea-control products (even those with natural ingredients
 [greater health risk](https://www.quora.com/Is-it-ok-to-use-dog-shampoo-on-cats)
 than it does to its canine cousins.
 
-[amazon bestseller="Best Dog Shampoos" items="2" template="table"]
+
 ## Why Must You Avoid Using Dog Shampoo On Cats?
 Many people wonder why they should bathe their cats as self-grooming is a natural feline instinct. There are two things you might want to consider:
 - You may need to wash off something your cat got into and get it out of his fur so that he won't ingest it when grooming.

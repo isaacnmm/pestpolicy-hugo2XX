@@ -20,7 +20,7 @@ on taco or salad. But, can bearded dragons eat tomatoes? Well, the aim when feed
 > ***C****an bearded dragons eat tomatoes? As with most fruits, the ****short answer is affirmative. Well, Yes and NO; bearded dragons can eat just 1/4 a tomato each meoht�***
 > ***without causing harm to their health.�***
 ***Tomatoes are a good source of vitamin A, for bearded dragons. But as with any other fruits, bearded dragons must not eat tomatoes as the main diet. Bearded dragons require only a small amount of vitamin A, and the acidic content in tomatoes can harm your smart beard.�***
-[amazon bestseller="Food for Bearded Dragons" items="2" template="table"]
+
 ## Why Bearded Dragons Must Not Eat Tomatoes Daily?
 Tomatoes will provide nutritional benefits to your bearded dragons but let's first interrogate why you can use the fruit as your beardies staple or main diet as you
 care for the Bearded [Dragon](https://cvm.ncsu.edu/wp-content/uploads/2016/12/Caring-for-your-Bearded-Dragon.pdf)

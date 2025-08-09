@@ -25,7 +25,7 @@ The short answer is that
 bed bugs are caused
 by traveling in bed bugs and infested places or acquiring second-hand furniture and mattresses. Bed bugs will hitchhike your luggage, clothing, and legs to suck blood. They're flat-bodied and wingless  it measures 5 to 7 mm.
 [bctt tweet="What Causes Bed Bugs?" username="@pestpolicy"]
-[amazon bestseller="Best Killer for Bed Bugs" items="2" template="table"]
+
 Let's get started!
 *But first*
 ,

@@ -22,7 +22,7 @@ The key active ingredients in Harris Bed Bug Killer are 0.3% Deltamethrin and 98
 So, let's check whether Harris
 Bed Bug Killer
 is the real deal!
-[amazon bestseller="Harris Bed Bug Killer" items="2" template="table"]
+
 ## #1:�Review Summary
 *Harris Bed Bug Killer spray, famous as the��vermin slayer, by PF Harris a range of pests including bed bugs, roaches (check other roach killers), lice, and ants. *
 *Luckily, this insecticide spray won't poison kids or pets. You can spray on your�carpets, furniture, and chairs. It's�*

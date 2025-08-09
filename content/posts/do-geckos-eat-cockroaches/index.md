@@ -18,7 +18,7 @@ Reptiles such as Geckos could even be more sensitive when it comes to appropriat
 - **Well, do Geckos [eat](https://pestpolicy.com/do-geckos-eat-roaches/) cockroaches? Yes! Geckos are naturally insectivorous pets and would feed on cockroaches as much as they can. I****t would not be advisable to feed your geckos with cockroaches that are fetched directly from the field as they may be contaminated, poisonous, or venomous. **
 - **Usually, you should be able to identify the right cockroach species, especially ones recommended by the vet, when feeding your geckos.**
 Alternatively, you can buy commercial roaches from the nearest center or breed some at your home place. Geckos have no feeding limit, they can overheat if not controlled.
-[amazon bestseller="Best Food for Geckos" items="2" template="table"]
+
 Related:
 [Geckos Eat Bed Bugs?](https://pestpolicy.com/do-geckos-eat-bed-bugs/)
 ## Details: Do Geckos Eat Cockroaches?

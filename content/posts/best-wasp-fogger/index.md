@@ -20,9 +20,9 @@ Moreover, you need to check on operation mechanism, impacts on kids & pets, and 
 Related:
 Bees vs Wasps vs Hornets
 ## Reviews: Top�Wasp Foggers
-[amazon bestseller="Best Wasp Fogger" items="2" template="table"]
+
 ### [1. FMC - 10058237 - Pyrethrin Fogger](https://www.amazon.com/dp/B07TC5BQL8/?tag=p-policy-20)
-[amazon box="B07TC5BQL8" template="horizontal"]
+
 FMC Pyrethrin is a naturally blended wasp fogger that's specially manufactured for indoor use only.
 The fluid is sufficiently pressurized (5oz) for smooth administration, while the canister is fitted with a classic spray nozzle that supports point fumigation.
 With improved concentration, FMC Pyrethrin guarantees extended area coverage - you can spray up to 5000 cubic feet. More so, FMC is human and pet safe - it won't cause skin irritation or respiratory discomfort when inhaled.
@@ -46,7 +46,7 @@ Cons
 - Highly flammable
 - Not for use in small closets
 ### [2. Ortho Home Defense Wasp Fogger](https://www.amazon.com/dp/B0784WG4FD/?tag=p-policy-20)
-[amazon box="B0784WG4FD" template="horizontal"]
+
 Ortho Home Defense is a modern-tech wasp fogger that features a complex chemical regulator, which treats surface for up to 8 hours.
 The simple solvent action formula that comes with Ortho breaks easily without straining the surface - it's more comfortable to clean.
 Indeed, Ortho integrates a classic press activation mechanism that not only allows intermittent spray action but also supports point application - you can easily fog wasps right at their hideouts/nest.
@@ -67,7 +67,7 @@ Cons
 Related:
 [Quality Wasp Spray](https://pestpolicy.com/best-wasp-spray/)
 ### [3. Durvet IGR House Fogger](https://www.amazon.com/dp/B00DS37L4Y/?tag=p-policy-20)
-[amazon box="B00DS37L4Y" template="horizontal"]
+
 Durvet IGR is a water-based wasp fogger that is specially manufactured using natural ingredients (pyrethrum), which kill wasps instantly on contact.
 The three active insect killers are mixed particularly to boost the killing action without affecting the surface under fumigation.
 Indeed, Durvet IGR contains a toxic chemical that eliminates both adult and young wasps entirely in seconds. Furthermore, the concentrated fluid (Durvet IGR) prevents wasp re-infestation for over 7 months on a single application.
@@ -90,7 +90,7 @@ Cons
 - It is slightly expensive
 - Poisonous if swallowed - keep off from children and pets
 ### [4. Raid Wasp and Hornet Killer](https://www.amazon.com/dp/B07RCJWZVL/?tag=p-policy-20)
-[amazon box="B07RCJWZVL" template="horizontal"]
+
 Raid is a market lead wasp fogger that features a complex chemical base, which actively kills both young and adult wasp on contact.
 The residual substance left upon Raid application inhibits wasps re-infestation and prevents their eggs from hatching.
 Actually, Raid contains permethrin and pyrethrins substances, which not only kill wasps, but also eliminate other pests/insects such as bees, hornets, mud daubers, and yellow jackets.
@@ -114,7 +114,7 @@ Cons
 Related:
 Fogger for Fleas That Work
 ### [5. Spectracide HG Killer](https://www.amazon.com/dp/B00EORP9SI/?tag=p-policy-20)
-[amazon box="B00EORP9SI" template="horizontal"]
+
 Spectracide HG is a non-staining wasp fogger that's manufactured using a simple chemical formulation, which acts and kill wasps instantly upon contact.
 The fluid is packed in a pressurized form, sufficient to cover the wasp's nest entirely on a single press.
 Indeed, Spectracide HG is fitted with a classic spray nozzle and ergonomic trigger that allows directional spray action, which prevents overspray when in use.
@@ -137,7 +137,7 @@ Cons
 - It may cause electric hazard - electric-powered devices should be off
 - Unsuitable for small scale use
 ### [6. EcoSmart Wasp Killer](https://www.amazon.com/dp/B001CRP9NI/?tag=p-policy-20)
-[amazon box="B001CRP9NI" template="horizontal"]
+
 EcoSmart is a modern-grade wasp killer that integrates complex plant-based formula, which is dedicated to killing wasps on contact.
 The simple structural bonds break easily (during use) and cover the wasp's nest entirely, leading to full capture as intoxication takes place.
 In fact, EcoSmart is self-agitated and sufficiently concentrated to boost its activeness up to 18 feet away.
@@ -164,7 +164,7 @@ Cons
 Related:
 [Fogger for Roaches](https://pestpolicy.com/best-fogger-for-roaches/)
 ### [7. Hot Shot Wasp & Hornet Killer](https://www.amazon.com/dp/B00WOAWY62/?tag=p-policy-20)
-[amazon box="B00WOAWY62" template="horizontal"]
+
 Hot Shot is an outdoor wasp fogger that features a complex structural formulation, which knockout wasps to death instantly upon contact.
 The water-based solvent integration provides sufficient surface contact and limits stain effects upon us - it's more comfortable to clean.
 Further, Hot Shot comes in a 2-pack canister that works best for both small to medium scale wasps elimination. You will appreciate the 17.5oz ratio, which sprays up to 27 feet from a single point without relocation.
@@ -188,7 +188,7 @@ Cons
 - Slightly expensive
 - It's unsuitable for large scale wasps killing
 ### [8. OFF! Outdoor Fogger](https://www.amazon.com/dp/B001DSFJQI/?tag=p-policy-20)
-[amazon box="B001DSFJQI" template="horizontal"]
+
 Off Outdoor Fogger comes in a 3-pack canister that is sufficiently compressed and agitated to improve activeness up to 20 feet away - no relocation.
 Indeed, Off fogger will cover a substantial area of up to 900 square feet without reordering - this matches value to money.
 By choosing to buy Off Outdoor Fogger, you'll not only eliminate the entire wasp's colony but also inhibit their future re-infestation.

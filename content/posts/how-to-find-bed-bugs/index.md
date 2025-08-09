@@ -20,7 +20,7 @@ including their babies/)
 - Finding a bed bug infestation early will aid in its control so that it doesn't spread further - they measure about5 - 7 millimeters in length.
 - Notably, treating that minor bed bug infestation will be easier and cheaper compared to trying to control a full-blown attack.
 But these minor infestations will also be difficult to find or even identify their signs correctly. Check these bed bug killers.
-[amazon bestseller="Best Bed Bug Killers" items="2" template="table"]
+
 ## How to Find Bed Bugs: Step-by-Step
 Further, there are many insects such as
 *bat bugs, spider beetle, swallow bugs, carpet beetles, ants, book-lice, and roach nymphs that can be mistaken with or for bed bugs. *

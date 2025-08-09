@@ -20,7 +20,7 @@ will appear as tiny red welts that'll effectively remain for 2+ weeks.
 *Can bed bugs live in your skin?...No? Bed bugs don't like heat so that they won't stick to the human skin or hair. They'll feed on humans' blood (skin) but hide in other locations like clothes.�*
 *Therefore, any bugs that are burrowing and living in human skin are possibly ticks, lice, or fleas. Bed bugs will mainly travel on shoes, luggage, and backpacks*
 *.�*
-[amazon bestseller="Best Bed Bugs Killer" items="2" template="table"]
+
 ## Details: Can Bed Bugs Live in Your Skin? Bite Signs?
 Bedbugs have made a significant comeback in the world - and the United States specifically. They feed mainly on blood from warm-blooded hosts and humans - have a
 pest professional

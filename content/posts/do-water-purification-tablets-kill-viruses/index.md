@@ -21,7 +21,7 @@ release free chlorine into the dirty water to kill pathogens, just like municipa
 *The tablets will be safe or used by human beings in the purification process - kill dangerous micro-organisms and treat the water. But store the tablets well as recommended by the manufactures to avoid damage or poisoning.�*
 Read Also:
 H0w to Use�Dawn Dish Soap for Fleas?
-[amazon bestseller="Water Purification Tablets" items="2" template="table"]
+
 ## Do Water Purification Tablets Kill Viruses? 7 Tips
 ### 1. Chlorine Dioxide-Based Purification Tablets
 Chlorine dioxide-based purification tablets kill

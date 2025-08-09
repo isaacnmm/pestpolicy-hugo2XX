@@ -21,7 +21,7 @@ don't fly-fly/)
 fully develop in one month
 to lay dirty white eggs.
 *On the question, can bed bugs get in your hair? Well, NO but yes - you can rarely find bed bugs on human hair and skin. Bed bugs don't have claws that may enable them to cling for long on the human hair - this is unlike lice.�*
-[amazon bestseller="Best Bed Bugs killers" items="2" template="table"]
+
 ## Details: Can Bed Bugs Get in Your Hair?
 It is very unlikely that you'll find bed bugs in human hair. Bed bugs lack claws - unlike ticks and claws that have claws to help them navigate via your hair.
 The front row of bed bugs must be set in a specific way before the start feeding, which is relatively difficult even with no hair obstructing. Therefore, even feeding is better on bare human skin.

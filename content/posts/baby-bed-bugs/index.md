@@ -24,7 +24,7 @@ It's essential to control the bed bugs nymphs in your house, bed frames, or
 mattress encasements
 .�Check
 what bed bugs look like?
-[amazon bestseller="Bed Bug Killer" items="2" template="table"]
+
 ## Baby Bed Bugs (Looks - Visible?, Size, Colors, Bites)
 First, check out the below video. It's a quick preview of how bed bugs look like - luckily, this video shows the bed bugs in all their life-stages - including the baby bed bugs-nymphs.
 https://youtu.be/QozV-JdePM0

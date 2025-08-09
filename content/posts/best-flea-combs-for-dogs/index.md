@@ -22,20 +22,20 @@ fleas from your dogs
 completely. Read Also:
 What's the [best electronic flea comb?](https://pestpolicy.com/best-electronic-flea-comb/)
 # **In a Hurry? View these Cat Flea Shampoos**
-[amazon bestseller="Best Flea Combs for Dogs" items="2" template="table"]
+
 ## [1. Our #1 Pick:Hartz Dematting & Detangling Dogs' Flea Comb](https://www.amazon.com/dp/B0055BNET8/?tag=p-policy-20)
-[amazon box="B0055BNET8" template="horizontal"]
+
 
 https://www.youtube.com/watch?v=6XvdJd5joI0
 ## [2. #2 Pick:GNAWRISHING Effective, Stain Remover & Durable Comb](https://www.amazon.com/dp/B07SHGK4M5/?tag=p-policy-20)
-[amazon box="B07SHGK4M5" template="horizontal"]
+
 https://www.youtube.com/watch?v=F_RCtuJSark
 ## [3. #3 Pick:Magic-Coat CONTOURED GRIP & Professional, COMPACT Comb](https://www.amazon.com/dp/B00K6ZR6DI/?tag=p-policy-20)
-[amazon box="B00K6ZR6DI" template="horizontal"]
+
 https://www.youtube.com/watch?v=6TsbAaJL_xc
 ## **4. Wahl Pet 2 In 1 Home Flea Comb
 **
-[amazon box="B002GKK3AO" template="horizontal"]
+
 Wahl makes premium-quality combs for pet grooming. This 2 1
 flea comb allows you to groom your dog
 with a lot of ease and effectiveness.
@@ -60,7 +60,7 @@ The Bad:
 Related: What are
 the best flea combs for cats?
 ## **5. Safari Dual-Row Teeth Flea Comb**
-[amazon box="B0002RJMAK" template="horizontal"]
+
 Perhaps this is the most popular
 flea comb among many dog
 owners, animal rescuers, or professional dog groomers.
@@ -88,7 +88,7 @@ The Good:
 The Bad:
 - Fleas may remain between the rows
 ## **6. SENTRY Flea Comb for Dogs**
-[amazon box="B00C8RJFLS" template="horizontal"]
+
 If your
 dog has long hair
 , then this pet flea comb from SENTRY will be a good choice.
@@ -111,7 +111,7 @@ The Good:
 The Bad:
 - Teeth tend to bend in thick hair
 ## **7. Hertzko Fine-Toothed Flea Comb**
-[amazon box="B01LR0N7VA" template="horizontal"]
+
 This flea comb from Hertzko allows you to groom your dogs to give them a healthy and shiny coat.
 The two rows of stainless steel teeth are ideal for trapping and
 removing fleas
@@ -136,7 +136,7 @@ The Good:
 The Bad:
 - Short teeth are not ideal long hair
 ## **8. Pet Republique Flea Comb for Dogs and Cats**
-[amazon box="B01MF7SBG2" template="horizontal"]
+
 The very conscious pet enthusiasts love Pet Republique products because of their charity to the American Animal Rescue Society.
 - 15% of their accrued profits are donated to the rescue society as part of their support.
 - You can use this comb to getrid of fleas, dirt, flaky skin, and other parasites from your dog or cat.
@@ -153,7 +153,7 @@ The Good:
 The Bad:
 - High price tag
 ## **9. LilPals Dog Flea Comb - Double-Sided**
-[amazon box="B000O39TDC" template="horizontal"]
+
 Having this double-sided flea comb adds to your arsenals for grooming and getting rid of fleas from your dogs.
 - The evenly-spaced comb side allows you to part, straighten, and untangle the coat.
 - When you pass the fine-toothed comb side, it glides through smoothly trapping fleas, eggs, dirt, and flaky skin for easy removal.
@@ -172,7 +172,7 @@ The Bad:
 Read Also:
 Diatomaceous Earth for Fleas on Cats
 ## **10. For Your Dog (Large Brush) Flea Comb**
-[amazon box="B00IMI0WUA" template="horizontal"]
+
 Oster brings you a large comb for general grooming and getting rid of fleas. So if you prefer a large flea comb for your dog, then this is a good choice.
 It comes with 70 stainless steel teeth, closely spaced to allow effective trapping of fleas, eggs, dirt, flaky skin, etc.
 Regular use of the comb provides timely detection of fleas or skin conditions, allowing you to embark on early intervention.

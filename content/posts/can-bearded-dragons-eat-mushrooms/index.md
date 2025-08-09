@@ -26,7 +26,7 @@ So, mushrooms: [are](https://pestpolicy.com/are-blue-tailed-lizards-poisonous/) 
 *In summary, it's generally unsafe to feed mushrooms to bearded dragons - despite these bites having essential nutrients.�Although mushrooms have essential nutrients, many varieties, including wild mushrooms, are toxic to reptiles, including bearded dragons.�*
 - *Besides, the consumption of mushrooms can lead to digestive problems or organ failure in bearded dragons due to these bites having high acidity levels and an unbalanced calcium-to-phosphorus ratio.�*
 **Check out these Bearded Dragon Foods.�**
-[amazon bestseller="Food for Bearded Dragons" items="2" template="table"]
+
 ## Risks in Feeding**Mushrooms to ****Bearded Dragons�**
 ### **1. U***nbalanced **calcium-to-phosphorus ratio Causes Bone-related Illnesses*
 The�calcium-to-phosphorus ratio is a critical aspect when analyzing the foods to give your�bearded dragons. Phosphorus has a critical role in cell functioning and energy production. On the other hand, Calcium is required to appropriate metabolic processes, bone development, and muscle function.

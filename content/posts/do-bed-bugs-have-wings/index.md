@@ -27,7 +27,7 @@ diatomaceous earth to kill bed bugs
 plus
 vinegar to kill bed bugs
 .
-[amazon bestseller="Best Bed Bug Killers" items="2" template="table"]
+
 ## Do Bed Bugs Have Wings? Can They Fly?
 *Bed bugs have un-developed wings*
 that can't be used for flight. These wings (wings pads), even for mature bed bugs, aren't suitable for flying.

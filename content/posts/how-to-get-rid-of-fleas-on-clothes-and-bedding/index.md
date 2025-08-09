@@ -26,7 +26,7 @@ clothing
 skin infections or blisters (pus-filled).
 **The short answer on how to kill fleas in clothes and bedding -� detergent-launder the fabrics, heat-treatment, and turbulence produced by your washing machine will exterminate fleas, flea eggs, pupae, and larvae.�**
 See these flea sprays.
-[amazon bestseller="Best Flea Spray" items="2" template="table"]
+
 ## Details: How to Get Rid Of Fleas on Clothes and Bedding
 ### 1. Dawn Dish Soap for Killing fleas
 Do fleas die in water? Generally, flea eggs and adult fleas won't kill fleas - just like most insects eggs will survive underwater for days.�Just taking your pet for some swim won't kill fleas effectively.

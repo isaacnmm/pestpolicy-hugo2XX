@@ -26,7 +26,7 @@ such as lufenuron, and kill adult fleas using cat medication such as nitenpyram 
 : Whats the negative effect of having
 [fleas on your cat](https://entnemdept.ufl.edu/creatures/urban/occas/catflea.htm)
 or kittens? Notably, fleas will not just cause itching on your feline friends but will also trigger anemia, hair loss and could introduce tapeworms.
-[amazon bestseller="Best Fleas Killer for Cats" items="2" template="table"]
+
 ## **How to Get Rid of Flea Eggs on Cats Step By Step�**
 But, what color are flea eggs on a cat? Well, flea eggs have a rounded oval shape. If freshly deposited,
 flea eggs

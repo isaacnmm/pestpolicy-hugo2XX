@@ -20,7 +20,7 @@ You can find them in the kitchen, bathroom, under the sink, and so on.
 But what does roach poop look like? Roach poop can appear as brown or black stains, smears, and coarse or ground black pepper. Sometimes they can take the shape of a cylinder.
 The droppings' size and appearance depend on the size, age, and species of the cockroach. Read Also:
 [What's the best roach killer for the house?](https://pestpolicy.com/best-roach-killer-for-apartments/)
-[amazon bestseller="Best Roach Killers" items="2" template="table"]
+
 ## **Details: What Does Roach Poop Look Like? Roach Feces**
 Roach poop can be found in places most frequented by roaches, especially in the kitchen, bathroom, and food store.
 The poop appears tiny brown or black stains, smears, or droppings left on surfaces such as floors, carpet, and upholstery.

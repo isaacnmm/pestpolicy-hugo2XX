@@ -21,7 +21,7 @@ cut through standing water and eat up the organic matter in PVC and metal pipes.
 unclog stagnant water in your bathtub
 .
 **Summary:�Oxidizing drain cleaners (with�nitrate ions) utilize heat and gas to unclog [drains](https://pestpolicy.com/best-shower-drain-cleaner/) while caustic drain cleaners generate hydroxide ions that clear the drain clog. It produces heat to break down the grease & oil. Here're the top drain cleaners.�**
-[amazon bestseller="Best Drain Cleaners" items="2" template="table"]
+
 ## How Drain Cleaners Work (Unclogging) Plumbing
 Chemical drain clears produce heat and gas, which may melt the PVC pipes if not used according to label instructions. Further, you must keep the cleaners away from animals or children as they are dangerous if ingested.
 The products may burn clothes or char mucous membranes, skin, and eyes. Precautions to take include dont use a plunger, dont

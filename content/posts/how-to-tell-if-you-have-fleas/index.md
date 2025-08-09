@@ -22,7 +22,7 @@ tell if you have fleas
 .�Related:
 Home Flea Control Sprays
 .
-[amazon bestseller="Best Flea Killers" items="2" template="table"]
+
 ## How to Tell If You Have Fleas in Your House
 ## **Step 1 - Inspect Your Pets�**
 The following are signs that you should watch out for if fleas have infested your pets.

@@ -22,7 +22,7 @@ and E. However, since eggs contain a lot of proteins, bearded dragons should be 
 ** proteins in their diet.**
 See Also:
 [Dragons Eat Mango](https://pestpolicy.com/can-bearded-dragons-eat-mango/)
-[amazon bestseller="Food for Bearded Dragons" items="2" template="table"]
+
 ## Details:**Can Bearded Dragons Eat Eggs?**
 In the right quantities, eggs are good for your bearded dragons. You can give them eggs to supplement the protein diet they get from feeders insect. Below is a summary of the benefits of eggs to your bearded [dragon](https://pestpolicy.com/can-bearded-dragons-eat-bananas/).
 1. **Eggs Contain Essential Vitamins and Minerals**

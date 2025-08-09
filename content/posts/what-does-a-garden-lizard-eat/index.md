@@ -20,7 +20,7 @@ You'll find these lizards in grass, trees, and bushes. They are always behind th
 *But the question is, what does a garden lizard feast on?�*
 - **In summary, garden lizards eat snails, caterpillars, insects, small crickets, and some greens and fruits. They also dont consume much. ****Garden lizards work with small portions at a time**.
 - **The oriental garden lizard feeds on insects such as ants, cockroaches, ants, and grasshoppers. They also eat small vertebrates such as rats and also eat other lizards.�**
-[amazon bestseller="Best Food for Lizards" items="2" template="table"]
+
 ## What Does a Garden Lizard Eat?
 The garden lizard has teeth and they are used for gripping the prey. They do not tear the prey when eating, they swallow it whole. The young and inexperienced garden lizards normally choke if the prey is too large for them.
 

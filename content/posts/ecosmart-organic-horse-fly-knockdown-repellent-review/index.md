@@ -21,7 +21,7 @@ best fly spray for horses
 .
 The Organic name points to the Green nature of quality products with no chemical and hence safe for your horse.
 This product allows natural botanical defense against the horse flies and hence wont use chemicals.
-[amazon bestseller="Ecosmart [Organic](https://pestpolicy.com/organic-vs-chemical-fertilizers/) Horse Fly Knockdown" items="2" template="table"]
+
 ## Ecosmart Organic Horse Fly Knockdown Review
 In addition to controlling horse flies, EcoSMART Organic will also prevent attacks from horn flies, house flies, face flies, deer flies, and stable flies.
 The organic plant oils will work wonders, thanks to the scientist who developed and patented this organic formula. Therefore, the procedure is not toxic and will not produce a d chemical odor or irritate your horse's skin.

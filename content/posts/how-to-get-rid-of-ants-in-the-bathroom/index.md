@@ -26,7 +26,7 @@ Ants appearing in the bathroom is not an uncommon occurrence. They are attracted
 human hair
 , stagnant water, or drains. Also, ants are attracted by lotions, perfumes, and toothpaste due to their sweet taste and smell.
 
-[amazon bestseller="Best Ants Killer" items="2" template="table"]
+
 ## **Characteristic features of ants **
 **-**
 Ants can bite and sting, but most are harmless, with no venom. Ants measure about a length of 0.6 to 0.9 cm and have six legs and 3-4 abdominal segments.

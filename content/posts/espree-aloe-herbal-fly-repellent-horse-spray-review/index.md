@@ -19,7 +19,7 @@ Espree Aloe Herbal (one of the
 ) is a horse fly repellent contains Aloe Vera and botanical oils, which are natural ingredients.
 - Also, it has conditioner and sunscreen to protect the coat of your horse.
 - The unique aspects of this�Espree horse fly repellent come ready to use and thus won't require additional mixing and have sunscreen and naturalAloe Vera.
-[amazon bestseller="Espree Aloe Herbal Fly Repellent Horse Spray" items="2" template="table"]
+
 Espree was invented by Teri Payne Jones in 1989, who loved Aloe Vera natural ingredients and his horses. Therefore, Teri was directly involved in the development of care for horses, which created maximum satisfaction in his career.
 ## Natural Aloe ingredients
 Espree Aloe is created from purely natural Aloe ingredients. Therefore, since it has no dangerous chemicals, the horse repellent wont be toxic to the animals body or skin if its absorbed. Further, the formula wont be harmful to the environment as it's all-natural ingredients.

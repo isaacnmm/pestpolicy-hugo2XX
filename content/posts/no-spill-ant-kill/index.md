@@ -22,7 +22,7 @@ like the Advion Fire Ant Bait, Amdro Kills (for fire ants), and Terro T300 Liqui
 So, how do you
 [kill ants without spills](https://maggiesfarmproducts.com/products/no-spill-ant-kill)
 ? Well, the no-spill ant kill creates a perimeter defense - applying around the foundation or the places with ant trails (place 5 - 10 feet apart).
-[amazon bestseller="No Spill Ant Kill" items="2" template="table"]
+
 ## Details: No-Spill Ant Kill Reviews
 Last time we killed ants after the bugs leaked all over the floor bringing a mess. So, this product will help you witness the end of the ant invasion.
 ### 1. Kills Many Household ants

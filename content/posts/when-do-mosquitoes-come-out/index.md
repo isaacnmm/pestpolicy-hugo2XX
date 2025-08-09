@@ -19,7 +19,7 @@ So, when do mosquitoes come [out](https://pestpolicy.com/how-to-grow-knock-out-r
 But its possible to have mosquitoes in indoor
 [spaces during the winter season](http://vectorbio.rutgers.edu/outreach/habitat.php)
 because its warmer inside there. Thus it would help if you were prepared with mosquito repellents during winter to keep off those that come indoors to escape low temperatures out there.
-[amazon bestseller="Best Mosquito Killers" items="2" template="table"]
+
 ## When Do Mosquitoes Come Out? Most Active?
 Plus, it would be best to get rid of possible mosquito breeding areas such as
 standing water

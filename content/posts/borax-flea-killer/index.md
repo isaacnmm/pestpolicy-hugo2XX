@@ -24,9 +24,9 @@ budget-friendly, effective, all-natural treatment, and safe around kids, cats, a
 - Borax can help homeowners control flea problems in and around our homes - includingflea eggs?. Let's find out!
 *In summary, Borax will kill both adult fleas plus other insects that feed on plant juices and animal and human blood. But Borax won't kill immature insects, including. Though, you must note that are differences between boric acid and Borax.�*
 # **In a Hurry? View Top Borax Flea Killers**
-[amazon bestseller="Borax Flea Killer" items="2" template="table"]
+
 ## **1. Our #1 Pick: Borax 20 Mule Team Booster Fleas on Carpet**
-[amazon box="B01NBJZ2F8" template="horizontal"]
+
 My vet advised using this Borax 20 Mule Team against a flea infestation in the yard, carpets, or whole house. I left the borax flea killer on the floors for two days - remember to apply the fine powder under the stove, refrigerator, and couch.
 - In addition tokilling fleas, Borax�will remove bad odors from your living spaces.�You can pour the Borax into areas where dogs and kittens do visit.
 - Further, avoid watering the yard (and use it when there's no rain) after applying Borax as this can reduce its effectiveness.
@@ -40,13 +40,13 @@ fleas and their larvae
 .
 https://www.youtube.com/watch?v=bMl0XfVphiU&feature=youtu.be
 ## [2. #2 Pick: Fleabusters-Rx for Killing Fleas Plus](https://www.amazon.com/dp/B000MS6Q2Q/?tag=p-policy-20)
-[amazon box="B000MS6Q2Q" template="horizontal"]
+
 https://www.youtube.com/watch?v=ErWUfkDoYXo
 ## **3. #3 Pick: Enforcer 20-Ounce Flea-Killer (Ocean Breeze) - Use on Carpet**
-[amazon box="B004SHWPCM" template="horizontal"]
+
 https://www.youtube.com/watch?v=Q81FKnWq66E
 ## [4.JT Eaton 360 Answer Boric Acid Insecticidal Dust](https://www.amazon.com/dp/B000HMCAAO/?tag=p-policy-20)
-[amazon box="B000HMCAAO" template="horizontal"]
+
 Next, this Answer boric acid made up of hydrogen borate (Orthoboric Acid) is a
 natural flea
 control and general cleaner.
@@ -105,7 +105,7 @@ flea dirt
 diatomaceous earth
 and Borax.
 ## **5. 99% PURE BORIC ACID AKA Orthoboric - Best Boracic Acid**
-[amazon box="B08PDLBXZW" template="horizontal"]
+
 99% Pure Boric Acid contains Acidum boricum, orthoboric acid, boracic acid, hydrogen borate, and boric acid. Therefore, you can use this neutron absorber, flame retardant, flea control insecticide, or antiseptic.
 This 99% Pure Boric Acid contains Acidum boricua, orthoboric acid, boracic acid, hydrogen borate, and boric acid. Therefore, you can use this neutron absorber, flame retardant, flea control insecticide (and Waterbugs or Palmetto bugs), or antiseptic.
 You can use 99% Pure Boric Acid in crawl places, attic areas, wall voids, and plumbing chase to control the fleas, larvae, and eggs.
@@ -122,7 +122,7 @@ If your pet (either cat or dog) frequents the yard and later runs into the house
 sprays for yard fleas
 .
 ## [6. MILLIARD Borax Powder Multi-Purpose - Borax Flea Killer](https://www.amazon.com/dp/B00HLROBQ4/?tag=p-policy-20)
-[amazon box="B00HLROBQ4" template="horizontal"]
+
 MILLIARD Borax Powder, commonly used as a dish or laundry detergent, is created from sodium borate (anhydrous) without preservatives or additives.
 - In addition to killing fleas in the household, MILLIARD Borax Powder may act as a refrigerator deodorizer or remove rust. Itll help in making DIYant killersand detergents, deodorizing, and softening water.
 - The powders will leave no odor behind and wont perish, so they will be highly useful for a long period if you store them under the recommended conditions.
@@ -131,7 +131,7 @@ Besides, Milliard Borax
 Powder is excellent for controlling bed bugs
 and spiders in the crevices, garage, and storage areas. I noted that you could make some small sachets to put inside bags containing bed covers or shoes.
 ## [7. 2 Pk, Boric Acid Fleas, Roach & Ant Killer](https://www.amazon.com/dp/B00LLQ4AU8/?tag=p-policy-20)
-[amazon box="B00LLQ4AU8" template="horizontal"]
+
 This 2 Pk
 Boric Acid
 for fleas will also kill ants and cockroaches. �So, whether its for your personal or rental apartment, this product will work great in killing the whole flea cycle.
@@ -140,7 +140,7 @@ fleas and roaches in their hiding places
 . Luckily, it has a residue effect of about two months and will continue killing the fleas and their larvae.
 https://www.youtube.com/watch?v=fzlNeuwFdu8
 ## [8. Tranquility Products 10 lbs - Boric Acid Powder](https://www.amazon.com/dp/B0032RIGEK/?tag=p-policy-20)
-[amazon box="B0032RIGEK" template="horizontal"]
+
 Tranquility Boric Acid will be great if you have a flea infestation on your wooden floors, and cat or dog bedding, and carpers - eliminating the whole flea cycle: adult fleas, flea larvae, and flea eggs.
 As an experienced flea exterminator, I would recommend using the Tranquility Boric Acid together with
 diatomaceous earth for fleas in cats

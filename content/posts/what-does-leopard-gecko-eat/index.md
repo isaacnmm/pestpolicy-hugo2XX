@@ -22,7 +22,7 @@ Leopard [Gecko](https://pestpolicy.com/do-geckos-eat-bed-bugs/)
 
 Leopard Gecko is a small and attractive insectivorous reptile that is easier to take care of. Improper food administration may adversely affect their health.
 **In summary, Leopard Gecko mainly eats insects such as cockroaches, super worms (such as Zilla Reptile Food), mealworms, or crickets. Leopard Geckos can also feed on silkworms, tomato hornworms, waxworms, beetles, sowbugs, and butter worms. Leopard Gecko does not feed on any vegetables or plant extracts.�**
-[amazon bestseller="Best Food for Leopard" items="2" template="table"]
+
 ## What Does Leopard Gecko Eat?
 Leopard Gecko is an insectivorous animal (reptile) that mainly feeds on insects such as mealworms, crickets, cockroaches, super worms, or beetle. These insects provide strong nutrients that help the Leopard Gecko in bodybuilding and energy provision  they are rich in proteins and carbohydrates.
 

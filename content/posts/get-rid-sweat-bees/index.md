@@ -19,9 +19,7 @@ outdoor working space wondering how do I get rid of sweat [bees](https://pestpol
 But are there situations where it would not be appropriate?
 I conducted a quick research.
 **To get [rid](https://pestpolicy.com/how-to-get-rid-of-ground-bees/) of sweat bees, you may repel, trap or kill the bugs.�Sweat Bees are�attracted to salts present in human sweat. Obviously, a similar threat faces street athletes,� gardeners, and construction workers.�**
-[amazon bestseller="
-*best sweat bee repellent*
-" items="2" template="table"]
+
 ## Get Rid Of Sweat Bees: The 3 methods
 Get rid of sweat bees if:
 **(1)**

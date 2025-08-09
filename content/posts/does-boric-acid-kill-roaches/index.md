@@ -24,7 +24,7 @@ roach bombs
 , roach sprays,
 roach killers
 , and roach gels.
-[amazon bestseller="Does Boric Acid Kill Roaches" items="2" template="table"]
+
 ## Boric Acid For Roaches? Powder Roach Treatments
 In this post, I have a comprehensive guide on creating a borax acid paste.�Also, I'll describe the mistakes homeowners make when using Boric Acid to
 Kill Roaches

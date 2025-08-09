@@ -23,7 +23,7 @@ are;
 *In summary, adult bed bugs (last in the life cycle) measure  inch in length - roughly the size of an apple seed in length - and can be seen with a naked eye with no magnification. *
 *Also, bed bugs are oval-shaped (but long and flat), plus they're brown. *
 But bed bugs are cryptic and nocturnal - they'll highly avoid detection. They may quickly reproduce (including nymph adults and eggs) and spread all over the house.
-[amazon bestseller="Best Bed Bug Killer" items="2" template="table"]
+
 ## How Big are Bed Bugs? Identification & Removal
 The bugs will bite pets and
 humans

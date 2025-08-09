@@ -24,7 +24,7 @@ This is thanks to its three pigments; brown, black, and red.�So, really, what 
 - **In addition, a chameleon will change color depending on temperature. For example, when it gets cold outside, the chameleon changes their skin pigment to black - this helps them absorb more heat. **
 In this article, we will talk (in detail) about the colors of a chameleon. You'll learn what they mean.
 # **In a Hurry? Check these Chameleon Cages**
-[amazon bestseller="Chameleon Cages" items="2" template="table"]
+
 ## What's the Normal Chameleon Coloration?
 Chameleons of different species are either brown or green when they're in their normal (neutral or resting) state, but the hue will depend on the natural habitat of the animal.
 *For instance; *

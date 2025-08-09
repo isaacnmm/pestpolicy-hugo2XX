@@ -24,7 +24,7 @@ First off, I note that Bedlam will also
 kill the bed bugs and the eggs
 resistant to pesticides such as pyrethroids.
 *So, let's get started!�*
-[amazon bestseller="Bedlam Plus Bed Bug Spray" items="2" template="table"]
+
 ## #1:�Review Summary
 So, Bedlam Plus is a residue formula, and hence even after applying, its active ingredients will continue repelling and
 killing bed bugs/)

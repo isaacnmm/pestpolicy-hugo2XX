@@ -19,7 +19,7 @@ Could be you have come across Blue Tailed Lizards in your home, yard or zoo and 
 . Can these reptiles really harm your children, dogs, cats or other home occupants? May be you are even worried how dangerous their saliva or bite could be.
 **Well, the question here is, are Blue Tailed Lizards Poisonous? The direct answer is NO. Blue Tailed Lizards are humble, non- poisonous reptiles that will present no threat to your children, humans or pets such as dogs and cats since their bite do not contain venom. **
 **According to Savannah River Ecology Laboratory, there is no scientific record that shows a long lasting effect of a bite from a Blue Tailed Lizard on human or pet. Nevertheless, some sources claim that when eaten by cats or dogs, Blue Tailed Lizards may cause sickness and lead to death.�**
-[amazon bestseller="Best Lizard Cages" items="2" template="table"]
+
 
 Related:
 Do Lizards Have Teeth?

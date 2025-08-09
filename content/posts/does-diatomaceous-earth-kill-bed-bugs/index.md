@@ -21,7 +21,7 @@ kill bed bugs (or even with vinegar)/)
 ?
 *A simple answer is, YES, diatomaceous earth will kill bed bugs. The D.E particles stick to the insect's exoskeleton it punctures the carapace, thus, leaving the insect susceptible to dehydration.�*
 *Also, when the insect inhales the powder, it cuts through the respiratory system and causes drying of the mucous membrane of breathing passages in the bug, thus, killing them. Related: Pictures of Bed Bugs.�*
-[amazon bestseller="Best Bed Bugs Killers" items="2" template="table"]
+
 ## Details: Does Diatomaceous Earth Kill Bed Bugs?
 But it only gets worse when you get to realize that, like cockroaches,
 bed bugs are extremely hardy and difficult to kill

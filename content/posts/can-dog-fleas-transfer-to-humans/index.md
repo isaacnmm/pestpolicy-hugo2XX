@@ -31,7 +31,7 @@ hitchhike people as they move to other houses
 ,�just like the
 [over 2,000 flea species](https://ohioline.osu.edu/factsheet/HYG-2081-11)
 .
-[amazon bestseller="Best Fleas Killers" items="2" template="table"]
+
 ## Can Dog Fleas Transfer to Humans? People's hair?
 A
 quick google search on whether�Can Dog Fleas

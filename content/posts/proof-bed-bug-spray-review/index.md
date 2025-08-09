@@ -23,7 +23,7 @@ In this post, I've reviewed the good and the bad of the�Proof bed bug spray.
 > But first,�Proof is produced from the Neem tree and thus it's a�plant-extracted insecticide with
 > [5.5%�Cold-Pressed Neem Oil](https://tigerprints.clemson.edu/cgi/viewcontent.cgi?referer=&httpsredir=1&article=2467&context=all_dissertations)
 > as it key active ingredients.
-[amazon bestseller="Proof Bed Bug Spray" items="2" template="table"]
+
 ## #1:�Review Summary
 Proof has high efficacy in
 repelling bed bugs/)

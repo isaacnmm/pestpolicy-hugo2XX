@@ -21,7 +21,7 @@ when a large number are harmless? Some eat mosquitoes and other bugs in our home
 That notwithstanding, spiders in our houses-whether venomous or not make our houses look untidy. Related:
 [Compare [Spider](https://pestpolicy.com/can-you-drown-a-spider/) Bite to Mosquito Bite](https://pestpolicy.com/spider-bite-vs-mosquito-bite/)
 .
-[amazon bestseller="Best Spiders Killers" items="2" template="table"]
+
 ## What Kills Spiders Instantly? -� A Safer and Quicker Remedy
 Though most spiders are harmless in our homes, some are a serious threat within the house.
 - In the US some spiders like the black widow and brown recluse are very common and may force you to take immediate action against all spiders in your house.

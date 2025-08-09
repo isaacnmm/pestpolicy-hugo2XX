@@ -20,7 +20,7 @@ and also cut on the pest control costs.
 On
 * what animals eat [cockroaches](https://pestpolicy.com/best-roach-bait/); they include some reptiles, amphibians, avians, and mammals - including�rats, bearded dragons, leopard geckos, frogs, and toads. *
 *Other animals include mice, skinks, parasitoid wasps, hedgehogs, some beetles, panther chameleons, iguanas, some birds, Entomopathogenic fungi, monitor lizards.�*
-[amazon bestseller="Best Roach Killers" items="2" template="table"]
+
 ## What Animals [Eat](https://pestpolicy.com/do-cockroaches-eat-bed-bugs/) Cockroaches? Roach Predators?
 But how are roach eaters helpful? These bugs will trim down the roach population. They'll invade them in their ecosystem or natural habitat including
 bugs in your backyard

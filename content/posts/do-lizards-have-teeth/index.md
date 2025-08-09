@@ -19,7 +19,7 @@ Probably youve seen a [lizard](https://pestpolicy.com/are-lizards-poisonous/) ru
 Further, how do these lizards even feed  with or without teeth? So, do lizards have teeth?
 - **The short answer is, YES! Lizards have teeth that are well adapted to the type of food they eat. The dentition of lizards varies from one species to another within the taxonomic family where some have pleurodont teeth formation while others have acrodont teeth.**
 - **The shape of their teeth is either conical, pointed, or serrated to help them grip the prey and push it into the digestive tract. Lizards do not have alveoli or tooth sockets in their dentition. Some lizard species have venom ducts connected to their tooth roots to help paralyzed their prey.�**
-[amazon bestseller="Best Lizards Food" items="2" template="table"]
+
 
 Related:
 Can Bearded Dragons Eat Tomatoes?

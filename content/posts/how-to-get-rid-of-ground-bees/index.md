@@ -21,7 +21,7 @@ Related:
 .
 **Wait:�**
 Bee stings are feared because they are lethal, and they cause pain. But, do ground bees pose a danger to you, your family, or your pets?
-[amazon bestseller="Best Killers for Ground Bees" items="2" template="table"]
+
 ## Details: How to Get Rid of Ground Bees
 The easiest method to eliminate ground bees is through chemical sprays labeled for ground bees, such as Spectracide.
 ### What are ground bees, and what do they look like?

@@ -22,7 +22,7 @@ In this article, I'll tackle this question: how to tell if your dog has fleas?
 - **Dogs with fleas will usually have at least one of the following: excessive scratching or licking; black specks around the base of their tail, head, ears, or paws; an irritated red skin rash. **
 If your dog is exhibiting any of these symptoms then it may very well have fleas.
 
-[amazon bestseller="Best [Flea](https://pestpolicy.com/dog-has-fleas-and-sleeps-in-my-bed/) Killers" items="2" template="table"]
+
 
 Let's get into the details!
 

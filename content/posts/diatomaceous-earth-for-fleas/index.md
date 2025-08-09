@@ -25,7 +25,7 @@ In this post, you'll learn how to use
 Diatomaceous Earth
 for fleas' extermination safely. But you can click here to check out how to use
 DE.
-[amazon bestseller="Best Fleas Killer" items="2" template="table"]
+
 ## **What's Diatomaceous Earth? How Does It Work?�**
 **Definition**
 : Diatomaceous Earth is a soft (powdered) sedimentary rock discovered by a farmer in the 1830s initially thought to be limestone. DE is made up of fossil diatoms, which are hard-shelled algae from different water plants.

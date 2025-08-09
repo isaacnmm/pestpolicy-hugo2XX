@@ -21,7 +21,7 @@ ow to get rid of squirrels in the yard.
 Squirrels are an animal that looks quite funny, being small in size, and extremely active and elusive. With the
 restless nature and extreme swift movements, they are tough to catch and potentially can cause a lot of damage to your property and holdings.
 **See [Squirrel](https://pestpolicy.com/do-squirrels-attack-humans/) solutions.�**
-[amazon bestseller="How To Get [Rid](https://pestpolicy.com/how-to-get-rid-of-brown-recluse-spiders/) of Squirrels in the Yard" items="2" template="table"]
+
 Squirrels dont leave anything unharmed, from woods to vegetables; all are vulnerable to their potential of harmful instincts.
 They can cause fleas and even tick to your pets.
 ## 1.Squirrels Repellents

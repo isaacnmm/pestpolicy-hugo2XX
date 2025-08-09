@@ -20,7 +20,7 @@ smart omnivore
 Maybe you have come across a bearded dragon in the fields, zoo or probably own one and wonders what this reptile eats.
 *So, what do Bearded Dragons Eat? Well, these reptiles feed on fruits such as tomatoes, apples, guavas, bananas, berries, figs, watermelons, mangoes, papayas, grapes, kiwi, apricots, pears or plums. *
 *Bearded Dragons can also feed on vegetables/greens such as cabbages, celery, sweet potatoes, peas, green beans, courgette, butternut squash, okra, bell pepper, clover, turnip green, mustard green, coriander or collard/ kales.�*
-[amazon bestseller="Best Food for Bearded Dragons" items="2" template="table"]
+
 ## What Do Bearded Dragons Eat? 7 Tips
 Also, you can feed your bearded dragon with animals like crickets, earthworms, cockroaches, mealworms, waxworms, butter worms, Dubia roaches, silkworms, locust or king worms.
 ### 1. Fruits Eaten by�Bearded Dragons

@@ -29,7 +29,7 @@ BO
 [antiseptics](https://pubmed.ncbi.nlm.nih.gov/1712169/)
 .
 - The white powder or colorless crystals of this Boric acid (first created by Wilhelm Homberg) will dissolve in water.
-[amazon bestseller="Boric Acid insecticides" items="2" template="table"]
+
 ## Boric AcidOccurrence
 You'll mainly find Boric acid around volcanic areas like Nevada, Lipari Islands, and�Tuscany as
 [sassolite](https://en.wikipedia.org/wiki/Sassolite)

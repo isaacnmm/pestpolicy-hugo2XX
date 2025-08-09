@@ -20,7 +20,7 @@ what [bearded dragons eat](https://pestpolicy.com/what-do-bearded-dragons-eat/)
 . It may even concern you if these lizards can eat all cabbage species or not.
 *So, can bearded dragons eat cabbages? The simple answer is YES! The bearded dragon will feed on all varieties of cabbages without any problems. Actually, cabbages have rich vitamin composition (needed to boost beardies immune system), and high calcium: phosphorous ratio (that prevents metabolic bone disease).�*
 *Cabbages have high dietary fiber (which prevents constipation), large mineral contents (needed for growth and development of tissues), contain powerful antioxidants and anti-inflammatory, low-fat content (thus preventing obesity) as well as relatively low sugar level that help reduce cases of diabetes and high blood pressure on your bearded dragon.�*
-[amazon bestseller="Food for Bearded Dragons" items="2" template="table"]
+
 ## Details: Can Bearded Dragons Eat Cabbage?
 But it is necessary to keep close monitoring of the sugar and
 water levels of your beardie

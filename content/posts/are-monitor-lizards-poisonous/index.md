@@ -17,7 +17,7 @@ layout: post
 Probably you have come across monitor lizards in your field, yard, compound or zoo and wonder if they could be poisonous. You may even have seen them feed on rats, snakes or rodents. But [are](https://pestpolicy.com/are-blue-tailed-lizards-poisonous/) Monitor Lizards Poisonous?
 **The direct answer is YES. Monitor lizards (such as Komodo Dragon, Asian Water Monitor, and Tree Crocodile Monitor) can bite and cause poisonous infections since they are venomous. **
 **The venom contains crotamine, which prevents blood clotting leading to a drop in blood pressure and cause death at the long run. On the other hand, Monitor Lizards such as Bengal Monitor and Savana Monitor are believed to be harmless and defenseless. However, these species are few.�**
-[amazon bestseller="Monitor Lizards harness" items="2" template="table"]
+
 
 Related:
 [Are Blue Tailed Lizards Poisonous?](https://pestpolicy.com/are-blue-tailed-lizards-poisonous/)

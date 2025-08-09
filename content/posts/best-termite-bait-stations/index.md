@@ -19,9 +19,9 @@ layout: post
 - Since the baiting system operates below the ground surface, your family and pets would be exposed to toxic chemicals.
 This guide features the [best](https://pestpolicy.com/best-chipmunk-repellents/) termite bait stations in the market, a buyers guide, and tips for making the best use of the bait stations.
 **Check these bait stations.�**
-[amazon bestseller="Best Termite Bait Stations" items="2" template="table"]
+
 ## [1. #1 Top Pick:**Advance Termite Detection Baiting Station**](https://www.amazon.com/dp/B01LD5PQQ8/?tag=p-policy-20)
-[amazon box="B01LD5PQQ8" template="horizontal"]
+
 Your termite extermination efforts will become easier and effective with this termite detection and extermination bait station.
 This bait station entails an inspection cartridge, a monitoring base, a piece of wood (attractant), and a poison cartridge.
 In case termite activity is detected, the inspection cartridge is removed, and a cartridge containing termite bait and poison is inserted.
@@ -44,11 +44,11 @@ The Bad:
 - Termite poison not included
 https://www.youtube.com/watch?v=Y9gl2Ok0uQY
 ## [2. #2 Pick: Advance-Termite Bait-Station Spider Access Tool](https://www.amazon.com/dp/B005665CMY/?tag=p-policy-20)
-[amazon box="B005665CMY" template="horizontal"]
+
 ## [3. #3 Pick: Advance-Termite Bait-Station Monitoring Wood Insert](https://www.amazon.com/dp/B079GR4HZD/?tag=p-policy-20)
-[amazon box="B079GR4HZD" template="horizontal"]
+
 ## [**4. Spectracide Terminate Bait Station**](https://www.amazon.com/dp/B00AA8WVLI/?tag=p-policy-20)
-[amazon box="B00AA8WVLI" template="horizontal"]
+
 Spectracide HG-96115 gives you a DIY solution to your termite menace.
 - It comes in the form of stakes pressed into the ground to detect, lure, and kill termites.
 - Its aneffective bait station that works on all termitesspecies.
@@ -69,7 +69,7 @@ The Good:
 The Bad:
 - May give false signal due to ground moisture
 ### [**3. Hex Pro Termite Detection and Extermination Bait Station**](https://www.amazon.com/dp/B00FEYAI0E/?tag=p-policy-20)
-[amazon box="B00FEYAI0E" template="horizontal"]
+
 This bait station will work against all termite species, including the stubborn
 subterranean termites
 .

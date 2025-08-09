@@ -27,7 +27,7 @@ yard - but you can control these bugs
 *In Summary, fleas are mainly ectoparasites & live on pet hosts where they'll suck blood, fleas mate, and ultimately lay eggs. They'll live on the pet hosts and wildlife up-to when they're brushed off, fall off or die.�*
 https://www.youtube.com/watch?v=g6vMqrhltxQ
 See top quality flea sprays.
-[amazon bestseller="Best Flea Spray" items="2" template="table"]
+
 ## Details: Where Do Fleas Live? 7 Common Hiding Places?
 ## 1. Where Do Fleas Live on Dogs and Cats?
 Fleas (both

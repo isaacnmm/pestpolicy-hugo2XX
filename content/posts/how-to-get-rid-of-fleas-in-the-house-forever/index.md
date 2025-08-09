@@ -24,7 +24,7 @@ they hitchhiked onto humans
 
 This article will detail all of the steps on how to get rid of fleas in the house forever.
 
-[amazon bestseller="Best Fleas Killer for Apartment" items="2" template="table"]
+
 ## Step-by-Step - How to Get Rid Of Fleas in the House Forever
 ### Step 1: Flea-Treat the Dog
 Fleas are tiny, wingless insects that live in the fur of animals like dogs and cats. One of the best ways to rid your dog of fleas is with flea shampoo.

@@ -25,7 +25,7 @@ signs of fleas
 Following this simple method will bring you the best results and ensure that the fleas are eradicated from your home for gooda technique
 for killing fleas
 around the house with baking soda.
-[amazon bestseller="Best Flea Killers" items="2" template="table"]
+
 ## Details: Does Baking Soda Kill Fleas? Natural Fleas Control
 In short, the answer to this question is yes, baking soda can be used as an effective way to
 [kill and remove fleas](https://pestpolicy.com/does-salt-kill-fleas/)

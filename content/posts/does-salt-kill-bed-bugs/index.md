@@ -25,7 +25,7 @@ Salt is cheap and readily available and is also easy to use. However, not all of
 kill bed bugs
 ?
 *The short answer is, Yes and NO; bed�bugs have a waxy shell. Therefore, if you apply salt on them, the waxy shell will prevent the salt from being absorbed into their body to dehydrate them. Also, bed bugs feed solely on blood. Therefore, there is no way you can poison them with salt.�*
-[amazon bestseller="Best Bed Bugs Killers" items="2" template="table"]
+
 ## Does Salt Kill Bed Bugs? 7 Bed Bug FAQs
 **Why salt Might Kill Bed Bugs**
 For many reasons, individuals believe that they can use salt to

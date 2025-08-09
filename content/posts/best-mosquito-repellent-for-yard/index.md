@@ -20,7 +20,7 @@ Do you find yourself constantly worrying about your kids getting [mosquitoes](ht
 Mosquitoes, especially the female kind, are a hazard to our lives. If you happen to have a lot of bloom in your garden, its highly likely that mosquitoes will get a breeding ground.
 amazon bestseller="[Best Mosquito Repellent for Yard" items="2" template="table"]
 ## [1. #1 Top Pick:**Cutter HG-61067 Backyard Mosquito Concentrate**](https://www.amazon.com/dp/B000PGE032/?tag=p-policy-20)
-[amazon box="B000PGE032" template="horizontal"]
+
 What I liked about this spray is the ability to continue working even during the rainy season.
 - Its effectiveness lasts up to 8 weeks in normal dry weather, but it lasts up to 4 weeks during the rainy season.
 - It comes in a 32-ounce bottle that can be used for an area of about 5,000 square feet.
@@ -45,13 +45,13 @@ rids of bugs
 You shouldnt be worried about your pets and children when using Cutter Backyard Spray. It poses no risk as long as it is used correctly and is left to dry before letting them play in the treated area.
 https://www.youtube.com/watch?v=zdmXo0i6JYM
 ## [2. #2 Pick: Gouso Mosquito-Repellent Rosemary, Citronella](https://www.amazon.com/dp/B08T5SX83G/?tag=p-policy-20)
-[amazon box="B08T5SX83G" template="horizontal"]
+
 https://www.youtube.com/watch?v=NNqytj8UPBs
 ## [3. #3 Pick: Thermacell Patio-Shield DEET-Free Mosquito Repellent](https://www.amazon.com/dp/B075SBMTQL/?tag=p-policy-20)
-[amazon box="B075SBMTQL" template="horizontal"]
+
 https://www.youtube.com/watch?v=0l43DVzOBKU
 ## [4. Spectracide Triazicide Insect Killer For Lawns](https://www.amazon.com/dp/B002ITJH82/?tag=p-policy-20)
-[amazon box="B002ITJH82" template="horizontal"]
+
 Third, on my list is the Spectracide Triazicide. This is an outdoor insect
 killer that repels and kills mosquitoes
 and 260 other annoying pests such as ticks, crickets, gnats, beetles, fleas, bugs, worms by contact.
@@ -65,7 +65,7 @@ and humans since it is chemically synthesized. It is made of a pyrethroid class 
 Spectracide Triazicide either comes in a 32-ounce bottle of dilutable concentrate formula or ready to spray formula. Both work the same way. After application, it does not leave any stain; neither does it have any after-scent.
 With the Spectracide Triazicide mosquito spray, you are guaranteed a� pest-free yard, lawn, vegetable garden, flowers, trees, grass, and water baths.
 ## [5. Summit 20-Pack Mosquito Dunk- Best Larvicide Killer](https://www.amazon.com/dp/B002GJPFIU/?tag=p-policy-20)
-[amazon box="B002GJPFIU" template="horizontal"]
+
 Summit 20-Pack Mosquito Dunk is specially formulated to kill mosquito larvae before they become old enough to start biting. It is used in any standing water - here's how to unclog the water.
 
 A single dunk application of this organic larvicide killer lasts up to 30 days and covers a surface area of 100 square feet. These dunks are inexpensive and are great at reducing the mosquito population in your yard.
@@ -80,7 +80,7 @@ These dunks are light in weight and can effortlessly float in water as they slow
 
 They are long-lasting; therefore, they do not require frequent replacement. They are easy to use; you need to string them and place them in the water area.
 ## [6. Wondercide Flea and Tick and Mosquito Control Spray](https://www.amazon.com/dp/B076VTZZ6N/?tag=p-policy-20)
-[amazon box="B076VTZZ6N" template="horizontal"]
+
 Wondercide Natural Spray is a purely organic natural spray- no toxins and no chemical substances. Once the application has dried up, your children and pets are safe to use the treated area.
 Being a natural spray, it has a delightful mild scent, which you will love. Its main ingredients are organic cedar oil, ethyl lactate, and water. All of which are natural.
 Are you wondering if there is an eco-friendly and biodegradable alternative to harmful chemical yard products?
@@ -96,7 +96,7 @@ Wondercide Natural Spray eliminates mosquitoes, gnats, ants, ticks, fleas, and o
 - It comes with easy-to-use packaging.
 You will only need to attach the garden hose to the bottle to start spraying on the desired area, including on flowers, trees, and under the shrubs. Wondercide Natural Spray does not leave any post-application residue.
 ## [7. Ortho Bug B Gon Insect Killer for Lawns and Gardens](https://www.amazon.com/dp/B00BLXZJW4/?tag=p-policy-20)
-[amazon box="B00BLXZJW4" template="horizontal"]
+
 My first review, which is also my
 top pick, goes to Ortho
 Bug B Gon.� What makes it stand out is the long-lasting period of effectiveness- its effects last up to 6 months.
@@ -109,7 +109,7 @@ are Bifenthrin and zeta-cypermethrin (from the pyrethrin class). Both of these i
 Ortho Bug B Gon kills mosquitoes almost instantly. And the best part is that it is safe to use around pets and children once dried up.
 Additionally, Ortho Bug B Gon does not leave any post-application residue. However, it has a rather heavy scent, which you might find repelling as well.
 ## [8. Black Flag 190107 Electric Insect Fogger - Best Mosquito Fogger](https://www.amazon.com/dp/B0000BYBSD/?tag=p-policy-20)
-[amazon box="B0000BYBSD" template="horizontal"]
+
 Black Flag 190107 Electric Insect Fogger is ideal for an evening in your backyard or patio. It kills and repels
 mosquitoes and other biting
 pests.
@@ -119,7 +119,7 @@ Ensure that you preheat the fogger for at least 2 minutes before you start the a
 The Black Flag 190107 Electric insect fogger repels and kills mosquitoes completely even in hard-to-reach places like under the shrubs or dense foliage areas where mosquitoes rest.
 Finally, the Black Flag 190107 Electric is easy to use only if you follow the instructions keenly. Also, ensure that you only use 3 wires of either 10, 12, and 14 gauge extension cables.
 ## [9. TIKI Brand BiteFighter Mosquito Repellent Torch Fuel](https://www.amazon.com/dp/B0146LHXSK/?tag=p-policy-20)
-[amazon box="B0146LHXSK" template="horizontal"]
+
 TIKIs fuel is easy to use and will only require a torch. You can either use TIKIs branded torches or any other. You can even get creative and use a clear mason jar or something similar.
 It doubles as a mosquito repellant and an outdoor lighting torch. It keeps away mosquitoes and all manner of bugs.
 To use, light the torch and place it where you intend to stay or the area affected.
@@ -128,7 +128,7 @@ The TIKI fuel solution is made up of a blend of cedar oils and citronella. Both 
 - The fuels are sold in different forms and sizes, starting from a 12-ounce canister to 1-gallon containers.
 However, I would recommend taking the biggest size they have since it is more economical unless you intend to use it only once.
 ## [10. Off! Deep Woods Dry Aerosol Insect Repellent](https://www.amazon.com/dp/B07PP8RQL5/?tag=p-policy-20)
-[amazon box="B07PP8RQL5" template="horizontal"]
+
 OFF's repellant! Happens to be among the best as it comes in 4 different varieties; wipes and aerosols to suit your preferences. With a 25% DEET active formula, OFF!
 Deep Woods come in a mild scent that masks off the DEET chemical odor; that way, you dont need to use a gas mask when spraying.
 The aerosol application is quite straightforward, and a little spray covers a wide area and provides protection for up to eight hours.

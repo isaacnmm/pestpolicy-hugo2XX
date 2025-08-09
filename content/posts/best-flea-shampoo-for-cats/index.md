@@ -20,7 +20,7 @@ Whats the best flea shampoo for cats? It can take up to three months to stop a f
 Dont be fooled into thinking these blood-suckers dont attack during�winter; they can attack in every season and can attack every type of breed. No�cat is immune.
 amazon bestseller="[Best Flea Shampoo for Cats" items="2" template="table"]
 ## [1. Our #1 Pick: Adams Plus Flea and Tick Shampoo with Precor](https://www.amazon.com/dp/B004KDRGD2/?tag=p-policy-20)
-[amazon box="B004KDRGD2" template="horizontal"]
+
 This reasonably priced formula is trusted and heavily relied on in the industry with Pet owners worldwide.
 It offers twenty-eight days of protection for your precious feline friend and can
 kill the Fleas in all stages of life - larvae
@@ -38,7 +38,7 @@ with Precor are effective from the first wash; the shampoo can be used between s
 The contents are a bright green to see where you are applying the shampoo and any areas you have missed when washing Off. It can also be used for dogs.
 https://www.youtube.com/watch?v=ZfkU6BhV_dI
 ## [2. #2 Pick: Vets�Best Flea & Tick Premium Shampoo for Cats](https://www.amazon.com/dp/B07PHMB7T2/?tag=p-policy-20)
-[amazon box="B07PHMB7T2" template="horizontal"]
+
 Does your pet suddenly disappear as soon as you pull out any flea treatment?
 Not anymore because this clever company has come up with an ingenious idea so your pet wont find flea treatment so unbearable.
 If you struggle to bathe your cat or your cat wont stay still when you spray it, this is the perfect solution for you.
@@ -50,10 +50,10 @@ Vets best are pioneers in producing products�for pets that use special ingredi
 The shampoo is made with natural oils that will calm your pet and give a fresh scent without any added ingredients.
 Your pet comes first with this ingeniously blended formula and will stop fleas from taking over and spreading to all your other pets.
 ## [3. #3 Pick:Veterinary-Formula Tick & Flea Clinical-Care Shampoo](https://www.amazon.com/dp/B075S9NZJL/?tag=p-policy-20)
-[amazon box="B075S9NZJL" template="horizontal"]
+
 https://www.youtube.com/watch?v=1U12tOi2Tdw
 ## [4. Zodiac Flea and Tick Shampoo for Dogs and Cats](https://www.amazon.com/dp/B0002ARGLE/?tag=p-policy-20)
-[amazon box="B075S9NZJL" template="horizontal"]
+
 Stop the fleas infesting all your pets with Zodiacs Flea and Tick Shampoo that can be used for all your pets.
 Unfortunately, fleas spread fast, but luckily with this solution, theres a way you can treat your uncomfortable pet before the infestation.
 - Fleas can hatch from forty to fifty eggs in one day and live in�our beddings, carpets, and pets.
@@ -70,7 +70,7 @@ off fleas
 , lice, and ticks.
 There is enough shampoo in this generously sized bottle to use for multiple applications on more than one of your pets.
 ## [5. Sentry PurrScriptions Flea and Tick Shampoo for Cats](https://www.amazon.com/dp/B003DV73A8/?tag=p-policy-20)
-[amazon box="B003DV73A8" template="horizontal"]
+
 Are you struggling to find an effective and easy
 flea treatment for your puppies
 ?
@@ -97,7 +97,7 @@ safe for you and your pet
 You can spray your pet generously and reapply it every few days. Depending on your pet's coat's density, and may need to massage in the solution softly. It is extremely safe to use, and you can keep it in easy reach.
 You can even apply this spray on your pet's face as well as their collar: a great product and alternative to flea shampoo. The spray will keep your pet happy and any nasty pests away!
 ## [6. Freshn Clean Flea and Tick Pet Conditioning Shampoo](https://www.amazon.com/dp/B005DGIJPY/?tag=p-policy-20)
-[amazon box="B005DGIJPY" template="horizontal"]
+
 Often people think that
 fleas dont strike in Winter
 , but they can attack all year round and hatch at any time.

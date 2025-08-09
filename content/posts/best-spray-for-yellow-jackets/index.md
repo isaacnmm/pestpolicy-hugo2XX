@@ -22,10 +22,10 @@ In A Hurry? Check Our Top Picks
 1. [TERRO T3300 Spray Wasp & Hornet Killer](https://www.amazon.com/dp/B007VN2G5G/?tag=p-policy-20)
 2. [Ortho Home-Defense Wasp & Hornet Killer](https://www.amazon.com/dp/B0784WG4FD/?tag=p-policy-20)
 3. [Bonide Products INC 629 Brown/A - Hornet Killer](https://www.amazon.com/dp/B0055DNEI2/?tag=p-policy-20)
-[amazon bestseller="Best Spray for Yellow Jackets" items="2" template="table"]
+
 ## The Best Yellow Jacket, Wasp & Hornet Sprays
 ### [1. TERRO T3300 Spray Wasp & Hornet Killer](https://www.amazon.com/dp/B007VN2G5G/?tag=p-policy-20)
-[amazon box="B007VN2G5G" template="horizontal"]
+
 TERRO T3300 has a p
 owerful
 spraying distance (jets about
@@ -38,7 +38,7 @@ TERRO T3300 spray can shoot about 15 feet horizontally and thus to avoid stingin
 Yellow jackets may get into your house using the underground - and so most of the traditional control methods for these stinging bugs may not work.
 - Luckily, the spray comes with a mild odor plus it's thick enough not to be blown off easily. Further, the spray container is well firring, and thus kids cant dislodge or open it easily.
 ### [2. Ortho Home-Defense Wasp & Hornet Killer](https://www.amazon.com/dp/B0784WG4FD/?tag=p-policy-20)
-[amazon box="B0784WG4FD" template="horizontal"]
+
 If you have several wasp nests around your property, I recommend getting yourself
 Ortho Home Defense
 aerosol. It is a very effective spray for killing wasps, yellow jackets, hornets, and mud daubers.
@@ -53,7 +53,7 @@ The Good:
 The Bad:
 - Limited to outdoor usage only
 ### [3.HARRIS Yellow Jacket, Hornet, Wasp & Bee Spray](https://www.amazon.com/dp/B084ZZDYSG/?tag=p-policy-20)
-[amazon box="B084ZZDYSG" template="horizontal"]
+
 HARRIS Wasp Killer is a suitable bug killer for targeting flying insects. The spray can shoot about 20 feet to reach most of the yellow jacket nests to easily exterminate all the wasps above ground.
 - Luckily, this insecticide spray can kill different flying pests including bees, yellow jackets, hornets, and wasps - showing the versatility of the product in its work.
 The foam in this HARRIS Wasp Killer will cover the bug's nest, expanding to stop the pests in their tracks - killing all the yellow jackets in the nest.
@@ -61,7 +61,7 @@ On effectiveness and safety, HARRIS Wasp Killer is EPA approved and registered a
 - This versatile yellow jacket spray will be effective in killing these bugs in the attic, in indoor spaces, and in outdoor nests.
 https://www.youtube.com/watch?v=viiREVuemrE
 ### [4. Spectracide Carpenter Bee & Ground-Nesting Yellowjacket Killer](https://www.amazon.com/dp/B01L7W127O/?tag=p-policy-20)
-[amazon box="B01L7W127O" template="horizontal"]
+
 For bees and yellow jackets that
 live in inaccessible places
 , Spectricide will not disappoint you. Its foam spreads easily to eliminate ground-nesting bees and yellow jackets.
@@ -78,7 +78,7 @@ The Bad:
 - It has a relatively shorter spraying distance, and you may need to get closer to the insects.
 https://www.youtube.com/watch?v=R6hzoFw5s9c
 ### [5. Wasp Freeze Wasp & Hornet Killer Insecticide](https://www.amazon.com/dp/B005EVBDC4/?tag=p-policy-20)
-[amazon box="B005EVBDC4" template="horizontal"]
+
 Wasp and Hornet
 Killer is a five-star rated insecticide
 worth your investment. Its an outdoor spray containing d-Trans Allethrin with 0.12% of phenothrin. It comes as a ready-to-use spray in a case of 12*17 Oz cans.
@@ -96,7 +96,7 @@ The Bad:
 - None
 https://www.youtube.com/watch?v=Abyvq7WUiTc
 ### [6. Spectracide* PRO Wasp & Hornet Killer (Aerosol)*](https://www.amazon.com/dp/B000NGR9OG/?tag=p-policy-20)
-[amazon box="B000NGR9OG" template="horizontal"]
+
 Spectracide PRO is an indisputable instant killer of yellow jackets, wasps, and hornets. And just like the Raid, its residues will not spare wasps that come back to salvage their nest.
 - Spectracide PRO will last up to 4 weeks in the hive, meaning you do not have to spray frequently.
 - Spectracide PRO is famous for its ability to eradicate harmful insects that bite from a distance.
@@ -110,7 +110,7 @@ The Good:
 The Bad:
 - Contents of this mist-like spray may scatter on unintended places
 ### [*7. Raid Wasp and Hornet, 14 ounces*](https://www.amazon.com/dp/B06ZZQBWLX/?tag=p-policy-20)
-[amazon box="B06ZZQBWLX" template="horizontal"]
+
 *T*
 his is a 14-ounce wasp and hornet killer with
 the ability to exterminate other insects
@@ -131,7 +131,7 @@ The Good:
 The Bad:
 - Strong pungent smell
 ### [8. Hot Shot 13416 Wasp & Hornet Killer Aerosol](https://www.amazon.com/dp/B002Y6D2D0/?tag=p-policy-20)
-[amazon box="B002Y6D2D0" template="horizontal"]
+
 A hotshot is a powerful yet very effective instant insect killer. It comes in 17.5 ounces and is designed to kill hornets, wasps, and other insects like scorpions and tent caterpillars.
 - Residues of this spray are powerful enough to kill wasps that return to salvage their shelters.
 - With its notable 27 feet spray distance, Hot Shot provides an easy way of killing wasps that build nests in high places.

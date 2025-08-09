@@ -20,12 +20,12 @@ These chemical combinations at a given ratio are packed in a pressurized contain
 do bed bug bombs work
 ?
 # **In a Hurry? Check [Best](https://pestpolicy.com/best-fogger-for-mosquitoes/) Fogger for Bed Bugs**
-[amazon bestseller="Best Fogger for Bed Bugs" items="2" template="table"]
+
 ## [1. Our #1 Pick:Bond 571 917568 Manufacturing O2812618 homes Bed-Bug Fogger](https://www.amazon.com/dp/B01N7RYOYC/?tag=p-policy-20)
-[amazon box="B01N7RYOYC" template="horizontal"]
+
 https://www.youtube.com/watch?v=aZsrN-USnfo
 ## [2. #2 Pick: Hot Shot HG-95911 Aerosol Bedbug and Flea Bomb](https://www.amazon.com/dp/B0047P8G96/?tag=p-policy-20)
-[amazon box="B01KU9EKX8" template="horizontal"]
+
 Hotshot is an amazing product for indoor
 bed bug killing since it kills the eggs
 , nymphs, and adult bed bugs within a volume section of 2000 cubic feet.
@@ -44,7 +44,7 @@ The Bad:
 - Dangerous, when inhaled  requires a respiratory mask.
 https://www.youtube.com/watch?v=CyfQ1fHi9Ho
 ## [3. #3 Pick: Bedlam Plus Bed Bug Aerosol](https://www.amazon.com/dp/B00A6JIAK2/?tag=p-policy-20)
-[amazon box="B00A6JIAK2" template="horizontal"]
+
 This top bed bug bomb. It kills both bed bugs and their egg and
 baby bed bugs
 right in their hideouts due to its strong knockout power.
@@ -64,7 +64,7 @@ The Bad:
 - Needs a disposable respirator mask during application.
 https://www.youtube.com/watch?v=Y5M2RGhkSKw
 ## [4. HARTZ UltraGuard Plus for Bed Bug, Tick & Flea](https://www.amazon.com/dp/B000633VGG/?tag=p-policy-20)
-[amazon box="B000633VGG" template="horizontal"]
+
 Are you experiencing a rapid infestation of bed bugs? Hartz UltraGuard is an efficient product that will help you eliminate these bloodsuckers in a couple of minutes.
 - The use area is indoors  Homes, apartments, garages, offices, boat cabins, and kitchen.
 - Definitely, you'll need to check thepictures of bed bugsto know what you're controlling.
@@ -84,7 +84,7 @@ The Good:
 The Bad:
 - Needs respiratory mask during application.
 ## [5. Bonide Dual Action Bed Bug Bomb / Room Fogger](https://www.amazon.com/dp/B000BQ889S/?tag=p-policy-20)
-[amazon box="B000BQ889S" template="horizontal"]
+
 Bonide Dual Action is an
 indoor bed bug killer
 that eliminates bed bugs in your house a couple of minutes after application. The Bonide Dual Action is odorless.
@@ -104,7 +104,7 @@ The Bad:
 Related:
 Best Bed Bug Steamer
 ## [6. Black Flag Bomb for Bed Bugs - Concentrated Fogger](https://www.amazon.com/dp/B01KU9EKX8/?tag=p-policy-20)
-[amazon box="B01KU9EKX8" template="horizontal"]
+
 Could you be looking for a bed bug bomb that is quick-acting and can kill colonies of bed bugs at ago? Black Flag is the most dedicated product that you need to maintain bed bugs control.
 - The likely area of use includes indoors such as attics, homes, basements, apartments, kitchens, and garages.
 - Black Flag kit comes with 6 well-concentrated fog aerosol cans, which will help fumigate your bed bugs infested rooms at a cheaper cost.
@@ -123,7 +123,7 @@ The Good:
 The Bad:
 - Requires respiratory mask during application and not suitable for water-stained fabrics  do not place on it.
 ## [7. Actisol Compact Unit Bed Bug Fogger - w/18" Wand](https://www.amazon.com/dp/B075ZHQK6B/?tag=p-policy-20)
-[amazon box="B075ZHQK6B" template="horizontal"]
+
 A machine type of bed bug bomb is a nice option. Could you be looking for one? Actisol Machine is the best item to go for your home.
 Actisol Compact Unit sucks a high volume of air that mixes with a low volume of insecticide.
 Area of use is indoors such as houses, apartments, offices, warehouses, ship/aircraft cabins, and outdoors such as train/bus station, receptions, vehicles, outdoor garages, market, or stadia.
@@ -146,7 +146,7 @@ Related:
 Best Bed Bug Heaters
 .
 ## [8. MINI Bed Bug Fogger (Smoke Bomb)- BedBug killer](https://www.amazon.com/dp/B01H2SR3R0/?tag=p-policy-20)
-[amazon box="B00A6JIAK2" template="horizontal"]
+
 If you need a classic fogger that kills bed bugs in a smoky environment, 4x MINI Fogger is the product to go for.
 MINI Fogger has a Fumite chemical released in the form of smoke that kills bed bugs within seconds once it comes into contact.
 - The areas of use include indoor places such as homes, offices, apartments, garages, or warehouses.

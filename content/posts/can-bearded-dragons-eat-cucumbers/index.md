@@ -21,7 +21,7 @@ They are usually preferred because of their low-calorie level and high water con
 But can bearded dragons eat cucumber?
 **A simple answer is YES. Cucumber gives you a means of hydrating and nourishing your bearded dragon since it contains some minerals and vitamins.�**
 **But since cucumbers are not very nutritious, they should not constitute the main diet for your bearded dragon.�**
-[amazon bestseller="Food for Bearded Dragons" items="2" template="table"]
+
 ## **Can Bearded Dragons Eat Cucumbers? - 7 Top Picks**
 Cucumbers are among the vegetables
 [approved for feeding bearded dragons](https://cvm.ncsu.edu/documents/caring-for-your-bearded-dragon/)

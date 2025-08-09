@@ -19,7 +19,7 @@ Both [carpenter](https://pestpolicy.com/carpenter-ants-vs-fire-ants/) ants and t
 in a home?
 - **Carpenter ants are attracted to our homes by debris piles, food, shade, stagnant water, and also like to live in moist places. Carpenter ants are very destructive, especially in the pantry. But unlike termites, these ants dont eat but chew the moist wood and throw off the remains behind.�**
 These carpenter ants are both indoor and outdoor insects. When they come into the house, something has attracted them. What are things that we do that make them come out from the yard and other areas into our houses?
-[amazon bestseller="Best Carpenter Ants Killer" items="2" template="table"]
+
 ## Details: What Attracts Carpenter Ants in A Home?
 ### **1. Food **
 If you have food that the carpenter ants like, they will find their way into your house to eat. They are mostly attracted by sugary things and also

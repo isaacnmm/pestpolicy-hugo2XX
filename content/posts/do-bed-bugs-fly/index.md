@@ -29,7 +29,7 @@ but have dysfunctional wing pads. They mainly use crawling to move around lookin
 hiding place
 , or a new host.
 So, if you've seen an insect that closely resembles a bud bug flying around the house, most probably we're talking about carpet beetles or stink bugs (bet luckily these don't bite).
-[amazon bestseller="Best Bed Bugs Killers" items="2" template="table"]
+
 Before we move on with bed bugs and their movement, I recommend that you also view this
 guide on stink bugs vs. bed bugs
 .

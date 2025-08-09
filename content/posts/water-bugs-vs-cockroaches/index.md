@@ -22,7 +22,7 @@ Although they bear a close resemblance, it is possible to differentiate the two 
 Ill take you through some of the features you can use to differentiate cockroaches (
 [including baby roaches](https://pestpolicy.com/what-do-baby-roaches-look-like//)
 ) from water bugs.
-[amazon bestseller="Best Water Bugs Killers" items="2" template="table"]
+
 ## Water Bugs Vs. Cockroaches (7 Key Differences)
 ### **1. Appearance**
 **Waterbug **

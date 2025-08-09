@@ -20,7 +20,7 @@ for bearded dragons.�Broccoli is a source of essential minerals and vitamins. 
 good for your bearded [dragon](https://cvm.ncsu.edu/documents/caring-for-your-bearded-dragon/)
 .
 *So, can bearded dragons eat broccoli? A simple answer is YES. A little broccoli wont do harm to your beardie. However, you should only feed your beardie with small amounts of broccoli once in a while. Thats because broccoli contains high contents of oxalic acid which may cause kidney failure in reptiles.�*
-*[amazon bestseller="Food for Bearded Dragons" items="2" template="table"]*
+**
 ## **Can Bearded Dragons Eat Broccoli?**
 Broccoli provides a good source of calcium, protein, fibre and vitamins such as vitamin A, B1, C, E and K. But they also contain high levels of oxalic acid which makes it unsuitable for reptiles including bearded dragons.
 

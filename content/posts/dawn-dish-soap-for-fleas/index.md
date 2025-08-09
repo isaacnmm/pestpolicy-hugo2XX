@@ -22,7 +22,7 @@ on your dogs or cats?
 - *Also, Dawn dish soap reduces the surface tension of water, which means that when you use it to bathe your pet, fleas lose their ability to stay afloat on the water's surface. This causes them to sink and drown - drowning agent.*
 Let's get into the details!
 **But first, check these alternative flea shampoos for cats and dogs.��**
-[amazon bestseller="best flea shampoo for cats" items="1" template="table"]
+
 ## How Will Dawn Dish Soap Kill Fleas?
 Dawn dish soap works to clean oil, grime, and grease on wild birds and pets through a chemical reaction called emulsification.
 

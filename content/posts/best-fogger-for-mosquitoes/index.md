@@ -20,18 +20,18 @@ activity like picnics, barbeque, or camping
 - These foggers come in different brands and sizes but all serve the same purposes-keeping your area mosquito-free.
 - Unlike traps, these foggers are more reliable and effective in eliminating and making your environment mosquito-free.
 In this article, I will closely scrutinize these foggers and present informed buying options.�In a Hurry? Check these foggers for Mosquitoes for Hiking.
-[amazon bestseller="Best Fogger for Mosquitoes" items="2" template="table"]
+
 ## [1. Our #1 Pick: Black-Flag 190095 Repelling Propane Fogger](https://www.amazon.com/dp/B0001AUFAO/?tag=p-policy-20)
-[amazon box="B0001AUFAO" template="horizontal"]
+
 https://www.youtube.com/watch?v=_qUA1lAN9pI
 ## [2. #2 Pick: Black-Flag 190255 32- Ounce Mosquito Fogger Fuel](https://www.amazon.com/dp/B001H1HI42/?tag=p-policy-20)
-[amazon box="B001H1HI42" template="horizontal"]
+
 https://www.youtube.com/watch?v=VYJ7t_N7h70&t=5s
 ## [3. #3 Pick: Ortho Home-Defense Backyard Bug and Mosquito Fogger](https://www.amazon.com/dp/B07GBGSH69/?tag=p-policy-20)
-[amazon box="B07GBGSH69" template="horizontal"]
+
 https://www.youtube.com/watch?v=QQsH1BUKum8
 ## [4. Makita PM7650H Mist Blower](https://www.amazon.com/dp/B00J3TT1RM/?tag=p-policy-20)
-[amazon box="B00J3TT1RM" template="horizontal"]
+
 Makita is good for commercial purposes especially if you have a wide area to cover.
 The good thing about this blower is that it has a powerful engine with a 367 HP. This is the MM4 heavy-duty engine that can work for hours non-stop.
 - In addition, it has a backpack design with strong straps to firmly hold it on your back as you proceed with the fogging process.
@@ -51,7 +51,7 @@ https://www.youtube.com/watch?v=7hJ8vaqfLgg
 Related:
 Bed Bug Bites Vs Mosquito Bites
 ## [5. Cutter 65704 Outdoor Fogger](https://www.amazon.com/dp/B003BB5M12/?tag=p-policy-20)
-[amazon box="B003BB5M12" template="horizontal"]
+
 The fastest way to eliminate the mosquitoes in the outskirts of your house- patios, decks, picnic areas, or backyards.
 Cutter
 kills by contact
@@ -70,7 +70,7 @@ Cons
 - Effective for a short period-20 seconds
 - At times it produces steam instead of fog
 ## [6. Burgess 960 Electric Insect Fogger](https://www.amazon.com/dp/B000CSYKJM/?tag=p-policy-20)
-[amazon box="B000CSYKJM" template="horizontal"]
+
 This is one of the most amazing foggers you will find in the market. For over 30 years, the brand has still maintained its quality and a good brand name.
 You can now say goodbye to those biting insects, mosquitoes, and other irritating insects.
 At least, this fogger has good coverage of 5,000 square feet. You can easily achieve this within 10 minutes if you properly observe the laid guidelines.
@@ -88,7 +88,7 @@ Pros
 Cons
 - Has to be heated first before using it
 ## [7. Hot Shot Indoor Fogger](https://www.amazon.com/dp/B00HH8HHHW/?tag=p-policy-20)
-[amazon box="B00HH8HHHW" template="horizontal"]
+
 Hotshot is a fogger only customized for use indoors and even on garage use. It is designed for both professionals and DIYer who want to get rid of annoying insects and mosquitoes indoors.
 The good thing with this fogger is that it remains active for up to a period of 2 months protecting your home against mosquitoes and other insects.
 Ideally, it kills by contacts making it the fastest way to eliminate flies, ants, mosquitoes, spiders among others.
@@ -105,7 +105,7 @@ Pros
 Cons
 - Suitable for indoor use only
 ## [8. CARDINAL Backpack Mosquito Fogger-3.5 Gallon](https://www.amazon.com/dp/B00HH8HHHW/?tag=p-policy-20)
-[amazon box="B078TX9NYM" template="horizontal"]
+
 For commercial mosquito foggers, cardinal takes the credit. It is particularly useful if you have large areas of land. In fact, you can cover an acre within 30 minutes making it both effective and reliable.
 On top of that, it is designed with a 25 ft. high reach for a faster fogging process.
 Designed with a backpack design, you can adjust the straps to easily fit into any kind of body shape and size. The backpack holds a 3.5 gallon with a ULV sanitizer for germs and viruses.
@@ -122,7 +122,7 @@ Cons
 Related:
 Gnat Repellents
 ## [9. EcoSMART Mosquito Fogger-14 oz.](https://www.amazon.com/dp/B00332WA14/?tag=p-policy-20)
-[amazon box="B00332WA14" template="horizontal"]
+
 When it is time to go eco-safe, EcoSMART fogger is the way to go. I enlisted this fogger because it is 100% organic and safe too.
 It is built with a non-toxic formulation that is safe for use around children and pets too.
 - These chemicals are rosemary oil, peppermint oil, and geraniol, and rosemary oil. This combination is known to produce a good fragrance when sprayed.
@@ -139,7 +139,7 @@ Pros
 Cons
 - Good for small areas
 ## [10. Tri Jet Non-Thermal Fogger](https://www.amazon.com/dp/B009SXBYV4/?tag=p-policy-20)
-[amazon box="B009SXBYV4" template="horizontal"]
+
 If you want a fogger with a good reputation, this is an excellent choice. With more than 30 years in the industry, this brand has undoubtedly marked its leading position.
 - To control mosquitoes and other biting insects, this atomizing/fogging machine is the way to go.
 - Being multi-purpose, Tri Jet is also ideal for odor control, mold control, insect control, and sanitation.

@@ -23,9 +23,9 @@ mosquito traps-mosquito-trap/)
 , or
 [repellents](https://pestpolicy.com/best-mosquito-repellent-for-yard/)
 . Check these top sprays.
-[amazon bestseller="Best Mosquito Yard Spray" items="2" template="table"]
+
 ## [**1. Spectracide Triazicide Landscape & Lawn Concentrate**](https://www.amazon.com/dp/B002ITJH82/?tag=p-policy-20)
-[amazon box="B002ITJH82" template="horizontal"]
+
 Having mosquitoes in your yard makes you vulnerable to numerous mosquito bites. You can effectively get
 rid of these yard invaders
 using a powerful insect killer like spectracide. The active ingredient is Gamma-Cyhalothrin, a very effective pyrethroid insecticide.
@@ -45,7 +45,7 @@ The Bad:
 - Cannot be used indoors
 https://www.youtube.com/watch?v=gRptFQALKiU
 ## [**2. Ortho Bug B Gon Mosquito Killer for Gardens & Lawns**](https://www.amazon.com/dp/B07GSG5F4G/?tag=p-policy-20)
-[amazon box="B07GSG5F4G" template="horizontal"]
+
 No mosquito can resist the power of
 Ortho Bug
 B Gon. As a popular insect pest killer brand, this product
@@ -68,7 +68,7 @@ The Bad:
 Related:
 Best Mosquito Trap
 ## [**3. Wondercide Natural Spray**](https://www.amazon.com/dp/B074HZHPD9/?tag=p-policy-20)
-[amazon box="B074HZHPD9" template="horizontal"]
+
 If youre looking for a 100% natural remedy for your mosquito infestation, then wondered is a great option. Its a powerful formulation containing organic ingredients that make it safe for the environment, humans, and animals.
 The active ingredient is cedar, which doubles as a
 pest killer and repeller
@@ -85,7 +85,7 @@ The Good:
 The Bad:
 - Will not last long after application
 ## [**4. Cutter Backyard Spray**](https://www.amazon.com/dp/B07TD1FTLT/?tag=p-policy-20)
-[amazon box="B07TD1FTLT" template="horizontal"]
+
 With lambda-cyhalothrin as its active ingredient, Cutter Backyard Spray will be a perfect solution for the mosquito infestation in your yard or lawn.
 The active ingredient is in the class of pyrethroid chemical insecticides, which have proven effective against a wide range of pests. Thus, it will
 kill other pests like fleas
@@ -108,7 +108,7 @@ The Bad:
 - Not environmentally-friendly
 - For outdoors only
 ## [**5. Summit Mosquito Barrier Spray**](https://www.amazon.com/dp/B00B7WO1P0/?tag=p-policy-20)
-[amazon box="B00B7WO1P0" template="horizontal"]
+
 If you want a mosquito spray to cover a large area, summit mosquito barrier spray has got you covered - allowing effective
 [**mosquito m**anagement](https://repository.arizona.edu/handle/10150/625410)
 .
@@ -124,7 +124,7 @@ The Good:
 The Bad:
 - Contains chemicals
 ## [**6. Bonide Mosquito Beater Spray**](https://www.amazon.com/dp/B000A0PZPA/?tag=p-policy-20)
-[amazon box="B000A0PZPA" template="horizontal"]
+
 To get rid of mosquitoes, flies, gnats, and other pests from your yard and lawn, you need a powerful insect killer and repeller. Bonide mosquito beater spray does exactly that. It is a natural insect killer containing sodium lary sulfate, cedar oil, lemongrass oil, citronella oil, and geranium oil.
 These ingredients produce a formulation that will
 effectively kill
@@ -139,7 +139,7 @@ The Good:
 The Bad:
 - Limited to outdoor use only
 ## [**7. Adams Plus Yard Spray**](https://www.amazon.com/dp/B001OVGIUU/?tag=p-policy-20)
-[amazon box="B001OVGIUU" template="horizontal"]
+
 A quality insect killer comes in handy when you have a pest infestation. Pests such as mosquitoes, fleas, ants, crickets, and
 ticks can be killed and repelled with a powerful insect killer
 like Adams.

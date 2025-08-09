@@ -18,7 +18,7 @@ This is a [Hornet](https://pestpolicy.com/hornet-bees-and-wasp-removal-tacoma/) 
 - It can get nastier, especially if there are kids or anyone with an allergic issue to their stings (insect venom). I will discuss the ultimate[guide for the Hornet Nest](https://pestpolicy.com/how-to-find-a-roach-nest/)Removal.
 - Any movement or activity near the nest might lead the hornets to launch an aggressive mob and chase down and eventually stifle the offender.
 This launch of aggression can be for both humans and pets. The existence of this hornet nest is indeed a nuisance and deserves to be dealt with full throttle. If you are careful and concern for your family, you can rid of them yourself and that too very easily.
-[amazon bestseller="Best Hornet Killer" items="2" template="table"]
+
 ## #1: Take Safety Measures
 There are countless ways of
 [keeping the hornets away](https://entomology.ca.uky.edu/ef620)

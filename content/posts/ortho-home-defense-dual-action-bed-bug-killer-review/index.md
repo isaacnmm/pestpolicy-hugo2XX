@@ -19,7 +19,7 @@ bed bug sprays
 we recommend for you. The aerosol spray insecticide is specifically designed to kill bed bugs in your indoor spaces.
 - Its active ingredients are Imidacloprid (0.05%), n-Octyl bicycloheptene dicarboximide (1.00%), and 2-dimethyl-3-(2-methylprop-1-enyl) Cyclopropanecarboxylate.
 - You can use this insecticide as a spot treatment around or on your mattress seams, luggage, carpets, suitcases, or bed frames. So, let's get down to the review.
-[amazon bestseller="Ortho Home Defense Dual-Action Bed Bug Killer" items="2" template="table"]
+
 ## #1:�Review Summary
 Ortho Home Defense Dual-Action is a fast-acting (and long-lasting)
 formula to defend your home or office space from bed bugs

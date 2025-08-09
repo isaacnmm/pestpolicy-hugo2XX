@@ -22,7 +22,7 @@ on your cat or dog. You'll not use chemicals, and thus it's a non-toxic process.
 pet owners
 . I recommend inspecting your pets if you find the pet starts frequently scratching, losing hair, or restless than usual.
 *If you need a short answer, place your cat/dog on a white or light-colored towel. Comb through your pet's hair slowly - start at the nip of the neck and work your way down. Make sure to cover the base of the back and the neck area. Finally, clean and vacuum the spaces you've used for flea combing.�*
-[amazon bestseller="Best Flea Comb" items="2" template="table"]
+
 ## How to Use a Flea Comb (Step by Step)
 ### Step 1: Take a Half-full Bowl or Bucket with Hot Soapy Water
 First, you'll need to put a half-filled bowl or bucket with hot soapy water. The

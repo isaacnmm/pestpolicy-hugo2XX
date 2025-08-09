@@ -20,7 +20,7 @@ that are believed to have strong feelings and emotions towards human beings and 
 **Snake can feel hungry, it can get angered (sad), it can generate fear, it can be happy or respond to touch. The response to these feelings may be more aggressive or calm according to the type snake you are dealing with.**
 Related:
 [Do Snakes Have Bones?](https://pestpolicy.com/do-snakes-have-feelings/)
-[amazon bestseller="Best Cages for Snakes" items="2" template="table"]
+
 ## Details: Do Snakes Have Feelings?
 Various scientific researchers have proven that snake have feelings. The can show hunger, anger, happiness, fear or respond to touch. However, most snakes show varying emotional reactions towards some of these feelings.
 ### **1. Anger feelings**

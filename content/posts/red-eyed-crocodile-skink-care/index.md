@@ -24,7 +24,7 @@ is a shy crepuscular lizard. This means that it is a type of lizard that is most
 Related:
 [Are Leopard Geckos Nocturnal](https://pestpolicy.com/are-leopard-geckos-nocturnal/)
 ?
-[amazon bestseller="Best Food for Lizards" items="2" template="table"]
+
 ## Caresheet for Your Red Eyed Crocodile Skink
 ### 1. Housing
 The Red-eyed croc skinks are mainly found in New Guinea and other locations with cool and moist weather. These creatures will climb onto the low-lying decor and branches but they aren't huge climbers.

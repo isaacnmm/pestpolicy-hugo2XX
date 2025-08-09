@@ -18,7 +18,7 @@ How do fleas mate? If you are unfortunate enough to be suffering a flea outbreak
 control the fleas effectively
 .
 In this article, we will take a detailed look at how these pests reproduce - there are clear signs to show if fleas infest your house or yard.
-[amazon bestseller="Best Flea Killers" items="2" template="table"]
+
 ## How Do Fleas Mate? 7 Quick Sex Life Tips
 One of the most notable things about many
 fleas

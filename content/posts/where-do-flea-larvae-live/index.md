@@ -24,7 +24,7 @@ You may try
 these steam cleaners
 .
 
-[amazon bestseller="Best steam cleaner for fleas" items="2" template="table"]
+
 ## Requirements for the Flea Larvae to Thrive?
 The habitat requirements for the flea larvae to thrive - not that these won't be widespread for the flea larvae. These worm-like creatures will require some unique substrates to allow better hatching and maturing.
 You'll find such appropriate habitats either outdoors or indoors - but from the eggs in the flea population - just a few will get to the adult stage.

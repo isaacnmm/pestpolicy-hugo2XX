@@ -21,7 +21,7 @@ Could be you have come across a number of them at market place or you grow vario
 bearded dragons can eat them
 . It may also concern you if beardies can eat mango peels, leaves or stems/backs.
 **So, the question here is, can Bearded Dragons Eat Mangoes? The direct answer is YES! Beardies feed on mangoes without any problems. Actually, mangoes are rich in minerals and Vitamins (needed for growth and immune boost).�**
-[amazon bestseller="Food for Bearded Dragons" items="2" template="table"]
+
 ## Details: Can Bearded Dragons Eat Mango? 7 Secrets
 *Moreover, mangoes have relatively low water content (thus prevent over hydration) and it is an aphrodisiac fruit (improves beardies sexual activities). *
 *However, mangoes should be supplemented with other meals as they contain Low calcium: phosphorous ratio, relatively high sugar level, moderate oxalate level as well as sight acidic content that may impair beardies body functionalities if fed in excess.*

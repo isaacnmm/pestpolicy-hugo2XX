@@ -19,7 +19,7 @@ What [are](https://pestpolicy.com/are-blue-tailed-lizards-poisonous/)
 ? This is the right place for you because we have prepared the right answers to this question.
 - Nobody wants bugs in their homes, but sometimes they are inevitable. There are many pantry bugs common in our kitchen, stores, and other parts of our household.
 But today I want to address the small brown insects that are slowly become a menace in our homes.
-[amazon bestseller="Best Spray for Pantry Bugs" items="2" template="table"]
+
 ### **What Are Small Brown Insects In My Kitchen?**
 The small brown insects in your kitchen could be the
 many kinds of pantry bugs

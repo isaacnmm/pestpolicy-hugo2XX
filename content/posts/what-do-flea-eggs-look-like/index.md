@@ -20,7 +20,7 @@ bitten by a bed bug
 *But to control flea eggs, you must effectively know their physical appearance and places where theyre hidden  including differences between flea eggs and flea dirt.�*
 *In summary, [fleas](https://pestpolicy.com/flea-eggs-vs-dandruff/) eggs are tiny specs (0.5 lengths by 0.25 mm width), rounded-oval shape, with a flexible-chorion and softshell. *
 *Adult females fleas produce eggs 1 to 2 days after taking a full blood meal and mating. [Flea](https://pestpolicy.com/how-long-do-flea-eggs-take-to-hatch/) eggs will be laid on a host like cats or dogs, but they'll fall off shortly (within hours).�*
-[amazon bestseller="Best Flea Killers" items="2" template="table"]
+
 ## Flea Eggs - What Do Flea Eggs Look Like?
 ### 1. Size - How big is Flea Eggs?
 Flea eggs, particularly

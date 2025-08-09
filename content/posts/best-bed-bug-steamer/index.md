@@ -38,7 +38,7 @@ The steamer's detachable hose and attachments make it easy to reach tight spaces
 - **Key features:**Versatile design, detachable hose, affordable price
 - **Best for:**Moderate infestations, general cleaning
 ## [3.Atrix - VACBP1 HEPA Backpack Vacuum Corded](https://www.amazon.com/dp/B004LYNU3K/?tag=p-policy-20)
-[amazon box="B004LYNU3K" template="horizontal"]
+
 Atrix Bug Sucker HEPA is an amazing commercial-grade
 bed bugs
 steamer loved by hotel managers, professional pest exterminators, industrial actors, and many homeowners.
@@ -54,7 +54,7 @@ Luckily, you won't need to replace this streamer's HEPA bag since it has a large
 shark pet hair vacuum
 .
 ## [**4. Vapamore MR-75 Amico Handheld Steamer (43 PSI)**](https://www.amazon.com/dp/B00EMHOIFK/?tag=p-policy-20)
-[amazon box="B00EMHOIFK" template="horizontal"]
+
 This Vapamore MR-75 Amico will help kill bed bugs in addition to sanitizing and cleaning your living or workspaces - including
 [bed bug larvae](https://pestpolicy.com/baby-bed-bugs/)
 .
@@ -63,7 +63,7 @@ Luckily, the steamer uses no chemicals and high pressure (43.5 psi). Many suitab
 The steamer has the 1000 Wheater element that'll generate steam at about 210 Degrees. It weighs only 3.5 pounds and is thus lightweight and highly portable.
 You can quickly steam to sanitize the tiles, floors, car seats and mats, and carpets.
 ## [5. Polti Vaporetto Smart 40 Bed Bug Steamer (58 PSI)](https://www.amazon.com/dp/B079GSTMRR/?tag=p-policy-20)
-[amazon box="B079GSTMRR" template="horizontal"]
+
 Next up is this Polti Vaporetto Smart 40 that's feature-rich just comparable to the MR-100 Primo compact and produces a high-pressure stream to easily
 [kill bed bugs and their eggs](https://pestpolicy.com/how-to-kill-bed-bug-eggs/)
 in your house business premises.

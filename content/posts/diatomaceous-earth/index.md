@@ -20,7 +20,7 @@ Diatomaceous [earth](http://npic.orst.edu/factsheets/degen.html)
 And now you are wondering what this Diatomaceous earth is. This article is going to lay down all the facts about Diatomaceous earth and its benefits.
 **Definition:**
 Diatomaceous earth is a naturally occurring siliceous sedimentary rock made from fossilized tiny aquatic organisms. These tiny organisms are called diatoms, and they contain shells of single-cell hard-shelled algae-like water plants. Diatomaceous easily crumbles to form a white to an off-white fine powder.
-[amazon bestseller="Diatomaceous Earth" items="2" template="table"]
+
 ## Diatomaceous Earth - Uses, Side Effects, Interactions
 This powder leaves a dusty effect on your hands.
 1. **Other names:**DE, diatomite. Read Also:Does Diatomaceous Earth Kill Bed Bugs?

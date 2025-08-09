@@ -27,7 +27,7 @@ Hobo spiders (Tegenaria agrestis) are aggressive
 - **Males:**The males of the species are typically shorter than 11 mm, with swollen appendages. The appendages are actually their reproductive organs.
 - **Females: **The female hobos have a length ranging from 11 mm - 14 mm. Their abdomens are larger than that of their male hobo spiders.
 So, let's get into the details!
-[amazon bestseller="Best Spider Killer" items="2" template="table"]
+
 ## What Is A Hobo Spider? Are they Serious?
 **So, how can you tell a hobo spider? **
 To tell if a spider is a hobo spider, look at its front body. The front body will be brown (with darker-brown markings) and it has brown legs and yellow abdomen markings.

@@ -24,9 +24,9 @@ infested with bed bugs-spread/)
 pictures of [bed bugs](https://pestpolicy.com/pictures-of-bed-bugs/)
 .
 # **In a Rush? View my Best Bed Bug Powder**
-[amazon bestseller="Best Bed Bug Powder" items="2" template="table"]
+
 ## [1. Our #1 Pick: Harris Bed Bug Killer - Diatomaceous Earth](https://www.amazon.com/dp/B005GXKEUM/?tag=p-policy-20)
-[amazon box="B005GXKEUM" template="horizontal"]
+
 The power of this powder is immense hence making it worthy of being mentioned in this list. It is effective for treating hard-to-reach areas in your house and bed.
 - This product's application is easy since it comes with a puffer that enables it to be used right away.
 - Itworks fastas the insects that get into contact with it will die after a maximum of 48 hours.
@@ -44,10 +44,10 @@ After using the product, you need to clean and air the areas to get rid of the r
 Related:
 Best Bed Bug Spray
 ## **2. #2 Pick: Safer-51703 DE Insect, Ant, & Bed Bug Killer**
-[amazon box="B01D60GAW2" template="horizontal"]
+
 https://www.youtube.com/watch?v=T1HXxG54XOE
 ## [3. #3 Pick: Harris Diatomaceous Earth Bed-Bug Killer](https://www.amazon.com/dp/B06WD7RL6L/?tag=p-policy-20)
-[amazon box="B06WD7RL6L" template="horizontal"]
+
 This powder is one of the best since it provides a thorough treatment.
 It can target hard-to-reach areas hence ridding all
 bed bugs and their eggs
@@ -65,7 +65,7 @@ bed bugs to hide
 and reproduce.
 https://www.youtube.com/watch?v=43lJCkyt-mc
 ## [4. JT Eaton Crawling Insect Killer Powder](https://www.amazon.com/dp/B00EOMFSU2/?tag=p-policy-20)
-[amazon box="B00EOMFSU2" template="horizontal"]
+
 If you have
 bed bugs and other insects
 bothering your comfort, you can easily use this powder to rid them completely.
@@ -82,7 +82,7 @@ For effectiveness, you want to apply this powder in holes and crevices that are
 usually used by bed bugs
 and other insects to hide and breed.
 ## [5. HotShot Bed Bug Killer powder](https://www.amazon.com/dp/B01MUGRY5C/?tag=p-policy-20)
-[amazon box="B01MUGRY5C" template="horizontal"]
+
 This product
 kills bed bugs when they come into contact
 with it. It leverages the diatomaceous earth to
@@ -102,7 +102,7 @@ can never get resistant to this powder, so you can use it for many years and get
 Related:
 Bed Bug Bites (Pictures)
 ## [6. CimeXa Insecticide Dust Bed Bug Powder](https://www.amazon.com/dp/B00FHNAFHI/?tag=p-policy-20)
-[amazon box="B00FHNAFHI" template="horizontal"]
+
 This is one of the few
 bed bug powders that work
 by dehydrating the bed bugs. It also contains ingredients that target the

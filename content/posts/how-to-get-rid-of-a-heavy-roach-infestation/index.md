@@ -19,7 +19,7 @@ layout: post
 1. [Contact roach killers](https://pestpolicy.com/best-roach-killer-for-apartments/)and Roach Repellents,
 2. Roach killers with secondary kill effect and Gel baits (contain both an attractant and roach poison), and
 3. Diatomaceous earth powder(breaks the roaches' exoskeleton and fatally removes its body fluid).
-[amazon bestseller="Get Rid of a Heavy Roach Infestation" items="2" template="table"]
+
 *Side note: To control German roaches effectively, cut the bug's access to water by cleaning clogged drains or repairing leaking plumbing work.*
 - Further,* for roach prevention, you can use secure food storage and thoroughly clean your spaces daily.*
 ## **1. Step 1: Use Glue Strips and Flashlight**

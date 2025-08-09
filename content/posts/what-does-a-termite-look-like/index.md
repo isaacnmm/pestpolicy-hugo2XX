@@ -26,7 +26,7 @@ carpenter ants
 .�So, have you noticed some
 cylindrical, dry, and brown tunnels around the house or yard? Well, these are signs of an ant infestation- maybe dry-wood termites or subterranean termites. But what does a termite look like?
 *In short, termites are hemimetabolous insects that are 1/4 inch long (for subterranean) to 1/2 inch long for (dry woods and damp woods), have a pair of wings (both of equal length), straight antennae and soft body, thick waist, and short legs.�*
-[amazon bestseller="Best Termite Killers" items="2" template="table"]
+
 ## What Does A Termite Look Like? Termite Identification
 *Despite that swarming termites are mainly darker while worker termites look lighter - termites' color will be anything from white to light brown. But western dry-wood termite will have reddish-brown heads while western subterranean come with yellowish heads.�*
 ## **a. Termite's Color�**

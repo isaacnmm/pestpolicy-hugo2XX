@@ -18,7 +18,7 @@ Today Ill discuss my short investigation with vinegar and baking soda to see if 
 [YouTubers Claim](https://www.youtube.com/watch?v=4u0sMRKb0NY)
 . The two ingredients are readily available and will have a bubbling reaction.
 *Summary: It's a thumbs down for the�vinegar and baking soda in unclogging blocked drains and de-scaling pipes. A�recent experiment proves that the bubbling (Sodium Acetate + Water) can't de-clog your drain or remove the clogging gunk deep down the drain. So, I'll stick to�reliable drain cleaners.�*
-[amazon bestseller="Best Drain Cleaner" items="2" template="table"]
+
 ## Vinegar + Baking Soda = Sodium Acetate + Water
 When you add vinegar to Baking soda, youll create a bubbling mix. However, the bubbling is just producing Sodium Acetate + Water, which will not do a reliable deep cleaning.
 With the vinegar plus Baking soda, its mix will create just

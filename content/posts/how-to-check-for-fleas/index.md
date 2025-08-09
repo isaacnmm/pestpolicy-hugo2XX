@@ -23,7 +23,7 @@ Since I acquired my dog pet: my fluffy king, I have had numerous challenges. Som
 However, none of the above challenges with my dog has been
 disturbing as seeing fleas
 running on my pet. I tried numerous flea treatments, but the fleas always came back.
-[amazon bestseller="Best Killer for Fleas" items="2" template="table"]
+
 ## How to Check for Fleas? 7 Steps (with Pictures)
 To check for dog fleas on your pet, you will require the following tools; a
 flea�comb

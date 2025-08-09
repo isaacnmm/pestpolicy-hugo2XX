@@ -23,7 +23,7 @@ In this post, I seek to verify these claims by undertaking a thorough review of
 Bed Bug
 Bully.�So, let's get started!
 
-[amazon bestseller="Bed Bug Bully" items="2" template="table"]
+
 ## Summary: Bed Bug Bully Review (Full Analysis)
 **My Overall Review:�Only Suitable for Treating Small to Medium Bed Bug Infestations.�**
 **1.**

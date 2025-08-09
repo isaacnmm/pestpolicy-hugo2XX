@@ -20,18 +20,18 @@ from your house, especially where they live in clusters.
 - Though the vacuum wont[get rid of all bedbugs](https://onlinelibrary.wiley.com/doi/abs/10.1002/ps.4084), it will capture as many bedbugs as possible. So, which is the best vacuum for bedbugs?
 Well, in this article, I have featured the best vacuum cleaners in the market. Also included is a buying guide to help choose the best device for your bedbug menace.
 # **In a Hurry? View Our top Shower Drain Cleaners**
-[amazon bestseller="Best Vacuum Cleaners" items="2" template="table"]
+
 ## [1. Our #1 Pick:BISSELL 2252 Green Pet Upright & CleanView Swivel](https://www.amazon.com/dp/B07MBQX9RD/?tag=p-policy-20)
-[amazon box="B07F6N3RT6" template="horizontal"]
+
 https://www.youtube.com/watch?v=s1j73hl5E4Q
 ## **2. #2 Pick: Shark-NV356E S2 Pet-Power, Lift-Away & Upright Vacuum**
-[amazon box="B005KMDV9A" template="horizontal"]
+
 https://www.youtube.com/watch?v=ZjGMGrDeCxk
 ## [3. #3 Pick:Eureka-NEU182B Upright, Bagless & PowerSpeed Vacuum](https://www.amazon.com/dp/B07H65Z3G2/?tag=p-policy-20)
-[amazon box="B083C2DTKX" template="horizontal"]
+
 https://www.youtube.com/watch?v=Mtb_t25WwAo
 ## [**4. Atrix - VACBP1 Corded Backpack Vacuum with HEPA Filter**](https://www.amazon.com/dp/B004LYNU3K/?tag=p-policy-20)
-[amazon box="B004LYNU3K" template="horizontal"]
+
 To make your bedbug vacuuming projects more effective, you need a powerful vacuum cleaner like Atrix VACBP1.
 With its 12 Amps motor and 110 Volt power rating, you will get a powerful suction to remove bedbugs, bedbug eggs, and feces.
 This is an ideal device for removing bedbugs from homes, schools, offices, hotels, warehouses, etc.
@@ -51,7 +51,7 @@ The Bad:
 - The power cord is only 1.5 feet long
 https://www.youtube.com/watch?v=x9mJjzGQ5jg
 ## [**5. Kenmore - 81614 Lightweight HEPA Filter Canister Vacuum**](https://www.amazon.com/dp/B075F44Y4C/?tag=p-policy-20)
-[amazon box="B075F44Y4C" template="horizontal"]
+
 If you want a vacuum cleaner for removing bedbugs and other debris like dirt and pet hair, Kenmore 81614 is a good choice.
 - You can use it to vacuum your carpets, furniture, floor, ceiling, and other places.
 The high suction power is made possible by the 2 motor configurations. This makes it possible to handle large vacuuming tasks, including deep cleaning.
@@ -73,7 +73,7 @@ The Good:
 The Bad:
 - It's loud
 ## [**6. Atrix - AHSC-1 Canister Vacuum 2 Quart with HEPA Filter**](https://www.amazon.com/dp/B00EYBAMZ4/?tag=p-policy-20)
-[amazon box="B00EYBAMZ4" template="horizontal"]
+
 Smaller and more compact than the Atrix - VACBP1, this vacuum cleaner offers a good remedy for vacuuming bedbugs, dirt, and small pests.
 - Its a portable device with a handle for carrying around and wheels for dragging on the surfaces.
 - It makes use of a variable speed motor, which enables you to vary the suction power during various vacuuming tasks.
@@ -92,7 +92,7 @@ The Good:
 The Bad:
 - Small debris bag
 ## [**7. GV Backpack Vacuum 8 Quart**](https://www.amazon.com/dp/B004OZ4DKA/?tag=p-policy-20)
-[amazon box="B004OZ4DKA" template="horizontal"]
+
 If youre looking for a vacuum cleaner that you can conveniently carry on your back, get this GV 8 Quart vacuum cleaner -
 [comparable to crossfire](https://pestpolicy.com/crossfire-for-bed-bugs/)
 .
@@ -113,7 +113,7 @@ The Good:
 The Bad:
 - Shorter hose
 ## **8. Kenmore - 21814 Elite Canister Vacuum**
-[amazon box="B075F8DZQV" template="horizontal"]
+
 A powerful vacuum cleaner will readily dislodge bed bugs from carpets, floor, upholstery, and deep crevices.
 Kenmore Elite 21814 vacuum cleaner does exactly that. It makes use of a two-motor system to lift and suck bedbugs and debris from surfaces.
 The four cleaning attachments allow you to vacuum all places in your house conveniently.
@@ -131,7 +131,7 @@ The Good:
 The Bad:
 - A bit heavy
 ## [**9. Bissell Zing  4122 Canister Vacuum Bagged**](https://www.amazon.com/dp/B00AZBIV9Q/?tag=p-policy-20)
-[amazon box="B00AZBIV9Q" template="horizontal"]
+
 Get rid of bedbugs by vacuuming your house with a Bissell Zing vacuum cleaner.
 The powerful suction from its 10 Amps motor will lift and suck bedbugs and other debris from carpets, floor, upholstery, and other surfaces.
 - The suction power can be varied to suit various vacuuming jobs.
@@ -148,7 +148,7 @@ The Good:
 The Bad:
 - You use non-replaceable bags
 ## [**10. Housemile - 810 UV Vacuum Cleaner**](https://www.amazon.com/dp/B07GK17ZT8/?tag=p-policy-20)
-[amazon box="B07GK17ZT8" template="horizontal"]
+
 This handheld vacuum cleaner gives you the power to suck bed bugs, mites, and other small parasites.
 Unlike many vacuum cleaners, Housemile is equipped with a powerful UV light that kills bedbugs on contact.
 A high-frequency vibration combined with the UV light beam helps in agitating and dislodging bed bugs from their hideouts.

@@ -18,7 +18,7 @@ Does vinegar kill bed bugs?�Bed bug infestations have seen an increase in natu
 essential oil for bed bugs/)
 . Among those in everyday use is vinegar.
 *The simple answer is  YES. A highly-concentrated solution of white vinegar will kill bed bugs on contact. The acetic acid in vinegar kills bed bugs by interfering with the PH levels in their internal fluids.�*
-[amazon bestseller="Best Bed Bugs Killers" items="2" template="table"]
+
 *Also, vinegar has a pungent smell that repels bed bugs, including killing bed bug nymphs.��*
 ## **Details: Does Vinegar Kill Bed Bugs? Home Remedy Guide�**
 However, research has shown that vinegar can be used as a pesticide because of its acidic properties. Also, the antibacterial properties of vinegar make it an ideal substance for dissipating unwanted smells.

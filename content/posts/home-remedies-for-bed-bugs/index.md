@@ -17,7 +17,7 @@ layout: post
 If a bed bug has ever bitten you, you will agree with me that these bloodsuckers instill painful injections that may even lead to allergic or abnormal swelling.
 *Some home remedies for Bed bugs include the use of Diatomaceous Earth, Steam treatment, Borax, Hairdryer, Vacuuming, Heat treatment (very high or low temperature), Use of oil extracts (Tea Tree Oil/Peppermint Oil), Baking soda, and Hydrogen peroxide.*
 *Moreover, Bed bug Herb such as Sweet Flag, Lavender, Mint Leaves, Peppermint Leaves, Tea Tree Oil, Lemongrass, and Black Walnut Tea are best for killing and keeping off bed bugs plus baby bed bugs in your home.�*
-[amazon bestseller="Best Bed Bugs Killer" items="2" template="table"]
+
 ## Details: 9 Home Remedies for Bed Bugs
 ### 1. Use Extreme Heat or Extreme Cold
 One of the endless ways of killing bed bugs is by use of high or low temperature. Temperatures above 120 degrees Fahrenheit will destroy the entire infestation of bed bugs (eggs, larvae, and adults) in your home. To achieve this, you will need to carry out the following:

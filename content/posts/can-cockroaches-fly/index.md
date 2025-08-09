@@ -24,7 +24,7 @@ Notably, most of the roaches will mainly use the wings in stabilizing themselves
 : of the 4000 roach species, just about 40 of them are classified as pests. Choose one of the
 top roach killers
 that'll help you control most of the pests.
-[amazon bestseller="Best Roach Killer" items="2" template="table"]
+
 ## Can Cockroaches Fly? All Roaches deBugged
 **Cockroach Species**
 **Male**

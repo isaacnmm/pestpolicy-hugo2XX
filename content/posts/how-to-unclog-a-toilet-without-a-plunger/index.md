@@ -21,7 +21,7 @@ However, the�poop smell and water flushing might discourage you from using you
 [plunger is for your kitchen sink](https://pestpolicy.com/how-to-use-a-plunger/)
 .
 Therefore, in this post, you'll learn the DIY tips on unclogging your toilet without a plunger or having to call a plumber.
-[amazon bestseller="Best Drain Cleaner" items="2" template="table"]
+
 ## **Method 1: Mixing baking soda and vinegar�**
 *Requirements:�Baking soda, Vinegar, Small bucket, and Hot water  (not boiling water)*
 This method is used for soft blockages.

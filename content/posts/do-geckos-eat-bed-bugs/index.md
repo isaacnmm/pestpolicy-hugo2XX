@@ -20,7 +20,7 @@ Below I answer this question - do geckos eat bed bugs or what can you use to ext
 See Also:
 Baby bed bugs
 .
-[amazon bestseller="Best Geckos Killers" items="2" template="table"]
+
 ## Details: Do Geckos Eat Bed Bugs?
 Some Lizards like the [Gecko](https://pestpolicy.com/do-geckos-eat-roaches/) will [eat](https://pestpolicy.com/do-cats-eat-lizards/) bugs including bed bugs - great bed bugs extermination. The pest extermination methods to use on bed bugs will reduce the sucking of human blood.
 Bed bugs (Cimex hemipterus or Cimex lectularius) will invade your clothing and mattresses - these will cause bites. You may result in skin-related issues, blisters, and rashes.

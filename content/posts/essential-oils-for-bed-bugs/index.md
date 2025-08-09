@@ -20,7 +20,7 @@ Whenever conventional bed bug treatments fail, many homeowners opt for natural t
 . But do they really work effectively?
 *Well, many essential oils have been in use for pest control for decades. These include lavender, tea tree oil, thyme, peppermint, among others. *
 *Let's get started!�*
-[amazon bestseller="Best Bed Bugs Killers" items="2" template="table"]
+
 ## Essential Oils For Bed Bugs - Top 9 Oils
 ### **1. Lavender oil for Bed Bugs**
 As an essential oil, lavender has been in use for many years for pest eradication. Although this floral herb has a pleasant fragrance to humans, it is

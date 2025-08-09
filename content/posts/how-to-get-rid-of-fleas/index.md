@@ -19,7 +19,7 @@ The few
 you see on your dog or cat only make up 5 percent of the total [flea](https://pestpolicy.com/getting-rid-of-fleas-in-the-carpet/) population in your home.
 There is a whole bunch of them hiding on your pets bed, carpet, furniture, and even in your own bed. Here are some great methods on how to get rid of [fleas](https://pestpolicy.com/how-to-get-rid-of-flea-eggs-on-cats/) fast.
 Beneficial nematodes are highly effective in getting rid of fleas at home and in the yard. Unlike chemical treatments, the good news is that nematodes are completely safe for animals, pets, people, and plants.
-[amazon bestseller="Best Flea Killer" items="2" template="table"]
+
 Read Also:
 Does Baking Soda Kill Fleas
 ## 1. How to Get Rid of Fleas in** Bed -�**Flea Floggers/Flea Bombs

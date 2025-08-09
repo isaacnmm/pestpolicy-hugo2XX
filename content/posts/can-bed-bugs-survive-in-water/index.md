@@ -17,7 +17,7 @@ layout: post
 But can bed bugs survive in water? Washing clothes, bedding, and curtains regularly are perceived as one way of containing bed bugs. Washing is especially useful when you use water together with an effective bleach.
 **Well, bedbugs will quickly die when immersed in water because of the inability to breathe - see bed Bugs Images.�However, whenever they float on the surface of the water, bugs are likely to survive since they can breathe - but can baby bed bugs?�**
 **Need a reliable bed bugs killer. See these quality sprays.�**
-[amazon bestseller="Best Bed Bug Spray" items="2" template="table"]
+
 ## **Details: Can Bed Bugs Survive in Water? Scientist Results�**
 Whether bedbugs can survive in water depends on several factors. First, a recently fed bedbug tends to be heavy and takes the shape of a balloon. These two qualities make the bedbugs to sink when exposed to a pool of water.
 When submerged in water, the

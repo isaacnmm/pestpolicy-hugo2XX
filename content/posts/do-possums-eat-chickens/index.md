@@ -22,7 +22,7 @@ So, you're wondering really 'do possums eat chickens?' Well, Yes, possums will s
 - You'll also notice that they have a hairless tail, black eyes, and pink nose, and pointed faces.
 To repel the possums, you may position ammonia-coaked rags near the chikcen coop or spray any of these rodent repellents...
 
-[amazon bestseller="Best Ammonia to Repel Possums" items="2" template="table"]
+
 ## Do Opossums or Possums [Eat](https://pestpolicy.com/do-cats-eat-lizards/) Chickens?
 As noted above, possums and opossums will attack and eat your chickens. So, YES, simply put, possums will eat chickens. Their strong teeth enable them to tear down prey's bones and flesh - including from dead animals and chickens.
 - While uncommon, possumslike raccoons will eat mature hens(about 20 in a night since they are large & intimidating) but may regularly prey on chicken eggs and their young chicks.

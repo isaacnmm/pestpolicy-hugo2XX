@@ -22,7 +22,7 @@ Have you ever woken up with a bite/s on your body and wondered what could be the
 - **Upon bite identification, it's necessary to undertake proper bite treatment. **
 Importantly, carry out bedbug/spider prevention measures within your area in order to curb such occurrences in the future.
 **Check these Best Spider Spray.**
-[amazon bestseller="Best Spider Killers" items="2" template="table"]
+
 ## Spider Bite Vs Bed Bug Bite: Top 7 Difference?
 ### a. Physical appearance
 Bedbug's bite is usually small and appears as a reddish bump on the skin surface.

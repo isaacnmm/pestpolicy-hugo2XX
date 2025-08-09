@@ -22,7 +22,7 @@ will cause your dogs to scratch and shake their ears very frequently. They live 
 are common mites that can be transmitted from dogs to humans. So, you might be worried about ear mites being transmitted from your dogs to your family.�Related:
 Medicine for Ear Mites in Cats
 .
-[amazon bestseller="Ear Mites from Dogs" items="2" template="table"]
+
 ## Details: Can Humans Get Ear Mites from Dogs? Symptoms
 Dogs are prone to ear mites, especially the
 *Otodectes cynotis*

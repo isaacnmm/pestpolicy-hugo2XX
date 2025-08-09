@@ -17,7 +17,7 @@ Could be you have come across lizards in a pond, river, sea, ocean, or stagnant 
 * can lizard Swim?�*
 **The direct answer is, YES! Lizards can swim in water bodies including rivers, seas, oceans, or pods. These reptiles use their tail to propel themselves forward when swimming plus use front limbs for vertical movement. **
 **Some lizards like Gecko can even walk on water. Lizard, they're vertebrates, such as Marine Iguanas can swim in deep seas or oceans down to the floor in search of food while holding their breath for 45 minutes.�**
-[amazon bestseller="Best Food for Lizards" items="2" template="table"]
+
 ## Details: Can Lizards Swim? Can they Drown? Movement
 Lizards can swim. The swimming capability varies from one species to another and is determined by body size, shape and length of the tail. Some lizard species such as Gecko and skinks can walk or run on the water bodies.
 Marine Iguana lizards are known to swim in deep waters and can hold its breath for over 45 minutes while feeding on its prey at the floor of sea or ocean. Lizard such as sandfish or

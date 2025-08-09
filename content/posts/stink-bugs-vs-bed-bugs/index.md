@@ -29,7 +29,7 @@ bed bug sprays
 . You can also check
 roach killers
 .
-[amazon bestseller="Best Bed Bug Killers" items="2" template="table"]
+
 ## Comparison: Stink Bugs Vs. Bed Bugs
 ### 1. Feeding mechanism
 Bed bugs are blood-sucking in nature. Bed bugs feed on blood that makes them look round from their initial flat shape.

@@ -28,7 +28,7 @@ steamers
 *When you squash a bed bug, it leaves bed bug eggs, a bloodstain plus a terrible odor. *
 *Bed bugs, like cooked pea or beans, will be easy to squash. But baby bed bugs will be easier to crash - when they've sucked blood.�*
 *You may squash or burst bed bugs with your fingers or shoe leaving behind a red stain from the host's blood.�*
-[amazon bestseller="Best Bed Bugs Killers" items="2" template="table"]
+
 ## Details: What Happens When You Squish a Bed Bug?
 When you squash a bed bug that has freshly fed from its host, it'll leave blood and bloodstains on your finger. Any bed bug that hasn't sucked blood for some time will have a hard shell - this means that it won't squash easily.
 But the nymph's exoskeleton is soft and thus makes it easy to squash.

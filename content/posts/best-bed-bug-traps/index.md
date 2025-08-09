@@ -19,18 +19,18 @@ Bed bugs will often hide in mattresses and come out at night to suck your blood.
 You may say that fumigation is the best option but exactly how safe are these methods if they expose you and your family to many toxic hazards.
 Let's get started!�Related:
 [Top Drain Uncloggers](https://pestpolicy.com/best-drain-cleaner//)
-[amazon bestseller="Bed Bug Traps" items="2" template="table"]
+
 ## [1. #1 Top Pick: Harris Bed-Bug Traps - Parent (20-Pack)](https://www.amazon.com/dp/B01BRTNPCC/?tag=p-policy-20)
-[amazon box="B01BRTNPCC" template="horizontal"]
+
 https://www.youtube.com/watch?v=kBDii4lVx5Y
 ## [2. #2 Pick: Bed-Bug Monitor, Blocker & Interceptors](https://www.amazon.com/dp/B07MG8BD7X/?tag=p-policy-20)
-[amazon box="B07MG8BD7X" template="horizontal"]
+
 https://www.youtube.com/watch?v=ZcyjWuPMbSk
 ## [3. #3 Pick: Raid Bed-Bug Detector and Trap](https://www.amazon.com/dp/B01AS4ZVC4/?tag=p-policy-20)
-[amazon box="B01AS4ZVC4" template="horizontal"]
+
 https://www.youtube.com/watch?v=H9d_EB6XFUc
 ## **4. Bed Bug ClimbUp Interceptors Passive Traps**
-[amazon box="B0028Z0LDQ" template="horizontal"]
+
 The Bed Bug Climb Up traps is not a killer of bed bugs but a remedy while you figure out the steps you need to take to call an exterminator to handle the bugs.
 It is called an insect interceptor because it helps detect an infestation of the bugs. It is made up of
 plastic cups with polished walls-climb-metal-or-plastic/)
@@ -40,7 +40,7 @@ bugs and the [bed](https://pestpolicy.com/what-does-bed-bug-poop-look-like/)
 , preventing the bed bugs from getting to you when asleep or resting.
 You dont need either insecticide or talcum powder because the Bed Bug Climb Up traps are glossy enough to trap the bed bugs. Remember, it is not to be used as a stand-alone solution.
 ## **5. LightsOut Bedbug Trap Reusable, Chemical Free**
-[amazon box="B00Z7ZN7W6" template="horizontal"]
+
 The LightsOut
 Bed Bug trap
 comes with a reinforced center and stability guards, so it will not damage easily so that it will last long.
@@ -55,7 +55,7 @@ The passage of
 bed bugs to the top
 of the bed is effectively blocked. It is rugged and discreet and can be used for more extended periods than the Bed Bug Climb up traps.
 ## **6. Utopia Bedding Zippered Bed Bug Mattress Encasement**
-[amazon box="B00SVHTFPU" template="horizontal"]
+
 When you have a
 mattress and no furniture legs
 , your only choice is the mattress encasement system.
@@ -69,7 +69,7 @@ fleas bird bugs, and dust mites.
 It is waterproof on all sides and treated on the inside, so it does not encourage the mattress's infestation. It is excellent for anyone who wants to be bed-bug proof, especially for keeping kids less than ten years old.
 You can wash it with your washing machine and tumble dry, so the maintenance is neat and comfortable.
 ## **7. BEAPCO 10013 4-Pack Bed Bug Detector Coaster**
-[amazon box="B00B9BLLMU" template="horizontal"]
+
 The BEAP Bed Bug coaster trap helps detect bed bugs in a house, on furniture, or on beddings, and it also serves as an
 effective trap
 .
@@ -81,7 +81,7 @@ You
 can use these traps
 under the bedposts and your living room furniture's legs to trap bed bugs and discard them daily or weekly.
 ## **8. Aspectek Bed Bug Trap, Insect Interceptor (4 Pack)**
-[amazon box="B0186A8ARK" template="horizontal"]
+
 The Aspectek Dual Well Interceptor was designed to carry heavyweights.
 It has a wide that fits different sizes of furniture and is of high quality and so will not break, they are durable and lasting.
 The outer edge is grooved and easy for bugs to climb, while the inner walls are smooth and
@@ -92,7 +92,7 @@ effective in trapping bugs
 Put the interceptors under the feet of living and bedroom furniture. There are made of four traps that are pesticide-free and have no harmful chemicals.
 It is a natural product that is child-friendly. Refunds available if unsatisfied with service.
 ## **9. Bug Snarer Bed Bug Trap Baby Safe and Eco-Friendly**
-[amazon box="B075ZYQMCZ" template="horizontal"]
+
 They come in a pack of 8 chemical-free interceptors. It functions as a trap that
 prevents a bed bug
 from climbing your bed or sitting room furniture.

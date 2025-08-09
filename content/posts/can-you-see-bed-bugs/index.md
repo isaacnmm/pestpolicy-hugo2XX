@@ -19,7 +19,7 @@ Can you see
 ? Without meaning to state the obvious, bed bugs are, above everything else, insects. So it goes without saying that they are fairly visible. Well, not necessarily.
 *Summary: Most bed bugs resemble an apple seed in various aspects, from shape, size, and even color.�*
 *This is why you shouldnt experience any difficulties spotting these blood-sucking little monsters with your naked eye.related Bed Bug Steamers.�*
-[amazon bestseller="Best Bed Bug Killers" items="2" template="table"]
+
 ## Can You See Bed Bugs? Signs of Bed Bugs
 In terms of size, bed bugs grow to approximately 5 to 7 mm in length. Thats just about 3/16 to  of an inch. However, as you probably already guessed, their size varies depending on their age. Check these
 bed bug pictures

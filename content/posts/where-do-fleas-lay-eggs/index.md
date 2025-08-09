@@ -26,7 +26,7 @@ and
 (Ctenocephalides felis) are the most common on furry mammals, birds, dogs, and cats.
 **Fleas lay their eggs on hosts such as cats (around the neck) or dogs (around their hips). The flea eggs are non-stick and thus will�fall off from the pet's fur. They'll accumulate�on the upholstery, between floorboards, carpets, and on the pet's bedding and will hatch into larvae. But to break the flea cycle, you should use spot-on or oral treatments.�**
 - But what do flea eggs look like? Flea eggs are tiny oval-shaped specs (size of rice or salt grain) measuring ~ 0.5 mm. They are off-white,translucent, or bright white -unlike dandruff that's irregular-shaped.
-[amazon bestseller="Vacuuming fleas with bagless vacuums" items="2" template="table"]
+
 ## Details: Where Do Fleas Lay Eggs?
 Cats fleas will adopt and live long on their hosts such as dogs and cats - and they
 rarely leave

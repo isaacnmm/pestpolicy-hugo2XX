@@ -53,7 +53,7 @@ The use of flea-repelling plants is an environmentally friendly way of inhibitin
 Flea-repelling plants include Chrysanthemums, Penny Royal, Thyme, Sage, Clove, Basil, Lavender, and Spearmint.
 ## Suitable Chemical Flea Treatment for Cats
 ### [Pet scape Organic Cat Flea Collar](https://www.amazon.com/dp/B07RQMBWGH/?tag=p-policy-20)
-[amazon box="B07RQMBWGH" template="horizontal"]
+
 Pet Scape collar flea treatment for your kitten is one of the best flea treatments for kittens - with another daily dosage. Nieko
 flea collar
 will work magic for you as it can treat your kitten for 8months.

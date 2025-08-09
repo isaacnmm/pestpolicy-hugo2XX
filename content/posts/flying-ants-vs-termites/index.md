@@ -23,7 +23,7 @@ flea sprays for yards
 A closer look at the two insects shows that they exhibit distinct features that can be used to
 [differentiate them - flying ants vs. termites](https://entomology.k-state.edu/extension/diagnostician/lab-news/winged-ants-vs-termites.html)
 .
-[amazon bestseller="Flying Ants, Termites Killer" items="2" template="table"]
+
 ## Flying Ants vs. Termites - In-Depth Pest Control
 To effectively eradicate flying ants and termites, its essential to know which of the insects youre dealing with. In this guide, youll get to know the differences between the two insects.
 ### 1. Appearance

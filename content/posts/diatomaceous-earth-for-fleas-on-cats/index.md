@@ -20,7 +20,7 @@ There are many ways to get rid of fleas from cats.
 They include methods where you use chemicals and others where no chemicals are involved. The latter method is the use of
 [Diatomaceous [Earth](https://pestpolicy.com/diatomaceous-earth-for-fleas-on-dogs/) for Fleas](https://pestpolicy.com/diatomaceous-earth-for-fleas/)
 .
-[amazon bestseller="Diatomaceous Earth for Fleas" items="2" template="table"]
+
 ## Diatomaceous Earth for Fleas on Cats - Natural Flea Control
 DE is a fine powder when you see it, but microscopically it has sharp edges. Its mode of action is purely mechanical. The sharp edges cut the protective shells of insects and parasites hence exposing them.
 When exposed, the water in them evaporates, and subsequently, they become dehydrated and die. DE comes in various forms, granulated DE, milled DE, and Calcine DE.

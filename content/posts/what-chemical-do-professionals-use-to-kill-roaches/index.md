@@ -18,7 +18,7 @@ It is critical to target the right places using the correct products while tryin
 control roaches in the house
 .
 - Combat is created from carbohydrate-rich attractants, which highly attract roaches. Here're the chemicals professionals use to kill roaches.
-[amazon bestseller="Chemical to Kill Roaches" items="2" template="table"]
+
 ## **1. Fipronil and Hydramethylnon.**
 ### a. Fipronil
 Some pesticides are highly toxic (and result in health complications) if eaten by pets or kids.

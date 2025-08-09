@@ -27,7 +27,7 @@ There are two main types of [fleas](https://pestpolicy.com/how-to-tell-if-your-c
 **) are more common in North America than dog fleas. **
 Let's check the details!
 
-[amazon bestseller="Cat Fleas Vs Dog Fleas" items="2" template="table"]
+
 ## Comparison: Cat Fleas Vs Dog Fleas
 ### 1. Preferred Host?
 Fleas feed and breed off the blood of warm-blooded hosts, and that's how they make their way onto your cat or dog.

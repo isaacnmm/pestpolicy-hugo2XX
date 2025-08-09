@@ -20,7 +20,7 @@ are widely eaten at homes in cooked form or as snacks when ripe. It concerns man
 on bananas, whether ripe or raw. May be you even wonders if banana peels, leaves or stems can be used to feed these lizards.
 *So, can bearded dragon eat bananas? The direct answer is YES!� Bearded dragons will comfortably feed on bananas whether ripe or unripe. Bananas have rich vitamin composition (needed to boost immunity), high dietary fibers (specially unripe bananas  which prevents constipation), high potassium content (needed to regulate blood pressure and kidney stones).�*
 *Bananas have strong antioxidants (dopamine, catechins  reduces heart diseases), low salt and sugar content (especially unripe bananas- which reduces diabetes and teeth decay), low water level (that reduce over hydration) as well as rich mineral components such as folate, iron, niacin, riboflavin, magnesium, manganese & calcium, which improves growth and development of bones, tissues and organs.�*
-[amazon bestseller="Food for Bearded Dragons" items="2" template="table"]
+
 ## Can Bearded Dragons Eat Bananas?? 7 Secrets
 **Yes, but**
 bananas shouldnt be fed as the main meal since they contain low calcium: phosphorous ratio (leads to metabolic bone disease). These are the key considerations in

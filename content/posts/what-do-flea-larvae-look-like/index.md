@@ -21,7 +21,7 @@ This article will look at what you might see when spotting flea larvae and what 
 [Fleas](https://pestpolicy.com/where-do-flea-larvae-live/) go through four different stages during their life cycle, the second of these stages being the
 [larvae stage](https://www.petmd.com/dog/parasites/6-facts-about-flea-larvae-you-need-know)
 .
-[amazon bestseller="Best Flea Killers" items="2" template="table"]
+
 ## Details: What Do Flea Larvae Look Like?
 It is often much more comfortable recognizing an adult
 flea or even a flea egg

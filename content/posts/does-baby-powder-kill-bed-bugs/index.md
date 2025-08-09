@@ -23,7 +23,7 @@ essential oils/)
 - ***The short answer is, NO, baby powder can't kill bed bugs. Baby powder will only irritate bed bugs or will only musk the scent from the bugs.***
 - ***However, the powder may kill the bed bugs only by trapping them.�Related: Pictures of Bed Bugs.�**
 *
-[amazon bestseller="Best Bed Bugs Killers" items="2" template="table"]
+
 ## Does Baby Powder Kill Bed Bugs? DIY Bed Bug Treatment
 **Myth 1:�**
 *Baby powder will dry the bed bugs skin*

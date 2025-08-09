@@ -19,7 +19,7 @@ So, what should I feed my [bearded](https://pestpolicy.com/can-bearded-dragons-e
 Thus, its evident
 [bearded dragons](https://cvm.ncsu.edu/documents/caring-for-your-bearded-dragon/)
 will feed on various foods, including fruits, vegetables, insects, and equally the commercially available substrates.
-[amazon bestseller="Food for Bearded Dragons" items="2" template="table"]
+
 ## What Should I Feed My Bearded Dragon?
 ### 1. Can Bearded Dragons Eat Meat?
 But

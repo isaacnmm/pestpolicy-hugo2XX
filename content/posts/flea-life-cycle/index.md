@@ -25,7 +25,7 @@ In this article, we'll take a look at the cycle of their life. Also, check this
 fleas movement guide
 .
 
-[amazon bestseller="Best Flea Killers" items="2" template="table"]
+
 ## Understanding the Flea Life Cycle - 7 Facts
 ### 1. Flea Eggs
 The life cycle for a flea typically starts when an adult female will lay their eggs after feeding on blood from a suitable the host, this is mainly cats or dogs.

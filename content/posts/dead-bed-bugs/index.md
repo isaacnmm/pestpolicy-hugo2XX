@@ -24,7 +24,7 @@ dawn dish soap to kill bed bugs
 If you have seen dead
 bed bugs in your house
 , keep reading to find out what needs to be done.
-[amazon bestseller="best bed bug killer" items="2" template="table"]
+
 ## Do You Know What a Dead Bed Bug Looks Like?
 Usually,
 bed bugs are minute

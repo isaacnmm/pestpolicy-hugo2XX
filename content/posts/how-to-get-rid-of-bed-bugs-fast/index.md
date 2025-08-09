@@ -21,7 +21,7 @@ A bedbug infestation can cause restless nights and spread panic in most homes - 
 last for long
 .
 In this post, I outline how to kill bed bugs that are disturbing your peace.
-[amazon bestseller="Best Bed Bug Killers" items="2" template="table"]
+
 ## How to Get Rid Of Bed Bugs Fast
 These bugs suck blood from humans and leave them with itchy welts.
 [Bed bugs](https://pestpolicy.com/does-lavender-kill-[bed-bugs](https://pestpolicy.com/how-to-get-rid-of-bed-bug-bite-scars/)/)

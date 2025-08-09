@@ -28,7 +28,7 @@ roach smell
 Kitchen trolleys, the underside of stove burners, bookcases, and cupboards are the favorite places of cockroaches when it comes to laying eggs.
 Also, roaches lay eggs near food items that arent safely stored in air-tight containers and too near leftovers that arent correctly disposed of. Read Also:
 Water Bugs Vs. Cockroaches
-[amazon bestseller="Best Roach Killers" items="2" template="table"]
+
 ## How to Kill Cockroach Eggs? Tips To Kill The Eggs
 Now that youve identified
 [cockroach types](https://extension.umn.edu/insects-infest-homes/cockroaches)

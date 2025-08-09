@@ -28,7 +28,7 @@ for better flea control
 . But, sometimes, the
 fleas can hide in clothes
 for about 24 hours if they can't figure their way out - as they continue sucking human blood.
-[amazon bestseller="Best Fleas Killers" items="2" template="table"]
+
 ## Details: Can Fleas Live on Clothes? Fleas and Flea Bites
 ### 1. Adult Fleas live on Cats & Dogs (their Hosts)
 Cat Fleas (being permanent ectoparasites)

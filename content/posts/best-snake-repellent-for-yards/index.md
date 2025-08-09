@@ -22,9 +22,9 @@ Thus, below I've reviewed the seven [best](https://pestpolicy.com/best-chipmunk-
 [best drain cleaners](https://pestpolicy.com/best-drain-cleaner//)
 .
 **See these snake repellents.�**
-[amazon bestseller="Best Snake Repellent for Yards" items="2" template="table"]
+
 ## **1. Our #1 Top Pick: Ortho Snake B Gon Snake Repellent Granules**
-[amazon box="B07Z5PLFDW" template="horizontal"]
+
 Powerful, effective, and safe - this Ortho Snake repellent is just what you need to keep snakes off your yard.�When applied to garden soil around plants, flowers, and turf, these repellent granules prevent snakes from entering your garden, nesting, and even foraging.
 - The Ortho snake repellent comes in the form of granules that deliver a rain-resistant and long-lasting performance. The manufacturer recommends reapplying the granules every 30 days or at the sight of a snake.
 - So how does it work?�Well, this best snake repellent contains high concentrations of natural oils like Castor Oil, Cinnamon Oil, Clove Oil, Geraniol, and Peppermint oil - which are comparable to theflea spray for the yard.
@@ -42,7 +42,7 @@ The Good:
 The Bad:
 - None
 ## **2. #2 Pick: Safer-Brand 5951 Snake Repellent & Shield Snake Granular**
-[amazon box="B07M7DYTJ2" template="horizontal"]
+
 Snake Repellents -
 Encountering a snake in your home can be a traumatizing experience. Plus, they pose a great danger to your family and your pets and should, therefore, be kept as far away as possible.
 Some repellents could have toxic chemicals such as malignant and carcinogens Naphthalene, as outlined by the
@@ -51,7 +51,7 @@ that produces phthalic anhydride. These are the four best snake
 repellent for the yard
 that has been proven actually to work. They are also quite affordable and easy to use.
 ## **3. #3 Pick: Safer-Brand 5951 Snake Repellent & Shield Snake Granular**
-[amazon box="B09374R5T6" template="horizontal"]
+
 What's a Snake Repellent? -
 A�Snake repellent is either a
 [natural](http://www.wildlifeanimalcontrol.com/homemade-snake.html)
@@ -64,7 +64,7 @@ Naphthalene is a chemical that has an unpleasant smell for snakes and will damag
 created from�essential oils
 like clove, peppermint, castor, and cinnamon.
 ## [4. Dr. T's 28 lb. Snake-A-Way Snake Repelling Granules](https://www.amazon.com/dp/B0042XAOJI/?tag=p-policy-20)
-[amazon box="B0042XAOJI" template="horizontal"]
+
 Dr.Ts Snake Repellent granule is an EPA-registered granular snake repellent that effectively repels both poisonous and non-poisonous snakes from your home.
 This formula contains a powerful combination of 28 percent Sulfur and 7 percent
 [Naphthalene](https://pubchem.ncbi.nlm.nih.gov/compound/naphthalene#section=Top)
@@ -75,7 +75,7 @@ And given that it has a 91 percent repellency for garter and rattlesnakes, it wo
 [Terrariums for Snakes](https://pestpolicy.com/best-terrariums-for-snakes/)
 .
 ## [5. Dr. T's Havahart Snake Repellent Hose End Spray 32oz](https://www.amazon.com/dp/B0753WVKQQ/?tag=p-policy-20)
-[amazon box="B0753WVKQQ" template="horizontal"]
+
 The Dr.T Snake
 Repellent Hose End Spray
 provides an easy yet effective way to eliminate snakes without harming them.
@@ -84,7 +84,7 @@ The product contains a powerful blend of ingredients that temporarily disrupts t
 To use it, attach a garden hose to the bottle (comes with a hose-end) and spray the solution all around your property. However, avoid applying the mixture direct on crops and plants intended for consumption.
 Otherwise, when used correctly, its entirely safe for humans, pets, and plants. Its also very affordable. The only disadvantage is that you have to reapply the solution after heavy rains for continued effectiveness.
 ## [6. Snake Stopper Ready-To-Spray Snake Repellent](https://www.amazon.com/dp/B00LDX954K/?tag=p-policy-20)
-[amazon box="B00LDX954K" template="horizontal"]
+
 Snake
 Stopper�repellent is also a natural
 solution against snakes roaming in your backyard. This product also has an amazing smell and treats a large yard area, p
@@ -102,7 +102,7 @@ The Good:
 The Bad:
 - Limited plant damage issues
 ## [7. Exterminators Choice Snake Defense Snake Repellent](https://www.amazon.com/dp/B01EMCAFXI/?tag=p-policy-20)
-[amazon box="B01EMCAFXI" template="horizontal"]
+
 Next up is this
 Snake Defense repellent that'll repel both
 non-venomous and venomous/ dangerous snakes (such as rattlesnake or python) and thus preferred by most Exterminators.
@@ -123,7 +123,7 @@ The Good:
 The Bad:
 - None
 ## [8. VENSMILE Solar-Powered Sonic Snake Repellent](https://www.amazon.com/dp/B07P73PNVJ/?tag=p-policy-20)
-[amazon box="B07P73PNVJ" template="horizontal"]
+
 Unlike all the snake repellents weve reviewed, the VENSMILE Solar-Powered snake repellent does not use chemicals. Instead, it uses electric shock to scare/repel moles, snakes, and gophers away.
 The snake repellent comes in the form of spikes that are strategically placed in targeted areas. The spikes are continuously charged by the built-in solar panels to produce enough electric shock to scare away snakes.
 When charged for about 4 hours, the spikes can last for five days. The best snake repellent is waterproof, easy to use, and long-lasting.

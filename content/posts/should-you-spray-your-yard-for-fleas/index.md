@@ -19,7 +19,7 @@ If used around the house (beyond just the Yard),
 will leave no stains even in places that the pets eat, play, sleep or live.
 - However, you'll need to test a small area like on pant legs or shoes before you undertake full-blown spraying.
 Now, point the spray nozzle in any direction in your Yard or lawn to spray. However, ensure that you flea-spray the yard area evenly and avoid forming a puddle.
-[amazon bestseller="Best Flea Spray for Yard" items="2" template="table"]
+
 https://www.youtube.com/watch?v=t4mJPb_z0fo
 ## Considerations in Yard Flea Spray
 ### 1. Ease-of-use and Duration:
@@ -35,7 +35,7 @@ Is it suitable for small or large yards? Some yard sprays are very effective in 
 *Is the yard spray valid for the entire [flea](https://pestpolicy.com/at-what-temperature-do-fleas-die/) life cycle?*
 This is probably the most important thing for you to consider when choosing a flea spray for your Yard. If you're looking for a cheap, quick solution, then get a yard spray that only kills adult fleas.
 ## [BioSpot Active Care Yard & Garden Flea Spray](https://www.amazon.com/dp/B001R9F4KO/?tag=p-policy-20)
-[amazon box="B001R9F4KO" template="horizontal"]
+
 BioSpot Active Care contains 2.5% Permethrin and will control fleas and cover your Yard for about four weeks - this is what is denoted as ongoing care against fleas and other harmful insects.
 Long residue effect - it's one of the longer-lasting yard fleas sprays available.
 You can spray the BioSpot Active Care formula on the lawn, trees, roses, and flowers without damaging them. It'll cover your Yard against a variety of insects, including fleas,

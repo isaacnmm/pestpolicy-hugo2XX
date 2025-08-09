@@ -21,7 +21,7 @@ Thus, it's terrifying that you may be sleeping under the same roof with these
 .
 In this article, I'm going to show you how to get rid of spiders using a simple Four-Step process. The methods will range from chemical-laden and all-natural techniques.
 - *As the local temperatures increase, so do the bugs come out in numbers. Hence, you'll require to think seriously consider pest control including getting rid of spiders.�*
-[amazon bestseller="Best Spider Killers" items="2" template="table"]
+
 ## How to Get Rid of Spiders (7 Effective Tips)
 ### Step 1: Spider Identification
 On

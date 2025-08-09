@@ -17,7 +17,7 @@ layout: post
 Do Cats [Eat](https://pestpolicy.com/do-flying-termites-eat-wood/) Lizards? Have you ever met lizards and cats together in your home, yard or compound? Can your lizard and cat pet live together? It is interesting to find how cats go along with lizards in your place? So, do cats eat lizards?
 *The direct answer is YES! Cats will eat lizards. Cats are great lizard predators. They will hunt, kill and eat lizard either by cutting it into pieces or swallow it whole (for the small sized cats).�*
 *Cats prefer eating smaller lizards such as geckos, skins and Savannah�lizards. However, depending on the species, cats may not be safe after eating lizards. Some species such as salamanders and juvenile blue-tailed skinks secrets poison in their skin, which may kill your cat if eaten.�*
-[amazon bestseller="Best Food for Lizards" items="2" template="table"]
+
 *Though house lizards (gecko) may not have venom or poison, they carry parasites (liver flukes), pathogens and bacteria (salmonella) which affect adversely on the health of your cat when eaten.*
 Related:
 [Is Wall Gecko Poisonous If Eaten?](https://pestpolicy.com/is-wall-gecko-poisonous-if-eaten/)

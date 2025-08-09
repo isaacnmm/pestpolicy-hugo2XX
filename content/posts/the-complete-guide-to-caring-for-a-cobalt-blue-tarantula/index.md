@@ -19,7 +19,7 @@ Keeping a tarantula is not for the weak-hearted. Only a professional enthusiast 
 Cobalt blue tarantulas are named after the color of their legs. In comparison, their bodies and carapaces are drab, with a grayish-blue color.
 - However, this blue appears only in high light; otherwise, they appear black or very dark gray.
 They have a glittery metallic look reflected off the hairs when you can see the blue. The color of some hairs can even be white or yellow.
-[amazon bestseller="Cobalt Blue Tarantula" items="2" template="table"]
+
 ## **Care Guidance for a Cobalt Blue Tarantula**
 They are native to Myanmar but also originate in Thailand, Vietnam, Laos, Cambodia, and Singapore. They make deep burrows in the ground to live in tropical woods. When it's time to search for food, these tarantulas depart their lairs.
 - So, if you want to keep one as a pet, you must recreate their natural environment. It must be warm and humid, with plenty of burrowing substrate.

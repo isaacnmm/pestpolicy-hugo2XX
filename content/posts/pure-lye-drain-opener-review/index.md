@@ -19,7 +19,7 @@ Here's a Pure Lye Drain Opener Review - I am here in my basement, and the sink d
 - However, the caveat is that this cleaner, despite being among the[top drain cleaners](https://pestpolicy.com/best-drain-cleaner//),�is not as effective on a totally clogged drain. However, you can use it tounclog a bathtub that has standing water.
 **Precautions**
 : Ensure you wear disposable rubber gloves and safety goggles while ensuring that the rooms are adequately ventilated.
-[amazon bestseller="Pure Lye Drain Opener" items="2" template="table"]
+
 ## **Natural drain cleaner�**
 The Pure Lye Drain Opener is a pure white formula that is a natural remedy for your clogged drain and sewer full of odor. Pure Lye allows you to do away with the pungent vapors and fumes that come from a
 clogged drain

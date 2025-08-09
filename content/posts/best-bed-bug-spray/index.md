@@ -29,9 +29,9 @@ sprays and outlined how you can use them in your house, bed, or furniture.
 bite, spread diseases, leave skin shells, and fecal matter - besides making us very nervous as they increase.
 *So, let's get started!�*
 # **In a Hurry? Check Best Bed Bug Spray**
-[amazon bestseller="Best Bed Bug Spray" items="2" template="table"]
+
 ## [1. Our #1 Pick: Ortho Home Defense (Mac Dual-Action) Bed Bug Spray](https://www.amazon.com/dp/B07YM6QZQV/?tag=p-policy-20)
-[amazon box="B07YM6QZQV" template="horizontal"]
+
 Ortho Home Defense is the best bed bug spray for outdoor spaces, luggage, headboards, and bed frames. This fast-acting formula will kill bed bugs plus their eggs, brown dog ticks, spiders, roaches, and ants.
 *Luckily*
 , Ortho Home Defense will
@@ -60,7 +60,7 @@ The Bad:
 - Has more toxic chemicals compared to natural pesticides
 https://www.youtube.com/watch?v=IgHyKfFkRLs
 ## [2. #2 Pick: Harris Bed Bug Killer, Liquid Spray with Odorless](https://www.amazon.com/dp/B011S1GYZO/?tag=p-policy-20)
-[amazon box="B011S1GYZO" template="horizontal"]
+
 Harris
 bed bug spray is a contact-killing
 model that'll reduce the house's roach population in 1-2 weeks. Equally, it'll
@@ -85,7 +85,7 @@ The Good:
 The Bad:
 - None
 ## [3. #3 Pick: Bedlam Plus**Bed Bug Killer Spray**for professionals](https://www.amazon.com/dp/B007VFL2WM/?tag=p-policy-20)
-[amazon box="B007VFL2WM" template="horizontal"]
+
 Maybe you need a highly portable spray for the small
 bed bug infestation
 ? Well, I recommend Bedlum plus aerosol that is effective and has low toxicity.
@@ -119,7 +119,7 @@ The Bad:
 - Might cause mild irritation on the human skin
 https://www.youtube.com/watch?v=f7trCL-kXRo
 ## [4. Rockwell Labs CXID032 Cimexa Bed Bug Dust Insecticide](https://www.amazon.com/dp/B007OAY71M/?tag=p-policy-20)
-[amazon box="B0085HRWI8" template="horizontal"]
+
 Cimexa
 CXID032 is an odorless and luckily non-staining bed bug dust (particularly silica-based) that you'll love in your
 pest control
@@ -140,7 +140,7 @@ The Good:
 The Bad:
 - Use a mask
 ## [5. FenvaStar EcoCap is effective and budget-friendly](https://www.amazon.com/dp/B007OAY71M/?tag=p-policy-20)
-[amazon box="B007OAY71M" template="horizontal"]
+
 FenvaStar EcoCap
 from Rockwell Labs is designed from a synthetic pyrethroid (3.5% Esfenvalerate) and vegetable-based oils to kill a range of household pests.
 - The pyrethroid has a long residue effect to kill bed bugs and other insects such as silverfish, turf pests, cockroaches, spiders,fire ants, and fleas.
@@ -158,7 +158,7 @@ The Good:
 The Bad:
 - No quick knock-down effect
 ## [6. Bayer Advanced Bed Bug Spray - Perimeter or Spot Treatment](https://www.amazon.com/dp/B001IDO78O/?tag=p-policy-20)
-[amazon box="B007VFL2WM" template="horizontal"]
+
 Bayer Advanced 700480, with� B-Cyfluthrin and Sodium O-Phenylphenate as the active ingredients,
 is amazingly great for killing these bugs in a quick knockdown manner.
 - Bayer Advanced also kills bacteria causingenterobacter aerogenes and�Staphylococcus Aureus.It has a long residue effect of 1 year for indoor bed bug protection.
@@ -181,7 +181,7 @@ The Good:
 The Bad:
 - None
 ## [7. Proof 100% Effective Bed Bug and Dust Mite Killer Spray](https://www.amazon.com/dp/B00LPS4MUU/?tag=p-policy-20)
-[amazon box="B00LPS4MUU" template="horizontal"]
+
 Proof 100% Effective is a plant-based roach spray (killer) that's effective, with a
 residue effect of 3 weeks,
 a

@@ -21,7 +21,7 @@ flea eggs
 There is one tested method employed by many pet owners to get rid of fleas:
 [Vinegar](https://www.pacificcollege.edu/news/blog/2015/04/25/what-does-apple-cider-vinegar-not-do)
 solution for fleas. I take a closer look at how you can get rid of fleas with vinegar and Dawn dish soap.
-[amazon bestseller="Best Flea Killer" items="2" template="table"]
+
 ## Does Apple Cider Vinegar Kill Fleas? Natural Flea Repellent
 ### 1: The lace drinking water with Vinegar
 One way to win the war against

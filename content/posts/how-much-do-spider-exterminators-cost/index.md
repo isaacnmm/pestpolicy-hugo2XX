@@ -21,7 +21,7 @@ In this blog post, we will answer one of the most common questions asked by peop
 - **The cost of a spider [exterminator](https://pestpolicy.com/how-much-is-an-exterminator-for-mice/) varies depending on the size and type of pest control company. If you have an infestation, your best bet is to call several companies and get quotes before making a decision.�**
 - **The average cost for most types of spider extermination services in the United States is $200 - $300 per visit.**
 Spiders reproduce quickly - so find a spider exterminator for your house.
-[amazon bestseller="Best Spider Killers" items="2" template="table"]
+
 ## Why You Need An Exterminator For Spiders?
 Spiders seem to pop up everywhere when you least expect them and then they make a silk trail on your shoe, your coffee table, or the kitchen counter.
 - So, if you find that spiders are becoming too much of a problem in your home, then I would advise getting an experienced spider exterminator.

@@ -20,7 +20,7 @@ Homeowners
 - **So, what do dust mites look like? - Dust mites are microscopic creatures and very hard to see with our bare eyes. They commonly feed on dead human and animal skin cells.**
 - **From a microscopic view, they are tiny oval-shaped insects. They have 8 legs and they do not have wings. They are greyish-black in color with some stripes and they move from one place to another through crawling.�**
 Dust mites cannot be categorized as parasites because they dont sting, or bite and neither do they burrow into the human body.
-[amazon bestseller="Best Killer for Dust Mites" items="2" template="table"]
+
 ## Details: What Do Dust Mites Look Like?
 Though they are generally harmless to most people, to others they cause allergic reactions like asthma among others.
 - They like hiding under pillows, mattresses, furniture, and carpeted areas.

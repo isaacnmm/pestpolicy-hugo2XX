@@ -20,7 +20,7 @@ flea foggers
 But treating your animal for fleas may not be enough; you need to consider your home too! For the yard, you can try these
 quality flea sprays for lawns
 .
-[amazon bestseller="Best Flea Killer for Carpet" items="2" template="table"]
+
 ## Details: Can Fleas Live in Carpets? Fleas in the Carpet
 Of course, the fleas can fall from your pet onto the floor and set up shop deep within the fibers of your carpet, where they can thrive quite well.
 Related:

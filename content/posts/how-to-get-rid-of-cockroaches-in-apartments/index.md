@@ -16,7 +16,7 @@ layout: post
 Roaches are notoriously difficult to get [rid](https://pestpolicy.com/how-to-get-rid-of-brown-recluse-spiders/) of. But don't let them win! In this article, I outline How to Get Rid of Cockroaches in Apartments. If roaches find shelter, food, and water in your apartment, they are staying for as long as they want to!
 **First, notify the property manager about any roach activity on their property so that they can take action against this pest infestation. Next up, try using some baits (roach traps), dusting with silica powder or diatomaceous earth (DE) as well as a boric acid solution for long-term control measures.�**
 **You may also want to set some glue traps around your apartment if you're not too keen on using toxic chemicals. Finally, if you want to get the roaches out for good (and your landlord doesn't have any better ideas), hire an exterminator!�**
-[amazon bestseller="Best Roach Killers" items="2" template="table"]
+
 ## Details: How to Get Rid of Cockroaches in Apartments
 ### 1. Notify the property manager or landlord; Know Your Rights
 To control them, first, notify the property manager (or the landlord).�The property manager or landlord will handle the roach infestations as outlined by their lease agreement or offer some quick tips on how to deal with these bugs themselves (for example, sealing up cracks around doors).

@@ -23,7 +23,7 @@ ant killers
 in the comfort of your home.�Related:
 Fire Ant Killer for Lawns
 .
-[amazon bestseller="Best Ant Killers" items="2" template="table"]
+
 ## Top 15 Homemade Ant Killer Recipes
 ### 1. Boric Acid and Peanut Butter Straws
 These are excellent homemade ant killers to eradicate ants without exposing your kids and pets to toxic substances.

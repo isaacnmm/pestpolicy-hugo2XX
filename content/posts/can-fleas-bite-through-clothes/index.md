@@ -19,7 +19,7 @@ very stubborn parasites
 . They like to suck blood from both humans and animals-more so our pets at home. When its cold outside, they find their way into our houses for survival. When on human, can fleas bite through clothes?
 - **Yes, and No, fleas cant bite through thick clothing or layers of clothes such as denim, jeans, and sneakers. **
 - **But, fleas can bite through thin clothes such as silk or lace - thin and tight fabric-like skin tights. Fleas cannot bite through clothes but like to find their way under the clothes and enjoy biting and sucking blood.�**
-[amazon bestseller="Best Killer for Fleas" items="2" template="table"]
+
 *But, fleas will move under the clothes to feed on your exposed skin. *
 *Thus, you can stop [flea](https://pestpolicy.com/why-do-flea-bites-itch/) bites by wearing closed-toe shoes, long trousers, and socks - and tuck the pant legs into your socks. *
 For additional flea bite protection, use sprays some Sawyer Products Permethrin on your garments.

@@ -23,7 +23,7 @@ But, I know you might have used flea control chemicals such as NexGard, Advantag
 dog flea shampoo
 , etc.
 Chemicals aside, today we discuss step by step process to control fleas on your dog naturally.
-[amazon bestseller="Best Fleas Killers on Dogs" items="2" template="table"]
+
 ## How to Kill Fleas on Dogs Naturally (4 Quick Steps)
 ### 1. Flea combing
 To ease the scratching and itching caused by flea, flea combs will weed out fleas of all sizes from your dogs fur. A flea comb has finely spaced teeth/ tines to physically trap and eject the flea "dirt," fleas, larvae, and flea eggs. Luckily, the

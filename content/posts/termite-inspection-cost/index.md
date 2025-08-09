@@ -25,7 +25,7 @@ Well, the average termite inspection cost is $150, but it can go as low as
 $60 depending on the size and condition of your home. But some
 bug control
 firms will waive this fee if you eventually hire them for termites extermination.
-[amazon bestseller="Best Termite Killers" items="2" template="table"]
+
 ## *Details: Average Termite Inspection Cost?��*
 *Caution: the termite inspector must be experienced, licensed, insured, and bonded.�So, what's the average termite inspection cost?�*
 As an estate closing cost, the termite inspection costs will be about $60 to $150, plus this will also give you a

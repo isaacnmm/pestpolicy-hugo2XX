@@ -27,7 +27,7 @@ for its natural properties. How long does it take for borax to kill ants?
 - **Borax is an effective ant poison is because it takes a long time for the chemicals in the borax to kill ants. **
 - **Within 24-48 hours, often ants will eat the borax bait and share it (especially the ****worker ants****) with the queen and other ants in the colony. **
 That's what we'll be exploring in this article!
-[amazon bestseller="Best Ant Killer" items="2" template="table"]
+
 ## Details: How Long Does It Take For Borax to Kill Ants?
 For an ant, it can take anywhere from 24-48 hours to die after eating borax or boric acid bait.
 - Borax can kill ants, but the ants do their work for you. Forager or worker ants will carry the borax bait back to their nests and share it with other ants.

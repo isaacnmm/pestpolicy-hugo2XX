@@ -17,7 +17,7 @@ layout: post
 If you are reading this, you must be worried as youve seen some roaches running around your house.
 It is common knowledge that roaches love dark, moist, and dirty places. Could you, unknowingly, have created a nest for the roaches in your house?
 That is a tough question. But now, you have to find the [roach](https://pestpolicy.com/bengal-roach-spray-review/) nest and wipe out the whole population of the nasty bugs. You are asking: but how do I find the roach nest? You can find the roach nest without the help of an exterminator!
-[amazon bestseller="Best Roach Killers" items="2" template="table"]
+
 - However, youll need to read on to know the step you should take while finding the roach nest. Check thebest roach bomb.
 - First things first:�Youll need to know the type of cockroach species and the kind of nests they create. This will enable you to conduct a thorough analysis of your space and flush out all the nests. Also, check this post onwhich cockroaches can fly.
 ## Finding Nest for the different types of roaches

@@ -21,9 +21,9 @@ is paramount. The flea-infested kittens may suffer from Bartonella, Anemia, Flea
 So, what are the best treatment for kittens available? Well, that's the topic of discussion in this post.
 So, lets get started.
 # **In a Hurry? Check these Cat Flea Shampoos**
-[amazon bestseller="Best Flea Treatment for Kittens" items="2" template="table"]
+
 ## [1. Our #1 Pick: Advantage II Flea Prevention for Small Cats/Kittens](https://www.amazon.com/dp/B07FH8XQ1B/?tag=p-policy-20)
-[amazon box="B07FH8XQ1B" template="horizontal"]
+
 Advantage II is topical
 flea prevention and treatment-stay-on-humans/)
 that work by contact. It is suitable for young kittens weighing 5 to 9 pounds.
@@ -48,10 +48,10 @@ The Bad:
 - Slightly expensive.
 - Dangerous when swallowed.
 ## [2. #2 Pick:Advantage Flea & Tick Kittens and Cats Treatment Shampoo](https://www.amazon.com/dp/B00IZ9Z39G/?tag=p-policy-20)
-[amazon box="B00IZ9Z39G" template="horizontal"]
+
 https://www.youtube.com/watch?v=ZzHEQeAtVoE
 ## [3. #3 Pick: Capstar Fast-Acting Oral Flea Treatment for kitten](https://www.amazon.com/dp/B07Q1TKTP9/?tag=p-policy-20)
-[amazon box="B07Q1TKTP9" template="horizontal"]
+
 Could you be looking for a tablet medicine for your kitten treatment? Capstar (nitenpyram) is the top quality for your kitten.
 - It is an oral product that startskilling 30 minutes after tabletadministration (quick-acting).
 - The veterinary recommended product assures you of 90%of theflea's killing�on your kitten within 4 to 6 hours for every single dose of Capstar application.
@@ -69,7 +69,7 @@ The Bad:
 - Won'tkill fleaeggs.
 https://www.youtube.com/watch?v=pF0ovIggNQU
 ## [4. ZoGuard Plus Flea for Cats/kittens](https://www.amazon.com/dp/B07P9NNK9S/?tag=p-policy-20)
-[amazon box="B07P9NNK9S" template="horizontal"]
+
 The ZoGuard Plus is an
 **application type**
 of kitten
@@ -97,7 +97,7 @@ The Good:
 The Bad:
 - Slightly expensive.
 ## [5. TevraPet FirstAct Plus Flea for Cats/kitten treatment](https://www.amazon.com/dp/B06XKS14PS/?tag=p-policy-20)
-[amazon box="B06XKS14PS" template="horizontal"]
+
 TevraPet FirstAct Plus is a fast-acting trusted quality made in Germany for kitten flea killing.
 - The 3-dose flea treatment and prevention product is suitable for kittens weighing 1.5 to 25 pounds and over eight weeks of age.
 - This product is waterproof, and therefore you wont need to reapply after bathing or swimming your kittens/cats.
@@ -123,7 +123,7 @@ Related:
 Dishwasher Detergent to Prevent Etching
 .
 ## [6. Vet's Best Flea Home Spray for Cats/Kittens](https://www.amazon.com/dp/B07THGTVL4/?tag=p-policy-20)
-[amazon box="B07THGTVL4" template="horizontal"]
+
 Have you been looking for a
 [spray for your kitten flea](https://pestpolicy.com/best-flea-spray-for-home/)
 treatment and prevention?
@@ -149,7 +149,7 @@ The Good:
 The Bad:
 - It can only be used for cats/kittens' flea treatment.
 ## [7. Cheristin for Cats/Kittens Topical Flea reatment](https://www.amazon.com/dp/B07R9GNRC2/?tag=p-policy-20)
-[amazon box="B07R9GNRC2" template="horizontal"]
+
 The Non-greasy, quick-drying, and fragrance-free
 **Christin**
 is all you need for your kitten

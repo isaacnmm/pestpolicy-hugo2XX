@@ -24,7 +24,7 @@ what fleas look like
 One of the significant points of concern when trying to
 rid your home of fleas are their eggs
 . These are notoriously difficult to get rid of and can often be a source of the infestation returning.
-[amazon bestseller="Best Flea Killers" items="2" template="table"]
+
 ## Does Salt Kill Fleas? - Get Rid of Fleas with Salt!
 If you have heard the rumor that salt can kill
 [fleas](http://ipm.ucanr.edu/PMG/PESTNOTES/pn7419.html)

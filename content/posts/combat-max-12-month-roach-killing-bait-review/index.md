@@ -21,7 +21,7 @@ is designed to kill some of the biggest of all roaches  German roaches in as lit
 But, roaches can withstand a high radiation exposure level but won't survive Combat Max 12 roach killer. This review will discuss why Combat Max 12 roach killer is an effective roach killer against German roaches and is
 safe for cats and dogs
 .
-[amazon bestseller="Combat Max 12 Month Roach Killing Bait" items="2" template="table"]
+
 Related:
 Best Roach Killers
 ## Combat Max 12 Month Roach Killing Bait Review

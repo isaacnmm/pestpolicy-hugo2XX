@@ -26,7 +26,7 @@ with severe problems.
 - Cats can get fleas from contact with other animals, picking them from the yard, or even by being in your home if you have an existing[**cat fleas**](https://extension.psu.edu/cat-fleas)population.
 - If left untreated, these pesky insects can cause discomfort and skin problems for your feline friend!
 So, what are the signs....again? Let's get started!
-[amazon bestseller="Best Treatment for Cat Fleas" items="2" template="table"]
+
 ## What*Are*these Cat Fleas?
 Cat fleas, also known as Ctenocephalides felis - parasitic insects, are a type of insect that feeds on the blood of cats as their host.
 
