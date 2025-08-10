@@ -18,7 +18,7 @@ Most cold galvanizing paints must contain a lot of zinc that greatly aid in galv
 
 In order to get the best cold galvanizing paints for your metallic surfaces, you need to identify such paints available in the market. Much as this [paint](https://pestpolicy.com/best-acrylic-paint-for-canvas/)need a lot of professionalism in the application, getting the [best](https://pestpolicy.com/best-acrylic-paint-for-pouring/)quality paints also aids you in having a durable surface that rust-free.
 
-##  s: 7 Best Cold Galvanizing Paint in 2025
+## 7 Best Cold Galvanizing Paint in 2025
 
 ###  [1. Rust-Oleum V2185838 Cold Galvanizing Spray Paint, 20-Ounce](https://www.amazon.com/dp/B000LET8DA/?tag=p-policy-20)
 

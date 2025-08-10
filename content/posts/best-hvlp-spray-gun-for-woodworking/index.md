@@ -20,7 +20,7 @@ Typically, paint [sprayers](https://pestpolicy.com/best-hvlp-paint-sprayer-for-l
 
 We've made it easy to get yourself a [fitting HVLP spray gun](https://pestpolicy.com/best-hvlp-paint-sprayer-for-latex-paint/)for woodwork.
 
-##  s: Top 7 Best HVLP Spray Gun for Woodworking in 2025
+## Top 7 Best HVLP Spray Gun for Woodworking in 2025
 
 ###  [1. Wagner-Spraytech 0518080 Sprayer Control Max-HVLP](https://www.amazon.com/dp/B003PGQI48/?tag=p-policy-20)
 

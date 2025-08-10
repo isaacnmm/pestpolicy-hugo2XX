@@ -47,7 +47,7 @@ I've used [many bed bug](https://pestpolicy.com/are-bed-bug-eggs-hard-or-soft/)c
 
 Review of Ortho Home Defense Dual-Action
 
-###  2.[Bedlam Plus Bed Bug Spray](https://pestpolicy.com/how-to-get-rid-of-bed-bugs-fast/)vs.Proof Bed Bug Spray
+### 2. [Bedlam Plus Bed Bug Spray](https://pestpolicy.com/how-to-get-rid-of-bed-bugs-fast/)vs.Proof Bed Bug Spray
 
 [Review of Proof Bed Bug Spray](https://pestpolicy.com/proof-bed-bug-spray-review/)
 

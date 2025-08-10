@@ -19,19 +19,19 @@ Flea collars are a popular and effective way to protect your dog from fleas and 
 
 ##  Best Flea Collars for Dogs
 
-###  1.[Seresto Flea and Tick Collar](https://www.amazon.com/dp/B07GRGFDY2?tag=p-policy-20)
+### 1. [Seresto Flea and Tick Collar](https://www.amazon.com/dp/B07GRGFDY2?tag=p-policy-20)
 
 The Seresto Flea and Tick Collar is one of the most trusted names in flea protection. It provides up to 8 months of continuous protection for your dog against fleas and ticks. Its innovative technology allows for a slow-release of active ingredients, ensuring long-lasting and effective flea prevention.
 
-###  2.[Adams Plus Flea and Tick Collar](https://www.amazon.com/dp/B00F8KZ0UI?tag=p-policy-20)
+### 2. [Adams Plus Flea and Tick Collar](https://www.amazon.com/dp/B00F8KZ0UI?tag=p-policy-20)
 
 The Adams Plus Flea and Tick Collar is a great value option for dog owners. It offers protection for up to 7 months, killing fleas, ticks, and lice. Its active ingredients are effective in controlling flea populations and preventing re-infestations, keeping your dog comfortable and pest-free.
 
-###  3.[Hartz UltraGuard Plus Flea and Tick Collar](https://www.amazon.com/dp/B01M4R9V9K?tag=p-policy-20)
+### 3. [Hartz UltraGuard Plus Flea and Tick Collar](https://www.amazon.com/dp/B01M4R9V9K?tag=p-policy-20)
 
 The Hartz UltraGuard Plus Flea and Tick Collar provides an affordable option for flea prevention. It offers up to 7 months of protection and features a highly effective formula that kills fleas and ticks on contact. This collar also helps prevent flea eggs from hatching, breaking the flea life cycle.
 
-###  4.[Bayer K9 Advantix II Flea and Tick Collar](https://www.amazon.com/dp/B01MZ0V1IH?tag=p-policy-20)
+### 4. [Bayer K9 Advantix II Flea and Tick Collar](https://www.amazon.com/dp/B01MZ0V1IH?tag=p-policy-20)
 
 The Bayer K9 Advantix II Flea and Tick Collar is another premium option that offers long-term protection. It kills fleas, ticks, and mosquitoes, offering complete pest control. The collar is water-resistant and can last for up to 7 months, making it a reliable choice for dog owners in various environments.
 

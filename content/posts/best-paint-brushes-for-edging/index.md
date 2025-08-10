@@ -18,7 +18,7 @@ As a painter, you must have experienced some of the common challenges associated
 
 As you might have noticed, using the wrong brush to [paint](https://pestpolicy.com/best-paint-brushes-for-acrylic-painting/)the edges can yield pathetic results, including getting spilled over paints or edges that are painted unevenly. Get yourself the best paint brushes for edging because there are brushes designed for this function - with a variety of colors.
 
-##  s: Top 7 Best Paint Brushes for Edging in 2025
+## Top 7 Best Paint Brushes for Edging in 2025
 
 ###  [1. Pro Grade - Paint Brushes - 6 Pack Variety Angle Paint Brushes](https://www.amazon.com/dp/B07CB1Y7CN/?tag=p-policy-20)
 

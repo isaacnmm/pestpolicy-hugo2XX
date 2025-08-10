@@ -70,7 +70,7 @@ Pros: - 42 inches cutting deck - Has a push-button that allows cruise control - 
 
 Cons: - Require more learning for reverse mowing
 
-###  4.[Poulan Pro PP155H42 for Small Yard - Best for Rough Terrain](https://www.amazon.com/dp/B019F8TWB0/?tag=p-policy-20)
+### 4. [Poulan Pro PP155H42 for Small Yard - Best for Rough Terrain](https://www.amazon.com/dp/B019F8TWB0/?tag=p-policy-20)
 
 Poulan Pro PP155H42 also offers performance, durability, and strength this is cheers to its cutting deck made from 46-inch reinforced-vented steel plus the Hydro-transmission system, which makes it very easy to handle. Its rear turf saver tires are 22 inches and wont interestingly cause damage to your yard while running on the mowing process.
 

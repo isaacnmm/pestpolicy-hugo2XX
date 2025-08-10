@@ -18,7 +18,7 @@ Drywalls and other surfaces could be challenging especially getting the primer-s
 
 In this article, we carefully analyze and list the best drywall primer-sealers in the market for your consideration. Among the features considered before selecting this primer are; adhesiveness, topcoat, and surface type among others. I hope you go through it and arrive at the best conclusion of the primer you want.
 
-##  s: Top 7 Best Drywall Primer Sealer in 2025
+## Top 7 Best Drywall Primer Sealer in 2025
 
 ###  [1. Rust-Oleum 2004 Zinsser Bulls Eye Primer, 1 Quart](https://www.amazon.com/dp/B000H5VKBQ/?tag=p-policy-20)
 

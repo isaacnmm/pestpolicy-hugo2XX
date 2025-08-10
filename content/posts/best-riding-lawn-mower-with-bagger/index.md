@@ -20,23 +20,23 @@ Here, we explore the best riding lawn mowers with baggers available on Amazon an
 
 ##  Best Riding Lawn Mower with Bagger
 
-###  1.[Troy-Bilt 30-Inch Premium Riding Lawn Mower with Bagger](https://www.amazon.com/dp/B07YN33QDN?tag=p-policy-20)
+### 1. [Troy-Bilt 30-Inch Premium Riding Lawn Mower with Bagger](https://www.amazon.com/dp/B07YN33QDN?tag=p-policy-20)
 
 The Troy-Bilt 30-Inch Premium Riding Lawn Mower is a great option for those with smaller yards. It features a 6-speed transmission, making it easy to adjust to different mowing conditions. The 30-inch cutting deck provides a wide coverage, and the included bagger allows you to easily collect grass clippings for a clean finish. Its compact design makes it easy to maneuver, and the powerful engine ensures durability and long-term performance.
 
-###  2.[Husqvarna Z254 54-Inch Zero Turn Riding Mower](https://www.amazon.com/dp/B07W8GNR7G?tag=p-policy-20)
+### 2. [Husqvarna Z254 54-Inch Zero Turn Riding Mower](https://www.amazon.com/dp/B07W8GNR7G?tag=p-policy-20)
 
 If you have a larger lawn, the Husqvarna Z254 Zero Turn Riding Mower is an excellent choice. It boasts a 54-inch cutting deck, perfect for covering more ground in less time. The mower is powered by a robust engine, and the zero-turn technology allows you to make sharp turns with ease, saving you time and effort. The attached bagger is ideal for keeping your lawn clean and well-maintained by collecting grass clippings as you mow.
 
-###  3.[Craftsman T225 19 HP Briggs & Stratton Riding Lawn Mower with Bagger](https://www.amazon.com/dp/B08BLGWQ8F?tag=p-policy-20)
+### 3. [Craftsman T225 19 HP Briggs & Stratton Riding Lawn Mower with Bagger](https://www.amazon.com/dp/B08BLGWQ8F?tag=p-policy-20)
 
 The Craftsman T225 19 HP Briggs & Stratton Riding Lawn Mower offers a reliable and powerful engine that makes mowing large areas easier. Its 46-inch deck can handle both flat and uneven terrain, and the bagger attachment makes it easy to collect clippings. With a comfortable high-back seat and a durable design, the Craftsman T225 is a solid option for homeowners looking for a mower that delivers both performance and comfort.
 
-###  4.[John Deere E100 17.5 HP Riding Mower with Bagger](https://www.amazon.com/dp/B07HNX73L4?tag=p-policy-20)
+### 4. [John Deere E100 17.5 HP Riding Mower with Bagger](https://www.amazon.com/dp/B07HNX73L4?tag=p-policy-20)
 
 John Deere is a brand synonymous with quality, and the E100 17. 5 HP Riding Mower is no exception. With a 42-inch cutting deck, its well-suited for medium to large lawns. The mower features a reliable engine and a simple, user-friendly design. The bagger attachment ensures your lawn remains neat and free of clippings. The easy-to-adjust seat and controls provide comfort during long mowing sessions.
 
-###  5.[Snapper 360Z Zero Turn Riding Mower with Bagger](https://www.amazon.com/dp/B06ZY7DFG9?tag=p-policy-20)
+### 5. [Snapper 360Z Zero Turn Riding Mower with Bagger](https://www.amazon.com/dp/B06ZY7DFG9?tag=p-policy-20)
 
 The Snapper 360Z Zero Turn Riding Mower is designed for efficiency and ease of use. It features a 52-inch cutting deck and powerful engine that can tackle even the toughest grass and terrain. The zero-turn capability makes it easy to navigate around obstacles, and the bagger attachment helps you collect clippings without any hassle. The high-performance design makes it suitable for large lawns that need frequent maintenance.
 

@@ -21,7 +21,7 @@ Thus, stay prepared! Some of these insects are relatively harmless to the human 
 
 ##  Top 9 Best Spider Spray for Indoors 2025
 
-###  1.[Wet and Forget Indoor Revenge Spider Killer - Editor's Pick](https://www.amazon.com/dp/B00FGIJXK4/?tag=p-policy-20)
+### 1. [Wet and Forget Indoor Revenge Spider Killer - Editor's Pick](https://www.amazon.com/dp/B00FGIJXK4/?tag=p-policy-20)
 
 In the past recent years, this product has earned a decent name in the home improvement sector due to its reliability.
 
@@ -33,7 +33,7 @@ It comes in a well-designed bottle that gives you a pleasurable application expe
 
 Cons: - Some users say it does not last long enough
 
-###  2.[FMC Talstar Professional 3/4 Gallon Spider Killer - Close Second](https://www.amazon.com/dp/B01I5IRVDC/?tag=p-policy-20)
+### 2. [FMC Talstar Professional 3/4 Gallon Spider Killer - Close Second](https://www.amazon.com/dp/B01I5IRVDC/?tag=p-policy-20)
 
 This repellent is primarily created for commercial purposes. It is created to kill spiders and other bugs in homes and commercial areas.
 
@@ -47,7 +47,7 @@ Pros: - Easy to use - Does not contain harmful additives
 
 Cons: - Does not kill for long enough
 
-###  3.[Ortho Home Defense Comfort Wand Insect Killer](https://www.amazon.com/dp/B01N7KSXHX/?tag=p-policy-20)
+### 3. [Ortho Home Defense Comfort Wand Insect Killer](https://www.amazon.com/dp/B01N7KSXHX/?tag=p-policy-20)
 
 This product - best spider spray for indoors is the favorite for many households who are looking to protect their homes of any type of insects.
 
@@ -59,7 +59,7 @@ Cons: - Might not ship to some locations
 
 Related: Do Spiders Poop?
 
-###  4.[Terro T2302 Spider Killer Aerosol Spray](https://www.amazon.com/dp/B008CH3Y9C/?tag=p-policy-20)
+### 4. [Terro T2302 Spider Killer Aerosol Spray](https://www.amazon.com/dp/B008CH3Y9C/?tag=p-policy-20)
 
 Terro T2302 will help control a variety of crawly and creepy insects in your house - including hobo spiders, brown recluse, black widow, crickets, cockroaches, and ants. Spray directly onto the spiders to achieve top effectiveness. However, Terro T2302 spray can only be used on non-food areas in your house especially locations where Spider tend to hide or crawl.
 
@@ -73,7 +73,7 @@ Cons: - Does not ship to some locations
 
 Two spiders weaving a web[/caption]
 
-###  5.[Black Flag Spider and Scorpion Killer Aerosol Spray](https://www.amazon.com/dp/B07CWYRCJN/?tag=p-policy-20)
+### 5. [Black Flag Spider and Scorpion Killer Aerosol Spray](https://www.amazon.com/dp/B07CWYRCJN/?tag=p-policy-20)
 
 This is the one product that is entirely natural. Since it uses natural ingredients, you can safely use it at home. You will not observe adverse side effects among your kids and pets at home. It is highly effective and keeps killing for at least four weeks following the initial application. Primarily, this product is formulated to kill spiders and all insects that might have infested your home.
 

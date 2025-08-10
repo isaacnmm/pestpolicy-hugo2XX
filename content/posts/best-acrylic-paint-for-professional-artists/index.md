@@ -20,7 +20,7 @@ If you're an expert hobbyist painter, the best [acrylic](https://pestpolicy.com/
 
 I tested & tried several professional acrylic paints to create the list below - they're all budget-friendly and high-quality too. So, let's get started. See Also: Best acrylic paint for wood.
 
-##  s: 7 Best Acrylic Paint for Professional Artists 2025
+## 7 Best Acrylic Paint for Professional Artists 2025
 
 ###  [1. Castle Art Supplies Professional Acrylic Paint](https://www.amazon.com/dp/B06ZYSFWNN/?tag=p-policy-20)
 

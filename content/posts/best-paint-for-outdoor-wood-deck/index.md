@@ -21,7 +21,7 @@ This article put together the best paint for [outdoor](https://pestpolicy.com/be
 Thus, the deck won't fall due to foot traffic or harsh weather.
 
 
-##  s: 7 Best Paint for Outdoor Wood Deck 2025
+## 7 Best Paint for Outdoor Wood Deck 2025
 
 ###  [1. DEFY Extreme Wood Stain Semi-Transparent](https://www.amazon.com/dp/B0061OIK4M/?tag=p-policy-20)
 

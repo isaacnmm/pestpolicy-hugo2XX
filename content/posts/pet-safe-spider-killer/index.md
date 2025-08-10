@@ -17,7 +17,7 @@ layout: post
 
 Though [most spiders are harmless](https://my.clevelandclinic.org/health/diseases/16639-spider-bites),species like black widow spiders and brown recluses are venomous. - Getting bet pet safe spider killer is not only to kill such spiders but also to keep your pets and children safe. As a DIYer going for the safest spider killers means you consider both natural and chemical products that cannot harm pets and children in the house.
 
-##  Reviews: 7 [Best](https://pestpolicy.com/best-chipmunk-repellents/)[Pet](https://pestpolicy.com/healthy-pets-rodent-control/) Safe Spider Killer in 2025
+## Reviews: 7 [Best](https://pestpolicy.com/best-chipmunk-repellents/) [Pet](https://pestpolicy.com/healthy-pets-rodent-control/) Safe Spider Killer in 2025
 
 ###  [1. Garden Safe Brand Insect Killer](https://www.amazon.com/dp/B00E8LBRVI/?tag=p-policy-20)
 

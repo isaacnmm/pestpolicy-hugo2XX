@@ -17,7 +17,7 @@ layout: post
 
 Finding a decent [drain cleaner](https://pestpolicy.com/best-drain-cleaner//)is difficult. Most options on the market are far too expensive. And those that you can afford are often limited in the functions they can perform. So you have to purchase multiple types and brands of drain cleaners to sufficiently cater to your homes entire plumbing system.
 
-##  +What is the[Thrift T-600 Alkaline Based Drain Cleaner](https://www.amazon.com/THRIFT-T-600-Alkaline-Granular-Cleaner/dp/B00E1N09JO?&linkCode=ll1&tag=p-policy-20&linkId=2b4aec92d6fd01239eb8ccd0c93edf67&language=en_US&ref_=as_li_ss_tl)?
+## +What is the [Thrift T-600 Alkaline Based Drain Cleaner](https://www.amazon.com/THRIFT-T-600-Alkaline-Granular-Cleaner/dp/B00E1N09JO?&linkCode=ll1&tag=p-policy-20&linkId=2b4aec92d6fd01239eb8ccd0c93edf67&language=en_US&ref_=as_li_ss_tl)?
 
 Thrift T-600 is an acid-free drain cleaner. In other words, it can eliminate the organic matter that clogs your [drains](https://pestpolicy.com/best-drain-cleaner/)without using acidic components. The Thrift T-600 cleaner stands out because it provides four cleaning solutions where other [drain](https://pestpolicy.com/best-drain-snakes/)cleaners only cater to one or two disparate issues.
 

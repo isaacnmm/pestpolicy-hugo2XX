@@ -18,23 +18,23 @@ Achieving a smooth and professional finish on cabinets requires the right tools,
 
 ##  Best HVLP Paint Sprayers for Cabinets
 
-###  1.[Fuji 2203G Semi-PRO 2 HVLP Spray System](https://www.amazon.com/dp/B07P6RM9TZ?tag=p-policy-20)
+### 1. [Fuji 2203G Semi-PRO 2 HVLP Spray System](https://www.amazon.com/dp/B07P6RM9TZ?tag=p-policy-20)
 
 The Fuji 2203G Semi-PRO 2 is a top-tier HVLP sprayer known for its professional-grade performance. It features adjustable fan control, allowing you to customize the spray pattern for detailed work on cabinets. This sprayer is easy to use, even for beginners, and its durable build ensures longevity, making it a great investment for DIYers and professionals alike.
 
-###  2.[Wagner Spraytech FLEXiO 5000](https://www.amazon.com/dp/B09HZ4T8H1?tag=p-policy-20)
+### 2. [Wagner Spraytech FLEXiO 5000](https://www.amazon.com/dp/B09HZ4T8H1?tag=p-policy-20)
 
 The Wagner FLEXiO 5000 offers versatility and precision, making it ideal for painting cabinets. It comes with two nozzles: one for large surfaces and another for fine finishing, ensuring even coverage and a flawless finish. Its lightweight design and ease of cleaning make it a user-friendly choice for homeowners.
 
-###  3.[HomeRight Finish Max C800766](https://www.amazon.com/dp/B08GCSP6LM?tag=p-policy-20)
+### 3. [HomeRight Finish Max C800766](https://www.amazon.com/dp/B08GCSP6LM?tag=p-policy-20)
 
 The HomeRight Finish Max is a budget-friendly HVLP sprayer that delivers professional-quality results. Its adjustable settings allow for precise control over paint flow, making it suitable for cabinets and other intricate projects. This sprayer is lightweight and easy to maneuver, perfect for detailed work.
 
-###  4.[Earlex HV5500 Spray Station](https://www.amazon.com/dp/B0854P4SD1?tag=p-policy-20)
+### 4. [Earlex HV5500 Spray Station](https://www.amazon.com/dp/B0854P4SD1?tag=p-policy-20)
 
 The Earlex HV5500 is a powerful yet portable HVLP spray system designed for woodworking and cabinetry. It features a push-and-click spray pattern adjustment and a 13-foot hose for extended reach. Its robust build and ease of use make it a favorite among professionals and DIY enthusiasts.
 
-###  5.[Graco-Sharpe 288880 HVLP FX3000](https://www.amazon.com/dp/B074WNR16X?tag=p-policy-20)
+### 5. [Graco-Sharpe 288880 HVLP FX3000](https://www.amazon.com/dp/B074WNR16X?tag=p-policy-20)
 
 The Graco-Sharpe FX3000 offers precision and efficiency, making it an excellent choice for spraying cabinets. It features a lightweight design and an ergonomic grip, ensuring comfort during extended use. This sprayer is easy to clean and maintain, making it a reliable option for frequent use.
 

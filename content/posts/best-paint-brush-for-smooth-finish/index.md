@@ -20,7 +20,7 @@ Besides, it would help if you order a traditional paintbrush within your budget 
 
 To paint the house's interior, you'd require extended time - unless you're using a power painter or sprayer or even a roller.
 
-##  s: Top 7 Best Paint Brush for Smooth Finish in 2025
+## Top 7 Best Paint Brush for Smooth Finish in 2025
 
 ###  [1. Presa Premium Paint Brushes Set - Finesse & Precision from the Premium Filaments](https://www.amazon.com/dp/B011ARI5IU/?tag=p-policy-20)
 

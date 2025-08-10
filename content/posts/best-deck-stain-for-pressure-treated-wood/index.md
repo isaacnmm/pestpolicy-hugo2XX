@@ -18,7 +18,7 @@ Whats the best deck stain for pressure-treated wood? There is a variety of deck 
 
 I conducted some in-depth research while I am searching for a stain or primer for my deck. Maybe you're considering a stain for your pressure-treated pine deck? Or you think which deck stain lasts the longest? Or when should you stain your pressure-treated deck? Well, read below for responses to all these questions. See Also: [How to get rid of spray [paint](https://pestpolicy.com/best-deck-cleaner-for-trex/)smell? ](https://pestpolicy.com/how-to-get-rid-of-spray-paint-smell/)
 
-##  s: Top 7 Best [Deck](https://pestpolicy.com/best-deck-sealer-for-pressure-treated-wood/)Stain for Pressure Treated Wood in 2025
+## Top 7 Best [Deck](https://pestpolicy.com/best-deck-sealer-for-pressure-treated-wood/)Stain for Pressure Treated Wood in 2025
 
 ###  [1. THOMPSONS WATER-SEAL Stain (Water-proofing & Transparent)](https://www.amazon.com/dp/B00IKVLXYI/?tag=p-policy-20)
 

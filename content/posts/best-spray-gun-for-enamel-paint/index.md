@@ -18,7 +18,7 @@ If you are a professional painter or into DIY projects, you can confirm that pai
 
 To achieve the best results, you need among them the best spray guns for enamel paint which also saves you time. These spray guns are available at different prices, sizes, and performance levels on latex and water-based paints. It is paramount to understand them and go for the best based on your needs. See Also: Sprayer for Latex Paint.
 
-##  s: Top 7 Best Spray Gun for Enamel Paint in 2025
+## Top 7 Best Spray Gun for Enamel Paint in 2025
 
 ###  [1. Wagner Spraytech 0518080 Max HVLP Sprayer](https://www.amazon.com/dp/B003PGQI48/?tag=p-policy-20)
 

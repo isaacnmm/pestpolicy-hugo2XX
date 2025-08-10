@@ -20,21 +20,21 @@ Lets explore the top-rated options available on Amazon to help you make an infor
 
 ##  Best Flea Spray for Carpets
 
-###  1.[Vets Best Flea and Tick Home Spray](https://www.amazon.com/dp/B00GRS5PVK?tag=p-policy-20)
+### 1. [Vets Best Flea and Tick Home Spray](https://www.amazon.com/dp/B00GRS5PVK?tag=p-policy-20)
 
 Vets Best Flea and Tick Home Spray is a natural yet effective solution for dealing with fleas in carpets. Its plant-based formula contains peppermint oil and clove extract, offering a safe option for homes with pets and children. This spray kills fleas on contact and provides ongoing protection for your home. With its non-staining properties, its perfect for use on carpets, upholstery, and other surfaces.
 
 The refreshing scent is an added bonus, leaving your home smelling fresh after application.
 
-###  2.[Adams Flea and Tick Carpet Spray](https://www.amazon.com/dp/B0083R5184?tag=p-policy-20)
+### 2. [Adams Flea and Tick Carpet Spray](https://www.amazon.com/dp/B0083R5184?tag=p-policy-20)
 
 Adams Flea and Tick Carpet Spray is specifically designed for deep cleaning and flea extermination in carpets. This powerful spray not only kills adult fleas but also targets their eggs and larvae, breaking the flea life cycle. Its long-lasting formula protects your home for up to 7 months, ensuring comprehensive flea control. Easy to use, it penetrates deep into carpet fibers, effectively eliminating fleas in hard-to-reach areas.
 
-###  3.[Raid Flea Killer Plus Carpet and Room Spray](https://www.amazon.com/dp/B003PU8J1W?tag=p-policy-20)
+### 3. [Raid Flea Killer Plus Carpet and Room Spray](https://www.amazon.com/dp/B003PU8J1W?tag=p-policy-20)
 
 Raid Flea Killer Plus is a trusted solution for tackling flea infestations. It offers a dual-action formula that not only kills fleas on contact but also prevents their return by disrupting their life cycle. The spray can be used on carpets, rugs, and other soft surfaces without leaving residues. Raids fast-acting formula ensures quick results, making it a favorite among homeowners dealing with severe infestations.
 
-###  4.[Zodiac Carpet & Upholstery Aerosol Spray](https://www.amazon.com/dp/B0047Q4WF2?tag=p-policy-20)
+### 4. [Zodiac Carpet & Upholstery Aerosol Spray](https://www.amazon.com/dp/B0047Q4WF2?tag=p-policy-20)
 
 Zodiac Carpet & Upholstery Aerosol Spray is another excellent choice for flea control. This product is formulated to kill fleas, ticks, and dust mites while also deodorizing your carpets. It provides long-lasting protection, effectively stopping the flea life cycle for up to 7 months. Its easy-to-use aerosol can allows for targeted application, ensuring no flea goes unnoticed.
 

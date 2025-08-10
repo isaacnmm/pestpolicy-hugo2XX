@@ -21,7 +21,7 @@ Read on for a spot check on the [best](https://pestpolicy.com/best-acrylic-paint
 Based on our featured list, the Terminator-HSD Concrete and Driveway cleaning solution stands out from its competitors; thanks to its ability to remove the oil by breaking it down into its water and CO2 components.
 
 
-##  s: Top 7 Best Degreaser for Concrete 2025
+## Top 7 Best Degreaser for Concrete 2025
 
 ###  [1. Terminator-HSD Concrete and Driveway cleaner](https://www.amazon.com/dp/B00OAVXPAM/?tag=p-policy-20)
 

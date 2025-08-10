@@ -24,7 +24,7 @@ Appropriate methods and proper procedures should be adhered to during the paint 
 
 ##  Details: How to Get Paint off Laminate Floor
 
-###  1. Rubbing alcohol/[Isopropyl Alcohol](https://www.amazon.com/dp/B008FP1GNW/?tag=p-policy-20)
+### 1. Rubbing alcohol/ [Isopropyl Alcohol](https://www.amazon.com/dp/B008FP1GNW/?tag=p-policy-20)
 
 Required Items - A piece of cloth and warm water - Rubbing alcohol/isopropyl alcohol - Vacuum cleaner and an empty bucket - Protective gear eye protection, gloves, respirator, and dust coat - Soap detergent and apaintbrush for garage floors. Steps to Follow 1. Put on protective equipment (eye protection, gloves, respirator, and dust coat) 2. Vacuum the stained floor using a vacuum cleaner to remove dust particles and debris 3.
 

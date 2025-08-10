@@ -18,7 +18,7 @@ Fiberglass enjoys an age-old reputation as a strong and robust material, making 
 
 One way to take good care and maintain such a boat is by painting the fiberglass boat regularly. Below is our detailed list of quality Paint for Fiberglass Boats 2025.
 
-##  s: Top 7 Best Paint for Fiberglass Boats 2025
+## Top 7 Best Paint for Fiberglass Boats 2025
 
 ###  [1. Rust-Oleum 206999 Marine Topside Paint](https://www.amazon.com/dp/B01DD7HSB0/?tag=p-policy-20)
 

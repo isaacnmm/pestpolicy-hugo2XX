@@ -18,23 +18,23 @@ Exterior wood staining is essential for preserving the beauty and longevity of y
 
 ##  Best Exterior Wood Stain
 
-###  1.[Behr Premium Semi-Transparent Wood Stain](https://www.amazon.com/dp/B00Z4RRUBI?tag=p-policy-20)
+### 1. [Behr Premium Semi-Transparent Wood Stain](https://www.amazon.com/dp/B00Z4RRUBI?tag=p-policy-20)
 
 Behr Premium Semi-Transparent Wood Stain is a popular choice for its excellent durability and color retention. It is designed to penetrate deep into the wood, providing long-lasting protection against rain, sun, and mildew. This stain comes in various natural tones to enhance the beauty of your wood while offering superior UV protection.
 
-###  2.[Cabot Australian Timber Oil](https://www.amazon.com/dp/B003X39W3I?tag=p-policy-20)
+### 2. [Cabot Australian Timber Oil](https://www.amazon.com/dp/B003X39W3I?tag=p-policy-20)
 
 Cabot Australian Timber Oil is a highly recommended option for exterior wood. Its formula is specially crafted for hardwoods and provides a deep, rich finish that helps protect your wood from moisture, cracking, and fading. The oil-based formula penetrates deep into the wood, ensuring that your surfaces remain well-maintained and weather-resistant.
 
-###  3.[Olympic Maximum Waterproofing Sealant](https://www.amazon.com/dp/B000H0XVFQ?tag=p-policy-20)
+### 3. [Olympic Maximum Waterproofing Sealant](https://www.amazon.com/dp/B000H0XVFQ?tag=p-policy-20)
 
 Olympic Maximum Waterproofing Sealant is perfect for those looking for superior waterproofing protection. This stain creates a durable, protective barrier that prevents water damage and extends the life of your exterior wood surfaces. It is available in a variety of shades, offering flexibility to match your desired aesthetic.
 
-###  4.[DEFY Extreme Wood Stain](https://www.amazon.com/dp/B0015C97D4?tag=p-policy-20)
+### 4. [DEFY Extreme Wood Stain](https://www.amazon.com/dp/B0015C97D4?tag=p-policy-20)
 
 DEFY Extreme Wood Stain is known for its high performance and eco-friendly formula. Its a water-based stain that offers outstanding UV protection, which helps keep your wood surfaces from fading in the sun. It also resists mold and mildew growth, making it ideal for humid climates.
 
-###  5.[Minwax Gel Stain](https://www.amazon.com/dp/B002ONZ5RU?tag=p-policy-20)
+### 5. [Minwax Gel Stain](https://www.amazon.com/dp/B002ONZ5RU?tag=p-policy-20)
 
 Minwax Gel Stain is a versatile and easy-to-apply stain that works well on both interior and exterior wood surfaces. Its thick gel formula gives you more control during application, preventing drips and uneven coloring. Its perfect for restoring the rich appearance of your wood, especially on vertical surfaces like fences and doors.
 

@@ -18,23 +18,23 @@ Using the right HVLP sprayer can transform the quality of your cabinet finishes.
 
 ##  Best HVLP Sprayers for Cabinets
 
-###  1.[Wagner Spraytech Control Spray Max](https://www.amazon.com/dp/B00004T1XE?tag=p-policy-20)
+### 1. [Wagner Spraytech Control Spray Max](https://www.amazon.com/dp/B00004T1XE?tag=p-policy-20)
 
 The Wagner Spraytech Control Spray Max is an excellent choice for cabinet painting. It offers a professional-grade finish with adjustable settings, making it ideal for detailed and precise applications. With its two-stage turbine, this sprayer can handle various paint types, including lacquers and stains, ensuring a flawless coat on your cabinets.
 
-###  2.[HomeRight Super Finish Max](https://www.amazon.com/dp/B00EU2WJ5W?tag=p-policy-20)
+### 2. [HomeRight Super Finish Max](https://www.amazon.com/dp/B00EU2WJ5W?tag=p-policy-20)
 
 The HomeRight Super Finish Max is a versatile and budget-friendly HVLP sprayer. It features adjustable spray patterns and flow control, allowing you to customize your painting process. This sprayer is lightweight and easy to clean, making it perfect for beginners and experienced painters alike.
 
-###  3.[Fuji Semi-PRO 2 HVLP Spray System](https://www.amazon.com/dp/B003PGQI88?tag=p-policy-20)
+### 3. [Fuji Semi-PRO 2 HVLP Spray System](https://www.amazon.com/dp/B003PGQI88?tag=p-policy-20)
 
 For professionals seeking top-tier performance, the Fuji Semi-PRO 2 HVLP Spray System is a game-changer. Its powerful motor and advanced spray gun provide unmatched precision and finish quality. The system is durable and designed for frequent use, making it a reliable choice for large-scale cabinet projects.
 
-###  4.[Graco-Sharpe 288878 HVLP Spray Gun](https://www.amazon.com/dp/B00NO9A1T2?tag=p-policy-20)
+### 4. [Graco-Sharpe 288878 HVLP Spray Gun](https://www.amazon.com/dp/B00NO9A1T2?tag=p-policy-20)
 
 The Graco-Sharpe 288878 HVLP Spray Gun is a lightweight and ergonomic tool that delivers consistent results. It is easy to use and ideal for achieving a smooth, professional finish on cabinets. Its compact design makes it a great option for detailed work in tight spaces.
 
-###  5.[REXBETI Ultimate-750 HVLP Paint Sprayer](https://www.amazon.com/dp/B077QDLFC4?tag=p-policy-20)
+### 5. [REXBETI Ultimate-750 HVLP Paint Sprayer](https://www.amazon.com/dp/B077QDLFC4?tag=p-policy-20)
 
 The REXBETI Ultimate-750 offers high power and versatility, making it an excellent choice for DIY cabinet projects. Its adjustable settings allow for precise control, while its compact design ensures ease of use. This sprayer is also easy to clean, saving you time and effort.
 

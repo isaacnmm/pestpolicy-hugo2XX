@@ -55,11 +55,11 @@ Proof, 100% spray, is non-toxic as it's a plant-based pesticide, which makes it 
 
 Depending on the surfaces and the amount sprayed, the smell and residue from Proof 100% will last about two weeks. Travelers love proof 100% as it covers them against bed bugs for a large part of the journey. Besides, Proof 100% will provide 3-weeks of active protection against bed bug eggs and their larvae. However, thorough washing, vacuuming, or bed bugs steaming will help ease the smell's strength.
 
-###  2.Is Proof[Bed Bug Spray](https://pestpolicy.com/best-bed-bug-spray/)SafeTo Breathe?
+### 2.Is Proof [Bed Bug Spray](https://pestpolicy.com/best-bed-bug-spray/)SafeTo Breathe?
 
 Proof 100% is created fromCold Pressed Neem Oil that's EPA-prooved and equally safe to breathe, even for kids and pets. The plant-based active ingredients will not harm the body or the respiratory system of humans and pets if they breath the pesticide.
 
-##  #4: Proof[Bed Bug Spray](https://pestpolicy.com/bedlam-plus-bed-bug-spray-review/)vs.Other Sprays
+## #4: Proof [Bed Bug Spray](https://pestpolicy.com/bedlam-plus-bed-bug-spray-review/)vs.Other Sprays
 
 ###  1. ProofBed Bug Sprayvs.Ortho Home Defense Dual-Action
 

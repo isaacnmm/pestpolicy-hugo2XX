@@ -18,7 +18,7 @@ If you're a beginner or expert painter/ artist hunting for the best [acrylic](ht
 
 Well, the canvas is a critical part of your art - but you must get the best to your [acrylic paints](https://sites.psu.edu/arwpassionblog/2018/04/26/acrylic-paint-pouring/),your artwork, and style. The paint's acrylic polymer emulsion allows the water to evaporate and hence thus give you quality durable paint. Luckily, acrylic paint is acid-free. See Also: top paint strippers for wood. So, let's get started!
 
-##  s: Top7 Best Acrylic Paint for Canvas in 2025
+## Top7 Best Acrylic Paint for Canvas in 2025
 
 ###  [1. Crafts 4 All Acrylic Paint for Canvas, Fabric, Ceramic, Wood](https://www.amazon.com/dp/B01EVJ8Q0Q/?tag=p-policy-20)
 

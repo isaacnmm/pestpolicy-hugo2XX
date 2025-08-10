@@ -18,7 +18,7 @@ The best [garage](https://pestpolicy.com/best-garage-floor-paint/)floor containm
 
 This is among the least considerations made when choosing a good mat. But among the many factors, always make sure you pick the best mat that will give you the value for your money. A careful analysis and research of the available mats have to lead us to narrow down on the mats listed below in this article. See Also: Painting a garage floor?
 
-##  s: 7 Best Garage Floor Containment Mats in 2025
+## 7 Best Garage Floor Containment Mats in 2025
 
 ###  [1. Hanjet Garage Car Containment Mat](https://www.amazon.com/dp/B078YNPW7J/?tag=p-policy-20)
 

@@ -20,7 +20,7 @@ It is still possible to get the best airless and budget paint sprayer and achiev
 
 Though it involves a lot of factors to consider, this article carefully outlines them for you to narrow down your choices.
 
-##  s: 7 Best Airless Paint Sprayer Under 500 in 2025
+## 7 Best Airless Paint Sprayer Under 500 in 2025
 
 ###  [1. Graco Magnum,262805-X7, Airless Paint Sprayer](https://www.amazon.com/dp/B0026SSW8G/?tag=p-policy-20)
 

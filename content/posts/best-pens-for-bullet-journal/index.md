@@ -18,23 +18,23 @@ Using the right pen for your [bullet](https://pestpolicy.com/best-bullet-journal
 
 ##  Best Pens for Bullet Journal
 
-###  1.[Pilot G2 Gel Pens](https://www.amazon.com/dp/B001GAOTSW?tag=p-policy-20)
+### 1. [Pilot G2 Gel Pens](https://www.amazon.com/dp/B001GAOTSW?tag=p-policy-20)
 
 The Pilot G2 Gel Pens are among the most popular choices for bullet journaling. Known for their smooth ink flow and precision, these pens provide a consistent writing experience, whether youre crafting detailed layouts or jotting down quick notes. They come in various colors, allowing you to personalize your spreads and make your journal visually engaging. The gel ink is also long-lasting, ensuring your work remains vibrant over time.
 
-###  2.[Sakura Pigma Micron Pens](https://www.amazon.com/dp/B0008G8G8Y?tag=p-policy-20)
+### 2. [Sakura Pigma Micron Pens](https://www.amazon.com/dp/B0008G8G8Y?tag=p-policy-20)
 
 Sakura Pigma Micron Pens are the gold standard for archival-quality ink. The ink is waterproof, fade-resistant, and smudge-proof, making it ideal for preserving your bullet journal entries for years. These pens are perfect for intricate designs, fine detailing, and consistent line work. Available in multiple tip sizes, they allow you to experiment with varying line thicknesses, adding depth and character to your layouts.
 
-###  3.[Tombow Dual Brush Pens](https://www.amazon.com/dp/B00JVP7F0I?tag=p-policy-20)
+### 3. [Tombow Dual Brush Pens](https://www.amazon.com/dp/B00JVP7F0I?tag=p-policy-20)
 
 Tombow Dual Brush Pens offer the versatility of both a fine tip and a brush tip, making them ideal for calligraphy, shading, and outlining. With their vibrant, water-based ink, these pens are perfect for creative designs and colorful layouts. They are also blendable, allowing you to create gradient effects that add a professional touch to your spreads. For beginners, Tombow provides a helpful guide to learn brush lettering techniques.
 
-###  4.[Staedtler Triplus Fineliner Pens](https://www.amazon.com/dp/B0007OEDOE?tag=p-policy-20)
+### 4. [Staedtler Triplus Fineliner Pens](https://www.amazon.com/dp/B0007OEDOE?tag=p-policy-20)
 
 Staedtler Triplus Fineliner Pens are a favorite for their superfine tips and ergonomic design. These pens are excellent for precise writing, detailed doodles, and adding pops of color to your bullet journal. Their water-based ink is quick-drying, reducing the chances of smudges. The triangular grip ensures comfort, even during long journaling sessions, making them a go-to choice for avid journalers.
 
-###  5.[Pentel EnerGel Pens](https://www.amazon.com/dp/B005E7B66O?tag=p-policy-20)
+### 5. [Pentel EnerGel Pens](https://www.amazon.com/dp/B005E7B66O?tag=p-policy-20)
 
 If gel pens are your preference, the Pentel EnerGel series is an excellent option. These pens offer fast-drying ink, minimizing smudgingespecially useful for left-handed journalers. The smooth ink flow ensures effortless writing, while the bold, rich colors add flair to your journal entries. Pentel EnerGel Pens are versatile, suitable for everything from daily logs to artistic designs.
 

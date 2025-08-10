@@ -24,7 +24,7 @@ Durability, reliability are among the many primary factors you may need to consi
 
 Different brands from different companies may possess different features but your choice will depend on your priority. Below is a list of well-researched sprayers under 300 that you may want to consider for purchase.
 
-##  s: Top 7 [Best](https://pestpolicy.com/best-airless-paint-sprayer-for-interior-walls/)Airless Paint Sprayer Under 300 in 2025
+## Top 7 [Best](https://pestpolicy.com/best-airless-paint-sprayer-for-interior-walls/)Airless Paint Sprayer Under 300 in 2025
 
 ###  [1. Graco Magnum X5 Stand Airless Sprayer](https://www.amazon.com/dp/B0026SR0FW/?tag=p-policy-20)
 

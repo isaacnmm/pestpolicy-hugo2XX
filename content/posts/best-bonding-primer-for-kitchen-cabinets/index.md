@@ -18,7 +18,7 @@ For most DIY painters, purchasing the best bonding primer for [kitchen](https://
 
 There are many brands and varieties of kitchen cabinet primers allowing excellent home improvement. As a sidenote, oil-based primers will work great for oak cabinets since they'll quickly fill the grain compared to your regular primers. See Also: Check these stains for swings sets.
 
-##  s: 7 Best Bonding Primer for Kitchen Cabinets 2025
+## 7 Best Bonding Primer for Kitchen Cabinets 2025
 
 ###  [1. KILZ Restoration Primer Maximum Odor and Stain Blocking](https://www.amazon.com/dp/B007XH9PKO/?tag=p-policy-20)
 

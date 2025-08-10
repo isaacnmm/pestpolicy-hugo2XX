@@ -18,7 +18,7 @@ Whats the best automotive HVLP spray gun? To achieve quality painting and long-l
 
 This may not be a simple task as per se since youll have to consider other factors apart from price. Maybe, you are stuck between options available in the market and probably wonder which of these spray guns would work excellently for you. See Also: Whats the best deck sealer for pressure-treated wood?
 
-##  s: 7 Best Automotive HVLP Spray Gun for the Money 2025
+## 7 Best Automotive HVLP Spray Gun for the Money 2025
 
 ###  [1. Wagner Spraytech 0529031 MotoCoat](https://www.amazon.com/dp/B0119LRYQG/?tag=p-policy-20)
 

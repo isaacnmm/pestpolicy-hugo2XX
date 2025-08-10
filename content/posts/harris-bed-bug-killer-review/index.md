@@ -57,7 +57,7 @@ Harris Bed Bug Killer contains the Deltamethrin that tends to irritate the human
 
 It's a common fact that current bed bugs are continually developing resistance against Deltamethrin. Therefore, at the usual dosage, the bed bugs will still endure. Recent [research](https://www.npmapestworld.org/default/assets/File/newsroom/magazine/2015/nov-dec_2015.pdf)shows that over 85 percent of the cockroaches don't die from exposing them to Deltamethrin-containing pesticides while also ranking bed bugs as the worst pests.
 
-##  #4: Harris[Bed Bug Killer](https://pestpolicy.com/what-causes-bed-bugs/)vs.Other Sprays
+## #4: Harris [Bed Bug Killer](https://pestpolicy.com/what-causes-bed-bugs/)vs.Other Sprays
 
 **1. Harris Bed Bug Killer vs. Ortho Home Defense Dual-Action** Review of Ortho Home Defense Dual-Action **2. Harris Bed Bug Killer vs. Proof Bed Bug Spray** [Review of Proof Bed Bug Spray](https://pestpolicy.com/proof-bed-bug-spray-review/)
 

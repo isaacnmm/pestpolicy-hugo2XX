@@ -18,7 +18,7 @@ The Best Epoxy Spray [Paint](https://pestpolicy.com/best-acrylic-paint-for-canva
 
 Our picks are the [best](https://pestpolicy.com/best-acrylic-paint-for-pouring/)in the market based on their permeability chemical resistance, bond strength, and longevity. Read on if you are concerned about keeping moisture, heat, and harmful chemicals away from your porcelain and fiberglass surfaces.
 
-##  s: Top 7 Best Epoxy Spray Paint in 2025
+## Top 7 Best Epoxy Spray Paint in 2025
 
 ###  [1. Rust-Oleum 7887830 Epoxy Stainless Steel Spray](https://www.amazon.com/dp/B0009XB3JU/?tag=p-policy-20)
 

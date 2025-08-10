@@ -20,7 +20,7 @@ When selecting your sprayer, consider factors such as the power source, nozzle t
 
 It would also help if you chose a handheld sprayer with a comfortable handle and classic spray patterns without sacrificing overall quality.
 
-##  s: 7 Best Handheld Paint Sprayers in 2025
+## 7 Best Handheld Paint Sprayers in 2025
 
 ###  [1. Graco Ultra Max Cordless Airless Handheld Paint Sprayer](https://www.amazon.com/dp/B072C4HZ9B/?tag=p-policy-20)
 

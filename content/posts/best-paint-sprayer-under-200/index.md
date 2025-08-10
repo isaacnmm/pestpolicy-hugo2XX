@@ -18,7 +18,7 @@ The best paint sprayer under 200 will come in handy when you need a budget-frien
 
 While at it, get a paint sprayer that offers great efficiency, flow rate and pressure, spray patterns, speed, and comfort. Check the spray-tip design to reduce cases of nozzle blocking. The sprayer must have an efficient design and light-weight construction to allow easy working on the DIY painting tasks - also be inexpensive and simple to maintain.
 
-##  s: Top 7 Best Paint Sprayer Under 200 in 2025
+## Top 7 Best Paint Sprayer Under 200 in 2025
 
 ###  [1. Graco-TrueCoat 17A466-360 DS Paint Gun or Sprayer](https://www.amazon.com/dp/B00NHX6UWY/?tag=p-policy-20)
 

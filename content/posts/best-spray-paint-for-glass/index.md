@@ -18,7 +18,7 @@ Not all spray paints work well on the glasses and give you the desired results. 
 
 Apart from the painting skills involved having, good spray paint will also ensure you get a good even finish for your glass. Among the things to consider are adhesion and the time taken to dry. These factors and others are all outlined in this article as I guide you into the best spray paints available in the market - just make your choice.
 
-##  s: Top 7 Best Spray Paint for Glass in in 2025
+## Top 7 Best Spray Paint for Glass in in 2025
 
 ###  [1. Krylon-K09027000 Stained Glass Paint - K09027000](https://www.amazon.com/dp/B01HP2HNTG/?tag=p-policy-20)
 

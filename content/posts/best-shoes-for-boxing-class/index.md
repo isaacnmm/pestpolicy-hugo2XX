@@ -89,7 +89,7 @@ In addition, the shoes come in various attractive colorways. Am sure youll defin
 
 Cons: - Some people had issues with sizing
 
-###  5.[Venum Elite Boxing Shoes](https://www.amazon.com/dp/B07KXP32JX/tag=p-policy-20)
+### 5. [Venum Elite Boxing Shoes](https://www.amazon.com/dp/B07KXP32JX/tag=p-policy-20)
 
 The Venum Elite Boxing Shoes are the first edition of the Venum Elite brand. They come with beautiful designs and excellent color selections. They also provide comfort, stability, agility, and power. They make boxing an interesting sport thanks to the speed they provide allowing the wearer to hit harder.
 

@@ -18,7 +18,7 @@ The best airless [paint](https://pestpolicy.com/best-airless-paint-sprayer-for-d
 
 An airless sprayer is effectively better in painting your cabinets compared to using a paintbrush or rollers - its faster and more effective. These sprayers are highly versatile with effective pressure regulation and you can use various tips for different liquid like latex or varnish.
 
-##  s: 7 Best Airless Paint Sprayer for Cabinets 2025
+## 7 Best Airless Paint Sprayer for Cabinets 2025
 
 ###  [1. Graco Ultra-Corded 17M359 Airless Hand-held Paint Sprayer](https://www.amazon.com/dp/B00407NK6A/?tag=p-policy-20)
 

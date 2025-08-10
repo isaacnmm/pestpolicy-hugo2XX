@@ -22,7 +22,7 @@ Notably, match the primer selected with exterior structure or wall under paint a
 
 To acquire detailed information, let us get started. See Also: Exterior wood stain.
 
-##  s: Top 7 Best Exterior Primer Paint in 2025
+## Top 7 Best Exterior Primer Paint in 2025
 
 ###  [1. KILZ Premium High-Hide Exterior Latex Primer](https://www.amazon.com/dp/B0002YOZZU/?tag=p-policy-20)
 

@@ -18,7 +18,7 @@ It is practically impossible to accomplish a painting task without sourcing for 
 
 You need to know a bit more about the various makes of folding ladders and how to identify the best - including for playsets. Additionally, you need to know what to look for in a good quality folding ladder. These are the details that I will share with you in this article, therefore read through to learn everything.
 
-##  s: Top 7 Best Folding Ladders for Painters 2025****
+## Top 7 Best Folding Ladders for Painters 2025****
 
 ###  [1. WolfWise Aluminum Telescopic Extension Multi-Purpose Ladder](https://www.amazon.com/dp/B01B2OFNHM/?tag=p-policy-20)
 

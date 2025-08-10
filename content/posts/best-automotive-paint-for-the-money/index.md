@@ -17,7 +17,7 @@ The best automotive paint for the money is great for painters with limited paint
 
 So, reduce the hassle, guesswork, and headaches that come with [auto painting](https://www.popularmechanics.com/cars/how-to/a3110/a-diy-guide-to-painting-your-car-15998013/)get a great automotive HVLP sprayer plus great paints. Definitely, automotive painting is different from house wall painting. For cars, you'll require sprayers, primers, and clear coats but walls mainly require paint rollers.
 
-##  s: 7 Best Automotive Paint for the Money 2025
+## 7 Best Automotive Paint for the Money 2025
 
 ###  [1. Dupli-Color BCL0125 Automotive Clear Top Coat](https://www.amazon.com/dp/B00407NK6A/?tag=p-policy-20)
 

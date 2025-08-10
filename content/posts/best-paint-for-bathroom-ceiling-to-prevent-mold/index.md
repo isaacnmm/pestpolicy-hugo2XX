@@ -22,7 +22,7 @@ Unfortunately, you cannot just apply any paint, say the water-based type, and ex
 
 I have labored to give you a list of paints that will solve the mold problem and turn your bathroom into a place you will want to spend a little more time.
 
-##  s: 7 Best Paint for Bathroom Ceiling to Prevent Mold 2025
+## 7 Best Paint for Bathroom Ceiling to Prevent Mold 2025
 
 ###  [1. Modern-Masters ME200-GAL Bathroom-Ceiling Metallic Paint](https://www.amazon.com/dp/B000I1VHHQ/?tag=p-policy-20)
 

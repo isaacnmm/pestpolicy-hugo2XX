@@ -18,23 +18,23 @@ Dealing with [bed](https://pestpolicy.com/bed-bugs-vs-other-pests/)bugs can be a
 
 ##  Best Vacuums for Bed Bugs
 
-###  1.[Shark Navigator Lift-Away Professional NV356E](https://www.amazon.com/dp/B07HFX8H5Q?tag=p-policy-20)
+### 1. [Shark Navigator Lift-Away Professional NV356E](https://www.amazon.com/dp/B07HFX8H5Q?tag=p-policy-20)
 
 The Shark Navigator NV356E offers powerful suction and an anti-allergen seal, making it ideal for capturing bed bugs and their eggs. Its HEPA filtration ensures allergens and particles are trapped inside. The vacuums lift-away feature allows you to clean hard-to-reach areas, including mattress seams and crevices where bed bugs often hide.
 
-###  2.[Hoover WindTunnel 3 High-Performance Pet Vacuum](https://www.amazon.com/dp/B08M7ZV5D1?tag=p-policy-20)
+### 2. [Hoover WindTunnel 3 High-Performance Pet Vacuum](https://www.amazon.com/dp/B08M7ZV5D1?tag=p-policy-20)
 
 The Hoover WindTunnel 3 provides strong suction power and a range of attachments for thorough cleaning. Its deep-cleaning capabilities make it effective for removing bed bugs from carpets, mattresses, and upholstery. This vacuum features a reusable HEPA filter, ensuring long-term efficiency and cost-effectiveness.
 
-###  3.[Dyson V11 Torque Drive Cordless Vacuum](https://www.amazon.com/dp/B07YN9XDP2?tag=p-policy-20)
+### 3. [Dyson V11 Torque Drive Cordless Vacuum](https://www.amazon.com/dp/B07YN9XDP2?tag=p-policy-20)
 
 The Dyson V11 is a versatile cordless vacuum that delivers powerful suction and comes with multiple attachments for detailed cleaning. Its advanced filtration system captures microscopic particles, including bed bug eggs. Its lightweight design and cordless convenience make it easy to use on mattresses, bed frames, and other infested areas.
 
-###  4.[Atrix VACBP1 HEPA Backpack Vacuum](https://www.amazon.com/dp/B08CYW7BW6?tag=p-policy-20)
+### 4. [Atrix VACBP1 HEPA Backpack Vacuum](https://www.amazon.com/dp/B08CYW7BW6?tag=p-policy-20)
 
 The Atrix VACBP1 is a professional-grade vacuum designed for thorough cleaning in residential and commercial settings. Its HEPA filtration system ensures that bed bugs and allergens are securely trapped. The backpack design provides mobility, allowing you to clean efficiently in tight spaces and around furniture.
 
-###  5.[Miele Complete C3 Marin Canister Vacuum Cleaner](https://www.amazon.com/dp/B0899GGYBR?tag=p-policy-20)
+### 5. [Miele Complete C3 Marin Canister Vacuum Cleaner](https://www.amazon.com/dp/B0899GGYBR?tag=p-policy-20)
 
 The Miele C3 Marin combines powerful suction with adjustable settings, making it ideal for different surfaces. Its sealed system and HEPA AirClean filter capture bed bugs and allergens effectively. Its quiet operation and durable build make it a premium choice for homeowners dealing with bed bug infestations.
 

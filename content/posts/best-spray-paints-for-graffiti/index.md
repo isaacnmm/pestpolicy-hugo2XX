@@ -18,7 +18,7 @@ If youre looking for the best spray paints for graffiti, youre just in time for 
 
 On [choosing paints](http://www.ced.berkeley.edu/downloads/pubs/facilities_mch/mch_spraypaint.pdf),for a clean wall you'll use glossier paint and won't need to considered paint adherence. But, for brick or concrete outdoor painting, use heavy paints that'll easily stick on the surface. But what's the best stain for a swing set?
 
-##  s: 7 Best [Spray](https://pestpolicy.com/best-spray-paint-for-metal/)Paints for Graffiti in 2025
+## 7 Best [Spray](https://pestpolicy.com/best-spray-paint-for-metal/)Paints for Graffiti in 2025
 
 ###  [1. Montana BLACK Mural/ Graffiti Spray Paint Set](https://www.amazon.com/dp/B010GY2QWO/?tag=p-policy-20)
 

@@ -18,7 +18,7 @@ Whats the best [exterior](https://pestpolicy.com/best-exterior-primer-paint/)pai
 
 So, get the best mold-killing primers that have excellent antimicrobial properties to prevent the build-up and growth of mildew and mold blotches which may damage the houses' walls. But for starters, latex exterior paints (check latex paint sprayers ) will a great pick for outdoor painting such as trim and house walls. Latex paints will contract and expand with temperature changes.
 
-##  s: 7 Best Exterior Paint to Prevent Mold in 2025
+## 7 Best Exterior Paint to Prevent Mold in 2025
 
 ###  [1. Kilz Exterior/ Interior Masonry & Basement Water-proofing Paint](https://www.amazon.com/dp/B00B2G97FU/?tag=p-policy-20)
 

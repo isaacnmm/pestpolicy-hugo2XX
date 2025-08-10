@@ -22,7 +22,7 @@ We have gone through the bristle quality, handle type, size, and shape to give y
 
 You may consider going through the article below one-by-one.
 
-##  s: Top 7 Best Paint Brushes for Walls in 2025
+## Top 7 Best Paint Brushes for Walls in 2025
 
 ###  [1. Purdy-144400340 Swan Paint Brush-XL Series, 4 inch](https://www.amazon.com/dp/B00002N6IR/?tag=p-policy-20)
 

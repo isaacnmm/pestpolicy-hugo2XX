@@ -20,23 +20,23 @@ Heres a guide to the best paint rollers for ceilings and tips for choosing the i
 
 ##  Best Paint Rollers for Ceilings
 
-###  1.[Wagner Smart Roller](https://www.amazon.com/dp/B00J2LRBO8?tag=p-policy-20)
+### 1. [Wagner Smart Roller](https://www.amazon.com/dp/B00J2LRBO8?tag=p-policy-20)
 
 The Wagner Smart Roller simplifies painting with its innovative design that includes an integrated paint reservoir. This roller eliminates the need for a paint tray, allowing for faster, mess-free application. Its perfect for smooth and semi-smooth ceiling surfaces. With its ergonomic handle and even paint distribution, this roller is a great choice for DIY painters and professionals alike.
 
-###  2.[Purdy White Dove Roller Cover](https://www.amazon.com/dp/B074DQ23D6?tag=p-policy-20)
+### 2. [Purdy White Dove Roller Cover](https://www.amazon.com/dp/B074DQ23D6?tag=p-policy-20)
 
 Purdys White Dove Roller Cover is known for its high-quality fabric that delivers a smooth, lint-free finish. Its ideal for applying all types of paint on flat or slightly textured ceilings. This roller cover ensures excellent paint absorption and release, reducing drips and providing consistent coverage.
 
-###  3.[Wooster Microfiber Roller Cover](https://www.amazon.com/dp/B07ZQ2F5XZ?tag=p-policy-20)
+### 3. [Wooster Microfiber Roller Cover](https://www.amazon.com/dp/B07ZQ2F5XZ?tag=p-policy-20)
 
 Woosters Microfiber Roller Cover is designed for superior paint pickup and even application. Its microfiber material works well with both water-based and oil-based paints, making it versatile for different ceiling finishes. This roller is especially effective on smooth and semi-smooth ceilings, providing a professional-grade finish.
 
-###  4.[Bates Choice Paint Roller](https://www.amazon.com/dp/B00002N8OT?tag=p-policy-20)
+### 4. [Bates Choice Paint Roller](https://www.amazon.com/dp/B00002N8OT?tag=p-policy-20)
 
 The Bates Choice Paint Roller is a budget-friendly option that doesnt compromise on quality. It includes a durable roller frame and high-density foam covers, making it suitable for ceilings and walls. Its lightweight design reduces fatigue during extended painting sessions, making it ideal for larger projects.
 
-###  5.[Katzco Paint Roller Kit](https://www.amazon.com/dp/B081TK4H75?tag=p-policy-20)
+### 5. [Katzco Paint Roller Kit](https://www.amazon.com/dp/B081TK4H75?tag=p-policy-20)
 
 Katzcos Paint Roller Kit offers excellent value with its comprehensive set that includes multiple roller covers, an extendable handle, and other accessories. This kit is perfect for ceiling projects as it provides the tools needed for efficient and precise painting. The rollers in this kit are compatible with different types of paint, ensuring smooth and even coverage.
 

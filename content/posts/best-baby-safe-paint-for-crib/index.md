@@ -20,7 +20,7 @@ Water-based and natural paints have proved safe to paint on baby cribs since the
 
 The babys crib painting must offer elegance and beauty on the furniture with no priming.
 
-##  s: Top 7 Best Baby Safe Paint for Crib in 2025[Non-VOC Paints]
+## Top 7 Best Baby Safe Paint for Crib in 2025 [Non-VOC Paints]
 
 ###  [1. Tried and True-100% solvent-free Wood Stain](https://www.amazon.com/dp/B01ENO01WK/?tag=p-policy-20)
 

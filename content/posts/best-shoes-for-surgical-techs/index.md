@@ -60,7 +60,7 @@ Cons: - You might size up if you have wide feet
 
 Also Read: Best Running Shoes for Posterior Tibial Tendonitis
 
-###  3.[Merrell Men's Jungle Leather Slip-On Shoe](https://www.amazon.com/dp/B006PFQXUU/tag=p-policy-20)
+### 3. [Merrell Men's Jungle Leather Slip-On Shoe](https://www.amazon.com/dp/B006PFQXUU/tag=p-policy-20)
 
 Merrell Men's Jungle Leather Slip-On is another incredible operating room shoe. Surgical techs and other medical personnel will greatly benefit from wearing this shoe. Its lightweight, comfortable, and cushioned.
 
@@ -78,7 +78,7 @@ Cons: - You might need to break in on them
 
 Also Read: Best Mens Dress Shoes for Standing All Day
 
-###  4.[Skechers for Work Men's Flex Advantage](https://www.amazon.com/dp/B00NQY1OKM/tag=p-policy-20)Best OR shoes for Men
+### 4. [Skechers for Work Men's Flex Advantage](https://www.amazon.com/dp/B00NQY1OKM/tag=p-policy-20)Best OR shoes for Men
 
 Skechers for Work Flex Advantage is an excellent shoe for surgical techs. It boasts stability, cushioning, comfort, and support. It comes in various width options to accommodate all surgeons or workers irrespective of your foot type.
 

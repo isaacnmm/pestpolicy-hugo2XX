@@ -18,7 +18,7 @@ To save time and money using a roller as compared to brush on emulsion paints is
 
 Besides considering the type of surface being painted, painting material, there are also different sizes and types of rollers available in the market. Failure to identify the right rollers for your job could lead you to incur losses and having a poorly done job. See Also: Paint roller for textured walls.
 
-##  s: Top 7 Best Paint Roller for Emulsion in 2025
+## Top 7 Best Paint Roller for Emulsion in 2025
 
 ###  [1. Wooster Brush RR642-9 Roller Cover, 9-Inch](https://www.amazon.com/dp/B01FWCAKB4/?tag=p-policy-20)
 

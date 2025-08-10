@@ -21,7 +21,7 @@ Let's explore the diverse landscape of termite control solutions and discover ho
 
 ##  Best Termite Killers
 
-###  1.[Spectracide Terminate Termite Baits](https://www.amazon.com/Spectracide-Terminate-Termite-Detection-Killing/dp/B00AA8WVLI?&linkCode=ll1&tag=p-policy-20&linkId=3e058f1a15e72454bbe8dde442309777&language=en_US&ref_=as_li_ss_tl)
+### 1. [Spectracide Terminate Termite Baits](https://www.amazon.com/Spectracide-Terminate-Termite-Detection-Killing/dp/B00AA8WVLI?&linkCode=ll1&tag=p-policy-20&linkId=3e058f1a15e72454bbe8dde442309777&language=en_US&ref_=as_li_ss_tl)
 
 These easy-to-install stakes lure and kill foraging termites, with pop-up indicators alerting you to activity. Ideal for early detection and perimeter protection. These stations lure termites with attractive cellulose-based baits laced with slow-acting poisons. As the termites feed and share the poison within their colony, it leads to a domino effect, effectively eliminating the entire population.
 
@@ -31,7 +31,7 @@ These easy-to-install stakes lure and kill foraging termites, with pop-up indica
 
 - **Convenient and Effective: **No trenching or spraying is required, ideal for DIY application and targeted protection. **Considerations: ** - May not be suitable for large or existing infestations, professional help may be needed in such cases. - Baits take time to work (weeks to months), requiring patience and monitoring. - Not all termite species are attracted to cellulose baits, research is recommended for optimal effectiveness.
 
-###  2.[BioAdvanced Termite Killer](https://www.amazon.com/BIOADVANCED-700350A-Perimeter-Treatment-Granules/dp/B000RUIJYM?&linkCode=ll1&tag=p-policy-20&linkId=f456876d41530e81766291899ecb85d5&language=en_US&ref_=as_li_ss_tl)
+### 2. [BioAdvanced Termite Killer](https://www.amazon.com/BIOADVANCED-700350A-Perimeter-Treatment-Granules/dp/B000RUIJYM?&linkCode=ll1&tag=p-policy-20&linkId=f456876d41530e81766291899ecb85d5&language=en_US&ref_=as_li_ss_tl)
 
 This liquid termiticide forms a protective barrier around your home's foundation, repelling and eliminating invading termites. Long-lasting and effective, but professional application is recommended. - **Key Features: **Repels and kills termites, long-lasting protection (up to 5 years), environmentally friendly formula, safe for people and pets when used as directed.
 
@@ -39,7 +39,7 @@ This liquid termiticide forms a protective barrier around your home's foundation
 
 **Considerations: ** - Requires thorough trenching and application, professional help is recommended for complex infestations.
 
-###  3.[Ortho Home Defense MAX](https://www.amazon.com/Ortho-Defense-Indoor-Insect-Barrier/dp/B07WHJW3FR?th=1&linkCode=ll1&tag=p-policy-20&linkId=8fc6dc9190e161fb6277550a7d9dbf5a&language=en_US&ref_=as_li_ss_tl)
+### 3. [Ortho Home Defense MAX](https://www.amazon.com/Ortho-Defense-Indoor-Insect-Barrier/dp/B07WHJW3FR?th=1&linkCode=ll1&tag=p-policy-20&linkId=8fc6dc9190e161fb6277550a7d9dbf5a&language=en_US&ref_=as_li_ss_tl)
 
 This concentrated liquid termiticide provides both subterranean and surface termite control. It creates a long-lasting barrier around your home's foundation and can be applied with a pump sprayer or professional equipment. - **Key Features: **Dual action against subterranean and surface termites, concentrated formula for large areas, long-lasting protection (up to 8 months), can be applied with a pump sprayer or professionally.
 

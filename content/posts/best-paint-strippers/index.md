@@ -20,23 +20,23 @@ Lets explore some of the best paint strippers available and what makes them stan
 
 ##  Best Paint Strippers
 
-###  1.[Citristrip Paint and Varnish Stripping Gel](https://www.amazon.com/dp/B000BQL0WA?tag=p-policy-20)
+### 1. [Citristrip Paint and Varnish Stripping Gel](https://www.amazon.com/dp/B000BQL0WA?tag=p-policy-20)
 
 Citristrip is a popular choice among DIY enthusiasts and professionals. Its non-toxic, citrus-scented formula is effective on multiple layers of paint and varnish. The gel consistency allows it to cling to vertical surfaces, making it versatile for various projects. This product works on wood, metal, and masonry, providing a safe and efficient solution for removing paint indoors without harsh fumes.
 
-###  2.[MAX Strip Paint and Varnish Stripper](https://www.amazon.com/dp/B0000DIWIM?tag=p-policy-20)
+### 2. [MAX Strip Paint and Varnish Stripper](https://www.amazon.com/dp/B0000DIWIM?tag=p-policy-20)
 
 MAX Strip Paint and Varnish Stripper is a water-based, eco-friendly solution that delivers powerful results. It effectively removes latex and oil-based paints, varnishes, and other coatings without producing toxic fumes. Its gentle formula is safe for indoor use and doesnt damage underlying surfaces, making it ideal for delicate projects.
 
-###  3.[Smart Strip Advanced Paint Remover](https://www.amazon.com/dp/B07B4ZNB5L?tag=p-policy-20)
+### 3. [Smart Strip Advanced Paint Remover](https://www.amazon.com/dp/B07B4ZNB5L?tag=p-policy-20)
 
 Smart Strip is an eco-friendly, biodegradable paint remover designed for heavy-duty applications. It can remove up to 15 layers of paint in one application, making it perfect for restoring old furniture or stripping thick coatings. Its odor-free formula is safe for indoor use and works on wood, metal, brick, and concrete.
 
-###  4.[Goof Off Pro Strength Remover](https://www.amazon.com/dp/B08HRDCRB1?tag=p-policy-20)
+### 4. [Goof Off Pro Strength Remover](https://www.amazon.com/dp/B08HRDCRB1?tag=p-policy-20)
 
 Goof Off Pro Strength Remover is a fast-acting solution for tackling stubborn paint and adhesive residues. Its industrial-strength formula penetrates tough coatings, making it ideal for heavy-duty projects. This product is best suited for outdoor use or well-ventilated areas due to its strong fumes.
 
-###  5.[Dumond Peel Away 1 Heavy-Duty Paint Remover](https://www.amazon.com/dp/B005DKUQF0?tag=p-policy-20)
+### 5. [Dumond Peel Away 1 Heavy-Duty Paint Remover](https://www.amazon.com/dp/B005DKUQF0?tag=p-policy-20)
 
 The Dumond Peel Away 1 system is a professional-grade paint remover designed for large-scale projects. It includes a paste and a paper cover that work together to remove multiple paint layers. This product is suitable for use on historic restorations and can be used on wood, masonry, and metal.
 

@@ -17,7 +17,7 @@ Whats the best antifouling [paint](https://pestpolicy.com/best-paint-for-fibergl
 
 It could be your door, boat, RV, bathtub, or pool that has algae or mold cover and wonders how to get rid of them successfully. Or perhaps, you may be looking for an antifouling method that may [keep your fiberglass item more durable](https://www.wikihow.com/Paint-Fiberglass)without sacrificing its impressive appearance.
 
-##  s: 7 Best Antifouling Paint for Fiberglass 2025
+## 7 Best Antifouling Paint for Fiberglass 2025
 
 ###  [1. TotalBoat JD Select Bottom Paint - #1 Pick](https://www.amazon.com/dp/B00HQJZ4XG/?tag=p-policy-20)
 

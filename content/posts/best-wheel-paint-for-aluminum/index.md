@@ -18,7 +18,7 @@ Selecting the best wheel paint for [aluminum](https://pestpolicy.com/best-paints
 
 Some of these paints are designed scratch-proof, water-resistant among other abilities that add value to your wheels and in your car in general. The finer details of such paints will be helpful to you in making a good buying choice. I have reviewed and consolidated some of the best paints and presented the best buying options. See Also: [[Paint](https://pestpolicy.com/non-skid-paint-for-aluminum-boats/)a Metal Interior Door](https://pestpolicy.com/how-to-paint-a-metal-interior-door/).
 
-##  s: 7Best Wheel Paint for Aluminumin 2025
+## 7Best Wheel Paint for Aluminumin 2025
 
 ###  [1. Dupli-Color Shadow Chrome Coating Kit](https://www.amazon.com/dp/B003E2AC0E/?tag=p-policy-20)
 

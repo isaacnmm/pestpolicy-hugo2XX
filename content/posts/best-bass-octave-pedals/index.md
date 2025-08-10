@@ -64,7 +64,7 @@ It boasts of eleven-octave modes. At the middle, this octave has a large white k
 
 This octave pedal is slightly cheaper than the rest, but still has many great qualities that will do an exceptional job.
 
-###  5.[Aguilar Octamizer Bass Octave Effect Pedal](https://www.amazon.com/dp/B002MUALVY/?tag=p-policy-20)
+### 5. [Aguilar Octamizer Bass Octave Effect Pedal](https://www.amazon.com/dp/B002MUALVY/?tag=p-policy-20)
 
 The Aguilar Octamizer produces warm and very natural sound effect while generating a wide array of musical sounds one octave lower than your original tone.
 

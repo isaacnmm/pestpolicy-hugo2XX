@@ -20,7 +20,7 @@ On prep work, before [spray painting](https://pestpolicy.com/best-[paint](https:
 
 But you should begin with some stain-blocking primer and follow this with some latex outdoor-primer and a number of latex-paint coats for ultraviolet protection in the summer months - apart from on plastic paints.
 
-##  s: Top 7 Best Paint for Outdoor Wood Furniture in 2025
+## Top 7 Best Paint for Outdoor Wood Furniture in 2025
 
 ###  [1. Rust-Oleum 1976730 for Unglazed Ceramic, Outdoor Wood, Masonry, Plaster](https://www.amazon.com/dp/B000BZX6SW/?tag=p-policy-20)
 

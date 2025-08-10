@@ -18,23 +18,23 @@ The coronavirus (2019-nCoV) has become a global health concern, and healthcare p
 
 ##  Types of PPE for Healthcare Personnel
 
-###  1.[N95 Respirators](https://www.amazon.com/dp/B084V8KZ71?tag=p-policy-20)
+### 1. [N95 Respirators](https://www.amazon.com/dp/B084V8KZ71?tag=p-policy-20)
 
 N95 respirators are the most recommended form of PPE for healthcare workers exposed to COVID-19. They provide a higher level of filtration compared to regular surgical masks, filtering out at least 95% of airborne particles. These masks are essential when dealing with patients who are known or suspected to be infected with the coronavirus.
 
-###  2.[Surgical Masks](https://www.amazon.com/dp/B085Y2D8TR?tag=p-policy-20)
+### 2. [Surgical Masks](https://www.amazon.com/dp/B085Y2D8TR?tag=p-policy-20)
 
 Surgical masks are primarily used for patients who are suspected to be infected, as they help limit the spread of respiratory droplets. While they do not offer the same level of protection as N95 respirators, they are still an important part of infection control measures in healthcare settings.
 
-###  3.[Face Shields](https://www.amazon.com/dp/B08Y6J9TL1?tag=p-policy-20)
+### 3. [Face Shields](https://www.amazon.com/dp/B08Y6J9TL1?tag=p-policy-20)
 
 Face shields provide an extra layer of protection for healthcare workers by preventing respiratory droplets from making contact with the face. They are often used in combination with masks or respirators to offer full-face protection when treating COVID-19 patients.
 
-###  4.[Gloves](https://www.amazon.com/dp/B07ZC3H1S7?tag=p-policy-20)
+### 4. [Gloves](https://www.amazon.com/dp/B07ZC3H1S7?tag=p-policy-20)
 
 Gloves are essential in preventing direct contact with potentially contaminated surfaces or patients. Healthcare personnel should wear gloves when treating patients with suspected or confirmed COVID-19 and when performing tasks that may expose them to bodily fluids.
 
-###  5.[Gowns](https://www.amazon.com/dp/B01B0ZS4IK?tag=p-policy-20)
+### 5. [Gowns](https://www.amazon.com/dp/B01B0ZS4IK?tag=p-policy-20)
 
 Gowns provide full-body protection by covering the healthcare worker's clothing and skin. This is particularly important when handling patients who may be coughing, sneezing, or otherwise spreading respiratory droplets. Gowns are often used in conjunction with gloves, face shields, and masks to provide a comprehensive PPE solution.
 

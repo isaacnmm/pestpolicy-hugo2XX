@@ -20,7 +20,7 @@ Paint sprayers will give an excellent finish - and even at a faster rate. It lea
 
 But you'll need to clean the fence to remove stains and watermarks. See Also: Stain for Redwood Fence
 
-##  s: Top 7 Best Paint Sprayer for Fence Stain in 2025
+## Top 7 Best Paint Sprayer for Fence Stain in 2025
 
 ###  [1. Graco-Magnum 257025 Paint Sprayer with Reversible Tip and Adjustable Pressure](https://www.amazon.com/dp/B004Z2090U/?tag=p-policy-20)
 

@@ -18,7 +18,7 @@ If you are a granite enthusiast, you can tell of the beauty it brings and the vu
 
 In my search, I have found several sealers in the market, but not all can help your surface. Considering the many factors that damage the granite, I have selected the sealers in the list below that I hope will be of great use and help you make a suitable buying choice - like the playset stains.
 
-##  s: Top 7 Best Granite Sealer 2025
+## Top 7 Best Granite Sealer 2025
 
 ###  [1. Miracle Sealants 511QT6 511 Sealers, Quart](https://www.amazon.com/dp/B000VX7HKW/?tag=p-policy-20)
 

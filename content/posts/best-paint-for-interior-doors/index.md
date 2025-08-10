@@ -18,7 +18,7 @@ The [interior](https://pestpolicy.com/how-to-paint-a-metal-interior-door/)of you
 
 During such movement, hands interact a lot with doors, thus staining and making them dirty. It is for such reasons that your doors need a regular touch by the Best Paint for Interior Doors to keep them neat and attractive. See Also: [Painting your Metal Interior Door](https://pestpolicy.com/how-to-paint-a-metal-interior-door/).
 
-##  s: Top 7 Best Paint for Interior Doors in 2025
+## Top 7 Best Paint for Interior Doors in 2025
 
 ###  [1. The Spruce Best KILZ 15121001 Interior Eggshell Paint](https://www.amazon.com/dp/B07QJ7TMTZ/?tag=p-policy-20)
 

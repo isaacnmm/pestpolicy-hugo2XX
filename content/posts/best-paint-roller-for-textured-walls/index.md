@@ -18,7 +18,7 @@ When the primer is fully dry, get a [deep-pile paint roller](https://www.pintere
 
 You'll require to use texture paint or texture material - this will work with all the various texture types invented, abstract, simulated, or the actual surface. Below I've reviewed quality paint rollers with the right cover and frame to undertake your next DIY project. They're great for trim or when cutting for [faster DIY painting](https://www.moving.com/tips/how-to-paint-a-room-quickly/),including on ceiling and walls.
 
-##  s: 7 Best Paint Roller for Textured Walls in 2025
+## 7 Best Paint Roller for Textured Walls in 2025
 
 ###  [1. Kraft DW180 Textured Roller Crow's Foot](https://www.amazon.com/dp/B000PC9K9U/?tag=p-policy-20)
 

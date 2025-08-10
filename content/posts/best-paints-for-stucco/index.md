@@ -17,7 +17,7 @@ Harsh weather is disastrous on your stucco but acquiring the best paints-used-fo
 
 For both the interior and exterior surfaces, you need to be selective on the kind of paint you pick in order to get the best results. The application also matters, and picking an easy-to-apply paint will be a great advantage on your stucco especially if its your first time. Here's a summary of the paints available to help you in making an informed buying choice.
 
-##  s: Top 7 Best Paints for Stucco in 2025
+## Top 7 Best Paints for Stucco in 2025
 
 ###  [1. KILZ Interior & Exterior Masonry Paint, Self-Priming, Tan](https://www.amazon.com/dp/B06Y142Y5N/?tag=p-policy-20)
 

@@ -56,7 +56,7 @@ Unlike other full-sized crossbows, the Prophecy 80 Pound crossbow will not requi
 
 The device is of high-quality build and can shoot straight with great accuracy. Further, you will be able to set up the Crossbow easily and be ready to hit your attacker. Also, the 6-4 or 5" Power Stroke. Read Also: [How to select a Wireless Driveway Alarm](https://pestpolicy.com/how-to-select-a-wireless-driveway-alarm/).
 
-###  [4. SA Sports](https://www.amazon.com/dp/B007ELWHJ0/?tag=p-policy-20)[Package543](https://www.amazon.com/dp/B007ELWHJ0/?tag=p-policy-20)[Fever Crossbow](https://www.amazon.com/dp/B007ELWHJ0/?tag=p-policy-20)
+### [4. SA Sports](https://www.amazon.com/dp/B007ELWHJ0/?tag=p-policy-20) [Package543](https://www.amazon.com/dp/B007ELWHJ0/?tag=p-policy-20) [Fever Crossbow](https://www.amazon.com/dp/B007ELWHJ0/?tag=p-policy-20)
 
 The 543 SA Sports Fever crossbow will be easy to learn, assemble, and use in your home self-defense. It is a highly light crossbow with a shorter power stroke and weighs about 5 pounds.
 

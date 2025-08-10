@@ -18,7 +18,7 @@ Getting the best [gold](https://pestpolicy.com/best-gold-paint-for-wood/)[spray 
 
 During gold paint selection, follow considerations like the net weight, color options, application method (spray or self-prepped? ), stickiness level, and drying time. Your gold paint should match the surface area under paint application (metal, wood, or composite), be easier to remove or restore, maintain an original aesthetic impression without fading. See Also: Get rid of spray paint smell.
 
-##  s: Top 7 Best Gold Spray Paint in 2025
+## Top 7 Best Gold Spray Paint in 2025
 
 ###  [1. Premium Acrylic 24 Karat Gold Metallic for Crafts, Paper](https://www.amazon.com/dp/B07ZFVDXSM/?tag=p-policy-20)
 

@@ -20,7 +20,7 @@ With this in mind, the question now remains which product to go for? How to use 
 
 This article will help you clearly articulate the kind of primer to go for and their benefits based on the reviews of those that have previously used them and most of all make an informed choice.
 
-##  s: Top 7 Best Primer for Rusted Metal in 2025
+## Top 7 Best Primer for Rusted Metal in 2025
 
 ###  [1. Corroseal Metal Primer & Water-Based Rust Converter](https://www.amazon.com/dp/B07Y5XZJFX/?tag=p-policy-20)
 
