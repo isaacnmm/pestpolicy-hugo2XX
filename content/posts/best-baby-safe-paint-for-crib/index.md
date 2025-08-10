@@ -20,7 +20,7 @@ Water-based and natural paints have proved safe to paint on baby cribs since the
 
 The babys crib painting must offer elegance and beauty on the furniture with no priming.
 
-##  s: Top 7 Best Baby Safe Paint for Crib in 2025[Non-VOC Paints]
+## Top 7 Best Baby Safe Paint for Crib in 2025[Non-VOC Paints]
 
 ###  [1. Tried and True-100% solvent-free Wood Stain](https://www.amazon.com/dp/B01ENO01WK/?tag=p-policy-20)
 
@@ -32,9 +32,16 @@ The stain is suitable for interior wood furniture that includes but is not limit
 
 A gallon applies up to 1000 square ft. and best applicable with a lint-free cloth. Tried and True has a shallow waxy smell and safe even on your skin after contact. When released into the atmosphere, VOCs tend to react with Oxygen to create the ozone, forming sunlight and nitrogen oxides (NO2) and [SMOG](https://en.wikipedia.org/wiki/Smog)- a hazardous pollution component.
 
-Pros: - Easy to apply - Durable - Safe for food contact a - Zero VOCs - Smooth finish - Used on butcher blocks
+Pros:
+- Easy to apply
+- Durable
+- Safe for food contact a
+- Zero VOCs
+- Smooth finish
+- Used on butcher blocks
 
-Cons: - Waxy smell
+Cons:
+- Waxy smell
 
 ###  [2. Rust-Oleum 249090 2X Ultra Cover-Painter's Touch](https://www.amazon.com/dp/B002BWOS08/?tag=p-policy-20)
 
@@ -46,9 +53,17 @@ The double cover formulae give the paint double coverage hence less time for com
 
 Refer to the user guide before using the paint for clear instructions.
 
-The VOCs are found in man household products, including vinyl floors, upholstery fabrics, cleaning compounds, air fresheners, mothballs, fuel oil, varnishes, carpets, cosmetics, and paints. Pros: - Double coverage - Fast drying - Spray paint - Faster application - Suitable for interior and exterior surfaces - Glossy finish
+The VOCs are found in man household products, including vinyl floors, upholstery fabrics, cleaning compounds, air fresheners, mothballs, fuel oil, varnishes, carpets, cosmetics, and paints.
+Pros:
+- Double coverage
+- Fast drying
+- Spray paint
+- Faster application
+- Suitable for interior and exterior surfaces
+- Glossy finish
 
-Cons: - Low odor
+Cons:
+- Low odor
 
 ###  [3. Retique It-by Renaissance Chalk Furniture Paint](https://www.amazon.com/dp/B00S517V7G/?tag=p-policy-20)
 
@@ -56,11 +71,15 @@ Retique IT furniture paint is a 100% acrylic chalk paint with zero omissions and
 
 It is purely non-toxic and environmentally friendly, designed with non-odor. On the contrary, it is hypoallergenic and suitable for use indoors - on the patio, wood flooring, kitchen countertops, balcony decking, or evengarden furniture. It has impressive coverage with a smooth, silky, and chalky finish. The paint can be applied in 1-2 coats and does not need priming or sanding before painting.
 
-Retique It is fast dries to touch in 30 minutes and suitable for indoor furniture or previously painted wallboards, metal surfaces, or interior masonry. The paint is durable with the ability to withstand finger nail scratch with an easy to clean smooth finish. It is also dense and gives an even coverage that is self-leveling. Also, Sherwin-Williams Co shows that most paints have VOCs. Pros: - Zero emissions and VOCs - Chalky smooth finish.
+Retique It is fast dries to touch in 30 minutes and suitable for indoor furniture or previously painted wallboards, metal surfaces, or interior masonry. The paint is durable with the ability to withstand finger nail scratch with an easy to clean smooth finish. It is also dense and gives an even coverage that is self-leveling. Also, Sherwin-Williams Co shows that most paints have VOCs.
+Pros:
+- Zero emissions and VOCs
+- Chalky smooth finish.
 
 - No smell - Fast drying - Suitable for furniture - 100% acrylic - Easy to clean.
 
-Cons: - None found
+Cons:
+- None found
 
 ###  [4. Rust-Oleum 285140 Interior Chalked Paint Ultra-Matte](https://www.amazon.com/dp/B010I5D54E/?tag=p-policy-20)
 
@@ -72,11 +91,19 @@ It can be applied using a brush or a spray, which allows fast and easy applicati
 
 Rust-Oleum can be applied with as many as five coats to give a smooth, fine, and chalky finish. It has a fast dry-to-touch effect and dries within the first 30 minutes of application. One gallon covers 150 square ft. for the first coat and minimizes as you apply the subsequent coats. When applying, use high-quality foam or synthetic brush for an elegant finish. This gives a smooth surface that is easy to clean with soap and water.
 
-Pros: - Non-odor - Long-lasting - Fast drying - Water-based - No priming and sanding are required. - Gives a smooth finish - just like withpainting kitchen cabinets. - Easy to clean with soap and water
+Pros:
+- Non-odor
+- Long-lasting
+- Fast drying
+- Water-based
+- No priming and sanding are required.
+- Gives a smooth finish
+- just like withpainting kitchen cabinets.
+- Easy to clean with soap and water
 
-Cons: - None found
+Cons:
+- None found
 
-> See Also: > Chalk Paint for Kitchen Cabinets
 
 ###  [5. Rust-Oleum 302593 Series Chalked Ultra Matte Spray Paint](https://www.amazon.com/dp/B01JB78BV2/?tag=p-policy-20)
 
@@ -86,9 +113,18 @@ The paint is safe for use with interior surfaces with zero VOCs and is purely no
 
 It is fast drying with 20 minutes dry to touch and only require one coat to give a completely smooth finish. One gallon covers a 12 Before application, wash the surface with water and soap and let it dry. When dry, shake the can before spraying the surface to give uniformity to the surface. Spraying can be done at any angle, thus achieving uniform painting even at curved edges and corners of the surface.
 
-The first coat gives a smooth vintage look; a second topcoat can also be applied within 24 hours to protect the surface. Pros: - Fast drying-20 minutes dry to touch - Safe for interior use - Durable - It is oil-based - It non-toxic - Spray paint. - Easy to apply
+The first coat gives a smooth vintage look; a second topcoat can also be applied within 24 hours to protect the surface.
+Pros:
+- Fast drying-20 minutes dry to touch
+- Safe for interior use
+- Durable
+- It is oil-based
+- It non-toxic
+- Spray paint.
+- Easy to apply
 
-Cons: - None found
+Cons:
+- None found
 
 ###  [6. Varathane 200241H Polyurethane Water-Based Paint](https://www.amazon.com/dp/B000BZX0Q0/?tag=p-policy-20)
 
@@ -98,9 +134,18 @@ It works well in protecting interior surfaces such as windows, cabinets, and fur
 
 This water-based paint takes about 30 minutes dry-to-touch for the first coat and about 2 hours in case of a second coat. It also offers an easy to clean surface in case of a clean- up exercise.
 
-A can of Varathane-200241 can be applied on 125 square ft. and is applied in two coats to gives a fine and smooth natural finish Pros: - Water-based paint - Zero VOCs - Durable - Stain-resistant - Fast drying - Safe with food contact surfaces - Easy to clean surfaces
+A can of Varathane-200241 can be applied on 125 square ft. and is applied in two coats to gives a fine and smooth natural finish
+Pros:
+- Water-based paint
+- Zero VOCs
+- Durable
+- Stain-resistant
+- Fast drying
+- Safe with food contact surfaces
+- Easy to clean surfaces
 
-Cons: - None found
+Cons:
+- None found
 
 ###  [7. FolkArt Furniture & Craft Paint Home Decor Chalk](https://www.amazon.com/dp/B00JRR21JK/?tag=p-policy-20)
 
@@ -110,9 +155,18 @@ Its preference is among painters, sculptors, and artists and works well on wood,
 
 The paint is environmentally friendly and has zero VOCs, and, therefore, safe for use for babys furniture and cribs. According to the US Environmental Protection Agency, some VOCs are distinct carcinogens with benzene or methylene chloride. It is fast drying-to-touch within the first 30 minutes of application. Application can be done with 1-2 coats to achieve an ultra-matte finish.
 
-Pros: - Has zero VOCs - Durable - Fast drying - Easy and fast application - Use on interior and exterior surfaces - Excellent and smooth finish - No priming or stripping required - Made in USA
+Pros:
+- Has zero VOCs
+- Durable
+- Fast drying
+- Easy and fast application
+- Use on interior and exterior surfaces
+- Excellent and smooth finish
+- No priming or stripping required
+- Made in USA
 
-Cons: - Sticky and thick
+Cons:
+- Sticky and thick
 
 ##  Conclusion
 
