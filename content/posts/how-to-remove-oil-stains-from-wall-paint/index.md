@@ -48,9 +48,7 @@ NB: Wear hand gloves (hand protection) and nose mask (smelly) during application
 
 The classic trigger and point design that comes with WD 40 allows optional delivery and point application, thus minimizing spillage (wastage). Moreover, WD is portable and fast drying. The solvent integrates biodegradable properties and natural additives that are safe for human use wont cause skin irritation/burn.
 
-Importantly, [WD 40](https://www.amazon.com/dp/B074KLRCR3/ref=sspa_dk_detail_1?
-
-psc=1&pd_rd_i=B074KLRCR3&pd_rd_w=LF3WO&pf_rd_p=7d37a48b-2b1a-4373-8c1a-bdcc5da66be9&pd_rd_wg=8rIFI&pf_rd_r=K5E68G6QNSAMEPHDM65M&pd_rd_r=e7ace7a8-dad3-4d7f-8b73-506cf8467255&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExMFVDU0RRVzNLNkFDJmVuY3J5cHRlZElkPUEwMjA3MTIwM1U5SUdXUFVDNFNQUyZlbmNyeXB0ZWRBZElkPUEwMDIzMTcwMVFMN0dVTE1SRzlORCZ3aWRnZXROYW1lPXNwX2RldGFpbCZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=) can also be used on other types of stains such as vegetable stains, coffee stains, ink stains, etc.
+Importantly, [WD 40](https://www.amazon.com/dp/B074KLRCR3/ref=sspa_dk_detail_1?psc=1&pd_rd_i=B074KLRCR3&pd_rd_w=LF3WO&pf_rd_p=7d37a48b-2b1a-4373-8c1a-bdcc5da66be9&pd_rd_wg=8rIFI&pf_rd_r=K5E68G6QNSAMEPHDM65M&pd_rd_r=e7ace7a8-dad3-4d7f-8b73-506cf8467255&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExMFVDU0RRVzNLNkFDJmVuY3J5cHRlZElkPUEwMjA3MTIwM1U5SUdXUFVDNFNQUyZlbmNyeXB0ZWRBZElkPUEwMDIzMTcwMVFMN0dVTE1SRzlORCZ3aWRnZXROYW1lPXNwX2RldGFpbCZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=) can also be used on other types of stains such as vegetable stains, coffee stains, ink stains, etc.
 
 ###  e. TSP (Trisodium Phosphate)
 
