@@ -6,8 +6,7 @@ slug: /best-lawn-mower-for-large-yard/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
-categories:
-- Mowers
+categories: Mowers
 - Product Reviews
 tags:
 - mowers

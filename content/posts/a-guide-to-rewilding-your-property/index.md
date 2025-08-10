@@ -6,8 +6,7 @@ slug: /a-guide-to-rewilding-your-property/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
-categories:
-- Landscaping
+categories: Landscaping
 - Ecology
 - Guides
 tags:

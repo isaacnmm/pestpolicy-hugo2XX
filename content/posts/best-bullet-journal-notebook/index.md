@@ -5,8 +5,7 @@ slug: /best-bullet-journal-notebook/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
-categories:
-- Product Reviews
+categories: Product Reviews
 - Raspberry Pi 3
 tags:
 - product-reviews

@@ -6,8 +6,7 @@ slug: /how-to-deal-with-snow-and-ice-in-the-garden/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
-categories:
-- Winter Gardening
+categories: Winter Gardening
 - Plant Care
 - Guides
 tags:

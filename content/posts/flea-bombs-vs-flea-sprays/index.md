@@ -6,8 +6,7 @@ slug: /flea-bombs-vs-flea-sprays/
 date: 2025-08-01 00:00:00+03:00
 lastmod: 2025-08-01 00:00:00+03:00
 author: Isaac
-categories:
-- Flea Control
+categories: Flea Control
 - Guides
 tags:
 - flea-control

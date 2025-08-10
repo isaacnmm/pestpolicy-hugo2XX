@@ -6,8 +6,7 @@ slug: /how-to-deal-with-voles-field-mice-in-your-yard-or-garden/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
-categories:
-- Pest Control
+categories: Pest Control
 - Gardening
 - Wildlife
 tags:

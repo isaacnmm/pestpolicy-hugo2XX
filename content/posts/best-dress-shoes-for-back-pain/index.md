@@ -6,8 +6,7 @@ slug: /best-dress-shoes-for-back-pain/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
-categories:
-- Work Shoes
+categories: Work Shoes
 tags:
 - work-shoes
 - best

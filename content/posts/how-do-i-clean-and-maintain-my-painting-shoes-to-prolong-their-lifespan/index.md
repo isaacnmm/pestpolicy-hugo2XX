@@ -6,8 +6,7 @@ slug: /how-do-i-clean-and-maintain-my-painting-shoes-to-prolong-their-lifespan/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
-categories:
-- DIY Paintings
+categories: DIY Paintings
 tags:
 - diy-paintings
 - clean

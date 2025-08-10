@@ -7,8 +7,7 @@ slug: /wet-area-remodeling-vs-full-bathroom-remodeling/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
-categories:
-- Home Improvement
+categories: Home Improvement
 - Bathroom
 - Renovation
 tags:

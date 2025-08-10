@@ -6,8 +6,7 @@ slug: /how-to-add-a-wood-frame-to-a-bathroom-mirror/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
-categories:
-- Bathroom
+categories: Bathroom
 - Home Maintenance
 tags:
 - bathroom

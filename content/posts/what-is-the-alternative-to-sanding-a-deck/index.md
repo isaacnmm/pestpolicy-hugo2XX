@@ -6,8 +6,7 @@ slug: /what-is-the-alternative-to-sanding-a-deck/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
-categories:
-- Uncategorized
+categories: Uncategorized
 tags:
 - uncategorized
 - alternative

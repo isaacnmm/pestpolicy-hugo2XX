@@ -7,8 +7,7 @@ slug: /replacing-a-bathroom-exhaust-fan/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
-categories:
-- Home Maintenance
+categories: Home Maintenance
 - Bathroom
 - HVAC
 tags:

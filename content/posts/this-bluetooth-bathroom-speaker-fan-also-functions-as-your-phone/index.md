@@ -6,8 +6,7 @@ slug: /this-bluetooth-bathroom-speaker-fan-also-functions-as-your-phone/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
-categories:
-- Guides
+categories: Guides
 - Bathroom
 tags:
 - guides

@@ -5,8 +5,7 @@ slug: /best-riding-lawn-mower-for-2-acres/
 date: 2025-08-09 00:00:00+00:00
 lastmod: 2025-08-09 00:00:00+00:00
 author: Isaac
-categories:
-- Mowers
+categories: Mowers
 - Yard Care
 tags:
 - riding mower

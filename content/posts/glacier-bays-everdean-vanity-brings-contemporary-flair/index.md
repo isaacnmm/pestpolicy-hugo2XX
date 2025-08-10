@@ -6,8 +6,7 @@ slug: /glacier-bays-everdean-vanity-brings-contemporary-flair/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
-categories:
-- Renovation
+categories: Renovation
 - Bathroom
 tags:
 - renovation

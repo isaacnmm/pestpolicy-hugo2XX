@@ -6,8 +6,7 @@ slug: /best-toilet-paper-for-septic/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
-categories:
-- Drains
+categories: Drains
 - Product Reviews
 tags:
 - drains

@@ -6,8 +6,7 @@ slug: /best-riding-lawn-mower-for-tall-grass/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
-categories:
-- Mowers
+categories: Mowers
 tags:
 - mowers
 - lawn

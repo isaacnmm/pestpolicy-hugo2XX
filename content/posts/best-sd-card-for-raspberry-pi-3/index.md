@@ -6,8 +6,7 @@ slug: /best-sd-card-for-raspberry-pi-3/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
-categories:
-- Raspberry Pi 3
+categories: Raspberry Pi 3
 tags:
 - raspberry-pi-3
 - best

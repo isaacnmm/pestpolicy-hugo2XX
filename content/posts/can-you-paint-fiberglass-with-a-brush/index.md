@@ -7,8 +7,7 @@ slug: /can-you-paint-fiberglass-with-a-brush/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
-categories:
-- Uncategorized
+categories: Uncategorized
 tags:
 - uncategorized
 - fibergla

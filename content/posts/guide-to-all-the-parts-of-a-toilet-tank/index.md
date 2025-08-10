@@ -7,8 +7,7 @@ slug: /guide-to-all-the-parts-of-a-toilet-tank/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
-categories:
-- Maintenance
+categories: Maintenance
 - Bathroom
 tags:
 - maintenance

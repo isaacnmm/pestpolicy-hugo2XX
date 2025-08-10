@@ -7,8 +7,7 @@ slug: /2-1-vs-5-1-soundbar/
 date: 2025-08-04 00:00:00+03:00
 lastmod: 2025-08-04 00:00:00+03:00
 author: Isaac
-categories:
-- Guide
+categories: Guide
 - Soundbars
 tags:
 - guide

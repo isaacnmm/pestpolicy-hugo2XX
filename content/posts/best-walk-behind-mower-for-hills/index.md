@@ -6,8 +6,7 @@ slug: /best-walk-behind-mower-for-hills/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
-categories:
-- Guide
+categories: Guide
 - Mowers
 tags:
 - guide

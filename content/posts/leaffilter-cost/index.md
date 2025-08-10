@@ -6,8 +6,7 @@ slug: /leaffilter-cost/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
-categories:
-- Gutter Guards
+categories: Gutter Guards
 - Home Improvement
 tags:
 - gutter-guards

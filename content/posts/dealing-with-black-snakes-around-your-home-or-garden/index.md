@@ -6,8 +6,7 @@ slug: /dealing-with-black-snakes-around-your-home-or-garden/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
-categories:
-- Guides
+categories: Guides
 - Pest Control
 tags:
 - guides

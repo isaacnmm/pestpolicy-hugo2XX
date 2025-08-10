@@ -6,8 +6,7 @@ slug: /how-to-test-your-yards-soil-texture/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
-categories:
-- Gardening
+categories: Gardening
 - Home Improvement
 - Guides
 - Plant Care

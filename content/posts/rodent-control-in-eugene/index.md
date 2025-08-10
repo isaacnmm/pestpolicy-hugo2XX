@@ -6,8 +6,7 @@ slug: /rodent-control-in-eugene/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
-categories:
-- Eugene
+categories: Eugene
 - Guide
 - Moles
 - Rats

@@ -6,8 +6,7 @@ slug: /best-electric-riding-lawn-mowers/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
-categories:
-- Lawn Mowers
+categories: Lawn Mowers
 - Electric Equipment
 - Reviews
 tags:

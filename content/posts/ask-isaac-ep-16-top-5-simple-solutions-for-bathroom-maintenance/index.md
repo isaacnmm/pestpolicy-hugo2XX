@@ -6,8 +6,7 @@ slug: /ask-isaac-ep-16-top-5-simple-solutions-for-bathroom-maintenance/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
-categories:
-- Maintenance
+categories: Maintenance
 - Bathroom
 tags:
 - maintenance

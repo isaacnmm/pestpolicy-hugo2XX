@@ -7,8 +7,7 @@ slug: /12-chic-eco-friendly-decor-ideas-that-will-save-the-planet-and-your-walle
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
-categories:
-- Guide
+categories: Guide
 - Home Decor
 tags:
 - guide

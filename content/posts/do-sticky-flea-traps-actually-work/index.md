@@ -6,8 +6,7 @@ slug: /do-sticky-flea-traps-work/
 date: 2025-08-04 00:00:00+00:00
 lastmod: 2025-08-04 00:00:00+03:00
 author: Isaac
-categories:
-- Fleas
+categories: Fleas
 - Guides
 tags:
 - flea-trap
