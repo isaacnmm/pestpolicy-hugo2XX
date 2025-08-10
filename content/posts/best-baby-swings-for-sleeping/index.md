@@ -22,9 +22,9 @@ Thus, I present some of the top Baby Swings for Sleeping that you can buy right 
 
 Also Read: Best Power Wheels for 1-Year-Old
 
-# # Review: 7 Best Baby Swings for Sleeping
+##  Review: 7 Best Baby Swings for Sleeping
 
-## # [1. Fisher-Price Sweet Snugapuppy Dreams Cradle 'n Swing](https://www.amazon.com/dp/B01MQM7W6M/?tag=p-policy-20)
+###  [1. Fisher-Price Sweet Snugapuppy Dreams Cradle 'n Swing](https://www.amazon.com/dp/B01MQM7W6M/?tag=p-policy-20)
 
 The Fisher-Price Sweet Snugapuppy Dreams Cradle 'n Swing takes the first spot for the Best Baby Swings for Sleeping. This innovative baby swing comes with high-tech features that help to soothe the baby to sleep.
 
@@ -44,7 +44,7 @@ Cons: - The motor may produce some noise
 
 Also Read: Small Trampolines for Toddlers
 
-## # [2. 4moms mamaRoo 4 Baby Swing](https://www.amazon.com/dp/B073FVCS6F/?tag=p-policy-20)
+###  [2. 4moms mamaRoo 4 Baby Swing](https://www.amazon.com/dp/B073FVCS6F/?tag=p-policy-20)
 
 If youre looking for a unique luxury baby swing you cant go wrong with the 4moms mamaRoo 4 Baby Swing. Although its a bit expensive, you cant compare it to the other swings. It has excellent features and technologies to soothe your baby to sleep.
 
@@ -62,7 +62,7 @@ However, the manufacturer advises that you shouldnt leave the baby unattended. O
 
 Cons: - Expensive
 
-## # [3. Fisher-Price Moonlight Cradle 'n Swing](https://www.amazon.com/dp/B00NFETJLY/?tag=p-policy-20)
+###  [3. Fisher-Price Moonlight Cradle 'n Swing](https://www.amazon.com/dp/B00NFETJLY/?tag=p-policy-20)
 
 I know if asked youll want to soothe your baby all day long but you also need a break. The Fisher-Price Moonlight Meadow swing provides the much-needed break. You can easily customize the swing to give your baby the perfect calming combination.
 
@@ -76,7 +76,7 @@ Furthermore, the Papasan-style seat delivers a deep cozy feeling to the baby. Th
 
 Cons: - The wide base takes up space
 
-## # [4. Graco DuoGlider, Percy](https://www.amazon.com/dp/B01MTM3HAW/?tag=p-policy-20)
+###  [4. Graco DuoGlider, Percy](https://www.amazon.com/dp/B01MTM3HAW/?tag=p-policy-20)
 
 The Graco DuoGlider, Percy is a perfect swing especially if youre looking for the best newborn swing. This swing is a lifesaver and most parents swear by its effectiveness at the soothing baby to sleep. Babies love the vibration, the rocking/gliding sound, and the mobile.
 
@@ -96,7 +96,7 @@ The weight limit is 5. 5 lbs. to 30 lbs. Pros: - Excellent entertainment feature
 
 Cons: - It takes up bigger floor space
 
-## # [5. Nova Baby Swing for Infants](https://www.amazon.com/dp/B08G59WRYD/?tag=p-policy-20)
+###  [5. Nova Baby Swing for Infants](https://www.amazon.com/dp/B08G59WRYD/?tag=p-policy-20)
 
 Nova Baby Swing has the latest in technology, quality, durability, and design. Its pretty simple to mount and operate.
 
@@ -118,7 +118,7 @@ Cons: - Some reviewers complained that it has a low speed
 
 Also Read: [Best Outdoor Playsets for Toddlers](https: //pestpolicy. com/best-outdoor-playsets-for-toddlers/)
 
-## # [6. Ingenuity Soothe 'n Delight Portable Baby Swing](https://www.amazon.com/dp/B00E3RKC36/?tag=p-policy-20)
+###  [6. Ingenuity Soothe 'n Delight Portable Baby Swing](https://www.amazon.com/dp/B00E3RKC36/?tag=p-policy-20)
 
 The best baby swing for a fussy baby is the Ingenuity baby swing. This swing has amazing technology and features to soothe your irritable baby to sleep.
 
@@ -132,7 +132,7 @@ The care instructions for this amazing swing are simple. Use cold water to wash 
 
 Cons: - Youll need to purchase a battery
 
-## # [7. Graco Simple Sway Swing](https://www.amazon.com/dp/B00PTL15D6/?tag=p-policy-20)
+###  [7. Graco Simple Sway Swing](https://www.amazon.com/dp/B00PTL15D6/?tag=p-policy-20)
 
 Graco sway is a simple swing that works incredibly at soothing a baby to sleep. It comes with exciting music to keep the baby relaxed throughout.
 
@@ -148,6 +148,6 @@ Some people reported that it was a bit hard to assemble while others complained 
 
 Cons: - Low swing speed
 
-# # Conclusion
+##  Conclusion
 
 I hope that this review on the best baby swings for sleeping has been helpful. All the swings that I have included on this list are some of the best on the market today. Therefore, choosing either of them will help in soothing your child to sleep.

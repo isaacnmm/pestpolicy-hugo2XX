@@ -16,7 +16,7 @@ layout: post
 
 Let your children have fun and enjoy your cool backyard with the Lifetime Monkey Bar swing set with a 9 Foot Wavy Slide. The swing set is favorable or kids between ages 3 to 12. Read Also: Compression Socks For Standing All Day.
 
-# # Lifetime Monkey Bar - 9 Foot Wavy Slide
+##  Lifetime Monkey Bar - 9 Foot Wavy Slide
 
 The metal swing set will be safer as compared to the wooden options, as the kids will not get cuts from wood chips. Read Also: Stain For Cedar Swing Set. The heavy-duty swing set has belt swings and trapeze bar having gym rings. Also, do not worry about your kids pinching their fingers as the Monkey Bar swing set comes with rubber grips on the swings.
 

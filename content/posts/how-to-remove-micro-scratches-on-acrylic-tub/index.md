@@ -43,7 +43,7 @@ These tiny imperfections, often caused by abrasive cleaners, scrubbing pads, dro
 
 This guide will delve into the characteristics of acrylic tubs and provide a step-by-step process on **how to remove micro-scratches on an acrylic tub**, restoring its original luster and extending its lifespan.
 
-# # How to Remove Scratches From Acrylic Tubs
+##  How to Remove Scratches From Acrylic Tubs
 
 Removing micro-scratches from an acrylic tub involves a process of gentle abrasion and polishing. The key is to start with the least abrasive method and gradually increase if necessary.
 
@@ -57,19 +57,19 @@ Removing micro-scratches from an acrylic tub involves a process of gentle abrasi
 
 **Step-by-Step Process: **
 
-## # 1. Clean the Tub Thoroughly
+###  1. Clean the Tub Thoroughly
 
 * Before attempting any scratch removal, the tub must be meticulously clean and free of soap scum, dirt, and oil. * Fill the tub with warm water and add a few drops of mild dish soap. * Use a soft cloth or sponge to wash the entire tub surface, paying special attention to the scratched areas. * Drain the tub and rinse thoroughly with clean water. * Dry the tub completely with a clean, soft towel.
 
 Any remaining residue or moisture can interfere with the polishing process.
 
-## # 2. Assess the Scratches
+###  2. Assess the Scratches
 
 * Examine the scratches under good lighting. Run your fingernail over them. * **Micro-scratches (light, superficial): ** Your fingernail won't catch on them. These are best addressed with a polishing compound directly. * **Slightly Deeper Scratches (still superficial): ** Your fingernail might just barely catch. These might require very fine-grit wet/dry sandpaper before polishing. * **Deep Scratches/Gouges: ** Your fingernail will easily catch.
 
 These might require a specialized acrylic repair kit or professional help. This guide focuses on micro-scratches.
 
-## # 3. Polish Light Micro-Scratches (Start Here First!)
+###  3. Polish Light Micro-Scratches (Start Here First!)
 
 For very fine surface scratches and to restore general dullness:
 
@@ -79,7 +79,7 @@ For very fine surface scratches and to restore general dullness:
 
 Check your progress. If the scratches are gone, proceed to Step 5. If not, proceed to Step 4 for slightly deeper marks.
 
-## # 4. Sanding for Slightly Deeper Scratches (Use with Caution!)
+###  4. Sanding for Slightly Deeper Scratches (Use with Caution!)
 
 This step is for scratches that Step 3 couldn't fully remove. **Always use wet/dry sandpaper, keep it wet, and apply very light pressure. **
 
@@ -93,7 +93,7 @@ Stop sanding as soon as the scratch is gone.
 
 The area will look dull, which is normal. * **Transition to Polishing: ** Once the scratch is gone and the area is uniformly dull, thoroughly rinse and dry the area. Now, proceed to Step 5 (Polishing) to restore the shine.
 
-## # 5. Final Polishing and Buffing
+###  5. Final Polishing and Buffing
 
 This step restores the shine after sanding or enhances the polish from Step 3.
 
@@ -101,11 +101,11 @@ This step restores the shine after sanding or enhances the polish from Step 3.
 
 This might require several applications and vigorous buffing. * **Clean and Inspect: ** Wipe away all polish residue with a clean, dry cloth. Inspect the area carefully for any remaining dull spots or haziness. Repeat polishing if needed.
 
-## # 6. Protect the Surface (Optional but Recommended)
+###  6. Protect the Surface (Optional but Recommended)
 
 * Once the tub is polished, you can apply a layer of acrylic or car wax (non-abrasive) to the entire tub surface. This adds an extra layer of protection against future micro-scratches and makes the tub easier to clean.
 
-# # Final Thoughts
+##  Final Thoughts
 
 Micro-scratches on an acrylic tub are a common occurrence, but they don't have to mean replacing your entire bathtub. With the right supplies and a methodical approach of gentle abrasion and polishing, you can effectively remove these imperfections and bring back your tub's original shine.
 

@@ -22,9 +22,9 @@ Hence, Ive compiled the following list on some of the top Shoes for Bunions and 
 
 Also Read: Best Walking Shoes for Flat Feet and Bunions-for-flat-feet-and-bunions/)
 
-# # Review: 7 Best Shoes for Bunions and Plantar Fasciitis
+##  Review: 7 Best Shoes for Bunions and Plantar Fasciitis
 
-## # 1. Brooks Men's Ghost 12 Running [Shoe](https://www.amazon.com/dp/B081T8YK5Z/?tag=p-policy-20)
+###  1. Brooks Men's Ghost 12 Running [Shoe](https://www.amazon.com/dp/B081T8YK5Z/?tag=p-policy-20)
 
 Brooks Ghost 12 are some of the best running shoes for Bunions and Plantar Fasciitis. They have a wide toe box to accommodate bunions. They also have excellent arch support, a firm heel, comfortable, and accommodating construction to soothe pain caused by Bunions and Plantar Fasciitis.
 
@@ -38,7 +38,7 @@ The also has a Segmented Crash Pad that works to cushion your landings. This Cra
 
 Cons: - Bland and uninspired color schemes
 
-## # [2. New Balance Men's 928 V3 Walking Shoe](https://www.amazon.com/dp/B01MXNYPSU/?tag=p-policy-20)
+###  [2. New Balance Men's 928 V3 Walking Shoe](https://www.amazon.com/dp/B01MXNYPSU/?tag=p-policy-20)
 
 New Balance 928 V3 is ideal for people with various foot issues like bunions, plantar fasciitis, arthritis, and bone spurs among other issues. The shoe has excellent features and technologies that would help address these foot issues.
 
@@ -60,7 +60,7 @@ Cons: - Some people reported that the shoe is not durable
 
 Also Read: Best Running Shoes for Flat Feet and Bunions
 
-## # [3. Dr. Comfort Jason Men's Therapeutic Bunions and Plantar Fasciitis Shoe](https://www.amazon.com/dp/B00L2OIUEG/?tag=p-policy-20)
+###  [3. Dr. Comfort Jason Men's Therapeutic Bunions and Plantar Fasciitis Shoe](https://www.amazon.com/dp/B00L2OIUEG/?tag=p-policy-20)
 
 Dr. Comfort Jason Men's Therapeutic shoe is footwear that prevents or relieves numerous foot issues including bunions and plantar fasciitis.
 
@@ -78,7 +78,7 @@ These shoes also feature a Protective Toe Box that offers additional protection 
 
 Cons: - Some people reported that the sizing of this shoe is small
 
-## # [4. ASICS Women's Gel-Nimbus 22 Running Shoes](https://www.amazon.com/dp/B01N18OTGG/?tag=p-policy-20)
+###  [4. ASICS Women's Gel-Nimbus 22 Running Shoes](https://www.amazon.com/dp/B01N18OTGG/?tag=p-policy-20)
 
 The Asics Gel Nimbus 22 boasts of superior comfort, cushioning, and technologies that enhance the running or walking experience.
 
@@ -100,7 +100,7 @@ Furthermore, the upper of Nimbus of 22 features an engineered monofilament mater
 
 Cons: - Expensive
 
-## # [5. Orthofeet Plantar Fasciitis Orthopedic Walking Shoes](https://www.amazon.com/dp/B07JJ81SG2/?tag=p-policy-20)
+###  [5. Orthofeet Plantar Fasciitis Orthopedic Walking Shoes](https://www.amazon.com/dp/B07JJ81SG2/?tag=p-policy-20)
 
 These Orthofeet Plantar Fasciitis sneakers are some of the most comfortable, supportive, and stylish orthopedic shoes walking shoes. The shoes have various features and technologies that make them an ideal choice for those with bunions and plantar fasciitis.
 
@@ -118,7 +118,7 @@ The shoe also features an Extra-depth design that allows the use of orthotics. T
 
 Cons: - Pricey
 
-## # [6. Vionic Women's, Demetra Slip-On](https://www.amazon.com/dp/B086KR5VRJ/?tag=p-policy-20)
+###  [6. Vionic Women's, Demetra Slip-On](https://www.amazon.com/dp/B086KR5VRJ/?tag=p-policy-20)
 
 Women's Vionic, Demetra shoes provide a perfect combination of comfort and style. They are casual slip-on shoe ideal for all-day walking or standing. The wide toe box and the arch support make the shoe ideal for people with bunions and plantar fasciitis.
 
@@ -134,7 +134,7 @@ These Women's Vionic shoes also feature fun leather combinations with twin gore 
 
 Cons: - Runs big
 
-## # [7. Saucony Women's Guide 13 Running Shoe](https://www.amazon.com/dp/B07VP9W3NZ/?tag=p-policy-20)
+###  [7. Saucony Women's Guide 13 Running Shoe](https://www.amazon.com/dp/B07VP9W3NZ/?tag=p-policy-20)
 
 Saucony Guide 13 is a stability running shoe that boasts of excellent cushioning, arch support, comfort, and great shock absorbance. Its a great choice for overpronators, plantar fasciitis, and bunion sufferers. It offers greater performance, responsiveness, and a flexible ride.
 
@@ -150,7 +150,7 @@ Guide 13 uses a lighter yet durable rubber compound on its outsole. This sole ha
 
 Cons: - Runs small
 
-# # Conclusion
+##  Conclusion
 
 I hope that this review on the best shoes for bunions and plantar fasciitis has been helpful to you. Just a reminder, when buying bunions and plantar fasciitis shoes, you need to look for features like roomy toe box to accommodate bunions. Shoes with a deep or firm heel cup, excellent arch support, cushioning, and ability to absorb shock are ideal for people with plantar fasciitis.
 

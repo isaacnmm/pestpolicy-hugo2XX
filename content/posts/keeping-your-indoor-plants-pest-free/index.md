@@ -19,7 +19,7 @@ Ensuring your [indoor](https: //pestpolicy. com/best-indoor-flea-killer/) plants
 
 Here are practical tips to help you maintain a pest-free indoor garden and keep your plants thriving.
 
-# # Common Indoor [Plant](https://pestpolicy.com/how-to-grow-pomegranate-plants-from-seed/) Pests
+##  Common Indoor [Plant](https://pestpolicy.com/how-to-grow-pomegranate-plants-from-seed/) Pests
 
 Common indoor plant pests include spider mites, aphids, fungus gnats, mealybugs, and scale insects. These pests can damage plant tissue, reduce plant vigor, and spread to other plants if not controlled. Here are practical tips to help you maintain a pest-free indoor garden and keep your plants thriving. **1.
 

@@ -21,7 +21,7 @@ The emergence of many cockroach eggs ensures that the pests' birth cycle is ongo
 
 t fly. - If the female German cockroach survives and continues reproducing over its lifespan (30 weeks), it can produce two roach generations. Even with low egg production, the female German roaches (as a colony) can generate about 10, 000 baby cockroaches. Related: How to Remove Cockroaches
 
-# # How do Cockroach Eggs Look?
+##  How do Cockroach Eggs Look?
 
 When you find cockroach eggs in your house or apartment, realize that there are adult watches that are multiplying and breeding - which must be a sad discovery. - So after finding the cockroach eggs in your space, you must inspect the area to determine the seriousness of the pest problem. - Next, you are required to create a treatment and prevention plan for the cockroaches if there's an active infestation.
 
@@ -37,11 +37,11 @@ The females of the species will produce about 6 - 90 ootheca over their lifetime
 
 The egg case of the cockroaches will be enclosed by a protein that will harden to form a protective and strong casing.
 
-# # Locations to Find Cockroach Eggs
+##  Locations to Find Cockroach Eggs
 
 It is common to find cockroaches in areas like the kitchens and bathrooms. - The locations have adequate water and food and thus act like nurseries for the young coaches and the cockroach eggs. Now let's another the cockroach's best riding areas;
 
-## # 1. Pantries, Cupboards, and Drawers
+###  1. Pantries, Cupboards, and Drawers
 
 The panties, cupboards, and drawers are excellent hiding areas for cockroaches. - These locations are dark and cool and have water and food access - this makes such places great habitats for cockroaches. You can use diatomaceous earth to control the cockroaches in such places. But you may also hire an expert pest exterminator near you.
 
@@ -57,7 +57,7 @@ Finally, mix generous amounts of flour and diatomaceous Earth and spring on it a
 
 Requirements to undertake this roach control mission include; - Flour - Boric acid or diatomaceous Earth - Small bowls - Bay leaves - Glass, metal, or plastic containers - Caulk - Cloth - Sponge - Water - Soap
 
-## # 2. In Appliances
+###  2. In Appliances
 
 Cockroach eggs and adult cockroaches can also be found inside the appliances such as kitchen appliances like the dryers and washers. - To remove the cockroach eggs from the appliances you require to clean the device thoroughly.
 
@@ -75,7 +75,7 @@ Well, largely cockroaches won't damage your answers but they will contaminate th
 
 For example, cockroaches will walk and touch the inside of your appliances and may transfer organisms such as salmonella and E. coli.
 
-## # 3. Baseboards and Bathtubs Drains
+###  3. Baseboards and Bathtubs Drains
 
 Cockroaches will hide around and in baseboards, we have even been out of sight. - Therefore it will be helpful if you inspect the basement for signs of cockroaches. - If there are such signs, undertake appropriate roach treatment on the baseboards and around the area. The other area that the cockroaches will hide includes the bathtub drains and floors.
 
@@ -83,24 +83,24 @@ Check the water heater closet and plumbing cabinets since these areas are moist 
 
 Further, inspect the areas that are always damp such as the bathrooms and the laundry rooms since these will attract roaches. The next areas include the food eating and storage places (even those for pets) since the roaches will be attracted by the cramps. Inspect the recycling bins and trash cans because cockroaches won't be picking and these locations will make a great habitat.
 
-# # How Long Do Roach Eggs Take to Hatch?
+##  How Long Do Roach Eggs Take to Hatch?
 
 Young cockroaches tend to come out from their ootheca about 3 to 9 weeks.
 
-## # 1. Brown-banded Roaches Eggs
+###  1. Brown-banded Roaches Eggs
 
 The ootheca of the brown-banded roaches will be about 5 mm and also reddish-brown. - Each of the egg cases produced by a brown-banded roach will hatch up to 18 embryos - and one of these females will create about 20 of these cases. You can identify the nymphs of a Brown-banded roach with their upper abdomen having two yellow bands. - Further, the names of these roaches will grow into adults in a period of six months.
 
-## # 2. Oriental Cockroach Eggs
+###  2. Oriental Cockroach Eggs
 
 The ootheca of the oriental cockroaches will measure about 10 mm and they are also reddish-brown. - Each of these cases will have about 16 eggs and they will look somehow inflated. The females of the Oriental cockroaches will create up to 18 eggs capsules in their lifetime and they will hide them in safe places. The news of the Oriental cockroaches will emerge as adults within 600 days - especially when the environmental conditions are right.
 
-## # 3. German Cockroach Eggs
+###  3. German Cockroach Eggs
 
 The ootheca of the German cockroaches will measure about 9 mm and it will be brown. - The females of these roaches will carry the egg case (ootheca) until a time when the eggs will be almost hatching. Their ootheca will have about 50 eggs and they will develop into adults in roughly 100 days. Notably, the German cockroaches are the most common roach species that you will find in your house.
 
 - This is also contributed by the fact that the German cockroaches lay many eggs, so they will experience rapid population growth. Related: Fogger for Roaches
 
-# # Conclusion
+##  Conclusion
 
 I found coach eggs, what next? Youll require to vacuum the spaces to kill the adult roaches, their babies, and eggs capsules. - American and German cockroaches will hide around areas that have fresh water and a food source.

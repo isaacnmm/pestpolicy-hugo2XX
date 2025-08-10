@@ -18,9 +18,9 @@ layout: post
 
 To tackle these pests, most people use [gopher](https: //pestpolicy. com/best-gopher-traps/) baits that act as a poisonous meal. As gophers tend to use the existing tunnels, they might come across leftover bait that's lying around. It'll get attracted to the bait and end up eating it and die before you even find out about the presence of a new gopher.
 
-# # Reviews: Top 7 Best Gopher Poison for 2025
+##  Reviews: Top 7 Best Gopher Poison for 2025
 
-## # **1. JT Eaton Anticoagulant Poison / Bait - #1 Pick**
+###  **1. JT Eaton Anticoagulant Poison / Bait - #1 Pick**
 
 This gopher bait is undoubtedly our top pick and the best solution to your gopher problem.
 
@@ -34,7 +34,7 @@ Cons: - Once the gophers die, the situation can get quite gruesome.
 
 Related: Do Moles Have Eyes?
 
-## # **2. Kaput Gopher Poison / Bait - #2 Pick**
+###  **2. Kaput Gopher Poison / Bait - #2 Pick**
 
 Diphacinone is the active ingredient that's used to make the Kaput Gopher Bait. Unlike the bait mentioned before that is in the form of a block, this one comes in the shape of a pellet.
 
@@ -48,7 +48,7 @@ Cons: - You need to dig or use an applicator to apply the bait.
 
 Related: Best Mole Traps
 
-## # **3. Amdro Mole & Gopher Bait - #3 Pick**
+###  **3. Amdro Mole & Gopher Bait - #3 Pick**
 
 The formula of the Amdro Mole and Gopher Bait consists of zinc phosphide as the active ingredient. It's the first zinc phosphide bait on the list.
 
@@ -62,7 +62,7 @@ Cons: - The attractant can be improved.
 
 Related: How to Get Rid of Roof Rats in Attic
 
-## # **4. MOLETOX, Gopher Killer**
+###  **4. MOLETOX, Gopher Killer**
 
 Moletox is another bait that uses zinc phosphide as its active ingredient. This pellet shaped bait is a choke-type trap for the gopher. So, it would help if you killed the gopher once it gets caught.
 
@@ -76,7 +76,7 @@ Cons: - It has a small container that means you need to spend a few extra bucks
 
 Read Also: [Outdoor Rat Traps Reviewed](https: //pestpolicy. com/best-outdoor-rat-traps/)
 
-## # **5. Sweeney's Gopher Poison Peanuts**
+###  **5. Sweeney's Gopher Poison Peanuts**
 
 The last bait on the list is another one that has zinc phosphide in it. Quite similar to the previous gopher bait, this one's also a choke-type trap that requires you to kill the gopher after the catch.
 
@@ -90,13 +90,13 @@ Cons: - None
 
 Now that you know what are the best available options in the market, lets have a quick look at their advantages. Read Also: Indoor Flea Killer Reviewed
 
-# # How to Easily Select the Best Gopher Bait?
+##  How to Easily Select the Best Gopher Bait?
 
 - When choosing gopher bait, go for the one that's known to have a successful track record. - The bait must have a good attractant that smells like food so that the gopher is lured in and tricked into eating it. After taking a few bites only, the gopher bait should prove to be fatal. - In case it doesn't work, the animal won't die but get sick instead, making it immune to that active ingredient in the future.
 
 It usually takes a day to work once ingested, and for it to take any longer indicates a bad formula.
 
-# # Where to Place the Gopher Bait?
+##  Where to Place the Gopher Bait?
 
 - Place the bait on the insides of the gopher's tunnel that's almost 18-24 inches from the initial opening in the mound. The tunnel is usually in a horseshoe shape, where the open end indicates the direction in which the tunnel is going. - To apply granular bait, use a long stick to poke a hole in the tunnel. Slide the granules inside and cover up the hole again. Also, close the opening to the mound.
 
@@ -104,7 +104,7 @@ It usually takes a day to work once ingested, and for it to take any longer indi
 
 Push it far inside the mound with the help of a stick and cover the opening of the mound. Otherwise, use a shovel to dig a hole in the ground, place the block of bait in the gopher's tunnel and cover both the hole and the opening. - Make sure you treat every mound in your yard if you want to get rid of them completely.
 
-# # Why is Gopher Bait the Best Treatment Available?
+##  Why is Gopher Bait the Best Treatment Available?
 
 In case you use gopher traps, you will surely get rid of the gophers, but later on, you'd be left to deal with their dead bodies. You would have to remove them from the traps yourself.
 
@@ -112,6 +112,6 @@ As they're wild animals, they might have fleas, mites, or lice on their bodies a
 
 Cleaning up the mess after each use isn't an experience that you'd want to go through repeatedly. Gopher poisons help you avoid all these situations. Baits are a good option as the unused poison will stay in the tunnels underneath the yard and will help you prevent gophers in the future as well. Be careful when using gopher bait, however, as it is not only poisonous for the gophers but can be fatal if consumed by your pets and children as well.
 
-# # Sources:
+##  Sources:
 
 1. [Gophers--UC IPM](http: //ipm. ucanr. edu/QT/gopherscard. html) 2. [Pocket gopher control techniques - Montana Agricultural](http: //agresearch. montana. edu/wtarc/producerinfo/entomology-insect-ecology/Gofers/MTFactSheet. pdf) 3. [Moles, voles, and gophers Metro](https: //www. oregonmetro. gov/tools-living/yard-and-garden/garden-problems/moles-voles-and-gophers)

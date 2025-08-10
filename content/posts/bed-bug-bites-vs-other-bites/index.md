@@ -21,7 +21,7 @@ com/bed-bug-bully-review/) bug that is biting you?
 
 Well, in this article, I will teach you how you can differentiate between bed bug bites and other bites. Lets dive in. Most humans will get terrified when bed bugs crawl into their bed or house. Bed bugs are nocturnal insects that will bite on animals and humans (while they sleep) to suck blood. - If your skin has some small red dots, you may be confused whether they are from bed bugs or any other biting or stinging insects.
 
-# # Where Do Bed Bugs Bite?
+##  Where Do Bed Bugs Bite?
 
 Bed bugs tend to bite on most of the skin diseases caused including the feet, hands, arms, legs, neck, and face. - The pests will bite the areas of your skin that are not covered while you are sleeping. - However, bedbugs invite you all over your body if you sleep wearing few or no clothes. A bed bug will bite humans and inject their anticoagulant that will make your skin numb so that you won't feel it while they're sucking blood.
 
@@ -29,7 +29,7 @@ The bed bug sucks a fill of the human blood (before going into hiding for a numb
 
 - The localized bite area will have a rash - Burning sensation - Itching around the bite area - localized - Red welts that are small and appear in clusters or in ZigZag lines. Also, humans may experience anxiety and insomnia because the bed bugs will disturb their sleep patterns. - Luckily, besides causing possible allergic reactions, bed bugs (includingbaby bed bugs)are not documented to carry any disease-causing pathogens.
 
-# # 1. Bed Bug Bites Versus Flea Bites
+##  1. Bed Bug Bites Versus Flea Bites
 
 a. Bite Locati **on** It's important to know where specific pests will bite a human being. - For example, if you know that the b of a specific pest tends to be concentrated in a certain area, itll be easy to identify the pest. Fleas will mainly target humans on the lower extremities [such as the legs](https: //edis. ifas. ufl. edu/mg343) when bed bugs will bite your upper torso. But why?
 
@@ -49,7 +49,7 @@ First, we've noted that bed bugs mainly feed at night because they are nocturnal
 
 But flea bites and bed bug bites have similarities; they take some time to be felt since they inject an anticoagulant. Also, both bites may lead to severe reactions such as itching and allergy (insect-related).
 
-# # 2. Bed Bug Bites Versus Mosquito Bites
+##  2. Bed Bug Bites Versus Mosquito Bites
 
 Mosquito bites will be painful since mosquitoes do not have the numbering ability like that in the saliva of bed bugs. - Also, mosquito bites will leave you with some unique (one or two) large marks on the skin. However, bed bug bites will appear in clusters as opposed to singly or in pairs. - So, if you notice several bites in one location but you didn't feel them being inflicted, these will be bed bug bites. a.
 
@@ -73,7 +73,7 @@ However, bed bug bites will form a line (some form of pattern) since a number of
 
 - Mosquito bites will, besides causing itching, transmit disease-causing organisms that lead to the Zika virus, yellow fever, malaria, etc.
 
-# # 3. Bed Bug Bites Versus Tick Bite
+##  3. Bed Bug Bites Versus Tick Bite
 
 Tick bites will be larger than bed bug bites but they'll have the same shape and color. - Ticks will also remain on the animal for long (while still biting) and will also transmit diseases such asLyme disease. But bed bugs will bite humans or other hosts, suck blood and then go back to hiding. a. Bite Location Bed bug bites will look harder and swollen compared to tick bites.
 
@@ -89,7 +89,7 @@ On location, Tick bites will mainly be on the back of your legs, groin, scalp, a
 
 However, things will not borrow their body fully into the skin. The tick can continue feeding on the host's blood for about 10 days. If the bite has a bulls-eye rash, then this could be a sign that there is an infection of Lyme disease due to a tick bite.
 
-# # 4. Bed Bug Bites Versus Chigger Bite
+##  4. Bed Bug Bites Versus Chigger Bite
 
 Chiggers love living in wooded, grassy, damp, and moist areas - and so you want to generally find them in your bedroom. You can differentiate between bed bug bites and chigger bites with the location of that bite on the human body. - Chigger bites will give you welts and they will mainly be found around your waist.
 
@@ -99,7 +99,7 @@ a. Reaction time Bed bug bites will generally not be felt when the pest is in ac
 
 b. Colour and Size Both chigger bites and bed bug bites will look inflamed, red, and raised spots on the skin. - But as outlined earlier, bed bugs bites will appear in random clusters or in a line, especially where there is exposed skin. But chigger bites mainly happen one human is wearing clothes that are tight-fitting. - Also, the chigger bites will actually be grouped together in such areas.
 
-# # 5. Bed Bug Bite Versus Hives
+##  5. Bed Bug Bite Versus Hives
 
 A hives outbreak can happen from a number of triggers such as a bug bite, environmental factors, or a reaction to food. - Hives will appear like red welts (angry) and they will spread on your skin, especially on locations that came into contact with the irritant. - Hives can create splotchy patterns and are linked to wheals or red bumps that are painful. But bed bug bites would be formed into a line and we'll be a few.
 
@@ -115,7 +115,7 @@ b. Shape Both bed bug bites and hives will be raised from your skin and they wil
 
 However, if it is just one person suffering from skin irritation, then I would classify these as hives since they aren't contagious.
 
-# # 6. Bed Bug Bite versus Chicken Pox
+##  6. Bed Bug Bite versus Chicken Pox
 
 Vaccination is the most common remedy against chickenpox. - But some people find it challenging to differentiate between chickenpox and bed bug bites. The key differentiating factors between the two will be the type and quantity of markings. - Chickenpox marks are fluid-filled and irritated (blisters) while bed bug bites will be red bumps that have no fluid or pus.
 
@@ -129,7 +129,7 @@ The symptoms of chickenpox will include itchiness and redness on the skin locati
 
 - On the other hand, the remedies for bed bug bites will include ice to minimize redness and itching, calamine lotion, and anti-itch cream.
 
-# # Conclusion
+##  Conclusion
 
 Bed bugs would use a number of sectors such as carbon dioxide, and body heat to detect a suitable host such as human beings. - The best will take a complete blood meal on their host in under 15 minutes and then get back to their hidden areas. Bedbugs are cold-blooded insects that get into a dormant state and can survive in that condition for months without taking a meal.
 

@@ -20,9 +20,9 @@ But you dont have to break a bank to get a high-performance mic for your voice r
 
 com/best-harmonica-microphones/)-mics-for-recording-acoustic-guitar/)
 
-# # **Reviews: Top 7 Best Vocal Mic Under**$**200 in 2025**
+##  **Reviews: Top 7 Best Vocal Mic Under**$**200 in 2025**
 
-## # [**1. Blue Yeti Vocal Microphone with USB**](https://www.amazon.com/dp/B00N1YPXW2/?tag=p-policy-20)
+###  [**1. Blue Yeti Vocal Microphone with USB**](https://www.amazon.com/dp/B00N1YPXW2/?tag=p-policy-20)
 
 If youre looking for a premium vocal microphone, get yourself Blue Yeti. Its a high-quality USB mic that is designed for both entry-level and professional applications.
 
@@ -38,7 +38,7 @@ Cons: - Not very durable
 
 Related: [7 Best Condenser Mics under 300](https: //pestpolicy. com/best-condenser-mics-under-300/)
 
-## # [**2. sE Electronics X1 Vocal Microphone**](https://www.amazon.com/dp/B002ZNZK78/?tag=p-policy-20)
+###  [**2. sE Electronics X1 Vocal Microphone**](https://www.amazon.com/dp/B002ZNZK78/?tag=p-policy-20)
 
 A tight budget shouldnt deny you the benefits of a quality microphone for your home vocal recording studio. You can get this affordable X1 Condenser Microphone from sE Electronics and enjoy quality sound recording or streaming.
 
@@ -54,7 +54,7 @@ Cons: - Not compatible with some types shock mounting
 
 Related: 9 Best Mac for Music Production
 
-## # [**3. Audio-Technica AT2025 Vocal Cardioid Microphone**](https://www.amazon.com/dp/B0006H92QK/?tag=p-policy-20)
+###  [**3. Audio-Technica AT2025 Vocal Cardioid Microphone**](https://www.amazon.com/dp/B0006H92QK/?tag=p-policy-20)
 
 AT2025 comes at a fairly affordable price. However, youll be overwhelmed by its performance when compared to its competitors. This will be an ideal microphone for entry level vocal home recording or streaming.
 
@@ -68,7 +68,7 @@ Pros: - Produces accurate, warm and crisp vocals - Very affordable - Ideal for a
 
 Cons: - Pop filter not included
 
-## # [**4. Mxl 770 Vocal Cardioid Microphone**](https://www.amazon.com/dp/B0007NQH98/?tag=p-policy-20)
+###  [**4. Mxl 770 Vocal Cardioid Microphone**](https://www.amazon.com/dp/B0007NQH98/?tag=p-policy-20)
 
 You dont have to break a bank to get a quality vocal microphone for your home recording studio. MXL 770 gives you an opportunity to make attain professional recording at a very affordable price.
 
@@ -82,7 +82,7 @@ Pros: - Isolates unwanted sounds - Affordable price - Sensitive and accurate sou
 
 Cons: - No direct USB connection
 
-## # [**5. Rode NT- Cardioid Microphone with USB**](https://www.amazon.com/dp/B00KQPGRRE/?tag=p-policy-20)
+###  [**5. Rode NT- Cardioid Microphone with USB**](https://www.amazon.com/dp/B00KQPGRRE/?tag=p-policy-20)
 
 Rode is one of most favourite brands when it comes to microphones. It comes in a quality construction which guarantees superb performance in voice recording, instrument recording, podcasting and other musical performances.
 
@@ -94,7 +94,7 @@ It works perfectly with both Windows, Macs, and Apple iPad. A 6m USB cable is in
 
 Cons: - The stand is a bit weak
 
-## # [**6. AKG P220 Cardioid Condenser Vocal Microphone**](https://www.amazon.com/dp/B00M9CUJ6W/?tag=p-policy-20)
+###  [**6. AKG P220 Cardioid Condenser Vocal Microphone**](https://www.amazon.com/dp/B00M9CUJ6W/?tag=p-policy-20)
 
 Built for vocals and instruments, AKG P220 comes with quality features of an excellent studio microphone. Its a condenser microphone with a 1 inch diaphragm and cardioid patterns which allow sounds from specified directions.
 
@@ -106,7 +106,7 @@ Pros: - Allows clear and accurate recording - No voice contamination - High SPLs
 
 Cons: - Sensitivity may reduce at very high frequency
 
-## # [**7. Audio-Technica Cardioid Condenser (AT2035) Microphone**](https://www.amazon.com/dp/B00D6RMFG6/?tag=p-policy-20)
+###  [**7. Audio-Technica Cardioid Condenser (AT2035) Microphone**](https://www.amazon.com/dp/B00D6RMFG6/?tag=p-policy-20)
 
 At below 163, its unimaginable to get a microphone with an incredible performance like the AT2035. Its an ideal microphone for home and professional vocal recording or streaming.
 
@@ -118,6 +118,6 @@ Also included is a 10 dB pad which comes in handy to minimise interference cause
 
 Cons: - No Provision for USB mounting
 
-# # **Conclusion**
+##  **Conclusion**
 
 Whether youre a novice or experienced sound engineer or artist, you need a quality vocal mic to produce high quality work. At less than 200, you can get one of the above microphones and take your voice recording to the next level.

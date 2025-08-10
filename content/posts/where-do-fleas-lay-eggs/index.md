@@ -25,13 +25,13 @@ Flea eggs are tiny oval-shaped specs (size of rice or salt grain) measuring ~ 0.
 
 They are off-white, translucent, or bright white -unlike dandruff that's irregular-shaped.
 
-# # Details: Where Do Fleas Lay Eggs?
+##  Details: Where Do Fleas Lay Eggs?
 
 Cats fleas will adopt and live long on their hosts such as dogs and cats - and they rarely leave unless the host dies. Otherwise, they'll eat, mate and finally lay their eggs on the dogs and cats - the fleas will live a few months without a host. The fleas will hide on the cat's collar, neck, hindquarters, and dorsal area.
 
 When freshly laid, the fleas' eggs will be sticky, wet, and smooth with that oval (rounded) shape but will dry fast as fall off the host.
 
-## # **1. Pet's and their bedding**
+###  **1. Pet's and their bedding**
 
 Flea treatments will kill flea larvae, immature flea, and adult fleas in the pet's environment. Flea-treat all the pets and small mammals including guinea pigs, hamsters, pet rabbits that are in your household. But, flea dirt will appear like black pepper flecks - they're actually flea waste - they'll clump readily and stick on the cat's or dog's skin or fur. Also, you'll get flea eggs around their main food source - that's your cat and dog.
 
@@ -43,7 +43,7 @@ With flea bites, your pet will itch or scratch the body naturally and thus the f
 
 This weather will make the flea eggs (and larvae) hatch or molt to the next stage (in just weeks) - which makes controlling challenging.
 
-## # **2. Rugs and Carpets**
+###  **2. Rugs and Carpets**
 
 First, yes flea eggs can be found on rugs, floorboard gaps, carpet fibers, and bedding. These eggs will be roughly 0. 5 mm in length (quite tiny), white and oval - thus they might be difficult to see when on rough materials and surfaces. But either way, check for signs of flea eggs on your rugs and carpeting. The tiny oval objects will get deep into the fibers of the carpeting since they're small.
 
@@ -55,7 +55,7 @@ Female fleas may equally lay the eggs directly on the carpets -which may also ha
 
 Examine the upholstered furniture and couches where your pets tend to love and so will drop their fecal matter. You may examine if the specs you find are really flea dirt by dropping them into some water basin - see if they turn reddish (this is confirmatory). Related: Flea Eggs Vs Dandruff
 
-## # **3. Lawn and **Yard
+###  **3. Lawn and **Yard
 
 Fleas and their eggs will effectively thrive in humid and warm weather - and under these conditions will lay about 50 eggs daily. Thus, the yard and lawn will play an excellent breeding area for fleas and their babies - they'll hitch your pets and also humans.
 
@@ -75,13 +75,13 @@ Remove the trash bin and garbage bag - plus vacuum the furniture and carpeting -
 
 - You cancontrol the bugs and their eggsin your yard using Nematodes (microscopic worms) as they'll eat the flea larvae and eggs. But the worms won't harm your gardens, grass, pets, and humans - you can buy the Nematodes from various stores.
 
-# # How Fast do the Eggs Fall
+##  How Fast do the Eggs Fall
 
 Researchers have reported that over half of the flea eggs will fall off from the pet in just 2 hours after getting laid. Over 65-percent of the eggs will have dropped from the cat in 4 hours. About 70-percent of the flea eggs will be dislodged from the pet's fur within 8 hours. Only under 3-percent of the flea eggs will be left on the host with over 27-percent eaten while grooming.
 
 Thus, the rate of falling of the flea eggs will vary on the movement and grooming habits of the pets plus their fur length. With a dirty and dense hair coat, the eggs may be lodged with the fur. The fleas will bite and inject their saliva into the wounds - which results in some irritation, and scratching and this may enhance the dropping (or dislodging) of flea eggs.
 
-# # Where Do Eggs Fall?
+##  Where Do Eggs Fall?
 
 Once dislodged, the flea eggs will drop off in areas like outdoors or indoors. They'll drop on places that the bug hosts such as dogs and cats will access. The fleas' host behavior and movement patterns will determine how the eggs will be dispersed. The eggs will be dispersed mainly in the home and places that pets feed, rest, or sleep.
 
@@ -89,15 +89,15 @@ The eggs will be deposited mainly around the resting and sleeping areas since [e
 
 - But flea larvae won't travel far from the bug's laying location and pet's sleeping area - and they'll die when[exposed to high or lower temperatures](https: //pestpolicy. com/at-what-temperature-do-fleas-die/).
 
-# # Appropriate Habitats for Flea Eggs
+##  Appropriate Habitats for Flea Eggs
 
 The best habitat conditions for flea eggs to exist and develop effectively - and thus the incubation areas for eggs won't be in many areas of the house.
 
-## # 1. Temperature and Humidity
+###  1. Temperature and Humidity
 
 Fleas will die from desiccation - but to hatch and develop effectively, the eggs need to be on substrates that have correct humidity and warmth. - The appropriate temperature for the flea eggs is between 10 - 38C (50. 4 - 100. 4F) and relative humidity of between 50% to 92% RH - notably, they'll desiccate at under 50% RH.
 
-## # 2. Feeding on Flea Dirt (Fecal Blood)
+###  2. Feeding on Flea Dirt (Fecal Blood)
 
 Fleas will survive effectively when they take flea dirt - which is fecal blood for adult fleas. With no food ( [blood or flea dirt](https: //pestpolicy. com/what-is-flea-dirt/) ), the flea larvae will die in just 3 after hatching. - The basic food source for fleas is flea dirt - the adult fleas will equally die.
 
@@ -105,6 +105,6 @@ Thus the flea eggs will develop fully once they are in the right habitat plus th
 
 It'll fall off in the pet-grooming times and tend to mainly fall around areas that the pets rest and sleep.
 
-# # Conclusion
+##  Conclusion
 
 Compared to flea eggs from other bugs, flea eggs will hatch within 1 - 12 days to become larvae - they'll fall off from the flea host (dog or cat) to the ground as they're not sticky. So, where do fleas lay eggs? Well, check the carpeted areas, indoor & outdoor spaces that pets (dogs & cats) rest and sleep.

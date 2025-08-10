@@ -46,7 +46,7 @@ This guide will walk you through everything you need to know about planting [ind
 
 Whether you dream of a stately Fiddle Leaf Fig, a fragrant citrus tree, or a dramatic Olive, understanding these fundamentals will set you up for success in bringing the majesty of trees indoors.
 
-# # Choosing the Right Container
+##  Choosing the Right Container
 
 The container is more than just a decorative element; it's crucial for the tree's health.
 
@@ -60,7 +60,7 @@ Without them, roots will sit in stagnant water, leading to root rot and plant de
 
 **Style: ** Choose a container that complements your interior decor, but always prioritize function (drainage and size) over aesthetics.
 
-# # Planting Process
+##  Planting Process
 
 1. **Gather Materials: ** Tree, chosen container, potting mix, trowel, watering can. 2. **Prepare the Pot: ** If using a new terracotta pot, soak it in water for 15-30 minutes before planting to prevent it from wicking moisture too quickly from the soil. Cover the drainage hole(s) with a piece of mesh screen or a broken pot shard (concave side up) to prevent soil from washing out while allowing water to drain. 3.
 
@@ -74,7 +74,7 @@ If roots are circling tightly at the bottom (root-bound), gently tease them apar
 
 Avoid direct, intense sunlight for the first few days as the tree adjusts, then move to its final spot.
 
-# # Final Thoughts
+##  Final Thoughts
 
 Planting indoor container trees is a rewarding endeavor that brings the beauty and tranquility of nature into your living space. While it requires a thoughtful approach to species selection, proper container choice, and diligent care, the effort is well worth it. A thriving indoor tree acts as a living sculpture, a natural air purifier, and a continuous source of joy.
 

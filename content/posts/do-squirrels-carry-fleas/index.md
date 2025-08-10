@@ -25,7 +25,7 @@ The fleas' eggs or larvae that fall off can infest your property when they hatch
 
 - [Fleas are a type of parasite](http: //www. idph. state. il. us/envhealth/pcfleas. htm)and live on the body of an animal, including squirrels! - As these flea parasites feed off blood from their host, they can cause some serious health consequences for animals or people who come in contact with them. If you have observed your pet scratching or grooming themselves excessively, they may be reacting to a flea infestation.
 
-# # Can Dogs Get Fleas from Squirrels?
+##  Can Dogs Get Fleas from Squirrels?
 
 Squirrels can carry fleas. When squirrels come around areas where there are homes, then fleas can jump onto any domesticated pets with ease, which leads to a potential flea infestation.
 
@@ -35,7 +35,7 @@ The fleas will jump onto the dog hoping for a chance at consuming dog blood or g
 
 First off, identify anypotential sources of flea infestationfor your pet 2. Be aware of areas where squirrels, coyotes, and other animals may have left behind eggs or larva, a potentially serious problem with their reproductive cycle 3. Avoid places in which fleas and[ticks thrive](https: //pestpolicy. com/do-squirrels-carry-ticks/)
 
-# # How Do You Get Rid of Fleas on Pet Squirrels?
+##  How Do You Get Rid of Fleas on Pet Squirrels?
 
 Why doesn't anyone turn down orphaned squirrels at my practice with Nicole, our manager? I had a good time last night.
 
@@ -45,7 +45,7 @@ Who would want their pets living with fleas?
 
 Theres none! Every animal-loving person will be glad about it. ** So, how do you get rid of fleas on the squirrel?
 
-## # 1. Bathing your Pet Squirrels
+###  1. Bathing your Pet Squirrels
 
 Bathing your Pet Squirrels for fleas is important as it helps to keep the pet clean and healthy.
 
@@ -63,7 +63,7 @@ Once they are inside put on gloves so as not to irritate their sensitive skin, a
 
 Remember: Bathe them once a week for fleas!
 
-## # 2. Use Flea Sprays and Shampoos
+###  2. Use Flea Sprays and Shampoos
 
 Spraying your home with an insecticide can also help keep fleas away from your pet squirrels. - A bug spray or shampoo can keep fleas away from squirrels! . Use a spray or shampoo that works for animals. - Insecticide sprays work best, but if you don't want to use them because of the smell, try using pyrethrin-based shampoos. Hartz spray is specifically designed to kill fleas on contact and last 7 days.
 
@@ -77,7 +77,7 @@ Flea treatments include Advantage for Cats and Kittens which contains an ingredi
 
 - Another kind of treatment available nowadays is a topical solution like Frontline, a liquid application given once every month; there's also Hartz Ultraguard Plus in both acollar form (long-term)orfleas drop (short term).
 
-# # Remove Wild Squirrels to eliminate Fleas
+##  Remove Wild Squirrels to eliminate Fleas
 
 Did you know that wild squirrels carry fleas and that they attack humans too? These pests can get into your home and make it miserable.
 
@@ -89,7 +89,7 @@ Afterward, leave an empty dish with water where those fallen nuts were collected
 
 Wild squirrels are difficult to get rid of, but poisoning them is inhumane and illegal. - The best way to discourage them from entering your property is through exclusion and trapping with live traps that they have time to enter before snapping closed.
 
-## # 1. Use a Bait Trap for squirrel
+###  1. Use a Bait Trap for squirrel
 
 There are many different bait traps for squirrels today. To catch your squirrel, set the humane trap by smearing peanut butter just inside the opening.
 
@@ -103,7 +103,7 @@ The best bait for use with a bait trap is peanut butter, nuts, bread crumbs, raw
 
 The type of food you choose should be something familiar to your target species and must contain some amount of sugar as well as oil content so that it wont dry out too quickly. - You may need more than one type if there are more than one species around because they will Related: Fogger or Bombs for Fleas
 
-## # 2. Frighten Squirrels Using Light or Loud Noises
+###  2. Frighten Squirrels Using Light or Loud Noises
 
 To scare off squirrels you are facing in your house, try using light or loud noises.
 
@@ -121,7 +121,7 @@ Use noise generators such as ultrasonic sound devices, sirens, bells, or recordi
 
 - You can also scare them by throwing things, rolling some nuts around outside, or knocking pans together under the tree they live in.
 
-## # 3. Catch Squirrels with a Blanket
+###  3. Catch Squirrels with a Blanket
 
 This might sound like a joke, but it's not. A blanket is a great way to catch squirrels. Its an affordable option and it's pretty easy for anyone with some basic DIY skills.
 
@@ -131,7 +131,7 @@ This blanket approach is cost-effective and easy for nearly anyone to implement.
 
 If youve found a squirrel that is not able to move, try this trick. Put on heavy gloves so they don't scratch you, and hold the blanket in front of you. - Walk slowly towards the animal to corner them, making sure not to startle them. - Now, drop the blanket fast and try to get them before they run away. Be gentle when rolling the squirrel in the blanket to avoid hurting them by tightening it too much.
 
-## # 4. Relocate the Baby Squirrels
+###  4. Relocate the Baby Squirrels
 
 If a squirrel with babies has entered your home, you can relocate her and her offspring by removing them from the premises. - The professional will place the mother squirrel and her babies in a box or cage for relocation. There are a few things to consider before trapping squirrels.
 
@@ -139,7 +139,7 @@ You will need to ensure that you have the proper equipment, and it is important 
 
 If you want more information on removing critters from your property, please contact us! - We can make sure that any rodent removal is done by professionals who know how to handle these animals with care and respect.
 
-# # Do squirrels get along with dogs?
+##  Do squirrels get along with dogs?
 
 Yes, squirrels will get along easily with dogs but this may vary with the dog breed as some are more friendly. Some dog breeds may even kill the pet squirrels. - So, you can keep dogs and squirrels in the same yard although some breeds of dogs will not get along with them. Squirrels typically feed on nuts, seeds, and plants.
 
@@ -155,7 +155,7 @@ Dog owners should be careful about letting their pets chase or scare away any sq
 
 When you have a squirrel and a dog at the same home, it's important to always monitor their interaction. Dogs can transmit fleas to both dogs and squirrels (and vice versa) - if there are any fleas present in your pet's coat. - To avoid either of them getting infested with parasites from each other, consider bathing both more often than you usually would.
 
-# # Can squirrel fleas live on humans?
+##  Can squirrel fleas live on humans?
 
 Can fleas live on humans? No, the fleas will not live on humans for more than 24 hours. They usually bite people around the ankles and lower legs (feet) but later jump off to a suitable host or pet bed.
 
@@ -163,11 +163,11 @@ It's also possible that a human could get fleas by handling pets, which are ofte
 
 While it is unlikely to happen if you find yourself in this situation be sure to wash your clothes immediately and take a bath as soon as possible so you can stop any potential spread of disease-carrying parasites.
 
-# # What Other Problems Do Squirrels Cause?
+##  What Other Problems Do Squirrels Cause?
 
 Squirrels will chew on the insulation and wiring in buildings, potentially causing a fire or other damage. - They can make nests inside attics and cause black mold to grow from their droppings. - A squirrel may also gain access to your home through a pet door or open window vent.
 
-## # 1. Endoparasites
+###  1. Endoparasites
 
 Squirrels can be a carrier of fleas, ticks, and other parasites.
 
@@ -177,13 +177,13 @@ This is why people are advised not to touch wild animals because you never know 
 
 Coccidia that is carried by squirrels, for example, can also be passed to cats and dogs. This poses a problem because of the significant impact internal parasites have on their health. - They're already cute enough without adding more reasons for us to want them around!
 
-## # 2. Chasing Pets
+###  2. Chasing Pets
 
 Despite their cute appearance, squirrels can be a nuisance to homeowners. - They love climbing up and down trees and houses (spending time in attics), they make noise all day long, the food they eat is not always safe for humans to consume, and then there's chasing pets!
 
 If you have cats or other small animals as house pets like birdcages outside your home where squirrels are frequently seen running around at night-time it may be worth limiting their activity during daytime hours so that they don't get chased away by these pests. - With squirrels causing significant problems for the populations of cats and dogs in many places, certain precautions should be taken.
 
-## # 3. Transmit Diseases
+###  3. Transmit Diseases
 
 Pets can be in contact with wildlife and contract different infections, which is why we must be careful. For example, when squirrels come into contact with pets, they spread rabies to them.
 
@@ -193,7 +193,7 @@ With Leptospirosis, the dog may experience kidney or liver failure. Dogs may als
 
 There can also be parasites such as roundworms, tapeworms, and ticks. - Squirrels are a public health concern that we need to deal with on more than one level. The best way to do so is by trapping them! It's the humane thing to do.
 
-# # Conclusion
+##  Conclusion
 
 Squirrels as a species can carry fleas and diseases that may infect human beings. They are also the culprit when our pets get lost, often because of dogs chasing them or getting chased themselves. - When we encounter these problems with squirrels, it is important to use caution in order not to be bitten by one or pass on an infection.
 

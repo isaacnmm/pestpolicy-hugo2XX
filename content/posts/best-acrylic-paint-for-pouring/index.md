@@ -20,9 +20,9 @@ Consider ease of mixing with different pouring mediums, quality of dried texture
 
 com/best-acrylic-paint-for-canvas/).
 
-# # 7 Best Acrylic Paint for Pouring in 2025
+##  7 Best Acrylic Paint for Pouring in 2025
 
-## # [1. Liquitex BASICS Acrylic Pouring Paint - #1](https://www.amazon.com/dp/B004M56VU2/?tag=p-policy-20)
+###  [1. Liquitex BASICS Acrylic Pouring Paint - #1](https://www.amazon.com/dp/B004M56VU2/?tag=p-policy-20)
 
 I landed on Liquitex BASICS Acrylic mainly by trial and error, but the brand offers excellent quality acrylic paints at a budget-friendly price.
 
@@ -38,7 +38,7 @@ Cons: - None
 
 See Also: Quality Paint Stripper for Wood
 
-## # [2. Arteza Acrylic Metallic Paint Fade-Resistant - #2](https://www.amazon.com/dp/B082BFFC3Y/?tag=p-policy-20)
+###  [2. Arteza Acrylic Metallic Paint Fade-Resistant - #2](https://www.amazon.com/dp/B082BFFC3Y/?tag=p-policy-20)
 
 Arteza Acrylic Metallic is my top recommendation when it comes to touring Acrylic paints - it'll give you a highly pigmented and smooth color for consistent and true shades (vivid Pigment: ) - great for canvas painting, pouring projects, and art courses without fading.
 
@@ -54,7 +54,7 @@ Cons: - None
 
 See Also: Deck Stain for Weathered Wood
 
-## # [3. Artist's Loft Sellerfox Acrylic Paint - #3](https://www.amazon.com/dp/B079TZ5SJD/?tag=p-policy-20)
+###  [3. Artist's Loft Sellerfox Acrylic Paint - #3](https://www.amazon.com/dp/B079TZ5SJD/?tag=p-policy-20)
 
 Artist's Loft Paint is a quality paint from Michaels Craft and is consider to the soft body type and hence will be relatively liquid and packed in bigger containers.
 
@@ -64,7 +64,7 @@ You can with Artist's Loft Paint with water but you'd require some flow additive
 
 I recommend using floetrol like your flow medium 0- since it lacks a flow medium. Finally, Artist's Loft Paint will be great for colors such as base coats that are used often. This is because of its high-quality and equality budget-friendly.
 
-## # [4. Golden Fluid Versatile Acrylic Pouring Paint](https://www.amazon.com/dp/B0027A3GOI/?tag=p-policy-20)
+###  [4. Golden Fluid Versatile Acrylic Pouring Paint](https://www.amazon.com/dp/B0027A3GOI/?tag=p-policy-20)
 
 Golden Fluid Versatile combines durability, flexibility, and viciousness plus excellent tinting strength for various surfaces. It's great for spraying, mixing, tinting, brushing, and shading.
 
@@ -80,6 +80,6 @@ Cons: - But due to the high pigmentation, it could take longer to mix.
 
 See Also: Best Stain for Swing Set
 
-# # Conclusion
+##  Conclusion
 
 It has excellent mixability but you may need some limited mixing to break down the paint well and mix it with your chosen pouring medium. I recommend using soft-body or liquid Acrylic paints, like [Liquitex BASICS Acrylic](https: //www. amazon. com/dp/B004M56VU2/? tag=p-policy-20), that have a thinner consistency. Liquitex BASICS Acrylic paint has a great rich-creamy texture.

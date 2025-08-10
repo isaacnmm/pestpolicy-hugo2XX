@@ -45,9 +45,9 @@ Propagation not only saves money but also provides immense satisfaction in nurtu
 
 This guide will walk you through the essential techniques for hydrangea propagation, empowering you to create a continuous legacy of these magnificent flowering shrubs.
 
-# # Methods of Hydrangea Propagation
+##  Methods of Hydrangea Propagation
 
-## # 1. Softwood Stem Cuttings (Most Common and Effective)
+###  1. Softwood Stem Cuttings (Most Common and Effective)
 
 This method is ideal for creating many new plants from a single parent. It works for almost all hydrangea types, including *Hydrangea macrophylla* (Bigleaf/Mophead/Lacecap), *Hydrangea paniculata* (Panicle Hydrangea), *Hydrangea arborescens* (Smooth Hydrangea), and *Hydrangea quercifolia* (Oakleaf Hydrangea).
 
@@ -77,7 +77,7 @@ You can gently tug on the cutting; if it resists, roots have formed. You may als
 
 Plant outdoors in the garden the following spring after all danger of frost has passed.
 
-# # Caring for Newly Propagated Hydrangeas
+##  Caring for Newly Propagated Hydrangeas
 
 * **Consistent Watering: ** This is paramount. New cuttings and divisions do not have established root systems and will dry out quickly. Keep the soil consistently moist but not waterlogged, especially during their first year. * **Indirect Light/Shade: ** Place new plants in a protected location with bright, indirect light or dappled shade for the first few weeks/months. Gradually introduce them to more light if their species tolerates it.
 

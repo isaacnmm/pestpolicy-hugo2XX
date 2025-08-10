@@ -20,7 +20,7 @@ But if you are not a gaming couple, maybe you should check this article on **exc
 
 # Reviews:7 Best PC Games for Couples in 2025
 
-# # **10. Overcooked**
+##  **10. Overcooked**
 
 You can now play Overcooked, created by Ghost Town Games, on your Xbox One, PlayStation 4, and PC. Overcooked is truly a joyful and stressful PC game, tasking a maximum of 4 players in cooking food. BRING MORE MUSHROOMS! This is a common cry of all the angry chefs on Overcooked co-op game Check an amazing Overcooked game review
 
@@ -32,7 +32,7 @@ Also, higher levels will come with additional challenges such as your hotel bein
 
 For example, how will one cook well when one kitchen on a different truck is decelerating? What if the kitchen space becomes too narrow? This could lead to exciting but thrilling shouting between the chefs. Read Also: Best Android Tablet for Gaming
 
-# # [*9. LittleBigPlanet*(Online/Local) - Only Available ON PS4](https://www.amazon.com/dp/B00NJ0TLQM/?tag=p-policy-20)
+##  [*9. LittleBigPlanet*(Online/Local) - Only Available ON PS4](https://www.amazon.com/dp/B00NJ0TLQM/?tag=p-policy-20)
 
 How about an adventure date with your spouse, but now a different one on your PC! With LittleBigPlanet, you will not regret trying co-op gaming with your husband or wife. You will guide friends and Sackboy around planets that look like the Earth. You will solve puzzles, Climb platforms, and coordinate to personalize the characters in search of wonder and exploration.
 
@@ -42,7 +42,7 @@ Also, you can swing arms or make faces until you and your spouse have enough fun
 
 Well, youll definitely have fun with your spouse as the game has easy controls and upper levels that are harder but curious to achieve. Read Also: Gaming Chair for Tall Person > And not to forget the amazing background music that will entertain you and you spouse as you enjoy the game.
 
-# # [8. Lovers in a Dangerous Spacetime](https://www.amazon.com/dp/B01M046LAZ/?tag=p-policy-20)
+##  [8. Lovers in a Dangerous Spacetime](https://www.amazon.com/dp/B01M046LAZ/?tag=p-policy-20)
 
 Looking for a different experience with your wife or husband, then Lovers in a Dangerous Spacetime is an excellent indie game that will allow each of you to take categorized duties related to spaceship management. Both of you will take turns in battle station operations, defense, and weapon maintenance to always have the ship running for galaxy exploration.
 

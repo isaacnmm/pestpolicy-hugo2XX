@@ -23,7 +23,7 @@ To get rid of fleas, you just need to follow any of these three simple methods: 
 
 Vacuuming Carpet[/caption]
 
-# # Disinfect the Items On the Carpet
+##  Disinfect the Items On the Carpet
 
 Gather all the cushions, pet bedding, and other fabrics that are lying on or near the carpet - with or without a host. Wash thoroughly and dry them off at the highest setting. The fleas that are hidden in the items will get killed from the heat of the washer and dryer.
 
@@ -35,9 +35,9 @@ Do this and you can get flea free carpets- Almost 95% of the flea infestation re
 
 Related: Flea Bites vs. Bed Bug Bites
 
-# # Disinfecting the Carpet
+##  Disinfecting the Carpet
 
-## # Method 1: Vacuuming
+###  Method 1: Vacuuming
 
 Your vacuum cleaner is the most important tool when it comes to getting rid of fleas in carpet. Its not only the simplest but also the best method to disinfect the carpet of fleas.
 
@@ -51,7 +51,7 @@ Cocoons are hard to kill or eliminate as theyre insecticide resistant and usuall
 
 Spend some more time and effort on the corners, or dark, humid parts of the room and areas where your pet spends time. Make sure you empty out the vacuum bags outside of your home, to prevent them from sneaking back. Do this each day for at least 2 weeks.
 
-## # Method 2: Steaming
+###  Method 2: Steaming
 
 Like we mentioned before, fleas cannot bear temperatures above 95 degrees. Steam can kill the fleas hiding in the carpet or at least cause dormant flea pupae to leave their cocoons, making them vulnerable and an easy kill.
 
@@ -59,7 +59,7 @@ If youve got little ones around and are looking for non-toxic cleaning methods, 
 
 You can get buy or rent a home steam cleaner or hire a professional cleaning service. The steamer creates strong hot steam that can be used over unholstered furniture and carpets. Continue vacuuming to capture the new born fleas that emerge after the steam cleaning.
 
-## # Method 3: Use Different Flea Killers
+###  Method 3: Use Different Flea Killers
 
 You have plenty of options to choose from which you can use to eliminate fleas in carpet. Your choice depends on whether you want to opt for a natural or chemical method.
 
@@ -85,7 +85,7 @@ Professional pest controllers use this method in case of severe infestations. It
 
 Ensure that food items and utensils are kept covered. Close all the windows and doors and put off the smoke alarms momentarily. Once the process is over, open the windows and door and let it ventilate for a couple of hours before you step in. Along with fleas youll find other dead pests as well.
 
-# # Surveying the Situation
+##  Surveying the Situation
 
 Carrying out any of these methods can help you to successfully eliminate fleas in carpet. Leave out flea traps on the carpet so you can keep check on the situation.
 
@@ -95,7 +95,7 @@ Its quite simple, as you only have to place them on the carpet and keep a regula
 
 Related: [Best Flea Spray For Yar](https: //pestpolicy. com/best-flea-spray-for-yard/)
 
-# # How to Prevent Fleas on Carpet
+##  How to Prevent Fleas on Carpet
 
 Were sure you dont want to repeat the whole process if youve cleaned everything already. Thats why you must prevent fleas from infesting the carpet again.
 
@@ -107,12 +107,12 @@ Another easy way is to keep specific plants at home which repel these biting pes
 
 Use any of these plants at your home thatll naturally help to repel fleas from your home - Chrysanthemums - Spearmint - Penny Royal - Lavender
 
-# # Conclusion
+##  Conclusion
 
 To get rid of fleas in your carpet, its important that you carefully carry out each step. Following these steps will help to eliminate fleas in your carpet.
 
 Make sure to take preventive measures after disinfecting your place to keep them at bay. Run checks from time to time, so that you or your pets dont have to bear them again.
 
-# # Sources:
+##  Sources:
 
 1. [Flea control failure? Myths and realities. - NCBI](https: //www. ncbi. nlm. nih. gov/pubmed/24661796) 2. [All About Fleas Bothell Pet Hospital Case Studies](https: //bothellveterinarian. wordpress. com/2014/09/03/all-about-fleas/) 3. [Alternative Flea Control Products Science-Based Medicine](https: //sciencebasedmedicine. org/alternative-flea-control-products/)

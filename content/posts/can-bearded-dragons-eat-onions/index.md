@@ -21,9 +21,9 @@ Do you own one of these [smart bearded [dragon](https: //pestpolicy. com/can-bea
 
 Never feed bearded dragon with (cooked or raw). Onions are laced with high levels of acids and have high calcium to phosphorous ratio. These components cause indigestion problems along the delicate alimentary canal of Bearded Dragon. **
 
-# # Details: Can Bearded Dragons Eat Onions?
+##  Details: Can Bearded Dragons Eat Onions?
 
-## # 1. Toxic to their digestive system
+###  1. Toxic to their digestive system
 
 Onions (scientific name *Allium cepa* ) usually contain toxic substance which when eaten by Bearded Dragon, it toxifies the alimentary canal leading to digestion problems such as incomplete digestion, [vomiting and burning sensation](https: //www. vetexotic. theclinics. com/article/S1094-9194(16)30081-0/abstract).
 
@@ -31,7 +31,7 @@ You will notice mixed reaction when you feed your beard dragon with onions due t
 
 The onion leaves produces slippery fluid between leaf layers, which makes it unpleasant meal for your bearded dragon. The green leafy onions have hollow inner sections that incubate gas, which causes vomiting to your bearded dragon when eaten.
 
-## # 2. High Acidity level
+###  2. High Acidity level
 
 Onions have high level of acid content, which cause hurt burn and throat discomfort to your bearded dragon when eaten. The Folate (Folic Acid) & ascorbic acid portions found in onions form a high pH environment in chyme within the stomach thus inhibiting normal working of digestive enzymes (high acid levels inactivates the digestive enzymes).
 
@@ -39,7 +39,7 @@ Onions have high level of acid content, which cause hurt burn and throat discomf
 
 This feeling makes the pet get agitated or angry leading to loss of appetiteand they can't mate. The red onions (normally fed to bearded dragons most have white fleshy interior leaves and are sweet) have compound that affect the red blood cells of your bearded dragon leading to low cell count.
 
-## # 3. Unbalance Nutrition components (Calcium to Phosphorous ratio).
+###  3. Unbalance Nutrition components (Calcium to Phosphorous ratio).
 
 Onions have unbalance calcium to phosphorous ratio. For every 1gram of calcium, there is 2 grams of phosphorous in a given onion species. This on itself cause ion imbalance in the body. High level of phosphorous as compared to calcium is not ideal for Bearded Dragon Survival. Excess or phosphorous will inhibit calcium intake leading adrenal or renal disorder.
 
@@ -53,7 +53,7 @@ Onion has other nutritional components that may be of nutritional value for your
 
 *Pantothenic Acid (B5) 0. 123 milligrams*& Niacin (B3) 0. 116 milligrams By observation, it is clear that the phosphorous (written in bold) levels in sample is far much high as compared to calcium. In addition, the acidity level in different onion nutritional components (written in italic) are far much high too. This means that onions are not suitable for bearded dragon at whatever case.
 
-## # Rule and Guidelines to Follow When Feeding Your Bearded Dragon.
+###  Rule and Guidelines to Follow When Feeding Your Bearded Dragon.
 
 1. Any plant feeds should be fresh, chopped and thoroughly washed before feeding your bearded dragon. Water provides added nutrition to your beaded dragon. 2. Never feed your bearded dragons with food pieces that are larger than the space between the eyes (this cause chocking while feeding). 3. Let your bearded dragon hunt for food (insects) introduced in the cage to enable it to exercise while moving. 4.
 
@@ -63,6 +63,6 @@ It is always advisable to offer plant feed mixed with insects to boost the nutri
 
 7. Fruits should be peeled and chopped when feeding your bearded dragon. 8. Never entrust your kids to feed your bearded dragon in your absence.
 
-# # Conclusions
+##  Conclusions
 
 Bearded Dragon do not eat onions in any form (raw or cook). Though some owners mix onions with other feeds, this is not right since onions contain toxic substance, acids and high calcium to phosphorous ratio, which cause digestion problems. It is therefore advisable to avoid giving your pet bearded dragon any onion species. Also, follow the feeding guidelines discussed above to ensure a healthy life for your pet bearded dragon.

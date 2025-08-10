@@ -57,7 +57,7 @@ From fuzzy toilet mold to rumbling freight trains, we've got you covered.
 
 Let's get right into our first listener question!
 
-# # How to Fight Noise from Freight Trains
+##  How to Fight Noise from Freight Trains
 
 **Host: ** That's the sound of progress, they say, but when that progress involves a rumbling freight train shaking your windows at 3 AM, it's less about progress and more about frustration! Living near train tracks can be a real challenge for peace and quiet. While you can't stop the train, you *can* significantly reduce the noise entering your home.
 
@@ -79,7 +79,7 @@ Look for "soundproof" or "thermal" curtains as they offer more mass.
 
 5. **White Noise Machines: ** While not a soundproofing solution, a white noise machine can help *mask* residual train noise, making it less noticeable and promoting better sleep.
 
-# # Where to Use Caulk vs. Grout in the Bathroom
+##  Where to Use Caulk vs. Grout in the Bathroom
 
 **Host: ** In the world of bathroom tiling, caulk and grout are often confused, but they serve entirely different purposes. Using the wrong one in the wrong place can lead to cracked tiles, leaks, and unsightly mildew. Let's clear up the confusion!
 
@@ -97,7 +97,7 @@ Look for "soundproof" or "thermal" curtains as they offer more mass.
 
 **The Golden Rule: ** Grout between tiles, caulk in corners and where dissimilar materials meet. If you see a seam that connects two different surfaces or two walls coming together, it should almost always be caulked, not grouted. This allows for the natural movement of your home without cracking your seals.
 
-# # Other Products and Links Mentioned
+##  Other Products and Links Mentioned
 
 **Host: ** Before we wrap up, a few other products and resources that can help you with today's topics:
 

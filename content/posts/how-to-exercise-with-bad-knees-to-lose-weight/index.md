@@ -20,9 +20,9 @@ But first, the term [bad knees](https: //www. health. harvard. edu/pain/moving-a
 
 Appropriate workouts for your bad knees should incorporate non-plyometric exercises such as sitting back in the squat and avoiding the plyometric exercises such as jumping.
 
-# # How to Exercise With Bad Knees to Lose Weight
+##  How to Exercise With Bad Knees to Lose Weight
 
-## # 1. Walking
+###  1. Walking
 
 Walking is awesome low-impact cardio that will reduce your knee pain. Unlike most bad pain sufferers who take up activity avoidance, you adopt different aerobic exercises such as walking. Such exercises are [recommended](https: //www. ncbi. nlm. nih. gov/pubmed/18279766) as they will improve your knees muscle quality and fight sarcopenia.
 
@@ -36,7 +36,7 @@ Walking increases your heart rate and would be appropriate during bad weather as
 
 While walking, make sure you keep your upper body nice and tall while your shoulders should be back and down and pull your abs towards your spine to lose the most amount of calories possible.
 
-## # 2. Elliptical Trainer
+###  2. Elliptical Trainer
 
 Like walking and stationary bicycles, elliptical trainers are considered low impact exercises because they produce circular motion.
 
@@ -46,7 +46,7 @@ Therefore, increasing the pedal resistance will enable your muscles to work hard
 
 Interestingly, with the elliptical trainer unlike the treadmill your feet will not leave the machine pedals, and thus there is a reduced possibility of injuring the bad knees.
 
-## # 3. Swimming
+###  3. Swimming
 
 Swimming with your bad knee will be effective in losing weight. Itll assist in improving your flexibility and strengthening your muscles and bones.
 
@@ -54,6 +54,6 @@ Compared to other cardio exercises, swimming will have minimal stress on the bad
 
 Further, due to the reduced pain, youll find yourself working out longer in the water compared to other cardio training.
 
-# # Conclusion
+##  Conclusion
 
 Therefore, if you are suffering from a specific condition or injury, you should know that not all the exercises we described will appropriate. Therefore, listen to your bodys reaction and follow your doctors recommendations, if are under some for that condition.

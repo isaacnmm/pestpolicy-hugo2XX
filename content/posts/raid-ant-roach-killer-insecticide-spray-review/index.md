@@ -19,21 +19,21 @@ Next up is this [Raid Ant & Roach Killer](https: //hpd. nlm. nih. gov/cgi-bin/ho
 
 The roach spray kills on contact; it has a fast roach and ant killer whose residue effect will last for about four weeks but lacks the secondary kill effect in roach baits.
 
-# # Active Ingredients - Raid ant roach killer insecticide spray review
+##  Active Ingredients - Raid ant roach killer insecticide spray review
 
 This roach killing spray is made from Imiprothrin (0. 100%) and Cypermethrin (0. 100%), the ingredient thatll kill both ants and roaches on contact. Most homeowners also use the roach killing aerosol like an indoor residual spray to prevent roaches and ants from getting into your house for about one month. The spray dries fast, will leave no oily residue or foul odor in the place due to the fantastic lemon scent.
 
-# # Effectivenessagainst Roach Colony
+##  Effectivenessagainst Roach Colony
 
 Raid Ant & Roach Killer will not be effective in killing the roach colony or their queen. The roach killer will clear the smaller roach invasions. However, homeowners require reapplying the insect killer if youre trying to control a significant ant or roach infestation. Compared to roach baits that demand a lot of patients, sprays are instant killing on contact.
 
-# # Don't Spray Near Dishes or Food.
+##  Don't Spray Near Dishes or Food.
 
 As outlined earlier, its active ingredients are cypermethrin and imiprothrin, which are very popular and influential in killing roaches/) and ants. But you must not spray near dishes, food, human beings, or pets as this could cause dangerous poisoning. The spray is poisonous when swallowed, and you must not allow it to get into contact with your skin. Also, dont inhale the spray vapors or mist while applying around and in the home.
 
 However, you should ensure that the spray mist gets into all the crevices and cracks where roaches and ants could have entered. Therefore, the roach [killer will additionally create a](https: //pestpolicy. com/best-fire-[ant](https: //pestpolicy. com/ant-control-in-bellingham/)-killer-for-lawns/) protective barrier against ants, spiders, and roaches.
 
-# # Roaches and Infestations
+##  Roaches and Infestations
 
 Roaches invadeyourhome just like a joke - slow but sure. First, they'll occupy the small crevices and crack that are already on your kitchen's cupboard, countertops, andbaseboard. In their infant stages, you might confuse the [baby roaches](https: //pestpolicy. com/what-do-baby-roaches-look-like//) to something like ants such that they'll completely hide in the cracks.
 
@@ -41,7 +41,7 @@ When some roaches find some food crumbs around the house, they'll go back to the
 
 Further, use the [best drain cleaners](https: //pestpolicy. com/best-drain-cleaner//) to make sure the drainages are free-flowing.
 
-# # Alternatives forRaid Ant & Roach Killer
+##  Alternatives forRaid Ant & Roach Killer
 
 Maybe this [roach spray](https: //pestpolicy. com/bengal-roach-spray-review/) might not work for you, depending on your house's unique conditions or the attacking roach species. Therefore, I would recommend that you try other roach control solutions such as roach gel, roach baits, and roach traps.
 

@@ -21,9 +21,9 @@ In this article, I will online and discuss some of the Capstar flea treatment re
 
 Let's dig in!
 
-# # Details: Capstar Flea Treatment Reviews
+##  Details: Capstar Flea Treatment Reviews
 
-## # Review #1: Highly Effective Oral Flea Treatment
+###  Review #1: Highly Effective Oral Flea Treatment
 
 I can say that I finally landed on an effective and still [safe flea killer - for small dogs](https: //pestpolicy. com/capstar-flea-tablets-for-small-dogs) and large dogs plus cats. Compared to other over-the-counter pesticides and repellents that I had used trying to control the fleas on my pets, Capstar tablets proved much better.
 
@@ -39,7 +39,7 @@ Also, fleas make cats and dogs lose their fur through scratching and itchy. Ther
 
 Within a month none of my pets showed any signs of physical or mental sickness and that's why I conclude Capstar flea tablets are quite effective. Father the natural flea repellents may not work always to control the bags while some chemical pesticides may irritate the pet's skin.
 
-## # Review #2: Quick Action and Cheap in Killing Fleas
+###  Review #2: Quick Action and Cheap in Killing Fleas
 
 My mum has five indoor cats but just 2 go outdoors for a short time daily. But with the recent massive rains, the flea infestation has increased. Since the cats are many numbers then controlling fleas on all of them, especially through a veterinarian is quite costly. Luckily after sharing the Capstar flea tablets among the cats they are now back to resting and relaxing after just 30 minutes.
 
@@ -53,7 +53,7 @@ My strategy was a month of thorough flea control that included using home flea s
 
 - Also, I washed and heat dried the bedding before finally flea-bombing my residence. - I noted that flea bombing the house in conjunction with administering the Capstar tablets to the pets produced the best results.
 
-## # Review #3: Exterminates Adult Fleas Only
+###  Review #3: Exterminates Adult Fleas Only
 
 Capstar flea tablets will work within 24 hours unless you require to administer the medication to the pets. In 24 hours, you'll be able to clean at the services using other flea control methods. - Advice that you buy the Capstar tablets and administer one for your pet daily but ensure to read the packaging directions. Another product that will improve the effectiveness of the flea control methods is using flea shampoo.
 
@@ -63,6 +63,6 @@ Capstar flea tablets will work within 24 hours unless you require to administer 
 
 The flea comb will also help remove the dead skin and detached hair from the body of the pet and that gives it a better look. - A flea spray that has highly effective but safe ingredients will easily kill fleas in the house and the yard. - But don't spray on or around the pets or allow them to pass near the spread area.
 
-# # Conclusion
+##  Conclusion
 
 Vacuum the unwashable items used by pests such as their cat trees and carpets. Also, o laundry on the pet clothes, fabrics, and bedding. - Therefore I know that the Capstar flea tablets easily achievedeffective flea control on my petswithin 24 hours but this could only be achieved in about two weeks with other methods.

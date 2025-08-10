@@ -41,7 +41,7 @@ Understanding what causes this process, how to safely remove it, and what steps 
 
 This article will delve into the nature of gutter oxidation, explore its causes, provide a detailed guide on safe removal techniques, discuss preventative measures, and address whether this common issue should be a serious concern for homeowners.
 
-# # How To Safely Remove Gutter Oxidation
+##  How To Safely Remove Gutter Oxidation
 
 Removing gutter oxidation, particularly "tiger stripes, " requires more than just soap and water. Specialized cleaning agents are needed to break down the oxidized layer without damaging the underlying gutter material.
 
@@ -65,7 +65,7 @@ Ensure all cleaning solution and dissolved oxidation are washed away, especially
 
 Rinse affected plants again with plain water. 8. **Repeat if Necessary: ** For heavily oxidized gutters, you may need to repeat the cleaning process multiple times to achieve the desired results. 9. **Apply a Protective Coating (Optional): ** After cleaning and drying, some homeowners apply a coat of automotive wax or a specialized gutter sealant to help protect the finish and reduce future oxidation.
 
-# # Is Gutter Oxidation a Serious Concern for Homeowners?
+##  Is Gutter Oxidation a Serious Concern for Homeowners?
 
 Gutter oxidation is primarily an **aesthetic concern** rather than a functional one.
 

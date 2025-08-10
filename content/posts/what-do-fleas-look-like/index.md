@@ -19,7 +19,7 @@ Fleas are small wingless insects that can be classified as parasites that are di
 
 The focus of this post shall be on what fleas look like, but first things firstrelated: Bed Bug Pictures.
 
-# # What do fleas look like? (30+ Images of Fleas & Eggs)
+##  What do fleas look like? (30+ Images of Fleas & Eggs)
 
 First and foremost, fleas are transmitters of a wide spectrum of diseases to both humans and animals. Some of these include the following; 1. **Murine Typhus** This disease is mainly transmitted from rats and cats through flea bites. It is important to remember that when fleas bite, they also defecate simultaneously. - Flea fecal matter contains a bacterium known as Rickettsia typhi, which is then transmitted from flea feces to the bite wound.
 
@@ -33,7 +33,7 @@ The disease is so prevalent that it is believed to affect close to 40 percent of
 
 These worms cause nausea, vomiting, and inflammation of the intestines.
 
-# # How Big Can Fleas Get?
+##  How Big Can Fleas Get?
 
 Adult flea measures between 1. 5 and 3. 2 mm long. Females are generally larger than males, especially around their abdomen. They can measure up to 2. 5 mm long. If they can find a reliable host, female fleas will only take 48 hours to achieve their maximum size. - Also, females will not reproduce before getting any blood meal. However, as soon as they get their first meal, they will only take between 36 and 48 hours to lay their first eggs.
 
@@ -49,7 +49,7 @@ The pupae will start white, then turn yellow and finally, brown.
 
 Flea pupae spend most of their time in their cocoons. Thats where they will stay until they detect a potential host's presence, then hop out and assume their new home, usually for the rest of their lives.
 
-# # Detect Fleas in Your Home
+##  Detect Fleas in Your Home
 
 In most cases, [fleas will settle for pets as opposed to humans](https: //pestpolicy. com/do-fleas-stay-on-humans/) as hosts. Well, there is really no difference because the agony experienced in either case is nearly the same. Flea-infested dogs will experience constant hair loss. But even before you notice a few furs missing from your pets coat, you will surely not miss the little dark spots moving around in his fur.
 
@@ -57,6 +57,6 @@ Thats the surest sign your pet is infested.
 
 You might also want to look out for flea droppings that are black in color or their eggs that range between white and transparent. Also, check if the pet has reddened and irritating patches on its skin and excessively scratches or licks the skin.
 
-# # Conclusion
+##  Conclusion
 
 [Fleas are not very difficult to spot](https: //pestpolicy. com/where-do-fleas-hide/), especially when they are fully grown. These jumping parasites are known to be frenzy feeders, so when they find a host in you, be prepared for endless days of itching and scratching. You need not prepare for all that when you can [take preventive measures](https: //entomology. ca. uky. edu/ef602) to keep these insects at bay.

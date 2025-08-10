@@ -23,9 +23,9 @@ A suitable flea spray will exterminate the adult roaches while killing other fle
 
 # **In a Hurry? View Our Flea Spray for Home **
 
-# # [1. Our #1 Pick:Enforcer Parent for Ticks, Fleas - Up to 7 Months](https://www.amazon.com/dp/B0074YKTCY/?tag=p-policy-20)
+##  [1. Our #1 Pick:Enforcer Parent for Ticks, Fleas - Up to 7 Months](https://www.amazon.com/dp/B0074YKTCY/?tag=p-policy-20)
 
-# # **2. #2 Pick: Adams Plus Flea and Tick Premise Spray**
+##  **2. #2 Pick: Adams Plus Flea and Tick Premise Spray**
 
 The Adams Plus flea and tick spray is ideal for instantly getting rid of fleas and ticks on cats and dogs. It works on all flea life cycle stages- eggs, larvae, young and adult fleas. Adams Plus flea and tick spray work in two ways. One is an egg killer (Etofenprox) by stopping the flea eggs from growing into larva. And two as an Insect growth regulator (S-Methoprene) by delaying the flea's growth stages for up to 2 months.
 
@@ -35,7 +35,7 @@ The spray can be applied directly on carpets, upholstery, outdoor surfaces, yard
 
 The manufacturers instructions are that the spray should be used only once a month, so be sure to do just that to avoid overload, especially on your pets. If you are sensitive to smells, you might be repelled by its strong scent, so when applying it to your pets, do it outdoors. Related Content: Quality Flea Bombs
 
-# # [3. #3 Pick:Vet's Best Tick & Flea Home Natural Oils Spray](https://www.amazon.com/dp/B003PRI6OC/?tag=p-policy-20)
+##  [3. #3 Pick:Vet's Best Tick & Flea Home Natural Oils Spray](https://www.amazon.com/dp/B003PRI6OC/?tag=p-policy-20)
 
 Vets Best Flea and Tick home spray are all-natural formulated insecticides. It is listed on the Environmental Protection Agency as one of the pesticides with low risk. It comprises two active ingredients- peppermint (30%) and Eugenol (70%), which is a clove extract. The properties of these two essential oils, repel fleas and ticks. It is also able to kill flea larvae and eggs, ticks as well as mosquitoes.
 
@@ -47,7 +47,7 @@ Vets Best Flea and Tick home spray are easy to use; you spray directly to the in
 
 Related: Bed Bugs Sprays
 
-# # [4. Virbac Knockout E.S. Area Treatment- Best for Carpets](https://www.amazon.com/dp/B00AT6FY6A/?tag=p-policy-20)
+##  [4. Virbac Knockout E.S. Area Treatment- Best for Carpets](https://www.amazon.com/dp/B00AT6FY6A/?tag=p-policy-20)
 
 Virbac knockout E. S is a premise spray used for controlling fleas. It contains Pyrethrins, which instantly kill adult fleas upon contact and prevents re-infestation for at least seven months. - It also contains NYLAR insect growth regular (Pyriproxyfen) that inhibits the larvae from further growing into adulthood. - With a single can of 16 ounces, you can treat an area of up to 2100 square feet.
 
@@ -59,7 +59,7 @@ Avoid any contact with the eyes, skin, and clothing.
 
 Only the applicator should be present in the treatment area during application and must be protected. It should strictly not be used on pets.
 
-# # [5. Zoecons Precor 2000 Plus Flea Spray for your Home](https://www.amazon.com/dp/B001ZETFMY/?tag=p-policy-20)
+##  [5. Zoecons Precor 2000 Plus Flea Spray for your Home](https://www.amazon.com/dp/B001ZETFMY/?tag=p-policy-20)
 
 Another popular premise spray on our review lists Zoecons Precor 2000 Plus Spray. It is applied on surfaces such as carpets, drapes, furniture, wall cracks, rugs, and pet resting areas. - The Zoecons Precor 2000 Plus Spray uses an Insect Growth regulator (S-Methoprene) to inhibit fleas' reproductive cycle. - When female adult fleas are exposed to this IGR, they become unable to lay viable eggs.
 
@@ -69,7 +69,7 @@ Another active ingredient in the Zoecons Precor 2000 Plus Spray is the Pyrethrin
 
 - To apply the treatment, hold your canister upside down 2-3 feet away from the surface, point the actuator towards the hot spot, and lightly spray. Spray uniformly across the surface until the area is slightly damp. Zoecons Precor 2000 Plus Spray should not be applied directly to cats and dogs.
 
-# # [6. Raid Flea Killer Plus Carpet & Room Pest Extermination Spray](https://www.amazon.com/dp/B00J5ISLNQ/?tag=p-policy-20)
+##  [6. Raid Flea Killer Plus Carpet & Room Pest Extermination Spray](https://www.amazon.com/dp/B00J5ISLNQ/?tag=p-policy-20)
 
 Raid Flea killer plus carpet and room spray are ideal for indoor usage. It instantly kills adult fleas and controls the growth of new ones. The active ingredients present in this spray are Pyrethroids (synthetic agents), and Pyrethrins (botanical agents), which get rids of adult fleas, and an IGR that takes stops the growth of the eggs and larvae.
 
@@ -79,7 +79,7 @@ Raid Flea killer plus carpet and room spray are ideal for indoor usage. It insta
 
 Compared to its competitors in the market, the Raid flea killer is relatively cheaper.
 
-# # [7. Ultracide-flea Tick Professional and Flea Control Product](https://www.amazon.com/dp/B00ESB79EM/?tag=p-policy-20)
+##  [7. Ultracide-flea Tick Professional and Flea Control Product](https://www.amazon.com/dp/B00ESB79EM/?tag=p-policy-20)
 
 With just a single can (20oz) of flea tick professional pest control, you get rid of any flea infestation in your home and prevent any further infestation from occurring. - It covers an area of almost 2625 square feet. The active ingredients that make this possible are Permethrin, Pyriproxyfen, an IGR, and Pyrethrins. - They work by inhibiting the reproduction cycle offleas and killingadult fleas instantly.
 
@@ -87,7 +87,7 @@ This combination is highly effective in getting rid of fleas, ticks, and other h
 
 Should you notice new fleas after application, you can re-apply the treatment in 14 days. However, the IGR in the spray will continue to work for the next seven months.
 
-# # [8. Vet Kem Siphotrol Plus II Home Flea Control Spray](https://www.amazon.com/dp/B000KVSTC0/?tag=p-policy-20)
+##  [8. Vet Kem Siphotrol Plus II Home Flea Control Spray](https://www.amazon.com/dp/B000KVSTC0/?tag=p-policy-20)
 
 Vet Kem Siphotrol plus II is 100% effective in killing adult fleas, ticks, and other indoor pests within 10 minutes of applying it. - It comes in a 16oz spray can that treats an area of about 2000sqft. - This water-based spray contains Permethrin and Phenothrin- synthetic chemicals highly toxic to both ticks and fleas. Another active ingredient found in this spray is S-Methoprene, an insect growth regulator that delays the flea's life cycle.
 
@@ -97,6 +97,6 @@ It also makes the female adults not viable to lay eggs to stop them from populat
 
 Therefore it is safe to use it on your drapes, furniture, rugs, pet beddings, and carpets. It can be used in homes, garages, yards as well as pet kennels. You should, however, note that the active ingredients are equally highly toxic to cats.
 
-# # Conclusion
+##  Conclusion
 
 The largest [flea population is eggs](https: //pestpolicy. com/flea-eggs-vs-dandruff/), larvae, and pupae, which is 95-99%, while the t population is between 1-5%. - Therefore, a good flea and tick premise spray should first and foremost inhibit fleas' growth and reproduction. Then kill adult fleas to avoid further spread. It should also be safe to use within the premises and not leave any residue.

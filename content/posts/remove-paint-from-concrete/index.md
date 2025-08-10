@@ -20,9 +20,9 @@ Removing dried [paint from concrete](https: //pestpolicy. com/what-kind-of-paint
 
 Besides, surface cleaning should be done sufficiently before any paint removal process begins to eliminate dust and debris. * *Notably, the extent of surface area under paint removal is a factor that you shouldnt overlook as critical to cost implication. To acquire a more in-depth insight, let us get into the details. * > See Also: > How to Concrete Sealer with Muriatic Acid
 
-# # Details: How to Remove Paint from Concrete
+##  Details: How to Remove Paint from Concrete
 
-## # a. Paint Stripper Method
+###  a. Paint Stripper Method
 
 This method is used in the removal of both oil-based and water-based paints. The paint strippers are also manufactured in various forms (for either oil-based paint removal or water-based paint removal). You should therefore be keen when placing your order check the type of concrete paint first.
 
@@ -36,7 +36,7 @@ Finally, clean the surface with soapy water and aconcrete deck brushto remove tr
 
 > See Also: > How to Paint Concrete
 
-## # b. Absorbent Paint Stripper
+###  b. Absorbent Paint Stripper
 
 This particular method is suitable for cleaning thick paint layers from concrete (either acrylic or latex paint). You will need to consider the concrete paint before purchasing the absorbent paint stripper.
 
@@ -50,7 +50,7 @@ This particular method is suitable for cleaning thick paint layers from concrete
 
 You can repeat the procedure in case the first paste didnt remove the paint sufficiently. Always ensure the absorbent paint striper sticks sufficiently on the concrete surface to improve paint bond breaking and cure action. Avoid thinning the surface before applying the absorbent paint striper.
 
-## # c. Soda Blasting Method
+###  c. Soda Blasting Method
 
 The soda blasting method is suitable for commercial paint removal from concrete surfaces - just like using concrete grinders. The technique guarantees excellent paint removal and protects the concrete surface from destruction. However, this method is slightly expensive as compared to other alternatives. The soda Blasting method can be used to remove both oil-based and water-based paint.
 
@@ -72,11 +72,11 @@ The chemical works by breaking the paint compound into liquid form that more com
 
 > See Also: > [Removing Spray Paint from Concrete](https: //pestpolicy. com/how-to-remove-spray-paint-from-concrete/)
 
-# # What are Homemade Methods of Paint Removal from Concrete
+##  What are Homemade Methods of Paint Removal from Concrete
 
 Apart from the commercial method of paint removal from concrete, you can prepare your homemade paint cleaning strategy. Some of these include:
 
-## # 1. Using Ammonia
+###  1. Using Ammonia
 
 Ammonia solution mainly removes latex paint (water-based sufficiently) without affecting the primary concrete material. Though the ammonium solution still works for oil-based paints, the paint removal effectiveness is a bit low. To begin with, dilute the ammonia solution appropriately before applying it over the painted surface.
 
@@ -84,13 +84,13 @@ Then, carry out a drop experiment to ascertain the effectiveness of paint remova
 
 Leave ammonium coated concrete surface for 10 to 15 minutes before scrubbing gently with a steel brush (to remove paint). Then, wash the concrete surface with soap and water before rinsing with clean water to remove ammonia traces and paint debris. Ammonium solution emits poisonous fumes, which irritates the respiratory system when inhaled you should use a respirator during paint removal. > See Also: > Quality Penetrating Concrete Sealer
 
-## # 2. Using Soapy Detergent and Brush
+###  2. Using Soapy Detergent and Brush
 
 Soap detergents have a chemical formulation that breaks latex paint (water-based paint) instantly upon contact. Dilute soapy detergent sufficiently and apply over the painted concrete surface. Leave the surface to cure for about 20 minutes before scrubbing with a brush to remove paint debris. Further, wash the surface with a cloth soaked in soap to achieve an excellent finish before rinsing with clean water.
 
 Soapy detergent is the best method to remove wet paint over the concrete surface in painting error. However, dried acrylic paint cant be removed by soapy detergent. Wear hand gloves during paint removal since soap irritates skin upon contact.
 
-## # 3. Use of Alcohol
+###  3. Use of Alcohol
 
 Alcohol is suitable for the removal of latex paint over the concrete surface. Apply alcohol over painted concrete and leave it for 10 minutes to cure. Using a scraper, remove that quenched paint gently. You can also scrub the paint/stain using a steel brush this is more suitable since it penetrates the concrete grain nicely without damaging the structure.
 
@@ -98,7 +98,7 @@ Wash the concrete surface with soap and water (remove alcohol traces) and rinse 
 
 Leave the surface to dry naturally. Though alcohol is not poisonous to human health, inhaling may irritate non-user nasal cavity (wear a respirator during application). NB: Highly concentrated alcohol may damage concrete during paint removal.
 
-## # 4. Heat Gun
+###  4. Heat Gun
 
 The heat gun method is the best method for removing small paint section from concrete. Connect the heat gun to the power source and gently pass the heated air over the painted surface. The heat breaks down the chemical bonds into a simple liquid state that can be scraped more comfortably. Scrub the paint off and wash the surface with water and soap before rinsing to dry.
 
@@ -106,7 +106,7 @@ Though heat gun works for latex paint, it should be used best for removing acryl
 
 Heat gun requires a power supply; thus, it is an unsuitable method for remote areas. More so, this method is slightly expensive and requires a specialized heat gun user.
 
-# # Precautions to take When Removing Paint from Concrete
+##  Precautions to take When Removing Paint from Concrete
 
 To attain excellent paint removal from concrete, you will have to follow the precautions highlighted below: 1. Always clean the painted concrete surface before starting the paint removal process it improves and eases paint removal. 2. Never smell paint striper of any commercial chemical meant for removing paint from concrete. Most of these compounds contain components that irritate the respiratory system when inhaled. 3.
 
@@ -118,7 +118,7 @@ If you get into skin contact with paint stripper chemical, wash the point with p
 
 Always carry out a drop rest experiment when removing paint from concrete with chemicals or homemade solvents to ascertain the removal efficiency. 10. If you are not conversant with a particular paint removal method, its advisable to consult an expert to do it for you.
 
-# # Conclusion
+##  Conclusion
 
 Having read this article on how to remove paint from concrete, I hope you have acquired in-depth insight for your DIY projects too. Methods like paint stripper, soda blasting, TSP, and absorbent stripper guarantee excellent removal performance if proper procedure is followed. Alternatively, you can opt for homemade options highlighted in this article for small paint patches to save cost and time.
 

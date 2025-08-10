@@ -17,7 +17,7 @@ layout: post
 
 Roaches enjoy living in dark places that have water and food like the pantry, bathrooms, and kitchens; this could be many places in your apartment or house. - So, what's the best way to get rid of roaches in an apartment? - including for American, Oriental, or German Roaches? Let's find out! Well, you can try both DIY roach control/) or use the below effective ready-to-use roach killers.
 
-## # [1. HARRIS 10-Month Roach Killer - Your Roach Problem Solved](https://www.amazon.com/dp/B00E8LBRVI/?tag=p-policy-20)
+###  [1. HARRIS 10-Month Roach Killer - Your Roach Problem Solved](https://www.amazon.com/dp/B00E8LBRVI/?tag=p-policy-20)
 
 Here's how to get rid of roaches in an apartment permanently - you should choose the cockroach killer depending on where the roaches in your house are hiding. However, you might require more than just one kind of roach killer for a large apartment or a smaller house. - While you might enjoy catching some roaches roaming around the house, it is no secret that there is a whole colony hiding at some location in your residence.
 
@@ -31,7 +31,7 @@ Therefore, you will only see the roaches when they are looking for food, and wat
 
 Well, in this article, I've reviewed some highly effective and [safe](http: //npic. orst. edu/health/child. html) roach killers that'll help your kill those roaches in the house.
 
-## # [2. #2 Pick: Harris Roach Tablets - Boric-Acid Kills Roaches Permanently](https://www.amazon.com/dp/B001B1LI8A/?tag=p-policy-20)
+###  [2. #2 Pick: Harris Roach Tablets - Boric-Acid Kills Roaches Permanently](https://www.amazon.com/dp/B001B1LI8A/?tag=p-policy-20)
 
 What do professionals use to kill roaches? Harris Boric Acid contains 40% boric acid and 1% lure. It has a straw attached to the top, which makes it easy to use. - For regular-sized kitchens, this powder can last for about a year. - Therefore, you can pour the acid in the places that would be in general challenging to reach, such as cracks and crevices.
 
@@ -43,7 +43,7 @@ com/how-to-find-a-roach-nest/) will be your best defense against roaches.
 
 Check this comprehensive review of the [Bengal roach spray](https: //pestpolicy. com/bengal-roach-spray-review/) - Bengal products work.
 
-## # [3 #3 Pick: Advion-383920 Roach Killers - German Roaches](https://www.amazon.com/dp/B00730QW70/?tag=p-policy-20)
+###  [3 #3 Pick: Advion-383920 Roach Killers - German Roaches](https://www.amazon.com/dp/B00730QW70/?tag=p-policy-20)
 
 DuPont Advion cockroach gel bait contains (1) a bait to attract roaches and (2 ) indoxacarb, causing a secondary kill effect on roaches like American and German cockroaches. - It contains carboxylate, which is super lethal to roaches but safe forpets. - So, plunge the gel from syringes onto basements, cabinets, baseboards, and kitchen countertops.
 
@@ -55,7 +55,7 @@ Luckily, the secondary kill effect allows the roach bait to kill both the visibl
 
 The Good: - Long action range - 4 bait spots can attract roaches within 10 feet - Secondary kill effect (1 poisoned roach can infect over 35 others) - Safe for food handling areas and hospitals - Ease to apply compared to roach sprays The Bad: - Can dry up when applied to surfaces with constant airflow - Labor intensive Related: What do Roaches Smell like?
 
-## # [4. Syngenta 383920-Advion Gel Roach Bait 4](https://www.amazon.com/dp/B0148W0WOE/?tag=p-policy-20)
+###  [4. Syngenta 383920-Advion Gel Roach Bait 4](https://www.amazon.com/dp/B0148W0WOE/?tag=p-policy-20)
 
 Syngenta 383920-Advion, with 2. 15% Imidacloprid as its active ingredient, is specially designed for roaches - the best roach killer indoors. Imidacloprid will cause a secondary kill effect on the stubborn roaches in your apartment. Equally, just like with the Advion gel, you'll require to plunge the [roach bait](https: //pestpolicy. com/best-roach-bait/) (about a quarter inch in diameter) on crevices on the skirting boards, floors, and walls.
 
@@ -65,11 +65,11 @@ The Good: - Safe for food-handling areas in addition to indoor and outdoor space
 
 - Quick knockdown effect (24 hours) - Has eleven roach attractants The Bad: - Only for German Roaches - Brown-Banded Cockroach
 
-## # [5. Terro-T500 Roach Bait Station (Multi Surface)](https://www.amazon.com/dp/B0056QWXLW/?tag=p-policy-20)
+###  [5. Terro-T500 Roach Bait Station (Multi Surface)](https://www.amazon.com/dp/B0056QWXLW/?tag=p-policy-20)
 
 Place the roach baits in areas where roaches frequent, mix peanut butter and boric acid to make a trap cake for roaches, pour diatomaceous earth in areas where roaches will be moving, and remove all water sources or clogs in the apartment.
 
-## # [6. Ortho 0196410 Defense Roach Killer - Best Perimeter Spray](https://www.amazon.com/dp/B01N7KSXHX/?tag=p-policy-20)
+###  [6. Ortho 0196410 Defense Roach Killer - Best Perimeter Spray](https://www.amazon.com/dp/B01N7KSXHX/?tag=p-policy-20)
 
 In addition to killing roaches in the apartment, Ortho Home Defense will also help you eliminate those bugs off your perimeter walls. - Luckily, this roach killer is also longer-lasting and fast-acting, which means that it kills on contact. - Therefore, if you need a roach solution that you can use for defense attacks, the Ortho Home Defense will be great for going around your house or apartment.
 
@@ -77,7 +77,7 @@ But, for a massive roach infestation, you can start with applying the formula in
 
 It has the non-staining capability; it's rain-resistant and has no odor in addition to being quick to kill roaches and other insects such as spiders. Luckily, the barrier youve created will be active for a couple of months (about 12 months), eliminating even other insects such as spiders.
 
-## # [7.Combat Max 1-Year Roach Killer Bait Station](https://www.amazon.com/dp/B000KL1LDE/?tag=p-policy-20)
+###  [7.Combat Max 1-Year Roach Killer Bait Station](https://www.amazon.com/dp/B000KL1LDE/?tag=p-policy-20)
 
 Set the discrete Combat Roach Bait Stations in your house to act as a virtual shield. - The ingredients are highly lethal to roaches and start killing roaches from day one for up to 12 months. Do you experience regular infestation by small cockroaches? Well, shun the many insecticide cans and opt for a more discrete, effective, and compact solution this combat Max 12.
 
@@ -93,7 +93,7 @@ As noted in the bait station name, these roach killers will be active in how to 
 
 One of a few of the roaches will feed on the bait station and spread the love to their counterparts who were left at home in areas like under huge appliances or sinks. - Therefore, to kill a large roach population in your apartment, this Combat Max 12-Month is our top recommendation. But, [Indoxacarb](https: //www. entm. purdue. edu/ants/pubs/18. pdf) and Imidacloprid are great ingredients as they'll trigger a secondary killing.
 
-## # [8. Black Flag Roach Motel 61009 Best Roach Trap](https://www.amazon.com/dp/B005S4MCAY/?tag=p-policy-20)
+###  [8. Black Flag Roach Motel 61009 Best Roach Trap](https://www.amazon.com/dp/B005S4MCAY/?tag=p-policy-20)
 
 Roach Motel 61009 roach trap will be great for moderate roach infestations killing both cockroaches and various crawling insects - among the best cockroach killer. - This trap (unlike the Raid Ant & Roach spray above) can kill even the roaches that youve not even seen. - Roaches will check-in and won't ever get the chance to check out.
 
@@ -105,7 +105,7 @@ Therefore, itll be a great alternative to using pesticides or poisons in roach k
 
 This Black Flag Roach Motel 61009 will clean a roach infestation and wont leave carcasses spread all over the house like the roach sprays. As noted above, the roach trap employs a sticky and sweetly smelling formula that will attract the roaches to the created cardboard box.
 
-## # [9. Raid Ant and Roach Killer Spray, Lemon](https://www.amazon.com/dp/B00J5IRXBW/?tag=p-policy-20)
+###  [9. Raid Ant and Roach Killer Spray, Lemon](https://www.amazon.com/dp/B00J5IRXBW/?tag=p-policy-20)
 
 To expel cockroaches and avoid re-infestation, I recommend this Raid Ant & pet-safe roach killer. This easy-to-use model kills roaches on contact and is effective for ants too. Youll love the lemon scent that will attract the roaches but also leave the room fresh. Its residue is effective for about four weeks, killing all those hiding bugs, including bed bugs (beetles, spiders, water bugs, etc. ) during summer and beyond.
 
@@ -117,7 +117,7 @@ This Raid Ant & Roach Killer has a great lemon scent that youll love.
 
 However, some homeowners hate that you sometimes have to chase the roaches to spray them since the insecticide kills on contact. Also, consider how to get rid of roaches in the apartment naturally. It has excellent reviews, with some clients loving the lemon smell and fast action. Also, check the [best drain cleaners](https: //pestpolicy. com/best-drain-cleaner//).
 
-# # Conclusion
+##  Conclusion
 
 How to get rid of roaches in apartments naturally - Combat Gel will help you control roaches in areas that are difficult to reach in the house. - The gels characteristic feature will fit into crevices and cracks, which the roaches use as entry and nests. - Further, you may use the gel to fight roaches on pipes that act as an entry into your house.
 

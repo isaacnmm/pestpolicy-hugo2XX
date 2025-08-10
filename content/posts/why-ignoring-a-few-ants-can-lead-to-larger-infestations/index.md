@@ -24,7 +24,7 @@ Once a colony is established, it can grow rapidly as ants continue to reproduce 
 
 This rapid reproduction can quickly lead to a population explosion, making the infestation much more challenging to control and eliminate.
 
-## # Prevention Tips to Avoid Ant Infestations:
+###  Prevention Tips to Avoid Ant Infestations:
 
 1. **Maintain Cleanliness: **- **Clean up spills and crumbs promptly: **Ants are attracted to food sources. Keeping your kitchen and dining areas clean reduces their attractiveness to ants. - **Store food properly: **Keep food in tightly sealed containers, and store ripe fruit in the refrigerator. Dont leave pet food out overnight.
 

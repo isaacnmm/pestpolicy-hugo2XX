@@ -19,11 +19,11 @@ Bed bugs eggs are oval in shape and measure about 1/16 inches long. A female bed
 
 *In this article, I tackle these questions on bed bug eggs- can you see bed bug eggs - what do they look like? Where do bed bugs lay their eggs? How long do bed bug eggs take to hatch? And finally, how to kill bed bug eggs? *
 
-# # How to Kill Bed Bug Eggs  Kill Bed Bugs
+##  How to Kill Bed Bug Eggs  Kill Bed Bugs
 
 Female bed bugs lay their eggs on hard surfaces, and theyll hatch in 1-2 weeks to become Nymphs. Nymphs develop to adults, with a blood meal and temperature, within 2 weeks to 1 month.
 
-## # **1. Non-chemical methods**
+###  **1. Non-chemical methods**
 
 First, ensure that the technique you use to kill either the bed bugs or eggs is legal, effective, and safe. Check [the legal techniques](https: //www. epa. gov/bedbugs/stay-legal-and-safe-treating-bed-bugs). For the non-chemical techniques, use the most appropriate for your situation - some are more effective. Below is the method I recommend to kill the bed bug eggs.
 
@@ -39,7 +39,7 @@ I would recommend using a diffuser to safeguard.
 
 **Bug bombs (foggers)**: I would recommend using bug foggers/ bombs cautiously, particularly ensuring the product is designed to kill bed bugs. However, bombs may lead to an explosion or fire if used carelessly.
 
-## # 2. Follow-up With and Inspection
+###  2. Follow-up With and Inspection
 
 The next step will be inspecting your premises, home, rooms, and items such as furniture or clothes for evidence of any bed bugs, eggs, and baby bed bugs. Any bed bugs evidence will signify that some bed bugs eggs may have hatched after the first clean up or bug treatment. You'll need to use another treatment method for another 1 or 2 rounds.
 
@@ -47,13 +47,13 @@ I would also recommend using desiccants that'll dry the fluids in the body of th
 
 Luckily, no bed bugs will raise their chemical resistance to these desiccants.
 
-## # 3.Avoid Food- or Pool-Grade Diatomaceous Earth
+###  3.Avoid Food- or Pool-Grade Diatomaceous Earth
 
 I recommend that you don't dare use the food- or pool-grade diatomaceous earth. These are dangerous because they are manufactured from fossilized diatoms. The above DE may cause dangerous breathing problems. However, researchers recommend using DE that's approved as a pesticide - these will have diatoms of a different size.
 
 Again, remember that desiccants will kill bed bugs and their eggs excellently, but it might take longer to show reliable results in your bug control process.
 
-# # What Do Bed Bug Eggs Look Like?
+##  What Do Bed Bug Eggs Look Like?
 
 **1. Color - ** Bed bug eggs are pearl-white or semi-transparent colored "beings, " measuring about 0. 1 inches (or just 2. 5 mm). However, for eggs that are over 5 days old - they'll have a dark mark that looks like an eye. **2. Shape - ** Bed bug eggs are shaped like a barrel. But can you see them with your eyes?
 
@@ -65,11 +65,11 @@ These husks also show signs of bed bugs in your space.
 
 You'll find bed bug husks on rough surfaces - you can see them using a magnifying lens. But bed bugs [won't die on their own](https: //entomologytoday. org/2016/11/17/which-insecticide-spray-should-you-use-for-bed-bug-eggs/) - so be sure there are some live bugs around. **Killing them**? First, vacuums will not strictly kill the bed bug eggs - but good bed bug sprays will do the magic - but ensure you do 2 - 3 treatments.
 
-# # Where Do Bed Bugs Lay Eggs?
+##  Where Do Bed Bugs Lay Eggs?
 
 Due to their sticky body, youll find bed bugs moving or [stuck on cushions, couches, and wooden furniture](https: //www. epa. gov/bedbugs/how-find-bed-bugs), including different fabrics like cotton, wool, denim, and metal or plastics.
 
-## # 1. Beds - Box Springs, Bed Buttons, & Mattress
+###  1. Beds - Box Springs, Bed Buttons, & Mattress
 
 Bed bugs have a complete life-cycle - egg, the nymph, and the bugs adult. The name of this bugs denotes why theyll quickly infest your box springs, bed frames, and mattresses. Youll see bed bug eggs near the bed edges, bed buttons, and mattresses too. However, you can also find them on rough surfaces glued tight.
 
@@ -85,7 +85,7 @@ com/what-does-bed-bug-poop-look-like/) and their eggs.
 
 Besides the initial bed bug treatment, you can [use bed bug mattress encasement](https: //pestpolicy. com/best-bed-bug-mattress-encasements/) to help resolve this. Besides, you can choose encasement that is hypo-allergenic and water-proof thatll help prevent the spread, development, and existence of bed bug adults, nymphs, and even adults.
 
-## # 2.**Floor and Carpet bed bugs:**
+###  2.**Floor and Carpet bed bugs:**
 
 Bed bugs may hitchhike your clothes or even the pets but they may eventually hide on your floor or carpet after talking a full blood meal. So, you might want to inspect under chairs, dressers, and bed frame legs. https: //youtu. be/nEbBWk-Zwq8 So, you may want to [check your carpet for bed bugs](https: //pestpolicy. com/can-bed-bugs-live-in-carpet/), particularly the hidden areas, seams, crevices, and cracks.
 
@@ -105,6 +105,6 @@ Equally, also put on a dust mask to protect your breathing system from the harsh
 
 - This will kill all thebed bugs, their babies, and bed bugeggs. Check thepictures of bed bugsto avoid confusion while cleaning.
 
-# # Sources:
+##  Sources:
 
 1. [Do-it-yourself Bed Bug Control](https: //www. epa. gov/bedbugs/do-it-yourself-bed-bug-control)

@@ -53,11 +53,11 @@ Undertaking this project yourself can save significant labor costs and provide a
 
 This comprehensive guide will walk you through the entire process of how to install gutter guards, covering everything from initial preparation and step-by-step instructions to essential tips, common mistakes to avoid, and crucial maintenance advice.
 
-# # Installing Gutter Guards: Step-by-Step Guide
+##  Installing Gutter Guards: Step-by-Step Guide
 
 Installation methods vary significantly based on the type of gutter guard. We'll cover the general steps for the most common DIY types: Micro-Mesh, Screens, and Brushes/Foam.
 
-## # A. Micro-Mesh Gutter Guards (e.g., Raptor, A-M Gutter Guard)
+###  A. Micro-Mesh Gutter Guards (e.g., Raptor, A-M Gutter Guard)
 
 These typically consist of an aluminum frame with a fine stainless steel mesh. They usually slide under the first row of shingles and/or screw onto the front lip of the gutter.
 
@@ -67,7 +67,7 @@ Slide the back edge of the gutter guard panel underneath the shingle. This creat
 
 Space screws evenly, typically every 12-18 inches, or as recommended by the manufacturer. 5. **Overlap Sections: ** When joining two panels, overlap them slightly (usually 1-2 inches) to ensure there are no gaps for debris to enter. Fasten both overlapping pieces to the gutter. 6. **Around Downspouts: ** Trim the gutter guard around downspout openings, ensuring the mesh covers the opening effectively while allowing water to drain.
 
-## # B. Screen Gutter Guards (e.g., Amerimax, EZ-Quick)
+###  B. Screen Gutter Guards (e.g., Amerimax, EZ-Quick)
 
 These are usually made of aluminum or plastic mesh and either snap in, slide in, or screw on.
 
@@ -75,7 +75,7 @@ These are usually made of aluminum or plastic mesh and either snap in, slide in,
 
 * **Screw-On: ** If designed for screws, position the screen over the gutter and fasten with self-tapping screws along the front lip. 4. **Overlap Sections: ** Overlap panels as recommended by the manufacturer to prevent gaps. 5. **Around Downspouts: ** Trim carefully around downspout openings.
 
-## # C. Brush Gutter Guards (e.g., GutterBrush)
+###  C. Brush Gutter Guards (e.g., GutterBrush)
 
 These are cylindrical brushes that simply sit inside the gutter.
 
@@ -83,13 +83,13 @@ These are cylindrical brushes that simply sit inside the gutter.
 
 **Ensure Snug Fit: ** The brush should fit snugly, filling the gutter from side to side without being so tight it bows the gutter.
 
-## # D. Foam Gutter Guards (e.g., GutterStuff)
+###  D. Foam Gutter Guards (e.g., GutterStuff)
 
 These are wedges of porous foam that fit snugly into the gutter.
 
 1. **Measure and Cut: ** Measure gutter lengths and use a utility knife to cut foam sections to size. 2. **Clean and Prepare: ** Gutters must be thoroughly clean and dry. 3. **Insert Foam: ** Simply push the foam sections into the gutter, ensuring a snug fit against both the front and back walls of the gutter. 4. **Around Downspouts: ** Cut out a section of foam where the downspout opening is, ensuring water can flow freely into the downspout.
 
-# # Common Mistakes To Avoid
+##  Common Mistakes To Avoid
 
 * **Installing Over Dirty Gutters: ** This is the most common mistake. Gutter guards will not clear existing clogs and will be ineffective if installed over debris. * **Ignoring Gutter Damage: ** Guards won't fix leaky or sagging gutters. Repair them *before* installation. * **Damaging Shingles: ** Aggressively lifting or prying shingles can void your roof warranty or cause leaks. Be gentle.
 
@@ -97,7 +97,7 @@ These are wedges of porous foam that fit snugly into the gutter.
 
 * **Neglecting Downspouts: ** Even with guards, downspout outlets can sometimes get congested. Ensure they remain clear.
 
-# # Maintaining Gutter Guards
+##  Maintaining Gutter Guards
 
 While gutter guards significantly reduce maintenance, they are not entirely "maintenance-free. "
 

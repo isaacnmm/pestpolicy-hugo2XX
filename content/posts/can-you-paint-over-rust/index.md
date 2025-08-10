@@ -17,11 +17,11 @@ layout: post
 
 *Surface preparation before spray painting is very critical as itll affect how long the paint finish will last - on your old metallic items and garage. * **
 
-# # Details: Can You Paint Over Rust?
+##  Details: Can You Paint Over Rust?
 
 Materials and Tools required: - Wire wheel - Rust-inhibitive primer - Paint stripper - Wire brush - Rust Reformer - Corded drill - Angle grinder
 
-## # 1. Use a Primer on the Metallic Surfaces
+###  1. Use a Primer on the Metallic Surfaces
 
 Remove Loose Paint and Rust - You'll require to remove the loose paint and rust from the metallic surface using some chemical rust remover, sandpaper, or wire brush - leaving a smooth surface for excellent paint adherence. - For peeling or chipped paint on the metal, clean it thoroughly and also sand any glossy surfaces - don't sand lead-containing paint.
 
@@ -29,7 +29,7 @@ Clean the Surface - Oil, grease, and dirt will make paint-adhesion harder - simi
 
 Durable and elegant metal surfaces will be great on your decor and house furnishings - including on the fence posts and patio chairs. Don't have moisture and oxygen on iron or iron alloys like steel. A primer or paint will provide an excellent to restore the appearance of your rusted pieces and spare them from the junkyard - while also color-popping them. > See Also: > Painting a Metal Interior Door
 
-## # 2. Paint Metals Having only Surface Rust
+###  2. Paint Metals Having only Surface Rust
 
 Painting your rusted metal is great and will give excellent results provided the rust isn't deeper *beyond* the metal surface. Evidently, peeling and blistering will happen with poor preparation. With visible holes or pits due to the rust eating through the metal, or when you can hand the piece by hand due to being structurally weakened - paint won't stop the corrosion or metal crumbling.
 
@@ -37,7 +37,7 @@ For such a case, I recommend filling the holes or pis using some auto-body fille
 
 Therefore, remove all the hardware including nails and screws from the surface of your metal and pass that sandpaper or wire brush to remove most of the rust.
 
-## # 3. Priming for Paint Adhesion
+###  3. Priming for Paint Adhesion
 
 When most of the rust is removed, get rid of the grease, grime, and grit by wiping the metal surface with some degreaser-damped (with warm water + dish soap) clothing. Dry before priming. The primer will assist in aiding the paint adhesion while also hindering surface discoloration. Ensure you get a primer that's specific to the rust amount - this enhances paint adhesion.
 
@@ -47,7 +47,7 @@ Ensure to apply your metal primer immediately after wire-brushing and metal surf
 
 For extensively-rusted Surfaces - For a metallic surface with extensive rust, you can use Krylon-Rust Protector that'll transform the rust into some paintable and waterproof surface.
 
-## # 4. Choose the appropriate Metal Paints
+###  4. Choose the appropriate Metal Paints
 
 You can prime the metallic piece using any oil- or water-based primer such as Rust-Oleum - and this will also come in a variety of colors. Also, non-metallic colors such as hunter-green, in matte or flat sheens, may be utilized to make the metal, have that back-to-nature outlook. But forgalvanized metal, don't useoil-based finishes since these pieces - instead use universal-bonding or all-surface (latex) primers.
 
@@ -55,6 +55,6 @@ The oil-based primers + zinc reaction may only make paint peeling.
 
 > See Also: > [Prevent Chipping on Spray-Paint metal](https: //pestpolicy. com/how-to-keep-spray-paint-from-chipping-off-metal/)
 
-# # Conclusion
+##  Conclusion
 
 Priming the metals will make the surfaceconsistent and smooth - and thus it'll be great for painting - with excellent paint-adhesion. But you'll require to brush the loose rust and peeling paint. Once, the surfaces are clean, you can now spray paint over the rusted metal usingRust-Tough Enamel or the Krylon-Rust Protector.

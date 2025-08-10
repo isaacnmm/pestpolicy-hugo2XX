@@ -36,7 +36,7 @@ While a minor leaf spot infection might seem harmless, severe or recurrent outbr
 
 This guide will delve into the causes of holly leaf spot, outline effective preventative measures, and provide advice on managing existing infections, ensuring your hollies remain pristine and a highlight in your garden.
 
-# # Preventative Measures Against Holly Leaf Spot
+##  Preventative Measures Against Holly Leaf Spot
 
 Prevention is always easier and more effective than treatment when it comes to fungal diseases.
 
@@ -68,7 +68,7 @@ Keep mulch a few inches away from the trunk.
 
 * **Types: ** Look for fungicides labeled for leaf spot control on holly, containing active ingredients like chlorothalonil, myclobutanil, or copper-based fungicides. * **Caution: ** Fungicides are protectants, not cures. They must be applied *before* infection occurs to protect new foliage. Always follow label directions carefully regarding mixing, application, and safety precautions.
 
-# # Final Thoughts
+##  Final Thoughts
 
 Holly leaf spot, while a common nuisance, is largely preventable and manageable with proactive gardening practices. By focusing on fundamental cultural conditions ensuring adequate light and air circulation, practicing intelligent watering, maintaining good sanitation, and promoting overall plant vigor you can significantly reduce the risk of infection.
 

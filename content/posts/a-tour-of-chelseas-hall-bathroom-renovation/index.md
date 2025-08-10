@@ -33,7 +33,7 @@ Step inside and prepare to be inspired! Today, we're taking an exclusive tour of
 
 Chelsea, known for her keen eye for design and a courageous DIY spirit, envisioned a bathroom that blended modern clean lines with a subtle nod to timeless retro charm. The journey involved strategic spatial changes, smart material choices, and a dash of personal style that truly brought her vision to life.
 
-# # A New Vanity
+##  A New Vanity
 
 With the walls expanded and the new footprint defined, the selection of the vanity became a pivotal design choice. Chelsea opted for a sleek, modern **48-inch floating vanity** in a deep, matte navy blue. This was a bold departure from her previous standard white pedestal sink and was directly enabled by the extra wall space gained during demolition.
 
@@ -43,7 +43,7 @@ The navy blue color provided a sophisticated anchor for the room, contrasting be
 
 Paired with a brushed brass single-handle faucet, the vanity became an immediate focal point, marrying functionality with high-end style and ample storage a stark contrast to the old, inadequate setup.
 
-# # Adding Retro Flair with Penny Tile
+##  Adding Retro Flair with Penny Tile
 
 While the vanity and Wetwall panels leaned into a contemporary, clean aesthetic, Chelsea introduced her desired touch of retro flair through the flooring: **classic white penny tile with dark gray grout**. This choice was a brilliant stroke of design, providing visual texture and a nostalgic charm that perfectly balanced the modern elements.
 

@@ -25,7 +25,7 @@ It's a journey of patience, as these slow-growing beauties can take several year
 
 Growing camellias from seed is also an excellent way to cultivate a large number of plants, perhaps for a hedge or a collection, or to simply engage in the fascinating process of plant propagation. This guide will walk you through the steps involved in successfully germinating camellia seeds and nurturing them into healthy, mature plants, preparing you for a future filled with their captivating blooms.
 
-# # Where Can You Get Camellia Seeds?
+##  Where Can You Get Camellia Seeds?
 
 Acquiring viable camellia seeds is the crucial first step.
 
@@ -37,7 +37,7 @@ Acquiring viable camellia seeds is the crucial first step.
 
 **Online Forums/Groups: ** * Dedicated camellia societies or gardening forums may have members who share or sell seeds.
 
-# # Growing Camellias From Seeds Steps
+##  Growing Camellias From Seeds Steps
 
 Patience is a virtue when growing camellias from seed, as germination can be slow and sporadic.
 
@@ -69,7 +69,7 @@ Handle seedlings by their leaves or root ball, never the stem.
 
 * **Depth: ** Plant at the same depth as they were in the seed tray.
 
-# # How Often To Water Camellias
+##  How Often To Water Camellias
 
 Camellias, whether from seed or mature plants, have specific watering needs.
 
@@ -77,7 +77,7 @@ Camellias, whether from seed or mature plants, have specific watering needs.
 
 * **Watering Technique: ** Water deeply at the base of the plant. Overhead watering can encourage fungal diseases. * **Check Soil Moisture: ** Always check the top few inches of soil before watering. If it feels dry, it's time to water. Reduce watering in winter when the plant is less active. * **Drainage is Crucial: ** Good drainage is paramount. Camellias are highly susceptible to root rot in waterlogged conditions.
 
-# # Do Camellias Live in All Climates?
+##  Do Camellias Live in All Climates?
 
 No, camellias do not thrive in all climates. They have specific climatic requirements.
 
@@ -91,7 +91,7 @@ Alkaline soils will lead to chlorosis (yellowing leaves due to nutrient deficien
 
 **In Kenya: ** Camellias would likely thrive in the **cooler, high-altitude regions** that receive good rainfall and experience cooler temperatures, such as parts of the Aberdares, Mount Kenya slopes, or areas around Limuru and Tigoni. The consistent warmth and high humidity in coastal or very low-lying areas might be too intense for many varieties. They would require careful siting to ensure partial shade and well-drained, acidic soil.
 
-# # Final Thoughts
+##  Final Thoughts
 
 Growing camellias from seed is a rewarding endeavor for the patient gardener. While the wait for those first exquisite blooms can be several years, the process itself is a testament to the wonders of nature and your dedication.
 

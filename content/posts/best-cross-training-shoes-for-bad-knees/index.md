@@ -20,9 +20,9 @@ If you wish to engage in cross-training activities but have bad knees, you need 
 
 Youll need comfortable and supportive shoes to take you through all these exercises. Also Read: Best Shoes for Running on Pavement
 
-# # Review: 7 Best Cross Training Shoes for Bad Knees
+##  Review: 7 Best Cross Training Shoes for Bad Knees
 
-## # [1. Nike Men's Metcon 4 XD Cross Training Shoes for Bad Knees](https://www.amazon.com/dp/B07FLPPLX4/?tag=p-policy-20)
+###  [1. Nike Men's Metcon 4 XD Cross Training Shoes for Bad Knees](https://www.amazon.com/dp/B07FLPPLX4/?tag=p-policy-20)
 
 Nike Metcon 4 XD has become a favorite of many knee pain sufferers because of its reliable support, comfort, stability, and shock absorption property.
 
@@ -42,7 +42,7 @@ Pros: - Best cross fit shoes - Offers excellent support and comfort for cross-tr
 
 Cons: - A customer complained the sole detached itself after only a few months of use
 
-## # [2. Reebok Women's CROSSFIT Nano 8.0 Cross Trainer](https://www.amazon.com/dp/B077V9RDQY/?tag=p-policy-20)
+###  [2. Reebok Women's CROSSFIT Nano 8.0 Cross Trainer](https://www.amazon.com/dp/B077V9RDQY/?tag=p-policy-20)
 
 If you plan to engage in cross-fit training but have bad knees you need to pick the Reebok CROSSFIT Nano 8. 0. The shoe features a comfortable and sturdy construction.
 
@@ -62,7 +62,7 @@ Cons: - Some customers complain that the shoes run small
 
 Read: [Best Running Shoes for Ice and Snow](https: //pestpolicy. com/best-running-shoes-for-ice-and-snow/)
 
-## # [3. Nordic Lifting Crossfit & Gym - Men's Sneakers](https://www.amazon.com/dp/B07K81JXGZ/?tag=p-policy-20)
+###  [3. Nordic Lifting Crossfit & Gym - Men's Sneakers](https://www.amazon.com/dp/B07K81JXGZ/?tag=p-policy-20)
 
 If you want comfort, protection, and stability while doing weight lifting and other gym exercises, the Nordic Lifting Crossfit & Gym sneakers are a perfect choice.
 
@@ -78,7 +78,7 @@ Pros: - Excellent heel support - Breathable - Best weightlifting shoes - Availab
 
 Cons: - A customer with narrow feet complained that the shoe was too wide for them
 
-## # [4. Inov-8 Women's F-lite 235 V2 (W) Cross Trainer](https://www.amazon.com/dp/B073VS9652/?tag=p-policy-20)
+###  [4. Inov-8 Women's F-lite 235 V2 (W) Cross Trainer](https://www.amazon.com/dp/B073VS9652/?tag=p-policy-20)
 
 The Inov-8 F-lite 235 V2 sneakers are some of the best cross-training shoes for bad knees thanks to their comfort, support, and excellent shock absorption during intense workouts.
 
@@ -96,7 +96,7 @@ Pros: - Can withstand various cross-training activities without getting a biting
 
 Cons: - Short shoelaces - Pricey, but worth it
 
-## # [5. Under Armour Men's Charged Commit 2.0 Cross Trainer](https://www.amazon.com/dp/B07PXTZVYP/?tag=p-policy-20)
+###  [5. Under Armour Men's Charged Commit 2.0 Cross Trainer](https://www.amazon.com/dp/B07PXTZVYP/?tag=p-policy-20)
 
 The Under Armour Charged Commit 2. 0 is a budget-friendly cross trainer that provides maximum support and comfort. It has excellent cushioning technology that cushions your bad knees against injuries.
 
@@ -114,7 +114,7 @@ Pros: - Provides excellent support and stability during weight lifting and other
 
 Cons: - A customer complained the shoe separates from the upper after a few months of use
 
-## # [6. PUMA Women's Tazon 6 Cross-Trainer Shoe](https://www.amazon.com/dp/B01LPWO11A/?tag=p-policy-20)
+###  [6. PUMA Women's Tazon 6 Cross-Trainer Shoe](https://www.amazon.com/dp/B01LPWO11A/?tag=p-policy-20)
 
 PUMA Women's Tazon 6 is a lightweight, durable, and supportive shoe that would help soothe your bad knees during cross-training. It has amazing features that ensure your comfort.
 
@@ -130,7 +130,7 @@ The outsole also has a geometrical tread pattern that allows you to engage in mu
 
 Cons: - Some customers complained of insufficient ventilation especially during intense workouts
 
-## # [7. New Balance Men's 608 V5 Cross Trainer](https://www.amazon.com/dp/B07B41G645/?tag=p-policy-20)
+###  [7. New Balance Men's 608 V5 Cross Trainer](https://www.amazon.com/dp/B07B41G645/?tag=p-policy-20)
 
 The New Balance 608 V5 is a stylish and comfortable cross-training shoe thats ideal for knee pain sufferers. The sneaker offers excellent shock absorption to protect knees, feet, and ankles from injuries. It's also durable and offers underfoot support.
 
@@ -146,9 +146,9 @@ Other than that, the outsole features a durable rubber compound that provides du
 
 Cons: - A customer complained that they run small
 
-# # Buyers Guide for Best Cross Training Shoes for Bad Knees
+##  Buyers Guide for Best Cross Training Shoes for Bad Knees
 
-## # Supportive Upper
+###  Supportive Upper
 
 When looking for the best cross-training shoes for bad knees, ensure you pick ones with a firm and supportive upper. A cross trainer with a good upper will ensure your comfort throughout the training session.
 
@@ -156,21 +156,21 @@ The upper should hold the foot securely in place and prevent unnecessary foot mo
 
 If your feet need extra support, you can decide to pick a shoe that has a leather upper. Overall, your cross-training shoes should support all kinds of cross-training activities
 
-## # Shock Absorption
+###  Shock Absorption
 
 Best Cross training shoes for bad knees need to have excellent shock absorption properties. If youll be spending most of your time engaging in different strenuous activities, then a shoe with good shock absorption should be your priority. This way you would protect your knees, feet, and ankles from injuries.
 
 Good cushioning is also critical when picking the Best Cross training shoes for bad knees. Well-cushioned shoes ensure protection against hard ground impact. The heel and the forefoot section should offer good cushioning.
 
-## # Excellent Traction
+###  Excellent Traction
 
 Shoes with excellent traction help you avoid slipping or falling during workouts. Choose shoes with a rubber outsole that would provide durability and protection against abrasion. Beneath the outsole, there should be tread patterns that would provide extra grip and traction on various surfaces.
 
-## # Stability
+###  Stability
 
 Ensure you choose a cross-trainer that would provide you good balance and help you remain stable during the various intense workouts. Stability in a cross-trainer also ensures you remain grounded and well-balanced during heavy weightlifting
 
-# # Conclusion
+##  Conclusion
 
 I hope that this review on best cross-training shoes for bad knees has been helpful. All the reviewed cross-trainers will deliver excellent support and cushioning throughout your training session. Choose cross trainers that would allow your feet to move naturally during the different cross-training movements.
 

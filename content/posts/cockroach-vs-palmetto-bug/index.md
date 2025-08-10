@@ -19,7 +19,7 @@ Cockroach Vs. Palmetto Bug - when people say the word cockroach, they are ordina
 
 In the ongoing battle between the cockroach vs. the palmetto bug, it's often disappointing for people to learn that there is no difference between the two bugs - try these pet safe roach killer.
 
-# # Cockroach Vs. Palmetto Bug: What're the Difference?
+##  Cockroach Vs. Palmetto Bug: What're the Difference?
 
 While there are over 4, 500 various [cockroaches](https: //pestpolicy. com/cockroach-eggs/) species, these two provide a constant source of confusion for people. Yet, there are some notable differences. So let's put on our boxing gloves, step in the ring, get behind our favorite [cockroach](https: //pestpolicy. com/how-to-kill-cockroach-eggs/), and see what they are. Read Also: What do roaches smell like?
 
@@ -35,7 +35,7 @@ Read also: water bugs vs. cockroaches.
 
 It might seem that the worst these pests can do is cause disruption in your home, but beware! Due to their love of hiding in dirty, unsanitary locations, they can infect your food with bacteria like salmonella. Furthermore, they can set off asthma and allergies. Read Also: Best Roach Killer
 
-# # **Where Do They Make Their Home? **
+##  **Where Do They Make Their Home? **
 
 When it comes down to the cockroach vs. the palmetto bug, both are very versatile. They don't perish quickly. In the case of the palmetto bug, if the weather takes a sudden turn for the worse, maybe turning suddenly cold or becoming too hot or wet, they will head indoors to find refuge in your home. The tropical climate of Florida is a paradise for palmetto bugs.
 
@@ -47,7 +47,7 @@ Since palmetto bugs will happily dine on any organic matter that they can get to
 
 Read Also: How to Get Rid of Cockroaches
 
-# # **Indications of a Palmetto Bug Infestation **
+##  **Indications of a Palmetto Bug Infestation **
 
 Because they are nocturnal, you can have a hard time finding these pests as you don't usually see them during the day.
 
@@ -55,6 +55,6 @@ The following are some signs that your home is infested with palmetto bugs: - Th
 
 This is highly recommended. But there are also other available methods: - Buy some traps - Spray them with a bottle of oil and water or plain soap and water - Make a poison using three partsboric acidand one part powdered sugar The sugar is the lure, and then the boric acid takes over and kills them. Read Also: [Do Cockroaches Bite? ](https: //pestpolicy. com/do-cockroaches-bite/)
 
-# # Conclusion
+##  Conclusion
 
 As if that isn't enough, these hardy cockroaches can survive two or three months minus food and go an entire month with no water. They also have a reasonably long lifespan, specifically the females, and can live for a year or more.

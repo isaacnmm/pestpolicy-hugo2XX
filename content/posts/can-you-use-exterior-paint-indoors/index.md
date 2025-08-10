@@ -24,27 +24,27 @@ The simple chemical formulation that comes with most exterior colors is self-act
 
 Sections like the kitchen cabinets (flammable may cause a fire), fireplace, living room (poisonous fumes), bedroom, and baby closet should never be painted with exterior paint unless its pre-cured. *
 
-# # Details: Can You Use Exterior Paint Indoors
+##  Details: Can You Use Exterior Paint Indoors
 
-## # a. Chemical and structural formulation
+###  a. Chemical and structural formulation
 
 Exterior paint features a complex organic structure (carbon-carbon bond) that breaks and stretches sufficiently during paint application. The simple chemical formula that comes with exterior paint is agitated to improve stickiness and eliminate surface drains. [Exterior paint](https: //www. amazon. com/dp/B06Y142YK6/? tag=p-policy-20) integrates a continuous polymerized bond and intermittent additives that are self-activating upon application.
 
 Unlike interior paint, exterior paint has waterproof eliminator properties that make it more popular. However, exterior paint's oil-based components are not suitable for application in a fireplace or footpaths (slippery). > See Also: > Painting your Bathroom Ceiling to Prevent Mold
 
-## # b. Active components in the paint
+###  b. Active components in the paint
 
 The active chemical in most exterior paint is volatile organic compounds (VOC). VOC hold the pigments in the paint plus other additives and binds them to the surface under which it is applied. VOC is responsible for improving the stickiness of a particular exterior paint and seal the primary surface from external damage. However, VOC releases harmful fumes that irritate the respiratory system when inhaled.
 
 Moreover, the VOCs are highly flammable and attribute fire outbreaks if precautions are not adhered to when painting indoors - including painting on your interior doors.
 
-## # c. Areas of application
+###  c. Areas of application
 
 Exterior paint is best used in indoor wall applications for large theatre it reduced repainting and restoration cost. You can also paint the stores inner walls (without any flammable item), classroom walls, ceiling, interior stairs, and wardrobe. Unlike interior paints, exterior paint eliminates molds and mildew when used in bathrooms or showers. Water-based paint swells, chips and peels when used in bathrooms due to humid conditions.
 
 However, strict precautions should be adhered to to prevent extreme dangers associated with exterior paint.
 
-## # d. Areas not to Apply
+###  d. Areas not to Apply
 
 Avoid applying exterior paint in the kitchen and fireplace always the VOC components in this paint are highly flammable and may lead to a fire outbreak in case of contact. The living room, bedroom, and baby closets should also not be painted with exterior paint because the paint contains poisonous fumes that affect the respiratory system when inhaled.
 
@@ -52,7 +52,7 @@ Further, the VOCs effects are long-lasting (may take over six months to surge af
 
 Never paint floors with exterior paint the oil-based compound is slippery and may lead to a fall accident. Furniture used in the living room, kitchen, and bedroom should also not be painted using exterior paint due to similar reasons too. The interior paints must be self-priming, stain-resistant, fade-resistant, low odor, water-based, washable, and scrub-able - and must readily adhere to your interior walls with no sanding.
 
-## # e. Advantages and disadvantages
+###  e. Advantages and disadvantages
 
 Exterior paint is marked with an exceptional quality finish and high stickiness ability. You will enjoy a long-lasting coat surface and waterproof protection by using exterior paint indoors. Moreover, exterior paint eliminates molds, mildew, and algae grown when used in bathrooms and shower places.
 
@@ -64,9 +64,9 @@ You may experience headaches, nausea, or dizziness if you remain in a room coate
 
 Exterior paint has high VOC and acrylic components that are highly flammable and may lead to a fire outbreak if it gets into contact. The compounds oil-based components make the paint slippery and cause a fatal accident when used on the floors. NB: Its advisable to desist from using exterior paint in small rooms that are not well aerated. See Also: Painting Bathroom Cabinets
 
-# # What are the Major Difference Between Indoor Paint and Outdoor Paint
+##  What are the Major Difference Between Indoor Paint and Outdoor Paint
 
-## # 1. Chemical formulation
+###  1. Chemical formulation
 
 Exterior paint features a complex structural formulation that mainly relies on acrylic resin, while interior paint entails a simple structural formula set on natural ingredients. Exterior paint is especially agitated to improve stickiness ability and comes with self-activating formula, while interior paint has an explicit formulation that requires water integration for activation.
 
@@ -74,7 +74,7 @@ Further, exterior paint is mainly oil-based (acrylic), while interior paint is u
 
 But Rustoleum rust reformer will give great finishes even on your high moisture locations.
 
-## # 2. Durability
+###  2. Durability
 
 Exterior paint forms a long-lasting coat upon application than interior paint. You will notice more drains and runs when painting with interior paint than exterior paint. Indeed, exterior paint is coupled with numerous properties such s waterproof, UV-rays protected, and fade-resistant, which are not found in most interior paints.
 
@@ -84,7 +84,7 @@ Further, the exterior paint forms a permanent coat layer that is more cumbersome
 
 Further, different additives may remove [mildew spores](https: //www. wikihow. com/Reduce-Mold-Spores-in-the-Air) and [tannin stains](https: //www. washingtonpost. com/lifestyle/home/how-to-remove-leaf-stains-on-concrete/2016/01/05/4f80d3d6-a4ea-11e5-b53d-972e2751f433_story. html), and hence they won't bleed via [wood knots that are sappy](https: //greenwaveforever. com/how-to-avoid-wood-tannin-bleed-from-knots).
 
-## # 3. Area of use
+###  3. Area of use
 
 Interior paint is mainly used indoors and at limited places outdoors, while exterior paint is amplified for out surface application. Exterior paint can be used on metallic surfaces, wooden surfaces, concrete, and ceramics. The waterproof and fade-resistance properties of exterior paint make it more popular in outdoor applications than interior paint.
 
@@ -96,7 +96,7 @@ You will achieve a classic surface finish and eliminate unnecessary runs that ma
 
 NB: Exterior paint can be applied over interior paint; however, interior paint cant be applied over exterior paint.
 
-## # 4. Active ingredients
+###  4. Active ingredients
 
 Exterior paint contains high [Volatile Organic Compounds (VOC)](https: //en. wikipedia. org/wiki/Volatile_organic_compound), which helps in holding paint pigments and improving stickiness ability, while interior paint has low VOC components. Moreover, exterior paint comes with oil-based additives intermittently embedded in the paint and help improve the final outlook appearance.
 
@@ -104,13 +104,13 @@ In contrast, interior paints mostly come with natural grain additives that help 
 
 Notably, the exterior paint has better provisions for multiple ingredient combinations that give it attractive colors. In contrast, interior paint has limited pigment formulation and often has colors that are a bit dull.
 
-## # 5. Stickiness ability and coating level
+###  5. Stickiness ability and coating level
 
 Exterior paint is formulated with high acrylic components and potent VOC compounds that improve stickiness properties. Interior paint has low VOC components and low acrylic pigments; thus, the stickiness is lower. Due to low stickiness ability, Interior paint requires more coats to achieve better surface strength than exterior paint.
 
 Moreover, the interior paint is more susceptible to scratches, while exterior paint is tough and scratch-resistant - indoor paints will withstand heavy traffic that may lead to bumps and scrapes on your woodwork and walls.
 
-# # Can You Use Interior Paint Outdoors?
+##  Can You Use Interior Paint Outdoors?
 
 Interior paint can easily be used in outdoor applications. Often drywalls are primed using interior paint before coating with exterior paint with your [airless paint sprayer](https: //pestpolicy. com/best-paint-sprayer-for-walls-and-ceilings/). This reduces cost and eliminates chipping or peeling levels. Interior paint is usually water-based thus, it lacks waterproof properties, which is the key feature in most exterior paints.
 
@@ -122,7 +122,7 @@ Interior paint works incredibly when used in temperate weather outdoor painting 
 
 Unlike exterior paint, interior paint is more comfortable to remove when repainting the surface. The low stickiness ability is a strong advantage that makes most interior paint used in outdoor renovations and surface restoration. Remember, interior paint is highly susceptible to scratches and is prone to attacks by [molds/mildew](https: //www. bhg. com/homekeeping/house-cleaning/tips/how-to-prevent-mold-and-mildew/).
 
-# # Conclusion
+##  Conclusion
 
 In consideration of paint selection, you can use exterior paint for your home interior. Exterior paint has better strength, resists scratches, waterproof, and wont fade faster than interior paint. However, Exterior paint has high VOC and acrylic components that make it highly flammable when used in a fireplace or kitchen.
 

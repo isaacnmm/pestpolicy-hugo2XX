@@ -21,7 +21,7 @@ A quality product will give you a very fulfilling experience with your pet snake
 
 **See the following terrains for snakes. **
 
-# # [**1. Exo Terra 18 x 18 x 24****All Glass Terrarium**](https://www.amazon.com/dp/B000OAYXTK/?tag=p-policy-20)
+##  [**1. Exo Terra 18 x 18 x 24****All Glass Terrarium**](https://www.amazon.com/dp/B000OAYXTK/?tag=p-policy-20)
 
 Let your pet snake enjoy the comfort of a natural-looking environment. The 18 x 18 x 24 terrarium from Exo Terra brings with it some of the best conditions for your pet. - Perhaps the most outstanding feature in this terrarium is the rock background, which blends natural habitat features. - The rugged design of the background offers varied designs for your pet to climb up and down.
 
@@ -37,7 +37,7 @@ The Good: - Strong and durable stainless steel frame - Rock background provides 
 
 - Substrate heating and proper ventilation - Double door and removable top screen The Bad: - Possibility of glass breaking
 
-# # [**2. REPTI ZOO Double Door Glass Terrarium  Reptile**](https://www.amazon.com/dp/B07CV797LC/?tag=p-policy-20)
+##  [**2. REPTI ZOO Double Door Glass Terrarium  Reptile**](https://www.amazon.com/dp/B07CV797LC/?tag=p-policy-20)
 
 This is a great terrarium for your snake pet. Its a glass-type enclosure with all the requirements for maintaining your reptile's health and comfort. - Having glass walls ensures that you can view and monitor the animal even from far. - It allows you to install a customized background, climbing items, substrate, and stuff for the snake to rest and hide.
 
@@ -47,7 +47,7 @@ This helps the snake in regulating its body temperature. The top cover is a remo
 
 Whats more, the raised glass platform on its bottom provides a means for heating the snake bedding. The Good: - Sturdy glass walls - Durable steel frame - Good lighting and sufficient ventilation - Completely waterproof - A raised platform provides a heating chamber The Bad: - Not ideal for a large snake
 
-# # [**3. Carolina Custom Cages Reptile 48'' x 24''x 24''Terrarium**](https://www.amazon.com/dp/B077QHSYWX/?tag=p-policy-20)
+##  [**3. Carolina Custom Cages Reptile 48'' x 24''x 24''Terrarium**](https://www.amazon.com/dp/B077QHSYWX/?tag=p-policy-20)
 
 Quality, durability, and functionality are key to this terrarium from Carolina Custom Cages. - Its constructed using tough steel and robust glass to ensure you get value for your investment. - The three side walls, excluding the door, are made of tough cardboard with beautiful 3-D images of typical snake habitat. These habitat impressions give your snake the illusion that they are in their natural habitat, making them comfortable.
 
@@ -57,13 +57,13 @@ With its easy and quick assembly design, you will neither waste a lot of time no
 
 The Good: - Ideal for reptiles such assnakes and a bearded dragon - Ample ventilation - Waterproof base - Cardboard walls with a mountain desert illusion - Sliding doors with a reliable lock - Black-coated frame The Bad: - Relatively expensive
 
-# # [4. AQUA KT Terrariums Reptile Corner + Cup](https://www.amazon.com/dp/B07Z7PRV65/?tag=p-policy-20)
+##  [4. AQUA KT Terrariums Reptile Corner + Cup](https://www.amazon.com/dp/B07Z7PRV65/?tag=p-policy-20)
 
-# # [5. HYLYUN Terrarium Reptile Plant for Geckos Snake](https://www.amazon.com/dp/B08JCQH2GS/?tag=p-policy-20)
+##  [5. HYLYUN Terrarium Reptile Plant for Geckos Snake](https://www.amazon.com/dp/B08JCQH2GS/?tag=p-policy-20)
 
-# # [6. 2Pack Reptile Terrarium Plants + Cup for Snake](https://www.amazon.com/dp/B087N9VWHS/?tag=p-policy-20)
+##  [6. 2Pack Reptile Terrarium Plants + Cup for Snake](https://www.amazon.com/dp/B087N9VWHS/?tag=p-policy-20)
 
-# # [**7. Exo Terra 24x 18x 12 All Glass Reptile Terrarium**](https://www.amazon.com/dp/B008N9LRCK/?tag=p-policy-20)
+##  [**7. Exo Terra 24x 18x 12 All Glass Reptile Terrarium**](https://www.amazon.com/dp/B008N9LRCK/?tag=p-policy-20)
 
 This stylish terrarium looks impressive for indoor dcor. Its short design completed with glass walls makes it a pretty piece for your home improvement projects. - Unlike the tall Exo Terra terrarium, this one gives you a landscape view of your snake pet similar to a TV set screen. - The background at the back of this terrarium mimics a typical natural rock habitat for snakes. Also included is a provision for climbing.
 
@@ -73,7 +73,7 @@ But they are available at an extremely affordable price. The raised bottom platf
 
 A reliable door lock ensures your pet does not come out and prevents uninvited access by your kids or pets. At the back of the terrarium, therere five closable holes for inserting tubes or cables. The Good: - Short landscape design - Made with high-quality steel and robust glass - Secure door and lock - Closable holes for inserting tubes and cables - Excellent ventilation The Bad: - Not ideal for jumping pets
 
-# # [**8. Zilla Kit 10 Reptile Terrarium with Dome light**](https://www.amazon.com/dp/B01N4UIKM5/?tag=p-policy-20)
+##  [**8. Zilla Kit 10 Reptile Terrarium with Dome light**](https://www.amazon.com/dp/B01N4UIKM5/?tag=p-policy-20)
 
 Zilla Kit 10 is an ideal habitat for snake pets. Its aesthetically designed with premium materials making it a good terrarium for indoor spaces. This snake cage measures 20. 2 x 10. 5 x 12. 6, meaning its a compact enclosure that you can use for small snakes. It comes with a green carpet that is capable of retaining heat to warm your pet. The carpet has odor-fighting properties and is not too rough for your snake.
 
@@ -81,7 +81,7 @@ The single dome light on its roof promotes good lighting inside the cage while a
 
 You can purchase these inclusions separately to add some glamor to your terrarium. The Good: - Compact size for indoor snake pet - Top mesh promotes adequate ventilation. - Ideal other reptile pets like geckos, lizards, a bearded dragon, and so on - Dome heater and lighting - Gauge for monitoring temperature and humidity The Bad: - Background not included
 
-# # [**9. Zoo Med Gecko Kit Natural Terrarium**](https://www.amazon.com/dp/B00HZHSB84/?tag=p-policy-20)
+##  [**9. Zoo Med Gecko Kit Natural Terrarium**](https://www.amazon.com/dp/B00HZHSB84/?tag=p-policy-20)
 
 This terrarium comes with all accessories of a snakes natural environment. So you wont have to purchase additional items to add to your terrarium. - At only 12 X 12 X 18 in dimension, it will be a perfect snake enclosure for indoor spaces. - As its name suggests, it uses eco-friendly materials to create a natural environment that makes your pet as comfortable as possible.
 
@@ -93,7 +93,7 @@ Ventilation inside the cage is made possible by the top screen, made of stainles
 
 com/where-do-fleas-come-from/) - Ventilated - Secure glass door - Allows the penetration of UVB and UVA The Bad: - Only for a small snake
 
-# # [**10. REPTI ZOO Full View Mini Glass Terrarium for Reptile**](https://www.amazon.com/dp/B07CVDXY6S/?tag=p-policy-20)
+##  [**10. REPTI ZOO Full View Mini Glass Terrarium for Reptile**](https://www.amazon.com/dp/B07CVDXY6S/?tag=p-policy-20)
 
 Get a mini snake terrarium for your home decoration projects. This terrarium gives you the perfect space for creating a natural habitat for your snake, lizard, or bearded dragon. Its made of sturdy glass and a black coated steel frame giving it a stylish and appealing look. Thus, its a long-lasting piece of equipment that requires little maintenance. The base platform allows you to install bedding or substrate of your choice.
 
@@ -103,7 +103,7 @@ Plus you can remove it to access the cage during cleaning.
 
 The Good: - Durable and stylish construction - Secure enclosure for your snake - Ample ventilation - Water-tight means it can be used with aquatic pets - Full glass view The Bad: - Not good for large snakes
 
-# # **How to Choose the Best Terrariums for Snakes**
+##  **How to Choose the Best Terrariums for Snakes**
 
 A pet snake wont serve its purpose if it is not housed properly. A good terrarium should not only give you a good display of your pet but also provide a comfortable environment for the reptile. In this guide, Ill take you through some important factors to consider when searching for the right enclosure for your snake. **The Size of the Terrarium** Snake pets come in different sizes and species.
 
@@ -123,6 +123,6 @@ com/how-to-kill-fleas-on-dogs-naturally-safe-and-fast/) or cat.
 
 It also ensures that your cage comes with a reliable lock to prevent your kid's or pets' accidental opening.
 
-# # **Conclusion**
+##  **Conclusion**
 
 Like other pets, snake pets should be taken care of to have a quality life. And apart from diet, they require an excellent terrarium that blends their natural habitat. - Your typical terrarium will essentially be determined by your budget and the size of the snake. - Other factors to consider include ventilation, security, and the ability to regulate temperature and humidity.

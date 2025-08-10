@@ -23,7 +23,7 @@ The first question is [borax](https: //pestpolicy. com/is-borax-safe-for-cats/) 
 
 ** - **The dog exposed to borax or boric acid frequently vomits, produces stools with blue-green substance or blood, and becomes lethargic or droopy-eyed. **
 
-# # **Is Borax Safe For Dogs?**
+##  **Is Borax Safe For Dogs?**
 
 Borax is a chemical compound that can be found at many grocery stores. But the real question is how much borax can a small dog eat before being dangerous? Well, for every pound (half a kilogram) of body weight, dogs are only able to tolerate about 0. 25 grams (0. 06 ounces) of borax before it is too much for them and can cause serious health problems such as vomiting or diarrhea.
 
@@ -37,7 +37,7 @@ Further; **Contact with ** **borax** may cause severe eye and skin irritation in
 
 As Borax and boric acid are so similar, both chemicals could be harmful to your dog. The question remains, then: Which one is worse? - Well, it all depends on the kind of exposure that occurs. If you make a mistake with just one like getting it on your dog's paws and they lick it, boric acid is the worse choice. **Borax ** **Inhalation** in dogs may cause severe shortness of breath and coughing.
 
-# # Symptoms of Borax Poisoning in Dogs
+##  Symptoms of Borax Poisoning in Dogs
 
 Borax poisonings in dogs are a medical emergency and must be addressed immediately.
 
@@ -45,19 +45,19 @@ Symptoms of borax poisoning in dogs may include: - Extreme Salivation - Disorien
 
 Contact the vet immediately for treatment if you notice such symptoms.
 
-# # Causes of Dog Borax Poisoning
+##  Causes of Dog Borax Poisoning
 
 Boron, a naturally occurring element found in a number of products used around the home can have adverse effects on your canine companion. The causes of borax poisoning include: - Insecticides - Paints - Fungicides - Rodent poisons and repellents - Medicated powders - Skin lotions - Tick and[flea medications](https: //pestpolicy. com/is-borax-safe-for-cats/) - Antiseptics, germicides, disinfectants - Detergents.
 
 - [Laundry products](https: //pestpolicy. com/best-drain-cleaner//)(detergent powders) - Shaving cream - Diaper creams Cosmetics such as soaps or lotions with borax in them can also be a cause of poisoning to your dog if they lick the product of their skin.
 
-# # Is 20 Mule Team Borax harmful to dogs?
+##  Is 20 Mule Team Borax harmful to dogs?
 
 Yes, 20 Mule Team Borax is toxic to dogs. But there's no need for you to panic because it won't kill your pet instantly unless they consume a large amount in one sitting. The boron present in the product can cause vomiting and diarrhea with larger doses that may lead to death if not treated promptly by a veterinarian. What are some of the symptoms I should keep an eye out for?
 
 - The signs of dog poisoning include nausea, excessive drooling, lethargy or weakness (being uncoordinated), seizures, difficulty breathing or panting, increased heart rate, and/or fever up until 106 degrees Fahrenheit. If any such symptom persists seek veterinary attention immediately!
 
-# # My Dog Ingested or Ate Borax, What Should I do?
+##  My Dog Ingested or Ate Borax, What Should I do?
 
 In the event that your dog has eaten borax, you should contact your veterinarian straight away. Once youve done this, take note of the following points: 1. Make sure at what time did he last eat? If it was more than one hour ago then a trip to the nearest veterinarian is not necessary. But, if less than an hour has passed; or he just ate; it is extremely important to get him there as soon as possible. 2.
 
@@ -67,7 +67,7 @@ Animal poison control centers exist to provide help in times of need.
 
 One of the many helpful services offered by the poison helpline is to provide insights on potential causes for dog poisoning. Once you provide your vet with the case number, they can speak directly to the poison helpline toxicologists who will advise on the best course of action.
 
-# # What will happen at the Vet's Office?
+##  What will happen at the Vet's Office?
 
 When you take your pet to the vet for dog borax poisoning, there are typically a few treatment options that vets recommend. - Your veterinarian will decide if the dog needs immediate veterinary attention, and may induce vomiting if appropriate. Ingested borax will be vomited up. - A dog with borax poisoning will be monitored for signs of neurological damage.
 
@@ -79,13 +79,13 @@ The vet may recommend a gastric lavage if your dog shows symptoms of high toxici
 
 The vet will also monitor hydration levels closely through urine output as well as blood pressure if needed.
 
-# # Recovery from Borax Poisoning for Dogs
+##  Recovery from Borax Poisoning for Dogs
 
 Kidney damage from boric acid poisoning is a top concern for vets. The vet may opt to do hemodialysis and dialysis to help remove any boric acid from the kidneys. - Once they have recovered, make sure to keep them away from any borax. - Leaving it in the house will only tempt your dog and could lead to another poisoning event or death.
 
 The vet may also prescribe [medication for boric acid](http: //npic. orst. edu/factsheets/archive/borictech. html) depending on how much borax was consumed by the dog.
 
-# # Conclusion
+##  Conclusion
 
 In conclusion on the question "is borax safe for dogs" is a yes with many considerations. - Borax is safe for dogs when used in moderation, but can lead to kidney damage if consumed in excess or over time. - It is very important that you always keep borax away from your dog and make sure they have plenty of water during recovery! If swallowed: Watch out for severe vomiting, diarrhea, lethargy (too tired), seizures (convulsions).
 

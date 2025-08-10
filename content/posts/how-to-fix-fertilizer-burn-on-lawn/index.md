@@ -26,7 +26,7 @@ Fertilizer burn is a setback that can leave homeowners frustrated and their lawn
 
 This guide will delve into the causes of fertilizer burn, provide a step-by-step approach to nursing your lawn back to health, and offer comprehensive tips to ensure you never face this common lawn care mishap again.
 
-# # What Is Fertilizer Burn?
+##  What Is Fertilizer Burn?
 
 Fertilizer burn, often referred to as "chemical burn" or "salt burn, " occurs when grass roots are exposed to an excessive concentration of salts present in fertilizers. Most fertilizers, particularly synthetic ones, are composed of mineral salts that dissolve in water to release nutrients. While a controlled amount of these salts is beneficial for plant uptake, too much can create an osmotic imbalance.
 
@@ -36,7 +36,7 @@ The effect is similar to what happens when you pour salt on a slug it draws out 
 
 This rapid dehydration is why the damage appears so quickly and severely, mimicking a scorched appearance.
 
-# # Identifying Fertilizer Burn
+##  Identifying Fertilizer Burn
 
 Recognizing fertilizer burn is key to addressing it promptly. The symptoms are usually quite distinct:
 
@@ -52,7 +52,7 @@ Recognizing fertilizer burn is key to addressing it promptly. The symptoms are u
 
 It's important to differentiate fertilizer burn from other issues like fungal diseases (which often have distinct lesion patterns or fungal growth), insect damage (which can show chewing marks or specific patterns of dieback), or drought stress (which usually affects the entire lawn uniformly before progressing to patches).
 
-# # 4 Common Causes of Fertilizer Burn
+##  4 Common Causes of Fertilizer Burn
 
 Understanding the reasons behind fertilizer burn can help you prevent it in the future:
 
@@ -64,7 +64,7 @@ This commonly happens with: * **Spreader Errors: ** Malfunctioning spreaders, im
 
 Without sufficient moisture to dilute and distribute the nutrients, the salts become highly concentrated around the roots, leading to immediate dehydration. Lawns already stressed by drought are particularly vulnerable.
 
-# # How To Fix Fertilizer Burn (6 Steps)
+##  How To Fix Fertilizer Burn (6 Steps)
 
 If you've identified fertilizer burn on your lawn, immediate action is crucial to minimize damage and promote recovery.
 
@@ -86,7 +86,7 @@ Ensure good soil contact and consistent watering.
 
 Patience is key during the recovery process. It may take several weeks for the lawn to show significant improvement or for new grass to establish.
 
-# # 9 Tips for Preventing Fertilizer Burn
+##  9 Tips for Preventing Fertilizer Burn
 
 Prevention is always better than cure when it comes to fertilizer burn. Adhere to these best practices for safe and effective fertilization:
 
@@ -106,7 +106,7 @@ For liquid applications, turn off the sprayer briefly. Be extra careful along dr
 
 **Consider Slow-Release Fertilizers: ** Slow-release (or controlled-release) fertilizers release nutrients gradually over time, significantly reducing the risk of burn compared to quick-release (fast-acting) fertilizers. Organic fertilizers also typically have a very low burn potential due to their natural, slower breakdown.
 
-# # When To Seek Professional Help
+##  When To Seek Professional Help
 
 While most cases of fertilizer burn can be managed with DIY steps, there are instances where professional help might be necessary:
 
@@ -118,7 +118,7 @@ While most cases of fertilizer burn can be managed with DIY steps, there are ins
 
 A reputable lawn care professional can often provide a soil test, offer expert advice, and implement effective recovery strategies.
 
-# # Final Thoughts About Fixing Fertilizer Burn on Lawn
+##  Final Thoughts About Fixing Fertilizer Burn on Lawn
 
 Fertilizer burn is a disheartening but often recoverable setback in lawn care. The key to mitigating its impact lies in swift action, primarily focused on flushing the affected areas with plenty of water to dilute and disperse the excess salts. While recovery may take time and potentially require reseeding, the long-term lesson is invaluable: precision and moderation are paramount when applying lawn fertilizers.
 

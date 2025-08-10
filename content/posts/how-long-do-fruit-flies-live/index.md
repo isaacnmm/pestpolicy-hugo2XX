@@ -21,7 +21,7 @@ Do fruit flies bother you by [flying all over in your house and compound](https:
 
 ** In fact, the fruit flies do not just hatch into flies directly; they undergo different stages in their life cycle to achieve fully development.
 
-# # **Details: How long do Fruit flies live? **
+##  **Details: How long do Fruit flies live? **
 
 Fruit flies live for approximately 40 to 50 earth days. To achieve full maturity, they undergo various stages (metamorphosis). The duration in each development stage may vary from place to place due varying factors, which affects their growth.
 
@@ -35,7 +35,7 @@ You will also realize that fruit flies follow foodstuff, without which they leav
 
 I will now elaborate in depth each stage in the life cycle of a fruit fly in various subheading below.
 
-# # **What is a life cycle of Fruit flies?**
+##  **What is a life cycle of Fruit flies?**
 
 The life of fruit fly is classified in various stages that are interlinked continuously. These stages together form its life cycle. Each stage consists of a number of developments, which make it different from the next or other stages.
 
@@ -45,7 +45,7 @@ The Life cycle of fruit fly is classified into four stages i. e. egg, larvae, pu
 
 Lets discuss each stage:
 
-## # **Stage 1  Reproduction Process.**
+###  **Stage 1  Reproduction Process.**
 
 Once the female mates with male fruit fly, the fruit fly looks for a better place to lay eggs. This could be on your rotting/fermenting foodstuff, damp rag or mop, fruit skin, dustbin or even drainage system.
 
@@ -57,7 +57,7 @@ Each egg is able to hatch after 24 to 30 hours. By 8 to 13 days, you will be hav
 
 Once the eggs hatch, they proceed to the next stage called larvae stage.
 
-## # **Stage 2  Larvae**
+###  **Stage 2  Larvae**
 
 This is stage is the most pronounce stage of fruit flies. Basically, a larvae is a worm-like organism that does not have legs. It is very active when it comes to movement and feeding so as to secure enough energy for the next stage.
 
@@ -83,11 +83,11 @@ This means that they quickly get into reproduction as soon as they are released 
 
 NB: This process, from reproduction to full adulthood of fruit flies, is known as metamorphosis and we said it takes between eight to thirteen days, which may vary from place to place due climatic factor among other things.
 
-# # **Which affects the Lifespan of Fruit flies?**
+##  **Which affects the Lifespan of Fruit flies?**
 
 Survival of fruit flies is affected by various factors that may vary from place to place depending on the point of consideration. These factors may either favor their existence or cause their death. Some of these factors include:
 
-## # 1. Ambient temperature
+###  1. Ambient temperature
 
 Most fruit flies thrives very well is ambient temperature of a given environment. Research shows that the optimal temperature of about 78 degree Fahrenheit is suitable for best survival of these fruit flies.
 
@@ -103,7 +103,7 @@ Once fruit flies have depleted one food source, they quickly shift to another wi
 
 It is very important to ensure that you clean all possible sites that may, in any away, attract these fruit flies into their vicinity.
 
-# # **Can fruit flies die on their own?**
+##  **Can fruit flies die on their own?**
 
 This is a nice concern. Definitely, fruit flies will die after forty to fifty days of survival. However, it may not seem like they really are dying if the source of food still exists.
 
@@ -113,7 +113,7 @@ Just in case you want them to die on their own, kindly allow them to deplete the
 
 I am only worried if you will dread to face such infestation of fruit flies by giving them a chance to die slowly!
 
-# # **Do fruit flies cause sickness?**
+##  **Do fruit flies cause sickness?**
 
 Sickness is something you always try to avoid. The fact that fruit flies are irritating is termed as a special kind of sickness as where they are you can stay at peace.
 
@@ -121,7 +121,7 @@ Moreover, these flies lands and touch over other contaminated substances before 
 
 The larvae stage of fruit flies mostly prefer feeding on fermenting/rotting food. They accelerates the action of bacteria as well as food poisoning. If such food is eaten, it may cause illness, stomach upset or other types of sicknesses.
 
-# # **How do I destroy fruit flies breeding ground?**
+##  **How do I destroy fruit flies breeding ground?**
 
 It is necessary know that the most destructive stages of a fruit fly is larvae and adult stage. These stages plays a great role in destroying your foodstuff. In case you desire to destroy their breeding ground, just try and do away with these two stages.
 
@@ -137,7 +137,7 @@ Chemicals can be used to kill both the fruit flies and their laid egg however; m
 
 I may therefore not recommend their use unless you find that the problem for fruit flies has escalated and other methods are not yielding results.
 
-# # **How do I prevent fruit flies in my home?**
+##  **How do I prevent fruit flies in my home?**
 
 This is just easy. You will require to keep off any substance that attract fruit flies into your house of place. This can be made by ensuring that you do not store any rotting foodstuff or ensuring those products with fruit flies attracting smell has securely stored.
 
@@ -145,7 +145,7 @@ Cleanliness is very important for you. Ensure that you empty garbage bin, clean 
 
 These, if you put them into practice, will help you a lot in preventing presence of fruit flies in your house or compound.
 
-# # **Conclusion**
+##  **Conclusion**
 
 Your concern on life of fruit flies is valid. Fruit flies lives for about 40 to 50 earth days. The lifecycle of a fruit fly is classified into four stages: egg, larvae, pupa and adult. Fruit flies lives may be affected by various factors such as temperature humidity as well as source of food nutrients.
 

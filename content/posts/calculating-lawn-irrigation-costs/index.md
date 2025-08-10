@@ -23,7 +23,7 @@ Irrigation costs are influenced by a combination of factors, including your loca
 
 This guide will delve into best practices for efficient watering, provide a step-by-step approach to calculating your water use and associated costs, and explore other factors that can impact your irrigation budget, ultimately empowering you to manage your lawn's thirst more effectively.
 
-# # Watering Do's and Donts
+##  Watering Do's and Donts
 
 Before diving into calculations, adopting efficient watering habits is the first step to reducing costs. The goal is to maximize water absorption and minimize waste.
 
@@ -43,7 +43,7 @@ This minimizes evaporation from sun and wind, and allows grass blades to dry bef
 
 * **Don't Water Runoff: ** If water is pooling or running off, your soil can't absorb it fast enough. Reduce flow rate, break watering into shorter cycles (e. g. , 10 minutes on, 30 minutes off, then 10 minutes on again), or address compaction. * **Don't Ignore Sprinkler Issues: ** Leaking heads, misaligned nozzles, or broken pipes waste enormous amounts of water. Periodically inspect your system.
 
-# # Calculating Water Use
+##  Calculating Water Use
 
 To calculate your irrigation costs, you first need to estimate how much water your sprinkler system uses. This can be done with a few simple methods:
 
@@ -61,7 +61,7 @@ To deliver 1 inch per week, you'd run that zone for 60 minutes total per week (e
 
 ** (This part can get complex without knowing the exact square footage and specific sprinkler output. The tuna can test is simpler for homeowners).
 
-# # Calculating Water Costs
+##  Calculating Water Costs
 
 Now that you have an estimate of your water usage, you can calculate the cost.
 
@@ -89,7 +89,7 @@ Therefore, the cost attributed to irrigation would be **$60. 00** in this scenar
 
 Always use the specific rates from your current water bill for accuracy.
 
-# # Other Factors That Affect Cost
+##  Other Factors That Affect Cost
 
 Beyond the direct calculation, several other elements contribute to your overall lawn irrigation expenses:
 
@@ -111,7 +111,7 @@ Check the pump's wattage and run time to estimate electrical costs. 6. **Soil Ty
 
 * **Soil Moisture Sensors: ** Water only when the soil moisture drops below a set threshold. * **Low-Flow Nozzles: ** Deliver water more slowly and efficiently. These investments can significantly reduce long-term operating costs.
 
-# # Final Thoughts
+##  Final Thoughts
 
 Calculating lawn irrigation costs is a powerful step towards becoming a more informed and efficient homeowner. By understanding how much water your lawn truly needs, how your sprinkler system delivers it, and how your local utility bills for consumption, you can move beyond simply paying the bill to actively managing your water usage.
 

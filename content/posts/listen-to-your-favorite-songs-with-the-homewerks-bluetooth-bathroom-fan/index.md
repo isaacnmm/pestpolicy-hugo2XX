@@ -39,7 +39,7 @@ We're talking about a bathroom fan that not only clears humidity but also stream
 
 Let's talk about the Homewerks Bluetooth Bathroom Fan!
 
-# # Bluetooth Features
+##  Bluetooth Features
 
 The star of the show for the Homewerks Bluetooth Bathroom Fan is, undoubtedly, its integrated Bluetooth speaker. This feature transforms your bathroom from a purely functional space into a personal audio oasis, allowing you to seamlessly enjoy music, podcasts, audiobooks, or even news reports while you get ready, take a shower, or unwind in the bath.
 

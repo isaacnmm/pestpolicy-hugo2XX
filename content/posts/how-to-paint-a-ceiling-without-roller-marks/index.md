@@ -20,11 +20,11 @@ Perhaps you have come across a [ceiling](https: //pestpolicy. com/do-you-need-to
 
 *Moreover, the individual procedures for painting the ceiling must be adhered to as per the given instructions without overlooking precautions and safety measures associated with paint application. * > See Also: > Bathroom Ceiling Paint to Prevent Mold
 
-# # Details: How To Paint A Ceiling Without Roller Marks
+##  Details: How To Paint A Ceiling Without Roller Marks
 
 It will help if you have paint removers when painting to correct any errors during application.
 
-## # a. Painting tools selection
+###  a. Painting tools selection
 
 Tool selection is the most critical step in achieving quality finish when painting since tools determine the paint pick-up and release effectiveness. Ensure to remove all excess paint from the roller as you're putting the paint roller to get different paint.
 
@@ -34,7 +34,7 @@ tag=p-policy-20)and thin roller nap - [Angled paintbrush](https: //www. amazon. 
 
 Some ceiling surfaces demands different tools. However, you will need to have at least the listed tools in case of immediate considerations when painting.
 
-## # b. Surface Preparation/Cleaning
+###  b. Surface Preparation/Cleaning
 
 The ceiling must be cleaned thoroughly before the paint application begins. In this regard, a newly constructed ceiling should be left to dry completely before painting. You can accelerate the drying process by warming the room gently for some time. When restoring a painted ceiling, scrape off the old paint with a [blunt knife](https: //www. amazon. com/dp/B086JDRQ8T/?
 
@@ -48,7 +48,7 @@ Instead, the surface should be finished using fine cement plaster in the right r
 
 > See Also: > Fixing Peeling Paint On Ceiling
 
-## # c. Paint Selection and Preparation
+###  c. Paint Selection and Preparation
 
 Select [ceiling paint](https: //www. amazon. com/dp/B000LNYA34/? tag=p-policy-20) according to the type of primary ceiling material. The paint used on a concrete ceiling may not work best when used on a wooden ceiling or granite ceiling. Some water-based paints often peel or chip when applied on a humid concrete ceiling without priming.
 
@@ -58,7 +58,7 @@ Marine board ceiling requires thin oil-based paint (not in the kitchen or firepl
 
 Usually, you will need to carry out a drop test on the ceiling surface to ascertain the effectiveness of a given paint concentration before the application process commence. Moreover, its required that you follow the manufacturers instructions appropriately when preparing the paint.
 
-## # d. Actual Painting
+###  d. Actual Painting
 
 To carry out the painting process, you need to follow some of the following steps to the dot. The steps differ slightly (as explained) according to primary ceiling material. You may also use the double coating or laying tactic through spraying on different courses while spraying your walls and selling. **1.
 
@@ -102,7 +102,7 @@ Importantly, spray painting is faster and improves stickiness ability due to ext
 
 > See Also: > Brushes for Latex Paint
 
-## # e. Paint finishing
+###  e. Paint finishing
 
 Once the entire ceiling is painted, inspect keenly on points that may have roller marks. Remove any existing roller marks using a soft nap roller you need a 1/2 roller nap with a fine material finish for efficient performance. When eliminating roller marks, run the soft nap roller gently on the section with roller marks until they are eliminated.
 
@@ -110,7 +110,7 @@ A small sized paint roller is the best for roller marks elimination it reduces d
 
 Leave the newly painted surface to cure naturally without any warming or overcooling. **NB: ** Never sand painted ceiling trying to remove roller marks sanding creates scratches and dislodge primary material eventually.
 
-# # Safety Measures and Precaution to Consider When Painting a Ceiling
+##  Safety Measures and Precaution to Consider When Painting a Ceiling
 
 Successful painting without roller marks is not until safety measures, and precautions are put in place. Consider some of these precautions and safety measures when painting your ceiling: 1. Never use a ladder without a ground stopper when painting prevents sliding. 2. Wear painting gears always face mask, respirator, hand gloves, overalls, boots, andeye goggles for painting 3.
 
@@ -124,23 +124,23 @@ The floor should be covered with a plastic cover or newspaper to prevent drippin
 
 Clean the paint-stained section with water and soap or paint remover immediately before it dries out 11. Over diluting will cause excess drips and drains when painting. 12. Always follow the manufacturers instructions when preparing paint. 13. The kitchen ceiling and fireplace ceiling should never be painted with oil-based paint may catch fire. NB: Consider paint sprayer as the best alternative for excellent ceiling paint without roller marks.
 
-# # How to Remove Roller Marks from Dried Paint from the Ceiling
+##  How to Remove Roller Marks from Dried Paint from the Ceiling
 
 Dried roller marks may be challenging to repair due to continuous reinforcement of the paint and primary surface material. However, you can still achieve a classic finish if you follow the steps below:
 
-## # a. Mark and clean the area with roller marks
+###  a. Mark and clean the area with roller marks
 
 You will need to identify the section with roller marks and scrap it off gently using the scraper. Make sure you dont extend too far on the adjacent area in the process.
 
-## # b. Prime The Clean Area
+###  b. Prime The Clean Area
 
 Primer is usually applied for the porous ceiling and new drywall ceiling to improve stickiness strength. Besides, some water-based paint will always need a primer (as per the manufacturers instructions) before the actual application.
 
-## # c. Prepare the paint and apply
+###  c. Prepare the paint and apply
 
 Dilute or thin paint appropriately and apply gently using a soft paintbrush or a roller on the cleaned section. To achieve the best finish result, use the paint sprayer instead the sprayed paint perfectly merges with the adjacent old paint layer without any roller marks. Leave the painted surface to cure naturally.
 
-# # Conclusion
+##  Conclusion
 
 Roller marks are common problems experienced when painting a ceiling. Suppose you want to succeed in painting a ceiling without roller marks? In that case, you will have to consider the following step appropriately: surface preparation/cleaning, painting tools selection, paint preparation, actual painting, and paint finish techniques keenly.
 

@@ -23,7 +23,7 @@ Understanding the optimal timing for different types of trees and shrubs is cruc
 
 This guide will delve into why late winter is often considered the ideal time for many pruning tasks, provide specific guidelines for various plant categories, and outline essential pruning tasks that can be performed year-round, ensuring your trees and shrubs thrive.
 
-# # Why Late Winter Pruning Is Best
+##  Why Late Winter Pruning Is Best
 
 For many deciduous trees and shrubs, late winter is widely considered the best time for significant pruning. Here's why:
 
@@ -39,11 +39,11 @@ For many deciduous trees and shrubs, late winter is widely considered the best t
 
 For evergreens, the principle of pruning during less active growth periods still applies.
 
-# # Pruning Guidelines by Plant Type
+##  Pruning Guidelines by Plant Type
 
 The general rule is to prune after flowering for plants that bloom on old wood, and before new growth for plants that bloom on new wood.
 
-## # 1. Spring-Flowering Shrubs (Bloom on Old Wood)
+###  1. Spring-Flowering Shrubs (Bloom on Old Wood)
 
 * **Examples: ** Lilac, Forsythia, Azalea, Rhododendron, Weigela, Mock Orange, Quince. * **Timing: ** **Immediately after they finish flowering in spring. ** * **Why: ** These plants set their flower buds on the previous year's growth. If you prune them in late winter or early spring, you will be cutting off most of their flower buds, resulting in few to no blooms that year.
 
@@ -51,19 +51,19 @@ Pruning right after flowering allows them to put energy into forming new growth 
 
 * **Exceptions: ** For general shaping or removal of dead/diseased branches, a light trim can be done anytime.
 
-## # 2. Summer- or Fall-Flowering Shrubs (Bloom on New Wood)
+###  2. Summer- or Fall-Flowering Shrubs (Bloom on New Wood)
 
 * **Examples: ** Hydrangea paniculata (panicle hydrangea), Hydrangea arborescens (smooth hydrangea), Rose of Sharon (Hibiscus syriacus), Spiraea (some varieties like 'Goldflame'), Summersweet (Clethra alnifolia), Butterfly Bush (*Buddleja davidii*). * **Timing: ** **Late winter or early spring, before new growth begins. ** * **Why: ** These plants form their flower buds on the current season's growth.
 
 Pruning them while dormant encourages strong new growth that will produce abundant flowers later in the year. * **Specific Hydrangea Note: ** For *Hydrangea macrophylla* (bigleaf hydrangea, e. g. , 'Endless Summer'), pruning depends on the specific cultivar. Some bloom on both old and new wood; generally, prune lightly after flowering, or in late winter only to remove dead wood.
 
-## # 3. Deciduous Trees (Most Shade Trees, Fruit Trees)
+###  3. Deciduous Trees (Most Shade Trees, Fruit Trees)
 
 * **Examples: ** Oak, Maple, Elm, Ash, Crabapple, Apple, Pear, Cherry (fruiting types often have specific summer pruning for fruit production). * **Timing: ** **Late winter while dormant. ** * **Why: ** This is the ideal time for structural pruning, removing dead/diseased branches, thinning the canopy, and shaping the tree. As noted earlier, sap bleed is minimal, and disease risk is low.
 
 * **Exceptions: ** Avoid pruning trees like Maple or Birch in early spring when sap is heavily flowing, as they will "bleed" excessively. Prune these in late summer or early fall if structural pruning is needed outside of late winter.
 
-## # 4. Evergreen Trees and Shrubs
+###  4. Evergreen Trees and Shrubs
 
 * **Examples: ** Conifers (Pine, Fir, Spruce, Juniper, Arborvitae), Boxwood, Holly, Rhododendron (some are evergreen), Camellia. * **Timing: ** * **Conifers: ** Light tip pruning for shape can be done in **late winter to early spring** before new growth starts, or in **mid-summer** after the initial flush of growth has hardened off. Avoid heavy pruning into old wood on most conifers, as they may not regenerate.
 
@@ -71,11 +71,11 @@ Pruning them while dormant encourages strong new growth that will produce abunda
 
 ): ** Typically pruned in **late spring after the flush of new growth** has hardened, or in **late summer/early fall**. Avoid late fall pruning, as new growth stimulated by the pruning might not harden off before cold weather, leading to damage. * **Flowering Evergreens (Rhododendron, Camellia): ** Prune **immediately after flowering** to avoid cutting off next year's blooms.
 
-## # 5. Roses
+###  5. Roses
 
 * **Timing: ** **Early spring**, just as buds begin to swell. Remove dead, diseased, or crossing canes and shape the plant. * **Repeat Bloomers: ** Deadhead spent blooms throughout the season to encourage continuous flowering.
 
-# # Pruning Tasks for Any Time of Year (The 3 D's)
+##  Pruning Tasks for Any Time of Year (The 3 D's)
 
 Some pruning tasks are essential for plant health and can, and should, be performed as soon as you notice them, regardless of the season.
 
@@ -83,7 +83,7 @@ Some pruning tasks are essential for plant health and can, and should, be perfor
 
 **Damaged: ** Prune out any broken, cracked, or otherwise damaged branches (e. g. , from storms, animals, or mechanical injury). These weakened spots can be entry points for pests or disease.
 
-# # Equipment for Trimming Trees and Shrubs
+##  Equipment for Trimming Trees and Shrubs
 
 Having the right tools, and keeping them sharp and clean, makes pruning easier and healthier for your plants.
 
@@ -93,7 +93,7 @@ Having the right tools, and keeping them sharp and clean, makes pruning easier a
 
 * **Disinfectant: ** For cleaning blades between cuts, especially when dealing with diseased wood.
 
-# # So, Is Late Winter the Best Time to Prune Trees and Shrubs?
+##  So, Is Late Winter the Best Time to Prune Trees and Shrubs?
 
 **For the majority of deciduous trees and shrubs that flower in summer or fall, or for structural pruning of non-flowering deciduous trees, yes, late winter is indeed the best time. ** It aligns with the plant's dormancy, promotes vigorous spring growth, and minimizes disease risk.
 
@@ -101,7 +101,7 @@ However, for spring-flowering shrubs, the timing shifts to immediately after the
 
 Understanding these nuances ensures that your pruning efforts contribute positively to the health, beauty, and longevity of your garden's trees and shrubs.
 
-# # FAQs About Pruning Trees and Shrubs
+##  FAQs About Pruning Trees and Shrubs
 
 **Q: Will pruning kill my tree or [shrub](https: //pestpolicy. com/can-i-plant-trees-and-shrubs-in-late-fall-or-winter/)? ** A: Proper pruning, even heavy pruning (like rejuvenation pruning), should not kill a healthy [tree](https: //pestpolicy. com/10-trees-to-grow-in-containers/) or shrub.
 

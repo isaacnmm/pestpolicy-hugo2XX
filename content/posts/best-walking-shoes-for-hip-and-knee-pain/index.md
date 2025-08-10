@@ -20,9 +20,9 @@ However, investing in the correct footwear for Hip and Knee Pain will enable you
 
 Here is a compilation of some of the top Walking Shoes for Hip and Knee Pain. Check them out.
 
-# # Review: 7 Best Walking Shoes for Hip and Knee Pain
+##  Review: 7 Best Walking Shoes for Hip and Knee Pain
 
-## # [1. Brooks Men's Addiction Walker Walking Shoes](https://www.amazon.com/dp/B0012IJPUK/tag=p-policy-20)
+###  [1. Brooks Men's Addiction Walker Walking Shoes](https://www.amazon.com/dp/B0012IJPUK/tag=p-policy-20)
 
 The first spot for the Best Walking Shoes for Hip and Knee Pain goes to Brooks Men's Addiction Walker. This shoe helps to alleviate discomfort and pain thanks to its comfortable and supportive construction.
 
@@ -38,7 +38,7 @@ The upper of Brooks Addiction Walker features a soft and durable full-grain leat
 
 Pros - Comfortable - Relieves hip and knee pain - Excellent arch support - Durable - Allows use of custom orthotics Cons - A reviewer complained the shoe looks clunky Also Read: Best Shoes for Standing All Day with Bad Knees
 
-## # [2. ASICS Women's Gel-Cumulus 22 Running Shoes](https://www.amazon.com/dp/B082Q3DXLJ/tag=p-policy-20)
+###  [2. ASICS Women's Gel-Cumulus 22 Running Shoes](https://www.amazon.com/dp/B082Q3DXLJ/tag=p-policy-20)
 
 ASICS Women's Gel-Cumulus 22 is one of the best Walking and Running Shoe for Hip and knee pain. Its durable, comfortable, and well-cushioned. its also one of the best neutral running shoes and its ideal for people who are looking for a supportive, lightweight, and flexible running or walking shoe.
 
@@ -56,7 +56,7 @@ Furthermore, the outsole incorporates deep flex grooves that enhance the shoes t
 
 Pros - Durable outsole - Highly comfortable - Supportive - Excellent cushioning - Lightweight - Breathable - Flexible Cons - Runs small according to some users Also Read: Best Shoes for Bunions and Plantar Fasciitis
 
-## # [3. Dockers Men's Overton Oxford](https://www.amazon.com/dp/B07F8W9G7K/tag=p-policy-20)
+###  [3. Dockers Men's Overton Oxford](https://www.amazon.com/dp/B07F8W9G7K/tag=p-policy-20)
 
 Dockers Men's Overton shoes are a perfect choice for anyone looking for top shoes for hip and knee pain. These mens walking shoes have a wide array of features and technologies that make them stand out among the rest.
 
@@ -70,7 +70,7 @@ The outsole is all rubber with an excellent tread pattern that provides good tra
 
 Pros - Comfortable - Sturdy - Wide widths available - Repels stains and liquids - Durable rubber sole Cons - A bit heavy according to some reviews
 
-## # [4. Skechers Women's D'Lites Sneaker](https://www.amazon.com/dp/B016R0KIGM/tag=p-policy-20)
+###  [4. Skechers Women's D'Lites Sneaker](https://www.amazon.com/dp/B016R0KIGM/tag=p-policy-20)
 
 The D'Lites Sneaker is everyday wear that combines comfort and high performance. Sufferers of hip and knee pain swear by the relief they get after spending hours on their feet wearing this sneaker.
 
@@ -84,7 +84,7 @@ The rugged outsole enhances the shoes unique appeal. The design and shape of thi
 
 Pros - Alleviates knee and hip pain when walking - Comfortable - Sturdy - Available in various color options - Leather upper - Well-cushioned Cons - Dont accommodate orthotics
 
-## # [5. Saucony Men's Cohesion 10 Running Shoe](https://www.amazon.com/gp/product/B01HOADVCW/tag=p-policy-20)
+###  [5. Saucony Men's Cohesion 10 Running Shoe](https://www.amazon.com/gp/product/B01HOADVCW/tag=p-policy-20)
 
 Saucony Men's Cohesion 10 is a perfect choice for those suffering from hip and knee pain. its a lightweight running shoe with features that promote comfort and support.
 
@@ -100,7 +100,7 @@ The outsole also features a Tri-Flex configuration that encourages close foot gr
 
 Pros - Comfortable - Durable - Lightweight - Affordable - Supportive - Ideal for all-day standing - Available in various color options Cons - Some users complain that the shoe runs small
 
-## # [6. Women's Comfort Orthopedic Arthritis Diabetic Orthotic sneaker](https://www.amazon.com/gp/product/B01N0LDBV7/?tag=p-policy-20)
+###  [6. Women's Comfort Orthopedic Arthritis Diabetic Orthotic sneaker](https://www.amazon.com/gp/product/B01N0LDBV7/?tag=p-policy-20)
 
 The Women's Comfort Orthopedic is an excellent shoe for various health problems. It relieves various issues including Plantar Fasciitis, foot pain, Neuropathy, Knee and hip pain among others.
 
@@ -116,7 +116,7 @@ This womens orthopedic walking shoe also features a wide toe box that gives a no
 
 Pros - Extended width options - Durable - Accommodates orthotics - Relieves various foot conditions and health in general - Provides good cushioning - Offers arch support Cons - A reviewer complained that the sole had worn out after a few months of wearing
 
-## # [7. Dr. Comfort Men's Therapeutic Diabetic Boot](https://www.amazon.com/dp/B00ZASN1TO/tag=p-policy-20)
+###  [7. Dr. Comfort Men's Therapeutic Diabetic Boot](https://www.amazon.com/dp/B00ZASN1TO/tag=p-policy-20)
 
 The Dr. Comfort Men's Therapeutic boot is a comfortable, lightweight, and stylish boot thats ideal for work or casual wear. Dr. Comfort is an orthopedic shoe that helps to relieve many conditions including diabetes, Swollen Feet, hip, and knee pain among others.
 
@@ -136,7 +136,7 @@ The shoe also has a protective toe box that offers additional protection to the 
 
 Pros - Leather and suede upper - Durable - Comfortable - Supportive - Relieves pains and discomforts - Spacious toe box Cons - Some people complain that these shoes are uncomfortable
 
-# # Conclusion
+##  Conclusion
 
 I hope that this review on the best walking shoes for hip and knee pain has been helpful. All the reviewed products are some of the best on the current market and choosing any of them will help with your health condition.
 

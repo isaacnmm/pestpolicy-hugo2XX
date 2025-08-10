@@ -21,7 +21,7 @@ I am sitting here in Suzies house, and she is complaining about her slow drainin
 
 However, to prevent shower drain clogs from hair using a shower strainer over the drain or install suction cups to block hair strands. Check these drain cleaners.
 
-# # Step 1:Pull up the hair using a wire coat hanger (with a hook)
+##  Step 1:Pull up the hair using a wire coat hanger (with a hook)
 
 First, put on a pair of rubber gloves to help you avoid those nasty bacteria down the drain. Then, unscrew and lift the shower strainer to leave the drain open. Next, youll need to straighten the wire coat hanger, bend one of its ends into a small hook - or use a plumbers drain snake. Now, push the wire down the shower drain for a few inches before twisting it round to allow it to catch hair clogs.
 
@@ -31,7 +31,7 @@ Now run water down the drain to check whether its draining quickly. Repeat the p
 
 However, hold the wire tightly so that it wont get stuck in the gutter.
 
-# # Step 2: Pour down a shower drain cleaner.
+##  Step 2: Pour down a shower drain cleaner.
 
 First things first, read the usage instructions on the liquid cleaner bottle. This will tell you the number of chemicals to use and the time you'll need to allow for action. Also, ensure you wear goggles and gloves. **Caution**: Avoid mixing the chemicals as this might result in the production ofpoisonous gas. ***1. For the Liquid Drain cleaner: *** Now hold the bottle with the liquid cleaner and open its top.
 
@@ -41,7 +41,7 @@ However, when you notice that the shower [drain does not clear enough](https: //
 
 For the granulated crystal cleaner, clear all the stagnant water in the shower and drain. Then pour about 2-3 tablespoons of the granular crystal cleaner into the shower drain. Finally, pour about cold water (about two glasses) into the drain. Then leave the chemical to act for 35-50 minutes, after which youll only need to pour cold water to flash all the hair and debris in the shower drain.
 
-# # How to prevent clogging of your shower draining
+##  How to prevent clogging of your shower draining
 
 Definitely, after unclogging your shower drain, youll now require to stop any factors that could take you back to the slow-moving drain mess. Therefore, in this section, Ill dig into how you can keep your drain cleaner longer and thus have an enjoyable shower time. **1. Replace worn-out shower strainers: ** First things first, you need to keep your protection system up all the time.
 

@@ -19,13 +19,13 @@ Does [baking](https: //pestpolicy. com/does-baking-acid-kill-crickets/) soda kil
 
 Following this simple method will bring you the best results and ensure that the fleas are eradicated from your home for gooda technique for killing fleas around the house with baking soda.
 
-# # Details: Does Baking Soda Kill Fleas? Natural Fleas Control
+##  Details: Does Baking Soda Kill Fleas? Natural Fleas Control
 
 In short, the answer to this question is yes, baking soda can be used as an effective way to [kill and remove fleas](https: //pestpolicy. com/does-salt-kill-fleas/) from home. One thing that you should bear in mind is that baking soda cannot get shot with [fleas](https: //extension. psu. edu/cat-fleas) when it is used on its own. However, when used in conjunction with salt, it can become a fleas worst nightmare.
 
 This is a great natural way to treat any home with an infestation of fleas, and it is a perfect choice for homes with children where the use of pesticides and sprays might not be 100% safe. However, it is worth remembering that you will need a lot of the mixture if you want the best results. Read Also: Do Fleas Stay On Humans?
 
-# # How Does Baking Soda Kill Fleas?
+##  How Does Baking Soda Kill Fleas?
 
 When mixed with salt, baking soda can quickly kill fleas due to its ability to dry them out. By taking away the moisture found in a flea, they cannot survive since they cannot replenish it as quickly as the baking soda can take it away. The same can be said for the treatment of flea eggs using this solution.
 
@@ -33,7 +33,7 @@ The eggs, which are often found in carpets and around the home after falling off
 
 Since many pet owners will treat the animal and forget that many eggs will have been distributed around the home, but you can rest assured that baking soda will dehydrate the flea eggs, putting an end to the problem once and for all.
 
-# # How to Use Baking Soda to Kill Fleas
+##  How to Use Baking Soda to Kill Fleas
 
 There are a variety of ways in which you can use baking soda to kill any fleas in the home; you can treat carpets, soft furnishing, and furniture as well as treat your pet. - If it is possible, you should remove any animals from the room you are treating. This treatment will not cause any significant harm to your pet, but the salt can be uncomfortable if it gets into any open wounds.
 
@@ -45,6 +45,6 @@ The treatment should be repeated a few days later as a precautionary measure to 
 
 You can repeat the process a third time if you deem this to be necessary. This is a method for killing fleas on your pet with baking soda. While there is some advice suggesting that you can use baking soda on your pet to remove fleas, it is a much more sensible idea to use diatomaceous earth on the animal itself. This is a tried and tested method of killing fleas on your pet.
 
-# # Conclusion
+##  Conclusion
 
 There are many [natural and inexpensive ways to kill fleas](https: //pestpolicy. com/does-apple-cider-vinegar-kill-fleas/) when you find them lodging in your home. Also, other natural methods include diatomaceous earth for fleas. One of these ways is using a baking soda and salt mixture, which is very effective at targeting fleas within carpets and furnishings.

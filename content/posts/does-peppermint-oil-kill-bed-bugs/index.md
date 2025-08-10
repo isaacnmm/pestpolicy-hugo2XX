@@ -23,7 +23,7 @@ But in summary peppermint oil is an effective and safe remedy to repel and kill 
 
 Lets get started with the peppermint oil!
 
-# # Details: Does Peppermint Oil Kill Bed Bugs?
+##  Details: Does Peppermint Oil Kill Bed Bugs?
 
 Peppermint oil has been used for treating various conditions such as common cold, digestive problems, nausea, irritable bowel syndrome. It has also been used topically (skin application Rose bracket for issues such as itching, joint pain, muscle aches, and headache. - Peppermint is also used in aromatherapy for reducing stress, enhancing mental function, reducing pain, and for treatment of colds and coughs.
 
@@ -33,15 +33,15 @@ Important to us, in this article, is that peppermint oil is suitable for control
 
 So, in summary, peppermint oil will both repel and kill bed bugs due to the high metal content in its scent. - The burning sensation you feel on your skin when you apply peppermint oil topically will cause death to bed bugs. Peppermint oil therefore may be classified as a contact pesticide that exterminates bed bugs.
 
-# # Will Peppermint oil (menthol) Repel the Bed Bugs?
+##  Will Peppermint oil (menthol) Repel the Bed Bugs?
 
 Bed bugs hate the harsh scent of natural essences such as essential oils including peppermint oil. - Specifically, peppermint oil will produce a very harsh and strong scent that the bed bugs will be unable to withstand. I advise that you spray generous amounts of peppermint oil on the mattress and bed frame. - This will help repel or kill the bed bugs and allow you to enjoy a great sleep.
 
 Related: Bed bug mattress covers But peppermint oil is a short-term and temporary solution for the bed bugs since these pests will come back when the oils' scent is dissipated.
 
-# # How to make the Peppermint Oil to Kill Bed Bugs?
+##  How to make the Peppermint Oil to Kill Bed Bugs?
 
-## # Method 1: Peppermint Oil + Water
+###  Method 1: Peppermint Oil + Water
 
 The first method that I recommend for mixing peppermint oil to kill bed bugs is; - Mix 30 ml of water and 10 drops of peppermint oil in a bottle - Next, shake the bottom with peppermint oil + water thoroughly Now it's time to spray the peppermint oil onto the mattresses. So, strip the various bedding on the bed and spray the peppermint mixture onto the mattress.
 
@@ -53,7 +53,7 @@ Also, spray the pest-repellent on home furniture such as couches, and don't forg
 
 - NB: To make the bed bug repellent even stronger, you can add some lemongrass (just a few drops).
 
-## # Method 2: Peppermint Oil + Rubbing Alcohol
+###  Method 2: Peppermint Oil + Rubbing Alcohol
 
 The next level for mixing the peppermint oil will require that you add 12 drops of the oil and [mix it with rubbing alcohol](https: //pestpolicy. com/does-rubbing-alcohol-kill-bed-bugs/) (1 oz). - Rubbing alcohol will act as a drying agent and thus kill the bed bugs through dehydration. Therefore, the mixture of rubbing alcohol and peppermint oil will be more effective compared to that with water plus the oil.
 
@@ -63,23 +63,23 @@ The pests will lay many eggs for a short time and that is how your house may bec
 
 The peppermint oil and rubbing alcohol will thus be very important as they will kill the bed bugs before the bed bugs hatch.
 
-# # Alternative Remedies to Kill Bed Bugs
+##  Alternative Remedies to Kill Bed Bugs
 
 Peppermint oil is a good repellent and killer for bed bugs but there are alternatives that you can use.
 
-## # 1. Diatomaceous earth
+###  1. Diatomaceous earth
 
 Diatomaceous Earth will be a great and safe remedy you can use as an alternative to chemical pesticides. - Diatomaceous earth is made of non-chemical grains (sand-like) that are made of silicon and it is a safe alternative. Despite that diatomaceous Earth is abrasive to bed bugs, it will be safe to use around pets and kids. So, sprinkle the Diatomaceous Earth in the house around the window sills, furniture, and bed.
 
 Also, target the crevices and cracks on the baseboards and floors since some bed bugs will hide in these locations.
 
-## # 2. Silica Gel
+###  2. Silica Gel
 
 Another alternative to peppermint oil will be using silica gel as it is also cheap and effective. - For context, you will find silica gel inside small packets in products such as shoes and bottles to reduce mold growth. So, simply get the silica gel from the packets and grind it to form a powder. Next, sprinkle the silica gel powder on locations that you believe the bedbugs hide most times.
 
 Once the silica gel touches the bed bug, it will damage the pest's exoskeleton leading to dehydration and death.
 
-## # 3. Steam or Heat Treatment
+###  3. Steam or Heat Treatment
 
 Another safe and effective remedy for killing bed bugs is through steam or heat treatment. - Toss all the curtains, clothing pillowcases, mattress covers, and bedsheets into the washing machine with the highest temperature setting allowable. The high temperature and steam will kill the bed bugs that are trapped inside the fabric.
 
@@ -87,6 +87,6 @@ Another safe and effective remedy for killing bed bugs is through steam or heat 
 
 But not all fabric materials can be tossed into your washing machine. Objects such as stuffed animals, toys, and coaches require another method of applying hot water or steam. - This is where abed bug steamerwill come in handy as it will help kill the bed bugs all items that can't be thrown into the washing machine.
 
-# # Conclusion
+##  Conclusion
 
 So, will peppermint oil really kill the bed bugs? Yes, peppermint oil is a common pest repellent and its chemical power is strong to allow it to repel or kill bed bugs. - But the caveat is you must spray the peppermint oil directly on the bed bug's body - to hit its skeleton. - This is to say that if you don't spray them play on the bed bugs' bodies, these pests can walk safely on services that have been sprayed with peppermint oil.

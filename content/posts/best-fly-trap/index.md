@@ -21,7 +21,7 @@ It is almost impossible to keep them from invading your kitchen, and thats where
 
 # **In a Rush? View top Best Fly Traps**
 
-# # [1. Our #1 Pick: RESCUE! Disposable Fly Trap](https://www.amazon.com/dp/B07DD28F84/?tag=p-policy-20)
+##  [1. Our #1 Pick: RESCUE! Disposable Fly Trap](https://www.amazon.com/dp/B07DD28F84/?tag=p-policy-20)
 
 This reusable fly trap from Rescue is guaranteed to take care of the fly problem around your house. Containing no chemicals and, therefore, non-toxic to human beings, this is absolutely the perfect solution to those cringy creatures flying around your house. - It is also very affordable.
 
@@ -31,7 +31,7 @@ It can be used away from the house as it attracts and traps flies within a range
 
 Related: Best Fly Spray for Horses.
 
-# # **2. #2 Pick: Victor Safer M380-AMAZ Reusable Fly Trap**
+##  **2. #2 Pick: Victor Safer M380-AMAZ Reusable Fly Trap**
 
 Having been in existence for over 100 years and survived stiff competition all through, Victor is one of the leading brands when it comes to pest control. - It is the maker of the eco-friendly M380 Fly Magnet Reusable Trap known to kill different types of flies, including houseflies and blowflies. - The flies will drown after adding water to the trap to activate the bait that attracts the flies.
 
@@ -39,7 +39,7 @@ There is a marker to guide you on how much water to add to the trap.
 
 It is reusable a few times, and the bait is replaceable once it loses its smell. The bait attracts flies with its sweet aroma, so be prepared to dispose of many dead flies. Containing no harmful chemicals, the trap can be used even by people with allergies and is safe to use around children and livestock. Dispose of it carefully once done to avoid environmental pollution. Read Also: Best Roach killers.
 
-# # [3. #3 Pick: BEAPCO Fruit Fly Live Traps, Non-Toxic Indoor](https://www.amazon.com/dp/B00CRYOPMQ/?tag=p-policy-20)
+##  [3. #3 Pick: BEAPCO Fruit Fly Live Traps, Non-Toxic Indoor](https://www.amazon.com/dp/B00CRYOPMQ/?tag=p-policy-20)
 
 Coming in a pack of 6 with each trap pod lasting up to 30 days, these fruit fly traps are the way to go for a sustained attack against house flies. - The traps come in clear glasses so that you can see the results without interfering with the traps. It is the perfect answer for indoor fly problems in offices, restaurants, and homes as the solution used to lure flies to the trap is non-toxic.
 
@@ -47,7 +47,7 @@ The trap is designed so that the solution doesnt leak out even if the trap is tu
 
 Examine the outlined [homemade fruit fly traps](https: //pestpolicy. com/homemade-fruit-fly-trap/).
 
-# # [4. Gardner FLY WEB FLY TRAP](https://www.amazon.com/dp/B0006OIZN4/?tag=p-policy-20)
+##  [4. Gardner FLY WEB FLY TRAP](https://www.amazon.com/dp/B0006OIZN4/?tag=p-policy-20)
 
 This trap will add a stylish look to your kitchen with its sleek design. It is also entirely safe for use around the kitchen. You can place the bait inside the container and wait for it to work its magic. It is mostly used to trap fruit flies. This fly trap is also reusable, but you will have to make your bait from apple cider and vinegar after running out of the FlyFix liquid bait.
 
@@ -55,6 +55,6 @@ It is sweet-smelling and will attract the flies, just like the liquid that initi
 
 However, you will have to seal the trap properly as the liquid bait can leak out of the container. It is not a common occurrence, though.
 
-# # Conclusion
+##  Conclusion
 
 Flies dont have to be a bother when you can get a remedy for their infestations. Different fly traps work for different types of flies, so it is essential to know which kind of fly you are dealing with before settling on a given remedy.

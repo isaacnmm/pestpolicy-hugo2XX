@@ -18,9 +18,9 @@ Lawn care doesnt have to be an endeavour that blows your budget or breaks your b
 
 If you own a small or medium lawn, the ideal tool would be a self-propelled lawnmower that you can easily move about the lawn. In addition, these units feature a durable frame and cutting blade which guarantees an increased lifespan even with regular usage.
 
-# # Run Down: 7 Best Self Propelled Lawn [Mowers](https://pestpolicy.com/best-lawn-mower-for-cutting-edges/) Under 300 in 2025
+##  Run Down: 7 Best Self Propelled Lawn [Mowers](https://pestpolicy.com/best-lawn-mower-for-cutting-edges/) Under 300 in 2025
 
-## # [1. Lawn-Boy 17732 21 [self](https://pestpolicy.com/best-self-defense-weapon-besides-gun/)-propelled mower](https://www.amazon.com/dp/B00H8GLL5M/?tag=p-policy-20)
+###  [1. Lawn-Boy 17732 21 [self](https://pestpolicy.com/best-self-defense-weapon-besides-gun/)-propelled mower](https://www.amazon.com/dp/B00H8GLL5M/?tag=p-policy-20)
 
 This unit is powered by a 149cc engine which is not ideal for large yards but it offers good value for money.
 
@@ -34,7 +34,7 @@ Pros: - Its 149cc engine is highly economical - It offers excellent traction and
 
 Cons: - It has a small collection bag
 
-## # [2. Yard Machines 21 self-propelled mower](https://www.amazon.com/dp/B06WVZTHQ7/?tag=p-policy-20)
+###  [2. Yard Machines 21 self-propelled mower](https://www.amazon.com/dp/B06WVZTHQ7/?tag=p-policy-20)
 
 Powered by a 159cc gasoline engine, this unit also features an auto-choke system for easy and instant start-up of the mower while eliminating the need for priming.
 
@@ -46,7 +46,7 @@ Its 159cc engine provides sufficient power to provide optimal performance wherea
 
 Cons: - It is not ideal for hilly terrain
 
-## # [3. Troy Bilt TB 105 self-propelled mower](https://www.amazon.com/dp/B01NCZDWI2/?tag=p-policy-20)
+###  [3. Troy Bilt TB 105 self-propelled mower](https://www.amazon.com/dp/B01NCZDWI2/?tag=p-policy-20)
 
 This mower is features a 159cc engine which offers strong and long lasting performance which is just what you need for all your gardening and lawn care maintenance goals.
 
@@ -60,7 +60,7 @@ Pros: - It features a superior design and a premium and stylish color design - I
 
 Cons: - Not ideal for large lawns
 
-## # [4. Troy-Bilt TB37O 163cc 21 RWD self-propelled mower](https://www.amazon.com/dp/B00QMWEDJO/?tag=p-policy-20)
+###  [4. Troy-Bilt TB37O 163cc 21 RWD self-propelled mower](https://www.amazon.com/dp/B00QMWEDJO/?tag=p-policy-20)
 
 Another Troy Bilt model makes it to the top of the list due to its outstanding design and performance.
 
@@ -76,7 +76,7 @@ Pros: - It features an outstanding design and vibrant colours - It is relatively
 
 Cons: - Not ideal for hilly and rocky terrains
 
-## # [5. Troy-Bilt TB220 159cc 21 self-propelled mower](https://www.amazon.com/dp/B01N5SHP7Y/?tag=p-policy-20)
+###  [5. Troy-Bilt TB220 159cc 21 self-propelled mower](https://www.amazon.com/dp/B01N5SHP7Y/?tag=p-policy-20)
 
 This unit features a high wheel design with the rear wheels measuring at 11 whereas the front wheels are 8 in size.
 
@@ -88,7 +88,7 @@ This lawn mower offers the user 3 options of managing the cut grass: side discha
 
 Cons: - It is relatively noisy
 
-## # [6. PowerSmart DB2321S 21 161cc lawn mower (self-propelled)](https://www.amazon.com/dp/B07P5PS1ZB/?tag=p-policy-20)
+###  [6. PowerSmart DB2321S 21 161cc lawn mower (self-propelled)](https://www.amazon.com/dp/B07P5PS1ZB/?tag=p-policy-20)
 
 The compact nature of this PowerSmart model makes it suitable for small yards and tight spaces. Additionally, it features a-three-cutting-system including a discharge option, collection rear bag and mulching capability.
 
@@ -100,7 +100,7 @@ Pros: - It features an easy pull-start technology - The cutting deck is highly d
 
 Cons: - It is unsuitable for large lawns
 
-## # [7. DB8620 3-in-1 gasoline self-propelled lawn mower](https://www.amazon.com/dp/B072J2BW2N/?tag=p-policy-20)
+###  [7. DB8620 3-in-1 gasoline self-propelled lawn mower](https://www.amazon.com/dp/B072J2BW2N/?tag=p-policy-20)
 
 This 20 lawn mower is ideal for tight spaces and smaller yards. It features 3 cutting systems whereas its lightweight and efficient design features and the rear wheel design system will allow you to mow in rough and uneven terrains.
 
@@ -112,27 +112,27 @@ Pros: - The RWD system allows to mow in tough and uneven terrains - Its lightwei
 
 Cons: - It is unfriendly for the environment because it is gasoline-powered
 
-# # Considerations for the Best Self-Propelled Lawnmowers under 300
+##  Considerations for the Best Self-Propelled Lawnmowers under 300
 
-## # 1. Forward or rear-wheel drive system
+###  1. Forward or rear-wheel drive system
 
 Rear-wheel mounted mowers offer more manoeuvrability as compared to forward wheel drive system because the lawnmower is propelled from behind where the machines weight is concentrated. On the other hand, the front-wheel-drive system is not ideal for manoeuvrability but it barely poses any challenges when mowing the lawn.
 
-## # 2. Size of the lawn
+###  2. Size of the lawn
 
 If you own a large lawn, self-propelled mowers are not ideal. Accordingly, self-propelled lawn mowers are considered to be more ideal for small and medium-sized lawns. The terrain - Depending on how rocky or hilly the lawn terrain is, you might want to go for a gas-powered lawn mower because it has more torque than electric-powered models.
 
 In addition, a self-propelled mower with different speed settings is considered more ideal for tough terrains.
 
-## # 3. Size of the wheel
+###  3. Size of the wheel
 
 This is an important consideration in the sense that larger wheels allow you to manoeuvre corners more easily as compared to smaller wheels. At the same time, a large wheel size offers enough ground clearance to allow you to mow through tough terrains. In addition, users should go heavy-duty wheels rather than plastic wheels to avoid damage.
 
-## # 4. Adjustable handlebars
+###  4. Adjustable handlebars
 
 No matter the height of the user, most self-propelled mowers feature adjustable handlebars which ease storage and portability. Blade override system - This feature saves the user the stress of having to restart the equipment all the time. One can get stones and other obstacles out of the way by taking their hand off the lever.
 
-## # 5. Reliability
+###  5. Reliability
 
 As compared to push mowers, self-propelled mowers are more likely to break down because they contain many moving parts. Different models have different reliability issues. Whereas Honda is deemed as the most reliable brand whereas Snapper mowers have a poor reputation for breaking down. Power - The power of the self-propelled mower is an important consideration depending on how hilly the terrain is or the thickness of the grass.
 
@@ -140,6 +140,6 @@ A 160cc engine capacity is considered ideal for such conditions.
 
 At the same time, powerful engines tend to be less economical if you are dealing with a small budget.
 
-# # Conclusion
+##  Conclusion
 
 After searching through the available self-propelled models, my ideal choice is the Troy-Bilt TB37O 163cc 21 RWD self-propelled mower. This units 8 by 8 wheels are heavy duty and designed for tackling the toughest terrains. A four-speed setting offers optimal performance in the toughest conditions.

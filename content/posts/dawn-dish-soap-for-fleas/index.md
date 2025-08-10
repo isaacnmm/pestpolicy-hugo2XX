@@ -21,7 +21,7 @@ Although it can easily remove grease and oil from wild birds, the flea-killing p
 
 * - *Also, Dawn dish soap reduces the surface tension of water, which means that when you use it to bathe your pet, fleas lose their ability to stay afloat on the water's surface. This causes them to sink and drown - drowning agent. * Let's get into the details! **But first, check these alternative flea shampoos for cats and dogs. **
 
-# # How Will Dawn Dish Soap Kill Fleas?
+##  How Will Dawn Dish Soap Kill Fleas?
 
 Dawn dish soap works to clean oil, grime, and grease on wild birds and pets through a chemical reaction called emulsification.
 
@@ -39,7 +39,7 @@ Notably, ordinarily, fleas have a waxy layer, and their small size prevents them
 
 - Fleas trigger some skin irritation, anemia (blood loss), or may kill puppies and kittens. But commercial[flea treatments](https: //nysipm. cornell. edu/whats-bugging-you/bed-bugs/bed-bug-faqs///)can be harsh on kittens' or puppies' skin and their young immune system. - The most effective method of using the Dawn dish soap will be to give the pets a dish soap + water bath.
 
-# # Why won't Dawn Dish Soap help Control Flea Infestations?
+##  Why won't Dawn Dish Soap help Control Flea Infestations?
 
 Blue Dawn Dish Soap will kill adult fleas, but it does nothing to reduce the risk of flea re-infestation or repel any fleas. - Through the drowning process, just a few of the fleas in the house (actually only those on the pets) will be killed by the Blue Dawn Dish Soap - Therefore, the fleas that'll be left running around the surrounding like the*yard*will jump back and restart the flea re-infestation cycle.
 
@@ -47,7 +47,7 @@ Also, fleas are fast reproducers, so even if you get rid of all the fleas in you
 
 Therefore: - Killing adult fleas does nothing to reduce the risk of re-infestation or repel any fleas at all. - Soapy water is not enough, you'll need an insecticide that's strong enough to kill both adults and larvae for a serious Dawn dish soap was made to wash dishes and cannot kill or be used as flea treatment, especially for long-term extermination. Related: Kill Flea Eggs on Cats
 
-# # Does Dawn Kill Flea Eggs & Larvae?
+##  Does Dawn Kill Flea Eggs & Larvae?
 
 *Dr. Andrea Miller* notes that Dawn dish soap is only suitable (in its limited capacity) to kill adult fleas and not kill fleas' eggs and larvae. The blue Dawn will mainly drown and kill some of the adult fleas. This will not get rid of all the other 3 flea life stages. They will still be in your house. Adult female fleas will lay their eggs in the yard or similar surroundings.
 
@@ -55,7 +55,7 @@ The eggs will hatch in a few days to give a larval form (lasting a few days) and
 
 The main problem with killing fleas just using dawn or other traditional methods is that you wont get rid of all the other stages. - *You'll need an insecticide with different active ingredients to kill all flea life stages for long-term prevention. * **Therefore, ** - If you wash your dogs or cats with blue Dawn dish soap, it won't cut down the flea population significantly.
 
-# # Will Blue Dawn Irritate My Pets Skin?
+##  Will Blue Dawn Irritate My Pets Skin?
 
 Dr. Andrea Miller noted that dish soap is not intended to be used as a dog or cat shampoo (including for flea treatment) due to skin-related issues. For puppies especially, veterinarians recommend only puppy flea shampoo. - Frequent skin irritation, a burning sensation, and hair loss are possible side effects of Dawn dish soap if it comes in contact with your dogs or cats skin.
 
@@ -67,7 +67,7 @@ Natural oils work to protect and nourish the skin.
 
 Too much Dawn dish soap can cause the skin to become dry and irritated. Related: [Drain cleaners](https: //pestpolicy. com/best-drain-cleaner//)
 
-# # So, Should Pet Owners Use Blue Dawn Dish Soap for Fleas Control
+##  So, Should Pet Owners Use Blue Dawn Dish Soap for Fleas Control
 
 Dawn dish soap is not an effective way to remove fleas, but it may be used rarely on severely flea-infested puppies or kittens for fast flea removal. This is because these puppies or kittens may be too young to use commercial pet products. - If you have young puppies or kittens, make sure to use a small amount of Dawn Dish Soap and dilute it with water before using it.
 
@@ -79,6 +79,6 @@ Dawn dish soap can kill and exterminate (removes dead skin and [flea dirt](https
 
 In the event that you find fleas on a pet in your own home, it is best to purchase over-the-counter [Capstar flea killers](https: //pestpolicy. com/best-flea-treatment-for-cats/) for emergency use.
 
-# # Conclusion
+##  Conclusion
 
 Yes, and No, any dish soap will kill fleas itll lower the surface tension (a surfactant) and kill fleas but it isn't very effective. If you have any questions please post in the comments section below and I will get back to you as soon as possible. Thanks for reading!

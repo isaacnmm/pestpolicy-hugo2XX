@@ -18,11 +18,11 @@ Here's how to filter and purify camping water? It's essential to ensure that you
 
 * Read Also: Athletic [Shoes for Lower Back Pain](https: //pestpolicy. com/best-athletic-shoes-for-lower-back-pain/).
 
-# # How to Filter and Purify Camping Water?
+##  How to Filter and Purify Camping Water?
 
 For explorers and campers, you won't want to risk getting infections and diseases from taking unclean and un-purified water from springs, lakes, lagoons, and rivers.
 
-## # **1. Portable Water Filters**
+###  **1. Portable Water Filters**
 
 When going camping or out of the house, [portable water purifiers](https: //upurifywater. com/best-portable-water-purifier/) will be great to filter and purify water. These mobile or handheld filters are compact, lightweight, and easy to use. Filters will remove the contaminant and dangerous chemicals from the drinking water to leave it in a crystal clear, pure, and transparent form. Also, brush or clean the filters to get a longer usage life.
 
@@ -30,13 +30,13 @@ The purifies will work great for water from springs, lakes, lagoons, and rivers 
 
 Water filters that have carbon will also filter heavy metals, chlorine, pesticides, and herbicides. For sewage-contaminated water, you'd better eject that carbon element from the portable filter. However, remember to unclog the water filter regularly as it may not filter properly or may accumulate microbes causing diseases to you and your family. Read Also: [Shoes for Waitressing Reviewed](https: //pestpolicy. com/best-shoes-for-waitressing/)
 
-## # **2.****Chemical Tablets**
+###  **2.****Chemical Tablets**
 
 Chemical tablets - particularly chlorine-based tablets, will purify water, including killing protozoa, viruses, and bacteria. Also, iodine-based pills are equally effective. - Further, chemicals and filters are highly portable and very easy to use at home, during camping or exploration missions - water from springs, rivers, lagoons, and lakes.
 
 But the water purification tablets may leave a bad after-taste in the water and will only be effective within six months once you open the tablet container.
 
-## # **3. Boiling Water**
+###  **3. Boiling Water**
 
 To purify your camping water, you can use boiling to get rid of micro-organisms but won't remove the awful taste. - Further, you'll need to give the water time for a cooling time before you drink. - However, you'll require to get the water from a fast-flowing source as opposed to still waters that are settled around buildings, roads, or farmed land.
 
@@ -50,7 +50,7 @@ The fire will rapidly heat the water that's held in the other chamber. A jet boi
 
 Read Also: Walking Shoes for Lower Back Pain
 
-# # Dangers of Drinking Impure Water?
+##  Dangers of Drinking Impure Water?
 
 Consequences and risks of drinking impure water like parasites and bacteria include diseases and infections from ingesting the contaminated water. - Poor sanitation may contaminate water mainly also be triggered by wildlife and humans as they defecate, bathe, live, and the hunt is dumping the remains in rivers and lakes.
 
@@ -58,6 +58,6 @@ The camping or wild may also trigger giardiasis - a protozoan condition that's w
 
 Read Also: [Youth Baseball Bats Reviewed](https: //pestpolicy. com/best-youth-baseball-bats/)
 
-# # Conclusion
+##  Conclusion
 
 How to filter and purify camping water? If you're camping and need to take purified water or cook some coffee - you can coil, use chemical tablets, or portable water purifiers. However, water boiling won't remove all the toxic chemicals - but it'll kill most pathogens and bacteria. However, you can also filter to remove the sediments.

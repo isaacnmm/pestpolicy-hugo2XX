@@ -35,7 +35,7 @@ Be sure to follow the manufacturer's instructions when applying the stain. When 
 
 Allow the stain to dry according to the manufacturer's recommendations before using the deck again. See Also: [pressure-treated wood deck sealer](https: //pestpolicy. com/best-deck-sealer-for-pressure-treated-wood/).
 
-# # FAQ - Cleaning Deck
+##  FAQ - Cleaning Deck
 
 In addition to the steps outlined in the article, there are a few other important things to keep in mind when cleaning and staining a deck. 1. Safety: Always wear proper safety gear when working on your deck, including safety glasses and gloves. Pressure washers and chemicals can be dangerous if not handled properly, so be sure to read and follow all safety instructions. 2.
 
@@ -47,7 +47,7 @@ Maintenance: Once your deck is clean and stained, it's important to keep up with
 
 Remember to take your time and work carefully to achieve the best results. With a little bit of effort, you can have a beautiful deck that you can enjoy for years to come.
 
-# # Conclusion
+##  Conclusion
 
 In conclusion, cleaning and staining a deck can be a big job, but with a little bit of know-how and the right tools, it can be done relatively easily. By following these simple steps, you can have your deck looking like new in no time.
 

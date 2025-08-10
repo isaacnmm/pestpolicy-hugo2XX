@@ -49,7 +49,7 @@ While the prospect of digging up and storing bulbs might seem like an arduous ta
 
 This guide will provide comprehensive instructions on how to successfully harvest, prepare, and store your tender bulbs over the winter, allowing you to preserve your precious investment and anticipate another glorious summer bloom.
 
-# # When to Lift Tender Bulbs
+##  When to Lift Tender Bulbs
 
 Timing is crucial to ensure the bulbs have stored enough energy and are ready for dormancy.
 
@@ -59,7 +59,7 @@ Timing is crucial to ensure the bulbs have stored enough energy and are ready fo
 
 * **Foliage Dies Back Naturally: ** Allow the foliage to remain on the plant until it is naturally killed by frost or begins to yellow significantly. The leaves are still photosynthesizing and sending energy to the bulb.
 
-# # How to Store Tender Bulbs
+##  How to Store Tender Bulbs
 
 Once cured, bulbs are ready for their winter slumber.
 
@@ -77,7 +77,7 @@ The storage medium helps regulate this.
 
 * **Check for Shrivelling: ** If bulbs appear to be shriveling excessively, the storage conditions might be too dry. You can lightly mist the storage medium (not the bulbs directly) or add a small amount of slightly damp (but not wet) peat moss to the container.
 
-# # Final Thoughts
+##  Final Thoughts
 
 The effort invested in lifting and storing tender bulbs over winter is a small price to pay for the magnificent floral spectacle they provide season after season. This process ensures the longevity of your plants, protects your gardening investment, and offers the delightful anticipation of their grand re-emergence in the warmth of summer.
 

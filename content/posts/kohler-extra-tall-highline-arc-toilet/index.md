@@ -45,7 +45,7 @@ Part of their bestselling Highline family, this model combines Kohler's reputati
 
 The "Extra Tall" feature distinguishes this toilet from standard or even "Comfort Height" models, providing an even more accessible seating option. Coupled with the Highline Arc's distinctive design and efficient flushing technology, it aims to deliver a superior user experience. Let's explore the features, benefits, and considerations of the Kohler Highline Arc Extra Tall Toilet to help you determine if it's the right choice for your bathroom.
 
-# # Design and Aesthetics: The Highline Arc Series
+##  Design and Aesthetics: The Highline Arc Series
 
 The Highline Arc series is recognized for its blend of traditional styling with modern sensibilities. Key design elements include:
 
@@ -57,7 +57,7 @@ This makes it generally lighter per component for easier maneuvering during inst
 
 An elongated bowl is generally preferred in master bathrooms or larger spaces.
 
-# # Convenience and Installation
+##  Convenience and Installation
 
 Kohler often offers its Highline Arc toilets as part of their "Complete Solution" package. This means that the toilet comes in a single box with everything needed for installation, including:
 
@@ -67,7 +67,7 @@ This "all-in-one" approach simplifies the purchasing process and ensures you hav
 
 Installation for a two-piece toilet, while requiring careful handling, is generally straightforward for those with basic plumbing knowledge or a willingness to follow instructions closely.
 
-# # Cons and Considerations
+##  Cons and Considerations
 
 * **Height May Not Suit Everyone: ** As mentioned, the extra height can be inconvenient for very short individuals or young children, potentially requiring a step stool. * **Two-Piece Design: ** While easier to maneuver piece by piece during installation, two-piece toilets do have a seam between the tank and bowl that can accumulate dust and grime, making them slightly less easy to clean than a one-piece skirted toilet.
 

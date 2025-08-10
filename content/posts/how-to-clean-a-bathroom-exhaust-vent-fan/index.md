@@ -19,7 +19,7 @@ A clean [bathroom](https: //pestpolicy. com/replacing-a-bathroom-exhaust-fan/) e
 
 The good news? Cleaning your bathroom exhaust fan is a **simple, 30-minute task** that can significantly improve your bathroom's air quality and extend the life of your fan. Follow this comprehensive guide to do it rightthe first time.
 
-# # **Why Cleaning Your Exhaust Fan Matters**
+##  **Why Cleaning Your Exhaust Fan Matters**
 
 Before we dive in, lets talk about why this maintenance task is so important for your bathroom:
 
@@ -33,7 +33,7 @@ Before we dive in, lets talk about why this maintenance task is so important for
 
 **Maintains proper ventilation efficiency** A clean fan removes odors faster and prevents that lingering damp towel smell in your bathroom by ensuring proper air exchange.
 
-# # **What Youll Need for the Job**
+##  **What Youll Need for the Job**
 
 Gathering these simple tools beforehand will make the process smooth and efficient: - **Screwdriver (Phillips or flathead)** Check your fan cover first to see which type youll need. Most modern fans use Phillips head screws. - **Vacuum with brush attachment** The brush helps dislodge dust without scratching surfaces. A handheld dustbuster works well for hard-to-reach spots.
 
@@ -45,9 +45,9 @@ Always ensure its stable before climbing.
 
 *(Helpful Extras: Replacement filters if your model uses them, nitrile gloves if youre sensitive to dust, and a headlamp or flashlight for better visibility. )*
 
-# # **Step-by-Step Cleaning Process**
+##  **Step-by-Step Cleaning Process**
 
-## # **Step 1: Turn Off the Power (Critical Safety Step)**
+###  **Step 1: Turn Off the Power (Critical Safety Step)**
 
 **This isnt just a suggestion** working on an energized electrical fixture is dangerous. - Locate your homes circuit breaker panel and switch off the bathrooms power. If youre unsure which breaker controls the fan, turn off the main power to be safe. - For added precaution, use a non-contact voltage tester near the fan to confirm power is off before touching any components.
 
@@ -55,7 +55,7 @@ Always ensure its stable before climbing.
 
 *(Pro Safety Tip: Tell household members youre working on the fan so no one accidentally restores power mid-cleaning. )*
 
-## # **Step 2: Remove the Cover Properly**
+###  **Step 2: Remove the Cover Properly**
 
 Fan covers typically attach in one of these ways:
 
@@ -65,7 +65,7 @@ Fan covers typically attach in one of these ways:
 
 **Paint-sealed covers (in older homes)** If the cover seems stuck, carefully run a utility knife around the edge to break the paint seal before prying gently with a flathead screwdriver. *(Helpful Hint: Take a quick smartphone photo of the wiring before disconnecting anything if your fan has integrated lighting. )*
 
-## # **Step 3: Thoroughly Vacuum All Components**
+###  **Step 3: Thoroughly Vacuum All Components**
 
 Proper dust removal involves attention to several key areas: - **Fan blades** Hold the vacuum nozzle close while slowly rotating each blade to capture all dust. Missed dust here causes imbalance and noise. - **Motor housing** Carefully vacuum around the central motor unit, being cautious not to bend any small wires or dislodge connections.
 
@@ -73,7 +73,7 @@ Proper dust removal involves attention to several key areas: - **Fan blades** Ho
 
 - **Cover/grille** Pay special attention to the backside of the cover where dust accumulates in the protective grid pattern. *(For Stubborn Dust: Use a dry paintbrush to loosen compacted dust before vacuuming for more effective removal. )*
 
-## # **Step 4: Deep Clean All Surfaces**
+###  **Step 4: Deep Clean All Surfaces**
 
 Different components require specific cleaning approaches: **For Plastic/Metal Covers: ** 1. Fill a sink or basin with warm water and 1-2 drops of dish soap. 2. Submerge the cover and let soak for 5-10 minutes to loosen grime. 3. Gently scrub with a soft sponge, paying extra attention to greasy buildup around the edges. 4. For tough stains, make a paste of baking soda and water and scrub with an old toothbrush. 5.
 
@@ -85,7 +85,7 @@ Lightly mist affected areas and let sit for 5 minutes. 3.
 
 Wipe clean with a damp cloth the acetic acid in vinegar kills mold spores naturally. 4. For severe cases, use a diluted bleach solution (1 part bleach to 10 parts water) but ensure proper ventilation. *(Important Note: Never spray liquids directly into the motor housing or electrical components always apply cleaner to your cloth first. )*
 
-## # **Step 5: Inspect and Clean the Ductwork**
+###  **Step 5: Inspect and Clean the Ductwork**
 
 Proper duct maintenance prevents bigger issues: - **Visual Inspection: **Shine a bright flashlight into the duct opening. You should see clear passage if not, theres likely obstruction. - **Surface Cleaning: **Use your vacuums hose attachment to remove visible dust and debris as far as you can reach.
 
@@ -93,7 +93,7 @@ Proper duct maintenance prevents bigger issues: - **Visual Inspection: **Shine a
 
 )*
 
-## # **Step 6: Reassemble and Test Operation**
+###  **Step 6: Reassemble and Test Operation**
 
 Putting everything back together correctly ensures optimal performance: 1. Confirm all components are completely dry before reassembly. 2. If your fan has a removable filter, insert a fresh one now. 3. Carefully align the cover with the mounting points dont force it. 4. Secure all screws or clips firmly but dont overtighten. 5. Restore power at the circuit breaker. 6.
 

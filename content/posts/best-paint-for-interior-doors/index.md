@@ -18,9 +18,9 @@ The [interior](https: //pestpolicy. com/how-to-paint-a-metal-interior-door/) of 
 
 During such movement, hands interact a lot with doors, thus staining and making them dirty. It is for such reasons that your doors need a regular touch by the Best Paint for Interior Doors to keep them neat and attractive. See Also: [Painting your Metal Interior Door](https: //pestpolicy. com/how-to-paint-a-metal-interior-door/).
 
-# # s: Top 7 Best Paint for Interior Doors in 2025
+##  s: Top 7 Best Paint for Interior Doors in 2025
 
-## # [1. The Spruce Best KILZ 15121001 Interior Eggshell Paint](https://www.amazon.com/dp/B07QJ7TMTZ/?tag=p-policy-20)
+###  [1. The Spruce Best KILZ 15121001 Interior Eggshell Paint](https://www.amazon.com/dp/B07QJ7TMTZ/?tag=p-policy-20)
 
 Buying this product means that you are going to kill two birds with one stone. In other words, it comprises both paint and primer in one product.
 
@@ -36,7 +36,7 @@ Cons: - Has paused some cleaning challenges
 
 > See Also: > Time To Paint a House Interior
 
-## # [2. Diamond Brite Paint 31600](https://www.amazon.com/dp/B00AENFLMK/?tag=p-policy-20)
+###  [2. Diamond Brite Paint 31600](https://www.amazon.com/dp/B00AENFLMK/?tag=p-policy-20)
 
 As you sample out the different types of interior paints for doors, it is important to settle for one that can give them extra protection from the effects of human fingerprints and other forms of stains.
 
@@ -52,7 +52,7 @@ Cons: - May emit some odor after application.
 
 > See Also: > Interior vs Exterior Paint
 
-## # [3. Diamond Brite Paint 80000 1-Quart Latex](https://www.amazon.com/dp/B00AENH66O/?tag=p-policy-20)
+###  [3. Diamond Brite Paint 80000 1-Quart Latex](https://www.amazon.com/dp/B00AENH66O/?tag=p-policy-20)
 
 The Diamond Brite Paint 80000 comes with a sure promise to give a bold yet refreshing look to your interior doors, cabinets, furniture, toys, and antique accessories.
 
@@ -66,7 +66,7 @@ Cons: - Needs some bit of preparation (sanding) before you apply it
 
 > See Also: > Paint Roller Cover for Interior Walls
 
-## # [4. Rust-Oleum 7798502](https://www.amazon.com/dp/B0030DB2LK/?tag=p-policy-20)
+###  [4. Rust-Oleum 7798502](https://www.amazon.com/dp/B0030DB2LK/?tag=p-policy-20)
 
 The Rust-Oleum 7798502 is an oil-based formula that gives you a long-lasting coating with a tremendous rust prevention capability.
 
@@ -84,7 +84,7 @@ Cons: - Not for sale in some places like the Catalina Island
 
 > See Also: > White Paints for Interior Walls
 
-## # [5. Valspar 65004 Premium Interior](https://www.amazon.com/dp/B0030BKTAC/?tag=p-policy-20)
+###  [5. Valspar 65004 Premium Interior](https://www.amazon.com/dp/B0030BKTAC/?tag=p-policy-20)
 
 If you are looking for some excellent reflection on your interior and exterior doors, then think seriously about going for high gloss paint.
 
@@ -100,7 +100,7 @@ Cons: - May emit some odor while wet.
 
 > See Also: > Paint Sprayer for Interior Walls
 
-## # [6. Rust-Oleum 253611 Metallic Accents Paint](https://www.amazon.com/dp/B003EELN1Y/?tag=p-policy-20)
+###  [6. Rust-Oleum 253611 Metallic Accents Paint](https://www.amazon.com/dp/B003EELN1Y/?tag=p-policy-20)
 
 If you are shopping for neat metallic paint to add a special touch to your interior doors, then this is your product. Aside from doors, it also does wonders on furniture, trim, doors, ceilings, walls, and more.
 
@@ -116,7 +116,7 @@ Cons: - None
 
 > See Also: > Oil Based Primer for Cabinets
 
-## # [7. KILZ 2 Multi-Surface Stain Blocking](https://www.amazon.com/dp/B0013FE5R0/?tag=p-policy-20)
+###  [7. KILZ 2 Multi-Surface Stain Blocking](https://www.amazon.com/dp/B0013FE5R0/?tag=p-policy-20)
 
 If you are expecting the best results after a painting exercise, it is essential to use a sealer. In case your interior doors have earlier paint layers, it will be critical to bringing in a primer so the paint can stick well to the existing layers.
 
@@ -130,6 +130,6 @@ Cons: - May not cover completely if not applied according to instructions.
 
 > See Also: > [Primer for Rusted Metal](https: //pestpolicy. com/best-primer-for-rusted-metal/)
 
-# # Conclusion
+##  Conclusion
 
 This is a non-exhaustive list of the Best Paint for Interior Doors. Keep reading my next blog posts to get more updates on this list.

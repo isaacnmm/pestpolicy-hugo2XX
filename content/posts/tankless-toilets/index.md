@@ -44,7 +44,7 @@ Unlike conventional toilets that store a reservoir of water in a tank for flushi
 
 This article will delve into **how tankless toilets differ from conventional models**, explore their numerous advantages, discuss potential drawbacks, and help you determine if a tankless toilet is the right choice for your home.
 
-# # Potential Drawbacks of Tankless Toilets
+##  Potential Drawbacks of Tankless Toilets
 
 While tankless toilets offer compelling advantages, they also come with certain considerations and potential drawbacks that homeowners should be aware of:
 
@@ -62,7 +62,7 @@ This often necessitates professional installation, increasing overall project co
 
 Upgrading the supply line can add significant plumbing work.
 
-# # Is a Tankless Toilet Right for Your Home?
+##  Is a Tankless Toilet Right for Your Home?
 
 Deciding whether a tankless toilet is a good fit involves weighing its advantages against the potential drawbacks in the context of your specific needs and home infrastructure.
 

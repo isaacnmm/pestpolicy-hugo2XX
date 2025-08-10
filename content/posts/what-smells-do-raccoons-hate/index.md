@@ -20,7 +20,7 @@ You don't want raccoons digging up your yard or tearing apart your house or garb
 
 ** **Also, real or synthetic scents of predator urine will repel raccoons. **
 
-# # What Problems Will Raccoons Bring to Your Property?
+##  What Problems Will Raccoons Bring to Your Property?
 
 Raccoons are hardy and adaptable mammals that thrive around homes where they have great access to shelter and food - they'll also transmit diseases like [Leptospirosis](https: //www. addl. purdue. edu/newsletters/1997/fall/[raccoon](https: //pestpolicy. com/how-to-get-rid-of-raccoons/). shtml).
 
@@ -34,9 +34,9 @@ They'll rummage the garbage cans to find food, and they'll also tear down garden
 
 * **If the raccoon problem has gotten out of hand, and your property, humans, and pets - you can ** [**check for pest exterminators near you**](https: //pestpolicy. com/pest-control-near-me/) ** and you'll be assisted. **
 
-# # What Smells Do Raccoons Hate - The 7 Scents That Repel Raccoons
+##  What Smells Do Raccoons Hate - The 7 Scents That Repel Raccoons
 
-## # Scent 1: Sprinkle Hot Pepper
+###  Scent 1: Sprinkle Hot Pepper
 
 Raccoons rely on their sense of smell to find food. One of the most common scents that are used as a repellant for raccoons is hot peppers.
 
@@ -50,7 +50,7 @@ I recommend the Cayenne Pepper Powder that has 90, 000 heat units to repel the r
 
 Applying hot pepper in the places where raccoons are most likely to find food will keep them away for a few days - so you must re-apply the hot pepper.
 
-## # Scent 2: Use Pepper + Onion
+###  Scent 2: Use Pepper + Onion
 
 You can make your own mixture by combining pepper and onion. It is important to use fresh ingredients, as old spices will not be potent enough for the raccoons to notice it.
 
@@ -60,7 +60,7 @@ This mixture of ingredients makes for a nasty concoction that will anger raccoon
 
 - But it also requires a re-application a minimum of twice a week as the pepper-onion smell will fade within days. So, the pepper + onion smell will repel the raccoons and other pests.
 
-## # Scent 3: Peppermint Oil
+###  Scent 3: Peppermint Oil
 
 If you're looking for an affordable option to keep raccoons out of your garden this is our favorite spray made with peppermint essential oil that smells like Christmas!
 
@@ -72,7 +72,7 @@ You can spray it on trash cans, sheds, attics, kitchens, basements, and Garages.
 
 - I got my package on Saturday and just finished spraying down my car. Rats ate along the side of it, so I wanted to keep them away before they could do more damage. - Stink stuff like this was supposed to work but it never has before. Well, guess what? This time around, rats never bothered me! - I sprayed a lot of Rodent Sheriff Peppermint because there must have been quite a few rodents living in that old car, but not anymore!
 
-## # Scent 4: Use Epsom Salt
+###  Scent 4: Use Epsom Salt
 
 Epsom salt is a useful solution for creating an environment that raccoons will choose to avoid - besides being a great fertilizer for yards and gardens.
 
@@ -82,7 +82,7 @@ Epsom salts are inexpensive and can be purchased at most grocery stores or pharm
 
 To prevent these critters from sniffing out rubbish bins and food left outside in your yard, sprinkle Epsom salt around the edges so they will have to find their next meal elsewhere.
 
-## # Scent 5: Eviction Fluid
+###  Scent 5: Eviction Fluid
 
 To evict a female raccoon, [scientists discovered](https: //digitalcommons. unl. edu/icwdm_wdmconfproc/173/) that the smell of male urine, or what we call Eviction Fluid (EF), is the solution.
 
@@ -94,7 +94,7 @@ Eliminating nursing raccoons from an area can be difficult if they have found a 
 
 Apply that Eviction fluid in the attic and chimney as these are the areas that the nursing raccoon will hide their babies. Thus, the female raccoon will escape the strong "male raccoon" scent.
 
-## # Scent 6: Use Predator Urine
+###  Scent 6: Use Predator Urine
 
 Raccoons have a great sense of smell and can detect prey from far away.
 
@@ -112,7 +112,7 @@ The best solution is to deter them with a little bit of predator pee such as Pre
 
 After trying other solutions to no avail, there's finally one that works: PredatorPee Combo.
 
-# # Conclusion
+##  Conclusion
 
 In summary, on the question "what smells do Raccoons hate? " the answer has been found.
 

@@ -23,7 +23,7 @@ Let's find out!
 
 # **In a Hurry? View Top Borax Flea Killers**
 
-# # **1. Our #1 Pick: Borax 20 Mule Team Booster Fleas on Carpet**
+##  **1. Our #1 Pick: Borax 20 Mule Team Booster Fleas on Carpet**
 
 My vet advised using this Borax 20 Mule Team against a flea infestation in the yard, carpets, or whole house. I left the borax flea killer on the floors for two days - remember to apply the fine powder under the stove, refrigerator, and couch. - In addition tokilling fleas, Boraxwill remove bad odors from your living spaces. You can pour the Borax into areas where dogs and kittens do visit.
 
@@ -31,11 +31,11 @@ My vet advised using this Borax 20 Mule Team against a flea infestation in the y
 
 Luckily, this product can be used as a color-safe bleach, laundry booster, and garbage disposal cleaner. My vet advised using this Borax 20 Mule Team (definitely the best borax acid) against a flea infestation in the yard, carpets, or whole house. I left the borax flea killer on the floors for two days - remember to apply the fine powder under the stove, refrigerator, and couch, which exterminated fleas and their larvae.
 
-# # [2. #2 Pick: Fleabusters-Rx for Killing Fleas Plus](https://www.amazon.com/dp/B000MS6Q2Q/?tag=p-policy-20)
+##  [2. #2 Pick: Fleabusters-Rx for Killing Fleas Plus](https://www.amazon.com/dp/B000MS6Q2Q/?tag=p-policy-20)
 
-# # **3. #3 Pick: Enforcer 20-Ounce Flea-Killer (Ocean Breeze) - Use on Carpet**
+##  **3. #3 Pick: Enforcer 20-Ounce Flea-Killer (Ocean Breeze) - Use on Carpet**
 
-# # [4.JT Eaton 360 Answer Boric Acid Insecticidal Dust](https://www.amazon.com/dp/B000HMCAAO/?tag=p-policy-20)
+##  [4.JT Eaton 360 Answer Boric Acid Insecticidal Dust](https://www.amazon.com/dp/B000HMCAAO/?tag=p-policy-20)
 
 Next, this Answer boric acid made up of hydrogen borate (Orthoboric Acid) is a natural flea control and general cleaner. - Its composed up of white powder or colorless crystals which will readily dissolve in water. - Answer boric acid is a great bug control solution for fleas, ants, and cockroaches.
 
@@ -43,7 +43,7 @@ You can also use it in your laundry as an algae cleaner thatll hinder stains or 
 
 This product will also kill fleas on wall cracks, under carpets, and on your bed linen. So, I am happy to report that Borax helped me exterminate most of the bugs I had in the house, including fleas and roaches. Dishwasher Detergent to Prevent Etching.
 
-# # Borax Flea Killer (7 Easy Flea Removal Steps)
+##  Borax Flea Killer (7 Easy Flea Removal Steps)
 
 **Step 1: Deep Floor and Carpet Vacuuming** Choose the best borax brand for flea treatment. Vacuum your house thoroughly to ensure you attack the insect in all its life cycle stages. Also, consult your vet for advice on the best brand depending on your dogs age (if a * puppy* ) *, pregnancy, or if the dog is under other insecticides treatment.
 
@@ -67,7 +67,7 @@ Remember to flea comb your cat to get rid of flea eggs and flea dirt.
 
 Definitely, you must vacuum the carpet and floors thoroughly after treating with diatomaceous earth and Borax.
 
-# # **5. 99% PURE BORIC ACID AKA Orthoboric - Best Boracic Acid**
+##  **5. 99% PURE BORIC ACID AKA Orthoboric - Best Boracic Acid**
 
 99% Pure Boric Acid contains Acidum boricum, orthoboric acid, boracic acid, hydrogen borate, and boric acid. Therefore, you can use this neutron absorber, flame retardant, flea control insecticide, or antiseptic. This 99% Pure Boric Acid contains Acidum boricua, orthoboric acid, boracic acid, hydrogen borate, and boric acid.
 
@@ -79,7 +79,7 @@ It's an excellent DIY natural flea control method.
 
 If your pet (either cat or dog) frequents the yard and later runs into the house, you should be worried as he/ she can carry fleas over - but first use sprays for yard fleas.
 
-# # [6. MILLIARD Borax Powder Multi-Purpose - Borax Flea Killer](https://www.amazon.com/dp/B00HLROBQ4/?tag=p-policy-20)
+##  [6. MILLIARD Borax Powder Multi-Purpose - Borax Flea Killer](https://www.amazon.com/dp/B00HLROBQ4/?tag=p-policy-20)
 
 MILLIARD Borax Powder, commonly used as a dish or laundry detergent, is created from sodium borate (anhydrous) without preservatives or additives. - In addition to killing fleas in the household, MILLIARD Borax Powder may act as a refrigerator deodorizer or remove rust. Itll help in making DIYant killersand detergents, deodorizing, and softening water.
 
@@ -89,23 +89,23 @@ Besides, Milliard Borax Powder is excellent for controlling bed bugs and spiders
 
 I noted that you could make some small sachets to put inside bags containing bed covers or shoes.
 
-# # [7. 2 Pk, Boric Acid Fleas, Roach & Ant Killer](https://www.amazon.com/dp/B00LLQ4AU8/?tag=p-policy-20)
+##  [7. 2 Pk, Boric Acid Fleas, Roach & Ant Killer](https://www.amazon.com/dp/B00LLQ4AU8/?tag=p-policy-20)
 
 This 2 Pk Boric Acid for fleas will also kill ants and cockroaches. So, whether its for your personal or rental apartment, this product will work great in killing the whole flea cycle. All youll need is to sprinkle the boric acid powder all over your house to get the fleas and roaches in their hiding places. Luckily, it has a residue effect of about two months and will continue killing the fleas and their larvae.
 
-# # [8. Tranquility Products 10 lbs - Boric Acid Powder](https://www.amazon.com/dp/B0032RIGEK/?tag=p-policy-20)
+##  [8. Tranquility Products 10 lbs - Boric Acid Powder](https://www.amazon.com/dp/B0032RIGEK/?tag=p-policy-20)
 
 Tranquility Boric Acid will be great if you have a flea infestation on your wooden floors, and cat or dog bedding, and carpers - eliminating the whole flea cycle: adult fleas, flea larvae, and flea eggs. As an experienced flea exterminator, I would recommend using the Tranquility Boric Acid together with diatomaceous earth for fleas in cats.
 
 Most homeowners use it to kill fleas under electrical appliances, under cabinets, and in the carpet lining.
 
-# # **How does Borax Kill Fleas?**
+##  **How does Borax Kill Fleas?**
 
 **Method 1: ** As a powder, Borax has no smell and can control fleas by dehydrating them. The borax powder breaks the fleas exoskeletons and enters their body, which leads to dehydration and death. **Method 2: ** As the flea larvae hatch, Borax dehydrates the fleas outer tissues and kills them. Therefore, Borax stops the flea from hatching. **Method 3: ** Also, Borax contaminates the food preserves for the flea larvae.
 
 The larvae feed on the contaminated food (mainly droppings by adult fleas) and get ripped to death.
 
-# # **How to use Borax for fleas in Yard & Lawn**
+##  **How to use Borax for fleas in Yard & Lawn**
 
 What youll require to control fleas in your lawn: **Borax powder, salt, sprinklers or water hose, and diatomaceous earth. But you can also use the** Best Flea Spray for Yard. **Precautions: ** Wear [gloves](https: //www. amazon. com/dp/B01MYMRZEI/? tag=p-policy-20) and cover your face using a dust protector. The borax powder can cause significant throat and skin irritation if you do not take safety precautions.
 
@@ -121,7 +121,7 @@ The time allowance will allow the Borax to dehydrate the fleas, thus killing the
 
 In addition to treating your yard, you will need to treat your house using the best fogger for fleas to control the fleas from residence from inside and outside. You can find Borax in an online store or the physical grocery store, particularly in the detergent section.
 
-# # **Borax for fleas on hardwood floors**
+##  **Borax for fleas on hardwood floors**
 
 Is it possible to use Borax for fleas to exterminate hardwood floors? Like you can use Borax to treat your lawns, it can also be applied on your hardwood floors. **Step 1: ** Clear the furniture and carpets and vacuum the whole floor space. The process will help eject all the [fleas that could be hiding](https: //pestpolicy. com/where-do-fleas-hide/) under the table and carpets. Also, vacuuming will eject flea larvae from their cocoons.
 
@@ -129,7 +129,7 @@ Is it possible to use Borax for fleas to exterminate hardwood floors? Like you c
 
 **Step 5**: Vacuum the floor after the break and remove all the borax residues that could be on the floor. Also, continue with the vacuuming process for the whole week. **Step 5**: Repeat the borax application process to ensure that the fleas in the whole flea cycle are eliminated from the hardwood floors.
 
-# # What is Borax for Fleas?
+##  What is Borax for Fleas?
 
 Borax (Na 2 B 4 O 7 10H 2 O) ( **disodium tetraborate, ** **sodium tetraborate, or sodium borate) ** is a boron compound, boric acid salt, and mineral. Mainly, you'll find Borax as a **powder** that readily dissolves in water. Notably, Sodium Tetraborate (known as Borax) is described as a boric acid salt, but it is not chemically similar to boric acid (hydrogen borate).
 
@@ -141,7 +141,7 @@ In addition to usingBorax ** on fleas** control, you can also use them on other 
 
 It is also a cheap way to get rid of fungus and weeds in your garden. In different industries, Borax is used as a flame retardant for bleaching purposes and to glaze enamel.
 
-# # Where to buy Borax for fleas
+##  Where to buy Borax for fleas
 
 Although Borax has many domestic and commercial applications, buyers usually find it challenging to locate borax products in the stores.
 
@@ -149,13 +149,13 @@ Although Borax has many domestic and commercial applications, buyers usually fin
 
 You will most likely come across the Borax labeled "20 Mule Team" in the local stores. **But, what diseases can you get from fleas? ** Fleas can transmit the following diseases: (1) Mycoplasma haemofelis, (2) Murine Typhus (3) Cat Scratch Disease, (4) Tapeworms, and (5) flea allergy dermatitis (FAD) in cats and dogs, which is reported to be above 50% of the vet testified cases.
 
-# # **Is borax safe for cats and dogs (Pets)?**
+##  **Is borax safe for cats and dogs (Pets)?**
 
 **First: ** Did you know there is a difference between Borax and boric acid powders? Most pet owners use the above terms interchangeably, which could lead to dangerous outcomes if one is not keen on the one they use on their dog or cat. It is essential to know which one, between Borax and boric acid, is the recommended natural flea treatment option.
 
 You should also be aware of the safety precautions you should take while using Borax to treat fleas on your cat.
 
-# # Borax vs. boric acid powders: which is safer?
+##  Borax vs. boric acid powders: which is safer?
 
 Both Borax and boric acid powders are derived from boron. Notably, Borax has mainly been used for glazing and welding and also for pharmaceutical purposes. As a drug product, Borax is known to act as a fungicide and antiseptic and is utilized to heal eye infections. Boron exists in nature is made up of boron, sodium, and oxygen. However, boric acid is made from Borax mixed with an acid.
 
@@ -173,10 +173,10 @@ Further, Borax will not harm your plants and grass. However, treat the weeds in 
 
 It is quick and tough on stains and dirt without the need to use too much effort.
 
-# # **Best Borax Substitute: Diatomaceous Earth Powered**
+##  **Best Borax Substitute: Diatomaceous Earth Powered**
 
 The borax alternative for killing flea naturally is Diatomaceous Earth. Diatomaceous Earth (DE) has razor-sharp edges, which cut the fleas outs shells and absorb their body fluid. Diatomaceous earth remains the sea and wetland algae, particularly a type of hard-shelled phytoplankton or plankton. Similar to Borax, DE is mined from underground, and it is a natural pest control method. Later, the DE powder is crushed into an excellent powder.
 
 Equally, DE is considered a safe [flea prevention](https: //pestpolicy. com/can-cats-get-fleas-in-the-winter/) alternative to Borax. If you purchase DE that is labeled food-grade, you can use it to deworm humans and animals. It will take DE about 24-72 hours to kill the fleas in your home. The DE powder will also destroy any other fleas that will emerge from their cocoons within that time.
 
-# # **Finally:****How To Use Boric Acid To Kill Fleas in Carpet**
+##  **Finally:****How To Use Boric Acid To Kill Fleas in Carpet**

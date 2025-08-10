@@ -21,7 +21,7 @@ Recently my friend, Jane, got a healthy-looking dog. **Sadly**, the dog was flea
 
 edu/factsheet/HYG-2081-11).
 
-# # Can Dog Fleas Transfer to Humans? People's hair?
+##  Can Dog Fleas Transfer to Humans? People's hair?
 
 A quick google search on whetherCan Dog Fleas Transfer to Humans - most related information available online is false. Some articles claim that only dog fleas (Ctenocephalides canis) attack canines and that only the *Pulex irritans * can bite human beings. *Pulex irritans* feed on blood (humans, dogs, and cats) and will bite human beings (leaving itchy red bumps ) and only *survive on human blood.
 
@@ -29,7 +29,7 @@ A quick google search on whetherCan Dog Fleas Transfer to Humans - most related 
 
 Control fleas on clothes and kill massive flea infestation with foggers.
 
-# # Fleas Hitchhike, your clothes and hair.
+##  Fleas Hitchhike, your clothes and hair.
 
 First, fleas lack wings and thus do not fly but jump from one host to another or hiding place. Also, fleas have rough bristles that allow them to attach themselves to the pets ( cat or dog ) fur. You can prevent this by using appropriate human flea repellents. There are about 320 flea species: in the US, Ctenocephalides felis is most common. Ctenocephalides canis is common in Europe.
 
@@ -41,7 +41,7 @@ Also, humans carry fleas to another home on their hair and clothes.
 
 Fleas will bite your ankles and legs, which you see if you walk into a house infested with a massive flea population. Theyll leave some rid itchy round bumps on the location they bite.
 
-# # Signs of fleas transfer from your dog.
+##  Signs of fleas transfer from your dog.
 
 So, howll you know when fleas have transferred from your dog to you or your family member? Well, first check if your dog is continuously scratching its skin and fur. Thats the first sign because flea bites will cause itching on both human beings and dogs. Also, check whether your dog has signs of allergies due to a massive flea infestation.
 
@@ -49,10 +49,10 @@ Further, if you note some flea dirt and red bumps on the dog, you should be aler
 
 Brush or comb your dog keenly to check whether the comb comes out with some brown color when passed on a white surface - to avoid such purchase good dog beds.
 
-# # Prevent fleas on your dogs
+##  Prevent fleas on your dogs
 
 Ive pointed above that you can use flea bombs to control massive flea infestations in your rooms. However, to control fleas on your dogs, Advantage II and Frontline Plus have proven to the top models. You can also use a flea spray for your yards.
 
-# # Conclusion
+##  Conclusion
 
 Fleas take host on your dog, and thus, whenever you come too close to the pet, the fleas could jump over to you looking for a blood source. However, fleas (apart from *Pulex irritans* ) cannot [live on human](https: //pestpolicy. com/can-fleas-live-in-human-hair/) blood and thus will have to jump off to an appropriate host, particularly after sucking some of your blood.

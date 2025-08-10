@@ -25,7 +25,7 @@ Lizards do not have alveoli or tooth sockets in their dentition. Some lizard spe
 
 Related: Can Bearded Dragons Eat Tomatoes?
 
-# # Do Lizards Have Teeth? - Reptile Dentition
+##  Do Lizards Have Teeth? - Reptile Dentition
 
 Lizards have teeth that are well adapted to the type of food they eat. Lizards, **unlike mammals which have several types of teeth**, have all their teeth similar (one type) except a few species.
 
@@ -57,7 +57,7 @@ However, the thecodont type of teeth is characterized by well-established, deep 
 
 Thecodont is firmly adapted for strong grasping without being shed off.
 
-# # How Many Teeth Do Lizards Have?
+##  How Many Teeth Do Lizards Have?
 
 Different species of lizards have a varying number of teeth from the young stage to adulthood. These lizard species include: 1. This type usually has an average of 20 to 30 teeth in each quadrant. At maturity, iguana would have a total of 80 to 120 teeth. 2. **Nile Monitor.
 
@@ -67,7 +67,7 @@ Different species of lizards have a varying number of teeth from the young stage
 
 However, the minimum number of teeth you can get in a given skink is 20 while the highest number is 90 teeth on average. 6. An adult chameleon has 32 to 44 teeth on average. However, these are not the number of teeth it has during death. Most of the front teeth are worn out or removed due to grasping and biting, leaving behind a roughjawbone.
 
-# # What are Lizards Teeth Used For?
+##  What are Lizards Teeth Used For?
 
 Lizards Teeth can be used in any of the following functions: **1. For Feeding. ** These are the primary functions. Lizards use teeth to grasp, bite, and coarse the food/prey before swallowing. - The teeth also help in preventing the prey from slipping away during feeding. - Some lizard species use their teeth to cut prey into small sizes that would facilitate easier swallowing.
 
@@ -79,13 +79,13 @@ Veterinary examination shows that young lizards make rapid snaps when agitated o
 
 The Iguana lizards are more aggressive as compared to other species since the female produces pheromones during the menstrual cycle that attracts the male often.
 
-# # Do Baby Lizards Have Teeth?
+##  Do Baby Lizards Have Teeth?
 
 Yes! Young lizards are hatched with [teeth in place for eating](https: //pestpolicy. com/what-do-baby-lizards-eat/). As the lizard grows and near maturity, the teeth increase in number. The Pleurodont class of lizards is able to shed off and replace their teeth regularly up to 6 times a year.
 
 Contrary, the acrodont class of lizards do not replace their teeth once they are shed off. - Therefore, special care should be taken (by owners) when handling these species of lizards. - The teeth of baby lizards are adapted to feeding on soft food substances. Though they can grasp, the teeth are usually not strong enough to cause any substantial resistance against their prey. So, most of the young lizards are fed by their mothers.
 
-# # Can Lizard Bite Human Being?
+##  Can Lizard Bite Human Being?
 
 Lizards, usually, will bite you if they feel threatened or when they are stressed. Some of these bites are not injurious (are harmless) while some [lizards are poisonous](https: //pestpolicy. com/are-lizards-poisonous/) and may infect you, your humans, and pets badly.
 
@@ -101,6 +101,6 @@ However, most of the bits from house lizards (Geckos) are mild scraps that can b
 
 NB: *It is advisable to wear protective gear always when handling lizards during medications and physical checkups. Related: Are Leopard Geckos Nocturnal? *
 
-# # Conclusion
+##  Conclusion
 
 All lizards have teeth. The teeth of young lizards increase in number as they grow to their adulthood. - Importantly, lizards have either acrodont or pleurodont type of teeth that are well adapted to feeding, mating, or defense. - Lizards rarely bite human beings. Their bites are usually harmless though there are few species that have venom that may cause infections. Lizards are generally harmless thus can be nice pets if taken care of well.

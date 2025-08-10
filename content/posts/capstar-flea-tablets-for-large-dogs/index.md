@@ -25,7 +25,7 @@ However, the manufacturers caution that these oral tablets must not be used for 
 
 com/capstar-flea-tablets-for-small-dogs/).
 
-# # Dosage and Reaction
+##  Dosage and Reaction
 
 Capstar flea tablets must be administered separately to the dog or other pets. - For example, you must not administer Capstar tablets to any pet whose weight is below 2 pounds. Also, check the packaging instructions 4 outlines on current dosing for the Capstar flea tablets. No adverse effects have been recorded while administering Capstar flea tablets on dogs or pets over 2 pounds.
 
@@ -33,7 +33,7 @@ You will achieve 90% effective flea control on dogs with these Capstar flea tabl
 
 - Luckily, Capstar tablets have a quick knock-down on fleas since they will kill the bugs in just 30 minutes.
 
-# # Are Capstar flea tablets safe for nursing or pregnant dogs?
+##  Are Capstar flea tablets safe for nursing or pregnant dogs?
 
 During the flea treatment process, you may notice that the dog may start itching and scratching - this is when the fleas are dying. Itching and scratching in dogs after giving them the Capstar flea tablets is a temporary reaction to the movement of fleas. - Cats can show some temporary signs like excessive grooming, vocalization, panting, and hyperactivity.
 
@@ -43,7 +43,7 @@ Also, you can use Capstar tablets in conjunction with other medications includin
 
 - So, repeat the flea treatment on the dog using Capstar tablets since the immature fleas in the environment will develop into mature ladies attacking your large dogs again. So, in addition to using the Capstar tablet to exterminate the adult fleas, you can use an insect growth inhibitor such as program flavor to help control fleas in the other life stages.
 
-# # Fleas life cycle
+##  Fleas life cycle
 
 Fleas are known to be fast producers and so their presence can cause a major problem to your pets and the household in general. - For example, 1 female flea willlay about 2000+ eggsbefore it dies. These eggs will develop and hatch to become adults in about 3 weeks. Next, once the female fleas have their blood meal from the pets, they will go ahead and lay more eggs.
 
@@ -51,13 +51,13 @@ Fleas are known to be fast producers and so their presence can cause a major pro
 
 - So, effectively control the fleas in all the life stages, we recommend a combination of the Capstar tablets (nitenpyram) and the flavor tablets (lufenuron).
 
-# # Capstar (nitenpyram) for Large Dogs
+##  Capstar (nitenpyram) for Large Dogs
 
 The oral tablets (Capstar) will exterminate adult fleas in large dogs, cats, puppies, and kittens that are 4 + weeks old and whose weight is 2 + pounds. The nitenpyram (neonicotinoids) Capstar tablets will contain 57 mg of the active ingredient (for large dogs) or 11. 4 mg of the same (for small dogs and cats). But how long will the Capstar flea treatment last?
 
 - Well, Capstar tablets will have a quick knockdown on the adult fleas (killing them in 15 minutes) - However, the effectiveness and life of the free tablets will be around 24 hours when you will be required to re-administer if the pests are still around.
 
-# # A Recent Customer Review
+##  A Recent Customer Review
 
 The customer notes that he hit the research grounds for an effective flea killer recently. - But he is keen to caution that Capstar tablets are our only guide for killing adult fleas on large dogs. It is therefore impossible to use Capstar tablets to target fleas that are in the environment. - But the customer states that the Capstar flea tablets are an excellent tool that you can incorporate into the flea control mission.
 
@@ -67,6 +67,6 @@ This technique might not work for dogs that show adverse skin reactions from fle
 
 - So, I recommend you combine administration of the tablets with thorough vacuuming and cleaning plusflea shampooing the dogfollowing a regular schedule. This combination will provide almost instant relief to the large dogs against fleas while also controlling the pests to slow their growth in the environment.
 
-# # Conclusion
+##  Conclusion
 
 In summary, the Capstar flea tablets for large dogs are effective in exterminating adult fleas. - But to control the fleas in the pets' environment, you will require acomprehensive flea extermination strategy. Despite the fact that the Capstar tablets will only work for 24 hours, it offers a quick knockdown on the fleas - which will be around 15 minutes. Cheers!

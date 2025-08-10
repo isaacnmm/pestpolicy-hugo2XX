@@ -54,9 +54,9 @@ Today, June 10, 2025, we're diving into some common household headaches and offe
 
 From those annoying drywall "nail pops" to ensuring your dryer vent is functioning optimally, we've got you covered.
 
-# # Hour 2
+##  Hour 2
 
-## # What You Can Put Down a Garbage Disposal
+###  What You Can Put Down a Garbage Disposal
 
 Garbage disposals are convenient, but they're not indestructible. Putting the wrong items down can lead to costly clogs and damage. Knowing what's safe is key.
 
@@ -76,7 +76,7 @@ These are too hard and can damage the disposal's motor or blades. * **Coffee Gro
 
 **Pro Tip: ** Always run cold water before, during, and for at least 20-30 seconds after grinding to flush food particles completely through the drainpipes.
 
-## # How to Solve Toilet Flushing Issues
+###  How to Solve Toilet Flushing Issues
 
 A malfunctioning toilet is a common and frustrating problem. Most issues stem from simple component failures within the tank.
 
@@ -96,7 +96,7 @@ Check the connection between the handle, its arm, and the chain leading to the f
 
 **Pro Tip: ** Before troubleshooting, always turn off the water supply valve behind the toilet to prevent overflows.
 
-## # How to Install an Underlayment
+###  How to Install an Underlayment
 
 Underlayment is a thin layer of material installed between the subfloor and the finished flooring. It plays a crucial role in providing support, moisture protection, sound deadening, and a smoother surface.
 
@@ -118,7 +118,7 @@ Underlayment is a thin layer of material installed between the subfloor and the 
 
 **Pro Tip: ** Always choose an underlayment specifically recommended by your flooring manufacturer to ensure compatibility and warranty validity.
 
-# # Simple Solutions
+##  Simple Solutions
 
 * **Deodorize Drains: ** Pour 1/2 cup baking soda down the drain, followed by 1 cup white vinegar. Let it fizz for 15-30 minutes, then flush with hot water. * **Tighten Loose Screws: ** Regularly check cabinet hinges, doorknobs, and drawer pulls. A quick tighten with a screwdriver prevents sagging and damage.
 

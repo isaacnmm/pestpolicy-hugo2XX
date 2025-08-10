@@ -23,7 +23,7 @@ While it might seem like a daunting project, building your own backyard waterfal
 
 This comprehensive guide provides essential tips for designing, constructing, and maintaining a stunning backyard waterfall, helping you create a serene oasis that enhances your outdoor living space.
 
-# # Planning Your Backyard Waterfall
+##  Planning Your Backyard Waterfall
 
 Before you even think about digging, thorough planning is paramount. A well-thought-out design saves time, money, and frustration down the line.
 
@@ -45,7 +45,7 @@ Sketch out your ideas.
 
 4. **Budgeting: ** Estimate costs for liner, pump, tubing, rock, gravel, filtration, and electricity. Don't forget potential costs for soil removal or professional assistance if needed.
 
-# # Materials and Tools You'll Need
+##  Materials and Tools You'll Need
 
 Having the right materials and tools on hand before you begin will make the construction process much smoother.
 
@@ -73,7 +73,7 @@ Can be a pre-formed plastic spillway or simply designed with flat stones. * **Ro
 
 * **Buckets: ** For moving smaller quantities of materials. * **Safety Glasses: ** Eye protection.
 
-# # Step-by-Step Guide to Building a Backyard Waterfall
+##  Step-by-Step Guide to Building a Backyard Waterfall
 
 Once your planning is complete and you have your materials, it's time to get started with the construction.
 
@@ -105,7 +105,7 @@ This forces water to stay on the intended path, preventing it from disappearing 
 
 5. **Test the Waterfall: ** * **Fill with Water: ** Carefully fill the pond/reservoir with water. * **Run the Pump: ** Turn on the pump and observe the water flow. Look for any leaks, areas where water is escaping the stream bed, or uneven flow. Adjust rocks or apply more foam as needed. Make any necessary tweaks before trimming excess liner.
 
-# # Adding Finishing Touches and Landscaping
+##  Adding Finishing Touches and Landscaping
 
 Once the waterfall is functional and leak-free, it's time to refine its appearance and integrate it into your landscape.
 
@@ -117,7 +117,7 @@ Once the waterfall is functional and leak-free, it's time to refine its appearan
 
 * **Perimeter Plants: ** Plant moisture-loving plants, ferns, hostas, or ornamental grasses around the edges of the waterfall and stream to soften the hard lines of the rocks and integrate the feature into your garden. 5. **Add Lighting (Optional): ** Submersible LED lights or external landscape spotlights can dramatically enhance your waterfall, allowing you to enjoy its beauty even after dark.
 
-# # Maintenance Tips for Your Waterfall
+##  Maintenance Tips for Your Waterfall
 
 While waterfalls are generally low-maintenance compared to full ponds, some regular care is essential to keep them running smoothly and looking their best.
 
@@ -129,7 +129,7 @@ Use beneficial bacteria treatments (available at pond supply stores), ensure pro
 
 * **Spring Start-up: ** In spring, clean the pond/reservoir, re-install the pump, fill with water, and get it running again.
 
-# # Troubleshooting Common Issues
+##  Troubleshooting Common Issues
 
 Even with careful planning, issues can arise. Here are quick tips for common waterfall problems:
 
@@ -143,7 +143,7 @@ Repair with a patch kit. * **Splash Out: ** Adjust rocks or flow to prevent wate
 
 * **Insufficient Filtration: ** Improve or clean your filtration system.
 
-# # Conclusion
+##  Conclusion
 
 Building a backyard waterfall is a rewarding project that adds immense beauty, tranquility, and value to your home. While it requires effort and attention to detail, the soothing sights and sounds of flowing water create an unparalleled serene retreat.
 

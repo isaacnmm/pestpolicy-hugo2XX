@@ -21,7 +21,7 @@ These resilient brambles, part of the *Rubus* genus, thrive in diverse environme
 
 While the thrill of the hunt and the promise of a delicious harvest are enticing, successful wild berry picking requires a bit of knowledge: where to look, how to identify ripe fruit, and essential safety precautions. This guide will equip you with everything you need to embark on your own berry-picking adventure, ensuring a safe, enjoyable, and bountiful experience.
 
-# # What To Know About Wild Blackberries and Raspberries
+##  What To Know About Wild Blackberries and Raspberries
 
 Blackberries and raspberries are both aggregate fruits, meaning they are composed of many small, individual drupelets (tiny fruit segments, each containing a seed) clustered around a central core. They are members of the *Rubus* genus, which includes hundreds of species and hybrids, leading to a wide variety in taste, size, and ripening times.
 
@@ -31,7 +31,7 @@ Blackberries and raspberries are both aggregate fruits, meaning they are compose
 
 Both plants are typically thorny, forming dense, arching canes that can be challenging to navigate but offer protection for the ripening fruit.
 
-# # Where Blackberries and Raspberries Grow
+##  Where Blackberries and Raspberries Grow
 
 These adaptable plants are widespread across many temperate regions of the world, often considered pioneers that quickly colonize disturbed areas.
 
@@ -43,7 +43,7 @@ These adaptable plants are widespread across many temperate regions of the world
 
 **In Kenya: ** Wild blackberries and raspberries are commonly found in the cooler, higher altitude regions. For example, the Aberdares, Mount Kenya slopes, Mau Forest Complex, and other highland areas often have wild *Rubus* species. Look for them along forest edges, in clearings, and by rural roadsides. Some species might be considered invasive in certain ecosystems.
 
-# # What They Look Like
+##  What They Look Like
 
 While both are *Rubus*, knowing their specific appearance helps in identification.
 
@@ -61,7 +61,7 @@ As mentioned, the core remains with the fruit, making it solid.
 
 * **Fruit: ** Can be red (most common, e. g. , European Red Raspberry), black (e. g. , Black Raspberry), or sometimes yellow. When ripe, it detaches cleanly from its core, leaving a hollow center.
 
-# # Blackberry and Raspberry Picking Season
+##  Blackberry and Raspberry Picking Season
 
 The exact timing varies significantly by region, climate, and specific species, but generally:
 
@@ -73,7 +73,7 @@ The exact timing varies significantly by region, climate, and specific species, 
 
 * **Color: ** Both should be fully colored (deep red for red raspberries, black for blackberries and black raspberries). No green or reddish hues should remain. * **Ease of Picking: ** A ripe berry will detach easily from the plant with a gentle tug. If you have to pull hard, it's not ready. * **Taste: ** The ultimate test! Taste a few to gauge ripeness. Unripe berries will be tart or bland.
 
-# # Blackberry and Raspberry Picking Tips
+##  Blackberry and Raspberry Picking Tips
 
 * **Dress Appropriately: ** * **Long Sleeves and Pants: ** Essential to protect against thorns, scratches, and insect bites. * **Sturdy, Closed-Toe Shoes: ** For navigating uneven terrain. * **Gloves: ** Thick gardening gloves are a must for protecting hands from thorns.
 
@@ -89,7 +89,7 @@ They also heat up quickly in the afternoon sun, making them softer.
 
 There are very few truly poisonous berries that resemble blackberries or raspberries, but proper identification is a fundamental rule of foraging. * **Be Aware of Wildlife: ** You're in nature. Be mindful of snakes, spiders, and other creatures that might also enjoy berries. * **Tell Someone: ** Let someone know where you are going and when you expect to return.
 
-# # Steps To Take After Picking Berries
+##  Steps To Take After Picking Berries
 
 Once you've filled your containers, the work isn't quite over. Proper handling ensures freshness and prolongs enjoyment.
 
@@ -101,7 +101,7 @@ Once you've filled your containers, the work isn't quite over. Proper handling e
 
 * **Culinary Uses: ** Enjoy fresh, in pies, tarts, jams, jellies, sauces, smoothies, or as toppings for yogurt and cereal.
 
-# # Final Thoughts on Berry Picking
+##  Final Thoughts on Berry Picking
 
 Foraging for wild blackberries and raspberries is a truly rewarding experience, offering a direct connection to nature's bounty and the unparalleled flavor of sun-ripened fruit. With a little preparation, careful identification, and respect for the environment, you can enjoy abundant harvests for yourself, your family, and friends. Embrace the prickles, savor the sweetness, and discover the simple joy of finding your own wild treasures.
 

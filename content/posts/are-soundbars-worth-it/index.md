@@ -19,11 +19,11 @@ So, are soundbars worth it? Well, soundbars are touted as an easy method to upgr
 
 * - *Also, soundbars have better sound quality than built-in TV speakers and are compatible with the latest sound technologies including smart-home devices. * *A [soundbar](https: //pestpolicy. com/2-1-vs-5-1-soundbar/) will have 2+ speakers (surround or stereo) in its long cabinet - some soundbars may have a wireless speakers - check these check soundbars. *
 
-# # Are Soundbars Worth It? - 7 Key Tips
+##  Are Soundbars Worth It? - 7 Key Tips
 
 Quality soundbars are excellent to get high-quality audio from your TV. Despite that most soundbars won't sound better than separate speakers (for music), they're superior to built-in TV speakers.
 
-## # 1. Soundbars is Easy to Setup/ Install and Use
+###  1. Soundbars is Easy to Setup/ Install and Use
 
 Soundbars will be easy to install or setup - both the soundbar and its other components. It's easier than setting up the regular sound systems that you have to ensure they fit and work together. Further, you won't have to care and work with the many sound system components. You can easily integrate them with devices and components like your TV - mics for recording acoustic guitar.
 
@@ -37,7 +37,7 @@ Thus, you can easily stream or change the show, and music without using a remote
 
 com/coaxial-vs-optical-digital-cable-3134605).
 
-## # 2. Soundbars have Superior Sound quality
+###  2. Soundbars have Superior Sound quality
 
 Initially, soundbars fell short on sound quality - they offered a better alternative to the sound system for the flat-screen TV. Thus, soundbars were just slightly superior to the in-built TV speakers. However, soundbars are now deep and better positioned in the home entertainment space and hence have developed to become better sound systems.
 
@@ -45,7 +45,7 @@ In addition, its now possible to add other fitting components to your soundbars 
 
 Check the [difference between 2. 1 vs 5. 1 Soundbars](https: //pestpolicy. com/2-1-vs-5-1-soundbar/).
 
-## # 3. Soundbars have Minimalist and Sleek Design
+###  3. Soundbars have Minimalist and Sleek Design
 
 To match your chic modern decor, soundbars have a minimalist and stylish design that you'll love. Further, with their wireless subwoofer, you'll have even fewer wires that will be crossing around your spaces and rooms. Therefore, the soundbar design will match your TV's slim aesthetic - which also providing quality audio that'll go well with the excellent TV visuals for watching different films and TV shows with a great experience.
 
@@ -57,7 +57,7 @@ For example, the system acts like the receiver while also holding all your front
 
 Notably, wireless connectivity allows you to place the surrounds and sub(s) at your selected location without needing wires.
 
-## # 4. Soundbars are Compatible with Latest Technology
+###  4. Soundbars are Compatible with Latest Technology
 
 By design, most soundbars will seamlessly integrate with your favorite smart-home devices that have the latest technology including the smart TV, Amazon Alexa, Dolby Atmos, or even 4K TV. The latest soundbars allow wireless audio streaming through Bluetooth plus they'll have convenient inputs like Coaxial and Optical, regular HDMI, and HDMI ARC - check differences in soundbar's HDMI vs optical inputs.
 
@@ -71,7 +71,7 @@ com/story/spotify-tips-and-tricks/) on higher-quality speakers.
 
 - What's the best soundbar under 200- Well, I recommend this compact and lightweight Vizio SB3621n-E8 to give you excellent quality from your TV at a budget. It has a wireless sub-woofer plus allows blue-tooth connectivity. - What's the best soundbar with Alexa - Well, I recommend this Yamaha YAS-209 that has an on-board Amazon Alexa to give you great connectivity and great sound quality.
 
-## # 5. Soundbars are Cost-effective (between $100 & $1,000)
+###  5. Soundbars are Cost-effective (between $100 & $1,000)
 
 Most soundbars will cost anywhere between $200 & $600 but maybe lows of $100 or highs of $1000. Therefore, these are highly affordable compared to your regular surround audio system. Components of your regular surround audio system are costly when purchased separately. Compared to the soundbar package or a soundbar, even a package sound system deal will be more expensive. But, are cheap soundbars any good?
 
@@ -81,7 +81,7 @@ Evidently, large-sized soundbars could have more drivers and thus a bugger sound
 
 However, to future-proof your soundbar, check that it has 3+ inputs and ensure they're passing both HRD and 4K signals - particularly for the 4K TV. You can stream music and other audio for the tablet or audio including from music apps like Spotify or Pandora.
 
-# # Do I need an in-built Google Assistant or Alexa?
+##  Do I need an in-built Google Assistant or Alexa?
 
 Currently soundbars comes with voice-assistants that're in-built made by Sonos Beam, Google or Amazon. Don't have to purchase soundbar plus a Nest Mini separately - stylish and saving space. The voice-assistant speaker like the Polk Command Bar or the Echo Dot will require that you have the "always on" microphone - you can control the soundbar functions including turning off lights.
 
@@ -89,7 +89,7 @@ The voice -assistant feature just sit around like a web browser that'll wait for
 
 Further, you should know that Amazon Echo Link allows a user to install Alexa capability on all soundbars that have analog input - but also check the input to hear music and responses.
 
-# # Do I need Dolby Atmos or Surround sound?
+##  Do I need Dolby Atmos or Surround sound?
 
 Previously, 2-channel soundbars sounded alike with stereo or surround modes but wall-bouncing & Dolby Virtual: X like Sennheiser Ambeo & Samsung HW-Q70R enhance immersion. However, you may add extra surrounds (e. g. Ikea Synfonisks ) on your soundbar like Sonos Playbar to get you better surround and extensive immersion for movies.
 
@@ -97,7 +97,7 @@ Luckily, you can include surround speakers to most mid-range soundbars for brand
 
 Therefore, there has been a major rise in the Atmos soundbars that has led to a significant drop in the prices. Different streaming services like Netflix provide Atmos soundtracks for TV and movies.
 
-# # Conclusion
+##  Conclusion
 
 After connecting the TV, check if the audio signals are sending correctly to your soundbar through TV audio by turning off the internal speakers of your TV. You can check other connections like [mini-jack - 1/8-inch (3. 5mm)](http: //encyclopedia2. thefreedictionary. com/3. 5mm+jack) on your basic soundbar to connect audio sources like [music or record players](https: //pestpolicy. com/best-record-player-under-100/).
 

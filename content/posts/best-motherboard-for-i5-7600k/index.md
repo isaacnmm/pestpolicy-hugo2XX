@@ -20,9 +20,9 @@ The i5 7600k processor has advanced features compared to the other i5 series pro
 
 Notably, i5 7600k has a 7% increase in clock speed over the i5-6600K. Check my analysis i5 6600k vs. i7 6700k.
 
-# # 7 Best Motherboard for i5 7600k
+##  7 Best Motherboard for i5 7600k
 
-## # [1. ASUS PRIME Z270-A LGA1151](https://www.amazon.com/dp/B01NGTYV2Q/?tag=p-policy-20)
+###  [1. ASUS PRIME Z270-A LGA1151](https://www.amazon.com/dp/B01NGTYV2Q/?tag=p-policy-20)
 
 For its budget prices, the Asus Prime Z270-A is a great quality board and white theme motherboard that will also allow overclocking. A sus Prime Z270-A doubles as the most common Z270 motherboard for gaming, content creation, or streaming, and the Asus highly popular motherboard entry.
 
@@ -30,7 +30,7 @@ I must state that ASUS has incorporated critical new attributes such as M. 2 and
 
 Interestingly, ASUS PRIME Z270-A has both the aura sync technology and RGB headers. In fan control, each header has both 3-pin and 4-pin and thus can control the temperature inputs and acoustics, or GP temperature that you can assign. Pros: - ASUS motherboard will have superior support and Bios firmware updates. - Supportscustomized 3D printed panels - Beautiful build and layout - Top UEFI BIOS build Cons: - Has no UEFI RGB LED design
 
-## # [2. MSI Pro Z270 SLI PLUS DDR4](https://www.amazon.com/dp/B01MR32I8L/?tag=p-policy-20)
+###  [2. MSI Pro Z270 SLI PLUS DDR4](https://www.amazon.com/dp/B01MR32I8L/?tag=p-policy-20)
 
 Z270 SLI Plus is SLI and thus is great for heavy work and gaming with Intels top chipset. It has Military Grade 5 elements, supports Crossfire, and SLI, USB 3. 1, and has Turbo M. 2 slots. T he northbridge and southbridge are protected by the heatsinks with both bright and black metal. However, the motherboard lacks the RGB LEDs on the board but has an RGB light-strip header.
 
@@ -40,7 +40,7 @@ MSI will support the 3-way AMD CrossFire and 2-way Nvidia SLI as limited individ
 
 - It has Watercooling, Full fan control, PWM/ DC Mode, and 6x Fan headers. Also, it supports legacy connectors and HDR and OLED display connectors. Pros: - Quick applications operation - Great build and feel - Solid core features Cons: - Slow in gaming
 
-## # **3. GIGABYTE AORUS GA-Z270X-Gaming K5**
+###  **3. GIGABYTE AORUS GA-Z270X-Gaming K5**
 
 Next on the i5 7600k compatible motherboards is the GIGABYTE AORUS GA-Z270X-Gaming K5 that has a neutral black look with the onboard LEDs. T he Z270X-Gaming K5 keeps the Aorus some of its key characteristics. Z270X-Gaming K5 has *Smart Fan 5, * which will allow you excellent fan control. Further, the fan control mechanism will operate effectively with the 3-pin DC and 4-pin PWM fans and pumps.
 
@@ -50,7 +50,7 @@ It has USB 3. 1 10Gbps Gen 2 in the Type-A and -C form that is ASM2142 chipset r
 
 It has a Gigabit LAN networking kit that is designed to enable multimedia and professional utilization for a fast, stable, and secure connection. Pros: - RGB fusion led - Dual Ultra-Fast M. 2 - Smart Fan 5 with Hybrid Fan Headers and Temperature Sensors Cons: - None
 
-## # [4. ASRock Fatal1ty Z170 Gaming K6](https://www.amazon.com/dp/B013M795RG/?tag=p-policy-20)
+###  [4. ASRock Fatal1ty Z170 Gaming K6](https://www.amazon.com/dp/B013M795RG/?tag=p-policy-20)
 
 The ASRock Fatal1ty Z170 Gaming K6 will be an excellent gaming motherboard that will be compatible with your i5 7600k CPU supporting the LGA 1150 or 1151 Socket and Killer E2400 network. T he mo-bo includes a 12-phase power build, supports the AMD Quad CrossFire and NVIDIA Quad SLI for full gaming experience at an affordable price. ASRock Fatal1ty Z170 Gaming K6 comes with USB 3. 1 connectivity, dual LAN ports, Intel Optane Memory.
 
@@ -60,7 +60,7 @@ Its F-Stream feature enables a gamer to give system information, overclock, and 
 
 Pros: - Excellent storage connection - Has killer LAN allowing gaming prioritization - Aesthetic design, particularly the heat-sinks - Many ports (on-board) Cons: - Middling performance
 
-## # [5. MSI Z270 Gaming Pro Carbon](https://www.amazon.com/dp/B01MY58BS3/?tag=p-policy-20)
+###  [5. MSI Z270 Gaming Pro Carbon](https://www.amazon.com/dp/B01MY58BS3/?tag=p-policy-20)
 
 MSI Z270 Gaming Pro Carbon is an average-priced mo-bo that is a favorite for many dual-GPU gaming enthusiasts and comes with M. 2 Shield cooling and has RGB LEDs. T he mobo is extensively silver and black with separately controllable RGB LED lighted areas that will give you a better gaming experience.
 
@@ -74,7 +74,7 @@ It has a separate audio PCB and will have Audio Boost 4 to deliver top-quality s
 
 Pros: - Has M. 2 Shield - Beautiful motherboard build - Magical and customizable Light RGB - Featured base to allow top gaming build Cons: - Lacks Wi-Fi
 
-# # Conclusion
+##  Conclusion
 
 What is i5 7600k? i5 7600k CPU is a 4 core four thread 3. 8 gigahertz base, 4. 2 GHz boost clock CPU coming with a cavity-like architecture that uses 16 PCIe lanes and 6MB of l3 cache. - It is 3MHz faster compared to the Skylake 6600 k, but it has just small enhancements for video decoding. Also, it uses the 1151 socket LGA and hence has 1151 pins at the back, and with just the BIO update, itll fit into the new Z270 and older Z170 motherboards.
 

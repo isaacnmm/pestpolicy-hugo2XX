@@ -20,11 +20,11 @@ Really, what can I wash my cat with?
 
 What should I use to wash my cat with so he doesn't get irritated skin or an allergic reaction? - **In summary: to wash your cat, use a ****deodorizing shampoo made from natural ingredients. Or use a conditioning and dry skin shampoo, for a cat having dry skin. But overall, avoid human shampoo to wash the cat as it'll dry out its hair. ** Let us find out!
 
-# # Details: What Can I Wash My Cat with
+##  Details: What Can I Wash My Cat with
 
 There are a number of benefits associated with using authentic cat shampoo compared to human shampoo, including; less dryness and itching, more natural pH balances, and fuller hair.
 
-## # 1. Cat Shampoo - Earthbath 2-in-1 Shampoo
+###  1. Cat Shampoo - Earthbath 2-in-1 Shampoo
 
 What can I use to shampoo my cat? First, avoid human shampoo as it'll dry out the cat's skin. Cat shampoos are made with natural ingredients and do not contain harsh chemicals. - There is a wide range of cat shampoo to choose from, depending on the desired outcome - if you want your pet's hair to smell good or be soft & silky all day long!
 
@@ -38,7 +38,7 @@ Earthbath also has almond oil to nourish your pet's skin while reducing allergic
 
 All this without the use of harsh chemicals that can be toxic when inhaled or absorbed into a cat's bloodstream through contact with their skin.
 
-## # 2. Baby shampoo for washing cats
+###  2. Baby shampoo for washing cats
 
 In contrast to regular pet shampoo, baby shampoo is made from gentle ingredients, and thus it's great for use on cats' sensitive skin.
 
@@ -48,7 +48,7 @@ The other thing to know about baby shampoo is that even though it sounds like it
 
 - And by choosing something with zero sulfates and parabens as well as gentle cleansers or an organic selection, you're ensuring maximum safety for their delicate skin while removing odor-causing bacteria.
 
-## # 3. Dawn dish soap
+###  3. Dawn dish soap
 
 Dawn dish soap is well known for its oil-stripping properties. Dawn dish soap is perfect for bathing the cat, but it will also do a great job of removing oily or sticky residue.
 
@@ -60,7 +60,7 @@ If you're in an emergency situation and don't have anything else at hand, sprink
 
 If you bathe your cat too often, it can dry out the skin and if they are infested with fleas then it is a trade-off between dry skin and scratching.
 
-## # 4. Castile soap
+###  4. Castile soap
 
 Castile soap is gentle and natural for dry skin, making it a good alternative to pet shampoo - especially for cats having dry skin.
 
@@ -76,7 +76,7 @@ Before using Castile soap on your cat for the first time, test this product in a
 
 If you have nothing else at hand and want to help clean off dirty cats then you can use Castile soap diluted in water as a makeshift shampoo.
 
-## # 5. Baking soda
+###  5. Baking soda
 
 If your cat doesn't need to be washed but they still smell or has fleas, you can [use baking soda](https: //pestpolicy. com/does-baking-soda-kill-fleas/). It will take away the bad smells and some dirt.
 
@@ -88,11 +88,11 @@ It is important that you consult your vet before using it, and be sure to spot t
 
 When you mix baking soda with urine, which is an acidic substance, the baking soda's chemical properties react to make them more neutralized. This can eliminate odors.
 
-## # 6. Oatmeal DIY shampoo
+###  6. Oatmeal DIY shampoo
 
 This recipe creates a simple and gentle oatmeal shampoo that can help soothe irritated or itchy skin. Requirement/, Mix. .. - Ground oatmeal (1 cup) - Baking soda ( cup) - Water (4 cups) Soak your cats fur in the mixture for five minutes and then rinse off the DIY shampoo with some warm water. The oatmeal shampoo can be stored in the refrigerator for up to two weeks.
 
-# # Conclusion
+##  Conclusion
 
 I hope this article has given you some good tips for keeping your cat clean. - When faced with a cat who needs to be washed fast, not one of the above alternatives is going to disappoint. If you have any other questions, please feel free to contact me and I'll try my best to answer them!
 

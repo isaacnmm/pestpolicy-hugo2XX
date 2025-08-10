@@ -24,9 +24,9 @@ So, what causes back pain? Back pain and other spine-related problems result fro
 
 Read Also: Bullet Journal Notebook
 
-# # How to relieve back pain fast at home  Step by Step
+##  How to relieve back pain fast at home  Step by Step
 
-## # 1. Core muscle exercise  The right way!
+###  1. Core muscle exercise  The right way!
 
 Muscle tightness is one of the causes of low back pain. Notably, hip flexors, quads, and [Hamstrings](http: //en. wikipedia. org/wiki/Hamstring) may shorten with time and thus cause muscle stretching and consequently lead to back pain.
 
@@ -50,11 +50,11 @@ Remember to stand beside your work desk and stretch backward during the day. Als
 
 Read Also: Wifi Extender for Verizon Fios
 
-## # 2. Sleep Better for BackPain Relief
+###  2. Sleep Better for BackPain Relief
 
 Lower back pain causes many disability cases globally and is mainly attributed to lousy sleeping positions and poor posture.
 
-### # a. Use a pillow between the knees and sleep on your side
+####  a. Use a pillow between the knees and sleep on your side
 
 Do you ever feel pain in the back or uncomfortable when sleeping flat? Be sure that sleeping on the side will give you ultimate comfort to avoid straining your spine and back muscles.
 
@@ -68,13 +68,13 @@ However:
 
 Avoid oversleeping on one side as this could lead to scoliosis or muscle imbalance.
 
-### # b. Sleep on the back and have a pillow under the abdomen
+####  b. Sleep on the back and have a pillow under the abdomen
 
 Maybe you already know that sleeping on your stomach can hurt your back. - Well, you are right. Such a position can stress your neck muscles. However, you can balance the stress by placing a pillow under the lower abdomen and pelvis to remove some pressure from your back.
 
 Further, depending on the comfort level, you can place a pillow under the head.
 
-## # 3. Reclined sleeping
+###  3. Reclined sleeping
 
 It is very uncomfortable sleeping on the regular couch. Ouch!
 
@@ -84,7 +84,7 @@ So, how does reclining help you back?
 
 In the reclined position, the trunk and thighs will have an angle and hence pull off pressure from your back and spine.
 
-## # 4. Practice good posture
+###  4. Practice good posture
 
 As a kid, how many times were you told, sit upright! Stop slouching! Or stand up straight?
 
@@ -104,7 +104,7 @@ Further, if your chair is not suitable for an ergonomic sitting, you should purc
 
 Read Also: SD card for Raspberry Pi 3
 
-## # 5. Aerobic Exercises
+###  5. Aerobic Exercises
 
 Cardio or aerobic workouts can help you fortify your cardiovascular system.
 
@@ -126,7 +126,7 @@ Swimming is all fun and relaxing. But it can also have a positive impact on your
 
 Aerobic water therapy will cut off the strain that is going to your lower back. The effect is that water buoyancy balance the impact of gravity and thus prevents pressure on your lower back.
 
-# # Conclusion
+##  Conclusion
 
 Well, there you have it. The ultimate methods you can use to relieve back pain fast at home.
 

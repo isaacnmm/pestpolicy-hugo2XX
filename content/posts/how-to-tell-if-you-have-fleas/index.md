@@ -19,9 +19,9 @@ It is pretty obvious and common for pets to catch fleas and eventually show up a
 
 Related: Home Flea Control Sprays.
 
-# # How to Tell If You Have Fleas in Your House
+##  How to Tell If You Have Fleas in Your House
 
-# # **Step 1 - Inspect Your Pets**
+##  **Step 1 - Inspect Your Pets**
 
 The following are signs that you should watch out for if fleas have infested your pets. **1. Scratching ** The undeniable sign that fleas have infested your pet is prolonged and repeated scratching your pets are doing. The primary source of food for fleas is blood, and it is only obtained by biting. Pets, in turn, retaliate by scratching themselves and repeated grooming (for cats) to remove the fleas off their bodies.
 
@@ -41,7 +41,7 @@ Dodgy colored dandruff** In human beings, fleas cause welts and bumps. In pets, 
 
 Related: Yard Flea Sprays
 
-# # **Step 2 - Inspect Your House**
+##  **Step 2 - Inspect Your House**
 
 **1. Sock riders** Spend at least 10 minutes walking around the house with the socks being as high as possible. Fleas will catch the socks looking for a meal. After the short walk, could you remove them and inspect them for fleas? You can use flea bombs to exterminate the flea from your house. Ensure that you are wearing white cotton socks. They will protect from the bites.
 
@@ -57,13 +57,13 @@ com/what-do-flea-eggs-look-like/) are small, white, and oval-shaped.
 
 Remember to have gloves on your hands as a health precaution. Flea dirt is composed of flea fecal matter that is usually digested blood and other waste. It resembles finely ground black pepper. The most [common places to find flea](https: //pestpolicy. com/where-do-fleas-come-from/) dirt are around the tail, groin area, length of the lower side, and behind the hind legs.
 
-# # **Step 3  Inspect Your Yard**
+##  **Step 3  Inspect Your Yard**
 
 **1. Backyard specks** Just like the indoor procedure, spend at least 10 minutes walking around your backyard. Ensure that you are wearing white cotton socks with the socks being as high as possible. Fleas will catch the socks looking for a meal. After the short walk, could you remove them and inspect them for fleas? They will be in the form of black pepper specks.
 
 Those dingy places are most likely the places where your pets contracted the pests from.
 
-# # How to Get Rid of the Fleas
+##  How to Get Rid of the Fleas
 
 Now we have an idea of what we are dealing with and signs to watch out for. So we can talk about the removing process. Here are a few recommended ways of eliminating fleas from your pets. **1. Flea bath** It involves bathing your pet in specialized shampoos that cover most of the pets bodies. This leaves the [fleas with nowhere to hide hence killing](https: //pestpolicy. com/how-to-kill-fleas-on-dogs-naturally-safe-and-fast/) them. **2.
 
@@ -73,6 +73,6 @@ Enquire about the correct dosage from your vet. **4.
 
 Sticky Traps** These non-toxic alternatives trap fleas using a sticky adhesive. The adhesive stops the bugs from moving, killing them through dehydration and hunger **5. Flea Comb** They have teeth specifically designed to pick up fleas from your pets fur. Some well-designed combs pick up even larvae and eggs.
 
-# # Sources:
+##  Sources:
 
 1. [Comparison of Two Techniques for the Detection of Flea Faeces - NCBI](https: //www. ncbi. nlm. nih. gov/pmc/articles/PMC4227412/) 2. [5 Signs You (and Your Pet) Have Fleas and Don't Know It petMD](https: //www. petmd. com/dog/parasites/signs-you-your-pet-have-fleas-and-dont-know-it) 3. [Dermatitis caused by Ctenocephalides felis (cat flea) in human - NCBI](https: //www. ncbi. nlm. nih. gov/pmc/articles/PMC4247491/)

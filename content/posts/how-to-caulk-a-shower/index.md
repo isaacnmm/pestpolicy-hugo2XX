@@ -45,11 +45,11 @@ These compromised seals allow water to seep behind walls, into subfloors, and ar
 
 Fortunately, re-caulking a shower is a highly effective and relatively simple DIY project that can significantly extend the life of your bathroom surfaces and maintain a clean, watertight environment. This guide will walk you through the essential steps, from preparing your shower properly to planning your caulk application, ensuring a professional-looking, durable, and leak-free seal.
 
-# # Planning to Caulk Your Shower
+##  Planning to Caulk Your Shower
 
 With the shower prepped, the next stage is planning your application for the best results.
 
-## # 1. Understand Your Caulk Type and Cure Time
+###  1. Understand Your Caulk Type and Cure Time
 
 * **100% Silicone: ** This is the preferred choice for showers due to its flexibility, water resistance, and longevity. However, it's notorious for being challenging to work with (sticky, harder to smooth) and has a longer cure time. * **Cure Time: ** Read the caulk tube's instructions carefully.
 
@@ -57,33 +57,33 @@ Silicone caulk typically has a "tack-free" time (when it's dry to the touch) and
 
 This can range from 12-24 hours for tack-free to 24-72 hours or more for full cure. *Do not expose the caulk to water before its full cure time. *
 
-## # 2. Practice Your Bead (Optional but Recommended)
+###  2. Practice Your Bead (Optional but Recommended)
 
 If you're new to caulking or using a caulk gun, practice on a piece of scrap cardboard or even a disposable plate. This helps you get a feel for the pressure needed and how quickly to move the gun to achieve a consistent bead.
 
-## # 3. Cut the Caulk Tube Nozzle
+###  3. Cut the Caulk Tube Nozzle
 
 * **Small Hole is Key: ** Use your utility knife to cut the tip of the caulk tube nozzle at a 45-degree angle. * **Start Small: ** Begin with a very small opening, just slightly larger than the width of the gap you are filling. You can always cut it larger if needed, but you can't make it smaller. A smaller hole gives you more control and a finer bead.
 
 * **Puncture Inner Seal: ** Use the long wire often found on the caulk gun, or a long nail, to puncture the inner foil seal inside the caulk tube.
 
-## # 4. Load the Caulk Gun
+###  4. Load the Caulk Gun
 
 * **Insert Tube: ** Pull the plunger rod of the caulk gun all the way back. Insert the caulk tube into the gun barrel. * **Advance Plunger: ** Push the plunger rod forward until it firmly contacts the back of the caulk tube. * **Release Pressure: ** Most caulk guns have a small lever or button to release the pressure on the plunger. Engage this after each bead to prevent excess caulk from oozing out.
 
-## # 5. Applying Painter's Tape (For Crisp Lines)
+###  5. Applying Painter's Tape (For Crisp Lines)
 
 This step is optional but highly recommended for achieving perfectly straight, professional-looking caulk lines, especially if you're not confident in your freehand technique.
 
 * **Apply Tape: ** Apply painter's tape along both sides of the seam you're caulking, leaving only the exact width of the desired caulk bead exposed. * **Press Firmly: ** Press the edges of the tape down firmly to prevent caulk from seeping underneath. * **Advantages: ** This acts as a guide for your caulk gun and makes cleanup much easier.
 
-## # 6. Apply the Caulk Bead
+###  6. Apply the Caulk Bead
 
 * **Consistent Pressure: ** Hold the caulk gun at a consistent 45-degree angle to the seam. * **Steady Movement: ** Apply steady, even pressure to the trigger while moving the gun smoothly and continuously along the seam. Aim for one continuous bead per seam. * **Corners: ** For corners, try to make a continuous pass or be very careful when stopping and restarting.
 
 * **Don't Over-Apply: ** It's better to apply slightly less caulk and add more if needed than to apply too much, which creates a huge mess when smoothing.
 
-## # 7. Smooth the Caulk Bead
+###  7. Smooth the Caulk Bead
 
 This step must be done immediately after applying the caulk, before it starts to skin over.
 
@@ -93,10 +93,10 @@ This is a common and effective method for silicone.
 
 * **Remove Excess: ** Have paper towels ready to wipe excess caulk from your finger or smoothing tool frequently.
 
-## # 8. Remove Painter's Tape (If Used)
+###  8. Remove Painter's Tape (If Used)
 
 * **Immediately: ** If you used painter's tape, remove it *immediately* after smoothing the caulk, while the caulk is still wet. Pull the tape slowly at a 45-degree angle away from the caulk line. If you wait too long, the caulk will skin over and pull with the tape, ruining your crisp line.
 
-## # 9. Clean Up and Cure
+###  9. Clean Up and Cure
 
 * **Wipe Down: ** Use a damp rag or paper towels to clean up any errant caulk smears or drips on surfaces. * **Allow to Cure: ** **DO NOT** expose the newly caulked area to water until the caulk has fully cured, as specified on the tube. This usually means no showers for at least 24-72 hours. Proper curing ensures maximum durability and watertightness.

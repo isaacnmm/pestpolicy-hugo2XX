@@ -53,7 +53,7 @@ While the idea of disturbing a thriving plant might seem daunting to some, repot
 
 This guide will walk you through the entire repotting process, from identifying the signs of a root-bound plant to providing essential aftercare, helping you give your beloved indoor greenery the fresh start it deserves.
 
-# # Supplies Needed for Repotting
+##  Supplies Needed for Repotting
 
 Having everything ready beforehand makes the process smoother.
 
@@ -67,7 +67,7 @@ Having everything ready beforehand makes the process smoother.
 
 **Watering Can: ** For post-repotting watering. 7. **Gloves (Optional): ** To keep hands clean.
 
-# # Caring for Newly Repotted Plants
+##  Caring for Newly Repotted Plants
 
 The first few weeks after repotting are crucial for recovery.
 
@@ -79,7 +79,7 @@ Avoid direct, harsh sunlight immediately after repotting.
 
 **Patience: ** Expect a period of "transplant shock" where the plant might look a bit droopy or show no new growth. This is normal. Be patient, and it should bounce back within a few weeks as its roots settle into the new environment.
 
-# # Repotting Specific Types of Houseplants
+##  Repotting Specific Types of Houseplants
 
 While the general steps apply, some plants have specific nuances:
 

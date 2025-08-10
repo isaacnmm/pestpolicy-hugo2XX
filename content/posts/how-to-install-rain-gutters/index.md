@@ -49,7 +49,7 @@ While professional installation is always an option, installing sectional rain g
 
 We'll also cover the different types of gutters available and help you decide if professional installation is right for your project.
 
-# # Do I Need Professional Installation?
+##  Do I Need Professional Installation?
 
 While installing sectional gutters is a feasible DIY project, there are clear scenarios where hiring a professional is recommended or even necessary.
 

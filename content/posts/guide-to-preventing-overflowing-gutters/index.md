@@ -45,7 +45,7 @@ Understanding why gutters overflow is the first step towards implementing effect
 
 This guide will outline essential preventative measures, including regular cleaning and inspections, discuss the benefits of gutter guards, and delve into the root causes of overflowing gutters to help you maintain a functional and efficient rainwater management system.
 
-# # Conduct Yearly Gutter Repairs and Inspections
+##  Conduct Yearly Gutter Repairs and Inspections
 
 Cleaning is important, but it's just one part of comprehensive gutter maintenance. Regular inspections and timely repairs address issues that could lead to overflows even in a clean system.
 
@@ -61,7 +61,7 @@ Seal minor holes with gutter sealant; larger holes or widespread leaks may requi
 
 A compromised fascia cannot hold gutter hangers securely. Repair or replace rotted fascia before reattaching gutters. * **Timing: ** Ideally, combine your yearly cleaning with a thorough inspection and address any minor repairs immediately.
 
-# # What Causes Gutters to Overflow?
+##  What Causes Gutters to Overflow?
 
 Understanding the root causes helps in targeted prevention.
 

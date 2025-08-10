@@ -19,11 +19,11 @@ There are some know cockroach predators that can help you keep off those chemica
 
 * *Other animals include mice, skinks, parasitoid wasps, hedgehogs, some beetles, panther chameleons, iguanas, some birds, Entomopathogenic fungi, monitor lizards. *
 
-# # What Animals [Eat](https://pestpolicy.com/do-cockroaches-eat-bed-bugs/) Cockroaches? Roach Predators?
+##  What Animals [Eat](https://pestpolicy.com/do-cockroaches-eat-bed-bugs/) Cockroaches? Roach Predators?
 
 But how are roach eaters helpful? These bugs will trim down the roach population. They'll invade them in their ecosystem or natural habitat including bugs in your backyard.
 
-## # 1. Birds / the Avians
+###  1. Birds / the Avians
 
 Despite that birds won't naturally feed on cockroaches, mainly because the roach adults, nymphs, and indoors will be hiding in moist, warm, and dark areas. You'll get the roaches around the kitchen, bathroom, and attic - and hence they could be hiding from predatory birds. But birds will still pick them from around sewers - consult aviculturists.
 
@@ -35,7 +35,7 @@ Avoid using insecticides for roaches around feed mills and chicken farms. - Furt
 
 **Roaches Eating** **Birds** - Jays - Laughingthrushes - Oriental Magpie Robin - White-breasted Waterhen - Orioles - Starlings (most species) - Scops Owl - Parrots (most species) - Tree Pies - Babblers - Coucals - Collared Kingfisher - Greater Racket-tailed Drongo - Tiger Shrike - Mynas (most species) - Peafowl - Pheasants - Junglefowl - Makholas
 
-# # 2. Dogs and Cats
+##  2. Dogs and Cats
 
 Normally, it is not okay to feed roaches to your cats and dogs. But roaches with poisonous insecticides (high dosage or through eating many roaches) are toxic to the pets. Thus, keep cockroach poisons and toxins off your spaces if you intend to feed roaches to your domesticated pets - dogs and cats or other household pets. But indoor pets such as dogs and cats will also hunt to prey on different insects including roaches.
 
@@ -47,7 +47,7 @@ Despite that dogs and cats will actively hunt plus eat roaches, it's advisable t
 
 - On rodents including rats and mice, you may use monitoring traps (the sticky type) and this reduces the chances of entangling - leaving antennae, legs, and head.
 
-## # 3.Beetles
+###  3.Beetles
 
 Silverfish and beetles (and beetle larvae) are among the best roach predators - they'll hunt for the bugs and feed on them - plus controlling pests like the [Hemlock-Woolly Adelgid](https: //www. dec. ny. gov/animals/7250. html). But it's not advised to drop [predatory beetles](https: //extension. umd.
 
@@ -59,7 +59,7 @@ Also, keep all the garbage airtight and locked.
 
 Seal up all the cracks (on door frames) and openings that roaches and other insects may use to enter the house. Use natural repellents such as garlic, cucumber slices, and bay leaves for roaches.
 
-## # 4. Opossums
+###  4. Opossums
 
 Yes, Opossums are [extreme omnivores](https: //www. aces. edu/blog/topics/wildlife/the-virginia-opossum-our-only-native-marsupial/) that will hunt and feed on roaches largely found in North America - they'll also eat garbage, worms, and roadkill. They'll bear [semi-](http: //www. ucmp. berkeley. edu/mammal/marsupial/marsupial. html) [developed and small young ones](http: //www. ucmp. berkeley. edu/mammal/marsupial/marsupial.
 
@@ -69,7 +69,7 @@ The [average-weighted Opossums (weighing 8-13 lbs](https: //www. nationalgeograp
 
 Further, Opossums love eating weeds ( check these weed killers ) and dead plants in your garden. These include the decaying or wilting plant matter as opposed to the fresh crops. - The opossum will equally feed on carrion (*dead creatures*) including decaying creatures.
 
-## # 5. Lizards
+###  5. Lizards
 
 Lizards (including leopard geckos, monitorlizards, and bearded dragons ) will feed on roaches to acquire additional nutrition. Also, check with iguanas and geckos to control roaches. Geckos and lizards will inhabit warmer areas (being cold-blooded animals) and some humans may pet them - but will also feast on cockroaches.
 
@@ -79,7 +79,7 @@ Lizards (including iguanas or geckos ) will feed on insects including cockroache
 
 Other roach predators: - Some roach predators such as lizards, frogs, and toads will reach the bugs using theirsticky and long tongues - and ultimately crushing the roaches using the strong jaws. - Wasps also lay eggs that hatch into larvae that'll eat the roaches while also the spores of the entomopathogenic fungi will attack cockroaches to exterminate them within weeks.
 
-## # 6.Frogs
+###  6.Frogs
 
 Frogs such as the popular [Spring Peeper](https: //animaldiversity. org/site/accounts/information/Pseudacris_crucifer. html) and [Northern-Leopard Frog](http: //www. biokids. umich. edu/critters/Lithobates_pipiens/) will eat roaches - you'll find them in wet environments, lakes, and ponds. Other frog species like the [White's tree](https: //nationalzoo. si. edu/animals/whites-tree-frog) (found in New Guinea and Australia) will feed on roaches.
 
@@ -89,12 +89,12 @@ The dull-brown frogs will easily camouflage in the house and yard spaces and thu
 
 But also red imported fire ants will eat roaches.
 
-## # 7. Spiders
+###  7. Spiders
 
 Spiders will eat cloth moths, mosquitoes, and roaches among other indoor pests. But you're required many spiders to effectively control a massive roach infestation. But some homeowners will rear domesticated spiders and these [take cockroaches](https: //www. quora. com/Do-spiders-eat-cockroaches) for their food. Spider species including [Brown Huntsmans](http: //entnemdept. ufl. edu/creatures/urban/spiders/giant_crab_spider.
 
 htm) will also feed on roaches.
 
-# # Conclusion
+##  Conclusion
 
 Eating the adult roaches plus their larvae, the natural predators will ensure the bug population is checked. For instance, spiders and some ants will prey on bug roaches.

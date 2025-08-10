@@ -18,9 +18,9 @@ Whats the best [exterior](https: //pestpolicy. com/best-exterior-primer-paint/) 
 
 So, get the best mold-killing primers that have excellent antimicrobial properties to prevent the build-up and growth of mildew and mold blotches which may damage the houses' walls. But for starters, latex exterior paints (check latex paint sprayers ) will a great pick for outdoor painting such as trim and house walls. Latex paints will contract and expand with temperature changes.
 
-# # s: 7 Best Exterior Paint to Prevent Mold in 2025
+##  s: 7 Best Exterior Paint to Prevent Mold in 2025
 
-## # [1. Kilz Exterior/ Interior Masonry & Basement Water-proofing Paint](https://www.amazon.com/dp/B00B2G97FU/?tag=p-policy-20)
+###  [1. Kilz Exterior/ Interior Masonry & Basement Water-proofing Paint](https://www.amazon.com/dp/B00B2G97FU/?tag=p-policy-20)
 
 Kilz Exterior paint is best used to protect siding, barn, or fence against mildew and mold growth - it offers a great balance of quality and price.
 
@@ -40,7 +40,7 @@ Pros: - Quick drying time - Excellent pain coverage area - Budget-friendly exter
 
 Cons: - Sticks and leaves may stick on the surface and thus stain it.
 
-## # [2. Behr Premium Plus White Satin Exterior Paint Plus Primer](https://www.amazon.com/dp/B00MZ8PDMU/?tag=p-policy-20)
+###  [2. Behr Premium Plus White Satin Exterior Paint Plus Primer](https://www.amazon.com/dp/B00MZ8PDMU/?tag=p-policy-20)
 
 Behr Premium has numerous color options and is equally durable to last a few years. This paint has been used for many years for exterior surfaces even with the harshest weather.
 
@@ -58,7 +58,7 @@ Pros: - Better coverage with one coat for pre-primed exterior surfaces due to be
 
 Cons: - Relatively pricey
 
-## # [3. Rust-Oleum Zinsser Exterior Oiant - 1-Qt. PermaWhite Exterior Satin](https://www.amazon.com/dp/B000H5VKBQ/?tag=p-policy-20)
+###  [3. Rust-Oleum Zinsser Exterior Oiant - 1-Qt. PermaWhite Exterior Satin](https://www.amazon.com/dp/B000H5VKBQ/?tag=p-policy-20)
 
 Rust-Oleum Zinsser is the best exterior paint for wood - it'll resist both mildew, mold, and moisture and hence safeguard the wood from possible rotting during both the humid and wet climates.
 
@@ -76,7 +76,7 @@ ft. - Prevent peeling, blistering, and growth of mold and mildew. - Also, it'll 
 
 Cons: - Expensive
 
-## # [4. Rust-Oleum 1990502 Exterior Paint (Flat White - Painters Touch Latex)](https://www.amazon.com/dp/B000H5VKBQ/?tag=p-policy-20)
+###  [4. Rust-Oleum 1990502 Exterior Paint (Flat White - Painters Touch Latex)](https://www.amazon.com/dp/B000H5VKBQ/?tag=p-policy-20)
 
 Rust-Oleum 1990502 is made from different outdoor and indoor surfaces including your regular canvas, metal, treated wood (check [stains for pressure-treated wood](https: //pestpolicy. com/best-deck-stain-for-pressure-treated-wood/) ), and ceramic.
 
@@ -88,7 +88,7 @@ In addition, the boat will provide an excellent coat on your old boat's exterior
 
 Cons: - None
 
-## # [5. Diamond Brite Exterior Paint 31000 All-Purpose Oil-based Enamel Paint](https://www.amazon.com/dp/B00AENE0JK/?tag=p-policy-20)
+###  [5. Diamond Brite Exterior Paint 31000 All-Purpose Oil-based Enamel Paint](https://www.amazon.com/dp/B00AENE0JK/?tag=p-policy-20)
 
 Diamond Brite Exterior is easy to apply paint that's tough and equally durable - it's great for both exterior and indoor surfaces including on hardboard, fibreboard, concrete, and weather stricken metal.
 
@@ -106,6 +106,6 @@ Pros: - Durable and long-lasting exterior paint - Won't require and additional p
 
 Cons: - Naaaa
 
-# # Conclusion
+##  Conclusion
 
 Gloss paints (easy to clean and resistant to damage) are great for door-frames, brick, and window trim while Eggshell paints are suitable for fiber cement, wood planks, and vinyl. Further, flat paints are suitable for old houses as they have extensive imperfections plus wear-and-tear.

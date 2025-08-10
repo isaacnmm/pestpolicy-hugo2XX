@@ -21,7 +21,7 @@ Unlike large tree removals that demand professional arborists and heavy machiner
 
 This guide will walk you through the essential steps of safely cutting down a small tree, removing its stump and roots, and identifying the right tools for the job. We'll also cover cost considerations and help you determine when it's best to call in the professionals, ensuring you tackle your small tree removal project effectively and without incident.
 
-# # Step 1: Plan Your Cut
+##  Step 1: Plan Your Cut
 
 Before you even touch a saw, thorough planning is essential. This is the most critical step for ensuring safety and efficiency.
 
@@ -37,7 +37,7 @@ This route should be away from the tree's fall direction and any potential rolli
 
 At a minimum, you'll need: * Safety glasses or a face shield * Work gloves * Long pants and long-sleeved shirt * Sturdy, closed-toe boots (steel-toed if possible) * Hearing protection (especially if using a chainsaw)
 
-# # Step 2: Cut Down the Tree
+##  Step 2: Cut Down the Tree
 
 The method for felling a small tree involves two main cuts: a "notch" (or "hinge") cut and a "felling" cut. This creates a hinge that [guides](https: //pestpolicy. com/10-trees-to-grow-in-containers/) the [tree](https: //pestpolicy. com/can-i-plant-trees-and-shrubs-in-late-fall-or-winter/)'s fall.
 
@@ -51,7 +51,7 @@ Leave a small section of uncut wood (the "hinge") between your notch and felling
 
 **Limb and Buck: ** Once the tree is on the ground, carefully remove the branches ("limbing") and cut the trunk into manageable sections ("bucking") for disposal or firewood. Start limbing from the base of the tree towards the top, working on the side opposite from where the branches are under tension.
 
-# # Step 3: Remove the Stump and Roots
+##  Step 3: Remove the Stump and Roots
 
 Removing the stump and roots prevents regrowth and clears the area completely.
 
@@ -65,7 +65,7 @@ This method is slow but requires minimal effort.
 
 * **Removing Remaining Roots: ** For some trees, especially those known to sucker (e. g. , Poplar, Willow, some fruit trees), you may need to dig out or treat remaining root sections to prevent new shoots from emerging.
 
-# # Tools Needed to Remove a Small Tree
+##  Tools Needed to Remove a Small Tree
 
 Having the right tools makes the job safer and more efficient.
 
@@ -75,7 +75,7 @@ Having the right tools makes the job safer and more efficient.
 
 * **Safety Gear: ** * Safety glasses/face shield * Work gloves * Hearing protection (for chainsaw) * Sturdy boots * **Other: ** * Felling wedges and a mallet (if using a chainsaw, to help guide fall) * Rope (to help pull the tree in the desired direction, if needed and safe) * Measuring tape * First-aid kit (always have one on hand)
 
-# # Cost to Remove a Small Tree
+##  Cost to Remove a Small Tree
 
 While DIY is largely about saving money, there are still some potential costs.
 
@@ -85,7 +85,7 @@ While DIY is largely about saving money, there are still some potential costs.
 
 * **Professional Costs (for comparison): ** * In Nairobi, professional removal of a truly "small" tree (under 9 meters / 30 feet tall with a small trunk) might range from **KSh 5, 000 KSh 12, 000**, which often includes hauling away debris and potentially basic stump grinding for a little extra. For the average homeowner, this can be a very reasonable cost for safety and convenience.
 
-# # DIY Vs. Hiring a Pro
+##  DIY Vs. Hiring a Pro
 
 Deciding whether to DIY or hire a professional comes down to safety, size, and complexity.
 
@@ -97,7 +97,7 @@ Deciding whether to DIY or hire a professional comes down to safety, size, and c
 
 The cost of professional tree removal, especially for a small tree, is often a worthwhile investment compared to the potential cost of property damage, injury, or even death from a DIY attempt gone wrong.
 
-# # FAQs
+##  FAQs
 
 **Q: Can I remove a small tree by myself without a chainsaw? ** A: Yes, if the tree is truly small (trunk less than 10 cm / 4 inches), you can use a bow saw or a strong hand saw. It will take more effort but is safer than a chainsaw if you're not experienced with one.
 

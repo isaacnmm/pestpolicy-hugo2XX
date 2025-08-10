@@ -23,7 +23,7 @@ They are attracted by human hair, stagnant water, or drains.
 
 Also, ants are attracted by lotions, perfumes, and toothpaste due to their sweet taste and smell.
 
-# # **Characteristic features of ants **
+##  **Characteristic features of ants **
 
 **-** Ants can bite and sting, but most are harmless, with no venom. Ants measure about a length of 0. 6 to 0. 9 cm and have six legs and 3-4 abdominal segments. **-** A characteristic feature of ants is the metapleural gland that produces phenylacetic acid to fight bacteria and fungi.
 
@@ -31,9 +31,9 @@ Also, ants are attracted by lotions, perfumes, and toothpaste due to their sweet
 
 **-** However, the main distinguishing feature of ants is their waist pinched down at the back in the link with its abdomen.
 
-# # Get Rid Of Ants in the Bathroom
+##  Get Rid Of Ants in the Bathroom
 
-## # **1. Understand the ant colony **
+###  **1. Understand the ant colony **
 
 Knowing the specific insect that is in your bathroom will be important, particularly when determining which [pest control](https: //pestpolicy. com/flying-ants-vs-termites/) product of the method to use.
 
@@ -45,7 +45,7 @@ However, to wipe out the ant colony from your bathroom, you should devise ways t
 
 Therefore, if you only spray the visible ants, the ant colony will continue growing.
 
-## # **2. What is attracting the trailing ant?**
+###  **2. What is attracting the trailing ant?**
 
 Youll need to trail the ants and determine what is attracting them to your bathroom. Therefore, youll need to watch the ants determine their origin and destination in your house.
 

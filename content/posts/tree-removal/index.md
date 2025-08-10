@@ -22,7 +22,7 @@ However, a hazardous or unhealthy tree can pose significant risks to people, pro
 
 Tree removal is a task that ranges from a manageable DIY project for small specimens to an extremely dangerous operation requiring professional expertise for larger trees. Understanding when removal is truly needed, local regulations, and the safest methods for execution are paramount. This guide will help you navigate the process of tree removal, ensuring safety and responsible landscape management.
 
-# # When Do I Need To Remove a Tree?
+##  When Do I Need To Remove a Tree?
 
 Deciding to remove a tree is a significant step. Here are the primary reasons why tree removal might be necessary:
 
@@ -40,7 +40,7 @@ Deciding to remove a tree is a significant step. Here are the primary reasons wh
 
 5. **Non-Native or Invasive Species: ** * Removing invasive trees can help restore ecological balance and prevent them from outcompeting native vegetation.
 
-# # Check the Local Regulations
+##  Check the Local Regulations
 
 Before grabbing any tools, it is **imperative** to check your local municipal or county regulations regarding tree removal. Many areas have ordinances in place to protect trees, especially mature ones.
 
@@ -50,7 +50,7 @@ Before grabbing any tools, it is **imperative** to check your local municipal or
 
 **Consequences of Non-Compliance: ** Removing a tree without the necessary permits can result in hefty fines and requirements to replant multiple trees. Always confirm local regulations first. In Kenya, local county governments (e. g. , Nairobi City County) might have by-laws regarding tree felling, especially for larger, mature trees in urban areas. Check with your county's environment or planning department.
 
-# # DIY: Removing Small Trees Yourself
+##  DIY: Removing Small Trees Yourself
 
 Removing small trees (typically those less than 6 meters / 20 feet tall, with a trunk diameter of less than 15-20 cm / 6-8 inches at chest height) can be a DIY project for those comfortable with power tools and safety procedures.
 
@@ -70,7 +70,7 @@ Removing small trees (typically those less than 6 meters / 20 feet tall, with a 
 
 **WARNING: ** Even small trees can be dangerous. Misjudging the fall, improper cuts, or equipment malfunction can lead to severe injury or property damage. If you have any doubt, hire a professional.
 
-# # Hiring Professionals for Large Trees
+##  Hiring Professionals for Large Trees
 
 For large trees (over 6-7 meters / 20-25 feet tall, or those with significant hazards), hiring a certified arborist is not just recommended, it's **essential**.
 
@@ -84,7 +84,7 @@ For large trees (over 6-7 meters / 20-25 feet tall, or those with significant ha
 
 * **Avoid Pressure Sales: ** Be wary of high-pressure tactics or contractors who demand cash up front.
 
-# # Aftercare and Landscape Restoration
+##  Aftercare and Landscape Restoration
 
 Once the tree is removed, the work isn't entirely done.
 
@@ -94,7 +94,7 @@ Once the tree is removed, the work isn't entirely done.
 
 Choose species suitable for your climate and soil, and consider their mature size and root systems to avoid future problems.
 
-# # Final Thoughts
+##  Final Thoughts
 
 Tree removal is a serious task that should never be taken lightly. While small, non-hazardous trees might be manageable for experienced DIYers, the inherent risks associated with falling timber, chainsaws, and working at height make professional intervention the safest and most effective choice for most tree removal projects.
 

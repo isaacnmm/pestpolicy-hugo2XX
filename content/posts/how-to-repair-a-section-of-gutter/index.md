@@ -47,7 +47,7 @@ Fortunately, many common gutter problems can be effectively repaired by a dilige
 
 This guide will walk you through the process of how to fix a section of gutter or downspout, common problems and their solutions, specific instructions for sagging and split gutters, and general cleaning tips to maintain your system effectively.
 
-# # Common Gutter Problems and How To Fix Them
+##  Common Gutter Problems and How To Fix Them
 
 Here are specific solutions for frequently encountered gutter issues:
 
@@ -63,7 +63,7 @@ For severely damaged hangers, replace them entirely with new ones of the appropr
 
 * **Downspout Detachment: ** * **Problem: ** Downspouts separate from the gutter outlet or from lower sections, often due to strong winds or impact. * **Fix: ** Realign the downspout sections. Use self-tapping sheet metal screws or pop rivets to secure the joints. Apply gutter sealant around the connections for a watertight seal. Ensure the downspout is securely attached to the wall with appropriate straps.
 
-# # How To Fix a Split Gutter
+##  How To Fix a Split Gutter
 
 A split or crack in the gutter trough itself is more serious than a seam leak, but can often be patched.
 
@@ -75,7 +75,7 @@ You can buy small sheets of matching material or use scraps. 3. **Apply Sealant 
 
 * Apply another layer of sealant over the entire patch and around the screw/rivet heads for a watertight seal. Smooth it down. 4. **Curing Time: ** Allow the sealant to cure completely as per manufacturer instructions before testing.
 
-# # Key Takeaways
+##  Key Takeaways
 
 * **Proactive maintenance is key: ** Regular cleaning prevents most common gutter problems. * **Safety First: ** Always use a stable ladder and proper safety gear when working at heights. * **Cleanliness is Crucial for Repairs: ** For sealants to bond effectively, surfaces must be spotless and dry. * **Use the Right Materials: ** Invest in high-quality exterior-grade gutter sealants and appropriate fasteners for long-lasting repairs.
 

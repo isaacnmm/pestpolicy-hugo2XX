@@ -62,7 +62,7 @@ Ignoring sagging gutters can lead to a cascade of expensive problems, including 
 
 This guide will delve into the common reasons why gutters sag, outline the tools and materials you'll need, provide five effective ways to fix sagging gutters, clarify whether gutters should be level, and help you decide between a DIY repair and hiring a professional.
 
-# # Tools and Materials You May Need
+##  Tools and Materials You May Need
 
 Before you start, gather the necessary tools and materials.
 
@@ -74,7 +74,7 @@ Before you start, gather the necessary tools and materials.
 
 * Gutter sealant (high-quality, exterior-grade, silicone or polyurethane) * Caulk gun * Pry bar (for removing old hangers/inspecting fascia) * Wood filler/putty (for minor fascia repair) * Rotten wood repair epoxy (for more significant fascia rot) * New fascia board (if rot is extensive)
 
-# # Are Gutters Supposed To Be Level?
+##  Are Gutters Supposed To Be Level?
 
 **No, gutters are NOT supposed to be level. ** If gutters are perfectly level, water will sit stagnant inside them, leading to clogs, accelerated corrosion, and sagging due to the constant weight of the water.
 

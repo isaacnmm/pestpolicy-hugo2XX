@@ -17,7 +17,7 @@ layout: post
 
 In this article, I will discuss how to naturally control (compared to other [termite treatments](https: //pestpolicy. com/best-termite-killer/) ) and eliminate termites without hiring a professional. Termites have been reported to cause massive damage to buildings each year. As a result, expensive rebuilding is done to repair their damage. However, if you suspect a termite infestation, dont panic.
 
-# # 7 Natural Termite Control
+##  7 Natural Termite Control
 
 It would help if you took swift action to control termite infestation because they can cause significant damage over time. Also, if you dont contain the problem of termite infestation early, you can end up incurring thousands, if not millions of dollars in repairs, as well as costly termite pest control. But First!
 
@@ -59,7 +59,7 @@ You can also lightly dust boric acid into wall voids, cracks, crevices, or other
 
 Boric acid acts by sticking on the antennae, legs, and bodies of termites. These pests consume the boric acid during grooming, which is poisonous for them, hence dying instantly. Important Precaution: Boric acid is toxic if inhaled. For your safety, you should always use gloves and masks while using it. Ensure your children and pets dont come into contact with this acid because of its toxic properties.
 
-# # Types of Termites
+##  Types of Termites
 
 Drywood Termites: If your residence or business is infested with Drywood termites, youll notice wood that is not directly in contact with the ground is eaten up. Drywood termites are easy to identify since they dont build earthen mud tubes. A sure way to confirm a dry wood termite infestation is by looking out for hard, dry fecal capsules that normally form piles. Drywood termites attack all kinds of dry wood.
 
@@ -69,12 +69,12 @@ Youll identify subterranean termite infestation on your building's external wall
 
 Below are the top termite killer recipes that will guarantee you a termite-free residence within the shortest time possible.
 
-# # Conclusion
+##  Conclusion
 
 Now that you are informed on the Natural Termite Control Methods You Can Easily Do, youll easily prevent or eliminate termite infestation on your premises. For effective results, you can combine one method with the other, especially when treating a problematic termite colony. These natural home
 
 remedies guarantee maximum safety because they dont contain harmful chemicals.
 
-# # Sources:
+##  Sources:
 
 1. NCBI -Termite Resistance of MDF Panels Treated with Various Boron Compounds 2. [Disodium Octaborate tetrahydrate - Wikipedia](https: //en. wikipedia. org/wiki/Disodium_octaborate_tetrahydrate) 3. [Drywood Termites -General Biology](https: //extension. arizona. edu/sites/extension. arizona. edu/files/pubs/az1232. pdf)

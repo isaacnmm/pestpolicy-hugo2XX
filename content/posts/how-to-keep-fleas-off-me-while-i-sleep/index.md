@@ -18,11 +18,11 @@ When fleas jump onto your bed they'll make your sleep comfortable and queen infl
 
 So, you ask, how to keep fleas off me while I sleep? In brief, cover your skin with long-sleeve and clothing (pants and socks), and treat the gear and clothing with 0. 5% permethrin-containing flea control products. - Other precautions you may take includevacuuming the carpetsand upholstered furniture, laundering the bedding and clothing Lets dig in!
 
-# # Details: How to Keep Fleas off Me While I Sleep
+##  Details: How to Keep Fleas off Me While I Sleep
 
 It can be challenging to control the biting tendencies of fleas and they're spread in the house especially when they get onto bedding or bed.
 
-## # 1. Wear Long Pants and Sock
+###  1. Wear Long Pants and Sock
 
 Wearing long socks and pants (long trousers), and putting on closed shoes will protect you from flea bites since this pest [won't bite through most fabrics & clothing](https: //pestpolicy. com/can-fleas-bite-through-clothes/) - the please will be kept off your feet, lower legs, and skin.
 
@@ -40,7 +40,7 @@ However, once they land on you there b and feed without wondering or excessive m
 
 The best clothes that will help you stop flea bites ingrown closed-toe shoes, long pants, and socks.
 
-## # 2. Spraying a Flea Repellent for Humans
+###  2. Spraying a Flea Repellent for Humans
 
 Next, you can stop flies from landing on your clothes by spraying some suitable flea repellent such as 0. 5% permethrin.
 
@@ -56,7 +56,7 @@ The flea repellent for humans that I recommend from Amazon include sprays, brace
 
 The Avon Skin-So-Soft is another lotion that's suitable for repelling fleas from humans. The company has included Picaridin ingredients in the flea repellent to improve its insect repelling ability. - The Picaridin ingredient will be safer than DEET, it lasts longer and has low odor levels. Also, it won't irritate the human eyes or skin and doesn't feel sticky when applied.
 
-## # 3. Wash or Launder Clothes and Bedding for Fleas
+###  3. Wash or Launder Clothes and Bedding for Fleas
 
 I recommend you launder the clothes and bedding in the washing machine at hot temperatures to kill fleas.
 
@@ -68,7 +68,7 @@ You should spray some insecticide inside the shoes to kill even the fleas that w
 
 Will the dryer sheets kill or repel fleas? Well, the dryer is an excellent tool to exterminate fleas. Its inner Chambers will have high temperatures that will kill fleas on fabrics, stuffed animals, clothes, and bedding. - Awesome when the temperature is set at the highest it can also kill flea eggs prior to their hatching.
 
-## # 4. Bathe and Flea-Treat the Pet
+###  4. Bathe and Flea-Treat the Pet
 
 If you regularly sleep with your pet such as a cat or dog on your bed it's important that you bathe and flea-treat the animals well.
 
@@ -82,7 +82,7 @@ But can I sleep on a bed that has fleas? Well yes, you can because please love w
 
 Father the adult fleas will get comfortable after sucking blood, hide in the mattress, will lay eggs, and drop their body waste - which will be food for their larvae. - You can also repel flies using some natural days such as rosemary, tea tree, peppermint, eucalyptus, and citronella. Please also hate Abby smells such as DEET, citrus, clove oil, vinegar, mint, cedar wood, and lemongrass oil.
 
-# # Will Fleas Live In The Mattress?
+##  Will Fleas Live In The Mattress?
 
 Yes, fleas will live in a number of places in the house including the carpeting, cushions, and also in mattresses.
 
@@ -92,6 +92,6 @@ Pets can transfer fleas to your furniture and beds if you allow them to sleep th
 
 But the fleas you may find on the bedding and beds maybe there are mainly searching for a blood meal or could have dislodged from your pet. - So if you don't change or wash the bedding for a long time the immature flea may grow and continue biting you and your pets. If you have light-colored sheets on your bed, you may notice some oval-shaped, dark, and tiny spots to significant the presence of fleas in the bed.
 
-# # Conclusion
+##  Conclusion
 
 You can keep fleas off your body while you're sleeping by spraying some flea repellent on the skin or clothing and wearing long socks and pants.

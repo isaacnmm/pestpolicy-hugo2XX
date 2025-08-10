@@ -21,9 +21,9 @@ The fleas may have used your dog or cat as carriers to get into the house, or th
 
 This article will detail all of the steps on how to get rid of fleas in the house forever.
 
-# # Step-by-Step - How to Get Rid Of Fleas in the House Forever
+##  Step-by-Step - How to Get Rid Of Fleas in the House Forever
 
-## # Step 1: Flea-Treat the Dog
+###  Step 1: Flea-Treat the Dog
 
 Fleas are tiny, wingless insects that live in the fur of animals like dogs and cats. One of the best ways to rid your dog of fleas is with flea shampoo. - After a bath, take the time to work down his or her legs and under their armpits at which point you will have rinsed away any fleas that are left behind.
 
@@ -39,7 +39,7 @@ Anything left may carry live eggs which could hatch before being noticed later w
 
 Sprinkle borax every two feet on the carpet and let it sit for 12-24 hours to kill any remaining flea eggs that may have been missed in your first vacuuming session. - Vacuum up all of the borax after 24 hours have passed, or when you leave the house.
 
-## # Step 2: Flea-treat the Yard
+###  Step 2: Flea-treat the Yard
 
 If you have a yard, the environment your Flea-Treat the Dog lives in can be an infestation point. The best thing to do is get out there and Flea-treat it! - You're going to need some water, a hose or garden sprayer, dish soap (optional), cayenne pepper, and baking soda. More importantly than anything else - patience. Flea-treat the yard. Experts recommend using flea and flea-eggs to control pesticides to treat your lawn and common areas.
 
@@ -51,7 +51,7 @@ Wondercide will kill fleas and other household pests (ants, spiders, and cockroa
 
 Wondercide is a safe and effective insect repellent that can be applied as needed. It has numerous uses, such as for flea-treating the yard, or preventing pests at home.
 
-## # Step 3: Flea-treat the House
+###  Step 3: Flea-treat the House
 
 First, you ask, how do I get rid of fleas in my house fast? - Be sure your home is clean and vacuum all carpets, pet hair, and upholstery. - Treat fleas with a preventative product or liquid insecticide. Be sure the treated areas are not over-saturated so as to avoid the risk of fire hazards. - Remove reservoir hosts from your yard (grasses, leaves) which serve as food sources for flea larvae - and the wholeflea life stages.
 
@@ -65,7 +65,7 @@ Throw out any vacuum bag contents as fleas could survive in them for up to a yea
 
 - Immediately throw away stuffed animals that cannot be washed because their stuffing can harbor flea eggs and pupae alive; seal cracks where pets might have been living or hiding indoors such as along baseboards; Launder infrequently used bedding and other household fabrics in hot water.
 
-## # Step 4: Use Flea IGRs and Flea Bombs
+###  Step 4: Use Flea IGRs and Flea Bombs
 
 Spray the flea pesticide in the house. Once youve applied the pesticide, it's time to deploy one or more flea bombs in your home. - Effective pest control for every room of the house and garage is a must. You can place them on newspapers or rolls of paper towels to make cleanup easy after their detonation! How to use Flea bombs:
 
@@ -81,7 +81,7 @@ Spray the flea pesticide in the house. Once youve applied the pesticide, it's ti
 
 To rid your house of fleas, you will need to vacuum the floors and shampoo the carpets. Repeating these tasks monthly for 3 months is necessary in order to fully eradicate the pests from your home.
 
-## # Step 5: Diatomaceous earth and borax for fleas
+###  Step 5: Diatomaceous earth and borax for fleas
 
 No one likes fleas. They are annoying and spread diseases from person to pet, animal to animal, sometimes even across the country but diatomaceous earth and borax can help. - Especially in hot climates like Florida, where I live with my family during the summers, we're constantly combating them as they seem to come out of nowhere when you least expect it.
 
@@ -91,7 +91,7 @@ Borax is also a natural mineral, mined from the earth in compounds that make it 
 
 It's commonly used as an insecticide because roaches are especially susceptible to its toxic properties - meaning one application typically takes care of all types of pest bugs at once without any need for follow-up applications. - The big takeaway: Diatomaceous earth and borax can be combined together to combat fleas with ease!
 
-# # Conclusion
+##  Conclusion
 
 It seems that you were looking for how to get rid of fleas in the house forever! Well, there are many ways. - Flea-treating the pets is another technique to make sure that little fleas don't come into the house. - Flea-treat the lawn or yard with insecticide to kill the fleas and their larvae. - You can also sprinkle the borax powder into carpets, cracks, upholstery, or other areas where it's possible that eggs may be laid.
 

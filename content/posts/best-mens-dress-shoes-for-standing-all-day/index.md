@@ -20,9 +20,9 @@ Being on feet for long hours can cause vein inflammation. Over time, the inflamm
 
 Related: Best Non-Slip Shoes for Standing All Day
 
-# # Review: 7 Best Men's Dress Shoes for Standing All Day
+##  Review: 7 Best Men's Dress Shoes for Standing All Day
 
-## # [1. Hush Puppies Men's Leverage Slip-On Loafer](https://www.amazon.com/dp/B001AWZAIE/?tag=p-policy-20)
+###  [1. Hush Puppies Men's Leverage Slip-On Loafer](https://www.amazon.com/dp/B001AWZAIE/?tag=p-policy-20)
 
 Hush Puppies Slip-On Loafer is a stylish and durable mens dress shoe thats ideal for all-day standing. The shoe has amazing features and technologies making it a perfect match for many occupations or work environments.
 
@@ -36,7 +36,7 @@ Hush Puppies shoes have a durable Rubber sole that delivers reliable traction on
 
 Cons: - Not idle for people with slim feet
 
-## # [2. Ecco Men's Helsinki Slip-On](https://www.amazon.com/dp/B001OC5EJA/?tag=p-policy-20)
+###  [2. Ecco Men's Helsinki Slip-On](https://www.amazon.com/dp/B001OC5EJA/?tag=p-policy-20)
 
 Step out in style with these classic dress shoes that provide all-day comfort and trendy look. If your job involves walking or standing all day, youll love these shoes support and cushioning technologies.
 
@@ -56,7 +56,7 @@ Pros: - Durable outsole with reliable traction - Comfortable - Removable insoles
 
 Cons: - Some customers complained about the shoes poor workmanship
 
-## # [3. Clarks Men's Tilden Cap Oxford Shoe](https://www.amazon.com/dp/B00SMJO9EO/?tag=p-policy-20)
+###  [3. Clarks Men's Tilden Cap Oxford Shoe](https://www.amazon.com/dp/B00SMJO9EO/?tag=p-policy-20)
 
 Polish your dress look with the classic Clarks Men's Tilden Cap Oxford Shoe. The shoe offers unmatched comfort, cushioning, and support making it ideal for all-day standing or walking.
 
@@ -72,7 +72,7 @@ Pros: - Durable TPR Outsole - Comfortable - Ultra-Lightweight - Well-cushioned -
 
 Cons: - A customer reported that the OrthoLite insole deteriorates after a few months of use
 
-## # [4. Anthony Veer Men's Dress Shoe Clinton Cap-Toe Oxford](https://www.amazon.com/dp/B07GV5FWBR/?tag=p-policy-20)
+###  [4. Anthony Veer Men's Dress Shoe Clinton Cap-Toe Oxford](https://www.amazon.com/dp/B07GV5FWBR/?tag=p-policy-20)
 
 The Anthony Veer Men's Dress Shoe offers an exciting combination of style, class, and quality. It has excellent construction and amazing features that promote all-day standing.
 
@@ -88,7 +88,7 @@ The shoe features a craftable leather outsole that comes with a wooden stacked h
 
 Cons: - You might need to break-in on the shoes
 
-## # [5. Rockport Men's Total Motion Dress Cap Toe Oxford](https://www.amazon.com/dp/B079JD5DLM/?tag=p-policy-20)
+###  [5. Rockport Men's Total Motion Dress Cap Toe Oxford](https://www.amazon.com/dp/B079JD5DLM/?tag=p-policy-20)
 
 Head to work in style with this sleek leather dress shoe. The RockportTotal Motion Dress Cap Toe Oxford is one of the most comfortable, cushioned, and supportive shoes you would come around. Its one of the best mens dress shoes for standing all day.
 
@@ -102,7 +102,7 @@ The Dress Cap Toe Oxford features truTech that offers excellent shock attenuatio
 
 Cons: - Pricey
 
-## # [6. Florsheim Men's Medfield Cap Toe Oxford Dress Shoe](https://www.amazon.com/dp/B01MFF0PHJ/?tag=p-policy-20)
+###  [6. Florsheim Men's Medfield Cap Toe Oxford Dress Shoe](https://www.amazon.com/dp/B01MFF0PHJ/?tag=p-policy-20)
 
 The Florsheim Medfield Cap Toe Oxford Dress Shoe provides a simple yet elegant design making it perfect work shoe or nice wear for that official engagement. The shoe comes with excellent features and unique technology that ensure all-day comfort and support.
 
@@ -116,7 +116,7 @@ The outsole features a durable rubber compound that ensures foot flexibility and
 
 Cons: - Some People with narrow feet have complained that the shoes are too wide
 
-## # [7. Skechers Rilar Oxford](https://www.amazon.com/dp/B00I1JPU0C/?tag=p-policy-20)
+###  [7. Skechers Rilar Oxford](https://www.amazon.com/dp/B00I1JPU0C/?tag=p-policy-20)
 
 Skechers Men's Segment Rilar Oxford are comfortable work shoes, thus one of the best mens dress shoes for standing all day. The shoes come with excellent features and technologies making most men choose it for work.
 
@@ -132,21 +132,21 @@ The Skechers Rilar Oxford are comfortable work shoes that have a durable slip-re
 
 Cons: - A customer complained that the shoes are a bit noisy
 
-# # Buyers Guide on Best Mens Dress Shoes for Standing All-Day
+##  Buyers Guide on Best Mens Dress Shoes for Standing All-Day
 
-## # Perfect Fit
+###  Perfect Fit
 
 Wearing work shoes that fit appropriately is a crucial step in attaining high comfort levels. Wearing small fitting shoes increases the possibility of getting foot irritation, blisters, and may minimize blood circulation to your feet. Hence, make standing all day unbearable.
 
 Get your feet measured at the local shoe store to know your exact size so that when you order online you wouldnt have to deal with sizing issues. It's also advisable that if you would be standing for hours its good to choose a half size higher your usual size. Feet tend to expand as the day ends. Also, you can insert an orthotic for extra support and comfort.
 
-## # Material Used
+###  Material Used
 
 Depending on your work environment, the material used in the shoe construction matters. If youre looking for the best mens dress shoes for standing all day its crucial you choose shoes with durable construction that would provide all-day comfort and support.
 
 If youre a man who works indoors, you can choose shoes made with leather material as they conform nicely to the foot and ensures you have a comfortable fit for all-day standing. Synthetic materials are an excellent choice too. They are easy to clean and maintain.
 
-## # Comfort
+###  Comfort
 
 When looking for the best mens dress shoes for standing all day comfort should your first priority. Youll be standing all day, this means your feet, ankles, arches, and lower back need maximum protection from the excess standing
 
@@ -156,20 +156,20 @@ The outsole should provide reliable grip and traction. Choose Slip-resistant sol
 
 Pick shoes with reliable breathability. One that would allow free circulation of air into the shoes for a dry and fresh wear experience.
 
-# # Tips To Keep In Mind While Standing All Day
+##  Tips To Keep In Mind While Standing All Day
 
-## # Maintain a Proper Posture
+###  Maintain a Proper Posture
 
 Poor posture can cause severe pain and injury to feet, [back](https: //pestpolicy. com/best-dress-shoes-for-back-pain/), hips, heels, and other places. Poor posture cause one to lean backward or forward leading to poor body alignment causing unnecessary strain on feet and heels, which lead to conditions like plantar fasciitis.
 
 However, you can correct your posture by paying attention to how you stand or check the position of your feet and then intentionally force them to maintain a natural or the correct posture. You can also decide to use custom orthotics as they help to distribute weight evenly.
 
-## # Stretch
+###  Stretch
 
 Stretch as often as you can. Do simple stretches that would help alleviate the excess strain youre exposed to on a daily basis.
 
 During your workday, you can take small breaks and relax, lift your legs from the ground alternating them one after the other. Walk around if your environment allows it.
 
-# # Conclusion
+##  Conclusion
 
 I hope that this review on the best mens dress shoes for standing all day has been helpful. As weve said correct footwear is the first step towards attaining comfort during your workdays. Comfort means breathable shoes, roomy toe box, durable outsole with good traction, and cushioned midsole.

@@ -25,11 +25,11 @@ Nevertheless, some sources claim that when eaten by cats or dogs, Blue Tailed Li
 
 Related: Do Lizards Have Teeth?
 
-# # Details: Are Blue Tailed Lizards Poisonous?
+##  Details: Are Blue Tailed Lizards Poisonous?
 
 Bites from Blue Tailed Lizards are not poisonous. These animals are humble and peaceful reptiles that rarely attack their enemies. Though Blue Tailed Lizards can bite, their saliva and injections do not contain venom. Moreover, their bite forms mild injuries that dont last for long (one to three days).
 
-## # 1. So, are Blue Tailed Lizards Poisonous to human beings?
+###  1. So, are Blue Tailed Lizards Poisonous to human beings?
 
 **a. Humans and Blue Tailed lizards. ** No. The Blue Tailed Lizards has no threat to human beings. Though they can bite, if provoked, the bite from these reptiles are harmless since they do not contain venom. According to Savannah River Ecology Laboratory, there is no scientific record showing a long lasting injury resulting from a Blue Tailed Lizards bite.
 
@@ -53,7 +53,7 @@ Pets affected by salmonella bacteria shows symptoms such as lethargy, vomiting a
 
 Related: [Are Monitor Lizards Poisonous? ](https: //pestpolicy. com/are-monitor-lizards-poisonous/)
 
-# # Will Blue Tailed Lizards be Poisonous to Cats?
+##  Will Blue Tailed Lizards be Poisonous to Cats?
 
 Bites from the Blue Tailed Lizards wont cause any poisoning to your cat since it contain no venom. However, scientific research shows that, a Blue tailed Lizard may bring salmonella bacteria, which may cause bacterial infections on your cat.
 
@@ -61,7 +61,7 @@ Some sources states that, when your cat eat Blue Tailed Lizard, it may fall sick
 
 Normally, Blue Tailed Lizards will try to escape in case the see a cat since most cats tend to feed on them. Though some species of lizards may not be poisonous to your cat, it is necessary to keep off your cat from any access to Blue Tailed Lizard.
 
-# # Can Blue Tailed Lizards Be Poisonous to Your Dogs, then?
+##  Can Blue Tailed Lizards Be Poisonous to Your Dogs, then?
 
 No. The blue tailed lizards will rarely bite the dogs. Instead, the reptile tends to escape once it sees a dog as it fears being eaten. Blue tailed lizards do not contain venom and their bites cause no injuries on your dog (has no strong teeth).
 
@@ -69,7 +69,7 @@ Blue Tailed Lizards may bring Salmonella Bacteria in your kennel, which may caus
 
 Sources says that the dog may show symptoms such as dizziness, movement imbalance, fever, loss of appetite, or crossed eyes. If you notice such symptoms on your dog, kindly seek urgent medication from a dog professional or veterinary. It is important to keep of your dogs from any Blue Tailed Lizard in your area.
 
-# # Will cats and dogs eat Blue Tailed Lizards?
+##  Will cats and dogs eat Blue Tailed Lizards?
 
 Absolutely! Cats and dogs hunt for blue tailed lizard and feed on them since they are small and easier to catch as compared to other animals they dont run fast when in danger.
 
@@ -83,7 +83,7 @@ Ensure you protect your pets (cat and dog) from eating Blue Tailed Lizard as muc
 
 Related: [What Does a Garden Lizard Eat? ](https: //pestpolicy. com/what-does-a-garden-lizard-eat/)
 
-# # How to Prevent Your Pets (Cats & Dogs) From Eating Blue Tailed Lizards
+##  How to Prevent Your Pets (Cats & Dogs) From Eating Blue Tailed Lizards
 
 Naturally, Pets such as dogs and cats will eat blue tailed lizards if not stopped. You can use the following ways to prevent pets from eating these reptiles: **1. Secure your compound. ** Lizards are able to climb walls easily. They can penetrate your home through very tiny holes.
 
@@ -97,7 +97,7 @@ Keep your pet lizards away from dogs and cats.
 
 When playing with your blue tailed lizard pet, keep off your dogs and cats as they may grab and eat it. Or else, you can train your dog and cat to be friendly with your blue tailed lizard pet this may not be easy.
 
-# # Conclusion
+##  Conclusion
 
 Blue Tailed Lizards are not poisonous. They may not harm you children, pets and other humans by their bite since they have no venom.
 

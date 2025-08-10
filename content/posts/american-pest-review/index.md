@@ -18,7 +18,7 @@ When you get signs of pests in or around the house, it's critical that you hire 
 
 Below, I have reviewed American Pest for its effectiveness considering factors such as customer ratings, treatment effectiveness, availability, and costs. Let's get started!
 
-# # Details: American Pest Control Service
+##  Details: American Pest Control Service
 
 American Pest is a Washington-based and family-owned bug control company that has been in existence for 90 + years. Over those years, the company has received a number of excellence awards including from the EPA (for less environmental release of pesticides) and the Department of States in the United States. They will also prevent and control ants and ticks in your backyard.
 
@@ -38,11 +38,11 @@ However, inspections are only recommended for clients that don't understand thei
 
 Reviews: Bulwark Exterminating Review
 
-# # Upsides and Downsides of American Pest Control
+##  Upsides and Downsides of American Pest Control
 
 Upsides - Offer protection from different wildlife and bug species - Its pest prevention and management are environmentally friendly - The website has online chat for clients - Qualified entomologists are the ones who create and oversee the bug management programs - Offers the Powerful Virus Disinfectant as an extra service Downsides - Frequent errors or issues with free estimates - Billing issues for some clients
 
-# # Pests Covered and Plans Offered
+##  Pests Covered and Plans Offered
 
 American Pest Control provides bug and wildlife control for commercial and residential spaces or premises in the Illinois area.
 
@@ -54,12 +54,12 @@ Next, the American Pest technicians will create a bug control plan customized to
 
 - Fall - The strategy will involve prevention methods against rodents and pests - stopping them from getting into the home. - Summer - during summer, the pest technicians focus their pest control on the outdoors aiming to reduce flies, ants, mosquitoes, andfleas in the yard. - Spring - During spring, the American Pest technician will inspect for signs of a growing pest infestation while also treating for regular spring pests.
 
-# # Service Locations
+##  Service Locations
 
 American Pest offers its services to both commercial and residential properties including for birds such as mosquitoes, ticks, ants, termites, and bed bugs in a number of locations including; - Sterling - Peoria - Pekin - Lincoln - Greenville - Galesburg - Champaign - Canton - Bloomington The appropriate way to determine whether American Pest offers its services in your locality would be to call the client service line.
 
 - Representatives will check if the company offers their services in that zip code and also assist you to get a quote.
 
-# # Conclusion
+##  Conclusion
 
 Overall American pest comes out as a positively reviewed exterminator service that has qualified technicians to handle different pests. - However, the company's services are not widespread enough last day and their website does not have enough details on the Pest Management processes. Other recommendations that I would rate higher than this company include Rentokil pest control. Cheers!

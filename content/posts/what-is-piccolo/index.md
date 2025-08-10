@@ -17,7 +17,7 @@ What is Piccolo? Ive been a flutist for 5 years, but I also play the piccolo. In
 
 However, the piccolo is much smaller than the flute: being smaller and shorter thus considered a lower instrument. To play piccolo, youll need to add or subtract through lifting our fingers and thats what changes the length of the tube inside and hence alter the notes.
 
-# # What is Piccolo?
+##  What is Piccolo?
 
 In short: Piccolo (pronounced as piccolo) is a woodwind family member and is considered as a half-size flute. The Piccolo in an [orchestral](https: //en. wikipedia. org/wiki/Orchestra) setting is defined as the "piccolo or flute III". 1. Origin of piccolo: Western Europe 2. Family of piccolo: Aerophone, Wind instrument, Woodwinds, Flutes 3. Invention Date: Mid 1800's 4.
 

@@ -18,7 +18,7 @@ Formatting the [Raspberry Pi 3 SD card](https: //pestpolicy. com/best-sd-card-fo
 
 But under what circumstances would you need to [format](https: //pestpolicy. com/format-sd-card-to-fat32/) the Raspberry Pi SD card? (1) To increase storage capacity because of pre-partition (2) To remove a preloaded Operating System and install another one (3) To clean any corrupt software and files from the card. Read Also: Recliner for Tall People Reviewed.
 
-## # 1. How to Format SD card FAT32 in Windows 10
+###  1. How to Format SD card FAT32 in Windows 10
 
 First, maybe you already know that Windows with an inbuilt format utility. However, this format utility will not format any FAT32 (USB drive or SD card), which is usually bigger than 32GB. Notably, if you need to format the FAT32 partition and right-click the SD card in windows on file system format, it only shows just the exFAT and NTFS options.
 
@@ -38,7 +38,7 @@ Take some break, this process could take time to finish! 7.
 
 After you are done, you can now go ahead to thePi 3 Operating System Installation.
 
-## # **2. How**** to format SD card to fat32 on mac**
+###  **2. How**** to format SD card to fat32 on mac**
 
 Unlike Windows, Mac OS X has inbuilt formatting tools to enable you to format your micro-SD / SD card to FAT32. However, note that the SD card partition could be named MS-DOS or FAT. So, who do you format the SD card to FAT32? *Step by Step: * 1. Connect the SD card or the SD card adapter holding the SD card to the Mac computer 2. Click and open the Disk Utility. 3. Select the SD card storage on the left panel. 4.
 
@@ -46,7 +46,7 @@ Click and alter it to the erase tab. 5.
 
 Go to the Volume Format and hit the erase option 6. Confirm the action by hitting Erase 7. After the formatting is completed, shut your Disk Utility. Read Also: Recliners for Sleeping
 
-## # 3. How to Format 128GB SD card FAT32
+###  3. How to Format 128GB SD card FAT32
 
 Equally, like the other SD cards with the exFAT32 partition format (any with a capacity over 32GB) the **128GB** SD card will not be formatted by the Disk Management and Diskpart utility in windows. Therefore, youll only get errors such as these: 1. For Command Prompt volume is too large for FAT32 2. For Disk Management Windows is unable to complete drive format Therefore, youll also need to use another software to format the 128GB SD card.
 
@@ -54,18 +54,18 @@ For Windows 10 and other Windows, you can download the [Formatting Tool](http: /
 
 Download, install and start the[Formatting Tool](http: //www. ridgecrop. demon. co. uk/index. htm? guiformat. htm) 3. Check the Formatting Tools main windows and notice the SD card showing behind your current hard drive. 4. Click on the SD card (Right-click) and hit the format partition button 5. Check the appearing window and select the FAT32 partition and hit ok 6. Click Apply to format.
 
-# # Considerations buy Raspberry Pi 3 SD card
+##  Considerations buy Raspberry Pi 3 SD card
 
-## # **1. SD Class (Class 1 to Class 10)**
+###  **1. SD Class (Class 1 to Class 10)**
 
 Your cards class will affect the transfer speed and storage of data. For example, class 5 cards will only allow 5 MB/s. - Further, you should note that the higher the class number implies that the SD card will perform better in your operation of raspberry pi3.
 
-## # **2. Micro SD storage capacity**
+###  **2. Micro SD storage capacity**
 
 Despite that you might only require only 4GB to install the Raspbian Lite image, other installations are different. - To install Raspbian or NOOBs, your least SD card capacity for microSD should be 8GB. - Raspberry Pi 1B+, 2B, and 3B comes with a microSDHC card slot and thus will only allow a maximum of 32GB size SD cards. However, there are **some** SD cards that will function in the microSDXC cards slot which are larger than 32 GB.
 
 All SD cards larger than 32 GB will be formatted to the exFAT filesystem, as noted by the Raspberry Pi foundation, as opposed to the normal FAT32 filesystem.
 
-# # Conclusion
+##  Conclusion
 
 Raspberry Pi 3 Model B & Model B+ is only compatible with Micro SD cards. - The SD card store data files and enableRaspberry Pi3 Softwarebooting. In addition, consider purchasing acooler and [power supply](https: //pestpolicy. com/best-power-supply-raspberry-pi-3/) for the highest efficiency.

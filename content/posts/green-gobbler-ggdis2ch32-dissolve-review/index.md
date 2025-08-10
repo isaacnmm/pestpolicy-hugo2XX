@@ -17,11 +17,11 @@ layout: post
 
 Green Gobbler is conveniently packed in two packets that youll find easy to use on your clogged pipes and drains. Luckily, this product also tops our list of the [best drain cleaner](https: //pestpolicy. com/best-drain-cleaner//) available in the market. The powder formula was great, but this new liquid option is even simpler to use. Just un-cock it and pour the contents one of the chambers, and you're done. Check top drain cleaners.
 
-# # Green gobbler Liquid instructions
+##  Green gobbler Liquid instructions
 
 Interestingly, you don't wear rubber gloves, no nothing - it's all safe. Most traditional drain cleaners may bore the clog (with heat) to allow some water to move through it but don't clean the pipes. However, Green Gobbler won't produce heat and will clean the pipes too.
 
-# # How Green Gobbler Liquid Works
+##  How Green Gobbler Liquid Works
 
 Green Gobbler will clear drain clogs in the tubs, showers, sinks, and toilets. It works through emulsification and dissolution of paper, oils, grease, feminine products, toothpaste, hair, and organic matter stuck in the clogged drain pipe. **Shower Drains & tubs** I recently discussed how to clean a shower drain clogged with hair. This post noted that Showers, Drains, and tubs are mainly clogged by hair, soap scum, grease, and shampoo oils.
 
@@ -43,7 +43,7 @@ It also dissolves most clogs and hair fast enough. It's also great for big toile
 
 Therefore, if you're not on solar power, the process could be delayed by power blackout or gas unavailability. - **2. Slow on fully clogged drains: **I noted that when the drain or sink, if fully clogged, you might need to use a snake first or a bent hanger wire, or else the process will be too slow.
 
-# # Conclusion
+##  Conclusion
 
 Itll dissolve fast, oil, soap scum, hair, and grease in its amazingly two pre-measured portions. Being heavier or denser than [water, the Green Gobbler cleaner will move through](https: //pestpolicy. com/how-to-unclog-a-bathtub-drain-with-standing-water/) stagnant water and clean your pipes and drains. Further, it is non-flammable and odorless, making it so much better than the acidic, basic, or acoustic drain cleaners.
 

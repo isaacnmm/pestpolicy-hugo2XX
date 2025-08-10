@@ -19,7 +19,7 @@ Roaches will invade your building or home through various routes and then multip
 
 Check too: [Roach Infestation Signs](https: //pestpolicy. com/signs-of-a-cockroach-infestation/). Check out the top roach bombs below. ..
 
-# # Effective? - When to Use a Cockroach Bomb?
+##  Effective? - When to Use a Cockroach Bomb?
 
 Cockroach bombs [will exterminate the bugs](https: //entomology. ca. uky. edu/ef643) when you apply the chemical insecticide in the confined or enclosed space - as explained by entomologists. - The roach-killing insecticide will be hung around the air shortly before they drop on the ground - this allows them to cover the surfaces and poison the [cockroaches](https: //pestpolicy. com/cockroach-eggs/).
 
@@ -29,13 +29,13 @@ Mainly, roach bombs and foggers will work best when positioned at the center of 
 
 Carefully read the bomb instructions and adhere to their usage instructions - note that it's flammable due to the petroleum distillate.
 
-# # Likely Issues with Roach Bombs
+##  Likely Issues with Roach Bombs
 
 The EPA works effectively in regulating pesticides plus those of roach bombs - this ensures the safety of the house, humans, and pets too. - Key considerations include the number of roach foggers to apply in a given space or area. - Further, humans and pets included must vacate the space under roach treatment using the bombs. - Finally, the EPA recommends a thorough vacuuming, cleaning, and airing of the treated space.
 
 Notably, if you breathe the insecticide mist, you may cause poisoning to the pets in closed doors and various areas against pets and humans. - Therefore, I advise you to keep off the roach-treated spaces for between 2-4 hours - and thus you'll avert possible poisoning or illness.
 
-# # Should I use a Roach bomb?
+##  Should I use a Roach bomb?
 
 But first, total release aerosols, roach bombs, foggers will offer an effective and quick remedy for the bugs as they release toxic pesticides. But also remove water and food souses to discourage cockroaches - but also seal various roach entrances and equally install [bait traps](https: //www. terminix. com/pest-control/cockroaches/removal/traps/).
 
@@ -49,7 +49,7 @@ But should you usestore-bought roach bombs? Are they effective?
 
 Well, don't pick foggers from your store as they have a bad coat and odor, plus they'll leave a mess.
 
-# # Safety Precautions while using Roch Foggers
+##  Safety Precautions while using Roch Foggers
 
 The precautions to consider in using roach bombs especially around kids, plants, and pets include: - Note that the chemicals used in those roach foggers may be toxic - thus you'll require to follow the usage directions - so you don't harm the pets and family. Further, take care of the food containers and items - ensure they're covered tightly and also store the uncovered food in areas that foggers particles won't settle.
 
@@ -59,7 +59,7 @@ Remain (plus the pets) outsides as instructed on label instructions.
 
 Check label instructions on how to ventilate the house once you get back to the space - such as opening the windows. You may need to consult the landlord before the treatment.
 
-# # Should I Hire an Exterminator?
+##  Should I Hire an Exterminator?
 
 Roches will invade the home or office spaces and notoriously get challenging to control - they'll hide easily and are equallyresilient to pesticides. Therefore, first try DIY roach-treatment methods such as sealing wall gaps, boric acid, and removing water plus food sources - but if this doesn't work, you'll need a roach expert. So, consult some pest management expert to find the bugs plus their sources and finally treat them.
 
@@ -67,6 +67,6 @@ So, consult that expert bug professional to help.
 
 Roaches do pose a significant public health problem for many homeowners - they'll help identify the harborage points where roaches may hide.
 
-# # Conclusion
+##  Conclusion
 
 So, on the question - when to use a [cockroach](https: //pestpolicy. com/cockroach-vs-palmetto-bug/) bomb? Use roach bombs when other DIY control methods don't work and when the infestation is massive and has proven stubborn.

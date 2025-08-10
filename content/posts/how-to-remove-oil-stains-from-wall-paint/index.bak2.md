@@ -60,39 +60,39 @@ For the quickest results, act on oil stains immediately. The longer the oil sits
 
 {{/*
 
-# # TL;DR
+##  TL;DR
 
 To remove oil stains from wall paint without damaging the finish, use **Baking Soda**, **White Vinegar**, **Ammonia**, **WD-40**, or **Trisodium Phosphate (TSP)**. For a natural approach, try **cornstarch**, **dish soap**, **aloe vera gel**, or **chalk powder**. Always spot-test first. */}}
 
-# # Step-by-Step: How to Remove Oil Stains from Wall Paint
+##  Step-by-Step: How to Remove Oil Stains from Wall Paint
 
-## # 1. Identify the Paint Type
+###  1. Identify the Paint Type
 
 Before starting, confirm if your wall is painted with latex, oil-based, or specialty paint. Some solvents may dull or soften certain finishes.
 
-## # 2. Choose Your Cleaning Agent
+###  2. Choose Your Cleaning Agent
 
 **Recommended: ** Baking Soda, White Vinegar, Ammonia, WD-40, or TSP.
 
-## # 3. Prepare the Cleaning Solution
+###  3. Prepare the Cleaning Solution
 
 - **Baking Soda**: 4 tbsp baking soda + 2 cups warm water. Apply with a soft cloth or sponge. - **White Vinegar**: 3 tbsp vinegar + 3 liters warm water. Let sit for 5 minutes for tough stains. - **Ammonia**: 1 cup ammonia + 3 cups warm water. Wear gloves and a mask. - **WD-40**: Spray directly on stain, wait 1–2 minutes, then wipe. - **TSP**: ½ cup TSP + 4 cups water. Use gently to avoid paint damage.
 
-## # 4. Clean the Stain
+###  4. Clean the Stain
 
 Apply your chosen cleaner using a **soft sponge**. Avoid scrubbing aggressively to protect the paint.
 
-## # 5. Rinse and Dry
+###  5. Rinse and Dry
 
 Wipe the area with soapy water to remove residue, then dry with a clean towel.
 
-# # Best Commercial Products (Affiliate Links)
+##  Best Commercial Products (Affiliate Links)
 
 - [ACT Concrete Cleaner (Eco-Friendly)](https: //www. amazon. com/dp/B006G0PYFE/? tag=p-policy-20) – Works on multiple surfaces. - [Woolite INSTAclean](https: //www. amazon. com/dp/B06XNSBSXB/? tag=p-policy-20) – Ideal for carpets and fabrics. - [Biokleen Bac-Out Enzyme Cleaner](https: //www. amazon. com/dp/B0061VZQWO/? tag=p-policy-20) – Plant-based, non-toxic.
 
 *Disclosure: This article contains affiliate links. As an Amazon Associate, we earn from qualifying purchases at no extra cost to you. *
 
-# # FAQs
+##  FAQs
 
 **Q: Will WD-40 damage wall paint? ** A: No, if used sparingly and wiped clean promptly.
 

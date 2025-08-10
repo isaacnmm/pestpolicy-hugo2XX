@@ -25,7 +25,7 @@ Let's get into the details!
 
 Read Also: The 6 Signs that Cat Has Fleas
 
-# # What are Dog Fleas? Comparison with Cats Fleas?
+##  What are Dog Fleas? Comparison with Cats Fleas?
 
 Dog fleas are ectoparasites - they inhabit and live outside their host's body on the fur. They're roughly 1/8 inch long, thin, reddish-brown. *Are dog fleas visible to the human eye? * It can be difficult to spot dog fleas on a dog's fur (they're 1/8 inch long) with the human eye. Though it may seem easier on light-colored fur, or if you use a microscope or magnifying glass. - Dogs frequently have parasites.
 
@@ -39,7 +39,7 @@ Do dog fleas bite humans? Generally no; but it can happen if your dog has a mass
 
 If your dog has signs of being infested with parasites, there are medications available for the treatment of canine flea infections from veterinarians or online retailers like Amazon.
 
-# # How Did My Indoor Dog Get Fleas?
+##  How Did My Indoor Dog Get Fleas?
 
 Maybe you've cleaned up the dog and flea-treated the yard, but they're still scratching - a sign that it still has fleas.
 
@@ -53,7 +53,7 @@ Also, the fleas can find their way onto your dog from your trip abroad - through
 
 Related: How to Treat Fleas in the Yard
 
-# # What Are The Signs That My Dog Has Fleas?
+##  What Are The Signs That My Dog Has Fleas?
 
 Fleas are scary tiny bloodthirsty bugs that will literally drink more than their weight in blood. They'll be a life threat (after causing anemia) to your sickly/ old dogs and even puppies.
 
@@ -61,7 +61,7 @@ Fleas will leave tiny bites all over your dog's body that are hard to see and al
 
 This is a list of the signs you should look out for to know that your dog has a flea infestation.
 
-## # Sign 1 - Restlessness in the Dog
+###  Sign 1 - Restlessness in the Dog
 
 The constant flea bites and possible allergic reactions from the parasite's saliva often cause dogs to appear irritated and restless.
 
@@ -71,7 +71,7 @@ Signs that show the dog has been scratching itself to relieve skin irritation wi
 
 This type of infestation can make your pet start to smell bad as well because it won't be able to clean itself properly due to all those irritating bugs biting away. - This means you should take precautions such asusing flea shampooor sprays to get rid of these bloodthirsty pests before they do any more damage! A person might notice the dog chewing and scratching the body area in an effort to ease that discomfort from the fleas.
 
-## # Sign 2 - Flea Dirt and Flea Eggs
+###  Sign 2 - Flea Dirt and Flea Eggs
 
 Inspect the dog's fur and skin - if you notice specks like black pepper (finely ground), then this is flea "dirt" (flea droppings) that denotes a flea infestation.
 
@@ -79,7 +79,7 @@ When you see tiny black dots on the dog or on your carpet, it's probably not pep
 
 Dog fleas lay eggs (20 - 50 eggs daily) and produce this waste while feeding. Flea eggs are white and oval-shaped. - To confirm if it's flea dirt use some white paper towel to drop the dirt collected from[the dog's grooming](https: //pestpolicy. com/best-flea-combs-for-dogs/) - Next, sprinkle that dirt with some water and check its color change. If anything like red or reddish-brown emerges then the dirt is flea droppings or flea dirt.
 
-## # Sign 3 - Anemia - Pale Gums
+###  Sign 3 - Anemia - Pale Gums
 
 Fleas will suck massive amounts of blood from the canines (dogs) and this could lead to [**anemia**](https: //muschealth. org/medical-services/ddc/patients/symptoms-and-conditions/anemia) in the puppies or the sickly dogs.
 
@@ -91,7 +91,7 @@ Anemia is when there are not enough red blood cells. The hemoglobin in blood is 
 
 There are three causes of anemia - Blood loss - Destruction of red blood cells also called hemolytic anemia - Insufficient production of red blood cells also called aplastic anemia Dogs mainly get anemia from blood loss. The symptoms of anemia in your dog can include - Weakness - Elevated heart rate and Rapid breathing - Pale mucous membranes which is usually the gum color. - Sometimes the tongue can become pale pink to white - A loss of appetite
 
-## # Sign 4 - Hair Loss and Allergic Reactions
+###  Sign 4 - Hair Loss and Allergic Reactions
 
 Dogs that are allergic to the flea's saliva may experience severe itching, hair loss, and red sores.
 
@@ -101,7 +101,7 @@ The flea allergies are found on the dog's hindquarters - those may be skin rashe
 
 - Dogs who have been bitten by fleas may start itching excessively around their rear end while other symptoms for this condition are redness about the anus region and hair loss around the genital area.
 
-## # Sign 5 - Tapeworms in the Dog Feces
+###  Sign 5 - Tapeworms in the Dog Feces
 
 Tapeworms may appear in your dog's fecal matter as tiny white segments or rice-like pieces.
 
@@ -113,7 +113,7 @@ Fleas can carry tapeworms, which your dog may ingest as it scratches its itchy s
 
 The tapeworms will grow in the dog's intestines, shedding tapeworm eggs into the dog's feces. - If you see little white droppings that look like rice then you can be certain that there is a problem with this type of parasite too. Dog owners should also watch out for red bumps on the skin (called dermatitis).
 
-# # Use that Flea Comb to Catch Fleas
+##  Use that Flea Comb to Catch Fleas
 
 Many pet owners have had a stressful experience with fleas and it's not the feeling you want to repeat! Use your flea comb to catch fleas!
 
@@ -129,7 +129,7 @@ Over the past few days, my roommate's dog has been scratching a lot. I bought so
 
 - Our goal was to rinse him repeatedly throughout until no more soap was coming out and also catch any flea beings that were hitching a ride on our pup! - **We got them! **
 
-# # Conclusion
+##  Conclusion
 
 In summary, on how to tell if your dog has fleas; check the following signs.
 

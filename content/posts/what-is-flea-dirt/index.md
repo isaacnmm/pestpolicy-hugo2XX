@@ -19,13 +19,13 @@ layout: post
 
 Ultimately, flea larvae will feed on the flea dirt - *remember its blood anyway*. But most fleas must be controlled from their hiding places in the house or the yard.
 
-# # What Is Flea Dirt? Flea Dirt's Color, Shape, and Size
+##  What Is Flea Dirt? Flea Dirt's Color, Shape, and Size
 
 Fleas will poop either in their hiding place or on cats and dogs. The dried-up blood (in the form of excreta) will produce oddly-shaped black, brown, or reddish specs - which we now referer to as flea dirt. Most homeowners confuse flea dirt (a collection of the flea poop) with black dandruff. The flea dirt will look like (1)Specks of grit or Ground pepper, (2) Black dandruff or Tiny black flakes, (3) Black or reddish specks.
 
 **Coils orSpherules** Flea poop mainly takes two shapes -Coils or Spherules. First, coils will be about 0. 84 mm in length - and thus, their largest mostly go lengthwise. But, the Spherules will mainly grow into a round shape of about 0. 08 mm to 0. 24 mm. The flea adults will first take the form of spherules but turn into coils in their next two weeks.
 
-# # How to Check forflea dirt/flea dirt test?
+##  How to Check forflea dirt/flea dirt test?
 
 It's easy to stop fleas and flea dirt on the belly of either your cat or dog. The stomach mainly has the fur or hair that is less thick and has the lightest shade of color. Also, you may find flea dirt on your dog's or cat's sleeping areas and bedding. If you've found flea dirt on your pest, then this could be a good indicator that you've succeeded in identifying the presence of fleas.
 
@@ -33,7 +33,7 @@ Further, the specs will turn your wet towel into spots of red or brown. 1.
 
 But, you can easily discernflea dirt by placing any of the black specs or clumps on a white and wet towel. 2. If the towel becomes reddish or brown, then that points to the presence of flea dirt - which, as noted earlier, is merely undigested blood in flea poop. 3. Also, check the pet's sleeping areas and bedding
 
-# # Why worry about Flea Dirt?
+##  Why worry about Flea Dirt?
 
 **1. ** Fleas will suck about 5 l to 6. 97 l of blood each day to fill up their gut. However, female fleas will suck an event larger blood capacity (13. 6 l of blood). Therefore, controlling flea dirt (and fleas too) would ensure that you reduce the amount of blood sucked from cats, dogs, or human beings. **2. ** Flea dirt is "dirty" on your pets and humans as it leaves the feces to spread all over.
 
@@ -47,7 +47,7 @@ It provides flea larvae with proteins and iron that are required for sclerotizat
 
 Therefore, that's why females take more massive blood amounts to feed their larvae -with proteins, iron, and even vitamin B.
 
-# # How to Get Rid of Flea Dirt?
+##  How to Get Rid of Flea Dirt?
 
 Well, besides killing the fleas, you'd love to get rid of the flea dirt. The simple steps are shampooing your dog and cats to wash away the flea dirt. But this is no guarantee that the [flea dist won't come](https: //pestpolicy. com/where-do-fleas-come-from/) back to haunt you. But, the best way to rid your pets of [thisflea dirt is by killing](https: //pestpolicy.
 
@@ -55,6 +55,6 @@ com/how-to-kill-fleas-on-dogs-naturally-safe-and-fast/) the fleas both in and ar
 
 For your cats and dogs, I would recommend using various [flea treatment](https: //pestpolicy. com/best-flea-treatment-for-puppies/) methods such asCapstar Flea Killer, oral pills, Frontline for the cats, orAdvantage II for your Dogs.
 
-# # **Sources:**
+##  **Sources:**
 
 1. [NCBI - Comparison of Two Techniques for the Detection of Flea Faeces](https: //www. ncbi. nlm. nih. gov/pmc/articles/PMC4227412/). 2. [PetMed - Flea Dirt How to Get Rid of It](https: //www. petmd. com/dog/parasites/what-flea-dirt) 3. [Comparison of Two Techniques for the Detection of Flea Faeces in Canine and Feline Coat Brushings](https: //www. hindawi. com/journals/tswj/2014/292085/)

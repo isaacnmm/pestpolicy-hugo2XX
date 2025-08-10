@@ -20,9 +20,9 @@ Shin Splints (medial tibial stress syndrome) is a common condition that affects 
 
 Some factors that can cause shin splints include poor running form, running on hard surfaces for a longer time, muscle weakness, and wearing incorrect running shoes. Hence, you need comfortable, supportive, and well-cushioned shoes to combat shin splints.
 
-# # Review: 7 Best Womens Running Shoes for Shin Splints
+##  Review: 7 Best Womens Running Shoes for Shin Splints
 
-## # [1. ASICS Women's Gel-Kayano 26](https://www.amazon.com/dp/B07KM9FBSS/?tag=p-policy-20)- Running Shoes for Shin Splints
+###  [1. ASICS Women's Gel-Kayano 26](https://www.amazon.com/dp/B07KM9FBSS/?tag=p-policy-20)- Running Shoes for Shin Splints
 
 ASICS Women's Gel-Kayano 26 is excellent stability running shoes for overpronators. It also a good road running shoe for runners with shin splints. Shin splint sufferers love the cushioning, stability, and responsiveness that the shoe provides.
 
@@ -38,7 +38,7 @@ The generous padding on the heel section prevents foot irritation at the back wh
 
 Cons: - Some people complained about the shoes dull color schemes
 
-# # [2. Brooks Women's Adrenaline GTS 20 Running Shoe](https://www.amazon.com/dp/B07MHP7QWF/?tag=p-policy-20)
+##  [2. Brooks Women's Adrenaline GTS 20 Running Shoe](https://www.amazon.com/dp/B07MHP7QWF/?tag=p-policy-20)
 
 Women Runners with shin splints will benefit from the comfort, support, and stability that Brooks Womens Adrenaline GTS 20 provides.
 
@@ -60,7 +60,7 @@ com/best-mens-running-shoes-for-bad-knees/) - Excellent cushioning - Stylish - L
 
 Cons: - Limited color variations
 
-## # [3. HOKA ONE ONE Women's Clifton 6 Running Shoe](https://www.amazon.com/dp/B07L5NTXLH/?tag=p-policy-20)
+###  [3. HOKA ONE ONE Women's Clifton 6 Running Shoe](https://www.amazon.com/dp/B07L5NTXLH/?tag=p-policy-20)
 
 HOKA ONE ONE Womens Clifton 6 is a road running shoe that boasts of excellent cushioning, comfort, and support. Women with shin splints will benefit from the cushioning and technologies the shoe offers.
 
@@ -76,7 +76,7 @@ Hoka One One Clifton 6 has an outsole that utilizes Hi-Abrasion rubber compound.
 
 Cons: - You might need to break in on them
 
-## # [4. New Balance Women's Fresh Foam 1080 V10 Running Shoe](https://www.amazon.com/dp/B07RGTJ343/?tag=p-policy-20)
+###  [4. New Balance Women's Fresh Foam 1080 V10 Running Shoe](https://www.amazon.com/dp/B07RGTJ343/?tag=p-policy-20)
 
 New Balance Women's Fresh Foam 1080 V10 is an everyday road running shoe that offers excellent cushioning, durability, and support. It has features and technologies that help soothe shin splints.
 
@@ -92,7 +92,7 @@ The New Balance Fresh Foam 1080 v10 also has an outsole unit that utilizes a blo
 
 Cons: - A bit tight according to some users
 
-## # [5. Brooks Women's Glycerin 18 Running Shoe](https://www.amazon.com/dp/B081VBZQ8V/?tag=p-policy-20)
+###  [5. Brooks Women's Glycerin 18 Running Shoe](https://www.amazon.com/dp/B081VBZQ8V/?tag=p-policy-20)
 
 Brooks Womens Glycerin 18 is an excellent neutral running shoe thats ideal for runners with shin splints and those with mild pronation. It offers a perfect blend of comfort, protection, and flexibility. The shoe is highly versatile; you can it for casual wear, running, or gym sessions.
 
@@ -108,7 +108,7 @@ The upper is reinforced with 3D Fit Print technology that promotes an improved f
 
 Cons: - A bit stiff than its predecessor
 
-## # [6. Mizuno Women's Wave Inspire 16 Waveknit Running Shoe Road](https://www.amazon.com/dp/B07QTVJV1N/?tag=p-policy-20)
+###  [6. Mizuno Women's Wave Inspire 16 Waveknit Running Shoe Road](https://www.amazon.com/dp/B07QTVJV1N/?tag=p-policy-20)
 
 Another best womens running shoe for shin splints is the Mizuno Wave Inspire 16 Waveknit. This comfortable road running shoe delivers durability and support for runners with overpronation.
 
@@ -126,7 +126,7 @@ The forefoot section features a blown rubber compound that promotes cushioning a
 
 Cons: - You might need to size up
 
-## # [7. Saucony Women's Guide 10 Running Shoe](https://www.amazon.com/dp/B01GIPJQA0/?tag=p-policy-20)
+###  [7. Saucony Women's Guide 10 Running Shoe](https://www.amazon.com/dp/B01GIPJQA0/?tag=p-policy-20)
 
 Saucony Women's Guide 10 delivers excellent performance thanks to the superior technologies and features. The midfoot section provides support to reduce pronation tendencies. The cushioning system helps to prevent of alleviate pain caused by injuries.
 
@@ -140,19 +140,19 @@ The shoe also features a Tri-flex outsole that provides unmatched flexibility. S
 
 Cons: - Runs small, you might need to size up
 
-# # What to look for in Best womens Running Shoes for Shin Splints
+##  What to look for in Best womens Running Shoes for Shin Splints
 
-## # Cushioning
+###  Cushioning
 
 When looking for the Best womens Running Shoes for Shin Splints ensure you pick the ones that are properly cushioned to provide maximum comfort. Good cushioning will greatly help in shock absorption. Therefore, you wouldnt have to worry about the hard ground impact that causes pain on the shin and the foot. Just choose shoes with excellent cushioning.
 
-## # Durability
+###  Durability
 
 When buying any type of footwear, its crucial that you pick ones with longer wear period to save you the energy of having to go shopping all the time.
 
 Therefore, the quality and durability of the shoe matters as youll want running shoes that dont wear out quickly. Some factors to consider when looking for durable shoes include sturdy rubber outsole, strong construction, and reliable technologies.
 
-## # Fit
+###  Fit
 
 Your shin splint running shoes must fit comfortably and feel supportive once you put them on, you dont need a break-in period to obtain the comfort you crave.
 
@@ -160,6 +160,6 @@ The toe box should be spacious enough to provide ample room for toes to wiggle. 
 
 Well-fitting shoes also promote the comfort levels of a runner allowing improved morale and longer running sessions.
 
-# # Conclusion
+##  Conclusion
 
 The best womens running shoes for shin splints should be well-cushioned, comfortable, provide good shock absorption, and proper fit. In this review, all the discussed shoes meet these criteria, and choosing either of them will help you combat shin splints.

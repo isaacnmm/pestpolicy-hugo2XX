@@ -18,11 +18,11 @@ In this post, I've reviewed the best riding [lawn mower](https: //en. wikipedia.
 
 You can now ditch your walk-behind [mowers](https: //pestpolicy. com/best-riding-lawn-mower-for-2-acres/) as you might be unwilling or are physically unable to push it. In addition, ensure that you get a zero-turn, tractors, and rear engine mowers depending on the nature of your uneven terrain, steep slopes, and hills. Mowing steep terrain and hills could be dangerous and equally challenging when you don't use the correct lawn mower.
 
-# # Mowers: Best Riding Lawn Mower for Hilly Terrain 2025
+##  Mowers: Best Riding Lawn Mower for Hilly Terrain 2025
 
 However, the riding lawn mower might be impractical in some situations. Thus, to take care of such instances, I've outlined some [walk behind ( self-propelled) lawn mowers](https: //pestpolicy. com/best-self-propelled-lawn-mowers-under-300/).
 
-## # [1. Troy-Bilt 382cc 30-Inch Neighborhood Riding Lawn Mower](https://www.amazon.com/dp/B01MUDUCNM/?tag=p-policy-20)
+###  [1. Troy-Bilt 382cc 30-Inch Neighborhood Riding Lawn Mower](https://www.amazon.com/dp/B01MUDUCNM/?tag=p-policy-20)
 
 Troy-Bilt 382cc is a small riding lawn mower but equally provides high power for cutting grass in a hilly terrain. Adjust the cutting deck height into 5 varied heights - measures 30 inches. This is a simple and standard yard mower. It has an Auto-Choke OHV engine that's 382cc that'll easily achieve a mowing speed of 4. 25 MPH. Luckily, the Troy-Bilt 382cc comes with its powerful 6-speed transmission.
 
@@ -36,7 +36,7 @@ Its rear wheels are 166. 5 while it has a 135 inches in its front wheels. Thus, 
 
 Cons: - Check mower's deck height
 
-## # [2. Raven MPV7100 Hybrid Riding Mower & Power Generator](https://www.amazon.com/dp/B01MUDUCNM/?tag=p-policy-20)
+###  [2. Raven MPV7100 Hybrid Riding Mower & Power Generator](https://www.amazon.com/dp/B01MUDUCNM/?tag=p-policy-20)
 
 Raven MPV7100 cuts well, runs well, and equally starts well. Further, I have to state that I loved its turning radius. Raven MPV-7100 definitely got me hooked as the machine will leave you with a smile after riding it.
 
@@ -52,7 +52,7 @@ Pros: - Excellent maneuverability and hence great for small hilly lawns and yard
 
 Cons: - Poor mulching power
 
-## # [3. Poulan Pro PP155H42 (15.5 HP) Gas Riding Lawn Mower](https://www.amazon.com/dp/B019F8TWB0/?tag=p-policy-20)
+###  [3. Poulan Pro PP155H42 (15.5 HP) Gas Riding Lawn Mower](https://www.amazon.com/dp/B019F8TWB0/?tag=p-policy-20)
 
 Poulan Pro PP155H42 is a great competitor among top lawn mowers for hilly terrain. Luckily, the mower has adjustable six heights for cleaner mowing. You'll find the mower's air filter to be simple to maintain and clean. The machine has an oscillating deck that's 42-inches wide and thus the mower won't lose maneuverability. It'll give you 16HP that's adequate to mow yards in up hills.
 
@@ -64,18 +64,18 @@ Pros: - Has a wide (42-inches in width) cutting deck - Its engine (16HP) is very
 
 Cons: - Reverse speed that's very fast - Small wheels, and its gas tank is equally small
 
-# # Considerations in Riding Lawn Mower for Hilly Terrain
+##  Considerations in Riding Lawn Mower for Hilly Terrain
 
 So, regardless if you're [mowing a huge property](https: //pestpolicy. com/best-lawn-mower-for-large-yard/) or smaller yard you'll need high quality lawn mowers. So, below are the considerations to make when choosing your mower.
 
-## # 1.**Engine Horsepower (HP)**
+###  1.**Engine Horsepower (HP)**
 
 Most riding lawn mowers tend have and engine power of 13 - 30 horsepower as they're generally heavier and bigger compared to Rotary walk-behinds that have 2-7horsepower. The [lawn mower horsepower](https: //www. hunker. com/13405208/how-to-get-more-hp-out-of-a-lawn-mower-engine) denotes the amount of engine power that your mower will provide for your mowing tasks - particularly in its transmission and the grass-cutting blades.
 
-## # 2. Engine Torque
+###  2. Engine Torque
 
 This describes the force that'll keep the blades in the riding lawn mower spinning - its outlined as foot-pounds (ft-lbs). Go for a riding mower that has higher torque since it'll cut the tick and tall grass more easily. Further, choose a mower with more blades as it'll give you a better cut width. Riding lawn mowers have 10. 5 - 26. 0 ft-lbs in torque while the walk-behind mowers will have 4. 50 - 8. 75 ft-lbs.
 
-## # 3.**Engine Displacement**
+###  3.**Engine Displacement**
 
 Engine displacement denotes the engine's cylinder size - which is outlined in cubic centimeters (cc). A higher engine displacement translates to more engine and mower power. Further, consider the mowers turning radius as this affects how tightly the machine with turn. So, choose a mower that has a small turning radius because this will allow you to make sharp turns.

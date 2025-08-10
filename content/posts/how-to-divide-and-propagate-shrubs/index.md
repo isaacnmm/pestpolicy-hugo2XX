@@ -44,21 +44,21 @@ This guide will clarify the distinction between different shrub types, provide s
 
 Expand your garden, save money, and enjoy the satisfaction of nurturing new life from your existing plants.
 
-# # How to Divide and Transplant Shrubs
+##  How to Divide and Transplant Shrubs
 
 The process of dividing and transplanting shrubs involves careful excavation, separation, and replanting.
 
-## # When to Divide:
+###  When to Divide:
 
 * **Ideal Time: ** The best time for dividing most shrubs is when they are dormant, typically in **early spring before new growth begins** or in **late fall after the leaves have dropped**. This minimizes stress on the plant. * **Nairobi Context: ** As dormancy is less defined, the best times are usually during the **cooler dry season (June-August)** or just **before the onset of the long rains (February-March)**.
 
 This allows the plant to establish roots before intense heat or heavy, waterlogging rains. Avoid dividing during the peak hot dry season (January-February) or during very heavy rains.
 
-## # Tools You'll Need:
+###  Tools You'll Need:
 
 * Sharp spade or digging fork * Pruning shears or loppers (for cutting roots or stems) * Tarp or large plastic sheet * Wheelbarrow or garden cart * New planting locations prepared * Compost or well-rotted manure * Watering can or hose
 
-## # Step-by-Step Division Process:
+###  Step-by-Step Division Process:
 
 1. **Prepare the New Site(s): ** Before you even touch the parent plant, dig the holes for your new divisions. Each hole should be twice as wide as the anticipated root ball of the division and just as deep. Amend the soil with compost to ensure good drainage and fertility. Have water readily available.
 
@@ -80,7 +80,7 @@ This allows the plant to establish roots before intense heat or heavy, waterlogg
 
 7. **Care for the Parent Plant: ** * If you left part of the parent plant in the original location, backfill any excavated areas with fresh, amended soil and water thoroughly. * Apply a fresh layer of mulch around the parent plant.
 
-# # Final Thoughts About Dividing and Propagating Shrubs
+##  Final Thoughts About Dividing and Propagating Shrubs
 
 Dividing and propagating shrubs is a wonderfully sustainable and satisfying gardening practice. It's an opportunity to intimately understand your plants' growth habits, improve the health of mature specimens, and naturally expand your garden's beauty without incurring additional costs.
 

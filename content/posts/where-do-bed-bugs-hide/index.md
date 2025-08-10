@@ -20,11 +20,11 @@ Bed bugs are tiny insects (1/4 inch in body length) and are a nuisance to humans
 
 *Simply put, bed bugs hide in mattress seams, wall or floor cracks, bed frames, chair joints, second-hand furniture joints, couches, bedding, clothes seams, ceiling, and clothe shelves. Often, bed bugs hide during the day and appear at night when you are asleep. *
 
-# # **Details: Where Do Bed Bugs Hide? - Identify Bed Bugs**
+##  **Details: Where Do Bed Bugs Hide? - Identify Bed Bugs**
 
 First, here're the signs of bed bugs infestations: black spot on the bed framework, the bloodstain on the bedding, rusty/dark excrete of bed bugs on the mattress, bed bug shells where they live, must odor of bed bugs scent, and bites on your skin. Also, here are the images of bed bugs.
 
-## # 1. Bed Bugs Hide in Living Room
+###  1. Bed Bugs Hide in Living Room
 
 Your living room may shelf various items that offer hideouts for bed bugs. These include: 1. **Carpet** Some carpet materials such as cotton, leather, plastic, or wool will provide excellentshelter for bed bugs. Such rugs create a dark and warm environment where the bugs andtheir babieswill hide, lay eggs and crawl as they plan on attacking their next host for another blood meal. 2. **Couches**.
 
@@ -40,7 +40,7 @@ Mostly, Bed bugsbreed at the corners or upper topof the wall unit and any lockab
 
 **Picture frames and wallpapers-**The joints and inside space of picture frames and wallpapers create a better hideout and breeding ground for bed bugs. 8. **Doors and window frames-**The spaces left at the gates, hinges, and bushes offer are hideouts of bedbugs in your home. Related: How do bed bugs spread?
 
-## # 2.Bed Bugs Hide inBedroom
+###  2.Bed Bugs Hide inBedroom
 
 Your bedroom has items that may have offer hideouts for bed bugs. These include: 1. **Mattresses and pillows. **You willfind colonies of bed bugsalong the seam of mattresses. Bed bugs pierce the mattresseswith their mouthpart and enter the interior part. Your pillow may have a colony of bed bugs, too, since most of them are attracted by the carbon dioxide you breathe out. 2.
 
@@ -54,13 +54,13 @@ Even though you have placed footwear in a rack, bed bugs will find their way the
 
 The footwear that you do not use should be disposed of.
 
-## # 3.Bed Bugs Hide inShowers Areas
+###  3.Bed Bugs Hide inShowers Areas
 
 Showers are not places you expect bed bugs. However, modern showers, tubs have cabinets/shelves for storing laundry items. These are common hideouts of these bed bugs. The cistern, piping network, and door lining also offer points where bed bugs may hide. The piping network of the showers/bathtub offers hideouts too. Some bathrooms have hot/warm water, which gives bed bugs suitable conditions for breeding.
 
-# # Where do bed bugs hide in public places?
+##  Where do bed bugs hide in public places?
 
-## # 1. Public service vehicles / Trains
+###  1. Public service vehicles / Trains
 
 Have you ever boarded a public service vehicle or a passengers train and experienced a bite from a bed bug? This has been a common occurrence to many as passengers from bed bugs infested areas use the same vehicle/train and could have left bloodsuckers there. Bed bugs hide in seats, cushions, hollow tubes, welded parts, or seat belts of the public service vehicle.
 
@@ -72,13 +72,13 @@ These ceilings are rarely cleaned, thus giving room for further breeding of bed 
 
 Carriers in passengers trains and public service vehicles may contain shelf bed bugs, which offers hiding/breeding ground for them. Luggage brought by passengers into the trains and public service vehicles may have bed bugs. It would help if you were keen when you board public transport lest you carry some bed bugs home.
 
-## # 2. Cluttered Garages
+###  2. Cluttered Garages
 
 Cluttered garages are places where you will meet different types of vehicles under maintenance. At times, the seat compartments of these vehicles are exchanged to replace the faulty ones. In this way, any part infested with bed bugs ends up transferring the same to the next vehicle. Garage mechanics uses a single overall when attending different vehicles from their clients in a given.
 
 Just in case they handle your vehicle while having bed bugs from a previous one, they may deposit these bloodsuckers on your seats. Stores of clustered garages may be centralized. Any piling of the spare parts over each other from various stations may be dangerous as if one has bed bugs, they may affect the other parts.
 
-## # 3. High Traffic Receptions Areas
+###  3. High Traffic Receptions Areas
 
 Bed bugs are found where people are staying. High traffic areas such as lounge, airport waiting room, reception, break rooms, and lobbies with soft seats. These places are characterized by a high influx of people per given time. Some of these people may be carriers of bed bugs in their clothes or luggage. Often you will find yourself being bitten by bed bugs while waiting in these places. It happens often.
 
@@ -86,7 +86,7 @@ Once a carrier drop bed bugs in these places, they multiply and hide in the join
 
 - Drunkards easilycarry bed bugsas they cannot notice bites from them when under the influence of alcohol. People may carry bed bugs from guesthouses and drop some at the reception furniture while being attended. Bed bugs may attack clients in their waiting bay at the airport or busy offices as at the time; they may not notice them crawl on their clothing.
 
-# # Can pets house bed bugs?
+##  Can pets house bed bugs?
 
 Pets like cats and dogs are often kept at home. So, can bed bugs live on these pets? Beg bugs feed on blood; these pets have blood too: bed bugs will suck them. - These pets' body is covered with hair that is suitable for housing andbreeding of bed bugs. - This may not be pronounced as it is in human dwellings. You can usesuitable traps on the bloodsuckers.
 
@@ -94,7 +94,7 @@ Pets may leave the compound and carry with them bed bugs in return from where th
 
 They will transfer these to your living room as they jump from one item to another or in you carry them yourself.
 
-# # **Can you see**bed bugs? Tools to identify them?
+##  **Can you see**bed bugs? Tools to identify them?
 
 Though they are tiny insects, bed bugs can be seen with your naked eyes during the day - check this comprehensive guide. During the day, most bed bugs are asleep or resting. - You find some moving around though not in most cases. - Some bed bugs move during the day in search of their prey. - Therefore, if you are not around, then bed bugs have nothing to feed on, and thats why you may rarely see them during the day.
 
@@ -108,13 +108,13 @@ Collecting basin/ jar/container- use this to put bed bugs that you have caught.
 
 5. Hand lens/magnifying device- since bed bugs are small insects, you will need to enlarge them for visibility.
 
-# # How to find Bed Bugs during the day
+##  How to find Bed Bugs during the day
 
 You will find it difficult to bed bugs during the day. However, in case you need to find them, you will have to do the following things: 1. Put your Bedding or mattress ([and their encasements](https: //pestpolicy. com/best-bed-bug-mattress-encasements/)) outside under a direct sun- you will see them move out due to heating. 2. Remove all cushions and furniture coversspraybed bugs hideouts with the bed bug killers during the day. 3.
 
 Knock severally the joint of Home furniture and closets to disturb their comfort. 4. Place carbon dioxide source/emitter near their suspected hideouts- bed bugs are attracted to carbon dioxide.
 
-# # How to prevent and Control Bed bugs
+##  How to prevent and Control Bed bugs
 
 Bed bugs are not nice insects to have in your home. There are various measures that you may follow to prevent and control bed bugs. These include: 1. Drying mattresses and bedding under the sun severally and cleaning bedding and clothes often with hot water. But definitely, [bed bugs won't bite through your clothes](https: //pestpolicy. com/can-bed-bugs-bite-through-clothing/). 2.
 
@@ -124,6 +124,6 @@ Ensure your pets are often treated against bed bug attacks and engage a bed bug 
 
 Inspect your furniture regularly to check bed bugs and be aware of bed bugs in public places. Train on how to identify bed bugs and ensure you do not move bedding from place to place.
 
-# # Conclusion
+##  Conclusion
 
 Bed bugs can be found in both public and residential places. Maintain [good cleanliness](https: //pestpolicy. com/can-bed-bugs-live-in-carpet/) to prevent and control bed bugs. In your home, you will find bed bugs in the couches, seam mattresses, wall units, bedding, ceiling, cracks on the floor and wall, joinery spaces of bed, chairs, and closets, as well as in clothes.

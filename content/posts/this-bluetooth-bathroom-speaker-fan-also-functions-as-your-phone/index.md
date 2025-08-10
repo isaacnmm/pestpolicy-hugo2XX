@@ -46,7 +46,7 @@ While Bluetooth-enabled bathroom exhaust fans with integrated speakers have beco
 
 Imagine taking calls, listening to voicemails, or even interacting with a voice assistant directly through your bathroom fan, all while enjoying a steamy shower or getting ready for your day. This article explores the capabilities of these advanced integrated units, their practical applications, and whether they truly represent the ultimate smart bathroom gadget.
 
-# # How Does It Work?
+##  How Does It Work?
 
 The operation is generally straightforward and leverages standard Bluetooth protocols:
 
@@ -56,7 +56,7 @@ The operation is generally straightforward and leverages standard Bluetooth prot
 
 Your voice is picked up by the fan's integrated microphone and transmitted back to the caller via your phone. 5. **Voice Assistant Integration: ** By holding down a button on your paired phone or using a specific voice command, you can activate your phone's native voice assistant, which then uses the fan's speaker for output and its microphone for input.
 
-# # Considerations and Potential Drawbacks
+##  Considerations and Potential Drawbacks
 
 While innovative, these devices aren't without their considerations:
 

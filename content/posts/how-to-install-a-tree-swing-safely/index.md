@@ -46,7 +46,7 @@ Installing a tree swing safely requires careful consideration of the tree itself
 
 This guide will walk you through every critical step, from selecting the ideal tree and branch to choosing the right hardware and implementing essential safety practices, ensuring your tree swing provides years of safe enjoyment.
 
-# # Safe Installation Methods for Tree Swings
+##  Safe Installation Methods for Tree Swings
 
 The method of attaching the swing to the branch is critical for both swing safety and tree health. **Never wrap rope directly around a branch. ** This will girdle the branch, cutting off its circulation as the tree grows, eventually killing it and causing the swing to fail.
 
@@ -66,7 +66,7 @@ This allows for spinning and swinging in multiple directions.
 
 Requires a very strong branch and secure attachment.
 
-# # Safety Tips for Tree Swing Use and Maintenance
+##  Safety Tips for Tree Swing Use and Maintenance
 
 Installation is just the first step. Ongoing safety requires consistent attention.
 

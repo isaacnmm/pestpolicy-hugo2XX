@@ -19,7 +19,7 @@ Flea [larvae](https: //pestpolicy. com/what-do-flea-larvae-eat/) are concentrate
 
 Fleas larvae will live in those micro-habitats that are dark, with moderate temperature, and high humidity with enough flea food. ** - **So, in your home, you'll find flea larvae (and over**80% of the fleas) growing incarpet fibers. - **You'll also get fleas larvae around the pet's resting areas - including around dog houses, holstered furniture, floorboard cracks, and pet bedding. ** You may try these steam cleaners.
 
-# # Requirements for the Flea Larvae to Thrive?
+##  Requirements for the Flea Larvae to Thrive?
 
 The habitat requirements for the flea larvae to thrive - not that these won't be widespread for the flea larvae. These worm-like creatures will require some unique substrates to allow better hatching and maturing. You'll find such appropriate habitats either outdoors or indoors - but from the eggs in the flea population - just a few will get to the adult stage. **1.
 
@@ -43,7 +43,7 @@ For distance, flea larvae will move under 15 centimeters to about 46 centimeters
 
 On stimuli, flea larvae will move away from light - considered as negatively phototactic but will move with gravity - described as positively geotactic. Further, the worm-like creatures are thigmotactic and positively hygrotactic meaning that they react positively to physical contact and high humidity respectively. They'll avoid pet and pedestrian traffic.
 
-# # Where Do Flea Larvae Live?
+##  Where Do Flea Larvae Live?
 
 **1. Around the House** Flea larvae will hide around the house in those protected areas especially under the rugs, and carpet fibers. They may also hide on hardwood floors - in the crevices and cracks. You won't find the flea larvae on areas with linoleum floors or tiled floors. However, you may find baby bugs under furniture, upholstery, cushions, dirt-floor basements, rugs, and pet bedding.
 
@@ -65,6 +65,6 @@ Other Rooms** Further, you may find the immature flea larvae around the carpeted
 
 - Also, inspect outdoor areas that have under structures, animal burrows, crawl spaces, flower beds, pet shelters, and dog houses.
 
-# # Conclusion
+##  Conclusion
 
 So, on 'where do flea larvae live? ', well, flea larvae will live near places with flea hosts (cats & dogs), and flea dirt, and organic debris including carpets, pet bedding, and the house.

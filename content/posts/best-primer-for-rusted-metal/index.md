@@ -20,9 +20,9 @@ With this in mind, the question now remains which product to go for? How to use 
 
 This article will help you clearly articulate the kind of primer to go for and their benefits based on the reviews of those that have previously used them and most of all make an informed choice.
 
-# # s: Top 7 Best Primer for Rusted Metal in 2025
+##  s: Top 7 Best Primer for Rusted Metal in 2025
 
-## # [1. Corroseal Metal Primer & Water-Based Rust Converter](https://www.amazon.com/dp/B07Y5XZJFX/?tag=p-policy-20)
+###  [1. Corroseal Metal Primer & Water-Based Rust Converter](https://www.amazon.com/dp/B07Y5XZJFX/?tag=p-policy-20)
 
 Corroseal ranks as the best water-based primer that does an excellent job in converting rust and protecting your equipment from further corrosion and damage of your [metal parts](https: //pestpolicy. com/best-spray-[paint](https: //pestpolicy. com/best-drywall-primer-sealer/)-for-metal/).
 
@@ -36,7 +36,7 @@ However, this primer cannot be applied on galvanized surfaces or on new steel su
 
 Cons: - Its expensive - Has odor
 
-## # [2. FDC Rust Converter, Professional Grade Rust Repair](https://www.amazon.com/dp/B014LR5PA2/?tag=p-policy-20)
+###  [2. FDC Rust Converter, Professional Grade Rust Repair](https://www.amazon.com/dp/B014LR5PA2/?tag=p-policy-20)
 
 This FDC rust converter is one of the fairly economical primers that are easy to use when it comes to converting rust into the inert black coat and stopping any further spread.
 
@@ -52,7 +52,7 @@ Cons: - Reacts with fabric and concrete
 
 > See Also: > Will Vinegar Remove Paint?
 
-## # [3. TotalBoat Rust Primer Converter, Professional Repairs](https://www.amazon.com/dp/B013F9SLQM/?tag=p-policy-20)
+###  [3. TotalBoat Rust Primer Converter, Professional Repairs](https://www.amazon.com/dp/B013F9SLQM/?tag=p-policy-20)
 
 If you are working on a budget and equally planning to cover a wider range, then this is the rust converter to go for. With slightly above 30 dollars, you get a gallon of this primer that covers approximately 500 square ft.
 
@@ -66,7 +66,7 @@ Cons: - Has odor - Leaves marks after application that needs cleaning.
 
 > See Also: > Mildew Resistant Paints
 
-## # [4. Rust-Oleum 7769502 with Protective Enamel Primer](https://www.amazon.com/dp/B000SA8OGY/?tag=p-policy-20)
+###  [4. Rust-Oleum 7769502 with Protective Enamel Primer](https://www.amazon.com/dp/B000SA8OGY/?tag=p-policy-20)
 
 Rust-Oleum has stood out in the market to serve as the best rust converter and a primer with a roller or brush.
 
@@ -82,7 +82,7 @@ Cons: - Takes time to dry
 
 > See Also: > Removing Paint from Metal Door
 
-## # [5. Krylon K06903300 Rust Protector Primer](https://www.amazon.com/dp/B008BMP1J4/?tag=p-policy-20)
+###  [5. Krylon K06903300 Rust Protector Primer](https://www.amazon.com/dp/B008BMP1J4/?tag=p-policy-20)
 
 If you are an accustomed paint buyer, you definitely know Krylon brands. Built-in quality and excellence; it is no different with Krylon Rust protector.
 
@@ -94,7 +94,7 @@ Pros: - It fast drying - Consistent - Gives a smooth finish - Can achieve a vert
 
 Cons: - The colors are inaccurate
 
-## # [6. Krylon K06903907 Rust Protector Primers](https://www.amazon.com/dp/B008BMP1X0/?tag=p-policy-20)
+###  [6. Krylon K06903907 Rust Protector Primers](https://www.amazon.com/dp/B008BMP1X0/?tag=p-policy-20)
 
 Unlike no other rust converters, Krylon K06903907 is unique in the sense that it serves both as a paint and a primer, therefore, eliminating the need to buy rust remover and paint separately.
 
@@ -110,7 +110,7 @@ Cons: - Need to apply many coats
 
 > See Also: > Painting over primed surface >?
 
-## # [7. Eastwood Rust Converter, One Quart](https://www.amazon.com/dp/B07PPPPKGM/?tag=p-policy-20)
+###  [7. Eastwood Rust Converter, One Quart](https://www.amazon.com/dp/B07PPPPKGM/?tag=p-policy-20)
 
 If you are looking for the most recent high-tech rust removers, then Eastwood is the right choice for you. Eastwood is multipurpose that halts enduring rust and converts it into a dark layer that prepares the surface for painting.
 
@@ -124,6 +124,6 @@ Cons: - Costly
 
 > See Also: > Painting your Metal Building
 
-# # Conclusion
+##  Conclusion
 
 With the outline above of the best primers for rusted metal my top recommendation primer is Corroseal Metal Primer & Water-Based Rust Converter. This is besides its many benefits and use on both marine and residual surfaces and therefore ranks the best.

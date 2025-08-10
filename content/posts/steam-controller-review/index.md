@@ -24,13 +24,13 @@ Pros: - Great for strategy gaming - analogue stick and Solid buttons - Additiona
 
 For most PC gamers, the **mouse** and **keyboard** combo is the ultimate solution. - However, Valve has been trying to combine the console and PC gaming capabilities using Steam technology. The [steam controller](https: //www. amazon. com/dp/B016KBVBCS/? tag=p-policy-20) on Amazon is the recent solution by valve aiming to enhance PC-Console gaming combination.
 
-# # Steam Controller Review
+##  Steam Controller Review
 
-## # **Setup **
+###  **Setup **
 
 Your Steam Controller will come with a connection extender, Bluetooth connector, and AA batteries. Youll only need to put the batteries at the back of the controller. Further, you may utilize your MicroUSB cable to link the steam controller to your computer when it runs out of power. Finally, switch on the controller to begin your gaming!
 
-## # Compatibility
+###  Compatibility
 
 The steam controller can be termed as a plug-and-play since after you put the USB dongle to your computer, youll only need to push the controllers Valve logo. - Further, with the Steam Controller, youll be happy to connect to all the games that are accessible through the Steam marketplace. - However, for the older PC games, youll require to make limited changes to the control scheme.
 
@@ -38,12 +38,12 @@ The steam controller can be termed as a plug-and-play since after you put the US
 
 Also, Steam has these unique features where the software will recommend some possible layouts for your trackpad.
 
-## # **Design**
+###  **Design**
 
 With the different improvements on the steam controller, the device has achieved a fantastic design and build. The critical attribute of Steam is the unique trackpads. In addition to their high customization capability, the trackpads are clickable and produce haptic feedback. - For example, the first design had the circular trackpads located in places of the current analog stick.
 
 - However, the current steam controller has one analog stick, four triggers, and two face buttons a features standard in many controllers. In addition to the general traits, Steam has allowed you to click any handle to achieve a third trigger grip. However, the steam controller plastic build felt too cheap and light as compared to the [Xbox Elite](https: //www. amazon. com/dp/B00ZDNNRB8/? tag=p-policy-20) on Amazon.
 
-# # Conclusion
+##  Conclusion
 
 Youll love how Steam advances the console controller features with the PC gaming ideas. The trackpads, their high customizability, and their hepatic feedback will give you an excellent gaming experience.

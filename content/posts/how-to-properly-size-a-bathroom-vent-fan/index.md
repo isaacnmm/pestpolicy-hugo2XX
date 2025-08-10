@@ -53,7 +53,7 @@ However, simply having a vent fan isn't enough. Its effectiveness hinges critica
 
 Understanding **how to [properly](https: //pestpolicy. com/how-to-properly-vent-a-bathroom-exhaust-fan-in-an-attic/) size a bathroom vent fan** is essential to ensuring optimal humidity control, maintaining good indoor air quality, and protecting your bathroom's structural integrity and finishes for years to come. This guide will walk you through the calculations and considerations needed to select the perfect fan for your specific bathroom.
 
-# # Understanding CFM and Sone Ratings
+##  Understanding CFM and Sone Ratings
 
 Before delving into calculations, let's clarify key terminology:
 
@@ -63,7 +63,7 @@ Before delving into calculations, let's clarify key terminology:
 
 * For optimal comfort, aim for a fan with a sone rating of 1. 0 or less, especially for frequently used bathrooms.
 
-# # Factors Affecting Fan Performance (and CFM Effectiveness)
+##  Factors Affecting Fan Performance (and CFM Effectiveness)
 
 Even a perfectly sized fan won't perform optimally if other factors are neglected:
 
@@ -77,7 +77,7 @@ Even a perfectly sized fan won't perform optimally if other factors are neglecte
 
 4. **Regular Cleaning: ** A fan clogged with dust and lint cannot move air effectively, regardless of its CFM rating. Regular cleaning of the fan grille and internal components is crucial for maintaining performance.
 
-# # Final Thoughts
+##  Final Thoughts
 
 Properly sizing a bathroom vent fan is a critical step in maintaining a healthy, comfortable, and durable bathroom environment. By accurately calculating the required CFM based on your bathroom's size and features, and by considering factors like ductwork and noise levels, you can select a fan that effectively combats humidity, eliminates odors, and protects your home from moisture-related damage.
 

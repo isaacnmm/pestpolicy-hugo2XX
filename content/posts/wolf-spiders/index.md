@@ -19,7 +19,7 @@ Unlike the Black Widow Spiders, the Wolf Spiders are big hunting spiders that wi
 
 The Lycos bit means "wolf" due to the wolf-like hunting habits but the spiders are solitary animals and thus they hunt alone and not in packs. Related: [How to Control Spiders](https: //pestpolicy. com/how-to-get-rid-of-spiders/).
 
-# # Wolf Spider Appearance
+##  Wolf Spider Appearance
 
 If you're thinking about your traditional spider then the wolf spiders won't match that body and behavior archetype. - First, wolf spiders will not spin webs but instead hunt down their prey just like wolves. - The Lycosidae (meaning wolf in Greek) may have some similarities with the tarantulas but they are smaller and come from a different family. Wolf spiders have brown to Gray (and hairy) bodies that have varied lines or markings.
 
@@ -35,13 +35,13 @@ Next, you should check if the end of the spider's legs 3 claws (tarsal claws). -
 
 Related: Getting Rid of Brown Recluse Spiders The wolf spiders also have hairs that cover their abdomen - [Kentucky Entomology](https: //www. uky. edu/Ag/CritterFiles/casefile/spiders/wolf/wolf. htm). - This feature may make you confuse them with the tarantula but the wolf spiders are smaller in body size.
 
-# # Wolf Spider Behavior
+##  Wolf Spider Behavior
 
 As noted above the wolf spiders are hunting arachnids (theyre great sprinters) and so they won't lay webs to catch their prey. - This is where the wolf spiders derived their name from because they will hunt down their prey. Where can you find the wolf spiders? The habitat of the wolf spiders includes the rainforests, alpine meadows, wetlands, coastal forests, inland shrublands, deserts, and dry or Woodlands.
 
 - But some species of wolf spiders may occupy suburban gardens, riverbank beds, mountains herbal fields, and coastal sand dunes. The [ITIS](https: //www. itis. gov/servlet/SingleRpt/SingleRpt? search_topic=TSN&search_value=847731) reports that the wolf spiders (Lycosidae) have about 2400 species that are classified into 123+ genera.
 
-# # Wolf Spider Habitat
+##  Wolf Spider Habitat
 
 Examine whether the spider under consideration will retreat to some burrow. The burrows may be found on outbuildings, around the house, and windows or doors. - You will identify the spider as a wolf spider if it tends to move into a crevice or burrow as opposed to a web. But the trap doors and the tarantulas also tend to move into burrows but they are relatively larger in size compared to the wolf spiders.
 
@@ -55,7 +55,7 @@ Wolf spiders can enter your house through breezeways, crawl spaces, and basement
 
 ](https: //pestpolicy. com/spider-bite-vs-mosquito-bite/)
 
-# # How Dangerous Are The Wolf Spiders
+##  How Dangerous Are The Wolf Spiders
 
 Wolf spiders will only bite humans when mishandled or if they feel threatened. - Arachnids will only socialize during the mating season and thus they will walk as lone wolves. Wolf spiders are venomous but are not classified as poisonous to humans - as reported by [Penn State College](http: //ento. psu. edu/extension/factsheets/wolf-spiders).
 
@@ -67,6 +67,6 @@ When ready to mate, the female wolf spiders will drop scent markings that will h
 
 - The males will wave their pedipalps (the sensory appendages around the mouths) and legs to signal their courtship intentions to the females.
 
-# # Conclusion
+##  Conclusion
 
 So what should I do when I see a wolf spider? You can evade the wolf spider bites by avoiding picking or touching (or even squishing) them. - Squishing the female wolf spiders may also damage the eggs sacs on their backs and thus may drop hundreds of them and spiderlings in your house - you canuse spider bombs to contol them. Wolf spiders are mainly walking on the ground and will rarely climb on tall objects or structures.

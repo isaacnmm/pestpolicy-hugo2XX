@@ -23,9 +23,9 @@ Thus, it's terrifying that you may be sleeping under the same roof with these [a
 
 Hence, you'll require to think seriously consider pest control including getting rid of spiders. *
 
-# # How to Get Rid of Spiders (7 Effective Tips)
+##  How to Get Rid of Spiders (7 Effective Tips)
 
-## # Step 1: Spider Identification
+###  Step 1: Spider Identification
 
 On [spider identification](https: //owlcation. com/stem/spider-identification), the 8-legged arachnids (with fangs (chelicerae) and 2 body parts ) belong to the same group as mites, ticks, and scorpions. [Spiders have no antennae](https: //pestpolicy. com/do-spiders-have-antennae/) or wing. - There are over 35, 000 species of spiders worldwide but just a fraction of them will be in your yard or home.
 
@@ -41,7 +41,7 @@ On [spider identification](https: //owlcation. com/stem/spider-identification), 
 
 For the indoor spaces, the spiders will hide in the less-frequented areas such as under furniture and sinks, attics, garage, around windows and ceilings fixtures, closets, and basements.
 
-## # Step 2: Declutter and Vacuum
+###  Step 2: Declutter and Vacuum
 
 Some spider species love dark and damp corners such as rarely-used closets and basements while others will hide in dry plus warm areas like attics. *Declutter* First, declutter your house - most times spiders will be found in cluttered places such as basements, attics, and garages. So, reorganize and throw out as many objects as possible - leaving spiders in the open and hence there will be no harborage areas.
 
@@ -57,7 +57,7 @@ Some spider species love dark and damp corners such as rarely-used closets and b
 
 - Inspect walls and basement for crack and leaks - fixing all of them while also dusting all the storage boxes and sweeping the surfaces and floors. Clean around the furnace and water heater. - Clean the garage, after getting the car outside to clean it thoroughly and sweep the walls and ceilings plus the exterior door. See Also: [Spider Bite vs Mosquito Bite? ](https: //pestpolicy. com/spider-bite-vs-mosquito-bite/)
 
-## # Step 3: Use TERRO-T2302 to Kill any Spiders
+###  Step 3: Use TERRO-T2302 to Kill any Spiders
 
 TERRO-T2302 gives install-killing results on spiders - quick and easy. Just spray around the holes, garden, crevices, and house or directly on that spider. - The spider killer will prevent spider re-occurrence for about 6 weeks. It'll kill pests and spiders like black widows and the[brown recluse](https: //pestpolicy. com/how-to-get-rid-of-brown-recluse-spiders/), bed bugs, cockroaches, ants, and scorpions.
 
@@ -73,7 +73,7 @@ The product willkill fleas, silverfish, crickets, ants, and cockroaches. Ensure 
 
 Spray the outdoor spaces including on non-crop or bushy areas, and the spider-infested weeds - including on lumber and firewood. Wash the clothes and skin using water plus soap. Avoid using this spider spray around aquatic animals as it'll be toxic to them including to fish. See Also: Does Windex Kill Spiders?
 
-## # Step 4: Use**Catchmaster 72MB Spider-Catching Glue Boards**
+###  Step 4: Use**Catchmaster 72MB Spider-Catching Glue Boards**
 
 After monitoring the spider activity, you can use the Catchmaster 72MB as a glue trap to catch multiple insects that'll also capture spiders straying around the room. Set up these traps around areas that you've noticed some spider activity - this may include around the closet storage spaces and garage. - Insects including spider will wall on the glue board and they'll get stuck - ready for disposal.
 
@@ -87,7 +87,7 @@ Catchmaster 72MB will capture the insects in a non-toxic way (no rodenticides or
 
 Don't position on the moist surfaces or places near water. - Avoid using on areas with extreme heat. Also, for cold places like the walk-in fridge, get Catchmaster 48WRG which's great for cold temperatures.
 
-## # Step 5: Use Peppermint Oil
+###  Step 5: Use Peppermint Oil
 
 Scientific evidence denotes that peppermint oil will repel or exterminate spiders working like a natural insecticide against spiders and other arachnids. It is thought that spiders dislike either the monoterpenoids (with fumigants) or strong odors found in the oil as outlined in a [2010 study by StudyTrusted](http: //www. ncbi. nlm. nih. gov/pmc/articles/PMC3014752/#! po=85. 2941).
 
@@ -101,6 +101,6 @@ Here are additional repellents (natural) that'll repel spiders, mainly essential
 
 See Also: Bug Bomb for Spiders
 
-# # Conclusion
+##  Conclusion
 
 So, how to get rid of spiders you can use either natural or chemical-laden products or call an expert exterminator. Correct identification plus inspection will significantly aid your spider elimination.

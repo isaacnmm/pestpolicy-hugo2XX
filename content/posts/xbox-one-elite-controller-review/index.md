@@ -18,13 +18,13 @@ layout: post
 
 It feels nice to hold the Xbox One Elite as it has good weight, with rubber and metal parts installed appropriately to give it an excellent look and feel.
 
-# # Xbox One Elite Controller Review
+##  Xbox One Elite Controller Review
 
-## # Customizable controller
+###  Customizable controller
 
 Xbox One Elite beats its competitors due to its high customization capability. - For example, you can swap the magnetic D-pad and thumbsticks to achieve varied styles according to your prevailing gaming requirements. - Also, Xbox One Elite has some metal peddles that will provide an extra four buttons, which you can use to map different actions. It comes with 2 D-pads, two paddles, three triggers, and a micro USB cable (braided).
 
-## # Quality Rubber and Metal Parts
+###  Quality Rubber and Metal Parts
 
 Further, the accessories are of high quality and durable. For example, magnetic thumbsticks have a high quality and will function effectively. > A notable customization feature of the Xbox One Elite is the Hair Trigger Locks that will allow you to shorten trigger travel to assist you faster shooting. You can extend the triggers to achieve more control over the brakes and accelerator.
 
@@ -32,19 +32,19 @@ Further, the controllers vibration feedback will enable you to notice brake lock
 
 Read Also: Bullet Journal Notebook
 
-## # Back paddles
+###  Back paddles
 
 To add to the customization capability, the controller has a profile slider that will enable you to switch to any of the two controller profiles easily. Such power is critical while switching between weapons or games. > Further, the company provides support through the downloadable Xbox Accessories software you can use to remap buttons or alter their sensitivity. Also, it is easy to adjust the trigger dead-zone or the thumbsticks sensitivity.
 
-## # Excitingly complex Grips
+###  Excitingly complex Grips
 
 I am sure you are already used to the standard controller layouts, but youll love the rear controls, with the horizontally running metal paddle and the gamepad grips. Despite that some gaming enthusiasts consider the grips less comfortable, Microsoft put 4 in the controller, and they run more quietly.
 
-## # Controller sticks
+###  Controller sticks
 
 The analog sticks in Xbox One Elite got the most significant improvement, mainly in how better they glide and their unique switchable stick caps. First, youll definitely love how the sticks glide smoothly and roll from side to side to give you an excellent gaming experience. Read Also: Driveway Alarms Pros: - Easy to customize - Great ergonomics Comfortable to hold - Excellent quality build - Has usable Bumper buttons Cons: - Feels weighty
 
-# # Conclusion
+##  Conclusion
 
 Finally, the Xbox Elite is here with all its great innovations as shown in the Xbox One Elite Controller Review. - However, the controller is considered to favor the gaming experts due to its cost and high level of customization capability. - We love the Xbox Elites customization capability and quality, and aesthetic design. Read Also: [Outdoor Rocking Chairs Reviewed](https: //pestpolicy. com/best-outdoor-rocking-chairs/).
 

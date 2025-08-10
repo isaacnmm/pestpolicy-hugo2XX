@@ -33,11 +33,11 @@ Bermuda grass ([Cynodon dactylon](https: //plants. ces. ncsu. edu/plants/cynodon
 
 Its aggressive growth habit, deep roots, and prolific seed production make it notoriously difficult to eradicate. If you're battling a Bermuda grass invasion, prepare for a persistent effort, as it often requires multiple methods and applications to achieve control.
 
-# # Methods for Killing Bermuda Grass
+##  Methods for Killing Bermuda Grass
 
 Killing Bermuda grass effectively often involves a combination of strategies and a great deal of patience.
 
-## # 1. Chemical Control (Non-Selective Herbicides)
+###  1. Chemical Control (Non-Selective Herbicides)
 
 This is often the most effective method for complete removal of Bermuda grass, especially in large areas where you plan to reseed with a different type of grass.
 
@@ -53,7 +53,7 @@ Avoid spraying on windy days to prevent drift onto desirable plants.
 
 Check the forecast for rain, as rain can wash away the product before it's absorbed. * **Considerations: ** Non-selective herbicides [kill](https: //pestpolicy. com/does-the-dryer-kill-fleas/) *all* vegetation they contact, so use with extreme caution near desired plants, trees, or shrubs.
 
-## # 2. Chemical Control (Selective Herbicides)
+###  2. Chemical Control (Selective Herbicides)
 
 These are specific grass-killing herbicides that can control Bermuda grass without harming certain broadleaf plants or some desirable turf types (like fescue).
 
@@ -63,7 +63,7 @@ These are specific grass-killing herbicides that can control Bermuda grass witho
 
 * **Considerations: ** Less effective for complete eradication compared to non-selective methods. Always confirm the herbicide is safe for your desirable turfgrass type before applying.
 
-## # 3. Solarization
+###  3. Solarization
 
 This organic method uses the sun's heat to "cook" the Bermuda grass and its seeds in the soil.
 
@@ -75,7 +75,7 @@ Ensure it extends at least 1 foot beyond the infested area on all sides. 4. **Se
 
 ](https: //ipm. ucanr. edu/PMG/SM/soil_solarization. html) * **Pros: ** Organic, kills seeds, also controls other weeds and some soil pathogens. * **Cons: ** Takes a long time, the area is unusable and unsightly during the process, and it may not be 100% effective in cooler climates or during cloudy periods.
 
-## # 4. Smothering/Deprivation (Sheet Mulching/Cardboard Method)
+###  4. Smothering/Deprivation (Sheet Mulching/Cardboard Method)
 
 This organic method deprives Bermuda grass of sunlight, eventually killing it.
 
@@ -85,7 +85,7 @@ This organic method deprives Bermuda grass of sunlight, eventually killing it.
 
 ](https: //extension. oregonstate. edu/news/sheet-mulching-easy-way-kill-weeds-build-soil) * **Pros: ** Organic, improves soil health, good for creating new garden beds. * **Cons: ** Takes a long time, the area is unusable for planting until the grass is dead, and the appearance might be less desirable during the process.
 
-## # 5. Manual Removal (Digging)
+###  5. Manual Removal (Digging)
 
 Best suited for very small, isolated patches of Bermuda grass or for targeting individual runners.
 

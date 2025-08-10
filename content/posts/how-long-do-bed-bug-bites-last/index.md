@@ -19,13 +19,13 @@ So, how long do bed bug bites last? If you thought mosquito bites are painful an
 
 **If you need a short answer**, bed bug bites will mainly last anything from 1-2 weeks (roughly ten days), Though, for people who are highly allergic to such bites, the effect may last even about three weeks or more. But, baby bed bugs have weaker mandibles, and thus their bites won't go deep your skin or last long. **Check these bed bug killers. **
 
-# # So, how long do bed bug bites last?
+##  So, how long do bed bug bites last?
 
 Even in prevention, sometimes people are just unlucky and can get bitten when on holiday or staying in a rented apartment. - So how long do the bites last? Well, bites usually last around a week to 10 days, depending on how the persons body reacts and how sensitive they are (the allergy level). - According to studies conducted by the CDC in the US, at least one in five Americansexperiences a bed bug infestation.
 
 These infestations do not just pose health risks, but it can cause property loss and intensive damage to the building and its reputation. Check the [best drain cleaner](https: //pestpolicy. com/best-drain-cleaner//). Recently I tackled this topic - Stink Bugs versus Bed Bugs.
 
-# # Identifying Bed Bugs Bite
+##  Identifying Bed Bugs Bite
 
 Bed bugs can pretty much bite anywhere across the body, but mainly the bites are located on or near these areas: Face, Shoulders and upper back, Hands and Arms, Legs (mostly around the feet and ankles), and Neck. Depending on how the bodies react, some people only experience the bite's inflammation and irritation. In contrast, others who are sensitive tug bites to a more severe reaction, such as nausea, sweating, and skin rashes.
 
@@ -33,7 +33,7 @@ A bed bugs bite can have different shapes and signs, but usually, the patterns t
 
 Some reactions include Fever, Swollen tongue and inflammation, Increased heart rate, irregular heartbeats, and Breathing issues. Related article - top roach killer.
 
-# # Treating bed bug bites
+##  Treating bed bug bites
 
 The cost of treating bed bug infestations can get pretty expensive, and some property owners cannot handle those costs. - The good news is, its a simple problem to solve if it is detected early on, so let's look at ways to[identify bed bug bites](https: //pestpolicy. com/can-bed-bugs-live-in-your-skin/). However, you can also use[bed bug sprays](https: //pestpolicy. com/best-bed-bug-spray/)in the first place.
 
@@ -41,7 +41,7 @@ The cost of treating bed bug infestations can get pretty expensive, and some pro
 
 Any bug infestation cant be taken lightly and has to be dealt with immediately, before any irreversible damage happens to the property and, more importantly, to you and your family's health and well-being without disturbing the quality of life in your household.
 
-# # How To Prevent A Bed Bug Infestation?
+##  How To Prevent A Bed Bug Infestation?
 
 The best way to prevent a bed bug infestation is to make sure not to carry any back home in the first place. Many infested dwellings are suffering in the first place because the owners brought back some bugs while on a trip or staying at a hotel. During the day, the [bugs hide](https: //pestpolicy. com/where-do-bed-bugs-hide/) in cracks and window seals or furniture cushions and crevices.
 

@@ -23,7 +23,7 @@ The primary concern is to avoid damaging the root systems of your beloved plants
 
 With careful planning and execution, it's entirely possible to install a garden arbor without harming nearby flora. This guide will walk you through the critical considerations, from understanding post-hole requirements and estimating root spread to precise pole placement and the actual installation process. By approaching the task thoughtfully, you can successfully blend a beautiful new structure with the established beauty of your garden.
 
-# # Post Hole Size Requirements
+##  Post Hole Size Requirements
 
 The size and depth of your post holes are critical for the stability and longevity of your garden arbor. Incorrectly sized holes can lead to a wobbly structure or one that heaves out of the ground over time.
 
@@ -43,7 +43,7 @@ This lifts the wood off the ground, further preventing rot.
 
 This method is preferred if post longevity is a primary concern.
 
-# # Estimating Plant Root Spread
+##  Estimating Plant Root Spread
 
 This is perhaps the most crucial step when installing an arbor near existing plants. Damaging major roots can severely harm or even kill your plants.
 
@@ -59,7 +59,7 @@ Avoid digging anywhere near the root zone of established trees if possible.
 
 * **Use a Different Support: ** Consider alternative structures that don't require deep post holes.
 
-# # Planning Pole Placement
+##  Planning Pole Placement
 
 Careful planning minimizes root damage and ensures the arbor fits your garden design.
 
@@ -73,7 +73,7 @@ This is usually only viable for smaller shrubs or perennials.
 
 4. **Consider Future Growth: ** Think about how both the arbor and the surrounding plants will grow over time. Will the arbor still fit, or will it become engulfed? Will the plants' roots eventually interfere with the arbor's stability?
 
-# # Installing the Arbor
+##  Installing the Arbor
 
 Once the planning is complete, proceed with the installation carefully.
 
@@ -95,7 +95,7 @@ Use a level frequently to ensure everything is straight and plumb. 6.
 
 **Choose Climbing Plants: ** Select appropriate climbing plants for your arbor, considering their mature size, light requirements, and whether they are compatible with the arbor's structure (e. g. , twining vines, tendril climbers, or plants that need to be tied).
 
-# # FAQs About Installing a Garden Arbor Near Existing Plants
+##  FAQs About Installing a Garden Arbor Near Existing Plants
 
 **Q: Can I install an arbor near a tree? ** A: It's generally best to avoid installing an arbor directly within the dripline of a mature tree, especially if it requires digging deep post holes. Tree roots can extend far beyond the canopy, and cutting major roots can severely harm the tree.
 
@@ -111,7 +111,7 @@ If you must be near a tree, aim for the outermost edges of its root zone and pro
 
 * **Water Plants: ** Water nearby plants well before and after installation to reduce stress.
 
-# # Final Thoughts
+##  Final Thoughts
 
 Installing a garden arbor near existing plants is a project that demands careful consideration and a gentle hand. By understanding the critical factors of post-hole requirements, accurately estimating root spread, and meticulously planning pole placement, you can navigate the process with minimal disruption to your cherished flora.
 

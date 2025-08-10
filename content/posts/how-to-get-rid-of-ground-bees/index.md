@@ -21,11 +21,11 @@ edu/extension/wild-pollinators/native-bees-your-backyard)dig mainly in bare area
 
 Therefore, maybe you should consider how to get [rid](https: //pestpolicy. com/how-to-get-rid-of-carpenter-bees-without-killing-them/) of ground beesthat are in your yard? Related: [Easily Get Rid of Sweat Bees](https: //pestpolicy. com/get-rid-sweat-bees/). **Wait: ** Bee stings are feared because they are lethal, and they cause pain. But, do ground bees pose a danger to you, your family, or your pets?
 
-# # Details: How to Get Rid of Ground Bees
+##  Details: How to Get Rid of Ground Bees
 
 The easiest method to eliminate ground bees is through chemical sprays labeled for ground bees, such as Spectracide.
 
-## # What are ground bees, and what do they look like?
+###  What are ground bees, and what do they look like?
 
 Unlike other wild bees that nest above the ground bees have their residence inside holes conspicuous with the pile of dirt. Colletes inaequalis is one of the most common ground bees. All ground bees belong to the order Hymenoptera. **Quick Facts: ** About 70% of the 20, 000 bees species have their nests in the ground. However, apart from the honeybees, other types of honey bees leave their nests during fall.
 
@@ -47,11 +47,11 @@ There are many wild and characteristically solitary bees.
 
 The wild bees are considered very important to the pollination of both domestic and wild plants. Ground bees are one of the wild bees that act as pollinators.
 
-## # Size and color of ground bees
+###  Size and color of ground bees
 
 Ground bees have colors ranging from purple, red, blue, yellow, and black. They are about one inch long. Ground bees have their mating season between March and May. Female bees in the colony of ground bees function as worker bees. The females dig burrows in the mating season, ready to fill them with eggs and bee bread. **Life Saver! ! : ** **Check a Video on How to Spot Ground Bee Nests**
 
-# # Are Ground Bees Dangerous?
+##  Are Ground Bees Dangerous?
 
 Male ground bees like Carpenter Bees do not have a sting! Mainly, the male ground bees are the ones that fly over the bee nest. However, male ground bees are very aggressive but will not sting. On the contrary, female ground bees are not aggressive but can sting. Therefore, ensure that you will irritate them to cause them to initiate self-defense. Therefore, ground bees will only sting if they are aiming to defend themselves and their colony.
 

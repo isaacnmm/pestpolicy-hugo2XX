@@ -22,7 +22,7 @@ While their showy appearance might suggest high maintenance, many hibiscus varie
 
 From the delicate, ephemeral blooms of tropical hibiscus to the robust, dinner-plate sized flowers of their hardy cousins, these plants offer a spectacular display. This comprehensive guide will walk you through the distinct characteristics of the main hibiscus types, their specific growing requirements, common challenges, and tips for encouraging an abundance of those breathtaking, iconic blooms.
 
-# # What Are the Three Main Types of Hibiscus?
+##  What Are the Three Main Types of Hibiscus?
 
 The genus *Hibiscus* is vast, but for home gardeners, there are three primary categories that offer distinct growing conditions and characteristics:
 
@@ -38,7 +38,7 @@ Hardy only in USDA Zones 9-11 (temperatures consistently above $10^\circ C / 50^
 
 * **Growth Habit: ** Upright, multi-stemmed deciduous shrubs or small trees, reaching 2. 4-3. 6 meters (8-12 feet) tall and 1. 2-3 meters (4-10 feet) wide. Can be invasive in some areas due to prolific self-seeding.
 
-# # How To Grow Tropical Hibiscus
+##  How To Grow Tropical Hibiscus
 
 Tropical hibiscus are sun-loving beauties perfect for containers or as seasonal accents.
 
@@ -54,7 +54,7 @@ The soil should remain consistently moist but never soggy.
 
 Resume regular watering and feeding in spring after all danger of frost has passed.
 
-# # Growing Hardy Perennial Hibiscus (_H. moscheutos_)
+##  Growing Hardy Perennial Hibiscus (_H. moscheutos_)
 
 These herbaceous giants provide a dramatic late-season display.
 
@@ -66,7 +66,7 @@ These herbaceous giants provide a dramatic late-season display.
 
 * **Spring Growth: ** New shoots emerge relatively late in spring; don't worry if you don't see them until late May or early June. * **Mulching: ** Apply a layer of mulch in fall to protect the crown in colder zones and conserve moisture in summer.
 
-# # How Do You Grow Hardy Hibiscus Shrubs? (_H. syriacus_ / Rose of Sharon)
+##  How Do You Grow Hardy Hibiscus Shrubs? (_H. syriacus_ / Rose of Sharon)
 
 Rose of Sharon is a reliable, low-maintenance flowering shrub.
 
@@ -76,7 +76,7 @@ A light application of balanced fertilizer in early spring is usually enough, or
 
 * **Aggressive Pruning: ** They tolerate aggressive pruning well and can be "hard pruned" to maintain a smaller size or encourage larger blooms (though fewer overall). * **Managing Self-Seeding: ** Rose of Sharon can be prolific self-seeders. To prevent unwanted seedlings, deadhead spent flowers before they set seed, or choose sterile/low-seeding cultivars.
 
-# # Growing Hibiscus for Culinary Uses
+##  Growing Hibiscus for Culinary Uses
 
 The most common hibiscus used for culinary purposes is **Roselle (_Hibiscus sabdariffa_)**, often called "Florida Cranberry" or "Jamaican Sorrel. " This is a different species from the ornamental types mentioned above.
 
@@ -86,7 +86,7 @@ Requires long, hot summers to produce well. * **Sunlight: ** Full sun.
 
 * **Soil: ** Well-draining, moderately fertile soil. * **Watering: ** Regular watering, especially during dry periods. * **Harvesting: ** Calyces are harvested when they are plump and succulent, usually in late summer to early fall.
 
-# # Common Hibiscus Problems and Solutions
+##  Common Hibiscus Problems and Solutions
 
 * **Yellowing Leaves: ** * **Cause: ** Often overwatering (especially tropical hibiscus), nutrient deficiency (iron, magnesium), or cold stress. * **Solution: ** Check soil moisture, ensure good drainage, apply appropriate fertilizer/supplements. * **Bud Drop: ** * **Cause: ** Sudden temperature changes, inconsistent watering (too dry or too wet), insufficient light, or pest infestation (especially thrips or mites).
 
@@ -94,7 +94,7 @@ Requires long, hot summers to produce well. * **Sunlight: ** Full sun.
 
 * **Spider Mites: ** Tiny arachnids that cause stippling (tiny dots) on leaves and fine webbing. Thrive in hot, dry conditions. * **Solution: ** Increase humidity, wash leaves frequently, use insecticidal soap or miticides. * **Chlorosis (Yellow leaves with green veins): ** * **Cause: ** Often an iron deficiency due to high soil pH or compacted soil. * **Solution: ** Apply an iron supplement or soil acidifier. Improve drainage.
 
-# # Tips for Encouraging Hibiscus Blooms
+##  Tips for Encouraging Hibiscus Blooms
 
 * **Adequate Sunlight: ** This is the most crucial factor. More sun equals more flowers. * **Consistent Watering: ** Avoid extreme dry or wet conditions, especially during the blooming period. * **Proper Fertilization: ** Use a fertilizer high in potassium (the "K" in NPK) to promote flowering, and ensure micronutrients are available. * **Pest Control: ** Keep pests at bay, as stressed plants produce fewer blooms.
 
@@ -102,13 +102,13 @@ Requires long, hot summers to produce well. * **Sunlight: ** Full sun.
 
 Deadhead tropical hibiscus (though self-cleaning, it can still encourage more) and manage Rose of Sharon for best results. * **Warmth: ** Ensure tropical hibiscus are kept warm enough. Hardy types need sufficient chilling in winter to bloom robustly in summer.
 
-# # Propagating Hibiscus
+##  Propagating Hibiscus
 
 * **Softwood Cuttings: ** The most common method for propagating all types of hibiscus. * Take 10-15 cm (4-6 inch) cuttings from new, non-flowering growth in late spring or early summer. * Remove lower leaves and dip the cut end in rooting hormone. * Insert into a well-draining rooting medium (e. g. , perlite and peat moss). * Keep moist and warm, ideally with high humidity (e. g. , under a plastic dome). Roots typically form in 4-8 weeks.
 
 * **Seed: ** Hardy hibiscus (both perennial and shrub) can be grown from seed, though named cultivars may not come true to type. Roselle is typically grown from seed. * Scarify the seeds (nick the hard outer coat) and soak overnight before planting.
 
-# # Final Thoughts
+##  Final Thoughts
 
 Growing hibiscus, regardless of type, is an incredibly rewarding experience that brings a splash of the exotic to any garden. By understanding the specific needs of tropical, hardy perennial, and hardy shrub varieties, you can ensure your plants thrive and produce their magnificent blooms season after season.
 

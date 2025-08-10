@@ -22,7 +22,7 @@ Unlike its more common cousins, the oakleaf hydrangea offers a multi-season disp
 
 Embracing native plants like the oakleaf hydrangea not only adds beauty to your landscape but also supports local ecosystems by providing food and shelter for native wildlife. If you're looking for a hardy, low-maintenance shrub that delivers continuous appeal from spring through winter, it's time to go native with the magnificent oakleaf hydrangea.
 
-# # About Oakleaf Hydrangeas
+##  About Oakleaf Hydrangeas
 
 The Oakleaf Hydrangea is a deciduous shrub native to the southeastern United States. Its common name is derived from its distinctive lobed leaves, which closely resemble those of an oak tree, especially the White Oak.
 
@@ -38,7 +38,7 @@ These emerge creamy white, gradually fade to pink, and then take on a beautiful 
 
 They are more drought-tolerant once established than many other hydrangea species and generally more resistant to pests and diseases. * **Size: ** Depending on the cultivar, oakleaf hydrangeas can range from compact shrubs (1. 2-1. 8 meters / 4-6 feet tall and wide) to large specimens (2. 4-3. 6 meters / 8-12 feet tall and wide).
 
-# # What Types of Blossom Varieties Do Oakleaf Hydrangeas Come In?
+##  What Types of Blossom Varieties Do Oakleaf Hydrangeas Come In?
 
 While the classic oakleaf hydrangea (Hydrangea quercifolia) features creamy white panicles, plant breeders have introduced several popular cultivars that offer variations in size, bloom form, and fall color intensity:
 
@@ -56,7 +56,7 @@ Ideal for smaller gardens or mass plantings.
 
 When selecting a variety, consider its mature size and the specific fall color or bloom characteristic you desire, ensuring it fits well within your garden space.
 
-# # Oakleaf Hydrangea Growing Tips
+##  Oakleaf Hydrangea Growing Tips
 
 Oakleaf hydrangeas are relatively low-maintenance once established, but providing the right conditions will ensure their best performance.
 
@@ -76,7 +76,7 @@ Avoid heavy pruning, as it can reduce flowering the following year.
 
 * **Winter Pruning: ** Avoid pruning in late fall, winter, or early spring, as you will be cutting off next year's flower buds. * **Winter Care: ** In colder parts of their hardiness range (Zone 5), a layer of mulch around the base ($5-10$ cm / $2-4$ inches) can help insulate the roots during winter. Generally, they are very hardy and require little specific winter protection.
 
-# # Landscaping with Oakleaf Hydrangeas
+##  Landscaping with Oakleaf Hydrangeas
 
 The multi-season appeal of oakleaf hydrangeas makes them incredibly versatile in landscape design.
 

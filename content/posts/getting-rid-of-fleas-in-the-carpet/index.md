@@ -21,7 +21,7 @@ So, if you're looking for effective ways of getting rid of fleas in the carpet -
 
 In this PestPolicy guide, this is what I'll be exploring: - How do fleas end up in your carpet? - How long do fleas live in carpets? - What Should I Do with [Flea](https: //pestpolicy. com/how-to-get-rid-of-fleas/)-Infested Furniture and Carpet? - 3 steps to getting rid of fleas in the carpet - fastest way - What Can I Use for Fleas on my Furniture?
 
-# # How do fleas end up in your carpet?
+##  How do fleas end up in your carpet?
 
 The simplest explanation for how fleas (and flea eggs) end up on your carpet is that they jump from one dog or cat to another, or even worse, from the outdoors into a home.
 
@@ -37,7 +37,7 @@ The eggs will roll onto the carper (they're less sticky) as the pet lies down.
 
 The flea eggs hatch in 1-2 weeks. So, the carpets provide a warm temperature allowing the fleas to hatch faster. - Thus, there will develop a fully-grown infestation with eggs, nymphs, and adults on the carpet and on the floor.
 
-# # How Long Do Fleas Live in Carpets?
+##  How Long Do Fleas Live in Carpets?
 
 Fleas can live in carpets for an average of two to three months with a suitable host - cat or dog. If they don't get a blood meal, the flea's lifespan might only last a few days. - The flea eggs in your carpet hatch in two to three days. After the egg hatches, it takes about six days for a flea larva to develop.
 
@@ -47,7 +47,7 @@ The best way to get rid of them would be using natural remedies like garlic oil 
 
 Adult fleas live on average anywhere from 1 day to two weeks, depending on the animal they're living off of. When a long-haired host is available they can survive roughly 8 days.
 
-# # What Should I Do with Flea-Infested Furniture and Carpet?
+##  What Should I Do with Flea-Infested Furniture and Carpet?
 
 If you have a lot of fleas on your furniture and carpet, you may need to call an exterminator - or undertake DIY flea control. - The problem is usually solved by spraying the house with insecticide which will kill all the fleas in your home - including those that are hiding out in dark corners or under carpets. The next step is to vacuum thoroughly to remove any eggs left behind from larvae so they don't hatchback into adults later on.
 
@@ -61,13 +61,13 @@ Flea eggs can hatch in a matter of days or weeks, depending on the conditions wh
 
 Flea eggs are the only stage of fleas that is not killed with adults-killing insecticides, so it's best to avoid using these products including flea bombs or foggers. - So, exterminators recommend treating carpets with insecticides that haveinsect growth regulators (IGR)ssuch as Precor that has (S)-Methoprene andPermethrinIGRs. To prevent re-infestation, you will need to give them a flea collar and scrub your pets with a quality flea shampoo.
 
-# # 3 Steps to Getting Rid Of Fleas in the Carpet - Fastest Way
+##  3 Steps to Getting Rid Of Fleas in the Carpet - Fastest Way
 
 When taking on a flea infestation, one of the most important places to focus is your home's carpet.
 
 Below are the key steps to take when you're perplexed as to how best to handle their flea problem on their floor or in their carpets.
 
-## # 1. Vacuum Cleaner for Fleas on Carpet
+###  1. Vacuum Cleaner for Fleas on Carpet
 
 Hi, everyone! What's this? It looks like a vacuum cleaner. Can you hear that sound it makes? - Yep, that's the sound of your carpet being sucked up into its tank to keep fleas from riding around on top of your floor and biting you when you have bare feet. Maybe vacuuming the carpet won't kill all the fleas in your home, but it'll play a great role.
 
@@ -75,7 +75,7 @@ A vacuum cleaner will remove fleas on the carpet, but it can't replace a profess
 
 An unexpected side effect of vacuuming is that you might actually be trapping fleas and their eggs in your vacuum. - So, when you're done vacuuming, remember to throw the bag or empty out your vacuum so that fleas can't take up residence in it.
 
-## # 2. Steam Cleaning the Carpet
+###  2. Steam Cleaning the Carpet
 
 A steam cleaner is a great way to get rid of fleas- it kills the eggs and larvae. However, it is not something that you should do without taking precautions.
 
@@ -89,7 +89,7 @@ Steam Cleaning the Carpet for Fleas is a process that uses high-pressure steam t
 
 - You should wait an entire week before letting them back into the areas that were treated or it could trigger a flea infestation and put you on the fast track to suffering from allergies. Related: Does white vinegar kill fleas?
 
-## # 3. Kill Fleas on Carpet with Baking soda
+###  3. Kill Fleas on Carpet with Baking soda
 
 If you are looking for a creative way to kill fleas that live on your carpet, then look no further! Baking soda is an unusually effective and inexpensive solution.
 
@@ -99,7 +99,7 @@ To test the potency and freshness of your baking soda, mix 1 tsp. with vinegar a
 
 - Treat the flea-infested area and let it settle for at least 12 hours before you vacuum. Related: [Carpet Powder forFleas](https: //pestpolicy. com/best-flea-carpet-powder/)
 
-# # What Can I Use for Fleas on my Furniture?
+##  What Can I Use for Fleas on my Furniture?
 
 Sometimes fleas choose to go into your furniture for a hiding place. Thankfully, killing fleas on your furniture doesn't need to be complicated or expensive. - The flea larvae and eggs will also drop on the dressers, table, and couch as the cat or dog moves around the house. That being said, the first thing you should do to control fleas on your furniture is by using an insecticide that comes with an IGR (Insect Growth Regulator).
 
@@ -113,7 +113,7 @@ The DE will work by sucking out any moisture in the carpet, which coupled with i
 
 Related: Check these Flea-treatment Guides
 
-# # Conclusion
+##  Conclusion
 
 Sometimes, the only way to get rid of fleas is by using a tool that can reach the deepest parts of your carpet. - Other times, all you need are some simple tips and tricks like vacuuming regularly or spraying insecticide onto fabrics where they might be hiding. - IGR Insecticides will kill adult fleas on contact but will also prevent eggs from hatching. I hope this post was helpful.
 

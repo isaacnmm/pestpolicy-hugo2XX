@@ -21,7 +21,7 @@ com/how-to-use-a-plunger/).
 
 Therefore, in this post, you'll learn the DIY tips on unclogging your toilet without a plunger or having to call a plumber.
 
-# # **Method 1: Mixing baking soda and vinegar**
+##  **Method 1: Mixing baking soda and vinegar**
 
 *Requirements: Baking soda, Vinegar, Small bucket, and Hot water (not boiling water)* This method is used for soft blockages. Baking soda and vinegar/) are used in many household activities. They are mostly used as cleaning chemicals. You can find them at your local shops. When combined, they have a fizzing effect. That effect can be used in unblocking soft blockages. **Step 1 - Sprinkle baking soda directly into the toilet bowl.
 
@@ -35,7 +35,7 @@ Boiling water may also damage pipes down the drain.
 
 After the 25 minutes have elapsed, pour the hot water. This hot water will wash down the baking soda, vinegar, and any soft blockages. **Step 5 - Test Flush** Flush water to ascertain that the blockage is cleared. If the water does not flush, you may consider repeating the process. You can try an alternative method. However, if the problem persists, you can contact your plumber for further assistance. Related: Reliable Roach Killers
 
-# # **Method 2:****Using Dish soap and hot water**
+##  **Method 2:****Using Dish soap and hot water**
 
 *Requirements: Dish soap, Bucket, Hot water. * Another way of unclogging is by using dish soap and hot water. Remember not to use boiling water so that you cannot spoil the toilet bowl and pipes. Dish soap is used for many purposes, including washing utensils (as it is called), shining jewelry, and surfaces. Other uses are unclogging a toilet, yes you read that right!
 
@@ -55,7 +55,7 @@ You can repeat the process.
 
 If the water still does not drain, you can try out other methods discussed here or call a plumber for further help.
 
-# # **Method 3:****Breaking up the clog with a hanger**
+##  **Method 3:****Breaking up the clog with a hanger**
 
 *Requirements: Coat hanger, Pliers, Piece of rag/clothing, Duct tape, Gloves, Trash bin. * This is an eco-friendly way of removing clogs since no chemicals are involved. The use of chemicals poses a great risk to your drains and ceramic. When you use chemicals, they are washed to the sewers to harm any form of life. Almost every house has hangers for hanging clothes.
 
@@ -73,7 +73,7 @@ If the method was effective, the water should flush and drain quickly.
 
 If not, you can repeat the process, and if the problem persists, you can try out any other method as described here before calling a plumber.
 
-# # **Method 4: **** Use a drain snake to breaking up the clog**
+##  **Method 4: **** Use a drain snake to breaking up the clog**
 
 *Requirements: Drain snake, Gloves, and Trash bin. * A drain snake(flexible cleaning tool or an auger) will be an excellent solution to break up the hard drain clogs. It's an eco-friendly method since no chemicals are used. A drain snake consists of a long wire screw that has a corkscrew on its tip. The wire is flexible that you can easily move down the toilet to clear the clogs.
 
@@ -93,7 +93,7 @@ Pushing the clogs down may cause blockages at other advanced parts of the pipes.
 
 Once you retrieve the snake, dispose of the caught materials in the bin. Remember to wash and sanitize the snake every time you use it. **Step 4 - Test Flush** To ascertain that the operation was successful, you should flush the toilet. If successful, the water will drain quickly. If not, you can repeat again and again until the clog clears. Else if, you can try other methods of unclogging a toilet before calling a plumber.
 
-# # **Other ways of removing clogs without a plunger**
+##  **Other ways of removing clogs without a plunger**
 
 **1. Using a chemical drain drainer** You are advised to avoid them at all costs and only use them as a last resort. They pose great harm to people, pets. They are also very corrosive to pipes. Ensure that there is free circulation of air in your toilet when using them. Their fumes are usually very poisonous. Apply them according to the accorded instructions. Ensure that you have protective gear for your protection. **2.
 

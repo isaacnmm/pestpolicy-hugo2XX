@@ -23,7 +23,7 @@ This review will discuss why Combat Max 12 roach killer is an effective roach ki
 
 Related: Best Roach Killers
 
-# # Combat Max 12 Month Roach Killing Bait Review
+##  Combat Max 12 Month Roach Killing Bait Review
 
 While roach showers and sprays are only good for getting rid of the roaches you see, they are not very effective at dealing with infestations. This is because roaches propagate at an alarmingly high rate, and it doesnt take long for them to repopulate after a roach spray attack.
 
@@ -37,21 +37,21 @@ Any roach killer that shows results in hours is promising. However, what makes t
 
 Related: [Top Cockroach Baits](https: //pestpolicy. com/best-roach-bait/).
 
-# # 5 Reasons Why This Could Be the Roach Killer You Need
+##  5 Reasons Why This Could Be the Roach Killer You Need
 
-## # 1. Starts Killing Roaches in Hours
+###  1. Starts Killing Roaches in Hours
 
 When it comes to ridding your home of roach infestations, speed is an essential factor. The faster you can kill them off, the more effectively you will control the infestation. Combat Max contains a lethal mix of the insecticide fipronil and tasty food scraps to bait the cockroaches. Once set up, the baits start killing immediately, and within a few hours, you may start seeing dead roaches all over the place.
 
 Combat Max is, therefore, a good solution for large infestations as its killing potential is enough to disrupt the roaches re-population cycle.
 
-## # 2. Designed to Kill German Roaches
+###  2. Designed to Kill German Roaches
 
 Combat Max is designed to eliminate [German roaches](https: //pestpolicy. com/how-to-find-a-roach-nest/), which can be bigger, smarter, and very stubborn pests. Go for it if youve confirmed that the roach infestation you want to get rid of is a camp of these stubborn nuisances. That being said, the 12-month roach killer is just as effective when targeting smaller roaches, which can be harder to kill with sprays and showers as theyre very agile.
 
 The baits work like charms when it comes to bringing roaches out of the woodwork and killing them (or at least assaulting their sensory organs) when they come into contact with them. Related: Bed Bug Pictures
 
-## # 3. Easy to Set Up and Use
+###  3. Easy to Set Up and Use
 
 When shopping for the perfect roach killing bait, its easy to overlook the simple stuff, such as how easy it is to use or set up. Considering that youre handling very poisonous bait, it is important to think about this for a moment. The Combat Max roach killer is very easy to set up thanks to its no-mess baits.
 
@@ -59,7 +59,7 @@ Youre not dealing with powders or formulations here, just a good old solid roach
 
 With plug-and-play functionality like this, you dont have to worry about anything other than setting up the baits in the right location. It doesnt get more convenient than this.
 
-## # 4. Comes with 18 Baits
+###  4. Comes with 18 Baits
 
 One thing to love about the Combat Max roach killer is the amount of coverage you can get with such a small package. Offering up to 18 baits per pack, this is the roach killer you need when relentless roaches run over your home.
 
@@ -67,7 +67,7 @@ The bait stations are perfect for placing in the places roaches frequent the mos
 
 Though it depends on your roach infestation's severity, 18 baits are more than enough to get the situation under control.
 
-## # 5. All Baits are Childproof
+###  5. All Baits are Childproof
 
 If youve got toddlers and young children in the house, you need to think about their safety when setting up the bait stations. With Combat Max, you can rest easy knowing that all 18 bait stations are encased in childproof containers and are therefore safe to use around the house. For maximum effectiveness, always ensure that the bait stations are touching the walls and spread out at least 1 foot away from each other.
 
@@ -75,7 +75,7 @@ They are especially useful when setting up in corners.
 
 **Pros** - Offers excellent coverage with 18 bait stations - Utilizes a powerful insecticide that kills in hours and lasts for 12 months - Designed to handle German cockroaches - Bait stations are easy to set up. **Cons** - While sufficient enough to reduce infestations, Combat Max fails at curbing proliferation permanently.
 
-# # Conclusion
+##  Conclusion
 
 Combat Max 12 Month Roach Killer should be enough for most roach infestations. The baits are encased in childproof containers, and thats a massive advantage if you have a family with small children. Furthermore, it draws out roaches quickly and kills them just as fast. Setting up out of the box is relatively easy too.
 

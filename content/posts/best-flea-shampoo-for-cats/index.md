@@ -21,7 +21,7 @@ Dont be fooled into thinking these blood-suckers dont attack duringwinter; they 
 
 Nocat is immune. amazon bestseller="[Best Flea Shampoo for Cats" items="2" template="table"]
 
-# # [1. Our #1 Pick: Adams Plus Flea and Tick Shampoo with Precor](https://www.amazon.com/dp/B004KDRGD2/?tag=p-policy-20)
+##  [1. Our #1 Pick: Adams Plus Flea and Tick Shampoo with Precor](https://www.amazon.com/dp/B004KDRGD2/?tag=p-policy-20)
 
 This reasonably priced formula is trusted and heavily relied on in the industry with Pet owners worldwide. It offers twenty-eight days of protection for your precious feline friend and can kill the Fleas in all stages of life - larvae, eggs, and adult fleas. This means youll prevent the eggs fromre-hatching. It can also kill off the egg to stop them from hatching in warm places such as mattresses, carpets, and furniture.
 
@@ -33,7 +33,7 @@ AdamsPlus Flea and Tick Shampoo with Precor are effective from the first wash; t
 
 The contents are a bright green to see where you are applying the shampoo and any areas you have missed when washing Off. It can also be used for dogs.
 
-# # [2. #2 Pick: VetsBest Flea & Tick Premium Shampoo for Cats](https://www.amazon.com/dp/B07PHMB7T2/?tag=p-policy-20)
+##  [2. #2 Pick: VetsBest Flea & Tick Premium Shampoo for Cats](https://www.amazon.com/dp/B07PHMB7T2/?tag=p-policy-20)
 
 Does your pet suddenly disappear as soon as you pull out any flea treatment? Not anymore because this clever company has come up with an ingenious idea so your pet wont find flea treatment so unbearable. If you struggle to bathe your cat or your cat wont stay still when you spray it, this is the perfect solution for you. This innovative product is so easy to apply with a foam texture you can rub straight onto your pet's infective flea area.
 
@@ -41,9 +41,9 @@ With Vets best flea & Tick premium shampoo, you can leave the solution on, so no
 
 The shampoo is made with natural oils that will calm your pet and give a fresh scent without any added ingredients. Your pet comes first with this ingeniously blended formula and will stop fleas from taking over and spreading to all your other pets.
 
-# # [3. #3 Pick:Veterinary-Formula Tick & Flea Clinical-Care Shampoo](https://www.amazon.com/dp/B075S9NZJL/?tag=p-policy-20)
+##  [3. #3 Pick:Veterinary-Formula Tick & Flea Clinical-Care Shampoo](https://www.amazon.com/dp/B075S9NZJL/?tag=p-policy-20)
 
-# # [4. Zodiac Flea and Tick Shampoo for Dogs and Cats](https://www.amazon.com/dp/B0002ARGLE/?tag=p-policy-20)
+##  [4. Zodiac Flea and Tick Shampoo for Dogs and Cats](https://www.amazon.com/dp/B0002ARGLE/?tag=p-policy-20)
 
 Stop the fleas infesting all your pets with Zodiacs Flea and Tick Shampoo that can be used for all your pets. Unfortunately, fleas spread fast, but luckily with this solution, theres a way you can treat your uncomfortable pet before the infestation. - Fleas can hatch from forty to fifty eggs in one day and live inour beddings, carpets, and pets.
 
@@ -55,7 +55,7 @@ The coconut conditioner will keep your pet smeller fresh and leave their coat sh
 
 Although this formula is soft on the skin, the formula is designed to kill off fleas, lice, and ticks. There is enough shampoo in this generously sized bottle to use for multiple applications on more than one of your pets.
 
-# # [5. Sentry PurrScriptions Flea and Tick Shampoo for Cats](https://www.amazon.com/dp/B003DV73A8/?tag=p-policy-20)
+##  [5. Sentry PurrScriptions Flea and Tick Shampoo for Cats](https://www.amazon.com/dp/B003DV73A8/?tag=p-policy-20)
 
 Are you struggling to find an effective and easy flea treatment for your puppies? - Have you tried flea treatments before, and none of them was effective or not quite right for your pet? - Sentry Purrscriptionsflea and tick shampoowill lather up Quickly so your pet wont become impatient. If you have more than one cat in your household, the fleas will likely spread quickly, so you must treat all your cats before the fleas take over your household.
 
@@ -71,7 +71,7 @@ For kittens from twelve weeks to adults, this shampoo can be used on cats of all
 
 The spray will keep your pet happy and any nasty pests away!
 
-# # [6. Freshn Clean Flea and Tick Pet Conditioning Shampoo](https://www.amazon.com/dp/B005DGIJPY/?tag=p-policy-20)
+##  [6. Freshn Clean Flea and Tick Pet Conditioning Shampoo](https://www.amazon.com/dp/B005DGIJPY/?tag=p-policy-20)
 
 Often people think that fleas dont strike in Winter, but they can attack all year round and hatch at any time. - Get prepared with a[flea treatment](https: //pestpolicy. com/best-flea-treatment-for-cats/)that will keep fleas under control. - This product is great value for money and can be used on all your animals.
 
@@ -81,7 +81,7 @@ The Fresh n Clean flea and tick conditioning shampoo are formulated to kill flea
 
 The shampoo rinses out easily and cleansthoroughly so you can quickly treat your pet. Youcan use the shampoo as and when required and ensure that the fleas stay away from all your pets and humans. The product is suitable for cats and dogs over twelve weeksold and great for elderly pets too. It is enriched with coconut for some extraconditioning.
 
-# # Guide in Flea Shampoo for Cats
+##  Guide in Flea Shampoo for Cats
 
 It can be an overwhelming choice for a pet owner to choose the perfect treatment for your pet when they contact fleas. With a multitude ofoptions and solutions to choose from, we can help guide you through the processso you can identify the right choice for you and your pet.
 
@@ -119,7 +119,7 @@ The solutions not only stop fleas in their cycle, but they will also care for yo
 
 Mostof the shampoos are reasonably priced and also come in varying sizes andsmells. They are widely available and have been tried and tested by so manyanimal lovers.
 
-# # Conclusion
+##  Conclusion
 
 If you have young children who may contact your pet, this may not be the best option for you as the solution is toxic, and they may touch their mouth or eyes. - Some pets have also been reactive to this type of treatment, especially if they suffer from hair loss or skin irritation. - Thesolution isnt as chemically friendly as other alternatives nor as effective.
 

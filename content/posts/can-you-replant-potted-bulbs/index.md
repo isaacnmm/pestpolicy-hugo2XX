@@ -43,7 +43,7 @@ The good news is, for many spring-flowering bulbs, the answer is a resounding ye
 
 This guide will help you identify which bulbs are worth saving, how to care for them after flowering, and the steps to successfully replant them for future enjoyment.
 
-# # How Do I Make My Potted Bulbs Last?
+##  How Do I Make My Potted Bulbs Last?
 
 Extending the life of your potted bulbs and preparing them for replanting involves a critical period of post-bloom care.
 
@@ -61,7 +61,7 @@ The green leaves are actively photosynthesizing and sending energy down to the b
 
 * For bulbs like tulips that may prefer a chilling period if your climate doesn't provide one, you could consider refrigerating them for 6-8 weeks (in a paper bag, away from ripening fruit) before planting if you want to try to force them again or give them a better chance to bloom in a mild climate.
 
-# # Final Thoughts
+##  Final Thoughts
 
 Giving your spent potted spring bulbs a second life is a rewarding act of sustainable gardening. While forced bulbs have undergone an intensive process to bloom out of season, many hardy varieties like daffodils, hyacinths, and crocuses possess the resilience to recover and provide enjoyment in subsequent years.
 

@@ -21,9 +21,9 @@ com/best-flea-carpet-powder/)-diseases-you-need-know) such as Tularemia, Tungian
 
 *In summary, you can keep your cats, dogs (including dips, flea combs* *), and home being flea-free using simple home remedies that are effective and safe equally - control on the carpet and furniture - including killing flea eggs. *
 
-# # Details: 7 Home Remedies for Fleas - Natural Treatment
+##  Details: 7 Home Remedies for Fleas - Natural Treatment
 
-## # 1. Dawn Dish soap
+###  1. Dawn Dish soap
 
 To get rid of fleas, I first recommend you use dawn dish soap to wet plus lathe your skin or pet's hair. , Dish soap will reduce the surface tension of water and make the fleas drown. Further, dish soap tends to break the waxy layer in the respiratory system of fleas. Breaking the waxy layer in their trachea will allow water to go into the bug's respiratory systems.
 
@@ -33,7 +33,7 @@ The bugs will suffocate once the air is replaced by water - further, the dawn so
 
 - However, fleas treat with dish soap only at night since fleas are nocturnal bugs. However, the dish soap flea treatment with candlelight may pose a fire hazard.
 
-## # 2. Diatomaceous earth for fleas
+###  2. Diatomaceous earth for fleas
 
 Diatomaceous earth will kill fleas at home - this will exterminate the fleas will the fossilized-algae diatoms. Luckily, the home remedy is non-toxic for pets and humans. Besides, Diatomaceous earth will help exterminate [fleas](https: //entomology. ca. uky. edu/ef602) on pets, including killing fleas on cats and fleas on dogs - the sharp diatoms break the bug's exoskeleton and cause dehydration.
 
@@ -41,7 +41,7 @@ Diatomaceous earth will kill fleas at home - this will exterminate the fleas wil
 
 Don't miss your face with the DE powder since it may irritate your throat and eyes - so ensure that you put on some personal protection equipment like face masks.
 
-## # 3. Baking soda
+###  3. Baking soda
 
 Baking soda will kill fleas just like diatomaceous earth, and it's equally safe to exterminate the bugs - but vacuuming is still the most recommended. Vacuuming will remove the fleas from your furniture or carpet fibers. Using baking soda with your vacuuming machine on fleas will help improve its effectiveness. - So sprinkle the baking soda on the furniture and carpets.
 
@@ -51,7 +51,7 @@ However, rub and brush the surfaces and fabric and empty the vacuum bag into a t
 
 Baking soda plus sprinkle salt on the affected places, furniture, and carpets and letting it sit overnight will dehydrate the flea eggs and larvae. However, you'll need to repeat the flea treatment - clean the bag and canister. Repeating the treatment allows you to remove all the left-over eggs to hatch and trigger a re-infestation.
 
-## # 4. Lemon spray
+###  4. Lemon spray
 
 The lemon spray will both exterminate and repel fleas as it contains D-limonene as an active ingredient. But lemon may be used to treat the wasp stings - check best wasp spray. You'll require a spray bottle, funnel, large bowl, strainer, large pot, fork, and knife. Ingredients; 356 ml or 1. 5 liters of vinegar, 711 ml or 0. 7 liters of water, and three lemon fruits.
 
@@ -65,7 +65,7 @@ It'll kill with the juice in the rinds or use a fork to cut down the rinds. - If
 
 25 cups of the lemon treatment that'll mix with the cat flea shampoo or the flea shampoo for dogs and use it for bathing the pets - but avoid the eyes.
 
-## # 5. Apple Cider Vinegar
+###  5. Apple Cider Vinegar
 
 For fleas, Apple cider vinegar is an effective home remedy against the bugs besides using collars and yard flea sprays besides other natural flea remedies. Luckily, you'll discover that vinegar has no fragrance, and it's equally friendly to the surroundings - it's chemical-free and natural, which means that it'll be safe for kids, adult humans, and pets. - For a dog, use a single apple cider vinegar teaspoon for 40 pounds of the dog.
 
@@ -81,7 +81,7 @@ Avoid spraying the pet's into their eyes - this may lead to pain, irritation, or
 
 - However, remember to clean your spraying bottle, mainly if it had previously been used to spray a different chemical to avoid adverse reactions. Finally, within half an hour, comb the cat's hair to remove any of the dead or live fleas plus their eggs and larvae that're stuck or trapped by the sprayed vinegar.
 
-## # 6. Salt for fleas
+###  6. Salt for fleas
 
 Salt for fleas (salt will kill fleas), just baking soda, will effectively kill fleas - particularly if you combine it with vacuuming. The salt will dehydrate the adult fleas and thus kill them. - So, sprinkle some finely-ground table salt on surfaces like furniture and carpets. All the sprinkled salt to sit on the surfaces for about 1 to 3 days.
 
@@ -91,6 +91,6 @@ Constant flea vacuuming plus salt treatment against fleas will help keep the fle
 
 - Further, salt must allow sitting on the sprinkled areas overnice or for long hours so that the fleas will be dehydrated. But note that fleas won't kill flea pupae in the cocoons.
 
-# # Conclusion
+##  Conclusion
 
 Natural remedies for fleas will work just as well as chemical flea treatment, including sprays, shampoos, and flea collars. Also, flea repelling plants like Spearmint, Lavender, Chrysanthemums, and Penny Royal is equally effective. ****

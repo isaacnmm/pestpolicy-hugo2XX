@@ -19,7 +19,7 @@ What do flea [larvae](https: //pestpolicy. com/what-do-flea-larvae-eat/) look li
 
 [Fleas](https: //pestpolicy. com/where-do-flea-larvae-live/) go through four different stages during their life cycle, the second of these stages being the [larvae stage](https: //www. petmd. com/dog/parasites/6-facts-about-flea-larvae-you-need-know).
 
-# # Details: What Do Flea Larvae Look Like?
+##  Details: What Do Flea Larvae Look Like?
 
 It is often much more comfortable recognizing an adult flea or even a flea egg, but identifying flea larvae might be a little more complicated. Before we begin to learn how to spot flea larvae, let's take a brief look at their life cycle. Read also; does heat kill fleas. *The Life Cycle of a Flea* - The first stage is the egg; these are small whitish objects around the size of a grain of salt and are notoriously difficult to notice.
 
@@ -29,13 +29,13 @@ The Flea Larvae If you think you might have spotted flea larvae around your home
 
 - The creature will have a whitish color to it. - It will be covered in tiny hairs, which are very light in color. The flea larvae are known to feed on the flea dust, which is essentially the waste product left behind from the adult fleas, and so you might notice these creatures around areas where flea dust is present.
 
-# # Where Do Flea Larvae Hide Out?
+##  Where Do Flea Larvae Hide Out?
 
 The most popular place for the flea larvae is near the host animal, so you will often find them either on the animal itself or in areas where the animal is regularly present, such as its bed. To the naked eye, you might notice tiny little C-shaped objects-these are the flea larvae. If you can spot them at this stage of their development, you are much more likely to tackle the flea problem as a whole.
 
 If you kill them at this stage, this will stop them from hiding in nooks and crannies during the pupa stage, which is known to be much more challenging to tackle. Related: Diatomaceous Earth for Fleas on Dogs
 
-# # How Do I Get Rid Of Flea Larvae?
+##  How Do I Get Rid Of Flea Larvae?
 
 If you have spotted an infestation of flea larvae either on your pet or within the home, you will want to get rid of the pests as soon as possible. Various ways are very effective at tackling flea larvae head-on. Let's take a look at these now - including how to control fleas in your yard. - It is essential to treat your pet as soon as you notice any signs of fleas.
 
@@ -49,6 +49,6 @@ This can be done quickly over-the-counterflea treatmentsbrought from most stores
 
 Related: How to Tell If You Have Fleas
 
-# # Conclusion
+##  Conclusion
 
 What do flea larvae look like? Many people tend to look out for adult fleas or the easily recognizable flea eggs when they are concerned that they may have an infestation of these irritating parasites. However, one of the most common things that you may see are the flea larvae, and being able to recognize these will significantly assist you in your battle against the bugs.

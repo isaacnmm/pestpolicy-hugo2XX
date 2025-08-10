@@ -19,9 +19,9 @@ Pet lizards that look like **dragons** **? ** **May** be you have ever heard of 
 
 Perhaps you may even desire to see a dragon live. Can you imagine having your own pet dragon at home? So, *what pet lizards that look like Dragon? * **In summary, ** *pet lizards that look like dragons include Chinese Water Dragons, Bearded Dragons, Red-Eyed Crocodile Skinks, Plumed Basilisks, Crested Geckos, Draco Lizards, Green Iguanas, Armadillo Lizards, Horned Lizards, Sailfin Dragons and Frilled Dragons among others. *
 
-# # 5 Pet Lizards That Look Like Dragons.
+##  5 Pet Lizards That Look Like Dragons.
 
-## # 1. Bearded Dragons.
+###  1. Bearded Dragons.
 
 The [bearded Dragon](https: //www. nationalgeographic. com/animals/reptiles/group/bearded-dragon/), scientifically called *Pogona vitticeps, * is an intermediate [lizard](https: //pestpolicy. com/are-lizards-poisonous/) that looks fiercer and resembles tiny dragon. It has mild personalities and doesnt post much threat to humanity they are friendly in nature and enjoy much interaction with people as well as love close attention.
 
@@ -35,7 +35,7 @@ The lizards does not feed too much (low maintenance) and is calm and responsive 
 
 A threated Bearded dragon has an expanded throat with standing spikes which flattens when the lizards calms and gets contented. It is easier to train Bearded Dragon for some activities such as feeding and recognition. Bearded dragons are the most common pet lizards.
 
-## # 2. Chinese Water Dragons.
+###  2. Chinese Water Dragons.
 
 The [Chinese Water Dragon (*Physignathus cocincinus*)](http: //digimorph. org/specimens/Physignathus_cocincinus/) is a small lizard that looks like tiny Iguana and resembles a small dragon. When fully mature, the Chinese Water Dragon can reach 60 cm to 90 cm or 2 to 3 feet. They live 10 to 15 years though some can even reach 20 years of age under special care.
 
@@ -47,7 +47,7 @@ Ensure the enclosure is 80% humid for better survival of your pet Chinese Water 
 
 Chinese Water Dragon love running along the wall and rubbing against it. A larger area cage would do better and bottom lining of the cage is necessary to prevent themselves from skin damage due to scratch.
 
-## # 3. Red-Eyed Crocodile Skink.
+###  3. Red-Eyed Crocodile Skink.
 
 Red-Eyed Crocodile Skinks ( *Tribolonotus gracilis* ) are medium sized lizards that look like master dragon. They are best for the intermediate pet owners since they have a higher intelligent level.
 
@@ -61,7 +61,7 @@ Red-Eyed Crocodile Skinks are not picky when feeding. They love being handled of
 
 Red-Eyed Crocodile Skinks love playing in hideouts. You should therefore provide hiding options and large enclosure for running when playing.
 
-## # 4. Plumed/Green Basilisks.
+###  4. Plumed/Green Basilisks.
 
 [Plumed Basilisks (*Basiliscus plumifrons*)](https: //jeb. biologists. org/content/206/23/4363), commonly known as Green Basilisks or Jesus Christ lizards are beautiful green-scaled lizards that resemble dragons. They have crown-like head adornment, which gives them power and mighty appearance.
 
@@ -79,7 +79,7 @@ Then threatened, Plumed Basilisk usually run across the water body instead of sw
 
 Plumed Basilisks dont like being handle much and are therefore not recommended for beginner pet owners. They are considered advance lizard of a higher intelligence.
 
-## # 5. Crested Geckos.
+###  5. Crested Geckos.
 
 The Crested Geckos ( *Correlophus (Rhacodactylus) ciliatus* ) are smaller lizards that are characterized by spiny Scales and large eyes that make it look like a small dragon. Though their number is not large, they are very popular due to their cool behavior. - Crested Gecko measures 7 to 9 inches when fully grown and can live for 10 to 20 years. These lizards have maintenance cost and thus easier to take care of.
 
@@ -93,7 +93,7 @@ When stressed or scared, Crested Gecko will drop its tail (defense/protection me
 
 Crested Geckos are native to New Caledonia. They inhabit Rain forests canopies are often seen at night jumping from branches.
 
-# # Conclusion
+##  Conclusion
 
 Dragons are mythical serpent like creatures that depict epitome of power according to various communities in the world.
 

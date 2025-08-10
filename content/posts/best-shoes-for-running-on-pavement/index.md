@@ -18,9 +18,9 @@ Running on pavement demands shoes that can handle the hard surface and repeated 
 
 Here's a list of the Best Shoes for Running on Pavement to help you find your ideal pair. Also read: Running Shoes for Ice and Snow-for-ice-and-snow/)
 
-# # Review: Top 7 Best Shoes For Running On Pavement
+##  Review: Top 7 Best Shoes For Running On Pavement
 
-## # [1. ASICS GEL-KAYANO 26 (4E) - Pavement Running Shoes](https://www.amazon.com/dp/B07KJPJRVR/?tag=p-policy-20)
+###  [1. ASICS GEL-KAYANO 26 (4E) - Pavement Running Shoes](https://www.amazon.com/dp/B07KJPJRVR/?tag=p-policy-20)
 
 ASICS GEL-KAYANO 26 is one of the best shoes for running on pavement. Its durable, stable, supportive, and well-cushioned.
 
@@ -40,7 +40,7 @@ On top of that, the external heel counter keeps the rear foot secured properly. 
 
 Cons: - Expensive, but worth it - Some customers complained that the shoe color scheme is not attractive
 
-## # [2. Brooks Womens Adrenaline GTS 20 Running Shoe](https://www.amazon.com/dp/B07LCVMSW7/?tag=p-policy-20)
+###  [2. Brooks Womens Adrenaline GTS 20 Running Shoe](https://www.amazon.com/dp/B07LCVMSW7/?tag=p-policy-20)
 
 If youre one of those runners that require extra support, cushioning, and stability while running on pavement, then you need to pick Brooks Adrenaline GTS 20.
 
@@ -54,7 +54,7 @@ The midsection also features DNA Loft foam and BioMoGo DNA foam that deliver sup
 
 Cons: - Limited color variations
 
-## # [3. Skechers Go Run Razor 3](https://www.amazon.com/dp/B084YSC92F/?tag=p-policy-20)
+###  [3. Skechers Go Run Razor 3](https://www.amazon.com/dp/B084YSC92F/?tag=p-policy-20)
 
 Skechers Go Run Razor 3 is a comfortable and highly responsive shoe thats ideal for road and pavement running.
 
@@ -68,7 +68,7 @@ The midsole also features Hyper Burst form. This form is lightweight and durable
 
 Cons: - You might need to break in on them
 
-## # [4. ASICS GEL-Nimbus 22 (D)](https://www.amazon.com/dp/B082NTWCHT/?tag=p-policy-20)
+###  [4. ASICS GEL-Nimbus 22 (D)](https://www.amazon.com/dp/B082NTWCHT/?tag=p-policy-20)
 
 ASICS GEL-Nimbus 22 is a comfortable neutral running shoe thats loved for its soft and responsive ride. The shoes feature various technologies, thus considered one of the best shoes for running on pavement.
 
@@ -84,7 +84,7 @@ The FlyteFoam material in the midsole also offers extra support and cushioning, 
 
 Cons: - Expensive
 
-## # [5. Nike Men's Air Zoom Pegasus 36 Pavement Running Shoes](https://www.amazon.com/dp/B07H8J1QV9/?tag=p-policy-20)
+###  [5. Nike Men's Air Zoom Pegasus 36 Pavement Running Shoes](https://www.amazon.com/dp/B07H8J1QV9/?tag=p-policy-20)
 
 The Nike Men's Air Zoom Pegasus 36 is a comfortable shoe with a simple and sleek design that adapts to the foots natural movement.
 
@@ -100,7 +100,7 @@ The shoe flexes well around the forefoot and goes back into its original shape i
 
 Cons: - A customer complained that the shoe is not durable
 
-## # [6. New Balance Women's 990 V5 Sneaker](https://www.amazon.com/dp/B07CHB7ZH5/?tag=p-policy-20)
+###  [6. New Balance Women's 990 V5 Sneaker](https://www.amazon.com/dp/B07CHB7ZH5/?tag=p-policy-20)
 
 The New Balance Women's 990 V5 offers superior comfort, stability, and flexibility. Most runners training for marathon confirm that the 990 V5 is one of the best shoes for running on pavement and road.
 
@@ -116,7 +116,7 @@ The upper of 990 v5 features pigskin suede and mesh material. The pigskin provid
 
 Cons: - A customer complained that the shoe is a bit heavier
 
-## # [7. Skechers Men's Afterburn Lace-up Sneaker](https://www.amazon.com/dp/B00D881Q9A/?tag=p-policy-20)
+###  [7. Skechers Men's Afterburn Lace-up Sneaker](https://www.amazon.com/dp/B00D881Q9A/?tag=p-policy-20)
 
 Skechers have built their brand around quality, comfort, style, and innovation and this Skechers Men's Afterburn sneaker is no exception. The shoe is ideal for pavement running thanks to its amazing features and technologies.
 
@@ -130,6 +130,6 @@ The heel counter prevents accidental shoe removal and facilitates easier wearing
 
 Cons: - You might need to replace the memory foam frequently
 
-# # Conclusion
+##  Conclusion
 
 When buying best shoes for running on the pavement it's crucial you consider your comfort, level of cushioning that suits you, and a perfect fit. All the reviewed shoes above have all these features and picking either of them will ensure youve got a good time running on pavement.

@@ -39,17 +39,17 @@ Framing an existing mirror can transform a bland, utilitarian surface into a sop
 
 This guide will walk you through the process, from selecting the right materials to the final installation, helping you achieve a polished and updated bathroom aesthetic.
 
-# # Planning Your Mirror Frame Project
+##  Planning Your Mirror Frame Project
 
 Careful planning is key to a successful outcome.
 
-## # 1. Assess Your Mirror Type
+###  1. Assess Your Mirror Type
 
 * **Surface-Mounted (on drywall): ** This is the easiest type to frame. The mirror is typically glued or clipped directly to the wall. You'll build the frame around its edges. * **Recessed (into the wall): ** More challenging. The mirror sits flush or slightly recessed into an opening in the wall. Framing this might require careful planning to ensure the frame sits properly on the wall, not over the mirror's surface.
 
 * **Mirror Glued to Backsplash/Tile: ** If your mirror runs directly into a backsplash or tile, ensure there's enough clearance (usually 1/8 to 1/4 inch) to fit the frame around the mirror's edge without interfering with the tile.
 
-## # 2. Choose Your Wood and Style
+###  2. Choose Your Wood and Style
 
 The type of wood and molding profile you select will significantly impact the final look.
 
@@ -59,7 +59,7 @@ The type of wood and molding profile you select will significantly impact the fi
 
 Consider the existing finishes in your bathroom. Will you paint the frame to match trim, stain it to match a vanity, or opt for a contrasting color?
 
-## # 3. Measure Accurately
+###  3. Measure Accurately
 
 This is the most critical step. Even a small error can lead to unsightly gaps or a frame that doesn't fit.
 
@@ -67,17 +67,17 @@ This is the most critical step. Even a small error can lead to unsightly gaps or
 
 You'll need at least the thickness of your molding plus a slight gap (e. g. , 1/16 to 1/8 inch) from any adjacent surface. * **Account for Overlap: ** You'll want the frame to slightly overlap the mirror edge (e. g. , 1/8 inch) to cover any clips or unfinished edges. This means your inside frame dimensions will be slightly smaller than the mirror's visible surface.
 
-# # How To Add a Wood Frame to a Bathroom Mirror - Step-by-Step
+##  How To Add a Wood Frame to a Bathroom Mirror - Step-by-Step
 
 This method assumes you are framing a surface-mounted mirror without removing it.
 
-## # 1. Pre-Finish Your Wood
+###  1. Pre-Finish Your Wood
 
 * **Cut all pieces to rough length** first, leaving them a few inches longer than needed. * **Sand: ** Lightly sand all surfaces with 120-grit, then 220-grit sandpaper for a smooth finish. * **Prime/Paint/Stain: ** Apply your chosen primer, paint, or stain and sealer *before* assembly. It's much easier to finish the wood flat than after it's installed around the mirror. Apply multiple thin coats as needed, sanding lightly between coats for paint.
 
 Ensure the finish is suitable for a high-moisture bathroom environment. Let dry completely.
 
-## # 2. Make Your Cuts (Precise Miter Joints)
+###  2. Make Your Cuts (Precise Miter Joints)
 
 This is the most challenging step and requires patience and precision. You'll be making 45-degree miter cuts for perfect corners.
 
@@ -89,7 +89,7 @@ Then, measure from the *long point* of that cut to the desired *long point* of t
 
 Small gaps mean your angles aren't precisely 45 degrees, or your measurements were slightly off. Make micro-adjustments if necessary.
 
-## # 3. Assemble the Frame (Optional - On a Flat Surface)
+###  3. Assemble the Frame (Optional - On a Flat Surface)
 
 For a cleaner finish, you can assemble the frame into a full rectangle on a flat surface *before* attaching it to the mirror. This is recommended if you have suitable clamps.
 
@@ -97,7 +97,7 @@ For a cleaner finish, you can assemble the frame into a full rectangle on a flat
 
 * **Reinforce with Nails: ** Once the glue has set (but before it's fully cured), use a brad nailer (or hammer and finishing nails) to shoot 1-2 nails through each joint for added strength. Angle the nails for maximum hold. * **Let Cure: ** Allow the glue to fully cure according to the manufacturer's instructions. * **Fill Nail Holes & Touch Up: ** Fill any nail holes with wood putty, sand smooth when dry, and touch up the finish.
 
-## # 4. Attach the Frame to the Mirror
+###  4. Attach the Frame to the Mirror
 
 This is where the frame comes together *on* the mirror. If you assembled the frame in Step 3, you'll simply attach the finished rectangle. If not, you'll attach each piece individually.
 

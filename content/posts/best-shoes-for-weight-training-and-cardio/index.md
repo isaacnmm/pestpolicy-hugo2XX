@@ -18,9 +18,9 @@ If you want to build muscles and shed excess fat, you may need to invest in the 
 
 Check out my detailed compilation of the top Shoes for Weight Training and Cardio
 
-# # Review: 7 Best Shoes for Weight Training and Cardio
+##  Review: 7 Best Shoes for Weight Training and Cardio
 
-## # [1. Reebok Men's Nano X Cross Trainer Running Shoes](https://www.amazon.com/dp/B07TB5KSR7/?tag=p-policy-20)
+###  [1. Reebok Men's Nano X Cross Trainer Running Shoes](https://www.amazon.com/dp/B07TB5KSR7/?tag=p-policy-20)
 
 The Reebok Nano X is a highly versatile shoe that accommodates almost all types of fitness activity. The shoe is an excellent choice for weight training, cardio/aerobics, HIIT enthusiasts, and serious CrossFit athlete, among many other activities.
 
@@ -36,7 +36,7 @@ The upper of Reebok Nano X features soft woven material thats soft and a bit str
 
 Cons: - Not ideal for long-distance running
 
-## # [2. Under Armour Men's Speedform Cross Trainer](https://www.amazon.com/dp/B07HKLZJ9H/?tag=p-policy-20)
+###  [2. Under Armour Men's Speedform Cross Trainer](https://www.amazon.com/dp/B07HKLZJ9H/?tag=p-policy-20)
 
 Under Armour Speedform is ideal for intense workouts like weight training and cardio. It features a tough ripstop fabric that makes it withstand the excess biting. The material provides protection against abrasion ensuring the durability of the shoe.
 
@@ -54,7 +54,7 @@ The midsole features a superior Micro G foam that provides excellent cushioning.
 
 Cons: - Not ideal for long runs
 
-## # [3. NOBULL Men's Training Shoes](https://www.amazon.com/dp/B07C3LMDN7/?tag=p-policy-20)
+###  [3. NOBULL Men's Training Shoes](https://www.amazon.com/dp/B07C3LMDN7/?tag=p-policy-20)
 
 The Nobull Trainer is a CrossFit training shoe thats highly durable and breathable. The flexibility of the sole unit and the flatness of the heel section makes this one of the best shoes for weight training and cardio.
 
@@ -72,7 +72,7 @@ Pros: - Highly versatile - Comfortable - Flexible sole unit - Lightweight and br
 
 Cons: - Some customers complained that the footbed was a bit stiff and caused foot discomfort especially when the shoe is worn for long periods
 
-## # [4. Inov-8 Mens F-Lite 245 - Cross Training Shoes Men](https://www.amazon.com/dp/B07RMYCRHJ/?tag=p-policy-20)
+###  [4. Inov-8 Mens F-Lite 245 - Cross Training Shoes Men](https://www.amazon.com/dp/B07RMYCRHJ/?tag=p-policy-20)
 
 Inov-8 F-Lite 245 is a versatile cross-training shoe that can handle both weight training and cardio with much ease. It provides excellent foot balance and stability for heavy lifting. It also provides reliable traction for intense cardio workouts.
 
@@ -88,7 +88,7 @@ The shoe also features a traditional lacing design that allows you to adjust the
 
 Cons: - None
 
-## # [5. Altra Women's Solstice Sneaker](https://www.amazon.com/dp/B07G634LSP/?tag=p-policy-20)
+###  [5. Altra Women's Solstice Sneaker](https://www.amazon.com/dp/B07G634LSP/?tag=p-policy-20)
 
 Altra Solstice is a highly versatile cross-trainer that accommodates weight training, cardio, and other gym workouts. It boasts of comfort, high performance, and stylish design.
 
@@ -106,7 +106,7 @@ The upper utilizes a breathable-engineered mesh that wraps the foot securely. Th
 
 Cons: - Some customers complained that the sock liner didnt provide enough underfoot cushioning
 
-## # [6. Nike Men's Fitness Shoes](https://www.amazon.com/dp/B07HDS247F/?tag=p-policy-20)
+###  [6. Nike Men's Fitness Shoes](https://www.amazon.com/dp/B07HDS247F/?tag=p-policy-20)
 
 Nike Metcon 2 is a versatile shoe that allows you to engage in multiple activities without the need of changing the shoe in between the training session. Hence, you can use the Metcon 2 for both cardio and weight training.
 
@@ -122,7 +122,7 @@ The midsection of Metcon 2 utilizes an excellent form compound that has enough c
 
 Cons: - Some people are unhappy with the squeaky noise that the shoe produces
 
-## # [7. New Balance Women's 577 V4 Cross Trainer](https://www.amazon.com/dp/B01FSINZ3M/?tag=p-policy-20)
+###  [7. New Balance Women's 577 V4 Cross Trainer](https://www.amazon.com/dp/B01FSINZ3M/?tag=p-policy-20)
 
 New Balance 577 V4 provides a perfect blend of comfort, support, and stability. It has features and technologies that support weight training and cardio.
 
@@ -138,23 +138,23 @@ The lace-up closure design allows you to tighten or loosen the fit for a comfort
 
 Cons: - Some customers reported that the memory form was too thin, hence dint provide enough cushioning
 
-# # Buyers Guide for Best Shoes for Weight Training and Cardio
+##  Buyers Guide for Best Shoes for Weight Training and Cardio
 
 Wearing the correct footwear for your workout sessions will go a long way in ensuring you have excellent results without any kind of injury. Hence, consider the following factors when buying the best Shoes for Weight Training and Cardio.
 
-## # Low Heel Profile
+###  Low Heel Profile
 
 Shoes for Weight Training and Cardio should have a low heel drop. Choose shoes with at least a heel drop. Such kind of a heel drop will give your foot close to ground contact. Hence, allow you to easily control your movements and remain stable during heavy weight lifting.
 
-## # Stable and Firm Midsole
+###  Stable and Firm Midsole
 
 Choose Weight Training and Cardio shoes that have a stable yet firm midsole, which features an outsole with full ground contact. The shoe should have a midsole thats super firm with a low outsole profile. This kind of outsole provides excellent stability and grip. From our review above, Reebok Nano X and Nike Metcon 2 are excellent cross-training shoes that are highly versatile.
 
-## # Forefoot and Outsole Design
+###  Forefoot and Outsole Design
 
 Ensure that you choose a cardio and weight training shoe that provides a reliable grip on various surfaces. This will allow you to perform various exercises confidently. The forefoot should also have grooves that enhance its flexibility allowing the foot to bend naturally during workouts.
 
-# # What to Look For In Best Cardio Shoes
+##  What to Look For In Best Cardio Shoes
 
 Cardio Shoes should be lightweight, comfortable, cushioned, and good shock absorbers. They should ensure that your feet dont get tired during the training session.
 
@@ -162,13 +162,13 @@ Best cardio shoes should provide a superior grip and deliver ample ankle support
 
 Cardio shoes should also have a wide and rounded platform for enhanced stability and balance. They should be lightweight to allow you to perform various cardio moves with ease. The external heel counter should be firm enough to hold the heel securely during intense movements and to avoid accidental shoe removal.
 
-# # What to Look For In Weight Training Shoes
+##  What to Look For In Weight Training Shoes
 
 **Heel Height** When choosing the best shoes for weight lifting the height of the heel is a crucial consideration. The height of your training shoe will make or break your weight training sessions. Heel height varies among weight lifters, but the most ideal is. 75.
 
 The correct heel height provides you the balance and stability you need for weight training. **Feet Size** Youll want to choose a weight lifting shoe that fits your feet perfectly to avoid unnecessary pain and discomfort. Choose one or half size higher your normal shoes to give your toes and foot enough room to move naturally.
 
-# # Conclusion
+##  Conclusion
 
 When picking the best shoes for weight training ensure you consider comfort, performance, stability, and your budget.
 

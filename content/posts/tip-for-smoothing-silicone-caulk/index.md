@@ -54,11 +54,11 @@ Achieving that perfectly smooth, concave caulk line is often the difference betw
 
 This article will reveal the secrets to mastering silicone caulk smoothing, discussing the best techniques, tools, and crucial preparation steps to ensure your next sealing project looks flawless and performs flawlessly.
 
-# # The Ultimate Tip: Lubrication and Consistent Pressure
+##  The Ultimate Tip: Lubrication and Consistent Pressure
 
 The core secret to smoothing silicone caulk lies in using a **lubricant** to prevent the sticky silicone from adhering to your smoothing tool (or finger) and applying **consistent, even pressure**.
 
-## # Recommended Lubricants:
+###  Recommended Lubricants:
 
 * **Rubbing Alcohol (Isopropyl Alcohol): ** This is highly effective. Alcohol causes silicone to "skin over" slightly, making it less sticky and easier to smooth. It also evaporates quickly, leaving no residue. * **Denatured Alcohol: ** Similar to rubbing alcohol, also very effective. * **Mineral Spirits: ** Can be used, but generally stronger and has a stronger odor.
 
@@ -66,7 +66,7 @@ The core secret to smoothing silicone caulk lies in using a **lubricant** to pre
 
 **Important Note: ** *Always test your chosen lubricant on a small, inconspicuous area first* to ensure it doesn't damage or discolor the surrounding surfaces (e. g. , painted walls, porous tile). Alcohol is generally safe for most bathroom surfaces like tile, porcelain, and acrylic.
 
-# # Key Considerations for Silicone Caulk Application
+##  Key Considerations for Silicone Caulk Application
 
 Beyond the smoothing technique, these factors are crucial for a successful silicone caulk job:
 

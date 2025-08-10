@@ -24,7 +24,7 @@ Witnessing your once-thriving St. Augustine lawn turn an unappealing shade of br
 
 This guide will walk you through how to diagnose, treat, and ultimately revive your struggling St. Augustine lawn, offering insights into common stressors and practical steps for restoration.
 
-# # Can I Revive Dead St. Augustine Grass?
+##  Can I Revive Dead St. Augustine Grass?
 
 The short answer is: **sometimes, but not always. **
 
@@ -44,11 +44,11 @@ In such cases, the only option is to remove the dead patches and replant with ne
 
 The earlier you identify and address the issue, the higher the likelihood of a successful revival.
 
-# # Steps for Revival
+##  Steps for Revival
 
 Reviving St. Augustine grass requires a systematic approach, addressing potential problems one by one until the lawn begins to show signs of recovery.
 
-## # Step 1: Diagnose the Problem
+###  Step 1: Diagnose the Problem
 
 Before you do anything else, try to determine *why* your grass is struggling. This often involves a bit of detective work.
 
@@ -60,7 +60,7 @@ Overwatering and underwatering are both common culprits.
 
 * **Check for Compacted Soil: ** Try pushing a screwdriver into the soil. If it's very difficult to push in, your soil is likely compacted. * **Consider Nutrient Deficiencies: ** Prolonged yellowing, despite adequate water, might indicate a lack of nutrients. A soil test can confirm this.
 
-## # Step 2: Adjust Watering Practices
+###  Step 2: Adjust Watering Practices
 
 Proper watering is the single most important factor for St. Augustine's health.
 
@@ -70,7 +70,7 @@ Check for drainage issues (see previous articles on muddy yards and standing wat
 
 Reduce watering frequency, ensuring the soil has a chance to dry out between sessions. Overwatering can lead to root rot and fungal diseases.
 
-## # Step 3: Address Pests and Diseases
+###  Step 3: Address Pests and Diseases
 
 If your diagnosis points to pests or diseases, immediate action is needed.
 
@@ -80,7 +80,7 @@ If your diagnosis points to pests or diseases, immediate action is needed.
 
 Multiple applications may be necessary. * **Cultural Practices: ** Improve air circulation (e. g. , prune surrounding shrubs), reduce thatch, and adjust watering practices (avoiding evening watering) to create less favorable conditions for fungal growth.
 
-## # Step 4: Improve Soil Conditions
+###  Step 4: Improve Soil Conditions
 
 Healthy soil is the foundation of a healthy lawn.
 
@@ -90,13 +90,13 @@ Dethatch St. Augustine when it's actively growing.
 
 * **Soil Amendments: ** Based on a soil test, apply necessary amendments. * **pH Correction: ** St. Augustine prefers a slightly acidic to neutral pH (6. 0-7. 0). Apply lime to raise pH or sulfur to lower it, if needed. * **Nutrient Deficiencies: ** Apply appropriate fertilizers to address nutrient shortfalls.
 
-## # Step 5: Proper Fertilization
+###  Step 5: Proper Fertilization
 
 * **Purpose: ** To provide essential nutrients for recovery and vigorous growth. * **How: ** Once you've addressed underlying issues and the grass shows signs of life, apply a balanced fertilizer or one tailored for St. Augustine grass. Look for formulations with potassium, which helps with stress tolerance. Avoid excessive nitrogen, especially if disease is present, as it can promote fungal growth.
 
 * **Timing: ** Fertilize during St. Augustine's active growing season (late spring through early fall), typically every 6-8 weeks. Follow product instructions.
 
-## # Step 6: Fill in Bare Spots (If Necessary)
+###  Step 6: Fill in Bare Spots (If Necessary)
 
 * **For truly dead patches: ** If sections of your St. Augustine lawn are beyond revival, you'll need to replant. * **Sodding: ** Laying new sod is the fastest way to repair large dead areas. Ensure good soil contact and water diligently. * **Plugging: ** St. Augustine spreads by stolons, so planting plugs (small squares of sod) can fill in bare areas over time. Space them 1-2 feet apart.
 
@@ -104,7 +104,7 @@ Dethatch St. Augustine when it's actively growing.
 
 * **Seeding: ** While St. Augustine seed is available, it's generally slow to establish and less reliable than sod or plugs.
 
-## # Step 7: Ongoing Maintenance
+###  Step 7: Ongoing Maintenance
 
 Once your St. Augustine is on the road to recovery, consistent, proper maintenance is crucial to prevent future issues.
 
@@ -112,7 +112,7 @@ Once your St. Augustine is on the road to recovery, consistent, proper maintenan
 
 Use pre-emergent herbicides in spring and fall (but be careful if you plan to plant new sod/plugs).
 
-# # What Kills St. Augustine Grass?
+##  What Kills St. Augustine Grass?
 
 Understanding the primary threats to St. Augustine grass can help you prevent future decline.
 
@@ -128,7 +128,7 @@ They are a notorious killer of this grass type, especially in hot, dry condition
 
 **Soil Compaction: ** Prevents water and air from reaching roots, leading to weak, struggling grass that is prone to death.
 
-# # Best Professional Lawn Care: TruGreen
+##  Best Professional Lawn Care: TruGreen
 
 When your St. Augustine grass is severely struggling, or if you simply prefer to leave lawn care to the experts, professional lawn care services can be a valuable investment. Companies like TruGreen offer comprehensive programs designed to address common lawn issues, including those specific to warm-season grasses like St. Augustine.
 
@@ -148,7 +148,7 @@ TruGreen typically provides a range of services that can directly benefit a stru
 
 While professional services come at a cost, they can save homeowners significant time, effort, and frustration, especially when dealing with complex or widespread lawn problems. When considering a professional service, inquire about their specific programs for warm-season grasses, their approach to integrated pest management, and read customer reviews to ensure they are a good fit for your needs.
 
-# # Final thoughts
+##  Final thoughts
 
 A brown or thinning St. Augustine lawn is a distress signal that shouldn't be ignored. While it can be alarming, many instances of decline are reversible if caught early and addressed correctly. The fundamental approach involves a bit of detective work to identify the underlying cause, followed by targeted interventions that restore the grass's essential needs.
 

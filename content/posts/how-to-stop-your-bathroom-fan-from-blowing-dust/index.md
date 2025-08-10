@@ -43,7 +43,7 @@ A fan blowing dust indicates a buildup within the fan housing, grille, or, more 
 
 Learning **how to stop your bathroom fan from blowing dust** is an essential maintenance task that improves indoor air quality, prolongs the life of your fan, and ensures it performs its intended function effectively. This guide will walk you through identifying the various sources of dust, provide detailed steps for cleaning your fan and its ductwork, and offer preventative measures to keep your bathroom air clean and fresh.
 
-# # Cleaning the Ductwork (and Fan Components)
+##  Cleaning the Ductwork (and Fan Components)
 
 Cleaning your fan system can be a dusty job, so prepare accordingly.
 
@@ -73,6 +73,6 @@ If you see gaps or old, peeling tape, reseal them thoroughly with HVAC-grade foi
 
 4. **Reassemble and Test: ** * Once all components are clean and dry, reattach the ductwork (if disconnected) and secure the connections with duct clamps and foil tape. * Reinstall the fan motor/blower assembly (if removed). * Reattach the cleaned fan grille. * Turn the power back on at the circuit breaker. * Test the fan. It should run more quietly and, crucially, without blowing dust.
 
-# # Professional Duct Cleaning Services
+##  Professional Duct Cleaning Services
 
 If your ductwork is extensive, very long, difficult to access, or severely clogged, or if you suspect mold growth within the ducts (due to chronic moisture issues), it might be worth considering a professional duct cleaning service. They have specialized equipment (powerful vacuums, rotating brushes) that can thoroughly clean entire duct runs. Discuss your specific concerns about bathroom fan ducts with them.

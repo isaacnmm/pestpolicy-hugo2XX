@@ -21,7 +21,7 @@ However, they often avoid the scorching midday sunlight to prevent dehydration.
 
 Besides, they remain active in the warmer months and hibernate during winter. * But its possible to have mosquitoes in indoor [spaces during the winter season](http: //vectorbio. rutgers. edu/outreach/habitat. php) because its warmer inside there. Thus it would help if you were prepared with mosquito repellents during winter to keep off those that come indoors to escape low temperatures out there.
 
-# # When Do Mosquitoes Come Out? Most Active?
+##  When Do Mosquitoes Come Out? Most Active?
 
 Plus, it would be best to get rid of possible mosquito breeding areas such as standing water. Read Also: Bed Bug Bites Vs. Mosquito Bites. The time of the day that mosquitoes come out to varies from one species to another. Out of the 176 recognized mosquito species in the U. S, only two are regarded as the most common. These include Culex Pipiens (common house mosquito) and the Aedes Aegypti (Asian tiger).
 
@@ -31,7 +31,7 @@ They tend to be active from the morning up to late afternoon when they aggressiv
 
 [The Anopheles mosquitoes usually bite](https: //pestpolicy. com/spider-bite-vs-mosquito-bite/) throughout the better part of the night, including dusk and dawn. They are known to cause malaria in humans. Read Also: Mosquito Yard Spray.
 
-# # **Are Mosquitoes Active Throughout The Year?**
+##  **Are Mosquitoes Active Throughout The Year?**
 
 Well, you might have heard or come across some literature about mosquito season. These are times of the year when youre likely to experience maximum mosquito presence or bites. But does it have to do with the seasons? Its something to do with the temperature levels and not the season. Since mosquitoes are cold-blooded creatures, their activity is affected by the temperature in their surroundings.
 
@@ -41,7 +41,7 @@ Mosquitoes begin to become active above 10C, often reaching full activity when t
 
 During this period, youre less likely to experience mosquito bites. Read Also: Best Mosquito Killer
 
-# # **Why Are Mosquitoes Active at Certain Times?**
+##  **Why Are Mosquitoes Active at Certain Times?**
 
 Naturally, mosquitoes are regarded as crepuscular because of their heightened activity at dusk and dawn. They prefer these hours because wind travels at slow speed, and theres the presence of UV and polarized light. Besides, there is increased humidity at these hours, which favors the functioning of their odor and thermal receptors. This enables them to locate their prey with ease.
 
@@ -49,7 +49,7 @@ Read Also: Best Mosquito Repellent for Yard **Schedule Your Travel to Off-Season
 
 **Continuous Maintenance: ** Its not enough to put up measures in readiness for the mosquito season. Regular assessment of risk factors can help you seal the loopholes that may put you at risk of mosquito infestation.
 
-# # **How to Prepare for Mosquito Season**
+##  **How to Prepare for Mosquito Season**
 
 Mosquitoes will disappear during winter and resurface once the cold season is over. Not only is the warm weather favorable to mosquitoes, but its also accompanied by rains that favor their breeding. But how do you enjoy the favorable warm weather with mosquitoes in their most current mood? Well, below are few [tips to help you prepare your home against termites](https: //pestpolicy. com/termite-prevention/) and for the dreaded mosquito season.
 
@@ -65,7 +65,7 @@ Also, repair any leaking taps in your backyard as these could lead to stagnant w
 
 These could be helpful, especially when youre in the garden or during a hike. Read Also: Best Mosquito Trap
 
-# # **Conclusion**
+##  **Conclusion**
 
 The winter season brings a lot of relief from mosquito bites and illnesses. That because mosquitoes tend to hibernate from the cold weather. But once the winter is over, you need to get prepared to protect yourself and your family from the resurgence of mosquitoes. Armed with the above knowledge and tips, you dont have to abandon your routines for fear of mosquitoes. However, more considerable precautions are necessary when outdoors.
 

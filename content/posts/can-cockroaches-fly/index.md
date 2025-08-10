@@ -21,7 +21,7 @@ Most of the roach species have wings, but not all of them can fly.
 
 Notably, most of the roaches will mainly use the wings in stabilizing themselves while crawling or making simple jumps please dont confuse this with flying. **Side note**: of the 4000 roach species, just about 40 of them are classified as pests. Choose one of the top roach killers that'll help you control most of the pests.
 
-# # Can Cockroaches Fly? All Roaches deBugged
+##  Can Cockroaches Fly? All Roaches deBugged
 
 **Cockroach Species** **Male** **Female** **1. ** American Cockroach
 
@@ -31,7 +31,7 @@ X **4. ** Smokybrown Cockroach
 
 **5. ** Madagascar Hissing Cockroach X X **5. ** Asian cockroach
 
-# # **Flight Capability of Different Roach Species**
+##  **Flight Capability of Different Roach Species**
 
 **1. American Cockroach (Can Fly - Glide)** **Color**: Mahogany or reddish-brown. However, it has a [yellow band](https: //www. orkin. com/cockroaches/american-cockroach/american-cockroach-anatomy/) at theback of its head. **Wings and Length**: Adult roaches are about3 inches (50 mm) or longer. Male American roaches are longer than their female counterparts - with the wings extending 4-8 mm from the pests' abdomen - roach killer for the house.
 
@@ -53,13 +53,13 @@ Further, youll most likely find these roaches in dark areas or on leaf litter in
 
 Madagascar Hissing roaches (originating off Madagascar the Gromphadorhina portentosa) have no wings and wont fly like other cockroaches discussed above. But why hissing in its name? Well, this roach produces a hissing sound thats mainly helpful in scaring off any of its predictors.
 
-# # **At 80 degrees, Some Roaches become frequent flyers.**
+##  **At 80 degrees, Some Roaches become frequent flyers.**
 
 Surprisingly, some roaches fly while trying to hide from the sweltering heat. So besides just crawling up the house drains, roaches might fly to get into your home. The most common household roaches (the American cockroaches) do not generally fly and dont regularly use their wings. Further, cold temperatures such as during winter and what you find down drains and sewers prevent them from using their flight muscles.
 
 However, if the temperature rises to about 80 degrees and above (like with the summer weather), the American roaches will definitely become regular fliers. The hot weather also tends to increase the roaches metabolism and reproduction capacity, leading to an even higher roach population.
 
-# # **Conclusion**
+##  **Conclusion**
 
 Different roach species have a variedflying ability. However, roaches are not good flyers.
 

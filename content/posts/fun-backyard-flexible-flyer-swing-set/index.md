@@ -16,7 +16,7 @@ layout: post
 
 The Fun Backyard Flexible Flyer Swing Set offers an excellent [healthy play option for kids](https: //healthinformatics. uic. edu/healthy-games-and-activities-for-kids/) and their friends. With the various play activities, the swing set will allow increased fitness and fun. Read Also: [Swing Set for Older Kids](https: //pestpolicy. com/best-swing-set-for-older-kids/)
 
-# # Fun Backyard Flexible Flyer Swing Set
+##  Fun Backyard Flexible Flyer Swing Set
 
 The 6-legged frameset will allow multiple kids aged 2-10 years to have fun with their friends or siblings. However, you must provide a safety zone measuring 6 feet. One side of the swing frame has a see-saw while the other side has a 6-foot slide. The swing frame is created from a powder-coated steel tube that is ivory painted. Further, the see-saw has unique handles and deluxe seats. Each seat on the see-saw can hold about 47 KGs.
 

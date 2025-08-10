@@ -21,7 +21,7 @@ You'll get [boric](https: //pestpolicy. com/does-boric-acid-kill-bed-bugs/) acid
 
 ** - **You'll require tomix the powder with sweet substances such as honey to create Boric Acid Gel or roach-attracting borax acid paste. ** If youre a homeowner, how do you get rid of a cockroach colony? Some of the roach-control products available in the market are roach bombs, roach sprays, roach killers, and roach gels.
 
-# # Boric Acid For Roaches? Powder Roach Treatments
+##  Boric Acid For Roaches? Powder Roach Treatments
 
 In this post, I have a comprehensive guide on creating a borax acid paste. Also, I'll describe the mistakes homeowners make when using Boric Acid to Kill Roaches. Unfortunately, the boric acid powder can be easily misapplied and readily blown away by air currents. This could send the powder to areas where kids and pets could contact it and sadly get poisoned.
 
@@ -29,7 +29,7 @@ Therefore, the most effective application method is to make a boric acid paste f
 
 **Summary: ** Using honey and bacon grease to make the boric acid paste will help attract the toxic boric acid (and [readily kill them](http: //npic. orst. edu/factsheets/boricgen. html) ). The roaches feed on the paste or carry it back to their nests, where other [cockroaches](https: //pestpolicy. com/harris-boric-acid-roach-powder-with-lure-review/) also feed and die. If the roach die and their counterparts eat them, then theyd even die.
 
-# # How To Make a Roach-attracting (and killing) Boric Acid Paste
+##  How To Make a Roach-attracting (and killing) Boric Acid Paste
 
 Sadly, roaches come in a colony, and thus, seeing one implies that many others are hiding. I know you might have tried toxic chemicals or employed the services of an exterminator. However, with boric acid, the process is easy, effective, and inexpensive - and it's excellent even for roaches that can fly or glide.
 
@@ -51,13 +51,13 @@ So, smear the paste on walls or pipes where roaches might have routes for gettin
 
 Therefore, this feeding chain would allow you to kill most of the roaches even in their hiding places areas where roach sprays would ordinarily not reach.
 
-# # What's Boric Acid or Borax?
+##  What's Boric Acid or Borax?
 
 So, youre asking, which mechanism does boric acid used to kill roaches and their colonies? As outlined above, Boric acid (popular as ***Acidum boricua, boracic acid, or hydrogen borate*** ) is a borax derivative that acts as a [pesticide](http: //npic. orst. edu/ingred/products. html). Youll mainly find boric acid powder in substances such as toothpaste and another detergent.
 
 Boric Acid For [Roaches acts](https: //pestpolicy. com/what-do-baby-roaches-look-like//) as a desiccant (dehydrates roaches) and being non-repellant and odorless.
 
-# # How boric acid works to kill cockroaches
+##  How boric acid works to kill cockroaches
 
 When the roaches crawl near the boric acid roach paste, the mixture will stick on the pests bodies and arms. Further, when the roach ingests the paste, the boric acid will get into the pests digestive and nervous systems, crippling them and causing death. Further, Boric acid will kill another roach population when they eat other dead roaches fed on the boric acid paste.
 
@@ -65,7 +65,7 @@ Additionally, the roaches carry the roach paste back to the roach nest, helping 
 
 Notably, the infant roaches may die within 48 hours, while the adult roaches will die in 72 hours.
 
-# # Mistakes homeowners make with Boric Acid.
+##  Mistakes homeowners make with Boric Acid.
 
 For the boric acid to be effective, youll need to avoid simple mistakes that could hamper your roach-control success. Herere the mistakes you must avoid. **1. Disregarding Safety Rules** For the chemical that boric acid is, you must use it to protect your pet's and kids' health. Therefore, Ive always told my clients that they must use gloves to use boric acid powder safely.
 
@@ -79,6 +79,6 @@ Its important to know that not many [roach paste quantities are required to kill
 
 Therefore, if you dont get the high traffic or food waste areas right, youll have started your roach control journey on the wrong footing.
 
-# # Conclusion
+##  Conclusion
 
 Avoid wasting time and resources by identifying the right places to apply boric acid. However, you must also practice some patience in the roach control since you'll most likely see notable results (that's a large number of roaches dying) in about 2-5 days.

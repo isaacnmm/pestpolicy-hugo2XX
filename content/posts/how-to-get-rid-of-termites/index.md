@@ -23,7 +23,7 @@ After contacting the termites, the termites will go back to their colony and kil
 
 Additional methods you can use include fumigation, using dust agents, employing foam agents, and further avoiding disturbing the termite hills - for both termite prevention and extermination. Read Also: Flying Ants vs. Termites.
 
-# # Details: How to Get Rid of Termites - Pest Control Tips
+##  Details: How to Get Rid of Termites - Pest Control Tips
 
 Termites have 2, 300 species, and they'll gnaw wood in your home and other properties plus included furniture - they'll weaken or damage wooden structures. These bugs have three body parts and six legs. - *Subterranean Termites*- Subterranean termites (cream-brown colored) create mud tubes to get to wooden structures, particularly in the humid or warm regions. These bugs measure about1/8 inches in length and are largely found in the Southeast.
 
@@ -35,11 +35,11 @@ Termites have 2, 300 species, and they'll gnaw wood in your home and other prope
 
 Formosan Termites are yellow-brown and measure inch long, living in wall nests and underground in the warmer South climates.
 
-# # 1. Inspection - How to Do A Termite Inspection
+##  1. Inspection - How to Do A Termite Inspection
 
 A termite inspection is a dirty job requiring you to have a flat-head screwdriver or pocket knife, flashlight, gloves, and coveralls.
 
-## # i. What To Look FoBelowow are some of the objects to look out for - including live termites, damaged woods, and mud tub during the termite inspections.
+###  i. What To Look FoBelowow are some of the objects to look out for - including live termites, damaged woods, and mud tub during the termite inspections.
 
 - Termite wing Piles - Termite swarmers tend to shed wings as they molt to their nextlife stage- and these wings will be piled around light sources such as near windows. Swarmers will have four wings pairs of the same size anddouble in length as the bug'sbody. - Damaged furniture or wood - Massive termite infestation will lead to damaged wood when the bugs destroy the structure's joints' integrity.
 
@@ -47,15 +47,15 @@ Tap the dry wood using a pocket knife or screwdriver - a dull thud will signify 
 
 The potential termite infestation places include wooden structures in crawl spaces and basements, window frames and sills, porches, and wooden decks. Additional areas include cement, wood debris, expansion joints, and brick construction cracks and piles, plus wooden porches and slabs.
 
-## # ii. Probe the Ground
+###  ii. Probe the Ground
 
 Next, you'll need to probe the suspected ground using screwdrivers or picks. Dig into the wood or soil around the house's foundation and examine any mud tubes or wing piles. You'll notice that the mud tubes will measure a diameter of about inches. The mud tubes will be moving towards the wooden structures, but you must note that there is also a massive termite infestation for large tubes.
 
 Also, termites will escape direct sunlight, and hence they'll be hiding in bushes and shrubs - insulation, floors coverings, and behind walls. - Seasonal weather and behavior - During the warm climates, the termites will go into hiding while they'll start mating and getting new sites insummer and spring. However, in winter, subterranean termites will start burrowing deeper into the ground.
 
-# # 2. Termite Treatment
+##  2. Termite Treatment
 
-## # i. Termite Trenching
+###  i. Termite Trenching
 
 For effective treatment control, termite treat your home's exterior with Taurus SC, among other effective termiticides that'll fully exterminate the termites. The treatment prevents new termites from getting into the structure while also exterminating the termites as they exit their nest. You'll require a pump sprayer, a medium-sized bucket, and a pickaxe or trench shovel.
 
@@ -73,7 +73,7 @@ However, ensure you pass through the concrete and make a big hole in the soil un
 
 Finally, patch the holes using concrete using Trebor plugs or a patch filler to get the concrete slat to its initial state.
 
-## # ii. Termite Bait Stations
+###  ii. Termite Bait Stations
 
 Termite bait stations or Termite traps are excellent treatment options either above or in the ground around the yard or home. The stations have baits (either cellulose, paper, or wood) that contain some poison aimed to kill the termites by design. Bait stations will be useful in situations where termite trenches are undesirable or impracticable.
 
@@ -93,15 +93,15 @@ Next, when you notice that the termites are feeding or tampering with the pre-ba
 
 Don't rush to install the poisoned termite bait as you may end up exterminating the workers required to create the feeding. Finally, it's now time to install the active or poisoned bait onto the termite bait station. However, monitor the bait station as you'd done earlier every three months. Keep records of all the changes, particularly of feeding activity, to allow the bait to rest on the station more - repeat the treatment process monthly.
 
-# # 3. Termite Prevention
+##  3. Termite Prevention
 
-## # i. Seal off windows and Doors
+###  i. Seal off windows and Doors
 
 Next, you'll need to seal off the house or property from the termites - this is especially important for windows and doors. Therefore, the bugs won't quickly get into your wooden house - you'll need to seal up the crevices and cracks in the rooftops and sidings. Important is you analyze any possible entry areas that the termites can use and seal them off completely.
 
 Further, you'll need to inspect the wooden floors and furniture - including beams and joists, to ensure that the termites aren't wreaking havoc on your house.
 
-## # ii. Repair L**eaking **Pipes and Tapes
+###  ii. Repair L**eaking **Pipes and Tapes
 
 Termite prevention will save you both time, money, and furniture or structure integrity in the future. However, the most important fact is avoiding moisture getting ton your wooden structures - this will help kill off the termite colonies. So, repair any leaking pipes and tapes - including those of the hot water lines near or around the house.
 
@@ -109,12 +109,12 @@ Hence, the lack of moisture around the home will reduce the conditions necessary
 
 Also, mop all the moisture around your house and remove all the water that could be in water puddles around the house or property - or even inside the home. Keep the house plus floors and carpets dry and well-aerated all round then year. Also, avoid the overflows from the various air-conditioning and hot water lines away from the house and its sides.
 
-## # iii. Clear idle Wooden Materials
+###  iii. Clear idle Wooden Materials
 
 Inspect the house for breached or damaged shielding installed to [control termites](https: //pestpolicy. com/top-7-natural-termite-control-can-easily/). Further, remove all idle wooden materials, including cellulose, debris, and timber that may be lying inside, under, or around your house or yard - equally use yard flea treatments.
 
 Such timber may act as good food for the termites and equally a hiding place for subterranean termites ( [check their treatments](https: //pestpolicy. com/subterranean-termites-treatment/) ) and may also conceal termites inside the dead leaves and base-work work-spaces. You'll also require to remove all clothes piles lying around idle as they'll provide food (have cellulose) and shelter for termites.
 
-# # Conclusion
+##  Conclusion
 
 So, that's how to get rid of termites - for the active termite colony in the wooden structure or house, you'll need to undertake appropriate treatment steps. But first, undertake termite inspection before taking treatment further, including using termite baits stations and soil treatment.

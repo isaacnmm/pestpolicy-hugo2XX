@@ -19,7 +19,7 @@ You might have noticed that your cat is scratching its fur more than usual, and 
 
 The latter method is the use of [Diatomaceous [Earth](https: //pestpolicy. com/diatomaceous-earth-for-fleas-on-dogs/) for Fleas](https: //pestpolicy. com/diatomaceous-earth-for-fleas/).
 
-# # Diatomaceous Earth for Fleas on Cats - Natural Flea Control
+##  Diatomaceous Earth for Fleas on Cats - Natural Flea Control
 
 DE is a fine powder when you see it, but microscopically it has sharp edges. Its mode of action is purely mechanical. The sharp edges cut the protective shells of insects and parasites hence exposing them. When exposed, the water in them evaporates, and subsequently, they become dehydrated and die. DE comes in various forms, granulated DE, milled DE, and Calcine DE.
 
@@ -29,7 +29,7 @@ It is an excellent form of DE that is used in the manufacture of insecticides an
 
 **Calcined Diatomaceous earth -** This form of DE is usually heat treated and used in water filtering and explosives manufacture.
 
-# # **Benefits of Diatomaceous Earth for Fleas**
+##  **Benefits of Diatomaceous Earth for Fleas**
 
 1. Natural dewormer Apart from getting rid of fleas and ticks, DE can eliminate roundworms, whipworms, pinworms, and hookworms. 2. Non-toxic DE is non-toxic since no chemicals are used. It is safe for humans and pets and hence a suitable alternative for chemical sprays. 3. Healthy supplement Diatomaceous earth is rich in minerals like magnesium, silicon, calcium, sodium, iron, and other minerals.
 
@@ -37,7 +37,7 @@ Feeding it to your cats keeps it healthy and gives it that good awesome look. 4.
 
 DE in the cats diet helps in solving their joint problems and heals sore joints.
 
-# # Diatomaceous Earth dosage & Ingredients for Cats
+##  Diatomaceous Earth dosage & Ingredients for Cats
 
 Cats come in different sizes, which means that their dosages will actually be different. You can check and inquire from your veterinarian about the dosage. However, here are some general recommendations on the dosages. - Kittens* and small cats (2-6. 5 lbs)- a teaspoon of food-grade DE once a day in food - Full-grown cats (7-13 lbs)- 1 teaspoon of food-grade DE once a day in food - Large cats (>13 lbs)-1.
 
@@ -45,13 +45,13 @@ Cats come in different sizes, which means that their dosages will actually be di
 
 *Kittens- nursing kittens should not be given DE until they start taking solid foods
 
-# # **Safety Cautions on UsingDiatomaceous Earth for Fleas on Cats**
+##  **Safety Cautions on UsingDiatomaceous Earth for Fleas on Cats**
 
 The following are the precautions: 1. Ensure that the DE you are giving your cat is food grade. It should have less than 1% crystalline silica. 2. Ensure that you mix well the food and DE. Failure to mix OK causes irritation to the lungs of the cat and you due to the dust. 3. You can wear a face mask to avoid inhaling the dust and gloves to prevent your hands from drying. 4. Store the DE in dry conditions.
 
 Damp conditions significantly reduce their effectiveness.
 
-# # **Using Diatomaceous Earth for Fleas on Cats**
+##  **Using Diatomaceous Earth for Fleas on Cats**
 
 Besides being used as food for cats, DE is also used to eliminate fleas. The following are the steps to be followed when using DE to eliminate fleas from your cat. **Step 1** Identify the areas your cat likes spending its time the most. Those areas will be the places youll need to focus most when applying DE. Such places could be its favorite couch, the carpet, or even the pillow.
 
@@ -63,11 +63,11 @@ By this, you will collect any eggs that have not hatched. DE does not affect the
 
 Ensure that you use a soap-free moisturizing shampoo. **Step 5- ** Chances are the fleas that will not survive the bath, vacuuming, and DE application. Comb your cats fur using a flea comb to ascertain that no flea has been left. Do that for several days. **Step 6-** Vacuum those places you had applied to DE. The recommended vacuum cleaner is the shop vac since DE might ruin the traditional filtered vacuums.
 
-# # **Conclusion**
+##  **Conclusion**
 
 Diatomaceous earth is used as food and powder coating to eliminate fleas and worms, literally killing two birds with one stone. It is also a chemical-free method that ensures the cat's safety, the owner, and the environment.
 
-# # Sources:
+##  Sources:
 
 1. [Diatomaceous Earth for Flea Control - Riversonvet](https: //riversongvet. com/news/diatomaceous-earth-for-flea-control/) 2. [General Fact Sheet - Diatomaceous Earth](http: //npic. orst. edu/factsheets/degen. html) 3. [Insecticidal efficacy of diatomaceous earth on Sitophilus oryzae - Semantic Scholar](https: //pdfs. semanticscholar. org/ba37/75be4c3f0abac307fff1c5f7efed4db8ad3b. pdf) 4.
 

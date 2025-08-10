@@ -43,9 +43,9 @@ Improper winter care is one of the most common reasons succulents decline. Overw
 
 This guide will delve into the specific needs of succulents during winter, covering crucial adjustments to watering, light, temperature, and feeding, helping you navigate the colder months and keep your succulent collection flourishing.
 
-# # Key Aspects of Winter Care for Succulents
+##  Key Aspects of Winter Care for Succulents
 
-## # 1. Watering: The Most Critical Adjustment
+###  1. Watering: The Most Critical Adjustment
 
 This is where most succulent problems arise in winter.
 
@@ -55,7 +55,7 @@ This is where most succulent problems arise in winter.
 
 Protect them from rain if possible.
 
-## # 2. Light: Maximize Exposure
+###  2. Light: Maximize Exposure
 
 Winter days are shorter and light intensity is lower, which can lead to etiolation.
 
@@ -65,7 +65,7 @@ A simple LED grow light on a timer for 10-14 hours a day can make a significant 
 
 * **Rotate Plants: ** Turn plants periodically to ensure all sides receive adequate light.
 
-## # 3. Temperature: Protect from Extremes
+###  3. Temperature: Protect from Extremes
 
 Most succulents tolerate a range of temperatures, but rapid changes and extreme cold are harmful.
 
@@ -75,21 +75,21 @@ Most succulents tolerate a range of temperatures, but rapid changes and extreme 
 
 * **Indoor Placement: ** If bringing outdoor succulents inside, avoid placing them right next to heat vents, which can dry them out too quickly.
 
-## # 4. Humidity: Lower is Generally Better
+###  4. Humidity: Lower is Generally Better
 
 Succulents generally prefer low humidity.
 
 * **Good Air Circulation: ** Ensure good air circulation, especially in cooler indoor environments, to prevent fungal issues. Avoid overly humid rooms.
 
-## # 5. Feeding: Suspend Fertilization
+###  5. Feeding: Suspend Fertilization
 
 * **No Fertilizer: ** Do not fertilize succulents during their dormant period. They are not actively growing and cannot utilize the nutrients, which can lead to salt buildup in the soil and root burn. * **Resume in Spring: ** Begin fertilizing lightly in spring when active growth resumes.
 
-## # 6. Repotting: Wait Until Spring
+###  6. Repotting: Wait Until Spring
 
 * **Avoid Repotting: ** Do not repot succulents in winter unless absolutely necessary (e. g. , severe root rot). Disturbed roots struggle to establish in cool, low-light conditions. * **Wait for Spring: ** Repotting is best done in spring or early summer when the plant is actively growing and can quickly recover.
 
-# # Troubleshooting Common Winter Issues
+##  Troubleshooting Common Winter Issues
 
 * **Etiolation (Stretching): ** * **Cause: ** Insufficient light. * **Solution: ** Provide more light (move closer to a window, add grow lights). You can't reverse stretching, but you can prevent further stretching. In spring, you may need to "behead" and re-root the top. * **Mushy, Yellowing Leaves / Rot: ** * **Cause: ** Overwatering and poor drainage, especially in cool temperatures. * **Solution: ** Stop watering immediately.
 

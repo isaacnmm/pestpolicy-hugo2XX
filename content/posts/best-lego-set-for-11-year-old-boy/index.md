@@ -19,9 +19,9 @@ Are you looking for a perfect lego [set](https: //pestpolicy. com/best-lego-sets
 
 Hence, you can pick any Lego set from our list and gift your 11-year-old. All the reviewed products will provide absolute fun for your kid. Make your choice.
 
-# # Review: Best Lego Set For 11 Year Old Boy
+##  Review: Best Lego Set For 11 Year Old Boy
 
-## # [1. LEGO Super Heroes Attack on Avengers Tower](https://www.amazon.com/dp/B00NHQFIRE/?tag=p-policy-20)
+###  [1. LEGO Super Heroes Attack on Avengers Tower](https://www.amazon.com/dp/B00NHQFIRE/?tag=p-policy-20)
 
 The first product on our list for the Best Lego Set For 11 Year Old Boy is this amazing set called the LEGO Super Heroes Attack on Avengers Tower. It has 511 pieces and 5 Minifigures. The set also includes assorted accessories and a weapon. The 5 Minifigures include Ultron Mark 1, Iron man, 2 Iron Legions, and Thor.
 
@@ -39,7 +39,7 @@ This Lego set offers an exciting activity that will help [stimulate your boys cr
 
 Pros: - Comes with 511 pieces - Includes 5 exciting Minifigures - Many exciting accessories - Straightforward instructions - Many fun features Cons: - Some instructions are not clear enough
 
-## # [2. LEGO Marvel Super Heroes Avengers: Infinity War Corvus Glaive Thresher Attack](https://www.amazon.com/dp/B077T6RDBZ/?tag=p-policy-20)
+###  [2. LEGO Marvel Super Heroes Avengers: Infinity War Corvus Glaive Thresher Attack](https://www.amazon.com/dp/B077T6RDBZ/?tag=p-policy-20)
 
 Your 11-year-old son will love the LEGO Marvel Super Heroes Avengers. This Lego set depicts a marvel movie theme that involves defending the Wakanda wall.
 
@@ -57,7 +57,7 @@ Ues all the items at your disposal to protect the wall against the bad guys.
 
 This Lego set has 416 pieces and it's ideal for both boys and girls aged 7 and 14 years. Help your child develop their creative building by getting them this LEGO Marvel Super Heroes Avengers. Pros: - 416 pieces - A fun way to enhance creativity - Includes 5 Minifigures - Amazing characters Cons: - A bit pricey but worth it
 
-## # [3. LEGO Marvel Avengers: Avengers Tower Battle Collectible Building Toy](https://www.amazon.com/dp/B0858JV9RG/?tag=p-policy-20)
+###  [3. LEGO Marvel Avengers: Avengers Tower Battle Collectible Building Toy](https://www.amazon.com/dp/B0858JV9RG/?tag=p-policy-20)
 
 The educational objective of this Lego set is to enhance the creative thinking of children. Hence, its one of the best Lego set for 11-year-old boy. It comes with 685 play pieces and other exciting play elements to make your [childs play a memorable one](https: //pestpolicy. com/best-lego-sets-for-9-year-old-boy/).
 
@@ -71,7 +71,7 @@ Your 11-year-old boy will appreciate the amazing accessories that include the In
 
 The built-in prison allows your kid to catch the criminal and lock him up. This amazing structure comes with 7 iconic Minifigures that include Iron man, Trazer, Red Skull, 2 A. I. M. Agents, and Black Widow. Pros: - Exciting fun-filled features - 7 iconic Minifigures for endless fun - Perfect Christmas gift for 11-year-old - Easy and functional Cons: - A bit pricey but worth it
 
-## # [4. LEGO Super Heroes Iron Skull Sub Attack Building Kit](https://www.amazon.com/dp/B017B1C5U8/?tag=p-policy-20)
+###  [4. LEGO Super Heroes Iron Skull Sub Attack Building Kit](https://www.amazon.com/dp/B017B1C5U8/?tag=p-policy-20)
 
 A Lego set allows your son to create fond memories of his childhood. Its unique play equipment that any child can use to advance their creativity, thinking, and problem-solving.
 
@@ -87,7 +87,7 @@ Your little one will also appreciate the fun-filled accessories that accompany t
 
 Other accessories are Scuba Captain America's shield and oxygen tank for Hydra diver. All these accessories will provide a fun-filled experience for the boy. The Lego set is ideal for 7-14-year-olds. Pros: - Fun-filled accessories - Comes with a comic book - Includes 335 pieces - great Minifigures Cons: - Some elements like the Iron Man Mark are hard to find and replace
 
-## # [5. LEGO Technic McLaren Senna GTR Toy Car Model Building Kit](https://www.amazon.com/dp/B08HW1SDVD/?tag=p-policy-20)
+###  [5. LEGO Technic McLaren Senna GTR Toy Car Model Building Kit](https://www.amazon.com/dp/B08HW1SDVD/?tag=p-policy-20)
 
 The LEGO Technic McLaren Senna GTR Toy Car is a complicated but exciting Lego set that will ensure your child puts his brain to work. Its ideal for anyone aged 10-21 years. Therefore, if the 11-year-old has older siblings they can play together.
 
@@ -103,7 +103,7 @@ The manufacturers recommended age for this McLaren Lego set is from 10 years and
 
 Pros: - Enhances creative thinking - Comes with 830 pieces - Ideal for kids, youths, and adults - Has amazing authentic details - Perfect Christmas or birthday gift - Sturdy set Cons: - Poor assembly instructions
 
-# # Conclusion
+##  Conclusion
 
 Your 11-year-old will appreciate the learning, adventure, fun, and excitement that comes with owning a Lego set. Choosing any of the above-reviewed sets will guarantee excitement and a fun-filled experience for your child.
 

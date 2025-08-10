@@ -23,15 +23,15 @@ Flies will particularly be rampant during the months of summer particularly with
 
 I have to reveal that I first tested this [horse fly](https: //pestpolicy. com/ecosmart-organic-horse-fly-knockdown-repellent-review/) spray after I saw very many horse owners with the yellow bottle during different shows.
 
-# # Pyrethrin-based fly spray
+##  Pyrethrin-based fly spray
 
 It is a pyrethrin-based fly spray which makes it's super effective. In addition, it comes with lanolin (with high sheen), an ingredient thatll leave your horses coat shining amazingly. This lanolin acts like the coat conditioner while the spray also has a citronella scent. Therefore, recently when I attended a horse show, I didnt require to purchase an additional horse product for extra shine.
 
-# # Ergonomic bottle design
+##  Ergonomic bottle design
 
 You can use a towel of mitt for the horses face or just spray all over the other parts of the animals body. In addition to having the gallon refill options, this fly spray has an ergonomic bottle designs thats easy to hold and use.
 
-# # **How to use PYRANHA Wipe N Spray Fly **
+##  **How to use PYRANHA Wipe N Spray Fly **
 
 **Wiping ** 1. Clean the horse using a brush to clear all the dust and dirt for its coat. This will ensure that no spray is wasted on useless objects such as being taken up by dust. 2. Next up, just moisten the soft cloth you have using the PYRANHA Wipe N Spray Fly and finally rub it over the horses hair make sure your wiping strokes are going against the animals hair growth. 3.
 
@@ -39,7 +39,7 @@ Its important to ensure you seriously spray critical areas such as shanks, shoul
 
 In addition, you must not we the skin of your horse and must not go over 2 oz. for every fly spray application.
 
-# # **Why I love this PYRANHA Wipe N Spray Fly**
+##  **Why I love this PYRANHA Wipe N Spray Fly**
 
 1. Well, this PYRANHA Wipe N Spray truly kills fleas, gnats, mosquitos in addition to other dominant insects that tend to attack horses. Definitely, with this spray I dont have to re-spraying my horse since it will actively control the flies for about 1 week. 2. After using the spray I noticed that my horse immediately tends to become less irritable with lesswagging of its tail.
 
@@ -47,7 +47,7 @@ Luckily, this formula controls/ repel more than just the flies that you were ini
 
 3. The fly spray will not irritate your horses skin. Further, its cost-effective as youll require less number of spray re-applications. However, you must not wet the horse. 4. Further, as noted above, PYRANHA Wipe N Spray contains lanolin thatll ease the dryness or in your horses skin, even with the chapped skin. Further, as I noted earlier, this lanolin ingredient left the horses coat shining, healthy and soft.
 
-# # The downsides of this**PYRANHA Wipe N Spray Fly**
+##  The downsides of this**PYRANHA Wipe N Spray Fly**
 
 Despite all the love I have for this spray, below I outline some of the cons I experienced (this is for total transparency). For dirty, sandy, or dusty areas, you might find out that upon applying the fly spray, dirt could s stick on your horse. Therefore, if youre in a horse show, you might require to constantly need to wipe your horses skin.
 

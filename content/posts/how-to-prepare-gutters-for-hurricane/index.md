@@ -46,7 +46,7 @@ Taking proactive steps to prepare your gutters can significantly reduce the risk
 
 This article provides a comprehensive checklist to ensure your gutters are in optimal condition to withstand a hurricane, helping to protect your most valuable asset.
 
-# # 2. Check for Damage and Loose Connections
+##  2. Check for Damage and Loose Connections
 
 Strong winds and heavy rain during a hurricane put immense stress on your gutter system. Any pre-existing damage or loose connections will be exploited and worsen, potentially leading to sections of your gutters detaching.
 
@@ -56,7 +56,7 @@ Strong winds and heavy rain during a hurricane put immense stress on your gutter
 
 This might require drilling new pilot holes if the old ones are stripped. * **Ensure Proper Pitch: ** Gutters should have a slight downward slope (about 1/4 inch per 10 feet) towards the downspouts to ensure water drains effectively. If you notice standing water after flushing, your gutters may have lost their pitch or sagged. While re-pitching is a bigger job, ensuring they are securely fastened can help prevent further sagging during the storm.
 
-# # 4. Do Proactive Pruning To Reduce Post-Hurricane Cleanup
+##  4. Do Proactive Pruning To Reduce Post-Hurricane Cleanup
 
 While directly related to your gutters, pruning is a critical step in preventing debris accumulation and potential damage from falling branches.
 
@@ -68,7 +68,7 @@ While directly related to your gutters, pruning is a critical step in preventing
 
 Attempting to prune large branches yourself can be extremely dangerous.
 
-# # Final Thoughts
+##  Final Thoughts
 
 Preparing your gutters for a hurricane is a vital, yet often neglected, step in comprehensive home protection. A well-maintained and efficiently functioning gutter system is your home's first line of defense against the overwhelming water volumes brought by a severe storm.
 

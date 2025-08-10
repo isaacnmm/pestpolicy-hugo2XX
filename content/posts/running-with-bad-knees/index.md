@@ -22,9 +22,9 @@ I know, there are significant arguments out there that running with a bad knee c
 
 Here are the critical factors to consider before embarking on running with a bad knee: muscle problems, ligament tear, and cartilage tear, to have painless running. Read Also: What it truly means to have Bad Knees?
 
-# # Running with Bad Knees (7 key Secretes)
+##  Running with Bad Knees (7 key Secretes)
 
-## # Soft Surface Running
+###  Soft Surface Running
 
 Do you run on hard surfaces such as concrete? You could be inducing harm to your knees. However, researchers recommend that you run on softer surfaces like grass to reduce the amount of shock that hits your knees.
 
@@ -40,7 +40,7 @@ Youll need to choose shoes that can cushion your knees, by absorbing excessive p
 
 So, what critical factor should you consider while choosing your ultimate shoes? Well, running shoes are built to cover about 300-500 miles. Therefore, ensure that you change the shoe after every 6 months.
 
-## # Take a Break
+###  Take a Break
 
 Sometimes running can be addicting, especially when it shows positive results on your body. However, note that running continuously for a long time could strain your knees.
 
@@ -48,13 +48,13 @@ Therefore, schedule your runs to allow breaks after some given time or when you 
 
 Preferably set your goal to rest after like every 25 minutes. Such a break will give you enough time for recovery both for your heart, feet, and knees.
 
-## # Stretch before running
+###  Stretch before running
 
 Stretching is a critical step in daily healthy exercise. Therefore, always stretch before beginning your regular running routine.
 
 Ensure to stretch the calves, hamstrings, and quadriceps to maintain flexible joints and reduce pressure going to your knees. Read Also: [Exercise With Bad Knees to Lose Weight](https: //pestpolicy. com/how-to-exercise-with-bad-knees-to-lose-weight/).
 
-## # Proper Form
+###  Proper Form
 
 It is essential, that, like every other intelligent runner, you keep your form in top shape to avoid hurting your bad knees.
 

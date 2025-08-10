@@ -19,15 +19,15 @@ This is an Ecosmart Organic Horse Fly Knockdown review. EcoSMART Organic is also
 
 This product allows natural botanical defense against the horse flies and hence wont use chemicals.
 
-# # Ecosmart Organic Horse Fly Knockdown Review
+##  Ecosmart Organic Horse Fly Knockdown Review
 
 In addition to controlling horse flies, EcoSMART Organic will also prevent attacks from horn flies, house flies, face flies, deer flies, and stable flies. The organic plant oils will work wonders, thanks to the scientist who developed and patented this organic formula. Therefore, the procedure is not toxic and will not produce a d chemical odor or irritate your horse's skin.
 
-# # Effective but not toxic
+##  Effective but not toxic
 
 EcoSMART Organic is safe around both pests and other animals. If youve been searching for a product thats both effective and is not toxic, then youve just found EcoSMART Organic.
 
-# # Ease of Application
+##  Ease of Application
 
 With Ecosmart [fly repellant](https: //pestpolicy. com/espree-aloe-herbal-fly-repellent-horse-spray-review/), your horse can now pasture the whole day without disturbance from horse flies, ticks, and gnats. All you need is to brush your horse lightly to remove dust and dirt that they may have got from the stalls overnight.
 

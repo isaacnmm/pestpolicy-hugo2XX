@@ -21,7 +21,7 @@ com/what-causes-pantry-bugs/)pasta, powdered milk, bread, dried fruits and herbs
 
 If not careful, there are higher chances of eating them.
 
-# # **Are Pantry Bugs Harmful If Eaten?-**Can Pantry Moths Make Me Sick?
+##  **Are Pantry Bugs Harmful If Eaten?-**Can Pantry Moths Make Me Sick?
 
 No. If you have accidentally eaten a pantry bug, there is not much need to worry since most of them are not harmful. But since its hard to tell the difference between good and harmful bugs. It is better not to eat them at all. Some bugs may have the potential to transmit diseases that could a [long-term effect on you](https: //pestpolicy. com/how-long-do-pantry-bugs-live/).
 
@@ -29,7 +29,7 @@ No. If you have accidentally eaten a pantry bug, there is not much need to worry
 
 - At adult stages, these pantry bugs will either turn into beetles, moths, or weevils. In this stage, you are more likely to find them in rice, maize, and other types of cereals. Below is a list of identification of some pantry bugs for easier verification and general knowledge.
 
-## # **1. ****Maize and rice weevils**
+###  **1. ****Maize and rice weevils**
 
 These are very common in granaries where you have stored up your maize, rice, and other cereals. They are also known to attack other crops like oats, wheat, barley, peas, sorghum, and cottonseed among others. They bore holes into grains, cereals, and legumes making. Below is their life cycle and how to identify them. **Life-cycle** A grain weevil has a life span of 5-8 months.
 
@@ -39,7 +39,7 @@ For temperatures are between 15-34 C and humidity of 40 percent. The life cycle 
 
 This larva stays in the grain while feeding on it until it develops into a pupa. When the pupa transforms into an adult, it bores a hole to exit the grain. It takes approximately 36 days for a weevil to fully mature and be ready to hatch an egg. Immediately after leaving the grain, the female releases pheromones insinuating readiness to mate.
 
-## # **2. ****Drugstore beetle **
+###  **2. ****Drugstore beetle **
 
 This is another pantry bug that you are likely to find in your household. They are a common pest in warmer areas and environments. This pantry bug is normally very destructive on dried plant products and fruits. In the pantry, you are also likely to find them in bread, floor, sweets, spices, cookies among others. **Life-cycle ** A drugstore beetle has a lifespan of 13-65 days but some can live up to seven months.
 
@@ -49,7 +49,7 @@ In the final stages of its larvae stage, it builds a cocoon where the pupa stays
 
 The adult breaks out of the cocoon into a beetle that has a life span of 13-65 days. It is at this stage that they mate and lay eggs as the cycle continues. They need a temperature of 30C and a humidity of 60-90 % for growth and mating.
 
-## # **3. ****Idianmeal moths **
+###  **3. ****Idianmeal moths **
 
 They compromise the largest population of pantry bugs. They are very destructive and are found in grains and cereals, plants, nuts, pasta, fruits, rice, spices, and bread among others. **Life cycle ** It has 4 life stages-egg, larvae, pupa, and adult. - A single female can lay between 100-400 eggs in its life span. It can lay these eggs as a single unit or in clusters of 12-30.
 
@@ -57,13 +57,13 @@ They compromise the largest population of pantry bugs. They are very destructive
 
 - This larvae also have a web that it leaves behind which can be seen. These larvae also produce a cocoon that houses the dormant pupa stage of this beetle. The pupa stays in this stage for 15-20 days before transforming into an adult moth. It takes about 3 days for the adults to mate and lay eggs and the cycle continues.
 
-# # Frequently asked questions
+##  Frequently asked questions
 
-## # **Can drugstore store beetle harm you when eaten?**
+###  **Can drugstore store beetle harm you when eaten?**
 
 Like most pantry bugs, the drugstore beetle is harmless if eaten accidentally. However, there are ways of reducing their infestation into your food and grains. Keeping your foodstuffs below a temperature of 20 C will keep these bugs since they cannot survive in such an environment.
 
-# # **How to eliminate pantry bugs**
+##  **How to eliminate pantry bugs**
 
 **Check the food at the store** -before buying food at the store always make sure you cross-check well. Dont buy food that is not properly sealed or poorly packaged. - Check packaging dates as most likely the older products are more likely to be infested or even have eggs that later hatch into bugs. **Proper transportation-** check your products after transportation just in case the packaging is damaged.
 
@@ -73,6 +73,6 @@ Any damaged packaging is prone to pantry bugs and should therefore be used first
 
 Instead of risking further multiplication of bugs trashing it is also a good option.
 
-# # Conclusion
+##  Conclusion
 
 Are pantry bugs harmful if eaten? Though most of them are not harmful, it is good to avoid eating them. On the contrary, controlling their infestation would do more good than even allowing them in your grains, cereals, and other consumables. That said and done, it is also not healthy to eat the pantry bags. Proper storage, treatment, and other good practices can be useful in getting rid of the bugs.

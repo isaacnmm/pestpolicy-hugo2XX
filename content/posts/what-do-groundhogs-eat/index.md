@@ -23,9 +23,9 @@ But in most cases, groundhogs eat vegetables, grass, fruits, alfalfa, clovers, s
 
 Groundhogs greatest enemy is the human being but their damages in the garden cannot be ignored. Related: Squirrel Repellent
 
-# # Details: What Do Groundhogs Eat?
+##  Details: What Do Groundhogs Eat?
 
-## # **1. Plants, Fruits and Vegetables**
+###  **1. Plants, Fruits and Vegetables**
 
 When we talk about groundhogs feeding on vegetables, plants, and fruits, what are their favorites? These fruits are apples, raspberries, hackberries, mulberries, and other types of berries. Others are cloves, dandelions, alfalfa, maple leaves among others. Before we can get to know what groundhogs eat, maybe we can have a brief understanding of what groundhogs really are.
 
@@ -33,7 +33,7 @@ When we talk about groundhogs feeding on vegetables, plants, and fruits, what ar
 
 They are also referred to as woodchucks or whistle pigs because of the whistling sound they make trying to warn the rest of incoming danger. - Groundhogs are found in the eastern and the central part of the United States. They like to live in woodlands and transitional areas.
 
-## # **2. Cultivated Crops**
+###  **2. Cultivated Crops**
 
 Groundhogs can also prove to be disastrous on cultivated crops like lettuce, corn, legumes, soybeans, broccoli, peas, and others It is mostly these cultivated crops that will capture a farmers interest in eradicating the groundhogs. This is because of the damage they do to the crops and also to the garden. - But even so, they spent most of their time underground burrowing and looking for food.
 
@@ -45,25 +45,25 @@ For a better understanding of the groundhogs, we can break down their diet into 
 
 Related: Gopher Traps
 
-## # **3. Animals, Insects, and Pests **
+###  **3. Animals, Insects, and Pests **
 
 It is rare to find groundhogs feeding other animals and pests but when available, they dont hesitate to eat them. - Here are some of the delicacies that groundhogs eat. Crickets, snails, bugs, grasshoppers, bird eggs, juvenile birds among smaller animals. However, the groundhog's diet is also greatly affected by seasons and daily weather. This is because weather directly affects the food that is available for the rodents.
 
-# # A Groundhogs Diet during Seasons
+##  A Groundhogs Diet during Seasons
 
-## # **1. Spring and summer **
+###  **1. Spring and summer **
 
 These two seasons there is plenty of food and groundhogs have the opportunity to enjoy whatever they want. They feed on their favorite vegetables, fruits, and cultivated crops. - They also feed on grasshopper snails and also other insects that are available. During this season, they feed either in the morning or the evening hour and spend the rest of the daytime hours hiding underground. Related: Flea Trap for Homes
 
-## # **2. Autumn **
+###  **2. Autumn **
 
 In this season, things start changing and food start becoming scarce and groundhogs turn to insects and other animals. - Due to their limited options, they also eat tree backs and leaves and a supplementary. - Additionally, it is this season that the groundhogs get an opportunity to eat lots of protein from the animals and insects too. This is the reason they start storing food on the burrows as they prepare for the winter.
 
-## # **3. Winter **
+###  **3. Winter **
 
 This is an inactive stage for the groundhogs and they are not so much involved in food hunts. They live in the tunnels and feed on the food in the store. In this period they fed less as compared to other seasons to save on energy and food. Related: [Smells that Raccoons Hate](https: //pestpolicy. com/what-smells-do-raccoons-hate/)
 
-# # How to Protect Your Garden from Groundhog
+##  How to Protect Your Garden from Groundhog
 
 Groundhogs love to live where there is woodland and at the edges of forested areas. They will occasionally come out of the tunnels into our gardens to look for a look. As I said, they like feeding on cultivated crops. - They can really be a nuisance on your farm but there is always a way to tame them. - Timely harvesting. If you want to avoid losses and damages done by groundhogs, ensure your crop is harvested on time.
 
@@ -77,7 +77,7 @@ Like earlier mentioned, they like to live around woody areas and this will serve
 
 Related: [Top Mole Traps](https: //pestpolicy. com/best-mole-traps/)
 
-# # Summary
+##  Summary
 
 What do groundhogs eat? They are omnivorous but have a high preference for vegetables, fruits and plants as compared to animals, insects and pests. - Because of their nature to burrow and live underground, and fear for human beings, they like to come out and feed either in the evening or in the morning. - Their feeding pattern and diet is also greatly affected by weather patterns and will hide food in the tunnels for the winter season.
 

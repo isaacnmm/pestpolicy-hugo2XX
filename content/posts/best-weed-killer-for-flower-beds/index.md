@@ -21,9 +21,9 @@ looking for the best [weed](https: //pestpolicy. com/best-weed-killer-for-lawns/
 
 What makes it even harder are those pesky, recurring wild weeds that grow back no matter how much and how often you weed out your flowerbeds.
 
-# # 9 Best Weed Killer for Flower Beds
+##  9 Best Weed Killer for Flower Beds
 
-## # [1. Compare-N-Save 41% Glyphosate Concentrate Weed and Grass Killer](https://www.amazon.com/dp/B00ARKS3XO/?tag=p-policy-20)
+###  [1. Compare-N-Save 41% Glyphosate Concentrate Weed and Grass Killer](https://www.amazon.com/dp/B00ARKS3XO/?tag=p-policy-20)
 
 The Compare-N-Save weed killer is a strong wild grass and weed terminator with its fast affecting components.
 
@@ -37,7 +37,7 @@ One of the negative aspects of this liquid, however, is that it does not avert f
 
 Pros: - Very affordable - Fast results - Does not wash off easily, which means that constant reapplication is not necessary Cons: - Needs to be sprayed carefully - Is not pet-friendly - Only kills and does not prevent weed growth
 
-## # [2. Preen Extended Preventer Weed Preventer](https://www.amazon.com/dp/B074J5699N/?tag=p-policy-20)
+###  [2. Preen Extended Preventer Weed Preventer](https://www.amazon.com/dp/B074J5699N/?tag=p-policy-20)
 
 This solution, like the Preen Garden Weed Preventer discussed above, is more of a weed preventer than a weed killer.
 
@@ -53,7 +53,7 @@ The product, like everything else, does have some downsides, too. For instance, 
 
 Pros: - The easy to use jug-handled bottle with a handy flip-top lid makes the application and spraying process very easy - Advanced weed prevention solution - Extremely effective - Lasts much longer than other weed preventing liquids Cons: - Only prevents weed growth and does not kill preexisting weed or grasses - Is not effective on a wide range of weeds and grasses
 
-## # [3. RoundupWeed Gardent & Landscape Preventer](https://www.amazon.com/dp/B077X7XQM8/?tag=p-policy-20)
+###  [3. RoundupWeed Gardent & Landscape Preventer](https://www.amazon.com/dp/B077X7XQM8/?tag=p-policy-20)
 
 The Roundup Landscape Weed Preventer solution is rated as one of the best weed preventing liquids in the market by both experts as well as amateur gardeners.
 
@@ -67,7 +67,7 @@ With so many benefits, it also has some downsides, such as not being animal-frie
 
 Pros: - Keeps weeds and wild grass growth under control - Comes with an easy-to-use applicator - Effective weed prevention - Does not harm any of the desirable plants and flowers Cons: - This product is not animal-friendly - It only prevents weed growth - it does not kill weeds or grasses.
 
-## # [4. Natural Weed Killer (Food Grade Vinegar Ocean Water](https://www.amazon.com/dp/B0714NHR4Z/?tag=p-policy-20)
+###  [4. Natural Weed Killer (Food Grade Vinegar Ocean Water](https://www.amazon.com/dp/B0714NHR4Z/?tag=p-policy-20)
 
 This weed-killing product from Doctor Kirchner is made from water sourced from the oceans and commercial food quality vinegar.
 
@@ -81,7 +81,7 @@ Its fast results will have your garden rid of weeds within 12 to 24 hours since 
 
 Pros: - This weed killer is safe to be used around kids and pets - It is eco-friendly - It is highly effective and produces results within 12-24 hours - Easy application - The product has a long shelf life Cons: - Weeds may grow again after watering sessions and rain spells - Unpleasant smell - Expensive
 
-## # [5. Preen Garden Weed Control & Preventer](https://www.amazon.com/dp/B077NNWYY9/?tag=p-policy-20)
+###  [5. Preen Garden Weed Control & Preventer](https://www.amazon.com/dp/B077NNWYY9/?tag=p-policy-20)
 
 The Preen Garden Weed Preventer liquid focuses more on preventing wild weeds from growing rather than killing them.
 
@@ -91,7 +91,7 @@ This product is well received by gardeners for its easy application process and 
 
 Pros: - It is a time-saving product, as you dont have to worry about your weeding efforts going to waste - Contains strong chemicals that effectively and quickly kill wild grasses and weeds - Ideal for aesthetic mulch areas - Very easy to apply - Long-lasting, and does not wash off easily Cons: - Can be too strong for some plants and flowers - Requires de-weeding before application - Needs to be applied timely and in accordance with the planting seasons
 
-# # Conclusion
+##  Conclusion
 
 So these are all the top-rated weed killer and weed preventing solutions that can help you keep your garden and plants lush, healthy, and weed-free.
 

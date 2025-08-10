@@ -19,7 +19,7 @@ So, is drain [cleaner](https: //pestpolicy. com/best-drain-cleaner/) an acid or 
 
 - However, this post shall delve deeper into this topic by trying to uncover which drain cleaners are the best, and how to choose them. Related: plumber's snakes.
 
-# # Is drain cleaner acid or base? - Blocked [Drains](https://pestpolicy.com/best-shower-drain-cleaner/)?
+##  Is drain cleaner acid or base? - Blocked [Drains](https://pestpolicy.com/best-shower-drain-cleaner/)?
 
 Drains could become clogged from various substances, the most common ones being insoluble solids. Examples include hair, tree roots, and leaves, as well as other solid substances.
 
@@ -29,7 +29,7 @@ The last common cause of clogged drains ( how to snake the drain ) is dirt or co
 
 Related: Apartment Roach Killers
 
-# # What Are Some Of The Most Common Drain Cleaners?
+##  What Are Some Of The Most Common Drain Cleaners?
 
 As we have already mentioned, [drain cleaners](https: //pestpolicy. com/best-drain-cleaner//) can be divided into either acids or bases. Common acids include Hydrochloric acid [HCL] and Sulphuric acid [H2SO4]. The following are some of the most popular bases that can be used as [drain cleaners](https: //pestpolicy. com/how-drain-cleaners-work/).
 
@@ -45,7 +45,7 @@ As we have already mentioned, [drain cleaners](https: //pestpolicy. com/best-dra
 
 6. Ammonium Hydroxide [NH4[OH]
 
-# # Distinguish An Acidic And A Basic Drain Cleaner?
+##  Distinguish An Acidic And A Basic Drain Cleaner?
 
 Before we get to distinguishing between the acidity and the basicity of drain cleaners, it is important to begin easy by understanding what these terms are.
 
@@ -63,7 +63,7 @@ On the other hand, strong bases are located on the opposite end of the spectrum,
 
 Related: Using a Plunger
 
-# # How Do You Choose An Ideal Drain Cleaner?
+##  How Do You Choose An Ideal Drain Cleaner?
 
 Whether basic or acidic, there are certain factors you should put into consideration when choosing your ideal cleaner.
 
@@ -83,7 +83,7 @@ Sulphuric acid has been shown to cause damage to PVC pipes. That does not only m
 
 As a result, you could suffer from respiratory or cardiovascular diseases, not to mention the increase in carbon footprint.
 
-# # Conclusion
+##  Conclusion
 
 Whether you go for acidic or basic drain cleaners, remember that your choice of the most ideal one depends on what you are looking for in a cleaner. Thankfully, there are lots of cleaners in the market, each coming with its strengths and weaknesses.
 

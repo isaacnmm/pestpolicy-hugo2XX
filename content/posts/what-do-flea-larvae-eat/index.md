@@ -19,11 +19,11 @@ What do flea [larvae](https: //pestpolicy. com/what-do-flea-larvae-look-like/) e
 
 **The short answer is** *flea larvae feed primarily on flea dirt, which is(1) adult fleas'feces (or undigested blood) & (2) conspecific (or nonviable) eggs - this is unlike other holometabolous larvae. *
 
-# # What Do Flea Larvae Eat?
+##  What Do Flea Larvae Eat?
 
 These tiny baby fleas will quickly feel running vacuum, footsteps, and vibrations, after which they'll act dead. As hematophagous obligate epiphytes, flea larva doesnt require a host to survive or grow.
 
-## # 1.**Feces**from**Adult Fleas**
+###  1.**Feces**from**Adult Fleas**
 
 Cat [flea larvae](https: //pestpolicy. com/what-do-flea-larvae-look-like/) have mandibles to chew solid organic matter but won't bite on either cats or dogs. As highlighted above, flea larvae primarily feed on flea dirt which is feces (or pre-digested and dried blood) from adult fleas.
 
@@ -39,18 +39,18 @@ Therefore, younger flea larvae will favor the spherule-shaped feces since they a
 
 - Therefore, female fleas will generate more massive feces, which plays a more significant role in parenting and feeding their larvae. Also, female Fleas feed on more blood to balance their body metabolism to allow higher egg production.
 
-## # 2.Non-viable or Conspecific flea Eggs
+###  2.Non-viable or Conspecific flea Eggs
 
 Besides, undigested host blood, fleas will also feed on non-viable (or conspecific) eggs. - For example, a[recent Hsu MHin recent research](https: //pubmed. ncbi. nlm. nih. gov/12510898/)concluded thatnon-viable flea eggs contributed to the proper development of more than 90% of the flea larvae into adults. - But who many such eggs would one larva require.
 
 Scientific evidence varies with the larvae eating from 7 - 20 dead & non-viable flea eggs per flea larvae.
 
-## # **3. Scavenging andCannibalism**
+###  **3. Scavenging andCannibalism**
 
 **Scavenging** Flea larvaemainly live in bedding or the nest where they turn around to scavenge for food in the environment. - They are worm-looking or legless with their mandibles that will be feeding on flea dirt. - Flea larvae will move around (up to 90 cm) in search of food. But, they'll be within16 cm around the flea nest if flea dirt is readily available in that habitat or hatching area.
 
 However, flea larvae have a higher probability of dying if they don't get food in three days.
 
-# # Conclusion
+##  Conclusion
 
 Cannibalistic Tendencies? Finally, flea larvae will also cannibalize (or eat one of their own) larvae that are either injured or weakly. Further, some larva may also eat differentnaked pupae or the larvalcasings that have been shed.

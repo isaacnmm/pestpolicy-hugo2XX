@@ -22,9 +22,9 @@ Check out my compilation on the best shoes for relieving bursitis pain and irrit
 
 Related: [Best Shoes for Heel Pain When Walking](https: //pestpolicy. com/best-shoes-for-heel-pain-when-walking/)
 
-# # Review: 7 Best Shoes for Heel Bursitis
+##  Review: 7 Best Shoes for Heel Bursitis
 
-## # [1. New Balance Men's 411 V2 Walking Shoe](https://www.amazon.com/dp/B00V3MMAFM/tag=p-policy-20)- Shoes for Heel Bursitis
+###  [1. New Balance Men's 411 V2 Walking Shoe](https://www.amazon.com/dp/B00V3MMAFM/tag=p-policy-20)- Shoes for Heel Bursitis
 
 New Balance Men's 411 V2 is one of the best walking shoes for alleviating symptoms of Heel Bursitis. It has excellent heel cushioning, comfort, and support. Bursitis sufferers will highly benefit from the features and technologies of these shoes.
 
@@ -40,7 +40,7 @@ In addition, the bottom of the shoe has a rubber compound that provides reliable
 
 Pros - Provides excellent heel and arch support - Available in various width options - Excellent cushioning - Comfortable - Breathable - Durable rubber outsole - Lightweight Cons - Some people report that they saw a sign of wear after a few months of use Also Read: Best Sandals for Lower Back Pain
 
-## # [2. Dunham Men's Captain Shoe](https://www.amazon.com/dp/B073XQ6XFF/?tag=p-policy-20)
+###  [2. Dunham Men's Captain Shoe](https://www.amazon.com/dp/B073XQ6XFF/?tag=p-policy-20)
 
 Dunham Men's Captain Shoe is a highly versatile boat shoe thats well-cushioned, breathable, lightweight, and stylish. Its one of the best walking shoes for heel bursitis. Its ideal for casual or official wear.
 
@@ -56,7 +56,7 @@ The upper features a luxurious leather material that adds to its stylish design.
 
 Pros - Excellent cushioning - Highly versatile - Stylish - Durable - Lightweight - Comfortable - Accommodates orthotics Cons - May run large Also Read: [Best Walking Shoes for Lower Back Pain](https: //pestpolicy. com/best-[walking-shoes](https: //pestpolicy. com/best-shoes-for-heel-pain-when-walking/)-for-lower-back-pain/)
 
-## # [3. Brooks Women's Glycerin 17](https://www.amazon.com/dp/B07D4117F1/tag=p-policy-20)
+###  [3. Brooks Women's Glycerin 17](https://www.amazon.com/dp/B07D4117F1/tag=p-policy-20)
 
 If youre looking for the best running shoes for heel bursitis then pick the Brooks Women's Glycerin 17. These shoes excellent comfort features and technologies to make your running or walking experience pleasant.
 
@@ -74,7 +74,7 @@ Lastly, the outsole features a durable rubber compound with non-prominent lugs t
 
 Pros - Available in wide width options - Excellent cushioning - Highly comfortable - OrthoLite sock liner provides extra comfort - Reliable traction - Highly versatile - Roomy Cons - Some people reported that the colors on the online platform dont match with the colors of the real shoes
 
-## # [4. Dr. Comfort Men's Therapeutic Dress Shoe](https://www.amazon.com/dp/B00IOT3CAO/?tag=p-policy-20) shoes for Retrocalcaneal Bursitis
+###  [4. Dr. Comfort Men's Therapeutic Dress Shoe](https://www.amazon.com/dp/B00IOT3CAO/?tag=p-policy-20) shoes for Retrocalcaneal Bursitis
 
 If youre looking for the best dress shoe for bursitis pick the Dr. Comfort Men's Therapeutic Dress Shoe. This shoe delivers excellent cushioning, various width options, and extra depth design that allows the use of orthotics. Thus, people with bursitis will benefit from this shoe.
 
@@ -90,7 +90,7 @@ Therefore, if youre in search of a clean, simple, and comfortable dress shoe for
 
 Pros - Excellent cushioning - Comfortable - Accommodates orthotics - Protective toe box Cons - Some reviewers reported that theyre not true to size Also Read: Best Dress Shoes For Back Pain
 
-## # [5. Orthofeet Mens Walking Sneakers](https://www.amazon.com/dp/B07819M2V6/?tag=p-policy-20)
+###  [5. Orthofeet Mens Walking Sneakers](https://www.amazon.com/dp/B07819M2V6/?tag=p-policy-20)
 
 If youre looking for the most stylish and comfortable orthopedic shoe for heel bursitis consider this diabetic walking shoe. The shoe boasts excellent cushioning, support, and the ability to relieve various foot conditions including bursitis.
 
@@ -110,7 +110,7 @@ Moreover, the upper section features a soft yet durable fabric that allows breat
 
 Read Also: Best Walking Shoes for Hip and Knee Pain
 
-## # [6. Skechers Men's Avillo Slip-On Loafer](https://www.amazon.com/dp/B00EIHUQSC/tag=p-policy-20)
+###  [6. Skechers Men's Avillo Slip-On Loafer](https://www.amazon.com/dp/B00EIHUQSC/tag=p-policy-20)
 
 The Skechers Men's Avillo is yet another sneaker for bursitis that boasts excellent cushioning and ample padding around the heel section to soothe bursitis. It is comfortable with a spacious fit to relieve foot pain including bursitis.
 
@@ -124,7 +124,7 @@ The Villo also has a moisture-wicking insole that inhibits the build-up of sweat
 
 Pros - Excellent cushioning - Comfortable - Reliable traction - Durable - Various color options - Wide width options - Slip-on Cons - Runs a little big Also Read: [Best Shoes for Pain On top Of Foot](https: //pestpolicy. com/best-shoes-for-pain-on-top-of-foot/)
 
-## # [7. Rockport Men's Chranson Walking Shoe](https://www.amazon.com/dp/B00FEY3BFS/tag=p-policy-20)
+###  [7. Rockport Men's Chranson Walking Shoe](https://www.amazon.com/dp/B00FEY3BFS/tag=p-policy-20)
 
 The Rockport Chranson is an excellent mens shoe for heel bursitis. It has numerous features and technologies the help to soothe various foot conditions including bursitis.
 
@@ -140,7 +140,7 @@ Youll also appreciate the adjustable lace closure design that allows you to cust
 
 Pros - Excellent cushioning - Comfortable - Incredible shock absorption - Reliable traction - Breathable Cons - Some reviewers reported that the shoe was not as durable as they had expected
 
-# # Conclusion
+##  Conclusion
 
 When looking for the best shoes for heel bursitis you need to keep specific features in mind. For example, shoes with good heel support and arch support ensure that the foot and heel section have proper protection. The upper should encompass mesh, textile, synthetic material, canvas, or leather. The upper should also be lightweight and breathable.
 

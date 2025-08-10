@@ -19,11 +19,11 @@ In this article, I am going to talk about how to get [rid](https: //pestpolicy. 
 
 Are you getting bit in your house are you worried you might have fed bugs or you're worried you might have fleas but you haven't seen any other signs - it might be no-see-ums. A lot of people call them no see ums because you can't see them - they are really teeny tiny mosquitoes. They can fly through the screens if you have a home even with some screened-in windows.
 
-# # How to Get Rid of No-See-Ums
+##  How to Get Rid of No-See-Ums
 
 The biting and blood-sucking no see ums bugs are quite dangerous. You might mistake them for wasps, bees, gnats, or mosquitoes - their features and effects will match those of the biting Midges or No See Ums.
 
-## # Step 1: Identify Noseeums
+###  Step 1: Identify Noseeums
 
 The bugs are very small and you'll find them around the yard, lawn, or your garden. It's critical to correctly identify the noseeums. This is to ensure that you're truly dealing with or controlling noseeums and not just mosquitoes. This will affect the bug-control technique you'll employ. **1. Standing water** - The No See Ums will be around some standing water as they require it for procreation.
 
@@ -37,7 +37,7 @@ com/can-no-see-ums-live-in-my-hair/) ) besides leaving marks that are itchy and 
 
 Thus, homeowners consider it urgent to control the bugs. **4. They have winged hairs** - The bugs also have varied color patterns and winged hairs. It has segmented antennae (15) that it uses to suck blood from wild animals, pets, and humans. The tiny bugs measure about 1/8-inch or under and are grey-colored.
 
-## # Step 2: Noseeums Inspection
+###  Step 2: Noseeums Inspection
 
 Inspecting for noseeums will help you in the bug control phase. This phase helps identify the places ( "hotspots") where the bugs will get attracted to, congregate and breed. **1. Hotspots to inspect** So, if you're wondering about the hotspots to check the noseeums. I noted above that they'll mainly hide around standing water just like with mosquitoes.
 
@@ -57,13 +57,13 @@ After you've identified the breeding area of the no see ums, you'll thus easily 
 
 But before going deeper into the bug treatment, carefully read and adhere to the product label instructions such as putting on the PPEs advised.
 
-# # Step-by-Step: No See Ums Control
+##  Step-by-Step: No See Ums Control
 
-## # Step 1: Removing Standing Water
+###  Step 1: Removing Standing Water
 
 First, before you apply that no see um treatment, you'll require to remove the bug's breeding grounds. So, remove the moisture grounds (and water) including the standing water in and around the house or property. First, drain the yard, unclog the rain gutters, empty the foundations, and turn over the buckets to remove the standing water.
 
-## # Step 2: Use IGRs Treatment
+###  Step 2: Use IGRs Treatment
 
 Nest, you'll need to undertake outdoor no see um treatment using products like Tekko Pro or Reclaim IT IGR.
 
@@ -81,7 +81,7 @@ Further, spray around windows, outdoor lighting fixtures, tree trunks, garages, 
 
 Further. , reapply the no see um treatment within 1-2 weeks to reduce the bug population. But you may require a fogging or misting machine for serious infestations or commercial spaces.
 
-## # Step 3: Treat Indoors Using**Pyrid Aerosol**
+###  Step 3: Treat Indoors Using**Pyrid Aerosol**
 
 To remove no see um in the indoor spaces or also the house, you'll like to use the Pyrid Aerosol. But vinegar plus dish soap can also help in exterminating the bugs.
 
@@ -91,7 +91,7 @@ However, ensure to remove all the food objects like pots, bowls, and glasses. Al
 
 Also, don't let humans or pets get into the sprayed spaces for 15 minutes - and also undertake proper ventilation before allowing living beings into the spaces. Also, wipe those countertops and the eating surfaces.
 
-## # Step 4: No See Um Prevention
+###  Step 4: No See Um Prevention
 
 Some of the no see um prevention steps include: **a. ** Spray Pivot 10 IGR and Reclaim IT prior to the start of the no see um season - especially the time when these bugs are most active in the region. Also, re-apply the insecticides within 1-2 weeks if this is required for an area with massive no see um infestation. **b.
 
@@ -99,7 +99,7 @@ Some of the no see um prevention steps include: **a. ** Spray Pivot 10 IGR and R
 
 I would recommend getting long stockings, long-sleeved shirts and also long pants. **c. ** Fix all the faulty plumbing and leaky faucets to reduce the habitats or hiding spots for the no see um bugs. Also, install some screens on the doors and windows. **d. ** Repair, fix, or reduce any moisture areas in and around the house. Further, check that the rain gutters operate effectively, and remove any buckets that may hold storm or rainwater.
 
-# # Conclusion
+##  Conclusion
 
 The last step on how to get rid of no-see-ums is undertaking appropriate prevention steps.
 

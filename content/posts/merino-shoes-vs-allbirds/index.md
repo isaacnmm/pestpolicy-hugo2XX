@@ -22,9 +22,9 @@ Although Allbirds receive a lot of love because of their excellent comfort featu
 
 Also Read: [Best Walking Shoes for Sweaty Feet](https: //pestpolicy. com/best-[walking-shoes](https: //pestpolicy. com/best-shoes-for-arthritic-hips/)-for-sweaty-feet/)
 
-# # A Personal Testimony Of Merino Shoes Vs. Allbirds
+##  A Personal Testimony Of Merino Shoes Vs. Allbirds
 
-## # Merino Shoes
+###  Merino Shoes
 
 Merino came to be in 2017 in San Diego Australia. Their mission was to produce the most comfortable shoes on Earth using top-quality merino wool.
 
@@ -38,7 +38,7 @@ Furthermore, Merino shoes come in various exciting color options and different s
 
 Some of the things I didnt like about merino shoes include their pricing. I felt the shoes were too expensive compared to the Allbirds. For example, the Giesswein runners cost $129.
 
-## # Allbirds
+###  Allbirds
 
 If youre looking for a comfortable [shoe](https: //pestpolicy. com/best-shoes-for-bunions-and-plantar-fasciitis/) brand thats has received massive positive responses from its users, then pick any Allbird shoe. From the beginning, most if not all Allbirds users have defined the brand by its simple design and amazingly comfortable construction.
 
@@ -50,7 +50,7 @@ Another disadvantage that I have experienced with Allbirds is their sizing; they
 
 The negatives aside, I couldnt imagine that I could actually find shoes that provide both a pillowy or socks-like feel. I didnt experience any irritation or itching on my feet while on Allbirds. The shoes are also lightweight. Therefore, if you want a comfortable shoe thats both casual and stylish, Ill highly recommend Allbirds.
 
-# # Are Merino Shoes Comfortable? Are they worth it?
+##  Are Merino Shoes Comfortable? Are they worth it?
 
 Merino shoes are highly comfortable and yes, they are worth it. Merino shoes come in different designs and many color options. Therefore, anyone looking for a pair of comfortable walking shoes will definitely find one that suits them.
 
@@ -60,7 +60,7 @@ Other than that, Merino shoes have a longer wear period compared to Allbirds. Th
 
 Ive worn both the Merino wool runners and the Merino slip-on. Both of these designs are wide and tall at the forefoot (toe areas). Thus, they offer protection against toe humps. Therefore, they are some of the [best shoes for bunions](https: //pestpolicy. com/best-shoes-for-hammer-toes-and-bunions/).
 
-# # Is Allbirds Comfortable? Are they worth it?
+##  Is Allbirds Comfortable? Are they worth it?
 
 Yes! Allbirds are comfortable and theyre absolutely worth it. The insoles of Allbirds feature merino wool fabric that provides a soft feel that makes you like youre walking on clouds. This wool fabric is also moisture-wicking and helps to inhibit odor.
 
@@ -68,7 +68,7 @@ Other than that, the sole of Allbirds incorporates a low-density foam that ensur
 
 I also loved the fact that my Allbirds can regulate heat properly. During the cold season, my feet would remain warm and when its hot Ill have cool and dry feet. However, when its very hot, my feet would sweat so I have to wear socks.
 
-# # Differences between Merino and Allbirds
+##  Differences between Merino and Allbirds
 
 **Pricing** I felt Merino was a bit expensive compared to Allbirds. For example, I got myself Giesswein runners and slip-ons at a cost of $129 each. On the other hand, my Allbirds costs $95. This means Allbirds is $34 cheaper than Merino. **Aesthetics** I must confess that I have wide feet and while wearing Allbirds you can actually see toe humps especially the big toe hump. However, with Merino, I didnt experience any humps.
 
@@ -78,7 +78,7 @@ If youre wide footed its important you take note. Nevertheless, my colleague has
 
 On the other hand, Merino includes Women's Slip Ons, Women's Lace-Ups, Men's Slip Ons, and Men's Lace-Ups. Merino incorporates various exciting color options and designs. That is not to say that Allbirds are awful. Its a matter of personal preference.
 
-# # Similarities between Merino and Allbirds
+##  Similarities between Merino and Allbirds
 
 **Both Have Difficult Sizing Mechanism** Its tough to select the correct size for both Merino and Allbirds. It would be better to try them in person first before ordering online.
 
@@ -92,7 +92,7 @@ I remember the first day I wore my Allbirds Wool Runners, I couldnt imagine that
 
 However, if youre going to be on your foot for long hours its advisable that you wear socks for enhanced comfort.
 
-# # Conclusion
+##  Conclusion
 
 When it comes to choosing between Merino shoes and Allbirds personal preference may play a role. Overall, I felt Allbirds were a great option for me especially the wool runners. However, I would have loved it more if the toe box was wider. Bottom line is that they are comfortable and supportive. Conversely, I felt the Merino shoes were more structured and well designed. I also felt their toe boxes were a bit constrained just like in Allbirds.
 

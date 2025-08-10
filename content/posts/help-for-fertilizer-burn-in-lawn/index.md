@@ -23,7 +23,7 @@ Understanding what causes fertilizer burn, how to identify its signs, and most i
 
 This comprehensive guide will equip you with the knowledge and actionable steps to tackle fertilizer burn and ensure your lawn remains healthy and thriving.
 
-# # What is Fertilizer Burn?
+##  What is Fertilizer Burn?
 
 Fertilizer burn, often referred to as "nitrogen burn, " occurs when your lawn is exposed to an excessive concentration of soluble salts present in most synthetic fertilizers. While these salts (which carry the essential nutrients like nitrogen, phosphorus, and potassium) are beneficial in proper doses, too much of a good thing can turn toxic.
 
@@ -45,7 +45,7 @@ Slow-release fertilizers are less likely to cause burn.
 
 Understanding these mechanisms helps emphasize the importance of precision and hydration when fertilizing your lawn.
 
-# # Signs of Fertilizer Burn
+##  Signs of Fertilizer Burn
 
 Recognizing fertilizer burn early can minimize the damage and improve the chances of recovery. The signs are usually quite distinct and appear relatively quickly after application.
 
@@ -59,7 +59,7 @@ It's important to distinguish fertilizer burn from other lawn problems. While br
 
 If you suspect fertilizer burn, check your fertilizer records and recent weather conditions.
 
-# # How Do You Treat Fertilizer Burn?
+##  How Do You Treat Fertilizer Burn?
 
 Treating fertilizer burn requires immediate action to mitigate the damage and help the grass recover. Time is of the essence, as the longer the salts remain concentrated, the more severe the dehydration.
 
@@ -83,7 +83,7 @@ You want to thoroughly leach the excess salts deeper into the soil, away from th
 
 6. **Avoid Further Fertilization (Temporarily): ** Do not apply any more fertilizer to the affected areas until the grass has fully recovered or the new seed has established. This could worsen the problem.
 
-# # How Can I Prevent Fertilizer Burn?
+##  How Can I Prevent Fertilizer Burn?
 
 Prevention is always better than cure when it comes to fertilizer burn. By following best practices, you can ensure your lawn gets the nutrients it needs without suffering damage.
 

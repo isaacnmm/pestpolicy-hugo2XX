@@ -19,27 +19,27 @@ Unfortunately, most people dont secure their trampolines, and when a strong wind
 
 You should not wait until a storm comes for you to take action, secure your trampoline now. If possible, when you purchase your trampoline ensure that you also buy appropriate anchor kits.
 
-# # Why Secure Your Trampoline?
+##  Why Secure Your Trampoline?
 
-## # 1. Protects Life and Property
+###  1. Protects Life and Property
 
 When you decide to anchor or secure your trampoline, you are not only protecting yourself and family, but others who might get hurt should the trampoline get carried by strong winds. Unanchored trampolines are a risk hazard and can cause you the unintended expense, should it cause harm to others or even your family. Read Also: Stain For Swing Set.
 
 Nobody desires such a scenario, thats why its crucial to anchor and tie-down your trampoline to protect yourself and others from unintended injuries. Knowing how to secure your trampoline correctly should not happen after severe damage has already occurred.
 
-## # 2. Peace of Mind
+###  2. Peace of Mind
 
 Anchoring your trampoline will give you peace of mind. Knowing that your trampoline is well-rooted, whether you are indoors, or on vacation, you will remain at ease in the face of a storm. You will be sure that everything is in order in your compound, you'll not get cases of injuries or flying trampolines.
 
-## # 3. Saves You Money and Time
+###  3. Saves You Money and Time
 
 When you correctly secure your trampoline, its rare that it will hurt anyone or damage anyones property. Read Also: Stain For Cedar Swing Set. Also, anchoring trampoline will save you from making a new purchase since strong winds and storms are unlikely to destroy it.
 
-# # How To Anchor A Trampoline - Step By Step Guide
+##  How To Anchor A Trampoline - Step By Step Guide
 
 Two different methods can be used to anchor a trampoline: Use of wind stake and Use of purchased trampoline anchors.
 
-## # Method 1: Use Of Stake To Anchor A Trampoline
+###  Method 1: Use Of Stake To Anchor A Trampoline
 
 You Will Need - Concrete, Shovel, Hammer, and Tape measure. Step 1 - Identify where youll want your trampoline located. Place the trampoline in that location so you can mark the positions of the legs. Step 2-After correctly marking the leg positions, move your trampoline so you can get working space. Step 3 -Using the shovel, dig holes in the locations you had marked; ensure that the holes are narrow and broad enough.
 
@@ -47,13 +47,13 @@ Step 4 -Put your wind stakes on the holes, attach the legs of the trampoline, an
 
 Also, this technique is not highly recommendable by experts because when strong winds or storm strikes its likely that the legs of the trampoline will pull away from the cement and still cause damage. It is advisable to use anchoring kits that are made to hold the trampoline down. These wind anchoring kits if well installed have low cases of pulling away or letting the trampoline pull off.
 
-## # Method 2: Use Of Purchased Trampoline Wind Anchors
+###  Method 2: Use Of Purchased Trampoline Wind Anchors
 
 The use of [trampoline anchor kits](https: //pestpolicy. com/best-trampoline-anchors/) is considered the ideal way of anchoring a trampoline. These anchoring kits contain durable spiral steels that help to hold the trampoline down, so they dont get destroyed when harsh weather conditions strike. As a homeowner, you may want a trampoline anchor kit thats dependable, and one that will keep you at ease in case lousy weather strikes.
 
 These anchors are easy to install, and they come with comprehensive instructions, so you get to save time assembling them. Read Also: Swing Set Under 200. First, well discuss the steps you need to follow when anchoring your trampoline, and then well recommend some of the best trampoline anchor kits available on amazon. com.
 
-# # Steps To Follow When Anchoring Trampoline Wind Anchors
+##  Steps To Follow When Anchoring Trampoline Wind Anchors
 
 Step 1 -Go through this [guide](https: //pestpolicy. com/best-trampoline-anchors/), click, and order an anchoring kit that you feel is ideal for you. The decision you make should be dependent on the type of soil in your compound, the size of your trampoline, and the level of wind or storm in your area. Step 2 -Select an appropriate location where the trampoline will be set up.
 

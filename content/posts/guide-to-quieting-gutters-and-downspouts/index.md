@@ -47,7 +47,7 @@ The good news is that most gutter and downspout noise issues are preventable or 
 
 This guide will explore several DIY methods to quiet your noisy gutters and downspouts, from simple tightening and clever tricks to considering more significant solutions. We'll also touch upon when a full replacement might be necessary to finally achieve peace and quiet.
 
-# # DIY Method: Caulk & Rope Trick (or Sponge Method)
+##  DIY Method: Caulk & Rope Trick (or Sponge Method)
 
 This method directly addresses the sound of water drumming inside the downspout or splashing within the gutter trough.
 
@@ -65,7 +65,7 @@ The caulk will adhere the rope to the inside of the downspout, creating a surfac
 
 * **Result: ** These methods disrupt the free fall of water, reducing drumming, splashing, and gurgling noises significantly.
 
-# # DIY Method: Sponge (for noise dampening on metal-on-metal or metal-on-wood)
+##  DIY Method: Sponge (for noise dampening on metal-on-metal or metal-on-wood)
 
 Beyond downspouts, sponges or rubber strips can dampen vibrations in other areas.
 
@@ -75,7 +75,7 @@ Beyond downspouts, sponges or rubber strips can dampen vibrations in other areas
 
 * **Under Downspout Straps: ** If downspout straps are causing rattling against the wall, loosen the strap, insert a small piece of rubber or sponge between the downspout and the wall, and then re-tighten the strap. * **Result: ** Reduces vibrations and rattling caused by direct contact or minor movements.
 
-# # Final Thoughts
+##  Final Thoughts
 
 Noisy gutters and downspouts are more than just an annoyance; they can be indicators of underlying issues that could lead to water damage if left unaddressed. Starting with simple DIY methods like tightening loose fixtures and using sound-dampening tricks can often resolve common noise complaints. However, don't ignore persistent or severe noise, as it might signal a deeper problem with your gutter system's design, installation, or age.
 

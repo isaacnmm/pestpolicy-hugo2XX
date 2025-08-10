@@ -19,7 +19,7 @@ layout: post
 
 Chipmunks dig burrows underground with their paws and create underground rooms for breeding, storage of gathered food and sleeping. **
 
-# # Details: Do Chipmunks Live Underground?
+##  Details: Do Chipmunks Live Underground?
 
 At times, chipmunks may live in channels, chambers, bushes, dig burrows on wood/rocks or even make their own nest. Chipmunks wont live in marshy area. Some will climb trees in search of food.
 
@@ -35,7 +35,7 @@ Some of the underground compartments are reinforced with grass or leaves to crea
 
 You will find diversions leading to various compartments in case you follow a given channel. Chipmunks will enter your home through the wall and borrow your flowerbeds or even sidewalks.
 
-# # **Different Types of Chipmunks  Where They Live?**
+##  **Different Types of Chipmunks  Where They Live?**
 
 According to National Geographic, Chipmunks are the smallest members that are associated to the squirrel family.
 
@@ -45,7 +45,7 @@ These are some species of chipmunks: Eastern [Chipmunk](https: //pestpolicy. com
 
 The Specific shelter for a given species of Chipmunk is determined by the environment in which they are located and proximity to the food source. You will find that Alpine Chipmunks dwell in forest and bushes while Hopi Chipmunk live in burrows dug in open field.
 
-# # **How Many Chipmunks Live In A Burrow?**
+##  **How Many Chipmunks Live In A Burrow?**
 
 In a given underground shelter, you will find 1 to 50 Chipmunk or more. They breed and multiply thus increasing their population.
 
@@ -55,7 +55,7 @@ These animals can even burrow beneath an acre of land to enable them accommodate
 
 Chipmunk dont leave their shelter easily. They communally guard their territory keenly to maintain their survival without being spotted. Their underground burrows can even extent to 1 acre or more.
 
-# # **Do Chipmunks Live In Trees?**
+##  **Do Chipmunks Live In Trees?**
 
 Yes! Chipmunks will make their way to [forest, bush or woodland](https: //blog. nwf. org/2011/12/not-alvin-and-the-chipmunks-10-facts-about-the-real-rodents/) in search of food and hideouts on attack. Some sources of food for Chipmunk such as nuts, seeds, grass, plant matter or birds egg are found on/in trees/forest.
 
@@ -63,7 +63,7 @@ Chipmunks make nest in bushes or burrow wood to create their shelter in the fore
 
 It is important to acknowledge that Chipmunk wont hung like bat on trees. Therefore, they cant sleep on a branch they must make a shelter.
 
-# # How does a Chipmunk Burrow Look Inside?
+##  How does a Chipmunk Burrow Look Inside?
 
 When you dig the ground radially with intentions to view the [chipmunks underground shelter](https: //www. humanesociety. org/resources/what-do-about-chipmunks), you will see/find a long excavated narrow tunnel of varying width.
 
@@ -75,13 +75,13 @@ Two or more narrow channels are dug down way to help drain flooding water. Escap
 
 Chipmunks mainly dig burrows on the hard ground/soil (such as below the tree trunks, buildings/structures) to prevent them from collapsing or water leakage. In addition, they close most of escape routes and inlets to boost its internal security.
 
-# # **What Are Signs Of Chipmunks In Your Area?**
+##  **What Are Signs Of Chipmunks In Your Area?**
 
 The following are signs that shows presence of Chipmunks in your area. 1. Holes in the compound, lawns, field or garden that have freshly dug soil alongside. 2. Heaps of seed leftovers or nutshells. 3. Uprooted garden flowers, bulbs or plants. 4. Chipmunks tracks fine four toes prints (front) and five for hind legs. 5. Burrows on the wood or wall structure from chipmunks. 6. Underneath bird feeders. 7.
 
 Round holes on your vegetable feeding from chipmunks.
 
-# # **How Do I Stop Chipmunks From Digging? **
+##  **How Do I Stop Chipmunks From Digging? **
 
 Yes, Chipmunks burrow ground using their paws. They create a multi-chambers space beneath the earth surface or structure. They works as a group/team or individuals.
 
@@ -95,7 +95,7 @@ Spray fields with cloud ammonia keeps of Chipmunks (expensive) 6.
 
 Call an exterminator (the best option) 7. Set Chipmunks traps. 8. Dont allow bush, trees or thicket grow in your farm, garden or compound it may attract Chipmunk. 9. Use statues that may scare away Chipmunks in your field.
 
-# # **Do Chipmunks Damage Homes? **
+##  **Do Chipmunks Damage Homes? **
 
 Chipmunks are very destructive rodents. They eat bulbs, seeds, nuts and vegetable in your compound, garden or yard.
 
@@ -107,7 +107,7 @@ During burrowing, Chipmunks remove soil beneath structures. This weakens their f
 
 Heaps of nutshells and piles of seed leftovers that are scattered all over create an unclean environment in your lawn or fields.
 
-# # Conclusion.
+##  Conclusion.
 
 Chipmunks can live underground. They dig burrows using their paws to create along underneath tunnel that may extend up to 30 feet.
 
@@ -115,6 +115,6 @@ They make nested chambers with side pockets meant for food storage, food storage
 
 Chipmunks can cause serious damage in your home and need to be controlled using some the options recommended in this article.
 
-# # Sources
+##  Sources
 
 1. [Chipmunk & Ground Squirrel - Wildlife Ecology and Damage](https: //extension. psu. edu/chipmunks) 2. [Chipmunks in the Garden - University of Vermont](https: //pestpolicy. com/) 3. [Golden-Mantled Ground Squirrel or Chipmunk? - UCCE](http: //cecentralsierra. ucanr. edu/files/170223. pdf)

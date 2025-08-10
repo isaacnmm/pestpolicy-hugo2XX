@@ -46,11 +46,11 @@ While they require careful application and may need repeat treatments for persis
 
 This guide will provide practical recipes for making your own nontoxic weed killers, offer essential application tips, and crucially, discuss preventative measures to reduce weed growth in the first place.
 
-# # Ingredients for Homemade Nontoxic Weed Killers
+##  Ingredients for Homemade Nontoxic Weed Killers
 
 The most effective nontoxic weed killers leverage acids and soaps to strip away the plant's protective waxy layer, leading to dehydration.
 
-## # 1. Vinegar (Acetic Acid) Solutions
+###  1. Vinegar (Acetic Acid) Solutions
 
 Vinegar is the most popular base for homemade weed killers due to its acidity.
 
@@ -60,13 +60,13 @@ Vinegar is the most popular base for homemade weed killers due to its acidity.
 
 240 ml) of table salt (optional, but boosts effectiveness by further dehydrating the plant and making the soil inhospitable. **Use with caution near desired plants as salt can persist and sterilize soil. **) * 1 tablespoon of liquid dish soap (acts as a surfactant, breaking the surface tension of the water and helping the solution adhere to the waxy weed leaves, improving absorption. )
 
-## # 2. Boiling Water
+###  2. Boiling Water
 
 The simplest, cheapest, and truly chemical-free method.
 
 * **How it Works: ** The extreme heat instantly ruptures plant cells, causing them to wilt and die. * **Uses: ** Ideal for weeds in sidewalk cracks, driveways, paver patios, or gravel paths where no desirable plants are present. * **Application: ** Carefully pour boiling water directly onto the weed's foliage. * **Caution: ** **Will kill anything it touches. ** Be extremely careful to avoid splashing yourself, children, pets, or desirable plants.
 
-## # 3. Salt Solutions (Use with Extreme Caution)
+###  3. Salt Solutions (Use with Extreme Caution)
 
 While effective, salt's persistence in the soil makes it a last resort for areas where you want absolutely no growth for a long time.
 
@@ -76,7 +76,7 @@ While effective, salt's persistence in the soil makes it a last resort for areas
 
 Do not use in garden beds or near tree roots, and ensure runoff doesn't reach sensitive areas.
 
-# # How To Prevent Weeds From Growing (The Best Strategy)
+##  How To Prevent Weeds From Growing (The Best Strategy)
 
 The most sustainable and effective approach to weed control is prevention. Reducing the conditions that allow weeds to thrive will significantly lessen your workload.
 

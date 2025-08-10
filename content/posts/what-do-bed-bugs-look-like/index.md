@@ -23,7 +23,7 @@ On size, they're about 4 - 5 mm (or 3/16 an inch) - and they somehow slow.
 
 ** Further, the nymphs that have hatched recently will have the size of a pin's head (or apple seed) - they'll be tan or white in color until their feed on blood.
 
-# # How Will I identify those**Bed Bugs?**
+##  How Will I identify those**Bed Bugs?**
 
 **Hiding Locations ** - Clothing, on pets, curtains, mattresses, seams, bedding, beds, and other furniture - they hide at day time. - Bed bugs will hide both in dirty or clean spaces - and thus cleaning will not fully prevent these bugs. - They're excellent in hiding and hence you might only notice their bites - Bed bugs cause red & itchy welts on human skin - but they don't spread diseases.
 
@@ -37,7 +37,7 @@ They find humans through the CO2 smell from their respiration.
 
 **Shape - ** Lenght of 4 - 5 mm (or 3/16 an inch) - You'll only see bed bugs in the daytime during food scarcity (fewer blood meals) or if there are heavy infestations - otherwise the bugs are mainly active at night. - You'll get bed bugs in homes, motels, and hotels - and thus knowhow to vacuum for bed bugs.
 
-# # Signs or Indicators of Bed Bug Problems
+##  Signs or Indicators of Bed Bug Problems
 
 Below are the key indicators of the bed bug problems you'll get in your spaces. **1. Bed Bug Bites** -Bed bug bites may be [confused with mosquito bites](https: //pestpolicy. com/bed-bug-bites-vs-mosquito-bites/). Bed bugs will bite humans on multiple sites that are close together - this differentiates them from mosquito bites. - Bed bug bites mainly happen on exposed skin - especially on the shoulders, arms, necks, and upper body.
 
@@ -57,7 +57,7 @@ Physical evidence** ( flashlight inspection ) - Bed bugs can also be identified 
 
 Use Active monitors ** - To notice bed bugs you can also employ active bed bug monitors with insecticide or traps. These will produce carbon dioxide to attract such bugs.
 
-# # But How did you Get theBed Bugs?
+##  But How did you Get theBed Bugs?
 
 Bed bugs are great hitchhikers - but they won't jump or fly, unlikefleas. Bed bugs don't love hiding in the human body and thus you'll find that on various house objects. - So, you'll simply require to check the cardboard boxes, furniture, and luggage. - Bed bugs may equally survive in your luggage on a plane - and thus they'll easily spread over many world locations.
 
@@ -69,7 +69,7 @@ Since bed bugs tend to spread easily, you'll find these bugs in many places.
 
 - Such places you may pick the bed bugs include concert halls, movie theaters, buses, planes, airport lounges, bars, and coffee shops. - Further, for the city, you can find the bed bugs inlibrary books.
 
-# # Identifying & Treating bites
+##  Identifying & Treating bites
 
 To identify bed bugs - you should know that they are a swollen and red bump that has a dark center. - These bites are grouped together and in a line - they can have hives and blisters. Bed bugs will be on any of your body parts that they'll mainly be on the exposed body parts (especially while you're sleeping) such as face, legs, arms, and hands. - The bite areas could appear like flea or mosquito bites - and they're slightly swollen.
 
@@ -83,6 +83,6 @@ Anti-itch Cream** - First wash the bite areas with some water + soap - this redu
 
 - Also, you can take some diphenhydramine (OTC antihistamine - also known as Benadryl) to help reduce the bite itchiness - but first, try some anti-itch cream.
 
-# # Conclusion
+##  Conclusion
 
 In summary, adult bed bugs will be oval-or flat-shaped but small and wingless (have wing pads, however) with a 4 to 5 mm length. - The brown-colored bugs will turn orange or red as they feed on blood - they're visible with most naked eyes while the nymphs may not be visible.

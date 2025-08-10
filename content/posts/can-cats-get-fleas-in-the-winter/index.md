@@ -19,13 +19,13 @@ The drier regions of the Midwest and Southwest have a "flea season" in some mont
 
 However, the warm environment in the house (due to central heating) allows fleas to stay active even during the cold season and thus attack cats.
 
-# # Warm-blooded hosts (Cats) in Winter
+##  Warm-blooded hosts (Cats) in Winter
 
 [Silverman](http: //www4. ncsu. edu/~jsilver/Silverman%20et%20al%202581. pdf) states that snow (freezing temperatures - over a long time) will kill all fleas' life stages. But adult fleas will live in the warm-blooded hosts. During winter, fleas will have longer life cycles. As part of your general flea control in your home, it's essential to flea treat your cat (and other pets) even during winter.
 
 Ensure to treat all the pet bedding and toys inside and outside the house, mainly using vet-approved flea control solutions. Notably, flea treating the cats will prevent diseases such as anemia caused by severe blood loss (from flea bites) and skin problems. However, as noted earlier, fleas will have a longer life cycle during winter. Therefore, it's critical to be vigilant in the bug control efforts.
 
-# # Temperature
+##  Temperature
 
 Fleas show top activity and reproduction at temperatures between 70-85 degrees range. [Michael Dryden](http: //citeseerx. ist. psu. edu/viewdoc/download? doi=10. 1. 1. 621. 743&rep=rep1&type=pdf) states that fleas will die when the temperature falls under 30. 2 degrees Fahrenheit for over five consecutive days. The optimum temperature for fleas is 70-85 degrees Fahrenheit. However, fleas can also live in warmer or cooler temperatures.
 
@@ -33,13 +33,13 @@ Notably, most fleas will be seen between May and September, which are summer and
 
 However, the fleas pre-adult stages would remain dormant during winter and begin serious activity when the temperature rises.
 
-# # Humidity
+##  Humidity
 
 Fleas will thrive at a 70 percent humidity level. Moisture is critical for fleas' survival because it helps the eggs to hatch and the other stages to grow over the flea life cycle. Fleas will develop, hatch, and survive at temperatures only at a temperature at or above 13C (55. 4F). Flea pre-adult stages will not survive when the Relative humidity drops below 50%.
 
 Therefore, the [fleas larvae](https: //pestpolicy. com/what-do-flea-larvae-look-like/) will opt to hide under thecarpet fibers, moist anddark places.
 
-# # **Flea treating your cat during winter**
+##  **Flea treating your cat during winter**
 
 **Here are the steps to follow while treating fleas (killing or preventing) on your cat. ** 1. *Bathe your cat using an anti-flea shampoo*. Ensure you bathe the cats head, under the body, legs, and tail tool. When your feline friend is all dried now using the topical anti-flea drop such as Advantage or Frontline on the neck region, specifically on areas that the cat cannot lick. Repeat this process 1-2 times every six weeks.
 
@@ -53,6 +53,6 @@ However, ensure to target the belly, forehead, and neck since thats where many f
 
 Ensure to have a basin (half-full) of water with a detergent such as a dishwasher soap where youll drown the fleas - or also use the electronic flea combs.
 
-# # Conclusion
+##  Conclusion
 
 Finally, spray the cat beddings under the carpet and coach using a suitable flea insecticide every two weeks. Use a flea collar on your cat for prevention purposes.

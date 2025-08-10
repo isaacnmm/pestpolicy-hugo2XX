@@ -19,7 +19,7 @@ Fleas are not only irritating and a nuisance to your dog, but they also cause pa
 
 ** Methods that do not harm the environment, such as the use of [Diatomaceous Earth for Fleas](https: //pestpolicy. com/diatomaceous-earth-for-fleas/).
 
-# # **Details: Diatomaceous Earth for Fleas on Dogs**
+##  **Details: Diatomaceous Earth for Fleas on Dogs**
 
 Studies have found that diatomaceous earth has sharp edges that resemble bits of broken glass. The mode of action of DE is mechanical. The diatoms kill insects and parasites by removing the protective outer shell that helps them conserve moisture; they then dehydrate and subsequently die. - DE comes in various forms, [granulated DE, milled DE, and Calcine DE](http: //npic. orst. edu/ingred/de. html).
 
@@ -27,7 +27,7 @@ Studies have found that diatomaceous earth has sharp edges that resemble bits of
 
 **Calcined Diatomaceous earth -** This form of DE is usually heat treated and used in water filtering and explosives manufacture.
 
-# # Benefits of Diatomaceous earth for Dogs
+##  Benefits of Diatomaceous earth for Dogs
 
 **1. Non-toxic ** DE is non-toxic since no chemicals are used. It is safe for humans and pets and hence a suitable alternative for chemical sprays. - It poses no harm to the dog -allow them to sleep on dog beds. **2. Excellent dewormer** DE can get rid of roundworms, whipworms, pinworms, hookworms, and tapeworms in 7 days. - Dogs should be fed for 30 days to effectively eliminate hatching eggs and worms in and out of the stomach.
 
@@ -35,7 +35,7 @@ DE, however, does not effectively eradicate tapeworms. **3.
 
 Healthy Supplement** [Diatomaceous earth](https: //pestpolicy. com/diatomaceous-earth-for-fleas-on-cats/) is rich in minerals like calcium, iron, sodium, silicon, and other minerals. - Feeding it to your dog keeps it healthy and gives it that good neat look. DE is also fit for human beings' consumption, and their benefits are healthy skin, lower blood cholesterol, and good-looking hair and skin.
 
-# # **Diatomaceous Earth dosage & ingredients for Dogs**
+##  **Diatomaceous Earth dosage & ingredients for Dogs**
 
 Granulated DE is readily available in health and pet shops. **** **Dosage ** As earlier pointed out, DE is used in pets to boost digestion and eliminate internal parasites and worms. - Ensure that the DE to be used is food grade. On the amount of DE to give to your dog, consult with your veterinarian.
 
@@ -47,7 +47,7 @@ You can wear a face mask to avoid the dust and gloves inhaling to prevent your h
 
 Store the DE in dry conditions. Damp conditions significantly reduce their effectiveness.
 
-# # **UsingDiatomaceous Earth for Dogs**
+##  **UsingDiatomaceous Earth for Dogs**
 
 Apart from using DE as food, it can be sprinkled to kill fleas and other insects and parasites. For application to dogs, these are the required ingredients: Diatomaceous earth (DE), neem, and Yarrow. All the ingredients should be dry for maximum effectiveness. These are the steps to be followed. **Step 1 - ** Identify areas where you will apply the diatomaceous earth. You should identify where your pets spend most of their time.
 
@@ -63,6 +63,6 @@ Leave the sprinkled DE for several weeks before vacuuming it. **Step 4 - ** Let 
 
 **Step 6 - ** Vacuum the areas where you had sprinkled the DE. The recommended vacuum cleaner is the shop vac- a professional grade. - Vacuuming will ensurethat you have collected any remaining fleas with their eggs, larvae, and pupae.
 
-# # **Conclusion**
+##  **Conclusion**
 
 Apart from being ingested to kill internal worms, diatomaceous can be sprinkled to ensure the flea's menace is eradicated. This is a very recommendable method since no chemicals are in use, making it safe for the pet (dog), you, and the environment.

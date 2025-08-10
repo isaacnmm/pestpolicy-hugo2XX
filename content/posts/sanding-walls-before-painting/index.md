@@ -17,11 +17,11 @@ You can use either a sanding block or some [sandpaper](https: //pestpolicy. com/
 
 So, below I'll discuss the sanding techniques and tips (step by step) that you can follow to effectively smooth those drywall surfaces. You can also use *sand* paper (fine-grit) on the baseboard and ceiling.
 
-# # Materials and Tools required
+##  Materials and Tools required
 
 1. Sanding pole 2. Joint compound 3. Sanding sponge 4. Putty knife 5. 150-grit sandpaper 6. Sanding block 7. Trouble light
 
-# # Step 1: Work with the Sanding tool
+##  Step 1: Work with the Sanding tool
 
 Just like with other [remodeling projects](https: //pestpolicy. com/how-much-does-it-cost-to-paint-kitchen-cabinets/), come with the correct tools to achieve that quality job. So, as noted above, in sanding your drywall - get a sanding paper (150-grit) and hand sander. Besides, get your dust mask (the double-strap type) to protect yourself from dust plus use painting glasses to safeguard your eyes. Use a scarf or hat to keep dust off the hair.
 
@@ -35,13 +35,13 @@ Further, you must control any dust to prevent it from drifting all over the spac
 
 The Sandpaper to use should be 120 - 150 grit (starting) and 180 - 220 for finishing. > See Also: > Deck Sealer for Wood
 
-# # Step 2: Get a Fine-Grit sandpaper
+##  Step 2: Get a Fine-Grit sandpaper
 
 If you have a rough surface before painting, you might think that 80-grit sandpaper would be fast and result in a better surface. This is because joint compounds are soft and lightweight. Therefore, using anding screens or coarse-grit paper will result in unlovable sanding marks. So, use 120 - 150 grit sandpaper to achieve great outcomes - with great fitting.
 
 Get the 120 - 150 grit sandpaper onto your sander - ensure its taut by anchoring it under some clamp.
 
-# # Step 3: Don't Sand Gouges, Fill Them
+##  Step 3: Don't Sand Gouges, Fill Them
 
 Caution, avoid sanding the large ridges and gouges - just trowel an additional joint compound coating on such surfaces as opposed to sand-gouging them. I recommend the same process for the edge of the joints, as excessive sanding could damage the drywall's paper face. Easily and simply trowel some coating (thin) over the seam edges.
 
@@ -49,7 +49,7 @@ Next, you'll just use an additional joint compound to fill up the grooves - the 
 
 > See Also: > Deck Stain for Wood
 
-# # Step 4: Touch up Problematic spots
+##  Step 4: Touch up Problematic spots
 
 Check the spots that are bad using some hand-held light after doing the final finishing with the hand sander, and ensure to cover the whole surface using the joint compound. Use your pencil to mark the bad spots that'll require detailed sanding or filling. Now, use the handheld lamp and shine it parallel to your wall surface to check bad spots. Get your sponge sander and hand sander to easily touch-up the problematic spots.
 
@@ -57,20 +57,20 @@ Mark such spots and depressions that we'll fill - fill them with a joint compoun
 
 Finally, get back to the marked problematic spots and touch them up with some joint compound - and finally re-sand such areas for a smoother surface ready for painting.
 
-# # Step 5: Wall Priming and Sanding
+##  Step 5: Wall Priming and Sanding
 
 Wall sanding following the priming process is a critical aspect you must not skip. Sanding prior to painting will help remove lumps and paper fuzz that would otherwise show through the paint job. Therefore, this step allows one to do away with the imperfections by filling them using your joint compound. Finally, remember to sand plus reprime the touched-up spots. > See Also: > Swing Set Stains
 
-# # Step 6: Sand the Corners Using a Sanding sponge
+##  Step 6: Sand the Corners Using a Sanding sponge
 
 For the corners, use some sanding sponge - don't use a hand sander as it might lead to damage to the corners. You'll not achieve that crisp corner while also causing unwanted gouge scuff. But you can sand around a few inches on your corners using the hand sander. Finally, get your sanding paper or a sanding sponge to touch up your surfaces.
 
 So, to sand your corners using just a sponge as opposed to using the large-sized hand sanders since this could end up gouging your corners.
 
-# # Step 7: Final Light-Sanding
+##  Step 7: Final Light-Sanding
 
 The last step will involve some light-sanding of your surfaces using some light pressure - but don't sand the same spots using the straight-line technique. Such a process may leave unnecessary depression or groove - which will effectively show after you've painted. Avoid sanding on various openings and electrical boxes.
 
-# # Conclusion
+##  Conclusion
 
 Therefore, you'll learn to prevent regular sanding mistakes while also getting the right outcomes on the drywall sanding project. This will clearly be a dusty and tedious job.

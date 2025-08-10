@@ -18,15 +18,15 @@ Landscaping around the base of trees can add beauty, suppress weeds, and retain 
 
 The key to successful landscaping around trees lies in understanding their **critical root zone (CRZ)** and choosing the right plants and materials that coexist harmoniously.
 
-# # Understanding the Critical Root Zone (CRZ)
+##  Understanding the Critical Root Zone (CRZ)
 
 A tree's root system is often much wider and shallower than many people realize. The majority of a tree's fine, water-absorbing roots are found in the top 6-12 inches of soil and can extend far beyond the tree's drip line (the edge of its canopy). This area is the **Critical Root Zone (CRZ)**, and it's vital to protect it.
 
 * **Avoid Deep Digging: ** Even small digs can sever crucial roots. Shallow-rooted plants and minimal soil disturbance are paramount. * **Prevent Soil Compaction: ** Heavy foot traffic, machinery, or adding too much new soil can compact the existing soil, reducing oxygen and water availability to the roots. * **Maintain Oxygen Flow: ** Tree roots need oxygen to survive. Piling excessive mulch or adding deep layers of soil can suffocate them.
 
-# # Do's and Don'ts for Landscaping Around Trees
+##  Do's and Don'ts for Landscaping Around Trees
 
-## # **DO'S:**
+###  **DO'S:**
 
 1. **Assess Your Tree's Health and Roots: ** Before you start, observe your tree. Is it healthy? Are there many exposed surface roots? For large, mature trees, roots can be extensive and sensitive. If in doubt, consult a certified arborist.
 
@@ -50,7 +50,7 @@ A tree's root system is often much wider and shallower than many people realize.
 
 6. **Water Thoughtfully: ** While the tree will take much of the available water, new plantings will need supplemental watering to get established. Water deeply and less frequently to encourage roots to grow downwards.
 
-## # **DON'TS:**
+###  **DON'TS:**
 
 1. **NO "Mulch Volcanoes": ** Never pile mulch high against the tree trunk. This is a common and harmful mistake that traps moisture, encourages pests, and can lead to bark rot.
 

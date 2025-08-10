@@ -21,7 +21,7 @@ If you are a pet lover, you have to be very keen on identifying [fleas](https: /
 
 - As for their color - Are flea eggs Black or white? - fleas vary from being translucent to white -see these pictures of fleas. If you started suspecting your cat or dog is having fleas, there are so many ways to confirm your doubts. Some cats and dogs also have light furs which may make it difficult to trace these flea eggs but you can use the methods listed below to help makes things easier. Related: Will Flea Treatment Burn Cats Skin?
 
-# # What Do Flea Eggs Look Like On A Cat?
+##  What Do Flea Eggs Look Like On A Cat?
 
 What do flea eggs look like to the human eye? Because cats are furry pets, you need to be keen when it comes to identifying fleas and their eggs. This is also applicable to dogs too. These pets are the biggest carriers and breeders of fleas in our homes and any effort to control fleas is a big win for eliminating fleas in your home. - If your cat has pale fur, it may be hard to spot these flea eggs because of their translucent to a whitish color.
 
@@ -31,7 +31,7 @@ In any case, if you had tried using pesticides and flea shampoos to eliminate th
 
 They may change color and also look deflated and dried out with no sign of life.
 
-# # How to Spot Fleas Eggs in Cats and Dogs
+##  How to Spot Fleas Eggs in Cats and Dogs
 
 Flea eggs on bed sheets - First, you can use a flea comb and a clean white piece of paper on your cat or dog. The comb is for scouring through the fur while the white and dark-colored paper is for checking out the fleas and their eggs - you can also use flea drops. - What I like about the flea comb is that it exposes and removes all the fleas and exposing them. - In the case of fleas, it is so easy to sense the danger and jump off.
 
@@ -47,7 +47,7 @@ This is because this diet is made up of blood sucked from the hosts. - Thirdly, 
 
 Their colors may almost be similar to that of flea eggs have a defined shape. Related: Flea Shampoo for Cats.
 
-# # Can You See Flea Eggs On A Cat?
+##  Can You See Flea Eggs On A Cat?
 
 There are particular places in your pet where fleas like to hide. These are also the same place that they lay their eggs and reproduce. - The funny thing with fleas is that once they attach to one host, they hardly leave unless there are some external disturbances. - If your pet is a cat, fleas prefer to hide between the shoulders and also on the backside of the neck. - That way the cat is not able to disrupt them when grooming.
 
@@ -57,7 +57,7 @@ If by chance they are disrupted, they jump off the host and return when it is sa
 
 When pests are grooming, most eggs fall. The itchiness from the bites also causes the eggs to fall. Related: [What do flea eggs look like on a dog](https: //pestpolicy. com/what-do-flea-eggs-look-like-on-a-dog/)
 
-# # How Many Eggs Do Fleas Lay?
+##  How Many Eggs Do Fleas Lay?
 
 Where do fleas lay eggs? Fleas reproduce by laying eggs. When a female matures, it starts to lay eggs even if they are not fertilized. After mating, the female lays eggs that are fertile that hatch into fleas. - A female flea can lay an average of 20-30 eggs in a day and an average of about 180 eggs per week when all the conditions are right. - A flea has a life span of 60-100 days.
 
@@ -65,7 +65,7 @@ With good feeding, fleas increase their fertility rate and can even lay up to 45
 
 Their fertility is greatly enhanced by pet blood while human blood is less nutritious. This means that if there are no pets at home, the fleas lay fewer eggs translating to a smaller population of fleas.
 
-# # Summary
+##  Summary
 
 What do flea eggs look like on a cat? Flea eggs are small and shiny with their color ranging from translucent to a whitish color. - These eggs are laid in the fur of the pets in your homes like cats and dogs. Fleaswill hide behind the neck, on the shoulders, and at the base of the tail to avoid disruption from the pets and humans. - Fleas are more fertile and lay more eggs when they suck blood from cats and dogs than when they suck human blood.
 

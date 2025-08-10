@@ -21,7 +21,7 @@ The challenge lies in accurately identifying the [cause](https: //pestpolicy. co
 
 This guide will equip you with a systematic approach to playing detective in your own yard, helping you pinpoint the exact cause of those troublesome brown spots and paving the way for effective treatment and prevention.
 
-# # How To Find Out What's Causing Brown Spots in Your Grass
+##  How To Find Out What's Causing Brown Spots in Your Grass
 
 Diagnosing brown spots in your lawn requires keen observation and a bit of detective work. Instead of jumping to conclusions, systematically investigate the clues your lawn is providing.
 
@@ -57,7 +57,7 @@ Excessive thatch can prevent water and nutrients from reaching the roots.
 
 By systematically going through these steps, you can gather crucial evidence to narrow down the potential causes of your lawn's brown spots.
 
-# # Human/Animal Damage To Your Lawn
+##  Human/Animal Damage To Your Lawn
 
 Some of the most common brown spots are directly attributable to human activities or animal presence.
 
@@ -81,7 +81,7 @@ Reseed if areas do not recover within 2-3 weeks.
 
 For existing damage, core aeration is essential to break up compaction, followed by overseeding and top-dressing with compost.
 
-# # Poor Growing Conditions
+##  Poor Growing Conditions
 
 Environmental factors and improper cultural practices are frequent culprits behind brown spots.
 
@@ -105,11 +105,11 @@ Improve drainage through aeration, adding organic matter to soil, or installing 
 
 Often, the grass will green up once temperatures cool and rainfall returns.
 
-# # Common Lawn Diseases and Pests
+##  Common Lawn Diseases and Pests
 
 When environmental factors and direct damage are ruled out, lawn diseases and insect pests are strong contenders for the cause of brown spots.
 
-## # Lawn Diseases (Fungal)
+###  Lawn Diseases (Fungal)
 
 Fungal diseases often appear in specific patterns and are exacerbated by certain conditions (temperature, humidity, moisture).
 
@@ -131,7 +131,7 @@ Fungal diseases often appear in specific patterns and are exacerbated by certain
 
 Removing the underlying organic matter is often impractical.
 
-## # Insect Pests
+###  Insect Pests
 
 Insect damage often leads to irregular brown patches as pests feed on roots or blades.
 
@@ -149,7 +149,7 @@ Keeping the lawn well-watered during dry spells can also help deter them.
 
 * **Treatment: ** Insecticides targeting sod webworms.
 
-# # Final Thoughts About Brown Spots in Grass
+##  Final Thoughts About Brown Spots in Grass
 
 Brown spots in your lawn are rarely a mystery that cannot be solved. By adopting a methodical approach to observation and investigation, you can effectively diagnose the root cause, whether it's a simple watering imbalance, damage from an animal, or the onset of a more complex disease or pest problem.
 

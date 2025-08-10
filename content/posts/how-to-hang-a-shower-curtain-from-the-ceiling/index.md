@@ -41,7 +41,7 @@ Ceiling-mounted shower curtain rods create an unbroken vertical line from ceilin
 
 This guide will walk you through the process, providing a step-by-step approach to installing a ceiling-mounted shower curtain rod, transforming your bathroom into a more open and stylish sanctuary.
 
-# # How to Install a Ceiling Mount Shower Curtain Rod
+##  How to Install a Ceiling Mount Shower Curtain Rod
 
 Installing a ceiling-mounted shower curtain rod requires careful planning and precise execution, especially when working overhead.
 
@@ -79,7 +79,7 @@ Use a level to double-check alignment for long, straight runs.
 
 7. **Optional: Caulk Around Holes (If in Wet Areas): ** * If you drilled holes in a ceiling that might be exposed to moisture (e. g. , directly over a shower pan in a walk-in shower), apply a small bead of bathroom-grade silicone caulk around the base of the mounting brackets where they meet the ceiling. This helps seal the drill holes against moisture infiltration.
 
-# # Final Thoughts
+##  Final Thoughts
 
 Hanging a shower curtain from the ceiling is a creative and effective way to elevate the design of your bathroom, making it feel more open, airy, and custom-designed. While it requires careful measurement and secure mounting, the process is well within the capabilities of most DIY enthusiasts.
 

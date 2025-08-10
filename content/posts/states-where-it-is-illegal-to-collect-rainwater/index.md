@@ -37,7 +37,7 @@ While the trend is certainly moving towards encouraging rainwater harvesting, un
 
 This article will define rainwater harvesting, explore the different types of regulations states impose, specifically address the historical context of states where it was once illegal or heavily restricted, and offer closing thoughts on the evolving legal environment of this vital conservation practice.
 
-# # Are There Regulations on Rainwater Harvesting?
+##  Are There Regulations on Rainwater Harvesting?
 
 Yes, there are indeed regulations on rainwater harvesting, and these vary significantly from state to state, and sometimes even by local municipality. While it's rare for a state to outright prohibit *all* forms of rainwater harvesting today, many states impose restrictions or require permits, especially for larger-scale systems or those intended for potable use.
 
@@ -47,7 +47,7 @@ The complexity often arises from two primary legal doctrines concerning water ri
 
 This means that even rain falling on your property might be considered "appropriated" by downstream users. Collecting it could be seen as "taking" water that rightfully belongs to someone else.
 
-## # Historical Restrictions and Evolving Laws: The Case of Western States
+###  Historical Restrictions and Evolving Laws: The Case of Western States
 
 Historically, some western states with strict prior appropriation laws had very restrictive or implicitly prohibited rainwater harvesting, viewing collected water as a "diversion" that deprived downstream users of their allocated water rights.
 
@@ -73,7 +73,7 @@ Even in states where it's generally legal, regulations can vary based on:
 
 * **Local Ordinances: ** Even if state law allows it, your city or county might have specific building codes, plumbing codes, or homeowners' association (HOA) rules that restrict or govern rainwater harvesting. * **Water Rights Area: ** In some areas with complex water rights, even small-scale collection might be scrutinized if it's perceived to impact existing water rights holders.
 
-## # The Trend Towards Encouragement
+###  The Trend Towards Encouragement
 
 Despite historical restrictions, the overall trend in the U. S. is towards **encouraging rainwater harvesting**. Many states and municipalities now offer incentives, tax credits, or educational programs to promote its adoption. This shift is driven by:
 

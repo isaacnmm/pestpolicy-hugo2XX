@@ -21,17 +21,17 @@ In humans, the urination process starts in the kidney while the bladder stores t
 
 Spiders release the waste in a combined form (feces plus urine) through the anus. **
 
-# # Details: Do Spiders Pee? Urinate? 7 Spider FAQs
+##  Details: Do Spiders Pee? Urinate? 7 Spider FAQs
 
 Spiders have malpighian tubules (comparable to mammalian kidneys) that'll remove the nitrogenous waste in form of uric acid. The malpighian tubules will drain into the stercoral pocket (a pouch in its digestive tract). However, unlike human urine, the uric acid is near-solid and won't dissolve in water. Spiders pee-poop that's semi-solid help them avoid losing water through their urine.
 
 In the stercoral pocket, the uric acid is mixed with solid waste coming from the spiders digestive tract to form the semi-solid poop-pee that come out combined through the anus.
 
-# # Conserves Water with Uric Acid
+##  Conserves Water with Uric Acid
 
 Insects and spiders will change their nitrogenous waste into uric acid - which is an insoluble and contains minimal water - as a water conservation method for the spider. Comparatively, flying insects and birds produce dry 'urine'that has uric acid since they avoiding a bladder with water helps them cut their weight. Related: [Do Spiders Have Brains? ](https: //pestpolicy. com/do-spiders-have-brains/)
 
-# # Do Spiders Drink Water?
+##  Do Spiders Drink Water?
 
 Simple answer is, YES, spiders drink water. While in the wild environment, the spiders will drink from droplets on the ground of vegetation. Further, they can drink from evening or morning dew that's hanging on the spider's web.
 
@@ -43,11 +43,11 @@ Definitely, [spiders can't drown](https: //pestpolicy. com/can-you-drown-a-spide
 
 They'll take the water from dew via mound (silk-covered) at the door of their hideout. Some spider species also drink nectar from the garden plants particularly when there are limited water sources such as rain, dew or tap water. Spider species like the whip spider use their pincers to suck water from sources like dew or nectar flowers.
 
-# # Some Spiders Don't Drink Water
+##  Some Spiders Don't Drink Water
 
 The red back and black widow ( while they're not all venomous ), interestingly, don't drink water like humans or other spiders. These spiders get most of their required body fluids from sucking their prey. These are comparable to mammals such as the koalathat don't drink water but derive their fluids from eating eucalyptus (smooth-barked) among other plan leaves. Related: [Do Spiders Have Bones? ](https: //pestpolicy. com/do-spiders-have-bones/)
 
-# # Size of Spider's Pee-Poop
+##  Size of Spider's Pee-Poop
 
 As noted above, spider's poop and pee is mixed together - through their malpighian tubules to eliminate the nitrogenous waste. So, its fact that spiders don't generate urine but will have the near-solid uric acid.
 

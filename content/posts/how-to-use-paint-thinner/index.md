@@ -18,7 +18,7 @@ layout: post
 
 While latex-based primers and paints are convenient and versatile, oil-based primers and paints still are good choices in certain applications. However, if you are going to use oil-based products, you will need to know how to properly use paint thinners or solvents to thin paint, and clean brushes and other equipment when youre done. Keep reading to learn how.
 
-### # OIL-BASED PAINT AND THINNER BASICS
+####  OIL-BASED PAINT AND THINNER BASICS
 
 Oil-based primers and paints have been an industry standard for decades. Oil paints provide good adhesion and good gloss, and are durable, highly resistant to scuffs and scrapes and (when used with a primer) are excellent for blocking stains. Compared to latex paints, oil-based paints also provide better surface penetration, better leveling and they usually dry to a smoother finish.
 
@@ -30,17 +30,17 @@ A number of other solvents can be used to remove paint.
 
 These include acetone, turpentine, naptha, xylene, methyl ethyl ketone (MEK), and denatured alcohol. Before using solvents, check product labels for appropriate use and for any safety considerations.
 
-##### # Safety Alerts!
+######  Safety Alerts!
 
 Wear appropriate safety clothing when working with solvents, including gloves, safety glasses and a respirator. Solvents are toxic to skin, lungs and other organic tissue. When using them, you must protect yourself from inhalation of fumes, ingestion and skin absorption. They can cause headaches, nausea, tiredness and irritability, difficulty concentrating, clumsiness and unconsciousness. Vapors can irritate the lungs, nose and throat.
 
 If working inside, open doors and windows to provide ventilation to the space. A window fan can be used to exhaust vapors from the room. Solvents can be extremely flammable. Keep anything that can cause a spark or other sources of heat far away from containers or even from the room if possible. Vapors can linger for quite some time.
 
-##### # Helpful Tips
+######  Helpful Tips
 
 Paint thinner can remove oil-based paint from brushes and other equipment but only while the paint it still wet. Acetone is often the only solvent that is strong enough to dissolve paint after it has dried. Paint thinners should not be used with latex paints, shellac or lacquers.
 
-### # HOW TO THIN PAINT
+####  HOW TO THIN PAINT
 
 - Step 1: Choose an Appropriate ThinnerBuy a thinner that is appropriate for the type of paint youre using and for the method of application. For example, if you are spraying paint onto a surface, you will need a thinner mixture of paint. Paint thinners for latex paints are not appropriate for oil-based paints and vice versa. Read all label instructions and information.
 
@@ -56,7 +56,7 @@ Mix the paint and thinner for several minutes, checking the consistency periodic
 
 Ensure that the layer of paint is completely covering the surface and that you cannot see the surface underneath it. Also make sure that the paint isnt running or dripping excessively. If the paint is not thin enough, add small amounts of thinner to the mixture and reapply to test.
 
-### # CLEAN BRUSHES AND APPLICATORS
+####  CLEAN BRUSHES AND APPLICATORS
 
 - Step 1: Use the Three-Container MethodUsing the three-container approach avoids waste and potential harm to the environment. First, choose the appropriate solvent to remove the type of paint you used. Brushes used with oil-based paint must be cleaned with paint thinner formulated to remove it. Check the product label to be sure you made the right choice. You can also ask someone at your local True Value hardware store for help.
 

@@ -52,7 +52,7 @@ Beyond their culinary appeal, they are easy to grow, adaptable, and can provide 
 
 This guide will delve into everything you need to know to successfully cultivate edible chrysanthemums, from planting to harvesting, and how to incorporate them into your kitchen.
 
-# # Climate and Growing Conditions
+##  Climate and Growing Conditions
 
 Edible chrysanthemums are cool-season annuals, but their adaptability allows them to be grown in various climates, often extending their season.
 
@@ -70,7 +70,7 @@ Irregular watering can lead to bitterness and bolting.
 
 Consider succession planting in shaded areas during this period or simply take a break. * **Pest Control: ** Aphids and slugs might be common; organic pest control methods will be necessary.
 
-# # Harvesting Edible Chrysanthemums
+##  Harvesting Edible Chrysanthemums
 
 One of the joys of growing edible chrysanthemums is their quick and continuous harvest.
 
@@ -82,7 +82,7 @@ The plant may regrow from the base, especially if conditions are favorable. * **
 
 2. **Harvesting Flowers: ** * The flowers are also edible, with a slightly milder but still distinctive flavor. * Harvest when fully open. Use them as a garnish in salads, soups, or even in teas.
 
-# # Culinary Uses of Edible Chrysanthemums (Shungiku)
+##  Culinary Uses of Edible Chrysanthemums (Shungiku)
 
 The unique flavor of edible chrysanthemums makes them a star ingredient in many Asian cuisines.
 

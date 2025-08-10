@@ -19,7 +19,7 @@ Opossums go through garbage, hunt mice and snakes, and hang around roadkill - wh
 
 So, the question is: do opossums [carry](https: //pestpolicy. com/do-squirrels-carry-ticks/) rabies? **In brief, NO, Opossum/ possums are very unlikely to carry rabies. Opossums' body temperature is too low to inhibit the rabies virus compared to other wildlife like foxes, skunks, raccoons, and bats. **
 
-# # Cold Body Temperature - Do Opossums Carry Rabies
+##  Cold Body Temperature - Do Opossums Carry Rabies
 
 The opossum is just one of the many animals that are immune to rabies.
 
@@ -39,7 +39,7 @@ If you are concerned about your pets and family members contracting the leptospi
 
 Related: Cat Fleas Vs Dog Fleas
 
-# # What does a rabid opossum do?
+##  What does a rabid opossum do?
 
 Rabies is comparably rare in opossums because of their cooler body temperature. But, can possums be rabid?
 
@@ -47,7 +47,7 @@ Well, Yes, the Center for Disease Control notes that Rabid opossums show symptom
 
 Signs of rabies progress in the rabid opossum condition include excessive salivation, self-mutilation, aggression, abnormal behavior, challenges in swallowing & breathing, paralysis, weakness, cerebral dysfunction, & cranial nerve dysfunction.
 
-# # Does Hissing in Opossum Signify Being Rabid?
+##  Does Hissing in Opossum Signify Being Rabid?
 
 Hissing in opossums is not an indicator of being rabid. The sound the animals make can be triggered by a number of reasons, such as when they are mating or fighting with each other.
 
@@ -57,7 +57,7 @@ It also occurs when they get startled and have been known to hiss because their 
 
 Related: Extermination cost for Mice
 
-# # Do Opossums Bite?
+##  Do Opossums Bite?
 
 Typically, opossums may bite when threatened or cornered. They might also bare their teeth in a threat display or hiss as well.
 
@@ -73,7 +73,7 @@ Further, hissing is another defensive behavior that may be exhibited when an opo
 
 It is rare for opossums to bite humans, but it can happen. So people should stay away from wild animals in the wilderness if they are not vaccinated against rabies or other diseases.
 
-# # Which Diseases Do Opossums Carry?
+##  Which Diseases Do Opossums Carry?
 
 Opossums carry a relatively low risk of carrying rabies but they may have **dangerous pathogen and germs** that'll lead to illnesses like leptospirosis.
 
@@ -89,7 +89,7 @@ To avoid leptospirosis - especially from wild animals, stay away from places tha
 
 Related: [How to get rid of raccoons](https: //pestpolicy. com/how-to-get-rid-of-raccoons/)
 
-# # Don't let Opossums into Your Yard
+##  Don't let Opossums into Your Yard
 
 Without proper understanding and preparation, Opossums can pose a risk to domestic pets in your area.
 
@@ -99,7 +99,7 @@ The animal's droppings could contaminate your yard with E-coli or salmonella.
 
 Opossums can also cause a nuisance by attempting to get into trash cans, dog houses, or any small spaces where they would feel safe from predators.
 
-# # The Shy and Reserved Opossums
+##  The Shy and Reserved Opossums
 
 Possums are typically docile, so you can deal with them gently by nudging them away. You can also go towards them and speak in a slow, gentle voice to convince them that you are not any kind of threat. - If they do not move after these actions then try scooping him up by placing your hands under their stomach and lifting upwards slowly.
 
@@ -113,7 +113,7 @@ Opossums are shy and reserved animals that tend to spend the majority of their t
 
 Opossums are fascinating, but they're fearsome predators too. Read more to find out how opossums use their special defense mechanisms against predators while conserving energy and remaining healthy themselves!
 
-# # Conclusion
+##  Conclusion
 
 So, in conclusion, do opossums carry rabies? No, they do not; thanks to their colder bodies that inhibit the rabies virus.
 

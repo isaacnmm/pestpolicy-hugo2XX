@@ -23,7 +23,7 @@ While often associated with cooler climates, broccoli can be successfully grown 
 
 This guide will walk you through the essential steps for growing delicious broccoli, from choosing the right variety to harvesting those prized florets and dealing with common garden challenges.
 
-# # Broccoli Growing Conditions
+##  Broccoli Growing Conditions
 
 Successful broccoli cultivation hinges on providing the right environment.
 
@@ -39,7 +39,7 @@ If your soil is outside this range, amend it with lime (to raise pH) or sulfur/a
 
 * **Nutrient Needs: ** Broccoli is a heavy feeder, particularly requiring nitrogen for leafy growth and phosphorus and potassium for healthy head development.
 
-# # Planting Broccoli
+##  Planting Broccoli
 
 You can start broccoli from seed or purchase young plants (starts).
 
@@ -51,7 +51,7 @@ You can start broccoli from seed or purchase young plants (starts).
 
 * **Planting Depth: ** Plant seedlings slightly deeper than they were in their containers, up to the first set of true leaves. * **Direct Sowing (Cool Climates Only): ** * In areas with very long, cool springs or mild winters, you can direct sow seeds outdoors. * Sow seeds $0. 5-1$ cm ($1/4 - 1/2$ inch) deep, $7-10$ cm ($3-4$ inches) apart. * Thin seedlings to their final spacing ($45-60$ cm / $18-24$ inches) once they have a few true leaves.
 
-# # Growing and Caring for Broccoli
+##  Growing and Caring for Broccoli
 
 Consistent care is key to healthy, productive broccoli plants.
 
@@ -63,7 +63,7 @@ Mulch conserves soil moisture, suppresses weeds, and keeps soil temperatures coo
 
 * **Pest and Disease Monitoring: ** Regularly inspect plants for signs of pests or diseases. Early detection makes control easier. (See Troubleshooting section).
 
-# # Harvesting Broccoli
+##  Harvesting Broccoli
 
 Knowing when and how to harvest ensures the best flavor and encourages continuous production.
 
@@ -75,7 +75,7 @@ Once yellow flowers appear, the quality and flavor rapidly decline.
 
 * Continue to harvest these side shoots as they develop, keeping them picked to encourage more production. * Depending on the variety and growing conditions, you can often harvest side shoots for several weeks or even months.
 
-# # Troubleshooting Common Broccoli Growing Issues
+##  Troubleshooting Common Broccoli Growing Issues
 
 * **Bolting (Premature Flowering): ** * **Cause: ** Too much heat, sudden temperature fluctuations, or insufficient water/nutrients. * **Solution: ** Plant at the right time for your climate, provide consistent moisture, and use mulch to keep soil cool. Choose heat-tolerant varieties if in a warmer region. Once bolted, the head becomes bitter and woody; it's best to remove the plant.
 
@@ -93,7 +93,7 @@ A soil test can identify boron deficiency; if so, apply a small amount of borax 
 
 * **Control: ** Improve drainage, raise soil pH (if needed), practice crop rotation (do not plant brassicas in the same spot for 3-5 years). * **Black Rot: ** Bacterial disease causing V-shaped yellow lesions on leaf edges that turn brown/black. * **Control: ** Use disease-free seeds/starts, rotate crops, avoid overhead watering, remove and destroy infected plants.
 
-# # Types of Broccoli
+##  Types of Broccoli
 
 Beyond the common "Calabrese" heading broccoli, there are other interesting types to explore.
 
@@ -105,7 +105,7 @@ Grown for its pungent leaves, stems, and small, flavorful florets. Does not form
 
 * **Romanesco Broccoli (Romanesco Cauliflower): ** Visually stunning, with fractal-like, chartreuse-green heads. Has a slightly nuttier, earthier flavor than regular broccoli. Requires similar growing conditions but can be more sensitive to heat.
 
-# # Final Thoughts
+##  Final Thoughts
 
 Growing broccoli in your vegetable garden is a highly rewarding endeavor that brings fresh, nutrient-dense produce directly to your kitchen. While it appreciates specific conditionsnamely, cool weather, full sun, and consistent moisturethese are easily achievable with proper planning and diligent care.
 

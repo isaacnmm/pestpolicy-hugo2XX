@@ -19,13 +19,13 @@ To understand how long [pantry](https: //pestpolicy. com/what-causes-pantry-bugs
 
 After noting several pantry bugs in my kitchen, this prompted me to know more about these bugs and how long they live.
 
-# # How long do pantry bugs live? - Pantry Bugs Life Cycle
+##  How long do pantry bugs live? - Pantry Bugs Life Cycle
 
 The life span of pantry bugs totally depends on their species. If you want to know how long a pantry [bug](https: //pestpolicy. com/bed-bugs-vs-other-pests/) live, you first need to know its species.
 
 The most common pantry bugs in our kitchen and stores are moths. But which moths are they exactly? I have analyzed some of these common bugs and for easy identification and listed their life cycles.
 
-## # **1. ****Warehouse Beetle**
+###  **1. ****Warehouse Beetle**
 
 This warehouse beetle is a very common pantry bug in your food store and kitchen. In most cases, you will find it in cereals, flour, cookies, nuts, cornmeal, dried peas, and beans among others.
 
@@ -35,7 +35,7 @@ This beetle is oval in shape and has a reddish-brown color with a yellow pattern
 
 After this metamorphosis, the adult mates and can easily be spotted on light bulbs.
 
-## # **2. ****Indianmeal Moths **
+###  **2. ****Indianmeal Moths **
 
 This is the most common pantry bug in the kitchen. They are commonly found in North America, Europe among other areas. Their common scientific name is *Plodia Interpuctella* You are likely to spot them in your homestead in foods like cereals, rice, dried vegetables and fruits, flour, nuts, candies, and chocolates among others. **Life cycle ** This moth has 4 growth stages-egg, larvae, pupa, and adult.
 
@@ -47,7 +47,7 @@ The full life cycle takes between 30-300 days from egg to an adult moth.
 
 - The adult stage takes between 5-25 days and its major purpose is mating. Surprisingly, the adult moths do not have mouths and are not able to feed. In general, the Idianmeal moth has a life span of 27-300 days.
 
-## # **3. ****Red and Confused Flour Beetle **
+###  **3. ****Red and Confused Flour Beetle **
 
 These are two species of small beetle that are very similar and are reddish-brown in color. The red flour beetle and the confused flour beetle. - To differentiate them the red flour beetle has the last 4 segments enlarged while the confused flour beetle has the last 3 segments enlarged towards the tail. These are a common pantry bug in the United States and mostly attack grains, nuts, and milled cereals.
 
@@ -59,11 +59,11 @@ These larvae feed grain kernels and slowly turn into white pupae. As the pupae g
 
 The adult stage feeds and mates and the cycle continues.
 
-# # How to Control Pantry Bugs
+##  How to Control Pantry Bugs
 
 Most pantry bugs have a very fast multiplication rate-they lay eggs in hundreds and have a very short to average life span. Moreover, some bugs can survive for many days without feeding making it a challenge to control them.
 
-## # **1. Use of Pheromone Traps. **
+###  **1. Use of Pheromone Traps. **
 
 The pheromone stick traps are some of the best ways to control pantry bugs. They are useful if there is already an infestation in your kitchen and food store. - If you have already spotted moths and beetles in your stores, it's a clear indication that there is a high infestation that needs to be stopped. - Pheromone traps play an important role in stopping any further reproduction and multiplication of the bugs.
 
@@ -71,19 +71,19 @@ It is also chemical-free and also safe for use in your household.
 
 You can find these traps in the local retailers.
 
-## # 2. Proper Sealing and Sanitation
+###  2. Proper Sealing and Sanitation
 
 Most pantry bugs enter the foods and drugs because of the poor and open packaging. The moment they get inside they get a good chance to feed and multiply.
 
 By keeping your foods tightly sealed and in a properly sanitized area, you are able to control any infestation of your food.
 
-## # **3. Disposing of the already infested foods **
+###  **3. Disposing of the already infested foods **
 
 If your food is already infested with pantry bugs, sometimes the best way to prevent any further infestation is through disposing of it.
 
 Disposing of will also prevent any risk of consuming the pantry bugs which could pose a health risk.
 
-# # Final Thoughts
+##  Final Thoughts
 
 How long do pantry bugs live? Well, there are different kinds of pantry bugs and their life span depends on the species and their life cycle. - Some bugs are destructive at certain stages of the life cycle-say larvae and others at another stage-say adult. - If you spot these pantry bugs in your home, you can also take a physical action and employ the control measures listed above to stop their further spread.
 

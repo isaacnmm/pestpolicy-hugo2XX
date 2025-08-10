@@ -20,11 +20,11 @@ With excellent quality, amazing buttons, and response time, youll find the DualS
 
 # Dualshock 4 Controller Review
 
-# # **Trackpad **
+##  **Trackpad **
 
 DualShock 4s touchpad is the small surface that you can swipe and press, akin to the laptop touchpad. The Track in DualShock 4 comes with one general click. > However, developers are now able to map the Track to various buttons. For instance, the OWL drone in Shadow Fall can maps different sides to the Track to have varied effects.
 
-# # Share button
+##  Share button
 
 DualShock 4 features better rumble functions and the Share button that would enable you to upload or share live video commenting. > The multi-finger touch function can provide you with additional input technique to use in many system and in-game navigation situations having precise and detailed movements. Its analog sticks are smooth and responsive which will, enhance your gaming.
 

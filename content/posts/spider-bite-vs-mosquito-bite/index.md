@@ -22,9 +22,9 @@ On the other hand, mosquito bites mainly result in itchy, pink & raised skin bum
 
 ** So, when you know what's in your yard - and control it well - it'll be easy to control the bugs as you enjoy your outdoor sports, picnics, pool parties, and barbecues without those annoying insect bites. Related: Bed Bug Bites versus Mosquito Bites
 
-# # Details: Spider Bite vs Mosquito Bite; What Bit Me?
+##  Details: Spider Bite vs Mosquito Bite; What Bit Me?
 
-## # 1. Different in Bite Appearance?
+###  1. Different in Bite Appearance?
 
 *a. Mosquito bite* Mosquito bites to animals and humans mainly come from their females to get that blood meal - enabling great egg production. - Using their proboscis (mouthpart), mosquitos pierce your skin and suck blood. - Its saliva causes your skin to itch and bump. For some people, the effect is more strong redness, soreness, and swelling.
 
@@ -42,7 +42,7 @@ For the brown recluse, the spider bite symptoms will include; - The Bite area wi
 
 - Pus-producing blisters - Swollen and red skin - Hardened bite-area skin - Severe headache that beings shortly after getting bitten - and the headache could remain active for about a week.
 
-## # 2. Causes High-Risk** i**llnesses?
+###  2. Causes High-Risk** i**llnesses?
 
 *a. Mosquito bite* Mosquito bites will result in pink, red & rounded, plus itchy bumps. But this bite could result in severe illnesses like eastern equine encephalitis (EEE), malaria, West Nile virus, and Zika virus. Zika virus will, for many humans, result in a flu-like illness. However, newborns from mothers infected with this virus could get microcephalybirth defects. The [CDC notes](https: //pestpolicy.
 
@@ -64,7 +64,7 @@ So, which spider species will be venomous to humans? From the over 60 spider spe
 
 - **Black widows -**These back window species will mainly occupy the outhouses, fence, woodpiles, and building eaves (overhangs) - and largely occupy the Southern & Western U. S. Their belly has an hourglass shape that is colored red.
 
-# # The difference in Treatment of Spider and Mosquito Bites
+##  The difference in Treatment of Spider and Mosquito Bites
 
 After identifying that bite, it's important to use the right technique to treat the various bug bites. **Treating Spider Bites: ** - Begin by quickly locating that spider which bit you. You might need to search those hiding or dark areas - this will help you identify if the bite is toxic. - For toxic spider bites such as from Brown recluse or Black Widow spider, you'll require emergency medical treatment.
 
@@ -72,6 +72,6 @@ After identifying that bite, it's important to use the right technique to treat 
 
 - For those with no sensitive skin or even younger kids, you can use calamine lotion - Further, for mosquito bites, you may use some mild treatments such as honey, tea bags, and ice. In summary, compared to mosquito bites, some of the spider bites will be more toxic and life-threatening. But with mosquito bites, it's important to take appropriate prevention steps while also controlling the resulting diseases plus easing the biting pain.
 
-# # Conclusion
+##  Conclusion
 
 On spider bite vs mosquito bite, in summary, that unsettling bite bump on your body could be from a mosquito or spider. Spiders bites that are largely poisonous are the tarantula, hobo spider, black widow, and brown recluse. - But mosquitoes will bite even when they're not threatened - mosquitoes aim to suck mosquitoes for reproduction and nutrition.

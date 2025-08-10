@@ -19,7 +19,7 @@ The idea that possums eat cats is largely a misconception. Possums, being opport
 
 This article explores [possum](https: //pestpolicy. com/do-possums-eat-chickens/) behavior, their dietary preferences, and the nature of their interactions with domestic cats, offering reassurance to pet owners and tips to prevent unwanted encounters.
 
-# # Possum Diet: What Do They [Eat](https://pestpolicy.com/do-cats-eat-lizards/)?
+##  Possum Diet: What Do They [Eat](https://pestpolicy.com/do-cats-eat-lizards/)?
 
 Possums are omnivores, which means they eat a [variety of plant and animal matter](https: //pestpolicy. com/what-do-opossums-eat/). Their diet is highly opportunistic, often dictated by what is easily available in their environment.
 
@@ -29,7 +29,7 @@ They are scavengers by nature, which means they are more likely to feed on what 
 
 The key to understanding their dietary habits is that possums are not hunters in the traditional sense. Instead, they forage and will eat whatever is most accessible and easy to catch or find, including plant material, insects, and small animals.
 
-# # Possums and Cats: Understanding the Interaction
+##  Possums and Cats: Understanding the Interaction
 
 The idea that possums eat cats is largely a myth. Cats are much larger than most of the typical prey items that possums eat. In fact, adult cats are far too big and capable of defending themselves, making them an unlikely target for a possums diet.
 
@@ -49,7 +49,7 @@ Defensive Reactions**: If a cat and possum were to get into a confrontation, the
 
 Possums often employ a defense mechanism known as "playing possum, " where they feign death to avoid aggression from predators. In some cases, if a possum feels cornered, it may hiss, growl, or show its sharp teeth to scare off a potential threat, but it would not go on the offensive unless absolutely necessary.
 
-# # Why Possums Aren't a Threat to Cats
+##  Why Possums Aren't a Threat to Cats
 
 There are several reasons why possums dont pose a significant threat to cats: 1. **Size and Strength**: Adult cats are generally larger, faster, and stronger than possums. In a physical altercation, a healthy cat would likely come out on top, or at the very least, would be able to escape without serious injury. 2. **Behavioral Differences**: Cats are predators by nature and tend to be territorial.
 
@@ -57,7 +57,7 @@ On the other hand, possums are scavengers and generally prefer to avoid confront
 
 While they may consume carrion if they find it, this is far different from actively seeking out and killing a cat for food. Related: Do possums carry rabies.
 
-# # What Should Pet Owners Do?
+##  What Should Pet Owners Do?
 
 While possums dont pose a direct threat to cats, pet owners may still want to take precautions to minimize interactions between the two animals. Here are a few tips: - **Keep Pet Food Indoors**: Avoid leaving pet food outside, especially overnight, as it can attract possums and other wildlife. - **Secure Garbage Cans**: Since possums are scavengers, they may try to get into unsecured garbage cans.
 
@@ -65,7 +65,7 @@ Keeping lids tightly closed will discourage them from foraging in your yard.
 
 - **Supervise Pets Outdoors**: While possums arent likely to harm your cat, its always a good idea to supervise your pets when theyre outdoors, especially at night when possums are most active. - **Eliminate Attractants**: Possums are drawn to food sources, so removing things like fallen fruit, bird feeders, and compost piles can help prevent them from frequenting your property.
 
-# # Conclusion
+##  Conclusion
 
 In conclusion, the notion that possums eat cats is largely unfounded. While possums are opportunistic feeders and scavengers, their natural diet does not include live, healthy cats. - They are more likely to forage for fruits, insects, and small animals or scavenge for dead animals. Interactions between possums and cats are usually driven by competition for food rather than predation.
 

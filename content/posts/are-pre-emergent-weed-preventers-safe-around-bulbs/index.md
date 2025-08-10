@@ -50,7 +50,7 @@ The answer, like much in gardening, is nuanced. While many [pre-emergent](https:
 
 This guide will delve into the science behind pre-emergent weed preventers, clarify their safety around various types of bulbs, and provide best practices to ensure your spring blooms emerge unhindered by both weeds and unintended chemical harm.
 
-# # The Safety of Pre-Emergents Around Bulbs
+##  The Safety of Pre-Emergents Around Bulbs
 
 The good news is that **most pre-emergent weed preventers are generally considered safe to use around established spring-flowering bulbs. **
 
@@ -58,7 +58,7 @@ The good news is that **most pre-emergent weed preventers are generally consider
 
 * **The Key Nuance: ** While generally safe, timing and product selection are critical to avoid unintended harm.
 
-# # Timing of Application: Crucial for Success
+##  Timing of Application: Crucial for Success
 
 Applying pre-emergent at the right time is paramount for effectiveness and bulb safety.
 
@@ -74,7 +74,7 @@ This means applying **before the soil temperature consistently falls below $13^\
 
 3. **For Perennial Weeds: ** Pre-emergents are ineffective against established perennial weeds (e. g. , dandelions, clover, bindweed) that sprout from existing root systems, not seeds. You'll need different control methods for these.
 
-# # Alternative and Complementary Weed Control Methods for Bulb Beds
+##  Alternative and Complementary Weed Control Methods for Bulb Beds
 
 Even with pre-emergents, a holistic approach is best.
 

@@ -55,7 +55,7 @@ This guide explores the best methods for tiling a shower niche beautifully and p
 
 Avoiding bullnose isn't just a design choice; it's often a necessity as many popular tile styles, especially large format porcelain, natural stone, or certain glass tiles, do not come with matching bullnose pieces. Mastering alternative edging techniques ensures a seamless, high-end look that complements your overall bathroom design.
 
-# # How to Tile a Shower Niche Without Bullnose: In Conclusion
+##  How to Tile a Shower Niche Without Bullnose: In Conclusion
 
 Tiling a shower niche without bullnose offers a fantastic opportunity to elevate your bathroom's design with a sleek, modern, and seamless aesthetic. While the mitered edge approach demands the highest level of skill and precision, the result is undeniably sophisticated. For a more practical yet still highly contemporary finish, metal tile edge trim provides excellent edge protection and a clean line.
 

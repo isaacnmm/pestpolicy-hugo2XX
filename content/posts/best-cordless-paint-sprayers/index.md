@@ -19,9 +19,9 @@ The [best](https: //pestpolicy. com/best-cordless-cultivators-for-a-small-garden
 
 Also, you won't require air compressors in pressuring plus atomizing the paint thanks to [airless cabinet sprayers](https: //pestpolicy. com/best-airless-paint-sprayer-for-cabinets/). Further, HVLP sprayers are effective and cost-effectively without the need for air compressors. You'll love the handheld and cordless paint prayers with some using lithium-ion batteries.
 
-# # 7 Best Cordless Paint Sprayers
+##  7 Best Cordless Paint Sprayers
 
-## # [1. Graco Ultra-Cordless 17M363 Airless Hand-held Paint Sprayer](https://www.amazon.com/dp/B071CW2SV2/?tag=p-policy-20)
+###  [1. Graco Ultra-Cordless 17M363 Airless Hand-held Paint Sprayer](https://www.amazon.com/dp/B071CW2SV2/?tag=p-policy-20)
 
 Graco Ultra-Cordless 17M363 is a suitable hand-held sprayer that's powered via a DEWALT XR System (Lithium Ion). You won't require thinking and will give excellent speed for an airless finish. T he sprayer uses appropriate Spray Tips (the RAC X FFLP model) - actually one of the best cordless models with 500-2000 PSI.
 
@@ -35,7 +35,7 @@ Further, the sprayer creates a very even paint coat on your walls. The device is
 
 The sprayer will give the surfaces an airless finish. - Powerful cordless sprayer yet very lightweight and thus simple to handle - DeWALT battery is super reliable on the cordless sprayer for longer runtime on a single charge - The device's reverse tips will make it easy to spray your gadgets and surfaces with limited clogging issues. Cons: - Not approved in sprauinglacquer paint
 
-## # [2. Graco TC Pro Quality Airless Cordless Paint Sprayer](https://www.amazon.com/dp/B074SKGF5B/?tag=p-policy-20)
+###  [2. Graco TC Pro Quality Airless Cordless Paint Sprayer](https://www.amazon.com/dp/B074SKGF5B/?tag=p-policy-20)
 
 Graco TC Pro is a suitable cordless sprayer that'll work even with unthinned paint plus has a suitable lithium-ion battery (the 20-Volt MAX XR brand) for a great finish at lower pressure. W ith this device, you can spray in many directions including upside down. Its carbide pistons are durable and hence it makes the prayer to be very reliable. See also this [mold preventing paints](https: //pestpolicy. com/best-exterior-paint-to-prevent-mold/).
 
@@ -47,7 +47,7 @@ Due to its high portability, you can move the paint sprayer between rooms in the
 
 - Has a charger, DeWALT battery, 60 mesh filter, VacuValve caps, flex line bags, and a 514 reversible tip. - Veryadjustable and will easily sprayer using unthinned paints - Sprays in various directions like upside down - The device has a pump that's triple piston created using carbide pistons - it's highly durable. - Easily change the sprayer's pressure devoid of nozzle switches thus allow uninterrupted painting. Cons: - Costly
 
-## # [3. Spraytech 0518080 Spray-Max HVLP Stain or Paint Sprayer](https://www.amazon.com/dp/B003PGQI48/?tag=p-policy-20)
+###  [3. Spraytech 0518080 Spray-Max HVLP Stain or Paint Sprayer](https://www.amazon.com/dp/B003PGQI48/?tag=p-policy-20)
 
 Spraytech 0518080 employs low-pressure and high volume technology that'll effectively atomize the paint to form fine particles and hence create some smooth surface finishes. S praytech 0518080 is suitable for most DIY projects including woodworking projects, furniture, decks, door trim, staining or straining, painting, and priming cabinets.
 
@@ -57,7 +57,7 @@ The device's two-stage turbine will effectively work with various materials on s
 
 Pros: - Employs low-pressure and high volume technology - Produces a perfect coating and very smooth surface finishes - Excellent for spraying various DIY projects including furniture, indoor projects, anddeck maintenance. - Its two-stage turbine is very powerful to paint using different materials. - Employs HVLP technology Cons: - Not approved for latex paint
 
-## # [4. Graco 16N657 True-Coat Pro II Cordless latex & acrylics Paint Sprayer](https://www.amazon.com/dp/B00B5WA4YE/?tag=p-policy-20)
+###  [4. Graco 16N657 True-Coat Pro II Cordless latex & acrylics Paint Sprayer](https://www.amazon.com/dp/B00B5WA4YE/?tag=p-policy-20)
 
 Graco 16N657 True-Coat won't need thinning of painting materials. Also, you can get better consistency by adjusting the spryer's pressure to give an even staying pattern. G raco 16N657 True-Coat comes with a Lithium-Ion Battery (20V) that promotes portability while also being comfortable on the hands. Its suction tube (Tilt-N-Spray) enable full-range spraying.
 
@@ -69,6 +69,6 @@ I consider the paint sprayer great for working on touch-ups and smaller jobs inc
 
 - Its piston-pump build promotes its motion and makes it compact and easy to handle - Simple to spray - its portable and hence will reach the various nooks or crooks. Cons: - Costly
 
-# # Conclusion
+##  Conclusion
 
 On the best cordless paint sprayers, check the power or output level of your device. While at it, getting a model having an energy saver will be a great plus.

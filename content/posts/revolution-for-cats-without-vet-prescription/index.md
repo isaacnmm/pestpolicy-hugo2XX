@@ -19,7 +19,7 @@ I, like many other pet owners, prefer getting effective and safe flea medication
 
 So, let's get started with Revolution flea killer for cats!
 
-# # Details: Revolution for Cats without Vet Prescription
+##  Details: Revolution for Cats without Vet Prescription
 
 Besides protecting your cat from [fleas](https: //pestpolicy. com/cat-fleas-vs-dog-fleas/), Revolution also controls and treats ear mite infestations, hookworm infections, and roundworm infections. - Therefore, this will be an advantage since most pet owners do not pay attention or control these parasites. In addition, customer reviews for the non-prescription flu medication are just as effective as the prescription-based remedies.
 
@@ -29,7 +29,7 @@ So, getting the Revolution Plus medication to kill fleas but without prescriptio
 
 Related: Capstar Flea Tabletsfor Large Dogs
 
-# # Controlling Fleas on Cats Using Frontline Plus Flea Medication
+##  Controlling Fleas on Cats Using Frontline Plus Flea Medication
 
 Frontline Plus is an excellent and effective oral flea treatment that won't require the prescription of a vet. - You can purchase Frontline Plus without a prescription to kill pests includingear mites, chewing lice, heartworms, ticks, roundworms, ringworms, flea larvae, flea eggs, and adult fleas. - Frontline Plus tends to kill the bugs including fleas and ticks within around 18 48 hours.
 
@@ -39,7 +39,7 @@ I recommend using FRONTLINE HomeGard for flea control in the house (also kills f
 
 https: //m. youtube. com/watch? v=HFEKYcXFWPM Revolution Plus contains Sarolaner and Selamectin, active ingredients to kill flea larvae and eggs around your house. - Further, Revolution Plus will also provide your cat with fast relief from flea allergy dermatitis.
 
-# # Buying the Non-Prescription Revolution for Cats
+##  Buying the Non-Prescription Revolution for Cats
 
 Simply drop some of the revolution plus medication on your pet's shoulder and it will exterminate all the external and internal parasites. There are different factors to take into thought as you are starting the journey to flea treatment using revolution Plus. - Failure to consider these may lead to causing harm to the cats health.
 
@@ -47,21 +47,21 @@ First, ensure to cover and protect yourself the best you can as you are [treatin
 
 - For example, if you aren't well protected, the fleas may jump from the pet onto your skin. Also, conduct a thorough inspection of the pet (for the hotspots of the fleas) prior to applying the revolution flea treatment. - Finally, avoid over-applying the flea medication as this could lead to skin burning and irritation.
 
-## # 1. Pets weight
+###  1. Pets weight
 
 As you are starting the flea treatment journey, determine the weight of the pet and the appropriate dosage. - It's important that you don't miss or exit the dosage you offered to your cat. Also, experts recommend that you Revolution, cats that are 6 + weeks old and only administer it once a month.
 
-## # 2. Active ingredients
+###  2. Active ingredients
 
 Before you purchase a flea treatment from the local stores you must check the active ingredients. - For example, if your cat has a specific allergy, ensure to check if the product's active ingredients will affect them. Further, examine if the dosage of the active ingredient in the products is appropriate for your cat. Also, check on the safety of the products' active ingredients, comparing them to the health, age, and weight of the cat.
 
-## # 3. Products expiry date
+###  3. Products expiry date
 
 Another consideration to make as you're purchasing the revolution flea killer is the product's expiry date. You are responsible for checking the expiry date of the revolution flea treatment and ensuring that it won't harm the health of your cat. Manufacturers and stockists can play tricks when it comes to non-prescription revolution flea Killers. - So check the product's expiry date label and if it is not there take that pack.
 
 Besides you should purchase revolution and other cat products from a reliable and trusted brand. This is because brands that are keen to maintain their name will always stalk quality and original products including pest Killers.
 
-# # A sneak peek into fleas on your Cat
+##  A sneak peek into fleas on your Cat
 
 Fleas follow the same life cycle and stages as butterflies. But why do you love butterflies and hate fleas? - First, fleas will bite pets and humans to leave them with pain and even infections that may affect their health. Also, fleas are quite challenging to control due to their hardness as they will survive even at 37 degrees Fahrenheit.
 
@@ -75,6 +75,6 @@ Usage directions for evolution Plus in treating fleas For safety purposes, you m
 
 However, even if the pets have ear mites inside their ears, you must not apply revolution class inside the ears. - As noted earlier, Revolution Plus is only formulated for application externally on your pet's skin and you must not massage it. Finally, remember to keep the Revolution class away from any fire or heat sources since it is flammable.
 
-# # Conclusion
+##  Conclusion
 
 We all love our pets and the advice that they give but sometimes require non-prescription medication for emergency or convenience purposes. - So, the non-prescription Revolution Plus for controlling fleas in cats is a great savior. Besides, revolution plus will also help exterminate intestinal worms, ear mites, and heartworms.

@@ -22,9 +22,9 @@ The primer prevents tannin-bleeding through paint on cabinets made from woods li
 
 You can use the primers (with hardened Enamel) on woodwork, metal, windows, and doors.
 
-# # s: Top 7 Best Oil Based Primer for Cabinets in 2025
+##  s: Top 7 Best Oil Based Primer for Cabinets in 2025
 
-## # [1. KILZ High-Hide Premium Sealer, Latex Primer & Interior Stain Blocker](https://www.amazon.com/dp/B0002YOZZU/?tag=p-policy-20)
+###  [1. KILZ High-Hide Premium Sealer, Latex Primer & Interior Stain Blocker](https://www.amazon.com/dp/B0002YOZZU/?tag=p-policy-20)
 
 KILZ High-Hide Premium is a great primer for blocking stains. It'll adhere to and seal the cabinet surfaces - It'll give a smooth texture and adheres well on bare wood, plaster, and drywall.
 
@@ -38,7 +38,7 @@ Pros: - Prevents mildew growth due to having mildewcide - Great for use on exter
 
 Cons: - Costly primer
 
-## # [2. Rust-Oleum 1976730 Water-based acrylic Painters-Touch Latex](https://www.amazon.com/dp/B000C02BLE/?tag=p-policy-20)
+###  [2. Rust-Oleum 1976730 Water-based acrylic Painters-Touch Latex](https://www.amazon.com/dp/B000C02BLE/?tag=p-policy-20)
 
 Rust-Oleum 1976730 will work well for your outdoor and indoor priming project including on unglazed ceramic, masonry, plaster, and woo - long-lasting, resist chips, and low odor.
 
@@ -50,7 +50,7 @@ Pros: - Creates that smooth finish on the surface - Chipping and cracking won't 
 
 Cons: - Messy primer
 
-## # [3. Zinsser 03504 Cover-Stain Exterior/ Interior Oil Primer](https://www.amazon.com/dp/B000BZX6B4/?tag=p-policy-20)
+###  [3. Zinsser 03504 Cover-Stain Exterior/ Interior Oil Primer](https://www.amazon.com/dp/B000BZX6B4/?tag=p-policy-20)
 
 Zinsser 03504 is an excellent Exterior or Interior oil-primer that's loved by beginners. The mold- and mildew-resistant primer will work wonders on your wooden.
 
@@ -62,7 +62,7 @@ It'll stop the tannin bleed, oak cabinets, and seals the surfaces. Pros: - Incre
 
 Cons: - Non-mildew-resistant.
 
-## # **4. KILZ-Restoration Odor and Stain Maximum Blocking Latex Interior Primer**
+###  **4. KILZ-Restoration Odor and Stain Maximum Blocking Latex Interior Primer**
 
 KILZ-Restoration or popularly known as KILZ MAX is an excellent kitchen cabinet primer that the market offers. It works effectively for vintage cabinets - blocking most stains that arising from prolonged usages.
 
@@ -82,7 +82,7 @@ Dampening the floor regularly reactivates the pee smell - despite thorough clean
 
 Cons: - Not approved for interior cabinets.
 
-## # **5. Zinsser B-I-N Shellac-Base house-primers and Painting Supplies Primer**
+###  **5. Zinsser B-I-N Shellac-Base house-primers and Painting Supplies Primer**
 
 Zinsser B-I-N considers the health plus environmental impacts and thus its lacks VOC and thus it is approved from [priming child cribs](https: //pestpolicy. com/best-baby-safe-paint-for-crib/) - safe for both animal plus human health.
 
@@ -92,6 +92,6 @@ But ensure that you don't spray the primer - this may effectively increase the g
 
 Cons: - Bad odor
 
-# # Conclusion
+##  Conclusion
 
 The USA-made primer - the best oil-based primer for cabinets - is of high quality and thus loved by novices and professionals. It'll give you that smooth finish while also preventing bleeding through of damages old-paint colors, and water stains.

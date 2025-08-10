@@ -19,7 +19,7 @@ Theres a common belief that [bed bugs](https: //www. researchgate. net/publicati
 
 Youll find them on your bed, inside furniture, on walls and even on the celling. But do they jump from one place to another. **A short answer is No. Bed bugs cant jump. Their legs are meant for crawling rather than jumping. Their lack of wings also prevents them for flying around. However, they can crawl at relatively high speeds (about 1m per minute). ** Related: Pictures of Bed Bugs
 
-# # **Details: Do Bed Bugs Jump? - Bedbug Movement**
+##  **Details: Do Bed Bugs Jump? - Bedbug Movement**
 
 Therere several household pests that look like bed bugs. So, when you see small creatures jumping from one place to another you might be tempted to think you have bed bugs.
 
@@ -31,7 +31,7 @@ When bed bugs fall or crawl into items, they might end up covering long distance
 
 If bed bugs crawl into your luggage or clothes, you might end up carrying them or their eggs to your house.
 
-# # **Do Bed Bugs Climb On Surfaces?**
+##  **Do Bed Bugs Climb On Surfaces?**
 
 Perhaps their most outstanding means of mobility is crawling and climbing on things like walls, furniture, fabrics, plastic and metal. The hooks on their feet help them in gripping on almost any surface.
 
@@ -41,7 +41,7 @@ Their small hooks get stuck on these materials. Thats why you wont find bed bugs
 
 Related: Can Bed Bugs Get in Your Hair?
 
-# # **Do Bed Bugs Have Wings?**
+##  **Do Bed Bugs Have Wings?**
 
 Theres a popular believe that bed bugs have wings. Some online content will tell you so but thats not actually true. If they had wings, they could already be using them to fly. But as we see them, no bed [bug](https: //pestpolicy. com/bed-bug-bites-vs-mosquito-bites/) cant fly.
 
@@ -49,7 +49,7 @@ They have wing pads which only suggest that [bed](https: //pestpolicy. com/bed-b
 
 Therefore, if you have come across a flying bed bug, that could be a mistaken identity. The fact that bed bugs dont fly is perhaps a good reprieve for homeowners. You can imagine the problem bed bugs could cause if they had the ability to fly.
 
-# # **How Do Bed Bugs Travel From Room to Room?**
+##  **How Do Bed Bugs Travel From Room to Room?**
 
 Bed bugs lack wings and so they wont jump. So, the only way that bed bugs will travel from one room to another is by crawling or catching a ride on people or objects. Knowing how bed bugs travel and spread can be helpful to homeowners in their efforts to eradicate them.
 
@@ -63,7 +63,7 @@ Bed bugs may also crawl into other houses as they run away from repellents or ch
 
 Related: Does Steam Kill Bed Bugs?
 
-# # **Can Bed Bugs Jump From One Person To Another?**
+##  **Can Bed Bugs Jump From One Person To Another?**
 
 You might wonder how bed bugs ended up in your house. Well, bed bugs are clever pests- they know how to find new hosts. These tiny creatures are so hard to spot when they hook on our clothes. Thats how they end up being transported from one place to another. But, unlike fleas, bed bugs wont stick on your body for long.
 
@@ -73,7 +73,7 @@ On the contrary, bed bugs have flat bodies and small legs which make it difficul
 
 Perhaps its good news to know that bed bugs cant jump from one person to another. Otherwise, this could provide them with an easy way to hitch a ride into new homes. At least they cant crawl into your clothes fast enough like fleas can jump.
 
-# # **Do Bed Bugs Jump From The Floor To Your Bed?**
+##  **Do Bed Bugs Jump From The Floor To Your Bed?**
 
 As you have seen, bed bugs wont fly or jump around. So, if you find bed bugs in your bed, they should have crawled to get there. If your bed is adjacent to the walls, bed bugs will crawl from other places to your bed at night in search of a blood meal.
 
@@ -87,7 +87,7 @@ In addition, bed bugs that are coming from the bed to the floor also get trapped
 
 Related: Does Diatomaceous Earth Kill Bed Bugs?
 
-# # **Do Bed Bugs Fall From the Ceiling?**
+##  **Do Bed Bugs Fall From the Ceiling?**
 
 Bed bugs will go all the way to your ceiling. However they wont intentionally drop themselves from the ceiling. But therere is a possibility of losing grip and falling on your floor, bed or other items.
 
@@ -97,7 +97,7 @@ Bed bugs are also attracted to the heat emitted by human bodies. But they wait u
 
 Whichever the case, bed bugs will always find their way to the ceiling. However theres no single reason to think that they will intentionally dislodge from the roof to the floor or your bed.
 
-# # **What Time Do Bed Bugs Travel?**
+##  **What Time Do Bed Bugs Travel?**
 
 Its commonly believed that bed bugs will come out during the night when you fall asleep. Well, they prefer to feed when the host is still. However, bed bugs will come out to feed whenever they are hungry.
 
@@ -105,6 +105,6 @@ Normally bed bugs feed at least once a week. And they require a blood meal in ea
 
 Related: [Bugs That Look Like Bed Bugs](https: //pestpolicy. com/bugs-that-look-like-bed-bugs/)
 
-# # **Conclusion**
+##  **Conclusion**
 
 Bed bugs will neither jump nor fly. They dont have wings for flying and their legs are not meant for jumping. However, these creatures are skilled crawlers. - They can crawl and hitch a ride into people, luggage, and furniture among other items. - Therefore, its important to take preventive measures whenever you return from a trip or college. For instance you can vacuum and disinfect the items you come with home before putting them in the house.

@@ -19,11 +19,11 @@ Where do fleas hide? - this article presents my quick and detailed response. The
 
 Well, the bugs detect movement, vibrations, and breath to know when humans and pets are around.
 
-# # Where Do Fleas Hide? Top 7 Fleas' Hiding Spots
+##  Where Do Fleas Hide? Top 7 Fleas' Hiding Spots
 
 As those flea eggs begin to hatch and their larvae emerging, this flea stage will be about 35% of that flea population in your household - to remove those fleas from the home.
 
-# # 1. On Furniture - Do fleas Hide on furniture?
+##  1. On Furniture - Do fleas Hide on furniture?
 
 Adult fleas will lay roughly 500 eggs in total - with their reproduction cycle taking about 2 weeks while these immature stages may hide on furniture and beds. - But how long may the fleas survive on the couch or furniture? Well, when starved and without water (such as on the couch) it'll die with5 to 8 days.
 
@@ -33,7 +33,7 @@ So, as you seek to control these fleas, you'll need to inspect the bugs favourit
 
 Alternative methods to control the fleas on that furniture include using a repellent scent - water in a spray bottle + cedar oil (5 drops) + lavender oil (5 drops).
 
-# # 2. In Beds - Do fleas Hide in Beds?
+##  2. In Beds - Do fleas Hide in Beds?
 
 Yes, fleas will hide and live in beds & bedding - but how do they get there? Well, the fleas on the beds mainly climb up to take a single blood meal or get dropped by pets sleeping on your bed. - Mainly you'll find the fleas on the mattress, pillowcases, and between sheets. - But with limited washing or bedding change (for long), the immature fleas could develop into adults and become a massive bug infestation.
 
@@ -41,7 +41,7 @@ The signs that your bed is infested with fleas include; finding oval-shaped, dar
 
 Finally, dispose of that vacuum filters and bags - prevents re-infestation. So, if your pets including dogs & cats tend to jump on your/ or your kids' bed, then you could have some flea eggs or adult fleas that fall off onto the bed and start maturing.
 
-# # 3. OnPets- Do fleas Hide inPets?
+##  3. OnPets- Do fleas Hide inPets?
 
 Thus, to effectively control the fleas and their larval stages, you'll require to check where these bugs hide and live. - While the bugs are biting you, they'll inject saliva to prevent detection. - But the flea larvae are hatched blind - and they'll search for warm, dark while avoiding light - so they'll burrow on those bedding, furniture, and carpet.
 
@@ -57,7 +57,7 @@ For the areas that you keep the pet food, you'll also require thorough flea-kill
 
 - So, the fleas will have camped around the fleas' feeding area with the aim of jumping onto your pets to suck that blood meal.
 
-# # 3. In Crevices & Cracks- Do fleas Hide inCrevices & Cracks?
+##  3. In Crevices & Cracks- Do fleas Hide inCrevices & Cracks?
 
 Well, YES, fleas can hide in bedding, carpets, crevices, and cracks - they'll use debris, dirt, and saliva to spin their cocoon to allow them to be camouflaged easily. - The fleas ([including flea larvae and eggs](https: //pestpolicy. com/what-do-baby-fleas-look-like/)) may hide in*crevices*& cracks of your upholstered sofa - to control these you'd require to use a steamer or vacuum.
 
@@ -65,6 +65,6 @@ Well, YES, fleas can hide in bedding, carpets, crevices, and cracks - they'll us
 
 - Alternative flea-control techniques will include using steamers, vacuums, anddryers at high temperatureswill exterminate the bugs. Further, fleas may live under your carpets & rugs in both your apartment or house. They'll even lay their eggs, and if viable, they'll hatch into larvae.
 
-# # Conclusion
+##  Conclusion
 
 Fleas will be a major nuisance to you and other homeowners due to the [cat fleas](https: //ento. psu. edu/extension/factsheets/fleas) being dark-coloured and having a tiny body size (4mm length) allowing them to hide in those odd locations.

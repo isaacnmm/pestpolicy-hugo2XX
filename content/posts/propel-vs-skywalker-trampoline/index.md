@@ -21,11 +21,11 @@ Hence, I went the extra mile, did some research, and provided everything you nee
 
 To make it even better, I had previously compared Zupapa vs Skywalker Trampoline, and 12 ft. vs-14 ft. Trampoline.
 
-# # Propel Vs. Skywalker Trampoline Main Differences and Similarities
+##  Propel Vs. Skywalker Trampoline Main Differences and Similarities
 
 In this section, I will take you through the differences and similarities of Propel Vs. Skywalker Trampoline.
 
-## # Propel Vs. Skywalker Trampoline  Safety
+###  Propel Vs. Skywalker Trampoline  Safety
 
 In terms of safety, Propel Vs. Skywalker Trampolines are both safe options worth considering. Both feature excellent safety features to keep the user protected throughout.
 
@@ -37,7 +37,7 @@ Other than that, instead of metal springs, the propel trampolines have bungee co
 
 Skywalker Trampolines have excellent metal springs that provide bounces that are more powerful. They also feature T-bars and T-joints to keep the trampoline more secure and stable.
 
-## # Propel Vs. Skywalker Trampoline Warranty
+###  Propel Vs. Skywalker Trampoline Warranty
 
 Skywalker trampolines have a 3-year warranty on the frame while the other parts have a 1-year warranty. This warranty is non-transferable and only the original buyer can apply for the warranty. However, you might need to do regular maintenance to keep the trampoline safe.
 
@@ -45,13 +45,13 @@ On the other hand, the propel trampolines provide a 30 day registration period. 
 
 The registration allows the company to contact you in case of any issue with the product purchased. If it has been discontinued or been recalled the company can give you a replacement. Propel doesnt declare clearly on their website about the warranty.
 
-## # Propel Vs. Skywalker Trampoline Accessory Options
+###  Propel Vs. Skywalker Trampoline Accessory Options
 
 Propel Vs. Skywalker Trampoline comes with different extra accessories to provide additional play activities. The skywalker trampolines include a basketball loop and hook.
 
 On the other hand, the propel trampolines come with more unique accessories compared to the Skywalker trampolines. Propel includes a shade cover that protects the jumpers from excess heat. The clubhouse accessory also provides for a cozy bounce and the mist sprayer kit keeps the jumpers cool as they jump under the hot sun.
 
-## # Propel Vs. Skywalker Trampoline Available Options
+###  Propel Vs. Skywalker Trampoline Available Options
 
 Both the Propel Vs. Skywalker Trampolines have different offerings and options. However, Skywalker seems to have more options than propel trampolines.
 
@@ -61,9 +61,9 @@ Conversely, Skywalker trampolines provide an array of options. They are availabl
 
 Although the propel trampolines are available in different color options the sizes are color-coded. This means the customer doesnt have the luxury of choosing the trampoline color.
 
-# # Product Reviews for Propel Vs Skywalker Trampoline
+##  Product Reviews for Propel Vs Skywalker Trampoline
 
-## # [1. Propel 14-foot Trampoline](https://www.amazon.com/dp/B08KSDFRXV/?tag=p-policy-20)
+###  [1. Propel 14-foot Trampoline](https://www.amazon.com/dp/B08KSDFRXV/?tag=p-policy-20)
 
 As weve mentioned above propel trampolines are available from 7ft to 15ft. The 14ft propel trampoline is more costly than that the Skywalker 14ft trampoline.
 
@@ -79,7 +79,7 @@ Youll also appreciate the thick Sure-Lock frame system that provides additional 
 
 Youll need to go to YouTube or visit the propel website
 
-## # [2. Skywalker 14 Foot Round Trampoline](https://www.amazon.com/dp/B07V42HFSL/?tag=p-policy-20)
+###  [2. Skywalker 14 Foot Round Trampoline](https://www.amazon.com/dp/B07V42HFSL/?tag=p-policy-20)
 
 Skywalker Trampolines are ideal for all jumpers. They come with innovative safety features to keep everyone using them safe throughout. Thus, create unforgettable memories with your family by picking the Skywalker 14 Foot Round Trampoline.
 
@@ -89,7 +89,7 @@ More than that, the trampoline features tightly coiled springs for additional sa
 
 Besides that, Skywalker trampolines are reinforced with T-sockets that help to enhance the structural stability of the trampoline. Thus, prevent the trampoline from twisting or coming apart when someone is jumping. Pros: - Excellent customer service - Budget-friendly trampoline - Includes safety enclosure net with no gap design - Spacious jumping surfaces Cons: - Youll need to purchase ladder and wind stakes separately
 
-## # [3. Propel 7 Foot Trampoline](https://www.amazon.com/dp/B00KOKVTJW/?tag=p-policy-20)
+###  [3. Propel 7 Foot Trampoline](https://www.amazon.com/dp/B00KOKVTJW/?tag=p-policy-20)
 
 The Propel 7 Foot Trampoline is an excellent option for young kids. It accommodates 150slbs, hence allows multiple small children to jump together simultaneously.
 
@@ -103,7 +103,7 @@ Other than that, the trampoline has an Enclosure System thats Impact-Absorbent t
 
 For additional safety, the trampoline also has a Sure-Lock frame pad. This pad provides additional safety. Pros: - Best trampoline for young kids - Basket hoop provides additional play activity - The T-bracket system reinforces the trampoline - Budget-friendly Cons: - Low weight capacity
 
-# # Conclusion
+##  Conclusion
 
 I hope that this guide on Propel vs. Skywalker trampoline has been helpful. Both of these options are great choices. Ive included products reviews of both of these trampolines to help you make a comparison and pick the best for your family.
 

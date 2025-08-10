@@ -19,9 +19,9 @@ Are you stuck with an ant problem in your house and lawns? You dont have to worr
 
 Related: Fire Ant Killer for Lawns.
 
-# # Top 15 Homemade Ant Killer Recipes
+##  Top 15 Homemade Ant Killer Recipes
 
-## # 1. Boric Acid and Peanut Butter Straws
+###  1. Boric Acid and Peanut Butter Straws
 
 These are excellent homemade ant killers to eradicate ants without exposing your kids and pets to toxic substances. Since the peanut butter and the moderately toxic boric acid are contained in the plastic straws, there are fewer chances of being ingested by kids and pets. The bait does not leave a sticky mess on your floor or any surface it is left.
 
@@ -31,7 +31,7 @@ Mix 1 teaspoon of boric acid with one teaspoon of peanut butter in a mixing bowl
 
 Related: [Bed Ant Killer](https: //pestpolicy. com/best-ant-killer/)
 
-## # **2. Food-Grade Diatomaceous Earth Ant killer**
+###  **2. Food-Grade Diatomaceous Earth Ant killer**
 
 Diatomaceous earth powder provides a non-toxic and inexpensive way to kill ants at home. DE powder is available from a local shop or online. It contains sharp microscopic pieces that pierce into the insects exoskeleton. Once inside the body, the pieces will dehydrate the insect to death. The powder is, however, not dangerous to humans and other animals. *Requirements*: Diatomaceous earth powder. **Directions** 1.
 
@@ -43,7 +43,7 @@ Check the area after one or two days for dead ants. If theres no more ant activi
 
 Apply a generous amount at the most notorious entry points to kill as many ants as possible.
 
-## # **3. Sugary Baking Soda Ant Killer**
+###  **3. Sugary Baking Soda Ant Killer**
 
 If youre looking for a natural and non-toxic ant killer, then you can prepare one at home using baking soda. Its a safe recipe to use inside the house. However, it can harm your pets if consumed in large amounts. Ants may shy away from the baking soda. But the sugar in this recipe will attract them to the bait. *Requirements*: Baking soda and Confectioners Sugar *Equipment*: Measuring spoon, Jar lids, and Mixing bowl **Directions** 1.
 
@@ -53,7 +53,7 @@ Sprinkle the bait in narrow cracks such as along the baseboard. 4.
 
 Wipe out the mess in your house after the ants have died. 5. For outdoor use, sprinkle the bait along the foundation of the house and entry points. 6. Also, treat the ant mounds and common nesting locations such as trees, woodpiles, and stone piles. 7. If you are worried about your pets ingesting the bait, it is a bottle and places it in strategic locations. Ants will climb into the bottle and consume the bait. Your pets cannot reach the bait.
 
-## # 4. Boric Acid and Sugar Liquid Ant Trap
+###  4. Boric Acid and Sugar Liquid Ant Trap
 
 Boric acid and sugar liquid is a tried and tested homemade recipe for use against sugar ants such as Pharoah ants, Argentine ants, and house ants. Borax is a very effective insect killer. The goal here is to mix it with a substance that will attract sugar ants to the bait-I use sugar. *Requirements*: Boric acid, Sugar, and Warm water *Equipment*: Mixing bowl **Directions** 1. Mix 30g of boric acid with about 250g of sugar in a mixing bowl.
 
@@ -65,7 +65,7 @@ Ants will eat the bait and take more to their nest.
 
 Keep on refilling the jar lids with the bait until you get satisfactory results. 7. Store the remaining bait in a labeled, airtight container away from the reach of kids and pets. Keep it in a cool dark place.
 
-## # **5. Vinegar and Water Ant Spray**
+###  **5. Vinegar and Water Ant Spray**
 
 Vinegar works in two ways against ants - a great homemade ant killer. When sprayed directly on the ants, it can kill them instantly. You can also spray on the bed bug trails, entry points, and emerging points to deter them. Ants hate vinegar because it blocks their communication aids (pheromones). This prevents ants inside the house from following the trail of others and deters new entries.
 
@@ -77,7 +77,7 @@ Spray the solution in areas where ants usually emerge out in large numbers, such
 
 Check Out: [Best Ant Traps](https: //pestpolicy. com/best-ant-traps/)
 
-## # **6. Borax Acid and Corn Syrup Ant Trap**
+###  **6. Borax Acid and Corn Syrup Ant Trap**
 
 Most of the household ants love to eat sweet food. They cant resist the corn syrup in this recipe. Its easy to make ant bait using simple over the counter ingredients. *Requirements*: Boric acid and Corn syrup *Equipment*: Mixing bowl and Spoon or whisk **Directions** 1. Mix about one teaspoon of boric acid with three teaspoons of corn syrup in a mixing bowl. 2. Stir thoroughly to make a fine paste. 3.
 
@@ -85,7 +85,7 @@ Place small bits of the paste on a waxed paper or card. 4.
 
 Place your bait in areas where ants like to congregate. The sweet substance is quite irresistible to these critters. 5. They will feast on it and take some back to their colony. Give the ants ample time to share the poison with the rest of the colony. 6. For more effectiveness, add fresh drops after every two days. 7. Store the remaining bait in an airtight container and at room temperature. Keep the substance out of reach of children and pets.
 
-## # **7. Cinnamon Solution**
+###  **7. Cinnamon Solution**
 
 As an essential oil, cinnamon can be used to repel and kill ants. Ants cannot withstand the smell of cinnamon. So, you can keep them away by treating your surfaces with the recipe. It will repel those already in the house and prevent new ones from entering the house. Cinnamon oil is safe to use around kids and pets. When sprayed in the house, it leaves a very inviting fragrance.
 
@@ -95,7 +95,7 @@ Mix 50 drops of cinnamon oil with about one cup of water. 2. Put the mixture in 
 
 For more effectiveness, use higher concentrations of the cinnamon solution.
 
-## # **8. Dish Soap and Water Ant Spray**
+###  **8. Dish Soap and Water Ant Spray**
 
 A dish soap solution is another effective do-it-yourself remedy for eradicating ants in your home. Its one of the safest methods to use indoors without worrying about your kids and pets. Ants use their joints for breathing. So, you can easily suffocate them to death with the dish soap solution. The soap interferes with the ants pheromones, making them unable to follow tracks left by other ants.
 
@@ -107,7 +107,7 @@ Keep your spray ready and use it to kill the ants you see crawling on your surfa
 
 Related: [How to Get Rid Of Ants in the Bathroom](https: //pestpolicy. com/how-to-get-rid-of-ants-in-the-bathroom/)
 
-## # **9. Baking Soda, Dish Soap & Apple Cider Vinegar**
+###  **9. Baking Soda, Dish Soap & Apple Cider Vinegar**
 
 You dont have to worry about using chemicals to eradicate ants in your house. With simple over the counter ingredients, you can make an effective ant killer. You can use it indoors without worrying about your kids and pets. Plus, it smells nice! *Requirements*: Baking soda, Apple cider vinegar, dish soap, and Water. *Equipment*: Spray bottle **Directions** 1. Mix baking soda, dish soap, and apple cider vinegar in a spray bottle. 2.
 
@@ -119,7 +119,7 @@ Spray at the entry points to prevent ants from entering the house. 7.
 
 For outdoor use, spray the solution on areas where ants like to congregate and on plants. Use a small amount of the solution to test the effect of vinegar on your plants before spraying.
 
-## # **10. Borax and Honey**
+###  **10. Borax and Honey**
 
 Ants will love something sweet to eat, and honey is not an exception. Its an easy and safe way to get rid of ants in your house and outside. *Requirements*: Crystalized honey, Borax, and Boiling water *Equipment*: Mixing bowl and Measuring spoon **Directions** 1. Mix one equal part of crystallized honey and borax in a mixing bowl 2. Add boiling water, just enough to dissolve the honey and borax. 3.
 
@@ -129,7 +129,7 @@ Place some baits at places where ants emerge from cracks and along their trails.
 
 Store the remaining bait in an airtight jar and label it clearly to avoid accidental misuse. Also, remember to keep it away from children and pets.
 
-## # **11. Borax and Jelly ant killer**
+###  **11. Borax and Jelly ant killer**
 
 If ants have invaded your house or compound, you can make an effective ant bait using your choice's borax and jelly. The jelly appeals to ants to come and eat the bait. When they ingest the bait, borax kills them by interfering with both the digestive and nervous systems. *Requirements*: Borax powder and Jelly *Equipment*: Mixing bowl and Mixing spoon or whisk **Directions** 1.
 
@@ -141,7 +141,7 @@ For outdoor usage, put a sizeable amount of the bait in a plastic container and 
 
 Make some holes on the lid andplace it outside near ant mounds or commonentry points. Ants will get inside the container to eat the bait. Your bait wont be destroyed by rain. 6. Keep replacing thebait stationsuntil you get rid of all ants. 7. You can store the unused bait in a sealable jar and label it clearly to avoid accidental misuse.
 
-## # **12. Borax Powder, Sugar, Molasses & Yeast**
+###  **12. Borax Powder, Sugar, Molasses & Yeast**
 
 Ants are always looking for something sweet to eat. This recipe contains three ingredients that will tempt the ants to eat your bait: sugar, molasses, and yeast. The sticky molasses conceals the borax powder making it invisible to the unsuspecting ants. *Requirements*: Borax powder, Yeast, Molasses, and Sugar *Equipment*: Mixing bowl and Whisk or spoon **Directions** 1. Mix 1 tbsp. Of borax powder with 1 tbsp. Of sugar, 1 tbsp.
 
@@ -153,7 +153,7 @@ Thus, it is possible to wipe out the entire colony with this bait. 5.
 
 Once the bait is consumed, clean your surfaces with soapy water to deter new ants from following the trails. 6. Store the unused bait in an airtight jar away from children and pets.
 
-## # **13. Clove, Tea Tree, and Peppermint**
+###  **13. Clove, Tea Tree, and Peppermint**
 
 This combination of essential oils will eliminate ants in your house and prevent new ones from coming in. While these essential oils' scentappeals to humans, it is disgusting to insects such as ants. The scent is so powerful to keep ants at bay for a long time. *Ingredients*: Peppermint oil, Tea tree oil, and Clove oil *Equipment*: Mix jar and a Spray bottle **Directions** 1.
 
@@ -163,7 +163,7 @@ Put some amount in a spray bottle and spray it on the targeted places. Spray-on 
 
 Store the unused solution in an airtight container for future use. Check Out: Bed Bugs vs. Ants
 
-## # **14. Citrus Oil, Molasses, Dish Soap, and Water**
+###  **14. Citrus Oil, Molasses, Dish Soap, and Water**
 
 Dish soap and citrus oil are toxic ingredients you can use to eradicate ants in your house. Molasses acts as the luring ingredient to make the ants come to your bait. The solution can be used inside the house without worrying about kids and pets. Plus, you can use it on your plants without destroying them. *Requirements*: Citrus oil, Dish soap, Molasses, and Water *Equipment*: Mixing jar and a Spray bottle **Directions** 1. Mix 1 tbsp.
 
@@ -175,6 +175,6 @@ This solution is meant to kill ant on the spot.
 
 So, youll need to use othermethods to killthe colony.
 
-# # **Conclusion**
+##  **Conclusion**
 
 Homemade ant killers provide you with an environmentally-friendly solution to get rid of ants both indoors and outdoors. They are cheap and easy to prepare since they require locally available ingredients. Unlike commercial ant killers, most of these home remedies are nontoxic and can be used indoors without worrying about kids and pets.

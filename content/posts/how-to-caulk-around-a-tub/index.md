@@ -48,7 +48,7 @@ Once compromised, even a small gap can allow water to seep behind walls, into th
 
 Knowing **how to caulk around a tub** is an essential DIY skill for any homeowner. It's a relatively inexpensive and straightforward project that can prevent significant headaches and expenses down the line. This comprehensive guide will walk you through every step of the process, from thorough preparation to the final smoothing techniques, ensuring you achieve a durable, watertight, and aesthetically pleasing seal around your tub.
 
-# # What Type of Caulk is Best for Tubs?
+##  What Type of Caulk is Best for Tubs?
 
 For bathrooms and areas exposed to constant moisture, **100% silicone caulk** is overwhelmingly recommended.
 
@@ -58,7 +58,7 @@ For bathrooms and areas exposed to constant moisture, **100% silicone caulk** is
 
 **Color: ** Choose clear, white, or a colored silicone caulk that complements your tub, tile, and grout.
 
-# # Prepping Your Tub for Caulking
+##  Prepping Your Tub for Caulking
 
 Proper preparation is the most critical step for a long-lasting, watertight caulk seal. Do not rush or skip any of these steps.
 
@@ -78,7 +78,7 @@ Let it sit for the recommended time to kill the spores.
 
 4. **Final Surface Preparation (Alcohol Wipe): ** * Just before applying new caulk, wipe down the entire seam with rubbing alcohol (isopropyl alcohol) or denatured alcohol and a clean paper towel. * This degreases the surface, removing any invisible soap film, oils, or residue that could hinder silicone's adhesion. * Allow the alcohol to evaporate completely (it dries quickly). The surface should now be impeccably clean and dry.
 
-# # Final Thoughts
+##  Final Thoughts
 
 Re-caulking around a tub is a fundamental home maintenance task that directly impacts the longevity and health of your bathroom. By investing the time in meticulous preparation and following these steps for **how to caulk around a tub**especially filling the tub, using 100% silicone, and employing proper smoothing techniquesyou can achieve a professional-quality, watertight seal.
 

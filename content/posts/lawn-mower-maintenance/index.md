@@ -21,7 +21,7 @@ Understanding and implementing a routine maintenance schedule for your [lawn](ht
 
 This guide will walk you through the essential maintenance practices, helping you keep your mower in top-notch condition for every cut.
 
-# # Understanding Lawn Mower Maintenance
+##  Understanding Lawn Mower Maintenance
 
 Lawn mower maintenance can be broken down into a few key areas, largely dependent on the type of mower:
 
@@ -31,7 +31,7 @@ Lawn mower maintenance can be broken down into a few key areas, largely dependen
 
 The philosophy behind maintenance is proactive prevention. Addressing small issues before they become major problems saves time, money, and hassle.
 
-# # When to Perform Lawn Mower Maintenance
+##  When to Perform Lawn Mower Maintenance
 
 Maintenance should be thought of in three main intervals:
 
@@ -41,11 +41,11 @@ Maintenance should be thought of in three main intervals:
 
 3. **End of Season / Annual Maintenance (Winterization): ** * This is the most comprehensive maintenance period, preparing the mower for storage and ensuring it's ready for the next spring. Many tasks from the annual checklist are performed now.
 
-# # Annual Lawn Mower Maintenance Checklist
+##  Annual Lawn Mower Maintenance Checklist
 
 This checklist covers the most important tasks for a thorough annual service, ideally performed at the end of the mowing season before storage, or at the very beginning of the spring season. **Always disconnect the spark plug wire (gas mowers) or remove the battery (electric/cordless mowers) before performing any maintenance on the blade or underside of the mower for safety. **
 
-## # For Gas Mowers (and some for Electric/Battery where applicable):
+###  For Gas Mowers (and some for Electric/Battery where applicable):
 
 * **1. Change the Oil: ** * **Why: ** Old oil breaks down, losing its lubricating properties, leading to increased friction and wear. * **How: ** Consult your owner's manual for oil type and capacity. Warm up the engine for a few minutes, then turn it off and disconnect the spark plug. Tilt the mower (air filter side up) or use a drain plug to drain old oil into a container. Refill with fresh oil to the proper level. * **2.
 
@@ -73,17 +73,17 @@ Replace if necessary (often a job for a professional if you're unsure). * **10.
 
 Clean the Mower Exterior: ** * **Why: ** Prevents rust, makes inspection easier, and just looks good. * **How: ** Wipe down the deck and engine housing with a damp cloth. For stubborn grime, a mild soap solution can be used.
 
-## # For Electric and Battery Mowers (Specifics):
+###  For Electric and Battery Mowers (Specifics):
 
 * **Battery Care: ** For cordless mowers, fully charge the battery before storing it in a cool, dry place for the off-season. Do not leave batteries on chargers indefinitely or store them in extreme temperatures. * **Cord Inspection: ** For corded electric mowers, inspect the power cord for any cuts, fraying, or damage. Replace if necessary. * **Motor Vents: ** Ensure motor vents are clear of debris to prevent overheating.
 
-# # Tips for Lawn Mower Maintenance
+##  Tips for Lawn Mower Maintenance
 
 * **Read Your Owner's Manual: ** This is your primary resource for specific oil types, spark plug gaps, torque settings, and maintenance schedules unique to your mower model. * **Safety First: ** Always disconnect the spark plug wire or remove the battery before working on the mower, especially the blade area. Wear gloves and eye protection.
 
 * **Have the Right Tools: ** A spark plug wrench, socket set, blade wrench, file/grinder (or professional sharpening), oil pan, and funnels will make tasks easier. * **Regular Cleaning: ** A quick clean of the underdeck after each few uses prevents stubborn buildup. * **Don't Ignore Unusual Noises/Vibrations: ** These are often early warning signs of a problem. Investigate them promptly.
 
-# # Types of Lawn Mowers and Their Nuances
+##  Types of Lawn Mowers and Their Nuances
 
 * **Gas-Powered Mowers: ** Require the most comprehensive maintenance due to their combustion engines (oil changes, spark plugs, fuel systems). * **Corded Electric Mowers: ** Very low maintenance. Focus on blade care, deck cleaning, and cord inspection. * **Cordless (Battery) Electric Mowers: ** Low maintenance, similar to corded, but with added battery care requirements. Blade care and deck cleaning are key.
 

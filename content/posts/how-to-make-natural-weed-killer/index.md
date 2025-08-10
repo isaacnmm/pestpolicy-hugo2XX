@@ -45,11 +45,11 @@ The good news is that you don't always need harsh chemicals to tackle common wee
 
 This guide will explore the differences between chemical and [natural](https: //pestpolicy. com/top-7-natural-termite-control-can-easily/) weed killers, provide recipes for effective homemade solutions, offer application tips, and, crucially, share strategies for preventing weeds from taking hold in the first place.
 
-# # Ingredients of Homemade Weed Killers
+##  Ingredients of Homemade Weed Killers
 
 The most common and effective ingredients for homemade weed killers leverage acids, salts, and soaps.
 
-## # 1. Vinegar-Based Solutions (Acetic Acid)
+###  1. Vinegar-Based Solutions (Acetic Acid)
 
 Vinegar, specifically horticultural vinegar (20% acetic acid) or strong household vinegar (10-12% acetic acid), is the most common base. Standard household white vinegar (5% acetic acid) can work on very young, tender weeds but is less effective on mature ones.
 
@@ -61,7 +61,7 @@ Wear gloves and eye protection.
 
 It can also significantly lower soil pH if used repeatedly in the same spot, potentially harming future plant growth.
 
-## # 2. Salt-Based Solutions
+###  2. Salt-Based Solutions
 
 While effective, salt should be used sparingly as it can persist in the soil and sterilize it for a long time. Best for areas where you want to prevent *any* plant growth indefinitely (e. g. , cracks in pavement).
 
@@ -69,13 +69,13 @@ While effective, salt should be used sparingly as it can persist in the soil and
 
 Salt will damage or kill surrounding desirable plants and can make the soil unsuitable for growth for years. Never pour directly on soil near desired plants or where runoff could reach them.
 
-## # 3. Boiling Water
+###  3. Boiling Water
 
 The simplest and cheapest natural weed killer.
 
 * **How it works: ** The heat rapidly destroys plant cells. * **Uses: ** Excellent for weeds in sidewalk cracks, driveways, or patio pavers. * **Caution: ** Non-selective. Will kill anything it touches. Be careful not to splash on yourself or desirable plants.
 
-# # How To Prevent Weeds From Growing
+##  How To Prevent Weeds From Growing
 
 The best weed killer is often prevention. A proactive approach significantly reduces the need for any kind of herbicide.
 

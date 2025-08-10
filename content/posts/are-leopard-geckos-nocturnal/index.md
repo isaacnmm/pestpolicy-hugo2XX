@@ -21,7 +21,7 @@ They are not active the whole night, but you'll only enjoy them at fading light 
 
 # **In a Hurry? Check these GeckosFoods**
 
-# # Details:**Are Leopard Geckos Nocturnal?**
+##  Details:**Are Leopard Geckos Nocturnal?**
 
 Geckos may fall under the lizard family, but physically, they are very different from lizards. Lizards lack eyelids and lick their eyes to clean them. Finally, all geckos have vocal cords that allow them to bark as a protective mechanism to scare away predators.
 
@@ -29,7 +29,7 @@ Leopard geckos, on the other hand, have a unique set of features that differenti
 
 *Leopard geckos Described: * - An adult Leopard length is between 20. 5-27. 5cm and may weigh between 45-65 grams. During winter, they undergo semi-hibernation (brumation), which is triggered by low temperatures. - During brumation, they sleep fulltime and uses energy reserves stored in their tails, waking up only to drink water.
 
-# # **Are all Geckos Crepuscular ?**
+##  **Are all Geckos Crepuscular ?**
 
 Geckos make good reptile pets. However, you may not enjoy them much as you may want to. It all depends on the time of the day they are active.
 
@@ -43,7 +43,7 @@ A good example is the Lygodactylus williamsi naturally found in Africa. The Lygo
 
 There are several species of geckos that are predominantly nocturnal like Moorish gecko which active at night but will occasionally feed or drink water during the day.
 
-# # **Do Leopard Geckos Need Light At Night?**
+##  **Do Leopard Geckos Need Light At Night?**
 
 The establishment that Leopard geckos are indeed not nocturnal but **Crepuscular** led to a debate on whether they need Ultraviolet lighting. Many pet owners dont offer UV lighting to their leopard geckos.
 
@@ -53,7 +53,7 @@ A study has also shown that the skin of leopard gecko has a high affinity for UV
 
 If not exposed to UVB, health issues may arise to your captured gecko. The situation gets worsened by lack of proper supply of dietary Vitamin D. Lack of Vitamin D causes reduced utilization of calcium in their food resulting in a metabolic bone disease brought about by lack of calcium.
 
-# # **Which Temperatures And Humidity are good for Leopard Gecko?**
+##  **Which Temperatures And Humidity are good for Leopard Gecko?**
 
 Leopard gecko structures should be large enough to offer ample space for exercise and relation. It should be adequately ventilated to allow for proper aeration.
 
@@ -65,7 +65,7 @@ A bulb offering basking temperatures of 32 degrees should be available for the g
 
 You must monitor the temperatures and humidity levels more so during the winter to ensure that the gecko is kept sufficiently warm.
 
-# # **What Time Of Day Should I Feed My Leopard Gecko?**
+##  **What Time Of Day Should I Feed My Leopard Gecko?**
 
 You may be wondering what the ideal time of the day to feed your gecko is. Geckos mainly feed insects like crickets, locusts etc. The live food in the form of insect gets loaded in calcium balancer, and phosphorus should not be included in the diet.
 
@@ -77,11 +77,11 @@ Adult geckos should, however, be fed once in two days. Sometimes your leopard ge
 
 Sometimes when the gecko is about to shed its skin or need to reduce its food reserves, it may refuse to eat. However, you should raise the alarm if this persists for several days as its a sign of illness.
 
-# # **What Time Are Leopard Geckos Most Active? **
+##  **What Time Are Leopard Geckos Most Active? **
 
 Leopard geckos are active at early hours of the evening and very early in the morning. They remain docile during the day and also sleep after dusk only to be active again at dawn. They also use the busy hours to feed and hydrate themselves.
 
-# # **Conclusion**
+##  **Conclusion**
 
 If you are looking to acquiring your first reptile pet, searching for the best leopard gecko species is very important.
 

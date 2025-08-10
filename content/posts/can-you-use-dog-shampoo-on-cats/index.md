@@ -25,7 +25,7 @@ So, if you're worried if you can use dog shampoo for your cats; this article is 
 
 ** Dog shampoo and other flea-control products (even those with natural ingredients) put cats at a [greater health risk](https: //www. quora. com/Is-it-ok-to-use-dog-shampoo-on-cats) than it does to its canine cousins.
 
-# # Why Must You Avoid Using Dog Shampoo On Cats?
+##  Why Must You Avoid Using Dog Shampoo On Cats?
 
 Many people wonder why they should bathe their cats as self-grooming is a natural feline instinct. There are two things you might want to consider: - You may need to wash off something your cat got into and get it out of his fur so that he won't ingest it when grooming. - The second reason, which is probably more common, is that your cat may have [fleas](https: //pestpolicy. com/best-dog-backpack-carrier-for-hiking/) or other parasites.
 
@@ -33,7 +33,7 @@ So, what should you use instead?
 
 - If you're on the fence about whether or not your pet needs assistance with its grooming routine, at least consider using natural products that are skin-great for cats.
 
-## # 1. Harmful Chemicals like Permethrin and Tar
+###  1. Harmful Chemicals like Permethrin and Tar
 
 Using [dog](https: //pestpolicy. com/best-dog-beds/) shampoo on cats is not a good idea because some shampoos contain chemicals that are harmful to cats.
 
@@ -47,7 +47,7 @@ Some people also leave the conditioner in their cat's fur after washing it to pr
 
 For an alternative option for you and your pet, you can use some type of olive oil as a moisturizer.
 
-## # 2. pH Differences (Cats pH 6)
+###  2. pH Differences (Cats pH 6)
 
 One can answer the question of whether one should use dog shampoo on cats by considering how pH levels are different for each animal.
 
@@ -61,7 +61,7 @@ If you use a shampoo labeled as dog shampoo on your cat, it might wash off his f
 
 Related: 20 Mule Team Borax Pest Control
 
-## # 3. Cause damage to Sensitive skin
+###  3. Cause damage to Sensitive skin
 
 Dogs and cats have different skin needs, and it is not recommended that you use dog-specific products on your cat because it can damage their skin and fur, which will impact how they groom themselves.
 
@@ -73,7 +73,7 @@ This is the case even with diluted oils as they'll accumulate to harmful levels 
 
 - Sadly, the kitten's coat will also absorb these natural oils leading to skin damage.
 
-## # 4. Harmful Insecticides
+###  4. Harmful Insecticides
 
 Some dog shampoos have pesticides or insecticides to deal with flea or tick problems. Sometimes these chemicals can hurt cats.
 
@@ -85,7 +85,7 @@ So, what's the alternative? - Well, use pyrethrin shampoos on your cat (but in l
 
 However, dog shampoo contains harsh chemicals that may damage a cat's skin or cause "dandruff. " If your cat has an open wound, avoid using these dog shampoos altogether.
 
-# # Alternative Natural Products to Wash your Cat?
+##  Alternative Natural Products to Wash your Cat?
 
 Organic shampoos are usually the best choice for your pet. They use a variety of natural ingredients that will clean and condition their fur at the same time without leaving any harmful residue behind.
 
@@ -97,7 +97,7 @@ You can find organic shampoo in most major retailers like Whole Foods Market, Co
 
 - It'll be a plus if the cat shampoo or soap also has cat-friendly pest control ability such as exterminating fleas, flies, and ticks. Related: IGR for Fleas
 
-# # Conclusion
+##  Conclusion
 
 In summary on the question; can you use dog shampoo on cats? No, the cat-specific products will provide the best results for them during bath time.
 

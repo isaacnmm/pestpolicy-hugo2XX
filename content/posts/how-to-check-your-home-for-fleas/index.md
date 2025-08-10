@@ -30,11 +30,11 @@ This guide will walk you through a simple 5-point inspection to find out for sur
 
 {{< pinnable src="check-for-fleas-guide. jpg" alt="A guide showing a homeowner checking for fleas in carpets and on pet bedding. " description="Think you have fleas? This simple 5-point inspection, including the famous 'white sock test', will help you confirm a flea infestation in your home today. #fleacontrol #hometips #pestcontrol #petsafety #fleas" >}}
 
-## # Your 5-Point Inspection Plan for Fleas
+###  Your 5-Point Inspection Plan for Fleas
 
 Let's get methodical. By checking these five sneaky hiding spots, you'll know one way or another if you have a flea problem.
 
-### # 1. The Famous "White Sock Test"
+####  1. The Famous "White Sock Test"
 
 This is the classic, go-to method for a reason—it works, and it’s incredibly simple. Fleas are attracted to three things: warmth, vibration, and carbon dioxide (your breath). When you walk through a room, you're a walking, talking flea magnet. The white socks just make the dark-colored fleas incredibly easy to spot.
 
@@ -44,7 +44,7 @@ Do this for about ten minutes, then go stand in a well-lit area (like your kitch
 
 If fleas are present, you will likely see a few small black or dark reddish-brown specks clinging to the fabric.
 
-### # 2. Ground Zero: Your Pet’s Bedding and Favorite Spots
+####  2. Ground Zero: Your Pet’s Bedding and Favorite Spots
 
 If you have fleas in your home, it's almost a guarantee that they are living and breeding where your pet sleeps and rests. This is the heart of the infestation. Get a flashlight and get ready to look closely. You're searching for three things: live fleas, "flea dirt, " and flea eggs.
 
@@ -54,19 +54,19 @@ If it dissolves and leaves a reddish-brown smear (from the digested blood), you'
 
 Flea eggs are harder to see; they are tiny, oval, and white, often mistaken for dandruff or salt grains.
 
-### # 3. The Flea Paradise: Deep Within Your Carpets and Rugs
+####  3. The Flea Paradise: Deep Within Your Carpets and Rugs
 
 Your carpets are a flea's best friend. The dense fibers provide the perfect cover for adults, larvae, and eggs, protecting them from light, predators, and even the vacuum cleaner.
 
 To check your carpets, you need to get on your hands and knees. Use your fingers to part the carpet fibers and look deep down at the base. Pay special attention to the areas where your pets frequently lie down, as this is where the most "flea dirt" and eggs will fall off their bodies. Also, check the edges of the room along the baseboards, as this is a common place for fleas to hide.
 
-### # 4. The Nursery: Along Baseboards and in Floor Cracks
+####  4. The Nursery: Along Baseboards and in Floor Cracks
 
 Fleas are secretive and prefer to lay their eggs in dark, undisturbed areas. The tiny cracks and crevices along your baseboards and between hardwood floor planks are perfect incubation zones.
 
 Take a flashlight and get close to the floor. Carefully inspect the gap where the wall meets the floor, looking for live fleas or flea dirt. If you have hardwood floors, pay close attention to the spaces between the boards, especially in low-traffic corners or under furniture. It's these hidden spots that allow an infestation to persist even when you think you've treated everything.
 
-### # 5. The Ambush Zone: In and Under Your Upholstered Furniture
+####  5. The Ambush Zone: In and Under Your Upholstered Furniture
 
 Your sofa, armchairs, and other upholstered furniture are prime real estate for fleas. They offer warmth, shelter, and plenty of places to hide before they jump onto their next host—you or your pet.
 
@@ -74,7 +74,7 @@ Start by removing all the cushions and pillows. Using a flashlight, inspect all 
 
 ***
 
-## # Confirmed You Have Fleas? Here’s the Crucial Next Step.
+###  Confirmed You Have Fleas? Here’s the Crucial Next Step.
 
 Finding adult fleas is one thing; eliminating them completely is another. The real challenge, and the key to winning this fight, is destroying their eggs and larvae. These are notoriously resistant to many common sprays and powders and can lie dormant for weeks, just waiting to hatch and start the cycle all over again.
 

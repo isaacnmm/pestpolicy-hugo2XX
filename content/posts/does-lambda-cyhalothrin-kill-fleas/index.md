@@ -19,7 +19,7 @@ layout: post
 
 YES, the synthetic pyrethroid is packaged in liquids, pellets, powders forms and it kills a range of outdoor and indoor pests such as fleas, bees, wasps, bed bugs, earwigs, scorpions, silverfish, ticks, flies, termites, spiders, cockroaches, and ants. ** In this article, I'll get deeper into the products that have Lambda-cyhalothrin for your DIY pest control. Let's get into it.
 
-# # Details: How Lambda-Cyhalothrin Is Used For Pest Control
+##  Details: How Lambda-Cyhalothrin Is Used For Pest Control
 
 As described earlier lambda-cyhalothrin is classified as a pyrethroid (synthetic one) meaning that it is a replica of pyrethrum (natural) that comes from a chrysanthemum flower. - Despite being a synthetic replica of the pyrethrum, this Lambda-cyhalothrin will kill target fleas and other bugs through their food or physical contact.
 
@@ -27,7 +27,7 @@ Further exterminators love Lambda-cyhalothrin since it has a longer-lasting resi
 
 - Physically, lambda-cyhalothrin comes in a mild odor, beige when in solid form, but it's mainly colorless. - Also, the chemical is non-volatile and its solubility in water is low. Commercially you will find lambda-cyhalothrin in the form of granule formulations, granules, dust, concentrates, or liquid insecticide.
 
-# # Pros Of Using Lambda-Cyhalothrin For Flea and Pest Control
+##  Pros Of Using Lambda-Cyhalothrin For Flea and Pest Control
 
 Lambda-cyhalothrin is an effective pesticide to exterminate many household pests. - The synthetic pyrethroid is described as being dual-action in nature because it can kill fleas and other pests when they ingest or touch the insecticide. As a pyrethroid, the lambda-cyhalothrin will exterminate targeted fleas and insects by compromising and disrupting their central nervous system.
 
@@ -39,7 +39,7 @@ Lambda-cyhalothrin is an effective pesticide to exterminate many household pests
 
 The chemical will works to poison the flea's central nervous system which results in paralysis and finally death. The synthetic pesticide is compatible with many fungicides and insecticides and thus you can apply it alongside different products for pest control but still sustain its effectiveness and potency. Related: Flea Treatment for Cats
 
-# # Cons Of Using Lambda-Cyhalothrin For Flea and Pest Control
+##  Cons Of Using Lambda-Cyhalothrin For Flea and Pest Control
 
 The first drawback of using Lambda-cyhalothrin for pest control is that it contains a mild odor that could put off anyone that has some reasonable sensitivity. - Also, the insecticides knockdown effect might be known as quickly as you'll get with other[pest control products including flea foggers](https: //pestpolicy. com/best-fogger-for-fleas/)and sprays.
 
@@ -49,18 +49,18 @@ On toxicity lambda-cyhalothrin is classified as Class II on EPA Toxicity with Cl
 
 ](https: //pestpolicy. com/can-humans-carry-fleas-from-one-home-to-another/)
 
-# # How Safe is Lambda-Cyhalothrin for Flea Control?
+##  How Safe is Lambda-Cyhalothrin for Flea Control?
 
 You'll find Lambda-cyhalothrin to be effective and safe for pest control provided you follow the label directions and take the required precautions. As you are handling this insecticide, just like with other pest control products, you'll need to gear up and take the necessary safety precautions including wearing breathing masks, gloves, and goggles.
 
 - Experts recommend that you keep your pets and kids some distance or further from their place being flea treated for about 1 hour when the chemical will have fully dried. When you apply the synthetic pyrethroid the pest (including fleas) will begin dying in 1 to 7 days but you might require to reapply the insecticide if the pest infestation is very large.
 
-# # Products Containing Lambda-Cyhalothrin
+##  Products Containing Lambda-Cyhalothrin
 
 Some of the products that contain lambda-cyhalothrin as the active ingredient include Warrior, karate, Cyzmic CS, Demand, and Cyonara 9. 7 (9. 7% Lambda-Cyhalothrin). Other products include Agricultural insecticides for treating pests on both non-food and food crops, and insecticides for outdoor and indoor pest treatment including on various business buildings, hospitals, and homes.
 
 - Insecticides applied aerially - Pesticides aimed for application around the rights-of-way - Termite treatments - Insects and pest chemicals aimed at cattle - Insecticides aimed for lawn, ornamental plants, and greenhouses.
 
-# # Conclusion
+##  Conclusion
 
 Lambda-Cyhalothrin is an effective synthetic pyrethroid that will kill fleas in the house and in the yard. - Commercially there are many pest control products that contain lambda-cyhalothrin and you can inquire from your local exterminator or stores. Cheers

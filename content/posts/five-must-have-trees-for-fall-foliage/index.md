@@ -34,9 +34,9 @@ While the tropics, including Nairobi, don't experience the dramatic deciduous fa
 
 From stately maples to vibrant oaks, these trees promise to paint your autumn landscape with unforgettable splendor.
 
-# # Five Must-Have Trees for Spectacular Fall Foliage
+##  Five Must-Have Trees for Spectacular Fall Foliage
 
-## # 1. Sugar Maple (*Acer saccharum*)
+###  1. Sugar Maple (*Acer saccharum*)
 
 * **Fall Colors: ** Renowned for arguably the most spectacular fall display, ranging from brilliant oranges and fiery reds to vibrant yellows. Each tree can exhibit a kaleidoscope of colors. * **Characteristics: ** A large, stately deciduous tree, typically growing 60-100 feet tall with a dense, rounded canopy. Its bark is typically light gray, furrowed with age. * **Growth Requirements: ** * **Hardiness Zones: ** USDA Zones 3-8.
 
@@ -44,7 +44,7 @@ From stately maples to vibrant oaks, these trees promise to paint your autumn la
 
 * **Soil: ** Prefers moist, well-drained, slightly acidic to neutral soil. Tolerates a range of soil types but dislikes compacted soil and road salt. * **Landscape Use: ** An excellent shade tree for large properties, parks, or as a specimen tree. Its dense canopy provides significant summer cooling. * **Considerations: ** Needs ample space to grow. Can be sensitive to urban pollution and compacted soils.
 
-## # 2. Red Maple (*Acer rubrum*)
+###  2. Red Maple (*Acer rubrum*)
 
 * **Fall Colors: ** True to its name, the Red Maple consistently delivers brilliant shades of red, often scarlet, crimson, or orangey-red. Some cultivars offer deep purples. * **Characteristics: ** A medium to large deciduous tree, typically 40-60 feet tall, with a relatively fast growth rate and an oval to rounded crown. Its bark is smooth and grayish when young, becoming furrowed with age.
 
@@ -56,7 +56,7 @@ Its adaptability makes it a popular choice.
 
 * **Considerations: ** Some cultivars can struggle with alkaline soils, leading to chlorosis (yellowing leaves). Choose a cultivar suited to your soil pH.
 
-## # 3. Scarlet Oak (*Quercus coccinea*)
+###  3. Scarlet Oak (*Quercus coccinea*)
 
 * **Fall Colors: ** Offers a dazzling display of rich scarlet to crimson red, often holding its leaves well into late fall or early winter, extending the color season. * **Characteristics: ** A medium to large deciduous tree, typically 50-70 feet tall, with an open, rounded crown. Its deeply lobed, glossy green leaves give it a distinct appearance in summer. * **Growth Requirements: ** * **Hardiness Zones: ** USDA Zones 4-9.
 
@@ -64,7 +64,7 @@ Its adaptability makes it a popular choice.
 
 Tolerates dry, sandy soils and urban conditions better than some other oaks once established. * **Landscape Use: ** Excellent as a shade tree, specimen tree, or for naturalized areas where its brilliant fall color can be admired. Provides strong structural interest. * **Considerations: ** Can be slow to establish but is long-lived. Acorns can be a nuisance for some. Requires acidic soil for best color and health.
 
-## # 4. Ginkgo (*Ginkgo biloba*)
+###  4. Ginkgo (*Ginkgo biloba*)
 
 * **Fall Colors: ** Famous for its absolutely brilliant, uniform golden-yellow fall color. The fan-shaped leaves turn almost overnight and often drop all at once, creating a stunning golden carpet beneath the tree. * **Characteristics: ** A unique, ancient deciduous tree (the only surviving species in its order), typically growing 50-80 feet tall with an upright, often pyramidal, habit when young, broadening with age.
 
@@ -76,7 +76,7 @@ Its architectural form is striking even in winter.
 
 * **Considerations: ** **Choose male cultivars only! ** Female ginkgo trees produce fruit with a foul odor (like rancid butter) when crushed. Reputable nurseries sell only male cultivars (e. g. , 'Autumn Gold', 'Princeton Sentry', 'Magyar'). Can be slow to moderate growing.
 
-## # 5. Serviceberry (*Amelanchier spp.* - e.g., 'Autumn Brilliance' Serviceberry)
+###  5. Serviceberry (*Amelanchier spp.* - e.g., 'Autumn Brilliance' Serviceberry)
 
 * **Fall Colors: ** Provides a vibrant tapestry of orange, red, and sometimes purple, often combined with subtle yellow tones. * **Characteristics: ** A smaller, understory deciduous tree or large shrub, typically 15-25 feet tall, offering multi-season interest: delicate white spring flowers, edible purplish-red summer berries (attractive to birds), and beautiful fall foliage. Smooth, silvery bark.
 
@@ -88,7 +88,7 @@ Its architectural form is striking even in winter.
 
 Berries can create a light mess if planted over patios.
 
-# # Final Thoughts
+##  Final Thoughts
 
 While the tropical warmth of Nairobi might not experience the dramatic seasonal changes of temperate zones, for gardeners in regions where autumn truly flourishes, these five trees are unparalleled choices for creating breathtaking fall landscapes.
 

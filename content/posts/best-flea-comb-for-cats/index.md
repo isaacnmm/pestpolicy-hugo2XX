@@ -19,7 +19,7 @@ In this post, Ive reviewed the best flea combs for cats. Flea Combs are safer an
 
 **Summary: ** To stop scratching and itching in your cats & dogs due to fleas, check these flea combs.
 
-# # [1. Safari Flea Comb  Double Row Tines (Metal) Flea Comb](https://www.amazon.com/dp/B0002RJMAK/?tag=p-policy-20)
+##  [1. Safari Flea Comb  Double Row Tines (Metal) Flea Comb](https://www.amazon.com/dp/B0002RJMAK/?tag=p-policy-20)
 
 Top on the list of the best flea combs for cats and dogs is the safari flea comb. Initially, I noted that my cat was dandruffy and scabby in addition to having fleas. In addition to pre-brushing the cats fur, I recommend the Safari Flea Comb to search and remove fleas.
 
@@ -39,7 +39,7 @@ com/best-flea-shampoo-for-cats/) and powders, Easy to control with its great Con
 
 **Cons**: Might not work well with long hair.
 
-# # [2. Honbay Flea and Lice Comb  Double Sided Plastic Comb](https://www.amazon.com/dp/B01K14DKA6/?tag=p-policy-20)
+##  [2. Honbay Flea and Lice Comb  Double Sided Plastic Comb](https://www.amazon.com/dp/B01K14DKA6/?tag=p-policy-20)
 
 Hornby Flea and Lice Comb come second on the list and can comb most of your small pets. However, I noted that this one lacked a handle, unlike the Safari Flea comb. Hence it is a little difficult to use.
 
@@ -57,7 +57,7 @@ The double-sided plastic combs come if four colorful pieces that are also greatl
 
 **Cons**: Plastic might bend or break and h as no handle.
 
-# # [3. Oster Animal Care Comb  Suitable ergonomic design](https://www.amazon.com/dp/B00IMJ0286/?tag=p-policy-20)
+##  [3. Oster Animal Care Comb  Suitable ergonomic design](https://www.amazon.com/dp/B00IMJ0286/?tag=p-policy-20)
 
 Oster Animal Care Comb is considered a highly ergonomic flea comb to remove fleas from dogs and cats. Like the Safari comb above, the Oster Animal Care Comb has metal teeth durable and will remove fleas even in dense cat coats. Equally, the comb is suitable for both long and short-haired cats.
 
@@ -69,7 +69,7 @@ The combs teeth can turn 90 degrees from your cats skin, which also protects the
 
 ** The Bad: ** Lacks a handle, thus challenging to use.
 
-# # [4. Pet Republique Dog & Cat Flea Comb](https://www.amazon.com/dp/B01MF7SBG2/?tag=p-policy-20)
+##  [4. Pet Republique Dog & Cat Flea Comb](https://www.amazon.com/dp/B01MF7SBG2/?tag=p-policy-20)
 
 Pet Republique Cat Flea Comb is designed from flexible tines with top reliability in removing adult fleas, flea dirt, and dandruff flakes. The design of the comb prevents the occurrence of stray hair from your cat.
 

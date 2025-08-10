@@ -48,7 +48,7 @@ Knowing your soil's texture allows you to make informed decisions about irrigati
 
 Fortunately, you don't need a lab to get a good estimate; simple DIY tests at home can provide valuable insights.
 
-# # Method 1: The Jar Test (Sedimentation Test)
+##  Method 1: The Jar Test (Sedimentation Test)
 
 The jar test is a visual and relatively accurate method that separates soil particles by density.
 
@@ -70,7 +70,7 @@ Then measure the total height of all three layers combined. * Calculate the perc
 
 **Interpret with a Soil Texture Triangle: ** Use a [Soil Texture Triangle](https: //www. nrcs. usda. gov/resources/conservation-client-gateway/soil-science/soil-health/soil-texture-chart-and-triangle-poster) (readily available online from USDA or university extension sites) to pinpoint your soil texture type (e. g. , sandy loam, silty clay). Find the point where your calculated percentages of sand, silt, and clay intersect on the triangle.
 
-# # Interpreting Your Results & Improving Soil Texture
+##  Interpreting Your Results & Improving Soil Texture
 
 Once you know your soil's texture, you can better understand its characteristics and how to improve it.
 

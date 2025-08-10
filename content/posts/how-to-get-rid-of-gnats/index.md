@@ -20,9 +20,9 @@ The presence of Gnats (either the biting or the non-biting species) can really b
 
 **So, here's how to get rid of gnats; use a rotten bananas trap, dish soap, apple cider vinegar and sugar trap, use of wine, use of bleach solution, sticky yellow traps, gnats fogging product, tobacco method, use of citronella candles and maintaining cleanliness in your house. **
 
-# # Details: How to Get Rid Of Gnats
+##  Details: How to Get Rid Of Gnats
 
-## # 1. Rotten bananas Trap gnats
+###  1. Rotten bananas Trap gnats
 
 Gnats do really like rotten fruits due to fermentation smell. This is an inexpensive and simple way to eliminate gnats. 1. Take some ripe bananas; keep them somewhere to overripe or to rot. 2. After a few days, take your rotten bananas slice them into small pieces, place them in a jar. Then poke scattered holes into the plastic stretch cover and cover the jar with it. 3.
 
@@ -30,7 +30,7 @@ The gnats will move in and get stuck inside the jar; the plastic cover will hind
 
 *Why do the r* *otten bananas trap work? * *Gnats have the ability to smell rotting vegetables and fruits from miles away and get attracted towards them. So once they will smell the sweet scent of overripe bananas they will come in huge numbers to feast on them. Unfortunate they will get stuck inside the jar and the cover on top will prevent them from flying out. *
 
-## # 2. Dish Soap, Apple Cider Vinegar and Sugar Trap
+###  2. Dish Soap, Apple Cider Vinegar and Sugar Trap
 
 Next, youll make a gnats trap by mixing a few drops of dish soap, apple cider vinegar and sugar. All what you need is a container; dish soap, sugar and apple cider vinegar. 1. Take a container; just add two tablespoons of vinegar and two cups of water in it. Mix thoroughly then add a table spoon of sugar and some soap dish drops. Mix them until the sugar dissolves. 2. The fragrance smell of the mixture will attract the gnats.
 
@@ -40,7 +40,7 @@ When the gnats make contact with the vinegar solution, they wont be able to craw
 
 The gnats will be attracted to fragrance smell of vinegar and sugar in the container. Once they come into contact with this solution, they wont escape due to the dish soap. * *Note, this solution is harmless to your environment and your indoor plants. *
 
-## # 3. Use of stale wine
+###  3. Use of stale wine
 
 Maybe you had some stale wine in your house? Dont through it away, Make good use of it by trapping gnats. This is one of the bestways to attract them with wine scent. Any fermented drink works well to trap them.
 
@@ -50,13 +50,13 @@ Why does stale wine trap work?
 
 The gnats will fly inside the bottle and get stuck in this mixed liquid. This trap is similar to vinegar trap. Beer is can also work well in this case too.
 
-## # 4. Diluted bleach solution in the kitchen sinks and bathroom drains.
+###  4. Diluted bleach solution in the kitchen sinks and bathroom drains.
 
 One thing you will notice, gnats love moist areas inside the house. 1. Take some water and mix it with some bleach in a bucket. Take caution when performing this task by putting on protective gloves and cover your nose not to inhale the gas from this mixture. 2. Pour it into your kitchen sinks and bathroom drains. 3. Give it some few minutes to kill all the pests in the drains and sinks 4.
 
 Do this as many times as possible until all gnats are completely destroyed.
 
-## # 5. Placing sticky fly traps in most populated areas
+###  5. Placing sticky fly traps in most populated areas
 
 Take some sticky fly traps like yellow sticky traps; they will attract gnats with their bright color. Place a few of them in your kitchen, bathroom and table room near the windows.
 
@@ -68,7 +68,7 @@ You can repeat this severally until all gnats are completely destroyed from your
 
 The good thing with these traps, they will also assist you get [rid](https: //pestpolicy. com/get-rid-sweat-bees/) of other pests around your household like white flies and clothes moths.
 
-## # 6. Using gnats fogging product
+###  6. Using gnats fogging product
 
 This is a method involving use of pesticide spray which contains pyrethrin that kills pests. There are different types of fog products e. g. raids, zep and homemade pest sprays. Also if dealing with a highly infestation, Use an insect fogging product to eliminate them.
 
@@ -78,7 +78,7 @@ Take a fog can and remove the top tab, press it into the air to release droplets
 
 Make sure all food stuffs are well kept and drinking water to avoid contamination. Dont forget to keep off that area not to inhale the product its not good for your health.
 
-## # 7. Spreading tobacco
+###  7. Spreading tobacco
 
 Tobacco being one of the harmful products that brings about health risks to human beings, can now be used as a potential natural pesticide as it contains a lot of toxic nicotine.
 
@@ -86,7 +86,7 @@ Nicotine is a very fast nerve toxin to mammals and insects. Make sure you dont s
 
 Mix the warm water with cigarette butts then add some liquid soap to help the spray stick to the surfaces. 4. For 30 minutes steep the solution. Put the mixture through a strainer into a bucket with a lid. 5. Pour some solution on the surfaces where gnats are, and put some into a spray bottle and squeeze to any gnat circling around the house. Any other pest in your house will also be destroyed in the process.
 
-## # 8. Using of citronella candles
+###  8. Using of citronella candles
 
 Another feature of gnats is that they are attracted to light. In this homemade trap, all what you need is a candle, a tall candle stick, dish soap, a matchbox and a small basin. 1. Wait until its dark, take your candle and put it into the candle stick. 2. Take your basin and put some water in it, add some soap dish drops and mix it well. 3. Then place the candle stick holding your candle there. 4.
 
@@ -94,7 +94,7 @@ Make sure there is no other source of light in the room. Take your matchbox and 
 
 How does this trap work? This trap has two benefits; 1. First the gnats will be drawn near the candle by the light, some will get burnt their wings and die. 2. Others will go for reflection in the water instead. Once they fall in the water containing soap dish they wont manager to survive again.
 
-## # 9. Maintain cleanliness in your house.
+###  9. Maintain cleanliness in your house.
 
 One can eliminate gnats by ensuring the house environment is not conducive for them by; 1. Take Trash out Frequently- rotting organic matter is like a great brunch for small pests. To keep them away remove the trash from the house frequently and while in the house ensure it is well sealed. 2. Take care of ripe fruits and food leftovers Ensure you check on any fruit in the counter often to avoid them being spoilt in the house.
 
@@ -104,7 +104,7 @@ Remember any dirty dishes left lying in the sink will attract gnats in your hous
 
 To avoid this change your plant to a new pot or take the plant far away from your house and clean that area.
 
-# # Conclusion
+##  Conclusion
 
 In my conclusion, your home should be a place of comfort and happiness. Gnats presence is as bad as any other harmful pests occupying your home.
 

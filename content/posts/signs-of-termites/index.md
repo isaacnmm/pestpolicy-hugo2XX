@@ -21,9 +21,9 @@ In summary, you'll know if the structures such as the house or other buildings a
 
 - Check the crawl spaces or on the building walls (externally) up from the foundation for mud shelter tubes - When the structures are damaged by termites. Other signs of termites will include discarded wings, bubbling or uneven paint, and frass.
 
-# # Details: 9 Signs of Termites - Termite Activity
+##  Details: 9 Signs of Termites - Termite Activity
 
-## # 1. Termite Swarmers
+###  1. Termite Swarmers
 
 Termite swarms can happen outside or inside the house as the termites leave their nests and set up a new colony. - Immediately after the swarmers begin flying, they'll shed wings. - So the swarmers will leave evidence of wings (small piles) on various surfaces and spiderwebs including on the doors, window sills, and the house foundation.
 
@@ -39,7 +39,7 @@ If you see many swarmers coming out of a building, it is a sign that a large ter
 
 NB: Finding a few Formosan termites could be an exception when sighted in a building that is appropriately treated for termites. - This is because the Formosan swarmers will be attracted by light from outside colonies or trees and may enter the house, especially in the swam season.
 
-## # 2. Finding mud shelter tubes.
+###  2. Finding mud shelter tubes.
 
 If you see mud shelter tubes moving up the house plumbing, support piers, enable foundation walls, and outside foundation walls, then there could be a termite colony around. - For example, termites can build shelter tubes on the exterior side of a slab to enable them to get into the house under the siding. For verification purposes; - Break a small section of that mud tube and check if you see any termites.
 
@@ -51,7 +51,7 @@ You may also find the mud shelter tubes (especially for the Formosan termite) at
 
 Other possible reasons for the entry of the termites (especially the Formosan termites) include the presence of above-ground moisture or roof leak. I advise you to drill some pinholes on the mud shelter tubes or the dried mud on the structures for treatment of termites. - If the pinholes are repaired using mud, it will be clear that the termites have repaired them to prevent airflow exposure. Related: Carpenter Bee vs Bumblebee
 
-## # 3. Sunken trails or areas under the paint
+###  3. Sunken trails or areas under the paint
 
 The presence of trails or sunken areas on the surfaces, paint, or wallpaper may signify the presence of termites. - The sunken trails or areas under the paint could be resulting from the feeding activity of the termites as they cause damage to the cardboards. However, termites do not eat gypsum but will feed on the cardboard and wood panelling that is covering it.
 
@@ -65,13 +65,13 @@ Some of the termite species that will tunnel through spray-on foam insulation in
 
 Despite the fact that termites will leave an area shortly after attacking it, you may still see some of these animals that will denote the presence of an active termite infestation. Related: Termite Bait Stations
 
-## # 4. Structural damage on the roof and floors.
+###  4. Structural damage on the roof and floors.
 
 If you notice structural damage such as a sagging roof or floor or even a door frame that is broken, you could be sure that they are termites attacking. - But also the structural damage could have resulted from factors such as Wood rot. But if you see excessive dried or live termites on the damaged timber, this could point out that there are termites attacking the structures.
 
 Another sign that will denote the presence of drywood termites is if you find six-sided pallets that are uniformly-sized (small) on the countertop or floor.
 
-# # Conclusion
+##  Conclusion
 
 Termites will wittingly hide themselves in ward and soil especially in crisis and cars that are hidden on the foundation and the structures. - So if there are clear signs of a damaged infestation, then it is clear that their population is very high (since these pests are challenging to detect). The presence of shelter tubes moving up on the outside of the foundation wall will show the presence of termites.
 

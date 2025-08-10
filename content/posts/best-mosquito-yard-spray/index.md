@@ -19,7 +19,7 @@ So, which are the best mosquito yard sprays? Mosquito infestation will deny you 
 
 But, it is possible to [eradicate [mosquitoes](https: //pestpolicy. com/best-mosquito-repellent-for-yard/)](https: //www. mdpi. com/1660-4601/14/3/246) using insecticide sprays, mosquito traps-mosquito-trap/), or [repellents](https: //pestpolicy. com/best-mosquito-repellent-for-yard/). Check these top sprays.
 
-# # [**1. Spectracide Triazicide Landscape & Lawn Concentrate**](https://www.amazon.com/dp/B002ITJH82/?tag=p-policy-20)
+##  [**1. Spectracide Triazicide Landscape & Lawn Concentrate**](https://www.amazon.com/dp/B002ITJH82/?tag=p-policy-20)
 
 Having mosquitoes in your yard makes you vulnerable to numerous mosquito bites. You can effectively get rid of these yard invaders using a powerful insect killer like spectracide. The active ingredient is Gamma-Cyhalothrin, a very effective pyrethroid insecticide. It comes as a concentrate, which requires to be diluted with water before spraying. You dont need a spray bottle to administer this insecticide.
 
@@ -29,7 +29,7 @@ It has a residual effect of up to 8 weeks.
 
 That means it will continue protecting your yard or lawn from pests. When you spray on your beautiful roses or flowers, it wont leave stains. Plus, its not associated with an unpleasant scent. The Good: - Powerful active ingredient - Easy application using a garden hose - Eight weeks ofyard protection after spraying - Kills over 260 pests including mosquitoes The Bad: - Cannot be used indoors
 
-# # [**2. Ortho Bug B Gon Mosquito Killer for Gardens & Lawns**](https://www.amazon.com/dp/B07GSG5F4G/?tag=p-policy-20)
+##  [**2. Ortho Bug B Gon Mosquito Killer for Gardens & Lawns**](https://www.amazon.com/dp/B07GSG5F4G/?tag=p-policy-20)
 
 No mosquito can resist the power of Ortho Bug B Gon. As a popular insect pest killer brand, this product comes in handy as a good remedy for creatures like mosquitoes, ants, spiders, among others. The active ingredients contained in this insect killer are zeta-cypermethrin and bifenthrin. These two chemicals have proven efficiency in pest eradication. It comes in a 32-oz bottle, which allows you to spray around 5300 square feet of your garden.
 
@@ -39,7 +39,7 @@ You can use Ortho Bug B Gon to keep mosquitoes and other pests from your yard, l
 
 Although it contains chemicals, it wont affect your children or pets. Plus, it wont leave stains or unwanted smells. The Good: - Kills over 235 pests, including mosquitoes - Lasts at least six months after spraying - 32-oz bottle covers around 5300 square feet - Wont affect kids and pets - Does not smell or leave stain The Bad: - May affect bees and small fish Related: Best Mosquito Trap
 
-# # [**3. Wondercide Natural Spray**](https://www.amazon.com/dp/B074HZHPD9/?tag=p-policy-20)
+##  [**3. Wondercide Natural Spray**](https://www.amazon.com/dp/B074HZHPD9/?tag=p-policy-20)
 
 If youre looking for a 100% natural remedy for your mosquito infestation, then wondered is a great option. Its a powerful formulation containing organic ingredients that make it safe for the environment, humans, and animals. The active ingredient is cedar, which doubles as a pest killer and repeller. Other ingredients include ethyl lactate and water.
 
@@ -51,7 +51,7 @@ Thus, it wont distract your normal activities in the yard or lawn.
 
 The Good: - One bottle covers a large area (5000 square feet) - Does not contain chemicals - Easy to apply using the garden hose attachment - Works on several pests including mosquitoes - Has a pleasant smell - Safe around kids and pets The Bad: - Will not last long after application
 
-# # [**4. Cutter Backyard Spray**](https://www.amazon.com/dp/B07TD1FTLT/?tag=p-policy-20)
+##  [**4. Cutter Backyard Spray**](https://www.amazon.com/dp/B07TD1FTLT/?tag=p-policy-20)
 
 With lambda-cyhalothrin as its active ingredient, Cutter Backyard Spray will be a perfect solution for the mosquito infestation in your yard or lawn. The active ingredient is in the class of pyrethroid chemical insecticides, which have proven effective against a wide range of pests. Thus, it will kill other pests like fleas, ants, among other pests.
 
@@ -65,7 +65,7 @@ Its designed for outdoor spaces such as yards and lawns. You can spray it on you
 
 - Easy application using a garden hose - Does not wash off easily for up to 4 weeks - Eight weeks lasting effect - No residue or smell The Bad: - Not environmentally-friendly - For outdoors only
 
-# # [**5. Summit Mosquito Barrier Spray**](https://www.amazon.com/dp/B00B7WO1P0/?tag=p-policy-20)
+##  [**5. Summit Mosquito Barrier Spray**](https://www.amazon.com/dp/B00B7WO1P0/?tag=p-policy-20)
 
 If you want a mosquito spray to cover a large area, summit mosquito barrier spray has got you covered - allowing effective [**mosquito m**anagement](https: //repository. arizona. edu/handle/10150/625410). The active ingredient is permethrin, which is known for its long residual effects after being applied. In fact, it can keep your yard free from pests for a period of four weeks.
 
@@ -73,7 +73,7 @@ Its available in half a gallon bottle, which is enough to cover 10 000 square fe
 
 Thus, its ideal for a large garden or yard. With its quick spray bottle, you can attach a garden hose and spray it continuously. It can eradicate mosquitoes and other pests from vegetation, including grass, fence, and crops. The Good: - Ideal for a large garden/yard - Not dangerous for kids or pets - Odorless - Does not leave residues after drying - Four weeks of residual effects - Kills on contact The Bad: - Contains chemicals
 
-# # [**6. Bonide Mosquito Beater Spray**](https://www.amazon.com/dp/B000A0PZPA/?tag=p-policy-20)
+##  [**6. Bonide Mosquito Beater Spray**](https://www.amazon.com/dp/B000A0PZPA/?tag=p-policy-20)
 
 To get rid of mosquitoes, flies, gnats, and other pests from your yard and lawn, you need a powerful insect killer and repeller. Bonide mosquito beater spray does exactly that. It is a natural insect killer containing sodium lary sulfate, cedar oil, lemongrass oil, citronella oil, and geranium oil. These ingredients produce a formulation that will effectively kill and repel mosquitoes and other pests.
 
@@ -83,7 +83,7 @@ The spray nozzle allows you to connect a garden hose and spray continuously. Onc
 
 The Good: - Powerful natural insect killer - Protects your yard for about four weeks after application - One bottle covers 5000 square feet. - Spray nozzle allows easy attachment to a garden hose The Bad: - Limited to outdoor use only
 
-# # [**7. Adams Plus Yard Spray**](https://www.amazon.com/dp/B001OVGIUU/?tag=p-policy-20)
+##  [**7. Adams Plus Yard Spray**](https://www.amazon.com/dp/B001OVGIUU/?tag=p-policy-20)
 
 A quality insect killer comes in handy when you have a pest infestation. Pests such as mosquitoes, fleas, ants, crickets, and ticks can be killed and repelled with a powerful insect killer like Adams. The active ingredient is permethrin, a very efficient chemical for eradicating pests. The insecticide concentrate is available in a ready-to-spray 32-oz container. The nozzle attachment allows you to connect a garden hose on one end.
 
@@ -93,7 +93,7 @@ You can treat your yard, lawn, flowers, trees, fences, woodpiles, among other in
 
 Although it contains chemical ingredients, Adams plus yard spray is not associated with bad smell or stains. The Good: - Ideal for exterminating and repelling pests - One bottle is enough to cover 5000 square feet. - Leaves no stains - Last for four weeks - Hose attachment enables a hustle-free application. - Odourless The Bad: - Not natural
 
-# # Considerations**for Best Mosquito Yard Sprays**
+##  Considerations**for Best Mosquito Yard Sprays**
 
 Gardens, yards, and lawns provide a good harbourage for mosquitoes and other pests. When your yard is infested with mosquitoes, you risk suffering from mosquito bites and diseases. With the best spray for mosquitoes, it possible to keep your yard free from mosquitoes and other pests. **1. Area to Be Covered** When you look at most insect sprays' specifications, you see the amount of space they are meant to cover.
 
@@ -109,6 +109,6 @@ Instead, they contain ingredients that leave a pleasant and welcoming sensation 
 
 **Safety - ** The insecticides you use around your home should be free from harmful chemicals. Most organic products wont do any harm to humans or pets. However, if you prefer to use chemical products, ensure that they contain ingredients that pose little or no risk to your family and pets. As a precaution, insecticides should be kept away from children and pets.
 
-# # **Conclusion**
+##  **Conclusion**
 
 The remedy for your mosquito menace lies in your ability to choose the most effective pest eradication product. The above guide equips you with adequate information regarding the best mosquito yard sprays. A good product will help you eradicate mosquitoes and prevent future infestation.

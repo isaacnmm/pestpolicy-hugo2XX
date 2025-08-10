@@ -21,11 +21,11 @@ com/what-kills-fleas-in-the-yard-naturally/) infestation within a month.
 
 *In summary, here's how to kill flea eggs; vacuuming carpets, rugs and floors will remove the flea eggs dropped by your cats or dogs. Vacuuming will clean up flea larvae and their food (flea dirt). In addition, vacuuming makes the fleas to emerge from the insecticide-resistant cocoons - exposing them to treatment. *
 
-# # Details: How to Kill Flea Eggs?
+##  Details: How to Kill Flea Eggs?
 
 Flea eggs are translucent, oval-shaped objected that measure about 0. 5 mm (0. 02 inches). Females fleas lay average of 40 eggs daily in your yard or home - they'll hatch within 2 weeks into larvae.
 
-## # **1. Vacuum Carpets, Rugs and Floors**
+###  **1. Vacuum Carpets, Rugs and Floors**
 
 The surest way to control fleas eggs and adult fleas is vacuuming your rugs and carpeted areas - maintain a tidy and clean home. The flea vacuum machine will ruck all the flea eggs, cocoons, and larvae. Flea eggs tend to hatch in 2 to 3 days after they're laid. Therefore, the vacuuming daily will allow extermination of the eggs and thus preventthem from hatching a new flea generation.
 
@@ -33,7 +33,7 @@ Also, lifting your carpet nap during the vacuuming process ensures that the inse
 
 Further, vacuum the throw rugs, beds, cushions, under furniture, and room edges. Finally, seal and dispose your vacuum bag into the outdoor garbage can.
 
-## # 2. Spray IGR Prodcuts like Frontline Plus (Has S Methoprene)
+###  2. Spray IGR Prodcuts like Frontline Plus (Has S Methoprene)
 
 Get a flea control product that has an [Insect Growth Regulator (IGR)](http: //npic. orst. edu/ingred/ptype/igr. html) such as S Methoprene and pyriproxyfen that'll help kill the fleas eggs and flea larvae. Consult veterinarian first to ensure the product is safe for your pets, their bedding, and carpeting in the house. Not many product will kill and prevent flea eggs. However, you'll succeed if you prevent the flea eggs from hatching.
 
@@ -45,7 +45,7 @@ However, with these IGR products, you'll need to wait for 4 to 6 weeks for notab
 
 This is because IGRs will only kill flea larvae, flea eggs and not adults fleas. PT Ultracide is another favorable product for controlling flea eggs. The aerosol will kill the fleas immediately - has a quick kill effect - which also deterring the formation of new larvae, flea eggs and adults. Luckily, it has a long (7 months) residue effect.
 
-## # 3. L*aunder (at 140F) & Dry *Bedding and Clothes
+###  3. L*aunder (at 140F) & Dry *Bedding and Clothes
 
 Dryer heat will kill the flea eggs and larvae plus adults in your clothes, curtains and bedding. Launder fabrics at 140F for ~ 10 minutes before drying them at the highest temperature setting in your dryer - consider the fabric material too. Washing your bedding and clothes with hot water will help kill the fleas and their eggs. Further, an effective washing machine helps dislodge the flea eggs and thus exterminate a flea offspring.
 
@@ -55,7 +55,7 @@ Fleas won't survive the heat in your dryer. The bugs will die at [temperatures t
 
 But about a third of the larvae population could still develop to spin their cocoons and molt - but all will die in their cocoon.
 
-## # 4. Boric Acid Insecticide Powder
+###  4. Boric Acid Insecticide Powder
 
 Despite that spraying fleas, their larvae and eggs comes second to vacuuming in terms effectiveness, using insecticides powders can also work great in exterminating the flea eggs. Flea powders are less toxic compared sprays but they won't cause an instant killing effect on the eggs. But the powders function well will carpets. The flea powders have boric acid that's deadly to fleas but safe to humans and pets.
 
@@ -67,6 +67,6 @@ However, avoid using boric acid powder in the outdoor spaces as it won't be effe
 
 But vacuum the concrete, tile or hardwood floors for best results against flea eggs.
 
-# # Conclusion
+##  Conclusion
 
 The main control method for flea eggs definitely vacuuming, followed by using IGR sprays, laundering and drying, and finally boric acid powder. However, be sure that flea eggs hatch within a very short time - about 2 weeks. So, be quick and precise in controlling the flea eggs.

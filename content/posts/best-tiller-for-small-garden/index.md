@@ -18,9 +18,9 @@ The ideal tiller should be capable of preparing your soil adequately to transfor
 
 Size and weight of the tiller -A compact design is considered suitable for small yards and mini-gardens to allow you to work around delicate seedlings and tight spaces. Read Also: Best Rototiller for Rocky Soil
 
-# # Run-Down: 9 Best Tiller for Small Garden in 2025
+##  Run-Down: 9 Best Tiller for Small Garden in 2025
 
-## # [1. Sun Joe TJ603E electric tiller Garden Tiller](https://www.amazon.com/dp/B00V6IEVXM/?tag=p-policy-20)
+###  [1. Sun Joe TJ603E electric tiller Garden Tiller](https://www.amazon.com/dp/B00V6IEVXM/?tag=p-policy-20)
 
 With this Sun Joe model of the electric-powered electric cultivator, the tilling experience is exceptional. It introduces a cleaner and more efficient way to achieve great gardening outcomes.
 
@@ -34,7 +34,7 @@ Cons: - Hard to assemble
 
 Read Also: [Best PTO [Tiller](https: //pestpolicy. com/best-tiller-for-breaking-new-ground/) For The Money](https: //pestpolicy. com/best-pto-tiller-for-the-money/)
 
-## # [2. Earthwise TC70025 7.5 corded electric tiller](https://www.amazon.com/dp/B06Y24KQYN/?tag=p-policy-20)
+###  [2. Earthwise TC70025 7.5 corded electric tiller](https://www.amazon.com/dp/B06Y24KQYN/?tag=p-policy-20)
 
 This Earthwise series is bound to improve your gardening experience by ensuring that your garden is ready for planting with relative ease.
 
@@ -52,7 +52,7 @@ Cons: - It has a small electric cord
 
 Read Also: Best Rotavator for Allotment
 
-## # [3. Earthquake MC43 cultivator 43cc 10](https://www.amazon.com/dp/B07L9YVTCB/?tag=p-policy-20)
+###  [3. Earthquake MC43 cultivator 43cc 10](https://www.amazon.com/dp/B07L9YVTCB/?tag=p-policy-20)
 
 This Earthquake series ranks only second to the previous model. It is the ideal choice for cultivating weed, aerating the soil, and applying fertilizer. It offers you a tilling depth of 6 and cut 10 wide.
 
@@ -68,7 +68,7 @@ Cons: - Relatively expensive
 
 Read Also: [Best Tiller for Roots](https: //pestpolicy. com/best-tiller-for-roots/)
 
-## # [4. Mantis 7924 two-cycle tiller](https://www.amazon.com/dp/B00TY87WIC/?tag=p-policy-20)
+###  [4. Mantis 7924 two-cycle tiller](https://www.amazon.com/dp/B00TY87WIC/?tag=p-policy-20)
 
 At just 20lbs, this is the lightest tiller in the market which is capable of taking on heavy-duty tasks such as digging planting holes, and breaking through tough sod with relative ease.
 
@@ -82,7 +82,7 @@ Cons: - Relatively expensive
 
 Read Also: [How To Use a Tiller To Remove Grass](https: //pestpolicy. com/how-to-use-a-tiller-to-remove-grass/)
 
-## # [5. Black and Decker LGC120 mini-tiller](https://www.amazon.com/dp/B00TY87WIC/?tag=p-policy-20)
+###  [5. Black and Decker LGC120 mini-tiller](https://www.amazon.com/dp/B00TY87WIC/?tag=p-policy-20)
 
 This cordless garden tiller is powered by 20V lithium-ion batteries offering you an efficient and modern option for tackling your everyday gardening tasks.
 
@@ -100,7 +100,7 @@ Cons: - Not ideal for medium sized gardens
 
 Read Also: Best Tow Behind Fertilizer Spreader
 
-## # [6. Schiller Grounds Mantis Tiller 7940](https://www.amazon.com/dp/B00N6X9VY4/?tag=p-policy-20)
+###  [6. Schiller Grounds Mantis Tiller 7940](https://www.amazon.com/dp/B00N6X9VY4/?tag=p-policy-20)
 
 This Mantis tiller is powered by a 4-cycle Honda engine which provides enough torque to power through tough soil, providing twice the speed of other tillers in its class.
 
@@ -118,7 +118,7 @@ Cons: - Not environmental friendly
 
 Read Also: Best Garden Tiller for a Woman
 
-## # [7. Greenworks 10 27072 8 amp corded cultivator](https://www.amazon.com/dp/B00D3KJN3O/?tag=p-policy-20)
+###  [7. Greenworks 10 27072 8 amp corded cultivator](https://www.amazon.com/dp/B00D3KJN3O/?tag=p-policy-20)
 
 The 27072 series is powered by a clean engine that provides excellent weeding, digging, and gardening performance.
 
@@ -134,25 +134,25 @@ Cons: - Corded features renders it inflexible
 
 Read Also: Best Electric Tiller for Clay Soil
 
-# # Considerations for Best Tiller for small garden
+##  Considerations for Best Tiller for small garden
 
-## # 1. Care and maintenance
+###  1. Care and maintenance
 
 Most modern mini-tillers are electric or battery-powered. This is considered the best alternative because it eliminates the hassle of an oil change, noisy operations, and adds to the carbon footprint. - You might want to go for an electric over gas-powered model because there are fewer maintenance requirements.
 
 - Gasoline engines are cheaper to buy but are unsuitable for beginners who do not have sufficient knowledge of changing spark plugs and engine oil.
 
-## # 2. Soil type and ease of starting the engine
+###  2. Soil type and ease of starting the engine
 
 The type of soil in your garden determines how challenging the tilling exercise is likely to get. - If your mini-garden has fertile loamy organic soil, a less powerful tiller is considered ideal and vice-versa. Since you are dealing with light gardening tasks, you might want to go for a model that starts on the go at the push of a button. This feature is popular with corded and battery-powered tillers.
 
 A smooth start engine is ideal for the all-weather season since it does not require a warm-up period.
 
-## # 3. Adjustable handle and Versatility
+###  3. Adjustable handle and Versatility
 
 The light-duty nature of the gardening tasks performed by mini-tillers necessitates ease of maneuverability at the slightest turn to allow you to navigate the garden with relative ease. - Some tillers feature multiple attachments as compared to others. - This is an essential point of consideration if you are seeking to buy a mini-tiller that serves numerous purposes. However, the same selection criteria apply to all tillers.
 
-## # 4. Warranty
+###  4. Warranty
 
 With this unit, you want to go for a long-term purchase that guarantees a few years of the warranty period. Your choice of manufacturer is an essential consideration in determining the quality of the tiller.
 
@@ -160,6 +160,6 @@ Since gardening activities are bound to be confronted by various unforeseen chal
 
 This will not only save you unforeseen maintenance costs but also guarantees peace of mind during usage.
 
-# # Conclusion
+##  Conclusion
 
 You need the right and reliable miniature version of a garden tiller that powers through sod with minimal effort. Earthwise TC70025 stands out in our featured list due to its durable and reliable motor engine which features a quick start option. Its unique handling design is just what you need to keep the unit running for long without getting fatigued.

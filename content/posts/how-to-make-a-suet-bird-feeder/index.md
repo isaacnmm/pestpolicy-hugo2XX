@@ -51,7 +51,7 @@ Making your own suet feeder is a surprisingly simple and cost-effective DIY proj
 
 This guide will walk you through various methods of making suet feeders, from traditional fat cakes to log feeders, and offer creative ideas for fillings and containers, ensuring your backyard birds are well-fed and your garden is bustling with avian life.
 
-# # How to Make a Fat-Cake Feeder (The Classic Method)
+##  How to Make a Fat-Cake Feeder (The Classic Method)
 
 This is the most common and versatile way to make suet for feeders.
 
@@ -81,7 +81,7 @@ Pack it down firmly to eliminate air pockets. 6.
 
 Store excess suet cakes in an airtight container in the refrigerator for several weeks or in the freezer for several months.
 
-# # Fillings for Suet Feeder
+##  Fillings for Suet Feeder
 
 These provide additional nutrition and attract a wider variety of birds.
 
@@ -91,7 +91,7 @@ These provide additional nutrition and attract a wider variety of birds.
 
 * **Dried Mealworms: ** Excellent source of protein, especially good for insectivorous birds. * **Peanut Butter: ** (Plain, unsalted) Good binder and source of fat/protein. Mix it directly into the fat.
 
-# # How to Make a Rolled or Log Feeder (No-Melt Option)
+##  How to Make a Rolled or Log Feeder (No-Melt Option)
 
 This method is good for using softer suet mixtures or for a rustic look.
 
@@ -111,13 +111,13 @@ Adjust consistency by adding more dry ingredients if needed. 3.
 
 **Fill the Holes: ** Pack the suet paste firmly into each drilled hole using a spoon or butter knife. Ensure it's tightly packed. 4. **Hang: ** Thread a sturdy string or wire through the pre-drilled hole (or wrap it securely around the log) and hang it from a tree branch.
 
-# # Suet Feeder Placement
+##  Suet Feeder Placement
 
 * **Safety from Predators: ** Hang feeders in a location that offers birds some cover from predators (e. g. , near shrubs or trees), but also far enough from dense cover that predators cannot easily ambush them (e. g. , 10-15 feet away). * **Visibility: ** Choose a spot where you can easily observe the birds. * **Convenience for Refilling: ** Place it in an accessible spot for easy refilling and cleaning.
 
 * **Away from Windows: ** To prevent window collisions, place feeders either very close (within 3 feet) to a window or further away (over 30 feet).
 
-# # Final Thoughts
+##  Final Thoughts
 
 Making your own suet feeder is a delightful and impactful way to support local bird populations, especially those insectivorous species often overlooked by traditional seed feeders. Whether you opt for a classic fat cake, a charming pine cone, or a rustic log feeder, the process is straightforward and allows for creative customization.
 

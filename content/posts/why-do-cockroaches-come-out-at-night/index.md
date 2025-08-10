@@ -21,7 +21,7 @@ Is this your every night story? Did you know that having roaches at home could p
 
 If you are a bug hater and wonder why these night creepers are always awake to make you feel jelly in the knees, this article is where you fit right in.
 
-# # The Story Behind the Night Creepers:
+##  The Story Behind the Night Creepers:
 
 While there is a wide variety of roaches, the majority of them are nocturnal. Science says that cockroaches have a circadian rhythm like all living creatures (organisms) on earth.
 
@@ -35,7 +35,7 @@ This means when the bedtime is approaching and the light goes off, a big welcome
 
 And now they will cascade in bulk from under the kitchen shelves, store room cabinets, washroom holes, and the smallest crack and the crevices. Stay SAFE!
 
-# # Do Roaches Sleep During the Day?
+##  Do Roaches Sleep During the Day?
 
 Plenty of research has been conducted on the activity cycle of roaches and a few of them to find out whether they sleep during the day or not! And each one points to the aforementioned circadian rhythm responsible for a sustained bout of inactivity in these bugs.
 
@@ -45,7 +45,7 @@ Here, Professor Irene Tobler-Borbely best sums up the activity of the roaches in
 
 So, if you are not finding traces of these little monsters during the daylight, probably they are taking a siesta. .. * LOL! *
 
-# # Why Do Cockroaches Hate Light?
+##  Why Do Cockroaches Hate Light?
 
 A few studies indicate that cockroaches have a zero aversion to light. But, why do these annoying species run away from the lights then?
 
@@ -57,13 +57,13 @@ What's more, a former body of research also emphasized the impact of artificial 
 
 So, even a dim light in the kitchen area could reduce their appearance. Mind it!
 
-# # So What Do They Scout For At the Nights?
+##  So What Do They Scout For At the Nights?
 
 So, coming back to the question again, "Why Do Cockroaches Come Out At Night", you should possibly look for an answer inside your house, more precisely the kitchen and the pantry.
 
 Roaches are always out on forage for food and water during the darkest hours when you are crawling into the comfort of your bed.
 
-# # Have a large number of these bugs at home?
+##  Have a large number of these bugs at home?
 
 You will surely discover hundreds of thousands of them wobbling and running for shelter when you suddenly turn on the lights after 4 hours of darkness interval.
 

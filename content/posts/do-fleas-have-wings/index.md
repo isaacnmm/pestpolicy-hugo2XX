@@ -21,19 +21,19 @@ Fleas are tiny insects of the Siphonaptera order that'll feed off human or anima
 
 The suffix"** *aptera" in * **Siphonaptera ** *order * **denote that fleas are ** [wingless arthropods](https: //en. wikipedia. org/wiki/Aptera) ** - like most ectoparasites such as ** **ticks** **. ** **Fleas use their powerful and tiny legs to jump (about 8 inches vertically) or move between hairs of host animal. Fleas, besides froghoppers, have the highest jump-body size ratio. **
 
-# # Details: Do Fleas Have Wings? 9 FAQs for Fleas
+##  Details: Do Fleas Have Wings? 9 FAQs for Fleas
 
 So, fleas have no wings. The suffix aptera in the order Siphonaptera (a Greek word) denotes that fleas are wingless while siphon is interpreted as siphon.
 
 Most ectoparasites attacking mammals and birds - lice, bedbugs, ticks, and fleas - cant fly and lack functional wings. They use legs to walk around but, to move quickly or further, fleas use the powerful but tiny legs to jump. The over 2, 000 [flea](https: //pestpolicy. com/best-flea-carpet-powder/) types including human fleas, cat fleas, oriental rat fleas, dog fleas lack wings and thus can't fly.
 
-# # How Fleas Lost their Wings
+##  How Fleas Lost their Wings
 
 Scientific evidence points that fleas had winged ancestors and they lost their wings along the evolution journey. Fleas "originated" from order Mecoptera. Boreidae insects like snow scorpion-flies are considered to have been the descendants of fleas. Fleas were not originally parasites in mammals for ages - they were free-living. But when they moved into their parasitic tendencies they ended burrowed in their hosts's bodies - mainly mammals.
 
 Therefore, flying capability and wings became useless in the fleas' new life. In fact, wings would tend to hinder their parasitic life as they tried to burrow into their hosts's bodies. Thus, flea wings degenerated in the evolution process.
 
-# # Adapations in Fleas for movement (Jumping)
+##  Adapations in Fleas for movement (Jumping)
 
 Fleas move from one place or host (animal) by [jumping with their](https: //www. wired. com/2011/02/flea-jumping-mechanics/) [spring-loaded feet](https: //www. wired. com/2011/02/flea-jumping-mechanics/) (about 5 feet high) using their strong but tiny hind legs. Also, the fleas' [flattened, small body](http: //bioweb. uwlax. edu/bio210/s2012/dorshors_jaco/adaptation. htm) allow the fleas to easily hide on the animal's hair.
 
@@ -45,7 +45,7 @@ Also, fleas have flight muscles (basalars and subalars) plus tergo-trochanteral 
 
 Eventually, they'll take their full feed and lay over [100 flea eggs](https: //pestpolicy. com/how-to-kill-flea-eggs/) daily. But fleas are toxic bugs that can spread dangerous diseases such as plague and typhus. As the flea jump from one pet or human to another, they'll ready spread the diseases such as Bubonic plague.
 
-# # What Looks Like a Flea But Has Wings?
+##  What Looks Like a Flea But Has Wings?
 
 Have you seen some bugs looking like fleas but can fly? Well, those are definitely not fleas since fleas can only jump but can't fly - these might be small fruit flies or gnats. 1. *Fruit flies*- So, fruit flies are the most regular visitors around your house or yard that you may confuse with fleas. Fruit flies will mainly follow and land around rotten and smelly vegetables and fruits. 2.
 
@@ -53,11 +53,11 @@ Have you seen some bugs looking like fleas but can fly? Well, those are definite
 
 However, these ones -[drugstore](http: //entomology. ifas. ufl. edu/creatures/urban/stored/drugstore_beetle. htm)and cigarette beetles have wings but also look like fleas.
 
-# # How Fleas Move Over Long Distances?
+##  How Fleas Move Over Long Distances?
 
 Do fleas have wings? Can they fly? As noted above, fleas won't fly as they lack wings like other Siphonaptera insects. Thus, fleas rely on their jumping capability or attaching their-selves on humans or host animals to move over long distances. Notably, fleas will hitchhike their hosts including rodents like mice and rats. In addition, the critters may attach on socks and shoes worn by humans as they move around the house or yard.
 
-# # Do Baby Fleas Jump orCrawl?
+##  Do Baby Fleas Jump orCrawl?
 
 First, note that in reality "baby flea" don't exist. Definitely, flea eggs will hatch to become larvae but won't be adequately developed to be considered as baby fleas - they're called "blobs". The blind fleas will thus require additional time to grow. Therefore, the blobs create cocoons around their body and will thus continue developing to adulthood.
 
@@ -67,11 +67,11 @@ In addition, in the quiescent phase, the fleas will remain motionless in their c
 
 Thus, in their "baby" stage, fleas don't move around but will be fixed in their cocoons.
 
-# # Conclusion
+##  Conclusion
 
 In summary, we've outlined that fleas cannot fly since they're wingless insects. But these bugs have strong legs that help them in jumping from one place or host to another. In addition, fleas will hitchhike humans, shoes, or clothes such as socks to move over long distances as the animals transit to different places.
 
-# # Sources:
+##  Sources:
 
 1. [Laboratory Identification of Arthropod Ectoparasites - NCBI](https: //www. ncbi. nlm. nih. gov/pmc/articles/PMC3910909/) 2. [Jumping performance of flea hoppers and other mirid - NCBI](https: //www. ncbi. nlm. nih. gov/pubmed/28193637) 3. [Urban Entomology Chapter 9, Part 3 Department](https: //entomology. ucr. edu/ebeling_ch9_3) 4. [Flea beetle - Altica spp. - Entomology and Nematology](http: //entnemdept. ufl.
 

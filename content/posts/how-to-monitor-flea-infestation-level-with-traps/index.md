@@ -23,13 +23,13 @@ A flea trap is more than just a weapon; it's your most important intelligence-ga
 
 This guide will teach you how to use a simple flea trap to monitor your infestation level, measure the success of your treatments, and know with confidence when you have finally won the war.
 
-## # Step 1: Get a Consistent Tool
+###  Step 1: Get a Consistent Tool
 
 For monitoring purposes, consistency is key. While a DIY soap trap works, a commercial sticky trap is a better scientific tool because it provides a consistent lure (bulb) and an easy-to-read record (the sticky pad).
 
 Choose one type of trap and stick with it throughout your monitoring process.
 
-## # Step 2: Establish Your "Flea Baseline"
+###  Step 2: Establish Your "Flea Baseline"
 
 Before you begin any major treatments, you need to know your starting point. This is your **Baseline Flea Count (BFC)**.
 
@@ -37,7 +37,7 @@ Before you begin any major treatments, you need to know your starting point. Thi
 
 This number—whether it's 3 or 30—is your crucial starting point. It represents the current level of active adult fleas in that area.
 
-## # Step 3: Create a Simple Tracking Log
+###  Step 3: Create a Simple Tracking Log
 
 Now you need a place to record your data. This doesn't have to be complicated. Use a notebook or a simple digital note. Create three columns:
 
@@ -45,7 +45,7 @@ Now you need a place to record your data. This doesn't have to be complicated. U
 
 Check the trap at the same time each day, count the new fleas, replace the pad if needed, and update your log. This simple ritual is the key to winning.
 
-## # Step 4: Interpret the Data (What the Numbers Mean)
+###  Step 4: Interpret the Data (What the Numbers Mean)
 
 Your log will start to tell a story. Here's how to read it:
 
@@ -57,7 +57,7 @@ Your log will start to tell a story. Here's how to read it:
 
 * **A Zero Count: ** This is the goal, but it is **not** victory. Not yet.
 
-## # Step 5: Know When You've Won (The "Zero Flea" Protocol)
+###  Step 5: Know When You've Won (The "Zero Flea" Protocol)
 
 A single day with zero fleas is a milestone, but it's dangerously misleading. Dormant flea pupae can still be hiding in your carpet, waiting to hatch a week later and restart the entire infestation.
 
@@ -67,7 +67,7 @@ To be certain you have won, you must follow the **Zero Flea Protocol. **
 
 If you can go 14-21 days straight without catching a single flea, you can be confident that you have broken the entire flea life cycle.
 
-## # Conclusion: From Victim to Detective
+###  Conclusion: From Victim to Detective
 
 Stop fighting blindly. By using a flea trap to establish a baseline, log your data, and interpret the results, you change from a frustrated victim into a proactive flea detective.
 

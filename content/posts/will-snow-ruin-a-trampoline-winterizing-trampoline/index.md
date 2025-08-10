@@ -18,7 +18,7 @@ will [snow](https: //pestpolicy. com/how-to-deal-with-snow-and-ice-in-the-garden
 
 You may be wondering; Should I disassemble my trampoline during the winter? Will the trampoline get ruined by the snow? What cause of action should I take? In this article, well cover these questions and any other issue that we think you should know relating to winter, snow, and its effect on a trampoline. Read Also: Swing Sets for Small Yards.
 
-# # Will Snow Ruin a Trampoline?
+##  Will Snow Ruin a Trampoline?
 
 Well, it depends. If you live in areas that experience heavy snows, your trampoline is likely to get ruined. The fear of snow ruining your trampoline shouldnt come between you and the fun youre likely to experience jumping in winter. Read Also: Running Shoes for Heavy Female Runners The heavy snows will build on the trampolines mat, making the springs overstretch.
 
@@ -26,7 +26,7 @@ However, you can protect your trampoline by clearing the snow off using either a
 
 On the other hand, if you reside in those regions that dont experience heavy snow, its unlikely that your trampoline will get ruined. The bottom line is the regular maintenance of the structure. Winter is just an ordinary period, and it shouldnt prevent you and your kids from having fun. I know winter can be icy, but hey, jumping will warm you up, just try it! Read Also: Swing Set Under 200.
 
-# # **Should You Disassemble Your Trampoline During Winter? **
+##  **Should You Disassemble Your Trampoline During Winter? **
 
 Most trampoline owners ponder this question a lot. To answer it directly, I would say it depends. But, if you have enough storage space, you can always take them down and store to reassemble later. It depends on the level of snow you usually experience in your area, the manufacturers opinion about the ability of the structure to survive in winter, and your personal preference. Read Also: [Stain For Cedar Swing Set](https: //pestpolicy.
 

@@ -18,9 +18,9 @@ If you are a kid, a player with petite hands or a traveler wishing to play the [
 
 It has a shorter distance between nut and bridge (in the 22 inches - 24 inches). Frets are closer together like in the 1958s [Capri series](https: //reverb. com/p/rickenbacker-360-capri-1958-1960). But, Just like in full-scale guitars, consider durability, sound quality, & reliability. Related: 7 Best Mics for Recording Acoustic Guitar
 
-# # Reviews: 7 Best Short Scale Electric Guitars 2025
+##  Reviews: 7 Best Short Scale Electric Guitars 2025
 
-## # [1. Fender Duo-Sonic Offset Electric Guitar - #1 Pick](https://www.amazon.com/dp/B01KWPTLQG/?tag=p-policy-20)
+###  [1. Fender Duo-Sonic Offset Electric Guitar - #1 Pick](https://www.amazon.com/dp/B01KWPTLQG/?tag=p-policy-20)
 
 Fender Duo-Sonic is smaller (equally portable) and has a shorter scale (hence more playable) with great tones falling between Tele and Strat. It has been used by popular players such as Tom Verlaine, Patti Smith, and David Byrn.
 
@@ -30,7 +30,7 @@ It offers maximum note separation.
 
 Related: 7 Best Acoustic Guitar Under 300
 
-## # [2. Mustang 90 Short Scale Offset Guitar - #2 Pick](https://www.amazon.com/dp/B01KWPTJAO/?tag=p-policy-20)
+###  [2. Mustang 90 Short Scale Offset Guitar - #2 Pick](https://www.amazon.com/dp/B01KWPTJAO/?tag=p-policy-20)
 
 Fender Mustang 90 is an indie classic popularly known as the exceptional garage rock guitar. It has a small size, produces a fat Fender tone, and has a great aesthetic look.
 
@@ -42,7 +42,7 @@ Fender Mustang 90 has a compact shape that makes it highly playable for kids or 
 
 Read Also: Headphones for Music Production
 
-## # [3. Gibson SG Special 2016 T Electric Guitar, Satin Cherry - #3 Pick](https://www.amazon.com/dp/B00843AA2S/?tag=p-policy-20)
+###  [3. Gibson SG Special 2016 T Electric Guitar, Satin Cherry - #3 Pick](https://www.amazon.com/dp/B00843AA2S/?tag=p-policy-20)
 
 Next up is the Gibson SG Special 2016 T, which in simple terms is durable, sturdy, and lightweight rock guitars. It allows versatile pickups with its great classic finish (a combination of modern and vintage).
 
@@ -54,7 +54,7 @@ This Gibson SG Special 2016 T was popularly used by players such as Tommy Iommi 
 
 Related: 7 Best Headphones for Guitar Amps
 
-## # [4. Epiphone G-400 Pro Electric Guitar with Coil-Splitting](https://www.amazon.com/dp/B007AGR5JQ/?tag=p-policy-20)
+###  [4. Epiphone G-400 Pro Electric Guitar with Coil-Splitting](https://www.amazon.com/dp/B007AGR5JQ/?tag=p-policy-20)
 
 Epiphone G-400 PRO is a 22-fret guitar that comes with superior hardware, alnico five magnet-triggered humbuckers, and coil-tap switching that means that the guitar is more versatile.
 
@@ -64,6 +64,6 @@ Notable features (again) are coil-tapping, versatile pickups, aesthetic looks, a
 
 In addition, for faster attack and tighter low-end, the guitar has alnico 5s magnets. Overall, this Epiphones G-400 PRO comes with key upgrades from the previous model. Notable features (again) are coil-tapping, versatile pickups, aesthetic looks, and better hardware. Read Also: [DJ Headphones](https: //pestpolicy. com/best-dj-headphones/)
 
-# # Conclusion
+##  Conclusion
 
 Why short scale electric guitars - portability, comfort, sound, and string tension. It has a 4-piece mahogany build that has Wilkinson 14: 1 tuner and 500k O pots that have superior quality.

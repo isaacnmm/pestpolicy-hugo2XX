@@ -20,7 +20,7 @@ These products are designed to remove dirt, grime, mildew, and old deck stain or
 
 Additionally, deck brighteners can help restore the wood's natural color, making it look fresh and vibrant again. ** These solutions are usually available in both liquid and powder form, and you can apply them with a brush or a sprayer. By using deck cleaners and brighteners, you can skip the sanding process while still achieving an impressive result.
 
-# # Alternative To Sanding A Deck?
+##  Alternative To Sanding A Deck?
 
 Deck cleaners and brighteners work by breaking down and removing dirt, debris, and old coatings from the wood's surface. The cleaning solution helps open up the wood's pores, allowing the brightener to penetrate and restore the wood's original color. This process prepares the deck for a new coat of stain or [sealer](https: //pestpolicy.
 
@@ -34,7 +34,7 @@ com/best-deck-sealer-for-pressure-treated-wood/), which will not only enhance th
 
 However, it's essential to handle chemical strippers with care and use protective equipment to ensure your safety. Related: [Clean and Brighten a Deck](https: //extension. missouri. edu/publications/g6523)
 
-# # **Pros and Cons of Each Alternative**
+##  **Pros and Cons of Each Alternative**
 
 Below, we'll explore the pros and cons of each alternative method, helping you decide which approach best suits your needs: **1. Deck Cleaner and Brightener** *Pros: * - Easy to apply and use. - Effective at removing stains and brightening the wood. - Prepares the deck for new coating application. - Does not require extensive labor or equipment. *Cons: * - May not be as effective for heavily damaged or severely weathered decks.
 
@@ -54,7 +54,7 @@ Pressure Washing** *Pros: * - Efficiently cleans the deck surface. - Can remove 
 
 Related: [Pressure Wash a Wood Deck](https: //extension. umn. edu/how-pressure-wash-wood-deck)
 
-# # **Conclusion**
+##  **Conclusion**
 
 When it comes to refreshing and restoring your deck, sanding is not the only option. There are various alternatives available, each with its pros and cons. Deck cleaners and brighteners can be a straightforward solution for [surface-level stains](https: //pestpolicy. com/how-to-stain-a-deck-for-the-first-time/) and dirt, while pressure washing can provide efficient cleaning for regular maintenance.
 

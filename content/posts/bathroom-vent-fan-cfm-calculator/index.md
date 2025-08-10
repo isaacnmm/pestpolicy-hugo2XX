@@ -43,13 +43,13 @@ However, simply installing a fan isn't enough. Its effectiveness hinges critical
 
 Understanding **what CFM is**, **how to measure your bathroom size** accurately, and applying a simple calculation will empower you to select the perfect fan, ensuring optimal humidity control, maintaining good indoor air quality, and protecting your bathroom's structural integrity and finishes for years to come.
 
-# # How to Measure Bathroom Size
+##  How to Measure Bathroom Size
 
 To use a CFM calculator effectively, you'll need accurate measurements of your bathroom.
 
 1. **Measure Length and Width: ** Use a tape measure to determine the length and width of your bathroom in feet. Round to the nearest half-foot if necessary. 2. **Measure Height: ** Measure the height of your bathroom ceiling from the floor to the ceiling in feet. Most standard ceilings are 8 feet high.
 
-## # Calculation Method 1: For Bathrooms Up to 100 Square Feet
+###  Calculation Method 1: For Bathrooms Up to 100 Square Feet
 
 For most standard-sized bathrooms (up to 100 square feet), a simple rule of thumb applies:
 
@@ -61,7 +61,7 @@ For most standard-sized bathrooms (up to 100 square feet), a simple rule of thum
 
 * *Recommendation: * Always round up to the nearest standard fan size available. So, for 56 CFM, you would likely choose a 70 CFM fan.
 
-## # Calculation Method 2: For Bathrooms Over 100 Square Feet or with High Ceilings
+###  Calculation Method 2: For Bathrooms Over 100 Square Feet or with High Ceilings
 
 For larger bathrooms or those with ceilings higher than 8 feet, a more precise calculation based on the room's volume and desired air changes per hour (ACH) is recommended. The industry standard is **8 air changes per hour (ACH)**.
 
@@ -73,7 +73,7 @@ For larger bathrooms or those with ceilings higher than 8 feet, a more precise c
 
 * *Recommendation: * Round up to the nearest standard fan size, so you'd look for a 150 CFM fan.
 
-## # Additional CFM Considerations (Beyond Room Size)
+###  Additional CFM Considerations (Beyond Room Size)
 
 Beyond the basic room dimensions, certain bathroom features generate more moisture and odors, requiring additional ventilation capacity. Add these values to your initial CFM calculation:
 
@@ -91,7 +91,7 @@ Let's say you have a bathroom that is 8 feet long, 10 feet wide, and 8 feet high
 
 In this scenario, you would need to look for a fan with a CFM rating of at least 230 CFM, likely a 250 CFM or 300 CFM model.
 
-# # Bathroom Vent Fan Installation
+##  Bathroom Vent Fan Installation
 
 Even the perfectly sized fan won't perform optimally if not installed correctly.
 
@@ -101,7 +101,7 @@ Even the perfectly sized fan won't perform optimally if not installed correctly.
 
 * **Make-up Air: ** Ensure there's a small gap (e. g. , 1/2 to 3/4 inch) under the bathroom door to allow fresh air to enter as humid air is exhausted.
 
-# # So, Is a Bathroom Vent Fan CFM Calculator Helpful?
+##  So, Is a Bathroom Vent Fan CFM Calculator Helpful?
 
 Absolutely. A bathroom vent fan CFM calculator (or simply understanding the underlying calculations) is an incredibly helpful and necessary tool for anyone looking to install or replace a bathroom exhaust fan. It takes the guesswork out of fan selection, ensuring you choose a unit that is perfectly matched to your bathroom's needs.
 

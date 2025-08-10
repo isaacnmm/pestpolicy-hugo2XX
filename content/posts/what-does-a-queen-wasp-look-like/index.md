@@ -21,7 +21,7 @@ The queen wasp is specially fed and treated by worker wasps while resting. It is
 
 ** Related: Can Wasps Sting More Than Once?
 
-# # Details: How to Identify a Queen Wasp
+##  Details: How to Identify a Queen Wasp
 
 A Queen Wasp is a mature (adult) female wasp that has been treated specially by worker wasps (female) and is assigned the role of laying eggs and raising a new generation of wasp.
 
@@ -41,7 +41,7 @@ You will notice, in any wasp nest, that there are wasps that surround a given ar
 
 Related: [Baby Wasp in your House? ](https: //pestpolicy. com/baby-wasp/)
 
-# # How Big is the Queen Wasp?
+##  How Big is the Queen Wasp?
 
 The Queen Wasp is bigger than the rest of the wasps in a given wasp nest - [including fake wasp nests](https: //pestpolicy. com/do-fake-wasps-nests-work/). To be precise, most Queen Wasps will measure between 2 to 2. 5cm approximate lengths.
 
@@ -49,7 +49,7 @@ This may go up slightly, but not beyond 3. 8cm. The worker wasps are slightly sm
 
 The Lower abdomen of the Queen Wasp is sharp pointed and are longer as compared to other wasps.
 
-# # How Does a Wasp Become Queen?
+##  How Does a Wasp Become Queen?
 
 The journey of the wasp to becoming the future queen begins when the mother queen mates with the drones just before winter. Then, the mother queen leaves the wasp nest to new place where it hibernates.
 
@@ -67,13 +67,13 @@ Once the new queen achieves full maturity, the mother leaves the nest and goes t
 
 The New workers works collaboratively and submissively to achieve every assignment given by the new queen even if they were of same age and generation.
 
-# # How does the Queen European Wasp Look Like?
+##  How does the Queen European Wasp Look Like?
 
 This species of wasps is slightly small. The workers feeds the queen until it acquire a triangular shape after which its given the leadership mantle. The queen is approximately 2 cm long when fully grown.
 
 The body of Queen European Wasp is bright yellow in color with black triangular stripes that runs to the tip of the abdomen. The wings incompletely cover the queens abdomen.
 
-# # Should I kill a Queen Wasp in a Wasp Nest?
+##  Should I kill a Queen Wasp in a Wasp Nest?
 
 If you intend to eliminate a wasp colony, killing the queen is a brilliant option. We know that the queen is mandated with a role of laying eggs and raising new generation for its entire life. Some people use [wasp foggers](https: //pestpolicy. com/best-wasp-fogger/).
 
@@ -83,7 +83,7 @@ Queen hibernates in the new place where it lays its eggs and broods. It is the w
 
 This brings to an end the entire infestation of wasp. Killing the Queen Wasp when the first generation has matured wont work since any of the worker can be selected and become the next queen wasp.
 
-# # When and where are you likely to see the Queen Wasp?
+##  When and where are you likely to see the Queen Wasp?
 
 Queen Wasps are much protected insects in the Wasp colonies. They rarely move around as compared to workers or drones. It is expected that the Queen Wasp will remain in its cell for its entire life while workers would offer it food and continued security.
 
@@ -97,7 +97,7 @@ You will find the Queen Wasp in gardens, meadows, parks or in woodland. It becom
 
 Also, you may slightly see Queen Wasp during end of Autumn and early summer since this is the time it build nest and lay drone eggs, which mature during the summer period. The last egg laid at the end of the summer is usually fertilized purposely to raise a new queen.
 
-# # Are Queen Wasps be aggressive?
+##  Are Queen Wasps be aggressive?
 
 Yes! The Queen Wasp and female wasps contain stinger. In case the Queen Wasp detects any danger, it becomes very aggressive. It will command its soldiers (workers) to attach the enemies.
 
@@ -107,19 +107,19 @@ The Queen Wasp can also be aggressive in case you attacks its nest or disturb it
 
 Hornets and Yellowjackets are the most aggressive species. They even sting your clothes and face protection severally without giving up.
 
-# # Do Hornets Have Queen Wasp?
+##  Do Hornets Have Queen Wasp?
 
 Yes! Hornets, like any other species of wasp, lives communally in wasp nest. They have one Queen Wasp whose role is to lay eggs, train the female workers and breed new generations of wasps.
 
 Hornet Queens build a new nest by chewing wood to form a pulp that forms a papery structure with multiple cells in each chamber.
 
-# # Do Wasps Have One Queen in Each Nest?
+##  Do Wasps Have One Queen in Each Nest?
 
 Each Colony of Wasps has only one Queen Wasp at a time. It is not possible to have two Queen Wasps in a given wasp nest. In case two female wasps mature to be queens (which is a rare case) then, one must leave with given number of wasps in that nest and build another wasp nest in a different location.
 
 The only possible allowable time when the colony of wasp may have two queen wasps is when the mother queen wasp is nurturing the new young queen. This does not last for long since the mother queen leaves the nest to die away or passes the responsibilities to new queen and rests in one of the cells in the nest until it dies.
 
-# # How Do Queen Wasps Build Wasp Nests?
+##  How Do Queen Wasps Build Wasp Nests?
 
 The task of building the first wasp nest is left to Queen Wasp. It can build the nest wasp on the leaves, branches, overhangs, roofs, underground or woods.
 
@@ -131,7 +131,7 @@ Then, it chews the wooden material thus mixing it with its saliva to form a soft
 
 It then, forms hexagonal cells in various chamber. The Queen will enlarge the size of the wasp nest until it suites the number of eggs it intend to lay. At times, the Queen Wasp may build the wasp nest with help of the first generation workers so as to train them.
 
-# # How Many Queen Wasps Can as a Single Wasp Nest Produce?
+##  How Many Queen Wasps Can as a Single Wasp Nest Produce?
 
 The Queen Wasp will lay about 500 to 1500 fertilize eggs that hatch into larvae, pupate and mature to female wasps. Among these adult wasps, one is specially treated to become the queen wasp of the nest.
 
@@ -141,7 +141,7 @@ All the Fertilize eggs laid by the Queen Wasp has equal chance of becoming a que
 
 Related: Best Gnat Repellent
 
-# # Why Do Queen Wasp Leave Wasp Nest?
+##  Why Do Queen Wasp Leave Wasp Nest?
 
 Normally, Queen Wasp will leave the nest in search of place to hibernate or build a new nest.
 
@@ -149,19 +149,19 @@ Also, the Queen Wasp may leave the nest in search of drones to mate with (it doe
 
 The Queen Wasp can hibernate in places such as back of trees, in the ground, under the roof or in the woods.
 
-# # What Do Queen Wasps Eat?
+##  What Do Queen Wasps Eat?
 
 The Queen Wasp usually feeds on flower nectar, small insects (larvae), aphids, arachnids (mainly spider) or fallen fruits.
 
 The Queen Wasp is mainly fed with proteins by the workers to help it lay fertile eggs and also build its body for future breeding.
 
-# # Can Queen Wasp Live Without Food?
+##  Can Queen Wasp Live Without Food?
 
 During hibernation, Queen Wasp is sustained by the food it ate during the springtime. However, the Queen Wasp is able to store some of the food in its nest where it feed on it intermittently during the hibernation.
 
 Normally, the Queen Wasp can stay without food for 20 to 100 days. It is usually in active dormancy. Other wasps such as workers and drones can only survive between 11 to 23 days without food.
 
-# # Conclusion
+##  Conclusion
 
 Queen Wasp is a female wasp that has been treated specially by the workers and assigned the role of breeding wasp generations for its entire lifetime.
 
@@ -171,6 +171,6 @@ The Queen Wasp rarely move and is surrounded by worker wasp to beef security. It
 
 However, the colors are brighter as compared to those for drones and workers. Queen Wasp will move out of its nest when searching for mate or place to hibernate and breed.
 
-# # Sources:
+##  Sources:
 
 1. [How Does a Wasp Become Queen? Live Science](https: //www. livescience. com/32703-how-does-a-wasp-become-queen-. html) 2. [Yellowjacket ControlNow is the Best Time to Do It](https: //web. extension. illinois. edu/hortihints/0204c. html)

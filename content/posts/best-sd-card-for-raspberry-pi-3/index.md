@@ -20,9 +20,9 @@ After using different Raspberry Pi SD cards, I have to say that the Best SD card
 
 com/how-to-format-sd-card-to-fat32/), writing on your Raspberry Pi SD card will be distributed and hence last longer.
 
-# # **7 Best SD card for Raspberry Pi 3**
+##  **7 Best SD card for Raspberry Pi 3**
 
-## # [1. SanDisk Extreme-PRO 32GB](https://www.amazon.com/gp/product/B00NUB3530/?tag=p-policy-20)
+###  [1. SanDisk Extreme-PRO 32GB](https://www.amazon.com/gp/product/B00NUB3530/?tag=p-policy-20)
 
 Second and Third places on raspberry pi sd card (based on 4K random read and write) go to SanDisk Extreme MicroSD card & Samsung Pro+, respectively, but will cost you more than the Samsung Evo+. S anDisk Extreme Pro 64GB UHS-I i s approved by the microSD cards Benchmarks for your Raspberry Pi. With the SanDisk Extreme-PRO, you will get reliability and excellent performance in your Raspberry Pi3.
 
@@ -34,7 +34,7 @@ Ultimate Pi3 SD card: Y ou can also consider the Official Raspberry Pi 16GB SD C
 
 The pros are: (1) Highly Durable for bad conditions (2) Excellent performance (3) Top Endurance and reliability since it has wear leveling (4) Works with various SDHC UHS-I and SDHC operating gadgets. The only con is: (1) Relatively pricey.
 
-## # [2. Samsung Evo+ 32 GB Raspberry Pi 3](https://www.amazon.com/dp/B00WR4IJBE/?tag=p-policy-20)
+###  [2. Samsung Evo+ 32 GB Raspberry Pi 3](https://www.amazon.com/dp/B00WR4IJBE/?tag=p-policy-20)
 
 4K random read and 4K random write are significant performance factors for the Raspberry Pi SD card. Therefore, Samsung Evo+ tops the list at its values are 8. 58 MB/sec and 3. 12 MB/sec respectively. I ts also a great performer for projects, music, mobile gaming, and HD video recording. Samsung Evo+ 32GB, with 16MB/s dd, write speeds. It can endure a high of 85 Celsius and a low of -25 Celsius.
 
@@ -48,7 +48,7 @@ Also, JeffGeerling recommends the above Samsung Evo+on his [Midwestern Mac](http
 
 Ire-did various benchmarks forSanDisk andSamsungcards (equally, I skipped the Lexar, Toshiba, and Sony due to slow speed while used in Raspberry Pi).
 
-## # [3. SanDisk Ultra SDSQUNB**for Raspberry Pi 3**](https://www.amazon.com/dp/B010NE3U2M/?tag=p-policy-20)
+###  [3. SanDisk Ultra SDSQUNB**for Raspberry Pi 3**](https://www.amazon.com/dp/B010NE3U2M/?tag=p-policy-20)
 
 This SanDisk Ultra Card has a capacity of 16 GB and is a class 10. Further, the company upgraded the speed of its previous cards, and thus this one has a 48 MB/s read speed.
 
@@ -62,7 +62,7 @@ It has preinstalled Noobs, which will have the official Raspbian distribution. F
 
 Luckily, it's a Class 10 raspberry pi sd card, achieving top data transfer speeds, and will work with all the makes for Raspberry Pi.
 
-## # [4. 32 GB Samsung EVO Micro SD**for Raspberry Pi 3**](https://www.amazon.com/dp/B06XWMQ81P/?tag=p-policy-20)
+###  [4. 32 GB Samsung EVO Micro SD**for Raspberry Pi 3**](https://www.amazon.com/dp/B06XWMQ81P/?tag=p-policy-20)
 
 It has a UHS-I interface that is fitting and will perform excellently with the camera. Also, with the Class 10 Micro SD Card and the UHS-I, you'll achieve high transfer speeds reaching 47MB/s.
 
@@ -72,7 +72,7 @@ The SD card is created for the positively mainstream section of consumers, ones 
 
 If you are worried about damaging the SD card, you should note that it 32GB EVO Micro SDHC SD card is temperature, X-Radiation, magnet, shock, and water-resistant.
 
-## # [5. Raspberry Pi 16GB (NOOBS - Preloaded)](https://www.amazon.com/dp/B01H5ZNOYG/?tag=p-policy-20)
+###  [5. Raspberry Pi 16GB (NOOBS - Preloaded)](https://www.amazon.com/dp/B01H5ZNOYG/?tag=p-policy-20)
 
 Raspberry pi sd card is described as the official copy of the 16GB SD Card that comes with Preloaded NOOBS that will allow you to install the various Pi OS to the Raspberry Pi board.
 
@@ -90,7 +90,7 @@ The SD card allows full HD video taking, storage, and transfer. Further, the SD 
 
 Pros: - Allows plug and play operation with the installed software - You'll get an AD adapter and a MiCRO SD card having preloaded NOOBS. - Will work with all the models of Raspberry Boards - Fast write and read speeds with the Class 10 Micro SD Cons: - None
 
-## # [6. 32GB LoveRPi Raspbian UHS-I MicroSD Card](https://www.amazon.com/dp/B01J56UIYM/?tag=p-policy-20)
+###  [6. 32GB LoveRPi Raspbian UHS-I MicroSD Card](https://www.amazon.com/dp/B01J56UIYM/?tag=p-policy-20)
 
 32GB LoveRPi MicroSD Card is highly optimized for raspberry PI3: Particularly for the Pi Zero and the Pi3 B. Raspberry Pi will utilize the SD card like its hard drive.
 
@@ -102,6 +102,6 @@ However, remember to get a Disk Management utility (diskmgmt. msc) while viewing
 
 Also, the manufacturer provides a lifetime warranty for readability and write-ability. **32GB storage capacity** The storage capacity is large enough for both the raspberry OS and leaves space for other siles such as data and your critical applications.
 
-# # Conclusion
+##  Conclusion
 
 Just like the 32GB LoveRPi MicroSD Card, the LoveRPi 128GB Raspbian SD card is optimized for RASPBERRY PI3, particularly Pi Zero and the other Pi3 B. - The card has a Raspbian OS and NOOBS loader but lacks RPi-Tracker software. Equally, the LoveRPi 128GB SD card is highly efficient since it incorporates a modern and fast flash memory and excellent controllers.

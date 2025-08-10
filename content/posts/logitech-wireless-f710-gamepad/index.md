@@ -22,13 +22,13 @@ Unique Features - 2 Analog Thumbsticks and Radial Shoulder buttons - Vibration F
 
 **Logitech Wireless f710 Gamepad Experts review **
 
-## # 1.**Fast Wireless connection - 2.4 GHz**
+###  1.**Fast Wireless connection - 2.4 GHz**
 
 With the 2. 4 GHz Wireless connection, you now have the freedom to move around and continue with your gaming without worrying about trailing wires disturbing you. > Therefore, youll only need to plug the controller and from there you forget! Further, with its compatibility with Windows 7, 8, and Vista, you can now enjoy the console games as they were designed to work without the need to find the best keyboard and mouse set up.
 
 Read Also: [Dualshock 4 Controller Review](https: //pestpolicy. com/dualshock-4-controller-review/)
 
-## # **2. **Fashionable Four Switch D-pad
+###  **2. **Fashionable Four Switch D-pad
 
 The D-pad in F710 will glide on 4 individual switches and thus create a more tactile and responsive feel. The gamepad has input X input and direct input options. > Further, the D-pads allow you to control your point of view and you can press it again to switch to the sports mode - where you can use the D-pad to control your movement and the analog sticks to control your point of view.
 
@@ -36,17 +36,17 @@ The D-pad in F710 will glide on 4 individual switches and thus create a more tac
 
 Simply insert your Nano-receiver to the PC USB port and achieve faster connection speeds, without getting interference, dropouts, or delays.
 
-## # 3. Dual vibration feedback
+###  3. Dual vibration feedback
 
 Also, the dual vibration feedback will enhance your gaming experience as you can now feel every hit, explosion, and crash as it occurs. > It has a D-pad on the front, 2 analog sticks - which are true buttons that you can press, a start button, a back button and a mode button which can switch between flight modes where you will control the game with the analog sticks. Read Also: [PC Games for Couples](https: //pestpolicy.
 
 com/best-pc-games-for-couples/)
 
-## # 4. Amazing Game Support
+###  4. Amazing Game Support
 
 The highly native controller will allow you can now relax while gaming through the DirectInput or XInput. Logitech Wireless f710 functions perfectly with the Sony Android TVs. > Further, the gamepad has XID mode in the switch and thus will enable you to complete better. Considering comfort, f710 has amazing rubber grips and curves.
 
-# # Logitech Gamepad F710 Driver and manual  Windows 10, 7, 8
+##  Logitech Gamepad F710 Driver and manual  Windows 10, 7, 8
 
 The [Logitech Gamepad F710 Software](http: //support. logitech. com/en_us/product/wireless-gamepad-f710/downloads) will allow you to customize the gamepad select wheels, headsets, keyboards, and mice. - So, does Logitech gamepad f710 work on windows 10? Well, yes Logitech f710 will work perfectly with your windows 10. However, if you have connectivity issues follow the below steps to solve the problem.
 

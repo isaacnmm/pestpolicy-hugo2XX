@@ -23,9 +23,9 @@ Do you own a pet [Gecko](https: //pestpolicy. com/do-geckos-eat-bed-bugs/) (hous
 
 ** Lets get into the details.
 
-# # Details: Do Geckos Eat Roaches?
+##  Details: Do Geckos Eat Roaches?
 
-## # 1. How do Geckos Eat Roaches?
+###  1. How do Geckos Eat Roaches?
 
 Geckos hunt and eat roaches as one of their main meals. When hunting, Gecko approaches the roach or a colony of roaches. - Then, it focuses on a specific cockroach after which it shoots its head and captures it with the mouth (its rear legs give it ample momentum to reach its prey on time).
 
@@ -37,7 +37,7 @@ Once Gecko eats a roach, it pauses for 1 to 3 minutes before eating another one 
 
 Geckos will rarely eat a roach from the abdomen they always eat it from the head. In addition, Geckos eat every part of a roach including the wings.
 
-## # 2. Species of Roaches That Geckos Eat.
+###  2. Species of Roaches That Geckos Eat.
 
 Geckos do not select when hunting roaches for food. However, research shows that, in a colony of roach species, Geckos tend to feed on Dubia roaches more and often than other species. - The study has revealed that Dubia roaches have tasty components and a higher level of calcium than other roaches something that attracts Geckos to prey on them preferentially.
 
@@ -45,7 +45,7 @@ Geckos do not select when hunting roaches for food. However, research shows that
 
 Though American roaches, German roaches, and Oriental roaches are the most common at-home are highly likely to be preyed on by Geckos, they post-feeding challenges to them. - They have scary legs and long wings that make swallowing problematic. Moreover, these roaches cause health problems to Geckos when eaten thus becoming less popular and prioritized food species.
 
-## # 3. How Many Roaches Can Gecko Eat?
+###  3. How Many Roaches Can Gecko Eat?
 
 An adult Gecko can eat 2 to 6 (maximum) roaches in a given meal. Some Geckos will feed on two roaches at a time and eat a total of seven roaches in a given day.
 
@@ -55,7 +55,7 @@ However, the number of roaches eaten by Gecko per day may change slightly accord
 
 Baby geckos should eat a few roaches 2 to 3 times in a given day. (It is not advisable to feed your pet geckos daily alternate or skip some days).
 
-## # 4. Are Roaches bad to Gecko when Eaten?
+###  4. Are Roaches bad to Gecko when Eaten?
 
 Though most geckos feed on any roaches around your place (unselective), most roaches found in homes (e. g. American roaches, German roaches, and Oriental roaches) cause health problems to geckos when eaten. - They carry parasites, germs, and bacteria in them that cause infections and sickness to your Geckos. - The Salmonella bacteria found on/under the wings of these roaches cause scary and infectious skin on your Geckos.
 
@@ -63,15 +63,15 @@ Parasites such as Trichuris (11. 97%), Eimeria (2. 73%), Capillaria (6. 16%), To
 
 Germs from pesticides or control chemicals that may be sprayed in your house or out in fields easily stick on the wings and body of roaches this will find their way into the gecko digestive tract when eaten thus affecting its health.
 
-# # What Else Can Your House Gecko Eat?
+##  What Else Can Your House Gecko Eat?
 
 A Gecko eats mosquitoes in your house or yard by extending its tongue out for the mosquitoes to land and get stuck. A Gecko can also shoot out its tongue out to catch a flying mosquito.
 
-## # **1. Rats/mice.**
+###  **1. Rats/mice.**
 
 Apart from roaches, geckos also hunt and eat rats and mice in your house or compound. - The Gecko may not kill big rats or mice; however, it feeds on baby rats/mice at their nest. Geckos help a lot in controlling these organisms. However, the feeding rate is low you need another alternative control method too.
 
-## # **2. Crickets and locusts.**
+###  **2. Crickets and locusts.**
 
 Field geckos hunt crickets and locusts more than the roaches. Study shows that crickets have a high nutrition value (protein).
 
@@ -83,7 +83,7 @@ Swarmer produced by termite colonies in your house or fields is often eaten by g
 
 You can feed your pet gecko with some of the locally bred organisms such as hornworms, mealworms, silkworms, and super worms. - These organisms have a high level of fat that is dangerous for geckos in excess (causes geckos to fatten faster thus leading to walking problems). Such meals should be fed in fewer quantities and be supplemented often with vet-approved roaches.
 
-# # What Should You Avoid Giving Your Gecko?
+##  What Should You Avoid Giving Your Gecko?
 
 **1. Vegetables and Fruits**.
 
@@ -103,7 +103,7 @@ You can also visit gecko feed retailers at the local center/distributors around 
 
 NB: *Ensure that all your gecko commercial feeds are vet-approved. *
 
-# # Conclusion
+##  Conclusion
 
 The gecko is an insectivorous reptile that feeds on roaches as one of its meals. - They hunt and capture these insects with their mouth before swallowing them whole or slicing them into pieces and then swallowing. - It is not advisable to feed your gecko with roaches in your house or caught from the fields since they usually have germs, bacteria, and harbor infectious parasites.
 

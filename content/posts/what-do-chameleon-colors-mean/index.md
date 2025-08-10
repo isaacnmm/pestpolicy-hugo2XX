@@ -27,13 +27,13 @@ You'll learn what they mean.
 
 # **In a Hurry? Check these Chameleon Cages**
 
-# # What's the Normal Chameleon Coloration?
+##  What's the Normal Chameleon Coloration?
 
 Chameleons of different species are either brown or green when they're in their normal (neutral or resting) state, but the hue will depend on the natural habitat of the animal. *For instance; * - Panther chameleons are the only species that'll turn bright red and so others like my favorite chameleon; the Veiled chameleon cannot.
 
 - Further, other small brown to black chameleon species will only affect color change on their skin between the ranges of brown to black.
 
-## # 1. Show Aggression: Bright Colors like bright green or red
+###  1. Show Aggression: Bright Colors like bright green or red
 
 Male chameleons quickly change the skin to bright colors to display their aggression as they defend their territory. They'll display quick and explosive skim-color changes - white, yellow, blue, bright green, or red (all bright colors). It'll also show dark green spots, brown spots & stripes, and yellow stripes.
 
@@ -47,7 +47,7 @@ Therefore, you'll find it easy to pick or touch that young veiled chameleon comp
 
 Also, like other reptiles, veiled chameleons express themselves through posture and body language. - For example, when startled or threatened the veiled chameleons may hiss (opening their jaws), raise one foot in the air, swell out their chest, and puff up their throat. Related: Do Cats Eat Lizards?
 
-## # 2. Relaxed Mood: Neutral Colors like Pale brown or Light green
+###  2. Relaxed Mood: Neutral Colors like Pale brown or Light green
 
 When chameleons are resting, they change colors to reflect their current natural habitat such as pale brown or light green as applicable.
 
@@ -57,7 +57,7 @@ The chameleon will also move to a place that matches their color of relaxation (
 
 - These beautiful colors show that they're able to adjust their coloration according to what kind of habitat they live in as well as the time during the year.
 
-## # 3. Attract Mates: Vibrant colors
+###  3. Attract Mates: Vibrant colors
 
 Male chameleons will display brighter or more vibrant colors during specific times of the year when mating season starts up again, which is a great way to catch the eye of a mate. - This is their way of showing off to females what a great mate they would make, and also how well-adapted for living in their environment they are.
 
@@ -71,7 +71,7 @@ The male panther chameleon shows red and yellow color with light green stripes w
 
 Related: [How Lizards Mate](https: //pestpolicy. com/how-do-lizards-mate/)
 
-## # 4. Display Fear:
+###  4. Display Fear:
 
 When in shock or under attack, chameleons will show what is called fear colors which are usually darker colors like black.
 
@@ -81,7 +81,7 @@ The color gets darker when the fear level intensifies. This is to help them blen
 
 The veiled chameleon may even roll into a small ball-shaped body to offer further protection. The chameleon will not change back to its original color until it ensures that its life is fully secured/safe.
 
-## # 5. During Humidity or Temperature Change
+###  5. During Humidity or Temperature Change
 
 Environmental changes like humidity or temperature change can cause the chameleon to change color. This is because of how their cells react in these conditions.
 
@@ -93,7 +93,7 @@ Chameleons will change to brighter colors such as light blue, bright red, light 
 
 https: //youtu. be/SQggDnScsvI
 
-## # 6. Chameleon to Chameleon Communication:
+###  6. Chameleon to Chameleon Communication:
 
 Just like humans, Chameleons have ways of social communication. Scientists believe that mostly, chameleons change their color to communicate with other counterparts in the colony.
 
@@ -101,7 +101,7 @@ Research shows that female chameleons will change to light or pale green when in
 
 In addition, an expectant chameleon changes to black or dark to alert other chameleons to keep off. Jacksons chameleon and Madagascar chameleon are able to send threat communication to other chameleons by changing suddenly to black, dark, or reddish-brown color.
 
-## # 7. Show Excitement and Stimulation**.**
+###  7. Show Excitement and Stimulation**.**
 
 Chameleon, just like other animals and human beings gets excited. They express such stimulation and excitement by changing their colors.
 
@@ -109,7 +109,7 @@ When the veiled chameleon is excited (maybe when mating or hunting), it changes 
 
 The stimulation due to attack makes the panther chameleon change its skin to dark red, or dull brown, or black color.
 
-## # 8. Prevailing environmental condition/weather
+###  8. Prevailing environmental condition/weather
 
 During rainy seasons, chameleons change their skin into dull or dark colors. You will find a Bright colored chameleon in fair weather (not rainy or sunny).
 
@@ -117,7 +117,7 @@ During sunny weather, chameleons such as panthers and Jacksons change their colo
 
 This enables chameleon to absorb more heat from the surrounding which helps in maintaining their internal temperature at optimum. - This change of colors in the various environmental conditions is a special form of adaptation for chameleons (temperature regulation).
 
-# # What are the Scientific Principles Behind Changing colors in Chameleons?
+##  What are the Scientific Principles Behind Changing colors in Chameleons?
 
 Chameleons change their colors due to the function of "specialized cells" called chromatophores or nanocrystals (small crystals). - These are pigment-containing and light-sensitive cells, which expand or contract in response to temperature or mood changes for example.
 
@@ -137,7 +137,7 @@ This is what enables chameleon to blend with their surroundings and it also help
 
 Related: [Can Lizards Swim? ](https: //pestpolicy. com/can-lizards-swim/)
 
-# # Do all chameleons change colors?
+##  Do all chameleons change colors?
 
 Chameleons change colors though not all species have the same speed and ability to change colors that we have discussed above. Chameleon such as veiled, panther, and Madagascar are able to change into multiple colors such as green, yellow, light blue, and red in less than 20seconds. However, many chameleon species are only able to change from light to dark colors and vice-versa.
 
@@ -149,6 +149,6 @@ The panther chameleon rarely camouflages with the background even when in danger
 
 - The Madagascar lizards are well known to match the green background, which makes it difficult for the predator to sport them. Though camouflaging plays a role in the protection of chameleon against its predator, it accounts for less than 5 percent as to why chameleons skin change color.
 
-# # Conclusion
+##  Conclusion
 
 Chameleons skin colors reflect its moods, comfort/relaxation, environment or weather conditions as well as stress. Though the camouflage concept of the chameleon plays a role in its predator protection, the effect is less significant. The ability of chameleons to change their colors varies according to the particular species. The color change in the chameleons skin is coordinated by a shift in iridophores orientations.

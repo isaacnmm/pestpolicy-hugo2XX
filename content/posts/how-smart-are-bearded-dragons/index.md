@@ -25,7 +25,7 @@ This article will look at the intelligence of [**bearded dragons**](https: //www
 
 * - *Bearded dragons can tell if you are their owner or a person who feeds them. They will be happy or sad, depending on how they feel about you. * - *They can be trained with actions (patterns and routines) like a head pat or push-ups and feeding time to reinforce desired behaviors. * Related: Red-Eyed Crocodile Skink Care.
 
-# # How Smart are Bearded Dragons? Research
+##  How Smart are Bearded Dragons? Research
 
 While humans may have once been the only species capable of imitation, new research has shown that some lizards are on equal footing with us in the intelligence department. - The[University of Lincoln, U. K research](https: //www. lincoln. ac. uk/news/2014/09/970. asp)aimed to provide a better understanding of the intelligence of bearded dragons - through imitation testing. The bearded dragons were studied while in terrariums.
 
@@ -43,7 +43,7 @@ It took about three weeks for bearded dragons to understand and imitate the vide
 
 https: //youtu. be/s0Sey8WdnjM
 
-# # Intelligence Signs? - Recognize owners or Feeders, Feeding-time Routines
+##  Intelligence Signs? - Recognize owners or Feeders, Feeding-time Routines
 
 Bearded Dragons are [smart](https: //pestpolicy. com/roku-smart-soundbar-review/); they learn and recognize their owners or people who feed them by use of sight, smell, pleasure, or anger.
 
@@ -59,7 +59,7 @@ On the contrary, the Bearded Dragon would not resist any presence of an intruder
 
 - Also, don't the bearded dragon be out of their cage without supervising them. Related: What Does Leopard Gecko Eat?
 
-# # Can I Train My Bearded Dragon?
+##  Can I Train My Bearded Dragon?
 
 First, dragons are not difficult to train on routine including potty training. But they won't perform tricks like cats or dogs. - Keep in mind that your bearded dragons are much less intelligent than iguanas and tegus. You can also train Bearded Dragon. The experiment carried out by researchers at the University of Lincoln in the United Kingdom shows that a Bearded Dragon was able to be trained and learn how to open doors to access its food.
 
@@ -71,7 +71,7 @@ In the previous section, we discussed how bearded dragons respond to both negati
 
 Related: [Can Bearded Dragons eat tomatoes? ](https: //pestpolicy. com/can-bearded-dragons-eat-tomatoes/)
 
-# # How to Tame your Bearded Dragon
+##  How to Tame your Bearded Dragon
 
 First, the sign of stress in most bearded dragons are: 1. Hiding from other bearded dragons or you 2. Their beard turning dark-colored 3. Having an expanded or frilled beard 4. Bobbing their head It is possible to train your Bearded Dragon so that it may conform and respond to some activities you may desire. Such activities may include: 1. Recognizing its name/sound. 2. Accessing a place to take their food. 3.
 
@@ -93,13 +93,13 @@ This will be shown by indicators such as warm relaxations and lack of aggressive
 
 - Bearded dragons have an exceedingly high tolerance for pain, so never attempt to restrain them by grabbing their tail. - To reassure them, stroke their backs.
 
-# # Can you Potty Train the Bearded Dragon?
+##  Can you Potty Train the Bearded Dragon?
 
 Bearded Dragon report that they've effectively potty-trained some of these pets.
 
 Some bearded dragons don't quickly learn to use the litter. However, most will get into the habit of going in one spot on their own within a week or two. - The reptiles hate the smell and sight of their poop, and thus they learn to avoid it by choosing a single pooping litterboxspot that's far. - Also, the bearded dragons have a tendency to go out of the cage to poop.
 
-# # Are Bearded Dragons Friendly?
+##  Are Bearded Dragons Friendly?
 
 Yes, Bearded Dragons are docile. These reptiles rarely show aggression unless you get too close to their space, at which point they may try to flee the area.
 
@@ -113,7 +113,7 @@ But, when Bearded Dragon gets aggressive, it begins to Hiss, open its mouth, sta
 
 The reaction may be caused by stress, stiff competition in the case, being scared often, shedding, hormonal imbalances, breeding season, or environmental change.
 
-# # Do bearded dragons show affection?
+##  Do bearded dragons show affection?
 
 Yes! Bearded Dragons are special as compared to other reptiles in that they are eagerly waiting for their owner or the person feeding them. You will find them warming up as you approach which is a sign of affection and appreciation.
 
@@ -121,7 +121,7 @@ Moreover, the Bearded Dragons Voluntarily seek to be held by their owner. You wi
 
 The affection of the Bearded Dragon increases with age. You will find that it likes to always be closer to you/owner. In addition, it will even climb over you for fun. Therefore, Bearded Dragon is an incredibly affectionate reptile.
 
-# # Are Bearded Dragons Nocturnal?
+##  Are Bearded Dragons Nocturnal?
 
 No! Bearded dragons are very inactive at night. Indeed, these lizards are diurnal they are active during the day and sleep the whole night. We noted that Leopard Geckos are**crepuscular** Bearded Dragons are docile reptiles. They are active when the room temperature rises during the day to a level that can make them go hunting or move around in the cage.
 
@@ -129,7 +129,7 @@ Normally, the light will make the Bearded Dragons wake up while Darkness makes t
 
 However, it would be problematic to make your Bearded Dragon be active in the presence of light. They will sleep often during the day, especially after feeding.
 
-# # Do Bearded Dragons Respond to Their Names?
+##  Do Bearded Dragons Respond to Their Names?
 
 Yes! Bearded Dragons will respond to their names. However, they do not respond to those names as a human does. You must associate the given name/voice with something that will attract (at first) the Bearded Dragon such as food.
 
@@ -137,7 +137,7 @@ Any time you give the Bearded Dragon food, mention the name. With time, it will 
 
 It is not easy to take Bearded Dragons to respond to their names though with commitments and repetition, you will have them respond to your call even without food.
 
-# # Conclusion
+##  Conclusion
 
 On how smart are bearded dragons; YES, they're smart - they'll imitate other Bearded Dragons and learn feeding-time routines such as name-calling. - You can easily tame it for a given task through a conditioned reflex action method. - In case you want to feed your Bearded Dragon, you can this by calling it a given name just before giving it food. With time, Bearded Dragon will associate that sound/name with food or your presence.
 

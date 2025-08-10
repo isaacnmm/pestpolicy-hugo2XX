@@ -19,9 +19,9 @@ The Bigheaded Ants (sceientifically; *Pheidole megacephala* ) is classified as o
 
 Well, yes. .. here's why; First, the ants will leave extensive debris and dirt in the house to feed their colonies. Also, the ants will scavenge and forage persistently both outside and inside the house.
 
-# # Details: How to Rid Your Home of Big Headed Ants
+##  Details: How to Rid Your Home of Big Headed Ants
 
-## # Identify the Big Headed Ants
+###  Identify the Big Headed Ants
 
 This reddish-brown to light-brown ants have 2 workers; the Minor workers (measuring 1/16th Inch and with a smaller head) and the major worker ant (measuring 1/8th Inch and with a large head). - Misidentification of the ants may make you choose to use an inappropriateant-control method. However, the large-sized head will mainly help identify most of the Bigheaded Ants - especially being that its head is very big compared to the rest of its body.
 
@@ -31,7 +31,7 @@ The ant species is described as being very invasive and they pose a great risk t
 
 - These ants live in small colonies and will build their nests in well-shaded and open places - and rarely will they build such dwelling under stone or logs. In addition, you'll find the nest of these Bigheaded Ants in the soil below landscaping beds and shrubs. The soil nest has many tiny particles that'll form into some crater mounds.
 
-## # Inspection for Big Headed Ants
+###  Inspection for Big Headed Ants
 
 Following the confirmation that the ants are truly Bigheaded Ants, you'll require to undertake a thorough ant inspection on your property - see the [cost of an Ant Exterminator Cost](https: //pestpolicy. com/how-much-does-an-ant-exterminator-cost/).
 
@@ -45,13 +45,13 @@ Check for crevices & cracks in these structures that could point to areas that s
 
 Finally, after you've seen where the ants are hiding, this will now be a great time to maximize using the chemical ant-treatment options available.
 
-# # Treatment and Control Options for Big Headed Ants
+##  Treatment and Control Options for Big Headed Ants
 
 The treatment and control of the Bigheaded Ant will require you to use various chemical, DIY, or even natural methods. - However, it's important to observe safety while treating the ants. For example, wear appropriate PPEs and follow the various product cautions and instructions of applying the[ant-treatment products](https: //pestpolicy. com/best-fire-ant-killer-for-lawns/).
 
 As noted above, the Bigheaded Ants will mainly colonize the outdoor areas but it'll be important to treat the indoor & outdoor spaces too. To effectively treat your spaces for ants, I would recommend that you include Supreme IT and Bifen LP Granules for the outdoors. - Also, include Ant-Trax Ant and Fipro Foaming Aerosol to treat the indoor spaces for ants.
 
-## # 1. Treating Ants in Outdoor Spaces; Include**Supreme IT**
+###  1. Treating Ants in Outdoor Spaces; Include**Supreme IT**
 
 I recommend including the Supreme IT chemical in your ant-treatment regimen - this chemical allows easy drenching of the ant colony as well as creates a barrier in the yard and for your house and other structures. - Supreme IT for treating ants is known to hold a long residue effect - which is outlined to be about 90 days. Further, the product will kill insects and repel others including the Bigheaded ants.
 
@@ -59,7 +59,7 @@ To create a viable ant-treatment remedy using Supreme IT - you'll require to mix
 
 - For example, if the yard area to be treated for ants is less than 1, 000 square feet, then you'll need to mix less than 1 ounce of the Supreme IT. Remember to apply the Supreme IT mixture on foundations, around yard perimeter, and also to spray on crevices & cracks, plumbing or electrical penetrations, around pet houses, garage doors, rain gutters, soffits, eaves, near gates, door frames, and window frames.
 
-## # 2. Use**Bifen LP Granules**
+###  2. Use**Bifen LP Granules**
 
 The next chemical is an insecticide and it'll treat the various yard insects such as ants. - The chemical also has a long residue effect - which is around 3 months and you may distribute it all over your garden. On the amount to apply, you'll require Bifen LP in the amount of 2. 3 pounds to treat ants in an area of about 1, 000 square feet of your yard.
 
@@ -67,7 +67,7 @@ The next chemical is an insecticide and it'll treat the various yard insects suc
 
 You may spread the Bifen LP around the trees and flowerbed - the tools will assist in spreading the chemical all over the yard, backyard, or garden. However, if the yard area is smaller, you'll require to determine the amount of the Bifen LP that's appropriate for that space to effectively exterminate the ants.
 
-## # **3. Use Ant Gel Bait (Ant-Trax) and Fipro Aerosol**
+###  **3. Use Ant Gel Bait (Ant-Trax) and Fipro Aerosol**
 
 The Ant-Trax and Fipro Aerosol ant treatments will be effective for controlling ants that are foraging actively - especially in indoor spaces. One key advantage of these ant treatments is that they're slow-acting. - Thus the ants will carry them on their body back to their nest where they'll exterminate their colony.
 
@@ -75,7 +75,7 @@ The Fipro Aerosol will be easy to use since it comes in a foaming nature and thu
 
 You'll just need to inject that Fipro Aerosol (using a syringe) into the crevices and cracks where there is the notable activity of the Bigheaded Ant.
 
-## # **3. Use ****Ant Baits like Ant-Trax **
+###  **3. Use ****Ant Baits like Ant-Trax **
 
 The Ant-Trax will attract and bait the Bigheaded Ants - it'll be easy to use since you'll simply need a syringe to apply. - The ant-control product has a formula that allows the pest to carry the chemicals back to the colony nest - which will finally make the ant population die due to poisoning.
 
@@ -83,6 +83,6 @@ So, you'll simply require to apply some pea-sized Ant-Trax in places where the a
 
 However, avoid cleaning off the ants that die from the Ant-Trax or Fipro since the pests will require to come into contact with the chemicals and carry them into their colony nests. - Therefore, I recommend you allow about 1 - 2 weeks after applying Ant-Trax or Fipro before doing a thorough cleaning.
 
-# # Conclusion
+##  Conclusion
 
 Notable places that'll require treatment with Fipro Aerosol include the crevice, crack, baseboards, under sinks, near door frames, & window frames.

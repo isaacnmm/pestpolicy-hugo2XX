@@ -21,7 +21,7 @@ These reptiles play a crucial role in controlling populations of rodents and oth
 
 In regions like Kenya, where a diverse array of snake species exists, identifying a "black snake" can be more complex, as several species might fit this description, some of which could be venomous. This guide will focus on general principles for dealing with black snakes, emphasizing identification, safety, and humane deterrence, providing a framework for managing encounters around your home and garden responsibly.
 
-# # Identifying "Black Snakes" - A Local Context
+##  Identifying "Black Snakes" - A Local Context
 
 When someone refers to a "black snake, " they often have a specific non-venomous species in mind, such as the Eastern Ratsnake (*Pantherophis obsoletus*) or Black Racer (*Coluber constrictor*) in North America. These are common and harmless. However, in Kenya, "black snake" can refer to a wider range of species, and accurate identification is paramount.
 
@@ -39,7 +39,7 @@ Here are general characteristics to observe, but always consult local wildlife e
 
 **Always assume a dark-colored snake in Kenya could be venomous unless you are 100% certain of its identification as a harmless species. Err on the side of caution. **
 
-# # Why Snakes Are In Your Garden
+##  Why Snakes Are In Your Garden
 
 Snakes are attracted to areas that provide:
 
@@ -47,7 +47,7 @@ Snakes are attracted to areas that provide:
 
 **Warmth/Coolth: ** Paved areas and rocks can provide warmth for basking, while shady spots or burrows offer refuge from heat.
 
-# # Safety Precautions When Encountering a Snake
+##  Safety Precautions When Encountering a Snake
 
 Your safety and the snake's well-being are paramount.
 
@@ -61,7 +61,7 @@ Your safety and the snake's well-being are paramount.
 
 * Your local KWS (Kenya Wildlife Service) office or a registered snake handler if in Kenya. 7. **Do Not Attempt to Kill: ** Killing snakes is often illegal, dangerous, and unnecessary. Many species are protected, and you risk a bite.
 
-# # Dealing with Non-Venomous Black Snakes
+##  Dealing with Non-Venomous Black Snakes
 
 If you're certain the snake is non-venomous and it's in an undesirable location:
 
@@ -69,7 +69,7 @@ If you're certain the snake is non-venomous and it's in an undesirable location:
 
 **Capture and Relocate (with extreme caution, only if knowledgeable): ** If you are experienced and comfortable, you can use a long stick and a bucket or a specialized snake hook to gently scoop the snake into a container and release it in a suitable, remote location away from homes. This is generally best left to professionals.
 
-# # Preventing Snakes in Your Yard and Garden
+##  Preventing Snakes in Your Yard and Garden
 
 The best way to deal with snakes is to make your property less inviting to them.
 
@@ -83,7 +83,7 @@ The best way to deal with snakes is to make your property less inviting to them.
 
 This is typically a fine-mesh hardware cloth or similar material, buried at least 15-30 cm (6-12 inches) deep and extending 60-90 cm (2-3 feet) high, with the top few inches angled outwards to prevent climbing. 5. **Predator Awareness: ** Encourage natural predators of snakes, such as birds of prey, if appropriate for your area.
 
-# # Final Thoughts
+##  Final Thoughts
 
 Encountering a black snake in your home or garden can be startling, but it's crucial to react calmly and responsibly. While some black snakes, particularly in regions like Kenya, can be venomous, many are harmless and even beneficial pest controllers. Prioritize safety by never approaching or provoking a snake you cannot definitively identify as non-venomous.
 

@@ -24,7 +24,7 @@ Before conducting extensive research and test on thermal paste application, mayb
 
 ** **In this method, you will apply a pea-sized - not too much - amount of the thermal compound in the middle of the CPUs surface and screw back the heat sink on top of it. ** **Therefore, the thermal paste will spread naturally in a round or oval shape evenly over the CPU cores. Manually spreading would lead to the formation of air bubbles. **
 
-# # How important is thermal paste to your CPU?
+##  How important is thermal paste to your CPU?
 
 So, do you really need the grey weird-smelling paste on your CPU? Why bother using the paste when the heatsinks already look very impressive?
 
@@ -42,13 +42,13 @@ High-quality ceramics can help in cooling and are cheaper, which makes them good
 
 However, you can also use silicone thermal pads that will sit fully between the CPU and the heat sink.
 
-# # How much thermal paste should you apply?
+##  How much thermal paste should you apply?
 
 Is there anything like too little or too much thermal paste application?
 
 Yes, applying too uneven or little thermal might make some of your CPU cores run hotter compared to the rest. **But; ** If you apply uneven or too much thermal paste, you might see some gas bubbles in the space separating the heat sink and the CPU. **Finally, onto our main discussion: Thermal Paste Application**
 
-# # Best way to apply thermal paste to the CPU
+##  Best way to apply thermal paste to the CPU
 
 First things first:
 
@@ -60,7 +60,7 @@ However, check the heat sink guide or manual since the vendors always test the s
 
 Despite that you could be tempted to purchase some better performing thermal paste, you should know that various pastes have different viscosities, compositions, and densities, factors that will affect how it is distributed.
 
-## # **Application process:**
+###  **Application process:**
 
 The thermal compound will come in a syringe, which will be very suitable for the paste application process.
 

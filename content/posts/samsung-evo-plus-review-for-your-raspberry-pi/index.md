@@ -26,6 +26,6 @@ The performance improvements in the all-new Samsung EVO Plus, Philippines manufa
 
 com/best-heatsink-for-raspberry-pi-3/)
 
-# # Conclusion
+##  Conclusion
 
 Samsung EVO Plus is an awesome selection for your Raspberry Pi, digital camera, and media recording. This is mainly due to its superior sequential write and read speeds.

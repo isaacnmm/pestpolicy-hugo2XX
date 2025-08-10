@@ -19,7 +19,7 @@ When choosing the best IGR (Insect Growth Regulator) for fleas, you can consider
 
 These factors help ensure that you pick a product that meets your needs while providing long-lasting protection against [[flea](https: //pestpolicy. com/best-flea-carpet-powder/) infestation](https: //pestpolicy. com/flea-life-cycle/).
 
-# # Key Factors to Consider
+##  Key Factors to Consider
 
 **1. Effectiveness Against Different Flea Life Stages** Some products, like [**MKG NyGuard IGR**](https: //www. amazon. com/dp/B00C2R54QY/? tag=p-policy-20), are highly effective against various flea life stages, including eggs, larvae, and pupae.
 
@@ -37,25 +37,25 @@ This means fewer treatments are needed over time, saving you money and effort wh
 
 This product minimizes its impact on the environment, making it a responsible choice for those who are concerned about the ecological effects of pest control products.
 
-# # Top 5 Recommendations - Best IGR for Fleas
+##  Top 5 Recommendations - Best IGR for Fleas
 
-## # [**1. MKG NyGuard IGR**](https://www.amazon.com/dp/B00C2R54QY/?tag=p-policy-20)
+###  [**1. MKG NyGuard IGR**](https://www.amazon.com/dp/B00C2R54QY/?tag=p-policy-20)
 
 NyGuard IGR offers a broad spectrum of control, targeting fleas at every life stage. It is versatile and can be used both indoors and outdoors. - **Benefits**: Provides up to 7 months of control, helping to eliminate both active fleas and preventing new ones from developing. It's also compatible with various other insecticides. - **Cons**: May require repeated applications in areas with heavy infestations.
 
 Not the most affordable option on the market.
 
-## # [**2. Zoecon Precor IGR**](https://www.amazon.com/dp/B00ECIMRV6/?tag=p-policy-20)
+###  [**2. Zoecon Precor IGR**](https://www.amazon.com/dp/B00ECIMRV6/?tag=p-policy-20)
 
 Specifically formulated for indoor use, Precor IGR targets flea eggs and larvae ( [contact killing](https: //pestpolicy. com/what-kills-fleas-on-contact/) ), preventing them from developing into adult fleas. - **Benefits**: Safe for use around pets and children, with a long-lasting formula that can keep fleas at bay for up to 7 months.
 
 It also has no odor, making it pleasant to use indoors. Plus the[**synergist**](http: //www. npic. orst. edu/ingred/ptype/synergist. html)will enhance the action of these ingredients. - **Cons**: Limited to indoor use, so its not suitable for outdoor flea control. It may also require additional adulticides for comprehensive treatment.
 
-## # [**3. Martin's IGR**](https://www.amazon.com/dp/B0024E5YE2/?tag=p-policy-20)
+###  [**3. Martin's IGR**](https://www.amazon.com/dp/B0024E5YE2/?tag=p-policy-20)
 
 This product comes in an easy-to-use liquid form, ideal for mixing with water and applying as a spray. - **Benefits**: Effective and affordable, Martin's IGR can be used on carpets, furniture, and other areas where fleas are a concern. It offers protection for up to 7 months. - **Cons**: Requires mixing before application, which might be inconvenient for some users. It also has a slight odor upon application.
 
-## # [**4. Archer IGR**](https://www.amazon.com/dp/B004H0I1HI/?tag=p-policy-20)
+###  [**4. Archer IGR**](https://www.amazon.com/dp/B004H0I1HI/?tag=p-policy-20)
 
 Archer IGR offers long-lasting protection, with residual activity lasting up to 7 months after application. Well, Archer IGR [**may not kill adult fleas**](https: //www. epa. gov/pesticide-labels/introduction-pesticide-labels), but it does stop them from reproducing. It is an insect growth regulator that prevents immature eggs from maturing past a certain stage of development.
 
@@ -63,7 +63,7 @@ Archer IGR offers long-lasting protection, with residual activity lasting up to 
 
 It's also photostable, meaning it doesn't break down easily in sunlight, making it suitable for outdoor use. - **Cons**: Slightly more expensive compared to other IGRs. It may require more product for heavily infested areas.
 
-## # [**5. Tekko Pro IGR**](https://www.amazon.com/dp/B00RW197XG/?tag=p-policy-20)
+###  [**5. Tekko Pro IGR**](https://www.amazon.com/dp/B00RW197XG/?tag=p-policy-20)
 
 Tekko Pro combines two active ingredients for enhanced efficacy, making it particularly effective against fleas in both indoor and outdoor settings. You may choose to treat Tekko Pro IGR instead of using a flea bomb. - **Benefits**: Environmentally friendly, with a dual-action formula that prevents fleas from maturing while also stopping them from reproducing. It provides up to 6 months of control.
 
@@ -71,7 +71,7 @@ Tekko Pro combines two active ingredients for enhanced efficacy, making it parti
 
 The initial cost is higher than some other products.
 
-# # IGRs and Flea Control - Selecting the Best IGR
+##  IGRs and Flea Control - Selecting the Best IGR
 
 There are 2 major classifications of IGRs for fleas, based on 1. The active ingredient 2. Added chemicals like knockdowns and synergists **1. (S)-Hydroprene** The active ingredient in Gentrol is [(S)-Hydroprene](http: //npic. orst. edu/factsheets/hydropregen. pdf). This chemical has been found to work for killing both fleas, moths, beetles, and cockroaches.
 
@@ -89,7 +89,7 @@ Methoprene** [Methoprene](http: //npic. orst. edu/factsheets/methogen. html) is 
 
 Prallethrin is a chemical generally used for the control of food-contaminating and nuisance insects like ticks, fleas, roaches, and ants.
 
-# # Conclusion
+##  Conclusion
 
 Selecting the best IGR for fleas requires careful consideration of various factors, including effectiveness, safety, ease of use, and environmental impact. Products like NyGuard IGR, Precor IGR, and Martin's IGR each offer unique benefits that make them suitable for different situations.
 

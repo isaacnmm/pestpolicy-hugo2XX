@@ -21,9 +21,9 @@ Fleas are tiny insects (order Siphonaptera) that exist parasitically (sucking bl
 
 ** **But male fleas have a shorter body (average 1 millimeter) compared to females (average 2. 5 millimeters). Despite being tiny, fleas can be seen through naked eyes. ** Related: Commercial Grade Flea Killer for Yard.
 
-# # Details: How Big are Fleas?
+##  Details: How Big are Fleas?
 
-## # 1. Fleas' Body Length
+###  1. Fleas' Body Length
 
 First, fleas are classified as true insects as they have 6 legs and 3 body segments (head, the thorax & abdomen). - **Fleas have a narrow body but their body length is about 1. 55 - 3. 25 millimeters. ** As noted above, male fleas have a shorter body length - males have an average length of 1 millimeter or under while females have an average length of 2. 5 millimeters.
 
@@ -35,11 +35,11 @@ However, fleas can still hide animal fur or hair including animals and pets with
 
 - The glands will secret oil or grease to create the sheen look on the flea's body that allows easy movement. through animal hair and fibers.
 
-## # Compare Size of Fleas to Common Objects
+###  Compare Size of Fleas to Common Objects
 
 1. Poppyseed measures 1 millimeter in diameter 2. Sesame seed measure 3. 5 millimeters in diameter 3. Penny's side measure 1. 5 millimeters thick 4. A dime measure 17. 9 millimeters in diameter 5. Black pepper peppercornmeasures 5 millimeters in diameter
 
-## # 2. Fleas' Head
+###  2. Fleas' Head
 
 The head of the fleas is narrow or elongated and thus it'll easily move through tiny spaces including the carpet fibers and animal hair. - Males fleas have a head that is almost equal in length to its head. However, the head of the female fleas measures about double the pest's body length. Fleas, unlike other insects (others come with compound eyes), have simple eyes (2 eyes) on their head.
 
@@ -51,7 +51,7 @@ Further, the eyes of these fleas have biconvex lenses (single) and are dark in c
 
 - However, female fleas have shorter antennae but the males use their antenna for mating.
 
-## # 3. Fleas' Abdomen
+###  3. Fleas' Abdomen
 
 The fleas have an abdomen with ten segments but just eight of these are visible. - However, the female fleas will have an abdomen that is heavier compared to that of the female fleas. - Further, the abdomen of the female fleas has a rounded dorsal (backside) while that of the males is flat. Also, the abdomen of the male fleas will be curvier on their underside and this will make it appear as if the bugs are upside down.
 
@@ -63,11 +63,11 @@ However, the abdomen of the fleas will change in size as the bug sucks blood or 
 
 When the flea is well fed, you can inspect its last segment and see the [flea's sensilium](https: //livestockvetento. tamu. edu/insectspests/fleas/) (senses the bug's host) and also the genitals. - Fleas have a[lifecycle](https: //pestpolicy. com/flea-life-cycle/)that lasts about 2-3 months but these bugs could live for even 1. 5 years in different localities (varied humidity and temperature), and the presence of host blood.
 
-## # 3. Fleas'Thorax
+###  3. Fleas'Thorax
 
 The thorax of fleas has 3 leg pairs with their hind ones being the longest. - The thorax has 3 segments; the prothorax, mesothorax, and metathorax. The 3 parts of the fleas' thorax have their backsides overlapping and thus they're squeezing onto each other. - For easier movement on the host or around the carpet fiber, the joints in the thorax of the fleas are flexible enough.
 
-# # Are Flea Eggs Visible To The Eye?
+##  Are Flea Eggs Visible To The Eye?
 
 Yes, flea eggs are about 0. 5mm (tiny) but they're visible to a naked human eye - they're smooth and oval-shaped. - However, since the eggs are white, you might not see them when on fabric that's light-colored. The flea eggs are white to semi-transparent and will appear shiny and oval-shaped. You'll notice that the flea's eggs will appear like salt grains - since they measure about a length of 0. 5 mm and a width of 0. 3 mm.
 
@@ -75,7 +75,7 @@ Yes, flea eggs are about 0. 5mm (tiny) but they're visible to a naked human eye 
 
 Notably, the eggs have a wall that measures just one picometer in thickness and you can view the larvae through their shell. Related: [Why Do Flea Bites Itch? ](https: //pestpolicy. com/why-do-flea-bites-itch/)
 
-# # What Do Flea Larvae Look Like?
+##  What Do Flea Larvae Look Like?
 
 Flea larvae are tiny organisms that'll measure about 2 to 5 millimeters in length - they have pale-colored hairs and a white-looking body. Flea larvae largely feed on flea dirt - these are body waste from fleas - its undigested blood that's excreted once the fleas take their blood meal. - Once hatches, the flea larvae will be measuring about 2 millimeters in length and thus visible with naked human eyes.
 
@@ -83,6 +83,6 @@ Flea larvae are tiny organisms that'll measure about 2 to 5 millimeters in lengt
 
 - Further, as the flea larvae grow, they'll feed on flea feces, organic matter, and dead skin - which will make the organisms transform from translucent to become reddish-brown.
 
-# # Conclusion
+##  Conclusion
 
 Fleas move between hosts very fast and this makes it challenging to spot them - adult fleas measure about 1. 4 - 3. 3 millimeters in body length. - However, with suitable and enough blood, fleas will settle on a host before the females drop off to lay eggs.

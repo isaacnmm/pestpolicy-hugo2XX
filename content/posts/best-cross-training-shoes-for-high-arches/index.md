@@ -20,9 +20,9 @@ A high arch (pes cavus) is the opposite of a flat foot. However, high arches ten
 
 Hence, Ive compiled some of the Best Cross Training Shoes for High Arches. Check out the list and choose your favorite pair. Related: [Best Cross Training Shoes for Bad Knees](https: //pestpolicy. com/best-cross-training-shoes-for-bad-knees/)
 
-# # Review: Best Cross Training Shoes for High Arches
+##  Review: Best Cross Training Shoes for High Arches
 
-## # [1. Reebok Men's Crossfit Nano 8.0 Flexweave Sneaker](https://www.amazon.com/dp/B07Q3L258K/?tag=p-policy-20)
+###  [1. Reebok Men's Crossfit Nano 8.0 Flexweave Sneaker](https://www.amazon.com/dp/B07Q3L258K/?tag=p-policy-20)
 
 If you want versatile and reliable Cross Training Shoes for High Arches then Reebok Crossfit Nano 8. 0 Flexweave got you covered. These shoes accommodate various cross-training activities like HIT, plyometrics, jump box, aerobics, and many other exercises.
 
@@ -40,7 +40,7 @@ The Metasplit marking at the forefoot provides crucial forefoot flexibility. The
 
 Cons: - Some wearers complained about heel slippage
 
-## # [2. Inov-8 Men's F-LITE 260 Knit (M) Cross Trainer](https://www.amazon.com/dp/B073SL16QG/?tag=p-policy-20)
+###  [2. Inov-8 Men's F-LITE 260 Knit (M) Cross Trainer](https://www.amazon.com/dp/B073SL16QG/?tag=p-policy-20)
 
 Inov-8 Men's F-LITE 260 is a high-level performance cross-trainer that delivers comfort, support, and flexibility. Its one of the best cross-training shoes for high arches. Most weight lifters and plyometric enthusiasts love the shoes responsiveness.
 
@@ -56,7 +56,7 @@ The outsole also has vertical and horizontal Meta-Flex grooves that encourage th
 
 Cons: - Pricey
 
-## # [3. New Balance Men's 517 V1 Cross Trainer](https://www.amazon.com/dp/B01FSD2QH8/?tag=p-policy-20)
+###  [3. New Balance Men's 517 V1 Cross Trainer](https://www.amazon.com/dp/B01FSD2QH8/?tag=p-policy-20)
 
 Cross-training with high arches has been made easy with the New Balance 517 V1. The shoe provides a comfortable, lightweight, breathable, and well-fitting companion for athletes with high arches.
 
@@ -74,7 +74,7 @@ The upper of New Balance 517 V1 features a breathable mesh material that helps t
 
 Cons: - Some customers complained that the insole was poorly made
 
-## # [4. Mizuno Women's Wave Rider 23 Running Shoe](https://www.amazon.com/dp/B07HRHMCRR/?tag=p-policy-20)
+###  [4. Mizuno Women's Wave Rider 23 Running Shoe](https://www.amazon.com/dp/B07HRHMCRR/?tag=p-policy-20)
 
 Mizuno Wave Rider 23 provides needed support for trainers with high arches. Its a good running shoe that can also work as a cross-training shoe especially for athletes with high arches. It provides excellent comfort, support, and a perfect fit for most wearers.
 
@@ -92,7 +92,7 @@ The Wave Rider 23 retains the brands X10 outsole. The X10 is a durable carbon ru
 
 Cons: - A customer complained that the shoe runs small
 
-## # [5. Brooks Men's Launch 6 Running Shoe](https://www.amazon.com/dp/B07D3ZWTGQ/?tag=p-policy-20)
+###  [5. Brooks Men's Launch 6 Running Shoe](https://www.amazon.com/dp/B07D3ZWTGQ/?tag=p-policy-20)
 
 Brooks Launch 6 can pass as one of the best shoes for high arches. its a neutral workout shoe that delivers speed, cushioning, and durability.
 
@@ -106,7 +106,7 @@ The outsole features a wider heel landing with decoupling grooves. The grooves e
 
 Cons: - A bit heavy than its predecessors
 
-## # [6. ASICS Women's GEL-Noosa Tri 11 Running Shoe](https://www.amazon.com/dp/B00YBFXTGM/?tag=p-policy-20)
+###  [6. ASICS Women's GEL-Noosa Tri 11 Running Shoe](https://www.amazon.com/dp/B00YBFXTGM/?tag=p-policy-20)
 
 ASICS Women's GEL-Noosa Tri 11 is a road running shoe ideal for people with over-pronated foot motion. Athletes with high arches can also benefit from the breathable upper, comfort, and lightweight design.
 
@@ -122,7 +122,7 @@ The outsole of the Gel Noosa Tri 11 features a durable AHAR compound. This rubbe
 
 Cons: - A customer complained that the toe area was a narrow
 
-## # [7. PUMA Men's Tazon 6 Fracture FM Cross-Trainer Shoe](https://www.amazon.com/dp/B01C3LKD9Q/?tag=p-policy-20)
+###  [7. PUMA Men's Tazon 6 Fracture FM Cross-Trainer Shoe](https://www.amazon.com/dp/B01C3LKD9Q/?tag=p-policy-20)
 
 PUMA Tazon 6 Fracture is a neutral road running shoe that does pretty well as a cross-trainer. Individuals with high arches will benefit from the excellent midsole cushioning, comfort, and support that the shoe provides.
 
@@ -136,27 +136,27 @@ The upper features a synthetic leather material that provides durability and sup
 
 Cons: - Some customers complained that the interior of the shoe got hot during intense workouts
 
-# # Buyers Guide for Best Cross Training Shoes for High Arches
+##  Buyers Guide for Best Cross Training Shoes for High Arches
 
-## # Consider Orthotics
+###  Consider Orthotics
 
 You can decide to insert orthotics in your cross-training shoes if you have high arches. Orthotics can provide extra support and comfort to your high arches. They also provide cushioning to feet against hard ground impact. However, if you experience severe high arches consider contacting your podiatrists for custom-made orthotics.
 
-## # Cushioning and Comfort
+###  Cushioning and Comfort
 
 Underfoot cushioning is very important especially when doing intense cross-training. Your feet are likely to get a biting from the excess impact, however, with the right cushioned shoes youll emerge injury-free.
 
 Further, pick cross-training shoes that have roomy toe boxes to allow natural splay of toes inside the shoe during workouts. Also, ensure that the material used in the interior lining of the shoe doesnt cause any foot irritation.
 
-## # Arch Support
+###  Arch Support
 
 If youre looking for best cross-training shoes for high arches, pick ones with good arch support. Inadequate arch support can cause injuries and chronic discomfort during your cross-training exercise. Luckily, all shoes reviewed above prove the best arch support for your high arches allowing you to engage in cross-training with ease.
 
-## # Stability
+###  Stability
 
 Every time your shoes hit the ground during a workout, you should have a good amount of stability and protection. The ground impact shouldnt be painful. Shoes with good stability prevent injuries like such as twisted ankles
 
-# # Conclusion
+##  Conclusion
 
 I hope that this review on the best cross-training shoes for high arches has been helpful. If you experience high arches you need to choose cross-training shoes that are comfortable, well-cushioned, provide good arch support and stability.
 

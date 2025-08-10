@@ -19,9 +19,9 @@ Looking for the best [raccoon](https: //pestpolicy. com/best-raccoon-traps/) bai
 
 If theres a wild animal that will courageously venture into your property, then it is a raccoon. Their masked faces and piercing stare is terrifying to some people. Others, however, find them adorable. Until they start knocking over garbage all over the backyard, stealing your fruits and vegetables, and nibbling on wooden fixtures. Related: how to trap raccoons.
 
-# # Reviews: Top 7 Best Raccoon Bait for 2025
+##  Reviews: Top 7 Best Raccoon Bait for 2025
 
-## # [1. Coon Gitter Dog-proof Bait for Dp - #1 Pick](https://www.amazon.com/dp/B01J81MQOY/?tag=p-policy-20)
+###  [1. Coon Gitter Dog-proof Bait for Dp - #1 Pick](https://www.amazon.com/dp/B01J81MQOY/?tag=p-policy-20)
 
 Raccoons are easy to trap as they are not picky eaters and will be attracted to any bait that looks or smells good. Here are some of the best raccoon baits you can use around your home.
 
@@ -33,7 +33,7 @@ It can, however, attract other types of animals too. Tin foil - Raccoons are ver
 
 It is important to use clean foils as a smelly one could attract other animals.
 
-## # [2. Ringtail Cocktail Bait - #2 Pick](https://www.amazon.com/dp/B00A6TOYAC/?tag=p-policy-20)
+###  [2. Ringtail Cocktail Bait - #2 Pick](https://www.amazon.com/dp/B00A6TOYAC/?tag=p-policy-20)
 
 The Ringtail Cocktail bait is made from smoked salmon fish. While it works great for trapping raccoons, it might also lure your dog and other animals that like fish.
 
@@ -43,7 +43,7 @@ Because of wildlife conservation efforts and public health safety reasons, your 
 
 It is advisable to use large marshmallows as they cant be easily pulled out through the sides of the trap, and small marshmallows might also attract skunks wandering about looking for grubs. The last thing you want is to trap a skunk in your property. Related: [How to Repel Raccoons](https: //pestpolicy. com/how-to-repel-raccoons/)
 
-## # [3. Pete Rickard's-LC260 Fish Oil - #3 Pick](https://www.amazon.com/dp/B00A6TOYAC/?tag=p-policy-20)
+###  [3. Pete Rickard's-LC260 Fish Oil - #3 Pick](https://www.amazon.com/dp/B00A6TOYAC/?tag=p-policy-20)
 
 Always place the bait away from the walls of the trap. Raccoons are intelligent and may grab the bait without getting into the trap.
 
@@ -51,6 +51,6 @@ Remember to place something heavy on top of the trap so that the raccoon doesnt 
 
 Always find out the laid down wildlife regulation policies for your area so you dont find yourself on the wrong side of the law. Related: [Learn The Raccoon Facts](https: //pestpolicy. com/raccoon-facts/) An egg - Raccoons arent picky eaters. They eat anything and everything they come across. Eggs are some of their favorites. You can trap them by simply placing an uncracked egg at the back of the trap.
 
-# # Conclusion
+##  Conclusion
 
 With an egg, there are very little chances of other animals walking into that trap so you have higher chances of landing the right target. You can also use other food such as raw nuts, bread, sweet corn, meat, fruits, ham, peanut butter, and dry dog kibble among others.

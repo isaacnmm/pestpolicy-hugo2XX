@@ -21,9 +21,9 @@ You'll get the covers mainly in blue, yellow, or white colors.
 
 For D rywall and ceilings, choose a nap roller cover that is Medium 3/8-inc h or Small 1/4-inch for Metal, Wood, and walls. But use Microfiber rollers for Surfaces that are light-to-medium in texture.
 
-# # Top 7 Best Paint Roller Cover for Interior Walls
+##  Top 7 Best Paint Roller Cover for Interior Walls
 
-## # [1. Purdy 14B863400 Dove-Cover, 9 Inch X 3/8 Inch](https://www.amazon.com/dp/B00S04LM8M/?tag=p-policy-20)
+###  [1. Purdy 14B863400 Dove-Cover, 9 Inch X 3/8 Inch](https://www.amazon.com/dp/B00S04LM8M/?tag=p-policy-20)
 
 Purdy 14B863400 is a 9-inch, high-performing, and versatile roller cover that has a 3/8-inch nap. Its created from a nylon-derivative but equally picks up enough paint to give some lint-free finish. So, for your lightly-textured and smooth interior wall surfaces, you may use either oil-based or water-based paints - and it's also effective on wood stains.
 
@@ -33,7 +33,7 @@ Purdy 14B863400 is a 9-inch, high-performing, and versatile roller cover that ha
 
 It's made from tiny filaments, and it'll cover your rigid surfaces - smoothly. Pros: - Excellent for oil- and latex-based paints - Higher efficiency - carries more paint. - Gives somesmooth finish thanks to the high-density Dralon - Excellent forrough-surface painting Cons: - Not recomeneed fortextured painting
 
-## # [2. True-Blue Professional 4-Inch Paint-Roller Covers](https://www.amazon.com/dp/B0751PMGQJ/?tag=p-policy-20)
+###  [2. True-Blue Professional 4-Inch Paint-Roller Covers](https://www.amazon.com/dp/B0751PMGQJ/?tag=p-policy-20)
 
 True-Blue Professional has microfiber that is premium - this also allows you to add space color. It's great for painting different surfaces - with the appropriate nap length. T rue-Blue Professional will hold and release more paint (about three times ) - this makes painting faster, and with just one coating, you'll get that smooth finish with great coverage.
 
@@ -43,7 +43,7 @@ The material allows great pick up plus release for faster painting. - Besides, t
 
 I also recommend True-Blue Professional painting your small projects, including on the furniture **, ** trim or baseboards, walls - but you'll need to choose a suitable roller frame (4-inch).
 
-## # [3. ALAZCO Mini 3-Inch Covers for Small Areas, Edges, and Painting Trims](https://www.amazon.com/dp/B0791SDDXD/?tag=p-policy-20)
+###  [3. ALAZCO Mini 3-Inch Covers for Small Areas, Edges, and Painting Trims](https://www.amazon.com/dp/B0791SDDXD/?tag=p-policy-20)
 
 ALAZCO Mini 3-Inch is different - it's not your usual 9-inches+ paint roller that is suitable for large ceiling or walls - this one is smaller (3 Inches) and better for confined spaces.
 
@@ -53,7 +53,7 @@ Also, the device is budget-friendly - and thus no need to re-use.
 
 - The devices come with a3-Roller Cover and a Roller Frame that'll work insmaller areas, window frames, edges, corners, and painting trims with itsinterlocking pattern. The roller cover offers a c omfortable grip for a very smooth free- spin with solvent-resistant core, low splatter, matte resistance, unique density, and shed resistance.
 
-## # [4. Wooster-Brush RR723-9 3/8-Inch Roller Cover](https://www.amazon.com/dp/B000BPG4FY/?tag=p-policy-20)
+###  [4. Wooster-Brush RR723-9 3/8-Inch Roller Cover](https://www.amazon.com/dp/B000BPG4FY/?tag=p-policy-20)
 
 Wooster-Brush RR723-9 is loved by expert painters that love flawless finishes - it's made from high-capacity and dense fabric with less shedding due to its inter-locked fiber. W ooster-Brush RR723-9 resists matting and stays resilient through a full day of use. The shed-resistant pack will work well for various paints, epoxies, and primers urethanes.
 
@@ -61,7 +61,7 @@ Wooster-Brush RR723-9 is loved by expert painters that love flawless finishes - 
 
 Wooster-Brush RR723-9 is excellent for drywall and ceilings thanks to its 3/8-inches of the nap size - you'll also get other 3/16, -inches, 1/2 inches among different nap sizes. The roller must give you a uniform and smooth finish - but choose an appropriate one for your specific paint like urethane or Latex sprayers. They must easily paint constricted and tight spots.
 
-## # [5. Wooster-Brush RR632-18 1/2-Inch Nap Roller Cover](https://www.amazon.com/dp/B0019ESNZA/?tag=p-policy-20)
+###  [5. Wooster-Brush RR632-18 1/2-Inch Nap Roller Cover](https://www.amazon.com/dp/B0019ESNZA/?tag=p-policy-20)
 
 Wooster-Brush RR632-18 is a quality roller cover made from shearling (100 percent natural), and hence it creates that subtle sheen, and it's soft.
 
@@ -75,6 +75,6 @@ No paint will be left on your roller ([including on carpet](https: //pestpolicy.
 
 Ensure the handle is very ergonomic for painting in various rooms and ease wrist strain.
 
-# # Conclusion
+##  Conclusion
 
 The roller cover's ball bearings must be high quality, and thus it'll enable smooth movement while you're rolling it on the walls with a roller for a smooth finish. You may also get a roller cover with a threaded handle - ensure there are clips and thread at the handle's bottom, allowing easy attachment of an extension pole while you're painting wall tops.

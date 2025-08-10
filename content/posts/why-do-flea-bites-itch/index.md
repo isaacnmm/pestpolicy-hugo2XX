@@ -19,13 +19,13 @@ The legs of [fleas](https: //pestpolicy. com/can-fleas-bite-through-clothes/) ha
 
 ** **The immune system will send histamine to counter the allergen (flea saliva) and thus the chemical triggers itching and swelling. **
 
-# # Details: Why Do Flea Bites Itch?
+##  Details: Why Do Flea Bites Itch?
 
 The flea saliva will be taken like an allergen triggering your immune systems to release histamine that will irritate your skin and trigger itching. But how will flea bites appear on humans? You'll notice the flea bites are discolored, small bumps that could be in the form of a cluster or line. - Flea bites will likely be on the human ankles, calves, and feet.
 
 So, rarely will the flea bites be found above the human knees unless the person is lying down or sitting down.
 
-# # Itching & Scratching - How Else Can you Identify Flea bites
+##  Itching & Scratching - How Else Can you Identify Flea bites
 
 Fleas bites are unlike other insect bites - I've noted above that they'll be discolored (small) bumps on your skin that'll be itchy, and may trigger scratching. - Further, you may see come discolored rings that could develop around the flea bite area. - However, flea bites won't cause swelling like other insects bites such as by mosquitoes.
 
@@ -33,7 +33,7 @@ Also, the location and pattern of the flea bites will be unique compared to othe
 
 - On location, flea bites largely appear on the human ankles, calves, and feet - below your knees. Thus, I would recommend you inspect for flea on the pets including cats & dogs. Check if the pers are restless or scratching - this could be indicators of flea bites. Related: What Do Flea Eggs Look Like on a Dog?
 
-# # Flea Bites Won't Stop itching; What Should I do?
+##  Flea Bites Won't Stop itching; What Should I do?
 
 First, I must say that it isn't advisable to see those flea bite areas. This could lead to skin breakage and may trigger further infection. - However, if you break the skin, I advise you to clean the area using some soap & water and finally cover the bite area using a bandage. Further, a doctor can help in easing the pain or itching caused by flea bites. - Despite that flea bites will raim just a number of days.
 
@@ -61,7 +61,7 @@ The succulent Aloe vera gel has salicylic acid - this is what will reduce pain a
 
 I recommend using unprocessed honey onto the flea bite - and you may put some bandage on the flea bite as not doing it may cause messy stickiness.
 
-# # Preventing Fleas Bites
+##  Preventing Fleas Bites
 
 You can stop flea bites on both humans and pets using a combination of techniques. But first, you may examine the fur on your pet's belly, back, neck, and ears. **1. Vacuum** - Flea vacuuming your space will help clean the fabric furniture, rugs, and carpets besides removing the favorable conditions for the living of fleas.
 
@@ -71,6 +71,6 @@ Wash Pet bedding** - Next, you can prevent flea bites by cleaning the spaces tha
 
 Flea Shampoo ** - Further, you can flea comb your pets including brushing the fleas' fur as this helps remove fleas. - Also, use someflea shampoo on your petsbut avoid the mouth & eyes. Read Also: [Collar for Dogs](https: //pestpolicy. com/best-flea-collar-for-dogs/)
 
-# # Conclusion
+##  Conclusion
 
 Fleas will be attracted to your spaces (and bite you or your pets) by a number of factors such as vibrations, movement, breathing (CO2 - carbon dioxide), and body heat.

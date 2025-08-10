@@ -21,13 +21,13 @@ Arecent experiment proves that the bubbling (Sodium Acetate + Water) can't de-cl
 
 So, I'll stick toreliable drain cleaners. *
 
-# # Vinegar + Baking Soda = Sodium Acetate + Water
+##  Vinegar + Baking Soda = Sodium Acetate + Water
 
 When you add vinegar to Baking soda, youll create a bubbling mix. However, the bubbling is just producing Sodium Acetate + Water, which will not do a reliable deep cleaning. With the vinegar plus Baking soda, its mix will create just [salt and water that will not help generate the drain clog](http: //www. crunchybetty. com/diy-101-baking-soda-vinegar-not-so-much) you might burn your resources.
 
 **So, whats the best method**: Instead of using the mix of the two greening ingredients, use the baking soda like your scouring agent in cleaning bathrooms or the sinks. On the other hand, use vinegar for neutralizing any odor or like a scum busting.
 
-# # Avoid Vinegar plus Baking Soda
+##  Avoid Vinegar plus Baking Soda
 
 When used separately, vinegar and baking soda are excellent home cleaning agents. For example, vinegar acts to remove odor and disinfectant, while baking soda has great scrubbing power. As noted above, even though e reaction will not get to the bottom of the drain clog, it cant clear it. I know that most DIY experts recommend the mixture but leave it at just that.
 
@@ -41,6 +41,6 @@ Further, you can add salt to boiled [water to also help in unclogging the drain]
 
 However, youll need to remove the hair, oil, and grease clog balls by [snaking the drain](https: //pestpolicy. com/best-drain-snakes/) for shower or bathtub clog.
 
-# # Conclusion
+##  Conclusion
 
 The vinegar/ baking soda technique will not solve the grease buildups in your showers or kitchen sinks. Notably, melting away the oil and grease would require both a surfactant and heat, which would allow the oil to flow out with the water.

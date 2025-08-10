@@ -21,11 +21,11 @@ Diethyltoluamide (DEET) is a highly effective ingredient in insect repellents. N
 
 This ingredient is an excellent DEET-alternative since it's less harmful. However, its great to control horse [flies](https: //pestpolicy. com/how-long-do-fruit-flies-live/) and other insects such as gnats and mosquitos.
 
-## # Will Apple cider vinegar Repel Horse Flies?
+###  Will Apple cider vinegar Repel Horse Flies?
 
 When you need to treat any number of horses, youll need to utilize an aerosol fly spray since it will be easier to use. - However, YES, apple cider vinegar will repel horse flies - but it must be apple cider vinegar must be natural (unpasteurized). You'll need to spray the apple cider vinegar on the horse's hair coat - externally to effectively kill the horse flies.
 
-# # Any Essential Oils That Repel Horse Flies?
+##  Any Essential Oils That Repel Horse Flies?
 
 To repel horse flies, I recommend using a combination of these essential oils: Cedarwood, Lemon Grass, Tea Tree, Peppermint, Eucalyptus, Lavender, and Citronella. - The natural repellents include natural grape seed oil, rosemaryessential oil, natural lemon eucalyptus, tea tree oil, peppermint oil, avocado oil, and Aloe Vera juice.
 
@@ -33,9 +33,9 @@ To repel horse flies, I recommend using a combination of these essential oils: C
 
 However, you can use other products like fly masks, boots, and fly sheets to protect your equine friend.
 
-# # Choosing the Best Fly Spray for Horses
+##  Choosing the Best Fly Spray for Horses
 
-## # 1.Active Ingredients
+###  1.Active Ingredients
 
 The active ingredients (synthetic or natural) affect the horse spray's repellent and killing power. However, not all are suitable for foals and lactating mares. Here're the most used actives: permethrin, pyrethrins, picaridin, cypermethrin, tetramethrin, and resmethrin. - Pyrethrins - A natural active ingredient extracted from one of the chrysanthemum species. Pyrethrins provide[fast knockdown - it'll kill](https: //pestpolicy.
 
@@ -53,7 +53,7 @@ But with moisture, Oxygen, and sunlight, the pyrethrin ingredient will erode eas
 
 It stimulates the nervous system of the horse fly and has neurotoxin and synergists that take down the insects. Permethrin is highly stable and will protect your horse longer.
 
-## # 2. Oil-Based or Water-Based Spray?
+###  2. Oil-Based or Water-Based Spray?
 
 Oil-based or water-based spray? Well, both have their unique pros and cons. But first, the water-based sprays don't attract dust or dirt and won't irritate your horse's skin. - But for the water-based sprays, you must use synergists to prevent break down from sweat, rain, and sunlight.
 
@@ -61,16 +61,16 @@ However, the oil-based spray (marked as having Petroleum Distillate) offers quic
 
 The downside is that the oil-based brands will attract dust or dirt and may irritate or burn the sensitive horse skin.
 
-## # 3. Special Horses Conditions
+###  3. Special Horses Conditions
 
 Consider if your horse has conditions like sensitive skin, open wounds, or another health issue that might be worsened by using the horse fly spray. - For minor issues, you might need to be extra careful when applying the insecticide. - However, any adverse reactions from spraying must be reported to your veterinarian.
 
 But you'll be safer if you first test the horse fly spray on a spray section of your horse to check its effectiveness and the presence of any adverse reactions.
 
-## # 4. Number of Horses and Residue Effect
+###  4. Number of Horses and Residue Effect
 
 Depending on the number of horses youll be treated, you must consider the type of formula to use or maximum effectiveness. - Horseflies are not active at night. Thus, horses can comfortably graze[during the night since the horse flies will be least active](https: //entomology. ca. uky. edu/ef511).
 
-# # Conclusion
+##  Conclusion
 
 Youll need to consider the number of days that the repellent or fly killer will be effective on your horse - horse flies are mainly active from May to September. - For example, UltraShield EX Equine Spray will repel horse flies for seven days.

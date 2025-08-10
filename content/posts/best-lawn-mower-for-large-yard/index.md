@@ -21,9 +21,9 @@ But for yards that are over acre, you'll need a mower that's designed exactly fo
 
 I recommend gas-powered rear-engine rider or a self-propelled mower (wide deck).
 
-# # 7 Best Lawn Mower for Large Yard
+##  7 Best Lawn Mower for Large Yard
 
-## # [1. Overall Mower for Large Yard - Husqvarna HU800AWDH Mower](https://www.amazon.com/dp/B00S6Z2GWQ/?tag=p-policy-20)
+###  [1. Overall Mower for Large Yard - Husqvarna HU800AWDH Mower](https://www.amazon.com/dp/B00S6Z2GWQ/?tag=p-policy-20)
 
 Husqvarna HU800AWDH Mower is a powerful & fast gas-powered walk-behind mower that will work excellent for your large yard. It comes with the 190 cc engine that'll allow you to mow your yard in record time. The lawn mower has an all-wheel drive capability means that you'll require lesser force to movesthe mower across your lawn or uneven terrain. It has wheels with ball bearing - this makes it quite easy to move around the yard.
 
@@ -33,7 +33,7 @@ Husqvarna HU800AWDH comes with a 22-inch deck made of steel woill ensure that yo
 
 The Honda GCV engine allows it to start with its first time of trying even with no spluttering or coughing. Pros: - An all-wheel drive mower (4WD) - Its wheels have ball bearing - Large cutting deck (23-inch) - Has a 190 cc engine (Honda motor) that's very powerful to easily mow the big yards. - Come with hose attachment to allow for easy cleaning - Has a great Mulcher Cons: - Has a relatively flimsy mowing deck
 
-## # [2. EGO Power Plus Cordless Walk-Behind Lawn Mower](https://www.amazon.com/dp/B00S6Z2GWQ/?tag=p-policy-20)
+###  [2. EGO Power Plus Cordless Walk-Behind Lawn Mower](https://www.amazon.com/dp/B00S6Z2GWQ/?tag=p-policy-20)
 
 EGO Power LM2000 is a battery-powered mower offers top quality cuts while mowing your big yard. Definitely, this mower shines over the limitations of electric mowers or clay soil electric tiller. Its lithium-ion battery offers 4. 0Ah 56V which is enough pwoer to help you mow your large yard for 45 minutes - and luckily it will easily charge within half an hour.
 
@@ -49,7 +49,7 @@ However, I would recommend that you have 1 extra battery. Thus, you can swap the
 
 - Won't roll over the grass and its simple to maneuver plus you'll like the push-button starter that easily starts the mower's engine. Cons: - Limited positions for the variable handle - Would require some bigger battery
 
-## # [3.Craftsman 37430Gas-Powered 3-in-1 Push Mower](https://www.amazon.com/dp/B00S6Z2GWQ/?tag=p-policy-20)
+###  [3.Craftsman 37430Gas-Powered 3-in-1 Push Mower](https://www.amazon.com/dp/B00S6Z2GWQ/?tag=p-policy-20)
 
 For your large yard, the Craftsman 37430 mower allows you to mow easily with no stressing cords. Further, the machine is easy to use because of its power -Craftsman 37430 has a 5-Torque Engine to provide a torque of 5. 0 ft. /lb. Craftsman 37430 has a cutting deck that measures 21 inches and hence is excellent in cutting grass. Further, it'll readily reduce the grass - even the tough grass on your large yard.
 
@@ -59,7 +59,7 @@ I noted that when I pressed the priming bulb about 3-4 times, the mowers will st
 
 Pros: - Craftsman 37430 is a light-weight mower that you can comfortably push around - The 5-Torque Engine gives the mower great cutting power - 3-in-1 design - You'll find it smooth to handle plus the rear wheels are large enough to cut through uneven turf - Has a cutting width of21 inches Cons: - Hidden oil cap - Its a gas-powered mower
 
-## # [4. Greenworks 40V 20-Inch Twin Force Cordless Lawn Mower](https://www.amazon.com/dp/B00GX9WNP2/?tag=p-policy-20)
+###  [4. Greenworks 40V 20-Inch Twin Force Cordless Lawn Mower](https://www.amazon.com/dp/B00GX9WNP2/?tag=p-policy-20)
 
 Next up is Greenworks 40V, which is not only great for large yards but also a powerful mower for steep banks. It has twin batteries that are 40V but won't pollute your environment. This Greenworks 40V has cordless design that enables a homeowner to easily mow the grass even with no available power source connected at that moment. The machine will cut the grass in your large yard at a fast rate.
 
@@ -69,7 +69,7 @@ Further, the mower has excellent mulching and bagging. The top smart-cut design 
 
 - Has top design smart-cut technology - Has a cutting deck measuring 20 inches - High powered battery Cons: - Needs regular battery re-charging
 
-# # Conclusion
+##  Conclusion
 
 The best time for testing will be late winter or early spring. So, I cut grass with 3 mower types; side-discharging, bagging, mulching on ditches, slopes, and level turf. - *Cut Quality*: Offers great cut quality to give you an even and lovely lawn. Its cutting deck measures 22 and has 4-point adjustment cutting height. The grass cutting system is 3-in-1 and it'll side eject all the clippings, re-mulch yard grass, and bag all clippings.
 

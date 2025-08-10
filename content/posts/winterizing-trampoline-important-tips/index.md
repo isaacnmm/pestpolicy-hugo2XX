@@ -18,7 +18,7 @@ Just because its winter, should you put away your [trampoline](https: //pestpoli
 
 Well, I dont think so. Winter is a perfect time to jump and exercise on your trampoline as they provide the best workout activity for kids and parents. They help the body get warmed up in the cold season, thus improving the health outcomes of everyone involved. Those who will prefer to store their trampoline away until its sunny again will also get covered in this guide. Read Also: Swing Sets for Small Yards.
 
-# # Winterizing Trampoline Important Tips
+##  Winterizing Trampoline Important Tips
 
 If you intend to use your trampoline during winter, there are a few things you need to be doing to keep your structure in excellent condition. First, you need to use a broom or soft brush to get rid of leaves, debris, and snow. As we know, snow is quite heavy, and if left on top of the trampoline it can easily overstretch the springs and mat, causing unintended injuries when one jumps on it.
 
@@ -38,7 +38,7 @@ If you decide to disassemble your structure, please ensure you keep the springs 
 
 If you are planning to use your trampoline during winter (which we highly recommend) weve highlighted some of the actions or steps you need take to secure your trampoline. The sad thing is that this damage usually is not detected early, and once an individual jumps on it, they fall through the mat on to the ground causing severe injuries to the person. Read Also: Stain For Swing Set.
 
-# # Conclusion
+##  Conclusion
 
 The key to having a fun and safe jump during winter or any other time is to ensure you do regular maintenance. Note that, not all trampolines can withstand harsh weather. So its up to you to make the right decision for your investment. You should not be overwhelmed, go through this guide, and learn how to winterize your trampoline correctly. Always remember, Heavy snow can do significant damage to the trampolines mat.
 

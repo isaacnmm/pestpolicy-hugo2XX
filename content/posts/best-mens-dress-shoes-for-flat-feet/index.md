@@ -20,9 +20,9 @@ Choosing the best shoes for flat feet can help you control and manage this foot 
 
 Related: [Best Womens Dress Shoes for Flat Feet](https: //pestpolicy. com/best-womens-dress-shoes-for-flat-feet/)
 
-# # Review: 7 Best Mens Dress Shoes For Flat Feet
+##  Review: 7 Best Mens Dress Shoes For Flat Feet
 
-## # [1. Ecco Men's Helsinki Slip-On](https://www.amazon.com/dp/B0052CQRK8/?tag=p-policy-20)- Mens Dress Shoes for Flat Feet
+###  [1. Ecco Men's Helsinki Slip-On](https://www.amazon.com/dp/B0052CQRK8/?tag=p-policy-20)- Mens Dress Shoes for Flat Feet
 
 The Ecco Men's Helsinki Slip-On is a classic oxford shoe with a timelessly stylish design. Its a comfortable and supportive dress shoe for men with flat feet.
 
@@ -40,7 +40,7 @@ Pros: - Soft leather upper - Excellent shock absorption - Excellent moisture-wic
 
 Cons: - Pricey
 
-## # [2. Florsheim Men's Midtown Plain Toe Saddle Oxford](https://www.amazon.com/dp/B074DJBQYP/?tag=p-policy-20)
+###  [2. Florsheim Men's Midtown Plain Toe Saddle Oxford](https://www.amazon.com/dp/B074DJBQYP/?tag=p-policy-20)
 
 Florsheim Toe Saddle Oxford is a well-designed shoe that offers comfort and style. Its finds a spot on best mens dress shoes for flat feet because of its impeccable features and technologies.
 
@@ -58,7 +58,7 @@ Pros: - Durable and slip-resisting rubber sole - Highly cushioned - Comfortable 
 
 Cons: - Some people say that the shoe runs slightly larger
 
-## # [3. Rockport Men's Leader 2 Bike Slip on](https://www.amazon.com/dp/B01J9DTVDA/?tag=p-policy-20)
+###  [3. Rockport Men's Leader 2 Bike Slip on](https://www.amazon.com/dp/B01J9DTVDA/?tag=p-policy-20)
 
 If youre looking for a mans dress shoe that offers comfort and style for an official or casual setting you should pick Rockport Men's Leader 2 Bike Slip-on.
 
@@ -76,7 +76,7 @@ This mens walking shoe is also waterproof features water leather upper and water
 
 Cons: - A customer reported that the soles were slippery on wet surfaces
 
-## # [4. Dunham Men's Jericho Oxford](https://www.amazon.com/dp/B07C5D7Y66/?tag=p-policy-20)
+###  [4. Dunham Men's Jericho Oxford](https://www.amazon.com/dp/B07C5D7Y66/?tag=p-policy-20)
 
 Dunham shoes are custom made for all-day comfort and are perfect as official or casual wear. The Dunham Men's Jericho Oxford are some of the best mens shoes for flat feet thanks to its excellent construction and features.
 
@@ -92,7 +92,7 @@ The midsole also incorporates Nylon stability shank that provides needed arch su
 
 Cons: - Glued soles may separate after months of use
 
-## # [5. Dr. Comfort Wing Men's Therapeutic Diabetic Shoe](https://www.amazon.com/dp/B00IOT28I6/?tag=p-policy-20)
+###  [5. Dr. Comfort Wing Men's Therapeutic Diabetic Shoe](https://www.amazon.com/dp/B00IOT28I6/?tag=p-policy-20)
 
 Dr Comfort shoes are known for their therapeutic features and technologies that help to soothe problematic feet. This Wing Men's Diabetic Shoe is not any different. Its one of the best mens dress shoes for flat feet.
 
@@ -108,7 +108,7 @@ Pros: - Full-grain leather - Comfortable - Cushioned - Can insert orthotics - [B
 
 Cons: - The interior liner at the heel section wears off after only a few months of use
 
-## # [6. STACY ADAMS Men's Desmond Cap Toe Monk Strap Loafer](https://www.amazon.com/dp/B076CW51NS/?tag=p-policy-20)
+###  [6. STACY ADAMS Men's Desmond Cap Toe Monk Strap Loafer](https://www.amazon.com/dp/B076CW51NS/?tag=p-policy-20)
 
 If youre a man who appreciates personal style, allow STACY ADAMS Cap Toe Loafer to help you express yourself effortlessly.
 
@@ -122,7 +122,7 @@ The Cap Toe Loafer also boasts of a durable and lightweight construction that fe
 
 Cons: - Some people complain that the shoe is not true to size
 
-## # [7. Rockport Men's Margin Oxford](https://www.amazon.com/dp/B00627EFYM/?tag=p-policy-20)
+###  [7. Rockport Men's Margin Oxford](https://www.amazon.com/dp/B00627EFYM/?tag=p-policy-20)
 
 Rockport Men's Margin Oxford are classic mens dress shoes that have excellent comfort systems that provide great shock absorption. Hence, all-day comfort.
 
@@ -138,24 +138,24 @@ The EVA footbed adapts to the natural contours of your foot to give a personaliz
 
 Cons: - Not durable as expected
 
-# # Buyers Guide for Best Mens Dress Shoes for Flat Feet
+##  Buyers Guide for Best Mens Dress Shoes for Flat Feet
 
-## # Excellent Arch Support
+###  Excellent Arch Support
 
 People who have flat feet tend to overpronate (inward rolling of the foot) as they walk, run, or stand. If you have flat feet, it means your arches have fallen, (the arches are either too low or not there completely).
 
 Therefore, its crucial that you pick dress shoes that have proper arch support. Shoes with arch support can help to distribute your weight throughout the feet to ensure you remain comfortable even after walking or standing for long hours.
 
-## # Consider Break-in Period
+###  Consider Break-in Period
 
 Break-in Periods are important especially if you have problematic feet. Ensure that after youve your purchase and your new shoes arrive wear them and walk around the house until your flat feet get used to the shoe. This means your feet will be more comfortable wearing the shoe for longer periods.
 
-## # Comfort
+###  Comfort
 
 When buying best mens dress shoes for flat feet your comfort should come first. Choose dress shoes are highly breathable with soft interior lining to avoid foot irritation.
 
 Dress Shoes with toe boxes also ensure your toes have enough space to move around, thus, can support your weight more comfortably. The midsole and outsole should provide excellent cushioning.
 
-# # Conclusion
+##  Conclusion
 
 I understand that most men with flat feet may find it challenging to pick the best mens dress shoes for flat feet. I hope that this list will provide you with more insights and make it easy for you to choose a perfect dress shoe for that official or casual engagement.

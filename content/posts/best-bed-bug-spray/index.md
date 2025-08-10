@@ -21,7 +21,7 @@ Sometimes all we want is the best bed bug spray - one that's effective, safe to 
 
 # **In a Hurry? Check Best Bed Bug Spray**
 
-# # [1. Our #1 Pick: Ortho Home Defense (Mac Dual-Action) Bed Bug Spray](https://www.amazon.com/dp/B07YM6QZQV/?tag=p-policy-20)
+##  [1. Our #1 Pick: Ortho Home Defense (Mac Dual-Action) Bed Bug Spray](https://www.amazon.com/dp/B07YM6QZQV/?tag=p-policy-20)
 
 Ortho Home Defense is the best bed bug spray for outdoor spaces, luggage, headboards, and bed frames. This fast-acting formula will kill bed bugs plus their eggs, brown dog ticks, spiders, roaches, and ants. *Luckily*, Ortho Home Defense will kill even bed bugs that have built up immunity against insecticides such as pyrethroids. Its active ingredients, Zeta-Cypermethrin (0. 0125%) & Bifenthrin (0.
 
@@ -39,7 +39,7 @@ But there's a caveat: Ortho Home Defense will be toxic to your grazing animals a
 
 - The spray will penetrate into deep cracks and crevices The Bad: - Has more toxic chemicals compared to natural pesticides
 
-# # [2. #2 Pick: Harris Bed Bug Killer, Liquid Spray with Odorless](https://www.amazon.com/dp/B011S1GYZO/?tag=p-policy-20)
+##  [2. #2 Pick: Harris Bed Bug Killer, Liquid Spray with Odorless](https://www.amazon.com/dp/B011S1GYZO/?tag=p-policy-20)
 
 Harris bed bug spray is a contact-killing model that'll reduce the house's roach population in 1-2 weeks. Equally, it'll kill the eggs and adult bed bugs that are pyrethroid-resistant. - Harrisbed bugspray is created using natural active ingredients. It's EPA-approved and thussafe in spraying around kids and pets. - Also, it won't harm the environment or other animals.
 
@@ -51,7 +51,7 @@ Further, the large container means that this bed bug killer is budget-friendly.
 
 View the fullHarris Bed Bug Killer review. You can spray on yourmattresses, clothes, and furniture. The Good: - Both contact and residue killing - Natural ingredients that are safe for kids and pets - Suitable to apply on the mattress, furniture, and clothes - Leaves an excellentcedar scent - EPA certified The Bad: - None
 
-# # [3. #3 Pick: Bedlam Plus**Bed Bug Killer Spray**for professionals](https://www.amazon.com/dp/B007VFL2WM/?tag=p-policy-20)
+##  [3. #3 Pick: Bedlam Plus**Bed Bug Killer Spray**for professionals](https://www.amazon.com/dp/B007VFL2WM/?tag=p-policy-20)
 
 Maybe you need a highly portable spray for the small bed bug infestation? Well, I recommend Bedlum plus aerosol that is effective and has low toxicity. - Bedlam Plus is a great contact spray (and equally a residual formula) that'll kill even the bed bugs that are pyrethroid-resistant and thebaby bed bugs.
 
@@ -67,7 +67,7 @@ The straw applicator will hit the deepest of spaces, cracks, and crevices. The B
 
 The Good: - Residue effect of about two weeks - Kills bed bugsthrough contact - Effective against adult bed bugs, - Kills bed bugsin all growth stages. - Relatively mild odor The Bad: - Might cause mild irritation on the human skin
 
-# # [4. Rockwell Labs CXID032 Cimexa Bed Bug Dust Insecticide](https://www.amazon.com/dp/B007OAY71M/?tag=p-policy-20)
+##  [4. Rockwell Labs CXID032 Cimexa Bed Bug Dust Insecticide](https://www.amazon.com/dp/B007OAY71M/?tag=p-policy-20)
 
 Cimexa CXID032 is an odorless and luckily non-staining bed bug dust (particularly silica-based) that you'll love in your pest control processes. Puff the dust on carpets and mattresses. An interesting fact to note is that silica dust has a higher efficacy in killing bed bugs compared even to diatomaceous earth. Silica will soak the bed bug's wax and thus enhance speedier desiccation.
 
@@ -75,7 +75,7 @@ Cimexa CXID032 is an odorless and luckily non-staining bed bug dust (particularl
 
 You may use apaintbrush to spread the dust thinly onto crevices andbaseboards that the bed bugs will be hiding or moving around. Luckily, silica isn't toxic to human beings but wear a mask. The Good: - Viable for about ten years if left undisturbed. - Silica-based hence kills by dehydrating the bed bugs. - Natural bug killer - Faster bed bug extermination than even Diatomaceous Earth The Bad: - Use a mask
 
-# # [5. FenvaStar EcoCap is effective and budget-friendly](https://www.amazon.com/dp/B007OAY71M/?tag=p-policy-20)
+##  [5. FenvaStar EcoCap is effective and budget-friendly](https://www.amazon.com/dp/B007OAY71M/?tag=p-policy-20)
 
 FenvaStar EcoCap from Rockwell Labs is designed from a synthetic pyrethroid (3. 5% Esfenvalerate) and vegetable-based oils to kill a range of household pests. - The pyrethroid has a long residue effect to kill bed bugs and other insects such as silverfish, turf pests, cockroaches, spiders, fire ants, and fleas. FenvaStar EcoCap employs "microencapsulation" and will easily give the deadly dose to poison the bed bugs.
 
@@ -89,7 +89,7 @@ However, dont spray more than once in 2 weeks as it could lead to poisoning. You
 
 The Good: - Employs themicroencapsulation technology in random elimination of the bed bugs - Budget-friendly - Has a long residue effect The Bad: - No quick knock-down effect
 
-# # [6. Bayer Advanced Bed Bug Spray - Perimeter or Spot Treatment](https://www.amazon.com/dp/B001IDO78O/?tag=p-policy-20)
+##  [6. Bayer Advanced Bed Bug Spray - Perimeter or Spot Treatment](https://www.amazon.com/dp/B001IDO78O/?tag=p-policy-20)
 
 Bayer Advanced 700480, with B-Cyfluthrin and Sodium O-Phenylphenate as the active ingredients, is amazingly great for killing these bugs in a quick knockdown manner. - Bayer Advanced also kills bacteria causingenterobacter aerogenes andStaphylococcus Aureus. It has a long residue effect of 1 year for indoor bed bug protection.
 
@@ -99,7 +99,7 @@ You can use it as a barrier on the perimeter wall. However, Bayer Advanced 70048
 
 The Good: - Does not produce a pungent odor - Won't stain your clothes or various fabrics - After the area dries, you can let the pets get back. The Bad: - None
 
-# # [7. Proof 100% Effective Bed Bug and Dust Mite Killer Spray](https://www.amazon.com/dp/B00LPS4MUU/?tag=p-policy-20)
+##  [7. Proof 100% Effective Bed Bug and Dust Mite Killer Spray](https://www.amazon.com/dp/B00LPS4MUU/?tag=p-policy-20)
 
 Proof 100% Effective is a plant-based roach spray (killer) that's effective, with a residue effect of 3 weeks, a [safe](http: //pmep. cce. cornell. edu/profiles/insect-mite/mevinphos-propargite/neem-cold/neem_oil_mcl_0513. pdf) alternative for the chemical-based sprays. - The active ingredient inProof 100% Effective is[Cold-Pressed Neem Oil (5. 5%)](http: //npic. orst. edu/factsheets/neemgen.
 
@@ -113,6 +113,6 @@ com/do-bed-bug-bombs-work/) hormones' normal working, eventually killing the bug
 
 Check this comprehensive Proof bed bug spray review. The Good: - Comes in a spray bottle and will thus be easy to use - It's a contact-killing bed bug killer. - Contain natural active ingredients from theNeem tree (thus it's non-toxic) - It contains Azadirachtin that'll disrupt the reproduction cycle of the bed bugs by affecting hormones' functioning. - Has a residue effect of about 2 weeks The Bad: - Has a relatively pungent smell
 
-# # Conclusion
+##  Conclusion
 
 For long-term protection or creating a barrier, spray-on door trims, windows, baseboard, porches, patios, driveways, and sidewalks. - For additional details, check thisOrtho Home Defense Dual-Action Full Review.

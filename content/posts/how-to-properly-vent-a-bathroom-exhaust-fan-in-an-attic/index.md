@@ -57,7 +57,7 @@ Venting humid air into an unconditioned attic turns it into a breeding ground fo
 
 This guide will walk you through the correct methods, materials, and best practices to ensure your bathroom fan is doing its job effectively and safely, protecting your attic and home from moisture-related issues.
 
-# # Key Components for Proper Attic Venting
+##  Key Components for Proper Attic Venting
 
 To [properly](https: //pestpolicy. com/how-to-properly-size-a-bathroom-vent-fan/) vent a bathroom exhaust fan through an attic, you'll need the following:
 
@@ -71,7 +71,7 @@ To [properly](https: //pestpolicy. com/how-to-properly-size-a-bathroom-vent-fan/
 
 The flexible insulated duct often comes pre-insulated. If using rigid ducting, wrap it with insulation (e. g. , R-8 duct wrap). 7. **Caulk/Roofing Sealant: ** For sealing around the exterior vent cap. 8. **Framing Materials (Optional): ** If new fan mounting or additional attic bracing is needed.
 
-# # Common Mistakes to Avoid
+##  Common Mistakes to Avoid
 
 * **Venting into the Attic/Soffit: ** As reiterated, this is the biggest mistake. * **Using Improper Ducting: ** Flexible plastic dryer vent hose or uninsulated flex duct will lead to problems. * **Reducing Duct Size: ** Do not use an adapter to connect a larger fan port to a smaller duct. This chokes the fan. * **Loose Connections: ** Unsealed or poorly taped joints leak moisture into the attic.
 
@@ -79,7 +79,7 @@ The flexible insulated duct often comes pre-insulated. If using rigid ducting, w
 
 * **Lack of Insulation: ** Uninsulated ducts in a cold attic will condense moisture. * **Blocked External Vent: ** Ensure the exterior cap's damper isn't stuck or the screen isn't clogged.
 
-# # Final Thoughts
+##  Final Thoughts
 
 Properly venting a bathroom exhaust fan through the attic to the outside is a critical home maintenance task that directly impacts indoor air quality, energy efficiency, and the long-term structural integrity of your home. While it might seem like a hidden detail, ensuring a well-sealed, insulated, and unobstructed duct run is paramount to preventing costly moisture damage and maintaining a healthy living environment.
 

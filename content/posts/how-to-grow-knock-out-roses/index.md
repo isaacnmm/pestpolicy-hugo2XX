@@ -22,7 +22,7 @@ Known for their exceptional disease resistance, continuous blooming, and impress
 
 If you've dreamed of a garden filled with vibrant rose blooms without the fuss, Knock Out Roses are your answer. They thrive in a wide range of climates and conditions, delivering a season-long spectacle of color. This guide will provide you with all the information you need to successfully plant, grow, and care for these truly "knock-out" plants.
 
-# # About Knock Out Roses
+##  About Knock Out Roses
 
 The Knock Out Rose series (Rosa 'Radrazz' and its subsequent cultivars) was developed by William Radler and introduced by Star Roses and Plants. Their popularity stems from several key characteristics:
 
@@ -34,7 +34,7 @@ They are "self-cleaning, " meaning spent blooms drop off neatly, eliminating the
 
 * **Low Maintenance: ** Their disease resistance and self-cleaning nature drastically reduce the care required compared to hybrid teas or floribundas.
 
-# # How to Plant Knock Out Roses
+##  How to Plant Knock Out Roses
 
 Proper planting is essential for a strong start and healthy growth.
 
@@ -54,7 +54,7 @@ Ensure the graft union (the swollen knob where the rose was grafted onto rootsto
 
 **Water Thoroughly: ** Water deeply immediately after planting to settle the soil around the roots. 6. **Mulch: ** Apply a 5-10 cm ($2-4$ inch) layer of organic mulch (e. g. , shredded bark, compost) around the base of the plant. Keep the mulch a few inches away from the main stem to prevent moisture buildup. Mulch helps retain moisture, suppress weeds, and moderate soil temperature.
 
-# # Caring for Knock Out Roses
+##  Caring for Knock Out Roses
 
 Knock Out Roses are low-maintenance, but some basic care will ensure they flourish.
 
@@ -72,7 +72,7 @@ Water at the base of the plant to keep foliage dry, which further reduces diseas
 
 * **Deadheading (Optional): ** As Knock Out Roses are self-cleaning, deadheading spent blooms is not necessary for continuous flowering. However, if you prefer a very tidy look or want to encourage a flush of new growth, you can snip off spent flowers.
 
-# # Managing Pests and Diseases
+##  Managing Pests and Diseases
 
 Knock Out Roses are famed for their disease resistance, significantly reducing the need for chemical interventions.
 
@@ -82,7 +82,7 @@ A strong spray of water can often dislodge them.
 
 For heavier infestations, use insecticidal soap. * **Japanese Beetles: ** These metallic green beetles can skeletonize leaves. Hand-picking is often effective. Avoid beetle traps as they can attract more beetles to your garden. * **Prevention is Key: ** Healthy, well-sited plants are naturally more resistant to pests and diseases.
 
-# # Seasonal Care Tips
+##  Seasonal Care Tips
 
 Adjust your care routine as the seasons change.
 
@@ -92,7 +92,7 @@ Adjust your care routine as the seasons change.
 
 * **Winter: ** * In colder climates (Zone 5-6), a mound of mulch or straw around the base (up to 12 inches high) can provide extra root protection. * No significant active care is typically needed.
 
-# # Container Growing
+##  Container Growing
 
 Knock Out Roses are excellent choices for containers, especially the smaller varieties.
 
@@ -100,6 +100,6 @@ Knock Out Roses are excellent choices for containers, especially the smaller var
 
 * **Fertilizing: ** Container plants need more frequent feeding, as nutrients leach out with watering. Use a slow-release granular fertilizer or liquid feed at half strength every 2-4 weeks during the growing season. * **Winter Protection (Containers): ** In colder zones, containers offer less insulation. Move containers to a sheltered, unheated garage or shed, or bury the pot in the ground, or wrap the container with burlap and insulation.
 
-# # Final Thoughts
+##  Final Thoughts
 
 Knock Out Roses truly live up to their reputation as the ultimate easy-care rose. Their remarkable disease resistance, continuous blooming habit, and general hardiness make them a perfect choice for gardeners of all experience levels. By providing them with ample sunlight, well-draining soil, and basic care, you can enjoy a season-long explosion of vibrant color that will "knock out" the competition in your landscape with minimal fuss.

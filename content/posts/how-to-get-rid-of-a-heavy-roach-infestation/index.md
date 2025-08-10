@@ -21,25 +21,25 @@ Diatomaceous earth powder(breaks the roaches' exoskeleton and fatally removes it
 
 *Side note: To control German roaches effectively, cut the bug's access to water by cleaning clogged drains or repairing leaking plumbing work. * - Further, * for roach prevention, you can use secure food storage and thoroughly clean your spaces daily. *
 
-# # **1. Step 1: Use Glue Strips and Flashlight**
+##  **1. Step 1: Use Glue Strips and Flashlight**
 
-## # *(i) Flashlight*
+###  *(i) Flashlight*
 
 First, it'll help do a roach examination at your house. For this, pick some flashlights to check the hidden places for roaches. Such areas include bathroom closets and cabinets, closet door corners, cracks in shelves and cabinets, under the kitchen sink, and behind your refrigerator.
 
-## # *(ii) Roach glue strips*
+###  *(ii) Roach glue strips*
 
 Next, you can apply roach glue strips to determine if you have a massive roach infestation in your home. Considering the observation, you made using the flashlight, you'll need to put the roach glue strips on the highly strategic places. So, maintain the strips in those areas while monitoring for 4-7 days.
 
 Therefore, the strips that'll catch more roaches will signify the highly infested areas in your house and thus must get more aggressive roach treatment.
 
-# # **2. Step 2: Seal any Crevices and Cracks with Caulk**
+##  **2. Step 2: Seal any Crevices and Cracks with Caulk**
 
 The roach killers, such as traps, will help exterminate the bugs. However, these products won't significantly prevent roaches that are outdoors from getting into your house. Installing caulk on any openings that roaches might use will help limit roach re-infestation through areas like entry holes, tiny cracks and crevices, and gaps in your tiles and walls. Further, you can install weather stripping on your operable trunks, windows, and doors.
 
-# # **3. Step 3: Set Up Roach Baits and Roach Traps.**
+##  **3. Step 3: Set Up Roach Baits and Roach Traps.**
 
-## # *a. Roach Baits*
+###  *a. Roach Baits*
 
 Roach bait is an indoor roach killer or poison that exploits [cockroaches](https: //pestpolicy. com/how-to-get-rid-of-cockroaches/)' emetophobic, coprophagic, and cannibalistic trends. Gel bait stations will come in tubes that you can squeeze into crevices and cracks and under baseboards. The roaches that'll be poisoned go back to their roach nest, vomit, or even die.
 
@@ -49,7 +49,7 @@ Also, Granular baits are mainly used in outdoor spaces such as mulched areas whe
 
 Also, the roach would die before scattering the bait poison to the nests.
 
-## # *b. Roach Traps*
+###  *b. Roach Traps*
 
 Roach tarps of bait stations provide a no-mess method to control the roaches in your apartment. The baits attract the roaches with an enticing chemical smell, and thus they eat the bait and die. Further, roach traps employ both a trap and a containment technique to control the roaches. - The roach trap will also injure and contain the roach if it tries to escape if the poison bait does not kill it.
 
@@ -57,9 +57,9 @@ Roach tarps of bait stations provide a no-mess method to control the roaches in 
 
 After consuming the bait, the roach carries the poison back to their nest and disperse it to other insects. Equally, use the same principle while baiting insects. The foraging worker ants need to be the bait to carry the poisonous bait back to the ant nest.
 
-# # **4. Step 3: Sprinkle Boric Acid and Use Roach Sprays.**
+##  **4. Step 3: Sprinkle Boric Acid and Use Roach Sprays.**
 
-## # *a. Boric Acid Powder*
+###  *a. Boric Acid Powder*
 
 Boric Acid is created from boron plus water, making it extremely toxic to roaches but is safe for pets and humans. Normally boric acid occurs in toothpaste and washing detergent - but it's in powder form for roach control. Avoid placing the boric acid powder near places with air currents, and this would blow it away from roaches or onto places with pets and kids.
 
@@ -69,17 +69,17 @@ Borax will stick to the bug's body, or they'll eat it and damage its nervous sys
 
 However, the interesting bit is that the roaches will carry the boric acid back to their nest, poison the other insects, and help wipe the whole roach population.
 
-## # *b. Roach Sprays*
+###  *b. Roach Sprays*
 
 Most of the users love roach spray apart from some that have pungent smells. The sprays have [D-phenothrin](https: //en. wikipedia. org/wiki/Phenothrin) and [prallethrin](https: //en. wikipedia. org/wiki/Prallethrin) as the active ingredients. - The roach sprays can be used on cracks, crevices, and furniture to effectively reach the roach nests.
 
 - The pyrethrum ingredient enters the roaches cuticle to bind the nerves sodium channels and thus stopping body activities such as heartbeat and breathing in the apartment. Despite being a very harmful nerve agent to roaches, the pyrethrum is nontoxic to human beings and other mammals.
 
-## # *c. Roach Killer Bombs*
+###  *c. Roach Killer Bombs*
 
 Roach bombs or foggers are effective in treating a large cockroach infestation. - However, youll need to learn when to use thebest roach bomb for the houseas it can be less efficient in roaches hidden in voids. Place the roach bomb in the middle of the room and set it off to allow the insecticide to move up and settle down, killing roaches on contact.
 
-# # **5. Insect growth regulators (IGRs)**
+##  **5. Insect growth regulators (IGRs)**
 
 IGRs are categorized as insecticides that do not kill the roach instantly but adversely affect its ability to grow and mature naturally. IGRs block the cockroaches ability to reproduce or grow into an adult. - The IGRs will ensure that the roaches in your house do not develop another generation in their population as it will decrease their capacity to grow or reproduce.
 
@@ -87,6 +87,6 @@ IGRs are categorized as insecticides that do not kill the roach instantly but ad
 
 They affect the length in which the roach remains in the larval or nymphal stage and the time when it turns into an adult.
 
-# # Conclusion
+##  Conclusion
 
 When you expose the cockroach nymphs to the juvenoid IGRs, they develop infertile adults or will not molt into adults. Also, the chemicals can affect the roaches adult life by blocking the creation of viable roach eggs. As a birth control method, the IGR will help prevent the development of [roach babies](https: //pestpolicy. com/what-do-baby-roaches-look-like//) or tiny roaches.

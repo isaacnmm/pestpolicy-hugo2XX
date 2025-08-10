@@ -21,7 +21,7 @@ But, you might need a combination of bed bugs control methods such as heat (done
 
 ** **Check other bed bug killers. **
 
-# # Does Ammonia Kill Bed Bugs and Their Eggs? Whats this ammonia?
+##  Does Ammonia Kill Bed Bugs and Their Eggs? Whats this ammonia?
 
 As noted above, [**Ammonia**](https: //en. wikipedia. org/wiki/Ammonia) (NH 3 ) is a chemical compound that's created fromhydrogen+ nitrogento create what we generally callhousehold ammonia. The chemical is also used in [ammonium nitrate fertilizer](https: //www. tfi. org/sites/default/files/documents/ammoniafactsheet. pdf) for adding nitrogen to the soil and, thus, your flowers or grass.
 
@@ -29,7 +29,7 @@ Ammonia is also used to make household cleaners clean tough stains on kitchen co
 
 At this point, every homeowner would like many options (like bleach, Lysol, or Ammonia, spraying the bed bugs ), provided they get rid of the nagging bugs.
 
-# # How to treat Bed Bugs with Ammonia
+##  How to treat Bed Bugs with Ammonia
 
 **Summary**: So, take the [household ammonia](https: //www. amazon. com/dp/B00LOUJOUC/? tag=p-policy-20), mix with water (plus alcohol), and put it into a spraying bottle with a secure lid. Next, spray all the bed bug hiding places such as bed frames, mattresses, and attics. **1. ** To get started, get your Ammonia and dilute it as advised on the product label instructions. Generally, it should be 1 part of water and 1 part of Ammonia.
 
@@ -47,7 +47,7 @@ Repeat the bed bug spraying process after 24 hours until you can see no moving b
 
 Also, ensure that you machine-wash the infested clothing and fabric with the highest allowable temperature. Also, ensure that you vacuum the floor and wash all the carpets and rugs.
 
-# # Safety Precautions for handling Ammonia
+##  Safety Precautions for handling Ammonia
 
 On its own, ammonia wont be toxic if used as prescribed by the manufactures. However, if you decide to mix this chemical with other substances, youll need to be extra careful to avoid toxic reactions and possible poisoning to humans and pets. However, when mixed with chemicals such as bleach, you must be extra cautious to avoid poisoning.
 

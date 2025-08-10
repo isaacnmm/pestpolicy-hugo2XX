@@ -22,11 +22,11 @@ These shoes are supportive, well-cushioned, comfortable, and flexible. Go throug
 
 Related: Best Walking Shoes for Lower Back Pain
 
-# # Review: 7 Best Dress Shoes For Back Pain
+##  Review: 7 Best Dress Shoes For Back Pain
 
 In the review, Ill look at both mens and womens Dress Shoes for Back Pain. Lets get started. **Best Mens Dress Shoes for Back Pain**
 
-## # [1. Avery Island Orthopedic Shoes](https://www.amazon.com/dp/B07BVZ6YRR/?tag=p-policy-20)
+###  [1. Avery Island Orthopedic Shoes](https://www.amazon.com/dp/B07BVZ6YRR/?tag=p-policy-20)
 
 The first spot for Best Dress Shoes for Back Pain goes to this Orthopedic Shoe from Avery Island. This Orthopedic shoe is designed for men who crave comfort and style. The shoe features superior Orthofeet's comfort technologies that would help alleviate back pain.
 
@@ -40,7 +40,7 @@ Other than that, this athletic and therapeutic footwear is available in various 
 
 Cons: - Some people complained that they run big
 
-## # [2. SAS Men's Tripad Comfort Leather Walking Shoe](https://www.amazon.com/dp/B00GNJXXDS/?tag=p-policy-20)
+###  [2. SAS Men's Tripad Comfort Leather Walking Shoe](https://www.amazon.com/dp/B00GNJXXDS/?tag=p-policy-20)
 
 SAS Men's Tripad is a comfortable leather-walking shoe thats ideal for back pain sufferers. The shoe features a Coolstep Footbed, which is a removable footbed that ensures the feet remain dry and comfortable throughout the day.
 
@@ -62,7 +62,7 @@ Youll appreciate the arch support and the back support these shoes provide. Thes
 
 Cons: - Expensive
 
-## # [3. Broadway Orthopedic Mens Loafers](https://www.amazon.com/dp/B003OHC2KW/?tag=p-policy-20)
+###  [3. Broadway Orthopedic Mens Loafers](https://www.amazon.com/dp/B003OHC2KW/?tag=p-policy-20)
 
 Broadway Orthopedic shoes are also the best dress shoes for back pain. Theyre comfortable and stylish making them ideal for most work environments.
 
@@ -80,7 +80,7 @@ Cons: - A customer complained that the shoe doesnt last long
 
 **Best womens Dress Shoes for Back Pain**
 
-## # [4. Alegria Women's debra Slip-On](https://www.amazon.com/dp/B06VSJW9HR/?tag=p-policy-20)
+###  [4. Alegria Women's debra Slip-On](https://www.amazon.com/dp/B06VSJW9HR/?tag=p-policy-20)
 
 If you want a shoe that is well-detailed, comfortable, supportive, and eases back pain while giving you that professional look, pick the Alegria Women's Debra Slip-On.
 
@@ -96,7 +96,7 @@ The Alegria Women's Debra comes in a variety of prints and colors allowing you t
 
 Cons: - Some customers complained that they are not highly durable
 
-## # [5. Dansko Women's Loralie Wedge](https://www.amazon.com/dp/B077VTBHTN/?tag=p-policy-20)
+###  [5. Dansko Women's Loralie Wedge](https://www.amazon.com/dp/B077VTBHTN/?tag=p-policy-20)
 
 The Dansko Women's Loralie Wedge stands out as the best shoes for back pain. The cushioned footbed has a memory form that ensures superior arch support for long-lasting comfort. you can also use custom orthotics for extra comfort.
 
@@ -110,7 +110,7 @@ Dansko is a renowned footwear brand that manufactures innovative designs, which 
 
 Cons: - A customer complained that theyre a bit narrow at the toe box
 
-## # [6. Drew Shoe Women's Bloom II Mary Jane](https://www.amazon.com/dp/B000TBHZWQ/?tag=p-policy-20)
+###  [6. Drew Shoe Women's Bloom II Mary Jane](https://www.amazon.com/dp/B000TBHZWQ/?tag=p-policy-20)
 
 Drew Bloom II is a highly comfortable and supportive shoe. Most wearers are pleased with its cushioning and ability to ease back and foot discomfort. Thus, its one of the best dress shoes for back pain.
 
@@ -128,7 +128,7 @@ The Polyurethane Rocker Bottom adapts to your natural walking gait to ensure you
 
 Cons: - A customer complained that the sole was thick and chunky
 
-## # [7. Clarks Women's Medora Nina Flat](https://www.amazon.com/dp/B01IAWLT7M/?tag=p-policy-20)
+###  [7. Clarks Women's Medora Nina Flat](https://www.amazon.com/dp/B01IAWLT7M/?tag=p-policy-20)
 
 If youre looking for a comfortable yet stylish dress shoe that would help alleviate your back pain, then pick the Clarks Women's, Medora Nina.
 
@@ -140,26 +140,26 @@ The Clarks Women's Medora shoes have a rubber sole that adds to the shoes durabi
 
 Cons: - A customer complained that the shoes are not very breathable
 
-# # Buyers Guide for Best Shoes for Back Pain
+##  Buyers Guide for Best Shoes for Back Pain
 
-## # Durability
+###  Durability
 
 The durability of shoe determines how long the shoe will last and the materials used in its construction that would extend its lifespan. Ensure you choose back pain shoes that would give you value for your money. Check carefully the materials used in the shoe construction. Some materials may cause foot irritation leading to blisters or serious infection.
 
-## # Material/Fabric
+###  Material/Fabric
 
 The material of the shoe will tell whether it has good shock absorption abilities. the design and density of the shoe are important in enhancing support and cushioning. The design will also determine the shoes ability to distribute weight evenly. Lookout for rigid materials that would make it difficult for your feet to adjust to the shoes.
 
-## # Arch Support
+###  Arch Support
 
 When picking best dress shoes for back pain ensure that the arch of the shoes matches your foot arches. Choosing the correct shoes with the correct arch support ensures you get proper foot alignment for a comfortable wear experience. if possible have you arches checked or measured so that you know our arch type and the kind of shoes that would properly support the arches.
 
 Ensure you also choose shoes well cushioned to help alleviate back pain and excess impact from walking or standing for long.
 
-## # Roomy Toe Box
+###  Roomy Toe Box
 
 A roomy or spacious toe box allows your toes to move naturally, as you walk or stand. Avoid shoes that squeeze your toes. Some women's shoes tend to be narrow at the toe section. its crucial that you check whether the toe box is roomy. Toes offer needed balance and support, therefore squeezing them deters their normal functioning.
 
-# # Conclusion
+##  Conclusion
 
 When looking for the best dress shoes for back pain comfort should be your first priority. Choose shoes that provide ample arch support that would help alleviate back pain and other foot discomforts like arthritis or knee pain.

@@ -23,7 +23,7 @@ Fortunately, gardeners don't have to sacrifice the beauty of wisteria. There are
 
 This article will highlight the issues with invasive wisteria, introduce you to its native counterparts, and provide guidance on cultivating them, alongside broader advice for making environmentally sound plant choices.
 
-# # Invasive Wisteria
+##  Invasive Wisteria
 
 The term "invasive wisteria" typically refers to two Asian species:
 
@@ -45,7 +45,7 @@ The term "invasive wisteria" typically refers to two Asian species:
 
 * **Economic Costs: ** Control and removal of invasive wisteria can be very expensive for municipalities and homeowners.
 
-# # Native Wisteria
+##  Native Wisteria
 
 In contrast to their aggressive Asian cousins, **American wisteria (*Wisteria frutescens*)** is a well-behaved and ecologically beneficial native [alternative](https: //pestpolicy. com/gutter-alternatives/). It is native to the southeastern United States, though its range can extend into parts of the Midwest.
 
@@ -57,7 +57,7 @@ While the individual flower clusters may be slightly shorter or less dense than 
 
 * **Host Plant: ** Critically, unlike the invasive species, American wisteria serves as a **host plant for several native moth and butterfly species**, including the Long-tailed Skipper and the Silver-spotted Skipper. This means their caterpillars can feed on its leaves, supporting the full life cycle of these insects. * **Non-Invasive: ** It does not aggressively self-seed or spread uncontrollably, allowing native plants to thrive alongside it.
 
-# # How To Grow American Wisteria
+##  How To Grow American Wisteria
 
 Growing American wisteria is similar to growing its Asian counterparts, focusing on providing proper support and sun.
 
@@ -77,7 +77,7 @@ This stimulates flower bud formation for the following year.
 
 * **Time to Bloom: ** American wisteria can take 2-3 years to establish and begin flowering, especially if grown from a small transplant. Be patient!
 
-# # Environmental Impact of Choosing Native Plants
+##  Environmental Impact of Choosing Native Plants
 
 Choosing native plants like American wisteria over invasive imports has a profound positive environmental impact:
 
@@ -85,7 +85,7 @@ Choosing native plants like American wisteria over invasive imports has a profou
 
 * **Requires Less Maintenance: ** Native plants are typically more resilient to local pests, diseases, and extreme weather, often requiring less water, fertilizer, and pesticides once established. * **Preserves Biodiversity: ** Supporting native plant communities helps maintain the rich tapestry of local flora and fauna, contributing to overall ecosystem health and resilience.
 
-# # Tips for Responsible Wisteria Cultivation
+##  Tips for Responsible Wisteria Cultivation
 
 If you are determined to grow an Asian wisteria (which is not recommended if you live where it's invasive), follow these highly responsible practices:
 
@@ -95,7 +95,7 @@ If you are determined to grow an Asian wisteria (which is not recommended if you
 
 Do not plant near natural areas, forests, or waterways. * **Regular Monitoring: ** Routinely check your property and neighboring areas for any escaped seedlings and remove them immediately.
 
-# # Alternatives To Wisteria (if a vine isn't needed)
+##  Alternatives To Wisteria (if a vine isn't needed)
 
 If you're drawn to the cascading purple beauty but aren't set on a vine, consider other plants that offer similar aesthetic qualities:
 
@@ -105,7 +105,7 @@ If you're drawn to the cascading purple beauty but aren't set on a vine, conside
 
 * **Larkspur or Delphinium: ** Perennial flowers with tall spikes of blue/purple blooms, creating a vertical accent.
 
-# # So, Which Wisteria Should I Put in My Garden?
+##  So, Which Wisteria Should I Put in My Garden?
 
 For environmentally conscious gardeners, the answer is clear: **choose American Wisteria (*Wisteria frutescens*) or its cultivars. **
 

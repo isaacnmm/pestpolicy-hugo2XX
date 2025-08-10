@@ -19,31 +19,31 @@ Cedar oil ( an essential oil ) is an effective pest repellent that works on a nu
 
 Besides the woody scent of the cedarwood oil is loved by many homeowners for keeping their houses smelling great. But it also has anti-inflammatory, antifungal, antiseptic, antispasmodic, and diuretic properties. - In this article, Ive detailed how to mix cedar oil for pest control - it is safe to use around animals and garden trees but you must know the quantities to use.
 
-# # How to Make or Mix Cedar Oil Spray?
+##  How to Make or Mix Cedar Oil Spray?
 
 Mix 120 ml (4 oz) of the cedar oil with 770 ml (26 Oz) of water. First, pour the 120 mL of oil cedar oil into a sprayer that has a hose end. - The hose-end sprayer will simply be a canister that will fit the end of a hose while its side has graduated measurements. Next, you will add 770 ml (26 Oz) of water into the container that has the cedar oil. - Ensure to properly screw the container to the water hose.
 
 Finally, turning on the water makes it properly dilute your cedar oil to a concentration that will control the pests. The cautions involved in this pest remedy are to effectively read the product instructions because various brands may have a different dilution ratio. - When you mix 120 ml of cedar oil with 770 ml of water, you'll have made enough spray to pest-treat about 5000 square feet.
 
-# # Which Pests Can Be Controlled By Cedar Oil?
+##  Which Pests Can Be Controlled By Cedar Oil?
 
 Cedar oil is mainly composed of cedrene and cedrol - components that create [cedar camphor. ](https: //ecommons. cornell. edu/bitstream/handle/1813/56116/cedarwood-oil-MRP-NYSIPM. pdf? sequence=1) Cedar camphor is a very volatile and critical chemical for repelling and killing fungi, biting insects, and moths.
 
 - This is because the pests will find it hazardous to breathe the air sprayed with cedar oil because it has high volatility levels and so it is classified as a[natural bug repellent](http: //blogs. ifas. ufl. edu/wakullaco/2017/06/01/native-red-cedar-is-a-natural-insect-repellant/). The cedar oil pest control formulation can be used when dealing with the following pests;
 
-## # a. Controlling Bed Bugs
+###  a. Controlling Bed Bugs
 
 A recent [Rutgers University study](https: //www. rutgers. edu/news) reported positively on the effectiveness of cedarwood oil in controlling bed bugs - this was also the case with other essential oils such as paraffin oil and silicon oils.
 
 - Therefore, experts note that cedar oil is an effective and natural alternative to using chemical-based pest control products if you need to[control bed bugs](https: //new-url. com/bed-bugs-vs-other-pests)and it will be a cheaper option compared to[hiring a professional exterminator](https: //new-url. com/how-much-do-bed-bug-exterminators-cost/).
 
-## # b. Controlling Fleas
+###  b. Controlling Fleas
 
 Cedar oil is a key ingredient in [most flea repellents](https: //pestpolicy. com/how-to-kill-fleas-on-dogs-naturally-safe-and-fast/) as it is effective in killing these bugs - reported by the [EPA](http: //juniper. oregonstate. edu/bibliography/documents/phpSK42c4_epa. pdf). - But it is very critical to maintaining the correct mixing concentration or ratios before spraying the dogs.
 
 - Caution: Before using the cedar oil spray on your cat, consult the vet on an appropriate concentration - if any allowable for this pet. You can also mix your dog shampoo with lemongrass oil (one drop) and Cedar oil (two drops). - Effectively massage the shampoo & essential oils mixture into the dog's skin.
 
-## # c. Controlling Slugs
+###  c. Controlling Slugs
 
 Cedar oil can be utilized as one of many molluscicides - which are substances that will kill slugs and mollusks. A recent study on snails and garden slugs shows that cedar oil will [suffocate these organisms](https: //ucanr. edu/blogs/blogcore/postdetail. cfm? postnum=10540) to their death. 1. Luckily, cedar oil won't harm the various plants in your yard or garden - while the oil is killing the slugs.
 
@@ -53,7 +53,7 @@ Well, cedar oil has very low toxicity levels for humans and other mammals - whic
 
 So, cedar oil will kill a number of bugs including ants, ticks, moths, bed bugs, mosquitos, fleas, and mites. - However, cedar oil wont harm the garden plant or beneficial yard insects such as butterflies and bees
 
-# # How to Use Cedar Oil in Horticulture Settings?
+##  How to Use Cedar Oil in Horticulture Settings?
 
 For the horticultural settings, I advise you to spray (to saturation levels) the bugs and their hiding places using cedar oil. - As outlined above on the concentration of cedar oil spray, mix about 120 ml of cedar oil with about 770 ml of water into some hose-end sprayer before screwing the container into a hose.
 
@@ -63,7 +63,7 @@ Caution on some plants or trees: Cedar oil will, however, cause damage, especial
 
 - For citrus trees, it is advisable to apply cedar oil during early summer or spring.
 
-# # How Does Cedar Oil Kill Insects?
+##  How Does Cedar Oil Kill Insects?
 
 Cedar oil kills the pests by suffocating them in their exoskeletons - the oil covers the breathing holes of the insects. So, it is recommended that you apply the cedar oil (through spraying) directly to the body of that pest. - Also, in some of the pests, cedar oil will damage their metabolism and that's cause death Cedar oil has a quick knockdown effect on the various tests and so you notice them stopping the movement in just minutes.
 
@@ -71,6 +71,6 @@ Cedar oil kills the pests by suffocating them in their exoskeletons - the oil co
 
 Therefore, if you need to achieve longer-term pest control in an area using cedar oil, you will need to reapply the solution once you see any pests around. - For humans, you should spray the cedar oil on the skin and clothes before stepping outside. - The woody scent of the cedar oil will also repel ticks and mosquitoes. You must shake the cedar oil bottle (containing the mixture) well before spraying it on the next surface.
 
-# # Conclusion
+##  Conclusion
 
 So in summary, you will be required to mix 220 ml of cedar oil with 770 ml of water and the spray will treat an area of 5000 square feet. - Cedar oil kills various pests by covering their exoskeleton and thus suffocating the bugs. Cedar oil with higher concentrations will destroy the pest exoskeleton or emulsify its body fat. Cheers!

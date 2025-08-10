@@ -22,7 +22,7 @@ Proactive fall maintenance protects your property from harsh winter weather, pre
 
 Neglecting these autumn tasks can lead to frozen pipes, leaky roofs, pest infestations, and inefficient heating systems, all of which become far more problematic and expensive to fix in the depths of winter. This comprehensive fall home maintenance checklist will guide you through the essential tasks to prepare your home, inside and out, for the colder months ahead.
 
-# # Sealing up Your Home
+##  Sealing up Your Home
 
 Preventing drafts and heat loss is key to a warm and energy-efficient home during winter.
 
@@ -34,7 +34,7 @@ If it's cracked, brittle, or compressed, it's no longer effective. * **How To: *
 
 Attach it to the bottom of the door, ensuring it lightly brushes the threshold when closed. * **Insulate Electrical Outlets and Switches: ** Older homes, in particular, can lose significant heat through uninsulated electrical boxes on exterior walls. * **How To: ** Turn off power at the circuit breaker. Remove the cover plate. Place inexpensive foam gaskets (available at hardware stores) over the outlet/switch, then replace the cover plate.
 
-# # Inspecting and Repairing the Roof
+##  Inspecting and Repairing the Roof
 
 Your roof is your home's primary defense against winter elements. Fall is the ideal time to ensure it's in top condition before snow and ice arrive.
 
@@ -44,7 +44,7 @@ Your roof is your home's primary defense against winter elements. Fall is the id
 
 Apply a small amount of roofing cement under the edges of new and adjacent shingles to seal them down. * **When to Call a Professional: ** For extensive damage, widespread missing shingles, significant soft spots, or if you are uncomfortable working on a ladder, hire a licensed and insured roofing contractor.
 
-# # Gutter Maintenance
+##  Gutter Maintenance
 
 Clogged gutters can lead to serious problems, including foundation damage, ice dams, and fascia board rot.
 
@@ -54,7 +54,7 @@ Clogged gutters can lead to serious problems, including foundation damage, ice d
 
 Consider installing downspout extenders if needed.
 
-# # Landscaping Preparation
+##  Landscaping Preparation
 
 Protecting your outdoor plants, tools, and irrigation systems is crucial for their survival and performance next year.
 
@@ -66,7 +66,7 @@ This insulates roots from freezing and thawing cycles. * **Winterize Irrigation 
 
 Store them indoors or in a shed to prevent cracking from freezing temperatures. * **Turn Off Outdoor Faucets: ** Disconnect hoses from outdoor spigots. If your faucets aren't frost-proof, locate the shut-off valve inside your home and drain the exterior pipe.
 
-# # Winterizing Outdoor Equipment
+##  Winterizing Outdoor Equipment
 
 Prepare your lawn care equipment for dormancy.
 
@@ -76,7 +76,7 @@ Prepare your lawn care equipment for dormancy.
 
 * **Other Power Tools: ** Drain fuel from trimmers, blowers, and chainsaws. Clean thoroughly and store.
 
-# # HVAC System Maintenance
+##  HVAC System Maintenance
 
 Your heating system will soon be working overtime; ensure it's ready.
 
@@ -86,7 +86,7 @@ Your heating system will soon be working overtime; ensure it's ready.
 
 * **Check Carbon Monoxide Detectors: ** Test carbon monoxide detectors and replace batteries. These are vital safety devices, especially when using a furnace or fireplace.
 
-# # Indoor Maintenance
+##  Indoor Maintenance
 
 Don't forget the inside of your home as you prepare for colder, darker days.
 
@@ -98,6 +98,6 @@ Don't forget the inside of your home as you prepare for colder, darker days.
 
 * **Check for Pests: ** Inspect entry points for signs of rodents or insects trying to find warmth indoors. Seal any small cracks or holes.
 
-# # Final Thoughts
+##  Final Thoughts
 
 Fall home maintenance is an investment that pays dividends in comfort, energy savings, and extended lifespan for your home's components. While it may seem like a long list, tackling these tasks systematically throughout the autumn months will prevent unexpected breakdowns and costly emergency repairs when winter's chill truly sets in. A well-maintained home is a safe, efficient, and comfortable home, ready to weather any storm.

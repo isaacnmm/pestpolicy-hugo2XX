@@ -21,11 +21,11 @@ So, now let's check out the Bengal roach spray and its effectiveness.
 
 Roaches spoil the mood in every household - they'll develop into massive infestations after forming nests in hidden spaces plus inside walls.
 
-# # Bengal Roach Spray Review - Cockroach Sprays
+##  Bengal Roach Spray Review - Cockroach Sprays
 
 But, Bengal roach spray-like combat max 12 will kill roaches almost instantly - within an hour. Luckily, Bengal roach spray has a long residue effect - you'll only require to respray your house or apartment within 6-8 months after the last application.
 
-## # 1. Effective Active Ingredients
+###  1. Effective Active Ingredients
 
 Permethrin, as noted earlier, is the crucial ingredient in Bengal roach spray. Permethrin mimics the chrysanthemums' natural chemicals. Any roaches that'll touch or ingest the Bengal spray Permethrin will have its nervous system damaged and thus lessen the bug's capacity to move its muscles - eventually leading to death. https: //twitter.
 
@@ -33,23 +33,23 @@ com/BatgirlFTW/status/905466984661430272 Permethrin plus nylar, in the Bengal Sp
 
 [N](http: //npic. orst. edu/factsheets/pyriprogen. html) [ylar (pyriproxyfen) is an effective IGR](http: //npic. orst. edu/factsheets/pyriprogen. html) that will hinder the baby or juvenile roaches from getting to maturity.
 
-## # 2.Roach treatments Safe for Pets(Cats & Dogs) and Human Beings
+###  2.Roach treatments Safe for Pets(Cats & Dogs) and Human Beings
 
 Bengal spray is safe for pets and human beings - it's excellent for indoor, but you'll need to put on an appropriate face mask during the application process - this prevents poisoning through inhalation. - But just like withroach bombs, ensure you remove pets, kids, and any adults from the house to avoid poisoning when spraying the insecticide. Leave the formula to settle before getting back to the sprayed space.
 
 - Further, ensure that the sprayed room is adequately ventilated before going back inside - there should be no signs of insecticide fumes. - Further, don't take pets like fish before the Bengal spray fumes are entirely gone. Also, carefully follow the product usage instructions - leave the sprayed spaces for the outlined hours.
 
-## # 3. Easy to Spray - How to Use Bengal Roach Spray
+###  3. Easy to Spray - How to Use Bengal Roach Spray
 
 Bengal Roach Spray is delivered in an aerosol can that makes it super easy to spray the roach-infested spaces - including kitchens, apartments, cracks, and cupboards. Further, you won't require additional attachments when using this Bengal Roach Spray, particularly for hard to spray places like cabinets, sinks, drains ( [examine these drain cleaners](https: //pestpolicy. com/best-drain-cleaner//) ), refrigerators, and baseboards.
 
 However, spray the insecticides keenly on windows and doors since the roaches may easily use these routes to escape extermination in the indoor spaces. Further, Bengal Roach Spray will treat roach-hiding places like closets to prevent a later roach infestation. After the last spraying, your house will be protected for 6-8 months against roaches.
 
-## # 4. Exterminates Many Insects
+###  4. Exterminates Many Insects
 
 Bengal Roach Spray will exterminate a range of insects, including roaches, their eggs, and babies. - However, Taurus SC is the more preferred insecticide for killing many insecticides. Bengal spray will kill insects such as silverfish, fire ants, centipedes, ants killers, crickets, palmetto bugs, and sow bugs.
 
-# # [Review 1: BENGAL CHEMICAL Gold Roach Spray](https://www.amazon.com/dp/B0015I3ESG/?tag=p-policy-20)
+##  [Review 1: BENGAL CHEMICAL Gold Roach Spray](https://www.amazon.com/dp/B0015I3ESG/?tag=p-policy-20)
 
 Bengal Gold Spray is the more powerful as it's also an Insect Growth Regulator (IGR), and thus it'll offer more extended protection against roaches. - Equally, Bengal Gold Spray kills a range of insects besides also beingnon-staining and odorless. - The chemical formula will sterilize the roaches and hence prevent their reproduction in your house.
 
@@ -59,7 +59,7 @@ Adult roaches sprayed with IGR will have twisted or warped wings. So, here are t
 
 - Kills a range of bugging insects in indoor spaces, including spiders, mosquitoes, ants. Luckily, in roaches, this Bengal Gold Spray will prevent reproduction thanks to its IGR. - The long residue effect is going up for about six months and thus will protect your house for longer.
 
-# # [Review 2: Bengal Roach Killer Spray -Effective for Apartments](https://www.amazon.com/dp/B00KROV7H4/?tag=p-policy-20)
+##  [Review 2: Bengal Roach Killer Spray -Effective for Apartments](https://www.amazon.com/dp/B00KROV7H4/?tag=p-policy-20)
 
 Bengal and raid roach killer (has Nylar ) is an effective roach insecticide based on permethrin. The product uses the dry content that you can apply to the roach's hiding spaces, including gaps, splits, and cracks. Luckily, the product uses the dry-penetrating formula that'll leave no mess or odor while also preventing any roach re-infestations for about 6-8 months.
 
@@ -69,7 +69,7 @@ Check these pros associated with this roach spray; 1. Long residue effect that'l
 
 Bengal roach killer is budget-friendly when compared to using a professional exterminator or roach bombs. Further, re-treatment can exterminate the whole roach family. 4. It's also non-staining, meaning that you won't have to worry about unnecessary scrubbing and washing after you're done spraying the insecticide.
 
-# # How Does Bengal Roach Spray Work?
+##  How Does Bengal Roach Spray Work?
 
 Bengal roach spray employs some particular dry propellant that allows it to go very deep into crevices and cracks, under your appliances, and behind the walls these are the places where roaches breed and live. - Bengal roach spray irritates the[[cockroaches](https: //pestpolicy. com/best-roach-bait/) and goes ahead to kill cockroach eggs](https: //pestpolicy. com/how-to-kill-cockroach-eggs/)within an hour.
 
@@ -81,12 +81,12 @@ However, the spray's chemical formula won't harm human beings - its low in conce
 
 Therefore, Bengal roach spray will kill roaches in their adult stages and the roach eggs and the baby roaches. Thus, the spray will also prevent roach re-infestation in your house, kitchen, or apartment.
 
-# # When to Use Bengal Roach Spray?
+##  When to Use Bengal Roach Spray?
 
 Apply Bengal roach spray in summer since this is the period when roaches are reproducing and growing fast. Summer comes with slightly high temperatures allowing better mating and breeding. Therefore, it is not taken care of; the roaches will rapidly increase and spread diseases, allergens, and dust throughout the house and apartment.
 
 Thus, in summer, you'll get a larger population of roaches roaming around the house, searching for food and water - which makes it the appropriate time to kill the bugs.
 
-# # Conclusion
+##  Conclusion
 
 Bengal roach spray is effective in killing adult roaches, their babies, and eggs. - Precautions to Take: Kill or controlthe cockroaches before they get into your spaces - including the house or home. - Also, ensure to control all the cockroaches behind the drywall or equally seal up the different crevices and cracks on walls and slide doors.

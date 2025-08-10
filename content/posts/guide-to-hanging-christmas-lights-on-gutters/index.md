@@ -53,7 +53,7 @@ However, hanging Christmas lights, especially at heights, requires careful plann
 
 This comprehensive guide will walk you through planning your display, gathering the necessary supplies, prioritizing safety, preparing your lights and gutters, and a step-by-step process for hanging lights effectively. We'll also cover considerations for homes with gutter guards and tips for maintaining your dazzling display.
 
-# # Gathering Supplies for Gutter Light Installation
+##  Gathering Supplies for Gutter Light Installation
 
 Having everything on hand will make the process smoother and safer.
 
@@ -63,7 +63,7 @@ Having everything on hand will make the process smoother and safer.
 
 * **Plastic Sheeting/Tarps: ** To protect ground plants from falling debris. * **Helper/Spotter: ** Essential for ladder safety.
 
-# # Preparing Lights and Gutters
+##  Preparing Lights and Gutters
 
 A little prep work goes a long way for a smooth installation.
 
@@ -73,7 +73,7 @@ A little prep work goes a long way for a smooth installation.
 
 This prevents the lights from becoming stained or tangled in gunk, and ensures your gutters are functioning properly during winter rains. 4. **Inspect Gutters and Fascia: ** Check for any loose gutter sections, damaged hangers, or rotten fascia boards. Repair these issues *before* attaching lights, as they could compromise your safety or the light display's stability.
 
-# # Dealing with Gutter Guards
+##  Dealing with Gutter Guards
 
 If your home has gutter guards, hanging lights can be a bit trickier, as standard gutter clips may not work.
 
@@ -85,7 +85,7 @@ These hold the light string just below the shingle edge, often resulting in a ve
 
 Always choose clips that are compatible with your specific gutter guard system or roof structure to ensure a secure and damage-free installation.
 
-# # Additional Decorating Ideas
+##  Additional Decorating Ideas
 
 Beyond just the gutters, consider these ideas to enhance your display:
 

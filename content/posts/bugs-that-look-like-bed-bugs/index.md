@@ -19,9 +19,9 @@ Bed bug look-alikes often make it hard to identify bed bugs, which eventually re
 
 As a homeowner, you dont want to go wrong with your bed bug eradication strategies. Here is a list of the most common bed bug look-a likes.
 
-# # **Bugs That Look Like Bed Bugs**
+##  **Bugs That Look Like Bed Bugs**
 
-## # 1. Bat bugs
+###  1. Bat bugs
 
 **Colour: ** Dark brown or beige **Description: ** Among other bugs, bat bugs have the greatest resemblance to bed bugs. Perhaps only an expert can differentiate between the two using a microscope.
 
@@ -33,7 +33,7 @@ It rather depicts their adaptation to live in areas nested by bats as they feed 
 
 Apart from caves, bats can live in many other places. So its possible to find bat bugs just anywhere including our houses.
 
-## # 2. Spider Beetles
+###  2. Spider Beetles
 
 **Colour: ** Their color ranges from yellow to brown to near black. **Description: ** Spider beetles have a common resemblance to spiders owing to their small oval body and long legs.
 
@@ -43,7 +43,7 @@ They are however smaller than bed bugs and have wings that are covered with hair
 
 ** They inhabit wooden structures [and carpets](https: //pestpolicy. com/can-[bed-bugs](https: //pestpolicy. com/bed-bug-bites-vs-mosquito-bites/)-live-in-carpet/) where they can easily access stored food.
 
-## # 3. Cockroach Nymphs
+###  3. Cockroach Nymphs
 
 **Colour: ** Reddish-brown **Description: ** Cockroach nymphs bear a lot of similarity to adult [bed](https: //pestpolicy. com/bed-bug-bites-vs-other-bites/) bugs, especially in their size and color. When lodged in their favourite narrow cracks, youll easily confuse them for bed bugs. - **Size: **2 in long - **Shape: **Cylindrical - **Do Cockroach Nymphs have wings? **Cockroach nymphs have no wings - **Do Cockroach Nymphs bite?
 
@@ -51,7 +51,7 @@ They are however smaller than bed bugs and have wings that are covered with hair
 
 ** Unlike bed bugs, roach nymphs like hiding in the kitchen and other places where there is food and debris.
 
-## # 4. Carpet beetles
+###  4. Carpet beetles
 
 **Colour: ** Dark brown or black with white marks and red or orange scales. **Description: ** They dont bear any resemblance to bed bugs but may give you some panic when they crawl on your carpet or clothes. They like feeding on fibrous material like cotton wool, silk, fur, feather etc.
 
@@ -59,7 +59,7 @@ They can be distinguished from bed bugs by their hard skeleton and antennae. - *
 
 Sometimes they can be confused with clothes moths
 
-## # 5. Swallow Bugs
+###  5. Swallow Bugs
 
 **Colour: ** Reddish-brown **Description: ** They belong to the family Cimicidae, just like bed bugs. Physically, they resemble the bed bugs in their shape, size and color.
 
@@ -73,7 +73,7 @@ Usually, swallows abandon their nests when they become heavily infested with swa
 
 Swallow bugs can survive in the nests for up to one year without blood, especially when swallows are breeding.
 
-## # 6. Fleas
+###  6. Fleas
 
 **Colour: ** Reddish-brown. **Description: ** Fleas are smaller than bed bugs with a bilaterally flattened body (body is taller than is flat).
 
@@ -85,7 +85,7 @@ While bed bugs crawl around, fleas jump from one place to another. - **Size: **1
 
 Cats and dogs are their favourite host.
 
-## # 7. Book Lice
+###  7. Book Lice
 
 **Colour: ** Their color ranges from pale brown to cream yellow and sometimes appear to be translucent. **Description: ** Book lice bear a lot of similarity with bed bug nymphs. While both are light colored, bed bug nymphs will turn to reddish-brown when they feed.
 
@@ -97,7 +97,7 @@ Book lice are not actually related to the lice that feeds on us. They however lo
 
 They are also commonly found on potted plants, wallpapers and furniture.
 
-## # 8. Headlice
+###  8. Headlice
 
 **Colour: ** Color ranges from white to grey. Color changes to slightly brown after feeding. **Description: ** Headlice are wingless insects and smaller than bed bugs. While both bed bugs and headlice feed on human blood, it possible to differentiate the two by their feeding habits.
 
@@ -109,7 +109,7 @@ Headlice stay on their host most the times and feeds regularly. However, bed bug
 
 Unlike bed bugs, head-lice stay on the host until they are removed by trimming the hair, scratching, washing the hair or by transferring to another host.
 
-# # **Conclusion**
+##  **Conclusion**
 
 Bed bugs resemble a host of other common bugs in the house. So, it can be extremely hard to eradicate bed bugs if you dont correctly differentiate them from other common bugs.
 

@@ -24,7 +24,7 @@ This guide will walk you through the intricacies of the Langstroth design, detai
 
 With careful planning and execution, you can construct a sturdy, functional beehive that serves your bees well for years to come.
 
-# # Understanding the Langstroth Hive Design
+##  Understanding the Langstroth Hive Design
 
 The Langstroth hive, invented by L. L. Langstroth in the mid-19th century, revolutionized beekeeping with its concept of "bee space. " This critical principle dictates that there must be a specific gap (approximately 1/4 to 3/8 inch or 6 to 9 mm) around the frames within the hive. If the space is too small, bees will propolize (seal it with propolis); if it's too large, they will fill it with burr comb.
 
@@ -52,11 +52,11 @@ Each super holds 8 or 10 frames, depending on the hive width.
 
 Understanding these components and their standard dimensions is crucial when sourcing materials and cutting lumber for your DIY beehive. While exact measurements can vary slightly by manufacturer, adhering to standard Langstroth dimensions ensures interchangeability with purchased equipment and components from other beekeepers.
 
-# # Tools and Materials Needed
+##  Tools and Materials Needed
 
 Building a Langstroth hive requires a combination of basic woodworking tools and specific materials. Precision is key to ensuring proper bee space and hive functionality.
 
-## # Essential Tools:
+###  Essential Tools:
 
 1. **Measuring Tape: ** Accurate measurements are crucial for all components. 2. **Pencil: ** For marking cuts. 3. **Speed Square or Combination Square: ** For marking accurate 90-degree angles. 4. **Circular Saw, Table Saw, or Miter Saw: ** A table saw is ideal for ripping precise widths and dado cuts for frame rests. A circular saw can work with guides for straight cuts. A miter saw is excellent for accurate crosscuts. 5.
 
@@ -64,11 +64,11 @@ Building a Langstroth hive requires a combination of basic woodworking tools and
 
 **Safety Glasses and Hearing Protection: ** Always wear appropriate PPE.
 
-## # Optional (But Recommended) Tools:
+###  Optional (But Recommended) Tools:
 
 * **Jig Saw: ** For cutting entrance reducer notches. * **Block Plane or Sandpaper: ** For fine-tuning and smoothing edges. * **Painting Supplies: ** Brushes, rollers, exterior-grade paint or stain.
 
-## # Materials:
+###  Materials:
 
 1. **Wood: ** (See "Selecting the Right Wood" section for detailed recommendations). You'll need boards of various dimensions for: * Hive Bodies/Supers (sides and ends) * Outer Cover (sides, ends, top board) * Inner Cover (top, cleats) * Bottom Board (side rails, front/back rails, bottom planks) * Frames (top bars, side bars, bottom bars) 2.
 
@@ -84,11 +84,11 @@ Building a Langstroth hive requires a combination of basic woodworking tools and
 
 Having all your tools and materials organized before you start will make the building process much smoother and more enjoyable.
 
-# # Selecting the Right Wood for Your Beehive
+##  Selecting the Right Wood for Your Beehive
 
 The choice of wood for your beehive is crucial, impacting its durability, insulation properties, and the health of your bee colony. You need wood that is weather-resistant, stable, and preferably non-toxic to bees.
 
-## # Best Choices:
+###  Best Choices:
 
 1. **White Pine: ** * **Pros: ** This is by far the most common and recommended wood for beehives. It's readily available, relatively inexpensive, easy to work with (cuts and nails well), and fairly light, which is important when lifting heavy supers. White pine is also moderately resistant to rot when properly finished. * **Cons: ** Not as naturally rot-resistant as cedar or cypress, so it requires good exterior paint or stain.
 
@@ -96,13 +96,13 @@ The choice of wood for your beehive is crucial, impacting its durability, insula
 
 3. **Cedar (Western Red Cedar): ** * **Pros: ** Also naturally rot and insect resistant, similar to cypress. It's lightweight and easy to work with, and has a pleasant aroma. * **Cons: ** More expensive than pine. Some beekeepers avoid it because of its strong aromatic oils, though the consensus is that it's perfectly safe for bees once aired out.
 
-## # Acceptable Alternatives (with Considerations):
+###  Acceptable Alternatives (with Considerations):
 
 * **Fir (Douglas Fir, Hemlock Fir): ** * **Pros: ** Readily available and moderately priced. * **Cons: ** Less rot-resistant than pine, cypress, or cedar. Can sometimes be prone to warping or twisting if not properly dried. Requires good paint/stain.
 
 * **Poplar: ** * **Pros: ** Easy to work with and relatively inexpensive. * **Cons: ** Not very rot-resistant and prone to decay. Will require diligent sealing and painting to last.
 
-## # Woods to Avoid:
+###  Woods to Avoid:
 
 * **Treated Lumber (Pressure-Treated): ** Contains chemicals that are toxic to bees and should NEVER be used for any part of the hive that bees will inhabit or come into contact with. * **Highly Aromatic Woods (e. g. , Redwood, some types of Eucalyptus): ** While some are naturally rot-resistant, very strong aromatics can potentially irritate bees or interfere with their communication.
 
@@ -118,11 +118,11 @@ Best to avoid or ensure they are extremely well-cured and aired out.
 
 By selecting the right wood, you'll ensure your beehive is sturdy, durable, and provides a safe, healthy home for your bees for many seasons.
 
-# # Costs Involved
+##  Costs Involved
 
 Building a beehive yourself can often be more cost-effective than purchasing a ready-made one, especially if you have some tools already. However, the exact cost will vary significantly based on several factors.
 
-## # Factors Influencing Cost:
+###  Factors Influencing Cost:
 
 1. **Wood Type: ** As discussed, pine is the most economical. Cypress and cedar will significantly increase material costs. 2. **Lumber Source: ** Prices vary widely between big box stores, local lumberyards, and specialty wood suppliers. Buying in bulk might offer discounts. 3. **Number of Boxes/Supers: ** A basic hive often starts with one deep brood box and one medium honey super. If you plan to expand with more supers, costs will increase. 4.
 
@@ -132,7 +132,7 @@ However, these tools can be used for many other projects. 6.
 
 **Finish Materials: ** Cost of exterior paint or stain. 7. **Miscellaneous Hardware: ** Screws, nails, metal flashing for the top cover, hardware cloth for screened bottom board.
 
-## # Estimated Cost Breakdown (DIY vs. Purchased):
+###  Estimated Cost Breakdown (DIY vs. Purchased):
 
 **DIY Build (Estimated Range per hive): $100 - $250+**
 
@@ -154,7 +154,7 @@ Consider your hourly rate and the value of your time. * **Quality Control: ** Bu
 
 Ultimately, building your own hive is most financially beneficial if you plan to build multiple hives over time, or if you already possess the necessary tools. For a single hive, the savings might be modest, but the satisfaction of building it yourself is invaluable.
 
-# # Preparing Your Workspace
+##  Preparing Your Workspace
 
 A well-prepared workspace is essential for efficiency, accuracy, and safety when building a beehive. Woodworking generates dust and requires precise measurements and cuts, so taking the time to set up properly will make the project much smoother.
 
@@ -178,13 +178,13 @@ A clean workspace reduces hazards and improves workflow.
 
 By taking the time to prepare your workspace, you'll not only make the hive-building process more efficient but also significantly reduce the risk of accidents, allowing you to focus on the craftsmanship of your new beehive.
 
-# # Step-by-Step Guide To Building a Beehive
+##  Step-by-Step Guide To Building a Beehive
 
 This guide focuses on building a standard 10-frame Langstroth deep hive body (brood box). The process for medium or shallow supers is identical, just with different height dimensions. We'll also briefly cover covers and a simple bottom board. Precision in measurement and cutting is paramount for bee space.
 
 **Before You Start: ** * Gather all tools and materials. * Review your chosen plans for exact dimensions (these dimensions are typical, but slight variations exist). * Cut all wood pieces to size *before* assembly. Label them clearly.
 
-## # I. Building the Hive Body (Deep or Medium Super)
+###  I. Building the Hive Body (Deep or Medium Super)
 
 Each hive body requires two long sides and two short sides.
 
@@ -200,7 +200,7 @@ Each hive body requires two long sides and two short sides.
 
 * Ensure the box is perfectly square.
 
-## # II. Building the Inner Cover
+###  II. Building the Inner Cover
 
 1. **Cut Top Panel: ** * A thin piece of plywood or solid wood, typically 19 7/8" x 16 1/4" (same as outside top of super). Plywood (1/4" or 3/8" thick) is often used here.
 
@@ -208,7 +208,7 @@ Each hive body requires two long sides and two short sides.
 
 3. **Assemble: ** * Glue and nail/screw the cleats to one side of the top panel, flush with the outer edges. This side faces *down* onto the frames. * **Add an Escape Hole/Notch: ** Cut a small hole (e. g. , 1 inch diameter) or a notch (e. g. , 3/4" x 3") on one of the short cleat sides for ventilation or as an upper entrance/exit. This notch/hole typically faces down when in use.
 
-## # III. Building the Outer Cover (Telescoping Cover)
+###  III. Building the Outer Cover (Telescoping Cover)
 
 1. **Cut Top Panel: ** * A solid piece of wood or exterior-grade plywood, larger than the hive body to overhang (e. g. , 22" x 18" for a 19 7/8" x 16 1/4" hive). Typically 3/4" thick.
 
@@ -218,7 +218,7 @@ Each hive body requires two long sides and two short sides.
 
 4. **Add Metal Covering: ** * Cover the entire top surface (and ideally wrap down the sides a bit) with aluminum flashing or galvanized sheet metal. This provides weather protection. * Fold the edges neatly and secure with short nails or screws.
 
-## # IV. Building the Bottom Board (Simple Solid Board)
+###  IV. Building the Bottom Board (Simple Solid Board)
 
 A basic solid bottom board is simplest for a first build.
 
@@ -228,7 +228,7 @@ A basic solid bottom board is simplest for a first build.
 
 3. **Assemble: ** * Glue and nail/screw the bottom planks to the side and end rails, creating a frame with a solid bottom. * **Entrance Cleat: ** On one of the short end rails, cut a reversible entrance reducer or create a small notch (e. g. , 3/4" high x 14 3/4" wide) that serves as the bee entrance.
 
-## # V. Building Frames (Most Tedious Part)
+###  V. Building Frames (Most Tedious Part)
 
 Frames are often bought in kits, but can be made. Each requires a top bar, two side bars, and a bottom bar.
 
@@ -238,7 +238,7 @@ Frames are often bought in kits, but can be made. Each requires a top bar, two s
 
 Allow paint to cure completely (several days to a week) before introducing bees.
 
-# # Stocking Your New Beehive
+##  Stocking Your New Beehive
 
 Once your beehive is built, painted, and fully cured, it's ready for its new inhabitants! There are several common ways to acquire bees and introduce them to their new home.
 
@@ -270,7 +270,7 @@ Remove the inner cover and a few frames from your deep hive body. 2. Suspend the
 
 * **Connect with a Local Beekeeping Mentor: ** This is invaluable for beginners, offering guidance and support during the critical initial phases.
 
-# # Alternatives to the Langstroth Hive
+##  Alternatives to the Langstroth Hive
 
 While the Langstroth hive dominates commercial and hobbyist beekeeping, several other hive designs exist, each with its own advantages and disadvantages. These alternatives might appeal to beekeepers with different philosophies, space constraints, or desired levels of intervention.
 

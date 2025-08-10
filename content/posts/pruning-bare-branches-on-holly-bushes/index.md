@@ -49,7 +49,7 @@ Pruning is a vital tool for maintaining the health, shape, and density of holly 
 
 This guide will delve into the nuances of pruning bare branches on holly bushes, covering when and how to prune, the necessary tools, and essential aftercare, ensuring your holly remains a beautiful and robust feature in your garden.
 
-# # When to Prune Holly Bushes
+##  When to Prune Holly Bushes
 
 The timing of your pruning is crucial for the health of the plant and to stimulate new growth effectively.
 
@@ -61,7 +61,7 @@ The timing of your pruning is crucial for the health of the plant and to stimula
 
 **Nairobi Context: ** As Nairobi does not experience cold dormancy, the best time to prune for new growth and revitalization is typically during the **cooler dry season (June-August)** or just **before the long rains (February-March)**. This allows the plant to put energy into new growth without the stress of intense heat or excessive rain immediately after pruning. Avoid heavy pruning during very hot or very wet periods.
 
-# # Tools and Techniques for Effective Holly Pruning
+##  Tools and Techniques for Effective Holly Pruning
 
 Using the right tools and techniques ensures clean cuts and minimizes stress to the plant.
 
@@ -73,7 +73,7 @@ This stimulates growth directly below the cut, making the plant denser.
 
 This is the primary cut for encouraging new growth on bare branches. * **Thinning Cuts: ** Removing an entire branch back to its point of origin (main stem or larger branch). This opens up the plant, improves air circulation, and allows light penetration.
 
-# # How To Prevent Future Bare Patches
+##  How To Prevent Future Bare Patches
 
 Preventative measures can minimize the recurrence of bare branches.
 

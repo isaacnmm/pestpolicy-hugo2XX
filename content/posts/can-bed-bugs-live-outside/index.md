@@ -19,7 +19,7 @@ No one wants to be confronted with a bed bug infestation and one of the burning 
 
 This is because if they can, many people become concerned that they could reenter a home after bed bugs have been eradicated and begin a new cycle.
 
-# # Can Bed Bugs Live Outside? Where & How Long?
+##  Can Bed Bugs Live Outside? Where & How Long?
 
 Bed bugs like to hide out in small dark spaces, and there are many opportunities for them to do so in the indoor environment, with tiny crevices and cracks in furnishings being ideal locations for these creatures. Their name might suggest that they prefer to inhabit a bed, but this is misleading since they will happily set up home in any item within a house.
 
@@ -39,7 +39,7 @@ These are pretty resilient little animals and are likely to survive hot and cold
 
 That being said, these tough little pests can survive for months without food, but the females will be unable to produce[eggs](https: //pestpolicy. com/bed-bug-eggs/)if they are not fed.
 
-# # Can Bed Bugs Get Back Inside once Removed from the House?
+##  Can Bed Bugs Get Back Inside once Removed from the House?
 
 Now that we have established that bed bugs can indeed live in an outdoor environment, we need to determine whether they can return after you have kicked them out of the home. Bed bugs cannot fly or jump, like their distant cousins, the [fleas in the carpet](https: //pestpolicy. com/can-bed-bugs-live-in-carpet/), but they can still return into a house by way of attachment once they have been sent packing.
 
@@ -47,12 +47,12 @@ They do this by simply being on something that is returned inside; for example, 
 
 It is essential that if you know there is a bed infestation outdoors or recently evicted some from within the home, you are extremely careful when bringing things back in from outside. It is also worth noting that while they are tiny insects, they can travel around 20 meters in any one day and so can quickly march right back into the home should they wish to.
 
-# # How Can I Get Rid Of Bed Bugs
+##  How Can I Get Rid Of Bed Bugs
 
 If you are unfortunate enough to have some unwanted visitors in the form of bedbugs, there are some things that you can do to rid your home of these lodgers. - I am using a professional heat treatment. - I am applying insecticide products to affected areas. - Vacuuming affected items thoroughly. - Use an oil-based varnish on wooden furniture. - Avoid having clutter inside or outside the home.
 
 - When bringing items inside the home, whether from your garden or anywhere else, thoroughly check them for the presence of bed bugs.
 
-# # Conclusion
+##  Conclusion
 
 Bed bugs can be a real nuisance, and once you have successfully eradicated them from your home, you are surely going to want to make sure that they do not return. With this in mind, it is essential to understand that merely removing affected items outside is not enough to kill these pests because they can still thrive in an outdoor environment. You can take measures to avoid their return, however, and most importantly, you should stay vigilant.

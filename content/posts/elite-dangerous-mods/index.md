@@ -20,9 +20,9 @@ com/xbox-one-elite-controller-review/)-dangerous/)asked me what are your thought
 
 **Well: ** I must state that most of the mods available are sound and visual such and HUD Recolour and edfx as they will not modify or affect gameplay. Check the Controller for Retropie.
 
-# # Reviews:7 Best Elite Dangerous Mods in 2025
+##  Reviews:7 Best Elite Dangerous Mods in 2025
 
-## # **1. Voice Attack **
+###  **1. Voice Attack **
 
 [Voice attack](http: //voiceattack. com/) is a third-party voice recognition software that will execute custom macro commands. - It allows you to create anything from custom macro to simple keystrokes and then speak your commands to operate Elite Dangerous. So, how much will such great software cost you? Well, voice attack has a [free trial](http: //www. voiceattack. com/download.
 
@@ -34,7 +34,7 @@ In such cases, the commander utters some instructions to a computer in the ship,
 
 Further, you might need to check out the [Elite: Dangerous Voice Pack](http: //www. elitedangerousvoicepack. com/) that could give you some pre-created key inputs and command profiles.
 
-## # **2. HUD Recolour**
+###  **2. HUD Recolour**
 
 **HUD Recolour modifies the ** regular onboard computer star orange color and changes it to various shades and different areas. Every pop-up HUD is the foundation of each Elite dangerous gaming. You might need to have a varied collection of bling in the ship's cockpit. But you cannot alter this in the game. - Akku in his[site](http: //arkku. com/elite/hud_editor/)will enable you to tweak the HUD recovering.
 
@@ -42,6 +42,6 @@ Read Also: [Wireless PC Controller](https: //pestpolicy. com/best-wireless-pc-co
 
 However, you could require getting the *GraphicsConfiguration. xml* file to modify the HUD color.
 
-# # Conclusion
+##  Conclusion
 
 Strictly speaking, there are no Elite: dangerous mods but there are many third-party tools if you are in the PC Master race. Roccat Power-Grid, TrackIR, Voice Attack, Head Tracking, and HUD Recolour.

@@ -19,7 +19,7 @@ Diatomaceous earth, anyone? You probably were searching for remedies to the roac
 
 **Definition: ** Diatomaceous earth is a naturally occurring siliceous sedimentary rock made from fossilized tiny aquatic organisms. These tiny organisms are called diatoms, and they contain shells of single-cell hard-shelled algae-like water plants. Diatomaceous easily crumbles to form a white to an off-white fine powder.
 
-# # Diatomaceous Earth - Uses, Side Effects, Interactions
+##  Diatomaceous Earth - Uses, Side Effects, Interactions
 
 This powder leaves a dusty effect on your hands. 1. **Other names: **DE, diatomite. Read Also: Does Diatomaceous Earth Kill Bed Bugs? 2. **Size: **The particle size of the[diatomaceous earth](https: //pestpolicy. com/diatomaceous-earth-for-fleas-on-dogs/)ranges from 10 micrometers to 200 micrometers. 3. **Formation: **Diatomaceous earth is formed by accumulating diatoms in the sediments of oceans, rivers, and lakes. 4.
 
@@ -27,21 +27,21 @@ This powder leaves a dusty effect on your hands. 1. **Other names: **DE, diatomi
 
 It takes 85%. Others are Sodium-5%, Magnesium-3%, Iron-2%.
 
-# # Silica
+##  Silica
 
 Silica is among the most abundant elements on the earth. It accounts for 27. 7% of the earths crust. It is the second most abundant element in the universe after oxygen. Silicon is found in Silica. It does not exist in its pure form. Instead, it reacts with oxygen forming Silicon dioxide. Silicon dioxide has two naturally occurring forms, namely crystalline silicon dioxide and amorphous silicon dioxide.
 
-# # **Chemical formula:**SiO2.
+##  **Chemical formula:**SiO2.
 
-## # 1. Crystalline Silicon dioxide
+###  1. Crystalline Silicon dioxide
 
 It is mostly found in sand, quartz, and emerald, amongst others. Breathing crystalline silicon dioxide causes silicosis, lung cancer, chronic bronchitis, and other respiratory problems. **Appearance: ** crystalline Silicon dioxide is transparent to gray odorless powder. It has an irritating effect on the skin and eyes once it is in contact with you.
 
-## # 2. Amorphous Silicon dioxide
+###  2. Amorphous Silicon dioxide
 
 Amorphous means without shape. The structure of amorphous silicon dioxide is loose and without shape. Also called Silica gel is a powdery form of Silicon dioxide. It is highly adsorbent, i. e. , it can remove material such as water, ammonia, and other gases from the air. Most Diatomaceous earth is made up of amorphous silicon dioxide. Breathing amorphous does not cause any severe health issues in your respiratory tract.
 
-# # Diatomaceous earth Food grade vs. Filter grade diatomaceous earth
+##  Diatomaceous earth Food grade vs. Filter grade diatomaceous earth
 
 Diatomaceous earth has two main forms, namely food grade diatomaceous earth and filter grade diatomaceous earth. Food grade diatomaceous earth has been approved for human and pet consumption, while filter grade diatomaceous earth is used for water filtration and dynamite production. Food grade diatomaceous earth is also used as a pesticide and an insecticide. When ingested by either you or your pets, it kills worms.
 
@@ -49,7 +49,7 @@ Food grade diatomaceous earth gets rid of fleas, roaches, bugs, ants, and any ot
 
 Pool grade is treated with very high temperatures (Calcined), which turns the silicon dioxide into crystalline silica. The other difference is in the amount of heavy metal content. It must not contain more than 10mg/kg of arsenic for food grade diatomaceous grade and no more than 10mg/kg of lead.
 
-# # Diatomaceous Earth**Benefits**
+##  Diatomaceous Earth**Benefits**
 
 The following are some of the benefits of using diatomaceous earth. - Non-toxic DE has no chemical composition in it. Using it is hence safe for you, your pet, and the environment. - Promotes stronger teeth, bones, ligaments, and joints. Silica is a paramount element in the formation of strong teeth, bones, ligaments, and joints. The silica in food grade diatomaceous earth helps in strengthening teeth, bones, ligaments, and joints.
 
@@ -59,25 +59,25 @@ The following are some of the benefits of using diatomaceous earth. - Non-toxic 
 
 Read Also: [Diatomaceous Earth for Fleas on Cats](https: //pestpolicy. com/diatomaceous-earth-for-fleas-on-cats/).
 
-# # Diatomaceous earth**Uses**
+##  Diatomaceous earth**Uses**
 
-## # 1. Garden pest killer
+###  1. Garden pest killer
 
 Diatomaceous earth is a suitable pesticide to kill unwanted pests in the garden. It is effective, pocket-friendly, and not toxic to the plants and you.
 
-## # 2. Stain Remover
+###  2. Stain Remover
 
 Due to its abrasive qualities, diatomaceous earth acts on stains pretty well, removing them all. - Toothpaste and skin products. Diatomaceous earth is used in the production of toothpaste and skincare products.
 
-## # 3. Health supplement
+###  3. Health supplement
 
 Diatomaceous earth contains vital elements that assist in bone, ligament, digestive tract improvement, and cleaning the blood. Those minerals also help in nail, skin, and hair development. Feeding yourself and your pet with diatomaceous food (Food grade) could lead to those and many more health benefits.
 
-## # 4. Pest and insect control
+###  4. Pest and insect control
 
 If you look at diatomaceous earth under a microscope, you will realize it has sharp edges. Its action is purely mechanical. In controlling pests and insects, Diatomaceous earth cuts the protective outer shell (Exoskeleton for insects). This leads to dehydration, and subsequently, the pests/insects die.
 
-## # 5. Water Filtration
+###  5. Water Filtration
 
 Filter grade Diatomaceous earth is used to filter water and other fluids to kill viruses andbacteria and remove heavy metal toxins. - Chicken feed and other animals Feeding your chickens with Diatomaceous earth leads to the production of stronger eggs. This is attributed to calcium from the diatomaceous earth. For other animals, Diatomaceous earth kills parasites and pests.
 
@@ -85,7 +85,7 @@ Filter grade Diatomaceous earth is used to filter water and other fluids to kill
 
 It does not affect worms that are useful for the compost. 1. Deodorant to remove body odors Diatomaceous earth has an ability to absorb odor and is hence used in making deodorants.
 
-# # Products that contain diatomaceous earth?
+##  Products that contain diatomaceous earth?
 
 Diatomaceous earth is contained mostly in dust/wettable powders & pressurized liquids, skincare products, kinds of toothpaste, foods & beverages, medicines, rubbers, and Paints & water filters. 1. Pest Control 2. Diatomaceous Earth Ants Among the organic methods to control ants is the use of diatomaceous earth. Diatomaceous Earth is as effective as the other chemical remedies.
 
@@ -103,7 +103,7 @@ Wet application method - Step 1-Identify the areas where you might have seen ant
 
 - Step 3- Take note of alternative routes taken by theants after sprayingand spray again. Clean off the applied surfaces after some time as focusing more on entry spots for the ants to prevent future entry.
 
-# # 1. Diatomaceous Earth**Roaches**
+##  1. Diatomaceous Earth**Roaches**
 
 Roaches are a nuisance in the home. From the smell they cause to the scares to the infections they can cause, these insects are a real menace. Of the organic methods available, Diatomaceous Earth is actually the most effective method. Better still, its a natural method hence no toxicity ensuring safety for you and your family. The following are the steps to be followed when using Diatomaceous Earth to eliminate roaches in your home.
 
@@ -119,26 +119,26 @@ After 2-3 weeks, the roach infestation should be over. In fact, studies have rev
 
 Diatomaceous earth also helps preserve foods, mostly grains, due to its ability to absorb moisture.
 
-## # Are children more sensitive to diatomaceous earth than adults?
+###  Are children more sensitive to diatomaceous earth than adults?
 
 Children are more vulnerable and sensitive when it comes to pesticides compared to adults. When it comes to diatomaceous earth, kids are more sensitive compared to adults. Once they inhale Diatomaceous earth, kids react by shaving irritations.
 
-## # Diatomaceous Earth on**Cancer**
+###  Diatomaceous Earth on**Cancer**
 
 As earlier discussed, exposure to crystalline silicon dioxide causes an increase in the number of lung cases. In a study of workers exposed to crystalline silicon dioxide, there were increased cases of lung cancer. In another study, some mice were left to breathe diatomaceous earth rich in crystalline silicon dioxide for one hour each day for a whole year. The results showed an increase in lung cancers among mice.
 
 However, amorphous silicon dioxide was not associated with any cases of lung cancer.
 
-## # Eating Diatomaceous earth
+###  Eating Diatomaceous earth
 
 Among the various diatomaceous earth grades, only food grade diatomaceous earth is suitable for consumption by man and pets. This is because it has less than 1 % crystalline silica. Always check with your doctor or veterinarian for the recommended amounts you should take. Ensure you are eating food grade diatomaceous earth and not any other type as they are dangerous for consumption.
 
-## # Breathing Diatomaceous earth
+###  Breathing Diatomaceous earth
 
 When inhaled, diatomaceous earth irritates the nose, nasal passages, and lungs. In case you inhale a large amount of DE, you may experience coughs and breathe shortness. Amorphous Diatomaceous Earth is, however, rapidly eliminated from the lungs. Crystalline Diatomaceous Earth has smaller particles and may accumulate in lung tissue and lymph nodes.
 
 Inhaling crystalline silica can cause inflammation and scarring of your lungs, known as silicosis, chronic bronchitis, and other respiratory problems.
 
-# # Conclusion
+##  Conclusion
 
 Diatomaceous earth has many benefits and uses across the house and industries and is hence recommended. If you have respiratory problems, you are advised to wear protective gear. You should find diatomaceous earth at any store near you.

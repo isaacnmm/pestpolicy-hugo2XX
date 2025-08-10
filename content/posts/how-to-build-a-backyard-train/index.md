@@ -22,7 +22,7 @@ Just note that youll need to have some basic welding skills to accomplish this p
 
 Checkout: [Best Backyard Trampolines for Endless Summer Fun](https: //pestpolicy. com/best-backyard-trampolines/)
 
-# # How to Build a Backyard Train with Barrels
+##  How to Build a Backyard Train with Barrels
 
 Barrel trains are a bit easy and inexpensive to build. If built correctly they can be a source of fun and provide hours of entertainment to you and your family.
 
@@ -32,9 +32,9 @@ However, if youre not into drilling or welding you can purchase the backyard tra
 
 Follow this guide on how to build a backyard train. Within hours, you would have your backyard train ready for use.
 
-# # Steps to Building A Barrel Train
+##  Steps to Building A Barrel Train
 
-## # Step 1: Gather Everything You Need For the Project
+###  Step 1: Gather Everything You Need For the Project
 
 Youll need the following to start off - [55-gallon HDPE barrel](https: //www. amazon. com/dp/B06Y2H5GVX/? tag=p-policy-20) - [10-inch wagonwheels](https: //www. amazon. com/dp/B00ECAVJ1I/?
 
@@ -46,7 +46,7 @@ Check out this YouTube video on [DIY Barrel Train]( and this website on [how to 
 
 Other Important Tools and Supplies Include - Ratchets or wrenches for tightening the bolts or nuts - Wood-cutting saw - A jigsaw - A hand drill - 22-inch wood plunks - 2-1/2 inches wood screws
 
-## # Step 2: Painting Your Barrels (Optional)
+###  Step 2: Painting Your Barrels (Optional)
 
 Barrels are usually white or blue in color. You may opt to paint them your favorite color or let them retain their original paint.
 
@@ -54,7 +54,7 @@ If youve decided on a different color, you can use spray paint and do several co
 
 Allow the barrels to dry properly.
 
-## # Step 3: Cut the Barrels
+###  Step 3: Cut the Barrels
 
 Flip the barrels to the side and cut the top according to your preference. Ensure the openings are large enough to accommodate both adults and children for uninterrupted and fun-filled family time.
 
@@ -62,7 +62,7 @@ This [website](https: //howtoadult. com/trailer-plastic-barrels-4709116. html) p
 
 Watch this video on how to cut and build a simple barrel train
 
-## # Step 4 Building Frames
+###  Step 4 Building Frames
 
 To prevent the sharp edges at the top from hurting the users, its good to create rectangular frames. You can attach these frames on top of the cut barrels.
 
@@ -72,7 +72,7 @@ Next, cut and weld two "V" shapes using the steel rods. Attach the cut rods on t
 
 Next, youll need to fasten the barrel onto the frame. Thus, drill holes through the frame into the barrel and insert bolt and nuts then fasten them.
 
-## # Step 5 Insert Wheels
+###  Step 5 Insert Wheels
 
 Once youre through with constructing the frames, it's time to include the wheels.
 
@@ -80,7 +80,7 @@ I will encourage you to refer to this [website](https: //howtoadult. com/trailer
 
 Now, insert your wheel axel or steel dowel through the circular steel rod. Attach the wheels.
 
-## # Step 6: Construct Seats (Optional)
+###  Step 6: Construct Seats (Optional)
 
 You can opt to build seats for each barrel/cart. Although its an optional step, you can still put the seats for added comfort.
 
@@ -90,7 +90,7 @@ The seats dont have to be expensive. You can simply cut a fitting board and inse
 
 You can add two seats or just one depending on the number of users that would ride on the backyard train.
 
-## # Step 7 Attach the Carts
+###  Step 7 Attach the Carts
 
 Weld the flat steel tongue onto the frame, then drill holes. Drill corresponding holes through the carts hitches and connect the frame with the cart.
 

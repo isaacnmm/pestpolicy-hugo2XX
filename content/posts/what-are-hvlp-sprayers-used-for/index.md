@@ -18,15 +18,15 @@ layout: post
 
 Spray guns are mainly linked to a compressor that'll help propel the paint aggressively onto its target - but this may cause only less than 50-percent landingon the desired project. The air-pressurized gun is made up of a compressor, nozzle, and a paint basin. The painter presses the gun trigger allowing the paint and compressed air to mix - and the mixture is released as a spray.
 
-# # What is an HVLP spray gun?
+##  What is an HVLP spray gun?
 
 The HVLP (High-Volume Low-Pressure) spray gun is similar to your normal spray gun but it has a compressor for air-supply to create an aerosolize propelling paint with lower air pressure. HVLP sprayers come in two types; *conversion* system (for controlled spray) and *dedicated* system (with a turbine for finish-atomization).
 
 In comparison, conventional sprayers will create an atomized paint mist that is fine and thinner but the [HVLP sprayer](https: //pestpolicy. com/how-to-use-an-hvlp-paint-sprayer/) will give large droplets and a thicker coating because of the lower pressure.
 
-# # What are HVLP Sprayers used for?
+##  What are HVLP Sprayers used for?
 
-## # 1. HVLP - Furniture finishing
+###  1. HVLP - Furniture finishing
 
 The paint is sprayed or released at relatively low pressure - and thus the gun produces less overspray - this reduces material wastage and also minimizes air pollution. HVLP Sprayers is great for finishing furniture - which requires excellent precision and thus may be stressful. The HVLP will give a suitable visual effect and even coatings to your furniture.
 
@@ -40,7 +40,7 @@ You can twist the sprayer's air cap to choose the desired spray patterns of the 
 
 For more precise painting, twist the flow-control knob to play around with the flow rate of the material. Further, since the sprayer is a high-quality piece, you'll use it for longer to paint your furniture. The double-layer design promotes safety and enhances insulation.
 
-## # 2. HVLP - Painting yourBuildings
+###  2. HVLP - Painting yourBuildings
 
 HVLP sprayers will be great both for architectural work and renovating transportation constructions. It gives an even coating with the right nozzle for painting buildings with different paints. For example, you may use the HVLP sprayer for the application of inconsistent or layers of drywall mud - either outdoor or indoor - and you won't get overspray.
 
@@ -52,7 +52,7 @@ The viscosity cup will be fully submerged in spray coating - you may use some ca
 
 They are helpful in spraying the lacquer or interior wood stains.
 
-## # 3. HVLP - Marine finishing
+###  3. HVLP - Marine finishing
 
 Great finishing is required for marine vessels since the coating offers great corrosion-protection - while also aiding the boat's aesthetic appeal. These HVLP guns will work great for wooden and metal surfaces - offering great covering for the various surfaces - get great coverage and cut overspray.
 
@@ -60,7 +60,7 @@ Great finishing is required for marine vessels since the coating offers great co
 
 Further, the HVLP guns ensure that the vessel's finishing is entirely smooth and hence eases corrosion. The sprayers are great in auto refinishing with primers, clear coats, and paints.
 
-## # 4. HVLP - Automotive Refinishing
+###  4. HVLP - Automotive Refinishing
 
 For your automotive refinishing, use the HVLP guns to achieve that detailed finish. You can insert pinstripes, color blending, accents, and details. - So, you can use the HVLP sprayers for refinishing your automobiles with a smooth finish. Use the gun for paint, coating, and primer paint. See Also: [Cleaning Paint Sprayers](http: //To Clean Paint Sprayers? )?
 
@@ -72,6 +72,6 @@ Thus, you'll save on both labor and supplies - and thus HVLP guns are fit applic
 
 The HVLP guns allow time-saving, delivers less overspray, and provides superior transfer-efficiency - but alow ensures that coating has less splatter and is even. > See Also: > Stain a Deck for the First Time
 
-# # Conclusion
+##  Conclusion
 
 The HVLP guns are excellent in all applications that require air-gun spraying - it involves using the air compressor, a nozzle, and a paint basin. Professionals that are conscious about time and labor (people who love the turbo - and HVLP sprayers (combined as HVLP airless system).

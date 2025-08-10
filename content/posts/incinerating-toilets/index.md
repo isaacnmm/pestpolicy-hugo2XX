@@ -51,7 +51,7 @@ This self-contained, waterless, and drainless operation makes them an ideal solu
 
 This article will delve into the fundamental workings of incinerating toilets, explore their distinct advantages and disadvantages, discuss installation and maintenance, and help you determine if this unique sanitation solution is the right fit for your specific needs.
 
-# # Incinerating Toilet Pros
+##  Incinerating Toilet Pros
 
 Incinerating toilets offer distinct advantages for specific applications:
 
@@ -61,21 +61,21 @@ Incinerating toilets offer distinct advantages for specific applications:
 
 **Versatile Placement: ** Can be installed almost anywhere there's access to electricity (or propane/natural gas) and an exterior vent, without worrying about gravity drainage. 6. **Hygienic: ** The high heat sterilizes the waste, leaving no biological residue. 7. **Environmentally Friendly (in specific contexts): ** Eliminates groundwater contamination risks associated with failing septic systems and reduces reliance on freshwater for flushing.
 
-# # Installation and Maintenance
+##  Installation and Maintenance
 
-## # Installation:
+###  Installation:
 
 * **Power Source: ** Incinerating toilets require either a 240V or 120V electrical outlet, or a connection to propane/natural gas. Ensure the power supply is adequate. * **Venting System: ** This is the most critical part of installation. * **Dedicated Flue: ** A dedicated, rigid flue pipe (usually stainless steel) must be installed directly from the unit through the roof or an exterior wall, terminating with a proper cap.
 
 * **Clearance: ** Maintain proper clearances from combustible materials as specified by the manufacturer and local building codes. * **No Shared Flues: ** Never share a flue with another appliance (e. g. , furnace, water heater). * **Professional Installation: ** Due to the electrical and venting requirements, professional installation by a qualified electrician, plumber, or HVAC technician is often recommended, especially for roof penetrations.
 
-## # Maintenance:
+###  Maintenance:
 
 * **Ash Removal: ** Regularly empty the ash pan as instructed by the manufacturer (e. g. , once a week for residential use). * **Fan/Burner Cleaning: ** Periodically clean the fan and combustion chamber area to ensure efficient airflow and prevent buildup. * **Vent Pipe Cleaning: ** Inspect and clean the vent pipe periodically to prevent creosote or ash buildup, which can reduce efficiency and pose a fire hazard.
 
 * **User Education: ** Strictly enforce the rule of "nothing but human waste and specific bowl liners" being put into the toilet. This is the most common cause of operational issues. * **Follow Manufacturer's Guide: ** Adhere to all specific maintenance instructions in your toilet's owner's manual.
 
-# # Environmental Impact
+##  Environmental Impact
 
 The environmental impact of incinerating toilets is a subject of debate.
 

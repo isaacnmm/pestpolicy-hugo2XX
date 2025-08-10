@@ -33,29 +33,29 @@ A dead palmetto bug on the floor. [/caption]
 
 Related: [Why Do Cockroaches Come Out at Night? ](https: //pestpolicy. com/why-do-cockroaches-come-out-at-night/)
 
-# # Best Palmetto Bug Killers
+##  Best Palmetto Bug Killers
 
 If you want to get rid of palmetto bugs without further ado, make use of these effective bug killers to quickly eliminate the creepy crawlies in your house.
 
-## # 1. Boric Acid Killer
+###  1. Boric Acid Killer
 
 Using boric acid is one of the most effective techniques to kill palmetto bugs. Its a natural mineral thats able to kill the palmetto bugs. The acid disrupts the digestive system and nervous system of the bugs causing death. The downside is that you wont see its effect right away. Patiently wait for a few days to notice the bugs disappear over time.
 
-## # 2. Non-Toxic Roach Traps
+###  2. Non-Toxic Roach Traps
 
 Using roach traps is a maintenance-free method to get rid of palmetto bugs. These are quite different from the conventional roach traps. These traps employ non-toxic ingredients to bait the roaches towards the sticky glue surface. These traps should be placed strategically in the kitchen, cupboards and garage.
 
-# # Getting Rid of the Palmetto Bugs
+##  Getting Rid of the Palmetto Bugs
 
 We know youre disgusted by them and dont want to go anywhere near them. Learn ways by which you can free your house of the palmetto bugs before you start seeing them everywhere.
 
-## # 1. Roach Glue Traps
+###  1. Roach Glue Traps
 
 Get hold of sufficient amount of roach glue traps and set it in multiple positions all over the house. Its better and safer if you use non-toxic roach traps, especially if youve got toddlers or pets at home.
 
 Some areas where you must place these traps are the kitchen, cupboards, wardrobes, bathroom, basement and garage. The higher the number of traps, the more effective they will turn out to be.
 
-## # 2. Homemade Boric Acid Roach Baits
+###  2. Homemade Boric Acid Roach Baits
 
 This is definitely the most efficient and cost effective way to deal with palmetto bugs. Although you wont see on the spot results through this method, but we assure you that the palmetto bugs stand no chance against it once theyve consumed it or are exposed to the mineral.
 
@@ -69,7 +69,7 @@ Although boric acid is a naturally occurring mineral, keep in mind that it has a
 
 Related: Do Cockroaches Eat Bed Bugs?
 
-## # 3. Food-Grade Diatomaceous Earth
+###  3. Food-Grade Diatomaceous Earth
 
 This is also an organically occurring white powder and is used to achieve the same result to boric acid. Similar to boric acid, it also comes with a naturally-abrasive property.
 
@@ -79,7 +79,7 @@ Take hold of a sack of food-grade diatomaceous earth and cover the areas where y
 
 Ensure that you dont accidentally get pool-grade powder instead, as its extremely poisonous. Food-grade diatomaceous earth is fairly safer, unless you somehow breathe in large quantities of powder.
 
-## # 4. Sealing Cracks and Gaps
+###  4. Sealing Cracks and Gaps
 
 Gaps, holes and cracks along the house walls provide an easy entrance point for these insects. Simply seal these entry points and youd notice the number of palmetto bugs decreasing overtime.
 
@@ -87,7 +87,7 @@ Although they are reasonably bigger in size, theyre still somehow able to slip t
 
 Carry out a detailed inspection of your entire house. Check if all the openings are blocked with materials such as caulk. These bugs can even make way in your house via the electrical outlets.
 
-## # 5. A Pet Cat
+###  5. A Pet Cat
 
 As surprising as it may sound, a pet cat can be a lot of help against the palmetto bugs. So in case you were planning to bring a pet cat home, heres one more reason why you should.
 
@@ -95,13 +95,13 @@ If youve got friends who have cats at home, youd notice that youve never seen pa
 
 We know it sounds disgusting as you can imagine those bugs crawling in unhygienic places. So you should train your cat to only catch the palmetto bugs and not consume them.
 
-# # What Draws in Palmetto Bugs?
+##  What Draws in Palmetto Bugs?
 
 As the famous saying goes, prevention is better than the cure, and it fits perfectly for pest control.
 
 Itll be easier for you to get rid of the palmetto bugs if youre aware about the things and conditions that attract them originally. These are a few things that you need to be careful about to keep the palmetto bugs at bay.
 
-## # 1. Wet and Warm Environments
+###  1. Wet and Warm Environments
 
 Warm and humid environments are an ideal hideout for the palmetto bugs. This is why youd notice that the number of palmetto bugs inside your house start to increase when the weather outside becomes cool and dry.
 
@@ -109,25 +109,25 @@ Create an environment inside your house that isnt preferred by them. You can mak
 
 Inspect your house and look for potential water leakages coming from the broken pipes, broken faucets and roofs. Anything that might cause some areas of the house to become wet; even blocked drains, should be fixed on an immediate basis.
 
-## # 2. Leftover Food Wastage
+###  2. Leftover Food Wastage
 
 Make sure that all the food scraps in the kitchen is discarded in an enclosed trash bin. Always use airtight sealed containers to store food that isnt placed in the refrigerator, making sure that the palmetto bugs are unable to reach the food. You dont want them feeding on your food and surely wouldnt enjoy the sight of them as toppings on your food.
 
 Related: Best Roach Killer,
 
-## # 3. Mess and Clutter
+###  3. Mess and Clutter
 
 Surroundings that provide ample of space for hiding is usually preferred by the palmetto bugs. It could be as simple as a stack of old newspaper lying in a corner of the house or a pile of leaves in your backyard. Its about time you correct your messy ways of living and develop a habit of keeping the house neat, clean and in order.
 
-# # Plants that Repel Palmetto Bugs
+##  Plants that Repel Palmetto Bugs
 
 Some plants can help repel palmetto bugs from your house. These are some of the household plants that arent loved very much by these bugs.
 
-## # **1. Chrysanthemums**
+###  **1. Chrysanthemums**
 
 The flowering plant has a natural insecticide compound called pyrethrins. After the plant becomes mature, you can squash them and put it all over the house to repel the palmetto bugs. Its not advised for pet owners as it can turn out to be toxic for cats and dogs.
 
-## # **2. Catnip Plants**
+###  **2. Catnip Plants**
 
 Professionals have found out that these plants have a certain chemical called [nepetalactone](https: //www. sciencedaily. com/releases/1999/08/990827071500. htm). These have the potential of repel not only palmetto bugs but its other equally disgusting relatives as well.
 

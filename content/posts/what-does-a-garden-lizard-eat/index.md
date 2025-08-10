@@ -23,7 +23,7 @@ You'll find these lizards in grass, trees, and bushes. They are always behind th
 
 They also eat small vertebrates such as rats and also eat other lizards. **
 
-# # What Does a Garden Lizard Eat?
+##  What Does a Garden Lizard Eat?
 
 The garden lizard has teeth and they are used for gripping the prey. They do not tear the prey when eating, they swallow it whole. The young and inexperienced garden lizards normally choke if the prey is too large for them.
 
@@ -41,7 +41,7 @@ The garden lizard has teeth and they are used for gripping the prey. They do not
 
 7. Fruits Garden lizards love fruits and especially berries. Succulent fruits also provide them with water. They also love bananas.
 
-## # **What Do Small Garden Lizards Eat**
+###  **What Do Small Garden Lizards Eat**
 
 The bigger the lizard, the bigger its prey. Small lizards go for small prey such as flies and crickets and if they want more flesh they will go for spiders, snails, and caterpillars. **Do Garden Lizards Need Water** Yes, these lizards need water in order to survive and also maintain a healthy amount of moisture on their skin.
 
@@ -49,11 +49,11 @@ Garden lizards cannot live without water but at the same time, you should unders
 
 They will drown and die. So water levels or amounts should be moderate. **Do They Have Teeth** Garden lizards possess teeth and these teeth are used for gripping their food not tearing it apart. The prey is then swallowed whole once its captured.
 
-# # **Do Garden Lizards Eat Vegetables And Plants**
+##  **Do Garden Lizards Eat Vegetables And Plants**
 
 You might be led to think that garden lizards eat only meat but in some instances, they eat greens. **Do Garden Lizards Eat Flying Termites** Yes, garden lizards eat flying termites. When the termite flies near the lizard, the lizard simply opens its mouth and swallows the termite. Flying termites love to get a glimpse of light and normally fall down on the ground afterward. This makes it easier for the lizard to just gulp them up.
 
-# # Where do Lizards live naturally?
+##  Where do Lizards live naturally?
 
 First and foremost, garden lizards love warm weather hence the reason for their abundance in such climate areas. Secondly, they dwell in grass and trees. Water is essential for their wellbeing and so they live in places where they can have access to water and not become dehydrated. When the weather becomes cold, they will go missing in action and hide under rocks. **Are They Poisonous, Do They Bite** Garden lizards are harmless reptiles.
 
@@ -69,6 +69,6 @@ When you notice that their tails are down then something is wrong.
 
 The lizard could be stressed or hurt by another animal. Again, keep your cat away from the lizard because the cat will make a snack out of it.
 
-## # **Conclusion**
+###  **Conclusion**
 
 Garden lizards are creatures that simply love a low profile. They will eat all the bugs and cockroaches and be your constant companion in the garden. And as it is said, you are what you eat, and knowing what a lizard eats is the first step in truly knowing the garden lizard so that you can co-exist with them in a mutual manner.

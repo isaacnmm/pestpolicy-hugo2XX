@@ -22,9 +22,9 @@ Thus, Ive compiled the following list on some of the top-rated Mens Running Shoe
 
 Related: [Best Womens Running Shoes for Bad Knees](https: //pestpolicy. com/best-womens-[running-shoes](https: //pestpolicy. com/best-running-shoes-for-men-with-flat-feet/)-for-bad-knees/).
 
-# # Review: 7 Best Mens Running Shoes for Bad Knees
+##  Review: 7 Best Mens Running Shoes for Bad Knees
 
-## # [1. Brooks [Men](https://pestpolicy.com/best-running-shoes-for-men-with-wide-feet/)'s Adrenaline GTS 19 - Best Mens Running Shoes for Bad Knees](https://www.amazon.com/dp/B07C6JB568/?tag=p-policy-20)
+###  [1. Brooks [Men](https://pestpolicy.com/best-running-shoes-for-men-with-wide-feet/)'s Adrenaline GTS 19 - Best Mens Running Shoes for Bad Knees](https://www.amazon.com/dp/B07C6JB568/?tag=p-policy-20)
 
 Brooks Adrenaline GTS 19 is one of the best stability running shoes thats ideal for runners with severe overpronation and bad knees. It provides comfort, a non-binding fit, and support to feet and knees.
 
@@ -40,7 +40,7 @@ The upper also has a 3D Fit Print design that reinforces its structural integrit
 
 Cons: - You might need to order a half size high your usual size
 
-## # [2. HOKA ONE ONE Men's Bondi 6 Running Shoe](https://www.amazon.com/dp/B0788VKRSB/?tag=p-policy-20)
+###  [2. HOKA ONE ONE Men's Bondi 6 Running Shoe](https://www.amazon.com/dp/B0788VKRSB/?tag=p-policy-20)
 
 HOKA ONE ONE Men's Bondi 6 is a road running shoe for neutral pronators. It provides excellent cushioning and protection against the hard ground impact that can cause knee pain. The shoe is also highly versatile. You can use it for work, running, or walking.
 
@@ -56,7 +56,7 @@ Other than that, the outsole unit of Bondi 6 utilizes the Hi-Abrasion Rubber com
 
 Cons: - The outsole was not as durable as some wearers expected
 
-## # [3. ASICS Men's Gel-Kayano 26 (4E) Running Shoes](https://www.amazon.com/dp/B07KRC89SZ/?tag=p-policy-20)
+###  [3. ASICS Men's Gel-Kayano 26 (4E) Running Shoes](https://www.amazon.com/dp/B07KRC89SZ/?tag=p-policy-20)
 
 The Asics Gel-Kayano 26 is a road running shoe that provides excellent stability and cushioning to support and protect your knees from excess impact. The shoe is a good choice for overpronators and runners who have flat feet.
 
@@ -74,7 +74,7 @@ The upper of Kayano 26 features a Jacquard Mesh that provides excellent breathab
 
 Cons: - Shoelaces unravel quickly - Expensive
 
-## # [4. Mizuno Men's Wave Rider 22 Running Shoe](https://www.amazon.com/dp/B076XZNSVS/?tag=p-policy-20)
+###  [4. Mizuno Men's Wave Rider 22 Running Shoe](https://www.amazon.com/dp/B076XZNSVS/?tag=p-policy-20)
 
 Mizuno Men's Wave Rider 22 is a neutral road running shoe that has reliable features and technologies to deal with knee pain and other foot issues that affect most athletes.
 
@@ -94,7 +94,7 @@ The upper section features Dynamotion Fit material. This material conforms to th
 
 Cons: - A bit bulky according to some wearers
 
-## # [5. New Balance Men's Fresh Foam 1080 V10 Running Shoe](https://www.amazon.com/dp/B07RS62CXW/?tag=p-policy-20)
+###  [5. New Balance Men's Fresh Foam 1080 V10 Running Shoe](https://www.amazon.com/dp/B07RS62CXW/?tag=p-policy-20)
 
 If youre looking for a neutral road running shoe that has excellent cushioning, flexibility, and comfort, pick the New Balance Fresh Foam 1080 v10. Most runners are happy with the durability and support that the shoe provides.
 
@@ -108,7 +108,7 @@ New Balance Fresh Foam 1080 v10 has an outsole that utilizes a blown rubber comp
 
 Cons: - Some customers reported that its too tight
 
-## # [6. Salomon Men's Speedcross 4 Trail Running Shoes](https://www.amazon.com/dp/B078SYKCNM/?tag=p-policy-20)
+###  [6. Salomon Men's Speedcross 4 Trail Running Shoes](https://www.amazon.com/dp/B078SYKCNM/?tag=p-policy-20)
 
 The Salomon Speedcross 4 is a trail running shoe that boasts of durability, reliable traction, comfort, and responsiveness.
 
@@ -124,7 +124,7 @@ Moreover, the outsole utilizes the Contagrip rubber compound, which provides exc
 
 Cons: - Not highly breathable
 
-## # [7. Saucony Men's Cohesion 10 Running Shoe](https://www.amazon.com/dp/B005BDYWUK/?tag=p-policy-20)
+###  [7. Saucony Men's Cohesion 10 Running Shoe](https://www.amazon.com/dp/B005BDYWUK/?tag=p-policy-20)
 
 Saucony Men's Cohesion 10 is a reliable running shoe for bad knee sufferers. It delivers excellent cushioning, comfort, and flexibility. Its ideal for beginner overweight runners as it's lightweight and well-cushioned.
 
@@ -138,7 +138,7 @@ The outsole of Cohesion 10 utilizes XT-900 carbon rubber thats placed in high we
 
 Cons: - You might need to size higher to get the perfect fit
 
-# # Conclusion
+##  Conclusion
 
 The best mens running shoes for bad knees are an important accessory to any male experiencing painful knees during the running session. You can eliminate all the pains and discomforts associated with bad knees by investing in the correct footwear.
 

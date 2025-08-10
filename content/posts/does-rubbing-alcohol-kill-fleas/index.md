@@ -21,9 +21,9 @@ In fact, most disinfectants and some fleas spray at least contain some percentag
 
 Join me as we carefully analyze and understand more about what you can do and the various option available.
 
-# # Details: Does Rubbing Alcohol Kill Fleas? A Pet-Safe Guide
+##  Details: Does Rubbing Alcohol Kill Fleas? A Pet-Safe Guide
 
-## # Can I Use Rubbing Alcohol On My Pets?
+###  Can I Use Rubbing Alcohol On My Pets?
 
 Rubbing alcohol kills fleas but if you want to it use on your pets, it poses a great risk to them. Rubbing alcohol has alcohol that is not carefully handled can bring serious problems in your home. Alcohol is a highly flammable substance and you need to be extra cautious especially when using it indoors. As for pets, its a health risk factor that you cannot take lightly.
 
@@ -33,7 +33,7 @@ Health researchers have confirmed that apart from being toxic to your pet, it ca
 
 Secondly, rubbing alcohol and other alcohol-based fleas products are highly flammable and are a big risk to use on your pets. Because of this rubbing alcohol and any alcohol-based product is good for outdoor use. Ultimately, when you want to control fleas from your pets and also from your house, alternative flea control methods are ideal such as flea combs for dogs.
 
-# # What can Kill fleas Instantly In the House?
+##  What can Kill fleas Instantly In the House?
 
 Does rubbing alcohol kill fleas in carpet? Fleas can hide in any part of the house including under the carpets. But their number one host is the furry pets. Because of the dangers associated with rubbing alcohol, here are the alternative ways you can use to get rid of fleas. Vacuum cleaning your house. Though you can practice this as part of housekeeping, it will go a long way in keeping fleas away from your house.
 
@@ -43,17 +43,17 @@ Does rubbing alcohol kill fleas in carpet? Fleas can hide in any part of the hou
 
 Yes, steam cleaning the furniture is effective - fleas hiding under the furniture can also be rid of using steam. Though this is not popular among many it is very effective. Lastly, fleas control the outdoors using fleas sprays. Before fleas can gain entry into your house, they will first hide in outdoor bushes and vegetation. Therefore even before you can think of controlling fleas indoors, start with the outdoors first.
 
-# # Alternative: How do you kill fleas ASAP?
+##  Alternative: How do you kill fleas ASAP?
 
 Other than the methods described above, you can also decide to use other methods to get rid of fleas. Does hydrogen peroxide kill fleas? Fortunately, these methods range from natural to chemicals that are non-toxic and safe posing no threat to your pet and your home.
 
-## # 1. Using essential oils.
+###  1. Using essential oils.
 
 So, does vinegar kill fleas? Well, there are many essential oils but you can [use vinegar or apple cider](https: //pestpolicy. com/does-apple-cider-vinegar-kill-fleas/). They produce a stringent smell that repels fleas away. - When administering, you can dilute it in the pets drinking water. For every teaspoon, you can add at least 4 cups of water before giving it to your dog. - Another essential oil to use is garlic oil or garlic capsules.
 
 Unlike vinegar, you can use garlic oil by putting some drops on the pets food. This makes it taste like spiced food though it should be done in limited portions. The smell of garlic repels fleas away from your pet.
 
-## # 2. Using a Flea Comb
+###  2. Using a Flea Comb
 
 This home remedy works as you [comb through the pet's fur](https: //pestpolicy. com/best-electronic-flea-comb/) removing the fleas that hide underneath. When using this method, it is good to understand that most fleas like to hide at the base of the tailor around the neck area. This way, you will know where to direct your energy when removing fleas from the pet.
 
@@ -61,15 +61,15 @@ Additionally, you will also need some hot soapy water where you can dip the flea
 
 This method is very effective especially if you have a large infestation in your pet.
 
-## # 3. Washing the Pet in a Soapy Warm Bath
+###  3. Washing the Pet in a Soapy Warm Bath
 
 A warm soapy bath is such a nice way of eliminating fleas from the pet. Most fleas will not survive in warm and soapy water. - As you bathe the pet, gently scrub with a brush to expose the fleas hiding under the far. Alternatively, you can also use flea shampoo as you bathe the pet. It will purposely help in killing the fleas.
 
-## # 4. Using Calendula Ointment or Aloe Vera Gel
+###  4. Using Calendula Ointment or Aloe Vera Gel
 
 Though this is not used to control fleas, Aloe Vera gel is used to ease the bites and itching from them. - It can be best applied after or before the bath where the pet is bitten. What disinfectant kills fleas? Apart from easing the itching, the gel also helps prevent swelling
 
-# # In Summary
+##  In Summary
 
 Does rubbing alcohol kill fleas? Yes, it does. However, it is not the best for use when controlling fleas at home and from your pest. It is highly flammable and also could cause poisoning and fatalities in your pets. - If you have a flea infestation in your home or pets, I would recommend better and safer ways of controlling them than using rubbing alcohol.
 

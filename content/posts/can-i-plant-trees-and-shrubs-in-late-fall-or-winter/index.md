@@ -53,7 +53,7 @@ While the ground isn't frozen solid and conditions permit, planting in the dorma
 
 This guide will explore the compelling reasons to consider late fall or winter planting, outline the ideal timing and techniques, provide essential care tips for newly planted specimens, and address common concerns, helping you extend your planting season and give your new trees and shrubs the best possible start.
 
-# # When to Plant in Late Fall or Winter
+##  When to Plant in Late Fall or Winter
 
 The timing is critical and depends heavily on your specific climate zone.
 
@@ -65,7 +65,7 @@ The timing is critical and depends heavily on your specific climate zone.
 
 This is an excellent time to plant them. * **Nairobi Context: ** As mentioned, planting during the rainy seasons is preferred. The "cooler dry season" (June-August) is the closest equivalent to a temperate "winter" in terms of reduced heat stress, making it a possibility if irrigation is consistent.
 
-# # Caring for Newly Planted Trees and Shrubs
+##  Caring for Newly Planted Trees and Shrubs
 
 Even dormant plants need care to ensure successful establishment.
 
@@ -77,7 +77,7 @@ Use tree guards or wire mesh cages around the lower trunk.
 
 * **Deer: ** If deer are a problem, consider protective fencing or repellents. 4. **Avoid Fertilizing: ** Do not fertilize newly planted trees and shrubs in late fall or winter. Fertilizing can stimulate tender new growth that will be highly susceptible to frost damage. Wait until spring when new growth begins.
 
-# # What to Plant in Late Fall or Winter
+##  What to Plant in Late Fall or Winter
 
 Many deciduous and evergreen trees and shrubs are excellent candidates for dormant season planting.
 

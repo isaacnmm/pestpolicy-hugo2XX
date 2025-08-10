@@ -19,7 +19,7 @@ Probably you have come across various species of lizards in your home, compound,
 
 These bones offer support, protection of internal organs, and options for attachment of body muscles and cells. The number of each bone varies according to size and species of lizard. **
 
-# # Details: Do Lizards Have Bones?
+##  Details: Do Lizards Have Bones?
 
 [Lizards, like other reptiles, have bones](https: //www. ncbi. nlm. nih. gov/pmc/articles/PMC4860302/). Their bones are classified under either appendicular skeleton or axial skeleton. The appendicular skeleton consists of the pelvic girdle, the pectoral, the limbs, and the bones of the front and hind legs.
 
@@ -27,13 +27,13 @@ The axial skeleton form the central axis of the lizards body. It comprises the s
 
 The two skeleton structures are interconnected and plays a great role in protecting the inners body organs such as the heart, lungs, kidneys and intestines as well as the spinal cord (vital). Moreover, they provide suitable support of the body and enhances easier locomotion.
 
-# # What are the functions of Bones in Lizards?
+##  What are the functions of Bones in Lizards?
 
 The following are main functions of bones in lizards: 1. Protecting the spinal cord - the vertebral column bones. 2. Protecting the brains and cerebral system - the skull. 3. Protecting providing option for attachment of internal organs such as digestive organs, heart, kidney, liver and lungs (ribs). 4. Provides option for attachment of the body muscles axial skeleton, pelvic and pectoral girdle. 5.
 
 Help in locomotion/movement the appendicular skeleton femur, tibia, fibula, humerus, scapula, metacarpals, and metatarsals. 6. For grasping and grinding over the surface the phalanges, metatarsals and metacarpals - including[lizard teeth](https: //pestpolicy. com/do-lizards-have-teeth/).
 
-# # How Many Bones Does a Lizard Have?
+##  How Many Bones Does a Lizard Have?
 
 Lizard species have different varying number of bones due to their difference in sizes. However, the skeleton of lizard has 28 specialized bones, which work collective to offer protection and locomotion effectively.
 
@@ -41,7 +41,7 @@ These bones include the vertebral column (caudal, sacral, lumbar, thoracic/dorsa
 
 Most lizards have 100 to 300 bones while large lizards such as Tree crocodile may have more. On the other hand, small lizards such as gecko may have less than 100 bones.
 
-# # Do Lizards Have Bones in Their Tails?
+##  Do Lizards Have Bones in Their Tails?
 
 Yes! Lizards have bones in their tail. The tail which is formed from the caudal vertebrae contain bones, ligaments, nerves, vasculature and tail muscles which gives it the tail power.
 
@@ -53,7 +53,7 @@ Though a few lizard species show lateral growth of detached tail, the tail may n
 
 Lizards lack the tail autotomy and cannot be treated once their cut tail. Ensure you hold your pet lizard from below at the chest region (not lifting it by the tail).
 
-## # a. Appendicular Skeleton.
+###  a. Appendicular Skeleton.
 
 The appendicular skeleton in lizards comprises of the bones that form the front and the hind legs plus the pelvic girdle and pectoral girdle from which the limbs are attached to the axial skeleton. These bones collectively coordinate the lizards movement. **1. Pectoral girdle. ** This consist of two main bones, that is, the scapula and the collarbone also called clavicle.
 
@@ -77,7 +77,7 @@ At the end of femur, there is a patella bone, which helps form the knee joint. T
 
 At the end of tibia and fibula lay tarsal bones that allows two-way motion of the arm. These bones are connected to metatarsal bones (metatarsals are elongated bones and forms base of lizards foot). At the end of metatarsals are phalanx bones. The phalanges are jointed and form the toes, which help in grasping on the ground, trees or rocks when walking.
 
-## # b. Axial Skeleton.
+###  b. Axial Skeleton.
 
 The axial skeleton comprises of the skull, the dorsal/thoracic cage and the vertebral column. Axial skeleton forms the central axis of the lizards. The major function of axial skeleton is to offer point for the attachment of the appendicular skeleton and protect the spinal cord (spinal cord is responsible for nervous system coordination). **1. The skull. ** Skull is a bony structure, which forms the head.
 
@@ -107,7 +107,7 @@ The caudal vertebra has short spines and arches. Long-tailed lizards such as Bas
 
 Related: Are Leopard Geckos Nocturnal?
 
-# # Conclusions
+##  Conclusions
 
 All Lizard species have bones that are collectively linked to aid them in protection and locomotion. The bones are classified under either appendicular skeleton or axial skeleton.
 

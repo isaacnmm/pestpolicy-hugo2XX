@@ -21,9 +21,9 @@ Look out for signs of a flea infestation, and take measures to control them. Fle
 
 Related: [Flea Treatment for Cats](https: //pestpolicy. com/[best](https: //pestpolicy. com/best-dog-brush-for-short-hair-shedding/)-flea-treatment-for-cats/).
 
-# # Reviews:Top 9 Best Indoor Flea Killer in 2025
+##  Reviews:Top 9 Best Indoor Flea Killer in 2025
 
-## # 1. Wondercide Spray for Home (Indoors), Cats, Dogs
+###  1. Wondercide Spray for Home (Indoors), Cats, Dogs
 
 Wondercide is a popular brand as they claim to offer a safe and non-synthetic alternative to pet owners for flea control.
 
@@ -37,7 +37,7 @@ Cons: - Compared to products of the same category, its quite expensive. - You ne
 
 Related: How to Get Rid Of Fleas in Carpet
 
-## # [2. Virbac Knockout Spray - Indoor Flea Treatment](https://www.amazon.com/dp/B00AT6FY6A/?tag=p-policy-20)
+###  [2. Virbac Knockout Spray - Indoor Flea Treatment](https://www.amazon.com/dp/B00AT6FY6A/?tag=p-policy-20)
 
 The Virbac Knockout Spray is solely designed to be sprayed in the areas where your pet resides. You shouldnt use it to spray it directly on your pets fur.
 
@@ -49,7 +49,7 @@ Pros: - Its non-staining and quite easy to use. - It has a long-range of around 
 
 Cons: - Requires at least two hours of drying out. - Leaves behind a nasty odor.
 
-## # [3. Dr. Green Pet Flea Spray](https://www.amazon.com/dp/B0128J9FLK/?tag=p-policy-20)
+###  [3. Dr. Green Pet Flea Spray](https://www.amazon.com/dp/B0128J9FLK/?tag=p-policy-20)
 
 Dr. Green Pet Flea Spray, just like the Wondercide Spray, uses all-natural ingredients and essential oils like cedar, clove, peppermint, and cinnamon oils.
 
@@ -63,7 +63,7 @@ Cons: - Requires reapplication after a short time period. - Wont show desired re
 
 Related: Flea Bites vs. Bed Bug Bites- Differentiate?
 
-## # [4. Adams Plus Flea and Tick Spray](https://www.amazon.com/dp/B00C2O3PT0/?tag=p-policy-20)
+###  [4. Adams Plus Flea and Tick Spray](https://www.amazon.com/dp/B00C2O3PT0/?tag=p-policy-20)
 
 Adams Plus is certainly the most effective flea spray out there. It mixes etofenprox, an egg killer with S-Methoprene, which is a powerful insect growth regulator.
 
@@ -75,7 +75,7 @@ Cons: - Can leave your pet with an odd odor that might stay on for about two day
 
 Read Also: What Do Baby Fleas Look Like?
 
-## # [5. Petcor Flea Spray](https://www.amazon.com/dp/B004QN0MJQ/?tag=p-policy-20)
+###  [5. Petcor Flea Spray](https://www.amazon.com/dp/B004QN0MJQ/?tag=p-policy-20)
 
 The last flea spray that has made it to our list is Petcor Flea Spray that you need to apply onto your pet directly.
 
@@ -87,7 +87,7 @@ Cons: - Come with a strong pungent smell. - The formulation can prove to be sens
 
 Read Also: How Do Flea Collars Work?
 
-## # [6. Vets Best Flea and Tick Home Spray](https://www.amazon.com/dp/B003PRI6OC/?tag=p-policy-20)
+###  [6. Vets Best Flea and Tick Home Spray](https://www.amazon.com/dp/B003PRI6OC/?tag=p-policy-20)
 
 Vets Best Flea and Tick Home Spray is made using all-natural products. This spray makes the list because you can not only use it indoors but on your dogs as well.
 
@@ -101,7 +101,7 @@ Cons: - Better suited when used as a preventive measure.
 
 Related: How Long Can Fleas Live Without a Host?
 
-## # [7. Vet Kem Siphotrol Plus II Premise Pest Control Spray](https://www.amazon.com/dp/B000KVSTC0/?tag=p-policy-20)
+###  [7. Vet Kem Siphotrol Plus II Premise Pest Control Spray](https://www.amazon.com/dp/B000KVSTC0/?tag=p-policy-20)
 
 The Vet Kem Siphotrol Plus II Premise Pest Control Spray consists of a strong ingredient, PRECOR Insect Growth Regulator.
 
@@ -113,7 +113,7 @@ Cons: - Cannot be used on your pets due to toxic chemicals.
 
 Read Also: [Does Coconut Oil Kill Fleas? ](https: //pestpolicy. com/does-coconut-oil-kill-fleas/)
 
-# # Conclusion
+##  Conclusion
 
 Weve updated you on the best flea control sprays available in the market. By using these sprays as directed, you can easily get rid of fleas from your pets and the insides of your house. We would advise that once youve succeeded in getting rid of the flea infestations from your home and pets, make sure that you take preventive measures afterward to keep them from recurring.
 
@@ -121,6 +121,6 @@ In case the infestation is too extensive for you to handle, you may need to call
 
 You can choose any one of these according to your preference. But remember that only spraying isnt enough.
 
-# # Sources:
+##  Sources:
 
 1. [Flea Control and Prevention Entomology](https: //entomology. ca. uky. edu/ef602) 2. [Fleas Management Guidelines--UC IPM](http: //ipm. ucanr. edu/PMG/PESTNOTES/pn7419. html) 3. [Flea Control - OSU Fact Sheets - Oklahoma State University](http: //pods. dasnr. okstate. edu/docushare/dsweb/Get/Document-2681/VTMD-9121web. pdf)

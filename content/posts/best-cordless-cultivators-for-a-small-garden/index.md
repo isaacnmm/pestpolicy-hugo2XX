@@ -21,9 +21,9 @@ com/best-cordless-paint-sprayers/)-garden-tiller-for-a-woman/) whenever you need
 
 For those with compact gardens, the best cordless cultivators offer added freedom of movement, eliminating concerns about tangled cords or outlet accessibility. Whether you prioritize convenience or efficiency, theres a tiller perfectly suited to your gardening needs.
 
-# # 7 Best Cordless Cultivators for a Small Garden
+##  7 Best Cordless Cultivators for a Small Garden
 
-## # [1. Black + Decker LGC 120 cordless tiller](https://www.amazon.com/dp/B004JMZH2G/?tag=p-policy-20)
+###  [1. Black + Decker LGC 120 cordless tiller](https://www.amazon.com/dp/B004JMZH2G/?tag=p-policy-20)
 
 This cultivator is designed for small landscaping and gardening tasks and is arguably one of the lightest and the most affordable cultivators in the market under the $100 price tag. T his tool is ideal for weeding and cultivating or harrowing in light soils and capable of cultivating 325 square feet on an overnight charge.
 
@@ -35,7 +35,7 @@ Whats more, the LGC 120 features a soft and flexible handle which provide added 
 
 Pros: - It is highly affordable - It is the ideal choice if you dont have access to a nearby power source - It is electric powered which ensures no emissions come from your lawn - It features a strong lithium ion battery which gives the LGC 120 a powerful transmission - Light weight and portable Cons: - Not ideal for breaking up hardened ground
 
-## # [2. GreenWorks 27062 G-MAX](https://www.amazon.com/dp/B00AW72V58/?tag=p-policy-20)
+###  [2. GreenWorks 27062 G-MAX](https://www.amazon.com/dp/B00AW72V58/?tag=p-policy-20)
 
 This is the ultimate cordless tiller to go for if you are looking for utility. This cultivator is powered by a 40V, Ah battery which ensures it performs at par. On a full charge, this cultivator can till your garden for 40 minutes straight. Its convenience features include ease of movement and convenient handling. This cultivator is powered by a G-MAX 40V motor which is versatile enough to facilitate thorough gardening.
 
@@ -43,7 +43,7 @@ An easy two-step start-up process keeps you safe from accidentally pressing a bu
 
 The 27062 features 6 wheels which allow you to roll the tool back and forth from the garden shed or garage conveniently. Pros: - Features comfortable handles for easier handling - Foldable handles facilitate storage - It is relatively light which eases manoeuvrability allow tight gardens - It is offers you flexibility and freedom due to its cordless feature Cons: - It is not ideal for large and rocky grounds
 
-## # [3. Earthwise TC70040 11 40v Cordless cultivator](https://www.amazon.com/Earthwise-TC70040-Lithium-Ion-Cordless-Cultivator/dp/B018QDPT58)
+###  [3. Earthwise TC70040 11 40v Cordless cultivator](https://www.amazon.com/Earthwise-TC70040-Lithium-Ion-Cordless-Cultivator/dp/B018QDPT58)
 
 This Earthwise cultivator is popular for its relatively high tine speed which provides the performance of a heavier machine given its ability to cultivate through roots and soil clumps without straining its tines. T his model is packed with features, notably its strong tines, transport wheels and a power-packed battery that is guaranteed to offer you 45 minutes of working time on a single charge.
 
@@ -53,7 +53,7 @@ Its rechargeable 4 Ah lithium-ion battery is just what you need for that quiet a
 
 Pros: - Its cushioned handle offers a comfortable grip - It provides a relatively longer performance as compared to corded[tillers in its class](https: //pestpolicy. com/best-tiller-for-subcompact-tractor/) - It features a low vibration auxiliary handle Cons: - It offers less than an hours performance on a single charge
 
-## # [4. SereneLife PSLTLL1854 18V hand-held cordless tiller](https://www.amazon.com/dp/B07GDJ2CSH/?tag=p-policy-20)
+###  [4. SereneLife PSLTLL1854 18V hand-held cordless tiller](https://www.amazon.com/dp/B07GDJ2CSH/?tag=p-policy-20)
 
 This unit features an 18V power output with a rechargeable battery feature is guaranteed to make your landscaping easier. This unit offers a working time of 25 minutes on a 4-hour full battery charge cycle. I ts integrated debris protection shield ensures maximum safety for the user. SereneLife features an 18V power output cultivator system offering a tilling width of 7. 9 inches and a depth of 3. 2.
 
@@ -63,7 +63,7 @@ This SereneLife brand features an adjustable grip angle for easier control and c
 
 - Its detachable 18V lithium-ion detachable battery offers a longer working time Cons: - Not ideal for virgin ground
 
-## # [5. Mantis 3558 cordless tiller](https://www.amazon.com/dp/B078HJQWTT?tag=p-policy-20)
+###  [5. Mantis 3558 cordless tiller](https://www.amazon.com/dp/B078HJQWTT?tag=p-policy-20)
 
 This is the perfect tool for breaking through soil sod and breathing life into existing gardens. This unit delivers outstanding performance when digging and weeding. A 58V battery capacity is just what you need for a cordless tiller. T he Mantis 3558 features 16 strong steel tines which provide an excellent performance. With a tilling depth of 8 inches and a tilling width of 12, this tool is ideal for raised beds and restricted garden spaces.
 
@@ -71,6 +71,6 @@ Weighing in at just 26lbs, this tool is highly manoeuvrable in any garden size. 
 
 Equipped with a 2-speed engine and a strong battery, this is just what you need to achieve smart digging capabilities. Pros: - It is quiet during usage - Lightweight and environmental friendly - Features a high capacity battery - It comfortable to work with Cons: - It offers a limited working time (30 minutes) on full charge
 
-# # Conclusion
+##  Conclusion
 
 A cordless tiller is the tool of choice for both casual and professional garden landscapers. While the above list is not exhaustive, it compares the performance, ease of handling and price. These are important factors for considering before purchasing your tiller of choice. In particular, the GreenWorks TL80L00 80-Volt front tine tiller stands out from the rest due to its versatility and powerful motor.

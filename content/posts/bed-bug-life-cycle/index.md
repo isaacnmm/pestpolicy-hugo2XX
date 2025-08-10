@@ -25,11 +25,11 @@ Signs of a bed bug infestation in your hotel or the house include seeing some re
 
 Therefore it's important to know how to identify the bed bugs and differentiate them in their different stages.
 
-# # Bed Bug Life Cycle - Stages in the Life of Bed Bugs?
+##  Bed Bug Life Cycle - Stages in the Life of Bed Bugs?
 
 The general but critical information about bed bugs include; - The eggs are laid covered with some glue and they'll hatch within 10 days. - The bed bug nymph stage goes through five phases (stages) or what we call instars. - Each of the bedbug instar we require to take a blood meal for them to molt to the next instar stage. - Adult bed bugs can live for about 10 months but their whole life cycle will complete in between 1 to 4 months.
 
-## # 1. Bed Bug Eggs
+###  1. Bed Bug Eggs
 
 The life cycle of a bed bug starts at the egg stage - the eggs are milky white and grain-like in shape. - Bed bugs (females) we lay eggs clustered in 10 to 20 pieces and a total of 200 - 500 eggs on in their lifetime different surfaces including bed frames. Bed bug eggs will be laid in clusters or in singles and they will finally be stuffed in crevices and cracks.
 
@@ -45,7 +45,7 @@ The bed bug nymph will graduate product rule after death fifth stage of molting 
 
 Related: Are Bed Bug Eggs Hard or Soft?
 
-## # 2. Bed Bug Nymphs / Baby Bed Bugs
+###  2. Bed Bug Nymphs / Baby Bed Bugs
 
 Bed bug nymphs or Baby Bed Bugs go through molting stages before achieving maturity. - Despite that the nymphs may look mature, they are small-sized and have not yet achieved sexual maturity. Old nymphs will be red-brown in color while the younger ones will be yellow-white. - The nymphs will require room temperature and a blood meal for them to successfully malt to the next stage.
 
@@ -65,7 +65,7 @@ This will especially happen in the third and fourth stages of the nymphs growth 
 
 However diatomaceous Earth won't wipe out the whole nymph population. Therefore, experts recommend [using heat treatments](https: //pestpolicy. com/best-bed-bug-heaters/) and [bed bug sprays](https: //pestpolicy. com/best-bed-bug-spray/) or hiring exterminators for infestations that are large.
 
-## # 3. Adult Bed Bugs
+###  3. Adult Bed Bugs
 
 The average length of an adult bedbug ranges from 1/4 inch to 3/16 inches - they have a wide and flat body but will get larger once theyve fed on blood from their host. - After getting a blood meal (engorged) the bed bug's body will be cylindrical and longer. But bed bugs are generally brownish, oval-shaped, and small insects (comparable to an apple seed) that live on hosts such as humans and other animals.
 
@@ -83,7 +83,7 @@ You may also find bed bugs in clean hotel rooms or homes - this is contrary to t
 
 At what time will bed bugs bite humans? Well, bed bugs will largely bite humans as they sleep - especially at night. - The bugs will pierce your skin and suck blood via their elongated mouthparts for between 3 to 10 minutes before crawling away.
 
-# # Conclusion
+##  Conclusion
 
 The life cycle of a bed bug we'll take it 2 three life stages which are; egg stage, nymph stage (through five instars), and finally the adult stage. - Through these three stages, bed bugs will have different shapes, sizes, colors, and feeding habits. Therefore as you seek to control bed bugs in your home or business premises you require to know how they look in their different life stages.
 

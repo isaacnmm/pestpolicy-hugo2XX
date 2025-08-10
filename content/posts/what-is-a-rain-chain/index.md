@@ -56,7 +56,7 @@ Originating in Japan centuries ago, where they are known as "kusari doi, " [rain
 
 But what exactly is a rain chain, and how does it work? Far from just a decorative piece, a rain chain is a series of metal cups or links that guide rainwater downwards, creating a beautiful waterfall effect. This article will explore the mechanics and aesthetics of rain chains, compare them to traditional downspouts, discuss their installation, and address common questions about their performance, especially in various weather conditions.
 
-# # Rain Chain Designs and Materials
+##  Rain Chain Designs and Materials
 
 Rain chains come in a vast array of designs and materials, allowing homeowners to select an option that complements their home's architectural style and their personal aesthetic preferences.
 
@@ -76,7 +76,7 @@ Water flows along the links through surface tension. While highly aesthetic, the
 
 Some rain chains also incorporate glass beads, stones, or other decorative elements to enhance their visual appeal.
 
-# # Do Rain Chains Require Gutters?
+##  Do Rain Chains Require Gutters?
 
 Yes, **rain chains are designed to work in conjunction with gutters**. They are essentially a decorative and open alternative to a vertical downspout pipe.
 
@@ -84,7 +84,7 @@ A rain chain is typically hung from the gutter's downspout hole. For best perfor
 
 While some custom architectural designs might integrate rain chains without traditional gutters (e. g. , from a scupper box on a flat roof), for most residential homes with sloped roofs, gutters are a necessary component to effectively collect and direct water to the rain chain.
 
-# # Rain Chains in Heavy Rain and Winter
+##  Rain Chains in Heavy Rain and Winter
 
 The performance of rain chains can vary in extreme weather:
 

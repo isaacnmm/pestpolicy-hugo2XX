@@ -19,7 +19,7 @@ Snakes can be beneficial when they capture and eat [damaging pests](http: //www.
 
 Thus, below I've reviewed the seven [best](https: //pestpolicy. com/best-chipmunk-repellents/) snake repellents for your yard. Also, check these [best drain cleaners](https: //pestpolicy. com/best-drain-cleaner//). **See these snake repellents. **
 
-# # **1. Our #1 Top Pick: Ortho Snake B Gon Snake Repellent Granules**
+##  **1. Our #1 Top Pick: Ortho Snake B Gon Snake Repellent Granules**
 
 Powerful, effective, and safe - this Ortho Snake repellent is just what you need to keep snakes off your yard. When applied to garden soil around plants, flowers, and turf, these repellent granules prevent snakes from entering your garden, nesting, and even foraging. - The Ortho snake repellent comes in the form of granules that deliver a rain-resistant and long-lasting performance.
 
@@ -33,13 +33,13 @@ ft. Its also budget-friendly. Related: Best fungicide for Powdery Mildew.
 
 The Good: - Environmentallyfriendly no stinkformula made from essential oils - Safe for plants, pets, and humans. - Budget-Friendly formula - Rain resistant and its long-lasting - Ready to use repellent The Bad: - None
 
-# # **2. #2 Pick: Safer-Brand 5951 Snake Repellent & Shield Snake Granular**
+##  **2. #2 Pick: Safer-Brand 5951 Snake Repellent & Shield Snake Granular**
 
 Snake Repellents - Encountering a snake in your home can be a traumatizing experience. Plus, they pose a great danger to your family and your pets and should, therefore, be kept as far away as possible. Some repellents could have toxic chemicals such as malignant and carcinogens Naphthalene, as outlined by the [EPA](https: //www. epa. gov/sites/production/files/2016-09/documents/naphthalene. pdf) that produces phthalic anhydride.
 
 These are the four best snake repellent for the yard that has been proven actually to work. They are also quite affordable and easy to use.
 
-# # **3. #3 Pick: Safer-Brand 5951 Snake Repellent & Shield Snake Granular**
+##  **3. #3 Pick: Safer-Brand 5951 Snake Repellent & Shield Snake Granular**
 
 What's a Snake Repellent? - ASnake repellent is either a [natural](http: //www. wildlifeanimalcontrol. com/homemade-snake. html), chemical-based (naphthalene) or sonic product created to stop snakes from getting in [spaces such as yards or houses](http: //npic. orst. edu/pest/snake. html). Most of them will contain a repellent ingredient, an adjuvant, and an inert carrier.
 
@@ -49,7 +49,7 @@ Historically, *Styrax*trees' resin was burned for the same purpose of chasing of
 
 Naphthalene is a chemical that has an unpleasant smell for snakes and will damage the reptile's retinal system and nerves. It's mainly extracted from the walnut trees (the black type). Natural best snake repellents are created fromessential oils like clove, peppermint, castor, and cinnamon.
 
-# # [4. Dr. T's 28 lb. Snake-A-Way Snake Repelling Granules](https://www.amazon.com/dp/B0042XAOJI/?tag=p-policy-20)
+##  [4. Dr. T's 28 lb. Snake-A-Way Snake Repelling Granules](https://www.amazon.com/dp/B0042XAOJI/?tag=p-policy-20)
 
 Dr. Ts Snake Repellent granule is an EPA-registered granular snake repellent that effectively repels both poisonous and non-poisonous snakes from your home. This formula contains a powerful combination of 28 percent Sulfur and 7 percent [Naphthalene](https: //pubchem. ncbi. nlm. nih. gov/compound/naphthalene#section=Top), which creates an unpleasant odor.
 
@@ -61,7 +61,7 @@ And given that it has a 91 percent repellency for garter and rattlesnakes, it wo
 
 See these [Terrariums for Snakes](https: //pestpolicy. com/best-terrariums-for-snakes/).
 
-# # [5. Dr. T's Havahart Snake Repellent Hose End Spray 32oz](https://www.amazon.com/dp/B0753WVKQQ/?tag=p-policy-20)
+##  [5. Dr. T's Havahart Snake Repellent Hose End Spray 32oz](https://www.amazon.com/dp/B0753WVKQQ/?tag=p-policy-20)
 
 The Dr. T Snake Repellent Hose End Spray provides an easy yet effective way to eliminate snakes without harming them. According to the manufacturer, thisbest snake repellent can offer protection up to 500 sq ft. This will help you deter snakes from accessing areas around your house, flowerbed, garden, garage, cabin, barns, and more.
 
@@ -71,7 +71,7 @@ The reaction causes it to slither away from your home in search of fresh air. To
 
 The only disadvantage is that you have to reapply the solution after heavy rains for continued effectiveness.
 
-# # [6. Snake Stopper Ready-To-Spray Snake Repellent](https://www.amazon.com/dp/B00LDX954K/?tag=p-policy-20)
+##  [6. Snake Stopper Ready-To-Spray Snake Repellent](https://www.amazon.com/dp/B00LDX954K/?tag=p-policy-20)
 
 Snake Stopperrepellent is also a natural solution against snakes roaming in your backyard. This product also has an amazing smell and treats a large yard area, p atios, or garden. Snake Stopper allows horse-end use. It's safe, sweet-smelling, and more practical but may damage some flora and fauna. But it'll naturally push the snakes out of your lawn, yard, garden, or around the house into the woods where they came originated.
 
@@ -81,7 +81,7 @@ Specifically, this product is made from sulfur, clove oil, cinnamon oil, and ced
 
 The Bad: - Limited plant damage issues
 
-# # [7. Exterminators Choice Snake Defense Snake Repellent](https://www.amazon.com/dp/B01EMCAFXI/?tag=p-policy-20)
+##  [7. Exterminators Choice Snake Defense Snake Repellent](https://www.amazon.com/dp/B01EMCAFXI/?tag=p-policy-20)
 
 Next up is this Snake Defense repellent that'll repel both non-venomous and venomous/ dangerous snakes (such as rattlesnake or python) and thus preferred by most Exterminators. This Snake Defense repellent is made up ofnatural ingredients (cinnamon oil, peppermint oil, clove oil, and water) that will readily the slithering and dangerous reptiles infesting your yard.
 
@@ -91,7 +91,7 @@ The Snake Defense repellent, unlike another snake's best snake repellent, is saf
 
 Luckily, it leaves no mess, it's easy to apply, and will snake treat a large lawn area effectively. You may also check these best Mole Traps to keep moles off the yard. The Good: - Natural that is also environmentally friendly - The formula is easy to spread. - Repels bothnon-venomous and venomous snakes - Uses naturalessential oils The Bad: - None
 
-# # [8. VENSMILE Solar-Powered Sonic Snake Repellent](https://www.amazon.com/dp/B07P73PNVJ/?tag=p-policy-20)
+##  [8. VENSMILE Solar-Powered Sonic Snake Repellent](https://www.amazon.com/dp/B07P73PNVJ/?tag=p-policy-20)
 
 Unlike all the snake repellents weve reviewed, the VENSMILE Solar-Powered snake repellent does not use chemicals. Instead, it uses electric shock to scare/repel moles, snakes, and gophers away. The snake repellent comes in the form of spikes that are strategically placed in targeted areas. The spikes are continuously charged by the built-in solar panels to produce enough electric shock to scare away snakes.
 
@@ -101,7 +101,7 @@ The best snake repellent is waterproof, easy to use, and long-lasting. The spike
 
 This means that for a 1-acre piece of land, youll need to use at least 6 VenSmile spikes.
 
-# # Chemical Snake Repellents
+##  Chemical Snake Repellents
 
 **1. Mothballs** -Mothballs are generally accepted by homeowners for repelling snakes. However, their effectiveness has been proven to be higher in repellingsilverfish andmoths compared to snakes. In addition to being less effective against snakes, Mothballs also containneurotoxins that can be toxic to kids and pets. **2. Sulphur** - If used alone (even in the powdered form), sulfur is highly ineffective in repelling snakes.
 
@@ -109,6 +109,6 @@ However, sulfur will work great when combined with naphthalene.
 
 For instance, Snake-A-Way combines 7% naphthalene and 28% sulfur to control even rattle and garter snakes. The chemical snake repellents are created to produce a pungent smell that will be harsh on the snakes. The snakes' mouthparts ( [vomeronasal organs](https: //academic. oup. com/chemse/article/26/4/433/266106) ), as opposed to their nose or nostrils, will sense the smell of the odor particles that the reptile picks up with its tongues.
 
-# # Conclusion
+##  Conclusion
 
 What about sonic repellents? Well, these types of snake repellents will produce sounds with a frequency that only the snakes will detect (and not human beings). The key to note is that the unique frequency sound is both irritating and unpleasant to the snakes, and thus, the reptiles will move away from that area.

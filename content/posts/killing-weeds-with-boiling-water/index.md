@@ -47,7 +47,7 @@ Killing weeds with boiling water might seem almost too simple, but its effective
 
 This guide will explore the science behind boiling water as a [weed](https: //pestpolicy. com/how-to-make-a-nontoxic-weed-killer/) killer, detail its proper application, discuss its pros and cons, and offer tips for maximizing its effectiveness and safety.
 
-# # Where to Use Boiling Water for Weed Control
+##  Where to Use Boiling Water for Weed Control
 
 Boiling water is an excellent choice for specific areas where precision and safety are paramount.
 
@@ -55,7 +55,7 @@ Boiling water is an excellent choice for specific areas where precision and safe
 
 **Before Planting (Site Preparation): ** Can be used to clear a small area of weeds before you intend to plant, ensuring a clean slate. 5. **Areas Where Chemicals Are Undesirable: ** Around vegetable gardens, herb beds, play areas, or near water sources where chemical runoff is a concern.
 
-# # How to Kill Weeds with Boiling Water - Step-by-Step
+##  How to Kill Weeds with Boiling Water - Step-by-Step
 
 This method is straightforward but requires care for safety and effectiveness.
 
@@ -67,7 +67,7 @@ Ensure no desirable plants are nearby that could be affected by splashes or heat
 
 **Dispose of Dead Weeds: ** Once the weeds are completely dead (usually within a day or two), you can easily pull them up or leave them to decompose.
 
-# # Tips for Maximizing Effectiveness and Safety
+##  Tips for Maximizing Effectiveness and Safety
 
 * **Target Young Weeds: ** Boiling water is most effective on young, small annual weeds. Larger, more established weeds may require more water or repeat applications. * **Focus on the Crown: ** Always direct the water at the base of the plant to hit the vital growing point and conduct heat down to the roots. * **Work on a Still Day: ** Avoid windy conditions that could splash hot water onto unintended areas or yourself.
 

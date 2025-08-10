@@ -20,19 +20,19 @@ Both sanding and stripping are viable options for restoring the deck's beauty an
 
 In general, sanding is more suitable for decks with a solid, but deteriorating finish (preserves the wood's natural beauty ), while stripping is preferred when dealing with a thick or stubborn finish, such as paint or solid stains. **
 
-# # **When Sanding Might Be Better**
+##  **When Sanding Might Be Better**
 
 Sanding can be the better option for your wood deck restoration for several reasons: 1. **Smooth Finish: **Sanding smooths the wood's surface, removing any splinters, rough spots, or minor blemishes, creating a more comfortable and aesthetically pleasing surface. 2. **Better for Lighter Finishes: **If your deck has a light and worn finish, sanding is often sufficient to remove the old finish and prepare the wood for a new coat. 3.
 
 **Less Messy: **Sanding generates less mess compared to stripping, which involves the use of chemicals and can be a messy process.
 
-# # **When Stripping Might Be Better**
+##  **When Stripping Might Be Better**
 
 Stripping the wood deck may be the preferred choice under certain circumstances: 1. **Thicker Finishes: **If your deck has a thick layer of paint or solid stain that sanding alone cannot adequately remove, stripping is the more effective method. 2. **Time-Efficient: **Stripping can be faster than sanding, especially when dealing with larger deck areas, as it quickly breaks down the old finish for easier removal. 3.
 
 **Avoids Over-Sanding: **Stripping is a safer option for older or weathered decks, as excessive sanding can potentially damage the wood.
 
-# # **Additional Considerations**
+##  **Additional Considerations**
 
 **1. Environmental Impact: ** When choosing between sanding and stripping, consider the environmental impact. Stripping involves the use of chemicals, which should be handled and disposed of responsibly. Sanding generates wood dust, so proper precautions should be taken to avoid inhaling the dust. **2. Safety: ** Regardless of the method chosen, safety should always be a priority.
 
@@ -40,7 +40,7 @@ When using chemicals for stripping, wear protective gear and work in a well-vent
 
 For sanding, use safety goggles, a dust mask, and hearing protection. **3. Deck Condition: ** Assess your deck's condition before deciding on a method. If the wood is severely deteriorated or rotted, neither sanding nor stripping may be suitable, and replacement may be necessary.
 
-# # **Additional Questions**
+##  **Additional Questions**
 
 **Q1: What are the steps involved in sanding a wood deck? ** When sanding a wood deck, follow these general steps: 1. Clear the deck: Remove all furniture, plants, and debris from the deck. 2. Clean the deck: Sweep the deck to remove loose dirt and debris. Consider power washing for a more thorough cleaning. 3. Inspect the deck: Check for any loose boards, nails, or structural issues that need repair. 4.
 
@@ -56,7 +56,7 @@ Remove the old finish: Use a scraper to gently lift off the softened finish. For
 
 Always be cautious with the use of chemicals and follow safety guidelines when combining these methods.
 
-# # Conclusion
+##  Conclusion
 
 In conclusion, whether you should sand or strip your wood deck depends on various factors, including the deck's current condition, the type of finish to be removed, and your desired end result. Sanding is ideal for decks with lighter finishes and when you want a smoother surface, while stripping is more effective for removing thicker or stubborn finishes.
 

@@ -19,7 +19,7 @@ Fruit flies are tiny flying bugs that's attracted to rotting and over ripened fr
 
 Each female will lay 500 eggs in summer and they'll develop to adults within 8 - 10 days. Fruit flies come [thrive in warmer temperatures](https: //pestpolicy. com/where-do-fruit-flies-come-from/) with rotten fruits and vegetables laying their eggs in wall cracks, home kitchen, or in cafeterias, hotels, and restaurants. So, how to get [rid](https: //pestpolicy. com/homemade-fruit-fly-trap/) of fruit flies?
 
-# # 1. Toss Fruits and Wipe Them out
+##  1. Toss Fruits and Wipe Them out
 
 First, you'll need to too or dispose off the rotting or overripe vegetables and fruits that may be in your house or kitchen. Notably, fruit flies will hatch and then proceed into your foods.
 
@@ -31,7 +31,7 @@ Wipe out all the possible breeding grounds for fruit flies. These areas include 
 
 Remember to use trash bags but also dispose them off daily. However, any bag that's not full will need to be covered - at least if you won't be tossing it off. Finally, clean up the moist drain as it may have fermenting waste - your may use one of the best drain cleaners. It'll easily unclog the drains with organic and fermented mater - including those of fruits and vegetables.
 
-# # 2. Apple Cider Vinegar + Dawn Dish Soap
+##  2. Apple Cider Vinegar + Dawn Dish Soap
 
 Apple cider vinegaris the magical best fruit fly trap. But why do fruit flies love v inegar? Well, vinegar is [fully fermented organic matter](https: //www. hsph. harvard. edu/nutritionsource/vinegar/) (with excellent scent). Fruit flies love broken-down natural ingredients and its acidity.
 
@@ -49,7 +49,7 @@ The boiling liquids will flush out the fruit flies from the hidden and moist pla
 
 But liquid dish soap isn't' safe for human consumption and thus must be kept far from kids.
 
-# # 3.*Beer *or Old Wine Trap
+##  3.*Beer *or Old Wine Trap
 
 [New scientific research](https: //www. sciencemag. org/news/2014/10/better-smelling-beer-thanks-fruit-flies) show fruit flies have a unique relationship with yeast that's is beer or old wine. Yeast secretes some sweet scent that'll attract the fruit flies. 1. Simply pour half a glass of fresh or old beer into some mason jar that's covered with a lid. Place the bottle of glass with the beer at the area where you saw the fruit flies. 2.
 
@@ -57,7 +57,7 @@ Hammer some holes on the lid of the metal lid covering the bottle, glass or jar.
 
 *WhyBeer (Alcohol) works: * Similar to the case with vinegar, the smell of beer or wine attracts fruit flies. However, you can also some some drops of the dish soap that'll consequently act like glue.
 
-# # 4. Liquid Soap + Water + Light
+##  4. Liquid Soap + Water + Light
 
 Our next fruit fly trap will be using water plus liquid soap. For this trap, you'll simply mix the liquid soap and the water in a bowl. 1. Mix soap + water in the bowl until is creates a foamy and bubbly bath. 2. Next, position the bowl with the foamy water under some bright light such as stove lights or other lamps. 3. The light from your source will create a reflection that'll attract the fruit flies.
 
@@ -67,7 +67,7 @@ Next, roll down some paper cone into your jar - ensure that it sticks. Place the
 
 Thus, the odor of the smelling fruit in the mixture will attack the fruit flies. However, the fruit flies won't easily climb up the paper cone and thus they'll be trapped in the jar.
 
-# # Conclusion
+##  Conclusion
 
 How to prevent a fruit fly infestation. The surest way of preventing a fruit fly infestation is by avoiding to attract them at all. Therefore, the main considerations would be maintaining a clean dining area and kitchen.
 

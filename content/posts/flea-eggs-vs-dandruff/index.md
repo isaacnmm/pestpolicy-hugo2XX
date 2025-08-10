@@ -19,11 +19,11 @@ Sometimes it is not easy to tell the difference between flea eggs vs. dandruff t
 
 *** ***When you spot small white flakes on your pet's skin, it might be easy to jump to conclusions without knowing the difference between dandruff and [flea](https: //pestpolicy. com/what-do-flea-eggs-look-like/) eggs - flea eggs can be killed by vacuuming while adults through flea bombs. ***
 
-# # Flea Eggs vs. Dandruff - How to Tell the Difference?
+##  Flea Eggs vs. Dandruff - How to Tell the Difference?
 
 Panic can set in, especially with the prospect of having a flea infestation, but you should not panic until you know exactly what you are dealing with. One of the first things to note is whether the specks you are seeing remain on your pet for a prolonged time; if so, it is likely dandruff because this is a persistent condition, whereas flea eggs will only be present a brief time before they hatch.
 
-## # Flea Eggs
+###  Flea Eggs
 
 If you have become aware of your pet seeming irritated or scratching a lot more than they usually do, you may have considered the fact that they could have fleas - your yard has critters? Try yard flea spray. If you have noticed white specks on them also, this may further your belief. But there are ways to successfully determine if what you are seeing are real, flea eggs. - Flea eggs tend to be much thickerin their size than dandruff.
 
@@ -37,7 +37,7 @@ If your pet is suffering from fleas, you will certainly want to tackle the probl
 
 Related: Do Fleas Bite Humans?
 
-## # Dandruff
+###  Dandruff
 
 Dandruff is essentially flakes of dry skin, and it can affect both humans and animals - they'll come off when flea comb cats or flea combs for dogs. It is a lot more common than many people would care to admit, but it can be mistaken for flea eggs to the untrained eye.
 
@@ -53,6 +53,6 @@ You might also find that your pet suffers from dandruff after trauma to the skin
 
 - Keep your pet's diet balanced and varied; good nutrition is essential for maintaining good skin health.
 
-# # Conclusion
+##  Conclusion
 
 If you see white flecks within your pet's fur, panic may set in, and concerns might begin as to whether these are flea eggs or dandruff. - However, the two can be easily told apart if you know what you are looking for. Similarly, no matter which condition you find yourself confronted with, both can be easily treated using simple methods.

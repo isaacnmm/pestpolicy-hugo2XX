@@ -49,7 +49,7 @@ This feature, combined with its dual wall and ceiling mount compatibility, makes
 
 This article will delve into the key features of the ReVent Wall Mount Roomside Install Bath Exhaust Fan, highlighting why it's becoming a go-to choice for both DIY enthusiasts and professional installers seeking efficiency and flexibility.
 
-# # Conclusion: A Versatile Solution
+##  Conclusion: A Versatile Solution
 
 The ReVent Wall Mount Roomside Install Bath Exhaust Fan series represents a significant step forward in residential bathroom ventilation. By innovating the installation process with its "roomside" access, and offering versatile wall and ceiling mounting options, ReVent addresses some of the most common pain points associated with fan replacement and new installations.
 

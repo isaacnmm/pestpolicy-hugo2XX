@@ -18,9 +18,9 @@ If youre looking for the best spray paints for graffiti, youre just in time for 
 
 On [choosing paints](http: //www. ced. berkeley. edu/downloads/pubs/facilities_mch/mch_spraypaint. pdf), for a clean wall you'll use glossier paint and won't need to considered paint adherence. But, for brick or concrete outdoor painting, use heavy paints that'll easily stick on the surface. But what's the best stain for a swing set?
 
-# # s: 7 Best [Spray](https://pestpolicy.com/best-spray-paint-for-metal/) Paints for Graffiti in 2025
+##  s: 7 Best [Spray](https://pestpolicy.com/best-spray-paint-for-metal/) Paints for Graffiti in 2025
 
-## # [1. Montana BLACK Mural/ Graffiti Spray Paint Set](https://www.amazon.com/dp/B010GY2QWO/?tag=p-policy-20)
+###  [1. Montana BLACK Mural/ Graffiti Spray Paint Set](https://www.amazon.com/dp/B010GY2QWO/?tag=p-policy-20)
 
 Montana BLACK is a fluorescent Spray for [plastic spray paint](https: //pestpolicy. com/best-spray-paints-for-plastic/), graffiti artists, or muralists. The set has 12 colors; infra green, infra yellow, infra violet, infra orange, infra pink, and infrared. It is also suitable for harsh weather seasons like during heavy rains or winter.
 
@@ -34,7 +34,7 @@ Pros: - Compatible with acrylic paints - Works well even for harsh weather like 
 
 Cons: - Susceptible to clogging
 
-## # [2. Krylon K05592007 Graffiti COLORmaxx Spray](https://www.amazon.com/dp/B07LFXGDWK/?tag=p-policy-20)
+###  [2. Krylon K05592007 Graffiti COLORmaxx Spray](https://www.amazon.com/dp/B07LFXGDWK/?tag=p-policy-20)
 
 Krylon K05592007 is a high-quality graffiit paint that's appropriate for spaying on wicker, plastic, amnd metal. I noted that wihton 10 minutes to 2 hours, the graffiit paint will be dried.
 
@@ -48,7 +48,7 @@ The paint is put ina sprayer with a big spray tip that's button-shaped and hence
 
 Cons: - Protect the surrounding area
 
-## # [3. Krylon K05592007 Graffiti COLORmaxx Spray](https://www.amazon.com/dp/B07LFXGDWK/?tag=p-policy-20)
+###  [3. Krylon K05592007 Graffiti COLORmaxx Spray](https://www.amazon.com/dp/B07LFXGDWK/?tag=p-policy-20)
 
 MTN 94 graffiti Paint is a versatile aerosol that has low pressure and it comes with a broad opacity color range that will dry quickly. The spray works great for your creative work to give some matte finish.
 
@@ -62,7 +62,7 @@ Pros: - Excellent under fluorescent or blacklights - Quick-drying - I noted that
 
 Cons: - Not fade or UV resistant
 
-## # [4. Molotow Belton Graffiti Premium Spray Paint for Artists](https://www.amazon.com/dp/B07Q393KZX/?tag=p-policy-20)
+###  [4. Molotow Belton Graffiti Premium Spray Paint for Artists](https://www.amazon.com/dp/B07Q393KZX/?tag=p-policy-20)
 
 MTN 94 graffiti Paint is a versatile aerosol that has low pressure and it comes with a broad opacity color range that will dry quickly. The spray works great for your creative work to give some matte finish.
 
@@ -76,6 +76,6 @@ Cons: - None
 
 See Also: Best Paint Sprayer for Interior Walls
 
-# # Conclusion
+##  Conclusion
 
 The best spray paints for graffiti - besides graffiti spraying, you can use this paint for canvas work allowing the emphasizing of the background and thus very visible. For artistic application, you must be experienced enough to work with spray paints. For beginners, with the [right precautions](https: //www. osha. gov/dts/maritime/sltc/ships/surfaceprep/spray_painting. html), you can go with the budget Rust-Oleum or Krylon models.

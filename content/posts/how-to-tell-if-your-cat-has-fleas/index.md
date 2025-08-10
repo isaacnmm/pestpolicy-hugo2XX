@@ -25,7 +25,7 @@ Cats can be prone to fleas, a common pest that if left untreated could inflict f
 
 .. .again? Let's get started!
 
-# # What*Are*these Cat Fleas?
+##  What*Are*these Cat Fleas?
 
 Cat fleas, also known as Ctenocephalides felis - parasitic insects, are a type of insect that feeds on the blood of cats as their host.
 
@@ -35,7 +35,7 @@ In order to reproduce, adult cat fleas need a large amount of blood from a host 
 
 - which rapidly increases their population.
 
-# # How do I tell a Flea on your Cat?
+##  How do I tell a Flea on your Cat?
 
 Fleas are reddish-brown bugs that mainly live on cats - which lets them hide as they move through the host's hair.
 
@@ -47,7 +47,7 @@ Fleas will first appear like specks caught in your pet's fur - or some specks of
 
 The small black specks ( flea dirt ) on your cat can be indicative of fleas. Also, bite marks (Red spots) can also denote a flea infestation. - Fleas are most active and will reproduce best at a temperature of 35C & relative humidity of 70%. Houses and pets in regions where the temperature falls below this for more than 40 hours every month won't have much flea activity.
 
-# # Details: How To Tell If Your Cat Has Fleas?
+##  Details: How To Tell If Your Cat Has Fleas?
 
 In order to produce eggs, fleas only need to take a single full-blood drink from their host - cat or dog.
 
@@ -55,17 +55,17 @@ Female fleas can lay as many as 30-50 eggs a day by the time they reach maturity
 
 Therefore, to control this massive reproduction, you must be vigilant about infestation symptoms. Below is a video describing what you should look for if you suspect your cat has fleas.
 
-## # Sign 1 - Anemia and Itchy Bites
+###  Sign 1 - Anemia and Itchy Bites
 
 Fleas are highly irritating, and many pets have little tolerance when it comes to biting at their fur in order to relieve the itch. - If your cat or dog is scratching itself excessively or licking its coat for a long time, it may have fleas on them. If your cat has anemia, it may be because of flea infestation.
 
 The [**anemia signs in your cat**](https: //ecommons. cornell. edu/bitstream/handle/1813/34727/Vet_FHT_1990_Fall. pdf? sequence=1) include; - Loss of energy, - A low appetite - Consistent loss of hair on the body - Weakness - Pale gums If these signs appear, call your vet right away because fleas can carry many life-threatening organisms, such as tapeworms and ear mites.
 
-## # Sign 2 - Restless Behavior
+###  Sign 2 - Restless Behavior
 
 If your feline friend is excessively scratching and biting on the skin, it could be a sign of flea bites. - Cats shake their head from side to side in distress if they feel that fleas are on their fur and you may have also noticed the cat grooming itself excessively. If you observe your cat acting restless most of the time, it might be because they have fleas.
 
-## # Sign 3 - Bite Marks ad Huge Hair Loss
+###  Sign 3 - Bite Marks ad Huge Hair Loss
 
 If you're noticing hairless patches of skin where there should be fur - that's another sign that something's been chewing away at it like a hungry rodent!
 
@@ -77,7 +77,7 @@ Some cat owners may notice hair loss on the hindquarters, in addition to black p
 
 The first thing to do is [buy a flea comb](https: //pestpolicy. com/best-flea-comb-for-cats/): youll want a densely jointed comb with closely set teeth, which are designed to pick out even the small insects. - One tactic that can help with spotting fleas in cats is to put a white towel or paper near the animal and comb through his fur. - Also, keep a bowl of soapy water handy as you comb your cat to douse any live fleas that might be picked up.
 
-## # Sign 4 - Excessive Grooming
+###  Sign 4 - Excessive Grooming
 
 Cats are for the most part independent and can take care of themselves; they need to look stylish, and because it makes them feel good too.
 
@@ -89,13 +89,13 @@ These small, dark-brown, jumping creatures are very common during the spring and
 
 If you notice any of these symptoms, it's best that you schedule a veterinary appointment for remedies, especially if your cat is scratching excessively. - And remember - cats can carry flea eggs on their fur so keep an eye out as well! If left untreated; they could pass them onto other animals (or humans) in the home too. - Some solutions include topical ointments like Hartz Kitten Guard, Frontline Plus, Advantage Multi or Advant
 
-## # Sign 5 - Flea Dirt or Flea Droppings
+###  Sign 5 - Flea Dirt or Flea Droppings
 
 Flea dirt, which is made up of digested blood from the animal's last meal, can be differentiated from fleas or dirt by sprinkling it with water while it is lying on the white paper towel. - If the dirt turns[reddish-brown or red when wet](https: //www. vetmed. ucdavis. edu/hospital/animal-health-topics/dermatology-fact-sheets), it could be because the flea has passed digested blood out and deposited it on the cat.
 
 Flea dropping (flea dirt) are black grains of feces, sometimes with a brownish tint, you'll find in your *bedroom or the * pet's bedding. - Signs of flea dirt on the cat's fur can be visible with a black light. The small particles show up as white or yellowish-white spots against dark areas, such as near the tail and between the toes.
 
-## # Sign 6 - Environmental Cues
+###  Sign 6 - Environmental Cues
 
 Next, look in the places where he or she spends a lot of time such as beds, couches, and carpets. You're checking for black specks (flea dirt) and fleas too.
 
@@ -103,7 +103,7 @@ Check the areas where your cat likes to sleep, such as on top of the refrigerato
 
 Use a dawn soap solution in a bow and a light nearby to attract and drown the fleas.
 
-# # In Conclusion:
+##  In Conclusion:
 
 If your cat is scratching more than usual but you've treated them for fleas, it's time to chat with your vet.
 

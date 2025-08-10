@@ -19,7 +19,7 @@ House Lizard Lifespan - Probably you have come across the house lizard (commonly
 
 However, this lifespan is subject to factors such as the care given, environment/climate and availability of basic needs for the house lizard. ** **Some house lizards may even live slightly longer than 6 years if the above factors are maintained. On the other hand, skin shedding problems and wounding occurrences may lower the lifespan of the house lizards. **
 
-# # What's the House Lizard Lifespan?
+##  What's the House Lizard Lifespan?
 
 The house lizard (also known as house gecko) has a life span of 4 to 6 years on average. This period is subjects to factors such as environment/climate, care given and availability of basic needs. Most of the house lizards are faced with problems of wounding and skin shedding which lower their life span. For those house lizards that are well taken care of, they live slightly longer than 6 years.
 
@@ -27,7 +27,7 @@ The oldest House Lizard that ever lived recorded 27 years.
 
 House lizards are known to hatch in 60 days after which they grow to maturity in a couple of months (12 months) before breeding. Related: What Does a Garden Lizard Eat?
 
-# # **General Factors that affect the Lifespan of House Lizard**
+##  **General Factors that affect the Lifespan of House Lizard**
 
 The lifespan of the House lizard is affected by the following factors. **1. Environment/Climatic conditions. ** House lizards are known to live in warm environment. Being cold blooded (ectothermic), these reptiles are adversely affected by change in temperature (sudden rise or fall). You must ensure that your pet house lizard has suitable/optimal warmth in its cage.
 
@@ -47,7 +47,7 @@ You can even hide food for your house lizard to make it do something else.
 
 House lizards that have been given continuous proper care have lived even more than 6 years.
 
-# # **Health Problems That Affect the Lifespan of House Lizard**
+##  **Health Problems That Affect the Lifespan of House Lizard**
 
 The following are problems that affects the lifespan of the House Lizards mostly: **1. Wounding Problem. ** House lizards have soft skin that is easily wounded. Scratch from the walls or spikes on the house lizards skin cause mild to severe wounds. Normally, House Lizards would prefer to roll on soft surfaces. You must ensure that the substrate in the cage does not cause injuries on landing or while moving about.
 
@@ -65,7 +65,7 @@ This cause the gecko to lose a lot of energy during replacement. In addition, th
 
 To prolong the lifespan of your pet house lizard, do not hold it by the tail. Instead, lift your house lizard by the chest. Moreover, do not cause tension to your house lizard while in its cage too.
 
-# # Weird Life Behaviors of House Lizard
+##  Weird Life Behaviors of House Lizard
 
 House lizard has several weird behaviors that you may need to know. These behaviors include: 1. **Eating their own shed skin**. Gecko eat their skin -[using their teeth](https: //pestpolicy. com/do-lizards-have-teeth/)- as soon as it is shed. You may not notice that, however, you will find a change in its new skin color. 2. **Female is parthenogenesis. **This mean that the female house lizard does not need a male to reproduce always.
 
@@ -77,6 +77,6 @@ However, it has been found that such offspring lack a certain gene needed for di
 
 This is done when the gecko detects danger during which it uses this method as a defense mechanism since the predator your tend feed on the tail and let go the lizard. Related: [Are Lizards Poisonous? ](https: //pestpolicy. com/are-lizards-poisonous/)
 
-# # Conclusion
+##  Conclusion
 
 House lizards have a lifespan of 4 to 6 years on average. However, this period is subject to factors such as care given, environment/climate and availability of basic needs for the house lizards. Some House lizards may even live slightly longer than 6 years under proper care. Skin shedding problems and wounding occurrences may lower the lifespan of the house lizards. Consult your vet on your gecko care always.

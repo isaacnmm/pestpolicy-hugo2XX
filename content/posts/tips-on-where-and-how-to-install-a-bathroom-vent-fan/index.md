@@ -55,7 +55,7 @@ Improper placement or a flawed installation can severely diminish a fan's perfor
 
 This guide will provide essential tips and a comprehensive overview of the installation process, from selecting the ideal unit and pinpointing its optimal location to the hands-on steps of securing and wiring it, ensuring your bathroom remains fresh, dry, and protected for years to come.
 
-# # Determining the Ideal Fan Location
+##  Determining the Ideal Fan Location
 
 Strategic placement is critical for effective moisture removal.
 
@@ -71,7 +71,7 @@ If your desired location falls directly under a joist, you'll need to either shi
 
 Minimizing duct length and bends reduces air resistance and improves fan efficiency.
 
-# # Important Installation Tips
+##  Important Installation Tips
 
 * **Always Vent to the Outside: ** Never vent into an attic, soffit, crawl space, or wall cavity. This will cause severe moisture damage and mold. * **Insulate Ductwork: ** If the duct runs through an unconditioned attic space, use insulated ducting or wrap rigid ducting with R-8 insulation to prevent condensation inside the duct.
 
@@ -81,7 +81,7 @@ Each 90-degree bend significantly reduces efficiency. * **Secure All Connections
 
 * **Backdraft Dampers: ** Ensure the fan itself and the exterior vent cap both have functioning backdraft dampers to prevent cold air, hot air, or pests from entering.
 
-# # Final Thoughts
+##  Final Thoughts
 
 Properly installing a bathroom vent fan is a vital investment in your home's health and longevity. By carefully selecting the right fan, determining its optimal placement, and diligently following the installation steps especially concerning safe electrical work and correct ducting practices you can ensure your bathroom remains a fresh, dry, and comfortable space, protected from the damaging effects of excessive moisture.
 

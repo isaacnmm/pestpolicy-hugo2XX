@@ -22,9 +22,9 @@ Could you be having challenges while differentiating between the Dog Ear Mites a
 
 ** Related: [Best Ear Mite Medicine for Dogs](https: //pestpolicy. com/best-ear-mite-medicine-for-dogs/)
 
-# # Differences between Dog Ear Mites Vs Yeast Infection
+##  Differences between Dog Ear Mites Vs Yeast Infection
 
-## # 1. Cause of Infections.
+###  1. Cause of Infections.
 
 Dog Ear Mites ( **also known as Otodectes cynotis mites** ) is caused by very tiny parasites (you may not see them with your naked eye you need a microscope) called ear mites which are classified under mange. These parasites feed on wax within the ear lobe and ear canal causing severe irritations and red inflammations/swellings that are very painful on touch. **On the other hand, Yeast infection** is caused by yeast growth within the ear canal.
 
@@ -32,7 +32,7 @@ The Yeast infections can also result from the following sources: Trapped debris 
 
 Moreover, Increased amount of oil produced in the skin, Medications such as corticosteroids, Fungus sources, Chemotherapy, Exposing dog to hot, humid weather, Using medical catheter or Weaken immune system will lead to yeast infections too. These clog the ear way-causing odor and a brownish greasy stinking discharge from the inner ear.
 
-## # 2. Signs and Symptoms.
+###  2. Signs and Symptoms.
 
 **Dog Ear Mites** is characterized by the following signs and symptoms: Severe scratching of both inner and outer ear parts, Reddish Inflammations that may be bleeding, Clamps in the ear canal and Frequent itching at neck region.
 
@@ -44,7 +44,7 @@ Other Yeast infections symptoms include: Recurrent of otitis externa, Drooling a
 
 **However, ** Dog Ear Mites and Yeast Infections have the following similarities in signs and symptoms: General body weakness, Body hair loss in other parts, Loss of appetite, Dog generates hearing problems, Laxity or dog frequently rolling abnormally.
 
-## # 3. Diagnosis process.
+###  3. Diagnosis process.
 
 To diagnose your dog Against Ear Mites, your will need to Use veterinary or Ear mites professional. This is the best way. The veterinarian may ask you some question concerning your dogs health in order to assess some of the possible cause or symptoms.
 
@@ -58,7 +58,7 @@ You can also carry out ** Skin biopsy. ** Using a biopsy punch, obtain a small s
 
 It is necessary to bring other pets for checkup so that treatment can begin immediately (in case they are found infected). *NB: Ensure that you always put on the medical/protection gears while carrying out any diagnosis. Label all diagnosed dogs/pets appropriately. *
 
-## # 4. Treatment Methods
+###  4. Treatment Methods
 
 **Dog Ear Mites can be treated** using various ear applications. These solutions are manufactured with ability to get rid of the eggs, larvae and adult ear mites.
 
@@ -74,11 +74,11 @@ After that, bathe your dog using anti-fungal shampoo containing ketoconazole, mi
 
 The oil also ensure the ear skin is always soft and smooth for quick healing. *NB: All treated dogs/pets should be kept separate from others/healthy ones. Medicines should be kept safe and away from children. *
 
-# # Similarities between Dog Ear Mites Vs Yeast Infection
+##  Similarities between Dog Ear Mites Vs Yeast Infection
 
 Similarities between Dog Ear Mites and Yeast Infections can be seen in the following areas:
 
-## # 1. Transmission.
+###  1. Transmission.
 
 Dog Ear Mites and Yeast Infections are highly contagious. They can be transmitted to other healthy dogs and animals such as cats, rabbits and even rats in similar ways.
 
@@ -88,7 +88,7 @@ It is important to note that Dog Ear Mites and Yeast Infections are mainly trans
 
 You must minimize the interaction of ear mites/Yeast infected dog with others even if you will have keep it away completely. **NB: Dog Ear Mites cannot be transmitted to humans**
 
-## # 2. Prevention methods.
+###  2. Prevention methods.
 
 Both, the Dog Ear Mites and Yeast Infection shares common preventive methods. You can therefore use any of the following ways to prevent Dog Ear Mites and Yeast Infection on your dogs: - Carry out frequent medical checkup from a veterinary or specialist. - Clean your dog regularly with anti-fungal or anti-bacteria shampoo that are vet approved. - Disinfect your dogs kennel often. - Avoid visiting crowded area with your dog.
 
@@ -96,7 +96,7 @@ Both, the Dog Ear Mites and Yeast Infection shares common preventive methods. Yo
 
 - Trimming your dogs hair and keeping it neat. - Disinfect your dogs kennel with Ear mites/Yeast Infection disinfectants. - Avoid social interaction of your dog with others though playing. - Ensure that dogs clothes are well cleaned and treated.
 
-## # 3. Side Effects.
+###  3. Side Effects.
 
 Dog Ear mites and Yeast Infections are dangerous infections if not treated immediately. They cause continuous irritation and severe pain on your dog this creates discomfort.
 
@@ -104,13 +104,13 @@ There is high loss of blood that is associated with Dog Ear Mites and Yeast Infe
 
 Moreover, continuous ill health resulting from Dog Ear Mites and Yeast Infections may lead to general body weakness and this may eventually kill your dog. **Importantly**, these two infections spread rapidly thus overcoming your dogs healthy life in a couple of days. Research shows that most dogs die of Ear Mites and Yeast Infections yearly if not addressed at their mild stage.
 
-# # Conclusion
+##  Conclusion
 
 Dog Ears Mites are infections caused by parasites called ear mites whereas yeast infections are initiated by yeast and fungi growth within the ear canal.
 
 Though Dog Ear Mites and Yeast Infections have close similarities in symptoms, there exist great disparities. You must, therefore, maintain close diagnosis to help you offer proper medication. Always observe preventive measures highlighted in this article.
 
-# # Sources:
+##  Sources:
 
 1. [Dog Ear Mite Infestation: a Possible Problem in Public - NCBI](https: //www. ncbi. nlm. nih. gov/pmc/articles/PMC3385579/) 2. [Fungal Infections in Dogs - Dog Owners - Merck Veterinary](https: //www. merckvetmanual. com/dog-owners/disorders-affecting-multiple-body-systems-of-dogs/fungal-infections-in-dogs) 3. [Ear mite infestation in two dogs and its therapy - Semantic](https: //pdfs. semanticscholar.
 

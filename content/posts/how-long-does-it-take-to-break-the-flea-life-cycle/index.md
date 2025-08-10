@@ -23,11 +23,11 @@ By breaking the flea life [cycle](https: //pestpolicy. com/flea-life-cycle/), yo
 
 When breaking the flea life cycle, it is important to identify the size of the infestation, type of infested items (is it pets, humans, or furniture), prevailing weather conditions, and possible source of infestation.
 
-# # How Long Does It Take To Break the Flea Life Cycle?
+##  How Long Does It Take To Break the Flea Life Cycle?
 
 Select a flea termination method that is environmentally friendly and safe for both pets & human beings. Remember, if you are new to the flea-breaking process; contract a professional exterminator for help.
 
-## # a. Egg Stage Break Period
+###  a. Egg Stage Break Period
 
 Upon mating, the female flea lays up to 50 eggs per day on the host - this could be your carpet, furniture, dog, cat, or rag. Eggs easily fall from the host and thus end up spreading in different places. - These eggs will hatch after 6 to 14 days on average. However, this period decreases in warmer temperatures (warmth favors the hatching process).
 
@@ -41,7 +41,7 @@ This method may not work effectively, especially when adult fleas fail to lay eg
 
 In addition, you may fumigate the area far before eggs are laid, thus making the method ineffective.
 
-## # b. Larvae Stage Break Period
+###  b. Larvae Stage Break Period
 
 Upon hatching (after about 14 days or so) flea's eggs become larvae. These are generally tiny worms that hide deepest into the host's skin, hair, or furniture usually, larvae are scared away by the light, and hence difficult to see them during the day. The larvae stage is the largest in the flea cycle (about 58% of the population).
 
@@ -51,7 +51,7 @@ By breaking the larvae stage, you will reduce or eliminate fleas' population far
 
 Flea larvae stage stays for 21 to 37 days, after which they change to pupae. Actually, you are advised to continuously undertake larvae elimination at least twice a week for 2 to 3 months at most in order to break the entire link.
 
-## # c. Pupae Stage Break Period
+###  c. Pupae Stage Break Period
 
 The flea pupae stage takes about 2 to 3 weeks to mature into an adult. However, it may take even 6 months while still in its cocoon until it finds a live host - recall that flea feeds on blood and hence needs to get a host for meal. - Though the flea pupa stage is not pronounced as compared to the later ones, this stage is the most cumbersome to break. Why because, most methods tend to fail in killing the live pupae while its still in the cocoon.
 
@@ -63,7 +63,7 @@ The flea pupae stage takes about 2 to 3 weeks to mature into an adult. However, 
 
 Normally, you should [vacuum your home or furniture thoroughly](https: //pestpolicy. com/how-to-get-rid-of-fleas-in-the-house-fast/) after steam cleaning - helps pick up dead and live pupae too. The vacuumed waste should be burnt sufficiently during disposal.
 
-## # d. Adult Stage Break Period
+###  d. Adult Stage Break Period
 
 The adult flea plays a vital role in the propagation of the flea life cycle - reproduction. Actually, it's the adult fleas that mate and lay eggs that bring forth a new generation. - By breaking the flea adult stage, you will be focusing on the root cause of flea infestation, which is often overlooked. Adult fleas are highly visible since they move by jumping on their host. They account for about 2% of the entire population.
 
@@ -73,7 +73,7 @@ Superheated steam (above 100 degrees) kills adult fleas completely.
 
 You can opt to soak fleas infested items in soapy water too - the fleas are suffocated to death. The process of breaking the adult flea life cycle should be undertaken weekly for about 5 months case of large flea infestation. Keen monitoring should also be carried out after the breaking period to assess any future re-infestation. Related: [Home Remedies for Fleas](https: //pestpolicy. com/home-remedies-for-fleas/)
 
-## # e. Entire Life Cycle Break Period
+###  e. Entire Life Cycle Break Period
 
 At times, it may not be possible to eliminate a particular stage of the flea's life cycle. Therefore, it's recommended to have a suitable alternative that breaks its entire stages. Killing the whole flea life cycle (eggs, larvae, pupae, and adult) guarantees safety and security to both pets and human inhabitants.
 
@@ -85,15 +85,15 @@ The vacuuming method is just sufficient enough in eliminating the entire flea li
 
 However, you must be keen on the labels that ascertain required properties and safety accrued to areas you intend to use upon. By the fact that a single flea can lay over 15 times in a year (over 2000 eggs); then, going for a method that would kill the entire life cycle is highly recommendable. Generally, it will take 1 to 6 months to break the entire flea life cycle and 4 months on average. Related: Will Baking Soda Kill Fleas
 
-# # Which Factors Affect the Flea Life Cycle?
+##  Which Factors Affect the Flea Life Cycle?
 
 Flea's life cycle is affected primarily by some of the following factors:
 
-## # 1. Temperature
+###  1. Temperature
 
 Low temperature (below 50 degrees) inactivates the flea's normal life. Actually, fleas become less active and tend to remain deep underneath the host's skin or infested items. - Contrary, warm temperatures favor fleas infestation - they tend to reproduce more and even become extra active on the surface. However, too much temperature (above 100 degrees) denatures the active enzymes in the flea body, thus leading to death.
 
-## # 2. Food/meal
+###  2. Food/meal
 
 Food (blood meal) is critical to any flea as it determines how many days it lives. As highlighted back in this article, upon changing into an adult, the pupae remain in its cocoon until it finds a host. - Actually, the host is meant to provide blood meals. Fleas will visit your room just to suck your blood for food.
 
@@ -101,41 +101,41 @@ Flea infestation in pet's beddings basically is just a waiting room for blood-su
 
 Without food, fleas will vacate or die eventually.
 
-## # 3. Host/Shelter
+###  3. Host/Shelter
 
 Fleas look for shelter in any host - this could be your furniture, rug, clothes, pet, or carpet. All fleas want is somewhere they can hide temporarily, as they look for their blood meal in the vicinity. - Fleas have a tendency of sucking blood and retreating to the hideouts - this is a trick used by bedbugs too. - Your pet beddings or hair will shield fleas sufficiently such that most of the time you may never see them with your naked eyes.
 
 The shelter is key and plays a great role in fleas' life only when it's located near the source of food. Otherwise, they will relocate or die out of starvation with time.
 
-## # 4. Humidity
+###  4. Humidity
 
 Too much much water content in fleas' shelters inhibits their life and survival. Usually, they get drown and die with time. Eggs laid on the wet or moist ground fail to hatch, while larvae die of extremely humid conditions.
 
-# # How to Tell if You Have Fleas in Your Place
+##  How to Tell if You Have Fleas in Your Place
 
 Below are ways to tell if you have fleas infestation in your place:
 
-## # a. Red bites and Inflammation
+###  a. Red bites and Inflammation
 
 Once you find red bites on your skin or small inflammation, the chance is that you were attacked by fleas. Unlike bedbugs, flea bites form reddish swell or inflammation. Moreover, the bites are scattered around a particular area
 
-## # b. Dried Blood Stains
+###  b. Dried Blood Stains
 
 When bitten by fleas, the bloodstain dries on the skin surfaces and forms a reddish scar. At times, you will find a broken bleeding skin that was just mild, especially when you wake up in the morning.
 
-## # c. Continuous Scratch by Pets
+###  c. Continuous Scratch by Pets
 
 Flea's bites leave an itching sensation. Usually, youll tend to scratch your skin as soon as you get bitten by a flea. If you pay close attention to your pet (a dog or a cat), it tends to scratch itself intermittently at different points as soon as it gets bitten. The scratching may last for one minute or so, but not specific.
 
-## # d. Live Jumping Flea
+###  d. Live Jumping Flea
 
 If you take a keen observation on flea-infested items, you will literally find live fleas jump. The jump could be even a foot wide, depending on where it wants to land. - Often, fleas jump from the host when they detect danger - perhaps when there is scratching or disturbance. Some jumps are short and continuous. You need to intentionally disturb the flea hideouts and make keen observations using your eyes.
 
-## # e. Flea Dirt
+###  e. Flea Dirt
 
 'Flea dirt' is actually the excrete that's left behind on their host. - Normally, you will see blood life stains or dried blood, which when touched detach easily from the skin surface. For large flea population (especially on pets), the infested area tend to appear reddish - for the case of dogs, it's around the neck region and ears. The flea dirt may settle on swollen flea bites too.
 
-# # How to Prevent Flea in Your Home
+##  How to Prevent Flea in Your Home
 
 The following are preventive ways of curbing flea infestation in your home: 1. Cleaning/washing all pets beddings, carpets, and rags in hot water (with soap) -plus dawn dish soap 2. All furniture and pets beddings, as well as cloths, should be vacuumed often and inspected against fleas 3. Usingfleas preventive foggersis recommended in a kennel where necessary 4.
 
@@ -145,7 +145,7 @@ Trim bushes and grass in your home to standard height within your home 6. Always
 
 Avoid mixing yourpets with others from outside they may be infected
 
-# # Conclusion
+##  Conclusion
 
 In summary, on how long does it take to break the flea life cycle, the direct answer is 1 to 6 months. However, this period may vary (either decrease or prolong) depending on the stage at which you decide to break the flea life cycle. Flea's life cycle breaking process will not only curb further growth but also inhibit breeding progress sufficiently. - Usually, a flea has four stages in its life cycle, i. e. eggs, larvae, pupae, and adult.
 

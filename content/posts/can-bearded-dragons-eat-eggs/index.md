@@ -19,7 +19,7 @@ Eggs constitute a major part of the human diet - most of us love them just like 
 
 Feeding the beardie with eggs provides them with proteins and vitamins such as vitamin A, B12, D, ** and E. However, since eggs contain a lot of proteins, bearded dragons should be given eggs once in a while. This is especially so for adult beardies which require fewer ** proteins in their diet. ** See Also: [Dragons Eat Mango](https: //pestpolicy. com/can-bearded-dragons-eat-mango/)
 
-# # Details:**Can Bearded Dragons Eat Eggs?**
+##  Details:**Can Bearded Dragons Eat Eggs?**
 
 In the right quantities, eggs are good for your bearded dragons. You can give them eggs to supplement the protein diet they get from feeders insect. Below is a summary of the benefits of eggs to your bearded [dragon](https: //pestpolicy. com/can-bearded-dragons-eat-bananas/). 1. **Eggs Contain Essential Vitamins and Minerals** Eggs contain vitamins and minerals which are essential to your bearded dragons health.
 
@@ -39,31 +39,31 @@ Typically baby beardies need 80% proteins and 20% vegetables. However, adults sh
 
 The liver may eventually fail to function effectively.
 
-## # **Can Bearded Dragons Eat Raw Eggs?**
+###  **Can Bearded Dragons Eat Raw Eggs?**
 
 A big NO to raw eggs! The bacterias present in raw eggs are likely to make your bearded dragon sick. You may end up with a dead beardie. Eggs should always be cooked before being fed to bearded dragons to kill the harmful bacterias.
 
-## # **Can Bearded Dragons Egg Shells?**
+###  **Can Bearded Dragons Egg Shells?**
 
 The risks of feeding your bearded dragon with egg shells outweigh the benefits. Although they are richer in calcium than the egg itself, they cannot be easily be digested. Even in their finest form, egg shells take long to be broken down once inside the beardies digestive system Also, because of the poor egg shell digestion, your bearded dragon may end up with lumps of shells in their stomachs which may cause impaction.
 
-## # **Can Bearded Dragons Eat Hard-Boiled Eggs?**
+###  **Can Bearded Dragons Eat Hard-Boiled Eggs?**
 
 Hard-boiled eggs come with all the nutrients contained in an egg including protein, minerals and vitamins. So, giving them to your beardie would be very beneficial to their growth and health. However, as earlier said, eggs should constitute a negligible percentage of their diet. Thats because too much protein can bring about health complications in future. They tend to become too fat and eventually suffer fatty liver disease.
 
-## # **Can Bearded Dragons Eat Scrambled Eggs?**
+###  **Can Bearded Dragons Eat Scrambled Eggs?**
 
 Scrambled eggs are just as good as hard-boiled eggs. Again, because of high protein issues, they should be feed in small quantities. However, they should not be cooked with fat the manner were used to prepare our eggs. The reason for this is to avoid adding more fat to their diet. Also, check whether Dragons Eat Tomatoes.
 
-## # **Egg Yolk vs Egg White: Which is Good for Bearded Dragon**
+###  **Egg Yolk vs Egg White: Which is Good for Bearded Dragon**
 
 Both egg white and egg yolk are good for bearded dragons. They contain vital nutrients that contribute to the well-being of your beardie. But owing to their high protein levels, bearded dragons should only have very little amounts of any of them.
 
-## # **Can Bearded Dragons Eat Quail Eggs?**
+###  **Can Bearded Dragons Eat Quail Eggs?**
 
 In terms of safety and nutritional value, quail eggs are just as good as chicken eggs. Similarly, you can only give your beardie small amounts of quail eggs because they contain too much protein.
 
-# # **How to Prepare Eggs for a Bearded Dragon?**
+##  **How to Prepare Eggs for a Bearded Dragon?**
 
 Now that you have confirmed that eggs are good for your bearded dragons, its time to know how to go about preparing an egg meal for your beardie. Therere two ways you can prepare eggs for the bearded dragon. **Scrambled Eggs** - Break the egg open and pour in a bowl. - Scramble until the egg white and egg yolk blends into a uniform paste.
 
@@ -79,7 +79,7 @@ You can serve it with their favourite vegetables such as kales, broccoli, collar
 
 See Also: [Bearded Dragons Eat Onions](https: //pestpolicy. com/can-bearded-dragons-eat-onions/)
 
-# # **Conclusion**
+##  **Conclusion**
 
 Eggs make a very nutritious diet for bearded dragons. Thats because they contain a variety of vitamins, minerals and proteins. However, because of the high protein content, they are only suitable as a once in a while treat. If youre already treating your beardies with an insect diet, they already have enough of protein in their bodies. Eggs can be given occasionally to give them variety. Excess protein will only make your pet very fat.
 

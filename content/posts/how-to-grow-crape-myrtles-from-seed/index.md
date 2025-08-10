@@ -24,7 +24,7 @@ It's a process that requires patience, as it's slower than other methods, but it
 
 Growing from seed can also introduce genetic variation, potentially yielding new flower colors or growth habits that differ from the parent plant, especially if the parent plant was a hybrid. This guide will walk you through each step, from collecting the tiny seeds to caring for your new crape myrtle trees.
 
-# # Collecting and Harvesting Crape Myrtle Seeds
+##  Collecting and Harvesting Crape Myrtle Seeds
 
 The journey begins with harvesting the seeds at the right time.
 
@@ -38,7 +38,7 @@ As they dry further, they will split open more completely, revealing tiny, winge
 
 A refrigerator is ideal for longer-term storage.
 
-# # How to Prepare Crape Myrtle Seeds for Planting
+##  How to Prepare Crape Myrtle Seeds for Planting
 
 Crape myrtle seeds benefit from a process called **stratification**, which mimics the natural winter conditions they would experience outdoors. This helps to break dormancy and encourages more uniform germination.
 
@@ -50,7 +50,7 @@ Crape myrtle seeds benefit from a process called **stratification**, which mimic
 
 However, given the small size of crape myrtle seeds, cold stratification is usually sufficient and less risky than physical scarification.
 
-# # Planting Crape Myrtle Seeds
+##  Planting Crape Myrtle Seeds
 
 Once stratification is complete, you're ready to plant.
 
@@ -66,7 +66,7 @@ Keep the soil consistently moist but not waterlogged throughout the germination 
 
 Germination can be erratic and may take anywhere from **2 weeks to 2 months** (or even longer) depending on the seed's viability, stratification success, and environmental conditions.
 
-# # Caring for Crape Myrtle Seedlings
+##  Caring for Crape Myrtle Seedlings
 
 Once your tiny crape myrtle seedlings emerge, they'll need gentle care to grow strong.
 
@@ -84,7 +84,7 @@ You can cover the seed tray with a clear plastic dome or plastic wrap, but remov
 
 Handle them by their leaves, not their delicate stems.
 
-# # Growing Crape Myrtles Outdoors
+##  Growing Crape Myrtles Outdoors
 
 Once your crape myrtle seedlings are established in their individual pots, it's time to prepare them for the outdoor environment.
 
@@ -96,7 +96,7 @@ They tolerate a wide range of soil types but prefer a slightly acidic to neutral
 
 Allow adequate space between plants and away from structures.
 
-# # Long-Term Crape Myrtle Care and Maintenance
+##  Long-Term Crape Myrtle Care and Maintenance
 
 Your newly planted crape myrtles will grow into mature, beautiful specimens with proper care.
 
@@ -108,7 +108,7 @@ Avoid over-fertilizing with high nitrogen, which can lead to excessive foliage g
 
 * **Winter Protection (for Young Plants): ** In colder parts of their hardiness range (Zones 6-7), young crape myrtles might benefit from a layer of mulch around their base for winter protection during their first few years.
 
-# # Alternative Propagation Methods
+##  Alternative Propagation Methods
 
 While growing from seed is rewarding, it's worth noting other popular methods:
 
@@ -116,6 +116,6 @@ While growing from seed is rewarding, it's worth noting other popular methods:
 
 * **Purchasing Plants: ** Buying established plants from a nursery offers instant gratification and ensures you get a specific named cultivar with predictable traits.
 
-# # Final Thoughts
+##  Final Thoughts
 
 Growing crape myrtles from seed is a fulfilling project that connects you more deeply with the natural life cycle of these magnificent plants. While it demands patience through the stratification and germination phases, watching a tiny seedling transform into a vibrant, flowering tree is a truly rewarding experience. Embrace the process, provide consistent care, and soon you'll be enjoying the stunning beauty of your homegrown crape myrtles.

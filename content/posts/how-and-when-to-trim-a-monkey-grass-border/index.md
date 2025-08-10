@@ -22,11 +22,11 @@ Trimming, while not a frequent requirement, plays a crucial role in rejuvenating
 
 Knowing when and how to trim your monkey grass border can make the difference between a tired, ragged edge and a vibrant, well-defined landscape feature. This guide will delve into the different types of monkey grass, the tools you'll need, and the simple steps to effectively trim your borders for optimal health and aesthetics.
 
-# # Types of Monkey Grass
+##  Types of Monkey Grass
 
 The term "monkey grass" is commonly used to refer to two distinct, yet similar, genera of evergreen, grass-like perennials: *Liriope* and *Ophiopogon*. While both are popular for similar landscape uses and share a similar common name, they have subtle differences that can influence their growth habit and how you might approach their maintenance.
 
-## # Liriope (*Liriope muscari* and *Liriope spicata*)
+###  Liriope (*Liriope muscari* and *Liriope spicata*)
 
 Often called "Lilyturf, " *Liriope* is perhaps the most common plant referred to as monkey grass.
 
@@ -38,7 +38,7 @@ Its clumping habit makes it relatively easy to maintain a defined border.
 
 Due to its aggressive spread, it requires more vigilance to keep its borders in check.
 
-## # Ophiopogon (*Ophiopogon japonicus* and *Ophiopogon planiscapus*)
+###  Ophiopogon (*Ophiopogon japonicus* and *Ophiopogon planiscapus*)
 
 Known as "Mondo Grass, " *Ophiopogon* species are typically smaller and have a finer texture than *Liriope*.
 
@@ -52,7 +52,7 @@ Like other Mondo Grass varieties, it's slow-growing and maintains a neat border 
 
 **Impact on Trimming: ** The primary difference relevant to trimming is their growth habit. Clumping *Liriope muscari* and all *Ophiopogon* varieties generally maintain their form better, requiring less frequent and less aggressive trimming. Creeping *Liriope spicata*, on the other hand, might require more frequent trimming or root pruning to keep its spreading nature in check and prevent it from encroaching on other plants.
 
-# # Tools For Trimming Monkey Grass
+##  Tools For Trimming Monkey Grass
 
 The right tools make trimming monkey grass borders easier, more efficient, and result in a cleaner cut that promotes healthier regrowth.
 
@@ -72,11 +72,11 @@ They are best for a uniform, straight cut.
 
 **Blade Sharpness: ** Regardless of the tool, ensure its blades are sharp. Dull blades tear and damage the grass, leaving ragged edges that turn brown and make the plant more susceptible to disease. Sharpen your shears or replace trimmer line regularly.
 
-# # Trimming Monkey Grass
+##  Trimming Monkey Grass
 
 The timing and technique of trimming monkey grass are crucial for its health and appearance. The goal is typically to remove old, tired, or brown foliage to make way for fresh, green growth.
 
-## # When to Trim Monkey Grass:
+###  When to Trim Monkey Grass:
 
 The best time to trim monkey grass is in **late winter or very early spring**, just before new growth begins to emerge.
 
@@ -90,7 +90,7 @@ If you wait until new growth is well underway, you risk cutting off new shoots, 
 
 * **Exception for Appearance: ** If you have an isolated patch of heavily browned or damaged foliage in the summer (e. g. , from severe drought or a specific localized issue), you can selectively snip out those individual dead blades with hand pruners, but avoid a widespread cut-back.
 
-## # How to Trim Monkey Grass:
+###  How to Trim Monkey Grass:
 
 The process is straightforward, but consistency is key for a uniform look.
 
@@ -110,7 +110,7 @@ Keep it moving to avoid shredding.
 
 6. **Water and Fertilize (Optional but Recommended): ** * After trimming, a good watering will help new growth emerge. * You can apply a light, balanced fertilizer (e. g. , a slow-release granular fertilizer) to encourage vigorous new growth. Follow product instructions carefully.
 
-## # What About Trimming for Creeping Liriope (*Liriope spicata*)?
+###  What About Trimming for Creeping Liriope (*Liriope spicata*)?
 
 For *Liriope spicata*, in addition to the annual cut-back, you might need to address its spreading habit.
 
@@ -118,7 +118,7 @@ For *Liriope spicata*, in addition to the annual cut-back, you might need to add
 
 * **Dividing: ** Every few years, you may need to dig up and divide overgrown clumps of *Liriope spicata* to prevent it from taking over.
 
-# # Trimming Monkey Grass: It's Simple
+##  Trimming Monkey Grass: It's Simple
 
 While "simple" might seem understated for landscape maintenance, trimming monkey grass truly is one of the more straightforward tasks, primarily due to the plant's resilience and low-fuss nature. The key takeaway is less about complex techniques and more about proper timing and sharp tools.
 

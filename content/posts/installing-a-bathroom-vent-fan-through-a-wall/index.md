@@ -63,7 +63,7 @@ Wall-mounted exhaust fans offer a direct path for humid air to escape to the out
 
 This guide will walk you through the process of choosing the right fan, step-by-step installation instructions, essential safety precautions, and maintenance tips, empowering you to effectively ventilate your bathroom and protect your home from moisture-related problems.
 
-# # Choosing the Right Wall-Mounted Vent Fan
+##  Choosing the Right Wall-Mounted Vent Fan
 
 Selecting the correct fan is crucial for optimal performance.
 
@@ -77,17 +77,17 @@ Some ceiling fans can be adapted, but a dedicated wall-mount unit simplifies ins
 
 **Wall Thickness Compatibility: ** Check the fan's specifications to ensure it's compatible with your exterior wall thickness. 5. **Features: ** Consider built-in lights, nightlights, humidistat sensors (automatic operation), or motion sensors.
 
-# # Maintenance and Troubleshooting
+##  Maintenance and Troubleshooting
 
 * **Regular Cleaning: ** At least every 3-6 months, remove the interior grille and vacuum the fan blades and motor housing to remove dust and lint. * **Exterior Check: ** Annually, inspect the exterior vent hood for blockages (bird nests, lint, debris) and ensure the damper is operating freely.
 
 * **Noise/Performance Issues: ** If the fan is still noisy or ineffective after cleaning, it may indicate a worn motor, a loose mounting, or a problem with the wiring.
 
-# # Safety Precautions
+##  Safety Precautions
 
 * **ALWAYS turn off power at the circuit breaker before starting any work. ** * **ALWAYS verify power is off with a voltage tester. ** * Wear safety glasses, a dust mask, and work gloves. * Use a sturdy ladder and follow ladder safety guidelines. * If unsure about any electrical work, consult a licensed electrician. * Ensure all exterior seals are watertight to prevent leaks into the wall cavity.
 
-# # Final Thoughts About Installing a Bathroom Vent Fan Through a Wall
+##  Final Thoughts About Installing a Bathroom Vent Fan Through a Wall
 
 Installing a bathroom vent fan through a wall is a practical and effective way to ensure proper ventilation, especially when ceiling access is limited. While it requires careful planning and adherence to safety protocols, the direct exhaust path often simplifies the process compared to complex attic duct runs.
 

@@ -21,7 +21,7 @@ Trees in pots bring vertical interest, shade, privacy, and architectural flair t
 
 While not every tree is suited for life in a pot, many species, particularly those with naturally slower growth rates or those that respond well to pruning, thrive in containers. The key is proper selection, appropriate container size, and consistent care. This guide will introduce you to 10 excellent tree choices for container gardening, along with essential tips for their care and common problem-solving.
 
-# # Container Gardening with Trees
+##  Container Gardening with Trees
 
 Growing trees in containers requires a slightly different approach than planting them in the ground. Their roots are confined, limiting access to nutrients and water, and making them more susceptible to temperature fluctuations. However, with the right approach, it's a highly rewarding endeavor.
 
@@ -35,7 +35,7 @@ Growing trees in containers requires a slightly different approach than planting
 
 * **Pruning: ** Essential for maintaining size and shape. * **Winter Protection: ** Crucial for non-hardy species in cold climates.
 
-## # 10 Trees to Grow in Containers
+###  10 Trees to Grow in Containers
 
 Here are 10 fantastic tree choices that generally perform well in pots, offering diverse forms, foliage, and features:
 
@@ -59,7 +59,7 @@ Here are 10 fantastic tree choices that generally perform well in pots, offering
 
 10. **Star Magnolia (_Magnolia stellata_): ** * **Why it's great: ** Early spring blossoms (often fragrant) before leaves emerge, compact size, attractive multi-stemmed form. * **Care Tip: ** Needs full sun to light shade, well-draining soil. Flowers are susceptible to late spring frosts.
 
-# # Caring for Trees Grown in Containers
+##  Caring for Trees Grown in Containers
 
 Consistent and specific care is vital for containerized trees to thrive.
 
@@ -81,7 +81,7 @@ This helps prevent the tree from becoming root-bound. * **Repotting: ** Every 2-
 
 Elevated pots can be buried in the ground for added protection.
 
-# # Common Problems and Solutions in Container Tree Gardening
+##  Common Problems and Solutions in Container Tree Gardening
 
 * **Yellowing Leaves: ** * **Cause: ** Most often overwatering (soggy soil, lack of drainage), underwatering, or nutrient deficiency. * **Solution: ** Check soil moisture, ensure drainage. Test soil pH. Apply appropriate fertilizer. * **Wilting: ** * **Cause: ** Underwatering (most common), overwatering (root rot), or extreme heat. * **Solution: ** Check soil moisture. If dry, water deeply. If soggy, check drainage and allow to dry out.
 
@@ -91,7 +91,7 @@ Elevated pots can be buried in the ground for added protection.
 
 * **Solution: ** Repot into a larger container or root prune and refresh potting mix. * **Winter Damage: ** * **Cause: ** Freezing temperatures damaging roots or branches. * **Solution: ** Provide adequate winter protection as described above.
 
-# # Final Thoughts
+##  Final Thoughts
 
 Growing trees in containers is a wonderful way to expand your gardening horizons, even if you have limited space. The right tree, combined with thoughtful container choice and consistent care, can transform any patio, balcony, or entryway into a vibrant, living showcase.
 

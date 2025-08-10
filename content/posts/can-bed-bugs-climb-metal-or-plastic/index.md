@@ -19,13 +19,13 @@ Can bed bugs climb metal or plastic? One of the worst bug infestations you can e
 
 Also, check our [list of ultimate drain cleaners](https: //pestpolicy. com/best-drain-cleaner//) as bed bugs can again come into your house through dirty drains.
 
-# # So,Can bed bugs climb metal or plastic?
+##  So,Can bed bugs climb metal or plastic?
 
 Bedbugs are very agile creatures that [can climb any surface](https: //njaes. rutgers. edu/fs1251/), so long as it has the right texture. Any surface that allows them some level of traction will be scaled with ease. However, bedbugs will find it hard to climb polished surfaces of materials like metals, glass, or plastic, although this wont be a problem if the climbing surface has got a layer of dust.
 
 Not to mention that bedbugs are very determined creatures that will go above and beyond the call of duty to find alternative routes to their ideal hiding spot. But do you know long bed bug bites last? If not, check this guide. The notion you might have of bedbugs' inability to climb metal is based on the fact that bedbugs generally prefer to harbor on wooden frames instead of metallic ones.
 
-# # How to Handle a Bedbug Infestation
+##  How to Handle a Bedbug Infestation
 
 You will be shocked just how relentless bedbugs are to turn you into their dinner. The fact that they cant climb metal or plastic comfortably should not guarantee you a good night's sleep. You must take additional measures to keep off their nasty and painful bites by killing the bed bugs or preventing multiplication.
 
@@ -37,7 +37,7 @@ If you genuinely have an infestation, chances are youll come across a few dead b
 
 This should be enough incentive for you to call a professional pest control service if you want the scourge to be successfully decimated swiftly and permanently.
 
-# # Familiar Hiding Places for Bedbugs
+##  Familiar Hiding Places for Bedbugs
 
 Bedbugs are masters when it comes to the art of hiding. Naturally, these parasites will [hide in the corners of our beds](https: //pestpolicy. com/where-do-bed-bugs-hide/) and between the sheets and wait patiently for you to go and sleep. Alternatively, you can kill the bed bugs using steam from bed bug steamers. Remember that they do not live off the hosts' bodies, so they have to find spots with proximity to their food source, your bed.
 

@@ -23,13 +23,13 @@ Some people prefer Borax Flea Killer for its natural properties. How long does i
 
 ** - **Within 24-48 hours, often ants will eat the borax bait and share it (especially the ****worker ants****) with the queen and other ants in the colony. ** That's what we'll be exploring in this article!
 
-# # Details: How Long Does It Take For Borax to Kill Ants?
+##  Details: How Long Does It Take For Borax to Kill Ants?
 
 For an ant, it can take anywhere from 24-48 hours to die after eating borax or boric acid bait. - Borax can kill ants, but the ants do their work for you. Forager or worker ants will carry the borax bait back to their nests and share it with other ants. Though it may take anywhere from 24-48 hours, the ants will feed and share the borax amongst themselves; this will gradually kill off an entire colony of ants, eventually killing their queen.
 
 Related: Bed Bugs vs. Ants
 
-# # Does Sprinkling Borax Help Kill Ants?
+##  Does Sprinkling Borax Help Kill Ants?
 
 **NO**. Sprinkling borax around your home won't kill ants. If you want to get rid of ants using borax, the insects have to eat it! That's where the borax ant bait comes in.
 
@@ -51,7 +51,7 @@ When you're done inspecting and bait-setting up, it's time to start the borax tr
 
 Related: [Remove Ants from Bathroom](https: //pestpolicy. com/how-to-get-rid-of-ants-in-the-bathroom/)
 
-# # How to Do Ant Baiting
+##  How to Do Ant Baiting
 
 On ant baiting, here are a few tips for getting ants to take your bait back to the colony, which will help ensure that you dont have any ants come back. - Avoid ant sprays - Sprays are an effective insecticide for killing any type of pest, but should not be used around ant baits. Spraying near your ants' bait usually deters or repels them from eating it. - Positions baits on trails - To work successfully, ant bait must be situated near trails.
 
@@ -63,7 +63,7 @@ These are scouts who help find food for their colonies - they will carry the bai
 
 - Remove food sources - Keep your home as clean as possible in order to help prevent ants from coming into contact with any food sources. Also, store all of your food inside containers that have tight-fitting lids.
 
-# # Will borax kill the queen ant?
+##  Will borax kill the queen ant?
 
 Borax or boric acid combined with a sugary substance to make a liquid bait will kill adultants including the queen. - But to kill ant larvae, create a borax bait with white sugar and borax (at a ratio of 1: 1) and mix these ingredients until they are thoroughly mixed. - The larvae are more sensitive than adult ants so this mixture is lethal for them and also kills some insects such as termites. - Place baits on ant trails.
 
@@ -71,13 +71,13 @@ This includes any surfaces where ants are found, such as railings, sidewalks, an
 
 - Also, leave out baits containing sugar after sunset since these become ineffective at night unless you add another attractant (such as sugary aphid honeydew) which will only work for ants that are attracted to sweet substances.
 
-# # Does 20 Mule Team Borax kill ants?
+##  Does 20 Mule Team Borax kill ants?
 
 Mixing 20 Mule Team Borax with sugar in a ratio as close to your count (for example if you have 50 ants then make it half sugar and half Borax) so each ant eats its share and dies.
 
 20 Mule Team Borax is very good at controlling a wide variety of insects. - Or perhaps it might be easier just to use borax, which you can find in stores. Related: 20 Mule Team Borax Pest Control
 
-# # How Does TERRO Ant Baits Kill Ants?
+##  How Does TERRO Ant Baits Kill Ants?
 
 TERRO liquid ant baits are pesticide-free bait that will attract and kill ants. - Alkaline borax is an ingredient found in many different products, but its safe to assume that having water close to boiling temperature will quickly solve any household ants coming into contact with your cereal, oatmeal or spices. The poison causes the ant's stomach to burst, killing almost instantly.
 
@@ -87,7 +87,7 @@ The borax in the bait will eventually kill the worker ants. However, it works sl
 
 Related: [Flying Ants vs. Termites](https: //pestpolicy. com/flying-ants-vs-termites/)
 
-# # Conclusion
+##  Conclusion
 
 On how long does it take for borax to kill ants: BORAX WORKS! Will Borax Kill The Queen Ant?
 

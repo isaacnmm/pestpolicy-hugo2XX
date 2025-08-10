@@ -47,7 +47,7 @@ This **"Guide to All the Parts of a Toilet Tank"** will demystify the inner work
 
 Let's lift the lid and explore the fascinating world inside your toilet tank!
 
-# # Flush Lever and Toilet Handle
+##  Flush Lever and Toilet Handle
 
 The **flush lever**, commonly referred to as the **toilet handle**, is the external component you interact with to initiate a flush. It's typically located on the side, front, or top of the toilet tank.
 
@@ -57,7 +57,7 @@ The **flush lever**, commonly referred to as the **toilet handle**, is the exter
 
 These are usually simple fixes involving tightening screws or replacing the chain.
 
-# # Toilet Fill Valve
+##  Toilet Fill Valve
 
 The **toilet fill valve** (sometimes called the ballcock, though modern fill valves often don't use a ball float) is the tall assembly located on the left side of the toilet tank. Its purpose is to refill the toilet tank with water after each flush.
 
@@ -65,7 +65,7 @@ The **toilet fill valve** (sometimes called the ballcock, though modern fill val
 
 A small refill tube (or fill tube) attached to the fill valve also directs a small stream of water into the overflow tube, which refills the toilet bowl's trapway. * **Common Issues: ** Constant running (fill valve not shutting off), slow filling, or no filling. These often indicate a faulty fill valve, which can usually be replaced as a complete unit.
 
-# # Overflow Tube
+##  Overflow Tube
 
 The **overflow tube** is a vertical pipe located in the center of the toilet tank, usually part of the flush valve assembly. It is slightly taller than the normal water level in the tank.
 
@@ -75,7 +75,7 @@ The **overflow tube** is a vertical pipe located in the center of the toilet tan
 
 The refill tube typically clips to the top of the overflow tube. * **Common Issues: ** None really, unless it's cracked (rare) or the refill tube is dislodged, preventing the bowl from refilling properly.
 
-# # Final Tip on Toilet Repair and Toilet Tank Parts
+##  Final Tip on Toilet Repair and Toilet Tank Parts
 
 Understanding these basic toilet tank parts empowers you to diagnose and often fix the most common toilet problems yourself. Most components are modular and relatively inexpensive to replace. When troubleshooting a running toilet, always start by checking the flapper and its chain, then move to the fill valve and float.
 

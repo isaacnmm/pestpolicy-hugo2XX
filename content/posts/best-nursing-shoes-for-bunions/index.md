@@ -20,9 +20,9 @@ Nurses with bunions need to invest in correct footwear to help alleviate or reli
 
 Related: [Best Shoes for Overweight Nurses](https: //pestpolicy. com/best-shoes-for-overweight-nurses/)
 
-# # Review: 7 Best Nursing Shoes for Bunions
+##  Review: 7 Best Nursing Shoes for Bunions
 
-## # [1. Dansko Women's Professional](https://www.amazon.com/dp/B001EJMYQO/?tag=p-policy-20)
+###  [1. Dansko Women's Professional](https://www.amazon.com/dp/B001EJMYQO/?tag=p-policy-20)
 
 Dansko Women's Professional are some of the Best Nursing Shoes for Bunions. They are extremely comfortable, supportive, and spacious to accommodate bunions. The shoes are for nurses or any other person who spends hours on their feet.
 
@@ -40,7 +40,7 @@ Youll also appreciate the different colour options that the Dansko professional 
 
 Cons: - You might need a break-in period
 
-## # [2. Drew Joy Women's Oxford](https://www.amazon.com/dp/B00RO78KRC/?tag=p-policy-20)
+###  [2. Drew Joy Women's Oxford](https://www.amazon.com/dp/B00RO78KRC/?tag=p-policy-20)
 
 Drew Joy Women's Oxford delivers ultimate comfort and pleasure for nurses with bunions thanks to the spacious interior and forefoot section that relieves pressure on painful bunions.
 
@@ -54,7 +54,7 @@ The two adjustable straps and loop closures make Drew Joy a dependable bunion sh
 
 Cons: - You might need to size up to get a perfect fit
 
-## # [3. SAS Time Out Men's Leather Walking Shoe](https://www.amazon.com/dp/B00ZPTBM1C/?tag=p-policy-20)
+###  [3. SAS Time Out Men's Leather Walking Shoe](https://www.amazon.com/dp/B00ZPTBM1C/?tag=p-policy-20)
 
 SAS Time Out is an excellent shoe for anyone with sensitive feet including bunions, diabetics, and others. Most wearers swear by the comfort and support the shoe provides.
 
@@ -72,7 +72,7 @@ Pros: - Traditional lace-up design for a customized fit - Comfortable - Supporti
 
 Cons: - Pricey
 
-## # [4. ECCO Men's Fusion Moc Oxford](https://www.amazon.com/dp/B0018E7PZK/?tag=p-policy-20)
+###  [4. ECCO Men's Fusion Moc Oxford](https://www.amazon.com/dp/B0018E7PZK/?tag=p-policy-20)
 
 ECCO Men's Fusion Moc Oxford is an excellent mens dress shoes thats ideal for male nurses with bunions. Its a supportive and comfortable shoe worth buying.
 
@@ -88,7 +88,7 @@ Therefore, if youre looking for a supportive and comfortable nursing shoe for bu
 
 Cons: - You might need to size down
 
-## # [5. Orthofeet 517 Mens Shoe](https://www.amazon.com/dp/B003OH84Z4/?tag=p-policy-20)
+###  [5. Orthofeet 517 Mens Shoe](https://www.amazon.com/dp/B003OH84Z4/?tag=p-policy-20)
 
 If youre looking for a perfect combination of comfort and style consider Orthofeet 517 Mens Shoe. This shoe is designed with excellent therapeutic features that help to ease painful bunions.
 
@@ -106,7 +106,7 @@ The heel cup has enough gel to provide protection against hard ground impact. Yo
 
 Cons: - A bit pricey
 
-## # [6. Skechers Women's Premium-Premix Slip-On Sneaker](https://www.amazon.com/dp/B000ARGWZA/?tag=p-policy-20)
+###  [6. Skechers Women's Premium-Premix Slip-On Sneaker](https://www.amazon.com/dp/B000ARGWZA/?tag=p-policy-20)
 
 Skechers Premium is a lightweight nursing shoe that delivers comfort, support, and stability. Most people with sensitive and other foot issues swear by Skechers Premium and its ability to relieve pain on problematic feet.
 
@@ -120,7 +120,7 @@ The cushioned footbed provides additional underfoot support and protection while
 
 Cons: - You might need to order a size higher
 
-## # [7. HOKA ONE ONE Men's Bondi 6 Running Shoe](https://www.amazon.com/dp/B0788TX9S5/?tag=p-policy-20)
+###  [7. HOKA ONE ONE Men's Bondi 6 Running Shoe](https://www.amazon.com/dp/B0788TX9S5/?tag=p-policy-20)
 
 HOKA ONE ONE Bondi 6 is a highly versatile shoe that works as excellent work and [running shoe](https: //pestpolicy. com/best-shoes-for-running-on-pavement/). It's underfoot is designed to prevent the wearer from straining as they walk or run.
 

@@ -18,7 +18,7 @@ As fleas search for food or flea dirt, they'll be attracted by different stimuli
 
 ** **Combining various stimuli such as movement, heat, and light (or shadows) will result in a higher attracting response on the fleas. **
 
-# # Details: Are Fleas Attracted to Heat? Thermotaxis?
+##  Details: Are Fleas Attracted to Heat? Thermotaxis?
 
 As noted above, cat fleas will get attracted to their hosts through stimuli and thermal cues or stimuli. Thermotaxis denotes the aspect of repulsion or attraction towards heat. - So, cat fleas are considered to be attracted and stimulated by heat or warmth - which means that they're positively thermotactic.
 
@@ -38,17 +38,17 @@ When the fleas emerge from the cocoons, they'll start searching for a blood meal
 
 The bugs will jump towards the heat source - as they'll get attracted to temperatures around 40C (104F). However, they'll still get attracted by temperatures rising to highs of 50C (122F); and thus the fleas could hitchhike a number of hosts due to variation in temperatures that attract them.
 
-# # Heat Alone won't Promote fleas' Host-Finding Habits
+##  Heat Alone won't Promote fleas' Host-Finding Habits
 
 Despite that heat or warmth will attract fleas, this cue (alone) won't work to attract the bugs towards their suitable hosts. - The bugs will orient their bodies to some warm gadget and aim to jump, but they'll only jump if there are other stimuli in the environment. For example, flea-control gadgets like flea traps that use just heat as their sole stimulus will not attract the bugs.
 
 - Further, for the flea trap using light, including some heat will not boost its fleas' attracting performance and host-detecting.
 
-# # Fleas Abandon their Hosts with Low Temperatures
+##  Fleas Abandon their Hosts with Low Temperatures
 
 Fleas will remain on their chosen host after they've landed on such animals. However, fleas will leave that host once it's dying or dead. - The bugs learn this if the body temperature of the host animals starts to drop. - Thus, the bugs will hitchhike another host or animal that is warm. Further, fleas may jump onto some predator's body after such an animal has killed a flea-infested prey.
 
-# # Pre-emerged Flea Adults on Hosts
+##  Pre-emerged Flea Adults on Hosts
 
 Pre-emerged adult fleas will respond positively to heat as an attraction cue. - After these younglings are adequately developed, they'll stay in[cocoons](https: //pestpolicy. com/what-do-flea-cocoons-look-like/)up to when they detect some host. The young fleas will be in the quiescent stage for about 5 months - they'll mainly be triggered by physical pressure and heat such as from a fleas' steam cleaner.
 
@@ -56,6 +56,6 @@ Pre-emerged adult fleas will respond positively to heat as an attraction cue. - 
 
 Thus, during winter, the house and apartment will offer an appropriate habitat for fleas to grow especially if there are *household* pets like cats & dogs. For outdoor spaces, fleas will love humid, moist, & shady areas such as the yard or lawn.
 
-# # Conclusion
+##  Conclusion
 
 So, on whether fleas are attracted to heat, YES fleas will be attracted by fleas but it must not be the only cue or stimuli. Fleas prefer to respond positively to a combination of various stimuli including movement, heat, and light.

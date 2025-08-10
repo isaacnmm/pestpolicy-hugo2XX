@@ -57,7 +57,7 @@ Beyond the annoyance, these noises often point to underlying issues that could a
 
 Understanding the cause of a noisy downspout is the first step to silencing it. This article will explore the common culprits behind a loud downspout, provide practical solutions for diagnosis and repair, and offer tips for preventing the problem from recurring, ensuring your home's drainage system works quietly and efficiently.
 
-# # Diagnosing a Noisy Downspout
+##  Diagnosing a Noisy Downspout
 
 Before attempting a fix, observe the noise carefully:
 
@@ -65,7 +65,7 @@ Before attempting a fix, observe the noise carefully:
 
 Armed with this information, you can begin to troubleshoot.
 
-# # Preventing Noisy Downspouts
+##  Preventing Noisy Downspouts
 
 Proactive measures can save you from future headaches:
 

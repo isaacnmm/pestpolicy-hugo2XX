@@ -24,11 +24,11 @@ Electrolysis is a chemical process that uses an electric current to reverse the 
 
 While it might sound like something out of a science fiction movie, setting up an electrolysis rust removal system is surprisingly straightforward and can be done safely with common household items or readily available components. This guide will demystify the process, explain the underlying science, outline the necessary safety precautions, and provide practical tips for achieving excellent results.
 
-# # How Electrolysis Works
+##  How Electrolysis Works
 
 At its core, electrolysis is an electrochemical process that uses direct current (DC) electricity to drive a non-spontaneous chemical reaction. In the context of rust removal, this means reversing the oxidation of iron (rust) back into its metallic form.
 
-## # The Science Behind the Magic
+###  The Science Behind the Magic
 
 To understand how electrolysis removes rust, we need to grasp a few basic electrochemical principles:
 
@@ -56,7 +56,7 @@ Water molecules themselves are also split into hydrogen and oxygen gases during 
 
 3. **The Result: ** Over time, the rust on the object is systematically converted or loosened. Once removed from the bath, the treated item will typically be covered in a black, powdery residue (converted rust) that can be easily brushed off with a wire brush or scrub pad, revealing clean, rust-free metal underneath. Unlike abrasive methods, electrolysis does not remove any of the original metal, preserving fine details and tolerances.
 
-## # Key Factors Affecting Efficiency:
+###  Key Factors Affecting Efficiency:
 
 * **Surface Area: ** The more surface area the anode has, and the closer it is to the rusty object (without touching), the more efficient the process. Ideally, anodes should surround the rusty object for even cleaning. * **Current (Amperage): ** Higher amperage generally leads to faster rust removal. Battery chargers often provide different amp settings.
 
@@ -66,7 +66,7 @@ Too little will slow the process, too much doesn't significantly speed it up and
 
 Periodic inspection and scrubbing can accelerate the process.
 
-# # Safety Precautions
+##  Safety Precautions
 
 While electrolysis rust removal is relatively safe compared to using strong acids, it involves electricity, water, and gas production, so **strict adherence to safety precautions is paramount. **
 
@@ -92,7 +92,7 @@ Reversing polarity will cause your desired object to become the sacrificial anod
 
 By diligently following these safety guidelines, you can minimize risks and enjoy the benefits of effective rust removal via electrolysis.
 
-# # Final Thoughts on Rust Removal Using Electrolysis
+##  Final Thoughts on Rust Removal Using Electrolysis
 
 Electrolysis offers a powerful and often superior method for removing rust, particularly for items where preserving the original metal surface is crucial. Its non-abrasive nature means no loss of material, making it ideal for antique tools, intricate components, or any object you wish to restore to its former glory without sacrificing its integrity.
 

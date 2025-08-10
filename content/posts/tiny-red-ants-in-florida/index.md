@@ -21,9 +21,9 @@ Despite that these tiny ants may look harmless, I've noted that they'll bite hum
 
 ** In this post, I've discussed the Tiny Red Ants In Florida in detail and what you should know or worry about. Let's dig right into it.
 
-# # Details: Tiny Red Ants In Florida
+##  Details: Tiny Red Ants In Florida
 
-## # 1. Yellow Ants
+###  1. Yellow Ants
 
 Unlike the carpenter ant and black ant that have been in Florida for a long time, the yellow ant is a new ant species in that location that arrived in 2017 - [as outlined by scientists](http: //www. miamiherald. com/news/local/community/broward/article184758688. html). - The yellow ants are tiny and came from Madagascar - they're thought to have arrived during Hurricane Irma, especially from South and Caribbean America.
 
@@ -33,7 +33,7 @@ The yellow ants could also impact agriculture by contributing to the damaging of
 
 For the removal of these yellow ants from your Florida home or elsewhere, I recommend using some vacuum cleaner.
 
-## # 2. Carpenter Ants
+###  2. Carpenter Ants
 
 The Carpenter Ants scientifically referred to as then Camponotus floridanus are comparable in size and shape to the [Fire Ants](https: //pestpolicy. com/best-fire-ant-killer-for-lawns/) and Big-Headed Ants since they love protein diet as opposed to carbohydrates. - [Carpenter Ants are attracted](https: //pestpolicy.
 
@@ -49,7 +49,7 @@ Any spaces, holes, or openings that are on the house must be sealed using silico
 
 In addition, apply approved ant treatment chemicals on the nest of these pests to help exterminate any workers, queen, and brood; this will help in cutting the reproduction and ant cycle.
 
-## # 3. Big Headed Ants
+###  3. Big Headed Ants
 
 The big-headed ants (Pheidole megacephala) are also another ant species that is invasive and you'll find them in Florida too. They won't bite humans or cause major home damage unless you disturb them. - The reddish-brown big-headed ants have been common in Australia and Africa but have now moved into South Florida. The big-headed ants have different sizes even in one colony (simply referred to as polymorphic).
 
@@ -65,7 +65,7 @@ You'll also notice that the dirt piles and nests will be found between pavers an
 
 - Keeping the food containers air-tight will avoid attracting the ants with the scent while also avoiding spillage You should also screen or caulk any window, or baseboard cracks and holes that the ants might be using to forage in the house.
 
-## # 4. Fire Ants
+###  4. Fire Ants
 
 Some fire ant species that you'll find in Florida are red imported fire ant (RIFA) and the Solenopsis Invicta Buren - all of which will be in the Port Saint Lucie and Stuart regions. - The fire ants (Red Imported species) came into Florida mainly from south and central America around the time when World War II concluded. The Fire ants will sting and bite especially when they've gathered in a crowd - they'll largely bite the feet.
 
@@ -73,6 +73,6 @@ You'll notice that the ants are black or brown-colored with a dark abdomen. - Th
 
 - The treatment options for fire ants include spot and barrier treatments, and mound treatments or baiting applications.
 
-# # Conclusion
+##  Conclusion
 
 The tiny red ants in Florida are pharaoh ants (comparable to Thief ants), Yellow Ants, Fire Ants, Big Headed Ants, Carpenter Ants. - The pharaoh ants are about the length of 1/16-inch, red to light yellow in color, and have some black marking on their abdomen - and 3 body segments and also an antennal club.

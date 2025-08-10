@@ -40,7 +40,7 @@ This will help to remove any traces of paint and neutralize the smell. Be sure t
 
 It's important to note that if the smell of spray paint is very strong, it's best to use proper ventilation and mask while doing these steps to avoid inhaling. See Also: Best Paint Stripper for Metal
 
-# # Conclusion
+##  Conclusion
 
 In conclusion, by following these steps, you'll be able to neutralize the odor and freshen up your space. - Remember to open windows and doors to ventilate the area, use a fan or air purifier, and place bowls of white vinegar around the room. - Additionally, consider using baking soda, deodorizing sprays, activated charcoal and cleaning the surfaces with white vinegar to eliminate the smell of spray paint.
 

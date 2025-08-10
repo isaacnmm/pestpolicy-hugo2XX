@@ -46,11 +46,11 @@ Neglecting your bathroom fan can lead to reduced efficiency, increased noise, an
 
 This guide will cover the essential maintenance steps, troubleshooting common issues, and tips for prolonging the life of your fan.
 
-# # Essential Maintenance Steps for Your Bathroom Vent Fan
+##  Essential Maintenance Steps for Your Bathroom Vent Fan
 
 Maintaining your bathroom vent fan primarily involves regular cleaning and occasional inspections.
 
-## # Step 1: Routine Grille Cleaning (Monthly/Bi-Monthly)
+###  Step 1: Routine Grille Cleaning (Monthly/Bi-Monthly)
 
 This is the quickest and most frequent maintenance task.
 
@@ -58,7 +58,7 @@ This is the quickest and most frequent maintenance task.
 
 This simple step prevents excessive buildup and keeps the fan looking cleaner.
 
-## # Step 2: Thorough Fan Unit Cleaning (Every 3-6 Months)
+###  Step 2: Thorough Fan Unit Cleaning (Every 3-6 Months)
 
 This is the most important maintenance step, involving removal of the grille and cleaning the internal components.
 
@@ -76,13 +76,13 @@ Vacuum off loose dust, then wash thoroughly with warm, soapy water. Rinse and le
 
 **Restore Power & Test: ** Return to the electrical panel, turn the breaker back on, and test the fan. It should operate more quietly and efficiently.
 
-## # Step 3: Inspect External Vent Cap (Annually)
+###  Step 3: Inspect External Vent Cap (Annually)
 
 The fan's ductwork typically terminates at an external vent cap on your home's exterior wall or roof.
 
 1. **Locate: ** Find the exterior vent cap for your bathroom fan. 2. **Inspect for Blockages: ** Check if the louvers or screen on the cap are blocked by bird nests, insect nests, leaves, or other debris. 3. **Clean: ** If accessible, gently remove any blockages. For roof-mounted caps, consider hiring a professional if you're not comfortable or equipped for roof work.
 
-## # Step 4: Check Ductwork (Every Few Years or When Issues Arise)
+###  Step 4: Check Ductwork (Every Few Years or When Issues Arise)
 
 While less frequent, ensuring the ductwork is clear is important.
 
@@ -90,7 +90,7 @@ While less frequent, ensuring the ductwork is clear is important.
 
 **Professional Help: ** Extensive duct cleaning or repair often requires a professional HVAC technician, especially if the ducts are long, inaccessible, or show signs of mold.
 
-# # Tips for Ideal Fan Performance & Longevity
+##  Tips for Ideal Fan Performance & Longevity
 
 * **Run It Longer: ** Always turn the fan on before you start showering and leave it running for at least 15-20 minutes after you're done. This allows ample time for moisture removal. * **Consider a Humidistat: ** Install a humidistat switch that automatically turns the fan on when humidity levels rise and off when they drop, ensuring efficient moisture control without manual effort.
 
@@ -100,6 +100,6 @@ While less frequent, ensuring the ductwork is clear is important.
 
 * **Check for Backdraft Dampers: ** Inside the fan housing and at the exterior vent cap, there are often backdraft dampers (flaps) that prevent cold air from entering. Ensure these are clean and freely operational.
 
-# # So, Is Maintaining a Bathroom Vent Fan Necessary?
+##  So, Is Maintaining a Bathroom Vent Fan Necessary?
 
 Absolutely. Maintaining your bathroom vent fan is not just a suggestion; it's a fundamental aspect of home health and preventative maintenance. By regularly cleaning and inspecting your fan, you actively protect your home from mold, structural damage, and poor air quality. This small investment of time and effort ensures your bathroom remains a comfortable, hygienic, and long-lasting space.

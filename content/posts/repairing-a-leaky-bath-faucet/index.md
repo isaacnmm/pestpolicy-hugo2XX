@@ -66,7 +66,7 @@ Fortunately, repairing a leaky bath faucet is one of the most common and managea
 
 This guide will walk you through the process of diagnosing the type of faucet you have and providing step-by-step instructions on **repairing a leaky bath faucet**, empowering you to stop those drips, conserve water, and restore peace to your bathroom.
 
-# # Supplies Needed for Repairing a Leaky Bath Faucet
+##  Supplies Needed for Repairing a Leaky Bath Faucet
 
 * **Screwdriver set: ** Phillips and flathead. * **Adjustable Wrench or Pliers: ** For nuts and bolts. * **Basin Wrench (optional but helpful): ** For hard-to-reach nuts under the sink/tub. * **Replacement Parts Kit: ** Specific to your faucet type (washers, O-rings, springs, cartridges). It's wise to bring the old parts to the hardware store to ensure a match. * **Penetrating Oil (e. g. , WD-40): ** To loosen stubborn nuts.
 
@@ -74,7 +74,7 @@ This guide will walk you through the process of diagnosing the type of faucet yo
 
 * **Wire Brush or Old Toothbrush: ** For cleaning mineral deposits. * **Rag/Cloth: ** For wiping and protecting surfaces. * **Bucket or Container: ** To catch any residual water. * **Flashlight/Headlamp: ** For better visibility. * **Plumber's Grease (Silicone Grease): ** To lubricate O-rings and moving parts. * **Safety Glasses: ** To protect your eyes from debris.
 
-# # When to Call a Professional
+##  When to Call a Professional
 
 While most faucet leaks are DIY-friendly, consider calling a licensed plumber if:
 

@@ -23,7 +23,7 @@ If your flea trap is not catching anything despite other evidence of fleas, don'
 
 This guide will walk you through every reason your trap might be empty and how to fix it fast.
 
-## # Reason #1: Incorrect Placement (The Most Common Mistake)
+###  Reason #1: Incorrect Placement (The Most Common Mistake)
 
 This is the number one reason a flea trap fails. You can have the best trap, but if it's in the wrong spot, it's useless. Adult fleas don't travel far; they wait in hiding for a host to come to them.
 
@@ -35,7 +35,7 @@ This is the number one reason a flea trap fails. You can have the best trap, but
 
 * **In a Quiet Corner: ** The trap needs to be in a high-flea room, but in a spot where it won’t be disturbed. Constant foot traffic will deter fleas. Find a quiet corner of the target room where it can be left alone overnight.
 
-## # Reason #2: Competing Light and Heat Sources
+###  Reason #2: Competing Light and Heat Sources
 
 Flea traps work by creating a single, warm beacon in a dark room. If there are other sources of light or heat, your trap loses its power.
 
@@ -43,19 +43,19 @@ Flea traps work by creating a single, warm beacon in a dark room. If there are o
 
 * **Check for Competing Heat: ** Is the trap near a heating vent or a radiator? These create confusing heat signatures. Ensure the trap is the most prominent source of both light and heat in its immediate area.
 
-## # Reason #3: Issues With the Trap Itself
+###  Reason #3: Issues With the Trap Itself
 
 Sometimes the problem is a small flaw in the device.
 
-### # For DIY Dish Soap Traps:
+####  For DIY Dish Soap Traps:
 
 * **Is the Lamp Warm Enough? ** Heat is the primary lure. An LED bulb may not generate enough warmth. An old-fashioned incandescent bulb is far more effective. Position it a safe distance (a few inches) above the water. * **Not Enough Dish Soap? ** Fleas can stand on water due to surface tension. The soap's job is to break this tension. Be generous with it.
 
-### # For Commercial Sticky Traps:
+####  For Commercial Sticky Traps:
 
 * **Is the Bulb Old? ** The small bulbs in these traps wear out. They may still produce light but not enough heat. If the trap used to work, the first thing to check is the bulb. * **Is the Sticky Pad Old? ** Sticky pads lose their grip over time, especially in dusty homes. A flea might be able to land and jump off. Always use a fresh pad for best results.
 
-## # Reason #4: The Flea Life Cycle Is Working Against You
+###  Reason #4: The Flea Life Cycle Is Working Against You
 
 This is a crucial biological reason that is often overlooked. A trap only catches **adult fleas**.
 
@@ -65,7 +65,7 @@ If the majority of the flea population in a room is in the pupa stage, there are
 
 **The Solution: ** Trigger the fleas to hatch. **Vacuum thoroughly** right before you set the trap. The heat and vibration from the vacuum mimic a host and trick the pupae into emerging. An hour later, you will have a new batch of hungry adult fleas to catch.
 
-## # Your Final Troubleshooting Checklist
+###  Your Final Troubleshooting Checklist
 
 An empty flea trap is a puzzle, not a failure. Before you set it out again tonight, run through this list:
 

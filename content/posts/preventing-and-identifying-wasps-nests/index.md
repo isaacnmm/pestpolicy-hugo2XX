@@ -17,7 +17,7 @@ layout: post
 
 Wasps can be a significant nuisance and sometimes pose a danger, especially to those allergic to stings. Preventing and identifying [wasp](https: //pestpolicy. com/baby-wasp/) nests early on can save you a lot of trouble and potential harm. Here's a detailed guide on how to do both effectively.
 
-## # Prevention
+###  Prevention
 
 1. **Seal Entry Points**: - **Check Regularly**: Conduct routine inspections of your home to find and seal potential entry points for wasps. This includes gaps around windows and doors, cracks in walls, and spaces around utility lines. - **Use Caulk and Sealants**: Seal any cracks or holes using high-quality caulk or other appropriate sealants. Ensure window screens and door sweeps are in good repair. 2.
 
@@ -33,7 +33,7 @@ Trim bushes and trees regularly. 5. **Plant Wisely**: - **Avoid Attractants**: A
 
 **Use Wasp Deterrents**: - **Commercial Products**: Use wasp traps and deterrent sprays available in the market. These can be effective in reducing the number of wasps in your vicinity. - **DIY Solutions**: Create homemade wasp traps using sugar water or vinegar traps. These can be placed around your yard to catch and kill wasps.
 
-## # Identification
+###  Identification
 
 1. **Visual Inspection**: - **Common Areas**: Look for nests in typical locations such as under eaves, in attics, garages, sheds, or in hollow trees. Wasps prefer sheltered spots that protect them from the elements. - **Hidden Spots**: Check less obvious places too, like under porch roofs, behind shutters, or in outdoor furniture. 2.
 
@@ -47,7 +47,7 @@ These nests can grow quite large.
 
 - **Hornets**: Hornet nests are typically large, enclosed, and spherical. They are often found in trees, large shrubs, or on structures like sheds.
 
-## # Dealing with Nests
+###  Dealing with Nests
 
 1. **Early Removal**: - **Small Nests**: If you[catch a nest early](https: //pestpolicy. com/difference-between-a-bee-and-a-wasps-nest/), you can often remove it using a stick or a broom. Do this during the early morning or late evening when wasps are less active. - **Timing**: Always attempt nest removal during cooler parts of the day, as wasps are less aggressive and slower in lower temperatures. 2.
 

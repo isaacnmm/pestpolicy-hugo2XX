@@ -21,13 +21,13 @@ com/are-lizards-poisonous/) are vertebrates (they have backbone also called the 
 
 ** **The lizards spinal column is divided into cervical, dorsal, caudal regions and sacral apart from legless lizards whose backbone is divided into caudal and precaudal. ** **The main function of the backbone is to offer protection to the spinal cord. It also provides an option for attachment of body muscles. **
 
-# # Are Lizards Vertebrates or Invertebrates?
+##  Are Lizards Vertebrates or Invertebrates?
 
 Lizards including bearded dragons are vertebrates whose spinal column is divided into cervical, dorsal, caudal and sacral vertebrae. Some species may have lumbar region too.
 
 The main function of vertebral column in Lizards is to protect the spinal cord (this house the nervous system and aid in body coordination). In addition, the backbone offers support to the body and attachment of muscles, pectoral and pelvic girdle for easier locomotion.
 
-## # a. Vertebral column in lizards.
+###  a. Vertebral column in lizards.
 
 Lizard (apart from legless lizards) have vertebral column also called spinal column or backbone that is divided into four parts i. e. cervical, dorsal, sacral and sacral vertebrae. Some lizard species may also have lumbar region.
 
@@ -57,7 +57,7 @@ The arches and spines in caudal vertebrae continuously decreases up to the last 
 
 Related: Are Blue Tailed Lizards Poisonous?
 
-## # b. The Vertebral Column of Legless Lizard.
+###  b. The Vertebral Column of Legless Lizard.
 
 Legless lizards are lizard species that have lost their legs independently at a point in life or their legs have reduced into point of no use in locomotion. These lizards crawl on the ground like snakes.
 
@@ -73,7 +73,7 @@ The caudal vertebrae forms the tail region, which is powerful for defense action
 
 The caudal vertebra has stout that protrude laterally to provide option for attachment of back muscles. Moreover, the caudal vertebrae have short spines and arches that decreases gradually till the tip of the tail.
 
-## # c. Functions of the Backbone/spinal column
+###  c. Functions of the Backbone/spinal column
 
 The major function of spinal column in lizards is to protect the spinal cord, which controls the nervous systems. The spinal cord runs vertically from the head to the tail and its centrally located through the hollow sections left along the vertebral column.
 
@@ -83,7 +83,7 @@ The backbone provides the point of connections for other appendicular skeleton. 
 
 In addition, the backbone provides extra support and protection to internal organs such as the heart, liver, lungs and intestine. The clavicle, ribs and pelvis girdle are well jointed on the backbone to help in provide further internal protection.
 
-# # Is lizard a reptile or amphibian
+##  Is lizard a reptile or amphibian
 
 All lizards are reptiles including [monitor lizards](https: //pestpolicy. com/are-monitor-lizards-poisonous/). They are cold-blooded animals (ectothermic). Unlike amphibians (which have smooth and slippery skin), Lizards have skin which is covered with scare this one features of all reptiles. The following are characteristics/fears of reptiles (lizards): **1. They are cold blooded**.
 
@@ -99,7 +99,7 @@ Reptiles (lizards) breathe though the lungs in their entire life even when in wa
 
 Contrary, amphibians such as frogs and toad breath through lungs, skin or gills (at young stage - tadpole). **5. They have four walking legs (apart from legless lizards)**. The reptiles (lizards) have four legs that are used for locomotion/walking. Amphibians such as frog, newt or toad have two hind legs for jumping and two front legs adapted for landing. Their legs cant walk as in the case of lizards.
 
-# # Do Lizards Have Backbones?
+##  Do Lizards Have Backbones?
 
 Yes. Lizards have backbones since they are classified as vertebrates. The backbone is used to give support to body organs, muscles and cells. Moreover, the Backbone of lizards offers option for attachments of body muscles.
 
@@ -107,7 +107,7 @@ The backbone provides point link for appendicular skeleton such as ribs, femur, 
 
 The hard bone spines and arches formed by the spinal column of lizards provide suitable defense tool against its enemies.
 
-# # Major facts about Lizard as a reptile.
+##  Major facts about Lizard as a reptile.
 
 **1. The Survival Mechanism**.
 
@@ -125,7 +125,7 @@ Though lizards are ectothermic (cold blooded), you will find them in cold region
 
 Lizards such as marine iguanas dwell under the water though they often come to the shore to bask and lay eggs. Lizards, which dwell on trees, have short wide toes that are well adapted to climbing.
 
-# # Conclusion
+##  Conclusion
 
 All Lizard species are vertebrates. They have backbone, also called the vertebral column/spinal column, whose main function is to protect the spinal cord and offer option for attachment of body muscles and appendicular skeleton.
 

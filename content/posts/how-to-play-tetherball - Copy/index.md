@@ -18,13 +18,13 @@ tags:
 
 If you've got a tetherball pole and a ball, you're just a few steps away from unlocking hours of outdoor entertainment.
 
-# # What is Tetherball?
+##  What is Tetherball?
 
 Tetherball is played with a ball attached by a rope to the top of a sturdy, stationary pole. Two players position themselves on opposite sides of a marked line. The objective for each player is to hit the ball in such a way that the rope completely wraps around the pole in their assigned direction (one player aims for clockwise wrapping, the other for counter-clockwise).
 
 The first player to successfully wrap the ball fully around the pole, making it unable to be hit back by the opponent, wins the point.
 
-# # Essential Equipment for Tetherball
+##  Essential Equipment for Tetherball
 
 Before you begin, ensure your tetherball setup is complete and ready for action:
 
@@ -36,7 +36,7 @@ When hanging freely, the ball should generally be at approximately waist height 
 
 * **Foul Line (No-Hit Zone): ** A small circle, typically with a radius of 2-3 feet, drawn around the base of the pole. Players are prohibited from stepping on or inside this line during active play.
 
-# # Basic Rules of Play
+##  Basic Rules of Play
 
 Understanding these fundamental rules is crucial for fair play and an enjoyable game:
 
@@ -52,7 +52,7 @@ You are strictly forbidden from catching, holding, stopping, or throwing the bal
 
 Repeated or severe fouls might lead to losing the current point or even the game, depending on agreed-upon rules.
 
-# # Strategy and Tips for Success
+##  Strategy and Tips for Success
 
 Tetherball is not just about raw power; strategic thinking and technique play a significant role:
 

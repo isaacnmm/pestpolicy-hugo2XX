@@ -21,7 +21,7 @@ Moles will do anything that is done by animals that have eyes. They dig tunnels,
 
 Related: [Best Mole Traps](https: //pestpolicy. com/best-mole-traps/)
 
-# # **Details: Do Moles Have Eyes?**Can Moles See?
+##  **Details: Do Moles Have Eyes?**Can Moles See?
 
 Moles have eyes which are permanently covered by skin and fur. However, the fact that they shy away from bright light means that their eyes are capable detecting light.
 
@@ -37,13 +37,13 @@ A typical research done on Iberian moles shows that although their eyes are comp
 
 Research on the nature of moles eyes also focuses on the possibility of degeneration due to disuse. Therere assumptions of gradual loss in eyesight for animals living in dark places due to evolution. However, moles eyes have retained their function and do not exhibit any signs of becoming dysfunctional due to evolution.
 
-# # **Can Moles See?**
+##  **Can Moles See?**
 
 Moles arent completely blind. They have eyes which are covered by a thin skin and fur to shield them from dirt.
 
 Their retinal cells are also fully developed to enable light recognition. They can also see movements and shadows. However, they cant see clearly.
 
-# # **How Do Moles Find Their Way?**
+##  **How Do Moles Find Their Way?**
 
 Although moles cant see images, they have adapted ways of finding their way inside their tunnels and when they come above the ground.
 
@@ -51,7 +51,7 @@ Perhaps their most important part for navigation is their nose. Their protruding
 
 They find their way by touching the ground with their nose. These touch receptors have the ability to recognize objects and boundaries enabling moles to move in the dark.
 
-# # **How Do Moles Communicate?**
+##  **How Do Moles Communicate?**
 
 Just like other animals moles are able to communicate especially during mating. How they do this without functional eyes isnt a mystery!
 
@@ -59,7 +59,7 @@ They are highly adapted to vibrations and sound. They can produce and hear high-
 
 Moles can also use their scents to communicate with mates and identify food. They release powerful scents which can be easily picked their mates. These odors are quite disgusting to humans especially during mating.
 
-# # **Do Moles See Their Prey?**
+##  **Do Moles See Their Prey?**
 
 Moles dont use their eyes to locate their food. They use their nostrils to locate foods such as earthworms, snails, spiders, centipedes among other small insects.
 
@@ -67,7 +67,7 @@ Research has shown that moles are some of the few mammals that can smell in ster
 
 Different signals are sent to the brain, making it possible to discern the direction of the smell. Thus, they have the ability to differentiate food from other things by picking up the intensity of smell.
 
-# # **Do Moles See Predators?**
+##  **Do Moles See Predators?**
 
 Although moles spend most of their time in their underground tunnels, they come out to look for mates especially during spring.
 
@@ -75,7 +75,7 @@ This makes them vulnerable to predators such as cats, dogs and birds of prey. Ho
 
 However, their stereo sense of smell (both nostrils sniff independently) allows them to detect potential predators and retreat to their tunnels. With one sniff, a mole is able to tell there is a cat around. In fact, pouring soiled cat litter into holes made by moles can repel them.
 
-# # **Conclusion**
+##  **Conclusion**
 
 Moles have eyes but they are not used for seeing things. They are however able to differentiate light and dark as portrayed by their tendency to avoid light.
 

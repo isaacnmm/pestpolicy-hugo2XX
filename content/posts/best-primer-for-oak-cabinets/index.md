@@ -21,9 +21,9 @@ com/best-drywall-primer-sealer/)-kitchen-cabinets/).
 
 The primer for oak cabinets should minimize the wood's grain and keep the grain from bleeding through the paint. Its minimal shrinkage - a suitable choice for cabinet surface preparation.
 
-# # 7 Best Primer for Oak Cabinets
+##  7 Best Primer for Oak Cabinets
 
-## # [1. Aqua Coat white cabinet grain filler](https://www.amazon.com/dp/B07HQY2PF6/?tag=p-policy-20)
+###  [1. Aqua Coat white cabinet grain filler](https://www.amazon.com/dp/B07HQY2PF6/?tag=p-policy-20)
 
 Aqua Coat white is easy to apply a solution, which allows you to fill the pores and grains of your wooden cabinets before the painting process begins. T his action minimizes the absorption rate while raising the grain level to a uniform height to guarantee you a smooth polished surface - especially using this roller.
 
@@ -33,7 +33,7 @@ The filler can be thinned with water if you are a DIYer who is just getting acqu
 
 Don't avoid your priming step if you need to [remodel the kitchen cabinets](https: //www. houselogic. com/by-room/kitchen/kitchen-cabinet-refacing/). Besides, it sands and levels quickly as compared to other standard primers. While sanding is not a must, it improves the adhesion of the filler. Pros: - Extra-ordinarily smooth finish - Fast-drying action - Eco-friendly Cons: - Relatively limited coverage
 
-## # [2. Zinsser Bulls Eye 123 Primers for all surfaces](https://www.amazon.com/dp/B000H5VKBQ/?tag=p-policy-20)
+###  [2. Zinsser Bulls Eye 123 Primers for all surfaces](https://www.amazon.com/dp/B000H5VKBQ/?tag=p-policy-20)
 
 For users looking for a multi-purpose primer for different home projects, Bulls Eye 123 presents the perfect solution. T his primer's odorless nature and ease of cleaning with soap and water make it ideal for kitchen oak cabinets. Additionally, this primer locks porous surfaces by forming a protective coating due to its deep penetrating power. The flexible nature of this paint makes it suitable for use at different temperatures.
 
@@ -43,7 +43,7 @@ Its low smoke generation and non-flammable nature make it suitable for instituti
 
 The Zinsser 123 also hides dark spots and severe water and smoke stains. Applying the cabinet primer and paint, I recommend using the Graco airless sprayer and getting some excellent finish spray tip that'll leave your cabinets with an exceptional finish. Pros: - Suitable for use with any topcoat - Fast drying time - Suitable for different surfaces Cons: - Relatively expensive
 
-## # [3. Retique It Liquid Pint Golden Oak Stainable Wood Fiber Paint](https://www.amazon.com/dp/B079YLWWQJ/?tag=p-policy-20)
+###  [3. Retique It Liquid Pint Golden Oak Stainable Wood Fiber Paint](https://www.amazon.com/dp/B079YLWWQJ/?tag=p-policy-20)
 
 Retique It is a revolutionary new product that allows you to stain off the surface without sanding the old coating. R etique It contains real wood, which leaves you with a thin layer of wood film finish which matches different color stain, giving you a bare wood sensation. Additionally, this primer is water-based and biodegradable and does not leave behind a strong smell, making it an excellent choice for interior oak cabinets.
 
@@ -53,7 +53,7 @@ Thanks to its Ultra-low VOCs, you get virtually no irritation from using this st
 
 Pros: - Wooden based for a more natural finish - Lasting finish - Works well on hard surfaces Cons: - None found
 
-## # [4. Nuvo Earl Grey Cabinet Paint Kit](https://www.amazon.com/dp/B0749QJV15/?tag=p-policy-20)
+###  [4. Nuvo Earl Grey Cabinet Paint Kit](https://www.amazon.com/dp/B0749QJV15/?tag=p-policy-20)
 
 Add some depth and sophistication to your old cabinets with the earl grey edition of the Nuvo paints. T his paint kit is perfect for DIYers looking to transform their oak without the mess, cost, and time associated with alternative solutions. The best part about this product is that it contains paint and primer in a specialized solution. For remodeling contractors or DIYers, use an airless paint sprayer, roller, or a paintbrush.
 
@@ -63,7 +63,7 @@ This primer requires minimal surface preparation, which spares you the hassle of
 
 For cabinet painting, I now use Sherwin Emerald Urethane - it is durable & has hard drying. In addition to water-resistant features, this product is highly durable and scratch-resistant. The paint makes it the perfect application for everyday use without a top coating or sealant. Pros: - Executive finish - All-in-one package - Multifunctional Cons: - Relatively pricey
 
-## # [5. B-I-N Zinsser Shellac-based Primer (1 liter)](https://www.amazon.com/dp/B00113UKQY/?tag=p-policy-20)
+###  [5. B-I-N Zinsser Shellac-based Primer (1 liter)](https://www.amazon.com/dp/B00113UKQY/?tag=p-policy-20)
 
 The B-I-N Company goes as far back as 1946 and is popular for its wide range of interior and exterior painting and priming products. I n particular, it's white pigmented primer-sealer, and stain killer is excellent for use in spot priming and sealing stains from previously painted surfaces.
 
@@ -75,6 +75,6 @@ Additionally, this shellac-based primer resists dirt better, and its ease of scr
 
 The Zinsser primer is highly dependable and capable of sealing the worst stains. This primer adheres to different surfaces, eliminating the need for etching or deglossing to achieve a stronger bond. With fast-drying, it'll stick effectively on either interior/exterior/ interior paint. Pros: - A proven tradition of excellence - Expunges smell of smoke - Sealant for different types of stains Cons: - Takes long to cure
 
-# # Conclusion
+##  Conclusion
 
 Our featured list has reviewed the quality primers in the market based on user recommendations. The most crucial buying considerations for oak cabinet primers are ease of use, performance, and value. The editor recommends the Kilz Original Interior Primer because it can seal smoke odors and a wide range of interior stains caused by water, grease, or tannin - and chances the light-dark color.

@@ -27,7 +27,7 @@ Well, recently, we discussed how borax can be used as a flea killer around the h
 
 - [Borax](https: //pestpolicy. com/borax-flea-killer/) and boric acid are considered safer pesticides in comparison to other chemicals in killing fleas, ants, roaches, and fleas. - The 20 Mule-Team Borax is one of the borax-based cleaning products. However, borax is safe for cats if ingested in small and EPA-approved amounts.
 
-# # Is Borax Safe for Cats? Borax for Fleas
+##  Is Borax Safe for Cats? Borax for Fleas
 
 If ingested in small amounts in ingested as recommended by the Environmental Protection Agency, Borax is safe and won't harm your small pets including cats and dogs. - Despite not being very toxic, if borax is ingested in large amounts by your hamsters, dogs, or cats, it may be toxic compared to its effects on humans. - Similarly, inhaling sodium borate may inflame or irritate the respiratory system.
 
@@ -39,7 +39,7 @@ Borax is not harmful to cats - at least when used properly by manufacturers' ins
 
 Related: Using 20 mule team borax for pest control
 
-# # Is Borax Great for Killing Ants and Fleas?
+##  Is Borax Great for Killing Ants and Fleas?
 
 Yes, borax is safe for cats. Its a popular way of getting rid of fleas, as it dehydrates them while also killing them.
 
@@ -49,7 +49,7 @@ Borax is fatal to ants, it'll damage the bug's digestive system and exterminates
 
 Actually Borax has some advantages over traditional pesticides such as DEET-based products because it doesn't kill the good bugs like pollinators that are needed to make our food plants grow. It's also not toxic to humans when ingested in amounts less than what you would get from simply using it once on your carpet; however if swallowed, vomiting may occur due to stomach irritation by gastric fluids.
 
-# # **Symptoms of Borax Poisoning in Cats**
+##  **Symptoms of Borax Poisoning in Cats**
 
 The symptoms of toxicity in cats after taking excessive amounts of borax include: - If swallowed, vomiting may occur due to stomach irritation by gastric fluids. - Excessive salivation or drooling - Confusion - Dropping food from the mouth and eating non-food items such as dirt and stones - Loss of appetite (anorexia) - Nervousness or excitability during initial exposure stages followed by depression following chronic intoxication stage.
 
@@ -59,13 +59,13 @@ When ingested in small amounts that would be a normal amount for someone with se
 
 Related: Top Flea Foggers and Bombs
 
-## # How to Treat Borax Poisoning in Cats
+###  How to Treat Borax Poisoning in Cats
 
 In the event your cat comes into contact with borax, a veterinary doctor should administer treatment to avoid toxicity. If your cat ingested borax: - Remove the animal from the area of exposure to prevent further ingestion of the chemical (if not already done). - I would recommend dialysis on the cat as this will easily remove the borax from the animal's body. You may also use IV fluids on the cat to help reduce the effect of borax.
 
 - Don't use activated charcoal and don't force the cat to vomit For further precaution, was the cat thorough using some mild detergent or that suitable cat shampoo.
 
-# # Using borax on cat fleas
+##  Using borax on cat fleas
 
 Borax is not recommended as a flea control product. It can be used to eliminate carpets, but it does not kill the eggs or larvae of fleas and ticks in your home.
 
@@ -81,7 +81,7 @@ For fleas, borax will damage their exoskeletons but for other insects like termi
 
 Therefore, Borax must be used only as part of a comprehensive flea or ant-treatment program since it may not eliminate these insects alone.
 
-# # Conclusion
+##  Conclusion
 
 The safety of borax for cats is a contentious issue, with some claiming it to be hazardous while others maintain that it can be safe when used correctly. - Borax for Fleas: Borax is not very effective in killing cat flea and may be toxic if used in large amounts - 5 grams and over. - So, before settling on using borax, employ other flea and ant control methods like IGRs and pyrethrin sprays.
 

@@ -21,19 +21,19 @@ Maybe some chicken (plus chicks) and their eggs have recently disappeared from t
 
 To repel the possums, you may position ammonia-coaked rags near the chikcen coop or spray any of these rodent repellents. ..
 
-# # Do Opossums or Possums [Eat](https://pestpolicy.com/do-cats-eat-lizards/) Chickens?
+##  Do Opossums or Possums [Eat](https://pestpolicy.com/do-cats-eat-lizards/) Chickens?
 
 As noted above, possums and opossums will attack and eat your chickens. So, YES, simply put, possums will eat chickens. Their strong teeth enable them to tear down prey's bones and flesh - including from dead animals and chickens. - While uncommon, possumslike raccoons will eat mature hens(about 20 in a night since they are large & intimidating) but may regularly prey on chicken eggs and their young chicks.
 
 The omnivore animals largely eat and prey on small invertebrates - but if they are occupying the backyard gardens, the possums could hunt your chickens and eggs too - [but the possums won't eat the cats](https: //pestpolicy. com/do-possums-eat-cats/) or dogs.
 
-# # Do Possums Steal and Eat Chicken Eggs?
+##  Do Possums Steal and Eat Chicken Eggs?
 
 Ye s, possums that will manage to sneak into the chicken coop will (or come across eggs) will eat the chicken eggs - but they'll also prey on adult chickens. - My experience: One night I met a large possum in the chicken coop around the bird's nesting boxes. - We noted that the possum had returned and stolen eggs - we also found some of the eggs busted. But will the possums eat raw eggs?
 
 Yes, they'll feed on raw eggs in addition to other foods like protein dog kibble, minced veggies, calcium vegetables, chicken crockpot, and bones. Also, what smells do the possum hate? Well, these animals won't love ammonia - so I would recommend you pour some ammonia into that coffee container.
 
-## # How to Stop Possums from Killing My Chicken?
+###  How to Stop Possums from Killing My Chicken?
 
 **1. Remove chicken or pet food** Avoid leaving chicken or pet food lying around overnight. Such idle foods tend to attract the possums.
 
@@ -55,6 +55,6 @@ But remove these traps around the morning time to prevent catching other small p
 
 **7. Fencing** Fencing around that yard or garden will also hinder possums from reaching your chicken. - Definitely, their strong teeth won't tear down that fence - but avoid chicken wires as they're too weak. Further, don't allow drinkable water around your garden or yard as this will attract possums that may attack your chicken. - The chicken will be very vulnerable during the dark hours - while also the possums will also be active at night.
 
-# # Conclusion
+##  Conclusion
 
 So, do possums eat chickens? YES, possums will occasionally hunt and seat chickens in the backyard. - But they'll more probably eat chicks, Bantams (small breeds), and eggs.

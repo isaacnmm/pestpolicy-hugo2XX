@@ -24,7 +24,7 @@ Understanding the various natural tree shapes allows you to select species that 
 
 From towering sentinels to graceful spreading canopies, each tree shape offers unique aesthetic and practical advantages. This guide will explore the most common tree forms, discuss how to choose the right shape for your yard, and provide insights into maintaining these natural silhouettes for optimal health and beauty.
 
-# # Understanding Tree Shapes
+##  Understanding Tree Shapes
 
 A tree's shape, also known as its habit or form, is its overall silhouette, determined by the branching pattern, the density of its canopy, and how it grows over time. While some trees can be pruned into specific shapes (e. g. , espalier, topiary), most trees exhibit a natural form that is genetically determined.
 
@@ -34,7 +34,7 @@ Considering tree shape in design is crucial because it affects:
 
 * **Space Management: ** How a tree's canopy and root system will occupy space.
 
-# # Common Tree Shapes
+##  Common Tree Shapes
 
 Trees naturally develop into several recognizable shapes, each offering distinct design possibilities:
 
@@ -60,7 +60,7 @@ Great for streetscapes where lower branches need to be clear for pedestrian traf
 
 * **Uses: ** Adds character and artistic flair to a garden, excellent as a focal point, fits well in naturalistic or Asian-inspired gardens.
 
-# # Choosing the Right Tree Shape
+##  Choosing the Right Tree Shape
 
 Selecting the ideal tree shape for your yard involves considering several factors beyond just aesthetics.
 
@@ -78,7 +78,7 @@ Selecting the ideal tree shape for your yard involves considering several factor
 
 **Climate and Growing Conditions: ** * Ensure the chosen tree species is hardy in your USDA Zone (or equivalent climate zone in Kenya). * Consider its preferred soil type, light requirements, and water needs. A tree stressed by unsuitable conditions may not develop its ideal shape.
 
-# # Maintaining Tree Shapes
+##  Maintaining Tree Shapes
 
 While trees largely grow into their natural shapes, judicious pruning can help maintain their form, promote health, and address issues.
 
@@ -94,7 +94,7 @@ It disfigures the tree, leads to weak, rapid growth, and often shortens the tree
 
 **When in Doubt, Call an Arborist: ** For large trees or complex pruning tasks, always consult a certified arborist. They understand tree biology and can prune safely and effectively to maintain the tree's health and form.
 
-# # Selecting Tree Shapes
+##  Selecting Tree Shapes
 
 When you visit a nursery or consult with a landscape designer, remember the shapes you're looking for.
 
@@ -102,7 +102,7 @@ When you visit a nursery or consult with a landscape designer, remember the shap
 
 This often reveals their true structural beauty and branching pattern when leaves are absent.
 
-# # Final Thoughts
+##  Final Thoughts
 
 Understanding and intentionally incorporating different tree shapes into your landscape design elevates your yard from merely planted to thoughtfully composed. By matching a tree's natural form to its intended function and integrating it harmoniously with your home's architecture and existing garden elements, you create a dynamic, beautiful, and functional outdoor living space.
 

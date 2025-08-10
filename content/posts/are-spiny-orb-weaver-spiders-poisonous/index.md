@@ -19,7 +19,7 @@ The Gasteracantha (a. k. a [spiny spiders, spiny orb-weavers, or spiny-backed or
 
 The female Gasteracantha have brightly-colored spines on their shell-like, hardened, and broad abdomens. However, are spiny orb-weaver spiders poisonous? **The simple answer is, NO, Spiny Orb-Weaver Spiders are not poisonous. While these Gasteracantha spiny spiders can bite, they aren't aggressive or poisonous spider species and they won't trigger any grave symptoms on humans. **
 
-# # Detailed: Are Spiny Orb-Weaver Spiders Poisonous?
+##  Detailed: Are Spiny Orb-Weaver Spiders Poisonous?
 
 Spiny Orb-Weaver Spiders measure about 1/4" - 1/2", have 8 legs and are yellow, orange, black, or white in color with red markings. If you notice the colorful spiders and some large spun webs, then it may be a sure sign that your yard has been infested by spiny orb-weaver. The spiny orb-weaver will mainly make their nests on shrubs, citrus trees, or around the sides of your house.
 
@@ -27,7 +27,7 @@ In addition, these insects will mainly be active from October to January where t
 
 Sadly, the eggs will hatch within 2 weeks and hence you must control the bugs before the begin their hatching and reproduction.
 
-# # How to identify the Spiny Orb-Weaver
+##  How to identify the Spiny Orb-Weaver
 
 The bug's body color is the surest way to distinguish between the spiny-back species - particularly in this case the orb-weaver spiders. The male orb-weaver spiders are largely smaller compared to their female counterparts - their body length ranges from 2 - 3 millimeters but slightly longer in body width. On the other hand the female orb-weaver spiders measure 5 - 9 millimeters in body length and their body width is 10 - 13 millimeters.
 
@@ -39,7 +39,7 @@ But other may also be completely black in color.
 
 The male bugs will have 4-5 small humps while their females come with large spines sitting on their back of their body.
 
-# # Special Behaviors by the Spiny Orb-Weaver
+##  Special Behaviors by the Spiny Orb-Weaver
 
 The [Micrathena](https: //www. insectidentification. org/insect-description. asp? identification=Spined-Micrathena-Spider) and [Gasteracantha](http: //entnemdept. ufl. edu/creatures/beneficial/g_cancriformis. htm) genus are the most prevalent among these spiders - particularly considering their body patterns, shape and colors. The Gasteracantha cancriformis males are tinier while the female adults are about half an inch.
 
@@ -51,13 +51,13 @@ So, simply spot any spider webs at your eye-level and above particularly on shru
 
 Generally, the female Spiny Orb-Weaver Spiders in the Araneidae family are considered web builders. Further, the females will mainly work to rebuild and repair the spider webs - they'll do this in a single location if they won't be disturbed. The remaining time, the females will sit waiting for any predator from which they'll such the animal's bodily fluids.
 
-# # Habitat and Food: Spiny Orb-Weaver Spiders live?
+##  Habitat and Food: Spiny Orb-Weaver Spiders live?
 
 *Habitat*: You'l mainly find these bugs in southern states particularly Florida or southern California but they'll also inhabit different regions in the world. As noted earlier, you'll mainly find these Spiny Orb-Weaver Spiders in residential places plus citrus groves, around houses, shrubs and trees near your house. You'll notice them from their color and the webs they create plus you might notice their eggs sacs.
 
 *Food*: On diet, the Spiny Orb-Weaver Spiders mainly feed on small insects that they'll capture using their intricately made webs. Specifically, the bugs will feed on small insects such as flies, mosquitoes, beetles, and moths. The spiders will bite and paralyze the insects as they feed on their ovals.
 
-# # ControllingSpiny Orb-Weaver Spiders
+##  ControllingSpiny Orb-Weaver Spiders
 
 Since the spiders mainly feed on insects, it makes sense to reduce the amount of light that's particularly outside your house - this will keep the spiders away plus also discourage their small insects from coming near your yard and house too.
 
@@ -71,6 +71,6 @@ However, on the extreme case of infestation by the Spiny Orb-Weaver Spiders, sim
 
 Such services might be costly but its definitely worth it as it immidietly takes the burden off your shoulders.
 
-# # Conclusion
+##  Conclusion
 
 So, are Spiny Orb-Weaver Spiders Poisonous? Well, as I've outlined above, these spiders can bite humans but they aren't aggressive or poisonous. However, the spiders will only bite when they're provoked as these are generally beneficial bugs in your farm or yard. Definitely, the bites from these Spiny Orb-Weaver Spiders won't be poisonous as won't also cause any grave or dangerous symptoms on you body.

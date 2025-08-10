@@ -21,9 +21,9 @@ If youre overweight and have decided to start running, this article is for you. 
 
 Therefore, Beginner Overweight Runners should invest in incorrect running shoes. Thus, Ive compiled the following list on some of the top Shoes for Beginner Overweight Runners.
 
-# # 7 Best Shoes for Beginner Overweight Runners
+##  7 Best Shoes for Beginner Overweight Runners
 
-## # [1. New Balance Men's 990 V5 Sneaker](https://www.amazon.com/dp/B07L8L5KQF/?tag=p-policy-20)
+###  [1. New Balance Men's 990 V5 Sneaker](https://www.amazon.com/dp/B07L8L5KQF/?tag=p-policy-20)
 
 The New Balance 990 V5 is a road running [shoe](https: //pestpolicy. com/best-running-shoes-for-heavy-female-runners/) thats boasts of innovative features and technologies. Most overweight runners agree that the shoe is responsive and comfortable.
 
@@ -37,7 +37,7 @@ ENCAP midsole technology offers superior cushioning, support, and durability. Th
 
 Pros: - Excellent flexibility - Exceptional cushioning and support - Offers a snug fit - Comfortable - The best shoe for walking all-day Cons: - A person complained that the insole wears out quickly
 
-## # [2. HOKA ONE ONE Men's Clifton 5 Running Shoe](https://www.amazon.com/dp/B0788T3GS8/?tag=p-policy-20)
+###  [2. HOKA ONE ONE Men's Clifton 5 Running Shoe](https://www.amazon.com/dp/B0788T3GS8/?tag=p-policy-20)
 
 If youre a first-time overweight runner HOKA ONE ONE Clifton 5 is a good running shoe to start your running exercises. Most heavy runners are happy with their durable construction, supportive platform, and breathable upper.
 
@@ -51,7 +51,7 @@ The HOKA ONE ONE Clifton 5 features an engineered mesh upper. The mesh has pores
 
 Pros: - Delivers soft cushioning - Excellent breathability - Quality design - Highly durable - Appealing color schemes - Supportive underfoot platform Cons: - A customer complained that the shoe was narrow
 
-## # [3. Nike Women's Air Zoom Pegasus 36 Running Shoes](https://www.amazon.com/dp/B07LDG13Y5/?tag=p-policy-20)
+###  [3. Nike Women's Air Zoom Pegasus 36 Running Shoes](https://www.amazon.com/dp/B07LDG13Y5/?tag=p-policy-20)
 
 Nike Air Zoom Pegasus 36 is a neutral running shoe thats ideal for first time overweight runners. Its comfortable, supportive, and cushioned.
 
@@ -67,7 +67,7 @@ The Pegasus 36 is a dependable and consistent trainer that provides heavy runner
 
 Pros: - Excellent underfoot cushioning - Smooth upper - The upper secures the foot properly - Reliable traction - Lightweight - Prevents accidental shoe removal - Highly comfortable Cons: - A customer complained that they are not true to size
 
-## # [4. Brooks Men's Glycerin 14 Running Shoes](https://www.amazon.com/dp/B017MZAO0Q/?tag=p-policy-20)
+###  [4. Brooks Men's Glycerin 14 Running Shoes](https://www.amazon.com/dp/B017MZAO0Q/?tag=p-policy-20)
 
 As a beginner overweight runner, its crucial that you invest in shoes that are flexible, cushioned, and those that have good arch support. Brooks Glycerin 14 wont disappoint you.
 
@@ -81,7 +81,7 @@ The upper features an open mesh and some 3D overlays. The mesh upper has holes t
 
 Therefore, if youre a beginner overweight runner, you need Brooks Glycerin 14 because of its excellent cushioning and comfort. Pros: - The plush interior ensures extra comfort - Lightweight - Reliable traction - Excellent cushioning - Unmatched flexibility - Great arch support - Can use orthotics - Highly durable Cons: - Pricey - Some wearers complained that its runs a bit small
 
-## # [5. ASICS Women's Gel-Kayano 26 Running Shoes](https://www.amazon.com/dp/B07S9L1NY4/?tag=p-policy-20)
+###  [5. ASICS Women's Gel-Kayano 26 Running Shoes](https://www.amazon.com/dp/B07S9L1NY4/?tag=p-policy-20)
 
 ASICS Gel-Kayano 26 is a solid running shoe that offers excellent midsole cushioning, unmatched durability, comfort, and stability. Heavy runners with overpronation will love the support that this shoe offers.
 
@@ -93,6 +93,6 @@ The midsole of Kayano 26 features a great mix of Gel, Flyte Foam Lyte, and Flyte
 
 The Dynamic Duomax located on the midsole controls pronation. The system ensures the feet dont collapse inwards as you run. The external heel counter ensures the rearfoot is well secured and the heel remains stable during running. Pros: - Excellent cushioning - Excellent stability - The best shoe for overweight flat feet runners - Breathable upper - Durable shoe - Comfortable Cons: - Pricey - Tight toe box according to some reviews
 
-# # Conclusion
+##  Conclusion
 
 Beginner plus size runners are susceptible to injuries. The injuries may come since your feet carries the excess body weight that can cause muscles or ligaments strain. Therefore, if you plan to start running, it crucial for heavy men and women to invest in best shoes for beginner overweight runners.

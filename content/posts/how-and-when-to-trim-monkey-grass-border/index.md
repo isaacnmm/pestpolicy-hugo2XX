@@ -46,7 +46,7 @@ While these resilient plants require minimal care, proper trimming at the right 
 
 This guide will walk you through exactly how and when to trim your monkey grass border for optimal health and aesthetics.
 
-# # Tools For Trimming Monkey Grass
+##  Tools For Trimming Monkey Grass
 
 Having the right tools is essential for a clean and efficient trimming job. Ensure all tools are clean and sharp before you begin, as dull blades can tear foliage and invite disease.
 
@@ -56,7 +56,7 @@ Ensure it's set to its highest cutting height.
 
 * **Essential Safety & Cleanup: ** * **Gloves and Safety Glasses: ** Always recommended to protect your hands and eyes from clippings and debris. * **Rake or Leaf Blower: ** For efficient cleanup of cut foliage. * **Tarp: ** Optional, but useful for collecting clippings as you work, making cleanup easier.
 
-# # Trimming Monkey Grass: It's Simple
+##  Trimming Monkey Grass: It's Simple
 
 Don't let the idea of trimming monkey grass intimidate you. With the right timing and basic tools, it's a straightforward task that offers significant benefits for your plants and landscape. The key is to act in late winter or early spring before new growth kicks in, using sharp tools and cutting back the old foliage to a few inches from the ground.
 

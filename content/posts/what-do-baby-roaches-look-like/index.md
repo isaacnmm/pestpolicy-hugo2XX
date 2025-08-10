@@ -21,9 +21,9 @@ The nymphs vary in size from one species to the other.
 
 However, they'll all molt (the stage called instars) through 5 to 10 stages to become adult roaches. * *The baby roaches love humid and warm areas like bathrooms or kitchens where they eat food debris and garbage, glue, meats, soap, greasy foods, toothpaste, and grains. * *But adult German roaches are light-brown in color, measuring 1/2 t 5/8 inches plus have 2 stripes (running parallel) along the body length. *
 
-# # What Do Baby Roaches Look Like? Act FAST!
+##  What Do Baby Roaches Look Like? Act FAST!
 
-## # 1. Color -Baby Roaches Images
+###  1. Color -Baby Roaches Images
 
 Baby roaches start after the eggs hatching stage. When they emerge from the roach eggs, the nymphs or ootheca are bright-white colored in their early life stages. However, as the nymphs take in air, their body will become darker and harden as they molt progressively.
 
@@ -35,7 +35,7 @@ Baby roaches 6 have spiny and long legs that'll help them fast over the house fl
 
 In comparison, the nymphs of German cockroaches will have a larger body compared to Oriental roach nymphs.
 
-## # 2. Size - Baby Roaches in Bathroom orKitchen
+###  2. Size - Baby Roaches in Bathroom orKitchen
 
 Roach nymphs, particularly German roaches, measure roughly 3 mm in length. As noted above, the nymphs will initially be bright-white in color but will become darker as they molt but will remain with a single light patch at their back. - Pennsylvania wood Roaches - length of 20 mm and are Tan-colored.
 
@@ -49,13 +49,13 @@ Adult female cockroaches will lay their eggs as ootheca - which has about 10 to 
 
 Roach ootheca is an egg encasement (for between 10 to 50 eggs) seen in insects like mantises and roaches. Therefore, the roach eggs will be protected in their initial stages, and hence thorough control methods must be used against the roach nymphs.
 
-# # How to Identify Cockroach Eggs
+##  How to Identify Cockroach Eggs
 
 Baby [roaches are evidence that you've some roach nests](https: //pestpolicy. com/how-to-find-a-roach-nest/) in the house or walls. Therefore, you must know how to kill roach eggs in addition to knowing how to identify them and the roach nymphs in your house truly. As noted earlier, female roaches will "lay" or carry an ootheca - which is an eggs protein-enveloped casing that contains 20-50 eggs.
 
 You will also see some wings on the roaches, but not all will use them to fly.
 
-## # 1.Oriental Roach Eggs
+###  1.Oriental Roach Eggs
 
 Oriental roach eggs are also covered in a casing (oothecae) measuring 8 mm to 10 mm and are reddish-brown to dark in color. This egg encasement has roughly 16 roach eggs and thus may look a bit swollen. Also, the female oriental roaches tend to produce 1-18 oothecae during their whole life.
 
@@ -63,7 +63,7 @@ Oriental roach eggs are also covered in a casing (oothecae) measuring 8 mm to 10
 
 The female roaches will carry the oothecae for about 12 hours to 120 hours before dropping them in areas that have food - these are warm and sheltered places. The eggs will hatch within 40 days - 82 days, and the female roaches won't help the nymphs.
 
-## # 2.American Roach Eggs
+###  2.American Roach Eggs
 
 American roach eggs measure a length of 8 mm and are also covered in a purse-shaped and hardened soothe dark color. One of these female roaches will produce about 6-70 cockroach eggs over its whole life. Also, the female American roaches will carry the egg oothecae for up to several days.
 
@@ -73,7 +73,7 @@ The baby roaches tend to come out of the egg oothecae within 3-6 weeks - every o
 
 Its 1st instar will be white initially but will turn grayish-brown. However, the other instars will be white before tuning to red-brown in color, with the lower areas of their abdomen and thorax being dark in color.
 
-## # 3. German Roach Eggs
+###  3. German Roach Eggs
 
 Like other roaches, the German cockroaches also carry their ootheca (having about 50 eggs) when the eggs are ripe for hatching. German [roach eggs will take about 3 months](https: //pestpolicy. com/combat-max-12-month-roach-killing-bait-review/) to hatch and molt from the egg stage to full adults.
 
@@ -83,7 +83,7 @@ The hatched nymphs, like their adult counterparts, will quickly start foraging f
 
 The molting from eggs to adult roaches takes roughly 600 days.
 
-## # 4.Brown-Banded Roach Eggs
+###  4.Brown-Banded Roach Eggs
 
 Brown-banded roach eggs are also carried in egg cases called ootheca. The female roaches will carry the ootheca for roughly 30 hours before the eggs emerge and attach onto ceilings and walls. Their ootheca measure about 5 mm in length and are reddish-brown. The female Brown-banded roaches will produce about 20 oothecae over their whole life. - Like the other species, the oothecae of these roaches have anywhere from 10 to 18 embryos.
 
@@ -91,22 +91,22 @@ You'll notice these species because they have a unique upper abdomen with a yell
 
 You can get the Oriental roach nymphs in places with cool temperatures and high humidity, including bathroom and kitchen plumbing, basements, and crawl spaces where you'll find roach dirt, egg cases, and dead roaches. Also, check for spider webs as they may host some of the roach nymphs and eggs.
 
-# # Any Dangers of HavingBaby Roaches in your Home?
+##  Any Dangers of HavingBaby Roaches in your Home?
 
 *Unlike bed bugs, roaches have wings, but the roaches' flying capability varies with species. American cockroaches have colored reddish-brown and 1. 5 inches - 2 inches. Also, these roaches can fly. *
 
-## # 1. Transmits Diseases
+###  1. Transmits Diseases
 
 So, will baby roaches pose a health risk to humans, pets, and other animals in the house or yard? But first, review these yard fleas sprays. - Otherwise, we all hate roaches, and it's definitely true that these bugs will bring harsh health effects into your home. - In summary, roach nymphs will carry different diseases that they'll spread rapidly when no active roach extermination is undertaken.
 
 - I would recommend that you remove any food debris, water in addition to installing roach killers like roach sprays, roach baits, androach bombs. Some of the diseases that the roach babies will transmit include typhoid fever, leprosy, dysentery, cholera, diarrhea, and plague. Further, the roaches will contaminate different food surfaces plus food within a short time.
 
-## # 2. Allergic Reactions
+###  2. Allergic Reactions
 
 Besides, the roach nymphs will cause respiratory illnesses, including asthma and allergies, leading to sneezing and coughing. You'll find the roach nymphs living and breeding in sewage and garbage. - In fact, the baby roaches will carry the bacteria and viruses while transmitting them to humans and pets in your home or yard. - The adult and baby roaches may also lead to allergic reactions since they have molted shells.
 
 Notably, the nymphs and shells may be dropped on many locations in your house - which may cause many allergic reactions for you and your pets. This is because the cockroach saliva, dead roaches, and roach waste may cause asthma attacks or allergic reactions. The allergies and asthma reactions from the roaches are similar to those caused by dust mites or ear mites (check treatment for ear mites).
 
-# # Conclusion
+##  Conclusion
 
 To control baby roaches: apply an IGR pesticide using a sprayer, treat the home with Gentrol (an IGR to kill juveniles and nymphs) plus DemonWP (kills in seconds) and set up [roach killers and traps](https: //pestpolicy. com/best-roach-killer-for-apartments/) (like Catchmaster) with fatty or sugar baits.

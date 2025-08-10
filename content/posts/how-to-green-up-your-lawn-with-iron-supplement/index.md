@@ -24,7 +24,7 @@ Iron, though a micronutrient, is absolutely vital for the physiological processe
 
 If your lawn isn't responding to nitrogen fertilization with the expected deep green, or if you notice uniform yellowing, particularly in new growth, an iron deficiency could be the culprit. Understanding how and when to apply iron can be a game-changer for your lawn's appearance.
 
-# # Why Lawns Need Iron
+##  Why Lawns Need Iron
 
 Iron plays a crucial role in several key functions within grass plants:
 
@@ -34,7 +34,7 @@ Iron plays a crucial role in several key functions within grass plants:
 
 Unlike nitrogen, which promotes growth and overall vigor, iron's primary visual impact is on color intensity. It doesn't necessarily make your grass grow faster or thicker, but it can dramatically enhance its greenness, giving it a vibrant, almost "pop" of color.
 
-# # Types of Iron Lawn Supplements
+##  Types of Iron Lawn Supplements
 
 Iron supplements for lawns come in various forms, each with its own advantages and application methods:
 
@@ -52,11 +52,11 @@ Requires careful application to avoid staining concrete/pavement.
 
 * **Cons: ** The amount of iron might be lower than dedicated supplements, and its availability can still be limited in very high pH soils depending on the iron form used (e. g. , non-chelated iron).
 
-# # How to Apply Iron Lawn Supplements
+##  How to Apply Iron Lawn Supplements
 
 Proper application is key to effectiveness and avoiding issues like staining or burning.
 
-## # Liquid Application (Ferrous Sulfate or Chelated Iron)
+###  Liquid Application (Ferrous Sulfate or Chelated Iron)
 
 1. **Mix According to Directions: ** Always read the product label carefully for mixing ratios. Too strong a solution can burn your lawn. 2. **Use a Sprayer: ** A pump sprayer or hose-end sprayer is ideal for even coverage. 3. **Apply Evenly: ** Walk at a consistent pace, overlapping slightly to ensure uniform coverage. 4.
 
@@ -64,13 +64,13 @@ Proper application is key to effectiveness and avoiding issues like staining or 
 
 Chelated irons, especially those designed for foliar uptake, often recommend staying on the leaf for maximum absorption, so check the label. 5. **Beware of Staining: ** Iron, especially ferrous sulfate, will stain concrete, pavers, and other hard surfaces orange-brown. Always apply on a non-windy day, away from hardscapes, or use a sprayer shield. If any product lands on hard surfaces, rinse immediately and thoroughly.
 
-## # Granular Application (Iron Sulfate or Fertilizers with Iron)
+###  Granular Application (Iron Sulfate or Fertilizers with Iron)
 
 1. **Use a Spreader: ** A broadcast spreader is best for large areas to ensure even distribution. A drop spreader offers more precision near hardscapes. 2. **Calibrate Your Spreader: ** Refer to the product label for recommended spreader settings to apply the correct amount. 3. **Apply Evenly: ** Apply in a crosshatch pattern for thorough coverage. 4. **Water In: ** Always water granular iron supplements in immediately after application.
 
 This helps move the iron into the soil and washes it off the grass blades, preventing potential burn and making it available to the roots.
 
-# # When to Apply Iron to Lawns
+##  When to Apply Iron to Lawns
 
 Timing is important for optimal results and to minimize risk.
 
@@ -80,7 +80,7 @@ High heat combined with iron can increase the risk of burning the grass.
 
 * **Morning Application: ** Applying in the morning allows the grass blades to absorb the liquid iron before the sun gets too intense, and allows granular products to be watered in before the heat of the day. * **Avoid Drought Stress: ** Ensure your lawn is well-hydrated before applying iron. Never apply to a drought-stressed or dormant lawn.
 
-# # Signs That Your Lawn May Benefit From Iron Supplements
+##  Signs That Your Lawn May Benefit From Iron Supplements
 
 Look for these visual cues that might indicate an iron deficiency:
 
@@ -90,7 +90,7 @@ Look for these visual cues that might indicate an iron deficiency:
 
 * **High Soil pH: ** If a soil test indicates alkaline soil (pH above 7. 0), iron deficiency is more likely, as iron becomes less available in high pH conditions. * **Excessive Phosphorus: ** Too much phosphorus in the soil can also lock up iron, making it unavailable.
 
-# # Tips and Tricks for Iron Application
+##  Tips and Tricks for Iron Application
 
 * **Test a Small Area: ** If you're unsure about the product or application rate, test a small, inconspicuous area first to see the results and ensure no adverse reactions. * **Calibrate Your Sprayer/Spreader: ** For liquid applications, practice spraying with plain water to ensure even coverage. For granular spreaders, use the manufacturer's recommended settings and walk at a consistent speed.
 
@@ -100,7 +100,7 @@ Look for these visual cues that might indicate an iron deficiency:
 
 * **Consider a Soil Test: ** Before consistently applying iron, a soil test can confirm an actual iron deficiency and rule out other issues (like nitrogen deficiency or high pH) that might be causing yellowing.
 
-# # Potential Risks and Precautions
+##  Potential Risks and Precautions
 
 While generally safe when used correctly, there are a few risks to be aware of:
 

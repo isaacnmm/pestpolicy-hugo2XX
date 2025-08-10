@@ -18,9 +18,9 @@ Gardening used to be back-breaking, especially if it involved a hoe and a shovel
 
 Many outdoor companies are coming up with rototillers capable of tilling any ground, [including rocky terrain](https: //books. google. com/books? hl=en&lr=&id=K7sdCwAAQBAJ&oi=fnd&pg=PR4&dq=Rototiller+for+Rocky+Soil&ots=dJEVsA0i3w&sig=g-d9s3QAXe88WKQTruOwW131aqw). We carefully researched and came up with a list of rototillers and their features that will help you overcome this problem.
 
-# # Rototillers: 9 Best Rototiller for Rocky Soil 2025
+##  Rototillers: 9 Best Rototiller for Rocky Soil 2025
 
-## # [1. Sun Joe TJ603E 16-Inch 12-Amp Electric Tiller and Cultivator](https://www.amazon.com/dp/B00V6IEVXM/?tag=p-policy-20)
+###  [1. Sun Joe TJ603E 16-Inch 12-Amp Electric Tiller and Cultivator](https://www.amazon.com/dp/B00V6IEVXM/?tag=p-policy-20)
 
 The electric tiller has a superstructure with dimensions of 55x43x17inches and weigh only 27. 1 pounds. Its foldable handles make it compact for secure storage.
 
@@ -34,7 +34,7 @@ Also, you need a stiff brush to clear trash that the soapy clothing article fail
 
 Cons: - Expensive
 
-## # [2. Greenworks 10-Inch 8 Amp Corded Tiller 27072](https://www.amazon.com/dp/B00D3KJN3O/?tag=p-policy-20)
+###  [2. Greenworks 10-Inch 8 Amp Corded Tiller 27072](https://www.amazon.com/dp/B00D3KJN3O/?tag=p-policy-20)
 
 The corded tiller comes with a sturdy structure measuring 33x15x15 inches and weighing 29. 3 pounds. Since it's foldable, it becomes compact hence occupying a smaller space.
 
@@ -46,7 +46,7 @@ Maintaining the tiller is easy as it is electricity-powered, meaning you are saf
 
 Cons: - Light
 
-## # [3. Earthquake 20015 Versa FTT Rototiller](https://www.amazon.com/dp/B01AS01FQE/?tag=p-policy-20)
+###  [3. Earthquake 20015 Versa FTT Rototiller](https://www.amazon.com/dp/B01AS01FQE/?tag=p-policy-20)
 
 The front tine tiller has an excellent structure measuring 51. 2x35x24 inches. It weighs a paltry 85 pounds making it easy to operate. Its foldability makes it compact for secure storage.
 
@@ -58,7 +58,7 @@ All you need is spray it with a water hose and remove the extra dirt using a soa
 
 Cons: - Light buckling easily
 
-## # [4. Earthwise TC70001 11-Inch 8.5-Amp Corded Electric Tiller](https://www.amazon.com/dp/B004H4X6Z6/?tag=p-policy-20)
+###  [4. Earthwise TC70001 11-Inch 8.5-Amp Corded Electric Tiller](https://www.amazon.com/dp/B004H4X6Z6/?tag=p-policy-20)
 
 Earthwise TC70001structure of hard and durable materials is ideal for use on tough and rocky grounds. It's also easy to use and operate courtesy of its simple startup mechanism.
 
@@ -72,7 +72,7 @@ Pros: - Strong tines - Durable - Easy to use
 
 Cons: - Expensive
 
-## # [5. Scotts Outdoor Tools TC70135S 13.5-Amp 16-Inch Tiller](https://www.amazon.com/dp/B07JVKYC87/?tag=p-policy-20)
+###  [5. Scotts Outdoor Tools TC70135S 13.5-Amp 16-Inch Tiller](https://www.amazon.com/dp/B07JVKYC87/?tag=p-policy-20)
 
 The corded electric tiller's structure of dimensions 40x16x40 inches and the paltry 30 pounds weight make it light and easy to store due to its foldability.
 
@@ -86,7 +86,7 @@ Cons: - Expensive
 
 Related: Best Tiller for Subcompact Tractor
 
-## # [6. Earthquake 33cc Cultivator 31635 MC33-Mini (Viper Engine 2-cycle)](https://www.amazon.com/dp/B07PJ19Q5N/?tag=p-policy-20)
+###  [6. Earthquake 33cc Cultivator 31635 MC33-Mini (Viper Engine 2-cycle)](https://www.amazon.com/dp/B07PJ19Q5N/?tag=p-policy-20)
 
 Earthquake 31635 is a gas-powered heavy-duty tiller with a structure measuring 29. 5x15. 2x12. 3inches. It weighs 32 pounds and is foldable. As a result, it takes a tiny space to store it.
 
@@ -98,7 +98,7 @@ Pros: - Versatile for wedding, mixing, and aeration - Powerful - Easy to handle 
 
 Cons: - Pollutes the environment
 
-## # [7. Schiller Grounds Care 7920 Mantis 2-Cycle Tiller Cultivator](https://www.amazon.com/dp/B00N6X9URC/?tag=p-policy-20)
+###  [7. Schiller Grounds Care 7920 Mantis 2-Cycle Tiller Cultivator](https://www.amazon.com/dp/B00N6X9URC/?tag=p-policy-20)
 
 This excellent tiller comes with a structure measuring 48x17x38 inches. It also weighs a meagre 20 pounds making it easy to use and operate. The robust materials used in the manufacture of the tilling implement make it durable and long-lasting.
 
@@ -112,21 +112,21 @@ The cultivator is ideal for use in [rocky](https: //pestpolicy. com/best-pole-di
 
 Cons: - Pollutes environment
 
-# # Considerations for Rocky Soil Rototillers
+##  Considerations for Rocky Soil Rototillers
 
-## # 1. Power and Performance
+###  1. Power and Performance
 
 In strength, we look at the power of the motor concerning powering the cultivator. A large motor has higher Horsepower and larger engine size. Therefore it will power a larger and more powerful engine reducing the tilling time. In performance, we also look at the tines, their shape, and movement. Get a tiller with reliable and durable tines to save you from the need to replace them regularly.
 
-## # 2. Tillers Tilling Width
+###  2. Tillers Tilling Width
 
 The tilling width is the size of the rototiller's deck. The larger the tilling diameter, the more tines it holds. As a result, it will take this tiller a short time to cover a large area as it tills a large surface in a single pass. As a buyer, you need to research the best tiller to suit you depending on the size of your yard.
 
-## # 3. Maneuverability and ease of use
+###  3. Maneuverability and ease of use
 
 It is essential to purchasing an easy to use cultivator. Many complicated tilling tools will cause injury to you if you are not conversant with how to use it. However, an easy to use tiller with safety measures will not only keep you safe during tilling but also will not prove challenging to operate.
 
-## # 4. Digging Depth
+###  4. Digging Depth
 
 It is advisable to go for a tiller with an adjustable digging depth mechanism. You can set the cutting depth you require with this tiller. Therefore, you won't have issues preparing a seedbed for plants that require roots to spread extensively in the soil. Choose a tiller depending on your area of application. If you have a rocky soil bed, go for a rototiller with features that match this type of soil.
 
@@ -134,17 +134,17 @@ Forward rotating tines are in most cases suitable for rocky soil as they don't d
 
 If it's hard clay soil, choose counter-rotating tines as they are tough on the earth and will easily loosen up the ground - check the [best electric tiller for clay soil](https: //pestpolicy. com/best-electric-tiller-for-clay-soil/).
 
-## # 5. Cleaning and Maintenance
+###  5. Cleaning and Maintenance
 
 You will be required to clean your implement to keep it rust-free regularly. You will also be necessary to change oil and spark plugs if it's a gas-powered tiller. Whichever type you choose to purchase, select one with easily accessible parts. However, for modern rototillers, spare parts are readily available online for you. When it comes to cleaning, look for one that is easy to assemble and disassemble.
 
 Therefore it makes it easy when changing parts like broken tines.
 
-# # Conclusion
+##  Conclusion
 
 As a gardener, you need a tiller that will do your tilling work correctly. Therefore, what you need is a tiller with the qualities that will fit your gardening area. Consequently, you need to put into consideration things such as power and performance to efficiently cultivate your yard. Go for a tiller that is easy to maintain and, most importantly, within your budget.
 
-# # Sources:
+##  Sources:
 
 1. [Building HealthySoil](https: //vtechworks. lib. vt. edu/bitstream/handle/10919/80695/426-711. pdf? sequence=1) 2. [A new blade design of rotary tiller and static analysis using a computer-aided tool. ](http: //search. ebscohost. com/login. aspx? direct=true&profile=ehost&scope=site&authtype=crawler&jrnl=20684215&AN=127108498&h=g1gat3%2FwWZ%2BfqcaLaTPBm3waKpDwfbI0vhAzFOBd%2FA9AwjxmdIidBoIthZXf9Qt37Ur6L%2FH209%2Bbox2tgN6Uyw%3D%3D&crl=c) 3.
 

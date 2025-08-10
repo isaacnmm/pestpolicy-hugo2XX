@@ -19,9 +19,9 @@ You'll find the soundbars worth a lot as they'll provide superior sound than the
 
 - Must have 3+ channels - Read Also: [What's the best soundbar Under 200](https: //pestpolicy. com/best-soundbar-under-200/)? - Get an active soundbar, great sound quality, Bluetooth connectivity, and deep bass
 
-# # Reviews: Top 7 Best Soundbars for Under 100 2025
+##  Reviews: Top 7 Best Soundbars for Under 100 2025
 
-## # [1. TaoTronics 3 Equalizer Soundbar + Audio Speaker - #1 Pick](https://www.amazon.com/dp/B07KZ7MVS2/?tag=p-policy-20)
+###  [1. TaoTronics 3 Equalizer Soundbar + Audio Speaker - #1 Pick](https://www.amazon.com/dp/B07KZ7MVS2/?tag=p-policy-20)
 
 TaoTronics 3 Equalizer has great features for your TV audio including a simplified 5 seconds installation plus the production of a clear & crisp sound.
 
@@ -39,7 +39,7 @@ Cons: - None
 
 Related: 2. 1 vs 5. 1 Soundbar
 
-## # [2. VIZIO SB2920-C6 Soundbar (2.0 Channel + 26 Inches) - #2 Pick](https://www.amazon.com/dp/B00SMBFZNG/?tag=p-policy-20)
+###  [2. VIZIO SB2920-C6 Soundbar (2.0 Channel + 26 Inches) - #2 Pick](https://www.amazon.com/dp/B00SMBFZNG/?tag=p-policy-20)
 
 VIZIO SB2920-C6 has a crisp audio effect with the bass working excellently to keep the clarity and character even at high volume. The soundbar won't drown or get murky from the other track.
 
@@ -59,7 +59,7 @@ Cons: - Non sub-woofer included
 
 https: //youtu. be/bxs5pd71r58
 
-## # [3. Meidong TV SoundBar, Remote + Bluetooth 2.0 Channel - #3 Pick](https://www.amazon.com/dp/B0795331MQ/?tag=p-policy-20)
+###  [3. Meidong TV SoundBar, Remote + Bluetooth 2.0 Channel - #3 Pick](https://www.amazon.com/dp/B0795331MQ/?tag=p-policy-20)
 
 Meidong TV SoundBar is also a great plus to your entertainment unit particularly for TVs. Luckily, it offers multi-connection providing 3. 5mm stereo, optical audio, RCA inputs. Meidong TV SoundBar also provides Bluetooth compatibility and hence its possible to stream your music and audio wirelessly by connecting to the smart TV, tablet, or phone.
 
@@ -73,7 +73,7 @@ Plus it has 12 great-quality speakers that'll produce good theatre sound. Pros: 
 
 Cons: - Low quality cable
 
-## # [4. TaoTronics 4 (Wireless & Wired 4.2 Spekears) - #4 Pick](https://www.amazon.com/dp/B078P4291Z/?tag=p-policy-20)
+###  [4. TaoTronics 4 (Wireless & Wired 4.2 Spekears) - #4 Pick](https://www.amazon.com/dp/B078P4291Z/?tag=p-policy-20)
 
 TaoTronics 4 is made by the proficient TaoTronics company - its a budget-friendly soundbar that has Bluetooth, 11-meters remote control suitable for gaming, family entertainment, and theaters.
 
@@ -85,7 +85,7 @@ The soundbar allows both wireless and wired installations, and hence it'll be ea
 
 Cons: - None
 
-## # [5. Bose SoundTouch 300 Soundbar - Suitable for Alexa](https://www.amazon.com/dp/B01KZHP44Y/?tag=p-policy-20)
+###  [5. Bose SoundTouch 300 Soundbar - Suitable for Alexa](https://www.amazon.com/dp/B01KZHP44Y/?tag=p-policy-20)
 
 Bose SoundTouch 300 is a great soundbar for watching TV shows, movies, videos and listening to music. The device the metal and glass grille that's ultra-slim.
 
@@ -97,6 +97,6 @@ The device comes with many supplementary speakers and gives deep bass - check th
 
 Cons: - Lacks sub-woofer
 
-# # Conclusion
+##  Conclusion
 
 So, that's it with the best soundbars for under 100 - the sound device has an LED that'll generate different colors and hence makes it easy to operate. Also, mounting the soundbar is simple or simply under the TV screen.

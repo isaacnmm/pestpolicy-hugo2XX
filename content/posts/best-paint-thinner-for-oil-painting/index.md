@@ -18,9 +18,9 @@ Have you had a difficult time choosing an oil thinner for your oil paints? We're
 
 You must know how to mix the paints with the right medium - the paint in your tube could be very stiff and thus thinning it down will make it simpler to work with. So, for both noob oil painters or expert professionals, get yourself a great oil solvent - it'll act both as paint thinner while also speeding up the paint drying process. See Also: Sprayer for Interior Walls.
 
-# # s: Top 7 Best Paint Thinner for Oil Painting in 2025
+##  s: Top 7 Best Paint Thinner for Oil Painting in 2025
 
-## # [1. Chelsea Lavender-Spike Classical-Studio Oil-Paint Thinner Essence](https://www.amazon.com/dp/B00N1EFQGK/?tag=p-policy-20)
+###  [1. Chelsea Lavender-Spike Classical-Studio Oil-Paint Thinner Essence](https://www.amazon.com/dp/B00N1EFQGK/?tag=p-policy-20)
 
 Chelsea Lavender-Spike won't leave to dangerous health problems that may be caused by using mineral spirits, vinegar, and turpentine.
 
@@ -36,7 +36,7 @@ Cons: - None
 
 > See Also: > Sprayer for Latex Paint
 
-## # [2. Mona-Lisa Odorless Accessories and Brush Cleaner - Paint Thinner](https://www.amazon.com/dp/B002646NBS/?tag=p-policy-20)
+###  [2. Mona-Lisa Odorless Accessories and Brush Cleaner - Paint Thinner](https://www.amazon.com/dp/B002646NBS/?tag=p-policy-20)
 
 Mona-Lisa Odorless is a nontoxic and odorless solvent that's safe compared to turpentine great yo your environment and painters. The paint is great for oil-thinning and acts as a solvent for different media.
 
@@ -52,7 +52,7 @@ Cons: - None
 
 > See Also: > Paint Sprayer for Furniture
 
-## # [3. Artists' Grade Gamsol-Oil Mineral Spirits and Pure Odorless](https://www.amazon.com/dp/B0006IKCHW/?tag=p-policy-20)
+###  [3. Artists' Grade Gamsol-Oil Mineral Spirits and Pure Odorless](https://www.amazon.com/dp/B0006IKCHW/?tag=p-policy-20)
 
 Artists' Grade Gamsol-Oil is a suitable solvent for your thinning medium and also for regular painting. It is more eco-friendly compared to turpentine 0- and thus safer.
 
@@ -66,7 +66,7 @@ Cons: - None
 
 > See Also: > [Paint Sprayer for Walls and Ceilings](https: //pestpolicy. com/best-paint-sprayer-for-walls-and-ceilings/)
 
-## # [4. Citra Solv 8 Removes Wax, Grease, Oil, Gum, and Adhesives](https://www.amazon.com/dp/B00MC6E1AA/?tag=p-policy-20)
+###  [4. Citra Solv 8 Removes Wax, Grease, Oil, Gum, and Adhesives](https://www.amazon.com/dp/B00MC6E1AA/?tag=p-policy-20)
 
 Citra Solv 8 is an all-purpose and versatile cleaner that'll work on various surfaces including outdoor aluminum, upholstery, and ceramics surfaces - natural cleaner.
 
@@ -76,6 +76,6 @@ The eco-friendly Citra Solv 8 thinner is excellently used as a substitute for va
 
 > See Also: > Safety Glasses for Spray Painting
 
-# # Conclusion
+##  Conclusion
 
 The best paint thinner for oil painting is safe and will leave that aromatherapy - varnishes, resins, various painting mediums. It is a nontoxic option to the turpentine product - plus it offers excellent performance.

@@ -48,7 +48,7 @@ Selecting the perfect [tree](https: //pestpolicy. com/10-trees-to-grow-in-contai
 
 This guide will walk you through the essential factors to consider to ensure you select a tree that thrives in your specific environment and meets your aesthetic and functional goals.
 
-# # 2. Define Your Purpose and Desired Function
+##  2. Define Your Purpose and Desired Function
 
 What do you want the tree to do for your yard? Its intended role will heavily influence your selection.
 
@@ -60,13 +60,13 @@ Be aware of potential mess and increased maintenance.
 
 * **Noise Reduction: ** Dense trees can help absorb sound. * **Soil Stabilization: ** Trees with strong root systems can help prevent erosion on slopes.
 
-# # 4. Native vs. Non-Native Species
+##  4. Native vs. Non-Native Species
 
 * **Native Trees: ** Are adapted to your local climate and soil conditions, generally require less water and fertilizer once established, and provide essential food and habitat for local wildlife. They often have better resistance to native pests and diseases. * **Non-Native (Exotic) Trees: ** Can sometimes introduce invasive issues or be more susceptible to local environmental stressors.
 
 If you choose a non-native, ensure it is not an invasive species in your region.
 
-# # Summary of Key Considerations:
+##  Summary of Key Considerations:
 
 * **Site Conditions: ** Climate Zone, Soil (type, pH, drainage), Sunlight, Available Space (mature size above and below ground). * **Purpose: ** Shade, Privacy, Aesthetics, Wildlife, Fruit/Nuts, etc. * **Tree Characteristics: ** Growth Rate, Deciduous/Evergreen, Maintenance (leaf drop, pruning), Pest/Disease Resistance, Root System. * **Local Context: ** Native species, reputable local sources.
 

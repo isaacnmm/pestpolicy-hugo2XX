@@ -23,9 +23,9 @@ But ** **cat fleas (** **Ctenocephalides felis** **) are more common in North Am
 
 ** Let's check the details!
 
-# # Comparison: Cat Fleas Vs Dog Fleas
+##  Comparison: Cat Fleas Vs Dog Fleas
 
-## # 1. Preferred Host?
+###  1. Preferred Host?
 
 Fleas feed and breed off the blood of warm-blooded hosts, and that's how they make their way onto your cat or dog.
 
@@ -37,7 +37,7 @@ Cat fleasarecommonly foundon bothcatsand dogs in North America, while dogfleasar
 
 - Cat fleas are also better adapted to finding hosts in areas with low levels of light and higher concentrations of carbon dioxide around their host's head as they move around the animals body. Related: Should a dog with fleas sleep in my bed?
 
-## # 2. Geographic Distribution
+###  2. Geographic Distribution
 
 Cat fleas can be found on both dogs and cats, but one of the most important differences between cat and dog flea populations has been their geographic distribution: - Cat Fleas - Found mainly in warmer habitats with higher humidity levels like in North America, Texas, Oklahoma, Mississippi, Alabama; - Dog Fleas - Commonly found throughout Canada until New England.
 
@@ -45,7 +45,7 @@ If you're unsure where your pet picked up a flea population problem, it may help
 
 Related: Controlling Fleas on my Bed
 
-## # 3. Size Comparison - Cat Fleas versus Dog Fleas
+###  3. Size Comparison - Cat Fleas versus Dog Fleas
 
 Another difference between cat and dog fleas is that the former is smaller.
 
@@ -53,7 +53,7 @@ So, how big is a cat flea? - Length of adult cat flea ranges from 1. 5 - 3. 2 mi
 
 - Dog fleas have a length of 1. 5 - 3. 2 millimeters (1/8'') and are brownish-black in color as well, but they have a lighter abdomen with dark brown stripes on the back of their bodies. The head or called capitulum is relatively larger than cat fleas' heads which makes them look disproportionally large for their body size.
 
-# # Do Cat Fleas Infest Dogs?
+##  Do Cat Fleas Infest Dogs?
 
 Yes, cat fleas can infest a dog. Cat fleas jump from the cat to dogs, other animals, and humans.
 
@@ -63,7 +63,7 @@ Can fleas transfer from cats to dogs? Yes, fleas can transfer between cats and d
 
 Yes, it is possible for your dog to get fleas from cats, especially if they live in North America where cat fleas very common.
 
-# # Can Cat Fleas Live On Humans?
+##  Can Cat Fleas Live On Humans?
 
 Both cat fleas and dog fleas don't live on humans but they can still bite you, but they will not reproduce off the human blood. - It is believed that this is because only the cat's saliva triggers a response from eggs to hatch and larvae to develop into adults. - The egg may also need higher levels of heat or humidity than what people generally experience in their homes for it to fully mature.
 
@@ -81,7 +81,7 @@ Their eggs may also be present on the garments. - If these items are not washed 
 
 Flea eggs have been found in carpeting and upholstery - these eggs hatch into larvae that cannot move by themselves. - So it is important to vacuum regularly when pets live indoors as well as treat with an insecticide if necessary.
 
-# # Will Dog Flea Treatment Kill Cat Fleas?
+##  Will Dog Flea Treatment Kill Cat Fleas?
 
 Yes, dog flea treatment can kill cat fleas. It only takes one bite from a dog carrying both types of parasites and the feline will become infested with both species of parasite at once, which is bad news for your kitty.
 
@@ -93,7 +93,7 @@ Once a year, our vet recommends an examination by a doctor because there could b
 
 - Pet owners should comb their pets twice a day while they're infested because mature fleas may not be present on the pet 100% of the time - therefore preventing accidental transmission. If you are going outside with your dog, make sure that he has had his monthly flea preventive recently (check expiration date) as this medication can also kill adult cat fleas!
 
-# # How Do I Treat my Home for Dog Flea and Cat Fleas?
+##  How Do I Treat my Home for Dog Flea and Cat Fleas?
 
 To treat an existing infestation: You will need to;
 
@@ -117,7 +117,7 @@ To treat an existing infestation: You will need to;
 
 - Use flea foggers or bombs to exterminate the whole flea population in the residence.
 
-# # Conclusion
+##  Conclusion
 
 On the subject, "cat fleas vs dog fleas" - there are a few different differences that you should know about.
 

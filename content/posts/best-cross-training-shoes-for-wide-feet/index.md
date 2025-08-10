@@ -22,7 +22,7 @@ To do all these exercises, youll need to invest in cross-training shoes. Hence, 
 
 Related: Best Running Shoes for Men with Wide Feet Review: 7 Best Cross Training Shoes for Wide Feet
 
-## # [1. Reebok Men's Crossfit Nano 8.0 Flexweave Sneaker](https://www.amazon.com/dp/B077Z99PQD/?tag=p-policy-20)
+###  [1. Reebok Men's Crossfit Nano 8.0 Flexweave Sneaker](https://www.amazon.com/dp/B077Z99PQD/?tag=p-policy-20)
 
 Reebok Crossfit Nano 8. 0 Flexweave is one of the Best Cross Training Shoes for Wide Feet. It has a roomy forefoot area that accommodates cross trainers with wide feet. The Nano 8. 0 Flexweave is also highly versatile, comfortable, and durable.
 
@@ -42,7 +42,7 @@ The outsole features a high abrasion rubber compound that provides traction duri
 
 Cons: - Some customers complained about heel slippage
 
-## # [2. inov-8 Men's F-LITE 260 Knit (M) Cross Trainer](https://www.amazon.com/dp/B07GH2C5ZC/?tag=p-policy-20)
+###  [2. inov-8 Men's F-LITE 260 Knit (M) Cross Trainer](https://www.amazon.com/dp/B07GH2C5ZC/?tag=p-policy-20)
 
 Inov-8 F-LITE 260 is one of the best CrossFit shoes for wide feet. It has a spacious toe box that comfortably accommodates people with wide feet.
 
@@ -64,7 +64,7 @@ Cons: - Pricey
 
 Related: [Best Cross Training Shoes for Bad Knees](https: //pestpolicy. com/best-cross-training-shoes-for-bad-knees/)
 
-## # [3. Nike Men's Metcon 5 Training Shoe](https://www.amazon.com/dp/B07TCFCGKD/?tag=p-policy-20)
+###  [3. Nike Men's Metcon 5 Training Shoe](https://www.amazon.com/dp/B07TCFCGKD/?tag=p-policy-20)
 
 Nike Metcon 5 is a top-rated cross-training shoe that has become a favorite for most wide footed people looking for a comfortable, stable, and supportive training shoe. It has a roomy and flexible forefoot, dual-density midsole, and a firm heel to support CrossFit and weightlifting.
 
@@ -80,7 +80,7 @@ The rubber panels provide protection during rope exercises. Rope climbing exerci
 
 Cons: - Some people were unhappy with the bulky design
 
-## # [4. New Balance Fresh Foam Zante V1 Cross Trainer](https://www.amazon.com/dp/B07DVR52XX/?tag=p-policy-20)
+###  [4. New Balance Fresh Foam Zante V1 Cross Trainer](https://www.amazon.com/dp/B07DVR52XX/?tag=p-policy-20)
 
 New Balance Fresh Foam Zante V1 is a well-fitting, comfortable, lightweight, and breathable shoe. It has a wide width profile and spacious forefoot to accommodate wide feet.
 
@@ -96,7 +96,7 @@ The shoe features a lace-up design that integrates a webbing system that wraps t
 
 Cons: - A customer complained about loose upper construction
 
-## # [5. Adidas Performance Men's Powerlift.3 Cross-trainer Shoe](https://www.amazon.com/dp/B01H1BI6D8/?tag=p-policy-20)
+###  [5. Adidas Performance Men's Powerlift.3 Cross-trainer Shoe](https://www.amazon.com/dp/B01H1BI6D8/?tag=p-policy-20)
 
 Adidas Performance Powerlift. 3 is one of the best cross-training shoes for wide feet. It is spacious and has roomy forefoot to accommodate people with big feet.
 
@@ -114,7 +114,7 @@ Cons: - You might need to size up for a perfect fit
 
 Also Read: [Best Cross Training Shoes for High Arches](https: //pestpolicy. com/best-cross-training-shoes-for-high-arches/)
 
-## # [6. PUMA Women's Tazon 6 WN's FM Cross-Trainer Shoe](https://www.amazon.com/dp/B01C3LLHGE/?tag=p-policy-20)
+###  [6. PUMA Women's Tazon 6 WN's FM Cross-Trainer Shoe](https://www.amazon.com/dp/B01C3LLHGE/?tag=p-policy-20)
 
 PUMA Tazon 6 FM is a reliable workout companion thanks to its supportive, durable, and lightweight features. It has a spacious toe box and a good lacing system that makes it ideal for wide footed people.
 
@@ -130,7 +130,7 @@ The outsole features a durable rubber compound thats slip-resistant and provides
 
 Cons: - Some customers reported that the interior of the shoe got hot during intense workouts
 
-## # [7. NIKE Women's Flex 7 Cross-Training Shoe](https://www.amazon.com/dp/B01LPGRVI6/?tag=p-policy-20)
+###  [7. NIKE Women's Flex 7 Cross-Training Shoe](https://www.amazon.com/dp/B01LPGRVI6/?tag=p-policy-20)
 
 The NIKE Flex TR 7 is a highly versatile CrossFit shoe that boasts of comfort, perfect fit, and roomy forefoot to accommodate wide footed people.
 
@@ -144,26 +144,26 @@ The forefoot features Flywire cable technology that promotes snug fit. It helps 
 
 Cons: - Some people complained that the heel and arch support was insufficient
 
-# # Buyers Guide for Best Cross Training Shoes for Wide Feet
+##  Buyers Guide for Best Cross Training Shoes for Wide Feet
 
-## # Comfort
+###  Comfort
 
 Best cross training shoes for wide feet should have spacious forefoot and toe box to accommodate the big feet. A wide toe box allows the natural movement of toes for a balanced and stable workout experience.
 
 Further, the upper material for shoes of wide feet people should be stretchy enough to accommodate the feet during intense sessions. The upper should also be breathable to allow air into the shoe chamber
 
-## # Firmer Outsole and Midsole
+###  Firmer Outsole and Midsole
 
 A firm outsole and midsole ensure you have comfortable and injury-free workouts. Cross-training involves a lot of jumping, rope climbing, and heavy lifting among many other intense workouts. Therefore, choosing shoes with the firm midsole and outsole will ensure you achieve your training goals
 
 Also, ensure the outsole is durable and provides reliable traction to avoid accidental falls or slips during the workout session.
 
-## # Heel Drop
+###  Heel Drop
 
 Most CrossFit shoes have a heel drop of 4mm and 6mm. A low profile heel helps you easily control your movements as you transition from one exercise to the other. All the above-reviewed shoes have a good midsole height that provides needed steadiness and shock attenuation.
 
 A low heel drop makes heavy weight lifting bearable as it provides a good platform, stability, and close to ground contact.
 
-# # Conclusion
+##  Conclusion
 
 I hope that this review on the best cross-training shoes for wide feet has been helpful. Purchasing a reliable cross trainer will make your CrossFit training bearable and successful. Some important considerations when buying cross-training shoes for wide feet include roomy toe box, lightweight, durability, comfort, and low heel profile.

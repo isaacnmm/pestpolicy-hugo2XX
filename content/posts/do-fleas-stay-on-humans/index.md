@@ -21,7 +21,7 @@ So, do fleas stay on humans? If you're like most humans, you'll start scratching
 
 Overall, fleas will stay on humans for a maximum of 24 hours before jumping onto their preferred host like cats and dogs. * amazon bestseller="Best [Flea Killers" items="2" template="table"]
 
-# # Details: Do Fleas Stay on Humans and Bite Us? Treatment?
+##  Details: Do Fleas Stay on Humans and Bite Us? Treatment?
 
 Cat, dog, or human fleas have [different preferred hosts](https: //www. petmd. com/flea/infographic/flea-habitats-home). Despite that all of them can feed on a non-preferred host, their fertility is significantly reduced. - For example, the female fleas' ovaries won't develop fully when provided on a non-preferred host.
 
@@ -31,13 +31,13 @@ Cat fleas ( *C. felis* ) won't prefer humans as their primary hosts since dietin
 
 Of the more than 2, 000 flea species, only the human fleas will stay on humans for a bit long since it has adapted for that purpose - it has extended hind legs and measures about 1. 5-3mm in their body length.
 
-# # Cat Fleas' Survival
+##  Cat Fleas' Survival
 
 [Cat fleas](https: //pestpolicy. com/best-flea-comb-for-cats/) will survive but won't adequately breed, just on a diet from human blood. For example, male and female fleas will remain alive for 17 and 30 days if fed at intervals of 10 minutes. Further, feeding the fleas for 15 minutes per day will allow the fleas to survive for between 139-185 days - check this Flea Treatment [for Cats](https: //pestpolicy. com/best-flea-treatment-for-cats/).
 
 However, another research reported that fleas survived for 12 days feeding on human blood continuously - and the survival rate increased when the attendants added dog hair.
 
-# # Will the fleas Bite Cause Allergic Reactions?
+##  Will the fleas Bite Cause Allergic Reactions?
 
 Humans and pets will react differently to flea bites. For example, some will show extra sensitivity on their skin, evidenced by skin lesions, severe itching, and allergic reaction. On humans, [flea bites](https: //pestpolicy. com/can-fleas-live-on-clothes/) may leave red welts that could be hard and small in size, depending on the skin's sensitivity.
 

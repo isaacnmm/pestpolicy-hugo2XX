@@ -20,9 +20,9 @@ Hence, all the Lego sets in this list are user-friendly have easy-to-follow inst
 
 Related: [Best Lego [Set](https: //pestpolicy. com/best-lego-sets-for-8-year-old-boy/) For an 11-Year-Old Boy](https: //pestpolicy. com/best-lego-set-for-11-year-old-boy/)
 
-# # Review: Best Lego Sets For 9 Year Old Boy
+##  Review: Best Lego Sets For 9 Year Old Boy
 
-## # [1. LEGO STAR WARS Millennium Falcon (75105)](https://www.amazon.com/dp/B00WI0PJE2/?tag=p-policy-20)
+###  [1. LEGO STAR WARS Millennium Falcon (75105)](https://www.amazon.com/dp/B00WI0PJE2/?tag=p-policy-20)
 
 We begin our review for the Best Lego Sets For 9 Year Old Boy with this high-rated and famous LEGO STAR WARS Millennium Falcon.
 
@@ -44,7 +44,7 @@ Cons: - 2 characters cannot fit in the cockpit
 
 Also Checkout: Best Stunt Scooter For 12 Year Old
 
-## # [2. LEGO Elves Queen Dragon's Rescue (41179)](https://www.amazon.com/dp/B01CU9WNLW/?tag=p-policy-20)
+###  [2. LEGO Elves Queen Dragon's Rescue (41179)](https://www.amazon.com/dp/B01CU9WNLW/?tag=p-policy-20)
 
 The LEGO Elves Queen Dragon's Rescue is another amazing Lego set that your 9 year old will definitely love. With 833 pieces to put together, your child will have a time of their lives building and rebuilding with this creative play toy.
 
@@ -60,7 +60,7 @@ In addition, the set includes a 2-story castle tower that has a cave, bedroom, o
 
 Cons: - Pricey
 
-## # [3. LEGO Marvel Avengers (76126)](https://www.amazon.com/dp/B07JXP6R13/?tag=p-policy-20)
+###  [3. LEGO Marvel Avengers (76126)](https://www.amazon.com/dp/B07JXP6R13/?tag=p-policy-20)
 
 Let your childs imagination soar with this amazing LEGO Marvel Avengers. This set provides an unforgettable building fun and adventures for Avenger fans. This set features a detailed Quinjet model with an assortment of weapons for battles.
 
@@ -80,7 +80,7 @@ Cons: - Pricey but worth all the fun
 
 Also Read: [Best Lego Sets for 8 Year Old Boy](https: //pestpolicy. com/best-lego-sets-for-8-year-old-boy/)
 
-## # [4. LEGO Friends Amusement Park Roller Coaster (41130)](https://www.amazon.com/dp/B01CU9WV32/?tag=p-policy-20)
+###  [4. LEGO Friends Amusement Park Roller Coaster (41130)](https://www.amazon.com/dp/B01CU9WV32/?tag=p-policy-20)
 
 The LEGO Friends Amusement Park Roller Coaster is also one of the best Lego sets for 9 year old boy. It's an amusement park-themed Lego set that allows your child to stretch his imagination and build an entertaining and fun-filled Amusement Park.
 
@@ -96,7 +96,7 @@ The entrance booth has a ticket office and a rotating turnstile. The drop power 
 
 Cons: - It May take time to put it together
 
-## # [5. LEGO Harry Potter Hogwarts Astronomy Tower (75969)](https://www.amazon.com/dp/B0858JV9RD/?tag=p-policy-20)
+###  [5. LEGO Harry Potter Hogwarts Astronomy Tower (75969)](https://www.amazon.com/dp/B0858JV9RD/?tag=p-policy-20)
 
 The LEGO Harry Potter Hogwarts Astronomy Tower also finds a spot in this list for the best Lego sets for 9 year old boy. It comes with amazing features and functionalities to make playtime memorable.
 
@@ -112,7 +112,7 @@ Other than that, this Harry potters Lego set is quite easy and satisfying to bui
 
 Cons: - A customer complained that it breaks apart easily
 
-## # [6. LEGO Star Wars Luke Skywalkers X-Wing Fighter (75301)](https://www.amazon.com/dp/B08HW1NFWQ/?tag=p-policy-20)
+###  [6. LEGO Star Wars Luke Skywalkers X-Wing Fighter (75301)](https://www.amazon.com/dp/B08HW1NFWQ/?tag=p-policy-20)
 
 The LEGO Star Wars Luke Skywalkers X-Wing Fighter is an excellent set for a 9-year-old boy or girl. It comes with amazing features and functionalities to make playtime more enjoyable.
 
@@ -132,7 +132,7 @@ Cons: - A customer complained that some parts may fell off
 
 Also Checkout: Best Power Wheels for 7 Year Old
 
-## # [7. LEGO Technic Chevrolet Corvette ZR1 (42093](https://www.amazon.com/dp/B07GYTVQN5/?tag=p-policy-20))
+###  [7. LEGO Technic Chevrolet Corvette ZR1 (42093](https://www.amazon.com/dp/B07GYTVQN5/?tag=p-policy-20))
 
 Does your 9-year-old love supercars? Give them an opportunity to build the most powerful and fasted iconic corvette replica. The LEGO Technic Chevrolet Corvette ZR1 allows the 9-year-old to put his imagination and creativity into practice by building this superfast car.
 
@@ -146,6 +146,6 @@ Cons: - You might need to size up
 
 Pros - Allows the child to recreate supercar models - Encourages the child to explore supercar engineering - Has amazing features like the large rear wing and others Cons - Tricky to assemble
 
-# # Conclusion
+##  Conclusion
 
 The Best Lego Sets For 9 Year Old Boy will keep you boy entertained for hours while helping to develop important skills like creativity, imagination, and problem-solving. I have done comprehensive research and came up with Lego sets that you can buy right away for your 9-year-old. Hence, you can choose any Lego set from my list and gift your son for an awesome and fun-filled play experience.

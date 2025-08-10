@@ -23,9 +23,9 @@ Whats their size, color, and body shape compared to objects such as liberty coin
 
 Lets get started! *
 
-# # What Do Bed Bugs Look Like? 99+ Pictures of Bed Bugs
+##  What Do Bed Bugs Look Like? 99+ Pictures of Bed Bugs
 
-## # **1. ****Actual Size of Adult ****Bed Bugs**(See Pictures)
+###  **1. ****Actual Size of Adult ****Bed Bugs**(See Pictures)
 
 **Size**: Adult Bed bugs are rusty-brown insects that measure 4-5 mm long - about inch or the size of an apple seed. Youll notice reddish or *Rusty stains on your mattresses * or bed sheets caused by the bugs. [caption id="" align="aligncenter" width="480"]
 
@@ -43,13 +43,13 @@ Media coverage on bed bugs recommends searching behind walls, examining bed and 
 
 **Real bed bug waste**: Bed bug poop will look like tiny clustered spots on the bed frames. The poop is mainly made of digested blood that turns black, rust-colored, and darker after drying.
 
-## # 2. Bed Bugs on Tape Measure
+###  2. Bed Bugs on Tape Measure
 
 This must have been a notorious one - well, it was dead when taking these pictures. I found it on the bathroom floor. For this, I used Diatomaceous Earth - and its evident that it worked.
 
 **Definition**: Adult bed bugs will measure about a quarter-inch (4 - 5mm) in length and are reddish-brown. They are flat to oval-shaped, depending on the amount of blood theyve sucked. However, adult bed bugs and make just one-sixth of these bugs population. *Baby bed bugs*: But, baby bed bugs will mainly be pale white and about a millimeter in millimeter at birth and will readily blend with the background. So, lets get into the details.
 
-## # 3. Massive Bed Bug Infestation on Sofa
+###  3. Massive Bed Bug Infestation on Sofa
 
 Bed bugs will hide in most furniture types - particularly in their undersides, seams, and corners. - The rule of thumb is that bed bugs will fit in any crack that can also take a credit card. *Check the bugs below hanging on sofas! *
 
@@ -59,7 +59,7 @@ Rarely will bed bugs hide in vinyl, suede, or leather sofa or couch materials. -
 
 Related: Vacuum to kill bed bugs, eggs in crevices, and cracks.
 
-## # 4. Dead Bed Bugs, their Eggs, and Nymphs
+###  4. Dead Bed Bugs, their Eggs, and Nymphs
 
 Youll find most dead bed bugs to be shriveled and lying on their back. If you inspect your mattresses and box spring, you might notice signs of bed bugs.
 
@@ -71,7 +71,7 @@ Any bugs that are still alive will run away with subtle lighting ( **afraid of l
 
 Image Credits: AFPMB [/caption] You might also want to inspect hidden areas like wall joins, ceiling and cracks, bedroom furniture, and carpet, and your beds. - Below is a video of some dead bugs. Disclaimer, some live ones were filmed.
 
-## # **2. Pictures ofbaby bed bugs**
+###  **2. Pictures ofbaby bed bugs**
 
 Baby bed bugs will hatch from eggs (theyre pinhead-sized) and grow to be adults in only one month. But these insects will require a dry and warm environment. - Bed bug eggs ([nymphs](https: //www. epa. gov/bedbugs/bed-bugs-appearance-and-life-cycle)) are visible using your naked eye - theyre colored translucent (when freshly hatching) to whitish-yellow/ brownish as they continue feeding.
 
@@ -81,15 +81,15 @@ Without a blood meal, the bugs wont develop to their next stage. Despite that th
 
 Bed bug larvae measure about a millimeter when they are born, and they tend to be pale white, which makes them blend readily with the background. - You can see blood inside a nymph babies body after it has had its generous blood meal. Youll notice that these bugs look anything like a small swollen balloon. To treat these bed bugs infestations, check here.
 
-# # Well, for a small bed bug infestation, could be just one female whos mated and shes in a package or your home - and thats all theyll require. The bed bug needs to feed on blood to nourish the eggs shed produce.
+##  Well, for a small bed bug infestation, could be just one female whos mated and shes in a package or your home - and thats all theyll require. The bed bug needs to feed on blood to nourish the eggs shed produce.
 
-## # 3. Pictures of Bed bug Eggs (Theyre Oval & White)
+###  3. Pictures of Bed bug Eggs (Theyre Oval & White)
 
 Females will lay about 250 eggs over their lifetime, which is about 2-4 months. The oval and white eggs are 1/16 inches in length - something like the rice grain - and youll mainly find them in crevices and cracks.
 
 The eggs have round ends with an elongated and oval-shaped body. - The eggs are attached to a glue-type substance thatll render them challenging to remove or move. - But the eggs have a wet spot look - you can use a flashlight plus a magnifying lens to search for them. Theyll hatch into babies in about 6-10 days. Further, its nymphs tend to mold about five times before attaining adulthood. Need a video instead? Check this right below.
 
-## # 3. Males vs. Female Bed Bugs
+###  3. Males vs. Female Bed Bugs
 
 The main difference between females vs. male bed bugs is that they have a rounded abdomen while the males have a pointed abdomen. [caption id="" align="aligncenter" width="228"]
 
@@ -107,7 +107,7 @@ So, weve noted that females and males hold (based on their functions) internal o
 
 Therefore, you can see the hemocoel and ovaries in the female bed bugs. Further, you can see a dark area on the females abdomen (at its back) - which we noted is its hemocoel.
 
-## # 4. Bed Bugs Engorged with Blood
+###  4. Bed Bugs Engorged with Blood
 
 Bed bugs will mainly feed on blood meals during the night - this is when sleeping humans release carbon dioxide that tends to attract these bugs. - Within 5 to 10 minutes, the Cimex lectularius will be fully engorged with your blood.
 
@@ -119,13 +119,13 @@ The bugs will hide for about 5 to 10 days; theyll digest the blood, mate, and la
 
 Image Credit: [Bed-bugs-handbook](http: //bed-bugs-handbook. com) [/caption]
 
-## # 4. Bed bugs on Curtains
+###  4. Bed bugs on Curtains
 
 The bugs may hide and live in drape fabrics. The fabric provides the bed bugs with hiding areas and dark folds. They quickly get to your curtain by climbing on adjacent walls or other drapes.
 
 The bugs will lay eggs on the curtain thatll stick more due to their glue. - Heres a couple of adult bed bugs, their eggs, nymph, andflea dirton the top inside of thecurtains - this is so scary being in a kids room! - Some bed bugs may attack drapes in packing, shipping, or on the production floor. The curtain may also pick bugs at the dry cleaner. This may again come from bed-bug-infested luggage rugs or mattresses to your drapes.
 
-## # **5. Pictures of Bed Bugson Mattress******
+###  **5. Pictures of Bed Bugson Mattress******
 
 Female Cimex lectularius will lay their eggs in crevices and cracks, particularly on the edges of your bed frames, box springs, and mattresses.
 
@@ -133,13 +133,13 @@ The pest will also occupy crevices and cracks - hiding in bed rails, headboards,
 
 First, to control these bugs, stay off the home, change your bedding, and clean up. - Check reddish or rusty stains on mattresses and bedsheets from the pests that may have been crushed. - Check for nymphs and their skins (colored pale-yellow) or the dark spots mainly caused by Cimex lectularius poop. Further, examine the clothing and under crevices.
 
-## # 5. Bed bugs on a Petri Dish
+###  5. Bed bugs on a Petri Dish
 
 These are the bed bugs that my neighbor collected in her daughters room. Sadly her kids had a meltdown - particularly with her son, who has autism, and thus they had to sleep at my house.
 
 This made the neighbor feel like a bad mother that the kids had to endure all this.
 
-## # **5. Pictures of Bed Bug Bites**
+###  **5. Pictures of Bed Bug Bites**
 
 Bed bugs dont spread disease, but theyre expensive to exterminate and difficult to contain. - Some people also experience allergic reactions from bed bug bites - check the[pictures of bed bug bites](https: //pestpolicy. com/pictures-of-bed-bug-bites/).
 
@@ -147,20 +147,20 @@ In this video, Louis Sorkin (an entomologist) describes how bed bugs look and be
 
 Besides, these critters will leave behind bites that are in straight rows. Further, itching from bed bugs bites may be severe to make one break their skin.
 
-## # **6. Bed bugs on the Suitcase**
+###  **6. Bed bugs on the Suitcase**
 
 Most people will either see bed bugs crawling, bed bugs, dirt, or skin reaction from a bed bug bite. Most bed bugs will get into your home by hitchhiking your clothes or jumping onto your briefcase or luggage when youre traveling. Related: What will cause Bed Bugs? .
 
 To control these critters, place the suitcases in unique provided garbage bags and position them outside in the cold. Further, you may set the luggage in the car trunk if it heats to about 120 degrees.
 
-## # **7. Bed bugs on Liberty Coin**
+###  **7. Bed bugs on Liberty Coin**
 
 Below is an image of a [comparison between a real adult bed bug](https: //pestpolicy. com/stink-bugs-vs-bed-bugs/) and a liberty coin.
 
-## # **8. Bed bugs on Wiring**
+###  **8. Bed bugs on Wiring**
 
 Also, bed bugs will easily migrate from one room or house to another through Wiring. - Bed bugs will usually feed on your blood when youre sleeping. First, the bug injects a mumbling agent into your body such that youll only feel the bites after about 10 minutes.
 
-# # Conclusion
+##  Conclusion
 
 On thepictures of bed bugs; males wont lay eggs like their female counterparts. They all have six legs, are brown, and are about an apple seed in size. None of them will take care of the young nymphs or eggs.

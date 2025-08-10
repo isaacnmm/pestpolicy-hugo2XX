@@ -21,7 +21,7 @@ Unlike many other lawn grasses, St. Augustine is typically not grown from seed d
 
 Establishing a St. Augustine lawn, or repairing bare spots, can create a dense, beautiful turf that effectively chokes out many weeds. This guide will walk you through the various methods of spreading St. Augustine grass, from preparing your site to ongoing maintenance, ensuring a successful and vibrant lawn.
 
-# # When To Plant St. Augustine Grass
+##  When To Plant St. Augustine Grass
 
 Timing is a critical factor for successful St. Augustine grass establishment. As a warm-season grass, it thrives in heat and requires specific temperature conditions for optimal growth and rooting.
 
@@ -37,7 +37,7 @@ The best time to plant St. Augustine grass, whether using sod, plugs, or sprigs,
 
 In summary, aim for a period when consistent warm weather is expected, ensuring at least 6-8 weeks of ideal growing conditions for the grass to root deeply before any significant temperature drops.
 
-# # How To Prepare the Planting Area
+##  How To Prepare the Planting Area
 
 Proper site preparation is paramount to the long-term success of your St. Augustine lawn. Neglecting this step can lead to poor establishment, weed problems, and a less-than-ideal turf.
 
@@ -57,11 +57,11 @@ Apply according to label directions and allow sufficient time (usually 7-14 days
 
 * **Final Rake: ** Rake the entire area smooth and level, removing any remaining debris or large clods. The surface should be firm enough that you don't sink deeply when walking on it, but not compacted.
 
-# # Planting Methods for St. Augustine Grass
+##  Planting Methods for St. Augustine Grass
 
 St. Augustine grass is primarily propagated vegetatively, meaning from parts of the plant rather than seeds. The most common methods are sod, plugs, and sprigs, each with its own advantages, costs, and establishment times.
 
-## # 1. Sodding (Instant Lawn)
+###  1. Sodding (Instant Lawn)
 
 * **Description: ** Sod consists of mature St. Augustine grass grown on a thin layer of soil, harvested in rolls or squares. * **Pros: ** * **Instant Lawn: ** Provides an immediate green lawn. * **Fast Establishment: ** Roots quickly into the prepared soil, typically within 2-4 weeks. * **Weed Suppression: ** Its density immediately smothers most weeds. * **Cons: ** * **Highest Cost: ** Most expensive method.
 
@@ -73,7 +73,7 @@ St. Augustine grass is primarily propagated vegetatively, meaning from parts of 
 
 **Roll/Tamp: ** After laying, roll the entire area with a lawn roller (or tamp lightly by walking on it) to ensure good sod-to-soil contact and remove air pockets. 5. **Water Immediately: ** Water the newly laid sod thoroughly, aiming for the top 4-6 inches of soil to be wet. Keep it consistently moist (multiple light waterings per day) for the first 2-3 weeks.
 
-## # 2. Plugging (Economical for Smaller Areas)
+###  2. Plugging (Economical for Smaller Areas)
 
 * **Description: ** Plugs are small squares or circles of established St. Augustine grass. * **Pros: ** * **More Economical: ** Cheaper than sod. * **Less Labor Intensive (initial): ** Easier to transport and plant than sod. * **Good for Repair: ** Ideal for filling in bare spots or establishing a smaller lawn. * **Cons: ** * **Slower Establishment: ** Takes longer to fill in (6-12 months, sometimes longer) compared to sod.
 
@@ -83,7 +83,7 @@ Gently firm the soil around each plug. 3.
 
 **Water Immediately: ** Water the entire area thoroughly after planting. 4. **Post-Planting: ** Keep the plugs and surrounding soil consistently moist until they start to spread.
 
-## # 3. Sprigging (Most Economical, Slowest Establishment)
+###  3. Sprigging (Most Economical, Slowest Establishment)
 
 * **Description: ** Sprigs are individual stolons (runners) or small pieces of stolons with at least one node (a growing point). They usually come without soil attached. * **Pros: ** * **Most Economical: ** Cheapest method for large areas. * **Cons: ** * **Slowest Establishment: ** Can take 12-18 months or more to fully establish a dense lawn. * **Highest Weed Competition: ** Extremely vulnerable to weeds due to large amounts of exposed soil.
 
@@ -93,7 +93,7 @@ Gently firm the soil around each plug. 3.
 
 Some prefer to lightly cover sprigs with a thin layer of topsoil (no more than 1/4 inch) but ensure the nodes are not buried too deeply. 4. **Water Immediately: ** Water the entire area thoroughly. 5. **Post-Planting: ** Keep the area consistently moist for several weeks, similar to plug installation.
 
-# # Fertilizing Newly Planted St. Augustine Grass
+##  Fertilizing Newly Planted St. Augustine Grass
 
 Fertilizing newly planted St. Augustine grass is crucial for promoting strong root development and rapid establishment. However, the type and timing of fertilizer application are critical to avoid damaging the tender new grass.
 
@@ -119,7 +119,7 @@ Typically, St. Augustine benefits from fertilization every 6-8 weeks during its 
 
 Liquid: ** Slow-release granular fertilizers are generally preferred for new establishments as they provide a consistent supply of nutrients.
 
-# # Maintenance Tips for St. Augustine Grass
+##  Maintenance Tips for St. Augustine Grass
 
 Once your St. Augustine grass is planted, ongoing maintenance is crucial for successful establishment and a healthy, thriving lawn.
 
@@ -143,7 +143,7 @@ Post-emergent herbicides should only be used once the grass is fully established
 
 5. **Thatch Management: ** * St. Augustine grass is prone to thatch buildup (a layer of dead and living organic matter between the soil surface and green blades). Excessive thatch can hinder water penetration and harbor pests/diseases. * Light dethatching or verticutting may be needed every few years once the lawn is mature.
 
-# # So, Is Spreading St. Augustine Grass Worth the Effort?
+##  So, Is Spreading St. Augustine Grass Worth the Effort?
 
 Despite the initial effort involved in site preparation and planting, establishing a St. Augustine lawn is often well worth it for homeowners in suitable climates.
 
@@ -163,7 +163,7 @@ Despite the initial effort involved in site preparation and planting, establishi
 
 For those in the right climate, the benefits of a beautiful, resilient St. Augustine lawn typically outweigh the initial efforts. Its low maintenance once established and ability to thrive in challenging conditions make it a rewarding choice for many homeowners.
 
-# # FAQs About St. Augustine Grass
+##  FAQs About St. Augustine Grass
 
 **Q: Can I grow St. Augustine grass from seed? ** A: While St. Augustine grass does produce seeds, they have very poor germination rates and are notoriously difficult to establish. For this reason, it is almost exclusively propagated vegetatively using sod, plugs, or sprigs for reliable results.
 

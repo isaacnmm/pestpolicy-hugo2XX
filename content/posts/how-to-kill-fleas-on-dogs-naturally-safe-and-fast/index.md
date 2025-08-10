@@ -19,9 +19,9 @@ Natural flea control methods will not leave [dangerous chemical residues](https:
 
 Chemicals aside, today we discuss step by step process to control fleas on your dog naturally.
 
-# # How to Kill Fleas on Dogs Naturally (4 Quick Steps)
+##  How to Kill Fleas on Dogs Naturally (4 Quick Steps)
 
-## # 1. Flea combing
+###  1. Flea combing
 
 To ease the scratching and itching caused by flea combs will weed out fleas of all sizes from your dogs fur. A flea comb has finely spaced teeth/ tines to physically trap and eject the flea "dirt, " fleas, larvae, and flea eggs. Luckily, the flea combing process leaves your dog well-groomed, too, and happy. Use the flea comb when your dogs fur is not tangled, thick, and extended to increase effectiveness and reduce pain.
 
@@ -33,7 +33,7 @@ Start the flea combing process with the dogs head, neck, and shoulders, and fina
 
 Repeat the combing all over the dogs body to catch any flea that could have escaped. Finally, after completing the flea combing process, allow the soapy water to remain in the bucket for about 15 minutes to drown the fleas. Ultimately, dispose of the clothing, newspaper, and bucket water that you used to flea comb. Also, vacuum the whole room where you were cleaning the dog.
 
-## # 2. Use Apple Cider vinegar - Bathing and Drinking
+###  2. Use Apple Cider vinegar - Bathing and Drinking
 
 First things first: apple cider vinegar (ACV) will not kill fleas but will create an unfriendly atmosphere (both taste and smell) that will repel the fleas from your dog. According to the FDA, apple cider vinegar has antibacterial and antioxidant features. The essential oil from Alaskan yellow cedar causes lethal effects on the fleas.
 
@@ -43,7 +43,7 @@ So much with the description; to control fleas for your dog using ACV, use sleep
 
 For drinking, add a teaspoon of the apple cider vinegar (fermented) to a bowl of water ( *quarter-liter* ) and give the dog to drink. The treatment will make the dogs skin to become acidic and hence repel fleas and ticks.
 
-## # 3. Use borax powder
+###  3. Use borax powder
 
 Borax, named Sodium Tetraborate or Disodium Tetraborate, is a direct natural mineral (looks like table salt) like a complex boron compound combined with sodium elements. In its powdered form, borax is regularly employed in many cleaning agents. My readers tell me that theyve found borax, like me, to be less-smelly, less-toxic, and more effective in flea control.
 

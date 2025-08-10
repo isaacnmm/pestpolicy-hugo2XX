@@ -22,9 +22,9 @@ Hence, I have reviewed some of the high rated Water Tables For 1-Year-Old. Check
 
 Also Read: Best Power Wheels for 1-Year-Old
 
-# # Review: 7 Best Water Tables For 1 Year Old
+##  Review: 7 Best Water Tables For 1 Year Old
 
-## # [1. Little Tikes Spiralin' Seas Play Table](https://www.amazon.com/dp/B004INDQWY/?tag=p-policy-20)- Best Water Tables For 1 Year Old
+###  [1. Little Tikes Spiralin' Seas Play Table](https://www.amazon.com/dp/B004INDQWY/?tag=p-policy-20)- Best Water Tables For 1 Year Old
 
 The Little Tikes Spiralin' water table comes with excellent features and various play accessories to make playtime a fun-filled experience for the 1-year-old.
 
@@ -40,7 +40,7 @@ The water table includes 5 round characters and 1 cup. The 1-year-old learns to 
 
 Cons: - Some people experienced a challenge screwing the swirl
 
-## # [2. UNIH Kids Sand and Water Table](https://www.amazon.com/dp/B08YRPBN8V/?tag=p-policy-20)- 1-Year-Old Water Table
+###  [2. UNIH Kids Sand and Water Table](https://www.amazon.com/dp/B08YRPBN8V/?tag=p-policy-20)- 1-Year-Old Water Table
 
 The UNIH beach sand toy set and water table provide 1-3-year-olds an opportunity to utilize their senses to discover the world around them. This set of beach toys for kids ensure that your little one has an excellent play experience.
 
@@ -54,7 +54,7 @@ If your toddler loves the outdoors, you need to get him play equipment that will
 
 Cons: - Pricey
 
-## # [3. Little Tikes Anchors Away Pirate Ship](https://www.amazon.com/dp/B00B0DWB62/?tag=p-policy-20)
+###  [3. Little Tikes Anchors Away Pirate Ship](https://www.amazon.com/dp/B00B0DWB62/?tag=p-policy-20)
 
 Little Tikes produces some of the best outdoor toys for kids and the Little Tikes Anchors Away Pirate Ship is no exception. It comes with excellent fun features to keep your little one entertained for hours.
 
@@ -70,7 +70,7 @@ Cons: - Some reviewers complained that the drain plug was not effective
 
 Also Read: [Best Power Wheels for 2 Year Old](https: //pestpolicy. com/best-power-wheels-for-2-year-old/)
 
-## # [4. Roberty Kids Play Sand Water Table](https://www.amazon.com/dp/B093D2WXTF/?tag=p-policy-20)- Water Tables For 1 Year Old
+###  [4. Roberty Kids Play Sand Water Table](https://www.amazon.com/dp/B093D2WXTF/?tag=p-policy-20)- Water Tables For 1 Year Old
 
 Let your one year old have an excellent childhood memory filled with fun and excitement with this Roberty Kids Play Sand Water Table. This water table is a perfect birthday or holiday gift you can give your child.
 
@@ -84,7 +84,7 @@ In addition, this Beach Play Activity Table has beach toys that can make the chi
 
 Cons: - It's short, the child will outgrow it soon
 
-## # [5. Little Tikes Mermaid Island Wavemaker Water Table](https://www.amazon.com/dp/B07VJX4G5X/?tag=p-policy-20)
+###  [5. Little Tikes Mermaid Island Wavemaker Water Table](https://www.amazon.com/dp/B07VJX4G5X/?tag=p-policy-20)
 
 Little Tikes Mermaid Island Wavemaker is excellent outdoor play equipment for toddlers. Its a unique water table with 5 different play stations to keep the kids entertained for hours.
 
@@ -98,7 +98,7 @@ Pros: - Easy to assemble - Accommodates multiple kids - Various play activities 
 
 Cons: - Some people complained of missing parts
 
-## # [6. Step2 Spill & Splash Seaway Water Table](https://www.amazon.com/dp/B0193MPQK4/?tag=p-policy-20)
+###  [6. Step2 Spill & Splash Seaway Water Table](https://www.amazon.com/dp/B0193MPQK4/?tag=p-policy-20)
 
 Let your kids have a fun time outdoors by getting them this amazing Step2 Spill & Splash Seaway Water Table. This water table is an excellent choice for 1-year-olds as they can support themselves and still have a great time playing with water.
 
@@ -112,7 +112,7 @@ Youll love the excitement of your little one as he splashes away from the water.
 
 Cons: - A reviewer complained that the waterfall feature doesnt work
 
-## # [7. Step2 Rain Showers Splash Pond Water Table](https://www.amazon.com/dp/B01K1K0K6M/?tag=p-policy-20)
+###  [7. Step2 Rain Showers Splash Pond Water Table](https://www.amazon.com/dp/B01K1K0K6M/?tag=p-policy-20)
 
 Bring the thrill and fun of outdoor play to your child with this high-rated Step2 Rain Showers Splash water table. This playset allows you to create a small water park at the convenience of your backyard for unmatched fun.
 
@@ -126,6 +126,6 @@ Some skills that the child acquires while playing with a water table include ste
 
 Cons: - No predrilled holes, thus assembling it might be hard
 
-# # Conclusion
+##  Conclusion
 
 Let your 1-year-old have a memorable childhood experience by getting him/her the best water tables for 1 year old. Water tables provide a perfect opportunity for toddlers to develop sensory exploration, stem learning, motor skills, and eye-hand coordination.

@@ -22,7 +22,7 @@ For many regions, this month offers a second prime growing season, especially fo
 
 Ignoring your lawn and garden in September means missing out on key opportunities for strengthening turf, planting new additions, and safeguarding your landscape against winter's chill. This comprehensive guide will walk you through the most important tasks to tackle this month, ensuring your outdoor space remains vibrant and healthy year-round.
 
-# # General Garden Cleanup & Maintenance
+##  General Garden Cleanup & Maintenance
 
 As summer annuals fade and vegetable harvests wind down, it's time for a thorough cleanup.
 
@@ -36,7 +36,7 @@ Persistent perennial weeds are easier to manage when the soil is still relativel
 
 Sharpen blades, oil moving parts, and store them in a dry place to prevent rust.
 
-# # Lawn Care Essentials for September
+##  Lawn Care Essentials for September
 
 September is arguably the most important month for cool-season lawns and a key transition for warm-season varieties.
 
@@ -54,7 +54,7 @@ Weeds are actively absorbing nutrients this time of year, making post-emergent h
 
 As growth slows down towards the end of the month, you may gradually lower the cutting height for the final cut before winter (especially for cool-season grasses, to prevent matting). Always follow the one-third rule.
 
-# # Planting & Propagation
+##  Planting & Propagation
 
 September is a prime planting window for many plants, giving them time to establish before winter dormancy.
 
@@ -64,7 +64,7 @@ September is a prime planting window for many plants, giving them time to establ
 
 * **Sow Cover Crops: ** In empty vegetable beds, consider sowing cover crops like clover or winter rye. These protect the soil from erosion, suppress weeds, and improve soil health by adding organic matter when tilled under in spring.
 
-# # Watering Wisely
+##  Watering Wisely
 
 Even though temperatures are dropping, proper watering remains essential.
 
@@ -72,7 +72,7 @@ Even though temperatures are dropping, proper watering remains essential.
 
 * **Reduce Frequency: ** As temperatures cool and days shorten, the frequency of watering will naturally decrease compared to summer, but ensure plants and lawn receive adequate moisture.
 
-# # Prepare for Frost & Winter
+##  Prepare for Frost & Winter
 
 Early preparations in September can save you headaches later in the season.
 

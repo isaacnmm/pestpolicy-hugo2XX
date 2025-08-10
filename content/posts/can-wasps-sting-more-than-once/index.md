@@ -25,7 +25,7 @@ Developing an understanding of their defense mechanism can help us devise preven
 
 A Wasp Perching On a Flower[/caption]
 
-# # Why do Wasps Sting?
+##  Why do Wasps Sting?
 
 The reason why you were struck with a wasps sting was probably that you unconsciously posed an imminent danger in some way. In other words, know that a wasp will attack you the moment it senses a fearful or threatening situation.
 
@@ -35,7 +35,7 @@ They start producing new colonies in spring which then breaks down and disperse 
 
 If you have wasps near your house, you would have noticed that their activity reduces at night. This is because wasps sleep at night and wake up to the slightest exposure of light even if its just your flashlight!
 
-# # The Stinging Habit of Wasps
+##  The Stinging Habit of Wasps
 
 Being carnivores, wasps are very active when it comes to hunting. But they can also sting and defend themselves multiple times if they are aggravated or alarmed. This is because they dont lose their stinger when they sting. With each sting is some venom released, but its amount varies between wasps depending on how much each can hold in their body.
 
@@ -47,27 +47,27 @@ Female wasps, on the other hand, are in charge of safeguarding their territory. 
 
 So in case you thought a wasp stung you more than once, it was probably a whole pack of female wasps hinting you to run away!
 
-# # What Happens When a Wasp Stings?
+##  What Happens When a Wasp Stings?
 
 Even in instances where wasps stung you more than once, keep in mind that they are not meant to kill you. Human deaths from wasp stings are incredibly rare. But the wasp stings do cause allergic reactions and immense pain.
 
 The symptoms of a wasp sting can be grouped into three kinds of reactions:
 
-## # Normal local reactions
+###  Normal local reactions
 
 Majority of the non-allergic victims of wasp stings who face normal local reactions. It refers to developing a raised welt around the sting site with a small white mark in the location where the wasp attacked. Even though this is painful at the moment, but the swelling and pain go away after sometime.
 
-## # Large local reactions
+###  Large local reactions
 
 If you are allergic to stings, you are likely to face more pronounced symptoms of a wasp sting. Large local reactions are more painful than normal local reactions but they are not life-threatening. They include: - Extreme redness - Swelling that keeps increasing 2-3 days after the sting - Nausea - Vomiting Large local reactions subside on their own within 2-3 weeks but you can opt for treatment for fast recovery.
 
-## # Severe allergic reactions
+###  Severe allergic reactions
 
 The most severe and alarming reactions to wasp stings are called anaphylaxis. This appears in people with sting allergy and needs immediate medical attention. Anaphylaxis occurs in response to the venom that has entered the body, resulting in a shock.
 
 Someone with anaphylaxis will face some or all of the following symptoms: - Swelled face, lips, throat - Lightheadedness and dizziness - Diarrhea or stomach cramps - Decreased blood pressure - Itching in parts of the body that are unaffected by the sting - A feeling of nausea or vomiting - Difficulty in breathing
 
-# # How to Treat Wasp Stings?
+##  How to Treat Wasp Stings?
 
 How long the symptoms of wasp sting last depends on the way you treat the sting. As soon as you or someone near you gets stung by a wasp, you should get a clean cloth to wipe off the sting area. While most wasps dont normally leave the sting behind, make sure to check out for any sting in the affected area and remove it immediately.
 
@@ -79,7 +79,7 @@ Related: Best Fogger for Spiders While severe reactions will require you to seek
 
 When a wasp stings make sure to: - Not swat at the wasp because it will continue stinging - Protect your head and face - Watch out for any severe reaction and act accordingly - Call for medical assistance if you notice an allergic reaction - Remain calm and not create chaos because that could make wasps sting you more than once - Not scratch the sting because it would lead to an infection - Not squeeze or burst blisters
 
-# # Preventing Wasp Stings
+##  Preventing Wasp Stings
 
 You have to be vigilant and careful to make sure that you dont have any unpleasant encounters with wasps in the future. To avoid stings try to consciously make an effort to stay away from the colonies of wasps and do not go too close in case you spot any. You can also use [wasp foggers](https: //pestpolicy. com/best-wasp-fogger/).
 
@@ -93,12 +93,12 @@ This will effectively reduce your chance of being stung if you accidentally disr
 
 If you have noticed a wasp or two in your house, dont hesitate to call a wasp control professional to inspect your house for any wasp infestation. This will protect you from running into a wasp nest unintentionally. If you see a wasp nest nearby, do not try to get rid of it all by yourself and contact a wasp control contractor instead.
 
-# # Conclusion
+##  Conclusion
 
 Now you know that not only does a wasp sting more than once but also what makes it sting an innocent human being.
 
 We hope that this detailed account on wasps helped you identify the symptoms of a wasp sting, know the treatments that could work, and understand how you can avoid painful encounters with wasps.
 
-# # Sources:
+##  Sources:
 
 1. [Controlling Wasps, Hornets, and Yellowjackets Entomology](https: //entomology. ca. uky. edu/ef620) 2. [Wasps and bees UMN Extension](https: //extension. umn. edu/insects-infest-homes/wasps-and-bees)

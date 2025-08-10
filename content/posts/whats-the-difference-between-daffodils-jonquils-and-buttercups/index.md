@@ -21,7 +21,7 @@ While all three share yellow hues and a generally sunny disposition, they belong
 
 Understanding the precise differences between these flowers is not just a matter of botanical accuracy; it can also inform your gardening choices, especially regarding planting conditions, toxicity, and overall landscape design. This guide will clarify the distinctions between daffodils, jonquils, and buttercups, explain their unique features, and help you decide which is the best fit for your garden.
 
-# # Whats the [Difference](https://pestpolicy.com/difference-between-a-bee-and-a-wasps-nest/) [Between](https://pestpolicy.com/difference-between-ceiling-paint-and-wall-paint/) Daffodils, Jonquils, and Buttercups?
+##  Whats the [Difference](https://pestpolicy.com/difference-between-a-bee-and-a-wasps-nest/) [Between](https://pestpolicy.com/difference-between-ceiling-paint-and-wall-paint/) Daffodils, Jonquils, and Buttercups?
 
 The main difference lies in their botanical classification and specific physical characteristics:
 
@@ -33,13 +33,13 @@ Many species are considered weeds, and they are generally toxic if ingested.
 
 In essence, all jonquils are daffodils, but not all daffodils are jonquils. Buttercups are entirely separate plants.
 
-# # Are Narcissus and Daffodils the Same Thing?
+##  Are Narcissus and Daffodils the Same Thing?
 
 Yes, **Narcissus is the botanical (scientific) name for the genus to which all daffodils belong. ** "Daffodil" is the common name used for plants within the *Narcissus* genus.
 
 So, when you see a plant labeled *Narcissus*, you're looking at a daffodil. The Royal Horticultural Society (RHS) classifies daffodils into 13 divisions based on their flower shape, size, and number of flowers per stem.
 
-# # What Is a Daffodil?
+##  What Is a Daffodil?
 
 **Botanical Name: ** *Narcissus* spp. **Family: ** *Amaryllidaceae* (Amaryllis family) **Characteristics: ** * **Flowers: ** The defining feature is the central **corona** (often called the trumpet, cup, or corona) surrounded by six **perianth segments** (petals and sepals that look alike). The corona can vary greatly in length, shape, and color. * **Stems: ** Single flower per stem (though some varieties may have multiple).
 
@@ -51,7 +51,7 @@ This makes them deer and rodent resistant.
 
 **Examples: ** Large-cupped daffodils, trumpet daffodils, poeticus daffodils.
 
-# # What Is a Jonquil?
+##  What Is a Jonquil?
 
 **Botanical Name: ** *Narcissus jonquilla* (and its hybrids, often in Division 7 of Narcissus classification) **Family: ** *Amaryllidaceae* (Amaryllis family) **Characteristics: ** * **Flowers: ** Distinguished by **clusters of multiple small, very fragrant flowers** (often 2-6) on each stem. The central cup is usually short. * **Stems: ** Slender, round, and rush-like, not flattened.
 
@@ -61,7 +61,7 @@ This makes them deer and rodent resistant.
 
 **Key takeaway: ** Jonquils are a specific type of daffodil with multiple, fragrant flowers and round, rush-like leaves.
 
-# # What Is a Buttercup?
+##  What Is a Buttercup?
 
 **Botanical Name: ** *Ranunculus* spp. **Family: ** *Ranunculaceae* (Buttercup family) **Characteristics: ** * **Flowers: ** Typically glossy, waxy-petaled, cup-shaped flowers, most commonly with five distinct petals, though some cultivated varieties may have more. Often bright yellow, but can be white, pink, orange, or red in cultivated forms (e. g. , Persian buttercup). They lack the central cup/trumpet of daffodils.
 
@@ -75,7 +75,7 @@ When dried (e. g. , in hay), their toxicity is greatly reduced or eliminated. * 
 
 **Key takeaway: ** Buttercups are distinctly different from daffodils (and jonquils) in their flower structure (no trumpet/cup), leaf shape, and root system. Many common buttercup species are weeds.
 
-# # Which Flower is the Best Choice for My Garden?
+##  Which Flower is the Best Choice for My Garden?
 
 The "best" choice depends entirely on your gardening goals and conditions:
 
@@ -87,19 +87,19 @@ They look beautiful planted in drifts. * **For Controlled Color (Cultivated Vari
 
 * **For Wildflower/Naturalized Areas (with caution): ** Wild buttercup species might be present in meadows or naturalized areas, but given their weediness and toxicity, they are rarely intentionally planted in cultivated gardens. If you have them, consider them a weed.
 
-# # Plant Hardiness Zones
+##  Plant Hardiness Zones
 
 * **Daffodils (including Jonquils): ** Most *Narcissus* species and cultivars are hardy in **USDA Zones 3-8**. Some may extend to Zone 9 or even 10 in areas with sufficient winter chill. They require a period of cold dormancy to flower properly. * **Buttercups: ** * **Wild Buttercups: ** Common weed species can be found in a very wide range of zones, often thriving in moist conditions.
 
 * **Cultivated Buttercups (*Ranunculus asiaticus*): ** Typically grown as tender perennials in **USDA Zones 8-10**, where they can be overwintered. In colder zones (3-7), they are usually grown as annuals or their corms are dug up and stored over winter.
 
-# # Do You Call Them Jonquils or Daffodils?
+##  Do You Call Them Jonquils or Daffodils?
 
 You can call them either, depending on context!
 
 * **All jonquils are daffodils. ** So, if you say "daffodil, " you're technically correct. * However, if you want to be specific about the type of daffodil with multiple, fragrant flowers and rush-like leaves, then using "jonquil" is the more precise term. * Many people use "daffodil" as a general term for any *Narcissus*, and that's perfectly acceptable in everyday conversation.
 
-# # Final Thoughts
+##  Final Thoughts
 
 While daffodils, jonquils, and buttercups might share a sunny disposition and often yellow hues, they are distinct plants with different characteristics and implications for your garden. Daffodils (including jonquils) are beloved, non-invasive bulbs that bring reliable spring cheer and are deer-resistant due to their toxicity.
 

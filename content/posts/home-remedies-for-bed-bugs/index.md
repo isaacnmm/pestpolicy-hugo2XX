@@ -19,9 +19,9 @@ If a bed bug has ever bitten you will agree with me that these bloodsuckers inst
 
 * *Moreover, Bed bug Herb such as Sweet Flag, Lavender, Mint Leaves, Peppermint Leaves, Tea Tree Oil, Lemongrass, and Black Walnut Tea are best for killing and keeping off bed bugs plus baby bed bugs in your home. *
 
-# # Details: 9 Home Remedies for Bed Bugs
+##  Details: 9 Home Remedies for Bed Bugs
 
-## # 1. Use Extreme Heat or Extreme Cold
+###  1. Use Extreme Heat or Extreme Cold
 
 One of the endless ways of killing bed bugs is by use of high or low temperature. Temperatures above 120 degrees Fahrenheit will destroy the entire infestation of bed bugs (eggs, larvae, and adults) in your home. To achieve this, you will need to carry out the following:
 
@@ -35,7 +35,7 @@ All eggs and larva stage of bed bugs will begin to die at a temperature of 98 de
 
 The low temperature denatures enzymes' action in the bed bugs lifecycle, thus killing it. You will need to carry out freezing at least four days for complete bed bugs killing to take place. NB: *This method may be slightly expensive but very efficient and environmentally friendly (it cause no pollution). * Related: Pictures of bed Bugs
 
-## # 2. Vacuuming
+###  2. Vacuuming
 
 In vacuuming, the vacuum machine sucks very tiny particles, including small insects (bed bugs). You will require a vacuum cleaner and a source of power/energy.
 
@@ -47,7 +47,7 @@ This method eliminated over 90% of bed bug infestation, including eggs and larva
 
 Ensure you vacuum your bed bugs infested items thrice a month to remove bed bugs traces thoroughly.
 
-## # 3. Diatomaceous Earth
+###  3. Diatomaceous Earth
 
 Diatomaceous Earth is naturally occurring sedimentary rocks that are formed from microorganisms that decomposed for many years. Your need to carry out the following:
 
@@ -61,7 +61,7 @@ Diatomaceous Earth is poisonous to your pets and children when swallowed though 
 
 When purchasing Diatomaceous Earth, buy the one that is pest-related such as safe brand Diatomaceous Earth.
 
-## # 4. Using a Dryer (Hair and clothes)
+###  4. Using a Dryer (Hair and clothes)
 
 A Dryer (for clothes) is a suitable device that can be used to kill bed bugs in bed bugs infested clothes and smaller items, which can fit in a given dryer.
 
@@ -75,7 +75,7 @@ A Dryer (for clothes) is a suitable device that can be used to kill bed bugs in 
 
 The killing power of hair dryer or bed bug heaters is a function of the dryer's power rating (select a higher rated hairdryer to help generate high temperature).
 
-## # 5. Steam Cleaning
+###  5. Steam Cleaning
 
 Steam cleaning involves the use of superheated steam from a steam generator to kill bed bugs infestation.
 
@@ -83,7 +83,7 @@ Steam cleaning involves the use of superheated steam from a steam generator to k
 
 This method is quick-acting though it may require a specialist for complete bed bugs elimination. Keep off all heat sensitive items and pets during treatment.
 
-## # 6. Using Borax (Boric acid)
+###  6. Using Borax (Boric acid)
 
 Borax, also called boric acid, is a home solution that can instantly kill bed bugs on application. The borax concentration determines the ability to kill bed bugsand the amount fed/breathed by a bed bug.
 
@@ -93,7 +93,7 @@ com/what-animals-eat-bed-bugs/) box as per se, the environment will make bed bug
 
 This method will kill up to 95% of adult bed bugs. This method wont kill eggs. Therefore, you need to combine it with a complement method such as steam treatment. Borax will cause a burning sensation when in contact with eyes and upset your stomach when swallowed and should be kept away from children.
 
-## # 7. Using Vinegar
+###  7. Using Vinegar
 
 Vinegar is a robust bed bug killer since it contains a strong acetic acid, which affects the bed bugs' nervous system.
 
@@ -101,13 +101,13 @@ Vinegar is a robust bed bug killer since it contains a strong acetic acid, which
 
 The acetic acid in the vinegar will attack the nervous system, thus inhibiting transport activities. Most of the bed bugs larvae wont die on contact (especially if the concentration wont be much). Therefore, it is recommended to supplement this method with others, such as the use of Diatomaceous Earth. It would help if you did not use vinegar on acid-sensitive items.
 
-## # 8. Rubbing Alcohol
+###  8. Rubbing Alcohol
 
 Alcohol is able to kill the entire life-cycle of bed bugs (eggs, larvae, and adults) on contact. - Put concentrated alcohol in a spray bottle. - Spray over the bed bugs infested items (beddings, clothes, couch) and areas (crevices/cracks, walls, floor, and closets). - Leave the area for 4 to 6 hours for the chemical to work. All the bed bugs that come into contact with alcohol will be killed.
 
 Wear a breathing mask (irritates nasal cavity on inhaling) and hand protection when spraying.
 
-## # 9. Baking Soda
+###  9. Baking Soda
 
 To kill bed bugs using baking powder, carry out the following steps. The baking powder kills bed bugs on contacts. It will dehydrate the exoskeleton/cuticle of bed bugs, thus killing them.
 
@@ -115,7 +115,7 @@ To kill bed bugs using baking powder, carry out the following steps. The baking 
 
 Though some eggs may be destroyed, it is advisable to supplement this method with other ways, such as steam or Diatomaceous Earth.
 
-## # 10. Use of Bed Bug Herbals: Indiana Lilac Leaves
+###  10. Use of Bed Bug Herbals: Indiana Lilac Leaves
 
 Bed bug herbals entail plant and plant extracts that keep away or kill bed bugs in your place. Indiana Lilac or lavender emit a scent that either poison the bed bugs or keep them off. To achieve this, you can carry out the following procedure: - Crush the Indiana Lilac lives into fine particles. - Spread the crushed leaves in bed bugs infested area and items. - Alternatively, boil the Indian Lilac leaves and strain the solution.
 
@@ -123,7 +123,7 @@ Bed bug herbals entail plant and plant extracts that keep away or kill bed bugs 
 
 The Indiana Lilac leaves extract/liquid will kill bed bugs on contact. The insects breathe the scent and get paralyzed to death. Moreover, this product will also keep off bed bugs in your house.
 
-## # 11. Spraying Tea Tree Oil
+###  11. Spraying Tea Tree Oil
 
 Tea Tree Oil has anti-microorganism properties that will kill bed bugs on contact.
 
@@ -131,19 +131,19 @@ Tea Tree Oil has anti-microorganism properties that will kill bed bugs on contac
 
 Undiluted Tea Tree Oil is unsafe for humans during use. Well-diluted Tea Tree Oil will leave a lovely scent on the items or areas sprayed.
 
-# # What will kill bed bugs instantly?
+##  What will kill bed bugs instantly?
 
 1. **Heat treatment**and use of household dryer will kill bed bugs instantly. The generated heat denatures the hormonal system and enzymes (protein in nature), thus destroying them. 2. **Diatomaceous Earth**will also kill the entire lifecycle of the bed bugs. They destroy the exoskeleton/cuticle and inhabit the transport system, thus killing them. Superheated steam destroys the incubation stage of bed bugs eggs and their larvae. 3.
 
 **Use of bed bugs sprays**such as Eco Defense Bed bugs killer will kill bed bugs instantly. The sprays contain ingredients that destroy the bed bugs eggs or inhibits the hatching of the eggs.
 
-# # Conclusion
+##  Conclusion
 
 [Bed bugs bite](https: //pestpolicy. com/how-long-do-bed-bug-bites-last/) human beings and pets, injecting pain and leaves marks that may swell or lead to allergic reactions. It is also necessary to observe proper bed bugs in preventive measures.
 
 Homemade bed bugs remedies such as the use of Diatomaceous Earth, Borax, Baking powder, Steam treatment, Heat treatment, Tea tree, vinegar, or use of herbs such as Indiana Lilac leaves can keep off or kill bed bugs infestation in the home.
 
-# # Sources:
+##  Sources:
 
 1. [Seasons, searches, and intentions: what the internet can tell us about thebed bug(Hemiptera: Cimicidae) epidemic](https: //academic. oup. com/jme/article-abstract/53/1/116/2459664) 2. [The resurgence ofbed bugs, Cimex spp. (Hemiptera: Cimicidae) in Australia](https: //www. researchgate. net/profile/Stephen_Doggett2/publication/228489217_The_resurgence_of_bed_bugs_Cimex_sppHemiptera_Cimicidae_in_Australia/links/579b526508ae802facba50ec.
 

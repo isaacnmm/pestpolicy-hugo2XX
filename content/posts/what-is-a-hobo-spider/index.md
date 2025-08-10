@@ -27,7 +27,7 @@ A close look at the spider shows that its ALEs and AMEs are almost joined.
 
 Their abdomens are larger than that of their male hobo spiders. So, let's get into the details!
 
-# # What Is A Hobo Spider? Are they Serious?
+##  What Is A Hobo Spider? Are they Serious?
 
 **So, how can you tell a hobo spider? ** To tell if a spider is a hobo spider, look at its front body. The front body will be brown (with darker-brown markings) and it has brown legs and yellow abdomen markings. **Do They Bite? ** They usually do not bite humans, contrary to popular belief. But if they feel threatened, or are provoked, they might.
 
@@ -37,7 +37,7 @@ Their abdomens are larger than that of their male hobo spiders. So, let's get in
 
 - However, current research shows that hobo spiders[aren't medically threatening](https: //www. usu. edu/today/story/hobo-spider-bite-may-not-be-so-dangerous) **Other Bug Problems ** The hobo spider, though an expert predator in its own right, is also preyed upon by other animals. These bugs include: - Centipedes - Birds - Bees, Mud-dauber wasps, and hornets - Spiders such as the wolf spider - Rodents and furry animals likesquirrelsor chipmunks.
 
-# # Hobo Spider Ecology, Habitat, and Distribution
+##  Hobo Spider Ecology, Habitat, and Distribution
 
 **Where are hobo spiders found? ** The spiders in the Agelenidae Family, including the Hobo spiders, spin entangled silk webs that serve as their prey traps, detection devices, and nests.
 
@@ -55,7 +55,7 @@ The male Hobos die or move on soon after the mating process.
 
 So, the female spider is the one who does all of the work to produce new offspring. - She lays a single egg sac, and then she guards it against predators until her babies hatch. - The young spiders will wait for their mother on top of or next to her web as she goes out hunting for food; after she returns with prey in tow, they will climb onto her back and feed while riding home again to protect themselves from potential danger along the way.
 
-# # Is a hobo spider poisonous?
+##  Is a hobo spider poisonous?
 
 No, the Hobo Spider is not venomous and does not pose any threat to humans or animals - according to the CDC.
 
@@ -71,13 +71,13 @@ Hobo spiders are not known to be aggressive; instead, they show a tendency to fl
 
 The hobo spider is also not known to be found in areas where humans live, but they are often spotted on the sides of buildings or other places such as a barn.
 
-# # Should I kill a Hobo Spider?
+##  Should I kill a Hobo Spider?
 
 If you can avoid it's best not to kill hobo spiders, since having some spiders around helps keep down pests such as cockroaches; however, there are exceptions to this rule. - However, were born with a natural fear of spiders, as evidenced by the physical response we have every time we see or touch one. Therefore, sometimes we may have to kill these hobo spiders as a last resort if they are infesting our home and cannot be removed.
 
 The hobo spider is not known to be poisonous; however, it can bite humans which may cause some discomfort but usually, no permanent damage will occur. - You should kill hobos by using an aerosol product for killing insects such as bug spray and undertakethorough spider vacuuming.
 
-# # What Do You Do If You Find A Hobo Spider?
+##  What Do You Do If You Find A Hobo Spider?
 
 If you find a hobo spider, please contact an exterminator for [spider inspection and control](https: //pestpolicy. com/how-much-do-spider-exterminators-cost/) as they have venomous fangs.
 
@@ -87,7 +87,7 @@ The spider exterminator may employ these steps to get rid of a hobo spider: - Va
 
 **If you find a hobo spider outdoors** where it is not dark or damp: - Knockdown the webs (if any) to eliminate hiding places for wandering spiders; - Eliminate their food sources by keeping vegetation trimmed back from foundations of buildings and sidewalks; - Place sticky traps in areas of high-traveling activity near exterior walls.
 
-# # Can a hobo spider kill a Dog or Cat?
+##  Can a hobo spider kill a Dog or Cat?
 
 Recent studies shoes that hobo spiderbites aren't harmful or won't kill your cat or dog; this is unlike the case with **brown recluse and the ** black widow that's fatal to pets and humans.
 
@@ -97,7 +97,7 @@ Since hobos will typically stay in dark corners like sheds, basements, etc. , yo
 
 The signs of a bite from such spiders on the cat or dog may include agitation, tremors, diarrhea, muscle rigidity, vomiting, cramping, and muscle pain.
 
-# # Conclusion
+##  Conclusion
 
 So, on the question of "What is a Hobo Spider? " we hope this article has been helpful.
 

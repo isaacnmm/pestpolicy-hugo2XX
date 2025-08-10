@@ -20,9 +20,9 @@ These boots are durable and have the ability to endure tough environments while 
 
 Read Also: Best Walking Shoes for Hip and Knee Pain
 
-# # Review: 7 Best Tactical Boots for Plantar Fasciitis
+##  Review: 7 Best Tactical Boots for Plantar Fasciitis
 
-## # [1. Danner Men's Acadia 8" Boot](https://www.amazon.com/dp/B000O2WB8I/tag=p-policy-20)
+###  [1. Danner Men's Acadia 8" Boot](https://www.amazon.com/dp/B000O2WB8I/tag=p-policy-20)
 
 If youre looking for the best tactical boots for law enforcement that are also ideal for sufferers of plantar fasciitis pick the Acadia 8" Boot from Danner.
 
@@ -42,7 +42,7 @@ Cons: - You might need to break in on them
 
 Also Read: [Best Orthopedic Slip Resistant Shoes](https: //pestpolicy. com/best-orthopedic-slip-resistant-shoes/)
 
-## # [2. Garmont Men's T8 Bifida Tactical Military](https://www.amazon.com/dp/B01HNAURIE/tag=p-policy-20)
+###  [2. Garmont Men's T8 Bifida Tactical Military](https://www.amazon.com/dp/B01HNAURIE/tag=p-policy-20)
 
 The Garmont T8 Bifida boots are comfortable and supportive. They help ease plantar fascia pain for a great wear experience. They are one of the best tactical boots for the military thanks to their excellent design and durable build.
 
@@ -64,7 +64,7 @@ Cons: - Some reviewers reported that the tongue and eyelet create unnecessary pr
 
 Also Read: Best Shoes for Arthritic Hips
 
-## # [3. Lowa Men's Zephyr Mid TF Hiking Boot](https://www.amazon.com/dp/B002N1LCHE/tag=p-policy-20)
+###  [3. Lowa Men's Zephyr Mid TF Hiking Boot](https://www.amazon.com/dp/B002N1LCHE/tag=p-policy-20)
 
 Another best tactical boot for plantar fasciitis is this high-performing and lightweight Lowa Men's Zephyr Hiking Boot.
 
@@ -80,7 +80,7 @@ In addition, the Injected Monowrap midsole delivers lightweight support to the f
 
 Cons: - It May take a while to dry up when wet
 
-## # [4. Bates Men's 8" Ultralite Tactical Sport Side Zip Military Boot](https://www.amazon.com/dp/B000G5Z6G2/tag=p-policy-20)
+###  [4. Bates Men's 8" Ultralite Tactical Sport Side Zip Military Boot](https://www.amazon.com/dp/B000G5Z6G2/tag=p-policy-20)
 
 Bates Men's 8" Ultralite is one of the best boots for law enforcement, military, public service, or other outdoor activity. These tactical boots have features and technologies that help to soothe various foot conditions including plantar fasciitis.
 
@@ -98,7 +98,7 @@ Cons: - It May take a while to break in on them
 
 Read Also: [Best Shoes for Standing All Day with Bad Knees](https: //pestpolicy. com/best-shoes-for-standing-all-day-with-bad-knees/)
 
-## # [5. Rocky Men's S2V Steel Toe Work Boot](https://www.amazon.com/dp/B004Z6B572/?tag=p-policy-20)
+###  [5. Rocky Men's S2V Steel Toe Work Boot](https://www.amazon.com/dp/B004Z6B572/?tag=p-policy-20)
 
 Rocky S2V tactical boot is one of the most comfortable, supportive, and durable boots you can buy. It soothes various foot conditions including plantar fasciitis ensuring that you have a great wear experience.
 
@@ -114,7 +114,7 @@ In addition, these plantar fasciitis boots have cushioned Airport footbeds and P
 
 Cons: - Requires break-in period
 
-## # [6. Merrell Men's Moab 2 8" Tactical Waterproof](https://www.amazon.com/dp/B0886W2MFX/?tag=p-policy-20)
+###  [6. Merrell Men's Moab 2 8" Tactical Waterproof](https://www.amazon.com/dp/B0886W2MFX/?tag=p-policy-20)
 
 If youre looking for the Best Tactical Boots for Plantar Fasciitis pick this Lace-Up closure tactical boot from Merrell, it boasts of numerous features and technologies that provide comfort and support to problematic feet.
 
@@ -132,7 +132,7 @@ The front part has a rubber toe cap design that provides protection against abra
 
 Cons: - Some customers complained that they are hard to put on
 
-## # [7. Under Armour Men's Stellar Military and Tactical Boot](https://www.amazon.com/dp/B019ETCT4M/tag=p-policy-20)
+###  [7. Under Armour Men's Stellar Military and Tactical Boot](https://www.amazon.com/dp/B019ETCT4M/tag=p-policy-20)
 
 Under Armour Stellar Military and Tactical Boot is a comfortable, stylish, durable, and supportive boot. This boot can handle tough assignments and difficult terrains.
 
@@ -144,9 +144,9 @@ Furthermore, the upper section of this Under Armour Stellar tactical boot featur
 
 Cons: - You might need to break in on them
 
-# # Buyers Guide for Best Tactical Boots for Plantar Fasciitis
+##  Buyers Guide for Best Tactical Boots for Plantar Fasciitis
 
-## # **Comfort**
+###  **Comfort**
 
 Comfort is everything when buying any kind of shoe. Therefore, when choosing Best Tactical Boots for Plantar Fasciitis youll want to pick a pair thats comfortable to your feet.
 
@@ -154,17 +154,17 @@ Some of the things to look out for include; the weight of the boot- the boot sho
 
 The interior lining of the boot should keep moisture away and promote a cool environment inside the boot for fresh and dry feet. All these factors will ensure your comfort.
 
-## # **Durability**
+###  **Durability**
 
 When buying Best Tactical Boots for Plantar Fasciitis you may want a durable boot that will provide you a longer wear period before thinking of a new purchase. Therefore, you need to choose tactical boots with high-quality materials and those with sturdy construction.
 
 A strong pair of tactical boots will allow you to handle difficult assignments that involve a long-wear period of boots. Luckily, all the selected boots in this review offer unmatched durability, and picking either of them will guarantee you a longer wear period.
 
-## # **Traction**
+###  **Traction**
 
 Shoes with reliable traction or grip give you the peace of mind to perform your duties on all surfaces. The Best Tactical Boots for Plantar Fasciitis will provide you the protection you need. Hence, protect you from slipping or falling while walking on slippery surfaces. Therefore, you need to pick tactical boots with outsoles that have reliable tread patterns. Those that will provide the stability you need while on a mission.
 
-## # **Water Resistant Tactical Boot**
+###  **Water Resistant Tactical Boot**
 
 The best tactical boots with proper waterproofing will allow you to perform your duties even in wet environments. These water-resistant boots will ensure your feet remain and fresh throughout the day.
 
@@ -172,7 +172,7 @@ Luckily, most of the reviewed boots in this article are waterproof and ideal for
 
 You may even consider boots with waterproofing technologies that help to inhibit water entry into the shoe.
 
-# # Conclusion
+##  Conclusion
 
 I hope that this review on the best tactical boots for plantar fasciitis has been helpful. Remember to choose boots that are comfortable, supportive, durable, water-resistant, and have reliable traction.
 

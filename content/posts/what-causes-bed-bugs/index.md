@@ -21,9 +21,9 @@ The short answer is that bed bugs are caused by traveling in bed bugs and infest
 
 Let's get started! *But first*, here are the signs of bed bugs: reddish fecal matter, is there a sweet-musty odor? , crushed bedbugs youll see blood smears, light-brown bed bug skin casting, and white eggs (small in size).
 
-# # Details: What Causes Bed Bugs? Causes and Symptoms
+##  Details: What Causes Bed Bugs? Causes and Symptoms
 
-## # 1. Buying Used and Infested Furniture
+###  1. Buying Used and Infested Furniture
 
 You can buy and carry a piece of second-hand furniture to your home or business for cheap. But the bed bugs and their babies from the garage sales aren't easy to control. Equally, rented furniture may carry bed bugs if their origin was a place that was infested by the blood-sucking insects. This is particularly common if pest-inspection is not done right. Sadly, bed bugs are hardy pests that'll live for months after taking a full blood meal.
 
@@ -35,7 +35,7 @@ But be patient as the eradication may require several treatment cycles.
 
 - Next, treat the bedbug-infested mattress or furniture using heat for about 15 to 30 minutes. If its a fabric, you can use a clothes dryer at medium-high temperatures. - But, you can bag and launder the second-hand items at about 120 F. For box-spring and mattress, youll need to encase them.
 
-## # 2. Travelling - Bed Bugs Hitchhike Clothes and Suitcases
+###  2. Travelling - Bed Bugs Hitchhike Clothes and Suitcases
 
 Besides the loss of luggage and food poisoning, most travelers worry even more about travel bugs and bed bugs! Bed bugs re-emerged and continued spreading after the banning of DDT. While traveling, you can pick up bed bugs from hotels and resorts, libraries, movie theaters, retail stores, hospitals, universities, and colleges. However, the bugs may also hitchhike your clothes either in private homes or other business premises.
 
@@ -53,13 +53,13 @@ Notably, bed bugs will readily hitchhike through wall sockets, luggage, and hous
 
 - Finally, vacuum the suitcase and ensure you store it in the garage or basement or ensure its a long-distance from your bedroom.
 
-## # 3. Dirty or Clean? - Bed Bugs Don't Care!
+###  3. Dirty or Clean? - Bed Bugs Don't Care!
 
 It's actually a fact [bed bugs don't give a fish if you're dirty or clean](https: //www. thoughtco. com/what-are-these-tiny-black-bugs-in-my-house-1968030). As you already know, bed bugs mainly feed blood from humans or animals. Therefore, bed bugs will remain in the house or other premises, be they clean or dirty, provided the host is available - the bed bugs will easily take their blood meal. So, don't lie to yourself.
 
 Wealth won't help you against bed bug attacks; also, poverty isn't a ticket for getting a bed bug infestation. However, it's also a fact that poor people could lack the finances to prevent or control bed bug infestations.
 
-## # 4. Bed bugs will hide inClutter
+###  4. Bed bugs will hide inClutter
 
 Clutter forms an excellent hiding place for bed bugs - this will include switch plates, wallpapers, baseboards, furniture, beds. Therefore, reducing the clutter will guarantee that the bugs won't spread. Further, it would help if you did not carry objects to a non-infested area from the already infected area. Sadly, if you do the contrary, the bloodsuckers will quickly move around, hiding in clothes and furniture.
 
@@ -71,10 +71,10 @@ Sadly, a mature and fertilized female bed bug will lay about 200 to 250 eggs in 
 
 So, definitely, any clutter will benefit the bed bug as they reproduce and grow their babies. Get rid of the annoying clutter now!
 
-## # 5. Bed bugs Love High Human Traffic
+###  5. Bed bugs Love High Human Traffic
 
 If you're in an area with high human traffic - you should be worried since the bugs will easily hitch-hike humans in military barracks, motels and hotels, homeless shelters, dormitories, and apartment buildings. Therefore, for all the large number of people you'll see entering and exiting a location, there is an even higher risk of bringing and leaving a few bed bugs, their eggs, or babies.
 
-# # Conclusion
+##  Conclusion
 
 First, [bed bugs mainly hide](https: //pestpolicy. com/where-do-bed-bugs-hide/) in closets, second-hand furniture, upholstery, bed frames, box springs, and mattresses seams. But as weve noted, bed bugs are caused by [old- furniture and second-hand mattresses](https: //pestpolicy. com/best-bed-bug-mattress-encasements/), infested luggage while on international travels.

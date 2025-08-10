@@ -17,7 +17,7 @@ layout: post
 
 On how to flea treat kittens with sensitive skin? Kittens/cats with sensitive skin are delicate animals to handle, even with kittens' best flea treatment. These skin sensations are triggered by some causes such as: 1. Allergens cause irritation and itching. 2. Flea infestations Flea bites-live-on-clothes/)my case diseases like Bartonella, Anemia, or Flea Allergy Dermatitis on your kittens.
 
-# # Details: Does Flea Treatment Burn Cats Skin?
+##  Details: Does Flea Treatment Burn Cats Skin?
 
 You can use some of the ways highlighted while treating your skin sensitive kitten/cat: 1. Select antifungalshampoo for cleaning your kitten- the cleaning product should be free from parabens, ethoxylated, or sulfates. 2. Avoid using creams, serum, or paste options of kitten flea treatment products (this may cause injuries on their skin during application). Instead, go for spray, powder, chewable, or table flea treatment options. 3.
 
@@ -25,7 +25,7 @@ During the application, press theflea killergentlyon the surface. 4. Treat kenne
 
 Avoid covering your kitten with a large coat this offers hideouts for allergens. 9. Desist from taking your kitten to public places or clouded places.
 
-# # Alternative Flea Treatments For Kittens?
+##  Alternative Flea Treatments For Kittens?
 
 **1. Diatomaceous Earth** The powder diatomaceous earth, manufactured from microscopic remains of fossilized algae, is a non-toxic flea treatment product that causes dehydration on the flea on application. - All you need is to sprinkle all over on the skin-sensitive kitten/cat. Leave is enclosed for 1 to 2 days, the, clean it using the washcloth gently. - NB: dont vacuum the kitten it may cause injuries on the skin due to suction.
 
@@ -39,9 +39,9 @@ The main effect of rosemary powder is to repel flea than kill. **3. Flea-repelli
 
 Flea-repelling plants include Chrysanthemums, Penny Royal, Thyme, Sage, Clove, Basil, Lavender, and Spearmint.
 
-# # Suitable Chemical Flea Treatment for Cats
+##  Suitable Chemical Flea Treatment for Cats
 
-## # [Pet scape Organic Cat Flea Collar](https://www.amazon.com/dp/B07RQMBWGH/?tag=p-policy-20)
+###  [Pet scape Organic Cat Flea Collar](https://www.amazon.com/dp/B07RQMBWGH/?tag=p-policy-20)
 
 Pet Scape collar flea treatment for your kitten is one of the best flea treatments for kittens - with another daily dosage. Nieko flea collar will work magic for you as it can treat your kitten for 8months. - The product is a 100%[natural flea treatment](https: //pestpolicy. com/does-apple-cider-vinegar-kill-fleas/)that is veterinary recommended. - Nieko[flea collar is quick-acting](https: //pestpolicy.
 
@@ -53,6 +53,6 @@ The durable collar comes in a sizable length that works for all cats/kittens you
 
 - Non-grease andHypoallergenic - Adjustable size andQuick acting in 24 hours. - Inhibits flea infestation andEco friendly. The Bad: - Relatively Expensive. Related: Check the [flea treatments for adult cats](https: //pestpolicy. com/best-flea-treatment-for-cats/).
 
-# # Conclusion
+##  Conclusion
 
 Wrong treatment or Wrong medication may cause a skin reaction or discomfort on your kitten. Harsh grooming. - Therefore, you need professional know-how or skills to kill flea infestation without harming them.

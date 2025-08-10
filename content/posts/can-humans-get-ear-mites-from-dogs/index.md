@@ -23,7 +23,7 @@ It's sporadic for humans to catch ear mites. If they get into your body, they wo
 
 Related: Medicine for Ear Mites in Cats.
 
-# # Details: Can Humans Get Ear Mites from Dogs? Symptoms
+##  Details: Can Humans Get Ear Mites from Dogs? Symptoms
 
 Dogs are prone to ear mites, especially the *Otodectes cynotis*. They live inside the ear canal, where they feed on skin oils and wax. You can only see them with the help of an otoscope or microscope. They are associated with intense itching and redness on the ears of the affected animal. This causes the animal to scratch at the back of the ear, often leading to bruises and possible secondary infection.
 
@@ -33,11 +33,11 @@ But since they are highly contagious, they can easily be transmitted from one do
 
 In rare cases, they can get into your ear canal to feed on the waxy secretions therein. Outdoor dogs are more likely to get infected with ear mites and may affect other pets or humans. But you don't have to worry about ear mites. When they arrive on your body, they are not known to survive for long. They won't even cause severe infection. In rare cases, ear mites can cause a temporary rash on your arms or other extremities.
 
-# # **Symptoms of Ear Mites in Humans**
+##  **Symptoms of Ear Mites in Humans**
 
 Dogs and cats happen to be natural hosts for ear mites. However, in rare cases, the mites can be transmitted to humans. Since they don't survive in humans for long, there may be no signs of infection. Usually, the symptoms of ear mites appear to be similar to those of other species of mites. These may include: - Skin irritation - Itchiness - Redness on the skin - Stained waxy inside the infected ear(s)
 
-# # **How Do Dogs Get Ear Mites?**
+##  **How Do Dogs Get Ear Mites?**
 
 Ear mites are tiny creatures, but they move very quickly. When one of your dogs is infected, these mites can find their way into other pets in a short period. Adult ear mites can live up to months and multiply rapidly. Eggs hatch after only four days and reach maturity after three weeks. When your outdoor dog interacts and gets into contact with affected dogs, it becomes easy for them to contract ear mites.
 
@@ -45,7 +45,7 @@ Although they don't fly or jump, these mites crawl from the adjacent dogs to you
 
 Alternatively, dogs may get the mites from a kennel that has been previously infected with ear mites. Fortunately, your dog might brush off ear mites with their paw or tongue. However, if the mites manage to get into the ear canal, your dog cannot remove them.
 
-# # **How Do I Know My Dog Has Ear Mites?**
+##  **How Do I Know My Dog Has Ear Mites?**
 
 The earliest indicators that your dog has ear mites are frequent scratching and shaking of the ears. If you look closely inside the ears, the skin appears irritated and reddish. However, it would help if you ruled out irritations and redness caused by yeast or bacterial infections. You can perform a simple test to confirm whether the symptoms are due to ear mites. - Using a cotton ball, remove the black debris from your dog's ear canal.
 
@@ -53,7 +53,7 @@ If the waste has already dried, you can loosen them with some mineral oil. - Scr
 
 Alternatively, a sample can be removed from the ear and observed under a microscope.
 
-# # **How Contagious Are Ear Mites?**
+##  **How Contagious Are Ear Mites?**
 
 Ear mites are small and contagious creatures almost the size of a comma. They mostly inhabit the ear canal of dogs and cats, where they thrive on the secretions and dead skin therein. They breed and multiply quickly and can spread to the head and other parts of the body. They are just as contagious as fleas and may cause fungal and bacterial infections. Inflammation in the ear canal is also very likely to occur.
 
@@ -61,7 +61,7 @@ In severe infestations, the eardrum can get ruptured, and this may lead to perma
 
 com/subterranean-termites-treatment/)
 
-# # **How to Treat Your Dog for Ear Mites**
+##  **How to Treat Your Dog for Ear Mites**
 
 Treat your dog as per the guidelines of your veterinarian. Wrong medications can harm your pet. A veterinarian uses special equipment to examine and recommend the correct medications. If there's more than one pet in the compound, have them checked for ear mites. This will ensure that all the affected pets are treated to avoid re-infestation.
 
@@ -75,7 +75,7 @@ You'll be informed of the frequency of administering the medications. - Washing 
 
 - Usually, your veterinarian will ask you to return for regular check-ups to monitor the remedy's effectiveness.
 
-# # **How to Prevent Ear Mite Infections**
+##  **How to Prevent Ear Mite Infections**
 
 So you want to keep your dog free from ear mites! But how does your pet get these creatures? Well, dogs will catch ear mites when they get into direct contact with affected pets or surfaces. Whether at home or the dog park, any infected pet is likely to infect your dog with ear mites. They can be picked from the surfaces or hurled at them when the infected dog shakes its head.
 
@@ -89,7 +89,7 @@ Cleaning also helps in depriving ear mites of their favorite food. - You don't w
 
 For your pets' safety, ensure you get a prescription from a qualified veterinarian before using these products. Related: [Fumigation Get Rid Of Termites](https: //pestpolicy. com/termite-fumigation/)
 
-# # **Conclusion**
+##  **Conclusion**
 
 Ear mites can be transmitted from dogs to humans through direct contact or when the animal shakes its head. Unlike in dogs, ear mites won't survive in human hosts for long. So you don't expect them to have any symptomatic effects on humans within the short stay. Compared to other mite infections, ear mites are less severe. Their impact on dogs and other pets will depend on the severity of the disease.
 

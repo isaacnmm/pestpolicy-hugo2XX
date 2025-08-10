@@ -20,15 +20,15 @@ But any [point and shoot camera](https: //en. wikipedia. org/wiki/Point-and-shoo
 
 Summary: I recommend [Sony DSC-HX9V](https: //www. amazon. com/dp/B004HYFX0C/? tag=p-policy-20) or [Sony DSCW800/B 20. 1 MP](https: //www. amazon. com/dp/B00I8BIBCW/? tag=p-policy-20) as the best point and shoot camera under 100.
 
-# # Reviews: 7 Best Point and Shoot Camera Under 100 in 2025
+##  Reviews: 7 Best Point and Shoot Camera Under 100 in 2025
 
-## # **1. Sony Cyber-shot DSC-HX9V 16.2 MP Exmor R CMOS Camera - #1 Pick**
+###  **1. Sony Cyber-shot DSC-HX9V 16.2 MP Exmor R CMOS Camera - #1 Pick**
 
 They allow multi-shot image processing, high-speed burst filming, and slow-motion video. Forget the 'okay' smartphone images (noisy, blurry & soft) that'll look bad on large screens.
 
 Read Also: Laptops for FL Studio
 
-## # **2. Sony Cyber-Shot DSC-W800 Digital Camera (360 sweep panorama)- #2 Pick**
+###  **2. Sony Cyber-Shot DSC-W800 Digital Camera (360 sweep panorama)- #2 Pick**
 
 Next up is the Sony Cyber-Shot DSC-W800. Its an amazing kit thatll help you capture those treasurable memories.
 
@@ -38,7 +38,7 @@ This point and shoot camera can also comfortably sit on your tripod. It's so sma
 
 Read Also: Bass Compressor Pedal
 
-## # [3. Nikon COOLPIX A10 with 5x optical zoom (720p HD videos) - #3 Pick](https://www.amazon.com/dp/B01MRCWQRM/?tag=p-policy-20)
+###  [3. Nikon COOLPIX A10 with 5x optical zoom (720p HD videos) - #3 Pick](https://www.amazon.com/dp/B01MRCWQRM/?tag=p-policy-20)
 
 This Nikon COOLPIX A10 comes with the 16. 1MP CCD sensor and 5 times optical zoom lens and has an ergonomic build.
 
@@ -46,7 +46,7 @@ It works on 3 AA batteries (luckily the conventional AA batteries that can take 
 
 With the 16. 1MP CCD sensor, you can easily record HD 720p video and still high-resolution images. In addition, it has a 5 times Optical Zoom Lens that you can extend using a 4 times digital zoom. Read Also: 49 Key MIDI Controller
 
-## # [4. Kodak PIXPRO Friendly Zoom FZ53-RD 16MP with 5X Optical Zoom](https://www.amazon.com/dp/B019XLL4F6/?tag=p-policy-20)
+###  [4. Kodak PIXPRO Friendly Zoom FZ53-RD 16MP with 5X Optical Zoom](https://www.amazon.com/dp/B019XLL4F6/?tag=p-policy-20)
 
 This Pixpro FZ53 is a budget-friendly point-and-shoot camera that comes with a 5x zoom lens for any casual photo shooter. However, this camera has no wireless connectivity and could disappoint relatively on video and image quality.
 
@@ -58,7 +58,7 @@ With the auto mode activated, its possible to toggle macro focusing after switch
 
 Read Also: [Soundproof Earmuffs For Sleeping](https: //pestpolicy. com/best-soundproof-earmuffs-for-sleeping/).
 
-## # [5. Nikon L35AF Camera - Point and Shoot](https://www.amazon.com/dp/B00YM6HJSY/?tag=p-policy-20)
+###  [5. Nikon L35AF Camera - Point and Shoot](https://www.amazon.com/dp/B00YM6HJSY/?tag=p-policy-20)
 
 Nikon L35AF Camera (popularly as Pikaichi like great quality) is also a budget-friendly, portable, & durable point and shoot camera.
 
@@ -68,6 +68,6 @@ Also, it has an auto pop-up flash and an auto-focus system. I found it simple to
 
 Read Also: Laptop for Music Production
 
-## # [6. Polaroid IEX29-RED HD 18 MP Optical Zoom Digital Camera](https://www.amazon.com/dp/B0177QDN5I/?tag=p-policy-20)
+###  [6. Polaroid IEX29-RED HD 18 MP Optical Zoom Digital Camera](https://www.amazon.com/dp/B0177QDN5I/?tag=p-policy-20)
 
 It comes with a large LCD screen, image stabilization in-built flash and the red-eye reduction thatll allow you to take high-quality snapshots.

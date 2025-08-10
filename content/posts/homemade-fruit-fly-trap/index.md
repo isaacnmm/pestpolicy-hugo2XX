@@ -23,9 +23,9 @@ In this article, I've discussed the top fruit fly traps you can DIY.
 
 Read Also: Flying Ants vs. Termites
 
-# # Get Rid of Fruit Flies With a Homemade Fruit Fly Trap
+##  Get Rid of Fruit Flies With a Homemade Fruit Fly Trap
 
-## # 1. Vinegar Trap (apple cider vinegar or white vinegar)
+###  1. Vinegar Trap (apple cider vinegar or white vinegar)
 
 Vinegar trap is my best homemade Trap that will trap over 70% of fruit flies in your house or compound. You will need to have the following requirements: vinegar (either apple cider or white vinegar), a glass jar or bottle with a narrow entrance (20 cm to 30 cm depth), a piece of cellophane, or polythene paper, and a rubber band. Once these are in place, carry out the following procedure.
 
@@ -39,7 +39,7 @@ You will require to make two or three vinegar traps in case the swam of the frui
 
 com/best-fly-trap/).
 
-## # 2. Old wine or beer bottle Trap
+###  2. Old wine or beer bottle Trap
 
 A bottle of old wine or beer can be used as a fruit fly trap since the old fermented wine or beer releases a scent that attracts the fruit flies. - You will require to leave your wine/beer bottle after use for 1 to 7 days (to allow wine/beer leftovers to ferment). - Then, seal the bottle with cellophane or nylon/polythene paper. - Poke few beautiful holes on the paper with a tiny sharp object. - Place the Trap near the fruit flies' infestation.
 
@@ -49,7 +49,7 @@ The fruit flies attracted by the fermented scent will be trapped inside the bott
 
 - You will need to empty the wine trap daily by rinsing the trapped fruit flies. Avoid placing the Trap in the living room since it may pull some fruit flies around (even if it's in the corridor or kitchen, the scent is strong enough to attract fruit flies).
 
-## # 3. Fruits/fruits peel jar Trap
+###  3. Fruits/fruits peel jar Trap
 
 Fruit jar fruit fly trap is made up of many fruit types cut and put together in a jar. To make one at home, you will need to; - Cut into small pieces of various fruits such as mangoes, oranges, sugarcane, pawpaw, avocado, watermelon, etc. Place them in a basin or glass jar. - Seal the basin/jar with cellophane or polythene/cling paper colorless (this enables the fruit flies and owner to view inside).
 
@@ -59,7 +59,7 @@ Therefore, you will not need to put too many pieces in a given jar for economic 
 
 Alternatively, you can place the peels from fruits such as mangoes, bananas, pawpaw, avocadoes, or potatoes in a jar, seal, and poke tiny holes. These peels begin fermenting in a day and emitting a scent that attracts fruit flies in the vicinity. After a substantial amount of fruit flies are trapped, it is necessary to empty the Trap and fill it with fresh fruits/peels. Read Also: Best Flea Spray for Yard
 
-## # 4. Dish soap Trap
+###  4. Dish soap Trap
 
 You can use dish soap to clean utensils, kitchen, sinks, and showers to make a homemade fruit fly trap. The fragrance and diethanolamine chemicals act as attractants of fruit flies into the Trap. To make a homemade dish soap fruit fly trap, you will need to follow the following steps: - Collect/fetch available dish soap and place it in a glass jar/container (diameter of 20 30 cm and a depth of 30 40 cm).
 
@@ -73,7 +73,7 @@ In such a case, you can scoop the top layer of the dish soap and top up the rema
 
 com/best-fly-spray-for-horses/)
 
-## # 5. Banana jar Trap
+###  5. Banana jar Trap
 
 Banana jar trap is one of its own kind, an independent fruit fly trap that doesn't require any spicing attractant (apple cider or fragrance) for quality performance. A ripen banana emits a sharp scent that pulls fruit flies over 20 to 30 feet away. Carry out the following to create your homemade banana trap. - Peel the well-ripen bananas (1 to 3 pieces) and cut them into small sizes (about 2inches).
 
@@ -85,7 +85,7 @@ Empty the Trap after every 2 to 3 days of use.
 
 This Trap may be uneconomical if you spend more bananas (stick to a minimum of one or two per Trap). Alternatively, you can slice the banana peels and repeat the same procedure above. However, the peels may take slightly longer to rot and release an attractant smell. When banana peels decompose, they may emit an unpleasant odor and leave a dirty spell in your jar (though they are useful too).
 
-## # 6. Red wine trick Trap
+###  6. Red wine trick Trap
 
 Red wine is known to emit an attractant smell that pulls fruit flies from the packaged/crate. Therefore, you can make a red wine trick fruit fly trap by carrying out the following step. - Sprinkle little red wine on the red wine bottle (closed/not used). - Place the bottle in a colorless glass jar (about 30 to 50 cm deep). - Seal the container with colorless polythene paper or cellophane and poke the tiny holes on the seal.
 
@@ -97,7 +97,7 @@ Once a large number of Fruit flies have accumulated on the red wine bottle wall,
 
 It can also be used in the living room without disturbance to occupants (the fruit flies always flew in and get trapped no external movement).
 
-## # 7. Paper cone & old/rotten fruits Trap
+###  7. Paper cone & old/rotten fruits Trap
 
 To make a paper cone & old/rotten fruits Trap, you will need a white/purple/pink pain-writing pad, a Glass jar (60 cm depth and 20 cm diameter), and old or rotten fruits. Carry the following steps: - Place the old fruits (could be rotting avocado, oranges, pineapples, grapes, mangoes, or pawpaw) in a colorless glass jar. - Make a cone (with a narrow opening at one of its ends) using plain paper and place it on a glass jar/container.
 
@@ -107,7 +107,7 @@ This trap work by preventing fruit flies from getting out once they flew in. The
 
 Though it can be used in the kitchen, it's supposed to be kept in an enclosed place (the rotting old fruits smell is not pleasant). The Trap is best suited for outdoors and near decomposing materials, near the bins or flowerbeds. Empty the Trap after every two to 4 days to reduce the adverse effect of rotting fruits on the surroundings. Related: Best Termite Killer
 
-## # 8. Heated Milk/ Sugar & Pepper Trap
+###  8. Heated Milk/ Sugar & Pepper Trap
 
 In this kind of Trap, you will require to have milk (powder or liquid form), black/red peppers (around five pieces), sugar (a quarter kilogram), and a glass jar or basin (depth 30cm and 50cm diameter - approximate). Follow this procedure to come up with a trap. - Mix 80ml of milk (add water if you are using milk powder) with sugar and heat for 3 to 7 minutes while stirring until the entire sugar dissolves.
 
@@ -119,12 +119,12 @@ The milk has a sticky substance that traps and drowns fruit flies on landing/ste
 
 Though expensive, heated milk/sugar & pepper trap can kill many fruit flies (it may eradicate the whole colony of fruit flies with a subsequent number of times). Related: Best Ultrasonic Pest Repellers
 
-# # Ways of Preventing fruit flies
+##  Ways of Preventing fruit flies
 
 The following are some of the measures that you can take to prevent fruit flies from invading your house or compound: - Keep off any rotting materials in the kitchen, living room, or compound. - Remove all the wet mops, rags, and store them when dry-clean. - Slow down fruit ripening by storing them in a fridge. - Empty garbage from the kitchen often before it begins to decompose. - Clean utensils immediately after use.
 
 - Clean all drainsin your house and compound regularly to get rid of damp areas. - Clean your fruit to be stored correctly. - Always cover the trash bags after use. - Freeze your compost within the compound regularly.
 
-# # Conclusion
+##  Conclusion
 
 You can trap fruit flies using a homemade trap right at your home. You can use vinegar, milk, sugar, fruits, fermenting or rotting substances, peppers, or even peels from vegetables to achieve this. When placed in a regulated container, these substances emit a scent that attracts fruit flies, which get trapped once they flew in. Not all homemade fruit flies can be used indoors.

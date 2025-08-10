@@ -28,7 +28,7 @@ com/how-to-level-yard/)'s ability to manage water.
 
 This guide will walk you through how to identify drainage problems, common culprits behind them, and practical solutions to transform your waterlogged areas into a healthy, functional landscape.
 
-# # Common Causes of Yard Drainage Issues
+##  Common Causes of Yard Drainage Issues
 
 Before you can fix a drainage problem, you need to understand why it's occurring. Several common factors contribute to poor yard drainage:
 
@@ -48,7 +48,7 @@ Hardpan prevents water from percolating deeper into the ground, causing it to pe
 
 Identifying which of these factors (or a combination thereof) is at play in your yard is key to implementing an effective solution.
 
-# # How To Test Soil Drainage
+##  How To Test Soil Drainage
 
 Before investing in any major drainage solutions, it's wise to perform a simple perk test to understand your soil's drainage rate. This helps confirm whether soil infiltration is the primary issue.
 
@@ -64,7 +64,7 @@ This is acceptable for many plants, but some might prefer faster drainage.
 
 Performing this test in a few different problematic areas can give you a clearer picture of the extent and severity of your drainage problems.
 
-# # How To Improve Yard Drainage (Basic Solutions)
+##  How To Improve Yard Drainage (Basic Solutions)
 
 Once you've identified the cause, several strategies, ranging from simple to more complex, can improve yard drainage. Start with the simpler solutions before moving to more intensive projects.
 
@@ -82,7 +82,7 @@ This needs to be done gradually over time to avoid smothering existing grass. 5.
 
 These initial steps are often the most cost-effective and least disruptive, and can solve many common drainage issues.
 
-# # Other Yard Drainage Solutions (Advanced Systems)
+##  Other Yard Drainage Solutions (Advanced Systems)
 
 If basic methods don't sufficiently address your drainage problems, more advanced, often structural, solutions may be necessary. These usually require more planning, labor, and potentially professional help.
 
@@ -108,7 +108,7 @@ It allows water to slowly infiltrate and filters pollutants. 6.
 
 For complex or persistent drainage problems, especially those affecting your home's foundation, consulting with a professional landscaper or drainage expert is highly recommended. They can assess the unique conditions of your property and design the most effective, long-term solution.
 
-# # Conclusion: A Well-Drained Yard, A Healthier Landscape
+##  Conclusion: A Well-Drained Yard, A Healthier Landscape
 
 Poor yard drainage is more than just an inconvenience; it's a significant threat to the health of your lawn and plants, and potentially to the structural integrity of your home. The good news is that with careful observation, proper testing, and a strategic approach, most drainage issues can be effectively resolved.
 

@@ -19,17 +19,17 @@ Your regular spiders are small-bodied insects. So, its not out of the ordinary t
 
 In fact some bigger creatures like lobsters, crab, snails, worms and shrimps have no bones. *So, do spiders have bones? * **Well, spiders don't have bones - and like other arthropods. However, they have an endoskeleton plus an exoskeleton (external skeleton) that provides primary support for the arachnid's muscles. Its exoskeleton has cuticles plus joints on their surfaces to enable easy movement. ** Related: Best Fogger for Spiders
 
-# # Details: Do Spiders Have Bones?? Exoskeleton?
+##  Details: Do Spiders Have Bones?? Exoskeleton?
 
 The spider's cuticle is composed of 4 layers (like other arthropods) unlike insects that have 3 cuticle layers. However, the cuticles are all made off chitin fibers plus protein. But, don't be mistaken, the spider still has a small internal skeleton - that's has, however, no bones in it. The spider's endoskeleton has collagen and a couple of plates which won't articulate like bones do for the skeleton in vertebrates.
 
 Compared to humans and other animal species -these ones have an endoskeleton that acts like a support structure that's created from bones. The endoskeleton offers support to its organs like lungs, [brain](https: //pestpolicy. com/do-spiders-have-brains/), [heart](https: //pestpolicy. com/do-spiders-have-hearts/) and maintain the animals size and shape.
 
-# # Exoskeletons offer Spiders Body Support
+##  Exoskeletons offer Spiders Body Support
 
 As we've noted above, spiders have an exoskeleton as compared to having an internal skeleton created from bones. So, what's these exoskeletons and what makes it up? The arthropod's exoskeleton is made from chitin- which covers its body outer surface to offer support, protection, and structure. Thus, the exoskeleton will be shed (through molting) as the spider grows and develops. So, below is atarantula shedding her exoskelton:
 
-# # How Spiders Benefit from theExoskeletons
+##  How Spiders Benefit from theExoskeletons
 
 Compared to endoskeletons, exoskeletons will provide more protection because it covers the whole spider's body while the bones would only be located internally. Also, exoskeletons enable the spider's muscles to achieve more leverage for movement, lifting, or picking objects - this is better than in the animals with endoskeletons.
 
@@ -37,13 +37,13 @@ Therefore, the exoskeletons will give the spider more power and straight than ot
 
 Related: [Do Spiders Have Ears? ](https: //pestpolicy. com/do-spiders-have-ears/)
 
-# # How Spiders Move
+##  How Spiders Move
 
 The segments of the exoskeleton in the arthropod are joined using joints to allow it to move up and down. Therefore, the muscles that are attached to the exoskeleton tend to contract allowing the spider to move its legs inward. However, the spider lacks muscles that would otherwise extend its legs back (outward) to their default position. Therefore, the creature use its blood and other bodily fluids to push the legs outward.
 
 Whenever the spider loses excessive bodily fluid, it'll lack the required pressure ( [hydraulic)](https: //science. howstuffworks. com/transport/engines-equipment/hydraulic. htm) for moving its legs outwards. You'll notice the spider lying on its back and its legs in a curled up position.
 
-# # **How****Spiders ****Molt**
+##  **How****Spiders ****Molt**
 
 Spiders will move from one point to another through muscle contraction - these will be attached to the exoskeleton on the outer part of the arthropod. The spider's exoskeleton is composed of different cuticle layers - that are made from chitin (polysaccharide) and [proteins](https: //science. howstuffworks. com/life/cellular-microscopic/cell3. htm). This allows the cuticle structure to be layered like a [plywood](https: //home. howstuffworks.
 

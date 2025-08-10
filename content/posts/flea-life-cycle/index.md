@@ -21,9 +21,9 @@ The adults lay eggs as they feed to continue the cycle. Understanding [the flea 
 
 In this article, we'll take a look at the cycle of their life. Also, check this fleas movement guide.
 
-# # Understanding the Flea Life Cycle - 7 Facts
+##  Understanding the Flea Life Cycle - 7 Facts
 
-## # 1. Flea Eggs
+###  1. Flea Eggs
 
 The life cycle for a flea typically starts when an adult female will lay their eggs after feeding on blood from a suitable the host, this is mainly cats or dogs.
 
@@ -35,7 +35,7 @@ Flea eggs fall from your pet as they move, distributing them in the yard or hous
 
 Related: Flea spray for yard Flea eggs hatch with the right temperature and humidity with 2-14 days. Larvae will emerge if temperatures are warm and humidity levels are high.
 
-## # 2. Flea Larvae
+###  2. Flea Larvae
 
 Flea eggs can remain dormant for up to 18 months until they sense enough heat, which triggers an egg to hatch ( into larvae) within seconds!
 
@@ -51,7 +51,7 @@ On size, flea larvae measure around a few millimeters (-inch) long, they'll look
 
 Flea larvae will be the first thing you'll spot on your pet's fur or skin, and they might look like tiny white worms that wriggle around.
 
-## # 3. Flea Pupae
+###  3. Flea Pupae
 
 Flea pupae will constitute roughly 10-percent of the fleas in your home. They will be dark brown in color and look like a "J" shape.
 
@@ -71,7 +71,7 @@ Therefore, flea pupae will only hatch out of their cocoons and into a "flea" lif
 
 Related: Puppy Shampoo for Fleas
 
-## # 4. Adult Fleas
+###  4. Adult Fleas
 
 After emerging from their cocoon, adult fleas start feeding (sucking blood) within 1-3 hours and becomes ready to breed and lay eggs in a few days.
 
@@ -89,7 +89,7 @@ After this process of digestion, the fleas poop out feces and can leave behind d
 
 Adult fleas will live for several weeks up to months on their host such as a dog or cat or also hiding on carpet edges, cracks, and pet bedding where they get adequate skin and hair.
 
-# # How to Break the Flea Life Cycle
+##  How to Break the Flea Life Cycle
 
 Fleas take 1 to 2 months before they can develop into an adult flea and be capable of reproducing. As long as flea prevention and control methods are implemented, no new adults will form.
 
@@ -97,7 +97,7 @@ To break the flea life cycle; - Use a flea treatment on your pet and clean the h
 
 You can help speed up the hatching of any remaining flea pupae by increasing the temperature and using a humidifier.
 
-# # How to Flea Treat My Cats and Dogs
+##  How to Flea Treat My Cats and Dogs
 
 Pets should be treated with a flea treatment including dog flea shampoo or an appropriate [cat flea shampoo](https: //pestpolicy. com/best-flea-shampoo-for-cats/). Fleas can become resistant to certain treatments, so it is important you use the correct one for your pet's needs.
 
@@ -107,7 +107,7 @@ A topical or oral medication that has an insect growth regulator (IGR) will help
 
 It is important that you treat your pets at least twice during the summer months with an IGR product to ensure complete protection, especially if they spend time outside.
 
-# # Conclusion
+##  Conclusion
 
 In summary, the life cycle of the flea is all about eggs, larvae and pupae.
 

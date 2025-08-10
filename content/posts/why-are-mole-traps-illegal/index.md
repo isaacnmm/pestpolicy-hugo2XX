@@ -22,7 +22,7 @@ layout: post
 
 However, the mole traps that have the design considered as body-gripping are not allowed.
 
-# # Details: Why are Mole Traps Illegal?
+##  Details: Why are Mole Traps Illegal?
 
 Killing or injuring these non-commensal mole species s illegal - especially using snap trap or body-gripping mole traps. However, where live trapping of the moles is not practical, most people use techniques that only drive the animals to their neighbor's backyards and property.
 
@@ -38,7 +38,7 @@ The wildlife department has notably even fined and prosecuted those companies an
 
 - The scissor mole traps are created with "U"-shaped jaws and those will generally kill the animal when triggered or tripped - it's positioned in a tunnel for more effectiveness. The wildlife department suggests using other mole control techniques including poison, noisemakers, or ignoring the moles since they're non-commensal animals.
 
-# # Which Mole traps are Legal?
+##  Which Mole traps are Legal?
 
 Moles are considered unclassified - and thus homeowners are allowed to kill the wildlife when they're causing harm to your property or damaging crops and harming the domestic animals. - However, there are mole traps that are legal to use - these include the live-trapping traps such as the suitcase-type or cage traps as these do not fall under the body-grasping design.
 
@@ -50,13 +50,13 @@ However, treating for grabs may also help control moles.
 
 North Carolina has three key mole species; star-nosedmole, hairy-tailedmole, and the easternmole - these will dig tunnels but won't dig up plant bulbs and roots.
 
-# # Alternatives to Mole Traps?
+##  Alternatives to Mole Traps?
 
-## # 1. Smoke Bombs
+###  1. Smoke Bombs
 
 Smoke bombs will work effectively for controlling wildlife including ground squirrels, skunks, rats, woodchucks, moles, and gophers. - The smoke bombs will suffocate the moles while they're in their tunnel. However, we won't know how effective different smoke bombs will work However, some cities may prohibit the use of smoke bombs for control of moles since the smoke could also drift to the neighbors homes - which may be offensive.
 
-## # 2. Poison Baits
+###  2. Poison Baits
 
 Poison baits are equally an appropriate mole-control technique - some of the most popular will have warfarin which is a blood-thinner and this will make the moles bleed to their death. - Warfarin will equally kill other animals such as songbirds, chickens, pet and feral hogs, dogs, mice, cats, and rats - but may also poison humans.
 
@@ -64,13 +64,13 @@ The zinc phosphide baits should be used to control moles - but must only be in t
 
 - However, criminal or civil liability may befall you if any of the baits intended for killing moles land is picked and consumed by children or pets - and if especially they suffer injury, death, or illness.
 
-## # 3. Flooding
+###  3. Flooding
 
 Because moles usually create comprehensive tunnels, flooding these tunnels can be a great way to exterminate the wildlife. - However, the moles could end up digging deeper into the tunnel to avoid the floods and you may be forced to get other techniques. Luckily, flooding the moles is a legal of controlling moles as it will not directly cause physical injury to the animal but will kill it humanely.
 
 - However, practically flooding may only work to irritate the moles and thus they may be forced to move off your property - this natural technique for mole control is cheap and may be used more regularly.
 
-# # Conclusion
+##  Conclusion
 
 In conclusion, the anti-trapping law passed in 2000 bans trapping moles in some states such as Washington DC - especially with methods using the snaptrap or body-gripping design traps. - Alternative mole control methods that are legal include using drowning, drugs, gas, ferrets, and shooting.
 

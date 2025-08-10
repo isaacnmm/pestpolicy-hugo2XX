@@ -21,7 +21,7 @@ The symptoms of dust mites for humans include itching and sneezing - but these c
 
 ** We've seen that dust mites will not bite or sting humans ( [this is unlike other [mite](https: //pestpolicy. com/what-do-dust-mites-look-like/) species](https: //pestpolicy. com/best-fungicide-powdery-mildew/) ). But do we, like most homeowners, worry so much about these bugs? Lets find out! Related: Bed Bugs Vs Mites
 
-# # Details: Do Dust Mites Bite?
+##  Details: Do Dust Mites Bite?
 
 In summary, we've seen that dust mites will not bite humans but we still have reason to be concerned about these bugs. - The most concerning issue with having dust mites in the house is their allergens since they trigger allergic reactions in humans. - There are about 20 + dust mite-related allergens that arise from the pests' bodily secretions including poop and cast skins.
 
@@ -31,7 +31,7 @@ org/)reports that Americans totaling roughly 20 million are insensitive to aller
 
 It's almost impossible to completely remove all the dust mites from your spaces but you can control their numbers.
 
-# # Challenges/ Health Risks Posed by Dust Mites
+##  Challenges/ Health Risks Posed by Dust Mites
 
 Health experts have documented dust mites as a key indoor trigger for humans that have asthma and allergies. - So a continued and chronic dust mites' explosion can lead to adverse health effects for humans with allergies and those that are sensitive or allergic to mites. Exposure to dust mite allergies may result in mild asthma with symptoms being sneezing, watery eyes, or runny nose.
 
@@ -39,28 +39,28 @@ Severe cases of asthma can result from extensive and chronic explosion dust mite
 
 - The dust mite allergens may also trigger hives on the skin, allergic reactions, and asthma attacks. The signs of having dust mites in the house will include running nose, headaches, and sneezing. Related: Flea Carpet Powder
 
-# # Effective protection from dust mites: Techniques
+##  Effective protection from dust mites: Techniques
 
 Homeowners can effectively protect themselves from dust mites through techniques that will help eliminate or reduce the pests. Let's check them out
 
-## # 1. Reducing the Humidity
+###  1. Reducing the Humidity
 
 Recent scientific research shows that reducing the relative humidity of space will control dust mites plus the allergens they reproduce. Experts advise that you should maintain relative humidity (RH) of under 50% in your home to reduce the dust mites and the allergens they produce. - The research was done by altering indoor RH in the humid temperate climate.
 
-## # 2. Remove Hiding Areas For Dust Mites
+###  2. Remove Hiding Areas For Dust Mites
 
 I also advise that you clear those areas where the dust mites could live. Some of the areas include pillows that have allergen encasements, mattress covers, curtains and drapes, and furniture that has smooth surfaces. - Removing most of these objects from your spaces will help reduce the hiding or breeding grounds for the dust mites. It is also advisable that you wash the bedding once weekly with hot water that is 130 + degrees Fahrenheit.
 
 Also check places that the dust mites can live in, including stuffed animals and various clutter. Otherwise, you may opt to wash search objects using hot water that is 130 + degrees per Fahrenheit as these will kill dust mites.
 
-## # 3. Remove And Replace The Carpets
+###  3. Remove And Replace The Carpets
 
 Dust mites will find an excellent hiding and living place in your carpeting. So to control these bugs, I advise that you remove the carpeting from your house, particularly if the family members have allergens that are related to dust mite allergens. - But you can still vacuum the carpets thoroughly with aquality vacuum cleaner. Avoid wet mopping but just focus on removing dust and dirt on the floors through damp cleaning.
 
-## # 4. Dust The Floors Regularly
+###  4. Dust The Floors Regularly
 
 Combining regular cleaning and dusting off the floors will help minimize dust quantities that accumulate in the house. - This will help improve the air quality in the house and that's better health for you and your pets. Avoid stirring the dust while cleaning by using some wet microfiber cloth for the washcloth. - In comparison homes in lower-income areas and those that are old and located in humid climates tend to have more dust mites.
 
-# # Conclusion
+##  Conclusion
 
 Dust mites will not bite humans and they are also not visible to the human eye. - However, these pests will cause health effects such as allergic reactions, hives, and asthma. Finally, it's impossible to completely remove the pests from your house but you can minimize them.

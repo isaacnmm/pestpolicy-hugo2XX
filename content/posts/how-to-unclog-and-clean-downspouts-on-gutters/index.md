@@ -41,7 +41,7 @@ com/how-do-i-clean-and-maintain-my-painting-shoes-to-prolong-their-lifespan/) th
 
 This guide will explain why keeping your gutters and downspouts clean is paramount, provide step-by-step instructions for unclogging downspouts using various methods (including a plumbing snake), offer preventative measures, and reiterate the importance of a free-flowing drainage system.
 
-# # How To Unclog Downspouts (Step-by-Step)
+##  How To Unclog Downspouts (Step-by-Step)
 
 Before attempting to unclog a downspout, you must first clear the main gutter troughs of any large debris. This will prevent more material from washing down and re-clogging the downspout.
 
@@ -69,7 +69,7 @@ Be cautious, as a large amount of debris and water may be released.
 
 6. **Ensure Proper Drainage at the Base: ** * Confirm that your downspout extensions are directing water at least 5-10 feet away from your foundation. If not, add or adjust extensions. Consider splash blocks or underground drainage systems.
 
-# # So, Is Keeping Gutters Clog-Free a Good Idea?
+##  So, Is Keeping Gutters Clog-Free a Good Idea?
 
 Absolutely. Keeping your gutters and downspouts clean and free of clogs is one of the most critical and cost-effective home maintenance tasks you can undertake. It directly safeguards your home's most vulnerable areas from devastating water damage, including your foundation, roof, and siding.
 

@@ -90,6 +90,6 @@ This diving boat is exciting to build and it gives young builders a chance to ex
 
 Pros - Easy to build - Enhances imagination and creativity - Encourages role playing - Encourages creativity Cons - A reviewer complained that it doesnt float well
 
-# # Conclusion
+##  Conclusion
 
 The best Lego set for 8 year old boy should promote creativity, imagination, and enhance problem-solving skills. All the Lego sets reviewed above will help your child grow holistically while having a fun play experience. Go ahead and make your choice.

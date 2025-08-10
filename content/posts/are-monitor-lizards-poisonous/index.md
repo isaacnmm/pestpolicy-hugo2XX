@@ -23,13 +23,13 @@ Monitor lizards (such as Komodo Dragon, Asian Water Monitor, and Tree Crocodile 
 
 Related: [Are Blue Tailed Lizards Poisonous? ](https: //pestpolicy. com/are-blue-tailed-lizards-poisonous/)
 
-# # Details: Are Monitor Lizards Poisonous?
+##  Details: Are Monitor Lizards Poisonous?
 
 Monitor lizards are the most [poisonous and dangerous species of lizards](https: //pestpolicy. com/are-lizards-poisonous/). They contain venom at the root of their teeth, which they use to paralyze the prey before they swallow. Most Monitor lizards are carnivore and are well known for their tactical hunting skills. We can therefore say that most Monitor lizards are dangerous carnivores that paralyze prey using their venom before swallowing.
 
 In addition, these reptiles harbor salmonella bacteria that cause infections to both pets and human beings if not treated or disinfected. Meat from Monitor Lizard contains Liver fluke which damages severely the pets livers and causes liver inflammation.
 
-## # **1. Komodo dragon**(**Varanus komodoensis***)*
+###  **1. Komodo dragon**(**Varanus komodoensis***)*
 
 This is the largest Lizard ever lived. It grows to a length of 30 meters and 135kg (300 pounds) in weight at adulthood. Komodo Dragon is the most venomous lizard. It can run fast to attack its prey, including human beings. This reptile bites and injects poisonous venom into you/prey. The venom contains crotamine, which prevents blood clotting and thus leading to death if not urgently attended.
 
@@ -37,7 +37,7 @@ Several reports of human attacks by Komodo Dragon have been reported between 200
 
 This reptile also introduces bacteria from its mouth to the prey accelerating the killing.
 
-## # **2. Malayan, Asian Water Monitor, Two-banded Monitor**(**Varanus Salvator**)
+###  **2. Malayan, Asian Water Monitor, Two-banded Monitor**(**Varanus Salvator**)
 
 This type of monitor lizard is found in South China Sea, Bengal bay, and Sri Lanka. They are well known carnivores that feed on fish, mollusks, birds, spiders, small mammals, and even other lizards. Asian Water monitor also eats meat from a dead human being. These monitor bites human beings and injects venom that causes mild effects and infections which may get severe if not attended to.
 
@@ -45,23 +45,23 @@ There are rare cases of people who have died out of Malayan monitors Venom unlik
 
 People hunt the Asian Water Monitor for their skin and meat, which they use for traditional leather industry and medicine.
 
-## # **3. Tree crocodile, or Crocodile monitor**(**Varanus Salvadori**)
+###  **3. Tree crocodile, or Crocodile monitor**(**Varanus Salvadori**)
 
 This type of Monitor Lizard loves living in the Islands of New Guinea. They are dangerous and poisonous lizards. Just as the name states, they behave like crocodiles (threatening and hunt alone). Crocodile monitor are highly aggressive. They are able to bite and kill their prey in minutes. Though people prefer hunting them for their meat and sin, these reptiles are considered a very risky and are mainly capture using traps.
 
-## # **4. Bengal monitor**(**Varanus bengalensis)**
+###  **4. Bengal monitor**(**Varanus bengalensis)**
 
 This is commonly known as the common Indian monitor. It is found in West and southeastern Asia along with Sri Lanka. This monitor lizard is considered harmless and defenseless by the people of Sri Lanka. Its highly hunted for meat and fat that is used for various home use. The skin extract from Bengal monitor is used for making drums by the people of Sri Lanka. This reptile has not been aggressive against people and is considered a nice pet.
 
-## # **5. Nile Monitor or Water Monitor (Varanus niloticus)**
+###  **5. Nile Monitor or Water Monitor (Varanus niloticus)**
 
 Nile Monitor is found in Nile valley of Sub-Saharan Africa. It is well known for hunting in rivers and nearby vegetation. It is able to kill large animals such as frog, turtle, birds and terrapin for food. Nile monitor rarely hunt human beings. However, when threaten, they can bite and instill a painful injuries. These reptiles prefer to escape by swimming in the rivers in case of danger. Related: Do Anole Lizards Bite?
 
-## # **6. African Savannah Monitor, or White-throated Monitor, Rock Monitor, Savannah Monitor**(**Varanus exanthematicus**)
+###  **6. African Savannah Monitor, or White-throated Monitor, Rock Monitor, Savannah Monitor**(**Varanus exanthematicus**)
 
 This Species of Monitor lizard is found in savannah and arid areas of Eastern and southern Africa. It is carnivore in nature and will kill small animals such as baby tortoise and invertebrates for food. Normally, Savannah monitor loves solitary life. It bites when threated and knocks off its assailants using its long tail. There is no report showing death resulting from Savannah Monitor. This species can be kept as a pet.
 
-# # Are monitor Lizards Poisonous to Human Beings?
+##  Are monitor Lizards Poisonous to Human Beings?
 
 Monitor lizards such as Komodo Dragon, Asian Water Monitor and Tree Crocodile Monitor are termed as human threat since they contain venom. These reptiles do not hunt human beings, however, when provoked or while stressed, they can bite dangerously. The bite from a Monitor lizard causes poisonous infections.
 
@@ -73,7 +73,7 @@ In fact, the reptile use to be left to roam in his house freely as a pet. After 
 
 Research is still being carried out to establish what can make them aggressive like other species of monitor lizards. The monitor lizards harbor salmonella bacteria that causes infections to both human beings and pet. The pet Monitor Lizard should be disinfected often (once per month) to prevent them from dropping these bacteria in your compound.
 
-# # Are Monitor Lizards Poisonous to your pets (cats & dogs)?
+##  Are Monitor Lizards Poisonous to your pets (cats & dogs)?
 
 Monitor lizards are poisonous reptiles that will attach your pets on approach. Komodo Dragon and Tree Crocodile Monitors will bite your dogs or cats using their sharp pointed venomous teeth, paralyzing them to death the teeth of monitor lizards are strong enough to penetrate the skin of your pets unlike other lizard species. The bite from a monitor lizard may take more than a month for your pet to heal on vet treatment.
 
@@ -81,7 +81,7 @@ The Monitor Lizards are always threated by the presence of dogs or cats since th
 
 Dogs and large cats tend to hunt monitor lizards for their food. Meat from Monitor lizards contains liver flukes ( **liver flukes dont affect the lizards** ) which when eaten are transferred into your pets digestive track. These liver flukes then travel to the liver, gall bladder and finally to the bile duct. They cause severe liver damage and liver inflammation.
 
-# # Which Diseases are caused by Monitor Lizards?
+##  Which Diseases are caused by Monitor Lizards?
 
 Your pet monitor lizards may not be 100% safe for you, your pets or your humans if not well treated. They cause scary skin when held with unprotected hand. One feels itching sensation, which makes you tend to scratch yourself. The skin of untreated (dirty, scary) Monitor Lizard is believed to excrete a chemical that cause itching and can also be allergic to allergen sensitive people.
 
@@ -91,7 +91,7 @@ The excretes from Monitor lizards need to be handled with care as they cause inf
 
 They favor growth of fungi that may lead to fungus infections in your place.
 
-# # How Do Lizards Bite?
+##  How Do Lizards Bite?
 
 Monitor Lizards can bite you, when provoked and inject you with venom that kills at long run. Several cases of Komodo dragon and Asian Water Monitor feeding on human being. The Monitor lizards have sharp pointed teeth that are able to slice through the flesh to a depth of 0. 5 to 2 inches. These bites causes continuous bleeding that dont clot easily and a resultant swelling that may take one month to heal.
 
@@ -99,7 +99,7 @@ It is necessary to nurse and treat bites from Monitor lizard immediately in orde
 
 The pet may get agitated by other causes such as reproduction thus biting your kid. In is necessary to keep of your kids from pet monitor lizards as much as possible.
 
-# # Are the Monitor Lizards Venomous?
+##  Are the Monitor Lizards Venomous?
 
 Yes. Monitor lizards contain venom at the root of each tooth. The venom contains crotamine chemical, which poisons and paralyzes the prey to death. Crotamine prevent blood from bite injuries from clotting leading to continuous drop of blood pressure in the body. The Venom also inject chemical that cause immediate swelling and spread infections in the bitten area.
 
@@ -107,7 +107,7 @@ The release of venom from the monitor lizards is faster when it is more stressed
 
 Since every tooth has venom glad at the root, you much be keen when handling the number of bites so as to administer medicine to each scar appropriately. The Komodo Dragon Lizard species is said to have very poisonous venom that kill in minutes if unattended.
 
-# # What are dangers of Overpopulation of Monitor Lizards?
+##  What are dangers of Overpopulation of Monitor Lizards?
 
 Managing a large population of Monitor Lizards may be tedious and cumbersome to humanity. These Lizards tend to rebel and react negatively over any simple threat. With increased population, food scarcity arises and feeding them becomes challenging. Hungry Monitor Lizards become carnivores that are more violent with time. They group themselves in crowds that aim at attacking both small and large animals to gain food.
 
@@ -119,7 +119,7 @@ However, to control their natural population increase, you can only do so best b
 
 Related: **What Does a Garden Lizard Eat? **
 
-# # Can Monitor Lizards be Petted?
+##  Can Monitor Lizards be Petted?
 
 Yes. You can pet the Monitor lizards. This can be done by using food as bait to lure it. People have petted Monitor Lizards. However, it is necessary to learn the moods of your Monitor lizards since they may react negatively anytime thus biting and injecting poisonous venom to you, your pets or your humans.
 
@@ -127,7 +127,7 @@ The Monitor Lizard Pet should be kept away from other home pets such as dogs and
 
 Your kids should not be allowed to play with your pet monitor lizards alone.
 
-# # Conclusion
+##  Conclusion
 
 The Monitor Lizards such as Komodo Dragon, Asian Water Monitor, and Tree Crocodile Monitor are poisonous reptiles that bite and inject poisonous venom to their prey, thus paralyzing it to death. The monitor lizards venom contains crotamine chemical which prevents clotting of blood. The blood Oz cause the overall drop of blood pressure in the body. The venom also leaves infections that cause painful swelling on the bitten part.
 

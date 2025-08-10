@@ -21,11 +21,11 @@ My plumbing snake, drain cleaners, and hot water, the wet-dry vacuum cleaner was
 
 ** **Thus, wastewater will flow down the drain with the help of gravity. You should know that the toilet waste line and the sink waste lines are connected at their vent stack. **
 
-# # Sink Not Draining But Pipes Clear
+##  Sink Not Draining But Pipes Clear
 
 My issue was that maybe I had a more significant problem because, in the previous three months, I had just miraculously [uncloggedmy stubborn bathtub that had standing water](https: //pestpolicy. com/how-to-unclog-a-bathtub-drain-with-standing-water/).
 
-## # What is vent stack? Where is it, and how can I check/fix it?
+###  What is vent stack? Where is it, and how can I check/fix it?
 
 Vent stack blocked? The gurgling sound usually means it is starving for air. Without venting, the flush operation would act as a vacuum and would not properly flush. The vent stack is usually hidden behind the wall. It is a vertical pipe to which all the [drains](https: //pestpolicy. com/how-to-unclog-a-bathroom-sink-drain/) along with that line tie into. Check the toilet too to make sure there is no partial blockage.
 

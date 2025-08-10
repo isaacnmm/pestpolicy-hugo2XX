@@ -23,7 +23,7 @@ Its hind-most pair of legs are significantly adapted in jumping.
 
 Here's how to tell if you have a flea problem. **
 
-# # How High Can Fleas Jump?
+##  How High Can Fleas Jump?
 
 The fleas's legs are long and appropriately build for jumping. The bug provides a forceful and quick jump - it wont depend on power from directly from its muscles but on the energy stored in the [resilin](https: //en. wikipedia. org/wiki/Resilin) elastic protein pad. It releases the store energy fast like bow & arrow.
 
@@ -37,7 +37,7 @@ Further, the Desert Rodent Fleas have a jump of about 7. 8 cm - 12. 8 cm (3 - 5 
 
 Therefore, human fleas jump about 33 cm (13 inches) just like cat fleas.
 
-# # Flea Anatomy  Jumping Mechanism
+##  Flea Anatomy  Jumping Mechanism
 
 It's important to learn the anatomical build of the fleas' legs to lean how these bugs jump from one host or area to another. Its legs are segmented into 4 sections - the segments being tarsus, tibia, femur, and coxa from outwards towards the body. The leg joints - particularly the femur is a thick joint segment of the fleas' leg and it has a large amount of muscle and it links the trochanter to the bug's tibia.
 
@@ -45,7 +45,7 @@ the fleas' tibia is sectioned and it links femur to the fleas' tarsi.
 
 In addition, the fleas tarsi stand furthest to the bug's body. The flea's trochanters are noted to touch the ground when the bugs are jumping. But the tarsi of the flea is a critical part of jumping for the fleas. Notably, fleas derive their jumping power from the spectacular jumps. Its resilin contains some protein that is stretchy - to contract and extends allowing the flea to jump over distances.
 
-# # How Fast Can Fleas Jump?
+##  How Fast Can Fleas Jump?
 
 Considering the shape and size of fleas - these flat and tiny bugs measure about 1/12 - 1/8 inches move of jump quickly and effectively over distances or between the pet's hairs. The hind legs, from its 6 legs, of these fleas, allow the bugs to jump quickly. Some fleas species will jump about 150 times its body length. Further, the record jump ever recorded in fleas was a vertical jump of 4 feet.
 
@@ -55,7 +55,7 @@ Adult fleas lays about 5000+ eggs in its lifetime and the adult will live or abo
 
 As noted above, fleas won't survive for long without a blood meal or a host - in fact its just a few days. However, with the correct humidity, blood supply, and temperatures, adults fleas will live anywhere from 1-1. 5 years. Further, adults fleas will survive for long without feeding if they won't break off their [puparia](https: //en. wikipedia. org/wiki/Puparium) since this would otherwise make them lose excessive energy.
 
-# # Can Fleas Jump Onto Beds?
+##  Can Fleas Jump Onto Beds?
 
 Definitely, its odd to discover fleas occupying your bed - even after washing and treating all the bedding and such stuff. Maybe the bugs did actually hitchhike your lower legs or feet and finally got into you bed? Possibly, the fleas also climbed onto your bed using the loosely hanging sheets near the ground or floor? NB: Fleas can only jump to maximum height that's around your ankle - fleas have no wings and thus won't fly.
 
@@ -65,8 +65,8 @@ The next step will be purchasing a better vacuum - maybe the one you currently h
 
 Daily cleaning and vacuuming may help kill the flea larvae, eggs, and baby fleas - in addition to washing the bedding, treating the mattress and pillows. A great sign in your war against fleas is if you don't now notice a lump of flea dirt on the bed rails.
 
-# # How to Control Fleas
+##  How to Control Fleas
 
-# # Conclusion
+##  Conclusion
 
 As we've noted above, fleas have long legs and the hind pair is highly developed to allow them to jump very high. Vertically, fleas can jump about 18 cm (7 inches) while horizontally it can jump roughly 13 cm (33 inches). Therefore, fleas are only second in jumping height-to body length ratio to froghopper.

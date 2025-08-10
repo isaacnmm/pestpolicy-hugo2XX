@@ -19,9 +19,9 @@ Dealing with bed bugs in carpets can be a frustrating and challenging task, as t
 
 This guide explores five proven ways to eradicate bed bugs from your carpet, ensuring a pest-free home. Whether you prefer DIY solutions or professional help, these strategies will help you tackle the infestation effectively. Lets dive in!
 
-# # How to Remove Bed Bugs from Carpets
+##  How to Remove Bed Bugs from Carpets
 
-## # **1. Diatomaceous Earth**
+###  **1. Diatomaceous Earth**
 
 Diatomaceous Earth is a safe, affordable and easy to use powder that can be conveniently used to [get rid of bed bug in carpets](https: //pestpolicy. com/does-diatomaceous-earth-kill-[bed-bugs](https: //pestpolicy. com/bed-bug-bites-vs-mosquito-bites/)/). Its a natural ingredient mined from decomposed organisms known as diatoms.
 
@@ -33,13 +33,13 @@ The substance works within a few hours but you can allow a few days to enable mo
 
 I recommend using only food grade DE powder because it is safe around your kids and pets.
 
-## # **2. Borax Powder**
+###  **2. Borax Powder**
 
 Another effective treatment for bed bugs in your carpet is the borax powder and boric acid. It kills bed bugs in a mechanical action like the diatomaceous earth powder. Once in contact with the bed bug, it rips the outer shell and gets inside. This dehydrates the insect, eventually causing it to die. - To use borax powder on bed bugs, sprinkle a sufficient amount on the carpet and the space between the carpet and the baseboard or wall.
 
 This will ensure that bed bugs that hide under the carpet get into contact with the powder as they come out. Vacuum the carpet after a few days to remove dead bed bugs and the remains of the powder. As a precaution, do not use borax powder around kids and pets since it can cause skin irritation.
 
-## # **3. Heat Treatment and steaming**
+###  **3. Heat Treatment and steaming**
 
 Treating your carpet to certain temperatures will kill bed bugs together with their eggs. One advantage of this treatment is the ability of heat to penetrate anywhere bed bugs may be hiding. - Heat treatment will kill bed bugs even in the gap between your carpet and baseboard or wall. However, heat treatment comes with high cost for equipment and energy used.
 
@@ -47,7 +47,7 @@ Treating your carpet to certain temperatures will kill bed bugs together with th
 
 Heat treatment involves raising the temperature inside the house to levels which bed bugs, larvae and their eggs cannot survive. Before the treatment, all individuals, pets and everything that is sensitive to heat should be evacuated.
 
-## # **4. Steam Treatment**
+###  **4. Steam Treatment**
 
 Steam treatment can effectively kill bed bugs and their eggs when used with a carpet shampoo and a compound that kills bed bugs. The compound of choice should however not react with the cleaning agent or stain your carpet. - You need a heavy-duty steamer for this task. This treatment utilizes at triple action to kill bed bugs, larvae and eggs. These[bed bug Steamers](https: //pestpolicy.
 
@@ -55,7 +55,7 @@ com/best-bed-bug-steamer/)will be a great addition to your DIY store.
 
 Apart from the steam and the compound, bed bugs will be crushed to death by the physical movement of the steamer brush.
 
-## # **5. Vacuuming Bed Bugs From Carpet**
+###  **5. Vacuuming Bed Bugs From Carpet**
 
 Can I use a vacuum cleaner to remove bed bugs in my carpet? This is a common question that I encounter as a pest eradication expert.
 
@@ -79,7 +79,7 @@ Pressing too hard might brush bed bugs off the carpet without sucking them.
 
 The canister should then be cleaned with hot water and soap to kill any remaining bed bugs and their eggs. Care should be taken not to short circuit the electrical components.
 
-# # Conclusion
+##  Conclusion
 
 For better results, regular vacuuming is inevitable. Usually bed bugs will cluster in their usual favourite locations. These are the areas to concentrate on during subsequent vacuuming. Plus you can keep checking your carpet regularly for any signs of bed bugs.
 

@@ -27,9 +27,9 @@ How do you confirm if there are fleas in the yard? Well, if you suspect there ar
 
 **Some tips on how to treat the backyard and keep fleas off your lawn or yard include: **
 
-# # Step By Step: How to Treat Fleas in the Yard
+##  Step By Step: How to Treat Fleas in the Yard
 
-## # **Step 1: Use Yard Flea Pesticide**
+###  **Step 1: Use Yard Flea Pesticide**
 
 Fleas are mainly attracted to moist, dark areas so you'll need to use a pesticide like Wondercide yard flea spray, which will kill off the fleas. , mosquitoes, and ticks.
 
@@ -41,7 +41,7 @@ Always waking up covered with them, I tried many products before finally settlin
 
 - Keep children out of treated areas until dry (at least 24 hrs)
 
-## # **Step 2: Create a Flea Barrier **
+###  **Step 2: Create a Flea Barrier **
 
 One way to get rid of fleas in your yard is by building a flea barrier.
 
@@ -53,7 +53,7 @@ This will keep fleas from being attracted to your yard because cedar is known fo
 
 Ceramic tiles or stones are an option if you want a different look in the area, but be sure that they're sealed properly so that no moisture can get into them.
 
-## # **Step 3: Mow the Lawn High **
+###  **Step 3: Mow the Lawn High **
 
 Mow the lawn high to deter fleas. Mowing high won't eradicate your fleas, but it will reduce their numbers by providing less food and a harsher environment for them.
 
@@ -69,7 +69,7 @@ The following are some tips for how to mow your lawn correctly:
 
 - Mow the lawn high, dethatch and treat with insecticide (optional). Maintain a healthy yard by not letting the grass grow too long.
 
-## # **Step 4: **Dethatchthe Yard
+###  **Step 4: **Dethatchthe Yard
 
 Dethatching will help to kill fleas in the yard - keep the thatch at under half-inch or lower. - Flea larvae hatch in the moist soil and congregate near blades of grass. The adult fleas will lay eggs on these blades, making them a breeding ground for future infestation.
 
@@ -81,7 +81,7 @@ But keep your yard tidy and healthy by not letting the grass grow too long: cut 
 
 Maintain an attractive, insect-free yard by keeping grass short and healthy. A good way to discourage fleas is to keep the lawn tidy, but not too overgrown. - Dethatching will help destroy larvae in moist soil so they can't congregate near blades of grass where adults may lay eggs.
 
-## # **Step 5: **Don't Overwater the Yard
+###  **Step 5: **Don't Overwater the Yard
 
 Dont overwater the yard or garden - this will help to control fleas. Reducing irrigation excessively will help combat their reproduction cycle - keep the watering at a maximum of 1-inch of water weekly.
 
@@ -95,7 +95,7 @@ Allow sunshine to shine on the yard by pruning shrubs and trees. Further, cut th
 
 It's also important that you regularly wash your pet with a medicated shampoo, or [give them regular baths](https: //pestpolicy. com/best-flea-shampoo-for-dogs/) if they live indoors. Your yard will stay cleaner and more comfortable for both humans and pets.
 
-## # **Step 6:**Remove Yard Debris
+###  **Step 6:**Remove Yard Debris
 
 - Clear all clutter that might house fleas or their larvae like lumber piles under decks or furniture outside of the home.
 
@@ -107,7 +107,7 @@ The more you understand about these pests, the better equipped you'll be to keep
 
 If left untreated, they could cause problems for years to come.
 
-## # **Step 7: Chase Wildlife**
+###  **Step 7: Chase Wildlife**
 
 Chase and control wildlife from getting into your yard - including deer, rabbits, skunks, feral cats, and squirrels to control fleas. Clean up brush piles and remove fallen branches.
 
@@ -115,7 +115,7 @@ Wild animals can carry fleas, ticks, and other parasites.
 
 Keep children's play areas clean of leaves to discourage nesting animals. - Call animal control if the problem is severe; you can also hire a professional pest management company for help with difficult cases involving large numbers. To control your dog's fleas, control or chase various wild animals including: - Skunks - Deer - Rabbits - Feral cats - Squirrels
 
-## # **Step 8: Treat Dogs & Cats for Fleas **
+###  **Step 8: Treat Dogs & Cats for Fleas **
 
 Fleas are not only a concern for your pet - they can also be in the environment.
 
@@ -135,7 +135,7 @@ Treat pets by applying topical insecticide products containing fipronil, and pyr
 
 Consult with your veterinarian if you're not sure what type of product like flea shampoo would work best for your dog or cat's coat type or other special needs.
 
-## # **Step 9: Vacuum furniture and Carpets **
+###  **Step 9: Vacuum furniture and Carpets **
 
 In order to make sure you won't have fleas in your yard, vacuum up any furniture that has been left outside and also vacuum the carpets.
 
@@ -149,7 +149,7 @@ Steps for Vacuuming Furniture: - Set up a sturdy area in your home where all of 
 
 - If possible, move other items out of this room such as toys, clothes, etc. , before vacuuming begins so they don't get dusty while doing their work! When complete with Vacuum Car
 
-## # Step 11: Wash Pet Bedding, Clothes, and Linens
+###  Step 11: Wash Pet Bedding, Clothes, and Linens
 
 Pets are wonderful companions and diligent housekeepers, but their fur isn't 100% convenient.
 
@@ -169,7 +169,7 @@ To clean pet bedding, clothes, and linens: *Step One * - Gather materials needed
 
 - Try to dry fabric in the sun when possible, and use a fan if it's not sunny outside! Sunlight helps kill bacteria on fabrics that may be left behind from washing them for too many days in a row.
 
-## # Step 12: Apply Borax For Fleas
+###  Step 12: Apply Borax For Fleas
 
 For fleas, Borax can be used in many ways. One way is to [sprinkle it around the yard](https: //pestpolicy. com/borax-flea-killer/) which will kill any adult fleas.
 
@@ -183,7 +183,7 @@ It is also toxic to fish and other aquatic life, so if you have a pond or are ne
 
 If used appropriately - Borax can be an excellent way of dealing with fleas on your property without harming the environment around you.
 
-# # Conclusion
+##  Conclusion
 
 On how to treat fleas in the yard; - Clear clutter, remove places throughout the yard under which fleas can hide and lay eggs, vacuum floors and furniture, use borax, evict wildlife (critters like squirrels), wash clothing and pet bedding, flea-treat pets, and let the sunshine in by doing tree pruning or removing low branches around play areas or patios.
 

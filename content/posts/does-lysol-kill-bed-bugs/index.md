@@ -19,13 +19,13 @@ Lysol is a disinfectant that kills germs, fungi, viruses, and bacteria [on diffe
 
 - So, Lysol is unlikely to kill bed bugs (contrast this toBleach/)), but an exterminator can provide a more thorough and effective solution such as heat treatment.
 
-# # What Kills Bed Bugs?
+##  What Kills Bed Bugs?
 
 Before we tackle the Lysolquestion, people typically use a number of chemicals when they're looking for a pesticide to kill bed bugs. To kill bed bugs fast, I recommend you use any one of the following: heat ( steamers ) or pesticides. - **Lysol will only********kill bed bugs if you spray and drown them directly with it. But ****bed bugs will ****escape contact with ****humans by hiding and thus spraying is challenging.
 
 ** - **Since ****Lysol is ****not an effective bed bug pesticide, I recommend using pyrethrin pesticides of your contact an exterminator to start a more robust pest removal program. **
 
-## # **Primary ****Pesticide ****ingredients? **
+###  **Primary ****Pesticide ****ingredients? **
 
 Most bed bug pesticides are [made of desiccants, pyrethroids, and pyrethrin](https: //www. epa. gov/bedbugs/pesticides-control-bed-bugs). 1. Desiccants such asbed bug powders, are designed to dehydrates and kill the bugs by[destroying their waxy exoskeleton](https: //www. epa. gov/bedbugs/pesticides-control-bed-bugs#pyrethrins). 2. Pyrethroids for bed bugs work are synthetic pyrethrin created from[**chrysanthemums**](https: //www. epa.
 
@@ -33,11 +33,11 @@ gov/bedbugs/pesticides-control-bed-bugs#pyrethrins).
 
 They're designed to chemically penetrate the waxy exoskeleton, dehydrates them, and[**damages their nervous system**](https: //www. sciencedirect. com/science/article/abs/pii/002073229500016X#: ~: text=Anatomy%20of%20the%20sensory%20organs, have%20rich%20complements%20of%20sensilla. ).
 
-# # What is Lysol Spray? Ingredients?Does Lysol Kill Bed Bugs?
+##  What is Lysol Spray? Ingredients?Does Lysol Kill Bed Bugs?
 
 Now that we've discussed what scientists typically recommend, let's explore if Lysol kills all bed bugs and their eggs.
 
-## # **Lysol's Ingredients **
+###  **Lysol's Ingredients **
 
 Lysol is a liquid cleaner for floors like concrete and wooden floors, in the bathroom, and also on couches. *Lysol is chemically 80% ethanol, but here are all its other ingredients: * 1. [*Benzalkonium chloride*](https: //www. quatchem. com/manufacturing-solutions/biocidal-raw-materials/benzalkonium-chloride)* (0. 01 - 5%)* 2. *'Free line Hydrogen peroxide* 3. Lactic Acid 4. Isopropyl Alcohol, a synthetic non-volatile solvent.
 
@@ -47,7 +47,7 @@ The ingredients in Lysol are sanitizing and disinfecting agents that'll kill ger
 
 ** Related: Can Ammonia Kill Bed Bugs?
 
-# # Does Lysol kill bed bugs eggs?
+##  Does Lysol kill bed bugs eggs?
 
 Short answer, NO! - Lysol won't kill bed bug eggs. Lysol may only drown the eggs as they have aprotective cover or exoskeleton, making it unreachable until they hatch to become pupae and larvae. The eggs will hatch in a few weeks and then adults will come out. They'll make more eggs, too.
 
@@ -57,7 +57,7 @@ There are many ways of killing bed bugs. One of the drawbacks for using Lysol to
 
 com/does-rubbing-alcohol-kill-bed-bugs/)?
 
-# # Any Risks in Using Lysol?
+##  Any Risks in Using Lysol?
 
 Lysol is a concentrated product that should never be used on sensitive surfaces like mattresses and pillows. However, it can be sprayed to drown bed bugs and their eggs with the proper precautions observed (i. e. , ventilation). - If you use only Lysol and not combined with other bed bug control methods, the eggs will hatch, become larvae, pupae, and adults. Lysol is flammable.
 
@@ -65,9 +65,9 @@ Be careful when spraying it near a flame, or while you are using it near a stove
 
 Ultimately, Lysol does not work effectively enough to exterminate bed bugs. - Additionally, remember that Lysol can harm certain floors and surfaces. Check the product label for instructions. Related: Boric for roaches
 
-# # **Alternative Method for Bed Bug Treatments **
+##  **Alternative Method for Bed Bug Treatments **
 
-## # **1. Heat Treatment **
+###  **1. Heat Treatment **
 
 Heat treatment provides a very long-term solution to bed bug infestations. It works by heating up the room and all objects in it, including any bugs or eggs that may be present. It requires heating the objects or spaces to over 118 degrees Fahrenheit for at least one hour. Heat treatments also require lots of energy as the room or objects must be heated to this temperature.
 
@@ -75,7 +75,7 @@ An important thing to remember is that heat treatments can't kill bed bugs in ha
 
 - The heat must be maintained for at least one hour, but could take several hours if not done correctly or a lot of furniture is present.
 
-## # **2. Diatomaceous Earth**
+###  **2. Diatomaceous Earth**
 
 [Diatomaceous earth](https: //pestpolicy. com/does-diatomaceous-earth-kill-bed-bugs/) will kill bed bugs by dehydrating them. It's a very cheap option, but can be ineffective if the infestation is severe because it doesn't kill eggs or nymphs. You'll need to buy diatomaceous earth in powder form and pour some onto any spots where you suspect that the pests may be hiding.
 
@@ -85,12 +85,12 @@ Use it like your bed bug prevention powder, but make sure to apply it around the
 
 - If your bed bug problem is severe, you can also use a steam clean machine to get rid of the pests. - Purchase the food-grade Diatomaceous Earth as its less hazardous to the environment.
 
-## # **3. Rubbing Alcohol **
+###  **3. Rubbing Alcohol **
 
 Rubbing Alcohol works like a [drying agent, desiccant, and solvent](https: //pestpolicy. com/does-rubbing-alcohol-kill-bed-bugs/); it'll repel bed bugs from their hiding places but its [**less effective**](https: //njaes. rutgers. edu/fs1251/). - Alcohol-based cleaners like 91% alcohol seem to repel bedbugs the best. - So, rubbing alcohol is an effective bed bug repellent and bug killer.
 
 It is recommended that you place a bottle or two of rubbing alcohol in each bedroom and spray your bed sheets with the same. Try to do this during the waking hours so you wont irritate sleeping family members. But rubbing alcohol could also stains your bedding, mattress, and furniture that is painted, varnished, or lacquered.
 
-# # Conclusion on; Can Lysol Kill Bed bugs?
+##  Conclusion on; Can Lysol Kill Bed bugs?
 
 It is not uncommon for homeowners to try Lysol to get rid of bed bugs, but the results have been mixed. - Some people report that it does work and some say that it doesn't as well as other household products. Extreme heat isn't good for eggs. It kills bedbug eggs, as it would kill any kind of egg at the same temperature. ..

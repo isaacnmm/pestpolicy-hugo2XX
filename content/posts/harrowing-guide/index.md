@@ -22,13 +22,13 @@ What is harrowing? **Harrowing is further preparation of a seedbed that comes af
 
 Harrows, on the other hand, refine the already plowed ground reducing the size of the soil particles leaving it aerated correctly in readiness for planting. **
 
-# # How To Do Harrowing (Land Preparation Guide)
+##  How To Do Harrowing (Land Preparation Guide)
 
 Tractor harrows and hard soil tillers come in different sizes and shapes, with the common ones having tines, discs, or chains. The evolution of the harrowing machines has seen the manually animal pulled machines replaced by tractor-pulled harrows.
 
 The leveling implements are usually robust and evenly spaced out. Dragging them implement leaves the topsoil refined and its recommended for use, especially on large scale farming.
 
-# # **What Is The Difference Between Harrowing And Tilling?**
+##  **What Is The Difference Between Harrowing And Tilling?**
 
 Many people, especially the inexperienced, will differentiate between plows and harrows when they see them. However, very few will tell you the difference in how they work as both works very closely. Tractors and other ATVs drag both, but they work differently in [seedbed preparation - tillers](https: //pestpolicy. com/best-tiller-for-raised-beds/).
 
@@ -38,7 +38,7 @@ Further, the levelers elevate the unbreakable sods to the soil surface.
 
 It is easier for the sods to disintegrate on their own this way.
 
-# # Why Harrow? - Reasons for Harrowing
+##  Why Harrow? - Reasons for Harrowing
 
 Harrowing does more to the soil than reducing the size of soil particles, making it an essential process before seeding. The benefits include: **1. Removing Weeds from the Ground** After plowing, some grasses may get attached to the soil clamps. Harrows help remove the weeds by bringing them on the soil surface, making it easy for seeding. You can also manually collect the weed stumps leaving the seedbed ready for planting. **2.
 
@@ -54,7 +54,7 @@ It is essential for you to properly prepare your seedbed by harrowing as it is b
 
 Further, it is easier for seedlings to spread their roots in plowed soil as the soil is soft to them.
 
-# # **What Should You Consider When Buying a Tractor?**
+##  **What Should You Consider When Buying a Tractor?**
 
 As a landscaper or a farmer, you want to get the best harrow implement that will serve you for years and in the process of achieving your desired objectives. We have come up with a list of researched considerations that will guide you to make the right decision before purchasing a harrowing tool.
 
@@ -88,7 +88,7 @@ Cleaning the tool is crucial to maintain the blade sharpness.
 
 Cleaning harrows keeps the rust away, consequently increasing its durability. Use a hard brush to remove soil particles. Next, use a soapy piece of clothing to clean it further to maintain its shine. When it comes to repairing, its effortless to replace the harrow parts as they are readily available in online stores.
 
-# # **Conclusion**
+##  **Conclusion**
 
 Buying an expensive farming implement is never easy. Buying a harrowing implement wont be easy either. However, now that you have all the information that you need concerning a harrow. However, take care of [hallowing safety to avoid unnecessary injuries](https: //vtechworks. lib. vt. edu/bitstream/handle/10919/56823/BSE-50NP. pdf? sequence=1).
 
