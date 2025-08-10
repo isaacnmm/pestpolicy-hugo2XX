@@ -36,7 +36,6 @@ Pros: - Manufactured in natural selectable colors - It s ideal d in natural sele
 
 Cons: - There are complain of over-saturation in heavy rain areas. - Its not suitable for commercial stain application.
 
-> See Also: > Deck Stain for Pressure Treated Wood
 
 ###  [2. DEFY Extreme 1 Gallon Semi-Transparent Exterior Wood Stain](https://www.amazon.com/dp/B0061OIK4M/?tag=p-policy-20)
 
@@ -54,7 +53,6 @@ Unlike other water-based deck paints, Defy Extreme wont irritate your nasal cavi
 
 Cons: - It may be more shinny, transparent on some wood deck. - Not suitable for small area application
 
-> See Also: > Painting Vs Staining Deck
 
 ###  [3. THOMPSONS WATERSEAL TH.042851-16 Semi-Transparent Stain](https://www.amazon.com/dp/B00KIZXYCI/?tag=p-policy-20)
 
@@ -70,7 +68,6 @@ The stain is water and dirt resistant, thus making your cleaning activities more
 
 Cons: - Not suitable for metallic or composite surfaces - May be slippery on highly polished wood.
 
-> See Also: > Belt Sander for Deck
 
 ###  [4. Cabot 140.0017417.007 Semi-Solid Deck Exterior Stain](https://www.amazon.com/dp/B007ZIEENY/?tag=p-policy-20)
 
@@ -88,7 +85,6 @@ Notably, Cabot is vapor-resistant and works incredibly in a humid environment wi
 
 Cons: - Not suitable for meta-surfaces and ceramic deck - Requires double coat layers for rough wooden deck
 
-> See Also: > Paint Wood Texture with Acrylics
 
 ###  [5. Ready Seal 512 5-Gallon Pail Natural Cedar Exterior Stain](https://www.amazon.com/dp/B00MDVLOBS/?tag=p-policy-20)
 
@@ -102,7 +98,6 @@ Pros: - Comes in a large container which covers a wide area - It is a highly pen
 
 Cons: - Maybe slightly expensive as compared to other stains - Comes in limited selectable colors - Not for small deck painting
 
-> See Also: > Paints for Kitchen Cabinets
 
 ###  [6. Minwax Wood Stain Finish](https://www.amazon.com/dp/B0772B14ZT/?tag=p-policy-20)
 
@@ -120,7 +115,6 @@ Pros: - It is budget-friendly and environmentally friendly. - Does not irritate 
 
 Cons: - May not cover extensive areas. - Do not have a handle for transportation. - A bit challenging to remove when dry
 
-> See Also: > Sanding Between Deck Boards
 
 ###  [7. Roxil Wood Protection Stain](https://www.amazon.com/dp/B081K32XJF/?tag=p-policy-20)
 
@@ -136,7 +130,6 @@ Pros: - Comes in a large container that covers a wide area - Wont irritate your 
 
 Cons: - Maybe slightly expensive - Not for small scale deck painting - Unsuitable for metal and ceramic deck materials
 
-> See Also: > [Deck Cleaner for Trex](https://pestpolicy.com/best-deck-cleaner-for-trex/)
 
 ##  Conclusion
 

@@ -38,7 +38,6 @@ This stage is crucial since its geared toward eliminating the peels and chips fr
 
 Follow the steps below: - Put on theprotective gear - goggles, dustcoat, respirator, gloves, face mask, and safety boots - Set the ladder in such a way you can access the ceiling without straining consider a stand-alone type of ladder - Lay tack cloth, plastic sheet, or polyethylene paper on the floor to prevent it from straining during the restoration - Using the paint scraper, remove peels gently from the ceiling you can use a wire brush for solid paint peels - Using the putty knife and a filler, seal the holes, cracks, and opening on the ceiling and leave it to cure for 10 minutes - Sand the ceiling gently with rough grain sandpaper and polish with fine-grain sandpaper to remove paint traces - Blow/wipe of dust from the surface using ashop vacuumor a piece of cloth The ceiling should be left dry - any wetness should be dried out (use a heat gun) before priming begins.
 
-> See Also: > Paint Sprayer for Ceiling
 
 ###  c. Priming
 
@@ -116,7 +115,6 @@ By choosing to read this article on how to fix peeling paint on the ceiling, I b
 
 You can prevent the peeling of ceiling paint through the following ways: - Selecting the right type of paint for interior ceiling - Avoiding painting too many paint layers on the ceiling - Not using old paint for ceiling painting - Selecting a primer that is compatible with the finish paint - Sticking to one particular type of paint during paint reinforcement - Dusting the surface perfectly before paint application - Keeping ceiling free from the humid condition keep it dry always - Carrying out proper surface preparation and debris removal - Protecting the painted ceiling from exposure to corrosive substances - Eliminating moisture from the painted ceiling - Avoiding very high temperatures in the room - Choosing a paint thats compatible with the primary material of the ceiling - Using the correct paint application method - Usinghigh-quality interior paint - Allowing suitable time between coats when painting the ceiling NB: Preventive measures are vital in improving the service life of particular ceiling paint and maintaining an attractive initial coat all through without unnecessary peeling occurrence.
 
-> See Also: > [Deck Stain for Pressure Treated Wood](https://pestpolicy.com/best-deck-stain-for-pressure-treated-wood/)
 
 ##  Precautions to Consider When Fixing Peeling Ceiling Paint
 

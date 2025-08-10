@@ -53,7 +53,6 @@ You can prime the metallic piece using any oil- or water-based primer such as Ru
 
 The oil-based primers + zinc reaction may only make paint peeling.
 
-> See Also: > [Prevent Chipping on Spray-Paint metal](https://pestpolicy.com/how-to-keep-spray-paint-from-chipping-off-metal/)
 
 ##  Conclusion
 

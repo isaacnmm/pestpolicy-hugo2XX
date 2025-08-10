@@ -28,7 +28,6 @@ Rustoleum Rust Reformer will reduce the effort, time, and cost - and you also wo
 
 Rustoleum won't damage the metal surfaces - but will on the contrary make your tools better. You'll touch-up or even [paint the metal surfaces](https://pestpolicy.com/can-you-paint-over-rust/)easily - it'll be intact and safe. The product will give a great primer layer on your metal tools, machinery, and equipment - and this will help reduce corrosion while also enhancing durability. of your metal.
 
-> See Also: > [Rustoleum galvanized metal primer](https://pestpolicy.com/rustoleum-galvanized-metal-primer/)
 
 ###  3. Metal Surface Restoration
 

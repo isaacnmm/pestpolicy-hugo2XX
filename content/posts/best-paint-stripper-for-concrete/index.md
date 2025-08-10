@@ -32,7 +32,6 @@ For those tough paints architectural and industrial paints, this gel will do suc
 
 Cons: - Not suitable or large projects - Not preferred for exterior projects
 
-> See Also: > Paint for a Concrete Driveway
 
 ###  [2. Bates- Paint Scraper, Paint Remover](https://www.amazon.com/dp/B071XDP685/?tag=p-policy-20)
 
@@ -46,7 +45,6 @@ Pros: - Multi-task - Designed to be rust-proof - Produces a professional finish 
 
 Cons: - Not good for large projects
 
-> See Also: > Removing Acrylic Paint from Concrete
 
 ###  [3. DEWALT Grinding Wheel, Diamond Cup (DW4774)](https://www.amazon.com/dp/B003XXE0RA/?tag=p-policy-20)
 
@@ -58,7 +56,6 @@ Consequently, you can use it for both interior and exterior concrete with a bett
 
 Cons: - Does not work on all paints - Its risky
 
-> See Also: > Painting Can Be Used on Concrete?
 
 ###  [4. Dumond Chemicals, Inc. Advanced Paint Remover, 1 Quart](https://www.amazon.com/dp/B08PC7WYD6/?tag=p-policy-20)
 
@@ -72,7 +69,6 @@ The neutral compound can also work on almost all surfaces with zero VOC emission
 
 Cons: - Takes 3-24 hours to be effective
 
-> See Also: > Removing Spray Paint from Concrete
 
 ###  [5. MAX Strip Paint and Varnish Stripper, 1 Qt](https://www.amazon.com/dp/B07WNKGK69/?tag=p-policy-20)
 
@@ -86,7 +82,6 @@ It is equally easy to use and with just water, you can clean up the surface. It 
 
 Cons: - Not suitable for old paints
 
-> See Also: > Removing Paint from Concrete without Chemicals
 
 ###  [6. Paint Stripper, Gallon](https://www.amazon.com/dp/B07PPK8YK5/?tag=p-policy-20)
 
@@ -100,7 +95,6 @@ Pros: - Fast in action - Can be used on all paints - Works on multiple surfaces 
 
 Cons: - It is highly flammable - Irritates the skin
 
-> See Also: > Removing Latex Paint from Concrete
 
 ###  [7. Sunnyside ADVANCED Paint and Varnish Remover, Quart](https://www.amazon.com/dp/B07JYT8LJC/?tag=p-policy-20)
 
@@ -114,7 +108,6 @@ You can use it on both exterior and interior surfaces regardless of whether the 
 
 Cons: - No even coverage when spraying
 
-> See Also: > [Removing Paint From Concrete](https://pestpolicy.com/remove-paint-from-concrete/)
 
 ##  Conclusion
 

@@ -76,7 +76,6 @@ Pros: - Shields wooden and fiberglass boats in fresh and salty water - It is wat
 
 Cons: - May be pricey for an average spender.
 
-> See Also: > Painting an Aluminum Boat
 
 ###  [5. Interlux YBB379/1 Fiberglass Bottomkote NT](https://www.amazon.com/dp/B0053HQPZY/?tag=p-policy-20)
 
@@ -90,7 +89,6 @@ You wont go wrong choosing this paint because it works quite well for those look
 
 Cons: - May not be as glossy as advertised
 
-> See Also: > Sprayer for Walls and Ceilings
 
 ###  [6. TotalBoat Wet Edge Topside Paint](https://www.amazon.com/dp/B019LYRVBG/?tag=p-policy-20)
 

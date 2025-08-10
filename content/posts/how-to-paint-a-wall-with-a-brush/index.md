@@ -98,7 +98,6 @@ Select a paintbrush according to the nature of the wall surface you are painting
 
 Never overload a paintbrush when painting it created drains/runs on the wall surface. 7. Avoid touching the paintbrush with your hand directly when cleaning paint may contain chemical compound, which irritate the skin upon contact. Use gloves. 8. Paint that remains during wall painting should be kept away from kids and pets. Avoid smelling paintbrush thinner directly it contains a chemical that may irritate your nasal cavity if inhaled.
 
-> See Also: > Airless Paint Sprayer Under 500
 
 ##  Conclusion
 

@@ -38,7 +38,6 @@ The paint is packed in a classic container that is highly portable (comes with c
 
 Cons: - Not best for Commercially interior walls like theatre - May need more coats for rough surfaces.
 
-> See Also: > Removing the Paint From Concrete
 
 ###  [2. Drylok 28613 Extreme Latex Masonry Waterproofer Interior paint](https://www.amazon.com/dp/B0014AZ3ES/?tag=p-policy-20)
 
@@ -68,7 +67,6 @@ Pros: - Anti-microbial and mold-resistant - Budget-friendly and fast-drying - Lo
 
 Cons: - Drips if not well diluted - Requires a few coatings for rough walls
 
-> See Also: > Removing Paint from Porcelain Tub
 
 ###  [4. BENJAMIN MOORE Quart Interior Semi-Gloss paint](https://www.amazon.com/dp/B0787BYQYJ/?tag=p-policy-20)
 

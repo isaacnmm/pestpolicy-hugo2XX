@@ -112,7 +112,6 @@ Wrong spray pattern selection causes surface paint overspray due to excess paint
 
 Its wise to consider adjustable spray patterns as it minimizes overspray and eliminates frequent removal when spraying no pausing.
 
-> See Also: > Airless Paint Sprayer for DIY
 
 ##  Precautions to Consider when Spraying
 

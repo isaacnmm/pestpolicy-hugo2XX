@@ -20,7 +20,6 @@ Well, for their convenience and speed, spray guns are great tools for use in any
 
 - What types of paint are oil-based?
 
-> See Also: > Sprayer for Interior Walls
 
 ##  What is oil-based paint?
 
@@ -52,7 +51,6 @@ After emptying the thinner into the paint, use the recommended stick to mix them
 
 This stage is important because it helps evaluate and tell whether the results are in tandem with your expectations. First, drain the mixed paint down a funnel. If it runs smoothly, then you are good to go. However, if it is too thick, then you may have to add the thinning solution. On the contrary, if you had you added in an excess amount of thinner, you will have to add more paint, a little at the moment, as you stir to stabilize.
 
-> See Also: > Cordless Paint Sprayers
 
 ###  Step 6: Lower the paint bucket in warm water
 

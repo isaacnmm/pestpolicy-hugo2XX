@@ -32,7 +32,6 @@ Pros: - Non-spatter design - Wide coverage - Easy to wash
 
 Cons: - Hard to spread.
 
-> See Also: > Mildew Resistant Paints
 
 ###  [2. Rust-Oleum, 253536 Metallic Accents Paint](https://www.amazon.com/dp/B003EELMYM/?tag=p-policy-20)
 
@@ -46,7 +45,6 @@ You can best achieve its application through spraying. The good thing about this
 
 Cons: - Its costly
 
-> See Also: > Walk Behind Concrete Grinder
 
 ###  [3. Homax, Smooth Decorative Ceiling Paint](https://www.amazon.com/dp/B07FZ6M4RW/?tag=p-policy-20)
 
@@ -60,7 +58,6 @@ Its effect on the environment is controlled with its minimal VOC emissions makin
 
 Cons: - Not good for flat surface
 
-> See Also: > Here's how to bind your chalky siding
 
 ###  [4. Glidden Interior Latex Ceiling Paint](https://www.amazon.com/dp/B075F8FSJ8/?tag=p-policy-20)
 
@@ -72,7 +69,6 @@ This is to means, you can perfectly do your painting on the ceiling or wall with
 
 Cons: - Not a quick spreader
 
-> See Also: > Airless Paint Sprayer Under 300
 
 ###  [5. Prestige Paint & Primer, 1 Gallon](https://www.amazon.com/dp/B0102ZB9K2/?tag=p-policy-20)
 
@@ -86,7 +82,6 @@ Pros: - Fewer VOC emissions - Low odor - 100 % latex formulation - Best for use 
 
 Cons: - Not suitable for outdoors
 
-> See Also: > Airless Paint Sprayer Cleaning Solution
 
 ###  [6. Benjamin Moore Premium Ceiling Paint](https://www.amazon.com/dp/B005G56KGC/?tag=p-policy-20)
 
@@ -100,7 +95,6 @@ Being non-selective, you can apply this paint on both new and previously-painted
 
 Cons: - Its costly
 
-> See Also: > [Acrylic Paint for Pouring](https://pestpolicy.com/best-acrylic-paint-for-pouring/)
 
 ###  [7. Montage Signature Ceiling Paint](https://www.amazon.com/dp/B076BTDF1Y/?tag=p-policy-20)
 
@@ -112,7 +106,6 @@ Mildews and molds and moisture stains are well-taken care of with the advanced s
 
 Cons: - Applications need several coats
 
-> See Also: > Airless Paint Sprayer Under 500
 
 ##  Conclusion
 

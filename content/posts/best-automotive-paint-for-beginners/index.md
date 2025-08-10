@@ -31,7 +31,6 @@ Pros: - It is fast drying - Resistant to tough environment - Easy application - 
 
 Cons: - Expensive
 
-> See Also: > [Automotive Paint Gun for Beginners](https://pestpolicy.com/best-automotive-paint-gun-for-beginners/)
 
 ###  [2. Dupli-Color Automotive Paint (BCL0125)](https://www.amazon.com/dp/B00407NK6A/?tag=p-policy-20)
 
@@ -43,7 +42,6 @@ Additionally, it will match all kinds of paint that had previously been applied 
 
 Cons: - Need a little check on consistency
 
-> See Also: > Automotive Paint for the Money
 
 ###  [3. RUST BULLET Automotive Paint](https://www.amazon.com/dp/B0002P3IJ8/?tag=p-policy-20)
 
@@ -67,7 +65,6 @@ With just one coat, this compound has the capacity to restore even below the sur
 
 Cons: - Some people have complained at its effectiveness
 
-> See Also: > Wheel Paint for Aluminum
 
 ###  [5. Performix Multi-Purpose Aerosol (11203) - 11 oz.](https://www.amazon.com/dp/B00E975MPI/?tag=p-policy-20)
 
@@ -91,7 +88,6 @@ This paint is also standing to be the best on the exterior parts of your vehicle
 
 Cons: - Requires thinning
 
-> See Also: > Folding Ladders for Painters
 
 ###  [7. Rust-Oleum Automotive Spray (251574), 11-Ounce Matte](https://www.amazon.com/dp/B005H5P5C6/?tag=p-policy-20)
 
@@ -105,7 +101,6 @@ Pros: - Angle spray technology - Quick drying - Suitable for restoring automotiv
 
 Cons: - The paint is too thick
 
-> See Also: > [Baby Safe Paint for Crib](https://pestpolicy.com/best-baby-safe-paint-for-crib/)
 
 ##  **Conclusion **
 

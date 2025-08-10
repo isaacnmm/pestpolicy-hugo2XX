@@ -34,7 +34,6 @@ Pros: - Suitable for staining pressure-treated pine, redwood, fir, cedar - The s
 
 Cons: - Not suitable for softwood
 
-> See Also: > What's the Best Sprayer for Latex Paint?
 
 ###  **2. DEFY Extreme Wood Stain (Semi-Transparent) Exterior Stain**
 
@@ -50,7 +49,6 @@ Pros: - No massive preparation required - no sanding or stripping. - It is a wat
 
 Cons: - Might look dark
 
-> See Also: > How to Stain a Deck for the First Time
 
 ###  **3. Restore-A-Deck Old Wood Stain Siding, Fences, Decks**
 
@@ -66,7 +64,6 @@ Pros: - Eco-friendly wood stain - Variety of naturally feeling colors - Excellen
 
 Cons: - None
 
-> See Also: > Semi-Transparent Deck Stain
 
 ###  **4. KILZ L832211 Exterior Wood Stain - Water-proofing, Redwood**
 

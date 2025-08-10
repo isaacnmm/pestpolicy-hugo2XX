@@ -36,7 +36,6 @@ Pros: - Offers a stationary base - Sprays effectively with various materials - F
 
 Cons: - None
 
-> See Also: > Deck Stain for Pressure Treated Wood
 
 ###  [2. HomeRight C800971 Door-Painting Sprayer for DIY PROJECTS](https://www.amazon.com/dp/B071X9FZ7R/?tag=p-policy-20)
 
@@ -66,7 +65,6 @@ Pros: - Comes with a powerful motor - FlexLiner bags included - Versatile HVLP p
 
 Cons: - Lacks the viscosity cup - Unsuitable inpainting the ceiling
 
-> See Also: > Deck Sealer for Pressure Treated Wood
 
 ###  [4. Graco-Magnum 262800-X5 Airless Door Paint Sprayer](https://www.amazon.com/dp/B00ZLIV55A/?tag=p-policy-20)
 

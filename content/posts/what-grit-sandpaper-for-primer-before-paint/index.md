@@ -64,7 +64,6 @@ Sandpaper Grit Size Work or area of use Extra Coarse 12 - 36 Hardwood sanding Fl
 
 ).
 
-> See Also: > Primer for Oak Cabinets ed
 
 ##  What Grit Sand Paper is Best for Paint Preparation?
 
@@ -98,7 +97,6 @@ The General Woodwork sanding process is best carried out by using medium grit sa
 
 For finer details, you need to polish the sanded surface with a fine-grit sandpaper (80-120grit) before repainting the wood surface.
 
-> See Also: > [Primer for Kitchen Cabinets](https://pestpolicy.com/best-primer-for-kitchen-cabinets/)
 
 ##  Conclusion
 

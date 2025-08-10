@@ -42,7 +42,6 @@ However, when misapplied, the sealer may leave some yellow tint on the furniture
 
 Cons: - May leave yellow tint if applied wrongly. - Slippery when starting
 
-> See Also: > Does Alcohol Remove Paint?
 
 ###  [2. Rust-Oleum 01901 Wood Sealer Copper-coat Wood Stain & Preservative - #2 Pick](https://www.amazon.com/dp/B074QVGP2G/?tag=p-policy-20)
 

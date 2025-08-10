@@ -36,7 +36,6 @@ Pros: - It is simple to assemble and disassemble - Comes with an impressive patt
 
 Cons: - May be slightly heavy for some users - Slightly expensive - No base wheels for pull motion
 
-> See Also: > WAGNER FLEXIO 3000
 
 ###  [2. Graco Magnum 262805 X7 Cart Airless Paint Sprayer](https://www.amazon.com/dp/B0026SSW8G/?tag=p-policy-20)
 
@@ -54,7 +53,6 @@ Pros: - It is highly portable has solid wheels - Durable and rust-resistant made
 
 Cons: - A bit pricey - Wheels not pneumatic - Unsuitable for the small painting task
 
-> See Also: > Ceiling Paint vs Wall Paint
 
 ###  [3. Wagner Spraytech Handheld HVLP Paint Sprayer](https://www.amazon.com/dp/B00FBP4QT0/?tag=p-policy-20)
 
@@ -72,7 +70,6 @@ The device is great is used for cut-in corners and with a telescopic ladder. Pro
 
 Cons: - Unsuitable for commercial spray painting - May clog nozzle if the paint is not well thinned
 
-> See Also: > [Turbine paint sprayer](https://pestpolicy.com/best-turbine-paint-sprayer/)
 
 ###  [4. Graco 16Y385 TrueCoat 360 Paint Sprayer](https://www.amazon.com/dp/B00NHXEOCW/?tag=p-policy-20)
 
@@ -94,7 +91,6 @@ Pros: - Classic handheld design and impressive outlook - great forstaining or pr
 
 Cons: - May clog if the paint isnt well prepared - The canister could be larger - The cord should be longer
 
-> See Also: > Paint roller for ceilings
 
 ###  [5. HomeRight C800971 Paint Sprayer](https://www.amazon.com/dp/B071X9FZ7R/?tag=p-policy-20)
 
@@ -110,7 +106,6 @@ Pros: - Its simple to set up and remove - Comes with six impressive spray patter
 
 Cons: - The power cord could be longer - It may take a long to clean thinned paint - Not for commercial use
 
-> See Also: > Quality Paint Strippers
 
 ###  [6. Paint Sprayer, NEU MASTER 600 Watt](https://www.amazon.com/dp/B07G2V6X2D/?tag=p-policy-20)
 

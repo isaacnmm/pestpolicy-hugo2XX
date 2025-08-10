@@ -32,7 +32,6 @@ Pros: - Environmental friendly - UV light resistant - Deep penetrating - Durable
 
 Cons: - None found
 
-> See Also: > Staining Deck for the First Time
 
 ###  [2. General Finishes Gel Oil-Base Stain - Flat Out Flat and Gel Topcoat](https://www.amazon.com/dp/B001DT5D2M/?tag=p-policy-20)
 
@@ -46,7 +45,6 @@ You will not have to get worried over the variety of colors since general finish
 
 Cons: - None found
 
-> See Also: > Removing Oil Stains from Wall [Paint? ](https://pestpolicy.com/how-to-remove-oil-stains-from-wall-paint/)
 
 ###  [3. Minwax-63483000 [Stain](https://pestpolicy.com/best-stain-for-pine/)Wood Finish Marker - Fast drying and Easy touch-up](https://www.amazon.com/dp/B0000DI7ZH/?tag=p-policy-20)
 
@@ -60,7 +58,6 @@ Pros: - Great quality - Deep cover - Suitable for small surfaces - Good for ligh
 
 Cons: - Not suitable for deep scratches - Can not be used on big wooden surfaces
 
-> See Also: > Staining your Pressure Treated Wood
 
 ###  [4. Rust-Oleum 211723H, Oil-Base Stain](https://www.amazon.com/dp/B000C017NW/?tag=p-policy-20)
 
@@ -82,7 +79,6 @@ Though this stain cannot protect your wood against UV light and harsh weather, i
 
 Cons: - Cannot be used on exterior surfaces
 
-> See Also: > Semi-Transparent Deck Stain
 
 ###  [6. Minwax-70009444 Wood Penetrating Finish Stain](https://www.amazon.com/dp/B000BZX5M4/?tag=p-policy-20)
 
@@ -106,7 +102,6 @@ Pros: - Wider coverage - Durable - Suitable for vertical surfaces - Thick consis
 
 Cons: - None found
 
-> See Also: > [Stain for Redwood Fence](https://pestpolicy.com/best-stain-for-redwood-fence/)
 
 ##  Conclusion
 

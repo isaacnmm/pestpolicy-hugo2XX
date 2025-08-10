@@ -72,7 +72,6 @@ Dont overload paintbrush (create drains) or apply double coat before drying has 
 
 A wide paintbrush should be used on flat surfaces with a narrow paintbrush should be considered when cutting corners and eliminating edges that are not fully painted.
 
-> See Also: > Wooden Deck Sealer
 
 ###  g. Final Finish
 

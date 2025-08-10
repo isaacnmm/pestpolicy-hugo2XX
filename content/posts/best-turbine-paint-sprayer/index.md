@@ -32,7 +32,6 @@ long hose pipe - 2- Stage 1200W turbine - Sprays all kinds of paints - It is Por
 
 Cons: - The sprayer is noisy
 
-> See Also: > Staining your Pressure Treated Wood
 
 ###  [2. Wagner Spraytech 0518080 HVLP Sprayer](https://www.amazon.com/dp/B003PGQI48/?tag=p-policy-20)
 
@@ -44,7 +43,6 @@ Pros: - It is portable and lightweight - It is durable - Easy to achieve all the
 
 Cons: - Hose is too short for big projects
 
-> See Also: > [Paint Sprayer Under 200](https://pestpolicy.com/best-paint-sprayer-under-200/)
 
 ###  [3. HomeRight C800766 Sprayer](https://www.amazon.com/dp/B003VKFDEO/?tag=p-policy-20)
 
@@ -70,7 +68,6 @@ Other added accessories include a cleaners brush and a viscosity cap which serve
 
 Cons: - It is expensive
 
-> See Also: > Airless Paint Sprayer Under 300
 
 ###  [5. Wagner Spraytech-0529031 Paint Sprayer](https://www.amazon.com/dp/B0119LRYQG/?tag=p-policy-20)
 
@@ -96,7 +93,6 @@ Pros: - Powerful 4-stage turbine - Can spray materials of any density - Has a he
 
 Cons: - Its quite costly
 
-> See Also: > Deck Staining the Pressure Treated Wood
 
 ###  [7. Earlex-HV5500 HVLP Paint Sprayer](https://www.amazon.com/dp/B004RGOKR2/?tag=p-policy-20)
 

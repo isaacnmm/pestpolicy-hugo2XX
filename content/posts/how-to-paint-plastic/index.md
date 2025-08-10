@@ -112,7 +112,6 @@ If possible, usea paint sprayerwhen painting your plastic items in order to atta
 
 For safety purposes, always wear protective gear when painting plastic and stick to precautions highlighted in this article.
 
-> See Also: > [Using An HVLP Paint Sprayer](https://pestpolicy.com/how-to-use-an-hvlp-paint-sprayer/)
 
 ##  Conclusion
 

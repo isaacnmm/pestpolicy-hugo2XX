@@ -50,7 +50,6 @@ Pros: - Multi-purpose - thus one of the[top drywall primers](https://pestpolicy.
 
 Cons: - Reacts with fabric and concrete
 
-> See Also: > Will Vinegar Remove Paint?
 
 ###  [3. TotalBoat Rust Primer Converter, Professional Repairs](https://www.amazon.com/dp/B013F9SLQM/?tag=p-policy-20)
 
@@ -64,7 +63,6 @@ Pros: - Can be used on multiple surfaces - Can be stored and reused - Restores s
 
 Cons: - Has odor - Leaves marks after application that needs cleaning.
 
-> See Also: > Mildew Resistant Paints
 
 ###  [4. Rust-Oleum 7769502 with Protective Enamel Primer](https://www.amazon.com/dp/B000SA8OGY/?tag=p-policy-20)
 
@@ -80,7 +78,6 @@ Pros: - Has excellent consistency - Creates a good surface for painting - Strong
 
 Cons: - Takes time to dry
 
-> See Also: > Removing Paint from Metal Door
 
 ###  [5. Krylon K06903300 Rust Protector Primer](https://www.amazon.com/dp/B008BMP1J4/?tag=p-policy-20)
 
@@ -108,7 +105,6 @@ Pros: - Acts as a paint and a primer - Gives you a glossy, semi-glossy, or matte
 
 Cons: - Need to apply many coats
 
-> See Also: > Painting over primed surface >?
 
 ###  [7. Eastwood Rust Converter, One Quart](https://www.amazon.com/dp/B07PPPPKGM/?tag=p-policy-20)
 
@@ -122,7 +118,6 @@ Pros: - No sanding is required - Good rust neutralizer - Has faster penetration 
 
 Cons: - Costly
 
-> See Also: > Painting your Metal Building
 
 ##  Conclusion
 

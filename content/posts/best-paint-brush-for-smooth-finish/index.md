@@ -36,7 +36,6 @@ Pros: - Firm SRT filaments and heavy-duty construction - Comfortable handle desi
 
 Cons: - Small handle size - Not suitable for very thick paint
 
-> See Also: > Turbine Paint Sprayer
 
 ###  [2. Bates Paint Brushes Stain Brush, Trim Paint Brush, Professional Brush Set](https://www.amazon.com/dp/B07FW83JCJ/?tag=p-policy-20)
 
@@ -52,7 +51,6 @@ On economic painting, with a quality wall paintbrush, it is possible to finish y
 
 Cons: - Unsuitable for round corner painting - Has small brush handle
 
-> See Also: > Swing Set Stains
 
 ###  [3. KINJOEK Paint Brush Fence Edge Door, Acrylics Cabinet Deck, DIY Paint Stains](https://www.amazon.com/dp/B07QRGJKPB/?tag=p-policy-20)
 
@@ -120,7 +118,6 @@ The ferrule is stainless steel and lightweight - and thus it's [rust-resistant](
 
 Cons: - No adjustable handle small - Bristle length could be more - Has minimal flexibility
 
-> See Also: > [Paint Brushes for Watercolor](https://pestpolicy.com/best-paint-brushes-for-watercolor/)
 
 ##  Conclusion
 

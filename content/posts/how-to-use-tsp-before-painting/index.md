@@ -29,7 +29,6 @@ You'll mix the TSP powder with some warm water (in a larger bucket) and use it t
 
 For safety purposes, wear protective goggles and rubber gloves when working with the TSP cleaner. You'll require to dip some sponge into your TSP cleaner to wipe down your walls.
 
-> See Also: > Belt Sander for Deck
 
 ###  Step 2: Workstation or Area Prepping
 

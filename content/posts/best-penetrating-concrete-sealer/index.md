@@ -36,7 +36,6 @@ Pros: - It's durable for up to 10 years. - Breathable silane-siloxane - Five tim
 
 Cons: - Expensive
 
-> See Also: > Suitable Paint for Concrete?
 
 ###  [2. 5 GAL Armor AR350 Solvent Based Acrylic Wet Look Concrete Sealer](https://www.amazon.com/dp/B00N9FEI4C/?tag=p-policy-20)
 
@@ -50,7 +49,6 @@ The sealer can be used on an unsealed surface or reapplied to surfaces previousl
 
 Cons: - Slippery when applied without non-skid additive
 
-> See Also: > Process of removing Paint From Concrete
 
 ###  [3. Siliconate-PS101 Multi-Surface Concrete Sealer](https://www.amazon.com/dp/B00CZFBQME/?tag=p-policy-20)
 
@@ -76,7 +74,6 @@ It should not rain for the next 24 hours to achieve the desired results. When ap
 
 Cons: - None found
 
-> See Also: > Walk-Behind Concrete Grinder
 
 ###  [5. Miracle Sealants 511 Penetrating Sealer-Porous Plus](https://www.amazon.com/dp/B000VX97SM/?tag=p-policy-20)
 
@@ -88,7 +85,6 @@ Miracle 511 can be used in food preparation areas and is resistant to harsh weat
 
 Cons: - Expensive
 
-> See Also: > Suitable Granite Sealer
 
 ###  [6. EnduraSeal 100% Solvent-Based Acrylic Concrete Sealer -Semi-Gloss and Wet look](https://www.amazon.com/dp/B00494T3AG/?tag=p-policy-20)
 
@@ -102,7 +98,6 @@ It is durable, giving at least two years of protection on your surface if not ex
 
 Cons: - Has odor
 
-> See Also: > Degreaser for Concrete
 
 ###  [7. ToughCrete Acrylic-siloxane Concrete Sealer](https://www.amazon.com/dp/B01LTAREFI/?tag=p-policy-20)
 
@@ -116,7 +111,6 @@ Pros: - Does not darken the surface - Durable up to 10 years - Penetrates even t
 
 Cons: - None found
 
-> See Also: > Drywall Primer Sealer
 
 ##  Conclusion
 

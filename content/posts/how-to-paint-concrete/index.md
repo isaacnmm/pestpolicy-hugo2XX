@@ -49,7 +49,6 @@ Surface cleaning or preparation entails several steps as highlighted below: - Pu
 
 - Finally, rinse the concrete surface with warm water and a piece of cloth until its dry.
 
-> See Also: > Paint for Concrete Pool Deck
 
 ###  d. Sealing/Filling Damaged Section
 

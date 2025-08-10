@@ -32,7 +32,6 @@ As a primer, you need to understand that rust-oleum does an excellent job in cre
 
 Cons: - Has a strong odor
 
-> See Also: > Paint for Wrought Iron Railings
 
 ###  [2. KILZ 2 Multi-Surface Stain Blocking Primer/ Sealer, White](https://www.amazon.com/dp/B0013FE5R0/?tag=p-policy-20)
 
@@ -48,7 +47,6 @@ Pros: - Great adhesion - Its fast-drying - Has stain-blocking ability - Hides im
 
 Cons: - Its not easy to clean-up
 
-> See Also: > Ceiling Paint versus Wall Paint
 
 ###  [3. KILZ Premium High-Hide Stain Blocking Primer/Sealer, 1-gallon](https://www.amazon.com/dp/B0002YOZZU/?tag=p-policy-20)
 
@@ -62,7 +60,6 @@ It has excellent color and great coverage with one gallon covering approximately
 
 Cons: - More than one coat needed
 
-> See Also: > Self Etching Primer vs Regular Primer
 
 ###  [4. Rust-Oleum 01501 Drywall Primer, White](https://www.amazon.com/dp/B001ARJLOS/?tag=p-policy-20)
 
@@ -76,7 +73,6 @@ Just in case of a spillage or drip, the paint is easy to clean-up with soap and 
 
 Cons: - Some issues with packaging
 
-> See Also: > [Bonding Primer for Kitchen Cabinets](https://pestpolicy.com/best-bonding-primer-for-kitchen-cabinets/)
 
 ###  [5. KILZ Restoration Primer/Sealer, White, 1-gallon](https://www.amazon.com/dp/B007XH9PKO/?tag=p-policy-20)
 
@@ -90,7 +86,6 @@ The good coverage of this primer is great with a gallon covering up to 300 squar
 
 Cons: - Requires sanding
 
-> See Also: > Zinsser BIN Primer
 
 ###  [6. Rust-Oleum Corporation 02501 Zinsser Shieldz Primer/Sealer](https://www.amazon.com/dp/B000X9V106/?tag=p-policy-20)
 
@@ -104,7 +99,6 @@ This primer does an excellent job of preparing your surface for painting and is 
 
 Cons: - Packaging not well done
 
-> See Also: > Exterior Primer Paint
 
 ###  [7. Benjamin Moore ULTRA SPEC Primer, White - 5 Gallon](https://www.amazon.com/dp/B0791JSFPW/?tag=p-policy-20)
 
@@ -118,7 +112,6 @@ Before you apply this primer always make sure the surface is clean from rust, pe
 
 Cons: - Not economical for small projects
 
-> See Also: > Oil Based Primer for Cabinets
 
 ##  Conclusion
 

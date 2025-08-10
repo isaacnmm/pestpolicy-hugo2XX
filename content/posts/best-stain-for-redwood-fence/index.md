@@ -38,7 +38,6 @@ The 1-gallon solvent helps you paint comprehensive surface coverage (using a sin
 
 Cons: - Not for solid surface painting - Unsuitable for large surface painting
 
-> See Also: > Deck Stain for Pressure Treated Wood
 
 ###  [2. THOMPSONS WATERSEAL Solid Waterproofing Stain](https://www.amazon.com/dp/B00IKVLUZ0/?tag=p-policy-20)
 
@@ -52,7 +51,6 @@ Thompson is budget-friendly and wont cause skin or nasal irritation upon contact
 
 Cons: - The capacity is only best for medium to small surface application. - Needs several coats in heavy rain environment
 
-> See Also: > Quality Paint for Kitchen Cabinets
 
 ###  [3. Roxil Wood Protection Stain](https://www.amazon.com/dp/B081K32XJF/?tag=p-policy-20)
 
@@ -68,7 +66,6 @@ The stain is highly penetrative and wont damage your wood upon contact. Importan
 
 Cons: - Comes in limited color options - Unsuitable for small area coverage - May take longer to dry
 
-> See Also: > HVLP Spray Gun for Woodworking
 
 ###  [4. DEFY Extreme 1 Gallon Exterior Wood Stain](https://www.amazon.com/dp/B0061OIK4M/?tag=p-policy-20)
 
@@ -84,7 +81,6 @@ Defy features a stable base design that allows easier storage and comes with a c
 
 Cons: - Unsuitable for sold stain painting - Not for large commercial painting - Comes in limited color selection
 
-> See Also: > Painting a Deck with Peeling Paint
 
 ###  [5. ECO-Safe Wood Treatment Stain](https://www.amazon.com/dp/B00V5WHUZA/?tag=p-policy-20)
 
@@ -104,7 +100,6 @@ Eco-Safe is applied directly with a paintbrush or roller. They are no many runs/
 
 Cons: - Has limited portability no handle - Cannot be applied directly before mixing - Comes in limited color options
 
-> See Also: > Airless Paint Sprayer for Interior Walls
 
 ###  [6. Rain Guard Water Sealers/Wood stains](https://www.amazon.com/dp/B06XRLSWSM/?tag=p-policy-20)
 
@@ -122,7 +117,6 @@ Rain Guard is fast-drying (dries in 1 hour after painting) and comes with no VOC
 
 Cons: - Comes in limited selectable colors - The quantity could be more. - Maybe brighter on some surfaces
 
-> See Also: > [Stain for Swing Set](https://pestpolicy.com/best-stain-for-swing-set/)
 
 ###  [7. Wood Defender - Semi-Transparent Fence Stain](https://www.amazon.com/dp/B0719RBZRD/?tag=p-policy-20)
 
@@ -140,7 +134,6 @@ Pros: - No prepping needed when painting or cleaning - More comfortable to prepa
 
 Cons: - Unsuitable for small fence staining - The life-time could be more - Not solid semitransparent use only
 
-> See Also: > Deck Sealer for Pressure Treated Wood
 
 ##  Conclusion
 

@@ -32,7 +32,6 @@ All 12 white nylon brushes and 12 hog bristle brushes come in different sizes ma
 
 Cons: - Questionable durability
 
-> See Also: > Removing Acrylic Paint from Canvas
 
 ###  [2. DArtisan Shoppe Maestro Series XV 15-Piece Acrylic Water Color](https://www.amazon.com/dp/B00OH2GC86/?tag=p-policy-20)
 
@@ -48,7 +47,6 @@ Pros: - Comes in a lightweight and compact carry case - Suitable for all paints 
 
 Cons: - None found
 
-> See Also: > Acrylic Paint for Pouring
 
 ###  [3. Artify 38-Piece Paint Brush Set for Acrylic Oil Water Color Paint](https://www.amazon.com/dp/B01AHJIW5I/?tag=p-policy-20)
 
@@ -60,7 +58,6 @@ Artify designers integrated an additional oil paint coating on the handles of th
 
 Cons: - Pricey
 
-> See Also: > [Acrylic Paint for Canvas](https://pestpolicy.com/best-acrylic-paint-for-canvas/)
 
 ###  [4. Benicci Artist Paint Brush Set of 16 with Bonus Paint Knife](https://www.amazon.com/dp/B07YYHC6RB/?tag=p-policy-20)
 
@@ -72,7 +69,6 @@ The Benicci paintbrush series is perfect for acrylic, watercolors, and oil paint
 
 Cons: - Relatively pricey
 
-> See Also: > [Acrylic Paint for Professional Artists](https://pestpolicy.com/best-acrylic-paint-for-professional-artists/)
 
 ###  [5. Starvast Painting Brushes 12 Pic Professional Angled Paint Brushes](https://www.amazon.com/dp/B01M6DKS8L/?tag=p-policy-20)
 
@@ -86,7 +82,6 @@ Pros: - Professional quality - Affordably priced - Multi-purpose
 
 Cons: - None
 
-> See Also: > [Removing Acrylic Paint from Concrete](https://pestpolicy.com/how-to-remove-acrylic-paint-from-concrete/)
 
 ###  [6. Adis Art Pro 10pc Paint Brush Set for Acrylic Oil Water Color](https://www.amazon.com/dp/B074CL66VH/?tag=p-policy-20)
 
@@ -102,7 +97,6 @@ Pros: - Smooth finish - Exceptionally firm bristles - Reasonably priced
 
 Cons: - Questionable versatility
 
-> See Also: > Using Acrylic Paint On Metal >?
 
 ##  Conclusion
 

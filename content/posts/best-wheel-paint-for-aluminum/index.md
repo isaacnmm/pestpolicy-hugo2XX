@@ -32,7 +32,6 @@ After applying, it dries fast on your surface but it always recommendable to giv
 
 Cons: - Needs constant shaking - Needs several coats
 
-> See Also: > Chalk Paint for Furniture
 
 ###  [2. Bundle-Plasti Dip Wheel Kit, Copper Metalizer & Black Base, - 7 Pieces](https://www.amazon.com/dp/B00TANCXDK/?tag=p-policy-20)
 
@@ -44,7 +43,6 @@ This pack of 7, comes in a way that you are able to apply all four wheels of you
 
 Cons: - Needs several coats
 
-> See Also: > Garage Floor Containment Mats
 
 ###  [3. 1. Performix 11287 Plasti-Dip Spray - 11 oz](https://www.amazon.com/dp/B00PYENX1U/?tag=p-policy-20)
 
@@ -58,7 +56,6 @@ Formulated with metallic ingredients, this paint produces a shiny look on your w
 
 Cons: - Its highly flammable - Its adhesion on some surfaces is questionable
 
-> See Also: > Folding Ladders for Painters
 
 ###  [4. Rust-Oleum 248927 Automotive Spray Paint, 11 oz](https://www.amazon.com/dp/B003CT4AQ6/?tag=p-policy-20)
 
@@ -74,7 +71,6 @@ Pros: - Pocket friendly - Rust-proof - Resistant to scratching and denting - It 
 
 Cons: - The spray is sometimes uneven.
 
-> See Also: > Deck Stain for Pressure Treated Wood
 
 ###  [5. Dupli-Color HWP104 Wheel Paint, 12 oz](https://www.amazon.com/dp/B002MB8TQ2/?tag=p-policy-20)
 
@@ -90,7 +86,6 @@ Pros: - Fast drying - Glossy finish - Protects against flaking and cracking - Re
 
 Cons: - Has low consistency
 
-> See Also: > Paint for Outdoor Wood Furniture
 
 ###  [6. VHT SP187 Wheel Paint, Gloss Black, 11 oz](https://www.amazon.com/dp/B000CPJLLM/?tag=p-policy-20)
 
@@ -104,7 +99,6 @@ When you apply this paint on your wheels, it dries very fast and within 30 minut
 
 Cons: - The paint is inconsistent - The nozzle is sometimes hard to use
 
-> See Also: > Heat Gun for Removing Paint
 
 ###  [7. Rust-Oleum 248928 Automotive Wheel Spray Paint, Matte Black](https://www.amazon.com/dp/B003CT4AQQ/?tag=p-policy-20)
 
@@ -118,7 +112,6 @@ Pros: - Rust-proof - Multi-purpose - Fast drying - Unmatched durability - Good s
 
 Cons: - Some clients have complains of paint peeling off
 
-> See Also: > [Paint Brushes for Edging](https://pestpolicy.com/best-paint-brushes-for-edging/)
 
 ##  Conclusion
 

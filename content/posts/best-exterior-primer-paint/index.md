@@ -38,7 +38,6 @@ Pros: - Its packed in a portable container has a comfortable handle - Integrates
 
 Cons: - Comes in white color only - The packages should be more for commercial use
 
-> See Also: > Painting Your House Exterior
 
 ###  [2. Rust-Oleum Corporation 02001 Water Base Primer](https://www.amazon.com/dp/B000SKU8VI/?tag=p-policy-20)
 
@@ -54,7 +53,6 @@ Pros: - It dries in one hour and leaves no drains on the surface - Comes with a 
 
 Cons: - The package could be more 1-gallon only - Its available in white color only
 
-> See Also: > Interior versus Exterior Paint
 
 ###  [3. MAD DOG MDP100 Exterior Primer](https://www.amazon.com/dp/B0067NKC6G/?tag=p-policy-20)
 
@@ -72,7 +70,6 @@ Pros: - Comes with super active ingredients quick-acting - Sticks firmly on the 
 
 Cons: - Unsuitable for large scale priming - Has limited selectable colors
 
-> See Also: > Can You Use Exterior Paint Indoors?
 
 ###  [4. KILZ 2 Multi-Surface Interior/Exterior Latex Primer](https://www.amazon.com/dp/B0013FE5R0/?tag=p-policy-20)
 
@@ -90,7 +87,6 @@ Pros: - It is packed in a portable 1-gallon container - Comes with high refined 
 
 Cons: - The paint quantity could be more comes in 3. 79-liter can - Available in white color only - Doesnt prevent UV-rays damage
 
-> See Also: > Paint Sprayer for Exterior Walls
 
 ###  [5. Armaly Brands 2000 Bulls Eye Primer](https://www.amazon.com/dp/B0002YPKHM/?tag=p-policy-20)
 
@@ -106,7 +102,6 @@ Pros: - Integrates natural ingredients and simple to prepare - Resist mold and m
 
 Cons: - Has limited selectable colors - Not best exterior for metal surface
 
-> See Also: > [Exterior Paint to Prevent Mold](https://pestpolicy.com/best-exterior-paint-to-prevent-mold/)
 
 ###  [6. Valspar 18205 Pristine Exterior Primer](https://www.amazon.com/dp/B01J7APZWG/?tag=p-policy-20)
 
@@ -124,7 +119,6 @@ Pros: - Comes with low VOC components no respiratory irritation - Forms impressi
 
 Cons: - It's available in limited colors - The primer is not UV-ray protected - The package could be larger for commercial use
 
-> See Also: > [Gold Paint for Wood ed](https://pestpolicy.com/best-gold-paint-for-wood/)
 
 ###  [7. Rust-Oleum 8781502 Flat Aluminum Primer](https://www.amazon.com/dp/B000C018C2/?tag=p-policy-20)
 
@@ -142,7 +136,6 @@ Pros: - Its more comfortable to prepare and apply - Best for exterior metal surf
 
 Cons: - Unsuitable for concrete or wood surface - May cause skin or eye irritation upon contact - Comes in one color only flat aluminum
 
-> See Also: > Pump Sprayers for Staining Fences
 
 ##  Conclusion
 

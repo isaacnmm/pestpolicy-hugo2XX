@@ -58,7 +58,6 @@ So, the baking soda blasting process is non-hazardous.
 
 Simultaneously, the chemical is also food-grade, which means it can be used both at home, commercially, and for industrial applications in removing paint coats. After the paint removal process is completed, you'll need to dissolve the baking soda into water and wash it down the drain. It won't contaminate materials or cause adverse health effects on both humans and your pets - but you'll need to wear PPE for protection against paint lead.
 
-> See Also: > Rustoleum galvanized metal primer
 
 ##  Other Alternatives to Removing Paint from Metal Door
 

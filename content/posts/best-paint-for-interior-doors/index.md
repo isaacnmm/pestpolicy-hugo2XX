@@ -34,7 +34,6 @@ Pros: - Mildew resistant - Ideal for kitchens, kids rooms, and dining rooms - Av
 
 Cons: - Has paused some cleaning challenges
 
-> See Also: > Time To Paint a House Interior
 
 ###  [2. Diamond Brite Paint 31600](https://www.amazon.com/dp/B00AENFLMK/?tag=p-policy-20)
 
@@ -50,7 +49,6 @@ A single gallon covers approximately 300 square feet depending on the method of 
 
 Cons: - May emit some odor after application.
 
-> See Also: > Interior vs Exterior Paint
 
 ###  [3. Diamond Brite Paint 80000 1-Quart Latex](https://www.amazon.com/dp/B00AENH66O/?tag=p-policy-20)
 
@@ -64,7 +62,6 @@ Thankfully, you can easily clean such stains without ever damaging the paint. If
 
 Cons: - Needs some bit of preparation (sanding) before you apply it
 
-> See Also: > Paint Roller Cover for Interior Walls
 
 ###  [4. Rust-Oleum 7798502](https://www.amazon.com/dp/B0030DB2LK/?tag=p-policy-20)
 
@@ -82,7 +79,6 @@ Pros: - Perfectly resistant to fading - Comes with a semi-gloss version for a su
 
 Cons: - Not for sale in some places like the Catalina Island
 
-> See Also: > White Paints for Interior Walls
 
 ###  [5. Valspar 65004 Premium Interior](https://www.amazon.com/dp/B0030BKTAC/?tag=p-policy-20)
 
@@ -98,7 +94,6 @@ Feel confident to use this product on furniture, trim, primed metal, wood and ma
 
 Cons: - May emit some odor while wet.
 
-> See Also: > Paint Sprayer for Interior Walls
 
 ###  [6. Rust-Oleum 253611 Metallic Accents Paint](https://www.amazon.com/dp/B003EELN1Y/?tag=p-policy-20)
 
@@ -114,7 +109,6 @@ Pros: - Low on Odor and VOCs - It takes 30 minutes to dry to the touch.
 
 Cons: - None
 
-> See Also: > Oil Based Primer for Cabinets
 
 ###  [7. KILZ 2 Multi-Surface Stain Blocking](https://www.amazon.com/dp/B0013FE5R0/?tag=p-policy-20)
 
@@ -128,7 +122,6 @@ Like most other water-based paints, KILZ 2 dries in a record 30 minutes paving t
 
 Cons: - May not cover completely if not applied according to instructions.
 
-> See Also: > [Primer for Rusted Metal](https://pestpolicy.com/best-primer-for-rusted-metal/)
 
 ##  Conclusion
 

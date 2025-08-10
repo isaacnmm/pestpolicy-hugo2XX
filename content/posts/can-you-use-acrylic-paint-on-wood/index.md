@@ -106,7 +106,6 @@ Upon paint/primer preparation, carry out a drop test experiment to ascertain the
 
 Never touch acrylic paint or thinner directly with your hands the solvent may contain stains or components that may irritate your skin. 8. Seal finish paint with vinyl to improve coat strength and eliminate the occurrence of peeling, scuffing, or fading with time. 9. Drains formed during paint application should be corrected while still wet using a paintbrush. Cover the floor with a polyethylene bag when painting to avoid staining the surface.
 
-> See Also: > Cordless Paint Sprayers
 
 ##  Conclusion
 

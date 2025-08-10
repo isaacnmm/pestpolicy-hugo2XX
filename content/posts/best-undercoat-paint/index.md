@@ -31,7 +31,6 @@ Pros: - Environmental friendly - Permanently stop rusting - Great quality - Dura
 
 Cons: - Sensitive to UV light
 
-> See Also: > [Stain for Swing Set](https://pestpolicy.com/best-stain-for-swing-set/)>.
 
 ###  [2. 3M 03584 Rubberized Undercoat Paint, 16 oz.](https://www.amazon.com/dp/B002H9CMCQ/?tag=p-policy-20)
 
@@ -43,7 +42,6 @@ It is also responsible for making this aerosol paint resistant to cracking, abra
 
 Cons: Not for large projects - Its costly
 
-> See Also: > HVLP Paint Sprayer for Latex Paint
 
 ###  [3. KILZ Premium Stain Blocking Primer, 1-gallon](https://www.amazon.com/dp/B0002YOZZU/?tag=p-policy-20)
 
@@ -57,7 +55,6 @@ Pros: - Environmental friendly - Low odor - Suitable for both indoors and outdoo
 
 Cons: - Not reusable
 
-> See Also: > Sprayer for Latex Paint
 
 ###  [4. INSL-X (SXA110099-04), 1 Quart](https://www.amazon.com/dp/B000MITIF8/?tag=p-policy-20)
 
@@ -71,7 +68,6 @@ Pros: - Excellent adhesion - Versatile - Durable - Easy clean-up - Low odor - Ha
 
 Cons: - Poor packaging
 
-> See Also: > Airless Paint Sprayer for Interior Walls
 
 ###  [5. Automotive Rubberized Undercoat Paint (RUS-1020F6)](https://www.amazon.com/dp/B000Q6UBQ6/?tag=p-policy-20)
 
@@ -87,7 +83,6 @@ Pros: - Reduces noise - Affordable - Enhances proper bonding - Easy to apply - G
 
 Cons: - Takes long to dry
 
-> See Also: > Sander for Wood Trim
 
 ###  [6. 3M Undercoating Paint (08881), 16 oz.](https://www.amazon.com/dp/B0002NUO5Q/?tag=p-policy-20)
 
@@ -101,7 +96,6 @@ Pros: - It is affordable - Protects surface from rust - Easy to apply - Has soun
 
 Cons: - Fades very fast - Suitable for undercarriage cars
 
-> See Also: > [Paint Roller for Smooth Finish](https://pestpolicy.com/best-paint-roller-for-smooth-finish/)
 
 ###  [7. Zinsser Stain Primer (3554)](https://www.amazon.com/dp/B0015OCRAQ/?tag=p-policy-20)
 
@@ -115,7 +109,6 @@ Pros: - Excellent adhesion - Versatile - Dries fast - Stops bleeding - For inter
 
 Cons: - Customer have expressed issues with pricing
 
-> See Also: > Telescoping Ladders
 
 ##  Conclusion
 

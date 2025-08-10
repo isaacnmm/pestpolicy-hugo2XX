@@ -38,7 +38,6 @@ Pros: - Dynamic Pressure change allowance - great for paint removal - Less noisy
 
 Cons: - Plastic body - Relies on constant electricity supply
 
-> See Also: > White Paints for Interior Walls
 
 ###  [2. Simpson MSH3125 Cleaning & Paint Removal Gas-Pressure Washer](https://www.amazon.com/dp/B004MXKUCY/?tag=p-policy-20)
 
@@ -56,7 +55,6 @@ Besides, this machine is gas-powered, and it'll help clean at top speed. With a 
 
 Cons: - None
 
-> See Also: > How to Get Rid of Spray Paint Smell
 
 ###  [3. WEN PW3100 Gas Paint Pressure Washer 208cc (2.5 GPM)](https://www.amazon.com/dp/B07Q1SWT94/?tag=p-policy-20)
 
@@ -76,7 +74,6 @@ The wheels are particularly helpful if you're working on uneven or rough terrain
 
 Cons: - Non-collapsible
 
-> See Also: > Baby Safe Paint for Crib
 
 ###  [4. SpeedWash 7122 (2.7 GPM; 3200 PSI) Gas Powered Pressure Washer](https://www.amazon.com/dp/B06XHJHGZN/?tag=p-policy-20)
 
@@ -96,7 +93,6 @@ Pros: - Durable pressure washer plus its non-kin hose - Coems with 4 fast-connec
 
 Cons: - None
 
-> See Also: > [Semi Transparent Deck Stain](https://pestpolicy.com/best-semi-transparent-deck-stain/)
 
 ##  Conclusion
 

@@ -31,7 +31,6 @@ Pros: - Simple to apply - Strong adhesion - Resistant to water, molds, mildew, a
 
 Cons: - Its very thick
 
-> See Also: > Gravity Feed Spray Guns
 
 ###  [2. INSL-X AMW100009A-01 Water Block Acrylic Paint, White](https://www.amazon.com/dp/B07KXN7XSY/?tag=p-policy-20)
 
@@ -45,7 +44,6 @@ Pros: - Resistant to water and alkali - Limits molds and mildews development - F
 
 Cons: - Strict temperature adherence - Not suitable for interior surfaces
 
-> See Also: > Sprayer for Latex Paint
 
 ###  [3. Masonry and Stucco Paint, Black](https://www.amazon.com/dp/B00LWGAFH4/?tag=p-policy-20)
 
@@ -59,7 +57,6 @@ Regardless of the surface, you can apply it on both interior and exterior surfac
 
 Cons: - Susceptible to scratching and flaking
 
-> See Also: > Chalk Paint for Furniture
 
 ###  [4. KILZ L390201 Exterior/ Interior Concrete & Masonry Sealer](https://www.amazon.com/dp/B01MQCKIU9/?tag=p-policy-20)
 
@@ -73,7 +70,6 @@ Pros: - Fast drying - Water, mold, and mildew resistant - Good adhesion - Good c
 
 Cons: - The paint is too thin
 
-> See Also: > Seal Painted Wood for Outdoor Use
 
 ###  [5. Masonry and Stucco Paint, Beige](https://www.amazon.com/dp/B00N22K404/?tag=p-policy-20)
 
@@ -87,7 +83,6 @@ Pros: - Combines primer and paint - Good for exterior and interior surfaces - Go
 
 Cons: - It is very thick
 
-> See Also: > [Garage Floor Containment Mats](https://pestpolicy.com/best-garage-floor-containment-mats/)
 
 ###  [6. Romabio Masonry Textured Italian Mineral Paint, 15L/4GAL](https://www.amazon.com/dp/B07R86CX5T/?tag=p-policy-20)
 
@@ -101,7 +96,6 @@ Additionally thinning of this paint with 20-30% water will help in achieving a g
 
 Cons: - Its expensive - Needs surface dampening before application
 
-> See Also: > Airless Paint Sprayer Under 300
 
 ###  [7. KILZ Interior & Exterior Self-Priming Flat Paint, Gray](https://www.amazon.com/dp/B06Y142YK6/?tag=p-policy-20)
 
@@ -117,7 +111,6 @@ Its coverage is awesome with one gallon covering 250-400 square ft. Pros: - Grea
 
 Cons: - Too thin
 
-> See Also: > [Painters Tape for Textured Walls](https://pestpolicy.com/best-painters-tape-for-textured-walls/)
 
 ##  Conclusion
 

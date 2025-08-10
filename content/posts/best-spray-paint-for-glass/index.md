@@ -32,7 +32,6 @@ However it requires a minimum of 24 hours to handle the surface or do another re
 
 Cons: - Requires strict temperature observance
 
-> See Also: > [Spray Paints for Graffiti](https://pestpolicy.com/best-spray-paints-for-graffiti/)
 
 ###  [2. Krylon K09058007 Sea Glass Spray Paint, Cornflower](https://www.amazon.com/dp/B00PSNE08C/?tag=p-policy-20)
 
@@ -46,7 +45,6 @@ It is important to note that this spray is highly flammable and adequate aeratio
 
 Cons: - Highly flammable
 
-> See Also: > Paint for a Concrete Driveway
 
 ###  [3. Design Master DM241 Premium Metallic Spray Paint](https://www.amazon.com/dp/B00N3SVJKG/?tag=p-policy-20)
 
@@ -72,7 +70,6 @@ Pros: - Fast-drying - Translucent finish - Durable - Made in USA
 
 Cons: - Needs constant shaking during application
 
-> See Also: > Heat Gun for Removing Paint
 
 ###  [5. Krylon-K05150107 ColorMaster Paint + Primer](https://www.amazon.com/dp/B000QSZFZ6/?tag=p-policy-20)
 
@@ -102,7 +99,6 @@ Pros: - Translucent surface - Good for decorative and privacy - Fast drying - Be
 
 Cons: - Not suitable on water-exposed surfaces
 
-> See Also: > Epoxy Spray Paint
 
 ###  [7. Krylon K05549007 ColorMaxx Spray Paint and Primer](https://www.amazon.com/dp/B07LG2JJ4Z/?tag=p-policy-20)
 

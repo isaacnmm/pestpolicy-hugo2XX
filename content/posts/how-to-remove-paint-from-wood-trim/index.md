@@ -78,7 +78,6 @@ If you have a wide area to cover and scraping doesnt get the stain off, use fine
 
 If scrapping, soaking the stain in a rag, and heating is not sufficient in eliminating the stain, a solvent may come in handy in eliminating any residue of dried up paint. A microfiber rag soaked in solvent and then rubbed off carefully is recommended to prevent damage to the wood grain. In case you unintentionally scratch the wood trim during scraping, you might want to try applying tinted wood wax.
 
-> See Also: > How to Stain a Deck for the First Time Similarly, stain markers are ideal for a quick touchup. If you are dealing with dry paint in small cracks and between floorboards, use soap and water, or a solvent dipped in cotton swab or a worn-out toothbrush. As compared to water, methylated spirit guarantees more effective and faster results.
 
 Conversely, a razor knife will help you get all the corners and other tight spots on your wood trim.
 

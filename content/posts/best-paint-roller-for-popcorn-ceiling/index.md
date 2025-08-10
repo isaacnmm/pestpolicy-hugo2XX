@@ -34,7 +34,6 @@ In addition to its convenience of use, this product is also relatively easy to c
 
 Cons: - None found
 
-> See Also: > Paint Finish for Ceilings
 
 ###  [2. Bates Paint Roller- P 11-piece home painting supplies](https://www.amazon.com/dp/B01MRTEOHI/?tag=p-policy-20)
 
@@ -50,7 +49,6 @@ Brush application is now easier with this set which utilizes thick filaments as 
 
 Cons: - Questionable quality for tray
 
-> See Also: > Fixing Peeling Paint on Ceiling
 
 ###  [3. True Blue Professional Paint Roller Covers](https://www.amazon.com/dp/B0751JYPGG/?tag=p-policy-20)
 
@@ -66,7 +64,6 @@ The microfiber filaments utilized in this brush have been proven to be highly ef
 
 Cons: - None found
 
-> See Also: > Bathroom Ceiling to Prevent Mold
 
 ###  [4. Purdy Colossus 18 by 0.5 Roller Cover Nap](https://www.amazon.com/dp/B0067NJZK0/?tag=p-policy-20)
 
@@ -82,7 +79,6 @@ This kit is individually packaged in a 14-24 wet bag for ease of storage in betw
 
 Cons: - Then roller cage is not universal
 
-> See Also: > Paint A Ceiling Without Roller Marks
 
 ###  [5. Purdy Dove Cover 3 Roller Multipacks](https://www.amazon.com/dp/B0010OKMMG/?tag=p-policy-20)
 
@@ -98,7 +94,6 @@ Pros: - Excellent value for money - Unrivaled productivity - High-density constr
 
 Cons: - None found
 
-> See Also: > [Paint Sprayer for Walls and Ceilings](https://pestpolicy.com/best-paint-sprayer-for-walls-and-ceilings/)
 
 ###  [6. 9  9/16 Nap Wooster Popcorn/Acoustical Roller Cover](https://www.amazon.com/dp/B000BPARSO/?tag=p-policy-20)
 
@@ -112,7 +107,6 @@ Pros: - Affordably priced - Highly versatile - Dependable quality
 
 Cons: - Roller handle not included
 
-> See Also: > Paint Thinner for Oil Painting
 
 ###  [7. The Wagner Smart Edge Eaint Woller](https://www.amazon.com/dp/B009U5BD8E/?tag=p-policy-20)
 
@@ -128,7 +122,6 @@ Pros: - All in one package - Extended reach is ideal for high ceilings - Decent 
 
 Cons: - Pricey
 
-> See Also: > Exterior Primer Paint
 
 ##  Conclusion
 

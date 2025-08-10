@@ -30,7 +30,6 @@ The advantage of this paint is that it also comes in a variety of colors for you
 
 Cons: - It is not alcohol ink
 
-> See Also: > Deck Sealer for Pressure Treated Wood
 
 ###  [2. Design Master 731 Gold Metallic Paint](https://www.amazon.com/dp/B00114OO6A/?tag=p-policy-20)
 
@@ -42,7 +41,6 @@ Indeed, buying this paint is big because it not only gets you an elegant finish 
 
 Cons: - Its durability is questionable
 
-> See Also: > Deck Stain for Pressure Treated Wood
 
 ###  [3. Plaid, Classic Gold 6110 Paint, 1 Pack](https://www.amazon.com/dp/B000MRUYI4/?tag=p-policy-20)
 
@@ -54,7 +52,6 @@ The paint is fast in drying and helps you save time to do other projects that yo
 
 Cons: - Irritating to skin and eyes - Difficult to clean up
 
-> See Also: > Refinishing a Deck
 
 ###  [4. Rust-Oleum, 253537 Metallic Accents Gold Paint](https://www.amazon.com/dp/B003EELMYW/?tag=p-policy-20)
 
@@ -68,7 +65,6 @@ Pros: - Has easy to an application likesanding between deck boards - Fast drying
 
 Cons: - Its expensive
 
-> See Also: > Is composite decking worth it
 
 ###  [5. Shabby Chic, Furniture Chalk Paint, Antique Gold](https://www.amazon.com/dp/B01DCBI8RK/?tag=p-policy-20)
 
@@ -82,7 +78,6 @@ It comes in a variety of 37 colors and you can apply the color of your choice in
 
 Cons: - Expensive
 
-> See Also: > Deck Stain Sprayer
 
 ###  [6. Krylon-K15151002 ColorMaster Paint & Primer, Metallic](https://www.amazon.com/dp/B000MRUYI4/?tag=p-policy-20)
 
@@ -94,7 +89,6 @@ The multi-use feature on this paint allows usage on furniture, doors, cabinets, 
 
 Cons: - Has fumes and odor
 
-> See Also: > Paint for Concrete Pool Deck
 
 ###  [7. Modern Masters, ME701-06 Metallic Rich Gold Paint](https://www.amazon.com/dp/B002BY3NEI/?tag=p-policy-20)
 
@@ -106,7 +100,6 @@ For instance, opaque does well in hiding imperfections with a maximum of 2 coats
 
 Cons: - Requires more than one coat
 
-> See Also: > [Semi Transparent Deck Stain](https://pestpolicy.com/best-semi-transparent-deck-stain/)
 
 ##  Conclusion
 

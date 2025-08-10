@@ -48,7 +48,6 @@ Lastly, this sprayer also comes with a 75 ft. hose that allows you to paint larg
 
 Cons: - Has high chances of clogging
 
-> See Also: > Comapre Ceiling Paint and Wall Paint
 
 ###  [3. Earlex 0HV6003PUS-6003 HVLP Paint Sprayer](https://www.amazon.com/dp/B00JRE163K/?tag=p-policy-20)
 
@@ -64,7 +63,6 @@ Pros: - It is durable - It uses the HVLP technique - Two years warranty - Made i
 
 Cons: - Not advisable for large projects
 
-> See Also: > Painting With a Roller without Streaks
 
 ###  [4. Titan ControlMax-1900 PRO, HEA technology Paint Sprayer](https://www.amazon.com/dp/B06XRB862Q/?tag=p-policy-20)
 
@@ -78,7 +76,6 @@ With this sprayer, you can achieve high precision and also manage to spray aroun
 
 Cons: - None found
 
-> See Also: > Repainting Interior Walls
 
 ###  [5. Titan ControlMax 1700 Pro HEA Technology Paint Sprayer](https://www.amazon.com/dp/B06X3YNP1N/?tag=p-policy-20)
 
@@ -92,7 +89,6 @@ The sprayer is easily portable allowing you to move it around as you carry out y
 
 Cons: - Needs high-level maintenance
 
-> See Also: > Non VOC Crib Paints
 
 ###  [6. Titan ControlMax-1500 0580005 HEA technology Paint Sprayer](https://www.amazon.com/dp/B06XR8ND97/?tag=p-policy-20)
 

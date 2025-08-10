@@ -34,7 +34,6 @@ Since it comes pre-made, it spares you the hassles of messy pre-mixing. Hence, t
 
 Cons: - None
 
-> See Also: > Refinishing your Deck
 
 ###  [2. Insl-X WR-10XX semi-gloss pool paint](https://www.amazon.com/dp/B000NW136U/?tag=p-policy-20)
 
@@ -66,7 +65,6 @@ Pros: - Suitable for both vertical and horizontal surfaces - Unmatched waterproo
 
 Cons: - None
 
-> See Also: > Best turbine paint sprayer
 
 ###  [4. Rust Bullet Duragrade Concrete One Gallon](https://www.amazon.com/dp/B07FHSTCKQ/?tag=p-policy-20)
 
@@ -84,7 +82,6 @@ Being a PU based coating; it spreads thinner compared to epoxy-based paint, and 
 
 Cons: - Not ideal for old concrete decks requiring repairs because it spreads thinly
 
-> See Also: > Deck Wood Sealer
 
 ###  [5. E-Z patch two white swimming pool deck repair](https://www.amazon.com/dp/B003HDZ8TU/?tag=p-policy-20)
 
@@ -112,7 +109,6 @@ All you have to do is add one gal of the product to the equipment. The product c
 
 Cons: - None found
 
-> See Also: > [Wood Deck Stain](https://pestpolicy.com/best-deck-stain-for-pressure-treated-wood/)
 
 ###  [7. Olympic Patio Tones by Kelley Technical Coating](https://www.amazon.com/dp/B0051BIEHE/?tag=p-policy-20)
 

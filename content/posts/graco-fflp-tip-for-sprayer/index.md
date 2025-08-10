@@ -46,7 +46,6 @@ As compared to low-pressure tips, FFLP comes with 50% efficiency and low energy 
 
 FFLP tips are simple and more comfortable to clean. Usually, the tip guard is nicely threaded into a universal tip fastener for motion stability. When cleaning, you only need to unscrew the guard and pull the FFLP tip gently. Further, dip the tip in thinner to clean the orifice and paint channel. You can opt to pass pressurized clean water to flush paint that may be stuck within the orifice.
 
-> See Also: > Graco Ultra Max II 495 Airless Paint Sprayer
 
 ###  5. Repair and Replacement
 
@@ -64,7 +63,6 @@ To do this, check the FFLP tip number, i. e. FFLP 310. If the first digit is dou
 
 Moreover, note the maximum pressure (PSI) under which every FFLP tip operates.
 
-> See Also: > Graco Magnum X7 Sprayer
 
 ###  7. Spray Action  overspray
 

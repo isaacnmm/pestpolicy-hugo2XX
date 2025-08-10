@@ -67,7 +67,6 @@ You'll find the lizards hanging around dark places - locations where you also ge
 
 So, will geckos feed on cockroaches? Well, yes geckos and house lizards will also eat roaches and their larva. But they occupy different places - roaches love places near the ground. On the other hand, geckos occupy spaces that are higher above the ground - they love dark, damp, and equally cool places. But house lizards will occupy dark places - also loved by cockroaches.
 
-> See Also: > [Animals that Eat Cockroaches](https://pestpolicy.com/what-animals-eat-cockroaches/)Centipedes will feed on house lizards - the bug's wriggly motion will attract lizards that snatch them fast. You'll get the centipedes around the house on wood beams and other wooden fixtures. Lizards will also feed on termite swarmers that move in colonies - they have wings and hence will fly as swarmers.
 
 ##  Will House**Geckos Eat Bed Bugs in captivity?**
 

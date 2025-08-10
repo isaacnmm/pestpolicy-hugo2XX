@@ -34,7 +34,6 @@ Chelsea Lavender-Spike is suitable for making aromatherapy and soaps - it's a fe
 
 Cons: - None
 
-> See Also: > Sprayer for Latex Paint
 
 ###  [2. Mona-Lisa Odorless Accessories and Brush Cleaner - Paint Thinner](https://www.amazon.com/dp/B002646NBS/?tag=p-policy-20)
 
@@ -50,7 +49,6 @@ Well, no but make sure to adhere to the right procedures and wash your hands whe
 
 Cons: - None
 
-> See Also: > Paint Sprayer for Furniture
 
 ###  [3. Artists' Grade Gamsol-Oil Mineral Spirits and Pure Odorless](https://www.amazon.com/dp/B0006IKCHW/?tag=p-policy-20)
 
@@ -64,7 +62,6 @@ After pouring the product onto some tiny bowl and cup, and dip the blending nub 
 
 Cons: - None
 
-> See Also: > [Paint Sprayer for Walls and Ceilings](https://pestpolicy.com/best-paint-sprayer-for-walls-and-ceilings/)
 
 ###  [4. Citra Solv 8 Removes Wax, Grease, Oil, Gum, and Adhesives](https://www.amazon.com/dp/B00MC6E1AA/?tag=p-policy-20)
 
@@ -74,7 +71,6 @@ Citra Solv 8 will readily break down the grease - offers excellent versatility f
 
 The eco-friendly Citra Solv 8 thinner is excellently used as a substitute for various mineral spirits - while diluting the oil-paints and cleaning brushes.
 
-> See Also: > Safety Glasses for Spray Painting
 
 ##  Conclusion
 

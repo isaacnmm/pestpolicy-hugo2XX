@@ -18,7 +18,6 @@ layout: post
 
 Designed with an X-Boost turbine, it is instrumental in enhancing the performance of this sprayer by providing enough power for use on large projects or small projects. You can adjust it by increasing the speed and the flow of paint making it possible for you to achieve any spray pattern and a professional finish.
 
-> See Also: > Using a Wagner Paint Sprayer
 
 ##  Details: Wagner Flexio 590 Paint Sprayer
 
@@ -68,7 +67,6 @@ Additionally, this sprayer is very easy to assemble and even if its your first t
 
 The flow knob on the top of this sprayer is very effective when it comes to controlling the paint flow and therefore improving the coverage and minimizing any likelihood of an overspray. When you are done, with your spray, the sprayer is easy to clean-up. All you need to do is fill the cup/reservoir with water and turn it on as though doing a spray until the reservoir is fully rinsed.
 
-> See Also: > [Airless Paint Sprayer Under 300](https://pestpolicy.com/best-airless-paint-sprayer-under-300/)
 
 ###  3. Elaborate Cons
 

@@ -40,7 +40,6 @@ This will mean its a perfect sprayer to accomplish all your project needs. Ultim
 
 Cons: - Not easily portable
 
-> See Also: > Cleaning your HVLP Spray Gun
 
 ###  [3. Wagner Control Pro Paint Sprayer (0580678)](https://www.amazon.com/dp/B07MC9JG42/?tag=p-policy-20)
 
@@ -104,7 +103,6 @@ If you are a DIYer, you do not need any skills to know how to assemble this spra
 
 Cons: - Not good for large projects
 
-> See Also: > [Baby Safe Paint for Crib](https://pestpolicy.com/best-baby-safe-paint-for-crib/)
 
 ##  Conclusion
 

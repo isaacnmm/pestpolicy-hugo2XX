@@ -28,7 +28,6 @@ Further, prep the clean wooden surface (where necessary), carry actual stain app
 
 - Steel brush and Pressure washer - Paint mixer and stirrer - A Roller, Paint sprayer, or Paintbrush - A Wood stain or Wood sealer - Sandpaper fine grade and rough grade - Protective gear - respirator, gloves, overalls, safety boots, goggles, and facemask Accordingly, put on appropriate protective gear (respirator, gloves, overalls, safety boots, goggles, and facemask) before you commence the staining process.
 
-> See Also: > Deck Sealer for Pressure Treated Wood
 
 ###  b. Choosing stain
 
@@ -40,7 +39,6 @@ Further, oil-based stains have VOC components, which may irritate respiratory sy
 
 Consider a dark-colored stain for a new wooden structure that will give you a provision for future stain restoration. In case your wooden structure is in a sunny environment, purchase light-colored stains to improve reflective capabilities over the wooden surface. Importantly, follow safety and precautions given when staining your wooden structure since health is paramount. To acquire in-depth insight, let us get into the details.
 
-> See Also: > HVLP Spray Gun for Cabinets
 
 ###  c. Cleaning/washing the wood  surface preparation
 
@@ -58,7 +56,6 @@ It would help if you also prepared a wood stain, which is enough for the surface
 
 When restoring a stained wooden structure, it is advisable to prep the polished surface (where necessary) to improve stain stickiness and eliminate peeling. Prepping also seals porous surfaces and wholes that prevent uniform surface leveling when staining your wooden structure. NB: Not all wooden surfaces require prepping when staining. Indeed, some stains are self-priming and, therefore, can be applied directly on any wooden surface.
 
-> See Also: > Paint Roller to Hide Imperfections
 
 ###  f. Actual stain Application
 

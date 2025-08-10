@@ -36,7 +36,6 @@ Materials and Tools Needed - Soapy detergent and warm water - Empty container or
 
 However, cold water requires excess detergent to attain an excellent finish as compared to warm water.
 
-> See Also: > Sprayer for Latex Paint
 
 ###  Method 2:Using turpentine
 
@@ -54,7 +53,6 @@ Denatured alcohol removes both wet and dried acrylic, epoxy, and latex paint eff
 
 Materials and Tools Needed - Denatured Alcohol - Warm water in a bucket - Empty can and a piece of cloth - Soft blister paintbrush - Detergent and clean water Steps to Follow - Wear protective gear - gloves, goggles, respirator, overall, and boots - Pour rubbing alcohol/denatured alcohol into a container - Dilute the rubbing alcohol slightly with warm water - Carry out a drop test experiment to access the removal capability - Apply the solvent over the paint stain and leave it to quench for 10 to 15 minutes - Using a soft blister paintbrush, rub the cured paint until the stain is completely removed - Wash the paint debris with warm water and a piece of cloth - Rinse and wipe the porcelain surface leave it to dry naturally NB: Excess concentration of denatured alcohol decolorizes the porcelains primary color.
 
-> See Also: > HVLP Paint Sprayer for Latex Paint
 
 ###  Method 4: Using Cleanser Powder and Sponge
 
@@ -102,7 +100,6 @@ Paint scraper and scrubbing material may damage primary surface material by crea
 
 The use of undiluted stripping chemicals may react with porcelain material, thus leading to abnormal cracking. Moreover, the use of hot water when cleaning porcelain tub leads to anomalous expansion, which causes sudden cracking if suddenly sub-cooled with cold water. Besides, continuous sudden abrasive knocks and strokes (over porcelain tub during paint removal) may cause breakage to the brittle nature of the base material.
 
-> See Also: > Boat Bottom Paint for Speed
 
 ##  Precautions When Removing Paint from Porcelain
 

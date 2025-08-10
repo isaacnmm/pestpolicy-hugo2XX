@@ -56,7 +56,6 @@ Hairspray contains a chemical formulation that breaks down latex and acrylic pai
 
 tag=p-policy-20)from Amazon - 3 liters of warm water - Hand gloves - Soap detergent **Procedure to follow** - Wear hand groves and carry point spray over the paint stain area to ascertain the performance - Gently apply hairspray over the paint-stained area entirely - Leave it for 7 minutes to cure - Soak the stained area with warm water and soap to remove hairspray traces - Rinse with clean water to dryness Hairspray works best for wet and dried latex paint.
 
-> See Also: > Mineral Spirits Removes Paint?
 
 ###  [5. Washing machine and Warm water](https://www.amazon.com/dp/B089YSKJY6/?tag=p-policy-20)
 

@@ -34,7 +34,6 @@ Because this product is moisture-cured, 50% relative humidity is needed to achie
 
 Cons: - VOC based and a threat to the environment
 
-> See Also: > Spray Paints for Plastics
 
 ###  [2. VHT Epoxy SP650 all-weather coating](https://www.amazon.com/dp/B0006HPL3I/?tag=p-policy-20)
 
@@ -50,7 +49,6 @@ The ceramic resin formulation utilized in this product allows it to withstand te
 
 Cons: - Adequate surface preparation is needed
 
-> See Also: > Ceiling Paint versus Wall Paint
 
 ###  [3. Krylon K03207000 Appliance Epoxy Gloss](https://www.amazon.com/dp/B00397TJTY/?tag=p-policy-20)
 
@@ -66,7 +64,6 @@ The epoxy spray is scrubbable and colorfast if you are concerned about fading an
 
 Cons: - None found
 
-> See Also: > Wagner Power Painter
 
 ###  [4. Spray Max 3680034 2K Epoxy rust cure aerosol](https://www.amazon.com/dp/B07CXPQ814/?tag=p-policy-20)
 

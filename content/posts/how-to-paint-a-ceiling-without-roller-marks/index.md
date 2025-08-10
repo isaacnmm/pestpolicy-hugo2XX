@@ -46,7 +46,6 @@ You can fill the damaged ceiling with putty or [sealant](https://www.amazon.com/
 
 Instead, the surface should be finished using fine cement plaster in the right ratio.
 
-> See Also: > Fixing Peeling Paint On Ceiling
 
 ###  c. Paint Selection and Preparation
 
@@ -68,7 +67,6 @@ Though some paint does not require priming when painting, porous/humid walls sho
 
 It would be best to allow the paint to dry (select fast-drying paint) before re-setting the tape.
 
-> See Also: > Paint Brushes for Oil Based Paint **3. Cut all corners with a paintbrush before rolling. ** Roller painting may not reach the corners sufficiently when painting. You will need to use a paintbrush to cut all corners and edges before you start roller-painting. Angled paintbrushes with tapered tips are best for edges, while round paintbrushes work excellent for paint application corners.
 
 When cutting corners, load your paint slightly and apply gentle force when painting to avoid dripping on the sidewalls wipe out immediately with soapy detergent or use paint remover. **4. Less paint load in roller** When loading your roller, use less paint to prevent roller marks on the ceiling excess paint leads to a thick layer, which drains or drips as the application occurs.
 
@@ -100,7 +98,6 @@ Spray the ceiling** The best method of eliminating roller marks is by use of a c
 
 Importantly, spray painting is faster and improves stickiness ability due to extra painting force from the sprayer.
 
-> See Also: > Brushes for Latex Paint
 
 ###  e. Paint finishing
 

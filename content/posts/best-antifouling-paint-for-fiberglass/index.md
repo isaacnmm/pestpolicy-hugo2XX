@@ -43,7 +43,6 @@ ft. per gallon - Durable (18 months) and comes with painting accessories.
 
 Cons: - Slightly longer drying time. - Cause eye and skin irritation on contact - It fatal when swallowed
 
-> See Also: > Paint Stripper for Wood
 
 ###  [2. Dicor RPFRC1 Fiberglass RV Roof Coating - #2 Pick](https://www.amazon.com/dp/B007TQI96K/?tag=p-policy-20)
 
@@ -61,7 +60,6 @@ ft. - Super bright and Impressive color arctic white - 100% acrylic resin coat -
 
 Cons: - Not suitable for EPDM Rubber or TPO roofing - Require dry surface application - Needs double coat for effective performance - Irritates eyes on contact
 
-> See Also: > Belt Sander for Deck
 
 ###  [3. Rust-Oleum 207012 Antifouling Flat Boat Paint Bottom - #3 Pick](https://www.amazon.com/dp/B000C0140S/?tag=p-policy-20)
 
@@ -81,7 +79,6 @@ ft. - Has abrasive resistant and instant action properties - Nice penetration in
 
 Cons: - Irritates the eyes on contact - Has no handle grip
 
-> See Also: > Stain for Swing Set
 
 ###  [4. Interlux YBB379/1 Fiberglass Bottomkote NT Antifouling Paint](https://www.amazon.com/dp/B0053HQPZY/?tag=p-policy-20)
 
@@ -101,7 +98,6 @@ Notably, Interlux can be used in both salty and freshwater environments without 
 
 Cons: - Slightly expensive - Dont kill algae decontamination is needed. - Limited variety of colors
 
-> See Also: > Paint Stripper for Metal
 
 ###  [5. Sea Hawk 2145GL Tropikote Black Gl](https://www.amazon.com/dp/B002IV3H0E/?tag=p-policy-20)
 
@@ -125,7 +121,6 @@ Pros: - Contain super active cuprous oxide ingredients 75% - Perfect viscosity a
 
 Cons: - Slightly expensive - Irritates the eyes on contact - Needs dilution on some materials
 
-> See Also: > Deck Stain for Weathered Wood
 
 ###  [6. Rust-Oleum Fiberglass Pint 207000 Topside Paint](https://www.amazon.com/dp/B000BZX092/?tag=p-policy-20)
 
@@ -141,13 +136,11 @@ Importantly, Rust-oleum 207000 delivers the best performance when used on fiberg
 
 Remember, two-layer paintings (2 nd one after a week) can give you extra service life on your fiberglass. Normally, wet areas are affected since excess moisture favors the growth of algae, weeds, slime, barnacles, and zebra mussels, which reduces the quality and overall impression of your item.
 
-See Also: Best Deck Stain for Pressure Treated Wood Pros: - Best performance on fiberglass, metal, or wooden items - Great abrasion and weather resistance - Has excellent leveling and UV rays protection - Flexible oil-based formula - Fast-drying- 1 to 2 hours - Beautiful semi-gloss white color - Covers relative large painted surface- 100 sq.
 
 ft. per can - Durable and long-lasting thin coating scratch resistant - Improved gloss retention and direct application - Excellent color retention no chipping or peeling - Has strong bio-active alkyd
 
 Cons: - Highly flammable be kept away from fire. - Not for use below the waterline in boats/yacht - Has not to handle grip
 
-> See Also: > [Deck Cleaner for Trex](https://pestpolicy.com/best-deck-cleaner-for-trex/)
 
 ###  [7. Interlux Y5693/QT Black Micron Extra Antifouling Paint](https://www.amazon.com/dp/B001HX6JQ8/?tag=p-policy-20)
 
@@ -169,7 +162,6 @@ Pros: - Extra-large quantity 3.
 
 Cons: - Limited colors - Slightly expensive
 
-> See Also: > [Deck Sealer for Pressure Treated Wood](https://pestpolicy.com/best-deck-sealer-for-pressure-treated-wood/)
 
 ##  Conclusion
 

@@ -32,7 +32,6 @@ Pros: - High precision performance - Easy to clean - Extremely durable
 
 Cons: - Expensively priced
 
-> See Also: > Remove Soot from Walls
 
 ###  [2. Titan Control Max 1700 Pro Airless Sprayer](https://www.amazon.com/dp/B06X3YNP1N/?tag=p-policy-20)
 
@@ -62,7 +61,6 @@ paint container - Lasting performance
 
 Cons: - None found
 
-> See Also: > Painters Tape for Textured Walls
 
 ###  [4. Titan XT250 Paint Sprayer](https://www.amazon.com/dp/B008G7SYHU/?tag=p-policy-20)
 
@@ -76,7 +74,6 @@ An adjustable knob allows you to achieve higher precision on smaller jobs by low
 
 Cons: - Runs the risk of overspray
 
-> See Also: > Sanding Walls before Painting
 
 ###  [5. REXBETI ultimate 750 paint sprayer 500watt electric HVLP sprayer](https://www.amazon.com/dp/B07DLR5FK2/?tag=p-policy-20)
 
@@ -90,7 +87,6 @@ The electrical code spans 6 feet long, hence delivering enough flexibility to mo
 
 Cons: - Below-average performance for larger projects
 
-> See Also: > Paint Roller Cover for Interior Walls
 
 ###  [6. Wagner FLEXIO 890 Stationary Sprayer](https://www.amazon.com/dp/B00IA8EVIQ/?tag=p-policy-20)
 
@@ -104,7 +100,6 @@ This sprayer guarantees you an output of 8. 4 gal. /hr and coverage of 810 inche
 
 Cons: - Relatively bulky
 
-> See Also: > Paint for Concrete Walls in Basement
 
 ##  Conclusion
 

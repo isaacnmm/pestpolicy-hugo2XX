@@ -34,7 +34,6 @@ Pros: - It is durable - Offers you variety - UV light resistant - Weather-resist
 
 Cons: - Has odor.
 
-> See Also: > [Non-skid paints for aluminum boats](https://pestpolicy.com/non-skid-paint-for-aluminum-boats/)
 
 ###  [2. TUFF Coat UT-100 Non-Skid Coating](https://www.amazon.com/dp/B018MX1GHM/?tag=p-policy-20)
 
@@ -50,7 +49,6 @@ Pros: - Durable - Water-resistant - Applied on multiple surfaces - It is water-b
 
 Cons: - Needs two coats
 
-> See Also: > Painting a Metal Building
 
 ###  [3. Total Boat Aluminum Boat Paint](https://www.amazon.com/dp/B076VS71W6/?tag=p-policy-20)
 
@@ -64,7 +62,6 @@ Besides, this paint is durable with resistance to UV light and chemicals, and yo
 
 Cons: - Only applied on aluminum surfaces
 
-> See Also: > [Boat Bottom Paint for Speed](https://pestpolicy.com/best-boat-bottom-paint-for-speed/)
 
 ###  [4. Majic Paints 8-0850-2 Camouflage Paint](https://www.amazon.com/dp/B000Z51JRS/?tag=p-policy-20)
 
@@ -76,7 +73,6 @@ It is important to note that this paint takes longer to dry, and a lot of patien
 
 Cons: - Prone to scratching
 
-> See Also: > Paint for Metal Garage Door
 
 ###  [5. TotalBoat Aluminum Boat Barrier Coat](https://www.amazon.com/dp/B06X197WTM/?tag=p-policy-20)
 
@@ -90,7 +86,6 @@ This coat is easy to use and has strong adhesion of surface, and only one quart 
 
 Cons: - Not easy to clean surface
 
-> See Also: > [Paint for Fiberglass Boats](https://pestpolicy.com/best-paint-for-fiberglass-boats/)
 
 ###  [6. RUST-OLEUM 8781502 Gray Primer](https://www.amazon.com/dp/B000C018C2/?tag=p-policy-20)
 
@@ -104,7 +99,6 @@ The primer is also a firm adherent on old paints and can be conveniently used in
 
 Cons: - Hard to tell its durability
 
-> See Also: > Painting your Fiberglass Boat
 
 ###  [7. Hunters Specialties Liquid Paint](https://www.amazon.com/dp/B003V40N4K/?tag=p-policy-20)
 
@@ -116,7 +110,6 @@ Apart from the aluminum boats, this paint can be used also on vehicles to transf
 
 Cons: - Hardens the surface easily
 
-> See Also: > Removing rust from large metal objects
 
 ##  Conclusion
 

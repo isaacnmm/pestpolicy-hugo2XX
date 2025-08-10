@@ -31,7 +31,6 @@ This is a very important step in the sense that you have made the choice of how 
 
 Another advantage of popcorn is that they are sound-proof and also good at hiding imperfections. Choosing a sprayer or a roller is something that needs consideration. 1. An adjustable step ladder 2. Utility knife 3. A 9-inch roller frame 4. inch roller covers 5. Rolls of masking tape 6. Extension pole 7. Painters brush 8. Drop cloth 9. Respirator 10. Googles Also, get to paint-preferably flat white ceiling paint. A sprayer-if is available.
 
-> See Also: > [Painting A Ceiling Without Roller Marks](https://pestpolicy.com/how-to-paint-a-ceiling-without-roller-marks/)
 
 ###  Step 3: Surface/site Preparation
 
@@ -63,7 +62,6 @@ Wait for at least 30 minutes before you can apply the second coat.
 
 In the second coat, roll the paint in the opposite direction, this will help you achieved a well-covered surface. Do not forget to observe a 50% overlap to achieve full coverage. Repeat this for the third and the fourth coat if the popcorn was in a bad condition until you get that professional finish. Take your time after you are done to check if there are any imperfections so that you can work on them before cleaning up your tool.
 
-> See Also: > [Paint for Bathroom Ceiling to Prevent Mold](https://pestpolicy.com/best-paint-for-bathroom-ceiling-to-prevent-mold/)
 
 ###  Step 7: Cleaning Up the Work Station
 

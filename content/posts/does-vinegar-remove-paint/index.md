@@ -18,7 +18,6 @@ So, does [vinegar](https://pestpolicy.com/does-vinegar-kill-bed-bugs/)remove pai
 
 Vinegar is an effective, yet cheap and eco-friendly method to remove stuck-on and dried/ stubborn paints from surfaces such as metal windows or concrete walls without releasing toxic fumes or chemicals. Besides, lemon juice, Vinegar, plus cola will also help remove rust from various light surfaces like the driveways. Also, vinegar is a natural wall's degreaser and luckily its residue doesn't harm the surfaces once painted.
 
-> See Also: > Deck stains for pressure-treated wood >.
 
 ##  Does Vinegar Remove Paint? 7 Key Tips
 
@@ -38,7 +37,6 @@ Next, it's now time to dab your vinegar onto your stubborn dried paint.
 
 Next, we do the ultimate paint removal using your heated vinegar. So, use the vinegar swab and cover the identified paint using the warm vinegar. Allow the soaked paint to sit as it melts down for about 10 minutes to about 15 minutes. The warm vinegar will easily soak your identified paint for the time allowed to sit working its magic. However, if after the process, the paint is still sticking - you can now a hotel vinegar reapplication.
 
-See Also: best paint stripper for wood.
 
 ###  4. Finally, Scrape off your Paint
 

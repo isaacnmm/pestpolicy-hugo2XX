@@ -47,7 +47,6 @@ Caution, avoid sanding the large ridges and gouges - just trowel an additional j
 
 Next, you'll just use an additional joint compound to fill up the grooves - the large ridges and grooves - and hence you won't require to sand the surfaces.
 
-> See Also: > Deck Stain for Wood
 
 ##  Step 4: Touch up Problematic spots
 

@@ -32,7 +32,6 @@ It takes about 1-2 hours to dry-up and in case of a second coat, you can apply i
 
 Cons: - Does not work on the exterior surface
 
-> See Also: > Sealing pressure-treated wood deckeck
 
 ###  [2. Defy Extreme Wood [Stain](https://pestpolicy.com/best-stain-for-red-oak-floors/)Natural Pine, 1-gallon](https://www.amazon.com/dp/B0062CWRHO/?tag=p-policy-20)
 
@@ -48,7 +47,6 @@ Pros: - It is safe for the environment - Its UV light-resistant - Can be used bo
 
 Cons: - None found
 
-> See Also: > Staining pressure-treated wood deck
 
 ###  [3. Minwax 710730000 Wood Pine Finish](https://www.amazon.com/dp/B000GLG7XC/?tag=p-policy-20)
 
@@ -60,7 +58,6 @@ Its application is easy and takes approximately 3 hours to dry and ready to touc
 
 Cons: - Not preferred for exterior surfaces
 
-> See Also: > Paint-removing pressure washer
 
 ###  [4. Ready Seal 510 Exterior Stain & Sealer, 5-Gallon](https://www.amazon.com/dp/B00EIVX96Y/?tag=p-policy-20)
 
@@ -74,7 +71,6 @@ Pros: - Has resistance against UV light - Combine primer and a sealer - It is wa
 
 Cons: - covers little space
 
-> See Also: > [Staining your Wooden Playset](https://pestpolicy.com/best-stain-for-swing-set/)
 
 ###  [5. General Finishes Oil Based Gel Stain, New Pine](https://www.amazon.com/dp/B001D80H42/?tag=p-policy-20)
 
@@ -86,7 +82,6 @@ You have the opportunity to choose the color of your choice from the many option
 
 Cons: - Sanding is necessary - Takes a long time to dry
 
-> See Also: > Refinishing the Deck
 
 ###  [6. Varathane 262012 Premium Fast Dry Stain, Quart](https://www.amazon.com/dp/B00SJH2LJ4/?tag=p-policy-20)
 
@@ -100,7 +95,6 @@ The coverage of this paint is amazing with just one quart covering 275 square ft
 
 Cons: - Needs sanding
 
-> See Also: > Composite Decking Worth It >?
 
 ###  [7. Minwax 61310444 PolyShades, Stain & Polyurethane](https://www.amazon.com/dp/B000VZP6IA/?tag=p-policy-20)
 
@@ -116,7 +110,6 @@ Pros: - Good for interior furniture - Can be applied on top of other polyurethan
 
 Cons: - Has sticky nature
 
-> See Also: > Deck Stain Sprayer
 
 ##  Conclusion
 

@@ -102,7 +102,6 @@ Durability and final impression needed 11. Ease of preparation 12. Safety associ
 
 Folk Art is an assorted acrylic paint that comes in classic colors, which glitters upon application. The paint integrates quick-action formulation and super active ingredients that work best for most surfaces. Besides, Fold Art is heavily loaded and agitated to give a smooth application process and excellent elastic properties for uniform surface cover. Notably, Folk Art is long-lasting and economical.
 
-> See Also: > [Removing Acrylic Paint from Canvas](https://pestpolicy.com/how-to-remove-acrylic-paint-from-canvas/)
 
 ####  [b. Sargent Art, Gold Liquid Metal Acrylic Paint](https://www.amazon.com/dp/B003U45NG4/?tag=p-policy-20)
 

@@ -32,7 +32,6 @@ Pros: - Fast drying - Easy clean-up - Good adhesion and[zinc-rich paint](https:/
 
 Cons: - Cannot be used on galvanized metals
 
-> See Also: > [Exterior Primer Paint](https://pestpolicy.com/best-exterior-primer-paint/)
 
 ###  [2. Seymour 16-1445 Cold Galvanized Spray Paint](https://www.amazon.com/dp/B000AYHJQE/?tag=p-policy-20)
 
@@ -44,7 +43,6 @@ Alternatively, the paint coating has high levels of solid renin and is water-bor
 
 Cons: - It irritates skin and eyes
 
-> See Also: > Prevent Paint Chipping from Metal
 
 ###  [3. CRC Zinc-It Cold Galvanize Spray Paint, 18412CS](https://www.amazon.com/dp/B000CCMLEY/?tag=p-policy-20)
 
@@ -76,7 +74,6 @@ Pros: - Works at a different temperature range - Easy to apply - Good coverage -
 
 Cons: - Irritates skin and eyes
 
-> See Also: > Paint your Metal Doors
 
 ###  [5. Crown-7007G Cold Galvanize Coating, 1 gallon](https://www.amazon.com/dp/B001HWDRMS/?tag=p-policy-20)
 
@@ -90,7 +87,6 @@ Alternatively, this paint is easy to apply and you can apply this paint using a 
 
 Cons: - It highly flammable
 
-> See Also: > Removing Paint from Metal Railing
 
 ###  [6. Seymour 16-842 Galvanized Spray Paint](https://www.amazon.com/dp/B0088LVLEC/?tag=p-policy-20)
 
@@ -104,7 +100,6 @@ The paint has met all the certification of a VOC compliant and is duly certified
 
 Cons: - It extremely flammable
 
-> See Also: > Rustoleum galvanized metal primer
 
 ###  [7. Rust-Oleum Cold Galvanizing Compound, Gray, 1 qt.](https://www.amazon.com/dp/B000LERGSO/?tag=p-policy-20)
 
@@ -118,7 +113,6 @@ Pros: - Durable - Fast drying - Has good coverage - Has strong adhesion - Easy t
 
 Cons: - Its expensive
 
-> See Also: > Rusted Metal Primer
 
 ##  Conclusion
 

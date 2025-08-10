@@ -36,7 +36,6 @@ Pros: - Multi-purpose - Copper-coated ferrule - Smooth bristles - Durable - Can 
 
 Cons: - Expensive
 
-> See Also: > Wood Deck Sealer
 
 ###  [2. Wooster-Q3211-2 Angle Sash Paint Brush](https://www.amazon.com/dp/B002YC06T2/?tag=p-policy-20)
 
@@ -50,7 +49,6 @@ The Wooster-Q3211-2 brush will offer a smooth and professional outlook with no l
 
 Cons: - Too short handle
 
-> See Also: > Painting the Deck with Peeling Paint
 
 ###  [3. Pro-Grade -4 set Paint Brushes](https://www.amazon.com/dp/B07Z88T8B1/?tag=p-policy-20)
 
@@ -64,7 +62,6 @@ They also have ferrule designed with stainless steel and firmly hold the bristle
 
 Cons: - Bristles shed more often.
 
-> See Also: > Ladder for Painting 2 Story House
 
 ###  [4. Purdy-144080515 Sash Paint Brush-XL](https://www.amazon.com/dp/B008GKJLVA/?tag=p-policy-20)
 
@@ -78,7 +75,6 @@ Pros: - Durable - Used on all kinds of paints - Stainless-steel ferrule - Natura
 
 Cons: - None found
 
-> See Also: > Paint Roller to Hide Imperfections
 
 ###  [5. Presa-Premium 5 Piece-set Paint Brushes](https://www.amazon.com/dp/B011ARI5IU/?tag=p-policy-20)
 
@@ -92,7 +88,6 @@ Pros: - SRT bristles - Durable - Easy to clean bristles - Absorbent bristles up 
 
 Cons: - Bristles separate when painting. - Largely forinterior painting
 
-> See Also: > Pressure-Treated Wood Stain
 
 ###  [6. Hiltex-00308 5-Piece Paint Brush](https://www.amazon.com/dp/B000PQTYTC/?tag=p-policy-20)
 
@@ -104,7 +99,6 @@ All the Hiltex-00308 are designed with wooden ergonomically shaped handles and a
 
 Cons: - Bristles wear off quickly.
 
-> See Also: > High-Quality Fence Paints
 
 ###  [7. Purdy-144116030 Angular-3 inch Trim Paint Brush](https://www.amazon.com/dp/B00002N8YE/?tag=p-policy-20)
 
@@ -118,7 +112,6 @@ Pros: - Wooden flat and natural handle - suitbale forpainting walls and ceiling 
 
 Cons: - Expensive
 
-See Also: Suitable Paint Colors for Beige Tile
 
 ##  Conclusion
 

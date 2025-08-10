@@ -58,7 +58,6 @@ The device's motor and suction assembly is very advanced and hence will produce 
 
 The paint is excellent for ceiling, walls, and floor - with excellent precision and speed. The sprayer's paint cup will hold 1000ML - plus its multi-size nozzle allows faster spraying with suitable pressure and flow rate. The cup-holder is detachable, refillable, and reusable fast.
 
-> See Also: > Best fence paints Pros: - Suitable for viscous paints (70DIN-S) - Has a flexible handle plus the compact build - It is an HVLP-technology sprayer - Powerful motor - produces 500W - Gereat for small and large projects with the paint flowrate being adjustable
 
 Cons: - Remote suction not available
 

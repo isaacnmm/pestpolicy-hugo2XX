@@ -54,7 +54,6 @@ The degree and quantity of use are self-determined according to removal action r
 
 During the process of mineral spirits application, it's recommended that you follow some of the precautions highlighted below: - Avoiding applying mineral spirits near the fireplace flammable - Cover your mouth and nose adequately during application to avoid irritation and chocking - Use mineral spirit for paint removal upon recommended surfaces and paints only - Hand gloves must be won to protect skin from burns or scars in case of contact If you touch mineral spirits accidentally, wash the affected area with plenty of cold water immediately.
 
-> See Also: > Deck Sealer for Pressure Treated Wood
 
 ###  d. Areas to Avoid using Mineral Spirit in Paint Removal
 
@@ -110,7 +109,6 @@ Turpentine is a universal thinning solvent that is extracted from pine tree sap 
 
 You can use turpentine for either of the following purposes: - Degreasing automobile parts - Cleaning tubs and paint thinning - Cleaning painting tools e. g. , paintbrush - Removing gum, stickers, and other adhesive However, turpentine is highly flammable and comes with a strong pungent smell that makes it less popular as compared to mineral spirits. Therefore, great precautions should be taken into place during application.
 
-> See Also: > [Automotive Paint Gun for Beginners](https://pestpolicy.com/best-automotive-paint-gun-for-beginners/)
 
 ##  Conclusion
 

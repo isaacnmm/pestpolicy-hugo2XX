@@ -32,7 +32,6 @@ A re-coat time of 4 hours and a cure time of 72 hours is all you need to get bac
 
 Cons: - None found
 
-> See Also: > Primers for Rusted Metal
 
 ###  [2. Rust-Oleum rust preventive Caliper Paint](https://www.amazon.com/dp/B006ZLRBBO/?tag=p-policy-20)
 
@@ -48,7 +47,6 @@ Additionally, this paint provides excellent value for money by providing excelle
 
 Cons: - Some color variants differ from what is advertised
 
-> See Also: > Rustoleum Rust Reformer
 
 ###  [3. VHT SP73 red brake caliper aerosol paint](https://www.amazon.com/dp/B000CPJLVC/?tag=p-policy-20)
 
@@ -66,7 +64,6 @@ This caliper paint cures in merely 30 minutes, making it the perfect pick for mo
 
 Cons: - None
 
-> See Also: > Rustoleum galvanized metal primer
 
 ###  [4. Hycote Caliper High Gloss paint](https://www.amazon.co.uk/dp/B004SMNF76/?tag=p-policy-20)
 
@@ -80,7 +77,6 @@ The manufacturer utilizes the highest scientific standards passed through qualit
 
 Cons: - Only comes in two color variants
 
-> See Also: > Concrete Rust Remover
 
 ###  [5. Brake Caliper Lacquer Set](https://www.amazon.co.uk/dp/B07B9S5GKT/?tag=p-policy-20)
 
@@ -94,7 +90,6 @@ Pros: - Glossy finish - Fully integrated paint kit - Oil and chemical resistant
 
 Cons: - None found
 
-> See Also: > Removing Latex Paint from Metal
 
 ###  [6. E-Tech Brake Caliper Paint Kit](https://www.amazon.co.uk/dp/B01BMVBF8Q/?tag=p-policy-20)
 
@@ -124,7 +119,6 @@ Coming in a range of 11 attractive colors featuring standard, high gloss and wat
 
 Cons: - Relatively expensive
 
-> See Also: > [Spray Paint for Metal](https://pestpolicy.com/best-spray-paint-for-metal/)
 
 ##  Conclusion
 

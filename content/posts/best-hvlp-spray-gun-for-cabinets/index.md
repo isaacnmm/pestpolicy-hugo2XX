@@ -32,7 +32,6 @@ Pros: - It is lightweight - Has adjustable control knob - Durable - Can spray al
 
 Cons: - Susceptible to rust
 
-> See Also: > Staining a Pressure Treated Wood
 
 ###  [2. Earlex-HV5500 HVLP Gun Sprayer](https://www.amazon.com/dp/B004RGOKR2/?tag=p-policy-20)
 
@@ -48,7 +47,6 @@ Pros: - Lightweight - 13ft hose pipe - Can change spray patterns - Fast - Power 
 
 Cons: - Expensive
 
-> See Also: > [Deck Sealer for Pressure Treated Wood](https://pestpolicy.com/best-deck-sealer-for-pressure-treated-wood/)
 
 ###  [3. TCP Global Professional HVLP Spray Gun](https://www.amazon.com/dp/B001OZMOV8/?tag=p-policy-20)
 
@@ -60,7 +58,6 @@ Additionally, this sprayer comes with an air regulator and a 1-liter cap made of
 
 Cons: - Comes with a 1. 4mm tip only.
 
-> See Also: > [Deck Stain for Pressure Treated Wood](https://pestpolicy.com/best-deck-stain-for-pressure-treated-wood/)
 
 ###  [4. Wagner Spraytech 0518080 HVLP Paint and Stain Sprayer](https://www.amazon.com/dp/B003PGQI48/?tag=p-policy-20)
 
@@ -90,7 +87,6 @@ Lastly, the sprayer comes with a two-year guarantee giving you buying confidence
 
 Cons: - Not suitable for latex paints.
 
-> See Also: > Pressure Washer for Paint Removal
 
 ###  [6. Wagner Spraytech-0417005 HVLP Spray Stain Sprayer](https://www.amazon.com/dp/B000DZBP60/?tag=p-policy-20)
 

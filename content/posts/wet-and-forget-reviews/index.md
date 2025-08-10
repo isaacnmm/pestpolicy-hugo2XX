@@ -48,7 +48,6 @@ Therefore, with just some limited rainfall, the Wet & Forget-applied surfaces wi
 
 Cons: - Could require a second spraying for better outcomes
 
-> See Also: > Walk Behind Concrete Grinder
 
 ###  3. Lichen stain Removal with Wet & Forget s
 
@@ -62,7 +61,6 @@ Consider the materials; the stain remover - Wet and Forget - will work well on [
 
 For mold that's grown on the roof, you may use other products to effectively scrub the shingles to remove the mold with excellent cleaning power effectively. Compared to various roof-cleaning substances with a harsh ingredient, this stain remover is non-caustic, non-acidic, and beach-free.
 
-> See Also: > How to Paint a Stairwell However, the stain remover will work slowly, and thus you could require some re-application within the month - particularly for tough stains.
 
 ##  How Safe isWet & Forget?
 

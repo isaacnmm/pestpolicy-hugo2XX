@@ -34,7 +34,6 @@ Using a paintbrush or a roller, apply the paint stripper. 5. Allow the paint str
 
 Finally, clean the surface with soapy water and aconcrete deck brushto remove traces of paint stripper from the surface. 10. Leave the concrete surface to dry naturally. NB: Paint stripper contains methylene chlorine (a toxic chemical), which is burns skin or irritates the respiratory system when inhaled.
 
-> See Also: > How to Paint Concrete
 
 ###  b. Absorbent Paint Stripper
 
@@ -70,7 +69,6 @@ The chemical works by breaking the paint compound into liquid form that more com
 
 - Clean the surface with soapy detergent and water to remove traces of TSP - Rinse the concrete with water and leave it to dry naturally NB: TSP is poisonous and should be handled with care inhaling TSP will irritate your nasal cavity and cause skin irritation. More so, TSP is outlawed in some countries.
 
-> See Also: > [Removing Spray Paint from Concrete](https://pestpolicy.com/how-to-remove-spray-paint-from-concrete/)
 
 ##  What are Homemade Methods of Paint Removal from Concrete
 

@@ -76,7 +76,6 @@ Pros: - Non-odor - Long-lasting - Fast drying - Water-based - No priming and san
 
 Cons: - None found
 
-> See Also: > Chalk Paint for Kitchen Cabinets
 
 ###  [5. Rust-Oleum 302593 Series Chalked Ultra Matte Spray Paint](https://www.amazon.com/dp/B01JB78BV2/?tag=p-policy-20)
 

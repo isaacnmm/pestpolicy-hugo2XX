@@ -52,7 +52,6 @@ Unlike other paints, Rubberseal expands and contracts along the substrate withou
 
 Cons: - The quantity could be more for commercial use. - May cause eye irritation upon contact
 
-> See Also: > Paint for Metal Garage Door
 
 ###  [3. INSL-X AMW100009A-01 Acrylic Waterproofer Paint](https://www.amazon.com/dp/B07KXN7XSY/?tag=p-policy-20)
 
@@ -68,7 +67,6 @@ You can use INSL-X in an environment whose temperature range 50 (10 C) and 90 F 
 
 Cons: - Comes in limited colors - Not best for driveways
 
-> See Also: > Wood Paint Stripper
 
 ###  [4. KILZ Interior/Exterior Self-Priming Paint](https://www.amazon.com/dp/B06Y142YK6/?tag=p-policy-20)
 
@@ -84,7 +82,6 @@ Moreover, the solvent comes with self-priming properties that work effectively f
 
 Cons: - Requires surface preparation - Comes in gray color only
 
-> See Also: > Spray Paint for Metal
 
 ###  [5. RUST-OLEUM 5024 Watertite Latex](https://www.amazon.com/dp/B0070RF8LC/?tag=p-policy-20)
 
@@ -102,7 +99,6 @@ NB: RUST-OLEUM 5024 is water-based latex regular paints (easier to prepare) and 
 
 Cons: - The quantity could be more. - Comes in limited colors - Portability could be better no handle.
 
-> See Also: > Paint Brushes for Edging
 
 ###  [6. Zinsser- Perma Mildew-Proof Satin Paint](https://www.amazon.com/dp/B000BZX7HM/?tag=p-policy-20)
 
@@ -118,7 +114,6 @@ Indeed, Zinsser- Perma forms a dirt and moisture resistant film that creates an 
 
 Cons: - Comes in only white color only - Doesnt come with a handleless portable - The fumes may irritate your nasal cavity.
 
-> See Also: > Primer for Kitchen Cabinets
 
 ###  [7. THOMPSONS WATERSEAL TH.043851-16 Paint](https://www.amazon.com/dp/B00IKVLWPI/?tag=p-policy-20)
 

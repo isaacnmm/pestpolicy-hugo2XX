@@ -56,7 +56,6 @@ They are helpful in spraying the lacquer or interior wood stains.
 
 Great finishing is required for marine vessels since the coating offers great corrosion-protection - while also aiding the boat's aesthetic appeal. These HVLP guns will work great for wooden and metal surfaces - offering great covering for the various surfaces - get great coverage and cut overspray.
 
-> See Also: > Commercial Paint Sprayers So, for various watercraft including boats refinishing, the HVLP guns are as great as in automotive spraying - it's excellent for waterproofing.
 
 Further, the HVLP guns ensure that the vessel's finishing is entirely smooth and hence eases corrosion. The sprayers are great in auto refinishing with primers, clear coats, and paints.
 

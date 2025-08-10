@@ -28,7 +28,6 @@ Wear protective gear during paint application for your own personal safety. To g
 
 - Put on protective gear gloves, overalls, safety goggles, respirator, andboots for your own safety purposes - Pour the paint into an empty bucket gently - Thin the paint sufficiently as per the manufacturers instructions. Well thinned paint should flow smoothly without stopping when run on a gently inclined surface - Stir the paint solvent to attain a uniform compound
 
-> See Also: > Pump Sprayers for Staining Fences
 
 ###  b. Set and Test the Sprayer Settings
 

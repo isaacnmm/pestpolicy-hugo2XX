@@ -40,7 +40,6 @@ You can manually dilute the alcohol using distilled/clean water or purchase the 
 
 Denatured alcohol is best used in mild paint removal, cleaning agent examinator, solvent for various bleaching agents as well as the sanding aid. On the other and, Isotropic Alcohol can be used in dense paint removal due to its high alkanol concentration index. In each of these, direct application on the painted surfaces such as vehicle body parts, furniture, rooftops, walls, containers, and floors work excellently in removing paint.
 
-> See Also: > Sprayer for Latex Paint
 
 ###  d. Type of paint removed
 

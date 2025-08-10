@@ -102,7 +102,6 @@ com/topics/chemistry/sandblasting).
 
 Coating metal surface with paint is the best way of preventing rust since paint eliminates direct moisture from the metal surface. The paint selected metal coating should be matched with the prevailing environmental condition oil-based paint should be used to coat outdoor metals, while water-based paint should be sued to coated indoor metal structures. Metal should be painted when dry to prevent peeling or scuffing due to moisture content.
 
-See Also: [Removing Paint from Metal Railing](https://pestpolicy.com/how-to-remove-paint-from-metal-railing/).
 
 ###  c. Alloying
 
@@ -120,7 +119,6 @@ In this method, a highly reactive metal is connected to a lowly reactive metal (
 
 This method is suitable for metal pipes and containers that are used in wet areas.
 
-> See Also: > Keep Spray Paint from Chipping off Metal
 
 ##  Precautions and Safety Measures to Consider When Removing Rust from Metal
 

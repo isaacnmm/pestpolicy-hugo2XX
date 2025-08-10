@@ -36,7 +36,6 @@ Pros: - Lightweight and durable - Simple set-up design and sturdy support frame 
 
 Cons: - Not suitable for painting high heights - Limited roll length
 
-> See Also: > Valspar Cabinet Paint
 
 ###  [2. Wooster Brush R975-9 Painter's Choice Roller 9-Inch and 3/8-Inch](https://www.amazon.com/dp/B000I1VDBG/?tag=p-policy-20)
 
@@ -50,7 +49,6 @@ Pros: - A robust stainless steel framework - Threaded plastic handle and smooth 
 
 Cons: - Short handle not for high walls - Roll covers could be more
 
-> See Also: > Paint Sprayer for Doors
 
 ###  [3. Purdy Jumbo Mini Ultra Finish Roller](https://www.amazon.com/dp/B00F299MMG/?tag=p-policy-20)
 
@@ -66,7 +64,6 @@ Pros: - Strong Stainless steel frame construction - Premium woven microfiber and
 
 Cons: - Dont come with a paint tray. - Has short handle
 
-> See Also: > Primer for Rusted Metal
 
 ###  [4. STANLEY PTST03508 8 Piece Paint Roller](https://www.amazon.com/dp/B00IJGYDKA/?tag=p-policy-20)
 
@@ -82,7 +79,6 @@ Pros: - The high capacity polyester roller cover - Rigid plastic tray (clean) an
 
 Cons: - Limited handle sizes - Comes in a few colors - Roller fastener could be stronger
 
-> See Also: > Paint Roller Cover for Interior Walls
 
 ###  [5. Bates Paint Roller - House-Painting Tray](https://www.amazon.com/dp/B01MRTEOHI/?tag=p-policy-20)
 

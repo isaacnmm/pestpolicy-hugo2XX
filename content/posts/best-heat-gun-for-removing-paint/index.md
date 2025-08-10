@@ -36,7 +36,6 @@ More so, the product comes with a sturdy cord that has self-hardened insulation 
 
 This heat gun's entire package is self in a hard plastic kit box with a comfortable handle grip for easier portability. Importantly, the versatile product comes with high quality, 12 common paint removal accessories, which can fit in different shapes of various surfaces under paint removal.
 
-See Also: Paint Stripper for Wood Pros: - Comfortable and simple handle grip - Top-quality LCD display and durable casing - Wide temperature range- from 150 F to 1100 F - Overload heat protection shut element inbuilt & quick-acting - Lightweight (2. 3 pounds) and simple to operate - High-quality heat removal elements 12 common accessories - Highly portable (has nice kit box grip handle) and heavy-duty cord.
 
 - Manual temperature adjusting mode- 50F range - Simple and stable kickstand - Suitable for both heavy and light duties - Comes with a manual guide and storage built-inch hanging ring
 
@@ -56,7 +55,6 @@ Notably, the lightweight heat gun (0. 9 kg) comes with a relatively long power c
 
 Cons: - Needs special nozzle handling when hot
 
-> See Also: > Automotive HVLP Spray Gun
 
 ###  [3. Wagner 0503059 FURNO 300 Heat Gun - #3 Pick](https://www.amazon.com/dp/B01M020KO1/?tag=p-policy-20)
 
@@ -74,7 +72,6 @@ Pros: - Powerful Furno 300 heat gun 1200W - Lightweight and nice ergonomic desig
 
 Cons: - Addition accessories bought separately. - Not best for large projects paint removal
 
-> See Also: > Differences between Painting Vs. Staining Deck
 
 ###  [4. Mowis 1800W Heavy Duty Hot Air Shrink Heat Gun](https://www.amazon.com/dp/B07J5X5MZP/?tag=p-policy-20)
 
@@ -96,7 +93,6 @@ Pros: - Powerful 1800W heat gun - 100% safe has heat guard protectors - Wide ran
 
 Cons: - Unsuitable for very large paint removal project
 
-> See Also: > What's the best belt sander for deck >.
 
 ###  [5. TECCPO 1500W Professional Electric Hot Air Heat Gun](https://www.amazon.com/dp/B07TJFDQHF/?tag=p-policy-20)
 
@@ -138,7 +134,6 @@ Indeed, the heat gun comes with a long power cord (6. 5 feet) that gives you a m
 
 Cons: - Other accessories are bought separately. - Has no kickstand
 
-> See Also: > [Automotive Paint Gun for Beginners](https://pestpolicy.com/best-automotive-paint-gun-for-beginners/)
 
 ###  [7. Wagner 0503049 HT4500 Heat Gun](https://www.amazon.com/dp/B01BVEI40Q/?tag=p-policy-20)
 

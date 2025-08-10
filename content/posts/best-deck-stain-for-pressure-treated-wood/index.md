@@ -34,7 +34,6 @@ Pros: - Seals or fills cracks to prevent unavoidable water infiltration. - It is
 
 Cons: - Some users consider it to be too thick
 
-> See Also: > Semi-Transparent Deck stain
 
 ###  [2. Valspar Semi-Solid Cabot Stain Oil-Based for Siding and Deck](https://www.amazon.com/dp/B002MADHWE/?tag=p-policy-20)
 
@@ -50,7 +49,6 @@ Valspar Semi-Solid, being a semi-solid and oil-based stain, creates a rich color
 
 Cons: - Comes in just one color - Not cheap
 
-See Also: Painting Vs. Staining Deck
 
 ###  [3. DEFY-Extreme Wood Stain for Exterior Stain (Semi-Transparent)](https://www.amazon.com/dp/B00CQNWO8K/?tag=p-policy-20)
 

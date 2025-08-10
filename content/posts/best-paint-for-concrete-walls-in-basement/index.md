@@ -34,7 +34,6 @@ Pros: - Easy to clean - Works on the floor and wall - Delivers a clean fine fini
 
 Cons: - None
 
-> See Also: > Great Way to Remove Paint from Concrete
 
 ###  [2. INSL-X AMW100009A-01 WaterBlock Acrylic Masonry Waterproofer Paint](https://www.amazon.com/dp/B07KXN7XSY/?tag=p-policy-20)
 
@@ -46,7 +45,6 @@ The phosphates cause the growth of many algae - this endangers aqua life - leadi
 
 Cons: - Not very good on floors
 
-> See Also: > Pressure Treated Wood Be Sealed
 
 ###  [3. The Spruce Best Home by KILZ 15125501](https://www.amazon.com/dp/B07QFYNVC3/?tag=p-policy-20)
 
@@ -64,7 +62,6 @@ And its application is easy since all you have to use is a roller, brush, or, mo
 
 Cons: - Not suitable for the floor
 
-> See Also: > Stain Pressure Treated Wood
 
 ###  [4. INSL-X SU092209A-01 Sure Step Acrylic Anti-Slip Coating Paint](https://www.amazon.com/dp/B07KXND9SX/?tag=p-policy-20)
 
@@ -82,7 +79,6 @@ That aside, you get a clear coat that serves as a stand-alone finish. The surfac
 
 Cons: - Unsuitable for immersion service
 
-> See Also: > Get Paint off Laminate Floor
 
 ###  [5. KILZ Interior/Exterior Basement and Masonry Waterproofing Paint](https://www.amazon.com/dp/B00B2G97FU/?tag=p-policy-20)
 
@@ -96,7 +92,6 @@ One gallon of The KILTZ Interior Water-proofing Paint can cover 75 -125 sq ft Pr
 
 Cons: - Not recommended for floors
 
-> See Also: > Quality Paint Strippers
 
 ###  [6. KILZ L378601 Interior/Exterior Slip-Resistant Decorative Concrete Paint](https://www.amazon.com/dp/B07BF4MTXJ/?tag=p-policy-20)
 
@@ -108,7 +103,6 @@ Pathways should be open to light foot traffic in about 24hours, but a driveway w
 
 Cons: - May be slippery
 
-> See Also: > Removing Acrylic Paint from Concrete
 
 ###  [7. KILZ Interior/Exterior Self-Priming Masonry, Stucco, and Brick Flat Paint](https://www.amazon.com/dp/B06Y142YK6/?tag=p-policy-20)
 
@@ -124,7 +118,6 @@ Pros: - The manufacturer has been in business for over 40 years. You are assured
 
 Cons: - Not designed for floors
 
-> See Also: > Removing Paint from Metal with Baking Soda
 
 ##  Conclusion
 

@@ -70,7 +70,6 @@ Acrylic paint is manufactured in different forms. It may be solid, semi-solid, c
 
 Select acrylic paint that requires little or no thinning at all.
 
-> See Also: > Rustoleum galvanized metal primer
 
 ###  Step2: Tool Selection
 

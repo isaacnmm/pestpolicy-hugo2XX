@@ -32,7 +32,6 @@ The ease of cleaning and coating provided by the Nano-prom Aqua Speed paint make
 
 Cons: - Effects are temporary
 
-> See Also: > Non-skid paint for aluminum boats
 
 ###  [2. McLube Hullkote High-Performance Speed Polish](https://www.amazon.com/dp/B005MZ8DSO/?tag=p-policy-20)
 
@@ -64,7 +63,6 @@ Pros: - Self-polishing feature - Long-lasting effect - All-season performance
 
 Cons: - Relatively pricey
 
-> See Also: > [Bottom paint for trailered boats](https://pestpolicy.com/best-bottom-paint-for-trailered-boats/)
 
 ###  [4. Total Boat Underdog anti-fouling hull bottom paint](https://www.amazon.com/dp/B07CNV2YHH/?tag=p-policy-20)
 
@@ -78,7 +76,6 @@ The package includes a roller frame, stirring rods, scotch-Brite pad, and dispos
 
 Cons: - Not suitable for aluminum hulls
 
-> See Also: > Painting your Fiberglass Boat
 
 ###  [5. Inter-lux Micron Extra anti-fouling paint](https://www.amazon.com/dp/B000XBBGCC/?tag=p-policy-20)
 

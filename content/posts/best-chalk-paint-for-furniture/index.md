@@ -32,7 +32,6 @@ Pros: - Fast drying - Odorless with zero emission of VOCs - No priming OD sandin
 
 Cons: - Hard to use with a spray gun.
 
-> See Also: > [Deck Stain for Pressure Treated Wood](https://pestpolicy.com/best-deck-stain-for-pressure-treated-wood/)
 
 ###  [2. FolkArt 34152 Chalk Furniture Paint, 8 ounce](https://www.amazon.com/dp/B00SYIAKVE/?tag=p-policy-20)
 
@@ -44,7 +43,6 @@ It dries very fast and the paint is packaged in many colors and gives a choice b
 
 Cons: - Suitable for indoors only
 
-> See Also: > Pressure Washer for Paint Removal
 
 ###  [3. Retique It Chalk Furniture Paint, 32 Ounces, Poly Kit](https://www.amazon.com/dp/B08BYWQZLH/?tag=p-policy-20)
 
@@ -58,7 +56,6 @@ The paint is durable on your furniture and a good medium to hide imperfections d
 
 Cons: - Some people have ended up painting more than two coats
 
-> See Also: > Staining your Pressure Treated Wood
 
 ###  [4. KILZ 00004804 Chalk Decorative Paint, 1 Quart](https://www.amazon.com/dp/B07GFF1DDC/?tag=p-policy-20)
 
@@ -74,7 +71,6 @@ Pros: - Has good coverage - Dries within an hour - Made in the USA - It is easy 
 
 Cons: - The surface must be cleaned first - Shaking before use is necessary
 
-> See Also: > [Granite Sealer ed](https://pestpolicy.com/best-granite-sealer/)
 
 ###  [5. Rust-Oleum, Aged Gray Chalked Paint](https://www.amazon.com/dp/B010FEBFOA/?tag=p-policy-20)
 
@@ -88,7 +84,6 @@ Pros: - Fast-drying within 30 minutes - Strong adhesion - Odorless - Easy applic
 
 Cons: - Cannot be used on outdoor surfaces
 
-> See Also: > Sealing your Painted Wood for Outdoor Use
 
 ###  [6. Deco Art ADC-27 Americana Chalk Paint, Yesteryear](https://www.amazon.com/dp/B00HO03EO8/?tag=p-policy-20)
 
@@ -104,7 +99,6 @@ Pros: - Fast drying - Super matte chalky finish - Thick - Odorless - Simple clea
 
 Cons: - Need more than one coat
 
-> See Also: > Airless Paint Sprayer Under 300
 
 ###  [7. Premium Chalked Paint](https://www.amazon.com/dp/B00FGXJCB4/?tag=p-policy-20)
 
@@ -116,7 +110,6 @@ And just in case you experience a spillage, the paint is easy to wash with just 
 
 Cons: - More than one is needed
 
-> See Also: > Removing the Spray Paint Smell
 
 ##  Conclusion
 

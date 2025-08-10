@@ -34,7 +34,6 @@ The handle is made of maple wood, which works together with the sable polyester 
 
 Cons: - Questionable build quality
 
-> See Also: > Removing Paint from Plastic
 
 ###  [2. Purdy 144152325 XL Glide 2.5 nylon/polyester angled paintbrush](https://www.amazon.com/dp/B0000DH4KH/?tag=p-policy-20)
 
@@ -54,7 +53,6 @@ Pros: - Square edged for excellent angle painting.
 
 Cons: - None found
 
-> See Also: > Paint Roller Cover for Interior Walls
 
 ###  [3. King Origin 10 Piece Paint Brushes](https://www.amazon.com/dp/B071JJV4LF/?tag=p-policy-20)
 
@@ -84,7 +82,6 @@ The beechwood handles have limited moisture absorption features, ensuring that t
 
 Cons: - Premium priced
 
-> See Also: > Paint Roller for Smooth Finish
 
 ###  [5. Presa Premium 5 Piece Brush Set](https://www.amazon.com/dp/B011ARI5IU/?tag=p-policy-20)
 
@@ -100,7 +97,6 @@ Pros: - Excellent value for money - Professional performance - Easy to use
 
 Cons: - None found
 
-> See Also: > Fix Peeling Paint on Ceiling
 
 ###  [6. PXPro Nylon and Polyester Brush 3 Piece](https://www.amazon.com/dp/B002V3T0SC/?tag=p-policy-20)
 
@@ -114,7 +110,6 @@ The premium build design of this set can withstand rough surfaces and a wide ran
 
 Cons: - None found
 
-> See Also: > Concrete Rust Remover
 
 ###  [7. Kilz Collection Master Handcrafted Nylon-Polyester 2.5 flat brush](https://www.amazon.com/dp/B06XPX9L6W/?tag=p-policy-20)
 

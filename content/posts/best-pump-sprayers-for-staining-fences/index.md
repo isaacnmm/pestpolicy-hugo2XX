@@ -42,7 +42,6 @@ Pros: - Changeable tips (0. 008 inches to. 016 inches) for a different spray pat
 
 Cons: - None
 
-> See Also: > Walk Behind Concrete Grinder
 
 ###  [2. Graco-Magnum 262800-X5 Stand Airless Adjustable Pressure Paint Sprayer](https://www.amazon.com/dp/B0026SR0FW/?tag=p-policy-20)
 
@@ -62,7 +61,6 @@ Pros: - The devices75-feet hose allows easy spraying on your large fence-paintin
 
 Cons: - Not suitable foroccasional use - its costly
 
-> See Also: > Pressure Washer for Paint Removal
 
 ###  [3. Chapin-International 1949 Metallic Open-Head 13200 milliliters Sprayer with Tri-Poxy tank](https://www.amazon.com/dp/B00002N8O8/?tag=p-policy-20)
 
@@ -96,7 +94,6 @@ Chapin-International 30600 is very portable and it won't need a connection to so
 
 - Not approved for deck staining
 
-> See Also: > [Paint Sprayer for Fence Stain](https://pestpolicy.com/best-paint-sprayer-for-fence-stain/)
 
 ##  Conclusion
 

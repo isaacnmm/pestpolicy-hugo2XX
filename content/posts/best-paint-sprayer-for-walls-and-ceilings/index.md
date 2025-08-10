@@ -48,7 +48,6 @@ It also features an easy suction tube that pulls the paint directly from the pai
 
 Cons: - May require conversion equipment to work in some countries
 
-> See Also: > Exterior Paint to Prevent Mold
 
 ###  [3. The HomeRight C800971](https://www.amazon.com/dp/B071X9FZ7R/?tag=p-policy-20)
 
@@ -66,7 +65,6 @@ The 2. 0-millimeter green tip is good for chalk and latex paints Pros: - Has six
 
 Cons: - May not have plugs for some countries like Australia
 
-> See Also: > Paint Stripper for Metal
 
 ###  [4. Paint Zoom Handheld Electric Spray Gun](https://www.amazon.com/dp/B005IF5LW4/?tag=p-policy-20)
 
@@ -80,7 +78,6 @@ Whether you are painting the ceiling, wall, or molding, the machine is custom ma
 
 Cons: - You may have to thin paint right for excellent results - May spit out droplets if not well fixed
 
-> See Also: > Spray Paints for Graffiti
 
 ###  [5. Fuji 2903-T70 Mini-Mite 3 PLATINUM - T70 HVLP Spray System](https://www.amazon.com/dp/B00D4NPMKI/?tag=p-policy-20)
 
@@ -124,7 +121,6 @@ Other accessories in the item package are - A long-lasting paint hose - Power fl
 
 Cons: - Doesnt come with a conversion kit
 
-> See Also: > Paint for Fiberglass Boats
 
 ##  Conclusion
 

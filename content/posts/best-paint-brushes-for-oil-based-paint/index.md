@@ -60,7 +60,6 @@ It holds the bristles firmly, avoiding their wear, and makes painting easy if yo
 
 Cons: - None found
 
-> See Also: > Time it Takes To Paint a House Interior
 
 ###  [4. Purdy 144116030-Angular Trim Paint Brush Series-3 inch](https://www.amazon.com/dp/B00002N8YE/?tag=p-policy-20)
 
@@ -72,7 +71,6 @@ They are also designed with keepers coated with wax to help bring the bristles t
 
 Cons: - None found
 
-> See Also: > Spray Paints for Plastic ed
 
 ###  [5. Purdy 144380430 White Bristle Series Sprig Flat Trim Paint Brush, 3 inch](https://www.amazon.com/dp/B00002N6IL/?tag=p-policy-20)
 
@@ -86,7 +84,6 @@ The brush can be used on projects such as woodwork, floors, decks and antiques P
 
 Cons: - None found
 
-> See Also: > What Color Paint is suitable for Beige Tile?
 
 ###  [6. Pro Grade -4 Pack Variety Angle Paint Brushes](https://www.amazon.com/dp/B07CB1Y7CN/?tag=p-policy-20)
 

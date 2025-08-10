@@ -50,7 +50,6 @@ Pros: - Classic 3 spray nozzle pattern - F1. 0mm, F1. 8mm, F2.
 
 Cons: - No rechargeable battery - Has only one paint canister
 
-> See Also: > Acrylic Paint for Pouring
 
 ###  [3. REXBETI Ultimate-750 Paint Sprayer](https://www.amazon.com/dp/B07DLR5FK2/?tag=p-policy-20)
 
@@ -84,7 +83,6 @@ Importantly, Popoman is simple to set up and more comfortable to clean. The spra
 
 Cons: - Unsuitable for oil-based paint - The power cord could be longer
 
-> See Also: > Paint Sprayer for Furniture >.
 
 ###  [5. Prostormer 1000ml/min HVLP Electric Paint Sprayer](https://www.amazon.com/dp/B07RHHB2JC/?tag=p-policy-20)
 
@@ -122,7 +120,6 @@ Pros: - Sturdy casing material and minimal vibrations - High-performance motor (
 
 Cons: - Cord length could be more 2m - Not best for oil-based paints - The canister could be larger
 
-> See Also: > Chalk Paint for Kitchen Cabinets
 
 ###  [7. Graco 17D889 TrueCoat 360 VSP Handheld Paint Sprayer](https://www.amazon.com/dp/B00ZLIV55A/?tag=p-policy-20)
 

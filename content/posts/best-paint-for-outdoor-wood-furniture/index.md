@@ -66,7 +66,6 @@ You'll get the low-luster enamel outlook on the outdoor wooden furniture for you
 
 Cons: - None
 
-> See Also: > Removing Latex Paint from Concrete
 
 ###  [4. Prestige Paints Semi-Gloss Comprehensive Primer and Exterior Paint](https://www.amazon.com/dp/B01N1SUF03/?tag=p-policy-20)
 
@@ -96,7 +95,6 @@ Pros: - Long-lasting - Cleaning and application is easy - Fast drying - Great fo
 
 Cons: - Not suitable for walking areas
 
-> See Also: > [Paint for a Concrete Driveway](https://pestpolicy.com/best-paint-for-a-concrete-driveway/)
 
 ##  Steps to Paint the Outdoor Wood Furniture
 

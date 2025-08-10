@@ -24,7 +24,6 @@ Perhaps your deck is covered with old [peeling](https://pestpolicy.com/how-to-fi
 
 [Before starting the painting](https://www.thespruce.com/before-you-paint-living-room-4047917)process, you need to have the following protection equipment: - Eye goggles and hand gloves - Safety boots/footwear and helmet where needed - Overall/dust coat heavy duty - Ear protector and reflector for a busy environment - Face mask NB: Put on the protective gear before you begin any task.
 
-> See Also: > Quality Deck Sealer for Pressure Treated Wood
 
 ###  b.Paint Tools Selection and Preparation
 
@@ -114,7 +113,6 @@ It would help if you always focus on other factors listed above. > See Also: > R
 
 Deck wood is a water-based wood paint and sealer that features a strong chemical formulation, which acts instantly upon application. The solvent integrates advanced solid color sticks firmly on both horizontal and vertical wooden deck without dripping. Besides, Deck Wood is more comfortable to apply and fast-drying. It resists fading, mildew, and peeling. More importantly, Deck wood hides wood grains completely.
 
-> See Also: > Deck Stain for Weathered Wood
 
 ###  [2. KILZ Interior/Exterior Deck paint](https://www.amazon.com/dp/B06Y142Y5N/?tag=p-policy-20)
 
@@ -124,7 +122,6 @@ Kilz is a reliable deck paint that features a simple water-based formulation, wh
 
 Rust-Oleum is a resilient waster-based prime sealer that features complex chemical formula, which sticks firmly on the deck without peeling off. The triple thick primer comes with outstanding flexibility and dries off faster. Indeed, Rust-Oleum is more comfortable to apply and leaves a smooth finish surface that is resistant to peeling action. Essentially, Rust-Oleum can be used in both interiors or exterior work surfaces.
 
-> See Also: > WD 40 Removes Paint?
 
 ##  Conclusion
 

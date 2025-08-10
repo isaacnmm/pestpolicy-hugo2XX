@@ -42,7 +42,6 @@ Pros: - Can spray your unthinned paints - No filling required thanks to its flex
 
 Cons: - Challenging to clean - The high power setting may lead to large overspray
 
-> See Also: > Baby Safe Paint for Crib
 
 ###  [2. Wagner-Spraytech 0518080 Stain Sprayer for Fences, Woodworking, and Decks](https://www.amazon.com/dp/B003PGQI48/?tag=p-policy-20)
 
@@ -84,7 +83,6 @@ Pros: - Can handle high stain volume output - Its design makes it easy-to-clean 
 
 Cons: - None
 
-> See Also: > Paint Roller for Smooth Finish
 
 ###  [4. HomeRight C800971 Finish-Max HVLP Sprayer Gun with Adjustable Settings](https://www.amazon.com/dp/B071X9FZ7R/?tag=p-policy-20)
 
@@ -102,7 +100,6 @@ Pros: - Powerful (450 watts) motor - Versatile for spraying different material i
 
 Cons: - Unsuitable forpainting your ceiling
 
-> See Also: > Quality Fence Paints
 
 ###  [5. Fuji-2203G Semi-PRO 2 - HVLP with 400cc Gravity Cup & Non-bleed Spray Gun](https://www.amazon.com/dp/B00D4NPPQY/?tag=p-policy-20)
 
@@ -120,7 +117,6 @@ Pros: - The devices control knob on the M-Model, providing easy spray pattern ad
 
 Cons: - None
 
-> See Also: > What are the Best Gravity Feed Spray Guns?
 
 ##  Conclusion
 

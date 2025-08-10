@@ -32,7 +32,6 @@ With this non-toxic and non-flammable formula, you can operate at low temperatur
 
 Cons: - Relatively pricey
 
-> See Also: > Best Sealant for Metal Roof
 
 ###  [2. Rust-Oleum concrete and garage floor paint and primer](https://www.amazon.com/dp/B0014IZXPE/?tag=p-policy-20)
 
@@ -46,7 +45,6 @@ Algae-eliminating feature - Your concrete driveway is susceptible to algae and m
 
 Cons: - Not readily available in all markets
 
-> See Also: > Best Paint Stripper for Metal
 
 ###  [3. Kilz 1-Part Epoxy Acrylic Concrete and Garage Floor Paint](https://www.amazon.com/dp/B01MG7RWGF/?tag=p-policy-20)
 
@@ -62,7 +60,6 @@ It is thick and coarse enough to repair cracks and hide imperfections, giving yo
 
 Cons: - Comes in one gallon
 
-> See Also: > Best Stain for Swing Set
 
 ###  [4. BEHR #65501 1 gal. Tan Granite Exterior or Interior Concrete Paint](https://www.amazon.com/dp/B0796JHZY2/?tag=p-policy-20)
 
@@ -80,7 +77,6 @@ In addition to filling hairline cracks, this paint results in a unique and multi
 
 Cons: - Application results depend on the weather
 
-> See Also: > Best Heat Gun for Removing Paint
 
 ###  [5. UGL Drylok Latex Concrete Floor Paint](https://www.amazon.com/dp/B000VKXIIK/?tag=p-policy-20)
 
@@ -96,7 +92,6 @@ No primer is needed with this version, which dries in 30 minutes to one hour for
 
 Cons: - None found
 
-> See Also: > Best Exterior Paint to Prevent Mold
 
 ###  [6. DAICH RollerRock Pebblestone Exterior Concrete Coating](https://www.amazon.com/dp/B0799QTGG8/?tag=p-policy-20)
 
@@ -114,7 +109,6 @@ Pros: - Breathable option - Crack resistance feature - Easy to maintain
 
 Cons: - Relatively expensive
 
-> See Also: > [Remove Spray Paint from Concrete](https://pestpolicy.com/how-to-remove-spray-paint-from-concrete/)
 
 ###  [7. Coo-Var Tennis and Drive paint](https://www.amazon.com/dp/B07B9KK3VC/?tag=p-policy-20)
 
@@ -128,7 +122,6 @@ This one-part paint utilizes water as the base type. Hence, water is the most re
 
 Cons: - Lacks stain-resistant properties
 
-> See Also: > Painting a Garage Floor
 
 ##  Considerations for Concrete Driveway Paint
 

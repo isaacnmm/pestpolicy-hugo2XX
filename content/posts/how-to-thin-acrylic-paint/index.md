@@ -36,7 +36,6 @@ Water content should be 40% to 50% in the mixture - Carry a drop text experiment
 
 Moreover, check the manufacturers instruction concerning the water to paint ratio requirement.
 
-> See Also: > Acrylic Paint for Canvas
 
 ###  Step 2: Thinning with Acrylic Binder
 

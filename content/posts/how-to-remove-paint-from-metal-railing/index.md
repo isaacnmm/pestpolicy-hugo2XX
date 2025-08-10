@@ -38,7 +38,6 @@ The chemical breaks the paint layer to form a weak viscous fluid - Using a paint
 
 - Wash the metal rail with water and soap detergent to remove traces of mineral spirit and paint remnants - Rinse the surface to dryness with a piece of cloth NB: Do not smell stripping chemicals during application since the solvent contains components that may irritate your nasal cavity when inhaled.
 
-> See Also: > Thin Oil Based Paint for Spray Gun
 
 ###  c. Using a Heat gun and Paint Scraper
 
@@ -60,7 +59,6 @@ Further polishing makes one attain a fine final finish. Consider quenching the s
 
 - Quench the painted metal rail with mineral spirit - Then, scrub the surface gently using a wire brush to remove the paint layer - Repeat the steps above until the entire paint coat is removed - Wash the rail surface with water and soap detergent to clean paint traces from the surface - Mop the rail to dryness NB: When purchasing your wire brush, consider one with short filaments or bristle for easier motion control.
 
-> See Also: > Remove Latex Paint from Concrete
 
 ##  Problems Linked to Paint Removal from Metal Railing
 
@@ -90,7 +88,6 @@ Methods such as heat gun may cause structural weakening due to high heat exposur
 
 Upon thinning the painted metal rail, the paint coat may fail to yield and hence resist removal eventually. Such cases are common especially when the stripping chemical reacts with the metals primary material. Incomplete paint quenching on metal rail forms surface stains, which appears very unpleasant.
 
-> See Also: > [Fixing Peeling Paint on Ceiling](https://pestpolicy.com/how-do-i-fix-peeling-paint-on-ceiling/)
 
 ##  How to Protect and Repaint Metal Railing
 

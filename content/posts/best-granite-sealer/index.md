@@ -34,7 +34,6 @@ Pros: - Water and oil resistant - It is durable - Resistant to harsh weather - F
 
 Cons: - Strong smell
 
-> See Also: > Deck Sealer for Pressure Treated Wood
 
 ###  [2. Tenax Ager Granite Sealer,1 Quart](https://www.amazon.com/dp/B000VM25LO/?tag=p-policy-20)
 
@@ -48,7 +47,6 @@ However, it takes just 60 minutes for the sealant to be dry and be ready to touc
 
 Cons: - Does not offer hide
 
-> See Also: > [Deck Stain for Pressure Treated Wood](https://pestpolicy.com/best-deck-stain-for-pressure-treated-wood/)
 
 ###  [3. DRY-TREAT Premium Impregnating Sealer, 110513-1 Quart](https://www.amazon.com/dp/B006HB93X6/?tag=p-policy-20)
 
@@ -62,7 +60,6 @@ It also works very well on granite, stones, tiles, bricks, and concrete. The goo
 
 Cons: - It is costly
 
-> See Also: > [Pressure Washer for [Paint](https://pestpolicy.com/best-acrylic-paint-for-canvas/)Removal](https://pestpolicy.com/[best](https://pestpolicy.com/best-acrylic-paint-for-pouring/)-pressure-washer-for-paint-removal/)
 
 ###  [4. HMK S234 Stone Impregnating Granite Sealer](https://www.amazon.com/dp/B07B6TB4YZ/?tag=p-policy-20)
 
@@ -76,7 +73,6 @@ It will take you about 2 to 4 hours for the surface to dry, but you will need ap
 
 Cons: - It takes longer to dry
 
-> See Also: > Preparing a Room for Paint
 
 ###  [5. Tuff Duck Granite Sealer, 1 Quart](https://www.amazon.com/dp/B00UA2N5JG/?tag=p-policy-20)
 
@@ -90,7 +86,6 @@ Its neutral and water-based nature is a sure way of its harmless nature to you a
 
 Cons: - A single coat is doubtfully too thin
 
-> See Also: > Airless Paint Sprayer Under 300
 
 ###  [6. Aqua Mix Sealer's, Quart](https://www.amazon.com/dp/B000UOJGME/?tag=p-policy-20)
 
@@ -104,7 +99,6 @@ You can use this sealer on natural stones like marble and granite and others lik
 
 Cons: - More than one coat should be applied.
 
-> See Also: > Paint Stripper for Concrete
 
 ###  [7. Supreme Surface Granite, Cleaner, Polish & Sealer](https://www.amazon.com/dp/B00D628WA4/?tag=p-policy-20)
 
@@ -118,7 +112,6 @@ On the other hand, it still maintains the original colour of the stone As a poli
 
 Cons: - Need many applications to achieve a good surface
 
-> See Also: > Paint Remover for Cars
 
 ##  Conclusion
 

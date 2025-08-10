@@ -36,7 +36,6 @@ Pros: - Unmatched rust protection - Oil, acid, and grease resistant - Smooth and
 
 Cons: - Premium priced
 
-> See Also: > [Removing Paint from Metal Door](https://pestpolicy.com/how-to-remove-paint-from-metal-door/)
 
 ###  [2. Kilz Premium High hide stain-blocking primer](https://www.amazon.com/dp/B0002YOZZU/?tag=p-policy-20)
 
@@ -50,7 +49,6 @@ For best results, use a brush to prime on the edges and crevices and a small rol
 
 Cons: - Adequate preparation is needed
 
-> See Also: > [Spray Paints for Metal](https://pestpolicy.com/best-spray-paint-for-metal/)
 
 ###  [3. Rust-Oleum 7215102 Stops Rust Hammered black paint](https://www.amazon.com/dp/B000BZWZHU/?tag=p-policy-20)
 
@@ -66,7 +64,6 @@ Remember to put on safety glasses during the removal of rust from metal and flak
 
 Cons: - None found
 
-> See Also: > Rustoleum galvanized metal primer
 
 ###  [4. Toucan City Enamel BEHR Pro e600 Exterior semi-gloss #PR.670](https://www.amazon.com/dp/B07GKNN7G2/?tag=p-policy-20)
 
@@ -80,7 +77,6 @@ The BEHR Pro e600 offers an excellent balance of sag resistance, flow, and level
 
 Cons: - Premium priced
 
-> See Also: > Rustoleum Rust Reformer
 
 ###  [5. Valspar Duramax Exterior paint and primer](https://www.amazon.com/dp/B004Q0I8VI/?tag=p-policy-20)
 
@@ -110,7 +106,6 @@ Pros: - One coat coverage - Enhances the beauty of your garage door - Easy to cl
 
 Cons: - Questionable coating performance
 
-> See Also: > Will Vinegar Remove Paint from your metal >?
 
 ###  [7. Montage Signature Interior/Exterior Eco-friendly paint](https://www.amazon.com/dp/B076BTDF1Y/?tag=p-policy-20)
 
@@ -126,7 +121,6 @@ In addition to its outstanding quality, Montage signature features factory direc
 
 Cons: - Low coverage
 
-> See Also: > Interior vs. Exterior Paint
 
 ##  Conclusion
 

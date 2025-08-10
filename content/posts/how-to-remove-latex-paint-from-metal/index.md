@@ -36,7 +36,6 @@ Get the metal equipment to the well-ventilated garage area - a location with ple
 
 I recommend placing some drop cloth (or a 2-inch-wide tape) under and around the metal equipment to hinder spills from damaging other surfaces. So, now you're set to begin stripping the latest paint from your metal piece. NB: The paint removers are flammable, and hence you must not have anything that could ignite around the work surface. Also, put on face masks, gloves, protective clothing, and safety glasses.
 
-> See Also: > Removing paint from brick
 
 ###  Step 2: Paint Removal
 

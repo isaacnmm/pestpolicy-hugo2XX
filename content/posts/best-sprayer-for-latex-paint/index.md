@@ -32,7 +32,6 @@ This version allows you to apply a wide range of coating from heavy latex to oth
 
 Cons: - Bulky in design
 
-> See Also: > Does Alcohol Remove Paint?
 
 ###  [2. Wagner Flexio 590 sprayer](https://www.amazon.com/dp/B01LWVQ4EZ/?tag=p-policy-20)
 
@@ -48,7 +47,6 @@ This makes it ideal for DIYers looking for detailed work in smaller projects suc
 
 Cons: - The nozzle is prone to clogging
 
-> See Also: > [Gravity Feed Spray Guns](https://pestpolicy.com/best-gravity-feed-spray-guns/)
 
 ###  [3. Homeright Finish Max Sprayer](https://www.amazon.com/dp/B003VKFDEO/?tag=p-policy-20)
 
@@ -62,7 +60,6 @@ By allowing you to regulate the airflow, you are guaranteed of achieving a smoot
 
 Cons: - Relatively pricey
 
-> See Also: > Painting Vs. Staining Deck
 
 ###  [4. Scuddles 1200w power paint sprayer](https://www.amazon.com/dp/B07BB2WJF4/?tag=p-policy-20)
 
@@ -76,7 +73,6 @@ Despite its outstanding design, this unit is attractively priced and quality gua
 
 Cons: - None found
 
-> See Also: > How to Stain a Wood Deck
 
 ###  [5. Rexbeti Ultimate 750 latex paint sprayer](https://www.amazon.com/dp/B07DLR5FK2/?tag=p-policy-20)
 
@@ -94,7 +90,6 @@ An extra-long power cord allows you to move flexibly in a larger work area. What
 
 Cons: - Bulky in size
 
-> See Also: > How to Get Rid of Spray Paint Smell
 
 ###  [7. Dynastus Siphon-feed spray gun](https://www.amazon.com/dp/B07FTFY4RD/?tag=p-policy-20)
 
@@ -108,7 +103,6 @@ Cleaning this sprayer is easy thanks to the extra spanner, wire brush, and a fil
 
 Cons: - Not ideal for unthinned latex
 
-> See Also: > Removing Latex Paint from Concrete
 
 ##  Considerations for Best Sprayer for Latex Paint
 

@@ -32,7 +32,6 @@ All you need to do is use the ball-drain valve that is located on the lower side
 
 Cons: - It is expensive
 
-> See Also: > Pressure Washer for Paint Removal
 
 ###  [2. BOSTITCH (BTFP02012) Pancake Air Compressor](https://www.amazon.com/dp/B00UHNM1R0/?tag=p-policy-20)
 
@@ -44,7 +43,6 @@ The compressor is also light and easy to carry around when you are spraying your
 
 Cons: - One year limited warrant
 
-> See Also: > Spray Paint for Glass
 
 ###  [3. California Air Compressor (8010)](https://www.amazon.com/dp/B00WM1VPKE/?tag=p-policy-20)
 
@@ -60,7 +58,6 @@ Pros: - Very quiet - Low cost of maintenance - Durable - Easy mobility - High ef
 
 Cons: - Short cable - It's costly
 
-> See Also: > Paint Stripper for Concrete
 
 ###  [4. CRAFTSMAN (CMEC6150K) Air Compressor](https://www.amazon.com/dp/B07KHHDJGD/?tag=p-policy-20)
 
@@ -84,7 +81,6 @@ However, the oil sight glass helps you in checking the levels to avoid its abrup
 
 Cons: - It is heavy - It is expensive
 
-> See Also: > [Spray Paint for Metal](https://pestpolicy.com/best-spray-paint-for-metal/)
 
 ###  [6. Industrial Air Compressor, 4 Gallon](https://www.amazon.com/dp/B002MKP5PQ/?tag=p-policy-20)
 
@@ -110,7 +106,6 @@ The oil cooling system also plays a vital role in protecting the iron from wear 
 
 Cons: - It is heavy - Has low small tank
 
-> See Also: > [Deck Stain for Weathered Wood](https://pestpolicy.com/best-deck-stain-for-weathered-wood/)
 
 ##  **Conclusion **
 

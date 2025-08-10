@@ -34,7 +34,6 @@ Cleaning up after use is easy, using mineral spirit for oil-based products and w
 
 Cons: - None found
 
-> See Also: > Turbine paint sprayer
 
 ###  [2. Wagner Opti-Stain Plus Hand-held Sprayer](https://www.amazon.com/dp/B00N8YHM0G/?tag=p-policy-20)
 
@@ -50,7 +49,6 @@ Pros: - Optimized for both indoor and outdoor use - High precision - Multi-direc
 
 Cons: - Relatively pricey
 
-> See Also: > Painting a Deck with Peeling Paint
 
 ###  [3. Graco Magnum X7 airless sprayer](https://www.amazon.com/dp/B07CS8T84F/?tag=p-policy-20)
 
@@ -64,7 +62,6 @@ The flexible suction eliminates regular refills' hassles by enabling you to spra
 
 Cons: - Relatively expensive
 
-> See Also: > Rustoleum Rust Reformer
 
 ###  [4. Earlex Spray Station HV5500 HVLP Sprayer](https://www.amazon.com/dp/B004RGOKR2/?tag=p-policy-20)
 
@@ -80,7 +77,6 @@ Other adjustable settings featured in this sprayer are the flow control dials an
 
 Cons: - Tends to be noisy
 
-> See Also: > Paint for Outdoor Wood Deck
 
 ###  [5. Fuji spray mini-mite 3 HVLP Spray T70 spray gun system](https://www.amazon.com/dp/B00D4NPMKI/?tag=p-policy-20)
 
@@ -94,7 +90,6 @@ Cleaning and maintaining this tool is easy because the parts can be disassembled
 
 Cons: - Expensively priced
 
-> See Also: > Spray Paints for Plastic
 
 ###  [6. Wagner 0518080 HVLP Control Max Sprayer](https://www.amazon.com/dp/B003PGQI48/?tag=p-policy-20)
 
@@ -108,7 +103,6 @@ This sprayer is easy to clean and maintain because it features minimal movable p
 
 Cons: - Short power cord limits access
 
-> See Also: > Cordless Paint Sprayers
 
 ###  [7. GOPlus HVLP Airless Paint Sprayer](https://www.amazon.com/dp/B07W5T6VYQ/?tag=p-policy-20)
 
@@ -124,7 +118,6 @@ Pros: - Compact design - High level of precision - Waterproof
 
 Cons: - None found
 
-> See Also: > [Deck Sealer for Pressure Treated Wood](https://pestpolicy.com/best-deck-sealer-for-pressure-treated-wood/)
 
 ##  Conclusion
 

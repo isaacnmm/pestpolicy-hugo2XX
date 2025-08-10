@@ -50,7 +50,6 @@ Besides, Latex caulk is more comfortable to remove and replace during paint rein
 
 - Wear protective gear gloves, overalls, boots, safety goggles, and respirator for personal protection - Using a rag or mop, wash the caulk sealed surface to remove dust and surface debris - Dilute mineral spirit/bleach (as per manufacturers instruction) - Using a soft-bristle paintbrush, apply mineral spirit over the silicone caulk surface until the entire area is covered - Leave the caulk to quench for two hours or otherwise advised by the manufacturer - Gently, scrub the old paint and silicone caulk from the surface using a paint scraper be careful not to damage the tiles or adjacent primary surface material - Add soap detergent to warm water in a bucket and wash the caulk scrubbed section - Repeat the steps above until the entire silicone caulk is removed - Further, flush water over the entire surface (using a pressure washer) to attain a quality finish NB: When removing silicone caulk, be careful not to pull out the entire tiles or surface material the removal process intends to create a space for paintable caulk.
 
-> See Also: > Penetrating Concrete Sealer
 
 ###  Step 3: Refill the Joints and Polish
 

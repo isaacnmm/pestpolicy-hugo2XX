@@ -36,7 +36,6 @@ Pros: - Tough tungsten carbide teeth blade and classic drum kit - Reliable torqu
 
 Cons: - Requires initial user training - Slightly heavy
 
-> See Also: > [Concrete Rust Remover ed](https://pestpolicy.com/best-concrete-rust-remover/)
 
 ###  [2. XtremepowerUS 10-inch Walk-Behind Electric Concrete Floor Grinder](https://www.amazon.com/dp/B07VPC1CTQ/?tag=p-policy-20)
 
@@ -64,7 +63,6 @@ Pros: - Ergonomic work position and simple starter - Medium to the small work ar
 
 Cons: - Not best for large grinding area - May get fatigued with the rough concrete surface
 
-> See Also: > Paint Sprayer for Furniture
 
 ###  [4. CS Unitec EBS Walk-Behind Concrete Floor Grinder](https://www.amazon.com/dp/B071V8DSB2/?tag=p-policy-20)
 
@@ -78,7 +76,6 @@ Pros: - Adjustable handle and detachable dust bag - Classic vibration reduction 
 
 Cons: - The grinding area could be more - Limited rotary motion - Requires external dust bag
 
-> See Also: > Cordless Paint Sprayers ed
 
 ###  [5. Concrete Floor Grinder for Polishing Jobs and Edge work](https://www.amazon.com/dp/B00B28L3DM/?tag=p-policy-20)
 
@@ -108,7 +105,6 @@ Pros: - High load speed (3500 RPM) and simple release design - Heavy gauge steel
 
 Cons: - Disc width could be better - Not for rough concrete surface
 
-Read Also: Sprayer for Latex Paint
 
 ##  Conclusion
 

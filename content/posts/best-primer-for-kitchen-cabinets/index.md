@@ -34,7 +34,6 @@ The primer I packaged in a quart can cover at least 100 square ft. However, with
 
 Cons: - Requires more than one coat
 
-> See Also: > Painting the Kitchen Cabinets without Sanding
 
 ###  [2. KILZ-L211101 Primer Adhesion High Bonding Interior Sealer](https://www.amazon.com/dp/B01LYXUU4E/?tag=p-policy-20)
 
@@ -48,7 +47,6 @@ However, a second coat can only be applied after an hour to achieve the best res
 
 Cons: - Proper cleaning before priming
 
-> See Also: > Painted Vs Stained Cabinets
 
 ###  [3. KILZ Restoration Maximum Stain Primer/Sealer](https://www.amazon.com/dp/B007XH9PKO/?tag=p-policy-20)
 
@@ -62,7 +60,6 @@ In case you intend to do a quick paint, this primer has a quick-drying feature t
 
 Cons: - Proper surface cleaning prior application
 
-> See Also: > Valspar Cabinet Paint
 
 ###  [4. Zinsser-03504 Interior/Exterior Oil Primer Sealer](https://www.amazon.com/dp/B000BZX6B4/?tag=p-policy-20)
 
@@ -78,7 +75,6 @@ On using this primer, it takes 8 hours to dry before a second coat is applied, a
 
 Cons: - Contains VOCs - Has odor
 
-> See Also: > Varathane Fast Dry Wood Stain
 
 ###  [5. Zinsser B-I-N Shellac-Base Primer, 1-Gallon](https://www.amazon.com/dp/B000C02C68/?tag=p-policy-20)
 
@@ -92,7 +88,6 @@ Similarly, use a brush and avoid spraying the primer since this will increase th
 
 Cons: - Strong odor
 
-> See Also: > Interior vs Exterior Paint Compared
 
 ###  [6. INSL-X SXA11009A-01 Acrylic Waterborne Bonding Primer](https://www.amazon.com/dp/B07KX8NV7Y/?tag=p-policy-20)
 
@@ -110,7 +105,6 @@ Pros: - Fast drying - Low VOCs - Easy to clean - Applicable on tough surfaces
 
 Cons: - Needs more than two coats
 
-> See Also: > If You Dont Paint Over Primer - What Happens >?
 
 ###  [7. KILZ-2 Multi-Surface Interior/Exterior Latex Primer/Sealer](https://www.amazon.com/dp/B0013FE5R0/?tag=p-policy-20)
 
@@ -126,7 +120,6 @@ Pros: - Fast drying - Suitable on all surfaces - Works on both interior and exte
 
 Cons: - Has strong odor
 
-> See Also: > [Drywall Primer Sealer](https://pestpolicy.com/best-drywall-primer-sealer/)
 
 ##  Conclusion
 

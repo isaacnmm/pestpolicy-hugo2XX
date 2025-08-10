@@ -87,7 +87,6 @@ Chipping a condition that occurs when paint disintegrate from a given section an
 
 Chipping is more pronounced in wet areas than dry ones.
 
-> See Also: > [Painting your Stairwell](https://pestpolicy.com/how-to-paint-a-stairwell/)
 
 ###  2. Peeling and flake
 

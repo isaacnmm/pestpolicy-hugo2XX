@@ -45,7 +45,6 @@ You can be sure of its durability of your wooden fence upon application of this 
 
 Cons: - Not economical for small fences
 
-> See Also: > 3D Wall Painting for Your Bedroom
 
 ###  [3. KILZ Exterior Siding, Fence, and Barn Paint, 1-gallon](https://www.amazon.com/dp/B0015GE8DI/?tag=p-policy-20)
 
@@ -61,7 +60,6 @@ Pros: - It is versatile and used on many surface - Dries fast - Durable - Weathe
 
 Cons: - None found
 
-> See Also: > Can You Use Exterior Paint Indoors?
 
 ###  [4. Flood Series FLD520-01, Cedar 275 VOC](https://www.amazon.com/dp/B003B6D494/?tag=p-policy-20)
 
@@ -77,7 +75,6 @@ You can get this stain at affordable price and a gallon covers an average of 250
 
 Cons: - Packaging not realistic for small fences
 
-> See Also: > Paint for Outdoor Wood Furniture
 
 ###  [5. DEFY Extreme Exterior Wood Stain, 1 Gallon](https://www.amazon.com/dp/B0061N8ZKC/?tag=p-policy-20)
 
@@ -91,7 +88,6 @@ Pros: - Easy to use - Environmental friendly - Cost friendly - Has deep penetrat
 
 Cons: - None found
 
-> See Also: > Paint for Outdoor Wood Deck
 
 ###  [6. Ready Seal 510 Exterior Stain and Sealer, 5-Gallon](https://www.amazon.com/dp/B00EIVX96Y/?tag=p-policy-20)
 
@@ -121,7 +117,6 @@ Pros: - Gives an insect-resistant feature - Can also be used on metals - Prolong
 
 Cons: - Cannot be sprayed - Not economical for small projects
 
-> See Also: > Does Oiling Prevent Rusting
 
 ##  Conclusion
 

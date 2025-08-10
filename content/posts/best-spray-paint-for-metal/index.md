@@ -116,7 +116,6 @@ Pros: - Comes with an ergonomic spray nozzle - More comfortable to clean when we
 
 Cons: - The fumes cause eye irritation. - The liquid solvent is highly flammable. - Comes in limited color options
 
-> See Also: > Rustoleum Rust Reformer
 
 ###  [7. Design Master 746 Spray Paint](https://www.amazon.com/dp/B00114PXEW/?tag=p-policy-20)
 

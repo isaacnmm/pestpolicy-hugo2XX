@@ -50,7 +50,6 @@ The Valspar Paint offers that great professional finish considering your unique 
 
 The surfaces, using Valspar, won't require sanding or priming.
 
-> See Also: > Spray Paints for Plastic
 
 ###  4. Budget-friendly Paint Finish
 

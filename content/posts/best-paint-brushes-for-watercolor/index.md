@@ -32,7 +32,6 @@ You are guaranteed the brush's durability through the strongly built ferrule tha
 
 Cons: - Expensive
 
-> See Also: > Folding Ladders for Painters
 
 ###  [2. Da Vinci-5359 Watercolor Brushes](https://www.amazon.com/dp/B0069FC9FO/?tag=p-policy-20)
 
@@ -68,7 +67,6 @@ Equally the rust proof ferrule hold the bristles firmly and the brush giving you
 
 Cons: - Unsuitable for professional use
 
-> See Also: > Valspar Cabinet Paint
 
 ###  [5. AIT Art Premium 5 pc Brush Set](https://www.amazon.com/dp/B07PPRG7HN/?tag=p-policy-20)
 
@@ -94,7 +92,6 @@ Pros: - Durable - Great handle - Fine bristles
 
 Cons: - None found
 
-> See Also: > [Remove Paint from Brick](https://pestpolicy.com/how-to-remove-paint-from-brick/)
 
 ###  [7. ZenART Professional Watercolor Brush Set-14 pcs](https://www.amazon.com/dp/B01LWIBZHE/?tag=p-policy-20)
 

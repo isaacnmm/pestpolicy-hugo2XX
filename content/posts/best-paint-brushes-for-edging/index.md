@@ -34,7 +34,6 @@ Pros: - Works for all stains and paints - Durable filaments - Comfortable handle
 
 Cons: - You may need to thin some types of paint - like when[applying thick paint](https://en.wikipedia.org/wiki/Impasto).
 
-> See Also: > Paint your Metal Interior Door
 
 ###  [2. Presa Premium Paint Brushes Set](https://www.amazon.com/dp/B011ARI5IU/?tag=p-policy-20)
 
@@ -64,7 +63,6 @@ Pros: - Retains enough paint to deliver a smooth finish - Designed for in and ex
 
 Cons: - Inconsistency in holding paint
 
-> See Also: > Ladder for Painting 2 Story House
 
 ###  [4. Wooster Tip Angle Sash Paintbrush](https://www.amazon.com/dp/B000SFFYU8/?tag=p-policy-20)
 
@@ -90,7 +88,6 @@ Pros: - The shorthand is highly manoeuvrable - It works with all paint types - B
 
 Cons: - Some users find the handle short to be of help in some cases. - Some users have raised concerns about the price.
 
-> See Also: > Painting your Bathroom Cabinets
 
 ###  [6. Rescare 4pcs Paint Brushes Set](https://www.amazon.com/dp/B08BHRHZQS/?tag=p-policy-20)
 
@@ -106,7 +103,6 @@ Pros: - Lightweight and easy to use - Works on many material surfaces - Suitable
 
 Cons: - None
 
-> See Also: > Folding Ladders for Painters
 
 ###  [7. Pro Grade - Paint Brushes - 2Pk - Paint Brush Set](https://www.amazon.com/dp/B07JHZNJSB/?tag=p-policy-20)
 

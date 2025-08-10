@@ -26,7 +26,6 @@ There are several steps that you will need to involve on that old paint to make 
 
 You can use a screwdriver or a flat-blade to remove any dried paint and rust from around the rim.
 
-See Also: Spray Paint for Rims.
 
 ###  Step 2: Lid Opening
 
@@ -58,7 +57,6 @@ All you need is to use a painted rod and stir it thoroughly.
 
 If you find your paint has developed lumps, it is evident that the paint has gone bad and no longer reusable.
 
-> See Also: > Baby Safe Paint for Crib
 
 ###  b. Open and exposed Paint
 
@@ -76,7 +74,6 @@ If the paint is good, it will stir gently and the paint will liquefy and you can
 
 To some extent, the spoilt paints may develop molds and mildew which is a clear indication that the paint is bad and beyond repair. Caution: In some instances, the paint may have some lumps and some clever bunch may try to use a filter mechanism to get off the lumps and reuse the paint. Once the paint has developed the lumps, its done, it's dead and there is nothing you can do about it.
 
-> See Also: > [Paint Stripper for Metal](https://pestpolicy.com/best-paint-stripper-for-metal/)
 
 ##  Conclusion
 

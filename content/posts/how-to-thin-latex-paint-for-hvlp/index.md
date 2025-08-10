@@ -24,7 +24,6 @@ To begin with, you need to choose the right tools and material, select latex pai
 
 In this case, a viscosity flow test should be carried out to ascertain the nozzle flow rate and latex thickness for spay painter suitability.
 
-> See Also: > [Removing Latex Paint from Metal](https://pestpolicy.com/how-to-remove-latex-paint-from-metal/)
 
 ##  Details: How to Thin Latex Paint for HVLP
 
