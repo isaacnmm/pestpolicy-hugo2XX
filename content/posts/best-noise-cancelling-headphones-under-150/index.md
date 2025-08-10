@@ -28,9 +28,18 @@ They also sit perfectly on top of your head, eliminating unwanted movements when
 
 While the integrated cushioning may not be as comfortable as its rivals, it offers user comfort over prolonged periods of wearing. The body design is mostly made from plastic, with the integration of metal parts where necessary, such as the hinges in the foldable parts. The headband features a cloth material which gives you a nice feeling and adds to the headphones' aesthetic appeal.
 
-You are guaranteed of above-average performance with this JBL E-series pair of headphones, thanks to its 4. 1 blue tooth functionality, a 33 feet connection range, and a 24-hour battery life with the noise cancellation feature on. Pros: - Excellent value for money - Highly versatile - like the kid'snoise-canceling headphones. - Powerful bass performance
+You are guaranteed of above-average performance with this JBL E-series pair of headphones, thanks to its 4. 1 blue tooth functionality, a 33 feet connection range, and a 24-hour battery life with the noise cancellation feature on. 
+Pros:
+- - Excellent value for money
+- Highly versatile
+- like the kid'snoise-canceling headphones.
+- Powerful bass performance
 
-Cons: - Audio performance is affected by noise cancellation
+
+
+Cons:
+- - Audio performance is affected by noise cancellation
+
 
 
 ###  [2. Sennheiser HD 4.50 BTNC - #2 Pick](https://www.amazon.com/dp/B01MSZSL4I/?tag=p-policy-20)
@@ -43,9 +52,17 @@ The HD 4. 50 BTNCC's cordless feature gives you unlimited freedom to go about yo
 
 These noise-canceling headphones are synonymous with user comfort, thanks to their ergonomically designed ear pads and around-ear coverage - just like with [affordable noise-canceling headphones](https://pestpolicy.com/best-noise-cancelling-headphones-under-100/).Their plush design allows you to listen for longer in ultimate luxury.
 
-Ear-cup mounted user controls point to the simplistic user design of this unit, which allows you to receive and make calls adjust volume and change music on the go. Pros: - Travel-friendly design - Lightweight and comfortable - Excellent noise cancellation capability with NoiseGuard deactivated
+Ear-cup mounted user controls point to the simplistic user design of this unit, which allows you to receive and make calls adjust volume and change music on the go. 
+Pros:
+- - Travel-friendly design
+- Lightweight and comfortable
+- Excellent noise cancellation capability with NoiseGuard deactivated
 
-Cons: - Causes hot ears with prolonged use
+
+
+Cons:
+- - Causes hot ears with prolonged use
+
 
 
 ###  [3. Sony MDRZX110NC - #3 Pick](https://www.amazon.com/dp/B01MSZSL4I/?tag=p-policy-20)
@@ -56,9 +73,18 @@ While it lacks the sophisticated features available in rival brands, it performs
 
 Weighing in at 150 grams, this unit is lightweight enough to carry around for prolonged hours hence guaranteeing your ultimate music mobility. This version of Sony headphones features a non-detachable y-shaped cord spanning 1. 2meters in length with a 1/8" TRRS connector. The Y-shaped design prevents the wires from entangling during usage. During power-on mode, this unit offers you an impedance of 220 OHM and 45 OHM during off mode.
 
-The battery can run up to 80 hours with active noise cancellation. For improved user comfort, this unit features the on-ear design which delivers high frequency noise cancellation performance. Foldable ear cups allow the user to swivel the headphones flat for enhanced portability. Pros: - Highly affordable - Excellent battery performance - Ultra-portability thanks to its swivel design - Clear and rich sound
+The battery can run up to 80 hours with active noise cancellation. For improved user comfort, this unit features the on-ear design which delivers high frequency noise cancellation performance. Foldable ear cups allow the user to swivel the headphones flat for enhanced portability. 
+Pros:
+- - Highly affordable
+- Excellent battery performance
+- Ultra-portability thanks to its swivel design
+- Clear and rich sound
 
-Cons: - Lacks wireless connectivity
+
+
+Cons:
+- - Lacks wireless connectivity
+
 
 
 ###  [4. Cowin E7 Pro Active Noise Cancelling Bluetooth Headphones](https://www.amazon.com/dp/B077YG22Y9/?tag=p-policy-20)
@@ -71,9 +97,18 @@ The noise cancellation capability of this unit makes it ideal for travelers and 
 
 You get an around-ear fit with this unit, offering a luxurious listening performance all day long.
 
-The ear cups swivel at ninety degrees, hence accommodating users with different head sizes. Quick and easy connections eliminate the need for wired connection without compromising on the quality of sound output. Pros: - Highly immersive audio experience - Adjustable to user specifications - Excellent battery performance - Excellent sound quality
+The ear cups swivel at ninety degrees, hence accommodating users with different head sizes. Quick and easy connections eliminate the need for wired connection without compromising on the quality of sound output. 
+Pros:
+- - Highly immersive audio experience
+- Adjustable to user specifications
+- Excellent battery performance
+- Excellent sound quality
 
-Cons: - Relatively heavy
+
+
+Cons:
+- - Relatively heavy
+
 
 
 ###  [5. Skullcandy Venue Wireless ANC over the ears headphones](https://www.amazon.com/dp/B07H4XGX16/?tag=p-policy-20)
@@ -90,9 +125,17 @@ The ear cups feature soft memory foam ear padding, which molds to the user's ear
 
 Other special features included in this option include the monitor mode, voice assistance and dependable wireless connectivity.
 
-Pros: - Excellent wireless range - User friendly features - Exemplary noise isolation
 
-Cons: - It runs tight on some users heads
+Pros:
+- - Excellent wireless range
+- User friendly features
+- Exemplary noise isolation
+
+
+
+Cons:
+- - It runs tight on some users heads
+
 
 
 ###  [6. MPOW Holo H5 over the ears wireless headphones](https://www.amazon.com/dp/B076H63ZK7/?tag=p-policy-20)
@@ -105,9 +148,16 @@ While the vocals are clear and do not break in the background, the bass output i
 
 The headband features a padded and low profile design for uninterrupted user comfort all day long.
 
-The lightweight nature of these headsets allows you to go about your activities without experiencing fatigue. The MPow H5 features a simplistic user control panel, allowing for multipurpose Bluetooth call and music management. An ANC button on the left ear side allows you to enable noise isolation on the go. Pros: - User friendly - Excellent sound quality
+The lightweight nature of these headsets allows you to go about your activities without experiencing fatigue. The MPow H5 features a simplistic user control panel, allowing for multipurpose Bluetooth call and music management. An ANC button on the left ear side allows you to enable noise isolation on the go. 
+Pros:
+- - User friendly
+- Excellent sound quality
 
-Cons: - Sub-par noise canceling performance
+
+
+Cons:
+- - Sub-par noise canceling performance
+
 
 
 ###  [7. Avantree ANC032 Wireless headphones with ANC](https://www.amazon.com/dp/B079GMZHT7/?tag=p-policy-20)
@@ -122,9 +172,18 @@ The ear cups feature soft padding for all-day comfort. What's more? These headse
 
 This unit leverages its 40mm stereo drivers and an advanced Bluetooth CSR chipset to produce a powerful and smooth music listening experience.
 
-The 2-in-1 wired and wireless capabilities give you unlimited flexibility. Whereas the Bluetooth 4. 1 wireless connectivity gives you a longer range, audio cable use allows you to save on your battery. Pros: - Feels comfortable on prolonged use - Customizable fit - Highly durable - Excellent value for money
+The 2-in-1 wired and wireless capabilities give you unlimited flexibility. Whereas the Bluetooth 4. 1 wireless connectivity gives you a longer range, audio cable use allows you to save on your battery. 
+Pros:
+- - Feels comfortable on prolonged use
+- Customizable fit
+- Highly durable
+- Excellent value for money
 
-Cons: - It does not achieve total noise isolation
+
+
+Cons:
+- - It does not achieve total noise isolation
+
 
 
 ##  Factors in Best Noise Cancelling Headphones Under 150
@@ -150,4 +209,5 @@ The ultimate pick should be capable of performing different functions for differ
 ##  Conclusion
 
 On best noise-canceling headphones under 150, in particular, the Cowin E7 Pro stands out due to its quality of sound output, which allows experiencing subtle music details such as clearer vocals and precise guitar sounds. More importantly, the noise cancellation capability of this unit makes it ideal for travelers and workers at busy offices, allowing you unlimited listening performance as you watch movies or listen to music.
+
 

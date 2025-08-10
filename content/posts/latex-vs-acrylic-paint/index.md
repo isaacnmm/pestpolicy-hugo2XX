@@ -129,3 +129,4 @@ Acrylic paint contains toxic and flammable components that may cause environment
 
 Notably, latex paint in more economical and easier to clean with soap than acrylic paint.
 
+

@@ -30,11 +30,17 @@ Its an excellent mic package for anyone that requires a wireless lavalier mic fo
 
 Also, you can operate at about 98ft even when there any 'obstructions. '
 
-Further, Comica CVM-WS50(C) easily connects to 6 varied channels and thus will give you a great recording experience - particularly with iPad and iPhone video recording. This wireless lavalier mic will provide you with a seamless connection. Pros: - It offers better control and audio recording monitoring with the installed LCD.
+Further, Comica CVM-WS50(C) easily connects to 6 varied channels and thus will give you a great recording experience - particularly with iPad and iPhone video recording. This wireless lavalier mic will provide you with a seamless connection. 
+Pros:
+- - It offers better control and audio recording monitoring with the installed LCD.
+
 
 - Allows charging via USB - Has a volume that's easily adjustable - Great connection rage going to roughly 60 meters - Comes with a phone camp and tripod - Allows real-time sound monitoring - Alllow omni-directional lavalier connection - wirelessly
 
-Cons: - None
+
+Cons:
+- - None
+
 
 
 ###  [2. BOYA BY-WM2G Lavalier Wireless Mic](https://www.amazon.com/dp/B07GSWG9VH/?tag=p-policy-20)
@@ -45,13 +51,19 @@ G et this BOYA BY-WM2G mic if you need a reliable and quality lapel microphone s
 
 BOYA BY-WM2G provides excellently accurate and clear vocals over its full range. You can use it on the GoPro, DSLR camera, tablet, and android phone. BOYA BY-WM2G, like other lapel microphones, are portable and small in size, which means that they'll be unobtrusive and light for smooth working. With the audio jack (3. 5mm), the mic's receiver works smoothly with your devices.
 
-I recommend this iPhone mic for recording action events, weddings, and interviews thanks to its clear audio and 15m range. But you'll need the lightning connector to connect to your iPhones. Pros: - The[wireless lavalier mic](https://pestpolicy.com/best-wireless-lavalier-mic-for-dslr/)isa great vlogging mic made by a famous audio devices company.
+I recommend this iPhone mic for recording action events, weddings, and interviews thanks to its clear audio and 15m range. But you'll need the lightning connector to connect to your iPhones. 
+Pros:
+- - The[wireless lavalier mic](https://pestpolicy.com/best-wireless-lavalier-mic-for-dslr/)isa great vlogging mic made by a famous audio devices company.
+
 
 - Luckily, the iPhone mic will easily record your audio and video without capturing the background noises.
 
 - The lightweight and compact mic (receiver and transmitter) will be easy to carry around fro your gigs - checkBass Amps for Small Gigs. - You can easily attach the transmitter on your belt for easy recording.
 
-Cons: - None
+
+Cons:
+- - None
+
 
 
 ###  [3. Shure MV88 for iPad/ iPod/ iPhone/ Portable iOS Mic](https://www.amazon.com/dp/B010W6W8OW/?tag=p-policy-20)
@@ -64,13 +76,19 @@ On design favorably, the Shure MV88 iOS is compact, and hence it'll be easy to f
 
 You can move around with iPhone mic to different travelogues or outdoor video recording. Further, Shure MV88 iOS has excellent flexibility as you can simply flip and tilt the iPhone mic to varied directions and thus easily capture the required sound. For more comfortable usage, the mic will also work with apps accessible through the Apple store - these are [MOTIV Video](andMOTIVAudiothatallowbetterrecordingqualityfullHDaudio.
 
-Thedevicegivesrich,clear,smooth,andcrispsoundandvocalsevewithnolimitingorcompression.Withanappropriateplacement,you'llnoticethatthisisaportableandrobustvocalmic.Pros:-Butforrecordingprofessionalsound,getamethodtostabilizethetabletoriPhone-thiswillhelpbeyactingliketheregularshockmount.
+Thedevicegivesrich,clear,smooth,andcrispsoundandvocalsevewithnolimitingorcompression.Withanappropriateplacement,you'llnoticethatthisisaportableandrobustvocalmic.
+Pros:
+- -Butforrecordingprofessionalsound,getamethodtostabilizethetabletoriPhone-thiswillhelpbeyactingliketheregularshockmount.
+
 
 -Producescrisphigherandrichlows-Easyrecordingwiththecompatibleapp-seethemusicproductionmaccomputers.
 
 -EasilydisableoradjusttheDSP-Itsamulti-patternlikemono-cardioidandadjustable-stereoimages
 
-Cons:-Latencyduringmonitoring
+
+Cons:
+- -Latencyduringmonitoring
+
 
 ReadAlso:LaptopsforFLStudio
 
@@ -86,9 +104,18 @@ Use the rotating feature to get the right stereo orientation ( left-right). The 
 
 On compatibility, Zoom iQ7 MS will work with iOS devices that are lightning-equipped thanks to the removable spacer plus a Lightning connector to allow connection to iPod, iPad, and iPhone.
 
-Pros: - Has the mid-side option that increases the device's recording flexibility allowing post-production adjustments - Its capsules will rotate through multiple directions for proper positioning to capture your scenes or subjects. - The mic's Mid-Side offers advanced recording with varied width of the stereo image even after production. - It included both 1 bidirectional and directional mics for effective audio capturing.
 
-Cons: - Simple build
+Pros:
+- - Has the mid-side option that increases the device's recording flexibility allowing post-production adjustments
+- Its capsules will rotate through multiple directions for proper positioning to capture your scenes or subjects.
+- The mic's Mid-Side offers advanced recording with varied width of the stereo image even after production.
+- It included both 1 bidirectional and directional mics for effective audio capturing.
+
+
+
+Cons:
+- - Simple build
+
 
 https://youtu.be/ikWgl2eLwqk
 
@@ -96,4 +123,5 @@ https://youtu.be/ikWgl2eLwqk
 ##  Conclusion
 
 On the best wireless mic for iPhone, you'll love the added devices with the Comica CVM-WS50(C) package. See these music vidoes production cameras. It has receiver & transmitter, and portable case, belt clip, wind muff, USB charging cable, 3. 5mm audio mic, and the TRRS Sound Output Cable.
+
 

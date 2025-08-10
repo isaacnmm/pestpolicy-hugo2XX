@@ -31,7 +31,16 @@ Husqvarna HU800AWDH comes with a 22-inch deck made of steel woill ensure that yo
 
 *Motor Power*: This mower will be a breeze to start off even after months of idle sitting during winter.
 
-The Honda GCV engine allows it to start with its first time of trying even with no spluttering or coughing. Pros: - An all-wheel drive mower (4WD) - Its wheels have ball bearing - Large cutting deck (23-inch) - Has a 190 cc engine (Honda motor) that's very powerful to easily mow the big yards. - Come with hose attachment to allow for easy cleaning - Has a great Mulcher Cons: - Has a relatively flimsy mowing deck
+The Honda GCV engine allows it to start with its first time of trying even with no spluttering or coughing. 
+Pros:
+- - An all-wheel drive mower (4WD)
+- Its wheels have ball bearing
+- Large cutting deck (23-inch)
+- Has a 190 cc engine (Honda motor) that's very powerful to easily mow the big yards.
+- Come with hose attachment to allow for easy cleaning
+- Has a great Mulcher Cons:
+- Has a relatively flimsy mowing deck
+
 
 ###  [2. EGO Power Plus Cordless Walk-Behind Lawn Mower](https://www.amazon.com/dp/B00S6Z2GWQ/?tag=p-policy-20)
 
@@ -43,11 +52,19 @@ Plus the mower has a deck that has is weather-resistant. With its 20-inch deck p
 
 Also, it has mulch, side-discharge, and bag for clippings disposal.
 
-However, I would recommend that you have 1 extra battery. Thus, you can swap the main battery with the extra one when need to allow continuous mowing. EGO Power LM200 has a 6-pound 56V battery to offer excellent kicking in mowing. Pros: - High-torque motor (magnetic) offering 600W. - Won't slow down when mowing through stubborn weeds, hearty grasses and thick grass.
+However, I would recommend that you have 1 extra battery. Thus, you can swap the main battery with the extra one when need to allow continuous mowing. EGO Power LM200 has a 6-pound 56V battery to offer excellent kicking in mowing. 
+Pros:
+- - High-torque motor (magnetic) offering 600W.
+- Won't slow down when mowing through stubborn weeds, hearty grasses and thick grass.
+
 
 - Its 30% more quietly compared to other gas-powered mower models and thus produces zero pollutants.
 
-- Won't roll over the grass and its simple to maneuver plus you'll like the push-button starter that easily starts the mower's engine. Cons: - Limited positions for the variable handle - Would require some bigger battery
+- Won't roll over the grass and its simple to maneuver plus you'll like the push-button starter that easily starts the mower's engine. 
+Cons:
+- - Limited positions for the variable handle
+- Would require some bigger battery
+
 
 ###  [3.Craftsman 37430Gas-Powered 3-in-1 Push Mower](https://www.amazon.com/dp/B00S6Z2GWQ/?tag=p-policy-20)
 
@@ -57,7 +74,16 @@ Craftsman 37430 is lightweight - it weighs just 65 pounds. The mower has a 21-in
 
 I noted that when I pressed the priming bulb about 3-4 times, the mowers will start easily when you pull the mower's cord. You can rear-discharge, mulch, bag, or mulch the grass clippings. In addition, the height adjustments allowance in the dual-point deck makes it easy to cut the grass.
 
-Pros: - Craftsman 37430 is a light-weight mower that you can comfortably push around - The 5-Torque Engine gives the mower great cutting power - 3-in-1 design - You'll find it smooth to handle plus the rear wheels are large enough to cut through uneven turf - Has a cutting width of21 inches Cons: - Hidden oil cap - Its a gas-powered mower
+
+Pros:
+- - Craftsman 37430 is a light-weight mower that you can comfortably push around
+- The 5-Torque Engine gives the mower great cutting power
+- 3-in-1 design
+- You'll find it smooth to handle plus the rear wheels are large enough to cut through uneven turf
+- Has a cutting width of21 inches Cons:
+- Hidden oil cap
+- Its a gas-powered mower
+
 
 ###  [4. Greenworks 40V 20-Inch Twin Force Cordless Lawn Mower](https://www.amazon.com/dp/B00GX9WNP2/?tag=p-policy-20)
 
@@ -65,13 +91,20 @@ Next up is Greenworks 40V, which is not only great for large yards but also a po
 
 The mower has dual-blades to increase the devices' durability because the blades won't be strained.
 
-Further, the mower has excellent mulching and bagging. The top smart-cut design enables the lawn mower to cut grass automatically for along time - saves power. For best cutting capacity the mower has a cutting deck that's about 20 inches plus its 10-inch rear wheels plus 7-inch front wheels. Pros: - Has bagging and mulching capability for clearance of clippings.
+Further, the mower has excellent mulching and bagging. The top smart-cut design enables the lawn mower to cut grass automatically for along time - saves power. For best cutting capacity the mower has a cutting deck that's about 20 inches plus its 10-inch rear wheels plus 7-inch front wheels. 
+Pros:
+- - Has bagging and mulching capability for clearance of clippings.
 
-- Has top design smart-cut technology - Has a cutting deck measuring 20 inches - High powered battery Cons: - Needs regular battery re-charging
+
+- Has top design smart-cut technology - Has a cutting deck measuring 20 inches - High powered battery 
+Cons:
+- - Needs regular battery re-charging
+
 
 ##  Conclusion
 
 The best time for testing will be late winter or early spring. So, I cut grass with 3 mower types; side-discharging, bagging, mulching on ditches, slopes, and level turf. - *Cut Quality*: Offers great cut quality to give you an even and lovely lawn. Its cutting deck measures 22 and has 4-point adjustment cutting height. The grass cutting system is 3-in-1 and it'll side eject all the clippings, re-mulch yard grass, and bag all clippings.
 
 Also, the machine will do great mulching which means you won't notice any grass that's cut.
+
 

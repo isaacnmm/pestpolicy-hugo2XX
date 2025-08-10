@@ -32,9 +32,22 @@ Tomahawk bears a classic pass leveler that allows right grinding depth without o
 
 Notably, this power grinder is durable and has reduced vibrations.
 
-Pros: - Tough tungsten carbide teeth blade and classic drum kit - Reliable torque (5. 5 HP) and powerful Honda engine - Honda GX160 - Simple vacuum port and minimum ground vibration - 163cc air-cooled engine and multiple self-hardened cutters - Classic pass leveler and comfortable handle grip - Maximum surface contact and Front lifting handle
 
-Cons: - Requires initial user training - Slightly heavy
+Pros:
+- - Tough tungsten carbide teeth blade and classic drum kit
+- Reliable torque (5. 5 HP) and powerful Honda engine
+- Honda GX160
+- Simple vacuum port and minimum ground vibration
+- 163cc air-cooled engine and multiple self-hardened cutters
+- Classic pass leveler and comfortable handle grip
+- Maximum surface contact and Front lifting handle
+
+
+
+Cons:
+- - Requires initial user training
+- Slightly heavy
+
 
 
 ###  [2. XtremepowerUS 10-inch Walk-Behind Electric Concrete Floor Grinder](https://www.amazon.com/dp/B07VPC1CTQ/?tag=p-policy-20)
@@ -45,9 +58,22 @@ Moreover, Xtremepower comes with a long vacuum hose fitting that pairs perfectly
 
 Xtremepower generates a sustainable 1730 RPM that polish concrete instantly upon contact. Besides, this power grinder features a classic walk-behind design and wide base wheels that make it more stable and comfortable to use when grinding. Importantly, Xtremepower is manual and comes with a self-adjusting floating cover.
 
-Pros: - Sturdy steel framework and powerful 2. 0 HP motor - Adjustable handle height -34 to 46 - Wide base wheel (8) more stable - High RPM 1730 and comfortable walk-behind design - Manual starter and long vacuum hose fitting 2 - Wide disc diameter 10 and soft handle grip - Classic foot raiser and self-adjusting floating cover
 
-Cons: - May be affected by power shortage electric powered - The grinding surface could be more
+Pros:
+- - Sturdy steel framework and powerful 2. 0 HP motor
+- Adjustable handle height -34 to 46
+- Wide base wheel (8) more stable
+- High RPM 1730 and comfortable walk-behind design
+- Manual starter and long vacuum hose fitting 2
+- Wide disc diameter 10 and soft handle grip
+- Classic foot raiser and self-adjusting floating cover
+
+
+
+Cons:
+- - May be affected by power shortage electric powered
+- The grinding surface could be more
+
 
 > Read Also: > [Pressure Washer for Paint Removal](https://pestpolicy.com/best-pressure-washer-for-paint-removal/)
 
@@ -59,9 +85,22 @@ Husqvarna is lightweight (154. 3 pounds) and highly portable. The rigid rubber w
 
 The machine is also fitted with an adjustable handle and a classic height control mechanism that works best for various human heights. Husqvarna is best suited for small to the medium grinding task and guarantees you low power consumption. Notably, this machine is budget-friendly and simple to use.
 
-Pros: - Ergonomic work position and simple starter - Medium to the small work area and convenient to use - Highly portable and lightweight 154 pounds - Budget-friendly and less power consumption - Wide range of use and simple removal grinding disc - Classic rubber wheels and comfortable handle grip - Adjustable handle and reliable single phase motor
 
-Cons: - Not best for large grinding area - May get fatigued with the rough concrete surface
+Pros:
+- - Ergonomic work position and simple starter
+- Medium to the small work area and convenient to use
+- Highly portable and lightweight 154 pounds
+- Budget-friendly and less power consumption
+- Wide range of use and simple removal grinding disc
+- Classic rubber wheels and comfortable handle grip
+- Adjustable handle and reliable single phase motor
+
+
+
+Cons:
+- - Not best for large grinding area
+- May get fatigued with the rough concrete surface
+
 
 
 ###  [4. CS Unitec EBS Walk-Behind Concrete Floor Grinder](https://www.amazon.com/dp/B071V8DSB2/?tag=p-policy-20)
@@ -72,9 +111,23 @@ Indeed, CS Unitec is manufactured using a sturdy steel frame structure that is f
 
 The lightweight grinder is highly portable and comes with high suction power and a simple vacuum connector. Besides, CS Unitec features a classic loading mechanism and additional motor handle that aid in portability. The wide disc diameter (7) is centralized for excellent pick-up while the top guard is firmly fixed to prevent debris loses. Importantly, CS Unitec is more comfortable to start and use no initial training needed.
 
-Pros: - Adjustable handle and detachable dust bag - Classic vibration reduction technology - High load capacity and highly portable - Lightweight (84lbs) and high suction power - Adjustable chassis and adaptable floor guide - Resilient single phase motor and classic load speed of 1700 RPM - Additional motor handle and wide disc diameter 7
 
-Cons: - The grinding area could be more - Limited rotary motion - Requires external dust bag
+Pros:
+- - Adjustable handle and detachable dust bag
+- Classic vibration reduction technology
+- High load capacity and highly portable
+- Lightweight (84lbs) and high suction power
+- Adjustable chassis and adaptable floor guide
+- Resilient single phase motor and classic load speed of 1700 RPM
+- Additional motor handle and wide disc diameter 7
+
+
+
+Cons:
+- - The grinding area could be more
+- Limited rotary motion
+- Requires external dust bag
+
 
 
 ###  [5. Concrete Floor Grinder for Polishing Jobs and Edge work](https://www.amazon.com/dp/B00B28L3DM/?tag=p-policy-20)
@@ -85,9 +138,22 @@ The simple link vacuum material is firmly fixed and adaptable to most available 
 
 Indeed, Concrete Grinder is easier to transport and set comes with tow handlebar and retractable stand.
 
-Notably, Concrete Floor Grinder works best for medium and large concrete grain surfaces without wearing out quickly. Pros: - Sturdy steel framework and classic handlebar - Rigid rotary caster wheels and adjustable angular bar - Simple link vacuum system and tough diamond head - Easier to transport and heavy-duty construction - Free headlight and Variable speed control - Quick pressure control and comfortable handle grip
+Notably, Concrete Floor Grinder works best for medium and large concrete grain surfaces without wearing out quickly. 
+Pros:
+- - Sturdy steel framework and classic handlebar
+- Rigid rotary caster wheels and adjustable angular bar
+- Simple link vacuum system and tough diamond head
+- Easier to transport and heavy-duty construction
+- Free headlight and Variable speed control
+- Quick pressure control and comfortable handle grip
 
-Cons: - Not suitable very rough concrete surface - Limited vertical adjustability - Fixed handlebar
+
+
+Cons:
+- - Not suitable very rough concrete surface
+- Limited vertical adjustability
+- Fixed handlebar
+
 
 > Read Also: > Paint Sprayer for Interior Walls
 
@@ -101,12 +167,27 @@ MK Diamond comes with adjustable and removable handles, which are easier to fix 
 
 The handles are fitted with comfortable grips while the 7 diamond wheels are nicely cupped to improved base stability when grinding. MK Diamond is power efficient and more comfortable to control. Notably, this grinder is highly portable and reliable.
 
-Pros: - High load speed (3500 RPM) and simple release design - Heavy gauge steel construction (durable) and portable - Removable and adjustable handlebar - Classic vacuum connection port and 7-Inch diamond cup wheel - Lightweight and MK IXL vacuum shroud - Simple knock pin switch and attractive design - Comfortable handle grips and low power consumption - High stability and reduced vibrations
 
-Cons: - Disc width could be better - Not for rough concrete surface
+Pros:
+- - High load speed (3500 RPM) and simple release design
+- Heavy gauge steel construction (durable) and portable
+- Removable and adjustable handlebar
+- Classic vacuum connection port and 7-Inch diamond cup wheel
+- Lightweight and MK IXL vacuum shroud
+- Simple knock pin switch and attractive design
+- Comfortable handle grips and low power consumption
+- High stability and reduced vibrations
+
+
+
+Cons:
+- - Disc width could be better
+- Not for rough concrete surface
+
 
 
 ##  Conclusion
 
 Having the best walk behind concrete grinder simplifies your polishing activities. You'll need a grinder that is easier to use, power-efficient, highly portable, durable, low vibrating, adjustable, comfortable, and simple to set. Besides, let your final choice be budget-friendly and match the level of concrete roughness you intend to polish without damaging the disc.
+
 

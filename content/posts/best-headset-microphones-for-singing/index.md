@@ -32,9 +32,18 @@ Therefore, the gooseneck build-for-recording-vocals/) makes it simple to positio
 
 The electret condenser cartridge will give you detailed and crisp vocals plus a windscreen for top audio reproduction.
 
-Pros: - Itscondenser cartridge is fully charged for clean vocals - Has thecardioid polar pattern that uni-directional to allow the gain prior to the feedback - Gooseneck mic design for more flexibility - Budget-friendly
 
-Cons: - Non-adjustable headband
+Pros:
+- - Itscondenser cartridge is fully charged for clean vocals
+- Has thecardioid polar pattern that uni-directional to allow the gain prior to the feedback
+- Gooseneck mic design for more flexibility
+- Budget-friendly
+
+
+
+Cons:
+- - Non-adjustable headband
+
 
 
 ###  [2. AKG C520 L Headset Vocal Microphone - #2 Pick](https://www.amazon.com/dp/B07Q9YKB8D/?tag=p-policy-20)
@@ -45,9 +54,18 @@ AKG C520 is loved by dancing performers, guitarists, drummers, singing keyboardi
 
 It'll sit greatly without the discomfort of being too tight once settled.
 
-You can mount the mic on either the right or left of this headband. AKG C520 has a gooseneck extension that's fully adjustable and will ensure the mic remains steady in its place. Pros: - AKG C520 will be good for concert halls am small-pub singing gigs - Has a greattransducer elements - Moutable on either side of your frame - Has asturdy and lightweight frame
+You can mount the mic on either the right or left of this headband. AKG C520 has a gooseneck extension that's fully adjustable and will ensure the mic remains steady in its place. 
+Pros:
+- - AKG C520 will be good for concert halls am small-pub singing gigs
+- Has a greattransducer elements
+- Moutable on either side of your frame
+- Has asturdy and lightweight frame
 
-Cons: - Costly
+
+
+Cons:
+- - Costly
+
 
 
 ###  [3. Countryman E6 Mic Omni-Earset - #3 Pick](https://www.amazon.com/dp/B00B8VXFK2/?tag=p-policy-20)
@@ -62,9 +80,19 @@ The omnidirectional earset will ensure non-obstruction by rejecting breath pops,
 
 You can get it in the tan color and will acquire sensitivity for classic, vocals, and speaking boom.
 
-Its boom helps hold the microphone near and around your mouth and hence give excellent noise cancelation. Also, note that it won't pick breath and wind sounds. Pros: - Replaceable but durable cable - Durable headset singing microphone - Lightweight but also comfortable - Amazing and clear singing sound quality - Tiny mic that's also lightweight
+Its boom helps hold the microphone near and around your mouth and hence give excellent noise cancelation. Also, note that it won't pick breath and wind sounds. 
+Pros:
+- - Replaceable but durable cable
+- Durable headset singing microphone
+- Lightweight but also comfortable
+- Amazing and clear singing sound quality
+- Tiny mic that's also lightweight
 
-Cons: - Costly Mic
+
+
+Cons:
+- - Costly Mic
+
 
 https://youtu.be/Avrgk0DTq_0Read Also: Best Earplugs for Concerts
 
@@ -78,9 +106,20 @@ Equally, this mic will reject most feedback and signal bleed thanks to the tight
 
 SM35-TQG has a robust and bigger wireframe that'll easily tilt towards you but you can get it both in the wireless and wired versions.
 
-This headset mic has the clip-on windscreen and its relatively large in size. Comparatively, this is a real workhorse mic that's both high-quality and durable. Pros: - SM35-TQG will work great with thebodypacks from Shure or the TA4F connector-installed devices. - Multi-purpose headset singing mic - Simple assembly and sausage process - Adjustable, flexible, and durable headset mic - Amazing condenser tech - Great sound and audio quality
+This headset mic has the clip-on windscreen and its relatively large in size. Comparatively, this is a real workhorse mic that's both high-quality and durable. 
+Pros:
+- - SM35-TQG will work great with thebodypacks from Shure or the TA4F connector-installed devices.
+- Multi-purpose headset singing mic
+- Simple assembly and sausage process
+- Adjustable, flexible, and durable headset mic
+- Amazing condenser tech
+- Great sound and audio quality
 
-Cons: - Les flexible and adjustable wire frame
+
+
+Cons:
+- - Les flexible and adjustable wire frame
+
 
 
 ##  Considerations for Best Headset Microphones for Singing
@@ -94,4 +133,5 @@ Therefore, on the environmental or ambient noise, they'll have limited filtratio
 ##  Conclusion
 
 The mics will readily blend with your environment and you may use some windscreen. Further, the steel mic construction ensures that it's hard and durable. Check these harmonica microphones for s tudio playing and live.
+
 

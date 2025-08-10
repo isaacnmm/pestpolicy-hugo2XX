@@ -36,7 +36,15 @@ The EVA midsole provides impact *absorption to protect your lower back and joint
 
 Vionic Womens Walker is lightweight and durable enough to make walking all day enjoyable. **Water Proof ** The Rubber outsole of Vionic Womens Walker makes the shoe waterproof. You can walk comfortably with these shoes in all weathers without them getting damaged. If you reside in areas that experience heavy rains and love going out, then this footwear will favor you.
 
-Pros: - Excellent mesh upper for breathability - Strong rubber outsole - Full-grain leather - Slip-resistant outsole - Polyester upper lining for smooth feel when wearing Cons: - Some customers remark that the underside of shoe near the toe wears off quickly?
+
+Pros:
+- - Excellent mesh upper for breathability
+- Strong rubber outsole
+- Full-grain leather
+- Slip-resistant outsole
+- Polyester upper lining for smooth feel when wearing Cons:
+- Some customers remark that the underside of shoe near the toe wears off quickly?
+
 
 ###  [2. Brooks Men's Addiction Walker Walking Shoes](https://www.amazon.com/dp/B0012IL9CC/?tag=p-policy-20)
 
@@ -56,7 +64,17 @@ The footwear has unmatched arches and bends to give you proper comfort and suppo
 
 This footwear is made with a linear platform technology which helps to extend its durability making them suitable for obese individuals. **Comfort ** If you want comfort, durability, and stability while walking to alleviate lower back pain Brooks Mens Walking Shoes will be a perfect choice. The shoes are equipped with excellent midsole cushioning which offers exceptional support to your feet making them ideal for walking all day.
 
-Pros: - Sturdy shoe - Excellent cushioning alleviates lower back pain - Superior quality made with leather - Lightweight Shoe - Simple and plain design can be worn in any event - Recommended for podiatrist and chiropractor Cons: - The shoe has short laces - Some customers complained that the Brooks Addiction was?
+
+Pros:
+- - Sturdy shoe
+- Excellent cushioning alleviates lower back pain
+- Superior quality made with leather
+- Lightweight Shoe
+- Simple and plain design can be worn in any event
+- Recommended for podiatrist and chiropractor Cons:
+- The shoe has short laces
+- Some customers complained that the Brooks Addiction was?
+
 
 ###  [3. Merrell Men's Polarand Rove Moc Shoes](https://www.amazon.com/dp/B00HF4V6GG/?tag=p-policy-20)
 
@@ -72,7 +90,14 @@ This sole supports your arch while walking protecting you from muscle and joint 
 
 **Comfort And Stability ** The shoe features a patented midsole which helps to absorb excess shock while enhancing stability. - The air cushion provides excellent heel compression helping to absorb the body's weight thereby keeping the incorrect heel posture inside the shoe for outstanding comfort, support, and stability.
 
-Pros: - Ideal for all weather conditions - Offers excellent breathability - Offers outstanding cushioning while walking - Best walking shoes for lower back pain Cons: - None?
+
+Pros:
+- - Ideal for all weather conditions
+- Offers excellent breathability
+- Offers outstanding cushioning while walking
+- Best walking shoes for lower back pain Cons:
+- None?
+
 
 ###  [4. Rockport Men's Eureka Walking Shoe](https://www.amazon.com/dp/B00627D8EK/?tag=p-policy-20)
 
@@ -88,9 +113,19 @@ The forefoot area features additional cushioning to let the feet have a natural 
 
 **Remarkable Inner Sole** The inner sole has latex foam which allows your feet to rest comfortably while getting the necessary support from the soft sole surface.
 
-Pros: - Made using high-quality material - The mesh fabric on the inner lining allows for airflow leaving your feet fresh and dry after hours of walking - Excellent cushioning throughout the shoe - The inner sole has latex form that gives you a perfect fit while keeping the feet in right posture - Well-designed outer surface allows you to wear them on all events.
 
-Cons: - The toe area is not spacious enough people with wide feet might find it uncomfortable. ?
+Pros:
+- - Made using high-quality material
+- The mesh fabric on the inner lining allows for airflow leaving your feet fresh and dry after hours of walking
+- Excellent cushioning throughout the shoe
+- The inner sole has latex form that gives you a perfect fit while keeping the feet in right posture
+- Well-designed outer surface allows you to wear them on all events.
+
+
+
+Cons:
+- - The toe area is not spacious enough people with wide feet might find it uncomfortable. ?
+
 
 ###  [**5. Orthofeet Avery Island Men Comfort **](https://www.amazon.com/dp/B003OGLG1E/?tag=p-policy-20)
 
@@ -108,7 +143,16 @@ Further, the toe box is built in a way that enables your feet to relax while all
 
 Further, the soles are lightweight and well-cushioned and offer an ergonomic-stride design to improve stability while facilitating great foot motion. These insoles help to reduce corns and calluses while relieving pressure on the bottom of your feet. Also, they deliver exceptional support and comfort for flat feet.
 
-Pros: - Excellent cushioning - Orthotic insoles - Comfortable - Exceptional arch support - Ideal for formal and casual occasions - Help to relieve foot and heel Cons: - Some customers complained that the toe box too narrow?
+
+Pros:
+- - Excellent cushioning
+- Orthotic insoles
+- Comfortable
+- Exceptional arch support
+- Ideal for formal and casual occasions
+- Help to relieve foot and heel Cons:
+- Some customers complained that the toe box too narrow?
+
 
 ###  [6. Brooks Women's Addiction Walker](https://www.amazon.com/dp/B0012INC40/?tag=p-policy-20)
 
@@ -130,7 +174,15 @@ This footwear is also ideal for everyday walking or standing for extended period
 
 The midsole is soft, durable, and offers more flexibility when walking. Further, the cushy sole, a sturdy insole board ensures you are comfortable and offers more cushioning and flexibility allowing longer walks without pains. **Excellent Shock Absorption** The hydro flow technology enables the shoes to absorb more shock while you walk protecting you from the foot-ground impact.
 
-This technology facilitates small chambers which are placed in the heel and forefoot of brooks to offer ultimate shock absorption. Pros: - Orthotics are designed to fit perfectly - Offers excellent cushioning - Very sturdy shoe - Quality leather upper provides ample support for your foot - The lightweight shoe makes walking easy Cons: - You might need to get better insoles or inserts for additional comfort?
+This technology facilitates small chambers which are placed in the heel and forefoot of brooks to offer ultimate shock absorption. 
+Pros:
+- - Orthotics are designed to fit perfectly
+- Offers excellent cushioning
+- Very sturdy shoe
+- Quality leather upper provides ample support for your foot
+- The lightweight shoe makes walking easy Cons:
+- You might need to get better insoles or inserts for additional comfort?
+
 
 ###  [7. Dansko Women's Professional Mule](https://www.amazon.com/dp/B001EJMYPK/?tag=p-policy-20)
 
@@ -142,7 +194,17 @@ You can walk or stand for long hours without having sweaty or smelly feet. **Exc
 
 **Stability** Dansko Women's Professional has a wider heel and sole which helps to create an excellent heel strike. As a result, the wearer gets better traction and enhanced stability giving them all-day standing or walking endurance.
 
-Pros: - Easy to clean - The rubber outsole is slip-resistant - Has spacious toe box making them comfortable wear for extended hours - Comfortable - Excellent arch support - Ideal for people with high arches - Reasonably priced Cons: - Can be a challenge to correctly size?
+
+Pros:
+- - Easy to clean
+- The rubber outsole is slip-resistant
+- Has spacious toe box making them comfortable wear for extended hours
+- Comfortable
+- Excellent arch support
+- Ideal for people with high arches
+- Reasonably priced Cons:
+- Can be a challenge to correctly size?
+
 
 ##  Guide: Best Walking Shoes For Lower Back Pain
 
@@ -167,4 +229,5 @@ Lower back pain affects many people throughout the world. It is crucial for you 
 Any of the reviewed shoes are ideal for walking and can help relieve back pain.
 
 You can also decide to go a step further and get compression socks which also offer excellent cushioning. The shoes reviewed in this guide are meant to offer comfort, cushioning, and stability to the heel, midfoot, and ankle.
+
 

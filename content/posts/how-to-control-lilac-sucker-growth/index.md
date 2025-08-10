@@ -51,9 +51,15 @@ Effective sucker control requires diligence and the right technique.
 
 * **Frequency: ** Be vigilant and check your lilacs for suckers every few weeks during the growing season. 2. **Chemical Control (Use with Caution): ** * **Targeted Herbicide Application: ** For persistent or numerous suckers, a very targeted application of a systemic herbicide (like glyphosate, diluted according to product instructions) can be used.
 
-* **Method: ** Cut the sucker off and immediately (within minutes) paint the freshly cut surface with a small amount of concentrated herbicide using a small brush or cotton swab. This allows the herbicide to be absorbed and translocated into the root system, killing the source of the sucker. * **Pros: ** Can be effective at preventing regrowth from that specific point.
+* **Method: ** Cut the sucker off and immediately (within minutes) paint the freshly cut surface with a small amount of concentrated herbicide using a small brush or cotton swab. This allows the herbicide to be absorbed and translocated into the root system, killing the source of the sucker. * **
+Pros:
+- ** Can be effective at preventing regrowth from that specific point.
 
-* **Cons: ** Non-selective herbicides like glyphosate will kill any plant tissue they contact, including the main lilac plant if misapplied. Use with extreme caution and only as a last resort. Always wear appropriate personal protective equipment (PPE). 3.
+
+* **
+Cons:
+- ** Non-selective herbicides like glyphosate will kill any plant tissue they contact, including the main lilac plant if misapplied. Use with extreme caution and only as a last resort. Always wear appropriate personal protective equipment (PPE). 3.
+
 
 **Root Collar Excavation: ** * **Method: ** For heavily suckering plants, or to identify if suckers are coming from the rootstock, gently excavate the soil around the base of the plant to expose the root collar and upper roots.
 
@@ -100,4 +106,5 @@ If the constant battle with suckers or the specific growing conditions are a con
 Lilacs, with their irresistible fragrance and charming blooms, are truly a highlight of the spring garden. While their tendency to produce suckers can be a minor annoyance, it is a manageable trait. By understanding the reasons behind sucker growth whether it's their natural habit, grafting, or plant stress and implementing consistent, proper pruning techniques, you can effectively control these unwanted shoots.
 
 Regular vigilance and the right approach will ensure your lilac remains a healthy, well-shaped, and abundantly flowering specimen, continuing to grace your garden with its timeless beauty year after year.
+
 

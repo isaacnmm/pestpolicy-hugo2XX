@@ -52,17 +52,32 @@ One of the most persistent "troubles" with gutters is clogging from leaves, twig
 
 There are several types of gutter guards:
 
-1. **Screens: ** * **Description: ** Simple mesh screens that lay over or snap onto the top of the gutter. * **Pros: ** Inexpensive, easy to install. * **Cons: ** Can still allow small debris (pine needles, shingle grit) to enter, larger debris can sit on top and impede flow, requiring occasional brushing off. 2.
+1. **Screens: ** * **Description: ** Simple mesh screens that lay over or snap onto the top of the gutter. * **
+Pros:
+- ** Inexpensive, easy to install. * **Cons: ** Can still allow small debris (pine needles, shingle grit) to enter, larger debris can sit on top and impede flow, requiring occasional brushing off. 2.
+
 
 **Perforated/Slotted Covers: ** * **Description: ** Solid covers with small holes or slots that allow water to enter while blocking larger debris.
 
-* **Pros: ** More effective than screens for larger debris. * **Cons: ** Can still get clogged with smaller particles, may require cleaning of the slots, heavy rain can overshoot the holes. 3. **Surface Tension/Reverse Curve Systems: ** * **Description: ** These covers utilize the principle of surface tension, where water clings to the curved surface and flows into a narrow opening, while debris falls off.
+* **
+Pros:
+- ** More effective than screens for larger debris. * **Cons: ** Can still get clogged with smaller particles, may require cleaning of the slots, heavy rain can overshoot the holes. 3. **Surface Tension/Reverse Curve Systems: ** * **Description: ** These covers utilize the principle of surface tension, where water clings to the curved surface and flows into a narrow opening, while debris falls off.
 
-* **Pros: ** Highly effective at keeping almost all debris out, minimal cleaning required.
 
-* **Cons: ** More expensive, can sometimes be overshot by extremely heavy downpours, may be visible from the ground. 4. **Fine Mesh/Micro-Mesh: ** * **Description: ** Very fine stainless steel mesh attached to an aluminum frame, blocking even tiny particles like shingle grit and pine needles. * **Pros: ** Best at keeping out all debris, highly effective.
+* **
+Pros:
+- ** Highly effective at keeping almost all debris out, minimal cleaning required.
 
-* **Cons: ** More expensive, very fine debris (pollen, dust) can still accumulate on top and reduce flow, requiring occasional rinsing or brushing.
+
+* **
+Cons:
+- ** More expensive, can sometimes be overshot by extremely heavy downpours, may be visible from the ground. 4. **Fine Mesh/Micro-Mesh: ** * **Description: ** Very fine stainless steel mesh attached to an aluminum frame, blocking even tiny particles like shingle grit and pine needles. * **Pros: ** Best at keeping out all debris, highly effective.
+
+
+* **
+Cons:
+- ** More expensive, very fine debris (pollen, dust) can still accumulate on top and reduce flow, requiring occasional rinsing or brushing.
+
 
 **Are gutter guards worth it? ** For homes with abundant trees, gutter guards are often a worthwhile investment. They don't eliminate the need for *all* gutter maintenance but drastically reduce the frequency and effort of cleaning, protecting your home more consistently.
 
@@ -83,4 +98,5 @@ Ensure proper pitch (1/4 inch per 10 feet of run) towards downspouts. 3.
 * **Repair: ** For minor rust, clean, treat with rust converter, prime, and paint.
 
 For holes, patch. Extensive rust often means replacement is necessary. 5. **Damage from Storms/Impact: ** * **Signs: ** Dents, bends, crushed sections from falling branches, ladders, or hail. * **Repair: ** Small dents can sometimes be carefully pushed out. Larger, crushed sections require replacement of the damaged piece.
+
 

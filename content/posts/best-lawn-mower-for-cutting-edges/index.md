@@ -30,7 +30,18 @@ Its 4 blades - 72511-VH7-000 (lower blade) plus 72531-VH7-000 (upper blade) - wi
 
 However, Honda HRX217K5VKA is noisier (produces 97 dB) compared to gas yard mowers.
 
-Despite being expensive, Honda HRX217K5VKA will give you quality cuts in the edges. Its 4 great blades will reach even the difficult places. Pros: - Reduces cleanup and will have lesser clumping of cuttings - Its a cutting height is adjustable using the installed 7-level knob - Its engine (rear-drive) is super powerful - It allows finer cutting with the 4 Micro-Cut blades - Its clippings bag is fixed at the back this further enhances stability.
+Despite being expensive, Honda HRX217K5VKA will give you quality cuts in the edges. Its 4 great blades will reach even the difficult places. 
+Pros:
+- - Reduces cleanup and will have lesser clumping of cuttings
+- Its a cutting height is adjustable using the installed 7-level knob
+- Its engine (rear-drive) is super powerful
+- It allows finer cutting with the 4 Micro-Cut blades
+- Its clippings bag is fixed at the back this further enhances stability.
 
-Cons: - Noisier (produces 97 dB)
+
+
+Cons:
+- - Noisier (produces 97 dB)
+
+
 

@@ -30,9 +30,19 @@ The Alkyd enamels offer protection against metal corrosion and also aid quick dr
 
 Krylon K06901900 offers corrosion prevention to also give a durable and smooth finish even with no primer. It's great for staining your snowboard, masonry, concrete, ceramic, plaster, glass, wicker, metal, wood. However, you'll require to utilize the regular mineral spirits or household detergent to leave the snowboard surface dry, dull, and clean.
 
-Pros: - Won't get dirt or dust - Gives a rust-fighting, durable, and smooth finish - Quick-drying finish - within 88 minutes - Durable and tough stain finish
 
-Cons: - None
+Pros:
+- - Won't get dirt or dust
+- Gives a rust-fighting, durable, and smooth finish
+- Quick-drying finish
+- within 88 minutes
+- Durable and tough stain finish
+
+
+
+Cons:
+- - None
+
 
 
 ###  [2. Duratec Fibre Glast with Hardener Sunshield Clear Top-coat](https://www.amazon.com/dp/B015NM22Y6/?tag=p-policy-20)
@@ -47,9 +57,18 @@ Clear all the acetone-wipe and dust before applying the Duratec Fibre Glast and 
 
 Finally, use a 400 grit sandpaper on the final snowboard spray and leave to cure - roughly 8 hours before during the last polishing. Also, wet sand the surfaces using a 400 to 1500 sandpaper grit. Application of this Duratec Fibre Glast is simple - just spray some light dust coat (light fog) or mist coat and allow it to sit for 2 minutes prior to additional application.
 
-Pros: - Blended with gel coats to improve gloss level lower viscosity and enhance the gel coat properties - However, for the post-mold application, you'll require 180-grit sandpaper to clean the surfaces clean. - You may also need to clean with Scotch-Brite pad and water for the epoxy laminates. - It allows gel coat to cure open-air so it's our recommendation to use this for any gel coat repair that will have air contact
 
-Cons: - None
+Pros:
+- - Blended with gel coats to improve gloss level lower viscosity and enhance the gel coat properties
+- However, for the post-mold application, you'll require 180-grit sandpaper to clean the surfaces clean.
+- You may also need to clean with Scotch-Brite pad and water for the epoxy laminates.
+- It allows gel coat to cure open-air so it's our recommendation to use this for any gel coat repair that will have air contact
+
+
+
+Cons:
+- - None
+
 
 
 ###  [3. Eastwood Diamond Clear Satin Finish DTM](https://www.amazon.com/dp/B071Y7SFRF/?tag=p-policy-20)
@@ -58,12 +77,20 @@ Eastwood Diamond Clear is a suitable top-caot for your snowboard that'll preserv
 
 Eastwood Diamond Clear makes the snowboard to withstand harsh weather including high temperatures off about 300 degrees F. Thus, it'll protect and seal the snowboard surfaces. It's suitable for polished and finished surfaces to hinder ultra-violet light and corrosion. Further, it'll easily seal both the painted and all bar e metal surfaces. The Eastwood Diamond Clear will match the sheen and look of your snowboard - and most black OEM-wheels.
 
-It's great for muscle car wheels among other styled-steel wheels. The snowboard clear stain will lay down excellently and won't display any spray pattern after drying. Further, the coating will be tough and lasts long - get your nice glossy and beautiful look. Pros: - This clear stain provides a top sheen and durability. - However, for this clear stain, you'll require to use it in some ventilated areas due to its toxic nature.
+It's great for muscle car wheels among other styled-steel wheels. The snowboard clear stain will lay down excellently and won't display any spray pattern after drying. Further, the coating will be tough and lasts long - get your nice glossy and beautiful look. 
+Pros:
+- - This clear stain provides a top sheen and durability.
+- However, for this clear stain, you'll require to use it in some ventilated areas due to its toxic nature.
 
-Cons: - None
+
+
+Cons:
+- - None
+
 
 
 ##  Conclusion
 
 The best clear coat for snowboard - Krylon K06901900 will paint your guards and metal to prevent rusting and give it a beautiful finish. A major positive point is the paint's quick dry-time - about 8 minutes.
+
 

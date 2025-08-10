@@ -39,9 +39,21 @@ Youll actually enjoy the impressive punchy HD sound vibration thats strongly sec
 
 Importantly, Boltune claims to provide first-class professional comfort and fits your ears perfectly without over-pressing.
 
-Pros: - Classic design and impressive color - Powerful 5. 0 Bluetooth and instant microphone - Reliable battery 30 hours non-stop music playback - Adjustable headband and comfortable non-toxic protein ear cushion - Simple ANC switch and deep bass technology - Budget friendly and highly portable - Advance ANC technology
 
-Cons: - No interference receiver from other devices
+Pros:
+- - Classic design and impressive color
+- Powerful 5. 0 Bluetooth and instant microphone
+- Reliable battery 30 hours non-stop music playback
+- Adjustable headband and comfortable non-toxic protein ear cushion
+- Simple ANC switch and deep bass technology
+- Budget friendly and highly portable
+- Advance ANC technology
+
+
+
+Cons:
+- - No interference receiver from other devices
+
 
 
 ###  [2. Skullcandy Crusher - #2 Pick](https://www.amazon.com/dp/B07C4HK5W1/?tag=p-policy-20)
@@ -56,9 +68,24 @@ Furthermore, the two sub-woofer audio drivers are nicely connected with adjustab
 
 Indeed, the stylish design of Skullcandy is coupled with impressive color (black or gray) that will boost your confidence further while the tough casing is made using durable and scratch-resistant material. Importantly, Skullcandy is fitted with an extra powerful battery that delivers 40 hours of non-stop playback music in a single charge. NB: Skullcandy is affordable and lightweight.
 
-Pros: - Sturdy headband and tough casing - Long lasting rechargeable battery 40 hours non-stop playback - Adjustable hepatic bass and dual powerful audio drivers - Comfortable ear pads and advance ANC technology - Lightweight and impressive design - Affordable and dual driver immersion - Stylish and powerful Bluetooth connectivity - Highly portable and adjustable headband - Simple press volume buttons and has a USB port
 
-Cons: - Few colors available black and gray - Earmuffs may be tight for large heads
+Pros:
+- - Sturdy headband and tough casing
+- Long lasting rechargeable battery 40 hours non-stop playback
+- Adjustable hepatic bass and dual powerful audio drivers
+- Comfortable ear pads and advance ANC technology
+- Lightweight and impressive design
+- Affordable and dual driver immersion
+- Stylish and powerful Bluetooth connectivity
+- Highly portable and adjustable headband
+- Simple press volume buttons and has a USB port
+
+
+
+Cons:
+- - Few colors available black and gray
+- Earmuffs may be tight for large heads
+
 
 
 ###  [3. SANAG Bluetooth Wireless Headphone - #3 Pick](https://www.amazon.com/dp/B07V2CBZH5/?tag=p-policy-20)
@@ -73,9 +100,22 @@ The high-quality headset has hypersensitive dual audio drivers and Hi-Res built-
 
 Dont forget that this headphone is lightweight and budget friendly too.
 
-Pros: - Impressive design and tough casing - Comfortable ear cushion skin friendly - Powerful 5. 0 Bluetooth connectivity - Reliable 600mAh battery life 30 hours of playback music - Top Hi-Fi sound quality and instant action microphone - Wireless ANC stereo sound cancellation - Cushion headband and adjustable slide options
 
-Cons: - Slightly expensive - No side rotation rotates up and down
+Pros:
+- - Impressive design and tough casing
+- Comfortable ear cushion skin friendly
+- Powerful 5. 0 Bluetooth connectivity
+- Reliable 600mAh battery life 30 hours of playback music
+- Top Hi-Fi sound quality and instant action microphone
+- Wireless ANC stereo sound cancellation
+- Cushion headband and adjustable slide options
+
+
+
+Cons:
+- - Slightly expensive
+- No side rotation rotates up and down
+
 
 
 ###  [4. Philips SHB8750NC/27 Wireless Headphones](https://www.amazon.com/dp/B015CVOEW6/?tag=p-policy-20)
@@ -94,9 +134,27 @@ for easier regulation of various sound options. The NFC one-tap Bluetooth connec
 
 Notably, Philips is integrated with powerful 32mmneodymium speaker drivers that claims to deliver super fine quality sound without irritating your eardrums.
 
-Pros: - Has active shield noise cancellation - up to 97% - NFC one-tap pairing Bluetooth technology with inbuilt AAC - Reliable battery - run period of 16 hours playback music - 2-seconds instant-action ANC button - Beautiful colors and impressive design - Compact foldable portable and easier to store - Has Siri and Google activation options - Has USB charging cable and airplane adapter - Powerful 32mm neodymium speaker drivers - Comfortable ergonomic ear cushion and affordable
 
-Cons: - Slightly low battery runtime 16hrs - Minimum headband adjustment
+Pros:
+- - Has active shield noise cancellation
+- up to 97%
+- NFC one-tap pairing Bluetooth technology with inbuilt AAC
+- Reliable battery
+- run period of 16 hours playback music
+- 2-seconds instant-action ANC button
+- Beautiful colors and impressive design
+- Compact foldable portable and easier to store
+- Has Siri and Google activation options
+- Has USB charging cable and airplane adapter
+- Powerful 32mm neodymium speaker drivers
+- Comfortable ergonomic ear cushion and affordable
+
+
+
+Cons:
+- - Slightly low battery runtime 16hrs
+- Minimum headband adjustment
+
 
 
 ###  [5. Golzer BANC-50 Bluetooth 4.1 ANC Headphones](https://www.amazon.com/dp/B00UJ9RY5G/?tag=p-policy-20)
@@ -113,9 +171,25 @@ The lightweight product also features an Apt-x Bluetooth technology (delivers in
 
 Notably, Golzer Banc is budget friendly and can pair with computers, apple and all android devices.
 
-Pros: - Powerful ANC noise cancellation up to 85% - Comes in dual use options wired or wireless - Simple sound control options press buttons/tune volume - Reliable Battery Life Over 30 hours play time - Comfortable earmuffs and impressive design - Adjustable cushioned headband and highly portable - Sturdy casing and flexible/rotatable ear cups - Apt-x Bluetooth technology and simple ANC switch - Durable and budget friendly - Lightweight and balanced audio
 
-Cons: - BT and ANC light may be slightly bright - Unsuitable for kids
+Pros:
+- - Powerful ANC noise cancellation up to 85%
+- Comes in dual use options wired or wireless
+- Simple sound control options press buttons/tune volume
+- Reliable Battery Life Over 30 hours play time
+- Comfortable earmuffs and impressive design
+- Adjustable cushioned headband and highly portable
+- Sturdy casing and flexible/rotatable ear cups
+- Apt-x Bluetooth technology and simple ANC switch
+- Durable and budget friendly
+- Lightweight and balanced audio
+
+
+
+Cons:
+- - BT and ANC light may be slightly bright
+- Unsuitable for kids
+
 
 
 ###  [6. Sony WH-CH700N Durable Noise-Canceling Headphones](https://www.amazon.com/dp/B07MQG3V9M/?tag=p-policy-20)
@@ -130,9 +204,24 @@ In addition, this device is integrated with a freehand call microphone and high-
 
 In fact, the earmuffs are reinforced with tender material to improve comfort while the optical interior design concentrates the sound nicely into the eardrums creating a melodious music experience.
 
-Pros: - Classic design and comfortable ear cups - Effective Bluetooth and dedicated NFC connectivity - Tough sturdy casing and quality audio production - Comes with installed app and super audio enhancer - Lightweight and highly portable - Has digital noise cancelling and AI tech powered - Super active mic and efficient voice enabler - Adjustable Headband and cushioned ear liners - Long battery life 35 hours play time
 
-Cons: - Minimal Flexibility - Limited colors
+Pros:
+- - Classic design and comfortable ear cups
+- Effective Bluetooth and dedicated NFC connectivity
+- Tough sturdy casing and quality audio production
+- Comes with installed app and super audio enhancer
+- Lightweight and highly portable
+- Has digital noise cancelling and AI tech powered
+- Super active mic and efficient voice enabler
+- Adjustable Headband and cushioned ear liners
+- Long battery life 35 hours play time
+
+
+
+Cons:
+- - Minimal Flexibility
+- Limited colors
+
 
 
 ###  [7. COWIN E7 PRO Active Noise Cancelling Headphones](https://www.amazon.com/dp/B077YG22Y9/?tag=p-policy-20)
@@ -143,12 +232,30 @@ The device uses a high-quality Bluetooth technology that guarantees you instant 
 
 The comfortable ear cushions are nicely knitted and pre-treated to prevent any skin irritation when in use. In addition, Cowin has a tough casing and impressive design that allows flexible ear cup rotation for easier fitting. Moreover, the lightweight headphone comes with 45mm large-aperture drivers and high-quality Hi-Fi stereo, which claims to produce punchy sound vibration without sacrificing the intensive deep bass backup resonance.
 
-Pros: - Powerful 800mAh battery over 30 hours play time - Impressive design and classic headband - adjustable - Comfortable soft ear cushion and sturdy casing durable - Advanced noise cancelling technology -COWIN E7 PRO ANC - High-quality built-in microphone and Bluetooth enables - 45mm large-aperture drivers and lightweight - Top sound quality and minimal internal disturbances - Deep bass and Hi-Fi stereo - Stylish and variety of colors - Cowin comes in variety of colors for optional selection.
 
-Cons: - Slightly longer charging time 4 hours - Unsuitable for kids
+Pros:
+- - Powerful 800mAh battery over 30 hours play time
+- Impressive design and classic headband
+- adjustable
+- Comfortable soft ear cushion and sturdy casing durable
+- Advanced noise cancelling technology -COWIN E7 PRO ANC
+- High-quality built-in microphone and Bluetooth enables
+- 45mm large-aperture drivers and lightweight
+- Top sound quality and minimal internal disturbances
+- Deep bass and Hi-Fi stereo
+- Stylish and variety of colors
+- Cowin comes in variety of colors for optional selection.
+
+
+
+Cons:
+- - Slightly longer charging time 4 hours
+- Unsuitable for kids
+
 
 
 ##  Conclusion
 
 Succeeding in noise cancellation is not a walk in the park. You will find yourself stuck between options while varying cost of products with seemingly similar features may even confuse you further. Remember, before considering the best design, price, and color; make sure you choose a headphone that has simple audio control options for excellent fit in the various noise-level environments.
+
 

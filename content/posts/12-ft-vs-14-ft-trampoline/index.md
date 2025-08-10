@@ -71,9 +71,16 @@ In addition, the trampolines come with extra accessories like wind stakes, a lad
 
 The ORCC 12ft vs. 14ft main differences include;
 
-The jumping mat diameter is 148 inches for the 14ft trampoline while the 12ft trampoline has a jumping mat diameter of 125 inches. Pros: - Both the 12ft and 14ft ORCC trampolines accommodate 450lbs - 14ft has 96 springs while 12ft has 72 springs.
+The jumping mat diameter is 148 inches for the 14ft trampoline while the 12ft trampoline has a jumping mat diameter of 125 inches. 
+Pros:
+- - Both the 12ft and 14ft ORCC trampolines accommodate 450lbs
+- 14ft has 96 springs while 12ft has 72 springs.
 
-Hence, deliver reliable bounce - The jumping mat diameter for 14ft is 148 inches while 12ft has 125 inches - Both use hot-dip galvanization technology - Both have excellent safety features Cons: - They might need more than two people to assemble
+
+Hence, deliver reliable bounce - The jumping mat diameter for 14ft is 148 inches while 12ft has 125 inches - Both use hot-dip galvanization technology - Both have excellent safety features 
+Cons:
+- - They might need more than two people to assemble
+
 
 ###  [2. Zupapa 12 ft. vs-14 ft Trampoline](https://www.amazon.com/dp/B00GLP7MOA/?tag=p-policy-20)
 
@@ -87,7 +94,16 @@ Another incredible thing about the Zupapa Trampolines is that they are ASTM and 
 
 More than that, these trampolines feature Hot-dip Galvanizing Technology that protects the trampoline against rust. Thus, enhanced stability and durability.
 
-Now lets compare the Zupapa 12ft and 14ft trampoline. These two sizes have minimal differences. Pros: - The weight limit of 375lbs is reasonable - Both can accommodate more than one person - 12ft has 72 springs - 14ft has 96 springs - Minimal price difference - Includes extra accessories like spring tool, ladder, and mat cover Cons: - The foam poles are hard to install
+Now lets compare the Zupapa 12ft and 14ft trampoline. These two sizes have minimal differences. 
+Pros:
+- - The weight limit of 375lbs is reasonable
+- Both can accommodate more than one person
+- 12ft has 72 springs
+- 14ft has 96 springs
+- Minimal price difference
+- Includes extra accessories like spring tool, ladder, and mat cover Cons:
+- The foam poles are hard to install
+
 
 ###  [3. Merax 12FT vs.14FT Trampoline](https://www.amazon.com/dp/B07R44XP7Y/?tag=p-policy-20)
 
@@ -97,9 +113,15 @@ These trampolines feature a UV-proof enclosure that provides protection against 
 
 Other than that, the w-shaped legs provide crucial stability for additional safety. The galvanized steel frame also resists rust for a longer use period.
 
-The weight capacity for the Merax 12ft is 300lbs while the 14ft is 330 lbs. The jumping mat diameter difference between these two sizes is 2 feet. This means both the 12ft and 14ft trampolines provide adequate jump space. Nevertheless, the 14ft would provide a better jumping space than the 12ft. Pros: - Both the 12ft and 14ft trampolines have 330 lbs.
+The weight capacity for the Merax 12ft is 300lbs while the 14ft is 330 lbs. The jumping mat diameter difference between these two sizes is 2 feet. This means both the 12ft and 14ft trampolines provide adequate jump space. Nevertheless, the 14ft would provide a better jumping space than the 12ft. 
+Pros:
+- - Both the 12ft and 14ft trampolines have 330 lbs.
 
-weight capacity - Both have 72 springs - Provide reliable bounce - Both have excellent safety features Cons: - It may take a while to put it together
+
+weight capacity - Both have 72 springs - Provide reliable bounce - Both have excellent safety features 
+Cons:
+- - It may take a while to put it together
+
 
 ##  Conclusion
 
@@ -108,4 +130,5 @@ I hope that this guide on the 12-foot vs. 14-foot trampoline has been helpful. Y
 The 12ft trampoline may take up less space than the 14ft trampoline.
 
 However, the 14ft is a great option if youll also join in the fun. It can accommodate both children and adults. Thus, if you have adequate pick the 14ft trampoline.
+
 

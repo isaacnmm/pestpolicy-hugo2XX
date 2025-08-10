@@ -31,9 +31,23 @@ You can comfortably position this product at any place in your house since Bose 
 
 In fact, the large volume range is nicely spaced to allow optional, smooth sound adjustment to a melodious peak voice of your choice. Notably, Bose Solo is a versatile soundbar that is simple to set up and replace in case of any malfunction.
 
-Pros: - Top-quality sound system - Effective Bluetooth connectivity multiple paring - Lightweight and tough casing - Can be placed anywhere highly stable - Impressive design and universal remote control - Has dialogue mode fine sound tuner - Loud clear sound and compact design
 
-Cons: - Has no HDMI port - No EQ controls - The remote lacks treble control button
+Pros:
+- - Top-quality sound system
+- Effective Bluetooth connectivity multiple paring
+- Lightweight and tough casing
+- Can be placed anywhere highly stable
+- Impressive design and universal remote control
+- Has dialogue mode fine sound tuner
+- Loud clear sound and compact design
+
+
+
+Cons:
+- - Has no HDMI port
+- No EQ controls
+- The remote lacks treble control button
+
 
 
 ###  [2. Samsung HW-K450 2.1 Channel 300 Watt Soundbar](https://www.amazon.com/dp/B01DMRLUPG/?tag=p-policy-20)
@@ -48,9 +62,24 @@ Further, this device comes with inbuilt optical and HDMI input ports that enable
 
 You will definitely enjoy wireless music control from your comfort through the help of the Samsung Audio Remote App that is compatible with all android devices- you can actually control music from your mobile phone or tablet. Importantly, Samsung HW is budget-friendly and comes with a dedicated center sound speaker.
 
-Pros: - Instant pairing Bluetooth Connectivity - Has HDMI and optical input ports - Has Samsung Audio Remote App mobile music control - Tough sturdy casing and lightweight - Impressive colors and stable design - Budget-friendly and Quality sound output - 1 digital channel and sound enhancer - Wireless subwoofer and nice universal remote - Excellent Sound clarity and great bass
 
-Cons: - May have different sound effects in various rooms - Maximum volume may blow off the soundbar
+Pros:
+- - Instant pairing Bluetooth Connectivity
+- Has HDMI and optical input ports
+- Has Samsung Audio Remote App mobile music control
+- Tough sturdy casing and lightweight
+- Impressive colors and stable design
+- Budget-friendly and Quality sound output
+- 1 digital channel and sound enhancer
+- Wireless subwoofer and nice universal remote
+- Excellent Sound clarity and great bass
+
+
+
+Cons:
+- - May have different sound effects in various rooms
+- Maximum volume may blow off the soundbar
+
 
 
 ###  [3. Polk Audio Command Sound Bar](https://www.amazon.com/dp/B078HJMVTK/?tag=p-policy-20)
@@ -67,9 +96,25 @@ More so, the tough casing is specially manufactured with the ability to absorb e
 
 Notably, Polk audio is lightweight and wont weigh you down financially. It comes with a universal remote control and optical cable.
 
-Pros: - Powerful subwoofer and classic soundbar - Quality bass sound and finite sound enhancer - Impressive design and beautiful color - Stable base design and can be mounted anywhere - Wireless subwoofer and compatible with HD TV - Has universal remote control - Patented voice adjust technology - Loud and clear dialogue - Affordable and lightweight - Dual HDMI inputs and Multiple streaming
 
-Cons: - May need installation of streaming app - Needs large volume adjuster
+Pros:
+- - Powerful subwoofer and classic soundbar
+- Quality bass sound and finite sound enhancer
+- Impressive design and beautiful color
+- Stable base design and can be mounted anywhere
+- Wireless subwoofer and compatible with HD TV
+- Has universal remote control
+- Patented voice adjust technology
+- Loud and clear dialogue
+- Affordable and lightweight
+- Dual HDMI inputs and Multiple streaming
+
+
+
+Cons:
+- - May need installation of streaming app
+- Needs large volume adjuster
+
 
 
 ###  [4. Klipsch RSB-3 All-in-one Bluetooth Soundbar](https://www.amazon.com/dp/B0751TF1ZR/?tag=p-policy-20)
@@ -84,9 +129,23 @@ Moreover, the rubber feet are nicely fixed to prevent ground movement due to sou
 
 The balanced audio performance and optional manual sound control are extra factors that make this soundbar outstanding. Not forgetting, Klipsch comes with an impressive LED design that shows a clear interface of different sound modes.
 
-Pros: - Balance audio performance - Powerful integrated subwoofer - Instant pairing Bluetooth device - Tough casing and adjustable keyhole mounts - Impressive stable design and RSB-3 sound quality - Seamless connections with TV and audio output - Classic slim design and Dolby audio decoder - Tough rubber feet and simple setup
 
-Cons: - The remote control could be better - Slightly lower bass
+Pros:
+- - Balance audio performance
+- Powerful integrated subwoofer
+- Instant pairing Bluetooth device
+- Tough casing and adjustable keyhole mounts
+- Impressive stable design and RSB-3 sound quality
+- Seamless connections with TV and audio output
+- Classic slim design and Dolby audio decoder
+- Tough rubber feet and simple setup
+
+
+
+Cons:
+- - The remote control could be better
+- Slightly lower bass
+
 
 
 ###  [5. Wohome Soundbar, with Bluetooth and 3D Surround](https://www.amazon.com/dp/B06Y6MH8BF/?tag=p-policy-20)
@@ -101,9 +160,23 @@ Actually, at maximum volume, the soundbar produces powerful ultra-fine sound wit
 
 Actually, Wohome is designed with wall mount keyholes and stable base shape that makes it easier to position it anywhere. In addition, the device comes with resilient built-in 4x 15w full-range powerful speaker and 2x 10w tweeter that nicely interact to deliver super filtered playback music. Importantly, Wohome is budget-friendly and simple to set up.
 
-Pros: - Powerful 5. 0 Bluetooth connectivity and simple setup - Resilient inbuilt full-range speakers and tweeters - Highly sensitive universal remote control - Sturdy casing and impressive design - 3D ultrasound technology and deep bass - Stable base and easier to mount on the wall - Impressive sound experience and balance audio - Easier to set up and Budget-friendly
 
-Cons: - Slightly heavy as compared to others - May lose clarity at very low frequencies
+Pros:
+- - Powerful 5. 0 Bluetooth connectivity and simple setup
+- Resilient inbuilt full-range speakers and tweeters
+- Highly sensitive universal remote control
+- Sturdy casing and impressive design
+- 3D ultrasound technology and deep bass
+- Stable base and easier to mount on the wall
+- Impressive sound experience and balance audio
+- Easier to set up and Budget-friendly
+
+
+
+Cons:
+- - Slightly heavy as compared to others
+- May lose clarity at very low frequencies
+
 
 
 ###  [6. LG Electronics SH4 2.1 Channel 300W Sound Bar](https://www.amazon.com/dp/B01CG8MK9W/?tag=p-policy-20)
@@ -114,9 +187,23 @@ Actually, you will definitely enjoy wireless music streaming since the soundbar 
 
 Its TV remote compatibility and multiple input options make the soundbar easier to pair with various output devices (has HDMI port). The solid high-quality plastic casing (durable) and a slim central unit system make this soundbar easier to transport. It comes with a few components that are simple and easier to setup. With LG soundbar, you will enjoy various finite sound modes that generate theatre experience within your room.
 
-Notably, this soundbar wont irritate your ears at maximum volume or weigh you down financially. Pros: - Has powerful multiple pairing Bluetooth connectivity - Uses Adaptive sound technology ultra fine sound - Impressive design and improved stability - Attractive color and simple setup - Budget-friendly and durable material - Multiple output compatibility has HDMI/audio port - Deep bass and high-quality sound modes
+Notably, this soundbar wont irritate your ears at maximum volume or weigh you down financially. 
+Pros:
+- - Has powerful multiple pairing Bluetooth connectivity
+- Uses Adaptive sound technology ultra fine sound
+- Impressive design and improved stability
+- Attractive color and simple setup
+- Budget-friendly and durable material
+- Multiple output compatibility has HDMI/audio port
+- Deep bass and high-quality sound modes
 
-Cons: - May have poor clarity at very low volume - Has no LED sound indicator - Excess buttons in remote control
+
+
+Cons:
+- - May have poor clarity at very low volume
+- Has no LED sound indicator
+- Excess buttons in remote control
+
 
 
 ###  [7. JBL Bar 2.1 Home Theater Starter System with Soundbar](https://www.amazon.com/dp/B075SH93CL/?tag=p-policy-20)
@@ -131,9 +218,24 @@ JBL is dedicated to delivering a great sound performance that is attributed to i
 
 The soundbar also has sound filters and buzz eliminators when engaged at peak volume. Importantly, JBL comes with an LED sound mode interface and simple manual input buttons.
 
-Pros: - Impressive design and simple setup - Classic sound performance - High-quality sound drivers - Highly sensitive Bluetooth connectivity - Attractive colors and the ultra-slim central unit - Budget-friendly and universal remote control - Fine theatre sound experience - Comes with HDMI and ARC connection output - Durable material and great stability
 
-Cons: - May have sound distortion during high bass - Slightly heavy
+Pros:
+- - Impressive design and simple setup
+- Classic sound performance
+- High-quality sound drivers
+- Highly sensitive Bluetooth connectivity
+- Attractive colors and the ultra-slim central unit
+- Budget-friendly and universal remote control
+- Fine theatre sound experience
+- Comes with HDMI and ARC connection output
+- Durable material and great stability
+
+
+
+Cons:
+- - May have sound distortion during high bass
+- Slightly heavy
+
 
 
 ##  Conclusion
@@ -143,4 +245,5 @@ Normally, many people have found themselves stuck between price and quality when
 Considering a soundbar that is lightweight and has controlled finite sound for various audio modes would be a better choice.
 
 However, it is important to settle for a soundbar that wont weigh you down financially.
+
 

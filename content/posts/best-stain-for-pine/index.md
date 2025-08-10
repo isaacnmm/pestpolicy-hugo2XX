@@ -28,9 +28,20 @@ The stain has strong adhesion and penetrates deeper on the wood and gives a bril
 
 Surprisingly for this stain, a quart of it covers approximately 150 square ft.
 
-It takes about 1-2 hours to dry-up and in case of a second coat, you can apply it after 2 hours. In case of spillage, you can use any [paint](https://pestpolicy.com/best-stain-for-douglas-fir-door/)thinners available or mineral spirits to clean the paint. Pros: - Has an easy application - Has great adhesion - Maintains the pines natural grains - dries fast - for indoor use - has good coverage
+It takes about 1-2 hours to dry-up and in case of a second coat, you can apply it after 2 hours. In case of spillage, you can use any [paint](https://pestpolicy.com/best-stain-for-douglas-fir-door/)thinners available or mineral spirits to clean the paint. 
+Pros:
+- - Has an easy application
+- Has great adhesion
+- Maintains the pines natural grains
+- dries fast
+- for indoor use
+- has good coverage
 
-Cons: - Does not work on the exterior surface
+
+
+Cons:
+- - Does not work on the exterior surface
+
 
 
 ###  [2. Defy Extreme Wood [Stain](https://pestpolicy.com/best-stain-for-red-oak-floors/)Natural Pine, 1-gallon](https://www.amazon.com/dp/B0062CWRHO/?tag=p-policy-20)
@@ -43,9 +54,20 @@ The good thing about this stain is its ability to resist UV light while prevent 
 
 Application is very easy and it takes about 20 minutes for the stain to dry with a possibility of applying another coat if need be.
 
-Pros: - It is safe for the environment - Its UV light-resistant - Can be used both outdoor and indoors - It is long-lasting - Gives a translucent finish - Fast drying
 
-Cons: - None found
+Pros:
+- - It is safe for the environment
+- Its UV light-resistant
+- Can be used both outdoor and indoors
+- It is long-lasting
+- Gives a translucent finish
+- Fast drying
+
+
+
+Cons:
+- - None found
+
 
 
 ###  [3. Minwax 710730000 Wood Pine Finish](https://www.amazon.com/dp/B000GLG7XC/?tag=p-policy-20)
@@ -54,9 +76,21 @@ Have you heard about this amazing stain that is a favorite to many Americans? We
 
 Minwax has been preferred by most Americans for its great work on pine. You can use it on your doors, floors, trims, cabinets, and many others in your house. Staining with Minwax adds beauty to your furniture and improves on their color. The deep penetrating feature on it does some excellent work which allows you to just do one coat and achieve the best results. It is so far regarded as the most ideal stain for the unfinished wood.
 
-Its application is easy and takes approximately 3 hours to dry and ready to touch. Consequently, if you plan to add another coat, you can do so after 3 hours, therefore, saving you time to finish your staining work within a day. This stain is available in 28 different colors to choose from. Pros: - Good for unfinished wood - Long-lasting - Translucent finish - Applies easily - Available in 28 colors - Has good adhesion - Made in the USA
+Its application is easy and takes approximately 3 hours to dry and ready to touch. Consequently, if you plan to add another coat, you can do so after 3 hours, therefore, saving you time to finish your staining work within a day. This stain is available in 28 different colors to choose from. 
+Pros:
+- - Good for unfinished wood
+- Long-lasting
+- Translucent finish
+- Applies easily
+- Available in 28 colors
+- Has good adhesion
+- Made in the USA
 
-Cons: - Not preferred for exterior surfaces
+
+
+Cons:
+- - Not preferred for exterior surfaces
+
 
 
 ###  [4. Ready Seal 510 Exterior Stain & Sealer, 5-Gallon](https://www.amazon.com/dp/B00EIVX96Y/?tag=p-policy-20)
@@ -67,9 +101,20 @@ With it, you can be assured of longer life for your wooden structures with an im
 
 The stain is done an amazing job in protecting your furniture against the UV light that damages and reduces its shelf-life. Its application is quite easy since you do not need priming it saves you time. You will also get this stain in 9 different colors to choose from based on your preference.
 
-Pros: - Has resistance against UV light - Combine primer and a sealer - It is water-proof - Suitable for both interior and exterior projects - Comes in 9 various colors - it is made in the USA
 
-Cons: - covers little space
+Pros:
+- - Has resistance against UV light
+- Combine primer and a sealer
+- It is water-proof
+- Suitable for both interior and exterior projects
+- Comes in 9 various colors
+- it is made in the USA
+
+
+
+Cons:
+- - covers little space
+
 
 
 ###  [5. General Finishes Oil Based Gel Stain, New Pine](https://www.amazon.com/dp/B001D80H42/?tag=p-policy-20)
@@ -78,9 +123,19 @@ If your furniture is having hard and stubborn and have tried other stains withou
 
 These stains easily wipe the stains on wood regardless of the wood type including pine and aspen. The stain has the easiest way of application and you can use a foam brush or you can use cotton clothing. Though the stain is oil-based, it is not designed with a deep penetrating feature but gives a very smooth finishing. However, before application, it is appropriate to do soft sanding in order to achieve the desired surface.
 
-You have the opportunity to choose the color of your choice from the many options available. That notwithstanding, the functionality of the stain is not affected in any way. Pros: - Easy application - Removes hard stains - Has choices of many colors - Great finishing
+You have the opportunity to choose the color of your choice from the many options available. That notwithstanding, the functionality of the stain is not affected in any way. 
+Pros:
+- - Easy application
+- Removes hard stains
+- Has choices of many colors
+- Great finishing
 
-Cons: - Sanding is necessary - Takes a long time to dry
+
+
+Cons:
+- - Sanding is necessary
+- Takes a long time to dry
+
 
 
 ###  [6. Varathane 262012 Premium Fast Dry Stain, Quart](https://www.amazon.com/dp/B00SJH2LJ4/?tag=p-policy-20)
@@ -91,9 +146,20 @@ If you want to bring the elegance out of your wood, this is what you need. The p
 
 The stain is also a deep penetrating feature that allows it to seal pores while staining the wood. It is easy to apply, dries very fast, and within an hour the wood is ready to touch and other activities. The stain also comes in 26 different colors to give you the flexibility of choice.
 
-The coverage of this paint is amazing with just one quart covering 275 square ft. Pros: - Dries fast within an hour - Designed with nano-pigment - Improves color pigment of wood - Great for use on indoor furniture - Durable on wood - Just need one coat
+The coverage of this paint is amazing with just one quart covering 275 square ft. 
+Pros:
+- - Dries fast within an hour
+- Designed with nano-pigment
+- Improves color pigment of wood
+- Great for use on indoor furniture
+- Durable on wood
+- Just need one coat
 
-Cons: - Needs sanding
+
+
+Cons:
+- - Needs sanding
+
 
 
 ###  [7. Minwax 61310444 PolyShades, Stain & Polyurethane](https://www.amazon.com/dp/B000VZP6IA/?tag=p-policy-20)
@@ -106,12 +172,23 @@ The stain is very easy to apply with just a brush and it dries very fast saving 
 
 Unlike other stains, you do not need priming but can apply directly. It penetrates deep and does great in improving wood grains. You do not need to worry about any spillage or ripping as it easily cleans up using a mineral spirit. It preserves your wood for a long and on top of that, you have a wide range of colors to choose from.
 
-Pros: - Good for interior furniture - Can be applied on top of other polyurethane - Saves your time - Has the deep penetrating effect - Packaged in different colors
 
-Cons: - Has sticky nature
+Pros:
+- - Good for interior furniture
+- Can be applied on top of other polyurethane
+- Saves your time
+- Has the deep penetrating effect
+- Packaged in different colors
+
+
+
+Cons:
+- - Has sticky nature
+
 
 
 ##  Conclusion
 
 That said and done the line is drawn for the best stains for pine. However, for the best stain, use Defy-Extreme Stain for Natural. This is due to its unmatched features and its rating among the buyers.
+
 

@@ -34,9 +34,19 @@ You'll get a lavalier microphone, a receiver, & transmitter. RodeLink FM will gi
 
 Gives decent and clean sound at 2. 4 GHz frequency transmission and use frequency diversity - send audio in 2 varied frequencies. But ge t a direct line or clear-sight between the receiver & transmitter. Further, this Lavalier mic's receiver has an OLED Display, and its also lightweight (about 6. 7 oz) plus has shoe-mount that's equally detachable. Read Also: What's the Best Camera for Concerts?
 
-Pros: - Works with a unique 2. 4 GHz spectrum of the digital signal with limited TV or radio signals interference - Has the 1-button pairing support - Easy to mount on the camera - Easy to hop between the various frequencies - Includes all the critical components
 
-Cons: - None
+Pros:
+- - Works with a unique 2. 4 GHz spectrum of the digital signal with limited TV or radio signals interference
+- Has the 1-button pairing support
+- Easy to mount on the camera
+- Easy to hop between the various frequencies
+- Includes all the critical components
+
+
+
+Cons:
+- - None
+
 
 
 ###  [2. Sennheiser AVX Digital Wireless Microphone System - #2 Pick](https://www.amazon.com/dp/B010EYIH1U/?tag=p-policy-20)
@@ -49,11 +59,21 @@ It'll switch either on or off immediately you switch the phantom power on the ca
 
 It has a Dynamic Range that'll match the input sensitivity of your camera.
 
-Pros: - This AVX mic system is excellent for video recording, particularly even for outdoor and informal locations. - It offers wind rejection and intelligibility - Sennheiser is simple to deploy and use. - Therefore, Sennheiser AVX is a highly reliable plus excellent battery life and a great in its sound quality. - I found it great for interview dialogue and solo presenters, documentaries, and hands-free interview.
+
+Pros:
+- - This AVX mic system is excellent for video recording, particularly even for outdoor and informal locations.
+- It offers wind rejection and intelligibility
+- Sennheiser is simple to deploy and use.
+- Therefore, Sennheiser AVX is a highly reliable plus excellent battery life and a great in its sound quality.
+- I found it great for interview dialogue and solo presenters, documentaries, and hands-free interview.
+
 
 - Its carrying case is durable and protective - Will switch both off and on with your DSLR camera.
 
-Cons: - None
+
+Cons:
+- - None
+
 
 ###  [3. Saramonic UwMic9 UHF Wireless (96 Channel) Lavalier Mic - #3 Pick](https://www.amazon.com/dp/B01E12IOLE/?tag=p-policy-20)
 
@@ -63,9 +83,20 @@ Saramonic UwMic9's receiver has a belt clip as you can clip-on its receiver to t
 
 You can choose either the dual mic or single mic kit plus 1 or 2 transmitters but with the same receiver. It'll readily plug into an end of your XLR microphone and can also give phantom power. You'll love the kit's LCD feedback that'll display the group that' turned off or in within a second. Further, the mic kit has an excellent build quality with quite a straightforward set-up process that complete within just a few seconds.
 
-On sound quality, this Saramonic UwMic9 mic focuses on your subject's voice while also rejecting any of the ambient noise. But some of the very loud noises might no get avoided automatically. Pros: - Amazing body-build quality - Mic lead and cables are silicone coated - Readily compatible with XLR transmitter and handheld mic - Great sound & voice quality - Excellen tLCD displays with appropriate buttons - Its receiver is dual-channel
+On sound quality, this Saramonic UwMic9 mic focuses on your subject's voice while also rejecting any of the ambient noise. But some of the very loud noises might no get avoided automatically. 
+Pros:
+- - Amazing body-build quality
+- Mic lead and cables are silicone coated
+- Readily compatible with XLR transmitter and handheld mic
+- Great sound & voice quality
+- Excellen tLCD displays with appropriate buttons
+- Its receiver is dual-channel
 
-Cons: - Battery problems
+
+
+Cons:
+- - Battery problems
+
 
 ###  [4. Audio-Technica ATR3350 Omni-directional Lavalier Condenser Mic - #4 Pick](https://www.amazon.com/dp/B002HJ9PTO/?tag=p-policy-20)
 
@@ -79,11 +110,22 @@ Further, this wired mic operates in the 50 Hz to 18, 000 Hz frequency range, but
 
 Further, the 4 to 5 hours battery will provide power for the condenser mic. On sound quality, Audio-Technica ATR3350 will give you relatively okay sound quality and recordings and it won't also pick any of the sounds that are low-frequency. Thus, it'll be good for vocal applications such as video production and podcasting.
 
-Pros: - Sturdy body-build construction - Small lavaleir mic that's simple to conceal - Buget-friendly mic - Exccelent coverage - Suitable on or of control
 
-Cons: - Long cable
+Pros:
+- - Sturdy body-build construction
+- Small lavaleir mic that's simple to conceal
+- Buget-friendly mic
+- Exccelent coverage
+- Suitable on or of control
+
+
+
+Cons:
+- - Long cable
+
 
 ##  Conclusion
 
 You'll love that the receiver and transmitter both have LCD displays with some buttons. Further, with the XLR cable, the Saramonic UwMic9 mic will support the [XLR transmitter](https://en.wikipedia.org/wiki/XLR_connector)plus it has an amazing body-build quality.
+
 

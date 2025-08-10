@@ -37,9 +37,18 @@ Pre-drill small pilot holes through the splash guard and into the gutter wall (f
 ---
 ## What Materials Are Best for Gutter Splash Guards?
 The best material for a gutter splash guard typically matches or complements your existing gutter system to ensure durability and aesthetic consistency.
-* **Aluminum:** * **Pros:** Lightweight, rust-resistant, durable, comes in various colors to match gutters, easy to cut and work with. Most common choice. * **Cons:** Can dent if impacted by heavy debris. * **Copper:** * **Pros:** Extremely durable, develops a beautiful patina over time, highly aesthetic for copper gutter systems. * **Cons:** Most expensive option, requires copper screws and rivets to prevent galvanic corrosion.
-* **Steel (Galvanized or Kynar-Coated):** * **Pros:** Very strong and rigid, excellent for heavy water flow. Galvanized steel is rust-resistant; Kynar-coated steel offers superior color retention and weather resistance. * **Cons:** Heavier, can be harder to cut than aluminum, potentially more prone to rust if coating is scratched. * **Vinyl (PVC):** * **Pros:** Inexpensive, lightweight, easy to cut and install, color-matched for vinyl gutter systems, no rust.
-* **Cons:** Can become brittle over time with UV exposure, less rigid than metal, may crack in extreme cold or impact.
+* **Aluminum:** * **
+Pros:
+- ** Lightweight, rust-resistant, durable, comes in various colors to match gutters, easy to cut and work with. Most common choice. * **Cons:** Can dent if impacted by heavy debris. * **Copper:** * **Pros:** Extremely durable, develops a beautiful patina over time, highly aesthetic for copper gutter systems. * **Cons:** Most expensive option, requires copper screws and rivets to prevent galvanic corrosion.
+
+* **Steel (Galvanized or Kynar-Coated):** * **
+Pros:
+- ** Very strong and rigid, excellent for heavy water flow. Galvanized steel is rust-resistant; Kynar-coated steel offers superior color retention and weather resistance. * **Cons:** Heavier, can be harder to cut than aluminum, potentially more prone to rust if coating is scratched. * **Vinyl (PVC):** * **Pros:** Inexpensive, lightweight, easy to cut and install, color-matched for vinyl gutter systems, no rust.
+
+* **
+Cons:
+- ** Can become brittle over time with UV exposure, less rigid than metal, may crack in extreme cold or impact.
+
 Matching the splash guard material to your gutter material (e.g., aluminum splash guard for aluminum gutters) is usually the best approach to ensure seamless integration and consistent long-term performance.
 ---
 ---
@@ -107,4 +116,5 @@ When choosing, prioritize guards that are robust enough to withstand the force o
 Gutter splash guards are a small investment that offers significant protection against water damage. By effectively preventing overflow at critical points, they ensure your gutter system performs optimally, safeguarding your home's foundation, siding, and landscaping.
 
 Regular inspection for signs of overflow, prompt installation of the right type of splash guard, and ensuring your gutters are regularly cleaned will contribute to a robust and reliable rainwater management system for your property. Don't let a simple splash turn into a costly repair invest in proper gutter protection.
+
 

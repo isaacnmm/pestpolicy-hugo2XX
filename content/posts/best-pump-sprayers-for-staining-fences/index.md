@@ -36,11 +36,21 @@ Graco-Ultra Max 17M367 will readily spray solvents and hot lacquers - also due t
 
 The flexLiner system and also FlexLiner bags reduces the need for post-job cleanups. But you'll require to acquire many replacement FlexLiners bags - but they may be re-used.
 
-Pros: - Changeable tips (0. 008 inches to. 016 inches) for a different spray pattern - Simple maintenance and cleaning - piston and hose with the FlexiLiner bag and FlexiLiner system - The fence staining device offers better pressure control giving you that great finish with its excellent paint flow. - While you're using various staining and painting materials, you can easily adjust the sprayer pressure for consistent coverage.
+
+Pros:
+- - Changeable tips (0. 008 inches to. 016 inches) for a different spray pattern
+- Simple maintenance and cleaning
+- piston and hose with the FlexiLiner bag and FlexiLiner system
+- The fence staining device offers better pressure control giving you that great finish with its excellent paint flow.
+- While you're using various staining and painting materials, you can easily adjust the sprayer pressure for consistent coverage.
+
 
 - The device's piston pump (Triax triple) with stainless steel is super reliable - it won't fairly easily and it also starts fast - you won't experience tear and wear - it's also lightweight.
 
-Cons: - None
+
+Cons:
+- - None
+
 
 
 ###  [2. Graco-Magnum 262800-X5 Stand Airless Adjustable Pressure Paint Sprayer](https://www.amazon.com/dp/B0026SR0FW/?tag=p-policy-20)
@@ -57,9 +67,19 @@ Further, the sprayer's suction tube is flexible enabled sucking fence paint from
 
 The powerful spray comes with a motor producing high -horsepower and this generates a fence spray at a rate of 0. 27-gallons every minute. You'll enjoy uninterrupted staining or painting (lower clogging) on your fences - also due to the RAC IV SwitchTip.
 
-Pros: - The devices75-feet hose allows easy spraying on your large fence-painting project - The powerful motor provided producing -horsepower - It is a versatile sprayer whose material (paint or stain) won't require thinning - Adjsutability allowspressuresflexibility
 
-Cons: - Not suitable foroccasional use - its costly
+Pros:
+- - The devices75-feet hose allows easy spraying on your large fence-painting project
+- The powerful motor provided producing -horsepower
+- It is a versatile sprayer whose material (paint or stain) won't require thinning
+- Adjsutability allowspressuresflexibility
+
+
+
+Cons:
+- - Not suitable foroccasional use
+- its costly
+
 
 
 ###  [3. Chapin-International 1949 Metallic Open-Head 13200 milliliters Sprayer with Tri-Poxy tank](https://www.amazon.com/dp/B00002N8O8/?tag=p-policy-20)
@@ -74,9 +94,17 @@ Despite being relatively pricey compared to other sprayer models, Chapin-Interna
 
 The lock-on feature allows easy shut off in addition to the nozzle, wand, and brass pump.
 
-Pros: - Very durable fence staining sprayer - Comes with theTri-Lock seal allowing tight pump locking - Can work with a variety of cehmicals deu to the uniquely-designedVitongaskets and seals
 
-Cons: - Costly
+Pros:
+- - Very durable fence staining sprayer
+- Comes with theTri-Lock seal allowing tight pump locking
+- Can work with a variety of cehmicals deu to the uniquely-designedVitongaskets and seals
+
+
+
+Cons:
+- - Costly
+
 
 > Read Also: > Stain for Redwood Fence
 
@@ -100,4 +128,5 @@ Chapin-International 30600 is very portable and it won't need a connection to so
 The sprayer is an airless model and hence it is suitable for spraying large outdoor surfaces including large fences. You'll get (with the maximum control) due to the adjustable pressures and won't require material thinning due to its stainless-steel piston pump.
 
 You can spray roughly 125-gallons annually on your various household and fence painting projects since it has a spray tip size with the largest size being 0. 015 inches.
+
 

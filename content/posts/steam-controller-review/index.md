@@ -20,7 +20,14 @@ Steam [Controller](https://pestpolicy.com/best-controller-for-retropie/)will spi
 
 However, there have been minor but notable changes such as the addition of the light bar [DualShock 4](https://www.amazon.com/dp/B00BGA9X9W/?tag=p-policy-20)at Amazon and [Microsoft Xbox One](https://www.amazon.com/dp/B00KL3WBBC/?tag=p-policy-20)at Amazon with its new rumble triggers.
 
-Pros: - Great for strategy gaming - analogue stick and Solid buttons - Additional dimension to the Touchpads Cons: - Buttons are small - Lacks total precision
+
+Pros:
+- - Great for strategy gaming
+- analogue stick and Solid buttons
+- Additional dimension to the Touchpads Cons:
+- Buttons are small
+- Lacks total precision
+
 
 For most PC gamers, the **mouse** and **keyboard** combo is the ultimate solution. - However, Valve has been trying to combine the console and PC gaming capabilities using Steam technology. The [steam controller](https://www.amazon.com/dp/B016KBVBCS/?tag=p-policy-20)on Amazon is the recent solution by valve aiming to enhance PC-Console gaming combination.
 
@@ -47,4 +54,5 @@ With the different improvements on the steam controller, the device has achieved
 ##  Conclusion
 
 Youll love how Steam advances the console controller features with the PC gaming ideas. The trackpads, their high customizability, and their hepatic feedback will give you an excellent gaming experience.
+
 

@@ -122,9 +122,18 @@ The Stay-put enclosure net features high quality polyester mesh. The steel frame
 
 More than that, this happy trampoline features galvanized commercial grade frame that provide protection against corrosion and rust.
 
-Youll also appreciate the excellent bounce quality that this trampoline delivers. The frame structure is strong enough; hence, it will not bend or break while one is jumping. Pros: - Excellent bounce quality - Exceptional safety features - Durable jumping mat - Offers protection against rust
+Youll also appreciate the excellent bounce quality that this trampoline delivers. The frame structure is strong enough; hence, it will not bend or break while one is jumping. 
+Pros:
+- - Excellent bounce quality
+- Exceptional safety features
+- Durable jumping mat
+- Offers protection against rust
 
-Cons: - Pricey
+
+
+Cons:
+- - Pricey
+
 
 ###  [2. Skywalker Rectangle Trampolines - Jump-N-Dunk Trampoline](https://www.amazon.com/dp/B0839MFH4W/?tag=p-policy-20)
 
@@ -140,9 +149,18 @@ This skywalker Rectangle Trampoline also exceeds all ASTM standards for safety a
 
 To ensure additional safety, the structure has tightly coiled springs around the exterior section of the enclosure net. The springs are made of steel and they have a rust resistant coating that promotes a longer use period.
 
-More than that, the trampoline is reinforced with T-sockets, which enhances the overall stability of the structure. They also prevent structural twisting during intense jumping. Pros: - No-gap safety enclosure net - Exceeds all ASTM standards - Tightly coiled springs for extra safety - With supervision can accommodate multiple kids
+More than that, the trampoline is reinforced with T-sockets, which enhances the overall stability of the structure. They also prevent structural twisting during intense jumping. 
+Pros:
+- - No-gap safety enclosure net
+- Exceeds all ASTM standards
+- Tightly coiled springs for extra safety
+- With supervision can accommodate multiple kids
 
-Cons: - Some people were dissatisfied with the delivery package
+
+
+Cons:
+- - Some people were dissatisfied with the delivery package
+
 
 ###  [3. MX Pro Rectangle Trampoline](https://www.amazon.com/dp/B0813VV7XL/?tag=p-policy-20)
 
@@ -156,9 +174,18 @@ The MX Pro Rectangle Trampoline has a safety padding thats tough and durable. Th
 
 More than that, the enclosed safety enclosure net provides protection to the jumpers ensuring that they dont fall off while jumping.
 
-The overlapped netting system at the entrance provides extra protection. Pros: - Excellent safety features - Superior jumping mat - Safety enclosure system - Durable steel frame
+The overlapped netting system at the entrance provides extra protection. 
+Pros:
+- - Excellent safety features
+- Superior jumping mat
+- Safety enclosure system
+- Durable steel frame
 
-Cons: - Pricey
+
+
+Cons:
+- - Pricey
+
 
 **3 Best Round Trampoline**
 
@@ -176,9 +203,18 @@ Besides that, youll appreciate the high quality of this trampoline. It has 7 inc
 
 The trampoline also has W-shaped legs that provide reliable support and durability. The shaped wind stakes also provide additional stability.
 
-The ORCC deliver an excellent bounce. It also has a waterproof surface, the jumping mat is fade and UV resistant. Thus, you can expect the mat to deliver a longer use period. Pros: - Easy to assemble - Durable trampoline - Excellent bounce - Good safety features
+The ORCC deliver an excellent bounce. It also has a waterproof surface, the jumping mat is fade and UV resistant. Thus, you can expect the mat to deliver a longer use period. 
+Pros:
+- - Easy to assemble
+- Durable trampoline
+- Excellent bounce
+- Good safety features
 
-Cons: - Poor installation instructions
+
+
+Cons:
+- - Poor installation instructions
+
 
 ###  [5. Zupapa Round Trampoline](https://www.amazon.com/dp/B003RFS8VI/?tag=p-policy-20)
 
@@ -194,9 +230,21 @@ The provided wind stakes allows you to anchor the trampoline properly, thus, it 
 
 The Zupapa trampoline also features high quality materials that ensures maximum safety of the jumper. It features rust resistant springs that delivers an excellent bounce. The Anti-UV jumping mat is strong and durable. The higher enclosure net provides more safety.
 
-The foam-padded poles protect against impact when the young jumper bangs the head against the pole Pros: - Excellent safety features - Durable - Stable - Offers protection against rust - Covered springs - Passes ASTM and TUV certifications - Spacious trampoline
+The foam-padded poles protect against impact when the young jumper bangs the head against the pole 
+Pros:
+- - Excellent safety features
+- Durable
+- Stable
+- Offers protection against rust
+- Covered springs
+- Passes ASTM and TUV certifications
+- Spacious trampoline
 
-Cons: - Assembling the trampoline might take time
+
+
+Cons:
+- - Assembling the trampoline might take time
+
 
 ###  [6. Skywalker Round Trampolines 12-Foot Jump N Dunk](https://www.amazon.com/dp/B00PCGHB4A/?tag=p-policy-20)
 
@@ -225,4 +273,5 @@ If you were looking to compare Rectangular vs. round trampoline, I hope that thi
 Both the rectangular and round trampolines are great options that you might want to consider. However, its important that you establish why and for who. Once youve answered that you can make a correct decision.
 
 Generally, if youre looking for kids trampoline you can choose any of the round trampolines weve reviewed. However, it youre more advanced and want to improve your jumping or gymnastics tricks pick any of the rectangle options Ive reviewed.
+
 

@@ -53,27 +53,48 @@ On the other hand, the **Black Flag Handheld Zapper** operates with replaceable 
 
 ###  [1.**Zap It! Bug Zapper**](https://www.amazon.com/dp/B0859Q3DQ2/?tag=p-policy-20)
 
-The **Zap It! Bug Zapper** is a powerful swatter with 4, 000 volts of electric power, making it highly effective at killing mosquito, flies, and other pests on contact. Its LED light helps users locate bugs in the dark, adding to its functionality. - **Pros: **High-voltage output, rechargeable battery, built-in LED light - **Cons: **LED light may drain the battery faster if left on
+The **Zap It! Bug Zapper** is a powerful swatter with 4, 000 volts of electric power, making it highly effective at killing mosquito, flies, and other pests on contact. Its LED light helps users locate bugs in the dark, adding to its functionality. - **
+Pros:
+- **High-voltage output, rechargeable battery, built-in LED light
+- **Cons: **LED light may drain the battery faster if left on
+
 
 ###  [2.**Elucto Electric Fly Swatter**](https://www.amazon.com/dp/B01F3N8A4Q/?tag=p-policy-20)
 
-This swatter is known for its durability, with a solid frame and mesh that hold up well to frequent use. Its single-layer design ensures efficiency in every swing, making it ideal for homes with regular insect activity. - **Pros: **Durable build, lightweight, simple to use - **Cons: **Non-rechargeable, requires frequent battery replacement
+This swatter is known for its durability, with a solid frame and mesh that hold up well to frequent use. Its single-layer design ensures efficiency in every swing, making it ideal for homes with regular insect activity. - **
+Pros:
+- **Durable build, lightweight, simple to use
+- **Cons: **Non-rechargeable, requires frequent battery replacement
+
 
 ###  [3.**Black Flag Handheld Zapper**](https://www.amazon.com/dp/B07N2K9KYT/?tag=p-policy-20)
 
-Offering a balanced 2, 750-volt output, the **Black Flag Zapper** is effective for most flying insects. It features a triple-layer safety grid to prevent accidental shocks, making it a safer option for households with children or pets. - **Pros: **Safety mesh, affordable, replaceable AA batteries - **Cons: **Lower voltage compared to other models, not rechargeable
+Offering a balanced 2, 750-volt output, the **Black Flag Zapper** is effective for most flying insects. It features a triple-layer safety grid to prevent accidental shocks, making it a safer option for households with children or pets. - **
+Pros:
+- **Safety mesh, affordable, replaceable AA batteries
+- **Cons: **Lower voltage compared to other models, not rechargeable
+
 
 ###  [4.**Beastron Bug Zapper**](https://www.amazon.com/dp/B073BX345P/?tag=p-policy-20)
 
-This product combines a sleek design with functionality, offering an ergonomic handle for comfortable use. It is particularly good for larger insects like wasps and hornets, making it a versatile tool for both indoor and outdoor use. - **Pros: **Ergonomic design, effective for larger insects, easy to use - **Cons: **Heavier than other swatters, longer charging time Related: [Mosquitoes Spray for backyard](https://pestpolicy.com/best-mosquito-yard-spray/).
+This product combines a sleek design with functionality, offering an ergonomic handle for comfortable use. It is particularly good for larger insects like wasps and hornets, making it a versatile tool for both indoor and outdoor use. - **
+Pros:
+- **Ergonomic design, effective for larger insects, easy to use
+- **Cons: **Heavier than other swatters, longer charging time Related: [Mosquitoes Spray for backyard](https://pestpolicy.com/best-mosquito-yard-spray/).
+
 
 ###  [5.**Sourcing4U Executioner Fly Killer**](https://www.amazon.com/dp/B000MU2MJA/?tag=p-policy-20)
 
-A high-quality, durable option, the **Executioner Fly Killer** is designed for heavy-duty use. Its reinforced frame ensures longevity, and its large surface area increases the chance of hitting bugs on the first attempt. - **Pros: **Sturdy build, large swatting area, highly efficient including foryellow jackets. - **Cons: **Heavier design, more expensive than some competitors
+A high-quality, durable option, the **Executioner Fly Killer** is designed for heavy-duty use. Its reinforced frame ensures longevity, and its large surface area increases the chance of hitting bugs on the first attempt. - **
+Pros:
+- **Sturdy build, large swatting area, highly efficient including foryellow jackets.
+- **Cons: **Heavier design, more expensive than some competitors
+
 
 ##  Conclusion
 
 Choosing the best electric fly swatter comes down to considering key factors such as power output, durability, ease of use, and safety features. Products like the **Zap It! ** **Bug Zapper** and **Black Flag Handheld Zapper** offer high performance and value, each with their own unique strengths.
 
 By carefully evaluating your needs and the specific product features outlined in this guide, you can make an informed decision and enjoy a bug-free environment all year round.
+
 

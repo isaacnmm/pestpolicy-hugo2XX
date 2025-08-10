@@ -57,11 +57,23 @@ I would say that Valspar paint is a budget-friendly cabinet paint as it'll conve
 
 ##  Using Valspar Cabinet Enamel Without Brush Marks
 
-Pros: - Has no brush marks - Has the non-yellowing properties - Fast drying (within 1 hour) - Old-finishing covering - Water and soap offers excellent wash-ability - Wear resistance
 
-Cons: - May leave[brush streaks](https://pestpolicy.com/best-paint-roller-to-hide-imperfections/)
+Pros:
+- - Has no brush marks
+- Has the non-yellowing properties
+- Fast drying (within 1 hour)
+- Old-finishing covering
+- Water and soap offers excellent wash-ability
+- Wear resistance
+
+
+
+Cons:
+- - May leave[brush streaks](https://pestpolicy.com/best-paint-roller-to-hide-imperfections/)
+
 
 ##  Conclusion
 
 If you need to revamp the 0utlook of your furniture and cabinets, I recommend using Valspar Paint to achieve that smooth and long-lasting finish. Luckily, you may use rollers or brushes with the Valspar Paint, and it won't leave streaks. So, it's time to get that streak-free and rock-hard cabinet surface.
+
 

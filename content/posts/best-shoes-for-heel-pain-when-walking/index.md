@@ -34,9 +34,20 @@ The midsole also features FlyteFoam Lyte technology that delivers extra support 
 
 Furthermore, the Ortholite X-40 technology provides additional cushioning and comfort to the foot. Thus, helps to alleviate any foot discomfort during walking or running. Nimbus 22 also has a padded heel collar that helps to hold the back of the foot securely to prevent unintended shoe removal during walking or running.
 
-The upper features Multi-directional engineered mesh material that delivers superior comfort while allowing fresh air into the shoe. This material prevents the [top of foot pain](https://pestpolicy.com/best-shoes-for-pain-on-top-of-foot/)and discomfort, as its soft and breathable. Pros: - Comfortable - Supportive - Structured heel and midfoot to eliminate heel pain - Roomy toe box - Durable - Stylish design
+The upper features Multi-directional engineered mesh material that delivers superior comfort while allowing fresh air into the shoe. This material prevents the [top of foot pain](https://pestpolicy.com/best-shoes-for-pain-on-top-of-foot/)and discomfort, as its soft and breathable. 
+Pros:
+- - Comfortable
+- Supportive
+- Structured heel and midfoot to eliminate heel pain
+- Roomy toe box
+- Durable
+- Stylish design
 
-Cons: - Pricey
+
+
+Cons:
+- - Pricey
+
 
 ###  [2. New Balance Men's 990 V4 Heel Pain Sneaker](https://www.amazon.com/dp/B0163GAT78/?tag=p-policy-20)
 
@@ -48,9 +59,19 @@ Walkers with low arches and heel pain will benefit from the soft cushioning. The
 
 The upper of NB 990 V4 features a durable mesh material with an open construction design that allows entry of air into the shoe for a dry and fresh in-shoe experience. The mesh material incorporates Lightweight but durable pigskin leather on its top. This leather cover allows a longer wear period for a fulfilling running experience.
 
-The New Balance 990 V4 has an outsole that utilizes the Blown Rubber compound. This rubber compound promises durability and high performance. The outsole also has flexion grooves that deliver a reliable grip on surfaces. Pros: - Durable upper construction - Durable and stable outsole - ENCAP midsole technologyprovides underfoot support - Comfortable - Comes in wide width options
+The New Balance 990 V4 has an outsole that utilizes the Blown Rubber compound. This rubber compound promises durability and high performance. The outsole also has flexion grooves that deliver a reliable grip on surfaces. 
+Pros:
+- - Durable upper construction
+- Durable and stable outsole
+- ENCAP midsole technologyprovides underfoot support
+- Comfortable
+- Comes in wide width options
 
-Cons: - The bulky design was unappealing to most people
+
+
+Cons:
+- - The bulky design was unappealing to most people
+
 
 ###  [3. Brooks Womens Adrenaline GTS 19 Running Shoe](https://www.amazon.com/dp/B081KHQTLH/?tag=p-policy-20)-Best Shoes for Heel Pain
 
@@ -70,9 +91,19 @@ GTS 19 also utilizes an engineered mesh in its top section. The mesh is cloth-li
 
 The shoe also features padded collar and tongue that provide cushioning on the top sections of the foot including the ankles and the Achilles tendon.
 
-The heel sections and both sides of the shoe feature a 3D Fit Print technology that helps to secure the foot in place, hence, prevent the foot from exiting the shoe unintended. Pros: - Breathable and flexible upper - Comfortable - Excellent pronation support - Reliable traction - Excellent stability
+The heel sections and both sides of the shoe feature a 3D Fit Print technology that helps to secure the foot in place, hence, prevent the foot from exiting the shoe unintended. 
+Pros:
+- - Breathable and flexible upper
+- Comfortable
+- Excellent pronation support
+- Reliable traction
+- Excellent stability
 
-Cons: - Some wearers reported that the stitches unraveled after a few months of use
+
+
+Cons:
+- - Some wearers reported that the stitches unraveled after a few months of use
+
 
 ###  [4. Gravity Defyer Women's G-Defy Plantar Fasciitis Shoes](https://www.amazon.com/dp/B07VGL7LT6/?tag=p-policy-20)
 
@@ -84,9 +115,20 @@ The front rocker sole works with the supported midfoot to help combat or relieve
 
 The shoe features technologies like VersoShock, Extra -Depth Interior, and Strobel construction. All these technologies address issues that help with heel pain and Plantar Fasciitis. Such issues include shock absorption, support, and motion control.
 
-Another amazing feature is the Enhanced Lateral Stabilization that improves the walking gait while ensuring better ground reaction. The shoes also come with Removable insoles, which you can replace with custom orthotics if youre in need of extra support and comfort. Pros: - Comfortable - Offers excellent shock absorption - Allows custom orthotics - Supportive - Relieves heel pain - Unmatched foot stability
+Another amazing feature is the Enhanced Lateral Stabilization that improves the walking gait while ensuring better ground reaction. The shoes also come with Removable insoles, which you can replace with custom orthotics if youre in need of extra support and comfort. 
+Pros:
+- - Comfortable
+- Offers excellent shock absorption
+- Allows custom orthotics
+- Supportive
+- Relieves heel pain
+- Unmatched foot stability
 
-Cons: - A reviewer complained that the shoe runs big
+
+
+Cons:
+- - A reviewer complained that the shoe runs big
+
 
 ###  [5. Dansko Women's XP 2.0 Clogs](https://www.amazon.com/dp/B078HGRR2S/?tag=p-policy-20)
 
@@ -100,9 +142,21 @@ Dansko XP 2. 0 Clogs also comes with a removable polyurethane footbed that provi
 
 The Natural Arch technology provides superior comfort and support to the foot ensuring you have an easier time all-day standing.
 
-The shoe also features a durable slip-resistant outsole that provides all the safety you need while walking on wet, oily, or dry surfaces. The rocker bottom outsole helps in shock absorption while ensuring sufficient energy return for unmatched comfort. Pros: - Roomy toe box allows toes to move naturally - Allows use of inserts - Excellent shock absorption - Highly comfortable - Upper is all leather - Lightweight shoe - Supportive
+The shoe also features a durable slip-resistant outsole that provides all the safety you need while walking on wet, oily, or dry surfaces. The rocker bottom outsole helps in shock absorption while ensuring sufficient energy return for unmatched comfort. 
+Pros:
+- - Roomy toe box allows toes to move naturally
+- Allows use of inserts
+- Excellent shock absorption
+- Highly comfortable
+- Upper is all leather
+- Lightweight shoe
+- Supportive
 
-Cons: - A reviewer complained that the inside sole deteriorates quickly
+
+
+Cons:
+- - A reviewer complained that the inside sole deteriorates quickly
+
 
 ###  [6. HOKA ONE ONE Men's Bondi 6 Running Shoe](https://www.amazon.com/dp/B07DDMQ94C/?tag=p-policy-20)
 
@@ -114,9 +168,18 @@ Bondi 6 has an upper section that utilizes an engineered mesh material. The mesh
 
 The shoe also boasts of a reliable heel counter that helps to secure the heel section and prevent accidental shoe removal.
 
-On the outsole unit, Hoka One One Bondi 6 utilizes the Hi-Abrasion Rubber compound thats lightweight and durable. This rubber compound is found in sections that are likely to experience high wear and tear. Pros: - Excellent cushioning - Highly versatile - Breathable upper - Attractive color schemes -
+On the outsole unit, Hoka One One Bondi 6 utilizes the Hi-Abrasion Rubber compound thats lightweight and durable. This rubber compound is found in sections that are likely to experience high wear and tear. 
+Pros:
+- - Excellent cushioning
+- Highly versatile
+- Breathable upper
+- Attractive color schemes -
 
-Cons: - The rubber outsolewears off quickly according to some reviews
+
+
+Cons:
+- - The rubber outsolewears off quickly according to some reviews
+
 
 ###  [7. New Balance Men's Fresh Foam 1080 V10 Heel Pain Running Shoe](https://www.amazon.com/dp/B07RP19FKW/?tag=p-policy-20)
 
@@ -134,9 +197,20 @@ The outsole also features flex grooves that enhance the shoes flexibility allowi
 
 The upper utilizes Engineered Hypoknit technology thats responsible for comfort and support. The upper is also highly breathable ensuring sufficient air supply inside the shoe.
 
-The ultra-heel feature at the back of the shoe provides a supportive and comfortable fit. This feature helps in holding the heel section in place and helps to prevent in-shoe wobbling. Pros: - Lightweight - Comfortable - Durable - Well-cushioned - Supportive - Highly flexible
+The ultra-heel feature at the back of the shoe provides a supportive and comfortable fit. This feature helps in holding the heel section in place and helps to prevent in-shoe wobbling. 
+Pros:
+- - Lightweight
+- Comfortable
+- Durable
+- Well-cushioned
+- Supportive
+- Highly flexible
 
-Cons: - Some customers reported that the shoe is tight
+
+
+Cons:
+- - Some customers reported that the shoe is tight
+
 
 ##  Things to Consider When Buying Best Shoes for Heel Pain When Walking
 
@@ -163,4 +237,5 @@ Inserts or orthotics provide additional comfort and support to feet. Therefore, 
 I hope that this review on the best shoes for heel pain when walking has been helpful. Heel pain is an issue that affects most people, but with proper footwear, you can better manage the pain or prevent it completely.
 
 Hence, the above review provides some of the best shoes that will help you deal with heel pain as you walk or run. Go ahead and choose your favorite pair.
+
 

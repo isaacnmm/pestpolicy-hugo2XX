@@ -30,9 +30,18 @@ It's wraparound handle is tailor-made to fit your hand like a glove making it ef
 
 You also need to sharpen the blades from time to time to keep it sharp.
 
-Pros: - Long-lasting Rechargeable batteries - Reduced noise and vibration - Comes with a wraparound grip for safety - Sturdy blades
 
-Cons: - Expensive
+Pros:
+- - Long-lasting Rechargeable batteries
+- Reduced noise and vibration
+- Comes with a wraparound grip for safety
+- Sturdy blades
+
+
+
+Cons:
+- - Expensive
+
 
 ###  **2. DEWALT DCHT820P1 Hedge Trimmer**
 
@@ -40,9 +49,18 @@ The trimmer comes with a sturdy 22-inch blade. Such a module is ideal for trimmi
 
 The Performance and power of this trimmer will blow your mind. Not only is it so easy to start but also easy to stop it. Its blades come with a inch teeth that can trim their way into the most robust hedges. The trimmer is perfect for use in trimming around seats and fountains since it is cordless. The fact that it has minimal vibration makes trimming effortless. When it comes to cleaning it, you won't break a sweat.
 
-Careful forward and backward stokes using a stiff brash will leave the blades clean. Maintenance of the trimmer is minimal compared to their corded counterparts. My key takes away is this cordless trimmer is easy to start and operate. It's also light and efficient, which makes it easy to use, especially when trimming around uncomfortable obstacles. Pros: - Easy start and operate - Strong and durable blades - Gentle to handle - Light in weight
+Careful forward and backward stokes using a stiff brash will leave the blades clean. Maintenance of the trimmer is minimal compared to their corded counterparts. My key takes away is this cordless trimmer is easy to start and operate. It's also light and efficient, which makes it easy to use, especially when trimming around uncomfortable obstacles. 
+Pros:
+- - Easy start and operate
+- Strong and durable blades
+- Gentle to handle
+- Light in weight
 
-Cons: - Battery malfunction
+
+
+Cons:
+- - Battery malfunction
+
 
 ###  **3. Sun Joe HJ604C Grass Shear + Hedger**
 
@@ -54,9 +72,18 @@ You can also use it to cut small to medium height hedges as it may struggle with
 
 Cleaning this trimmer is very easy. Its small size ensures you take very little time to clean it using a piece of clothing. When it comes to maintaining it is even more comfortable as it's not gas-powered. Don't be deceived by the small size of the trimmer. If you have a small storage area, this trimmer is what you need as it occupies lesser space and is easy to carry and maneuver around a large garden.
 
-Pros: - Small and lightweight - Versatility-can cut grass and hedges - including theZoysia grass. - Has a rechargeable battery
 
-Cons: - Short live battery life
+Pros:
+- - Small and lightweight
+- Versatility-can cut grass and hedges
+- including theZoysia grass.
+- Has a rechargeable battery
+
+
+
+Cons:
+- - Short live battery life
+
 
 ###  **4. WORX WG261.9 Cordless Hedge Trimmer**
 
@@ -66,9 +93,17 @@ With a powerful 20v lithium battery, you will trim a large hedge without the nee
 
 As a result, it's very comfortable to trim using this trimmer with its ergonomic grip design. Therefore, working with the trimmer won't leave you tired and exhausted as other trimmers would. Its light, which makes it ideal for trimming a large hedge effortlessly. A stiff brush will work well, cleaning this trimmer by removing leftover debris from its blade. Cleaning the edge removes susceptibility from rust.
 
-Pros: - Light in weight - Powerful lithium battery - Easy to use
 
-Cons: - Expensive
+Pros:
+- - Light in weight
+- Powerful lithium battery
+- Easy to use
+
+
+
+Cons:
+- - Expensive
+
 
 Related: [Best Riding Lawn Mower for 2 Acres](https://pestpolicy.com/best-riding-lawn-mower-for-2-acres/)
 
@@ -84,9 +119,20 @@ Therefore, you don't need to worry about power as you can charge phones and tabl
 
 By purchasing the trimmer, you will be upgrading on the standard version of a cordless hedge trimmer without losing out on power and quality.
 
-Pros: - Eco-friendly - Less noisy - Dual-action blade for efficiency - USB charging port - Cushioned handles for comfort and security - Rechargeable battery
 
-Cons: - Expensive
+Pros:
+- - Eco-friendly
+- Less noisy
+- Dual-action blade for efficiency
+- USB charging port
+- Cushioned handles for comfort and security
+- Rechargeable battery
+
+
+
+Cons:
+- - Expensive
+
 
 ###  **6. UKOKE U01HT Power Cordless Hedge Trimmer**
 
@@ -100,9 +146,18 @@ Also, its double action blade ensures the efficiency of trimming as well as maki
 
 It's also Eco-friendly in terms of noise pollution and gas emission, making it a darling for many trimmers.
 
-Pros: - 20-inch laser cutting dual-action blade - 20 V powerful lithium battery - Comfortable to use - Light in weight
 
-Cons: - Expensive
+Pros:
+- - 20-inch laser cutting dual-action blade
+- 20 V powerful lithium battery
+- Comfortable to use
+- Light in weight
+
+
+
+Cons:
+- - Expensive
+
 
 ###  **7. Makita XHU02Z Cordless Battery Hedge Trimmer**
 
@@ -114,9 +169,18 @@ Nothing makes the trimmer standout more than its battery functionalities.
 
 Its warning system warns you of overcharging, discharging, and when you need to recharge. The trimmer is easy to carry with its lightweight making it ideal for trimming high hedges effortlessly. When it comes to cleaning it, you will have an easy time. All you need is a wet piece of clothing to clear off debris from the hedge branches. Always sharpen the blades and recharge the battery before storage to ensure it remains in excellent condition.
 
-Pros: - A 22-inch dual cutting blade - Anti-vibration structure for comfort - Eco-friendly - Powerful battery
 
-Cons: - Expensive
+Pros:
+- - A 22-inch dual cutting blade
+- Anti-vibration structure for comfort
+- Eco-friendly
+- Powerful battery
+
+
+
+Cons:
+- - Expensive
+
 
 ##  Considerations for Best Cordless Hedge Trimmer
 
@@ -145,4 +209,5 @@ Now that you have read the buyer's guide and know what to look for when it comes
 ##  Sources:
 
 1. [Cordless hedge trimmerfor seed collection](http://npj.uwpress.org/content/6/2/132.short)2. [Mechanical Shearing Device for Potted Rosemary Christmas Tree Topiaries](https://journals.ashs.org/horttech/abstract/journals/horttech/14/1/article-p95.xml)3. [The Design of the New ElectricHedge Trimmer](http://en.cnki.com.cn/Article_en/CJFDTotal-XNGX201502025.htm)
+
 

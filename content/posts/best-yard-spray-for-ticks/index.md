@@ -29,9 +29,17 @@ It works effectively against ticks, fleas, ants, and other bugs commonly found a
 
 The sprayer is designed to automatically mix the insecticide concentrate with the water coming out through the nozzle.
 
-The active ingredient is Permethrin, an inorganic compound that has been specially formulated to have minimal environmental damage. Pros: - Highly effective in exterminating ticks and other insects - The hose-end sprayer allows quick and easy application. - A single application can last up to 4 weeks
+The active ingredient is Permethrin, an inorganic compound that has been specially formulated to have minimal environmental damage. 
+Pros:
+- - Highly effective in exterminating ticks and other insects
+- The hose-end sprayer allows quick and easy application.
+- A single application can last up to 4 weeks
 
-Cons: - Not environmentally friendly
+
+
+Cons:
+- - Not environmentally friendly
+
 
 
 ###  [**2. Wondercide Yard Tick & Flea Spray - #2 Pick**](https://www.amazon.com/dp/B00V7BRZQI/?tag=p-policy-20)
@@ -42,11 +50,21 @@ It acts on the ticks without causing any effects on people or the environment ar
 
 The good news with this product is that it will also kill other crawling and flying creatures such as fleas, ants, roaches, scorpions, and beetles, among others. Notably, the natural ingredients in Wondercide are also known to repel snakes. Wondercide Yard Spray comes as a ready to use the product. It's quick and easy to use. All you need to do is to hook it up to your garden hose.
 
-As the water comes out through the nozzle, the concentrate automatically mixes with the water in the right quantities. With the 32-ounce container, you can cover up to 5, 000 square feet. Pros: - It's an effective spray for fleas, ticks, and other insects. - Environmentally friendly - Has a pleasant aroma - Can repel snakes - Most homeowners don't have a clue of what makes a good tick spray for the yard.
+As the water comes out through the nozzle, the concentrate automatically mixes with the water in the right quantities. With the 32-ounce container, you can cover up to 5, 000 square feet. 
+Pros:
+- - It's an effective spray for fleas, ticks, and other insects.
+- Environmentally friendly
+- Has a pleasant aroma
+- Can repel snakes
+- Most homeowners don't have a clue of what makes a good tick spray for the yard.
+
 
 - Some will settle on a product they see online or one that has been recommended by a friend.
 
-Cons: - Does not have a long residual effect
+
+Cons:
+- - Does not have a long residual effect
+
 
 
 ###  [**3. Spectracide Triazicide Spray Lawn & Yard - #3 Pick**](https://www.amazon.com/dp/B002ITJH82/?tag=p-policy-20)
@@ -57,11 +75,19 @@ Its fast-acting formula kills by contact and continues to kill for the next thre
 
 Besides, it's safe for people, kids, and pets once it has been allowed around 2 hours to dry. The spray comes ready to use and with a nozzle for quick and easy application. When hooked to a garden horse, this nozzle allows Spectracide to concentrate on mixing proportionally with water as it comes out. It comes in a pack of six 32 ounce bottles. A single bottle will cover up to 5000 square feet of your yard.
 
-When appropriately used, Spectracide Triazicide spray can effectively exterminate ticks and prevent their recurrence. Besides, it will act against other crawling and flying insects such as Japanese beetles, fleas, mosquitoes, ants, and many others. Pros: - It has powerful effects against crawling and flying insects. - Has the residual effect of up to 3 months - It's safe around kids and pets once it has dried completely.
+When appropriately used, Spectracide Triazicide spray can effectively exterminate ticks and prevent their recurrence. Besides, it will act against other crawling and flying insects such as Japanese beetles, fleas, mosquitoes, ants, and many others. 
+Pros:
+- - It has powerful effects against crawling and flying insects.
+- Has the residual effect of up to 3 months
+- It's safe around kids and pets once it has dried completely.
+
 
 - It comes in a pack of 6 bottles, making it very economical
 
-Cons: - May affect plants at the time of flowering
+
+Cons:
+- - May affect plants at the time of flowering
+
 
 
 ###  **4. Bio advanced Insect & Tick Killer**
@@ -72,9 +98,17 @@ Whether on the ground or surface, this insect killer will exterminate bugs from 
 
 With the 32-ounce bottle, you can cover up to 5, 000 square feet of your lawn or garden. You can use insect killers in other outdoor places such as windows, doors, driveway, porch, and so on. Although the two-way formula is potent against insects, it won't harm kids and pets once it has dried off. What's more, when used properly, this is an excellent product for completely eradicating ticks from your yard, lawn, and other places.
 
-Pros: - Its two-way formula works effectively against ticks and other insects. - Safe for kids and pets once it dries off - One 32-ounce bottle covers 5000 square feet
 
-Cons: - Takes long to dry
+Pros:
+- - Its two-way formula works effectively against ticks and other insects.
+- Safe for kids and pets once it dries off
+- One 32-ounce bottle covers 5000 square feet
+
+
+
+Cons:
+- - Takes long to dry
+
 
 
 ###  [**5. EcoSMART Botanical Yard and Kennel Tick Killer**](https://www.amazon.com/dp/B00IN84CPA/?tag=p-policy-20)
@@ -85,9 +119,17 @@ It makes use of natural ingredients to effectively eradicate fleas, ticks, and o
 
 This insect killer comes with a hose-end sprayer to enable quick and easy application using a garden horse. With the 32-ounce bottle, you're sure to cover up to 5, 000 square feet of your yard. For good results, use it during the pest seasons. Being an eco-friendly insect killer, this product will not contaminate the environment nor leave any poisonous residues on surfaces.
 
-Choosing the right tick spray for your yard or garden can be quite challenging because there are many products in the market. If not taken care of, ticks in your yard can easily find their way into your house. Pros: - It's an effective insect killer. - Uses organic ingredients to kill insects without polluting the environment - The hose-end sprayer allows quick and easy application
+Choosing the right tick spray for your yard or garden can be quite challenging because there are many products in the market. If not taken care of, ticks in your yard can easily find their way into your house. 
+Pros:
+- - It's an effective insect killer.
+- Uses organic ingredients to kill insects without polluting the environment
+- The hose-end sprayer allows quick and easy application
 
-Cons: - Not suitable for indoors and pets
+
+
+Cons:
+- - Not suitable for indoors and pets
+
 
 
 ###  **6. Enforcer Flea Spray EFSY163**
@@ -96,13 +138,20 @@ If you have a tick infestation around your house, Enforcer Flea Spray can be a g
 
 Specially designed for outdoor applications, this insect killer will help you eradicate ticks and other insects that may bring dangerous infections to your family, animals, and pets. The active ingredient in this insect killer is Lambda-Cyhalothrin, which is a very potent chemical for eradicating pests at all stages of their life cycle. With this spray, you are sure to kill adult insects, larvae, pupae together with the eggs.
 
-Plus, it has a long residual effect to keep insects at bay for at least eight weeks. Enforcer Flea Spray comes in a 16-ounce bottle, which can get you through 8, 000 square feet of your yard. The hose-end spray muzzle that comes with this spray makes it easy to apply the insecticide to targeted areas. When using this spray, be sure to keep it away from your kids and pets. Pros: - Lambda-Cyhalothrin is an instrumental insect killer.
+Plus, it has a long residual effect to keep insects at bay for at least eight weeks. Enforcer Flea Spray comes in a 16-ounce bottle, which can get you through 8, 000 square feet of your yard. The hose-end spray muzzle that comes with this spray makes it easy to apply the insecticide to targeted areas. When using this spray, be sure to keep it away from your kids and pets. 
+Pros:
+- - Lambda-Cyhalothrin is an instrumental insect killer.
+
 
 - The hose-end spray muzzle allows easy application.
 
 - Very economical, covering up to 8, 000 square feet - Kills other insects
 
-Cons: - Should be kept away from kids and pets - Not environmentally friendly
+
+Cons:
+- - Should be kept away from kids and pets
+- Not environmentally friendly
+
 
 
 ###  [**7. SENTRY HOME Flea and Tick Yard and Premise Spray**](https://www.amazon.com/dp/B002OFIQ9Q/?tag=p-policy-20)
@@ -115,9 +164,18 @@ This insect killer has a long residual effect lasting up to 6 weeks.
 
 Thus it is an excellent insecticide for terminating the life cycle of these insects by killing their larvae, pupae, nymphs, and eggs. This insect killer comes with a hose-end spray muzzle which can be attached to a garden hose for easy application. The 32-ounce bottle can cover up to 2667 square feet of your yard, lawn, or garden. You don't have to do all the research for yourself.
 
-Below are some essential factors that I consider helpful when choosing the right spray for ticks in the yard or garden. Pros: - Contains bifenthrin, an effective active ingredient - Easy to apply with the hose-end spray - Has a residual effect of up to 6 weeks - Targets insects in their entire life cycle
+Below are some essential factors that I consider helpful when choosing the right spray for ticks in the yard or garden. 
+Pros:
+- - Contains bifenthrin, an effective active ingredient
+- Easy to apply with the hose-end spray
+- Has a residual effect of up to 6 weeks
+- Targets insects in their entire life cycle
 
-Cons: - Not environmentally friendly
+
+
+Cons:
+- - Not environmentally friendly
+
 
 
 ##  **Considerations in the Best Yard Spray for Ticks**
@@ -146,4 +204,5 @@ More importantly, follow the manufacturer's directions carefully and keep the pr
 ##  **Conclusion**
 
 This review provides you with both natural and chemical remedies to help you eradicate ticks and prevent their recurrence. My #1 rated tick spray for the yard is the Wondercide Yard Spray. This product has proven effectiveness against ticks and other related creatures. Being biodegradable, this product causes no harm to the environment or the people around it. It's also economical.
+
 

@@ -39,9 +39,18 @@ Also, the reversible RAC IV SwitchTip will prevent clogging. The paint sprayer a
 
 Finally, the indoor paint sprayer has the PushPrime button that allows easy starting - this saves time and reduces operator frustration.
 
-Also, it has a flexible suction tube, and hence it'll readily pull into your 1-5 gallon paint gallon. Pros: - Allows pressure adjustment to different levels - Has a solid metal body construction - The installed reversible tip helps prevent sprayer clogging. - Great performance from the exceptional motor power
+Also, it has a flexible suction tube, and hence it'll readily pull into your 1-5 gallon paint gallon. 
+Pros:
+- - Allows pressure adjustment to different levels
+- Has a solid metal body construction
+- The installed reversible tip helps prevent sprayer clogging.
+- Great performance from the exceptional motor power
 
-Cons: - No wheels and weigh 20 lbs
+
+
+Cons:
+- - No wheels and weigh 20 lbs
+
 
 ###  [2. Wagner 0518080 Spraytech HVLP Indoor Paint & Stain Sprayer - #3 Pick](https://www.amazon.com/dp/B0026SR0FW/?tag=p-policy-20)
 
@@ -55,11 +64,21 @@ Therefore, the worker smoothly works without getting excessive hand fatigue. Wit
 
 With Wagner 0518050 sprayer, being compact and light-weight, you can readily achieve a high painting speed. Further, it allows smoother spraying with just 2 goes - and doesn't need much preparation. The paint sprayer is cost-effective and affordable to use both with outdoor and indoor painting projects, including decks and fences. It'll give excellent finishes with your various varnishes and stains.
 
-Pros: - Wagner 0518080 comes with 2 material cups - 1& 1/2 quart (extensive work) and the 1 quart (indoor work). - It'll easily spray paint both medium and large projects. - Suitable for painting trims, fences, cabinets, furniture, and decks. - Suitable for thick and thin paints, including oil-based primers, lacquers, polyurethanes, clear sealers, varnishes, and oil stains.
+
+Pros:
+- - Wagner 0518080 comes with 2 material cups
+- 1& 1/2 quart (extensive work) and the 1 quart (indoor work).
+- It'll easily spray paint both medium and large projects.
+- Suitable for painting trims, fences, cabinets, furniture, and decks.
+- Suitable for thick and thin paints, including oil-based primers, lacquers, polyurethanes, clear sealers, varnishes, and oil stains.
+
 
 - Small-sized suitable for DIY-ers, adults, and teens - easy to both clean and use.
 
-Cons: - None
+
+Cons:
+- - None
+
 
 ###  [3. Wagner 0529010 Spraytech Hand-held HVLP Indoor Paint Sprayer - #3 Pick](https://www.amazon.com/dp/B00FBP4QT0/?tag=p-policy-20)
 
@@ -73,9 +92,18 @@ Wagner 0529010 is a suitable indoor sprayer for both office and home painting jo
 
 You'll love the power of the spray nozzle and Xboost turbine technologies that'll readily work with any indoor coating (including un-thinned latex) with amazing power even for large indoor walls and furniture.
 
-Pros: - Great indoor paint sprayer - Budget-friendly and high-tech paint sprayer - Great for many paint jobs, including un-thinned latex - Easy-to-use indoor paint sprayer
 
-Cons: - None
+Pros:
+- - Great indoor paint sprayer
+- Budget-friendly and high-tech paint sprayer
+- Great for many paint jobs, including un-thinned latex
+- Easy-to-use indoor paint sprayer
+
+
+
+Cons:
+- - None
+
 
 ###  [4. PaintWIZ PW25150 Indoor Handheld Paint Gun or Sprayer PRO - #4 Pick](https://www.amazon.com/dp/B012AOGZ0M/?tag=p-policy-20)
 
@@ -87,9 +115,19 @@ To achieve first spraying, you'll require a thorough cleaning of your sprayer, t
 
 As noted above, the indoor sprayer comes with adjustable caps to enable spraying in 3 varied patterns - circular, vertically, and horizontally. Therefore, you'll readily reduce the spraying job by 50% while also giving a fantastic finish. Further, the sprayer will be easy to use and set up compared to regular rollers and brushes. You'll love the included user manual, cleaning brush, viscosity cup, and three mesh strainers.
 
-Pros: - Amazing controls availed - Suitable for using wither thinner finishes - Budget-friendly indoor sprayer - Easy sprayer to set-up and equally use - Comes with different cups
 
-Cons: - Not good for painting latex
+Pros:
+- - Amazing controls availed
+- Suitable for using wither thinner finishes
+- Budget-friendly indoor sprayer
+- Easy sprayer to set-up and equally use
+- Comes with different cups
+
+
+
+Cons:
+- - Not good for painting latex
+
 
 ###  [5. HomeRight C800766 HVLP Indoor Paint Sprayer (C900076 Finish-Max) - #5 Pick](https://www.amazon.com/dp/B003VKFDEO/?tag=p-policy-20)
 
@@ -99,11 +137,20 @@ HomeRight C800766 also gives you the option to spray in 3 varied patterns; circu
 
 Also, the gun is comfortable to work with while also being light-weight - this is only about 3. 4 lbs. The plastic bodied paint sprayer but with brass spray needle ensures that the device will last for a long period while spraying a quality finish. However, you can include a superior seal to reduce chances of leaks. ut this prayer is aksi very eay to clean.
 
-Pros: - Alows sparungin in 3 paptters- circular, vertilly, and horizontally - Light weight and compact - Comforbale and easy to start and use
 
-Cons: - Need cleansing regularly
+Pros:
+- - Alows sparungin in 3 paptters- circular, vertilly, and horizontally
+- Light weight and compact
+- Comforbale and easy to start and use
+
+
+
+Cons:
+- - Need cleansing regularly
+
 
 ##  Conclusion
 
 So, that's it with the best paint sprayer for interior walls. The key questions we've considered is if you may use the paint sprayers indoors, whether the wagner paint system is hgihl recommended for interior spraying and the comforts or spraying patetrsn to go for in the paint sparyers.
+
 

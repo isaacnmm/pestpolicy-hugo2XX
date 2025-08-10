@@ -30,9 +30,20 @@ Youll love the durable leather uppers of this arthritis walking shoe. The upper 
 
 Furthermore, the BioMoGo DNA on the midsection adapts to your weight, speed, and stride. Hence, provides you maximum comfort as you go about your errands. This DNA component also delivers soft cushioning for a pleasant wear experience.
 
-The outsole features a slip-resistant compound that protects you from accidental slips or falls that can cause more damage to your painful hips. The forefoot section has MC Pod construction that ensures full ground foot contact. Thus, promotes a stable and balanced walking experience. Pros: - Relieves most foot discomforts - Highly comfortable - Well-cushioned - Excellent arch support - Durable - Accommodates orthotics
+The outsole features a slip-resistant compound that protects you from accidental slips or falls that can cause more damage to your painful hips. The forefoot section has MC Pod construction that ensures full ground foot contact. Thus, promotes a stable and balanced walking experience. 
+Pros:
+- - Relieves most foot discomforts
+- Highly comfortable
+- Well-cushioned
+- Excellent arch support
+- Durable
+- Accommodates orthotics
 
-Cons: - A bit heavy according to some wearers
+
+
+Cons:
+- - A bit heavy according to some wearers
+
 
 ##  [2. Hush Puppies Men's Gil](https://www.amazon.com/dp/B001AWYD0A/?tag=p-policy-20)
 
@@ -44,9 +55,19 @@ Hip pain sufferers swear by the support and comfort that Hush Puppies Gil provid
 
 The shoe also features a ZeroG Elon midsole that provides crucial cushioning and support. Stroebel construction ensures additional flexibility and comfort.
 
-Hush Puppies Gil is also 100% leather, hence, has a longer wear period. Pros: - Durable - Cushioned - Supportive - 100% Leather - Accommodates orthotics
+Hush Puppies Gil is also 100% leather, hence, has a longer wear period. 
+Pros:
+- - Durable
+- Cushioned
+- Supportive
+- 100% Leather
+- Accommodates orthotics
 
-Cons: - A customer complained that the insole is thin
+
+
+Cons:
+- - A customer complained that the insole is thin
+
 
 
 ###  [3. Orthopedic Arthritis Diabetic Women's Stretchable Shoes](https://www.amazon.com/dp/B003OH1BP4/?tag=p-policy-20)
@@ -61,9 +82,18 @@ Youll also appreciate the wide and roomy toe box that this arthritic womens shoe
 
 The shoe also features an extra depth design and the removable insoles allow the use of orthotics to ensure the wearer has maximum comfort and support.
 
-Another incredible feature worth mentioning is the soft uppers together with the seamless interior lining and the additional foam padding. All these aspects work to protect sensitive feet for women with neuropathy, arthritis, and diabetes. Pros: - Available in numerous width options - Roomy toe box - Comfortable - Excellent cushioning
+Another incredible feature worth mentioning is the soft uppers together with the seamless interior lining and the additional foam padding. All these aspects work to protect sensitive feet for women with neuropathy, arthritis, and diabetes. 
+Pros:
+- - Available in numerous width options
+- Roomy toe box
+- Comfortable
+- Excellent cushioning
 
-Cons: - You might need to break in on them
+
+
+Cons:
+- - You might need to break in on them
+
 
 ###  [4. RYKA Women's Comfort Leather Walking Shoe](https://www.amazon.com/dp/B014GNL3GQ/?tag=p-policy-20)
 
@@ -77,9 +107,19 @@ This womans walking shoe also has excellent arch support ensuring that you remai
 
 The upper is 85% leather and 15% Polyurethane. It has a breathable and synthetic mesh that allows entry of air into the shoe for a clean and healthy in-shoe environment.
 
-The midsection features molded EVA foam that provides crucial cushioning. The outsole is all rubber and delivers reliable traction, flexibility, and durability on various surfaces. Pros: - Durable - Comfortable - Good cushioning - Roomy forefoot - Reliable traction
+The midsection features molded EVA foam that provides crucial cushioning. The outsole is all rubber and delivers reliable traction, flexibility, and durability on various surfaces. 
+Pros:
+- - Durable
+- Comfortable
+- Good cushioning
+- Roomy forefoot
+- Reliable traction
 
-Cons: - Some reviewers complained about quality issues
+
+
+Cons:
+- - Some reviewers complained about quality issues
+
 
 
 ###  [5. Vionic Women's Amber](https://www.amazon.com/dp/B072QMCFYM/?tag=p-policy-20)
@@ -92,9 +132,19 @@ The sandal also boasts of a Vio-Motion Support system that incorporates three co
 
 To ensure that you have a secure fit, the shoe comes with four adjustability points to give you all-day comfort and support.
 
-It's 100% Synthetic and has adjustable straps that you can easily fit according to your likeness. The sandal has a seal of acceptance from the American Podiatric Medical Association. This means its ideal wear for people with various foot conditions. Pros: - Reliable traction - Stylish - Provides perfect fit - Arch Support - Comfortable
+It's 100% Synthetic and has adjustable straps that you can easily fit according to your likeness. The sandal has a seal of acceptance from the American Podiatric Medical Association. This means its ideal wear for people with various foot conditions. 
+Pros:
+- - Reliable traction
+- Stylish
+- Provides perfect fit
+- Arch Support
+- Comfortable
 
-Cons: - Wide foot wearer complained that the strap was not long enough to go across the entire foot
+
+
+Cons:
+- - Wide foot wearer complained that the strap was not long enough to go across the entire foot
+
 
 ###  [6. adidas Men's Questar Flow](https://www.amazon.com/dp/B07D9HW6ZP/?tag=p-policy-20)
 
@@ -106,9 +156,21 @@ The midsole and outsole feature Cloudfoam cushioning that deliver a soft pillow-
 
 The Adidas Men's Questar Flow is available in different color options including cloud white, core black, raw khaki; trace cargo, and active orange. All these options give you a perfect opportunity to choose your favorite pair of walking shoes.
 
-On both sides of these shoes, youll notice three stripes. The stripes and the lacing system provide extra support on the top part of the shoe to give you a personalized fit. Pros: - Lightweight - Comfortable - Supportive - Available in different color options - Well-cushioned - Extra padded comfort - Stylish
+On both sides of these shoes, youll notice three stripes. The stripes and the lacing system provide extra support on the top part of the shoe to give you a personalized fit. 
+Pros:
+- - Lightweight
+- Comfortable
+- Supportive
+- Available in different color options
+- Well-cushioned
+- Extra padded comfort
+- Stylish
 
-Cons: - Not durable
+
+
+Cons:
+- - Not durable
+
 
 ###  [7. Chelsea Ankle Boots for Men](https://www.amazon.com/dp/B08HYQKRD4/?tag=p-policy-20)
 
@@ -120,9 +182,20 @@ Youll appreciate the high-quality material that has been handcrafted using the a
 
 The shoe also incorporates Goodyear welt construction that ensures extra support and durability. The water-resistant seal shows that the shoe doesnt allow water inside the shoes chamber.
 
-The ortholite insoles provide excellent underfoot cushioning. You can also remove the insoles and use customized orthotics for extra comfort and support. Pros: - Water-resistant - Supportive - Comfortable - Breathable - Upper is 100% leather - Durable
+The ortholite insoles provide excellent underfoot cushioning. You can also remove the insoles and use customized orthotics for extra comfort and support. 
+Pros:
+- - Water-resistant
+- Supportive
+- Comfortable
+- Breathable
+- Upper is 100% leather
+- Durable
 
-Cons: - Runs small according to some reviewers
+
+
+Cons:
+- - Runs small according to some reviewers
+
 
 ##  Buyers Guide for Best Shoes for Arthritic Hips
 
@@ -141,4 +214,5 @@ Arthritic footwear should have removable insoles so that if need be you can remo
 ##  Conclusion
 
 I hope that this review on Best Shoes for Arthritic Hips has been helpful. Remember to pick shoes that have enough arch support, stability, shock absorption properties. Go through the list above and make a wise buying decision.
+
 

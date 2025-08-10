@@ -42,11 +42,18 @@ Wet & Forget is an excellent outdoor stain remover, including for your patio flo
 
 Well, soak the pavers and driveway with the liquid until it gets to the base of that moss covering. I used the Wet & Forget for the garden shed and the fence, removing the greenish algae, but I made sure I conducted effective rinsing. No one loves to spend many hours cleaning their siding and shingles after applying a cleaning product. Wet & Forget will cover the outdoor surface and thus no rinsing or cleaning.
 
-Therefore, with just some limited rainfall, the Wet & Forget-applied surfaces will be washed clean. The product will remove stains such as moss, mold, mildew, and algae from the outdoor covers. Pros: - Long and useful shelf life - The stain remover is biodegradable.
+Therefore, with just some limited rainfall, the Wet & Forget-applied surfaces will be washed clean. The product will remove stains such as moss, mold, mildew, and algae from the outdoor covers. 
+Pros:
+- - Long and useful shelf life
+- The stain remover is biodegradable.
+
 
 - Great for outdoor surface application - Has no bleach, its non-caustic and non-acidic - Simple application with just 1-step application - Removes major and stubborn stains - Wont require any rinsing, scraping, or scrubbing
 
-Cons: - Could require a second spraying for better outcomes
+
+Cons:
+- - Could require a second spraying for better outcomes
+
 
 
 ###  3. Lichen stain Removal with Wet & Forget s
@@ -79,4 +86,5 @@ It doesn't incorporate heavy metals or harmful chemicals and will be safe to use
 ##  Conclusion
 
 Wet & Forget will deeply penetrate the surface stains to remove debris from surfaces in your home, and it'll leave the objects intact - shining to remove mildew and mold.
+
 

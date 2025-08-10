@@ -70,9 +70,10 @@ This comprehensive review will delve into the specifics of MasterShield's gutter
 
 ##  MasterShield Pros & Cons
 
-###  Pros:
+###  
+Pros:
+- * **Advanced Micro-Mesh Technology: ** Features a very fine, marine-grade (316) stainless steel micro-mesh, designed to block virtually all debris, including tiny particles like pine needles, shingle grit, and even pollen. * **Patented Pitch Installation: ** Uniquely designed to be installed at the same pitch as your roof.
 
-* **Advanced Micro-Mesh Technology: ** Features a very fine, marine-grade (316) stainless steel micro-mesh, designed to block virtually all debris, including tiny particles like pine needles, shingle grit, and even pollen. * **Patented Pitch Installation: ** Uniquely designed to be installed at the same pitch as your roof.
 
 This angled installation, combined with "HydroVortex Technology, " helps shed debris more effectively and encourages water flow, even in heavy rain, by preventing debris from sitting flat on the surface. * **Self-Cleaning Properties: ** The sloped design and smooth surface aim for debris to dry and blow away naturally. Some systems also incorporate copper, which can help inhibit moss and algae growth on the mesh.
 
@@ -82,9 +83,10 @@ This angled installation, combined with "HydroVortex Technology, " helps shed de
 
 * **Heated Option Available: ** Offers a heated gutter guard option to combat ice dams and icicles in colder climates.
 
-###  Cons:
+###  
+Cons:
+- * **Professional Installation Required: ** MasterShield is exclusively installed by authorized dealers, meaning you cannot purchase and install it yourself. This contributes to the higher cost. * **High Upfront Cost: ** As a premium, professionally installed system, MasterShield is a significant investment compared to DIY options or simpler screen guards.
 
-* **Professional Installation Required: ** MasterShield is exclusively installed by authorized dealers, meaning you cannot purchase and install it yourself. This contributes to the higher cost. * **High Upfront Cost: ** As a premium, professionally installed system, MasterShield is a significant investment compared to DIY options or simpler screen guards.
 
 * **Potential for Pollen/Grime Buildup: ** While highly effective, very fine particles like pollen or a film of roof oils/algae can occasionally accumulate on the micro-mesh over time, potentially requiring light rinsing or brushing.
 
@@ -137,4 +139,5 @@ MasterShield generally garners **very positive customer reviews** across various
 * **Strong Warranty Support: ** The transferable lifetime warranty is a significant draw.
 
 As with any company, some negative reviews exist, though they are less common. These typically relate to initial sales experiences, isolated instances of water overshoot in extreme weather, or rare maintenance needs for stubborn fine debris. The Better Business Bureau (BBB) ratings for MasterShield and its authorized dealers are generally very high (often A+), reflecting good customer service and complaint resolution.
+
 

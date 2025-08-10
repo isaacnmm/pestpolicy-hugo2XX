@@ -36,9 +36,18 @@ This ventilation system ensures your feet remain dry, cool, and fresh during the
 
 Cushioning -These socks offer the right level of cushioning to your heel and toes making them more comfortable to wear. The cushioning is quite light, making the socks unsuitable for running on the concrete trail. Comfort -These socks feature targeted arch support for additional comfort and security. Also, the arch area has good compression to keep feet secure and stable while running.
 
-Pros: - Excellent cushioning allows shock absorption - Breathability - Offers comfort - Made with quality fabric
 
-Cons: - Some customers have complained about the fit being too for them.
+Pros:
+- - Excellent cushioning allows shock absorption
+- Breathability
+- Offers comfort
+- Made with quality fabric
+
+
+
+Cons:
+- - Some customers have complained about the fit being too for them.
+
 
 
 ###  [2. Saucony Men's Performance No-Show Socks](https://www.amazon.com/dp/B07WGR2MCQ/?tag=p-policy-20)
@@ -53,11 +62,17 @@ The arch support and the cushioned sole offer the right level of compression hel
 
 Well-cushioned - The socks feature unmatched cushioned soles that offer light cushioning to give impact protection to the joints without occupying a lot of space inside the shoes.
 
-Excellent Ventilation -The socks have a mesh ventilation construction to allow free airflow, thus, keep the feet dry and fresh during running. Moisture Management Technology -Saucony Men's socks have a RunDry moisture technology that offers excellent moisture transport that helps to wicks away sweat leaving your feet feeling fresh. Pros: - Moisture management technology absorbs all moisture, preventing sweat accumulation in your feet.
+Excellent Ventilation -The socks have a mesh ventilation construction to allow free airflow, thus, keep the feet dry and fresh during running. Moisture Management Technology -Saucony Men's socks have a RunDry moisture technology that offers excellent moisture transport that helps to wicks away sweat leaving your feet feeling fresh. 
+Pros:
+- - Moisture management technology absorbs all moisture, preventing sweat accumulation in your feet.
+
 
 - Excellent arch support - Well-cushioned sole - Breathability - Seamless Toe
 
-Cons: - Not sold as a single pair
+
+Cons:
+- - Not sold as a single pair
+
 
 
 ###  [3. Tesla No Show Socks](https://www.amazon.com/dp/B07X91GP82/?tag=p-policy-20)
@@ -76,9 +91,19 @@ Excellent cushioning -These socks are equipped with extra cushioning at the toe 
 
 They are designed specially to ensure the socks do not slip down while running. Arch compression support provides needed support and stability while running. Breathability - The venting breath mesh allows more airflow to the feet, helping to keep the feet dry. Therefore, cases of blisters or odors are eliminated, and you get to have more comfortable running experience.
 
-Pros: - The low cut design allows socks to be invisible when worn with the running shoes - Band structure helps to wrap the feet for added stability - Excellent breathability - Durable Sole - Arch compression support
 
-Cons: - Some customers said its quite thick
+Pros:
+- - The low cut design allows socks to be invisible when worn with the running shoes
+- Band structure helps to wrap the feet for added stability
+- Excellent breathability
+- Durable Sole
+- Arch compression support
+
+
+
+Cons:
+- - Some customers said its quite thick
+
 
 
 ###  [4. Balega Hidden Comfort](https://www.amazon.com/dp/B0016CJIZE/?tag=p-policy-20)
@@ -95,9 +120,19 @@ Breathability -The socks feature a top-rated ventilation system which helps to c
 
 Furthermore, the quality fabric of the sock prevents odors and discomfort. Cushioning -The socks feature Plush under sole which offers great cushioning giving feet additional protection while running. Moisture Management Technology -One of a kind moisture control system that helps to remove moisture from your feet leaving you feeling comfortable.
 
-Pros: - Excellent cushioning - Deep heel pockets for a perfect fit - Seamless Toe - Moisture management technology - Excellent breathability
 
-Cons: - A bit pricey compared to other socks brands
+Pros:
+- - Excellent cushioning
+- Deep heel pockets for a perfect fit
+- Seamless Toe
+- Moisture management technology
+- Excellent breathability
+
+
+
+Cons:
+- - A bit pricey compared to other socks brands
+
 
 
 ###  [5. Feetures! - Elite Light Cushion](https://www.amazon.com/dp/B074SZHDKZ/?tag=p-policy-20)
@@ -110,9 +145,18 @@ It also has an anatomically accurate foot design, arch support, and additional h
 
 The socks give unmatched value and are designed to offer you comfort while running.
 
-Quality -These socks are made of spandex and polyester ensuring the quality and durability of the socks. Comfort -The zone-specific compression, arch support, and additional cushioning ensure that you get needed stability and comfort as you exercise or run. Pros: - Excellent cushioning - Reasonably priced - Ventilating panels - Strong arch support
+Quality -These socks are made of spandex and polyester ensuring the quality and durability of the socks. Comfort -The zone-specific compression, arch support, and additional cushioning ensure that you get needed stability and comfort as you exercise or run. 
+Pros:
+- - Excellent cushioning
+- Reasonably priced
+- Ventilating panels
+- Strong arch support
 
-Cons: - Finding the right size can be a challenge
+
+
+Cons:
+- - Finding the right size can be a challenge
+
 
 
 ##  Considerations in Best Running Socks for Marathon
@@ -138,4 +182,5 @@ Choose socks with the two-layer system; such socks are known to prevent blisters
 # Conclusion
 
 When you decide to buy the best running socks for a marathon, there are a few things you need to remember to get the best quality. Check out cushioning, the fabric used, moisture and ventilation technology, as well as comfort. All the socks Ive reviewed on this guide meet the above criteria and are ideal for running. Carefully go through each review and make your choice.
+
 

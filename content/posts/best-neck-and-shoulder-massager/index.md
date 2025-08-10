@@ -38,7 +38,15 @@ Such action will help relieve chronic back and neck triggered by injuries or med
 
 The massager has a Sling Build that you can use to raise or lower the device and thus get to all those tension spots in your neck and shoulders. Further, the design helps to ergonomically hold your neck and head in a good position. You can easily change the massage intensity and its placement on your body through the application of handle pressure.
 
-Pros: - Easy to adjust the massage intensity through pulling massager straps - Usable either in the standing or sitting position - The smooth operation of the rotating massage balls gives top comfort. - Light in weight and thus great for traveling and usable on many body parts like legs and buttocks. Cons: - Has no rechargeable battery - Produces noise if a user rests against it
+
+Pros:
+- - Easy to adjust the massage intensity through pulling massager straps
+- Usable either in the standing or sitting position
+- The smooth operation of the rotating massage balls gives top comfort.
+- Light in weight and thus great for traveling and usable on many body parts like legs and buttocks. Cons:
+- Has no rechargeable battery
+- Produces noise if a user rests against it
+
 
 
 ###  [2. Naipo Shiatsu Kneading Massage - Cordless Rechargeable Battery](https://www.amazon.com/dp/B01MEH3FTT/?tag=p-policy-20)
@@ -51,7 +59,14 @@ Naipo Shiatsu Kneading Massage View The massager will give you great heat therap
 
 - Also, it is rechargeable and hence can be used from anywhere, even in the off-grid and cabin properties with no electricity. The massager allows you to control both the direction and speed of the massaging process. You can choose one of the 3 unique speeds to achieve your favorable massage pressure. Also, you can reverse the massager after a few minutes and thus look like the human massage, which you can change using this massager.
 
-It has uniquely built flexible straps that will be highly comfortable in your hands. Therefore, it will be easy to apply various forces to achieve varied massage intensity. It is also wrapped with a dust guard that you can remove and clean. Pros: - Clickable and Ergonomic touchpad - even with yourbullet journal notebook. - Awesome triggers - Improved features over PS3 gamepad Cons: - Wear in the Rubber thumbsticks
+It has uniquely built flexible straps that will be highly comfortable in your hands. Therefore, it will be easy to apply various forces to achieve varied massage intensity. It is also wrapped with a dust guard that you can remove and clean. 
+Pros:
+- - Clickable and Ergonomic touchpad
+- even with yourbullet journal notebook.
+- Awesome triggers
+- Improved features over PS3 gamepad Cons:
+- Wear in the Rubber thumbsticks
+
 
 
 ###  [3. TruMedic Instashiatsu Plus - Deep penetrating Massager](https://www.amazon.com/dp/B01516LTRK/?tag=p-policy-20)
@@ -68,7 +83,13 @@ The massager has 4 fingers that are covered using a micro net and are assigned t
 
 - The massager has a heat treatment option that aids the circulation of blood in the painful and tight muscles.
 
-- You can adjust the heat levels to match your demands. However, dont use the heat treatment option for over twenty minutes. Pros: - Clickable and Ergonomic touchpad - Awesome triggers - Improved features over PS3 gamepad Cons: - Wear in the Rubber thumbsticks
+- You can adjust the heat levels to match your demands. However, dont use the heat treatment option for over twenty minutes. 
+Pros:
+- - Clickable and Ergonomic touchpad
+- Awesome triggers
+- Improved features over PS3 gamepad Cons:
+- Wear in the Rubber thumbsticks
+
 
 
 ##  Conclusion
@@ -78,4 +99,5 @@ The best neck and shoulder massager weighs about 7 by 6 by 7 inches and 4. 4 pou
 Worldwide, about 85% of the adult population experience some neck or shoulder pain.
 
 Such pain can be annoying, distracting, and challenging to eliminate.
+
 

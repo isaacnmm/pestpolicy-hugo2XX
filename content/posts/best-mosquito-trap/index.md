@@ -63,25 +63,44 @@ Once drawn in, the mosquitoes are eliminated by an electrified grid that [kills 
 
 com/manuals/MT-125%20om.pdf).
 
-Further, the included digital display ensures that the trap is simple to use for beginners. **Cons: ** - **Noisy: **The electric zapping sound can be loud. - **Limited to Outdoor Use: **Not ideal for indoor spaces.
+Further, the included digital display ensures that the trap is simple to use for beginners. **
+Cons:
+- **
+- **Noisy: **The electric zapping sound can be loud.
+- **Limited to Outdoor Use: **Not ideal for indoor spaces.
+
 
 ###  [2.**DynaTrap DT2000XLP for Large Mosquitos and Insects**](https://www.amazon.com/dp/B01G9FBKT4/?tag=p-policy-20)
 
 The DynaTrap DT2000XLP offers broad coverage, making it ideal for large outdoor spaces as it can protect areas up to 1 acre. It combines the use of UV light and carbon dioxide, simulating human breath to lure mosquitoes into the trap.
 
-This model operates quietly, utilizing a fan to trap mosquitoes without the noise typically associated with other traps, ensuring a peaceful environment. **Cons: ** - **Bulky: **Takes up significant space in your yard. - **Higher Price Point: **More expensive than smaller models.
+This model operates quietly, utilizing a fan to trap mosquitoes without the noise typically associated with other traps, ensuring a peaceful environment. **
+Cons:
+- **
+- **Bulky: **Takes up significant space in your yard.
+- **Higher Price Point: **More expensive than smaller models.
+
 
 ###  [3.**Katchy Indoor Insect Trap**](https://www.amazon.com/dp/B07B6RZP4H/?tag=p-policy-20)
 
 The Katchy Indoor Insect Trap uses a triple attraction method, combining UV light, a fan, and sticky glue boards to capture mosquitoes and other flying insects. Its compact and stylish design allows it to blend seamlessly into any room's dcor.
 
-Additionally, this trap is incredibly easy to use with a straightforward plug-and-play setup, requiring minimal maintenance to keep it running effectively. **Cons: ** - **Limited to Indoors: **Not suitable for outdoor use. - **Glue Boards Need Replacing: **Ongoing maintenance cost.
+Additionally, this trap is incredibly easy to use with a straightforward plug-and-play setup, requiring minimal maintenance to keep it running effectively. **
+Cons:
+- **
+- **Limited to Indoors: **Not suitable for outdoor use.
+- **Glue Boards Need Replacing: **Ongoing maintenance cost.
+
 
 ###  [4.**Blue Rhino SkeeterVac SV3100**](https://www.amazon.com/dp/B00134MOUG/?tag=p-policy-20)
 
 The Blue Rhino SkeeterVac SV3100 is a propane-powered mosquito trap that attracts insects without the use of harmful chemicals, making it a safer option for households. Its cordless design offers flexibility, allowing you to place it anywhere in your yard.
 
-The SkeeterVac is also designed with safety in mind, featuring a child-safe build that minimizes the risk of accidental injuries. According to this [River Nile Valley study](https://apps.dtic.mil/dtic/tr/fulltext/u2/a549252.pdf),C02 plus LED in the traps are more effective compared to using either of the methods separately. **Cons: ** - **Propane Refills Required: **Ongoing operational costs.
+The SkeeterVac is also designed with safety in mind, featuring a child-safe build that minimizes the risk of accidental injuries. According to this [River Nile Valley study](https://apps.dtic.mil/dtic/tr/fulltext/u2/a549252.pdf),C02 plus LED in the traps are more effective compared to using either of the methods separately. **
+Cons:
+- **
+- **Propane Refills Required: **Ongoing operational costs.
+
 
 - **Setup Can Be Tricky: **Initial setup is more complicated than other traps.
 
@@ -89,11 +108,17 @@ The SkeeterVac is also designed with safety in mind, featuring a child-safe buil
 
 The Aspectek 20W Electronic Insect Killer is an economical choice, with low energy consumption and affordable replacement parts that make it cost-effective for long-term use. It provides wide coverage, making it effective over a medium-sized area.
 
-Additionally, it is designed for ease of maintenance, with a removable tray that makes cleaning out dead insects quick and hassle-free. **Cons: ** - **Bright Light: **The light may be too bright for some indoor spaces. - **Limited to Mosquitoes and Small Insects: **Not effective for larger pests.
+Additionally, it is designed for ease of maintenance, with a removable tray that makes cleaning out dead insects quick and hassle-free. **
+Cons:
+- **
+- **Bright Light: **The light may be too bright for some indoor spaces.
+- **Limited to Mosquitoes and Small Insects: **Not effective for larger pests.
+
 
 ##  **Conclusion**
 
 Choosing the best mosquito trap involves considering factors like effectiveness, coverage area, ease of use, safety, and cost efficiency. The products listed above offer a range of features to suit different needs and environments.
 
 Whether you're looking for something simple for indoor use or a heavy-duty trap for a large outdoor area, these top recommendations provide reliable options to help keep your space mosquito-free.
+
 

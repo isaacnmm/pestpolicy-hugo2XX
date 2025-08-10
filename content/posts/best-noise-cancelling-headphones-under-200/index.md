@@ -30,9 +30,18 @@ Further, it has a protective case to ensure its durability even with falls or sl
 
 It has a lighter design that will be easy to carry around.
 
-Pros: - Powerful speakers - Bluetooth connectivity - Active noise canceling, light (compact and classic) design - A 24-hour battery.
 
-Cons: - Lacks in-line remote
+Pros:
+- - Powerful speakers
+- Bluetooth connectivity
+- Active noise canceling, light (compact and classic) design
+- A 24-hour battery.
+
+
+
+Cons:
+- - Lacks in-line remote
+
 
 
 ###  [2. COWIN E8 Bluetooth Active Noise Cancelling Headphone - #2 Pick](https://www.amazon.com/dp/B07C6CC7TJ/?tag=p-policy-20)
@@ -51,9 +60,19 @@ Cowin E8 has all the required functions: noise cancellation button (on or off) v
 
 I would recommend Cowin E8 for office use and commuting.
 
-I consider that they are great for travel and commute. Further, they are comfortable for office use and will cancel most office ambient chatter. Pros: - Wireless Bluetooth connectivity - Excellent soundstage - Lightweight and soft ear cushions - Built-in microphone - Active noise cancellation (ANC) offers excellent sound isolation.
+I consider that they are great for travel and commute. Further, they are comfortable for office use and will cancel most office ambient chatter. 
+Pros:
+- - Wireless Bluetooth connectivity
+- Excellent soundstage
+- Lightweight and soft ear cushions
+- Built-in microphone
+- Active noise cancellation (ANC) offers excellent sound isolation.
 
-Cons: - Keep off magnetic materials
+
+
+Cons:
+- - Keep off magnetic materials
+
 
 
 ###  **2. Audio-Technica ATH-ANC9 QuietPoint - #2 Pick **
@@ -66,9 +85,17 @@ Therefore, if youll be moving to a place having high ambient noise, then the Aud
 
 The headphones microphone comes with an Omni-directional pickup pattern and allows crisp intelligibility, which implies that you dont have to speak to your receiver directly. The headphones noise isolation is superior and appropriate for different noisy environments by reducing background noise in areas of high traffic and train. Its soft ear cushions can rotate by 90-degree, and thus you can fit them correctly on your head.
 
-Pros: - It has three modes: (1) for buses, trains, and airplanes, (2) for crowded places and noisy offices, (3) for a peaceful study environment. - The device will run for about 20 hours on full battery even when Active Noise Cancellation and Bluetooth on turned on. - The headband and ear cups of the Noise Cancelling Headphones have memory foam that creates fantastic comfort.
 
-Cons: - None
+Pros:
+- - It has three modes: (1) for buses, trains, and airplanes, (2) for crowded places and noisy offices, (3) for a peaceful study environment.
+- The device will run for about 20 hours on full battery even when Active Noise Cancellation and Bluetooth on turned on.
+- The headband and ear cups of the Noise Cancelling Headphones have memory foam that creates fantastic comfort.
+
+
+
+Cons:
+- - None
+
 
 
 ###  [4. Paww WaveSound 3 Bluetooth 5.0 Travel Headphones](https://www.amazon.com/dp/B01IEHIMLY/?tag=p-policy-20)
@@ -85,9 +112,19 @@ Further, with the built-in microphone, you can easily make calls when youre conn
 
 The headphones come with an airplane adapter and auxiliary cable that makes it suitable for air travel.
 
-Pros: - Has low latency - Cheap, better noise canceling. - Better build quality - Improved Bluetooth signal - Active noise canceling is great for air travel, wired, and wireless connection.
 
-Cons: - None
+Pros:
+- - Has low latency
+- Cheap, better noise canceling.
+- Better build quality
+- Improved Bluetooth signal
+- Active noise canceling is great for air travel, wired, and wireless connection.
+
+
+
+Cons:
+- - None
+
 
 
 ###  [5. Sennheiser HD 4.50 SE Wireless Noise Cancelling Headphones](https://www.amazon.com/dp/B07BMQXVLB/?tag=p-policy-20)
@@ -100,9 +137,17 @@ Sennheiser HD 4. 50 BTNC emerged top for its elegant and minimalist design while
 
 It has offered the NoiseGard active noise canceling feature to reduce surrounding noise levels and enhance your listening experience. It is covered with the matte-black finish (plastic) and shows the silver-stressed logo. On fit and comfort, the Noise Cancelling Headphones have suitable headband and ear cups padding and are lightweight. Therefore, with the rechargeable capability, you can go for many hours enjoying your music.
 
-I love the Sennheiser HD 4. 50 BTNC as its a wireless headphone (Bluetooth) that features the travel- attractive design. Further, it has a narrow ear-cup, which makes it feel comfortable to wear around my neck. Pros: - Has bright highs and strong bass - Allows active noise cancellation and Bluetooth - Provides wired listening but its cable is detachable.
+I love the Sennheiser HD 4. 50 BTNC as its a wireless headphone (Bluetooth) that features the travel- attractive design. Further, it has a narrow ear-cup, which makes it feel comfortable to wear around my neck. 
+Pros:
+- - Has bright highs and strong bass
+- Allows active noise cancellation and Bluetooth
+- Provides wired listening but its cable is detachable.
 
-Cons: - Does not offer a detailed sound signature
+
+
+Cons:
+- - Does not offer a detailed sound signature
+
 
 
 ##  Conclusion
@@ -110,4 +155,5 @@ Cons: - Does not offer a detailed sound signature
 Masking outside noise will enable you to focus on the great tunes coming off your headphones - particularly for Noise Cancelling Headphones for Babies. Its internal circuitry generates an inverse sine wave that is great in neutralizing ambient noise. It has a microphone at the top of the ear-cups detect ambient noise.
 
 It has ear-pads covered with soft leatherette designed from memory foam, which provides a tighter seal and better conformity to your head.
+
 

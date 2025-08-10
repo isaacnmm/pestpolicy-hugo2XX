@@ -28,9 +28,17 @@ This headphone set not only performs excellently in active noise reduction but a
 
 If you are looking to use this unit on your flight, the Unique Atmospheric Pressure Optimizing feature allows you to achieve optimal sound performance at high altitudes. Thanks to the Adaptive Sound Control feature, the WH-1000XM3 automatically senses your activity such as walking or commuting and adjusts the ambient sound personalized to your liking. Design-wise, this unit is lighter than the previous edition.
 
-The bridge is sufficiently padded and features sufficient padding which allows you to listen for longer with limited hassle. A 30-hour battery with a quick charge feature is all you need for that uninterrupted performance. Pros: - Unrivaled noise canceling feature - Lightweight - Excellent sound quality
+The bridge is sufficiently padded and features sufficient padding which allows you to listen for longer with limited hassle. A 30-hour battery with a quick charge feature is all you need for that uninterrupted performance. 
+Pros:
+- - Unrivaled noise canceling feature
+- Lightweight
+- Excellent sound quality
 
-Cons: - Relatively pricey
+
+
+Cons:
+- - Relatively pricey
+
 
 
 ###  [2. Monitor II ANC Bluetooth Over-Ear Headphone](https://www.amazon.com/dp/B084R2WVLX/?tag=p-policy-20)
@@ -41,9 +49,17 @@ The integration of the ANC technology makes this unit one of the best picks for 
 
 Designed for the all-day listening experience, this edition provides you up to 30 hours of playback with the ANC feature on. The Monitor II ANC feature an ergonomic construction design which fits comfortably in the ears for a plush listening experience all day. You get unparalleled convenience on purchasing this unit thanks to the adjustable and fully rotating ear cups. These units hug the ears fully ensuring there is limited sound leakage.
 
-Pros: - Top-notch noise isolation capability - Iconic design - High performance sound
 
-Cons: - Unintuitive controls
+Pros:
+- - Top-notch noise isolation capability
+- Iconic design
+- High performance sound
+
+
+
+Cons:
+- - Unintuitive controls
+
 
 
 ###  [3. Apple AirPods Pro with Bluetooth & NFC Connections](https://www.amazon.com/dp/B07ZPC9QD4/?tag=p-policy-20)
@@ -56,9 +72,17 @@ The all-new design of the Airpod Pro allows you to customize the fit to the shap
 
 You get efficient controls with the purchase of the AirPod Pro, thanks to the integration of a capacitive touch feature on the ridge section.
 
-Pros: - Outstanding noise isolation capability - Excellent battery performance - Personalized fit
 
-Cons: - None found
+Pros:
+- - Outstanding noise isolation capability
+- Excellent battery performance
+- Personalized fit
+
+
+
+Cons:
+- - None found
+
 
 ###  [4. Jabra Elite 85h Noise Canceling Headphones](https://www.amazon.com/dp/B07RQ366VK/?tag=p-policy-20)
 
@@ -70,9 +94,17 @@ This edition makes use of 8 microphones, half of which are utilized by the ANC t
 
 Thanks to the purpose-built speakers, this set guarantees you exceptional music quality for that personalized listening experience. With a battery life of 36 hours with the ANC on, the battery featured in this version powers through your day with minimal hassles. What's more? The fast charging feature allows you to charge your headphones on the go, allowing you to the distance without worrying about the headphones going off.
 
-Pros: - Unparalleled call quality - Highly durable - On-ear detection feature
 
-Cons: - Relatively bulky
+Pros:
+- - Unparalleled call quality
+- Highly durable
+- On-ear detection feature
+
+
+
+Cons:
+- - Relatively bulky
+
 
 
 ###  [5. Beats by Dre Studio 3 Wireless headphones](https://www.amazon.com/dp/B079TLV1WW/?tag=p-policy-20)
@@ -85,9 +117,17 @@ The Apple W1 chip facilitates instant Bluetooth connectivity while optimizing ba
 
 When the ANC is turned off, this unit gives you up to 40 hours of playback time. This headset is specifically designed for prolonged comfort, thanks to its incorporation of over-ear padding while the ergonomic pivoting at the bridge provides a flexible fit for different head shapes and sizes. Multi-functional ear buttons allow you to control your playlist and manage calls in a bliss.
 
-Pros: - Comfortable fit - Top notch noise cancellation capability - Excellent value for money
 
-Cons: - None found
+Pros:
+- - Comfortable fit
+- Top notch noise cancellation capability
+- Excellent value for money
+
+
+
+Cons:
+- - None found
+
 
 
 ###  [6. Sennheiser Momentum 2 Wireless](https://www.amazon.com/dp/B00SNI44CQ/?tag=p-policy-20)
@@ -96,9 +136,17 @@ With this wireless headset, superior design meets superior sound quality. In add
 
 You will never miss a beat with this buy thanks to the intuitive controls which are designed to fit different situations. The Auto On and off and pause switches allow you to switch between different functionalities conveniently. Transparent hearing functionality is all you need if you are looking to listen to music while maintaining your presence in your current activity.
 
-Design wise, this unit provides a classic look featuring an original leather strap and heavily padded ear cups which provide an uninterrupted listening performance. The strong matte steel frame not only adds to the durability of this unit while the covers also stand the test of time with prolonged use. Pros: - Attractive design - Excellent battery performance - Durable
+Design wise, this unit provides a classic look featuring an original leather strap and heavily padded ear cups which provide an uninterrupted listening performance. The strong matte steel frame not only adds to the durability of this unit while the covers also stand the test of time with prolonged use. 
+Pros:
+- - Attractive design
+- Excellent battery performance
+- Durable
 
-Cons: - Relatively heavy
+
+
+Cons:
+- - Relatively heavy
+
 
 
 ###  [7. Bowers and Wilkins PX Noise Canceling Headphones](https://www.amazon.com/dp/B0756XMGV1/?tag=p-policy-20)
@@ -111,11 +159,20 @@ Thanks to the mechanical sensors integrated into this unit, controlling these he
 
 The compact and lightweight features allows you to fit the headsets in a small space as you move along.
 
-The PX functions as an extension to the user, always anticipating the next move. Pros: - Highly responsive control features - Aesthetically appealing - Compact and lightweight
+The PX functions as an extension to the user, always anticipating the next move. 
+Pros:
+- - Highly responsive control features
+- Aesthetically appealing
+- Compact and lightweight
 
-Cons: - None found
+
+
+Cons:
+- - None found
+
 
 ##  Conclusion
 
 The ultimate pick of noise-canceling headphones should be highly responsive and capable of sufficiently isolating unwanted noise to allow you to enter your personal space when listening to that music playlist or podcast. Based on our featured list, the Beats Studio 3 stands out from the crowd thanks to its prolonged comfort, excellent audio, intuitive design, and great battery life. `"
+
 

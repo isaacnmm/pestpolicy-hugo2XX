@@ -30,7 +30,14 @@ However, Microsoft Xbox 360 emerges as one of the most pricey first-party gamepa
 
 Considering the performance and build, the Xbox 360 Wireless gamepad features are on top of the list. **But remember this: ** "Gaming Platforms" or PC controllers are highly personal devices. Also, most PC gamers worship (rightly so) the keyboard-Mouse combo while playing some real-time strategy games (such as Halo Wars) and first-person shooters RPGs (such as 007 Legends).
 
-Either way, you'll need an ergonomic, practical, and durable gaming controller and a great gaming motherboard that is worth your money and effort for the ultimate gaming experience. Pros: - Long battery life - Easy to set up - Ergonomic and comfortable build - Highly computable with all games marked*Windows LIVE. * Cons: - No manual power off allowance
+Either way, you'll need an ergonomic, practical, and durable gaming controller and a great gaming motherboard that is worth your money and effort for the ultimate gaming experience. 
+Pros:
+- - Long battery life
+- Easy to set up
+- Ergonomic and comfortable build
+- Highly computable with all games marked*Windows LIVE. * Cons:
+- No manual power off allowance
+
 
 ###  [2. Logitech Gamepad F710  Wireless](https://www.amazon.com/dp/B0041RR0TW/?tag=p-policy-20)
 
@@ -46,7 +53,13 @@ As a programmable controller, the device will function with your Television set 
 
 With its console layout and rubber grips, the F710 Controller will fit excellently into your hands and offer you comfortable gaming. Further, the F710 Controller is easy to set up, program, and customize through the profiler program. For a highly engaging and realistic gaming, the Logitech F710 has dual feedback motors (vibration).
 
-[Read full Logitech Gamepad F710 review here](https://pestpolicy.com/logitech-wireless-f710-gamepad/).Pros: - Solid build design - Long-lasting battery - Many triggers, inputs, and buttons Cons: - Heavy?
+[Read full Logitech Gamepad F710 review here](https://pestpolicy.com/logitech-wireless-f710-gamepad/).
+Pros:
+- - Solid build design
+- Long-lasting battery
+- Many triggers, inputs, and buttons Cons:
+- Heavy?
+
 
 ###  [3. DualShock 4 Wireless Sony Controller](https://www.amazon.com/dp/B00BGA9X9W/?tag=p-policy-20)
 
@@ -84,7 +97,15 @@ Sony DualShock 4 feels great in the hands due to its excellent ergonomics with t
 
 DS4 also has a. 5mm headphone jack at the front section to enable the addition of earphones. At the center of the navigation keys, joysticks, and D-Pad, the DS4 has a touchpad that will enable multi-finger scrolling and enhance the navigation and pinch to zoom functions. Thus, it is possible to swipe commands in games that require such inputs. Finally, it is now possible to charge the DualShock 4 when the PS4 is powered off.
 
-However, you need an InputMapper program download for the gamepad to work if you have challenges connecting to the PC. Read the full DualShock 4 review here. Pros: - You are officially supported by many game titles. - Windows compatible - Clickable touchpad - Awesome triggers - Significant improvement from the PS3 gamepad Cons: - Quick wear on rubber thumb sticks?
+However, you need an InputMapper program download for the gamepad to work if you have challenges connecting to the PC. Read the full DualShock 4 review here. 
+Pros:
+- - You are officially supported by many game titles.
+- Windows compatible
+- Clickable touchpad
+- Awesome triggers
+- Significant improvement from the PS3 gamepad Cons:
+- Quick wear on rubber thumb sticks?
+
 
 ###  [4. Xbox One Elite Wireless Controller](https://www.amazon.com/dp/B00BGA9X9W/?tag=p-policy-20)
 
@@ -100,7 +121,14 @@ With its excellent ergonomics, quality build, and 4-way cross style, youll find 
 
 Further, the Guide button is placed far from Xbox One Elites center menu buttons, which reduces the chances of unintentional input.
 
-The Elites analog sticks and D-Pads are designed from durable metal, while the real analog stick sockets are supported by strong rings. Therefore, Xbox One Elite is an excellent device as it provides increased durability, attractiveness, and customization. Read full review Xbox One Elite Wireless Controller here. Pros: - Removable triggers - Customizable design - Aesthetically attractive - Commendable weight Cons: - Non rechargeable battery?
+The Elites analog sticks and D-Pads are designed from durable metal, while the real analog stick sockets are supported by strong rings. Therefore, Xbox One Elite is an excellent device as it provides increased durability, attractiveness, and customization. Read full review Xbox One Elite Wireless Controller here. 
+Pros:
+- - Removable triggers
+- Customizable design
+- Aesthetically attractive
+- Commendable weight Cons:
+- Non rechargeable battery?
+
 
 ###  [5. Steam Controller by Valve - Best Controller for customization](https://www.amazon.com/dp/B016KBVBCS/?tag=p-policy-20)
 
@@ -120,9 +148,17 @@ Also, steam introduced the grip trigger in the steam controller, and you can eas
 
 - Youll find the steam controller unique due to its great touchpads that have a haptic feedback ability. - As we mentioned, the steam controller is highly customizable, and you can tweak features such as haptics intensity, swipe direction, and sensitivity. Luckily, the steam controller works perfectly okay with non-steam games. However, the games in question need to have support for Steam Overlay.
 
-To connect your steam controller to many wireless USB dongles or steam links, youll need to switch off the Controller and press the Steam button, and choose the various signal choices. Read Steam Controller full review here. Pros: - Highly Customizable easy to map touchpads and buttons to any controller input or key - Grip triggers New Button - The touchpad replaces the analog stick to ease navigation.
+To connect your steam controller to many wireless USB dongles or steam links, youll need to switch off the Controller and press the Steam button, and choose the various signal choices. Read Steam Controller full review here. 
+Pros:
+- - Highly Customizable easy to map touchpads and buttons to any controller input or key
+- Grip triggers New Button
+- The touchpad replaces the analog stick to ease navigation.
 
-- Includes a gyroscope which will map on the 4 directions Cons: - None?
+
+- Includes a gyroscope which will map on the 4 directions 
+Cons:
+- - None?
+
 
 ###  [6. Xbox Wireless Controller - Budget pick](https://www.amazon.com/dp/B01LPZM7VI/?tag=p-policy-20)
 
@@ -160,7 +196,13 @@ The device is plug and play, but it is only useful in games that are Xinput Mode
 
 Read Zhidong Controller full review here.
 
-Pros: - Plug and play design - Great ergonomics - Good price Cons: - None?
+
+Pros:
+- - Plug and play design
+- Great ergonomics
+- Good price Cons:
+- None?
+
 
 ###  [8. ZD-V+ USB Wired Gaming Controller - Budget Controller](https://www.amazon.com/dp/B01HBKLIJ8/?tag=p-policy-20)
 
@@ -178,7 +220,13 @@ With its attractive and robust design, the Controller will look highly appealing
 
 Just like the Xbox 360 controller, the ZD N Wireless Controller is concave and thus, your thumbs will not slip off.
 
-- Youll find the buttons to be highly responsive and the D-pad amazing. - However, for use in windows, you might need to have DirectX 9. 0c or higher. Read ZD-V+ USB Wired Gaming Controller full review here. Pros: - Excellent controls - Ergonomic shape - Does not require drivers for windows Cons: - Light build design?
+- Youll find the buttons to be highly responsive and the D-pad amazing. - However, for use in windows, you might need to have DirectX 9. 0c or higher. Read ZD-V+ USB Wired Gaming Controller full review here. 
+Pros:
+- - Excellent controls
+- Ergonomic shape
+- Does not require drivers for windows Cons:
+- Light build design?
+
 
 ##  Best Wireless PC Controller - Buyers Guide
 
@@ -197,4 +245,5 @@ Xbox 360 Wired Controller, Xbox One S Controller, Nvidia Shield Controller, Logi
 In this connection, you will use a Wireless Adapter Dongle if the Controller does not have a built-in wireless adapter. 1. UsingUSB connections, connect the Wireless Adapter to the PC (if the adapter is not inbuilt) 2. Go to the PC settings and hit the "ADD Bluetooth and other devices" button. 3. Select all the options outlined below that button 4. Select the Xbox Wireless Gamepad. 5. Finally, hit "Done. "
 
 Also, on Safetomatic - Best Controller for Retropie - Best Controller For Rocket League - [Best Joystick for Elite Dangerous](https://pestpolicy.com/best-joystick-for-elite-dangerous/)
+
 

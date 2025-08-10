@@ -28,9 +28,18 @@ Depending on the configuration of your garden, you can adjust the tilling width 
 
 Starting the tiller is quite easy, thanks to the quick-start button. Its also possible to adjust the tilling depth to meet your digging preferences. For instance, if you want to remove persistent weeds you need a shallow depth. Deep tilling allows you to plant your crops in the appropriate depth. - The two 6-inch wheels allow easy and unlimited movement when cultivating your garden. It wont get stuck on loose soils.
 
-- Unlike fuel or gas-powered tiller, Greenworks 27072 operates smoothly with less noise. The handle can easily be folded, allowing easy transportation and storage. The 50 ft. cable, allows you to cover a wide area in your garden. Pros: - Has good wheels for easy movement - 5 inch tilling depth is ideal for planting - Fordable handle allows easy storage - 50 ft. extension cable
+- Unlike fuel or gas-powered tiller, Greenworks 27072 operates smoothly with less noise. The handle can easily be folded, allowing easy transportation and storage. The 50 ft. cable, allows you to cover a wide area in your garden. 
+Pros:
+- - Has good wheels for easy movement
+- 5 inch tilling depth is ideal for planting
+- Fordable handle allows easy storage
+- 50 ft. extension cable
 
-Cons: - You require a longer power cable to cover a bigger area
+
+
+Cons:
+- - You require a longer power cable to cover a bigger area
+
 
 Related: Front Tine vs. Rear Tine Tillers
 
@@ -44,9 +53,20 @@ The blades are quite durable and are ideal for digging rocky and solid grounds. 
 
 - Since the tiller is not stable on its own, a kickstand is provided to enhance stability during storage and when refueling.
 
-- Its easy to operate and control, thanks to the finger-controlled system. With a press of the finger, you can regulate the speed to either low, medium, or high. A good grip on the handle ensures safety and comfort for your hands. Pros: - Easy operation - Tines are durable and can be replaced by insurance - Achieves deep tilling - Variable speed - Soft and secure grip on the handle
+- Its easy to operate and control, thanks to the finger-controlled system. With a press of the finger, you can regulate the speed to either low, medium, or high. A good grip on the handle ensures safety and comfort for your hands. 
+Pros:
+- - Easy operation
+- Tines are durable and can be replaced by insurance
+- Achieves deep tilling
+- Variable speed
+- Soft and secure grip on the handle
 
-Cons: - Expensive - Regular maintenance is required
+
+
+Cons:
+- - Expensive
+- Regular maintenance is required
+
 
 ###  [3. Craftsman 2-Cycle Garden Cultivator](https://www.amazon.com/dp/B07MFW79C4/?tag=p-policy-20)
 
@@ -56,11 +76,20 @@ If you want a robust, high-quality, and powerful mini tiller for digging your ra
 
 The v-grip on the handle ensures easy to grip for safe and convenient control when digging.
 
-Its easy to use and set up, owing to the handy instruction manual. The 3-step pull start system allows you to start your equipment in no time. Whats more, with this equipment, you can till your garden as far from the house as possible because it doesnt require any electrical cords. The equipment also comes with a 2 years warranty. Pros: - Easy and convenient to use - Lightweight - Variable speed - Allows you to adjust the depth and width.
+Its easy to use and set up, owing to the handy instruction manual. The 3-step pull start system allows you to start your equipment in no time. Whats more, with this equipment, you can till your garden as far from the house as possible because it doesnt require any electrical cords. The equipment also comes with a 2 years warranty. 
+Pros:
+- - Easy and convenient to use
+- Lightweight
+- Variable speed
+- Allows you to adjust the depth and width.
+
 
 - Proper handle grip
 
-Cons: - Not ideal for large gardens
+
+Cons:
+- - Not ideal for large gardens
+
 
 Related: Who Makes County Line Tillers?
 
@@ -74,9 +103,19 @@ For instance, the handles have an upright design so that you dont have to bend w
 
 Thats quite a long-lasting battery compared to its competitors.
 
-Also included is a high-quality charger. Pros: - Compact and lightweight - Single charge covers up to 325 square feet - Easy to operate - 2 years warranty - Environmentally friendly -
+Also included is a high-quality charger. 
+Pros:
+- - Compact and lightweight
+- Single charge covers up to 325 square feet
+- Easy to operate
+- 2 years warranty
+- Environmentally friendly -
 
-Cons: - Not ideal for large gardens
+
+
+Cons:
+- - Not ideal for large gardens
+
 
 ###  [5. Greenworks TL80L210 Pro Garden Tiller](https://www.amazon.com/dp/B07C7HNXDC/?tag=p-policy-20)
 
@@ -84,9 +123,20 @@ This Greenworks cordless tiller will take your tilling and cultivation activitie
 
 - Tilling width can be varied between 8. 25 and 10 to cater to different requirements. - Rotation is provided by the brushless motor which has greater torque and a longer life span. Its a lightweight tiller, only weighing 40 lbs. This is an ideal weight for you to work with without experiencing much fatigue. Its compact design makes it easier to navigate small spaces and enables convenient storage in the garage.
 
-Pros: - Cordless design enables unlimited movements - Silent operation - Durable - Battery lasts up to 40 minutes - Battery charges quickly (30 minutes)
 
-Cons: - Not ideal for large gardens - Tough grass may cause tangling
+Pros:
+- - Cordless design enables unlimited movements
+- Silent operation
+- Durable
+- Battery lasts up to 40 minutes
+- Battery charges quickly (30 minutes)
+
+
+
+Cons:
+- - Not ideal for large gardens
+- Tough grass may cause tangling
+
 
 ###  [6. Sun Joe TJ603E Electric Tiller and Cultivator](https://www.amazon.com/dp/B00V6IEVXM/?tag=p-policy-20)
 
@@ -94,9 +144,19 @@ This is a more robust tiller with the ability to break up the solid ground and t
 
 The two rear wheels enhance stability and portability when tilling or transporting the equipment. These wheels can be adjusted to three positions to allow for flexibility. In addition, it comes with a convenient handle that allows you to maneuver and control the tiller without much hustle. Plus you can easily fold the handles to allow easy storage.
 
-Pros: - Tills solid ground - Adjustable rear wheels - check thesecheap rear tine tiller - Requires less maintenance - Digs deep
 
-Cons: - Cord can be a bit annoying
+Pros:
+- - Tills solid ground
+- Adjustable rear wheels
+- check thesecheap rear tine tiller
+- Requires less maintenance
+- Digs deep
+
+
+
+Cons:
+- - Cord can be a bit annoying
+
 
 ###  [**7. Earthquake 12802 Cultivator**](https://www.amazon.com/dp/B07QPBMMW3/?tag=p-policy-20)
 
@@ -104,9 +164,20 @@ This is powerful equipment for tilling raised beds, flower beds, vegetable garde
 
 - So, whether you want to cultivate or do aggressive digging, therere separate tines for that. Its very easy to operate. You dont have to bend to start or stop the engine. Plus the handle is designed for easy maneuverability even through narrow spaces. Thus, you can for long hours without getting quick fatigue. In addition, its design minimizes bounce backs and promotes effective digging.
 
-Pros: - Allows you to use either cultivating or digging tines - Easy to operate - Allows convenient storage - Fuel efficient - Durable - Easy and convenient start and stop mechanism
 
-Cons: - Tines might clog in heavy grass
+Pros:
+- - Allows you to use either cultivating or digging tines
+- Easy to operate
+- Allows convenient storage
+- Fuel efficient
+- Durable
+- Easy and convenient start and stop mechanism
+
+
+
+Cons:
+- - Tines might clog in heavy grass
+
 
 ##  **Conclusion**
 
@@ -115,4 +186,5 @@ Having a powered tiller for your garden will go a long way to make your work eas
 Others will do a great job in removing weeds.
 
 So, its important to choose your tiller depending on your preferences.
+
 

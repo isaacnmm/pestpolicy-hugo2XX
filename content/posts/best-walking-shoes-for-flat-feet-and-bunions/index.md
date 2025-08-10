@@ -42,9 +42,21 @@ The upper also provides a roomy toe box to offer relief from bunion discomfort a
 
 The upper also features a Strobel lasting, which a support feature that provides flexibility and cushioning for a pleasant in-shoe feeling. The mesh upper has perforations that optimize moisture management for fresh and dry feet throughout the day.
 
-The outsole features a durable compound rubber that provides protection against abrasion. It also delivers reliable traction. The flex grooves beneath the outsole improve the flexibility of the shoe allowing the wearer to attain a natural movement while walking or running. Pros: - No break-in period required - Durable shoes - Comfortable for all daywear - Available in various size options - Corrects overpronation - Wide toe box
+The outsole features a durable compound rubber that provides protection against abrasion. It also delivers reliable traction. The flex grooves beneath the outsole improve the flexibility of the shoe allowing the wearer to attain a natural movement while walking or running. 
+Pros:
+- - No break-in period required
+- Durable shoes
+- Comfortable for all daywear
+- Available in various size options
+- Corrects overpronation
+- Wide toe box
 
-Cons: - A bit Heavy - Expensive
+
+
+Cons:
+- - A bit Heavy
+- Expensive
+
 
 ###  [2. SAS Men's Journey Sneakers](https://www.amazon.com/dp/B01MFBRBIU/?tag=p-policy-20)
 
@@ -60,9 +72,22 @@ Furthermore, the SAS Tripad Cushions offer comfort and healing to the three pres
 
 In addition, the lightweight, flexible, and shock-absorbing midsole provide additional lateral stability. The traditional lacing design provides a secure and adjustable fit to satisfy your comfort needs. Hence, you can tighten or loosen the laces to accommodate foot expansion during the day.
 
-The SAS Men's Journey Sneakers have non-marking and durable rubber outsole that delivers superior grip on various surfaces. Pros: - Comfortable - Cushioned - Reliable traction - Durable - Can insert orthotics - Excellent shock absorption - Available in various width options - Roomy toe box
+The SAS Men's Journey Sneakers have non-marking and durable rubber outsole that delivers superior grip on various surfaces. 
+Pros:
+- - Comfortable
+- Cushioned
+- Reliable traction
+- Durable
+- Can insert orthotics
+- Excellent shock absorption
+- Available in various width options
+- Roomy toe box
 
-Cons: - People with narrow feet might need to size down
+
+
+Cons:
+- - People with narrow feet might need to size down
+
 
 ###  [3. Dansko Women's Fawna Mary Jane](https://www.amazon.com/dp/B01MT420QT/?tag=p-policy-20)
 
@@ -76,9 +101,20 @@ Since the footbed is removable, you can choose to have it replaced with a custom
 
 The shoe also incorporates a leather insole with steel shank and tuckboard. These components provide crucial support and stability to feet. Furthermore, the rubber outsole provides reliable traction on various surfaces allowing you a safe walking experience.
 
-The adjustable buckle strap allows you a customized fit while helping to reduce pressure on top of the foot for a comfortable and snug feeling. The padded heel collar provides comfort at the back of the foot while preventing accidental shoe removal. Pros: - Rubber outsole - Durable leather upper - Comfortable - Excellent arch support and cushioning - Accommodates orthotics - Offers good stability
+The adjustable buckle strap allows you a customized fit while helping to reduce pressure on top of the foot for a comfortable and snug feeling. The padded heel collar provides comfort at the back of the foot while preventing accidental shoe removal. 
+Pros:
+- - Rubber outsole
+- Durable leather upper
+- Comfortable
+- Excellent arch support and cushioning
+- Accommodates orthotics
+- Offers good stability
 
-Cons: - A customer complained that the upper leather was not very durable
+
+
+Cons:
+- - A customer complained that the upper leather was not very durable
+
 
 ###  [4. Brooks Women's Adrenaline GTS 19 Running Shoe](https://www.amazon.com/dp/B07C6N1MZ5/?tag=p-policy-20)
 
@@ -92,9 +128,19 @@ The upper of GTS 19 features an engineered mesh material, which provides a cloth
 
 The upper is reinforced with a 3D print design. The design helps to hold the foot securely and prevents unintended shoe removal. Furthermore, the padded collar and tongue cushions the top section of the shoe helping to prevent Pain On top Of Foot.
 
-The Brooks Adrenaline GTS 19 has an outsole that utilizes a blown rubber compound. The compound delivers reliable traction on various surfaces. It also offers protection against abrasion. The flex grooves enhance the shoes flexibility. Pros: - Comfortable in-shoe experience - Breathable and flexible upper - Excellent pronation support - Good stability - Well-cushioned
+The Brooks Adrenaline GTS 19 has an outsole that utilizes a blown rubber compound. The compound delivers reliable traction on various surfaces. It also offers protection against abrasion. The flex grooves enhance the shoes flexibility. 
+Pros:
+- - Comfortable in-shoe experience
+- Breathable and flexible upper
+- Excellent pronation support
+- Good stability
+- Well-cushioned
 
-Cons: - Some people reported a lack of durability.
+
+
+Cons:
+- - Some people reported a lack of durability.
+
 
 ###  [5. New Balance Men's 928 V3 Walking Shoe](https://www.amazon.com/dp/B01MXNYPSU/?tag=p-policy-20)
 
@@ -106,9 +152,20 @@ The removable PU sockliner has exceptional anti-microbial properties, which prom
 
 The outsole of NB 928 V3 features a durable Ndurance rubber compound thats resilient to hard pavements. The texture pattern on the rubber compound delivers reliable traction. The flex grooves improve the flexibility of the shoe. The rubber also doesnt leave scuff marks on surfaces.
 
-The upper features a mesh fabric that allows entry of air into the shoe, hence, promote a cool and dry in-shoe environment for a comfortable walking experience. Pros: - Available in different width options - Wide toe box - Comfortable - Excellent ankle support - Lightweight shoe - Soothes many foot pains
+The upper features a mesh fabric that allows entry of air into the shoe, hence, promote a cool and dry in-shoe environment for a comfortable walking experience. 
+Pros:
+- - Available in different width options
+- Wide toe box
+- Comfortable
+- Excellent ankle support
+- Lightweight shoe
+- Soothes many foot pains
 
-Cons: - Some people were disappointed with the narrow short tongue
+
+
+Cons:
+- - Some people were disappointed with the narrow short tongue
+
 
 ###  [6. K-Swiss Women's Express Tennis Shoe](https://www.amazon.com/dp/B07GC4R1F1/?tag=p-policy-20)
 
@@ -118,9 +175,22 @@ The midsole features a lightweight EVA form that guarantees excellent shock abso
 
 The outsole features Aosta rubber compound that delivers reliable grip allowing you to remain stable even on slippery courts or surfaces. The outsole also has a tread pattern thats non-marking. Thus, keeps surfaces scuff free.
 
-The shoe features a ventilated mesh that uses SeamFree tech the mesh offers protection and provides a secure lockdown to your feet. The Draggaurd Rubber reinforces the toe section for a comfortable forefoot experience. Pros: - Good stability - Excellent cushioning - Spacious interior - Accommodate orthotics - Comfortable - Lightweight - Breathable - Available in attractive color options
+The shoe features a ventilated mesh that uses SeamFree tech the mesh offers protection and provides a secure lockdown to your feet. The Draggaurd Rubber reinforces the toe section for a comfortable forefoot experience. 
+Pros:
+- - Good stability
+- Excellent cushioning
+- Spacious interior
+- Accommodate orthotics
+- Comfortable
+- Lightweight
+- Breathable
+- Available in attractive color options
 
-Cons: - Some people complain that the tongue has thick padding
+
+
+Cons:
+- - Some people complain that the tongue has thick padding
+
 
 ###  [7. Skechers Men's Superior Milford Slip-On Loafer](https://www.amazon.com/dp/B00NBM31N2/?tag=p-policy-20)
 
@@ -134,9 +204,20 @@ The rubbers outsole provides excellent shock absorption protecting the wearer fr
 
 The shoe features a slip-on sporty design that delivers a casual and comfortable look. The relaxed fit design delivers a comfortable and roomy fit for problem feet.
 
-The insole has a memory form that provides excellent cushioning. The midsole is flexible and delivers excellent shock absorption. The moisture-wicking insole controls sweat for a dry and fresh interior environment. Pros: - Reliable traction - Durable - Cushioned - Wide toe box - Breathable - Excellent shock absorption
+The insole has a memory form that provides excellent cushioning. The midsole is flexible and delivers excellent shock absorption. The moisture-wicking insole controls sweat for a dry and fresh interior environment. 
+Pros:
+- - Reliable traction
+- Durable
+- Cushioned
+- Wide toe box
+- Breathable
+- Excellent shock absorption
 
-Cons: - Sizing is a bit confusing, you must be extra careful when choosing
+
+
+Cons:
+- - Sizing is a bit confusing, you must be extra careful when choosing
+
 
 ##  What to Look For In Best Walking Shoes for Flat Feet and Bunions
 
@@ -171,4 +252,5 @@ Consider midsole units that feature DNA technologies or EVA form. These reliable
 When choosing the best walking shoes for flat feet and bunions its crucial that you look for shoes with wide toe box, arch support, cushioning, and stability. These factors will help provide support to your flat feet while soothing the painful bunions.
 
 Luckily, all the reviewed shoes above have all these features, and choosing either of them will benefit your problematic feet.
+
 

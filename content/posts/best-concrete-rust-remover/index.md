@@ -31,7 +31,14 @@ Therefore, Iron OUT is suitable for regions that have water with high iron and h
 
 Iron OUT will also remove rust from surfaces such as showerheads, which would otherwise be easy to treat suspension or liquid rust remover suspension. Further, the formula is recommended for surfaces and areas like concrete driveway, fabric, tiles, metal tools, bathrooms, and the kitchen. When applied on different surfaces, Iron OUT will cling to the rust stain and removes it within a few minutes - this depends on the stain's toughness.
 
-However, the stain remover won't damage the concrete, metal, or fabric surfaces as it removes the stain. Pros: - Effective concrete rust remover plus its fast-acting - It's a spray-on and thus won't drip when applied on vertical surfaces. - Doesn't require scrubbing to work - a quality USA-made product Cons: - None
+However, the stain remover won't damage the concrete, metal, or fabric surfaces as it removes the stain. 
+Pros:
+- - Effective concrete rust remover plus its fast-acting
+- It's a spray-on and thus won't drip when applied on vertical surfaces.
+- Doesn't require scrubbing to work
+- a quality USA-made product Cons:
+- None
+
 
 ###  [2. American Hydro Systems 2662 Rid O' Rust Liquid Rust Stain Remover](https://www.amazon.com/dp/B008YHTXQS/?tag=p-policy-20)
 
@@ -43,9 +50,17 @@ And noted above; you won't need to scrub any of these surfaces after you've spra
 
 Luckily, the spray won't damage your plants when it's sprayed directly or accidentally touches their leaves or stem and hence will be safe to use around your indoor or outdoor plants. It'll easily clean your white-vinyl fence at the front of your house - particularly those affected by irrigating with well water.
 
-Pros: - Great for white vinyl-fence on your yard or driveway concrete - Suitable for concrete deck and metal patio-furniture - Works great for vinyl home-siding.
 
-- No major bushing needs, just simple rinsing - Restores concrete look sidewalk and driveway - Removes 99% of concrete rust stains Cons: - None
+Pros:
+- - Great for white vinyl-fence on your yard or driveway concrete
+- Suitable for concrete deck and metal patio-furniture
+- Works great for vinyl home-siding.
+
+
+- No major bushing needs, just simple rinsing - Restores concrete look sidewalk and driveway - Removes 99% of concrete rust stains 
+Cons:
+- - None
+
 
 ###  [3. RustAid GSX00101 Goof Concrete Rust and Stain Remover](https://www.amazon.com/dp/B00LMIZ91Y/?tag=p-policy-20)
 
@@ -55,7 +70,14 @@ RustAid GSX00101 is suitable when you've not used some water softeners that'll m
 
 The remover solution will dissolve the rust deposits on the concrete driveway - don't require brushing or scrub the outdoor surfaces. RustAid GSX00101 won't remove limescale from your devices and concrete driveway. But it'll work on the hard-to-remove rust stains caused by well or hard water. RustAid GSX00101 will be great for removing stain and concrete spots on outdoor items plus different foundations, driveways, and clean exterior walls.
 
-It'll be great against calcium and lime-scale deposits. Pros: - Excellently removes calcium and lime-scale stain deposits. - Will work great for rust removal on[outdoor surfaces](https://pestpolicy.com/best-pressure-washer-for-paint-removal/),including the concrete driveway. - An excellent model of operation where it'll oxidize the concrete driveway rust - Works within just 10 to 15 minutes after spraying Cons: - Iriritates the human skin
+It'll be great against calcium and lime-scale deposits. 
+Pros:
+- - Excellently removes calcium and lime-scale stain deposits.
+- Will work great for rust removal on[outdoor surfaces](https://pestpolicy.com/best-pressure-washer-for-paint-removal/),including the concrete driveway.
+- An excellent model of operation where it'll oxidize the concrete driveway rust
+- Works within just 10 to 15 minutes after spraying Cons:
+- Iriritates the human skin
+
 
 ###  [4. Evapo-Rust Water-Based Super Safe Rust Remover Biodegradable](https://www.amazon.com/dp/B00M0TLQ66/?tag=p-policy-20)
 
@@ -65,11 +87,19 @@ Luckily, you won't need any special PPEs such as masks, protective eyewear, and 
 
 You won't need any safety goggles and gloves since they won't irritate or corrode your skin.
 
-Evapo-Rust is eco-friendly since it requires no sanding or scrubbing - it produces no bad odors or fumes, and hence it'll be safe to use around your body and pets. Pros: - Quikc-acting concrete driveway rust remover - Non-toxic and thus won't irritate your skin - Has no VOCs, solvents, to acids - safe to use the rust remover around humans and pets Cons: - Realatively messy
+Evapo-Rust is eco-friendly since it requires no sanding or scrubbing - it produces no bad odors or fumes, and hence it'll be safe to use around your body and pets. 
+Pros:
+- - Quikc-acting concrete driveway rust remover
+- Non-toxic and thus won't irritate your skin
+- Has no VOCs, solvents, to acids
+- safe to use the rust remover around humans and pets Cons:
+- Realatively messy
+
 
 ##  Conclusion
 
 Finally, scrub the floor using some touch wire brush with a strong handle. Then, rinse off the rust - or repeat the cleaning process of the rust is not fully cleared from the driveway concrete. The rust remover will help restore the color of your concrete - rust causes discoloration.
 
 However, the rust remover might not be effective for removing individual stain spots caused by nails dropped on your driveway concrete - but a pressure washer might improve the results slightly.
+
 

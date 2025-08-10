@@ -26,11 +26,18 @@ This tiller is chain driven and has an overrunning clutch that disengages the dr
 
 It also has a category 1 to 3 point hitch as well as a 14-inch blade swing.
 
-With an adjustable tilling depth, you will find multiple uses for this tiller. If you are looking for something great, well-built, then this is perfect for you. The lack of instructions though means that, if you are new, you will need help to set it up. Nut it is pretty easy to put together. It is one that will satisfy you much. Pros: - It comes with a two-year warranty, as well as having an excellent shipping time.
+With an adjustable tilling depth, you will find multiple uses for this tiller. If you are looking for something great, well-built, then this is perfect for you. The lack of instructions though means that, if you are new, you will need help to set it up. Nut it is pretty easy to put together. It is one that will satisfy you much. 
+Pros:
+- - It comes with a two-year warranty, as well as having an excellent shipping time.
+
 
 - Is is also easy to assemble, with a perfect length for the driver clutch.
 
-Cons: - Spare are hard to find if anything goes wrong. You will need to ship the from the manufacturer in China. - It does not come with an instruction manual, which is a pain when you are new to the product.
+
+Cons:
+- - Spare are hard to find if anything goes wrong. You will need to ship the from the manufacturer in China.
+- It does not come with an instruction manual, which is a pain when you are new to the product.
+
 
 Related: Best Tiller for Hard Soil
 
@@ -42,9 +49,17 @@ Both tillers have a category one hitch, as well as PTO to drive gear drive. The 
 
 With a depth that is much more than any that we have covered, this is the tiller that you can find multiple uses for and still not break the bank to acquire. Its free shipping is a plus. With several options in the line up (there is also a 72-inch working width one), you have different choices in this tiller, and that could be an excellent problem to have when you are a farmer - [tillers for new ground](https://pestpolicy.com/best-tiller-for-breaking-new-ground/).
 
-Pros: - The 48 inch is cheaper than most tillers on this list, making it a steal. - The price is excellent and they ship it to you for free.
 
-Cons: - Based on observation, the gears may be a bit too thin and could wear easily. - It might also be a little heavier than the others, thus costlier.
+Pros:
+- - The 48 inch is cheaper than most tillers on this list, making it a steal.
+- The price is excellent and they ship it to you for free.
+
+
+
+Cons:
+- - Based on observation, the gears may be a bit too thin and could wear easily.
+- It might also be a little heavier than the others, thus costlier.
+
 
 Related: Best Trimmer Line
 
@@ -56,17 +71,32 @@ It is a chain-driven tiller and has durable and tight tensioners that make it pe
 
 Due to the build of the tines, you can use it on rocky and hard earth without putting them under too much strain, which is perfect tillage for subcompact tractors.
 
-Pros: - Its small size means it is a perfect fit for subcompact tractors. - The steel of the tines is self-sharpening, thus, it's durable as well as efficient for longer. - It is also water and dust resistant, thus making it more durable too.
 
-Cons: - Its small size makes if likely that you wont efficiently till the land.
+Pros:
+- - Its small size means it is a perfect fit for subcompact tractors.
+- The steel of the tines is self-sharpening, thus, it's durable as well as efficient for longer.
+- It is also water and dust resistant, thus making it more durable too.
+
+
+
+Cons:
+- - Its small size makes if likely that you wont efficiently till the land.
+
 
 ###  [**4. Tarter 4-inch Rotary Tiller Sub-compact**](https://www.amazon.com/dp/B01LBFM1AE/?tag=p-policy-20)
 
 This tiller is a very compact tiller that is perfect for mixing up soil, as it has tines that are wider than average and will break up tough ground.
 
-It works with Cat 0 - 1 hitch. You will use it on tractors from 18 - 30 PTO HP. It has adjustable gears that can help you dig deep, up to 7 inches. Pros: - Its wide tines make it perfect for mixing soils better, in addition to rocky parts of the earth. - It is thick and sturdy, and the tines are self-sharpening, which means you have the tiller lasting you for long, reducing maintenance cost.
+It works with Cat 0 - 1 hitch. You will use it on tractors from 18 - 30 PTO HP. It has adjustable gears that can help you dig deep, up to 7 inches. 
+Pros:
+- - Its wide tines make it perfect for mixing soils better, in addition to rocky parts of the earth.
+- It is thick and sturdy, and the tines are self-sharpening, which means you have the tiller lasting you for long, reducing maintenance cost.
 
-Cons: - Its relatively small size makes it hard to use it on a more significant land portion
+
+
+Cons:
+- - Its relatively small size makes it hard to use it on a more significant land portion
+
 
 ###  [**5. King Kutter Rotary Tiller**](https://www.amazon.com/dp/B000N4YFO0/?tag=p-policy-20)
 
@@ -76,11 +106,17 @@ The King Kutter tiller has a heavy-duty cast iron gearbox and comes already grea
 
 The King Kutters sturdy build is a hit among customers and will work for you too. You will most definitely find great satisfaction in this tiller. Because of its high cost, this is one that will work best for you if you have more extensive land and are a professional farmer. King Kutter is the top tiller of the year 2025 without a doubt, and above, we see why.
 
-Pros: - It is heavy, which makes it better for deep cultivation, but you can adjust the skids to make it light.
+
+Pros:
+- - It is heavy, which makes it better for deep cultivation, but you can adjust the skids to make it light.
+
 
 - With an extensive working depth, it maximizes efficiency, allowing you to do more tilling. - Its heavy-duty design means that it is a machine that will last you long. - Its thick tines say that you will work for long with it without losing efficiency. - You will also break hard earth and move rocks with the tines. In essence, King Kutter is an all in one tiller fit for your subcompact tractor.
 
-Cons: - Because of its weight, shipping this tiller ill break your bank. Considering it is not cheap either, this will set you back quite a fortune.
+
+Cons:
+- - Because of its weight, shipping this tiller ill break your bank. Considering it is not cheap either, this will set you back quite a fortune.
+
 
 Related: [Best Tiller For Raised Beds](https://pestpolicy.com/best-tiller-for-raised-beds/)
 
@@ -90,9 +126,16 @@ This YJC 52 inch is another chain drive rotary tiller built to be a heavy-duty m
 
 With a 52 inch working width and an overall width of 57 inches, this tiller's size means that you will be able to cover large parts of the land. Though it is heavy-duty, it has a maximum depth of 6 and a half inches, thus, it is perfect for shallow tillage. This tiller comes with 15 - 35 horsepower, as well as reinforced frame and a category 0 and 1 hitch. It weighs 416 pounds, thus, meaning that you will use it to clear grassy areas.
 
-Its a great tiller to have in your options, and with excellent customer service, you will get help when things go wrong. Pros: - The reinforced frame makes it perfect for tillage inland with rocks and hard soils, as it will withstand the missiles thrown at it during the tiling exercise. - Free shipping. There are many great things in many other tillers, but free shipping sets the YJC052 tiller apart.
+Its a great tiller to have in your options, and with excellent customer service, you will get help when things go wrong. 
+Pros:
+- - The reinforced frame makes it perfect for tillage inland with rocks and hard soils, as it will withstand the missiles thrown at it during the tiling exercise.
+- Free shipping. There are many great things in many other tillers, but free shipping sets the YJC052 tiller apart.
 
-Cons: - Some farmers might find issues with the C shaped tines because the depth of penetration is low.
+
+
+Cons:
+- - Some farmers might find issues with the C shaped tines because the depth of penetration is low.
+
 
 ###  [**7. RhinoAG SRT 48 Rear Tine Rotary Tiller - Editor's Top Tiller**](https://www.amazon.com/dp/B01MSOXMDY/?tag=p-policy-20)
 
@@ -102,9 +145,16 @@ Because of its forward drive, this tiller is perfect for weeding and preparing t
 
 It has a tilling width of 48 inches, an overall diameter of 53 inches and a depth of 7 inches.
 
-It also has a rotation speed of 370 RPM (out 540 RPM). Pros: - It's compact design, and simple build makes it easy to maintain and cheaper. - It is heavy, thus, works better in tough and compact soil.
+It also has a rotation speed of 370 RPM (out 540 RPM). 
+Pros:
+- - It's compact design, and simple build makes it easy to maintain and cheaper.
+- It is heavy, thus, works better in tough and compact soil.
 
-Cons: - Not useful in clearing massive bushes.
+
+
+Cons:
+- - Not useful in clearing massive bushes.
+
 
 Related: Front Tine vs. Rear Tine Tillers
 
@@ -129,4 +179,5 @@ Some tillers might come with adjustable gears that would help you take the press
 ##  **Conclusion**
 
 With several new models of tillers coming out this year, finding the right one for your subcompact tractor is essential in helping you farm better, without incurring too much cost. But as we see, the tillers all have varying strengths and work better in some areas. On how to maximize each will depend on your most pressing needs.
+
 

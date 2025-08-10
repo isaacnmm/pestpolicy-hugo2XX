@@ -28,13 +28,20 @@ It'll easily handle tough stains, including tannin, grease, nicotine, smoke, rus
 
 The prime creates an excellent seal on different porous surfaces allowing better [paint](https://pestpolicy.com/best-chalk-paint-for-kitchen-cabinets/)application. Further, you may top-coat the primer using oil-base or latest paint. It offers excellent coverage at nearly 300-400 sqFt. For each gallon. Apply the primer on well-prepared surfaces devoid of peeling paint, rust, mold (check mold preventing stains), chalk, grease, and dust.
 
-KILZ Restoration Primer will also effectively cover any of your past works of art. They'll block the various graffiti, felt pen, crayon, and permanent marker - an alternative for spray paints for graffiti. Pros: - The primer may be applied usingsprayers, rollers, and brushes. - Further, it'll dry quickly in just 30 minutes to touch, and it allows recoating within 1 hour.
+KILZ Restoration Primer will also effectively cover any of your past works of art. They'll block the various graffiti, felt pen, crayon, and permanent marker - an alternative for spray paints for graffiti. 
+Pros:
+- - The primer may be applied usingsprayers, rollers, and brushes.
+- Further, it'll dry quickly in just 30 minutes to touch, and it allows recoating within 1 hour.
+
 
 - The bonding primer tackles the different water stains, including severe and heavy ones.
 
 - Ensure to dry the surface thoroughly before applying the primer and avoid using it on active leaks.
 
-Cons: - None found
+
+Cons:
+- - None found
+
 
 
 ###  [2. INSL-X PS800009A-01 Bonding Prime Lock-Plus Alkyd Primer](https://www.amazon.com/dp/B07KXP4C4M/?tag=p-policy-20)
@@ -43,13 +50,19 @@ INSL-X PS800009A-01 is a stain blocker, sealer, and bonding primer that I would 
 
 The primer is suitable for wood, drywall, and plaster that had been varnished and painted. But you may also top-coat the surfaces using latex paint ( with these sprayers) or oil paint. The primer gives a great enamel holdout with excellent adhesion and doesn't raise the surface's wood grain. It's suitable for sealing charred or burned wood. It allows you to lock different stains from grease and food. Consider too this acrylic aerosol.
 
-It offers excellent adhesion on surfaces such as tiles, PVC, marlite, tile, bricks, Formica, and glossy paint. The Alkyd-based primer is multi-purpose and fast-drying too (within 1 hour) that'll both prime and seal different stains and substrates. It'll fill the colors from smoke and water damage. Pros: - This bonding primer effectively renovates different old oak vanities.
+It offers excellent adhesion on surfaces such as tiles, PVC, marlite, tile, bricks, Formica, and glossy paint. The Alkyd-based primer is multi-purpose and fast-drying too (within 1 hour) that'll both prime and seal different stains and substrates. It'll fill the colors from smoke and water damage. 
+Pros:
+- - This bonding primer effectively renovates different old oak vanities.
+
 
 - The INSL-X PS800009A-01 primer offers excellent coverage (about300 - 350 sq. ft. for every gallon).
 
 - Take caution not to apply the primer at under7. 2 C (45 F).
 
-Cons: - No spray gun recommended
+
+Cons:
+- - No spray gun recommended
+
 
 ###  [3. Zinsser B-I-N Bonding Shellac-Base Primer](https://www.amazon.com/dp/B000C02C68/?tag=p-policy-20)
 
@@ -61,9 +74,17 @@ While you're spraying the door horizontally, this primer creates a grainy oak wi
 
 I must note that this primer is among my top-recommended products in its class for painting varnished or stained trim and wood, including doors, spindles, stair risers, baseboards, and casings.
 
-Pros: - Quick-drying bonding primer - Cleaning is your sprayer after priming is comfortable with just denatured alcohol or ammonia. - Finally, the bonding primer is budget-friendly and hence will work great (price-wise) for your kitchen cabinets.
 
-Cons: - None
+Pros:
+- - Quick-drying bonding primer
+- Cleaning is your sprayer after priming is comfortable with just denatured alcohol or ammonia.
+- Finally, the bonding primer is budget-friendly and hence will work great (price-wise) for your kitchen cabinets.
+
+
+
+Cons:
+- - None
+
 
 ###  [4. Zinsser 03504 Oil-Primer Sealer/ Cover Stain Interior](https://www.amazon.com/dp/B000BZX6B4/?tag=p-policy-20)
 
@@ -75,9 +96,16 @@ This Zinsser 03504 is also an o il-based sealer, primer, or stain killer that'll
 
 The bonding primer will generate a suitable enamel undercoating while also drying quickly for the interior surfaces.
 
-I love this one for priming, repainting, remodeling, and new constructions. Pros: - The product is excellent in hiding various formal blocks caused bynicotine stains and smoke while also sealing water. - Further, it'll sand easily and stick evenly onto the exterior and interior surfaces.
+I love this one for priming, repainting, remodeling, and new constructions. 
+Pros:
+- - The product is excellent in hiding various formal blocks caused bynicotine stains and smoke while also sealing water.
+- Further, it'll sand easily and stick evenly onto the exterior and interior surfaces.
 
-Cons: - Slower drying co0maprd to shellac primer
+
+
+Cons:
+- - Slower drying co0maprd to shellac primer
+
 
 
 ##  Considerations in Best Bonding Primer for Kitchen Cabinets
@@ -100,4 +128,5 @@ Finally, sanding the wood will allow the wood to reveal.
 ##  Conclusion
 
 Tried the best bonding primer for kitchen cabinets? The primers will also be great for cupboards or other furniture created from knotty pine, cedar, mahogany, or cherry. These are the wood types that'll allow the paint to bleed through.
+
 

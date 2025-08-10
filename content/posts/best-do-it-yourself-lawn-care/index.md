@@ -27,19 +27,28 @@ The DIY lawn care market has seen significant innovation, with companies offerin
 
 1. **Sunday Lawn Care: ** * **Concept: ** Sunday offers personalized, natural-based lawn care plans tailored to your lawn's specific needs using satellite imagery, climate data, and optional soil test results. Products are typically liquid nutrient pouches that attach to a hose. * **Offerings: ** Custom fertilizer plans, natural weed control (e. g. , iron-based "Weed Warrior"), pest control (mosquito, tick, grub), and seed.
 
-* **Pros: ** Emphasis on natural ingredients (safer for kids/pets), highly customized plans, easy hose-end application, excellent educational resources, and a focus on long-term soil health. * **Cons: ** Natural weed control may be slower or less potent than synthetic alternatives for severe infestations; primarily liquid fertilizers which some users prefer granular.
+* **
+Pros:
+- ** Emphasis on natural ingredients (safer for kids/pets), highly customized plans, easy hose-end application, excellent educational resources, and a focus on long-term soil health. * **Cons: ** Natural weed control may be slower or less potent than synthetic alternatives for severe infestations; primarily liquid fertilizers which some users prefer granular.
+
 
 * **Ideal For: ** Eco-conscious homeowners, beginners looking for guided, simple application, and those prioritizing soil health over immediate, harsh chemical results.
 
 2. **Lawnbright: ** * **Concept: ** Similar to Sunday, Lawnbright provides customized, natural lawn care solutions based on soil test results and local conditions. They focus on delivering a comprehensive program for long-term lawn health. * **Offerings: ** Organic and natural fertilizers, pre-emergent weed prevention, pest control (mosquito, tick), and dedicated support.
 
-* **Pros: ** Strong focus on organic and natural ingredients, highly personalized plans based on soil tests, excellent customer support via text/phone, real-time alerts based on weather/soil conditions, and probiotic ingredients for microbial diversity. * **Cons: ** A newer company compared to Sunday, so less long-term public data; product options might be slightly fewer than Sunday.
+* **
+Pros:
+- ** Strong focus on organic and natural ingredients, highly personalized plans based on soil tests, excellent customer support via text/phone, real-time alerts based on weather/soil conditions, and probiotic ingredients for microbial diversity. * **Cons: ** A newer company compared to Sunday, so less long-term public data; product options might be slightly fewer than Sunday.
+
 
 * **Ideal For: ** Homeowners seeking a highly customized, natural approach with strong direct customer support and a focus on soil biology.
 
 3. **DoMyOwn Turf Box: ** * **Concept: ** Instead of creating their own products, DoMyOwn curates custom programs using professional-grade products from various top brands, specifically designed to address common lawn issues like weeds, diseases, and pests. * **Offerings: ** Customized programs focusing on specific problems (weed control, disease solutions, pest management), delivered with application timing.
 
-* **Pros: ** Access to professional-grade products not always available in retail stores, comprehensive solutions for specific problems, broad range of additional lawn & garden products available for purchase. * **Cons: ** Requires homeowners to know their grass type and sometimes diagnose issues; products might be more chemical-based than Sunday/Lawnbright; less emphasis on natural ingredients.
+* **
+Pros:
+- ** Access to professional-grade products not always available in retail stores, comprehensive solutions for specific problems, broad range of additional lawn & garden products available for purchase. * **Cons: ** Requires homeowners to know their grass type and sometimes diagnose issues; products might be more chemical-based than Sunday/Lawnbright; less emphasis on natural ingredients.
+
 
 * **Ideal For: ** Experienced DIYers comfortable with synthetic products, those battling specific, persistent lawn issues, and homeowners who want professional-grade efficacy delivered conveniently.
 
@@ -98,4 +107,5 @@ A strong preference was given to services emphasizing natural, low-impact ingred
 **Environmental Impact and Safety: ** Emphasis was placed on companies committed to sustainable practices, safe ingredients (for pets, kids, and local ecosystems), and responsible packaging. 7. **Customer Reviews and Reputation: ** We synthesized feedback from multiple sources to gauge overall customer satisfaction, common pain points, and product performance in real-world scenarios.
 
 By carefully weighing these factors, we aim to provide reliable recommendations for homeowners looking to take control of their lawn care with the support of modern DIY subscription services.
+
 

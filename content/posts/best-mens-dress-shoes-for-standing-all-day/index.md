@@ -32,9 +32,20 @@ This Slip-On Loafer features a removable EVA footbed that provides additional cu
 
 The inner lining is soft and breathable, hence helps to keep your feet dry. The shoes interior is also well-padded ensuring youve all-day comfort. The instep and the collar are also padded to provide extra cushioning to the ankles and prevent abrasive rubbing.
 
-Hush Puppies shoes have a durable Rubber sole that delivers reliable traction on various surfaces including wet, slippery, hard, and many other surfaces. Therefore, irrespective of your work environment, these shoes got you covered. Pros: - Features WeatherSMART waterproof material - Comfortable - Slip-On Loafer - Excellent cushioning - Can insert orthotics - Roomy
+Hush Puppies shoes have a durable Rubber sole that delivers reliable traction on various surfaces including wet, slippery, hard, and many other surfaces. Therefore, irrespective of your work environment, these shoes got you covered. 
+Pros:
+- - Features WeatherSMART waterproof material
+- Comfortable
+- Slip-On Loafer
+- Excellent cushioning
+- Can insert orthotics
+- Roomy
 
-Cons: - Not idle for people with slim feet
+
+
+Cons:
+- - Not idle for people with slim feet
+
 
 ###  [2. Ecco Men's Helsinki Slip-On](https://www.amazon.com/dp/B001OC5EJA/?tag=p-policy-20)
 
@@ -52,9 +63,20 @@ The interior of Ecco Men's Helsinki Slip-On features a soft textile lining that 
 
 The outsole is durable and well designed. It features a Direct Injection Polyurethane compound that provides you flexibility and a springy feel when you walk or stand the whole day. The outsole also offers reliable traction on various surfaces.
 
-Pros: - Durable outsole with reliable traction - Comfortable - Removable insoles - Roomy toe box ideal for[people with wide feet](https://pestpolicy.com/best-running-shoes-for-men-with-wide-feet/)- Durable leather upper - Simple slip-on shoe - Breathable interior lining
 
-Cons: - Some customers complained about the shoes poor workmanship
+Pros:
+- - Durable outsole with reliable traction
+- Comfortable
+- Removable insoles
+- Roomy toe box ideal for[people with wide feet](https://pestpolicy.com/best-running-shoes-for-men-with-wide-feet/)- Durable leather upper
+- Simple slip-on shoe
+- Breathable interior lining
+
+
+
+Cons:
+- - Some customers complained about the shoes poor workmanship
+
 
 ###  [3. Clarks Men's Tilden Cap Oxford Shoe](https://www.amazon.com/dp/B00SMJO9EO/?tag=p-policy-20)
 
@@ -68,9 +90,21 @@ The Clarks Tilden Cap has a flexible TPR outsole that ensures you have a reliabl
 
 The shoe is also Ultra-Lightweight. It has a padded collar and tongue that provide extra comfort and support. The synthetic sole ensures more durability while the heel pad provides needed heel support. The Stitched cap toe provides extra support to the upper while the lace-up design ensures you have a secure fit.
 
-Pros: - Durable TPR Outsole - Comfortable - Ultra-Lightweight - Well-cushioned - Excellent shock absorption properties - Lace-up design for a secure fit - Affordable
 
-Cons: - A customer reported that the OrthoLite insole deteriorates after a few months of use
+Pros:
+- - Durable TPR Outsole
+- Comfortable
+- Ultra-Lightweight
+- Well-cushioned
+- Excellent shock absorption properties
+- Lace-up design for a secure fit
+- Affordable
+
+
+
+Cons:
+- - A customer reported that the OrthoLite insole deteriorates after a few months of use
+
 
 ###  [4. Anthony Veer Men's Dress Shoe Clinton Cap-Toe Oxford](https://www.amazon.com/dp/B07GV5FWBR/?tag=p-policy-20)
 
@@ -84,9 +118,20 @@ If you want to leave a lasting impression or stand out among the rest, these are
 
 Its available in different sizes and color options including the extra-wide (EE). The shoes are Full Grain leather and are available in chocolate brown and black colors. The leather-lined insole material allows breathability while resisting moisture. The leather material also retains its original shape allowing a longer period of wear.
 
-The shoe features a craftable leather outsole that comes with a wooden stacked heel. The shoe also has five eyelets that feature an excellent waxed lacing system that ensures you have a secure fit for all-day standing. Pros: - Comfortable - Leather upper - Durable outsole - High-quality shoes for standing all-day - Available in different sizes - Water repellent
+The shoe features a craftable leather outsole that comes with a wooden stacked heel. The shoe also has five eyelets that feature an excellent waxed lacing system that ensures you have a secure fit for all-day standing. 
+Pros:
+- - Comfortable
+- Leather upper
+- Durable outsole
+- High-quality shoes for standing all-day
+- Available in different sizes
+- Water repellent
 
-Cons: - You might need to break-in on the shoes
+
+
+Cons:
+- - You might need to break-in on the shoes
+
 
 ###  [5. Rockport Men's Total Motion Dress Cap Toe Oxford](https://www.amazon.com/dp/B079JD5DLM/?tag=p-policy-20)
 
@@ -98,9 +143,21 @@ This Dress Cap Toe Oxford from Rockport has a removable EVA footbed that offers 
 
 The padded collar and tongue provide additional comfort. The TPU plates ensure maximum stability while the soft interior lining ensures excellent breathability for a comfortable in-shoe experience.
 
-The Dress Cap Toe Oxford features truTech that offers excellent shock attenuation. The adjustable lacing system ensures personalized comfort and fit. Pros: - Removable EVA footbed - Comfortable - Well-cushioned - Leather material - Excellent arch support - Reliable traction - Durable outsole
+The Dress Cap Toe Oxford features truTech that offers excellent shock attenuation. The adjustable lacing system ensures personalized comfort and fit. 
+Pros:
+- - Removable EVA footbed
+- Comfortable
+- Well-cushioned
+- Leather material
+- Excellent arch support
+- Reliable traction
+- Durable outsole
 
-Cons: - Pricey
+
+
+Cons:
+- - Pricey
+
 
 ###  [6. Florsheim Men's Medfield Cap Toe Oxford Dress Shoe](https://www.amazon.com/dp/B01MFF0PHJ/?tag=p-policy-20)
 
@@ -112,9 +169,19 @@ The upper features a durable leather material thats soft and lightweight, which 
 
 The removable footbed ensures extra underfoot cushioning while the heel cup provides needed heel stability.
 
-The outsole features a durable rubber compound that ensures foot flexibility and traction on various surfaces. The forefoot section has rubber flange cushioning that provides support as you walk or stand. Pros: - True to size - Comfortable - Durable leather - Breathable - Highly cushioned
+The outsole features a durable rubber compound that ensures foot flexibility and traction on various surfaces. The forefoot section has rubber flange cushioning that provides support as you walk or stand. 
+Pros:
+- - True to size
+- Comfortable
+- Durable leather
+- Breathable
+- Highly cushioned
 
-Cons: - Some People with narrow feet have complained that the shoes are too wide
+
+
+Cons:
+- - Some People with narrow feet have complained that the shoes are too wide
+
 
 ###  [7. Skechers Rilar Oxford](https://www.amazon.com/dp/B00I1JPU0C/?tag=p-policy-20)
 
@@ -128,9 +195,20 @@ The insole has excellent moisture-wicking properties that ensure feet remain dry
 
 Furthermore, the padded collar and tongue ensure additional comfort and support. The soft fabric lining facilitates breathability for a comfortable wear experience.
 
-The Skechers Rilar Oxford are comfortable work shoes that have a durable slip-resistant synthetic sole that allows you to step on different surfaces without worry as it offers reliable traction. Further, the midsole provides excellent shock absorption and extra foot support allowing all-day standing. Pros: - Leather upper - Cushioned - Comfortable - Amazing lace-up design - Excellent shock absorption - Idle for all-day standing
+The Skechers Rilar Oxford are comfortable work shoes that have a durable slip-resistant synthetic sole that allows you to step on different surfaces without worry as it offers reliable traction. Further, the midsole provides excellent shock absorption and extra foot support allowing all-day standing. 
+Pros:
+- - Leather upper
+- Cushioned
+- Comfortable
+- Amazing lace-up design
+- Excellent shock absorption
+- Idle for all-day standing
 
-Cons: - A customer complained that the shoes are a bit noisy
+
+
+Cons:
+- - A customer complained that the shoes are a bit noisy
+
 
 ##  Buyers Guide on Best Mens Dress Shoes for Standing All-Day
 
@@ -173,4 +251,5 @@ During your workday, you can take small breaks and relax, lift your legs from th
 ##  Conclusion
 
 I hope that this review on the best mens dress shoes for standing all day has been helpful. As weve said correct footwear is the first step towards attaining comfort during your workdays. Comfort means breathable shoes, roomy toe box, durable outsole with good traction, and cushioned midsole.
+
 

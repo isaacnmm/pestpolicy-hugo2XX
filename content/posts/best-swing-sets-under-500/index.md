@@ -28,9 +28,17 @@ This fun playset has a durable fort with an attractive canopy overhead. It also 
 
 The snack stand comes with an integrated bench where kids can relax as they enjoy their snacks. The playset meets ASTM safety standards. Thus your children are guaranteed safety while playing. Further, this product is made from high-quality material; hence it resists rot or decay.
 
-Pros: - Meets ASTM safety standards - Features many play activities - Made from durable cedar wood that is resistant to rot
 
-Cons: - Assembling Instructions are quite confusing
+Pros:
+- - Meets ASTM safety standards
+- Features many play activities
+- Made from durable cedar wood that is resistant to rot
+
+
+
+Cons:
+- - Assembling Instructions are quite confusing
+
 
 ###  [2. Flexible Flyer Play Park Swing Set w/ Slide, Swings - #2 Pick](https://www.amazon.com/dp/B003WJOAUM/?tag=p-policy-20)
 
@@ -44,9 +52,18 @@ If you have a large family or you regularly host your friends with their childre
 
 It would help if you did not worry about the safety of this metal swing set. It is made from a durable steel frame; hence it can withstand the test of time. The manufacturers have been careful enough to maintain high standards of safety.
 
-Pros: - Highly durable swing set - It has several play activities, hence can accommodate more kids. - The chains on the swings have been adequately covered for the safety of kids. - Adjustable chains
 
-Cons: - None
+Pros:
+- - Highly durable swing set
+- It has several play activities, hence can accommodate more kids.
+- The chains on the swings have been adequately covered for the safety of kids.
+- Adjustable chains
+
+
+
+Cons:
+- - None
+
 
 ###  **3. Sportspower Mountain View Metal Swing Set -Best for 3-8 Years Kids
 
@@ -64,9 +81,18 @@ Parents can rest easy knowing that this product meets all ASTM playground safety
 
 This Sportspower slide and Trampoline Set can fit perfectly in medium or large yards and can accommodate eight kids all playing simultaneously. Its weight capacity is 800 pounds total and 100 per child. The recommended age is 3 to 8 years. When assembled, it measures 179 x 96 x 74.
 
-Pros: - Meets all ASTM playground safety standards - Has a warranty of one year on product frame while accessories have a deposit of 90 days - Its Components are pre-drilled, thus ease of assembly. - Several play activities, can accommodate up to 8 kids
 
-Cons: - Anchoring set is not included
+Pros:
+- - Meets all ASTM playground safety standards
+- Has a warranty of one year on product frame while accessories have a deposit of 90 days
+- Its Components are pre-drilled, thus ease of assembly.
+- Several play activities, can accommodate up to 8 kids
+
+
+
+Cons:
+- - Anchoring set is not included
+
 
 ###  [4. Jump Power UFO Swing Set for 1 or 2 Children, Kids, and Toddlers](https://www.amazon.com/dp/B07PWTK9BV/?tag=p-policy-20)
 
@@ -80,9 +106,18 @@ To ensure durability, the swing set is constructed with a Heavy Duty steel mater
 
 Further, the set contains an adjustable chain, which allows kids of all heights to enjoy. The dimensions of the set are 84 x 69 x 73. The recommended manufacturers age is 3 to 8 and maximum weight capacity is 110 lbs.
 
-Pros: - Highly durable product - Comes with a one year warranty - Has adjustable chains, thus can accommodate the height of everyone
 
-Cons: - Limited fun activity -has only one activity that kids can enjoy. - Adult supervision is required
+Pros:
+- - Highly durable product
+- Comes with a one year warranty
+- Has adjustable chains, thus can accommodate the height of everyone
+
+
+
+Cons:
+- - Limited fun activity -has only one activity that kids can enjoy.
+- Adult supervision is required
+
 
 ###  [5. Sportspower Rosemead Metal Swing and Slide Set](https://www.amazon.com/dp/B01M67VQ4Q/?tag=p-policy-20)
 
@@ -90,9 +125,17 @@ Introducing another swing set that is under $500, but still keeps kids entertain
 
 Go ahead and surprise your kids with this fun and fantastic swing set from Sportspower! !
 
-Pros: - Offers many play activities. Thus more kids get to have fun at the same time. - Easy to assemble - Durable and comes in attractive colors
 
-Cons: - The swings are too low; kids with higher heights might be disadvantaged
+Pros:
+- - Offers many play activities. Thus more kids get to have fun at the same time.
+- Easy to assemble
+- Durable and comes in attractive colors
+
+
+
+Cons:
+- - The swings are too low; kids with higher heights might be disadvantaged
+
 
 ###  [6. Metal A-Frame Two Seat Swing Set - Best Age 3-8](https://www.amazon.com/dp/B00X5ZKC78/?tag=p-policy-20)
 
@@ -102,9 +145,19 @@ Its made of powder-coated steel that helps to protect it against rusting. It als
 
 This swing set has been carefully constructed to avoid warping, splinters, and rough edges. The Recommended age is 3-8 years, and the kids should not weigh more than 100 lbs.
 
-Pros: - Safe and durable - Meets all playground safety standards - No need for cement for anchoring - Easy to assemble - Comes with a warranty of 5 years
 
-Cons: - Limited play activities, only has two swing seats
+Pros:
+- - Safe and durable
+- Meets all playground safety standards
+- No need for cement for anchoring
+- Easy to assemble
+- Comes with a warranty of 5 years
+
+
+
+Cons:
+- - Limited play activities, only has two swing seats
+
 
 ###  [7. Swing-N-Slide Orbiter Complete Wooden Swing Set](https://www.amazon.com/dp/B00V100VJ8/?tag=p-policy-20)
 
@@ -112,9 +165,18 @@ If you want a simple, yet extremely fun swing set, then the Swing-N-Slide Orbite
 
 The manufacturers had the safety of kids in mind while making this product. All wooden guard posts are rounded carefully and are maintenance-free. They also come with a warranty of 5 years.
 
-For ease of installation, the set comes with A-frame brackets, all required hardware, and fully illustrated instructions. Parents can relax knowing that the set meets all playground safety standards as set by ASTM **. ** Pros: - Fast and easy to install - Very durable compared to other traditional sets made of metal - Meets ASTM safety standards - 5 years warranty with Woodguard posts that are Maintenance free
+For ease of installation, the set comes with A-frame brackets, all required hardware, and fully illustrated instructions. Parents can relax knowing that the set meets all playground safety standards as set by ASTM **. ** 
+Pros:
+- - Fast and easy to install
+- Very durable compared to other traditional sets made of metal
+- Meets ASTM safety standards
+- 5 years warranty with Woodguard posts that are Maintenance free
 
-Cons: - Limited play activity
+
+
+Cons:
+- - Limited play activity
+
 
 ###  [8. Big Backyard Andorra Swing Set Playset  Best Age 3-12 Years](https://www.amazon.com/dp/B004QE810W/?tag=p-policy-20)
 
@@ -126,9 +188,18 @@ To ensure hours of fun and excitement for your kids, the playset contains a rail
 
 This playset can accommodate up to 7 kids with a weight limit of 110lb. Per kid. The recommended age is 3-12 years.
 
-Pros: - Ideal for both small and big backyards - It has several play activities, hence can accommodate seven kids. - Made from 100% premium cedar - Easy to assemble
 
-Cons: - Some customers complained of confusing instructions
+Pros:
+- - Ideal for both small and big backyards
+- It has several play activities, hence can accommodate seven kids.
+- Made from 100% premium cedar
+- Easy to assemble
+
+
+
+Cons:
+- - Some customers complained of confusing instructions
+
 
 ###  [9. Kids Outdoor Playground (Ironkids Playground)](https://www.amazon.com/dp/B00V6I7JEK/?tag=p-policy-20)
 
@@ -144,9 +215,19 @@ The iron kids' playset is great for fitness. It helps kids eliminate excess weig
 
 The set also features a fitness slide, a ladder, and a sunshade that comes with UV sun protection that allows kids to play even under then scorching sun. The dimensions of the set once assembled is 13. 5 x 6. 5 x 6. 4.
 
-Pros: - Offers several play activities - Ideal for fitness and exercise activities - All necessary tools and parts are provided - Easy to assemble - Comes with 180 days warranty
 
-Cons: - Some customers complained of confusing instructions
+Pros:
+- - Offers several play activities
+- Ideal for fitness and exercise activities
+- All necessary tools and parts are provided
+- Easy to assemble
+- Comes with 180 days warranty
+
+
+
+Cons:
+- - Some customers complained of confusing instructions
+
 
 ###  [10. Flexible Flyer "World Of Fun" Swing Set](https://www.amazon.com/dp/B00ID8VU1Y/?tag=p-policy-20)
 
@@ -158,11 +239,21 @@ This set is beautiful as each part is painted with a different color to appeal t
 
 The manufacturer recommends an age range of 2 to 10 years and a weight capacity of 105 pounds per child. The total weight limit is 1050 and comes with a 180-day warranty.
 
-Pros: - Bright, attractive colors appeal to the kids. - Many play activities can accommodate ten kids, maintain provided weight restrictions. - Highly durable - Comes with a warranty of 180 days -
 
-Cons: - Tall kids might not enjoy the slide, its too short
+Pros:
+- - Bright, attractive colors appeal to the kids.
+- Many play activities can accommodate ten kids, maintain provided weight restrictions.
+- Highly durable
+- Comes with a warranty of 180 days -
+
+
+
+Cons:
+- - Tall kids might not enjoy the slide, its too short
+
 
 ##  Conclusion
 
 The chains are adequately covered to safeguard against any harm. Further, the swing chains can be adjusted to fit the height of your kids. The 6-leg design guarantees the strength and durability of the set.
+
 

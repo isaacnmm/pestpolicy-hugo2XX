@@ -32,9 +32,20 @@ The Class-A JFET microphone claims to deliver a continuous deep harmonic audio w
 
 Indeed, this mic has a pressure gradient transducer and a reliable output impedance of 50 ohms.
 
-Importantly, the USB audio interface integrates nicely with XLR connection. Pros: - Large-diaphragm cardioid and impressive design - Flexible mount and 100Hz low cut filters - Large frequency response range (20Hz 20kHz) - Deep harmonic audio and high pass response filters - Self-hardened plastic casing and Class-A JFET mic - Pressure gradient transducer and reliable output impedance
+Importantly, the USB audio interface integrates nicely with XLR connection. 
+Pros:
+- - Large-diaphragm cardioid and impressive design
+- Flexible mount and 100Hz low cut filters
+- Large frequency response range (20Hz 20kHz)
+- Deep harmonic audio and high pass response filters
+- Self-hardened plastic casing and Class-A JFET mic
+- Pressure gradient transducer and reliable output impedance
 
-Cons: - Slightly expensive as compared to others
+
+
+Cons:
+- - Slightly expensive as compared to others
+
 
 
 ###  [2. Samson G-Track Pro Professional USB Condenser Microphone - #2 Pick](https://www.amazon.com/dp/B075KL6ZLC/?tag=p-policy-20)
@@ -47,9 +58,24 @@ Further, the dim-lit LED signal indictors are nicely positioned for more natural
 
 Notably: Samson is budget friendly and cheaper to maintain.
 
-Pros: - High quality condenser capsules and classic desktop shock mount - Zero latency headphone and direct monitor switch - for on/off - 3 selectable pick up sound patterns- cardioid, bidirectional & omnidirectional - Wide range mic volume and LED signal indictors - High definition audio resolution and simple push mute button - Heavy gauge mesh grill and die-cast zinc construction - Budget friendly and low maintenance cost - High quality audio capture and simple to set-up
 
-Cons: - May not pick far sound excellently - No directional sound cancelling mechanism
+Pros:
+- - High quality condenser capsules and classic desktop shock mount
+- Zero latency headphone and direct monitor switch
+- for on/off
+- 3 selectable pick up sound patterns- cardioid, bidirectional & omnidirectional
+- Wide range mic volume and LED signal indictors
+- High definition audio resolution and simple push mute button
+- Heavy gauge mesh grill and die-cast zinc construction
+- Budget friendly and low maintenance cost
+- High quality audio capture and simple to set-up
+
+
+
+Cons:
+- - May not pick far sound excellently
+- No directional sound cancelling mechanism
+
 
 
 ###  [3. Mojave Audio Condenser Professional Microphone - #3 Pick](https://www.amazon.com/dp/B0022NI10E/?tag=p-policy-20)
@@ -62,9 +88,23 @@ Moreover, Mojave features 3-micron hand-selectable capsules, which focus the sig
 
 The high-grade mesh structure is perfectly sized to maximize sound collection while the professional-grade shock mount excellently supports the mic in its optional orientation while streaming.
 
-Pros: - High grade mesh structure and simple to set up - Reliable internal switchable voltage power - Top quality Jensen audio transformer and ultra-clean signals - Hand-selectable 3-micron capsules and professional grade shock mount - Military grade JAN 5840 NOS vacuum tube and classic overall design - Balanced output transformer and multiple pairing options - Sturdy casing (scratch resistant & waterproof)
 
-Cons: - Slightly expensive - No central suspension - Limited mic orientations
+Pros:
+- - High grade mesh structure and simple to set up
+- Reliable internal switchable voltage power
+- Top quality Jensen audio transformer and ultra-clean signals
+- Hand-selectable 3-micron capsules and professional grade shock mount
+- Military grade JAN 5840 NOS vacuum tube and classic overall design
+- Balanced output transformer and multiple pairing options
+- Sturdy casing (scratch resistant & waterproof)
+
+
+
+Cons:
+- - Slightly expensive
+- No central suspension
+- Limited mic orientations
+
 
 
 ###  [4. Electro-Voice RE320 Vocal and Instrument Microphone](https://www.amazon.com/dp/B06XRK61NH/?tag=p-policy-20)
@@ -79,9 +119,23 @@ Moreover, Electro-Voice comes with an Auray BAI-2X and an integrated XLR cable t
 
 Indeed, this mic features cardioid polar pattern and simple kick drum switch setting for best vocal and instrumental pick-up orientation it can also be used as a [microphone for recording vocals](https://pestpolicy.com/best-microphone-for-recording-vocals/).Notably, Electro-Voice is budget friendly and comes with free universal interchangeable combo mount best for live broadcast & a classic BC10 microphone suspension.
 
-Pros: - Classic BC10 microphone suspension - Auray BAI-2X and integrated XLR cable - Dedicated variable D tonal response - Neodymium dynamic element and simple set up - Flexible shock mount stand and budget friendly - Dynamic range frequency response pattern - Proximity effect tuner and cardioid polar pattern - Simple kick drum switch setting
 
-Cons: - Limited rotary planes - Sound patterns could be more
+Pros:
+- - Classic BC10 microphone suspension
+- Auray BAI-2X and integrated XLR cable
+- Dedicated variable D tonal response
+- Neodymium dynamic element and simple set up
+- Flexible shock mount stand and budget friendly
+- Dynamic range frequency response pattern
+- Proximity effect tuner and cardioid polar pattern
+- Simple kick drum switch setting
+
+
+
+Cons:
+- - Limited rotary planes
+- Sound patterns could be more
+
 
 
 ###  [5. Rode NTK Premium Tube Cardioid Condenser Microphone](https://www.amazon.com/dp/B0002DUQOU/?tag=p-policy-20)
@@ -92,9 +146,22 @@ The mic is constructed using a double layer, self-hardened casing that is both w
 
 Moreover, this mic features a Class A valve circuitry, which is best for vocals, guitar amps, acoustic instruments, pianos, or drum overheads live recordings. Further, the high strength heat-treated steel mesh is specially designed with finite spacing to allow maximum sound pic-up while its internal capsule shock mounting supports a wide dynamic range without failure. Importantly, Rode comes in various designs and colors for optional selection.
 
-Pros: - High level of RF rejection and dedicated power supply - Resilient gold plate diaphragm and Class A valve circuitry - Waterproof and scratch resistant casing - Hand-selected twin-triode 6922 valve - Top quality audiophile grade components - Internal capsule shock mounting and budget friendly - Multiple designs and beautiful colors
 
-Cons: - No tripod stand - Lacks onboard signal volume
+Pros:
+- - High level of RF rejection and dedicated power supply
+- Resilient gold plate diaphragm and Class A valve circuitry
+- Waterproof and scratch resistant casing
+- Hand-selected twin-triode 6922 valve
+- Top quality audiophile grade components
+- Internal capsule shock mounting and budget friendly
+- Multiple designs and beautiful colors
+
+
+
+Cons:
+- - No tripod stand
+- Lacks onboard signal volume
+
 
 
 ###  [6. Blue 1967 Yeti Pro USB Condenser Microphone](https://www.amazon.com/dp/B004L9KLT6/?tag=p-policy-20)
@@ -109,9 +176,24 @@ The headphone amplifiers comes with simple tune volume, which regulates the stre
 
 Indeed, youll enjoy wide range frequency response (15Hz-22kHz) and multiple pairing while using Yeti without sacrificing bass resonance - the mic comes with a dedicated proprietary capsule design that enhance signal articulation during live streaming.
 
-Pros: - Classic push mute button and simple tune volume - Lightweight and highly portable - Wide range frequency response (15Hz-22kHz) - 4 polar pattern settings - omnidirectional, stereo, bidirectional & cardioid - Cutting-edge A-D converter chip (inbuilt) - Independent analog circuit path and multiple pairing - 3 custom condenser capsules and threaded mount stand - Budget friendly and cheaper to maintain
 
-Cons: - No angular sound cancellation - Only two play rotation option
+Pros:
+- - Classic push mute button and simple tune volume
+- Lightweight and highly portable
+- Wide range frequency response (15Hz-22kHz)
+- 4 polar pattern settings
+- omnidirectional, stereo, bidirectional & cardioid
+- Cutting-edge A-D converter chip (inbuilt)
+- Independent analog circuit path and multiple pairing
+- 3 custom condenser capsules and threaded mount stand
+- Budget friendly and cheaper to maintain
+
+
+
+Cons:
+- - No angular sound cancellation
+- Only two play rotation option
+
 
 
 ##  Conclusion
@@ -119,4 +201,5 @@ Cons: - No angular sound cancellation - Only two play rotation option
 The best Xlr mic for streaming should integrate features such as internal shock controller, a noise-canceling device like Noise Cancelling Headphones for Babies, wide-range frequency response, signal concentrator as well as simple action mute option where necessary. Moreover, you should also consider the design and flexibility associated with the mic of your choice without sacrificing signal pick-up and distant coverage.
 
 Importantly, go for the mic that is within your financial budget and cheaper to maintain.
+
 

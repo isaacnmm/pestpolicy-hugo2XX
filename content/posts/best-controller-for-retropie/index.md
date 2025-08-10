@@ -30,9 +30,17 @@ Therefore, the share button will allow you to share your impressive flashes thro
 
 Despite being too pricey and heavy for playing 2D games, the controller can play a range of games such as PlayStation One and NES. Read Also: OS for Raspberry Pi 3 It has trigger buttons and analog sticks that will give you fantastic control in our gaming. DualShock 4 has highly responsive buttons, and the pads have a spongy click feeling.
 
-Interestingly, the controller is rechargeable, and thus you'll plug the device and charge hence does not require batteries, and you can use it while charging. Pros: - The controller is rechargeable, - Feels comfortable in retro pie gaming and older games - Great for both 2D and 3D retropie games.
+Interestingly, the controller is rechargeable, and thus you'll plug the device and charge hence does not require batteries, and you can use it while charging. 
+Pros:
+- - The controller is rechargeable,
+- Feels comfortable in retro pie gaming and older games
+- Great for both 2D and 3D retropie games.
 
-- Plug and play on[Mac](https://github.com/OpenEmu/OpenEmu/wiki/User-guide:-DualShock-Controller-Pairing)and[RaspberryPi](https://github.com/retropie/retropie-setup/wiki/Setting-up-a-PS4-controller) Cons: - Requires the[DS4 software](http://ds4windows.com/)forPC-controller connection?
+
+- Plug and play on[Mac](https://github.com/OpenEmu/OpenEmu/wiki/User-guide:-DualShock-Controller-Pairing)and[RaspberryPi](https://github.com/retropie/retropie-setup/wiki/Setting-up-a-PS4-controller) 
+Cons:
+- - Requires the[DS4 software](http://ds4windows.com/)forPC-controller connection?
+
 
 ###  [2. Nintendo Wii U Pro Controller - My Top Pick Controller - #2 Pick](https://www.amazon.com/dp/B00MUY0OFU/?tag=p-policy-20)
 
@@ -50,7 +58,15 @@ The Buffalo buffalo Classic controller is great for 2D GAMES in consoles like SN
 
 The controller has more resilient buttons, which will increase their durability. Further, the controller has an excellent "click" sound during every movement. The controller is easy to use as you'll require to plug and play. Read Also: Laptop Tablet Combo. However, if you need a wireless controller for your Retropie gaming, you should try the [8BitDo](http://www.8bitdo.com/)gamepads that are Bluetooth enabled.
 
-Pros: - Round and even edges just like in the SNES gamepad - Highly responsive - Cheaply priced - Great gamepad build - Highly compatible Retropie and Android gadgets Cons: - Unsuitable for classic games?
+
+Pros:
+- - Round and even edges just like in the SNES gamepad
+- Highly responsive
+- Cheaply priced
+- Great gamepad build
+- Highly compatible Retropie and Android gadgets Cons:
+- Unsuitable for classic games?
+
 
 ###  [4. 8BitDo NES30 Pro Bluetooth Gamepad](https://www.amazon.com/dp/B07B3RWW1F/?tag=p-policy-20)
 
@@ -110,4 +126,5 @@ However, note that the RetroLink controller has only one analog stick and thus w
 ##  Conclusion
 
 From all the tests we conducted, Nintendo Wii U Pro Controller on Amazon is our Best Controller for Retropie. The devices' compatibility and quality are excellent. Also, we have outlined the steps you should take to set up the Bluetooth controller for retro pic.
+
 

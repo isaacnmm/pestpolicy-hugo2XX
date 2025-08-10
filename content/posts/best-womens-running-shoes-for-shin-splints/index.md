@@ -34,9 +34,19 @@ The Impact Guidance System promotes the natural movement of the foot throughout 
 
 The shoe also features FlyteFoam Lyte Technology on its midsole. The technology provides a lightweight formulation and together with the organic nanofibers, it provides superior cushioning throughout the running session. On the other hand, FlyteFoam Propel Technology incorporates an elastomer compound to provide reliable bounce back and high responsiveness.
 
-The generous padding on the heel section prevents foot irritation at the back while discouraging unintended shoe removal. The high-abrasion rubber outsole provides reliable traction on roads, [pavements](https://pestpolicy.com/best-shoes-for-running-on-pavement/),and many other challenging surfaces. Pros: - Provides good stability - Excellent cushioning - Highly durable - Breathable upper - Comfortable
+The generous padding on the heel section prevents foot irritation at the back while discouraging unintended shoe removal. The high-abrasion rubber outsole provides reliable traction on roads, [pavements](https://pestpolicy.com/best-shoes-for-running-on-pavement/),and many other challenging surfaces. 
+Pros:
+- - Provides good stability
+- Excellent cushioning
+- Highly durable
+- Breathable upper
+- Comfortable
 
-Cons: - Some people complained about the shoes dull color schemes
+
+
+Cons:
+- - Some people complained about the shoes dull color schemes
+
 
 ##  [2. Brooks Women's Adrenaline GTS 20 Running Shoe](https://www.amazon.com/dp/B07MHP7QWF/?tag=p-policy-20)
 
@@ -54,9 +64,21 @@ The 3D Fit Print on the upper reinforces the structural integrity of the upper t
 
 The padding on the tongue helps to distribute pressure evenly on top of the foot. Thus prevents pain on top of foot while ensuring unmatched comfort, protection, and support for the foot.
 
-The Adrenaline GTS 20 has an outsole that features a blown rubber compound. This compound provides protection against abrasion. Beneath the outsole, there are Omega Flex Grooves that enhance the shoes flexibility while providing grip on various surfaces. Pros: - Provides good stability - Comfortable - Ideal for long-distance [running](https://pestpolicy.com/best-mens-running-shoes-for-bad-knees/)- Excellent cushioning - Stylish - Lightweight yet durable - Wide toe box - Excellent arch support
+The Adrenaline GTS 20 has an outsole that features a blown rubber compound. This compound provides protection against abrasion. Beneath the outsole, there are Omega Flex Grooves that enhance the shoes flexibility while providing grip on various surfaces. 
+Pros:
+- - Provides good stability
+- Comfortable
+- Ideal for long-distance [running](https://pestpolicy.com/best-mens-running-shoes-for-bad-knees/)- Excellent cushioning
+- Stylish
+- Lightweight yet durable
+- Wide toe box
+- Excellent arch support
 
-Cons: - Limited color variations
+
+
+Cons:
+- - Limited color variations
+
 
 ###  [3. HOKA ONE ONE Women's Clifton 6 Running Shoe](https://www.amazon.com/dp/B07L5NTXLH/?tag=p-policy-20)
 
@@ -70,9 +92,19 @@ The toe box, heel, and the instep have Printed overlays that enhance the durabil
 
 The padded tongue and collar provide additional comfort and support for the foot. They also hold the food in place to prevent wobbling during the running session.
 
-Hoka One One Clifton 6 has an outsole that utilizes Hi-Abrasion rubber compound. This compound provides reliable traction and prevents excess wear and tear. The flex grooves beneath the outsole encourage the foot to bend naturally throughout the gait cycle. Hence, toe-offs become easier and responsive. Pros: - Lightweight - Roomy toe box - Breathable upper - Reliable sizing scheme - Available in various attractive colors.
+Hoka One One Clifton 6 has an outsole that utilizes Hi-Abrasion rubber compound. This compound provides reliable traction and prevents excess wear and tear. The flex grooves beneath the outsole encourage the foot to bend naturally throughout the gait cycle. Hence, toe-offs become easier and responsive. 
+Pros:
+- - Lightweight
+- Roomy toe box
+- Breathable upper
+- Reliable sizing scheme
+- Available in various attractive colors.
 
-Cons: - You might need to break in on them
+
+
+Cons:
+- - You might need to break in on them
+
 
 ###  [4. New Balance Women's Fresh Foam 1080 V10 Running Shoe](https://www.amazon.com/dp/B07RGTJ343/?tag=p-policy-20)
 
@@ -86,9 +118,21 @@ The ortholite sock liner provides extra comfort while helping to wick moisture a
 
 Another feature that makes this lightweight running shoe stand out is the ultra-heel design, which provides a supportive fit. The heel design helps to hold the back of the foot in place to avert unintended shoe removal.
 
-The New Balance Fresh Foam 1080 v10 also has an outsole unit that utilizes a blown rubber compound. This compound improves the responsiveness and cushioning of the shoe. It also delivers reliable traction and protection against abrasion. The flex grooves enhance the flexibility of the shoe and provide additional grip. Pros: - Comfortable - Durable - Lightweight - Excellent cushioning - Good support - Flexible - Good traction
+The New Balance Fresh Foam 1080 v10 also has an outsole unit that utilizes a blown rubber compound. This compound improves the responsiveness and cushioning of the shoe. It also delivers reliable traction and protection against abrasion. The flex grooves enhance the flexibility of the shoe and provide additional grip. 
+Pros:
+- - Comfortable
+- Durable
+- Lightweight
+- Excellent cushioning
+- Good support
+- Flexible
+- Good traction
 
-Cons: - A bit tight according to some users
+
+
+Cons:
+- - A bit tight according to some users
+
 
 ###  [5. Brooks Women's Glycerin 18 Running Shoe](https://www.amazon.com/dp/B081VBZQ8V/?tag=p-policy-20)
 
@@ -102,9 +146,20 @@ The forefoot section has a blown rubber material that provides excellent durabil
 
 The upper section of Glycerin 18 features a jacquard mesh material that stretches according to the size of the foot to give the perfect fit. The mesh upper also allows air into the shoe ensuring the feet remain dry and fresh throughout the running session.
 
-The upper is reinforced with 3D Fit Print technology that promotes an improved fit ensuring the wearer has a secure and comfortable fit. The padded tongue and collar provide extra comfort and support to the foot during running. Pros: - Flexible upper unit - Comfortable - Roomy toe box - Highly versatile - Excellent cushioning - Ideal forhigh arches and all-day standing
+The upper is reinforced with 3D Fit Print technology that promotes an improved fit ensuring the wearer has a secure and comfortable fit. The padded tongue and collar provide extra comfort and support to the foot during running. 
+Pros:
+- - Flexible upper unit
+- Comfortable
+- Roomy toe box
+- Highly versatile
+- Excellent cushioning
+- Ideal forhigh arches and all-day standing
 
-Cons: - A bit stiff than its predecessor
+
+
+Cons:
+- - A bit stiff than its predecessor
+
 
 ###  [6. Mizuno Women's Wave Inspire 16 Waveknit Running Shoe Road](https://www.amazon.com/dp/B07QTVJV1N/?tag=p-policy-20)
 
@@ -120,9 +175,20 @@ These stability running shoes feature Waveknit technology that promotes a more a
 
 Mizuno Wave Inspire 16 Waveknit also features Dynamotion Fit Technology, which aims to reduce stress on feet while ensuring durability.
 
-The forefoot section features a blown rubber compound that promotes cushioning and a responsive ride. The heel section features X10 rubber that provides reliable traction. Pros: - Excellent cushioning - Comfortable - Breathable - Lightweight - Offers snug fit - flexible
+The forefoot section features a blown rubber compound that promotes cushioning and a responsive ride. The heel section features X10 rubber that provides reliable traction. 
+Pros:
+- - Excellent cushioning
+- Comfortable
+- Breathable
+- Lightweight
+- Offers snug fit
+- flexible
 
-Cons: - You might need to size up
+
+
+Cons:
+- - You might need to size up
+
 
 ###  [7. Saucony Women's Guide 10 Running Shoe](https://www.amazon.com/dp/B01GIPJQA0/?tag=p-policy-20)
 
@@ -134,9 +200,20 @@ The upper features a dynamic engineered mesh fabric that provides an adaptive fi
 
 The padded tongue and collar provide unmatched comfort and support throughout the running session. The shoe also has a RunDry technology that works to wick moisture away for a dry and fresh interior.
 
-The shoe also features a Tri-flex outsole that provides unmatched flexibility. Saucony Guide 10 has a unique underfoot layout that allows optimal ground contact for easy impact dispersion during the landing phase. Hence, promote smooth transitions throughout the gait cycle. Pros: - Excellent stability - Comfortable - The best shoe for overpronators - Excellent cushioning - Flexible upper - Reliable traction
+The shoe also features a Tri-flex outsole that provides unmatched flexibility. Saucony Guide 10 has a unique underfoot layout that allows optimal ground contact for easy impact dispersion during the landing phase. Hence, promote smooth transitions throughout the gait cycle. 
+Pros:
+- - Excellent stability
+- Comfortable
+- The best shoe for overpronators
+- Excellent cushioning
+- Flexible upper
+- Reliable traction
 
-Cons: - Runs small, you might need to size up
+
+
+Cons:
+- - Runs small, you might need to size up
+
 
 ##  What to look for in Best womens Running Shoes for Shin Splints
 
@@ -161,4 +238,5 @@ Well-fitting shoes also promote the comfort levels of a runner allowing improved
 ##  Conclusion
 
 The best womens running shoes for shin splints should be well-cushioned, comfortable, provide good shock absorption, and proper fit. In this review, all the discussed shoes meet these criteria, and choosing either of them will help you combat shin splints.
+
 

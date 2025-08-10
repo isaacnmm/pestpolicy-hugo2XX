@@ -28,10 +28,14 @@ Boiling water is a non-selective killer, meaning it will damage or kill any plan
 ---
 ---
 ## Pros and Cons of Using Boiling Water for Weeds
-### Pros:
-* **Chemical-Free:** No harsh chemicals are introduced into your garden, making it safe for edibles, pets, and the environment. * **Inexpensive:** The only cost is water and the energy to heat it. * **Readily Available:** No special products to buy. * **Fast-Acting:** Visible results are almost immediate. * **Effective for Annuals:** Excellent for killing young annual weeds completely, including their shallow root systems. * **No Herbicide Resistance:** Weeds cannot develop resistance to heat.
-### Cons:
-* **Non-Selective:** Will kill any plant it touches, including desirable ones. Requires precision. * **Safety Risk:** High risk of burns if not handled carefully. * **Labor-Intensive:** Carrying boiling water repeatedly can be tiring, making it impractical for large areas. * **Ineffective for Deep-Rooted Perennials:** While it kills top growth, deep roots of perennial weeds (like dandelions, bindweed, nutsedge) will often survive and re-sprout, requiring repeated applications.
+### 
+Pros:
+- * **Chemical-Free:** No harsh chemicals are introduced into your garden, making it safe for edibles, pets, and the environment. * **Inexpensive:** The only cost is water and the energy to heat it. * **Readily Available:** No special products to buy. * **Fast-Acting:** Visible results are almost immediate. * **Effective for Annuals:** Excellent for killing young annual weeds completely, including their shallow root systems. * **No Herbicide Resistance:** Weeds cannot develop resistance to heat.
+
+### 
+Cons:
+- * **Non-Selective:** Will kill any plant it touches, including desirable ones. Requires precision. * **Safety Risk:** High risk of burns if not handled carefully. * **Labor-Intensive:** Carrying boiling water repeatedly can be tiring, making it impractical for large areas. * **Ineffective for Deep-Rooted Perennials:** While it kills top growth, deep roots of perennial weeds (like dandelions, bindweed, nutsedge) will often survive and re-sprout, requiring repeated applications.
+
 * **Temporary Solution:** Does not prevent new weed seeds from germinating in the treated area. * **Soil Impact:** Repeated application to the same spot *could* potentially affect soil microbes, though a one-off application for weeds in cracks is unlikely to have a significant impact.
 ---
 ---
@@ -74,4 +78,5 @@ Ensure no desirable plants are nearby that could be affected by splashes or heat
 * **Small Batches: ** If using a large pot, pour small, manageable amounts into a smaller, spouted container for more precise application and safer carrying. * **Proper Footwear: ** Wear sturdy, closed-toe shoes to protect your feet from splashes. * **Combine with Hand Weeding: ** For perennial weeds, boiling water can weaken the plant, making it easier to hand-pull the remaining roots.
 
 * **Mulch as Prevention: ** After using boiling water to clear an area, apply a layer of mulch to prevent new weed seeds from germinating. This is the best long-term prevention.
+
 

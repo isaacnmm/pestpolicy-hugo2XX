@@ -32,9 +32,21 @@ You will enjoy long-distance access when painting since Magimate comes with a cl
 
 NB: Magimate is budget-friendly and comes with a free-angle brush - with a quality paint roller.
 
-Pros: - Lightweight and durable - Simple set-up design and sturdy support frame - Comfortable handle and professional paint tray - Classic extension pole and free-angle brush - Fast refill design and simple to clean - Budget-friendly and smart paint pick-up material
 
-Cons: - Not suitable for painting high heights - Limited roll length
+Pros:
+- - Lightweight and durable
+- Simple set-up design and sturdy support frame
+- Comfortable handle and professional paint tray
+- Classic extension pole and free-angle brush
+- Fast refill design and simple to clean
+- Budget-friendly and smart paint pick-up material
+
+
+
+Cons:
+- - Not suitable for painting high heights
+- Limited roll length
+
 
 
 ###  [2. Wooster Brush R975-9 Painter's Choice Roller 9-Inch and 3/8-Inch](https://www.amazon.com/dp/B000I1VDBG/?tag=p-policy-20)
@@ -45,9 +57,22 @@ Besides, Wooster is specially manufactured with a soft, durable roll-material wi
 
 The lightweight roller is durable and straightforward to connect with an external handlebar at will. You can also replace the roll cover with a commercially available one without much problem has a standard radial gauge. Importantly, Wooster comes with a free paintbrush for angle paint application. Prior to beginning the spraying process, ensure to mask your furniture, windows, and doors using painters tape.
 
-Pros: - A robust stainless steel framework - Threaded plastic handle and smooth covers - Rigid plastic tray and attractive mint green color - High-performance roll covers and budget-friendly - Free paintbrush and smooth surface material - just like withbrush for smooth finish. - Adjustable handle and lightweight
 
-Cons: - Short handle not for high walls - Roll covers could be more
+Pros:
+- - A robust stainless steel framework
+- Threaded plastic handle and smooth covers
+- Rigid plastic tray and attractive mint green color
+- High-performance roll covers and budget-friendly
+- Free paintbrush and smooth surface material
+- just like withbrush for smooth finish.
+- Adjustable handle and lightweight
+
+
+
+Cons:
+- - Short handle not for high walls
+- Roll covers could be more
+
 
 
 ###  [3. Purdy Jumbo Mini Ultra Finish Roller](https://www.amazon.com/dp/B00F299MMG/?tag=p-policy-20)
@@ -60,9 +85,23 @@ Moreover, the roller is simple to set up and more comfortable to clean.
 
 The attractive design that comes with Purdy makes it stand out, while the radial adjustment provision allows optional fastening when painting. Notably, Purdy works incredibly for both latex and acrylic painting activities. Remember to clean, sanding, and scrape the surface before you begin the spraying or painting process.
 
-Pros: - Strong Stainless steel frame construction - Premium woven microfiber and full cover material - Adaptable roll diameter and smooth-rolling movement - Semi-smooth surface and lightweight -1. 52 ounces - Affordable and durable - Works for latex and acrylic paints - Simple to clean and maintain - Comfortable handle and attractive design
 
-Cons: - Dont come with a paint tray. - Has short handle
+Pros:
+- - Strong Stainless steel frame construction
+- Premium woven microfiber and full cover material
+- Adaptable roll diameter and smooth-rolling movement
+- Semi-smooth surface and lightweight -1. 52 ounces
+- Affordable and durable
+- Works for latex and acrylic paints
+- Simple to clean and maintain
+- Comfortable handle and attractive design
+
+
+
+Cons:
+- - Dont come with a paint tray.
+- Has short handle
+
 
 
 ###  [4. STANLEY PTST03508 8 Piece Paint Roller](https://www.amazon.com/dp/B00IJGYDKA/?tag=p-policy-20)
@@ -75,9 +114,23 @@ Moreover, the roller integrates low stickiness resistance and simple set up asse
 
 Furthermore, Stanley comes with a high-grade plastic tray (clear) and a free paintbrush that supports angle-painting tasks. The compacted roll covers are faster to clean and come in a standard design that perfectly matches other commercial rollers. NB: Stanley is durable and economical to maintain. The durable paint rooler wiull work well for working on your doors, trim, cupboards, and cabinets.
 
-Pros: - The high capacity polyester roller cover - Rigid plastic tray (clean) and free paintbrush - Smooth and semi-smooth roller cover kit - 3 rigid frame structure and classic design - Improved rolling motion (flexible) and lightweight - Low stickiness resistance and comfortable handle - Simple to clean and economical to maintain
 
-Cons: - Limited handle sizes - Comes in a few colors - Roller fastener could be stronger
+Pros:
+- - The high capacity polyester roller cover
+- Rigid plastic tray (clean) and free paintbrush
+- Smooth and semi-smooth roller cover kit
+- 3 rigid frame structure and classic design
+- Improved rolling motion (flexible) and lightweight
+- Low stickiness resistance and comfortable handle
+- Simple to clean and economical to maintain
+
+
+
+Cons:
+- - Limited handle sizes
+- Comes in a few colors
+- Roller fastener could be stronger
+
 
 
 ###  [5. Bates Paint Roller - House-Painting Tray](https://www.amazon.com/dp/B01MRTEOHI/?tag=p-policy-20)
@@ -88,9 +141,24 @@ Indeed, Bates integrates a highly flexible design that supports smooth rolling m
 
 Also, this product comes with a classic ergonomic design and a durable plastic tray for kit storage. The budget-friendly paint roller is simple to set up and clean. It comes with a classic handle coupling design that supports an extension handlebar. Importantly, Bates is easier to clean and more economical to maintain.
 
-Pros: - Rubberized plastic handle comfortable - Budget-friendly and lightweight material - Multiple sizes standard roll covers - High-grade foam roll covers durable - Rigid paint tray and sturdy metallic frame - High flexibility and adjustable handle - Ergonomic design and simple to set up
 
-Cons: - The surface texture could be softer - great to usepaint rollers for textured walls - Not extension handle - The tray may not last very long
+Pros:
+- - Rubberized plastic handle comfortable
+- Budget-friendly and lightweight material
+- Multiple sizes standard roll covers
+- High-grade foam roll covers durable
+- Rigid paint tray and sturdy metallic frame
+- High flexibility and adjustable handle
+- Ergonomic design and simple to set up
+
+
+
+Cons:
+- - The surface texture could be softer
+- great to usepaint rollers for textured walls
+- Not extension handle
+- The tray may not last very long
+
 
 ###  [6. PANCLUB Paint Roller - 4-inch Roller Cover](https://www.amazon.com/dp/B07VR96BMS/?tag=p-policy-20)
 
@@ -102,9 +170,23 @@ Indeed, the kit comes with two optional frameworks and a pair of roll covers tha
 
 Besides, Punclub comes with free paintbrushes (various sizes) that allow angle painting where the roller cant access. More so, this product features a highly flexible roll design that resists strains when painting. NB: Punclub is durable, affordable, and simple to clean. The roller is les expensive - compared to painting devices such as spray guns.
 
-Pros: - Classic roll cover design and comfortable threaded handle - Two sturdy framework designs and rigid plastic tray - Multifunctional roll covers and lightweight material - High capacity polyester roll material durable - Dense compaction and smooth finish lining - Free paintbrushes (various sizes) and affordable - Exceptional finish performance and flexible
 
-Cons: - Limited roll cover sizes - Lacks extension handle short - The plastic tray should be tougher
+Pros:
+- - Classic roll cover design and comfortable threaded handle
+- Two sturdy framework designs and rigid plastic tray
+- Multifunctional roll covers and lightweight material
+- High capacity polyester roll material durable
+- Dense compaction and smooth finish lining
+- Free paintbrushes (various sizes) and affordable
+- Exceptional finish performance and flexible
+
+
+
+Cons:
+- - Limited roll cover sizes
+- Lacks extension handle short
+- The plastic tray should be tougher
+
 
 ###  [7. Premium 4 inch Paint Roller](https://www.amazon.com/dp/B07662DHMW/?tag=p-policy-20)
 
@@ -114,13 +196,22 @@ Indeed, Premium roller comes with a classic handlebar that is well rugged to imp
 
 Further, roll covers have a soft lining that improves paint pick-ups without hardening, while the internal roll diameter is nicely designed to improve rolling flexibility when painting. Besides, the lightweight roller delivers a quality paint finish (uniform roll cover) and eliminates angle drains through its tinted roll design. Notably, Premium Roller is budget-friendly and has been existing since 1874.
 
-Its an excellent roller for [heavy-duty spray painting device](https://pestpolicy.com/best-turbine-paint-sprayer/)while working on your [sweet DIY home renovations](https://www.thisoldhouse.com/21018243/100-diy-home-projects-for-under-100).Pros: - Thick roll paint material and lightweight - Multiple paints use and improve roll flexibility.
+Its an excellent roller for [heavy-duty spray painting device](https://pestpolicy.com/best-turbine-paint-sprayer/)while working on your [sweet DIY home renovations](https://www.thisoldhouse.com/21018243/100-diy-home-projects-for-under-100).
+Pros:
+- - Thick roll paint material and lightweight
+- Multiple paints use and improve roll flexibility.
+
 
 - Tough plastic stray partitioned - Simple set-up assembly and rigid frame - Quick paint picks up properties.
 
 - Soft surface finish and budget-friendly - Existing since 1874
 
-Cons: - Roll covers could be more. - Lacks adjustable handle short - Single roll pin
+
+Cons:
+- - Roll covers could be more.
+- Lacks adjustable handle short
+- Single roll pin
+
 
 ##  Conclusion
 
@@ -129,4 +220,5 @@ Owning the best roller for a smooth finish requires close consideration of vario
 Choose a roller with medium diameter range, suitable length/height, easier to assemble, more comfortable to clean, high roll flexibility, durable, and light net weight before placing your order - for cinder blocks, masonry, and brick paint.
 
 Besides, its advisable to consider a roller with an impressive design and budget-friendly without sacrificing the overall quality.
+
 

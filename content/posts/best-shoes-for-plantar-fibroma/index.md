@@ -40,9 +40,21 @@ Furthermore, the shoe also incorporates FlyteFoam Propel Technology, which is an
 
 Lastly, the upper section of the Kayano 27 features an engineered jacquard mesh that works to ensure maximum ventilation for cool and fresh feet. The sole enhances the shoes flexibility, hence, encourages natural foot movement throughout the gait cycle. The flex grooves provide additional grip while encouraging softer landings.
 
-Pros: - Excellent stability - Excellent cushioning - Comfortable - Reliable traction and grip - Ideal for running, all day walking or standing - Luxurious feel - Durable
 
-Cons: - Expensive
+Pros:
+- - Excellent stability
+- Excellent cushioning
+- Comfortable
+- Reliable traction and grip
+- Ideal for running, all day walking or standing
+- Luxurious feel
+- Durable
+
+
+
+Cons:
+- - Expensive
+
 
 ###  [2. Saucony Men's Guide 13 Running Shoe](https://www.amazon.com/dp/B086H2YTNW/tag=p-policy-20)
 
@@ -58,9 +70,20 @@ The Guide 13 come with removable insoles that provide enough arch support ensuri
 
 Besides that, the upper section of Guide 13 incorporates a cloth-like engineered mesh upper. This material wraps the foot comfortably and stretches properly to allow natural movement of the feet. The material also has open holes that allow entry of air inside the shoe for a cool and fresh in-shoe environment.
 
-Furthermore, the outsole features a rubber compound that provides protection against abrasion while ensuring reliable traction on various surfaces. Pros: - Excellent cushioning - Highly responsive - Lightweight - Reliable closure design - Excellent heel clutch - Durable
+Furthermore, the outsole features a rubber compound that provides protection against abrasion while ensuring reliable traction on various surfaces. 
+Pros:
+- - Excellent cushioning
+- Highly responsive
+- Lightweight
+- Reliable closure design
+- Excellent heel clutch
+- Durable
 
-Cons: - Some reviewers complain about inadequate ventilation especially on hotter days
+
+
+Cons:
+- - Some reviewers complain about inadequate ventilation especially on hotter days
+
 
 ###  [3. Z-CoiL Pain Relief Footwear](https://www.amazon.com/dp/B00IRKV3AQ/tag=p-policy-20)
 
@@ -72,9 +95,19 @@ Furthermore, the shoe also has an in-built orthotic that provides protection and
 
 In addition, this pain relief footwear has a spacious toe box that allows the toes to flex naturally, as you walk. The rocker bottom outsole encourages natural movements, thus, helps to relieve joint pressure or pain.
 
-Besides that, the forefoot section has additional cushioning that helps to protect the toes and the ball of the foot. Further, the additional padding on the tongue, collar, and interior lining help to embrace the foot for additional comfort. The shoe also has breathability holes that allow entry of air into the shoes. Pros: - Best shoes for relieving pain - Highly comfortable - Roomy toe box - Helps to relieve stress on joints - Breathable
+Besides that, the forefoot section has additional cushioning that helps to protect the toes and the ball of the foot. Further, the additional padding on the tongue, collar, and interior lining help to embrace the foot for additional comfort. The shoe also has breathability holes that allow entry of air into the shoes. 
+Pros:
+- - Best shoes for relieving pain
+- Highly comfortable
+- Roomy toe box
+- Helps to relieve stress on joints
+- Breathable
 
-Cons: - Runs small, you should order a half size higher your usual size
+
+
+Cons:
+- - Runs small, you should order a half size higher your usual size
+
 
 ###  [4. Skechers Men's Go Walk Evolution Sneaker](https://www.amazon.com/dp/B07FKRG26P/tag=p-policy-20)
 
@@ -90,9 +123,21 @@ Furthermore, the upper of the Skechers Go Walk Evolution features a Soft woven m
 
 The shoe also has heel panel overlays and a synthetic toe that provide additional support and durability.
 
-The slip-on design of this walking shoe makes wearing or removing the shoe easy. The double-side elastic panels also provide extra comfort to the foot. The shoe also expands naturally to accommodate people of different foot types. Pros: - Highly comfortable - Slip-on design - Supportive - Excellent cushioning - Reliable traction - Breathable - Accommodative upper
+The slip-on design of this walking shoe makes wearing or removing the shoe easy. The double-side elastic panels also provide extra comfort to the foot. The shoe also expands naturally to accommodate people of different foot types. 
+Pros:
+- - Highly comfortable
+- Slip-on design
+- Supportive
+- Excellent cushioning
+- Reliable traction
+- Breathable
+- Accommodative upper
 
-Cons: - A reviewer complained that the bottom of the sole holds small rocks
+
+
+Cons:
+- - A reviewer complained that the bottom of the sole holds small rocks
+
 
 ###  [5. Orthofeet Foot and Heel Pain Relief Orthopedic Shoes Broadway](https://www.amazon.com/dp/B003OH611I/tag=p-policy-20)
 
@@ -106,9 +151,19 @@ The shoes also have an extra depth design and removable insoles. This means you 
 
 Youll also appreciate the soft uppers with additional foam padding with a smooth interior lining that delivers unmatched comfort and excellent protection for problematic feet. Its one of the mens diabetic shoes. Its also ideal for footwear for people with arthritis and neuropathy.
 
-Besides that, these shoes are available in extended width options including wide, extra wide, and medium. The shoe also has a unique therapeutic design that helps to eliminate stress or pressure on the joints. Hence, enhance stability, which in turn improves the walking experience. Pros: - Accommodates orthotics - Highly comfortable - Eases various foot pains - Lightweight - Excellent cushioning
+Besides that, these shoes are available in extended width options including wide, extra wide, and medium. The shoe also has a unique therapeutic design that helps to eliminate stress or pressure on the joints. Hence, enhance stability, which in turn improves the walking experience. 
+Pros:
+- - Accommodates orthotics
+- Highly comfortable
+- Eases various foot pains
+- Lightweight
+- Excellent cushioning
 
-Cons: - A customer complained that they wear out quickly
+
+
+Cons:
+- - A customer complained that they wear out quickly
+
 
 Also Read: Best Sandals for Lower Back Pain
 
@@ -124,9 +179,20 @@ Other than that, the Mizuno Inspire 16 also features a Smoothride support wave t
 
 Furthermore, the premium sockliner enhances comfort and cushioning. Besides that, the shoe has an engineered Mesh upper with open pores that allow adequate air into the shoe for a cool and fresh in-shoe feeling.
 
-On top of that, the bottom of the Wave Inspire 16 features an X10 outsole that enhances durability and traction. The U4ic Midsole provides excellent shock reduction. Hence, it protects the wearer from impact for a smooth and comfortable running or walking experience. Pros: - Supportive and responsive midsole - Excellent stability - Attractive shoes - Lightweight - Comfortable - Reliable and supportive upper construction
+On top of that, the bottom of the Wave Inspire 16 features an X10 outsole that enhances durability and traction. The U4ic Midsole provides excellent shock reduction. Hence, it protects the wearer from impact for a smooth and comfortable running or walking experience. 
+Pros:
+- - Supportive and responsive midsole
+- Excellent stability
+- Attractive shoes
+- Lightweight
+- Comfortable
+- Reliable and supportive upper construction
 
-Cons: - Some reviewers complain that the outsole separates from the midsole after a few months of use
+
+
+Cons:
+- - Some reviewers complain that the outsole separates from the midsole after a few months of use
+
 
 ###  [7. Saucony Men's VERSAFOAM Cohesion 12 Road Running Shoe](https://www.amazon.com/dp/B07FNDBZX5/tag=p-policy-20)
 
@@ -142,11 +208,22 @@ The bottom of the outsole also has Zigzagging flex grooves. These grooves enhanc
 
 Other than that, the upper section of this plantar fibroma shoe features breathable mesh material. This material has small pores that allow free entry of air for a cool and dry in-shoe environment.
 
-Furthermore, the upper also incorporates stitched overlays that provide crucial support to the foot while ensuring durability. The padded collar and tongue enhance comfort and prevent accidental shoe removal. Pros: - Highly efficient - Lightweight - Affordable - Breathable upper - Accommodates orthotics
+Furthermore, the upper also incorporates stitched overlays that provide crucial support to the foot while ensuring durability. The padded collar and tongue enhance comfort and prevent accidental shoe removal. 
+Pros:
+- - Highly efficient
+- Lightweight
+- Affordable
+- Breathable upper
+- Accommodates orthotics
 
-Cons: - Some people complained that the toe box was a bit tight
+
+
+Cons:
+- - Some people complained that the toe box was a bit tight
+
 
 ##  Conclusion
 
 I hope that this review on the Best Shoes for Plantar Fibroma has been helpful. All the reviewed shoes on this list are some of the best on the market today. Therefore, choosing either of them will guarantee you a pain-free run or walk.
+
 

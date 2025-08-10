@@ -32,9 +32,20 @@ You'll love the surge protector that's on-board to have your gadgets running wit
 
 The device offers c ompact 60W power in the small USB hub for your iMac. Thus you can quickly transfer your day while also charging different devices while taking up limited space. It allows a painless and quick set up process. Simply get the device from the packaging and the connect A-to-B USB cable to your iMac and the USB hub before connecting it to a power source.
 
-Pros: - LED indicators for each USB Hub port - It's great for anyone who's tried of USB ports running out and doesn't want to fumble at the back their iMac - A simple and innovative design (compact for its excellent power) - Fast data transfer - offers 5Gbps maximum onMacBook. - Offers 7 USB ports plus 3 fast-charging ports
 
-Cons: - Not cheap
+Pros:
+- - LED indicators for each USB Hub port
+- It's great for anyone who's tried of USB ports running out and doesn't want to fumble at the back their iMac
+- A simple and innovative design (compact for its excellent power)
+- Fast data transfer
+- offers 5Gbps maximum onMacBook.
+- Offers 7 USB ports plus 3 fast-charging ports
+
+
+
+Cons:
+- - Not cheap
+
 
 
 ###  [2. Sabrent 4-Port USB 3.0 Premium Aluminum Hub](https://www.amazon.com/dp/B013WKGPSA/?tag=p-policy-20)
@@ -47,11 +58,17 @@ Further, Sabrent 4-Port is simple to install and use - and its thin profile ensu
 
 Therefore, you can readily connect your printers, flash drives, external hard drives, phones, and digital youtube cameras as it won't need additional software.
 
-The device is simple to install, plus you'll love the sleek or slim aluminum design. However, the ports won't charge your iPad, and the hard-drives (external) require correction to a power source. Just plug in the USB hub to the iMac's USB port are the back allowing the device to work excellently with your gadgets. But the USB hub ports won't charge the iPad. Pros: - Satechi 4-Port hub will fit and work excellently with any 27-inch iMac.
+The device is simple to install, plus you'll love the sleek or slim aluminum design. However, the ports won't charge your iPad, and the hard-drives (external) require correction to a power source. Just plug in the USB hub to the iMac's USB port are the back allowing the device to work excellently with your gadgets. But the USB hub ports won't charge the iPad. 
+Pros:
+- - Satechi 4-Port hub will fit and work excellently with any 27-inch iMac.
+
 
 - It looks both reliable and beautiful - Compatible or works with different devices - Sabrent 4-Port feels and looks great - which matches your iMac's texture. - It's designed to reduce cable tangling and mess
 
-Cons: - Won't charge the iPad
+
+Cons:
+- - Won't charge the iPad
+
 
 
 ###  [3. EC Tec 4-Port Premium USB 3.0 Aluminium HUB](https://www.amazon.com/dp/B010LTO7DA/?tag=p-policy-20)
@@ -60,13 +77,19 @@ Just plugin the EC Tec 4-Port to the iMac allowing you to readily triple the num
 
 EC Tec 4-Port is suitable for both iMac and mackbooks. Its ultra-fast USB allow fast data, ducmnet snd file transfer while the Micro-B power port deliver steady charge. The hub's aluminum finish makes it look like a unique extension of the Windows PC (with most Windows versions like 8 / 8. 1) or iMac with Mac OS. The hub will give you a high ( 5Gbps ) data transfer rate, and thus, it'll be easy to move your files, document, and data.
 
-Further, it'll require no unique software or drivers to install or use. You'll enjoy the anti-jamming feature thank to the USB hub's built-in cable while also providing and stable charging experience for your high -power devices. Pros: - Further, the smart USB hub is a small-bodied aluminum device that has rounded corners to match those of your MacBook or iMac.
+Further, it'll require no unique software or drivers to install or use. You'll enjoy the anti-jamming feature thank to the USB hub's built-in cable while also providing and stable charging experience for your high -power devices. 
+Pros:
+- - Further, the smart USB hub is a small-bodied aluminum device that has rounded corners to match those of your MacBook or iMac.
+
 
 - It'll give you alerts of the power usage plus it gets you safe and steady power transmission in the 5V Micro port.
 
 - Also, it's light-weight (2. 65oz) and thus very movable.
 
-Cons: - However, this one won't also charge your iPad.
+
+Cons:
+- - However, this one won't also charge your iPad.
+
 
 
 ###  [4. Anker USB 3.0 4-Port Aluminum USB Hub](https://www.amazon.com/dp/B00IJ331WY/?tag=p-policy-20)
@@ -79,14 +102,21 @@ The USB hub works as required but lacks additional ports such as the SD card slo
 
 Anker USB 3. 0 4-Port will be compatible with most of your USB devices simultaneously, including flash drives, Chromebooks, iMacs, external HDD, MacBooks, and Notebook PCs.
 
-Further, this Anker USB hub won't need an external power connection to function. But it'll still output adequate power on its port running to your devices. Pros: - The device is reliable, functional, usable, and thin.
+Further, this Anker USB hub won't need an external power connection to function. But it'll still output adequate power on its port running to your devices. 
+Pros:
+- - The device is reliable, functional, usable, and thin.
+
 
 - Offers 5Gbps data-transfer rate which is super-fast - A small-sized USB hub that's portable for traveling - The minimalist and thin USB hub made with an aluminum finish will excellently match your iMac - Regardless, it's also a budget-friendly with long connector cables and reliable switches.
 
-Cons: - None
+
+Cons:
+- - None
+
 
 
 ##  Conclusion
 
 So, on the best USB hub for iMac, I recommend the [Anker 3. 0 10-Port](https://www.amazon.com/dp/B00VDVCQ84/?tag=p-policy-20)as its highly usable, portable and has a great plus attractive finish. Any of these USB hubs will be great for connecting your streak drives, external HDD, phone, or advanced camera. Also, some of the devices that'll connect to iPads or even allow super-charging.
+
 

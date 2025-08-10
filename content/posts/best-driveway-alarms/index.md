@@ -28,7 +28,13 @@ As instructed, you need to place the wire carefully inside an electric conduit t
 
 - It immediately detects any kind of movement by vehicles on your driveway, and then the transmitter sends the signals to the receiver, which is installed inside your home.
 
-- As soon as the receiver receives signals, it triggers the alarm, which is not too loud. If you have a big house and want to hear the alarm from anywhere in the house, you need to purchase volume controller add-ons. The transmitter works on a 9V battery, and an AC adapter powers the receiver. Pros: - Easy to install - Adjustable whistle alert - Fewer false alarms Cons: - Cannot adjust the volume of alarm?
+- As soon as the receiver receives signals, it triggers the alarm, which is not too loud. If you have a big house and want to hear the alarm from anywhere in the house, you need to purchase volume controller add-ons. The transmitter works on a 9V battery, and an AC adapter powers the receiver. 
+Pros:
+- - Easy to install
+- Adjustable whistle alert
+- Fewer false alarms Cons:
+- Cannot adjust the volume of alarm?
+
 
 
 ###  **2. Dakota Alert Vehicle Hardwired Control Box with Probe**
@@ -41,7 +47,13 @@ If you have to bury the search under your driveway, then cover it with the condu
 
 The conduit will also protect the probe and wire from moles, gophers, and other rodents.
 
-The control box needs to be plugged into a 110-volt outlet. This control box can handle up to three probes, and it can be custom-tuned separately for each application. Pros: - Easy to install - Adjustable whistle alert - Fewer false alarms Cons: - Sometimes the alarm sets off when lightening strikes?
+The control box needs to be plugged into a 110-volt outlet. This control box can handle up to three probes, and it can be custom-tuned separately for each application. 
+Pros:
+- - Easy to install
+- Adjustable whistle alert
+- Fewer false alarms Cons:
+- Sometimes the alarm sets off when lightening strikes?
+
 
 
 ###  **3. Mier DA 500 Buried Sensor System**
@@ -56,7 +68,13 @@ Like any other home security system, the sensor of this probe also needs to be b
 
 The dry contacts on the control panel of the DA-500 can activate DVRs, gates, lights, external bells, sirens, and strobes when the sensors detect activity on the driveway.
 
-This security system is also weatherproof, so you do not have to worry about corrosion that occurs due to humidity. Pros: - Adjustable Sensor sensitivity - Adjustable time control - Durably constructed steel casing Cons: - The built-in buzzer is hard to hear? Read Also: Raspberry Pi Models Reviewed
+This security system is also weatherproof, so you do not have to worry about corrosion that occurs due to humidity. 
+Pros:
+- - Adjustable Sensor sensitivity
+- Adjustable time control
+- Durably constructed steel casing Cons:
+- The built-in buzzer is hard to hear? Read Also: Raspberry Pi Models Reviewed
+
 
 ###  **4. Dakota Alert DCPA-2500 Duty Cycle Probe Alert 2500 Kit**
 
@@ -64,7 +82,12 @@ The Dakota Alert DCPA-2500 security system is designed to detect exclusive movem
 
 - The 50 feet wire that connects the sensor and the probe should be put in an electric conduit from being crushed under the vehicles and should be buried under the driveway. - The probe which is connected by the 50 wire should also be hidden parallel to the driveway. When the transmitter detects activity on the driveway, it sends the signal to the control box and the whistle alarm goes off.
 
-Pros: - Fewer false alarms - Easy to set up Cons: - Severe storm triggers an alarm?
+
+Pros:
+- - Fewer false alarms
+- Easy to set up Cons:
+- Severe storm triggers an alarm?
+
 
 Related: Best Long Range Wireless Driveway Alert System
 
@@ -86,13 +109,27 @@ However, this service comes at a cost.
 
 Like wireless driveway alarms, wired alarms do not need network configuration. Hence, wired driveway alarms are more versatile. - A wired driveway alarm comes with a sensor and a plug-in receiver. - The receiver and the sensors are connected through the wire. The wire should be put in a conduit and then buried under your driveway. As long as the wiring is not hampered, the system will keep working.
 
-Pros: - Reliable system - There will be no interruption in the signal - No maintenance cost - High cost due to cable Cons: - Power outage Disruptions - Might require professional installation?
+
+Pros:
+- - Reliable system
+- There will be no interruption in the signal
+- No maintenance cost
+- High cost due to cable Cons:
+- Power outage Disruptions
+- Might require professional installation?
+
 
 ####  #2: Wireless Driveway Alarms:
 
 Wireless driveway alarms are popular with todays generation.
 
-In this setup, you will have a transmitter along with the sensor and the plug-in receiver. The transmitter sends the signals wirelessly to the receiver. Pros: - No hassle of wires - Less expensive - Easy of installation Cons: - Radio signal could interfere with its functioning and weaken the signal?
+In this setup, you will have a transmitter along with the sensor and the plug-in receiver. The transmitter sends the signals wirelessly to the receiver. 
+Pros:
+- - No hassle of wires
+- Less expensive
+- Easy of installation Cons:
+- Radio signal could interfere with its functioning and weaken the signal?
+
 
 ##  How to choose the best driveway alarm:
 
@@ -107,4 +144,5 @@ Check the [comprehensive guide](https://pestpolicy.com/how-to-select-a-wireless-
 ##  Conclusion
 
 Making the right choice for the Best Driveway Alarms - Wired Options will make a big difference in securing your home. - You can relax and live in peace when you know your property is secured. Make a note of all the features that we have shared and choose the one that perfectly fits your requirements. You can also use this monitoring system for your shop and business.
+
 

@@ -38,9 +38,19 @@ Youll also appreciate that this swing has a plug-in option that greatly saves on
 
 The Snugapuppy Dreams Cradle 'n Swing is the Best high-tech baby swing thanks to its smart connect technology. This technology allows you to control your babys swing features using a mobile device. Thus, you can change the speed, motion, or even activate the sounds of the swing with a touch of a button.
 
-Pros: - High tech swing - Allows for one-touch control with your mobile - Delivers multiple swing speeds and motions - Has a plugin option - Machine washable
 
-Cons: - The motor may produce some noise
+Pros:
+- - High tech swing
+- Allows for one-touch control with your mobile
+- Delivers multiple swing speeds and motions
+- Has a plugin option
+- Machine washable
+
+
+
+Cons:
+- - The motor may produce some noise
+
 
 Also Read: Small Trampolines for Toddlers
 
@@ -58,9 +68,18 @@ More than that, the swing comes with an Adjustable seat recline that allows your
 
 Thus, the baby can lie down completely and relax. The baby can also sit up and play. The three hanging balls at the top provides additional fun.
 
-However, the manufacturer advises that you shouldnt leave the baby unattended. Once they fall asleep, transfer them to their baby court. Pros: - Delivers five different motions - Bluetooth enabled - Allows the use of the mobile phone to control speed and motion - Helps to soothe baby to sleep
+However, the manufacturer advises that you shouldnt leave the baby unattended. Once they fall asleep, transfer them to their baby court. 
+Pros:
+- - Delivers five different motions
+- Bluetooth enabled
+- Allows the use of the mobile phone to control speed and motion
+- Helps to soothe baby to sleep
 
-Cons: - Expensive
+
+
+Cons:
+- - Expensive
+
 
 ###  [3. Fisher-Price Moonlight Cradle 'n Swing](https://www.amazon.com/dp/B00NFETJLY/?tag=p-policy-20)
 
@@ -72,9 +91,18 @@ Youll appreciate the multiple swing speeds and songs that the swing features. It
 
 Other than that, the swing allows for a Two-position recline and 3 adjustable seat positions. This means your baby can change positions from facing right to center, to left. The swing also comes with a convenient button that allows you to adapt to different swing positions.
 
-Furthermore, the Papasan-style seat delivers a deep cozy feeling to the baby. The mobile toys at the top provide additional fun. Pros: - Features SmartSwing Technology - Adjustable seat positions - Delivers a plush snug feeling - Features 6 swing speeds, nature sounds, and 16 songs
+Furthermore, the Papasan-style seat delivers a deep cozy feeling to the baby. The mobile toys at the top provide additional fun. 
+Pros:
+- - Features SmartSwing Technology
+- Adjustable seat positions
+- Delivers a plush snug feeling
+- Features 6 swing speeds, nature sounds, and 16 songs
 
-Cons: - The wide base takes up space
+
+
+Cons:
+- - The wide base takes up space
+
 
 ###  [4. Graco DuoGlider, Percy](https://www.amazon.com/dp/B01MTM3HAW/?tag=p-policy-20)
 
@@ -92,9 +120,19 @@ To find a comfortable and spot for your baby, simply lower the seat using one ha
 
 Other than that, the Graco DuoGlider swing allows you to choose between soothing nature sounds and relaxing baby-friendly melodies.
 
-The weight limit is 5. 5 lbs. to 30 lbs. Pros: - Excellent entertainment features - Best for newborns - Provides support - Comfortable - Continues to glide while in the sleeper position
+The weight limit is 5. 5 lbs. to 30 lbs. 
+Pros:
+- - Excellent entertainment features
+- Best for newborns
+- Provides support
+- Comfortable
+- Continues to glide while in the sleeper position
 
-Cons: - It takes up bigger floor space
+
+
+Cons:
+- - It takes up bigger floor space
+
 
 ###  [5. Nova Baby Swing for Infants](https://www.amazon.com/dp/B08G59WRYD/?tag=p-policy-20)
 
@@ -112,9 +150,20 @@ Furthermore, the swing uses both an AC adapter and battery. Hence, it provides y
 
 Youll also love the mosquito net thats included in this swing. Therefore, you dont have to worry about insects and bugs that cause bites, itches, or rashes. Ensure you zip up the mesh properly to protect your little one.
 
-The swing also requires little space to fit. Thus, it's the best baby swing for small spaces. Pros: - Connects to mobile device - Has lullabies to soothe baby to sleep - Easy to assemble - Has a protective net - Province convenience of moving around - Ideal for small spaces
+The swing also requires little space to fit. Thus, it's the best baby swing for small spaces. 
+Pros:
+- - Connects to mobile device
+- Has lullabies to soothe baby to sleep
+- Easy to assemble
+- Has a protective net
+- Province convenience of moving around
+- Ideal for small spaces
 
-Cons: - Some reviewers complained that it has a low speed
+
+
+Cons:
+- - Some reviewers complained that it has a low speed
+
 
 Also Read: [Best Outdoor Playsets for Toddlers](https://pestpolicy.com/best-outdoor-playsets-for-toddlers/)
 
@@ -128,9 +177,19 @@ Other than that, the swing comes with a deluxe seat and removable head support. 
 
 In addition, the swing has a foldable and portable design that allows you to go anywhere with the baby without worrying about the storage of the swing. The swing is ideal for 6 months old baby and below.
 
-The care instructions for this amazing swing are simple. Use cold water to wash the fabrics, gentle cycle. Dont use bleach. Place the seat pad in the dryer under low heat. Wipe the frame and toys clean. Pros: - TrueSpeed Technology with 6 speeds - Comfortable baby swing - Foldable and portable - Simple care instructions - Seat reclines conveniently
+The care instructions for this amazing swing are simple. Use cold water to wash the fabrics, gentle cycle. Dont use bleach. Place the seat pad in the dryer under low heat. Wipe the frame and toys clean. 
+Pros:
+- - TrueSpeed Technology with 6 speeds
+- Comfortable baby swing
+- Foldable and portable
+- Simple care instructions
+- Seat reclines conveniently
 
-Cons: - Youll need to purchase a battery
+
+
+Cons:
+- - Youll need to purchase a battery
+
 
 ###  [7. Graco Simple Sway Swing](https://www.amazon.com/dp/B00PTL15D6/?tag=p-policy-20)
 
@@ -144,11 +203,21 @@ Besides that, youll love the convenience that this swing provides. You can actua
 
 If you also have limited space this compact baby swing will be an ideal choice. The Graco Simple Sway has a compact frame design that allows it to fit in the smallest places you can imagine.
 
-Some people reported that it was a bit hard to assemble while others complained of clicking noise. Overall, this swing is truly affordable and can be a choice if youre on a budget. Pros: - Budget-friendly - Space saver - Comfy - Can plug it in or use batteries
+Some people reported that it was a bit hard to assemble while others complained of clicking noise. Overall, this swing is truly affordable and can be a choice if youre on a budget. 
+Pros:
+- - Budget-friendly
+- Space saver
+- Comfy
+- Can plug it in or use batteries
 
-Cons: - Low swing speed
+
+
+Cons:
+- - Low swing speed
+
 
 ##  Conclusion
 
 I hope that this review on the best baby swings for sleeping has been helpful. All the swings that I have included on this list are some of the best on the market today. Therefore, choosing either of them will help in soothing your child to sleep.
+
 

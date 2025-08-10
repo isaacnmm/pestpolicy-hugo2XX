@@ -44,9 +44,20 @@ The boot also features a Polyurethane midsole that gives you long-lasting comfor
 
 Comfort -This TIMBERLAND PRO features a 24/7 Comfort Suspension technology that delivers a unique comfort system to give you more responsive wear even in your most rigorous work site. The work shoe gives you arch support while cushioning every stride you make to relieve any foot fatigue. The Timberland Pitboss 6 meets all the electrical hazard standards allowing them to deliver secondary underfoot protection.
 
-Pros: - Amazing Rubber midsole - Features Electrical hazard protection - Antimicrobial lining to safeguard against bacteria - Lace-up closure for a secure fit - Fantastic arch-supporting cushioned footbed. - Delivers comfort and durability
 
-Cons: - None
+Pros:
+- - Amazing Rubber midsole
+- Features Electrical hazard protection
+- Antimicrobial lining to safeguard against bacteria
+- Lace-up closure for a secure fit
+- Fantastic arch-supporting cushioned footbed.
+- Delivers comfort and durability
+
+
+
+Cons:
+- - None
+
 
 
 ###  [3. Timberland PRO Gravel Pit 10" Steel -Toe Waterproof Boot - #3 Pick](https://www.amazon.com/dp/B001GB35KE/?tag=p-policy-20)
@@ -61,9 +72,19 @@ Durability -The Timberland PRO Men's Gravel Pit 10" are built in such a way that
 
 Excellent Outsole - Youll love these work boots Rubber Flex Outsoles which feature ISN Polyurethane to give your underfoot the needed comfort. Further, these boots are praised because of their oil, slip, and abrasion resistance.
 
-Pros: - Resists heat, abrasion, oil, and slips - Ideal for extreme conditions and rugged work environments and offers superior support and stability to feet - Full-grain leather for enhanced durability and delivers excellent antimicrobial treatment to fight off bacteria and germs. - ASTM-approved work boots andExcellent Rubber Outsoles - Electrical hazard-resistant and has Steel-Flex puncture platesprotect you from sharp objects
 
-Cons: - A customer complained about its durability
+Pros:
+- - Resists heat, abrasion, oil, and slips
+- Ideal for extreme conditions and rugged work environments and offers superior support and stability to feet
+- Full-grain leather for enhanced durability and delivers excellent antimicrobial treatment to fight off bacteria and germs.
+- ASTM-approved work boots andExcellent Rubber Outsoles
+- Electrical hazard-resistant and has Steel-Flex puncture platesprotect you from sharp objects
+
+
+
+Cons:
+- - A customer complained about its durability
+
 
 
 ###  [4. Wolverine Men's Steel Toe Raider Boot](https://www.amazon.com/dp/B0016CV3AW/?tag=p-policy-20)
@@ -94,9 +115,17 @@ Wolverine boots are built using state of the art technologies like Wolverine Mul
 
 The rubber toe protector for abrasion-resistance. Perfect Fit and Stability -Youll love the PowerFit technology that these boots have, which gives you a comfortable fit and feel. In addition, the comfort technology has antimicrobial properties with open-cell polyurethane on the underside of the boot that is designed with outstanding Adaptive Comfort covers to allow efficient temperature regulation.
 
-Pros: - Highly breathable - Rubber sole - Full grain leather
 
-Cons: - A customer complained that its not incredibly waterproof
+Pros:
+- - Highly breathable
+- Rubber sole
+- Full grain leather
+
+
+
+Cons:
+- - A customer complained that its not incredibly waterproof
+
 
 
 ##  Conclusion
@@ -106,4 +135,5 @@ Furthermore, the boots feature Interior steel shanks to give needed stability th
 These Gravel Pit mining boots feature steel toes that are approved by ASTM to give you protection against job site hazards.
 
 Check these Running Socks for Marathon. More safety is guaranteed while wearing this boot with the metatarsal guards that are placed inside the boot for added foot protection.
+
 

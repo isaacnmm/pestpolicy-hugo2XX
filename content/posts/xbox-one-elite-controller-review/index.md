@@ -41,11 +41,19 @@ I am sure you are already used to the standard controller layouts, but youll lov
 
 ###  Controller sticks
 
-The analog sticks in Xbox One Elite got the most significant improvement, mainly in how better they glide and their unique switchable stick caps. First, youll definitely love how the sticks glide smoothly and roll from side to side to give you an excellent gaming experience. Read Also: Driveway Alarms Pros: - Easy to customize - Great ergonomics Comfortable to hold - Excellent quality build - Has usable Bumper buttons Cons: - Feels weighty
+The analog sticks in Xbox One Elite got the most significant improvement, mainly in how better they glide and their unique switchable stick caps. First, youll definitely love how the sticks glide smoothly and roll from side to side to give you an excellent gaming experience. Read Also: Driveway Alarms 
+Pros:
+- - Easy to customize
+- Great ergonomics Comfortable to hold
+- Excellent quality build
+- Has usable Bumper buttons Cons:
+- Feels weighty
+
 
 ##  Conclusion
 
 Finally, the Xbox Elite is here with all its great innovations as shown in the Xbox One Elite Controller Review. - However, the controller is considered to favor the gaming experts due to its cost and high level of customization capability. - We love the Xbox Elites customization capability and quality, and aesthetic design. Read Also: [Outdoor Rocking Chairs Reviewed](https://pestpolicy.com/best-outdoor-rocking-chairs/).
 
 If you love the quality, high customizability but do not mind giving some extra dimes, then the Xbox Elite controller is yours for the taking.
+
 

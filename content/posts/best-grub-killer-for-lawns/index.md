@@ -30,9 +30,16 @@ Care should be taken when using this product. It should not be used on the plant
 
 Start off with the borders of your lawn and then move in towards the center.
 
-Walk evenly in the lawn so that you can spread it out at even intervals. After application, you should water thoroughly. Pros: - Works effectively in under 24 hours - Works on a lot of different kinds of pests
+Walk evenly in the lawn so that you can spread it out at even intervals. After application, you should water thoroughly. 
+Pros:
+- - Works effectively in under 24 hours
+- Works on a lot of different kinds of pests
 
-Cons: - Might need more than one application for good results
+
+
+Cons:
+- - Might need more than one application for good results
+
 
 
 ###  [2. Scotts GrubEx - Grub Killer & Preventer - 5000 sq feet](https://www.amazon.com/dp/B0050DV4ZW/?tag=p-policy-20)
@@ -41,9 +48,18 @@ This is an excellent product that you can use to get rid of the grubs in your la
 
 Applying it once can help you get rid of grubs for four entire months. To get the most out of this product, you should apply it in the spring season or the early summer months. By making use of this product, you can get rid of the grubs in your garden without actually having to damage your lawn in any way. The ideal way to use this product is first to set and fill the spreader. After that, slowly apply this to your dry law.
 
-For activation, you need to water thoroughly so that one-inch of your lawn is soaked. After that, you can clean the mess and sweep away any extra product on the property. Pros: - One application can do the job well. - Does not cause any root damage - Kills grubs when they are young, thus preventing turf damage - Can kill 25% more grubs types than other products
+For activation, you need to water thoroughly so that one-inch of your lawn is soaked. After that, you can clean the mess and sweep away any extra product on the property. 
+Pros:
+- - One application can do the job well.
+- Does not cause any root damage
+- Kills grubs when they are young, thus preventing turf damage
+- Can kill 25% more grubs types than other products
 
-Cons: - Is only compatible with Scotts Spreaders
+
+
+Cons:
+- - Is only compatible with Scotts Spreaders
+
 
 Related: Best Fogger for Spiders
 
@@ -53,9 +69,17 @@ This is an excellent product for killing grubs. And not only that, it can kill o
 
 All you need to do is shake it and then apply a skinny layer onto your garden. You don't even need to add in any water or mix it to get the job done. It can also kill Japanese beetles. If you're looking for quick service, you'll be pleased to know that this product can make your garden insect-free in the least amount of time. While the product is safe for plants, you should use gloves as a precaution.
 
-In case you have lettuce in your garden, and you have used this product on them, then you need to make sure that you wash the lettuce thoroughly and dont consume it for at least three days. Users of this product have rated it is a five-star product with a rating of 73%. Pros: - Can kill over 65 insects - Can be used in home gardens where fruits and vegetables are planted - Extremely easy and convenient to use
+In case you have lettuce in your garden, and you have used this product on them, then you need to make sure that you wash the lettuce thoroughly and dont consume it for at least three days. Users of this product have rated it is a five-star product with a rating of 73%. 
+Pros:
+- - Can kill over 65 insects
+- Can be used in home gardens where fruits and vegetables are planted
+- Extremely easy and convenient to use
 
-Cons: - One application will not give you the desired results
+
+
+Cons:
+- - One application will not give you the desired results
+
 
 
 ###  [4. Pest Control Concentrate By Sevin, 1-Gallon](https://www.amazon.com/dp/B000RNEYBG/?tag=p-policy-20)
@@ -66,9 +90,17 @@ However, this product can deal with many more types of insects. It is capable of
 
 Once you do this, you will have 86 gallons of treatment, which can cover two acres!
 
-If your goal is to cover an expansive area all at once, then this treatment is the best treatment product for you. Given the fact that this is more expensive than other products, it is economical if you want to cover a vast area. Pros: - Can kill over 100 insect species - 86 gallons of treatment means that you can cover a large area - Easy to use
+If your goal is to cover an expansive area all at once, then this treatment is the best treatment product for you. Given the fact that this is more expensive than other products, it is economical if you want to cover a vast area. 
+Pros:
+- - Can kill over 100 insect species
+- 86 gallons of treatment means that you can cover a large area
+- Easy to use
 
-Cons: - More expensive than other products on the market
+
+
+Cons:
+- - More expensive than other products on the market
+
 
 Related: [Best Fire Ant Killer](https://pestpolicy.com/best-fire-ant-killer/)
 
@@ -80,9 +112,18 @@ You can make use of this product in any weather. But, the fact of the matter is 
 
 It is definitely worth the price because it can cover a large area.
 
-Pros: - Covers a large area - It can help get rid of pests for 15 years. In best-case scenarios, it can get rid of pets for up to 20 years. - Easy to use
 
-Cons: - Much more expensive than other products on the market - Only works well for Japanese beetles
+Pros:
+- - Covers a large area
+- It can help get rid of pests for 15 years. In best-case scenarios, it can get rid of pets for up to 20 years.
+- Easy to use
+
+
+
+Cons:
+- - Much more expensive than other products on the market
+- Only works well for Japanese beetles
+
 
 
 ###  [6. Garden Safe's Neem Oil Extract (HG-83179)](https://www.amazon.com/dp/B004QAWGIO/?tag=p-policy-20)
@@ -91,9 +132,16 @@ This is also a natural treatment that you can get at a discounted price. It is r
 
 It makes use of a miticide, an insecticide, and a fungicide. When using this product, you should make sure that you don't use it on fresh plants that you intend to use for consumption. That can be dangerous for you. For ideal results, it is recommended that you use this product in the early hours of the morning, or you can even apply it late at night. You can use it once a week or once every two weeks to achieve the best results.
 
-Adding to that, almost 66% of people who used this product gave it a rating of five stars, which shows that customers are happy with the results they see. Pros: - Natural method - Easy to use
+Adding to that, almost 66% of people who used this product gave it a rating of five stars, which shows that customers are happy with the results they see. 
+Pros:
+- - Natural method
+- Easy to use
 
-Cons: - Slightly expensive
+
+
+Cons:
+- - Slightly expensive
+
 
 
 ###  [7. Dr. Pye's Scanmask  A Grub Killer with Beneficial Nematodes](https://www.amazon.com/dp/B000MRD5JO/?tag=p-policy-20)
@@ -104,9 +152,18 @@ It is also extremely environmentally-friendly. It is known to have the ability t
 
 To make sure that this product works well and gives the desired results, storing it in a refrigerator is the way to go.
 
-Pros: - Can kill grubs in a natural way - Environment-friendly - Kills over 23 species of insects - Extremely easy to use
 
-Cons: - Takes a while for you to get rid of the grubs (approximately 4 months)
+Pros:
+- - Can kill grubs in a natural way
+- Environment-friendly
+- Kills over 23 species of insects
+- Extremely easy to use
+
+
+
+Cons:
+- - Takes a while for you to get rid of the grubs (approximately 4 months)
+
 
 
 ##  Conclusion
@@ -116,4 +173,5 @@ The product that you buy for the treatment of grubs in your lawn depends on your
 ##  Sources:
 
 1. [Grub Control - Extension](https://extension.unh.edu/resource/grub-control-video)2. [Is it too late to treat for white grubs? Horticulture and Home](https://hortnews.extension.iastate.edu/2008/9-10/grubs.html)3. [Grub Control - Blue Grass Enterprises](https://static1.squarespace.com/static/50a39d4ce4b0f822f291399c/t/56b385743c44d86cf333fd78/1454605687028/Grub+Control.pdf)
+
 

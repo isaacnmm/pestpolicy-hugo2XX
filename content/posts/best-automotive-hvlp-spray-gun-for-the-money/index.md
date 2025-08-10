@@ -32,9 +32,26 @@ Also, the compressor comes with a pressure regulator and gauge display to allow 
 
 You dont need any support (reduce vibrational movement) while painting since this product generates minimum vibration and noise thats within the acceptable standards. Importantly, Wagner Spraytech comes with relatively long (39 feet) and flexible hosepipe that gives you complete maneuverability while painting.
 
-Pros: - Dual adjustable nozzles - Flexible and long hosepipe 39 feet - High pressure controllable compressor - External spray attachments for various colors - Flashpoint application options - Highly portable lightweight - Minimum vibrations and low noise generation - Long-lasting -Sturdy Metal casing - Impressive design and low maintenance cost - Multiple material spray and easier to use - Simple trigger and siphon canister
 
-Cons: - Slightly smaller canister - Unsuitable for very lager painting task
+Pros:
+- - Dual adjustable nozzles
+- Flexible and long hosepipe 39 feet
+- High pressure controllable compressor
+- External spray attachments for various colors
+- Flashpoint application options
+- Highly portable lightweight
+- Minimum vibrations and low noise generation
+- Long-lasting -Sturdy Metal casing
+- Impressive design and low maintenance cost
+- Multiple material spray and easier to use
+- Simple trigger and siphon canister
+
+
+
+Cons:
+- - Slightly smaller canister
+- Unsuitable for very lager painting task
+
 
 
 ###  [2. Fuji 2202 Semi-PRO 2 HVLP Spray](https://www.amazon.com/dp/B00D4NPMJE/?tag=p-policy-20)
@@ -51,9 +68,28 @@ The ergonomic crisp stay trigger is correctly fixed for maximum control action a
 
 Notably, Fuji canister is made using high quality stainless steel thus making it suitable for both solvent based and waterborne coatings.
 
-Pros: - Lightweight and portable - Super-powerful motor 1400 Watts - Powerful 2-stage compressor - Adjustable control knobs small to wide incremental - Long and flexible hosepipe 25 feet - Suitable for all paint coatings - Sturdy metallic frame and casing - Impressive design and color - Easy to disassemble and clean - Multiple canister sizes - Not corrosive stainless steel canister - Ideal for solvent based and waterborne coatings - Precise application adjustable nozzle needle
 
-Cons: - May clog the nozzle needle - Challenges with very thick paints
+Pros:
+- - Lightweight and portable
+- Super-powerful motor 1400 Watts
+- Powerful 2-stage compressor
+- Adjustable control knobs small to wide incremental
+- Long and flexible hosepipe 25 feet
+- Suitable for all paint coatings
+- Sturdy metallic frame and casing
+- Impressive design and color
+- Easy to disassemble and clean
+- Multiple canister sizes
+- Not corrosive stainless steel canister
+- Ideal for solvent based and waterborne coatings
+- Precise application adjustable nozzle needle
+
+
+
+Cons:
+- - May clog the nozzle needle
+- Challenges with very thick paints
+
 
 ###  [3. Devilbiss Finishline 4 FLG-670](https://www.amazon.com/dp/B007N69IRA/?tag=p-policy-20)
 
@@ -65,9 +101,25 @@ Devilbiss Finishline has a fantastic adjustable airflow valve with a dial gauge 
 
 The precision machine air cup and adjustable fluid nozzles are connected excellently to allow maximum surface cover while painting. Moreover, Devilbiss Finishline lightweight casing assembly reduces its overall weight (1. 5 pounds) thus making it highly portable.
 
-Pros: - Gravity feed paint gun and Adjustable fluid nozzles - High quality final finish and Lightweight 1. 5 pounds - Great flow rate- has adjustable airflow valve - Easier to clear has anodizing casing - Durable has aluminum cup - Large surface painting 900cc canister - Accustomed with atomizing technology - Multiple fluid tips - 1. 3mm, 1. 5mm & 1. 8mm - High CPM and PSI
 
-Cons: - Slightly expensive as a single kit - Requires a compressor
+Pros:
+- - Gravity feed paint gun and Adjustable fluid nozzles
+- High quality final finish and Lightweight 1. 5 pounds
+- Great flow rate- has adjustable airflow valve
+- Easier to clear has anodizing casing
+- Durable has aluminum cup
+- Large surface painting 900cc canister
+- Accustomed with atomizing technology
+- Multiple fluid tips
+- 1. 3mm, 1. 5mm & 1. 8mm
+- High CPM and PSI
+
+
+
+Cons:
+- - Slightly expensive as a single kit
+- Requires a compressor
+
 
 
 ###  [4. Fuji 2903-T70 PLATINUM](https://www.amazon.com/dp/B00D4NPMKI/?tag=p-policy-20)
@@ -82,9 +134,25 @@ Indeed, the spray nozzle is specially designed to deliver unparalleled performan
 
 Importantly, Fuji Platinum comes with a long (25 feet), skink free flex hosepipe that would not only give you a large area access, but also remain flexible at various temperatures for many years.
 
-Pros: - Powerful 3-stage turbine bypass motor - Large bottom feed siphon canister - Classic non-bleed nozzle no paint accumulation - Excellent output- 6. 5 PSI - Easier to clean and maintain - Long, skink free and flexible hosepipe 25 feet - Stay cool handle and adjustable know - Noise reduction cover muffle - T-model HVLP turbine spray and Easier to assemble - Highly portable all in one - Impressive design and performance
 
-Cons: - Relatively high cost
+Pros:
+- - Powerful 3-stage turbine bypass motor
+- Large bottom feed siphon canister
+- Classic non-bleed nozzle no paint accumulation
+- Excellent output- 6. 5 PSI
+- Easier to clean and maintain
+- Long, skink free and flexible hosepipe 25 feet
+- Stay cool handle and adjustable know
+- Noise reduction cover muffle
+- T-model HVLP turbine spray and Easier to assemble
+- Highly portable all in one
+- Impressive design and performance
+
+
+
+Cons:
+- - Relatively high cost
+
 
 ###  [5. Thunder Hardware 4001J](https://www.amazon.com/dp/B076YDPCX1/?tag=p-policy-20)
 
@@ -98,9 +166,26 @@ The spray gun also has an adjustable nozzle that helps handle light to a massive
 
 Importantly, this pray gun dont clog the nozzle and would handle a wide range of paints without stopping to change come in various can sizes to select from.
 
-Pros: - High performance- no clogging - smooth final surface finish - Large canister and simple pull trigger - Can handle variety of colors come in various sizes - Has adjustable knob - Sturdy, stainless steel cup no corrosion/durable - Can handle 7-11 CPM compressor effectively - Convertible trigger handle can be held at different angle - Highly stable- can stand on its base when painting - Highly portable flexible hold gun - Versatile and multipurpose
 
-Cons: - Doesnt come with the compressor - Not suitable for very large project
+Pros:
+- - High performance- no clogging
+- smooth final surface finish
+- Large canister and simple pull trigger
+- Can handle variety of colors come in various sizes
+- Has adjustable knob
+- Sturdy, stainless steel cup no corrosion/durable
+- Can handle 7-11 CPM compressor effectively
+- Convertible trigger handle can be held at different angle
+- Highly stable- can stand on its base when painting
+- Highly portable flexible hold gun
+- Versatile and multipurpose
+
+
+
+Cons:
+- - Doesnt come with the compressor
+- Not suitable for very large project
+
 
 
 ###  [6. REXBETI Ultimate-750](https://www.amazon.com/dp/B07DLR5FK2/?tag=p-policy-20)
@@ -115,9 +200,25 @@ Also, they can have an excellent ergonomic shape that makes it stand nicely on i
 
 Notably, this product is a full package (wont require any external compressor) and comes with adjustable control knob.
 
-Pros: - Lightweight and durable - Budget friendly and portable - Low power consumption efficient - Powerful 500 watts motor and 750-paint sprayers - 3-impressive patterns and angular rotation - Adjustable nozzle and 3 nozzle sizes - Large spray canister 1000ml - Easier to clean and disassemble - Comfortable handle and simple trigger - Classic design and impressive graphics/color - Doesnt require any external compressor
 
-Cons: - Needs longer electric cord
+Pros:
+- - Lightweight and durable
+- Budget friendly and portable
+- Low power consumption efficient
+- Powerful 500 watts motor and 750-paint sprayers
+- 3-impressive patterns and angular rotation
+- Adjustable nozzle and 3 nozzle sizes
+- Large spray canister 1000ml
+- Easier to clean and disassemble
+- Comfortable handle and simple trigger
+- Classic design and impressive graphics/color
+- Doesnt require any external compressor
+
+
+
+Cons:
+- - Needs longer electric cord
+
 
 ###  [7. 3M Accuspray Spray System](https://www.amazon.com/dp/B01497MZB6/?tag=p-policy-20)
 
@@ -131,9 +232,26 @@ The spray gun comes in an impressive design that is detachable and will allow ea
 
 This spray gun is fitted with robust micro filters that reduce nozzle clogging and would easily handle a variety of colors without any interruptions. Indeed, the spray gun allows 360-degree end rotation and thus allows multiple angle positioning when painting. Importantly, 3M Accuspray comes with gain trigger and will effectively hand 13 CPM compressor that runs at 20 PSI without any fatigue.
 
-Pros: - Impressive design and color - Adjustable knob and simple pull trigger - 5 disposable cups and liners - Strong micro filters and air flow valve - Compatible with PPS and PPS2 - Simple assembly and easier to clean - Anti-vibratory handle and 360 angle rotation - Large calibrated canister -20 ounces - Adjustable nozzles with various shapes and sizes - Can handle 13 CPM compressor at 20 PSI - Portable and gravity fed canister
 
-Cons: - Doesnt come with compressor - Plastic cups are not as strong as metallic ones
+Pros:
+- - Impressive design and color
+- Adjustable knob and simple pull trigger
+- 5 disposable cups and liners
+- Strong micro filters and air flow valve
+- Compatible with PPS and PPS2
+- Simple assembly and easier to clean
+- Anti-vibratory handle and 360 angle rotation
+- Large calibrated canister -20 ounces
+- Adjustable nozzles with various shapes and sizes
+- Can handle 13 CPM compressor at 20 PSI
+- Portable and gravity fed canister
+
+
+
+Cons:
+- - Doesnt come with compressor
+- Plastic cups are not as strong as metallic ones
+
 
 
 ##  Conclusion
@@ -143,4 +261,5 @@ Beautiful paint surface finish in automotive works can only be achieved by selec
 Its essential to consider the adjustability of the nozzle, canister size, fan paint diameter, power source as well as the cleaning options before placing your order.
 
 Importantly, you need to consider a spray gun that is within your budget plan without overlooking the main features.
+
 

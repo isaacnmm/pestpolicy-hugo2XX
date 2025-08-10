@@ -28,9 +28,17 @@ It is the perfect tool for tackling medium and large yards and gardens. Sun Joe 
 
 If you are looking for a good tiller at hand, you might want to take this champion tiller into consideration.
 
-Pros: - Dual rotating tine capability allows the user to switch between forward and reverse movements easily - It has a powerful engine - Highly maneuverable and easy to use
 
-Cons: - It is relatively expensive to other tillers embodying the same features.
+Pros:
+- - Dual rotating tine capability allows the user to switch between forward and reverse movements easily
+- It has a powerful engine
+- Highly maneuverable and easy to use
+
+
+
+Cons:
+- - It is relatively expensive to other tillers embodying the same features.
+
 
 ###  [2. Earthwise TC70016 16-Inch Electric Tiller or Cultivator](https://www.amazon.com/dp/B06Y2DMBF4/?tag=p-policy-20)
 
@@ -42,9 +50,21 @@ A quality cast iron shield protects the user from flying debris. It has four ste
 
 This tiller remains an attractive choice for gardeners throughout the year.
 
-Pros: - The tillers ergonomic handle grips help in protecting the user from blisters. - It weighs just 25 pounds - It features self-sharpening tines - It is budget-friendly - It can handle both light and heavy tasks - Eco-friendly
 
-Cons: - Its blades dont rotate counterclockwise - Earthwises electric tillers cutting depth is non-adjustable
+Pros:
+- - The tillers ergonomic handle grips help in protecting the user from blisters.
+- It weighs just 25 pounds
+- It features self-sharpening tines
+- It is budget-friendly
+- It can handle both light and heavy tasks
+- Eco-friendly
+
+
+
+Cons:
+- - Its blades dont rotate counterclockwise
+- Earthwises electric tillers cutting depth is non-adjustable
+
 
 ###  [3. Southland SRTT196E 196cc OHV Engine 18 in. Rear Tine Rotary Tiller](https://www.amazon.com/dp/B00BIY0DLS/?tag=p-policy-20)
 
@@ -54,9 +74,19 @@ The Southland SRTT196 can move in both forward and reverse directions allowing f
 
 This gas-powered tool has a simple start-up mechanism facilitated by an easy recoil start. The counter-rotating feature of the Southland SRTT196E enables the equipment to break through the new ground with ease. It features heavy-duty pneumatic tires that are capable of plowing through all forms of terrain. This brand is no doubt one of the best choices for gardeners seeking to buy a reliable tiller for breaking new ground.
 
-Pros: - It is capable of breaking ground even in the most difficult terrain - A manual recoil start system facilitates efficient fuel delivery - It is powered by a 4-cycle 212cc OHV engine which generates enough power to break through the new ground with ease - This model has self-sharpening tines which allow the user to till while maintaining blade edge at the same time - It has counter-rotating tines
 
-Cons: - Relatively expensive for first time buyers
+Pros:
+- - It is capable of breaking ground even in the most difficult terrain
+- A manual recoil start system facilitates efficient fuel delivery
+- It is powered by a 4-cycle 212cc OHV engine which generates enough power to break through the new ground with ease
+- This model has self-sharpening tines which allow the user to till while maintaining blade edge at the same time
+- It has counter-rotating tines
+
+
+
+Cons:
+- - Relatively expensive for first time buyers
+
 
 ###  [4. Husqvarna CRT900L, 17 rear tine tiller - Editor's New Ground Tiller](https://www.amazon.com/dp/B00BIY0DLS/?tag=p-policy-20)
 
@@ -66,9 +96,17 @@ Husqvarna rear tine tiller has counter-rotating tines, which are ideal for prepa
 
 It comes equipped with chevron tires, which provide excellent traction on different terrains.
 
-It is easy to drive, powerful, and very well-balanced. It features seven-depth adjustments that facilitate incredible tilling versatility. Its 205cc engine provides the optimal capability for performing heavy-duty tasks. Thus, this model is considered a wise choice. Pros: - It has a high-powered engine - Features counter-rotating tines - It comes equipped with excellent after-market tires
+It is easy to drive, powerful, and very well-balanced. It features seven-depth adjustments that facilitate incredible tilling versatility. Its 205cc engine provides the optimal capability for performing heavy-duty tasks. Thus, this model is considered a wise choice. 
+Pros:
+- - It has a high-powered engine
+- Features counter-rotating tines
+- It comes equipped with excellent after-market tires
 
-Cons: - Relatively expensive for hobbyist gardeners
+
+
+Cons:
+- - Relatively expensive for hobbyist gardeners
+
 
 ###  [5. Earthquake 20908 Badger Full-Size front tine tiller](https://www.amazon.com/dp/B00TTNO7E4/?tag=p-policy-20)
 
@@ -78,9 +116,20 @@ In an extended position, the tillers center of gravity is lowered to allow for i
 
 This is the model to go for if you are looking for rugged durability in a front tine tiller.
 
-This is a high-performance gardening tool powered by a Kohler 4 cycle XT675 series gas engine. Pros: - One of the lightest front-tine tillers which facilitates ease of movement - Rugged durability - Powerful and high performance - Highly stable - Excellent deep tilling in-row performance
+This is a high-performance gardening tool powered by a Kohler 4 cycle XT675 series gas engine. 
+Pros:
+- - One of the lightest front-tine tillers which facilitates ease of movement
+- Rugged durability
+- Powerful and high performance
+- Highly stable
+- Excellent deep tilling in-row performance
 
-Cons: - It may not be powerful enough for dense hardpan soils - Assembly instructions are hard to follow
+
+
+Cons:
+- - It may not be powerful enough for dense hardpan soils
+- Assembly instructions are hard to follow
+
 
 ###  [6. Poulan Pro PPCRT17 Rear-Tine Tiller - 208 cc](https://www.amazon.com/dp/B019DY7J8O/?tag=p-policy-20)
 
@@ -90,9 +139,19 @@ An adjustable depth lever enables users to control the speed and to till the dep
 
 It has a working width of 17 inches and a working depth of 6. 5 inches. Poulan Pro PPCRT17 is equipped with a powerful LCT valve engine that is designed to run efficiently in the long term. Its adjustable split loop handles facilitate user handling. The self-drive forward and reverse functionalities facilitate both the movement and maneuverability of the tiller.
 
-Poulans powerful engine complements its solid frame construction which makes the model the perfect choice for different heavy-duty tasks. With a 17-inch width span, even the toughest new ground is reduced to fine soil. Pros: - Highly flexible as it can be used in both light and large-scale tilling tasks - It has excellent tilling capabilities - Easy to maneuver and move about - It comes equipped with a durable engine
+Poulans powerful engine complements its solid frame construction which makes the model the perfect choice for different heavy-duty tasks. With a 17-inch width span, even the toughest new ground is reduced to fine soil. 
+Pros:
+- - Highly flexible as it can be used in both light and large-scale tilling tasks
+- It has excellent tilling capabilities
+- Easy to maneuver and move about
+- It comes equipped with a durable engine
 
-Cons: - It is relatively expensive - It has a limited 2-year warranty
+
+
+Cons:
+- - It is relatively expensive
+- It has a limited 2-year warranty
+
 
 ###  [7. Mantis 7920 2-cycle tiller cultivator](https://www.amazon.com/dp/B00BIY0DLS/?tag=p-policy-20)
 
@@ -102,9 +161,19 @@ It features a tool-less air filter access and has a lifetime warranty on tines b
 
 A five-year residential warranty and two years for commercial use attest to the durability of this tiller. User feedback suggests that this tiller is not ideal for breaking new grounds, but it performs well in precision weeding, cultivating, and digging. A 2-cycle commercial engine is conveniently installed above the tines for maximum tilling and digging power. It is perfect for tilling small gardens and raised flower beds.
 
-This model has a tilling width of 9 inches and can dig up to 10 inches deep. Its soft flared grips make it convenient to operate the tiller. A built-in carry mechanism facilitates convenient lifting. Folding handles facilitate the storage and movement of the tiller. Pros: - Lightweight - It is equipped with a strong engine - It is equipped with heavy-duty and durable tines - It features a quality depth regulator
+This model has a tilling width of 9 inches and can dig up to 10 inches deep. Its soft flared grips make it convenient to operate the tiller. A built-in carry mechanism facilitates convenient lifting. Folding handles facilitate the storage and movement of the tiller. 
+Pros:
+- - Lightweight
+- It is equipped with a strong engine
+- It is equipped with heavy-duty and durable tines
+- It features a quality depth regulator
 
-Cons: - Relatively expensive - Some users complain that it is unsuitable for breaking new ground
+
+
+Cons:
+- - Relatively expensive
+- Some users complain that it is unsuitable for breaking new ground
+
 
 ##  Considerations for Best Tiller for Breaking New Ground
 
@@ -131,4 +200,5 @@ Look out for numerous gadgets that are available in the market for converting ti
 ##  Conclusion
 
 When it comes to breaking up soil, a full-size rear tine is considered ideal for completing the job well. - From the above list, I would choose Earthwise TC70001 11-Inch Electric Tiller/Cultivator because it is eco-friendly, it can easily break through the new ground, and it has many great reviews.
+
 

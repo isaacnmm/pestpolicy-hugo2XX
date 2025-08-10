@@ -26,9 +26,19 @@ Whats more? You dont have to break your sweat starting this tiller due to the co
 
 - It can dig up to 6 inches and also features an unbeatable handle design that guarantees user comfort when tilling through hard clay soil. The tillers foldable handle is just what you need if you do not have enough room for storing it. This clay soil tiller will also help you reduce your carbon footprint since it is electrically powered. This tool is designed to pierce through the toughest grounds.
 
-Pros: - Easily maneuverable - Powerful and comfortable to handle - Environmental friendly - It comes equipped with safety features - It saves you the hassle of mixing oil and gas
 
-Cons: - Its tines tend to get clogged easily
+Pros:
+- - Easily maneuverable
+- Powerful and comfortable to handle
+- Environmental friendly
+- It comes equipped with safety features
+- It saves you the hassle of mixing oil and gas
+
+
+
+Cons:
+- - Its tines tend to get clogged easily
+
 
 Related: Best Tiller for Hard Soil
 
@@ -40,9 +50,17 @@ It features four 8-inch rotating tines, which is just what you need to scour thr
 
 The Greenworks 27072 8 Amp corded tiller has a tilling width of 8-10 inches and an adjustable tilling depth of up to 5 inches.
 
-The adjustable tilling depth feature will help you churn out the hardened soil better. This tool has reduced noise levels, guaranteeing you a quiet operation each time. However, some users have complained that this unit tends to overheat when used for prolonged periods of time. Pros: - It features forward rotating tines which help in eliminating stuck weeds - It features a collapsible handle - Less noisy
+The adjustable tilling depth feature will help you churn out the hardened soil better. This tool has reduced noise levels, guaranteeing you a quiet operation each time. However, some users have complained that this unit tends to overheat when used for prolonged periods of time. 
+Pros:
+- - It features forward rotating tines which help in eliminating stuck weeds
+- It features a collapsible handle
+- Less noisy
 
-Cons: - It tends to overheat over prolonged hours of use
+
+
+Cons:
+- - It tends to overheat over prolonged hours of use
+
 
 ###  [3. Earthwise 11-inch 8.5 amps corded electric front tine tiller](https://www.amazon.com/Earthwise-TC70001-11-Inch-Electric-Cultivator/dp/B004H4X6Z6)
 
@@ -50,9 +68,18 @@ This is the ultimate tool to go for if you are looking for both an electric till
 
 This Earthwise electric tiller features dual four-blade steel tines and generates enough power to plow through-hardened clay soils. With a cutting width of 11 inches and a tilling depth of 8 inches, the Earthwise corded 8. 5-Amp does the hard work for you by optimizing your gardening efforts. - This units compact and sleek design will appeal to gardening enthusiasts' sense of style while providing excellent performance.
 
-- This front tine tiller is just what you need to get that clay soil ready precisely how need it. It features a slightly higher price tag but offers more comfort to the user because it does not need an extension cord as you push it along allowing you to cover more ground. Pros: - Features an ergonomic handling grip for increased user comfort - It has a powerful motor (8. 5-Amp) - Compact design eases portability and storage
+- This front tine tiller is just what you need to get that clay soil ready precisely how need it. It features a slightly higher price tag but offers more comfort to the user because it does not need an extension cord as you push it along allowing you to cover more ground. 
+Pros:
+- - Features an ergonomic handling grip for increased user comfort
+- It has a powerful motor (8. 5-Amp)
+- Compact design eases portability and storage
 
-Cons: - It requires some assembly before usage - It has a higher price tag
+
+
+Cons:
+- - It requires some assembly before usage
+- It has a higher price tag
+
 
 ###  [4. Scotts TC70135S 13.5-Amp front-tine tiller](https://www.amazon.com/dp/B07JVKYC87/?tag=p-policy-20)
 
@@ -64,9 +91,19 @@ This is the tool to go for if you are dealing with clay soil given its excellent
 
 You might want to consider picking the right tool whose tines do not break or fold when they encounter hardened or wet clay soil. The Scotts 16 corded tiller is a piece of heavy-duty equipment that will serve all your tilling and cultivation needs. This unit features two heavily trended wheels that aid in maneuverability in wet clay soil.
 
-Pros: - Propelled by a powerful 13. 5-Amp motor - Its engine has a built-in overload protection - It is light in weight and easy to operate - 6 tines help in tilling through hardened ground - Heavy duty and highly durable equipment
 
-Cons: - It is corded and could limit your movement in larger areas
+Pros:
+- - Propelled by a powerful 13. 5-Amp motor
+- Its engine has a built-in overload protection
+- It is light in weight and easy to operate
+- 6 tines help in tilling through hardened ground
+- Heavy duty and highly durable equipment
+
+
+
+Cons:
+- - It is corded and could limit your movement in larger areas
+
 
 ###  [5. Mantis electric tiller](https://www.amazon.com/dp/B078HJKM6D/?tag=p-policy-20)
 
@@ -78,9 +115,19 @@ Its compact size allows it to fit into any garden size. 16 strong steel tines de
 
 Handling this tiller is made easy by comfortable cushioned hand grips.
 
-The controls are conveniently positioned at the fingertips for ease of operation. Pros: - Easily portable - It is quiet and powerful - It has an easy start mechanism - It features self-sharpening tines - Foldable handles ease in storage
+The controls are conveniently positioned at the fingertips for ease of operation. 
+Pros:
+- - Easily portable
+- It is quiet and powerful
+- It has an easy start mechanism
+- It features self-sharpening tines
+- Foldable handles ease in storage
 
-Cons: - Its engine has a limited warranty (2 years)
+
+
+Cons:
+- - Its engine has a limited warranty (2 years)
+
 
 ###  [6. Sun Joe TJ602E](https://www.amazon.com/dp/B01DTIC0ES/?tag=p-policy-20)
 
@@ -90,9 +137,17 @@ This unit conquers the toughest grounds and will till for a depth of 8 inches an
 
 Its four steel tines are highly durable and are guaranteed to provide excellent performance over time.
 
-This unit offers you the double functionality of a tiller and a cultivator. Its ergonomic grip handles will help you ease through that hardened ground with ease. This is the ideal choice for suburban gardeners because it is quiet during operation as compared to others in its class. Pros: - It offers a quiet but powerful performance - Adjustable wheel height feature (3-position) eases movement - It can be conveniently stored and transported
+This unit offers you the double functionality of a tiller and a cultivator. Its ergonomic grip handles will help you ease through that hardened ground with ease. This is the ideal choice for suburban gardeners because it is quiet during operation as compared to others in its class. 
+Pros:
+- - It offers a quiet but powerful performance
+- Adjustable wheel height feature (3-position) eases movement
+- It can be conveniently stored and transported
 
-Cons: - It tends to run off on very hard ground
+
+
+Cons:
+- - It tends to run off on very hard ground
+
 
 ###  [7. AAVIX AGT307 13 electric tiller/cultivator](https://www.amazon.com/dp/B01CVOVMFE/?tag=p-policy-20)
 
@@ -104,9 +159,18 @@ This unit handles excellently and its motor power is sufficient to plow through 
 
 Its wheels can be raised or lowered with ease without using any tools. The AAVIX AGT307 features a sturdy design that provides a comfortable grip and leads to improved handling. This tiller will provide efficient tilling performance in your hardened soil by turning up soil in preparation for planting.
 
-Pros: - It features a reliable 10-Amp motor - It has fast tine speed to help you ease into hardened soil - It has a comfortable grip and excellent handling - Its handle release feature also serves as a user safety feature
 
-Cons: - Not ideal for first-time users tilling the hard ground
+Pros:
+- - It features a reliable 10-Amp motor
+- It has fast tine speed to help you ease into hardened soil
+- It has a comfortable grip and excellent handling
+- Its handle release feature also serves as a user safety feature
+
+
+
+Cons:
+- - Not ideal for first-time users tilling the hard ground
+
 
 Related: Best Rear Tine Tiller
 
@@ -145,4 +209,5 @@ Other factors worth considering include ease of use, maintenance costs, and safe
 ##  Conclusion
 
 If you are looking for an electric tiller for clay soil, the above list contains affordably priced, versatile and comfortable to use tools. Electric tillers are lighter and compact as compared to gas-powered models. The Scotts TC70135S 13. 5 tiller stands out from others in its class given its relatively stronger engine and durable tilling tines.
+
 

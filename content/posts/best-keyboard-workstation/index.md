@@ -31,9 +31,18 @@ For example, it's possible to customize and equally save you're the settings for
 
 You'll get six clickable knobs that have high-resolution great for editing below the workstation's screen. Further, on the front panel, you'll get effect, envelope, filter, and oscillator controls. Further, for great step-sequencing, it comes with 16 step buttons that have the TR8-style - these will get you to the sixteen instrument categories allowing faster performing and editing.
 
-Pros: - For hands-on control, you'll get the eight faders having LED-ring dials, two wheels, and several assignable switches. - Comes with many audio channels - Excellent effects, sampling, sequencing, and step LFOs - Clear touchscreen plus an excellent build
 
-Cons: - Costly workstation
+Pros:
+- - For hands-on control, you'll get the eight faders having LED-ring dials, two wheels, and several assignable switches.
+- Comes with many audio channels
+- Excellent effects, sampling, sequencing, and step LFOs
+- Clear touchscreen plus an excellent build
+
+
+
+Cons:
+- - Costly workstation
+
 
 https://youtu.be/ELYQKUdIaygRead Also: Laptop for Video Editing
 
@@ -45,13 +54,20 @@ It has the 128-note polyphony that is okay for professionals - Vocoder, Audio Re
 
 It offers impressive control with pads & knobs for the great experience - you'll love 120-note polyphony and 1000+ preset fills. Korg Kross 2-61 ha an excellent layout that's great for your live performance. You can assign the favorite sounds using the available 16 (A to H) sampling pads. It reduces the need for scrolling - you can control the Tempo, Audio, FX, and Tone using the Real-Time Controller Knobs that's located on the left side.
 
-The innovative piano engine comes with new piano tones, including the Berlin Grand. You'll get nine unique sound engines plus preset sounds totaling to about 21GB! Pros: - You'll get the open sampling system plus an audio recorder or the MIDI sequencer (16-track), and hence it'll be easy to record your stuff. - Korg Kross 2-61 has weighted keys that are great for editing your velocity curve.
+The innovative piano engine comes with new piano tones, including the Berlin Grand. You'll get nine unique sound engines plus preset sounds totaling to about 21GB! 
+Pros:
+- - You'll get the open sampling system plus an audio recorder or the MIDI sequencer (16-track), and hence it'll be easy to record your stuff.
+- Korg Kross 2-61 has weighted keys that are great for editing your velocity curve.
+
 
 - Its an excellent piano engine to give great synths and sound.
 
 - It has a TouchView display that colored an 8-inch in size - where you can control its function through the touch-drag and TouchView display. - This live-keyboard players will be great for DJ's playing rock or pop music, live musicians, and EDM producers.
 
-Cons: - None
+
+Cons:
+- - None
+
 
 
 ###  [3. Casio WK-6600 76-Key (+Power Supply) Work-station Keyboard](https://www.amazon.com/dp/B00I131U5C/?tag=p-policy-20)
@@ -66,9 +82,19 @@ You can adjust the DSP and chorus, reverb, vibrato, cut off, release and attack 
 
 Further, you can operate it using a battery since it also has an AC power adapter that'll plug into the wall or simply get D batteries.
 
-You can use the workstation for your church or classroom. Pros: - Casio WK-6600's selection of rhythms and voices is excellent, plus the inbuilt songs. - Further, you'll love the in-built instructional program particularly suitable for students. - Suitable for audio and music recording - Has included tones - Budget-friendly keyword workstation
+You can use the workstation for your church or classroom. 
+Pros:
+- - Casio WK-6600's selection of rhythms and voices is excellent, plus the inbuilt songs.
+- Further, you'll love the in-built instructional program particularly suitable for students.
+- Suitable for audio and music recording
+- Has included tones
+- Budget-friendly keyword workstation
 
-Cons: - Comes with un-wight keys
+
+
+Cons:
+- - Comes with un-wight keys
+
 
 
 ###  [4. Yamaha MX61 61-key Synthesizer Keyboard for Music Production](https://www.amazon.com/dp/B01J8GQHDU/?tag=p-policy-20)
@@ -81,14 +107,21 @@ It has a variety of ports that allow multi-functionality such as it's possible t
 
 Altering sound (for real-time), you reach one of the four knobs to twerk the FX, envelopes, or filter levels - you can use the 16 category-select buttons easily choose from onboard 61 drum-kits and 1, 106 voices. It comes with polyphonic sound (128-note) that you can recognize from the EX5 and original Motif - particularly the preset or waveform library.
 
-Pros: - It allows complete control with the included 47 buttons, data dial, four multi-function knobs, mod wheels, and pitch bend.
+
+Pros:
+- - It allows complete control with the included 47 buttons, data dial, four multi-function knobs, mod wheels, and pitch bend.
+
 
 - You can use the four knobs in DAW functions, particularly with DAW-Remote mode. - Yamaha MX61 is a portable instrument that offers several sounds and functions. - Its user interface is relatively easy-to-use thanks to its innovative deign.
 
-Cons: - None
+
+Cons:
+- - None
+
 
 
 ##  Conclusion
 
 Luckily, its VCM effects will be great and will make your playing excellent plus the Chorus Block and the Global Reverb Block plus it allows many insert effects like distortions, phasers, and delays.
+
 

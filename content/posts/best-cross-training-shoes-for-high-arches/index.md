@@ -36,9 +36,21 @@ The upper of the shoe features a re-engineered Flexweave material that provides 
 
 The medial and lateral sections of Nano 8. 0 Flexweave also features RopePro technology. These exceptional rope-climbing accessories ensure effortless ascending or descending during rope training activities.
 
-The Metasplit marking at the forefoot provides crucial forefoot flexibility. The outsole utilizes a high-abrasion rubber that provides traction during intense cross-fit movements. Pros: - Flexible forefoot allows numerous cross-training activities - Highly comfortable shoe - Roomy forefoot - Stable heel - Available in different styles and color options - Supportive upper - Lightweight cross-training shoe
+The Metasplit marking at the forefoot provides crucial forefoot flexibility. The outsole utilizes a high-abrasion rubber that provides traction during intense cross-fit movements. 
+Pros:
+- - Flexible forefoot allows numerous cross-training activities
+- Highly comfortable shoe
+- Roomy forefoot
+- Stable heel
+- Available in different styles and color options
+- Supportive upper
+- Lightweight cross-training shoe
 
-Cons: - Some wearers complained about heel slippage
+
+
+Cons:
+- - Some wearers complained about heel slippage
+
 
 ###  [2. Inov-8 Men's F-LITE 260 Knit (M) Cross Trainer](https://www.amazon.com/dp/B073SL16QG/?tag=p-policy-20)
 
@@ -52,9 +64,20 @@ The rearfoot features a synthetic overlay wrap that inhibits in-shoe wobbling du
 
 The outsole of this cross-training shoe for high arches features a superior non-slip rubber that provides a sticky grip. The rubber outsole provides reliable traction on various surfaces. Hence, it eliminates the fear of slipping during box jumps.
 
-The outsole also has vertical and horizontal Meta-Flex grooves that encourage the shoe to flex in multiple directions. The outsole also stretches up to the forefoot to form a toe bumper. This provides protection to toes during high impact exercises. Pros: - Highly versatile - Wide toe box - Non-slip grip - Comfortable - Excellent heel support - Highly flexible
+The outsole also has vertical and horizontal Meta-Flex grooves that encourage the shoe to flex in multiple directions. The outsole also stretches up to the forefoot to form a toe bumper. This provides protection to toes during high impact exercises. 
+Pros:
+- - Highly versatile
+- Wide toe box
+- Non-slip grip
+- Comfortable
+- Excellent heel support
+- Highly flexible
 
-Cons: - Pricey
+
+
+Cons:
+- - Pricey
+
 
 ###  [3. New Balance Men's 517 V1 Cross Trainer](https://www.amazon.com/dp/B01FSD2QH8/?tag=p-policy-20)
 
@@ -70,9 +93,21 @@ This cross fit shoe is best suited for indoor surfaces as it has an indoor tread
 
 The multi-directional flex grooves at the base of this cross trainer enhance the flexibility of the shoe. thus, making movement seamless.
 
-The upper of New Balance 517 V1 features a breathable mesh material that helps to keep the foot chamber aerated by permitting fresh air into the shoe. Pros: - True to size - Comfortable - Lightweight - Versatile - Durable - Roomy toe box - Highly breathable
+The upper of New Balance 517 V1 features a breathable mesh material that helps to keep the foot chamber aerated by permitting fresh air into the shoe. 
+Pros:
+- - True to size
+- Comfortable
+- Lightweight
+- Versatile
+- Durable
+- Roomy toe box
+- Highly breathable
 
-Cons: - Some customers complained that the insole was poorly made
+
+
+Cons:
+- - Some customers complained that the insole was poorly made
+
 
 ###  [4. Mizuno Women's Wave Rider 23 Running Shoe](https://www.amazon.com/dp/B07HRHMCRR/?tag=p-policy-20)
 
@@ -88,9 +123,20 @@ The upper of Rider 23 features Dynamotion Fit technology. The technology allows 
 
 The forefoot features a blown rubber material that provides soft cushioning and enhances the responsiveness of the shoe. The synthetic heel counter retains the rearfoot area structure while helping to hold the foot securely during intense cross-fit.
 
-The Wave Rider 23 retains the brands X10 outsole. The X10 is a durable carbon rubber that provides reliable traction. The rubber also enhances the shoes flexibility and promotes natural foot movement. Pros: - Breathable and comfortable upper - Provides ample cushioning and support - Lightweight - Steady and firm - Durable - Promotes natural movement of feet
+The Wave Rider 23 retains the brands X10 outsole. The X10 is a durable carbon rubber that provides reliable traction. The rubber also enhances the shoes flexibility and promotes natural foot movement. 
+Pros:
+- - Breathable and comfortable upper
+- Provides ample cushioning and support
+- Lightweight
+- Steady and firm
+- Durable
+- Promotes natural movement of feet
 
-Cons: - A customer complained that the shoe runs small
+
+
+Cons:
+- - A customer complained that the shoe runs small
+
 
 ###  [5. Brooks Men's Launch 6 Running Shoe](https://www.amazon.com/dp/B07D3ZWTGQ/?tag=p-policy-20)
 
@@ -102,9 +148,19 @@ The upper features a one-piece engineered mesh that contributes to the comfort a
 
 The tongue has sufficient padding to provide comfort. The Achilles and ankle area have just the right amount of padding that provides protection and comfort.
 
-The outsole features a wider heel landing with decoupling grooves. The grooves encourage the natural movement of the shoe. Hence, enhancing the flexibility of the shoe while facilitating a smooth heel to toe transitions. Pros: - Provides a snug fit - Lightweight - Breathable upper - Excellent cushioning - Comfortable
+The outsole features a wider heel landing with decoupling grooves. The grooves encourage the natural movement of the shoe. Hence, enhancing the flexibility of the shoe while facilitating a smooth heel to toe transitions. 
+Pros:
+- - Provides a snug fit
+- Lightweight
+- Breathable upper
+- Excellent cushioning
+- Comfortable
 
-Cons: - A bit heavy than its predecessors
+
+
+Cons:
+- - A bit heavy than its predecessors
+
 
 ###  [6. ASICS Women's GEL-Noosa Tri 11 Running Shoe](https://www.amazon.com/dp/B00YBFXTGM/?tag=p-policy-20)
 
@@ -118,9 +174,19 @@ The Gel Cushioning unit provides excellent shock absorption protecting the weare
 
 The upper features a lightweight-engineered mesh that has perforations that allow entry of air into the shoe for a fresh and comfortable workout experience. The Seamless Upper allows you to wear the shoe without socks for a comfortable wear experience.
 
-The outsole of the Gel Noosa Tri 11 features a durable AHAR compound. This rubber compound provides protection against abrasion. The WET GRIP construction allows the outsole to provide reliable traction on wet and other surfaces. Pros: - Lightweight - Breathable upper - Comfortable shoe - Durable - Colorful designs
+The outsole of the Gel Noosa Tri 11 features a durable AHAR compound. This rubber compound provides protection against abrasion. The WET GRIP construction allows the outsole to provide reliable traction on wet and other surfaces. 
+Pros:
+- - Lightweight
+- Breathable upper
+- Comfortable shoe
+- Durable
+- Colorful designs
 
-Cons: - A customer complained that the toe area was a narrow
+
+
+Cons:
+- - A customer complained that the toe area was a narrow
+
 
 ###  [7. PUMA Men's Tazon 6 Fracture FM Cross-Trainer Shoe](https://www.amazon.com/dp/B01C3LKD9Q/?tag=p-policy-20)
 
@@ -132,9 +198,19 @@ PUMA Tazon 6 Fracture has an outsole that boosts of EVA heel-pod. The heel pod p
 
 The midsole also features TPU shank that provides needed underfoot support while providing needed responsiveness during running. The outsole features a rubber compound that provides traction on various surfaces.
 
-The upper features a synthetic leather material that provides durability and support to the foot. The toe box section has perforations that aid in breathability. The T-toe construction reinforces the upper and provides protection to toes during intense workouts. Pros: - High-quality construction - Comfortable - Stylish design - Excellent cushioning - Available in various color options
+The upper features a synthetic leather material that provides durability and support to the foot. The toe box section has perforations that aid in breathability. The T-toe construction reinforces the upper and provides protection to toes during intense workouts. 
+Pros:
+- - High-quality construction
+- Comfortable
+- Stylish design
+- Excellent cushioning
+- Available in various color options
 
-Cons: - Some customers complained that the interior of the shoe got hot during intense workouts
+
+
+Cons:
+- - Some customers complained that the interior of the shoe got hot during intense workouts
+
 
 ##  Buyers Guide for Best Cross Training Shoes for High Arches
 
@@ -161,4 +237,5 @@ Every time your shoes hit the ground during a workout, you should have a good am
 I hope that this review on the best cross-training shoes for high arches has been helpful. If you experience high arches you need to choose cross-training shoes that are comfortable, well-cushioned, provide good arch support and stability.
 
 Picking the correct footwear will help alleviate pain and discomfort making the workout sessions more enjoyable. Go through the above list and choose a cross-trainer that suits you best.
+
 

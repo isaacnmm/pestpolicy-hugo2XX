@@ -26,11 +26,18 @@ If you are into DIY or a professional looking for a turbine sprayer, this is the
 
 Unlike other sprayers, this one comes with a fan-control button that enables you to adjust and spray to the kind of pattern you want; either horizontal, vertical, or round pattern. This sprayer gives a non-bleed spray with a semi-pro finish to your surface. The heavy 2 -stage turbine of 1200W gives this sprayer ability to paints with different densities thick or thin with minimum wastages.
 
-With this sprayer, you do not need to thin your thick paint before application therefore easy to apply and saves you time. Additionally, this sprayer comes with a 25ft long hose for easy mobility as you spray around the surface without hand fatigue. I recommend it for painting automotive parts, bikes, and metallic items - they have reduced paint consumption. Pros: - It is multi-purpose - Has 25ft.
+With this sprayer, you do not need to thin your thick paint before application therefore easy to apply and saves you time. Additionally, this sprayer comes with a 25ft long hose for easy mobility as you spray around the surface without hand fatigue. I recommend it for painting automotive parts, bikes, and metallic items - they have reduced paint consumption. 
+Pros:
+- - It is multi-purpose
+- Has 25ft.
+
 
 long hose pipe - 2- Stage 1200W turbine - Sprays all kinds of paints - It is Portable - Affordable
 
-Cons: - The sprayer is noisy
+
+Cons:
+- - The sprayer is noisy
+
 
 
 ###  [2. Wagner Spraytech 0518080 HVLP Sprayer](https://www.amazon.com/dp/B003PGQI48/?tag=p-policy-20)
@@ -39,9 +46,20 @@ This is one of the most versatile and top-rated HVLP spray guns available in the
 
 You dont need to thin your materials and with the help of the turbine you can also achieve the three spray patterns with minimum struggle i. e. round, vertical, or even horizontal Its portability and lightweight are just amazing and you will rarely feel the fatigue of carrying out large painting with it. It also comes with a 20 ft. long hose that enables you to spray to every corner with minimum hand fatigue.
 
-Pros: - It is portable and lightweight - It is durable - Easy to achieve all the spray patterns - Powerful turbine great forpaint spraying - Sprays all kinds of paint material - 20 ft. long hose
 
-Cons: - Hose is too short for big projects
+Pros:
+- - It is portable and lightweight
+- It is durable
+- Easy to achieve all the spray patterns
+- Powerful turbine great forpaint spraying
+- Sprays all kinds of paint material
+- 20 ft. long hose
+
+
+
+Cons:
+- - Hose is too short for big projects
+
 
 
 ###  [3. HomeRight C800766 Sprayer](https://www.amazon.com/dp/B003VKFDEO/?tag=p-policy-20)
@@ -52,9 +70,20 @@ Fitted with an adjustable nozzle, you can use it to spray various spray horizont
 
 You never have to worry about the painting g material available as the sprayer can work on materials available whether thick or thin without leaving streaks behind. With a 400W turbine, this sprayer is electric powered and is equally durable with a manufacturers warranty of 2 years -m ypou'll easily spray paint your furniture.
 
-Pros: - It is durable - It lightweight - Affordable - Can be used on all painting materials - Can spray all patterns - 2 years manufacturers warranty
 
-Cons: - Chalk paint cannot be used
+Pros:
+- - It is durable
+- It lightweight
+- Affordable
+- Can be used on all painting materials
+- Can spray all patterns
+- 2 years manufacturers warranty
+
+
+
+Cons:
+- - Chalk paint cannot be used
+
 
 ###  [4. Fuji 2804-T75G, Mini-Mite 4 HVLP Spray System](https://www.amazon.com/dp/B00D4NPPNM/?tag=p-policy-20)
 
@@ -64,9 +93,18 @@ Unlike other spray guns, this one is easy to learn how to use. Designed with a c
 
 Additionally, it also comes with noise and heat-reducing features that help in the management of this spray gun.
 
-Other added accessories include a cleaners brush and a viscosity cap which serve in cleaning the machine and measuring painting material viscosity respectively. Pros: - Powerful 4-stage turbine - Easy to wash with soap and water - Can spray material with different[viscosity materials](https://en.wikipedia.org/wiki/Viscosity)- Can spray different patterns - Easily portable
+Other added accessories include a cleaners brush and a viscosity cap which serve in cleaning the machine and measuring painting material viscosity respectively. 
+Pros:
+- - Powerful 4-stage turbine
+- Easy to wash with soap and water
+- Can spray material with different[viscosity materials](https://en.wikipedia.org/wiki/Viscosity)- Can spray different patterns
+- Easily portable
 
-Cons: - It is expensive
+
+
+Cons:
+- - It is expensive
+
 
 
 ###  [5. Wagner Spraytech-0529031 Paint Sprayer](https://www.amazon.com/dp/B0119LRYQG/?tag=p-policy-20)
@@ -77,9 +115,20 @@ This sprayer is unique in the sense that you can use it to spray uneven surfaces
 
 In case of a clean-up, you can easily separate the nozzle and the cup and do your cleaning with ease.
 
-Lastly, this sprayer is very light and easy to carry around as you do your paint job. On top of that, it comes with a 39 ft. long hose that makes it easy as you move around and minimizing hand fatigue, and achieve greater coverage. Pros: - Can be used to spray uneven surfaces - Light and easily portable - Can spray any kind of material - Adjustable nozzle to achieve a fine finish - 39 ft. long hose - Precision in automotive spraying
+Lastly, this sprayer is very light and easy to carry around as you do your paint job. On top of that, it comes with a 39 ft. long hose that makes it easy as you move around and minimizing hand fatigue, and achieve greater coverage. 
+Pros:
+- - Can be used to spray uneven surfaces
+- Light and easily portable
+- Can spray any kind of material
+- Adjustable nozzle to achieve a fine finish
+- 39 ft. long hose
+- Precision in automotive spraying
 
-Cons: - Prone to doingoverspray
+
+
+Cons:
+- - Prone to doingoverspray
+
 
 ###  [6. Fuji 2904-T70, Mini-Mite 4 HVLP Spray System](https://www.amazon.com/dp/B00D4NPMJO/?tag=p-policy-20)
 
@@ -89,9 +138,20 @@ Additionally, it has a self-heat regulatory system that channels excess heat thr
 
 Similarly, it comes with an additional viscosity cup that plays a vital role in determining the viscosity of the spray material before its application to the machine. The sprayer is also easy to carry and comes with a 25ft. hose pipe to enable you to reach your target surface without much strain as well as minimize finger fatigue when carrying out the spray.
 
-Pros: - Powerful 4-stage turbine - Can spray materials of any density - Has a heat regulating system - Can spray any pattern - Has 25 ft. hope code - 2 years manufacturers warranty
 
-Cons: - Its quite costly
+Pros:
+- - Powerful 4-stage turbine
+- Can spray materials of any density
+- Has a heat regulating system
+- Can spray any pattern
+- Has 25 ft. hope code
+- 2 years manufacturers warranty
+
+
+
+Cons:
+- - Its quite costly
+
 
 
 ###  [7. Earlex-HV5500 HVLP Paint Sprayer](https://www.amazon.com/dp/B004RGOKR2/?tag=p-policy-20)
@@ -102,11 +162,23 @@ A control knob and a button controlled spraying pattern enable you to effectivel
 
 5 ft. code that helps you move around your project as you spray your project with minimum strain.
 
-Besides, this sprayer can also be used on both interior and exterior project and possess greater durability due to its heavy steel metal gun. Pros: - Can spray all kinds of spray material - Powered by a 2-stage turbine - Can be used to spray all kinds of spray patterns - Fast - Durable metal gun - Can be used for both indoors and outdoors work
+Besides, this sprayer can also be used on both interior and exterior project and possess greater durability due to its heavy steel metal gun. 
+Pros:
+- - Can spray all kinds of spray material
+- Powered by a 2-stage turbine
+- Can be used to spray all kinds of spray patterns
+- Fast
+- Durable metal gun
+- Can be used for both indoors and outdoors work
 
-Cons: - It's costly
+
+
+Cons:
+- - It's costly
+
 
 ##  Conclusion
 
 In the above selection of the best turbine paint sprayers, it is clear it is possible to own one regardless. That notwithstanding, the top pick goes to Wagner Spraytech-0529031 Paint Sprayer, as the most standard sprayer with a friendly price tag.
+
 

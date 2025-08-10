@@ -32,9 +32,22 @@ However, it doesn't allow 4K video recording.
 
 Shooting speed of 7fps enables this camera to capture clear and sharp videos in fast-moving scenes. EOS 80D also features an Intelligent Viewfinder which gives you about 100% coverage to ensure you have accurate shots no guesswork. To enhance your recording, EOS 80D is compatible with numerous accessories including some EF lenses, power zoom adapters and shotgun microphone.
 
-Pros: - Good and quick focus - Excellent performance under dim light - Viewfinder allows 100% accurate shooting - Touch screen with an easy to use menu - Durable weather resistant configuration - Compatible with a myriad of EF lenses - Exceptional battery life
 
-Cons: - Does not allow 4K video recording - Lens hood not included
+Pros:
+- - Good and quick focus
+- Excellent performance under dim light
+- Viewfinder allows 100% accurate shooting
+- Touch screen with an easy to use menu
+- Durable weather resistant configuration
+- Compatible with a myriad of EF lenses
+- Exceptional battery life
+
+
+
+Cons:
+- - Does not allow 4K video recording
+- Lens hood not included
+
 
 ###  [**2. Canon YouTube PowerShot G7 X (The Mark III) - #2 Pick**](https://www.amazon.com/dp/B07TKNCQZL/?tag=p-policy-20)
 
@@ -44,9 +57,20 @@ Backed by the 20. 1MP CMOS sensor and the DIGIC 8 processor, this camera promise
 
 With this camera, you can directly stream live videos to your youtube channel with an easy setup. Its built-in Bluetooth and Wi-Fi configuration allow you to transfer videos or images directly to your smartphone or laptop. Due to its compact size, this camera competes with the high-end smartphones in the filming realm. You can carry it in your pocket or bag wherever you go.
 
-Pros: - Fast and accurate filming and imaging - Allows direct youtube live streaming - Pocket-size camera - Excellent optical zoom - 4K filming enabled - Allows vertical filming
 
-Cons: - 4K video available only in automatic mode
+Pros:
+- - Fast and accurate filming and imaging
+- Allows direct youtube live streaming
+- Pocket-size camera
+- Excellent optical zoom
+- 4K filming enabled
+- Allows vertical filming
+
+
+
+Cons:
+- - 4K video available only in automatic mode
+
 
 ###  [**3. Sony Mark VII (RX100) 4K Video Camera - #3 Pick**](https://www.amazon.com/dp/B07VPQV7BY/?tag=p-policy-20)
 
@@ -58,9 +82,19 @@ With the HFR configuration, Mark VII gives you the freedom to choose the shootin
 
 At 1920 x 1080 you can shoot at 240fps, 480fps or 960fps. That makes it ideal for shooting languid motions. The more extended 4K video capture is perhaps the most distinguishing feature in Mark VII. The default mode gives you up to 5 minutes recording while the 'auto-off' mode can go to more than one hour. The built-in Wi-Fi configuration provides an easy way for file transfer to Wi-Fi enable devices such as tablets and smartphones.
 
-Pros: - Superb image and video quality - Wide range of video shooting options - Longer 4K video recording - Fast AF technology - Fits in the pocket
 
-Cons: - Relatively pricey
+Pros:
+- - Superb image and video quality
+- Wide range of video shooting options
+- Longer 4K video recording
+- Fast AF technology
+- Fits in the pocket
+
+
+
+Cons:
+- - Relatively pricey
+
 
 ###  [**4. Canon T6 EOS Rebel Digital Camera  With Lens**](https://www.amazon.com/dp/B01CO2JPYS/?tag=p-policy-20)
 
@@ -70,9 +104,19 @@ Similar to the T5, this camera features an 18MP sensor. However, the processor h
 
 The 9-point AF configuration, combined with the optical viewfinder, allows you quick and accurate video capture.
 
-The battery life of this camera stands at 500 shots per charge which will last you for a whole day. Another feature that may interest you is the Wi-Fi configuration which allows you to transfer your videos to smartphone. Pros: - Captures professional-level videos - Easy sharing with the built-in Wi-Fi - Full HD - Affordable price
+The battery life of this camera stands at 500 shots per charge which will last you for a whole day. Another feature that may interest you is the Wi-Fi configuration which allows you to transfer your videos to smartphone. 
+Pros:
+- - Captures professional-level videos
+- Easy sharing with the built-in Wi-Fi
+- Full HD
+- Affordable price
 
-Cons: - Not touchscreen - Lacks full viewfinder
+
+
+Cons:
+- - Not touchscreen
+- Lacks full viewfinder
+
 
 ###  [5. PANASONIC Lumix GH5 4K Digital 20.3 Megapixel Mirror-less Camera](https://www.amazon.com/dp/B01MZ3LQQ5/?tag=p-policy-20)
 
@@ -82,9 +126,20 @@ The 20. 3MP MOS sensor combined with the improved processor gives it a quicker p
 
 The 5-axis image stabilization feature ensures that you get stable images or videos even with handheld shooting. What's more, this camera comes with numerous accessories that make your vlogging easier and enjoyable. These include 2 SD card slots and terminals for connecting a microphone and headphone. Plus theres a Bluetooth and Wi-Fi connectivity for quick file sharing.
 
-Pros: - Excellent video shooting ability - Touchscreen - Great noise handling features - 5-axis image stabilization - Allows 4K video shooting
 
-Cons: - Expensive - Lens not included
+Pros:
+- - Excellent video shooting ability
+- Touchscreen
+- Great noise handling features
+- 5-axis image stabilization
+- Allows 4K video shooting
+
+
+
+Cons:
+- - Expensive
+- Lens not included
+
 
 ###  [6. Sony Alpha a6400 Mirrorless Camera: Compact APS-C Interchangeable Lens](https://www.amazon.com/dp/B07MV3P7M8/?tag=p-policy-20)
 
@@ -96,9 +151,19 @@ Another notable plus for A6400 is the intelligent eye locator, which uses artifi
 
 Whats more, with A6400 youll enjoy 4K2 and full HD video shooting.
 
-Pros: - Affordable high quality camera - Fast autofocus - Intelligent viewfinder - Excellent noise management - Exceptional shooting speed
 
-Cons: - 16: 9 aspect ratio not good for still images
+Pros:
+- - Affordable high quality camera
+- Fast autofocus
+- Intelligent viewfinder
+- Excellent noise management
+- Exceptional shooting speed
+
+
+
+Cons:
+- - 16: 9 aspect ratio not good for still images
+
 
 ###  [7. Canon Powershot G9 X Mark II Digital Camera (Silver) with 32GB Card](https://www.amazon.com/dp/B06XGT53NF/?tag=p-policy-20)
 
@@ -110,9 +175,20 @@ This allows you to capture fasting-moving scenes with better video or image clar
 
 Whats more, this camera also comes with a Bluetooth, Wi-Fi and NFC connectivity which makes file sharing and easy and convenient.
 
-Pros: - Wide range of video shooting options - Large and effective sensor - Compact and pocket-size - Ideal for fast-moving scenes - Stylish finish - Touch screen with easy navigation
 
-Cons: - Does not shoot 4K videos
+Pros:
+- - Wide range of video shooting options
+- Large and effective sensor
+- Compact and pocket-size
+- Ideal for fast-moving scenes
+- Stylish finish
+- Touch screen with easy navigation
+
+
+
+Cons:
+- - Does not shoot 4K videos
+
 
 ###  [8. Canon EOS Rebel SL2 DSLR Camera with EF-S 18-55mm STM Lens](https://www.amazon.com/dp/B071K62DPN?tag=p-policy-20)
 
@@ -187,4 +263,5 @@ When you're presented with a large number of products to choose from, you might 
 ##  Sources:
 
 1. [Video Production Tips Media Commons](https://mediacommons.psu.edu/2017/02/01/video-production-tips/)2. [YouTube Best Practices Online Strategy](https://creativeservices.gwu.edu/social-media)3. Audio & Video // Identity Standards
+
 

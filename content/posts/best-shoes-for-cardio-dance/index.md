@@ -35,9 +35,21 @@ Furthermore, the upper also has two layers; the internal cleatie sleeve and the 
 
 Other than that, the dual-density midsole ensures you have enough cushioning and support during the various cardio dance movements. The heel section features a rigid thermoplastic polyurethane (TPU) that cups the rearfoot in place and ensures it remains steady throughout the dance session.
 
-Pros: - Lightweight and breathable - Comfortable - Flexible forefoot allows intense dance movements - Stable heel - Roomy forefoot - Supportive upper - Removable sockline allows the use of custom orthotics
 
-Cons: - Some customers complained that they experienced heel slippage
+Pros:
+- - Lightweight and breathable
+- Comfortable
+- Flexible forefoot allows intense dance movements
+- Stable heel
+- Roomy forefoot
+- Supportive upper
+- Removable sockline allows the use of custom orthotics
+
+
+
+Cons:
+- - Some customers complained that they experienced heel slippage
+
 
 ###  [2. ASICS Women's Gel-Nimbus 22 Running Shoes](https://www.amazon.com/dp/B07Y265WWF/?tag=p-policy-20)
 
@@ -53,9 +65,20 @@ The outsole of Nimbus 22 also features a durable AHAR material. This rubber comp
 
 The upper is an engineered monofilament fabric thats extremely lightweight and smooth. The fabric adds extra comfort to feet and allows fresh air into the shoe for a cool and dry cardio dance experience. The upper also holds the foot in place for a secure fit.
 
-Nimbus 22 also has a great lacing system that allows you to adjust the laces for your comfort. The padded heel collar also keeps the heel firmly grounded to prevent accidental shoe removal while training. Pros: - Comfortable and supportive - Roomy toe box - Durable - Stylish - Excellent cushioning - Holds up well during the cardio dance
+Nimbus 22 also has a great lacing system that allows you to adjust the laces for your comfort. The padded heel collar also keeps the heel firmly grounded to prevent accidental shoe removal while training. 
+Pros:
+- - Comfortable and supportive
+- Roomy toe box
+- Durable
+- Stylish
+- Excellent cushioning
+- Holds up well during the cardio dance
 
-Cons: - Expensive
+
+
+Cons:
+- - Expensive
+
 
 ###  [3. Adidas Men's Alphabounce Rc 2 Running Shoe](https://www.amazon.com/dp/B07KWW1FC2/?tag=p-policy-20)
 
@@ -67,9 +90,19 @@ The padded collar and tongue support the ankle and the heel. As a result, you wo
 
 The midsole features an exceptional bounce technology. The technology ensures the shoe is flexible with a bouncy underfoot feeling. The technology is shock-absorbing and provides a more responsive ride. The insole is also well-cushioned but removable. Hence, you insert custom orthotics for extra comfort and support.
 
-The outsole of AlphaBounce RC 2. 0 is all rubber. The durable rubber compound protects you against abrasion while giving you excellent traction. The outsole also has circular nodes that add extra grip to the shoe. Pros: - Provides underfoot cushioning - Affordable - The outsole delivers good traction - Stylish - Bouncy midsole
+The outsole of AlphaBounce RC 2. 0 is all rubber. The durable rubber compound protects you against abrasion while giving you excellent traction. The outsole also has circular nodes that add extra grip to the shoe. 
+Pros:
+- - Provides underfoot cushioning
+- Affordable
+- The outsole delivers good traction
+- Stylish
+- Bouncy midsole
 
-Cons: - A customer complained that the shoe is a bit heavy
+
+
+Cons:
+- - A customer complained that the shoe is a bit heavy
+
 
 ###  [4. PUMA Women's Tazon 6 Cross-Trainer Shoe](https://www.amazon.com/dp/B01C3LLG0Q/?tag=p-policy-20)
 
@@ -81,9 +114,20 @@ Youll love how well the rubber outsole grips to the training surface for slip-re
 
 The forefoot area has a T-Toe design that incorporates an additional leather layer for enhanced structure while reducing wear and tear. The tongue and collar have extra padding for additional comfort and cushioning.
 
-The upper of Tazon 6 features a Synthetic leather that delivers needed comfort and durability. The material has small pores around the forefoot and midsection to facilitate entry of fresh air into the shoes. Pros: - Ideal for indoor and outdoor exercise - Exceptionally comfortable - Excellent support - High quality and durable shoe - True to size - Available in various color schemes
+The upper of Tazon 6 features a Synthetic leather that delivers needed comfort and durability. The material has small pores around the forefoot and midsection to facilitate entry of fresh air into the shoes. 
+Pros:
+- - Ideal for indoor and outdoor exercise
+- Exceptionally comfortable
+- Excellent support
+- High quality and durable shoe
+- True to size
+- Available in various color schemes
 
-Cons: - You might need to break-in period on them
+
+
+Cons:
+- - You might need to break-in period on them
+
 
 ###  [5. Brooks Women's Ghost 12 Running Shoe](https://www.amazon.com/dp/B085GQLJCG/?tag=p-policy-20)
 
@@ -93,9 +137,20 @@ The upper of Ghost 12 features an engineered mesh that facilitates excellent bre
 
 The midsole features BioMoGo DNA that allows the shoe to adapt your gait, weight, and speed. The heel section around the lateral side boosts DNA Loft that contributes to the shoes high responsiveness. The BioMoGo DNA and the DNA Loft provide needed cushioning and exceptional heel to toe transition.
 
-The outsole of Ghost 12 is all rubber that provides excellent traction and durability allowing you to enjoy your cardio dance session without fear of falling or slipping. Pros: - Excellent upper - Offers a snug fit - Comfortable well-cushioned - Supportive - Breathable upper - The reliable outsole delivers excellent traction
+The outsole of Ghost 12 is all rubber that provides excellent traction and durability allowing you to enjoy your cardio dance session without fear of falling or slipping. 
+Pros:
+- - Excellent upper
+- Offers a snug fit
+- Comfortable well-cushioned
+- Supportive
+- Breathable upper
+- The reliable outsole delivers excellent traction
 
-Cons: - Some customers complained about the toe box not being spacious enough
+
+
+Cons:
+- - Some customers complained about the toe box not being spacious enough
+
 
 ###  [6. New Balance Men's 608 V5 Cross Trainer](https://www.amazon.com/dp/B07B41HCNS/?tag=p-policy-20)
 
@@ -111,9 +166,22 @@ The upper of 608 V5 features a leather material that provides a secure and firm 
 
 The upper leather has small holes that aid in air circulation. The mesh lining and tongue ensure maximum breathability for a comfortable wear experience. He padded tongue and collar ensure you have comfort and a great experience while doing your cardio dance.
 
-Pros: - Durable - Comfortable - True to size - Stylish and can pass as adress shoe - Offers excellent traction - Provides good arch support - Can insert custom orthotics - Available in various width options
 
-Cons: - Some customers complained that the inserts were no comfortable
+Pros:
+- - Durable
+- Comfortable
+- True to size
+- Stylish and can pass as adress shoe
+- Offers excellent traction
+- Provides good arch support
+- Can insert custom orthotics
+- Available in various width options
+
+
+
+Cons:
+- - Some customers complained that the inserts were no comfortable
+
 
 ###  [7. Under Armour Men's Charged Commit 2.0 Cross Trainer](https://www.amazon.com/dp/B07PYYRW3Q/?tag=p-policy-20)
 
@@ -127,9 +195,19 @@ The external heel counter strengthens the rearfoot with the help of TPU shank. T
 
 Other than that, the shoe features Charged Cushioning Technology that helps to absorb impact and convert it into a more responsive burst.
 
-The padded sockliner adds extra comfort. it also adapts to the foots shape to prevent accidental shoe removal. The sockliner also acts as a moisture-wicking component to keep feet dry and fresh throughout the cardio dance session. Pros: - Provides ample stability and support - Lightweight - Comfortable - Attractive - Budget-friendly footwear
+The padded sockliner adds extra comfort. it also adapts to the foots shape to prevent accidental shoe removal. The sockliner also acts as a moisture-wicking component to keep feet dry and fresh throughout the cardio dance session. 
+Pros:
+- - Provides ample stability and support
+- Lightweight
+- Comfortable
+- Attractive
+- Budget-friendly footwear
 
-Cons: - Some people complain that the lacing system is not very comfortable
+
+
+Cons:
+- - Some people complain that the lacing system is not very comfortable
+
 
 ##  Buyers Guide for Best Shoes for Cardio Dance
 
@@ -156,4 +234,5 @@ Poor ventilation causes uncomfortable and sweaty feet. The sweat can also cause 
 Cardio dance has become a favorite exercise for most workout enthusiasts because it allows one loose over 500 calories in one session. Because of its effectiveness, most people turn to it to lose the extra pounds.
 
 However, engaging in cardio dance, youll need to invest in the best shoes for cardio dance. In this, review, Ive discussed some of the best dance shoes to consider, go through the list and choose your favorite pair.
+
 

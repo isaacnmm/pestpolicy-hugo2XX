@@ -34,9 +34,19 @@ The padded tongue ensures even distribution of pressure on top of the foot.
 
 Hence, helps to eliminate the [top of foot pain](https://pestpolicy.com/best-shoes-for-pain-on-top-of-foot/).The heel section features a reliable heel cup that holds the foot in place to prevent unintended removal of the shoe. The outsole features a blown rubber component that provides needed protection against any abrasion. The Omega Flex Grooves at the bottom of the sole encourage the natural movement of the foot.
 
-Pros: - Provides excellent cushioning - Highly comfortable - Excellent stability hence prevents overpronation - Roomy forefoot - Durable
 
-Cons: - A bit heavy according to some wearers
+Pros:
+- - Provides excellent cushioning
+- Highly comfortable
+- Excellent stability hence prevents overpronation
+- Roomy forefoot
+- Durable
+
+
+
+Cons:
+- - A bit heavy according to some wearers
+
 
 
 ###  [2. ASICS Women's Gel-Cumulus 22 Running Shoes](https://www.amazon.com/dp/B082PZMB3G/?tag=p-policy-20)
@@ -47,9 +57,20 @@ The Gel-Cumulus 22 features FlyteFoam Propel Technology that ensures unmatched c
 
 It also features anti-moisture and anti-microbial properties for a healthy and clean in-shoe environment. Other than that, the outsole of these ASICS shoes features a high-abrasion rubber component called the AHAR technology. This technology helps to extend the life of the shoes as well as offer protection against abrasions. Furthermore, beneath the outsole, youll find deep flex grooves that help to enhance traction and flexibility.
 
-Hence, encourages the shoe to bend and move naturally with your foot. The grooves also provide superb grip on surfaces. The upper features engineered mesh material. This material encourages a free flow of air inside the shoe for dry and fresh feet. The soft textile lining inside the shoe also provides comfort and protection. Pros: - Flexible - Comfortable - Durable outsole - Excellent cushioning - Supportive - Lightweight
+Hence, encourages the shoe to bend and move naturally with your foot. The grooves also provide superb grip on surfaces. The upper features engineered mesh material. This material encourages a free flow of air inside the shoe for dry and fresh feet. The soft textile lining inside the shoe also provides comfort and protection. 
+Pros:
+- - Flexible
+- Comfortable
+- Durable outsole
+- Excellent cushioning
+- Supportive
+- Lightweight
 
-Cons: - A customer reported that the shoes are a bit narrow
+
+
+Cons:
+- - A customer reported that the shoes are a bit narrow
+
 
 ###  [3. Dr. Comfort Douglas Men's Therapeutic Shoe](https://www.amazon.com/dp/B07N47KGKN/?tag=p-policy-20)
 
@@ -63,9 +84,20 @@ The upper is also breathable and allows the flow of air inside the shoe for a gr
 
 The shoe incorporates Dr.
 
-Comfort Technology to ensure high quality and comfortable shoes. Youll love the gel padding located on the heel and metatarsals sections of the shoe. This padding offers lateral and medial stability ensuring the wearer has needed comfort, support, and balance throughout the day. Pros: - Durable rubber sole - Removable insoles - Accommodates orthotics - Durable leather upper - Comfortable - Reliable cushioning
+Comfort Technology to ensure high quality and comfortable shoes. Youll love the gel padding located on the heel and metatarsals sections of the shoe. This padding offers lateral and medial stability ensuring the wearer has needed comfort, support, and balance throughout the day. 
+Pros:
+- - Durable rubber sole
+- Removable insoles
+- Accommodates orthotics
+- Durable leather upper
+- Comfortable
+- Reliable cushioning
 
-Cons: - A bit pricey
+
+
+Cons:
+- - A bit pricey
+
 
 
 ###  [4. New Balance Women's 813 Walking Shoe](https://www.amazon.com/dp/B00LBZ7XTE/?tag=p-policy-20)
@@ -78,9 +110,19 @@ The lightweight form incorporated in NB 813 enhances the shoes durability while 
 
 It also has an excellent tread pattern that helps to improve the traction level of the shoe.
 
-Another amazing outsole technology that this stylish walking shoe boasts of is the Walking Strike Path. This component helps to guide and stabilize the foot ensuring the wearer adopts a natural walking style. The forefoot section features flex grooves that enhance foot flexion for improved comfort while standing. Pros: - Provides excellent stability - Highly comfortable - Available in various color options - Lightweight - Durable
+Another amazing outsole technology that this stylish walking shoe boasts of is the Walking Strike Path. This component helps to guide and stabilize the foot ensuring the wearer adopts a natural walking style. The forefoot section features flex grooves that enhance foot flexion for improved comfort while standing. 
+Pros:
+- - Provides excellent stability
+- Highly comfortable
+- Available in various color options
+- Lightweight
+- Durable
 
-Cons: - Simple design
+
+
+Cons:
+- - Simple design
+
 
 ###  [5. Skechers GO Walk 5](https://www.amazon.com/dp/B07MR1TD9J/?tag=p-policy-20)Prized
 
@@ -92,9 +134,18 @@ The inner section of Skechers GO Walk 5 has a soft lining that helps to prevent 
 
 Thus, fresh and dry feet throughout the day. The forefoot and heel sections of this walking shoe incorporate comfort pillar technology. This technology makes the shoe comfortable to walk on uneven surfaces. Furthermore, the midsole features an ULTRA GO component thats lightweight, thus encourages smooth transitions throughout the gait cycle. Another incredible feature is the Air Cooled Goga Mat thats found inside the shoe.
 
-This Air Cooled mat is a breathable insole that provides unmatched cushioning and comfort. It also has small pores that encourage air circulation for fresh and dry feet. Pros: - Comfortable - Allows use of custom orthotics - Slip-resistant - Durable
+This Air Cooled mat is a breathable insole that provides unmatched cushioning and comfort. It also has small pores that encourage air circulation for fresh and dry feet. 
+Pros:
+- - Comfortable
+- Allows use of custom orthotics
+- Slip-resistant
+- Durable
 
-Cons: - May need a break-in period
+
+
+Cons:
+- - May need a break-in period
+
 
 ###  [6. Ryka Women's Sky Walk](https://www.amazon.com/dp/B01A63CLB6/?tag=p-policy-20)
 
@@ -102,9 +153,19 @@ Ryka Sky Walk is an excellent walking shoe thats ideal for bad knee suffers who 
 
 The upper section of the shoe features breathable mesh fabric that allows free entry of air into the shoe. The upper also has supportive overlays that provide needed support and holds the foot in place. The mid-section boasts of a molded EVA foam and a TPU mid-foot shank. These components provide cushioning and support. Thus, ensure a comfortable wear experience. The memory form insole ensures your feet have proper cushioning throughout the day.
 
-The outsole is all rubber and it enhances the shoes durability while providing crucial traction on various surfaces. Pros: - Supportive - Excellent cushioning - Durable - Excellent traction - Breathable
+The outsole is all rubber and it enhances the shoes durability while providing crucial traction on various surfaces. 
+Pros:
+- - Supportive
+- Excellent cushioning
+- Durable
+- Excellent traction
+- Breathable
 
-Cons: - Narrow toe box
+
+
+Cons:
+- - Narrow toe box
+
 
 ###  [7. Saucony Women's Cohesion 10 Running Shoe](https://www.amazon.com/dp/B01N7M8HGX/?tag=p-policy-20)
 
@@ -114,9 +175,21 @@ The upper area of Saucony Cohesion 10 features a network of overlays that work c
 
 The midsection of Cohesion 10 features injection-molded EVA (IMEVA) that works to provide shock-absorption and excellent cushioning. The outsole utilizes a durable rubber component. The midfoot and forefoot areas have iBR+ that provide traction. The other quick-wearing areas like the heel use XT-900 carbon rubber. Beneath the outsole, there are flex grooves that promote the shoes stability and flexibility.
 
-Pros: - Affordable - Comfortable - Lightweight - Durable - Available in various color options - Supportive - Attractive
 
-Cons: - Runs small according to some wearers
+Pros:
+- - Affordable
+- Comfortable
+- Lightweight
+- Durable
+- Available in various color options
+- Supportive
+- Attractive
+
+
+
+Cons:
+- - Runs small according to some wearers
+
 
 ##  Buyers Guide for Best Shoes for Standing All Day with Bad Knees
 
@@ -137,4 +210,5 @@ These shoes protect your knees and joints, thanks to the various technologies an
 ##  Conclusion
 
 Wearing the best shoes for standing all day with bad knees will go a long way in ensuring that youre comfortable and protected all day long. The correct footwear will help reduce the pressure put on knees, thus, prevent knee pain. Go through this review and make an informed buying choice.
+
 

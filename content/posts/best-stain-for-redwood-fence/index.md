@@ -30,13 +30,22 @@ Youll love the fine surface finish that Ready Seal delivers upon application its
 
 You are provided with optional selectable colors that effectively work on redwood without affecting the primary surface grains with Ready Seal. Further, Ready Seal can be applied without priming the surface or removing the previous coating. The streak resistant compound guarantees you a classic luster, while the waterproof coat not only seals the porous surface but also eliminate algae and molds.
 
-The 1-gallon solvent helps you paint comprehensive surface coverage (using a single container), while the classic stand-alone design ease storage or placement when painting. Ready Seal comes with a comfortable handle that supports more accessible transportation when painting. Pros: - Comes with multiple selectable colors - Its more comfortable to apply and Clean - leaves lessroller or brush marks.
+The 1-gallon solvent helps you paint comprehensive surface coverage (using a single container), while the classic stand-alone design ease storage or placement when painting. Ready Seal comes with a comfortable handle that supports more accessible transportation when painting. 
+Pros:
+- - Comes with multiple selectable colors
+- Its more comfortable to apply and Clean
+- leaves lessroller or brush marks.
+
 
 - Wont irritate your skin upon contact - It is long-lasting and attractive.
 
 - Protect your fence from UV-rays and mildew - You can apply on other surfaces like deck, shakes, and shingles. - It is oil-based and semi-transparent gives a natural look
 
-Cons: - Not for solid surface painting - Unsuitable for large surface painting
+
+Cons:
+- - Not for solid surface painting
+- Unsuitable for large surface painting
+
 
 
 ###  [2. THOMPSONS WATERSEAL Solid Waterproofing Stain](https://www.amazon.com/dp/B00IKVLUZ0/?tag=p-policy-20)
@@ -47,9 +56,22 @@ Thompsons come with low VOC concentration (environmentally friendly) and high-qu
 
 Thompsons come in three optional states (solid, semi-solid, and transparent) that give you optional selection when making your purchase. Moreover, the solvent is formulated with a simple chemical combination that breaks and stretches easily during application (has no runs). To prevent mold formation on your redwood fence, you will need to clean the wood sufficiently before applying Thompsons as per the instruction given.
 
-Thompson is budget-friendly and wont cause skin or nasal irritation upon contact. Pros: - Provides strong surface finish and attractive coat - Protect your fence from mildew and UV-rays - It is simple to prepare and apply. - Its fade-resistant and waterproof. - Wont irritate your skin or nasal cavity during application - Comes in three n]selectable state solid, semi-solid and transparent - Affordable and comes with non-pollutant polymers
+Thompson is budget-friendly and wont cause skin or nasal irritation upon contact. 
+Pros:
+- - Provides strong surface finish and attractive coat
+- Protect your fence from mildew and UV-rays
+- It is simple to prepare and apply.
+- Its fade-resistant and waterproof.
+- Wont irritate your skin or nasal cavity during application
+- Comes in three n]selectable state solid, semi-solid and transparent
+- Affordable and comes with non-pollutant polymers
 
-Cons: - The capacity is only best for medium to small surface application. - Needs several coats in heavy rain environment
+
+
+Cons:
+- - The capacity is only best for medium to small surface application.
+- Needs several coats in heavy rain environment
+
 
 
 ###  [3. Roxil Wood Protection Stain](https://www.amazon.com/dp/B081K32XJF/?tag=p-policy-20)
@@ -60,11 +82,22 @@ The natural ingredients that come with Roxil guarantee you ten years of the weat
 
 Indeed, the solvent formula entails a simple gain ratio that prevents chipping and peeling in a humid environment, while the grain inclusions improve stickiness on the wooden surfaces during application. More so, your primary redwood surface will be protected from cosmic radiations and UV-rays upon the use of Roxil stain. Roxil does not require surface cleaning before application you can apply over old paint or rough surfaces without any problem.
 
-The stain is highly penetrative and wont damage your wood upon contact. Importantly, Roxil comes in a large container (1. 5 gallons) that covers over 330 square feet if well applied. Pros: - Eliminates growth or algae and mildew from the surface - Protects the face from UV-rays and cosmic radiations - Seals pore and porous surfaces upon contact - Packed in a large container (1. 5 gallons) covers 330 square feet.
+The stain is highly penetrative and wont damage your wood upon contact. Importantly, Roxil comes in a large container (1. 5 gallons) that covers over 330 square feet if well applied. 
+Pros:
+- - Eliminates growth or algae and mildew from the surface
+- Protects the face from UV-rays and cosmic radiations
+- Seals pore and porous surfaces upon contact
+- Packed in a large container (1. 5 gallons) covers 330 square feet.
+
 
 - Wont irritate your nose or skin upon contact - Highly-portable comes with a comfortable handle. - Stable design (stand-alone) and quick-acting formula
 
-Cons: - Comes in limited color options - Unsuitable for small area coverage - May take longer to dry
+
+Cons:
+- - Comes in limited color options
+- Unsuitable for small area coverage
+- May take longer to dry
+
 
 
 ###  [4. DEFY Extreme 1 Gallon Exterior Wood Stain](https://www.amazon.com/dp/B0061OIK4M/?tag=p-policy-20)
@@ -75,11 +108,19 @@ The low VOC compound wont pollute your environment (non-pollutant) and comes wit
 
 Defy is waterproof and dust-resistance it makes the cleaning process more comfortable and eliminates molds or algae's growth on the surface. You dont have to clean the surface when using Defy for your fence painting activities apply directly provided proper dilution ratio is achieved. Moreover, Defy is packed in a large container (1 gallon) that covers extensive surface painting.
 
-Defy features a stable base design that allows easier storage and comes with a comfortable handle that eases transportation when painting. The premium-grade wood stain is highly penetrative and comes with non-peeling properties works nicely in heavy rain environments. NB: Defy is budget-friendly and fast-drying. Pros: - It is highly portable has a handle.
+Defy features a stable base design that allows easier storage and comes with a comfortable handle that eases transportation when painting. The premium-grade wood stain is highly penetrative and comes with non-peeling properties works nicely in heavy rain environments. NB: Defy is budget-friendly and fast-drying. 
+Pros:
+- - It is highly portable has a handle.
+
 
 - Dries fast and resists mold/mildew - Protect your surface from UV-rays - Gives attractive natural appearance semi-transparent - Dont irritate your skin upon contact. - Affordable and long-lasting - Free from peeling and chipping - Highly portable and stable stand-alone design
 
-Cons: - Unsuitable for sold stain painting - Not for large commercial painting - Comes in limited color selection
+
+Cons:
+- - Unsuitable for sold stain painting
+- Not for large commercial painting
+- Comes in limited color selection
+
 
 
 ###  [5. ECO-Safe Wood Treatment Stain](https://www.amazon.com/dp/B00V5WHUZA/?tag=p-policy-20)
@@ -94,11 +135,22 @@ Eco-Safe is integrated with natural ingredients that have high penetration and s
 
 You will not need to clean or scrape the wood during the application.
 
-Eco-Safe is applied directly with a paintbrush or roller. They are no many runs/lap or drips that occur when painting the solvent formed is more comfortable to use and clean. NB: Eco-Safe is affordable and durable. Pros: - Comes with attractive silver to brown patina - Mixed to form 3 gallons cover 400 to 600 square feet - Can also be used on decks, siding, furniture, or marine application - It is biodegradable and free from VOC no pollution.
+Eco-Safe is applied directly with a paintbrush or roller. They are no many runs/lap or drips that occur when painting the solvent formed is more comfortable to use and clean. NB: Eco-Safe is affordable and durable. 
+Pros:
+- - Comes with attractive silver to brown patina
+- Mixed to form 3 gallons cover 400 to 600 square feet
+- Can also be used on decks, siding, furniture, or marine application
+- It is biodegradable and free from VOC no pollution.
+
 
 - Dont irritate your nasal cavity or hands upon contact. - It's simple to prepare and more comfortable to clean. - Guarantees permanent protection on a single application - It is resistant to peeling and chipping
 
-Cons: - Has limited portability no handle - Cannot be applied directly before mixing - Comes in limited color options
+
+Cons:
+- - Has limited portability no handle
+- Cannot be applied directly before mixing
+- Comes in limited color options
+
 
 
 ###  [6. Rain Guard Water Sealers/Wood stains](https://www.amazon.com/dp/B06XRLSWSM/?tag=p-policy-20)
@@ -109,13 +161,22 @@ The solvent is specially formulated using natural ingredients that break and elo
 
 The surface needs no cleaning during application- you can paint directly. Rain Guard is dust-resistant and waterproof it is suitable for all weather conditions. You will eliminate peeling, chipping, and alligatoring (occur in low-quality stains) if you consider using Rain Guard for redwood fence painting. Moreover, the USA made solvent is long-lasting and penetrates deeply without affecting the primary grain material.
 
-Rain Guard is fast-drying (dries in 1 hour after painting) and comes with no VOC components, thus no pollution. Notably, Rain Guard is budget-friendly and covers a wide surface area. Pros: - Allows natural visible impression transparent/clear - It dries faster one hour after application.
+Rain Guard is fast-drying (dries in 1 hour after painting) and comes with no VOC components, thus no pollution. Notably, Rain Guard is budget-friendly and covers a wide surface area. 
+Pros:
+- - Allows natural visible impression transparent/clear
+- It dries faster one hour after application.
+
 
 - Works for all weather conditions - Resist peeling, chipping, and alligatoring - Protects your fence from molds and mildew - Its affordable and more comfortable to clean.
 
 - Long-lasting and environmentally friendly
 
-Cons: - Comes in limited selectable colors - The quantity could be more. - Maybe brighter on some surfaces
+
+Cons:
+- - Comes in limited selectable colors
+- The quantity could be more.
+- Maybe brighter on some surfaces
+
 
 
 ###  [7. Wood Defender - Semi-Transparent Fence Stain](https://www.amazon.com/dp/B0719RBZRD/?tag=p-policy-20)
@@ -130,9 +191,24 @@ It wont cause skin irritation upon contact or choke you if inhaled.
 
 You can opt to use any color of your choice since Wood Defender comes in a variety of color options such as water-based and solvent paints.
 
-Pros: - No prepping needed when painting or cleaning - More comfortable to prepare and apply - It is environmentally friendly and long-lasting - 3 years - Does not irritate your skin or nasal cavity of inhaled - Has high penetration and improved stability - You can protect your fence from molds and mildew - Comes in multiple selectable colors
 
-Cons: - Unsuitable for small fence staining - The life-time could be more - Not solid semitransparent use only
+Pros:
+- - No prepping needed when painting or cleaning
+- More comfortable to prepare and apply
+- It is environmentally friendly and long-lasting
+- 3 years
+- Does not irritate your skin or nasal cavity of inhaled
+- Has high penetration and improved stability
+- You can protect your fence from molds and mildew
+- Comes in multiple selectable colors
+
+
+
+Cons:
+- - Unsuitable for small fence staining
+- The life-time could be more
+- Not solid semitransparent use only
+
 
 
 ##  Conclusion
@@ -142,4 +218,5 @@ Having read about the best stains for redwood fence, you must have gained deep i
 Further, go for redwood stain that features optional color selections, strong stickiness-ability, and packed in the right quantity compared to the intended painting area.
 
 Finally, it would help if you purchase a redwood stain suitable for all weather conditions without compromising the solvent formulation that each product is manufactured.
+
 

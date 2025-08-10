@@ -38,9 +38,20 @@ The high-quality protection system guarantees you safety and an improved sense o
 
 The shoe delivers beyond expectation to give you an enjoyable and fun jump exercise experience. The boot is intended to absorb shock impact by up to 80 percent while exercising. Best For Low Impact Exercise -Looking for a low impact yet useful jumping shoes? Well, physical therapists and fitness experts recommend getting jumping shoes that are safe, well-cushioned, and stable. Kangoo XR3 Jumps have been made with the safety of users in mind.
 
-The shoes help to rehabilitate knee and ankle injuries as well as reduce impact shock on training surfaces. Pros: - Best for adults weighing 200lbs - High-quality jumping shoes - Perfect fit for most shoe sizes - adjustable straps and lining - best shoes for overall body workout - best for low impact exercise
+The shoes help to rehabilitate knee and ankle injuries as well as reduce impact shock on training surfaces. 
+Pros:
+- - Best for adults weighing 200lbs
+- High-quality jumping shoes
+- Perfect fit for most shoe sizes
+- adjustable straps and lining
+- best shoes for overall body workout
+- best for low impact exercise
 
-Cons: - Can be a challenge to figure out your actual size
+
+
+Cons:
+- - Can be a challenge to figure out your actual size
+
 
 
 ###  [2. Kangoo Jumps XR3 Special Edition](https://www.amazon.com/dp/B003PE4YZ0/?tag=p-policy-20)
@@ -59,9 +70,21 @@ This jumping shoe is specially designed with adjustable t-springs to enable the 
 
 The boot has a revolutionary design placed on a durable spring-loaded construction. Flexible Sole -The XR3 Special Edition has a flexible sole that helps to absorb any excess shock while you're exercising. They are fitted with thick rubber soles to give you excellent traction and grip. You can relax knowing that chances of slipping or falling are minimal while doing your jumping exercises.
 
-Pros: - Stylish And Attractive Design - Offers A Nice Way To Keep Fit - The XR3 Special provides a remarkable and easy way of jumping. - The shoes are bouncy enough to allow you to jump your heart out, thereby losing those extra calories within a short period. - Offers A Nice Way To Keep Fit - Highly flexible - Excellent Cushioning
 
-Cons: - Challenges in finding the right fit
+Pros:
+- - Stylish And Attractive Design
+- Offers A Nice Way To Keep Fit
+- The XR3 Special provides a remarkable and easy way of jumping.
+- The shoes are bouncy enough to allow you to jump your heart out, thereby losing those extra calories within a short period.
+- Offers A Nice Way To Keep Fit
+- Highly flexible
+- Excellent Cushioning
+
+
+
+Cons:
+- - Challenges in finding the right fit
+
 
 
 ###  [3. Air Kicks Anti-Gravity Running Boots](https://www.amazon.com/dp/B0045WIVSM/?tag=p-policy-20)
@@ -76,11 +99,18 @@ So, in case the original springs wear down, you shed or gain weight, you can alw
 
 There is no need of buying another pair of the shoe if the jumping system and the shell of the boot are not worn out. T-Spring Technology -The anti-gravity boots feature T-Spring Technology. Technology is equipped with heavy-duty T-Strings that helps to transform energy into low impact jumps that are very gentle on knees, ankles, and back.
 
-Pros: - Custom replacement t-springs - Technology facilitates a seamless and cushioned motion during jumping exercise.
+
+Pros:
+- - Custom replacement t-springs
+- Technology facilitates a seamless and cushioned motion during jumping exercise.
+
 
 - The boot can be used by anyone weighing from 99 to 176 pounds and eight years old and above. - Highly durable - Excellent cushioning - T-spring technology for improved cushioning and stability
 
-Cons: - Can be quiet challenging to find a perfect fit
+
+Cons:
+- - Can be quiet challenging to find a perfect fit
+
 
 
 ###  [4. Kangoo Jumps XR3 Model](https://www.amazon.com/dp/B003PNI6OG/?tag=p-policy-20)
@@ -97,11 +127,18 @@ Beginners might find the boot more cumbersome; hence, it might not be ideal for 
 
 Excellent Cushioning - This XR3 Model has been built with a remarkable cushioning to protect your feet and legs from muscle strain, tears, sprains, or other leg injuries while jumping. Excellent Shock Absorbing -The XR3 Model is designed to absorb all excess shock as well as help in reducing the impact level while exercising. The shoes help to lessen the impact on muscles and joints by 80 %. It's's ideal for persons below 200 lbs.
 
-Pros: - High quality - Ideal for adults below 200 lbs.
+
+Pros:
+- - High quality
+- Ideal for adults below 200 lbs.
+
 
 - Comes in a variety of colors to choose from - Offers excellent cushioning
 
-Cons: - Figuring the right size can be a challenge
+
+Cons:
+- - Figuring the right size can be a challenge
+
 
 
 ###  [5. Unisex Fitness Jumping Bounce Fitness Shoes](https://www.amazon.com/dp/B01ENW8GJW/?tag=p-policy-20)
@@ -160,4 +197,5 @@ You can now jump beyond your expectation with these fantastic jumping boots. All
 Our criterion for selecting these Kangoo jumps shoes was based on stability, cushioning, support, and safety of the shoe.
 
 [embed]
+
 

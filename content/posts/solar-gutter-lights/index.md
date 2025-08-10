@@ -68,11 +68,24 @@ Selecting the right solar gutter lights involves weighing several practical and 
 
 Instead of specific models, let's look at typical categories you'll find:
 
-1. **Basic Clip-On Ambiance Lights: ** * **Features: ** Small solar panel, 6-9 LEDs, often 50-80 lumens. Simple clip installation. Auto on/off. * **Best for: ** Decorative lighting, subtle pathway markers, sheds, or smaller patios. * **Pros: ** Very affordable, easy to install. * **Cons: ** Limited brightness, may struggle in low sunlight, shorter runtime.
+1. **Basic Clip-On Ambiance Lights: ** * **Features: ** Small solar panel, 6-9 LEDs, often 50-80 lumens. Simple clip installation. Auto on/off. * **Best for: ** Decorative lighting, subtle pathway markers, sheds, or smaller patios. * **
+Pros:
+- ** Very affordable, easy to install. * **Cons: ** Limited brightness, may struggle in low sunlight, shorter runtime.
 
-2. **Standard Utility/Pathway Lights: ** * **Features: ** Larger solar panel, 18-30 LEDs, 100-200 lumens. Multiple mounting options (clip/screw). Often IP55/IP65 rated. * **Best for: ** Illuminating walkways, steps, garage doors, and general security. * **Pros: ** Good balance of brightness and affordability, reliable performance in decent sunlight. * **Cons: ** May still struggle on very cloudy days, limited advanced features.
 
-3. **Motion-Sensing Security Lights: ** * **Features: ** Larger, more efficient solar panel, 40+ LEDs, 200-400+ lumens. PIR motion sensor. Multiple modes (dim to bright on motion, or off to bright). Highly durable (IP65/IP67). Often adjustable heads. * **Best for: ** Driveways, entryways, backyards, deterring intruders, enhancing security. * **Pros: ** Excellent brightness, energy-efficient (only bright when needed), good for security.
+2. **Standard Utility/Pathway Lights: ** * **Features: ** Larger solar panel, 18-30 LEDs, 100-200 lumens. Multiple mounting options (clip/screw). Often IP55/IP65 rated. * **Best for: ** Illuminating walkways, steps, garage doors, and general security. * **
+Pros:
+- ** Good balance of brightness and affordability, reliable performance in decent sunlight. * **Cons: ** May still struggle on very cloudy days, limited advanced features.
 
-* **Cons: ** Higher price point, can be triggered by pets or wind-blown objects.
+
+3. **Motion-Sensing Security Lights: ** * **Features: ** Larger, more efficient solar panel, 40+ LEDs, 200-400+ lumens. PIR motion sensor. Multiple modes (dim to bright on motion, or off to bright). Highly durable (IP65/IP67). Often adjustable heads. * **Best for: ** Driveways, entryways, backyards, deterring intruders, enhancing security. * **
+Pros:
+- ** Excellent brightness, energy-efficient (only bright when needed), good for security.
+
+
+* **
+Cons:
+- ** Higher price point, can be triggered by pets or wind-blown objects.
+
+
 

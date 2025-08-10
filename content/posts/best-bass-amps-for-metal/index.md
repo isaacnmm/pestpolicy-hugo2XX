@@ -33,9 +33,22 @@ The gain is nicely synchronized with the resonance control knob in order to supp
 
 Importantly, this bass amp comes with best quality EQ (bass, mid and treble) and standby pedal switch that creates incredible play back music control. More so, the balanced output pairs perfectly with other electronic devices.
 
-Pros: - Strong steel cabinet and impressive design - Top quality sound circuitry and digital effect loops - Incredible Equalizers- bass, treble and MIDI - Compacted design and highly portable - Balanced output and classic pedal switch play and mute mode - Built-in five-step attenuator and Perplex control panel - 4-way rotary switch and internal Wi-Fi connectivity for editing
 
-Cons: - Slightly expensive - Special training needed
+Pros:
+- - Strong steel cabinet and impressive design
+- Top quality sound circuitry and digital effect loops
+- Incredible Equalizers- bass, treble and MIDI
+- Compacted design and highly portable
+- Balanced output and classic pedal switch play and mute mode
+- Built-in five-step attenuator and Perplex control panel
+- 4-way rotary switch and internal Wi-Fi connectivity for editing
+
+
+
+Cons:
+- - Slightly expensive
+- Special training needed
+
 
 
 ###  [2. PRS Paul Reed Smith MT15 Mark Tremonti Signature](https://www.amazon.com/dp/B0798CH4YS/?tag=p-policy-20)
@@ -48,9 +61,22 @@ PRS MT comes with traditional clean-up channels, which have independent control 
 
 Notably the 6L6 Power Tubes are impressively paired with switchable 15/7 watts option while the adjustable/fixed bias is easily accessible from back panel.
 
-Pros: - Dedicated 5-stage gain and classic effects loop - Switchable 15/7 watts option and adjustable/fixed bias - Wide range master volume and independent clean channel - Sturdy cabinet and inbuilt safety fuse - Incredible bass sound circuitry and effects loop - Anti-slip base support and standby pedal switch - Balance output and highly-portable
 
-Cons: - No reverb onboard - Control knobs not backlit
+Pros:
+- - Dedicated 5-stage gain and classic effects loop
+- Switchable 15/7 watts option and adjustable/fixed bias
+- Wide range master volume and independent clean channel
+- Sturdy cabinet and inbuilt safety fuse
+- Incredible bass sound circuitry and effects loop
+- Anti-slip base support and standby pedal switch
+- Balance output and highly-portable
+
+
+
+Cons:
+- - No reverb onboard
+- Control knobs not backlit
+
 
 
 ###  [3. Peavey invective.120 Guitar Amp Head](https://www.amazon.com/dp/B06Y48BD5F/?tag=p-policy-20)
@@ -65,9 +91,22 @@ The full range of master volume pairs effectively with resonance and presence co
 
 It comes with a single mount handle to ease portability.
 
-Pros: - Classic standby and stop pedal switch LED powered - Self-hardened cabinet and highly portable - Compacted design and stable base support - Independent resonance and presence control knobs - Dedicated clutch and lead EQ Paired to LED - 2 switchable effects and wide range master volume - Flawless musical tone and sonic-range sound quality
 
-Cons: - Lacks onboard compressor - Slightly heavy
+Pros:
+- - Classic standby and stop pedal switch LED powered
+- Self-hardened cabinet and highly portable
+- Compacted design and stable base support
+- Independent resonance and presence control knobs
+- Dedicated clutch and lead EQ Paired to LED
+- 2 switchable effects and wide range master volume
+- Flawless musical tone and sonic-range sound quality
+
+
+
+Cons:
+- - Lacks onboard compressor
+- Slightly heavy
+
 
 
 ###  [4. EVH 5150 III 50W 6L6 - Head Amp](https://www.amazon.com/dp/B079C5HPHW/?tag=p-policy-20)
@@ -82,9 +121,23 @@ You'll smoothly tune this power amp to your desired peak sound using the compreh
 
 Further, you can engage standby mode during a performance or intermittently cancel sound signals by use of a classic pedal switch that kills signal instantly upon application. Importantly, EVH wont weigh you down financially and is simple to set up.
 
-Pros: - Sturdy casing and simple foot switch - Selectable impedance and 3-channel tubes - Balanced line out and impressive sound quality - Compacted design and deep bass sound - Wide range master volume and incredible gain control - Independent presence knob and classic effects loop - Budget friendly and low maintenance cost - Tough bass support and internal safety fuse
 
-Cons: - Lacks onboard compressor - Control knob not backlit
+Pros:
+- - Sturdy casing and simple foot switch
+- Selectable impedance and 3-channel tubes
+- Balanced line out and impressive sound quality
+- Compacted design and deep bass sound
+- Wide range master volume and incredible gain control
+- Independent presence knob and classic effects loop
+- Budget friendly and low maintenance cost
+- Tough bass support and internal safety fuse
+
+
+
+Cons:
+- - Lacks onboard compressor
+- Control knob not backlit
+
 
 
 ###  [5. Marshall Amps Guitar Combo Amplifier](https://www.amazon.com/dp/B078YJWK8X/?tag=p-policy-20)
@@ -97,9 +150,22 @@ In addition, Marshall is fitted with an internal safety switch that works in hig
 
 Marshall claims market legacy for a couple of years due to its broad spectrum of quality sound deliveries and simple signal tune knob, which smooth cancel hums without causing abnormal internal shocks during live playback. Importantly, Marshall is cheap to maintain and comes with independent control volume for each channel.
 
-Pros: - Dedicated reverb for high and low power setting - Rugged sturdy cabinet and independent volume per channel - Extra powerful amp and top quality sound - Soft tube output and dedicated gain resonance control - Tough base support and deep bass sound resonance - Impressive design and balanced output - Wide range master volume and inbuilt safety switch
 
-Cons: - Slightly heavy - Requires presetting skills
+Pros:
+- - Dedicated reverb for high and low power setting
+- Rugged sturdy cabinet and independent volume per channel
+- Extra powerful amp and top quality sound
+- Soft tube output and dedicated gain resonance control
+- Tough base support and deep bass sound resonance
+- Impressive design and balanced output
+- Wide range master volume and inbuilt safety switch
+
+
+
+Cons:
+- - Slightly heavy
+- Requires presetting skills
+
 
 
 ###  [6. Orange Amplification Brent Hinds Terror Signature 15](https://www.amazon.com/dp/B079BDXMZ1/?tag=p-policy-20)
@@ -116,12 +182,26 @@ Furthermore, this power amp comes with a dedicated, internally built safety swit
 
 Terror also entails a natural/dirty sound engagement knob and switchable power output. Notably, Orange Terror is budget friendly and consumes very little power.
 
-Pros: - Instant action pedal switch and switchable power output - Strong casing and ample base support no slipping - Terror natural sound and dirty sound knob - Dual power valves and impressive design - Highly portable and lightweight - Buffered effects loop and internal safety switch - Low power consumption and budget-friendly
 
-Cons: - Limited control panel - Lacks EQ signal indicator
+Pros:
+- - Instant action pedal switch and switchable power output
+- Strong casing and ample base support no slipping
+- Terror natural sound and dirty sound knob
+- Dual power valves and impressive design
+- Highly portable and lightweight
+- Buffered effects loop and internal safety switch
+- Low power consumption and budget-friendly
+
+
+
+Cons:
+- - Limited control panel
+- Lacks EQ signal indicator
+
 
 
 ##  Conclusion
 
 If you have to enjoy continuous deep bass resonance without failure, choosing the best bass amps for metal is the first move you need to take. Before you settle on the amp of your choice, consider the amp's features such as power rating, nature of output signal, safety options, signal control modes, break switches available, as well as the range of master volume.
+
 

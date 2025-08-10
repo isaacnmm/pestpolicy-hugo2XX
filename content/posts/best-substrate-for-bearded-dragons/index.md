@@ -53,35 +53,70 @@ However, they do not provide a natural appearance and may require frequent chang
 
 ###  [1. Zoo Med Eco Cage Bearded Dragon Carpet Substrate](https://www.amazon.com/dp/B0027IZ5M6/?tag=p-policy-20)
 
-**Features: ** Made from durable, non-toxic fibers; available in various colors; provides a soft surface thats easy on the dragons belly. - **Benefits: **Reduces the risk of impaction; washable and reusable, making it eco-friendly. **Cons: **Needs regular washing to prevent bacteria buildup; may fray over time. - **Benefits: **Reduces the risk of impaction; washable and reusable, making it eco-friendly.
+**Features: ** Made from durable, non-toxic fibers; available in various colors; provides a soft surface thats easy on the dragons belly. - **Benefits: **Reduces the risk of impaction; washable and reusable, making it eco-friendly. **
+Cons:
+- **Needs regular washing to prevent bacteria buildup; may fray over time.
+- **Benefits: **Reduces the risk of impaction; washable and reusable, making it eco-friendly.
 
-- **Cons: **Needs regular washing to prevent bacteria buildup; may fray over time.
+
+- **
+Cons:
+- **Needs regular washing to prevent bacteria buildup; may fray over time.
+
 
 Related: Do Beardies eat grapes?
 
 ###  [2. SunGrow, Reptile Mat, Terrarium Floor Liner](https://www.amazon.com/dp/B07DYSC5C9/?tag=p-policy-20)
 
-**Features: ** Natural stone material; helps in filing down the bearded dragon's claws; retains heat well, aiding in thermoregulation. - **Benefits: **Easy to clean and maintain; durable and long-lasting; aesthetically pleasing. **Cons: **Can be expensive upfront; heavier to handle and install. - **Benefits: **Easy to clean and maintain; durable and long-lasting; aesthetically pleasing.
+**Features: ** Natural stone material; helps in filing down the bearded dragon's claws; retains heat well, aiding in thermoregulation. - **Benefits: **Easy to clean and maintain; durable and long-lasting; aesthetically pleasing. **
+Cons:
+- **Can be expensive upfront; heavier to handle and install.
+- **Benefits: **Easy to clean and maintain; durable and long-lasting; aesthetically pleasing.
 
-- **Cons: **Can be expensive upfront; heavier to handle and install.
+
+- **
+Cons:
+- **Can be expensive upfront; heavier to handle and install.
+
 
 ###  [3. Zoo Med ReptiSand, 10 Pounds, Desert White](https://www.amazon.com/dp/B0002DIZKC/?tag=p-policy-20)
 
-**Features: ** Fine-grain, natural sand; closely mimics the bearded dragon's natural habitat; available in different colors. - **Benefits: **Encourages natural digging behavior; visually appealing and creates a realistic desert environment. **Cons: **Risk of impaction if ingested; requires regular cleaning to avoid bacterial growth. - **Benefits: **Encourages natural digging behavior; visually appealing and creates a realistic desert environment.
+**Features: ** Fine-grain, natural sand; closely mimics the bearded dragon's natural habitat; available in different colors. - **Benefits: **Encourages natural digging behavior; visually appealing and creates a realistic desert environment. **
+Cons:
+- **Risk of impaction if ingested; requires regular cleaning to avoid bacterial growth.
+- **Benefits: **Encourages natural digging behavior; visually appealing and creates a realistic desert environment.
 
-- **Cons: **Risk of impaction if ingested; requires regular cleaning to avoid bacterial growth.
+
+- **
+Cons:
+- **Risk of impaction if ingested; requires regular cleaning to avoid bacterial growth.
+
 
 ###  [**4. Coconut Fiber (Eco Earth)**](https://www.amazon.com/dp/B002KE8L1O/?tag=p-policy-20)
 
-- **Features: **Made from natural coconut husks; retains moisture and helps maintain humidity; biodegradable. **Benefits: **Environmentally friendly; can be used in dry and humid setups; allows burrowing behavior. **Cons: **May not be ideal for bearded dragons due to higher humidity retention; can be messy if it sticks to the dragon. - **Features: **Made from natural coconut husks; retains moisture and helps maintain humidity; biodegradable.
+- **Features: **Made from natural coconut husks; retains moisture and helps maintain humidity; biodegradable. **Benefits: **Environmentally friendly; can be used in dry and humid setups; allows burrowing behavior. **
+Cons:
+- **May not be ideal for bearded dragons due to higher humidity retention; can be messy if it sticks to the dragon.
+- **Features: **Made from natural coconut husks; retains moisture and helps maintain humidity; biodegradable.
 
-- **Benefits: **Environmentally friendly; can be used in dry and humid setups; allows burrowing behavior. - **Cons: **May not be ideal for bearded dragons due to higher humidity retention; can be messy if it sticks to the dragon. Related: [Do Beardies ear tomatoes? ](https://pestpolicy.com/can-bearded-dragons-eat-tomatoes/)
+
+- **Benefits: **Environmentally friendly; can be used in dry and humid setups; allows burrowing behavior. - **
+Cons:
+- **May not be ideal for bearded dragons due to higher humidity retention; can be messy if it sticks to the dragon. Related: [Do Beardies ear tomatoes? ](https://pestpolicy.com/can-bearded-dragons-eat-tomatoes/)
+
 
 ###  [5. 3dRose Bearded Dragon Lizard Paper Towel](https://www.amazon.com/dp/B01LO9CPKS/?tag=p-policy-20)
 
-**Features: ** Inexpensive and readily available; easy to replace; provides a clean and safe surface. - **Benefits: **Zero risk of impaction; highly cost-effective; easy to monitor waste for health checks. **Cons: **Lacks aesthetic appeal; requires frequent changes to maintain cleanliness. - **Benefits: **Zero risk of impaction; highly cost-effective; easy to monitor waste for health checks.
+**Features: ** Inexpensive and readily available; easy to replace; provides a clean and safe surface. - **Benefits: **Zero risk of impaction; highly cost-effective; easy to monitor waste for health checks. **
+Cons:
+- **Lacks aesthetic appeal; requires frequent changes to maintain cleanliness.
+- **Benefits: **Zero risk of impaction; highly cost-effective; easy to monitor waste for health checks.
 
-- **Cons: **Lacks aesthetic appeal; requires frequent changes to maintain cleanliness.
+
+- **
+Cons:
+- **Lacks aesthetic appeal; requires frequent changes to maintain cleanliness.
+
 
 ###  [6. Zoo Med Excavator Clay Burrowing Substrate](https://www.amazon.com/dp/B000N5OM8S/?tag=p-policy-20)
 
@@ -102,4 +137,5 @@ Moreover, the product is manufactured with air sacs (act as heat absorbents), wh
 Choosing the best substrate for your bearded dragon is crucial for their health and well-being.
 
 By considering factors like safety, ease of cleaning, natural feel, temperature regulation, and cost-effectiveness, you can find the substrate that best suits your pets needs and your preferences.
+
 

@@ -34,9 +34,22 @@ I love that the camera has a superior (AF) Autofocus system and can film 4K vide
 
 With the AF systems sensitive being downed to -3EV (and being -4EV for Live View), youll have no problem getting focus with poor light. It has innovative sensor technology thats also used in 80D and has ISO100-32000 native sensitivity.
 
-Pros: - Its image sensor is full-frame and 30MP - Offers continuous shooting at 7fps - The autofocus system is the fast 61-point type - Its shooting format is Dual Pixel Raw - Has both SD and CF card slots - Built-in Wi-Fi plus GPS - you can transfer images easily to your FTP server - Touchscreen dippy that's 3. 2-inch, fast plus very responsive
 
-Cons: - Gives large 4K videos
+Pros:
+- - Its image sensor is full-frame and 30MP
+- Offers continuous shooting at 7fps
+- The autofocus system is the fast 61-point type
+- Its shooting format is Dual Pixel Raw
+- Has both SD and CF card slots
+- Built-in Wi-Fi plus GPS
+- you can transfer images easily to your FTP server
+- Touchscreen dippy that's 3. 2-inch, fast plus very responsive
+
+
+
+Cons:
+- - Gives large 4K videos
+
 
 
 ##  **2. Blackmagic 4K Cinema Camera Pocket Design - #2 Pick**
@@ -55,9 +68,20 @@ TheBlackmagic4KPocketwithalargemonitor(attherear) gave him an excellent recordin
 
 The duo ISO configuration allows you to choose the camera sensitivity depending on the current lighting conditions and thus reduces noise at the higher ISOs. Produces excellent DCI 4K-RAW videos plus you'll love its simple-to-use menu. Blackmagic features a five-inch full HD touchscreen and control buttons just within reach of your fingers. Such a configuration facilitates a convenient and smooth operation of the camera.
 
-It also fully equipped with several additional features that make video recording more convenient. These include HDMI port, XLR input, two card slots and USB-C support. You might also like the fact that this camera comes with Davinci Resolve, a high-end software for editing videos. Pros: - Built for 4K video shooting - Five inch screen - Can be used with photographic and cinema lenses - No crop factor - Lightweight - Comes with accessory ports
+It also fully equipped with several additional features that make video recording more convenient. These include HDMI port, XLR input, two card slots and USB-C support. You might also like the fact that this camera comes with Davinci Resolve, a high-end software for editing videos. 
+Pros:
+- - Built for 4K video shooting
+- Five inch screen
+- Can be used with photographic and cinema lenses
+- No crop factor
+- Lightweight
+- Comes with accessory ports
 
-Cons: - Does not allow continuous AF
+
+
+Cons:
+- - Does not allow continuous AF
+
 
 Related: [Beginner Filming Camera](https://pestpolicy.com/best-camera-for-beginner-filmmaker/)
 
@@ -79,9 +103,19 @@ It has 153 Autofocus points works great in filming or photographing music videos
 
 The camera showed top flexibility even for high ISO in cases that it would suffer on the RAW files elasticity. Its 20. 9 MP DX sensor (for top detail) will give you a high resolution and maintaining a high pixel density to produce a lower amount of noise. *Finally, down below is a camera captured on this fantastic Nikon D500 DSLR*.
 
-Pros: - Bluetooth connetcion - Allows fast XQD storage - Has Native ISO 51200 and the max setting is ISO 1640000 - Great 4K quality and stills - Excellent autofocus system
 
-Cons: - None
+Pros:
+- - Bluetooth connetcion
+- Allows fast XQD storage
+- Has Native ISO 51200 and the max setting is ISO 1640000
+- Great 4K quality and stills
+- Excellent autofocus system
+
+
+
+Cons:
+- - None
+
 
 
 ##  **4. Panasonic 4K Lumix GH5 Digital Camera - #4**
@@ -96,9 +130,20 @@ Lumix GH5 reaches a maximum sensitivity of ISO25600, which makes it possible to 
 
 The 5-axis stabilization sensor provides a means for correcting shaking during video or photo shooting.
 
-Thus you can operate in the camera in a handheld position and still get quality images. Also featured in Lumix GH5 is NFC and built-in Wi-Fi which provides a means for transferring videos to your smartphone. Plus theres a HDMI port for enabling live video output. Pros: - Excellent 4K video performance - Advanced autofocus - HDMI allows live output - Enhanced viewfinder - Easy-to-use touchscreen display - No crop
+Thus you can operate in the camera in a handheld position and still get quality images. Also featured in Lumix GH5 is NFC and built-in Wi-Fi which provides a means for transferring videos to your smartphone. Plus theres a HDMI port for enabling live video output. 
+Pros:
+- - Excellent 4K video performance
+- Advanced autofocus
+- HDMI allows live output
+- Enhanced viewfinder
+- Easy-to-use touchscreen display
+- No crop
 
-Cons: - No built-in flash
+
+
+Cons:
+- - No built-in flash
+
 
 Related: Point and Shoot Camera Under $100
 
@@ -114,9 +159,19 @@ The upgraded AF system now covers a wide tracking area to ensure all actions are
 
 This will be great for music recording, which requires minimal noise from the background.
 
-Whats more, Mark IV comes with an easy to use LCD screen to make your work easy and enjoyable. Plus it comes with Wi-Fi connectivity to allow quick file sharing and live streaming. Pros: - 4MP sensor - Easy connectivity with Wi-Fi - Upgraded AF system - 0 fps continuous shooting - Effective noise management
+Whats more, Mark IV comes with an easy to use LCD screen to make your work easy and enjoyable. Plus it comes with Wi-Fi connectivity to allow quick file sharing and live streaming. 
+Pros:
+- - 4MP sensor
+- Easy connectivity with Wi-Fi
+- Upgraded AF system
+- 0 fps continuous shooting
+- Effective noise management
 
-Cons: - ISO sensitivity could me made better
+
+
+Cons:
+- - ISO sensitivity could me made better
+
 
 ##  **6. Nikon (24.1 MP) D5200 DSLR Camera**
 
@@ -128,9 +183,19 @@ If youre looking for a camera for your music videos, then you wont go wrong with
 
 The sensitivity of this camera is ISO 100-6400.
 
-However, you can expand it to 25600. This will enable you to shoot music videos with minimal noise levels. D5200 is also equipped with special effects which give you the freedom to customize images. Whats more, presence of built-in Wi-Fi makes file sharing easy and convenient. Pros: - High resolution sensor - Viewfinder allows quick focusing - Effective Autofocus system - Several filter effects - Comes with a microphone slot
+However, you can expand it to 25600. This will enable you to shoot music videos with minimal noise levels. D5200 is also equipped with special effects which give you the freedom to customize images. Whats more, presence of built-in Wi-Fi makes file sharing easy and convenient. 
+Pros:
+- - High resolution sensor
+- Viewfinder allows quick focusing
+- Effective Autofocus system
+- Several filter effects
+- Comes with a microphone slot
 
-Cons: - Not touchscreen-enabled
+
+
+Cons:
+- - Not touchscreen-enabled
+
 
 ##  **7. Canon Mirrorless Camera (EOS) M10**
 
@@ -146,9 +211,19 @@ This enables the camera to capture fine details with minimal noise.
 
 The image processor for this camera is the DIGIC 6, which allows you to capture high-quality videos even in low lighting conditions. Its also responsible for high camera speed and image stabilization. EOS M10 features an AF II system which is equipped with a face detection configuration. This hastens the speed and accuracy with which you shoot images. Together with the 4. 0fps, this feature allows continuous shooting even on fast-moving scenes.
 
-The 3 inch touch screen allows easy navigation and can be tilted to 180 to enable vertical shooting. Whats more, EOS M10 comes with NFC and Wi-Fi configuration to make file sharing easy and convenient. Pros: - 18MP sensor with autofocus - Quality build - Affordable price - Touchscreen with 180 tilting - Compact design
+The 3 inch touch screen allows easy navigation and can be tilted to 180 to enable vertical shooting. Whats more, EOS M10 comes with NFC and Wi-Fi configuration to make file sharing easy and convenient. 
+Pros:
+- - 18MP sensor with autofocus
+- Quality build
+- Affordable price
+- Touchscreen with 180 tilting
+- Compact design
 
-Cons: - Lacks viewfinder
+
+
+Cons:
+- - Lacks viewfinder
+
 
 ##  **8. Nikon D3300 - 24.2 MP DSLR**
 
@@ -162,9 +237,20 @@ The camera sensitivity stands at ISO100-12800 with an option to expand to ISO256
 
 This gives you quick and accurate focusing.
 
-Though not a 100% viewfinder, you wont find unintended stuff into your captured frames. Last but no least is the 3 inch LCD screen which entails 921000 dot resolution. Although its not touchscreen, it gives you a preview of how the effects blend with the scene before pressing the trigger. Pros: - Full HD with continuous shooting - 24MP sensor - Valuable entry-level camera - Eye detection viewfinder - Numerous special effects
+Though not a 100% viewfinder, you wont find unintended stuff into your captured frames. Last but no least is the 3 inch LCD screen which entails 921000 dot resolution. Although its not touchscreen, it gives you a preview of how the effects blend with the scene before pressing the trigger. 
+Pros:
+- - Full HD with continuous shooting
+- 24MP sensor
+- Valuable entry-level camera
+- Eye detection viewfinder
+- Numerous special effects
 
-Cons: - No in-built Wi-Fi - Not touchscreen
+
+
+Cons:
+- - No in-built Wi-Fi
+- Not touchscreen
+
 
 ##  **9. Canon 90D (EOS) DSLR Camera**
 
@@ -178,9 +264,19 @@ This gives you high-resolution images that can be zoomed and cropped without aff
 
 AF focus works with both videos and still imaging. This camera also boasts of an incredible 10fps when in the autofocus mode. That means it is possible to shoot fast-moving images without compromising on their quality. EOS 90D makes use of USB 2. 0 for wired file transfer and Bluetooth/Wi-Fi for wireless transfer. Whats more, EOS 90D allows joystick control which is enjoyable especially when focusing.
 
-Pros: - 5MP sensor gives you high resolution - Ideal for full HD and UHD 4K videos - Built-in Bluetooth/Wi-Fi - Comfortable and ergonomical grip - Excellent autofocus
 
-Cons: - Absence of image stabilizer
+Pros:
+- - 5MP sensor gives you high resolution
+- Ideal for full HD and UHD 4K videos
+- Built-in Bluetooth/Wi-Fi
+- Comfortable and ergonomical grip
+- Excellent autofocus
+
+
+
+Cons:
+- - Absence of image stabilizer
+
 
 ##  [10. Sony Alpha a6000 Mirrorless Digital Camera 24.3MP](https://www.amazon.com/dp/B00I8BICB2/?tag=p-policy-20)
 
@@ -200,9 +296,21 @@ It also has a built-in Wi-Fi hotspot, which allows you to transfer to other port
 
 You can expand the cameras ISO 100-25600 to IS51200 will give you superior light sensitivity in addition to the higher resolution. Sony A6000 will record HD Video - 1080p (60 frames/ sec).
 
-Pros: - Easy picture sharing via wireless connection - Small-build camera and hence simple to handle for daily use and street photography - Great shutter speed suitable for shooting music videos and action photos - Has indispensable LCD display that's suitable for shooting videos - The autofocus on this camera will easily follow moving objects - Suitable sensor with excellent shooting range - Suitable in landscape photography with a wide dynamic range
 
-Cons: - None
+Pros:
+- - Easy picture sharing via wireless connection
+- Small-build camera and hence simple to handle for daily use and street photography
+- Great shutter speed suitable for shooting music videos and action photos
+- Has indispensable LCD display that's suitable for shooting videos
+- The autofocus on this camera will easily follow moving objects
+- Suitable sensor with excellent shooting range
+- Suitable in landscape photography with a wide dynamic range
+
+
+
+Cons:
+- - None
+
 
 ##  [11. Panasonic Lumix DMC-LX5 10.1 MP Digital Camera with 3.8x Zoom](https://www.amazon.com/dp/B003WJR69E/?tag=p-policy-20)
 
@@ -218,11 +326,19 @@ It has an ergonomic build (with its 63-point weather-sealing) and can withstand 
 
 Fujifilm X-T2 is a compact music video camera whose speed has been increased through the X-Processor Pro that includes both the predictive AF and phase-detection autofocus (AF).
 
-Pros: - When choosing a camera for[shooting music videos](https://scholarsarchive.byu.edu/cgi/viewcontent.cgi?article=7600&context=etd),it ensures it comes with slots for the microphone, USB, and memory card. - Most of the cameras also come with built-in Wi-Fi, Bluetooth, or NFC to allow secure data sharing. - This system utilizes a set of processors and AF sensors to allow phase detection or contrast detection.
+
+Pros:
+- - When choosing a camera for[shooting music videos](https://scholarsarchive.byu.edu/cgi/viewcontent.cgi?article=7600&context=etd),it ensures it comes with slots for the microphone, USB, and memory card.
+- Most of the cameras also come with built-in Wi-Fi, Bluetooth, or NFC to allow secure data sharing.
+- This system utilizes a set of processors and AF sensors to allow phase detection or contrast detection.
+
 
 - Accurate focusing results in sharp images, thus bringing out the exact details you wanted to capture. - In the continuous focusing mode, the camera can capture sharp images from fast-moving subjects.
 
-Cons: - None
+
+Cons:
+- - None
+
 
 ##  **Considerations in Choosing the Best Camera for Music Videos **
 
@@ -241,4 +357,5 @@ It works by automatically adjusting the position of the camera lens to compensat
 To get many YouTube subscribers, you require a camera with a larger sensor, interchangeable lenses, fast Auto-focus speed, & better depth of field/focus for different music video shots. Its never easy to choose the best camera for shooting music videos. Cameras come in different qualities, ease-of-use, robustness, and budget. Most of the high-end cameras come at higher prices because of their premium build and superb performance.
 
 However, therere middle-level cameras that will give you quality performance with a little pinch in your pocket. Whichever your choice, ensure what youre getting matches the quality of music videos you want to produce.
+
 

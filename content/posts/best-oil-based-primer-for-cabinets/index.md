@@ -34,9 +34,19 @@ A gallon of the primer will cover about 300 to 400 square feet of your exterior 
 
 You can use the primer over oil-based or latex paint - ensure to adequately prepare the surfaces to rid them of peeling paint, rust, mold, chalk, grease, and dust.
 
-Pros: - Prevents mildew growth due to having mildewcide - Great for use on exterior and interior surfaces - Quality USA-made primer - Great for painting areas with constant moisture and high humidity - Comes withless VOCs
 
-Cons: - Costly primer
+Pros:
+- - Prevents mildew growth due to having mildewcide
+- Great for use on exterior and interior surfaces
+- Quality USA-made primer
+- Great for painting areas with constant moisture and high humidity
+- Comes withless VOCs
+
+
+
+Cons:
+- - Costly primer
+
 
 ###  [2. Rust-Oleum 1976730 Water-based acrylic Painters-Touch Latex](https://www.amazon.com/dp/B000C02BLE/?tag=p-policy-20)
 
@@ -46,9 +56,19 @@ Rust-Oleum 1976730 will dry within 30 minutes and will cover 120 sq ft. It'll gi
 
 The primer lacks a strong odor - it is a water-based recipe and will be simple to clean. Rust-Oleum 1976730 will be easy on the surface (fast-drying ~ 30 to 32 min) - preventing cracking or chipping after it has dried. It'll fill up the imperfections and gaps - with that smooth finish. The primer is usable on the exterior and interior surfaces, metal components, and lawn furniture - including on yard dcor.
 
-Pros: - Creates that smooth finish on the surface - Chipping and cracking won't happen after drying - Quick-drying ~ 30 to 32 min - Won't produce bad or harsh odor - Simple to apply and clean
 
-Cons: - Messy primer
+Pros:
+- - Creates that smooth finish on the surface
+- Chipping and cracking won't happen after drying
+- Quick-drying ~ 30 to 32 min
+- Won't produce bad or harsh odor
+- Simple to apply and clean
+
+
+
+Cons:
+- - Messy primer
+
 
 ###  [3. Zinsser 03504 Cover-Stain Exterior/ Interior Oil Primer](https://www.amazon.com/dp/B000BZX6B4/?tag=p-policy-20)
 
@@ -58,9 +78,18 @@ Zinsser 03504 will work well on your poorly-sanded surfaces - to give that extra
 
 Zinsser 03504 is excellent for wall and exterior wood stains, priming cabinets - a suitable oil-based primer.
 
-It'll stop the tannin bleed, oak cabinets, and seals the surfaces. Pros: - Increases that surfaces shine - Affordable primer - Suitable for outdoor and indoor priming - Approved for beginner primers
+It'll stop the tannin bleed, oak cabinets, and seals the surfaces. 
+Pros:
+- - Increases that surfaces shine
+- Affordable primer
+- Suitable for outdoor and indoor priming
+- Approved for beginner primers
 
-Cons: - Non-mildew-resistant.
+
+
+Cons:
+- - Non-mildew-resistant.
+
 
 ###  **4. KILZ-Restoration Odor and Stain Maximum Blocking Latex Interior Primer**
 
@@ -78,9 +107,19 @@ The primer will also effectively cover your or block past artworks - including t
 
 The primer will hide the nuisance topcoat and offer superior repaint coverage. My brother acquired the KILZ-Restoration since his cat had urinated on their staircase-carpet steps and it was difficult to remove the smell by simple washing. Ripping the carper and priming it afresh helped to remove the smell. Equally, my aunt saved her basement stone floor from the bad odors coming from cat pee.
 
-Dampening the floor regularly reactivates the pee smell - despite thorough cleaning using soapy-bleach water. Pros: - Excellent adherence to many surfaces. - Topcoat will give that high sheen - Limited issues when priming the topcoat - Shellac primers and other stains will be effectively blocked - Drying is quick
+Dampening the floor regularly reactivates the pee smell - despite thorough cleaning using soapy-bleach water. 
+Pros:
+- - Excellent adherence to many surfaces.
+- Topcoat will give that high sheen
+- Limited issues when priming the topcoat
+- Shellac primers and other stains will be effectively blocked
+- Drying is quick
 
-Cons: - Not approved for interior cabinets.
+
+
+Cons:
+- - Not approved for interior cabinets.
+
 
 ###  **5. Zinsser B-I-N Shellac-Base house-primers and Painting Supplies Primer**
 
@@ -88,11 +127,21 @@ Zinsser B-I-N considers the health plus environmental impacts and thus its lacks
 
 Zinsser B-I-N is an excellent primer for exterior and interior application - an amazing primer for your kitchen cabinets. It'll cover stains more excellently compared to oil-based and latex primers. Zinsser B-I-N will remove most musty odors, smoke, and pet stains. It is suitable if you need a topcoat or paints the cabinets. But make sure the area is well-ventilated as it has strong-fumed alcohol.
 
-But ensure that you don't spray the primer - this may effectively increase the gas that lands on the surrounding. The spot and interior primer will effectively refurbish your cabinets. The primer will stick to your surfaces with no need to sand Pros: - Offers excellent cabinet prmer coverage - Won't require to sand the tough surfaces - and it'll stcik well - Greatly primes cabinets and surfaces that are damages, moldy, and smelly
+But ensure that you don't spray the primer - this may effectively increase the gas that lands on the surrounding. The spot and interior primer will effectively refurbish your cabinets. The primer will stick to your surfaces with no need to sand 
+Pros:
+- - Offers excellent cabinet prmer coverage
+- Won't require to sand the tough surfaces
+- and it'll stcik well
+- Greatly primes cabinets and surfaces that are damages, moldy, and smelly
 
-Cons: - Bad odor
+
+
+Cons:
+- - Bad odor
+
 
 ##  Conclusion
 
 The USA-made primer - the best oil-based primer for cabinets - is of high quality and thus loved by novices and professionals. It'll give you that smooth finish while also preventing bleeding through of damages old-paint colors, and water stains.
+
 

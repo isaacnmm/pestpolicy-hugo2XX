@@ -38,9 +38,20 @@ The upper fabric also holds the lateral and medial areas of the midfoot. Hence, 
 
 The Metcon 4 XD features a durable rubber outsole that provides a great platform during cross-fit sessions. Underneath the outsole, there is a tri-star tread pattern that aids in delivering multidirectional traction while providing needed grip on various surfaces.
 
-Pros: - Best cross fit shoes - Offers excellent support and comfort for cross-training - Stylish and comes with multiple colors - The large sole unit provides excellent stability - Excellent traction - Extremely lightweight
 
-Cons: - A customer complained the sole detached itself after only a few months of use
+Pros:
+- - Best cross fit shoes
+- Offers excellent support and comfort for cross-training
+- Stylish and comes with multiple colors
+- The large sole unit provides excellent stability
+- Excellent traction
+- Extremely lightweight
+
+
+
+Cons:
+- - A customer complained the sole detached itself after only a few months of use
+
 
 ###  [2. Reebok Women's CROSSFIT Nano 8.0 Cross Trainer](https://www.amazon.com/dp/B077V9RDQY/?tag=p-policy-20)
 
@@ -56,9 +67,22 @@ The shoe also features a flexible and cushioned forefoot that allows you to with
 
 Nano 8. 0 also features a RopePro technology located at the medial and lateral sides of the shoe. The technology provides controlled motions during rope climbing activities.
 
-The outsole features a durable rubber compound that provides needed traction during intense cross-fit training. The deep grooves on the outsole adjust to the shape of your foot allowing the shoe to move or bend naturally. Pros: - Best shoes for cross-fit training - Highly comfortable - Lightweight - Supportive upper - Breathable - Can use custom orthotics - Stable heel - Roomy forefoot
+The outsole features a durable rubber compound that provides needed traction during intense cross-fit training. The deep grooves on the outsole adjust to the shape of your foot allowing the shoe to move or bend naturally. 
+Pros:
+- - Best shoes for cross-fit training
+- Highly comfortable
+- Lightweight
+- Supportive upper
+- Breathable
+- Can use custom orthotics
+- Stable heel
+- Roomy forefoot
 
-Cons: - Some customers complain that the shoes run small
+
+
+Cons:
+- - Some customers complain that the shoes run small
+
 
 Read: [Best Running Shoes for Ice and Snow](https://pestpolicy.com/best-running-shoes-for-ice-and-snow/)
 
@@ -74,9 +98,22 @@ Nordic Lifting Crossfit sneakers have a flexible and stable anti-slip sole that 
 
 This cross trainer is a versatile shoe that provides an all-rounded workout gear idle for weightlifting, [cardio dance](https://pestpolicy.com/best-shoes-for-cardio-dance/),gym exercises, and many other exercise activities. The upper allows lightweight breathability for dry and fresh feet during intense workouts.
 
-Pros: - Excellent heel support - Breathable - Best weightlifting shoes - Available in various sizes - Offers comfort and stability - Excellent fit - The finishing is top-notch - Idle for people with wide feet
 
-Cons: - A customer with narrow feet complained that the shoe was too wide for them
+Pros:
+- - Excellent heel support
+- Breathable
+- Best weightlifting shoes
+- Available in various sizes
+- Offers comfort and stability
+- Excellent fit
+- The finishing is top-notch
+- Idle for people with wide feet
+
+
+
+Cons:
+- - A customer with narrow feet complained that the shoe was too wide for them
+
 
 ###  [4. Inov-8 Women's F-lite 235 V2 (W) Cross Trainer](https://www.amazon.com/dp/B073VS9652/?tag=p-policy-20)
 
@@ -92,9 +129,21 @@ The outsole features a geometric-patterned bottom that has a sticky rubber that 
 
 The shoe also incorporates a Rope-360 technology that extends from the outsole to the upper. It provides protection to the shoe and prevents shoe damage during rope climbing exercises. The META FLEX grooves on the forefoot encourage natural foot movement for extra flexibility during cardio, plyometrics, and other intense workouts.
 
-Pros: - Can withstand various cross-training activities without getting a biting - Lightweight and comfortable - Breathable upper - Supportive and flexible - Rope guard system protects the shoe during rope exercises - Wide toe box
 
-Cons: - Short shoelaces - Pricey, but worth it
+Pros:
+- - Can withstand various cross-training activities without getting a biting
+- Lightweight and comfortable
+- Breathable upper
+- Supportive and flexible
+- Rope guard system protects the shoe during rope exercises
+- Wide toe box
+
+
+
+Cons:
+- - Short shoelaces
+- Pricey, but worth it
+
 
 ###  [5. Under Armour Men's Charged Commit 2.0 Cross Trainer](https://www.amazon.com/dp/B07PXTZVYP/?tag=p-policy-20)
 
@@ -110,9 +159,20 @@ The heel counter offers heel support and reinforces the rearfoot. The TPU compon
 
 The outsole features a durable rubber compound that provides durability and traction. Some additional rubber is incorporated on the forefoot and heel sections to extra grip on these high tear wear areas. The rubber on the heel extends upwards and helps to protect the midsole during rope climbs.
 
-Pros: - Provides excellent support and stability during weight lifting and other cross fit exercises - Comfortable - Ideal for gym and as casual wear - Lightweight - Stylish and attractive - Best shoes for HIIT
 
-Cons: - A customer complained the shoe separates from the upper after a few months of use
+Pros:
+- - Provides excellent support and stability during weight lifting and other cross fit exercises
+- Comfortable
+- Ideal for gym and as casual wear
+- Lightweight
+- Stylish and attractive
+- Best shoes for HIIT
+
+
+
+Cons:
+- - A customer complained the shoe separates from the upper after a few months of use
+
 
 ###  [6. PUMA Women's Tazon 6 Cross-Trainer Shoe](https://www.amazon.com/dp/B01LPWO11A/?tag=p-policy-20)
 
@@ -126,9 +186,19 @@ The TPU shank ensures extra sturdiness and offers the foot remains steady during
 
 The padding on the collar and tongue ensures additional comfort and cushioning. Other than that, the outsole of Tazon 6 features a durable rubber outsole that provides traction and ensures protection against abrasion.
 
-The outsole also has a geometrical tread pattern that allows you to engage in multidirectional movements without fear of falling or sliding. The pattern provides extra grip. Pros: - Comfortable cross-training shoe - Offers support for all-day standing - High quality and durable - Stable platform - Available in various colour schemes
+The outsole also has a geometrical tread pattern that allows you to engage in multidirectional movements without fear of falling or sliding. The pattern provides extra grip. 
+Pros:
+- - Comfortable cross-training shoe
+- Offers support for all-day standing
+- High quality and durable
+- Stable platform
+- Available in various colour schemes
 
-Cons: - Some customers complained of insufficient ventilation especially during intense workouts
+
+
+Cons:
+- - Some customers complained of insufficient ventilation especially during intense workouts
+
 
 ###  [7. New Balance Men's 608 V5 Cross Trainer](https://www.amazon.com/dp/B07B41G645/?tag=p-policy-20)
 
@@ -142,9 +212,21 @@ The upper of 608 V5 is all leather that provides a secure foothold to the wearer
 
 The leather material also has small perforations throughout the upper to ensure the inside of the shoe remains aerated. The padded tongue and collar ensure extra comfort and support.
 
-Other than that, the outsole features a durable rubber compound that provides durability and protects the shoe against abrasion. The underside of the outsole has geometrical tread patterns that deliver reliable traction and grip on various training surfaces. Pros: - Durable construction - Excellent cushioning - Breathable upper - Roomy toe box - Excellent heel support - Stylish design - Comfortable
+Other than that, the outsole features a durable rubber compound that provides durability and protects the shoe against abrasion. The underside of the outsole has geometrical tread patterns that deliver reliable traction and grip on various training surfaces. 
+Pros:
+- - Durable construction
+- Excellent cushioning
+- Breathable upper
+- Roomy toe box
+- Excellent heel support
+- Stylish design
+- Comfortable
 
-Cons: - A customer complained that they run small
+
+
+Cons:
+- - A customer complained that they run small
+
 
 ##  Buyers Guide for Best Cross Training Shoes for Bad Knees
 
@@ -175,4 +257,5 @@ Ensure you choose a cross-trainer that would provide you good balance and help y
 I hope that this review on best cross-training shoes for bad knees has been helpful. All the reviewed cross-trainers will deliver excellent support and cushioning throughout your training session. Choose cross trainers that would allow your feet to move naturally during the different cross-training movements.
 
 Remember to replace your cross-training shoes immediately you notice wear and tear. However, you may decide to replace then after every 100 exercises to eliminate any chance of discomfort or injury.
+
 

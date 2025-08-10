@@ -33,11 +33,17 @@ Before diving into [microphone](https://pestpolicy.com/microphone-polar-patterns
 
 [Dynamic mics](https://pestpolicy.com/best-dynamic-microphone-for-podcasting/)use a **moving coil** attached to a diaphragm inside a magnetic field. When sound hits the diaphragm, it moves the coil, generating an electrical signal.
 
-###  **Pros:**
+###  **
+Pros:
+- **
+
 
 - Extremely durable (can handle drops and rough use). - Great at rejecting background noise. - No external power needed (plug-and-play). - Affordable (great for beginners).
 
-###  **Cons:**
+###  **
+Cons:
+- **
+
 
 - Less detailed high frequencies compared to condensers. - Not ideal for capturing subtle vocal nuances.
 
@@ -53,11 +59,17 @@ Before diving into [microphone](https://pestpolicy.com/microphone-polar-patterns
 
 Condenser mics use a **thin diaphragm** near a backplate, forming a capacitor. They require **phantom power** (usually 48V from an audio interface or mixer).
 
-###  **Pros:**
+###  **
+Pros:
+- **
+
 
 - Superior sound detail and high-frequency response. - Excellent for capturing subtle vocal/instrument nuances. - Wide variety of sizes and polar patterns.
 
-###  **Cons:**
+###  **
+Cons:
+- **
+
 
 - More sensitive to loud sounds (can distort with high SPL). - Requires external power (not ideal for simple setups). - More fragile than dynamic mics.
 
@@ -73,11 +85,17 @@ Condenser mics use a **thin diaphragm** near a backplate, forming a capacitor. T
 
 Ribbon mics use a [**thin metal ribbon**](https://en.wikipedia.org/wiki/Ribbon_microphone)suspended in a magnetic field. They produce a warm, natural sound favored in professional studios.
 
-###  **Pros:**
+###  **
+Pros:
+- **
+
 
 - Smooth, natural frequency response (no harsh highs). - Great for capturing rich, vintage-style recordings.
 
-###  **Cons:**
+###  **
+Cons:
+- **
+
 
 - Extremely fragile (ribbon can tear if mishandled). - Low output (requires a high-quality preamp). - Not suitable for loud sources (e. g. , drums).
 
@@ -93,11 +111,17 @@ Ribbon mics use a [**thin metal ribbon**](https://en.wikipedia.org/wiki/Ribbon_m
 
 Lavalier (lapel) mics clip onto clothing and connect to a recorder or transmitter.
 
-###  **Pros:**
+###  **
+Pros:
+- **
+
 
 - Small and unobtrusive. - Hands-free operation (great for on-camera work).
 
-###  **Cons:**
+###  **
+Cons:
+- **
+
 
 - Audio quality not as good as larger mics. - Can pick up clothing rustle if not positioned well.
 
@@ -113,11 +137,17 @@ Lavalier (lapel) mics clip onto clothing and connect to a recorder or transmitte
 
 Shotgun mics have a **super-directional** pickup pattern, capturing sound from a narrow angle while rejecting noise from the sides.
 
-###  **Pros:**
+###  **
+Pros:
+- **
+
 
 - Excellent at isolating sound from a distance. - Reduces ambient noise in outdoor recordings such as withyoutube video recording
 
-###  **Cons:**
+###  **
+Cons:
+- **
+
 
 - Requires careful aiming (off-axis sounds are muffled). - Not ideal for indoor acoustics (can sound hollow).
 
@@ -128,4 +158,5 @@ Shotgun mics have a **super-directional** pickup pattern, capturing sound from a
 ##  **Finally: Finding Your Perfect Mic**
 
 The best microphone depends on your **use case, budget, and environment**. - **Live sound? **Go for a**dynamic mic**(durable & reliable). - **Studio recording? **A**condenser or ribbon mic**delivers superior clarity. - **Video work? **A**lavalier or shotgun mic**ensures clean audio.
+
 

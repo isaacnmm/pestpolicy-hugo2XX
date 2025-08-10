@@ -35,7 +35,15 @@ Another great aspect of this solution is that it mixes very well with water; you
 
 One of the negative aspects of this liquid, however, is that it does not avert future weed growth. Therefore, it might be one of the best weed killers, but it isnt necessarily the ideal weed solution since it does not prevent further weed growth.
 
-Pros: - Very affordable - Fast results - Does not wash off easily, which means that constant reapplication is not necessary Cons: - Needs to be sprayed carefully - Is not pet-friendly - Only kills and does not prevent weed growth
+
+Pros:
+- - Very affordable
+- Fast results
+- Does not wash off easily, which means that constant reapplication is not necessary Cons:
+- Needs to be sprayed carefully
+- Is not pet-friendly
+- Only kills and does not prevent weed growth
+
 
 ###  [2. Preen Extended Preventer Weed Preventer](https://www.amazon.com/dp/B074J5699N/?tag=p-policy-20)
 
@@ -51,7 +59,15 @@ Another great feature of this product is that the Preen extended control weed pr
 
 The product, like everything else, does have some downsides, too. For instance, many consumers complain that Preen only prevents the growth of any future weeds and grasses but does nothing to the preexisting weeds.
 
-Pros: - The easy to use jug-handled bottle with a handy flip-top lid makes the application and spraying process very easy - Advanced weed prevention solution - Extremely effective - Lasts much longer than other weed preventing liquids Cons: - Only prevents weed growth and does not kill preexisting weed or grasses - Is not effective on a wide range of weeds and grasses
+
+Pros:
+- - The easy to use jug-handled bottle with a handy flip-top lid makes the application and spraying process very easy
+- Advanced weed prevention solution
+- Extremely effective
+- Lasts much longer than other weed preventing liquids Cons:
+- Only prevents weed growth and does not kill preexisting weed or grasses
+- Is not effective on a wide range of weeds and grasses
+
 
 ###  [3. RoundupWeed Gardent & Landscape Preventer](https://www.amazon.com/dp/B077X7XQM8/?tag=p-policy-20)
 
@@ -65,7 +81,16 @@ Moreover, the application procedure is also very easy, making gardening easier f
 
 With so many benefits, it also has some downsides, such as not being animal-friendly and only preventing weed growth and not killing the already present weeds and grass.
 
-Pros: - Keeps weeds and wild grass growth under control - Comes with an easy-to-use applicator - Effective weed prevention - Does not harm any of the desirable plants and flowers Cons: - This product is not animal-friendly - It only prevents weed growth - it does not kill weeds or grasses.
+
+Pros:
+- - Keeps weeds and wild grass growth under control
+- Comes with an easy-to-use applicator
+- Effective weed prevention
+- Does not harm any of the desirable plants and flowers Cons:
+- This product is not animal-friendly
+- It only prevents weed growth
+- it does not kill weeds or grasses.
+
 
 ###  [4. Natural Weed Killer (Food Grade Vinegar Ocean Water](https://www.amazon.com/dp/B0714NHR4Z/?tag=p-policy-20)
 
@@ -79,7 +104,17 @@ Its ocean water and vinegar composition makes it ideal for organic plants, veget
 
 Its fast results will have your garden rid of weeds within 12 to 24 hours since its first application, turning the weeds brown and killing them. However, it needs to be sprayed regularly since it washes away when the plants are washed and after rain spells.
 
-Pros: - This weed killer is safe to be used around kids and pets - It is eco-friendly - It is highly effective and produces results within 12-24 hours - Easy application - The product has a long shelf life Cons: - Weeds may grow again after watering sessions and rain spells - Unpleasant smell - Expensive
+
+Pros:
+- - This weed killer is safe to be used around kids and pets
+- It is eco-friendly
+- It is highly effective and produces results within 12-24 hours
+- Easy application
+- The product has a long shelf life Cons:
+- Weeds may grow again after watering sessions and rain spells
+- Unpleasant smell
+- Expensive
+
 
 ###  [5. Preen Garden Weed Control & Preventer](https://www.amazon.com/dp/B077NNWYY9/?tag=p-policy-20)
 
@@ -89,7 +124,17 @@ Therefore, this product is more useful for people who have just weeded their gar
 
 This product is well received by gardeners for its easy application process and long-lasting effects, i. e. , it is not easily washed off by rain or hose water. However, Preen cannot be used on flower seeds and plants that have not germinated yet or are smaller than 2 inches since they can damage, kill, or stunt their growth.
 
-Pros: - It is a time-saving product, as you dont have to worry about your weeding efforts going to waste - Contains strong chemicals that effectively and quickly kill wild grasses and weeds - Ideal for aesthetic mulch areas - Very easy to apply - Long-lasting, and does not wash off easily Cons: - Can be too strong for some plants and flowers - Requires de-weeding before application - Needs to be applied timely and in accordance with the planting seasons
+
+Pros:
+- - It is a time-saving product, as you dont have to worry about your weeding efforts going to waste
+- Contains strong chemicals that effectively and quickly kill wild grasses and weeds
+- Ideal for aesthetic mulch areas
+- Very easy to apply
+- Long-lasting, and does not wash off easily Cons:
+- Can be too strong for some plants and flowers
+- Requires de-weeding before application
+- Needs to be applied timely and in accordance with the planting seasons
+
 
 ##  Conclusion
 
@@ -98,4 +143,5 @@ So these are all the top-rated weed killer and weed preventing solutions that ca
 To ensure that you have got the best weed-killing/preventing solution, read through the above-mentioned products carefully and weigh up your options before making a purchase.
 
 To make things easier, the pros and cons have been listed, which will give you a quick breakdown of what youll be getting when you purchase one (or more) of these products to get rid of the weeds in your garden.
+
 

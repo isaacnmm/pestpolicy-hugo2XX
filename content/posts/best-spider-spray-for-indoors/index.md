@@ -29,9 +29,16 @@ It is one of the few products that kill immediately, thereby making your home as
 
 It can be used for both indoors and outdoors since once applied; rain and other elements will not degrade its power.
 
-It comes in a well-designed bottle that gives you a pleasurable application experience. The repellent works with high pressure, thereby making it easy to target the tiny holes. You can use it in homes without experiencing dire side effects in plants, animals, and kids. Once the repellent is applied, it keeps killing for up to two months. Pros: - Does not have a bad smell - Easily affordable
+It comes in a well-designed bottle that gives you a pleasurable application experience. The repellent works with high pressure, thereby making it easy to target the tiny holes. You can use it in homes without experiencing dire side effects in plants, animals, and kids. Once the repellent is applied, it keeps killing for up to two months. 
+Pros:
+- - Does not have a bad smell
+- Easily affordable
 
-Cons: - Some users say it does not last long enough
+
+
+Cons:
+- - Some users say it does not last long enough
+
 
 ### 2. [FMC Talstar Professional 3/4 Gallon Spider Killer - Close Second](https://www.amazon.com/dp/B01I5IRVDC/?tag=p-policy-20)
 
@@ -43,9 +50,16 @@ Once you have used this repellent, it keeps killing and protecting your home fro
 
 Since it works without staining or leaving behind any residue, it is a product that you can have an easy time using at home.
 
-Pros: - Easy to use - Does not contain harmful additives
 
-Cons: - Does not kill for long enough
+Pros:
+- - Easy to use
+- Does not contain harmful additives
+
+
+
+Cons:
+- - Does not kill for long enough
+
 
 ### 3. [Ortho Home Defense Comfort Wand Insect Killer](https://www.amazon.com/dp/B01N7KSXHX/?tag=p-policy-20)
 
@@ -53,9 +67,16 @@ This product - best spider spray for indoors is the favorite for many households
 
 It is carefully formulated with natural ingredients that will not jeopardize the life of your pets and loved ones. It also works without emitting any odor so you will not have to air-freshen your home after the initial application. Though you can use it as regularly as you want, with the product, you can protect your home for up to ten weeks without thinking of re-application.
 
-It protects your home by killing the spiders, and it keeps doing this for a long time, which is why it is regarded as highly effective. Pros: - Does not contain foreign additives - Easy application
+It protects your home by killing the spiders, and it keeps doing this for a long time, which is why it is regarded as highly effective. 
+Pros:
+- - Does not contain foreign additives
+- Easy application
 
-Cons: - Might not ship to some locations
+
+
+Cons:
+- - Might not ship to some locations
+
 
 Related: Do Spiders Poop?
 
@@ -65,9 +86,16 @@ Terro T2302 will help control a variety of crawly and creepy insects in your hou
 
 Luckily, you can use this spray as a crevice-and-cracks, general surface, nor spot treatment.
 
-Pros: - The product is easily affordable - The bottle is easy to use
 
-Cons: - Does not ship to some locations
+Pros:
+- - The product is easily affordable
+- The bottle is easy to use
+
+
+
+Cons:
+- - Does not ship to some locations
+
 
 [caption id="attachment_2087" align="aligncenter" width="640"]
 
@@ -81,9 +109,17 @@ It has enough power to kill spiders in contact, and this makes it worth includin
 
 If your home is infested with wolf spiders, black widow, and brown recluse, you can rid them permanently using this product. It comes ready to spray, which means you wont have to spend time trying to mix things around before you can use it. For the best results, try to target areas such as walls, cracks, and holes that are used by spiders and other insects to hide and breed. It is safe for both indoor and outdoor use.
 
-Whether you use it for outdoor or indoor treatment, the product will keep your home protected for longer compared to other repellents. Pros: - Highly effective - Easy to use
+Whether you use it for outdoor or indoor treatment, the product will keep your home protected for longer compared to other repellents. 
+Pros:
+- - Highly effective
+- Easy to use
 
-Cons: - Does not have a bad odor - Comes ready to use
+
+
+Cons:
+- - Does not have a bad odor
+- Comes ready to use
+
 
 If you are tired of hunting down spiders and killing them and having them return after a few days, you need something stronger.
 
@@ -101,11 +137,21 @@ The brand is trusted and highly regarded, not just nationally, but across the gl
 
 What makes it so popular? Its Terros handy spray can, and its easy applicator which allows for convenient spraying in even the tightest of spots, such as crevices, holes, under the furniture and everywhere you cant reach yourself.
 
-Its formula kills spiders instantly, and thats not all; it even prevents spiders from entering those spots for at least 6 weeks. Moreover, the formula does not give off any unbearable odor. This property makes it one of the best spider killers for indoor use. Pros: - Instantly kills spiders while also preventing them from coming back for up to 6 weeks - The spray is ideal for both indoor as well as outdoor use - Very handy.
+Its formula kills spiders instantly, and thats not all; it even prevents spiders from entering those spots for at least 6 weeks. Moreover, the formula does not give off any unbearable odor. This property makes it one of the best spider killers for indoor use. 
+Pros:
+- - Instantly kills spiders while also preventing them from coming back for up to 6 weeks
+- The spray is ideal for both indoor as well as outdoor use
+- Very handy.
+
 
 Also easy to use and carry - Protects the targeted area from other insects as well
 
-Cons: - Has to be sprayed away from edible products and food items - Unsafe for kids and pets - Repetitive use needed after every few weeks
+
+Cons:
+- - Has to be sprayed away from edible products and food items
+- Unsafe for kids and pets
+- Repetitive use needed after every few weeks
+
 
 ###  7. Spider and Scorpion Killing Aerosol Spray - Black Flag
 
@@ -113,9 +159,21 @@ The Black Flag Spider and Scorpion Killing Spray is a very renowned product. Its
 
 However, its not just limited to spiders and scorpions; this spray also kills other insects. This spider killing spray kills the targeted creature on immediate contact. Additionally, it helps keep spiders, scorpions, and other insects out of the house for as long as 6 months.
 
-Its easy-to-use spray bottle can reach areas such as crevices, holes, cracks, and similar tight spaces. One of its best features is that it does not stain the spots it is sprayed on and is the ideal formula for indoor use. Pros: - Effective for targeted eradiation of spiders and other insects - Lasts for 6 months - Ideal for indoor use - Doesnt stain where applied
+Its easy-to-use spray bottle can reach areas such as crevices, holes, cracks, and similar tight spaces. One of its best features is that it does not stain the spots it is sprayed on and is the ideal formula for indoor use. 
+Pros:
+- - Effective for targeted eradiation of spiders and other insects
+- Lasts for 6 months
+- Ideal for indoor use
+- Doesnt stain where applied
 
-Cons: - Unpleasant smell - Not safe for children or pets - Should be sprayed away from edibles and other food items - Contains toxic ingredients and chemicals
+
+
+Cons:
+- - Unpleasant smell
+- Not safe for children or pets
+- Should be sprayed away from edibles and other food items
+- Contains toxic ingredients and chemicals
+
 
 ###  8. Talstar Professional Spider Killer Spray by FMC
 
@@ -123,9 +181,20 @@ The FMC spider killer is the best solution to all your arachnid-related problems
 
 This spider killer solution is a multipurpose formula, which helps kill spiders, ants, worms, fleas, mosquitoes, and many such insects. It is ideal for use in shopping malls, offices, homes, gardens, and workshops. Moreover, its long-lasting formula keeps all these creatures out of your space for at least 10 weeks. However, it must be noted that it is not safe for children or animals.
 
-Pros: - It offers the most targeted spot treatment - It repels spiders and other insects, keeping them out for a long while - Suitable for almost all environments - Safe for use inside the house - Long-lasting results for up to ten weeks
 
-Cons: - Comes in a professional casing that is too much for household use - Not safe for children or pets
+Pros:
+- - It offers the most targeted spot treatment
+- It repels spiders and other insects, keeping them out for a long while
+- Suitable for almost all environments
+- Safe for use inside the house
+- Long-lasting results for up to ten weeks
+
+
+
+Cons:
+- - Comes in a professional casing that is too much for household use
+- Not safe for children or pets
+
 
 ###  9. 803064 Miss Muffets Revenge Spider Killer by Wet & Forget
 
@@ -135,9 +204,21 @@ The Wet & Forget 803064 Miss Muffets Revenge spider killer product is no excepti
 
 This spider-killing product is one of the most popular products from the Wet and Forget revenge line, which is a range of products in the Miss Muffets category and is the best spider killer for targeted spot treatments.
 
-Not only does it effectively work on all species of spiders, but it also helps kill other insects such as mosquitoes, worms, ants, etc. It is safe for both indoor as well as outdoor use, and its odorless formula makes it the perfect solution. Pros: - Safe for both residential and commercial use - Professional packaging - Effects last for almost a year - Odorless solution - Repels spiders, but also repels other insects for the same 1-year period
+Not only does it effectively work on all species of spiders, but it also helps kill other insects such as mosquitoes, worms, ants, etc. It is safe for both indoor as well as outdoor use, and its odorless formula makes it the perfect solution. 
+Pros:
+- - Safe for both residential and commercial use
+- Professional packaging
+- Effects last for almost a year
+- Odorless solution
+- Repels spiders, but also repels other insects for the same 1-year period
 
-Cons: - Contains harmful chemicals such as pesticides - The spray is toxic to human beings - Unsafe for children and petsCheck Price & Discount Today
+
+
+Cons:
+- - Contains harmful chemicals such as pesticides
+- The spray is toxic to human beings
+- Unsafe for children and petsCheck Price & Discount Today
+
 
 ###  10. Home Defense Insect Killing Spray by Ortho
 
@@ -149,17 +230,40 @@ The Ortho home defense insect killer is a liquid solution that works as an antis
 
 Even though you might not see any insects for a few weeks, it is highly recommended that customers use this product daily to keep their houses clean, disinfected, and insect and spider-free.
 
-One of its best features is that it is non-toxic and odorless and you do not have to worry about any stains when using it. Pros: - Best for indoor use - Repels spiders as well as other insects - Does not give off foul odors - Non-toxic - Does not stain - Works as an insect barrier
+One of its best features is that it is non-toxic and odorless and you do not have to worry about any stains when using it. 
+Pros:
+- - Best for indoor use
+- Repels spiders as well as other insects
+- Does not give off foul odors
+- Non-toxic
+- Does not stain
+- Works as an insect barrier
 
-Cons: - Not the best for targeted spot treatment - Cannot be sprayed from a different bottle or container
+
+
+Cons:
+- - Not the best for targeted spot treatment
+- Cannot be sprayed from a different bottle or container
+
 
 ###  11. Terro Spider & Insect Trap
 
 This spider and insect trap from the renowned brands Terro works by trapping spiders, together with any other insects present, and eventually killing them. For people not comfortable with killing these spiders and insects, the trap also allows them to release these creatures outdoors. However, this means that they can come back.
 
-The Terro spider & bug trap helps catch and get rid of insects such as mosquitoes, ants, worms, etc. It is a popular product in the market because of its non-toxic nature, easy-to-use design, kid and pet-friendly formula as well as its natural ingredients. Pros: - Traps as well as kills venomous spiders and all other insects - Non-toxic - Does not contain any pesticides - Completely natural product - Very easy to use
+The Terro spider & bug trap helps catch and get rid of insects such as mosquitoes, ants, worms, etc. It is a popular product in the market because of its non-toxic nature, easy-to-use design, kid and pet-friendly formula as well as its natural ingredients. 
+Pros:
+- - Traps as well as kills venomous spiders and all other insects
+- Non-toxic
+- Does not contain any pesticides
+- Completely natural product
+- Very easy to use
 
-Cons: - Does not kill the spiders immediately - Requires clean-upCheck Price & Discount Today
+
+
+Cons:
+- - Does not kill the spiders immediately
+- Requires clean-upCheck Price & Discount Today
+
 
 ###  12. Terro Granular Spider Killer Pack
 
@@ -169,9 +273,18 @@ Instead, it is in a granular form, thus having long-lasting effects that may las
 
 Just like most other spider killing solutions on this list, this product kills spiders, but also other insects like mosquitoes, ants, fleas, and bugs.
 
-Its handy and easy to use shaker container allows the customer to sprinkle it easily in whatever places the spiders are often spotted. However, it is not safe for kids or pets, and so, must be kept out of their reach. Pros: - Long-lasting effects - Very easy to use and carry - Non-toxic - Kills spiders as well as other insects
+Its handy and easy to use shaker container allows the customer to sprinkle it easily in whatever places the spiders are often spotted. However, it is not safe for kids or pets, and so, must be kept out of their reach. 
+Pros:
+- - Long-lasting effects
+- Very easy to use and carry
+- Non-toxic
+- Kills spiders as well as other insects
 
-Cons: - Not safe for kids or animals
+
+
+Cons:
+- - Not safe for kids or animals
+
 
 ###  13. Non-Toxic Spider Trap by Rescue
 
@@ -179,9 +292,21 @@ Spider traps have been around for quite some time now, and their effective resul
 
 Its smart design with its tin strapping allows the arachnids to enter it via its four openings, making it a perfect trapping device. Then the glue on the insides of the trap sticks to the spider, trapping it while still allowing enough space for the other spiders to continue coming in.
 
-It is a non-toxic solution to all your spider-related problems and is made entirely from natural ingredients that consist of no poisonous ingredients. It works by catching these spiders using its glue, and then killing them from the lack of food and nutrition. Pros: - Non-poisonous and free from chemicals such as pesticides - Non-toxic - Made from natural ingredients - Easy to use - Does not stain
+It is a non-toxic solution to all your spider-related problems and is made entirely from natural ingredients that consist of no poisonous ingredients. It works by catching these spiders using its glue, and then killing them from the lack of food and nutrition. 
+Pros:
+- - Non-poisonous and free from chemicals such as pesticides
+- Non-toxic
+- Made from natural ingredients
+- Easy to use
+- Does not stain
 
-Cons: - Requires clean up - Cannot trap or kill large spiders - Does not kill the spiders that it traps immediately
+
+
+Cons:
+- - Requires clean up
+- Cannot trap or kill large spiders
+- Does not kill the spiders that it traps immediately
+
 
 The products on this list are some of the best spider killers available in the market. So, the next time you see a spider, youll know what product to use.
 
@@ -190,4 +315,5 @@ All these spider killers will help you free your house of those annoying little 
 ##  Sources:
 
 1. [Brown Recluse Spider Entomology](https://entomology.ca.uky.edu/ef631)2. [Spider Management Guidelines--UC IPM](http://ipm.ucanr.edu/PMG/PESTNOTES/pn7442.html)3. [Spiders in the Home - 5. 512 - ExtensionExtension](https://extension.colostate.edu/topic-areas/insects/spiders-in-the-home-5-512/)
+
 

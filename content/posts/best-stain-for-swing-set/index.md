@@ -31,7 +31,10 @@ Besides that, the ready seal 112 is an oil-based and semi-transparent sealer. He
 
 Other than that, this sealer retains the wood grains' original color. Thus, it protects and improves the look of the cedar swing set.
 
-The Good: - Excellent mix of Stain and sealer - Eliminates multiple steps normally undertaken during the painting - Doesnt stain hands - Semi-transparent and oil-based sealer - Can use it under any temperature - Easy to use Cons: - Maybe a bit darker initially but will attain its natural tone after 14 days of application
+The Good: - Excellent mix of Stain and sealer - Eliminates multiple steps normally undertaken during the painting - Doesnt stain hands - Semi-transparent and oil-based sealer - Can use it under any temperature - Easy to use 
+Cons:
+- - Maybe a bit darker initially but will attain its natural tone after 14 days of application
+
 
 ###  **2. Ready Seal 512 - Best Stain for Redwood Playset**
 
@@ -39,7 +42,10 @@ If you want a professional class sealant and a high-quality coating for all your
 
 Besides that, this stain is an oil-based, semi-transparent stain, thus, it boosts the natural beauty of the wood. Hence, helps the texture and the fineness of the wood to stay visible. The unique formulation of Ready Seal 512 penetrates deeply into the wood to preserve and protect it from any damage or other natural elements.
 
-The Good: - Requires no wet-application - Requires no primer - It's darkest when applied for the first time, but attains its real color in roughly 14 days Cons: - A bit costly. A gallon may cover approximately 100 square feet
+The Good: - Requires no wet-application - Requires no primer - It's darkest when applied for the first time, but attains its real color in roughly 14 days 
+Cons:
+- - A bit costly. A gallon may cover approximately 100 square feet
+
 
 ###  **3. DeckWise Ipe Oil Hardwood Deck Finish **
 
@@ -49,19 +55,29 @@ Most homeowners prefer this stain for their Ipe deck.
 
 Furthermore, this Hardwood Deck Finish conditions and protects the wood. Thus, it helps to maintain a natural appearance. This stain is best on outdoor hardwood as it helps to improve the natural beauty of the wood.
 
-The Good: - Its a natural oil-based finish - Has U. V barrier protection - Offers exceptional penetration to the toughest of woods - Has special formulation to preserve and protect the natural splendor of outdoor hardwood decks Cons: - Pricey - not suitable[for small yards](https://pestpolicy.com/best-swing-sets-for-small-yards/).
+The Good: - Its a natural oil-based finish - Has U. V barrier protection - Offers exceptional penetration to the toughest of woods - Has special formulation to preserve and protect the natural splendor of outdoor hardwood decks 
+Cons:
+- - Pricey
+- not suitable[for small yards](https://pestpolicy.com/best-swing-sets-for-small-yards/).
+
 
 ###  [**4. Minwax 70012444 Wood Finish **](https://www.amazon.com/dp/B001CESFSM/?tag=p-policy-20)
 
 Minwax 70012444 is an oil-based stain that is perfect for all outdoor woods needs. This oil-based wood stain offers a lasting wood tone color, making your outdoor equipment-like swing set look brand new all year round. This wood finish is specially formulated to penetrate deep into the wood and help seal and guard the wood against any damage. Hence, your exterior deck remains safe all year round.
 
-The Good: - Great for all unfinished wood exteriors - Adds great value to all wood surfaces - Has the ability to deeply penetrate wood fibers to give a great wood finish Cons: - None
+The Good: - Great for all unfinished wood exteriors - Adds great value to all wood surfaces - Has the ability to deeply penetrate wood fibers to give a great wood finish 
+Cons:
+- - None
+
 
 ###  [5.Flood/PPG Architectural FIN Base Stain](https://www.amazon.com/dp/B01EFRQF7U/?tag=p-policy-20)
 
 Is your swing set or any other outdoor wood equipment weather-beaten? Or even lost its color over the years? Well, the Flood/PPG Architectural Clear Wood Finish will restore your exterior wood, making it as good as new. T he Flood/PPG Architectural stain is designed to revive outdoor wood structures and dried-out decks that have been damaged by weather conditions like sun, rain, and wind.
 
-The stain helps to restore natural wood beauty and protect against any damage triggered by ultraviolet rays or moisture. Furthermore, this Clear Wood Finish is good mildew resistant that protects the wood against cracking, flaking, or peeling. The Good: - Helps to revive weather-beaten exterior wood - Quality wood finish with oil-based components - Spreads up easily and evenly - High-quality stain - Repels water - Mildew resistant Cons: - None
+The stain helps to restore natural wood beauty and protect against any damage triggered by ultraviolet rays or moisture. Furthermore, this Clear Wood Finish is good mildew resistant that protects the wood against cracking, flaking, or peeling. The Good: - Helps to revive weather-beaten exterior wood - Quality wood finish with oil-based components - Spreads up easily and evenly - High-quality stain - Repels water - Mildew resistant 
+Cons:
+- - None
+
 
 ##  Considerations in the Best Stain for Swing Set
 
@@ -84,4 +100,5 @@ Soy-containing products are considered the best stain for wood, thus, can be use
 ##  Conclusion
 
 All the reviewed stain products on this list have excellent UV-blocking properties that help retain wood color for longer periods. They also have other features like mildew resistance and moisture protection among many other features. - These swing set sealers help inhibit water penetration, hence, reduce wood cracking, splitting, or warping.
+
 

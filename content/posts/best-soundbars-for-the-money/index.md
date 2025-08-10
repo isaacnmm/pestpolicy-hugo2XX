@@ -29,7 +29,10 @@ Klipsch BAR 48 is great for your living room for your big TV as it'll fix the po
 Luckily, its a 3. 1 system that has a wireless subwoofer, plus the right & left channels. The Klipsch BAR 48's has a center speaker that'll make sure that the screen dialogue is crisp and clear making it remain appropriate - both center and front. The soundbar's 3 front channels will take care of the higher and mid-range frequencies with great separation and balance. It'll give you natural-sounding and solid bass.
 
 
-Cons: - Limited connections including HDMI
+
+Cons:
+- - Limited connections including HDMI
+
 
 
 ###  [2. Samsung HW-Q90R (510W) 7.1.4-Channel - #2 Pick](https://www.amazon.com/dp/B07W88C715/?tag=p-policy-20)
@@ -44,11 +47,18 @@ The Samsung HW-Q90R is great for television particularly because it's easy to in
 
 In addition, it's easy to mount on any wall. In addition, the speakers will allow different sound profiles and hence will give you varied audio required for gaming, music, and movie - connect even to Bluetooth to pair your smartphone. The device has in-built equalizer sounds - you'll find the optical cable plus a remote - you'll also love its quartet sound modes including adaptive mode, Standard mode, and the Game Pro.
 
-Also, the soundbar's surround mode will up-mix the various sound sources going to your 7. 1. 4 audio and thus great for anyone listening to height channels but lacks a nigh mode. Pros: - HW-Q90R worked excellently with the non-Atmos content by up-mixing sounds and including many height effects for the airborne and big battle scenes. - The 7. 1. 4 HW-Q90R soundbar has 17 drivers but the wireless sub-woofer comes with 8-inch drivers.
+Also, the soundbar's surround mode will up-mix the various sound sources going to your 7. 1. 4 audio and thus great for anyone listening to height channels but lacks a nigh mode. 
+Pros:
+- - HW-Q90R worked excellently with the non-Atmos content by up-mixing sounds and including many height effects for the airborne and big battle scenes.
+- The 7. 1. 4 HW-Q90R soundbar has 17 drivers but the wireless sub-woofer comes with 8-inch drivers.
+
 
 - Also, you can use the remote control to remotely control the soundbar.
 
-Cons: - Bulky, wide, and heavy
+
+Cons:
+- - Bulky, wide, and heavy
+
 
 ###  [3. Yamaha YAS-209BL Audio SoundBar](https://www.amazon.com/dp/B07T5GGR8L/?tag=p-policy-20)
 
@@ -64,9 +74,20 @@ Further, the bar has 2 virtual surrounds that are dedicated to producing better 
 
 Further, you can use the soundbar like your Bluetooth speaker, and hence it'll be easy to stream your music or Spotify (with Wi-Fi) from the tablet, laptop, or smartphone. On design, YAS-209BL has a very compact profile but also produces excellent sound. With its small-sized body, the YAS-209BL will largely disappear on the TV console and hence some of us might not even notice its presence.
 
-Also, the wireless subwoofer makes it easy to hide the soundbar since you can simply through it behind the TV screen. Pros: - Excellent stereo performance - Great build quality - In-built Amazon Alexa - Excellent frequency response - Has a sound profile that's greatly balanced - Budget-friendly
+Also, the wireless subwoofer makes it easy to hide the soundbar since you can simply through it behind the TV screen. 
+Pros:
+- - Excellent stereo performance
+- Great build quality
+- In-built Amazon Alexa
+- Excellent frequency response
+- Has a sound profile that's greatly balanced
+- Budget-friendly
 
-Cons: - None
+
+
+Cons:
+- - None
+
 
 
 ###  [4. VIZIO SB36512-F6 5.1 Audio Soundbar Speaker](https://www.amazon.com/dp/B07JDMBK2N/?tag=p-policy-20)
@@ -83,12 +104,22 @@ However, the soundbar's overhead effect will require a reflective and flat ceili
 
 Thus, this soundbar won't work well with non-reflective, drop ceilings, and angled ceilings - particularly when they're above the recommended height. Further, the speakers have Dolby Atmos and hence with the right conditions in your room, a 20-degree angle will allow the sound to readily bounce off your ceiling to your position. But you'll get both high value and high-tech soundbar in this VIZIO SB36512-F6.
 
-Pros: - Allows Dolby Vision HDR-10, 4K or UHD connection - Works with Google Assistant and Chromecast - Upmixing with the DTS Virtual: X for two-channel audio and regular sound surround - Dolby Atmos will enhance your feel on height and space.
 
-Cons: - Poor contrast on the IR remote screen
+Pros:
+- - Allows Dolby Vision HDR-10, 4K or UHD connection
+- Works with Google Assistant and Chromecast
+- Upmixing with the DTS Virtual: X for two-channel audio and regular sound surround
+- Dolby Atmos will enhance your feel on height and space.
+
+
+
+Cons:
+- - Poor contrast on the IR remote screen
+
 
 
 ##  Conclusion
 
 Whatre the best soundbars for the money? The allowable input is ARC (Audio Return Channel), HDMI, USB, S/PDIF optical, and 3. 5mm analog useable with the streaming features and your TV tuner. You can even run a ROKU on the soundbar's HDMI ports. The Chromecast allows you to readily stream any audio or music from Google Play, iHeart Radio, Pandora, and Spotify.
+
 

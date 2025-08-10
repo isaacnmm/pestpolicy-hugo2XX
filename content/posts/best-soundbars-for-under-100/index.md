@@ -31,11 +31,19 @@ The provided Music Mode allows one to capitalize on the various musical aspects 
 
 Further, you can use the wireless or Bluetooth connection for music or song streaming. The TaoTronics soundbar won't generate screechy highs and you'll find it quite simple to set up even on Bluetooth via the tablet or phone. It has a comfortable and ergonomic remote control but you'll notice that it's small-sized. Also, Game Mode greatly enhances your immersion and gaming experience by producing game appropriate sounds.
 
-The 3 sound modes are easy to set using your remote controller (clearly labeled) and delivered with the TaoTronics 3 Equalizer soundbar. Pros: - The soundbar is compact and will be simple to move and install - its about 32 inches but might be longer than your regular speakers. - You can control the soundbar with just a number of button touches.
+The 3 sound modes are easy to set using your remote controller (clearly labeled) and delivered with the TaoTronics 3 Equalizer soundbar. 
+Pros:
+- - The soundbar is compact and will be simple to move and install
+- its about 32 inches but might be longer than your regular speakers.
+- You can control the soundbar with just a number of button touches.
+
 
 - Has 3 equalizer modes - Great remote control provided - Allow Bluetooth connections even for song or music streaming - Wired inputs including optical input, RCA, AUX, or audio cable.
 
-Cons: - None
+
+Cons:
+- - None
+
 
 Related: 2. 1 vs 5. 1 Soundbar
 
@@ -53,9 +61,18 @@ Bluetooth capability allows the soundbar to readily connect wirelessly to your l
 
 Thanks to the minimalist design, the device fits great with most decor and hence usable in any room. The device has a s treamlined design being compact with LED-annunciator lights and aluminum caps. Further, the soundbar has the minimalist design which allows easy mounting on the wall using the incorporated hardware kit.
 
-Pros: - Uses TrueSurround HD & TrueVolume for virtual-surround sound - Bass and treble are adjustable - Great volume adjustment levels. - Generates clear & crisp sound
 
-Cons: - Non sub-woofer included
+Pros:
+- - Uses TrueSurround HD & TrueVolume for virtual-surround sound
+- Bass and treble are adjustable
+- Great volume adjustment levels.
+- Generates clear & crisp sound
+
+
+
+Cons:
+- - Non sub-woofer included
+
 
 https://youtu.be/bxs5pd71r58
 
@@ -69,9 +86,20 @@ On decor, this soundbar has an excellent outlook that will match your room and s
 
 The device has a compact design that's suitable for most small or medium-sized rooms. You can mount the soundbar on any wall or set it under your TV - taking up only limited space. Meidong TV Soundbar has an incorporated remote control that'll let you adjust the audio or volume when you'll way across the room. Also, it has in-unit buttons for easier operation. The 2. 0 channel Soundbar is recommended for smart TV that are 50+ Inches.
 
-Plus it has 12 great-quality speakers that'll produce good theatre sound. Pros: - Has the optical cable - Lightweight soundbar - Convinent remote-control system - A variety of input provisions - Budget-friendly - Clear & Crisp sound
+Plus it has 12 great-quality speakers that'll produce good theatre sound. 
+Pros:
+- - Has the optical cable
+- Lightweight soundbar
+- Convinent remote-control system
+- A variety of input provisions
+- Budget-friendly
+- Clear & Crisp sound
 
-Cons: - Low quality cable
+
+
+Cons:
+- - Low quality cable
+
 
 ###  [4. TaoTronics 4 (Wireless & Wired 4.2 Spekears) - #4 Pick](https://www.amazon.com/dp/B078P4291Z/?tag=p-policy-20)
 
@@ -79,11 +107,17 @@ TaoTronics 4 is made by the proficient TaoTronics company - its a budget-friendl
 
 TaoTronics 4 provides smoother sound with an appropriate treble and bass but you may toggle the settings through your remote control. The soundbar has a short body shape measuring about 34 inches in length but its equally efficient and convenient for use in your different rooms. The Bluetooth Connection is very flawless for a great music and movie sound experience. It produces noise but also low - with a stable sound.
 
-The soundbar allows both wireless and wired installations, and hence it'll be easy to transmit your audio both on the wire (33ft) and wirelessly - including optical cables & RCA connectors. The soundbar will be quite simple to operate thanks to the remote control. Further, you'll find the in-unit buttons that allow one to select the operation mode. Pros: - AUX input, Coaxial, Optical, 3. 5 mm input.
+The soundbar allows both wireless and wired installations, and hence it'll be easy to transmit your audio both on the wire (33ft) and wirelessly - including optical cables & RCA connectors. The soundbar will be quite simple to operate thanks to the remote control. Further, you'll find the in-unit buttons that allow one to select the operation mode. 
+Pros:
+- - AUX input, Coaxial, Optical, 3. 5 mm input.
+
 
 - Remove control from even about 11 meters - The sleek and ultra-slim soundbar design makes the device great for small spaces - but it's equally stylish. - The home-theater will greatly blend with the soundbar. - Table top or wall-mounting - Short-sized (34 inches) soundbar
 
-Cons: - None
+
+Cons:
+- - None
+
 
 ###  [5. Bose SoundTouch 300 Soundbar - Suitable for Alexa](https://www.amazon.com/dp/B01KZHP44Y/?tag=p-policy-20)
 
@@ -93,11 +127,23 @@ Bose SoundTouch 300 is also a wireless-enabled soundbar with a range of bass sou
 
 The Bose soundbar will produce well-detailed and excellent audio quality.
 
-The device comes with many supplementary speakers and gives deep bass - check these [best soundbars under 300](https://pestpolicy.com/best-soundbars-under-300/).Pros: - Sound quality has a wide range - Durable and sturdy build - Flexible and deep bass - Effortless and slim design - Allows HDMI and 4K formats - Provides Bluetooth and NFC wireless connectivity
+The device comes with many supplementary speakers and gives deep bass - check these [best soundbars under 300](https://pestpolicy.com/best-soundbars-under-300/).
+Pros:
+- - Sound quality has a wide range
+- Durable and sturdy build
+- Flexible and deep bass
+- Effortless and slim design
+- Allows HDMI and 4K formats
+- Provides Bluetooth and NFC wireless connectivity
 
-Cons: - Lacks sub-woofer
+
+
+Cons:
+- - Lacks sub-woofer
+
 
 ##  Conclusion
 
 So, that's it with the best soundbars for under 100 - the sound device has an LED that'll generate different colors and hence makes it easy to operate. Also, mounting the soundbar is simple or simply under the TV screen.
+
 

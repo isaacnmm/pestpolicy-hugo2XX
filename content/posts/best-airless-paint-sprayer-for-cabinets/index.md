@@ -30,9 +30,18 @@ My uncle purchased this airless sprayer and found it great for DIY painting incl
 
 The Airless Paint Sprayer is simple to use with the included instructions with tips like the 515 or the 312 tip that's delivered with this model. Further, this sprayer worked great for my Honda civic that has a clear coat that was peeling. The paint matched excellently with the car's original paint - check their [youtube channel](.Butconsiderthehumidityastheyrecommendusingevenunder70%humiditybutthismightnotwork.
 
-Youmaynoticesomepowderymist(white) on the surface - 64% is a better point. Pros: - Graco Ultra-Corded 17M359 gave me excellent and quality finish and an airless paint sprayer, it'll give less noise. - So, I love it for home projects such as kitchen cabinets. - Gives a professional cabinet finish - Excellently repairable since you can replace or fix most of the paint sprayers
+Youmaynoticesomepowderymist(white) on the surface - 64% is a better point. 
+Pros:
+- - Graco Ultra-Corded 17M359 gave me excellent and quality finish and an airless paint sprayer, it'll give less noise.
+- So, I love it for home projects such as kitchen cabinets.
+- Gives a professional cabinet finish
+- Excellently repairable since you can replace or fix most of the paint sprayers
 
-Cons: - None
+
+
+Cons:
+- - None
+
 
 ###  [2. HomeRight 2800 C800879 Power Flo-Pro Airless Sprayer](https://www.amazon.com/dp/B008HP25IK/?tag=p-policy-20)
 
@@ -48,11 +57,17 @@ It has an intake or suction tube that's flexible to allow effective sucking of 0
 
 The sprayer has an inbuilt fine mesh filter that'll get hold of the solid particles and thus will guarantee a refined and quality cabinet finish.
 
-Pros: - Versatile airless cabinet paint sprayer with its 0.
+
+Pros:
+- - Versatile airless cabinet paint sprayer with its 0.
+
 
 015 tip size for both medium and light coatings working great for latex and acrylics paints - Offers 2800 psi from its -HP motor - Maximum hose, great motor strength, and amazing output - Easy to use by hobbyists and beginners - Has a stainless steel sprayer body that durable - Great stability than to the sprayer's rubber feet - Awesomely adjustable add effective pressure - Easy cleaning with the reversible tip
 
-Cons: - None found
+
+Cons:
+- - None found
+
 
 ###  [3. Graco Ultra-Cordless 17M363 Airless Hand-held Paint Sprayer](https://www.amazon.com/dp/B071CW2SV2/?tag=p-policy-20)
 
@@ -68,9 +83,22 @@ You can use tips for uneven spray/ coating patterns.
 
 The Flex-liner material cup will ensure that you get a less dirty painting or refilling for a suitably fine finish with its excellent product atomization.
 
-Pros: - The spray tip is super adjustable - Flexible due to being battery operated - Great for painting small jobs or projects including cabinets and furniture - Provides excellent efficiecy since its paint holder is flexible - Quick repair and its simple to use - The piston pump (Triax triple) is very durable - Sprayers won'r require paint thinning - Allows 2000 psi of continuous cabinet spraying
 
-Cons: - Not cheap
+Pros:
+- - The spray tip is super adjustable
+- Flexible due to being battery operated
+- Great for painting small jobs or projects including cabinets and furniture
+- Provides excellent efficiecy since its paint holder is flexible
+- Quick repair and its simple to use
+- The piston pump (Triax triple) is very durable
+- Sprayers won'r require paint thinning
+- Allows 2000 psi of continuous cabinet spraying
+
+
+
+Cons:
+- - Not cheap
+
 
 ###  [4. Graco-Magnum 262800 X5 Airless Paint Sprayer](https://www.amazon.com/dp/B0026SR0FW/?tag=p-policy-20)
 
@@ -82,9 +110,21 @@ The sprayers allow excellent flexibility since you can spray the paint directly 
 
 With the folly adjustable sprayer pressure, you can easily spray the indoor surfaces. Further, it'll readily cover cabinet, furniture, and other large painting projects. Graco-Magnum 262800-X5 is simple to clean since you can simply link it to your garden hose (up to 75 feet ) - making it great for outdoor and indoor painting. The PowerFlush adapter in the spray enables easy connection to the garden hose and thus fully flush out the paint.
 
-The sprayer's handle filter inbuilt and hence enables easy use. Pros: - USA-made durable Aireless sprayer - Easy to remove clogs with the sprayer's reversible tip - Easy cleaning llaowed by the devoice's PowerFlush adapter - Suction tube allow direct spraying from your 1- or 5-gallon paint bucket - No thinking required fpor the paint - Excellent agility with the long sprayer hose - Allow adjusting of painting pressure
+The sprayer's handle filter inbuilt and hence enables easy use. 
+Pros:
+- - USA-made durable Aireless sprayer
+- Easy to remove clogs with the sprayer's reversible tip
+- Easy cleaning llaowed by the devoice's PowerFlush adapter
+- Suction tube allow direct spraying from your 1- or 5-gallon paint bucket
+- No thinking required fpor the paint
+- Excellent agility with the long sprayer hose
+- Allow adjusting of painting pressure
 
-Cons: - None
+
+
+Cons:
+- - None
+
 
 ###  [5. VonHaus 3000 PSI Airless Paint Sprayer Plus Nozzle Extension](https://www.amazon.com/dp/B07KQCH386/?tag=p-policy-20)
 
@@ -98,9 +138,18 @@ The 24-feet hose allows painting on projects that are longer from the sprayer. T
 
 The DC motor powering this VonHaus airless prayer provides powerful and efficient power resulting in high-pressure.
 
-The HVLP sprayer has many spare pieces and its simple to clean. Pros: - Has many spare pieces with its simple to cleanup - The sprayer is versatile, and is a universal fit with a 24-feet hose - Budget-friendly - Excellent for various paint types
+The HVLP sprayer has many spare pieces and its simple to clean. 
+Pros:
+- - Has many spare pieces with its simple to cleanup
+- The sprayer is versatile, and is a universal fit with a 24-feet hose
+- Budget-friendly
+- Excellent for various paint types
 
-Cons: - None
+
+
+Cons:
+- - None
+
 
 ##  Sanding the Cabinets Prior to Painting
 
@@ -119,4 +168,5 @@ Primers will protect the cabinet surfaces from steam or humidity.
 ##  Conclusion
 
 On the number of coating, I consider 2 coats of primer to be appropriate - as you check the best airless paint sprayer for cabinets and home furniture.
+
 

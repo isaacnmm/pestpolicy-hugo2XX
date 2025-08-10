@@ -57,23 +57,38 @@ These features are important as they help to replicate the bearded dragons natur
 
 ###  [1.**Exo Terra Allglass Terrarium**](https://www.amazon.com/dp/B000OAYXTK/?tag=p-policy-20)
 
-This terrarium offers a dual front door design, making it easy to access your pet without the risk of escape. It also includes a waterproof base, making it suitable for both desert and rainforest setups. - **Benefits: **Spacious, durable, and designed with bearded dragons in mind, this terrarium offers ample space for movement and natural behaviors. - **Cons: **It can be heavy and difficult to move once set up.
+This terrarium offers a dual front door design, making it easy to access your pet without the risk of escape. It also includes a waterproof base, making it suitable for both desert and rainforest setups. - **Benefits: **Spacious, durable, and designed with bearded dragons in mind, this terrarium offers ample space for movement and natural behaviors. - **
+Cons:
+- **It can be heavy and difficult to move once set up.
+
 
 ###  [2.**Zoo Med ReptiBreeze Open Air Aluminum Screen Cage**](https://www.amazon.com/dp/B001PHABI8/?tag=p-policy-20)
 
-This cage is made entirely of aluminum mesh, providing exceptional ventilation. Its lightweight and easy to assemble. - **Benefits: **Ideal for environments where humidity needs to be controlled, this cage allows maximum airflow, which is crucial for preventing respiratory problems. - **Cons: **The screen design may not retain heat as effectively as glass enclosures, which could require additional heating elements.
+This cage is made entirely of aluminum mesh, providing exceptional ventilation. Its lightweight and easy to assemble. - **Benefits: **Ideal for environments where humidity needs to be controlled, this cage allows maximum airflow, which is crucial for preventing respiratory problems. - **
+Cons:
+- **The screen design may not retain heat as effectively as glass enclosures, which could require additional heating elements.
+
 
 ###  [3.**Carolina Custom Cages Terrarium**](https://www.amazon.com/dp/B01N1SGQCI/?tag=p-policy-20)
 
-This terrarium is made of high-quality glass with a metal mesh top for ventilation. Its available in various sizes to suit different stages of your bearded dragons life. - **Benefits: **Provides a secure and durable environment with clear visibility, making it easy to observe your pets behavior. - **Cons: **The price point is higher compared to other enclosures, which might be a consideration for budget-conscious buyers.
+This terrarium is made of high-quality glass with a metal mesh top for ventilation. Its available in various sizes to suit different stages of your bearded dragons life. - **Benefits: **Provides a secure and durable environment with clear visibility, making it easy to observe your pets behavior. - **
+Cons:
+- **The price point is higher compared to other enclosures, which might be a consideration for budget-conscious buyers.
+
 
 ###  [4.**Zen Habitats Reptile Enclosure**](https://www.amazon.com/dp/B07KMK6CMZ/?tag=p-policy-20)
 
-This enclosure is designed with a bamboo finish and features front-sliding doors for easy access. It also includes a waterproof base, making it easy to clean. - **Benefits: **Aesthetically pleasing and functional, this enclosure is ideal for those looking for an easy-to-maintain and stylish option. - **Cons: **The wooden finish, while attractive, may not be as durable as glass or metal over time, especially in humid environments.
+This enclosure is designed with a bamboo finish and features front-sliding doors for easy access. It also includes a waterproof base, making it easy to clean. - **Benefits: **Aesthetically pleasing and functional, this enclosure is ideal for those looking for an easy-to-maintain and stylish option. - **
+Cons:
+- **The wooden finish, while attractive, may not be as durable as glass or metal over time, especially in humid environments.
+
 
 ###  [5.**Reptile Habitats Starter Kit**](https://www.amazon.com/dp/B0CFTG55QX/?tag=p-policy-20)
 
-This kit includes everything you need to set up your bearded dragons home, from lighting to heating elements, and even dcor like a basking platform. - **Benefits: **Perfect for beginners, this all-in-one kit simplifies the setup process and ensures you have all the necessary components for a healthy habitat. - **Cons: **The included tank may be on the smaller side for adult bearded dragons, requiring an upgrade as your pet grows.
+This kit includes everything you need to set up your bearded dragons home, from lighting to heating elements, and even dcor like a basking platform. - **Benefits: **Perfect for beginners, this all-in-one kit simplifies the setup process and ensures you have all the necessary components for a healthy habitat. - **
+Cons:
+- **The included tank may be on the smaller side for adult bearded dragons, requiring an upgrade as your pet grows.
+
 
 ###  **6. Zilla Kit 10 Reptile Starter with Bulb Heater**
 
@@ -88,4 +103,5 @@ The non-abrasive substrate provides a comfortable base for your bearded dragon. 
 In conclusion, choosing the best cage for your bearded dragon involves considering various factors, from size and material to ease of cleaning and additional features. The right enclosure will provide a safe, comfortable, and stimulating environment for your pet, ensuring their well-being and happiness.
 
 Whether youre a beginner or an experienced reptile keeper, investing in a high-quality cage tailored to your bearded dragons needs is essential for their long-term health.
+
 

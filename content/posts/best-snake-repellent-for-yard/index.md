@@ -35,9 +35,16 @@ The value of the Ortho Snake B Gon relies on the fact that it keeps snakes from 
 
 However, during a rainy season, you might need to apply the repellant quite often as it is likely to be washed off. Regardless of the number of times you apply this repellant, you will not get any unpleasant odor.
 
-Pros: - Protects your yard from reptiles for up to eight weeks - You wont get an unpleasant smell
 
-Cons: - Relatively pricey
+Pros:
+- - Protects your yard from reptiles for up to eight weeks
+- You wont get an unpleasant smell
+
+
+
+Cons:
+- - Relatively pricey
+
 
 ### 2. [Havahart 6400 Shield Reptile Snake Repellent - Runners-Up](https://www.amazon.com/dp/B00PK3CYKQ/?tag=p-policy-20)
 
@@ -53,9 +60,17 @@ Though it might serve your needs, the product is a bit ineffective in the rainy 
 
 However, if there is no rain, you will get at least three months of maximum protection from snakes and other reptiles. You can use it to line the edges of your grass and to line your foundation.
 
-Pros: - It protects for up to three months - Does not have a bad odor
 
-Cons: - You need to buy in bulk - Might not ship to some locations
+Pros:
+- - It protects for up to three months
+- Does not have a bad odor
+
+
+
+Cons:
+- - You need to buy in bulk
+- Might not ship to some locations
+
 
 ### 3. [Natures Mace Snake Repellent Review](https://www.amazon.com/dp/B015VEFESC/?tag=p-policy-20)
 
@@ -71,9 +86,16 @@ Since the company is confident about the quality of the product, they provide 10
 
 Whether you live with pets and little children, you can safely use this product since it does not pose any threat to them. This has been made possible by the fact that it leverages natural ingredients that keep off snakes without harming them.
 
-Pros: - Can be used on a large area - Highly effective
 
-Cons: - Quite pricey
+Pros:
+- - Can be used on a large area
+- Highly effective
+
+
+
+Cons:
+- - Quite pricey
+
 
 ### 4. [The Snake Stopper Spray Repellent](https://www.amazon.com/dp/B00LDX954K/?tag=p-policy-20)
 
@@ -87,9 +109,17 @@ The key ingredients of the product include cinnamon, cedar oil sulfur, clove oil
 
 Since it is reformulated into liquid form, you will not have a hard time trying to apply this product in your yard. It will not have any side effect on your pets and little ones. Once you have used this product, you will keep snakes off your home for up to ninety days.
 
-Pros: - Does not have a bad smell - Can treat a large area
 
-Cons: - Not enough information on ingredients - A bit expensive
+Pros:
+- - Does not have a bad smell
+- Can treat a large area
+
+
+
+Cons:
+- - Not enough information on ingredients
+- A bit expensive
+
 
 ### 5. [The Exterminators Choice Snake Repellent](https://www.amazon.com/dp/B01EMCAFXI/?tag=p-policy-20)
 
@@ -105,9 +135,17 @@ However, users report that this product might not repel snakes far from the appl
 
 The target area should be the yard, garden, patio, and along the foundation of the house.
 
-Pros: - Relatively affordable - Does not have a bad smell
 
-Cons: - Only keeps killing for a month - Only works within the area of application
+Pros:
+- - Relatively affordable
+- Does not have a bad smell
+
+
+
+Cons:
+- - Only keeps killing for a month
+- Only works within the area of application
+
 
 ### 6. [Havahart Dr. T's 4-Pound Natural Products Snake Repelling Granules](https://www.amazon.com/dp/B004NW6776/?tag=p-policy-20)
 
@@ -121,9 +159,17 @@ This is an approved snake product that is recognized worldwide and meets the fed
 
 One package of this product can be used to treat up to 3. 5 acres, which makes it more reliable compared to other products. Note that the largest package of this repellant weighs 28-pounds. This makes it the best option if you are dealing with a severe case of snake invasion in your yard.
 
-Pros: - Can be used to treat a vast size of land - Relatively affordable - Easy application
 
-Cons: - Might have a strong unpleasant smell
+Pros:
+- - Can be used to treat a vast size of land
+- Relatively affordable
+- Easy application
+
+
+
+Cons:
+- - Might have a strong unpleasant smell
+
 
 ### 7. [Flagline Bonde 875 Snake Stopper](https://www.amazon.com/dp/B000BOKN52/?tag=p-policy-20)
 
@@ -133,9 +179,17 @@ It is safe to use in compounds with pets and kids since it does not have a bad u
 
 It comes in a powder form so that you can start using it right away by adding water. The repellent keeps protecting your home for at least four weeks following the initial application.
 
-Pros: - Uses natural ingredients - Easy application
 
-Cons: - Rain can easily wash the powder - Could kill lizards and frogs
+Pros:
+- - Uses natural ingredients
+- Easy application
+
+
+
+Cons:
+- - Rain can easily wash the powder
+- Could kill lizards and frogs
+
 
 ##  Buyer's Guide:Best Snake Repellent for Yard
 
@@ -180,4 +234,5 @@ Instead, if you apply mothballs in your garden, you will not do any harm to snak
 There are many types of snake repellents on the market. As a potential buyer, you need to check that a given repellent has effective ingredients that will not harm you and your loved ones.
 
 The other things to look for include price, and ease-of-use. Look for reliable dealers who are known to supply genuine products so that you get value for your money.
+
 

@@ -53,17 +53,34 @@ Regular primer is ideal in the following cases: - You are working with surfaces 
 
 ###  Pros and Cons of Self-Etching Primer
 
-**Pros: ** - Excellent adhesion to bare metal surfaces. - Provides corrosion resistance, making it ideal for outdoor or exposed metal surfaces. - Helps create a smoother surface for paint. - Quick-drying and[easy to apply](https://pestpolicy.com/should-i-use-water-based-or-silicone-based-primer-in-painting/)**Cons: ** - Not suitable for non-metal surfaces.
+**
+Pros:
+- **
+- Excellent adhesion to bare metal surfaces.
+- Provides corrosion resistance, making it ideal for outdoor or exposed metal surfaces.
+- Helps create a smoother surface for paint.
+- Quick-drying and[easy to apply](https://pestpolicy.com/should-i-use-water-based-or-silicone-based-primer-in-painting/)**Cons: **
+- Not suitable for non-metal surfaces.
+
 
 - Requires special care when applying to avoid over-etching, which can affect the surface finish. - More expensive than regular primer.
 
 ###  Pros and Cons of Regular Primer
 
-**Pros: ** - Versatile and can be used on a variety of surfaces. - Affordable and easy to find at most hardware stores. - Creates a smooth, even surface for paint. **Cons: ** - May not provide sufficient adhesion to bare metal surfaces. - Does not offer the same level of corrosion resistance as self-etching primer on metal.
+**
+Pros:
+- **
+- Versatile and can be used on a variety of surfaces.
+- Affordable and easy to find at most hardware stores.
+- Creates a smooth, even surface for paint. **Cons: **
+- May not provide sufficient adhesion to bare metal surfaces.
+- Does not offer the same level of corrosion resistance as self-etching primer on metal.
+
 
 ##  Conclusion
 
 Choosing between self-etching primer and regular primer depends on the surface you are working with and the specific needs of your project. If you are working with bare metal and need excellent adhesion and corrosion resistance, self-etching primer is the better option. However, if you are working with wood, drywall, or previously painted surfaces, regular primer is more versatile and cost-effective.
 
 Understanding the differences between these two types of primers can help you make an informed decision and achieve the best results for your painting project.
+
 

@@ -30,39 +30,72 @@ Youll love the Bluetooth connectivity and it equally has a rechargeable battery 
 
 The output will conveniently send the sound signals to the mixing console.
 
-I used this Fishman Loudbox with a CD player running plus an L5 type jazz box. The amp produced an excellent tone with an amazing tone. Luckily, the 29 lbs weight is also lightweight to carry around in your space or performance spaces. Pros: - Battery-powered with its battery having a long life. - High volume and highly portable busking amp (29 lbs weight) - Has 0 wireless Bluetooth connectivity
+I used this Fishman Loudbox with a CD player running plus an L5 type jazz box. The amp produced an excellent tone with an amazing tone. Luckily, the 29 lbs weight is also lightweight to carry around in your space or performance spaces. 
+Pros:
+- - Battery-powered with its battery having a long life.
+- High volume and highly portable busking amp (29 lbs weight)
+- Has 0 wireless Bluetooth connectivity
 
-Cons: - No foot-switchable chorus or reverb
+
+
+Cons:
+- - No foot-switchable chorus or reverb
+
 
 ###  [2. Roland CUBE Busting Battery Amp (Two-Channel)](https://www.amazon.com/dp/B000XALFYW/?tag=p-policy-20)
 
-Is the amp battery-powered? First, check how the busting amp is powered. For example, consider whether the amp is battery-powered. Therefore, using a busting amp thats not battery-powered will mean that youll require to get a spot near a power outlet. In addition, it would also make economic sense to get a portable generator to power your basting amplifier. Pros: - G
+Is the amp battery-powered? First, check how the busting amp is powered. For example, consider whether the amp is battery-powered. Therefore, using a busting amp thats not battery-powered will mean that youll require to get a spot near a power outlet. In addition, it would also make economic sense to get a portable generator to power your basting amplifier. 
+Pros:
+- - G
 
-Cons: - M
+
+
+Cons:
+- - M
+
 
 ###  [3. Yamaha THR10 Desktop [Guitar](https://pestpolicy.com/best-acoustic-guitar-under-1000/)Amplifier and Interface with Cubase AI Recording Software](https://www.amazon.com/dp/B006QLW5XC/?tag=p-policy-20)
 
 Battery-powered amps will make it easy to operate on different open streets or areas that have no power outlet. However, check for batteries- and AC-powered busting amps.
 
-Highly Portable and have appropriate Wattage Definitely, the busking [amp](https://pestpolicy.com/best-bass-amps-for-beginners/)must be easy to transport and highly portable real portability and reliability. Further, ensure that the amp is hardy enough to withstand the difficult conditions that are on the streets. Pros: - G
+Highly Portable and have appropriate Wattage Definitely, the busking [amp](https://pestpolicy.com/best-bass-amps-for-beginners/)must be easy to transport and highly portable real portability and reliability. Further, ensure that the amp is hardy enough to withstand the difficult conditions that are on the streets. 
+Pros:
+- - G
 
-Cons: - M
+
+
+Cons:
+- - M
+
 
 ###  [4. Roland CUBE Street EX 4-Channel 50-Watt Battery Powered Amplifier](https://www.amazon.com/dp/B00JMU1RAG/?tag=p-policy-20)
 
 Your busking amp must also be lightweight to allow you to easily carry it while youre traveling for long distances.
 
-This will allow you to easily reach large crowds and work effectively in open areas. Further, consider the amp's volume and amps. For example, the amp thats 25-watts doesnt mean that itll perform 50% as much as the 50-watt amp. Your device must produce a clear and loud sound. Pros: - G
+This will allow you to easily reach large crowds and work effectively in open areas. Further, consider the amp's volume and amps. For example, the amp thats 25-watts doesnt mean that itll perform 50% as much as the 50-watt amp. Your device must produce a clear and loud sound. 
+Pros:
+- - G
 
-Cons: - M
+
+
+Cons:
+- - M
+
 
 ###  [5. BEHRINGER EUROPORT MPA40BT-PRO](https://www.amazon.com/dp/B00ZTC56O4/?tag=p-policy-20)
 
-Pros: - G
 
-Cons: - M
+Pros:
+- - G
+
+
+
+Cons:
+- - M
+
 
 ##  Conclusion
 
 The best amplifiers for busking - In fact, your 50-watt amp may have just 3 decibels less than the 100-watts amp. Therefore, dont be confused, the wattage of the amp wont proportionately affect how much loud your amplifier will be.
+
 

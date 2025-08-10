@@ -25,7 +25,14 @@ Our guide to the 5 best cordless stick vacuums will help you find the perfect ma
 
 Dyson V15 Detect is my top stick vacuum - I love its excellent suction to remove most dirt particles and human and pet hair ( [and kill fleas](https://pestpolicy.com/does-vacuuming-kill-flea-larvae/)) on my bare floor, hardwood, carpets, or sofa - thanks to the many attachments.
 
-**Pros: ** - The battery offers 70 minutes of continuous vacuuming - Uses a laser to illuminate or sense surfaces, particles, and dust **Cons: ** - Challenging to push on hard rugs However, it is inadvisable to keep the vacuum constantly on the stand since this tends to shorten the battery life - and these batteries are pricey. Dyson V15 Detect is suitable for vacuuming bare floors and high or low-pile carpets.
+**
+Pros:
+- **
+- The battery offers 70 minutes of continuous vacuuming
+- Uses a laser to illuminate or sense surfaces, particles, and dust **Cons: **
+- Challenging to push on hard rugs However, it is inadvisable to keep the vacuum constantly on the stand since this tends to shorten the battery life
+- and these batteries are pricey. Dyson V15 Detect is suitable for vacuuming bare floors and high or low-pile carpets.
+
 
 Dyson V15 Detect has a digital display that shows the particle count or size, predicted run time, and charging status. It's interesting that you can see the level of the trash in the collection bin, which you can empty easily.
 
@@ -35,7 +42,16 @@ It also has an ergonomic design so you can easily vacuum the stairs without powe
 
 A unique feature of the Shark Stratos Cordless Vacuum is its automatically controllable suction. The Clean Sense IQ function will adjust the suction power based on the sensor report (amount of debris) on the surface.
 
-**Pros: ** - Impressive battery performance - 50+ minutes cleaning time - Great suction for dirt and debris - Brushroll is self-cleaning **Cons: ** - Longer charging time ~ 4 hours - Not suitable for thick carpeting Its MultiFlex wand arm allows the user to reach around surfaces (like under chairs or tables) easily as it is hinged at the center. It's quite ergonomic, so you won't have to lean over or bend over much.
+**
+Pros:
+- **
+- Impressive battery performance
+- 50+ minutes cleaning time
+- Great suction for dirt and debris
+- Brushroll is self-cleaning **Cons: **
+- Longer charging time ~ 4 hours
+- Not suitable for thick carpeting Its MultiFlex wand arm allows the user to reach around surfaces (like under chairs or tables) easily as it is hinged at the center. It's quite ergonomic, so you won't have to lean over or bend over much.
+
 
 It's also handy but comes with fewer attachments.
 
@@ -49,7 +65,14 @@ However, despite its ability to clean for an hour continuously, you'll get a lar
 
 Compared to Dyson, the Tineco PURE ONE S11 is notably lightweight (bagless too) so it can clean in tight spaces. It will easily clean pet hair, carpet, and hardwood. Some of the attachments are the dust brush, for upholstery, and one for crevices.
 
-**Pros: ** - Cheaper option - Lightweight and thus easy to carry **Cons: ** - Shorter run time ~ 40+ minutes continuously - Smaller dustbin You'll love that the vacuum head has LED lights to illuminate the surfaces or objects being cleaned, including tiny items [like dog hair](https://pestpolicy.com/best-vacuum-for-dog-hair/).The machine has two filters that it also cleans automatically.
+**
+Pros:
+- **
+- Cheaper option
+- Lightweight and thus easy to carry **Cons: **
+- Shorter run time ~ 40+ minutes continuously
+- Smaller dustbin You'll love that the vacuum head has LED lights to illuminate the surfaces or objects being cleaned, including tiny items [like dog hair](https://pestpolicy.com/best-vacuum-for-dog-hair/).The machine has two filters that it also cleans automatically.
+
 
 It's also digital equipment that comes with a phone app to let you know the status of the vacuum filter and the battery.
 
@@ -57,7 +80,15 @@ The function power is also automatically adjusted like with the Shark Stratos Co
 
 ###  [4. Wyze Cordless Vacuum](https://www.amazon.com/gp/product/B09J8V2CXF?ie=UTF8&asc_campaign=&asc_source=&asc_refurl=https%3A%2F%2Fwww.rtings.com%2Fvacuum%2Freviews%2Fbest%2Fcordless-stick&linkCode=ll1&tag=p-policy-20&linkId=e6e367c2a7cd02193030c8c3a66d1742&language=en_US&ref_=as_li_ss_tl)
 
-Wyze Cordless Vacuum is good for couches and hard surfaces. It also has good power but is not suitable for carpet vacuuming due to the low clearance and relatively low suction. **Pros: ** - Easy to assemble - Intensive spot cleaning with 24, 000 Pa Suction Power - Offers 50+ run time **Cons: ** - Poor build quality - plastic An extra battery would be great to have if you're vacuuming a large house.
+Wyze Cordless Vacuum is good for couches and hard surfaces. It also has good power but is not suitable for carpet vacuuming due to the low clearance and relatively low suction. **
+Pros:
+- **
+- Easy to assemble
+- Intensive spot cleaning with 24, 000 Pa Suction Power
+- Offers 50+ run time **Cons: **
+- Poor build quality
+- plastic An extra battery would be great to have if you're vacuuming a large house.
+
 
 But this one has fewer attachments and doesn't have the automatic suction power adjustment.
 
@@ -69,7 +100,15 @@ On runtime, Wyze Cordless Vacuum will give you about 60+ minutes of cleaning bef
 
 Dyson Omni-glide is designed for hard floors and excels in maneuverability. Its unique omnidirectional soft roller cleaner head allows it to glide in any direction, making it perfect for tight spaces and under furniture.
 
-**Pros: ** - Ultra-lightweight and easy to handle - Omnidirectional head for versatile cleaning - Compact and easy to store **Cons: ** - Shorter battery life compared to other models - Smaller dustbin This vacuum is ideal for quick clean-ups and daily maintenance on hard floors.
+**
+Pros:
+- **
+- Ultra-lightweight and easy to handle
+- Omnidirectional head for versatile cleaning
+- Compact and easy to store **Cons: **
+- Shorter battery life compared to other models
+- Smaller dustbin This vacuum is ideal for quick clean-ups and daily maintenance on hard floors.
+
 
 Its compact design makes it easy to store, and its perfect for apartments or smaller homes. **Key Specs: ** - **Surfaces: **Hard floors - **Weight: **1. 9 Kgs - **Run time: **20 minutes
 
@@ -102,4 +141,5 @@ Also, the vacuum should have a large dustbin to cut down on how frequently you'l
 When shopping for a cordless stick vacuum, consider lightweight designs, budget, suction power and technology, battery life, and innovative technology to help clean different floor types.
 
 This approach not only ensures a clean home but also reflects a thoughtful consideration of the broader implications of your choices, from environmental impact to inclusive design and cultural significance.
+
 

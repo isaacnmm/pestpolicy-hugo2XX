@@ -32,11 +32,17 @@ This playset will offer your kids an imaginative and creative place, where they 
 
 Theyll want to always play with it all day long.
 
-The gentle swing and slide, the fun rock wall, and the great crawl under tunnel will give your kids loads of activities to engage. Also, most of the sets weve discussed below will grow with your kids, so you dont need to worry about going back for a new purchase after a few years. You Can Also Check [Best Swing Sets under 500](https://pestpolicy.com/best-swing-sets-under-500/).Pros: - Many cool play activities and Safety is guaranteed.
+The gentle swing and slide, the fun rock wall, and the great crawl under tunnel will give your kids loads of activities to engage. Also, most of the sets weve discussed below will grow with your kids, so you dont need to worry about going back for a new purchase after a few years. You Can Also Check [Best Swing Sets under 500](https://pestpolicy.com/best-swing-sets-under-500/).
+Pros:
+- - Many cool play activities and Safety is guaranteed.
+
 
 - Kids get to develop their imagination and Highly durable. - Low height allows kids to build their balance
 
-Cons: - Low height, kids who grow fast are likely to outgrow it quickly
+
+Cons:
+- - Low height, kids who grow fast are likely to outgrow it quickly
+
 
 
 ###  [2. Step2 Panda Climber, Tan/Red/Yellow/Blue](https://www.amazon.com/dp/B0085Y831Q/?tag=p-policy-20)
@@ -49,9 +55,17 @@ When designing this fantastic playset, the manufacturer had toddlers in mind, an
 
 Also, the big platform comes fitted with rails that serve to enclose the climber, so kids are guaranteed protection while climbing. The set is easy to clean and is designed to last for many years; your kids will outgrow it and remain as good as new. You can also easily disassemble it when you want to keep it away. The recommended manufacturers age is 1. 6 - 5 years, while the allowed weight capacity is 60 lbs.
 
-The dimension of the set is 33. 25 x 52. 5 x 43. 5 and can accommodate up to 4 kids playing at a go. Pros: - Easy to clean, Easy to disassemble for storage, and Does not take much space; Safety is guaranteed. - Made using sustainable materials, Numerous play activities - Can be used indoors, Easy to assemble, and Very colorful
+The dimension of the set is 33. 25 x 52. 5 x 43. 5 and can accommodate up to 4 kids playing at a go. 
+Pros:
+- - Easy to clean, Easy to disassemble for storage, and Does not take much space; Safety is guaranteed.
+- Made using sustainable materials, Numerous play activities
+- Can be used indoors, Easy to assemble, and Very colorful
 
-Cons: - None
+
+
+Cons:
+- - None
+
 
 
 ###  [3. Step2 All-Star Sports Climber](https://www.amazon.com/dp/B00A32OR2W/?tag=p-policy-20)
@@ -68,11 +82,17 @@ All these accessories allow kids to engage in various ball activities. With this
 
 It can also allow up to 5 children to play simultaneously.
 
-*The climber features* a Climbing ladder, Slide, Scorekeeper, Football Toss, and Basketball hoop. The set features: Slides with gentle slopes for soft landings, a Climbing rock wall ideal for beginners, a Ventilation window, and a 3-point safety belt. Pros: - The climber offers multiple activities, and Safety for kids is guaranteed.
+*The climber features* a Climbing ladder, Slide, Scorekeeper, Football Toss, and Basketball hoop. The set features: Slides with gentle slopes for soft landings, a Climbing rock wall ideal for beginners, a Ventilation window, and a 3-point safety belt. 
+Pros:
+- - The climber offers multiple activities, and Safety for kids is guaranteed.
+
 
 - Made with durable materials and comes with accessories like a soccer ball, football, and basketball - Easy to assemble and The ladder provides an easy challenge for the kids
 
-Cons: - None
+
+Cons:
+- - None
+
 
 
 ###  [4. Movement God Metal A-Frame Two Seat Swing Set](https://www.amazon.com/dp/B00X5ZKC78/?tag=p-policy-20)
@@ -85,9 +105,18 @@ This A-Frame swing set features two belt swings. Its made of a powdered-coated m
 
 To prevent discoloration, heat retention, and fading, it comes covered with a UV polyethylene plastic. To ensure safety, the chains of the swings come covered with a plastic coating to prevent kids fingers from getting hurt. The recommended manufacturers age for the swing set is 3-8 years with a weight capacity of 100lbs per seat. The size and dimension of the playset are 102 x 74 x 71 inches and comes with a warranty of 5 years.
 
-Pros: - Chains come covered; hence, children cannot get injured and Meets all playground and safety standards. - Highly durable and Easy to assemble - No cement required for anchoring and Comes with a warranty of 5 years - Smooth design
 
-Cons: - Features only one play activity (swing)
+Pros:
+- - Chains come covered; hence, children cannot get injured and Meets all playground and safety standards.
+- Highly durable and Easy to assemble
+- No cement required for anchoring and Comes with a warranty of 5 years
+- Smooth design
+
+
+
+Cons:
+- - Features only one play activity (swing)
+
 
 
 ###  [5. XDP Recreation "The Titan" Swing Set](https://www.amazon.com/dp/B01MDUFTGN/?tag=p-policy-20)
@@ -102,13 +131,20 @@ Furthermore, the fun wave slide is equipped with handrails and comes with a secu
 
 The recommended manufacturers age is 3-8 years with a weight capacity of 100 lbs per seat.
 
-Parents can relax knowing their kids are playing on a swing that has been made with the highest standard of Safety. Pros: - Made of durable materials like high-density polyethylene and durable corner brackets and allow Multiple play activities to keep kids engaged - Offers five play stations, meaning up to 6 kids can play simultaneously and Swing chains come fitted with safety covers.
+Parents can relax knowing their kids are playing on a swing that has been made with the highest standard of Safety. 
+Pros:
+- - Made of durable materials like high-density polyethylene and durable corner brackets and allow Multiple play activities to keep kids engaged
+- Offers five play stations, meaning up to 6 kids can play simultaneously and Swing chains come fitted with safety covers.
+
 
 - Its 4-leged; thus, stability is guaranteed and Easy to assemble.
 
 - Leg guards provide additional Safety and Pass ASTM safety standards. - It comes with a 180-day warranty and Has attractive colors; the frame is colored Black and silver while the seats and the slides are yellow. - Wave slide comes fitted with handrails together with a safe landing zone and Powder-coated paint protects the swing set against rusting
 
-Cons: - Some customers complained that the swing seats were a bit slippery
+
+Cons:
+- - Some customers complained that the swing seats were a bit slippery
+
 
 
 ###  [6. Sportspower Super First Metal Swing Set](https://www.amazon.com/dp/B01MTW5H4P/?tag=p-policy-20)
@@ -119,13 +155,21 @@ This swing set offers several play activities that up to 6 kids can engage in, g
 
 To ensure that kids of all height get to enjoy the swing set, the developers fitted the swing chains with adjustable chains. Hence, kids of all heights have an opportunity also to have fun and enjoy themselves without feeling left out. This swing set is highly durable as its made from a dense material and steel tubes that are weather resistant. Also, the powder-coated paint used in the swing gives it excellent toughness and Durability.
 
-For additional playtime safety, the legs of the set are fitted with foam padding giving parents and kids peace of mind. It also meets ASTM safety standards. Pros: - Meets ASTM safety standards and Fitted with chains that are adjustable - Offer many play activities, and It comes pre-drilled - A powdered-coated paint gives it toughness and Durability, and Up to 6 kids can play simultaneously.
+For additional playtime safety, the legs of the set are fitted with foam padding giving parents and kids peace of mind. It also meets ASTM safety standards. 
+Pros:
+- - Meets ASTM safety standards and Fitted with chains that are adjustable
+- Offer many play activities, and It comes pre-drilled
+- A powdered-coated paint gives it toughness and Durability, and Up to 6 kids can play simultaneously.
+
 
 - Made from heavy-duty material and Durability is guaranteed as its polished with a powder-coated paint.
 
 - Safety is maintained since the set is fitted with foam-padded legs and Can withstand severe conditions since it's fitted with weather-resistant steel. - Easy to set up, it comes with clear instructions and Can fit perfectly in medium and large backyards
 
-Cons: - Anchoring set not included
+
+Cons:
+- - Anchoring set not included
+
 
 
 ###  [7. Step2 Naturally Playful Lookout Treehouse](https://www.amazon.com/dp/B000QF7KMK/?tag=p-policy-20)
@@ -138,12 +182,22 @@ The treehouse is very sturdy, giving kids all the confidence they need when play
 
 This swing set can fit perfectly in medium and large backyards, and its recommended for kids aged 3 to 8 years. The set can support a weight capacity of 100 lbs per child and up to 600 pounds in total. When assembled the set measures 134. 5 x 100 x 74 and for easier assembly, the set comes pre-drilled. This set features: 2 swing seats, A teeter-totter, A trapeze, A cool slide, Adjustable chains, and A teeter-totter.
 
-Pros: - Highly durable - Offers multiple play activities - Easy to assemble - Fitted with a roof, children can play under the sun
 
-Cons: - None
+Pros:
+- - Highly durable
+- Offers multiple play activities
+- Easy to assemble
+- Fitted with a roof, children can play under the sun
+
+
+
+Cons:
+- - None
+
 
 
 ##  Conclusion
 
 Getting an affordable yet functional and durable swing set under $200 is no longer a challenge for you. With our guide and review of under $200 swing set, you can surprise your kids with any of the swings weve reviewed. Most of the reviewed playsets offer many play activities, so even with a large family, youre still covered with our guide. Go ahead and choose a swing set that you feel is ideal for you. All the best shopping!
+
 

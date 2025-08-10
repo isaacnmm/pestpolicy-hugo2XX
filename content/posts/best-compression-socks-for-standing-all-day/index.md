@@ -32,11 +32,19 @@ The socks also feature a graduated compression to help enhance blood circulation
 
 Graduated Compression: 2XU performance socks feature graduated compression that works to improve blood circulation helping to treat or prevent swelling, or lower muscle stiffness after long hours of standing. Also, the graduated compression allows airflow and enhanced blood circulation making your feet feeling rejuvenated and comfortable throughout the days.
 
-Pros: - Support: The socks offer support to the calves and shin, preventing fatigue thus allow you to stand for extended periods without getting tired. - The material of the socks is durably designed to ensure maximum support and flexibility to the feet. - The waistband is well-streamlined allowing it to hold up without leaving marks on the legs after long hours of wearing.
+
+Pros:
+- - Support: The socks offer support to the calves and shin, preventing fatigue thus allow you to stand for extended periods without getting tired.
+- The material of the socks is durably designed to ensure maximum support and flexibility to the feet.
+- The waistband is well-streamlined allowing it to hold up without leaving marks on the legs after long hours of wearing.
+
 
 - Well-cushioned and offers many color options to chose - Perfect fit and does not expand over time and with graduated compression
 
-Cons: - A bit pricey, but highly responsive
+
+Cons:
+- - A bit pricey, but highly responsive
+
 
 
 ###  [2. Vitalsox Compression Socks for Travel - #2 Pick](https://www.amazon.com/dp/B004BKIPUC/?tag=p-policy-20)
@@ -51,9 +59,18 @@ Perfect Fit: The thin mesh stripe which runs on the front and back makes the soc
 
 Comfort: These Vitalsox socks deliver a compression rate of 15-20mmHg, making it the most comfortable socks as it allows blood circulation to your feet giving you the support you need while standing. Support: These socks offer excellent support for your arch and midfoot. The manufacturers test the compression level of the socks to ensure they attain the highest circulation increase to your feet.
 
-Best Compression Range: For best circulation, support, and comfort the company uses compression, allowing those who stand for more extended periods to benefit by increasing their stamina and quick injury recovery. Pros: - Boosts circulation - Highly durable - Great support for legs - Best Compression Range
+Best Compression Range: For best circulation, support, and comfort the company uses compression, allowing those who stand for more extended periods to benefit by increasing their stamina and quick injury recovery. 
+Pros:
+- - Boosts circulation
+- Highly durable
+- Great support for legs
+- Best Compression Range
 
-Cons: - Quite pricey
+
+
+Cons:
+- - Quite pricey
+
 
 
 ###  [3. Sockwell Circulator Compression Socks - Best for circulation - #3 Pick](https://www.amazon.com/dp/B005P4N3UU//?tag=p-policy-20)
@@ -68,11 +85,19 @@ Comfort: These socks offer unmatched comfort and will give you the support you n
 
 They are manufactured using 32 percent uber-soft wool. Moderate Compression: These graduated socks provide moderate compression making them ideal wear for those who stand for more extended periods. Youll not struggle to put them on or pull them off as they are not very tight. They hold up well and provide a nice blend of durability and comfort. Design: The graduated design allows consistent pressure on the ankle, foot, and calves.
 
-Also, the light cushion sole design ensures comfort while the seamless toe closure gives these socks a longer lifespan. Pros: - Such socks will put the right amount of pressure on your legs allowing the blood vessels to function better - prevents tissue damage. - Furthermore, they have bamboo rayon, spandex, and Stretch Nylon giving the socks required a level of compression and elasticity while maintaining their durability.
+Also, the light cushion sole design ensures comfort while the seamless toe closure gives these socks a longer lifespan. 
+Pros:
+- - Such socks will put the right amount of pressure on your legs allowing the blood vessels to function better
+- prevents tissue damage.
+- Furthermore, they have bamboo rayon, spandex, and Stretch Nylon giving the socks required a level of compression and elasticity while maintaining their durability.
+
 
 - Supportive and comfortable - Sole provides effective cushioning - Provides arch support
 
-Cons: - None
+
+Cons:
+- - None
+
 
 
 ###  [4 Physix Gear Nurses, Running, Pregnancy](https://www.amazon.com/dp/B01J4MF5UY/?tag=p-policy-20)
@@ -85,13 +110,21 @@ Therefore, smelly feet and discomfort will be something of the past when you inv
 
 Perfect Fit: These socks provide excellent compression, hence; have an exceptional level of tightness which helps to enhance circulation, thereby preventing swelling. For a more comfortable and perfect fit, the socks are designed with a support mechanism to keep your feet, legs, and ankles flexible and firm as you stand for those hours. Highly Responsive: These compression socks are quality meets comfort and are ideal for those who stand all day.
 
-Even after hours of wearing them, youll be very comfortable. The socks are durable and do not wear and tear quickly. Pros: - Highly durable andFits perfectly - Comfort: The fabric used in the manufacture of these compressions socks is comfy and soft, with a low risk of either chaffing or uncomfortably rubbing your feet.
+Even after hours of wearing them, youll be very comfortable. The socks are durable and do not wear and tear quickly. 
+Pros:
+- - Highly durable andFits perfectly
+- Comfort: The fabric used in the manufacture of these compressions socks is comfy and soft, with a low risk of either chaffing or uncomfortably rubbing your feet.
+
 
 - Also, the design prevents excess tightening around the ankles or calves, while holding the socks securely to prevent them from slipping off.
 
 - Comfortable andHighly responsive - Design: The wide calf design is specifically included to ensure your calf muscles are not compressed too tightly. - Also, the mouth of the socks is a bit wider but with enough elasticity to allow easy pull-on. Once youve worn them, the midweight compression offers support to your feet, calves, and ankles.
 
-Cons: - A bit tight for men and women with large calves - Few color option
+
+Cons:
+- - A bit tight for men and women with large calves
+- Few color option
+
 
 
 ###  [5. SB SOX Compression Socks - Budget-Friendly Socks](https://www.amazon.com/dp/B01N7QMYOE/?tag=p-policy-20)
@@ -112,11 +145,19 @@ Comfort: These socks are designed using layers of elastic to give a more consist
 
 Youre assured of comfort and support even after wearing the socks the whole day. The compression is not very tight, allowing blood circulation to your feet. Breathability: The fabric used in the manufacture of these socks is bacteria-resistant, hence prevent odor. The socks feature a ventilated system that has a breathable mesh. Meaning, you can comfortably wear these socks for the entire day, leaving your feet and legs feeling fresh.
 
-The midweight compression allows the free flow of air inside the stockings. Pros: - Features lightweight breathable materials to give you comfort. It also features anti-static and anti-odor material. - Ideal for both men and women - Provides graduated compression throughout your shins, feet, and calves to improve blood circulation, muscle, and joint stability.
+The midweight compression allows the free flow of air inside the stockings. 
+Pros:
+- - Features lightweight breathable materials to give you comfort. It also features anti-static and anti-odor material.
+- Ideal for both men and women
+- Provides graduated compression throughout your shins, feet, and calves to improve blood circulation, muscle, and joint stability.
+
 
 - Thus, you get the stamina to withstand longer standing periods. Offers excellent cushioning - Improves stability of joints and breathability - Graduated compression and highly durable fabric
 
-Cons: - Some customers complain about Pilling of the material during machine wash
+
+Cons:
+- - Some customers complain about Pilling of the material during machine wash
+
 
 
 ##  Consideration in Compression Socks for Standing All Day
@@ -138,4 +179,5 @@ Compression socks come in different styles and designs. They include; Knee-High 
 This guide is comprehensive enough to help you choose the best compression socks for standing all day. Each of the reviewed products meets the highest standards of durability, quality, and stability. They are well-cushioned, comfortable, and offer the necessary support. Go through each sock review and choose those that you feel are ideal for you.
 
 We promise you to value all the reviewed socks. However, if you have any medical condition, get recommendations from your doctor before buying the compression socks.
+
 

@@ -36,9 +36,19 @@ The Avery Island Orthopedic Shoe features an orthotic insole that comes with exc
 
 The extra depth design and the wide toe box provide a comfortable fit that relieves pressure on your sensitive feet. The toe box allows your toes to move freely while the soft leather upper ensures youve got a non-binding fit for additional comfort.
 
-Other than that, this athletic and therapeutic footwear is available in various width options including Extra-Extra-Wide, Extra-Wide, Medium, Wide, and narrow. The widths options ensure you get a perfect customized fit just for you. Pros: - Available in various width options - Delivers excellent cushioning - Comfortable - The orthotic insole provides anatomical arch support - Wide toe box
+Other than that, this athletic and therapeutic footwear is available in various width options including Extra-Extra-Wide, Extra-Wide, Medium, Wide, and narrow. The widths options ensure you get a perfect customized fit just for you. 
+Pros:
+- - Available in various width options
+- Delivers excellent cushioning
+- Comfortable
+- The orthotic insole provides anatomical arch support
+- Wide toe box
 
-Cons: - Some people complained that they run big
+
+
+Cons:
+- - Some people complained that they run big
+
 
 ###  [2. SAS Men's Tripad Comfort Leather Walking Shoe](https://www.amazon.com/dp/B00GNJXXDS/?tag=p-policy-20)
 
@@ -58,9 +68,19 @@ Another incredible feature is SAS Tongue-Holder. The cushioned tongue and collar
 
 The SAS mens shoes are available in many width options including extra-wide, medium, and narrow. These sizes ensure that whatever your feet type or size you will find a pair that fits perfectly.
 
-Youll appreciate the arch support and the back support these shoes provide. These shoes alleviate and enhance the health of the feet. Pros: - Available in various sizes - Ample arch support - Excellent cushioning - Comfortable - Great lace-up design
+Youll appreciate the arch support and the back support these shoes provide. These shoes alleviate and enhance the health of the feet. 
+Pros:
+- - Available in various sizes
+- Ample arch support
+- Excellent cushioning
+- Comfortable
+- Great lace-up design
 
-Cons: - Expensive
+
+
+Cons:
+- - Expensive
+
 
 ###  [3. Broadway Orthopedic Mens Loafers](https://www.amazon.com/dp/B003OHC2KW/?tag=p-policy-20)
 
@@ -74,9 +94,20 @@ This orthopedic mens shoe has a spacious toe box area that provides a comfortabl
 
 Furthermore, these mens walking shoes are available in various width options including, Extra-Wide, Extra-Extra-Wide, medium, and narrow. The wide toe box and the extended widths ensure that people with [wide feet](https://pestpolicy.com/best-running-shoes-for-men-with-wide-feet/)benefit from these shoes.
 
-The removable insoles and extra depth design facilitate the use of custom orthotics. This comfort feature aids in easing stress on the wearers joints thereby enhancing stability to improve your gait cycle. Pros: - Comfortable - Well-cushioned - Alleviates back discomfort - Available in various widths - Can use custom orthotics for added comfort - Soft upper leather
+The removable insoles and extra depth design facilitate the use of custom orthotics. This comfort feature aids in easing stress on the wearers joints thereby enhancing stability to improve your gait cycle. 
+Pros:
+- - Comfortable
+- Well-cushioned
+- Alleviates back discomfort
+- Available in various widths
+- Can use custom orthotics for added comfort
+- Soft upper leather
 
-Cons: - A customer complained that the shoe doesnt last long
+
+
+Cons:
+- - A customer complained that the shoe doesnt last long
+
 
 **Best womens Dress Shoes for Back Pain**
 
@@ -92,9 +123,20 @@ Other than that, the shoe is roomy enough and can accommodate women with wide fe
 
 The platform measures about 1" while the heel measures 1. 5". This means the shoe is comfortable enough for all-day standing or walking.
 
-The Alegria Women's Debra comes in a variety of prints and colors allowing you to choose a perfect match for your professional look. Pros: - Superior arch support - Comfortable - Slip-resistant - Durable leather upper - Cushioned - Comfortable
+The Alegria Women's Debra comes in a variety of prints and colors allowing you to choose a perfect match for your professional look. 
+Pros:
+- - Superior arch support
+- Comfortable
+- Slip-resistant
+- Durable leather upper
+- Cushioned
+- Comfortable
 
-Cons: - Some customers complained that they are not highly durable
+
+
+Cons:
+- - Some customers complained that they are not highly durable
+
 
 ###  [5. Dansko Women's Loralie Wedge](https://www.amazon.com/dp/B077VTBHTN/?tag=p-policy-20)
 
@@ -106,9 +148,19 @@ The footbed insert and the adjustable buckle trap ensure you get personalized fi
 
 The Loralie Wedge provides supportive, stylish, and comfort features that allow you to be on your feet all day without any discomfort. The stabilizing PU wedge insert ensures you have needed all-day support.
 
-Dansko is a renowned footwear brand that manufactures innovative designs, which promote overall body health. The Loralie Wedge is available in different sizes and colors. Thus, irrespective of the size of your foot youll definitely find a size that suits you perfectly. Pros: - Available in different sizes and colors - Well-cushioned - Comfortable - Adjustable buckle strap ensures a secure fit - Offers ample support
+Dansko is a renowned footwear brand that manufactures innovative designs, which promote overall body health. The Loralie Wedge is available in different sizes and colors. Thus, irrespective of the size of your foot youll definitely find a size that suits you perfectly. 
+Pros:
+- - Available in different sizes and colors
+- Well-cushioned
+- Comfortable
+- Adjustable buckle strap ensures a secure fit
+- Offers ample support
 
-Cons: - A customer complained that theyre a bit narrow at the toe box
+
+
+Cons:
+- - A customer complained that theyre a bit narrow at the toe box
+
 
 ###  [6. Drew Shoe Women's Bloom II Mary Jane](https://www.amazon.com/dp/B000TBHZWQ/?tag=p-policy-20)
 
@@ -124,9 +176,20 @@ In addition, the Bloom II Mary Jane shoe comes with two removable insoles that d
 
 The Firm Heel Counter ensures you have maximum arch support while the soft padded collar promotes extra comfort.
 
-The Polyurethane Rocker Bottom adapts to your natural walking gait to ensure you have correct postures or all-day comfort. Pros: - Can use custom orthotics - Comfortable - Odour and Stain Control mechanism - Firm Heel Counter - Microbe shield prevents odours and staining - Wide toe box
+The Polyurethane Rocker Bottom adapts to your natural walking gait to ensure you have correct postures or all-day comfort. 
+Pros:
+- - Can use custom orthotics
+- Comfortable
+- Odour and Stain Control mechanism
+- Firm Heel Counter
+- Microbe shield prevents odours and staining
+- Wide toe box
 
-Cons: - A customer complained that the sole was thick and chunky
+
+
+Cons:
+- - A customer complained that the sole was thick and chunky
+
 
 ###  [7. Clarks Women's Medora Nina Flat](https://www.amazon.com/dp/B01IAWLT7M/?tag=p-policy-20)
 
@@ -136,9 +199,19 @@ The uppers of this Clarks shoe feature a durable leather thats soft and easy to 
 
 The soft cushion technology and the OrthoLite molded footbed delivers extra comfort. This means you can wear these shoes during long work shifts or walk around with them for extended periods without feeling any foot or back discomfort.
 
-The Clarks Women's Medora shoes have a rubber sole that adds to the shoes durability. The heel height is 1. 33 and heel measures about 1. These measurements are ideal for all-day walking or standing. They are not too high or too low, just a perfect fit for extra comfort. Pros: - Adjustable ankle strap - Cushioned - Comfortable - Durable rubber outsole - Leather upper
+The Clarks Women's Medora shoes have a rubber sole that adds to the shoes durability. The heel height is 1. 33 and heel measures about 1. These measurements are ideal for all-day walking or standing. They are not too high or too low, just a perfect fit for extra comfort. 
+Pros:
+- - Adjustable ankle strap
+- Cushioned
+- Comfortable
+- Durable rubber outsole
+- Leather upper
 
-Cons: - A customer complained that the shoes are not very breathable
+
+
+Cons:
+- - A customer complained that the shoes are not very breathable
+
 
 ##  Buyers Guide for Best Shoes for Back Pain
 
@@ -163,4 +236,5 @@ A roomy or spacious toe box allows your toes to move naturally, as you walk or s
 ##  Conclusion
 
 When looking for the best dress shoes for back pain comfort should be your first priority. Choose shoes that provide ample arch support that would help alleviate back pain and other foot discomforts like arthritis or knee pain.
+
 

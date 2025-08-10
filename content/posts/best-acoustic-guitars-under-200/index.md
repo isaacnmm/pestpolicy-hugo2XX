@@ -30,9 +30,17 @@ The neck is constructed using Nato, which features the same appearance and tonal
 
 A review of the hardware components reveals that the tuners are made out chrome which helps keep the cords in tune.
 
-Pros: - Closed-back tuners prevent dirt and debris from getting in - Incredibly balanced tone - Lightweight
 
-Cons: - Not as exquisite looking as its rivals
+Pros:
+- - Closed-back tuners prevent dirt and debris from getting in
+- Incredibly balanced tone
+- Lightweight
+
+
+
+Cons:
+- - Not as exquisite looking as its rivals
+
 
 
 ###  [2. Yamaha FG800 Acoustic Guitar](https://www.amazon.com/dp/B01C92QHLC/?tag=p-policy-20)
@@ -43,9 +51,17 @@ The FG800 acoustic model features a simple traditional appearance but it produce
 
 Compared to the previous editions, this version features an improved scalloping design resulting in a powerful and balanced sound. The neck is made out of Nato reinforced with a smooth matte finish for more comfortable handling as you play the instrument. On the headstock is a set of chrome tuners which add to the aesthetic appeal of the FG800. At 25. 6 scale length with 20 frets, the bridge is constructed out of rosewood.
 
-This unit comes packed with additional features such as an ABS bridge for tightening the cords, a Hex wrench, and a stylish pickguard. Pros: - Comes from a reputable brand - Quality and attractive body finish - Balanced sound output
+This unit comes packed with additional features such as an ABS bridge for tightening the cords, a Hex wrench, and a stylish pickguard. 
+Pros:
+- - Comes from a reputable brand
+- Quality and attractive body finish
+- Balanced sound output
 
-Cons: - None found
+
+
+Cons:
+- - None found
+
 
 
 ###  [3. Epiphone DR-100 Acoustic Guitar](https://www.amazon.com/dp/B0002F7IV2/?tag=p-policy-20)
@@ -60,9 +76,17 @@ The DR-100 features 2-way adjustable TrussRod. For easier handling on the go, th
 
 This guitars slim neck design is one of the most sought out after features by beginners and professionals alike.
 
-Pros: - Beautiful finish - Excellent playability thanks to the SlimTaper neck design - Brightly toned
 
-Cons: - Relatively sharp and uncomfortable frets
+Pros:
+- - Beautiful finish
+- Excellent playability thanks to the SlimTaper neck design
+- Brightly toned
+
+
+
+Cons:
+- - Relatively sharp and uncomfortable frets
+
 
 
 ###  [4. Oscar Schmidt OG2CESM acoustic (electric) guitar](https://www.amazon.com/dp/B009LL5T6E/?tag=p-policy-20)
@@ -75,9 +99,17 @@ A high gloss finish gives this guitar its premium look, whether you are going fo
 
 Conversely, the neck wood features mahogany wood finish with dots inlays. The OG2CESM features the Barcus Berry EQ4T pre-amp system. With the integration of this quality EQ system, this model allows you to amplify your sound output if you are performing for a broader audience. Whats more? The built-in digital tuner gives you variable tones, earning it the top rank among beginning and intermediate guitarists.
 
-This OG2 series combines exquisite looks with outstanding tones, giving you excellent value for money. In particular, the sound-hole and perimeter feature premium marquetry whereas the body come in different color variations. Pros: - Premium quality hardware - Built-in digital tuner - Lifetime warranty
+This OG2 series combines exquisite looks with outstanding tones, giving you excellent value for money. In particular, the sound-hole and perimeter feature premium marquetry whereas the body come in different color variations. 
+Pros:
+- - Premium quality hardware
+- Built-in digital tuner
+- Lifetime warranty
 
-Cons: - None found
+
+
+Cons:
+- - None found
+
 
 
 ###  [5. Ibanez PF Series PF15ECE acoustic guitar](https://www.amazon.com/dp/B001R2K9G0/?tag=p-policy-20)
@@ -90,9 +122,17 @@ For electronic components, this guitar comes integrated with an Ibanez proprieta
 
 For the best sound output, this guitar comes with an onboard tuner and a two-band equalizer. When plugged in, these features allow you to achieve accurate reproduction of the instruments natural tone. This PF-series integrates the Ibanez Advantage bridge pins which are easier to replace than standard issue pins found in other guitars. This is made possible by the integration of a special bulb-shaped configuration for easier grip.
 
-The Ibanez Advantage technology ensures that the pin and cords stay in place. Pros: - Relatively compact at 20 scale length - Aesthetically appealing - Premium bridge pins
+The Ibanez Advantage technology ensures that the pin and cords stay in place. 
+Pros:
+- - Relatively compact at 20 scale length
+- Aesthetically appealing
+- Premium bridge pins
 
-Cons: - Questionable sound picking
+
+
+Cons:
+- - Questionable sound picking
+
 
 
 ###  [6. Kona K2TBL acoustic-electric guitar](https://www.amazon.com/dp/B001AVW1IC/?tag=p-policy-20)
@@ -105,9 +145,17 @@ The neck features a single-ply binding while the tuners are made of gold die-cas
 
 The appealing look of this guitar as compared to its price listing is a major selling point among buyers looking for a premium-looking guitar on a budget.
 
-Pros: - Integration of Daddario cords - Exceptional sound quality - Small body profile
 
-Cons: - None found
+Pros:
+- - Integration of Daddario cords
+- Exceptional sound quality
+- Small body profile
+
+
+
+Cons:
+- - None found
+
 
 
 ###  [7. Jasmine JO-36 Orchestra Acoustic Guitar](https://www.amazon.com/dp/B00B5LBZF2/?tag=p-policy-20)
@@ -118,12 +166,21 @@ You get a wide versatility of playing styles with this purchase whether you are 
 
 Whereas the body is made out of laminated wood with a natural gloss finish, the sides are made out of Sapele while the neck features the Nato build. The JO-36s bracing integrates Jasmines patented Advanced X technology. This feature allows you to spruce up your sound output with improved note detail, resulting in a sweet majestic sound with unlimited versatility, depending on your preferred playing style.
 
-The spruced-up design of the JO-36 effectively produces more balanced tones, resulting in full versatility. At 25. 75, the neck is relatively short, which results in exceptional playability and user comfort. Pros: - Full natural gloss finish. - Highly versatile - Balanced sound output
+The spruced-up design of the JO-36 effectively produces more balanced tones, resulting in full versatility. At 25. 75, the neck is relatively short, which results in exceptional playability and user comfort. 
+Pros:
+- - Full natural gloss finish.
+- Highly versatile
+- Balanced sound output
 
-Cons: - The large body is not suitable for younger/smaller players
+
+
+Cons:
+- - The large body is not suitable for younger/smaller players
+
 
 
 ##  Conclusion
 
 Our featured list suggests that you can access many quality guitars within the $200 price range. Since various specifications guide different guitarists, this review offers you a wide range to choose from based on the budgetary, sound quality, and looks considerations. Overall, the Ibanez PF Series PF15ECE acoustic guitar stands out from the rest due to its unmatched sound output, whether you are plugged into the equalizer or not.
+
 

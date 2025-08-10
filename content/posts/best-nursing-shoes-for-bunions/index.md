@@ -36,9 +36,23 @@ This professional clog from Dansko also features a soft breathable leather linin
 
 The midsole also provides excellent arch support for all-day support and comfort. You can also insert custom orthotics for extra support and comfort.
 
-Youll also appreciate the different colour options that the Dansko professional offers. Youll definitely find a color that suits your personal taste. Pros: - Best nursing shoes - Ideal for all-day wear - Highly durable - Easy to clean - Roomy toe box - Slip-on leather clog - Delivers excellent shock absorption - Allows use of inserts - Excellent arch support
+Youll also appreciate the different colour options that the Dansko professional offers. Youll definitely find a color that suits your personal taste. 
+Pros:
+- - Best nursing shoes
+- Ideal for all-day wear
+- Highly durable
+- Easy to clean
+- Roomy toe box
+- Slip-on leather clog
+- Delivers excellent shock absorption
+- Allows use of inserts
+- Excellent arch support
 
-Cons: - You might need a break-in period
+
+
+Cons:
+- - You might need a break-in period
+
 
 ###  [2. Drew Joy Women's Oxford](https://www.amazon.com/dp/B00RO78KRC/?tag=p-policy-20)
 
@@ -50,9 +64,21 @@ The spacious interior of this Drew Joy nursing shoe accommodates custom orthotic
 
 The supportive steel shank provides needed comfort, balance, and support for workers who spend hours on their feet. It helps to soothe overworked and painful arches. Furthermore, the synthetic sole provides you with a slip-resistant experience as it offers excellent traction and grip on various surfaces.
 
-The two adjustable straps and loop closures make Drew Joy a dependable bunion shoe for nurses. You can adjust The Velcro straps to get a personalized fit, hence, enhance your comfort while doing your hospital rounds. Pros: - Adjustable Velcro straps - Comfortable - Supportive - Allows orthotics - Wide toe box - Breathable - Durable
+The two adjustable straps and loop closures make Drew Joy a dependable bunion shoe for nurses. You can adjust The Velcro straps to get a personalized fit, hence, enhance your comfort while doing your hospital rounds. 
+Pros:
+- - Adjustable Velcro straps
+- Comfortable
+- Supportive
+- Allows orthotics
+- Wide toe box
+- Breathable
+- Durable
 
-Cons: - You might need to size up to get a perfect fit
+
+
+Cons:
+- - You might need to size up to get a perfect fit
+
 
 ###  [3. SAS Time Out Men's Leather Walking Shoe](https://www.amazon.com/dp/B00ZPTBM1C/?tag=p-policy-20)
 
@@ -68,9 +94,21 @@ The outsole is lightweight and soft. It provides a wider platform for extra stab
 
 SAS Time Out walking nursing shoe also features the brands Odor-Resistant Tripad cushions. This feature provides support to crucial pressure points of the foot like the outside ball, inside the ball, and the heel section. Hence, youre assured of all-day comfort and support.
 
-Pros: - Traditional lace-up design for a customized fit - Comfortable - Supportive - Ideal for sensitive feet - Attractive leather upper - Odor-Resistant - Wide round toe box to accommodate bunions
 
-Cons: - Pricey
+Pros:
+- - Traditional lace-up design for a customized fit
+- Comfortable
+- Supportive
+- Ideal for sensitive feet
+- Attractive leather upper
+- Odor-Resistant
+- Wide round toe box to accommodate bunions
+
+
+
+Cons:
+- - Pricey
+
 
 ###  [4. ECCO Men's Fusion Moc Oxford](https://www.amazon.com/dp/B0018E7PZK/?tag=p-policy-20)
 
@@ -84,9 +122,20 @@ The sole also encourages the feet to move or flesh naturally and adapt to the te
 
 The ECCO Fusion Moc Oxford has a roomy and rounded toe box that accommodates bunions and other sensitive feet. The roomy toe box allows the toe to wiggle naturally, as you walk or stand.
 
-Therefore, if youre looking for a supportive and comfortable nursing shoe for bunions pick ECCO Fusion Moc Oxford. Its just the right choice for both casual and official wear. Pros: - Comfortable - Provides good shock absorption - All leather - Durable - Reliable traction - Supportive
+Therefore, if youre looking for a supportive and comfortable nursing shoe for bunions pick ECCO Fusion Moc Oxford. Its just the right choice for both casual and official wear. 
+Pros:
+- - Comfortable
+- Provides good shock absorption
+- All leather
+- Durable
+- Reliable traction
+- Supportive
 
-Cons: - You might need to size down
+
+
+Cons:
+- - You might need to size down
+
 
 ###  [5. Orthofeet 517 Mens Shoe](https://www.amazon.com/dp/B003OH84Z4/?tag=p-policy-20)
 
@@ -102,9 +151,21 @@ The shoes are also available in a wide range of width options. Youll find them i
 
 The shoe features an Extra-depth design that provides enough space to allow the use of orthotics. This comfort feature aids in relieving stress and pressure on joints while providing needed stability to improve mobility.
 
-The heel cup has enough gel to provide protection against hard ground impact. Youll also dont need to worry about your feet swelling while at your work station as the shoe is wide enough to accommodate your swelling feet. Pros: - Wide toe box - Comfortable - Supportive - Can use orthotics - Extra-depth design - Extended width options - The best therapeutic shoe for sensitive feet
+The heel cup has enough gel to provide protection against hard ground impact. Youll also dont need to worry about your feet swelling while at your work station as the shoe is wide enough to accommodate your swelling feet. 
+Pros:
+- - Wide toe box
+- Comfortable
+- Supportive
+- Can use orthotics
+- Extra-depth design
+- Extended width options
+- The best therapeutic shoe for sensitive feet
 
-Cons: - A bit pricey
+
+
+Cons:
+- - A bit pricey
+
 
 ###  [6. Skechers Women's Premium-Premix Slip-On Sneaker](https://www.amazon.com/dp/B000ARGWZA/?tag=p-policy-20)
 
@@ -116,9 +177,21 @@ The overlays on the sides, heel, and toe areas enhance the design of the Premix.
 
 Another great feature worth mentioning is the cushioned collar and tongue that provide extra support and comfort to feet. The elastic insert provides a snug and comfortable fit allowing the wearer long hours of standing without experiencing any foot discomfort.
 
-The cushioned footbed provides additional underfoot support and protection while the outsole has a non-marking rubber that provides excellent grip. Pros: - Ideal for all-day standing - Comfortable - Durable attractive design - Excellent cushioning - Reliable traction - Spacious toe box - Excellent arch support
+The cushioned footbed provides additional underfoot support and protection while the outsole has a non-marking rubber that provides excellent grip. 
+Pros:
+- - Ideal for all-day standing
+- Comfortable
+- Durable attractive design
+- Excellent cushioning
+- Reliable traction
+- Spacious toe box
+- Excellent arch support
 
-Cons: - You might need to order a size higher
+
+
+Cons:
+- - You might need to order a size higher
+
 
 ###  [7. HOKA ONE ONE Men's Bondi 6 Running Shoe](https://www.amazon.com/dp/B0788TX9S5/?tag=p-policy-20)
 
@@ -132,11 +205,22 @@ The midsole of HOKA ONE ONE Bondi 6 features a soft EVA foam that provides excel
 
 The outsole features a Hi-Abrasion Rubber thats lightweight yet durable to take you through the most demanding day of your work. This rubber compound is mostly found in those regions that are likely to wear out quickly. The external pad also provides traction allowing you to work on various surfaces without any worry.
 
-Pros: - Excellent cushioning - Ideal all-day workwear - Available in attractive colour schemes - Excellent breathability - Ideal for those with issues like lower back pain
 
-Cons: - Some customers reported that the outsole doesnt last long
+Pros:
+- - Excellent cushioning
+- Ideal all-day workwear
+- Available in attractive colour schemes
+- Excellent breathability
+- Ideal for those with issues like lower back pain
+
+
+
+Cons:
+- - Some customers reported that the outsole doesnt last long
+
 
 Conclusion
 
 The best nursing shoes for bunions should be spacious with a roomy toe box to provide enough room for bunions without creating a lot of pressure. Bunion shoes should also be comfortable, supportive, and stable to allow you to perform your duties successfully. All the reviewed shoes in this list are some of the best and nurses with bunions or anyone who spends hours on feet will benefit from these shoes.
+
 

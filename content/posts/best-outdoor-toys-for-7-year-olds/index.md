@@ -40,9 +40,19 @@ Other than that, the Ninja Warrior Obstacle Course has put in place excellent sa
 
 The ninja course is also easy to assemble. Simply attach the slackline to 2 strong trees. The trees should be about 10-55 ft. apart. Add the obstacles and let your kids have fun.
 
-The ninja course kit also features a detailed manual guide that makes the installation process easy and convenient. Pros: - Adventurous activities - Easy to assemble - Enhances kids confidence, strength, and coordination - Excellent Safety Features - Excellent backyard addition
+The ninja course kit also features a detailed manual guide that makes the installation process easy and convenient. 
+Pros:
+- - Adventurous activities
+- Easy to assemble
+- Enhances kids confidence, strength, and coordination
+- Excellent Safety Features
+- Excellent backyard addition
 
-Cons: - Some reviewers complained that they couldnt get it tight enough
+
+
+Cons:
+- - Some reviewers complained that they couldnt get it tight enough
+
 
 ###  [2. EzyRoller New Drifter-X Ride-on Toy](https://www.amazon.com/dp/B07YGP5X6V/?tag=p-policy-20)
 
@@ -58,9 +68,18 @@ The foot bar makes it easy for the child to steer the ride forward for a fun-fil
 
 The EzyRoller Ride On comes in 11 different colors. Your little one will definitely find a color that excites them.
 
-Besides that, this ride-on is lightweight and easy to assemble. It weighs 12. b lbs and it's ideal for children aged 7 years and above. The recommended weight is 150 Ibs. Pros: - Lightweight - Easy to assemble - Enhances creativity - Accommodates both adults and children
+Besides that, this ride-on is lightweight and easy to assemble. It weighs 12. b lbs and it's ideal for children aged 7 years and above. The recommended weight is 150 Ibs. 
+Pros:
+- - Lightweight
+- Easy to assemble
+- Enhances creativity
+- Accommodates both adults and children
 
-Cons: - Some reviewers reported that the wheels wear out quickly
+
+
+Cons:
+- - Some reviewers reported that the wheels wear out quickly
+
 
 Also Read: [Best Outdoor Playsets for Toddlers](https://pestpolicy.com/best-outdoor-playsets-for-toddlers/)
 
@@ -80,9 +99,19 @@ MotoWorx toy rockets are 100% safe and backyard-friendly. Your kids will keep tr
 
 This Toy Rocket Launcher for kids is an excellent outdoor toy thats easy to assemble and store. Its durable and comes with a stand thats easy to fold for convenient storage.
 
-The launcher doesnt require electricity or a battery to function. Thus if youre looking for an ideal birthday or holiday gift pick this impressive outdoor toy. Pros: - Easy to assemble - Engages the childs mind - Doesnt require electricity or a battery - Perfect gift for the holidays or birthday - The rocket goes about 100 Ft. High
+The launcher doesnt require electricity or a battery to function. Thus if youre looking for an ideal birthday or holiday gift pick this impressive outdoor toy. 
+Pros:
+- - Easy to assemble
+- Engages the childs mind
+- Doesnt require electricity or a battery
+- Perfect gift for the holidays or birthday
+- The rocket goes about 100 Ft. High
 
-Cons: - Some reviewers reported that they are not sturdy enough
+
+
+Cons:
+- - Some reviewers reported that they are not sturdy enough
+
 
 Also Read: Best Swing Sets For Small Backyards
 
@@ -100,9 +129,19 @@ The foam balls are lightweight and wont cause any harm to the target, so you can
 
 Youll also appreciate the High-quality and Easy Installation process of this Moving Shooting Games toy. It features superior ABS materials. The sniper gun is durable and long-lasting. The shooting gun is designed to withstand high air impacts.
 
-More than that, it's pretty easy to assemble the target setting. All accessories fit perfectly. Ask for assistance from an adult to help you install all the accessories. It should take a few minutes to achieve a perfect target. Pros: - Funny Shooting Game for kids - High quality - Easy Installation - Excellent Moving Shooting Game Toys - Safe
+More than that, it's pretty easy to assemble the target setting. All accessories fit perfectly. Ask for assistance from an adult to help you install all the accessories. It should take a few minutes to achieve a perfect target. 
+Pros:
+- - Funny Shooting Game for kids
+- High quality
+- Easy Installation
+- Excellent Moving Shooting Game Toys
+- Safe
 
-Cons: - It moves really fast
+
+
+Cons:
+- - It moves really fast
+
 
 Also Read: Best Power Wheels for 2 Year Old.
 
@@ -120,9 +159,19 @@ So, if you dont mind a paper airplane airport in your backyard consider getting 
 
 The 50-page guidebook provides clear and easy-to-read instructions to allow your little ones to make as many airplanes as possible.
 
-To make it even more interesting, each plane has a guide and it clearly shows how each of the planes will fly. Its easy to follow through and the information provided in the book is clear. Pros: - Easy to understand instructions - Fun activity - Up to 10 different planes - Child-friendly book - High-quality thick paper
+To make it even more interesting, each plane has a guide and it clearly shows how each of the planes will fly. Its easy to follow through and the information provided in the book is clear. 
+Pros:
+- - Easy to understand instructions
+- Fun activity
+- Up to 10 different planes
+- Child-friendly book
+- High-quality thick paper
 
-Cons: - Smaller children might need help using the book
+
+
+Cons:
+- - Smaller children might need help using the book
+
 
 ###  [6. Amphibious RC Car for Kids](https://www.amazon.com/dp/B08MXW7SF5/?tag=p-policy-20)
 
@@ -138,9 +187,18 @@ The remote control car has a strong and sturdy body design thats made with non-t
 
 Youll appreciate that this remote car has an anti-interference control frequency. Hence, it allows various remote control boats to race together simultaneously.
 
-This remote is one of the best racing beginners for 7-year-olds and other older children. Pros: - waterproof and easy to use. - Excellent remote control car - Comes with a spare battery - Doesnt scurf polished surfaces
+This remote is one of the best racing beginners for 7-year-olds and other older children. 
+Pros:
+- - waterproof and easy to use.
+- Excellent remote control car
+- Comes with a spare battery
+- Doesnt scurf polished surfaces
 
-Cons: - The battery Runs for about half an hour
+
+
+Cons:
+- - The battery Runs for about half an hour
+
 
 ###  [7. Toysmith Get Outside GO! Inflatable Sports Toss Game](https://www.amazon.com/dp/B01A7HLURC/?tag=p-policy-20)
 
@@ -152,11 +210,20 @@ Your 7 year old can play target throwing with the inflatable toy. Youll need two
 
 The game will keep your little one engaged for hours. He may also decide to play a different sport and have unforgettable outdoor fun
 
-The game includes an inflatable toy that stands 44" tall inflated. Throw the ball (ball not included in the packaging) to the football player and pitch a home on the other side for the baseball player. Pros: - A fun activity for the kids - Enhances creativity - Improves the childs coordination
+The game includes an inflatable toy that stands 44" tall inflated. Throw the ball (ball not included in the packaging) to the football player and pitch a home on the other side for the baseball player. 
+Pros:
+- - A fun activity for the kids
+- Enhances creativity
+- Improves the childs coordination
 
-Cons: - Ball not included
+
+
+Cons:
+- - Ball not included
+
 
 ##  Conclusion
 
 The best outdoor toys for 7-year-old should be safe, fun-filled, and educative. All the reviewed outdoor toys in this review are some of the best on the market today. Therefore, picking either of them will provide an unforgettable fun experience to your 7-year-old
+
 

@@ -31,7 +31,16 @@ Graco 17D889's Reverse-A-clean tip allows very easy cleaning of the sprayer such
 
 This Graco 17D889 has a sensitive trigger that'll allow you to change the device's spraying speed varying with the pressure applied on the trigger. This gives an excellent spray pattern for a neat finish. You can easily paint your shiplap wall within a short time with lesser amounts of overspray for a cleaner look. The spraying tips and tools are reusable and simple to clean.
 
-Pros: - Comes with a big paint bag to avoid regular retelling - For safety it has a storage case that's durable - Effective paintingeven with dense materials - Its spray tip is also reversible for easier cleaning - Budget-friendly and equally durable - Its bag technology is FlexLiner and Liner bag that's recyclable Cons: - None
+
+Pros:
+- - Comes with a big paint bag to avoid regular retelling
+- For safety it has a storage case that's durable
+- Effective paintingeven with dense materials
+- Its spray tip is also reversible for easier cleaning
+- Budget-friendly and equally durable
+- Its bag technology is FlexLiner and Liner bag that's recyclable Cons:
+- None
+
 
 ###  [2. Spraytech 0518080 Furniture Max HVLP Painter Sprayer](https://www.amazon.com/dp/B003PGQI48/?tag=p-policy-20)
 
@@ -45,7 +54,15 @@ This sprayer is great for DIYers & beginners plus the gun is easy to assemble or
 
 Further, the large cup will be great for exterior jobs that are large.
 
-Pros: - Wagner 0518080 has two convenient air filters that'll hinder any dust from damaging the painting finish. - Limited paint overspray - Lightweight sprayer - Also, the two-stage turbine is very powerful yet small enough for easy handling. - Variable pressure allowing praying of both thin and thick painting materials. Cons: - Relatively noisy
+
+Pros:
+- - Wagner 0518080 has two convenient air filters that'll hinder any dust from damaging the painting finish.
+- Limited paint overspray
+- Lightweight sprayer
+- Also, the two-stage turbine is very powerful yet small enough for easy handling.
+- Variable pressure allowing praying of both thin and thick painting materials. Cons:
+- Relatively noisy
+
 
 ###  [3. Critter 22032 Sprayer 118SG Siphon Paint Gun](https://www.amazon.com/dp/B00006FRPJ/?tag=p-policy-20)
 
@@ -53,9 +70,17 @@ Critter 22032 Sprayer is a great tool that enables carpenters and woodworker to 
 
 Therefore, it'll easily spray paint aesthetic woodwork, furniture, ceilings, walls, doors, or cabinets with its great air regulation plus a small compressor. Further, the sprayer is simple to clean - just pour some thinner and use a paper towel to effectively wipe the tube and jar gasket - both for polyurethane or lacquer finishes. Its glass jars (1. 6-pound) is standard jar but adapts to other spraying jars by removing the siphon gun's lid.
 
-The device has simple air compressor settings working well on 90 PSI as its average pressure. Its spray gun has an attached compressor plus you can fill the Mason jar with a variety of painting materials including swing set stain, lacquer, or paint. Pros: - Critter 22032 Sprayer conveniently comes with an instruction manual, jar gasket, and a tube. - Its small spray gun makes it great for beginners on furniture painting.
+The device has simple air compressor settings working well on 90 PSI as its average pressure. Its spray gun has an attached compressor plus you can fill the Mason jar with a variety of painting materials including swing set stain, lacquer, or paint. 
+Pros:
+- - Critter 22032 Sprayer conveniently comes with an instruction manual, jar gasket, and a tube.
+- Its small spray gun makes it great for beginners on furniture painting.
 
-- Budget-friendly - Simple to clean, use, and carry (very portable and lightweight) - Has mason jars that'll adapt to other jars - Allows paint to eject consistently Cons: - The sprayer's gasket will have a shorter life span due to prominent and rapid wear that's also worn out easily by a primer. - No air compressor
+
+- Budget-friendly - Simple to clean, use, and carry (very portable and lightweight) - Has mason jars that'll adapt to other jars - Allows paint to eject consistently 
+Cons:
+- - The sprayer's gasket will have a shorter life span due to prominent and rapid wear that's also worn out easily by a primer.
+- No air compressor
+
 
 ###  [4. HomeRight C800766 Furniture Power Sprayer Tool](https://www.amazon.com/dp/B003VKFDEO/?tag=p-policy-20)
 
@@ -65,7 +90,16 @@ This sprayer is suitable for beginners and its equally affordable - an excellent
 
 Luckily, this powerful HomeRight C800766 sprayer is not loud or noisy and hence it won't cause environmental noise pollution and thus appropriate even for sensitive ears.
 
-Pros: - Doesn't have buildup issues that may otherwise lead to splitting - Offers quiet sprayer operation as it lacks air compressors thus causes lesser noise pollution - Allows an adjustable Paint Flow - Durable sprayer - Has a turn knob for getting vertical or horizontal spray patterns suitable for different painting jobs - Simple-to-use sprayer Cons: - Thick paints require thinning
+
+Pros:
+- - Doesn't have buildup issues that may otherwise lead to splitting
+- Offers quiet sprayer operation as it lacks air compressors thus causes lesser noise pollution
+- Allows an adjustable Paint Flow
+- Durable sprayer
+- Has a turn knob for getting vertical or horizontal spray patterns suitable for different painting jobs
+- Simple-to-use sprayer Cons:
+- Thick paints require thinning
+
 
 ###  [5. Tacklife SGP15AC (3 Spray Patterns) Electric Sprayer](https://www.amazon.com/dp/B06Y3QKQY4/?tag=p-policy-20)
 
@@ -75,11 +109,21 @@ T acklife SGP15AC has an adjustable knob thats simple to use and adjust pressure
 
 For example, you can recover the canister and also use a funnel to examine the paint viscosity o0r add paint - simple eject the cover. Tacklife SGP15AC comes with its large container for paints and hence it'll be possible to fill it with enough paint for the whole painting job without constant refilling.
 
-Pros: - Big sprayer paint container - Recomended sprayer for working on big painting works - Has 3 sizes of nozzles for a beautiful finish - Allows 3 varied spraying patterns for objects with different shapes. - Its canister is removable - Most accessories are removable such as its canister and filter Cons: - The device is bulky and most artists or homeowners might find it challenging to move around.
+
+Pros:
+- - Big sprayer paint container
+- Recomended sprayer for working on big painting works
+- Has 3 sizes of nozzles for a beautiful finish
+- Allows 3 varied spraying patterns for objects with different shapes.
+- Its canister is removable
+- Most accessories are removable such as its canister and filter Cons:
+- The device is bulky and most artists or homeowners might find it challenging to move around.
+
 
 Video can't be loaded because JavaScript is disabled: [HomeRight Paint Sprayer (
 
 ##  Conclusion
 
 On the best paint sprayer for furniture, Spraytech 0518080 has v ariable air pressure (from 1. 50 PSI to high of 2. 63 PSI) to effectively handle both thin and thick painting materials.
+
 

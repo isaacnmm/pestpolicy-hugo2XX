@@ -30,9 +30,18 @@ Such a small width enables you to manoeuvre through tight spaces in your garden 
 
 These tines have a curvy design to maximise the tiling efficiency. This allows for better soil drainage and aeration. Tines can be turned around to 2 or 3 inches to enable shallow digging or weeding. Since they are very sharp, they cut through the soil with minimal kicks. Thus women gardeners can push it without much hustle. With its instant starting mechanism and quiet motor, you dont have to worry about disturbing your neighbour.
 
-Handles have a firm grip with which you can comfortably control the tiller. Plus the handles can be folded during storage or transport. Pros: - Light but high performance tiller - Ideal for women - Quick start mechanism - Tackles hard and compact soil
+Handles have a firm grip with which you can comfortably control the tiller. Plus the handles can be folded during storage or transport. 
+Pros:
+- - Light but high performance tiller
+- Ideal for women
+- Quick start mechanism
+- Tackles hard and compact soil
 
-Cons: - You need to be close to electric power
+
+
+Cons:
+- - You need to be close to electric power
+
 
 Related: Front Tine vs. Rear Tine Tillers
 
@@ -46,9 +55,19 @@ The robust tines rotate in a forward direction giving you a quick and reliable t
 
 The lithium-ion battery takes less time to charge and can go for up to 40 minutes with per charge.
 
-Whats more, its lightweight design allows it to be pushed by women gardeners with less hustle. Pros: - Compact and lightweight - Cordless - Single charge lasts for 40 minutes - Adjustable tines - Safe 2-step start mechanism
+Whats more, its lightweight design allows it to be pushed by women gardeners with less hustle. 
+Pros:
+- - Compact and lightweight
+- Cordless
+- Single charge lasts for 40 minutes
+- Adjustable tines
+- Safe 2-step start mechanism
 
-Cons: - Less powerful than gas tillers
+
+
+Cons:
+- - Less powerful than gas tillers
+
 
 ###  [3. Earthwise Electric Corded Tiller TC70001](https://www.amazon.com/dp/B004H4X6Z6/?tag=p-policy-20)
 
@@ -56,11 +75,19 @@ Earthwise TC70001 tiller gives you an easy an efficient way to cultivate your fl
 
 It costs less than $100 making it one of the most affordable garden tillers. With its 8. 5 A motor youre are sure of sufficient power to dig and turn the loose soil on your garden. Its also a powerful equipment for weeding. But you wont be able to dig hard and compact ground using this tiller. It has 4 steel tines capable of digging up to 8 inches deep and 11 inches wide. Thus it is possible to dig and weed between crops.
 
-If your aim is to loosen your soil for good aeration and drainage, Earthwise TC70001 will be a great companion. It has a push button for instant starting and an ergonomic handle grip for convenient operation. The lightweight design and adjustable wheels allows easy maneurability and storage. Pros: - Compact lightweight - Budget friendly - Gets through tight spaces -check the sub-compact tractor.
+If your aim is to loosen your soil for good aeration and drainage, Earthwise TC70001 will be a great companion. It has a push button for instant starting and an ergonomic handle grip for convenient operation. The lightweight design and adjustable wheels allows easy maneurability and storage. 
+Pros:
+- - Compact lightweight
+- Budget friendly
+- Gets through tight spaces -check the sub-compact tractor.
+
 
 - Easy to manoeuvre and store - Wheels can be flipped up or down
 
-Cons: - Cannot handle hard soils
+
+Cons:
+- - Cannot handle hard soils
+
 
 ###  [4. Earthquake MC43 Gas Tiller](https://www.amazon.com/dp/B079B23WVF/?tag=p-policy-20)
 
@@ -72,9 +99,19 @@ You can also adjust the wheels to allow for transportation from the store/garage
 
 Earthquake MC43 is also compatible with the DK43 dethatcher which allows you to remove thatch leaves, roots and stems from your lawn. Large amounts of thatch will [cover your lawn](https://vtechworks.lib.vt.edu/bitstream/handle/10919/93111/BSE-97.pdf?sequence=1)and hinder the uptake of nutrients.
 
-Pros: - Powerful engine - Will do other garden tasks such as dethatching - Adjustable wheels - Lightweight - Gets through crop rows without causing damage
 
-Cons: - Gasoline needs to be mixed with oil
+Pros:
+- - Powerful engine
+- Will do other garden tasks such as dethatching
+- Adjustable wheels
+- Lightweight
+- Gets through crop rows without causing damage
+
+
+
+Cons:
+- - Gasoline needs to be mixed with oil
+
 
 ###  [5. Troy-Bilt TB146 EC Cultivator](https://www.amazon.com/dp/B0042ZCIWW/?tag=p-policy-20)
 
@@ -84,9 +121,18 @@ The 4 cycle engine rotates the forward-rotating tines at variable speed giving y
 
 It also comes with wheels for enabling and easing movement when digging and during transportation.
 
-Handles have a soft grip and can be folded to save space during transportation or storage. Whats more, this is an ideal tiller for women gardeners. It comes with a two year warranty and doesnt require any fuel mixing. Pros: - Lightweight - Doesnt require lot of muscle to operate - You dont have to mix oil and gas - Transportation and storage is quiet easy
+Handles have a soft grip and can be folded to save space during transportation or storage. Whats more, this is an ideal tiller for women gardeners. It comes with a two year warranty and doesnt require any fuel mixing. 
+Pros:
+- - Lightweight
+- Doesnt require lot of muscle to operate
+- You dont have to mix oil and gas
+- Transportation and storage is quiet easy
 
-Cons: - Not ideal for tough and compact soil
+
+
+Cons:
+- - Not ideal for tough and compact soil
+
 
 ###  [6. Mantis 7940 4-Cycle Tiller](https://www.amazon.com/dp/B00N6X9VY4/?tag=p-policy-20)
 
@@ -96,9 +142,19 @@ Women gardeners will especially find it useful since it requires less muscle to 
 
 That means it possible to pass through narrow spaces without damaging your crops.
 
-Tines can be adjusted to cultivate shallow depths. It comes with a kickstand for keeping the tiller stable during storage or when fuelling. The foldable handles enable convenient storage or loading into a carrier. Pros: - Light weight and compact - Adjustable tines - Kickstand enhances stability when fuelling - Foldable handles - Durable
+Tines can be adjusted to cultivate shallow depths. It comes with a kickstand for keeping the tiller stable during storage or when fuelling. The foldable handles enable convenient storage or loading into a carrier. 
+Pros:
+- - Light weight and compact
+- Adjustable tines
+- Kickstand enhances stability when fuelling
+- Foldable handles
+- Durable
 
-Cons: - Not good for hard soils
+
+
+Cons:
+- - Not good for hard soils
+
 
 ###  [7. Earthwise TC70020 Cordless Tiller](https://www.amazon.com/dp/B07F9RS9LW/?tag=p-policy-20)
 
@@ -106,9 +162,18 @@ Last but not least is the lightweight and cordless Earthwise TC70020, powered by
 
 The 20 volt lithium battery turns a powerful motor to propel the four durable tines. These tines dig up to 6 inches deep and 7. 5 inches wide. This tiller is ideal for weeding and turning soil in your small garden, raised beds or flower beds. With its fast charger, you can charge the battery within a short time. Starting the motor is made easy by the single lever switch. Plus the handle has a soft grip which enables comfortable operation.
 
-Whats more, this tiller gives you an eco-friendly way of preparing your garden since no oil or gas is required. Pros: - Lightweight and easy to operate - Cordless - Fast charger - Ideal for women gardeners
+Whats more, this tiller gives you an eco-friendly way of preparing your garden since no oil or gas is required. 
+Pros:
+- - Lightweight and easy to operate
+- Cordless
+- Fast charger
+- Ideal for women gardeners
 
-Cons: - Not ideal for hard soil or large garden
+
+
+Cons:
+- - Not ideal for hard soil or large garden
+
 
 ##  **How to choose the Best Tiller for a Woman**
 
@@ -149,4 +214,5 @@ Most home owners prefer to store their tillers in their garage. So, you should d
 ##  **Conclusion**
 
 While there are many garden tillers in the market, not all are ideal for operation by women gardeners. Some are too heavy for women to push and require regular maintenance to keep them going. That means, careful selection should be made when buying the best tiller for a woman. The best tiller should allow easy operation and have minimal maintenance procedures.
+
 

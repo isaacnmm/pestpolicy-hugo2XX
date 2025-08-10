@@ -33,9 +33,20 @@ The Product kills on contact. The non-staining formula makes Ortho usable on var
 
 Ortho spray is able to eliminate more than 130 insect species, among them include spiders, ants, fleas, millipedes, earwigs, house centipedes, and Home invading bugs. This product is easier to use and apply. You simply press the spray button and aim to the intrusion of cockroaches the instant poisonous spray will kill available roaches and repel any future infestation.
 
-Ortho home defense is very affordable. For indoor use, spray in the bathroom - floor & walls, crevices, kitchen cabinets, decks, windows, doors, and basement. Ortho is re-usable and long-lasting. You will not need to bend, pump, or cause hand fatigue during application. Pros: - Long-lasting 12 months use. - Quick action kills on contact. - Suitable for both indoors and outdoors. - Can inhibit/repel other home insects. - Do not irritate your skin.
+Ortho home defense is very affordable. For indoor use, spray in the bathroom - floor & walls, crevices, kitchen cabinets, decks, windows, doors, and basement. Ortho is re-usable and long-lasting. You will not need to bend, pump, or cause hand fatigue during application. 
+Pros:
+- - Long-lasting 12 months use.
+- Quick action kills on contact.
+- Suitable for both indoors and outdoors.
+- Can inhibit/repel other home insects.
+- Do not irritate your skin.
 
-Cons: - Unsuitable for the porous surface. - Dangerous for pets and children.
+
+
+Cons:
+- - Unsuitable for the porous surface.
+- Dangerous for pets and children.
+
 
 
 ###  [2. Raid Max Cockroach Spray - # 2 Pick](https://www.amazon.com/dp/B003AOA3HS/?tag=p-policy-20)
@@ -48,9 +59,25 @@ It can also be used to eliminate other insects/animals such as crickets, spiders
 
 With Raid Max Spray, you can cover a large area in a few minutes (time-saving) due to its two-ways spray options. Raid Max Spray has a fantastic slim spray option that allows deep penetration to cockroaches hideouts. This product is too highly rated in the current market due to its unparalleled killing efficiency. Moreover, Raid Max is affordable. The product is shipped in a 6-bottle package. You can use Raid Max indoors or outdoors.
 
-Its mixture has a nice fragrance; thus, it won't irritate you during use. Pros: - Quick-acting kills on contact. - Effective - kills in less than 5 minutes. - Easier to use. - Does not irritate your skin. - Long-lasting 6 months of residual effects. - Point application. - Suitable for indoor and outdoor use. - Has a pleasant fragrance. - Can kill crickets, spiders, ants & water bugs too.
+Its mixture has a nice fragrance; thus, it won't irritate you during use. 
+Pros:
+- - Quick-acting kills on contact.
+- Effective
+- kills in less than 5 minutes.
+- Easier to use.
+- Does not irritate your skin.
+- Long-lasting 6 months of residual effects.
+- Point application.
+- Suitable for indoor and outdoor use.
+- Has a pleasant fragrance.
+- Can kill crickets, spiders, ants & water bugs too.
 
-Cons: - Highly Flammable. - Has Poisonous chemical that may affect pets and kids.
+
+
+Cons:
+- - Highly Flammable.
+- Has Poisonous chemical that may affect pets and kids.
+
 
 
 ###  [3. Wondercide Natural Indoor Pest Control Spray](https://www.amazon.com/dp/B0764VD7ZW/?tag=p-policy-20)
@@ -63,9 +90,24 @@ It will not cause skin irritation or discomfort on contact.
 
 It has four credible scents assorted from cedar, rosemary, peppermint, and lemongrass. These altogether leave behind aromatherapeutic fragrances in your room during the auction. Wondercide is best when used on carpet, furniture, floor, cracks, and bedding. It eliminates eggs, larvae, and adult cockroaches completely. It is efficient to use Wondercide. A 32 Oz bottle can treat up to 400 square feet this saves on monies (economic).
 
-Wondercide also helps in inhibiting the future infestation of cockroaches and other Home invading insects. The product is environment friendly. It contains no harmful chemical or artificial colors. Pros: - No harmful chemical/No pollution. - Has aromatherapeutic fragrances. - Quick-acting. - No skin irritation on contact. - Safe and simple to use. - Kills a variety of insects. - Point application. - Long-Lasting. - Purely Natural.
+Wondercide also helps in inhibiting the future infestation of cockroaches and other Home invading insects. The product is environment friendly. It contains no harmful chemical or artificial colors. 
+Pros:
+- - No harmful chemical/No pollution.
+- Has aromatherapeutic fragrances.
+- Quick-acting.
+- No skin irritation on contact.
+- Safe and simple to use.
+- Kills a variety of insects.
+- Point application.
+- Long-Lasting.
+- Purely Natural.
 
-Cons: - No residual protection is available. - Requires regular application.
+
+
+Cons:
+- - No residual protection is available.
+- Requires regular application.
+
 
 Related: [Best Roach Killer](https://pestpolicy.com/best-roach-killer/)
 
@@ -77,13 +119,24 @@ Hot Shot Spray is quick-acting. It kills on contact within a couple of seconds a
 
 To achieve this, apply beneath & around appliances, beneath & around baseboards, behind the sinks; then, allow the killing power to work. Hot Shot has a fresh floral smell that does not irritate the user and fills the room during action time. The easy to use an aerosol spray can eliminate spiders (except brown recluse spider), ants (excluding pharaoh ants and fire ants), crickets, water bugs, fleas, stinkbugs, and firebrats.
 
-Hot Shot spray effectively penetrates cockroach hideouts due to its regulated Oz pressure. The ergonomically designed nozzle of Hot Shot enables easy point application. The product has no residual sanitizer. Hotshot eliminates and reduces 99. 9% of germs associated and caused by cockroaches in your home or compound. Pros: - Long-Lasting 3 months of action. - Has Floral scent. - Kills on contact. - Deep penetration. - Easier and safe to use.
+Hot Shot spray effectively penetrates cockroach hideouts due to its regulated Oz pressure. The ergonomically designed nozzle of Hot Shot enables easy point application. The product has no residual sanitizer. Hotshot eliminates and reduces 99. 9% of germs associated and caused by cockroaches in your home or compound. 
+Pros:
+- - Long-Lasting 3 months of action.
+- Has Floral scent.
+- Kills on contact.
+- Deep penetration.
+- Easier and safe to use.
+
 
 - Kills germs caused by cockroaches. - No irritation.
 
 - Kills a variety of insects.
 
-Cons: - It can affect pets and children. - Kills on contact only.
+
+Cons:
+- - It can affect pets and children.
+- Kills on contact only.
+
 
 
 ###  [5. Combat Max Cockroach Spray](https://www.amazon.com/dp/B01NADH3VG/?tag=p-policy-20)
@@ -94,13 +147,26 @@ Combat Max is quick-acting. The combat's foam killing technology will eliminate 
 
 It leaves a pretty smell during action time in your room/house.
 
-This product is long-lasting. You can use Combat Max for up to 10 months. The aerosol spray comes with an easy to use nozzle, which enables point application. Combat Max Spray is readily available and affordable. You will also kill other insects such as ants with this product they feed on the foam/gel remnants and die. Pros: - Quick-acting. - Effective kills entire intrusion. - No skin irritation. - Affordable - $5 - Easy and safe to use.
+This product is long-lasting. You can use Combat Max for up to 10 months. The aerosol spray comes with an easy to use nozzle, which enables point application. Combat Max Spray is readily available and affordable. You will also kill other insects such as ants with this product they feed on the foam/gel remnants and die. 
+Pros:
+- - Quick-acting.
+- Effective kills entire intrusion.
+- No skin irritation.
+- Affordable
+- $5
+- Easy and safe to use.
+
 
 - It also kills ants. - Doesn't stain your items.
 
 - Kill on contact. - Deep penetration.
 
-Cons: - They are used on a non-porous surface only. - May form foam residuals. - May not prevent re-infestation entirely.
+
+Cons:
+- - They are used on a non-porous surface only.
+- May form foam residuals.
+- May not prevent re-infestation entirely.
+
 
 
 ###  [6. Bengal Roach Killer - Kill Whole Population](https://www.amazon.com/dp/B00KROV7H4/?tag=p-policy-20)
@@ -111,13 +177,21 @@ Nylar found in this aerosol spray is a powerful ingredient that prevents further
 
 One package can be used to treat your Home against cockroaches for up to 6 months.
 
-The dry penetrating formula used in the Bengal Gold Roach propellant does not stain your furniture, beddings, or appliances during use. It does not have any sticky residue. The well-designed Bengal's nozzle enables point application. The product is easier and safe to use. It will not irritate your skin on contact. Bengal Gold Roach Spray is odorless and will leave a pleasant scent while in action. Pros: - Quick Acting.
+The dry penetrating formula used in the Bengal Gold Roach propellant does not stain your furniture, beddings, or appliances during use. It does not have any sticky residue. The well-designed Bengal's nozzle enables point application. The product is easier and safe to use. It will not irritate your skin on contact. Bengal Gold Roach Spray is odorless and will leave a pleasant scent while in action. 
+Pros:
+- - Quick Acting.
+
 
 - Long-Lasting treats for up to 6 months. - No skin irritation.
 
 - Point application enabled. - Inhibits eggs hatching. - Has the Nylar component. - Does not stain your items. - It can also kill spiders, ants, flea, ticks, and mosquitoes. - Prevents cockroach Re-infestation & Reproduction.
 
-Cons: - Not safe for children and pets. - It can irritate your nasal canals. - May not kill all cockroaches.
+
+Cons:
+- - Not safe for children and pets.
+- It can irritate your nasal canals.
+- May not kill all cockroaches.
+
 
 
 ###  [7. Home Pest Repellent Spray](https://www.amazon.com/dp/B07P7WWW57/?tag=p-policy-20)
@@ -136,9 +210,22 @@ It will not cause discomfort to your humans and pets. This product leaves behind
 
 You can use it on cabinets, doorways, sinks, appliance, or any other cockroach hideouts.
 
-Pros: - No pollution. - Safe and easier to use. - Nice smell. - Kills a variety of insects. - Quick-acting. - Point application.
 
-Cons: - Not for consumption. - I reapplied regularly. - Avoid direct eye contact.
+Pros:
+- - No pollution.
+- Safe and easier to use.
+- Nice smell.
+- Kills a variety of insects.
+- Quick-acting.
+- Point application.
+
+
+
+Cons:
+- - Not for consumption.
+- I reapplied regularly.
+- Avoid direct eye contact.
+
 
 Related: Why Do Cockroaches Come Out at Night
 
@@ -167,4 +254,5 @@ You can prevent a cockroach infestation in your Home by any of the following way
 ##  Conclusion
 
 A cockroach infestation can lead to problems such as food contaminations & poisoning, allergies, discomfort, and frequent disturbances. You can use some of the sprays reviewed in this article to kill cockroach intrusion in your place. It is important to read instructions on the labels to align the suitability of an individual spray. You can also opt for the alternative cockroach elimination methods highlighted above.
+
 

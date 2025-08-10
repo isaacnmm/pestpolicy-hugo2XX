@@ -38,9 +38,18 @@ Not only will you get enhanced bass but also enjoy refined audios that are free 
 
 Regarding noise isolation, SE112-GR will easily outdo most earphones in the market. It also comes with three different-sized tips, which further help in noise isolation. They fit perfectly in the ear canal, and you don't have to insert very deep to get a perfect fit. Shure still manages to maintain durability in this earbud despite not using metallic materials. The earbud housing is all plastic while the cable is made of durable rubber.
 
-The 3. 5mm cable is intentionally made to be right angle because it does not put a lot of stress on the headphone jack. Pros: - Quality and detailed sound - Substantial noise isolation - Right-angled plug - Durable build
+The 3. 5mm cable is intentionally made to be right angle because it does not put a lot of stress on the headphone jack. 
+Pros:
+- - Quality and detailed sound
+- Substantial noise isolation
+- Right-angled plug
+- Durable build
 
-Cons: - No microphone
+
+
+Cons:
+- - No microphone
+
 
 
 ###  [**3. ****RHA MA390 Wireless Earbuds  With Remote and Mic - #3 Pick**](https://www.amazon.com/dp/B074X1DJLY/?tag=p-policy-20)
@@ -51,9 +60,19 @@ If you're looking for a wireless earbud for your workouts or other activity, the
 
 RHA MA390 earbud comes in a high-grade aluminum casing, which contributes to the audio quality and durability of this product. It makes use of silicone tips, which further help in noise isolation and deepening the bass. You can choose a perfect fit from the six silicone tips that come with this package. Perhaps the low battery alert is one of the unique features in RHA MA390. A voice of a lady always alerts you when the battery nears 20%.
 
-Another notable extra is the ability of the earpieces to stick together due to the magnets on the back of each earbud. When not in use, the earpieces close around your neck like a chain. Thus, it's not easy to lose them. Whats more, RHA MA390 comes with a moderate battery which will get you through 7 to 8 hours before recharge. Pros: - True-to-life audio performance - Enhanced bass - Battery prompt - Premium build - Durable housing
+Another notable extra is the ability of the earpieces to stick together due to the magnets on the back of each earbud. When not in use, the earpieces close around your neck like a chain. Thus, it's not easy to lose them. Whats more, RHA MA390 comes with a moderate battery which will get you through 7 to 8 hours before recharge. 
+Pros:
+- - True-to-life audio performance
+- Enhanced bass
+- Battery prompt
+- Premium build
+- Durable housing
 
-Cons: - Battery life isnt impressive
+
+
+Cons:
+- - Battery life isnt impressive
+
 
 
 ###  [**4. ****SoundMagic E10 Earbuds  Great with Metal Construction**](https://www.amazon.com/dp/B005HP3OB0/?tag=p-policy-20)
@@ -66,9 +85,19 @@ That makes it possible to do your chores without continually adjusting the earbu
 
 The cable extends at an incredible 4 ft length, which makes it convenient to use. The hi-fi cable entails a twisted configuration, which allows you to use the earphones with minimal tangling. This design also makes it durable and not easily damaged, even with rigorous use.
 
-Overall, E10 comes in a stylish design and several colors to choose from Pros: - Balanced bass, mid and treble - Durable metal construction - Good value for money - Comes with extra eartips - Stylish with nice colors to choose from
+Overall, E10 comes in a stylish design and several colors to choose from 
+Pros:
+- - Balanced bass, mid and treble
+- Durable metal construction
+- Good value for money
+- Comes with extra eartips
+- Stylish with nice colors to choose from
 
-Cons: - None
+
+
+Cons:
+- - None
+
 
 
 ###  [**5. ****Brainwavz S0 With Microphone and Remote Control**](https://www.amazon.com/dp/B005HP3OB0/?tag=p-policy-20)
@@ -81,9 +110,18 @@ These tips are also configured to enhance the bass response no matter which song
 
 Whats more, it comes in a metal housing which guarantees its durability.
 
-Pros: - Foam tips provide effective noise isolation - Premium metal construction - Tangle-free cable - Additional silicon eartips
 
-Cons: - None
+Pros:
+- - Foam tips provide effective noise isolation
+- Premium metal construction
+- Tangle-free cable
+- Additional silicon eartips
+
+
+
+Cons:
+- - None
+
 
 ###  [6. SoundMAGIC E10 Noise Isolating In-Ear Earphones](https://www.amazon.com/dp/B005HP3OB0/?tag=p-policy-20)
 
@@ -108,9 +146,19 @@ You can choose your perfect fit from the three ear tips that come with the packa
 
 Other features that make BE Sport4 stand out include the microphone configurations and its ability to resist water and sweat.
 
-Whats more, a battery life of 10 hours will be enough to take you through most of the sessions before you get a recharge. Pros: - Impressive low and high frequency audio - Earwings for better anchorage - Sweat-proof - Microphone enabled - Great for workouts
+Whats more, a battery life of 10 hours will be enough to take you through most of the sessions before you get a recharge. 
+Pros:
+- - Impressive low and high frequency audio
+- Earwings for better anchorage
+- Sweat-proof
+- Microphone enabled
+- Great for workouts
 
-Cons: - Stays on until you turn it off
+
+
+Cons:
+- - Stays on until you turn it off
+
 
 
 ###  [**8. ****SOUNDPEATS Wireless Bluetooth Earphones**](https://www.amazon.com/dp/B07S7D8Y2L/?tag=p-policy-20)
@@ -121,9 +169,19 @@ The two drivers work separately to enhance the quality of sound that you get. On
 
 The ear tips fit securely in the ear canal and won't make you uncomfortable.
 
-Also included are ear-wings, which help in securing the earbuds in your ears. It comes with Bluetooth 5. 0 which allows smooth transmission with your Bluetooth devices such tablet and smartphones. Plus theres an advanced microphone which allows you make smooth calls. Pros: - Features dual drivers - Water-resistant - Incredible battery life - Bluetooth 5. 0 - Effective noise cancellation
+Also included are ear-wings, which help in securing the earbuds in your ears. It comes with Bluetooth 5. 0 which allows smooth transmission with your Bluetooth devices such tablet and smartphones. Plus theres an advanced microphone which allows you make smooth calls. 
+Pros:
+- - Features dual drivers
+- Water-resistant
+- Incredible battery life
+- Bluetooth 5. 0
+- Effective noise cancellation
 
-Cons: - Microphone could be better
+
+
+Cons:
+- - Microphone could be better
+
 
 ###  [**9. ****Sennheiser Earphones - CX 300-II**](https://www.amazon.com/dp/B001EZYMF4/?tag=p-policy-20)
 
@@ -133,9 +191,19 @@ Thus, no matter how long you listen to music using these earbuds, you won't feel
 
 You might have to wrap it over your neck to keep the earcups from being pulled down.
 
-In addition, the material and design of the cable make it vulnerable to twisting under certain conditions. But its long enough to use comfortably in any position. Both new and popular brands are innovating each day to edge one another in the earphones industry. This puts users in a dilemma when searching for the best cheap earbuds. Pros: - Bass-enhanced - Lightweight - Ability to isolate noise - Great sound quality
+In addition, the material and design of the cable make it vulnerable to twisting under certain conditions. But its long enough to use comfortably in any position. Both new and popular brands are innovating each day to edge one another in the earphones industry. This puts users in a dilemma when searching for the best cheap earbuds. 
+Pros:
+- - Bass-enhanced
+- Lightweight
+- Ability to isolate noise
+- Great sound quality
 
-Cons: - No microphone - Cable tangles easily
+
+
+Cons:
+- - No microphone
+- Cable tangles easily
+
 
 
 ##  **Considerations for Best Earbuds Under 50 **
@@ -167,4 +235,5 @@ Battery Life - Most people use their earbuds when outdoors, such as in the gym, 
 Getting a quality best earbuds under 50 isn't an easy task. Without proper research, you might end up getting a low-quality product that does not give value for your money. A right earbud should have the right balance in performance, quality, and durability. Most of the products I have reviewed are popular brands that have been tested for years and have proven to be the best.
 
 Maybe you need in-ear headphones to fight the solitude at home, work, subway, or gym.
+
 

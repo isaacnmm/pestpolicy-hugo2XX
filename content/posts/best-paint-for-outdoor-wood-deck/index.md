@@ -31,9 +31,18 @@ It is suitable for siding, wood-staining, fences, and other outdoor painting. It
 
 For doing a maintenance coat, defy extreme have you covered since you dont need to sand the surface.
 
-Only brightening is required, and then apply the stain. Avoid direct sunlight during the application; this is to avoid quick drying and also for better results. Pros: - Easy to apply - Fast drying - It is durable - Pressure-treated
+Only brightening is required, and then apply the stain. Avoid direct sunlight during the application; this is to avoid quick drying and also for better results. 
+Pros:
+- - Easy to apply
+- Fast drying
+- It is durable
+- Pressure-treated
 
-Cons: - None found
+
+
+Cons:
+- - None found
+
 
 
 ###  [2. INSL-X Benjamin Moore-Tough Shield and Floor Paint](https://www.amazon.com/dp/B01NAO2J31/?tag=p-policy-20)
@@ -42,9 +51,19 @@ Benjamin-INSL-X is a high quality 100% acrylic water-based stain designed for ex
 
 It is durable, corrosion-proof, has excellent wearing abilities, and gives you a fine professional look. It can be used on decks and other exterior products, and it's weather-resistant. INSL-X recommendations are to apply two coats in any product. It is fast drying and has good coverage, and in the case of concrete decks, the first coat should be thin with little water, and for the second coat, the paint should be used in full strength.
 
-As for the wooden blocks, priming should be done before the application can be made. Benjamin-INSL-X paint is easy to clean even with soap and water. Pros: - Long-lasting - Abrasion proof - Fast drying - Easy to clean - Great wearing qualities.
+As for the wooden blocks, priming should be done before the application can be made. Benjamin-INSL-X paint is easy to clean even with soap and water. 
+Pros:
+- - Long-lasting
+- Abrasion proof
+- Fast drying
+- Easy to clean
+- Great wearing qualities.
 
-Cons: It is expensive
+
+
+Cons:
+- It is expensive
+
 
 
 ###  [3. KILZ Over Armor Concrete Coating and Smooth Wood](https://www.amazon.com/dp/B07C834BZM/?tag=p-policy-20)
@@ -57,9 +76,19 @@ And the application is made in two coats for maximum durability.
 
 The paint has a fast drying time of 4 to 6hrs after which recoating should be done. Curing takes approximately 72 hours to guarantee a smooth and durable surface. The paint is not advisable for driveways or any drivable surfaces such as the garage and others. The in-depth paint penetration will provide great wood mildew protection, UV rays, or mold.
 
-Pros: - Durable - Gives a smooth finish - Suitable for concrete and wooden timbers - Made in current technology - Easy to cure
 
-Cons: - Not for drivable surfaces.
+Pros:
+- - Durable
+- Gives a smooth finish
+- Suitable for concrete and wooden timbers
+- Made in current technology
+- Easy to cure
+
+
+
+Cons:
+- - Not for drivable surfaces.
+
 
 ###  [4. Rust-Oleum 319551 Resurfacer RockSolid 20X Deck](https://www.amazon.com/dp/B074QTJ5H9/?tag=p-policy-20)
 
@@ -69,9 +98,19 @@ It is designed with current technology and provides excellent water resistance, 
 
 The only first coat that is fast drying and ready for use within 24 hours.
 
-Rust-Oleum offers long-lasting surface sustainability that is weather-resistant and more sustainable to climate. It'll easily modernize and restore the composite decks, wood decks, and patio. Pros: - Water-proof - More durable - Quality brand - Good for weathered decks - Non-slip concrete finish
+Rust-Oleum offers long-lasting surface sustainability that is weather-resistant and more sustainable to climate. It'll easily modernize and restore the composite decks, wood decks, and patio. 
+Pros:
+- - Water-proof
+- More durable
+- Quality brand
+- Good for weathered decks
+- Non-slip concrete finish
 
-Cons: - None found
+
+
+Cons:
+- - None found
+
 
 
 ###  [5. KILZ L573611 Latex Paint -Interior/Exterior](https://www.amazon.com/dp/B01M4QY0MR/?tag=p-policy-20)
@@ -80,9 +119,20 @@ KILZ L573611 enamel porch is a modern and highly designed acrylic paint formulat
 
 It is resistant to peeling, fading, non-slip, resistant to severe weather, and easy to clean. It is a fast-drying paint with an hour dry to touch and 4-6 hours recoating period. You may paint using a roller to give you that smoother texture on the outdoor wood deck. It gives a soft luster enamel with a smooth and subtle finish and can be used on siding, trim, and trellises.
 
-It is designed with a non-drip mechanism during the application, and paint does not stick on the brush, thus easy to clean. 1 KILZ Porch gallon covers 300 to 400 square feet of smooth surface and 200 to 300 square feet of a rough surface. Pros: - Durable - Easy to clean - Fast drying - Weather-resistant - Nondrip mechanism - Self-priming
+It is designed with a non-drip mechanism during the application, and paint does not stick on the brush, thus easy to clean. 1 KILZ Porch gallon covers 300 to 400 square feet of smooth surface and 200 to 300 square feet of a rough surface. 
+Pros:
+- - Durable
+- Easy to clean
+- Fast drying
+- Weather-resistant
+- Nondrip mechanism
+- Self-priming
 
-Cons: - None found
+
+
+Cons:
+- - None found
+
 
 
 ###  [6. Montage Signature Interior and Eco-Friendly Paint](https://www.amazon.com/dp/B077PKBDYN/?tag=p-policy-20)
@@ -91,9 +141,19 @@ Montage is an environmentally friendly paint suitable for both interior and exte
 
 The paint is both affordable and has a non-drip mechanism to minimize spillage. It is water-based and available in two finish options: low luster sheens or semi-gross. It does well on interior wall bedroom for low luster sheens and hides imperfections to give a fine and smooth finish. For semi-gross paint, it does well on woodwork and walls with a lot of tears. It suitable when used with a low sheen to give a fine surface.
 
-It is free of toxins and is made of recycled paint products from latex paints - checks how to remove latex paint. Montage is durable and can be used on garages, walls, ceilings, and trims for commercial and residential projects. It has a limited warranty of 10 years. It is resistant to the harsh climate and has a quick drying time. Pros: - Non-toxic - Durable - Warranty of 10 years - Affordable - Use on interior and exterior surfaces
+It is free of toxins and is made of recycled paint products from latex paints - checks how to remove latex paint. Montage is durable and can be used on garages, walls, ceilings, and trims for commercial and residential projects. It has a limited warranty of 10 years. It is resistant to the harsh climate and has a quick drying time. 
+Pros:
+- - Non-toxic
+- Durable
+- Warranty of 10 years
+- Affordable
+- Use on interior and exterior surfaces
 
-Cons: - None
+
+
+Cons:
+- - None
+
 
 ###  [7. Kilz Enamel and Patio Latex Floor Paint](https://www.amazon.com/dp/B01M4QY0MR/?tag=p-policy-20)
 
@@ -103,9 +163,19 @@ It does well on previously painted and primed surfaces to give a smooth and even
 
 The paint is non-drip and gives a smooth finish without darting.
 
-Pros: - Durable - Non- drip on application - Resistant to harsh weather - Fast drying - Brush easy to clean with water and soap
 
-Cons: - None
+Pros:
+- - Durable
+- Non- drip on application
+- Resistant to harsh weather
+- Fast drying
+- Brush easy to clean with water and soap
+
+
+
+Cons:
+- - None
+
 
 ##  Why Paint the Wood Deck?
 
@@ -126,4 +196,5 @@ If you're using oil-based deck paint, you'll have an enhanced beautiful look on 
 For the best and quality paint, key factors should be considered: durability, weather-resistant climate sustainability. Best overall- KILZ Over Armor Concrete Coating and Smooth Wood is the best pick. This is in terms of performance, durability weather resistance. Reviving old wood Rust-Oleum 319551 Resurfacer RockSolid 20X Deck makes an excellent choice for you. Its 20X thicker than the normal paints and is water-resistant with stable features.
 
 It sticks on wood to give a fine finish.
+
 

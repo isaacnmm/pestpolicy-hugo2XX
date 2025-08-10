@@ -35,9 +35,20 @@ Youll also appreciate the Vibram Kletterlift outsole that promotes underfoot sta
 
 To ensure maximum comfort, these tactical boots feature a highly breathable and waterproof interior. This interior ensures your feet remain warm, dry, and fresh irrespective of the weather conditions.
 
-These boots deliver unmatched comfort, protection, and durability. Hence, they are ideal for hikers, hunters, factory workers, and law enforcement officers. They deliver the highest level of support and comfort making them ideal for all-day wear. Pros: - Excellent arch support - High quality - Durable - Slip-resistant - Highly comfortable - Waterproof and breathable
+These boots deliver unmatched comfort, protection, and durability. Hence, they are ideal for hikers, hunters, factory workers, and law enforcement officers. They deliver the highest level of support and comfort making them ideal for all-day wear. 
+Pros:
+- - Excellent arch support
+- High quality
+- Durable
+- Slip-resistant
+- Highly comfortable
+- Waterproof and breathable
 
-Cons: - You might need to break in on them
+
+
+Cons:
+- - You might need to break in on them
+
 
 Also Read: [Best Orthopedic Slip Resistant Shoes](https://pestpolicy.com/best-orthopedic-slip-resistant-shoes/)
 
@@ -57,9 +68,20 @@ The outsole features a well-constructed rubber compound thats slip-resistant. Th
 
 Other than that, this tactical boot is lightweight and high-performing. Therefore, if youre on a mission where speed is of the essence, you can depend on the comfort and support of these boots. These boots will also be a great companion on those days that would require excessive walking, lifting, or standing for extended periods.
 
-Pros: - Lightweight - Highly comfortable - Supportive - Provides exceptional breathability and ventilation - Highly durable - Ideal for heavy assignments
 
-Cons: - Some reviewers reported that the tongue and eyelet create unnecessary pressure
+Pros:
+- - Lightweight
+- Highly comfortable
+- Supportive
+- Provides exceptional breathability and ventilation
+- Highly durable
+- Ideal for heavy assignments
+
+
+
+Cons:
+- - Some reviewers reported that the tongue and eyelet create unnecessary pressure
+
 
 Also Read: Best Shoes for Arthritic Hips
 
@@ -75,9 +97,20 @@ Other than that, the outsoles of these tactical boots feature a rubber compound 
 
 Furthermore, these hiking boots allow you to tackle arid terrain thanks to their construction and careful design. The padded tongue and collar deliver ample ankle cushioning for unmatched comfort and support.
 
-In addition, the Injected Monowrap midsole delivers lightweight support to the foot. The boots also provide sneaker-like comfort because of their lightweight and comfortable design. Pros: - Highly breathable - Durable - Deliver additional cushioning and support - Ideal for long-distance hiking - Lightweight - Delivers reliable grip and traction
+In addition, the Injected Monowrap midsole delivers lightweight support to the foot. The boots also provide sneaker-like comfort because of their lightweight and comfortable design. 
+Pros:
+- - Highly breathable
+- Durable
+- Deliver additional cushioning and support
+- Ideal for long-distance hiking
+- Lightweight
+- Delivers reliable grip and traction
 
-Cons: - It May take a while to dry up when wet
+
+
+Cons:
+- - It May take a while to dry up when wet
+
 
 ###  [4. Bates Men's 8" Ultralite Tactical Sport Side Zip Military Boot](https://www.amazon.com/dp/B000G5Z6G2/tag=p-policy-20)
 
@@ -91,9 +124,20 @@ On top of that, the breathable mesh lining allows airflow into the boots for a f
 
 Youll also appreciate the rubber outsole for its performance. This rubber compound is slip and oil-resistant. it provides reliable traction ensuring that youre safe with every step that you take. Youll have the confidence and freedom to walk or run on various surfaces including the slippery ones without fear of injuries.
 
-Furthermore, the side zipper ensures that you have an easier time wearing or removing the boot. Overall, the durable construction of this tactical boot gives you the confidence and flexibility to do all your assignments with ease. Pros: - Lightweight - Highly comfortable - Side zippers allow easier in and off - Durable - Cushioned - Breathable and waterproof
+Furthermore, the side zipper ensures that you have an easier time wearing or removing the boot. Overall, the durable construction of this tactical boot gives you the confidence and flexibility to do all your assignments with ease. 
+Pros:
+- - Lightweight
+- Highly comfortable
+- Side zippers allow easier in and off
+- Durable
+- Cushioned
+- Breathable and waterproof
 
-Cons: - It May take a while to break in on them
+
+
+Cons:
+- - It May take a while to break in on them
+
 
 
 ###  [5. Rocky Men's S2V Steel Toe Work Boot](https://www.amazon.com/dp/B004Z6B572/?tag=p-policy-20)
@@ -108,9 +152,21 @@ These Rocky boots also have drainage vents that promote quick drying of the boot
 
 On top of that, these boots have 3M Thinsulate Insulation that enquires proper warmth across the foot. Further, the steel protective toe protects your toes from any harm.
 
-In addition, these plantar fasciitis boots have cushioned Airport footbeds and PU midsoles that provide comfort while protecting the underfoot against discomfort. The boots also have Synthetic soles with exceptional tread patterns that provide a reliable grip on surfaces. Pros: - Ideal for hot climates - Perfect fit - Durable - Good ventilation - Excellent ankle support - The steel toe offers additional protection - Highly comfortable
+In addition, these plantar fasciitis boots have cushioned Airport footbeds and PU midsoles that provide comfort while protecting the underfoot against discomfort. The boots also have Synthetic soles with exceptional tread patterns that provide a reliable grip on surfaces. 
+Pros:
+- - Ideal for hot climates
+- Perfect fit
+- Durable
+- Good ventilation
+- Excellent ankle support
+- The steel toe offers additional protection
+- Highly comfortable
 
-Cons: - Requires break-in period
+
+
+Cons:
+- - Requires break-in period
+
 
 ###  [6. Merrell Men's Moab 2 8" Tactical Waterproof](https://www.amazon.com/dp/B0886W2MFX/?tag=p-policy-20)
 
@@ -126,9 +182,21 @@ The outsole features a spray rubber compound that promotes stability and durabil
 
 On top of that, the outsole features a Virbac TC5+ compound that provides unmatched traction on all surfaces. The heel section has an internal heel counter that holds the heel in place for additional stability.
 
-The front part has a rubber toe cap design that provides protection against abrasion. The boot also has a Durable side zipper that ensures easier on and off. Pros: - Highly comfortable - Excellent cushioning - Reliable outsole - Toe cap for toe protection - Durable - Breathable - Lightweight
+The front part has a rubber toe cap design that provides protection against abrasion. The boot also has a Durable side zipper that ensures easier on and off. 
+Pros:
+- - Highly comfortable
+- Excellent cushioning
+- Reliable outsole
+- Toe cap for toe protection
+- Durable
+- Breathable
+- Lightweight
 
-Cons: - Some customers complained that they are hard to put on
+
+
+Cons:
+- - Some customers complained that they are hard to put on
+
 
 ###  [7. Under Armour Men's Stellar Military and Tactical Boot](https://www.amazon.com/dp/B019ETCT4M/tag=p-policy-20)
 
@@ -138,9 +206,19 @@ This military tactical boot also provides unmatched comfort and protection. They
 
 The ortholite sockliner on the other hand has anti-microbial properties that swerve off odor-causing bacteria. Hence, your feet remain healthy and clean throughout the day.
 
-Furthermore, the upper section of this Under Armour Stellar tactical boot features DWR treated premium Leather with 900D nylon textile. These components enhance the water resistance ability of the boot while ensuring protection and flexibility. Pros: - Quick-drying - Supportive - Durable - Reliable traction - Has anti-microbial properties
+Furthermore, the upper section of this Under Armour Stellar tactical boot features DWR treated premium Leather with 900D nylon textile. These components enhance the water resistance ability of the boot while ensuring protection and flexibility. 
+Pros:
+- - Quick-drying
+- Supportive
+- Durable
+- Reliable traction
+- Has anti-microbial properties
 
-Cons: - You might need to break in on them
+
+
+Cons:
+- - You might need to break in on them
+
 
 ##  Buyers Guide for Best Tactical Boots for Plantar Fasciitis
 
@@ -175,4 +253,5 @@ You may even consider boots with waterproofing technologies that help to inhibit
 I hope that this review on the best tactical boots for plantar fasciitis has been helpful. Remember to choose boots that are comfortable, supportive, durable, water-resistant, and have reliable traction.
 
 My top plantar fasciitis tactical boot is [Danner Men's Acadia 8" Boot](https://www.amazon.com/dp/B000O2WB8I/tag=p-policy-20).This boot is comfortable and slip-resistant. It provides crucial support to plantar fasciitis suffers and helps to ease pain or discomfort in their plantar fascia.
+
 

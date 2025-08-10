@@ -73,7 +73,10 @@ Ensure it extends at least 1 foot beyond the infested area on all sides. 4. **Se
 
 * [Learn more about the process of soil solarization from the University of California IPM.
 
-](https://ipm.ucanr.edu/PMG/SM/soil_solarization.html)* **Pros: ** Organic, kills seeds, also controls other weeds and some soil pathogens. * **Cons: ** Takes a long time, the area is unusable and unsightly during the process, and it may not be 100% effective in cooler climates or during cloudy periods.
+](https://ipm.ucanr.edu/PMG/SM/soil_solarization.html)* **
+Pros:
+- ** Organic, kills seeds, also controls other weeds and some soil pathogens. * **Cons: ** Takes a long time, the area is unusable and unsightly during the process, and it may not be 100% effective in cooler climates or during cloudy periods.
+
 
 ###  4. Smothering/Deprivation (Sheet Mulching/Cardboard Method)
 
@@ -83,7 +86,10 @@ This organic method deprives Bermuda grass of sunlight, eventually killing it.
 
 **Cover with Mulch: ** Cover the cardboard/newspaper with at least 6-12 inches of organic material such as wood chips, straw, compost, or a mixture. 5. **Wait: ** This method can take **several months to a full growing season** for complete eradication, as the grass slowly starves. * [Explore sheet mulching techniques from Oregon State University Extension.
 
-](https://extension.oregonstate.edu/news/sheet-mulching-easy-way-kill-weeds-build-soil)* **Pros: ** Organic, improves soil health, good for creating new garden beds. * **Cons: ** Takes a long time, the area is unusable for planting until the grass is dead, and the appearance might be less desirable during the process.
+](https://extension.oregonstate.edu/news/sheet-mulching-easy-way-kill-weeds-build-soil)* **
+Pros:
+- ** Organic, improves soil health, good for creating new garden beds. * **Cons: ** Takes a long time, the area is unusable for planting until the grass is dead, and the appearance might be less desirable during the process.
+
 
 ###  5. Manual Removal (Digging)
 
@@ -91,5 +97,9 @@ Best suited for very small, isolated patches of Bermuda grass or for targeting i
 
 * **How it Works: ** Physically removing all parts of the plant. * **Steps: ** 1. **Dig Deep: ** Using a spade or garden fork, dig out the Bermuda grass, ensuring you go deep enough to get all the rhizomes (they can be several inches deep) and wide enough to get all stolons. 2. **Inspect: ** Carefully inspect the dug-up soil and the surrounding area for any remaining fragments of roots or runners. Even a small piece can regenerate. 3.
 
-**Dispose: ** Do NOT put Bermuda grass clippings or rhizomes in your compost pile unless you're sure your compost gets hot enough to kill them. Bag them for disposal. * **Pros: ** Chemical-free. * **Cons: ** Extremely labor-intensive, very difficult to be 100% effective, high chance of regrowth from missed fragments.
+**Dispose: ** Do NOT put Bermuda grass clippings or rhizomes in your compost pile unless you're sure your compost gets hot enough to kill them. Bag them for disposal. * **
+Pros:
+- ** Chemical-free. * **Cons: ** Extremely labor-intensive, very difficult to be 100% effective, high chance of regrowth from missed fragments.
+
+
 

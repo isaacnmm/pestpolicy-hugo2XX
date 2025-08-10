@@ -30,11 +30,18 @@ It has excellently defined mid- & also upper mid-range with equally very resonan
 
 This model and serious was created for more effortless playability plus excellent quality craftsmanship.
 
-Pros: - Further, Taylor Academy 10e providesresonant and bright trebles plus and excellent projection. - Acoustically, this model sounds superior to the other[acoustic guitars for small hands](https://pestpolicy.com/best-acoustic-guitar-for-small-hands/).- Forbeginners and students acoustic guitarists, or experts, this Taylor Academy 10e is a top recommendation due to being budget-friendly and very playable.
+
+Pros:
+- - Further, Taylor Academy 10e providesresonant and bright trebles plus and excellent projection.
+- Acoustically, this model sounds superior to the other[acoustic guitars for small hands](https://pestpolicy.com/best-acoustic-guitar-for-small-hands/).- Forbeginners and students acoustic guitarists, or experts, this Taylor Academy 10e is a top recommendation due to being budget-friendly and very playable.
+
 
 - It's well-crafted and not-so-ide necks plus average action that's suitable for beginner guitarists.
 
-Cons: - None
+
+Cons:
+- - None
+
 
 
 ###  [2. Seagull Artist Mosaic Acoustic Guitar - #2 Pick](https://www.amazon.com/dp/B003C80SDG/?tag=p-policy-20)
@@ -45,13 +52,20 @@ Artist Mosaic's hand-selected Cedar top is pressure tested to make the device to
 
 Also, the rosewood bridge is light but dense and hard, allowing it to transfer the string's vibrations to the soundboard and hence losing less energy. The TUSQ-made Nut & Saddle will readily is consistent while also emulating bone - similar to the Tusq Bridge pins. On playability, this Artist Mosaic has excellent action that'll make it comfortable and might not require any adjustments.
 
-The guitar's neck width is 44mm(1 & 3/4 inches) at the nut, which is relatively wide than dreadnought models, but it is also suitable for fingerpicking due to its wide neck and warm sound. Pros: - Its rosewood fingerboard on the mahogany neck is easy to play both when picking the lead lines or strumming chords. - The Artist Mosaic is a significant acoustic guitar upgrade as you'll get the superior tone and quality.
+The guitar's neck width is 44mm(1 & 3/4 inches) at the nut, which is relatively wide than dreadnought models, but it is also suitable for fingerpicking due to its wide neck and warm sound. 
+Pros:
+- - Its rosewood fingerboard on the mahogany neck is easy to play both when picking the lead lines or strumming chords.
+- The Artist Mosaic is a significant acoustic guitar upgrade as you'll get the superior tone and quality.
+
 
 This is thanks to its mahogany sides and back plus the quality cedar top.
 
 - The Rosewood Fretboard will feel great on your fingers while equally transferring string's energy.
 
-Cons: - None
+
+Cons:
+- - None
+
 
 https://youtu.be/re3Ep-OxnoU
 
@@ -66,9 +80,16 @@ Its Scale Length being 600mm make the guitar comfortable while also sending and 
 
 Yamaha CSF3M VN offers a low Action, which is not familiar with the budget acoustic guitars available in our market. You'll equally get a spot-on intonation making the guitar feel and sound welcoming, lyrical, and fluid with its fingerpicking patterns. After my kid learned some "power chords" online, the Yamaha CSF3M VN proved an excellent guitar for them to get control and feel confident in their playing.
 
-Pros: - The included scalloped bracing allowing allows CSF3M VN to produce a reach and louder acoustic sound. - Plus the body depth being 105mm is considerably deeper but will be comfortable due to its favorable neck dimensions.
 
-Cons: - Strings being closer might not be favorable to beginners
+Pros:
+- - The included scalloped bracing allowing allows CSF3M VN to produce a reach and louder acoustic sound.
+- Plus the body depth being 105mm is considerably deeper but will be comfortable due to its favorable neck dimensions.
+
+
+
+Cons:
+- - Strings being closer might not be favorable to beginners
+
 
 
 ###  [4. Epiphone DR-500MCE Electric/ Acoustic (Dreadnought)](https://www.amazon.com/dp/B003K2OWKO/?tag=p-policy-20)
@@ -83,9 +104,19 @@ DR-500MCE has excellent playability due to the great ergonomics giving you smoot
 
 The authentic and thick mahogany body gives an excellent and sweet tone quality with rich lows plus clear highs allowing one to get a bright and bold sound.
 
-You can choose from the sunburst or the natural editions. Pros: - The natural DR-500MCE design is red or dark brown in color, while the sunburst edition will have soft-black edges. - The solid mahogany body (durable and strudy) allows the guitar to withstand tear and wear - and hence last longer - Has a sweet harmonized sound with a great build and craftsmanship producing loud and bright tones - Has a Built-in tuner
+You can choose from the sunburst or the natural editions. 
+Pros:
+- - The natural DR-500MCE design is red or dark brown in color, while the sunburst edition will have soft-black edges.
+- The solid mahogany body (durable and strudy) allows the guitar to withstand tear and wear
+- and hence last longer
+- Has a sweet harmonized sound with a great build and craftsmanship producing loud and bright tones
+- Has a Built-in tuner
 
-Cons: - None
+
+
+Cons:
+- - None
+
 
 
 ###  [5. Fender Paramount PM-1 Dreadnought Guitar](https://www.amazon.com/dp/B019I3OO9W/?tag=p-policy-20)
@@ -100,14 +131,23 @@ This Paramount PM-1 is electro with the special Fishman/ Fender preamp. Its squa
 
 The solid sides and back don't make the acoustic guitar to be heavy - its relatively light and has an open-pore finish to be even great for children.
 
-Pros: - Its C-shape neck (full-shouldered) makes the guitar to be resonant and light while also giving you a roomy projection - Solid build guitar that's also lightweight with a livelier feel - For people with small hands, the Paramount PM-1 is suitable due to the rolled edges and its C-shaped Neck that makes it highly playable and comfortable.
+
+Pros:
+- - Its C-shape neck (full-shouldered) makes the guitar to be resonant and light while also giving you a roomy projection
+- Solid build guitar that's also lightweight with a livelier feel
+- For people with small hands, the Paramount PM-1 is suitable due to the rolled edges and its C-shaped Neck that makes it highly playable and comfortable.
+
 
 - Its tuning keys (vintage-looking) will satisfy the purity and fullness of this acoustic guitar. - You'll notice the indented mahogany top to give the guitar a vintage look.
 
-Cons: - None
+
+Cons:
+- - None
+
 
 
 ##  Conclusion
 
 Luckily, these models of best acoustic guitar under 1000 have a mahogany armrest that's mainly installed in the high-end models. Also, it has a gig bag that padded but equally lightweight. You'll find Academy 10e as comfortable and easy for flat-picking, bending, strumming, and fretting - just like beginner acoustic guitars.
+
 

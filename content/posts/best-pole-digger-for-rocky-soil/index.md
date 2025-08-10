@@ -32,9 +32,17 @@ It features a lithium-ion battery and a charger. This high capacity battery offe
 
 This units ergonomically designed handles are also widely spaced offering the user superior exceptional balance and control in tight and closed spaces.
 
-A reverse torque control (RTC) feature allows the user to pull out the equipment from tight areas if stuck. Pros: - It features high end construction - Quiet and powerful performance - Features LED lighting
+A reverse torque control (RTC) feature allows the user to pull out the equipment from tight areas if stuck. 
+Pros:
+- - It features high end construction
+- Quiet and powerful performance
+- Features LED lighting
 
-Cons: - Relatively heavy (35lbs)
+
+
+Cons:
+- - Relatively heavy (35lbs)
+
 
 ###  [2. Southland SEA438 One Man Earth Auger with 43cc, 2 Cycle](https://www.amazon.com/dp/B0063MSXYY/?tag=p-policy-20)
 
@@ -46,9 +54,19 @@ This unit is specially designed for extreme use on clay and sandy soil as depict
 
 With the Southland SEA438 pole digger, you are guaranteed years of reliable and flawless performance provided by this high-quality product. The manual recoil feature of this product allows you to start the unit effortlessly. Its easily detachable ergonomic handles ease maneuverability, storage, and control. One of the key highlights of this model is its budget-friendly price as compared to other high end models that offer exceptional performance.
 
-It also features high end construction and ease of assembly. Pros: - Easy start capability - Highly affordable - It offers a heavy duty performance - Features detachable handles - A translucent tank allows you to keep check of fuel levels
+It also features high end construction and ease of assembly. 
+Pros:
+- - Easy start capability
+- Highly affordable
+- It offers a heavy duty performance
+- Features detachable handles
+- A translucent tank allows you to keep check of fuel levels
 
-Cons: - Gasoline powered and unfriendly to the environment
+
+
+Cons:
+- - Gasoline powered and unfriendly to the environment
+
 
 
 ###  [3. XtremepowerUS V-Type 55CC 2 Stroke Gas Post Hole Digger 3/4" Shaft 1-Man Auger](https://www.amazon.com/dp/B00CAY8WTU/?tag=p-policy-20)
@@ -63,9 +81,19 @@ It also offers you the convenience of use given its lightweight design and small
 
 Its ergonomically designed handles guarantee user comfort and traction for all those demanding tasks such as installing fences, ice fishing and planting trees.
 
-This units durability is guaranteed by its limited lifetime warranty feature. Pros: - Ideal for drilling in rocky soil - Features a lifetime warranty - Features an electric ignition - Highly affordable - Ease of control and manoeuvrability
+This units durability is guaranteed by its limited lifetime warranty feature. 
+Pros:
+- - Ideal for drilling in rocky soil
+- Features a lifetime warranty
+- Features an electric ignition
+- Highly affordable
+- Ease of control and manoeuvrability
 
-Cons: - It tends to clog easily
+
+
+Cons:
+- - It tends to clog easily
+
 
 
 ###  [4. Seymour 21306 AU-S6 Iwan Auger with Hardwood Handle](https://www.amazon.com/dp/B00002N8OK/?tag=p-policy-20)
@@ -78,11 +106,17 @@ The solid T-handle design of this unit is augmented by a riveted steel blade whi
 
 The twisting action provided by the drilling force takes the time and effort from hole digging tasks. This units ease of use and its wide range of convenience features makes it the ideal choice for homeowners whereas its wooden handle offers user comfort. Weighing in at just 8. 5lbs, this hole digger is highly portable and its handle long enough so you dont have to bend over when making holes.
 
-Pros: - The lightweight construction design of this unit renders it highly convenient.
+
+Pros:
+- - The lightweight construction design of this unit renders it highly convenient.
+
 
 - The simplistic design of this unit is devoid of many additional features but is nevertheless hardy enough to provide superior performance. - This unit is cost-effective and highly dependable, providing excellent performance in different types of soils. - It features a sharp blade and user friendly handling design.
 
-Cons: - Not ideal for large scale work
+
+Cons:
+- - Not ideal for large scale work
+
 
 ###  [5. PROYAMA 51.7CC 2 Stroke Gas Post Hole Digger Earth Auger](https://www.amazon.com/dp/B073B2ZHYC/?tag=p-policy-20)
 
@@ -94,9 +128,17 @@ The PROYAMA hole diggers small capacity engine makes it an efficient choice for 
 
 Its engine performs excellently on relatively small fuel uptake. In addition to its ergonomic design, this pole digger it easy to use and highly economical. This digger can be fitted with bits of various sizes ranging from 4 to 8 inches which allows you to make holes of varying diameters. The PROYAMA Auger is just what you need to achieve professional quality work.
 
-Pros: - A translucent tank allows you to track gasoline levels - Highly portable due to its lightweight design - Features a comfortable handle design
 
-Cons: - Relatively expensive
+Pros:
+- - A translucent tank allows you to track gasoline levels
+- Highly portable due to its lightweight design
+- Features a comfortable handle design
+
+
+
+Cons:
+- - Relatively expensive
+
 
 ###  [6. Earthquake 9800H 2-Person Earth Auger Powerhead with 160cc](https://www.amazon.com/dp/B000BVYT0K/?tag=p-policy-20)
 
@@ -108,9 +150,18 @@ A 3 centrifugal clutch also adds to this units durability.
 
 Its alloy gear transmission system is also highly durable and suited for different soil terrains. Despite its heavy nature, this units handles are widely placed to allow optimal user control. This feature makes it relatively easy for two persons to operate the unit while the long handles offer ease manoeuvrability. The gas tank is made of industrial grade material making it ideal for large scale and rugged tasks.
 
-Pros: - Highly durable - Ideal for industrial scale tasks - Features a powerful engine - Highly efficient and CARB certified
 
-Cons: - Relatively expensive
+Pros:
+- - Highly durable
+- Ideal for industrial scale tasks
+- Features a powerful engine
+- Highly efficient and CARB certified
+
+
+
+Cons:
+- - Relatively expensive
+
 
 
 ###  [7. Goplus 1200W Electric Post Hole Digger 110V 1.6HP](https://www.amazon.com/dp/B01A0OAZKU/?tag=p-policy-20)
@@ -123,9 +174,18 @@ Two anti-skid and vibration-proof handle grips to the user's comfort and stabili
 
 Two conveniently located buttons allow the user to start and lock the machine with relative ease hence guaranteeing user safety. Another unique feature of this unit is that it features a standard length electric power code which does not get in the way during usage. Overall, this units electric engine and auger drill are strong and durable and capable of tackling all soil types.
 
-Pros: - It attaches to different drill types - It provides high power output - Guaranteed user comfort and handling - Start and lock feature ensure user safety
 
-Cons: - Not ideal for large scale use
+Pros:
+- - It attaches to different drill types
+- It provides high power output
+- Guaranteed user comfort and handling
+- Start and lock feature ensure user safety
+
+
+
+Cons:
+- - Not ideal for large scale use
+
 
 ##  Considerations for buying Pole Digger for Rocky Soil
 
@@ -162,4 +222,5 @@ During late summer and early spring, the ground becomes firm and needs to be air
 ##  Conclusion
 
 The choice of the best pole digger for rocky soil depends on several factors. The GOplus 1200W pole hole digger distinguishes itself as the ideal choice for both small and medium scale tasks. In addition to its highly efficient and environmentally friendly engine, the versatile nature of this pole digger makes it an ideal choice for both professional amateur users.
+
 

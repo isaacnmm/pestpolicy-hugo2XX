@@ -28,11 +28,18 @@ King Kutter PTO has a heavy-duty gear drive that'll give you top performance and
 
 The tiller has a powerful gearbox that's created using durable cast iron.
 
-Therefore, the tool will readily cultivate your yard without damaging it. Equally, the tiller will also tend to last longer. Thus, I recommend this King Kutter because it'll readily cultivate even in harsh soil baths. Its high quality and vented gearbox imply for farm work. Pros: - Has rear-shield controls that'll mix up the garden soil - The gear-box is made from high-quality cast-iron that makes the tiler highly durable.
+Therefore, the tool will readily cultivate your yard without damaging it. Equally, the tiller will also tend to last longer. Thus, I recommend this King Kutter because it'll readily cultivate even in harsh soil baths. Its high quality and vented gearbox imply for farm work. 
+Pros:
+- - Has rear-shield controls that'll mix up the garden soil
+- The gear-box is made from high-quality cast-iron that makes the tiler highly durable.
+
 
 - You can control the tilling depth using its adjustable skid - It allows you to adjust the tiller height through 5 settings - Comes with a side gearbox that's vented.
 
-Cons: - Relatively Pricey
+
+Cons:
+- - Relatively Pricey
+
 
 ###  [2. Farmer Helper 71" Tiller Heavy Duty Cat.I 3pt 25hp](https://www.amazon.com/dp/B01N2JO41I/?tag=p-policy-20)
 
@@ -48,9 +55,21 @@ The PTO tiller is also chain driven - which means that it'll be readily compatib
 
 Thus, you can use both huge or small attachments with this Farmer Helper 71" an still achieve best-cultivating results. The tractor's tilling depth is 2-6 inches and hence will till effectively in soil with roots and rocks.
 
-Pros: - Has a driveline PTO slip clutch - Lightweight PTO tiller - The Cat-I hitch provides space for different tractor attachments. - Powerful and durable tractor tines - Has a 65 horsepower gearbox that's "overrunning" - You can adjust the 5-skid Depth from 2 - 8 inches.
 
-Cons: - None
+Pros:
+- - Has a driveline PTO slip clutch
+- Lightweight PTO tiller
+- The Cat-I hitch provides space for different tractor attachments.
+- Powerful and durable tractor tines
+- Has a 65 horsepower gearbox that's "overrunning"
+- You can adjust the 5-skid Depth from 2
+- 8 inches.
+
+
+
+Cons:
+- - None
+
 
 ###  [3. Titan 60" Heavy Duty Rotary Tiller - Gear Drive plusPTO Driven](https://www.amazon.com/dp/B07DVQ1FZ5/?tag=p-policy-20)
 
@@ -67,4 +86,5 @@ The cultivator has 6 flanges with the 36 quality tines. Further, the tines are t
 ##  Conclusion
 
 As a thorough farmer or gardener, you'll require a high perming tiller - that's why I bring to your the best PTO tillers for the money.
+
 

@@ -32,11 +32,20 @@ In addition, you can set a cross scaffold ladder to give you a horizontal painti
 
 You can actually work at a height of 17 feet while maintaining a safe base width of 1. 8 ft. to 2. 5 ft. Importantly, this product is lightweight (34. 5 pounds) thus making it more portable for both youth and adults. Not to forget, Toprung comes with as short storage height of 4. 6 feet that wont occupy much of your store space.
 
-Pros: - Strong and sturdy aircraft grade aluminum - Extra stability wider base with at high heights - Highly portable less weight 34.
+
+Pros:
+- - Strong and sturdy aircraft grade aluminum
+- Extra stability wider base with at high heights
+- Highly portable less weight 34.
+
 
 5 pounds - Comfortable and slip-resistance - 100% safe no leaning on the wall/stand alone - Easy to assemble and extend - Excellent vertical height of 17 feet - 5 Multiple stage scaffold and 1 foot fiberglass stepper - Carries maximum weight of 300 pounds - Durable, easy to use and steady - Store nicely in a small space
 
-Cons: - Slightly heavier for young kids - Hard to pull clasp pins
+
+Cons:
+- - Slightly heavier for young kids
+- Hard to pull clasp pins
+
 
 ###  [2. Idealchoiceproduct 15.5 Feet Folding ladder - #2 Pick](https://www.amazon.com/dp/B06XWY4NF5/?tag=p-policy-20)
 
@@ -48,9 +57,22 @@ Moreover, this ladder comes with simple 5-ways combination options that either g
 
 The versatile ladder also features multiple hinge lock mechanism that guarantees you top safety while painting and further gives it an awesome design set ups while working. The base of Idealchoice is fit with non-slip rubber feet angles while the rungs are fitted with side slip-resistant projections to prevent any skid movement. Notably, this ladder has ground stabilizer bars needed to keep the base still.
 
-Pros: - Heavy duty dual plates aluminum - Foldable design and strong Lock hinges safety - Non-slip rubber feet and slip resistant rungs - Excellent height (15. 5 ft. ) and strong base stabilizers - Easier to assemble and carry along 37. 5 pounds - Rust proof material and Multiple scaffolds - High load capacity 330 pounds
 
-Cons: - Not heavy enough for professional use - Unstable at maximum height
+Pros:
+- - Heavy duty dual plates aluminum
+- Foldable design and strong Lock hinges safety
+- Non-slip rubber feet and slip resistant rungs
+- Excellent height (15. 5 ft. ) and strong base stabilizers
+- Easier to assemble and carry along 37. 5 pounds
+- Rust proof material and Multiple scaffolds
+- High load capacity 330 pounds
+
+
+
+Cons:
+- - Not heavy enough for professional use
+- Unstable at maximum height
+
 
 ###  [3. Ohuhu 12.5 FT Aluminum Telescopic Ladder - #3 Pick](https://www.amazon.com/dp/B01LAHCOQ4/?tag=p-policy-20)
 
@@ -62,9 +84,25 @@ The telescopic extensional ladder has a strong rock-solid stability and non-slip
 
 In fact, the ladder comes with simple retract straps that easily resize it to a short portable height of 2. 9 feet. This product has a special spring load mechanism that locks the vibrations that may result from vertical movement while painting. Moreover, the anti-slip top cap strongly cling on the wall preventing any downward slipping while painting. Importantly. Ohuhu is budget friendly and has very impressive design. Its ANSI certified too.
 
-Pros: - High-quality sturdy aluminum material - Retractable key lock and foldable - Has Non-slip end cap and anti-slip top cap - Lightweight and portable - Has spring loaded lock mechanism - ANSI certified and budget friendly - Rock-solid stability- safe - Convertible and collapsible - High load capacity (330 pounds) & great height (12. 5 feet) - Rust proof and has descending control key
 
-Cons: - Its a wall leaning option - It may pinch your fingers when collapsing
+Pros:
+- - High-quality sturdy aluminum material
+- Retractable key lock and foldable
+- Has Non-slip end cap and anti-slip top cap
+- Lightweight and portable
+- Has spring loaded lock mechanism
+- ANSI certified and budget friendly
+- Rock-solid stability- safe
+- Convertible and collapsible
+- High load capacity (330 pounds) & great height (12. 5 feet)
+- Rust proof and has descending control key
+
+
+
+Cons:
+- - Its a wall leaning option
+- It may pinch your fingers when collapsing
+
 
 
 ###  [4. Louisville Ladder Fiberglass FE3228 Ladder](https://www.amazon.com/dp/B000U0JD4E/?tag=p-policy-20)
@@ -77,9 +115,25 @@ The product comes with sturdy resetting rope and pulley as well as strong steel-
 
 Louisville comes with super industrial standards that even exceeds the CSA grade 1 and ANSI 14. 4 thus proving to be scratch resistant and durable. Notably, this ladder is lightweight and highly portable.
 
-Pros: - Strong ANSI certified aluminum framework - Resetting rope and pulley simple to set - Lightweight and highly portable - High load capacity 300 pounds - Classic design and color - Comes in various sizes and great height 28 feet - Non-slip base cap and mar resistant end caps - High industrial standards and CSA grade 1 - Easier to use and safe - Durable and Highly stable
 
-Cons: - Slightly expensive - Lean on the wall option
+Pros:
+- - Strong ANSI certified aluminum framework
+- Resetting rope and pulley simple to set
+- Lightweight and highly portable
+- High load capacity 300 pounds
+- Classic design and color
+- Comes in various sizes and great height 28 feet
+- Non-slip base cap and mar resistant end caps
+- High industrial standards and CSA grade 1
+- Easier to use and safe
+- Durable and Highly stable
+
+
+
+Cons:
+- - Slightly expensive
+- Lean on the wall option
+
 
 ###  [5. Little Giant 15422-001Multi-Use Ladder](https://www.amazon.com/dp/B00E1AQE46/?tag=p-policy-20)
 
@@ -91,11 +145,19 @@ The 5 in 1 ladder comes in awesome combination design that enable you to set it 
 
 In addition, the ladder comes with a rock lock system and dual-pin hinges that easily allows smooth extensions to your vertical choice. Little giant is fitted with strong glide wheels to allows smooth push/pull movement without sliding on the ground. Notably, the versatile ladder has nice top land that can be extended horizontally to create scaffolds best for ceiling painting up to 22 feet height.
 
-Not forgetting, this ladder is lightweight (39 pounds) and can be folded to occupy smaller storage space. Pros: - Wide flared feet for extra stability - Great vertical height and a wide top land.
+Not forgetting, this ladder is lightweight (39 pounds) and can be folded to occupy smaller storage space. 
+Pros:
+- - Wide flared feet for extra stability
+- Great vertical height and a wide top land.
+
 
 - Stand-alone design- no leaning on the wall - Highly portable and Light weight 39 pounds - Sturdy aircraft grade aluminum frame - 33 classic configurations and combinations 5 in 1 ladders - Safe has strong lockable steppers and non-slip feet - High load capacity (300 pounds) and smooth extension - Comfortable and versatile - Has movable base wheels and non-slip rungs - Affordable and low maintenance cost
 
-Cons: - Unstable at maximum height - Slightly heavier for kids
+
+Cons:
+- - Unstable at maximum height
+- Slightly heavier for kids
+
 
 ###  [6. DeWalt DXL3020-28PT Fiberglass Ladder](https://www.amazon.com/dp/B008DRMSZ2/?tag=p-policy-20)
 
@@ -107,9 +169,24 @@ DeWalt has non-marring rubber sides (prevent scratches) and strong side rung lat
 
 Notably, DeWalt is a comfortable ladder that is easier to transport and comes with extra gauge industrial standards making it more durable.
 
-Pros: - Elegant design and simple convertible mechanism - Has a non-marring side rubber and top cap - Heavy duty aluminum swivel and steel shoes - Non-slip base caps and a rolling nylon rope - Maximum height of 28 feet and weight up to 300 pounds - Non-conductive channels and mar rung latches - Comfortable and 100% safety - Scratch resistant and smooth finish - Rust proof and budget friendly
 
-Cons: - Wobbles at maximum height - Slightly heavy
+Pros:
+- - Elegant design and simple convertible mechanism
+- Has a non-marring side rubber and top cap
+- Heavy duty aluminum swivel and steel shoes
+- Non-slip base caps and a rolling nylon rope
+- Maximum height of 28 feet and weight up to 300 pounds
+- Non-conductive channels and mar rung latches
+- Comfortable and 100% safety
+- Scratch resistant and smooth finish
+- Rust proof and budget friendly
+
+
+
+Cons:
+- - Wobbles at maximum height
+- Slightly heavy
+
 
 ###  [7. Werner D1524-2 24 Feet Extension-ladder](https://www.amazon.com/dp/B0000224LY/?tag=p-policy-20)
 
@@ -123,11 +200,30 @@ Importantly, the versatile ladder is collapsible and lightweight making it highl
 
 You will enjoy top performance with Werner in commercial painting while spending the least maintenance cost (budget friendly). Normally, the rust-proof ladder comes in a simple assembly impressive design that is easier to set and pull down alone. Check this guide on the best automotive hvlp spray gun.
 
-Pros: - Sturdy heavy-duty aluminum frame - Alflo rung connects and twist resistant - Rust-proof framework and weather friendly - Anti-vibratory spring load locks - Slip resistant latches and traction tred rungs - Mar resistant base caps and top ant-skid caps - High load capacity (300 pounds) and great height (28 feet) - Impressive design and simple to assemble - Strong lock brackets and I-beam design - Comfortable and high commercial performance - Budget friendly and low maintenance cost
 
-Cons: - Wobbles at very high heights - Its a wall lean option - A little bit heavy
+Pros:
+- - Sturdy heavy-duty aluminum frame
+- Alflo rung connects and twist resistant
+- Rust-proof framework and weather friendly
+- Anti-vibratory spring load locks
+- Slip resistant latches and traction tred rungs
+- Mar resistant base caps and top ant-skid caps
+- High load capacity (300 pounds) and great height (28 feet)
+- Impressive design and simple to assemble
+- Strong lock brackets and I-beam design
+- Comfortable and high commercial performance
+- Budget friendly and low maintenance cost
+
+
+
+Cons:
+- - Wobbles at very high heights
+- Its a wall lean option
+- A little bit heavy
+
 
 ##  Conclusion
 
 When selecting the best ladder for painting 2 story house, its important to consider base stability, safely options, extension ability, material strength as well as the entire weight. Moreover, the storage height and durability is crucial before you decide on best price that favors your pocket. Indeed, excellent final paint finish is a function of the best ladder selection.
+
 

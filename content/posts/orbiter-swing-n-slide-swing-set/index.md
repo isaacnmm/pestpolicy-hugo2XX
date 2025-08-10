@@ -39,7 +39,19 @@ Further, every swing set can only carry about 115 lbs. Read Also: Running Shoes 
 
 ###  *Weather-resistance *
 
-No one is too old to try as a swing set for maximum fun. It has weather-resistant posts and is fully lumber created. Further, it has metal joints that are powder-coated and thus will maintain its shape and form or much longer. Pros: - Ease of assembly - Low maintenance costs - 113 Inches by 96 Inches by 84 Inches - Built rom quality materials - Durable and strong - Woodgaurd system increases durability.
+No one is too old to try as a swing set for maximum fun. It has weather-resistant posts and is fully lumber created. Further, it has metal joints that are powder-coated and thus will maintain its shape and form or much longer. 
+Pros:
+- - Ease of assembly
+- Low maintenance costs
+- 113 Inches by 96 Inches by 84 Inches
+- Built rom quality materials
+- Durable and strong
+- Woodgaurd system increases durability.
 
-Cons: - Swing styles are few.
+
+
+Cons:
+- - Swing styles are few.
+
+
 

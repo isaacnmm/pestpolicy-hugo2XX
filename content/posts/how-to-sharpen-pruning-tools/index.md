@@ -54,7 +54,10 @@ Various tools can be used to sharpen pruning blades, from simple stones to speci
 
 5. **Bench Grinder: ** * **Description: ** An electric machine with abrasive wheels. * **Best For: ** Very dull or damaged blades requiring significant metal removal. * **Caution: ** Requires experience and a light touch, as it can quickly remove too much metal or overheat the blade, ruining the temper. Not recommended for most home gardeners unless highly experienced.
 
-6. **Household Sharpeners (with carbide or ceramic slots): ** * **Description: ** Small, handheld sharpeners with pre-set angles. * **Best For: ** Quick touch-ups for minor dullness. * **Cons: ** Can be aggressive, often remove too much metal, and may not provide the optimal angle for pruning tools, potentially shortening their lifespan. Use with caution.
+6. **Household Sharpeners (with carbide or ceramic slots): ** * **Description: ** Small, handheld sharpeners with pre-set angles. * **Best For: ** Quick touch-ups for minor dullness. * **
+Cons:
+- ** Can be aggressive, often remove too much metal, and may not provide the optimal angle for pruning tools, potentially shortening their lifespan. Use with caution.
+
 
 ##  Sharpening Process for Pruning Tools
 
@@ -103,4 +106,5 @@ A few quick passes with a fine diamond sharpener after every few hours of use, o
 Sharpening pruning tools is a simple skill that yields significant benefits for your garden and your gardening experience. By ensuring your pruners, loppers, and shears are always razor-sharp, you promote healthier plant growth, prevent disease entry, and reduce strain on your hands and wrists.
 
 It's a small investment of time that pays dividends in the vitality of your plants and the longevity of your tools, making every cut clean, precise, and a pleasure to perform.
+
 

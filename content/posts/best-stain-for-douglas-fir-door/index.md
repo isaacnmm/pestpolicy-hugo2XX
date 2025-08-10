@@ -31,7 +31,18 @@ Further, the stain forms a durable membrane that will not only prevent your door
 
 The Low maintenance product is VOC compliant and can be applied directly without sanding and stripping the door surface. The stain is also packed in a relatively large container (3. 785 liters) to serve you over a large surface area.
 
-Pros: - Water-based formula and more comfortable to apply - Fortified with Zinc nanoparticles for UV protection - Low maintenance and VOC compliant - Durable and robust uniform coat - Crystal clear coat and top quality - Relatively large quantity 3. 785 liters - 100% acrylic and more comfortable to clean water and soap Cons: - Limited colors - Requires 2 or 3 coating
+
+Pros:
+- - Water-based formula and more comfortable to apply
+- Fortified with Zinc nanoparticles for UV protection
+- Low maintenance and VOC compliant
+- Durable and robust uniform coat
+- Crystal clear coat and top quality
+- Relatively large quantity 3. 785 liters
+- 100% acrylic and more comfortable to clean water and soap Cons:
+- Limited colors
+- Requires 2 or 3 coating
+
 
 ###  [2. Minwax 66010000 Douglas Fir Gel Stain, quart & Chestnut](https://www.amazon.com/dp/B000Y4DXRY/?tag=p-policy-20)
 
@@ -43,7 +54,16 @@ More so, Minwax leaves an impressive and beautiful final finish.
 
 The super active agent incorporated in this product prevents it from chipping or peeling off easily. Usually, the stain requires a single coat application that instantly dry to touch in a couple of minutes.
 
-Pros: - Super action stickiness agent -Ideal for vertical surfaces - Wide range of application metal, wood, fiberglass, veneer - The impressive and beautiful final finish - Comes in a variety of color and packages - Safe for both human and pets - Durable and more comfortable to apply with a brush Cons: - Unsuitable for a large project
+
+Pros:
+- - Super action stickiness agent -Ideal for vertical surfaces
+- Wide range of application metal, wood, fiberglass, veneer
+- The impressive and beautiful final finish
+- Comes in a variety of color and packages
+- Safe for both human and pets
+- Durable and more comfortable to apply with a brush Cons:
+- Unsuitable for a large project
+
 
 ###  [3. Ready Seal 512 5-Gallon Pail Natural Cedar Exterior Stain](https://www.amazon.com/dp/B00MDVLOBS/?tag=p-policy-20)
 
@@ -57,7 +77,19 @@ Indeed, this product requires no wet-line mark and meets the Douglas fir's US VO
 
 The ready seal is a direct application medium (no primer needed) and forms a 100% waterproof coating that prevents your door from moisture damage.
 
-Pros: - Best for large projects - Leaves no runs, streaks, or laps - Need no prior thinning or dilution direct application - No primer or back brushing - Instant action stickiness agent - No wet-line app works for any temperature - 100% waterproof and safe for human & pets - Prevent mildew and protect UV rays Cons: - Slightly expensive - Cause stomach upset when swallowed.
+
+Pros:
+- - Best for large projects
+- Leaves no runs, streaks, or laps
+- Need no prior thinning or dilution direct application
+- No primer or back brushing
+- Instant action stickiness agent
+- No wet-line app works for any temperature
+- 100% waterproof and safe for human & pets
+- Prevent mildew and protect UV rays Cons:
+- Slightly expensive
+- Cause stomach upset when swallowed.
+
 
 - Extra drying time 48 to 72 hours - 14 days to acquire it's the true color
 
@@ -71,9 +103,19 @@ This stain uniquely delivers 100% seal on your Douglas Fir door without the use 
 
 This stain has a long service life and won't stain you or your clothes in contact.
 
-The US certified product has been in existence since 1058 this means that it's a long service proven record. Not forgetting, Varathane is packed in a nice can (946ml) that can cover a wide area of 275 square feet. Pros: - Best for interior door staining and furniture - Single coat top performance - Dry to touch in 1 hour fast - Wide area coverage 275 sq.
+The US certified product has been in existence since 1058 this means that it's a long service proven record. Not forgetting, Varathane is packed in a nice can (946ml) that can cover a wide area of 275 square feet. 
+Pros:
+- - Best for interior door staining and furniture
+- Single coat top performance
+- Dry to touch in 1 hour fast
+- Wide area coverage 275 sq.
 
-Ft. 946ml - Has natural wood grains enhanced with nano pigment - Powerful oil-based formula quick-acting - Multiple colors 26 trending options - Deep penetration and perfect seal Cons: - Surface require sanding for best performance. - It's combustible or flammable
+
+Ft. 946ml - Has natural wood grains enhanced with nano pigment - Powerful oil-based formula quick-acting - Multiple colors 26 trending options - Deep penetration and perfect seal 
+Cons:
+- - Surface require sanding for best performance.
+- It's combustible or flammable
+
 
 ###  [5. Thompson's TH.042841-16 Waterseal Waterproofing Stain](https://www.amazon.com/dp/B00KIZVQPU/?tag=p-policy-20)
 
@@ -87,11 +129,24 @@ It is easier to clean.
 
 You can also use this stain on a wooden deck, fence, siding, and gates.
 
-Pros: - Tight sealant and waterproof agent - Prevent UV damage and resist mildew - Variety of colors transparent to solid colors - Has advance polymers withstand color fade - No thinning or primer needed before application - Dry to touch in 2 hours and one coat performance - Tough Industry Standard ASTM D-4446 - Over 60years of service and large quantity 3. 78 liters Cons: - Unsuitable for indoor application - Can be poisonous if swallowed
+
+Pros:
+- - Tight sealant and waterproof agent
+- Prevent UV damage and resist mildew
+- Variety of colors transparent to solid colors
+- Has advance polymers withstand color fade
+- No thinning or primer needed before application
+- Dry to touch in 2 hours and one coat performance
+- Tough Industry Standard ASTM D-4446
+- Over 60years of service and large quantity 3. 78 liters Cons:
+- Unsuitable for indoor application
+- Can be poisonous if swallowed
+
 
 ##  Conclusion
 
 Severally, clients complain of poor stains performance, whereas it's their problems in following the guidelines given during applications. For a long lifespan, be keen to note the number of coats needed per the manufacturer's recommendation.
 
 Before choosing the best stain for a Douglas fir door, it is vital to check the stain's quality, the quantity of the can, area of application procedures, whether the stain requires a primer or conditioner, surface application requirement as well as the drying period.
+
 

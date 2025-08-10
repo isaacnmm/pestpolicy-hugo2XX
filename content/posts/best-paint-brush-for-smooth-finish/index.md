@@ -32,9 +32,22 @@ Presa is budget-friendly and comes in multiple sizes for optional selection when
 
 Use high-quality and affordable paintbrushes to get durable and smooth paint finishes.
 
-Pros: - Firm SRT filaments and heavy-duty construction - Comfortable handle design and durable - Budget-friendly and multiple sizes - Smooth finish and versatile - Great performance and lightweight - Break-resistant and close-packed - Easy to clean and multiple uses
 
-Cons: - Small handle size - Not suitable for very thick paint
+Pros:
+- - Firm SRT filaments and heavy-duty construction
+- Comfortable handle design and durable
+- Budget-friendly and multiple sizes
+- Smooth finish and versatile
+- Great performance and lightweight
+- Break-resistant and close-packed
+- Easy to clean and multiple uses
+
+
+
+Cons:
+- - Small handle size
+- Not suitable for very thick paint
+
 
 
 ###  [2. Bates Paint Brushes Stain Brush, Trim Paint Brush, Professional Brush Set](https://www.amazon.com/dp/B07FW83JCJ/?tag=p-policy-20)
@@ -45,11 +58,22 @@ The closed packed filaments are firmly fixed and elongated for maximum paint app
 
 The rigid metallic fastener is firmly nailed to hold the bristles in places without release or breakage due to the application movement. Indeed, Bates has stainless steel ferrule and angled tips that enable smooth finish termination when painting. The lightweight synthetic material that comes with Bates wont weigh you down when painting. NB: Bates is budget-friendly and requires no thinning when painting.
 
-On economic painting, with a quality wall paintbrush, it is possible to finish your large project using just 1 gallon per 400 square feet with limited amounts of drifts. Pros: - Rigid wooden handle and close-packed filaments - Attractive design and beautiful colors - Multiple sizes and synthetic filaments - Flexible bristles and break-resistant - Not thinning needed more comfortable to clean.
+On economic painting, with a quality wall paintbrush, it is possible to finish your large project using just 1 gallon per 400 square feet with limited amounts of drifts. 
+Pros:
+- - Rigid wooden handle and close-packed filaments
+- Attractive design and beautiful colors
+- Multiple sizes and synthetic filaments
+- Flexible bristles and break-resistant
+- Not thinning needed more comfortable to clean.
+
 
 - Lightweight material and stainless steel ferrule - Non-drip and attractive surface finish
 
-Cons: - Unsuitable for round corner painting - Has small brush handle
+
+Cons:
+- - Unsuitable for round corner painting
+- Has small brush handle
+
 
 
 ###  [3. KINJOEK Paint Brush Fence Edge Door, Acrylics Cabinet Deck, DIY Paint Stains](https://www.amazon.com/dp/B07QRGJKPB/?tag=p-policy-20)
@@ -62,9 +86,22 @@ Further, the budget-friendly brush guarantees you a premium painting performance
 
 The Kinjoek paintbrush requires lesser preparation time, and you won't require a mask or tape or even wearing various personal, proactive equipment or tarps.
 
-Pros: - Best quality bristles and lightweight material - Comfortable handle and attractive design - Multiple width sizes (30 pieces) and more comfortable to clean - Durable construction and metallic bristle fastener - Rigid plastic handle and Selected Rayon filaments - Economical for all uses and stain resistant - Classic black coating and premium performance
 
-Cons: - The compactness could be more. - Limited paint handle
+Pros:
+- - Best quality bristles and lightweight material
+- Comfortable handle and attractive design
+- Multiple width sizes (30 pieces) and more comfortable to clean
+- Durable construction and metallic bristle fastener
+- Rigid plastic handle and Selected Rayon filaments
+- Economical for all uses and stain resistant
+- Classic black coating and premium performance
+
+
+
+Cons:
+- - The compactness could be more.
+- Limited paint handle
+
 
 ###  [4. Richard 80833 Goose Neck Angular Paint Brush](https://www.amazon.com/dp/B0051BMCO0/?tag=p-policy-20)
 
@@ -76,9 +113,24 @@ The handle is reinforced with a comfortable surface material that wont irritate 
 
 It's also suitable for both indoor and outdoor painting projects.
 
-Pros: - Flexible soft grip and angular filaments - Synthetic fibers and close-packed bristles - Excellent paint pick up and release - Best for latex paint and acrylic paint - Comfortable to clean and angular neck - ACME threaded extension pole can be extended - Angled brush tips for line cutting - Classic Richard graphics and sturdy construction - Flexible neck and affordable
 
-Cons: - Comes in one size only - Not suitable for round corners
+Pros:
+- - Flexible soft grip and angular filaments
+- Synthetic fibers and close-packed bristles
+- Excellent paint pick up and release
+- Best for latex paint and acrylic paint
+- Comfortable to clean and angular neck
+- ACME threaded extension pole can be extended
+- Angled brush tips for line cutting
+- Classic Richard graphics and sturdy construction
+- Flexible neck and affordable
+
+
+
+Cons:
+- - Comes in one size only
+- Not suitable for round corners
+
 
 ###  [5. Wooster Brush Shortcut Angle Sash Paintbrush](https://www.amazon.com/dp/B002YC06T2/?tag=p-policy-20)
 
@@ -88,9 +140,24 @@ The lightweight paintbrush comes with close-packed filaments (high paint pick-up
 
 Indeed, this paintbrush features improved maneuverability and a simple eyelet design that allows hanging storage. Besides, Wooster is more comfortable to clean (no thinning), and its resistant to wear and tear. Importantly, Wooster is best for water-based and oil-based paints while also working on your [mini DIY project](https://craftsbyamanda.com/category/craft-tutorials/adult-crafts/)- it offers accuracy and quality.
 
-Pros: - Simple shorthand design and lightweight - Budget-friendly and durable - Close packed bristle and simple to clean - Excellent performance and Brass-plated steel ferrule - and hencewithstand corrosiondue to the brass-plated steel. - More comfortable and improved maneuverability - Best for oil-based and water-based paint - Classic angle finish design and sufficient width
 
-Cons: - Limited sizes and numbers - Comes with small handle sizes - May not cut well on the ceiling
+Pros:
+- - Simple shorthand design and lightweight
+- Budget-friendly and durable
+- Close packed bristle and simple to clean
+- Excellent performance and Brass-plated steel ferrule
+- and hencewithstand corrosiondue to the brass-plated steel.
+- More comfortable and improved maneuverability
+- Best for oil-based and water-based paint
+- Classic angle finish design and sufficient width
+
+
+
+Cons:
+- - Limited sizes and numbers
+- Comes with small handle sizes
+- May not cut well on the ceiling
+
 
 ###  [6. US Art Supply 1 inch Foam Sponge Wood Handle Paint Brush Set](https://www.amazon.com/dp/B01MG5FZD3/?tag=p-policy-20)
 
@@ -100,9 +167,21 @@ Indeed, Foam Sponge features a unique blend of foam material that nicely pick-up
 
 Furthermore, Foam Sponge is highly flexible and budget-friendly. The brush comes in multiple sizes and colors for optional selection when painting. It'll work well with thicker paint like low-VOC paints, including paint-brushes latex paint, stains, primers, and oil-based paints.
 
-Pros: - High paint absorption capacity and lightweight - Unique blend foam and multiple sizes 25 pack - Easier to clean and stain-resistant - Durable solid wooden handle - Beveled form tips and tight spaces - Budget-friendly and smooth finish
 
-Cons: - The foam need replacement after sometimes - Not best for rough surfaces/concrete
+Pros:
+- - High paint absorption capacity and lightweight
+- Unique blend foam and multiple sizes 25 pack
+- Easier to clean and stain-resistant
+- Durable solid wooden handle
+- Beveled form tips and tight spaces
+- Budget-friendly and smooth finish
+
+
+
+Cons:
+- - The foam need replacement after sometimes
+- Not best for rough surfaces/concrete
+
 
 ###  [7. Professional Chalk and Wax Paintbrush](https://www.amazon.com/dp/B0061OIK4M/?tag=p-policy-20)
 
@@ -114,9 +193,23 @@ The less-defined roller marks - excellent for soft, blending, and glazing. Furth
 
 NB: Professional Chalk can be used in all-purpose chalk painting without any problems.
 
-The ferrule is stainless steel and lightweight - and thus it's [rust-resistant](https://pestpolicy.com/rustoleum-rust-reformer-review/).Pros: - Lightweight and affordable - Premium Natural Bristles and stunning round design - Sturdy wooden handle and ergonomic design - Heavy-Duty and reusable material - All-purpose chalk painting and angled tips - Multiple sizes and more comfortable to clean - Work best for round corners
+The ferrule is stainless steel and lightweight - and thus it's [rust-resistant](https://pestpolicy.com/rustoleum-rust-reformer-review/).
+Pros:
+- - Lightweight and affordable
+- Premium Natural Bristles and stunning round design
+- Sturdy wooden handle and ergonomic design
+- Heavy-Duty and reusable material
+- All-purpose chalk painting and angled tips
+- Multiple sizes and more comfortable to clean
+- Work best for round corners
 
-Cons: - No adjustable handle small - Bristle length could be more - Has minimal flexibility
+
+
+Cons:
+- - No adjustable handle small
+- Bristle length could be more
+- Has minimal flexibility
+
 
 
 ##  Conclusion
@@ -124,4 +217,5 @@ Cons: - No adjustable handle small - Bristle length could be more - Has minimal 
 Choosing the best paint brush for smooth finish is vital in eliminating drains that occur when painting. Usually, paint brushes are manufactured for various paint application purposes, and proper selection/matching is needed when placing your order.
 
 Your top choice paintbrush should be lightweight, durable, more comfortable to use, simple to clean, attractive, and feature fine filament material. It will also help if you consider an affordable paint brush without sacrificing the net quality during purchase.
+
 
