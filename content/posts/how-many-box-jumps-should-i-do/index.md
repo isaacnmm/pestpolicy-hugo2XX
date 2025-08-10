@@ -1,8 +1,7 @@
 ---
 title: How Many Box Jumps Should I Do
-description: How Many Box Jumps Should I Do? well, It depends on your strength and
-  goals. - Thus, for cardio endurance, you can do 4 sets of 20 reps with 60 seconds
-  of...
+description: How Many Box Jumps Should I Do? well, It depends on your strength 
+  and goals.
 slug: /how-many-box-jumps-should-i-do/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
@@ -14,6 +13,7 @@ tags:
 - box
 - jump
 layout: post
+
 ---
 How Many [Box](https://pestpolicy.com/best-shoes-for-box-jumps/)Jumps Should I Do? well, It depends on your strength and goals. - Thus, for cardio endurance, you can do 4 sets of 20 reps with 60 seconds of rest in between. - Conversely, you can do 5 sets of 5 reps for power and strength using a higher box [jump](https://pestpolicy.com/why-do-crickets-jump-towards-you/).
 

@@ -1,7 +1,6 @@
 ---
 title: Can Bearded Dragons Eat Eggs
-description: Eggs constitute a major part of the human diet - most of us love them
-  just like cabbage-dragons-eat-cabbage . They are not only delicious but also contain...
+description: Eggs constitute a major part of the human diet
 slug: /can-bearded-dragons-eat-eggs/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
@@ -14,6 +13,7 @@ tags:
 - bearded
 - dragon
 layout: post
+
 ---
 Eggs constitute a major part of the human diet - most of us love them just like cabbage-dragons-eat-cabbage/). They are not only delicious but also contain essential vitamins, minerals, and proteins. But can bearded dragons eat eggs? **The simple answer is YES Eggs are a healthy diet for your bearded dragons.
 

@@ -1,7 +1,6 @@
 ---
 title: Carpenter Ants Vs Fire Ants
-description: Ant identification can be a challenging task - mainly due to the tiny
-  size of these insects. You'd need a microscope or even use the help of a pest control...
+description: Ant identification can be a challenging task
 slug: /carpenter-ants-vs-fire-ants/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
@@ -14,6 +13,7 @@ tags:
 - carpenter
 - ant
 layout: post
+
 ---
 Ant identification can be a challenging task - mainly due to the tiny size of these insects. You'd need a microscope or even use the [help of a pest control professional](https://pestpolicy.com/how-to-get-rid-of-[carpenter](https://pestpolicy.com/what-attracts-carpenter-ants-in-a-home/)-bees-without-killing-them/).
 

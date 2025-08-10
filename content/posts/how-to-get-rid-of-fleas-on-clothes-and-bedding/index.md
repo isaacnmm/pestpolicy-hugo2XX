@@ -1,7 +1,6 @@
 ---
 title: How to Get Rid Of Fleas on Clothes and Bedding
-description: Fleas hiding in clothes and bedding cause disastrous effects - like intense
-  and annoying itching and may transmit diseases like Bubonic plague and Rickettsia...
+description: Fleas hiding in clothes and bedding cause disastrous effects
 slug: /how-to-get-rid-of-fleas-on-clothes-and-bedding/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
@@ -14,6 +13,7 @@ tags:
 - rid
 - flea
 layout: post
+
 ---
 [Fleas](https://pestpolicy.com/getting-rid-of-fleas-in-the-carpet/)hiding in clothes and bedding cause disastrous effects - like intense and annoying itching and may transmit diseases like [Bubonic plague](https://www.mayoclinic.org/diseases-conditions/plague/symptoms-causes/syc-20351291)and Rickettsia prowazekii. Fleas may live on clothing (dirty areas) for ~ 24 hours.
 

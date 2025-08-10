@@ -1,8 +1,7 @@
 ---
 title: Bed Bug Control in Eugene
-description: Dealing with a bed bug infestation can be a stressful experience for
-  homeowners in Eugene, OR. - Bed bugs are resilient pests that can quickly spread
-  and are...
+description: Dealing with a bed bug infestation can be a stressful experience 
+  for homeowners in Eugene, OR.
 slug: /bed-bug-control-in-eugene/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
@@ -16,6 +15,7 @@ tags:
 - bed
 - bug
 layout: post
+
 ---
 Dealing with a [bed](https://pestpolicy.com/bed-bug-bites-vs-mosquito-bites/)[bug](https://pestpolicy.com/bed-bug-bites-vs-other-bites/) infestation can be a stressful experience for homeowners in Eugene, OR. - Bed bugs are resilient pests that can quickly spread and are notoriously difficult to eradicate without professional assistance.
 

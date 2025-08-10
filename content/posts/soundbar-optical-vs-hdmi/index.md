@@ -1,7 +1,6 @@
 ---
 title: Soundbar Optical Vs Hdmi
-description: Is Soundbar optical vs HDMI - digital-audio? Connecting your soundbar-for-under-100
-  to the audio system or AV receiver requires using either an Optical or...
+description: Is Soundbar optical vs HDMI
 slug: /soundbar-optical-vs-hdmi/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
@@ -13,6 +12,7 @@ tags:
 - soundbar
 - optical
 layout: post
+
 ---
 Is Soundbar optical vs HDMI - digital-audio? Connecting your soundbar-for-under-100/) to the audio system or AV receiver requires using either an Optical or HDMI connection (digital-audio).
 

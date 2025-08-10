@@ -1,8 +1,7 @@
 ---
 title: Best Rear Tine Tiller
-description: In this article, I've reviewed the best rear tine tillers. These garden
-  tools have power and versatility. - The tillers are great for an outdoor project
-  that...
+description: In this article, I've reviewed the best rear tine tillers. These 
+  garden tools have power and versatility.
 slug: /best-rear-tine-tiller/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
@@ -14,6 +13,7 @@ tags:
 - tine
 - tiller
 layout: post
+
 ---
 In this article, I've reviewed the best rear tine [tillers](https://pestpolicy.com/best-tiller-for-breaking-new-ground/).These garden tools have power and versatility. - The tillers are great for an outdoor project that requires you to turn over the soil - while saving you on time and back strain. - Rear tine[tillers](https://en.wikipedia.org/wiki/[Tiller](https://pestpolicy.com/best-tiller-for-hard-soil/))areno small investment compared to front tine tillers.
 

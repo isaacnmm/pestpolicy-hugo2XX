@@ -1,8 +1,6 @@
 ---
 title: How to Paint a Garage Floor
-description: Special epoxy  two-partepoxy  is the best for garage floors - but give
-  it a thin and well-mixed application. The garage floor paint will allow a great
-  home...
+description: Special epoxy  two-partepoxy  is the best for garage floors
 slug: /how-to-paint-a-garage-floor/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
@@ -14,6 +12,7 @@ tags:
 - floor
 - epoxy
 layout: post
+
 ---
 Special epoxy ( two-partepoxy ) is the best for garage floors - but give it a thin and well-mixed application. The garage floor paint will allow a great home upgrade - eases cleaning and removes any gunk.
 

@@ -1,8 +1,8 @@
 ---
 title: Elite Dangerous Mods
-description: I've learned how to make Elite Dangerous better with mods, apps, and
-  tweaks. Frontier was developed as a space simulator which is amazingly big. - Bottom
-  Line...
+description: I've learned how to make Elite Dangerous better with mods, apps, 
+  and tweaks. Frontier was developed as a space simulator which is amazingly 
+  big.
 slug: /elite-dangerous-mods/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
@@ -14,6 +14,7 @@ tags:
 - best
 - elite
 layout: post
+
 ---
 I've learned how to make Elite Dangerous better with mods, apps, and tweaks. Frontier was developed as a space simulator which is amazingly big. - **Bottom Line: **Recently, a gaming friend using[ED joysticks](https://pestpolicy.com/[best](https://pestpolicy.com/best-hotas-joysticks/)-joystick-for-[elite](https://pestpolicy.com/xbox-one-elite-controller-review/)-dangerous/)askedme what are your thoughts about and download links for amazing elite dangerous mods?
 

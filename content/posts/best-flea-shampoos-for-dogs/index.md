@@ -1,7 +1,6 @@
 ---
 title: Best Flea Shampoos for Dogs
-description: Fleas are more than just a nuisance - they can cause severe itching,
-  skin infections, and even transmit diseases to your dog.
+description: Fleas are more than just a nuisance
 slug: /best-flea-shampoos-for-dogs/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
@@ -14,6 +13,7 @@ tags:
 - best
 - flea
 layout: post
+
 ---
 [Fleas](https://pestpolicy.com/best-flea-carpet-powder/)are more than just a nuisance - they can cause severe itching, skin infections, and even transmit diseases to your dog. Choosing the right [flea](https://pestpolicy.com/best-flea-collar-for-dogs/)shampoo is essential for [effective pest control](https://www.vet.cornell.
 

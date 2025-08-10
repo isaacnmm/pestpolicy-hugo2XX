@@ -1,7 +1,7 @@
 ---
 title: How Do I Get Rid Of Fleas in My House Without Bombing
-description: The Pyrethrins in the flea spray kill the adult fleas targeting the fleas
-  nervous system and thus kill or paralyze them - with IGR - 0.1 pyriproxyfen. - An...
+description: The Pyrethrins in the flea spray kill the adult fleas targeting the
+  fleas nervous system and thus kill or paralyze them
 slug: /how-do-i-get-rid-of-fleas-in-my-house-without-bombing/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
@@ -14,6 +14,7 @@ tags:
 - get
 - rid
 layout: post
+
 ---
 The Pyrethrins in the flea spray kill the adult [fleas](https://pestpolicy.com/can-cats-get-fleas-in-the-winter/)targeting the fleas nervous system and thus kill or paralyze them - with IGR - 0. 1% pyriproxyfen. - An IGR in Ultracide-flea, the pyriproxyfen, will stop various biological triggers, making the flea evolve to its next life cycle stage.
 

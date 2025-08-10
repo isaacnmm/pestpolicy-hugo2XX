@@ -1,7 +1,7 @@
 ---
 title: Can Fleas Live on Clothes
-description: Flea eggs and pupae can remain dormant for a prolonged lying under carpets,
-  pet fur, or clothes lying on the floor. But, cats & dogs - which are warm-blooded...
+description: Flea eggs and pupae can remain dormant for a prolonged lying under 
+  carpets, pet fur, or clothes lying on the floor. But, cats & dogs
 slug: /can-fleas-live-on-clothes/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
@@ -14,6 +14,7 @@ tags:
 - flea
 - live
 layout: post
+
 ---
 Flea eggs and pupae can remain dormant for a prolonged lying under carpets, pet fur, or clothes lying on the floor. But, cats & dogs - which are warm-blooded are their preferred hosts. Also, fleas may host tapeworms and spread diseases like Lyme diseases. But *, can fleas [live](https://pestpolicy.com/can-fleas-live-in-human-hair/)on clothes? * **The short answer is, No! ** Cat [fleas can't live on hair](https://pestpolicy.com/can-fleas-live-in-human-hair/)and clothes.
 

@@ -1,8 +1,6 @@
 ---
 title: Does Lavender Kill Bed Bugs
-description: I am sitting here in my rented property - and I am at a loss of what
-  to do that'll clear this bed bug infestation. I moved into the house eight months
-  ago!
+description: I am sitting here in my rented property
 slug: /does-lavender-kill-bed-bugs/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
@@ -15,6 +13,7 @@ tags:
 - doe
 - lavender
 layout: post
+
 ---
 I am sitting here in my rented property - and I am at a loss of what to do that'll clear this bed bug infestation. I moved into the house eight months ago! But, my son and I have had a nightmare with bed bugs bites - these red irritated and itchy bumps. *There are many exaggerated claims out there on lavender and other essential oils for household & medicinal uses. But, does lavender Kill Bed Bugs (check pictures)?
 

@@ -1,7 +1,7 @@
 ---
 title: Mount Rainier National Park
-description: Mount Rainier National Park, located in Washington state, is one of the
-  most iconic natural destinations in the United States. - Established in 1899, it...
+description: Mount Rainier National Park, located in Washington state, is one of
+  the most iconic natural destinations in the United States.
 slug: /mount-rainier-national-park/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
@@ -14,6 +14,7 @@ tags:
 - mount
 - rainier
 layout: post
+
 ---
 Mount Rainier National Park, located in Washington state, is one of the most iconic natural destinations in the United States. - Established in 1899, it encompasses over 369 square miles of diverse landscapes, including old-growth forests, alpine meadows, and rugged volcanic peaks.
 

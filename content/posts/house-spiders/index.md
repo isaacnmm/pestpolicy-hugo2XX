@@ -1,7 +1,8 @@
 ---
 title: House Spiders
-description: House Spiders Parasteatoda tepidariorum popular as the American house
-  spider or common house spider are classified under the Parasteatoda genus . - House...
+description: House Spiders Parasteatoda tepidariorum popular as the American 
+  house spider or common house spider are classified under the Parasteatoda 
+  genus .
 slug: /house-spiders/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
@@ -14,6 +15,7 @@ tags:
 - house
 - spider
 layout: post
+
 ---
 House Spiders (Parasteatoda tepidariorum) popular as the American house spider or common house spider are classified under the [Parasteatoda genus](https://edis.ifas.ufl.edu/pdf/IN/IN39400.pdf).- House spiders mainly live in cosmopolitan areas and are described as synanthropic meaning they live near and in human dwellings. House spiders are largely found indoors (in the house).
 

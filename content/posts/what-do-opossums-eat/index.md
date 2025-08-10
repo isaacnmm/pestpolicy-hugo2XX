@@ -1,7 +1,6 @@
 ---
 title: What Do Opossums Eat
-description: Opossums are omnivores, meaning that they eat both plants and animals
-- like humans. But really, what do opossums eat? Opossums need a balanced diet of...
+description: Opossums are omnivores, meaning that they eat both plants and animals like humans. But really, what do opossums eat? Opossums need a balanced diet of...
 slug: /what-do-opossums-eat/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00

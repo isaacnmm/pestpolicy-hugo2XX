@@ -1,8 +1,6 @@
 ---
 title: Signs Of Termites
-description: Below Ive outlined signs of termites - these will become evident with
-  rising atmospheric pressure, wind, light intensity, moisture levels, and temperatures
-  -...
+description: Below Ive outlined signs of termites
 slug: /signs-of-termites/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
@@ -15,6 +13,7 @@ tags:
 - sign
 - termite
 layout: post
+
 ---
 Below Ive outlined signs of termites - these will become evident with rising atmospheric pressure, wind, light intensity, moisture levels, and temperatures - proper termite identiifcation will help you decide on the appropriatrae control method.
 

@@ -1,8 +1,7 @@
 ---
 title: Best Short Scale Electric Guitars
-description: If you are a kid, a player with petite hands or a traveler wishing to
-  play the guitar - the best short scale electric guitars more playable. It has a
-  shorter...
+description: If you are a kid, a player with petite hands or a traveler wishing 
+  to play the guitar
 slug: /best-short-scale-electric-guitars/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
@@ -14,6 +13,7 @@ tags:
 - best
 - short
 layout: post
+
 ---
 If you are a kid, a player with petite hands or a traveler wishing to play the [guitar](https://pestpolicy.com/best-acoustic-guitar-under-1000/)- the [best](https://pestpolicy.com/best-acoustic-guitars-under-200/)short scale electric guitars more playable.
 

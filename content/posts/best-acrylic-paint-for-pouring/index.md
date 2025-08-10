@@ -1,8 +1,7 @@
 ---
 title: Best Acrylic Paint for Pouring
-description: If you're looking for the best acrylic paint for pouring, you have to
-  choose between different paint textures and brands - which might be a devastating
-  task....
+description: If you're looking for the best acrylic paint for pouring, you have 
+  to choose between different paint textures and brands
 slug: /best-acrylic-paint-for-pouring/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
@@ -14,6 +13,7 @@ tags:
 - best
 - acrylic
 layout: post
+
 ---
 If you're looking for the best [acrylic](https://pestpolicy.com/best-acrylic-paint-for-canvas/)[paint](https://pestpolicy.com/best-acrylic-paint-for-professional-artists/) for pouring, you have to choose between different paint textures and brands - which might be a devastating task.
 
