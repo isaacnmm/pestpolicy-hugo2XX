@@ -1,0 +1,13 @@
+{{/*
+  Shortcode: image-lazy
+  Usage: {{< image-lazy src="/path/to/image.jpg" alt="Description of image" width="600" height="400" >}}
+  Description: Renders an image with the native browser `loading="lazy"` attribute for performance.
+  `width` and `height` are recommended to prevent content layout shift.
+*/}}
+<img
+  src="{{ .Get "src" }}"
+  alt="{{ .Get "alt" }}"
+  loading="lazy"
+  {{ with .Get "width" }}width="{{ . }}"{{ end }}
+  {{ with .Get "height" }}height="{{ . }}"{{ end }}
+>
