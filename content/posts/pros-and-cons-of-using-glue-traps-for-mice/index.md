@@ -6,11 +6,16 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - Guide
+
 - Rats
 tags:
+
 - guide
+
 - pro
+
 - tips
 layout: post
 ---
@@ -19,13 +24,13 @@ Glue traps are a common and reliable way of [getting rid of mice](https://entomo
 
 ** *
 Pros:
-- easy to use, cheap to purchase, provide quick results, non- toxic, best for tight locations, and easy to dispose of the dead mouse.
 
+- easy to use, cheap to purchase, provide quick results, non- toxic, best for tight locations, and easy to dispose of the dead mouse.
 
 * *
 Cons:
-- no effective results in extremes temperatures, some people consider it as a brutal act, pets and children can get stuck, requires frequent check-ups, and are easily damaged by dust and moisture. * Related: [Outdoor Rat Traps](https://pestpolicy.com/best-outdoor-rat-traps/)
 
+- no effective results in extremes temperatures, some people consider it as a brutal act, pets and children can get stuck, requires frequent check-ups, and are easily damaged by dust and moisture. * Related: [Outdoor Rat Traps](https://pestpolicy.com/best-outdoor-rat-traps/)
 
 ##  A) The Pros of Using Glue Traps for Mice
 
@@ -92,5 +97,3 @@ Mice will transmit diseases, contaminate food, and damage clothes and other hous
 ##  Sources:
 
 - [House Mouse Management Guidelines--UC IPM](http://ipm.ucanr.edu/PMG/PESTNOTES/pn7483.html)- [What is a sticky trap? - Insects in the City](https://citybugs.tamu.edu/factsheets/ipm/what-is-a-sticky-trap/)- [Controlling House Mice - Nebraska Extension Wildlife](https://wildlife.unl.edu/pdfs/controlling-house-mice.pdf)
-
-

@@ -6,10 +6,14 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - Guide
 tags:
+
 - guide
+
 - dog
+
 - ear
 layout: post
 ---
@@ -115,4 +119,3 @@ Though Dog Ear Mites and Yeast Infections have close similarities in symptoms, t
 1. [Dog Ear Mite Infestation: a Possible Problem in Public - NCBI](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3385579/)2. [Fungal Infections in Dogs - Dog Owners - Merck Veterinary](https://www.merckvetmanual.com/dog-owners/disorders-affecting-multiple-body-systems-of-dogs/fungal-infections-in-dogs)3. [Ear mite infestation in two dogs and its therapy - Semantic](https://pdfs.semanticscholar.
 
 org/d7de/fd2f45d76a05e38dce1153d104d26e2f0705.pdf)
-

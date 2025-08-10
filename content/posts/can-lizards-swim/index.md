@@ -6,10 +6,14 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - Guide
+
 - Lizard
 tags:
+
 - guide
+
 - swim
 layout: post
 ---
@@ -125,4 +129,3 @@ Some lizards such as gecko can walk and run on water. Baby lizards can swim thou
 ##  Sources:
 
 1. [Scuba-diving lizard can stay underwater for at least 16 minutes](https://www.newscientist.com/article/2189067-scuba-diving-lizard-can-stay-underwater-for-at-least-16-minutes/)2. [Lizard Swims Like Snake Through Sand Live Science](https://www.livescience.com/5577-lizard-swims-snake-sand.html)
-

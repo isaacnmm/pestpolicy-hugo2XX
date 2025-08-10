@@ -6,11 +6,16 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - Lawn Care
+
 - Guides
 tags:
+
 - lawn-care
+
 - southern
+
 - lawn
 layout: post
 ---
@@ -124,4 +129,3 @@ TruGreen's ability to combine scientific expertise with localized knowledge and 
 **Q: What's the best way to deal with crabgrass in a Southern lawn? ** A: Prevention is key. Apply a pre-emergent herbicide in early spring when soil temperatures consistently reach 50-55F. For any crabgrass that emerges, spot treat with a post-emergent herbicide labeled for your specific grass type and for crabgrass.
 
 **Q: How low should I mow warm-season grasses? ** A: Mowing height varies by grass type, but typically ranges from 1-3 inches during the active growing season. St. Augustinegrass often prefers 2. 5-3 inches, while Bermudagrass can be mowed lower (1-2 inches). Avoid removing more than one-third of the blade length at a time. Raise the mowing height slightly during periods of extreme heat or drought stress.
-

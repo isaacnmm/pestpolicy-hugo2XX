@@ -6,11 +6,16 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - Bed Bugs
+
 - Guide
 tags:
+
 - bed-bugs
+
 - doe
+
 - lysol
 layout: post
 ---
@@ -92,4 +97,3 @@ It is recommended that you place a bottle or two of rubbing alcohol in each bedr
 ##  Conclusion on; Can Lysol Kill Bed bugs?
 
 It is not uncommon for homeowners to try Lysol to get rid of bed bugs, but the results have been mixed. - Some people report that it does work and some say that it doesn't as well as other household products. Extreme heat isn't good for eggs. It kills bedbug eggs, as it would kill any kind of egg at the same temperature. ..
-

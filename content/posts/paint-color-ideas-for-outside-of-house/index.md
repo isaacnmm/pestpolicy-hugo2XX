@@ -6,11 +6,16 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - DIY Paintings
+
 - Guide
 tags:
+
 - diy-paintings
+
 - paint
+
 - color
 layout: post
 ---
@@ -84,4 +89,3 @@ You can combine golden color with silver, chrome, or dark gray when paint and st
 Yellow color is best for painting kids structure (it creates a relaxed and happy mood). Green color matched buildings found in forest and vegetation area, while gray color should be used when painting houses found in rainy or wet area. Charcoal color rhyme incredibly when matched with brown door and windows. Consider red color with white matching when painting exterior meat house such as butchery or slaughterhouse.
 
 Importantly, go for brown color or reddish-brown combination when painting a house located in dusty area.
-

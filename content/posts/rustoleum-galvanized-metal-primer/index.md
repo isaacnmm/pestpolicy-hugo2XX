@@ -6,11 +6,16 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - Paint
+
 - Product Reviews
 tags:
+
 - paint
+
 - rustoleum
+
 - galvanized
 layout: post
 ---
@@ -35,16 +40,21 @@ This primer will take approximately 1-2 hours for it to dry and ready to touch. 
 
 In case of spillage, you can easily clean-up the primer with water and soap without necessarily rubbing off the paint. You can use a brush, a roller, or a sprayer to apply this primer but you may need to do thinning if you want to achieve a professional finish.
 
-
 Pros:
-- - Fast drying
-- Has low odor
-- Suitable on aluminum and galvanized metals
-- Easy clean-up
-- Easy application
-- Compatible with both water and oil-based paints Cons:
-- There are chances of the spray gun clogging if proper thinning of the paint is not done.
 
+- Fast drying
+
+- Has low odor
+
+- Suitable on aluminum and galvanized metals
+
+- Easy clean-up
+
+- Easy application
+
+- Compatible with both water and oil-based paints Cons:
+
+- There are chances of the spray gun clogging if proper thinning of the paint is not done.
 
 ###  2. Why do priming on the galvanized surface before painting?
 
@@ -81,5 +91,3 @@ This primer is specially designed for aluminum and galvanized metals. To qualify
 ##  Conclusion
 
 It has been a pleasure going through Rust-Oleum galvanized metal primer review together. I hope it was informative enough and has given you the courage to buy it. With nearly 69% of metals recycled each year in the US and Rust-Oleum Flat Aluminum Primer-8781502 becomes a very great product to this effect. You are guaranteed both durability and quality that gives you the confidence to use this primer.
-
-

@@ -6,10 +6,14 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - DIY Paintings
 tags:
+
 - diy-paintings
+
 - paint
+
 - porcelain
 layout: post
 ---
@@ -36,7 +40,6 @@ Materials and Tools Needed - Soapy detergent and warm water - Empty container or
 
 However, cold water requires excess detergent to attain an excellent finish as compared to warm water.
 
-
 ###  Method 2:Using turpentine
 
 Turpentine removes both oil-based and water-based paint sufficiently. Upon application, the active agent in turpentine acts instantly upon contact with the paint molecules. Whether wet or dried paint, turpentine has similar action effects and wont leave any paint traces on the surface. However, turpentine emits fumes that may irritate your nasal cavity if inhale or may cause skin discomfort upon contact.
@@ -52,7 +55,6 @@ In case of dried paint, leave the surface to cure for 5 minutes - Scrub the cure
 Denatured alcohol removes both wet and dried acrylic, epoxy, and latex paint effectively. The chemical formulation found in denatured alcohol breaks and dissolves the paint molecules forming a viscous fluid that is more comfortable to clean.
 
 Materials and Tools Needed - Denatured Alcohol - Warm water in a bucket - Empty can and a piece of cloth - Soft blister paintbrush - Detergent and clean water Steps to Follow - Wear protective gear - gloves, goggles, respirator, overall, and boots - Pour rubbing alcohol/denatured alcohol into a container - Dilute the rubbing alcohol slightly with warm water - Carry out a drop test experiment to access the removal capability - Apply the solvent over the paint stain and leave it to quench for 10 to 15 minutes - Using a soft blister paintbrush, rub the cured paint until the stain is completely removed - Wash the paint debris with warm water and a piece of cloth - Rinse and wipe the porcelain surface leave it to dry naturally NB: Excess concentration of denatured alcohol decolorizes the porcelains primary color.
-
 
 ###  Method 4: Using Cleanser Powder and Sponge
 
@@ -100,7 +102,6 @@ Paint scraper and scrubbing material may damage primary surface material by crea
 
 The use of undiluted stripping chemicals may react with porcelain material, thus leading to abnormal cracking. Moreover, the use of hot water when cleaning porcelain tub leads to anomalous expansion, which causes sudden cracking if suddenly sub-cooled with cold water. Besides, continuous sudden abrasive knocks and strokes (over porcelain tub during paint removal) may cause breakage to the brittle nature of the base material.
 
-
 ##  Precautions When Removing Paint from Porcelain
 
 The following safety measures and precautions should be adhered to when removing paint from porcelain tub: 1. Always match the stripping chemical to the type of paint under removal water-based paint should be removed by using a water-based stripping chemical 2. Avoid using hot water when cleaning porcelain tub sudden expansion and cooling lead to cracking. 3.
@@ -116,4 +117,3 @@ Always wear appropriate protective gear (gloves, overalls, boots, goggles, and r
 In conclusion, on how to remove paint from a porcelain tub, you can either use turpentine, soapy detergent and warm water, denatured alcohol and damp cloth, or cleanser powder and sponge. Besides, the use of stripping chemicals, fabric softener, and scrubbing material will clean paint excellently if proper procedure is followed. Alternatively, you can use dish soap and water, lubricating spray, or scraper when removing paint stain.
 
 However, you must be very careful during paint removal to prevent your porcelain tub from damage or cracking.
-

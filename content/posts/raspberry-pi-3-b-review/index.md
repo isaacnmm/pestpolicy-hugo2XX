@@ -6,10 +6,14 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - Raspberry Pi 3
 tags:
+
 - raspberry-pi-3
+
 - raspberry
+
 - performance
 layout: post
 ---
@@ -19,7 +23,6 @@ There is so much fun in DIY Raspberry Pi projects, such as security cameras and 
 I recently run a test for the[micro-SD card for [Raspberry](https://pestpolicy.com/best-os-for-raspberry-pi-3/)Pi 3](https://pestpolicy.com/best-sd-card-for-raspberry-pi-3/).The upgrade brings superior WiFi performance, wired LAN performance, CPU frequency (200MHz faster), and other significant modifications but still maintained the 1GB memory.
 
 Below are the first impressions and benchmarks after a brief but thorough experience with the new Raspberry Pi model 3 B+.
-
 
 ##  Raspberry Pi 3 B Review + Performance
 
@@ -45,17 +48,14 @@ The test results showed an improvement in the processing power, such as fast USB
 
 My first impression of the Raspberry Pi 3B+ is an excellent-looking circuit board that measures 0. 63*3. 5*2. 2 in. - Notably, all the components are visible: 40-pin GPIO input/output connector and the 1. 4GHz ARM processor. Also, the board includes a micro-SD slot, 3. 5mm audio output, HDMI, Ethernet, four USB 2. 0, and a micro-USB connector.
 
-
 - For example, with the processor upgrade that allows faster speeds, it'll be easier to complete tasks that require enormous computing power, such as creating a home-theatre PC. Further, despite having the same 1GB memory, the Model B+ comes with a 200MHz faster CPU. On the negative side, however, Pi 3 Model B+ could not effectively play the YouTube 1080p video.
 
 However, you may install VLC through different apps or command lines to play SDcard-loaded HD video.
 
 PROS - Superior networking and faster processor - Highly customizable and easy to install CONS - Ethernet port won't attain the 1Gbps top speed described. I used benchmarks from the browser to assess the significance of the 200MHz CPU speed increase. - First, I used the JavaScript Sunspider 1. 0. 2, and it took 1. 92 seconds. Notably, the above is double the speed of the Raspberry Pi 3 Model B that takes 2. 77 secs.
 
-
 ###  **Requires some Add-Ons**
 
 If you are utilizing the Raspberry Pi in complex projects, you must add components such as a Pi case, fans, and heat sinks. - To create an excellent first computer, you'll need a case that has top ports' cut-outs, and that will be easy to dismantle whenever required. - Also, you can include a PoE hat adapter to power up the Raspberry Pi through the Ethernet cable-supplied power, mainly when used with motion detectors.
 
 Model B+'s Ethernet port will allow the gigabit transfer speeds with speeds going up to 315Mbps. Your WiFi radio will do superior in Model B+'s 5GHz band.
-

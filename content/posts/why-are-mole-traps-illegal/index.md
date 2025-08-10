@@ -6,10 +6,14 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - Guide
 tags:
+
 - guide
+
 - mole
+
 - trap
 layout: post
 ---
@@ -75,4 +79,3 @@ Because moles usually create comprehensive tunnels, flooding these tunnels can b
 In conclusion, the anti-trapping law passed in 2000 bans trapping moles in some states such as Washington DC - especially with methods using the snaptrap or body-gripping design traps. - Alternative mole control methods that are legal include using drowning, drugs, gas, ferrets, and shooting.
 
 - Generally, moles are considered unclassified and thus homeowners are allowed to trap this wildlife especially if they're damaging your property, or harming your domestic animals or crops.
-

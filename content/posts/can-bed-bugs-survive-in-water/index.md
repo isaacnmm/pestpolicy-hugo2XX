@@ -6,11 +6,16 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - Bed Bugs
+
 - Guide
 tags:
+
 - bed-bugs
+
 - bed
+
 - bug
 layout: post
 ---
@@ -34,7 +39,6 @@ Whether floating or submerged, bedbugs cannot survive more than 20 minutes in ho
 When you immerse bed bug-infested garments in cold water for 24 hours, all the adults and their nymphs will die while their eggs will remain intact. This is according to a [study](http://insectsinthecity.blogspot.com/2010/03/guidelines-for-killing-bed-bugs-in.html)conducted to investigate the effectiveness of washing your clothes to contain bed bug infestation.
 
 However, it is possible to kill Bed Bug Eggs when the water is frozen to [-13F for several days](https://academic.oup.com/jee/article/106/6/2433/2962119).Freezing the water to -17F will kill the eggs in two hours. Bed bug eggs cannot also survive in hot water. Normally, adult bed bugs and nymphs die at between 104F and 122F. Eggs are more heat-resistant, and you will be required to heat water to 125F or more for them to die.
-
 
 ##  **How to Kill Bed Bugs with Water**
 
@@ -63,4 +67,3 @@ When youre sure the whole house is adequately treated for bed bugs, remove your 
 [Bed bugs will quickly](https://pestpolicy.com/do-bed-bugs-jump/)drown in the water when submerged. So, washing your clothes, bedding, curtains, and other fabrics provides a great way of containing bed bugs. Washing should be done with water at 125F or more to kill bed bugs, nymphs, and eggs. For severe infestations, you need to include more powerful treatments to get effective results.
 
 You can combine chemical treatments with steaming and washing. Also, try these bed bug steamers.
-

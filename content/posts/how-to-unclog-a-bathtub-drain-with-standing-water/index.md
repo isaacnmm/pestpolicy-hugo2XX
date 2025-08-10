@@ -6,11 +6,16 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - Drains
+
 - Guide
 tags:
+
 - drains
+
 - bathtub
+
 - drain
 layout: post
 ---
@@ -64,4 +69,3 @@ Depending on how long the water has been standing in the bathtub, some green scu
 ##  Conclusion
 
 The standing water could be a breeding ground for insects such as dragonflies, mosquitoes, and flies. Such insects could carry lead to an invasion for your family with the Zika virus or Malaria. Further, the stagnant water may also breed tapeworms and heart-worms.
-

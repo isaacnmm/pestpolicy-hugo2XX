@@ -6,11 +6,16 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - Bees
+
 - Guide
 tags:
+
 - bees
+
 - carpenter
+
 - bee
 layout: post
 ---
@@ -94,4 +99,3 @@ Since timing is important for the control of bumblebees, note the bumblebee nest
 You can use D-Force HPX or D-Force HPX to kill the bees.
 
 Also, you can apply D Fence Dust around or inside the nest. Use insecticides containing resmethrin or pyrethrins to knock- down the bumblebees. Also, you can use the dust of sprays that contain carbaryl (Sevin). After treatment, close the bumblebee hole with soil. ****
-

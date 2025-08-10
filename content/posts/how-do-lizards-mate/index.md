@@ -6,11 +6,16 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - Guide
+
 - Lizard
 tags:
+
 - guide
+
 - lizard
+
 - mate
 layout: post
 ---
@@ -106,4 +111,3 @@ When mating, the male lizard climbs over the female lizard and introduces its he
 ##  Sources:
 
 1. [Chemoreception, symmetry and**mate**choice in**lizards**](https://royalsocietypublishing.org/doi/abs/10.1098/rspb.2000.1137)2. [How accurately do behavioural observations predict reproductive success in free-ranging**lizards**? ](https://royalsocietypublishing.org/doi/abs/10.1098/rsbl.2019.0030)
-

@@ -6,8 +6,10 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - DIY Paintings
 tags:
+
 - diy-paintings
 layout: post
 ---
@@ -75,4 +77,3 @@ Also, consider if you'll require to fasten the decks - may be using hidden faste
 ##  Conclusion
 
 Some simple material and pattern will lead to the decks being low-maintenance - but ensure to use standard railing and plank. Thus, with the right material selection, you'll cut waste and save money.
-

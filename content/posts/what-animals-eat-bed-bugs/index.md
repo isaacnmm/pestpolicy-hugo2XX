@@ -6,11 +6,16 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - Bed Bugs
+
 - Guide
 tags:
+
 - bed-bugs
+
 - eat
+
 - bed
 layout: post
 ---
@@ -82,4 +87,3 @@ They might cause painful and poisonous bites - that look like bee bites. - House
 ##  Sources:
 
 1. [Pharaoh Ants Kill Bed-Bugs? - University of Florida](http://entnemdept.ufl.edu/creatures/urban/ants/pharaoh_ant.htm)2. [Roaches Eat Bed-bugs - Harvard University? ](http://adsabs.harvard.edu/abs/1930Natur.125..858G)3. [Masked Hunter Attack Bed-Bugs? Penn State University](http://ento.psu.edu/extension/factsheets/masked-hunter)
-

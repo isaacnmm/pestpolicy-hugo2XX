@@ -6,10 +6,14 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - Defense
 tags:
+
 - defense
+
 - best
+
 - crossbow
 layout: post
 ---
@@ -32,7 +36,6 @@ Despite that the device would not match the latest crossbow designs, we consider
 
 With the Crossbow, you will achieve excellent shooting accuracy with distances such as 48 yards, even when you are a beginner.
 
-
 ###  [2. Barnett Ghost 420 Cross Bow  High End and high powered](https://www.amazon.com/dp/B01MTDH9IB/?tag=p-policy-20)
 
 Barnett Ghost 420 crossbow is one of the high-end tools in its class. This comes with superior quality components, ease of setup, and awesome accuracy capability.
@@ -46,7 +49,6 @@ The device has a compact design, for its efficiency, with around 21 inches acros
 There is a superior bristle that can be replaced after wearing out. Further, if you don't fancy rope cockers, you can add some crank cocking devices.
 
 Finally, the Crossbow has an Anti-Dry Fire (ADF) Trigger Structure, allows Single Bolt Assembly, and has a Soft Lock mechanism.
-
 
 ###  [3. Prophecy 80 Pound Crossbow](https://www.amazon.com/dp/B00SI8TZCK/?tag=p-policy-20)
 
@@ -89,4 +91,3 @@ The structure of the Crossbow holds the bolt and the string, and thus you need t
 I hope with the outline information; you'll quickly make a buying decision for your ultimate Crossbow for self-defense purposes.
 
 Happy Shopping! ! !
-

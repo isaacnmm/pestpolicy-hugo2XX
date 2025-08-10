@@ -6,11 +6,16 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - Guides
+
 - Gardening
 tags:
+
 - guides
+
 - tree
+
 - shrub
 layout: post
 ---
@@ -118,4 +123,3 @@ However, removing too much live growth at once (more than 25-30% in a single sea
 Only use them in very specific cases, such as preventing certain insect borers or for highly disease-prone species, and only if recommended by a certified arborist.
 
 **Q: When should I call a professional arborist? ** A: Call a certified arborist for: * Large trees (especially those near structures or power lines). * Removing large branches (over 10 cm / 4 inches in diameter). * Pruning diseased trees (they have the expertise and equipment to prevent disease spread). * Complex structural pruning or thinning. * If you are unsure about how to prune a specific tree or shrub.
-

@@ -6,10 +6,14 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - Laptops
 tags:
+
 - laptops
+
 - macbook
+
 - pro
 layout: post
 ---
@@ -41,4 +45,3 @@ An additional tab will appear thatll bring up a small keyboard across the top of
 ##  Conclusion
 
 The feature I love l love most about the touch bar is using it to control volume through the touchscreen fader without connecting any external MIDI controller or iPad. Further, it's more natural and faster compared to clicking using the mouse. In addition, controlling plug-in parameters is an amazing experience. But for others such as Charlie Q, it would be great to able to adjust the frequency in the cube as opposed to only the game van.
-

@@ -6,11 +6,16 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - Fleas
+
 - Guide
 tags:
+
 - fleas
+
 - kill
+
 - flea
 layout: post
 ---
@@ -58,4 +63,3 @@ Apply borax on an area that has humidity being more significant than 50 percent.
 Wait for about 1-2 days or longer after sprinkling the borax powder.
 
 Finally, vacuum the treated areas to remove the borax, flea, and flea debris. **Note**: Dont use borax to treat your dog. However, check these articles on [cat flea removal](https://pestpolicy.com/best-flea-treatment-for-cats/)and [dog flea removal using shampoo](https://pestpolicy.com/best-flea-shampoo-for-dogs/).
-

@@ -6,10 +6,14 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - Guide
 tags:
+
 - guide
+
 - leptospirosi
+
 - symptom
 layout: post
 ---
@@ -63,4 +67,3 @@ If you experience any combination of the symptoms listed above, especially if yo
 ##  Conclusion
 
 Leptospirosis is a potentially serious disease with a wide range of symptoms that can mimic other illnesses. Being aware of these symptoms and seeking prompt medical treatment is essential for a successful recovery. If you suspect you have leptospirosis, contact your healthcare provider for testing and appropriate treatment.
-

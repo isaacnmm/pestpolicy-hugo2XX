@@ -6,10 +6,14 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - DIY Paintings
 tags:
+
 - diy-paintings
+
 - between
+
 - deck
 layout: post
 ---
@@ -20,7 +24,6 @@ If you dont do that, therell be incongruities between the boards you use. If you
 
 Requirements: a T-square, level, planer, an electric sander, and sandpaper.
 
-
 ##  **How to Sand Between Deck Boards (Step by Step)**
 
 ###  **1. Prepare the surface of the Deck**
@@ -28,7 +31,6 @@ Requirements: a T-square, level, planer, an electric sander, and sandpaper.
 Check each nail and screw. Ensure that they are all countersinking a few millimeters below the deck level. In this way, theyll not tear your sandpaper during sanding. Use your nail stamp to sink protruding nails and screw down all the screws. Sweep the Deck - The second step is to completely sweep the deck with a broom that has hard bristles to get rid of any loose refuse.
 
 Ensure you move all the furniture and plants from the deck surface for you to clean properly.
-
 
 ###  **2. Sand Between the deck boards?**
 
@@ -63,4 +65,3 @@ Apply medium pressure to your hand sander and check that the appearance is even.
 ##  **Summary**
 
 Ensure your deck is completely dry before sanding. Wait for a few days before sanding if it has rained recently. The surface of the deck, rails, and board edges should be treated as separate tasks. The sanding technique for each is different.
-

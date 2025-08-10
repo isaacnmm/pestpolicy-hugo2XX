@@ -6,11 +6,16 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - Guide
+
 - Lizard
 tags:
+
 - guide
+
 - bearded
+
 - dragon
 layout: post
 ---
@@ -106,4 +111,3 @@ Normally, the beardies dont eat the stems the stem are not succulent and the bea
 Your bearded dragon will not only eat grapes, but it will also feed on their leaves nicely. Grapes are rich in fiber content needed to help in digestion and also contain high level of potassium content necessary for blood pressure control in your beardie. In addition, grapes have rich vitamin composition and minerals that boost beardies immunity. For beardies good health, always involve qualified veterinary for checkup.
 
 However, grapes should be administered as an occasional meal since overfeeding may lead to high water content, high sugar level as well as imbalance calcium: phosphorous ration your beardie.
-

@@ -6,11 +6,16 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - Fleas
+
 - Guide
 tags:
+
 - fleas
+
 - baby
+
 - shampoo
 layout: post
 ---
@@ -76,4 +81,3 @@ Can I use baby shampoo on my cat? The answer is No. Its not a good idea because 
 - Also, when your cat and other pets play host to fleas and other bugs, then bathing them becomes necessary.
 
 Instead of using baby shampoos, cat shampoos are better to bathe your cat because they will not harm your pet.
-

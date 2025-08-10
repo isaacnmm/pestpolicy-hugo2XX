@@ -6,11 +6,16 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - Fleas
+
 - Guide
 tags:
+
 - fleas
+
 - dog
+
 - shampoo
 layout: post
 ---
@@ -106,4 +111,3 @@ You should only wash kittens with shampoos made especially for cats as well beca
 If you want your pet to feel clean after its bathtime session, I recommend some of these natural substitutes to wash your cat; - Lemon spray (use this instead of bleach), - Aloe vera juice (great for dry or irritated skin) - Cedar chips (for waterproofing), - Peppermint extract(keeps fleas away). - Apple Cider Vinegar I would love to hear what products other pet owners have found that they like best for their kitty!
 
 What natural alternatives did you try? Let me know in the comments below or at [@PestPolicy)](https://twitter.com/pestpolicy)on Twitter! "
-

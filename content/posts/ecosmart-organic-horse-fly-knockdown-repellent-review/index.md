@@ -6,11 +6,16 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - Flies
+
 - Product Reviews
 tags:
+
 - flies
+
 - ecosmart
+
 - organic
 layout: post
 ---
@@ -34,4 +39,3 @@ With Ecosmart [fly repellant](https://pestpolicy.com/espree-aloe-herbal-fly-repe
 However, ensure you shake the fly repellent real well for better effectiveness since it is made up of blended liquid plant oils.
 
 Finally, get your Ecosmart horse [fly repellent and spray](https://pestpolicy.com/pyranha-wipe-n-spray-fly-review/),but avoid the animal's face and eyes. Also, put the repellent on a cloth to moisten and treat the horses face. However, do not spray the eyes, face, or ears.
-

@@ -6,10 +6,14 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - Controllers
 tags:
+
 - controllers
+
 - nintendo
+
 - switch
 layout: post
 ---
@@ -44,7 +48,6 @@ First, before thinking of installing the microSD card to your Nintendo Switch, y
 
 However, check the compatible Nintendo Switch SD cards you can pick.
 
-
 ###  What is the maximum Nintendo Switch Internal Storage?
 
 Your Nintendo Switch will only come with 32 GB as its internal storage capacity. However, some of the above internal storage space is kept for critical system functionality. - Despite that Nintendo Switch games are not so large, it is believed that practically the internal storage space is about 25 GB. - Adding some storage space through the MicroSD Card can help you store more digitally downloaded games.
@@ -66,4 +69,3 @@ Option B: The other great option is to move your switch games to another externa
 ##  Conclusion
 
 In this article, I have covered how you can install and remove the microSD card from the Nintendo Switch console. If you need extra storage space for the exciting digitally download games, you'll need to buy additional storage space.
-

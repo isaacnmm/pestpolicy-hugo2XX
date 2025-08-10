@@ -6,11 +6,16 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - Guide
+
 - Lizard
 tags:
+
 - guide
+
 - bearded
+
 - dragon
 layout: post
 ---
@@ -80,4 +85,3 @@ Further, you may simulate wild feeding by providing videos - this also enhances 
 ##  **Conclusion**
 
 Bearded dragons must never be fed with citric fruit because they're highly acidic and have high sugar levels. - As much as you want to give a calcium diet to your bearded dragon, you should avoid feeding them with oranges. - The sweetness and acidity of oranges and other citrus fruits arent good for the health of your beardie. Therefore, you should feed them with alternative foods like kale, carrots, collard greens, and other leafy vegetables.
-

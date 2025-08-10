@@ -6,11 +6,16 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - Flies
+
 - Product Reviews
 tags:
+
 - flies
+
 - espree
+
 - aloe
 layout: post
 ---
@@ -44,4 +49,3 @@ I also noted that the horse no longer has marks of fly bites on their legs.
 Some of us horse owners are allergic to some active ingredients in chemical fly repellents such as Chrysanthemums or pyrethrin. Luckily, this Espree Aloe Herbal gives horse owners a natural alternative that human beings and horses will love. Despite having natural active ingredients, this Espree Aloe Herbal repellent is considerably effective in repelling the flies from your horse.
 
 Luckily, the product leaves the horse's fur in a greatly smelling, shiny, and soft condition that most of us, the horse owners, love. Also, being a natural horse fly solution, you won't worry about using it around your kids or pets. Espree Aloe Herbal won't poison them since it's naturally created with no chemicals.
-

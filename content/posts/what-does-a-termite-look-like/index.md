@@ -6,11 +6,16 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - Guide
+
 - Termites
 tags:
+
 - guide
+
 - termite
+
 - look
 layout: post
 ---
@@ -84,4 +89,3 @@ Subterranean termites will protect themselves and reach their food using "mud tu
 ##  Sources:
 
 1. [Molecular basis for the reproductive division of labor in a lower termite](https://bmcgenomics.biomedcentral.com/articles/10.1186/1471-2164-8-198)2. [(PDF) Review of secondary reproduction in termites (Insecta](https://www.researchgate.net/publication/287843812_Review_of_secondary_reproduction_in_termites_Insecta_Isoptera_with_comments_on_its_role_in_termite_ecology_and_social_evolution)
-

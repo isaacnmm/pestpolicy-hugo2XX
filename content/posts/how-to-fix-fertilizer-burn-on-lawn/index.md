@@ -6,12 +6,18 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - Lawn Care
+
 - Guides
+
 - Problem Solving
 tags:
+
 - lawn-care
+
 - fix
+
 - fertilizer
 layout: post
 ---
@@ -125,4 +131,3 @@ Fertilizer burn is a disheartening but often recoverable setback in lawn care. T
 By committing to accurate measurements, proper spreader calibration, and meticulous application techniques, you can largely eliminate the risk of fertilizer burn. Furthermore, by understanding your lawn's specific needs and opting for appropriate fertilizer types and timings, you empower your grass to thrive, ensuring that your efforts yield the lush, green results you desire, rather than a scorched landscape.
 
 Treat your lawn's nutrition with respect, and it will reward you with vibrant health.
-

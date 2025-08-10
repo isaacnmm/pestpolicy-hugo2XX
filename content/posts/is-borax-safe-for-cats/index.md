@@ -6,11 +6,16 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - Fleas
+
 - Guide
 tags:
+
 - fleas
+
 - borax
+
 - safe
 layout: post
 ---
@@ -88,4 +93,3 @@ The safety of borax for cats is a contentious issue, with some claiming it to be
 - This is less of a concern for dogs, which do not groom themselves as regularly and so are likely to ingest fewer particles. In short: Borax can be safe if used in appropriate amounts - but should always be used only with other methods of flea control.
 
 Always store it well in places out of reach of both your children and pets since they may accidentally ingest it. Also, get rid of any spillages.
-

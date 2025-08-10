@@ -6,11 +6,16 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - Bed Bugs
+
 - Guide
 tags:
+
 - bed-bugs
+
 - stink
+
 - bug
 layout: post
 ---
@@ -76,4 +81,3 @@ Though they will be rarely destructive indoors, at some point they might also at
 What do stink bugs eat? Stink bugs are more of outdoor bugs and their favourite food include, tomatoes, fruits, soybean, leaves and flowers of some plants. - Some bugs are also predators and will also feed on other insects like caterpillars, beetles, aphids among others. - Though some bugs may invade our homes, they do so looking for shelter during winter. Some may also get attracted by the lights of foods in your home.
 
 If you find them in your homes there are several ways to eliminate them or even prevent their invasion either even on the garden.
-

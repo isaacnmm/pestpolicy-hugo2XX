@@ -6,10 +6,14 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - DIY Paintings
 tags:
+
 - diy-paintings
+
 - paint
+
 - from
 layout: post
 ---
@@ -33,7 +37,6 @@ Prepare the paint stripper according to the manufacturers instructions. 4.
 Using a paintbrush or a roller, apply the paint stripper. 5. Allow the paint stripper to cure for about 10 minutes. 6. Using a[scraper](https://www.amazon.com/dp/B07D5782VS/?tag=p-policy-20),scrub the surface gently to remove the paint debris 7. Connect the power wash or hosepipe to the water point and clean the scrubbed area entirely. 8. Reapply paint stripper until the paint is entirely removed 9.
 
 Finally, clean the surface with soapy water and aconcrete deck brushto remove traces of paint stripper from the surface. 10. Leave the concrete surface to dry naturally. NB: Paint stripper contains methylene chlorine (a toxic chemical), which is burns skin or irritates the respiratory system when inhaled.
-
 
 ###  b. Absorbent Paint Stripper
 
@@ -68,7 +71,6 @@ The chemical works by breaking the paint compound into liquid form that more com
 - Dilute TSP with warm water appropriately follow manufacturers instruction - Using a roller, apply the TSP solution gently over the painted surface. - Leave the surface to cure for 5 to 10 minutes. - Scrap the paint layer using scrapper softly until the paint is full removed - Repeat the process; if the paint is not entirely removed.
 
 - Clean the surface with soapy detergent and water to remove traces of TSP - Rinse the concrete with water and leave it to dry naturally NB: TSP is poisonous and should be handled with care inhaling TSP will irritate your nasal cavity and cause skin irritation. More so, TSP is outlawed in some countries.
-
 
 ##  What are Homemade Methods of Paint Removal from Concrete
 
@@ -123,4 +125,3 @@ Having read this article on how to remove paint from concrete, I hope you have a
 Precautions are vital and should be adhered to since human health is paramount.
 
 Always wear protective gear during the paint removal process. Notably, know the paint under removal before choosing a method to use on a particular concrete surface.
-

@@ -6,11 +6,16 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - Guide
+
 - Squirrels
 tags:
+
 - guide
+
 - squirrel
+
 - carry
 layout: post
 ---
@@ -80,4 +85,3 @@ As for sprays, it is much effective if you use cotton balls instead of spraying 
 ##  Conclusion
 
 Do squirrels carry ticks? Yes, they do. And these ticks are possible spreaders of Lyme disease among others. - If you keep a squirrel as a pet, you need to check for ticks and take immediate action to control them. If you are a victim of wild squirrels, there are [possible ways to control them](https://pestpolicy.com/how-to-get-rid-of-squirrels-in-the-yard/)from invading your house as described in the article above.
-

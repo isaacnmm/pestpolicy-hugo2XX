@@ -6,11 +6,16 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - Guide
+
 - Lizard
 tags:
+
 - guide
+
 - bearded
+
 - dragon
 layout: post
 ---
@@ -88,4 +93,3 @@ Feeding spinach to your bearded dragons makes you risk metabolic bone disease. -
 ##  Conclusion
 
 So, in summary, should I feed my bearded dragons with spinach? Well, spinach is an okay munch for your dragon as it has good calcium: phosphorous ratio. - However, spinach has high oxalates that will prevent the absorption of calcium and this may trigger metabolic bone disease in the beardie. Cheers!
-

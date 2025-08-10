@@ -6,10 +6,14 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - Paint
 tags:
+
 - paint
+
 - metal
+
 - interior
 layout: post
 ---
@@ -123,4 +127,3 @@ Paint and primer that remain should be stored away from pets and kids to prevent
 Having read this article on how to paint a metal interior door, I believe you that gained a deeper insight that will not only help you eliminate poor quality paint finish, but also assist you when undertaking DIY projects. When painting, you need to choose the right tools and material, remove the door and hardware (if not fixed permanently), clean the door with a degreaser, and remove old paints before sanding the surface.
 
 Select and prepare the primer as per the manufacturers instructions, gently apply the primer, select and prepare the finish paint, apply to finish paint intermittently to achieve quality stickiness, and leave the door to dry naturally before replacing the hardware and fixing it back
-

@@ -6,10 +6,14 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - DIY Paintings
 tags:
+
 - diy-paintings
+
 - fibergla
+
 - boat
 layout: post
 ---
@@ -50,13 +54,11 @@ This time allows the hull to harden and gain extra toughness that is water-resis
 
 NB: Avoid sanding the final finish. When painting the hull interior, clear all other items and fill the leak points before paint application. Importantly, you should remove interior masking after complete paint curing has taken place.
 
-
 ###  c. Paint selection
 
 Paint selection is critical for a fiberglass boat. The boat is divided into two major areas; the upper topside and the bottom area that is usually submerged in water. For the bottom section, you can comfortably use two-part polyurethane paint. The paint should have a high affinity for fiberglass material. This particular paint can also be used when restoring the painted surface. However, sanding and primer should precede the application process.
 
 Use one-part polyurethane paint for the tip side and interior hull section. Following the primer or undercoat application, the rolling painting or spraying should be preferred instead. You can use enamel or alkyd paints as a finisher. The 5-gallon container will be sufficient to cover the entire fiberglass boat painting (interior and exterior hull). NB: Always follow the manufacturers advice when mixing the paint.
-
 
 ###  d. Paint Application
 
@@ -133,4 +135,3 @@ Spay your boat with antifoul solvent to improve service life and outlook 7. Neve
 When painting your fiberglass boat, proper procedure/steps should be followed, as highlighted in this article. You will need to select the right boat paint, use the appropriate application method, and sand intensively before painting the entire surface. Besides, you will need to carry out frequent boat maintenance to eliminate some failure problems and avoid overloading.
 
 Notably, the boat paint restoration process is the best practice to improve its service life.
-

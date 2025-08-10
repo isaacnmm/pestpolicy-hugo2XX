@@ -6,11 +6,16 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - Guide
+
 - Raccoons
 tags:
+
 - guide
+
 - groundhog
+
 - eat
 layout: post
 ---
@@ -82,4 +87,3 @@ Related: [Top Mole Traps](https://pestpolicy.com/best-mole-traps/)
 What do groundhogs eat? They are omnivorous but have a high preference for vegetables, fruits and plants as compared to animals, insects and pests. - Because of their nature to burrow and live underground, and fear for human beings, they like to come out and feed either in the evening or in the morning. - Their feeding pattern and diet is also greatly affected by weather patterns and will hide food in the tunnels for the winter season.
 
 That said done, they are a great threat to our farming activities and measures should be applied to ensure their damage is controlled.
-

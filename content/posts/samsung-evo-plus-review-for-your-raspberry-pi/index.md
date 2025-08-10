@@ -6,10 +6,14 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - Raspberry Pi 3
 tags:
+
 - raspberry-pi-3
+
 - samsung
+
 - evo
 layout: post
 ---
@@ -27,4 +31,3 @@ The performance improvements in the all-new Samsung EVO Plus, Philippines manufa
 ##  Conclusion
 
 Samsung EVO Plus is an awesome selection for your Raspberry Pi, digital camera, and media recording. This is mainly due to its superior sequential write and read speeds.
-

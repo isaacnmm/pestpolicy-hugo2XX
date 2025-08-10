@@ -6,10 +6,14 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - DIY Paintings
 tags:
+
 - diy-paintings
+
 - thin
+
 - enamel
 layout: post
 ---
@@ -127,4 +131,3 @@ Water They are used for water-based enamel paint. It the best to paint thinner.
 The article on how to thin enamel paint is insightful and an eye-opener to various ways of thinning enamel paint. The accrued benefits associated with the use of enamel paint guarantee you the best quality coat layer. Besides, you enjoy in-depth conviction as to why thinning enamel paint is such a crucial step.
 
 Remember, to achieve the best quality thinned paint, you must locate the ideal environment (like a [well-ventilated room](https://www.ncbi.nlm.nih.gov/books/NBK143277/)), select the right thinner, and mix the solvents in the correct ratio before carrying out an actual application.
-

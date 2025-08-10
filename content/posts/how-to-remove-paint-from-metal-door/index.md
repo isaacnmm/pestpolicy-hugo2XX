@@ -6,10 +6,14 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - DIY Paintings
 tags:
+
 - diy-paintings
+
 - paint
+
 - metal
 layout: post
 ---
@@ -58,7 +62,6 @@ So, the baking soda blasting process is non-hazardous.
 
 Simultaneously, the chemical is also food-grade, which means it can be used both at home, commercially, and for industrial applications in removing paint coats. After the paint removal process is completed, you'll need to dissolve the baking soda into water and wash it down the drain. It won't contaminate materials or cause adverse health effects on both humans and your pets - but you'll need to wear PPE for protection against paint lead.
 
-
 ##  Other Alternatives to Removing Paint from Metal Door
 
 Here's an outline of the options to use in removing paint from the metal door. In the lest below, I begin with one that'll be less invasive. 1. Putty knife - The putty knife will readily remove paint from the door metal. It'll remove the new paint speckles since the putty knife is sharp, but you'll need to lift the paint speckles while also preserving the metal door surface's integrity. 2.
@@ -72,4 +75,3 @@ Use lacquer thinner or Acetone - So, finally, it's now time to get to the ultima
 ##  Conclusion
 
 Use the best heat gun to remove the paint from the metal door - this one will curl the paint, and hence you can easily use a scraper to remove the paint. It'll warm the paint coat and make it soft, ready for scrapping. However, don't the heat gun on wood as it'll discolor or burn it.
-

@@ -6,10 +6,14 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - Raspberry Pi 3
 tags:
+
 - raspberry-pi-3
+
 - format
+
 - card
 layout: post
 ---
@@ -69,4 +73,3 @@ All SD cards larger than 32 GB will be formatted to the exFAT filesystem, as not
 ##  Conclusion
 
 Raspberry Pi 3 Model B & Model B+ is only compatible with Micro SD cards. - The SD card store data files and enableRaspberry Pi3 Softwarebooting. In addition, consider purchasing acooler and [power supply](https://pestpolicy.com/best-power-supply-raspberry-pi-3/)for the highest efficiency.
-

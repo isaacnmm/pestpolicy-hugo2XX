@@ -6,11 +6,16 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - Guide
+
 - Lizard
 tags:
+
 - guide
+
 - are
+
 - blue
 layout: post
 ---
@@ -104,4 +109,3 @@ Blue Tailed Lizards are not poisonous. They may not harm you children, pets and 
 Though these reptiles can bite, when they feel threatened, the bite mark does not last long (2 to 3 days).
 
 Blue Tailed Lizards contain liver flukes and may transmit them to your pets when eaten causing severe damage in the liver. Protect your pets from eating Blue tailed lizards for their health safety.
-

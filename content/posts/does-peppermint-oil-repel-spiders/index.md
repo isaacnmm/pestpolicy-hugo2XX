@@ -6,11 +6,16 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - Guide
+
 - Spiders
 tags:
+
 - guide
+
 - doe
+
 - peppermint
 layout: post
 ---
@@ -100,4 +105,3 @@ Natural insecticides such as Pyrethrins are extracted from flowers such as the c
 ##  Conclusion
 
 On does peppermint oil repel spiders, YES, you can use some pre-mixed formula or prepare the peppermint oil DIY as outlined above. Research has shown that the volatiles ejected by the chestnuts and peppermint oil will repel spiders including black widow and the brown recluse - but this is not the case with lemon oil.
-

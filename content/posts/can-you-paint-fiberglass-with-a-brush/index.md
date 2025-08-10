@@ -6,10 +6,14 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - Uncategorized
 tags:
+
 - uncategorized
+
 - fibergla
+
 - brush
 layout: post
 ---
@@ -79,4 +83,3 @@ Choose a topcoat that complements the type of paint used and the desired finish.
 ##  **Curing the Paint**
 
 After the final coat of paint and topcoat (if used) has been applied, allow sufficient time for the paint to cure completely. Curing times can vary depending on the type of paint used and environmental conditions
-

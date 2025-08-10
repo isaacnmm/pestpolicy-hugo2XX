@@ -6,12 +6,18 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - Plants and Flowers
+
 - Guides
+
 - Gardening
 tags:
+
 - plants-and-flowers
+
 - native
+
 - oakleaf
 layout: post
 ---
@@ -89,4 +95,3 @@ The multi-season appeal of oakleaf hydrangeas makes them incredibly versatile in
 * **Companion Plants: ** Complement them with other acid-loving plants such as azaleas, rhododendrons, camellias, pieris, hostas, and ferns.
 
 By choosing oakleaf hydrangeas, you're not just planting a shrub; you're inviting a dynamic, low-maintenance, and ecologically beneficial plant into your garden. Their ability to deliver stunning beauty across all four seasons makes them a truly exceptional native choice for any landscape.
-

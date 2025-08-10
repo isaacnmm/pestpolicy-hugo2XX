@@ -6,11 +6,16 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - Guide
+
 - Raccoons
 tags:
+
 - guide
+
 - raccoon
+
 - live
 layout: post
 ---
@@ -100,4 +105,3 @@ Therefore, with some simple manoeuvres, the wild animals can flip the cage and f
 ##  **Sources**
 
 1. [Trap-Vaccinate-Release Program to Control Raccoon Rabies. .. - NCBI](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3376792/)2. [Best Management Practices for Trapping Raccoons in the United States](https://www.dec.ny.gov/docs/wildlife_pdf/trapbmpsraccoon.pdf)3. Trapping Nuisance Wildlife Purdue Extension Forestry & Natural
-

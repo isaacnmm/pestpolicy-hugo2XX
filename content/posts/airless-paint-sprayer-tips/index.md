@@ -6,10 +6,14 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - DIY Paintings
 tags:
+
 - diy-paintings
+
 - airle
+
 - paint
 layout: post
 ---
@@ -65,4 +69,3 @@ Next, lock the gun's trigger and also relieve its pressure plus install the spra
 ##  Conclusion
 
 Increase the gun's pressure when the spray pattern has some tailing tendencies. However, very high pressure could lead to overspray or even undue spray tip wear. Further, when the spray pattern is sen to be round, you'll need to replace the spray top because it's highly likely that the tip is worn out.
-

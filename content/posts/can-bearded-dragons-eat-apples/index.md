@@ -6,11 +6,16 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - Guide
+
 - Lizard
 tags:
+
 - guide
+
 - bearded
+
 - dragon
 layout: post
 ---
@@ -92,4 +97,3 @@ In particular, baby beardies should be given very small amounts of apples.
 ##  Sources:
 
 1. [Caring for Your Pet Bearded Dragon - NCSU CVM](https://cvm.ncsu.edu/documents/caring-for-your-bearded-dragon/)2. [Introduction to Bearded Dragons Loving Your Pet](https://www.lovingyourpet.co.uk/bearded-dragons/introduction-to-bearded-dragons.php)
-

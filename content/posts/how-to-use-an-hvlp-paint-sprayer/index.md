@@ -6,10 +6,14 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - DIY Paintings
 tags:
+
 - diy-paintings
+
 - hvlp
+
 - paint
 layout: post
 ---
@@ -26,7 +30,6 @@ HVLP sprayer manual may not always give you detailed technical information neede
 
 The i* tems required include: - HVLP Paint Sprayer and Extension cable - Power source and an empty bucket - Waterpoint and Thinned paint - HVLP spray tips and paint test board - Protective gear overall, gloves, respirator, etc.
 
-
 ###  Step 1: Select and fix the Right Tip for the Current painting Job
 
 The HVLP sprayer comes with various spray gun tips to match the prevailing surface painting demands. Therefore, you will need to assess the nature of the surface under paint application before selecting the type of HVLP gun tip to use. Moreover, the size of the tip orifice is a function of the thickness of paint being used thick paint needs a wider orifice tip, while thin paint needs a narrow orifice tip.
@@ -40,7 +43,6 @@ Assemble the HVLP paint sprayer by following the manufacturers manual. In this, 
 ###  Step 3: Fix the Right Hosepipe and Power Cable length
 
 According to the surface area under paint application, you may need to extend the suction hosepipe (to offer wide-area coverage) and the power cable to prevent frequent removal or disconnection. Further, the extension hosepipe should be the same size as the feed pipe to prevent internal shocks when painting due to pressure differences. Avoid using low-grade extension power cable they cause internal cut-off in case of a power surge.
-
 
 ###  Step 4: Fasten the HVLP canister in Place and Other Gun Connections
 
@@ -67,7 +69,6 @@ Adjust the HVLP sprayer at the dial and aim the spray gun to the test board. Pul
 ###  Step 9: Tune the HVLP Gun to Full Coverage and Start Spraying
 
 Upon approval of the test paint coat, turn the sprayer to full coverage and carry on with continuous surface spray action. During paint application, try to maintain a continuous even distance over the surface (between spray gun and surface) and avoid excessive trigger action as it leads to overspray or uneven paint coating. Besides, instant trigger disconnection between points is highly recommended to prevent surface drains or runs.
-
 
 ###  Step 10: Release the Trigger and end Spraying
 
@@ -115,10 +116,8 @@ All sprayer settings should be done before power is engaged for safety purposes 
 
 When cleaning a paint sprayer, individual parts should be cleaned carefully to prevent damage. Once you are done with painting, release the trigger (to stop spray action), switch off and unplug the sprayer for power source, reset the pressure settings, and clean the HVLP sprayer before storing it in a cool dry place. Remember, personal safety is paramount. Therefore, you should always put on protective gear when using an HVLP sprayer.
 
-
 ##  Conclusion
 
 To wrap, on how to use an HVLP paint sprayer, you start by selecting items required, choose the right tip for the painting task, assemble the sprayer, fix the hose pipe and power cable, fasten the canister and other gun connections, and plug in the sprayer to a power source before pressing on the switch button.
 
 Further, set the paint sprayers air pressure and volume accordingly, fill the canister with well-thinned paint, adjust the sprayer for testing and test the paint coat over the section board, tune the sprayer to full coverage, and start spraying over the surface evenly.
-

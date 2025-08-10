@@ -6,11 +6,16 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - Fleas
+
 - Guide
 tags:
+
 - fleas
+
 - rid
+
 - flea
 layout: post
 ---
@@ -38,4 +43,3 @@ Ensure that the combing process is thorough on the cats chest and neck since fle
 ###  3. Give oral cat flea preventative
 
 Also, cover the flea comb with some petroleum jelly so that the flea eggs and small fleas can stick to it. To clean off the fleas and their eggs, ensure that dip the comb into soapy water or some rubbing alcohol which also will suffocate and kill them.
-

@@ -6,15 +6,21 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - Lawn Care
+
 - Guides
 tags:
+
 - lawn-care
+
 - scott
+
 - lawn
 layout: post
 ---
 ---
+
 ## Scotts LawnService
 For a period, Scotts extended its brand into the professional lawn care service arena through **Scotts LawnService**. This division was established in 1998, following Scotts' acquisition of Emerald Green Lawn Service in 1997. Scotts LawnService operated as a "do-it-for-me" solution, offering professional fertilization, weed control, insect control, and tree and shrub care to homeowners who preferred to outsource their lawn maintenance.
 However, the landscape of professional lawn care shifted significantly in **April 2016** when **Scotts LawnService merged with TruGreen**. This strategic move created the largest professional lawn care company in America. As part of the merger, all products and services previously offered under the Scotts LawnService brand were transitioned to the TruGreen brand.
@@ -22,18 +28,25 @@ While The Scotts Miracle-Gro Company initially retained a minority ownership sta
 Therefore, while the Scotts name is still prominent in retail stores for DIY products, if you're looking for professional lawn care services that were once provided by Scotts LawnService, you are now looking for **TruGreen**.
 ---
 ---
+
 ## Other Popular Scotts Products
 Beyond core lawn care, The Scotts Miracle-Gro Company has diversified its portfolio to include a vast array of gardening and outdoor living products, largely through strategic acquisitions:
+
 * **Miracle-Gro:** The iconic brand for plant food, potting mixes, and garden soils, known for its instant-feeding solutions for flowers, vegetables, and houseplants. * **Ortho:** A leading brand for pest control solutions around the home and garden, including insecticides, fungicides, and herbicides (e.g., Ortho Home Defense Max, Ortho WeedClear).
+
 * **Roundup:** Scotts holds the exclusive marketing rights for consumer Roundup herbicide products in many regions, providing non-selective weed control solutions. * **Bonnie Plants (minority stake):** One of the largest growers of vegetable and herb plants for home gardens. * **Hydroponics & Indoor Growing:** Scotts has expanded into the rapidly growing hydroponic and indoor gardening market with brands like Hawthorne Gardening Company.
 This broader portfolio establishes Scotts Miracle-Gro as a comprehensive leader in consumer lawn and garden solutions.
 ---
 ---
+
 ## Our Recommendation: TruGreen
 While Scotts provides excellent DIY products, for homeowners seeking professional, hassle-free lawn care, **TruGreen** stands out as our top recommendation. This is particularly relevant given its history as the former Scotts LawnService.
 **Why TruGreen is Recommended:**
+
 * **Expertise and Training:** TruGreen specialists are highly trained (often PhD-certified) in turf science. They conduct a "Healthy Lawn Analysis" to diagnose specific issues unique to your lawn, soil type, and regional climate. This level of expertise surpasses what most DIYers can achieve.
+
 * **Comprehensive Programs:** TruGreen offers multiple tiered plans (e.g., TruHealth, TruComplete, TruSignature) that cover a full spectrum of needs, including fertilization, weed control (pre- and post-emergent), insect control, grub prevention, and aeration/seeding. They also offer a TruNatural plan for those preferring an organic-based approach.
+
 * **Professional-Grade Products and Equipment:** TruGreen utilizes commercial-grade products and specialized equipment for precise and effective application, which are generally more potent and provide better results than retail products. * **Convenience and Time-Saving:** They handle all applications on a scheduled basis, freeing up your time and eliminating the need to store chemicals or equipment. * **Healthy Lawn Guarantee:** TruGreen stands behind its service.
 If you're not satisfied, they promise to re-treat your lawn as often as needed between scheduled visits, at no additional cost. * **Nationwide Availability:** With widespread operations across the U.S., TruGreen is accessible to a vast majority of homeowners.
 For those who desire a consistently healthy, vibrant lawn without the time commitment, research, or physical effort of DIY, TruGreen provides a robust, expert-driven solution built on decades of combined experience from both its original operations and the legacy of Scotts LawnService.
@@ -81,18 +94,18 @@ The decision between doing your lawn care yourself or hiring a professional serv
 
 **DIY Lawn Care: ** * **
 Pros:
-- ** Cost-effective (you save on labor), complete control over products and timing, rewarding personal satisfaction. Modern DIY kits (like Sunday) simplify the process. * **Cons: ** Time-consuming (requires regular effort), requires knowledge to diagnose issues and apply products correctly, upfront cost for equipment (mower, spreader, sprayer), potential for mistakes.
 
+- ** Cost-effective (you save on labor), complete control over products and timing, rewarding personal satisfaction. Modern DIY kits (like Sunday) simplify the process. * **Cons: ** Time-consuming (requires regular effort), requires knowledge to diagnose issues and apply products correctly, upfront cost for equipment (mower, spreader, sprayer), potential for mistakes.
 
 **Professional Lawn Care (e. g. , TruGreen): ** * **
 Pros:
-- ** Time-saving and convenient, expert knowledge and precise diagnosis of lawn issues, access to commercial-grade products and equipment, consistent results, often comes with guarantees (e. g. , re-treatment if needed), handles complex issues like severe infestations or diseases.
 
+- ** Time-saving and convenient, expert knowledge and precise diagnosis of lawn issues, access to commercial-grade products and equipment, consistent results, often comes with guarantees (e. g. , re-treatment if needed), handles complex issues like severe infestations or diseases.
 
 * **
 Cons:
-- ** More expensive than DIY, less direct control over product choices or application timing, service quality can vary by branch/technician.
 
+- ** More expensive than DIY, less direct control over product choices or application timing, service quality can vary by branch/technician.
 
 The choice ultimately boils down to your budget, time availability, comfort level with chemicals (if applicable), and how important a perfectly manicured lawn is to you.
 
@@ -113,5 +126,3 @@ Our recommendations for lawn care companies, including the selection of TruGreen
 **Environmental Practices: ** We also consider any stated commitments to environmentally friendly practices or organic options where available.
 
 By applying this comprehensive evaluation framework, we aim to provide unbiased and practical recommendations to help homeowners make informed decisions about their lawn care needs.
-
-

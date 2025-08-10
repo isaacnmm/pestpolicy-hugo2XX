@@ -6,35 +6,48 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - Gardening
+
 - Plant Care
+
 - Guides
 tags:
+
 - gardening
+
 - monkey
+
 - gra
 layout: post
 ---
 ---
+
 ## Types of Monkey Grass
 Before diving into trimming, it's helpful to understand the two main types often referred to as "monkey grass":
+
 * **Liriope (Liriope muscari):** Also known as Lilyturf, this is the most common variety. It has wider, strappy leaves, often forms clumps, and produces spikes of purple or white flowers in late summer, followed by black berries. Varieties like 'Big Blue' or 'Royal Purple' are popular. * **Mondo Grass (Ophiopogon japonicus):** This typically has finer, darker green, almost grass-like leaves and grows more slowly than liriope.
 It also produces small white or lavender flowers, often hidden among the foliage, followed by blue-black berries. Dwarf varieties are also available.
 Both are incredibly versatile and relatively drought-tolerant once established.
 ---
 ---
+
 ## Trimming Monkey Grass
 Proper timing and technique are crucial for maintaining the health and appearance of your monkey grass border.
+
 ### When to Trim Monkey Grass
 Timing is critical for successful monkey grass trimming to avoid damaging new growth and to protect the plant from harsh weather conditions.
 The ideal window for trimming monkey grass is in **late winter to early spring**, typically from **February to March** in most temperate climates, or just before new growth begins to emerge.
 **Why this time is best:** * **Dormancy:** The plants are still relatively dormant, so you won't be cutting off active new shoots. * **Protection:** The old foliage has offered some winter protection against cold and frost. * **Easy Cleanup:** The old leaves are often dry and easier to cut and rake away. * **Quick Rebound:** The warming temperatures and impending growing season mean the plants will quickly send up new, lush green blades shortly after trimming, covering up the cut stubs.
 **When to Avoid Trimming:** * **Late Spring/Summer:** Avoid trimming once new growth has actively started or during the growing season. You'll be cutting off the very leaves the plant needs for photosynthesis and growth, weakening it. * **Fall/Early Winter:** While tempting to tidy up before winter, trimming too late in the year (after early fall) can expose the plant's crown to freezing temperatures and frost damage, as the old foliage provides a layer of insulation.
+
 ### How to Trim Monkey Grass
 Once you've chosen the right time and gathered your tools, you're ready to trim. The method you use depends on the size of your border.
+
 #### Manual Shearing (For Precision & Smaller Areas)
 1. **Clear Debris:** Remove any leaves, sticks, or other debris that may have accumulated in the monkey grass. 2. **Cut Back Foliage:** Using your hand or hedge shears, cut the monkey grass back to approximately **2 to 4 inches from the ground**. Aim for a uniform height across the border. You can collect handfuls of grass and shear them, or just sweep the shears across the top. 3. **Clean Up:** Rake up all the cut foliage. Leftover clippings can smother new growth or harbor pests/diseases. 4.
 **Optional: Fertilize and Redefine:** Once cleared, you can apply a balanced, slow-release granular fertilizer formulated for ornamental grasses or shrubs. You can also take this opportunity to redefine the edge of your border with a sharp spade or edger for a crisp look.
+
 #### Mowing (For Large Areas & Efficiency)
 1. **Set Mower Height:** Crucially, set your lawnmower to its **highest possible cutting height** (typically 3-4 inches). You want to cut the monkey grass back, but not scalp it. 2. **Ensure Dryness:** It's best to mow when the monkey grass is dry. Wet foliage can clump and clog the mower. 3. **Clear Debris:** Before mowing, clear the area of any large sticks, rocks, or other objects that could be thrown by the mower or damage it. 4. **Mow the Area:** Carefully mow over the monkey grass.
 Go slowly to ensure an even cut. You might need to make a couple of passes to get all the old foliage. 5. **Clean Up:** Immediately rake or blow away all the clippings. 6. **Optional: Fertilize and Redefine:** As with manual shearing, consider fertilizing lightly and cleaning up the border edges.
@@ -69,4 +82,3 @@ edu/articles/dividing-ornamental-grasses/).
 * **Clean up thoroughly** after trimming to prevent new growth from being smothered and to deter pests.
 
 With a little annual effort, your monkey grass borders will continue to be a beautiful, low-maintenance feature in your garden for years to come.
-

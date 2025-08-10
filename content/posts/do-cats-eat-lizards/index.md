@@ -6,11 +6,16 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - Guide
+
 - Lizard
 tags:
+
 - guide
+
 - cat
+
 - eat
 layout: post
 ---
@@ -104,4 +109,3 @@ Related: [What Does a Garden Lizard Eat? ](https://pestpolicy.com/what-does-a-ga
 ##  Conclusions
 
 Cats eat lizards. They do not select which species they feed on. However, most cats hunt geckos, savannah lizards and skins since they are easier to catch. Most Lizards are not poisonous though some like Gila monitor and Komodo dragon contain poisonous venom that paralyzes their prey when injected. Ensure you prevent your pet cat from eating lizards using some of the above ways.
-

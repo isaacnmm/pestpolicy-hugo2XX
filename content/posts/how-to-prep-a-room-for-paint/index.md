@@ -6,10 +6,14 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - DIY Paintings
 tags:
+
 - diy-paintings
+
 - room
+
 - paint
 layout: post
 ---
@@ -78,7 +82,6 @@ Wall/ceiling surface preparation eliminates the roughness and debris, which impe
 
 The presence of dust and surface debris leads to paint drains/runs, especially when using a paintbrush or a roller. Usually, the dust or debris repels the paint solvent upon contact leading to surface runs. Rugged wall/ceiling surface also offers a channel through which the paint molecules form runs/drains upon application. Moreover, the ceiling's low stickiness action leads to unnecessary dripping, which may stain the floor if not attended to.
 
-
 ###  3. Initiates Peeling and Chipping
 
 Peeling is a problem that occurs when the paint layer detaches from the surface due to low stickiness action beneath it. The painted surface may peel slightly or fully as per the level of the adhesive bond. Surfaces that are not prepped are highly prone to peeling action than prepped ones. On the other hand, chipping results from point paint weakness beneath the paint layer, which dislodge in particle form.
@@ -124,4 +127,3 @@ Fill the damaged walls/ceiling surface with parting compound and gently polish b
 Having read this article on how to prep a room for paint, I believe that you gained both application skills and surface restoration art, which will boost your DIY painting project. Usually, you are required to select the right material and tools for prepping activity, clean/sweep the room, and strip old paint before sanding the ceiling/walls to eliminate debris and surface roughness.
 
 Besides, it would help if you had to dust and wash the walls/ceiling (where appropriate), seal/repair the damaged ceiling/walls, polish the entire surface sufficiently to improve paint stickiness ability and reduce run formation when painting.
-

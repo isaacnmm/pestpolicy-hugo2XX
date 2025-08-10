@@ -6,9 +6,12 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - DIY Paintings
 tags:
+
 - diy-paintings
+
 - concrete
 layout: post
 ---
@@ -48,7 +51,6 @@ Surface cleaning or preparation entails several steps as highlighted below: - Pu
 - For oiled or greased concrete, you will need to use chemicals like Trisodium Phosphate when scrubbing to ease oil-breakdown. - Clean the surface with soap and warm water to remove oil or dirt remains. - For a painted concrete surface, you need to thin or apply a paint stripper to breakdown the paint layer before stripping/scraping with a paint scraper or putty knife.
 
 - Finally, rinse the concrete surface with warm water and a piece of cloth until its dry.
-
 
 ###  d. Sealing/Filling Damaged Section
 
@@ -151,4 +153,3 @@ Always follow the manufacturers direction when prepping or preparing the main to
 By choosing to read this article on how to paint concrete walls, I believe that you acquired unmatched knowledge that boosts your painting ability. The prevailing weather conditions are the first thing you consider before any painting preparation is done. Then, select appropriate tools/materials, carry out surface preparation, seal/fill any surface damage, sand/polish where necessary before applying a concrete-based primer.
 
 Further, prepare the finish paint and apply professionally to attain an incredible finish and leave it to dry naturally. Wear protective gear and follow the precautions given to avoid any hazards when carrying out the concrete painting process. Notably, dont touch wet painted concrete surfaces whatsoever.
-

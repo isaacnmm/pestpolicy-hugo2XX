@@ -6,11 +6,16 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - Fleas
+
 - Product Reviews
 tags:
+
 - fleas
+
 - capstar
+
 - flea
 layout: post
 ---
@@ -80,4 +85,3 @@ Pet owners are advised that this is a common habit but they should comb the outd
 ##  Conclusion
 
 So in summary, Capstar tablets are effective remedies for controlling adult fleas that are already on your small dog. - However, be cautious because there is a dosage limitation depending on the age and weight of your small dog. I also recommend you use Capstar tablets in combination with other longer-term flea remedies such as the Sentry Oatmeal Flea Shampoo.
-

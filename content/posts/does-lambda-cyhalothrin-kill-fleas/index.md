@@ -6,11 +6,16 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - Fleas
+
 - Guide
 tags:
+
 - fleas
+
 - doe
+
 - lambda
 layout: post
 ---
@@ -64,4 +69,3 @@ Some of the products that contain lambda-cyhalothrin as the active ingredient in
 ##  Conclusion
 
 Lambda-Cyhalothrin is an effective synthetic pyrethroid that will kill fleas in the house and in the yard. - Commercially there are many pest control products that contain lambda-cyhalothrin and you can inquire from your local exterminator or stores. Cheers
-

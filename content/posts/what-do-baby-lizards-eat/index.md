@@ -6,11 +6,16 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - Fleas
+
 - Guide
 tags:
+
 - fleas
+
 - baby
+
 - lizard
 layout: post
 ---
@@ -108,4 +113,3 @@ Do note that lizards are cold-blooded and you might not quickly notice changes i
 ##  Sources:
 
 1. [Lizards from Urban Areas Are More Asymmetric: Using - NCBI](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3873971/)2. [Facts About Lizards Live Science](https://www.livescience.com/56017-lizard-facts.html)
-

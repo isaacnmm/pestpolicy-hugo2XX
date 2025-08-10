@@ -6,11 +6,16 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - Bed Bugs
+
 - Guide
 tags:
+
 - bed-bugs
+
 - spectracide
+
 - bug
 layout: post
 ---
@@ -56,4 +61,3 @@ Review of Ortho Home Defense Dual-Action
 ###  2. Spectracide Bug Stop Fogger vs.Proof Bed Bug Spray
 
 Review of Proof Bed Bug Spray
-

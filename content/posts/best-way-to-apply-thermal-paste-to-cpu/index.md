@@ -6,10 +6,14 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - Raspberry Pi 3
 tags:
+
 - raspberry-pi-3
+
 - apply
+
 - thermal
 layout: post
 ---
@@ -67,4 +71,3 @@ The thermal compound will come in a syringe, which will be very suitable for the
 Clean up the processor top to remove any dirt. - You will apply paste that is pea-sized or the size of capacitors on your motherboard. - However, ensure that you apply reasonable paste that will spread well on the CPU and heat sink to avoid direct contact with the metal parts. The rule of thumb is that is less thermal past is always better since too much of it would hinder the thermal cooling capability of the heat sink.
 
 Now: Check the video
-

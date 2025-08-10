@@ -6,12 +6,18 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - Eugene
+
 - Guide
+
 - Wasps
 tags:
+
 - eugene
+
 - wasp
+
 - nest
 layout: post
 ---
@@ -55,4 +61,3 @@ After removing a wasp nest, take these steps to prevent future infestations: 1. 
 Removing a wasp nest in Eugene, OR, requires caution and proper planning to ensure safety. If you are unsure about removing the nest yourself or if the nest is in a difficult location, it's best to contact a professional pest control service.
 
 By taking proactive steps and following safety guidelines, you can effectively manage wasp nests and enjoy a safer environment around your home.
-

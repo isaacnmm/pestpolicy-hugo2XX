@@ -6,10 +6,14 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - DIY Paintings
 tags:
+
 - diy-paintings
+
 - sand
+
 - fibergla
 layout: post
 ---
@@ -59,4 +63,3 @@ In conclusion, **sanding is a crucial step** that should not be overlooked when 
 While sanding can be time-consuming, the results are well worth the effort, providing a long-lasting and aesthetically pleasing paint job that will make your boat stand out on the water.
 
 Remember that **proper safety precautions** should be taken during the sanding process to protect yourself from dust and fumes. Always wear safety goggles, a dust mask, and work in a well-ventilated area.
-

@@ -6,10 +6,14 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - Controllers
 tags:
+
 - controllers
+
 - dualshock
+
 - controller
 layout: post
 ---
@@ -35,4 +39,3 @@ You may use the options button to open the main menu. Related: [Controller for R
 # Conclusion
 
 This Dualshock 4 Controller Review has shown that DualShock 4 is a superior controller with its better layout and amazing trackpad. Also, the option and share peggers are an amazing addition to the gamepad.
-

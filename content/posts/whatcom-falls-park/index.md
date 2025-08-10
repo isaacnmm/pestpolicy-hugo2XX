@@ -6,11 +6,16 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - Bellingham
+
 - Guide
 tags:
+
 - bellingham
+
 - discover
+
 - whatcom
 layout: post
 ---
@@ -46,4 +51,3 @@ Whether you're a local resident or a visitor to Bellingham, Whatcom Falls Park i
 **Address: ** 1401 Electric Ave, Bellingham, WA 98229 **Hours: ** Open daily from 6 AM to 10 PM **Admission: ** Free
 
 Whatcom Falls Park offers an unforgettable experience, blending the tranquility of nature with the joys of outdoor recreation. Come and discover the beauty and serenity of this beloved Bellingham park.
-

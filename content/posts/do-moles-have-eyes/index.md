@@ -6,11 +6,16 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - Guide
+
 - Moles
 tags:
+
 - guide
+
 - mole
+
 - eye
 layout: post
 ---
@@ -82,4 +87,3 @@ Moles have eyes but they are not used for seeing things. They are however able t
 Lack of functional eyes doesnt prevent them from surviving in their environment. They compensate for the poor eyesight with a powerful sense of touch on their nose.
 
 In addition they have a powerful stereo sense of smell. These two qualities allow them to navigate in their tunnels, locate food, mate and evade predators.
-

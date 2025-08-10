@@ -6,11 +6,16 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - Fleas
+
 - Guide
 tags:
+
 - fleas
+
 - your
+
 - house
 layout: post
 ---
@@ -74,4 +79,3 @@ Sticky Traps** These non-toxic alternatives trap fleas using a sticky adhesive. 
 ##  Sources:
 
 1. [Comparison of Two Techniques for the Detection of Flea Faeces - NCBI](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4227412/)2. [5 Signs You (and Your Pet) Have Fleas and Don't Know It petMD](https://www.petmd.com/dog/parasites/signs-you-your-pet-have-fleas-and-dont-know-it)3. [Dermatitis caused by Ctenocephalides felis (cat flea) in human - NCBI](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4247491/)
-

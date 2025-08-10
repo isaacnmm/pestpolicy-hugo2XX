@@ -6,10 +6,14 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - Cockroaches
+
 - Guide
 tags:
+
 - cockroaches
+
 - acid
 layout: post
 ---
@@ -83,4 +87,3 @@ Will boric acid affect wildlife including fish and birds? No, boric acid is larg
 ##  Conclusion
 
 So, in summary, what is boric acid used for? If used safely and properly, boric acid will a great remedy like a; - Indoor cleaning agent - Household pest control - Skin conditions like acne - Eye infections - Eye irritations - Athletes foot - Fungal infections - Yeast infections Further, boric acid works with excellent antifungal characteristics helping it to function as an excellent natural remedy against related organisms.
-

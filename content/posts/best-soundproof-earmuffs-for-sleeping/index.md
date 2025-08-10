@@ -6,10 +6,14 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - Soundproofing
 tags:
+
 - soundproofing
+
 - best
+
 - soundproof
 layout: post
 ---
@@ -97,4 +101,3 @@ Therefore, some [people and singers](https://pestpolicy.com/best-throat-lozenges
 ##  Sources:
 
 1. [Utilization of Styrofoam as [Soundproofing](https://pestpolicy.com/soundproof-barn-doors/)Material with Auditory Frequency Range](http://journal.fkm.ui. ac. id/kesmas/article/view/2633) 2. [NOISE POLLUTION IN VADODARA CITY-A CASE STUDY](http://www.ijaerd.co.in/papers/finished_papers/NOISE%20POLLUTION%20IN%20VADODARA%20CITY%20-%20A%20CASE%20STUDY-35861.pdf)
-

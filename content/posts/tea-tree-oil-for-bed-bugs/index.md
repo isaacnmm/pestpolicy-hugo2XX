@@ -6,11 +6,16 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - Bed Bugs
+
 - Guide
 tags:
+
 - bed-bugs
+
 - tea
+
 - tree
 layout: post
 ---
@@ -72,4 +77,3 @@ Tea tree oil can [kill bed bugs](https://pestpolicy.com/dead-bed-bugs/)as long a
 ##  Sources:
 
 1. [Efficacy of an Essential Oil-Based Pesticide for Controlling Bed Bugs](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4592615/)2. [How to Get Rid of Bed Bugs Naturally -WikiHow](https://www.wikihow.com/Get-Rid-of-Bed-Bugs-Naturally)
-

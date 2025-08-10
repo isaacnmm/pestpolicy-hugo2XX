@@ -6,11 +6,16 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - Flies
+
 - Guide
 tags:
+
 - flies
+
 - rid
+
 - fruit
 layout: post
 ---
@@ -74,4 +79,3 @@ How to prevent a fruit fly infestation. The surest way of preventing a fruit fly
 Wash Fruits and Vegetables. As noted earlier, fruit flies will also pitch camp on dirty, overripe or rotting produce - fruits and vegetables. Thus, to prevent an infestation, you'll need to thoroughly wash and dry the produce.
 
 Wash your eggplants, broccoli, apples, or melons etc once you get them from your store. The washing process will remove the eggs and adults of these fruit flies.
-

@@ -6,11 +6,16 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - Guide
+
 - Lizard
 tags:
+
 - guide
+
 - bearded
+
 - dragon
 layout: post
 ---
@@ -84,4 +89,3 @@ Cantaloupe, just like avocado and orange, shouldnt be used as a main meal for yo
 The high sugar content found in cantaloupe will cause teeth decay if not monitored at long run.
 
 It is therefore advisable to avoid use of cantaloupe as main diet for your pet bearded dragon.
-

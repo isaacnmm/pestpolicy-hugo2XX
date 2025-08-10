@@ -6,11 +6,16 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - Fleas
+
 - Guide
 tags:
+
 - fleas
+
 - cat
+
 - flea
 layout: post
 ---
@@ -110,4 +115,3 @@ If your cat is scratching more than usual but you've treated them for fleas, it'
 Once you've found the fleas in your house, it's time to get rid of them. - There are many products available that will kill adult and larval stages, including insecticides (sprays or powders), [oral medications for cats](https://pestpolicy.com/best-flea-treatment-for-cats/),sprays that work on carpets/upholstery only, and a fogger type spray. Before using any of these treatments be sure to read instructions carefully.
 
 Be safe!
-

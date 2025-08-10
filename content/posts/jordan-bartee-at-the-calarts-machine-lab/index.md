@@ -6,10 +6,14 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - Recording
 tags:
+
 - recording
+
 - jordan
+
 - bartee
 layout: post
 ---
@@ -53,4 +57,3 @@ Bartee's contributions to the digital arts are significant because they: - Encou
 ##  Conclusion
 
 Jordan Bartee's work at the CalArts Machine Lab exemplifies the transformative power of blending art and technology. By fostering innovation and creativity, he continues to inspire both artists and technologists to explore new possibilities in their fields.
-

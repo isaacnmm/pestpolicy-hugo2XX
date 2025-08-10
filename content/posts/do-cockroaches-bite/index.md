@@ -6,11 +6,16 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - Cockroaches
+
 - Guide
 tags:
+
 - cockroaches
+
 - cockroache
+
 - bite
 layout: post
 ---
@@ -86,4 +91,3 @@ In conclusion, cockroaches can indeed bite, but it's not something that should c
 ##  **Sources**
 
 1. *Fast and Powerful: Biomechanics and Bite Forces - National Center for Biotechnology Information. * 2. [Cockroach, tick, storage mite, and other arthropod allergies - NCBI - NIH](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4484749/).3. [Cockroaches as a Source of High Bacterial Pathogens - NCBI - NIH](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4909895/)
-

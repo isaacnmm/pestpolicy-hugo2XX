@@ -6,11 +6,16 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - Fleas
+
 - Guide
 tags:
+
 - fleas
+
 - flea
+
 - wing
 layout: post
 ---
@@ -74,4 +79,3 @@ In summary, we've outlined that fleas cannot fly since they're wingless insects.
 1. [Laboratory Identification of Arthropod Ectoparasites - NCBI](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3910909/)2. [Jumping performance of flea hoppers and other mirid - NCBI](https://www.ncbi.nlm.nih.gov/pubmed/28193637)3. [Urban Entomology Chapter 9, Part 3 Department](https://entomology.ucr.edu/ebeling_ch9_3)4. [Flea beetle - Altica spp. - Entomology and Nematology](http://entnemdept.ufl.
 
 edu/creatures/ORN/BEETLES/flea_beetle.html)
-

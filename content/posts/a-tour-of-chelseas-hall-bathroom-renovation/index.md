@@ -6,20 +6,27 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - Bathroom
+
 - Improvement
 tags:
+
 - bathroom
+
 - tour
+
 - chelsea
 ---
 ---
+
 ## Demolition and Wall Expansion
 The first, and arguably most exhilarating, phase of Chelseas renovation was the demolition. The hall bathroom, originally a cramped 5x8 foot space, felt boxed in and dark. Its outdated linoleum flooring, chipped laminate vanity, and builder-grade fiberglass tub/shower combo screamed for a complete overhaul.
 Chelsea's primary goal for this phase was to address the claustrophobic feel. After careful planning and confirming with a contractor that the wall was non-load-bearing, a crucial decision was made: a modest wall expansion. By stealing approximately six inches from an adjacent, oversized hallway linen closet, Chelsea gained just enough precious square footage to make a significant difference. The demolition was dusty and chaotic, tearing down old drywall and exposing the bones of the house.
 Yet, with each swing of the hammer, the room literally opened up. Those few inches might seem negligible on paper, but in a small bathroom, they created vital breathing room, allowing for a more substantial vanity and a more comfortable flow within the space. It was the foundation upon which the entire new design would be built.
 ---
 ---
+
 ## Installing the Wetwall
 One of Chelseas most innovative choices for the shower enclosure was the **Wetwall panel system**. Moving away from the traditional, time-consuming, and grout-heavy process of tiling, Wetwall offered a seamless, waterproof, and visually stunning alternative that perfectly aligned with her desire for easy maintenance and a modern aesthetic.
 Chelsea specifically selected a Wetwall pattern that mimicked the subtle, organic veining of a light gray marble. This choice delivered the luxurious look of natural stone without the sealing requirements and susceptibility to staining. The installation process was remarkably efficient. Large, pre-cut panels were adhered directly to the shower walls, and sealed with a color-matched sealant at the seams, creating a virtually grout-free environment.
@@ -54,4 +61,3 @@ The floor now serves as an understated yet captivating design element, providing
 To further enhance this retro feel, Chelsea carefully selected other complementary details. A large, frameless **oval mirror** above the vanity offered a soft counterpoint to the straight lines, reminiscent of mid-century design. The light fixture, a horizontal bar with globe-shaped bulbs in brushed brass, echoed the faucets finish and reinforced the subtle vintage vibe.
 
 Even the selection of plush, deeply textured towels in earthy tones added to the cozy, lived-in feel, completing the blend of modern sophistication and inviting retro charm.
-

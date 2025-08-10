@@ -6,10 +6,14 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - DIY Paintings
 tags:
+
 - diy-paintings
+
 - doe
+
 - mineral
 layout: post
 ---
@@ -53,7 +57,6 @@ Besides, a thick paint layer may require an extra-quantity of spray for signific
 The degree and quantity of use are self-determined according to removal action rate since as you continue to spray over the painted surface, active agents erode the paints instantly, leaving an original clean coating.
 
 During the process of mineral spirits application, it's recommended that you follow some of the precautions highlighted below: - Avoiding applying mineral spirits near the fireplace flammable - Cover your mouth and nose adequately during application to avoid irritation and chocking - Use mineral spirit for paint removal upon recommended surfaces and paints only - Hand gloves must be won to protect skin from burns or scars in case of contact If you touch mineral spirits accidentally, wash the affected area with plenty of cold water immediately.
-
 
 ###  d. Areas to Avoid using Mineral Spirit in Paint Removal
 
@@ -109,10 +112,8 @@ Turpentine is a universal thinning solvent that is extracted from pine tree sap 
 
 You can use turpentine for either of the following purposes: - Degreasing automobile parts - Cleaning tubs and paint thinning - Cleaning painting tools e. g. , paintbrush - Removing gum, stickers, and other adhesive However, turpentine is highly flammable and comes with a strong pungent smell that makes it less popular as compared to mineral spirits. Therefore, great precautions should be taken into place during application.
 
-
 ##  Conclusion
 
 Mineral spirits can remove paints on surfaces such as wood without a wax finish, bathtubs, tile, linoleum, laminated wood, sinks, automotive lacquer, sealed stones, and finished furniture without any problems. The right concentration and procedure should be followed (as highlighted in this article) in order to achieve the best final results.
 
 Besides, the mineral spirit is transparent, less toxic, effective, and more reliable, thus making it more common in the current market.
-

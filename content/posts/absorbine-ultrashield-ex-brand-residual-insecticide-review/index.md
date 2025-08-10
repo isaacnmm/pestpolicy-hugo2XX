@@ -6,11 +6,16 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - Flies
+
 - Product Reviews
 tags:
+
 - flies
+
 - absorbine
+
 - ultrashield
 layout: post
 ---
@@ -54,4 +59,3 @@ Youll need to brush the horse to get rid of excessive dust or dirt on the animal
 ###  **For Spraying**
 
 Equally, youll also need to brush the dust and dirt off the horses skin and coat. Now spray the horse using the product due to avoid the mucous membranes and the eyes. Ensure you stream all the crucial areas of the horses.
-

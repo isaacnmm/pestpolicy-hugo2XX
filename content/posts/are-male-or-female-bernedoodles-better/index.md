@@ -6,11 +6,16 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - Fleas
+
 - Guide
 tags:
+
 - fleas
+
 - are
+
 - male
 layout: post
 ---
@@ -110,4 +115,3 @@ If you are curious, here are some extra facts about Bernedoodles: - They cannot 
 ##  **Are You Convinced?**
 
 By now, it should come as no surprise that Bernedoodles make amazing and loyal companions. - Whether you should opt for a male or female one is a matter of personal preference. Dogs can sense human emotion, and Bernedoodles are experts at it. Finding your cuddle monster should not be a problem at all!
-

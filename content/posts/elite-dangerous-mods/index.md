@@ -6,10 +6,14 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - Controllers
 tags:
+
 - controllers
+
 - best
+
 - elite
 layout: post
 ---
@@ -36,10 +40,8 @@ Further, you might need to check out the [Elite: Dangerous Voice Pack](http://ww
 
 **HUD Recolour modifies the ** regular onboard computer star orange color and changes it to various shades and different areas. Every pop-up HUD is the foundation of each Elite dangerous gaming. You might need to have a varied collection of bling in the ship's cockpit. But you cannot alter this in the game. - Akku in his[site](http://arkku.com/elite/hud_editor/)willenable you to tweak the HUD recovering.
 
-
 However, you could require getting the *GraphicsConfiguration. xml* file to modify the HUD color.
 
 ##  Conclusion
 
 Strictly speaking, there are no Elite: dangerous mods but there are many third-party tools if you are in the PC Master race. Roccat Power-Grid, TrackIR, Voice Attack, Head Tracking, and HUD Recolour.
-

@@ -6,10 +6,14 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - DIY Paintings
 tags:
+
 - diy-paintings
+
 - ceiling
+
 - roller
 layout: post
 ---
@@ -46,7 +50,6 @@ You can fill the damaged ceiling with putty or [sealant](https://www.amazon.com/
 
 Instead, the surface should be finished using fine cement plaster in the right ratio.
 
-
 ###  c. Paint Selection and Preparation
 
 Select [ceiling paint](https://www.amazon.com/dp/B000LNYA34/?tag=p-policy-20)according to the type of primary ceiling material. The paint used on a concrete ceiling may not work best when used on a wooden ceiling or granite ceiling. Some water-based paints often peel or chip when applied on a humid concrete ceiling without priming.
@@ -66,7 +69,6 @@ Prime the ceiling** A porous and new drywall ceiling should be primed before any
 Though some paint does not require priming when painting, porous/humid walls should be primed to reduce peeling and chip action due to reduced stickiness action. **2. Set the masking tape** The maskin tape applies to the ceiling that is painted with different paint-color designs. When setting the tape, it should be aligned so that the side to be painted lay on the tape's inner side.
 
 It would be best to allow the paint to dry (select fast-drying paint) before re-setting the tape.
-
 
 When cutting corners, load your paint slightly and apply gentle force when painting to avoid dripping on the sidewalls wipe out immediately with soapy detergent or use paint remover. **4. Less paint load in roller** When loading your roller, use less paint to prevent roller marks on the ceiling excess paint leads to a thick layer, which drains or drips as the application occurs.
 
@@ -97,7 +99,6 @@ No overfilling** Avoid overloaded [roller](https://pestpolicy.com/best-paint-rol
 Spray the ceiling** The best method of eliminating roller marks is by use of a ceiling paint sprayer. The sprayer releases paint in small quantities that stick uniformly, forming a thin, smooth final finish. Though the method is slightly expensive (compared to paintbrush and roller), it guarantees quality service and minimal wastage during the application process.
 
 Importantly, spray painting is faster and improves stickiness ability due to extra painting force from the sprayer.
-
 
 ###  e. Paint finishing
 
@@ -144,4 +145,3 @@ Roller marks are common problems experienced when painting a ceiling. Suppose yo
 You must also adhere to safety measures and precautions highlighted in this article for your health safety when painting.
 
 Remember, high-quality final finish calls for the best method, which is a function of more financial input. You can consider a paint sprayer as a better alternative for a roller or paintbrush.
-

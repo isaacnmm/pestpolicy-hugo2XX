@@ -6,11 +6,16 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - Guide
+
 - Squirrels
 tags:
+
 - guide
+
 - squirrel
+
 - live
 layout: post
 ---
@@ -90,4 +95,3 @@ How long do squirrels live? This will totally depend on the predisposing factors
 Besides all these factors that lead to a shorter lifespan, it is good to be nice to the squirrels and other animals in your garden.
 
 If you have spotted squirrels frequently in your garden, maybe you need to consider doing a feeding area for them.
-

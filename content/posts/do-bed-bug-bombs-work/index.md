@@ -6,11 +6,16 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - Bed Bugs
+
 - Guide
 tags:
+
 - bed-bugs
+
 - bed
+
 - bug
 layout: post
 ---
@@ -122,4 +127,3 @@ Bed bug bombs do work by killing all eggs, nymphs, and adult bed bugs that come 
 ##  Sources:
 
 1. [Exposure risks and ineffectiveness of total release foggers (TRFs)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6348656/)2. [A Door-to-Door Survey of the Bed Bug (Cimex lectularius - NCBI](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4080563/)3. [Pest Management Strategies for Bed Bugs (Hemiptera: Cimicidae](https://academic.oup.com/jipm/article/8/1/13/3836010)
-

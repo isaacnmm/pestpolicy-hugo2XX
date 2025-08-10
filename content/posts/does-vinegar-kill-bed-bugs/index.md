@@ -6,11 +6,16 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - Bed Bugs
+
 - Guide
 tags:
+
 - bed-bugs
+
 - doe
+
 - vinegar
 layout: post
 ---
@@ -108,4 +113,3 @@ When used properly, vinegar can provide a natural solution to bed bug infestatio
 ##  Sources:
 
 1. Bed Bugs: Clinical Relevance and Control Options 2. [What NOT to Do When you Have Bed Bugs Let's Beat the Bed Bug! ](https://www.bedbugs.umn.edu/what-not-to-do)
-

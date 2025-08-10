@@ -6,11 +6,16 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - Ants
+
 - Guide
 tags:
+
 - ants
+
 - rid
+
 - sugar
 layout: post
 ---
@@ -82,4 +87,3 @@ If you have tried all these methods and failed( which is highly unlikely), your 
 ##  Sources:
 
 1. [Targeted Removal of Ant Colonies in Ecological Experiments - NCBI](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2999503/)2. [Banded sugar ant - Wikipedia](https://en.wikipedia.org/wiki/Banded_sugar_ant)3. [Follower ants in a tandem pair are not always nave - NCBI](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4448225/)
-

@@ -6,11 +6,16 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - Product Reviews
+
 - Running shoes
 tags:
+
 - product-reviews
+
 - shoe
+
 - beginner
 layout: post
 ---
@@ -35,15 +40,19 @@ The upper of the 990v5 features an open mesh and pigskin suede. The open mesh is
 
 ENCAP midsole technology offers superior cushioning, support, and durability. This technology helps to correct foot stability while ensuring the shoes durability. The ABZORB foam also provides extra cushioning while encouraging a smooth heel to toe transition.
 
-
 Pros:
-- - Excellent flexibility
-- Exceptional cushioning and support
-- Offers a snug fit
-- Comfortable
-- The best shoe for walking all-day Cons:
-- A person complained that the insole wears out quickly
 
+- Excellent flexibility
+
+- Exceptional cushioning and support
+
+- Offers a snug fit
+
+- Comfortable
+
+- The best shoe for walking all-day Cons:
+
+- A person complained that the insole wears out quickly
 
 ###  [2. HOKA ONE ONE Men's Clifton 5 Running Shoe](https://www.amazon.com/dp/B0788T3GS8/?tag=p-policy-20)
 
@@ -57,16 +66,21 @@ The Meta-Rocker Geometry encourages forward movement while ensuring the runner m
 
 The HOKA ONE ONE Clifton 5 features an engineered mesh upper. The mesh has pores that allow air into the shoe for a cool and dry wear experience. The 3D Puff Print Frame design makes the upper visually engaging while ensuring its structural integrity.
 
-
 Pros:
-- - Delivers soft cushioning
-- Excellent breathability
-- Quality design
-- Highly durable
-- Appealing color schemes
-- Supportive underfoot platform Cons:
-- A customer complained that the shoe was narrow
 
+- Delivers soft cushioning
+
+- Excellent breathability
+
+- Quality design
+
+- Highly durable
+
+- Appealing color schemes
+
+- Supportive underfoot platform Cons:
+
+- A customer complained that the shoe was narrow
 
 ###  [3. Nike Women's Air Zoom Pegasus 36 Running Shoes](https://www.amazon.com/dp/B07LDG13Y5/?tag=p-policy-20)
 
@@ -82,17 +96,23 @@ The forefoot offers great flexibility. It flexes naturally and quickly snaps bac
 
 The Pegasus 36 is a dependable and consistent trainer that provides heavy runners with the stability they need during running. The midsole is near to the ground allowing your feet close contact with the surface. Thus, you can control your movements while remaining stable.
 
-
 Pros:
-- - Excellent underfoot cushioning
-- Smooth upper
-- The upper secures the foot properly
-- Reliable traction
-- Lightweight
-- Prevents accidental shoe removal
-- Highly comfortable Cons:
-- A customer complained that they are not true to size
 
+- Excellent underfoot cushioning
+
+- Smooth upper
+
+- The upper secures the foot properly
+
+- Reliable traction
+
+- Lightweight
+
+- Prevents accidental shoe removal
+
+- Highly comfortable Cons:
+
+- A customer complained that they are not true to size
 
 ###  [4. Brooks Men's Glycerin 14 Running Shoes](https://www.amazon.com/dp/B017MZAO0Q/?tag=p-policy-20)
 
@@ -106,19 +126,28 @@ The underfoot features full-blown rubber that aids in traction while the heel an
 
 The upper features an open mesh and some 3D overlays. The mesh upper has holes that make it highly breathable. The padded collar and tongue ensures additional comfort while the sockliner allows extra cushioning and support.
 
-Therefore, if youre a beginner overweight runner, you need Brooks Glycerin 14 because of its excellent cushioning and comfort. 
+Therefore, if youre a beginner overweight runner, you need Brooks Glycerin 14 because of its excellent cushioning and comfort.
 Pros:
-- - The plush interior ensures extra comfort
-- Lightweight
-- Reliable traction
-- Excellent cushioning
-- Unmatched flexibility
-- Great arch support
-- Can use orthotics
-- Highly durable Cons:
-- Pricey
-- Some wearers complained that its runs a bit small
 
+- The plush interior ensures extra comfort
+
+- Lightweight
+
+- Reliable traction
+
+- Excellent cushioning
+
+- Unmatched flexibility
+
+- Great arch support
+
+- Can use orthotics
+
+- Highly durable Cons:
+
+- Pricey
+
+- Some wearers complained that its runs a bit small
 
 ###  [5. ASICS Women's Gel-Kayano 26 Running Shoes](https://www.amazon.com/dp/B07S9L1NY4/?tag=p-policy-20)
 
@@ -130,20 +159,25 @@ The insole is anatomically shaped; hence, it mimics the natural shape of your fe
 
 The midsole of Kayano 26 features a great mix of Gel, Flyte Foam Lyte, and Flyte Foam Propel. Flytefoam Lyte offers excellent shock absorption protection every step you take. The heel and forefoot areas feature Flyte Foam Propel that encourages softer and more responsive foot landings. The gel provides extra cushioning and shock attenuation.
 
-The Dynamic Duomax located on the midsole controls pronation. The system ensures the feet dont collapse inwards as you run. The external heel counter ensures the rearfoot is well secured and the heel remains stable during running. 
+The Dynamic Duomax located on the midsole controls pronation. The system ensures the feet dont collapse inwards as you run. The external heel counter ensures the rearfoot is well secured and the heel remains stable during running.
 Pros:
-- - Excellent cushioning
-- Excellent stability
-- The best shoe for overweight flat feet runners
-- Breathable upper
-- Durable shoe
-- Comfortable Cons:
-- Pricey
-- Tight toe box according to some reviews
 
+- Excellent cushioning
+
+- Excellent stability
+
+- The best shoe for overweight flat feet runners
+
+- Breathable upper
+
+- Durable shoe
+
+- Comfortable Cons:
+
+- Pricey
+
+- Tight toe box according to some reviews
 
 ##  Conclusion
 
 Beginner plus size runners are susceptible to injuries. The injuries may come since your feet carries the excess body weight that can cause muscles or ligaments strain. Therefore, if you plan to start running, it crucial for heavy men and women to invest in best shoes for beginner overweight runners.
-
-

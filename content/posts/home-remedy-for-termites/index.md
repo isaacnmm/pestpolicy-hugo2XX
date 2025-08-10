@@ -6,11 +6,16 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - Guide
+
 - Termites
 tags:
+
 - guide
+
 - remedy
+
 - termite
 layout: post
 ---
@@ -86,4 +91,3 @@ Borax powder (Sodium borate) is mainly used as a laundry cleaner, but it's also 
 ##  Conclusion
 
 Besides the home termite control methods outlined above, I recommend taking preventive measures against the bugs and their babies. Keep any cellulose, cardboard, firewood, or wood away from the house as they tend to attract termites into the yard and home. Also, ensure adequate drainage and excellent ventilation for the interior and exterior of your house.
-

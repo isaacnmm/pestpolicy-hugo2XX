@@ -6,11 +6,16 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - Guide
+
 - Lizard
 tags:
+
 - guide
+
 - bearded
+
 - dragon
 layout: post
 ---
@@ -132,4 +137,3 @@ Actually, mango peels contain important antioxidant compounds necessary for dest
 ##  Conclusion
 
 Bearded dragon will easily eat mangoes to acquire vitamin A, B6, C, E and K. In addition, mangoes have rich pre-biotic dietary fibers as well as rich mineral content. Notably, low fat and cholesterol content makes mango salad a suitable feed supplement. However, mangoes contain relatively high sugar, moderate oxalate/acid and low calcium: phosphorous ratio and thus should be used occasionally.
-

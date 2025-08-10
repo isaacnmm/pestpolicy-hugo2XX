@@ -6,11 +6,16 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - Guide
+
 - No See Ums
 tags:
+
 - guide
+
 - no-see-um
+
 - live
 layout: post
 ---
@@ -66,4 +71,3 @@ I would, however, recommend installing door and window screens that have small m
 No see ums won't bite through your clothing or fabric like socks and thus having such covers on your hair or skin will afford extra protection from these pests. Further, no see ums will not live in your hair but they hide there temporarily especially when you walk through some damp or forested area.
 
 Using citronella may help you [repel those no see ums](https://pestpolicy.com/best-no-see-ums-repellent/)from your hair and skin - but using DIY sprays such as eucalyptus or tea tree oil will be more effective - plus a nalgesic cream or cortisone.
-

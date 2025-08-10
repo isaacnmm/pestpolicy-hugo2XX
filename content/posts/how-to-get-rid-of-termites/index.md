@@ -6,11 +6,16 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - Guide
+
 - Termites
 tags:
+
 - guide
+
 - rid
+
 - termite
 layout: post
 ---
@@ -118,4 +123,3 @@ Such timber may act as good food for the termites and equally a hiding place for
 ##  Conclusion
 
 So, that's how to get rid of termites - for the active termite colony in the wooden structure or house, you'll need to undertake appropriate treatment steps. But first, undertake termite inspection before taking treatment further, including using termite baits stations and soil treatment.
-

@@ -6,11 +6,16 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - Gnats
+
 - Product Reviews
 tags:
+
 - gnats
+
 - medicine
+
 - ear
 layout: post
 ---
@@ -60,4 +65,3 @@ The treatment also gets rid of the ticks and helps in breaking down and removing
 It is easy to administer [medication to the cat as the treatment](https://pestpolicy.com/best-flea-treatment-for-cats/)is applied through topical drops to the ear. Eradicate Ear Mite Treatment is readily available over the counter. One does not need a prescription to purchase the medicine. It is, however, advisable to seek professional advice from a qualified vet before administering.
 
 Consult your vet in the case of side effects, or the cat is under special conditions such as pregnancy.
-

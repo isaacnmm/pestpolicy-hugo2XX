@@ -6,10 +6,14 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - Fleas
+
 - Guide
 tags:
+
 - fleas
+
 - cat
 layout: post
 ---
@@ -97,4 +101,3 @@ This recipe creates a simple and gentle oatmeal shampoo that can help soothe irr
 I hope this article has given you some good tips for keeping your cat clean. - When faced with a cat who needs to be washed fast, not one of the above alternatives is going to disappoint. If you have any other questions, please feel free to contact me and I'll try my best to answer them!
 
 Have a great day!
-

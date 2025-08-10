@@ -6,10 +6,14 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - DIY Paintings
 tags:
+
 - diy-paintings
+
 - floor
+
 - epoxy
 layout: post
 ---
@@ -93,4 +97,3 @@ There is a wide variety of colors you can use on the garage floor - so don't sim
 ##  Conclusion
 
 Onhow to paint a garage floor, is it epoxy or latex? The summarised process will be washing the floor, sand (uneven areas and old paint) plus vacuum the garage, fill hole and cracks, prime, and paint.
-

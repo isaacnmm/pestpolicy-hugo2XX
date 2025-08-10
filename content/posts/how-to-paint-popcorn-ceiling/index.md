@@ -6,11 +6,16 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - DIY Paintings
+
 - Paint
 tags:
+
 - diy-paintings
+
 - popcorn
+
 - ceiling
 layout: post
 ---
@@ -30,7 +35,6 @@ This is a very important step in the sense that you have made the choice of how 
 ###  Step 2: Tools for Painting Popcorn Ceiling
 
 Another advantage of popcorn is that they are sound-proof and also good at hiding imperfections. Choosing a sprayer or a roller is something that needs consideration. 1. An adjustable step ladder 2. Utility knife 3. A 9-inch roller frame 4. inch roller covers 5. Rolls of masking tape 6. Extension pole 7. Painters brush 8. Drop cloth 9. Respirator 10. Googles Also, get to paint-preferably flat white ceiling paint. A sprayer-if is available.
-
 
 ###  Step 3: Surface/site Preparation
 
@@ -62,7 +66,6 @@ Wait for at least 30 minutes before you can apply the second coat.
 
 In the second coat, roll the paint in the opposite direction, this will help you achieved a well-covered surface. Do not forget to observe a 50% overlap to achieve full coverage. Repeat this for the third and the fourth coat if the popcorn was in a bad condition until you get that professional finish. Take your time after you are done to check if there are any imperfections so that you can work on them before cleaning up your tool.
 
-
 ###  Step 7: Cleaning Up the Work Station
 
 When you are done and the ceiling looks perfect, you can now proceed to clean up the tools. Before pulling out the drop cloth, give it some ample time for the splash paint to dry. Remove the ladder and clean up the rollers, sprayer brush, and other tools.
@@ -88,4 +91,3 @@ Another benefit is that unlike spraying, rolling is most probably going to cause
 ##  Conclusion
 
 Well done for the successful painting of your popcorn ceiling. As you purpose for this great course, choosing a good paint that will compliment your house. Get prepared with proper tools which will be helpful in making you achieve a good popcorn painting. You may also want to consider spraying over rolling or using a brush if you really want good results.
-

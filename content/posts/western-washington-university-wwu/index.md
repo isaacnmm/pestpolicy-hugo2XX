@@ -6,11 +6,16 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - Bellingham
+
 - Guide
 tags:
+
 - bellingham
+
 - washington
+
 - university
 layout: post
 ---
@@ -44,4 +49,3 @@ If you're considering Western Washington University for your education, visiting
 **Address: ** 516 High St, Bellingham, WA 98225 **Website: ** [Western Washington University](https://www.wwu.edu/)**Admission Information: ** For admission requirements and application deadlines, visit the WWU Admissions website.
 
 Western Washington University combines academic excellence with a vibrant campus life and a commitment to sustainability and community engagement. Come and experience all that WWU has to offer in beautiful Bellingham, WA.
-

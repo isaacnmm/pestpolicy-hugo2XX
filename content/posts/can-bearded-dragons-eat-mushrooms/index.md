@@ -6,11 +6,16 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - Guide
+
 - Lizard
 tags:
+
 - guide
+
 - are
+
 - mushroom
 layout: post
 ---
@@ -102,4 +107,3 @@ If the bearded dragon defecates or vomits after mushroom ingestion, take with yo
 ##  **Conclusion**
 
 The high acidity levels and [unbalanced calcium-to-phosphorous ratio](https://www.canr.msu.edu/news/which_pet_is_right_for_me)in mushrooms can lead to deteriorated health in your bearded dragon. In addition, some mushrooms are very poisonous which makes them unfit for bearded dragons.
-

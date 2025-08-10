@@ -6,11 +6,16 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - Guide
+
 - Lizard
 tags:
+
 - guide
+
 - wall
+
 - gecko
 layout: post
 ---
@@ -108,4 +113,3 @@ However, the skin and mouthpart of Wall Gecko contain pathogens and harmful bact
 ##  Sources:
 
 1. [Easy Ways to Get Rid of Common House Geckos - wikiHow](https://www.wikihow.com/Get-Rid-of-Common-House-Geckos)2. [Why You Should Never Trust a Gecko Fearful Adventurer](https://www.fearfuladventurer.com/why-you-should-never-trust-a-gecko/)3. [Geckos' Sticky Secret? They Hang by Toe Hairs Live Science](https://www.livescience.com/47307-how-geckos-stick-and-unstick-feet.html)
-

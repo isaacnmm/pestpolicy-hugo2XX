@@ -6,11 +6,16 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - Guide
+
 - Moles
 tags:
+
 - guide
+
 - possum
+
 - eat
 layout: post
 ---
@@ -58,4 +63,3 @@ But remove these traps around the morning time to prevent catching other small p
 ##  Conclusion
 
 So, do possums eat chickens? YES, possums will occasionally hunt and seat chickens in the backyard. - But they'll more probably eat chicks, Bantams (small breeds), and eggs.
-

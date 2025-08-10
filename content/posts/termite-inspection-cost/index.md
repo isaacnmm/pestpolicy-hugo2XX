@@ -6,11 +6,16 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - Guide
+
 - Termites
 tags:
+
 - guide
+
 - termite
+
 - inspection
 layout: post
 ---
@@ -140,4 +145,3 @@ The prospective must prove that they have at least one licensed and certified te
 1. [Termites: How to Identify and Control Them Pest Control](https://www.epa.gov/safepestcontrol/termites-how-identify-and-control-them)[DrywoodTermites Management Guidelines--UC IPM](http://ipm.ucanr.edu/PMG/PESTNOTES/pn7440.html)[Termite- Wikipedia](https://en.wikipedia.org/wiki/Termite)2. [Termites: How to Identify and Control Them Pest Control](https://www.epa.gov/safepestcontrol/termites-how-identify-and-control-them)3.
 
 [Drywood Termites Management Guidelines--UC IPM](http://ipm.ucanr.edu/PMG/PESTNOTES/pn7440.html)4. [Termite - Wikipedia](https://en.wikipedia.org/wiki/Termite)
-

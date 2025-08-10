@@ -6,11 +6,16 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - Lawn Care
+
 - Guides
 tags:
+
 - lawn-care
+
 - gra
+
 - fungal
 layout: post
 ---
@@ -116,4 +121,3 @@ For localized, precise advice on lawn fungal diseases specific to your region, i
 * **Local University Extension Office: ** Many universities have agricultural extension programs with turfgrass specialists who can provide science-backed, unbiased advice, often including diagnostic services (sending in a sample of affected grass). * **Reputable Local Garden Centers or Nurseries: ** Staff at these establishments often have regional knowledge about common lawn problems and products.
 
 * **Professional Lawn Care Companies: ** Consider getting an assessment from a certified turfgrass professional. * **Purdue University Turfgrass Science: ** (Example: many universities have excellent online resources. ) Search for "Purdue Turfgrass Science" or "Penn State Turfgrass" for comprehensive information.
-

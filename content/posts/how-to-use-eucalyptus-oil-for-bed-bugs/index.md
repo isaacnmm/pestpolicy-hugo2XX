@@ -6,11 +6,16 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - Bed Bugs
+
 - Guide
 tags:
+
 - bed-bugs
+
 - eucalyptu
+
 - oil
 layout: post
 ---
@@ -82,4 +87,3 @@ Bed nets will also help protect against bed bugs; they can be put over your head
 So, in conclusion, on how to use eucalyptus oil for bed bugs; simply mix 10 - 20 drops of that oil with 30ml of water and use to spray the bedding or other surfaces. For laundry or when using washers, add some drops of this eucalyptus oil and this will help kill bed bugs and their eggs. Sprinkling with peppermint will also work well at keeping good against these pests - so stay tuned in!
 
 The bottom line is that you may need more than one treatment before getting rid of all those nasty bed bugs.
-

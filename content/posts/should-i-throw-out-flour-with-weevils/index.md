@@ -6,11 +6,16 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - Guide
+
 - Moths
 tags:
+
 - guide
+
 - flour
+
 - weevil
 layout: post
 ---
@@ -92,4 +97,3 @@ In summary, should I throw out flour with weevils, the direct answer is no. Why 
 Normally, weevils will feed on starch in the flour, thus rendering it unsafe for consumption.
 
 Moreover, the flour is prone to poisoning in case of expiration (external agents). You will note, upon cooking, that the final flour meal has an unpleasant taste.
-

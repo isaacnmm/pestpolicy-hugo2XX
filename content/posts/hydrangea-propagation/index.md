@@ -6,31 +6,43 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - Guides
+
 - Gardening
 tags:
+
 - guides
+
 - hydrangea
+
 - propagation
 layout: post
 ---
 ---
+
 ## Why Propagate Hydrangeas?
+
 * **Free Plants:** The most obvious benefit  get new plants without buying them. * **Genetic Duplication:** Cuttings and division create clones of the parent plant, ensuring the new plants have the exact same characteristics (flower color, size, form). * **Rejuvenation:** Dividing older, overgrown clumps can rejuvenate the parent plant, encouraging more vigorous growth and flowering. * **Sharing:** A wonderful way to share your favorite hydrangeas with fellow gardeners.
+
 * **Filling the Garden:** Easily create drifts or hedges of your desired hydrangea variety.
 ---
 ---
+
 ### 2. Division (Best for Clumping Varieties)
 Division is an excellent method for rejuvenating overgrown, clumping hydrangeas, particularly *Hydrangea arborescens* (Smooth Hydrangea, e.g., 'Annabelle') and some *Hydrangea paniculata* cultivars that tend to sucker.
 **When to Divide:** * **Ideal Time:** **Early spring** before new growth fully emerges, or **late fall** after the leaves have dropped and the plant is dormant. * **Nairobi Context:** During the cooler dry season (June-August) or just before the onset of the long rains (February-March) to allow establishment before intense heat.
 **Supplies Needed:** * Sharp spade or digging fork * Sharp pruning shears or a sharp knife * Wheelbarrow or tarp * Compost or organic matter * Watering can
 **Step-by-Step Instructions:**
 1. **Prepare the Parent Plant:** Water the parent hydrangea thoroughly a day or two before you plan to divide it. 2. **Dig Up the Clump:** Using a sharp spade or digging fork, dig a wide circle around the base of the plant, well outside the drip line, to get as much of the root ball as possible. Gently pry the entire clump out of the ground. 3. **Divide the Root Ball:** * Place the clump on a tarp or in a wheelbarrow.
+
 * Examine the root ball for natural divisions or sections with their own root systems and several stems. * **For looser clumps:** You may be able to gently pull apart sections by hand. * **For denser, tougher clumps:** Use two digging forks back-to-back to pry sections apart, or use a sharp spade or knife to cut through the root ball. Ensure each division has a healthy amount of roots and at least 2-3 sturdy stems. 4.
 **Prepare New Planting Sites:** While dividing, dig the holes for your new divisions. Each hole should be twice as wide as the new root ball and just as deep. Amend the soil with compost. 5. **Replant Divisions Immediately:** * Plant each division at the same depth it was growing previously. * Backfill with soil, gently firming to remove air pockets. * **Water thoroughly:** Water each newly planted division deeply to settle the soil.
+
 * **Mulch:** Apply a 5-10 cm (2-4 inch) layer of organic mulch around the base of each new plant, keeping it away from the stems. This helps retain moisture and regulate soil temperature. 6. **Care for the Parent Plant:** If you only took a portion of the clump, backfill the original hole with amended soil and water thoroughly.
 ---
 ---
+
 ## Final Thoughts
 Propagating hydrangeas, whether through softwood stem cuttings or division, is a deeply satisfying and rewarding gardening endeavor. It's an economical way to expand your collection, share the beauty of your favorite varieties, and even rejuvenate older plants.
 By understanding the growth habits of different hydrangea types, selecting the appropriate propagation method, and providing diligent care to your new plants, you can effortlessly multiply your stunning hydrangeas, ensuring your garden remains a vibrant sanctuary of their iconic blooms for years to come. Embrace the art of propagation, and watch your garden flourish!
@@ -86,4 +98,3 @@ Plant outdoors in the garden the following spring after all danger of frost has 
 * **Winter Protection (Temperate Climates): ** * Young cuttings started in summer should be overwintered indoors in a cool, bright, frost-free location (e. g. , unheated garage, cold frame) for their first winter.
 
 * Divisions planted in fall should be heavily mulched to protect their still-establishing roots.
-

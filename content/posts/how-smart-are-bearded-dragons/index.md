@@ -6,11 +6,16 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - Guide
+
 - Lizard
 tags:
+
 - guide
+
 - smart
+
 - dragon
 layout: post
 ---
@@ -142,4 +147,3 @@ It is not easy to take Bearded Dragons to respond to their names though with com
 On how smart are bearded dragons; YES, they're smart - they'll imitate other Bearded Dragons and learn feeding-time routines such as name-calling. - You can easily tame it for a given task through a conditioned reflex action method. - In case you want to feed your Bearded Dragon, you can this by calling it a given name just before giving it food. With time, Bearded Dragon will associate that sound/name with food or your presence.
 
 We cannot say that Bearded Dragon is the most intelligent reptile we have. However, we can attest that Bearded Dragon is smart and able to learn with continuous training.
-

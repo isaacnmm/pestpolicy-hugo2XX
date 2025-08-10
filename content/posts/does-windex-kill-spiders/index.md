@@ -6,11 +6,16 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - Guide
+
 - Spiders
 tags:
+
 - guide
+
 - doe
+
 - windex
 layout: post
 ---
@@ -128,4 +133,3 @@ Essential oils also repel flies, lizards, and mosquitoes in your home.
 In summary; does Windex kill spiders? Yes! If you spray enough Windex (ammonia-based cleaner) on them they will eventually die. This helps eliminate those insects and pests in your home or office without resorting to potentially harmful chemicals or pesticides. - Windex is a cleaning product with ammoniumgas, and it will repel spiders from your house.
 
 Windex is not toxic but could cause irritation when it comes in contact with sensitive parts of the body like the eyes or mouth if ingested orally. Comment your thoughts below.
-

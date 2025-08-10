@@ -6,10 +6,14 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - DIY Paintings
+
 - Guide
 tags:
+
 - diy-paintings
+
 - stairwell
 layout: post
 ---
@@ -61,4 +65,3 @@ Safety should be a top priority when decorating a stairwell. Install handrails o
 Decorating a stairwell is an exciting opportunity to showcase your style and creativity. By incorporating a well-thought-out mix of wall decor, lighting fixtures, plants, and functional elements, you can turn your stairwell into a visually captivating and inviting space. Remember to pay attention to safety aspects and choose a design that seamlessly integrates with your home's overall theme.
 
 So, roll up your sleeves, unleash your creativity, and transform your stairwell into a stunning masterpiece!
-

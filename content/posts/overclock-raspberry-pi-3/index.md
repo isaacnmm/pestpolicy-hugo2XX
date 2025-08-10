@@ -6,10 +6,14 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - Laptops
 tags:
+
 - laptops
+
 - overclock
+
 - raspberry
 layout: post
 ---
@@ -54,8 +58,6 @@ So, to remove the Raspberry Pi overclocking, youll only require removing the cha
 
 Finally, reboot the Raspberry Pi to fully disable all the overclocking configurations.
 
-
 ##  Conclusion
 
 Weve just outlined how to overclock your Raspberry Pi 3 its time to enjoy the power boost! However, you may find detail on [how else to configure the CPU usage](https://www.raspberrypi.org/documentation/configuration/config-txt.md).
-

@@ -6,10 +6,14 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - DIY Paintings
 tags:
+
 - diy-paintings
+
 - grit
+
 - sandpaper
 layout: post
 ---
@@ -64,7 +68,6 @@ Sandpaper Grit Size Work or area of use Extra Coarse 12 - 36 Hardwood sanding Fl
 
 ).
 
-
 ##  What Grit Sand Paper is Best for Paint Preparation?
 
 The idea of surface preparation for painting is made successful by selecting coarse grit sandpaper initially (40-60 grit size). This type of sandpaper cleans old paint sufficiently and leaves a better surface for medium grit sandpaper polishing action. The medium grit sandpaper (60-80) should be passed over the surface gently to remove debris and eliminate primary material rough grains.
@@ -97,10 +100,8 @@ The General Woodwork sanding process is best carried out by using medium grit sa
 
 For finer details, you need to polish the sanded surface with a fine-grit sandpaper (80-120grit) before repainting the wood surface.
 
-
 ##  Conclusion
 
 In conclusion, on, what grit sandpaper for primer before painting, the answer to this question varies according to the type of surface you are working on. For instance, when sanding hardwood material, you will need to begin with extra coarse grit sandpaper (to remove large debris), followed by coarse grit sandpaper (to remove stock material), and pass with medium-grit sandpaper to clean any unfinished wood from the surface.
 
 Further, you may be required to eliminate surface scratches with fine-grit sandpaper or pass ultra-fine grit sandpaper to achieve an excellent surface finish. In this regard, when selecting grit sandpaper for your polishing purposes, you need to understand the extent to which the finish quality should be attained.
-

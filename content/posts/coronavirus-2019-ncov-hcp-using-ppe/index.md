@@ -6,10 +6,14 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - Guide
 tags:
+
 - guide
+
 - coronaviru
+
 - healthcare
 layout: post
 ---
@@ -49,4 +53,3 @@ Use soap and water or hand sanitizer with at least 60% alcohol.
 ###  Conclusion
 
 Proper use of PPE is a critical component in protecting healthcare workers from COVID-19. By wearing the appropriate protective equipment and following infection control procedures, healthcare personnel can reduce the risk of transmission and ensure their safety while providing care to patients. Always ensure that you are using PPE according to guidelines and changing it as necessary to maintain a safe working environment.
-

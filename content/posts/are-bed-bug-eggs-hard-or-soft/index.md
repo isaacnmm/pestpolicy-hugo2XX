@@ -6,11 +6,16 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - Bed Bugs
+
 - Guide
 tags:
+
 - bed-bugs
+
 - are
+
 - bed
 layout: post
 ---
@@ -70,4 +75,3 @@ However, squashing bed bug eggs does not effectively eradicate bed bugs - [mattr
 ##  Sources:
 
 1. [Bed Bug Management Guidelines--UC IPM](http://ipm.ucanr.edu/PMG/PESTNOTES/pn7454.html)
-

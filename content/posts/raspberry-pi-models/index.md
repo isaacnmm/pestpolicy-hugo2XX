@@ -6,10 +6,14 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - Raspberry Pi 3
 tags:
+
 - raspberry-pi-3
+
 - best
+
 - raspberry
 layout: post
 ---
@@ -53,4 +57,3 @@ However, be cautious because the cases for Model B are not compatible with the R
 You can also consider the raspberry pi starter kits that you can use for your science projects.
 
 Currently, there are about 5 Raspberry Pi that you can choose from? However, which is the best Raspberry Pi model?
-

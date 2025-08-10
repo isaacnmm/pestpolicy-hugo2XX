@@ -6,10 +6,14 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - DIY Paintings
 tags:
+
 - diy-paintings
+
 - wood
+
 - texture
 layout: post
 ---
@@ -72,7 +76,6 @@ Dont overload paintbrush (create drains) or apply double coat before drying has 
 
 A wide paintbrush should be used on flat surfaces with a narrow paintbrush should be considered when cutting corners and eliminating edges that are not fully painted.
 
-
 ###  g. Final Finish
 
 Upon paint application, leave the surface to dry over the prescribed time check instruction from the manufacturers labels. Acrylic paint is sensitive to dust; therefore, you will need to sprinkle cold water after 10 minutes to eliminate dirt particles from settling on the surface. Alternatively, you can cover the surface (without direct contact) with a piece of polyethylene bag to keep off dust and debris from the painted surface.
@@ -112,4 +115,3 @@ By choosing to read this article on how to paint wood texture with acrylics, I b
 Then, select appropriate tools, prepare the wood texture sufficiently, prime the surface (where necessary), select, and prepare acrylic paint accordingly to attain incredible stickiness level.
 
 In addition, carry out the actual painting stepwise before letting the wood texture dry sufficiently. Remember, wearing safety gear is paramount in protecting your health, and adhere to precautions given strictly when painting wood texture with acrylics.
-

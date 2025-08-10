@@ -6,11 +6,16 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - Headphones
+
 - Water
 tags:
+
 - headphones
+
 - alkaline
+
 - water
 layout: post
 ---
@@ -62,4 +67,3 @@ So, it's safe to drink alkaline water eat and every day as it has different heal
 Excessive intake of alkaline water may lead to skin irritations or gastrointestinal problems.
 
 This is because of a disturbance of the normal pH of your body, causing eventual nausea.
-

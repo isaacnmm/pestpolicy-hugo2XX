@@ -6,11 +6,16 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - Guide
+
 - Spiders
 tags:
+
 - guide
+
 - spider
+
 - urinate
 layout: post
 ---
@@ -56,4 +61,3 @@ Spiders lack a clearly defined urinary tract comparable to that in mammals. Chec
 On size, these droppings measure around 1/16 - 1/8 an inch in diameter.
 
 Further, the spider's poop mainly contains guanine - just like in the DNA.
-

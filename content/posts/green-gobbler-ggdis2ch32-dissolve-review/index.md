@@ -6,11 +6,16 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - Drains
+
 - Product Reviews
 tags:
+
 - drains
+
 - gobbler
+
 - ggdis2ch32
 layout: post
 ---
@@ -48,4 +53,3 @@ Therefore, if you're not on solar power, the process could be delayed by power b
 Itll dissolve fast, oil, soap scum, hair, and grease in its amazingly two pre-measured portions. Being heavier or denser than [water, the Green Gobbler cleaner will move through](https://pestpolicy.com/how-to-unclog-a-bathtub-drain-with-standing-water/)stagnant water and clean your pipes and drains. Further, it is non-flammable and odorless, making it so much better than the acidic, basic, or acoustic drain cleaners.
 
 Itll be great for shower drains, bathtubs, toilets, or kitchen sinks.
-

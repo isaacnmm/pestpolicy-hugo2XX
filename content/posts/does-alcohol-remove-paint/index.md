@@ -6,10 +6,14 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - DIY Paintings
 tags:
+
 - diy-paintings
+
 - doe
+
 - alcohol
 layout: post
 ---
@@ -39,7 +43,6 @@ You can manually dilute the alcohol using distilled/clean water or purchase the 
 ###  c. Areas of application
 
 Denatured alcohol is best used in mild paint removal, cleaning agent examinator, solvent for various bleaching agents as well as the sanding aid. On the other and, Isotropic Alcohol can be used in dense paint removal due to its high alkanol concentration index. In each of these, direct application on the painted surfaces such as vehicle body parts, furniture, rooftops, walls, containers, and floors work excellently in removing paint.
-
 
 ###  d. Type of paint removed
 
@@ -108,4 +111,3 @@ When applying another paint coat on a given surface, you need to eliminate seala
 In summary, rubbing alcohol can remove paint coating without damaging the surface if the right concentration is applied correctly. Indeed, alcohol works best for latex and water-based paints. Moreover, rubbing alcohol can also be used to remove wax and sealant, clean car headlights, remove polish residue, and clean sticker adhesives on the shiny surfaces.
 
 Notably, you need to have respiratory protective gear during application to shield yourself from irritation that may occur.
-

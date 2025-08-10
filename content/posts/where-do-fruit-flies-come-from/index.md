@@ -6,11 +6,16 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - Flies
+
 - Guide
 tags:
+
 - flies
+
 - fruit
+
 - flie
 layout: post
 ---
@@ -160,4 +165,3 @@ Dirty dishes causes a lot of fruit flies attraction. Dished that accumulate duri
 Fruit flies are very small insects that come from bush hideouts into the house through windows and doors; from Vegetable, fruit trees and flowers, from rotting of fermenting food stuff in the house; from groceries through food brought into the house or from whether change in an area that provides a room for their growth.
 
 These flies works best in dim light at dusk or dawn. It is necessary to prevent fruit flies using appropriate ways given. Fruit flies are irritate but you can get rid of them or prevent.
-

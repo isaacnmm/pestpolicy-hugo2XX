@@ -6,12 +6,18 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - Landscaping
+
 - Guides
+
 - Home Improvement
 tags:
+
 - landscaping
+
 - yard
+
 - drainage
 layout: post
 ---
@@ -115,4 +121,3 @@ By first understanding the common culprits, from compacted clay soil to improper
 For more stubborn or widespread problems, advanced solutions like French drains, dry wells, or strategic re-grading offer robust, long-term remedies.
 
 Investing time and effort in improving your yard's drainage pays dividends, fostering a healthier, more resilient landscape that not only looks better but also supports a thriving ecosystem and protects your property from water-related damage. A well-drained yard is a foundation for a truly enjoyable outdoor space.
-

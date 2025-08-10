@@ -6,9 +6,12 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - DIY Paintings
 tags:
+
 - diy-paintings
+
 - tsp
 layout: post
 ---
@@ -28,7 +31,6 @@ Lay down some drop cloths and tape off the surfaces nearby wood trim, baseboards
 You'll mix the TSP powder with some warm water (in a larger bucket) and use it to wipe down the surfaces - this enhances the paint's adhesiveness - which also TSP acts as a stain remover, removes mildew and molds. So, dilute your TSP using warm water in the ratio of 1/2 cup of the TSP with warm water (2 gallons). Once you get the cleaning mixture, take another container with some clean water. Ensure to stir with a paint stirrer to dissolve TSP.
 
 For safety purposes, wear protective goggles and rubber gloves when working with the TSP cleaner. You'll require to dip some sponge into your TSP cleaner to wipe down your walls.
-
 
 ###  Step 2: Workstation or Area Prepping
 
@@ -85,4 +87,3 @@ Another non-hazardous material to clean the surfaces is [vinegar for paint remov
 ##  Conclusion
 
 Using TSP might be dangerous if you don't utilize protective materials. But TSP can be diluted with warm water to clean surfaces like furniture items and cabinets before painting.
-

@@ -6,11 +6,16 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - Drains
+
 - Guide
 tags:
+
 - drains
+
 - scorpion
+
 - house
 layout: post
 ---
@@ -80,4 +85,3 @@ Spray the water-diluted essential oil in the basement, windows, doorways, and ot
 So in summary seeing one scorpion in your house may not necessarily mean that there are more of such animals around. - But this could vary depending on whether the area is scorpion-dense and if conditions are pushing the animals to shelter in the house. Some of these conditions may include wildfires or construction site unearthing. Scorpions will bite humans but their venom is non-hazardous - but could be hazardous to kids and elderly people.
 
 Any massive ground-digging or unearthing activities are going
-

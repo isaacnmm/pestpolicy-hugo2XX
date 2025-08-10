@@ -6,11 +6,16 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - Guide
+
 - Termites
 tags:
+
 - guide
+
 - soil
+
 - treatment
 layout: post
 ---
@@ -88,4 +93,3 @@ Soil treatment for termites with different termiticides, including liquid termit
 ##  Sources:
 
 1. [Termite Prevention and Control Methods](https://www.uaex.edu/farm-ranch/pest-management/docs/training-manuals/AG1154.pdf)2. [Termites: How to Identify and Control Them Pest Control](https://www.epa.gov/safepestcontrol/termites-how-identify-and-control-them)3. [Protecting your Home Against Termites Entomology](https://entomology.ca.uky.edu/ef605)
-

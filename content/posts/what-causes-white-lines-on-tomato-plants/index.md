@@ -6,11 +6,16 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - Guides
+
 - Pest Control
 tags:
+
 - guides
+
 - white
+
 - line
 layout: post
 ---
@@ -106,4 +111,3 @@ In Kenya, this might be during drier, warmer periods. Adjust your prevention and
 The appearance of white lines on your tomato plants is a clear indicator of leaf miner activity, but it's usually a manageable problem for the home gardener. By understanding the pest's life cycle and implementing a combination of preventive measures, organic treatments, and long-term garden health strategies, you can minimize damage and ensure your tomato plants remain vigorous and productive.
 
 Vigilance, timely intervention, and a holistic approach to pest management will help you cultivate a healthy and bountiful harvest, free from the tell-tale scribbles of these common garden nuisances.
-

@@ -6,11 +6,16 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - Guide
+
 - Moles
 tags:
+
 - guide
+
 - possum
+
 - eat
 layout: post
 ---
@@ -70,4 +75,3 @@ Keeping lids tightly closed will discourage them from foraging in your yard.
 In conclusion, the notion that possums eat cats is largely unfounded. While possums are opportunistic feeders and scavengers, their natural diet does not include live, healthy cats. - They are more likely to forage for fruits, insects, and small animals or scavenge for dead animals. Interactions between possums and cats are usually driven by competition for food rather than predation.
 
 Pet owners can reduce the likelihood of encounters by taking simple precautions, but overall, possums are not a significant threat to household pets.
-

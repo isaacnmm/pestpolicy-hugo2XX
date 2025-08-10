@@ -6,11 +6,16 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - Fleas
+
 - Guide
 tags:
+
 - fleas
+
 - borax
+
 - safe
 layout: post
 ---
@@ -90,4 +95,3 @@ The vet may also prescribe [medication for boric acid](http://npic.orst.edu/fact
 In conclusion on the question "is borax safe for dogs" is a yes with many considerations. - Borax is safe for dogs when used in moderation, but can lead to kidney damage if consumed in excess or over time. - It is very important that you always keep borax away from your dog and make sure they have plenty of water during recovery! If swallowed: Watch out for severe vomiting, diarrhea, lethargy (too tired), seizures (convulsions).
 
 - If these symptoms occur seek emergency veterinary care immediately because this could be life-threatening as well. See your vet - I would love to hear any feedback so I may improve on future content. Thanks again and happy reading!
-

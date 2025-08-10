@@ -6,11 +6,16 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - Fleas
+
 - Guide
 tags:
+
 - fleas
+
 - did
+
 - dog
 layout: post
 ---
@@ -104,4 +109,3 @@ Prior to beginning the vacuuming process, sprinkle some borax on the carpets tha
 So in summary please can jump onto your dog through various ways including coming from the yard, wild animals, carpets and rugs, or even other pets such as cats. - Monthly treatment of dogs for fleas is highly recommended and you may use devices such as flea collars when the pet is outdoors. In addition, you can use free shampoos to bathe your dogs.
 
 - You can still bathe the dogs with castile soap (unscented) but you should add some essential oils (just a few drops) such as citronella, tea tree, lavender, or eucalyptus Cheers!
-

@@ -6,11 +6,16 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - Guide
+
 - Lizard
 tags:
+
 - guide
+
 - bearded
+
 - dragon
 layout: post
 ---
@@ -130,4 +135,3 @@ Remember to involve a qualified veterinarian often to check your beardies health
 ##  Sources:
 
 1. [**Bearded Dragon Adaptations: Lesson for Kids Study. com**](https://study.com/academy/lesson/bearded-dragon-adaptations-lesson-for-kids.html)
-

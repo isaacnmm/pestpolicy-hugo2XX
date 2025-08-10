@@ -6,11 +6,16 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - Landscaping
+
 - Ecology
+
 - Guides
 tags:
+
 - landscaping
+
 - property
 layout: post
 ---
@@ -144,4 +149,3 @@ You'll still need to manage invasive species, potentially prune for health/safet
 6. **Documentation: ** * Consider taking "before" and "after" photos to track your progress. This can be motivating and help you assess the effectiveness of your efforts.
 
 By carefully considering these factors, you can create a successful rewilding project that aligns with your goals, respects your community, and thrives for years to come.
-

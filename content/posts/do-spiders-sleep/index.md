@@ -6,11 +6,16 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - Guide
+
 - Spiders
 tags:
+
 - guide
+
 - spider
+
 - rest
 layout: post
 ---
@@ -66,4 +71,3 @@ Some factors like cold temperatures or circadian rhythms may make the spiders su
 ##  Sources:
 
 1. [Believing that humans swallowspidersin theirsleep: False beliefs as side effects of the processes that support accurate knowledge](https://www.sciencedirect.com/science/article/pii/S0079742115000341)2. [What is so frightening aboutspiders? Selfrated and selfdisclosed impact](https://onlinelibrary.wiley.com/doi/abs/10.1111/sjop.12508)
-

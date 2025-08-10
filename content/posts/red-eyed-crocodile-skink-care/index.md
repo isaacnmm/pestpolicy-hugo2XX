@@ -6,11 +6,16 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - Guide
+
 - Lizard
 tags:
+
 - guide
+
 - eyed
+
 - crocodile
 layout: post
 ---
@@ -144,4 +149,3 @@ The period of pairing should be from June to September. Feeding is after one day
 ##  Conclusion
 
 The Red-Eyed crocodile skink is a wonderful creature that requires gentle hands. They do not bite and no, you can not handle them as a beginner. They need a good pair of hands but once you keep one, you will love it. There is beauty in their mysterious lifestyle. I hope this red-eyed crocodile skink care guide has been of great help and now that you are totally informed, your reptile pet-keeping ways are truly reformed.
-

@@ -6,10 +6,14 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - DIY Paintings
 tags:
+
 - diy-paintings
+
 - thin
+
 - acrylic
 layout: post
 ---
@@ -35,7 +39,6 @@ Material such as canvas soaks easily and messes the primary surface if not well 
 Water content should be 40% to 50% in the mixture - Carry a drop text experiment (using a paintbrush) on the surface to ascertain paint stickiness level NB: Water thinner works best for acrylic latex paint. Over diluting acrylic paint leads to low stickiness action, which may lead to peeling. Desist from thinning Acrylic paint on the surface you are about to paint.
 
 Moreover, check the manufacturers instruction concerning the water to paint ratio requirement.
-
 
 ###  Step 2: Thinning with Acrylic Binder
 
@@ -116,4 +119,3 @@ To summarize, on how to thin acrylic paint, you start by selecting the tools & r
 You must stick to instructions and procedures highlighted in this article when using either of the above methods in order to attain the best quality acrylic solvent.
 
 In addition, its advisable to check on the paint labels (on the package) to gain more information and thinning directives from the manufacturer.
-

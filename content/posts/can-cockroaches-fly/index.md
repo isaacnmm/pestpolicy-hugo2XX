@@ -6,11 +6,16 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - Cockroaches
+
 - Guide
 tags:
+
 - cockroaches
+
 - cockroache
+
 - fly
 layout: post
 ---
@@ -66,4 +71,3 @@ Different roach species have a variedflying ability. However, roaches are not go
 As noted above, American Cockroaches (both males and females) are good flyers.
 
 However, other roach species may use their wings to glide or jump from higher to lower areas.
-

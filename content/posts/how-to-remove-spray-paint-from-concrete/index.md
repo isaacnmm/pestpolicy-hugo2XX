@@ -6,10 +6,14 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - DIY Paintings
 tags:
+
 - diy-paintings
+
 - spray
+
 - paint
 layout: post
 ---
@@ -129,4 +133,3 @@ You can remove spray paint efficiently from concrete by using TSP, Graffiti remo
 You will also need to follow the right procedure highlighted in this article during application and adhere to a safer spray paint removal process.
 
 Go for the method that you are comfortable and conversant with during spray paint removal.
-

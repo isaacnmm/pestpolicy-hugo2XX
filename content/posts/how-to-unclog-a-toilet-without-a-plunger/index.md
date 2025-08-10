@@ -6,11 +6,16 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - Drains
+
 - Guide
 tags:
+
 - drains
+
 - toilet
+
 - plunger
 layout: post
 ---
@@ -106,4 +111,3 @@ Other materials such as sanitary towels, toothbrushes, and others should be disp
 Use the necessary amount of toilet paper- Stuffing of a lot of tissue paper, and trying to flush it causes clogging. Only use the amount you require. 4. Ensure your toilet is always clean- Using toilet washing chemicals periodically wash to your toilet will meltdown and wash away any forming clogs. **Note - ** Always remember to clean any spilled water on the floor. You can even cover the floor around the toilet using towels and tissue paper.
 
 In case of any spillages on the floor, wash them using a disinfectant. Remember always to wear gloves. Any exposure to germs from the toilet can lead to infections and illnesses. Once you are done, ensure you dispose of the used gloves and wash your hands with soap or a hand sanitizer.
-

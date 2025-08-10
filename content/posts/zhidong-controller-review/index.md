@@ -6,10 +6,14 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - Controllers
 tags:
+
 - controllers
+
 - zhidong
+
 - controller
 layout: post
 ---
@@ -26,8 +30,6 @@ This post is a Zhidong Controller Review. Read Also: [Controller for Rocket Leag
 
 To use the controller on Windows XP, youll need to install the Offical driver for the Xbox 360 Controller. - Also, if you will be using version Android OS or above, youll need to have a device that supports the OTG function. - With its 2 vibrating motors, the controller will produce an intense vibration effect. The controller has an excellent ergonomic build. Also, the JD-SWITCH will allow you to switch between the Left Stick and the D-pad.
 
-
 ###  Unique features
 
 1. Ease of setting up 2. PC full vibration feedback 3. Comfortable to use buttons 4. Has a backlight
-

@@ -6,12 +6,18 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - Bed Bugs
+
 - Fleas
+
 - Guide
 tags:
+
 - bed-bugs
+
 - flea
+
 - bite
 layout: post
 ---
@@ -105,4 +111,3 @@ The key to prevent the bites by killing the root cause, i. e. the pests themselv
 ##  Sources:
 
 1. [Flea Bites - StatPearls - NCBI Bookshelf](https://www.ncbi.nlm.nih.gov/books/NBK541118/)2. [Dermatitis caused by Ctenocephalides felis (cat flea) in human](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4247491/)3. [Bed Bugs - The Journal for Nurse Practitioners](https://www.npjournal.org/article/S1555-4155(17)30274-X/pdf)4. [Bedbug Bites - StatPearls - NCBI Bookshelf](https://www.ncbi.nlm.nih.gov/books/NBK538128/)
-

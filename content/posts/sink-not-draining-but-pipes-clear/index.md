@@ -6,11 +6,16 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - Drains
+
 - Guide
 tags:
+
 - drains
+
 - sink
+
 - pipe
 layout: post
 ---
@@ -36,4 +41,3 @@ Does the sink do anything funny also?
 Sewer gases can enter your home.
 
 In general, if there is a vacuum in the line, it can suck the water out of your traps and drop the toilet water level. Read Also: [Is drain cleaner acid or base? ](https://pestpolicy.com/is-drain-cleaner-an-acid-or-base/)**How a Plumbing Trap Can Lose Water**
-

@@ -6,11 +6,16 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - Guide
+
 - Termites
 tags:
+
 - guide
+
 - sign
+
 - termite
 layout: post
 ---
@@ -76,4 +81,3 @@ Another sign that will denote the presence of drywood termites is if you find si
 Termites will wittingly hide themselves in ward and soil especially in crisis and cars that are hidden on the foundation and the structures. - So if there are clear signs of a damaged infestation, then it is clear that their population is very high (since these pests are challenging to detect). The presence of shelter tubes moving up on the outside of the foundation wall will show the presence of termites.
 
 However, I advise that you get expert [professional termite inspection](https://pestpolicy.com/termite-inspection-cost/)for your structures and the house for effective control. Also, don't forget to undertake regular or annual termite prevention and control on various structures and the yard. Cheers!
-

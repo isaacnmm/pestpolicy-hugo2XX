@@ -6,11 +6,16 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - Guide
+
 - Lizard
 tags:
+
 - guide
+
 - are
+
 - lizard
 layout: post
 ---
@@ -128,4 +133,3 @@ Lizards such as marine iguanas dwell under the water though they often come to t
 All Lizard species are vertebrates. They have backbone, also called the vertebral column/spinal column, whose main function is to protect the spinal cord and offer option for attachment of body muscles and appendicular skeleton.
 
 The lizards spinal column is divided into cervical, dorsal, sacral and vertebrae apart from legless lizards whose backbone is divided into precaudal and caudal vertebrae.
-

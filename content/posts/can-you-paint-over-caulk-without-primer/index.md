@@ -6,10 +6,14 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - DIY Paintings
 tags:
+
 - diy-paintings
+
 - caulk
+
 - primer
 layout: post
 ---
@@ -67,4 +71,3 @@ In conclusion, while it is possible to paint over caulk without using primer, it
 However, if you choose to forgo primer, follow the proper steps and consider the factors mentioned above to achieve the best possible outcome.
 
 Remember that investing a little extra time and effort can save you from potential issues down the road and result in a more satisfying painting experience.
-

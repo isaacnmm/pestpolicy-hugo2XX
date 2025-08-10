@@ -6,11 +6,16 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - Guide
+
 - Lizard
 tags:
+
 - guide
+
 - lizard
+
 - poop
 layout: post
 ---
@@ -94,4 +99,3 @@ If youre having trouble identifying the type of pest in your house, its the righ
 ##  Sources:
 
 1. [Lizards Management Guidelines--UC IPM](http://ipm.ucanr.edu/PMG/PESTNOTES/pn74120.html)2. [The legless lizards of LAX - Understanding Evolution](https://evolution.berkeley.edu/evolibrary/news/131005_leglesslizards)3. Reptiles and Amphibians Healthy Pets, Healthy People CDC
-

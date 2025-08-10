@@ -6,11 +6,16 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - Guide
+
 - Moths
 tags:
+
 - guide
+
 - rid
+
 - pantry
 layout: post
 ---
@@ -140,4 +145,3 @@ In summary, on how to get rid of pantry moths, you can start by removing/clearin
 - Moreover, you need to remove and clean shelf liners, thoroughly scrub the pantry with soap and hot water, precisely dry the pantry & washed storage containers as well as vacuum your pantry sufficiently before disinfecting the surfaces with vinegar. - For the case of storage jars or containers, they should be washed with plenty of soap & hot water (kills moth's eggs), while contaminated/infested food substances should be disposed of accordingly.
 
 Alternatively, change the current storage method and avoid re-stocking your pantry immediately upon cleaning (this may lead to moth re-occurrence). Notably, take preventive measures highlighted in this article to eliminate cases of future re-infestation in your house.
-

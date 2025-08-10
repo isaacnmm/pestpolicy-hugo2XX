@@ -6,11 +6,16 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - Fleas
+
 - Guide
 tags:
+
 - fleas
+
 - can
+
 - flea
 layout: post
 ---
@@ -70,4 +75,3 @@ Daily cleaning and vacuuming may help kill the flea larvae, eggs, and baby fleas
 ##  Conclusion
 
 As we've noted above, fleas have long legs and the hind pair is highly developed to allow them to jump very high. Vertically, fleas can jump about 18 cm (7 inches) while horizontally it can jump roughly 13 cm (33 inches). Therefore, fleas are only second in jumping height-to body length ratio to froghopper.
-

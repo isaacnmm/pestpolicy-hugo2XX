@@ -6,10 +6,14 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - Federal Way
 tags:
+
 - federal-way
+
 - town
+
 - square
 layout: post
 ---
@@ -51,4 +55,3 @@ It provides a wide range of outdoor activities, including hiking, biking, fishin
 Poverty Bay Park features scenic views, beach access, and picnic areas, making it a tranquil spot for a picnic and enjoying the natural beauty of the waterfront.
 
 These parks collectively offer a variety of recreational opportunities and natural beauty, making Federal Way a great place for outdoor enthusiasts and families.
-

@@ -6,10 +6,14 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - DIY Paintings
 tags:
+
 - diy-paintings
+
 - paint
+
 - concrete
 layout: post
 ---
@@ -95,4 +99,3 @@ Move the sand-blaster nozzle slowly over the painted concrete - this will guaran
 ##  Conclusion
 
 On how to remove paint from concrete without chemicals, use a sandblaster, soda blaster, pressure washers, floor grinders - but remove the remaining residue.
-

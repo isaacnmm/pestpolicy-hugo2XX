@@ -6,11 +6,16 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - Fleas
+
 - Guide
 tags:
+
 - fleas
+
 - pet
+
 - cat
 layout: post
 ---
@@ -40,4 +45,3 @@ If you note some or all the signs, then you should call your vet to give your do
 ##  Conclusion
 
 Well, now you know the common blep should be investigated further beyond the fanaticism hype as it could indicate a medical condition in your pet. However, a blep could also be normal in some pets in their resting position. Hence, stay woke with your pets.
-

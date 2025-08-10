@@ -6,11 +6,16 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - Bed Bugs
+
 - Guide
 tags:
+
 - bed-bugs
+
 - bed
+
 - bug
 layout: post
 ---
@@ -92,4 +97,3 @@ Therefore, you are more likely to experience mosquito problems if you live near 
 ##  Sources:
 
 1. [Bed Bug Bites vs. Mosquito Bites: Telling Them Apart](https://www.healthline.com/health/bed-bug-bites-vs-mosquito-bites)2. [Bedbug Bites - StatPearls - NCBI Bookshelf](https://www.ncbi.nlm.nih.gov/books/NBK538128/)3. [Bed Bugs: Clinical Relevance and Control Options - NCBI](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3255965/)
-

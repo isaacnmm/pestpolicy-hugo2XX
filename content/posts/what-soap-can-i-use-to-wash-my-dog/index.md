@@ -6,11 +6,16 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - Fleas
+
 - Guide
 tags:
+
 - fleas
+
 - soap
+
 - wash
 layout: post
 ---
@@ -78,4 +83,3 @@ Related: [Can You Use Dog Shampoo on Cats? ](https://pestpolicy.com/can-you-use-
 What soap can I use to wash my dog? There is a considerable number of options that are available for use. Human soaps, homemade soaps, dogs soaps, and washing liquids are just but a few options. - If you dont have specialist dog soap, human soaps and shampoos are the next available option but need special consideration before use.
 
 Therefore, before you can settle for any human or specialist soap, it is good to consult with your vet to avoid harming your puppy.
-

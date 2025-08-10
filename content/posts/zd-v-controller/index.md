@@ -6,10 +6,14 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - Controllers
 tags:
+
 - controllers
+
 - zd-v+
+
 - controller
 layout: post
 ---
@@ -39,4 +43,3 @@ Further, the ZD-V+ USB controller will feel comfortable since the parts have a s
 ###  Unique Features
 
 1. Plug and Play for Xinput mode compatible games. 2. Android 4. 0 and above support 3. Vibration Feedback Function 4. Works with PS3, Windows XP up to Windows 10. 5. Multi-mode and JD-SWITCH Function - check theFlight Simulator Yoke Reviewed
-

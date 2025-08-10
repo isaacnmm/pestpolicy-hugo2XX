@@ -6,11 +6,16 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - Ants
+
 - Guide
 tags:
+
 - ants
+
 - sugar
+
 - ant
 layout: post
 ---
@@ -80,4 +85,3 @@ Now that you know what sugar ants look like and how to know if they have invaded
 ##  Sources:
 
 1. [Banded sugar ant - WikiVisually](https://wikivisually.com/wiki/Banded_sugar_ant)2. [Common names for Australian ants (Hymenoptera - Semantic Scholar](https://pdfs.semanticscholar.org/3ce5/f5353abce0e480d4f741c35d23dec1939b4b.pdf)3. [Is it possible to remove ants from sugar? - Quora](https://www.quora.com/Is-it-possible-to-remove-ants-from-sugar)
-

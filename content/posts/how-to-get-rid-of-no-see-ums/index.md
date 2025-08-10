@@ -6,11 +6,16 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - Guide
+
 - No See Ums
 tags:
+
 - guide
+
 - rid
+
 - no-see-um
 layout: post
 ---
@@ -102,4 +107,3 @@ I would recommend getting long stockings, long-sleeved shirts and also long pant
 The last step on how to get rid of no-see-ums is undertaking appropriate prevention steps.
 
 This can be undertaken without conducting massive changes to the yard or garden environment.
-

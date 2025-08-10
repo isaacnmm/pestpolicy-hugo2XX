@@ -6,11 +6,16 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - Fleas
+
 - Guide
 tags:
+
 - fleas
+
 - doe
+
 - bug
 layout: post
 ---
@@ -70,4 +75,3 @@ The other disposal method is to place the container in a plastic garbage bag and
 Most bug sprays are effective for up to three years. If you use DEET-based repellents, the container will remain usable for you up to 36 months.
 
 How long the product lasts will depend on how often you use it. For the other brands, most manufacturers recommend that you dispose of the product after three years. But regardless of the expiry date, you should avoid using bug spray if it causes skin irritation or rashes.
-

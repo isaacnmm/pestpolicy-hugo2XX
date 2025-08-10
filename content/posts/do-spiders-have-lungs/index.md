@@ -6,11 +6,16 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - Guide
+
 - Spiders
 tags:
+
 - guide
+
 - spider
+
 - lung
 layout: post
 ---
@@ -68,4 +73,3 @@ In this, water will flow over the gills to absorb the available oxygen. However,
 ##  Sources:
 
 1. [Respiration inspiders(Araneae)](https://link.springer.com/article/10.1007/s00360-016-0962-8)2. [Adaptation of thespidersto the environment: the case of some Chilean species](https://www.frontiersin.org/articles/10.3389/fphys.2015.00220)
-

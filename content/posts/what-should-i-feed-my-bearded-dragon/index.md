@@ -6,11 +6,16 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - Guide
+
 - Lizard
 tags:
+
 - guide
+
 - bearded
+
 - dragon
 layout: post
 ---
@@ -64,4 +69,3 @@ Bearded dragons will also eat leafy vegetables like kale, bell peppers, carrots,
 ##  Conclusion
 
 This food should include vegetables (cucumber, grapes, banana, grated carrots) and fruits (pears, blueberries, tomatoes), substrates, plus insects.
-

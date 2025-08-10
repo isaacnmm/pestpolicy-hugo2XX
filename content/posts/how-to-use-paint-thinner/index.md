@@ -6,10 +6,14 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - DIY Paintings
 tags:
+
 - diy-paintings
+
 - paint
+
 - thinner
 layout: post
 ---
@@ -71,4 +75,3 @@ Collect the paint that settled in the container in another separate, sealable co
 Where possible, store solvents somewhere with adequate ventilation, preferably outside of the home, such as in a shed.
 
 If vapors escape from containers, they can build up in a non-ventilated space and potentially cause harm. Dont fill containers of solvent all the way to the top. Their vapors need room to expand and an over-full container can potentially burst. Once your containers reach the halfway-full mark, seal them and dispose of them at a hazardous waste disposal location. Thats it! Now you know how to properly use paint thinner and solvents.
-

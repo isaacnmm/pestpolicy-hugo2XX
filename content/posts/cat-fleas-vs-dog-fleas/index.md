@@ -6,11 +6,16 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - Fleas
+
 - Guide
 tags:
+
 - fleas
+
 - cat
+
 - flea
 layout: post
 ---
@@ -128,4 +133,3 @@ Flea bites can cause itching around the bite site. Some people have sensitive sk
 Fleas usually won't live in human hair because it doesn't offer the same protection from sunlight and dryness that pet fur does.
 
 Cheers!
-

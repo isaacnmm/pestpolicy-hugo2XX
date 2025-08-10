@@ -6,11 +6,16 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - Fleas
+
 - Guide
 tags:
+
 - fleas
+
 - permethrin
+
 - insect
 layout: post
 ---
@@ -78,4 +83,3 @@ New research shows that [5% for permethrin](https://www.ncbi.nlm.nih.gov/pmc/art
 ##  Conclusion
 
 Permethrin is a reliable insecticide that has been used for a long time for both humans and pets. - There are many permethrin-based products in the market and so ensure to consult experts while using them. Using permethrin products without care may lead to adverse pet and human health effects. Cheers!
-

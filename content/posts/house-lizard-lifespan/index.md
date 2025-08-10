@@ -6,11 +6,16 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - Guide
+
 - Lizard
 tags:
+
 - guide
+
 - house
+
 - lizard
 layout: post
 ---
@@ -80,4 +85,3 @@ This is done when the gecko detects danger during which it uses this method as a
 ##  Conclusion
 
 House lizards have a lifespan of 4 to 6 years on average. However, this period is subject to factors such as care given, environment/climate and availability of basic needs for the house lizards. Some House lizards may even live slightly longer than 6 years under proper care. Skin shedding problems and wounding occurrences may lower the lifespan of the house lizards. Consult your vet on your gecko care always.
-

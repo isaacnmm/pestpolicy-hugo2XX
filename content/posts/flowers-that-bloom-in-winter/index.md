@@ -6,12 +6,18 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - Gardening
+
 - Plants and Flowers
+
 - Guides
 tags:
+
 - gardening
+
 - flower
+
 - bloom
 layout: post
 ---
@@ -103,4 +109,3 @@ Water deeply on milder days. 5. **Protection from Winter Sun and Wind: ** For ne
 Plant them near windows, pathways, or entryways where their scent can be appreciated.
 
 By incorporating these hardy and beautiful plants into your landscape, you can transform the often-dreary winter months into a season of unexpected color, delicate textures, and delightful fragrances, proving that the garden truly never sleeps.
-

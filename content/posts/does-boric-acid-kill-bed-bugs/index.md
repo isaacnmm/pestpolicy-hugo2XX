@@ -6,11 +6,16 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - Bed Bugs
+
 - Guide
 tags:
+
 - bed-bugs
+
 - doe
+
 - boric
 layout: post
 ---
@@ -126,4 +131,3 @@ Boric acid can kill bed bugs only when eaten/inhaled or injected into their bodi
 It is not efficient enough to be used for killing bed bugs as compared to other available options. I recommend that you should opt for other ways I have suggested above.
 
 Boric acid can kill cockroaches and ants when mixed with sugary bait. It may not kill you, however if symptoms persist, seek medication as soon as possible.
-

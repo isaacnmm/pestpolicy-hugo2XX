@@ -6,10 +6,14 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - Backyard Games
 tags:
+
 - backyard-games
+
 - how
+
 - backyard
 layout: post
 ---
@@ -107,4 +111,3 @@ Conclusion
 You now know how to build a backyard train using barrels. However, it's important you know that there are other trains you can build.
 
 Some come ready-made they need little to no work. Others, youll need to invest a lot of your time and resources like on this [video below](
-

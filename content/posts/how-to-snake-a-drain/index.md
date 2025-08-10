@@ -6,11 +6,16 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - Drains
+
 - Guide
 tags:
+
 - drains
+
 - drain
+
 - quick
 layout: post
 ---
@@ -64,4 +69,3 @@ Here are some few tips to observe that will save you the agony of clogged [drain
 ##  Conclusion
 
 You can run hot water in the kitchen sink after use to keep oils off the drain, which causes clogging. Also, waste disposal in a trash bin instead of the sink helps keep waste that causes blockages away from the drains.
-

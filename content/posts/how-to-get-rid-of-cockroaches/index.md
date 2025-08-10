@@ -6,11 +6,16 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - Cockroaches
+
 - Guide
 tags:
+
 - cockroaches
+
 - rid
+
 - cockroache
 layout: post
 ---
@@ -154,4 +159,3 @@ However, with the above-discussed tips on the best home remedy to naturally kill
 ##  Sources:
 
 1. [NCBI - Evaluation of Some Essential Plant Oils against the Brown Roaches](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5186743/)2. Purdue - Single insecticide application can kill three cockroach generations 3. [Cockroaches - World Health Organization](https://www.who.int/water_sanitation_health/resources/vector288to301.pdf)
-

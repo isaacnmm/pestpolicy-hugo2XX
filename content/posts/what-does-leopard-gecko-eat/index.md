@@ -6,11 +6,16 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - Fleas
+
 - Guide
 tags:
+
 - fleas
+
 - leopard
+
 - gecko
 layout: post
 ---
@@ -140,4 +145,3 @@ In normal times, an adult Leopard Gecko can go without food for 10 to 20 days.
 Leopard Gecko is a small attractive reptile that feeds on insects such as mealworms, crickets, cockroaches, silkworms, waxworms, or super worms.
 
 You can also feed your Leopard Gecko with artificial feeds that are dusted over the natural food to give it vitamin (D3) supplements. Avoid feeding your Leopard Gecko with feeds not approved by vet.
-

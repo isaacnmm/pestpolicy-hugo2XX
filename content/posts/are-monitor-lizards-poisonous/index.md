@@ -6,11 +6,16 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - Guide
+
 - Lizard
 tags:
+
 - guide
+
 - are
+
 - monitor
 layout: post
 ---
@@ -132,4 +137,3 @@ Your kids should not be allowed to play with your pet monitor lizards alone.
 The Monitor Lizards such as Komodo Dragon, Asian Water Monitor, and Tree Crocodile Monitor are poisonous reptiles that bite and inject poisonous venom to their prey, thus paralyzing it to death. The monitor lizards venom contains crotamine chemical which prevents clotting of blood. The blood Oz cause the overall drop of blood pressure in the body. The venom also leaves infections that cause painful swelling on the bitten part.
 
 However, some Monitor Lizards such as Bengal Monitor and Savana Monitor are believed to be harmless and defenseless. Monitor lizards can also harbor salmonella bacteria, which cause infections to your pets and humans. Proper disinfections and prevention measures should be carried out to maintain healthy life in your place.
-

@@ -6,10 +6,14 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - DIY Paintings
 tags:
+
 - diy-paintings
+
 - acrylic
+
 - paint
 layout: post
 ---
@@ -143,4 +147,3 @@ Removing acrylic paint may be made easier if you use paint cleaners like denatur
 Moreover, you will need to prepare the surface under the acrylic paint remover to improve the quenching action.
 
 The final cleaning action is necessary to eliminate traces of acrylic paint remover within the canvas.
-

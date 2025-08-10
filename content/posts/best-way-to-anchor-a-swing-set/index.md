@@ -6,10 +6,14 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - Swing Sets
 tags:
+
 - swing-sets
+
 - swing
+
 - set
 layout: post
 ---
@@ -93,4 +97,3 @@ While method 2 will explain how to use anchors to properly secure a playset/swin
 Securing your swing set will go a long way in ensuring kids remain safe as they play. Always check to see that the swing set is properly anchored and that the bottom of each leg is properly covered to prevent cases of injuries. Confirm that no hardware is left exposed before allowing kids to play on the swing set. Check to see that the attachment fits on top of the anchor.
 
 If it fits properly on the ground anchor, inject a bolt and secure the leg in position.
-

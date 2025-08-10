@@ -6,12 +6,18 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - Garden
+
 - Home Improvement
+
 - Guides
 tags:
+
 - garden
+
 - functional
+
 - stylish
 layout: post
 ---
@@ -205,4 +211,3 @@ Hose boxes offer discreet, hidden storage.
 **Q7: How do I prepare my Liberty Garden hose storage unit for winter? ** A7: For non-portable units: First, completely drain your hose as described above and disconnect it. Store the hose indoors if possible. If the unit is stationary outdoors, ensure it's empty, clean, and consider covering it with a durable, weather-resistant cover to protect the finish from snow, ice, and extreme cold.
 
 For portable units (carts, smaller boxes), it's best to store them indoors in a garage or shed.
-

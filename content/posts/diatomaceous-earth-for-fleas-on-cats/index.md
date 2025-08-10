@@ -6,11 +6,16 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - Fleas
+
 - Guide
 tags:
+
 - fleas
+
 - earth
+
 - flea
 layout: post
 ---
@@ -72,4 +77,3 @@ Diatomaceous earth is used as food and powder coating to eliminate fleas and wor
 1. [Diatomaceous Earth for Flea Control - Riversonvet](https://riversongvet.com/news/diatomaceous-earth-for-flea-control/)2. [General Fact Sheet - Diatomaceous Earth](http://npic.orst.edu/factsheets/degen.html)3. [Insecticidal efficacy of diatomaceous earth on Sitophilus oryzae - Semantic Scholar](https://pdfs.semanticscholar.org/ba37/75be4c3f0abac307fff1c5f7efed4db8ad3b.pdf)4.
 
 [Amorphous diatomaceous earth on product pests - NCBI](https://www.ncbi.nlm.nih.gov/pubmed/11124378)
-

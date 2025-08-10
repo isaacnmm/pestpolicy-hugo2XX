@@ -6,9 +6,12 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - DIY Paintings
 tags:
+
 - diy-paintings
+
 - rust
 layout: post
 ---
@@ -53,8 +56,6 @@ You can prime the metallic piece using any oil- or water-based primer such as Ru
 
 The oil-based primers + zinc reaction may only make paint peeling.
 
-
 ##  Conclusion
 
 Priming the metals will make the surfaceconsistent and smooth - and thus it'll be great for painting - with excellent paint-adhesion. But you'll require to brush the loose rust and peeling paint. Once, the surfaces are clean, you can now spray paint over the rusted metal usingRust-Tough Enamel or the Krylon-Rust Protector.
-

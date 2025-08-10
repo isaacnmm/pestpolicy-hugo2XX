@@ -6,11 +6,16 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - Fleas
+
 - Guide
 tags:
+
 - fleas
+
 - human
+
 - shampoo
 layout: post
 ---
@@ -68,4 +73,3 @@ Should you use dish soap on your cat?
 Yes, but if used routinely, dishwashing soaps will remove the natural oils on the pet's skin - which will dry out or result in breakouts - unlike the flea treatment for cats. So, finally, YES - both human or dog shampoo will be toxic on your cats and thus not safe. The cat's skin has a different pH balance to that of humans and dogs - thus human shampoo will dry out the cat's skin.
 
 This may cause painful irritation, flakiness, skin drying, and aggressive behavior.
-

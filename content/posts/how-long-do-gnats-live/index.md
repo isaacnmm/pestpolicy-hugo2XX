@@ -6,10 +6,14 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - Gnat
+
 - Guide
 tags:
+
 - gnat
+
 - live
 layout: post
 ---
@@ -85,4 +89,3 @@ Dont forget to take the trash out as often as possible. Finally, after you water
 Gnats have a short life of 7-21 days depending on the species. While their longevity is not very impressive, they reproduce very fast.
 
 A female can lay up to 450 eggs which take 4-30 days to hatch. This means that for every fly that dies, there will be hundreds waiting to replace it.
-

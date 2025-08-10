@@ -6,10 +6,14 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - DIY Paintings
 tags:
+
 - diy-paintings
+
 - oil
+
 - stain
 layout: post
 ---
@@ -145,4 +149,3 @@ For effective removal of oil stains, consider using baking soda, ammonia, TSP, o
 Alternatively, you can purchase commercial oil stain remover from the assorted samples in this article.
 
 Remember to adhere to precautions and procedures highlighted in this article during the application.
-

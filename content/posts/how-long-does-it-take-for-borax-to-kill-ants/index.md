@@ -6,11 +6,16 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - Ants
+
 - Guide
 tags:
+
 - ants
+
 - borax
+
 - kill
 layout: post
 ---
@@ -94,4 +99,3 @@ On how long does it take for borax to kill ants: BORAX WORKS! Will Borax Kill Th
 Yes! It Works Slow Enough That Allows For Trips By A Foraging Ant Before Effect Is Lethal.
 
 Cheers!
-

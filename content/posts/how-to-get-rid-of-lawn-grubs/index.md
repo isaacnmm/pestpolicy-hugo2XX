@@ -6,12 +6,18 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - Lawn Care
+
 - Pest Control
+
 - Guides
 tags:
+
 - lawn-care
+
 - rid
+
 - lawn
 layout: post
 ---
@@ -113,4 +119,3 @@ With diligence and the right approach, you can ensure your green space remains a
 **Q4: How long do grubs live in the soil? ** A4: Most common lawn grubs (like Japanese beetle grubs) have an annual life cycle. They hatch from eggs in summer, feed through fall, overwinter deep in the soil as larvae, move up to feed again briefly in spring, then pupate, emerging as adult beetles in early summer to start the cycle again.
 
 **Q5: Is milky spore effective against all types of grubs? ** A5: No, Milky Spore is highly specific to Japanese beetle grubs. It will not be effective against other grub species like those of May/June beetles or European chafers. Always identify the specific grub causing the problem before choosing a treatment.
-

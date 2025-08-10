@@ -6,11 +6,16 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - Bed Bugs
+
 - Product Reviews
 tags:
+
 - bed-bugs
+
 - proof
+
 - bed
 layout: post
 ---
@@ -68,4 +73,3 @@ Review of Ortho Home Defense Dual-Action
 ###  2. Proof Bed Bug Spray vs. Harris Bed Bug Killer
 
 [Review of Proof Bed Bug Spray](https://pestpolicy.com/proof-bed-bug-spray-review/)
-

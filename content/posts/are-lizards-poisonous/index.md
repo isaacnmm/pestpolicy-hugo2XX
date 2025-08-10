@@ -6,11 +6,16 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - Guide
+
 - Lizard
 tags:
+
 - guide
+
 - are
+
 - lizard
 layout: post
 ---
@@ -128,4 +133,3 @@ Some lizards are protected and so killing them is an offence. **Flame under the 
 Most lizards are non-venomous and will not readily bite you. Even the few venomous lizards bite when provoked or in defense when they feel threatened.
 
 Although the venom can barely kill a human, it can cause serious body reactions. In addition the bite can cause serious tissue damage. So, it good to be on the safe side whenever you encounter such lizards.
-

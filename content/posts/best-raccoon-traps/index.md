@@ -6,11 +6,16 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - Product Reviews
+
 - Raccoons
 tags:
+
 - product-reviews
+
 - raccoon
+
 - trap
 layout: post
 ---
@@ -86,4 +91,3 @@ You can reuse this Havahart 1045 trap without requiring to replace any of its pa
 ##  Sources:
 
 1. [It's a trap: Optimizing the detection of rare small mammals - NCBI](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6400386/)2. [Progress towards Bait Station Integration into Oral Rabies - NCBI](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6082100/)3. [Raccoon Social Networks and the Potential for Disease - NCBI](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3794951/)
-

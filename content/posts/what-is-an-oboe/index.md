@@ -6,9 +6,12 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - Recording
 tags:
+
 - recording
+
 - oboe
 layout: post
 ---
@@ -49,7 +52,6 @@ They join leading to the oboes bell is described as the lower joint. Notably, th
 
 Oboes upper joint is 3 rd among the 5 sections in the woodwind instrument. Notably, it lies between the lower joint and the staple. Also, just like the lower joint, the upper joint has the tone holes, rods, and keys and equally create various pitches with different key combinations being pressed. Further, the upper joint has 2 additional keys that a player uses to activate 2 varied octave ranges: 1st-octave key & 2nd-octave key.
 
-
 #####  a. First Octave Key
 
 Through similar fingering, you can use the 1st-octave keys to create tones 1 & 2 octaves higher. Oboes mainly come with 2-octave keys but others have 3 such keys. When the Oboe has 2-octave keys, theyll yield pitches ranging from A5 - C6 & E5 - G#5. Youll find the 1 st octave key under your left-hand thumb and its utilized to access former range.
@@ -71,4 +73,3 @@ Oboesound and facts
 ##  Resources
 
 1. [Bibliographies & Guides to the Oboe Repertoire](https://researchguides.uoregon.edu/oboe/bibliographies)2. [Oboe reed investigations](https://eprints.utas.edu.au/12400/)-University of Tasmania 3. [A Study of Oboe Reeds](https://scholarworks.gvsu.edu/cgi/viewcontent.cgi?article=1119&context=sss)-Grand Valley State University
-

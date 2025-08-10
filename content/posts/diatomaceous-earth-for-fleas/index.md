@@ -6,11 +6,16 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - Fleas
+
 - Guide
 tags:
+
 - fleas
+
 - earth
+
 - flea
 layout: post
 ---
@@ -126,4 +131,3 @@ Allow the dog to play around the areas sprinkled with the diatomaceous earth. Th
 This is important because diatomaceous earth will tend to dry the dogs skin.
 
 Finally, you should flea comb your dog to ensure that you eject any of the remaining fleas on the pets fur. Also, ensure you vacuum the house spaces clean in several weeks. For this process, use the shop vac type of vacuum cleaner because it wont burn its motor quickly. 1. [Effect of diatomaceous earth on parasite load, egg production - NCBI](https://www.sciencedirect.com/science/article/pii/S0032579119420300)
-

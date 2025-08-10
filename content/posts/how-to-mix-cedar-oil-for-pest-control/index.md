@@ -6,11 +6,16 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - Fleas
+
 - Guide
 tags:
+
 - fleas
+
 - mix
+
 - cedar
 layout: post
 ---
@@ -74,4 +79,3 @@ Therefore, if you need to achieve longer-term pest control in an area using ceda
 ##  Conclusion
 
 So in summary, you will be required to mix 220 ml of cedar oil with 770 ml of water and the spray will treat an area of 5000 square feet. - Cedar oil kills various pests by covering their exoskeleton and thus suffocating the bugs. Cedar oil with higher concentrations will destroy the pest exoskeleton or emulsify its body fat. Cheers!
-

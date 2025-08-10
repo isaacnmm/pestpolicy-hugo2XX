@@ -6,11 +6,16 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - Guide
+
 - Lizard
 tags:
+
 - guide
+
 - garden
+
 - lizard
 layout: post
 ---
@@ -72,4 +77,3 @@ The lizard could be stressed or hurt by another animal. Again, keep your cat awa
 ###  **Conclusion**
 
 Garden lizards are creatures that simply love a low profile. They will eat all the bugs and cockroaches and be your constant companion in the garden. And as it is said, you are what you eat, and knowing what a lizard eats is the first step in truly knowing the garden lizard so that you can co-exist with them in a mutual manner.
-

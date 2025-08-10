@@ -6,11 +6,16 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - Guide
+
 - Lizard
 tags:
+
 - guide
+
 - pet
+
 - lizard
 layout: post
 ---
@@ -98,4 +103,3 @@ Crested Geckos are native to New Caledonia. They inhabit Rain forests canopies a
 Dragons are mythical serpent like creatures that depict epitome of power according to various communities in the world.
 
 There are various lizards such as Chinese Water Dragons, Bearded Dragons, Red-Eyed Crocodile Skink, Plumed Basilisks, Crested Geckos, Draco Lizard, Green Iguana, Armadillo Lizard and Horned Lizard that resembles dragons. You can keep any as your home pet dragon.
-

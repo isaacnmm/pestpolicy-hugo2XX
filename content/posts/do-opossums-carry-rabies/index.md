@@ -6,11 +6,16 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - Guide
+
 - Raccoons
 tags:
+
 - guide
+
 - opossum
+
 - carry
 layout: post
 ---
@@ -124,4 +129,3 @@ Wild animals that'll carry rabies include raccoons, foxes, and skunks.
 As you can see, opossums do not carry rabies!
 
 I hope you found this blog post helpful, and I encourage you to share it with your friends on social media.
-

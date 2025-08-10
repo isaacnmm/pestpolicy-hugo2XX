@@ -6,11 +6,16 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - Chipmunks
+
 - Guide
 tags:
+
 - chipmunks
+
 - chipmunk
+
 - underground
 layout: post
 ---
@@ -118,4 +123,3 @@ Chipmunks can cause serious damage in your home and need to be controlled using 
 ##  Sources
 
 1. [Chipmunk & Ground Squirrel - Wildlife Ecology and Damage](https://extension.psu.edu/chipmunks)2. [Chipmunks in the Garden - University of Vermont](https://pestpolicy.com/)3. [Golden-Mantled Ground Squirrel or Chipmunk? - UCCE](http://cecentralsierra.ucanr.edu/files/170223.pdf)
-

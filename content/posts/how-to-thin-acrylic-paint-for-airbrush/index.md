@@ -6,10 +6,14 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - Guide
 tags:
+
 - guide
+
 - thin
+
 - acrylic
 layout: post
 ---
@@ -61,4 +65,3 @@ After using the airbrush, its important to clean it thoroughly to prevent any cl
 ##  Conclusion
 
 Thinning acrylic paint for airbrush use is a simple yet essential process for achieving the best results. By choosing the right thinner, adjusting the consistency, and testing the paint before you begin, you can ensure that your airbrush projects are smooth, even, and professional-looking. Remember to clean your airbrush thoroughly after each use to maintain its performance.
-

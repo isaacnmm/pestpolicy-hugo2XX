@@ -6,9 +6,12 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - DIY Paintings
 tags:
+
 - diy-paintings
+
 - wall
 layout: post
 ---
@@ -47,7 +50,6 @@ Caution, avoid sanding the large ridges and gouges - just trowel an additional j
 
 Next, you'll just use an additional joint compound to fill up the grooves - the large ridges and grooves - and hence you won't require to sand the surfaces.
 
-
 ##  Step 4: Touch up Problematic spots
 
 Check the spots that are bad using some hand-held light after doing the final finishing with the hand sander, and ensure to cover the whole surface using the joint compound. Use your pencil to mark the bad spots that'll require detailed sanding or filling. Now, use the handheld lamp and shine it parallel to your wall surface to check bad spots. Get your sponge sander and hand sander to easily touch-up the problematic spots.
@@ -73,4 +75,3 @@ The last step will involve some light-sanding of your surfaces using some light 
 ##  Conclusion
 
 Therefore, you'll learn to prevent regular sanding mistakes while also getting the right outcomes on the drywall sanding project. This will clearly be a dusty and tedious job.
-

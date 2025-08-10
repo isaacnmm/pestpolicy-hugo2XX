@@ -6,11 +6,16 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - Flies
+
 - Guide
 tags:
+
 - flies
+
 - rid
+
 - drain
 layout: post
 ---
@@ -70,4 +75,3 @@ Let the bleach mixture sit inside the shower drains for about 20 minutes - this 
 ##  Conclusion
 
 In conclusion, sewer flies, gnats or drain flies can be a nuisance when they attack your kitchens and bathrooms. Luckily, you can begin by getting rid of any standing water, unlocking the drains, and using chemicals such as black, drain cleaners, vinegar, and baking soda. Cheers!
-

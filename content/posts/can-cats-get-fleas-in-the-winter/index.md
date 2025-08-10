@@ -6,11 +6,16 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - Fleas
+
 - Guide
 tags:
+
 - fleas
+
 - get
+
 - flea
 layout: post
 ---
@@ -56,4 +61,3 @@ Ensure to have a basin (half-full) of water with a detergent such as a dishwashe
 ##  Conclusion
 
 Finally, spray the cat beddings under the carpet and coach using a suitable flea insecticide every two weeks. Use a flea collar on your cat for prevention purposes.
-

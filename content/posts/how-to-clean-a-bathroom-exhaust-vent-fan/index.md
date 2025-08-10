@@ -6,11 +6,16 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - Bathroom Repairs
+
 - Guide
 tags:
+
 - bathroom-repairs
+
 - bathroom
+
 - exhaust
 layout: post
 ---
@@ -100,4 +105,3 @@ Putting everything back together correctly ensures optimal performance: 1. Confi
 Test the fan at multiple speed settings (if variable) to ensure smooth operation.
 
 *(Post-Cleaning Check: Listen for any new unusual sounds consistent noise after cleaning may indicate bearing wear needing professional attention. )*
-

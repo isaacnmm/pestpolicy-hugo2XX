@@ -6,11 +6,16 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - Guide
+
 - Lizard
 tags:
+
 - guide
+
 - bearded
+
 - dragon
 layout: post
 ---
@@ -66,4 +71,3 @@ It is always advisable to offer plant feed mixed with insects to boost the nutri
 ##  Conclusions
 
 Bearded Dragon do not eat onions in any form (raw or cook). Though some owners mix onions with other feeds, this is not right since onions contain toxic substance, acids and high calcium to phosphorous ratio, which cause digestion problems. It is therefore advisable to avoid giving your pet bearded dragon any onion species. Also, follow the feeding guidelines discussed above to ensure a healthy life for your pet bearded dragon.
-

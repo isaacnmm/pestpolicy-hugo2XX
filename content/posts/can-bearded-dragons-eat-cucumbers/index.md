@@ -6,11 +6,16 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - Guide
+
 - Lizard
 tags:
+
 - guide
+
 - bearded
+
 - dragon
 layout: post
 ---
@@ -100,4 +105,3 @@ Related: [Can Bearded Dragons Eat Oranges?
 ##  **Conclusion**
 
 [Bearded dragons will eat](https://pestpolicy.com/can-bearded-dragons-eat-onions/)a range of foods including plant and animal matter. However, theyre also very selective on the type of food they eat. Giving wrong food can easily make them sick or even die. Thats why its always good to spare some time to look at guides like this one to know the recommended food for your beardie.
-

@@ -6,10 +6,14 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - Guitar
 tags:
+
 - guitar
+
 - octave
+
 - pedal
 layout: post
 ---
@@ -73,4 +77,3 @@ This octamizer features four knobs for regulating the level of the octave. The k
 This incredible instrument also has a pedal board that is quite friendly and easy to operate.
 
 Youll also notice that this pedal is quite small than the other pedals, therefore, traveling around with it wont be a challenge. However, you will notice that this device lacks some advanced settings present on other pedals. You might not be able to experiment with different sounds or add distortion to your sound. But, it offers a great analog sound that most users applaud.
-

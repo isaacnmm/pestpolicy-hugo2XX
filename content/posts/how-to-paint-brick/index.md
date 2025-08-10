@@ -6,11 +6,16 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - DIY Paintings
+
 - Paint
 tags:
+
 - diy-paintings
+
 - brick
+
 - step-by-step
 layout: post
 ---
@@ -87,7 +92,6 @@ Chipping a condition that occurs when paint disintegrate from a given section an
 
 Chipping is more pronounced in wet areas than dry ones.
 
-
 ###  2. Peeling and flake
 
 Peeling occurs when the stickiness ability between paint molecules and brick surface is lost due to age or other external factors. The paint adhesive bond fails to remain stuck on brick primary material and ends up forming a continuous sheet or flake. Paint peel or flake when exposed to excess heat, dust, and alkaline condition.
@@ -115,4 +119,3 @@ Never use expired primer or finish paint when painting bricks - leads to peeling
 Besides, you'll have to select and prepare primer, apply the primer, select and prepare finish paint (follow manufacturer's instructions), apply finish paint, and undertake quality finish touch before leaving the surface to dry to touch naturally. It's advisable to cover painted surfaces that are located in dusty environment in order to prevent them from dust stains.
 
 Importantly, wear protective attire during paint application for personal safety and adhere to precautions given in this article.
-

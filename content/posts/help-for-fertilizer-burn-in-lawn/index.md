@@ -6,11 +6,16 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - Lawn Care
+
 - Guides
 tags:
+
 - lawn-care
+
 - help
+
 - fertilizer
 layout: post
 ---
@@ -120,4 +125,3 @@ The grass cannot use the nutrients, and the salts will sit in the soil, ready to
 9. **Consider Liquid Fertilizers: ** Liquid fertilizers can be applied more evenly and are less prone to causing burn if diluted and applied correctly. However, they also require careful dilution and even application.
 
 By adhering to these preventative measures, you can confidently fertilize your lawn, promoting its health and beauty without the unwelcome surprise of fertilizer burn. When in doubt, always err on the side of under-applying rather than over-applying, as you can always add more later.
-

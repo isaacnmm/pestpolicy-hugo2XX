@@ -6,11 +6,16 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - Guide
+
 - Lizard
 tags:
+
 - guide
+
 - bearded
+
 - dragon
 layout: post
 ---
@@ -70,4 +75,3 @@ Read also; Can Bearded Dragons Eat Tomatoes?
 ##  **Conclusion**
 
 From the above guide, you can certainly confirm that carrots arent a bad diet for your bearded dragon. They are a rich source of vitamin A, fiber and beta-carotene which are all beneficial to your beardies health. However, you should avoid carrots if youre presently administering vitamin A supplements on your bearded dragon. Thats because you may end up raising the amount of vitamin A in their body to toxic levels.
-

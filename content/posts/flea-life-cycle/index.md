@@ -6,11 +6,16 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - Fleas
+
 - Guide
 tags:
+
 - fleas
+
 - flea
+
 - cycle
 layout: post
 ---
@@ -112,4 +117,3 @@ It is important that you treat your pets at least twice during the summer months
 In summary, the life cycle of the flea is all about eggs, larvae and pupae.
 
 The adult female lays her fertilized eggs on your pet's fur for them to hatch into larva or even pupae which then turn into adults after a couple weeks time.
-

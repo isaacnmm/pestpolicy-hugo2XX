@@ -6,11 +6,16 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - Product Reviews
+
 - Rats
 tags:
+
 - product-reviews
+
 - best
+
 - ultrasonic
 layout: post
 ---
@@ -134,4 +139,3 @@ Ultrasonic pest repellers provide a convenient and effective method for ejecting
 1. [Design, Construction, and Characterization of a Solar-Powered Multi-tone Ultrasonic Rodent Repeller](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.676.7453&rep=rep1&type=pdf)2. [Sonicpestrepellents](https://repository.arizona.edu/handle/10150/581456)3. [Unpleasant Sound Elicits Negative Emotion and Reinstates Drug Seeking](https://link.springer.com/article/10.1007/s12035-019-1609-z)4.
 
 [Effects of an in-builtultrasonicdevice on Anopheles gambiae sl mosquitoes in an indoor environment](https://www.researchgate.net/profile/Oludele_Adeleke3/publication/284719512_Effects_of_an_in-built_ultrasonic_device_on_Anopheles_gambiae_sl_mosquitoes_in_an_indoor_environment/links/5a8d23fca6fdcc786eb06314/Effects-of-an-in-built-ultrasonic-device-on-Anopheles-gambiae-sl-mosquitoes-in-an-indoor-environment.pdf)
-

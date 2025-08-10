@@ -6,11 +6,16 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - Bed Bugs
+
 - Guide
 tags:
+
 - bed-bugs
+
 - eat
+
 - bed
 layout: post
 ---
@@ -146,4 +151,3 @@ You can use chemical sprays such as permethrin, encasements and diatomaceous ear
 1. [Bed Bugs: Clinical Relevance and Control Options - NCBI](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3255965/)2. [Bed Bugs Entomology](https://entomology.ca.uky.edu/ef636)3. [Let's Beat the Bed Bug! ](https://www.bedbugs.umn.edu/)4. [Bed Bug Management Guidelines--UC IPM](http://ipm.ucanr.edu/PMG/PESTNOTES/pn7454.html)5. [Bedbugs beware: New research may beat back bedbug epidemic](https://news.psu.
 
 edu/story/457391/2017/03/22/bedbugs-beware-new-research-may-beat-back-bedbug-epidemic)
-

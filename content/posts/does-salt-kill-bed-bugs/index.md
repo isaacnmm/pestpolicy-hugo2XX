@@ -6,11 +6,16 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - Bed Bugs
+
 - Guide
 tags:
+
 - bed-bugs
+
 - doe
+
 - salt
 layout: post
 ---
@@ -98,4 +103,3 @@ Consider doing this under the mattresses and the furniture in your bedroom. Salt
 ##  **Conclusion**
 
 It is not possible to use salt to exterminate bed bugs. It is not rough enough to destroy the exoskeleton of the bed bugs. Still, bed bugs cannot ingest it since they only feed on blood. For effectiveness, use something that would dehydrate and kill the bed bugs.
-

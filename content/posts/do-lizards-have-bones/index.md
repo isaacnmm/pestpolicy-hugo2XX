@@ -6,11 +6,16 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - Guide
+
 - Lizard
 tags:
+
 - guide
+
 - lizard
+
 - bone
 layout: post
 ---
@@ -112,4 +117,3 @@ Related: Are Leopard Geckos Nocturnal?
 All Lizard species have bones that are collectively linked to aid them in protection and locomotion. The bones are classified under either appendicular skeleton or axial skeleton.
 
 Main functions of the bones include support, protection of internal organs and offer options for attachment of body muscles. The total number of bones vary according to size and species of lizard. Lizards have an average of 28 specialized bones.
-

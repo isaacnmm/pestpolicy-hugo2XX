@@ -6,11 +6,16 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - Ants
+
 - Guide
 tags:
+
 - ants
+
 - rid
+
 - ant
 layout: post
 ---
@@ -196,4 +201,3 @@ Some of the other insects outside the house or in the garden can attract the ant
 ##  References
 
 1. [Ant Control for Householders Entomology](https://entomology.ca.uky.edu/ef619)2. [Ants Management Guidelines--UC IPM](http://ipm.ucanr.edu/PMG/PESTNOTES/pn7411.html)3. [Ants in the Home - 5. 518 - ExtensionExtension](http://extension.colostate.edu/topic-areas/insects/ants-in-the-home-5-518/)
-

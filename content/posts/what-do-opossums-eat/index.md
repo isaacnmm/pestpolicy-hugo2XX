@@ -6,11 +6,16 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - Guide
+
 - Moles
 tags:
+
 - guide
+
 - eat
+
 - diet
 layout: post
 ---
@@ -102,4 +107,3 @@ The possum tends to go through periods of activity at
 ##  Conclusion
 
 On the question; what do opossums eat - h ere are some of the meals that opossums eat: - carrion (dead animals) - ectoparasites (animal or plant parasites found on an animal's skin, fur, feathers, scales, etc. ) - fruits and vegetables. Opossum diets will vary depending on what is locally available in a given region.
-

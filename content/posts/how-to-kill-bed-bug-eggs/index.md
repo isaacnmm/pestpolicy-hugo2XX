@@ -6,11 +6,16 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - Bed Bugs
+
 - Guide
 tags:
+
 - bed-bugs
+
 - bed
+
 - bug
 layout: post
 ---
@@ -106,4 +111,3 @@ Equally, also put on a dust mask to protect your breathing system from the harsh
 ##  Sources:
 
 1. [Do-it-yourself Bed Bug Control](https://www.epa.gov/bedbugs/do-it-yourself-bed-bug-control)
-

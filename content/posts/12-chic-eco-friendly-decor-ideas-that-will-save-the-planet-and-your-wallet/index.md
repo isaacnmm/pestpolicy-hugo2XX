@@ -6,11 +6,16 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - Guide
+
 - Home Decor
 tags:
+
 - guide
+
 - decor
+
 - will
 layout: post
 ---
@@ -100,4 +105,3 @@ Embracing eco-friendly decor is not just a trend; it's a lifestyle that reflects
 With these chic ideas, you can create a beautiful home that aligns with your values while being kind to your wallet.
 
 Which of these ideas will you incorporate into your space?
-

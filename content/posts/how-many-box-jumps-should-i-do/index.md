@@ -6,10 +6,14 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - Guide
 tags:
+
 - guide
+
 - box
+
 - jump
 layout: post
 ---
@@ -117,4 +121,3 @@ Athletes who are new to box jumping need to use low-height boxes for their exerc
 ##  Box jump alternative
 
 The best alternative to box jumps include - Jump Squat - Step-Ups - Squat Push-Press - Hex Bar Deadlift Also known as trap bar deadlifts - Barbell Squat
-

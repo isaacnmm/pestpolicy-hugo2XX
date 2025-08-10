@@ -6,10 +6,14 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - DIY Paintings
 tags:
+
 - diy-paintings
+
 - dried
+
 - latex
 layout: post
 ---
@@ -107,4 +111,3 @@ In conclusion, on how to clean dried latex paint from a paint sprayer, you begin
 Besides, clean the tips, gun, and the hosepipe, prime the sprayer with water once more, clean the inlet pick-up/strainer carefully, mop and rinse the sprayer to dryness, assemble the sprayer and store it in a cool dry place. Its advisable to put on protective gear (for personal protection) when cleaning latex paint and observe precautions given while handling the paint sprayer to prevent any damage.
 
 If you are new to a paint sprayer, contract a professional to help you in cleaning.
-

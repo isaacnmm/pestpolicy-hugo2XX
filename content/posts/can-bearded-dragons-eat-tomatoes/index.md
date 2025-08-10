@@ -6,11 +6,16 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - Fleas
+
 - Guide
 tags:
+
 - fleas
+
 - bearded
+
 - dragon
 layout: post
 ---
@@ -82,4 +87,3 @@ As we've noted, tomatoes won't make it into the main diet of your bearded dragon
 ##  Conclusion
 
 Finally, on the question - can bearded dragons eat tomatoes; the oxalic acid in tomatoes also inhibits the absorption of calcium which is necessary for bone development and in egg production by female dragons. Bearded dragons also require minimal amounts of vitamin A. So, feeding them with a lot of tomatoes gives the body system the burden of excreting excess vitamin A - check PestPolicy guides.
-

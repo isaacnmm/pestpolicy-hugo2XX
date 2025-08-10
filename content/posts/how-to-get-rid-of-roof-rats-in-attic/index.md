@@ -6,11 +6,16 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - Guide
+
 - Rats
 tags:
+
 - guide
+
 - rid
+
 - roof
 layout: post
 ---
@@ -142,4 +147,3 @@ Getting rid of roof rats in the attic is a time-consuming process but dont forge
 1. [The role of roof rats (Rattus rattus) in the spread. .. - NCBI - NIH](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2870913/)2. [Rat Management Guidelines--UC IPM](http://ipm.ucanr.edu/PMG/PESTNOTES/pn74106.html)3. [Effectiveness of rodenticides for managing invasive roof rats](https://www.ncbi.nlm.nih.gov/pubmed/24443051)4. [About Roof Rats - the County of Santa Clara](https://www.sccgov.
 
 org/sites/vector/resources/brochures/Documents/Roof%20Rats.pdf)
-

@@ -6,10 +6,14 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - walking Shoes
 tags:
+
 - walking-shoes
+
 - walking
+
 - shoe
 layout: post
 ---
@@ -62,10 +66,8 @@ Walking Shoes for Weight Loss](https://pestpolicy.com/running-shoes-vs-walking-s
 
 Therefore, a shoe with an appropriately designed arch will help reduce the strain that your feet would suffer when you are walking. Thus, youll feel additional fatigue and foot pain when your shoes lack appropriate support. Other issues include ligament fracture, stress fractures, plantar fasciitis, and strains. However, High Arches can result from genetic or neurological factors, and thus you need to first talk to your medical practitioner.
 
-
 Maybe youre already aware that pronation is that characteristic where your foot would roll inwards to absorb shock when you are walking. Notably, when foot arches have problems, they could be over or underdeveloped.
 
 ##  Conclusion
 
 In our case, high arch foot, the effect is that your foot will under-pronate or supinate in which situation the foot would not compress adequately and hence will increase the shock that lands on your feet.
-

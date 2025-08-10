@@ -6,12 +6,18 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - DIY
+
 - Metal Restoration
+
 - Guides
 tags:
+
 - diy
+
 - rust
+
 - using
 layout: post
 ---
@@ -103,4 +109,3 @@ Working with electricity and water, combined with the production of flammable ga
 The satisfaction of watching a heavily rusted item transform into clean metal without arduous scrubbing or harsh chemicals is immensely rewarding. With patience, a methodical approach, and unwavering commitment to safety, electrolysis can become an invaluable technique in your restoration arsenal, breathing new life into cherished metal objects and extending their lifespan for years to come.
 
 Remember to always rinse and protect your newly de-rusted items immediately to prevent the dreaded flash rust.
-

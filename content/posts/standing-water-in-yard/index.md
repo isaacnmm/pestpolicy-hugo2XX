@@ -6,11 +6,16 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - Lawn Care
+
 - Landscaping
 tags:
+
 - lawn-care
+
 - standing
+
 - water
 layout: post
 ---
@@ -120,4 +125,3 @@ Standing water in your yard is a clear signal that something is amiss with your 
 The solutions available are diverse, ranging from simple fixes like extending downspouts and aerating your lawn, to more involved projects like installing French drains, creating rain gardens, or regrading your yard. For minor issues, a DIY approach might suffice, but for persistent or severe problems, consulting with a landscape architect or drainage professional can save you time, money, and frustration in the long run.
 
 Ultimately, addressing standing water is an investment in the health, beauty, and functionality of your outdoor space, ensuring your yard remains a place of enjoyment rather than a soggy challenge. A well-drained yard is a healthier yard, protecting your plants, your home, and your peace of mind.
-

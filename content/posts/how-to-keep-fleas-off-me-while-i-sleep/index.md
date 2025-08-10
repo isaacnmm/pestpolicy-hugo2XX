@@ -6,10 +6,14 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - Fleas
+
 - Guide
 tags:
+
 - fleas
+
 - flea
 layout: post
 ---
@@ -93,4 +97,3 @@ But the fleas you may find on the bedding and beds maybe there are mainly search
 ##  Conclusion
 
 You can keep fleas off your body while you're sleeping by spraying some flea repellent on the skin or clothing and wearing long socks and pants.
-

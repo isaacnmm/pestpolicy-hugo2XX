@@ -6,11 +6,16 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - Bees
+
 - Guide
 tags:
+
 - bees
+
 - rid
+
 - carpenter
 layout: post
 ---
@@ -146,4 +151,3 @@ In summary, on how to get rid of carpenter bees without killing them, you can us
 - More so, you can spray almond/citrus oil, knock off the bees from their nest, or vacuum the nest and release bees into open fields (far away from your home).
 
 Proper protection gear should be worn when getting rid of bees - for personal safety. Furthermore, if you are new to the task, it's recommended that you contract a bee professional to help you out.
-

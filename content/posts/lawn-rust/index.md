@@ -6,11 +6,16 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - Lawn Care
+
 - Guides
 tags:
+
 - lawn-care
+
 - lawn
+
 - rust
 layout: post
 ---
@@ -100,4 +105,3 @@ By focusing on adequate fertilization (particularly nitrogen), proper watering t
 While fungicides offer a short-term solution for severe cases, addressing the underlying conditions that allow rust to flourish is the true path to a consistently vibrant, orange-stain-free lawn.
 
 Embrace these preventative measures, and your lawn will remain a testament to thoughtful and effective care.
-

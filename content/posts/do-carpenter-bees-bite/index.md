@@ -6,10 +6,14 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - Guide
 tags:
+
 - guide
+
 - carpenter
+
 - bee
 layout: post
 ---
@@ -25,4 +29,3 @@ To prevent carpenter bees from nesting in your home or garden, consider the foll
 ###  Conclusion
 
 Carpenter bees are typically harmless to humans and do not bite. While their nesting behavior can cause damage to wood, they are not aggressive and will only sting if provoked. Taking preventive measures, such as sealing wood and using repellents, can help avoid infestations and minimize the risk of damage.
-

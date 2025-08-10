@@ -6,11 +6,16 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - Fleas
+
 - Guide
 tags:
+
 - fleas
+
 - human
+
 - carry
 layout: post
 ---
@@ -90,4 +95,3 @@ While fleas **dont live on humans** like they do on pets, they **can hitch a rid
 - **Heat, repellents, and pet treatments**are the best prevention.
 
 By staying proactive, you can **avoid accidentally transporting fleas** to a new home!
-

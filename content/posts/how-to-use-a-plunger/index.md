@@ -6,11 +6,16 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - Drains
+
 - Guide
 tags:
+
 - drains
+
 - plunger
+
 - toilet
 layout: post
 ---
@@ -60,4 +65,3 @@ If plunging doesnt seem to unclog the sink or toilet, consider using a drain sna
 ##  **Sources:**
 
 1. [Plunger (Drain Unclogger) - Wikipedia](https://en.wikipedia.org/wiki/Plunger)2. [Plunger Definition of Plunger](https://www.merriam-webster.com/dictionary/plunger)
-

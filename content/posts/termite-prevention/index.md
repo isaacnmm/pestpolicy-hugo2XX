@@ -6,11 +6,16 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - Guide
+
 - Termites
 tags:
+
 - guide
+
 - termite
+
 - prevention
 layout: post
 ---
@@ -76,4 +81,3 @@ For the outdoor spaces, termite prevention is an equal tasking job for homeowner
 ##  Sources:
 
 1. [Termite Prevention and Control Methods - AG1154](https://www.uaex.edu/farm-ranch/pest-management/docs/training-manuals/AG1154.pdf)2. [Protecting your Home Against Termites Entomology](https://entomology.ca.uky.edu/ef605)
-

@@ -6,10 +6,14 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - Running shoes
 tags:
+
 - running-shoes
+
 - bad
+
 - knee
 layout: post
 ---
@@ -59,4 +63,3 @@ Ensure to stretch the calves, hamstrings, and quadriceps to maintain flexible jo
 It is essential, that, like every other intelligent runner, you keep your form in top shape to avoid hurting your bad knees.
 
 Having proper form reduces discomfort while you are running with bad knees. Therefore, youll require to lean forward slightly and ensure your knees remain bent thus offering your knees that required a natural cushion.
-

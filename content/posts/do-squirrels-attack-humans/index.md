@@ -6,11 +6,16 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - Guide
+
 - Squirrels
 tags:
+
 - guide
+
 - squirrel
+
 - attack
 layout: post
 ---
@@ -60,4 +65,3 @@ So, if you're not ready to allow the squirrels to leave your surrounding on thei
 ##  Conclusion
 
 Finally, on whether squirrels will attack humans; I answer to the affirmative that if provoked and they feel endangered squirrels will attack humans and pets equally in the house or in the backyard.
-

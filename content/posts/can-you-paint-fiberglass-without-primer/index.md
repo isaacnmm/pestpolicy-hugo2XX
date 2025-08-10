@@ -6,10 +6,14 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - DIY Paintings
 tags:
+
 - diy-paintings
+
 - fibergla
+
 - primer
 layout: post
 ---
@@ -53,4 +57,3 @@ Related: [Shoes for Painters](https://pestpolicy.com/best-shoes-for-painters/)
 *Poly-urethane and Epifanes Mono-urethan* e * Yacht Paint* offer the convenience of direct application on well-degreased and sanded fiberglass surfaces without the need for a separate primer. However, in situations where the fiberglass displays minor cracks, or irregularities, or has undergone filler application, using a primer is strongly recommended.
 
 The proper surface preparation, whether for direct application or primer use, is critical to achieving a durable, smooth, and aesthetically pleasing paint finish on fiberglass surfaces.
-

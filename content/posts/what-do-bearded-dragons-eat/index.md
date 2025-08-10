@@ -6,11 +6,16 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - Guide
+
 - Lizard
 tags:
+
 - guide
+
 - dragon
+
 - eat
 layout: post
 ---
@@ -164,4 +169,3 @@ Importantly, do not overfeed your dragon as they end up being docile.
 ##  Sources:
 
 1. [Your Weekly How To: How We Care For a Colony of Bearded Dragons](https://vetmed.illinois.edu/wel/your-weekly-how-to-how-we-care-for-a-colony-of-bearded-dragons/)
-

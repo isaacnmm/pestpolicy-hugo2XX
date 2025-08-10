@@ -6,11 +6,16 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - Guide
+
 - Lizard
 tags:
+
 - guide
+
 - bearded
+
 - dragon
 layout: post
 ---
@@ -136,4 +141,3 @@ So, can bearded dragons eat bananas? [Bearded dragons will not only eat](https:/
 Avoid banana species that have high sugar level, low glycemic index as well as low calcium: phosphorous ratio.
 
 Importantly, always engage qualified veterinary to provide medical checkups after every 3 months in case you often feed your beardie with bananas.
-

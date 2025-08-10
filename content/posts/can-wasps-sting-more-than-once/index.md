@@ -6,9 +6,12 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - Guide
+
 - Wasps
 tags:
+
 - guide
 layout: post
 ---
@@ -102,4 +105,3 @@ We hope that this detailed account on wasps helped you identify the symptoms of 
 ##  Sources:
 
 1. [Controlling Wasps, Hornets, and Yellowjackets Entomology](https://entomology.ca.uky.edu/ef620)2. [Wasps and bees UMN Extension](https://extension.umn.edu/insects-infest-homes/wasps-and-bees)
-

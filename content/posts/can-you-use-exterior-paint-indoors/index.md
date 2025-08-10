@@ -6,10 +6,14 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - DIY Paintings
 tags:
+
 - diy-paintings
+
 - paint
+
 - indoor
 layout: post
 ---
@@ -129,4 +133,3 @@ In consideration of paint selection, you can use exterior paint for your home in
 Moreover, Most exterior paints emit poisonous fumes that irritate the nasal cavity or affect the respiratory system when inhaled.
 
 It is recommended to stick to interior paint for indoor applications unless there is no other option. Remember, exterior paint fumes stay a long time and significantly affect allergic people when used indoor. When exterior paint is used indoors, proper ventilation should be done. Open rooms and theatres are the best places to use exterior paint indoors.
-

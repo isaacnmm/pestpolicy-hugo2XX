@@ -6,10 +6,14 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - Guide
 tags:
+
 - guide
+
 - leptospirosi
+
 - symptom
 layout: post
 ---
@@ -63,4 +67,3 @@ Preventing leptospirosis involves reducing the risk of exposure to contaminated 
 Leptospirosis is a potentially serious bacterial infection that can lead to a range of symptoms, from mild flu-like illness to life-threatening complications such as liver or kidney failure. It is typically contracted through contact with contaminated water or animal urine. Early diagnosis and treatment with antibiotics are essential for managing the disease and preventing long-term health issues.
 
 By following preventative measures and practicing good hygiene, you can reduce the risk of contracting leptospirosis and protect yourself from its potentially harmful effects.
-

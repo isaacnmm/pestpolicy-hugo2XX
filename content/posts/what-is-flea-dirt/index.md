@@ -6,11 +6,16 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - Fleas
+
 - Guide
 tags:
+
 - fleas
+
 - flea
+
 - dirt
 layout: post
 ---
@@ -56,4 +61,3 @@ For your cats and dogs, I would recommend using various [flea treatment](https:/
 ##  **Sources:**
 
 1. [NCBI - Comparison of Two Techniques for the Detection of Flea Faeces](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4227412/).2. [PetMed - Flea Dirt How to Get Rid of It](https://www.petmd.com/dog/parasites/what-flea-dirt)3. [Comparison of Two Techniques for the Detection of Flea Faeces in Canine and Feline Coat Brushings](https://www.hindawi.com/journals/tswj/2014/292085/)
-

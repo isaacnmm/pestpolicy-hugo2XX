@@ -6,10 +6,14 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - DIY Paintings
 tags:
+
 - diy-paintings
+
 - dry
+
 - paint
 layout: post
 ---
@@ -28,13 +32,11 @@ Turpentine solvents contain active ingredients that break down both latex and pa
 
 - Tools and Materials Required - Turpentine and spray bottle - Hot water and an empty bucket - Dish soap and white piece of cloth - Protective gear boots, respirator, overall, gloves, and goggles *Steps to Follow* - Wear protective gear (boots, gloves, overalls, and respirator) for personal safety - Dilute turpentine in a bucket sufficiently - Using a piece of white cloth, apply turpentine over the stained section - Leave the paint to quench for 5 minutes - Use a utility knife and remove cured paint gently - Dip a white piece of cloth in turpentine and soak sufficiently - Then, blot the paint stain slightly do not rub - Repeat the steps above until the entire surface is cleaned - Mix dish soap with hot water and put it in a spray bottle - Spray the cleaned surface to remove the traces of Turpentine - Wash the section with water and dry the carpet under the sun.
 
-
 ###  Method 2: Using Hairspray
 
 Hairspray generates heat that quenches the dried paint and hence making it more comfortable to clean.
 
 The tools and materials required - Hairspray and Power source - Absolutely Clean Laundry and a spray bottle - Water and piece of cloth - Utility knife and protective gear - Vacuum cleaner *Steps to Follow* - Connect the Hairspray to a power source and switch on - Let the hairspray heat for sometimes - Then, run the Hairspray over the surface gently heat the dried paint - Using a utility knife, get rid of cured paint be careful not to destroy carpet material - Repeat the previous steps until the entire paint is remove - Dilute dish soap sufficiently and put it in a spray bottle - Rinse over the paint clean section and wash with clean water - Vacuum the surface (using a vacuum cleaner) to dryness prevents mildew formation NB: Be careful when using the Hairspray in order not to damage your carpet during the paint removal process.
-
 
 ###  Method 3: Using Denatured Alcohol or Isopropyl alcohol
 
@@ -59,7 +61,6 @@ The tools and materials required include; - Absolutely Clean Laundry and water p
 Goo Gone is a commercial solvent that features natural active ingredients, which work instantly upon application without affecting the carpet material. The solvent can be used to remove dried or wet acrylic/latex paint.
 
 The tools and materials required; - Goo Gone you can get it from Amazon - Dish soap and an empty bucket - Waterpoint and piece of cloth - Spray bottle and utility knife *Steps to Follow* - Using Goo Gone, spray over dried paint sufficiently - Leavethe paint to quenchfor 5 minutes or otherwise advised by the manufacturer - Using a utility knife, remove cured paint gently - Repeat the previous step until the entire paint is removed - Dilute Absolutely Clean Laundry and wash the paint cleaned section - Rinse the section with clean water and leave the carpet to dry over the sun - Alternatively, you can vacuum the cleaned section until the carpet is dry.
-
 
 ##  Process of Cleaning Various Sections of Paint Stained Carpet
 
@@ -104,4 +105,3 @@ In conclusion, on how to remove dry paint from a carpet, you can either use laun
 During the paint removal process, ensure the solvent is thinned or diluted appropriately (follow manufacturers instructions).
 
 Dont use highly concentrated paint removers as they may bleach your carpet. For your own personal safety, wear protective gear and stick to instructions/precautions highlighted in this article. Importantly, contract a professional paint remover if you are new to the carpet cleaning process.
-

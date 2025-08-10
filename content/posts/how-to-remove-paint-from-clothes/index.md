@@ -6,10 +6,14 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - DIY Paintings
 tags:
+
 - diy-paintings
+
 - paint
+
 - clothe
 layout: post
 ---
@@ -55,7 +59,6 @@ Hairspray contains a chemical formulation that breaks down latex and acrylic pai
 **Items Required** - [Hairspray](https://www.amazon.com/dp/B07NFQTB5G/?
 
 tag=p-policy-20)from Amazon - 3 liters of warm water - Hand gloves - Soap detergent **Procedure to follow** - Wear hand groves and carry point spray over the paint stain area to ascertain the performance - Gently apply hairspray over the paint-stained area entirely - Leave it for 7 minutes to cure - Soak the stained area with warm water and soap to remove hairspray traces - Rinse with clean water to dryness Hairspray works best for wet and dried latex paint.
-
 
 ###  [5. Washing machine and Warm water](https://www.amazon.com/dp/B089YSKJY6/?tag=p-policy-20)
 
@@ -108,4 +111,3 @@ Mix a tablespoon of baking powder with vinegar/mineral spirit and rub gently (wi
 Removing paint from your clothe requires proper method selection and procedure, whether dried or wet paint, the type of paint under removal should be noted and appropriately accorded. Moreover, the surface area is a critical factor that determines the quantity of paint needed. You can acquire commercially available paint stain removers or homemade paint removers such as dish soap, baking powder, and vinegar.
 
 You can remove paint using hairspray, rubbing alcohol/isopropyl alcohol, blot with non-acetone nail polish, liquid laundry detergent, stain with turpentine, Goo Gone, or washing machine and warm water.
-

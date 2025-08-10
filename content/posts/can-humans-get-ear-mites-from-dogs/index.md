@@ -6,11 +6,16 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - Guide
+
 - Mites
 tags:
+
 - guide
+
 - human
+
 - ear
 layout: post
 ---
@@ -92,4 +97,3 @@ For your pets' safety, ensure you get a prescription from a qualified veterinari
 Ear mites can be transmitted from dogs to humans through direct contact or when the animal shakes its head. Unlike in dogs, ear mites won't survive in human hosts for long. So you don't expect them to have any symptomatic effects on humans within the short stay. Compared to other mite infections, ear mites are less severe. Their impact on dogs and other pets will depend on the severity of the disease.
 
 However, with proper animal husbandry and expert treatment, you can quickly get rid of them and prevent future infestation.
-

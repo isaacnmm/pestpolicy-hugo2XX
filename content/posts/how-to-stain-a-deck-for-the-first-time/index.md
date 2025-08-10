@@ -6,10 +6,14 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - DIY Paintings
 tags:
+
 - diy-paintings
+
 - deck
+
 - time
 layout: post
 ---
@@ -51,4 +55,3 @@ Additionally, make sure to follow the manufacturer's instructions and warnings o
 Remember to work in small sections, use the right tools and products, and follow the manufacturer's instructions for best results.
 
 And most importantly, take the necessary safety precautions to ensure that the job is done safely and efficiently.
-

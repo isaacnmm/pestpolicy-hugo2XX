@@ -6,11 +6,16 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - Flies
+
 - Product Reviews
 tags:
+
 - flies
+
 - pyranha
+
 - wipe
 layout: post
 ---
@@ -54,4 +59,3 @@ Despite all the love I have for this spray, below I outline some of the cons I e
 Second, some horse owners may not like the smell (the strong citronella scent we discussed earlier) of this PYRANHA Wipe N Sprayproduct.
 
 However, this is not the case with all of us out here the best you can do is to test it as you night also love the citronella scent like myself.
-

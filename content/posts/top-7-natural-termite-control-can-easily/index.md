@@ -6,11 +6,16 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - Guide
+
 - Termites
 tags:
+
 - guide
+
 - natural
+
 - termite
 layout: post
 ---
@@ -78,4 +83,3 @@ remedies guarantee maximum safety because they dont contain harmful chemicals.
 ##  Sources:
 
 1. NCBI -Termite Resistance of MDF Panels Treated with Various Boron Compounds 2. [Disodium Octaborate tetrahydrate - Wikipedia](https://en.wikipedia.org/wiki/Disodium_octaborate_tetrahydrate)3. [Drywood Termites -General Biology](https://extension.arizona.edu/sites/extension.arizona.edu/files/pubs/az1232.pdf)
-

@@ -6,10 +6,14 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - Guide
+
 - Raccoons
 tags:
+
 - guide
+
 - raccoon
 layout: post
 ---
@@ -117,4 +121,3 @@ After trying other solutions to no avail, there's finally one that works: Predat
 In summary, on the question "what smells do Raccoons hate? " the answer has been found.
 
 Here are a few smells that Raccoons hate: - - citronella, Hot Pepper, Onions, lavender, predator urine, peppermint essential oils, and Eviction fluid. I hope this article was informative and that you found a solution to your raccoon problem. For more information, or if you have any questions please leave me a comment below.
-

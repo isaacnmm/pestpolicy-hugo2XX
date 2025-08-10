@@ -6,11 +6,16 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - Drains
+
 - Product Reviews
 tags:
+
 - drains
+
 - drain
+
 - septic
 layout: post
 ---
@@ -54,4 +59,3 @@ I would say that Bio-clean, as they are just natural bacteria and enzymes, wont 
 Further, it wont eat away any live tissue as hence its safe for yourself, your kids, or pets in addition to being eco-friendly.
 
 Further, the products of its action are only mineral ash, water, and carbon dioxide. The mineral ash must not make you worry as it's safe and even helps aid plant development.
-

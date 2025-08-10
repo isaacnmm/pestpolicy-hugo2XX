@@ -6,10 +6,14 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - Guitar
 tags:
+
 - guitar
+
 - best
+
 - short
 layout: post
 ---
@@ -40,7 +44,6 @@ It'll work great for unconventional style and garage rock.
 
 Fender Mustang 90 has a compact shape that makes it highly playable for kids or people with small hands. Also, it's great for being easy to play has low action and short frets. Also, its highly portable and light with a 9. 5-inch fretboard radius.
 
-
 ###  [3. Gibson SG Special 2016 T Electric Guitar, Satin Cherry - #3 Pick](https://www.amazon.com/dp/B00843AA2S/?tag=p-policy-20)
 
 Next up is the Gibson SG Special 2016 T, which in simple terms is durable, sturdy, and lightweight rock guitars. It allows versatile pickups with its great classic finish (a combination of modern and vintage).
@@ -66,4 +69,3 @@ In addition, for faster attack and tighter low-end, the guitar has alnico 5s mag
 ##  Conclusion
 
 Why short scale electric guitars - portability, comfort, sound, and string tension. It has a 4-piece mahogany build that has Wilkinson 14: 1 tuner and 500k O pots that have superior quality.
-

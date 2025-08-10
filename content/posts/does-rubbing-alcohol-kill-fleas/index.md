@@ -6,11 +6,16 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - Fleas
+
 - Guide
 tags:
+
 - fleas
+
 - doe
+
 - rubbing
 layout: post
 ---
@@ -74,4 +79,3 @@ Though this is not used to control fleas, Aloe Vera gel is used to ease the bite
 Does rubbing alcohol kill fleas? Yes, it does. However, it is not the best for use when controlling fleas at home and from your pest. It is highly flammable and also could cause poisoning and fatalities in your pets. - If you have a flea infestation in your home or pets, I would recommend better and safer ways of controlling them than using rubbing alcohol.
 
 Also, if your pet is having you have to try Aloe Vera gel among other alternatives to ease the pain and itching from the flea bites.
-

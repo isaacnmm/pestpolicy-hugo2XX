@@ -6,11 +6,16 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - Ants
+
 - Guide
 tags:
+
 - ants
+
 - sugar
+
 - ant
 layout: post
 ---
@@ -88,4 +93,3 @@ Luckily, professionals are increasingly discrete, and are typically able to reso
 ##  Sources:
 
 1. [Banded sugar ant - Wikipedia](https://en.wikipedia.org/wiki/Black-headed_sugar_ant)2. [Life-history evolution in ants: the case of Cardiocondyla - NCBI](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5360909/)3. [Black-headed sugar ant - Wikipedia](https://en.wikipedia.org/wiki/Black-headed_sugar_ant)4. [Food preference and foraging activity of ants - NCBI](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4206238/)
-

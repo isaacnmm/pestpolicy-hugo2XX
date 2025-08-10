@@ -6,11 +6,16 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - Guide
+
 - Molds
 tags:
+
 - guide
+
 - purification
+
 - tablet
 layout: post
 ---
@@ -63,8 +68,6 @@ If you need to kill pathogens and viruses in your water during disasters such as
 
 Further, the tablets will kill viruses and purify even pond or well water to make it ready for human beings' drinking.
 
-
 ##  Conclusion
 
 So, do water purification tablets kill viruses? Yes, these water purification tablets, particularly chlorine or iodine-based water, will kill most water micro-organisms, including viruses and various types of water-borne bacteria.
-

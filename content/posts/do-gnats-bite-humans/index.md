@@ -6,11 +6,16 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - Gnats
+
 - Guide
 tags:
+
 - gnats
+
 - gnat
+
 - bite
 layout: post
 ---
@@ -118,4 +123,3 @@ Contrary, male gnats feed on flower nectar and other plant juice hence, they won
 The gnat bites appear like tiny reddish spots/marks with medium size swellings on your skin. The swellings are very painful and itchy (especially when scratched). The pain and swelling may take over a week to heal. More so, gnat bite will transmit diseases such as river blindness, carrison, sandy fever among others. Therefore, preventive measures highlighted in this article should be put into place.
 
 Importantly, seek medical attention instantly in case you get bitten by gnats and the condition is deteriorating.
-

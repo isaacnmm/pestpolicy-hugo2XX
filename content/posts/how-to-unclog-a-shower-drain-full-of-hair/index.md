@@ -6,11 +6,16 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - Drains
+
 - Guide
 tags:
+
 - drains
+
 - shower
+
 - drain
 layout: post
 ---
@@ -60,4 +65,3 @@ Therefore, if you think any oils are not safe to pour down the kitchen sink, the
 Further, you'll need to have some safe
 
 [soap dish](https://www.amazon.com/dp/B0051T92C2/?tag=p-policy-20)since the soap (dropped down the drain) can help form large hair clogs. It goes without saying too that soap that lies around carelessly could cause slippage accidents.
-

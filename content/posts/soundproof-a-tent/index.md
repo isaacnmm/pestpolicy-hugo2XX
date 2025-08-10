@@ -6,10 +6,14 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - Soundproofing
 tags:
+
 - soundproofing
+
 - easy
+
 - tent
 layout: post
 ---
@@ -40,7 +44,6 @@ Thistip is aimed more for those who will be living in a tent for at least a fewd
 
 The bases of this theory are about using the sound waves from the source to counteract that of another. If you use a speaker and point it to the direction in which the sounds are coming from your sound waves should in effect stop the other noises from reaching your tent. The only downfall to this is that you will need to have noise in order to council out the other noise and depending on the frequencies and volumes it may not always work.
 
-
 ###  6. Curtains
 
 Thereare some great curtains on the market which are thick and designed to help blockout sound and light. You could always purchase your desired curtains and hangthem in your tent having them act as a sound barrier.
@@ -52,4 +55,3 @@ For a quick and easier solution, you could always try a white noise machine. The
 ###  8. Earplugs
 
 If you are looking for a solution that is cheap, takes no the to set up, easy to use, lightweight, and can be even carried on a small bag than I would suggest the simplicity of earplugs. You can not go wrong with these, to me they are one of the most effective ways to cancel out noise - or try [cheap but quality earbuds](https://pestpolicy.com/best-earbuds-under-50/).
-

@@ -6,9 +6,12 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - DIY Paintings
 tags:
+
 - diy-paintings
+
 - primer
 layout: post
 ---
@@ -104,4 +107,3 @@ Newly manufactured metal or plastic structures can be painted after priming to b
 To wide up, on what happens if you dont paint over primer, you will experience low paint adhesion, non-uniformity between paint color and sheen, while the surface demands several coats before attaining an excellent finish. Besides, the low stickiness action initiates peeling and scuffing, while uneven surface coating may lead to chipping or flaking. Further, the finish coat is easily damaged and causes uncalled-for leakages.
 
 Notably, the unprimed surface has low service life and poor outlook appearance. To attain a quality paint finish, you must select the right primer, match the finish paint correctly, and prepare the solvents according to the manufacturers instructions.
-

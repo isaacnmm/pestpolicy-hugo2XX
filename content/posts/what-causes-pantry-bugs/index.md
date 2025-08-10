@@ -6,11 +6,16 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - Guide
+
 - Moths
 tags:
+
 - guide
+
 - pantry
+
 - bug
 layout: post
 ---
@@ -82,4 +87,3 @@ If you are still wondering what causes pantry bugs, now you know. Next time you 
 - That said and done, if an infestation occurs, use traps and other techniques to rid them.
 
 Though the bugs are barely harmful, they should not be entertained within the pantry area
-

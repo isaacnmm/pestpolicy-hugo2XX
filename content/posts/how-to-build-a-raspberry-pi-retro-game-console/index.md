@@ -6,10 +6,14 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - Raspberry Pi 3
 tags:
+
 - raspberry-pi-3
+
 - raspberry
+
 - retro
 layout: post
 ---
@@ -77,4 +81,3 @@ To copy the game ROMs, you'll now link the Raspberry Pi with the PC, which will 
 ###  9. Set up controller and searchGame ROMs
 
 For your retro game controller to function with the Raspberry Pi, you'll need to set up the USB controller. - For your retro gaming, you'll need to visit[sites](MAMEdev.org)that offer legal and priceless ROMs that you can download to your device. You can install the ROMs through a USB thumb drive or SFTP/ SSH or other [methods](https://github.com/retropie/retropie-setup/wiki).
-

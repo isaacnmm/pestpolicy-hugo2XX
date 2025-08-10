@@ -6,11 +6,16 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - Fleas
+
 - Guide
 tags:
+
 - fleas
+
 - flea
+
 - drown
 layout: post
 ---
@@ -72,4 +77,3 @@ Swimming does not kill the fleas in the dogs fur. Most river or lake water is no
 Do fleas drown in water? An outright yes. But, this does not happen with all types of water. For normal water, they may not drown because of the presence of surface tension and also because of their anatomy. Fleas float on normal water and can survive up to 7 days but when they drown, they may take up to 24 hours before they drown and die.
 
 If you add dish soap, to any normal water, it destroys the surface tension and also destroys the cuticle that makes fleas survive for long before they drown.
-

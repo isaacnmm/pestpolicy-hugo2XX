@@ -6,11 +6,16 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - DIY Paintings
+
 - Guide
 tags:
+
 - diy-paintings
+
 - enamel
+
 - paint
 layout: post
 ---
@@ -122,4 +127,3 @@ Having read this article on what is enamel paint used for, I believe that you ca
 But, this can only be carried out on surfaces and materials that are compatible with enamel paint as highlighted in this article.
 
 Moreover, you will need to match a particular form of enamel paint with the nature of the surface under paint application/restoration. Importantly, stick to Dos and DONT of enamel paint highlighted in this article in order to achieve the best surface finish.
-

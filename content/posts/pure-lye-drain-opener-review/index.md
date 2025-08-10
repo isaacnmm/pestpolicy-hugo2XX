@@ -6,11 +6,16 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - Drains
+
 - Product Reviews
 tags:
+
 - drains
+
 - pure
+
 - lye
 layout: post
 ---
@@ -50,4 +55,3 @@ Although PVC pipes can resist corrosion from the lye chemical, weve noted that i
 ####  **Caustic Lye**
 
 As noted above, lye is a caustic alkali base with its pH being 7. 0 or more. Therefore, despite not being an acid, a strong chemical concentration would still corrode the PVC pipes. Notably, some of the lye cleaners will be mixed with different quantities of aluminum.
-

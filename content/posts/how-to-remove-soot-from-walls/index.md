@@ -6,10 +6,14 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - DIY Paintings
 tags:
+
 - diy-paintings
+
 - soot
+
 - wall
 layout: post
 ---
@@ -28,7 +32,6 @@ Wear personal protective gear ( for safety purposes) and stick to precautions hi
 
 **Tools and Materials required** - Trisodium phosphate (TSP) - Soapy detergent and warm water - Empty Bucket and cloth or rag - Waterpoint and Stirrer - Protective gear goggles, Respirator, overall, gloves, and boots **Steps to Follow** - Wear protective gear boots, dustcoat, goggles, respirator, and gloves - Cover the floor with a polyethylene bag - Prepare TSP in the bucket follow manufacturers instructions - Dip a piece of cloth in TSP solution and start scrubbing over the soot-stained wall - gently - Repeat the previous steps until the soot is cleaned completely - Then, wash the wall with soapy detergent and warm water to remove traces of TSP and soot remains - Rinse the surface with clean water and leave it to dry NB: For very old soot stain, consider a scrubbing machine to aid in soot removal upon TSP application.
 
-
 ###  Method 2: Rubbing Alcohol and Melamine Sponge
 
 Rubbing alcohol is suitable for resenting soot stains as its action capability is mild. The active ingredients in alcohol break soot forming a thick fluid, which is easier to clean.
@@ -43,7 +46,6 @@ Commercial soot remover such as Rutland 100B, contains active components, which 
 
 **Tools and Materials required** - Commercial soot remover like Rutland 100B from Amazon - Protective gear - Water and sponge - Empty buckets - 2 **Steps to Follow** - Prepare a commercial soot remover (as per the manufacturers instructions) - Using a sponge, apply the solvent over the soot surface and leave it to cure for the time specified by the manufacturer - Then, scrub the wall with a rug until the soot is completely removed - Mop the wall with soapy water and rinse it with clean water - Leave the surface to dry NB: Dont smell commercial soot remover directly the solvent contains components, which may irritate your nasal cavity if inhaled.
 
-
 ###  Method 4: Sandblasting and Detergent
 
 A sandblaster is an efficient method of cleaning old soot from the wall without damaging primary surface material the sandblaster removers the soot layer excellently provided the proper procedure is adhered to.
@@ -55,7 +57,6 @@ A sandblaster is an efficient method of cleaning old soot from the wall without 
 The vacuuming method is suitable for the removal of recent soot stains the vacuum machine sucks the soot particles from the surface thus detaching them from the wall. Detergent is used to loosen permanent soot stains (makes soot easier to remove).
 
 The tools and materials required: - Vacuum machine and detergent - Waterpoint and empty bucket - A piece of cloth and sponge - Protective attire **Steps to Follow** - Plug the vacuum machine into the power source and switch on - Gently, pass the vacuum machine over the wall surface under soot staining to suck soot - Repeat the movement back and forth - Dilute the soapy detergent in a bucket and wash the wall surface to clean any soot traces - Rinse the wall with clean water and leave it to dry to touch NB: Dont vacuum wet soot it may damage the vacuum machine.
-
 
 ###  Method 5: Degreaser and warm water
 
@@ -105,10 +106,8 @@ Contract a professional soot remover if you are new to the soot removal process 
 
 Before using commercial soot removers, always check the expiry date never use an expired product.
 
-
 ##  Conclusion
 
 To summarize, on how to remove soot from walls, you can either use trisodium phosphate, rubbing alcohol and melamine sponge, commercial soot remover, sandblasting and detergent, vacuuming or using a degreaser. Besides, you can opt to consider homemade soot removers like mineral spirit, baking soda, vinegar, or dish soap solution, which work sufficiently well.
 
 However, during the soot removal process, prepare the solvent appropriately (follow manufacturers instruction) and avoid excess application as it may cause overspread of soot to adjacent areas.
-

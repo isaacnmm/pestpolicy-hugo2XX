@@ -6,9 +6,12 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - Guide
 tags:
+
 - guide
+
 - car
 layout: post
 ---
@@ -54,4 +57,3 @@ If the cars surface has any bare metal spots or if youre painting over a particu
 ##  Conclusion
 
 Sanding a car before painting may take time and effort, but its a critical step to ensure that the paint adheres properly and that the final finish is smooth and professional-looking. By following these steps and using the right materials, you can achieve a high-quality paint job that will last for years to come.
-

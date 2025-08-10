@@ -6,11 +6,16 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - Flies
+
 - Guide
 tags:
+
 - flies
+
 - horse
+
 - flie
 layout: post
 ---
@@ -72,4 +77,3 @@ Depending on the number of horses youll be treated, you must consider the type o
 ##  Conclusion
 
 Youll need to consider the number of days that the repellent or fly killer will be effective on your horse - horse flies are mainly active from May to September. - For example, UltraShield EX Equine Spray will repel horse flies for seven days.
-

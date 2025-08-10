@@ -6,11 +6,16 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - Guide
+
 - Lizard
 tags:
+
 - guide
+
 - bearded
+
 - dragon
 layout: post
 ---
@@ -64,4 +69,3 @@ Although bearded dragons eat broccoli, they should be given very small amounts o
 ##  Sources:
 
 1. Tosney's Bearded Dragon Care
-

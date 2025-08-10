@@ -6,10 +6,14 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - Guide
+
 - Spiders
 tags:
+
 - guide
+
 - spider
 layout: post
 ---
@@ -69,4 +73,3 @@ To control the arthropods, use spider foggers. But these will be kept open using
 ##  Sources:
 
 1. [Respiratory gut peristalsis by seaspiders](https://www.sciencedirect.com/science/article/pii/S0960982217306280)2. [Virtualspidersraise realheartrates](http://www.diva-portal.org/smash/record.jsf?pid=diva2:871756)
-

@@ -6,11 +6,16 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - Guide
+
 - Wasps
 tags:
+
 - guide
+
 - queen
+
 - wasp
 layout: post
 ---
@@ -174,4 +179,3 @@ However, the colors are brighter as compared to those for drones and workers. Qu
 ##  Sources:
 
 1. [How Does a Wasp Become Queen? Live Science](https://www.livescience.com/32703-how-does-a-wasp-become-queen-.html)2. [Yellowjacket ControlNow is the Best Time to Do It](https://web.extension.illinois.edu/hortihints/0204c.html)
-

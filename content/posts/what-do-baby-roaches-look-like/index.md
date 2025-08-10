@@ -6,11 +6,16 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - Cockroaches
+
 - Guide
 tags:
+
 - cockroaches
+
 - baby
+
 - roache
 layout: post
 ---
@@ -110,4 +115,3 @@ Notably, the nymphs and shells may be dropped on many locations in your house - 
 ##  Conclusion
 
 To control baby roaches: apply an IGR pesticide using a sprayer, treat the home with Gentrol (an IGR to kill juveniles and nymphs) plus DemonWP (kills in seconds) and set up [roach killers and traps](https://pestpolicy.com/best-roach-killer-for-apartments/)(like Catchmaster) with fatty or sugar baits.
-

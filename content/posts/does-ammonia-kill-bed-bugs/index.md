@@ -6,11 +6,16 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - Bed Bugs
+
 - Guide
 tags:
+
 - bed-bugs
+
 - â€‹â€‹doe
+
 - ammonia
 layout: post
 ---
@@ -56,4 +61,3 @@ For example, bleach (which is chlorine) combines with ammonia to produce [chlora
 However, tri-chloramine (the toxic fumes) is known to be highly poisonous and would harm your respiratory system.
 
 Other health effects of Chloramine poisoning (from the ammonia and bleach reaction) include pneumonia, wheezing or sneezing, nausea, and chest pains. Therefore, if you get Chloramine poisoning, you must seek immediate medical attention.
-

@@ -6,11 +6,16 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - Guide
+
 - Spiders
 tags:
+
 - guide
+
 - spider
+
 - flush
 layout: post
 ---
@@ -114,4 +119,3 @@ Some of the methods include using tobacco, borax, and cedar oil.
 ##  Sources:
 
 1. [Rearing environment affects behaviour of jumpingspiders](https://www.sciencedirect.com/science/article/pii/S0003347299912824)2. [You can save thatspider! ](https://search.informit.com.au/documentSummary;dn=418204111735627;res=IELHSS)3. [Brown reclusespiders](https://books.google.com/books?hl=en&lr=&id=OCypCwAAQBAJ&oi=fnd&pg=PA412&dq=Drown+a+Spider&ots=kd5m99dhqM&sig=2ROtbsX_vuflVmjH85zaFbgitb4)
-

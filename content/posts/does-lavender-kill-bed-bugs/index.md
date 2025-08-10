@@ -6,11 +6,16 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - Bed Bugs
+
 - Guide
 tags:
+
 - bed-bugs
+
 - doe
+
 - lavender
 layout: post
 ---
@@ -58,4 +63,3 @@ Interestingly, these Lavender producers might not also be using the real Lavende
 ##  Sources:
 
 1. [Rutgers Study - Home Treatments for Bed Bugs](https://citybugs.tamu.edu/2014/12/18/diy-bed-bug-control/)
-

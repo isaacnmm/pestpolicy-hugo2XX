@@ -6,11 +6,16 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - Cockroaches
+
 - Product Reviews
 tags:
+
 - cockroaches
+
 - harri
+
 - boric
 layout: post
 ---
@@ -52,4 +57,3 @@ However, you must follow the product label instructions before using this boric 
 ##  **Sources:**
 
 1. [Boric Acid NPIC](http://npic.orst.edu/factsheets/boricgen.html#cancer).2. [Boric Acid Pesticide - Roach Control](https://entomology.ca.uky.edu/ef614).
-

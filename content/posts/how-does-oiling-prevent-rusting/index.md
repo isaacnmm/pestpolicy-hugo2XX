@@ -6,10 +6,14 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - DIY Paintings
 tags:
+
 - diy-paintings
+
 - oiling
+
 - prevent
 layout: post
 ---
@@ -43,7 +47,6 @@ Indeed, oil is less dense than water; thus, it will always float when put togeth
 The resistive properties of the oil layer guarantee continuous rust prevention upon application. Further, oil molecules are self-leveling (they fill any cleaned section to prevent rust from occurring at that particular part). The subject of aging should be considered since oil is more susceptible to aging and often lose its activeness with time, especially when exposed to conditions such as dust and other impurities.
 
 Old oil should be removed from the metal surface and replaced with a new oil coat in order to improve the metals service life as well as keep off rust completely.
-
 
 ###  c. How to apply oil on metal
 
@@ -132,4 +135,3 @@ Using iron alloy such as stainless steel is the best way of preventing rusting s
 The question, how does oiling prevent rusting has been discussed in-depth in this article not only to add to the knowledge bank but also to boost your rust prevention tactics. Rust is generally known as corrosion or oxidation of iron metal in presence of water and oxygen. The reddish-brown substance you saw on naked metal is actually rust. Oiling metal prevents rusting by forming an oil coat layer that resists water and oxygen penetration.
 
 Moreover, the oil coat prevents other external conditions, which accelerates the rusting process, from reaching the metal surface. Alternatively, you can also prevent rusting by painting, galvanizing, VCI packaging, blueing, sacrificial protection, or alloying. Remember, you must consider the surface or parts that you want to prevent rusting for easier method matching.
-

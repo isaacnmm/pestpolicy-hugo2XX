@@ -6,10 +6,14 @@ date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
+
 - DIY Paintings
+
 - Guide
 tags:
+
 - diy-paintings
+
 - deck
 layout: post
 ---
@@ -105,4 +109,3 @@ Leave the sealed surface to dry naturally. You can sprinkle water over the seale
 In summary, on how to refinish a deck, you begin by selecting the material and tools required, pre-cleaning the surface, stripping old paint, sanding, washing, repairing, and filling damaged sections before carrying out final polishing. - Further, you need to choose and prepare deck stain appropriately, re-stain the deck, select and prepare the finish paint, and re-paint the deck (using a roller or a paintbrush).
 
 In order to achieve a quality deck finish, its advisable to consider sealing the finish paint coat with Thompsons sealer.
-
