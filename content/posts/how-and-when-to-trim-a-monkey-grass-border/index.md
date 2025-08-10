@@ -6,7 +6,8 @@ slug: /how-and-when-to-trim-a-monkey-grass-border/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
-categories: Gardening
+categories:
+- Gardening
 - Landscaping
 - Guide
 tags:

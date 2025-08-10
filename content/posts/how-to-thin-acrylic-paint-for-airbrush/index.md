@@ -6,7 +6,8 @@ slug: /how-to-thin-acrylic-paint-for-airbrush/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
-categories: Guide
+categories:
+- Guide
 tags:
 - guide
 - thin

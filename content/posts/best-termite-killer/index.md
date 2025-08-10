@@ -5,7 +5,8 @@ slug: /best-termite-killer/
 date: 2025-08-09 00:00:00+00:00
 lastmod: 2025-08-09 00:00:00+00:00
 author: Isaac
-categories: Termites
+categories:
+- Termites
 - Product Reviews
 tags:
 - termites

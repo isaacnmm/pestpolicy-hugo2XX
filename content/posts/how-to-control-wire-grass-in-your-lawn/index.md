@@ -7,7 +7,8 @@ slug: /how-to-control-wire-grass-in-your-lawn/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
-categories: Lawn Care
+categories:
+- Lawn Care
 - Weed Control
 - Guides
 tags:

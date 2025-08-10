@@ -6,7 +6,8 @@ slug: /how-to-apply-caulking-in-hard-to-reach-places/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
-categories: Home Maintenance
+categories:
+- Home Maintenance
 - Guides
 tags:
 - home-maintenance

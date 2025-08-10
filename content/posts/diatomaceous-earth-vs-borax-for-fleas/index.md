@@ -6,7 +6,8 @@ slug: /diatomaceous-earth-vs-borax-for-fleas/
 date: 2025-08-03 00:00:00+03:00
 lastmod: 2025-08-03 00:00:00+03:00
 author: Isaac
-categories: Flea Control
+categories:
+- Flea Control
 - DIY Pest Control
 tags:
 - flea-control

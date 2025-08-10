@@ -6,7 +6,8 @@ slug: /are-soundbars-worth-it/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
-categories: Guide
+categories:
+- Guide
 - Soundbars
 tags:
 - guide

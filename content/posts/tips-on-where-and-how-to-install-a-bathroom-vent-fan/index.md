@@ -6,7 +6,8 @@ slug: /tips-on-where-and-how-to-install-a-bathroom-vent-fan/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
-categories: Home Improvement
+categories:
+- Home Improvement
 - Bathroom
 - HVAC
 tags:

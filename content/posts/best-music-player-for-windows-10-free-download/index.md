@@ -6,7 +6,8 @@ slug: /best-music-player-for-windows-10-free-download/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
-categories: Motherboards
+categories:
+- Motherboards
 tags:
 - motherboards
 - music

@@ -6,7 +6,8 @@ slug: /paver-patio-sitting-wall-make-for-a-backyard-paradise/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
-categories: Landscaping
+categories:
+- Landscaping
 - Outdoor Living
 - Guides
 tags:

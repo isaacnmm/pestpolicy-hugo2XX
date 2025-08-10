@@ -6,7 +6,8 @@ slug: /dont-use-vinegar-and-baking-soda-to-clean-clogged-drains/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
-categories: Drains
+categories:
+- Drains
 - Guide
 tags:
 - drains

@@ -6,7 +6,8 @@ slug: /rustoleum-galvanized-metal-primer/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
-categories: Paint
+categories:
+- Paint
 - Product Reviews
 tags:
 - paint

@@ -6,7 +6,8 @@ slug: /best-swing-sets-for-small-backyards/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
-categories: Swing Sets
+categories:
+- Swing Sets
 tags:
 - swing-sets
 - set

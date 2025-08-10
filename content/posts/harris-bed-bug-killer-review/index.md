@@ -7,7 +7,8 @@ slug: /harris-bed-bug-killer-review/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
-categories: Bed Bugs
+categories:
+- Bed Bugs
 - Product Reviews
 tags:
 - bed-bugs

@@ -6,7 +6,8 @@ slug: /why-flea-trap-is-not-working/
 date: 2025-08-05 00:00:00+00:00
 lastmod: 2025-08-05 00:00:00+03:00
 author: Isaac
-categories: Fleas
+categories:
+- Fleas
 - Guides
 tags:
 - flea-trap

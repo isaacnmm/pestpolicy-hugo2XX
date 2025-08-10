@@ -6,7 +6,8 @@ slug: /how-to-monitor-flea-infestation-level-with-traps/
 date: 2025-08-03 00:00:00+00:00
 lastmod: 2025-08-03 00:00:00+03:00
 author: Isaac
-categories: Fleas
+categories:
+- Fleas
 - Guides
 tags:
 - flea-trap

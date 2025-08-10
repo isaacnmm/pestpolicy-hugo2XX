@@ -7,7 +7,8 @@ slug: /how-long-does-it-take-for-borax-to-kill-ants/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
-categories: Ants
+categories:
+- Ants
 - Guide
 tags:
 - ants

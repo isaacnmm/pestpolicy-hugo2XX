@@ -7,7 +7,8 @@ slug: /how-to-camp-out-in-your-backyard/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
-categories: Backyard Games
+categories:
+- Backyard Games
 tags:
 - backyard-games
 - ultimate

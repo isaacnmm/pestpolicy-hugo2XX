@@ -6,7 +6,8 @@ slug: /how-to-grow-crape-myrtles-from-seed/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
-categories: Gardening
+categories:
+- Gardening
 - Plants and Flowers
 - Guides
 tags:

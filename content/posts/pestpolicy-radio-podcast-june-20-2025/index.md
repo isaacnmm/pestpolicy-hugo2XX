@@ -6,7 +6,8 @@ slug: /pestpolicy-radio-podcast-june-20-2025/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: PestPolicy Radio Team
-categories: Home Improvement
+categories:
+- Home Improvement
 - Maintenance
 tags:
 - home-improvement

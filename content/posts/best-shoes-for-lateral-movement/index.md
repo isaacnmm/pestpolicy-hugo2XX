@@ -6,7 +6,8 @@ slug: /best-shoes-for-lateral-movement/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
-categories: HIIT Shoes
+categories:
+- HIIT Shoes
 tags:
 - hiit-shoes
 - shoe

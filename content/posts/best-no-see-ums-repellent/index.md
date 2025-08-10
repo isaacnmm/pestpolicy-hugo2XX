@@ -6,7 +6,8 @@ slug: /best-no-see-ums-repellent/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
-categories: No See Ums
+categories:
+- No See Ums
 - Product Reviews
 tags:
 - no-see-ums

@@ -6,7 +6,8 @@ slug: /best-ergonomic-sofa/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
-categories: Recliners
+categories:
+- Recliners
 tags:
 - recliners
 - sofa

@@ -6,7 +6,8 @@ slug: /how-to-properly-vent-a-bathroom-exhaust-fan-in-an-attic/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
-categories: Home Maintenance
+categories:
+- Home Maintenance
 - HVAC
 tags:
 - home-maintenance

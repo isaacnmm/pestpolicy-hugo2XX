@@ -7,7 +7,8 @@ slug: /are-electric-flea-traps-safe-for-pets/
 date: 2025-08-06 00:00:00+00:00
 lastmod: 2025-08-06 00:00:00+03:00
 author: Isaac
-categories: Fleas
+categories:
+- Fleas
 - Guides
 tags:
 - flea-trap
