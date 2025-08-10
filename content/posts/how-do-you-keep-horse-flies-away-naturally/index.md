@@ -1,4 +1,4 @@
----
+﻿---
 title: How Do You Keep Horse Flies Away Naturally
 description: Natural horse fly repellents are made from naturally grown plants or animals. Further, processing the repellents undergo must not downgrade the natural form...
 slug: /how-do-you-keep-horse-flies-away-naturally/
@@ -15,11 +15,11 @@ tags:
 layout: post
 ---
 
-Natural horse fly repellents are made from naturally grown plants or animals. Further, [processing the repellents](https: //pestpolicy. com/best-fly-spray-for-horses/) undergo must not downgrade the natural form of its ingredients. - Besides, the natural horse fly repellent needs to be safe for plants & animals (at least the non-targeted ones) and human beings. How do you keep horseflies away naturally? Can you use DEET on horses?
+Natural horse fly repellents are made from naturally grown plants or animals. Further, [processing the repellents](https://pestpolicy.com/best-fly-spray-for-horses/) undergo must not downgrade the natural form of its ingredients. - Besides, the natural horse fly repellent needs to be safe for plants & animals (at least the non-targeted ones) and human beings. How do you keep horseflies away naturally? Can you use DEET on horses?
 
 Diethyltoluamide (DEET) is a highly effective ingredient in insect repellents. Notably, it was first created by the United States Army in World War II. - The ingredient can kill ticks, fleas, and mosquitoes. Further, DEET has a yellow die that could stain your clothes. - At high concentration levels (or with highly sensitive skins), DEET could be toxic to animals and people. Icaridin is an odorless and colorless chemical formula.
 
-This ingredient is an excellent DEET-alternative since it's less harmful. However, its great to control horse [flies](https: //pestpolicy. com/how-long-do-fruit-flies-live/) and other insects such as gnats and mosquitos.
+This ingredient is an excellent DEET-alternative since it's less harmful. However, its great to control horse [flies](https://pestpolicy.com/how-long-do-fruit-flies-live/) and other insects such as gnats and mosquitos.
 
 ###  Will Apple cider vinegar Repel Horse Flies?
 
@@ -37,9 +37,7 @@ However, you can use other products like fly masks, boots, and fly sheets to pro
 
 ###  1.Active Ingredients
 
-The active ingredients (synthetic or natural) affect the horse spray's repellent and killing power. However, not all are suitable for foals and lactating mares. Here're the most used actives: permethrin, pyrethrins, picaridin, cypermethrin, tetramethrin, and resmethrin. - Pyrethrins - A natural active ingredient extracted from one of the chrysanthemum species. Pyrethrins provide[fast knockdown - it'll kill](https: //pestpolicy.
-
-com/how-to-get-rid-of-ground-bees/)the horse flies quickly.
+The active ingredients (synthetic or natural) affect the horse spray's repellent and killing power. However, not all are suitable for foals and lactating mares. Here're the most used actives: permethrin, pyrethrins, picaridin, cypermethrin, tetramethrin, and resmethrin. - Pyrethrins - A natural active ingredient extracted from one of the chrysanthemum species. Pyrethrins provide[fast knockdown - it'll kill](https://pestpolicy.com/how-to-get-rid-of-ground-bees/)the horse flies quickly.
 
 Piperonyl Butoxide plus pyrethrin will give a quick knockdown by damaging the central nervous system of the horsefly. - *Pyrethrins*: - These are derivatives of the pyrethrum (the popular chrysanthemum) plant. However, these pyrethrins are highly poisonous, which means that theyll readily penetrate the fly's skin or shell and other comparable insects.
 
@@ -69,8 +67,9 @@ But you'll be safer if you first test the horse fly spray on a spray section of 
 
 ###  4. Number of Horses and Residue Effect
 
-Depending on the number of horses youll be treated, you must consider the type of formula to use or maximum effectiveness. - Horseflies are not active at night. Thus, horses can comfortably graze[during the night since the horse flies will be least active](https: //entomology. ca. uky. edu/ef511).
+Depending on the number of horses youll be treated, you must consider the type of formula to use or maximum effectiveness. - Horseflies are not active at night. Thus, horses can comfortably graze[during the night since the horse flies will be least active](https://entomology.ca. uky. edu/ef511).
 
 ##  Conclusion
 
 Youll need to consider the number of days that the repellent or fly killer will be effective on your horse - horse flies are mainly active from May to September. - For example, UltraShield EX Equine Spray will repel horse flies for seven days.
+

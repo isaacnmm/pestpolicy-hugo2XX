@@ -1,4 +1,4 @@
----
+﻿---
 title: What Do Flea Eggs Look Like on a Cat
 description: If you are a pet lover, you have to be very keen on identifying fleas from them. What do flea eggs look like on a cat? - Fleas eggs arevery tiny in size.
 slug: /what-do-flea-eggs-look-like-on-a-cat/
@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 
-If you are a pet lover, you have to be very keen on identifying [fleas](https: //pestpolicy. com/flea-eggs-vs-dandruff/) from them. What do [flea](https: //pestpolicy. com/how-long-do-flea-eggs-take-to-hatch/) eggs look like on a cat? - Fleas eggs are[very tiny in size](https: //entnemdept. ufl. edu/creatures/urban/occas/catflea. htm). They are also shiny and visible with human eyes. They are approximately 0. 019 by 0.
+If you are a pet lover, you have to be very keen on identifying [fleas](https://pestpolicy.com/flea-eggs-vs-dandruff/) from them. What do [flea](https://pestpolicy.com/how-long-do-flea-eggs-take-to-hatch/) eggs look like on a cat? - Fleas eggs are[very tiny in size](https://entnemdept.ufl. edu/creatures/urban/occas/catflea. htm). They are also shiny and visible with human eyes. They are approximately 0. 019 by 0.
 
 011 inches which is nearly the size of the salt grain.
 
@@ -55,7 +55,7 @@ If by chance they are disrupted, they jump off the host and return when it is sa
 
 70-80 % of eggs fall off from your pet and hatch on the ground before they can later look for a new host to continue with the other part of the flea life cycle. What kills flea eggs on cats?
 
-When pests are grooming, most eggs fall. The itchiness from the bites also causes the eggs to fall. Related: [What do flea eggs look like on a dog](https: //pestpolicy. com/what-do-flea-eggs-look-like-on-a-dog/)
+When pests are grooming, most eggs fall. The itchiness from the bites also causes the eggs to fall. Related: [What do flea eggs look like on a dog](https://pestpolicy.com/what-do-flea-eggs-look-like-on-a-dog/)
 
 ##  How Many Eggs Do Fleas Lay?
 
@@ -70,3 +70,4 @@ Their fertility is greatly enhanced by pet blood while human blood is less nutri
 What do flea eggs look like on a cat? Flea eggs are small and shiny with their color ranging from translucent to a whitish color. - These eggs are laid in the fur of the pets in your homes like cats and dogs. Fleaswill hide behind the neck, on the shoulders, and at the base of the tail to avoid disruption from the pets and humans. - Fleas are more fertile and lay more eggs when they suck blood from cats and dogs than when they suck human blood.
 
 They are capable of laying up to 45 eggs in a day and 180 eggs in a week. Pets are a good host for fleas and their blood is very nutritious to increase the rate at which they lay eggs. If you have to effectively control them, better start with the pets-cats and dogs.
+

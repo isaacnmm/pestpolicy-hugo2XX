@@ -1,4 +1,4 @@
----
+﻿---
 title: Best Acoustic Guitar for Small Hands
 description: Guitar players will have different body physiques like big or small arms, hands, height, shoulders, and backs. Regardless, you'll need a great device for...
 slug: /best-acoustic-guitar-for-small-hands/
@@ -40,7 +40,7 @@ Cons: - Some don't love its double-cutout design
 
 Taylor Academy 12e is also a great small-hand acoustic guitar with a width at Nut of 42. 8 mm (1. 687 inches) - it sounds great and it's equally light-weight.
 
-Taylor Academy 12e has a simple aesthetic with its solid Sitka spruce and light hue. Its excellent tonal possibilities are enabled by the stable and playable neck - just like the [acoustic guitar under 500](https: //pestpolicy. com/best-acoustic-guitar-under-500/). Taylor Academy 12e is designed from ethically-sourced materials and that's great for entry-level guitarists since its simple to maintain and master.
+Taylor Academy 12e has a simple aesthetic with its solid Sitka spruce and light hue. Its excellent tonal possibilities are enabled by the stable and playable neck - just like the [acoustic guitar under 500](https://pestpolicy.com/best-acoustic-guitar-under-500/). Taylor Academy 12e is designed from ethically-sourced materials and that's great for entry-level guitarists since its simple to maintain and master.
 
 It's comfortable and lightweight with a fingerstyle design for top comfort plus its wood pairing makes the spruce top strong. The bridge & fingerboard are made from African ebony that's genuine. On sound quality, this Academy 12e will give you a fine sound with great tonal balance, and thus it'll be easy to learn any style. You'll enjoy its disciplined bass, voluptuous treble, and rich midrange.
 
@@ -82,7 +82,7 @@ Its C-shaped profile, nut width being 1. 69-inch, and a parlor body make it a co
 
 FSR MA-1 is a quality Acoustic Guitar that's budget-friendly for kids and small hands with no issues.
 
-Pros: - Decent sound and tone quality - It has great playability with excellent musical experience. - Budget-fiendly small-hand acoutic guitar - Light strings - check these[Acoustic Guitar Under 2000](https: //pestpolicy. com/best-acoustic-guitar-under-2000/).
+Pros: - Decent sound and tone quality - It has great playability with excellent musical experience. - Budget-fiendly small-hand acoutic guitar - Light strings - check these[Acoustic Guitar Under 2000](https://pestpolicy.com/best-acoustic-guitar-under-2000/).
 
 Cons: - Steel strings not suitable for beginners
 
@@ -110,8 +110,9 @@ Pros: - It has a Nato (eastern mahogany) or Mahogany neck with 22. 8 inches of t
 
 Cons: - Simple design
 
-Read Also: [Whats the best acoustic guitar under 1500](https: //pestpolicy. com/best-acoustic-guitar-under-1500/)?
+Read Also: [Whats the best acoustic guitar under 1500](https://pestpolicy.com/best-acoustic-guitar-under-1500/)?
 
 ##  Conclusion
 
 Therere the best acoustic guitar for small hands. The Ebony fingerboard, layered Sapele neck, sides, and back plus matte body finish gives the acoustic guitar and a beautiful look. The sturdy construction, handy size, and gig bag make this mini guitar great for travel - so much for the travel entertainment.
+

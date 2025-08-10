@@ -1,4 +1,4 @@
----
+﻿---
 title: Can Bed Bugs Survive in Water
 description: But can bed bugs survive in water? Washing clothes, bedding, and curtains regularly are perceived as one way of containing bed bugs.
 slug: /can-bed-bugs-survive-in-water/
@@ -31,9 +31,9 @@ Whether floating or submerged, bedbugs cannot survive more than 20 minutes in ho
 
 ##  **Can Bed Bug Eggs Survive in Water?**
 
-When you immerse bed bug-infested garments in cold water for 24 hours, all the adults and their nymphs will die while their eggs will remain intact. This is according to a [study](http: //insectsinthecity. blogspot. com/2010/03/guidelines-for-killing-bed-bugs-in. html) conducted to investigate the effectiveness of washing your clothes to contain bed bug infestation.
+When you immerse bed bug-infested garments in cold water for 24 hours, all the adults and their nymphs will die while their eggs will remain intact. This is according to a [study](http://insectsinthecity.blogspot. com/2010/03/guidelines-for-killing-bed-bugs-in. html) conducted to investigate the effectiveness of washing your clothes to contain bed bug infestation.
 
-However, it is possible to kill Bed Bug Eggs when the water is frozen to [-13F for several days](https: //academic. oup. com/jee/article/106/6/2433/2962119). Freezing the water to -17F will kill the eggs in two hours. Bed bug eggs cannot also survive in hot water. Normally, adult bed bugs and nymphs die at between 104F and 122F. Eggs are more heat-resistant, and you will be required to heat water to 125F or more for them to die.
+However, it is possible to kill Bed Bug Eggs when the water is frozen to [-13F for several days](https://academic.oup. com/jee/article/106/6/2433/2962119). Freezing the water to -17F will kill the eggs in two hours. Bed bug eggs cannot also survive in hot water. Normally, adult bed bugs and nymphs die at between 104F and 122F. Eggs are more heat-resistant, and you will be required to heat water to 125F or more for them to die.
 
 Read Also: Does Salt Kill Bed Bugs?
 
@@ -55,12 +55,13 @@ However, by using large amounts of detergents, you have a chance of intoxicating
 
 ###  **Folding and Storing**
 
-Before you return your clothes into the wardrobes or hanging lines, ensure the rest of the house is treated for [bed bugs](https: //pestpolicy. com/what-causes-bed-bugs/) to prevent infestation. In particular, the wardrobes should be [sprayed with an effective bed bug](https: //pestpolicy. com/best-bed-bug-spray/) spray to kill bed bugs, nymphs, and eggs.
+Before you return your clothes into the wardrobes or hanging lines, ensure the rest of the house is treated for [bed bugs](https://pestpolicy.com/what-causes-bed-bugs/) to prevent infestation. In particular, the wardrobes should be [sprayed with an effective bed bug](https://pestpolicy.com/best-bed-bug-spray/) spray to kill bed bugs, nymphs, and eggs.
 
 When youre sure the whole house is adequately treated for bed bugs, remove your clothes from the dryer, fold and return them into the wardrobes. Read Also: CrossFire for Bed Bugs
 
 ##  **Conclusion**
 
-[Bed bugs will quickly](https: //pestpolicy. com/do-bed-bugs-jump/) drown in the water when submerged. So, washing your clothes, bedding, curtains, and other fabrics provides a great way of containing bed bugs. Washing should be done with water at 125F or more to kill bed bugs, nymphs, and eggs. For severe infestations, you need to include more powerful treatments to get effective results.
+[Bed bugs will quickly](https://pestpolicy.com/do-bed-bugs-jump/) drown in the water when submerged. So, washing your clothes, bedding, curtains, and other fabrics provides a great way of containing bed bugs. Washing should be done with water at 125F or more to kill bed bugs, nymphs, and eggs. For severe infestations, you need to include more powerful treatments to get effective results.
 
 You can combine chemical treatments with steaming and washing. Also, try these bed bug steamers.
+

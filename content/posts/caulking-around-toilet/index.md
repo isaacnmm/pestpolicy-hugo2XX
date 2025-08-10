@@ -1,4 +1,4 @@
----
+﻿---
 title: Caulking Around Toilet
 description: It's a common dilemma in bathroom DIY after installing or re-setting a toilet, should you run a bead of caulk around its base where it meets the floor?
 slug: /caulking-around-toilet/
@@ -38,7 +38,7 @@ Because this section is at the back, it's less likely to allow surface moisture 
 Use rubbing alcohol for a final wipe-down. * **Smooth Bead:** Apply a continuous, even bead. Use a caulk tool or a wet finger (wearing a glove) to smooth the caulk immediately after application for a professional finish. * **Cure Time:** Allow the caulk to cure fully according to the manufacturer's instructions before using the toilet heavily or exposing the caulk to water. This usually takes at least 24 hours.
 ---
 
-It's a common dilemma in bathroom DIY: after installing or re-setting a [toilet](https: //pestpolicy. com/best-toilet-paper-for-septic/), should you run a bead of caulk around its base where it meets the floor? This seemingly simple question sparks a surprising amount of debate among plumbers, homeowners, and DIY enthusiasts. On one hand, a neatly caulked perimeter provides a clean, finished look and seals out moisture and grime.
+It's a common dilemma in bathroom DIY: after installing or re-setting a [toilet](https://pestpolicy.com/best-toilet-paper-for-septic/), should you run a bead of caulk around its base where it meets the floor? This seemingly simple question sparks a surprising amount of debate among plumbers, homeowners, and DIY enthusiasts. On one hand, a neatly caulked perimeter provides a clean, finished look and seals out moisture and grime.
 
 On the other, some argue it can hide leaks, leading to unseen damage.
 
@@ -63,3 +63,4 @@ This significantly improves hygiene. 3. **Prevents Pest Entry: ** Insects, espec
 The decision to caulk around a toilet is not as straightforward as it might seem, balancing aesthetics and hygiene against the critical need for early leak detection. By adopting the "middle ground" approach of sealing most of the perimeter while leaving a small, inconspicuous gap at the very back, homeowners can enjoy the benefits of a clean, finished-looking bathroom without inadvertently concealing a potentially destructive plumbing leak.
 
 This method ensures both the visual integrity and the long-term health of your bathroom's subfloor, offering peace of mind for years to come.
+

@@ -1,4 +1,4 @@
----
+﻿---
 title: Best Bed Bug Mattress Encasements
 description: A bedbug infestation and bites in your home can make your life and that of your family unbearable - check these best bed bug mattress encasementsinhabiting...
 slug: /best-bed-bug-mattress-encasements/
@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 
-A bedbug infestation and bites in your home can make your life and that of your family unbearable - check these best bed bug mattress encasementsinhabiting beds and mattresses. It gets even worse during the night as these blood-sucking pests love. Using the best bed bug mattress encasement is one of the top solutions to control bed bugs-fast/) from camping in your bed (proof in [this case study](https: //www. ncbi. nlm. nih.
+A bedbug infestation and bites in your home can make your life and that of your family unbearable - check these best bed bug mattress encasementsinhabiting beds and mattresses. It gets even worse during the night as these blood-sucking pests love. Using the best bed bug mattress encasement is one of the top solutions to control bed bugs-fast/) from camping in your bed (proof in [this case study](https://www.ncbi. nlm. nih.
 
 gov/pmc/articles/PMC5620696/) ).
 
@@ -59,7 +59,7 @@ This mattress cover is constructed with a Jacquard Bamboo weave and carefully fi
 
 Manufactured by Terminix, a renowned pest-control company, this mattress protector provides ultimate protection against bed bugs, mites, and insects. The encasement fits various mattress sizes snuggly, and the easy-off zipper completely blocks all bed bugs entries. It offers 3-way protection by fully encasing your mattress from top to bottom.
 
-Plus, the reinforced seams and high-quality construction allow it to provide long-lasting [bed bug protection](https: //pestpolicy. com/bed-bugs-vs-mites/). The encasement also offers optimal insect protection. The Terminix [bed bug mattress](https: //pestpolicy. com/what-causes-bed-bugs/) encasement is also hypoallergenic, blocking any allergy-causing dust mites, household allergens, and pet dander.
+Plus, the reinforced seams and high-quality construction allow it to provide long-lasting [bed bug protection](https://pestpolicy.com/bed-bugs-vs-mites/). The encasement also offers optimal insect protection. The Terminix [bed bug mattress](https://pestpolicy.com/what-causes-bed-bugs/) encasement is also hypoallergenic, blocking any allergy-causing dust mites, household allergens, and pet dander.
 
 It also protects against leakages, spills and is stain resistant.
 
@@ -67,4 +67,5 @@ Overall, this is an affordable bed bug encasement that is durable enough to prov
 
 ##  Conclusion
 
-[Bedbugs in bed](https: //pestpolicy. com/do-bed-bugs-fly/) can be a real nightmare. These bloodsuckers can literally deprive you of quality sleep, not to mention leaving you with painful, itchy bites. But with the best bed bug mattress encasements, these stubborn pests should no longer be a problem.
+[Bedbugs in bed](https://pestpolicy.com/do-bed-bugs-fly/) can be a real nightmare. These bloodsuckers can literally deprive you of quality sleep, not to mention leaving you with painful, itchy bites. But with the best bed bug mattress encasements, these stubborn pests should no longer be a problem.
+

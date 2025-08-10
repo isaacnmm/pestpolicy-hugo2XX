@@ -1,4 +1,4 @@
----
+﻿---
 title: How to Get Rid Of Fleas in the House Forever
 description: Fleas are a common pest in the house They're small, they jump high, they'll multiply so fast, and can be incredibly difficult to get rid of. The fleas may...
 slug: /how-to-get-rid-of-fleas-in-the-house-forever/
@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 
-[Fleas](https: //pestpolicy. com/getting-rid-of-fleas-in-the-carpet/) are a [common pest](https: //entnemdept. ufl. edu/creatures/urban/occas/catflea. htm) in the house; They're small, they jump high, they'll multiply so fast, and can be incredibly difficult to get [rid](https: //pestpolicy. com/how-to-get-rid-of-flea-eggs-on-cats/) of.
+[Fleas](https://pestpolicy.com/getting-rid-of-fleas-in-the-carpet/) are a [common pest](https://entnemdept.ufl. edu/creatures/urban/occas/catflea. htm) in the house; They're small, they jump high, they'll multiply so fast, and can be incredibly difficult to get [rid](https://pestpolicy.com/how-to-get-rid-of-flea-eggs-on-cats/) of.
 
 The fleas may have used your dog or cat as carriers to get into the house, or they hitchhiked onto humans - sometimes.
 
@@ -27,7 +27,7 @@ This article will detail all of the steps on how to get rid of fleas in the hous
 
 Fleas are tiny, wingless insects that live in the fur of animals like dogs and cats. One of the best ways to rid your dog of fleas is with flea shampoo. - After a bath, take the time to work down his or her legs and under their armpits at which point you will have rinsed away any fleas that are left behind.
 
-Rinse the pet to flash down the fleas into the drain - maybe it'll require another washing - also check these [drain cleaners](https: //pestpolicy. com/best-drain-cleaner//).
+Rinse the pet to flash down the fleas into the drain - maybe it'll require another washing - also check these [drain cleaners](https://pestpolicy.com/best-drain-cleaner//).
 
 For your dogs safety, it is necessary for you to either apply Advantage or Frontline flea prevention between the pet's shoulder blades.
 
@@ -59,7 +59,7 @@ If you want a long-term solution to killing fleas, then its best to use pesticid
 
 Vacuum your house thoroughly before going on to the next step - vacuum all crevices and corners.
 
-Once you have vacuumed the carpet, be sure to throw out your vacuum bag. - Pets must be removed from the premises for at least 2 - 3 hours before and during house and yard treatment. Steam clean the pet beds, upholstery, and [carpets. ](https: //pestpolicy. com/getting-rid-of-fleas-in-the-carpet/) Do the laundry. Wash all bedding in hot water and dry on high heat for at least 20 minutes. - Vacuum or sweep floors, including under furniture.
+Once you have vacuumed the carpet, be sure to throw out your vacuum bag. - Pets must be removed from the premises for at least 2 - 3 hours before and during house and yard treatment. Steam clean the pet beds, upholstery, and [carpets. ](https://pestpolicy.com/getting-rid-of-fleas-in-the-carpet/) Do the laundry. Wash all bedding in hot water and dry on high heat for at least 20 minutes. - Vacuum or sweep floors, including under furniture.
 
 Throw out any vacuum bag contents as fleas could survive in them for up to a year if they get stuck inside it Clean your pet's bowls, litter box, food dishes with soapy dish detergent and rinse well- then scrub clean with a bleach solution of one tablespoon bleach per quart of warm water (or use commercial products designed to kill flea larvae).
 
@@ -98,3 +98,4 @@ It seems that you were looking for how to get rid of fleas in the house forever!
 - Another great idea is to vacuum all carpeting at least once per week because vacuuming removes most adult fleas from carpets as well as their larvae which hatch out of the pupae. - You can also use sprays or foggers that will go into every nook and cranny of your home, killing adult fleas as well as larva in a matter of hours. If these steps are not enough, call a professional! They will know how to get rid of fleas in the house forever.
 
 In conclusion, I hope you found what you are looking for and happy cleaning! Remember: borax powder, vacuum, and sprays or foggers will get rid of fleas in the house.
+

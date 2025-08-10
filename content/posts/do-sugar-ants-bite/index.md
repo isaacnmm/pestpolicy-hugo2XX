@@ -1,4 +1,4 @@
----
+﻿---
 title: Do Sugar Ants Bite
 description: Sugar Ants are little brown and black insects with semi-transparent bodies that invade homes, ceilings, walls, and kitchen.
 slug: /do-sugar-ants-bite/
@@ -15,9 +15,9 @@ tags:
 layout: post
 ---
 
-[Sugar](https: //pestpolicy. com/what-do-sugar-ants-look-like/) Ants are little brown and black insects with semi-transparent bodies that invade homes, ceilings, walls, and kitchen. But, do Sugar Ants Bite?
+[Sugar](https://pestpolicy.com/what-do-sugar-ants-look-like/) Ants are little brown and black insects with semi-transparent bodies that invade homes, ceilings, walls, and kitchen. But, do Sugar Ants Bite?
 
-**The short answer is: YES, sugar ants will bite humans but; NO, they're not poisonous. Sugar ant bite order to defend itself. Thy'll first puff up their abdomens and flash their mandibles to express irritation. ** Related: [How Sugar Ants Look](https: //pestpolicy. com/what-do-sugar-ants-look-like/)
+**The short answer is: YES, sugar ants will bite humans but; NO, they're not poisonous. Sugar ant bite order to defend itself. Thy'll first puff up their abdomens and flash their mandibles to express irritation. ** Related: [How Sugar Ants Look](https://pestpolicy.com/what-do-sugar-ants-look-like/)
 
 ##  Do Sugar Ants Bite?
 
@@ -45,7 +45,7 @@ In the unlikely event that the discomfort persists and the small pimple-like bit
 
 ##  How to Get Rid Of Sugar Ants?
 
-So, here's how to [get rid of sugar ants](https: //pestpolicy. com/how-to-get-rid-of-sugar-ants/). But for a summary, you'll need to clean up, use natural ant control solutions - including diatomaceous earth (DE), peppermint oil, mint plants or eventually call your trusted exterminator.
+So, here's how to [get rid of sugar ants](https://pestpolicy.com/how-to-get-rid-of-sugar-ants/). But for a summary, you'll need to clean up, use natural ant control solutions - including diatomaceous earth (DE), peppermint oil, mint plants or eventually call your trusted exterminator.
 
 ###  1. Clean Up Food Debris and Dirt
 
@@ -87,4 +87,5 @@ Luckily, professionals are increasingly discrete, and are typically able to reso
 
 ##  Sources:
 
-1. [Banded sugar ant - Wikipedia](https: //en. wikipedia. org/wiki/Black-headed_sugar_ant) 2. [Life-history evolution in ants: the case of Cardiocondyla - NCBI](https: //www. ncbi. nlm. nih. gov/pmc/articles/PMC5360909/) 3. [Black-headed sugar ant - Wikipedia](https: //en. wikipedia. org/wiki/Black-headed_sugar_ant) 4. [Food preference and foraging activity of ants - NCBI](https: //www. ncbi. nlm. nih. gov/pmc/articles/PMC4206238/)
+1. [Banded sugar ant - Wikipedia](https://en.wikipedia. org/wiki/Black-headed_sugar_ant) 2. [Life-history evolution in ants: the case of Cardiocondyla - NCBI](https://www.ncbi. nlm. nih. gov/pmc/articles/PMC5360909/) 3. [Black-headed sugar ant - Wikipedia](https://en.wikipedia. org/wiki/Black-headed_sugar_ant) 4. [Food preference and foraging activity of ants - NCBI](https://www.ncbi. nlm. nih. gov/pmc/articles/PMC4206238/)
+

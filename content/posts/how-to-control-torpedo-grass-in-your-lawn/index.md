@@ -1,4 +1,4 @@
----
+﻿---
 title: How to Control Torpedo Grass in Your Lawn
 description: Torpedo grass Panicum repens is perhaps one of the most challenging and aggressive perennial grassy weeds to control in home lawns and landscapes,...
 slug: /how-to-control-torpedo-grass-in-your-lawn/
@@ -134,3 +134,4 @@ Consistency in your treatment and prevention efforts is key. 5.
 Torpedo grass is a formidable foe for any homeowner striving for a pristine lawn. Its aggressive rhizomes and adaptability make it a persistent challenge. However, with accurate identification, a proactive prevention strategy, and the diligent application of appropriate control methodswhether manual removal, solarization, or carefully chosen herbicidesyou can significantly reduce its impact.
 
 The battle against torpedo grass is often a marathon, not a sprint. By arming yourself with knowledge and committing to consistent effort, you can protect your desirable turf and reclaim the beauty of your lawn from this invasive intruder.
+

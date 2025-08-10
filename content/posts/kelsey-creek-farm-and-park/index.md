@@ -1,4 +1,4 @@
----
+﻿---
 title: Kelsey Creek Farm and Park
 description: Located in the heart of Bellevue, Washington, Kelsey Creek Farm and Park is a charming urban oasis that offers visitors a unique blend of natural beauty ,...
 slug: /kelsey-creek-farm-and-park/
@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 
-Located in the heart of [Bellevue](https: //pestpolicy. com/mount-rainier-national-park/), Washington, Kelsey Creek Farm and Park is a charming urban oasis that offers visitors a [unique blend of natural beauty](https: //bellevuewa. gov/city-government/departments/parks/community-centers/kelsey-creek-farm), historical significance, and educational opportunities.
+Located in the heart of [Bellevue](https://pestpolicy.com/mount-rainier-national-park/), Washington, Kelsey Creek Farm and Park is a charming urban oasis that offers visitors a [unique blend of natural beauty](https://bellevuewa.gov/city-government/departments/parks/community-centers/kelsey-creek-farm), historical significance, and educational opportunities.
 
 The park spans over 150 acres and is a beloved destination for families, nature enthusiasts, and anyone looking to experience the tranquility of farm life without leaving the city.
 
@@ -39,7 +39,7 @@ These programs aim to foster a connection between urban residents and the natura
 
 ####  Park Features and Amenities
 
-In addition to the farm, Kelsey Creek Park [boasts a variety of recreational features](https: //bellevuewa. gov/city-government/departments/parks/parks-and-trails/nature-trails/kelsey-creek-park-nature-trails) and amenities.
+In addition to the farm, Kelsey Creek Park [boasts a variety of recreational features](https://bellevuewa.gov/city-government/departments/parks/parks-and-trails/nature-trails/kelsey-creek-park-nature-trails) and amenities.
 
 The park's extensive trail system winds through lush woodlands, open meadows, and along Kelsey Creek, offering scenic routes for hiking, jogging, and wildlife observation. Picnic areas equipped with tables and barbecue facilities provide perfect spots for family gatherings and outdoor meals.
 
@@ -70,3 +70,4 @@ Whether you're looking to spend a peaceful day exploring nature, learning about 
 Kelsey Creek Farm and Park is a treasured community resource that combines the charm of a working farm with the recreational and educational opportunities of a public park. Its historical significance, diverse range of activities, and commitment to environmental education make it a unique and valuable destination in Bellevue.
 
 Whether you're a local resident or a visitor to the area, a trip to Kelsey Creek Farm and Park promises a memorable and enriching experience that celebrates the natural and cultural heritage of the Pacific Northwest.
+

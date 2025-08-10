@@ -1,4 +1,4 @@
----
+﻿---
 title: Do Possums Eat Cats
 description: The idea that possums eat cats is largely a misconception. Possums, being opportunistic omnivores and scavengers, primarily feed on fruits, insects, and small...
 slug: /do-possums-eat-cats/
@@ -17,11 +17,11 @@ layout: post
 
 The idea that possums eat cats is largely a misconception. Possums, being opportunistic omnivores and scavengers, primarily feed on fruits, insects, and small animals like rodents. - They do not actively hunt cats, and while they might scavenge the remains of a deceased cat, they do not pose a direct threat to living, healthy ones. Possums are more likely to compete with cats for food than to attack them.
 
-This article explores [possum](https: //pestpolicy. com/do-possums-eat-chickens/) behavior, their dietary preferences, and the nature of their interactions with domestic cats, offering reassurance to pet owners and tips to prevent unwanted encounters.
+This article explores [possum](https://pestpolicy.com/do-possums-eat-chickens/) behavior, their dietary preferences, and the nature of their interactions with domestic cats, offering reassurance to pet owners and tips to prevent unwanted encounters.
 
 ##  Possum Diet: What Do They [Eat](https://pestpolicy.com/do-cats-eat-lizards/)?
 
-Possums are omnivores, which means they eat a [variety of plant and animal matter](https: //pestpolicy. com/what-do-opossums-eat/). Their diet is highly opportunistic, often dictated by what is easily available in their environment.
+Possums are omnivores, which means they eat a [variety of plant and animal matter](https://pestpolicy.com/what-do-opossums-eat/). Their diet is highly opportunistic, often dictated by what is easily available in their environment.
 
 In the wild, possums typically consume: - **Fruits and berries** - **Insects and small invertebrates** - **Rodents and small birds** - **Carrion (dead animals)** - **Vegetables and grains** - **Eggs but not chicken** - **Small reptiles and amphibians** In urban areas, possums may forage through garbage cans and eat pet food that is left outside.
 
@@ -41,9 +41,9 @@ Scavenging Behavior**: In very rare cases, a possum may be found eating a deceas
 
 However, it is important to stress that this does not mean the possum killed the cat. As scavengers, possums will eat carrion, and if they come across a dead animal, including a cat, they may consume it.
 
-- This can lead to the misconception that possums hunt cats, but they are merely feeding on an already deceased animal. Possums live an average of 1 to 2 years but[can do up to 4 years](https: //opossumsocietyus. org/general-opossum-information/), but don't kill them - mainly when you see their destructive habits.
+- This can lead to the misconception that possums hunt cats, but they are merely feeding on an already deceased animal. Possums live an average of 1 to 2 years but[can do up to 4 years](https://opossumsocietyus.org/general-opossum-information/), but don't kill them - mainly when you see their destructive habits.
 
-- This can lead to the misconception that possums hunt cats, but they are merely feeding on an already deceased animal. Possums live an average of 1 to 2 years but[can do up to 4 years](https: //opossumsocietyus. org/general-opossum-information/), but don't kill them - mainly when you see their destructive habits. **3.
+- This can lead to the misconception that possums hunt cats, but they are merely feeding on an already deceased animal. Possums live an average of 1 to 2 years but[can do up to 4 years](https://opossumsocietyus.org/general-opossum-information/), but don't kill them - mainly when you see their destructive habits. **3.
 
 Defensive Reactions**: If a cat and possum were to get into a confrontation, the possums instinct would not be to attack but to defend itself.
 
@@ -70,3 +70,4 @@ Keeping lids tightly closed will discourage them from foraging in your yard.
 In conclusion, the notion that possums eat cats is largely unfounded. While possums are opportunistic feeders and scavengers, their natural diet does not include live, healthy cats. - They are more likely to forage for fruits, insects, and small animals or scavenge for dead animals. Interactions between possums and cats are usually driven by competition for food rather than predation.
 
 Pet owners can reduce the likelihood of encounters by taking simple precautions, but overall, possums are not a significant threat to household pets.
+

@@ -1,4 +1,4 @@
----
+﻿---
 title: How to Spread St Augustine Grass
 description: St. Augustine grass Stenotaphrum secundatum is a popular warm-season turfgrass known for its lush, blue-green color and thick, coarse blades.
 slug: /how-to-spread-st-augustine-grass/
@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 
-St. [Augustine](https: //pestpolicy. com/how-to-revive-st-augustine-grass/) grass (*Stenotaphrum secundatum*) is a popular warm-season turfgrass known for its lush, blue-green color and thick, coarse blades. It's a favorite in warm, humid climates, particularly across the Southern United States, because of its excellent heat and salt tolerance, and its ability to grow well in partial shade where other warm-season grasses might struggle.
+St. [Augustine](https://pestpolicy.com/how-to-revive-st-augustine-grass/) grass (*Stenotaphrum secundatum*) is a popular warm-season turfgrass known for its lush, blue-green color and thick, coarse blades. It's a favorite in warm, humid climates, particularly across the Southern United States, because of its excellent heat and salt tolerance, and its ability to grow well in partial shade where other warm-season grasses might struggle.
 
 Unlike many other lawn grasses, St. Augustine is typically not grown from seed due to its low germination rates and slow establishment. Instead, it is most commonly "spread" or propagated vegetatively using sod, plugs, or sprigs.
 
@@ -178,3 +178,4 @@ For those in the right climate, the benefits of a beautiful, resilient St. Augus
 **Q: Can St. Augustine grass grow in full shade? ** A: No. While St. Augustine is more shade tolerant than Bermudagrass, it still requires at least 4-6 hours of direct sunlight per day to thrive and maintain its density. In deep shade, it will thin out, become leggy, and be more susceptible to disease. For full shade, consider shade-loving groundcovers or alternative landscaping.
 
 **Q: My St. Augustine lawn is developing a thick thatch layer. What should I do? ** A: Thatch buildup is common with St. Augustine. For established lawns, periodic dethatching (verticutting) every 1-3 years can help. It's usually best to do this in late spring/early summer when the grass is actively growing and can quickly recover. Proper mowing height and avoiding excessive nitrogen fertilization can also help manage thatch.
+

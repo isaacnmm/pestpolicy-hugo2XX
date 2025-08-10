@@ -1,4 +1,4 @@
----
+﻿---
 title: Flea Bites Vs Bed Bug Bites
 description: The small red bumps appearing in specific areas of your skin can be hard to tell apart.Well tell you how to figure out whether theyre flea bites or bedbug...
 slug: /flea-bites-vs-bed-bug-bites/
@@ -16,11 +16,11 @@ tags:
 layout: post
 ---
 
-The small red bumps appearing in specific areas of your skin can be hard to tell apart. Well tell you how to figure out whether theyre [flea](https: //pestpolicy. com/can-fleas-bite-through-clothes/) bites or [bedbug](https: //www. ncbi. nlm. nih. gov/pmc/articles/PMC3255965/) bites.
+The small red bumps appearing in specific areas of your skin can be hard to tell apart. Well tell you how to figure out whether theyre [flea](https://pestpolicy.com/can-fleas-bite-through-clothes/) bites or [bedbug](https://www.ncbi. nlm. nih. gov/pmc/articles/PMC3255965/) bites.
 
 **Both these bites swell up and can be itchy, so here are some tips thatll help you tell the difference between them: ** - **Fleas prefer animal blood but can drink human blood as well.
 
-Whereas bedbugs only drink human blood. ** - **Flea bites appear to be red, swollen, and hard. Bedbug bites, on the other hand, seem to have a dark red spot in the center of the bitten and raised area of the skin. ** - **Fleas tend to [bite](https: //pestpolicy. com/do-fleas-bite-humans/) randomly over the body, and you might notice clusters of three dots together.
+Whereas bedbugs only drink human blood. ** - **Flea bites appear to be red, swollen, and hard. Bedbug bites, on the other hand, seem to have a dark red spot in the center of the bitten and raised area of the skin. ** - **Fleas tend to [bite](https://pestpolicy.com/do-fleas-bite-humans/) randomly over the body, and you might notice clusters of three dots together.
 
 Bedbugs, however, tend to bite their hosts strategically in a pattern of a linear row, you can find a group of 10 or more together.
 
@@ -90,7 +90,7 @@ If the bites persists for more than two weeks, even after your home is infestati
 
 For a treatment that you can do at home on your own, use water and baking soda and mix them together make a paste. Apply the mixture on the bite directly, and wash it off after an hour.
 
-Related: [Pictures of Bed Bugs](https: //pestpolicy. com/pictures-of-bed-bugs/)
+Related: [Pictures of Bed Bugs](https://pestpolicy.com/pictures-of-bed-bugs/)
 
 ###  How to Prevent the Bites?
 
@@ -104,4 +104,5 @@ The key to prevent the bites by killing the root cause, i. e. the pests themselv
 
 ##  Sources:
 
-1. [Flea Bites - StatPearls - NCBI Bookshelf](https: //www. ncbi. nlm. nih. gov/books/NBK541118/) 2. [Dermatitis caused by Ctenocephalides felis (cat flea) in human](https: //www. ncbi. nlm. nih. gov/pmc/articles/PMC4247491/) 3. [Bed Bugs - The Journal for Nurse Practitioners](https: //www. npjournal. org/article/S1555-4155(17)30274-X/pdf) 4. [Bedbug Bites - StatPearls - NCBI Bookshelf](https: //www. ncbi. nlm. nih. gov/books/NBK538128/)
+1. [Flea Bites - StatPearls - NCBI Bookshelf](https://www.ncbi. nlm. nih. gov/books/NBK541118/) 2. [Dermatitis caused by Ctenocephalides felis (cat flea) in human](https://www.ncbi. nlm. nih. gov/pmc/articles/PMC4247491/) 3. [Bed Bugs - The Journal for Nurse Practitioners](https://www.npjournal. org/article/S1555-4155(17)30274-X/pdf) 4. [Bedbug Bites - StatPearls - NCBI Bookshelf](https://www.ncbi. nlm. nih. gov/books/NBK538128/)
+

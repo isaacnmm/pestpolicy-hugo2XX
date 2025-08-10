@@ -1,4 +1,4 @@
----
+﻿---
 title: Diatomaceous Earth for Fleas on Cats
 description: You might have noticed that your cat is scratching its fur more than usual, and some small creatures are falling off its skin. Your cat is most probably...
 slug: /diatomaceous-earth-for-fleas-on-cats/
@@ -15,15 +15,15 @@ tags:
 layout: post
 ---
 
-You might have noticed that your cat is scratching its fur more than usual, and some small creatures are falling off its skin. Your cat is most probably infected by [fleas](https: //pestpolicy. com/diatomaceous-earth-for-fleas/), a nightmare to your cat, and you as well. There are many ways to get rid of fleas from cats. They include methods where you use chemicals and others where no chemicals are involved.
+You might have noticed that your cat is scratching its fur more than usual, and some small creatures are falling off its skin. Your cat is most probably infected by [fleas](https://pestpolicy.com/diatomaceous-earth-for-fleas/), a nightmare to your cat, and you as well. There are many ways to get rid of fleas from cats. They include methods where you use chemicals and others where no chemicals are involved.
 
-The latter method is the use of [Diatomaceous [Earth](https: //pestpolicy. com/diatomaceous-earth-for-fleas-on-dogs/) for Fleas](https: //pestpolicy. com/diatomaceous-earth-for-fleas/).
+The latter method is the use of [Diatomaceous [Earth](https://pestpolicy.com/diatomaceous-earth-for-fleas-on-dogs/) for Fleas](https://pestpolicy.com/diatomaceous-earth-for-fleas/).
 
 ##  Diatomaceous Earth for Fleas on Cats - Natural Flea Control
 
 DE is a fine powder when you see it, but microscopically it has sharp edges. Its mode of action is purely mechanical. The sharp edges cut the protective shells of insects and parasites hence exposing them. When exposed, the water in them evaporates, and subsequently, they become dehydrated and die. DE comes in various forms, granulated DE, milled DE, and Calcine DE.
 
-[**Granulated diatomaceous earth**](https: //pestpolicy. com/diatomaceous-earth-for-fleas-on-dogs/) - Granulated DE is usually available as a powder and always fit for humans and pets' consumption. For DE to be fit for consumption, it must contain less than 1% crystalline silica. Granulated DE is used as the food grade. **Milled diatomaceous earth** - Also called micronized DE.
+[**Granulated diatomaceous earth**](https://pestpolicy.com/diatomaceous-earth-for-fleas-on-dogs/) - Granulated DE is usually available as a powder and always fit for humans and pets' consumption. For DE to be fit for consumption, it must contain less than 1% crystalline silica. Granulated DE is used as the food grade. **Milled diatomaceous earth** - Also called micronized DE.
 
 It is an excellent form of DE that is used in the manufacture of insecticides and pesticides.
 
@@ -69,6 +69,7 @@ Diatomaceous earth is used as food and powder coating to eliminate fleas and wor
 
 ##  Sources:
 
-1. [Diatomaceous Earth for Flea Control - Riversonvet](https: //riversongvet. com/news/diatomaceous-earth-for-flea-control/) 2. [General Fact Sheet - Diatomaceous Earth](http: //npic. orst. edu/factsheets/degen. html) 3. [Insecticidal efficacy of diatomaceous earth on Sitophilus oryzae - Semantic Scholar](https: //pdfs. semanticscholar. org/ba37/75be4c3f0abac307fff1c5f7efed4db8ad3b. pdf) 4.
+1. [Diatomaceous Earth for Flea Control - Riversonvet](https://riversongvet.com/news/diatomaceous-earth-for-flea-control/) 2. [General Fact Sheet - Diatomaceous Earth](http://npic.orst. edu/factsheets/degen. html) 3. [Insecticidal efficacy of diatomaceous earth on Sitophilus oryzae - Semantic Scholar](https://pdfs.semanticscholar. org/ba37/75be4c3f0abac307fff1c5f7efed4db8ad3b. pdf) 4.
 
-[Amorphous diatomaceous earth on product pests - NCBI](https: //www. ncbi. nlm. nih. gov/pubmed/11124378)
+[Amorphous diatomaceous earth on product pests - NCBI](https://www.ncbi. nlm. nih. gov/pubmed/11124378)
+

@@ -1,4 +1,4 @@
----
+﻿---
 title: Does Vinegar Remove Paint
 description: So, does vinegar remove paint? Well, vinegar is a regular ingredient in our kitchens used for salad dressing or making pickles.
 slug: /does-vinegar-remove-paint/
@@ -14,7 +14,7 @@ tags:
 layout: post
 ---
 
-So, does [vinegar](https: //pestpolicy. com/does-vinegar-kill-bed-bugs/) remove paint? Well, vinegar is a regular ingredient in our kitchens used for salad dressing or making pickles. So, white vinegar will also remove paint from various surfaces including masonry.
+So, does [vinegar](https://pestpolicy.com/does-vinegar-kill-bed-bugs/) remove paint? Well, vinegar is a regular ingredient in our kitchens used for salad dressing or making pickles. So, white vinegar will also remove paint from various surfaces including masonry.
 
 Vinegar is an effective, yet cheap and eco-friendly method to remove stuck-on and dried/ stubborn paints from surfaces such as metal windows or concrete walls without releasing toxic fumes or chemicals. Besides, lemon juice, Vinegar, plus cola will also help remove rust from various light surfaces like the driveways. Also, vinegar is a natural wall's degreaser and luckily its residue doesn't harm the surfaces once painted.
 
@@ -30,9 +30,7 @@ The first step is to prepare your vinegar solution for paint removal. Brings abo
 
 ###  2. Soak Swabs in Vinegar
 
-Now, dip some cotton swap into your vinegar. However, ensure cut the vinegar moisture in the swab by squeezing it between the fingers. Thus, it'll be possible to readily soap your paint using the vinegar-dipped swab while causing minimal drips on your surfaces such as glass. Alternatively, dip some sponge or a paintbrush in the heated vinegar ready to remove the paint and its [harsh spray paint smell](https: //pestpolicy.
-
-com/how-to-get-rid-of-spray-paint-smell/).
+Now, dip some cotton swap into your vinegar. However, ensure cut the vinegar moisture in the swab by squeezing it between the fingers. Thus, it'll be possible to readily soap your paint using the vinegar-dipped swab while causing minimal drips on your surfaces such as glass. Alternatively, dip some sponge or a paintbrush in the heated vinegar ready to remove the paint and its [harsh spray paint smell](https://pestpolicy.com/how-to-get-rid-of-spray-paint-smell/).
 
 Next, it's now time to dab your vinegar onto your stubborn dried paint.
 
@@ -68,8 +66,9 @@ You can also use vinegar to remove adhesive stains from different surfaces - thi
 
 Finally scrub the vinegar-soaked s surfaces using some credit card and this will remove your sticky adhesive residue.
 
-However, repeat the vinegar application and rubbing if the adhesive stain still persists. See Also: [best heat gun for removing paint](https: //pestpolicy. com/best-heat-gun-for-removing-paint/).
+However, repeat the vinegar application and rubbing if the adhesive stain still persists. See Also: [best heat gun for removing paint](https://pestpolicy.com/best-heat-gun-for-removing-paint/).
 
 ##  Conclusion
 
 So, it's clear that a high concentration given enough time to soak, will help remove a0ujnt from different surfaces including glass and metal doors. Also, the solution will remove oil, adhesive, and dust from various surfaces like trim and baseboards.
+

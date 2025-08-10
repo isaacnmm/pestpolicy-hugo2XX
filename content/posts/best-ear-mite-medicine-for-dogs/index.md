@@ -1,4 +1,4 @@
----
+﻿---
 title: Best Ear Mite Medicine for Dogs
 description: Are you be looking for the best ear mite medicine for dogs? Definitely, Ill help with that! Ear mites also called Otodectes cynotis mites is a parasitic...
 slug: /best-ear-mite-medicine-for-dogs/
@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 
-Are you be looking for the best [ear](https: //pestpolicy. com/best-medicine-for-ear-mites-in-cats/) [mite](https: //pestpolicy. com/do-dust-mites-bite/) medicine for dogs? Definitely, Ill help with that!
+Are you be looking for the best [ear](https://pestpolicy.com/best-medicine-for-ear-mites-in-cats/) [mite](https://pestpolicy.com/do-dust-mites-bite/) medicine for dogs? Definitely, Ill help with that!
 
 Ear mites (also called Otodectes cynotis mites) is a parasitic infection that is characterized by waxy/black discharge with foul smell. Ear mites mainly affects dogs ears causing irritations and discomfort. Proper medication against these infections is essential for your dogs healthy life. Let's get started!
 
@@ -170,3 +170,4 @@ Use the follow ways to prevent ear mites on your dogs/puppies. - Clean your dog 
 ##  Conclusion
 
 Ear mites can really irritate and cause discomfort to your dog if not controlled or treated. Proper selection of ear mites medicine is a crucial move towards maintaining healthy dogs life. You can use any of the medicines review in this article or opt for the homemade alternatives given. In case the signs persists, it is advisable to consult a specialist/veterinary.
+

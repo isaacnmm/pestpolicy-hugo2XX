@@ -1,4 +1,4 @@
----
+﻿---
 title: How to Get Rid Of Fleas in Carpet
 description: If youve got a furry pet at home, its likely that your carpet is infected with fleashttpsentomology.ca.uky.eduef602 . Well tell you how to get rid of the...
 slug: /how-to-get-rid-of-fleas-in-carpet/
@@ -15,9 +15,9 @@ tags:
 layout: post
 ---
 
-If youve got a furry pet at home, its likely that your carpet is [infected with [fleas](https: //pestpolicy. com/getting-rid-of-fleas-in-the-carpet/)](https: //entomology. ca. uky. edu/ef602). Well tell you how to get rid of the fleas in your carpet.
+If youve got a furry pet at home, its likely that your carpet is [infected with [fleas](https://pestpolicy.com/getting-rid-of-fleas-in-the-carpet/)](https://entomology.ca. uky. edu/ef602). Well tell you how to get rid of the fleas in your carpet.
 
-Weve carried out the research so that you dont have to, and well share with you the most effective tips and techniques that you can use to ensure that your carpets are [flea](https: //pestpolicy. com/how-to-get-rid-of-flea-eggs-on-cats/)-free. **Its best for both you and your pet that you eliminate fleas from your carpet as soon as possible.
+Weve carried out the research so that you dont have to, and well share with you the most effective tips and techniques that you can use to ensure that your carpets are [flea](https://pestpolicy.com/how-to-get-rid-of-flea-eggs-on-cats/)-free. **Its best for both you and your pet that you eliminate fleas from your carpet as soon as possible.
 
 To get rid of fleas, you just need to follow any of these three simple methods: ** - **Thoroughly vacuum the carpet** - **Steam clean the carpet** - **Treat your carpet using flea killers** [caption id="attachment_2200" align="aligncenter" width="640"]
 
@@ -93,7 +93,7 @@ Itll help you measure the rate at which the flea infestation is getting destroye
 
 Its quite simple, as you only have to place them on the carpet and keep a regular check and obviously replace them. Make your own flea trap by mixing dish soap with water in a bowl.
 
-Related: [Best Flea Spray For Yar](https: //pestpolicy. com/best-flea-spray-for-yard/)
+Related: [Best Flea Spray For Yar](https://pestpolicy.com/best-flea-spray-for-yard/)
 
 ##  How to Prevent Fleas on Carpet
 
@@ -115,4 +115,5 @@ Make sure to take preventive measures after disinfecting your place to keep them
 
 ##  Sources:
 
-1. [Flea control failure? Myths and realities. - NCBI](https: //www. ncbi. nlm. nih. gov/pubmed/24661796) 2. [All About Fleas Bothell Pet Hospital Case Studies](https: //bothellveterinarian. wordpress. com/2014/09/03/all-about-fleas/) 3. [Alternative Flea Control Products Science-Based Medicine](https: //sciencebasedmedicine. org/alternative-flea-control-products/)
+1. [Flea control failure? Myths and realities. - NCBI](https://www.ncbi. nlm. nih. gov/pubmed/24661796) 2. [All About Fleas Bothell Pet Hospital Case Studies](https://bothellveterinarian.wordpress. com/2014/09/03/all-about-fleas/) 3. [Alternative Flea Control Products Science-Based Medicine](https://sciencebasedmedicine.org/alternative-flea-control-products/)
+

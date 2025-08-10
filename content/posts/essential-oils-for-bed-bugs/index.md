@@ -1,4 +1,4 @@
----
+﻿---
 title: Essential Oils for Bed Bugs
 description: Essential oils for bed bugs? Make a list of natural treatments for bed bugs. Whenever conventional bed bug treatments fail, many homeowners opt for natural...
 slug: /essential-oils-for-bed-bugs/
@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 
-Essential oils for bed bugs? Make a list of natural treatments for bed bugs. Whenever conventional bed bug treatments fail, many homeowners opt for natural treatments, [including essential oils](https: //www. ncbi. nlm. nih. gov/pmc/articles/PMC4592615/). But do they really work effectively? *Well, many essential oils have been in use for pest control for decades. These include lavender, tea tree oil, thyme, peppermint, among others.
+Essential oils for bed bugs? Make a list of natural treatments for bed bugs. Whenever conventional bed bug treatments fail, many homeowners opt for natural treatments, [including essential oils](https://www.ncbi. nlm. nih. gov/pmc/articles/PMC4592615/). But do they really work effectively? *Well, many essential oils have been in use for pest control for decades. These include lavender, tea tree oil, thyme, peppermint, among others.
 
 * *Let's get started! *
 
@@ -23,7 +23,7 @@ Essential oils for bed bugs? Make a list of natural treatments for bed bugs. Whe
 
 ###  **1. Lavender oil for Bed Bugs**
 
-As an essential oil, lavender has been in use for many years for pest eradication. Although this floral herb has a pleasant fragrance to humans, it is disgusting and toxic to bed bugs/). It works in two ways: When sprayed directly on [bed bugs](https: //pestpolicy. com/proof-bed-bug-spray-review/), the lavender essential oil will kill bed bugs. The scent will repel and deter bed bugs.
+As an essential oil, lavender has been in use for many years for pest eradication. Although this floral herb has a pleasant fragrance to humans, it is disgusting and toxic to bed bugs/). It works in two ways: When sprayed directly on [bed bugs](https://pestpolicy.com/proof-bed-bug-spray-review/), the lavender essential oil will kill bed bugs. The scent will repel and deter bed bugs.
 
 The effectiveness of lavender essential oil depends on the type of oil you use and how well you use it.
 
@@ -137,7 +137,7 @@ Advantages of mattress encasements in bed bug control: *They Keep Bed Bugs Off T
 
 You dont have to dispose of your infested mattress. Just zip it inside an encasement, and your mattress will be as good as new. This can also prevent the spread of bed bugs to other places through discarded mattresses. *Bed Bug Control Becomes Easier*. Mattresses and box springs happen to be the most preferred hiding places for bed bugs. A mattress encasement traps some bed bugs and exposes others for easy eradication. **6.
 
-Bed Bug Powders** Bed bug powders provide an easy and effective way to eradicate bed bugs. They are also cheap and safe to use. For this reason, powders are among the most commonly used [bed bug treatments](https: //pestpolicy. com/scabies-vs-bed-bugs/). Bed bug powders vary in their effectiveness and strength. When selecting a powder for bed bug treatment, look for the following qualities.
+Bed Bug Powders** Bed bug powders provide an easy and effective way to eradicate bed bugs. They are also cheap and safe to use. For this reason, powders are among the most commonly used [bed bug treatments](https://pestpolicy.com/scabies-vs-bed-bugs/). Bed bug powders vary in their effectiveness and strength. When selecting a powder for bed bug treatment, look for the following qualities.
 
 *Effectiveness: * Consider powders that kill bed bugs rapidly and work for a wide range of surfaces.
 
@@ -147,8 +147,7 @@ Bed Bug Powders** Bed bug powders provide an easy and effective way to eradicate
 
 ##  **Conclusion**
 
-[Bed bug infestations differ](https: //pestpolicy. com/bed-bugs-vs-mites/) in their severity. So, it stands out that no single treatment can successively eradicate bed bugs on its own. Although some essential oils can be used to repel and kill bed bugs, they will not eradicate an infestation. However, they are effective when combined with other treatments such as steam treatment, [bed bug sprays](https: //pestpolicy.
-
-com/harris-bed-bug-killer-review/), and powders.
+[Bed bug infestations differ](https://pestpolicy.com/bed-bugs-vs-mites/) in their severity. So, it stands out that no single treatment can successively eradicate bed bugs on its own. Although some essential oils can be used to repel and kill bed bugs, they will not eradicate an infestation. However, they are effective when combined with other treatments such as steam treatment, [bed bug sprays](https://pestpolicy.com/harris-bed-bug-killer-review/), and powders.
 
 More importantly, its advisable to consult a pest expert for advice.
+

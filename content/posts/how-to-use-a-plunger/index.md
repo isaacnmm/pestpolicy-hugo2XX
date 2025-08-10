@@ -1,4 +1,4 @@
----
+﻿---
 title: How to Use a Plunger
 description: Overflowing toilets and slow-drains are a common plumbing problem in most homes.Do you find using a drain snake , a drain cleaner , or hiring a plumber...
 slug: /how-to-use-a-plunger/
@@ -15,13 +15,13 @@ tags:
 layout: post
 ---
 
-Overflowing toilets and slow-drains are a common plumbing problem in most homes. Do you find using a drain snake, a [drain cleaner](https: //pestpolicy. com/best-drain-cleaner//), or hiring a plumber relative price? - Well, a [plunger](https: //pestpolicy. com/how-to-unclog-a-toilet-without-a-plunger/) is an easy and cheap way to return normal drain flow in your toilets, showers, and sinks.
+Overflowing toilets and slow-drains are a common plumbing problem in most homes. Do you find using a drain snake, a [drain cleaner](https://pestpolicy.com/best-drain-cleaner//), or hiring a plumber relative price? - Well, a [plunger](https://pestpolicy.com/how-to-unclog-a-toilet-without-a-plunger/) is an easy and cheap way to return normal drain flow in your toilets, showers, and sinks.
 
-So, in this article, we discuss how to use a [plunger](https: //en. wikipedia. org/wiki/Plunger) the right way.
+So, in this article, we discuss how to use a [plunger](https://en.wikipedia. org/wiki/Plunger) the right way.
 
 ##  Details: How to Use a Plunger for Toilet or Sink Drain
 
-**0: ** **Pick the right plunger for the work. What do you want to unclog? Is it a toilet, bathtub, or sink? ** - *Cup-style plungers*have a shallow dome and a flat-bottom rim. It'll create an airtight seal when youplunge it into the sink basin. Compared to[toilet plungers](https: //pestpolicy. com/how-to-unclog-a-toilet-without-a-plunger/), the cup-style plungerhas no flap and is idealfor unclogging sinks and bathtubs.
+**0: ** **Pick the right plunger for the work. What do you want to unclog? Is it a toilet, bathtub, or sink? ** - *Cup-style plungers*have a shallow dome and a flat-bottom rim. It'll create an airtight seal when youplunge it into the sink basin. Compared to[toilet plungers](https://pestpolicy.com/how-to-unclog-a-toilet-without-a-plunger/), the cup-style plungerhas no flap and is idealfor unclogging sinks and bathtubs.
 
 - *Flange or toilet plungers*have an extra flap that's attached inside the cup. When inserted into a toilet, flange plungers will create a tight air seal and thus produce a high suction power. These are suitable for unblocking toilets. Related: Best Drain Snakes
 
@@ -59,4 +59,5 @@ If plunging doesnt seem to unclog the sink or toilet, consider using a drain sna
 
 ##  **Sources:**
 
-1. [Plunger (Drain Unclogger) - Wikipedia](https: //en. wikipedia. org/wiki/Plunger) 2. [Plunger Definition of Plunger](https: //www. merriam-webster. com/dictionary/plunger)
+1. [Plunger (Drain Unclogger) - Wikipedia](https://en.wikipedia. org/wiki/Plunger) 2. [Plunger Definition of Plunger](https://www.merriam-webster. com/dictionary/plunger)
+

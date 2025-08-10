@@ -1,4 +1,4 @@
----
+﻿---
 title: How to Unclog a Bathtub Drain With Standing Water
 description: Here's how to unclog a bathtub drain with standing water.Lately, Ive been getting many calls from clients who have clogged their bathtubs with excessive hair...
 slug: /how-to-unclog-a-bathtub-drain-with-standing-water/
@@ -43,7 +43,7 @@ So, as I noted, the drain stoppages are mainly caused by soap scum and hair. **T
 
 **** Now we come to the difficult plumbing snake on your bathtub. However, if you find this process too difficult, then you should hire a plumber to bring their professional services to unclog the standing water. **Remove overflow cover and snake. ** Further, remove the overflow cover above the bathtub. Next, feed your plumbing snake through this overflow cover up to the point you experience relatively high push back.
 
-**Rotate snake anti-clockwise** Next up, rotate the snake in an anti-clockwise direction to possibly break down the drain clog. Be keen to feel if the resistance has reduced when you push. If so, now pull the [snake out of the drain](https: //pestpolicy. com/best-drain-snakes/). Repeat this process until the clog is cleared. Finally, flush the drain using hot water.
+**Rotate snake anti-clockwise** Next up, rotate the snake in an anti-clockwise direction to possibly break down the drain clog. Be keen to feel if the resistance has reduced when you push. If so, now pull the [snake out of the drain](https://pestpolicy.com/best-drain-snakes/). Repeat this process until the clog is cleared. Finally, flush the drain using hot water.
 
 ###  Method 3: Thoroughly**Plunge the Bathtub**
 
@@ -53,14 +53,15 @@ Next, eject the overflow cover of your bathtub completely cover it using the dam
 
 However, make sure that the overflow exit is airtight before starting the plugging process. **Plunge the Bathtub** Now take your plunger and start the plunging process on your bathtub drain. However, its important that you allow yourself enough time and dont give up early as the process is very tasking. The litmus test for success in the plunging process will be when the standing water complexly and quickly drains away from the bathtub.
 
-When this is fully done, youll need to flush the bathtub using some hot water. However, if youre unsuccessful in [draining the water, then try using a drain snake](https: //pestpolicy. com/how-to-snake-a-drain/). Finally, check [how drain cleaners work](https: //pestpolicy. com/how-drain-cleaners-work/) if you'll consider this option.
+When this is fully done, youll need to flush the bathtub using some hot water. However, if youre unsuccessful in [draining the water, then try using a drain snake](https://pestpolicy.com/how-to-snake-a-drain/). Finally, check [how drain cleaners work](https://pestpolicy.com/how-drain-cleaners-work/) if you'll consider this option.
 
 ##  **Dangers of standing water in your bathtub**
 
-As outlined in the [guide](https: //www. plumbingnerds. com/standing-water-dangerous-health/), having standing water in your bathtub is a dangerous affair. Ive listed the various hazards you might be exposing yourself and family to by having the standing water remain in the bathtub. including breeding of insects and bacteria growth. **Bacteria** will easily grow in the damp and wet environment in your clogged bathtub, including the drain.
+As outlined in the [guide](https://www.plumbingnerds. com/standing-water-dangerous-health/), having standing water in your bathtub is a dangerous affair. Ive listed the various hazards you might be exposing yourself and family to by having the standing water remain in the bathtub. including breeding of insects and bacteria growth. **Bacteria** will easily grow in the damp and wet environment in your clogged bathtub, including the drain.
 
 Depending on how long the water has been standing in the bathtub, some green scum, in addition to mildew and mold, could develop on top of the water. The water is dangerous to your body and skin and being hazardous for your pets or kids. **Rats and Mice** may come drinking or washing in the standing water. This is all fine until such rice and mice carry dangerous diseases to your house as they search for water drinking places.
 
 ##  Conclusion
 
 The standing water could be a breeding ground for insects such as dragonflies, mosquitoes, and flies. Such insects could carry lead to an invasion for your family with the Zika virus or Malaria. Further, the stagnant water may also breed tapeworms and heart-worms.
+

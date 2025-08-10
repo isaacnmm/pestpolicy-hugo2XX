@@ -1,4 +1,4 @@
----
+﻿---
 title: When to Trim Trees and Shrubs
 description: Pruning is one of the most fundamental and beneficial practices for maintaining the health, vigor, and aesthetic appeal of trees and shrubs in your garden.
 slug: /when-to-trim-trees-and-shrubs/
@@ -103,7 +103,7 @@ Understanding these nuances ensures that your pruning efforts contribute positiv
 
 ##  FAQs About Pruning Trees and Shrubs
 
-**Q: Will pruning kill my tree or [shrub](https: //pestpolicy. com/can-i-plant-trees-and-shrubs-in-late-fall-or-winter/)? ** A: Proper pruning, even heavy pruning (like rejuvenation pruning), should not kill a healthy [tree](https: //pestpolicy. com/10-trees-to-grow-in-containers/) or shrub.
+**Q: Will pruning kill my tree or [shrub](https://pestpolicy.com/can-i-plant-trees-and-shrubs-in-late-fall-or-winter/)? ** A: Proper pruning, even heavy pruning (like rejuvenation pruning), should not kill a healthy [tree](https://pestpolicy.com/10-trees-to-grow-in-containers/) or shrub.
 
 However, removing too much live growth at once (more than 25-30% in a single season) or making improper cuts can stress the plant, weaken it, or lead to decline. Always know what you're cutting and why.
 
@@ -118,3 +118,4 @@ However, removing too much live growth at once (more than 25-30% in a single sea
 Only use them in very specific cases, such as preventing certain insect borers or for highly disease-prone species, and only if recommended by a certified arborist.
 
 **Q: When should I call a professional arborist? ** A: Call a certified arborist for: * Large trees (especially those near structures or power lines). * Removing large branches (over 10 cm / 4 inches in diameter). * Pruning diseased trees (they have the expertise and equipment to prevent disease spread). * Complex structural pruning or thinning. * If you are unsure about how to prune a specific tree or shrub.
+

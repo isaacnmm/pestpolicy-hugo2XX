@@ -1,4 +1,4 @@
----
+﻿---
 title: How to Seal Painted Wood for Outdoor Use
 description: Sealing wood for outdoor use is critical since most sealants contain active agents and UV-rays blockers that protect the wood from fading and aging.
 slug: /how-to-seal-painted-wood-for-outdoor-use/
@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 
-Sealing [wood](https: //pestpolicy. com/can-you-use-acrylic-paint-on-wood/) for outdoor use is critical since most sealants contain active agents and UV-rays blockers that protect the wood from fading and aging. Perhaps you intend to seal your outdoor painted wood or structure and wonder how to go about it? *Well, in this article, we are going to discuss how to seal painted wood for outdoor use.
+Sealing [wood](https://pestpolicy.com/can-you-use-acrylic-paint-on-wood/) for outdoor use is critical since most sealants contain active agents and UV-rays blockers that protect the wood from fading and aging. Perhaps you intend to seal your outdoor painted wood or structure and wonder how to go about it? *Well, in this article, we are going to discuss how to seal painted wood for outdoor use.
 
 Initially, you need to select appropriate tools, purchase the right wood sealant, prep the surface, prepare the sealant, and carry out the actual application gently with a paintbrush or a roller. *
 
@@ -47,9 +47,7 @@ Sealant and Paint Combination** This combination entails a gallon paint containe
 
 ###  Step 3: Surface Preparation
 
-- Wear protective gear (gloves, facemask, respirator, boots, and overall) for safety purposes. - Using a sweep, clean the painted wood surface to remove dust and debris from the surface. You can opt to use a vacuum cleaner in order to attain better results. - Using a mop or wet rag, rinse the wood surface, and leave it to dry. NB: You can opt for the sand section that has rots or mold using [fine-grit sandpaper](https: //pestpolicy.
-
-com/what-grit-sandpaper-for-primer-before-paint/).
+- Wear protective gear (gloves, facemask, respirator, boots, and overall) for safety purposes. - Using a sweep, clean the painted wood surface to remove dust and debris from the surface. You can opt to use a vacuum cleaner in order to attain better results. - Using a mop or wet rag, rinse the wood surface, and leave it to dry. NB: You can opt for the sand section that has rots or mold using [fine-grit sandpaper](https://pestpolicy.com/what-grit-sandpaper-for-primer-before-paint/).
 
 ###  Step 4: Sealant Preparation
 
@@ -69,12 +67,11 @@ Flat surfaces are best applies using a paint roller it reduces time and eliminat
 
 ###  Step 7: Final coat seal
 
-- Dip the roller into the sealant and load it sufficiently. - Apply over the painted wood surface (second coat) gently back and forth - Repeat the above procedure until the whole surface is completely sealed. - Leave the seal coat to dry naturally. Do not touch the sealed surface with your hand (you leave fingerprints on the surface). Cover the sealed wood with a polyethylene bag to prevent it from dust or [debris staining](https: //pestpolicy.
-
-com/varathane-fast-dry-wood-stain-reviews/).
+- Dip the roller into the sealant and load it sufficiently. - Apply over the painted wood surface (second coat) gently back and forth - Repeat the above procedure until the whole surface is completely sealed. - Leave the seal coat to dry naturally. Do not touch the sealed surface with your hand (you leave fingerprints on the surface). Cover the sealed wood with a polyethylene bag to prevent it from dust or [debris staining](https://pestpolicy.com/varathane-fast-dry-wood-stain-reviews/).
 
 ##  Conclusion
 
 Having read this article on how to seal painted wood for outdoor use, I believe that you gained skills that will improve your wood painting activity and carry oy DIY projects without any problem. Often, most outdoor painted wood are susceptible to fading, peeling, and aging especially when the wrong paint and procedure is undertaken.
 
 To seal painted wood for outdoor use, you need to select appropriate tools, purchase the right wood sealant, prepare the surface, prepare the sealant, and carry out actual application gently with a paintbrush or a roller.
+

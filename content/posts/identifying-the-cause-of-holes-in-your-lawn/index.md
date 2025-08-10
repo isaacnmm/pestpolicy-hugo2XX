@@ -1,4 +1,4 @@
----
+﻿---
 title: Identifying the Cause Of Holes in Your Lawn
 description: Discovering unexplained holes in your otherwise pristine lawn can be a frustrating and perplexing experience. These unwelcome divots not only mar the...
 slug: /identifying-the-cause-of-holes-in-your-lawn/
@@ -18,7 +18,7 @@ layout: post
 
 Discovering unexplained holes in your otherwise pristine lawn can be a frustrating and perplexing experience. These unwelcome divots not only mar the aesthetic appeal of your green space but can also pose tripping hazards or indicate underlying issues that might require immediate attention. The size, shape, and pattern of these holes, along with other tell-tale signs, often provide critical clues about the culprit behind the excavation.
 
-From foraging wildlife to industrious insects and even human activity, a variety of agents can be responsible for digging up your turf. Pinpointing the exact [cause](https: //pestpolicy. com/how-to-identify-the-cause-of-brown-spots-in-your-lawn/) is the first and most crucial step toward implementing an effective solution, whether it involves deterring pests, repairing damage, or addressing environmental factors.
+From foraging wildlife to industrious insects and even human activity, a variety of agents can be responsible for digging up your turf. Pinpointing the exact [cause](https://pestpolicy.com/how-to-identify-the-cause-of-brown-spots-in-your-lawn/) is the first and most crucial step toward implementing an effective solution, whether it involves deterring pests, repairing damage, or addressing environmental factors.
 
 This guide will help you become a lawn detective, exploring the common sources of holes in your yard, detailing the characteristics of damage left by various critters, examining non-animal causes, and advising on when it's time to call in the professionals.
 
@@ -99,3 +99,4 @@ In such cases, contact a structural engineer, foundation repair specialist, or u
 **Q4: Will the grass grow back in the holes on its own? ** A4: For very shallow disturbances, the surrounding grass may eventually fill in. However, for deeper holes or where soil has been significantly removed, you'll need to fill the hole with soil and reseed or re-sod to ensure a uniform lawn.
 
 **Q5: Can moles cause significant damage to my lawn beyond just tunnels? ** A5: While moles don't eat grass, their tunneling can sever grass roots, causing patches of grass to turn brown and die. Their mounds also disrupt the surface, making mowing difficult. Their activity can also attract other predators like raccoons looking for moles.
+

@@ -1,4 +1,4 @@
----
+﻿---
 title: How to Divide and Propagate Shrubs
 description: As your garden matures, many shrubs will grow larger, sometimes outgrowing their space or becoming less vigorous in their centers.
 slug: /how-to-divide-and-propagate-shrubs/
@@ -87,3 +87,4 @@ Dividing and propagating shrubs is a wonderfully sustainable and satisfying gard
 By correctly identifying cane-type shrubs, performing the division at the optimal time, using sharp tools, and providing diligent aftercare, you can ensure a high success rate.
 
 This ancient gardening technique not only breathes new life into your existing shrubs but also empowers you to create a more abundant and vibrant landscape for years to come.
+

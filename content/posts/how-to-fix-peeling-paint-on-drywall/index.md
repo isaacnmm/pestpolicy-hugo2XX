@@ -1,4 +1,4 @@
----
+﻿---
 title: How to Fix Peeling Paint on Drywall
 description: Painting drywall may not be simple, especially if the wrong approach or paint application method is followed. The drywall material could be plasterboard,...
 slug: /how-to-fix-peeling-paint-on-drywall/
@@ -16,7 +16,7 @@ layout: post
 
 Painting drywall may not be simple, especially if the wrong approach or paint application method is followed. The drywall material could be plasterboard, gypsum, sheetrock, wallboard, plywood reinforcement, or even a composite material.
 
-Your peeling paint problem will even worsen if you opt to coat the peeled section without adhering to the right procedure. *Well, in this article, we shall be discussing how to [fix](https: //pestpolicy. com/how-do-i-fix-peeling-paint-on-ceiling/) [peeling](https: //pestpolicy. com/how-to-paint-a-deck-with-peeling-paint/) paint on drywall.
+Your peeling paint problem will even worsen if you opt to coat the peeled section without adhering to the right procedure. *Well, in this article, we shall be discussing how to [fix](https://pestpolicy.com/how-do-i-fix-peeling-paint-on-ceiling/) [peeling](https://pestpolicy.com/how-to-paint-a-deck-with-peeling-paint/) paint on drywall.
 
 To start with, you need to select appropriate material and tools, prepare the peeled drywall sufficiently, repair/seal dents and damaged sections, and polish the drywall excellently before priming the surface, where necessary.
 
@@ -76,7 +76,7 @@ Pour finish paint into an empty bucket and thin accordingly as directed by the m
 
 To attain a smooth final finish, a soft bristle paintbrush should be used when terminating edges and lining paint finish coat. Covering the painted surface (for oil-based paint) or sprinkling some water on the surface should be done to keep off the dust from settling due to electrostatic charges attraction.
 
-Importantly, never polish or sand drywall after painting (when correcting runs/drains) as this act may destroy the impressive outlook impression. See Also: [Paint a Deck with Peeling Paint](https: //pestpolicy. com/how-to-paint-a-deck-with-peeling-paint/).
+Importantly, never polish or sand drywall after painting (when correcting runs/drains) as this act may destroy the impressive outlook impression. See Also: [Paint a Deck with Peeling Paint](https://pestpolicy.com/how-to-paint-a-deck-with-peeling-paint/).
 
 ##  What Causes Paint to Peel on Drywall?
 
@@ -139,3 +139,4 @@ Having chosen to read this article on how to fix peeling paint on drywall, I bel
 Therefore, when fixing peeling paint, you need to select appropriate material and tools, prepare the peeled drywall sufficiently, repair/seal dents and damaged sections, and polish the drywall excellently before priming the surface, where necessary.
 
 Further, you will be required to select paint (as per the type of the primary drywall material), prepare the paint accordingly, and carry out paint application using a paintbrush or a roller before leaving the paint layer to dry to touch as per the manufacturers instructions.
+

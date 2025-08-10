@@ -1,4 +1,4 @@
----
+﻿---
 title: What Does Lizard Poop Look Like
 description: What does lizard poop look like?Reptiles such as salamanders lizards and geckos love to hang around the house. You will find their poop on any surface...
 slug: /what-does-lizard-poop-look-like/
@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 
-What does [lizard](https: //pestpolicy. com/are-lizards-poisonous/) [poop](https: //pestpolicy. com/what-does-raccoon-poop-look-like/) look like? Reptiles such as salamanders lizards and geckos love to hang around the house. You will find their poop on any surface including your bed, sofa set, and wardrobe among other places. Certainly, these fecal droppings can create a disgusting mess in the house - particularly after a heavy meal.
+What does [lizard](https://pestpolicy.com/are-lizards-poisonous/) [poop](https://pestpolicy.com/what-does-raccoon-poop-look-like/) look like? Reptiles such as salamanders lizards and geckos love to hang around the house. You will find their poop on any surface including your bed, sofa set, and wardrobe among other places. Certainly, these fecal droppings can create a disgusting mess in the house - particularly after a heavy meal.
 
 Sometimes, it difficult to differentiate lizard poop from that of rodents and birds. *So, how does lizard poop look like? Lizard poop appears as black droppings with a white substance on one end. The white matter shows the presence of uric acid and its excreted together with the solid waste. * *This is because lizards use one opening (cloaca) to excrete solid waste and urine.
 
@@ -39,7 +39,7 @@ Related: Are Leopard Geckos Nocturnal?
 
 ###  **Where Do Lizards Poop?**
 
-According to a [research](https: //www. sciencemag. org/news/2019/08/lizards-poop-biggest-rocks-around) done at the university of Antwerp, lizards exhibit some similarity in their choice of toilet. In the controlled experiment, 90 lizards were each placed in an enclosure with different sizes of rocks. Surprisingly, 80% of the lizards pooped on the largest rock.
+According to a [research](https://www.sciencemag. org/news/2019/08/lizards-poop-biggest-rocks-around) done at the university of Antwerp, lizards exhibit some similarity in their choice of toilet. In the controlled experiment, 90 lizards were each placed in an enclosure with different sizes of rocks. Surprisingly, 80% of the lizards pooped on the largest rock.
 
 It has been previously indicated that wall lizards communicate with their fecal droppings.
 
@@ -59,7 +59,7 @@ Use gloves every time youre cleaning your pets cage. If you have kids in your ho
 
 *Lizard Poop: * The diet of lizards is composed of small insects and arachnid. A few species include plants in their diet. They excrete small pellet-like feces the size of rodent feces. The size of the droppings depend on the species and size of the lizard. The droppings have a small white portion which is fairly dry compared to those of snake poop. *Snake poop: * Unlike lizard poop, snake poop is quite lose and has no defined shape.
 
-The white portion on the end of the poop is more liquid and relatively larger than that in lizard poop. A snake feeds by swallowing their prey whole. So their poop contains the indigestible remains such as bones, teeth, hooves, hair and scales. Related: [What Does a Garden Lizard Eat? ](https: //pestpolicy. com/what-does-a-garden-lizard-eat/)
+The white portion on the end of the poop is more liquid and relatively larger than that in lizard poop. A snake feeds by swallowing their prey whole. So their poop contains the indigestible remains such as bones, teeth, hooves, hair and scales. Related: [What Does a Garden Lizard Eat? ](https://pestpolicy.com/what-does-a-garden-lizard-eat/)
 
 ###  **How to Clean Lizard Poop Stain from fabrics**
 
@@ -93,4 +93,5 @@ If youre having trouble identifying the type of pest in your house, its the righ
 
 ##  Sources:
 
-1. [Lizards Management Guidelines--UC IPM](http: //ipm. ucanr. edu/PMG/PESTNOTES/pn74120. html) 2. [The legless lizards of LAX - Understanding Evolution](https: //evolution. berkeley. edu/evolibrary/news/131005_leglesslizards) 3. Reptiles and Amphibians Healthy Pets, Healthy People CDC
+1. [Lizards Management Guidelines--UC IPM](http://ipm.ucanr. edu/PMG/PESTNOTES/pn74120. html) 2. [The legless lizards of LAX - Understanding Evolution](https://evolution.berkeley. edu/evolibrary/news/131005_leglesslizards) 3. Reptiles and Amphibians Healthy Pets, Healthy People CDC
+

@@ -1,4 +1,4 @@
----
+﻿---
 title: Best Acoustic Guitar Under 2000
 description: You're here since you're looking for a great acoustic guitar. So, relax, you're right on time for my review best acoustic guitar under 2000 and suitable...
 slug: /best-acoustic-guitar-under-2000/
@@ -40,7 +40,7 @@ But you can get treble, mid, and bass if you remove the input jack of the acoust
 
 Cons: - None
 
-Read Also: [What's the Small-Hand Acoiutic Guitar](https: //pestpolicy. com/best-acoustic-guitar-for-small-hands/)?
+Read Also: [What's the Small-Hand Acoiutic Guitar](https://pestpolicy.com/best-acoustic-guitar-for-small-hands/)?
 
 ###  [2. Taylor 314ce - Sapele Back and Sides with V-Class Bracing](https://www.amazon.com/dp/B07F7P4L9K/?tag=p-policy-20)
 
@@ -56,7 +56,7 @@ Pros: - Has a durable Sitka spruce top plus Sapele sides and back - Venetian cut
 
 Cons: - None
 
-https: //youtu. be/gkdeWAc77sw
+https://youtu.be/gkdeWAc77sw
 
 ###  [3. Martin D-16RGT (16 Series) Dreadnought Acoustic Guitar](https://www.amazon.com/dp/B001R2JRFY/?tag=p-policy-20)
 
@@ -78,7 +78,7 @@ With the quality and solid wood, Martin D-16RGT is studio type plus the rosewood
 
 Cons: - None
 
-Read Also: [Acoustic Guitar Under 1500](https: //pestpolicy. com/best-acoustic-guitar-under-1500/)
+Read Also: [Acoustic Guitar Under 1500](https://pestpolicy.com/best-acoustic-guitar-under-1500/)
 
 ###  [4. Breedloves African Oregon Concert CE](https://www.amazon.com/dp/B01MTFVZTL/?tag=p-policy-20)
 
@@ -108,8 +108,9 @@ Pros: - Theebony fingerboard plus Cutaway renders the guitar very playable - The
 
 Cons: - Some don't love the cutaway
 
-Read Also: [Here're some acoustic guitar under 300](https: //pestpolicy. com/best-acoustic-guitar-under-300/)
+Read Also: [Here're some acoustic guitar under 300](https://pestpolicy.com/best-acoustic-guitar-under-300/)
 
 ##  Conclusion
 
 On the best acoustic guitar under 2000, check the guitar action and intonation - must have a difference between 5th & 12th fret. Read Also: Here are some acoustic guitars under 1000?
+

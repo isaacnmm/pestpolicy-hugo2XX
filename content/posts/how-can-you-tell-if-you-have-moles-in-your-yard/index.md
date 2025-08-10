@@ -1,4 +1,4 @@
----
+﻿---
 title: How Can You Tell If You Have Moles in Your Yard
 description: Maybe in your yard, you spotted a mouse or a rat, or its a mole but you can tell the difference. How can you tell if you have moles in your yard? Well, here...
 slug: /how-can-you-tell-if-you-have-moles-in-your-yard/
@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 
-Maybe in your yard, you spotted a mouse or a rat, or its a [mole](https: //pestpolicy. com/do-moles-have-eyes/) but you can tell the difference. How can you tell if you have moles in [your](https: //pestpolicy. com/how-to-clean-your-laptop-keyboard/) yard? **Well, here are the signs of moles in the yard; moulding, drying plants and grass, and sighting a mole.
+Maybe in your yard, you spotted a mouse or a rat, or its a [mole](https://pestpolicy.com/do-moles-have-eyes/) but you can tell the difference. How can you tell if you have moles in [your](https://pestpolicy.com/how-to-clean-your-laptop-keyboard/) yard? **Well, here are the signs of moles in the yard; moulding, drying plants and grass, and sighting a mole.
 
 You need to deal with them, the moment you spot them before the level of damage can be extensive.
 
@@ -87,8 +87,9 @@ You can do this trench along the border of your garden to keep the moles. For co
 
 ###  3.**Keep your lawn clean**
 
-Last but not least keeping your lawn clean also serve as a natural way of keeping the moles off from your yard. Some maintenance practices like mowing the grass, keeping large chunks of mulch, and maintaining a relatively dry yard can be very helpful in keeping off the moles. Read Also: [What Do Opossums Eat? ](https: //pestpolicy. com/what-do-opossums-eat/)
+Last but not least keeping your lawn clean also serve as a natural way of keeping the moles off from your yard. Some maintenance practices like mowing the grass, keeping large chunks of mulch, and maintaining a relatively dry yard can be very helpful in keeping off the moles. Read Also: [What Do Opossums Eat? ](https://pestpolicy.com/what-do-opossums-eat/)
 
 ##  Conclusion
 
 In conclusion, how can you tell if you have moles in your yard? By taking note of all the possible signs listed above, it becomes easier to spot moles infestations and deal with them. Moles are capable of doing much damage to your yard more than you can think. You can employ either natural or artificial ways to eliminate them. If worse comes to worst, you can engage the animal experts for help.
+

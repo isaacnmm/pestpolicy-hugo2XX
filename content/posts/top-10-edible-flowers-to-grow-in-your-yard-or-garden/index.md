@@ -1,4 +1,4 @@
----
+﻿---
 title: Top 10 Edible Flowers to Grow in Your Yard or Garden
 description: Beyond their aesthetic appeal, many flowers offer a delightful secret they are perfectly edible, adding unique flavors, vibrant colors, and intriguing...
 slug: /top-10-edible-flowers-to-grow-in-your-yard-or-garden/
@@ -80,6 +80,7 @@ Nairobi context: Roses are a significant crop and garden favorite in Kenya, thri
 
 ##  Final Thoughts
 
-Growing edible flowers is a delightful way to add an extra dimension to [your](https: //pestpolicy. com/how-to-deal-with-moles-in-your-yard/) garden and your culinary adventures. It encourages creativity in the kitchen and fosters a deeper connection to where our food comes from.
+Growing edible flowers is a delightful way to add an extra dimension to [your](https://pestpolicy.com/how-to-deal-with-moles-in-your-yard/) garden and your culinary adventures. It encourages creativity in the kitchen and fosters a deeper connection to where our food comes from.
 
 By choosing varieties that thrive in your local climate (like the many mentioned that do well in Nairobi), practicing organic gardening methods, and exercising caution with identification, you can safely enjoy the beauty and unique flavors that these floral gems bring to your table. So, go ahead, cultivate a more colorful and delicious garden, and let your palate be surprised!
+

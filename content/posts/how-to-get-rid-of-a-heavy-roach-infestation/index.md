@@ -1,4 +1,4 @@
----
+﻿---
 title: How to Get Rid Of a Heavy Roach Infestation
 description: What's the best way to kill roaches ? Well, here's a summary Traps, Baits, Sprays, and Growth Regulators IGR with their method of roach killing. 1.
 slug: /how-to-get-rid-of-a-heavy-roach-infestation/
@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 
-*What's the best way to kill roaches*? Well, here's a summary; Traps, Baits, Sprays, and Growth Regulators (IGR) with their method of roach killing. 1. [Contact roach killers](https: //pestpolicy. com/best-roach-killer-for-apartments/)and Roach Repellents, 2. Roach killers with secondary kill effect and Gel baits (contain both an attractant and roach poison), and 3.
+*What's the best way to kill roaches*? Well, here's a summary; Traps, Baits, Sprays, and Growth Regulators (IGR) with their method of roach killing. 1. [Contact roach killers](https://pestpolicy.com/best-roach-killer-for-apartments/)and Roach Repellents, 2. Roach killers with secondary kill effect and Gel baits (contain both an attractant and roach poison), and 3.
 
 Diatomaceous earth powder(breaks the roaches' exoskeleton and fatally removes its body fluid).
 
@@ -41,7 +41,7 @@ The roach killers, such as traps, will help exterminate the bugs. However, these
 
 ###  *a. Roach Baits*
 
-Roach bait is an indoor roach killer or poison that exploits [cockroaches](https: //pestpolicy. com/how-to-get-rid-of-cockroaches/)' emetophobic, coprophagic, and cannibalistic trends. Gel bait stations will come in tubes that you can squeeze into crevices and cracks and under baseboards. The roaches that'll be poisoned go back to their roach nest, vomit, or even die.
+Roach bait is an indoor roach killer or poison that exploits [cockroaches](https://pestpolicy.com/how-to-get-rid-of-cockroaches/)' emetophobic, coprophagic, and cannibalistic trends. Gel bait stations will come in tubes that you can squeeze into crevices and cracks and under baseboards. The roaches that'll be poisoned go back to their roach nest, vomit, or even die.
 
 Therefore, the roaches in the nest will cannibalize (eat the dead roach) or eat their vomit, and hence this will pass the active bait poison to them. There are different types of roach bait for various roach species you can use for indoor and outdoor spaces. But roach baits may make many roaches die in several areas of your house - and thus, you'll need to vacuum thoroughly in 3-7 days.
 
@@ -65,13 +65,13 @@ Boric Acid is created from boron plus water, making it extremely toxic to roache
 
 Boric acid is naturally found in the ground, and they act through contact and ingestion.
 
-Borax will stick to the bug's body, or they'll eat it and damage its nervous system, causing a fatality. Some of us sometimes need a product that'll work with no complications, such as becoming toxic to kids and pets. If you're anything like me, you'd thus go for some of the powdered roach killers such as [Boric acid/ borax powder](https: //pestpolicy. com/does-boric-acid-kill-roaches/).
+Borax will stick to the bug's body, or they'll eat it and damage its nervous system, causing a fatality. Some of us sometimes need a product that'll work with no complications, such as becoming toxic to kids and pets. If you're anything like me, you'd thus go for some of the powdered roach killers such as [Boric acid/ borax powder](https://pestpolicy.com/does-boric-acid-kill-roaches/).
 
 However, the interesting bit is that the roaches will carry the boric acid back to their nest, poison the other insects, and help wipe the whole roach population.
 
 ###  *b. Roach Sprays*
 
-Most of the users love roach spray apart from some that have pungent smells. The sprays have [D-phenothrin](https: //en. wikipedia. org/wiki/Phenothrin) and [prallethrin](https: //en. wikipedia. org/wiki/Prallethrin) as the active ingredients. - The roach sprays can be used on cracks, crevices, and furniture to effectively reach the roach nests.
+Most of the users love roach spray apart from some that have pungent smells. The sprays have [D-phenothrin](https://en.wikipedia. org/wiki/Phenothrin) and [prallethrin](https://en.wikipedia. org/wiki/Prallethrin) as the active ingredients. - The roach sprays can be used on cracks, crevices, and furniture to effectively reach the roach nests.
 
 - The pyrethrum ingredient enters the roaches cuticle to bind the nerves sodium channels and thus stopping body activities such as heartbeat and breathing in the apartment. Despite being a very harmful nerve agent to roaches, the pyrethrum is nontoxic to human beings and other mammals.
 
@@ -89,4 +89,5 @@ They affect the length in which the roach remains in the larval or nymphal stage
 
 ##  Conclusion
 
-When you expose the cockroach nymphs to the juvenoid IGRs, they develop infertile adults or will not molt into adults. Also, the chemicals can affect the roaches adult life by blocking the creation of viable roach eggs. As a birth control method, the IGR will help prevent the development of [roach babies](https: //pestpolicy. com/what-do-baby-roaches-look-like//) or tiny roaches.
+When you expose the cockroach nymphs to the juvenoid IGRs, they develop infertile adults or will not molt into adults. Also, the chemicals can affect the roaches adult life by blocking the creation of viable roach eggs. As a birth control method, the IGR will help prevent the development of [roach babies](https://pestpolicy.com/what-do-baby-roaches-look-like//) or tiny roaches.
+

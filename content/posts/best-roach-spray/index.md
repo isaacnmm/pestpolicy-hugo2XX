@@ -1,4 +1,4 @@
----
+﻿---
 title: Best Roach Spray
 description: In this article, I will review the best roach sprays. Cockroach infestation in your house or compound can really be problematic if not attended. Cockroaches...
 slug: /best-roach-spray/
@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 
-In this article, I will review the best roach sprays. [Cockroach](https: //extension. umn. edu/insects-infest-homes/cockroaches) infestation in your house or compound can really be problematic if not attended.
+In this article, I will review the best roach sprays. [Cockroach](https://extension.umn. edu/insects-infest-homes/cockroaches) infestation in your house or compound can really be problematic if not attended.
 
 Cockroaches contaminate foodstuff by biting and feeding on them. They even defecate on your kitchen wear, furniture, and bedding, thus messing them. What Attracts cockroaches in your home? Cockroaches may be attracted in your Home by some of the following things: 1. Free Access to plenty of dirty dishes, improperly stored food, and water. 2. A lot of rubbish and dirty house/room (Poor sanitary conditions). 3. Improper housing. 4.
 
@@ -69,7 +69,7 @@ Wondercide also helps in inhibiting the future infestation of cockroaches and ot
 
 Cons: - No residual protection is available. - Requires regular application.
 
-Related: [Best Roach Killer](https: //pestpolicy. com/best-roach-killer/)
+Related: [Best Roach Killer](https://pestpolicy.com/best-roach-killer/)
 
 ###  [4. Hot Shot Cockroach Spray](https://www.amazon.com/dp/B00YXR2TX2/?tag=p-policy-20)
 
@@ -87,7 +87,7 @@ Hot Shot spray effectively penetrates cockroach hideouts due to its regulated Oz
 
 Cons: - It can affect pets and children. - Kills on contact only.
 
-Read Also: [Yard Spray for Ticks Reviewed](https: //pestpolicy. com/best-yard-spray-for-ticks/)
+Read Also: [Yard Spray for Ticks Reviewed](https://pestpolicy.com/best-yard-spray-for-ticks/)
 
 ###  [5. Combat Max Cockroach Spray](https://www.amazon.com/dp/B01NADH3VG/?tag=p-policy-20)
 
@@ -172,3 +172,4 @@ You can prevent a cockroach infestation in your Home by any of the following way
 ##  Conclusion
 
 A cockroach infestation can lead to problems such as food contaminations & poisoning, allergies, discomfort, and frequent disturbances. You can use some of the sprays reviewed in this article to kill cockroach intrusion in your place. It is important to read instructions on the labels to align the suitability of an individual spray. You can also opt for the alternative cockroach elimination methods highlighted above.
+

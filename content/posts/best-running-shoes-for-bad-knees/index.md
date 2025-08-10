@@ -1,4 +1,4 @@
----
+﻿---
 title: Best Running Shoes for Bad Knees
 description: Are you looking for thebest running shoes for bad kneesor knee pain ? Knee pain can be a real challenge to runners. It can negatively impact their workouts,...
 slug: /best-running-shoes-for-bad-knees/
@@ -24,15 +24,15 @@ Hence, get a pair of shoes with an excellent level of cushioning and support. *S
 
 On the top spot, I have out the Saucony Cohesion 10 both for its suitable price and effectiveness in preventing and treating pain from bad knees. This pair of shoes will give you adequate support and stability while running - both for heavy and short mileage.
 
-Saucony Cohesion 10 has a mesh upper that'll make the feet relaxed while you're running. When the feet will not have blisters. Further, it is adequately cushioned, comfortable, and lightweight for your runs to [reduce knee pain](https: //www. ncbi. nlm. nih. gov/pmc/articles/PMC3408027/). The manufacturer removed a few overlays on the upper, which leave the trainers being comfortable and lighter.
+Saucony Cohesion 10 has a mesh upper that'll make the feet relaxed while you're running. When the feet will not have blisters. Further, it is adequately cushioned, comfortable, and lightweight for your runs to [reduce knee pain](https://www.ncbi. nlm. nih. gov/pmc/articles/PMC3408027/). The manufacturer removed a few overlays on the upper, which leave the trainers being comfortable and lighter.
 
 The GRID technology will help in absorbing shock from your knees while its midsole utilizes the injection-molded Eva technology to give you proper knee support. Further, the Tri-flex system (with flex gloves) will give you additional traction, flexibility, and improved shock absorption.
 
-The [shoe](https: //pestpolicy. com/best-cushioned-running-shoes-for-bad-knees/) also offers impressive cushioning to enable both light and male and heavy female runners to use the shoe for an extended period and [losing weight](https: //pestpolicy. com/how-to-exercise-with-[bad](https: //pestpolicy. com/how-to-exercise-with-bad-knees-to-lose-weight/)-knees-to-lose-weight/).
+The [shoe](https://pestpolicy.com/best-cushioned-running-shoes-for-bad-knees/) also offers impressive cushioning to enable both light and male and heavy female runners to use the shoe for an extended period and [losing weight](https://pestpolicy.com/how-to-exercise-with-[bad](https://pestpolicy.com/how-to-exercise-with-bad-knees-to-lose-weight/)-knees-to-lose-weight/).
 
 ###  [2. ASICS Men's Gel-Venture 6 Running Shoe - #2 Pick](https://www.amazon.com/dp/B0725BSK2P/?tag=p-policy-20)
 
-GEL-Venture 6 comes with an excellent outsole to give you adequate traction in all your run on rough roads. A [recent study](http: //www. ncbi. nlm. nih. gov/pubmed/23377837) show Knee cartilage loves cyclical loading making cartilage cells divide faster and replenish knee tissue.
+GEL-Venture 6 comes with an excellent outsole to give you adequate traction in all your run on rough roads. A [recent study](http://www.ncbi. nlm. nih. gov/pubmed/23377837) show Knee cartilage loves cyclical loading making cartilage cells divide faster and replenish knee tissue.
 
 It comes with a removable sock-liner, which will enable you to use suitable orthotics to prevent knee pain. I found this pair of shoes to be great for people with high arches / under-pronators as it's not a must to use extra support. Further, it's excellent cushioning will give you a smooth ride as it absorbs all the shock that might otherwise land on your knees. This shoe is also championed to be fantastic footwear for supination.
 
@@ -82,7 +82,7 @@ The sole is unbelievably sturdy; you will always be in control as it allows exce
 
 It's one of the traditional running shoes but still preferred by many because of its high cushioning and support to knees.
 
-The Brooks Men's Beast 14 features a linear design that offers excellent support and stability to your knees. Further, they are designed with a motion-control mechanism that [cont](https: //www. ncbi. nlm. nih. gov/pubmed/18759313/) [rols pronation](https: //www. ncbi. nlm. nih. gov/pubmed/18759313/). Hence, they are ideal for over-pronators. Runners who experience over-pronation while running should consider the Brooks Men's Beast 14.
+The Brooks Men's Beast 14 features a linear design that offers excellent support and stability to your knees. Further, they are designed with a motion-control mechanism that [cont](https://www.ncbi. nlm. nih. gov/pubmed/18759313/) [rols pronation](https://www.ncbi. nlm. nih. gov/pubmed/18759313/). Hence, they are ideal for over-pronators. Runners who experience over-pronation while running should consider the Brooks Men's Beast 14.
 
 The shoe offers stability and great cushioning, giving total support to the runner's body. Its sock-liner technology and moisture managing mechanism will help regulate the temperature inside the shoe, leaving your feet feeling fresher. The Beast 14 is flat in design, providing additional support to your foot's mid-section.
 
@@ -100,7 +100,7 @@ Pegasus 34 is uniquely designed to fit its size.
 
 Further, being a lightweight shoe, it'll be safe and suitable for running while having knee and back problems. Also, it is covered with a Flymesh material, which reduces heat buildup while you are running. You'll love the support and cushion the Pegasus 34 will give you. The shoe comes in over 20 different unique color combinations to give you your best preference.
 
-Read Also: [Tennis Shoes for Standing on Concrete All Day](https: //pestpolicy. com/best-tennis-shoes-for-standing-on-concrete-all-day/). Also, it has an exceptional rubber strip near the sole to help a runner quickly and comfortably transition between the toe and heel.
+Read Also: [Tennis Shoes for Standing on Concrete All Day](https://pestpolicy.com/best-tennis-shoes-for-standing-on-concrete-all-day/). Also, it has an exceptional rubber strip near the sole to help a runner quickly and comfortably transition between the toe and heel.
 
 ###  [9. Hoka One Bondi 5 - Best Running Shoe for a Smooth Ride](https://www.amazon.com/dp/B078XMRD8Z/?tag=p-policy-20)
 
@@ -116,4 +116,5 @@ The Bondi 5 midsole has a soft EVA foam that overlays the whole shoe. This foam 
 
 ##  Conclusion
 
-*The two models will prevent injury to your joints' protective cartilage. Don't forget to check outthese greatcompression socks. * The shoe allows your foot to rest on the cushioning comfortably, giving you comfort and stability. Poor cushioning on your running shoes [increases tibial impact shock](https: //pdfs. semanticscholar. org/9004/7498db68661201d8cd302f83d0d078613d35. pdf) and will notprevent Bad Knees.
+*The two models will prevent injury to your joints' protective cartilage. Don't forget to check outthese greatcompression socks. * The shoe allows your foot to rest on the cushioning comfortably, giving you comfort and stability. Poor cushioning on your running shoes [increases tibial impact shock](https://pdfs.semanticscholar. org/9004/7498db68661201d8cd302f83d0d078613d35. pdf) and will notprevent Bad Knees.
+

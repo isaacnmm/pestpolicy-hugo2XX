@@ -1,4 +1,4 @@
----
+﻿---
 title: Roku Smart Soundbar Review
 description: This is a Roku Smart Soundbar Review - a device that I'll note from the offset is a great streamer or soundbar that allows additional surround speakers - a...
 slug: /roku-smart-soundbar-review/
@@ -16,7 +16,7 @@ layout: post
 
 This is a Roku Smart Soundbar Review - a device that I'll note from the offset is a great streamer or soundbar that allows additional surround speakers - a quality soundbar-for-under-100/).
 
-So, with these soundbars, you'll significantly improve the quality of Live TV or streaming sound for HBO Max, Apple TV Plus, Disney Plus, and Netflix. So, Roku [[Smart](https: //pestpolicy. com/how-smart-are-bearded-dragons/) Soundbar](https: //www. bose. com/en_us/better_with_bose/what_does_a_smart_soundbar_do.
+So, with these soundbars, you'll significantly improve the quality of Live TV or streaming sound for HBO Max, Apple TV Plus, Disney Plus, and Netflix. So, Roku [[Smart](https://pestpolicy.com/how-smart-are-bearded-dragons/) Soundbar](https://www.bose. com/en_us/better_with_bose/what_does_a_smart_soundbar_do.
 
 html) will upgrade immersion for streaming and TV audio even without a subwoofer but you can also add a wireless subwoofer for pure surround sound. Read Also: Best Camera for Music Videos
 
@@ -36,7 +36,7 @@ Further, under the Soundbar grill, you'll find 4 2. 5 inch drivers that are full
 
 So, you might get into problems if you misplace the remote for the Roku Smart Soundbar. But there might be an escape route with the Roku phone application or the remote finder for your Roku Ultra. Further, at the bar's rear end, you'll find a USB port, optical port, and an HDMI ARC and screw holes for wall-mounting. It's compatible with Spotify Connect and Bluetooth.
 
-Roku Smart Soundbar supports 4K video for the HDR10 and hence it'll applications such as Vudu Netflix are great-looking on your 4K HDR TV - check [Soundbars Under 200](https: //pestpolicy. com/best-soundbar-under-200/). No input switching with this Roku Smart Soundbar since it's designed for HDMI connection. Further, you can't [manually switch to the optical audio](https: //pestpolicy. com/soundbar-optical-vs-hdmi/).
+Roku Smart Soundbar supports 4K video for the HDR10 and hence it'll applications such as Vudu Netflix are great-looking on your 4K HDR TV - check [Soundbars Under 200](https://pestpolicy.com/best-soundbar-under-200/). No input switching with this Roku Smart Soundbar since it's designed for HDMI connection. Further, you can't [manually switch to the optical audio](https://pestpolicy.com/soundbar-optical-vs-hdmi/).
 
 If the HDMI port is used, the optical won't work.
 
@@ -61,3 +61,4 @@ Compared to a Vizio SB3621, the Roku Smart Soundbar - this Vizio bar produces a 
 ##  Conclusion
 
 That's it with the This is a Roku Smart Soundbar Review! So, consider what your needs are for a soundbar. Yamaha YAS-109 will be great for playing from current sources like Acoustic Guitar mics. However, the Roku Smart bar will be great if you need to have minimal devices or if you're simply starting. But it definitely costly than the Vizio SB3612 with HDMI and streaming capability.
+

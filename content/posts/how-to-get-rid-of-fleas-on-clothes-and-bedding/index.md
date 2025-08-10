@@ -1,4 +1,4 @@
----
+﻿---
 title: How to Get Rid Of Fleas on Clothes and Bedding
 description: Fleas hiding in clothes and bedding cause disastrous effects - like intense and annoying itching and may transmit diseases like Bubonic plague and Rickettsia...
 slug: /how-to-get-rid-of-fleas-on-clothes-and-bedding/
@@ -15,9 +15,9 @@ tags:
 layout: post
 ---
 
-[Fleas](https: //pestpolicy. com/getting-rid-of-fleas-in-the-carpet/) hiding in clothes and bedding cause disastrous effects - like intense and annoying itching and may transmit diseases like [Bubonic plague](https: //www. mayoclinic. org/diseases-conditions/plague/symptoms-causes/syc-20351291) and Rickettsia prowazekii. Fleas may live on clothing (dirty areas) for ~ 24 hours.
+[Fleas](https://pestpolicy.com/getting-rid-of-fleas-in-the-carpet/) hiding in clothes and bedding cause disastrous effects - like intense and annoying itching and may transmit diseases like [Bubonic plague](https://www.mayoclinic. org/diseases-conditions/plague/symptoms-causes/syc-20351291) and Rickettsia prowazekii. Fleas may live on clothing (dirty areas) for ~ 24 hours.
 
-But the critters cause [flea](https: //pestpolicy. com/how-to-get-rid-of-flea-eggs-on-cats/) bites, which many people are allergic to, and cause skin infections or blisters (pus-filled). **The short answer on how to kill fleas in clothes and bedding - detergent-launder the fabrics, heat-treatment, and turbulence produced by your washing machine will exterminate fleas, flea eggs, pupae, and larvae. ** See these flea sprays.
+But the critters cause [flea](https://pestpolicy.com/how-to-get-rid-of-flea-eggs-on-cats/) bites, which many people are allergic to, and cause skin infections or blisters (pus-filled). **The short answer on how to kill fleas in clothes and bedding - detergent-launder the fabrics, heat-treatment, and turbulence produced by your washing machine will exterminate fleas, flea eggs, pupae, and larvae. ** See these flea sprays.
 
 ##  Details: How to Get Rid Of Fleas on Clothes and Bedding
 
@@ -71,14 +71,15 @@ Also, check to keep the yards and homes free from fleas.
 
 ###  5. Flea-Clean the Yard
 
-Housekeeping is a great line of defense against fleas in your house and property. Therefore, trim the shrubs, mow the grass, and clean the yard to control fleas - also try the [flea spray for the yard](https: //pestpolicy. com/best-flea-spray-for-yard/). After doing the landscaping, undertake processes that'll dissuade wildlife and feral pets from getting into the yard - as this may allow them to drop fleas.
+Housekeeping is a great line of defense against fleas in your house and property. Therefore, trim the shrubs, mow the grass, and clean the yard to control fleas - also try the [flea spray for the yard](https://pestpolicy.com/best-flea-spray-for-yard/). After doing the landscaping, undertake processes that'll dissuade wildlife and feral pets from getting into the yard - as this may allow them to drop fleas.
 
 While at it, control the entry of feral cats, raccoons, and Chipmunks, Opossums.
 
-Also, don't leave feeding bowls used by cats and dogs in the yard. - Trim the high shrubs and trees that may allow the wild animals to crawl into the attic. Also, seal the under decks, sheds, garages, and crawl spaces - try[flea and tick killers](https: //pets. webmd. com/flea-tick-control-15/default. htm). - Further, for shrubs planting, ensure the trees will be separated enough from each other and away from the structures including the house.
+Also, don't leave feeding bowls used by cats and dogs in the yard. - Trim the high shrubs and trees that may allow the wild animals to crawl into the attic. Also, seal the under decks, sheds, garages, and crawl spaces - try[flea and tick killers](https://pets.webmd. com/flea-tick-control-15/default. htm). - Further, for shrubs planting, ensure the trees will be separated enough from each other and away from the structures including the house.
 
 You must undertake flea prevention through spot-on flea extermination on your pets. Clean the pet carrier and brush plus flea comb the pets (including the long-haired pet) once they get home.
 
 ##  Conclusion
 
 You don't want the fleas to spread. What you want to do is to put the laundry (clothes, blankets, bedsheets, e. t. c) in a nice sealed plastic bag and take them straight to the washing machine.
+

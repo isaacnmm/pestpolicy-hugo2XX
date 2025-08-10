@@ -1,4 +1,4 @@
----
+﻿---
 title: Best Deck Cleaner for Trex
 description: Are you searching for the best deck cleaner for Trex? Cleaning a Trex deck may seem like a difficult task at first, given the relatively new nature of this...
 slug: /best-deck-cleaner-for-trex/
@@ -38,7 +38,7 @@ See Also: Painting Vs Staining Deck
 
 This unit will allow you to eliminate green and black spots on trex decks. You only need to dilute it with water, sprayon the surface and forget. This concentrate leverages the rain and wind to gently eliminate mold ( see mold rem, oval paints-to-prevent-mold/) ), mildew, moss and algae on outdoor surfaces. The gentleness provided by this cleaner makes it ideal for applying to trex decks.
 
-The Wet and Forget outdoor cleaner concentrate makes 6 gallons in total, offering you a coverage of 750-2250 square foot. With this unit, you get a clean surface for 1+ years in most cases. The bleach-free, biodegradable, and phosphate-free nature of this unit makes it the ideal choice for all your Trex [deck](https: //pestpolicy. com/best-deck-stain-for-pressure-treated-wood/) cleaning needs.
+The Wet and Forget outdoor cleaner concentrate makes 6 gallons in total, offering you a coverage of 750-2250 square foot. With this unit, you get a clean surface for 1+ years in most cases. The bleach-free, biodegradable, and phosphate-free nature of this unit makes it the ideal choice for all your Trex [deck](https://pestpolicy.com/best-deck-stain-for-pressure-treated-wood/) cleaning needs.
 
 This water-conserving application offers you unlimited shelf life.
 
@@ -48,7 +48,7 @@ Pros: - Biodegradable - One-step application - Long lasting effect - No scrubbin
 
 Cons: - None found
 
-See Also: [Best Deck Sealer for Pressure Treated Wood](https: //pestpolicy. com/best-deck-sealer-for-pressure-treated-wood/)
+See Also: [Best Deck Sealer for Pressure Treated Wood](https://pestpolicy.com/best-deck-sealer-for-pressure-treated-wood/)
 
 ###  [3. Pour-N-Restore Oil Stain Remover - #3 Pick](https://www.amazon.com/dp/B000CCIESG/?tag=p-policy-20)
 
@@ -62,7 +62,7 @@ This degreaser is made out of plant based solvents, making it a highly effective
 
 Cons: - None found
 
-See Also: [Best Deck Stain for Weathered Wood](https: //pestpolicy. com/best-deck-stain-for-weathered-wood/)
+See Also: [Best Deck Stain for Weathered Wood](https://pestpolicy.com/best-deck-stain-for-weathered-wood/)
 
 ###  [4. Windex No-Scent Exterior Glass Trex cleaner 32 oz. liquid - #4 Pick](https://www.amazon.com/dp/B000V9QN1A/?tag=p-policy-20)
 
@@ -137,3 +137,4 @@ On application, the ideal washing solution should not take too long to dry out. 
 If you are looking to maintain the beauty of your Trex composite deck, cleaning, and other forms of care maintenance could go a long way. Semi-annual cleaning is recommended for the earlier versions of Trex products with a recommended composite deck cleaner. Based on our featured list above, The DEFY Composite Deck Cleaner works by foaming up and penetrating the wooden pores, which allows you to achieve a thorough finish.
 
 Besides, it is non-toxic and offers you different application methods.
+

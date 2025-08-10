@@ -1,4 +1,4 @@
----
+﻿---
 title: Cockroach Eggs
 description: German cockroaches are smaller but more common in the house than the American cockroaches in the United States. - One female German cockroach produces about...
 slug: /cockroach-eggs/
@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 
-German [cockroaches](https: //pestpolicy. com/how-to-kill-cockroach-eggs/) are smaller but more common in the house than the American cockroaches in the United States. - One female German [cockroach](https: //pestpolicy. com/cockroach-vs-palmetto-bug/) produces about 30, 000 eggs (that mature into baby roaches) annually - this is a larger offspring than other roach species.
+German [cockroaches](https://pestpolicy.com/how-to-kill-cockroach-eggs/) are smaller but more common in the house than the American cockroaches in the United States. - One female German [cockroach](https://pestpolicy.com/cockroach-vs-palmetto-bug/) produces about 30, 000 eggs (that mature into baby roaches) annually - this is a larger offspring than other roach species.
 
 The emergence of many cockroach eggs ensures that the pests' birth cycle is ongoing to create a massive infestation - but they don
 
@@ -31,7 +31,7 @@ The females of the species will produce about 6 - 90 ootheca over their lifetime
 
 - These females will carry the egg ootheca for a number of days before dropping it in a hidden and safe place. German Cockroaches The female Furies species of the German cockroach will lay their eggs in warm and humid conditions of your house including the bathroom and kitchen.
 
-- The[egg ootheca or capsule](https: //pestpolicy. com/signs-of-a-cockroach-infestation/)for the German cockroaches will contain roughly 40 years - and the capsule measures about a quarter inch in length and is light brown. When the conditions are favorable for the female, cockroaches will create a new capsule of eggs within a few weeks.
+- The[egg ootheca or capsule](https://pestpolicy.com/signs-of-a-cockroach-infestation/)for the German cockroaches will contain roughly 40 years - and the capsule measures about a quarter inch in length and is light brown. When the conditions are favorable for the female, cockroaches will create a new capsule of eggs within a few weeks.
 
 - After it is produced, a female roach will carry the egg capsule until sometime (one day or 2) before the eggs hatch.
 
@@ -104,3 +104,4 @@ The ootheca of the German cockroaches will measure about 9 mm and it will be bro
 ##  Conclusion
 
 I found coach eggs, what next? Youll require to vacuum the spaces to kill the adult roaches, their babies, and eggs capsules. - American and German cockroaches will hide around areas that have fresh water and a food source.
+

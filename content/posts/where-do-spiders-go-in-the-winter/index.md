@@ -1,4 +1,4 @@
----
+﻿---
 title: Where Do Spiders Go in the Winter
 description: So,where do spiders go in the winter?  From the over 40,000 spiders species , like argiopes or garden orb weavers only survive for a single season - they'll...
 slug: /where-do-spiders-go-in-the-winter/
@@ -15,11 +15,9 @@ tags:
 layout: post
 ---
 
-**So, where do spiders go in the winter? ** From the [over 40, 000 spiders species](https: //www. livescience. com/22122-types-of-spiders. html), like argiopes or garden orb weavers only survive for a single season - they'll die over winter but will leave their eggs in sacs ready to hatch. But tarantula or fishing [spider](https: //pestpolicy. com/can-you-drown-a-spider/) live longer.
+**So, where do spiders go in the winter? ** From the [over 40, 000 spiders species](https://www.livescience. com/22122-types-of-spiders. html), like argiopes or garden orb weavers only survive for a single season - they'll die over winter but will leave their eggs in sacs ready to hatch. But tarantula or fishing [spider](https://pestpolicy.com/can-you-drown-a-spider/) live longer.
 
-**Spiders hibernate under attics, cellars, piles of leaves, rocks (rock piles), sheds, garages, underground burrows, or trees. So, do spiders hibernate? ** Well, [just 5% of spiders spicies](https: //cc. zdtc. app/v1/otc/05YcxvrJv7bM0tkN3uaIbHd? veneer=dynamic&url=https%3A%2F%2Fwww. burkemuseum. org%2Fblog%2Fmyth-spiders-come-indoors-fall) hibernate to indoor spaces such as your home during [winter](https: //pestpolicy.
-
-com/10-winter-landscaping-ideas-to-spruce-up-your-outdoor-space/).
+**Spiders hibernate under attics, cellars, piles of leaves, rocks (rock piles), sheds, garages, underground burrows, or trees. So, do spiders hibernate? ** Well, [just 5% of spiders spicies](https://cc.zdtc. app/v1/otc/05YcxvrJv7bM0tkN3uaIbHd? veneer=dynamic&url=https%3A%2F%2Fwww. burkemuseum. org%2Fblog%2Fmyth-spiders-come-indoors-fall) hibernate to indoor spaces such as your home during [winter](https://pestpolicy.com/10-winter-landscaping-ideas-to-spruce-up-your-outdoor-space/).
 
 Most spiders won't try getting into your house during winter - it was just a spider myth. Spiders are cold blooded and thus may die or fail to reproduce when they get into your warm house.
 
@@ -27,7 +25,7 @@ Most spiders won't try getting into your house during winter - it was just a spi
 
 Through natural instincts, the spiders will move to better sheltered areas during winter. These include rock piles, bark cracks on trees or under leaf litter. During winter, the favorable conditions in these areas plus their antifreeze keep the fleas alive. In addition. spiders like the tarantula will lay their eggs during spring and thus will safely cross the harsh winter as babies in their protective cocoons.
 
-Further, some of the baby spiders, after hatching, will hide in the egg sacs that are webbed for use by the whole spider community over the winter period. However, the spiders that'll be hiding under rock piles and leaf litter won't be sleeping ( [spiders don't sleep](https: //pestpolicy. com/do-spiders-sleep/) ) but may be moving around searching for food.
+Further, some of the baby spiders, after hatching, will hide in the egg sacs that are webbed for use by the whole spider community over the winter period. However, the spiders that'll be hiding under rock piles and leaf litter won't be sleeping ( [spiders don't sleep](https://pestpolicy.com/do-spiders-sleep/) ) but may be moving around searching for food.
 
 ###  1 Outdoor Spiders
 
@@ -41,7 +39,7 @@ Therefore, antifreeze prevents the spider's body from freezing at temperatures a
 
 The indoor or house spiders are few in terms of species but they'll conditioned to live in the indoor conditions - i. e. limited water supply, bad food supply, and constant climate. Historically, some species of the house spiders (mainly found in Europe) are known to have always lived in the indoor spaces. The spiders have moved worldwide and some are conditioned to live in the outdoor spaces such as in North America.
 
-These house spiders will occupy your house through [eggs sacs](https: //www. burkemuseum. org/blog/myth-all-spiders-make-webs) that comes with building materials or old furniture. They'll mainly live in the house and only emerge during [the last summer](https: //www. burkemuseum. org/blog/myth-late-summer-has-most-spiders) (which is around September & August).
+These house spiders will occupy your house through [eggs sacs](https://www.burkemuseum. org/blog/myth-all-spiders-make-webs) that comes with building materials or old furniture. They'll mainly live in the house and only emerge during [the last summer](https://www.burkemuseum. org/blog/myth-late-summer-has-most-spiders) (which is around September & August).
 
 The baby and female spiders will hibernate in the neglected spaces, behind appliances or furniture, storage rooms, and crawlspaces.
 
@@ -51,17 +49,15 @@ Notably, just a small percentage of the house spiders will ever more outdoors.
 
 ###  1. "Antifreeze"
 
-Spiders living in the colder regions have an"antifreeze" - and adaptation that helps prevent their body from freezing during the cold or winter season. If the temperatures begin to fall, then the spider's body accumulates [glycol compounds](https: //en. wikipedia. org/wiki/Ethylene_glycol) (this acts like the antifreeze) in the blood. The antifreeze will work just like the engine antifreeze.
+Spiders living in the colder regions have an"antifreeze" - and adaptation that helps prevent their body from freezing during the cold or winter season. If the temperatures begin to fall, then the spider's body accumulates [glycol compounds](https://en.wikipedia. org/wiki/Ethylene_glycol) (this acts like the antifreeze) in the blood. The antifreeze will work just like the engine antifreeze.
 
-The glycol enables the tissues in the spider to stay [unfrozen withvery low temperatures](https: //arthropodecology. com/2016/01/05/frozen-spiders/). However, this method is a short term remedy used by the spiders during winter. Thus, the spider hibernates to the favorable areas such as neglected spaces, behind appliances or furniture, storage rooms, soil or snow layer and crawlspaces - the [subnivean zone](https: //northernwoodlands.
-
-org/outside_story/article/subnivean-shelter-snow).
+The glycol enables the tissues in the spider to stay [unfrozen withvery low temperatures](https://arthropodecology.com/2016/01/05/frozen-spiders/). However, this method is a short term remedy used by the spiders during winter. Thus, the spider hibernates to the favorable areas such as neglected spaces, behind appliances or furniture, storage rooms, soil or snow layer and crawlspaces - the [subnivean zone](https://northernwoodlands.org/outside_story/article/subnivean-shelter-snow).
 
 The favorable zone will insulate spiders against harsh winter conditions like cold but allow them to run around searching food. But, during the spring, the spiders will eventually stop generating the antifreeze as the air and temperature clears.
 
 ###  2. Nests
 
-As we've noted above, spiders eggs will die from the low and freezing temperatures - and thus they'll do the best to ensure the eggs will survive through winter. Most of the spiders will produce eggs (after mating) [during early fall](https: //www. wpr. org/what-happens-spiders-winter). Therefore, the spiders will search favorable places to lay and hide their eggs as the temperatures fall.
+As we've noted above, spiders eggs will die from the low and freezing temperatures - and thus they'll do the best to ensure the eggs will survive through winter. Most of the spiders will produce eggs (after mating) [during early fall](https://www.wpr. org/what-happens-spiders-winter). Therefore, the spiders will search favorable places to lay and hide their eggs as the temperatures fall.
 
 These include secluded, dark or hidden areas such as burrows, downspouts, chimneys.
 
@@ -75,7 +71,7 @@ Also, dark pantries, closets, basements, and attics will be suitable locations f
 
 ###  4. Insulation
 
-Spiders are equally intelligent bugs that'll create insulation against the freezing winter conditions - they'll [build a warm pod](http: //www. actforlibraries. org/spiders-in-winter/) waiting for warmer months. The spiders will build the pods on secluded and enclosed places where they'll build web covering the openings to make something looking like their egg nests.
+Spiders are equally intelligent bugs that'll create insulation against the freezing winter conditions - they'll [build a warm pod](http://www.actforlibraries. org/spiders-in-winter/) waiting for warmer months. The spiders will build the pods on secluded and enclosed places where they'll build web covering the openings to make something looking like their egg nests.
 
 The pod's web will prevent the cold air for hitting the spiders and their eggs for them to survive winter conditions.
 
@@ -84,3 +80,4 @@ However, other spiders create the pads under snow or the soil for additional ins
 Spiders will also insulate their bodies and eggs by building on building sidings and roof corners. However, the bugs will break off from the webs when its warmer to hunt for food.
 
 ##  Do Wolf Spiders Hibernate
+

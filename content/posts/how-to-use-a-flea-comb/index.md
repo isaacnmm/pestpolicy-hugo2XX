@@ -1,4 +1,4 @@
----
+﻿---
 title: How to Use a Flea Comb
 description: Here'show to use a flea comb.Hey, today I am here on my garage table with my dog Jake. I'll demonstrate how to use a flea comb on your cat or dog.
 slug: /how-to-use-a-flea-comb/
@@ -67,16 +67,15 @@ But, normally, you'd need to comb your cat or dog once or twice per week - for p
 
 ##  Any consideration when flea combing your cat?
 
-Not all flea combs will work for your cat. Notably, a good flea comb teeth must be 0. 155 mm between each other and have about 10 teeth for every 8 mm. A litmus test is to hold up the flea comb to the light - if you see the light, then the flea comb will not catch the feline fleas. **1. ** Interestingly, flea combing [and collar](https: //pestpolicy.
-
-com/best-flea-collar-for-cats/) allows you to socialize the kitten or cat through Mutual Grooming - which is all fun.
+Not all flea combs will work for your cat. Notably, a good flea comb teeth must be 0. 155 mm between each other and have about 10 teeth for every 8 mm. A litmus test is to hold up the flea comb to the light - if you see the light, then the flea comb will not catch the feline fleas. **1. ** Interestingly, flea combing [and collar](https://pestpolicy.com/best-flea-collar-for-cats/) allows you to socialize the kitten or cat through Mutual Grooming - which is all fun.
 
 However, if your cat is uncomfortable (shows resistance and fighting) with flea combing, consider using alternative flea control methods. **2. ** Avoid sensitive areas on your cat - When flea combing, note the sensitive area that may cause discomfort and fear on your feline friend.
 
-For example, if the case skin is bruised or broken by [flea bites](https: //pestpolicy. com/do-fleas-bite-humans/) or anything else - be gentle in flea combing or treat the cat using soothing creams before flea combing or brushing.
+For example, if the case skin is bruised or broken by [flea bites](https://pestpolicy.com/do-fleas-bite-humans/) or anything else - be gentle in flea combing or treat the cat using soothing creams before flea combing or brushing.
 
 ##  What about anElectronic Flea Comb?
 
-Unlike your manual flea combs, manufacturers of the Electric Flea Comb claim that their device can go deep into the pet's hair, search for the fleas, kill them upon contact, and eject them from the pet's coat. Notably, the electric flea combs will release some charge into the pet's coat, which will [kill the fleas](https: //pestpolicy. com/how-to-kill-fleas-on-dogs-naturally-safe-and-fast/) on contact.
+Unlike your manual flea combs, manufacturers of the Electric Flea Comb claim that their device can go deep into the pet's hair, search for the fleas, kill them upon contact, and eject them from the pet's coat. Notably, the electric flea combs will release some charge into the pet's coat, which will [kill the fleas](https://pestpolicy.com/how-to-kill-fleas-on-dogs-naturally-safe-and-fast/) on contact.
 
 Further, the electric flea comb will be appropriate for furs of any length and pets of all ages.
+

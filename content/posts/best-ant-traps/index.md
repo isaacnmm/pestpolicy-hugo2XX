@@ -1,4 +1,4 @@
----
+﻿---
 title: Best Ant Traps
 description: Besides being such a big nuisance, ants are incredibly destructive. Have you considered the best ant traps? - Ants will damage your home by burrowing through...
 slug: /best-ant-traps/
@@ -15,9 +15,9 @@ tags:
 layout: post
 ---
 
-Besides being such a big nuisance, ants are incredibly destructive. Have you considered the [best](https: //pestpolicy. com/best-ant-killer/) ant traps? - [Ants](https: //pestpolicy. com/best-ant-killer-for-yard/) will damage your home by burrowing through the wood and contaminating food, not to mention building unsightly mounds inside/outside the house. - And once they invade, chances are they wont go away on their own.
+Besides being such a big nuisance, ants are incredibly destructive. Have you considered the [best](https://pestpolicy.com/best-ant-killer/) ant traps? - [Ants](https://pestpolicy.com/best-ant-killer-for-yard/) will damage your home by burrowing through the wood and contaminating food, not to mention building unsightly mounds inside/outside the house. - And once they invade, chances are they wont go away on their own.
 
-The best ant traps and [ant killers](https: //pestpolicy. com/best-ant-killer/) will help you eliminate these destructive insects before causing more damage. **Check the top ant traps. **
+The best ant traps and [ant killers](https://pestpolicy.com/best-ant-killer/) will help you eliminate these destructive insects before causing more damage. **Check the top ant traps. **
 
 ##  [1. #1 Top Pick: TERRO-T300B Liquid Pre-filled Ant Killer](https://www.amazon.com/dp/B00E4GACB8/?tag=p-policy-20)
 
@@ -62,3 +62,4 @@ Its also environmentally friendly as it does not contain any dangerous chemicals
 ##  Conclusion
 
 Ants cant destroy your entire home in a matter of months. Some wooden areas may even incur extensive damages that are beyond repair. Of course, repairing can be a costly and time-consuming affair. The best ant traps will help you control the problem before it gets out of hand.
+

@@ -1,4 +1,4 @@
----
+﻿---
 title: Do Geckos Eat Cockroaches
 description: Reptiles such as Geckos could even be more sensitive when it comes to appropriate feed matching. Should you give your gecko meat, insects, or vegetables?
 slug: /do-geckos-eat-cockroaches/
@@ -15,13 +15,13 @@ tags:
 layout: post
 ---
 
-Reptiles such as Geckos could even be more sensitive when it comes to appropriate feed matching. Should you give your [gecko](https: //pestpolicy. com/do-geckos-eat-bed-bugs/) meat, insects, or vegetables? Which food is healthy for geckos? - **Well, do Geckos [eat](https: //pestpolicy. com/do-geckos-eat-roaches/) cockroaches? Yes! Geckos are naturally insectivorous pets and would feed on cockroaches as much as they can.
+Reptiles such as Geckos could even be more sensitive when it comes to appropriate feed matching. Should you give your [gecko](https://pestpolicy.com/do-geckos-eat-bed-bugs/) meat, insects, or vegetables? Which food is healthy for geckos? - **Well, do Geckos [eat](https://pestpolicy.com/do-geckos-eat-roaches/) cockroaches? Yes! Geckos are naturally insectivorous pets and would feed on cockroaches as much as they can.
 
 I****t would not be advisable to feed your geckos with cockroaches that are fetched directly from the field as they may be contaminated, poisonous, or venomous. ** - **Usually, you should be able to identify the right cockroach species, especially ones recommended by the vet, when feeding your geckos. ** Alternatively, you can buy commercial roaches from the nearest center or breed some at your home place.
 
 Geckos have no feeding limit, they can overheat if not controlled.
 
-Related: [Geckos Eat Bed Bugs? ](https: //pestpolicy. com/do-geckos-eat-bed-bugs/)
+Related: [Geckos Eat Bed Bugs? ](https://pestpolicy.com/do-geckos-eat-bed-bugs/)
 
 ##  Details: Do Geckos Eat Cockroaches?
 
@@ -142,3 +142,4 @@ Any injury on your gecko instills severe pain, which may make it lose appetite. 
 In summary, on the question, do Geckos eat cockroaches? The simple answer is yes. Geckos are insectivorous reptiles, which acquire nutrition from insects such as roaches. - Unlike human beings, geckos swallow entire cockroaches upon hunting. - It's important to note that geckos have no feeding limit. Therefore, they can overheat (as long as the food is available), which may cause problems such as obesity with time.
 
 A controlled feeding program should be followed in order to avoid such health challenges.
+

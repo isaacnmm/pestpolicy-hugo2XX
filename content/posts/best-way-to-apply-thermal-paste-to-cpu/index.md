@@ -1,4 +1,4 @@
----
+﻿---
 title: Best Way to Apply Thermal Paste to Cpu
 description: The right choice of thermal paste is critical for optimal CPU temperatures. - But, the thermal paste application leads to different outcomes, which could...
 slug: /best-way-to-apply-thermal-paste-to-cpu/
@@ -16,9 +16,9 @@ layout: post
 
 The right choice of thermal paste is critical for optimal CPU temperatures. - But, the thermal paste application leads to different outcomes, which could include damage to your CPU and motherboard. - Therefore, in this article, I discuss the best way to apply thermal paste to the CPU. Youll need to apply the Thermal Interface Material (thermal paste) either when upgrading your CPU or building a new PC. But why so?
 
-The thermal paste helps in heat dissipation from the PC heat sink and the CPU die. I would recommend the [Arctic Silver 5 AS5-3. 5G Thermal Paste](https: //www. amazon. com/dp/B0087X728K/? tag=p-policy-20) on Amazon and I will be using it in this case study.
+The thermal paste helps in heat dissipation from the PC heat sink and the CPU die. I would recommend the [Arctic Silver 5 AS5-3. 5G Thermal Paste](https://www.amazon. com/dp/B0087X728K/? tag=p-policy-20) on Amazon and I will be using it in this case study.
 
-Notably, I recently upgraded the [motherboard for my i5 6600k CPU](https: //pestpolicy. com/best-motherboard-i5-6600k-cpu/) and thus I expect optimal gaming experience: Wolfenstein II: The New Colossus, Observer, and Call of Duty: WWII.
+Notably, I recently upgraded the [motherboard for my i5 6600k CPU](https://pestpolicy.com/best-motherboard-i5-6600k-cpu/) and thus I expect optimal gaming experience: Wolfenstein II: The New Colossus, Observer, and Call of Duty: WWII.
 
 Before conducting extensive research and test on thermal paste application, maybe like you, I only overhead of Rice, X, Pea, Straight-line application methods. This left me confused with the many opinions out there. **In summary: ** **However, if you need a straight answer: The best method to apply the thermal paste on your gaming CPU is the pea-sized dot' technique.
 
@@ -67,3 +67,4 @@ The thermal compound will come in a syringe, which will be very suitable for the
 Clean up the processor top to remove any dirt. - You will apply paste that is pea-sized or the size of capacitors on your motherboard. - However, ensure that you apply reasonable paste that will spread well on the CPU and heat sink to avoid direct contact with the metal parts. The rule of thumb is that is less thermal past is always better since too much of it would hinder the thermal cooling capability of the heat sink.
 
 Now: Check the video
+

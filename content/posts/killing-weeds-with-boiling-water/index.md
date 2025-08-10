@@ -1,4 +1,4 @@
----
+﻿---
 title: Killing Weeds With Boiling Water
 description: Weeds are the bane of every gardener's existence, relentlessly competing with desirable plants for nutrients, water, and sunlight.
 slug: /killing-weeds-with-boiling-water/
@@ -45,7 +45,7 @@ This age-old technique leverages sheer heat to rapidly destroy plant cells, offe
 
 Killing weeds with boiling water might seem almost too simple, but its effectiveness lies in its ability to denature proteins and burst cell walls on contact. However, like any gardening method, it has its best applications and limitations. Understanding where and how to deploy this hot solution will ensure you effectively tackle unwanted greenery while protecting your desired plants and maintaining the health of your garden ecosystem.
 
-This guide will explore the science behind boiling water as a [weed](https: //pestpolicy. com/how-to-make-a-nontoxic-weed-killer/) killer, detail its proper application, discuss its pros and cons, and offer tips for maximizing its effectiveness and safety.
+This guide will explore the science behind boiling water as a [weed](https://pestpolicy.com/how-to-make-a-nontoxic-weed-killer/) killer, detail its proper application, discuss its pros and cons, and offer tips for maximizing its effectiveness and safety.
 
 ##  Where to Use Boiling Water for Weed Control
 
@@ -74,3 +74,4 @@ Ensure no desirable plants are nearby that could be affected by splashes or heat
 * **Small Batches: ** If using a large pot, pour small, manageable amounts into a smaller, spouted container for more precise application and safer carrying. * **Proper Footwear: ** Wear sturdy, closed-toe shoes to protect your feet from splashes. * **Combine with Hand Weeding: ** For perennial weeds, boiling water can weaken the plant, making it easier to hand-pull the remaining roots.
 
 * **Mulch as Prevention: ** After using boiling water to clear an area, apply a layer of mulch to prevent new weed seeds from germinating. This is the best long-term prevention.
+

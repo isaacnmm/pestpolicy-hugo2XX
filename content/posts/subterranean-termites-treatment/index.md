@@ -1,4 +1,4 @@
----
+﻿---
 title: Subterranean Termites Treatment
 description: Subterranean termites cause damages amounting to over a billion-dollar annually - try the Subterranean Termites Treatment.
 slug: /subterranean-termites-treatment/
@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 
-Subterranean termites cause damages amounting to over a billion-dollar annually - try the Subterranean Termites [Treatment](https: //pestpolicy. com/soil-treatment-for-termites/). Check these [termite images](https: //pestpolicy. com/what-does-a-termite-look-like/). The insects will chew or gnaw wood and house items like filtration systems, swimming pool liners, insulation, books, and paper.
+Subterranean termites cause damages amounting to over a billion-dollar annually - try the Subterranean Termites [Treatment](https://pestpolicy.com/soil-treatment-for-termites/). Check these [termite images](https://pestpolicy.com/what-does-a-termite-look-like/). The insects will chew or gnaw wood and house items like filtration systems, swimming pool liners, insulation, books, and paper.
 
 Also, termites can cause emotional strain on homeowners.
 
@@ -23,7 +23,7 @@ In summary: Subterranean termites treatment begins with the wood cure to strengt
 
 ##  Subterranean Termite Treatment Options - Fast Control
 
-Equally, [termite inspection costs](https: //pestpolicy. com/termite-inspection-cost/) might be relatively high - also, termite fumigation is equally pricey. So, below I've discussed the best subterranean termites treatment available for your taking. ###
+Equally, [termite inspection costs](https://pestpolicy.com/termite-inspection-cost/) might be relatively high - also, termite fumigation is equally pricey. So, below I've discussed the best subterranean termites treatment available for your taking. ###
 
 ###  1. Apply Liquid Termiticide
 
@@ -35,7 +35,7 @@ Subterranean termite infestations are mainly discovered during spring - they're 
 
 ###  2. Apply Repellent Termiticides
 
-The pyrethroid termiticide repellents will work just as well as the liquid termiticides to [repel and kill the termites](https: //entomology. ca. uky. edu/ef604) attacking your wooden structures. You'll apply it to structures and features, including landscaping, plumbing lines. - These repellents with Pyrethroids will quickly poison the termite's nerve but are less toxic to the mammals.
+The pyrethroid termiticide repellents will work just as well as the liquid termiticides to [repel and kill the termites](https://entomology.ca. uky. edu/ef604) attacking your wooden structures. You'll apply it to structures and features, including landscaping, plumbing lines. - These repellents with Pyrethroids will quickly poison the termite's nerve but are less toxic to the mammals.
 
 The repellents are like Prelude, Demon, Talstar, Cynoff, and Dragnet FT. - The repellent Termiticides will work against the termites that'll work on the termites foraging in areas such as beneath the soil. This also creates a barrier against these foraging and gnawing insects. Further, pyrethroids are equally cheap to be used as a termite barrier. But the insecticide may sometimes detect the termiticides and hence won't touch the termite barrier.
 
@@ -72,3 +72,4 @@ Of course, whenever you purchase a home, it is always best to buy a home that ha
 ##  Conclusion
 
 The bad news about subterranean termite infestation is, once a colony has been established in your area, it could be almost futile to eradicate them. They will always keep trying to attack. Your best defense to keep from coming back is to check for vulnerable areas of your home and maintain treatments.
+

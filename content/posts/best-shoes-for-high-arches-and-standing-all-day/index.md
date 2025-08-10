@@ -1,4 +1,4 @@
----
+﻿---
 title: Best Shoes for High Arches and Standing All Day
 description: Today I present the Best Shoes for High Arches and Standing All Day. Having high arches can make Standing All Day an unbearable task.
 slug: /best-shoes-for-high-arches-and-standing-all-day/
@@ -24,7 +24,7 @@ Related: Best Walking Shoes for Lower Back Pain
 
 ###  [1. New Balance Men's 990 V5](https://www.amazon.com/dp/B0797D3GYP/?tag=p-policy-20)- Shoes for High Arches and Standing All Day
 
-New Balance 990 V5 is a comfortable well-cushioned [shoe](https: //pestpolicy. com/best-non-slip-shoes-for-standing-all-day/) thats ideal for all-day wear. It features excellent support technologies that make your days easier.
+New Balance 990 V5 is a comfortable well-cushioned [shoe](https://pestpolicy.com/best-non-slip-shoes-for-standing-all-day/) thats ideal for all-day wear. It features excellent support technologies that make your days easier.
 
 For starters, the midsole features the Encap technology that provides soft cushioning and support to the foot. This technology also provides needed stability and durability for a longer wear experience. To ensure all-day comfort and support for your high arches, the midsole provides a firm, flexible, and supportive structure.
 
@@ -70,7 +70,7 @@ The shoe also a Wide heel strike that provides reliable stability and balance wh
 
 Cons: - Doesnt accommodate inserts
 
-Also Read: [Best Shoes for Physical Therapists](https: //pestpolicy. com/best-shoes-for-physical-therapists/)
+Also Read: [Best Shoes for Physical Therapists](https://pestpolicy.com/best-shoes-for-physical-therapists/)
 
 ###  [4. Brooks Mens Beast '20 Running Shoe](https://www.amazon.com/dp/B07VGX9W6Z/?tag=p-policy-20)
 
@@ -154,7 +154,7 @@ Therefore, you need High arch support footwear that has excellent shock absorpti
 
 ###  Cushioning
 
-Shoes with good cushioning will protect you from hard ground impact. [Shoes for standing all day](https: //pestpolicy. com/best-non-slip-shoes-for-standing-all-day/) must have good padding and adaptive cushioning that conforms to the natural contours of the foot. This way, the foot will have more support that will ensure comfort throughout the day.
+Shoes with good cushioning will protect you from hard ground impact. [Shoes for standing all day](https://pestpolicy.com/best-non-slip-shoes-for-standing-all-day/) must have good padding and adaptive cushioning that conforms to the natural contours of the foot. This way, the foot will have more support that will ensure comfort throughout the day.
 
 You can pick shoes with Memory foam cushioning. This component adjusts to the weight, speed, and shape of the feet.
 
@@ -169,3 +169,4 @@ Segmented crash pads or even heel inserts can help in shock absorption ensuring 
 I hope that this review on the best shoes for high arches and standing all day has been helpful. When buying your high arches and standing shoes ensure you remember features like arch support, shock absorption, comfort, and cushioning.
 
 Otherwise, all the shoes reviewed to meet these criteria, and choosing either of them will ensure you properly support your high arches during long hours of standing.
+

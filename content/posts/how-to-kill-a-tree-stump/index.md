@@ -1,4 +1,4 @@
----
+﻿---
 title: How to Kill a Tree Stump
 description: A tree stump, left behind after a tree is felled, can be an unsightly obstacle in any garden or landscape. Beyond being an aesthetic nuisance, stumps can pose...
 slug: /how-to-kill-a-tree-stump/
@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 
-A [tree](https: //pestpolicy. com/10-trees-to-grow-in-containers/) stump, left behind after a tree is felled, can be an unsightly obstacle in any garden or landscape. Beyond being an aesthetic nuisance, stumps can pose tripping hazards, become home to pests, sprout new growth (suckers), and hinder future landscaping plans.
+A [tree](https://pestpolicy.com/10-trees-to-grow-in-containers/) stump, left behind after a tree is felled, can be an unsightly obstacle in any garden or landscape. Beyond being an aesthetic nuisance, stumps can pose tripping hazards, become home to pests, sprout new growth (suckers), and hinder future landscaping plans.
 
 While complete stump removal is often the most desirable outcome, killing a tree stump is the essential first step to prevent regrowth and facilitate its eventual decay.
 
@@ -110,3 +110,4 @@ It's generally not recommended for DIY unless you have extensive experience and 
 ** * A: Applying a systemic herbicide (like glyphosate) to the freshly cut stump surface is the most effective way to prevent re-sprouting by killing the root system. Stump grinding also prevents re-sprouting. * **Q: When is the best time to apply chemicals to a tree stump? ** * A: For herbicides, immediately after cutting the tree, when the sap is still flowing.
 
 For decomposition accelerators like potassium nitrate, any time is generally fine, but warmer, moister conditions can speed up the process. * **Q: What can I do with the wood chips from stump grinding? ** * A: Wood chips can be used as mulch in garden beds, added to a compost pile (though they break down slowly), or disposed of as green waste.
+

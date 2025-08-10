@@ -1,4 +1,4 @@
----
+﻿---
 title: Where Do Fleas Live
 description: We may earn a commission when you click and buy from Amazon.com.  --- Where do fleas live?Often-times, fleas will cause a scare in your home and yard - but...
 slug: /where-do-fleas-live/
@@ -40,3 +40,4 @@ But fleas will bite the human's lower extremities, particularly the ankles and a
 So, it's clear that [fleas will live](https://pestpolicy.com/can-fleas-live-in-human-hair/) on pet hosts, in the house (carpet or mattress) and the yard, besides wildlife. I recommend you use the integrated flea control method . This will include using yard sprays, flea foggers , carpet powders, in-home sprays , flea collars for cats , and topical flea drops, plus other home remedies for fleas .
 
 > **`We may earn a commission when you click and buy from Amazon. com`. ** >
+

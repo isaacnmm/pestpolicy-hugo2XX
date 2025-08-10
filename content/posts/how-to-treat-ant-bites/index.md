@@ -1,4 +1,4 @@
----
+﻿---
 title: How to Treat Ant Bites
 description: Ant bites can be painful, cause swelling, itching , or allergic reactions , and you may require some soothing treatment.
 slug: /how-to-treat-ant-bites/
@@ -15,13 +15,13 @@ tags:
 layout: post
 ---
 
-Ant bites can be painful, cause swelling, [itching](https: //www. webmd. com/skin-problems-and-treatments/guide/skin-conditions-pruritus), or [allergic reactions](https: //www. webmd. com/allergies/guide/allergic-reaction-causes), and you may require some soothing treatment. In this article, I'll describe how to treat ant bites; what should I do? **To treat ant bites, hydrocortisone cream & antihistamine will ease the itching.
+Ant bites can be painful, cause swelling, [itching](https://www.webmd. com/skin-problems-and-treatments/guide/skin-conditions-pruritus), or [allergic reactions](https://www.webmd. com/allergies/guide/allergic-reaction-causes), and you may require some soothing treatment. In this article, I'll describe how to treat ant bites; what should I do? **To treat ant bites, hydrocortisone cream & antihistamine will ease the itching.
 
 Wash the bite area using water & soap, then smear some antiseptic and an antiseptic like calamine or hydrocortisone. ** **If there is swelling around the ant bite area, cold-compress that place with an ice pack. Other DIY remedies include apple cider vinegar, olive oil, baking soda & lemon juice, salt, toothpaste, cucumber, and honey. ** Let's check the details!
 
 ##  **Signs of Bites or Stings from Ants**
 
-The signs you'll get following the [ant](https: //pestpolicy. com/ant-control-in-federal-way/) bites include pain and itching especially if you're attacked by many ants in a swarm. - However, you'll notice that bites from other ant species are less intense compared to the ones caused by fire ants. General ant bites are less uncomfortable, less itchy or painful, and less red.
+The signs you'll get following the [ant](https://pestpolicy.com/ant-control-in-federal-way/) bites include pain and itching especially if you're attacked by many ants in a swarm. - However, you'll notice that bites from other ant species are less intense compared to the ones caused by fire ants. General ant bites are less uncomfortable, less itchy or painful, and less red.
 
 The ant bites could also trigger allergic reactions, some redness, and possible swelling.
 
@@ -33,7 +33,7 @@ An ant bite will leave an itchy (small and painful) lump that will get better wi
 
 ###  1. Soap + Water - Get Relief from Ant Bites
 
-Experts advise that you treat the ant bites using soap & water - simply wash the bite area with the soap + water and then cover it using some bandage. You should also apply some ice on the ant bite area to reduce the pain. Other treatments include topical treatments such as antihistamines and steroid creams (over-the-counter). - Other professionals approve of using some DIY ant-bites treatment made from[bleach and water](http: //fireant. tamu.
+Experts advise that you treat the ant bites using soap & water - simply wash the bite area with the soap + water and then cover it using some bandage. You should also apply some ice on the ant bite area to reduce the pain. Other treatments include topical treatments such as antihistamines and steroid creams (over-the-counter). - Other professionals approve of using some DIY ant-bites treatment made from[bleach and water](http://fireant.tamu.
 
 edu/files/2011/12/FAPFS023_2002rev_Medical. pdf).
 
@@ -59,7 +59,7 @@ Baking soda & lemon juice are critical DIY elements that can help stop the pain 
 
 As with the lemon juice, baking soda too will also help ease your pain and discomfort.
 
-- I know that you may already have some baking soda in the house or[bathroom](https: //pestpolicy. com/how-to-get-rid-of-ants-in-the-bathroom/)- it'll work as a great alternative. Simply mix some 3 teaspoons of the baking soda with some water and mix to create some thick paste. - Next, apply that basking soda mixture onto the area affected by the ant bite.
+- I know that you may already have some baking soda in the house or[bathroom](https://pestpolicy.com/how-to-get-rid-of-ants-in-the-bathroom/)- it'll work as a great alternative. Simply mix some 3 teaspoons of the baking soda with some water and mix to create some thick paste. - Next, apply that basking soda mixture onto the area affected by the ant bite.
 
 So, the baking soda & lemon juice will work well in reducing that discomfort or pain that is caused by the ant bite. **5.
 
@@ -71,10 +71,11 @@ So, if you've stepped onto some ant bed, the apple cider vinegar will be excelle
 
 Olive oil will also be a suitable remedy when trying to treat or cool down the pain or itching that arises from the ant bites. - The oleocanthal in the olive oil will prevent inflammationfrom the enzymes. You'll require just some of the oil on your palm and smear it on the ant bite area - and you'll get pain relief. - Cucumber will also be great on the ant bite - simply cut it into some slices and apply the gel on your ant bite.
 
-Related: [Best Ant Killer](https: //pestpolicy. com/best-ant-killer/)
+Related: [Best Ant Killer](https://pestpolicy.com/best-ant-killer/)
 
 ##  Conclusion
 
-In summary, you can treat those itchy and painful ant bites using a myriad of remedies including; Soap + Water, avoiding contact, lemon juices & baking soda, apple cider vinegar, and honey. - Further, wear gloves, socks, and shoes while attending to plants or other objects in the yard or garden. If you've gotten some allergic reaction from the bites, ensure to get some allergy shots such as [epinephrine. ](https: //www. webmd.
+In summary, you can treat those itchy and painful ant bites using a myriad of remedies including; Soap + Water, avoiding contact, lemon juices & baking soda, apple cider vinegar, and honey. - Further, wear gloves, socks, and shoes while attending to plants or other objects in the yard or garden. If you've gotten some allergic reaction from the bites, ensure to get some allergy shots such as [epinephrine. ](https://www.webmd.
 
 com/drugs/2/drug-93171/epinephrine+intramuscular/details)
+

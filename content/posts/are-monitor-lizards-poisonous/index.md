@@ -1,4 +1,4 @@
----
+﻿---
 title: Are Monitor Lizards Poisonous
 description: Probably you have come across monitor lizards in your field, yard, compound or zoo and wonder if they could be poisonous.
 slug: /are-monitor-lizards-poisonous/
@@ -15,17 +15,17 @@ tags:
 layout: post
 ---
 
-Probably you have come across monitor lizards in your field, yard, compound or zoo and wonder if they could be poisonous. You may even have seen them feed on rats, snakes or rodents. But [are](https: //pestpolicy. com/are-blue-tailed-lizards-poisonous/) Monitor Lizards Poisonous? **The direct answer is YES.
+Probably you have come across monitor lizards in your field, yard, compound or zoo and wonder if they could be poisonous. You may even have seen them feed on rats, snakes or rodents. But [are](https://pestpolicy.com/are-blue-tailed-lizards-poisonous/) Monitor Lizards Poisonous? **The direct answer is YES.
 
 Monitor lizards (such as Komodo Dragon, Asian Water Monitor, and Tree Crocodile Monitor) can bite and cause poisonous infections since they are venomous.
 
 ** **The venom contains crotamine, which prevents blood clotting leading to a drop in blood pressure and cause death at the long run. On the other hand, Monitor Lizards such as Bengal Monitor and Savana Monitor are believed to be harmless and defenseless. However, these species are few. **
 
-Related: [Are Blue Tailed Lizards Poisonous? ](https: //pestpolicy. com/are-blue-tailed-lizards-poisonous/)
+Related: [Are Blue Tailed Lizards Poisonous? ](https://pestpolicy.com/are-blue-tailed-lizards-poisonous/)
 
 ##  Details: Are Monitor Lizards Poisonous?
 
-Monitor lizards are the most [poisonous and dangerous species of lizards](https: //pestpolicy. com/are-lizards-poisonous/). They contain venom at the root of their teeth, which they use to paralyze the prey before they swallow. Most Monitor lizards are carnivore and are well known for their tactical hunting skills. We can therefore say that most Monitor lizards are dangerous carnivores that paralyze prey using their venom before swallowing.
+Monitor lizards are the most [poisonous and dangerous species of lizards](https://pestpolicy.com/are-lizards-poisonous/). They contain venom at the root of their teeth, which they use to paralyze the prey before they swallow. Most Monitor lizards are carnivore and are well known for their tactical hunting skills. We can therefore say that most Monitor lizards are dangerous carnivores that paralyze prey using their venom before swallowing.
 
 In addition, these reptiles harbor salmonella bacteria that cause infections to both pets and human beings if not treated or disinfected. Meat from Monitor Lizard contains Liver fluke which damages severely the pets livers and causes liver inflammation.
 
@@ -132,3 +132,4 @@ Your kids should not be allowed to play with your pet monitor lizards alone.
 The Monitor Lizards such as Komodo Dragon, Asian Water Monitor, and Tree Crocodile Monitor are poisonous reptiles that bite and inject poisonous venom to their prey, thus paralyzing it to death. The monitor lizards venom contains crotamine chemical which prevents clotting of blood. The blood Oz cause the overall drop of blood pressure in the body. The venom also leaves infections that cause painful swelling on the bitten part.
 
 However, some Monitor Lizards such as Bengal Monitor and Savana Monitor are believed to be harmless and defenseless. Monitor lizards can also harbor salmonella bacteria, which cause infections to your pets and humans. Proper disinfections and prevention measures should be carried out to maintain healthy life in your place.
+

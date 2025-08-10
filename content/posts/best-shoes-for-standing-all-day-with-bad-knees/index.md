@@ -1,4 +1,4 @@
----
+﻿---
 title: Best Shoes for Standing All Day With Bad Knees
 description: The Best Shoes for Standing All Day with Bad Knees ensures that you dont strain your painful knees as you go about your usual errands. These shoes are...
 slug: /best-shoes-for-standing-all-day-with-bad-knees/
@@ -24,7 +24,7 @@ These shoes are breathable, well-cushioned, supportive, have roomy toe boxes, an
 
 Brooks GTS 20 takes the first spot for best Shoes for Standing All Day with Bad Knees. It has many amazing features and technologies that make it ideal for all-day wear.
 
-For starters, the GTS 20 features a GuideRails support technology that helps to prevent excess movement of the foot. Hence, protects the wearers knees from injuries. Most people who are on their feet for extended periods love the support and comfort that the [shoe](https: //pestpolicy. com/best-shoes-for-arthritic-hips/) provides.
+For starters, the GTS 20 features a GuideRails support technology that helps to prevent excess movement of the foot. Hence, protects the wearers knees from injuries. Most people who are on their feet for extended periods love the support and comfort that the [shoe](https://pestpolicy.com/best-shoes-for-arthritic-hips/) provides.
 
 Other than that, the BioMoGo DNA and the DNA LOFT Crash Pad work in conjunction to provide unmatched cushioning for a great wear experience.
 
@@ -32,13 +32,13 @@ The segmented crash pad ensures extra support and cushioning as it encourages th
 
 The padded tongue ensures even distribution of pressure on top of the foot.
 
-Hence, helps to eliminate the [top of foot pain](https: //pestpolicy. com/best-shoes-for-pain-on-top-of-foot/). The heel section features a reliable heel cup that holds the foot in place to prevent unintended removal of the shoe. The outsole features a blown rubber component that provides needed protection against any abrasion. The Omega Flex Grooves at the bottom of the sole encourage the natural movement of the foot.
+Hence, helps to eliminate the [top of foot pain](https://pestpolicy.com/best-shoes-for-pain-on-top-of-foot/). The heel section features a reliable heel cup that holds the foot in place to prevent unintended removal of the shoe. The outsole features a blown rubber component that provides needed protection against any abrasion. The Omega Flex Grooves at the bottom of the sole encourage the natural movement of the foot.
 
 Pros: - Provides excellent cushioning - Highly comfortable - Excellent stability hence prevents overpronation - Roomy forefoot - Durable
 
 Cons: - A bit heavy according to some wearers
 
-Read Also: [Best Non-Slip Shoes For Standing All Day](https: //pestpolicy. com/best-non-slip-shoes-for-standing-all-day/)
+Read Also: [Best Non-Slip Shoes For Standing All Day](https://pestpolicy.com/best-non-slip-shoes-for-standing-all-day/)
 
 ###  [2. ASICS Women's Gel-Cumulus 22 Running Shoes](https://www.amazon.com/dp/B082PZMB3G/?tag=p-policy-20)
 
@@ -139,3 +139,4 @@ These shoes protect your knees and joints, thanks to the various technologies an
 ##  Conclusion
 
 Wearing the best shoes for standing all day with bad knees will go a long way in ensuring that youre comfortable and protected all day long. The correct footwear will help reduce the pressure put on knees, thus, prevent knee pain. Go through this review and make an informed buying choice.
+

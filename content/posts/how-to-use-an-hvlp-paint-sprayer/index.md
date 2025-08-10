@@ -1,4 +1,4 @@
----
+﻿---
 title: How to Use an Hvlp Paint Sprayer
 description: HVLP sprayer manual may not always give you detailed technical information needed when spray painting. Therefore, you need further insight to attain an...
 slug: /how-to-use-an-hvlp-paint-sprayer/
@@ -14,7 +14,7 @@ tags:
 layout: post
 ---
 
-HVLP sprayer manual may not always give you detailed technical information needed when spray painting. Therefore, you need further insight to attain an excellent paint finish when using an [HVLP](https: //pestpolicy. com/best-hvlp-spray-gun-for-cabinets/) paint sprayer.
+HVLP sprayer manual may not always give you detailed technical information needed when spray painting. Therefore, you need further insight to attain an excellent paint finish when using an [HVLP](https://pestpolicy.com/best-hvlp-spray-gun-for-cabinets/) paint sprayer.
 
 *On how to use an HVLP paint sprayer, start by selecting items required, choose the right tip for the painting task, assemble the sprayer, fix the hosepipe and power cable, fasten the canister and other gun connections, and plug in the sprayer to a power source before pressing on the switch button.
 
@@ -70,7 +70,7 @@ Adjust the HVLP sprayer at the dial and aim the spray gun to the test board. Pul
 
 Upon approval of the test paint coat, turn the sprayer to full coverage and carry on with continuous surface spray action. During paint application, try to maintain a continuous even distance over the surface (between spray gun and surface) and avoid excessive trigger action as it leads to overspray or uneven paint coating. Besides, instant trigger disconnection between points is highly recommended to prevent surface drains or runs.
 
-> See Also: > [HVLP Spray Gun for Cabinets](https: //pestpolicy. com/best-hvlp-spray-gun-for-cabinets/)
+> See Also: > [HVLP Spray Gun for Cabinets](https://pestpolicy.com/best-hvlp-spray-gun-for-cabinets/)
 
 ###  Step 10: Release the Trigger and end Spraying
 
@@ -118,10 +118,11 @@ All sprayer settings should be done before power is engaged for safety purposes 
 
 When cleaning a paint sprayer, individual parts should be cleaned carefully to prevent damage. Once you are done with painting, release the trigger (to stop spray action), switch off and unplug the sprayer for power source, reset the pressure settings, and clean the HVLP sprayer before storing it in a cool dry place. Remember, personal safety is paramount. Therefore, you should always put on protective gear when using an HVLP sprayer.
 
-> See Also: > [Cleaning a Paint Sprayer](https: //pestpolicy. com/how-to-clean-a-paint-sprayer/)
+> See Also: > [Cleaning a Paint Sprayer](https://pestpolicy.com/how-to-clean-a-paint-sprayer/)
 
 ##  Conclusion
 
 To wrap, on how to use an HVLP paint sprayer, you start by selecting items required, choose the right tip for the painting task, assemble the sprayer, fix the hose pipe and power cable, fasten the canister and other gun connections, and plug in the sprayer to a power source before pressing on the switch button.
 
 Further, set the paint sprayers air pressure and volume accordingly, fill the canister with well-thinned paint, adjust the sprayer for testing and test the paint coat over the section board, tune the sprayer to full coverage, and start spraying over the surface evenly.
+

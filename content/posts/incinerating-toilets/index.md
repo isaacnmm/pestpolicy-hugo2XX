@@ -1,4 +1,4 @@
----
+﻿---
 title: Incinerating Toilets
 description: In a world increasingly seeking sustainable living solutions and the ability to establish dwellings in remote or off-grid locations, conventional plumbing...
 slug: /incinerating-toilets/
@@ -88,3 +88,4 @@ The environmental impact of incinerating toilets is a subject of debate.
 * **Energy Consumption: ** The incineration process requires energy, which, if derived from fossil fuels, contributes to carbon emissions. For off-grid solar systems, it demands a significant portion of battery capacity. * **Air Emissions: ** While modern units are designed to burn cleanly, some minor emissions (water vapor, CO2, trace particles) are released. Proper venting minimizes indoor air quality impact.
 
 Ultimately, their environmental suitability is highly context-dependent. For remote areas without access to sustainable plumbing, they can be the most environmentally responsible option compared to, for example, primitive outhouses with potential for groundwater contamination.
+

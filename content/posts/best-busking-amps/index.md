@@ -1,4 +1,4 @@
----
+﻿---
 title: Best Busking Amps
 description: I've always had a problem performing in front of large crowds. This is exasperated when there is limitless space on the performance stage. Its no surprise I...
 slug: /best-busking-amps/
@@ -44,7 +44,7 @@ Cons: - M
 
 Battery-powered amps will make it easy to operate on different open streets or areas that have no power outlet. However, check for batteries- and AC-powered busting amps.
 
-Highly Portable and have appropriate Wattage Definitely, the busking [amp](https: //pestpolicy. com/best-bass-amps-for-beginners/) must be easy to transport and highly portable real portability and reliability. Further, ensure that the amp is hardy enough to withstand the difficult conditions that are on the streets. Pros: - G
+Highly Portable and have appropriate Wattage Definitely, the busking [amp](https://pestpolicy.com/best-bass-amps-for-beginners/) must be easy to transport and highly portable real portability and reliability. Further, ensure that the amp is hardy enough to withstand the difficult conditions that are on the streets. Pros: - G
 
 Cons: - M
 
@@ -65,3 +65,4 @@ Cons: - M
 ##  Conclusion
 
 The best amplifiers for busking - In fact, your 50-watt amp may have just 3 decibels less than the 100-watts amp. Therefore, dont be confused, the wattage of the amp wont proportionately affect how much loud your amplifier will be.
+

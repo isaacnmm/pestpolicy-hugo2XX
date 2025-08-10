@@ -1,4 +1,4 @@
----
+﻿---
 title: Do Spiders Have Wings
 description: Some spiders even exhibit ballooning behavior - but do spiders have wings? Spiders use the earths electric field as a guide for flying across oceans on long...
 slug: /do-spiders-have-wings/
@@ -15,9 +15,9 @@ tags:
 layout: post
 ---
 
-Some spiders even exhibit ballooning behavior - but do spiders have wings? Spiders use the earths electric field as a guide [for flying across oceans](https: //www. sciencenews. org/blog/wild-things/trapdoor-spiders-australia-africa) on long strands of silk without wings! ***Well, what about winged spiders? Do these exist? No, not really.
+Some spiders even exhibit ballooning behavior - but do spiders have wings? Spiders use the earths electric field as a guide [for flying across oceans](https://www.sciencenews. org/blog/wild-things/trapdoor-spiders-australia-africa) on long strands of silk without wings! ***Well, what about winged spiders? Do these exist? No, not really.
 
-There are no known species of [spider](https: //pestpolicy. com/can-you-drown-a-spider/) with fully developed wings capable of powered flight in any way comparable to that of insects or birds. *** ***However there is one genus (Palystes) whose females possess wing-like projections called apomoses which cover their reproductive organs and sometimes also extend beyond them.
+There are no known species of [spider](https://pestpolicy.com/can-you-drown-a-spider/) with fully developed wings capable of powered flight in any way comparable to that of insects or birds. *** ***However there is one genus (Palystes) whose females possess wing-like projections called apomoses which cover their reproductive organs and sometimes also extend beyond them.
 
 These structures serve only as protective covers and are not used for flight. ***
 
@@ -33,13 +33,13 @@ The spider can then use this silk to trap particles in the surrounding atmospher
 
 Spiders like arboreal tarantulas are excellent jumping- known to glide from tree to tree - and they might grow glider wings over millionof years. Also, *Selenops change their whole* body into some airfoil and they'll glide for a long time. Gliding is a great way for spiders (and other arthropods) to escape from predators, and it's also a good means of transportation if they need go long distances!
 
-Some spiders can even use [changes in wind currents](https: //pestpolicy. com/how-to-get-rid-of-brown-recluse-spiders/) or tree branches like stepping stones across gaps too wide for jumping.
+Some spiders can even use [changes in wind currents](https://pestpolicy.com/how-to-get-rid-of-brown-recluse-spiders/) or tree branches like stepping stones across gaps too wide for jumping.
 
 ###  How Spider Silk help in flight?
 
 The spider's silk is the strongest known natural material. It's stronger in some ways than steel and Kevlar, yet it's light as a feather! Spiders can make silk straight from liquid to solid by spinning out of their mouths or rear ends. The spider makes its own glue when needed, just like you might use Elmers glue from a jar. Spider silk is made mostly of protein. The spider spins the silk using tiny spigots on its abdomen called spinnerets.
 
-Through ballooning, a spider will use the silkto make voyage cross-ocean journeys! A few spiders have been found that live in the snowy mountains of Alaska. Its not surprising they are able to survive so far north, because some species balloon as high as 15 miles into the atmosphere with just their silk and then float back down on air currents. See Also: [Spider Bite vs Mosquito Bite](https: //pestpolicy. com/spider-bite-vs-mosquito-bite/)
+Through ballooning, a spider will use the silkto make voyage cross-ocean journeys! A few spiders have been found that live in the snowy mountains of Alaska. Its not surprising they are able to survive so far north, because some species balloon as high as 15 miles into the atmosphere with just their silk and then float back down on air currents. See Also: [Spider Bite vs Mosquito Bite](https://pestpolicy.com/spider-bite-vs-mosquito-bite/)
 
 ###  Why Won't Spiders Fly?
 
@@ -58,3 +58,4 @@ The spiders would feed on many pests - comparable to bats, but wouldn't be able 
 ##  Conclusion
 
 Do Spiders Have Wings? Well, they don't have wings, b ut can spiders fly? Yes! Some spiders use the earth's electric field as it would a compass to lift their bodies into the air on long strands of silk - this is called ballooning.
+

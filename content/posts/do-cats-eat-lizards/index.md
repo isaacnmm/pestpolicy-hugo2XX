@@ -1,4 +1,4 @@
----
+﻿---
 title: Do Cats Eat Lizards
 description: Do Cats Eat Lizards? Have you ever met lizards and cats together in your home, yard or compound? Can your lizard and cat pet live together?
 slug: /do-cats-eat-lizards/
@@ -15,13 +15,13 @@ tags:
 layout: post
 ---
 
-Do Cats [Eat](https: //pestpolicy. com/do-flying-termites-eat-wood/) Lizards? Have you ever met lizards and cats together in your home, yard or compound? Can your lizard and cat pet live together? It is interesting to find how cats go along with lizards in your place? So, do cats eat lizards? *The direct answer is YES! Cats will eat lizards. Cats are great lizard predators.
+Do Cats [Eat](https://pestpolicy.com/do-flying-termites-eat-wood/) Lizards? Have you ever met lizards and cats together in your home, yard or compound? Can your lizard and cat pet live together? It is interesting to find how cats go along with lizards in your place? So, do cats eat lizards? *The direct answer is YES! Cats will eat lizards. Cats are great lizard predators.
 
 They will hunt, kill and eat lizard either by cutting it into pieces or swallow it whole (for the small sized cats).
 
 * *Cats prefer eating smaller lizards such as geckos, skins and Savannahlizards. However, depending on the species, cats may not be safe after eating lizards. Some species such as salamanders and juvenile blue-tailed skinks secrets poison in their skin, which may kill your cat if eaten. *
 
-*Though house lizards (gecko) may not have venom or poison, they carry parasites (liver flukes), pathogens and bacteria (salmonella) which affect adversely on the health of your cat when eaten. * Related: [Is Wall Gecko Poisonous If Eaten? ](https: //pestpolicy. com/is-wall-gecko-poisonous-if-eaten/)
+*Though house lizards (gecko) may not have venom or poison, they carry parasites (liver flukes), pathogens and bacteria (salmonella) which affect adversely on the health of your cat when eaten. * Related: [Is Wall Gecko Poisonous If Eaten? ](https://pestpolicy.com/is-wall-gecko-poisonous-if-eaten/)
 
 ##  Details: Do Cats Eat Lizards?
 
@@ -99,8 +99,9 @@ You can prevent your pet cat from eating lizards by applying some of the followi
 
 This method is time consuming and expensive.
 
-Related: [What Does a Garden Lizard Eat? ](https: //pestpolicy. com/what-does-a-garden-lizard-eat/)
+Related: [What Does a Garden Lizard Eat? ](https://pestpolicy.com/what-does-a-garden-lizard-eat/)
 
 ##  Conclusions
 
 Cats eat lizards. They do not select which species they feed on. However, most cats hunt geckos, savannah lizards and skins since they are easier to catch. Most Lizards are not poisonous though some like Gila monitor and Komodo dragon contain poisonous venom that paralyzes their prey when injected. Ensure you prevent your pet cat from eating lizards using some of the above ways.
+

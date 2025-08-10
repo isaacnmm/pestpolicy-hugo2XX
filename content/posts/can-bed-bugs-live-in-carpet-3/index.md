@@ -1,4 +1,4 @@
----
+﻿---
 title: Can Bed Bugs Live in Carpet 3
 description: Bed bugs! Their name is quite deceiving.Mainly, youll find these pests living in beds and suck human blood-eat . But, can bed bugs live in carpet? The simple...
 slug: /can-bed-bugs-live-in-carpet-3/
@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 
-Bed bugs! Their name is quite deceiving. Mainly, youll find these pests living in beds and [suck human blood](https: //pestpolicy. com/what-do-[bed-bugs](https: //pestpolicy. com/bed-bug-bites-vs-mosquito-bites/)-eat/). But, can [bed](https: //pestpolicy. com/bed-bug-bites-vs-other-bites/) bugs live in carpet? **The simple answer is, YES, bed bugs can live in the carpet and other dark locations.
+Bed bugs! Their name is quite deceiving. Mainly, youll find these pests living in beds and [suck human blood](https://pestpolicy.com/what-do-[bed-bugs](https://pestpolicy.com/bed-bug-bites-vs-mosquito-bites/)-eat/). But, can [bed](https://pestpolicy.com/bed-bug-bites-vs-other-bites/) bugs live in carpet? **The simple answer is, YES, bed bugs can live in the carpet and other dark locations.
 
 This is particularly common in the gap between the carpet and baseboard and ** **edges of the carpet behind your furniture. ** **The carpet is a great spot for females to lay eggs. ** So, lets get started!
 
@@ -43,7 +43,7 @@ Thus, if a few bed bugs get into your carpet, they might soon develop into an in
 
 ###  **3. Bed Bugs Are Always Hunting For a Host**
 
-Bed bugs will not wait until you go to bed for them to have a blood meal - causing [anemia, itching and allergy from the bed bug bite](https: //pestpolicy. com/can-bed-bugs-make-you-sick/). That means, they will follow you wherever you go.
+Bed bugs will not wait until you go to bed for them to have a blood meal - causing [anemia, itching and allergy from the bed bug bite](https://pestpolicy.com/can-bed-bugs-make-you-sick/). That means, they will follow you wherever you go.
 
 As they traverse across the floor to look for a host, there are chances that many bed bugs will find their way in your carpet.
 
@@ -78,3 +78,4 @@ Now, the contents of the canister are little debris which can be easily differen
 If youve bed bugs in your carpet, then this part of the house could be harbouring a host of them. Some will be on the carpet and others on the furniture just close to the carpet. **Conclusion** Bed bugs can get in your carpet and give you a hard time to eradicate. However, with the above remedies, you can easily get these pesky insects out of your carpet.
 
 These include diatomaceous earth, borax powder, heat treatment, steam treatment and vacuuming. I recommend using a combination of these remedies to eradicate bed bugs and prevent future infestation.
+

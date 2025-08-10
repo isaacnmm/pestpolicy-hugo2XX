@@ -1,4 +1,4 @@
----
+﻿---
 title: Can I Plant Trees and Shrubs in Late Fall or Winter
 description: When the vibrant hues of autumn fade and the chill of winter sets in, many gardeners assume the planting season is over.
 slug: /can-i-plant-trees-and-shrubs-in-late-fall-or-winter/
@@ -71,7 +71,7 @@ Even dormant plants need care to ensure successful establishment.
 
 1. **Watering: ** * **Consistent Moisture: ** Even in winter, moisture is crucial. If there's no natural rainfall or if the ground isn't frozen, water periodically throughout dry spells, especially evergreens. The goal is moist, not waterlogged, soil. * **Check Soil: ** Stick your finger 2-3 inches into the soil. If it feels dry, it's time to water. 2.
 
-**Staking (If Necessary): ** * Only stake if the [tree](https: //pestpolicy. com/10-trees-to-grow-in-containers/) is in a very windy location or is top-heavy and unstable. * Use wide, flexible material to tie the tree, allowing for some movement. Remove stakes after one year to prevent girdling. 3. **Protection from Pests: ** * **Rodents: ** In colder climates, voles, rabbits, and other rodents can chew on bark during winter.
+**Staking (If Necessary): ** * Only stake if the [tree](https://pestpolicy.com/10-trees-to-grow-in-containers/) is in a very windy location or is top-heavy and unstable. * Use wide, flexible material to tie the tree, allowing for some movement. Remove stakes after one year to prevent girdling. 3. **Protection from Pests: ** * **Rodents: ** In colder climates, voles, rabbits, and other rodents can chew on bark during winter.
 
 Use tree guards or wire mesh cages around the lower trunk.
 
@@ -86,3 +86,4 @@ Many deciduous and evergreen trees and shrubs are excellent candidates for dorma
 * **Evergreen Trees & Shrubs: ** Hollies (*Ilex*), Boxwoods (*Buxus*), Rhododendrons & Azaleas (*Rhododendron*), Conifers (e. g. , Pines, Spruces, Firs, Junipers, Arborvitae).
 
 Evergreens continue to transpire (lose water) in winter, so consistent soil moisture is vital for them.
+

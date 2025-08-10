@@ -1,4 +1,4 @@
----
+﻿---
 title: How to Deal With Broken Branches on a Bradford Pear Tree
 description: The Bradford Pear Pyrus calleryana 'Bradford' was once hailed as the perfect ornamental tree fast-growing, tolerant of diverse conditions, and boasting...
 slug: /how-to-deal-with-broken-branches-on-a-bradford-pear-tree/
@@ -113,3 +113,4 @@ Always select a tree species that is well-suited to your specific climate, soil 
 While the Bradford Pear tree's initial appeal is undeniable, its inherent structural weaknesses often lead to significant problems down the line. Dealing with broken branches safely and effectively means prioritizing professional assessment and intervention for anything beyond minor cleanup.
 
 For long-term solutions, strategic pruning can help mitigate risks, but considering the tree's eventual removal and replacement with a more structurally sound and ecologically beneficial alternative is often the wisest course of action for a safer, more sustainable landscape.
+

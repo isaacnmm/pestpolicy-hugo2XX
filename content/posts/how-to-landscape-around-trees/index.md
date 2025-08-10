@@ -1,4 +1,4 @@
----
+﻿---
 title: How to Landscape Around Trees
 description: Landscaping around the base of trees can add beauty, suppress weeds, and retain moisture, creating a stunning and cohesive look for your garden.
 slug: /landscape-around-trees/
@@ -14,7 +14,7 @@ tags:
 - them
 ---
 
-Landscaping around the base of trees can add beauty, suppress weeds, and retain moisture, creating a stunning and cohesive look for your garden. However, it's crucial to approach this task with care to ensure the health and longevity of your trees. Improper landscaping techniques can severely damage a [tree](https: //pestpolicy. com/10-trees-to-grow-in-containers/)'s root system, leading to stress, disease, or even death.
+Landscaping around the base of trees can add beauty, suppress weeds, and retain moisture, creating a stunning and cohesive look for your garden. However, it's crucial to approach this task with care to ensure the health and longevity of your trees. Improper landscaping techniques can severely damage a [tree](https://pestpolicy.com/10-trees-to-grow-in-containers/)'s root system, leading to stress, disease, or even death.
 
 The key to successful landscaping around trees lies in understanding their **critical root zone (CRZ)** and choosing the right plants and materials that coexist harmoniously.
 
@@ -65,3 +65,4 @@ A tree's root system is often much wider and shallower than many people realize.
 6. **Avoid Chemical Herbicides: ** Using herbicides near a tree can harm its root system, as the chemicals can be absorbed through the soil.
 
 By following these guidelines, you can create a beautiful, thriving landscape around your trees that enhances your garden's aesthetic appeal while supporting the long-term health of your woody giants.
+

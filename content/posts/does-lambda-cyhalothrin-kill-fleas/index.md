@@ -1,4 +1,4 @@
----
+﻿---
 title: Does Lambda Cyhalothrin Kill Fleas
 description: Lambda Cyhalothrin is a synthetic Pyrethroid chemical that is popular for pest control. - The ingredient is employed in a number of lawn and pest solutions...
 slug: /does-lambda-cyhalothrin-kill-fleas/
@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 
-[Lambda Cyhalothrin](http: //npic. orst. edu/factsheets/l_cyhalogen. pdf) is a synthetic Pyrethroid chemical that is popular for pest control. - The ingredient is employed in a number of lawn and pest solutions that have been certified for controlling different problematic insects. **But does lambda-cyhalothrin kill [fleas](https: //pestpolicy. com/does-apple-cider-vinegar-kill-fleas/)?
+[Lambda Cyhalothrin](http://npic.orst. edu/factsheets/l_cyhalogen. pdf) is a synthetic Pyrethroid chemical that is popular for pest control. - The ingredient is employed in a number of lawn and pest solutions that have been certified for controlling different problematic insects. **But does lambda-cyhalothrin kill [fleas](https://pestpolicy.com/does-apple-cider-vinegar-kill-fleas/)?
 
 YES, the synthetic pyrethroid is packaged in liquids, pellets, powders forms and it kills a range of outdoor and indoor pests such as fleas, bees, wasps, bed bugs, earwigs, scorpions, silverfish, ticks, flies, termites, spiders, cockroaches, and ants. ** In this article, I'll get deeper into the products that have Lambda-cyhalothrin for your DIY pest control. Let's get into it.
 
@@ -41,13 +41,13 @@ The chemical will works to poison the flea's central nervous system which result
 
 ##  Cons Of Using Lambda-Cyhalothrin For Flea and Pest Control
 
-The first drawback of using Lambda-cyhalothrin for pest control is that it contains a mild odor that could put off anyone that has some reasonable sensitivity. - Also, the insecticides knockdown effect might be known as quickly as you'll get with other[pest control products including flea foggers](https: //pestpolicy. com/best-fogger-for-fleas/)and sprays.
+The first drawback of using Lambda-cyhalothrin for pest control is that it contains a mild odor that could put off anyone that has some reasonable sensitivity. - Also, the insecticides knockdown effect might be known as quickly as you'll get with other[pest control products including flea foggers](https://pestpolicy.com/best-fogger-for-fleas/)and sprays.
 
 On toxicity lambda-cyhalothrin is classified as Class II on EPA Toxicity with Class IV has the lowest toxicity well Class I has the highest toxicity.
 
 - However, products with Class II Toxicity (including those with Lambda-cyhalothrin) need to have the warning phrase on their description Despite that lambda-cyhalothrin could cause some harm to pets and humans when swallowed, the chemical won't be a major threat if you use it as outlined on its label. Related: [Humans Fleas to Another Home?
 
-](https: //pestpolicy. com/can-humans-carry-fleas-from-one-home-to-another/)
+](https://pestpolicy.com/can-humans-carry-fleas-from-one-home-to-another/)
 
 ##  How Safe is Lambda-Cyhalothrin for Flea Control?
 
@@ -64,3 +64,4 @@ Some of the products that contain lambda-cyhalothrin as the active ingredient in
 ##  Conclusion
 
 Lambda-Cyhalothrin is an effective synthetic pyrethroid that will kill fleas in the house and in the yard. - Commercially there are many pest control products that contain lambda-cyhalothrin and you can inquire from your local exterminator or stores. Cheers
+

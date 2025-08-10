@@ -1,4 +1,4 @@
----
+﻿---
 title: How to Paint Popcorn Ceiling
 description: Before proceeding to paint the popcorn ceiling, lets first understand what is popcorn ceiling? Popcorn also referred to as stucco ceiling is a ceiling that...
 slug: /how-to-paint-popcorn-ceiling/
@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 
-Before proceeding to paint the popcorn [ceiling](https: //pestpolicy. com/do-you-need-to-backroll-after-spraying-ceiling/), lets first understand what is popcorn ceiling? Popcorn also referred to as stucco ceiling is a ceiling that has been designed with acoustic texture made from mixed Styrofoam balls.
+Before proceeding to paint the popcorn [ceiling](https://pestpolicy.com/do-you-need-to-backroll-after-spraying-ceiling/), lets first understand what is popcorn ceiling? Popcorn also referred to as stucco ceiling is a ceiling that has been designed with acoustic texture made from mixed Styrofoam balls.
 
 Popcorn used in the pre-1970s contained some elements of asbestos and therefore its important to first check for asbestos in your ceiling before you can proceed to paint. Asbestos is considered to be carcinogenic and no longer advisable for use on ceilings. If present, you may consider getting rid of the ceiling due to its health risk.
 
@@ -31,7 +31,7 @@ This is a very important step in the sense that you have made the choice of how 
 
 Another advantage of popcorn is that they are sound-proof and also good at hiding imperfections. Choosing a sprayer or a roller is something that needs consideration. 1. An adjustable step ladder 2. Utility knife 3. A 9-inch roller frame 4. inch roller covers 5. Rolls of masking tape 6. Extension pole 7. Painters brush 8. Drop cloth 9. Respirator 10. Googles Also, get to paint-preferably flat white ceiling paint. A sprayer-if is available.
 
-> See Also: > [Painting A Ceiling Without Roller Marks](https: //pestpolicy. com/how-to-paint-a-ceiling-without-roller-marks/)
+> See Also: > [Painting A Ceiling Without Roller Marks](https://pestpolicy.com/how-to-paint-a-ceiling-without-roller-marks/)
 
 ###  Step 3: Surface/site Preparation
 
@@ -63,7 +63,7 @@ Wait for at least 30 minutes before you can apply the second coat.
 
 In the second coat, roll the paint in the opposite direction, this will help you achieved a well-covered surface. Do not forget to observe a 50% overlap to achieve full coverage. Repeat this for the third and the fourth coat if the popcorn was in a bad condition until you get that professional finish. Take your time after you are done to check if there are any imperfections so that you can work on them before cleaning up your tool.
 
-> See Also: > [Paint for Bathroom Ceiling to Prevent Mold](https: //pestpolicy. com/best-paint-for-bathroom-ceiling-to-prevent-mold/)
+> See Also: > [Paint for Bathroom Ceiling to Prevent Mold](https://pestpolicy.com/best-paint-for-bathroom-ceiling-to-prevent-mold/)
 
 ###  Step 7: Cleaning Up the Work Station
 
@@ -90,3 +90,4 @@ Another benefit is that unlike spraying, rolling is most probably going to cause
 ##  Conclusion
 
 Well done for the successful painting of your popcorn ceiling. As you purpose for this great course, choosing a good paint that will compliment your house. Get prepared with proper tools which will be helpful in making you achieve a good popcorn painting. You may also want to consider spraying over rolling or using a brush if you really want good results.
+

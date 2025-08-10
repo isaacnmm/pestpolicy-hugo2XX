@@ -1,4 +1,4 @@
----
+﻿---
 title: Tip for Smoothing Silicone Caulk
 description: The Secret to Perfect Seams - Tips for Smoothing Silicone Caulk Like a Pro Silicone caulk is the undisputed champion for sealing joints in wet environments...
 slug: /tip-for-smoothing-silicone-caulk/
@@ -77,3 +77,4 @@ Beyond the smoothing technique, these factors are crucial for a successful silic
 * **Wipe Away Excess Immediately: ** Silicone is difficult to remove once cured. Have plenty of paper towels and a rag moistened with mineral spirits or alcohol on hand to wipe away any excess caulk or smears immediately. * **Cure Time: ** Always allow silicone caulk to fully cure according to the manufacturer's instructions before exposing it to water. This can range from 24 to 72 hours. Rushing this step will compromise the seal.
 
 * **Ventilation: ** Work in a well-ventilated area, especially when using alcohol or mineral spirits.
+

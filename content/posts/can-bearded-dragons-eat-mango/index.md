@@ -1,4 +1,4 @@
----
+﻿---
 title: Can Bearded Dragons Eat Mango
 description: Can bearded dragons eat mango? Mango  Mangifera indica  is a delicious drupe that grows mainly in tropical climate and is often used as dessert by many people...
 slug: /can-bearded-dragons-eat-mango/
@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 
-Can bearded dragons eat mango? Mango ( [*Mangifera indica*](https: //www. ncbi. nlm. nih. gov/pmc/articles/PMC3249901/) ) is a delicious drupe that grows mainly in tropical climate and is often used as dessert by many people or chewed while unripe. Could be you have come across a number of them at market place or you grow various mango species and wonders if bearded dragons can eat them.
+Can bearded dragons eat mango? Mango ( [*Mangifera indica*](https://www.ncbi. nlm. nih. gov/pmc/articles/PMC3249901/) ) is a delicious drupe that grows mainly in tropical climate and is often used as dessert by many people or chewed while unripe. Could be you have come across a number of them at market place or you grow various mango species and wonders if bearded dragons can eat them.
 
 It may also concern you if beardies can eat mango peels, leaves or stems/backs.
 
@@ -63,7 +63,7 @@ On average, most mango species contain 49% to 74% water content when ripe. This 
 
 Average water content is needed for your beardies homeostasis processes as well as maintenance of its skin and cells in hydrated state for proper physiological processes. Low water content in beardie will cause dehydration that leads to dizziness, constipation and dry skin. You should avoid overfeeding your bearded dragon with excess mangoes-it may lead to over hydration that causes high blood pressure and runny poo.
 
-Normally, Mangoes should be fed occasionally and be supplemented with other meals like mealworms or silkworms. Related: [Can Bearded Dragons Eat Bananas? ](https: //pestpolicy. com/can-bearded-dragons-eat-bananas/)
+Normally, Mangoes should be fed occasionally and be supplemented with other meals like mealworms or silkworms. Related: [Can Bearded Dragons Eat Bananas? ](https://pestpolicy.com/can-bearded-dragons-eat-bananas/)
 
 ###  6. Aphrodisiac fruit
 
@@ -89,7 +89,7 @@ Measure 300g to 545g of mango salad in a given time when feeding your beardie th
 
 Related: [Can Bearded Dragons Eat Grapes?
 
-](https: //pestpolicy. com/can-bearded-dragons-eat-grapes/)
+](https://pestpolicy.com/can-bearded-dragons-eat-grapes/)
 
 ##  Mango Species not to Feed Your Bearded Dragon
 
@@ -111,7 +111,7 @@ You can feed your beardie with mangoes that are about to ripen they usually have
 
 One great problem of mangoes is that they have low calcium: phosphorous ratio of 0. 4: 1. This is dangerous since excess phosphorous inhibits (binds) calcium from being absorbed into the bloodstream leading to calcium deficiency disease called metabolic bone disease. However, you can boost beardies calcium level in the mango salad by adding commercially manufactured calcium powder supplement when feeding.
 
-You need to know that low calcium to phosphorous ration will also affect absorption of carbs by your beardie. Therefore, select mango species that have relatively high calcium: phosphorous ratio. Related: [Can Bearded Dragons Eat Apples? ](https: //pestpolicy. com/can-bearded-dragons-eat-apples/)
+You need to know that low calcium to phosphorous ration will also affect absorption of carbs by your beardie. Therefore, select mango species that have relatively high calcium: phosphorous ratio. Related: [Can Bearded Dragons Eat Apples? ](https://pestpolicy.com/can-bearded-dragons-eat-apples/)
 
 ###  **4. Mangoes With High Acidity Level **
 
@@ -132,3 +132,4 @@ Actually, mango peels contain important antioxidant compounds necessary for dest
 ##  Conclusion
 
 Bearded dragon will easily eat mangoes to acquire vitamin A, B6, C, E and K. In addition, mangoes have rich pre-biotic dietary fibers as well as rich mineral content. Notably, low fat and cholesterol content makes mango salad a suitable feed supplement. However, mangoes contain relatively high sugar, moderate oxalate/acid and low calcium: phosphorous ratio and thus should be used occasionally.
+

@@ -1,4 +1,4 @@
----
+﻿---
 title: Best Paint Brushes for Acrylic Painting
 description: Since acrylic paints tend to be hard on hairbrushes, they need to be replaced often if you are not so diligent about cleaning up after use. Given the wide...
 slug: /best-paint-brushes-for-acrylic-painting/
@@ -60,7 +60,7 @@ Artify designers integrated an additional oil paint coating on the handles of th
 
 Cons: - Pricey
 
-> See Also: > [Acrylic Paint for Canvas](https: //pestpolicy. com/best-acrylic-paint-for-canvas/)
+> See Also: > [Acrylic Paint for Canvas](https://pestpolicy.com/best-acrylic-paint-for-canvas/)
 
 ###  [4. Benicci Artist Paint Brush Set of 16 with Bonus Paint Knife](https://www.amazon.com/dp/B07YYHC6RB/?tag=p-policy-20)
 
@@ -72,7 +72,7 @@ The Benicci paintbrush series is perfect for acrylic, watercolors, and oil paint
 
 Cons: - Relatively pricey
 
-> See Also: > [Acrylic Paint for Professional Artists](https: //pestpolicy. com/best-acrylic-paint-for-professional-artists/)
+> See Also: > [Acrylic Paint for Professional Artists](https://pestpolicy.com/best-acrylic-paint-for-professional-artists/)
 
 ###  [5. Starvast Painting Brushes 12 Pic Professional Angled Paint Brushes](https://www.amazon.com/dp/B01M6DKS8L/?tag=p-policy-20)
 
@@ -86,7 +86,7 @@ Pros: - Professional quality - Affordably priced - Multi-purpose
 
 Cons: - None
 
-> See Also: > [Removing Acrylic Paint from Concrete](https: //pestpolicy. com/how-to-remove-acrylic-paint-from-concrete/)
+> See Also: > [Removing Acrylic Paint from Concrete](https://pestpolicy.com/how-to-remove-acrylic-paint-from-concrete/)
 
 ###  [6. Adis Art Pro 10pc Paint Brush Set for Acrylic Oil Water Color](https://www.amazon.com/dp/B074CL66VH/?tag=p-policy-20)
 
@@ -109,3 +109,4 @@ Cons: - Questionable versatility
 The most important buying consideration for quality acrylic paintbrushes is bristle type, size, and shape. - The durability of the handle, ferrules, and filaments are just what you need for ease of cleaning and ensuring lasting performance.
 
 - The Artify 38-piece paintbrush set stands out because the hairs are resistant to fraying and falling apart even after prolonged use which ensures that they maintain their shape and produce dynamic strokes every time.
+

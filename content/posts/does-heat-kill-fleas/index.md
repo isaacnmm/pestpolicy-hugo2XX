@@ -1,4 +1,4 @@
----
+﻿---
 title: Does Heat Kill Fleas
 description: Fleas are tiny flat-bodied external parasites thatll feed on blood from mammals and birds. Fleas will mainly hide floor cracks, beddings and furniture and...
 slug: /does-heat-kill-fleas/
@@ -15,9 +15,9 @@ tags:
 layout: post
 ---
 
-[Fleas](https: //pestpolicy. com/does-apple-cider-vinegar-kill-fleas/) are tiny flat-bodied external parasites thatll feed on blood from mammals and birds.
+[Fleas](https://pestpolicy.com/does-apple-cider-vinegar-kill-fleas/) are tiny flat-bodied external parasites thatll feed on blood from mammals and birds.
 
-Fleas will mainly hide floor cracks, beddings and furniture and thus it is challenging to control them. But, *does [heat](https: //pestpolicy. com/best-heat-gun-for-removing-paint/) kill fleas? * **In summary, YES, heat will kill fleas, their eggs, and larvae particularly heat from steaming, laundering, dryers, professional heat treatment (Entotherm), and flea heaters. So, lets get into the details! **
+Fleas will mainly hide floor cracks, beddings and furniture and thus it is challenging to control them. But, *does [heat](https://pestpolicy.com/best-heat-gun-for-removing-paint/) kill fleas? * **In summary, YES, heat will kill fleas, their eggs, and larvae particularly heat from steaming, laundering, dryers, professional heat treatment (Entotherm), and flea heaters. So, lets get into the details! **
 
 ##  Details: Does Heat Kill Fleas?
 
@@ -27,7 +27,7 @@ Completely yes, extremely high temperatures will destroy a life cycle of a pest 
 
 This is a non-toxic natural way to kill fleas inn your house, if you have children and pets this is a good method for you. Steam cleaning is powerful in eliminating all pests and dirt, the high temperatures usually 100 degrees to 150 degrees is enough to kill the fleas. 1. Take your steam cleaner and ensure its temperatures are 100 degrees, more than 180 degrees can damage your fabrics.
 
-This may also be achieved in[flea vacuums](https: //pestpolicy. com/best-vacuums-for-fleas/). 2.
+This may also be achieved in[flea vacuums](https://pestpolicy.com/best-vacuums-for-fleas/). 2.
 
 Clean your furniture, rugs, carpet and sofas with it. Make sure you move slowly ensuring the heat penetrates at carpets base in the fibers and underneath the baseboards of furniture in your house. 3. One time may not be enough, make it a routine for three days to ensure total elimination of fleas. 4. Steam will not only kill larva and adult fleas but also all eggs will be killed by the high temperatures. 5.
 
@@ -82,3 +82,4 @@ Most people find it hard on how to make their home fleas free. Although there ar
 Follow the steps highlighted above and for once you will solve flea problem in your home.
 
 Make sure you read and follow the instructions on your heaters manual. A home free of pests such as fleas is a happy peaceful home for you and your pets.
+

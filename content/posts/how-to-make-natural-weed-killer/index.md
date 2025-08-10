@@ -1,4 +1,4 @@
----
+﻿---
 title: How to Make Natural Weed Killer
 description: Weeds are the bane of every gardener's existence, relentlessly competing with desirable plants for nutrients, water, and sunlight.
 slug: /how-to-make-natural-weed-killer/
@@ -39,11 +39,11 @@ Ultimately, the most sustainable and effective approach to weed management is pr
 
 Weeds are the bane of every gardener's existence, relentlessly competing with desirable plants for nutrients, water, and sunlight. While commercial chemical herbicides offer a quick solution, many gardeners are increasingly seeking natural, eco-friendly alternatives.
 
-Concerns about the environmental impact, potential health risks to pets and children, and the desire to maintain an organic garden have driven the demand for safer [weed](https: //pestpolicy. com/how-to-make-a-nontoxic-weed-killer/) control methods.
+Concerns about the environmental impact, potential health risks to pets and children, and the desire to maintain an organic garden have driven the demand for safer [weed](https://pestpolicy.com/how-to-make-a-nontoxic-weed-killer/) control methods.
 
 The good news is that you don't always need harsh chemicals to tackle common weeds. Many effective weed killers can be concocted right in your own kitchen using readily available household ingredients. These homemade solutions offer a more sustainable approach to weed management, allowing you to maintain a pristine garden without compromising the health of your family, pets, or the surrounding ecosystem.
 
-This guide will explore the differences between chemical and [natural](https: //pestpolicy. com/top-7-natural-termite-control-can-easily/) weed killers, provide recipes for effective homemade solutions, offer application tips, and, crucially, share strategies for preventing weeds from taking hold in the first place.
+This guide will explore the differences between chemical and [natural](https://pestpolicy.com/top-7-natural-termite-control-can-easily/) weed killers, provide recipes for effective homemade solutions, offer application tips, and, crucially, share strategies for preventing weeds from taking hold in the first place.
 
 ##  Ingredients of Homemade Weed Killers
 
@@ -92,3 +92,4 @@ The best weed killer is often prevention. A proactive approach significantly red
 In Nairobi, this means ensuring your lawn is robust during both rainy and dry seasons. 9.
 
 **Solarization (for severely weed-infested areas): ** * In hot, sunny climates (like Nairobi's dry season), cover a weed-infested area with clear plastic for 4-6 weeks during the hottest part of the year. The sun's heat under the plastic can "cook" and kill weed seeds and existing weeds.
+

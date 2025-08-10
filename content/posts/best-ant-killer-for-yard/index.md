@@ -1,4 +1,4 @@
----
+﻿---
 title: Best Ant Killer for Yard
 description: I've reviewed the best ant killers for your yard. You dont really realize the importance of ant killers until you want to sit in your yard and your peaceful...
 slug: /best-ant-killer-for-yard/
@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 
-I've reviewed the [best](https: //pestpolicy. com/best-ant-killer/) ant killers for your yard. You dont really realize the importance of ant killers until you want to sit in your yard and your peaceful time gets disrupted because of so many [ants](https: //pestpolicy. com/best-ant-traps/) crawling around.
+I've reviewed the [best](https://pestpolicy.com/best-ant-killer/) ant killers for your yard. You dont really realize the importance of ant killers until you want to sit in your yard and your peaceful time gets disrupted because of so many [ants](https://pestpolicy.com/best-ant-traps/) crawling around.
 
 They can be quite a nuisance, and thus, it is best that you get hold of a good ant killer for your yard so that you can have some peaceful, relaxing time outdoors. There are a lot of different factors that can affect your purchase of an ant killer. It all depends on the type of budget that you have and the time on hand. Read Also: Fire Ant Killer for Reviewed.
 
@@ -83,7 +83,7 @@ Pros: - It repels all kinds of insects; not just ants - This product can help yo
 
 Cons: - It might not work too well in isolation - You might not get the desired results in a single usage
 
-Read Also: [Do Sugar Ants Bite? ](https: //pestpolicy. com/do-sugar-ants-bite/)
+Read Also: [Do Sugar Ants Bite? ](https://pestpolicy.com/do-sugar-ants-bite/)
 
 ###  [6. Bio-Advanced 502832 Fire Ant Killer Dust](https://www.amazon.com/dp/B000HM8J4K/?tag=p-policy-20)
 
@@ -116,3 +116,4 @@ Related: Indoor Flea Killer Reviewed
 ##  Conclusion
 
 Some people prefer granular ant killers, and others prefer sprays. It just depends on what you think will work best for you.
+

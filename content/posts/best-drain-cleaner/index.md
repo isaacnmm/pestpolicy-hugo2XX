@@ -1,4 +1,4 @@
----
+﻿---
 title: Best Drain Cleaner
 description: Clogged drains can be a real hassle, causing foul odors, gurgling water, and overflowing sinks. Before you call a plumber, try these efficient, safe, and...
 slug: /best-drain-cleaner/
@@ -23,7 +23,7 @@ Before you call a plumber, try these efficient, safe, and fast-acting drain clea
 
 ###  [1. Drano Max-Gel Drain [Cleaner](https://pestpolicy.com/best-shower-drain-cleaner/) and Clog Remover](https://www.amazon.com/dp/B003TS2R1A?ascsubtag=%5Bartid%7C10060.g.42680952%5Bsrc%7Cwww.google.com%5Bch%7C%5Blt%7Csale%5Bpid%7C1ac51d6c-7738-464f-b147-2da502432c7c%5Bofsxid%7Cbutton_poc%5Bofsvid%7Clt_t%5Bofsxid%7Cjam_ab%5Bofsvid%7Cvariant_1%5Bofsxid%7Cshow_header_search%5Bofsvid%7Cshow_search%5Bofsxid%7Csubx_vs_jam%5Bofsvid%7Csubx&th=1&linkCode=ll1&tag=p-policy-20&linkId=dd563c05f7422fb1b81f3be5ec8e5229&language=en_US&ref_=as_li_ss_tl)
 
-Drano Max-Gel is perfect for removing food bits, soap scum, hair, and grease from shower [drains](https: //pestpolicy. com/how-drain-cleaners-work/), bathtubs, and kitchen sinks. Its effectiveness in tackling stubborn [hair clogs](https: //pestpolicy. com/how-to-unclog-a-bathtub-drain-with-standing-water/) in as little as 15 minutes makes it a reliable choice for quick and efficient drain cleaning.
+Drano Max-Gel is perfect for removing food bits, soap scum, hair, and grease from shower [drains](https://pestpolicy.com/how-drain-cleaners-work/), bathtubs, and kitchen sinks. Its effectiveness in tackling stubborn [hair clogs](https://pestpolicy.com/how-to-unclog-a-bathtub-drain-with-standing-water/) in as little as 15 minutes makes it a reliable choice for quick and efficient drain cleaning.
 
 **Usage Instructions: ** Pour half the cleaner into the clogged drain and let it work for 30 minutes before flushing with hot water. It may produce a strong odor, so keep the area well-ventilated.
 
@@ -60,3 +60,4 @@ For reliable and efficient drain cleaning, Drano Max-Gel, Green Gobbler, and Roe
 I hope this guide helps you maintain a clog-free home.
 
 Cheers!
+

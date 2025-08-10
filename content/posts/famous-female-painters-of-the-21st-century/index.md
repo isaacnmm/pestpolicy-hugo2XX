@@ -1,4 +1,4 @@
----
+﻿---
 title: Famous Female Painters Of the 21st Century
 description: The 21st century has seen the rise of many influential female artists who have made significant contributions to the world of painting.
 slug: /famous-female-painters-of-the-21st-century/
@@ -24,7 +24,7 @@ Yayoi Kusama, known for her signature polka dots and immersive installations, is
 
 ###  2.[Cindy Sherman](https://www.amazon.com/dp/B085Y2D8TR?tag=p-policy-20)
 
-Cindy Sherman is an American photographer and [painter](https: //pestpolicy. com/how-much-does-a-painter-make/), widely recognized for her conceptual portraits that explore identity, gender, and societal roles. She often appears in her works, changing her appearance with costumes and makeup to create different personas, reflecting the complexities of the human experience.
+Cindy Sherman is an American photographer and [painter](https://pestpolicy.com/how-much-does-a-painter-make/), widely recognized for her conceptual portraits that explore identity, gender, and societal roles. She often appears in her works, changing her appearance with costumes and makeup to create different personas, reflecting the complexities of the human experience.
 
 ###  3.[Kara Walker](https://www.amazon.com/dp/B08Y6J9TL1?tag=p-policy-20)
 
@@ -45,3 +45,4 @@ Female painters of the 21st century have not only broken barriers within the art
 ###  Conclusion
 
 The contribution of female painters to the world of art has been monumental, and their impact will continue to inspire future generations of artists. These women have proved that art is not limited by gender, and their works serve as a testament to the strength and creativity of women in the contemporary art world.
+

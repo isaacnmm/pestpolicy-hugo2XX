@@ -1,4 +1,4 @@
----
+﻿---
 title: Leptospirosis Symptoms Index
 description: Leptospirosis is a bacterial infection that can affect both humans and animals. It is caused by bacteria of the genus Leptospira , and can lead to severe...
 slug: /leptospirosis-symptoms-index/
@@ -24,7 +24,7 @@ A high fever is one of the earliest symptoms of leptospirosis. It is usually acc
 
 ###  2. Muscle Pain
 
-Muscle pain, particularly in the calves and lower back, is common among individuals with leptospirosis. This [symptom](https: //pestpolicy. com/leptospirosis-symptoms/) may worsen over time, and muscle stiffness can also develop.
+Muscle pain, particularly in the calves and lower back, is common among individuals with leptospirosis. This [symptom](https://pestpolicy.com/leptospirosis-symptoms/) may worsen over time, and muscle stiffness can also develop.
 
 ###  3. Headache
 
@@ -63,3 +63,4 @@ If you experience any combination of the symptoms listed above, especially if yo
 ##  Conclusion
 
 Leptospirosis is a potentially serious disease with a wide range of symptoms that can mimic other illnesses. Being aware of these symptoms and seeking prompt medical treatment is essential for a successful recovery. If you suspect you have leptospirosis, contact your healthcare provider for testing and appropriate treatment.
+

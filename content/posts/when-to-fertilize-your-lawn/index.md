@@ -1,4 +1,4 @@
----
+﻿---
 title: When to Fertilize Your Lawn
 description: A vibrant, healthy lawn is often the cornerstone of an attractive landscape, providing a lush carpet for outdoor activities and enhancing curb appeal.
 slug: /when-to-fertilize-your-lawn/
@@ -22,7 +22,7 @@ Fertilization provides the essential elements that promote strong root growth, d
 
 However, the question of "when to fertilize" is not a one-size-fits-all answer. It's a nuanced decision that hinges primarily on your specific grass type, local climate, and the overall health of your soil. Applying fertilizer at the wrong time can be ineffective, wasteful, or even harmful, potentially leading to nutrient runoff, weak growth, or even "fertilizer burn. "
 
-This guide will demystify the science behind lawn fertilization, help you identify your grass type, outline the [optimal](https: //pestpolicy. com/how-long-to-water-lawn/) feeding schedules, and provide practical tips to ensure your [lawn](https: //pestpolicy. com/10-essential-lawn-and-garden-tools-for-fall/) receives the nourishment it needs precisely when it can benefit most.
+This guide will demystify the science behind lawn fertilization, help you identify your grass type, outline the [optimal](https://pestpolicy.com/how-long-to-water-lawn/) feeding schedules, and provide practical tips to ensure your [lawn](https://pestpolicy.com/10-essential-lawn-and-garden-tools-for-fall/) receives the nourishment it needs precisely when it can benefit most.
 
 ##  What Is Fertilizer?
 
@@ -123,3 +123,4 @@ Beyond timing, the *how* of fertilizationusing proper application techniques, ad
 **Q4: What if I miss a fertilization window? ** A4: Don't panic. It's better to miss an application than to apply at the wrong time. Just pick up the next scheduled application, ensuring you're following the correct timing for your grass type and conditions. Consistency over time is more important than hitting every single "perfect" window.
 
 **Q5: How long should I wait to mow after fertilizing? ** A5: For granular fertilizer, wait until you've watered it in and the granules have dissolved (usually within 24-48 hours, or after the first watering/rain). For liquid fertilizers, wait until the product has dried on the blades (a few hours). Mowing too soon can pick up or redistribute granules unevenly.
+

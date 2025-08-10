@@ -1,4 +1,4 @@
----
+﻿---
 title: Dog Has Fleas and Sleeps in My Bed
 description: Sleeping with you are cat or dog on the bed is quite cozy and soothing but this may turn out different if the pet has fleas. - Psychological snuggling or...
 slug: /dog-has-fleas-and-sleeps-in-my-bed/
@@ -15,13 +15,13 @@ tags:
 layout: post
 ---
 
-Sleeping with you are cat or dog on the bed is quite cozy and soothing but this may turn out different if the pet has [fleas](https: //pestpolicy. com/can-dog-fleas-transfer-to-humans/). - Psychological snuggling or sleeping next to your pet has been documented to[reduce anxiety and stress](https: //www. sleepassociation. org/sleep-news/pets-may-help-you-sleep-better/)from work or school.
+Sleeping with you are cat or dog on the bed is quite cozy and soothing but this may turn out different if the pet has [fleas](https://pestpolicy.com/can-dog-fleas-transfer-to-humans/). - Psychological snuggling or sleeping next to your pet has been documented to[reduce anxiety and stress](https://www.sleepassociation. org/sleep-news/pets-may-help-you-sleep-better/)from work or school.
 
 So, youre wondering; your dog has fleas and sleeps in my bed, what should you do? Is it safe?
 
-Well, fleas don't generally jump onto humans and bite them but they do occasionally. Therefore if the dog has fleas and it sleeps on your bed, you could end up with a massive [flea](https: //pestpolicy. com/how-to-tell-if-your-dog-has-fleas/) problem, or (at the minimum) the fleas might just bite you while you're sleeping and leave you with itchy or painful skin.
+Well, fleas don't generally jump onto humans and bite them but they do occasionally. Therefore if the dog has fleas and it sleeps on your bed, you could end up with a massive [flea](https://pestpolicy.com/how-to-tell-if-your-dog-has-fleas/) problem, or (at the minimum) the fleas might just bite you while you're sleeping and leave you with itchy or painful skin.
 
-Fleas will bite pets such as cats and dogs [but will also bite humans](https: //pestpolicy. com/can-dog-fleas-transfer-to-humans/) if they share a bed or if you go near there betting that is not flea-treated. - So if youve risen from your bed and you notice that your pet and yourself are scratching continuously, I encourage you to continue reading this article to know the science to check out to know whether you have fleas in the bed.
+Fleas will bite pets such as cats and dogs [but will also bite humans](https://pestpolicy.com/can-dog-fleas-transfer-to-humans/) if they share a bed or if you go near there betting that is not flea-treated. - So if youve risen from your bed and you notice that your pet and yourself are scratching continuously, I encourage you to continue reading this article to know the science to check out to know whether you have fleas in the bed.
 
 ##  Details: Dog Has Fleas and Sleeps in My Bed
 
@@ -98,3 +98,4 @@ Awesome check the age of a puppy to determine if it will be able to understand b
 ##  Conclusion
 
 So in conclusion it is clear that sleeping next to your dog can have many advantages including stress relief but the pet may also cause flea problems if the animal is flea-infested. - So it is important that you the dog before allowing it on your bed. Also, wash and dry the bedding exterminate any fleas left behind. Flea-treating the yard and your house will also help control the bugs from the surroundings. Thats all. Cheers!
+

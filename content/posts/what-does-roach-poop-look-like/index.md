@@ -1,4 +1,4 @@
----
+﻿---
 title: What Does Roach Poop Look Like
 description: What does roach poop look like?Cockroaches will leave their droppings almost anywhere they pass through. The droppings are typically found in damp areas and...
 slug: /what-does-roach-poop-look-like/
@@ -17,9 +17,7 @@ layout: post
 
 What does roach poop look like? Cockroaches will leave their droppings almost anywhere they pass through. The droppings are typically found in damp areas and near sources of food.
 
-You can find them in the kitchen, bathroom, under the sink, and so on. But what does roach poop look like? Roach poop can appear as brown or black stains, smears, and coarse or ground black pepper. Sometimes they can take the shape of a cylinder. The droppings' size and appearance depend on the size, age, and species of the cockroach. Read Also: [What's the best roach killer for the house? ](https: //pestpolicy.
-
-com/best-roach-killer-for-apartments/)
+You can find them in the kitchen, bathroom, under the sink, and so on. But what does roach poop look like? Roach poop can appear as brown or black stains, smears, and coarse or ground black pepper. Sometimes they can take the shape of a cylinder. The droppings' size and appearance depend on the size, age, and species of the cockroach. Read Also: [What's the best roach killer for the house? ](https://pestpolicy.com/best-roach-killer-for-apartments/)
 
 ##  **Details: What Does Roach Poop Look Like? Roach Feces**
 
@@ -35,13 +33,13 @@ Roach droppings tend to have rounded ends, while those of rodents are somehow po
 
 Roaches come to your house in search of food and water. Although roaches feed on almost anything, they are mostly attracted to the food we eat. Therefore it is common to find roach droppings near food storage areas. Roach droppings can be found in large numbers in dark corners or crevices where roaches hide from humans or pets. Closets, cabinets, behind furniture, drawers, and other hidden areas make charming places for roaches to hide and breed.
 
-So, its possible to find large amounts of roach droppings in these areas. [Roaches also tend to hide and nest](https: //pestpolicy. com/how-to-find-a-roach-nest/) underneath the mattress because these areas are given fewer cleanups. Roaches can penetrate the crevices in the bed furniture where they hide and nest. Thus its possible to find their droppings in these crevices and the floor under the bed.
+So, its possible to find large amounts of roach droppings in these areas. [Roaches also tend to hide and nest](https://pestpolicy.com/how-to-find-a-roach-nest/) underneath the mattress because these areas are given fewer cleanups. Roaches can penetrate the crevices in the bed furniture where they hide and nest. Thus its possible to find their droppings in these crevices and the floor under the bed.
 
 Other places to look for roach droppings include damp areas such as leaking pipes, under the sink, laundry rooms, and bathroom and so on. Roaches come to these places in search of water.
 
 ##  **What Does Roach Poop Smell Like?**
 
-Just like the roaches themselves, roach poop exhibits a pungent, oily odor. The odor is characteristic of the myriad of ingested food, including dead insects, food debris, garbage, carcasses, rotten flesh, and so on. Although the smell is disgusting to humans, it acts as a means of communication with other cockroaches. This helps roaches keep track of each others trails - as you [control the roaches](https: //entomology. ca. uky. edu/ef614).
+Just like the roaches themselves, roach poop exhibits a pungent, oily odor. The odor is characteristic of the myriad of ingested food, including dead insects, food debris, garbage, carcasses, rotten flesh, and so on. Although the smell is disgusting to humans, it acts as a means of communication with other cockroaches. This helps roaches keep track of each others trails - as you [control the roaches](https://entomology.ca. uky. edu/ef614).
 
 ##  **Whats the Importance of Locating Roach Feces?**
 
@@ -51,7 +49,7 @@ Children are especially likely to suffer severe asthma attacks due to roaches an
 
 - As they search for food and water, roaches will contaminate your food with their feces. You may not even know that your food is contaminated because the feces are quite small and unnoticeable. As such, your food may be infected with salmonella bacteria known to cause gastroenteritis or food poisoning. - Locating and removing the feces prevents more roaches from coming to your house.
 
-The droppings contain pheromones that other roaches use as trails to go to your home - use[roach baits](https: //pestpolicy. com/best-roach-bait/)to control these house bugs. Read Also: How to Get Rid of Cockroaches
+The droppings contain pheromones that other roaches use as trails to go to your home - use[roach baits](https://pestpolicy.com/best-roach-bait/)to control these house bugs. Read Also: How to Get Rid of Cockroaches
 
 ##  **Do Roach Droppings Indicate an Infestation?**
 
@@ -88,3 +86,4 @@ Closets make convenient places for roaches to hide and breed. In such a case the
 ##  **Conclusion**
 
 Evidence of roach droppings in your house should give you worries no matter how few they are. They contain pheromones that attract other roaches to your house. Thus, a few roaches can end up becoming an infestation. Therefore, when getting rid of roaches, its advisable also to clean their droppings to erase the pheromones (communicating aids) - you can use pet safe roach killers.
+

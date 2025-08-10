@@ -1,4 +1,4 @@
----
+﻿---
 title: How to Remove Latex Paint from Concrete
 description: Unlike oil-based solutions , removing latex paint a water-soluble paint from concrete is much more comfortable. However, if you apply the wrong paint removal...
 slug: /how-to-remove-latex-paint-from-concrete/
@@ -14,13 +14,13 @@ tags:
 layout: post
 ---
 
-Unlike oil-based solutions, removing latex [paint](https: //pestpolicy. com/what-is-latex-paint-used-for/) (a water-soluble paint) from concrete is much more comfortable. However, if you apply the wrong paint removal method, then you may experience incomplete paint cleaning at the end of it all.
+Unlike oil-based solutions, removing latex [paint](https://pestpolicy.com/what-is-latex-paint-used-for/) (a water-soluble paint) from concrete is much more comfortable. However, if you apply the wrong paint removal method, then you may experience incomplete paint cleaning at the end of it all.
 
-In this article, I've outlined how to remove [latex paint](https: //pestpolicy. com/what-is-latex-paint-used-for/) from concrete using soapy detergent, power washer, paint-stripping chemical, scraper, Trisodium Phosphate, or sandblaster/paint grinder.
+In this article, I've outlined how to remove [latex paint](https://pestpolicy.com/what-is-latex-paint-used-for/) from concrete using soapy detergent, power washer, paint-stripping chemical, scraper, Trisodium Phosphate, or sandblaster/paint grinder.
 
-Alternatively, you use commercial latex paint removers like [Motsenbocker's Lift Latex Paint Remover](https: //www. amazon. com/dp/B000VB4KWM/? tag=p-policy-20), [Sunnyside Corporation](https: //www. amazon. com/dp/B07SWTRPP2/? tag=p-policy-20), [Dumond Chemicals](https: //www. amazon. com/Dumond-Chemicals-3301-Advanced-Remover/dp/B001F0KO2S/ref=sr_1_9?
+Alternatively, you use commercial latex paint removers like [Motsenbocker's Lift Latex Paint Remover](https://www.amazon. com/dp/B000VB4KWM/? tag=p-policy-20), [Sunnyside Corporation](https://www.amazon. com/dp/B07SWTRPP2/? tag=p-policy-20), [Dumond Chemicals](https://www.amazon. com/Dumond-Chemicals-3301-Advanced-Remover/dp/B001F0KO2S/ref=sr_1_9?
 
-dchild=1&keywords=latex+paint+remover+from+concrete&qid=1602088975&sr=8-9), and [CS UNITEC Electric Paint Stripper](https: //www. amazon. com/dp/B08G9T883X/? tag=p-policy-20).
+dchild=1&keywords=latex+paint+remover+from+concrete&qid=1602088975&sr=8-9), and [CS UNITEC Electric Paint Stripper](https://www.amazon. com/dp/B08G9T883X/? tag=p-policy-20).
 
 Proper protection and safety adherence should be put in place during the latex removal process.
 
@@ -28,7 +28,7 @@ Proper protection and safety adherence should be put in place during the latex r
 
 ###  1. Using a Sandblaster or Paint grinder
 
-A paint grinder machine or sandblaster cleans latex paint by polishing the paint layer without affecting the concrete structure. The user must be keen when carrying out latex paint removal to prevent accidents and excessive surface erosion - [removing latex paint from metal](https: //pestpolicy. com/how-to-remove-latex-paint-from-metal/).
+A paint grinder machine or sandblaster cleans latex paint by polishing the paint layer without affecting the concrete structure. The user must be keen when carrying out latex paint removal to prevent accidents and excessive surface erosion - [removing latex paint from metal](https://pestpolicy.com/how-to-remove-latex-paint-from-metal/).
 
 **Required items** - Sandblast medium (high-grade sandpaper) and protective items such as gloves, dust coat, and face mask - Paint grinder or sandblaster rated at least 50 psi - Pressure washer (for indoor) or dry-wet vacuum (for both indoors or outdoors) **Steps to follow** - Put on protective gear eye goggles, gloves, and overall.
 
@@ -127,3 +127,4 @@ NB: Unitec can also be used on metal, boat, decks, Wood (even staining swing set
 ##  Conclusion
 
 The latex paint removal process can be tedious if you select the wrong method or fail to follow the right procedure. In this regard, use sandblaster/paint grinders, soapy detergent, scrapper, power washer, paint-stripping chemical, or Trisodium Phosphate for your latex paint removal activity. Notably, follow the precautions and safety rules highlighted in this article to prevent accidents or health problems during the latex paint removal process.
+

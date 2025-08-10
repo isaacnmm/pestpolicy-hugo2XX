@@ -1,4 +1,4 @@
----
+﻿---
 title: How to Get Rid Of Bed Bug Bite Scars
 description: Treating bed bug bites can become a problem if you dont act on them promptly. Though hardly noticeable at first, these bites end up becoming irritable and...
 slug: /how-to-get-rid-of-bed-bug-bite-scars/
@@ -19,7 +19,7 @@ Treating bed bug bites can become a problem if you dont act on them promptly.
 
 Though hardly noticeable at first, these bites end up becoming irritable and embarrassing scars. So, how can you treat bed bug bite scars?
 
-**In summary, to get [rid](https: //pestpolicy. com/how-to-get-rid-of-bed-bugs-fast/) of [bed](https: //pestpolicy. com/are-bed-bug-eggs-hard-or-soft/) bug bite scars, use (1) over-the-counter medications like corticosteroid creams and lotions, retinoid creams, Mederma advanced scar gel, vitamin E oil or (2) home remedies like baking soda, aloe Vera gel, and lemon juice. **
+**In summary, to get [rid](https://pestpolicy.com/how-to-get-rid-of-bed-bugs-fast/) of [bed](https://pestpolicy.com/are-bed-bug-eggs-hard-or-soft/) bug bite scars, use (1) over-the-counter medications like corticosteroid creams and lotions, retinoid creams, Mederma advanced scar gel, vitamin E oil or (2) home remedies like baking soda, aloe Vera gel, and lemon juice. **
 
 ##  Use Over-The-Counter Medications
 
@@ -105,8 +105,9 @@ As an anti-inflammatory and antibacterial agent, lemon juice is a perfect remedy
 
 The anti-inflammatory properties inherent in Apple cider vinegar makes it an effective agent for relieving itching that comes with bed bug bites. Alternatively, you can use the regular white vinegar if you cant easily find apple cider vinegar.
 
-*Directions for use: * - Clean the affected area thoroughly - Apply the raw vinegar solution using a cotton ball or soft cloth - Allow sometime to dry before washing it off - If the inflammation does not go away, you can repeat the process after some hours until the symptoms disappear Related: [Can Rubbing Alcohol Kill Bed Bugs? ](https: //pestpolicy. com/does-rubbing-alcohol-kill-bed-bugs/)
+*Directions for use: * - Clean the affected area thoroughly - Apply the raw vinegar solution using a cotton ball or soft cloth - Allow sometime to dry before washing it off - If the inflammation does not go away, you can repeat the process after some hours until the symptoms disappear Related: [Can Rubbing Alcohol Kill Bed Bugs? ](https://pestpolicy.com/does-rubbing-alcohol-kill-bed-bugs/)
 
 ##  Conclusion
 
 Dealing with bed bug bite scars can be quite disturbing, especially when they appear on visible areas such as hands, neck, legs and face. Moreover, the scars are made worse and more evident when you constantly scratch on them. With the above remedies, you can easily get rid of bed bug bite scars without using antibiotics.
+

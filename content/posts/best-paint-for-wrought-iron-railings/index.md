@@ -1,4 +1,4 @@
----
+﻿---
 title: Best Paint for Wrought Iron Railings
 description: As an enthusiast of wrought iron railings, the greatest concern is how to keep them beautiful for long.The best paints for wrought iron railings will keep the...
 slug: /best-paint-for-wrought-iron-railings/
@@ -84,7 +84,7 @@ Using a sprayer is great and enables you to achieve your spray very fast. After 
 
 Cons: - Prone to scratch and abrasion
 
-> See Also: > [Spray Paint for Metal](https: //pestpolicy. com/best-spray-paint-for-metal/)
+> See Also: > [Spray Paint for Metal](https://pestpolicy.com/best-spray-paint-for-metal/)
 
 ###  [6. POR-15 45718 Top Coat Spray Paint](https://www.amazon.com/dp/B00XKTV8S6/?tag=p-policy-20)
 
@@ -98,7 +98,7 @@ You do not need to do priming and it takes approximately one hour for this paint
 
 Cons: - Needs to shake properly before use
 
-> See Also: > [Paint for Metal Garage Door](https: //pestpolicy. com/best-paint-for-metal-garage-door/)
+> See Also: > [Paint for Metal Garage Door](https://pestpolicy.com/best-paint-for-metal-garage-door/)
 
 ###  [7. Stainless Steel Rust Protective Spray Paint](https://www.amazon.com/dp/B000ELVTJG/?tag=p-policy-20)
 
@@ -110,8 +110,9 @@ The paint has a fast-drying effect and creates a coat that is scratch-resistant 
 
 Cons: - Surfaces may lose the original color
 
-> See Also: > [Primer for Rusted Metal](https: //pestpolicy. com/best-primer-for-rusted-metal/)
+> See Also: > [Primer for Rusted Metal](https://pestpolicy.com/best-primer-for-rusted-metal/)
 
 ##  Conclusion
 
 The best paint for wrought iron railing goes to Rust-Oleum 249061 2X Ultra Cover Painter's Touch, as the best paint to use. Your metal retains its color and gets a durable coat that increases its shelf life.
+

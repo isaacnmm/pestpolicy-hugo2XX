@@ -1,4 +1,4 @@
----
+﻿---
 title: Sanding Walls Before Painting
 description: You can use either a sanding block or some sandpaper will help smoothen those uneven surfaces particularly those with high-gloss and gloss paint, followed by...
 slug: /sanding-walls-before-painting/
@@ -13,7 +13,7 @@ tags:
 layout: post
 ---
 
-You can use either a sanding block or some [sandpaper](https: //pestpolicy. com/what-grit-sandpaper-for-primer-before-paint/) will help smoothen those uneven surfaces (particularly those with high-gloss and gloss paint), followed by simple wiping and drying.
+You can use either a sanding block or some [sandpaper](https://pestpolicy.com/what-grit-sandpaper-for-primer-before-paint/) will help smoothen those uneven surfaces (particularly those with high-gloss and gloss paint), followed by simple wiping and drying.
 
 So, below I'll discuss the sanding techniques and tips (step by step) that you can follow to effectively smooth those drywall surfaces. You can also use *sand* paper (fine-grit) on the baseboard and ceiling.
 
@@ -23,13 +23,13 @@ So, below I'll discuss the sanding techniques and tips (step by step) that you c
 
 ##  Step 1: Work with the Sanding tool
 
-Just like with other [remodeling projects](https: //pestpolicy. com/how-much-does-it-cost-to-paint-kitchen-cabinets/), come with the correct tools to achieve that quality job. So, as noted above, in sanding your drywall - get a sanding paper (150-grit) and hand sander. Besides, get your dust mask (the double-strap type) to protect yourself from dust plus use painting glasses to safeguard your eyes. Use a scarf or hat to keep dust off the hair.
+Just like with other [remodeling projects](https://pestpolicy.com/how-much-does-it-cost-to-paint-kitchen-cabinets/), come with the correct tools to achieve that quality job. So, as noted above, in sanding your drywall - get a sanding paper (150-grit) and hand sander. Besides, get your dust mask (the double-strap type) to protect yourself from dust plus use painting glasses to safeguard your eyes. Use a scarf or hat to keep dust off the hair.
 
 For the sanding project, the pole sanders will be very effective. Some of them will be challenging to learn but for sanding 2+ rooms, the pole sander will reduce the effort required. But the pole sander (the drywall type) may flip over and thus gouge your surfaces increasing the needed repair work - and thus you must be very careful.
 
 - NB: It'll be helpful to keep your sander head in a small angled position - but don't allow it to achieve the right angle.
 
-- It'll be very effective fordrywall primerprior to painting with reduced pressure and control. To use the drywall sander, use very light pressure on the [wall](https: //pestpolicy. com/3d-wall-painting-for-your-bedroom/)'s seam edges (to remove bumps and ridges ) plus around the screws to prevent fuzzing on your drywall paper.
+- It'll be very effective fordrywall primerprior to painting with reduced pressure and control. To use the drywall sander, use very light pressure on the [wall](https://pestpolicy.com/3d-wall-painting-for-your-bedroom/)'s seam edges (to remove bumps and ridges ) plus around the screws to prevent fuzzing on your drywall paper.
 
 Further, you must control any dust to prevent it from drifting all over the space and create some white film on different surfaces - this could eventually be challenging to remove. Maybe you've been advised to use a damp sponge for smoothing various joints and not sandpaper - to reduce dust - but this might not give you a quality finish. Also, use protective gear against dust as opposed to using costly dust-catching devices.
 
@@ -74,3 +74,4 @@ The last step will involve some light-sanding of your surfaces using some light 
 ##  Conclusion
 
 Therefore, you'll learn to prevent regular sanding mistakes while also getting the right outcomes on the drywall sanding project. This will clearly be a dusty and tedious job.
+

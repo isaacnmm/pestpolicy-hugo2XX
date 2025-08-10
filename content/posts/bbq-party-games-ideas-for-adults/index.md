@@ -1,4 +1,4 @@
----
+﻿---
 title: Bbq Party Games Ideas for Adults
 description: Are you looking for the best BBQ Party Games Ideas for Adults that you can play right away? Search no more! I have compiled 10 Outdoor party games that are...
 slug: /bbq-party-games-ideas-for-adults/
@@ -47,7 +47,7 @@ The Four Legged Team Races is an excellent BBQ Party Games Ideas for Adults and 
 
 The game is simple to play. You can group up in teams of four. Put on the Velcro band tape on both the right and left feet of all team members. The members will have to work together to avoid falling and they need to race towards the finish line and see which team wins.
 
-The Four Legged Team Races is a fun game that children, teenagers, and [adults can play](https: //pestpolicy. com/best-pc-games-for-couples/). The game encourages teamwork and cooperation. These races are excellent outdoorparty games ideas for adults that you can incorporate in your BBQ party.
+The Four Legged Team Races is a fun game that children, teenagers, and [adults can play](https://pestpolicy.com/best-pc-games-for-couples/). The game encourages teamwork and cooperation. These races are excellent outdoorparty games ideas for adults that you can incorporate in your BBQ party.
 
 ###  [4. Cornhole](https://www.amazon.com/dp/B00HFAH9WU/?tag=p-policy-20)
 
@@ -71,7 +71,7 @@ The Ladder toss set features 6 ladder bolas, rules of the game, 2 targets, and s
 
 The ladder toss is one of the easiest outdoor game to set up. The assembly takes about 2 minutes to complete.
 
-While [playing the game](https: //pestpolicy. com/bird-friendly-backyard-ideas/) you need to aim for the top section and gather many points to emerge the winner. The top tier gives a total of three points, the second 2 points, and the bottom one point.
+While [playing the game](https://pestpolicy.com/bird-friendly-backyard-ideas/) you need to aim for the top section and gather many points to emerge the winner. The top tier gives a total of three points, the second 2 points, and the bottom one point.
 
 ###  6. Washer Toss
 
@@ -131,4 +131,5 @@ The remaining players can go under the rod or the limbo stick and see who can at
 
 Outdoor games for adults provide a perfect opportunity for grownups to have fun and interact at a personal level.
 
-Hence, I hope that this list about BBQ party games ideas for adults has been helpful in choosing a game you can engage in during the BBQ party. You can also purchase [comfortable backyard chairs](https: //pestpolicy. com/best-soccer-mom-chair/) for additional fun and comfort.
+Hence, I hope that this list about BBQ party games ideas for adults has been helpful in choosing a game you can engage in during the BBQ party. You can also purchase [comfortable backyard chairs](https://pestpolicy.com/best-soccer-mom-chair/) for additional fun and comfort.
+

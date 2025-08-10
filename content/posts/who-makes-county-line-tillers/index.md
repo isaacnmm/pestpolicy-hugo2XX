@@ -1,4 +1,4 @@
----
+﻿---
 title: Who Makes County Line Tillers
 description: Many of the tractor Implements we use to break or till our land or lawns are manufactured in the US. Finish mowers and tillers are mainly manufactured in...
 slug: /who-makes-county-line-tillers/
@@ -14,7 +14,7 @@ tags:
 layout: post
 ---
 
-Many of the tractor Implements we use to break or till our land or lawns are manufactured in the US. Finish mowers and [tillers](https: //pestpolicy. com/best-electric-tiller-for-clay-soil/) are mainly manufactured in Italy. - Well, some wheels, ripper teeth, cutting edges, blades, gears, gearboxes, steel are made in China. But, *who makes county line tillers?
+Many of the tractor Implements we use to break or till our land or lawns are manufactured in the US. Finish mowers and [tillers](https://pestpolicy.com/best-electric-tiller-for-clay-soil/) are mainly manufactured in Italy. - Well, some wheels, ripper teeth, cutting edges, blades, gears, gearboxes, steel are made in China. But, *who makes county line tillers?
 
 * **Simple answer - county line tillers are manufactured by King Kutter - great for the yard, garden, or raised beds.
 
@@ -22,7 +22,7 @@ Its a private label for TSC. In fact, you'll notice the King Kutter phone number
 
 ##  Details: Who Makes County Line Tillers?
 
-Well, CountyLine Rotary Tiller is an excellent [garden cultivator](https: //pestpolicy. com/best-garden-tiller-for-a-woman/) made by King Kutter. - They'll stir up, aerate, and cultivate the soil in your food plots, gardens, or yards. CountyLine Rotary Tiller has a heavy-duty PTO, heat-treated self-sharpening tines, oil bath lubrication has 25 to 50 HP tractors, slip clutch, and adjustable runners.
+Well, CountyLine Rotary Tiller is an excellent [garden cultivator](https://pestpolicy.com/best-garden-tiller-for-a-woman/) made by King Kutter. - They'll stir up, aerate, and cultivate the soil in your food plots, gardens, or yards. CountyLine Rotary Tiller has a heavy-duty PTO, heat-treated self-sharpening tines, oil bath lubrication has 25 to 50 HP tractors, slip clutch, and adjustable runners.
 
 ##  County Line Tiller Vs King Kutter
 
@@ -30,7 +30,7 @@ TSC County Line Tiller are impressive cultivators for gardens and yards. TSC Cou
 
 County Line Tillers will leave fine soil after you take your tilling pass.
 
-This will be a great soil texture for you to plant all your seeds and seedlings. Check the [front tine vs. rear tine tillers](https: //pestpolicy. com/front-tine-vs-rear-tine-tillers/).
+This will be a great soil texture for you to plant all your seeds and seedlings. Check the [front tine vs. rear tine tillers](https://pestpolicy.com/front-tine-vs-rear-tine-tillers/).
 
 ##  County Line Rotary Tiller Replacement Parts
 
@@ -49,3 +49,4 @@ Further, to rectify the situation, we may need to tighten the 6 or so bolts that
 ##  Conclusion
 
 Check if the clutch packs tend to rotate without turning the shaft half you should know that the clutch pack has a problem. However, ensure that the tractor is switched off while youre working on the PTO equipment.
+

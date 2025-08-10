@@ -1,4 +1,4 @@
----
+﻿---
 title: Growing Edible Chrysanthemums
 description: When you hear "chrysanthemum," your mind likely conjures images of vibrant, multi-petaled blooms adorning fall gardens or gracing floral arrangements.
 slug: /growing-edible-chrysanthemums/
@@ -40,7 +40,7 @@ Use organic slug baits, handpick, or create barriers. * **Nairobi Context:** Mon
 Growing edible chrysanthemums is a rewarding experience that enriches both your garden's biodiversity and your kitchen's flavor palette. Their ease of cultivation, rapid growth, and continuous harvest make them an excellent choice for both novice and experienced gardeners looking to expand their culinary horizons.
 Whether you're adding their pungent leaves to a savory stir-fry or garnishing a salad with their cheerful petals, *Glebionis coronaria* offers a unique combination of ornamental beauty and gastronomic delight. Embrace this versatile plant, and discover a new favorite for your home garden.
 
-When you hear "[chrysanthemum](https: //pestpolicy. com/growing-chrysanthemums-in-your-garden/), " your mind likely conjures images of vibrant, multi-petaled blooms adorning fall gardens or gracing floral arrangements.
+When you hear "[chrysanthemum](https://pestpolicy.com/growing-chrysanthemums-in-your-garden/), " your mind likely conjures images of vibrant, multi-petaled blooms adorning fall gardens or gracing floral arrangements.
 
 While ornamental chrysanthemums are indeed a spectacle, there's a distinct group known as **edible chrysanthemums** (*Glebionis coronaria*, formerly *Chrysanthemum coronarium*), also commonly called Crown Daisy, Chop Suey Greens, or Shungiku.
 
@@ -89,3 +89,4 @@ The unique flavor of edible chrysanthemums makes them a star ingredient in many 
 * **Fresh Salads: ** Young, tender leaves add a peppery, refreshing bite to mixed green salads. * **Stir-Fries: ** A classic use. Add the greens in the last few minutes of cooking to retain their texture and flavor. They pair well with garlic, ginger, and soy sauce. * **Soups and Hot Pots: ** Widely used in Japanese *sukiyaki* and Chinese hot pots. Add them just before serving to gently wilt.
 
 * **Blanched or Steamed: ** Briefly blanch or steam the greens and toss with a sesame oil and soy sauce dressing. * **Tempura: ** Fry whole leaves or flowers in a light tempura batter for a unique appetizer. * **Teas: ** The dried flowers can be used to make a soothing, slightly bitter tea (often used in traditional Chinese medicine). * **Pickling: ** Some prefer to lightly pickle the leaves for a tangy side dish.
+

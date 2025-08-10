@@ -1,4 +1,4 @@
----
+﻿---
 title: Getting Rid Of Fleas in the Carpet
 description: It's hard to spot fleas in the carpet fibers, and many treatments can't reach deep down where they hide. So, if you're looking for effective ways of getting...
 slug: /getting-rid-of-fleas-in-the-carpet/
@@ -15,11 +15,11 @@ tags:
 layout: post
 ---
 
-It's hard to spot [fleas](https: //pestpolicy. com/how-to-get-rid-of-flea-eggs-on-cats/) in the carpet fibers, and many treatments [can't reach deep down](https: //entomology. ca. uky. edu/ef602) where they hide.
+It's hard to spot [fleas](https://pestpolicy.com/how-to-get-rid-of-flea-eggs-on-cats/) in the carpet fibers, and many treatments [can't reach deep down](https://entomology.ca. uky. edu/ef602) where they hide.
 
 So, if you're looking for effective ways of getting rid of fleas in the carpet - we've got lots of ideas! Maybe it's through vacuuming or steam cleaning?
 
-In this PestPolicy guide, this is what I'll be exploring: - How do fleas end up in your carpet? - How long do fleas live in carpets? - What Should I Do with [Flea](https: //pestpolicy. com/how-to-get-rid-of-fleas/)-Infested Furniture and Carpet? - 3 steps to getting rid of fleas in the carpet - fastest way - What Can I Use for Fleas on my Furniture?
+In this PestPolicy guide, this is what I'll be exploring: - How do fleas end up in your carpet? - How long do fleas live in carpets? - What Should I Do with [Flea](https://pestpolicy.com/how-to-get-rid-of-fleas/)-Infested Furniture and Carpet? - 3 steps to getting rid of fleas in the carpet - fastest way - What Can I Use for Fleas on my Furniture?
 
 ##  How do fleas end up in your carpet?
 
@@ -97,7 +97,7 @@ When used alone, baking soda may not be as effective as it should be. So in orde
 
 To test the potency and freshness of your baking soda, mix 1 tsp. with vinegar and see if it bubbles. - Dab the baking soda and salt solution into the carpet using little strokes. - Make sure to cover the entire surface of the carpet evenly with some mixture remaining on a small area that can be rubbed into the fibers. - You can use a brush to thoroughly cover the entire surface of your carpet with baking soda.
 
-- Treat the flea-infested area and let it settle for at least 12 hours before you vacuum. Related: [Carpet Powder forFleas](https: //pestpolicy. com/best-flea-carpet-powder/)
+- Treat the flea-infested area and let it settle for at least 12 hours before you vacuum. Related: [Carpet Powder forFleas](https://pestpolicy.com/best-flea-carpet-powder/)
 
 ##  What Can I Use for Fleas on my Furniture?
 
@@ -118,3 +118,4 @@ Related: Check these Flea-treatment Guides
 Sometimes, the only way to get rid of fleas is by using a tool that can reach the deepest parts of your carpet. - Other times, all you need are some simple tips and tricks like vacuuming regularly or spraying insecticide onto fabrics where they might be hiding. - IGR Insecticides will kill adult fleas on contact but will also prevent eggs from hatching. I hope this post was helpful.
 
 Cheers!
+

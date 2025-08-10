@@ -1,4 +1,4 @@
----
+﻿---
 title: How Did My Dog Get Fleas
 description: Recently, I noticed my neighbor's dog scratching and upon further inspection, I have served simply that on them. - So my neighbor's biggest question was how...
 slug: /how-did-my-dog-get-fleas/
@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 
-Recently, I noticed my neighbor's dog scratching and upon further inspection, I have served simply that on them. - So my neighbor's biggest question was how did my dog get [fleas](https: //pestpolicy. com/best-dog-backpack-carrier-for-hiking/) this is a question. Has it become a flea magnet? This is a question I'll be answering in this article.
+Recently, I noticed my neighbor's dog scratching and upon further inspection, I have served simply that on them. - So my neighbor's biggest question was how did my dog get [fleas](https://pestpolicy.com/best-dog-backpack-carrier-for-hiking/) this is a question. Has it become a flea magnet? This is a question I'll be answering in this article.
 
 **But in brief, dogs can get fleas from other animals such as foxes, raccoons, and rodents, or from the house (from flea-infested blankets, rugs, and bedding), or even in outdoor spaces such as the neighbor's yard, or flea-infested kennels. **
 
@@ -97,10 +97,11 @@ Next, I recommend that you vacuum the house using a vacuum cleaner and make sure
 
 Prior to beginning the vacuuming process, sprinkle some borax on the carpets that could be flea-infested - and leave it overnight. - Vacuum the various services on the next day and use hot water to wash the best bed but you can also or to dry the fabrics. But if the fleas continue attacking and appearing in your spaces, consider contracting a professional exterminator since they will use powerful but safe chemicals.
 
-- If you'll be doing the flea extermination as a DIY Project remember some of the chemicals that you might use may be hazardous to your kids, fish, and birds. Related: [Diatomaceous Earth](https: //pestpolicy. com/diatomaceous-earth/)
+- If you'll be doing the flea extermination as a DIY Project remember some of the chemicals that you might use may be hazardous to your kids, fish, and birds. Related: [Diatomaceous Earth](https://pestpolicy.com/diatomaceous-earth/)
 
 ##  Conclusion
 
 So in summary please can jump onto your dog through various ways including coming from the yard, wild animals, carpets and rugs, or even other pets such as cats. - Monthly treatment of dogs for fleas is highly recommended and you may use devices such as flea collars when the pet is outdoors. In addition, you can use free shampoos to bathe your dogs.
 
 - You can still bathe the dogs with castile soap (unscented) but you should add some essential oils (just a few drops) such as citronella, tea tree, lavender, or eucalyptus Cheers!
+

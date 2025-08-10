@@ -1,4 +1,4 @@
----
+﻿---
 title: How to Paint a Fiberglass Boat
 description: But how do you paint a fiberglass boathttpsen.wikipedia.orgwikiFiberglass ? Which is the correct approach in the case of paint restoration?
 slug: /how-to-paint-a-fiberglass-boat/
@@ -14,7 +14,7 @@ tags:
 layout: post
 ---
 
-But how do you paint a [fiberglass [boat](https: //pestpolicy. com/best-fiberglass-boat-cleaner/)](https: //en. wikipedia. org/wiki/Fiberglass)? Which is the correct approach in the case of paint restoration? These are some of the questions most boat owners ask themselves.
+But how do you paint a [fiberglass [boat](https://pestpolicy.com/best-fiberglass-boat-cleaner/)](https://en.wikipedia. org/wiki/Fiberglass)? Which is the correct approach in the case of paint restoration? These are some of the questions most boat owners ask themselves.
 
 *So, in this article, we shall be discussing how to paint a fiberglass boat. To achieve an excellent finish, you will need to follow the right steps/procedure, carry out proper paint selection, paint preparation, paint application with an airless paint sprayer, sanding process, and smart final finish. * *Its important to know that selecting the wrong paint damages fiberglass coating, which may lead to a marine accident when cruising.
 
@@ -86,7 +86,7 @@ Safety is paramount when painting a fiberglass boat. You will need to adhere to 
 
 Do not mix two paint trying to boost performance it may affect the fiberglass material or cause an explosive chemical reaction. 5. Always check the expiry date of paint before you start preparation. Do not apply expired paint at all. 6. Carry out a drop test before you commence applying paint to ascertain its stickiness on the surface. 7. Dont touch paint with bare hands. Rinse with cold water and soap in case you touch the paint.
 
-You can use turpentine or thinner to remove paint from your cloth or other fabrics. 8. Keep unused paint away from children and pets. See Also: [Using WD 40 Remove Paint? ](https: //pestpolicy. com/does-wd-40-remove-paint/)
+You can use turpentine or thinner to remove paint from your cloth or other fabrics. 8. Keep unused paint away from children and pets. See Also: [Using WD 40 Remove Paint? ](https://pestpolicy.com/does-wd-40-remove-paint/)
 
 ##  Common Problems Associated with Fiberglass Boat Painting
 
@@ -102,7 +102,7 @@ The thick paint fluid dries to form a solid drip line that peels off when it com
 
 Fiberglass boat faces fatigue that comes from water wave forces and vibrations. The force strains exterior fiberglass resins and even causes internal compression due to unbalanced reactive forces when cruising. Due to these forces, the paint coat weakens and peels off, leaving cracks or bear surfaces. Carry out paint restoration as soon as you note such occurrence. Fatigue in fiberglass is an unavoidable occurrence.
 
-Therefore, frequent maintenance of your boat should be undertaken to identify such strained areas. See Also: [Using Mineral Spirits Remove Paint? ](https: //pestpolicy. com/does-mineral-spirits-remove-paint/)
+Therefore, frequent maintenance of your boat should be undertaken to identify such strained areas. See Also: [Using Mineral Spirits Remove Paint? ](https://pestpolicy.com/does-mineral-spirits-remove-paint/)
 
 ###  3. Delamination
 
@@ -135,3 +135,4 @@ Spay your boat with antifoul solvent to improve service life and outlook 7. Neve
 When painting your fiberglass boat, proper procedure/steps should be followed, as highlighted in this article. You will need to select the right boat paint, use the appropriate application method, and sand intensively before painting the entire surface. Besides, you will need to carry out frequent boat maintenance to eliminate some failure problems and avoid overloading.
 
 Notably, the boat paint restoration process is the best practice to improve its service life.
+

@@ -1,4 +1,4 @@
----
+﻿---
 title: Gardening and Sustainability Lessons for Kids
 description: In a world increasingly disconnected from nature, teaching children about where their food comes from and the importance of environmental stewardship is more...
 slug: /gardening-and-sustainability-lessons-for-kids/
@@ -82,3 +82,4 @@ Setting up a home garden with your children is far more than just a hobby; it's 
 As they witness the miracle of a tiny seed transforming into a nourishing plant, children develop a deep respect for the environment and a clearer understanding of their place within it. These hands-on lessons in the garden foster not just green thumbs, but also eco-conscious minds, empowering the next generation to make sustainable choices and contribute to a healthier planet.
 
 So, grab your child-sized trowels, find a sunny spot, and embark on a rewarding journey of growth, learning, and delicious harvests.
+

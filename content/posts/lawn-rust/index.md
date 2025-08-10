@@ -1,4 +1,4 @@
----
+﻿---
 title: Lawn Rust
 description: A vibrant, uniformly green lawn is a hallmark of a well-maintained property. So, it can be disheartening to step onto your turf and find your shoes, clothes,...
 slug: /lawn-rust/
@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 
-A vibrant, uniformly green [lawn](https: //pestpolicy. com/10-essential-lawn-and-garden-tools-for-fall/) is a hallmark of a well-maintained property. So, it can be disheartening to step onto your turf and find your shoes, clothes, or even your pet's paws stained with an unusual orange or yellow-orange dust. This tell-tale sign is often the calling card of a common lawn affliction: [rust](https: //pestpolicy. com/can-you-paint-over-rust/) disease.
+A vibrant, uniformly green [lawn](https://pestpolicy.com/10-essential-lawn-and-garden-tools-for-fall/) is a hallmark of a well-maintained property. So, it can be disheartening to step onto your turf and find your shoes, clothes, or even your pet's paws stained with an unusual orange or yellow-orange dust. This tell-tale sign is often the calling card of a common lawn affliction: [rust](https://pestpolicy.com/can-you-paint-over-rust/) disease.
 
 While typically not fatal to the entire lawn, rust can weaken individual grass blades, making the turf appear thin, discolored, and generally unhealthy. In severe cases, it can significantly compromise the aesthetic appeal and vigor of your grass.
 
@@ -100,3 +100,4 @@ By focusing on adequate fertilization (particularly nitrogen), proper watering t
 While fungicides offer a short-term solution for severe cases, addressing the underlying conditions that allow rust to flourish is the true path to a consistently vibrant, orange-stain-free lawn.
 
 Embrace these preventative measures, and your lawn will remain a testament to thoughtful and effective care.
+

@@ -1,4 +1,4 @@
----
+﻿---
 title: Best Womens Running Shoes for Bad Knees
 description: Today I present some of the Best Womens Running Shoes for Bad Knees. Running is a high-impact activity that can have a devastating effect on even the...
 slug: /best-womens-running-shoes-for-bad-knees/
@@ -40,7 +40,7 @@ The heel cup is well structured to deliver a secure lockdown at the back of the 
 
 The upper of Brooks GTS 20 features an updated dual-layer FlexFit material thats engineered to provide a stretchy and flexible fit to avert overpronation. The upper is also highly breathable to allow entry of fresh air into the shoes.
 
-The 3D Fit Print design reinforces the structural integrity of the upper. The forefoot section is also spacious enough to accommodate [wide footed runners](https: //pestpolicy. com/best-[running-shoes](https: //pestpolicy. com/best-womens-running-shoes-for-shin-splints/)-for-men-with-wide-feet/). The padded tongue helps to distribute pressure evenly on top of the foot. Hence, helps to prevent discomfort or pain on top of the foot.
+The 3D Fit Print design reinforces the structural integrity of the upper. The forefoot section is also spacious enough to accommodate [wide footed runners](https://pestpolicy.com/best-[running-shoes](https://pestpolicy.com/best-womens-running-shoes-for-shin-splints/)-for-men-with-wide-feet/). The padded tongue helps to distribute pressure evenly on top of the foot. Hence, helps to prevent discomfort or pain on top of the foot.
 
 Pros: - Provides excellent stability - Comfortable - Provides snug fit - Excellent cushioning - Spacious toe box - Excellent arch support - Durable and lightweight
 
@@ -170,10 +170,11 @@ Therefore, choosing breathable running shoes will prevent excess heat, sweat, an
 
 ###  Stability
 
-Runners who overpronate may need to invest in [running shoes](https: //pestpolicy. com/best-shoes-for-running-on-pavement/) that deliver stability to the foot. Hence, prevent the inward rolling of feet that may cause flat feet. These shoes have higher arch support to provide maximum comfort.
+Runners who overpronate may need to invest in [running shoes](https://pestpolicy.com/best-shoes-for-running-on-pavement/) that deliver stability to the foot. Hence, prevent the inward rolling of feet that may cause flat feet. These shoes have higher arch support to provide maximum comfort.
 
 For runners who underpronate they will need shoes with smaller arch support and those that prevent foot rolling. Therefore, if you have any of these conditions, its important that you be keen when choosing your running shoes.
 
 ##  Conclusion
 
 I hope that this review on the best womens running shoes for bad knees has been helpful. Always remember to choose comfortable, cushioned, and stable shoes if you have knee issues. From our list, Brooks Womens Adrenaline GTS 20 takes the first position because of its amazing technologies and features that keep the foot in check to prevent or alleviate bad knees
+

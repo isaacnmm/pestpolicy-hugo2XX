@@ -1,4 +1,4 @@
----
+﻿---
 title: How Do Bed Bugs Spread
 description: So, how do bed bugs spread? Bed bugs the 14 inch long and wingless bugs are a problem at home and in other accommodations.
 slug: /how-do-bed-bugs-spread/
@@ -25,7 +25,7 @@ Bugs are active free-riders who often travel by hitchhiking people's suitcases, 
 
 Bed bugs crawl to hitchhike people's clothes, suitcases, hair, and furniture to their new destination.
 
-If you are a traveler who doesnt want to take the bugs to your home, you need to be proactive before, during, and after the trip. Bed bugs can also move through uncleaned drainages. Therefore take precautions, and check this article on [drain cleaners](https: //pestpolicy. com/best-drain-cleaner//).
+If you are a traveler who doesnt want to take the bugs to your home, you need to be proactive before, during, and after the trip. Bed bugs can also move through uncleaned drainages. Therefore take precautions, and check this article on [drain cleaners](https://pestpolicy.com/best-drain-cleaner//).
 
 ##  Why do they spread so fast?
 
@@ -33,13 +33,13 @@ Bed bugs are incredibly prolific insects. During its 6 to 12 month lifespan, a f
 
 Refurbished old mattresses often spread bugs to shops and homes, causing infection.
 
-Also, [bed bugs can spread](https: //pestpolicy. com/bed-bugs-vs-mites/) when old and new mattresses are shipped together.
+Also, [bed bugs can spread](https://pestpolicy.com/bed-bugs-vs-mites/) when old and new mattresses are shipped together.
 
 ##  Prevent bed bugs from spreading in your bed and house
 
-Prevention is better than cure. Taking precautions against bed bugs is much smaller than getting rid of them after pests. Follow these steps: 1. Seal and repair any cracks outside the home to prevent any insects from entering. While at this, ensure you use effective [sprays against bed bugs](https: //pestpolicy. com/best-bed-bug-spray/). 2.
+Prevention is better than cure. Taking precautions against bed bugs is much smaller than getting rid of them after pests. Follow these steps: 1. Seal and repair any cracks outside the home to prevent any insects from entering. While at this, ensure you use effective [sprays against bed bugs](https://pestpolicy.com/best-bed-bug-spray/). 2.
 
-Use a mattress cover - a [plastic or tightly woven mattress cover to prevent bed bugs](https: //pestpolicy. com/can-bed-bugs-climb-metal-or-plastic/) from crawling in and out 3. Do not buy or pick up any used furniture, if possibleTy Ammonia, or Rubbing alcohol. 4. Clean your house regularly - reduce any unnecessary mess and vacuum mattresses. And finally, undertake beds bug-killing in the place to use vacuuming, heat treatment (using steamers).
+Use a mattress cover - a [plastic or tightly woven mattress cover to prevent bed bugs](https://pestpolicy.com/can-bed-bugs-climb-metal-or-plastic/) from crawling in and out 3. Do not buy or pick up any used furniture, if possibleTy Ammonia, or Rubbing alcohol. 4. Clean your house regularly - reduce any unnecessary mess and vacuum mattresses. And finally, undertake beds bug-killing in the place to use vacuuming, heat treatment (using steamers).
 
 ##  How to prevent bedbugs from spreading as you travel
 
@@ -54,3 +54,4 @@ When you check out, inspect each item and the surface of the suitcase when packi
 ##  Conclusion
 
 If you take all precautions and find evidence of these pests, contact a licensed pest control company with pest control expertise. Being aware of these guidelines about bedbugs will help you prevent the discomfort caused by these insects.
+

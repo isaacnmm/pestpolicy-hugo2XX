@@ -1,4 +1,4 @@
----
+﻿---
 title: Pros and Cons Of Using Glue Traps for Mice
 description: Glue traps are a common and reliable way of getting rid of mice in houses and offices. - A glue trap is a plastic tray or a compact cardboard with a sticky...
 slug: /pros-and-cons-of-using-glue-traps-for-mice/
@@ -15,11 +15,11 @@ tags:
 layout: post
 ---
 
-Glue traps are a common and reliable way of [getting rid of mice](https: //entomology. ca. uky. edu/ef617) in houses and offices. - A glue trap is a plastic tray or a compact cardboard with a sticky surface that holds pests once they come into contact with the glue. **But what are the pros and cons of using glue traps for mice?
+Glue traps are a common and reliable way of [getting rid of mice](https://entomology.ca. uky. edu/ef617) in houses and offices. - A glue trap is a plastic tray or a compact cardboard with a sticky surface that holds pests once they come into contact with the glue. **But what are the pros and cons of using glue traps for mice?
 
 ** *Pros: easy to use, cheap to purchase, provide quick results, non- toxic, best for tight locations, and easy to dispose of the dead mouse.
 
-* *Cons: no effective results in extremes temperatures, some people consider it as a brutal act, pets and children can get stuck, requires frequent check-ups, and are easily damaged by dust and moisture. * Related: [Outdoor Rat Traps](https: //pestpolicy. com/best-outdoor-rat-traps/)
+* *Cons: no effective results in extremes temperatures, some people consider it as a brutal act, pets and children can get stuck, requires frequent check-ups, and are easily damaged by dust and moisture. * Related: [Outdoor Rat Traps](https://pestpolicy.com/best-outdoor-rat-traps/)
 
 ##  A) The Pros of Using Glue Traps for Mice
 
@@ -39,7 +39,7 @@ Once several traps are well placed; you can add some peanut on the trap. The pea
 
 ###  3. Non-toxic
 
-Compared to the [best mouse poisons](https: //pestpolicy. com/best-poison-for-mouse/), the glue on the trap surface is not poisonous to pets, human beings and pests trapped too. The aim of the glue traps is to; - To hold the mice once it passes on the surface. - Trapped animals does not die immediately, they suffer only from starvation and dehydration for the days stuck.
+Compared to the [best mouse poisons](https://pestpolicy.com/best-poison-for-mouse/), the glue on the trap surface is not poisonous to pets, human beings and pests trapped too. The aim of the glue traps is to; - To hold the mice once it passes on the surface. - Trapped animals does not die immediately, they suffer only from starvation and dehydration for the days stuck.
 
 ###  4. Best for tight locations
 
@@ -61,7 +61,7 @@ In direct sunlight and extremes temperatures, glue trap wont work well. It will 
 
 Once a mouse is trapped in a glue trap, the following events will take place; The mouse suffers from starvation and suffocation for the days its stuck. - Mostly it may try to flee itself hence getting more injuries to its body parts. Most people consider this to be very inhuman. - The mouse trapped does not die immediately; it suffers for a long period and struggles a lot. - The mouse may panic and die from heart attack.
 
-Related: [Best Mole Traps](https: //pestpolicy. com/best-mole-traps/)
+Related: [Best Mole Traps](https://pestpolicy.com/best-mole-traps/)
 
 ###  3. Pets and children can get stuck
 
@@ -85,4 +85,5 @@ Mice will transmit diseases, contaminate food, and damage clothes and other hous
 
 ##  Sources:
 
-- [House Mouse Management Guidelines--UC IPM](http: //ipm. ucanr. edu/PMG/PESTNOTES/pn7483. html) - [What is a sticky trap? - Insects in the City](https: //citybugs. tamu. edu/factsheets/ipm/what-is-a-sticky-trap/) - [Controlling House Mice - Nebraska Extension Wildlife](https: //wildlife. unl. edu/pdfs/controlling-house-mice. pdf)
+- [House Mouse Management Guidelines--UC IPM](http://ipm.ucanr. edu/PMG/PESTNOTES/pn7483. html) - [What is a sticky trap? - Insects in the City](https://citybugs.tamu. edu/factsheets/ipm/what-is-a-sticky-trap/) - [Controlling House Mice - Nebraska Extension Wildlife](https://wildlife.unl. edu/pdfs/controlling-house-mice. pdf)
+

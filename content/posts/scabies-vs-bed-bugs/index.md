@@ -1,4 +1,4 @@
----
+﻿---
 title: Scabies Vs Bed Bugs
 description: Bedbugs and scabies are parasites that'll bite and prey on humans. So, what are the differences between scabies vs. bed bugs - and how to kill them-fast ? In...
 slug: /scabies-vs-bed-bugs/
@@ -87,10 +87,11 @@ Their nature of burrowing underneath our skin also makes it impossible to see.
 
 ###  **1. Scabies**
 
-- Avoid direct skin-to-skin contact with an infected person. Also, refrain from sharing items like [beddings and clothing](https: //pestpolicy. com/can-bed-bugs-bite-through-clothing/) with infested people. - Ensure clothing and beddings that have come into contact with the infestation must be thoroughly machine washed to get rid of it.
+- Avoid direct skin-to-skin contact with an infected person. Also, refrain from sharing items like [beddings and clothing](https://pestpolicy.com/can-bed-bugs-bite-through-clothing/) with infested people. - Ensure clothing and beddings that have come into contact with the infestation must be thoroughly machine washed to get rid of it.
 
-- The room of a patient diagnosed with crusted scabies must be vigorously cleaned and [vacuumed or steamed](https: //pestpolicy. com/best-bed-bug-steamer/).
+- The room of a patient diagnosed with crusted scabies must be vigorously cleaned and [vacuumed or steamed](https://pestpolicy.com/best-bed-bug-steamer/).
 
 ###  **2. Bedbugs**
 
-- [Inspect](https: //www. epa. gov/bedbugs/do-it-yourself-bed-bug-control) all used couches, bedding, or furniture for signs of bed bugs before bringing them inside the house. - If needed, hire a pest extermination professional or use [sprays](https: //pestpolicy. com/best-bed-bug-spray/) carefully according to the label directions.
+- [Inspect](https://www.epa. gov/bedbugs/do-it-yourself-bed-bug-control) all used couches, bedding, or furniture for signs of bed bugs before bringing them inside the house. - If needed, hire a pest extermination professional or use [sprays](https://pestpolicy.com/best-bed-bug-spray/) carefully according to the label directions.
+

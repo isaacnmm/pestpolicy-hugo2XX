@@ -1,4 +1,4 @@
----
+﻿---
 title: Does Diatomaceous Earth Kill Bed Bugs
 description: Diatomaceous earth , commonly known as D. E, is a naturally occurring off-white soft, silicon-based sedimentary rock.It is composed of fossilized marine-based...
 slug: /does-diatomaceous-earth-kill-bed-bugs/
@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 
-[Diatomaceous earth](http: //npic. orst. edu/factsheets/degen. html), commonly known as D. E, is a naturally occurring off-white soft, silicon-based sedimentary rock. It is composed of fossilized marine-based algae called planktons. Under a microscope, it looks like shards of glass (silica is used to make glass). But does diatomaceous earth kill bed bugs (or even with vinegar)/)? *A simple answer is, YES, diatomaceous earth will kill bed bugs.
+[Diatomaceous earth](http://npic.orst. edu/factsheets/degen. html), commonly known as D. E, is a naturally occurring off-white soft, silicon-based sedimentary rock. It is composed of fossilized marine-based algae called planktons. Under a microscope, it looks like shards of glass (silica is used to make glass). But does diatomaceous earth kill bed bugs (or even with vinegar)/)? *A simple answer is, YES, diatomaceous earth will kill bed bugs.
 
 The D. E particles stick to the insect's exoskeleton it punctures the carapace, thus, leaving the insect susceptible to dehydration. * *Also, when the insect inhales the powder, it cuts through the respiratory system and causes drying of the mucous membrane of breathing passages in the bug, thus, killing them. Related: Pictures of Bed Bugs. *
 
@@ -93,7 +93,7 @@ Vacuuming will help lift the bed bugs, along with their eggs, of the floor. Chec
 
 ###  3. Sun Heat Treatment
 
-If you are unable to buy any of the expensive toys, dont worry. The good old sun is still a reliable bed bug killeras long as it shines in the right temperatures. You can use this on items that cant be washed, such as some types of carpets, bed covers inside duvets. Also, check [how the dryer kills bed bugs](https: //pestpolicy. com/does-dryer-kill-bed-bugs/).
+If you are unable to buy any of the expensive toys, dont worry. The good old sun is still a reliable bed bug killeras long as it shines in the right temperatures. You can use this on items that cant be washed, such as some types of carpets, bed covers inside duvets. Also, check [how the dryer kills bed bugs](https://pestpolicy.com/does-dryer-kill-bed-bugs/).
 
 Seal them in a black plastic bag (absorbs suns heat faster and retains it) and put them out in the sun, and let them sit for several hours in a day.
 
@@ -103,11 +103,11 @@ The bed bug is resistant to many known pesticides, and thus, your normal insecti
 
 You will most likely come across these gels severally when you buy electronics or clothing items as they are used to prevent the accumulation of moisture on electronic items during shipping and/or storage.
 
-These gels contain high concentrations of silicon dioxide, which is highly absorbent and, thus, will absorb the insect's cuticle waxes faster than D. E. Also, unlike D. E, these silica gels can work one time, needing a bug to crawl over the dusted surface just once for it to be effective, and because it is [highly absorbent, it will kill](https: //pestpolicy. com/does-salt-kill-bed-bugs/) the bug in a far shorter time than the D. E.
+These gels contain high concentrations of silicon dioxide, which is highly absorbent and, thus, will absorb the insect's cuticle waxes faster than D. E. Also, unlike D. E, these silica gels can work one time, needing a bug to crawl over the dusted surface just once for it to be effective, and because it is [highly absorbent, it will kill](https://pestpolicy.com/does-salt-kill-bed-bugs/) the bug in a far shorter time than the D. E.
 
 ###  5. Use 91% Rubbing Alcohol
 
-This one comes with a disclaimer. Alcohol works as a solvent, eating away the bug's outer shell, thus, exposing them to dehydration, like silica gels. But then, it goes further and dries the insides of the bug, finish off the buggers in a satisfying overkill. Use [91% Rubbing Alcohol to kill bed bugs](https: //pestpolicy. com/does-rubbing-alcohol-kill-bed-bugs/).
+This one comes with a disclaimer. Alcohol works as a solvent, eating away the bug's outer shell, thus, exposing them to dehydration, like silica gels. But then, it goes further and dries the insides of the bug, finish off the buggers in a satisfying overkill. Use [91% Rubbing Alcohol to kill bed bugs](https://pestpolicy.com/does-rubbing-alcohol-kill-bed-bugs/).
 
 The disclaimer is that alcohol only kills on contact and, therefore, may not be effective in the event of an infestation, where there could be countless eggs. It is also a fire hazard as Isopropyl alcohol is highly flammable. Its lingering vapor is also highly flammable.
 
@@ -116,3 +116,4 @@ The disclaimer is that alcohol only kills on contact and, therefore, may not be 
 So, as we have seen, Diatomaceous Earth can be an effective bug control in general, but you will need to back it up with several other treatments when it comes to bugs. D. E will also not work effectively if you have an infestation, as it doesn't harm the eggs nor nymphs, thus, limiting its potency.
 
 Similarly, proper application is also a requirement, which will need you to possibly disassemble the furniture and dust it in the far to reach corners of the homes or items and using specialized equipment. Even then, as the stated experiment has shown, it is only just effective. Therefore, D. E will not rid you of your bed bugs on its own. Back it up with other methods for excellent results. All the best, and no more bites!
+

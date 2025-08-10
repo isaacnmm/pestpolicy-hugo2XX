@@ -1,4 +1,4 @@
----
+﻿---
 title: How to Clean a Paint Sprayer
 description: Choosing a paint sprayer for your DIY projects or home improvement activities guarantees you a better paint finish as compared to a paint bush.
 slug: /how-to-clean-a-paint-sprayer/
@@ -14,7 +14,7 @@ tags:
 layout: post
 ---
 
-Choosing a paint [sprayer](https: //pestpolicy. com/best-paint-sprayer-for-ceiling/) for your DIY projects or home improvement activities guarantees you a better paint finish as compared to a paint bush. The [painting service](https: //pestpolicy. com/how-to-prep-a-room-for-paint/) doesnt come without the challenges of cleaning a paint sprayer.
+Choosing a paint [sprayer](https://pestpolicy.com/best-paint-sprayer-for-ceiling/) for your DIY projects or home improvement activities guarantees you a better paint finish as compared to a paint bush. The [painting service](https://pestpolicy.com/how-to-prep-a-room-for-paint/) doesnt come without the challenges of cleaning a paint sprayer.
 
 Worst of it all occurs when you choose to store a paint sprayer before cleaning is done. Indeed, that may be the end of quality performance for your spray painter. Could you be experiencing such problems? *Well, in this article, we shall be discussing how to clean a paint sprayer.
 
@@ -76,7 +76,7 @@ When the paint dries internally, the cleaning process may even be more cumbersom
 
 Clean paint sprayer delivers excellent paint coat finish. However, an uncleaned paint sprayer creates a low-quality paint finish, which may have surface drains or runs. The insufficient pressure within the system network creates a low impact force, which leads to lesser adhesive contact during paint application. Besides, the paint solvent is not well atomized and hence leads to incomplete contact strength.
 
-Air may be sucked through the system (instead of paint) due to suction filter failure leading to an insufficiently painted surface finish. > See Also: > [Paint Sprayer for Exterior Walls](https: //pestpolicy. com/best-paint-sprayer-for-exterior-walls/)
+Air may be sucked through the system (instead of paint) due to suction filter failure leading to an insufficiently painted surface finish. > See Also: > [Paint Sprayer for Exterior Walls](https://pestpolicy.com/best-paint-sprayer-for-exterior-walls/)
 
 ###  3. Channel Clogging
 
@@ -127,3 +127,4 @@ By choosing to read this article on how to clean a paint sprayer, I believe you 
 Moreover, you will have to detach the nozzle/tip and clean it thoroughly, clean various filters independently, rinse the hosepipe, and wipe the prayers surface to remove any paint traces before leaving it to dry. Importantly, you must consider the type of paint used by that particular sprayer (whether water-based or oil-based paint) for efficient thinning action.
 
 It's advisable to follow the manufacturers manual/instruction and precautions highlighted in this article when cleaning your paint sprayer. Dont forget to wear protective gear when cleaning for safety purposes.
+

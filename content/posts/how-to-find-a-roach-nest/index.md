@@ -1,4 +1,4 @@
----
+﻿---
 title: How to Find a Roach Nest
 description: If you are reading this, you must be worried as youve seen some roaches running around your house. It is common knowledge that roaches love dark, moist, and...
 slug: /how-to-find-a-roach-nest/
@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 
-If you are reading this, you must be worried as youve seen some roaches running around your house. It is common knowledge that roaches love dark, moist, and dirty places. Could you, unknowingly, have created a nest for the roaches in your house? That is a tough question. But now, you have to find the [roach](https: //pestpolicy. com/bengal-roach-spray-review/) nest and wipe out the whole population of the nasty bugs.
+If you are reading this, you must be worried as youve seen some roaches running around your house. It is common knowledge that roaches love dark, moist, and dirty places. Could you, unknowingly, have created a nest for the roaches in your house? That is a tough question. But now, you have to find the [roach](https://pestpolicy.com/bengal-roach-spray-review/) nest and wipe out the whole population of the nasty bugs.
 
 You are asking: but how do I find the roach nest?
 
@@ -25,7 +25,7 @@ You can find the roach nest without the help of an exterminator!
 
 ##  Finding Nest for the different types of roaches
 
-First, cockroaches, regardless of the particular species, measure about 0. 65 2. 9 inches in length with an oval-shaped body. Many of the cockroaches range from reddish-brown to black. However, most cockroaches are mainly whitish. You can try [different types of roach killers for your apartment](https: //pestpolicy. com/best-roach-killer-for-apartments/).
+First, cockroaches, regardless of the particular species, measure about 0. 65 2. 9 inches in length with an oval-shaped body. Many of the cockroaches range from reddish-brown to black. However, most cockroaches are mainly whitish. You can try [different types of roach killers for your apartment](https://pestpolicy.com/best-roach-killer-for-apartments/).
 
 ###  American roaches
 
@@ -71,4 +71,5 @@ Therefore, you will find them inside cracks in the kitchen and bathrooms.
 
 To wipe out the roaches from your house, you can use roach traps. Therefore, if you observe that the roach trap fills up quickly, you are near the roach nest. Check near the traps for cracks and crevices and fill them up. Also, avoid leaving any food open to ensure that the roaches starve to death. Further, clean all water that could be spilled on surfaces or in the sink.
 
-Finally, [remove the clutter since it can act as a nesting](https: //pestpolicy. com/hornet-nest-removal/) and hiding place for the roaches.
+Finally, [remove the clutter since it can act as a nesting](https://pestpolicy.com/hornet-nest-removal/) and hiding place for the roaches.
+

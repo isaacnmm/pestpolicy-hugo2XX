@@ -1,4 +1,4 @@
----
+﻿---
 title: Can Bed Bugs Live in Carpet
 description: Bed bugs hide in a cluster at different locations in your house, including a bed frame, bed buttons, clothes, bedding, cracks, or mattress seam.
 slug: /can-bed-bugs-live-in-carpet/
@@ -81,9 +81,9 @@ Alternatively, you can purchase smaller size special bed bug Zappers that can he
 
 ###  3. Hot water treatment
 
-Dip [bed bugs infested carpets in a boiling water](https: //pestpolicy. com/can-bed-bugs-survive-in-water/) reservoir and leave them for about 10-20 minutes (you will need continuous heating). A high temperature of boiling water will kill bed bugs and their eggs in the carpets. You can also use a clothes dryer to kill the bed bugs. You can pour boiling water on bed bug-infested carpets. However, this may not kill all bed bugs.
+Dip [bed bugs infested carpets in a boiling water](https://pestpolicy.com/can-bed-bugs-survive-in-water/) reservoir and leave them for about 10-20 minutes (you will need continuous heating). A high temperature of boiling water will kill bed bugs and their eggs in the carpets. You can also use a clothes dryer to kill the bed bugs. You can pour boiling water on bed bug-infested carpets. However, this may not kill all bed bugs.
 
-This method can also be used when [treating other bed bugs](https: //pestpolicy. com/can-bed-bugs-get-in-your-hair/) infested items such as a mattress, bedding, curtains, clothes, or baseboard. NB: *Check first the fabric/fiber used to make carpets before treatment. Plastic and wool synthetic carpets may shrink when dipped in boiling water. *
+This method can also be used when [treating other bed bugs](https://pestpolicy.com/can-bed-bugs-get-in-your-hair/) infested items such as a mattress, bedding, curtains, clothes, or baseboard. NB: *Check first the fabric/fiber used to make carpets before treatment. Plastic and wool synthetic carpets may shrink when dipped in boiling water. *
 
 ###  4. Using Diatomaceous Earth
 
@@ -99,8 +99,9 @@ Do not transfers carpets and other home equipment from one room to another. 6. E
 
 ##  Which Other Places Can Bed Bugs Live?
 
-Apart from carpets, bed bugs can hide and live in the following places in your house: - Bed frames and bed buttons, Mattress seams, and bedding. - Wall cracks/crevices and ceiling compartment, Furniture such as couches, chairs, and wall unit tables. - Floorboards, picture frames and wallpapers, Clothes (but[bed bugs can't bite through clothing](https: //pestpolicy. com/can-bed-bugs-bite-through-clothing/)), and closets.
+Apart from carpets, bed bugs can hide and live in the following places in your house: - Bed frames and bed buttons, Mattress seams, and bedding. - Wall cracks/crevices and ceiling compartment, Furniture such as couches, chairs, and wall unit tables. - Floorboards, picture frames and wallpapers, Clothes (but[bed bugs can't bite through clothing](https://pestpolicy.com/can-bed-bugs-bite-through-clothing/)), and closets.
 
 ##  Conclusion
 
 Bed bugs can live in carpets within your house, office, theatre, studio, or hotel. They crawl, burrow, and hide inside/under carpets where they lay eggs and breed. You can treat bed bugs by vacuuming, heat treatment, hot water treatment, or Diatomaceous earth application. Carry out bed bug prevention and inspection frequently to experience a bed bug-free home.
+

@@ -1,4 +1,4 @@
----
+﻿---
 title: Coronavirus 2019 Ncov Hcp Using Ppe
 description: The coronavirus 2019-nCoV has become a global health concern, and healthcare personnel HCP are at the forefront of combating the disease.
 slug: /coronavirus-2019-ncov-hcp-using-ppe/
@@ -49,3 +49,4 @@ Use soap and water or hand sanitizer with at least 60% alcohol.
 ###  Conclusion
 
 Proper use of PPE is a critical component in protecting healthcare workers from COVID-19. By wearing the appropriate protective equipment and following infection control procedures, healthcare personnel can reduce the risk of transmission and ensure their safety while providing care to patients. Always ensure that you are using PPE according to guidelines and changing it as necessary to maintain a safe working environment.
+

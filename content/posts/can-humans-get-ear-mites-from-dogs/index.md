@@ -1,4 +1,4 @@
----
+﻿---
 title: Can Humans Get Ear Mites from Dogs
 description: Can humans get ear mites from dogs? Ear mites will cause your dogs to scratch and shake their ears very frequently. They live in their ear canal & cause...
 slug: /can-humans-get-ear-mites-from-dogs/
@@ -15,11 +15,11 @@ tags:
 layout: post
 ---
 
-Can humans get [ear](https: //pestpolicy. com/do-spiders-have-ears/) mites from dogs? [Ear mites](https: //vcahospitals. com/know-your-pet/ear-mites-otodectes-in-cats-and-dogs) will cause your dogs to scratch and shake their ears very frequently. They live in their ear canal & cause itchiness, as evidenced by frequent scratching. *The simple answer is YES.
+Can humans get [ear](https://pestpolicy.com/do-spiders-have-ears/) mites from dogs? [Ear mites](https://vcahospitals.com/know-your-pet/ear-mites-otodectes-in-cats-and-dogs) will cause your dogs to scratch and shake their ears very frequently. They live in their ear canal & cause itchiness, as evidenced by frequent scratching. *The simple answer is YES.
 
 These parasites spread rapidly and can be transmitted to humans through physical contact with the affected animal.
 
-It's sporadic for humans to catch ear mites. If they get into your body, they won't survive for long since they are not adapted to live in a human host. * [Demodectic mites and sarcoptic mites](https: //www. petmd. com/blogs/fullyvetted/2012/feb/sarcoptic_vs_demodectic_mange-12823) are common mites that can be transmitted from dogs to humans. So, you might be worried about ear mites being transmitted from your dogs to your family.
+It's sporadic for humans to catch ear mites. If they get into your body, they won't survive for long since they are not adapted to live in a human host. * [Demodectic mites and sarcoptic mites](https://www.petmd. com/blogs/fullyvetted/2012/feb/sarcoptic_vs_demodectic_mange-12823) are common mites that can be transmitted from dogs to humans. So, you might be worried about ear mites being transmitted from your dogs to your family.
 
 Related: Medicine for Ear Mites in Cats.
 
@@ -57,9 +57,7 @@ Alternatively, a sample can be removed from the ear and observed under a microsc
 
 Ear mites are small and contagious creatures almost the size of a comma. They mostly inhabit the ear canal of dogs and cats, where they thrive on the secretions and dead skin therein. They breed and multiply quickly and can spread to the head and other parts of the body. They are just as contagious as fleas and may cause fungal and bacterial infections. Inflammation in the ear canal is also very likely to occur.
 
-In severe infestations, the eardrum can get ruptured, and this may lead to permanent hearing loss. Puppies and kittens are more vulnerable to ear mites because of their low body immunity. They catch the mites from their mothers or other dogs they interact with. If your dog goes outdoors, it's very likely to catch ear mites and infect other pets in the compound. Related: [Subterranean Termites Treatment](https: //pestpolicy.
-
-com/subterranean-termites-treatment/)
+In severe infestations, the eardrum can get ruptured, and this may lead to permanent hearing loss. Puppies and kittens are more vulnerable to ear mites because of their low body immunity. They catch the mites from their mothers or other dogs they interact with. If your dog goes outdoors, it's very likely to catch ear mites and infect other pets in the compound. Related: [Subterranean Termites Treatment](https://pestpolicy.com/subterranean-termites-treatment/)
 
 ##  **How to Treat Your Dog for Ear Mites**
 
@@ -87,10 +85,11 @@ A veterinarian can help you check the interior of the ears.
 
 Cleaning also helps in depriving ear mites of their favorite food. - You don't want to keep your dog in restriction for fear of ear mites. So, you can apply some topical repellents behind their shoulders to keep ear mites at bay. These repellentswork effectively against otherparasites like ticks and fleas. You're, however, required to use them regularly to keep these parasites away from your pets.
 
-For your pets' safety, ensure you get a prescription from a qualified veterinarian before using these products. Related: [Fumigation Get Rid Of Termites](https: //pestpolicy. com/termite-fumigation/)
+For your pets' safety, ensure you get a prescription from a qualified veterinarian before using these products. Related: [Fumigation Get Rid Of Termites](https://pestpolicy.com/termite-fumigation/)
 
 ##  **Conclusion**
 
 Ear mites can be transmitted from dogs to humans through direct contact or when the animal shakes its head. Unlike in dogs, ear mites won't survive in human hosts for long. So you don't expect them to have any symptomatic effects on humans within the short stay. Compared to other mite infections, ear mites are less severe. Their impact on dogs and other pets will depend on the severity of the disease.
 
 However, with proper animal husbandry and expert treatment, you can quickly get rid of them and prevent future infestation.
+

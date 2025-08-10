@@ -1,4 +1,4 @@
----
+﻿---
 title: Do Spiders Have Bones
 description: Your regular spiders are small-bodied insects. So, its not out of the ordinary to imagine how small their bones would be, if they have any at all. In fact...
 slug: /do-spiders-have-bones/
@@ -23,7 +23,7 @@ In fact some bigger creatures like lobsters, crab, snails, worms and shrimps hav
 
 The spider's cuticle is composed of 4 layers (like other arthropods) unlike insects that have 3 cuticle layers. However, the cuticles are all made off chitin fibers plus protein. But, don't be mistaken, the spider still has a small internal skeleton - that's has, however, no bones in it. The spider's endoskeleton has collagen and a couple of plates which won't articulate like bones do for the skeleton in vertebrates.
 
-Compared to humans and other animal species -these ones have an endoskeleton that acts like a support structure that's created from bones. The endoskeleton offers support to its organs like lungs, [brain](https: //pestpolicy. com/do-spiders-have-brains/), [heart](https: //pestpolicy. com/do-spiders-have-hearts/) and maintain the animals size and shape.
+Compared to humans and other animal species -these ones have an endoskeleton that acts like a support structure that's created from bones. The endoskeleton offers support to its organs like lungs, [brain](https://pestpolicy.com/do-spiders-have-brains/), [heart](https://pestpolicy.com/do-spiders-have-hearts/) and maintain the animals size and shape.
 
 ##  Exoskeletons offer Spiders Body Support
 
@@ -35,17 +35,17 @@ Compared to endoskeletons, exoskeletons will provide more protection because it 
 
 Therefore, the exoskeletons will give the spider more power and straight than other animals of the same size but having an endoskeletons.
 
-Related: [Do Spiders Have Ears? ](https: //pestpolicy. com/do-spiders-have-ears/)
+Related: [Do Spiders Have Ears? ](https://pestpolicy.com/do-spiders-have-ears/)
 
 ##  How Spiders Move
 
 The segments of the exoskeleton in the arthropod are joined using joints to allow it to move up and down. Therefore, the muscles that are attached to the exoskeleton tend to contract allowing the spider to move its legs inward. However, the spider lacks muscles that would otherwise extend its legs back (outward) to their default position. Therefore, the creature use its blood and other bodily fluids to push the legs outward.
 
-Whenever the spider loses excessive bodily fluid, it'll lack the required pressure ( [hydraulic)](https: //science. howstuffworks. com/transport/engines-equipment/hydraulic. htm) for moving its legs outwards. You'll notice the spider lying on its back and its legs in a curled up position.
+Whenever the spider loses excessive bodily fluid, it'll lack the required pressure ( [hydraulic)](https://science.howstuffworks. com/transport/engines-equipment/hydraulic. htm) for moving its legs outwards. You'll notice the spider lying on its back and its legs in a curled up position.
 
 ##  **How****Spiders ****Molt**
 
-Spiders will move from one point to another through muscle contraction - these will be attached to the exoskeleton on the outer part of the arthropod. The spider's exoskeleton is composed of different cuticle layers - that are made from chitin (polysaccharide) and [proteins](https: //science. howstuffworks. com/life/cellular-microscopic/cell3. htm). This allows the cuticle structure to be layered like a [plywood](https: //home. howstuffworks.
+Spiders will move from one point to another through muscle contraction - these will be attached to the exoskeleton on the outer part of the arthropod. The spider's exoskeleton is composed of different cuticle layers - that are made from chitin (polysaccharide) and [proteins](https://science.howstuffworks. com/life/cellular-microscopic/cell3. htm). This allows the cuticle structure to be layered like a [plywood](https://home.howstuffworks.
 
 com/home-improvement/remodeling/question154. htm) grain.
 
@@ -58,3 +58,4 @@ When time is ready, the spider's body (directed by its hormones) will absorb a p
 The spider will inject a molting fluid at the areas separating the new and old exoskeleton.
 
 The fluid allows easy separation of the two exoskeletons by create a gap between them. 4. Next, the spider bust out to shed its old exoskeleton. To achive this, the animals tend to raise the heart rate and thus pumping more blood (hemolymph) into its cephalothorax from their abdomen. 4. Therfeore the hemolymph's pressure forced the older exoskeleton to crack while the spider continues to flex their muscle to make its old exoskeleton to molt.
+

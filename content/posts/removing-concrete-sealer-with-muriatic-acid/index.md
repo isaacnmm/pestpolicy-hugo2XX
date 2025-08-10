@@ -1,4 +1,4 @@
----
+﻿---
 title: Removing Concrete Sealer With Muriatic Acid
 description: Removing concrete sealer can be a tough task, especially when you want to restore the original appearance of your concrete surfaces.
 slug: /removing-concrete-sealer-with-muriatic-acid/
@@ -14,7 +14,7 @@ tags:
 layout: post
 ---
 
-Removing [concrete](https: //pestpolicy. com/best-concrete-driveway-cleaner/) [sealer](https: //pestpolicy. com/best-penetrating-concrete-sealer/) can be a tough task, especially when you want to restore the original appearance of your concrete surfaces. Muriatic acid is a strong and effective solution for removing concrete sealers, but it must be handled carefully.
+Removing [concrete](https://pestpolicy.com/best-concrete-driveway-cleaner/) [sealer](https://pestpolicy.com/best-penetrating-concrete-sealer/) can be a tough task, especially when you want to restore the original appearance of your concrete surfaces. Muriatic acid is a strong and effective solution for removing concrete sealers, but it must be handled carefully.
 
 In this guide, we'll walk you through the process of removing concrete sealer with muriatic acid, ensuring a safe and effective method.
 
@@ -51,3 +51,4 @@ After rinsing, allow the concrete surface to dry completely before applying any 
 ###  Conclusion
 
 Using muriatic acid to remove concrete sealer is an effective way to restore your concrete surfaces. By following the proper steps and safety precautions, you can remove the sealer and prepare the concrete for a fresh finish. Remember to always handle muriatic acid with care and work in a well-ventilated area for your safety.
+

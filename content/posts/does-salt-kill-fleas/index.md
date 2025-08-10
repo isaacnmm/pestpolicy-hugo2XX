@@ -1,4 +1,4 @@
----
+﻿---
 title: Does Salt Kill Fleas
 description: Does salt kill fleas? When looking to eradicate fleas, you are often confronted by a wealth of information, but what is correct and what is not?
 slug: /does-salt-kill-fleas/
@@ -15,17 +15,17 @@ tags:
 layout: post
 ---
 
-Does salt kill [fleas](https: //pestpolicy. com/does-apple-cider-vinegar-kill-fleas/)? When looking to eradicate fleas, you are often confronted by a wealth of information, but what is correct and what is not? If you have fleas in the lawn - check this flea spray for the yard.
+Does salt kill [fleas](https://pestpolicy.com/does-apple-cider-vinegar-kill-fleas/)? When looking to eradicate fleas, you are often confronted by a wealth of information, but what is correct and what is not? If you have fleas in the lawn - check this flea spray for the yard.
 
-In this article, we will be focusing on the truth behind whether [salt](https: //pestpolicy. com/does-salt-kill-bed-bugs/) kills fleas. Check these images of fleas and their larvae - here's what fleas look like. One of the significant points of concern when trying to rid your home of fleas are their eggs. These are notoriously difficult to get rid of and can often be a source of the infestation returning.
+In this article, we will be focusing on the truth behind whether [salt](https://pestpolicy.com/does-salt-kill-bed-bugs/) kills fleas. Check these images of fleas and their larvae - here's what fleas look like. One of the significant points of concern when trying to rid your home of fleas are their eggs. These are notoriously difficult to get rid of and can often be a source of the infestation returning.
 
 ##  Does Salt Kill Fleas? - Get Rid of Fleas with Salt!
 
-If you have heard the rumor that salt can kill [fleas](http: //ipm. ucanr. edu/PMG/PESTNOTES/pn7419. html), you will be pleasantly surprised to learn that there is some truth in this. Using salt is a more natural way of treating the problem effectively - dawn soap for fleas. Fleas can be a real nuisance, and often the use of chemicals and sprays to kill them off can be just as hazardous to the more welcome members of the family.
+If you have heard the rumor that salt can kill [fleas](http://ipm.ucanr. edu/PMG/PESTNOTES/pn7419. html), you will be pleasantly surprised to learn that there is some truth in this. Using salt is a more natural way of treating the problem effectively - dawn soap for fleas. Fleas can be a real nuisance, and often the use of chemicals and sprays to kill them off can be just as hazardous to the more welcome members of the family.
 
 Read Also: [Does Salt Kill Bed Bugs?
 
-](https: //pestpolicy. com/does-salt-kill-bed-bugs/)
+](https://pestpolicy.com/does-salt-kill-bed-bugs/)
 
 ##  How Does Salt Kill Fleas?
 
@@ -55,4 +55,5 @@ More often than not, the majority of the flea eggs will fall off their host once
 
 ##  Conclusion
 
-You may have thought that using salt to kill fleas was simply a myth, but in truth, it is a very effective method of [dealing with these annoying little pests](https: //citybugs. tamu. edu/factsheets/biting-stinging/others/ent-3001/). Not only is it a natural solution, but it is also extremely cost-effective. This is once again, a very effective treatment for areas around the home.
+You may have thought that using salt to kill fleas was simply a myth, but in truth, it is a very effective method of [dealing with these annoying little pests](https://citybugs.tamu. edu/factsheets/biting-stinging/others/ent-3001/). Not only is it a natural solution, but it is also extremely cost-effective. This is once again, a very effective treatment for areas around the home.
+

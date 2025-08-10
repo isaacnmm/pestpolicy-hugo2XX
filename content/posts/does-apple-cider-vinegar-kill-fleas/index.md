@@ -1,4 +1,4 @@
----
+﻿---
 title: Does Apple Cider Vinegar Kill Fleas
 description: Does apple cider vinegar kill fleas? To make your life and that of your pets as stress-free as possible, proper flea extermination is necessary. Summer is...
 slug: /does-apple-cider-vinegar-kill-fleas/
@@ -15,9 +15,9 @@ tags:
 layout: post
 ---
 
-Does apple cider vinegar kill [fleas](https: //pestpolicy. com/does-baking-soda-kill-fleas/)? To make your life and that of your pets as stress-free as possible, proper flea extermination is necessary. Summer is here, and unfortunately, it brings along a lot of flea activity plus the hatching of flea eggs.
+Does apple cider vinegar kill [fleas](https://pestpolicy.com/does-baking-soda-kill-fleas/)? To make your life and that of your pets as stress-free as possible, proper flea extermination is necessary. Summer is here, and unfortunately, it brings along a lot of flea activity plus the hatching of flea eggs.
 
-There is one tested method employed by many pet owners to get rid of fleas: [Vinegar](https: //www. pacificcollege. edu/news/blog/2015/04/25/what-does-apple-cider-vinegar-not-do) solution for fleas. I take a closer look at how you can get rid of fleas with vinegar and Dawn dish soap.
+There is one tested method employed by many pet owners to get rid of fleas: [Vinegar](https://www.pacificcollege. edu/news/blog/2015/04/25/what-does-apple-cider-vinegar-not-do) solution for fleas. I take a closer look at how you can get rid of fleas with vinegar and Dawn dish soap.
 
 ##  Does Apple Cider Vinegar Kill Fleas? Natural Flea Repellent
 
@@ -89,10 +89,11 @@ One of the many uses of Dawn dishwashing soap is fighting fleas. Dawn soap disru
 
 ##  Best Selling Vinegar for Flea products
 
-Dawn Dishwashing Liquid Original Scent, 21. 6 oz. (3 Pack) This is one of the best selling liquid dishwashing soaps in the US. - The brand needs no introduction, and this specific product boasts a distinct refreshing scent and unmatched grease-fighting power. - It is a multipurpose liquid soap that is best for[shampooing your furry friends and getting rid of fleas](https: //pestpolicy. com/best-flea-shampoo-for-dogs/).
+Dawn Dishwashing Liquid Original Scent, 21. 6 oz. (3 Pack) This is one of the best selling liquid dishwashing soaps in the US. - The brand needs no introduction, and this specific product boasts a distinct refreshing scent and unmatched grease-fighting power. - It is a multipurpose liquid soap that is best for[shampooing your furry friends and getting rid of fleas](https://pestpolicy.com/best-flea-shampoo-for-dogs/).
 
 - If you need some convincing, you will be glad to know that rescue workers use it to clean rescued birds during oil disasters worldwide. You can also bank on its long-lasting bubbles for a job well done. It has a massive 708 reviews on Amazon from satisfied customers.
 
 ##  Conclusion
 
-One way to do this is regularly treating your yard. Remember to keep a bottle of vinegar flea spray handy for use on your pet between baths. Search the internet for other creative and effective ways to use Dawn dish soap and vinegar for fleas. You can also use Dawn dish soap for [fleas on puppies](https: //pestpolicy. com/best-puppy-shampoo-for-fleas/) and kittens.
+One way to do this is regularly treating your yard. Remember to keep a bottle of vinegar flea spray handy for use on your pet between baths. Search the internet for other creative and effective ways to use Dawn dish soap and vinegar for fleas. You can also use Dawn dish soap for [fleas on puppies](https://pestpolicy.com/best-puppy-shampoo-for-fleas/) and kittens.
+

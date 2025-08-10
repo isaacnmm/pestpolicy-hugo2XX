@@ -1,4 +1,4 @@
----
+﻿---
 title: Pyranha Wipe N Spray Fly Review
 description: PYRANHA Wipe N Spray offers protection to your horse against insects such as biting flies in addition to fleas, gnats, and mosquitoes.Youll require just 1-2...
 slug: /pyranha-wipe-n-spray-fly-review/
@@ -15,13 +15,13 @@ tags:
 layout: post
 ---
 
-PYRANHA Wipe N Spray offers protection to your horse against insects such as biting [flies](https: //pestpolicy. com/absorbine-ultrashield-ex-brand-residual-insecticide-review/) in addition to fleas, gnats, and mosquitoes. Youll require just 1-2 ounces for every horse and will be excellent if you daily on your horse. Interestingly, you wont need to mix the chemical with anything as it is delivered ready to use.
+PYRANHA Wipe N Spray offers protection to your horse against insects such as biting [flies](https://pestpolicy.com/absorbine-ultrashield-ex-brand-residual-insecticide-review/) in addition to fleas, gnats, and mosquitoes. Youll require just 1-2 ounces for every horse and will be excellent if you daily on your horse. Interestingly, you wont need to mix the chemical with anything as it is delivered ready to use.
 
 In this post, I've reviewed this PIRANHA Wipe N Spray which is among the *best fly spray for horses. *
 
-Flies will particularly be rampant during the months of summer particularly with areas that experience hot summers and mild winters. With this Pyranha [Fly Spray](https: //pestpolicy. com/espree-aloe-herbal-fly-repellent-horse-spray-review/), you can easily control the flies and bugs attacking your horse. Definitely, with its conspicuously yellow bottle, its easy to identify this horse product even in your local store.
+Flies will particularly be rampant during the months of summer particularly with areas that experience hot summers and mild winters. With this Pyranha [Fly Spray](https://pestpolicy.com/espree-aloe-herbal-fly-repellent-horse-spray-review/), you can easily control the flies and bugs attacking your horse. Definitely, with its conspicuously yellow bottle, its easy to identify this horse product even in your local store.
 
-I have to reveal that I first tested this [horse fly](https: //pestpolicy. com/ecosmart-organic-horse-fly-knockdown-repellent-review/) spray after I saw very many horse owners with the yellow bottle during different shows.
+I have to reveal that I first tested this [horse fly](https://pestpolicy.com/ecosmart-organic-horse-fly-knockdown-repellent-review/) spray after I saw very many horse owners with the yellow bottle during different shows.
 
 ##  Pyrethrin-based fly spray
 
@@ -54,3 +54,4 @@ Despite all the love I have for this spray, below I outline some of the cons I e
 Second, some horse owners may not like the smell (the strong citronella scent we discussed earlier) of this PYRANHA Wipe N Sprayproduct.
 
 However, this is not the case with all of us out here the best you can do is to test it as you night also love the citronella scent like myself.
+

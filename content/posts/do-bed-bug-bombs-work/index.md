@@ -1,4 +1,4 @@
----
+﻿---
 title: Do Bed Bug Bombs Work
 description: The use of bed bug bombs to kill bed bugs is increasing day by day. The aerosol foggers contain insecticides like pyrethroid, permethrin, or pyrethrin -...
 slug: /do-bed-bug-bombs-work/
@@ -87,15 +87,15 @@ They are not very efficient as they may not trap bed bugs that do not come from 
 
 Though bed bug bomb may not completely kill bed bugs in your bed bugs infested office, home, or warehouse, you can improve its action/performance by doing some of the following things: 1. Ensuring your room/house/office doors and windows are airtight closed during the 2 to 3 hour application time will concentrate the killing gas within all possible bed bugs hideouts in the room. 2. Turning all bed bugs-infested items in your room.
 
-Ensure you [spread bed bugs](https: //pestpolicy. com/how-do-bed-bugs-spread/) infested clothes, bedding, chairs, couches, or footwear and turn the beds and wall units in your room to offer ample penetration of bed bug bombs into those places without obstructions. 3. Using several small quantity bed bug bombs. Place several bed bugs aerosol canisters at various points in your room.
+Ensure you [spread bed bugs](https://pestpolicy.com/how-do-bed-bugs-spread/) infested clothes, bedding, chairs, couches, or footwear and turn the beds and wall units in your room to offer ample penetration of bed bug bombs into those places without obstructions. 3. Using several small quantity bed bug bombs. Place several bed bugs aerosol canisters at various points in your room.
 
 This helps in quick access and penetration of active insecticide simultaneously in the room.
 
-It also prevents [bed bugs from hiding](https: //pestpolicy. com/where-do-bed-bugs-hide/) in one part of the room when they sense danger. *NB: The total of all these canisters should not be more than the room's volume being served. * 4. Boosting air circulation.
+It also prevents [bed bugs from hiding](https://pestpolicy.com/where-do-bed-bugs-hide/) in one part of the room when they sense danger. *NB: The total of all these canisters should not be more than the room's volume being served. * 4. Boosting air circulation.
 
 Insufficient air circulation within the bed bugs infested room cause incomplete penetration of the bed bug killing gas to such place as beneath the bed, shelves/drawers, under the table, couches or carpets.
 
-You can boost room air circulation using a fan or air conditioner. *Remember to power these devices from outside to prevent any spark. * Related: [Best Bed Bug Traps](https: //pestpolicy. com/best-bed-bug-traps/)
+You can boost room air circulation using a fan or air conditioner. *Remember to power these devices from outside to prevent any spark. * Related: [Best Bed Bug Traps](https://pestpolicy.com/best-bed-bug-traps/)
 
 ##  **Can Bed Bug Bomb Cause Sickness to Humans & Pets?**
 
@@ -121,4 +121,5 @@ Bed bug bombs do work by killing all eggs, nymphs, and adult bed bugs that come 
 
 ##  Sources:
 
-1. [Exposure risks and ineffectiveness of total release foggers (TRFs)](https: //www. ncbi. nlm. nih. gov/pmc/articles/PMC6348656/) 2. [A Door-to-Door Survey of the Bed Bug (Cimex lectularius - NCBI](https: //www. ncbi. nlm. nih. gov/pmc/articles/PMC4080563/) 3. [Pest Management Strategies for Bed Bugs (Hemiptera: Cimicidae](https: //academic. oup. com/jipm/article/8/1/13/3836010)
+1. [Exposure risks and ineffectiveness of total release foggers (TRFs)](https://www.ncbi. nlm. nih. gov/pmc/articles/PMC6348656/) 2. [A Door-to-Door Survey of the Bed Bug (Cimex lectularius - NCBI](https://www.ncbi. nlm. nih. gov/pmc/articles/PMC4080563/) 3. [Pest Management Strategies for Bed Bugs (Hemiptera: Cimicidae](https://academic.oup. com/jipm/article/8/1/13/3836010)
+

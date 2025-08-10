@@ -1,4 +1,4 @@
----
+﻿---
 title: What Do Chameleon Colors Mean
 description: Chameleons are famous for changing colors. Acoat of many colors is a story about a little girl who had a coat that was not just one color.
 slug: /what-do-chameleon-colors-mean/
@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 
-Chameleons are famous for changing colors. Acoat of many colors is a story about a little girl who had a coat that was not just one [color](https: //pestpolicy. com/paint-colors-to-brighten-a-dark-room/). She takes it to church with her and everyone admires the colors.
+Chameleons are famous for changing colors. Acoat of many colors is a story about a little girl who had a coat that was not just one [color](https://pestpolicy.com/paint-colors-to-brighten-a-dark-room/). She takes it to church with her and everyone admires the colors.
 
 That's a chameleon! Just like peacocks, a chameleon will change color depending on its mood changes, temperature, or body language.
 
@@ -69,13 +69,13 @@ Others include red hues around the animal's sides and head. *On the other hand; 
 
 The male panther chameleon shows red and yellow color with light green stripes when the mating season approaches.
 
-Related: [How Lizards Mate](https: //pestpolicy. com/how-do-lizards-mate/)
+Related: [How Lizards Mate](https://pestpolicy.com/how-do-lizards-mate/)
 
 ###  4. Display Fear:
 
 When in shock or under attack, chameleons will show what is called fear colors which are usually darker colors like black.
 
-For example, your Veiled chameleons will change to [dark colors](https: //animals. mom. me/identifying-veiled-chameleons-color-mood-5721. html) when it is under attack, or it's shocking or in defense.
+For example, your Veiled chameleons will change to [dark colors](https://animals.mom. me/identifying-veiled-chameleons-color-mood-5721. html) when it is under attack, or it's shocking or in defense.
 
 The color gets darker when the fear level intensifies. This is to help them blend better into their environment when under attack.
 
@@ -91,7 +91,7 @@ Any fall in temperature will force them to change their skin color into dark/bla
 
 Chameleons will change to brighter colors such as light blue, bright red, light green or white to help them reflect sun rays from their skin surface. Moreover, the skin becomes lighter on a hotter day.
 
-https: //youtu. be/SQggDnScsvI
+https://youtu.be/SQggDnScsvI
 
 ###  6. Chameleon to Chameleon Communication:
 
@@ -135,7 +135,7 @@ The dark pigment, when cold and chilling out, means its not facing any threat, b
 
 This is what enables chameleon to blend with their surroundings and it also helps them in temperature regulation as they change their colors according to the ambient temperatures.
 
-Related: [Can Lizards Swim? ](https: //pestpolicy. com/can-lizards-swim/)
+Related: [Can Lizards Swim? ](https://pestpolicy.com/can-lizards-swim/)
 
 ##  Do all chameleons change colors?
 
@@ -152,3 +152,4 @@ The panther chameleon rarely camouflages with the background even when in danger
 ##  Conclusion
 
 Chameleons skin colors reflect its moods, comfort/relaxation, environment or weather conditions as well as stress. Though the camouflage concept of the chameleon plays a role in its predator protection, the effect is less significant. The ability of chameleons to change their colors varies according to the particular species. The color change in the chameleons skin is coordinated by a shift in iridophores orientations.
+

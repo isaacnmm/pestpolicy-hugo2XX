@@ -1,4 +1,4 @@
----
+﻿---
 title: Do Dust Mites Bite
 description: Dust Mites are tiny insects that have eight legs and a small head and they feed off flakes of dead skin shed by humans. - NB an adult human will shed about...
 slug: /do-dust-mites-bite/
@@ -15,19 +15,17 @@ tags:
 layout: post
 ---
 
-[Dust](https: //pestpolicy. com/dust-mites/) Mites are [tiny insects](https: //pestpolicy. com/what-do-dust-mites-look-like/) that have eight legs and a small head and they feed off flakes of dead skin shed by humans. - NB: an adult human will shed about 500 million flakes of their dead skin daily. Dust mites measure about 1/100 inch in length and so it's only visible through a microscope.
+[Dust](https://pestpolicy.com/dust-mites/) Mites are [tiny insects](https://pestpolicy.com/what-do-dust-mites-look-like/) that have eight legs and a small head and they feed off flakes of dead skin shed by humans. - NB: an adult human will shed about 500 million flakes of their dead skin daily. Dust mites measure about 1/100 inch in length and so it's only visible through a microscope.
 
 The symptoms of dust mites for humans include itching and sneezing - but these can be related to chiggers, ticks, and spiders. **But do dust mites bite humans? No, the mouthparts of dust mites are quite rudimentary and so they can't sting or bite humans. ** - **On the contrary, dust mites will eat their own cast of skins and poop or fungi, pollen, pet skin, and flakes of dead human skin.
 
-** We've seen that dust mites will not bite or sting humans ( [this is unlike other [mite](https: //pestpolicy. com/what-do-dust-mites-look-like/) species](https: //pestpolicy. com/best-fungicide-powdery-mildew/) ). But do we, like most homeowners, worry so much about these bugs? Lets find out! Related: Bed Bugs Vs Mites
+** We've seen that dust mites will not bite or sting humans ( [this is unlike other [mite](https://pestpolicy.com/what-do-dust-mites-look-like/) species](https://pestpolicy.com/best-fungicide-powdery-mildew/) ). But do we, like most homeowners, worry so much about these bugs? Lets find out! Related: Bed Bugs Vs Mites
 
 ##  Details: Do Dust Mites Bite?
 
 In summary, we've seen that dust mites will not bite humans but we still have reason to be concerned about these bugs. - The most concerning issue with having dust mites in the house is their allergens since they trigger allergic reactions in humans. - There are about 20 + dust mite-related allergens that arise from the pests' bodily secretions including poop and cast skins.
 
-So despite that, the dust mites want to bite humans or inject venomous chemicals into their bodies, they can trigger grave medical issues. Dust mites will hide in locations where dust tends to settle; these places include curtains, blinds, furniture, bedding, and soft fabrics. - The[Allergy and Asthma Foundation](https: //asthmaandallergies.
-
-org/)reports that Americans totaling roughly 20 million are insensitive to allergens resulting from dust mites.
+So despite that, the dust mites want to bite humans or inject venomous chemicals into their bodies, they can trigger grave medical issues. Dust mites will hide in locations where dust tends to settle; these places include curtains, blinds, furniture, bedding, and soft fabrics. - The[Allergy and Asthma Foundation](https://asthmaandallergies.org/)reports that Americans totaling roughly 20 million are insensitive to allergens resulting from dust mites.
 
 It's almost impossible to completely remove all the dust mites from your spaces but you can control their numbers.
 
@@ -64,3 +62,4 @@ Combining regular cleaning and dusting off the floors will help minimize dust qu
 ##  Conclusion
 
 Dust mites will not bite humans and they are also not visible to the human eye. - However, these pests will cause health effects such as allergic reactions, hives, and asthma. Finally, it's impossible to completely remove the pests from your house but you can minimize them.
+

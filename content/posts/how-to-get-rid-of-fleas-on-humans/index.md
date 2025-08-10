@@ -1,4 +1,4 @@
----
+﻿---
 title: How to Get Rid Of Fleas on Humans
 description: Fleas are common pests with hairy pets like cats and dogs but they can also attack humans. There are over 2000 species and some species also attack humans.
 slug: /how-to-get-rid-of-fleas-on-humans/
@@ -15,11 +15,11 @@ tags:
 layout: post
 ---
 
-[Fleas](https: //pestpolicy. com/getting-rid-of-fleas-in-the-carpet/) are common pests with hairy pets like cats and dogs but they can also attack humans. There are over 2000 species and some species also attack humans. This guide on how to get rid of fleas on humans has all you need to know. - **Unlike fury pets, fleas attacking humans like to hide either on the clothing or hair.
+[Fleas](https://pestpolicy.com/getting-rid-of-fleas-in-the-carpet/) are common pests with hairy pets like cats and dogs but they can also attack humans. There are over 2000 species and some species also attack humans. This guide on how to get rid of fleas on humans has all you need to know. - **Unlike fury pets, fleas attacking humans like to hide either on the clothing or hair.
 
 To get rid of them, you need to wash your hair with anti-fleas products.
 
-** - **Taking a bath with a [flea](https: //pestpolicy. com/how-to-get-rid-of-flea-eggs-on-cats/) shampoo will also help. Ultimately, knowing their source and other infested areas will do much good when eliminating them. ** Fleas are tiny parasites that will attack and suck human and pet blood. Even before you get hold of these tiny pests, [it jumps into hiding](https: //pestpolicy. com/how-to-get-rid-of-fleas-on-clothes-and-bedding/).
+** - **Taking a bath with a [flea](https://pestpolicy.com/how-to-get-rid-of-flea-eggs-on-cats/) shampoo will also help. Ultimately, knowing their source and other infested areas will do much good when eliminating them. ** Fleas are tiny parasites that will attack and suck human and pet blood. Even before you get hold of these tiny pests, [it jumps into hiding](https://pestpolicy.com/how-to-get-rid-of-fleas-on-clothes-and-bedding/).
 
 ##  Details: How to Get Rid Of Fleas on Humans
 
@@ -82,3 +82,4 @@ This will entirely depend on the method of control that you have used. However, 
 There are many ways on how to get rid of fleas in humans. Pets are the main source of pets and cannot be ignored when you are dealing with fleas. - They like to hide under the clothes, on the hair, among other areas in your house which must also be dealt with for successful elimination. Vacuum cleaning, using fleas repellents are among the effective methods to use when eliminating fleas and keeping them away from humans.
 
 Most importantly keep a clean environment for a fleas-free home.
+

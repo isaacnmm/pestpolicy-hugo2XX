@@ -1,4 +1,4 @@
----
+﻿---
 title: Steam Controller Review
 description: Steam has released both the Steam Link and the Steam Controller . The Steam Link helps you in gaming on the TV through a gaming rig. - However, in this post,...
 slug: /steam-controller-review/
@@ -14,15 +14,15 @@ tags:
 layout: post
 ---
 
-Steam has released both the Steam Link and the [Steam Controller](https: //www. amazon. com/dp/B016KBVBCS/? tag=p-policy-20). The Steam Link helps you in gaming on the TV through a gaming rig. - However, in this post, I will do a Steam Controller review. The Steam Controller aims to close the PC-console gap among one of the[PC Wireless [controllers](https: //pestpolicy. com/best-controller-for-steam-link/)](https: //pestpolicy. com/).
+Steam has released both the Steam Link and the [Steam Controller](https://www.amazon. com/dp/B016KBVBCS/? tag=p-policy-20). The Steam Link helps you in gaming on the TV through a gaming rig. - However, in this post, I will do a Steam Controller review. The Steam Controller aims to close the PC-console gap among one of the[PC Wireless [controllers](https://pestpolicy.com/best-controller-for-steam-link/)](https://pestpolicy.com/).
 
-Steam [Controller](https: //pestpolicy. com/best-controller-for-retropie/) will spice up your gaming to look like the console gamepad, maybe even better. Notably, the video controller layout design, particularly analog sticks and buttons, has somehow remained the same for some time now.
+Steam [Controller](https://pestpolicy.com/best-controller-for-retropie/) will spice up your gaming to look like the console gamepad, maybe even better. Notably, the video controller layout design, particularly analog sticks and buttons, has somehow remained the same for some time now.
 
-However, there have been minor but notable changes such as the addition of the light bar [DualShock 4](https: //www. amazon. com/dp/B00BGA9X9W/? tag=p-policy-20) at Amazon and [Microsoft Xbox One](https: //www. amazon. com/dp/B00KL3WBBC/? tag=p-policy-20) at Amazon with its new rumble triggers.
+However, there have been minor but notable changes such as the addition of the light bar [DualShock 4](https://www.amazon. com/dp/B00BGA9X9W/? tag=p-policy-20) at Amazon and [Microsoft Xbox One](https://www.amazon. com/dp/B00KL3WBBC/? tag=p-policy-20) at Amazon with its new rumble triggers.
 
 Pros: - Great for strategy gaming - analogue stick and Solid buttons - Additional dimension to the Touchpads Cons: - Buttons are small - Lacks total precision
 
-For most PC gamers, the **mouse** and **keyboard** combo is the ultimate solution. - However, Valve has been trying to combine the console and PC gaming capabilities using Steam technology. The [steam controller](https: //www. amazon. com/dp/B016KBVBCS/? tag=p-policy-20) on Amazon is the recent solution by valve aiming to enhance PC-Console gaming combination.
+For most PC gamers, the **mouse** and **keyboard** combo is the ultimate solution. - However, Valve has been trying to combine the console and PC gaming capabilities using Steam technology. The [steam controller](https://www.amazon. com/dp/B016KBVBCS/? tag=p-policy-20) on Amazon is the recent solution by valve aiming to enhance PC-Console gaming combination.
 
 ##  Steam Controller Review
 
@@ -42,8 +42,9 @@ Also, Steam has these unique features where the software will recommend some pos
 
 With the different improvements on the steam controller, the device has achieved a fantastic design and build. The critical attribute of Steam is the unique trackpads. In addition to their high customization capability, the trackpads are clickable and produce haptic feedback. - For example, the first design had the circular trackpads located in places of the current analog stick.
 
-- However, the current steam controller has one analog stick, four triggers, and two face buttons a features standard in many controllers. In addition to the general traits, Steam has allowed you to click any handle to achieve a third trigger grip. However, the steam controller plastic build felt too cheap and light as compared to the [Xbox Elite](https: //www. amazon. com/dp/B00ZDNNRB8/? tag=p-policy-20) on Amazon.
+- However, the current steam controller has one analog stick, four triggers, and two face buttons a features standard in many controllers. In addition to the general traits, Steam has allowed you to click any handle to achieve a third trigger grip. However, the steam controller plastic build felt too cheap and light as compared to the [Xbox Elite](https://www.amazon. com/dp/B00ZDNNRB8/? tag=p-policy-20) on Amazon.
 
 ##  Conclusion
 
 Youll love how Steam advances the console controller features with the PC gaming ideas. The trackpads, their high customizability, and their hepatic feedback will give you an excellent gaming experience.
+

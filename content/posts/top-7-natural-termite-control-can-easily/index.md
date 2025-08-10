@@ -1,4 +1,4 @@
----
+﻿---
 title: Top 7 Natural Termite Control Can Easily
 description: In this article, I will discuss how to naturally control compared to other termite treatments  and eliminate termites without hiring a professional. Termites...
 slug: /top-7-natural-termite-control-can-easily/
@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 
-In this article, I will discuss how to naturally control (compared to other [termite treatments](https: //pestpolicy. com/best-termite-killer/) ) and eliminate termites without hiring a professional. Termites have been reported to cause massive damage to buildings each year. As a result, expensive rebuilding is done to repair their damage. However, if you suspect a termite infestation, dont panic.
+In this article, I will discuss how to naturally control (compared to other [termite treatments](https://pestpolicy.com/best-termite-killer/) ) and eliminate termites without hiring a professional. Termites have been reported to cause massive damage to buildings each year. As a result, expensive rebuilding is done to repair their damage. However, if you suspect a termite infestation, dont panic.
 
 ##  7 Natural Termite Control
 
@@ -27,9 +27,9 @@ A sodium borate solution is a mixture of borax and water.
 
 The borax solution is environmentally friendly and does not affect either humans or pests. You can apply borate solution by spraying or painting it on surfaces of wood of newly built buildings. Application of the borax solution can help avert future termite infestation in your residence. Heres a kicker! ! Always repeat the application of the borax solution until the entire colony of termites is eliminated.
 
-You can also decide to use borate treatments combined with other natural [termite treatment for an effective](https: //pestpolicy. com/how-to-get-rid-of-termites/) outcome.
+You can also decide to use borate treatments combined with other natural [termite treatment for an effective](https://pestpolicy.com/how-to-get-rid-of-termites/) outcome.
 
-**2. Parasitic Nematodes for Termites** Nematodes are worm species that love to feed on termites. If you have a [termite infestation in your home](https: //pestpolicy. com/home-remedy-for-termites/) or business premises, release Nematodes into a colony, the Nematodes will eat up all the termites causing havoc on your premises. You can purchase nematodes at local pet stores. You can also purchase it online, as many online stores stock it.
+**2. Parasitic Nematodes for Termites** Nematodes are worm species that love to feed on termites. If you have a [termite infestation in your home](https://pestpolicy.com/home-remedy-for-termites/) or business premises, release Nematodes into a colony, the Nematodes will eat up all the termites causing havoc on your premises. You can purchase nematodes at local pet stores. You can also purchase it online, as many online stores stock it.
 
 Nematodes are safe to use.
 
@@ -53,7 +53,7 @@ Cardboard Trap to Kill Termites** The use of cardboard is the most non-toxic and
 
 Then, place the moistened cardboard close to the target area.
 
-After a short period, [termites will cling on top](https: //pestpolicy. com/termite-prevention/) of the cardboard. Collect the cardboard and get rid of it through burning. **7. Use Boric Acid to Kill Termites** Boric acid is an important natural home remedy that dehydrates the bugs and halts their nervous system. For the best result, you can spray or coat the wood with the acid.
+After a short period, [termites will cling on top](https://pestpolicy.com/termite-prevention/) of the cardboard. Collect the cardboard and get rid of it through burning. **7. Use Boric Acid to Kill Termites** Boric acid is an important natural home remedy that dehydrates the bugs and halts their nervous system. For the best result, you can spray or coat the wood with the acid.
 
 You can also lightly dust boric acid into wall voids, cracks, crevices, or other places the pests are likely to hide.
 
@@ -77,4 +77,5 @@ remedies guarantee maximum safety because they dont contain harmful chemicals.
 
 ##  Sources:
 
-1. NCBI -Termite Resistance of MDF Panels Treated with Various Boron Compounds 2. [Disodium Octaborate tetrahydrate - Wikipedia](https: //en. wikipedia. org/wiki/Disodium_octaborate_tetrahydrate) 3. [Drywood Termites -General Biology](https: //extension. arizona. edu/sites/extension. arizona. edu/files/pubs/az1232. pdf)
+1. NCBI -Termite Resistance of MDF Panels Treated with Various Boron Compounds 2. [Disodium Octaborate tetrahydrate - Wikipedia](https://en.wikipedia. org/wiki/Disodium_octaborate_tetrahydrate) 3. [Drywood Termites -General Biology](https://extension.arizona. edu/sites/extension. arizona. edu/files/pubs/az1232. pdf)
+

@@ -1,4 +1,4 @@
----
+﻿---
 title: How to Correct Soil Ph in Your Yard
 description: You've learned about the critical role of soil pH in your yard's overall health  how this single chemical measurement dictates the availability of vital...
 slug: /how-to-correct-soil-ph-in-your-yard/
@@ -32,7 +32,7 @@ When the pH deviates significantly from this optimal zone, a cascade of problems
 
 Conversely, in alkaline soils, crucial micronutrients like iron and manganese become insoluble and therefore deficient, leading to symptoms like chlorosis (yellowing leaves).
 
-An imbalanced pH also affects beneficial microbial activity, which is vital for breaking down organic matter and cycling nutrients. Therefore, correcting soil pH isn't just a technical adjustment; it's a foundational step that enables all other [gardening](https: //pestpolicy. com/breaking-up-clay-soil/) efforts to succeed, leading to stronger, healthier plants, better nutrient absorption, and a more resilient landscape.
+An imbalanced pH also affects beneficial microbial activity, which is vital for breaking down organic matter and cycling nutrients. Therefore, correcting soil pH isn't just a technical adjustment; it's a foundational step that enables all other [gardening](https://pestpolicy.com/breaking-up-clay-soil/) efforts to succeed, leading to stronger, healthier plants, better nutrient absorption, and a more resilient landscape.
 
 ##  Before You Begin: The Essential [Soil](https://pestpolicy.com/how-to-conduct-your-own-soil-test-for-ph-using-household-ingredients/) Test
 
@@ -147,3 +147,4 @@ Whether you're raising acidic soil with lime or gently lowering alkaline soil wi
 The reward for this diligence is a landscape that not only looks stunning but is fundamentally more resilient, less prone to disease and pests, and capable of flourishing with reduced intervention.
 
 Embrace the science, practice patience, and watch as your yard transforms into the bountiful green oasis you've always envisioned.
+

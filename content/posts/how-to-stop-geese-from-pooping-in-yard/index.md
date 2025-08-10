@@ -1,4 +1,4 @@
----
+﻿---
 title: How to Stop Geese from Pooping in Yard
 description: Its unfortunate that most of us dont understand the dangers of geese droppings. How to stop geese from pooping in the...
 slug: /how-to-stop-geese-from-pooping-in-yard/
@@ -14,11 +14,11 @@ tags:
 layout: post
 ---
 
-Its unfortunate that most of us dont understand the dangers of geese droppings. How to stop geese from [pooping in the [yard](https: //pestpolicy. com/average-yard-size/)](https: //u. osu. edu/sustainability/2018/02/12/hey-you-[geese](https: //pestpolicy. com/how-to-keep-geese-away-from-your-pond/)-get-off-my-lawn/) still becomes a challenge.
+Its unfortunate that most of us dont understand the dangers of geese droppings. How to stop geese from [pooping in the [yard](https://pestpolicy.com/average-yard-size/)](https://u.osu. edu/sustainability/2018/02/12/hey-you-[geese](https://pestpolicy.com/how-to-keep-geese-away-from-your-pond/)-get-off-my-lawn/) still becomes a challenge.
 
 - **Fencing the yard, taking away the food, planting tall bushes and grasses in your yard are among the strategies you can use to keep off the geese.
 
-** Additionally, you can also have a special shelter for them to avoid them constantly being in your yard. Geese will always visit your yard as long as they are looking for food and [a nesting place](https: //pestpolicy. com/should-you-spray-your-yard-for-fleas/).
+** Additionally, you can also have a special shelter for them to avoid them constantly being in your yard. Geese will always visit your yard as long as they are looking for food and [a nesting place](https://pestpolicy.com/should-you-spray-your-yard-for-fleas/).
 
 ##  Details: How to Stop Geese From Pooping In Yard
 
@@ -81,3 +81,4 @@ If there is a pond within your yard, that will geese favorite spot. - However, w
 ##  In Summary
 
 The techniques onhow to stop geese from pooping in yard are easy and somehow costless. - But it is the effect on the droppings that might cost you much. - You can choose to blend all the methods all choose one that is most suitable for you. Either way, it works provided it keeps the geese from your lawn and also protects its from toxic droppings. Keep your lawn protected.
+

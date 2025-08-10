@@ -1,4 +1,4 @@
----
+﻿---
 title: How to Use Eucalyptus Oil for Bed Bugs
 description: Eucalyptus oil is a natural and effective way to get rid of bed bugs - just like with lavender . So, for details on how to use eucalyptus oil for bed bugs,...
 slug: /how-to-use-eucalyptus-oil-for-bed-bugs/
@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 
-Eucalyptus oil is a natural and effective way to get rid of bed bugs - [just like with lavender](https: //pestpolicy. com/does-lavender-kill-[bed-bugs](https: //pestpolicy. com/essential-oils-for-bed-bugs/)/). So, for details on how to use eucalyptus oil for bed bugs, read on for this [DIY bed bug control](https: //pestpolicy. com/diy-bed-bug-spray/) guide. **You can mix 10-20 drops with 30 ml of water and use to spray the bedding and mattress.
+Eucalyptus oil is a natural and effective way to get rid of bed bugs - [just like with lavender](https://pestpolicy.com/does-lavender-kill-[bed-bugs](https://pestpolicy.com/essential-oils-for-bed-bugs/)/). So, for details on how to use eucalyptus oil for bed bugs, read on for this [DIY bed bug control](https://pestpolicy.com/diy-bed-bug-spray/) guide. **You can mix 10-20 drops with 30 ml of water and use to spray the bedding and mattress.
 
 Lavender, peppermint, tea tree, and eucalyptus essential oils are good at keeping bed bugs away as they don't like their strong odors. ** **We suggest putting a couple of drops of each of these essential oils on the corners of your bed - but don't tough it: The odor should last for days, effectively driving away bed bugs. **
 
@@ -59,7 +59,7 @@ Eucalyptus oil-based products will act as both pesticides and insect repellents;
 
 ##  Other Alternative Bed Bug Control Methods?
 
-Another option is to buy [bed bug-proof mattress](https: //pestpolicy. com/best-bed-bug-mattress-encasements/) and pillows, as these are more likely to keep the bugs away from you while still being comfortable enough for a good night's sleep.
+Another option is to buy [bed bug-proof mattress](https://pestpolicy.com/best-bed-bug-mattress-encasements/) and pillows, as these are more likely to keep the bugs away from you while still being comfortable enough for a good night's sleep.
 
 ###  1.*Lemon Grass Oil*
 
@@ -67,7 +67,7 @@ Add the lemon grass oil to your washer (laundry) - it has high levels of citrone
 
 You can put some drops on corners of bed as well - this will help keep bugs away from that area.
 
-[A 2014 Changlu Wangstudy](https: //www. mdpi. com/2075-4450/5/4/849/htm) showed that the citronellol in lemon grass oil (and other essential oils) is an effective deterrent against bed bugs (Cimex lectularius) in comparison to the synthetic repellent DEET.
+[A 2014 Changlu Wangstudy](https://www.mdpi. com/2075-4450/5/4/849/htm) showed that the citronellol in lemon grass oil (and other essential oils) is an effective deterrent against bed bugs (Cimex lectularius) in comparison to the synthetic repellent DEET.
 
 ###  2.*Tea Tree Oil*
 
@@ -82,3 +82,4 @@ Bed nets will also help protect against bed bugs; they can be put over your head
 So, in conclusion, on how to use eucalyptus oil for bed bugs; simply mix 10 - 20 drops of that oil with 30ml of water and use to spray the bedding or other surfaces. For laundry or when using washers, add some drops of this eucalyptus oil and this will help kill bed bugs and their eggs. Sprinkling with peppermint will also work well at keeping good against these pests - so stay tuned in!
 
 The bottom line is that you may need more than one treatment before getting rid of all those nasty bed bugs.
+

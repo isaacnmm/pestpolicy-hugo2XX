@@ -1,4 +1,4 @@
----
+﻿---
 title: Best Short Scale Electric Guitars
 description: If you are a kid, a player with petite hands or a traveler wishing to play the guitar - the best short scale electric guitars more playable. It has a shorter...
 slug: /best-short-scale-electric-guitars/
@@ -14,9 +14,9 @@ tags:
 layout: post
 ---
 
-If you are a kid, a player with petite hands or a traveler wishing to play the [guitar](https: //pestpolicy. com/best-acoustic-guitar-under-1000/) - the [best](https: //pestpolicy. com/best-acoustic-guitars-under-200/) short scale electric guitars more playable.
+If you are a kid, a player with petite hands or a traveler wishing to play the [guitar](https://pestpolicy.com/best-acoustic-guitar-under-1000/) - the [best](https://pestpolicy.com/best-acoustic-guitars-under-200/) short scale electric guitars more playable.
 
-It has a shorter distance between nut and bridge (in the 22 inches - 24 inches). Frets are closer together like in the 1958s [Capri series](https: //reverb. com/p/rickenbacker-360-capri-1958-1960). But, Just like in full-scale guitars, consider durability, sound quality, & reliability. Related: 7 Best Mics for Recording Acoustic Guitar
+It has a shorter distance between nut and bridge (in the 22 inches - 24 inches). Frets are closer together like in the 1958s [Capri series](https://reverb.com/p/rickenbacker-360-capri-1958-1960). But, Just like in full-scale guitars, consider durability, sound quality, & reliability. Related: 7 Best Mics for Recording Acoustic Guitar
 
 ##  Reviews: 7 Best Short Scale Electric Guitars 2025
 
@@ -62,8 +62,9 @@ Compared to the earlier G-400 series, I noted that this G-400 Pro is more lightw
 
 Notable features (again) are coil-tapping, versatile pickups, aesthetic looks, and better hardware.
 
-In addition, for faster attack and tighter low-end, the guitar has alnico 5s magnets. Overall, this Epiphones G-400 PRO comes with key upgrades from the previous model. Notable features (again) are coil-tapping, versatile pickups, aesthetic looks, and better hardware. Read Also: [DJ Headphones](https: //pestpolicy. com/best-dj-headphones/)
+In addition, for faster attack and tighter low-end, the guitar has alnico 5s magnets. Overall, this Epiphones G-400 PRO comes with key upgrades from the previous model. Notable features (again) are coil-tapping, versatile pickups, aesthetic looks, and better hardware. Read Also: [DJ Headphones](https://pestpolicy.com/best-dj-headphones/)
 
 ##  Conclusion
 
 Why short scale electric guitars - portability, comfort, sound, and string tension. It has a 4-piece mahogany build that has Wilkinson 14: 1 tuner and 500k O pots that have superior quality.
+

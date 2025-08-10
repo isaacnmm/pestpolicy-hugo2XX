@@ -1,4 +1,4 @@
----
+﻿---
 title: Do Anole Lizards Bite
 description: Anole lizards, often referred to as "Anoles," are common in many households and outdoor environments. Known for their vibrant colors and territorial...
 slug: /do-anole-lizards-bite/
@@ -49,3 +49,4 @@ If an anole does bite, it is generally not a cause for concern. Clean the bite a
 ###  Conclusion
 
 Anole lizards do have the ability to bite, but it is rare and typically happens in self-defense. If you avoid handling them too roughly and respect their space, bites are unlikely to occur. If bitten, the bite is usually harmless and can be treated easily. These fascinating reptiles are mostly non-aggressive, and with proper care, they can make great pets without posing a risk to humans.
+

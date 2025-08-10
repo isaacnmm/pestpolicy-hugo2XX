@@ -1,4 +1,4 @@
----
+﻿---
 title: What Do Bed Bugs Look Like
 description: On the question, what do bed bugs look like? Bed bugs are wingless, oval-shaped, flat, and small-bodied bugs - adults have wing vestiges the wing pads - but...
 slug: /what-do-bed-bugs-look-like/
@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 
-On the question, what do bed bugs look like? Bed bugs are wingless, oval-shaped, flat, and small-bodied bugs - adults have wing vestiges (the wing pads) - but [bed bugs can't fly](https: //pestpolicy. com/do-[bed-bugs](https: //pestpolicy. com/bed-bug-bites-vs-mosquito-bites/)-fly/). - **The brown-colored or orange adult [bed](https: //pestpolicy. com/bed-bug-bites-vs-other-bites/) bug tends to turn red once they suck blood.
+On the question, what do bed bugs look like? Bed bugs are wingless, oval-shaped, flat, and small-bodied bugs - adults have wing vestiges (the wing pads) - but [bed bugs can't fly](https://pestpolicy.com/do-[bed-bugs](https://pestpolicy.com/bed-bug-bites-vs-mosquito-bites/)-fly/). - **The brown-colored or orange adult [bed](https://pestpolicy.com/bed-bug-bites-vs-other-bites/) bug tends to turn red once they suck blood.
 
 On size, they're about 4 - 5 mm (or 3/16 an inch) - and they somehow slow.
 
@@ -39,7 +39,7 @@ They find humans through the CO2 smell from their respiration.
 
 ##  Signs or Indicators of Bed Bug Problems
 
-Below are the key indicators of the bed bug problems you'll get in your spaces. **1. Bed Bug Bites** -Bed bug bites may be [confused with mosquito bites](https: //pestpolicy. com/bed-bug-bites-vs-mosquito-bites/). Bed bugs will bite humans on multiple sites that are close together - this differentiates them from mosquito bites. - Bed bug bites mainly happen on exposed skin - especially on the shoulders, arms, necks, and upper body.
+Below are the key indicators of the bed bug problems you'll get in your spaces. **1. Bed Bug Bites** -Bed bug bites may be [confused with mosquito bites](https://pestpolicy.com/bed-bug-bites-vs-mosquito-bites/). Bed bugs will bite humans on multiple sites that are close together - this differentiates them from mosquito bites. - Bed bug bites mainly happen on exposed skin - especially on the shoulders, arms, necks, and upper body.
 
 - When bitten, you'll experience swelling, red welts, or itching - but it might not be obvious for some people or for several days. **2. Fecal stains ** - Bed bugs can also become evident when you notice their excrement (or fecal stains) - they'll appear brown, black, or red - mounds or stains. - The black feces that create stains are mainly digested blood - and will dry to create that raised spot.
 
@@ -86,3 +86,4 @@ Anti-itch Cream** - First wash the bite areas with some water + soap - this redu
 ##  Conclusion
 
 In summary, adult bed bugs will be oval-or flat-shaped but small and wingless (have wing pads, however) with a 4 to 5 mm length. - The brown-colored bugs will turn orange or red as they feed on blood - they're visible with most naked eyes while the nymphs may not be visible.
+

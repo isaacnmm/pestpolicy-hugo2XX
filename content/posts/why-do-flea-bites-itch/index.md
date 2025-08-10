@@ -1,4 +1,4 @@
----
+﻿---
 title: Why Do Flea Bites Itch
 description: The legs of fleas have strong claws and proboscis tiny needles that'll help the pest bite the skin of the hosts such as cats, dogs , and even humans. Why do...
 slug: /why-do-flea-bites-itch/
@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 
-The legs of [fleas](https: //pestpolicy. com/can-fleas-bite-through-clothes/) have strong claws and proboscis (tiny needles) that'll help the pest bite the skin of the hosts such as cats, dogs, and even humans. **Why do [flea](https: //pestpolicy. com/do-fleas-bite-humans/) bites itch? Well, fleas will bite humans and pets where they'll secrete some saliva into the blood - which the host's body and blood take as an allergen.
+The legs of [fleas](https://pestpolicy.com/can-fleas-bite-through-clothes/) have strong claws and proboscis (tiny needles) that'll help the pest bite the skin of the hosts such as cats, dogs, and even humans. **Why do [flea](https://pestpolicy.com/do-fleas-bite-humans/) bites itch? Well, fleas will bite humans and pets where they'll secrete some saliva into the blood - which the host's body and blood take as an allergen.
 
 ** **The immune system will send histamine to counter the allergen (flea saliva) and thus the chemical triggers itching and swelling. **
 
@@ -69,8 +69,9 @@ You can stop flea bites on both humans and pets using a combination of technique
 
 Wash Pet bedding** - Next, you can prevent flea bites by cleaning the spaces that act as their rearing ground - this includes the pet bedding. - Thus, the fleas will be cleaned from the bed bedding and thus won't bite pets or get to you or other pets that they can bite. - Ensure that the pet bedding is adequately cleaned and dried using the heat setting being at its highest - disposing of the allowable temperature for the fabric. **3.
 
-Flea Shampoo ** - Further, you can flea comb your pets including brushing the fleas' fur as this helps remove fleas. - Also, use someflea shampoo on your petsbut avoid the mouth & eyes. Read Also: [Collar for Dogs](https: //pestpolicy. com/best-flea-collar-for-dogs/)
+Flea Shampoo ** - Further, you can flea comb your pets including brushing the fleas' fur as this helps remove fleas. - Also, use someflea shampoo on your petsbut avoid the mouth & eyes. Read Also: [Collar for Dogs](https://pestpolicy.com/best-flea-collar-for-dogs/)
 
 ##  Conclusion
 
 Fleas will be attracted to your spaces (and bite you or your pets) by a number of factors such as vibrations, movement, breathing (CO2 - carbon dioxide), and body heat.
+

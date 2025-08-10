@@ -1,4 +1,4 @@
----
+﻿---
 title: Healthy Pets Rodent Control
 description: Keeping your pets healthy is a top priority for any pet owner. However, sometimes pests like rodents can become a threat to both your home and your pets.
 slug: /healthy-pets-rodent-control/
@@ -14,7 +14,7 @@ tags:
 layout: post
 ---
 
-Keeping your pets healthy is a top priority for any [pet](https: //pestpolicy. com/pet-lizards-that-look-like-dragons/) owner. However, sometimes pests like rodents can become a threat to both your home and your pets. [Rodent](https: //pestpolicy. com/rodent-control-in-puyallup/) infestations can lead to health risks for pets, including the spread of diseases, parasites, and even injury from trapped rodents.
+Keeping your pets healthy is a top priority for any [pet](https://pestpolicy.com/pet-lizards-that-look-like-dragons/) owner. However, sometimes pests like rodents can become a threat to both your home and your pets. [Rodent](https://pestpolicy.com/rodent-control-in-puyallup/) infestations can lead to health risks for pets, including the spread of diseases, parasites, and even injury from trapped rodents.
 
 Effective rodent control not only protects your pets but also helps maintain a clean and safe living environment. In this article, well explore how to keep your pets safe and healthy by controlling rodent populations in and around your home.
 
@@ -65,3 +65,4 @@ If you need to use rodent control products, look for ones that are specifically 
 Rodent control is crucial for the health and safety of your pets. By taking proactive steps such as sealing entry points, using pet-safe traps, and keeping your home clean, you can effectively manage rodent populations while minimizing risks to your pets. Always prioritize your pets well-being when choosing rodent control methods, and be sure to consult your veterinarian if you notice any health issues related to rodent exposure.
 
 With the right precautions in place, you can create a safe, pest-free environment for both you and your pets.
+

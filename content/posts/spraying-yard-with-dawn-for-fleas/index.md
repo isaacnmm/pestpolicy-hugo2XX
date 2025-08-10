@@ -1,4 +1,4 @@
----
+﻿---
 title: Spraying Yard With Dawn for Fleas
 description: My brother and I are neighbors and we have lawns that are green and well-manicured. So we are always worried about the idea of pests like fleas taking over...
 slug: /spraying-yard-with-dawn-for-fleas/
@@ -15,9 +15,7 @@ tags:
 layout: post
 ---
 
-My brother and I are neighbors and we have lawns that are green and well-manicured. So we are always worried about the idea of pests like [fleas](https: //pestpolicy. com/dawn-dish-soap-for-fleas/) taking over the yards. So, on the question of spraying the [yard](https: //pestpolicy. com/how-to-treat-fleas-in-the-yard/) with dawn for fleas, I note that spraying [dawn dish soap](https: //pestpolicy.
-
-com/dawn-dish-soap-for-fleas/) might be all thats required to eliminate those fleas from your yard.
+My brother and I are neighbors and we have lawns that are green and well-manicured. So we are always worried about the idea of pests like [fleas](https://pestpolicy.com/dawn-dish-soap-for-fleas/) taking over the yards. So, on the question of spraying the [yard](https://pestpolicy.com/how-to-treat-fleas-in-the-yard/) with dawn for fleas, I note that spraying [dawn dish soap](https://pestpolicy.com/dawn-dish-soap-for-fleas/) might be all thats required to eliminate those fleas from your yard.
 
 So just mix dish soap (1 ounce) with water in a garden sprayer and spray. *I recommend that you repeat the spraying using a similar dawn dish soap solution every 10 to 12 days so that we exterminate all the fluids that could have survived and arents hatched yet. * Despite that dish soap is an effective technique for controlling fleas there are other effective methods you can use to remove the bugs from your yard. 1.
 
@@ -72,3 +70,4 @@ First I note that this hope is an easy-to-use and cheap DIY remedy for killing f
 You can't remove fleas from your yard or garden using natural solutions like diatomaceous earth and nematodes without harming your pets like cats & dogs. - I can also recommend that you insure the yard is always trimmed neatly as these will help keep the pests away.
 
 However, Dawn dish soap is also an effective remedy that you can use to remove the fleas from your yard despite that it is less effective compared to other chemical remedies such as IGR yard flea sprays.
+

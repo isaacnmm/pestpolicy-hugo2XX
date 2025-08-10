@@ -1,4 +1,4 @@
----
+﻿---
 title: What Do Bearded Dragons Eat
 description: What do bearded dragons eat? For a healthy life, it is important to feed your bearded dragon with a proper balanced diet.
 slug: /what-do-bearded-dragons-eat/
@@ -71,9 +71,7 @@ Ensure that green or red cabbages are thoroughly washed (to remove harmful chemi
 
 ####  **b. Sweet potatoes**
 
-Normally, bearded dragons dont eat raw sweet potatoes. They may feed on peels, but occasionally. Actually, raw sweet potatoes are great challenge to chewing as most beardies swallow food as a whole. However, these lizards will eat mashed or cooked sweet potatoes. You can also supplement your beardies main meal with sweet potatoes vines, which should be chopped well. But [bearded dragons can also eat carrots](https: //pestpolicy.
-
-com/can-bearded-dragons-eat-carrots/).
+Normally, bearded dragons dont eat raw sweet potatoes. They may feed on peels, but occasionally. Actually, raw sweet potatoes are great challenge to chewing as most beardies swallow food as a whole. However, these lizards will eat mashed or cooked sweet potatoes. You can also supplement your beardies main meal with sweet potatoes vines, which should be chopped well. But [bearded dragons can also eat carrots](https://pestpolicy.com/can-bearded-dragons-eat-carrots/).
 
 The relative level of calcium to phosphorous ratio (1: 1. 56) make it inappropriate to use sweet potatoes as daily meal. Sweet potatoes vines have rich fiber networks that help in preventing constipation.
 
@@ -131,11 +129,11 @@ Lighting insects** All insect that glow (produces light) such as fireflies shoul
 
 ###  1. Oranges
 
-[Oranges](https: //pestpolicy. com/can-bearded-dragons-eat-oranges/)
+[Oranges](https://pestpolicy.com/can-bearded-dragons-eat-oranges/)
 
 ###  2. Onions
 
-[Onions? ](https: //pestpolicy. com/can-bearded-dragons-eat-onions/)
+[Onions? ](https://pestpolicy.com/can-bearded-dragons-eat-onions/)
 
 ##  What do Baby Bearded Dragons eat?
 
@@ -165,4 +163,5 @@ Importantly, do not overfeed your dragon as they end up being docile.
 
 ##  Sources:
 
-1. [Your Weekly How To: How We Care For a Colony of Bearded Dragons](https: //vetmed. illinois. edu/wel/your-weekly-how-to-how-we-care-for-a-colony-of-bearded-dragons/)
+1. [Your Weekly How To: How We Care For a Colony of Bearded Dragons](https://vetmed.illinois. edu/wel/your-weekly-how-to-how-we-care-for-a-colony-of-bearded-dragons/)
+

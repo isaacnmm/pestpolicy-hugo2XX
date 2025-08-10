@@ -1,0 +1,6 @@
+Start building sites … 
+hugo v0.147.9-29bdbde19c288d190e889294a862103c6efb70bf+extended windows/amd64 BuildDate=2025-06-23T08:22:20Z VendorInfo=gohugoio
+
+Total in 12669 ms
+Error: error building site: process: readAndProcessContent: "C:\My Hugo Sites\pestpolicy-hugo2XX\content\posts\best-flea-trap\index.md:23:186": unterminated quoted string in shortcode parameter-argument: 'Tired of fleas? A plug-in flea trap is a non-toxic secret weapon. I've tested the top models to find the ones that actually work. See my honest reviews and find the best trap for your home!
+'

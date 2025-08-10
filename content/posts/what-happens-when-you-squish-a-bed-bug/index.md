@@ -1,4 +1,4 @@
----
+﻿---
 title: What Happens When You Squish a Bed Bug
 description: I answer this question what happens when you squish a bed bug ? A dead bed bug is the only guarantee that you've won the war against the bugs.
 slug: /what-happens-when-you-squish-a-bed-bug/
@@ -49,7 +49,7 @@ If not, you can clean the material to remove the bloodstain, as shown below: - F
 
 ##  Do Bed Bugs Smell When Squashed?
 
-Bed bugs will smell around to realize what's in the surrounding. For example, [bed bugs will sense the human skin's smell and hide](https: //pestpolicy. com/where-do-bed-bugs-hide/) under the mattress - you'll feel the strong, pungent odor. The bugs have alarm pheromones, ' particularly when they are exposed or sense some danger. This mainly happens when the mattress is flipped - to avoid being eaten or caught.
+Bed bugs will smell around to realize what's in the surrounding. For example, [bed bugs will sense the human skin's smell and hide](https://pestpolicy.com/where-do-bed-bugs-hide/) under the mattress - you'll feel the strong, pungent odor. The bugs have alarm pheromones, ' particularly when they are exposed or sense some danger. This mainly happens when the mattress is flipped - to avoid being eaten or caught.
 
 Other smells like moldy and coriander in clothes will also attract the bed bugs.
 
@@ -63,9 +63,9 @@ So, here's the bugs; flies, mites, lice, ticks, midges, mosquito, and fleas-chec
 
 ##  Bugs that Can Be Mistaken for Bed Bugs
 
-For effective bed bug control, appropriate identification of the bugs is a requirement. Several bugs have a similar small size, and insectoid look like bed bugs. Bed bugs' body measures about the size of an apple seed and its non-segmented with a characteristic pale-brown or red-brown appearance, but you can [see them with your naked eye](https: //pestpolicy. com/can-you-see-bed-bugs/). So, here're the bugs that you may mistake for bed bugs?
+For effective bed bug control, appropriate identification of the bugs is a requirement. Several bugs have a similar small size, and insectoid look like bed bugs. Bed bugs' body measures about the size of an apple seed and its non-segmented with a characteristic pale-brown or red-brown appearance, but you can [see them with your naked eye](https://pestpolicy.com/can-you-see-bed-bugs/). So, here're the bugs that you may mistake for bed bugs?
 
-- these include Booklice, Bat Bugs, and Carpet Beetles. 1. **Cockroach Nymphs** - They are bright-white colored (3mm in length) but will darken and harden in a short while - including nymphs by German cockroaches found in dark crevices and cracks. 2. **Fleas** - Fleas are reddish-brown with round heads and long legs. You'll find the [cat fleas](https: //en. wikipedia. org/wiki/Cat_flea) when combing the cats. They'll be difficult to catch.
+- these include Booklice, Bat Bugs, and Carpet Beetles. 1. **Cockroach Nymphs** - They are bright-white colored (3mm in length) but will darken and harden in a short while - including nymphs by German cockroaches found in dark crevices and cracks. 2. **Fleas** - Fleas are reddish-brown with round heads and long legs. You'll find the [cat fleas](https://en.wikipedia. org/wiki/Cat_flea) when combing the cats. They'll be difficult to catch.
 
 They can jump - and hence a flat and long body (1/8 inch).
 
@@ -73,8 +73,9 @@ They can jump - and hence a flat and long body (1/8 inch).
 
 You'll find the swallow bugs in cliff swallow nests and barn or other human structures - they could also bite humans. 5.
 
-**Ticks** - If you have cats and tend to sit around in outdoor spaces - ticks could invade and bite you and other humans. Ticks may cause [Ehrlichiosis](https: //www. mayoclinic. org/diseases-conditions/ehrlichiosis/symptoms-causes/syc-20372142) andLyme Disease. They'll mainly glue to dense woods, tall grass, shrubs, and leaves. For protection, put on protective clothing like and tuck the pant legs plus avoid tick-infested areas.
+**Ticks** - If you have cats and tend to sit around in outdoor spaces - ticks could invade and bite you and other humans. Ticks may cause [Ehrlichiosis](https://www.mayoclinic. org/diseases-conditions/ehrlichiosis/symptoms-causes/syc-20372142) andLyme Disease. They'll mainly glue to dense woods, tall grass, shrubs, and leaves. For protection, put on protective clothing like and tuck the pant legs plus avoid tick-infested areas.
 
 ##  Conclusion
 
-Bed bug eggs will be cemented into the crevices and cracks using glue-like substances, including inside wood and fabric. Therefore, it'll be difficult to pick or squash the bed bugs. Squashing the bed bugs will work great when you do it on the location where they're laid. Pinch the eggs using some tissue paper. So, [spray the bugs](https: //pestpolicy. com/best-bed-bug-spray/) as it'll be more effective than squashing.
+Bed bug eggs will be cemented into the crevices and cracks using glue-like substances, including inside wood and fabric. Therefore, it'll be difficult to pick or squash the bed bugs. Squashing the bed bugs will work great when you do it on the location where they're laid. Pinch the eggs using some tissue paper. So, [spray the bugs](https://pestpolicy.com/best-bed-bug-spray/) as it'll be more effective than squashing.
+

@@ -1,4 +1,4 @@
----
+﻿---
 title: Tree Trimming
 description: Trees are living assets that enhance the beauty, value, and ecological health of our properties. To ensure their longevity, vitality, and safety, regular...
 slug: /tree-trimming/
@@ -114,3 +114,4 @@ Safety is paramount when working with trees.
 Tree trimming is an essential practice that contributes significantly to the health, safety, and aesthetic appeal of your landscape. While minor tasks can be a manageable DIY project, understanding the critical difference between appropriate home pruning and complex arboricultural work is crucial.
 
 By adhering to proper techniques, prioritizing safety, and knowing when to call in the experts, you can ensure your trees remain vibrant, strong, and beautiful contributors to your property for many years to come.
+

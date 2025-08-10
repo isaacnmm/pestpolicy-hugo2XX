@@ -1,4 +1,4 @@
----
+﻿---
 title: How Long Does It Take to Break the Flea Life Cycle
 description: By breaking the flea life cycle, you will not only prevent further growth but also terminate breeding progress from that particular stage i.e.
 slug: /how-long-does-it-take-to-break-the-flea-life-cycle/
@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 
-By breaking the flea life [cycle](https: //pestpolicy. com/flea-life-cycle/), you will not only prevent further growth but also terminate breeding progress from that particular stage; i. e. eggs, larvae, pupae, and adults.
+By breaking the flea life [cycle](https://pestpolicy.com/flea-life-cycle/), you will not only prevent further growth but also terminate breeding progress from that particular stage; i. e. eggs, larvae, pupae, and adults.
 
 - **On how long does it take to break the flea life cycle; the simple answer is about 1 to 6 months; for the different stages, this is how long it'll take to break the flea cycle; egg stage break period (10-18 days), larvae stage break period (2 to 3 months), pupae stage break period (4 months. ), adult stage break (5 months).
 
@@ -61,7 +61,7 @@ The flea pupae stage takes about 2 to 3 weeks to mature into an adult. However, 
 
 - NB: Always be keen once you eliminate flea pupa since most play dead but later rise to life.
 
-Normally, you should [vacuum your home or furniture thoroughly](https: //pestpolicy. com/how-to-get-rid-of-fleas-in-the-house-fast/) after steam cleaning - helps pick up dead and live pupae too. The vacuumed waste should be burnt sufficiently during disposal.
+Normally, you should [vacuum your home or furniture thoroughly](https://pestpolicy.com/how-to-get-rid-of-fleas-in-the-house-fast/) after steam cleaning - helps pick up dead and live pupae too. The vacuumed waste should be burnt sufficiently during disposal.
 
 ###  d. Adult Stage Break Period
 
@@ -71,7 +71,7 @@ Adult fleas can live for 6 to 12 months, especially when there is plenty of bloo
 
 Superheated steam (above 100 degrees) kills adult fleas completely.
 
-You can opt to soak fleas infested items in soapy water too - the fleas are suffocated to death. The process of breaking the adult flea life cycle should be undertaken weekly for about 5 months case of large flea infestation. Keen monitoring should also be carried out after the breaking period to assess any future re-infestation. Related: [Home Remedies for Fleas](https: //pestpolicy. com/home-remedies-for-fleas/)
+You can opt to soak fleas infested items in soapy water too - the fleas are suffocated to death. The process of breaking the adult flea life cycle should be undertaken weekly for about 5 months case of large flea infestation. Keen monitoring should also be carried out after the breaking period to assess any future re-infestation. Related: [Home Remedies for Fleas](https://pestpolicy.com/home-remedies-for-fleas/)
 
 ###  e. Entire Life Cycle Break Period
 
@@ -152,3 +152,4 @@ In summary, on how long does it take to break the flea life cycle, the direct an
 You can opt to break flea at a specific stage depending on the termination method you select. - Though each stage may be broken independently, the elimination time needed may vary from one stage to another. In addition, opting for a method that kills the entire flea life cycle would be the best choice.
 
 When undertaking fleas' life cycle breaking process, it's wise if you identify the size of the infestation, type of infested items (is it pets, human, or furniture), prevailing weather conditions, and possible source of infestation. More so, go for the flea termination method that's environmentally friendly and safe for both humans & pets.
+

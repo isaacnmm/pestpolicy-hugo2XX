@@ -1,4 +1,4 @@
----
+﻿---
 title: Do Flying Termites Eat Wood
 description: If you have seen flying termites around your home, you probably have a lot of questions in mind. - Do flying termites eat wood?
 slug: /do-flying-termites-eat-wood/
@@ -25,7 +25,7 @@ Flying termites are part of the termites life cycle and part of the larger insec
 
 The antennae are straight with a 3/8 inch long body that can reach even inch wide. - There are 3 major species of the alates that include subterranean termites, damp wood, and Formosan termites. - From the 3 species, Formosan alates cause more destruction than other species. Dampwood alates are also known to destroy anything woody including furniture, books, and rotting pieces of wood.
 
-Therefore, every time you see flying termites, you need to raise an alarm over an incoming or an already existing infestation in your home. Related: [Subterranean Termites Treatment](https: //pestpolicy. com/subterranean-termites-treatment/)
+Therefore, every time you see flying termites, you need to raise an alarm over an incoming or an already existing infestation in your home. Related: [Subterranean Termites Treatment](https://pestpolicy.com/subterranean-termites-treatment/)
 
 ##  **Where can you Find the F****lying Termites?**
 
@@ -41,7 +41,7 @@ Use window shields to prevent these termites and other insects from getting into
 
 ##  **How Long Do Flying Termites Live?**
 
-Flying termites dont survive for long in this nature. - It takes approximately 1 hour as they mate and drop off their wings to look for nests where they can reproduce. The maximum they can take in this state is 2 hours. Related: [Conduct Termite Inspection](https: //pestpolicy. com/termite-inspection-cost/)
+Flying termites dont survive for long in this nature. - It takes approximately 1 hour as they mate and drop off their wings to look for nests where they can reproduce. The maximum they can take in this state is 2 hours. Related: [Conduct Termite Inspection](https://pestpolicy.com/termite-inspection-cost/)
 
 ##  **Flying Termites In The House-What Should I Do?**
 
@@ -55,7 +55,7 @@ Turning off the lights also helps control those that are attracted to light. If 
 
 If you have noticed these flying termites, its a signal that you need to take action against insect control in your area. - It is an indication that the termites have been hiding in your vicinity and are now going to multiply even more. - Flying termites are actually hard to control because they appear within a very short time and quickly disappear into their nests after mating.
 
-The queen is also very much protected and killing it is hard making it impossible to control the rest of the termites. It will continue laying eggs and releasing more termites into your house. Using pest control products may work but a [professional pest control expert](https: //pestpolicy. com/termite-fumigation/) will do a much better job in eliminating them
+The queen is also very much protected and killing it is hard making it impossible to control the rest of the termites. It will continue laying eggs and releasing more termites into your house. Using pest control products may work but a [professional pest control expert](https://pestpolicy.com/termite-fumigation/) will do a much better job in eliminating them
 
 ##  Conclusion
 
@@ -64,3 +64,4 @@ Do flying termites eat wood? No, they dont but they are indications of more dest
 Expect different flying termites to come out in different seasons depending on their species.
 
 They are also attracted to different things depending on their species i. e. artificial light, damp wood among others. That said and done, there are many available means to control the termites invasion. However, the best option remains engaging experts in pest control for the complete elimination of the termites in your home.
+

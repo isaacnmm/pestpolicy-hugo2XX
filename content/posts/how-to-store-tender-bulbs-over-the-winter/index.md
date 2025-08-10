@@ -1,4 +1,4 @@
----
+﻿---
 title: How to Store Tender Bulbs Over the Winter
 description: For gardeners in temperate climates, the vivid displays of Dahlias, Gladiolus, Cannas, and Begonias are highlights of the summer garden.
 slug: /how-to-store-tender-bulbs-over-the-winter/
@@ -82,3 +82,4 @@ The storage medium helps regulate this.
 The effort invested in lifting and storing tender bulbs over winter is a small price to pay for the magnificent floral spectacle they provide season after season. This process ensures the longevity of your plants, protects your gardening investment, and offers the delightful anticipation of their grand re-emergence in the warmth of summer.
 
 By understanding the critical steps of careful digging, thorough curing, and proper storage in a cool, dry, and aerated environment, you can confidently preserve your precious blooms. Embrace this essential winter ritual, and your garden will continue to burst with the vibrant colors of Dahlias, Gladiolus, and other tender favorites year after glorious year.
+

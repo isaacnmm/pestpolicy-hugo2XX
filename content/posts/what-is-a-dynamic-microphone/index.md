@@ -1,4 +1,4 @@
----
+﻿---
 title: What is a Dynamic Microphone
 description: So,what is a dynamic microphonehttpspestpolicy.combest-dynamic-microphone ? First, it's important to note that microphones work on the electromagnetic...
 slug: /what-is-a-dynamic-microphone/
@@ -15,9 +15,9 @@ tags:
 layout: post
 ---
 
-So, what is a [[dynamic](https: //pestpolicy. com/best-dynamic-microphone-for-podcasting/) [microphone](https: //pestpolicy. com/best-dynamic-microphone-for-streaming/)](https: //pestpolicy. com/best-dynamic-microphone/)? First, it's important to note that [microphones](https: //pestpolicy. com/types-of-microphones/) work on the electromagnetic principle through a diaphragm that's affixed to the wire coil.
+So, what is a [[dynamic](https://pestpolicy.com/best-dynamic-microphone-for-podcasting/) [microphone](https://pestpolicy.com/best-dynamic-microphone-for-streaming/)](https://pestpolicy.com/best-dynamic-microphone/)? First, it's important to note that [microphones](https://pestpolicy.com/types-of-microphones/) work on the electromagnetic principle through a diaphragm that's affixed to the wire coil.
 
-For the mic microphones, their sound waves will hit the diaphragm (metallic) that's attached to the wire coil. The diaphragm will vibrate making the magnet(the metallic coil) to create a magnetic field. The coil's motion in this magnetic field helps create an electrical signal that matches the sound which is picked - this is a theory referred to as [electromagnetic induction](https: //www. bbc. co. uk/bitesize/guides/z8c7pbk/revision/4).
+For the mic microphones, their sound waves will hit the diaphragm (metallic) that's attached to the wire coil. The diaphragm will vibrate making the magnet(the metallic coil) to create a magnetic field. The coil's motion in this magnetic field helps create an electrical signal that matches the sound which is picked - this is a theory referred to as [electromagnetic induction](https://www.bbc. co. uk/bitesize/guides/z8c7pbk/revision/4).
 
 ##  What is a Dynamic Microphone?
 
@@ -62,3 +62,4 @@ Therefore, condenser microphones will have superior frequency response and some 
 ##  Conclusion
 
 Dynamic mics have numerous applications since they give you great sound but equally rugged to allow easy road traveling. So, there you have it on the "what is a dynamic microphone? " I've also compared dynamic vs condenser microphones.
+

@@ -1,4 +1,4 @@
----
+﻿---
 title: Are Butterfly Bushes Bad for Butterflies
 description: The common butterfly bush, Buddleja davidii, is a popular garden shrub renowned for its abundant, fragrant flowers that undeniably attract a multitude of...
 slug: /are-butterfly-bushes-bad-for-butterflies/
@@ -17,7 +17,7 @@ layout: post
 
 The common butterfly bush, *Buddleja davidii*, is a popular garden shrub renowned for its abundant, fragrant flowers that undeniably attract a multitude of butterflies. Its vibrant blooms, often in shades of purple, pink, and white, seem to promise a haven for these delicate pollinators, making it a staple in many pollinator gardens.
 
-However, beneath this seemingly beneficial facade lies a complex ecological issue that has led many environmentalists and even some butterfly enthusiasts to question: **[Are](https: //pestpolicy. com/are-pre-emergent-weed-preventers-safe-around-bulbs/) butterfly bushes actually bad for butterflies? **
+However, beneath this seemingly beneficial facade lies a complex ecological issue that has led many environmentalists and even some butterfly enthusiasts to question: **[Are](https://pestpolicy.com/are-pre-emergent-weed-preventers-safe-around-bulbs/) butterfly bushes actually bad for butterflies? **
 
 The answer, like many things in ecology, isn't a simple yes or no. While butterfly bushes do provide nectar, their non-native, invasive tendencies and lack of support for the complete butterfly life cycle raise significant concerns. Understanding these nuances is crucial for gardeners aiming to create truly beneficial and sustainable pollinator habitats.
 
@@ -106,3 +106,4 @@ While the common butterfly bush (*Buddleja davidii*) is undeniably attractive to
 By choosing native plants that provide both essential nectar for adult butterflies and specific host plants for their caterpillars, and by implementing responsible gardening practices like succession planting and invasive species management, gardeners can cultivate landscapes that are genuinely beneficial for pollinators and contribute to a healthier, more biodiverse environment.
 
 Opt for sterile varieties if you must grow *Buddleja*, but ideally, fill your garden with the vibrant, life-sustaining native flora that truly sustains our cherished butterflies from egg to adult.
+

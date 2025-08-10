@@ -1,4 +1,4 @@
----
+﻿---
 title: Best Paints for Stucco
 description: Harsh weather is disastrous on your stucco but acquiring the best paints-used-for for stucco could reverse the situation and not maintain the natural look of...
 slug: /best-paints-for-stucco/
@@ -65,7 +65,7 @@ Cons: - Susceptible to scratching and flaking
 
 KILZ has been over the years been known to produce premium paints this being one of them.
 
-Designed with good hide, this paint does well in hiding [imperfections on concrete](https: //pestpolicy. com/best-paint-stripper-for-concrete/), bricks, stucco, tiles among others. This paint has the ability to resist mildew and molds and water and therefore good on exterior and interior surfaces. The strong adhesion of this paint makes it stick on most surfaces. A roller, a brush, or a sprayer, can be used to apply this paint with minimum ease.
+Designed with good hide, this paint does well in hiding [imperfections on concrete](https://pestpolicy.com/best-paint-stripper-for-concrete/), bricks, stucco, tiles among others. This paint has the ability to resist mildew and molds and water and therefore good on exterior and interior surfaces. The strong adhesion of this paint makes it stick on most surfaces. A roller, a brush, or a sprayer, can be used to apply this paint with minimum ease.
 
 It has good coverage and a gallon covers 250-400 square feet depending on the texture of the surface. The fast to dry within 30 minutes but in the case of a second coat, it can only be done after 4 hours for better results. The paint is self-priming abilities but also remember to thoroughly clean the surface to be free from oil, grease, dust, polish and other dirt for excellent results.
 
@@ -87,7 +87,7 @@ Pros: - Combines primer and paint - Good for exterior and interior surfaces - Go
 
 Cons: - It is very thick
 
-> See Also: > [Garage Floor Containment Mats](https: //pestpolicy. com/best-garage-floor-containment-mats/)
+> See Also: > [Garage Floor Containment Mats](https://pestpolicy.com/best-garage-floor-containment-mats/)
 
 ###  [6. Romabio Masonry Textured Italian Mineral Paint, 15L/4GAL](https://www.amazon.com/dp/B07R86CX5T/?tag=p-policy-20)
 
@@ -117,8 +117,9 @@ Its coverage is awesome with one gallon covering 250-400 square ft. Pros: - Grea
 
 Cons: - Too thin
 
-> See Also: > [Painters Tape for Textured Walls](https: //pestpolicy. com/best-painters-tape-for-textured-walls/)
+> See Also: > [Painters Tape for Textured Walls](https://pestpolicy.com/best-painters-tape-for-textured-walls/)
 
 ##  Conclusion
 
 From the above listed best paints for stucco, I can conclude that KILZ Interior & Exterior Masonry Paint, Self-Priming. Tan is so far the top-ranking paint that is not only pocket friendly but also produces excellent results for your stucco and other surfaces.
+

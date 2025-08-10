@@ -1,4 +1,4 @@
----
+﻿---
 title: Best Fly Trap
 description: In this post, I've reviewed the best fly trap available. Besides carrying bacteria that can cause illnesses, flies have a constant buzzing annoying as well. -...
 slug: /best-fly-trap/
@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 
-In this post, I've [reviewed](https: //pestpolicy. com/best-gopher-traps/) the best fly [trap](https: //pestpolicy. com/best-silverfish-traps/) available. Besides carrying bacteria that can cause illnesses, flies have a constant buzzing annoying as well. - You want them away from your food and away from your kitchen.
+In this post, I've [reviewed](https://pestpolicy.com/best-gopher-traps/) the best fly [trap](https://pestpolicy.com/best-silverfish-traps/) available. Besides carrying bacteria that can cause illnesses, flies have a constant buzzing annoying as well. - You want them away from your food and away from your kitchen.
 
 It is almost impossible to keep them from invading your kitchen, and thats where insecticides and fly-killing devices come in handy. Let's get started!
 
@@ -45,7 +45,7 @@ Coming in a pack of 6 with each trap pod lasting up to 30 days, these fruit fly 
 
 The trap is designed so that the solution doesnt leak out even if the trap is turned upside down or dropped. Do not use the Beapco fly trap for outdoor purposes. The traps should be disposed of after every 30 days and new ones set up until your fly problem is taken care of. The trap is known to have an amazing number of captures and is recommended by home care specialists as the perfect fly solution.
 
-Examine the outlined [homemade fruit fly traps](https: //pestpolicy. com/homemade-fruit-fly-trap/).
+Examine the outlined [homemade fruit fly traps](https://pestpolicy.com/homemade-fruit-fly-trap/).
 
 ##  [4. Gardner FLY WEB FLY TRAP](https://www.amazon.com/dp/B0006OIZN4/?tag=p-policy-20)
 
@@ -58,3 +58,4 @@ However, you will have to seal the trap properly as the liquid bait can leak out
 ##  Conclusion
 
 Flies dont have to be a bother when you can get a remedy for their infestations. Different fly traps work for different types of flies, so it is essential to know which kind of fly you are dealing with before settling on a given remedy.
+

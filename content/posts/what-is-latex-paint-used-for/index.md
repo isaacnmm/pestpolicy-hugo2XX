@@ -1,4 +1,4 @@
----
+﻿---
 title: What is Latex Paint Used for
 description: Various types of paints are manufactured in certain forms and concentrations in order to serve a given purpose. Perhaps you have come across latex in your...
 slug: /what-is-latex-paint-used-for/
@@ -14,7 +14,7 @@ tags:
 layout: post
 ---
 
-Various types of paints are manufactured in certain forms and concentrations in order to serve a given purpose. Perhaps you have come across [latex](https: //pestpolicy. com/how-to-remove-latex-paint-from-concrete/) in your place and wonder where its best used for. Can latex [paint](https: //pestpolicy. com/how-to-remove-latex-paint-from-metal/) be applied to concrete or furniture?
+Various types of paints are manufactured in certain forms and concentrations in order to serve a given purpose. Perhaps you have come across [latex](https://pestpolicy.com/how-to-remove-latex-paint-from-concrete/) in your place and wonder where its best used for. Can latex [paint](https://pestpolicy.com/how-to-remove-latex-paint-from-metal/) be applied to concrete or furniture?
 
 *So, what is latex paint used for? Latex paint can be used on surfaces such as concrete slabs, drywall, concrete blocks, prepped furniture/wood, interior finish, fiberglass surfaces, metallic surfaces, aluminum siding, masonry, art, and craft. * *However, the right concentration and proper procedure should be followed when applying latex paint to achieve the best final finish.
 
@@ -117,3 +117,4 @@ Furthermore, Recolor is simple to dilute and can be recycled or stored without l
 Latex paint is best used in surfaces such as drywall, metallic surface, aluminum siding, concrete slabs, wood, furniture, art, and craft. You can also use latex paint on fiberglass surfaces, finish interior work, furnish concrete block and composite material. However, proper procedure and paint selection is a vital step in achieving the best surface finish. Contrary, latex paint has several associated problems, as highlighted in this article.
 
 Therefore, appropriate painting measures should be carried out to maintain the initial stunning outlook in place.
+

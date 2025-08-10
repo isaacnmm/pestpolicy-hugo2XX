@@ -1,4 +1,4 @@
----
+﻿---
 title: How to Remove Dry Paint from Carpet
 description: You should match the carpet cleaning solvent with the type of stain under removal. Otherwise, you may end up destroying your carpet.
 slug: /how-to-remove-dry-paint-from-carpet/
@@ -62,7 +62,7 @@ Goo Gone is a commercial solvent that features natural active ingredients, which
 
 The tools and materials required; - Goo Gone you can get it from Amazon - Dish soap and an empty bucket - Waterpoint and piece of cloth - Spray bottle and utility knife *Steps to Follow* - Using Goo Gone, spray over dried paint sufficiently - Leavethe paint to quenchfor 5 minutes or otherwise advised by the manufacturer - Using a utility knife, remove cured paint gently - Repeat the previous step until the entire paint is removed - Dilute Absolutely Clean Laundry and wash the paint cleaned section - Rinse the section with clean water and leave the carpet to dry over the sun - Alternatively, you can vacuum the cleaned section until the carpet is dry.
 
-> See Also: > [Remove Acrylic Paint from Canvas](https: //pestpolicy. com/how-to-remove-acrylic-paint-from-canvas/)
+> See Also: > [Remove Acrylic Paint from Canvas](https://pestpolicy.com/how-to-remove-acrylic-paint-from-canvas/)
 
 ##  Process of Cleaning Various Sections of Paint Stained Carpet
 
@@ -82,7 +82,7 @@ Dried paint stripping (from the carpet) is an approach undertaken when cleaning 
 
 Further, clean the cured carpet using a vacuum cleaner or a washing machine with soapy detergent.
 
-You can also opt to scrub the cured carpet (manually) with a brush until the entire paint is removed. Soft blister brush does an incredible job when cleaning prevents carpet damage. > See Also: > [Removing Paint from Metal Door](https: //pestpolicy. com/how-to-remove-paint-from-metal-door/)
+You can also opt to scrub the cured carpet (manually) with a brush until the entire paint is removed. Soft blister brush does an incredible job when cleaning prevents carpet damage. > See Also: > [Removing Paint from Metal Door](https://pestpolicy.com/how-to-remove-paint-from-metal-door/)
 
 ###  3. Finish Cleaning
 
@@ -98,7 +98,7 @@ In case you come into contact with paint stain removers, wash the section with p
 
 Always follow the manufacturers instruction when preparing your paint stain 8.
 
-If you are new to carpet paint cleaning, contract a professional to help you. > See Also: > [Removing Paint from Wood Trim](https: //pestpolicy. com/how-to-remove-paint-from-wood-trim/)
+If you are new to carpet paint cleaning, contract a professional to help you. > See Also: > [Removing Paint from Wood Trim](https://pestpolicy.com/how-to-remove-paint-from-wood-trim/)
 
 ##  Conclusion
 
@@ -107,3 +107,4 @@ In conclusion, on how to remove dry paint from a carpet, you can either use laun
 During the paint removal process, ensure the solvent is thinned or diluted appropriately (follow manufacturers instructions).
 
 Dont use highly concentrated paint removers as they may bleach your carpet. For your own personal safety, wear protective gear and stick to instructions/precautions highlighted in this article. Importantly, contract a professional paint remover if you are new to the carpet cleaning process.
+

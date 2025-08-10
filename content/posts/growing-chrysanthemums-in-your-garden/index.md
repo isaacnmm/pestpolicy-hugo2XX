@@ -1,4 +1,4 @@
----
+﻿---
 title: Growing Chrysanthemums in Your Garden
 description: As summer flowers fade and the days grow shorter, the garden can often feel a little forlorn. This is precisely when chrysanthemums, affectionately known as...
 slug: /growing-chrysanthemums-in-your-garden/
@@ -18,9 +18,7 @@ layout: post
 
 As summer flowers fade and the days grow shorter, the garden can often feel a little forlorn. This is precisely when chrysanthemums, affectionately known as "mums, " burst onto the scene, painting the landscape with an extraordinary array of colors and forms. These vibrant perennials are the quintessential autumn flower, providing a stunning burst of late-season color that can last well into the first hard frosts.
 
-From their origins in Asia, where they symbolize longevity and nobility, chrysanthemums have been cultivated for centuries, resulting in an incredible diversity of bloom types, sizes, and colors. While often bought as potted plants for temporary fall decor, many varieties are hardy enough to thrive in the garden year after year, transforming [your](https: //pestpolicy.
-
-com/how-can-you-tell-if-you-have-moles-in-your-yard/) autumn landscape into a spectacular display.
+From their origins in Asia, where they symbolize longevity and nobility, chrysanthemums have been cultivated for centuries, resulting in an incredible diversity of bloom types, sizes, and colors. While often bought as potted plants for temporary fall decor, many varieties are hardy enough to thrive in the garden year after year, transforming [your](https://pestpolicy.com/how-can-you-tell-if-you-have-moles-in-your-yard/) autumn landscape into a spectacular display.
 
 This guide will delve into the fascinating world of chrysanthemums, helping you select the right varieties and provide the care needed to cultivate these fall superstars in your own garden.
 
@@ -105,3 +103,4 @@ Apply fungicidal sprays if severe.
 Chrysanthemums are true workhorses of the autumn garden, offering unparalleled color and cheer when many other plants have faded. While they require some attention to pinching and proper cultural conditions, their spectacular late-season display makes the effort incredibly worthwhile.
 
 By understanding the different varieties and providing consistent care through the seasons, you can enjoy a vibrant, long-lasting show of these beloved fall blooms, transforming your garden into an autumnal masterpiece.
+

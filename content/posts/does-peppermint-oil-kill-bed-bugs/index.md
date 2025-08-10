@@ -1,4 +1,4 @@
----
+﻿---
 title: Does Peppermint Oil Kill Bed Bugs
 description: Current research shows that essential oils have antiseptic, antifungal, & antibacterial properties. But which one really does kill or repel bed bugs ? In this...
 slug: /does-peppermint-oil-kill-bed-bugs/
@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 
-Current research shows that essential oils have antiseptic, antifungal, & antibacterial properties. But which one really does [kill or repel bed bugs](https: //pestpolicy. com/essential-oils-for-[bed-bugs](https: //pestpolicy. com/does-baby-powder-kill-bed-bugs/)/)? In this article, I will discuss the question "does [peppermint](https: //pestpolicy. com/does-peppermint-oil-repel-spiders/) oil kill bed bugs? "
+Current research shows that essential oils have antiseptic, antifungal, & antibacterial properties. But which one really does [kill or repel bed bugs](https://pestpolicy.com/essential-oils-for-[bed-bugs](https://pestpolicy.com/does-baby-powder-kill-bed-bugs/)/)? In this article, I will discuss the question "does [peppermint](https://pestpolicy.com/does-peppermint-oil-repel-spiders/) oil kill bed bugs? "
 
 Bed bugs will hide in small crevices and cracks all over their home.
 
@@ -55,9 +55,9 @@ Also, spray the pest-repellent on home furniture such as couches, and don't forg
 
 ###  Method 2: Peppermint Oil + Rubbing Alcohol
 
-The next level for mixing the peppermint oil will require that you add 12 drops of the oil and [mix it with rubbing alcohol](https: //pestpolicy. com/does-rubbing-alcohol-kill-bed-bugs/) (1 oz). - Rubbing alcohol will act as a drying agent and thus kill the bed bugs through dehydration. Therefore, the mixture of rubbing alcohol and peppermint oil will be more effective compared to that with water plus the oil.
+The next level for mixing the peppermint oil will require that you add 12 drops of the oil and [mix it with rubbing alcohol](https://pestpolicy.com/does-rubbing-alcohol-kill-bed-bugs/) (1 oz). - Rubbing alcohol will act as a drying agent and thus kill the bed bugs through dehydration. Therefore, the mixture of rubbing alcohol and peppermint oil will be more effective compared to that with water plus the oil.
 
-Expert exterminators approve that we use 70% isopropyl sprays and 91% alcohol to kill the bed bugs [by damaging their organs](https: //books. google. com. au/books? id=xrxSr9S_H3oC&pg=PT19&dq=bed+bugs+alcohol&hl=en&sa=X&redir_esc=y#v=onepage&q=earth&f=false). - You may still get some of the desired outcomes but you will be required to reapply the alcohol.
+Expert exterminators approve that we use 70% isopropyl sprays and 91% alcohol to kill the bed bugs [by damaging their organs](https://books.google. com. au/books? id=xrxSr9S_H3oC&pg=PT19&dq=bed+bugs+alcohol&hl=en&sa=X&redir_esc=y#v=onepage&q=earth&f=false). - You may still get some of the desired outcomes but you will be required to reapply the alcohol.
 
 The pests will lay many eggs for a short time and that is how your house may become reinfested fast.
 
@@ -90,3 +90,4 @@ But not all fabric materials can be tossed into your washing machine. Objects su
 ##  Conclusion
 
 So, will peppermint oil really kill the bed bugs? Yes, peppermint oil is a common pest repellent and its chemical power is strong to allow it to repel or kill bed bugs. - But the caveat is you must spray the peppermint oil directly on the bed bug's body - to hit its skeleton. - This is to say that if you don't spray them play on the bed bugs' bodies, these pests can walk safely on services that have been sprayed with peppermint oil.
+

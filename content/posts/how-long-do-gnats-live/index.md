@@ -1,4 +1,4 @@
----
+﻿---
 title: How Long Do Gnats Live
 description: Gnats are restless two-winged flies commonly found in residential and commercial establishments. How long do gnats live? The simple answer is The average...
 slug: /how-long-do-gnats-live/
@@ -62,7 +62,7 @@ If youre worried why gnats are always inside your house, you should check for or
 
 ###  Can cold temperatures kill gnats?
 
-A cold environment wont [kill gnats](https: //pestpolicy. com/how-to-get-rid-of-gnats/) but will stop them from breeding. Below 60 degrees F, these flies experience a sharp decline in lifespan. Generally, the ideal temperature for a healthy life cycle is 65-75 degrees Fahrenheit.
+A cold environment wont [kill gnats](https://pestpolicy.com/how-to-get-rid-of-gnats/) but will stop them from breeding. Below 60 degrees F, these flies experience a sharp decline in lifespan. Generally, the ideal temperature for a healthy life cycle is 65-75 degrees Fahrenheit.
 
 ##  Ways to get rid of gnats from your home
 
@@ -85,3 +85,4 @@ Dont forget to take the trash out as often as possible. Finally, after you water
 Gnats have a short life of 7-21 days depending on the species. While their longevity is not very impressive, they reproduce very fast.
 
 A female can lay up to 450 eggs which take 4-30 days to hatch. This means that for every fly that dies, there will be hundreds waiting to replace it.
+

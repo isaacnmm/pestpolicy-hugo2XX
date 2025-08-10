@@ -1,4 +1,4 @@
----
+﻿---
 title: Can Bearded Dragons Eat Grapes
 description: In this article I've answered this question - can bearded dragon eat grapes? Grapes, whether red, green, yellow, pink or black, are either seedless or seeded...
 slug: /can-bearded-dragons-eat-grapes/
@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 
-In this article I've answered this question - can bearded [dragon](https: //pestpolicy. com/can-bearded-dragons-eat-bananas/) eat grapes? Grapes, whether red, green, yellow, pink or black, are either seedless or seeded clustered fruits that grow in temperate climate across the world. - **Answer; Yes - bearded dragon can eat grapes - just like other fruits and vegetables!
+In this article I've answered this question - can bearded [dragon](https://pestpolicy.com/can-bearded-dragons-eat-bananas/) eat grapes? Grapes, whether red, green, yellow, pink or black, are either seedless or seeded clustered fruits that grow in temperate climate across the world. - **Answer; Yes - bearded dragon can eat grapes - just like other fruits and vegetables!
 
 Most species of bearded dragon eat grapes comfortably without any challenge they actually like them.
 
@@ -25,7 +25,7 @@ Most species of bearded dragon eat grapes comfortably without any challenge they
 
 ###  1. Rich/strong Fiber Content
 
-Grapes have rich and strong fiber content that is necessary for digestion process of your bearded dragon. For every 150g of grapes, there is 1. 5g to 2. 8g fiber content this is quite high value as compared to other fruits and vegetables. Maybe you have vineyard or have seen some grapes in groceries and wonders whether your [bearded dragon can feed](https: //vcahospitals. com/know-your-pet/bearded-dragons-feeding) on them.
+Grapes have rich and strong fiber content that is necessary for digestion process of your bearded dragon. For every 150g of grapes, there is 1. 5g to 2. 8g fiber content this is quite high value as compared to other fruits and vegetables. Maybe you have vineyard or have seen some grapes in groceries and wonders whether your [bearded dragon can feed](https://vcahospitals.com/know-your-pet/bearded-dragons-feeding) on them.
 
 Would it be okay if you feed it with grapes leaves or vines?
 
@@ -35,7 +35,7 @@ This improves the peristalsis process too the smooth flow of chyme within the di
 
 NB: It is important to note that the fibers are never digested and are highly need in every diet that you feed your beardie.
 
-Related: [Can Bearded Dragons Eat Cantaloupe? 7 Tips](https: //pestpolicy. com/can-bearded-dragons-eat-cantaloupe/)
+Related: [Can Bearded Dragons Eat Cantaloupe? 7 Tips](https://pestpolicy.com/can-bearded-dragons-eat-cantaloupe/)
 
 ###  2. Relative Water Content Level
 
@@ -73,7 +73,7 @@ Normally, you should slice the seeded grapes into 2 or 4 parts for easier remova
 
 After slicing grapes (smaller pieces enables the beardie to roll them with its tongue), supplement them with other fruits like apples, guavas, apricots as well as vegetables to boost its nutritional value and balance the low calcium content. 6.
 
-Place the meal salad in a dish and let the bearded dragon feed itself. Avoid pouring food into the beardies mouth directly from above as it may cause impaction or chocking leading to death. NB: Avoid feeding your beardie with wild grown grapes normally, most of them are poisonous or cause illnesses to your pet lizard. Read Also: [Can Bearded Dragons Eat Cucumbers? ](https: //pestpolicy. com/can-bearded-dragons-eat-cucumbers/)
+Place the meal salad in a dish and let the bearded dragon feed itself. Avoid pouring food into the beardies mouth directly from above as it may cause impaction or chocking leading to death. NB: Avoid feeding your beardie with wild grown grapes normally, most of them are poisonous or cause illnesses to your pet lizard. Read Also: [Can Bearded Dragons Eat Cucumbers? ](https://pestpolicy.com/can-bearded-dragons-eat-cucumbers/)
 
 ##  Problems with Overfeeding Bearded Dragon with Grapes.
 
@@ -106,3 +106,4 @@ Normally, the beardies dont eat the stems the stem are not succulent and the bea
 Your bearded dragon will not only eat grapes, but it will also feed on their leaves nicely. Grapes are rich in fiber content needed to help in digestion and also contain high level of potassium content necessary for blood pressure control in your beardie. In addition, grapes have rich vitamin composition and minerals that boost beardies immunity. For beardies good health, always involve qualified veterinary for checkup.
 
 However, grapes should be administered as an occasional meal since overfeeding may lead to high water content, high sugar level as well as imbalance calcium: phosphorous ration your beardie.
+

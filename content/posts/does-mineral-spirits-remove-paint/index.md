@@ -1,4 +1,4 @@
----
+﻿---
 title: Does Mineral Spirits Remove Paint
 description: The Challenge of removing old paints on different surfaces is a frequent thing of every day-to-day life. Often, people have devised many options to clean...
 slug: /does-mineral-spirits-remove-paint/
@@ -42,7 +42,7 @@ Mineral spirits work for oil-based paints (not for water-based paints) for excel
 
 Moreover, you can also use mineral spirit in degreasing, removing paint pills, paint preparation, thinning paint, and stain removal without much hassle. However, the right procedure and administration should be carried out during application (as explained later in this article) to prevent bleaching and staining of the surfaces.
 
-NB: Since the mineral spirit is mainly used for paint thinning, its recommended that you carry out a drop test before you start the application to ascertain the effectiveness of this product over a given surface or given type of paint you intend to clean. > See Also: > [Can Alcohol Remove Paint](https: //pestpolicy. com/does-alcohol-remove-paint/) >?
+NB: Since the mineral spirit is mainly used for paint thinning, its recommended that you carry out a drop test before you start the application to ascertain the effectiveness of this product over a given surface or given type of paint you intend to clean. > See Also: > [Can Alcohol Remove Paint](https://pestpolicy.com/does-alcohol-remove-paint/) >?
 
 ###  c. Concentration Requirements and Precaution to be observed
 
@@ -62,7 +62,7 @@ Unlike other paint removers/thinner, the mineral spirit is manufactured specific
 
 Though most mineral spirits come with user instructions, its important to avoid using them upon materials and surfaces such as unfinished wood, naked stones, unpainted walls, leather material, suede, fire points (flammable), and coated glass. Indeed, the mineral spirit is not suitable for use in latex paint removal since it leaves stain marks behind or even lead to material corrosion/reaction.
 
-NB: Remember, having the right mineral spirit concentration is vital in achieving an excellent surface finish. > See Also: > [Painting Vs Staining Deck](https: //pestpolicy. com/painting-vs-staining-deck/)
+NB: Remember, having the right mineral spirit concentration is vital in achieving an excellent surface finish. > See Also: > [Painting Vs Staining Deck](https://pestpolicy.com/painting-vs-staining-deck/)
 
 ###  e. Advantage of Using Mineral Spirit in Paint Removal
 
@@ -110,10 +110,11 @@ Turpentine is a universal thinning solvent that is extracted from pine tree sap 
 
 You can use turpentine for either of the following purposes: - Degreasing automobile parts - Cleaning tubs and paint thinning - Cleaning painting tools e. g. , paintbrush - Removing gum, stickers, and other adhesive However, turpentine is highly flammable and comes with a strong pungent smell that makes it less popular as compared to mineral spirits. Therefore, great precautions should be taken into place during application.
 
-> See Also: > [Automotive Paint Gun for Beginners](https: //pestpolicy. com/best-automotive-paint-gun-for-beginners/)
+> See Also: > [Automotive Paint Gun for Beginners](https://pestpolicy.com/best-automotive-paint-gun-for-beginners/)
 
 ##  Conclusion
 
 Mineral spirits can remove paints on surfaces such as wood without a wax finish, bathtubs, tile, linoleum, laminated wood, sinks, automotive lacquer, sealed stones, and finished furniture without any problems. The right concentration and procedure should be followed (as highlighted in this article) in order to achieve the best final results.
 
 Besides, the mineral spirit is transparent, less toxic, effective, and more reliable, thus making it more common in the current market.
+

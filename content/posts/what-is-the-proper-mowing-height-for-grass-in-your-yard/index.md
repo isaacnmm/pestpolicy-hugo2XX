@@ -1,4 +1,4 @@
----
+﻿---
 title: What is the Proper Mowing Height for Grass in Your Yard
 description: Mowing your lawn seems like a straightforward chore fire up the mower, push it around, and you're done. However, the height at which you cut your grass is one...
 slug: /what-is-the-proper-mowing-height-for-grass-in-your-yard/
@@ -144,3 +144,4 @@ It removes plugs of soil and thatch, opening up the lawn and encouraging decompo
 The proper mowing height is far more than just a preference; it's a foundational element of a healthy, resilient, and beautiful lawn. By understanding your grass type, adjusting for seasonal changes, and adhering to best mowing practices, you empower your lawn to develop stronger roots, resist environmental stressors, outcompete weeds, and thrive with less reliance on external inputs.
 
 Your lawn mower, when set to the right height, becomes a powerful tool for cultivating a vibrant green space you can truly be proud of.
+

@@ -1,4 +1,4 @@
----
+﻿---
 title: Best Flea Spray for Yard
 description: Fleas can be annoying to both humans and pets. Worse still, they could cause severe health complications if not controlled - try the best flea spray for the...
 slug: /best-flea-spray-for-yard/
@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 
-[Fleas](https: //pestpolicy. com/best-flea-carpet-powder/) can be annoying to both humans and pets. Worse still, they could cause severe health complications if not controlled - try the [best](https: //pestpolicy. com/best-flea-collar-for-dogs/) flea spray for the yard. - There are different types of sprays that can be used to kill and keep fleas off your yard. - Home improvement entails many things, and pest control is one of them.
+[Fleas](https://pestpolicy.com/best-flea-carpet-powder/) can be annoying to both humans and pets. Worse still, they could cause severe health complications if not controlled - try the [best](https://pestpolicy.com/best-flea-collar-for-dogs/) flea spray for the yard. - There are different types of sprays that can be used to kill and keep fleas off your yard. - Home improvement entails many things, and pest control is one of them.
 
 However, with many products on the market, knowing what would work best might be a considerable challenge.
 
@@ -148,3 +148,4 @@ With the price of the product, you can tell whether a product is effective. Howe
 ##  Conclusion
 
 In this list, we have indicated the best flea spray for the yard. However, you need to note that they work in different ways. Therefore, you need to pick the one that would best serve your needs. Always make sure to follow the right direction to avoid wasting messing up.
+

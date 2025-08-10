@@ -1,4 +1,4 @@
----
+﻿---
 title: Do Fleas Drown in Water
 description: Do you have fleas in your home, or on pets like cats and dogs, and have been trying to kill them by drowning? Well, fleas flourish in dusty conditions but is...
 slug: /do-fleas-drown-in-water/
@@ -19,11 +19,11 @@ Do you have fleas in your home, or on pets like cats and dogs, and have been try
 
 ** - **But if you add some dish soap to the water, it breaks down the surface tension making the fleas sink. **
 
-Related: [Flea Bombs that work](https: //pestpolicy. com/best-fogger-for-fleas/)
+Related: [Flea Bombs that work](https://pestpolicy.com/best-fogger-for-fleas/)
 
 ##  Details: Do Fleas Drown In Water?
 
-For the fleas to drown in water, it will depend on the surface tension of the water that you are subjecting them to. Further, it also matters whether you float or submerge the fleas. In water with normal surface tension, fleas will just float and even jump away from danger. But if they submerge the fleas in normal water, they'll drown within 24 hours - you may also use [flea traps](https: //pestpolicy. com/best-flea-trap/).
+For the fleas to drown in water, it will depend on the surface tension of the water that you are subjecting them to. Further, it also matters whether you float or submerge the fleas. In water with normal surface tension, fleas will just float and even jump away from danger. But if they submerge the fleas in normal water, they'll drown within 24 hours - you may also use [flea traps](https://pestpolicy.com/best-flea-trap/).
 
 But if you put fleas in dish soap water, they will drown in a matter of seconds. Next time you consider drowning as a means of eliminating fleas from your area, you are wrong.
 
@@ -51,7 +51,7 @@ Lifting them and immersing them in the dish soap mixed with water is difficult.
 
 - There are other like fleas shampoo and also using food grade diatomaceous earth (DE). - The food-grade DE is a pet and human-safe powder that you can use to control disturbing pests and bugs in your home. When using this powder, you can sprinkle it on your pet and allow it to effectively kill the fleas. After about an hour, you can use a comb to clear out the dead fleas from the fur.
 
-Related: [Flea Insecticide to Treat your Garden](https: //pestpolicy. com/best-flea-spray-for-yard/)
+Related: [Flea Insecticide to Treat your Garden](https://pestpolicy.com/best-flea-spray-for-yard/)
 
 ###  **Should I Use Dishwater Soap Regularly To Bathe My Pet?**
 
@@ -65,10 +65,11 @@ Yes. Hot water can also be used ineffectively killing fleas in your pet. The onl
 
 ##  **If Dogs Swim in Water, Will it Kill The Fleas?**
 
-Swimming does not kill the fleas in the dogs fur. Most river or lake water is normal water that will hardly penetrate the cuticle of the flea and therefore unable to kill them. Related: [Kills Fleas in the Yard Naturally? ](https: //pestpolicy. com/what-kills-fleas-in-the-yard-naturally/)
+Swimming does not kill the fleas in the dogs fur. Most river or lake water is normal water that will hardly penetrate the cuticle of the flea and therefore unable to kill them. Related: [Kills Fleas in the Yard Naturally? ](https://pestpolicy.com/what-kills-fleas-in-the-yard-naturally/)
 
 ##  Conclusion
 
 Do fleas drown in water? An outright yes. But, this does not happen with all types of water. For normal water, they may not drown because of the presence of surface tension and also because of their anatomy. Fleas float on normal water and can survive up to 7 days but when they drown, they may take up to 24 hours before they drown and die.
 
 If you add dish soap, to any normal water, it destroys the surface tension and also destroys the cuticle that makes fleas survive for long before they drown.
+

@@ -1,4 +1,4 @@
----
+﻿---
 title: Why Do Cockroaches Come Out at Night
 description: Waking up at the midnight hour for nature's call or a midnight craving and finding a big roach challenging your way with even bigger tentacles, could send...
 slug: /why-do-cockroaches-come-out-at-night/
@@ -17,7 +17,7 @@ layout: post
 
 Waking up at the midnight hour for nature's call or a midnight craving and finding a big roach challenging your way with even bigger tentacles, could send chills down the spine!
 
-Is this your every night story? Did you know that having roaches at home could pose a serious threat to your health? You need to get rid of them in no time. But! Why Do Cockroaches [Come](https: //pestpolicy. com/where-do-fleas-come-from/) Out At Night?
+Is this your every night story? Did you know that having roaches at home could pose a serious threat to your health? You need to get rid of them in no time. But! Why Do Cockroaches [Come](https://pestpolicy.com/where-do-fleas-come-from/) Out At Night?
 
 If you are a bug hater and wonder why these night creepers are always awake to make you feel jelly in the knees, this article is where you fit right in.
 
@@ -78,3 +78,4 @@ The best way to keep cockroaches at the bay is keeping these areas forever clean
 Once you do that, you will soon find these roaches scavenging during the day.
 
 And that means you have already managed a critical infestation of these seedy bugs and they are threatened with the scarcity of food. This is why they are forced to hunt foods when are they are not supposed to.
+

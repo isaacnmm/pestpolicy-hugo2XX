@@ -1,4 +1,4 @@
----
+﻿---
 title: How to Repel Raccoons
 description: Below ishow to repel raccoons?A raccoon is probably one of the most tenacious and clever pests that boasts a wide variety of athletic skills. Raccoons can...
 slug: /how-to-repel-raccoons/
@@ -14,7 +14,7 @@ tags:
 layout: post
 ---
 
-Below ishow to repel raccoons? A [raccoon](https: //pestpolicy. com/how-to-get-rid-of-raccoons/) is probably one of the most tenacious and clever pests that boasts a wide variety of athletic skills. [Raccoons](https: //en. wikipedia. org/wiki/Raccoon) can jump, climb, run, or swim with ease, and they have an unparalleled ability to break into trashcans near your home.
+Below ishow to repel raccoons? A [raccoon](https://pestpolicy.com/how-to-get-rid-of-raccoons/) is probably one of the most tenacious and clever pests that boasts a wide variety of athletic skills. [Raccoons](https://en.wikipedia. org/wiki/Raccoon) can jump, climb, run, or swim with ease, and they have an unparalleled ability to break into trashcans near your home.
 
 Since they are omnivores, raccoons will eat anything they can get their dirty little hands on and this has made them a menace especially in suburban areas.
 
@@ -32,7 +32,7 @@ First, you need to find out where raccoons are gaining entry into your home or c
 
 ###  Step 2: choose the right repelling techniques
 
-Raccoons display high levels of persistence and ingenuity that can be alarming when you're trying to deter them. However, there are various ways you discourage raccoons from making your home or yard their home: a) Protect your trash - raccoons love trash bins, so you'll need multiple [repelling strategies](https: //pestpolicy. com/what-smells-do-raccoons-hate/) in this area.
+Raccoons display high levels of persistence and ingenuity that can be alarming when you're trying to deter them. However, there are various ways you discourage raccoons from making your home or yard their home: a) Protect your trash - raccoons love trash bins, so you'll need multiple [repelling strategies](https://pestpolicy.com/what-smells-do-raccoons-hate/) in this area.
 
 Always lock your trashcans or secure non-locking trashcans with cinder blocks or bungee cords to prevent raccoons from opening them. Double-bag waste meat to reduce the odor that attracts raccoons to your trashcans. b) Clean up - raccoons thrive in yards dirty and untidy yards with plenty of places to hide. To prevent this, always keep your lawn mowed and prune any overgrown shrubs.
 
@@ -58,4 +58,5 @@ Raccoons are nocturnal in nature, wandering out in the wee hours to search for f
 
 ##  Conclusion
 
-Granular repellents are great for perimeter protection and [creating a barrier](https: //pestpolicy. com/how-to-get-rid-of-raccoons/) around areas like the gardens, raccoon dens, flower beds, barns, sheds, attics, crawl spaces, and other raccoon pathways. - They work best where there are flat surfaces and they last longer than liquid repellents.
+Granular repellents are great for perimeter protection and [creating a barrier](https://pestpolicy.com/how-to-get-rid-of-raccoons/) around areas like the gardens, raccoon dens, flower beds, barns, sheds, attics, crawl spaces, and other raccoon pathways. - They work best where there are flat surfaces and they last longer than liquid repellents.
+

@@ -1,4 +1,4 @@
----
+﻿---
 title: Best Grass for Shaded Areas
 description: Growing a lush, green lawn in a shaded area can be one of the most persistent challenges for homeowners. While no grass will thrive in extremely dense, dark...
 slug: /best-grass-for-shaded-areas/
@@ -49,13 +49,13 @@ These grasses generally perform much better in shade than their warm-season coun
 
 1. **Fine Fescues: ** * Considered the top choice for shade tolerance among cool-season grasses. This group includes Chewing Fescue, Creeping Red Fescue, Hard Fescue, and Sheep Fescue. They are often sold in specialized shade mixes. * **Characteristics: ** Very fine texture, low maintenance, excellent drought tolerance once established, and can handle dry shade better than other grasses. They establish well from seed.
 
-* **Best Use: ** Low-traffic areas, under trees, and ornamental sections of the lawn. * [Learn more about Fine Fescues for low-maintenance lawns from Penn State Extension. ](https: //extension. psu. edu/fine-fescues-for-low-maintenance-lawns)
+* **Best Use: ** Low-traffic areas, under trees, and ornamental sections of the lawn. * [Learn more about Fine Fescues for low-maintenance lawns from Penn State Extension. ](https://extension.psu. edu/fine-fescues-for-low-maintenance-lawns)
 
 2. **Tall Fescue: ** * Offers a good balance of shade tolerance and durability, making it suitable for shaded areas with moderate foot traffic. * **Characteristics: ** Broader blades than fine fescues, deeper root system, good heat and drought tolerance (for a cool-season grass), and decent wear tolerance. * **Best Use: ** Transition zones, moderate shade, areas that receive some foot traffic.
 
 It's often included in "shade mixes" as a more robust component.
 
-* [Find more information on Tall Fescue from Clemson Cooperative Extension. ](https: //www. clemson. edu/extension/rowancounty/lawn/tall-fescue-lawns. html)
+* [Find more information on Tall Fescue from Clemson Cooperative Extension. ](https://www.clemson. edu/extension/rowancounty/lawn/tall-fescue-lawns. html)
 
 3. **Rough Bluegrass (Poa trivialis): ** * Possesses exceptional shade tolerance and prefers moist conditions. It's often used in specialized shade mixes. * **Characteristics: ** Bright green, fine texture, prefers consistently moist (but not waterlogged) shade. Can become aggressive in sunny, wet areas. * **Best Use: ** Deeply shaded, moist areas where other grasses struggle, often in combination with fine fescues.
 
@@ -86,3 +86,4 @@ Use a balanced, slow-release fertilizer at a reduced rate (e. g. , half the reco
 Sometimes, a healthy, mulched garden bed is a better solution than a struggling patch of grass.
 
 By understanding your shade conditions, selecting the most appropriate grass variety, and adapting your care regimen, you can successfully cultivate a healthier and more resilient lawn, even in the trickiest, shadiest spots of your yard.
+

@@ -1,4 +1,4 @@
----
+﻿---
 title: Problem Growing Grass Under Crabapple Trees
 description: Few things enhance a landscape quite like a beautiful, mature tree. Crabapple trees, with their stunning spring blossoms, attractive summer foliage, and...
 slug: /problem-growing-grass-under-crabapple-trees/
@@ -16,7 +16,7 @@ tags:
 layout: post
 ---
 
-Few things enhance a landscape quite like a beautiful, mature tree. Crabapple trees, with their stunning spring blossoms, attractive summer foliage, and vibrant fall fruit, are particularly beloved for their ornamental value. However, beneath their charming canopy often lies a common [gardening](https: //pestpolicy. com/how-and-when-to-trim-a-monkey-grass-border/) conundrum: the struggle to grow a healthy, lush lawn.
+Few things enhance a landscape quite like a beautiful, mature tree. Crabapple trees, with their stunning spring blossoms, attractive summer foliage, and vibrant fall fruit, are particularly beloved for their ornamental value. However, beneath their charming canopy often lies a common [gardening](https://pestpolicy.com/how-and-when-to-trim-a-monkey-grass-border/) conundrum: the struggle to grow a healthy, lush lawn.
 
 If you've ever tried to cultivate green grass under your crabapple tree only to be met with sparse, patchy, or yellowing turf, you're experiencing a widespread issue.
 
@@ -95,3 +95,4 @@ Mulch conserves moisture, suppresses weeds, regulates soil temperature, and prov
 Before making any major changes, observe the area under your crabapple tree throughout the year. How dense is the shade in summer versus winter? Does it get any direct sun at all? Understanding the specific microclimate will help you choose the most appropriate solution.
 
 Ultimately, the goal is to create a landscape that is both beautiful and sustainable. Fighting to grow grass in an unsuitable environment can lead to frustration and wasted effort. By understanding the challenges and thoughtfully choosing the right approach, you can transform the area under your crabapple tree from a problem spot into a thriving, attractive part of your yard.
+

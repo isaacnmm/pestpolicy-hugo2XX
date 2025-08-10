@@ -1,4 +1,4 @@
----
+﻿---
 title: What Do Groundhogs Eat
 description: Groundhogs are underground rodents that spend most of their lives in underground tunnels. They spend a lot of time burrowing and coming out in the open to...
 slug: /what-do-groundhogs-eat/
@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 
-Groundhogs are underground rodents that spend most of their lives in underground tunnels. They spend a lot of time burrowing and coming out in the open to look for food. But what do groundhogs [eat](https: //pestpolicy. com/do-cats-eat-lizards/) to survive underground? - **Groundhogs are omnivorous that'll eat both plants and animals.
+Groundhogs are underground rodents that spend most of their lives in underground tunnels. They spend a lot of time burrowing and coming out in the open to look for food. But what do groundhogs [eat](https://pestpolicy.com/do-cats-eat-lizards/) to survive underground? - **Groundhogs are omnivorous that'll eat both plants and animals.
 
 But in most cases, groundhogs eat vegetables, grass, fruits, alfalfa, clovers, soybeans, dandelion, and apples, and other garden plants.
 
@@ -61,7 +61,7 @@ In this season, things start changing and food start becoming scarce and groundh
 
 ###  **3. Winter **
 
-This is an inactive stage for the groundhogs and they are not so much involved in food hunts. They live in the tunnels and feed on the food in the store. In this period they fed less as compared to other seasons to save on energy and food. Related: [Smells that Raccoons Hate](https: //pestpolicy. com/what-smells-do-raccoons-hate/)
+This is an inactive stage for the groundhogs and they are not so much involved in food hunts. They live in the tunnels and feed on the food in the store. In this period they fed less as compared to other seasons to save on energy and food. Related: [Smells that Raccoons Hate](https://pestpolicy.com/what-smells-do-raccoons-hate/)
 
 ##  How to Protect Your Garden from Groundhog
 
@@ -75,10 +75,11 @@ This will help secure their entry into your garden to cause destruction. To be o
 
 Like earlier mentioned, they like to live around woody areas and this will serve the same purpose.
 
-Related: [Top Mole Traps](https: //pestpolicy. com/best-mole-traps/)
+Related: [Top Mole Traps](https://pestpolicy.com/best-mole-traps/)
 
 ##  Summary
 
 What do groundhogs eat? They are omnivorous but have a high preference for vegetables, fruits and plants as compared to animals, insects and pests. - Because of their nature to burrow and live underground, and fear for human beings, they like to come out and feed either in the evening or in the morning. - Their feeding pattern and diet is also greatly affected by weather patterns and will hide food in the tunnels for the winter season.
 
 That said done, they are a great threat to our farming activities and measures should be applied to ensure their damage is controlled.
+

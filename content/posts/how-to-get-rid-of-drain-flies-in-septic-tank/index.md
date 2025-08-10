@@ -1,4 +1,4 @@
----
+﻿---
 title: How to Get Rid Of Drain Flies in Septic Tank
 description: The tiny moth-like bugs drain flies buzzing around your septic tank or drains-flies-in-the-basement are both a health hazard and a nuisance. The moist...
 slug: /how-to-get-rid-of-drain-flies-in-septic-tank/
@@ -15,11 +15,11 @@ tags:
 layout: post
 ---
 
-The tiny moth-like bugs (drain flies) buzzing around your septic tank or [drains](https: //pestpolicy. com/how-to-get-rid-of-[drain](https: //pestpolicy. com/how-to-get-rid-of-drain-flies-in-the-bathroom/)-flies-in-the-basement/) are both a health hazard and a nuisance. The moist conditions including the organic matter in the septic tank allow the drain flies to reproduce fast.
+The tiny moth-like bugs (drain flies) buzzing around your septic tank or [drains](https://pestpolicy.com/how-to-get-rid-of-[drain](https://pestpolicy.com/how-to-get-rid-of-drain-flies-in-the-bathroom/)-flies-in-the-basement/) are both a health hazard and a nuisance. The moist conditions including the organic matter in the septic tank allow the drain flies to reproduce fast.
 
 But fear not, I'll delve into ways you can use to get rid of drain flies in your septic tank.
 
-Drain flies have a length of about 1/4 inch - they'll love the organic matter in the septic tanks, [bathrooms](https: //pestpolicy. com/how-to-get-rid-of-drain-flies-in-the-bathroom/), sewage systems, [basement](https: //pestpolicy. com/how-to-get-rid-of-drain-flies-in-the-basement/), and near drains.
+Drain flies have a length of about 1/4 inch - they'll love the organic matter in the septic tanks, [bathrooms](https://pestpolicy.com/how-to-get-rid-of-drain-flies-in-the-bathroom/), sewage systems, [basement](https://pestpolicy.com/how-to-get-rid-of-drain-flies-in-the-basement/), and near drains.
 
 ##  Details: How to Get Rid Of Drain Flies in Septic Tank
 
@@ -74,3 +74,4 @@ This will assist in determining the level of infestation and hence knowing the t
 ##  Conclusion
 
 Drain flies in drains and septic tanks can be a nuisance. These locations provide an excellent location for breeding - due to the organic matter and water - you can use exterminators, seal drains, apply insecticides, clean the breeding sites, and use drain fly traps.
+

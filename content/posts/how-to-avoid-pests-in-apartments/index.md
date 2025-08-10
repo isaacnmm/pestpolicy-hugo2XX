@@ -1,4 +1,4 @@
----
+﻿---
 title: How to Avoid Pests in Apartments
 description: Avoiding pests in apartments requires a combination of good hygiene, preventive measures, and prompt action if pests are spotted.
 slug: /how-to-avoid-pests-in-apartments/
@@ -37,16 +37,15 @@ Avoiding pests in apartments requires a combination of good hygiene, preventive 
 
 ###  5. Natural Repellents
 
-- **Essential Oils**: Use essential oils like peppermint, [eucalyptus](https: //pestpolicy. com/how-to-use-eucalyptus-oil-for-bed-bugs/), or tea tree oil as natural repellents. Mix with water and spray around entry points and other areas where pests may enter. - **Herbs**: Plant herbs such as basil, mint, or bay leaves in pots around your apartment to repel pests.
+- **Essential Oils**: Use essential oils like peppermint, [eucalyptus](https://pestpolicy.com/how-to-use-eucalyptus-oil-for-bed-bugs/), or tea tree oil as natural repellents. Mix with water and spray around entry points and other areas where pests may enter. - **Herbs**: Plant herbs such as basil, mint, or bay leaves in pots around your apartment to repel pests.
 
 ###  6. Regular Inspections
 
-- **Routine Checks**: Regularly inspect your apartment for signs of pests, such as droppings, nests, or damage to food packaging - including[steam cleaning](https: //pestpolicy. com/best-steam-cleaner-for-[fleas](https: //pestpolicy. com/rentokil-pest-control-review/)/). - **Professional Help**: If you notice any signs of infestation, contact a professional [pest](https: //pestpolicy.
-
-com/a-guide-to-preventing-pest-infestations-in-restaurants/) control service promptly.
+- **Routine Checks**: Regularly inspect your apartment for signs of pests, such as droppings, nests, or damage to food packaging - including[steam cleaning](https://pestpolicy.com/best-steam-cleaner-for-[fleas](https://pestpolicy.com/rentokil-pest-control-review/)/). - **Professional Help**: If you notice any signs of infestation, contact a professional [pest](https://pestpolicy.com/a-guide-to-preventing-pest-infestations-in-restaurants/) control service promptly.
 
 ###  7. Collaborate with Neighbors
 
 - **Awareness**: Stay informed about common pests in your area and their habits. - **Communication**: Work with your neighbors to ensure the entire building is taking preventive measures. Pests can easily move from one apartment to another, so a coordinated effort is more effective.
 
 By following these steps and collaborating with your neighbors, you can create an environment that is less attractive to pests and quickly address any issues that arise.
+

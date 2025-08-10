@@ -1,4 +1,4 @@
----
+﻿---
 title: Thrift Drain Cleaner Review
 description: Finding a decent drain cleaner is difficult. Most options on the market are far too expensive. And those that you can afford are often limited in the...
 slug: /thrift-drain-cleaner-review/
@@ -15,11 +15,11 @@ tags:
 layout: post
 ---
 
-Finding a decent [drain cleaner](https: //pestpolicy. com/best-drain-cleaner//) is difficult. Most options on the market are far too expensive. And those that you can afford are often limited in the functions they can perform. So you have to purchase multiple types and brands of drain cleaners to sufficiently cater to your homes entire plumbing system.
+Finding a decent [drain cleaner](https://pestpolicy.com/best-drain-cleaner//) is difficult. Most options on the market are far too expensive. And those that you can afford are often limited in the functions they can perform. So you have to purchase multiple types and brands of drain cleaners to sufficiently cater to your homes entire plumbing system.
 
 ##  +What is the[Thrift T-600 Alkaline Based Drain Cleaner](https://www.amazon.com/THRIFT-T-600-Alkaline-Granular-Cleaner/dp/B00E1N09JO?&linkCode=ll1&tag=p-policy-20&linkId=2b4aec92d6fd01239eb8ccd0c93edf67&language=en_US&ref_=as_li_ss_tl)?
 
-Thrift T-600 is an acid-free drain cleaner. In other words, it can eliminate the organic matter that clogs your [drains](https: //pestpolicy. com/best-drain-cleaner/) without using acidic components. The Thrift T-600 cleaner stands out because it provides four cleaning solutions where other [drain](https: //pestpolicy. com/best-drain-snakes/) cleaners only cater to one or two disparate issues.
+Thrift T-600 is an acid-free drain cleaner. In other words, it can eliminate the organic matter that clogs your [drains](https://pestpolicy.com/best-drain-cleaner/) without using acidic components. The Thrift T-600 cleaner stands out because it provides four cleaning solutions where other [drain](https://pestpolicy.com/best-drain-snakes/) cleaners only cater to one or two disparate issues.
 
 ##  +Why You Need the Thrift T-600 Alkaline Based Drain Cleaner?
 
@@ -29,7 +29,7 @@ Soap scum and bath oils are common causes of clogging. The same can be said for 
 
 You will notice that the water in your sink drains slower than usual and that the drain even spits back food particles every once in a while.
 
-If you allow the situation to deteriorate without taking action, your drains will stop working altogether. Now, people are quick to reach out to plumbers who often waste no time in opening all the pipes and deploying their drain snakes whenever this happens. [Drain cleaners](https: //pestpolicy. com/how-drain-cleaners-work/) like the Thrift T-600 generally make all that chaos unnecessary.
+If you allow the situation to deteriorate without taking action, your drains will stop working altogether. Now, people are quick to reach out to plumbers who often waste no time in opening all the pipes and deploying their drain snakes whenever this happens. [Drain cleaners](https://pestpolicy.com/how-drain-cleaners-work/) like the Thrift T-600 generally make all that chaos unnecessary.
 
 If you hate the mess that the unclogging process attracts, you can pour a drain cleaner down your pipes and sewers and then sit back and wait for it to do all the work. It sounds like a lazy approach to the problem, but it works. You dont really need any technical plumbing knowledge. Anyone can deploy the Thrift T-600 Drain cleaner.
 
@@ -62,3 +62,4 @@ That being said, if you have the plumbing experience and can afford to pull the 
 ##  +Verdict
 
 Drain Cleaners might be a dime a dozen today, but it is easy to see why this one draws so much attention. You wont find that many drain cleaners on the market that come in crystal format, only require hot water to activate, and can liquefy hair and grease in 60 seconds without ruining your polished brass, porcelain, and chrome trim, plastic, or even the metal pipes.
+

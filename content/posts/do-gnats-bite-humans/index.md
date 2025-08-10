@@ -1,4 +1,4 @@
----
+﻿---
 title: Do Gnats Bite Humans
 description: Gnat bite transmits diseases such as carrison, sandy fever, and river blindness among others. Therefore, preventive measures should be undertaken whatsoever.
 slug: /do-gnats-bite-humans/
@@ -15,11 +15,11 @@ tags:
 layout: post
 ---
 
-Gnat bite transmits diseases such as carrison, sandy fever, and river blindness among others. Therefore, [preventive measures](https: //pestpolicy. com/best-gnat-repellents/) should be undertaken whatsoever. So, can [gnats](https: //pestpolicy. com/best-gnat-repellents/) bite really! How and why, if so? - **Well, YES! the female gnats will bite humans & animals (to feed on blood).
+Gnat bite transmits diseases such as carrison, sandy fever, and river blindness among others. Therefore, [preventive measures](https://pestpolicy.com/best-gnat-repellents/) should be undertaken whatsoever. So, can [gnats](https://pestpolicy.com/best-gnat-repellents/) bite really! How and why, if so? - **Well, YES! the female gnats will bite humans & animals (to feed on blood).
 
 But male gnats don't bite humans since they feed on plant juice and flower nectar.
 
-** - **Unlike bees and wasps, gnats don't sting (the insects have a jagged saw-like mouthpiece that cuts through the skin when sucking blood). ** Usually, a [Gnat](https: //pestpolicy. com/best-gnat-repellent/) bite appears like a tiny reddish spot with moderate swelling on your skin surface. The swelling is itchy and very painful, especially when touched. The pain and swelling may take over a week to heal.
+** - **Unlike bees and wasps, gnats don't sting (the insects have a jagged saw-like mouthpiece that cuts through the skin when sucking blood). ** Usually, a [Gnat](https://pestpolicy.com/best-gnat-repellent/) bite appears like a tiny reddish spot with moderate swelling on your skin surface. The swelling is itchy and very painful, especially when touched. The pain and swelling may take over a week to heal.
 
 Related: Fly Spray for Horses
 
@@ -118,3 +118,4 @@ Contrary, male gnats feed on flower nectar and other plant juice hence, they won
 The gnat bites appear like tiny reddish spots/marks with medium size swellings on your skin. The swellings are very painful and itchy (especially when scratched). The pain and swelling may take over a week to heal. More so, gnat bite will transmit diseases such as river blindness, carrison, sandy fever among others. Therefore, preventive measures highlighted in this article should be put into place.
 
 Importantly, seek medical attention instantly in case you get bitten by gnats and the condition is deteriorating.
+

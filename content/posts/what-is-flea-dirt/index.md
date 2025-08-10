@@ -1,4 +1,4 @@
----
+﻿---
 title: What is Flea Dirt
 description: What is flea dirt?  Flea dirt flea poop or flea frass is the round black pepper or dandruff-looking specs made up of undigested and dried blood dropped by...
 slug: /what-is-flea-dirt/
@@ -49,12 +49,11 @@ Therefore, that's why females take more massive blood amounts to feed their larv
 
 ##  How to Get Rid of Flea Dirt?
 
-Well, besides killing the fleas, you'd love to get rid of the flea dirt. The simple steps are shampooing your dog and cats to wash away the flea dirt. But this is no guarantee that the [flea dist won't come](https: //pestpolicy. com/where-do-fleas-come-from/) back to haunt you. But, the best way to rid your pets of [thisflea dirt is by killing](https: //pestpolicy.
+Well, besides killing the fleas, you'd love to get rid of the flea dirt. The simple steps are shampooing your dog and cats to wash away the flea dirt. But this is no guarantee that the [flea dist won't come](https://pestpolicy.com/where-do-fleas-come-from/) back to haunt you. But, the best way to rid your pets of [thisflea dirt is by killing](https://pestpolicy.com/how-to-kill-fleas-on-dogs-naturally-safe-and-fast/) the fleas both in and around the house.
 
-com/how-to-kill-fleas-on-dogs-naturally-safe-and-fast/) the fleas both in and around the house.
-
-For your cats and dogs, I would recommend using various [flea treatment](https: //pestpolicy. com/best-flea-treatment-for-puppies/) methods such asCapstar Flea Killer, oral pills, Frontline for the cats, orAdvantage II for your Dogs.
+For your cats and dogs, I would recommend using various [flea treatment](https://pestpolicy.com/best-flea-treatment-for-puppies/) methods such asCapstar Flea Killer, oral pills, Frontline for the cats, orAdvantage II for your Dogs.
 
 ##  **Sources:**
 
-1. [NCBI - Comparison of Two Techniques for the Detection of Flea Faeces](https: //www. ncbi. nlm. nih. gov/pmc/articles/PMC4227412/). 2. [PetMed - Flea Dirt How to Get Rid of It](https: //www. petmd. com/dog/parasites/what-flea-dirt) 3. [Comparison of Two Techniques for the Detection of Flea Faeces in Canine and Feline Coat Brushings](https: //www. hindawi. com/journals/tswj/2014/292085/)
+1. [NCBI - Comparison of Two Techniques for the Detection of Flea Faeces](https://www.ncbi. nlm. nih. gov/pmc/articles/PMC4227412/). 2. [PetMed - Flea Dirt How to Get Rid of It](https://www.petmd. com/dog/parasites/what-flea-dirt) 3. [Comparison of Two Techniques for the Detection of Flea Faeces in Canine and Feline Coat Brushings](https://www.hindawi. com/journals/tswj/2014/292085/)
+

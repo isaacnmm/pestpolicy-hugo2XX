@@ -1,4 +1,4 @@
----
+﻿---
 title: Best Acoustic Guitar Under 300
 description: In this article, we present to you a list of Best Acoustic Guitars Under 300 which have been applauded by guitarists for their quality and affordability....
 slug: /best-acoustic-guitar-under-300/
@@ -16,7 +16,7 @@ layout: post
 
 In this article, we present to you a list of Best Acoustic Guitars Under 300 which have been applauded by guitarists for their quality and affordability.
 
-Top-name companies that manufacture expensive [acoustic guitars](https: //en. wikipedia. org/wiki/Acoustic_guitar) are now making acoustic guitars that are budget-friendly, high quality, with a variety of designs to suit your preference. Summary: For a $300 budget, I recommend Yamaha FG800 or the Breedlove Discovery Concert as your Best Acoustic Guitars Under $300.
+Top-name companies that manufacture expensive [acoustic guitars](https://en.wikipedia. org/wiki/Acoustic_guitar) are now making acoustic guitars that are budget-friendly, high quality, with a variety of designs to suit your preference. Summary: For a $300 budget, I recommend Yamaha FG800 or the Breedlove Discovery Concert as your Best Acoustic Guitars Under $300.
 
 These 2 models boast of excellent playability, exceptional build quality, and great musical tone.
 
@@ -44,11 +44,11 @@ Both seasoned and beginner guitarists applaud its sunburst or natural finish.
 
 It features attractive wood grain and black binding to give it a modern design of a concert style guitar. This acoustic guitar is easy to play and is perfect for beginners who crave clarity, sustain, or balance while playing. Related: Short Scale Electric Guitars. Youll appreciate the easy playing experience this acoustic guitar provides. Irrespective of the size of your hands, this guitar is ideal for you.
 
-Its made using quality materials - the back and sides are designed using laminated mahogany, while the top is solid Sitka spruce. Read Also: [Acoustic Guitars Under 200](https: //pestpolicy. com/best-[acoustic-guitars](https: //pestpolicy. com/best-acoustic-guitar-for-small-hands/)-under-200/)
+Its made using quality materials - the back and sides are designed using laminated mahogany, while the top is solid Sitka spruce. Read Also: [Acoustic Guitars Under 200](https://pestpolicy.com/best-[acoustic-guitars](https://pestpolicy.com/best-acoustic-guitar-for-small-hands/)-under-200/)
 
 ###  [3. Alvarez Artist Series AF30 - #3 Pick](https://www.amazon.com/dp/B07DP3PP94/?tag=p-policy-20)
 
-Alvarez is widely known to produce quality instruments and this Artist Series AF30 does not disappoint. This [acoustic](https: //pestpolicy. com/best-acoustic-guitar-under-1500/) guitar is affordable and comes with a variety of amazing features to make your playing experience fun and exciting.
+Alvarez is widely known to produce quality instruments and this Artist Series AF30 does not disappoint. This [acoustic](https://pestpolicy.com/best-acoustic-guitar-under-1500/) guitar is affordable and comes with a variety of amazing features to make your playing experience fun and exciting.
 
 These award-winning series boast of excellent Sitka spruce while the top is all cedar thats hand-picked from quarter-sawn wood. These features give the guitar consistent quality making it stand out among the rest. The tops are finely grained and strong to allow the manufactures to give the guitars thinner cut for increased vibration and a richer tone when played.
 
@@ -64,7 +64,7 @@ It also features a Natural High Gloss finish with a traditional Parabolic Shaped
 
 It offers clarity, distinctness, and spontaneity, thus enhancing your tone without adding unnecessary sounds.
 
-Blueridge BD-16 is one instrument that never disappoints! Whether youre for Strumming or fingerpicking, youll love the die-cast tuning machines that ensure your tuning remains intact. Read Also: [Acoustic Guitars for Country Music](https: //pestpolicy. com/best-acoustic-guitars-for-country-music/)
+Blueridge BD-16 is one instrument that never disappoints! Whether youre for Strumming or fingerpicking, youll love the die-cast tuning machines that ensure your tuning remains intact. Read Also: [Acoustic Guitars for Country Music](https://pestpolicy.com/best-acoustic-guitars-for-country-music/)
 
 ###  [5. Samick Greg Bennett Design GD100S Acoustic Guitar](https://www.amazon.com/dp/B00AH9PGNK/?tag=p-policy-20)
 
@@ -99,3 +99,4 @@ A total of twenty vintage-style frets are housed on the rosewood fretboard found
 ##  Conclusion
 
 The attractive dreadnought body and scalloped bracing help in boosting the resonance, hence, high projection. The guitar features strong die-cast tuners and rosewood bridge that have rounded edges to ensure the finish remains intact.
+

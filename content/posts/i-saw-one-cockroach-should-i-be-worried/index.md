@@ -1,4 +1,4 @@
----
+﻿---
 title: I Saw One Cockroach Should I Be Worried
 description: Whenever you spot a cockroach in your house, the first thing that might come to your mind is whether you might have a roach infestation.Well, roaches bring a...
 slug: /i-saw-one-cockroach-should-i-be-worried/
@@ -14,7 +14,7 @@ tags:
 layout: post
 ---
 
-Whenever you spot a [cockroach](https: //pestpolicy. com/cockroach-eggs/) in your house, the first thing that might come to your mind is whether you might have a roach infestation. Well, roaches bring a host of negative effects to our homes and may cost hundreds of dollars to eradicate.
+Whenever you spot a [cockroach](https://pestpolicy.com/cockroach-eggs/) in your house, the first thing that might come to your mind is whether you might have a roach infestation. Well, roaches bring a host of negative effects to our homes and may cost hundreds of dollars to eradicate.
 
 So, I understand the cause of panic when homeowners spot a single cockroach in their house. But should you be worried about the one roach you have spotted? **A short answer is NO**. The sight of one roach is not a single indicator that you have a roach infestation to deal with. These pesky creatures are attracted to our homes as they search for water, food, shelter and warmth.
 
@@ -129,3 +129,4 @@ Last but not the least is the "Smoky Brown Roach". The scientific name for this 
 The sight of one roach should not cause you a lot of panic. This should rather get you ready for a roach control plan. Since roaches breed very rapidly, one female roach can quickly cause a roach infestation in your home.
 
 I would recommend that you embark on appropriate roach prevention plans such as eliminating conducive environments. In addition, you can seek advice from a professional pest exterminator.
+

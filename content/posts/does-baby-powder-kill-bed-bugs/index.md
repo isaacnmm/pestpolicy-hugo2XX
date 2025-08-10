@@ -1,4 +1,4 @@
----
+﻿---
 title: Does Baby Powder Kill Bed Bugs
 description: Sometimes, bed bug infestations can make you feel defeated. You'll consider many natural products like essential oils . But d oes Baby Powder Kill Bed Bugs?
 slug: /does-baby-powder-kill-bed-bugs/
@@ -57,12 +57,13 @@ Boric acid is also an excellent solution to get rid of roaches, but it's also su
 
 ###  3. Heat to kill Bed Bugs
 
-Heat is the ultimate option for killing bed bugs. For a dryer to kill bed bugs, you'll need between 39 o C to 51 o C - it'll kill all the bed bug stages. - Luckily, heat treatment is non-toxic, safe, & equally effective - however, it's critical to take care of[how long you'll heat treat](http: //www. vdacs. virginia. gov/pdf/bb-heat1. pdf)the bed bugs. You'll need to sustain the high temperature for 90 minutes.
+Heat is the ultimate option for killing bed bugs. For a dryer to kill bed bugs, you'll need between 39 o C to 51 o C - it'll kill all the bed bug stages. - Luckily, heat treatment is non-toxic, safe, & equally effective - however, it's critical to take care of[how long you'll heat treat](http://www.vdacs. virginia. gov/pdf/bb-heat1. pdf)the bed bugs. You'll need to sustain the high temperature for 90 minutes.
 
 ###  4. Cold Treatment for Bed Bugs
 
-When we consider baby powder for its [use in killing bed bugs](https: //pestpolicy. com/does-bleach-kill-bed-bugs/), there are two myths that well need to debunk. So, lets get started!
+When we consider baby powder for its [use in killing bed bugs](https://pestpolicy.com/does-bleach-kill-bed-bugs/), there are two myths that well need to debunk. So, lets get started!
 
 ##  Conclusion
 
-I know other products, including sprays, steamers, [rubbing alcohol (91 %)](https: //pestpolicy. com/does-rubbing-alcohol-kill-bed-bugs/), [do Lavender](https: //pestpolicy. com/does-lavender-kill-bed-bugs/). So, baby powder is readily accessible and cheap too. But does baby powder kill bed bugs?
+I know other products, including sprays, steamers, [rubbing alcohol (91 %)](https://pestpolicy.com/does-rubbing-alcohol-kill-bed-bugs/), [do Lavender](https://pestpolicy.com/does-lavender-kill-bed-bugs/). So, baby powder is readily accessible and cheap too. But does baby powder kill bed bugs?
+

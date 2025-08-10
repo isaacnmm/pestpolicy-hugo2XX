@@ -1,4 +1,4 @@
----
+﻿---
 title: Diatomaceous Earth for Fleas on Dogs
 description: Fleas are not only irritating and a nuisance to your dog, but they also cause painful wounds and internal infections. - Many methods to get rid of fleas on...
 slug: /diatomaceous-earth-for-fleas-on-dogs/
@@ -15,13 +15,13 @@ tags:
 layout: post
 ---
 
-Fleas are not only irritating and a nuisance to your dog, but they also cause painful wounds and internal infections. - **Many methods to get rid of fleas on dogs have been advanced. Below I review the Diatomaceous [Earth](https: //pestpolicy. com/diatomaceous-earth-for-fleas-on-cats/) for Fleas on Dogs. ****Among the numerous methods, many dog owners are opting for ways that dont involve chemicals.
+Fleas are not only irritating and a nuisance to your dog, but they also cause painful wounds and internal infections. - **Many methods to get rid of fleas on dogs have been advanced. Below I review the Diatomaceous [Earth](https://pestpolicy.com/diatomaceous-earth-for-fleas-on-cats/) for Fleas on Dogs. ****Among the numerous methods, many dog owners are opting for ways that dont involve chemicals.
 
-** Methods that do not harm the environment, such as the use of [Diatomaceous Earth for Fleas](https: //pestpolicy. com/diatomaceous-earth-for-fleas/).
+** Methods that do not harm the environment, such as the use of [Diatomaceous Earth for Fleas](https://pestpolicy.com/diatomaceous-earth-for-fleas/).
 
 ##  **Details: Diatomaceous Earth for Fleas on Dogs**
 
-Studies have found that diatomaceous earth has sharp edges that resemble bits of broken glass. The mode of action of DE is mechanical. The diatoms kill insects and parasites by removing the protective outer shell that helps them conserve moisture; they then dehydrate and subsequently die. - DE comes in various forms, [granulated DE, milled DE, and Calcine DE](http: //npic. orst. edu/ingred/de. html).
+Studies have found that diatomaceous earth has sharp edges that resemble bits of broken glass. The mode of action of DE is mechanical. The diatoms kill insects and parasites by removing the protective outer shell that helps them conserve moisture; they then dehydrate and subsequently die. - DE comes in various forms, [granulated DE, milled DE, and Calcine DE](http://npic.orst. edu/ingred/de. html).
 
 **Granulated diatomaceous earth -** Granulated DE is usually available as a powder and always fit for humans and pets' consumption. - For DE to be fit for consumption, it must contain less than 1% crystalline silica. Granulated DE is used as the food grade. **Milled diatomaceous earth -** Also called micronized DE. It is an excellent form of DE that is used in the manufacture of insecticides and pesticides.
 
@@ -33,7 +33,7 @@ Studies have found that diatomaceous earth has sharp edges that resemble bits of
 
 DE, however, does not effectively eradicate tapeworms. **3.
 
-Healthy Supplement** [Diatomaceous earth](https: //pestpolicy. com/diatomaceous-earth-for-fleas-on-cats/) is rich in minerals like calcium, iron, sodium, silicon, and other minerals. - Feeding it to your dog keeps it healthy and gives it that good neat look. DE is also fit for human beings' consumption, and their benefits are healthy skin, lower blood cholesterol, and good-looking hair and skin.
+Healthy Supplement** [Diatomaceous earth](https://pestpolicy.com/diatomaceous-earth-for-fleas-on-cats/) is rich in minerals like calcium, iron, sodium, silicon, and other minerals. - Feeding it to your dog keeps it healthy and gives it that good neat look. DE is also fit for human beings' consumption, and their benefits are healthy skin, lower blood cholesterol, and good-looking hair and skin.
 
 ##  **Diatomaceous Earth dosage & ingredients for Dogs**
 
@@ -66,3 +66,4 @@ Leave the sprinkled DE for several weeks before vacuuming it. **Step 4 - ** Let 
 ##  **Conclusion**
 
 Apart from being ingested to kill internal worms, diatomaceous can be sprinkled to ensure the flea's menace is eradicated. This is a very recommendable method since no chemicals are in use, making it safe for the pet (dog), you, and the environment.
+

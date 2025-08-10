@@ -1,4 +1,4 @@
----
+﻿---
 title: Can Bearded Dragons Eat Oranges
 description: Can bearded dragons eat oranges? Well, previously we've seen that beardies feed on selected veggies, insects bugs, fruits . - The short answer is NO - bearded...
 slug: /can-bearded-dragons-eat-oranges/
@@ -15,19 +15,17 @@ tags:
 layout: post
 ---
 
-**Can [bearded](https: //pestpolicy. com/can-bearded-dragons-eat-apples/) dragons eat oranges? ** Well, previously we've seen that beardies feed on selected veggies, insects (bugs), fruits. - **The short answer is NO - bearded dragons don't eat oranges - oranges contain excessive fruit acid and sugar that may irritate the digestive system of the bearded [dragon](https: //pestpolicy.
-
-com/can-bearded-dragons-eat-bananas/) causing dehydration and diarrhea.
+**Can [bearded](https://pestpolicy.com/can-bearded-dragons-eat-apples/) dragons eat oranges? ** Well, previously we've seen that beardies feed on selected veggies, insects (bugs), fruits. - **The short answer is NO - bearded dragons don't eat oranges - oranges contain excessive fruit acid and sugar that may irritate the digestive system of the bearded [dragon](https://pestpolicy.com/can-bearded-dragons-eat-bananas/) causing dehydration and diarrhea.
 
 ** Also, oranges contain more phosphorous than calcium, giving a Ca: P ratio that is incorrect for bearded dragons. These beardies love supplements that have a ratio of calcium: phosphorus ranging from 2: 1 to 3: 1. See other foods for bearded dragons.
 
 ##  **Details: Can Bearded Dragons Eat oranges?**
 
-Don't feed [bearded dragons](https: //www. sciencedirect. com/topics/agricultural-and-biological-sciences/central-bearded-dragon) (or other lizards) with oranges. Oranges have excessive fruit acid and sugar that'll irritate the digestive system of your bearded dragon. Like other citrus fruits, oranges are very acidic. When ingested by beardies, they can cause severe diarrhea plus dehydration.
+Don't feed [bearded dragons](https://www.sciencedirect. com/topics/agricultural-and-biological-sciences/central-bearded-dragon) (or other lizards) with oranges. Oranges have excessive fruit acid and sugar that'll irritate the digestive system of your bearded dragon. Like other citrus fruits, oranges are very acidic. When ingested by beardies, they can cause severe diarrhea plus dehydration.
 
 Also, the consumption of oranges interferes with the pets Ca: P ratio.
 
-Oranges contain large amounts of phosphorus compared to calcium. - Notably, calcium is utilized in the absorption of phosphorus from the intestines into the bloodstream. The extra calcium required for phosphorus is obtained by the body from the bones. This is a known cause of bone degeneration in beardies which are fed on oranges. Read Also: [Do Bearded Dragons Eat Onions? ](https: //pestpolicy. com/can-bearded-dragons-eat-onions/)
+Oranges contain large amounts of phosphorus compared to calcium. - Notably, calcium is utilized in the absorption of phosphorus from the intestines into the bloodstream. The extra calcium required for phosphorus is obtained by the body from the bones. This is a known cause of bone degeneration in beardies which are fed on oranges. Read Also: [Do Bearded Dragons Eat Onions? ](https://pestpolicy.com/can-bearded-dragons-eat-onions/)
 
 **Side-note: ** *Feed Bearded dragons with very small portions of limited types of fruits - including grapes, pears, cherries, peaches, plums, raspberries, pineapples, apples, peeled bananas, watermelon, and papayas. *
 
@@ -82,3 +80,4 @@ Further, you may simulate wild feeding by providing videos - this also enhances 
 ##  **Conclusion**
 
 Bearded dragons must never be fed with citric fruit because they're highly acidic and have high sugar levels. - As much as you want to give a calcium diet to your bearded dragon, you should avoid feeding them with oranges. - The sweetness and acidity of oranges and other citrus fruits arent good for the health of your beardie. Therefore, you should feed them with alternative foods like kale, carrots, collard greens, and other leafy vegetables.
+

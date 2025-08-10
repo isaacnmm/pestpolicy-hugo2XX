@@ -1,4 +1,4 @@
----
+﻿---
 title: Laying Sod Over Existing Grass
 description: The promise of an instant, lush green lawn is incredibly appealing, and for many homeowners, sod offers just that. It bypasses the waiting period of seeding,...
 slug: /laying-sod-over-existing-grass/
@@ -151,3 +151,4 @@ A truly vibrant and resilient sodded lawn is born from diligent preparation. Inv
 When the new turf roots deeply into a welcoming, nutrient-rich, and well-drained soil bed, it forms a robust and sustainable lawn that can withstand environmental stresses and provide years of beauty.
 
 Shortcuts in sod installation are rarely worth the eventual headaches. By embracing the proven methods of proper site preparation, you ensure that your investment yields a healthy, established lawn that genuinely enhances your outdoor living space.
+

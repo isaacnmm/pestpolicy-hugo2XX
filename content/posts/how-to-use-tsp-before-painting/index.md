@@ -1,4 +1,4 @@
----
+﻿---
 title: How to Use Tsp Before Painting
 description: TSP Na3PO4 - Trisodium Phosphate is a detergent an all-purpose cleaner to clean wood, masonry, drywall, and plaster that also leads to skin burns .
 slug: /how-to-use-tsp-before-painting/
@@ -13,9 +13,9 @@ tags:
 layout: post
 ---
 
-TSP (Na3PO4 - Trisodium Phosphate) is a detergent (an all-purpose cleaner) to clean wood, masonry, drywall, and plaster that also leads to [skin burns](http: //greenhouse. ucdavis. edu/pest/fmsds/Trisodium%20phosphate. pdf). You can use it for emergency cleaning, such as in removing soot in preparing for painting.
+TSP (Na3PO4 - Trisodium Phosphate) is a detergent (an all-purpose cleaner) to clean wood, masonry, drywall, and plaster that also leads to [skin burns](http://greenhouse.ucdavis. edu/pest/fmsds/Trisodium%20phosphate. pdf). You can use it for emergency cleaning, such as in removing soot in preparing for painting.
 
-Due to its ability to dissolve and emulsify, TSP has [various uses](https: //en. wikipedia. org/wiki/Trisodium_phosphate), including heavy-duty cleaning, driveways preparation, paintbrush cleaning, paint stripping, and degreasing. - *On how to use tsp before painting, prepare the walls for painting by repairing all cracks, and ensuring sand or smooth the surface walls.
+Due to its ability to dissolve and emulsify, TSP has [various uses](https://en.wikipedia. org/wiki/Trisodium_phosphate), including heavy-duty cleaning, driveways preparation, paintbrush cleaning, paint stripping, and degreasing. - *On how to use tsp before painting, prepare the walls for painting by repairing all cracks, and ensuring sand or smooth the surface walls.
 
 Lay down some drop cloths and tape off the surfaces nearby wood trim, baseboards, and ceiling.
 
@@ -79,10 +79,11 @@ This is particularly so on the disposal of any excess or remaining the TSP solut
 
 TSP has its purpose while the deglossing has the product's purposes. But TSP has both strong cleaning ability and abrasiveness, and hence it'll also remove the gloss from different surfaces, including decorative laminates and painted surfaces. Therefore, you can use TSP like a deglosser - this is when push ultimately comes to shove.
 
-You can use borax to clean ( [just like with baking soda](https: //pestpolicy. com/how-to-remove-paint-from-metal-with-baking-soda/) ) in addition to killing mildews and fungus on different surfaces. [Acetone](https: //pestpolicy. com/does-acetone-remove-paint/) is also an excellent TSP substitu5re for cleaning - you can put the liquid in some spray bottle and get it to your surfaces, including the wooden doors or cabinets.
+You can use borax to clean ( [just like with baking soda](https://pestpolicy.com/how-to-remove-paint-from-metal-with-baking-soda/) ) in addition to killing mildews and fungus on different surfaces. [Acetone](https://pestpolicy.com/does-acetone-remove-paint/) is also an excellent TSP substitu5re for cleaning - you can put the liquid in some spray bottle and get it to your surfaces, including the wooden doors or cabinets.
 
-Another non-hazardous material to clean the surfaces is [vinegar for paint removal](https: //pestpolicy. com/does-vinegar-remove-paint/) - it is a powerful and natural cleaner. It'll love not only just paint but also stick-on hooks, wallpaper paste, and decals from doors and cabinets.
+Another non-hazardous material to clean the surfaces is [vinegar for paint removal](https://pestpolicy.com/does-vinegar-remove-paint/) - it is a powerful and natural cleaner. It'll love not only just paint but also stick-on hooks, wallpaper paste, and decals from doors and cabinets.
 
 ##  Conclusion
 
 Using TSP might be dangerous if you don't utilize protective materials. But TSP can be diluted with warm water to clean surfaces like furniture items and cabinets before painting.
+

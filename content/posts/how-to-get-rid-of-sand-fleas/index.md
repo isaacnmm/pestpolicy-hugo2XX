@@ -1,4 +1,4 @@
----
+﻿---
 title: How to Get Rid Of Sand Fleas
 description: Spring is here and with it, sand fleas . In this article, I'll provide tips on how to get rid of sand fleas. - These tiny parasitic bugs inhabit humid beaches...
 slug: /how-to-get-rid-of-sand-fleas/
@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 
-Spring is here and with it, [sand fleas](https: //en. wikipedia. org/wiki/Tunga_penetrans). In this article, I'll provide tips on how to get [rid](https: //pestpolicy. com/getting-rid-of-fleas-in-the-carpet/) of sand [fleas](https: //pestpolicy. com/how-do-i-get-rid-of-fleas-in-my-house-without-bombing/).
+Spring is here and with it, [sand fleas](https://en.wikipedia. org/wiki/Tunga_penetrans). In this article, I'll provide tips on how to get [rid](https://pestpolicy.com/getting-rid-of-fleas-in-the-carpet/) of sand [fleas](https://pestpolicy.com/how-do-i-get-rid-of-fleas-in-my-house-without-bombing/).
 
 - These tiny parasitic bugs inhabit humid beaches or coastal climates and they're known for their bite, itchiness, and difficulty to get rid of.
 
@@ -109,7 +109,7 @@ If cats & dogs spend any time outside, they may bring in sand fleas on their fur
 
 ###  Step 2: Effectively Wash the Pets
 
-To control the sand fleas, make sure to groom them thoroughly and give them a bath. Groom the fur away from their skin before giving them a thorough scrub with shampoo. - Blow- or towel-dry the pet until they are completely dry, then comb through any mats in the fur before letting it continue to air-dry indoors for 48 hours as this is the[fleas' lifecycle](https: //pestpolicy. com/flea-life-cycle/).
+To control the sand fleas, make sure to groom them thoroughly and give them a bath. Groom the fur away from their skin before giving them a thorough scrub with shampoo. - Blow- or towel-dry the pet until they are completely dry, then comb through any mats in the fur before letting it continue to air-dry indoors for 48 hours as this is the[fleas' lifecycle](https://pestpolicy.com/flea-life-cycle/).
 
 Use an antihistamine on the pet to ease the redness and itching on the sand flea bites.
 
@@ -124,3 +124,4 @@ If you are not sure about how to use a steamer, take your pet toy or bedding wit
 ##  Conclusion
 
 I hope this article has been helpful in finding out how to get rid of sand fleas. If you have any questions about the topic, feel free to post a comment below or share your story with us! Seeya soon: )
+

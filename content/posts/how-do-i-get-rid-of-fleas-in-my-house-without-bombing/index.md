@@ -1,4 +1,4 @@
----
+﻿---
 title: How Do I Get Rid Of Fleas in My House Without Bombing
 description: The Pyrethrins in the flea spray kill the adult fleas targeting the fleas nervous system and thus kill or paralyze them - with IGR - 0.1 pyriproxyfen. - An...
 slug: /how-do-i-get-rid-of-fleas-in-my-house-without-bombing/
@@ -15,13 +15,13 @@ tags:
 layout: post
 ---
 
-The Pyrethrins in the flea spray kill the adult [fleas](https: //pestpolicy. com/can-cats-get-fleas-in-the-winter/) targeting the fleas nervous system and thus kill or paralyze them - with IGR - 0. 1% pyriproxyfen. - An IGR in Ultracide-flea, the pyriproxyfen, will stop various biological triggers, making the flea evolve to its next life cycle stage.
+The Pyrethrins in the flea spray kill the adult [fleas](https://pestpolicy.com/can-cats-get-fleas-in-the-winter/) targeting the fleas nervous system and thus kill or paralyze them - with IGR - 0. 1% pyriproxyfen. - An IGR in Ultracide-flea, the pyriproxyfen, will stop various biological triggers, making the flea evolve to its next life cycle stage.
 
-On how do I get [rid](https: //pestpolicy. com/getting-rid-of-fleas-in-the-carpet/) of fleas in my house without bombing; check the detailed explanation below. These are theflea fogger or flea bomb alternatives.
+On how do I get [rid](https://pestpolicy.com/getting-rid-of-fleas-in-the-carpet/) of fleas in my house without bombing; check the detailed explanation below. These are theflea fogger or flea bomb alternatives.
 
 ##  **1. Pesticide Sprays**
 
-Pesticide sprays kill fleas and are suitable for home use. Watch out for ingredients like resmethrin & permethrin - unsuitable for cat flea treatment. Ensure that any spray you use will [kill the flea eggs on cats](https: //pestpolicy. com/how-to-get-rid-of-flea-eggs-on-cats/). - The combination of pesticide sprays and vacuum is another effective method of removing fleas from your home.
+Pesticide sprays kill fleas and are suitable for home use. Watch out for ingredients like resmethrin & permethrin - unsuitable for cat flea treatment. Ensure that any spray you use will [kill the flea eggs on cats](https://pestpolicy.com/how-to-get-rid-of-flea-eggs-on-cats/). - The combination of pesticide sprays and vacuum is another effective method of removing fleas from your home.
 
 - Areas such as those under the bed, furniture, and even hard-to-reach areas cannot be treated.
 
@@ -52,3 +52,4 @@ Ingredients are 0. 58%Permethrin & 0. 09% IGR. The Good: - Removes all fleas The
 ##  Conclusion
 
 Further, the spray is highly effective in killing fleas that will be hiding under your carpet, particularly the various stages such as pupae, larva, and eggs. However, Ultracide- flea has the same action and composition as the Virbac Knockout and Siphotrol Plus II and will all thus kill and prevent flea infestation.
+

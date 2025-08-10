@@ -1,4 +1,4 @@
----
+﻿---
 title: Does Vinegar Kill Bed Bugs
 description: Does vinegar kill bed bugs?Bed bug infestations have seen an increase in natural bed bug remedies like essential oil for bed bugs .
 slug: /does-vinegar-kill-bed-bugs/
@@ -31,7 +31,7 @@ Typically, vinegar is used in cleaning and food preparation to increase acidity 
 
 ###  **Does Vinegar Repel Bed Bugs?**
 
-Now you know its [possible to kill bed bugs](https: //pestpolicy. com/does-lysol-kill-bed-bugs/) using vinegar. A highly concentrated vinegar will certainly kill bed bugs on contact. But does it also repel bed bugs and prevent them from coming back? A simple answer to this question is yes. As an acid, vinegar has a pungent smell, which quickly diffuses to the surrounding area. Bed bugs hate the pungent smell emitted.
+Now you know its [possible to kill bed bugs](https://pestpolicy.com/does-lysol-kill-bed-bugs/) using vinegar. A highly concentrated vinegar will certainly kill bed bugs on contact. But does it also repel bed bugs and prevent them from coming back? A simple answer to this question is yes. As an acid, vinegar has a pungent smell, which quickly diffuses to the surrounding area. Bed bugs hate the pungent smell emitted.
 
 When you spray on an infested area, bed bugs will start running away from the smell. While this can be good news, it might create another problem. Well, you might successfully repel bed bugs from your bed and mattress. But these creatures will find their way into other places inside the house where theres less repellent smell. When the smell subsides, these bed bugs will come back to look for you.
 
@@ -45,7 +45,7 @@ The most common types of vinegar are white vinegar (corn), apple cider vinegar (
 
 It is also cheap and readily available in your local shop.
 
-Compared to other types of vinegar, white vinegar is the best for [bed bug treatment](https: //pestpolicy. com/does-baby-powder-kill-bed-bugs/). Apple cider vinegar is usually kept in households due to its use for cleaning purposes. However, white vinegar can do cleaning as well in addition to bed bug treatment. Apple cider vinegar wont help you eradicate bed bugs. However, you can use it to treat bed bug bites. It is mild on the skin.
+Compared to other types of vinegar, white vinegar is the best for [bed bug treatment](https://pestpolicy.com/does-baby-powder-kill-bed-bugs/). Apple cider vinegar is usually kept in households due to its use for cleaning purposes. However, white vinegar can do cleaning as well in addition to bed bug treatment. Apple cider vinegar wont help you eradicate bed bugs. However, you can use it to treat bed bug bites. It is mild on the skin.
 
 When applied on bed bug bites, it can reduce the irritation and help in the healing process.
 
@@ -95,7 +95,7 @@ However, vinegar wont affect your couches, beds, and other fabrics.
 
 ###  **4. Won't clear Large Bed Bug Infestations**
 
-Vinegar [kills bed bugs on contact](https: //pestpolicy. com/does-rubbing-alcohol-kill-bed-bugs/), leaving no residual activity. So, it wont have any effect on bed bugs once the surface has dried. If you dont manage to kill all bed bugs, they will emerge once more and continue breeding. For this reason, its advisable to spray vinegar frequently to kill bed bugs that escape previous treatments.
+Vinegar [kills bed bugs on contact](https://pestpolicy.com/does-rubbing-alcohol-kill-bed-bugs/), leaving no residual activity. So, it wont have any effect on bed bugs once the surface has dried. If you dont manage to kill all bed bugs, they will emerge once more and continue breeding. For this reason, its advisable to spray vinegar frequently to kill bed bugs that escape previous treatments.
 
 ##  How to treat bed bug bites using apple seed vinegar:
 
@@ -107,4 +107,5 @@ When used properly, vinegar can provide a natural solution to bed bug infestatio
 
 ##  Sources:
 
-1. Bed Bugs: Clinical Relevance and Control Options 2. [What NOT to Do When you Have Bed Bugs Let's Beat the Bed Bug! ](https: //www. bedbugs. umn. edu/what-not-to-do)
+1. Bed Bugs: Clinical Relevance and Control Options 2. [What NOT to Do When you Have Bed Bugs Let's Beat the Bed Bug! ](https://www.bedbugs. umn. edu/what-not-to-do)
+

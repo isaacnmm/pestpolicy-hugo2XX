@@ -1,4 +1,4 @@
----
+﻿---
 title: Can Fleas Live in Carpets
 description: So, can fleas live in carpets? For pet owners, fleas are an unfortunate part of having animals in the home, and from time to time, you may notice an...
 slug: /can-fleas-live-in-carpets/
@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 
-So, can fleas [live](https: //pestpolicy. com/can-fleas-live-on-clothes/) in carpets? For pet owners, fleas are an unfortunate part of having animals in the home, and from time to time, you may notice an infestation on your pet - maybe you've tried flea foggers? But treating your animal for fleas may not be enough; you need to consider your home too! For the yard, you can try these quality flea sprays for lawns.
+So, can fleas [live](https://pestpolicy.com/can-fleas-live-on-clothes/) in carpets? For pet owners, fleas are an unfortunate part of having animals in the home, and from time to time, you may notice an infestation on your pet - maybe you've tried flea foggers? But treating your animal for fleas may not be enough; you need to consider your home too! For the yard, you can try these quality flea sprays for lawns.
 
 ##  Details: Can Fleas Live in Carpets? Fleas in the Carpet
 
@@ -27,11 +27,11 @@ Of course, the fleas can fall from your pet onto the floor and set up shop deep 
 
 - If you have treated your pet for fleas and have not tackled your carpet, you can be sure that the fleas will continue to inhabit your floor as well as making their way back onto your pet to breed once more.
 
-Related: [Can Fleas Live in Human Hair? ](https: //pestpolicy. com/can-fleas-live-in-human-hair/)
+Related: [Can Fleas Live in Human Hair? ](https://pestpolicy.com/can-fleas-live-in-human-hair/)
 
 ##  How To Clean A Carpet To Get Rid Of Fleas
 
-If you have found yourself with some unwelcome carpet guests, there are things that you can do to rid yourself of the lodgers - [clean the carpet](https: //www. wikihow. com/Get-Rid-of-Fleas-in-Carpets). The simplest solution is to vacuum the carpet thoroughly and don't just stick to carpets where fleas have been seen but vacuum the entire house.
+If you have found yourself with some unwelcome carpet guests, there are things that you can do to rid yourself of the lodgers - [clean the carpet](https://www.wikihow. com/Get-Rid-of-Fleas-in-Carpets). The simplest solution is to vacuum the carpet thoroughly and don't just stick to carpets where fleas have been seen but vacuum the entire house.
 
 - To do this, you should pay particular attention to any crevices and take extra care when vacuuming deep pile carpets to make sure that you thoroughlyremove any fleaeggs. It is preferable to use smaller attachments on hard to reach areas, ensuring you clean everywhere. - After vacuuming, dispose of the vacuum contents or bag to ensure that the fleas cannot escape once again.
 
@@ -45,8 +45,9 @@ The fleas will land in the mixture but will be unable to escape. - Finally, and 
 
 Whilst fleas are a natural part of the world's ecosystem; it's safe to say that they are a huge pest, and once our beloved pets have been treated, we want to make sure that the fleas have been completely eradicated from home. Many people will wash fabrics such as bedding and sofa covers at noticing a flea problem but offers, the carpet is forgotten.
 
-It can seem like a real challenge to tackle with it being such a vast area, and [after all-can fleas live](https: //pestpolicy. com/can-fleas-live-on-clothes/) in carpets? In short, the answer to the previous question is yes; fleas can survive in a car, and so it is vital that you treat and clean the carpets within your home to remedy the f and but they're well fully.
+It can seem like a real challenge to tackle with it being such a vast area, and [after all-can fleas live](https://pestpolicy.com/can-fleas-live-on-clothes/) in carpets? In short, the answer to the previous question is yes; fleas can survive in a car, and so it is vital that you treat and clean the carpets within your home to remedy the f and but they're well fully.
 
 ##  Conclusion
 
 Fleas can be a nightmare for any pet owner, but it doesn't have to be the end of the world. There are some natural methods to remove fleas from home, and these can be easily implemented.
+

@@ -1,4 +1,4 @@
----
+﻿---
 title: Best Lego Set for 11 Year Old Boy
 description: Are you looking for a perfect lego set for your 11-year-old son? youll love my detailed recommendation on the Best Lego Set For an 11-Year-Old Boy.
 slug: /best-lego-set-for-11-year-old-boy/
@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 
-Are you looking for a perfect lego [set](https: //pestpolicy. com/best-lego-sets-for-9-year-old-boy/) for your 11-year-old son? youll love my detailed recommendation on the Best Lego Set For an 11-Year-Old Boy. A Lego set and stunt scooter providesa great opportunity for children to enhance their creative thinking, stimulate their brains, and find solutions to problems.
+Are you looking for a perfect lego [set](https://pestpolicy.com/best-lego-sets-for-9-year-old-boy/) for your 11-year-old son? youll love my detailed recommendation on the Best Lego Set For an 11-Year-Old Boy. A Lego set and stunt scooter providesa great opportunity for children to enhance their creative thinking, stimulate their brains, and find solutions to problems.
 
 Hence, you can pick any Lego set from our list and gift your 11-year-old. All the reviewed products will provide absolute fun for your kid. Make your choice.
 
@@ -35,7 +35,7 @@ The LEGO Avengers Tower also features a robot bay with an amazing fire extinguis
 
 Other accessories that are included in this Lego set include thrusters and a super jumper for Ultron Mark 1, Thor's hammer, Iron Mans wig, and Iron Legions.
 
-This Lego set offers an exciting activity that will help [stimulate your boys creativity](https: //pestpolicy. com/best-lego-sets-for-8-year-old-boy/) and thinking levels. This Lego set is like a movie whereby the Avengers Tower is under attack. Hence, the child needs to come up with a plan to defeat the enemy.
+This Lego set offers an exciting activity that will help [stimulate your boys creativity](https://pestpolicy.com/best-lego-sets-for-8-year-old-boy/) and thinking levels. This Lego set is like a movie whereby the Avengers Tower is under attack. Hence, the child needs to come up with a plan to defeat the enemy.
 
 Pros: - Comes with 511 pieces - Includes 5 exciting Minifigures - Many exciting accessories - Straightforward instructions - Many fun features Cons: - Some instructions are not clear enough
 
@@ -59,7 +59,7 @@ This Lego set has 416 pieces and it's ideal for both boys and girls aged 7 and 1
 
 ###  [3. LEGO Marvel Avengers: Avengers Tower Battle Collectible Building Toy](https://www.amazon.com/dp/B0858JV9RG/?tag=p-policy-20)
 
-The educational objective of this Lego set is to enhance the creative thinking of children. Hence, its one of the best Lego set for 11-year-old boy. It comes with 685 play pieces and other exciting play elements to make your [childs play a memorable one](https: //pestpolicy. com/best-lego-sets-for-9-year-old-boy/).
+The educational objective of this Lego set is to enhance the creative thinking of children. Hence, its one of the best Lego set for 11-year-old boy. It comes with 685 play pieces and other exciting play elements to make your [childs play a memorable one](https://pestpolicy.com/best-lego-sets-for-9-year-old-boy/).
 
 This LEGO Marvel Avengers would be an ideal choice if your child loves adventure and superhero action movies. It a perfect birthday or holiday gift for any child aged 8 years and above.
 
@@ -108,3 +108,4 @@ Pros: - Enhances creative thinking - Comes with 830 pieces - Ideal for kids, you
 Your 11-year-old will appreciate the learning, adventure, fun, and excitement that comes with owning a Lego set. Choosing any of the above-reviewed sets will guarantee excitement and a fun-filled experience for your child.
 
 Youll love how creative and adventurers they have become after seeing them put together all the pieces in a Lego set.
+

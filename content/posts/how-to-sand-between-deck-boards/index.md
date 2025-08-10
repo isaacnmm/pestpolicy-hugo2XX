@@ -1,4 +1,4 @@
----
+﻿---
 title: How to Sand Between Deck Boards
 description: When building a deck, its crucial to learn how to sand between deck boards. You need to ensure that all boards are as smooth as possible.
 slug: /how-to-sand-between-deck-boards/
@@ -16,11 +16,11 @@ layout: post
 
 When building a deck, its crucial to learn how to sand between deck boards. You need to ensure that all boards are as smooth as possible. They must have a similar width for them to be level.
 
-If you dont do that, therell be incongruities between the boards you use. If you do this manually, the procedure of sanding between deck boards will consume time. When preparing to [build your deck](https: //www. extension. iastate. edu/smallfarms/toxicity-concerns-about-raised-bed-construction-materials), these tips on how to sand between deck boards will help you produce a precisely level deck.
+If you dont do that, therell be incongruities between the boards you use. If you do this manually, the procedure of sanding between deck boards will consume time. When preparing to [build your deck](https://www.extension. iastate. edu/smallfarms/toxicity-concerns-about-raised-bed-construction-materials), these tips on how to sand between deck boards will help you produce a precisely level deck.
 
 Requirements: a T-square, level, planer, an electric sander, and sandpaper.
 
-See Also: [how to stain a deck for the first time](https: //pestpolicy. com/how-to-stain-a-deck-for-the-first-time/).
+See Also: [how to stain a deck for the first time](https://pestpolicy.com/how-to-stain-a-deck-for-the-first-time/).
 
 ##  **How to Sand Between Deck Boards (Step by Step)**
 
@@ -44,7 +44,7 @@ Take your time to carry out extra measurements after the planer has done its job
 
 Make sure you leave more than 1/16 of an inch above the actual breadth that every board should reach. The sander takes away the amount that remains and all boards are completely sleek. This is another part thatll possibly take you a couple of hours. If you use machines like planers, you dont have to worry about that because the sanding procedure is built into the machine.
 
-Regardless of whether this is done automatically or manually, now you understand how to sand between deck boards for the best results. Apart from sanding between deck boards, some of the questions you should ask yourself include: See Also: [how to clean a deck before staining](https: //pestpolicy. com/how-to-clean-a-deck-before-staining/).
+Regardless of whether this is done automatically or manually, now you understand how to sand between deck boards for the best results. Apart from sanding between deck boards, some of the questions you should ask yourself include: See Also: [how to clean a deck before staining](https://pestpolicy.com/how-to-clean-a-deck-before-staining/).
 
 ##  **How Do You Sand the Edges Of the Boards?**
 
@@ -56,7 +56,7 @@ Wipe end grains again to free dust before continuing with the sealing and staini
 
 ##  **How Do You Sand the Deck Surface?**
 
-If youre sanding hardwoods, the aim is to get the sleekest surface possible. However, if youre sanding an exterior deck surface, this isnt the case. Use 60-80 grit sandpaper when sanding deck floorboards. See Also: [painting vs staining deck](https: //pestpolicy. com/painting-vs-staining-deck/).
+If youre sanding hardwoods, the aim is to get the sleekest surface possible. However, if youre sanding an exterior deck surface, this isnt the case. Use 60-80 grit sandpaper when sanding deck floorboards. See Also: [painting vs staining deck](https://pestpolicy.com/painting-vs-staining-deck/).
 
 If you sand using fine-grit paper (more than 100-grit), it makes the wood so smooth that the pores start closing down preventing the wood from absorbing stain or sealer.
 
@@ -65,3 +65,4 @@ Apply medium pressure to your hand sander and check that the appearance is even.
 ##  **Summary**
 
 Ensure your deck is completely dry before sanding. Wait for a few days before sanding if it has rained recently. The surface of the deck, rails, and board edges should be treated as separate tasks. The sanding technique for each is different.
+

@@ -1,4 +1,4 @@
----
+﻿---
 title: Are Bed Bug Eggs Hard or Soft
 description: Are bed bug eggs hard or soft? Are they hard or soft? This is a question you might be asking in an attempt to figure out whether the substances youre seeing...
 slug: /are-bed-bug-eggs-hard-or-soft/
@@ -53,20 +53,21 @@ While most chemical products and home remedies may prove effective against bed b
 
 ###  **1. Steaming**
 
-The hard outer shell in a bed bugs egg makes it difficult for pesticides to penetrate. It is possible to kill bed bugs with a dry steamer at all their life stages, including eggs - use bed bug steamers to kill flea larvae and eggs. Most steamers come with nozzle attachments, which allow you to direct the steam into [crevices where bed bugs](https: //pestpolicy. com/bed-bug-bites-vs-mosquito-bites/) lay their eggs.
+The hard outer shell in a bed bugs egg makes it difficult for pesticides to penetrate. It is possible to kill bed bugs with a dry steamer at all their life stages, including eggs - use bed bug steamers to kill flea larvae and eggs. Most steamers come with nozzle attachments, which allow you to direct the steam into [crevices where bed bugs](https://pestpolicy.com/bed-bug-bites-vs-mosquito-bites/) lay their eggs.
 
 They also come with upholstery nozzle attachments, which can be used to steam upholstery.
 
 ###  **2. Freezing**
 
-Another effective method for destroying bed bug eggs is to expose them to shallow temperatures - adult bed bugs can be trapped. Bed bugs and their [eggs cannot survive](https: //pestpolicy. com/can-bed-bugs-survive-in-water/) at temperatures below 3 degrees Fahrenheit. You can also use [ammonia to kill bed bugs](https: //www. bedbugsinsider. com/can-you-kill-bed-bugs-with-ammonia/), among other cheap remedies.
+Another effective method for destroying bed bug eggs is to expose them to shallow temperatures - adult bed bugs can be trapped. Bed bugs and their [eggs cannot survive](https://pestpolicy.com/can-bed-bugs-survive-in-water/) at temperatures below 3 degrees Fahrenheit. You can also use [ammonia to kill bed bugs](https://www.bedbugsinsider. com/can-you-kill-bed-bugs-with-ammonia/), among other cheap remedies.
 
 Leaving infested items outside during the winter season will kill bed bugs and their eggs. If possible, you can put the infested items in a freezer to kill the bed bugs and eggs.
 
 ##  **Conclusion**
 
-However, squashing bed bug eggs does not effectively eradicate bed bugs - [mattress encasement](https: //pestpolicy. com/best-bed-bug-mattress-encasements/) can also help. The use of chemicals may also prove futile because they may not penetrate the hard outer shell found in bed bug eggs. The most effective methods for destroying bed bug eggs include steaming or freezing.
+However, squashing bed bug eggs does not effectively eradicate bed bugs - [mattress encasement](https://pestpolicy.com/best-bed-bug-mattress-encasements/) can also help. The use of chemicals may also prove futile because they may not penetrate the hard outer shell found in bed bug eggs. The most effective methods for destroying bed bug eggs include steaming or freezing.
 
 ##  Sources:
 
-1. [Bed Bug Management Guidelines--UC IPM](http: //ipm. ucanr. edu/PMG/PESTNOTES/pn7454. html)
+1. [Bed Bug Management Guidelines--UC IPM](http://ipm.ucanr. edu/PMG/PESTNOTES/pn7454. html)
+

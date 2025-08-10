@@ -1,4 +1,4 @@
----
+﻿---
 title: How to Trap Raccoons
 description: Quality raccoon traps, if used correctly, will give you high success rates. In this post, I've discussed how to trap raccoons.
 slug: /how-to-trap-raccoons/
@@ -17,17 +17,17 @@ layout: post
 
 Quality raccoon traps, if used correctly, will give you high success rates.
 
-In this post, I've discussed how to trap raccoons. Check these [racoon facts](https: //pestpolicy. com/raccoon-facts/).
+In this post, I've discussed how to trap raccoons. Check these [racoon facts](https://pestpolicy.com/raccoon-facts/).
 
 Caution: But check with the local authorities if raccoon trapping is legal or how to do it humanely.
 
-Related: [How to control Racoons](https: //pestpolicy. com/how-to-get-rid-of-raccoons/)
+Related: [How to control Racoons](https://pestpolicy.com/how-to-get-rid-of-raccoons/)
 
 ##  How to Trap Raccoons
 
 ###  **Step 1:**Select a Raccoon Trap
 
-[Raccoons](https: //www. esf. edu/aec/adks/mammals/raccoon. htm) are adaptive wild animals. They host pests like roundworms and spread rabies, and will forage in your garbage bins. Killing or hunting raccoons is illegal in some states.
+[Raccoons](https://www.esf. edu/aec/adks/mammals/raccoon. htm) are adaptive wild animals. They host pests like roundworms and spread rabies, and will forage in your garbage bins. Killing or hunting raccoons is illegal in some states.
 
 You can trap and then relocate them. Raccoon traps are a humane way to remove these fur-bearing wild animals.
 
@@ -63,13 +63,13 @@ Check the trap usage instruction in the manual for different requirements. After
 
 However, if you're setting the trap in hard surfaces such as concrete, first lay down a protective surface like plywood to protect the animal's paws when attempting to dig its way out of the tar.
 
-Related: [How to Trap Raccoons](https: //pestpolicy. com/how-to-trap-raccoons/)
+Related: [How to Trap Raccoons](https://pestpolicy.com/how-to-trap-raccoons/)
 
 ##  Rules for Using Raccoon Traps
 
 ###  **1. Open Trap Doors only at Night (Raccoons are Nocturnals)**
 
-Raccoons are very cunning wild animals (rodents for that matter). Therefore, recent [research](http: //ipm. ucanr. edu/PMG/PESTNOTES/pn74116. html) shows that the back of the raccoon trap must be covered using a half-inch wire mesh to ensure that the raccoon wont steal the bait from outside the trap.
+Raccoons are very cunning wild animals (rodents for that matter). Therefore, recent [research](http://ipm.ucanr. edu/PMG/PESTNOTES/pn74116. html) shows that the back of the raccoon trap must be covered using a half-inch wire mesh to ensure that the raccoon wont steal the bait from outside the trap.
 
 Definitely, the rodents will attempt to get the bait via the trap bars. However, because raccoons are nocturnal, you should only open the traps during the night. This'll prevent the trap catching animals such as cats or rats.
 
@@ -81,7 +81,7 @@ Also, you can place it around places food was located. This will trap the raccoo
 
 ##  3. Practices for Humana Raccoon Trapping
 
-For human treatment of the Raccoons, you [should](http: //wdfw. wa. gov/living/nuisance/trapping. html) put 1-2 tennis balls in the raccoon traps and thus allow the large rodents to release its frustration and energy. Further, for the smaller animal, you can offer some piece of wood.
+For human treatment of the Raccoons, you [should](http://wdfw.wa. gov/living/nuisance/trapping. html) put 1-2 tennis balls in the raccoon traps and thus allow the large rodents to release its frustration and energy. Further, for the smaller animal, you can offer some piece of wood.
 
 Related: Best racoon baits
 
@@ -99,4 +99,5 @@ Therefore, with some simple manoeuvres, the wild animals can flip the cage and f
 
 ##  **Sources**
 
-1. [Trap-Vaccinate-Release Program to Control Raccoon Rabies. .. - NCBI](https: //www. ncbi. nlm. nih. gov/pmc/articles/PMC3376792/) 2. [Best Management Practices for Trapping Raccoons in the United States](https: //www. dec. ny. gov/docs/wildlife_pdf/trapbmpsraccoon. pdf) 3. Trapping Nuisance Wildlife Purdue Extension Forestry & Natural
+1. [Trap-Vaccinate-Release Program to Control Raccoon Rabies. .. - NCBI](https://www.ncbi. nlm. nih. gov/pmc/articles/PMC3376792/) 2. [Best Management Practices for Trapping Raccoons in the United States](https://www.dec. ny. gov/docs/wildlife_pdf/trapbmpsraccoon. pdf) 3. Trapping Nuisance Wildlife Purdue Extension Forestry & Natural
+

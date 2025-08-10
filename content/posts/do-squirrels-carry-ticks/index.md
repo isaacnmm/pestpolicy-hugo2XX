@@ -1,4 +1,4 @@
----
+﻿---
 title: Do Squirrels Carry Ticks
 description: Squirrels are part of the bigger rodents family . They are prone to pests and parasites but do squirrels carry ticks? Do Squirrels Carry Ticks?
 slug: /do-squirrels-carry-ticks/
@@ -15,11 +15,11 @@ tags:
 layout: post
 ---
 
-Squirrels are part of the bigger rodents family. They are prone to pests and parasites but do squirrels carry ticks? **Do Squirrels Carry Ticks? Yes, squirrels can carry ticks, and they also carry other parasites like fleas and spread them to pets and also humans. ** - **Among the most common ticks are the [squirrel](https: //pestpolicy. com/do-squirrels-attack-humans/) ticks. They are also likely to host ticks that cause Lyme disease.
+Squirrels are part of the bigger rodents family. They are prone to pests and parasites but do squirrels carry ticks? **Do Squirrels Carry Ticks? Yes, squirrels can carry ticks, and they also carry other parasites like fleas and spread them to pets and also humans. ** - **Among the most common ticks are the [squirrel](https://pestpolicy.com/do-squirrels-attack-humans/) ticks. They are also likely to host ticks that cause Lyme disease.
 
 ** **Squirrels are known for their long fluffy tail as they invade cereals, nuts, and other foods from our homes. They bring harm by spreading diseases that are caused by ticks and fleas and other parasites. **
 
-Well, if you like [squirrels as a pet](https: //pestpolicy. com/how-long-do-squirrels-live/) or you have wild squirrels invading your home, they are all likely to spread pests, parasites, and diseases in your home.
+Well, if you like [squirrels as a pet](https://pestpolicy.com/how-long-do-squirrels-live/) or you have wild squirrels invading your home, they are all likely to spread pests, parasites, and diseases in your home.
 
 ##  Details: Do Squirrels Carry Ticks?
 
@@ -79,4 +79,5 @@ As for sprays, it is much effective if you use cotton balls instead of spraying 
 
 ##  Conclusion
 
-Do squirrels carry ticks? Yes, they do. And these ticks are possible spreaders of Lyme disease among others. - If you keep a squirrel as a pet, you need to check for ticks and take immediate action to control them. If you are a victim of wild squirrels, there are [possible ways to control them](https: //pestpolicy. com/how-to-get-rid-of-squirrels-in-the-yard/) from invading your house as described in the article above.
+Do squirrels carry ticks? Yes, they do. And these ticks are possible spreaders of Lyme disease among others. - If you keep a squirrel as a pet, you need to check for ticks and take immediate action to control them. If you are a victim of wild squirrels, there are [possible ways to control them](https://pestpolicy.com/how-to-get-rid-of-squirrels-in-the-yard/) from invading your house as described in the article above.
+

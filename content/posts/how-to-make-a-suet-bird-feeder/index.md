@@ -1,4 +1,4 @@
----
+﻿---
 title: How to Make a Suet Bird Feeder
 description: Attracting a diverse array of birds to your garden is one of the most rewarding aspects of wildlife gardening. While seed feeders are popular, suet feeders...
 slug: /how-to-make-a-suet-bird-feeder/
@@ -59,9 +59,7 @@ This is the most common and versatile way to make suet for feeders.
 
 * **Fat Base: ** 1 cup rendered suet (beef fat is traditional), lard, bacon grease, or vegetable shortening (ensure it's 100% pure, unhydrogenated if possible, and not butter or margarine).
 
-* **Binders/Fillers: ** * 1/2 - 1 cup cornmeal (helps bind and provides energy) * 1/2 - 1 cup flour (all-purpose) * **Add-ins (Choose a mix, up to 2-3 cups total): ** * Wild [bird](https: //pestpolicy.
-
-com/bird-friendly-backyard-ideas/) seed (black oil sunflower, millet, cracked corn) * Chopped nuts (peanuts, walnuts, pecans unsalted) * Dried fruit (raisins, cranberries, chopped apricots unsweetened, unsulphured) * Oats (rolled oats, instant oats) * Peanut butter (creamy or crunchy, plain, unsalted) * Dried mealworms (excellent protein)
+* **Binders/Fillers: ** * 1/2 - 1 cup cornmeal (helps bind and provides energy) * 1/2 - 1 cup flour (all-purpose) * **Add-ins (Choose a mix, up to 2-3 cups total): ** * Wild [bird](https://pestpolicy.com/bird-friendly-backyard-ideas/) seed (black oil sunflower, millet, cracked corn) * Chopped nuts (peanuts, walnuts, pecans unsalted) * Dried fruit (raisins, cranberries, chopped apricots unsweetened, unsulphured) * Oats (rolled oats, instant oats) * Peanut butter (creamy or crunchy, plain, unsalted) * Dried mealworms (excellent protein)
 
 **Equipment: **
 
@@ -122,3 +120,4 @@ Adjust consistency by adding more dry ingredients if needed. 3.
 Making your own suet feeder is a delightful and impactful way to support local bird populations, especially those insectivorous species often overlooked by traditional seed feeders. Whether you opt for a classic fat cake, a charming pine cone, or a rustic log feeder, the process is straightforward and allows for creative customization.
 
 By providing a vital source of high-energy fat, particularly during challenging times of the year (or cooler periods in warmer climates like Nairobi), you'll not only contribute to the well-being of backyard birds but also gain immense satisfaction from observing the diverse avian life that flocks to your homemade offering. Get ready to enjoy a more vibrant and bustling bird-friendly garden!
+

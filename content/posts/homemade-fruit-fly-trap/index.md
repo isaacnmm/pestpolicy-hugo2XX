@@ -1,4 +1,4 @@
----
+﻿---
 title: Homemade Fruit Fly Trap
 description: How would you love a homemade fruit fly trap? At times, you may find your compound or house, especially the kitchen, overtaken by a swarm of fruit flies. -...
 slug: /homemade-fruit-fly-trap/
@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 
-How would you love a homemade fruit fly trap? At times, you may find your compound or house, especially the kitchen, overtaken by a swarm of fruit [flies](https: //pestpolicy. com/how-to-get-rid-of-drain-flies-in-septic-tank/). - This will upset you. Fruit flies will make your house look messy and unkempt. *Maybe you have even tried to remove the attractants of these fruit flies without succeeding?
+How would you love a homemade fruit fly trap? At times, you may find your compound or house, especially the kitchen, overtaken by a swarm of fruit [flies](https://pestpolicy.com/how-to-get-rid-of-drain-flies-in-septic-tank/). - This will upset you. Fruit flies will make your house look messy and unkempt. *Maybe you have even tried to remove the attractants of these fruit flies without succeeding?
 
 In this article, I've discussed the top fruit fly traps you can DIY.
 
@@ -35,9 +35,7 @@ Vinegar trap is my best homemade Trap that will trap over 70% of fruit flies in 
 
 You will require to make two or three vinegar traps in case the swam of the fruit flies is large.
 
-- This Trap's principle is that vinegar emits an attractive scent that lures the fruit flies into the bottle or glass). - Once the fruit flies enter the container (through the tiny holes), they cannot come out (they get trapped inside). Apple cider vinegar is more potent than white vinegar due to nectary spices added to it. You will require to empty the Trap after every 2 to 3 days. Check these [commercial fly traps](https: //pestpolicy.
-
-com/best-fly-trap/).
+- This Trap's principle is that vinegar emits an attractive scent that lures the fruit flies into the bottle or glass). - Once the fruit flies enter the container (through the tiny holes), they cannot come out (they get trapped inside). Apple cider vinegar is more potent than white vinegar due to nectary spices added to it. You will require to empty the Trap after every 2 to 3 days. Check these [commercial fly traps](https://pestpolicy.com/best-fly-trap/).
 
 ###  2. Old wine or beer bottle Trap
 
@@ -69,9 +67,7 @@ Once the attracted fruit flies land/step on the sticky, viscous dish soap, they 
 
 Normally, the Trap may take 3 to 7 days to trap a substantial number of fruit fries. The attractant smell will intensify as days go by due to the fermentation process. It is not advisable to hold long trapped fruit flies as they may decompose, thus messing with the Trap. You will, therefore, require to empty the Trap after every 5 to 8 days of use.
 
-In such a case, you can scoop the top layer of the dish soap and top up the remainder with a fresh one, or else you replace the entire decoy (dish soap). Alternatively, you can spice your dish soap trap with some vinegar or ripe fruits to boost the bait's attraction strength. This is usually in a cold area where low temperatures highly inhibit scent diffusion. Related: [Best Fly Spray for Horses](https: //pestpolicy.
-
-com/best-fly-spray-for-horses/)
+In such a case, you can scoop the top layer of the dish soap and top up the remainder with a fresh one, or else you replace the entire decoy (dish soap). Alternatively, you can spice your dish soap trap with some vinegar or ripe fruits to boost the bait's attraction strength. This is usually in a cold area where low temperatures highly inhibit scent diffusion. Related: [Best Fly Spray for Horses](https://pestpolicy.com/best-fly-spray-for-horses/)
 
 ###  5. Banana jar Trap
 
@@ -128,3 +124,4 @@ The following are some of the measures that you can take to prevent fruit flies 
 ##  Conclusion
 
 You can trap fruit flies using a homemade trap right at your home. You can use vinegar, milk, sugar, fruits, fermenting or rotting substances, peppers, or even peels from vegetables to achieve this. When placed in a regulated container, these substances emit a scent that attracts fruit flies, which get trapped once they flew in. Not all homemade fruit flies can be used indoors.
+

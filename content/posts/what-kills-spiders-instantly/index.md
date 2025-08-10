@@ -1,4 +1,4 @@
----
+﻿---
 title: What Kills Spiders Instantly
 description: This question of what kills spiders instantly is very tricky. Why kill the spiders when a large number are harmless? Some eat mosquitoes and other bugs in our...
 slug: /what-kills-spiders-instantly/
@@ -19,7 +19,7 @@ This question of what kills spiders instantly is very tricky. Why kill the spide
 
 You can also use pest control products that kill fast though on the other hand, their safety levels are questionable.
 
-** That notwithstanding, spiders in our houses-whether venomous or not make our houses look untidy. Related: [Compare [Spider](https: //pestpolicy. com/can-you-drown-a-spider/) Bite to Mosquito Bite](https: //pestpolicy. com/spider-bite-vs-mosquito-bite/).
+** That notwithstanding, spiders in our houses-whether venomous or not make our houses look untidy. Related: [Compare [Spider](https://pestpolicy.com/can-you-drown-a-spider/) Bite to Mosquito Bite](https://pestpolicy.com/spider-bite-vs-mosquito-bite/).
 
 ##  What Kills Spiders Instantly? - A Safer and Quicker Remedy
 
@@ -29,7 +29,7 @@ Essential oils, vinegar, cider, ammonia, diatomaceous earth can be used.
 
 ###  **1. Diatomaceous Earth**
 
-This is a white powder that is very common for use in our households to control [common bugs and pests](https: //pestpolicy. com/do-spiders-have-antennae/). The good thing about this powder is that it is safe for home use even when there are children and pets. - This powder works by dehydrating spiders causing them to die. It absorbs the soils, waters, and fats from the spiders causing their death.
+This is a white powder that is very common for use in our households to control [common bugs and pests](https://pestpolicy.com/do-spiders-have-antennae/). The good thing about this powder is that it is safe for home use even when there are children and pets. - This powder works by dehydrating spiders causing them to die. It absorbs the soils, waters, and fats from the spiders causing their death.
 
 - After contact with DE, it will not take more than 24 hours before the spider dies.
 
@@ -77,4 +77,5 @@ Poor housekeeping is also a good recipe to attract spiders into your house. - If
 
 Other than what kills spiders instantly, you can consider repelling them away from your home. - This is despite some being venomous but a big number of spiders are also harmless and sometimes helpful by preying on dangerous insects in our homes like mosquitoes. - Even so, allowing spiders into our house makes it look weird and sometimes untidy.
 
-Instead of killing them, you can repel them to the natural environment [or trap them](https: //pestpolicy. com/best-spider-traps/) because they are an important part of other parts of the ecosystem. As discussed, use the trick of natural and safe ways of repelling spiders away from your home without harming them.
+Instead of killing them, you can repel them to the natural environment [or trap them](https://pestpolicy.com/best-spider-traps/) because they are an important part of other parts of the ecosystem. As discussed, use the trick of natural and safe ways of repelling spiders away from your home without harming them.
+

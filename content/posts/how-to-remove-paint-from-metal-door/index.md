@@ -1,4 +1,4 @@
----
+﻿---
 title: How to Remove Paint from Metal Door
 description: In this guide, Ill show you how to remove paint from the metal door - paint that maybe landed there on purpose or from errant paint drips and splatters ....
 slug: /how-to-remove-paint-from-metal-door/
@@ -14,7 +14,7 @@ tags:
 layout: post
 ---
 
-In this guide, Ill show you how to remove paint from the [metal](https: //pestpolicy. com/can-you-use-acrylic-paint-on-metal/) door - [paint](https: //pestpolicy. com/how-to-remove-paint-from-metal-railing/) that maybe landed there on purpose or from [errant paint drips and splatters](https: //www. artcons. udel. edu/mitra/Documents/MITRA_Mediums_and_Additives. pdf).
+In this guide, Ill show you how to remove paint from the [metal](https://pestpolicy.com/can-you-use-acrylic-paint-on-metal/) door - [paint](https://pestpolicy.com/how-to-remove-paint-from-metal-railing/) that maybe landed there on purpose or from [errant paint drips and splatters](https://www.artcons. udel. edu/mitra/Documents/MITRA_Mediums_and_Additives. pdf).
 
 Water and soap definitely won't scrape off stubborn paint from the metal doors, doorknobs, hinges, and radiators. First, I would recommend using a paint stripper for metal to remove the paint leave the metal bare.
 
@@ -68,8 +68,9 @@ Cleaning agent - This must be a mild cleaning agent like trisodium phosphate (TS
 
 I would recommend that you also use a Scotch-Brite pad that'll you'll dip inside the cleaning solution and finally scrub the pint from the metal door - repeat if necessary. 3. Paint thinner - When the paint specks don't fall off upon using the cleaning agent, you can now proceed to use a paint thinner plus additional elbow-grease - but you'll also need to practice a lot of patience as you apply the thinner so that it removes the paint. 4.
 
-Use lacquer thinner or Acetone - So, finally, it's now time to get to the ultimate solution for removing paint - lacquer thinner or Acetone. However, these could discolor and dull the metal and wood finishes, so it'll help try the chemical at one corner of the metal door. > See Also: > [Removing Latex Paint from Metal](https: //pestpolicy. com/how-to-remove-latex-paint-from-metal/)
+Use lacquer thinner or Acetone - So, finally, it's now time to get to the ultimate solution for removing paint - lacquer thinner or Acetone. However, these could discolor and dull the metal and wood finishes, so it'll help try the chemical at one corner of the metal door. > See Also: > [Removing Latex Paint from Metal](https://pestpolicy.com/how-to-remove-latex-paint-from-metal/)
 
 ##  Conclusion
 
 Use the best heat gun to remove the paint from the metal door - this one will curl the paint, and hence you can easily use a scraper to remove the paint. It'll warm the paint coat and make it soft, ready for scrapping. However, don't the heat gun on wood as it'll discolor or burn it.
+

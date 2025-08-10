@@ -1,4 +1,4 @@
----
+﻿---
 title: How to Paint a Wall With a Brush
 description: Owning a classic painted wall is crucial in improving the aesthetic finish outlook of interior painting or exterior wall.
 slug: /how-to-paint-a-wall-with-a-brush/
@@ -14,7 +14,7 @@ tags:
 layout: post
 ---
 
-Owning a classic painted [wall](https: //pestpolicy. com/3d-wall-painting-for-your-bedroom/) is crucial in improving the aesthetic finish outlook of interior painting or exterior wall. Painting a wall with a brush may be challenging, especially when the wrong [paintbrush](https: //www. amazon. com/dp/B07JHQ4L4F/? tag=p-policy-20) is used for a particular wall surface.
+Owning a classic painted [wall](https://pestpolicy.com/3d-wall-painting-for-your-bedroom/) is crucial in improving the aesthetic finish outlook of interior painting or exterior wall. Painting a wall with a brush may be challenging, especially when the wrong [paintbrush](https://www.amazon. com/dp/B07JHQ4L4F/? tag=p-policy-20) is used for a particular wall surface.
 
 Proper use of a brush is necessary in order to attain an excellent paint finish. Could you be planning to paint your wall using a paintbrush and wonder how to go about it? *Well, in this article, I will be discussing how to paint a wall with a brush. To begin with, you will need to select the right paintbrush for walls, prepare the wall surface, prepare the paint before loading the paintbrush sufficiently.
 
@@ -24,7 +24,7 @@ Further, apply the paint gently, smoothen the finish, and clean the paintbrush b
 
 ###  a. Step 1: Paintbrush Selection
 
-The selection of paintbrushes is a function of the type of surface underpainting and the design of the wall surface. A flat wall needs a wide brush to reduce runs, while a narrow wall surface is well painted with a medium or [small width brush](https: //www. amazon. com/dp/B000PGRPU2/? tag=p-policy-20). Consider angled edge brush for paint finish it helps eliminate drains/runs without distorting the primary paint layer.
+The selection of paintbrushes is a function of the type of surface underpainting and the design of the wall surface. A flat wall needs a wide brush to reduce runs, while a narrow wall surface is well painted with a medium or [small width brush](https://www.amazon. com/dp/B000PGRPU2/? tag=p-policy-20). Consider angled edge brush for paint finish it helps eliminate drains/runs without distorting the primary paint layer.
 
 The Wall surface with corners should be painted with a round brush or narrow angled brush that allows easier cutting and edge penetration. Choose a paintbrush with short filaments (releases paint smoothly without drains). Brush with long filaments is best for concrete walls than on wooden walls. Otherwise, long bristles are susceptible to bending (when pressing) and load excess paint that may initiate drains over the surface.
 
@@ -32,15 +32,11 @@ Consider a paintbrush with a flexible handle (for cutting round wall corners) or
 
 ###  b. Step 2: Wall Surface Preparation
 
-During surface preparation, you need to follow the guidelines given below: - Wear proper protective gear gloves, boots, goggles, overall/dust coat, and respirator - Sand the surfaces using[sandpaper](https: //pestpolicy.
-
-com/what-grit-sandpaper-for-primer-before-paint/)(for the wood reinforced wall) or polish the concrete wall gently using a hand sander to eliminate surface debris and old paint layer - Using a blower, blow off the dust and dirt particle from the wall surface to improve the surface stickiness and reduce peeling occurrences - In case of a concrete wall, seal the surface holes or damaged area with patching compound and sand smoothly before any painting work is carried out - Wash the surface with water (where necessary) and rinse with a piece of cloth to dryness to remove fined dust particle
+During surface preparation, you need to follow the guidelines given below: - Wear proper protective gear gloves, boots, goggles, overall/dust coat, and respirator - Sand the surfaces using[sandpaper](https://pestpolicy.com/what-grit-sandpaper-for-primer-before-paint/)(for the wood reinforced wall) or polish the concrete wall gently using a hand sander to eliminate surface debris and old paint layer - Using a blower, blow off the dust and dirt particle from the wall surface to improve the surface stickiness and reduce peeling occurrences - In case of a concrete wall, seal the surface holes or damaged area with patching compound and sand smoothly before any painting work is carried out - Wash the surface with water (where necessary) and rinse with a piece of cloth to dryness to remove fined dust particle
 
 ###  c. Step 3: Paint Selection and Preparation
 
-When selecting paint for wall application, you must consider the type of wall to be painted and the prevailing climate of the area. Oil-based paint is best when used on exterior walls, while water-based paint is best for interior wall applications. Most [acrylic paints](https: //pestpolicy.
-
-com/can-you-use-acrylic-paint-on-metal/) are resist fading, mold/mildew, and comes with UV-rays protection properties such paints guarantee you incredible wall surface protection when used on exterior walls.
+When selecting paint for wall application, you must consider the type of wall to be painted and the prevailing climate of the area. Oil-based paint is best when used on exterior walls, while water-based paint is best for interior wall applications. Most [acrylic paints](https://pestpolicy.com/can-you-use-acrylic-paint-on-metal/) are resist fading, mold/mildew, and comes with UV-rays protection properties such paints guarantee you incredible wall surface protection when used on exterior walls.
 
 Latex paint is simple to prepare, apply, and remove its best for interior wall painting, especially on the fireplace, its less flammable. Paint preparation should be carried out according to the manufacturers guidelines and precautions given on the labels should be adhered to. Besides, do not over dilute or under dilute paint to a degree that the paintbrush cant handle.
 
@@ -109,3 +105,4 @@ Never overload a paintbrush when painting it created drains/runs on the wall sur
 Having read this article on how to paint a wall with a brush, you must have gained ample skills that will enable you to carry out wall painting or DIY projects without any problem. The procedure entails brush selection, surface preparation, paint preparation, and surface prepping where necessary. Moreover, carry out actual painting stepwise, smoothen the finish coat, and clean the brush before storing it appropriately.
 
 Importantly, wear appropriate protective gear when carrying out wall painting and adhere to precautions highlighted in this article accordingly.
+

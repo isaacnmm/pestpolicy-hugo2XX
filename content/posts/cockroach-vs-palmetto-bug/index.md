@@ -1,4 +1,4 @@
----
+﻿---
 title: Cockroach Vs Palmetto Bug
 description: Cockroach Vs. Palmetto Bug - when people say the word cockroach, they are ordinarily using a familiar name to refer to two types of insects from the same...
 slug: /cockroach-vs-palmetto-bug/
@@ -21,7 +21,7 @@ In the ongoing battle between the cockroach vs. the palmetto bug, it's often dis
 
 ##  Cockroach Vs. Palmetto Bug: What're the Difference?
 
-While there are over 4, 500 various [cockroaches](https: //pestpolicy. com/cockroach-eggs/) species, these two provide a constant source of confusion for people. Yet, there are some notable differences. So let's put on our boxing gloves, step in the ring, get behind our favorite [cockroach](https: //pestpolicy. com/how-to-kill-cockroach-eggs/), and see what they are. Read Also: What do roaches smell like?
+While there are over 4, 500 various [cockroaches](https://pestpolicy.com/cockroach-eggs/) species, these two provide a constant source of confusion for people. Yet, there are some notable differences. So let's put on our boxing gloves, step in the ring, get behind our favorite [cockroach](https://pestpolicy.com/how-to-kill-cockroach-eggs/), and see what they are. Read Also: What do roaches smell like?
 
 Well, the most straightforward answer is a cockroach.
 
@@ -53,8 +53,9 @@ Because they are nocturnal, you can have a hard time finding these pests as you 
 
 The following are some signs that your home is infested with palmetto bugs: - They emit an unmistakable musty scent - They shed their skins and leave droppings similar to pepper flakes in crevices and cracks - How to Get Rid of Palmetto Bugs The best and most effective way and the quickest is to call an exterminator to spray your home's interior and exterior.
 
-This is highly recommended. But there are also other available methods: - Buy some traps - Spray them with a bottle of oil and water or plain soap and water - Make a poison using three partsboric acidand one part powdered sugar The sugar is the lure, and then the boric acid takes over and kills them. Read Also: [Do Cockroaches Bite? ](https: //pestpolicy. com/do-cockroaches-bite/)
+This is highly recommended. But there are also other available methods: - Buy some traps - Spray them with a bottle of oil and water or plain soap and water - Make a poison using three partsboric acidand one part powdered sugar The sugar is the lure, and then the boric acid takes over and kills them. Read Also: [Do Cockroaches Bite? ](https://pestpolicy.com/do-cockroaches-bite/)
 
 ##  Conclusion
 
 As if that isn't enough, these hardy cockroaches can survive two or three months minus food and go an entire month with no water. They also have a reasonably long lifespan, specifically the females, and can live for a year or more.
+

@@ -1,4 +1,4 @@
----
+﻿---
 title: Bed Bugs Vs Roaches
 description: If there are pests in your house that look like cockroaches or bed bugs you'd better be sure. One of them will cause damage in the kitchen while the other...
 slug: /bed-bugs-vs-roaches/
@@ -23,7 +23,7 @@ You will find it less time-consuming and less costly if you control either roach
 
 ##  What Are Bed Bugs?
 
-[Bed bugs](https: //www. epa. gov/bedbugs/introduction-[bed-bugs](https: //pestpolicy. com/bed-bug-bites-vs-mosquito-bites/)) have oval-shaped (flattened) bodies that are reddish-brown in color. The pests will grow larger with age but they generally measure like poppy seeds. - Baby bed bugsare comparable in size to adult bed bugs but they will be lightly colored.
+[Bed bugs](https://www.epa. gov/bedbugs/introduction-[bed-bugs](https://pestpolicy.com/bed-bug-bites-vs-mosquito-bites/)) have oval-shaped (flattened) bodies that are reddish-brown in color. The pests will grow larger with age but they generally measure like poppy seeds. - Baby bed bugsare comparable in size to adult bed bugs but they will be lightly colored.
 
 Bed bugs won't fly but they come with wing-like structures and I think but short antennas on their head.
 
@@ -51,7 +51,7 @@ On the other hand, cockroaches will bite humans but rarely (they dont suck blood
 
 ###  2. Running or Fighting?
 
-Cockroaches and bed bugs generally avoid going near humans during the day (during activity) and thus they will run from people. - During the day, bed bugs and cockroaches will avoid human contact and hide[under carpets](https: //pestpolicy. com/can-bed-bugs-live-in-carpet/), and cracks. An attempt to attack either cockroaches or bed bugs will cause these pests to run and hide.
+Cockroaches and bed bugs generally avoid going near humans during the day (during activity) and thus they will run from people. - During the day, bed bugs and cockroaches will avoid human contact and hide[under carpets](https://pestpolicy.com/can-bed-bugs-live-in-carpet/), and cracks. An attempt to attack either cockroaches or bed bugs will cause these pests to run and hide.
 
 Unlike cockroaches, bed bugs have no adaptation to enable them to fight humans.
 
@@ -61,7 +61,7 @@ However, a direct confrontation between coaches and humans will have the pest ru
 
 ###  3. Do roaches or Bed Bug Fly?
 
-On flying, both bed bugs and roaches have wings. These wings, however, are used differently in these pests. - For example, bed bugs are crawlers and thus they wont fly. Bed bugs will hide in mattresses ([but you can use mattress covers](https: //pestpolicy. com/best-bed-bug-mattress-encasements/)) and so these pests will not require to fly to get to their host - the humans being sleeping on the bed.
+On flying, both bed bugs and roaches have wings. These wings, however, are used differently in these pests. - For example, bed bugs are crawlers and thus they wont fly. Bed bugs will hide in mattresses ([but you can use mattress covers](https://pestpolicy.com/best-bed-bug-mattress-encasements/)) and so these pests will not require to fly to get to their host - the humans being sleeping on the bed.
 
 Further, bed bugs will largely hide in indoor spaces (the home) and thus they dont need to fly long distances or move outdoors. However, cockroaches are able to glide through the air and may even fly. - This might come as a surprise to most homeowners. - The cockroaches have a hard body that tends to hide their wings. During flying the cockroach will open its hard outer shell and spread its wings.
 
@@ -77,7 +77,7 @@ Cockroaches on the other hand are also known to be nocturnal.
 
 ###  5. Do Roaches or Bed Bugs Spread Diseases?
 
-Despite the fact that bed bugs will survive by sucking human blood, no scientific proof shows that they do really spread diseases. - But the[bed bug's saliva](https: //pestpolicy. com/how-long-do-bed-bug-bites-last/)may trigger itching in humans and this may result in intense scratching around the bite area. - Such scratches on the human skin could result in infections.
+Despite the fact that bed bugs will survive by sucking human blood, no scientific proof shows that they do really spread diseases. - But the[bed bug's saliva](https://pestpolicy.com/how-long-do-bed-bug-bites-last/)may trigger itching in humans and this may result in intense scratching around the bite area. - Such scratches on the human skin could result in infections.
 
 Notably, most bed bugs will suck blood on an individual or the few people sleeping on the same bed.
 
@@ -88,3 +88,4 @@ So, because of visiting and living in such areas, cockroaches can spread disease
 ##  Conclusion
 
 In summary on cockroaches vs bed bugs, I would recommend getting a professional exterminator to help in the process. - However, I know that baby roaches and bed bugs may have a similar appearance. Other pests that look like baby roaches or bed bugs include fleas, spider beetles, carpet beetles, booklice, and bat bugs. The signs of bed bug infestations will include reddish or rusty blood stains on mattresses and sheets. Cheers!
+

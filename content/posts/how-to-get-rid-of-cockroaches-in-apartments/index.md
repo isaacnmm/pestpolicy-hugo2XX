@@ -1,4 +1,4 @@
----
+﻿---
 title: How to Get Rid Of Cockroaches in Apartments
 description: Roaches are notoriously difficult to get rid of. But don't let them win! In this article, I outline How to Get Rid of Cockroaches in Apartments.
 slug: /how-to-get-rid-of-cockroaches-in-apartments/
@@ -14,7 +14,7 @@ tags:
 layout: post
 ---
 
-Roaches are notoriously difficult to get [rid](https: //pestpolicy. com/how-to-get-rid-of-brown-recluse-spiders/) of. But don't let them win! In this article, I outline How to Get Rid of Cockroaches in Apartments. If roaches find shelter, food, and water in your apartment, they are staying for as long as they want to!
+Roaches are notoriously difficult to get [rid](https://pestpolicy.com/how-to-get-rid-of-brown-recluse-spiders/) of. But don't let them win! In this article, I outline How to Get Rid of Cockroaches in Apartments. If roaches find shelter, food, and water in your apartment, they are staying for as long as they want to!
 
 **First, notify the property manager about any roach activity on their property so that they can take action against this pest infestation.
 
@@ -40,7 +40,7 @@ The most important thing is getting rid of the food sources roaches are looking 
 
 Dispose of garbage properly-use more than one bag if necessary because roach infestations usually start from trash cans outside that have been improperly disposed of away Remove clutter and provide a clear path for these pests as they roam around seeking out food or hiding places (for example, keep dishes on top of shelves). Make sure all surfaces are clean - including floors, walls, window sills, countertops/sinks. .. everything!
 
-Not only will this help with any infestations but it also [helps prevent ant](https: //pestpolicy. com/how-to-get-rid-of-ants-in-the-bathroom/) s and other insects from coming inside. Roach droppings can carry diseases like E-coli so be careful not to stir up dust bunnies while cleaning too close to where people eat when mopping up spills. Clean up behind the cabinets, dishwasher, fridge - these would make great hiding places for cockroaches.
+Not only will this help with any infestations but it also [helps prevent ant](https://pestpolicy.com/how-to-get-rid-of-ants-in-the-bathroom/) s and other insects from coming inside. Roach droppings can carry diseases like E-coli so be careful not to stir up dust bunnies while cleaning too close to where people eat when mopping up spills. Clean up behind the cabinets, dishwasher, fridge - these would make great hiding places for cockroaches.
 
 Keep your counters and sinks clean - this also helps prevent ants from making their way inside. Don't leave dishes in the sink to collect dust or harbor bacteria, rinse them off as soon as possible after each use. Clear away clutter (think pantry shelves) that could be hiding cockroaches or other pests like spiders! Cockroaches are opportunistic so they will take any opportunity to come inside if there are food sources available for them.
 
@@ -70,7 +70,7 @@ Sprinkle the DE in areas where roaches are present, including all cracks and cre
 
 ###  7. Cockroach Traps - Boric acid or Dish soap
 
-For an extra effect set a trap with either boric acid or dish soap mixed with apple cider vinegar as bait by placing them at strategic points like corners and near drains. " You can make the DIY roach killer - from boric acid ( Cup)& peanut butter ( Cup). [Boric acid powder](https: //pestpolicy. com/does-boric-acid-kill-roaches/), if ingested, will exterminate the roaches while the peanut butter acts as an attractant.
+For an extra effect set a trap with either boric acid or dish soap mixed with apple cider vinegar as bait by placing them at strategic points like corners and near drains. " You can make the DIY roach killer - from boric acid ( Cup)& peanut butter ( Cup). [Boric acid powder](https://pestpolicy.com/does-boric-acid-kill-roaches/), if ingested, will exterminate the roaches while the peanut butter acts as an attractant.
 
 ###  8. Roach Treat the Perimeter Walls and Environment
 
@@ -87,3 +87,4 @@ They typically spray along baseboards, cracks in corners (especially near doors)
 So, on how to get rid of cockroaches in apartments - If you are a tenant in an apartment, be sure to notify the property manager immediately when roaches are spotted. Use baits like boric acid or traps including apple cider vinegar mixed with soap and placed near drains. Also, conduct a thorough cleaning of the apartment. Consider using diatomaceous earth as dusting under your appliances and along walls for more protection against them.
 
 Finally, if all won't work, hire that roach exterminator.
+

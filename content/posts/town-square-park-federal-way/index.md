@@ -1,4 +1,4 @@
----
+﻿---
 title: Town Square Park Federal Way
 description: Town Square Park is a vibrant and welcoming public space located in the heart of Federal Way, Washington. This urban park offers a variety of amenities...
 slug: /town-square-park-federal-way/
@@ -26,7 +26,7 @@ The park features open green spaces, well-maintained walking paths, seating area
 
 **Recreation**: The well-paved walking paths are ideal for a stroll or a jog, making it a great place for exercise enthusiasts. 4.
 
-**Accessibility**: Located centrally, the park is easily accessible and serves as a convenient meeting point for residents and[visitors alike](https: //pestpolicy. com/[federal-way](https: //pestpolicy. com/rhododendron-species-botanical-garden/)/pest-control-in-federal-way/). 5. **Family-Friendly**: The parks open spaces and safe environment make it an excellent destination for families with children.
+**Accessibility**: Located centrally, the park is easily accessible and serves as a convenient meeting point for residents and[visitors alike](https://pestpolicy.com/[federal-way](https://pestpolicy.com/rhododendron-species-botanical-garden/)/pest-control-in-federal-way/). 5. **Family-Friendly**: The parks open spaces and safe environment make it an excellent destination for families with children.
 
 ##  Other Parks in Federal Way, WA
 
@@ -51,3 +51,4 @@ It provides a wide range of outdoor activities, including hiking, biking, fishin
 Poverty Bay Park features scenic views, beach access, and picnic areas, making it a tranquil spot for a picnic and enjoying the natural beauty of the waterfront.
 
 These parks collectively offer a variety of recreational opportunities and natural beauty, making Federal Way a great place for outdoor enthusiasts and families.
+

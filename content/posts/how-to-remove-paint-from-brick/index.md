@@ -1,4 +1,4 @@
----
+﻿---
 title: How to Remove Paint from Brick
 description: Whether it's concrete walls paint ,acrylic, or latex paint, proper procedure, and thinning chemicals should be used to attain excellent paint removal from...
 slug: /how-to-remove-paint-from-brick/
@@ -14,7 +14,7 @@ tags:
 layout: post
 ---
 
-Whether it's concrete walls [paint](https: //pestpolicy. com/best-paint-for-concrete-walls-in-basement/), acrylic, or latex paint, proper procedure, and thinning chemicals should be used to attain excellent paint removal from Brick.
+Whether it's concrete walls [paint](https://pestpolicy.com/best-paint-for-concrete-walls-in-basement/), acrylic, or latex paint, proper procedure, and thinning chemicals should be used to attain excellent paint removal from Brick.
 
 *On how to remove paint from brick; use either Trisodium phosphate (TSP), paint stripper/thinner, soda blasting method, paint scraper and thinner, or by use of power washer. * *Besides, you can opt to use an absorbent paint stripper, sandblaster or paint grinder, pressure washer, or you consider a stripping chemical.
 
@@ -30,7 +30,7 @@ Whether it's concrete walls [paint](https: //pestpolicy. com/best-paint-for-conc
 
 Trisodium phosphate acts by breaking the paint layer into a thick viscous fluid, which is more comfortable to scoop from the surface with a paint scraper.
 
-**Materials and Tools Required** - Trisodium phosphate and Warm water - Steel brush and Water point - [Paint scraper](https: //www. amazon. com/dp/B07XHQ7Y41/? tag=p-policy-20)and a roller - A piece of cloth and[Soapy detergent](http: //amazon. com/dp/B01BUNIWZU/? tag=p-policy-20) - [Respirator](http: //amazon. com/dp/B007JZ1M10/?
+**Materials and Tools Required** - Trisodium phosphate and Warm water - Steel brush and Water point - [Paint scraper](https://www.amazon. com/dp/B07XHQ7Y41/? tag=p-policy-20)and a roller - A piece of cloth and[Soapy detergent](http://amazon.com/dp/B01BUNIWZU/? tag=p-policy-20) - [Respirator](http://amazon.com/dp/B007JZ1M10/?
 
 tag=p-policy-20)and Eye goggles - Dust coat and hand gloves - Boots and Empty bucket **Procedure** - Wear protective gear (dust coat, facemask, boots, gloves, and goggles) for personal protection - Clean the brick surface with a broom or blow off the dust to remove debris and dust particles - Dilute Trisodium phosphate sufficiently using warm water in a bucket follow manufacturers instruction - Dip thepaintbrush or a roller in TSP solution and apply over the brick surface - Repeat the steps above until the entire surface is well stained - Leave the surface to cure for 6 to 12 minutes - Using a paint scraper, scoop the paint from the surface gently - Repeat the previous step until the paint is completely removed - Wash the brick with soapy detergent to remove traces of TSP - Rinse the surface with clean water and leave it to dry NB: Trisodium phosphate emits poisonous fumes and therefore, special care should be put into place to prevent intoxication inhaling TSP may chock your respiratory system.
 
@@ -66,13 +66,13 @@ By choosing to use sandblaster, you will remove paint (both latex and acrylic pa
 
 **Materials and Tools Required** - Sandblast medium - high-grade sandpaper - Protective gear - Respirator, dust coat, and face mask - Sandblaster or Paint grinder - should be rated 50 psi minimum - Pressure cleaner and water point - Blower and Empty bucket **Procedure** - Wear the protective attire and clean the brick surface with a broom or brush to remove debris - Plug the sandblaster into the power supply and switch on - Gently, run the sandblaster over the painted brick maintain the nozzle at an inclination angle between 30 to 45 degree for best performance - Blast the brick surface (back and forth) until the entire surface is clean - Connect the blower to a power source and blow off the dislodged paint from the brick surface - Repeat the above steps until you completely clean the brick - Wash and mop the brick (water and soap) and leave it to dry to touch Remember, special skills are needed when using a sandblaster or paint grinder in case you are new to these machines, contract a professional paint remover.
 
-Moreover, the sandblaster method is slightly expensive as compared to the paint stripping option. See Also: [Removing paint from concrete without chemicals](https: //pestpolicy. com/how-to-remove-paint-from-concrete-without-chemicals/).
+Moreover, the sandblaster method is slightly expensive as compared to the paint stripping option. See Also: [Removing paint from concrete without chemicals](https://pestpolicy.com/how-to-remove-paint-from-concrete-without-chemicals/).
 
 ###  Method 6: Using Power Washer and thinner
 
 **Materials and Tools Required** - Electric or Gas-powered power washer the rating range is 1500 psi to 3000 psi - Plastic sheet or a water-resistant cloth picks paint drops - Protective Attire gloves, overall, dustcoat, boots, and respirator - Paint thinner and detergent - A clean piece of cloth and water point - Paintbrush and an empty bucket **Procedure** - Wear protective gear and clean the painted bricks (using a paintbrush) - Assemble the power washer as per the manufacturers instructions - Plugin the power washer to the power supply and test the nozzle flow rate - Set the nozzle pressure (for best throttle velocity) and hit the switch button - Quench dried paint with thinner for easier removal - Stand a few feet away and start the paint removal process run the nozzle near the painted brick back and forth - Repeat the stems above until the entire paint is cleaned - Wash the paint-cleaned brick to get rid of paint debris and traces of thinner - Rinse the surface with clean water and leave it dry naturally The power washer demands a lot of water supply and works effectively when cleaning latex paint (no thinning is needed).
 
-See Also: [Removing latex paint from concrete](https: //pestpolicy. com/how-to-remove-latex-paint-from-concrete/).
+See Also: [Removing latex paint from concrete](https://pestpolicy.com/how-to-remove-latex-paint-from-concrete/).
 
 ###  Method 7: Using Commercial Paint Stripping Chemical
 
@@ -82,7 +82,7 @@ Commercial paint stripping chemicals like Motsenbocker's, Sunnyside Corporation 
 
 Alternatively, scrub the surface with a steel bush - Wash the bricks with water and soapy detergent to remove paint traces and stripping chemical - Rinse the surface with clean water and leave it to dry For quality paint removal finish, match the paint tripping chemical with the type of paint applied on bricks oil-based paint should be cleaned using oil-based stripping chemical and vice versa.
 
-> See Also: > [Removing Paint From Concrete](https: //pestpolicy. com/remove-paint-from-concrete/)
+> See Also: > [Removing Paint From Concrete](https://pestpolicy.com/remove-paint-from-concrete/)
 
 ##  Alternative Methods for Removing Paint from Bricks?
 
@@ -133,3 +133,4 @@ In case you are new to the paint removal process, contract a professional paint 
 In summary, on how to remove paint from brick, you can either use Trisodium phosphate (TSP), paint stripper/thinner, soda blasting method, paint scraper, and turpentine, or use a power washer. Further, you can opt to use an absorbent paint stripper, paint grinder or sandblaster, pressure washer, or even consider a commercial paint stripping chemical.
 
 Every paint removal method has a particular procedure (as highlighted in this article) and hence, you must stick to details and instructions given or otherwise advised by the manufacturer.
+

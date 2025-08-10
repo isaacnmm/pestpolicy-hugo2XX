@@ -1,4 +1,4 @@
----
+﻿---
 title: What Can I Eat or Drink to Keep Fleas from Biting Me
 description: Fleas can be an irritating problem, especially if youve got pets or spend time outdoors. While there are plenty of repellents, sprays-repellent-for-humans and...
 slug: /what-can-i-eat-or-drink-to-keep-fleas-from-biting-me/
@@ -14,7 +14,7 @@ tags:
 layout: post
 ---
 
-[Fleas](https: //pestpolicy. com/at-what-temperature-do-fleas-die/) can be an irritating problem, especially if youve got pets or spend time outdoors. While there are plenty of [repellents, sprays](https: //pestpolicy. com/[flea](https: //pestpolicy. com/best-flea-carpet-powder/)-repellent-for-humans/) and treatments out there, did you know that what you eat and drink could also make a difference in keeping fleas away?
+[Fleas](https://pestpolicy.com/at-what-temperature-do-fleas-die/) can be an irritating problem, especially if youve got pets or spend time outdoors. While there are plenty of [repellents, sprays](https://pestpolicy.com/[flea](https://pestpolicy.com/best-flea-carpet-powder/)-repellent-for-humans/) and treatments out there, did you know that what you eat and drink could also make a difference in keeping fleas away?
 
 Heres a down-to-earth guide on how some simple dietary changes might help you avoid those pesky flea bites.
 
@@ -50,4 +50,5 @@ Empty your vacuum bag or canister into an outdoor bin right away to keep those f
 
 While no method is foolproof, incorporating these natural remedies into your daily routine can give you an extra layer of protection against fleas.
 
-By tweaking your diet with Vitamin B1-rich foods, using natural repellents like lemon juice and essential oils, and keeping your environment clean, youll be better equipped to [keep those irritating fleas away](https: //pestpolicy. com/how-do-i-keep-fleas-from-biting-me/) from you and your home.
+By tweaking your diet with Vitamin B1-rich foods, using natural repellents like lemon juice and essential oils, and keeping your environment clean, youll be better equipped to [keep those irritating fleas away](https://pestpolicy.com/how-do-i-keep-fleas-from-biting-me/) from you and your home.
+

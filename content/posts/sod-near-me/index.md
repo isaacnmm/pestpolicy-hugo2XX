@@ -1,4 +1,4 @@
----
+﻿---
 title: Sod Near Me
 description: The desire for an immediate, lush, green lawn often leads homeowners to consider sod. Unlike patiently waiting for grass seed to germinate and grow, sod...
 slug: /sod-near-me/
@@ -205,3 +205,4 @@ This localized knowledge ensures that the care provided is appropriate for your 
 **Healthy Lawn Guarantee: ** TruGreen typically backs its services with a "Healthy Lawn Guarantee, " promising to re-treat as needed between scheduled visits if problems persist, provided you follow their watering and mowing recommendations. This offers peace of mind for your new sod investment.
 
 While you'll need to source and install the sod itself (DIY or with an installer), partnering with TruGreen immediately after establishment ensures that your new lawn receives the professional, science-backed maintenance it needs to flourish into a truly healthy, vibrant, and long-lasting backyard paradise. They pick up where the installation leaves off, securing your investment for years to come.
+

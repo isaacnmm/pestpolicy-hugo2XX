@@ -1,4 +1,4 @@
----
+﻿---
 title: How to Control Dollarweed Pennywort in Your Lawn
 description: Dollarweed, also known as pennywort Hydrocotyle spp., is one of the most frustrating and persistent weeds for homeowners, particularly in warmer, humid...
 slug: /how-to-control-dollarweed-pennywort-in-your-lawn/
@@ -116,3 +116,4 @@ Use with extreme caution and sparingly. 4. **Heavy Mulch/Smothering: ** In garde
 Dollarweed is a tenacious weed, but it's not invincible. The key to successful control lies in understanding its preference for moisture and implementing a comprehensive strategy. Prioritizing improved drainage and adjusting watering habits are fundamental steps that will create an environment less appealing to dollarweed.
 
 Coupled with consistent manual removal and, if necessary, judicious use of appropriate herbicides, you can effectively manage and eventually eliminate this stubborn invader, allowing your desired turfgrass to flourish and your lawn to look its best. Patience and persistence are your greatest allies in the battle against dollarweed.
+

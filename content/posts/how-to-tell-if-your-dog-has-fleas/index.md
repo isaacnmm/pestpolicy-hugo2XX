@@ -1,4 +1,4 @@
----
+﻿---
 title: How to Tell If Your Dog Has Fleas
 description: How do I know if my dog has fleas? Well, the vet says it's if you notice your dog scratching, shaking their head, biting themselves, and then scratching some...
 slug: /how-to-tell-if-your-dog-has-fleas/
@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 
-How do I know if my dog has [fleas](https: //pestpolicy. com/can-dog-fleas-transfer-to-humans/)?
+How do I know if my dog has [fleas](https://pestpolicy.com/can-dog-fleas-transfer-to-humans/)?
 
 Well, the vet says it's if you notice your dog scratching, shaking their head, biting themselves, and then scratching some more. But how do you know for sure?
 
@@ -33,7 +33,7 @@ One type, known as dog fleas, lives, feeds, and reproducing on the blood of its 
 
 If you're confused between cat fleas and dog fleas, you might want to check our guide on cat fleas vs dog fleas. *In summary: * Cat fleas and dog fleas species are different and they mainly inhabit and live on cats and dogs respectively. - But without the use of laboratory equipment, it can be difficult to tell these two species apart.
 
-Since Cat fleas suck blood from many mammals ( [**plus on dogs too**](https: //ohioline. osu. edu/factsheet/HYG-2081-11) ), they're a more prevalent species compared to dog fleas.
+Since Cat fleas suck blood from many mammals ( [**plus on dogs too**](https://ohioline.osu. edu/factsheet/HYG-2081-11) ), they're a more prevalent species compared to dog fleas.
 
 Do dog fleas bite humans? Generally no; but it can happen if your dog has a massive infestation or if you have a pet that is not house-trained to mainly keep to its dog bed.
 
@@ -43,7 +43,7 @@ If your dog has signs of being infested with parasites, there are medications av
 
 Maybe you've cleaned up the dog and flea-treated the yard, but they're still scratching - a sign that it still has fleas.
 
-Well, dogs will pick up fleas in different ways. Your dog could have picked up fleas from: - Walking on dirt or grass with an infested animal nearby. - Sharing a bed, carpet, or furniture that has flea eggs near the surface of it. - Licking and interacting with other dogs or[flea-infested animals](https: //schoolipm. ifas. ufl. edu/newtp5. htm)such as rodents, ferrets, squirrels, opossums, andraccoons.
+Well, dogs will pick up fleas in different ways. Your dog could have picked up fleas from: - Walking on dirt or grass with an infested animal nearby. - Sharing a bed, carpet, or furniture that has flea eggs near the surface of it. - Licking and interacting with other dogs or[flea-infested animals](https://schoolipm.ifas. ufl. edu/newtp5. htm)such as rodents, ferrets, squirrels, opossums, andraccoons.
 
 - Going to a flea-infested place such as the dog park or grooming salon.
 
@@ -77,11 +77,11 @@ Inspect the dog's fur and skin - if you notice specks like black pepper (finely 
 
 When you see tiny black dots on the dog or on your carpet, it's probably not pepper. It could be flea dirt or eggs.
 
-Dog fleas lay eggs (20 - 50 eggs daily) and produce this waste while feeding. Flea eggs are white and oval-shaped. - To confirm if it's flea dirt use some white paper towel to drop the dirt collected from[the dog's grooming](https: //pestpolicy. com/best-flea-combs-for-dogs/) - Next, sprinkle that dirt with some water and check its color change. If anything like red or reddish-brown emerges then the dirt is flea droppings or flea dirt.
+Dog fleas lay eggs (20 - 50 eggs daily) and produce this waste while feeding. Flea eggs are white and oval-shaped. - To confirm if it's flea dirt use some white paper towel to drop the dirt collected from[the dog's grooming](https://pestpolicy.com/best-flea-combs-for-dogs/) - Next, sprinkle that dirt with some water and check its color change. If anything like red or reddish-brown emerges then the dirt is flea droppings or flea dirt.
 
 ###  Sign 3 - Anemia - Pale Gums
 
-Fleas will suck massive amounts of blood from the canines (dogs) and this could lead to [**anemia**](https: //muschealth. org/medical-services/ddc/patients/symptoms-and-conditions/anemia) in the puppies or the sickly dogs.
+Fleas will suck massive amounts of blood from the canines (dogs) and this could lead to [**anemia**](https://muschealth.org/medical-services/ddc/patients/symptoms-and-conditions/anemia) in the puppies or the sickly dogs.
 
 As fleas are heavy blook suckers, when they're in an area with more than just a couple of them, your dog's blood can get dangerously low.
 
@@ -134,3 +134,4 @@ Over the past few days, my roommate's dog has been scratching a lot. I bought so
 In summary, on how to tell if your dog has fleas; check the following signs.
 
 - Signs of scratching or biting at themselves constantly - You find flea dirt around your pup's paws or fur - They start licking and chewing excessively - Extremely short hair all over, especially near ears and eyes - Pale skin in certain areas from lack of circulation during times when it was warm enough We hope that this post was helpful and will help you determine if your dog has fleas!
+

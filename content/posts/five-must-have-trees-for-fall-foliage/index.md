@@ -1,4 +1,4 @@
----
+﻿---
 title: Five Must Have Trees for Fall Foliage
 description: As summer's green abundance begins to wane, a new and often more breathtaking spectacle emerges fall foliage. The transformation of leaves from verdant green...
 slug: /five-must-have-trees-for-fall-foliage/
@@ -95,3 +95,4 @@ While the tropical warmth of Nairobi might not experience the dramatic seasonal 
 From the classic reds and oranges of maples and oaks to the distinctive golden glow of the ginkgo and the multi-season charm of the serviceberry, each offers a unique contribution to the autumn palette.
 
 By selecting these "must-have" trees and understanding their specific needs, you can ensure that your garden will be awash in spectacular color, extending the beauty of your landscape well into the cooler months and providing a truly unforgettable display year after year.
+

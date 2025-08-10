@@ -1,4 +1,4 @@
----
+﻿---
 title: What Causes Pantry Bugs
 description: Does the presence of pantry bugs worry you? I also get scared of them. Though their presence is inevitable we can try to find the root cause of what causes...
 slug: /what-causes-pantry-bugs/
@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 
-Does the presence of [pantry](https: //pestpolicy. com/how-long-do-pantry-bugs-live/) bugs worry you? I also get scared of them. Though their presence is inevitable we can try to find the root cause of what causes pantry bugs. - This will in a great way help minimize their presence and also[control any further infestation](https: //pestpolicy. com/how-long-do-pantry-bugs-live/).
+Does the presence of [pantry](https://pestpolicy.com/how-long-do-pantry-bugs-live/) bugs worry you? I also get scared of them. Though their presence is inevitable we can try to find the root cause of what causes pantry bugs. - This will in a great way help minimize their presence and also[control any further infestation](https://pestpolicy.com/how-long-do-pantry-bugs-live/).
 
 That said and done, this article provides us with necessary information on how to deal with these pantry bugs.
 
@@ -69,7 +69,7 @@ There are different species of beetles that you are likely to find in your kitch
 
 ###  **How do I get rid of bugs in my kitchen?**
 
-There are different methods that you can [use to control pantry bugs](https: //pestpolicy. com/how-to-get-rid-of-pantry-moths/) in the kitchen. Most of these methods are more on preventing bug infestation than control **Check for open food packages** - open food is susceptible to infestation by these bugs. Whether it's deliberate opening or accidental opening. Food packaging should be properly and tightly sealed at all times.
+There are different methods that you can [use to control pantry bugs](https://pestpolicy.com/how-to-get-rid-of-pantry-moths/) in the kitchen. Most of these methods are more on preventing bug infestation than control **Check for open food packages** - open food is susceptible to infestation by these bugs. Whether it's deliberate opening or accidental opening. Food packaging should be properly and tightly sealed at all times.
 
 **Cleaning your kitchen-** most pantry bugs thrive in dirt, moist and humid environments. With proper cleaning and disposal of kitchen garbage, you eliminate their chances of survival in your kitchen. **First in, first out protocol-** to avoid packed food going bad in your store or kitchen, use the food bought first before you can embark on the last bought food.
 
@@ -82,3 +82,4 @@ If you are still wondering what causes pantry bugs, now you know. Next time you 
 - That said and done, if an infestation occurs, use traps and other techniques to rid them.
 
 Though the bugs are barely harmful, they should not be entertained within the pantry area
+

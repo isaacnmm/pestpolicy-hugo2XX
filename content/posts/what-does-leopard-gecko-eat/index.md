@@ -1,4 +1,4 @@
----
+﻿---
 title: What Does Leopard Gecko Eat
 description: A proper diet will make your crepuscular-geckos-nocturnal Leopard Gecko healthy and happy every day . But, really, what does leopard gecko eat? Leopard Gecko...
 slug: /what-does-leopard-gecko-eat/
@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 
-A proper diet will make your [****crepuscular****](https: //pestpolicy. com/are-[leopard](https: //pestpolicy. com/are-leopard-geckos-nocturnal/)-geckos-nocturnal/) Leopard [Gecko](https: //pestpolicy. com/do-geckos-eat-bed-bugs/) [healthy and happy every day](https: //www. rspca. org. uk/adviceandwelfare/pets/other/leopardgecko). But, really, what does leopard gecko eat?
+A proper diet will make your [****crepuscular****](https://pestpolicy.com/are-[leopard](https://pestpolicy.com/are-leopard-geckos-nocturnal/)-geckos-nocturnal/) Leopard [Gecko](https://pestpolicy.com/do-geckos-eat-bed-bugs/) [healthy and happy every day](https://www.rspca. org. uk/adviceandwelfare/pets/other/leopardgecko). But, really, what does leopard gecko eat?
 
 Leopard Gecko is a small and attractive insectivorous reptile that is easier to take care of. Improper food administration may adversely affect their health. **In summary, Leopard Gecko mainly eats insects such as cockroaches, super worms (such as Zilla Reptile Food), mealworms, or crickets. Leopard Geckos can also feed on silkworms, tomato hornworms, waxworms, beetles, sowbugs, and butter worms.
 
@@ -117,7 +117,7 @@ The sick Leopard Gecko should be fed according to instructions given by the vet.
 
 For adult Leopard Gecko, feed it one time per day or thrice per week is enough. Adult Leopard Gecko can be satisfied when fed with 4 to 7 sizable insects.
 
-Just in case Leopard Gecko has a Problem with feeding habits, you can try to leave some of the harmless insects in a bowl (deep enough that insects cant crawl out) for Leopard Gecko to feed on during its free time. *NB: Do not feed your, Leopard, with insects that is larger/longer than the space between its eyes (thumb rule). * Related: [What Do Baby Lizards Eat? ](https: //pestpolicy. com/what-do-baby-lizards-eat/)
+Just in case Leopard Gecko has a Problem with feeding habits, you can try to leave some of the harmless insects in a bowl (deep enough that insects cant crawl out) for Leopard Gecko to feed on during its free time. *NB: Do not feed your, Leopard, with insects that is larger/longer than the space between its eyes (thumb rule). * Related: [What Do Baby Lizards Eat? ](https://pestpolicy.com/what-do-baby-lizards-eat/)
 
 ##  Which Food Should You Avoid Giving Your Leopard Gecko?
 
@@ -140,3 +140,4 @@ In normal times, an adult Leopard Gecko can go without food for 10 to 20 days.
 Leopard Gecko is a small attractive reptile that feeds on insects such as mealworms, crickets, cockroaches, silkworms, waxworms, or super worms.
 
 You can also feed your Leopard Gecko with artificial feeds that are dusted over the natural food to give it vitamin (D3) supplements. Avoid feeding your Leopard Gecko with feeds not approved by vet.
+

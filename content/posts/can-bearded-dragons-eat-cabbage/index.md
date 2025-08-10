@@ -1,4 +1,4 @@
----
+﻿---
 title: Can Bearded Dragons Eat Cabbage
 description: Cabbages, whether red, green, or variegated, are vegetables that are often eaten together with course meals across the world. Previously we checked what...
 slug: /can-bearded-dragons-eat-cabbage/
@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 
-Cabbages, whether red, green, or variegated, are vegetables that are often eaten together with course meals across the world. Previously we checked what [bearded dragons eat](https: //pestpolicy. com/what-do-bearded-dragons-eat/). It may even concern you if these lizards can eat all cabbage species or not. *So, can bearded dragons eat cabbages? The simple answer is YES!
+Cabbages, whether red, green, or variegated, are vegetables that are often eaten together with course meals across the world. Previously we checked what [bearded dragons eat](https://pestpolicy.com/what-do-bearded-dragons-eat/). It may even concern you if these lizards can eat all cabbage species or not. *So, can bearded dragons eat cabbages? The simple answer is YES!
 
 The bearded dragon will feed on all varieties of cabbages without any problems.
 
@@ -61,7 +61,7 @@ Cabbages have high mineral components such as potassium (367mg per 100g of cabba
 
 Cabbage generally have low fat content of about 0. 2g for every 100g of cabbage. This quantity is very low as compared to over vegetables like lettuce or broccoli. Fat is quite dangerous for beardie as excess of it accumulates at the tail and berry lining making it inactive or docile. Read Also; [Can Bearded Dragons Eat Bananas?
 
-](https: //pestpolicy. com/can-bearded-dragons-eat-bananas/) In addition, excess fat will cause your beardie to generate high blood pressure and heart failure or stroke if not attended to accordingly. In comparison, red cabbage species have lower fat content than variegated and green cabbage species. You can therefore supplement the main meal with savoy or red cabbage species if you want to lower the fat intake of your bearded dragon.
+](https://pestpolicy.com/can-bearded-dragons-eat-bananas/) In addition, excess fat will cause your beardie to generate high blood pressure and heart failure or stroke if not attended to accordingly. In comparison, red cabbage species have lower fat content than variegated and green cabbage species. You can therefore supplement the main meal with savoy or red cabbage species if you want to lower the fat intake of your bearded dragon.
 
 ###  6. Relatively low sugar and starch level
 
@@ -79,7 +79,7 @@ Cabbages have powerful antioxidants such as polyphenols that will prevent your b
 
 Importantly, these compounds will also reduce any chronic and acute inflammatory diseases.
 
-Read also; [Can Bearded Dragons Eat Grapes? ](https: //pestpolicy. com/can-bearded-dragons-eat-grapes/)
+Read also; [Can Bearded Dragons Eat Grapes? ](https://pestpolicy.com/can-bearded-dragons-eat-grapes/)
 
 ##  How to Prepare Cabbages for Your Bearded Dragon
 
@@ -99,7 +99,7 @@ Glycemic index determines how carbs are absorbed into beardies bloodstream. Most
 
 ###  **2. Cabbages with high water content **
 
-Freshly harvested cabbages have a high water content of 60% to 85% (116g out of 150g) in relation to dry matters. As said earlier, cabbages should be stored for 3 to 6 days to drain excess water. Avoid [feeding your bearded dragon](https: //pestpolicy. com/what-should-i-feed-my-bearded-dragon/) with variety of cabbages that have high water content e. g. nana cabbage, before draining period.
+Freshly harvested cabbages have a high water content of 60% to 85% (116g out of 150g) in relation to dry matters. As said earlier, cabbages should be stored for 3 to 6 days to drain excess water. Avoid [feeding your bearded dragon](https://pestpolicy.com/what-should-i-feed-my-bearded-dragon/) with variety of cabbages that have high water content e. g. nana cabbage, before draining period.
 
 Excess water that accumulates in the beardie due to continuous cabbage feeding will make your pet docile, have low blood pressure, or experience diarrhea and runny poo. Moreover, overhydration that results from excess water will lead to osmotic imbalance thus causing homeostatic problems in your beardie.
 
@@ -129,4 +129,5 @@ Remember to involve a qualified veterinarian often to check your beardies health
 
 ##  Sources:
 
-1. [**Bearded Dragon Adaptations: Lesson for Kids Study. com**](https: //study. com/academy/lesson/bearded-dragon-adaptations-lesson-for-kids. html)
+1. [**Bearded Dragon Adaptations: Lesson for Kids Study. com**](https://study.com/academy/lesson/bearded-dragon-adaptations-lesson-for-kids. html)
+

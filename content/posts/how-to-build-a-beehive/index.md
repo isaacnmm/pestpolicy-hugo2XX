@@ -1,4 +1,4 @@
----
+﻿---
 title: How to Build a Beehive
 description: Embarking on the journey of beekeeping is a rewarding experience, connecting you with nature and providing delicious honey.
 slug: /how-to-build-a-beehive/
@@ -299,3 +299,4 @@ While the Langstroth hive dominates commercial and hobbyist beekeeping, several 
 4. **Horizontal Hives (e. g. , Layens Hive): ** * **Design: ** Similar to top bar hives in that they expand horizontally, but can use larger, sometimes traditional, frames laid out side-by-side. * **Pros: ** * **No Heavy Lifting: ** All work is done horizontally. * **Good for Cold Climates: ** Can offer good insulation due to larger mass. * **Cons: ** Large footprint, not modular for easy expansion upwards.
 
 Each hive type offers a different experience for the beekeeper and a different environment for the bees. Your choice will depend on your beekeeping philosophy, climate, physical capabilities, and desired level of involvement. For beginners, the Langstroth remains the most widely supported and easiest to find resources and equipment for.
+

@@ -1,4 +1,4 @@
----
+﻿---
 title: How to Get Rid Of Termites
 description: Know how to get rid of termites? Despite that, most homeowners prefer professional termite extermination - particularly after a termite inspection -...
 slug: /how-to-get-rid-of-termites/
@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 
-Know how to get rid of termites? Despite that, most homeowners prefer professional [termite extermination](https: //content. ces. ncsu. edu/termites-biology-and-control) - particularly after a termite inspection - comprehensive steps for prevention and total termite extermination.
+Know how to get rid of termites? Despite that, most homeowners prefer professional [termite extermination](https://content.ces. ncsu. edu/termites-biology-and-control) - particularly after a termite inspection - comprehensive steps for prevention and total termite extermination.
 
 In summary, the most common technique includes soil treatment and chemical termite killers with active ingredients such as fipronil and imidacloprid. Further, you may also directly treat the wood and furniture to get rid of termites( check termite images ). While at it, you may also position baits in the house and lawn. Such chemicals will release IGRs.
 
@@ -83,7 +83,7 @@ However, the bait stations require regular inspection - maybe within three month
 
 - Install the bait stations in narrow holes (8-10 inches drilled using augers) and spaces them between 8 and 10 feet apart.
 
-However, you may reduce the separation between the[termite bait stations around then home](https: //pestpolicy. com/home-remedy-for-termites/)for a massive infestation. - Ensure that the hole you drill is deeper with about 2 inches to 4 inches than the bait station's bottom - this enables any rainwateror otherwise to drainunder the bait station. Don't damage water, utility, or gas lines as you drill the holes.
+However, you may reduce the separation between the[termite bait stations around then home](https://pestpolicy.com/home-remedy-for-termites/)for a massive infestation. - Ensure that the hole you drill is deeper with about 2 inches to 4 inches than the bait station's bottom - this enables any rainwateror otherwise to drainunder the bait station. Don't damage water, utility, or gas lines as you drill the holes.
 
 - Also, install the baits at about 1 foot - 2 feet from the house's foundation, and thus it'll be easy to avoid tampering with previously installed soil treatments or termite barriers - or any that'll be installed at a later date. - Ensure that the bait's lip will be flush with the soil. Finally, create a map of your house and each bait station's locations so that it'll be easier to trace them later.
 
@@ -111,10 +111,11 @@ Also, mop all the moisture around your house and remove all the water that could
 
 ###  iii. Clear idle Wooden Materials
 
-Inspect the house for breached or damaged shielding installed to [control termites](https: //pestpolicy. com/top-7-natural-termite-control-can-easily/). Further, remove all idle wooden materials, including cellulose, debris, and timber that may be lying inside, under, or around your house or yard - equally use yard flea treatments.
+Inspect the house for breached or damaged shielding installed to [control termites](https://pestpolicy.com/top-7-natural-termite-control-can-easily/). Further, remove all idle wooden materials, including cellulose, debris, and timber that may be lying inside, under, or around your house or yard - equally use yard flea treatments.
 
-Such timber may act as good food for the termites and equally a hiding place for subterranean termites ( [check their treatments](https: //pestpolicy. com/subterranean-termites-treatment/) ) and may also conceal termites inside the dead leaves and base-work work-spaces. You'll also require to remove all clothes piles lying around idle as they'll provide food (have cellulose) and shelter for termites.
+Such timber may act as good food for the termites and equally a hiding place for subterranean termites ( [check their treatments](https://pestpolicy.com/subterranean-termites-treatment/) ) and may also conceal termites inside the dead leaves and base-work work-spaces. You'll also require to remove all clothes piles lying around idle as they'll provide food (have cellulose) and shelter for termites.
 
 ##  Conclusion
 
 So, that's how to get rid of termites - for the active termite colony in the wooden structure or house, you'll need to undertake appropriate treatment steps. But first, undertake termite inspection before taking treatment further, including using termite baits stations and soil treatment.
+

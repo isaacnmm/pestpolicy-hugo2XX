@@ -1,4 +1,4 @@
----
+﻿---
 title: Bed Bugs Vs Mites
 description: What are the differences between bed bugs vs. mites? No infestation from any of the bed bugs or mites is good. But exterminating them requires that you know...
 slug: /bed-bugs-vs-mites/
@@ -63,7 +63,7 @@ After taking their blood meal, the female bed bugs will escape into the cracks a
 
 Further, their nymphs or baby bed bugs can also survive for a long time without eating. With the appropriate humidity and temperature, the bed bugs will live in this condition even for weeks. Bed bugs will mainly take their meals every 3-7 days, considering their conditions and age. Therefore, most of the bed bugs will be digesting their meals - and hence treatment leads to dormancy.
 
-Read also: [Bed Bug Bites Vs. Mosquito Bites](https: //pestpolicy. com/bed-bug-bites-vs-mosquito-bites/).
+Read also: [Bed Bug Bites Vs. Mosquito Bites](https://pestpolicy.com/bed-bug-bites-vs-mosquito-bites/).
 
 *Mites*: Mite's diet feeds on the blood and skin of mammals. However, others live like predators feeding on micro-organisms. Also, some mites will feed on decaying matter, such as fungi - decomposer diets. Spider mites feed on several plants like house plants & American-elm trees - their juice and soft tissues. Further, species like house dust mites will feed on dead tissue - they aren't parasitic.
 
@@ -81,6 +81,7 @@ Also, cleaning the spaces won't help remove the dust mites.
 
 ##  Conclusion
 
-You can use covers (dust-proof), [mattresses covers](https: //pestpolicy. com/best-bed-bug-mattress-encasements/), blankets, and sheets for bed bugs. I would also recommend using steamers to kill bed bugs to clean up even the dead [bed bugs](https: //pestpolicy. com/dead-bed-bugs/). For mites, look output for any allergy signs, including stuffy nose, watery eyes, runny nose, and sneezing.
+You can use covers (dust-proof), [mattresses covers](https://pestpolicy.com/best-bed-bug-mattress-encasements/), blankets, and sheets for bed bugs. I would also recommend using steamers to kill bed bugs to clean up even the dead [bed bugs](https://pestpolicy.com/dead-bed-bugs/). For mites, look output for any allergy signs, including stuffy nose, watery eyes, runny nose, and sneezing.
 
 Organic methods to control mites include washing plants using steam from a bug blaster.
+

@@ -1,4 +1,4 @@
----
+﻿---
 title: Best Self Defense Weapon Besides Gun
 description: Maybe you dont fancy guns, or they are illegal for the public in your state.However, you still need the best self-defense weapon besides guns.
 slug: /best-self-defense-weapon-besides-gun/
@@ -54,7 +54,7 @@ In addition to the Stroke element, the flashlight has five varied brightness lev
 
 ###  [4. Tactical Knife](https://www.amazon.com/gp/product/B003D7K07K/?tag=p-policy-20)
 
-A tactical knife will be an excellent self-defense weapon for you at the home, office, or outdoors. First, according to a Police-Policy Council [Study](http: //www. theppsc. org/Staff_Views/Tueller/How. Close. htm), a tactical knife will be highly helpful than a gun when your target is within 20 feet from you.
+A tactical knife will be an excellent self-defense weapon for you at the home, office, or outdoors. First, according to a Police-Policy Council [Study](http://www.theppsc. org/Staff_Views/Tueller/How. Close. htm), a tactical knife will be highly helpful than a gun when your target is within 20 feet from you.
 
 In the current time, when most have adopted a more minimalistic life, I am sure youll love a weapon (the tactical knife) that serves more than one purpose in your outdoor activities.
 
@@ -68,7 +68,7 @@ For example, using a knife would require that you get close to your attacker. Bu
 
 In such cases, a reciprocating saw, pepper spray, batons, or sword walking sticks can help you protect yourself in case of a home invasion.
 
-Read Also: [Select a Wireless Driveway Alarm](https: //pestpolicy. com/how-to-select-a-wireless-driveway-alarm/)
+Read Also: [Select a Wireless Driveway Alarm](https://pestpolicy.com/how-to-select-a-wireless-driveway-alarm/)
 
 ###  [5. Fox Labs Law Enforcement Defence Spray - Pistol Grip](https://www.amazon.com/dp/B003ZA6D6C/?tag=p-policy-20)
 
@@ -82,7 +82,7 @@ The flipping unit is spring-loaded to prevent any activation through an accident
 
 Protect yourself against rape, robbery, murder, and violent crimes easily with the Fox 5. 3 self Defense Spray.
 
-Read Also: [Crossbow for Self Defense](https: //pestpolicy. com/best-crossbow-for-self-defense/)
+Read Also: [Crossbow for Self Defense](https://pestpolicy.com/best-crossbow-for-self-defense/)
 
 ###  [6. Taser X26C with Laser Light  6 Cartridges & Holster Black](https://www.amazon.com/dp/B006MBA286/?tag=p-policy-20)
 
@@ -102,7 +102,7 @@ The Taser also has a timer that will alert you when to fire, mainly when its car
 
 Further, you can purchase an extended battery that will enhance more grip and allow you to store an extra cartridge at the bottom that will be easily accessible while dealing with your attacker.
 
-Read Also: [Long Range Wireless Driveway Alert System](https: //pestpolicy. com/long-range-wireless-driveway-alert-system/)
+Read Also: [Long Range Wireless Driveway Alert System](https://pestpolicy.com/long-range-wireless-driveway-alert-system/)
 
 ###  [7. SABRE Three-in-One Pepper Spray](https://www.amazon.com/dp/B0007VM8UC/?tag=p-policy-20)
 
@@ -121,3 +121,4 @@ Read Also: Bullet Journal Notebook.
 ###  Conclusion
 
 There you have it! The ultimate list of theBest Home Defense Weapon Not a Gun orBest Self Defense Weapon Besides Gun for your review. - I hope you are now better placed to pick the next self-defense tool, even with your requirement of avoiding a gun. Happy Shopping! ! !
+

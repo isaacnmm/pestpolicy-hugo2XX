@@ -1,4 +1,4 @@
----
+﻿---
 title: Go Native With Oakleaf Hydrangeas
 description: When gardeners think of hydrangeas, often the first image that comes to mind is the classic mophead or lacecap with their vibrant blues and pinks.
 slug: /go-native-with-oakleaf-hydrangeas/
@@ -89,3 +89,4 @@ The multi-season appeal of oakleaf hydrangeas makes them incredibly versatile in
 * **Companion Plants: ** Complement them with other acid-loving plants such as azaleas, rhododendrons, camellias, pieris, hostas, and ferns.
 
 By choosing oakleaf hydrangeas, you're not just planting a shrub; you're inviting a dynamic, low-maintenance, and ecologically beneficial plant into your garden. Their ability to deliver stunning beauty across all four seasons makes them a truly exceptional native choice for any landscape.
+

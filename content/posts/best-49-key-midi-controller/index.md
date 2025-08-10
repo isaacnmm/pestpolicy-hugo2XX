@@ -1,4 +1,4 @@
----
+﻿---
 title: Best 49 Key Midi Controller
 description: Last week I reviewed the best midi keyboard controllerhttpspestpolicy.combest-midi-keyboard-controller . In this post, Ive reviewed the best 49 Key Midi...
 slug: /best-49-key-midi-controller/
@@ -14,7 +14,7 @@ tags:
 layout: post
 ---
 
-Last week I reviewed the [best midi [keyboard](https: //pestpolicy. com/best-midi-keyboard-for-ableton/) controller](https: //pestpolicy. com/best-[midi](https: //pestpolicy. com/best-midi-keyboard-controller/)-keyboard-controller/). In this post, Ive reviewed the best 49 Key Midi Controllers.
+Last week I reviewed the [best midi [keyboard](https://pestpolicy.com/best-midi-keyboard-for-ableton/) controller](https://pestpolicy.com/best-[midi](https://pestpolicy.com/best-midi-keyboard-controller/)-keyboard-controller/). In this post, Ive reviewed the best 49 Key Midi Controllers.
 
 49 Key Midi Controllers will provide the most features and value if you need making beats or just sampling synth or VST. For starters, the MIDI keyboard (with 25, 49, or 88 keys) is a MIDI controller with its built-in keyboard.
 
@@ -24,11 +24,11 @@ Last week I reviewed the [best midi [keyboard](https: //pestpolicy. com/best-mid
 
 Starting our list of the best 49 key midi controller is the Akai Professional MPK249. Its one of the music-making gear youll find an expert producers studio. Its no surprise as Akai maintains quality in all its gear, such as LPK25 and MPCs.
 
-The new LCD monitor will display some critical data that is processed by the [Digital audio workstation](https: //en. wikipedia. org/wiki/Digital_audio_workstation). Its both durable and versatile I love the faders, keys, and pads. It comes with the full-size keyboard that has semi-weighted keys with polyphonic pressure that offer the aftertouch I found them easier to play contrasted to synth-action keys.
+The new LCD monitor will display some critical data that is processed by the [Digital audio workstation](https://en.wikipedia. org/wiki/Digital_audio_workstation). Its both durable and versatile I love the faders, keys, and pads. It comes with the full-size keyboard that has semi-weighted keys with polyphonic pressure that offer the aftertouch I found them easier to play contrasted to synth-action keys.
 
 I approve of the quality of this Akais features.
 
-For example, it has robust faders; its knobs come with great resistance while the pads are adopted from the [Music Production Center (MPC) drum machine](https: //en. wikipedia. org/wiki/Akai_MPC). It comes with arpeggiator (for extra melodic ideas), MPC Swing, transport controls, USB/iOS modes, and MPC Note Repeat to allow melodic and rhythmic manipulation. The Classic MPC Swing allows organic and tight groove - MPC workflow.
+For example, it has robust faders; its knobs come with great resistance while the pads are adopted from the [Music Production Center (MPC) drum machine](https://en.wikipedia. org/wiki/Akai_MPC). It comes with arpeggiator (for extra melodic ideas), MPC Swing, transport controls, USB/iOS modes, and MPC Note Repeat to allow melodic and rhythmic manipulation. The Classic MPC Swing allows organic and tight groove - MPC workflow.
 
 While at it, youll get all the controller options - 16 pads, eight switches, eight knobs, and eight faders. Further, it has RGB backlit that will help you to identify sounds. Its fully-weighted keys and light and hence will be great for extended playing time even for beginner or noob artists. Also, its knobs and faders come with three banks, and thus its possible to give them 24 functions.
 
@@ -73,3 +73,4 @@ Its great for young creators and expert musicians. You can use Carbon 49 with yo
 Further, theyll take additional control boards and plugins to create more effects. An extension to the extra octave allows extra sounds, control, and functionality.
 
 The 49 Key Midi Controllers offer a larger playing range than 25 key MIDI keyboards, lighter & smaller compared to 88 key MIDI keyboards. It takes up lesser studio space (than the 88 key option) but provides extra keys. *Summary: The 49 Key Midi Controller has become the standard among all keyboard controllers - its loved by both intermediate & advanced artists. *
+

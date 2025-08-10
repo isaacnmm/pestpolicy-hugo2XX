@@ -1,4 +1,4 @@
----
+﻿---
 title: When to Use a Cockroach Bomb
 description: Roaches will invade your building or home through various routes and then multiply rapidly. There are many methods you can use to control roaches - like roach...
 slug: /when-to-use-a-cockroach-bomb/
@@ -17,11 +17,11 @@ layout: post
 
 Roaches will invade your building or home through various routes and then multiply rapidly. There are many methods you can use to control roaches - like roach bombs. **So, on the question - when to use a cockroach bomb? Use roach bombs when other DIY control methods don't work and when the infestation is massive and has proven stubborn. ** The nocturnal roaches can be noted with the oily (strong-scented) scent, empty egg casings, or droppings.
 
-Check too: [Roach Infestation Signs](https: //pestpolicy. com/signs-of-a-cockroach-infestation/). Check out the top roach bombs below. ..
+Check too: [Roach Infestation Signs](https://pestpolicy.com/signs-of-a-cockroach-infestation/). Check out the top roach bombs below. ..
 
 ##  Effective? - When to Use a Cockroach Bomb?
 
-Cockroach bombs [will exterminate the bugs](https: //entomology. ca. uky. edu/ef643) when you apply the chemical insecticide in the confined or enclosed space - as explained by entomologists. - The roach-killing insecticide will be hung around the air shortly before they drop on the ground - this allows them to cover the surfaces and poison the [cockroaches](https: //pestpolicy. com/cockroach-eggs/).
+Cockroach bombs [will exterminate the bugs](https://entomology.ca. uky. edu/ef643) when you apply the chemical insecticide in the confined or enclosed space - as explained by entomologists. - The roach-killing insecticide will be hung around the air shortly before they drop on the ground - this allows them to cover the surfaces and poison the [cockroaches](https://pestpolicy.com/cockroach-eggs/).
 
 Mainly, roach bombs and foggers will work best when positioned at the center of the spaces or room and on top of the table or chair. The fogger contents will jump upwards - the chemical droplets to get suspended in the air for some time before slowly settling on surfaces like countertops and floors.
 
@@ -37,7 +37,7 @@ Notably, if you breathe the insecticide mist, you may cause poisoning to the pet
 
 ##  Should I use a Roach bomb?
 
-But first, total release aerosols, roach bombs, foggers will offer an effective and quick remedy for the bugs as they release toxic pesticides. But also remove water and food souses to discourage cockroaches - but also seal various roach entrances and equally install [bait traps](https: //www. terminix. com/pest-control/cockroaches/removal/traps/).
+But first, total release aerosols, roach bombs, foggers will offer an effective and quick remedy for the bugs as they release toxic pesticides. But also remove water and food souses to discourage cockroaches - but also seal various roach entrances and equally install [bait traps](https://www.terminix. com/pest-control/cockroaches/removal/traps/).
 
 - Roach bombs are an excellent DIY, cheap, and quick bug solution if you're disturbed by those massive infestations.
 
@@ -69,4 +69,5 @@ Roaches do pose a significant public health problem for many homeowners - they'l
 
 ##  Conclusion
 
-So, on the question - when to use a [cockroach](https: //pestpolicy. com/cockroach-vs-palmetto-bug/) bomb? Use roach bombs when other DIY control methods don't work and when the infestation is massive and has proven stubborn.
+So, on the question - when to use a [cockroach](https://pestpolicy.com/cockroach-vs-palmetto-bug/) bomb? Use roach bombs when other DIY control methods don't work and when the infestation is massive and has proven stubborn.
+

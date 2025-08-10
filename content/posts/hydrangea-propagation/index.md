@@ -1,4 +1,4 @@
----
+﻿---
 title: Hydrangea Propagation
 description: Hydrangea Propagation - Expanding Your Garden's Beauty Through Cuttings and Division Hydrangeas are a beloved staple in gardens worldwide, celebrated for...
 slug: /hydrangea-propagation/
@@ -86,3 +86,4 @@ Plant outdoors in the garden the following spring after all danger of frost has 
 * **Winter Protection (Temperate Climates): ** * Young cuttings started in summer should be overwintered indoors in a cool, bright, frost-free location (e. g. , unheated garage, cold frame) for their first winter.
 
 * Divisions planted in fall should be heavily mulched to protect their still-establishing roots.
+

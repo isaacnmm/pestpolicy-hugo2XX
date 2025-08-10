@@ -1,4 +1,4 @@
----
+﻿---
 title: How to Caulk Around a Tub
 description: The caulk line around your bathtub and where the tub meets the surrounding walls often tiled is more than just a decorative finish.
 slug: /how-to-caulk-around-a-tub/
@@ -83,3 +83,4 @@ Let it sit for the recommended time to kill the spores.
 Re-caulking around a tub is a fundamental home maintenance task that directly impacts the longevity and health of your bathroom. By investing the time in meticulous preparation and following these steps for **how to caulk around a tub**especially filling the tub, using 100% silicone, and employing proper smoothing techniquesyou can achieve a professional-quality, watertight seal.
 
 This DIY project will protect your home from costly water damage, deter mold growth, and refresh the appearance of your bathroom for years to come.
+

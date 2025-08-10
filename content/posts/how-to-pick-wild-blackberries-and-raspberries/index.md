@@ -1,4 +1,4 @@
----
+﻿---
 title: How to Pick Wild Blackberries and Raspberries
 description: The thought of fresh, juicy wild berries conjures images of warm summer days, sunlight filtering through leaves, and the sweet tang of nature's bounty.
 slug: /how-to-pick-wild-blackberries-and-raspberries/
@@ -67,7 +67,7 @@ The exact timing varies significantly by region, climate, and specific species, 
 
 * **Raspberries: ** Often ripen earlier than blackberries. In many temperate regions, red raspberries can begin ripening from **late spring to early summer** (e. g. , June-July). Black raspberries typically ripen mid-summer. * **Blackberries: ** Usually ripen from **mid-summer to late summer or early fall** (e. g. , July-September). Some varieties can continue producing into October.
 
-**In Kenya: ** Due to variations in altitude and rainfall patterns, the berry picking season will differ. In higher altitude regions, wild berries are often found during the drier seasons or after the long rains, typically from **July to October**, though this can vary. Observing local fruiting patterns or consulting local [guides](https: //pestpolicy. com/10-trees-to-grow-in-containers/) is beneficial.
+**In Kenya: ** Due to variations in altitude and rainfall patterns, the berry picking season will differ. In higher altitude regions, wild berries are often found during the drier seasons or after the long rains, typically from **July to October**, though this can vary. Observing local fruiting patterns or consulting local [guides](https://pestpolicy.com/10-trees-to-grow-in-containers/) is beneficial.
 
 **How to tell if they're ripe: **
 
@@ -106,3 +106,4 @@ Once you've filled your containers, the work isn't quite over. Proper handling e
 Foraging for wild blackberries and raspberries is a truly rewarding experience, offering a direct connection to nature's bounty and the unparalleled flavor of sun-ripened fruit. With a little preparation, careful identification, and respect for the environment, you can enjoy abundant harvests for yourself, your family, and friends. Embrace the prickles, savor the sweetness, and discover the simple joy of finding your own wild treasures.
 
 Happy picking!
+

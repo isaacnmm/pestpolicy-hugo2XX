@@ -1,4 +1,4 @@
----
+﻿---
 title: What Grit Sandpaper for Primer Before Paint
 description: Surfaces such as rust metal require coarse grip sandpaper  maybe you've tried oiling , while painted ceramic surface needs to be sanded with super fine-grit...
 slug: /what-grit-sandpaper-for-primer-before-paint/
@@ -14,7 +14,7 @@ tags:
 layout: post
 ---
 
-Surfaces such as rust metal require coarse grip sandpaper ( [maybe you've tried oiling](https: //pestpolicy. com/how-does-oiling-prevent-rusting/) ), while painted ceramic surface needs to be sanded with super fine-grit sandpaper to prevent primary material from damage.
+Surfaces such as rust metal require coarse grip sandpaper ( [maybe you've tried oiling](https://pestpolicy.com/how-does-oiling-prevent-rusting/) ), while painted ceramic surface needs to be sanded with super fine-grit sandpaper to prevent primary material from damage.
 
 *So, what grit sandpaper for primer before painting - the answer is IT VARIES with the surfaces. * *When sanding raw wood material, you will need to begin with extra coarse grit sandpaper (to remove large debris), followed by coarse grit sandpaper (to remove stock material), and pass with medium-grit sandpaper to clean any unfinished wood from the surface.
 
@@ -28,7 +28,7 @@ When sanding a new surface, consider selecting extra coarse grit sandpaper for i
 
 Extra coarse grit sandpaper size ranges from 12 to 36.
 
-The lower the size number, the coarser the sandpaper is. If your surface is previously polished, you should consider using medium-grit sandpaper instead. > See Also: > [You Dont Paint Over Primer? ](https: //pestpolicy. com/what-happens-if-you-dont-paint-over-primer/)
+The lower the size number, the coarser the sandpaper is. If your surface is previously polished, you should consider using medium-grit sandpaper instead. > See Also: > [You Dont Paint Over Primer? ](https://pestpolicy.com/what-happens-if-you-dont-paint-over-primer/)
 
 ###  2. Coarse
 
@@ -98,10 +98,11 @@ The General Woodwork sanding process is best carried out by using medium grit sa
 
 For finer details, you need to polish the sanded surface with a fine-grit sandpaper (80-120grit) before repainting the wood surface.
 
-> See Also: > [Primer for Kitchen Cabinets](https: //pestpolicy. com/best-primer-for-kitchen-cabinets/)
+> See Also: > [Primer for Kitchen Cabinets](https://pestpolicy.com/best-primer-for-kitchen-cabinets/)
 
 ##  Conclusion
 
 In conclusion, on, what grit sandpaper for primer before painting, the answer to this question varies according to the type of surface you are working on. For instance, when sanding hardwood material, you will need to begin with extra coarse grit sandpaper (to remove large debris), followed by coarse grit sandpaper (to remove stock material), and pass with medium-grit sandpaper to clean any unfinished wood from the surface.
 
 Further, you may be required to eliminate surface scratches with fine-grit sandpaper or pass ultra-fine grit sandpaper to achieve an excellent surface finish. In this regard, when selecting grit sandpaper for your polishing purposes, you need to understand the extent to which the finish quality should be attained.
+

@@ -1,4 +1,4 @@
----
+﻿---
 title: How to Paint Brick
 description: Perhaps you own a brick home or a wall structure and you intend to improve it's outlook impression, then, painting is the best option to consider. Wrong...
 slug: /how-to-paint-brick/
@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 
-Perhaps you own a [brick](https: //pestpolicy. com/how-to-remove-paint-from-brick/) home or a wall structure and you intend to improve it's outlook impression, then, painting is the best option to consider.
+Perhaps you own a [brick](https://pestpolicy.com/how-to-remove-paint-from-brick/) home or a wall structure and you intend to improve it's outlook impression, then, painting is the best option to consider.
 
 Wrong procedure and painting method cause paint to peel or chip with time upon application. *On how to paint brick; select appropriate tools and materials required, clean the brick surface, strip old paint, sand the surface, repair damaged sections, and polish the surface before rinsing it to dryness.
 
@@ -35,9 +35,7 @@ The materials and tools required are; - Wire Brush and a paint brush - Sanderand
 
 Pour stripping chemical into an empty bucket gently.
 
-Add thinner and stir thoroughly until you acquire uniform solution - follow manufacturer's instructions - Using a paint brush or a roller, apply stripping chemical over the old paint - Repeat the previous step until the entire surface is covered - Leave the[stripping chemical](https: //pestpolicy.
-
-com/how-to-remove-paint-from-brick/)to cure for 10 minutes or otherwise advised by the manufacturer - Then, strip off the cured paint using paint scraper - Further, scrub the brick with wire brush gently - be careful not to damage primary surface material - Clean dislodged paint with power wash and leave the surface to dry
+Add thinner and stir thoroughly until you acquire uniform solution - follow manufacturer's instructions - Using a paint brush or a roller, apply stripping chemical over the old paint - Repeat the previous step until the entire surface is covered - Leave the[stripping chemical](https://pestpolicy.com/how-to-remove-paint-from-brick/)to cure for 10 minutes or otherwise advised by the manufacturer - Then, strip off the cured paint using paint scraper - Further, scrub the brick with wire brush gently - be careful not to damage primary surface material - Clean dislodged paint with power wash and leave the surface to dry
 
 ###  Step 3: Sanding the Surface
 
@@ -89,7 +87,7 @@ Chipping a condition that occurs when paint disintegrate from a given section an
 
 Chipping is more pronounced in wet areas than dry ones.
 
-> See Also: > [Painting your Stairwell](https: //pestpolicy. com/how-to-paint-a-stairwell/)
+> See Also: > [Painting your Stairwell](https://pestpolicy.com/how-to-paint-a-stairwell/)
 
 ###  2. Peeling and flake
 
@@ -118,3 +116,4 @@ Never use expired primer or finish paint when painting bricks - leads to peeling
 Besides, you'll have to select and prepare primer, apply the primer, select and prepare finish paint (follow manufacturer's instructions), apply finish paint, and undertake quality finish touch before leaving the surface to dry to touch naturally. It's advisable to cover painted surfaces that are located in dusty environment in order to prevent them from dust stains.
 
 Importantly, wear protective attire during paint application for personal safety and adhere to precautions given in this article.
+

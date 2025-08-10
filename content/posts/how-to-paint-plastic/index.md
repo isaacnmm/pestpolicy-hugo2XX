@@ -1,4 +1,4 @@
----
+﻿---
 title: How to Paint Plastic
 description: Painting plastic material could be one of the most cumbersome tasks, especially when wrong paint selection and improper procedures are undertaken.Usually, the...
 slug: /how-to-paint-plastic/
@@ -14,7 +14,7 @@ tags:
 layout: post
 ---
 
-Painting [plastic](https: //pestpolicy. com/best-spray-paints-for-plastic/) material could be one of the most cumbersome tasks, especially when wrong [paint](https: //pestpolicy. com/how-to-remove-paint-from-plastic/) selection and improper procedures are undertaken. Usually, the finish paint coat may peel, fade, or flake with time, thus leading to primary material weakening.
+Painting [plastic](https://pestpolicy.com/best-spray-paints-for-plastic/) material could be one of the most cumbersome tasks, especially when wrong [paint](https://pestpolicy.com/how-to-remove-paint-from-plastic/) selection and improper procedures are undertaken. Usually, the finish paint coat may peel, fade, or flake with time, thus leading to primary material weakening.
 
 *Well, in this article we shall have a discussion on how to paint plastic. To begin, you select the tools and material required, clean the surface, strip the old paint and sand gently, polish the surface, and blow off the dust and dislodged debris.
 
@@ -28,7 +28,7 @@ Priming is not always needed when painting plastic (unless the surface is under 
 
 Importantly, always wear protective gear when painting plastic for your personal safety.
 
-- Plastic paint and[a paintbrush](https: //www. amazon. com/dp/B074VYL3M6/? tag=p-policy-20) - [Fine grit sandpaper](https: //www. amazon. com/dp/B08GFHK4DG/? tag=p-policy-20)and mineral spirit or[thinner](https: //www. amazon. com/dp/B000GF49M4/? tag=p-policy-20) - [Polishing machine](https: //www. amazon. com/dp/B07WV82BPD/?
+- Plastic paint and[a paintbrush](https://www.amazon. com/dp/B074VYL3M6/? tag=p-policy-20) - [Fine grit sandpaper](https://www.amazon. com/dp/B08GFHK4DG/? tag=p-policy-20)and mineral spirit or[thinner](https://www.amazon. com/dp/B000GF49M4/? tag=p-policy-20) - [Polishing machine](https://www.amazon. com/dp/B07WV82BPD/?
 
 tag=p-policy-20)and Paint sprayer (optional) - Empty buckets (2) and Piece of cloth - Painters tape and primer if needed - Soapy detergent and respirator - Overall and boots - Blower and Stirrer - Paint scraper andstripping chemical - Vacuum cleaner and sander - optional - Hand gloves and eye protection - goggles
 
@@ -112,10 +112,11 @@ If possible, usea paint sprayerwhen painting your plastic items in order to atta
 
 For safety purposes, always wear protective gear when painting plastic and stick to precautions highlighted in this article.
 
-> See Also: > [Using An HVLP Paint Sprayer](https: //pestpolicy. com/how-to-use-an-hvlp-paint-sprayer/)
+> See Also: > [Using An HVLP Paint Sprayer](https://pestpolicy.com/how-to-use-an-hvlp-paint-sprayer/)
 
 ##  Conclusion
 
 On how to paint plastic, you begin by selecting the tools and materials required, then clean the surface, strip old paint and sand gently, polish the surface, and blow off the dust and dislodged debris. Choose appropriate plastic paint and prepare it sufficiently (follow the manufacturers instructions), carry out actual paint application (1st coat), and then line the finish coat before leaving the surface to dry to touch naturally.
 
 Cover painted plastic surface found in the dusty environment to prevent it from dust staining.
+

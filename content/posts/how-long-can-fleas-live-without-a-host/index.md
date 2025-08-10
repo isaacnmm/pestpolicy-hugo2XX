@@ -1,4 +1,4 @@
----
+﻿---
 title: How Long Can Fleas Live Without a Host
 description: Fleas are generally parasites that need a host to survive . But how long can fleas live without a host? Well, because of their thirst for blood and parasitic...
 slug: /how-long-can-fleas-live-without-a-host/
@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 
-[Fleas](https: //pestpolicy. com/how-high-can-fleas-jump/) are generally parasites that [need a host to survive](https: //www. ncbi. nlm. nih. gov/pmc/articles/PMC5734377/). But how long can fleas live without a host? Well, because of their thirst for blood and parasitic nature, they depend on the host most of their time. - **Fleas can survive for a period of 4-7 days without a host. But if you subject them to any longer than this, they will die.
+[Fleas](https://pestpolicy.com/how-high-can-fleas-jump/) are generally parasites that [need a host to survive](https://www.ncbi. nlm. nih. gov/pmc/articles/PMC5734377/). But how long can fleas live without a host? Well, because of their thirst for blood and parasitic nature, they depend on the host most of their time. - **Fleas can survive for a period of 4-7 days without a host. But if you subject them to any longer than this, they will die.
 
 ** - **Fleas have different stages of a life cycle but it is the adults that need the host more especially when laying eggs. Fleas can attach to many hosts, but their preferred hosts are the furry homes pets- cats and dogs. ** If you study the life cycle of a flea, you shall get the opportunity to learn and understand about the fleas and their host.
 
@@ -33,9 +33,7 @@ A flea has a life span of between 60-100 days. But they can live even for a whol
 
 ###  **Eggs **
 
-This is the first stage in a life cycle. A flea likes to lay its eggs on the host. Most of the preferred hosts are pets at home because their blood is nutritious and makes fleas lay more eggs. - When the pet is grooming or shaking, these eggs fall on the carpets, bedding, furniture, and any other surface The fertilized eggs hatch in a span of 2-12 days. From the [total flea population](https: //pestpolicy.
-
-com/should-you-spray-your-yard-for-fleas/) in any house, the eggs comprise about 50-54%.
+This is the first stage in a life cycle. A flea likes to lay its eggs on the host. Most of the preferred hosts are pets at home because their blood is nutritious and makes fleas lay more eggs. - When the pet is grooming or shaking, these eggs fall on the carpets, bedding, furniture, and any other surface The fertilized eggs hatch in a span of 2-12 days. From the [total flea population](https://pestpolicy.com/should-you-spray-your-yard-for-fleas/) in any house, the eggs comprise about 50-54%.
 
 ###  **Larvae **
 
@@ -59,7 +57,7 @@ However, it is very selective on the host and uses some signals like vibrations 
 
 - Their hind legs are also powerful enough to jump 150 times their own length to get to the host. As for the female, they start to lay eggs within a period of 48 hours. All the eggs laid before mating are infertile and will not hatch. As the flea takes more of pet blood it continues to lay eggs that hatch. - A female can lay up 20-30 per day and up to 180 eggs in its lifespan.
 
-However, if the environmental conditions are not good, the pupa may stay in the cocoon for up to a period of one year. The adult fleas are not many and their population is about 5 percent. Read Also: [Can Fleas Bite Through Clothes? ](https: //pestpolicy. com/can-fleas-bite-through-clothes/)
+However, if the environmental conditions are not good, the pupa may stay in the cocoon for up to a period of one year. The adult fleas are not many and their population is about 5 percent. Read Also: [Can Fleas Bite Through Clothes? ](https://pestpolicy.com/can-fleas-bite-through-clothes/)
 
 ##  **How Long Do Fleas Live With A Host? **
 
@@ -76,3 +74,4 @@ They thrive and increase rapidly when with these animals.
 ##  Conclusion
 
 How long can fleas live without a host? Approximately 4-7 days beyond which it dies. Because fleas are parasites it is hard for them to live without a host for long. - However, fleas have non-feeding stages in their cycle that do not require a host and can live on any other surface. Fleas prefer furry host-like pets as compared to human beings. They also have adaptations that help them attach and feed on a host and for as long as they can.
+

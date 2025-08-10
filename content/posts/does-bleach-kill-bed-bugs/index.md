@@ -1,4 +1,4 @@
----
+﻿---
 title: Does Bleach Kill Bed Bugs
 description: For years, bleach has been a product of choice for sanitizing and cleaning for most people. Due to its corrosive nature, homeowners have often considered it...
 slug: /does-bleach-kill-bed-bugs/
@@ -29,7 +29,7 @@ Also, bleach can will disinfectant against various microbes through denaturing t
 
 ##  Why bleach isn't useful for bed bugs
 
-Do away with bleach (Sodium hypochlorite - NaOCl) and consider safer and practical solutions like [rubbing alcohol](https: //pestpolicy. com/does-rubbing-alcohol-kill-bed-bugs/), [Lysol](https: //pestpolicy. com/does-lysol-kill-bed-bugs/), Ammonia, bed bug steamers, and Kill adult bed bugs and baby bed bug nymphs. - Below, I've outlined the reasons why you should avoid bleach as abed bug controlsolution.
+Do away with bleach (Sodium hypochlorite - NaOCl) and consider safer and practical solutions like [rubbing alcohol](https://pestpolicy.com/does-rubbing-alcohol-kill-bed-bugs/), [Lysol](https://pestpolicy.com/does-lysol-kill-bed-bugs/), Ammonia, bed bug steamers, and Kill adult bed bugs and baby bed bug nymphs. - Below, I've outlined the reasons why you should avoid bleach as abed bug controlsolution.
 
 Always ensure you carefully read the product label instructions.
 
@@ -39,7 +39,7 @@ Bleach will only kill bed bugs through direct contact and be less effective for 
 
 ###  2.Bleach can poison pets and humans
 
-Bleach may also [poison your pets](https: //www. petmd. com/dog/emergency/poisoning-toxicity/bleach-poisoning-pets-what-you-should-know), adult human beings, and kids. But how? If your kids or dogs/ cars accidentally ingest the bleaching liquid, they might get poisoned. When used in combination with HCl, bleach may result in several conditions such as acute lung injury (ALI), adult respiratory distress syndrome (ARDS), or death.
+Bleach may also [poison your pets](https://www.petmd. com/dog/emergency/poisoning-toxicity/bleach-poisoning-pets-what-you-should-know), adult human beings, and kids. But how? If your kids or dogs/ cars accidentally ingest the bleaching liquid, they might get poisoned. When used in combination with HCl, bleach may result in several conditions such as acute lung injury (ALI), adult respiratory distress syndrome (ARDS), or death.
 
 - This may come in the form of chloramine or chlorine dioxide.
 
@@ -49,7 +49,7 @@ Also, bleach may react with human skin leading to chemical burns.
 
 These *C. hemipterus* bugs use their pheromones to determine the type and concentration of chemicals or poisons in their environment and thus can escape if you've sprayed any bleach. Therefore, after detecting some bleach in their environment, they'll run into hiding cabinets, dresses, cracks, and crevices.
 
-C. hemipterus were previously considered odorless, but various chemical compounds can signal to them and are described like [alarm pheromones](https: //www. ncbi. nlm. nih. gov/pmc/articles/PMC3068171/). Therefore, bleach will not be a great bed bug control solution since the bugs will detect the chemical and go into hiding.
+C. hemipterus were previously considered odorless, but various chemical compounds can signal to them and are described like [alarm pheromones](https://www.ncbi. nlm. nih. gov/pmc/articles/PMC3068171/). Therefore, bleach will not be a great bed bug control solution since the bugs will detect the chemical and go into hiding.
 
 ###  4.Heat treatment is a better alternative
 
@@ -59,4 +59,5 @@ Equally, with this method, you'd not mainly require to undertake follow-up treat
 
 ##  **Conclusion**
 
-So, Does Bleach Kill Bed Bugs? Yes, but how effective? - Well, weve covered reasons why you definitely shouldnt use bleach to try and[kill bed bugs](https: //pestpolicy. com/does-dryer-kill-bed-bugs/). Therefore, my conclusion is that you must avoid bleach and result in other roach solutions options such as heat treatment, roach bombs, or roach killers.
+So, Does Bleach Kill Bed Bugs? Yes, but how effective? - Well, weve covered reasons why you definitely shouldnt use bleach to try and[kill bed bugs](https://pestpolicy.com/does-dryer-kill-bed-bugs/). Therefore, my conclusion is that you must avoid bleach and result in other roach solutions options such as heat treatment, roach bombs, or roach killers.
+

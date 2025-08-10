@@ -1,4 +1,4 @@
----
+﻿---
 title: Permethrin
 description: Permethrin is one of the synthetic chemicals that are classified under the pyrethroids family and come from a chrysanthemum flower. Permethrin has been in use...
 slug: /permethrin/
@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 
-Permethrin is one of the synthetic chemicals that are classified under the [pyrethroids family](https: //www. epa. gov/ingredients-used-pesticide-products/registration-review-pyrethrins-and-pyrethroids) and come from a chrysanthemum flower. Permethrin has been in use as an insecticide (as approved by EPA) since 1979 but its use has been adopted in 2006. This broad insecticide can be used in a number of techniques in controlling insects. 1.
+Permethrin is one of the synthetic chemicals that are classified under the [pyrethroids family](https://www.epa. gov/ingredients-used-pesticide-products/registration-review-pyrethrins-and-pyrethroids) and come from a chrysanthemum flower. Permethrin has been in use as an insecticide (as approved by EPA) since 1979 but its use has been adopted in 2006. This broad insecticide can be used in a number of techniques in controlling insects. 1.
 
 Controlling mosquitoes, especially in programs meant for the general public. 2. Spraying on clothes, structures, pets, yard or gardens, livestock, ornamental lawns, seed, and food crops. You may also spray around food-handling areas.
 
@@ -25,7 +25,7 @@ Permethrin can be found in a number of products including pest-treated clothes, 
 
 These will include a range of products for pest treatment including those for controlling head lice and treating scabies for humans. - NB: the permethrin-containing products controlled by the US FDA (Food and Drug Administration). On Amazon, I noted products with permethrin such as Chemtech d permethrin, Insectguard permethrin, and Bayer Permectin.
 
-- But I make cream may be formulated into insect-killing sprays, powders, lotions, and creams - but some of this may have some synergist that will enhance their pest-killing efficiency. - Further, the[permethrin products](https: //pestpolicy. com/best-fogger-for-[fleas](https: //pestpolicy. com/are-fleas-nocturnal/)/)could also have some additives that will improve their speaking ability and give them a longer life.
+- But I make cream may be formulated into insect-killing sprays, powders, lotions, and creams - but some of this may have some synergist that will enhance their pest-killing efficiency. - Further, the[permethrin products](https://pestpolicy.com/best-fogger-for-[fleas](https://pestpolicy.com/are-fleas-nocturnal/)/)could also have some additives that will improve their speaking ability and give them a longer life.
 
 As a precaution, I advise you keenly adhere to label instructions and use gear that will protect you against chemical exposure. - However, if you accidentally get exposed to permethrin, ensure to call the available poison control helpline in your area.
 
@@ -37,7 +37,7 @@ However, permethrin will be more toxic to cats than to humans and dogs - cats wi
 
 ##  How May Humans Get Permethrin Exposure? - Side Effects
 
-Humans may get exposed to permethrin through their eyes, the skin, the breathing system, or even by eating permethrin-containing or contaminated products. For example, if you use [permethrin-containing pest control products](https: //pestpolicy. com/best-flea-treatment-for-cats/) such as pest dust or sprays, and pest foggers or bombs, the chemical might get blown onto your face.
+Humans may get exposed to permethrin through their eyes, the skin, the breathing system, or even by eating permethrin-containing or contaminated products. For example, if you use [permethrin-containing pest control products](https://pestpolicy.com/best-flea-treatment-for-cats/) such as pest dust or sprays, and pest foggers or bombs, the chemical might get blown onto your face.
 
 - When considering pets such as dogs, they may get permethrin exposure as you use tick and flea control treatments and their skins. In addition, humans may breathe in permethrin while controlling mosquitoes or when using a permethrin-containing product. - This poisoning could also happen if you fail or forget to wash your hands after handling such products.
 
@@ -53,9 +53,7 @@ Finally, on how permethrin will affect the breathing system of humans; you may e
 
 - Extensive permethrin exposure such as over 45% in cuts may lead to the animal getting unable to walk or even very anxious.
 
-- Death from large exposure to permethrin may happen or at best the pet may get seizures and muscle tremors However, I can't say that this is an exhaustive list of the side effects or signs that will appear from permethrin exposure. Hence, advise you to call the veterinarian or your doctor if you suspect permethrin exposure for yourself or your pets. Related: [Will Apple Cider Vinegar Kill Fleas? ? ](https: //pestpolicy.
-
-com/does-apple-cider-vinegar-kill-fleas/)
+- Death from large exposure to permethrin may happen or at best the pet may get seizures and muscle tremors However, I can't say that this is an exhaustive list of the side effects or signs that will appear from permethrin exposure. Hence, advise you to call the veterinarian or your doctor if you suspect permethrin exposure for yourself or your pets. Related: [Will Apple Cider Vinegar Kill Fleas? ? ](https://pestpolicy.com/does-apple-cider-vinegar-kill-fleas/)
 
 ##  Can Permethrin Cause Cancer?
 
@@ -73,10 +71,11 @@ For humans, follow the doctors' lice treatment directions or allow their medicat
 
 ##  Permethrin for Scabies
 
-New research shows that [5% for permethrin](https: //www. ncbi. nlm. nih. gov/pmc/articles/PMC1117314/) if applied in its cold cream state and on all your skin for 2 days consecutively will treat scabies better. Therefore, permethrin cream is a suitable prescription for the treatment of scabies and also in killing head lice. Doctors advised safeguarding your eyes using some towel or washcloth when applying permethrin.
+New research shows that [5% for permethrin](https://www.ncbi. nlm. nih. gov/pmc/articles/PMC1117314/) if applied in its cold cream state and on all your skin for 2 days consecutively will treat scabies better. Therefore, permethrin cream is a suitable prescription for the treatment of scabies and also in killing head lice. Doctors advised safeguarding your eyes using some towel or washcloth when applying permethrin.
 
 - Also, ensure to inspect and treat other humans and pets in your space for scabies and head lice.
 
 ##  Conclusion
 
 Permethrin is a reliable insecticide that has been used for a long time for both humans and pets. - There are many permethrin-based products in the market and so ensure to consult experts while using them. Using permethrin products without care may lead to adverse pet and human health effects. Cheers!
+

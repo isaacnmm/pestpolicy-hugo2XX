@@ -1,4 +1,4 @@
----
+﻿---
 title: Should I Throw Out Flour With Weevils
 description: Flour weevils are common insects that attack cereals and flour. The breeding rate could be adverse if the matter is not corrected in time.
 slug: /should-i-throw-out-flour-with-weevils/
@@ -23,7 +23,7 @@ Normally, weevils will feed on starch content in the flour, thus rendering it un
 
 Related: [Are Pantry Bugs Harmful?
 
-](https: //pestpolicy. com/are-pantry-bugs-harmful-if-eaten/)
+](https://pestpolicy.com/are-pantry-bugs-harmful-if-eaten/)
 
 ##  Details: Should I Throw Out Flour With Weevils
 
@@ -45,7 +45,7 @@ Moreover, the quality of flour fineness will deteriorate due to continue starch 
 
 Upon discovery that you have flour weevil infestation, you need to ascertain the degree/extent of the infestation. For light weevil infestation, you may opt to use the flour directly without any problem. - However, storing that particular flour (weevil infested) will only lead to further mess as the weevils breed further. You need to control weevils immediately.
 
-This can be done by either placing the flour in a freezer for over 5 days - low temperature kills the live weevils and their eggs- or heating up the flour gently. Related: [What Causes Pantry Bugs? ](https: //pestpolicy. com/what-causes-pantry-bugs/)
+This can be done by either placing the flour in a freezer for over 5 days - low temperature kills the live weevils and their eggs- or heating up the flour gently. Related: [What Causes Pantry Bugs? ](https://pestpolicy.com/what-causes-pantry-bugs/)
 
 ###  d. Dangers of Eating Weevils Infected Flour
 
@@ -65,7 +65,7 @@ However, if you are careful enough, you will note that the first mature weevils 
 
 Weevils originate from the source point, which is usually either the seller, granary, or millers. When wheat or maize is being milled, the weevil's eggs are rarely affected in whatever way unless treated. - These eggs are then transferred to the package, which eventually finds itself into your house, where they hatch into mature weevils finally.
 
-Failure of millers to treat wheat or maize before milling takes place is a key reason for weevil infestation in the flour this particular cause can only be controlled through freezing as explained further in this article. Alternatively, your flour may get weevils if stored with infested grains and cereals such as rice. Related [Small Brown Insects In My Kitchen? ](https: //pestpolicy. com/what-are-small-brown-insects-in-my-kitchen/)
+Failure of millers to treat wheat or maize before milling takes place is a key reason for weevil infestation in the flour this particular cause can only be controlled through freezing as explained further in this article. Alternatively, your flour may get weevils if stored with infested grains and cereals such as rice. Related [Small Brown Insects In My Kitchen? ](https://pestpolicy.com/what-are-small-brown-insects-in-my-kitchen/)
 
 ##  Ways to Prevent Flour Weevil Infestation
 
@@ -92,3 +92,4 @@ In summary, should I throw out flour with weevils, the direct answer is no. Why 
 Normally, weevils will feed on starch in the flour, thus rendering it unsafe for consumption.
 
 Moreover, the flour is prone to poisoning in case of expiration (external agents). You will note, upon cooking, that the final flour meal has an unpleasant taste.
+

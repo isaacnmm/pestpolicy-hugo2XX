@@ -1,4 +1,4 @@
----
+﻿---
 title: What is an Oboe
 description: The World Guinness Records documents oboe and French horn are the hardest instruments of all to play. But, what is an oboe?
 slug: /what-is-an-oboe/
@@ -13,9 +13,9 @@ tags:
 layout: post
 ---
 
-The World Guinness Records documents [oboe](https: //pestpolicy. com/english-horn-vs-oboe/) and French horn are the hardest instruments of all to play. But, what is an oboe? How will it fit into your solo work on the orchestra?
+The World Guinness Records documents [oboe](https://pestpolicy.com/english-horn-vs-oboe/) and French horn are the hardest instruments of all to play. But, what is an oboe? How will it fit into your solo work on the orchestra?
 
-Well, I have to state that the French horn is difficult to play but the oboe - woodwind instrument - is the hardest. By definition, the Oboe the treble instrument - (pronounced as *OH-boh* ) is a [woodwind instruments](https: //en. wikipedia. org/wiki/Woodwind_instrument), double-reed mouthpiece to be specific. Well, the regular oboe would play the soprano or treble range.
+Well, I have to state that the French horn is difficult to play but the oboe - woodwind instrument - is the hardest. By definition, the Oboe the treble instrument - (pronounced as *OH-boh* ) is a [woodwind instruments](https://en.wikipedia. org/wiki/Woodwind_instrument), double-reed mouthpiece to be specific. Well, the regular oboe would play the soprano or treble range.
 
 Notably, Oboes can be made from synthetic materials but mainly wood is the main material. Read Also: SD Card for Raspberry Pi 3
 
@@ -31,7 +31,7 @@ Oboehistory & oboemusic The oboe began its life in the middle Ages like a Shan. 
 
 Under the reign of arts benefactor Louis XIV, 3 names stand out that were to play a critical role in the development of the oboe: these were (1) the virtuous woodwind player of **Michelle Philidor**, (2) the composer **Lully** and (3) the family of instrument makers - **Hotter**. It is speculated that under the influence of Philidors playing and Lullys writing the oboe was designed mostly by the Hotterre family.
 
-The oboe gained instantaneous popularity both indoors like the sensitive instruments and outdoors like a band instrument. Read Also: [Sound Cards for Music Production](https: //pestpolicy. com/best-sound-cards-for-music-production/)
+The oboe gained instantaneous popularity both indoors like the sensitive instruments and outdoors like a band instrument. Read Also: [Sound Cards for Music Production](https://pestpolicy.com/best-sound-cards-for-music-production/)
 
 ###  Parts of the Oboe
 
@@ -49,7 +49,7 @@ They join leading to the oboes bell is described as the lower joint. Notably, th
 
 Oboes upper joint is 3 rd among the 5 sections in the woodwind instrument. Notably, it lies between the lower joint and the staple. Also, just like the lower joint, the upper joint has the tone holes, rods, and keys and equally create various pitches with different key combinations being pressed. Further, the upper joint has 2 additional keys that a player uses to activate 2 varied octave ranges: 1st-octave key & 2nd-octave key.
 
-Read Also: [Mac for Music Production](https: //pestpolicy. com/best-mac-for-music-production/)
+Read Also: [Mac for Music Production](https://pestpolicy.com/best-mac-for-music-production/)
 
 #####  a. First Octave Key
 
@@ -71,4 +71,5 @@ Oboesound and facts
 
 ##  Resources
 
-1. [Bibliographies & Guides to the Oboe Repertoire](https: //researchguides. uoregon. edu/oboe/bibliographies) 2. [Oboe reed investigations](https: //eprints. utas. edu. au/12400/) -University of Tasmania 3. [A Study of Oboe Reeds](https: //scholarworks. gvsu. edu/cgi/viewcontent. cgi? article=1119&context=sss) -Grand Valley State University
+1. [Bibliographies & Guides to the Oboe Repertoire](https://researchguides.uoregon. edu/oboe/bibliographies) 2. [Oboe reed investigations](https://eprints.utas. edu. au/12400/) -University of Tasmania 3. [A Study of Oboe Reeds](https://scholarworks.gvsu. edu/cgi/viewcontent. cgi? article=1119&context=sss) -Grand Valley State University
+

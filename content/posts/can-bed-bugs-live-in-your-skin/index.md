@@ -1,4 +1,4 @@
----
+﻿---
 title: Can Bed Bugs Live in Your Skin
 description: Bed bugs will feed on your bare or hairless skin areas - including legs, arms, face, and neck. For starters, bed bug bites will appear as tiny red welts...
 slug: /can-bed-bugs-live-in-your-skin/
@@ -35,7 +35,7 @@ The bugs will mainly be in exposed areas like your arms, legs, hands, neck, and 
 
 Bed bug bites heal fully within 3-6 weeks. However, when there is a significant infestation, new bites could accumulate as the older edges disappear. However, the bedbug bites won't generally need treatment - most people will mainly experience just itching. For severe itching, you may get oral antihistamines ortopical steroid creams for relief.
 
-The [bedbugs](https: //www. webmd. com/skin-problems-and-treatments/ss/slideshow-bedbugs) are brownish, oval, and small in size (apple seed)- they'll live on blood from humans and animals. The fed bug will have/) swollen bodies and have a reddish color. Further, you may wash the [bed bug bite](https: //pestpolicy. com/bed-bug-bites-vs-mosquito-bites/) using water and soap - but don't scratch as this may lead to infection.
+The [bedbugs](https://www.webmd. com/skin-problems-and-treatments/ss/slideshow-bedbugs) are brownish, oval, and small in size (apple seed)- they'll live on blood from humans and animals. The fed bug will have/) swollen bodies and have a reddish color. Further, you may wash the [bed bug bite](https://pestpolicy.com/bed-bug-bites-vs-mosquito-bites/) using water and soap - but don't scratch as this may lead to infection.
 
 Any such secondary condition is manageable using antibiotics.
 
@@ -45,11 +45,11 @@ Bedbugs won't fly but are quick to move over ceilings, walls, and floors. They'l
 
 Such places include the headboards, bed frames, box springs, mattresses - use bed bug mattress encasements.
 
-With time, the bed bugs will scatter all over your bedroom, hiding in protected areas or crevices in different apartments and rooms. Therefore, having [bed bugs](https: //pestpolicy. com/dead-bed-bugs/) won't signify dirtiness.
+With time, the bed bugs will scatter all over your bedroom, hiding in protected areas or crevices in different apartments and rooms. Therefore, having [bed bugs](https://pestpolicy.com/dead-bed-bugs/) won't signify dirtiness.
 
 ##  When DoBedbugs Bite?
 
-[Bedbugs will be jumping](https: //pestpolicy. com/do-bed-bugs-jump/) up and down during the night to bite humans in their sleep. They'll pierce your skin to draw blood using its elongated beak. They'll feed for 3-10 minutes allowing it to get blood-engorged while also crawling away securely. The bites initially are painless butcould lead to itchy welts.
+[Bedbugs will be jumping](https://pestpolicy.com/do-bed-bugs-jump/) up and down during the night to bite humans in their sleep. They'll pierce your skin to draw blood using its elongated beak. They'll feed for 3-10 minutes allowing it to get blood-engorged while also crawling away securely. The bites initially are painless butcould lead to itchy welts.
 
 Flea bites will predominantly be located around your ankles, but bed bug bites are found on any exposed skin when humans are sleeping.
 
@@ -67,8 +67,9 @@ For bed bug extermination, clean up any infested areas, and use chemical insecti
 
 Get some stiff brush to scrub your mattress as this effectively will help eject the bedbugs and bedbug eggs - also use a bed bug steamer.
 
-Further, ensure to effectively and frequently vacuum your bed and its surrounding. Also, put the vacuum bag in the outdoor garbage in a plastic bag. Get encasements for your box springs and the mattress - ensure that the case is zippered and tightly woven as this will help prevent [bed bug entry](https: //pestpolicy. com/what-causes-bed-bugs/).
+Further, ensure to effectively and frequently vacuum your bed and its surrounding. Also, put the vacuum bag in the outdoor garbage in a plastic bag. Get encasements for your box springs and the mattress - ensure that the case is zippered and tightly woven as this will help prevent [bed bug entry](https://pestpolicy.com/what-causes-bed-bugs/).
 
 ##  Conclusion
 
 Above, we've covered this question - Can bed bugs live in your skin? Clean the bedroom, bed sheets, or even dispose of the mattress in addition to steaming the rooms.
+

@@ -1,4 +1,4 @@
----
+﻿---
 title: How to Caulk a Shower
 description: Caulking a shower might seem like a small detail in bathroom maintenance, but it plays a monumental role in protecting your home from water damage and...
 slug: /how-to-caulk-a-shower/
@@ -39,7 +39,7 @@ Once the old caulk is removed, the seam will likely reveal dirt, soap scum, and 
 Caulking a shower is a fundamental skill for any homeowner. By diligently following the steps for **prepping your shower** and **planning your caulk** application, you can achieve a durable, watertight, and aesthetically pleasing seal that will protect your bathroom from water damage and mold growth for years to come.
 This relatively quick and inexpensive DIY project can save you from far more significant and costly repairs down the road, ensuring your bathroom remains a clean, functional, and healthy space.
 
-Caulking a [shower](https: //pestpolicy. com/a-shower-wand-made-to-clean-your-tub/) might seem like a small detail in bathroom maintenance, but it plays a monumental role in protecting your home from water damage and preventing the growth of unsightly and unhealthy mold and mildew. Over time, the caulk lines around your shower, tub, and tile can crack, peel, shrink, or become discolored.
+Caulking a [shower](https://pestpolicy.com/a-shower-wand-made-to-clean-your-tub/) might seem like a small detail in bathroom maintenance, but it plays a monumental role in protecting your home from water damage and preventing the growth of unsightly and unhealthy mold and mildew. Over time, the caulk lines around your shower, tub, and tile can crack, peel, shrink, or become discolored.
 
 These compromised seals allow water to seep behind walls, into subfloors, and around fixtures, leading to serious and costly problems like rot, structural damage, and extensive mold infestations.
 
@@ -100,3 +100,4 @@ This is a common and effective method for silicone.
 ###  9. Clean Up and Cure
 
 * **Wipe Down: ** Use a damp rag or paper towels to clean up any errant caulk smears or drips on surfaces. * **Allow to Cure: ** **DO NOT** expose the newly caulked area to water until the caulk has fully cured, as specified on the tube. This usually means no showers for at least 24-72 hours. Proper curing ensures maximum durability and watertightness.
+

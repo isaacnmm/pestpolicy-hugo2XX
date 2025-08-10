@@ -1,4 +1,4 @@
----
+﻿---
 title: Rain Chain a Stylish Alternative to Downspouts
 description: For centuries, downspouts have served a purely utilitarian purpose directing water from gutters away from a home's foundation.
 slug: /rain-chain-a-stylish-alternative-to-downspouts/
@@ -31,9 +31,9 @@ Beyond basic installation, consider these tips to maximize the effectiveness and
 * **Winter Considerations:** In freezing climates, ice can build up on rain chains. While copper and sturdy chains generally handle this well, extremely heavy ice can pull on gutters. Consider detaching them or ensuring sufficient strength during heavy ice accumulation. * **Gutter Compatibility:** Ensure your gutters are clean and pitched correctly to direct water efficiently to the rain chain's outlet.
 ---
 
-For centuries, downspouts have served a purely utilitarian purpose: directing water from [gutters](https: //pestpolicy. com/how-to-install-rain-gutters/) away from a home's foundation. While effective, their often utilitarian appearance can sometimes detract from a home's carefully curated exterior.
+For centuries, downspouts have served a purely utilitarian purpose: directing water from [gutters](https://pestpolicy.com/how-to-install-rain-gutters/) away from a home's foundation. While effective, their often utilitarian appearance can sometimes detract from a home's carefully curated exterior.
 
-Enter the **rain [chain](https: //pestpolicy. com/what-is-a-rain-chain/)**, a beautiful and increasingly popular alternative that transforms a mundane drainage element into a captivating architectural feature and a soothing sensory experience.
+Enter the **rain [chain](https://pestpolicy.com/what-is-a-rain-chain/)**, a beautiful and increasingly popular alternative that transforms a mundane drainage element into a captivating architectural feature and a soothing sensory experience.
 
 Originating in Japan centuries ago, where they are known as *kusari doi*, rain chains guide rainwater gracefully from the roof to the ground, creating a visually appealing cascade and a gentle, rhythmic sound. They offer a unique blend of functionality and artistry, adding a touch of elegance, tranquility, and often, an unexpected focal point to a home's exterior.
 
@@ -86,3 +86,4 @@ Rain chains offer a delightful fusion of practicality and artistry, transforming
 While traditional downspouts remain effective, rain chains present a compelling alternative for those seeking to enhance curb appeal, embrace a specific architectural aesthetic, or simply enjoy the soothing sights and sounds of falling rain.
 
 By carefully selecting the right style and material, and ensuring proper installation with effective ground drainage, rain chains can become a cherished feature of your home, turning every rain shower into a moment of beauty and serenity.
+

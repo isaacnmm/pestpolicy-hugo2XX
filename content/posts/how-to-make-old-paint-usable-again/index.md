@@ -1,4 +1,4 @@
----
+﻿---
 title: How to Make Old Paint Usable Again
 description: Are you still having those old paints stacked in your garage or store? Well, it's high time you visit your garage and rethink how those paint can be reused...
 slug: /how-to-make-old-paint-usable-again/
@@ -14,7 +14,7 @@ tags:
 layout: post
 ---
 
-Are you still having those old paints stacked in your garage or store? Well, it's high time you visit your garage and rethink how those [paint](https: //pestpolicy. com/airless-paint-sprayer-tips/) can be reused again.
+Are you still having those old paints stacked in your garage or store? Well, it's high time you visit your garage and rethink how those [paint](https://pestpolicy.com/airless-paint-sprayer-tips/) can be reused again.
 
 For most of us, those paints are usually leftover after a painting project, and to some extent, we have felt like they are nothing but litter within the household. As much as that paint looks expired and dead, something meaningful can come out of it and bring back life at little or no cost at all. See Also: Spray Paints for Plastic.
 
@@ -66,7 +66,7 @@ If you leave your paint open, you expose them to a lot of factors that may rende
 
 Such temperatures completely alter the chemical composition of any paint whether oil or water-based and the best you can do is throw them away.
 
-If your paint was sealed but got exposed to air, there are chances that you can reuse it. By chance, you may find this paint has formed a layer that can always be removed by thoroughly stirring and bring it back to life. In some instances, you may find the whole paint has dried, it is as good as dead and hard to reuse it again. > See Also: > [Primer for Rusted Metal](https: //pestpolicy. com/best-primer-for-rusted-metal/)
+If your paint was sealed but got exposed to air, there are chances that you can reuse it. By chance, you may find this paint has formed a layer that can always be removed by thoroughly stirring and bring it back to life. In some instances, you may find the whole paint has dried, it is as good as dead and hard to reuse it again. > See Also: > [Primer for Rusted Metal](https://pestpolicy.com/best-primer-for-rusted-metal/)
 
 ##  How to Differentiate Good and Bad Paint
 
@@ -76,8 +76,9 @@ If the paint is good, it will stir gently and the paint will liquefy and you can
 
 To some extent, the spoilt paints may develop molds and mildew which is a clear indication that the paint is bad and beyond repair. Caution: In some instances, the paint may have some lumps and some clever bunch may try to use a filter mechanism to get off the lumps and reuse the paint. Once the paint has developed the lumps, its done, it's dead and there is nothing you can do about it.
 
-> See Also: > [Paint Stripper for Metal](https: //pestpolicy. com/best-paint-stripper-for-metal/)
+> See Also: > [Paint Stripper for Metal](https://pestpolicy.com/best-paint-stripper-for-metal/)
 
 ##  Conclusion
 
 In the whole process of how to make old paint usable again, the most critical process is the vigorous mixing. It carries the cream of the whole process. Some retailers offer this mixing to their clients at no cost which is a better option as compared to DIY and also guarantees you quality. Running the above process offers an option for most DIY. NB: This process does not have any effect on the altercation of the color of your old paint.
+

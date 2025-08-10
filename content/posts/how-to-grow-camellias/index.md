@@ -1,4 +1,4 @@
----
+﻿---
 title: How to Grow Camellias
 description: Camellias are among the most aristocratic and cherished shrubs in the garden, prized for their exquisite, often fragrant flowers that bloom when most other...
 slug: /how-to-grow-camellias/
@@ -24,7 +24,7 @@ Originating from Asia, these woody plants are surprisingly versatile and can thr
 
 ##  Features and Types of Garden Camellias
 
-Camellias belong to the genus *[Camellia](https: //pestpolicy. com/how-to-grow-camellias-from-seed/)*, part of the tea family (Theaceae). They are woody shrubs or small trees, highly valued for their ornamental qualities.
+Camellias belong to the genus *[Camellia](https://pestpolicy.com/how-to-grow-camellias-from-seed/)*, part of the tea family (Theaceae). They are woody shrubs or small trees, highly valued for their ornamental qualities.
 
 **Key Features: ** * **Evergreen Foliage: ** Leathery, dark green, glossy leaves provide year-round interest. * **Distinctive Flowers: ** Blooms range from single petals to highly formal doubles, often with prominent yellow stamens, and come in various sizes (from small 5 cm / 2 inches to large 15 cm / 6 inches). Colors include white, pink, red, and variegated forms. * **Bloom Time: ** This is a major distinguishing feature.
 
@@ -127,3 +127,4 @@ Ensure the pot drains well. * **Fertilizing: ** Nutrients leach out more quickly
 Growing camellias is a journey that rewards patience and attention to their specific needs. By providing them with the right site conditionsnamely, well-draining, acidic soil and protection from harsh sun and windsyou will unlock their full potential.
 
 Their stunning evergreen foliage and spectacular, often fragrant blooms will bring unparalleled beauty to your garden, particularly when the rest of the landscape is still slumbering, proving that camellias are truly the jewels of the winter and early spring garden.
+

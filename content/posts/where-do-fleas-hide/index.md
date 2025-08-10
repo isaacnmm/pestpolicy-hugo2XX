@@ -1,4 +1,4 @@
----
+﻿---
 title: Where Do Fleas Hide
 description: Where do fleas hide? - this article presents my quick and detailed response. The information will assist homeowners to track down the fleas and exterminate...
 slug: /where-do-fleas-hide/
@@ -49,7 +49,7 @@ Thus, to effectively control the fleas and their larval stages, you'll require t
 
 There are a number of flea species that'll land on various pests such as human fleas, cats (cat fleas), dogs (dog fleas), rabbits, and various mammals. - The adult fleas tend to dwell mainly on the pet's coat - they'll use their strong legs for gripping onto the animal's fur. - Therefore, the fleas will lurk around that food source (pet's blood) since they have lower reproduction and survival rates away from the animals.
 
-- Notable, female fleas will have lower egg production (of viable eggs) when they lack that blood supply from their favourite hosts. **Removal** To remove the fleas from your pets, you can use a myriad of flea treatment methods depending on the growth stage of the bugs and the pet under consideration. - For, example, check this comprehensive guide on the[ultimate flea treatment for cats](https: //pestpolicy. com/best-flea-treatment-for-cats/).
+- Notable, female fleas will have lower egg production (of viable eggs) when they lack that blood supply from their favourite hosts. **Removal** To remove the fleas from your pets, you can use a myriad of flea treatment methods depending on the growth stage of the bugs and the pet under consideration. - For, example, check this comprehensive guide on the[ultimate flea treatment for cats](https://pestpolicy.com/best-flea-treatment-for-cats/).
 
 Further, you must know that the adult flea population is usually under 10% and hence you must place to get rid of the other flea stages appropriately. - This will include killing the flea larvae and eggs to prevent further population growth. - You'll mainly find the fleas under the pet's tail, back of its neck, on the belly plus other areas with dense fur.
 
@@ -59,12 +59,13 @@ For the areas that you keep the pet food, you'll also require thorough flea-kill
 
 ##  3. In Crevices & Cracks- Do fleas Hide inCrevices & Cracks?
 
-Well, YES, fleas can hide in bedding, carpets, crevices, and cracks - they'll use debris, dirt, and saliva to spin their cocoon to allow them to be camouflaged easily. - The fleas ([including flea larvae and eggs](https: //pestpolicy. com/what-do-baby-fleas-look-like/)) may hide in*crevices*& cracks of your upholstered sofa - to control these you'd require to use a steamer or vacuum.
+Well, YES, fleas can hide in bedding, carpets, crevices, and cracks - they'll use debris, dirt, and saliva to spin their cocoon to allow them to be camouflaged easily. - The fleas ([including flea larvae and eggs](https://pestpolicy.com/what-do-baby-fleas-look-like/)) may hide in*crevices*& cracks of your upholstered sofa - to control these you'd require to use a steamer or vacuum.
 
-- The fleas ([including flea larvae and eggs](https: //pestpolicy. com/what-do-baby-fleas-look-like/)) may hide in*crevices*& cracks of your upholstered sofa - to control these you'd require to use a steamer or vacuum. Further, the fleas can hide in crevices and cracks of those hardwood floors of various furniture and baseboards. Notably, various flea treatments like insecticides don't get deep down there.
+- The fleas ([including flea larvae and eggs](https://pestpolicy.com/what-do-baby-fleas-look-like/)) may hide in*crevices*& cracks of your upholstered sofa - to control these you'd require to use a steamer or vacuum. Further, the fleas can hide in crevices and cracks of those hardwood floors of various furniture and baseboards. Notably, various flea treatments like insecticides don't get deep down there.
 
 - Alternative flea-control techniques will include using steamers, vacuums, anddryers at high temperatureswill exterminate the bugs. Further, fleas may live under your carpets & rugs in both your apartment or house. They'll even lay their eggs, and if viable, they'll hatch into larvae.
 
 ##  Conclusion
 
-Fleas will be a major nuisance to you and other homeowners due to the [cat fleas](https: //ento. psu. edu/extension/factsheets/fleas) being dark-coloured and having a tiny body size (4mm length) allowing them to hide in those odd locations.
+Fleas will be a major nuisance to you and other homeowners due to the [cat fleas](https://ento.psu. edu/extension/factsheets/fleas) being dark-coloured and having a tiny body size (4mm length) allowing them to hide in those odd locations.
+

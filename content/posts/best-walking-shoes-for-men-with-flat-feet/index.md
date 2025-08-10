@@ -1,4 +1,4 @@
----
+﻿---
 title: Best Walking Shoes for Men With Flat Feet
 description: Best Walking Shoes for Men with Flat Feet should have great shock absorbing properties, excellent arch support, and exceptional cushioning. Your arches are...
 slug: /best-walking-shoes-for-men-with-flat-feet/
@@ -28,7 +28,7 @@ These Brooks Addiction shoes boost of a Progressive Diagonal Rollbar within the 
 
 This feature improves midsole cushioning, comfort while ensuring excellent shock absorption experience. The stability, support, and comfort of these Brooks Addiction Walker make them a top choice for someone who walks around or stands all day long. Hence, these shoes are an ideal choice for those with flat-feet and crave all-day comfort and support.
 
-Read Also: [Best walking shoes for high arches](https: //pestpolicy. com/best-walking-shoes-for-high-arches/).
+Read Also: [Best walking shoes for high arches](https://pestpolicy.com/best-walking-shoes-for-high-arches/).
 
 ###  [2. Brooks Men's Beast '18 - Colors Black, Grey, Silver - #2 Pick](https://www.amazon.com/dp/B077TD3C6G/?tag=p-policy-20)
 
@@ -40,7 +40,7 @@ The Progressive Diagonal Rollbar provides Maximum Support to your feet by guidin
 
 Brooks Beast '18 also features a fantastic upper with an engineered air mesh, broad toe box, external heel counter, and a structured saddle. All these features work in combination with an improved fit with reinforced stability.
 
-Read Also: [Best walking shoes for travel](https: //pestpolicy. com/best-walking-shoes-travel/).
+Read Also: [Best walking shoes for travel](https://pestpolicy.com/best-walking-shoes-travel/).
 
 ###  **3. Onemix Men's Air Cushion Sport Running Shoes - #3 Pick**
 
@@ -77,3 +77,4 @@ All these features work in combination to give you comfortable strides and all-d
 ##  Conclusion
 
 I recommend BrooksMen's Addiction Walking Shoesand Brooks Men's Beast '18 as the best walking shoes for men with flat feet. These shoes have great shock-absorbing cushioning and are highly responsive. So, men who walk a lot and have a flat fleet will significantly benefit from these shoes.
+

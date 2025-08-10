@@ -1,4 +1,4 @@
----
+﻿---
 title: Noisy Downspout
 description: The sound of rain can be wonderfully soothing, a gentle drumbeat against the window, but a noisy downspout can quickly turn that peaceful ambiance into an...
 slug: /noisy-downspout/
@@ -51,7 +51,7 @@ While many downspout issues can be DIY fixes, it's often best to call a professi
 * **High-Risk Situations:** If the downspout is on a second story or higher, or if your roof pitch is steep. Ladder work can be dangerous. * **Persistent Clogs:** If you can't clear a clog with a hose or snake. * **System-Wide Issues:** If multiple downspouts are noisy, or if you suspect problems with gutter pitch or sizing. * **Repairs and Replacements:** For any significant repairs, re-pitching, or downspout replacements.
 A professional gutter company can quickly diagnose the problem, implement a lasting solution safely, and ensure your entire gutter system is functioning optimally and quietly, protecting your home from the elements.
 
-The sound of rain can be wonderfully soothing, a gentle drumbeat against the window, but a **noisy [downspout](https: //pestpolicy. com/gutter-downspout-adapter/)** can quickly turn that peaceful ambiance into an irritating distraction. Whether it's the constant gurgle, a slapping sound, an echoing roar, or an incessant drip, a loud downspout is a clear sign that something isn't quite right with your home's gutter system.
+The sound of rain can be wonderfully soothing, a gentle drumbeat against the window, but a **noisy [downspout](https://pestpolicy.com/gutter-downspout-adapter/)** can quickly turn that peaceful ambiance into an irritating distraction. Whether it's the constant gurgle, a slapping sound, an echoing roar, or an incessant drip, a loud downspout is a clear sign that something isn't quite right with your home's gutter system.
 
 Beyond the annoyance, these noises often point to underlying issues that could affect your home's ability to manage rainwater effectively, potentially leading to water damage if left unaddressed.
 
@@ -74,3 +74,4 @@ Proactive measures can save you from future headaches:
 While not entirely maintenance-free, they drastically cut down on cleaning frequency.
 
 * **Trim Overhanging Branches: ** Reduce tree limbs that extend directly over your roofline to minimize debris falling into your gutters. * **Proper Installation: ** When installing new gutters, ensure they are correctly pitched and that downspouts are adequately sized and securely fastened with enough straps.
+

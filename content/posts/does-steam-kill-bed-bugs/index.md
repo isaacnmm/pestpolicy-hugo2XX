@@ -1,4 +1,4 @@
----
+﻿---
 title: Does Steam Kill Bed Bugs
 description: '''Goodnight, sleep tight, and don''t let the bed bugs bite!'' The thought of sharing our beds with resilient critters that live off our skin and blood is enough to'
 slug: /does-steam-kill-bed-bugs/
@@ -41,7 +41,7 @@ You will need to be very careful, however, as the steam itself will need to be e
 
 ###  1. Mattresses
 
-The best way to use [vacuums or steamers](https: //pestpolicy. com/best-bed-bug-steamer/) to kill bed bugs is to apply the steam using a brush or tool attachment. The broader the attachment the better in order to distribute the heat to a wider area at a time.
+The best way to use [vacuums or steamers](https://pestpolicy.com/best-bed-bug-steamer/) to kill bed bugs is to apply the steam using a brush or tool attachment. The broader the attachment the better in order to distribute the heat to a wider area at a time.
 
 The good thing is that bed bugs do not need to be exposed to this degree of heat for a long time before they succumb so you will not need to concentrate the steamer on the same area for long.
 
@@ -55,11 +55,11 @@ For this reason, it is best to repeat the process every two or three weeks until
 
 ###  2. Other Bedding - Pillow, Duvets, Carpet
 
-You can also use a steam attachment or wand to apply heat to bedding like duvets and pillows. Don't forget the [carpet](https: //pestpolicy. com/can-[bed-bugs](https: //pestpolicy. com/does-baby-powder-kill-bed-bugs/)-live-in-carpet/) beneath and beside the bed and any rugs that bugs might have run towards.
+You can also use a steam attachment or wand to apply heat to bedding like duvets and pillows. Don't forget the [carpet](https://pestpolicy.com/can-[bed-bugs](https://pestpolicy.com/does-baby-powder-kill-bed-bugs/)-live-in-carpet/) beneath and beside the bed and any rugs that bugs might have run towards.
 
 If you have a wand attachment, it is also a good idea to focus on the crevice between the carpet and skirting board.
 
-Tips 1. Vacuum thoroughly before beginning 2. Remove sheets and bedding material (wash on a boil wash, or [steam](https: //pestpolicy. com/does-steam-cleaning-kill-fleas/) first if possible) 3. Work on small areas, about an inch at a time 4. Work methodically in rows 5. Overlap your rows 6. Keep the nozzle or attachment about half an inch from the surface of the mattress or bedding 7. Hold the nozzle over each area for about 10 seconds 8.
+Tips 1. Vacuum thoroughly before beginning 2. Remove sheets and bedding material (wash on a boil wash, or [steam](https://pestpolicy.com/does-steam-cleaning-kill-fleas/) first if possible) 3. Work on small areas, about an inch at a time 4. Work methodically in rows 5. Overlap your rows 6. Keep the nozzle or attachment about half an inch from the surface of the mattress or bedding 7. Hold the nozzle over each area for about 10 seconds 8.
 
 Pay close attention to the seams of the mattress 9.
 
@@ -100,3 +100,4 @@ Always follow the manufacturer's guidelines and keep the room well ventilated. M
 Even after treating your mattress with steam or chemicals, some resilient bed bugs may still survive.
 
 You can trap these effectively by purchasing a purpose-made mattress cover that bed bugs are unable to pass through. This way, any remaining bed bugs will be unable to bite you and will be unable to survive without a food supply.
+

@@ -1,4 +1,4 @@
----
+﻿---
 title: How to Determine If Old Seeds Are Still Good for Planting
 description: The allure of a forgotten packet of seeds, tucked away from a previous gardening season, can be strong. Perhaps it's a cherished heirloom variety, a...
 slug: /how-to-determine-if-old-seeds-are-still-good-for-planting/
@@ -16,9 +16,9 @@ tags:
 layout: post
 ---
 
-The allure of a forgotten packet of seeds, tucked away from a previous [gardening](https: //pestpolicy. com/how-to-quickly-space-seeds-in-your-garden/) season, can be strong. Perhaps it's a cherished heirloom variety, a particularly successful crop from years past, or simply a desire to avoid waste. While the promise of new life lies dormant within each tiny seed, time is often an unforgiving enemy.
+The allure of a forgotten packet of seeds, tucked away from a previous [gardening](https://pestpolicy.com/how-to-quickly-space-seeds-in-your-garden/) season, can be strong. Perhaps it's a cherished heirloom variety, a particularly successful crop from years past, or simply a desire to avoid waste. While the promise of new life lies dormant within each tiny seed, time is often an unforgiving enemy.
 
-As seeds age, their viability their ability to germinate and grow into healthy plants gradually diminishes. Planting [old](https: //pestpolicy. com/best-4-wheeler-for-12-year-old/), non-viable seeds can lead to wasted effort, disappointing germination rates, and ultimately, unproductive garden beds.
+As seeds age, their viability their ability to germinate and grow into healthy plants gradually diminishes. Planting [old](https://pestpolicy.com/best-4-wheeler-for-12-year-old/), non-viable seeds can lead to wasted effort, disappointing germination rates, and ultimately, unproductive garden beds.
 
 So, how do you distinguish between a still-vibrant seed and one that has lost its spark? The answer lies in a combination of understanding the factors that affect seed longevity and performing simple tests to gauge their viability. This guide will walk you through practical methods, from basic visual inspections to the more reliable germination test, empowering you to make informed decisions about your seed stash.
 
@@ -197,3 +197,4 @@ By proactively assessing the viability of your old seed packets, you transform a
 Furthermore, by implementing proper storage techniques keeping your seeds cool, dry, and dark you can significantly extend their usable life, minimizing waste and maximizing your investment.
 
 Ultimately, determining if old seeds are still good for planting is more than just a practical chore; it's an act of horticultural stewardship. It's about respecting the life within each seed and giving it the very best opportunity to fulfill its promise, leading to a more productive, beautiful, and rewarding garden for you to cherish.
+

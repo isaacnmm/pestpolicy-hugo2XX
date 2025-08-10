@@ -1,4 +1,4 @@
----
+﻿---
 title: Bird Friendly Backyard Ideas
 description: Are you looking to make your backyard more bird-friendly? Well, you need the right habitat to attract a variety of popular birds into your backyard.
 slug: /bird-friendly-backyard-ideas/
@@ -25,9 +25,9 @@ Check out the ideas below to create an amazing habitat that will attract colorfu
 
 ###  1. Put up a Bird Feeder
 
-The [best](https: //pestpolicy. com/best-acoustic-guitar-for-small-hands/) and highly recommended way to attract wild birds into your backyard is to install a [bird](https: //pestpolicy. com/how-to-make-a-suet-bird-feeder/) feeder and fill it up with birdseed.
+The [best](https://pestpolicy.com/best-acoustic-guitar-for-small-hands/) and highly recommended way to attract wild birds into your backyard is to install a [bird](https://pestpolicy.com/how-to-make-a-suet-bird-feeder/) feeder and fill it up with birdseed.
 
-However, you dont need to have a bird feeder to attract the birds. You can just use a dish or scatter the food on the ground. - Most wild birds are enticed with food and water, so it doesnt really matter where you place the food. Read this[article](https: //birdfeederhub. com/how-to-attract-birds-without-a-feeder/)on how to attract wild birds without a feeder.
+However, you dont need to have a bird feeder to attract the birds. You can just use a dish or scatter the food on the ground. - Most wild birds are enticed with food and water, so it doesnt really matter where you place the food. Read this[article](https://birdfeederhub.com/how-to-attract-birds-without-a-feeder/)on how to attract wild birds without a feeder.
 
 - Although the bird feeder makes bird feeding easier, its bound to attract other species that are not your interest.
 
@@ -35,7 +35,7 @@ Hence, you might want to be careful while choosing your bird feeder. You need to
 
 ###  2. Put Up a Water Source
 
-If you want to [attract a wide range of wild birds](https: //www. birdwatchersdigest. com/bwdsite/solve/howto/ten-birds-attracted-by-water. php) to your backyard, its important that you put up a water source. Installing a water source is a bird-friendly backyard idea that you must keep in mind at all times. - All birds need drinking and bathwater.
+If you want to [attract a wide range of wild birds](https://www.birdwatchersdigest. com/bwdsite/solve/howto/ten-birds-attracted-by-water. php) to your backyard, its important that you put up a water source. Installing a water source is a bird-friendly backyard idea that you must keep in mind at all times. - All birds need drinking and bathwater.
 
 To make it even more appealing to the birds you can include a fountain, a bubbler, or just ensure that the water is moving.
 
@@ -45,7 +45,7 @@ Some of the other bird-friendly backyard ideas that will ensure the birds have a
 
 Using local native plants is an excellent bird-friendly backyard idea that will help attract a wide variety of birds. These birds are already familiar with these plants and they recognize them as rich food sources. - Normally, landscaping for birds requires local trees, flowers, grasses, and shrubs. - Native plants also provide a wide range of bird food all year round. They cater to all birds including nesting, wintering, and migrating birds.
 
-- If you're unsure about the native plants in your specific region, you can use this[database](https: //www. audubon. org/native-plants)to determine the best bird-friendly native plants for your region. Usually, Plants for a bird-friendly garden are the locally available flowers, vegetation, grass, trees, or shrub. Avoid planting things that will keep the birds away.
+- If you're unsure about the native plants in your specific region, you can use this[database](https://www.audubon. org/native-plants)to determine the best bird-friendly native plants for your region. Usually, Plants for a bird-friendly garden are the locally available flowers, vegetation, grass, trees, or shrub. Avoid planting things that will keep the birds away.
 
 If possible, consult an experienced landscaper, visit the local nursery, or local plant conservatory
 
@@ -89,13 +89,13 @@ If you want to know how to make a bird-friendly garden, you need to understand t
 
 Another Bird-friendly backyard idea worth considering is the importance of designating the spaces where birds and people will occupy. Therefore, you need to divide the yard in a way that both birds and people have their specific spots.
 
-An area with a lot of activities, especially where your family plays [backyard games](https: //pestpolicy. com/how-to-play-tetherball/) might not be the ideal spot for attracting birds.
+An area with a lot of activities, especially where your family plays [backyard games](https://pestpolicy.com/how-to-play-tetherball/) might not be the ideal spot for attracting birds.
 
 Birds are shy and they tend to take off immediately they notice any movements or activity. Hence, its wise to set aside a specific portion of the backyard for birds only.
 
 ###  11. Keep Cats Indoors
 
-Cats are a great threat to birds. Domestic cats have killed most birds. In the United States, for example, [cats kill about 2. 4 billion birds every year](https: //abcbirds. org/program/cats-indoors/cats-and-birds/#: ~: text=Predation%20by%20domestic%20cats%20is, of%20millions%20of%20outdoor%20cats. ).
+Cats are a great threat to birds. Domestic cats have killed most birds. In the United States, for example, [cats kill about 2. 4 billion birds every year](https://abcbirds.org/program/cats-indoors/cats-and-birds/#: ~: text=Predation%20by%20domestic%20cats%20is, of%20millions%20of%20outdoor%20cats. ).
 
 Therefore, if you wish to attain a bird-friendly backyard, your cats should remain indoors. You can even talk to your neighbors and encourage them to keep their cats indoors.
 
@@ -104,3 +104,4 @@ Therefore, if you wish to attain a bird-friendly backyard, your cats should rema
 I hope you have learned some of the best Bird-friendly backyard ideas you can implement right away. All the ideas in this article will give you a bird-friendly backyard that will attract a variety of bird species.
 
 After youve implemented all these ideas, just be patient and with time the birds will come around.
+

@@ -1,4 +1,4 @@
----
+﻿---
 title: 5 Pool Landscaping Ideas on a Budget
 description: A backyard pool is often the focal point of outdoor living, offering a refreshing escape during hot summer days and a gathering spot for friends and family.
 slug: /5-pool-landscaping-ideas-on-a-budget/
@@ -22,7 +22,7 @@ The good news is that creating a beautiful, functional, and inviting pool landsc
 
 With a bit of creativity, strategic planning, and a focus on DIY-friendly solutions, you can significantly enhance your pool area without breaking the bank. The key lies in prioritizing impact, choosing cost-effective materials, and leveraging natural elements to their fullest potential.
 
-This article will explore five impactful pool [landscaping](https: //pestpolicy. com/10-winter-landscaping-ideas-to-spruce-up-your-outdoor-space/) ideas that are genuinely achievable on a budget, helping you create a serene and stylish poolside oasis that maximizes enjoyment without overspending.
+This article will explore five impactful pool [landscaping](https://pestpolicy.com/10-winter-landscaping-ideas-to-spruce-up-your-outdoor-space/) ideas that are genuinely achievable on a budget, helping you create a serene and stylish poolside oasis that maximizes enjoyment without overspending.
 
 ##  1. Illuminate Your [Pool](https://pestpolicy.com/best-paint-for-concrete-pool-deck/) Area With Strategic Lighting
 
@@ -139,3 +139,4 @@ By opting for solar lights, fast-growing shrubs, drought-tolerant plants, locall
 Remember, the goal is to create a harmonious environment that extends the enjoyment of your pool well beyond swimming. Focus on functionality, comfort, and ambiance. Prioritize areas that offer the biggest impact, and don't be afraid to add elements gradually over time. A beautiful landscape is often a journey, not a destination.
 
 With patience, resourcefulness, and a clear vision, your backyard pool can become the paradise you envision, without the financial strain.
+

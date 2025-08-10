@@ -1,4 +1,4 @@
----
+﻿---
 title: Best Spray for Yellow Jackets
 description: Yellow Jackets also known as wasps or hornets are infamous for their painful stings and aggressive behavior, which can cause not only quick discomfort but...
 slug: /best-spray-for-yellow-jackets/
@@ -15,17 +15,17 @@ tags:
 layout: post
 ---
 
-[Yellow Jackets (also known as wasps or hornets)](http: //entnemdept. ufl. edu/creatures/urban/occas/hornet_yellowjacket. htm) are infamous for their painful stings and aggressive behavior, which can cause not only quick discomfort but also allergic reactions in pets and humans alike. - So, if you're seeking a peaceful and secure outdoor environment, it's crucial to have effective measures in place to deal with these stinging insects.
+[Yellow Jackets (also known as wasps or hornets)](http://entnemdept.ufl. edu/creatures/urban/occas/hornet_yellowjacket. htm) are infamous for their painful stings and aggressive behavior, which can cause not only quick discomfort but also allergic reactions in pets and humans alike. - So, if you're seeking a peaceful and secure outdoor environment, it's crucial to have effective measures in place to deal with these stinging insects.
 
-I've provided helpful information on how you can select the best hornet and wasp [spray](https: //pestpolicy. com/best-roach-spray/) to take out these bugs with speed, precision, and courage. In A Hurry? Check Our Top Picks 1. [TERRO T3300 Spray Wasp & Hornet Killer](https: //www. amazon. com/dp/B007VN2G5G/? tag=p-policy-20) 2. [Ortho Home-Defense Wasp & Hornet Killer](https: //www. amazon. com/dp/B0784WG4FD/? tag=p-policy-20) 3.
+I've provided helpful information on how you can select the best hornet and wasp [spray](https://pestpolicy.com/best-roach-spray/) to take out these bugs with speed, precision, and courage. In A Hurry? Check Our Top Picks 1. [TERRO T3300 Spray Wasp & Hornet Killer](https://www.amazon. com/dp/B007VN2G5G/? tag=p-policy-20) 2. [Ortho Home-Defense Wasp & Hornet Killer](https://www.amazon. com/dp/B0784WG4FD/? tag=p-policy-20) 3.
 
-[Bonide Products INC 629 Brown/A - Hornet Killer](https: //www. amazon. com/dp/B0055DNEI2/? tag=p-policy-20)
+[Bonide Products INC 629 Brown/A - Hornet Killer](https://www.amazon. com/dp/B0055DNEI2/? tag=p-policy-20)
 
 ##  The Best Yellow Jacket, Wasp & Hornet Sprays
 
 ###  [1. TERRO T3300 Spray Wasp & Hornet Killer](https://www.amazon.com/dp/B007VN2G5G/?tag=p-policy-20)
 
-TERRO T3300 has a p owerful spraying distance (jets about 20 feet ) and produces some thick foam to ensure [controlling wasps](https: //pestpolicy. com/best-wasp-spray/) and the yellow jackets are seamless. - The active ingredient in this spray is a pyrethroid that is combined with a foaming (and thick) spray to ensure it envelopes the nest to trap the insects inside.
+TERRO T3300 has a p owerful spraying distance (jets about 20 feet ) and produces some thick foam to ensure [controlling wasps](https://pestpolicy.com/best-wasp-spray/) and the yellow jackets are seamless. - The active ingredient in this spray is a pyrethroid that is combined with a foaming (and thick) spray to ensure it envelopes the nest to trap the insects inside.
 
 Further, the spray foam could last for about 24 hours to exterminate any hornets that may be hiding.
 
@@ -93,10 +93,11 @@ The Good: - Fast-acting and efficient wasp killer - Ideal for exterminating bees
 
 A hotshot is a powerful yet very effective instant insect killer. It comes in 17. 5 ounces and is designed to kill hornets, wasps, and other insects like scorpions and tent caterpillars. - Residues of this spray are powerful enough to kill wasps that return to salvage their shelters. - With its notable 27 feet spray distance, Hot Shot provides an easy way of killing wasps that build nests in high places.
 
-Typically the jet of this [spray can reach most top](https: //pestpolicy. com/best-flea-spray-for-home/) points of a two-story building. You can use it both indoors and outdoors. Its long spray distance ensures that wasps dont come after you when you attack them. Additionally, Hot Shot is water-based and produces a stainless residue. So, you dont have to worry about ruining your clothes with this spray.
+Typically the jet of this [spray can reach most top](https://pestpolicy.com/best-flea-spray-for-home/) points of a two-story building. You can use it both indoors and outdoors. Its long spray distance ensures that wasps dont come after you when you attack them. Additionally, Hot Shot is water-based and produces a stainless residue. So, you dont have to worry about ruining your clothes with this spray.
 
 Also, when it gets in contact with the surface, Hot Shot slightly forms foams, which disappear within seconds. The Good: - Its an instant wasp killer. - It is water-based and hence does not stain clothes or surfaces. - Its 27 feet spray distance is ideal for reaching the farthest points in the building The Bad: - In windy conditions, the spray distance may be reduced - It may not kill us instantly as it promises
 
 ##  Conclusion
 
 For yellow jackets, consider purchasing from the brands I have reviewed. These are brands that have been tried and tested and have proven to do what they promise. - This review has got you covered whether the wasps live in high places of the structures or haven in underground nests. Finally, always remember to read and follow the health and safety precautions that come attached to these insecticides.
+

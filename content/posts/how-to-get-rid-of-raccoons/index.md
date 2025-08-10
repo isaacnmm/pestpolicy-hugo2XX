@@ -1,4 +1,4 @@
----
+﻿---
 title: How to Get Rid Of Raccoons
 description: Raccoons are clever, resourceful animals that can be a real nuisance when they invade your home or property. Known for their masked appearance and dexterous...
 slug: /how-to-get-rid-of-raccoons/
@@ -29,7 +29,7 @@ Common signs of a raccoon problem include: - Noises in the attic or walls, espec
 
 ###  1. Identify the Problem
 
-The first step in addressing a [raccoon](https: //pestpolicy. com/how-to-repel-raccoons/) infestation is identifying where they are entering your home. Look for gaps around windows, doors, chimneys, vents, or the roof. Raccoons are known to squeeze through very small spaces, so you may need to inspect these areas thoroughly.
+The first step in addressing a [raccoon](https://pestpolicy.com/how-to-repel-raccoons/) infestation is identifying where they are entering your home. Look for gaps around windows, doors, chimneys, vents, or the roof. Raccoons are known to squeeze through very small spaces, so you may need to inspect these areas thoroughly.
 
 Once you've located the entry points, it's important to check if there are any raccoon nests or young inside. If there are babies, its best to wait until they are old enough to leave before closing the entry points. Raccoons are protective of their young, and removing babies prematurely can lead to dangerous situations.
 
@@ -81,4 +81,5 @@ Once youve successfully removed raccoons from your property, its important to ta
 
 Dealing with a raccoon infestation can be challenging, but with the right approach, its possible to safely and effectively remove these animals from your home. By identifying the source of the problem, sealing entry points, and using traps and repellents, you can keep raccoons out of your home. Remember to always consider humane methods, and dont hesitate to reach out to professionals if the situation becomes overwhelming.
 
-If you're struggling with raccoons or other pests, visit [PestPolicy. com](https: //pestpolicy. com) for more expert advice and pest control solutions.
+If you're struggling with raccoons or other pests, visit [PestPolicy. com](https://pestpolicy.com) for more expert advice and pest control solutions.
+

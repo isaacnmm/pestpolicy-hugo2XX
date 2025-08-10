@@ -1,4 +1,4 @@
----
+﻿---
 title: Overclock Raspberry Pi 3
 description: In this article, Ill teach you how to overclock your Raspberry pi 3 with the goal of improving its performance. Despite that overclocking mainly happen on the...
 slug: /overclock-raspberry-pi-3/
@@ -20,9 +20,7 @@ Despite that overclocking mainly happen on the software level, the changes will 
 
 ##  Why Overclock Raspberry Pi 3?
 
-Despite Raspberry Pi 3 has an improved processor power, its still limited in some functions. For example, playing videos and games such as Minecraft require improved fluidity. You can achieve the extra fluidity by overclocking the Raspberry Pi 3. Overclocking the Raspberry Pi 3 can help you boost its processor performance from the basic 1. 2 GHz to about 1. 5 GHz. Read Also: [Laptops for FL Studio](https: //pestpolicy.
-
-com/best-laptops-for-fl-studio/)
+Despite Raspberry Pi 3 has an improved processor power, its still limited in some functions. For example, playing videos and games such as Minecraft require improved fluidity. You can achieve the extra fluidity by overclocking the Raspberry Pi 3. Overclocking the Raspberry Pi 3 can help you boost its processor performance from the basic 1. 2 GHz to about 1. 5 GHz. Read Also: [Laptops for FL Studio](https://pestpolicy.com/best-laptops-for-fl-studio/)
 
 ##  Requirements
 
@@ -38,7 +36,7 @@ Therefore, begin a terminal window in the Raspberry Pi and input the command bel
 
 With the file being open, ready for modification, now edit it so that you input the below-outlined lines: *core_freq=500 # GPU Frequency* *arm_freq=1300 # CPU Frequency* *over_voltage=4 #Electric power sent to CPU / GPU (4 = 1. 3V)* *disable_splash=1 # Disables the display of the electric alert screen* However, note that the above lines might already be available in different lines.
 
-In such a case, youll only need to ensure that the lines are not commented on (this means that the lines of code must not begin with one#) 1. Next, save all the changes through this shortcutCtrl+o and finally exit from the file using this shortcutCtrl+x. 2. Finally, use the reboot command to restart your Raspberry Pi Read Also: [Laptop for Music Production](https: //pestpolicy. com/best-laptop-for-music-production/)
+In such a case, youll only need to ensure that the lines are not commented on (this means that the lines of code must not begin with one#) 1. Next, save all the changes through this shortcutCtrl+o and finally exit from the file using this shortcutCtrl+x. 2. Finally, use the reboot command to restart your Raspberry Pi Read Also: [Laptop for Music Production](https://pestpolicy.com/best-laptop-for-music-production/)
 
 ##  Test whether the overclock is enabled
 
@@ -48,7 +46,7 @@ To check, just run this command lscpu, and itll show the processor details. Ther
 
 Like I had noted above, overclocking the Raspberry Pi 2 and easier models is much easier. Therefore, the modification will be a lot easier as youll utilize the GUIraspi-config. So, on the Raspberry Pi terminal, give the command below: sudo raspi *-config* Then, select the Overclock option. Click ok on the pop up that will be outlining the dangers of such overclocking actions. Next, select the overclock option that you like, such as the 1000MHz.
 
-Finally, click the ok option for a list of the changes youve made. Finally, hit Finish and when prompted whether to restart your Raspberry Pi, click ok. And. .thats all, you Raspberry Pi is now overclocked. Read Also: [Mac for Music Production](https: //pestpolicy. com/best-mac-for-music-production/)
+Finally, click the ok option for a list of the changes youve made. Finally, hit Finish and when prompted whether to restart your Raspberry Pi, click ok. And. .thats all, you Raspberry Pi is now overclocked. Read Also: [Mac for Music Production](https://pestpolicy.com/best-mac-for-music-production/)
 
 ##  Removing the overclocking?
 
@@ -56,8 +54,9 @@ So, to remove the Raspberry Pi overclocking, youll only require removing the cha
 
 Finally, reboot the Raspberry Pi to fully disable all the overclocking configurations.
 
-Read Also: [MacBook for Video Editing](https: //pestpolicy. com/best-macbook-for-video-editing/)
+Read Also: [MacBook for Video Editing](https://pestpolicy.com/best-macbook-for-video-editing/)
 
 ##  Conclusion
 
-Weve just outlined how to overclock your Raspberry Pi 3 its time to enjoy the power boost! However, you may find detail on [how else to configure the CPU usage](https: //www. raspberrypi. org/documentation/configuration/config-txt. md).
+Weve just outlined how to overclock your Raspberry Pi 3 its time to enjoy the power boost! However, you may find detail on [how else to configure the CPU usage](https://www.raspberrypi. org/documentation/configuration/config-txt. md).
+

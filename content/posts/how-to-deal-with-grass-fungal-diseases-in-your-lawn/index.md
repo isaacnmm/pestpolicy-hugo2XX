@@ -1,4 +1,4 @@
----
+﻿---
 title: How to Deal With Grass Fungal Diseases in Your Lawn
 description: A vibrant, healthy lawn is often the pride of a homeowner, but even the most meticulously maintained turf can fall victim to unseen threats fungal diseases.
 slug: /how-to-deal-with-grass-fungal-diseases-in-your-lawn/
@@ -116,3 +116,4 @@ For localized, precise advice on lawn fungal diseases specific to your region, i
 * **Local University Extension Office: ** Many universities have agricultural extension programs with turfgrass specialists who can provide science-backed, unbiased advice, often including diagnostic services (sending in a sample of affected grass). * **Reputable Local Garden Centers or Nurseries: ** Staff at these establishments often have regional knowledge about common lawn problems and products.
 
 * **Professional Lawn Care Companies: ** Consider getting an assessment from a certified turfgrass professional. * **Purdue University Turfgrass Science: ** (Example: many universities have excellent online resources. ) Search for "Purdue Turfgrass Science" or "Penn State Turfgrass" for comprehensive information.
+

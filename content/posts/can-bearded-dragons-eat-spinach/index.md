@@ -1,4 +1,4 @@
----
+﻿---
 title: Can Bearded Dragons Eat Spinach
 description: We've seen that bearded dragons will eat fruits like peaches, watermelon, strawberries, and even apples. But can bearded dragons eat spinach - the green leafy...
 slug: /can-bearded-dragons-eat-spinach/
@@ -15,13 +15,13 @@ tags:
 layout: post
 ---
 
-We've seen that [bearded](https: //pestpolicy. com/can-bearded-dragons-eat-apples/) dragons will eat fruits like peaches, watermelon, strawberries, and even apples. But can bearded dragons eat spinach - the green leafy vegetable? - Can spinach harm the bearded dragons or does it hold some significant nutritional value for them?
+We've seen that [bearded](https://pestpolicy.com/can-bearded-dragons-eat-apples/) dragons will eat fruits like peaches, watermelon, strawberries, and even apples. But can bearded dragons eat spinach - the green leafy vegetable? - Can spinach harm the bearded dragons or does it hold some significant nutritional value for them?
 
 **So, technically, YES - bearded dragons will feed on spinach as it's not toxic to these pets and the leafy vegetables have some level of nutritional value.
 
 ** But spinach has notable compounds that would make the vegetable unsuitable for feeding to the bearded dragons on a regular basis. So, we generally advise you to avoid spinach in the beardies' diet.
 
-Check these [Bearded [Dragon](https: //pestpolicy. com/can-bearded-dragons-eat-bananas/) Feeding Guide](https: //www. birdsandexotics. com/wp-content/uploads/Bearded-Dragon-ARAV. pdf).
+Check these [Bearded [Dragon](https://pestpolicy.com/can-bearded-dragons-eat-bananas/) Feeding Guide](https://www.birdsandexotics. com/wp-content/uploads/Bearded-Dragon-ARAV. pdf).
 
 ##  Details: Can Bearded Dragons Eat Spinach?
 
@@ -88,3 +88,4 @@ Feeding spinach to your bearded dragons makes you risk metabolic bone disease. -
 ##  Conclusion
 
 So, in summary, should I feed my bearded dragons with spinach? Well, spinach is an okay munch for your dragon as it has good calcium: phosphorous ratio. - However, spinach has high oxalates that will prevent the absorption of calcium and this may trigger metabolic bone disease in the beardie. Cheers!
+

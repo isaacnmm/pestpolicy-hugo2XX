@@ -1,4 +1,4 @@
----
+﻿---
 title: Pet Lizards That Look Like Dragons
 description: Pet lizards that look like dragons ? May be you have ever heard of dragon or seen them in movies. These eminent creatures depict great power and they are...
 slug: /pet-lizards-that-look-like-dragons/
@@ -23,11 +23,11 @@ Perhaps you may even desire to see a dragon live. Can you imagine having your ow
 
 ###  1. Bearded Dragons.
 
-The [bearded Dragon](https: //www. nationalgeographic. com/animals/reptiles/group/bearded-dragon/), scientifically called *Pogona vitticeps, * is an intermediate [lizard](https: //pestpolicy. com/are-lizards-poisonous/) that looks fiercer and resembles tiny dragon. It has mild personalities and doesnt post much threat to humanity they are friendly in nature and enjoy much interaction with people as well as love close attention.
+The [bearded Dragon](https://www.nationalgeographic. com/animals/reptiles/group/bearded-dragon/), scientifically called *Pogona vitticeps, * is an intermediate [lizard](https://pestpolicy.com/are-lizards-poisonous/) that looks fiercer and resembles tiny dragon. It has mild personalities and doesnt post much threat to humanity they are friendly in nature and enjoy much interaction with people as well as love close attention.
 
-When fully grown, Breaded dragon measures 60 cm or 2 feet long and can live for 5 to 10 years when taken care of well. Normally, Bearded Dragon is omnivore. It can feed on fruits and [vegetables](https: //pestpolicy. com/can-bearded-dragons-eat-tomatoes/) as well as dust insects (crickets) with high calcium level. When trained, some bearded dragon can feed on dead insect mixed with fresh vegetables.
+When fully grown, Breaded dragon measures 60 cm or 2 feet long and can live for 5 to 10 years when taken care of well. Normally, Bearded Dragon is omnivore. It can feed on fruits and [vegetables](https://pestpolicy.com/can-bearded-dragons-eat-tomatoes/) as well as dust insects (crickets) with high calcium level. When trained, some bearded dragon can feed on dead insect mixed with fresh vegetables.
 
-For the beginners level, this is the best [pet](https: //pestpolicy. com/healthy-pets-rodent-control/) lizard dragon that you can give priorities. .The reptile is easier to handle and can be a nice pet for young responsible children they rarely attack kids. - Actually, Bearded Dragon is a perfect example for anyone who desires to have a pet dinosaur or dragon at home.
+For the beginners level, this is the best [pet](https://pestpolicy.com/healthy-pets-rodent-control/) lizard dragon that you can give priorities. .The reptile is easier to handle and can be a nice pet for young responsible children they rarely attack kids. - Actually, Bearded Dragon is a perfect example for anyone who desires to have a pet dinosaur or dragon at home.
 
 The lizards does not feed too much (low maintenance) and is calm and responsive to the owner.
 
@@ -37,7 +37,7 @@ A threated Bearded dragon has an expanded throat with standing spikes which flat
 
 ###  2. Chinese Water Dragons.
 
-The [Chinese Water Dragon (*Physignathus cocincinus*)](http: //digimorph. org/specimens/Physignathus_cocincinus/) is a small lizard that looks like tiny Iguana and resembles a small dragon. When fully mature, the Chinese Water Dragon can reach 60 cm to 90 cm or 2 to 3 feet. They live 10 to 15 years though some can even reach 20 years of age under special care.
+The [Chinese Water Dragon (*Physignathus cocincinus*)](http://digimorph.org/specimens/Physignathus_cocincinus/) is a small lizard that looks like tiny Iguana and resembles a small dragon. When fully mature, the Chinese Water Dragon can reach 60 cm to 90 cm or 2 to 3 feet. They live 10 to 15 years though some can even reach 20 years of age under special care.
 
 This reptile is an omnivore and best suitable for intermediate level pet owners. - Chinese Water Dragon are not expensive to take care of, however, they need more maintenance than other lizards. They love climbing on rocks and branches their cage should therefore provide such options to keep them active. - These pets are common in various places and are considered more friendly and lovely due to their color, size and behavior.
 
@@ -63,7 +63,7 @@ Red-Eyed Crocodile Skinks love playing in hideouts. You should therefore provide
 
 ###  4. Plumed/Green Basilisks.
 
-[Plumed Basilisks (*Basiliscus plumifrons*)](https: //jeb. biologists. org/content/206/23/4363), commonly known as Green Basilisks or Jesus Christ lizards are beautiful green-scaled lizards that resemble dragons. They have crown-like head adornment, which gives them power and mighty appearance.
+[Plumed Basilisks (*Basiliscus plumifrons*)](https://jeb.biologists. org/content/206/23/4363), commonly known as Green Basilisks or Jesus Christ lizards are beautiful green-scaled lizards that resemble dragons. They have crown-like head adornment, which gives them power and mighty appearance.
 
 Plumed Basilisk measures between 2 to 3 feet when fully grown and lives for up to 10 years. They are bright green in color with blue specs.
 
@@ -98,3 +98,4 @@ Crested Geckos are native to New Caledonia. They inhabit Rain forests canopies a
 Dragons are mythical serpent like creatures that depict epitome of power according to various communities in the world.
 
 There are various lizards such as Chinese Water Dragons, Bearded Dragons, Red-Eyed Crocodile Skink, Plumed Basilisks, Crested Geckos, Draco Lizard, Green Iguana, Armadillo Lizard and Horned Lizard that resembles dragons. You can keep any as your home pet dragon.
+

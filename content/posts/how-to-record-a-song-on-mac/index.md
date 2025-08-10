@@ -1,4 +1,4 @@
----
+﻿---
 title: How to Record a Song on Mac
 description: Below I outline how to record a song on mac for music productionhttpspestpolicy.combest-mac-for-music-production . Recording music outside of a studio is much...
 slug: /how-to-record-a-song-on-mac/
@@ -14,7 +14,7 @@ tags:
 layout: post
 ---
 
-Below I outline how to record a song on [[mac](https: //pestpolicy. com/best-mac-for-music-production/) for music production](https: //pestpolicy. com/best-mac-for-music-production/). Recording music outside of a studio is much easier compared to years before since computers come with recording software and inbuilt microphones.
+Below I outline how to record a song on [[mac](https://pestpolicy.com/best-mac-for-music-production/) for music production](https://pestpolicy.com/best-mac-for-music-production/). Recording music outside of a studio is much easier compared to years before since computers come with recording software and inbuilt microphones.
 
 Notably, all current Apple Macs computers will have inbuilt cameras and microphones - you'll love GarageBand - their pre-installed sound recording on Macs. Therefore, it'll be possible to record music on the basic updated Macs - record your sound easily with the GarageBand software. Read Also: Best Earbuds Under $50
 
@@ -22,7 +22,7 @@ Notably, all current Apple Macs computers will have inbuilt cameras and micropho
 
 ###  Step 1: Launch**GarageBand & Start a New Recording Project**
 
-Launch the [GarageBand software](https: //mediacommons. psu. edu/2017/04/30/starting-a-new-podcast-project-in-garageband/) and start the new recording project. To do this, click on the icon at its dock (bottom of your Mac's screen) and see the GarageBand's at Mac's application menu. After running the program, it'll bring a dialogue box containing a number of options.
+Launch the [GarageBand software](https://mediacommons.psu. edu/2017/04/30/starting-a-new-podcast-project-in-garageband/) and start the new recording project. To do this, click on the icon at its dock (bottom of your Mac's screen) and see the GarageBand's at Mac's application menu. After running the program, it'll bring a dialogue box containing a number of options.
 
 So, hit the button reading "Create the New Podcast Episode, " that'll open a new template optimized to record the human voice - but will also record all other sounds. Scroll to its Podcast template - avoid double-clicking this may make you skip over selecting the microphone for live recording. For starters, GarageBand is music recording software created by Apple for sound mixing and recording.
 
@@ -48,7 +48,7 @@ It's now time to review the recording - So, hit the GarageBand's button located 
 
 If required, you can re-record the track or sound. So, if the sound or tack isn't the quality you'll love - you can take back the track to the start and hit the "Record" button. Therefore, after hitting the recording button, it'll record the audio that'll overwrite your old audio - it must be clear that you'll lose the old audio. Also, remember to review the old audio after you're done recording the audio or track.
 
-Read Also: [Best Mics for Recording Acoustic Guitar](https: //pestpolicy. com/best-mics-for-recording-acoustic-guitar/)
+Read Also: [Best Mics for Recording Acoustic Guitar](https://pestpolicy.com/best-mics-for-recording-acoustic-guitar/)
 
 ###  Step 7: Record the Sound
 
@@ -56,6 +56,7 @@ Now, its time to save the audio file recorded using your GarageBand software on 
 
 ###  Step 8: Record the Sound
 
-Finally, export the audio file to the sound file by hitting the "Export Song to the Disk" button after you've clicked the "Share" menu. Remember, saving the audio file using its "Save" feature won't allow the audio to play and thus you must export it to a sound file. Read Also: [Best Camera for Beginner Filmmaker](https: //pestpolicy. com/best-camera-for-beginner-filmmaker/).
+Finally, export the audio file to the sound file by hitting the "Export Song to the Disk" button after you've clicked the "Share" menu. Remember, saving the audio file using its "Save" feature won't allow the audio to play and thus you must export it to a sound file. Read Also: [Best Camera for Beginner Filmmaker](https://pestpolicy.com/best-camera-for-beginner-filmmaker/).
 
 Finally, check the dialog box which pops and select the desired format for your file in marked "Compress Using" and export before you give the file an appropriate name and hit "Save. "
+

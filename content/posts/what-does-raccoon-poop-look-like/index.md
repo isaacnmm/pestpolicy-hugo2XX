@@ -1,4 +1,4 @@
----
+﻿---
 title: What Does Raccoon Poop Look Like
 description: Raccoons are nocturnal, thus it's difficult to spot them easily during the day. But, raccoon poops and urine smell are key indicators in case of invasion. So,...
 slug: /what-does-raccoon-poop-look-like/
@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 
-Raccoons are nocturnal, thus it's difficult to spot them easily during the day. But, [raccoon poops and urine](https: //pestpolicy. com/parasites/baylisascaris/resources/raccoonlatrines. pdf) smell are key indicators in case of invasion. **So, what does raccoon [poop](https: //pestpolicy. com/what-does-lizard-poop-look-like/) look like?
+Raccoons are nocturnal, thus it's difficult to spot them easily during the day. But, [raccoon poops and urine](https://pestpolicy.com/parasites/baylisascaris/resources/raccoonlatrines. pdf) smell are key indicators in case of invasion. **So, what does raccoon [poop](https://pestpolicy.com/what-does-lizard-poop-look-like/) look like?
 
 Well, raccoon poop is brown in color (dark to light brown) and appears like an elongated pinky finger on the ground.
 
@@ -27,7 +27,7 @@ Well, raccoon poop is brown in color (dark to light brown) and appears like an e
 
 Raccoon poop is usually brown in color (this may vary from light to dark brown, depending on the climatic conditions). - In addition, the poop color is slightly altered by the type of food which the raccoon had eaten previously. At times, you will notice a black spot on the raccoon droppings or darker brown outer part than the interior. Nevertheless, the poop should never be black or yellow whatsoever.
 
-Related: [How to Get Rid of Raccoons](https: //pestpolicy. com/how-to-get-rid-of-raccoons/)
+Related: [How to Get Rid of Raccoons](https://pestpolicy.com/how-to-get-rid-of-raccoons/)
 
 ###  2. Smell
 
@@ -53,7 +53,7 @@ Unlike other wild animals like squirrels, raccoon poop is piled/clustered in a s
 
 Often, you will find raccoon poop hidden in tall grass, shrubs, untrimmed bushes, lawns, tall flower beds, garbage bins, underground holes in open fields, riversides, or even ponds. - The choice of "raccoon latrine" depends on the climatic condition of the area and the availability of food sources. NB: When identifying raccoon poop, always have personal protective gears on for your safety. Related: [Smells that Raccoons Hate?
 
-](https: //pestpolicy. com/what-smells-do-raccoons-hate/)
+](https://pestpolicy.com/what-smells-do-raccoons-hate/)
 
 ##  Which Risks are Caused by Raccoon Poop?
 
@@ -100,3 +100,4 @@ The following are ways of prevention raccoons and moles from visiting your place
 ##  Conclusion
 
 In summary, what does raccoon poop look like, the direct answer is its round and elongated solid lump? - The general appearance of raccoon poop resembles a pinky finger that measures about 3 to 6 inches on the ground. - The outward color is brown (which ranges from light to dark depending on the weather). Further, raccoon droppings may either be piled in a cluster form or slightly scattered - a few millimeters apart.
+

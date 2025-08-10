@@ -1,4 +1,4 @@
----
+﻿---
 title: How to Remove Bed Bugs from Carpets
 description: Dealing with bed bugs in carpets can be a frustrating and challenging task, as these pests hide deep within fibers and along edges.
 slug: /how-to-remove-bed-bugs-from-carpets/
@@ -23,9 +23,9 @@ This guide explores five proven ways to eradicate bed bugs from your carpet, ens
 
 ###  **1. Diatomaceous Earth**
 
-Diatomaceous Earth is a safe, affordable and easy to use powder that can be conveniently used to [get rid of bed bug in carpets](https: //pestpolicy. com/does-diatomaceous-earth-kill-[bed-bugs](https: //pestpolicy. com/bed-bug-bites-vs-mosquito-bites/)/). Its a natural ingredient mined from decomposed organisms known as diatoms.
+Diatomaceous Earth is a safe, affordable and easy to use powder that can be conveniently used to [get rid of bed bug in carpets](https://pestpolicy.com/does-diatomaceous-earth-kill-[bed-bugs](https://pestpolicy.com/bed-bug-bites-vs-mosquito-bites/)/). Its a natural ingredient mined from decomposed organisms known as diatoms.
 
-- The microscopic diatoms in the diatomaceous earth are sharp fragments which can easily penetrate into the body of insects including [bed](https: //pestpolicy. com/bed-bug-bites-vs-other-bites/) bugs. Once in contact with the bed bugs body, DE powder gets through the exoskeleton and dehydrates the insect of its internal fluids causing it to die.
+- The microscopic diatoms in the diatomaceous earth are sharp fragments which can easily penetrate into the body of insects including [bed](https://pestpolicy.com/bed-bug-bites-vs-other-bites/) bugs. Once in contact with the bed bugs body, DE powder gets through the exoskeleton and dehydrates the insect of its internal fluids causing it to die.
 
 - To use diatomaceous earth, apply a thin layer on the top side of the affected carpet and along the space between the carpet and baseboard.
 
@@ -49,9 +49,7 @@ Heat treatment involves raising the temperature inside the house to levels which
 
 ###  **4. Steam Treatment**
 
-Steam treatment can effectively kill bed bugs and their eggs when used with a carpet shampoo and a compound that kills bed bugs. The compound of choice should however not react with the cleaning agent or stain your carpet. - You need a heavy-duty steamer for this task. This treatment utilizes at triple action to kill bed bugs, larvae and eggs. These[bed bug Steamers](https: //pestpolicy.
-
-com/best-bed-bug-steamer/)will be a great addition to your DIY store.
+Steam treatment can effectively kill bed bugs and their eggs when used with a carpet shampoo and a compound that kills bed bugs. The compound of choice should however not react with the cleaning agent or stain your carpet. - You need a heavy-duty steamer for this task. This treatment utilizes at triple action to kill bed bugs, larvae and eggs. These[bed bug Steamers](https://pestpolicy.com/best-bed-bug-steamer/)will be a great addition to your DIY store.
 
 Apart from the steam and the compound, bed bugs will be crushed to death by the physical movement of the steamer brush.
 
@@ -84,3 +82,4 @@ The canister should then be cleaned with hot water and soap to kill any remainin
 For better results, regular vacuuming is inevitable. Usually bed bugs will cluster in their usual favourite locations. These are the areas to concentrate on during subsequent vacuuming. Plus you can keep checking your carpet regularly for any signs of bed bugs.
 
 Experts recommend using vacuum cleaning in conjunction with heat treatment, freezing or steaming to eradicate bed bugs. This improves the overall effectiveness of your vacuuming efforts. To minimise infestation, keep your house free from cluttered stuff. Bed bugs take advantage of this mess to hide and breed.
+

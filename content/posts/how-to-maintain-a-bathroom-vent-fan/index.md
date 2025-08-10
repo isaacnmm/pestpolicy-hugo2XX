@@ -1,4 +1,4 @@
----
+﻿---
 title: How to Maintain a Bathroom Vent Fan
 description: Your bathroom vent fan, often an unassuming fixture in the ceiling, plays a vital role in the health and longevity of your bathroom.
 slug: /how-to-maintain-a-bathroom-vent-fan/
@@ -36,7 +36,7 @@ While much of bathroom fan maintenance is DIY-friendly, certain situations warra
 * **Fan Replacement:** If your fan is old, severely damaged, or significantly undersized for your bathroom, a professional HVAC technician can recommend and install a new, more efficient unit.
 ---
 
-Your [bathroom](https: //pestpolicy. com/bathroom-vent-fan-cfm-calculator/) [vent](https: //pestpolicy. com/how-to-properly-vent-a-bathroom-exhaust-fan-in-an-attic/) fan, often an unassuming fixture in the ceiling, plays a vital role in the health and longevity of your bathroom.
+Your [bathroom](https://pestpolicy.com/bathroom-vent-fan-cfm-calculator/) [vent](https://pestpolicy.com/how-to-properly-vent-a-bathroom-exhaust-fan-in-an-attic/) fan, often an unassuming fixture in the ceiling, plays a vital role in the health and longevity of your bathroom.
 
 Its primary job is to extract excess moisture, unpleasant odors, and airborne particles, preventing the conditions that lead to mold, mildew, peeling paint, and structural damage.
 
@@ -103,3 +103,4 @@ While less frequent, ensuring the ductwork is clear is important.
 ##  So, Is Maintaining a Bathroom Vent Fan Necessary?
 
 Absolutely. Maintaining your bathroom vent fan is not just a suggestion; it's a fundamental aspect of home health and preventative maintenance. By regularly cleaning and inspecting your fan, you actively protect your home from mold, structural damage, and poor air quality. This small investment of time and effort ensures your bathroom remains a comfortable, hygienic, and long-lasting space.
+

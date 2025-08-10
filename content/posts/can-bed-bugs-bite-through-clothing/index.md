@@ -1,4 +1,4 @@
----
+﻿---
 title: Can Bed Bugs Bite Through Clothing
 description: >-
   Wear long-sleeved clothes, and you'll be safe from bed bug bites (Cimex lectularius Linnaeus). Maybe, maybe not.
@@ -36,7 +36,7 @@ So, any bed bugs bites you find after a night's sleep, despite having worn your 
 
 Luckily, most leggings and socks are too tight for bed bugs to bite underneath them - and the bugs won't definitely bite through them. Most leggings have nylon and elastic materials that'll tightly hug your legs and hence prevent bed bug bites. Therefore, any bed bugs bite you'll notice on your legs will only occur at any bare skin that the bugs will find.
 
-So, when you're wearing leggings for protection, also ensure you control bed bugs in other ways like sprays or steaming [lures](https: //onlinelibrary. wiley. com/doi/abs/10. 1111/j. 1365-2915. 2008. 00790. x).
+So, when you're wearing leggings for protection, also ensure you control bed bugs in other ways like sprays or steaming [lures](https://onlinelibrary.wiley. com/doi/abs/10. 1111/j. 1365-2915. 2008. 00790. x).
 
 ##  Can Bed Bugs Bite Through Tights?
 
@@ -70,7 +70,7 @@ First, bed bugs cant jump or fly. Thus, its unlikely that the block suckers will
 
 So, dont leave clothes on the bed, old or send-hand furniture, or floor of a room thats bed bug-infested.
 
-So, besides hiding in second-hand furniture or mattresses, bed bugs will also hide in your bed and bedding. Notably, steam, dryer, and hot water will help kill the bed bugs. Dealing with [bed bugs is a menace](https: //njaes. rutgers. edu/bed-bug/videos. php) in our houses. They like to hide under clothes and mattresses but can bed bugs bite through clothes. - **The truth is bedbugs cannot bite through clothes.
+So, besides hiding in second-hand furniture or mattresses, bed bugs will also hide in your bed and bedding. Notably, steam, dryer, and hot water will help kill the bed bugs. Dealing with [bed bugs is a menace](https://njaes.rutgers. edu/bed-bug/videos. php) in our houses. They like to hide under clothes and mattresses but can bed bugs bite through clothes. - **The truth is bedbugs cannot bite through clothes.
 
 They have to find their way through the skin before they can bite.
 
@@ -152,9 +152,9 @@ However, just washing the clothes with just water wont assist get rid of the bed
 
 ###  1. Sort Your Laundry
 
-First, sort the clothes to check which ones have [signs of bed bug infestation](https: //pestpolicy. com/can-you-see-bed-bugs/). You'll thus place the different piles in different plastic bags. Keenly follow the highest possible washing and drying temperatures. Further, keep the wet-clean from the dry-clean clothes. However, some dry-clean fabrics can also be put in the dryer.
+First, sort the clothes to check which ones have [signs of bed bug infestation](https://pestpolicy.com/can-you-see-bed-bugs/). You'll thus place the different piles in different plastic bags. Keenly follow the highest possible washing and drying temperatures. Further, keep the wet-clean from the dry-clean clothes. However, some dry-clean fabrics can also be put in the dryer.
 
-But ensure that you seal your plastic bags before you start moving the laundry - so the [bugs won't spread](https: //pestpolicy. com/how-do-bed-bugs-spread/) to the Laundromat or other house locations.
+But ensure that you seal your plastic bags before you start moving the laundry - so the [bugs won't spread](https://pestpolicy.com/how-do-bed-bugs-spread/) to the Laundromat or other house locations.
 
 ###  2. Wash and Dry your Laundry
 
@@ -166,4 +166,5 @@ Next, you'll now need to fold your cleaned and dried clothes - only place the cl
 
 ###  3. Bed Bugs Love Dark and Warm Corners
 
-[Bed bugs prefer to hide](https: //pestpolicy. com/bed-bug-bites-vs-mosquito-bites/) in dark and warm corners for hours after having a full blood-meal from human beings. Thus, these bloodsuckers wont really live in clothes that humans are wearing. However, they can hide in clothes that are dropped in corners since theyll not be disturbed.
+[Bed bugs prefer to hide](https://pestpolicy.com/bed-bug-bites-vs-mosquito-bites/) in dark and warm corners for hours after having a full blood-meal from human beings. Thus, these bloodsuckers wont really live in clothes that humans are wearing. However, they can hide in clothes that are dropped in corners since theyll not be disturbed.
+

@@ -1,4 +1,4 @@
----
+﻿---
 title: Rhododendron Species Botanical Garden
 description: The Rhododendron Species Botanical Garden, located in Federal Way, Washington, is a renowned botanical garden dedicated to the conservation, cultivation, and...
 slug: /rhododendron-species-botanical-garden/
@@ -25,7 +25,7 @@ Rhododendrons are a diverse group of flowering plants known for their vibrant bl
 
 Rhododendrons thrive in the garden's carefully curated environments, offering visitors a stunning display of colors and forms throughout the year.
 
-Related: [Town Square Park-Federal Way](https: //pestpolicy. com/town-square-park-federal-way/)
+Related: [Town Square Park-Federal Way](https://pestpolicy.com/town-square-park-federal-way/)
 
 ###  About the Garden
 
@@ -48,3 +48,4 @@ The Rhododendron Species Botanical Garden was established in 1964 by the America
 Today, the garden continues to honor its mission by maintaining an extensive living collection, supporting research and conservation projects, and providing a sanctuary for visitors to enjoy the beauty and diversity of rhododendrons.
 
 The history of the Rhododendron Species Botanical Garden is a testament to the passion and commitment of those who have worked tirelessly to ensure the preservation and appreciation of these remarkable plants.
+

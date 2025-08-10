@@ -1,4 +1,4 @@
----
+﻿---
 title: Standing Water in Yard
 description: Standing water in your yard, often manifesting as persistent puddles or squishy, waterlogged patches, is more than just an unsightly nuisance.
 slug: /standing-water-in-yard/
@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 
-Standing [water](https: //pestpolicy. com/best-water-tables-for-1-year-old/) in your yard, often manifesting as persistent puddles or squishy, waterlogged patches, is more than just an unsightly nuisance. It can wreak havoc on your landscape, drowning desirable plants and turfgrass, creating breeding grounds for mosquitoes, and potentially leading to foundation issues for your home.
+Standing [water](https://pestpolicy.com/best-water-tables-for-1-year-old/) in your yard, often manifesting as persistent puddles or squishy, waterlogged patches, is more than just an unsightly nuisance. It can wreak havoc on your landscape, drowning desirable plants and turfgrass, creating breeding grounds for mosquitoes, and potentially leading to foundation issues for your home.
 
 A perpetually wet yard can also make outdoor activities unpleasant, turning what should be a usable space into a swampy hazard.
 
@@ -120,3 +120,4 @@ Standing water in your yard is a clear signal that something is amiss with your 
 The solutions available are diverse, ranging from simple fixes like extending downspouts and aerating your lawn, to more involved projects like installing French drains, creating rain gardens, or regrading your yard. For minor issues, a DIY approach might suffice, but for persistent or severe problems, consulting with a landscape architect or drainage professional can save you time, money, and frustration in the long run.
 
 Ultimately, addressing standing water is an investment in the health, beauty, and functionality of your outdoor space, ensuring your yard remains a place of enjoyment rather than a soggy challenge. A well-drained yard is a healthier yard, protecting your plants, your home, and your peace of mind.
+

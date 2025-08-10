@@ -1,4 +1,4 @@
----
+﻿---
 title: How to Sharpen Pruning Tools
 description: Sharp pruning tools are the unsung heroes of a healthy and well-maintained garden. While it might seem like a minor detail, the sharpness of your pruners,...
 slug: /how-to-sharpen-pruning-tools/
@@ -103,3 +103,4 @@ A few quick passes with a fine diamond sharpener after every few hours of use, o
 Sharpening pruning tools is a simple skill that yields significant benefits for your garden and your gardening experience. By ensuring your pruners, loppers, and shears are always razor-sharp, you promote healthier plant growth, prevent disease entry, and reduce strain on your hands and wrists.
 
 It's a small investment of time that pays dividends in the vitality of your plants and the longevity of your tools, making every cut clean, precise, and a pleasure to perform.
+

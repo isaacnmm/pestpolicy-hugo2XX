@@ -1,4 +1,4 @@
----
+﻿---
 title: Best Poison for Mouse
 description: When dealing with a mouse infestation, choosing the right poison can make a significant difference. Below are some of the best poisons for effectively...
 slug: /best-poison-for-mouse/
@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 
-When dealing with a mouse infestation, choosing the right [poison](https: //pestpolicy. com/best-gopher-poison/) can make a significant difference. Below are some of the best poisons for effectively eliminating [mice](https: //pestpolicy. com/how-much-is-an-exterminator-for-mice/), ensuring your home stays rodent-free.
+When dealing with a mouse infestation, choosing the right [poison](https://pestpolicy.com/best-gopher-poison/) can make a significant difference. Below are some of the best poisons for effectively eliminating [mice](https://pestpolicy.com/how-much-is-an-exterminator-for-mice/), ensuring your home stays rodent-free.
 
 ###  [1. Tomcat Mouse Killer](https://www.amazon.com/dp/B00J4LFSN4?tag=p-policy-20)
 
@@ -34,3 +34,4 @@ For smaller spaces, the **D-Con Corner Fit Poison** is a discreet and effective 
 The **JT Eaton 709-PN Bait Block** is a professional-grade poison that comes in block form, making it easy to place in strategic areas. Its highly effective for persistent infestations.
 
 Each of these mouse poisons offers unique advantages, from tamper-proof designs to fast-acting formulas. By selecting the right product, you can effectively control and eliminate your mouse problem with ease.
+

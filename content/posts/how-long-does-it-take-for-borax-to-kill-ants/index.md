@@ -1,4 +1,4 @@
----
+﻿---
 title: How Long Does It Take for Borax to Kill Ants
 description: Usually, the first line of defense against ants is some sort of poison that will kill them and keep them from coming back. But you can also make an ant trap...
 slug: /how-long-does-it-take-for-borax-to-kill-ants/
@@ -17,7 +17,7 @@ layout: post
 
 Usually, the first line of defense against ants is some sort of poison that will kill them and keep them from coming back.
 
-But you can also make an ant trap with borax, or you could use some bait like sugar and honey. So, how long does it take for [borax to work](https: //www. wikihow. com/Kill-Ants-Using-Borax)?
+But you can also make an ant trap with borax, or you could use some bait like sugar and honey. So, how long does it take for [borax to work](https://www.wikihow. com/Kill-Ants-Using-Borax)?
 
 Some people prefer Borax Flea Killer for its natural properties. How long does it take for borax to kill ants? - **Simple answer, 24-48 hours. The ****ingredient in the borax ****bait damages the ants' digestive system and it'll kill the ant in ****24-48 hours****. ** - **Borax is an effective ant poison is because it takes a long time for the chemicals in the borax to kill ants.
 
@@ -35,7 +35,7 @@ Related: Bed Bugs vs. Ants
 
 People often wonder if sprinkling borax on their lawn will get rid of ants. Sprinkle the borax powder around your yard, near ant mounds and other places where ants are. - Sprinkle borax or mix honey in the mixture with borax and then sprinkle in places where ants will find it. - Sprinkling borax may be a quick fix for ants but when sprinkled on the ground, it can also kill grass and plants.
 
-*Entry points for ants include; * - Utility Lines - Flooring Holes - Doors and windows - Exhaust Fans and Dryer Vents - Foundation Gaps - Wall cracks Related: [is borax safe for dogs](https: //pestpolicy. com/is-borax-safe-for-dogs/) There are a few signs that can help you determine whether or not ants have invaded your home. 1. Look for ant mounds: Ants will make small, dome-shaped hills out of the dirt in order to live.
+*Entry points for ants include; * - Utility Lines - Flooring Holes - Doors and windows - Exhaust Fans and Dryer Vents - Foundation Gaps - Wall cracks Related: [is borax safe for dogs](https://pestpolicy.com/is-borax-safe-for-dogs/) There are a few signs that can help you determine whether or not ants have invaded your home. 1. Look for ant mounds: Ants will make small, dome-shaped hills out of the dirt in order to live.
 
 As time goes on these mounds become more frequent and larger; they may also be close together as the colony grows over time. 2. Look for ant trails: If you see long lines of tiny insects wandering aimlessly around your house then that's a big sign an infestation is underway - and something needs to be done!
 
@@ -49,7 +49,7 @@ Ants also don't seem to recognize many scents as dangerous so using peppermint o
 
 When you're done inspecting and bait-setting up, it's time to start the borax treatment plan by sprinkling some on every surface that ants are known to crawl: Your kitchen countertops and floors, windowsills, window ledges (make sure not do this if your home is in a high rise because they'll just walk right off), under furniture legs where pets like to sleep or eat; anywhere there might be crumbs for them to feast on.
 
-Related: [Remove Ants from Bathroom](https: //pestpolicy. com/how-to-get-rid-of-ants-in-the-bathroom/)
+Related: [Remove Ants from Bathroom](https://pestpolicy.com/how-to-get-rid-of-ants-in-the-bathroom/)
 
 ##  How to Do Ant Baiting
 
@@ -85,7 +85,7 @@ Ants soon starve from lack of energy and die as their digestive tract shuts down
 
 The borax in the bait will eventually kill the worker ants. However, it works slowly enough to allow for a few trips by a foraging ant before the effect is lethal. - Within the course of a few days, you will likely start to see lower numbers of ants in your home or around the bait. When using an ant bait station, it is important not to disturb the bait until the ants are fully fed.
 
-Related: [Flying Ants vs. Termites](https: //pestpolicy. com/flying-ants-vs-termites/)
+Related: [Flying Ants vs. Termites](https://pestpolicy.com/flying-ants-vs-termites/)
 
 ##  Conclusion
 
@@ -94,3 +94,4 @@ On how long does it take for borax to kill ants: BORAX WORKS! Will Borax Kill Th
 Yes! It Works Slow Enough That Allows For Trips By A Foraging Ant Before Effect Is Lethal.
 
 Cheers!
+

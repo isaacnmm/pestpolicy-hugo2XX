@@ -1,4 +1,4 @@
----
+﻿---
 title: Are Plug in Mosquito Repellents Safe
 description: Mosquito repellent plugins are the most reliable way of keeping mosquitoes at bay. But are they safe for us? I have done a comprehensive research on this...
 slug: /are-plug-in-mosquito-repellents-safe/
@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 
-Mosquito repellent plugins [are](https: //pestpolicy. com/are-blue-tailed-lizards-poisonous/) the most reliable way of keeping mosquitoes at bay.
+Mosquito repellent plugins [are](https://pestpolicy.com/are-blue-tailed-lizards-poisonous/) the most reliable way of keeping mosquitoes at bay.
 
 But are they safe for us? I have done a comprehensive research on this topic and have some important facts to share with you! **Are mosquito repellent plugins safe? When wrongly applied, mosquito repellent plugins can result to the following; they could cause respiratory disorders to babies, allergic reactions, and can cause a condition called hypospadias for babies and pregnant women. ** Let's get started!
 
@@ -164,3 +164,4 @@ Always ensure your downspouts are draining properly without leaving clogs in the
 Are mosquito repellant plugins safe to use? Sure, they're! But we have also seen the impact they can cause when you fail to follow instructions.
 
 I would advise you consider mosquito plugin repellents when shopping for such products, they are surely worth the shot!
+

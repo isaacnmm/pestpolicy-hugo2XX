@@ -1,4 +1,4 @@
----
+﻿---
 title: What Do Baby Lizards Eat
 description: What do baby lizards eat?What do lizards feed their young ones also know as hatchlings ? How do they do it and how long before they can go get their food?...
 slug: /what-do-baby-lizards-eat/
@@ -15,9 +15,9 @@ tags:
 layout: post
 ---
 
-What do [baby](https: //pestpolicy. com/can-i-use-baby-shampoo-on-my-cat/) lizards eat? What do lizards feed their young ones (also know as [hatchlings](https: //nhm. org/stories/tis-season-baby-lizards) )? How do they do it and how long before they can go get their food?
+What do [baby](https://pestpolicy.com/can-i-use-baby-shampoo-on-my-cat/) lizards eat? What do lizards feed their young ones (also know as [hatchlings](https://nhm.org/stories/tis-season-baby-lizards) )? How do they do it and how long before they can go get their food?
 
-Well, this article piece is all about lizard baby food -just like noted that [garden lizard eats caterpillars, insects, small crickets, and some greens and fruits](https: //pestpolicy. com/what-does-a-garden-lizard-eat/).
+Well, this article piece is all about lizard baby food -just like noted that [garden lizard eats caterpillars, insects, small crickets, and some greens and fruits](https://pestpolicy.com/what-does-a-garden-lizard-eat/).
 
 *But what do baby lizards eat? * *Baby lizards eat what their parents eat. Yes, they eat insects, roaches, plants, or even both. The only difference is the food ratio. Baby lizards only eat baby portions. For example, if they are eating an insect, the insect should be smaller than them. * *Baby lizards eat by themselves. Nobody mashes up the prey for them. Its like a natural instinct in their DNA. They get the prey or plant and eat it up.
 
@@ -33,7 +33,7 @@ The older they become the greater and high quality the prey is.
 
 When eating an insect, ensure that the baby lizard is not eating one that is bigger than its head. You should also ensure that once they are done eating, the extra food or prey is removed from the pet enclosure. This is because they are babies and still vulnerable; they can be attacked by the prey. At night you might notice that their bodies are buried inside the soil. Dont be alarmed, this is how they protect themselves.
 
-However, we also noted that [leopard geckos are crepuscular](https: //pestpolicy. com/are-leopard-geckos-nocturnal/).
+However, we also noted that [leopard geckos are crepuscular](https://pestpolicy.com/are-leopard-geckos-nocturnal/).
 
 ##  **How And What Do I Feed My Baby Lizard**
 
@@ -107,4 +107,5 @@ Do note that lizards are cold-blooded and you might not quickly notice changes i
 
 ##  Sources:
 
-1. [Lizards from Urban Areas Are More Asymmetric: Using - NCBI](https: //www. ncbi. nlm. nih. gov/pmc/articles/PMC3873971/) 2. [Facts About Lizards Live Science](https: //www. livescience. com/56017-lizard-facts. html)
+1. [Lizards from Urban Areas Are More Asymmetric: Using - NCBI](https://www.ncbi. nlm. nih. gov/pmc/articles/PMC3873971/) 2. [Facts About Lizards Live Science](https://www.livescience. com/56017-lizard-facts. html)
+

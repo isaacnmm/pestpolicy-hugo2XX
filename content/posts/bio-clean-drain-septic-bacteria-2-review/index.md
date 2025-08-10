@@ -1,4 +1,4 @@
----
+﻿---
 title: Bio Clean Drain Septic Bacteria 2 Review
 description: Bio-clean Drain Septic Bacteria 2 Review? Dont we all hate the common challenge of the slow-moving drain in the kitchen or sink? In this post, Ive reviewed...
 slug: /bio-clean-drain-septic-bacteria-2-review/
@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 
-Bio-clean Drain Septic Bacteria 2 Review? Dont we all hate the common challenge of the slow-moving drain in the kitchen or sink? In this post, Ive reviewed the Bio-clean Drain Septic Bacteria, which is one of the [drain cleaners I recommend for your plumbing systems](https: //pestpolicy. com/best-drain-cleaner//).
+Bio-clean Drain Septic Bacteria 2 Review? Dont we all hate the common challenge of the slow-moving drain in the kitchen or sink? In this post, Ive reviewed the Bio-clean Drain Septic Bacteria, which is one of the [drain cleaners I recommend for your plumbing systems](https://pestpolicy.com/best-drain-cleaner//).
 
 I tested Bio-clean using Friskies cat food that contains 10 % fats, 30 % protein, and the others are mineral substances & carbohydrates.
 
@@ -27,7 +27,7 @@ Therefore, compared to other drain cleaners that are either highly basic or high
 
 ###  Safe and Ease of application
 
-Youll require a single teaspoonful of the drain cleaner and dump it into the clogged/) [drain](https: //pestpolicy. com/best-drain-snakes/) or piping system. However, mix the [drain cleaner powder with some hot water](https: //pestpolicy. com/how-to-unclog-a-bathtub-drain-with-standing-water/) to activate the bacteria and enzymes' working. Finally, pour your great water drain cleaner mixture directly into the clogged drain.
+Youll require a single teaspoonful of the drain cleaner and dump it into the clogged/) [drain](https://pestpolicy.com/best-drain-snakes/) or piping system. However, mix the [drain cleaner powder with some hot water](https://pestpolicy.com/how-to-unclog-a-bathtub-drain-with-standing-water/) to activate the bacteria and enzymes' working. Finally, pour your great water drain cleaner mixture directly into the clogged drain.
 
 ###  The slower rate of action: 4-6 hours (Overnight is better)
 
@@ -49,8 +49,9 @@ Further, the enzymes do not rely on gravity to act and will thus ill love throug
 
 ##  **Bio-Clean safe for pipes**?
 
-I would say that Bio-clean, as they are just natural bacteria and enzymes, wont generate dangerous gases in their action. Bio-clean digests organic materials without heating or generation poisonous fumes. The [drain cleaner](https: //pestpolicy. com/is-drain-cleaner-an-acid-or-base/) wont harm your pipes as it has not contained caustic, acidic, or alkaline formula.
+I would say that Bio-clean, as they are just natural bacteria and enzymes, wont generate dangerous gases in their action. Bio-clean digests organic materials without heating or generation poisonous fumes. The [drain cleaner](https://pestpolicy.com/is-drain-cleaner-an-acid-or-base/) wont harm your pipes as it has not contained caustic, acidic, or alkaline formula.
 
 Further, it wont eat away any live tissue as hence its safe for yourself, your kids, or pets in addition to being eco-friendly.
 
 Further, the products of its action are only mineral ash, water, and carbon dioxide. The mineral ash must not make you worry as it's safe and even helps aid plant development.
+

@@ -1,4 +1,4 @@
----
+﻿---
 title: Does Alcohol Remove Paint
 description: Perhaps you have some alcohol you're wondering does alcohol removes paint from various surfaces. Can it cause stains in the application process or even...
 slug: /does-alcohol-remove-paint/
@@ -60,7 +60,7 @@ Cover the surface, if possible, with a polythene bag (to accelerate etching) and
 
 Remember to wear gloves when rinsing to protect your hands from the etching effects of the rubbing alcohol.
 
-NB: You can repeat this procedure for other surfaces. However, you need to assess the density of paint coating to improve alcohol concentration during application. > Read Also: > [Cleaning a Deck Before Staining](https: //pestpolicy. com/how-to-clean-a-deck-before-staining/)
+NB: You can repeat this procedure for other surfaces. However, you need to assess the density of paint coating to improve alcohol concentration during application. > Read Also: > [Cleaning a Deck Before Staining](https://pestpolicy.com/how-to-clean-a-deck-before-staining/)
 
 ##  Which other liquids can remove acrylic paint?
 
@@ -68,7 +68,7 @@ Apart from using rubbing alcohol in paint removal, other liquids are available i
 
 ###  a. Acetone
 
-This is manufactured using a potent etching agent that penetrates the paint coat faster. There is less scraping or multiple applications to achieve the best final finish. It can be used with a nozzle application option. Acetone is preferred for non-porous surfaces such as metal and glass. It is not safe for synthetic and plastic material. See Also: [Does Goo Gone Remove Paint](https: //pestpolicy. com/does-goo-gone-remove-paint/)?
+This is manufactured using a potent etching agent that penetrates the paint coat faster. There is less scraping or multiple applications to achieve the best final finish. It can be used with a nozzle application option. Acetone is preferred for non-porous surfaces such as metal and glass. It is not safe for synthetic and plastic material. See Also: [Does Goo Gone Remove Paint](https://pestpolicy.com/does-goo-gone-remove-paint/)?
 
 Notably, Acetone should be handle with the right respiratory protection during application since it produces intense fumes the room should be well ventilated.
 
@@ -90,7 +90,7 @@ Apart from removing paint on surfaces, rubbing alcohol/isopropyl alcohol can als
 
 ###  1. Restoration of car headlights
 
-Isopropyl is preferably used. During this process, sanding is carried out before applying the alcohol. The quenching process leaves a clear glass. See Also: [Painting Vs Staining Deck 7 Key Differences](https: //pestpolicy. com/painting-vs-staining-deck/).
+Isopropyl is preferably used. During this process, sanding is carried out before applying the alcohol. The quenching process leaves a clear glass. See Also: [Painting Vs Staining Deck 7 Key Differences](https://pestpolicy.com/painting-vs-staining-deck/).
 
 ###  2. Removal of polish residue
 
@@ -109,3 +109,4 @@ When applying another paint coat on a given surface, you need to eliminate seala
 In summary, rubbing alcohol can remove paint coating without damaging the surface if the right concentration is applied correctly. Indeed, alcohol works best for latex and water-based paints. Moreover, rubbing alcohol can also be used to remove wax and sealant, clean car headlights, remove polish residue, and clean sticker adhesives on the shiny surfaces.
 
 Notably, you need to have respiratory protective gear during application to shield yourself from irritation that may occur.
+

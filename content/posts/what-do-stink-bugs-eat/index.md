@@ -1,4 +1,4 @@
----
+﻿---
 title: What Do Stink Bugs Eat
 description: Stink bugs are pests commonly found in the garden but on some rare occasions, they make entry into our homes. But do ever wonder what do stink bugs to...
 slug: /what-do-stink-bugs-eat/
@@ -15,11 +15,11 @@ tags:
 layout: post
 ---
 
-[Stink](https: //pestpolicy. com/stink-bugs-vs-bed-bugs/) bugs are pests commonly found in the garden but on some rare occasions, they make entry into our homes. But do ever wonder what do stink bugs to survive? - Well, stink bugs are well known for their pungent smell. There are many species of stink bugs and you can tell from their different colours.
+[Stink](https://pestpolicy.com/stink-bugs-vs-bed-bugs/) bugs are pests commonly found in the garden but on some rare occasions, they make entry into our homes. But do ever wonder what do stink bugs to survive? - Well, stink bugs are well known for their pungent smell. There are many species of stink bugs and you can tell from their different colours.
 
 - Though the most common colour is brown other colours ranges from brown to red, yellow and white.
 
-- Stink bugs have mouth parts that have needle-like appendages that help in the consumption and uptake of nutrients in their bodies. Stink bugs are not a [common [bug](https: //pestpolicy. com/bed-bug-bites-vs-mosquito-bites/) in the house](https: //pestpolicy. com/how-to-treat-fleas-in-the-yard/) but when you find them, they are most probably hiding for winter.
+- Stink bugs have mouth parts that have needle-like appendages that help in the consumption and uptake of nutrients in their bodies. Stink bugs are not a [common [bug](https://pestpolicy.com/bed-bug-bites-vs-mosquito-bites/) in the house](https://pestpolicy.com/how-to-treat-fleas-in-the-yard/) but when you find them, they are most probably hiding for winter.
 
 ##  What Do Stink Bugs Eat? Food.
 
@@ -67,7 +67,7 @@ You can opt to turn off the lights when not in use as well as lowering your wind
 
 Stick bugs are an outdoor pest but on rare occasions, you are likely to find them from around your house. - First, the lighting around your house. Stink bugs love light and outdoor light could be their invitation letter into your house. To be on the safer side, keep a minimum and low lighting around your house.
 
-Alternatively, having window blinds is also a good way of preventing the indoor lights from attracting the stink bugs from [their outdoor hideouts](https: //pestpolicy. com/best-flea-spray-for-yard/). - Secondly, those stink bugs indoors may have come to hide from the harsh environment of winter. - Stink bugs will always look for somewhere warm to continue with their lifecycle during winter and the safest place could be indoors.
+Alternatively, having window blinds is also a good way of preventing the indoor lights from attracting the stink bugs from [their outdoor hideouts](https://pestpolicy.com/best-flea-spray-for-yard/). - Secondly, those stink bugs indoors may have come to hide from the harsh environment of winter. - Stink bugs will always look for somewhere warm to continue with their lifecycle during winter and the safest place could be indoors.
 
 Though they will be rarely destructive indoors, at some point they might also attack tomatoes and other fruits in your house
 
@@ -76,3 +76,4 @@ Though they will be rarely destructive indoors, at some point they might also at
 What do stink bugs eat? Stink bugs are more of outdoor bugs and their favourite food include, tomatoes, fruits, soybean, leaves and flowers of some plants. - Some bugs are also predators and will also feed on other insects like caterpillars, beetles, aphids among others. - Though some bugs may invade our homes, they do so looking for shelter during winter. Some may also get attracted by the lights of foods in your home.
 
 If you find them in your homes there are several ways to eliminate them or even prevent their invasion either even on the garden.
+

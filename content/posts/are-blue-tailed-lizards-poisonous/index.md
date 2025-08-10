@@ -1,4 +1,4 @@
----
+﻿---
 title: Are Blue Tailed Lizards Poisonous
 description: Could be you have come across Blue Tailed Lizards in your home, yard or zoo and wonder whether they could be poisonous-lizards-poisonous .
 slug: /are-blue-tailed-lizards-poisonous/
@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 
-Could be you have come across Blue Tailed Lizards in your home, yard or zoo and wonder whether they could be [poisonous](https: //pestpolicy. com/[are](https: //pestpolicy. com/are-fleas-attracted-to-heat/)-lizards-poisonous/). Can these reptiles really harm your children, dogs, cats or other home occupants? May be you are even worried how dangerous their saliva or bite could be. **Well, the question here is, are Blue Tailed Lizards Poisonous?
+Could be you have come across Blue Tailed Lizards in your home, yard or zoo and wonder whether they could be [poisonous](https://pestpolicy.com/[are](https://pestpolicy.com/are-fleas-attracted-to-heat/)-lizards-poisonous/). Can these reptiles really harm your children, dogs, cats or other home occupants? May be you are even worried how dangerous their saliva or bite could be. **Well, the question here is, are Blue Tailed Lizards Poisonous?
 
 The direct answer is NO.
 
@@ -51,7 +51,7 @@ They cause infections, which lead to severe sickness. Blue Tailed Lizards may hi
 
 Pets affected by salmonella bacteria shows symptoms such as lethargy, vomiting and bloody diarrhea. You must therefore keep your kennels disinfected against salmonella and blue trailed lizards.
 
-Related: [Are Monitor Lizards Poisonous? ](https: //pestpolicy. com/are-monitor-lizards-poisonous/)
+Related: [Are Monitor Lizards Poisonous? ](https://pestpolicy.com/are-monitor-lizards-poisonous/)
 
 ##  Will Blue Tailed Lizards be Poisonous to Cats?
 
@@ -81,7 +81,7 @@ Pets hunting Blue tailed lizards crawl on the ground as they focus on a certain 
 
 Ensure you protect your pets (cat and dog) from eating Blue Tailed Lizard as much as possible is an efficient way of preventing them from liver flukes.
 
-Related: [What Does a Garden Lizard Eat? ](https: //pestpolicy. com/what-does-a-garden-lizard-eat/)
+Related: [What Does a Garden Lizard Eat? ](https://pestpolicy.com/what-does-a-garden-lizard-eat/)
 
 ##  How to Prevent Your Pets (Cats & Dogs) From Eating Blue Tailed Lizards
 
@@ -104,3 +104,4 @@ Blue Tailed Lizards are not poisonous. They may not harm you children, pets and 
 Though these reptiles can bite, when they feel threatened, the bite mark does not last long (2 to 3 days).
 
 Blue Tailed Lizards contain liver flukes and may transmit them to your pets when eaten causing severe damage in the liver. Protect your pets from eating Blue tailed lizards for their health safety.
+

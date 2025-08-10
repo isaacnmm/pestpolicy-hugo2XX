@@ -1,4 +1,4 @@
----
+﻿---
 title: Kohler Extra Tall Highline Arc Toilet
 description: When selecting a new toilet, functionality, efficiency, and comfort are paramount. For many, a standard-height toilet can present challenges, especially for...
 slug: /kohler-extra-tall-highline-arc-toilet/
@@ -39,7 +39,7 @@ While it is a two-piece design, which might be a minor aesthetic compromise for 
 Ultimately, the Kohler Highline Arc Extra Tall toilet stands out as a well-engineered fixture that elevates daily comfort while delivering the powerful and efficient flushing performance that homeowners expect from a leading brand like Kohler.
 ---
 
-When selecting a new toilet, functionality, efficiency, and comfort are paramount. For many, a standard-height toilet can present challenges, especially for taller individuals, the elderly, or those with mobility issues. [Kohler](https: //pestpolicy. com/kohler-rethinks-bathroom-medicine-cabinets-with-maxstow-model/), a renowned leader in plumbing fixtures, addresses this need with its **Highline Arc Extra Tall Toilet**.
+When selecting a new toilet, functionality, efficiency, and comfort are paramount. For many, a standard-height toilet can present challenges, especially for taller individuals, the elderly, or those with mobility issues. [Kohler](https://pestpolicy.com/kohler-rethinks-bathroom-medicine-cabinets-with-maxstow-model/), a renowned leader in plumbing fixtures, addresses this need with its **Highline Arc Extra Tall Toilet**.
 
 Part of their bestselling Highline family, this model combines Kohler's reputation for quality with an elevated design focused on enhanced accessibility and powerful flushing.
 
@@ -72,3 +72,4 @@ Installation for a two-piece toilet, while requiring careful handling, is genera
 * **Height May Not Suit Everyone: ** As mentioned, the extra height can be inconvenient for very short individuals or young children, potentially requiring a step stool. * **Two-Piece Design: ** While easier to maneuver piece by piece during installation, two-piece toilets do have a seam between the tank and bowl that can accumulate dust and grime, making them slightly less easy to clean than a one-piece skirted toilet.
 
 * **Cost: ** While offering excellent value for a Kohler product with these features, it will typically be more expensive than basic, standard-height toilets from budget brands. * **Bowl Cleaning: ** Some users of high-efficiency toilets occasionally report lower water levels in the bowl, which *might* require more frequent brushing to keep the bowl perfectly clean, depending on usage.
+

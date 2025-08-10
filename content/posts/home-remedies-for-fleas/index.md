@@ -1,4 +1,4 @@
----
+﻿---
 title: Home Remedies for Fleas
 description: For most home and pet owners, a flea infestation see images-look-like can cause panic. Below I've discussed the 7 top home remedies for fleas - they're...
 slug: /home-remedies-for-fleas/
@@ -15,9 +15,7 @@ tags:
 layout: post
 ---
 
-For most home and pet owners, a flea infestation (see images)-look-like/) can cause panic. Below I've discussed the 7 top home remedies for fleas - they're useful, convenient, and budget-friendly. Fleas bite humans and pets to suck blood, leading to anemia and [transmission of diseases](https: //www. petmd. com/dog/parasites/4-surprising-[flea](https: //pestpolicy.
-
-com/best-flea-carpet-powder/)-diseases-you-need-know) such as Tularemia, Tungiansis, Murine typhus, and Bubonic plague.
+For most home and pet owners, a flea infestation (see images)-look-like/) can cause panic. Below I've discussed the 7 top home remedies for fleas - they're useful, convenient, and budget-friendly. Fleas bite humans and pets to suck blood, leading to anemia and [transmission of diseases](https://www.petmd. com/dog/parasites/4-surprising-[flea](https://pestpolicy.com/best-flea-carpet-powder/)-diseases-you-need-know) such as Tularemia, Tungiansis, Murine typhus, and Bubonic plague.
 
 *In summary, you can keep your cats, dogs (including dips, flea combs* *), and home being flea-free using simple home remedies that are effective and safe equally - control on the carpet and furniture - including killing flea eggs. *
 
@@ -35,7 +33,7 @@ The bugs will suffocate once the air is replaced by water - further, the dawn so
 
 ###  2. Diatomaceous earth for fleas
 
-Diatomaceous earth will kill fleas at home - this will exterminate the fleas will the fossilized-algae diatoms. Luckily, the home remedy is non-toxic for pets and humans. Besides, Diatomaceous earth will help exterminate [fleas](https: //entomology. ca. uky. edu/ef602) on pets, including killing fleas on cats and fleas on dogs - the sharp diatoms break the bug's exoskeleton and cause dehydration.
+Diatomaceous earth will kill fleas at home - this will exterminate the fleas will the fossilized-algae diatoms. Luckily, the home remedy is non-toxic for pets and humans. Besides, Diatomaceous earth will help exterminate [fleas](https://entomology.ca. uky. edu/ef602) on pets, including killing fleas on cats and fleas on dogs - the sharp diatoms break the bug's exoskeleton and cause dehydration.
 
 - Sprinkle the diatomaceous earth powder into places that you think have a massive flea infestation and traffic - but apply only a thin layer of the powder. - Let the DE treatment do its work for 3-5 days before you vacuum the floors and carpets thoroughly to prevent the bugs' spreading. However, ensure to use the food-grade diatomaceous earth since it's the natural option that's equally safe for humans and other pets, including cats and dogs.
 
@@ -71,11 +69,9 @@ For fleas, Apple cider vinegar is an effective home remedy against the bugs besi
 
 Add this vinegar into a bowl of water and make sure to change the water after each dog wash. Fleas like bed bugs hate vinegar, and hence they'll be repelled easily from the house and surrounding - you can also use the vinegar solution like a spray. Despite that dogs and cats will love apple cider vinegar more - particularly its scent, it's also helpful to use white vinegar.
 
-However, cats might not love the vinegar spray [flea treatment](https: //pestpolicy. com/best-flea-treatment-for-puppies/).
+However, cats might not love the vinegar spray [flea treatment](https://pestpolicy.com/best-flea-treatment-for-puppies/).
 
-- Mix equal parts of the water and vinegar ingredients into a big bowl - this is the dilution process that'll make the solution fit for controlling fleas. - However, some homeowners also tend to mix in the ingredients in the ration of 1: 3 for vinegar and water. Before spraying the vinegar for fleas control, inspect if the dog or cat has open wounds, sores, or cuts on their skins. Avoid [using the flea treatment](https: //pestpolicy.
-
-com/best-flea-treatment-for-kittens/) on open wounds.
+- Mix equal parts of the water and vinegar ingredients into a big bowl - this is the dilution process that'll make the solution fit for controlling fleas. - However, some homeowners also tend to mix in the ingredients in the ration of 1: 3 for vinegar and water. Before spraying the vinegar for fleas control, inspect if the dog or cat has open wounds, sores, or cuts on their skins. Avoid [using the flea treatment](https://pestpolicy.com/best-flea-treatment-for-kittens/) on open wounds.
 
 Avoid spraying the pet's into their eyes - this may lead to pain, irritation, or reduced ability to see. It's your role to ensure that the flea treatment is safe and comfortable for the pets. - Put the vinegar solution in a spray bottle or use some cloth that you'll dip into the vinegar solution - for example, therub-down technique will be more appropriate for cats.
 
@@ -87,10 +83,11 @@ Salt for fleas (salt will kill fleas), just baking soda, will effectively kill f
 
 - Finally, vacuum the surfaces and carpets to clean up the salt and fleas trapped or trapped by this effective home flea remedy.
 
-Constant flea vacuuming plus salt treatment against fleas will help keep the flea infestation at bay. You can use the salt on pet beds, carpets, and live hosts - cats and dogs to kill even flea [larvae](https: //pestpolicy. com/what-do-flea-larvae-eat/). To treat you home effectively with salt for fleas, you'll need to treat the upholstery, home floors, and carpets. However, ensure that you empty and clean the vacuum bags and canisters.
+Constant flea vacuuming plus salt treatment against fleas will help keep the flea infestation at bay. You can use the salt on pet beds, carpets, and live hosts - cats and dogs to kill even flea [larvae](https://pestpolicy.com/what-do-flea-larvae-eat/). To treat you home effectively with salt for fleas, you'll need to treat the upholstery, home floors, and carpets. However, ensure that you empty and clean the vacuum bags and canisters.
 
 - Further, salt must allow sitting on the sprinkled areas overnice or for long hours so that the fleas will be dehydrated. But note that fleas won't kill flea pupae in the cocoons.
 
 ##  Conclusion
 
 Natural remedies for fleas will work just as well as chemical flea treatment, including sprays, shampoos, and flea collars. Also, flea repelling plants like Spearmint, Lavender, Chrysanthemums, and Penny Royal is equally effective. ****
+

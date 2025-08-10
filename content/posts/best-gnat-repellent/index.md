@@ -1,4 +1,4 @@
----
+﻿---
 title: Best Gnat Repellent
 description: Gnat infestationhttpipm.ucanr.eduPMGPESTNOTESpn7448.html can be infectious, disturbing, and extremely irritating.Recently, we discussed how long gnats live?...
 slug: /best-gnat-repellent/
@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 
-[[Gnat](https: //pestpolicy. com/best-gnat-repellents/) infestation](http: //ipm. ucanr. edu/PMG/PESTNOTES/pn7448. html) can be infectious, disturbing, and extremely irritating. Recently, we discussed how long gnats live?
+[[Gnat](https://pestpolicy.com/best-gnat-repellents/) infestation](http://ipm.ucanr. edu/PMG/PESTNOTES/pn7448. html) can be infectious, disturbing, and extremely irritating. Recently, we discussed how long gnats live?
 
 If you are looking for quick prevention methods to keep gnats away, commercial gnat repellents will be your best bet. But given the massive variety of gnat repellents available in the market, it can be tricky to find not only the most effective repellent but also one that suits you. Read Also: How To Get Rid of Gnats.
 
@@ -35,7 +35,7 @@ Pros: - Safe for use by the entire family - Long-lasting effects - Does not dama
 
 Cons: - The nozzle is hard to spray which can waste the lotion - The bottle can leak - Mild rashes have been reported to result after use - Pump not effective when the bottle is tilted
 
-Read Also: [Fly Spray for Horses Reviewed](https: //pestpolicy. com/best-fly-spray-for-horses/)
+Read Also: [Fly Spray for Horses Reviewed](https://pestpolicy.com/best-fly-spray-for-horses/)
 
 ###  [2. Best for Pets: Amrita Aromatherapy for Gnats](https://www.amazon.com/dp/B000F5K2N0/?tag=p-policy-20)
 
@@ -103,7 +103,7 @@ Pros: - Easy to use and doesn't leave a greasy residue - Designed for heavy-duty
 
 Cons: - Not very safe to use on children - Has a robust repulsive chemical odor - Needs frequent reapplication to be useful for very long hours - May not suit all skin types
 
-Related: [Best Fogger for Spider](https: //pestpolicy. com/best-fogger-for-spiders/)
+Related: [Best Fogger for Spider](https://pestpolicy.com/best-fogger-for-spiders/)
 
 ###  [6. Best for Clothes: Sawyer Premium Permethrin](https://www.amazon.com/dp/B01M4KFZME/?tag=p-policy-20)
 
@@ -127,4 +127,5 @@ The best gnat repellents will allow you to comfortably enjoy summer days without
 
 ##  Sources:
 
-1. [Fungus Gnats Indoors NC State Extension Publications](https: //content. ces. ncsu. edu/fungus-gnats-indoors) 2. [Fungus gnats UMN Extension](https: //extension. umn. edu/product-and-houseplant-pests/fungus-gnats) 3. Fungus Gnats - CT Integrated Pest Management Program
+1. [Fungus Gnats Indoors NC State Extension Publications](https://content.ces. ncsu. edu/fungus-gnats-indoors) 2. [Fungus gnats UMN Extension](https://extension.umn. edu/product-and-houseplant-pests/fungus-gnats) 3. Fungus Gnats - CT Integrated Pest Management Program
+

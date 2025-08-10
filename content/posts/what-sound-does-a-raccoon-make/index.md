@@ -1,4 +1,4 @@
----
+﻿---
 title: What Sound Does a Raccoon Make
 description: Could you be hearing some indiscernible animal noisessounds at night in your attic and wonder what it could be? But, how do you tell if it's raccoon's sound ?...
 slug: /what-sound-does-a-raccoon-make/
@@ -15,13 +15,13 @@ tags:
 layout: post
 ---
 
-Could you be hearing some indiscernible animal noises/sounds at night in your attic and wonder what it could be? But, how do you tell if it's raccoon's [sound](http: //ipm. ucanr. edu/PMG/PESTNOTES/pn74116. html)? **Well, the question at hand is, what sound does a raccoon make? Raccoons produce sounds like ** **churring/purring, barking, chattering, hissing, and growling.
+Could you be hearing some indiscernible animal noises/sounds at night in your attic and wonder what it could be? But, how do you tell if it's raccoon's [sound](http://ipm.ucanr. edu/PMG/PESTNOTES/pn74116. html)? **Well, the question at hand is, what sound does a raccoon make? Raccoons produce sounds like ** **churring/purring, barking, chattering, hissing, and growling.
 
 ** **Raccoons may squeal, screech (like a whistle), snarl, or scream as well.
 
 Snorting and whimpering sounds are associated with adult raccoons, while baby raccoons make mewing, cry, and whine. **
 
-Related: [Does Raccoon Poop Look Like? ](https: //pestpolicy. com/what-does-raccoon-poop-look-like/)
+Related: [Does Raccoon Poop Look Like? ](https://pestpolicy.com/what-does-raccoon-poop-look-like/)
 
 ##  Details: What Sound Does a Raccoon Make
 
@@ -37,7 +37,7 @@ Importantly, raccoons are more active at night than day time.
 
 ###  2. Barking
 
-Barking is a vocalization sound made by raccoons when suffering or when stressed. - Raccoon stresses are caused by situation such as hunger and continuous attacks in their colony. Further, raccoon barks when stuck (in a wall or hole) or in such a case where they cant find their baby raccoons. Related: [Remove Raccoons](https: //pestpolicy. com/how-to-get-rid-of-raccoons/)
+Barking is a vocalization sound made by raccoons when suffering or when stressed. - Raccoon stresses are caused by situation such as hunger and continuous attacks in their colony. Further, raccoon barks when stuck (in a wall or hole) or in such a case where they cant find their baby raccoons. Related: [Remove Raccoons](https://pestpolicy.com/how-to-get-rid-of-raccoons/)
 
 ###  3. Chittering
 
@@ -51,7 +51,7 @@ Hissing and growling sound is made by raccoons only when they feel threatened, c
 
 ###  5. Squealing/Screaming/Screeching/Snarling
 
-Screeching, screaming, snarling, and squealing are violent sound made by raccoons when fighting. - Raccoon screeching sound is sharp and can often be confused with owl sound or cat fighting sound. Furthermore, raccoons can squeal and scream when in pain or distress. Related: [Smells Hated by Raccoons](https: //pestpolicy. com/what-smells-do-raccoons-hate/)
+Screeching, screaming, snarling, and squealing are violent sound made by raccoons when fighting. - Raccoon screeching sound is sharp and can often be confused with owl sound or cat fighting sound. Furthermore, raccoons can squeal and scream when in pain or distress. Related: [Smells Hated by Raccoons](https://pestpolicy.com/what-smells-do-raccoons-hate/)
 
 ###  6. Mewing/Crying/Whining
 
@@ -138,3 +138,4 @@ Unlike most wild animals, raccoons are more active at night than daytime. You wi
 In summary on the question, what sound does a raccoon make; the sounds made could either be churring/purring, barking, chittering, hissing, or growling. - Alternatively, raccoons may snarl, squeal, screech (like whistle), or scream as well. Whimpering and Snorting sounds are commonly made by adult raccoons, while baby raccoons whine, mew, or cry instead.
 
 Usually, the raccoon sounds are meant for communication with each other, searching for shelter & food, defending the babies from attacks, or invasive fight over family colony.
+

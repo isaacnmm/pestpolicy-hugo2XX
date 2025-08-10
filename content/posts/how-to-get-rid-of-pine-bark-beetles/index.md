@@ -1,4 +1,4 @@
----
+﻿---
 title: How to Get Rid Of Pine Bark Beetles
 description: Pine bark beetles are tiny rice-grain-sized invasive bugs that'll get into the bark of your pine trees and eat it. Eating the inner bark blocks the passage of...
 slug: /how-to-get-rid-of-pine-bark-beetles/
@@ -17,21 +17,21 @@ layout: post
 
 Pine bark beetles are tiny (rice-grain-sized) invasive bugs that'll get into the bark of your pine trees and eat it. Eating the inner bark blocks the passage of food and water - making the trees weaken and die off. The bugs will target the weak pine trees from injury or stress. For example, the mountain pine beetle, mainly found in North America, is black or reddish brown in color.
 
-So in this article, I'll get into the details of how you can get [rid](https: //pestpolicy. com/get-rid-sweat-bees/) of the pine bark beetles that have been killing your trees. - But I would also recommend any arborist or homeowner get professional exterminators, if DIY pest control is not your thing - tryTerminix, Orkin, orArmored Pest Svc- they'll use specialized and more effective chemicals, baits, or chemicals.
+So in this article, I'll get into the details of how you can get [rid](https://pestpolicy.com/get-rid-sweat-bees/) of the pine bark beetles that have been killing your trees. - But I would also recommend any arborist or homeowner get professional exterminators, if DIY pest control is not your thing - tryTerminix, Orkin, orArmored Pest Svc- they'll use specialized and more effective chemicals, baits, or chemicals.
 
 ###  **Identifying the Pine Bark Beetle**
 
-[Pine bark beetles](https: //ipm. ucanr. edu/legacy_assets/pdf/pestnotes/pnbarkbeetles. pdf) are relatively tiny insects that measure about 2. 5 to 6 mm in body length. They have black or dark brown colors with some spines at their back. I have listed some of the signs that you can check out to know if there is an infestation of the pine bark beetles.
+[Pine bark beetles](https://ipm.ucanr. edu/legacy_assets/pdf/pestnotes/pnbarkbeetles. pdf) are relatively tiny insects that measure about 2. 5 to 6 mm in body length. They have black or dark brown colors with some spines at their back. I have listed some of the signs that you can check out to know if there is an infestation of the pine bark beetles.
 
 - **Drying branches: **As pine bark beetles feed on the tree's bark and deny the tree its nutrition, the branches will dry off or have needles.
 
-- **Boring Dust: **Signs of some[sawdust-like and fine substance that is reddish or rusty-brown](https: //www. fs. usda. gov/detail/r3/forest-grasslandhealth/insects-diseases/? cid=stelprdb5228465)near the tree's barkof the tree will punish the presence of pine bark beetles. - **Pitch tubes: **pitch tubes or sap or resin are produced by the pine trees as they attempt to push the Beatles out.
+- **Boring Dust: **Signs of some[sawdust-like and fine substance that is reddish or rusty-brown](https://www.fs. usda. gov/detail/r3/forest-grasslandhealth/insects-diseases/? cid=stelprdb5228465)near the tree's barkof the tree will punish the presence of pine bark beetles. - **Pitch tubes: **pitch tubes or sap or resin are produced by the pine trees as they attempt to push the Beatles out.
 
-- **Discolored or strained bark: **a yellow or reddish brown pine tree bark may indicate are dying tree due to bugs. It's crucial to note that June bugs and pine bark beetles may have similar sizes, shapes, and colors. However, [June bugs](https: //pestpolicy. com/how-to-identify-and-get-rid-of-june-bugs/) feed and live on shrubs and grass or lawns, and they don't bore into tree barks.
+- **Discolored or strained bark: **a yellow or reddish brown pine tree bark may indicate are dying tree due to bugs. It's crucial to note that June bugs and pine bark beetles may have similar sizes, shapes, and colors. However, [June bugs](https://pestpolicy.com/how-to-identify-and-get-rid-of-june-bugs/) feed and live on shrubs and grass or lawns, and they don't bore into tree barks.
 
 ##  Details: How to Get Rid of the Pine Bark Beetle
 
-Weak and sick trees won't survive an attack caused by the pine bark beetles. The sick trees will produce some [chemicals that attract the pine bark beetles](https: //henderson. ces. ncsu. edu/2020/05/pest-alert-pine-bark-beetles/). So, you must be quick in the treatment of the pine trees to allow them to survive.
+Weak and sick trees won't survive an attack caused by the pine bark beetles. The sick trees will produce some [chemicals that attract the pine bark beetles](https://henderson.ces. ncsu. edu/2020/05/pest-alert-pine-bark-beetles/). So, you must be quick in the treatment of the pine trees to allow them to survive.
 
 ###  1. Treatment 1: Spray**Dominion 2L**
 
@@ -55,7 +55,7 @@ Luckily, this insecticide will also exterminate the pine bark beetles that are l
 
 Next, I recommend that you prune those trees infested by pine bark beetles. - But ensure to fully remove the limbs and branches that are infected. This will prevent the number of these bugs that'll transfer to other trees in the neighborhood. I recommend that you prune the trees during winter or late fall as during this time you won't cause much damage to the trees and the bugs are relatively dormant and so they won't spread much once disturbed.
 
-Further, after pruning, you'll need to dispose of all the limbs and branches in various ways including burning or burying them inside some landfill. - Pruning will also help remove the various life stages of the pine bark beetles including their eggs. Related: [How to Get Rid of Gnats](https: //pestpolicy. com/how-to-get-rid-of-gnats/)
+Further, after pruning, you'll need to dispose of all the limbs and branches in various ways including burning or burying them inside some landfill. - Pruning will also help remove the various life stages of the pine bark beetles including their eggs. Related: [How to Get Rid of Gnats](https://pestpolicy.com/how-to-get-rid-of-gnats/)
 
 ###  4.**Dispose of the Dead Pine Trees**
 
@@ -74,3 +74,4 @@ So, before you plant any pine trees, talk to experts in a nursery or an arborist
 ##  Conclusion
 
 You'll need to grow resilient and healthy pines by giving them adequate sunlight, nutrients, and water. Also, plant the pines with enough spacing to avoid overcrowding.
+

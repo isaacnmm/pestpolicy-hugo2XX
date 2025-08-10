@@ -1,4 +1,4 @@
----
+﻿---
 title: How to Paint Stucco
 description: Owning a Stucco home will not only make you stand out among others but also boost your self-esteem. However, painting Stucco with Acrylic latex great color...
 slug: /how-to-paint-stucco/
@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 
-Owning a [Stucco](https: //pestpolicy. com/best-paints-for-stucco/) home will not only make you stand out among others but also boost your self-esteem. However, painting Stucco [with Acrylic latex](https: //pestpolicy. com/how-to-thin-acrylic-paint/) (great color retention and gloss ) could be very cumbersome especially when the wrong paint is selected and improper procedure followed.
+Owning a [Stucco](https://pestpolicy.com/best-paints-for-stucco/) home will not only make you stand out among others but also boost your self-esteem. However, painting Stucco [with Acrylic latex](https://pestpolicy.com/how-to-thin-acrylic-paint/) (great color retention and gloss ) could be very cumbersome especially when the wrong paint is selected and improper procedure followed.
 
 Indeed, if proper care is not put into place when handling Stucco, the structural strength is weakened, while the quality of the finish coat is compromised. Could you be facing similar problems? *Well, in this article, we shall be discussing how to paint stucco. To begin, select the right tools and material, clean the surface, strip old paint gently, sand the surface, and polish before moping it to dryness. Check these* acrylic paint for pouring.
 
@@ -33,9 +33,7 @@ The m* aterial and tools required are: - Putty knife and a broom/pressure washer
 
 ###  2. Paint Stripping
 
-- Thin paint stripping chemical is a container appropriately - Using a paintbrush, apply the solvent over the old paint until the entire surface is covered - Leave the old paint to cure for 10 minutes or otherwise advised by the manufacturer - Using a putty knife or a paint scraper, scrub old paint gently be careful not to affect the primary surface material - Repeat the process once more until the entire[old paint](https: //pestpolicy.
-
-com/how-to-make-old-paint-usable-again/)is removed
+- Thin paint stripping chemical is a container appropriately - Using a paintbrush, apply the solvent over the old paint until the entire surface is covered - Leave the old paint to cure for 10 minutes or otherwise advised by the manufacturer - Using a putty knife or a paint scraper, scrub old paint gently be careful not to affect the primary surface material - Repeat the process once more until the entire[old paint](https://pestpolicy.com/how-to-make-old-paint-usable-again/)is removed
 
 ###  3. Sanding
 
@@ -120,3 +118,4 @@ In summary, on how to paint stucco, select the right tools and material, clean t
 During paint application, wear protective gear (for personal safety) and stick to the precautions guidelines given in this article.
 
 Avoid touching the wet painted surface (leaves fingerprint) and desist from correcting dried drains or runs. Importantly, contract a professional painter if you are new to stucco painting.
+

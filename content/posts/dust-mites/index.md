@@ -1,4 +1,4 @@
----
+﻿---
 title: Dust Mites
 description: If your home has dust which is practically in every home there will be dust mites. These pests will eat dead skin flakes that have been shared by pets and...
 slug: /dust-mites/
@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 
-If your home has dust (which is practically in every home) there will be dust mites. These pests will eat dead skin flakes that have been shared by pets and humans. The microscopic organisms (invisible) [won't bite humans](https: //pestpolicy. com/do-dust-mites-bite/) like is the case with bed bugs or head lice. If you have an indoor allergy, then dust mites can worsen your symptoms and so it is important to control them in your house.
+If your home has dust (which is practically in every home) there will be dust mites. These pests will eat dead skin flakes that have been shared by pets and humans. The microscopic organisms (invisible) [won't bite humans](https://pestpolicy.com/do-dust-mites-bite/) like is the case with bed bugs or head lice. If you have an indoor allergy, then dust mites can worsen your symptoms and so it is important to control them in your house.
 
 Unfortunately, dust mites are microscopic pests.
 
@@ -23,7 +23,7 @@ This makes it difficult to control the bugs when you can't even see them. - You 
 
 ##  Description of Dust Mites
 
-The [NIEHS](https: //www. niehs. nih. gov/health/topics/agents/allergens/dustmites/index. cfm) define dust mites as tiny (microscopic) [pests that look like insects](https: //pestpolicy. com/what-do-dust-mites-look-like/) and reside in house dust. - Dust mites feed on dander - which are peelings of dead skin that are shed by pets and humans.
+The [NIEHS](https://www.niehs. nih. gov/health/topics/agents/allergens/dustmites/index. cfm) define dust mites as tiny (microscopic) [pests that look like insects](https://pestpolicy.com/what-do-dust-mites-look-like/) and reside in house dust. - Dust mites feed on dander - which are peelings of dead skin that are shed by pets and humans.
 
 Immunologists and allergists note that dust mites are major irritants that will worsen asthmatic symptoms and spark allergic attacks.
 
@@ -31,7 +31,7 @@ Immunologists and allergists note that dust mites are major irritants that will 
 
 ##  How Dust Mites Make Humans Sick
 
-From the onset, I have to say that dust mites do not bite humans. However, humans get sick when they get exposed to dust [mite](https: //pestpolicy. com/what-do-dust-mites-look-like/) proof or faces, especially for people who have dust mite allergies. The dust mite poop contains proteins that are perfectly sized and they will trigger allergy symptoms for anyone who is allergic to dust mites.
+From the onset, I have to say that dust mites do not bite humans. However, humans get sick when they get exposed to dust [mite](https://pestpolicy.com/what-do-dust-mites-look-like/) proof or faces, especially for people who have dust mite allergies. The dust mite poop contains proteins that are perfectly sized and they will trigger allergy symptoms for anyone who is allergic to dust mites.
 
 - Besides, these foreign allergens (dust mites) are very common in the environment and so they will reach many people. The symptoms of allergic reactions caused by dust mites will include difficulty breathing, wheezing, runny nose, and sneezing - these are the common signs of hay fever allergy and asthma.
 
@@ -39,7 +39,7 @@ From the onset, I have to say that dust mites do not bite humans. However, human
 
 In your house, dust mites will hide in areas that have dust such as curtains, carpeting, mattress, upholstered furniture, and bedding. So, it is possible to control dust mite allergy (for the people its effects) by reducing the number of dust mites roaming in the house. - However, doctors may prescribe medications to manage asthma and leave the dust mite allergy symptoms.
 
-[Clinical Immunology](https: //www. jacionline. org/article/S0091-6749(02)91278-9/fulltext) reports that over 80% of US homes have dust mites on one of their beds. So if you notice that you are sneezing when it is not allergy season yet, there could be dust mites in your spaces. Pets will shed dead skin cells that will feed the dust mites and transport them around or into the house.
+[Clinical Immunology](https://www.jacionline. org/article/S0091-6749(02)91278-9/fulltext) reports that over 80% of US homes have dust mites on one of their beds. So if you notice that you are sneezing when it is not allergy season yet, there could be dust mites in your spaces. Pets will shed dead skin cells that will feed the dust mites and transport them around or into the house.
 
 Because dust mites eat dead skin, you find them in high numbers in areas such as couches, mattresses, pillows, and rugs. Dust mites will not remain in the air for a long time as they will settle quickly after they are disturbed. However, the presence of dust mites in your house does not imply that you are unclean. - This is because every home (except in high attributes, and arid or dry climates) has some amount of dust mites settled somewhere.
 
@@ -94,3 +94,4 @@ So, it will be good to install some air purifiers that will capture the dust mit
 ##  Conclusion
 
 Dust mites are closely related to spiders and ticks but they are microscopic in size. On diet, as noted earlier, dust mites will eat the skin cells that are shed by humans and pets.
+

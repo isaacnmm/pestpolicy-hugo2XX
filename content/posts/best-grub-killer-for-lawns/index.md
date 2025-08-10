@@ -1,4 +1,4 @@
----
+﻿---
 title: Best Grub Killer for Lawns
 description: Are you looking for thebest grub killer for lawns? Grubs in the garden can be a real pain.However, it is a widespread problem.
 slug: /best-grub-killer-for-lawns/
@@ -16,7 +16,7 @@ tags:
 layout: post
 ---
 
-Are you looking for thebest [grub](https: //www. canr. msu. edu/news/how_to_choose_and_when_to_apply_grub_control_products_for_your_lawn) killer for lawns? Grubs in the garden can be a real pain. However, it is a widespread problem. People with gardens know how difficult it is to deal with grubs.
+Are you looking for thebest [grub](https://www.canr. msu. edu/news/how_to_choose_and_when_to_apply_grub_control_products_for_your_lawn) killer for lawns? Grubs in the garden can be a real pain. However, it is a widespread problem. People with gardens know how difficult it is to deal with grubs.
 
 However, there are two effective ways of dealing with them: pesticides and natural methods. Pesticides come in liquid or granular forms and are also referred to as 'curative' products. Read Also: Yard Spray for Ticks Reviewed.
 
@@ -34,7 +34,7 @@ Walk evenly in the lawn so that you can spread it out at even intervals. After a
 
 Cons: - Might need more than one application for good results
 
-Read Also: [Bug Zapper for Mosquitoes](https: //pestpolicy. com/[best](https: //pestpolicy. com/best-ant-killer-for-yard/)-bug-zapper-for-mosquitoes/)
+Read Also: [Bug Zapper for Mosquitoes](https://pestpolicy.com/[best](https://pestpolicy.com/best-ant-killer-for-yard/)-bug-zapper-for-mosquitoes/)
 
 ###  [2. Scotts GrubEx - Grub Killer & Preventer - 5000 sq feet](https://www.amazon.com/dp/B0050DV4ZW/?tag=p-policy-20)
 
@@ -72,7 +72,7 @@ If your goal is to cover an expansive area all at once, then this treatment is t
 
 Cons: - More expensive than other products on the market
 
-Related: [Best Fire Ant Killer](https: //pestpolicy. com/best-fire-ant-killer/)
+Related: [Best Fire Ant Killer](https://pestpolicy.com/best-fire-ant-killer/)
 
 ###  [5. Grub Control Mix and Pest Controller by St. Gabriel Organics](https://www.amazon.com/dp/B000BWY878/?tag=p-policy-20)
 
@@ -112,7 +112,7 @@ Pros: - Can kill grubs in a natural way - Environment-friendly - Kills over 23 s
 
 Cons: - Takes a while for you to get rid of the grubs (approximately 4 months)
 
-Read Also: [Ant Killer for Yard](https: //pestpolicy. com/best-ant-killer-for-yard/)
+Read Also: [Ant Killer for Yard](https://pestpolicy.com/best-ant-killer-for-yard/)
 
 ##  Conclusion
 
@@ -120,4 +120,5 @@ The product that you buy for the treatment of grubs in your lawn depends on your
 
 ##  Sources:
 
-1. [Grub Control - Extension](https: //extension. unh. edu/resource/grub-control-video) 2. [Is it too late to treat for white grubs? Horticulture and Home](https: //hortnews. extension. iastate. edu/2008/9-10/grubs. html) 3. [Grub Control - Blue Grass Enterprises](https: //static1. squarespace. com/static/50a39d4ce4b0f822f291399c/t/56b385743c44d86cf333fd78/1454605687028/Grub+Control. pdf)
+1. [Grub Control - Extension](https://extension.unh. edu/resource/grub-control-video) 2. [Is it too late to treat for white grubs? Horticulture and Home](https://hortnews.extension. iastate. edu/2008/9-10/grubs. html) 3. [Grub Control - Blue Grass Enterprises](https://static1.squarespace. com/static/50a39d4ce4b0f822f291399c/t/56b385743c44d86cf333fd78/1454605687028/Grub+Control. pdf)
+

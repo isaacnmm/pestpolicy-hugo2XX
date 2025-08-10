@@ -1,4 +1,4 @@
----
+﻿---
 title: What Do Flea Larvae Eat
 description: What do flea larvae eat? Flea larvae 35 of the flea population are the second phase of the fleas' life cycle. The short answer is flea larvae feed primarily...
 slug: /what-do-flea-larvae-eat/
@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 
-What do flea [larvae](https: //pestpolicy. com/what-do-flea-larvae-look-like/) eat? [Flea larvae](http: //npic. orst. edu/pest/flea. html) (35% of the flea population) are the second phase of the [fleas](https: //pestpolicy. com/where-do-flea-larvae-live/)' life cycle.
+What do flea [larvae](https://pestpolicy.com/what-do-flea-larvae-look-like/) eat? [Flea larvae](http://npic.orst. edu/pest/flea. html) (35% of the flea population) are the second phase of the [fleas](https://pestpolicy.com/where-do-flea-larvae-live/)' life cycle.
 
 **The short answer is** *flea larvae feed primarily on flea dirt, which is(1) adult fleas'feces (or undigested blood) & (2) conspecific (or nonviable) eggs - this is unlike other holometabolous larvae. *
 
@@ -25,7 +25,7 @@ These tiny baby fleas will quickly feel running vacuum, footsteps, and vibration
 
 ###  1.**Feces**from**Adult Fleas**
 
-Cat [flea larvae](https: //pestpolicy. com/what-do-flea-larvae-look-like/) have mandibles to chew solid organic matter but won't bite on either cats or dogs. As highlighted above, flea larvae primarily feed on flea dirt which is feces (or pre-digested and dried blood) from adult fleas.
+Cat [flea larvae](https://pestpolicy.com/what-do-flea-larvae-look-like/) have mandibles to chew solid organic matter but won't bite on either cats or dogs. As highlighted above, flea larvae primarily feed on flea dirt which is feces (or pre-digested and dried blood) from adult fleas.
 
 **Undigested cat or dog blood** The blood may have originated from various hosts such as cats and dogs or human beings. - Therefore, a large quantity of the ingested bloodcomes out in feces undigested ready to give the flealarvae the required nutrients. - Flea larvae wont grow appropriately if they dont feed on flea dirt.
 
@@ -41,7 +41,7 @@ Therefore, younger flea larvae will favor the spherule-shaped feces since they a
 
 ###  2.Non-viable or Conspecific flea Eggs
 
-Besides, undigested host blood, fleas will also feed on non-viable (or conspecific) eggs. - For example, a[recent Hsu MHin recent research](https: //pubmed. ncbi. nlm. nih. gov/12510898/)concluded thatnon-viable flea eggs contributed to the proper development of more than 90% of the flea larvae into adults. - But who many such eggs would one larva require.
+Besides, undigested host blood, fleas will also feed on non-viable (or conspecific) eggs. - For example, a[recent Hsu MHin recent research](https://pubmed.ncbi. nlm. nih. gov/12510898/)concluded thatnon-viable flea eggs contributed to the proper development of more than 90% of the flea larvae into adults. - But who many such eggs would one larva require.
 
 Scientific evidence varies with the larvae eating from 7 - 20 dead & non-viable flea eggs per flea larvae.
 
@@ -54,3 +54,4 @@ However, flea larvae have a higher probability of dying if they don't get food i
 ##  Conclusion
 
 Cannibalistic Tendencies? Finally, flea larvae will also cannibalize (or eat one of their own) larvae that are either injured or weakly. Further, some larva may also eat differentnaked pupae or the larvalcasings that have been shed.
+

@@ -1,4 +1,4 @@
----
+﻿---
 title: Best Flea Spray for Home
 description: Looking for the best flea spray for your home? Say no more! In this post, Ill discuss that and other related questions. - Flea bites and flea...
 slug: /best-flea-spray-for-home/
@@ -15,9 +15,7 @@ tags:
 layout: post
 ---
 
-Looking for the best flea spray for your home? Say no more! In this post, Ill discuss that and other related questions. - [Flea bites and flea infestations](https: //pestpolicy. com/can-[fleas](https: //pestpolicy. com/best-flea-carpet-powder/)-live-on-clothes/)are everyday problems for most pet owners. The bugs will jump from one pet to another or the[yard](https: //pestpolicy. com/[best](https: //pestpolicy.
-
-com/best-flea-collar-for-dogs/)-flea-spray-for-yard/)while spreading diseases.
+Looking for the best flea spray for your home? Say no more! In this post, Ill discuss that and other related questions. - [Flea bites and flea infestations](https://pestpolicy.com/can-[fleas](https://pestpolicy.com/best-flea-carpet-powder/)-live-on-clothes/)are everyday problems for most pet owners. The bugs will jump from one pet to another or the[yard](https://pestpolicy.com/[best](https://pestpolicy.com/best-flea-collar-for-dogs/)-flea-spray-for-yard/)while spreading diseases.
 
 A suitable flea spray will exterminate the adult roaches while killing other flea stages; the eggs and larvae.
 
@@ -99,4 +97,5 @@ Therefore it is safe to use it on your drapes, furniture, rugs, pet beddings, an
 
 ##  Conclusion
 
-The largest [flea population is eggs](https: //pestpolicy. com/flea-eggs-vs-dandruff/), larvae, and pupae, which is 95-99%, while the t population is between 1-5%. - Therefore, a good flea and tick premise spray should first and foremost inhibit fleas' growth and reproduction. Then kill adult fleas to avoid further spread. It should also be safe to use within the premises and not leave any residue.
+The largest [flea population is eggs](https://pestpolicy.com/flea-eggs-vs-dandruff/), larvae, and pupae, which is 95-99%, while the t population is between 1-5%. - Therefore, a good flea and tick premise spray should first and foremost inhibit fleas' growth and reproduction. Then kill adult fleas to avoid further spread. It should also be safe to use within the premises and not leave any residue.
+

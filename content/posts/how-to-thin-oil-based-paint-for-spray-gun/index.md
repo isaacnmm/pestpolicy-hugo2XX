@@ -1,4 +1,4 @@
----
+﻿---
 title: How to Thin Oil Based Paint for Spray Gun
 description: Many professional and DIY painters have asked how to thin oil-based paint for the spray gun. Possibly you got interested in reading this article because you...
 slug: /how-to-thin-oil-based-paint-for-spray-gun/
@@ -14,9 +14,9 @@ tags:
 layout: post
 ---
 
-Many professional and DIY painters have asked how to thin oil-based [paint](https: //pestpolicy. com/airless-paint-sprayer-tips/) for the spray gun. Possibly you got interested in reading this article because you have sought answers to the same question before.
+Many professional and DIY painters have asked how to thin oil-based [paint](https://pestpolicy.com/airless-paint-sprayer-tips/) for the spray gun. Possibly you got interested in reading this article because you have sought answers to the same question before.
 
-Well, for their convenience and speed, spray guns are great tools for use in any painting project. However, if you will use [oil](https: //pestpolicy. com/best-oil-based-primer-for-cabinets/)-based paint, you have to thin it out for the best outcomes. Several questions usually linger whenever oil-based paint is mentioned, and these include; - What is oil-based paint? - How do you thin oil-based paint? - What is oil-based paint used for?
+Well, for their convenience and speed, spray guns are great tools for use in any painting project. However, if you will use [oil](https://pestpolicy.com/best-oil-based-primer-for-cabinets/)-based paint, you have to thin it out for the best outcomes. Several questions usually linger whenever oil-based paint is mentioned, and these include; - What is oil-based paint? - How do you thin oil-based paint? - What is oil-based paint used for?
 
 - What types of paint are oil-based?
 
@@ -86,8 +86,9 @@ Of course! These paints were once the favorites for interior painting in walls, 
 
 ###  6. What advantages are there in using Oil-Based Paint?
 
-- They work well in cold climates. - Quite durable and excellent for walls and trim - Covers much better than latex, particularly in damaged areas - It's good on cupboards and surfaces with high traffic. It also covers the stain completely. - Its colors are richer than water-based paints. See Alo: [Stain for Swing Set Stain](https: //pestpolicy. com/best-stain-for-swing-set/)
+- They work well in cold climates. - Quite durable and excellent for walls and trim - Covers much better than latex, particularly in damaged areas - It's good on cupboards and surfaces with high traffic. It also covers the stain completely. - Its colors are richer than water-based paints. See Alo: [Stain for Swing Set Stain](https://pestpolicy.com/best-stain-for-swing-set/)
 
 ##  Conclusion
 
 Thinning paint is a typical DIY exercise, and hence you dont need to incur any expense on an expert. Carefully follow our procedure, and you will be sure to forestall any dangers inherent in the process.
+

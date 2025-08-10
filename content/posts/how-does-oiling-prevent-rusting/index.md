@@ -1,4 +1,4 @@
----
+﻿---
 title: How Does Oiling Prevent Rusting
 description: Rusting of metallic structures or vehicle parts is a common problem facing people. The rate of rusting differs from place to place due to varying...
 slug: /how-does-oiling-prevent-rusting/
@@ -20,7 +20,7 @@ Rust erodes iron metal and destroys the entire body eventually. Rusting preventi
 
 * *This process prevents the initiation and formation of rust on iron metal.
 
-Ideally, rust is scientifically referred to as hydrated Iron (III) Oxide or in common terms identified as corrosion or oxidation of the iron metal. * *Many methods can be used in preventing rusting. But, application considerations should bear in mind the particular item under rust [prevent](https: //pestpolicy. com/prevent-paint-overspray/) easier matching. Remember, its advisable to wear protective gear when oiling metal for safety purposes. *
+Ideally, rust is scientifically referred to as hydrated Iron (III) Oxide or in common terms identified as corrosion or oxidation of the iron metal. * *Many methods can be used in preventing rusting. But, application considerations should bear in mind the particular item under rust [prevent](https://pestpolicy.com/prevent-paint-overspray/) easier matching. Remember, its advisable to wear protective gear when oiling metal for safety purposes. *
 
 ##  Details: How Does Oiling Prevent Rusting
 
@@ -102,7 +102,7 @@ Galvanizing is a rust prevention method that entails the application of a zinc c
 
 Usually, zinc metal is cheap and sticks on the metal's surface easily to form a rust-protective layer free from water and oxygen penetration.
 
-However, the zinc coat is eroded by chemical reaction. Therefore, the frequent galvanizing process should be carried out in extreme rust prone environment. Otherwise, you can opt for cadmium coating for better results. > See Also: > [Painting your Metal Building](https: //pestpolicy. com/how-to-paint-a-metal-building/)
+However, the zinc coat is eroded by chemical reaction. Therefore, the frequent galvanizing process should be carried out in extreme rust prone environment. Otherwise, you can opt for cadmium coating for better results. > See Also: > [Painting your Metal Building](https://pestpolicy.com/how-to-paint-a-metal-building/)
 
 ###  3. Powder Coating
 
@@ -126,10 +126,11 @@ Vapor corrosion inhibitors (VCI) are special chemicals that are infused in diffe
 
 ###  Using Alloy
 
-Using iron alloy such as stainless steel is the best way of preventing rusting since the metal is manufactured with rust-resistant properties. However, stainless steel may not be economical (a bit expensive) and hence may not be popular with many users. > See Also: > [Removing Paint from Metal Door](https: //pestpolicy. com/how-to-remove-paint-from-metal-door/)
+Using iron alloy such as stainless steel is the best way of preventing rusting since the metal is manufactured with rust-resistant properties. However, stainless steel may not be economical (a bit expensive) and hence may not be popular with many users. > See Also: > [Removing Paint from Metal Door](https://pestpolicy.com/how-to-remove-paint-from-metal-door/)
 
 ##  Conclusion
 
 The question, how does oiling prevent rusting has been discussed in-depth in this article not only to add to the knowledge bank but also to boost your rust prevention tactics. Rust is generally known as corrosion or oxidation of iron metal in presence of water and oxygen. The reddish-brown substance you saw on naked metal is actually rust. Oiling metal prevents rusting by forming an oil coat layer that resists water and oxygen penetration.
 
 Moreover, the oil coat prevents other external conditions, which accelerates the rusting process, from reaching the metal surface. Alternatively, you can also prevent rusting by painting, galvanizing, VCI packaging, blueing, sacrificial protection, or alloying. Remember, you must consider the surface or parts that you want to prevent rusting for easier method matching.
+

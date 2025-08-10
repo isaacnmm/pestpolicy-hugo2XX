@@ -1,4 +1,4 @@
----
+﻿---
 title: How to Identify and Get Rid Of June Bugs
 description: June bugs can be a nuisance in your garden and around your home, but identifying and controlling them is possible with the right strategies.
 slug: /how-to-identify-and-get-rid-of-june-bugs/
@@ -39,3 +39,4 @@ June bugs are typically brown or reddish-brown with a hard, shiny shell. They ar
 - **Maintain Healthy Soil**: Regularly aerate and fertilize your soil to discourage June bug larvae from taking hold. - **Reduce Nighttime Lighting**: Limit outdoor lighting at night to avoid attracting adult June bugs. - **Monitor Plants Regularly**: Keep an eye on your garden and take action at the first signs of damage.
 
 With these methods, you can effectively control and prevent June bug infestations, ensuring your garden remains healthy and thriving.
+

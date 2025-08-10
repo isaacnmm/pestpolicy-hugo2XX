@@ -1,4 +1,4 @@
----
+﻿---
 title: Best Self Propelled Lawn Mowers Under 300
 description: Lawn care doesnt have to be an endeavour that blows your budget or breaks your bank with the advent of the best self propelled mower under 300. If you own a...
 slug: /best-self-propelled-lawn-mowers-under-300/
@@ -143,3 +143,4 @@ At the same time, powerful engines tend to be less economical if you are dealing
 ##  Conclusion
 
 After searching through the available self-propelled models, my ideal choice is the Troy-Bilt TB37O 163cc 21 RWD self-propelled mower. This units 8 by 8 wheels are heavy duty and designed for tackling the toughest terrains. A four-speed setting offers optimal performance in the toughest conditions.
+

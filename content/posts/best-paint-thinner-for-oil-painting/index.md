@@ -1,4 +1,4 @@
----
+﻿---
 title: Best Paint Thinner for Oil Painting
 description: Have you had a difficult time choosing an oil thinner for your oil paints? We're going to talk about all your options - the best paint thinner for oil painting.
 slug: /best-paint-thinner-for-oil-painting/
@@ -14,7 +14,7 @@ tags:
 layout: post
 ---
 
-Have you had a difficult time choosing an oil thinner for your oil paints? We're going to talk about all your options - the best [paint](https: //pestpolicy. com/best-oil-based-primer-for-cabinets/) thinner for [oil](https: //pestpolicy. com/best-paint-brushes-for-oil-based-paint/) painting. All these paints can be used both to clean the brushes and thin your oil paints.
+Have you had a difficult time choosing an oil thinner for your oil paints? We're going to talk about all your options - the best [paint](https://pestpolicy.com/best-oil-based-primer-for-cabinets/) thinner for [oil](https://pestpolicy.com/best-paint-brushes-for-oil-based-paint/) painting. All these paints can be used both to clean the brushes and thin your oil paints.
 
 You must know how to mix the paints with the right medium - the paint in your tube could be very stiff and thus thinning it down will make it simpler to work with. So, for both noob oil painters or expert professionals, get yourself a great oil solvent - it'll act both as paint thinner while also speeding up the paint drying process. See Also: Sprayer for Interior Walls.
 
@@ -64,7 +64,7 @@ After pouring the product onto some tiny bowl and cup, and dip the blending nub 
 
 Cons: - None
 
-> See Also: > [Paint Sprayer for Walls and Ceilings](https: //pestpolicy. com/best-paint-sprayer-for-walls-and-ceilings/)
+> See Also: > [Paint Sprayer for Walls and Ceilings](https://pestpolicy.com/best-paint-sprayer-for-walls-and-ceilings/)
 
 ###  [4. Citra Solv 8 Removes Wax, Grease, Oil, Gum, and Adhesives](https://www.amazon.com/dp/B00MC6E1AA/?tag=p-policy-20)
 
@@ -79,3 +79,4 @@ The eco-friendly Citra Solv 8 thinner is excellently used as a substitute for va
 ##  Conclusion
 
 The best paint thinner for oil painting is safe and will leave that aromatherapy - varnishes, resins, various painting mediums. It is a nontoxic option to the turpentine product - plus it offers excellent performance.
+

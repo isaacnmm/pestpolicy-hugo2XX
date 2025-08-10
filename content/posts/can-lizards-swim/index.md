@@ -1,4 +1,4 @@
----
+﻿---
 title: Can Lizards Swim
 description: Could be you have come across lizards in a pond, river, sea, ocean, or stagnant water at your home and wonder how they move about.
 slug: /can-lizards-swim/
@@ -24,7 +24,7 @@ Lizard, they're vertebrates, such as Marine Iguanas can swim in deep seas or oce
 
 Lizards can swim. The swimming capability varies from one species to another and is determined by body size, shape and length of the tail. Some lizard species such as Gecko and skinks can walk or run on the water bodies. Marine Iguana lizards are known to swim in deep waters and can hold its breath for over 45 minutes while feeding on its prey at the floor of sea or ocean.
 
-Lizard such as sandfish or [saharan lizard](https: //www. nytimes. com/2009/07/21/science/21obsand. html) can swim even on sand instead of walking.
+Lizard such as sandfish or [saharan lizard](https://www.nytimes. com/2009/07/21/science/21obsand. html) can swim even on sand instead of walking.
 
 ###  1. Mechanisms used by Lizards to Swim.
 
@@ -40,7 +40,7 @@ The Lizard is able to move vertically upward while using the font legs/limbs, wh
 
 The Iguana, Bearded dragon, Komodo dragon and Asian water monitor lizards are known to swim deep in the sea or ocean waters in search of food. Once the lizard gets its tail detached, it may not be possible to swim well and may get drowned in most cases.
 
-Related: [Do Lizards Have Bones? ](https: //pestpolicy. com/do-lizards-have-bones/)
+Related: [Do Lizards Have Bones? ](https://pestpolicy.com/do-lizards-have-bones/)
 
 ###  2. Distance that Lizard can swim.
 
@@ -70,7 +70,7 @@ The following are adaptation of lizards to swimming. Lizards have web skin betwe
 
 The dorsal/back of the lizards protrude upwards slightly from the head to tail.
 
-This prevent lizards from rolling due to water current acts as side breaks. 5. The lower part of the mouth of the lizards is large and act as reservoir for air when they are under the water. Related: [Do Lizards Have Teeth? ](https: //pestpolicy. com/do-lizards-have-teeth/)
+This prevent lizards from rolling due to water current acts as side breaks. 5. The lower part of the mouth of the lizards is large and act as reservoir for air when they are under the water. Related: [Do Lizards Have Teeth? ](https://pestpolicy.com/do-lizards-have-teeth/)
 
 ##  Can Baby Lizard Swim?
 
@@ -104,7 +104,7 @@ Large lizards such as Tree crocodile Monitor can swim for 30 to 60 minutes conti
 
 Lizards are able to swim longer while on the water surface than when under water since they can shoot their head often to blow and take more air.
 
-Related: [Are Lizards Poisonous? ](https: //pestpolicy. com/are-lizards-poisonous/)
+Related: [Are Lizards Poisonous? ](https://pestpolicy.com/are-lizards-poisonous/)
 
 ##  **Can Lizards Walk On Water?**
 
@@ -124,4 +124,5 @@ Some lizards such as gecko can walk and run on water. Baby lizards can swim thou
 
 ##  Sources:
 
-1. [Scuba-diving lizard can stay underwater for at least 16 minutes](https: //www. newscientist. com/article/2189067-scuba-diving-lizard-can-stay-underwater-for-at-least-16-minutes/) 2. [Lizard Swims Like Snake Through Sand Live Science](https: //www. livescience. com/5577-lizard-swims-snake-sand. html)
+1. [Scuba-diving lizard can stay underwater for at least 16 minutes](https://www.newscientist. com/article/2189067-scuba-diving-lizard-can-stay-underwater-for-at-least-16-minutes/) 2. [Lizard Swims Like Snake Through Sand Live Science](https://www.livescience. com/5577-lizard-swims-snake-sand. html)
+

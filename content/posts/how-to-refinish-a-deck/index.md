@@ -1,4 +1,4 @@
----
+﻿---
 title: How to Refinish a Deck
 description: If your deck is faded or bleached then, refinishing is urgently required to restore its initial beauty. On how to refinish a deck - select the material and...
 slug: /how-to-refinish-a-deck/
@@ -30,7 +30,7 @@ For quality deck finish, you may consider sealing the final paint coat with Thom
 
 ###  Step1: Pre-surface Cleaning
 
-- Wear protective gear gloves, boots, respirator, overall, and goggles for safety purposes - Sweep the deck surface with a broom to eliminate dust and surface debris - Mop or[pre-clean the deck](https: //pestpolicy. com/how-to-clean-a-deck-before-staining/)with water and soap if need be
+- Wear protective gear gloves, boots, respirator, overall, and goggles for safety purposes - Sweep the deck surface with a broom to eliminate dust and surface debris - Mop or[pre-clean the deck](https://pestpolicy.com/how-to-clean-a-deck-before-staining/)with water and soap if need be
 
 ###  Step 2: Stripping of old paint/stain
 
@@ -64,7 +64,7 @@ More so, the deck found in a sunny environment should be primed with lighter/tra
 
 ###  Step 8: Re-staining Deck
 
-- Dip the paintbrush into the primed solvent and load it appropriately - Cut off the excess primer - Apply the primer back and forth - Repeat the[deck staining steps](https: //pestpolicy. com/how-to-stain-a-deck-for-the-first-time/)above until the entire surface is well-primed - Leave the primer to dry to touch NB: Avoid overloading the paintbrush as it causes drains or runs on the deck surface.
+- Dip the paintbrush into the primed solvent and load it appropriately - Cut off the excess primer - Apply the primer back and forth - Repeat the[deck staining steps](https://pestpolicy.com/how-to-stain-a-deck-for-the-first-time/)above until the entire surface is well-primed - Leave the primer to dry to touch NB: Avoid overloading the paintbrush as it causes drains or runs on the deck surface.
 
 ###  Step 9: Selecting and Preparation of Finish Paint
 
@@ -80,7 +80,7 @@ For a deck located in the dusty region, cover the surface with a polyethylene ba
 
 ##  How to Seal Your Deck for Protection
 
-Sealing deck after finish coat application is important as it improves decks surface life and [prevents peeling](https: //pestpolicy. com/how-to-paint-a-deck-with-peeling-paint/) and scuffing, which is paramount in wet and dry areas.
+Sealing deck after finish coat application is important as it improves decks surface life and [prevents peeling](https://pestpolicy.com/how-to-paint-a-deck-with-peeling-paint/) and scuffing, which is paramount in wet and dry areas.
 
 To carry out the deck paint sealing process, will need to follow the steps/procedure (with the materials and tools) highlighted below: - A paint sealer and thinner - A roller or a paintbrush - Blower and respirator - Dust coat and gloves - Goggles and boots - Paint sprayer and rag - Waterpoint and an empty bucket
 
@@ -105,3 +105,4 @@ Leave the sealed surface to dry naturally. You can sprinkle water over the seale
 In summary, on how to refinish a deck, you begin by selecting the material and tools required, pre-cleaning the surface, stripping old paint, sanding, washing, repairing, and filling damaged sections before carrying out final polishing. - Further, you need to choose and prepare deck stain appropriately, re-stain the deck, select and prepare the finish paint, and re-paint the deck (using a roller or a paintbrush).
 
 In order to achieve a quality deck finish, its advisable to consider sealing the finish paint coat with Thompsons sealer.
+

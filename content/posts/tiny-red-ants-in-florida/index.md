@@ -1,4 +1,4 @@
----
+﻿---
 title: Tiny Red Ants in Florida
 description: Most homeowners in Florida have experienced the tiny Red Ants challenge - this is among other 49 ant species such as red fire ant, carpenter ant , and ghost...
 slug: /tiny-red-ants-in-florida/
@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 
-Most homeowners in Florida have experienced the tiny Red Ants challenge - this is among other 49+ ant species such as [red fire ant, carpenter ant](https: //pestpolicy. com/carpenter-ants-vs-fire-ants), and ghost ants. **Some of the tiny ants that wreak havoc in the Florida area include the yellow ant, black ant, sugar ant, and pharaoh ant.
+Most homeowners in Florida have experienced the tiny Red Ants challenge - this is among other 49+ ant species such as [red fire ant, carpenter ant](https://pestpolicy.com/carpenter-ants-vs-fire-ants), and ghost ants. **Some of the tiny ants that wreak havoc in the Florida area include the yellow ant, black ant, sugar ant, and pharaoh ant.
 
 Despite that these tiny ants may look harmless, I've noted that they'll bite humans and pets to leave so much pain - you'll be left treating the ant bites.
 
@@ -25,7 +25,7 @@ Despite that these tiny ants may look harmless, I've noted that they'll bite hum
 
 ###  1. Yellow Ants
 
-Unlike the carpenter ant and black ant that have been in Florida for a long time, the yellow ant is a new ant species in that location that arrived in 2017 - [as outlined by scientists](http: //www. miamiherald. com/news/local/community/broward/article184758688. html). - The yellow ants are tiny and came from Madagascar - they're thought to have arrived during Hurricane Irma, especially from South and Caribbean America.
+Unlike the carpenter ant and black ant that have been in Florida for a long time, the yellow ant is a new ant species in that location that arrived in 2017 - [as outlined by scientists](http://www.miamiherald. com/news/local/community/broward/article184758688. html). - The yellow ants are tiny and came from Madagascar - they're thought to have arrived during Hurricane Irma, especially from South and Caribbean America.
 
 These ants measure about 1/16th inches with their food being honeydew and flower nectar - all of which are dropped by the insects that suck sap. - However the yellow and ants won't sting or bite - but they'll spread and grow their colony very fast and hence when you see them in your Florida home, they may already have taken over the house.
 
@@ -35,9 +35,7 @@ For the removal of these yellow ants from your Florida home or elsewhere, I reco
 
 ###  2. Carpenter Ants
 
-The Carpenter Ants scientifically referred to as then Camponotus floridanus are comparable in size and shape to the [Fire Ants](https: //pestpolicy. com/best-fire-ant-killer-for-lawns/) and Big-Headed Ants since they love protein diet as opposed to carbohydrates. - [Carpenter Ants are attracted](https: //pestpolicy.
-
-com/what-attracts-carpenter-ants-in-a-home/)and will nest inside rotten wood attacking termites while also feeding on the termite eggs.
+The Carpenter Ants scientifically referred to as then Camponotus floridanus are comparable in size and shape to the [Fire Ants](https://pestpolicy.com/best-fire-ant-killer-for-lawns/) and Big-Headed Ants since they love protein diet as opposed to carbohydrates. - [Carpenter Ants are attracted](https://pestpolicy.com/what-attracts-carpenter-ants-in-a-home/)and will nest inside rotten wood attacking termites while also feeding on the termite eggs.
 
 The large-sized carpenter ants will mainly be active in the early morning or late nights - they'll easily hide under the house or in the attics - and thus it might be challenging to locate these ant nests. - These bugs will thus contribute to the destruction of structures such as house foundations and attic materials while also causing painful and powerful bites in humans.
 
@@ -61,7 +59,7 @@ Further, these ants don't sting or bite.
 
 You'll also notice that the dirt piles and nests will be found between pavers and sidewalks. The crawling ants and also the workers of the Big Headed Ant will equally be found on the crevices and cracks ad they feed on food remains of juices, fruit, pet food, peanut butter, molasses, liver, grease, and also meat which may be in the storage cabinets or the kitchens.
 
-[Controlling the Big Headed Ants](https: //pestpolicy. com/how-to-rid-your-home-of-big-headed-ants/); You can prevent the growth or infestation of the Big-Headed Ants in your Florida home is to ensure that all the pet food and human food wi remain well sealed.
+[Controlling the Big Headed Ants](https://pestpolicy.com/how-to-rid-your-home-of-big-headed-ants/); You can prevent the growth or infestation of the Big-Headed Ants in your Florida home is to ensure that all the pet food and human food wi remain well sealed.
 
 - Keeping the food containers air-tight will avoid attracting the ants with the scent while also avoiding spillage You should also screen or caulk any window, or baseboard cracks and holes that the ants might be using to forage in the house.
 
@@ -76,3 +74,4 @@ You'll notice that the ants are black or brown-colored with a dark abdomen. - Th
 ##  Conclusion
 
 The tiny red ants in Florida are pharaoh ants (comparable to Thief ants), Yellow Ants, Fire Ants, Big Headed Ants, Carpenter Ants. - The pharaoh ants are about the length of 1/16-inch, red to light yellow in color, and have some black marking on their abdomen - and 3 body segments and also an antennal club.
+

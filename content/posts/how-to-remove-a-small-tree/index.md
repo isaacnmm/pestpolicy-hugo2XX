@@ -1,4 +1,4 @@
----
+﻿---
 title: How to Remove a Small Tree
 description: Removing a small tree from your yard can seem like a daunting task, but for trees that are genuinely small and pose minimal risk, it's a manageable DIY...
 slug: /how-to-remove-a-small-tree/
@@ -39,7 +39,7 @@ At a minimum, you'll need: * Safety glasses or a face shield * Work gloves * Lon
 
 ##  Step 2: Cut Down the Tree
 
-The method for felling a small tree involves two main cuts: a "notch" (or "hinge") cut and a "felling" cut. This creates a hinge that [guides](https: //pestpolicy. com/10-trees-to-grow-in-containers/) the [tree](https: //pestpolicy. com/can-i-plant-trees-and-shrubs-in-late-fall-or-winter/)'s fall.
+The method for felling a small tree involves two main cuts: a "notch" (or "hinge") cut and a "felling" cut. This creates a hinge that [guides](https://pestpolicy.com/10-trees-to-grow-in-containers/) the [tree](https://pestpolicy.com/can-i-plant-trees-and-shrubs-in-late-fall-or-winter/)'s fall.
 
 1. **Make the Notch Cut (Directional Cut): ** * This cut determines the direction the tree will fall. It should be made on the side of the tree facing your desired fall direction. * **First Cut (Top of Notch): ** Make a downward-sloping cut into the trunk, going about one-third of the way through the trunk's diameter. Aim for a 45-degree angle.
 
@@ -108,3 +108,4 @@ The cost of professional tree removal, especially for a small tree, is often a w
 **Q: Do I need a permit to remove a small tree? ** A: In most residential areas, you typically do not need a permit to remove a small tree from your own property, especially if it's ornamental or a non-native species. However, always check with your local city or county council to be sure, particularly if you live in a conservation area or if the tree is a protected species.
 
 **Q: How do I dispose of the tree after removal? ** A: For small trees, you can often cut branches into manageable pieces for green waste collection. Larger logs can be cut for firewood (if you have a fireplace or someone who wants them) or taken to a local refuse site that accepts yard waste. Some tree service companies will chip smaller branches into mulch that you can use in your garden.
+

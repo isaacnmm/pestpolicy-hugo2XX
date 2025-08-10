@@ -1,4 +1,4 @@
----
+﻿---
 title: How to Remove Soot from Walls
 description: Usually, kitchen walls and burnt surfaces are left with soot that kills the initial aesthetic appearance. Removing soot and oil stains-paint requires a...
 slug: /how-to-remove-soot-from-walls/
@@ -14,7 +14,7 @@ tags:
 layout: post
 ---
 
-Usually, kitchen walls and burnt surfaces are left with soot that kills the initial aesthetic appearance. Removing soot and [oil stains](https: //pestpolicy. com/how-to-remove-oil-stains-from-[wall](https: //pestpolicy. com/3d-wall-painting-for-your-bedroom/)-paint/) requires a professional approach and appropriate method.
+Usually, kitchen walls and burnt surfaces are left with soot that kills the initial aesthetic appearance. Removing soot and [oil stains](https://pestpolicy.com/how-to-remove-oil-stains-from-[wall](https://pestpolicy.com/3d-wall-painting-for-your-bedroom/)-paint/) requires a professional approach and appropriate method.
 
 *On how to remove soot from walls; whether concrete or wooden walls, use either trisodium phosphate, rubbing alcohol and melamine sponge, commercial soot remover, sandblasting, and detergent, vacuuming, or using a degreaser. * *Alternatively, you opt to use homemade soot removers such as mineral spirit, baking soda, vinegar, or dish soap solution.
 
@@ -64,9 +64,7 @@ See Also: Removing Paint from Metal Door.
 
 Degreaser contains a complex structural formulation that breaks soot into simple molecular fluid, which is more comfortable to remover. Besides, the solvent kills adhesive forces between soot and wall surface thus enhancing the removal process.
 
-The tools and materials required are: - Degreaser and container - Sponge or a piece of cloth - Waterpoint and soap **Steps to Follow** - Thin degreaser in a bucket accordingly use manufacturers instructions - Using a sponge or a piece of cloth, apply degreaser over the soot-stained wall, gently - Leave the solvent to cure for 10 minutes - Scrub the wall with a piece of cloth until the soot is full cleaned - Then, wash the wall with soapy water to remove traces of degreaser - Rinse the wall with clean water and leave it to dry naturally > See Also: > [Removing Spray Paint from Concrete](https: //pestpolicy.
-
-com/how-to-remove-spray-paint-from-concrete/)
+The tools and materials required are: - Degreaser and container - Sponge or a piece of cloth - Waterpoint and soap **Steps to Follow** - Thin degreaser in a bucket accordingly use manufacturers instructions - Using a sponge or a piece of cloth, apply degreaser over the soot-stained wall, gently - Leave the solvent to cure for 10 minutes - Scrub the wall with a piece of cloth until the soot is full cleaned - Then, wash the wall with soapy water to remove traces of degreaser - Rinse the wall with clean water and leave it to dry naturally > See Also: > [Removing Spray Paint from Concrete](https://pestpolicy.com/how-to-remove-spray-paint-from-concrete/)
 
 ##  Best Homemade Soot Remover from Wall
 
@@ -110,10 +108,11 @@ Contract a professional soot remover if you are new to the soot removal process 
 
 Before using commercial soot removers, always check the expiry date never use an expired product.
 
-> See Also: > [Removing that Latex Paint from Concrete](https: //pestpolicy. com/how-to-remove-latex-paint-from-concrete/)
+> See Also: > [Removing that Latex Paint from Concrete](https://pestpolicy.com/how-to-remove-latex-paint-from-concrete/)
 
 ##  Conclusion
 
 To summarize, on how to remove soot from walls, you can either use trisodium phosphate, rubbing alcohol and melamine sponge, commercial soot remover, sandblasting and detergent, vacuuming or using a degreaser. Besides, you can opt to consider homemade soot removers like mineral spirit, baking soda, vinegar, or dish soap solution, which work sufficiently well.
 
 However, during the soot removal process, prepare the solvent appropriately (follow manufacturers instruction) and avoid excess application as it may cause overspread of soot to adjacent areas.
+

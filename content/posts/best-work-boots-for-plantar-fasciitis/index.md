@@ -1,4 +1,4 @@
----
+﻿---
 title: Best Work Boots for Plantar Fasciitis
 description: Are you searching for the best work boots for plantar fasciitis? Being on your feet working or standing for extended periods may strain the ligaments that...
 slug: /best-work-boots-for-plantar-fasciitis/
@@ -66,7 +66,7 @@ Pros: - Resists heat, abrasion, oil, and slips - Ideal for extreme conditions an
 
 Cons: - A customer complained about its durability
 
-Read Also: [Work Shoes for High Arches](https: //pestpolicy. com/best-work-shoes-for-high-arches/)
+Read Also: [Work Shoes for High Arches](https://pestpolicy.com/best-work-shoes-for-high-arches/)
 
 ###  [4. Wolverine Men's Steel Toe Raider Boot](https://www.amazon.com/dp/B0016CV3AW/?tag=p-policy-20)
 
@@ -78,7 +78,7 @@ The mesh lining, the Lace-up design, and detachable full-cushion insoles deliver
 
 Fantastic Outsoles - The Multishox rubber outsoles on the underfoot will make you appreciate the importance of the right work boot. Why? The outsole absorbs all the ground impact while you walk or stand, Thus, painless arch and foot. The Outsoles are also both oil and slip-resistant. These Multishox work boots are excellent electrical hazard-resistant, helping you to relax when you come into contact with an open circuit.
 
-The underfoot pads are designed to align with each stride you make to give you a more responsive ride. Read Also: [Walking Shoes for High Arches](https: //pestpolicy. com/best-[walking-shoes](https: //pestpolicy. com/best-work-shoes-for-high-arches/)-for-high-arches/)
+The underfoot pads are designed to align with each stride you make to give you a more responsive ride. Read Also: [Walking Shoes for High Arches](https://pestpolicy.com/best-[walking-shoes](https://pestpolicy.com/best-work-shoes-for-high-arches/)-for-high-arches/)
 
 ###  [5. KEEN Utility Men's Flint Mid Work Boot](https://www.amazon.com/dp/B007KAOFLS/?tag=p-policy-20)
 
@@ -100,7 +100,7 @@ Pros: - Highly breathable - Rubber sole - Full grain leather
 
 Cons: - A customer complained that its not incredibly waterproof
 
-Read Also: [Running Shoes For Bad Knees](https: //pestpolicy. com/[best](https: //pestpolicy. com/best-snake-boots-for-hot-weather/)-running-shoes-for-bad-knees/)
+Read Also: [Running Shoes For Bad Knees](https://pestpolicy.com/[best](https://pestpolicy.com/best-snake-boots-for-hot-weather/)-running-shoes-for-bad-knees/)
 
 ##  Conclusion
 
@@ -109,3 +109,4 @@ Furthermore, the boots feature Interior steel shanks to give needed stability th
 These Gravel Pit mining boots feature steel toes that are approved by ASTM to give you protection against job site hazards.
 
 Check these Running Socks for Marathon. More safety is guaranteed while wearing this boot with the metatarsal guards that are placed inside the boot for added foot protection.
+

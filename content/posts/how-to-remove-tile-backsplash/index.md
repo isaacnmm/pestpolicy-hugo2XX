@@ -1,4 +1,4 @@
----
+﻿---
 title: How to Remove Tile Backsplash
 description: Are you tired of those tile backsplash? How are you currently dealing with it? If you dont like it, you can still affect those possible changes and put the...
 slug: /how-to-remove-tile-backsplash/
@@ -52,7 +52,7 @@ When you are done, you can later proceed and redo the drywall and another backla
 
 ###  Step 5: Removing the Backlash
 
-After loosening the backlash, you create a possibility of removing the backlash without damaging the drywall - and remember to remove the [spray paint smell](https: //pestpolicy. com/how-to-get-rid-of-spray-paint-smell/). The most convenient and easiest way of removing the backlash is using the tip of the chisel or the 6-in-1 painters tool, lay it at an angle and parallel to the drywall.
+After loosening the backlash, you create a possibility of removing the backlash without damaging the drywall - and remember to remove the [spray paint smell](https://pestpolicy.com/how-to-get-rid-of-spray-paint-smell/). The most convenient and easiest way of removing the backlash is using the tip of the chisel or the 6-in-1 painters tool, lay it at an angle and parallel to the drywall.
 
 Directly hammering the chisel against the wall can easily cause damage and you will incur loss.
 
@@ -66,7 +66,7 @@ Repeat the process until you are done with all the tile. If a chisel has proved 
 
 Ideally, starting grout removal from the edges will also help you work faster and also avoid tile breakages.
 
-A utility knife will be the most preferred tool to remove the grout exposed at the corners as you work along the line to maintain clean work. In case you are having hard times, you can use a heat gun to remove that tough backlash sticking around the edges. See Also: [How to Paint a Stairwell](https: //pestpolicy. com/how-to-paint-a-stairwell/)
+A utility knife will be the most preferred tool to remove the grout exposed at the corners as you work along the line to maintain clean work. In case you are having hard times, you can use a heat gun to remove that tough backlash sticking around the edges. See Also: [How to Paint a Stairwell](https://pestpolicy.com/how-to-paint-a-stairwell/)
 
 ###  Step 6: Repairing the Drywall
 
@@ -78,8 +78,9 @@ In this case, sandpaper with 120 grit is the most appropriate that will give you
 
 The grout which binds the tiles and the drywall together could prove to be cumbersome when cleaning it. A grout scraper would be the most appropriate for such a job. With it, you can maneuver in the ceramics without causing damage to the wall. You can also use it to minimize the cracking of tiles. When removing the tiles, ensure you have a bucket to dump the crumbles if you are nowhere near the dumpsite.
 
-With the laid down cover, cleaning becomes a walk in the park as it recollects the falling grouts and debris making it easier for disposing of. See Also: [Painting Over Non Paintable Caulk](https: //pestpolicy. com/how-to-paint-over-non-paintable-caulk/)
+With the laid down cover, cleaning becomes a walk in the park as it recollects the falling grouts and debris making it easier for disposing of. See Also: [Painting Over Non Paintable Caulk](https://pestpolicy.com/how-to-paint-over-non-paintable-caulk/)
 
 ##  Conclusion
 
 It is clear on how to remove tile backlash from your kitchen, bathroom, or any other part of your house. When dealing with this kind of job, you know how to go about it. Of much importance is to know that this process is a time investment if you really need to have your job smartly done.
+

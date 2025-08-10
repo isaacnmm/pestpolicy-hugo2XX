@@ -1,4 +1,4 @@
----
+﻿---
 title: Pre Emergent Herbicide
 description: A pristine, weed-free lawn is the envy of many homeowners. While post-emergent herbicides tackle weeds that have already sprouted, the truly proactive...
 slug: /pre-emergent-herbicide/
@@ -91,3 +91,4 @@ Pre-emergent herbicides are an indispensable tool in the pursuit of a healthy, w
 The key to unlocking the full power of pre-emergents lies in precise timing, accurate application, and an understanding of the factors that influence their efficacy. Pay close attention to soil temperatures and phenological indicators, and always prioritize reading and following product labels.
 
 When used correctly as part of a comprehensive lawn care program that includes proper mowing, watering, and fertilization, pre-emergent herbicides act as your invisible shield, laying the groundwork for a truly beautiful and low-maintenance lawn.
+

@@ -1,4 +1,4 @@
----
+﻿---
 title: Can You Drown a Spider
 description: Probably there are thousand ways you can kill you can kill a spider in your yard or house. But definitely, most of us know crushing it with a blunt object -...
 slug: /can-you-drown-a-spider/
@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 
-Probably there are thousand ways you can kill you can kill a [spider](https: //pestpolicy. com/do-spiders-have-antennae/) in your yard or house.
+Probably there are thousand ways you can kill you can kill a [spider](https://pestpolicy.com/do-spiders-have-antennae/) in your yard or house.
 
 But definitely, most of us know crushing it with a blunt object - the Hulk smash" technique. But, **can you drown a spider? ** **The simple answer is, No, you cannot drown a spider - as stated by Real Science - but they'll die if submerged in sewer. Spiders have a very low oxygen intake due to their low metabolic rate and thus drowning may take 1-3 hours. ** **But water spider or diving-bell spider can live fully under water.
 
@@ -29,13 +29,13 @@ So, if you're wondering if spiders can actually drown when you flash them them d
 
 Can they crawl or climb back fighting for its life. [caption id="" align="aligncenter" width="474"]
 
-Images Source: [Nbcnews](http: //www. nbcnews. com/id/30348224/ns/technology_and_science-science/t/drowned-spiders-come-back-dead/) [/caption] The truth is: According to the [American Arachnological Society](http: //www. americanarachnology. org/), any spider that's flushed will only drown within 1-3 hours since they have low oxygen intake dude to their low metabolic rate.
+Images Source: [Nbcnews](http://www.nbcnews. com/id/30348224/ns/technology_and_science-science/t/drowned-spiders-come-back-dead/) [/caption] The truth is: According to the [American Arachnological Society](http://www.americanarachnology. org/), any spider that's flushed will only drown within 1-3 hours since they have low oxygen intake dude to their low metabolic rate.
 
-Some spider species sick as [diving bell spider](https: //en. wikipedia. org/wiki/Diving_bell_spider) won't drown easily anyway because they'll create underwater webs which allow gaseous exchange. The webs enable the spider to rise above the water surface once daily - prevents it from being washed away the drain.
+Some spider species sick as [diving bell spider](https://en.wikipedia. org/wiki/Diving_bell_spider) won't drown easily anyway because they'll create underwater webs which allow gaseous exchange. The webs enable the spider to rise above the water surface once daily - prevents it from being washed away the drain.
 
 Therefore, when trying to kill the spiders you should know that some spiders aren't even venomous but will prey on household pests such as mosquitoes.
 
-For example, some spiders [kill malaria-carrying mosquitos](https: //www. cbsnews. com/news/mosquito-assassin-spiders-could-help-fight-malaria/) that may cause [many people annually](https: //www. sciencedirect. com/science/article/pii/S1473309912700646).
+For example, some spiders [kill malaria-carrying mosquitos](https://www.cbsnews. com/news/mosquito-assassin-spiders-could-help-fight-malaria/) that may cause [many people annually](https://www.sciencedirect. com/science/article/pii/S1473309912700646).
 
 ##  You Can't Drown A Spider! - Spider Survives Drowning
 
@@ -43,7 +43,7 @@ For example, some spiders [kill malaria-carrying mosquitos](https: //www. cbsnew
 
 Spiders are crawly, creepy arachnids that have 8 legs that tend terrify kids and adults equally. This is particularly so when one finds themselves attached when in an empty apartment. You might see some black and white spots on the floor - which will mean you'll have to kill the spiders with any way possible. So, below are some of the methods you can use to kill the arachnids.
 
-However, researchers caution against [squashing spiders - they keep a natural ecosystem](https: //www. express. co. uk/news/uk/779681/Scientists-spiders-eat-tonnes-insects-bugs-creepy-crawlies). So, to deal with the arachnids in your boat, house or yard, you'll need to counter the spiders intelligently.
+However, researchers caution against [squashing spiders - they keep a natural ecosystem](https://www.express. co. uk/news/uk/779681/Scientists-spiders-eat-tonnes-insects-bugs-creepy-crawlies). So, to deal with the arachnids in your boat, house or yard, you'll need to counter the spiders intelligently.
 
 ###  1. Use Lady Bugs
 
@@ -51,7 +51,7 @@ You definitely won't like the ladybugs running around the floor spaces. So, you'
 
 Thus putting the ladybugs around your house won't kill the spiders but will keep them off your house's perimeter.
 
-It'll equally work excellently when there many flowers and bushes that are near the windowsills or house foundation. Related: [Do Spiders Have Ears? ](https: //pestpolicy. com/do-spiders-have-ears/)
+It'll equally work excellently when there many flowers and bushes that are near the windowsills or house foundation. Related: [Do Spiders Have Ears? ](https://pestpolicy.com/do-spiders-have-ears/)
 
 ###  2. Use a Spider Spray (Natural)
 
@@ -61,7 +61,7 @@ Further, you'll need to spray the insecticide on the outer side of your house al
 
 ###  **3. Peppermint Oil**
 
-Peppermint oil is hated by many pests including spiders and bed bugs. Notably, the oil has a very harsh smell - particularly for small arachnids and insects like [yellow jackets](https: //www. tipsbulletin. com/how-to-keep-yellow-jackets-away/) and wasps. - Take a plastic bottle and pour some water (for dilution) with the peppermint oil so that it won't irritate your pets and the human skin.
+Peppermint oil is hated by many pests including spiders and bed bugs. Notably, the oil has a very harsh smell - particularly for small arachnids and insects like [yellow jackets](https://www.tipsbulletin. com/how-to-keep-yellow-jackets-away/) and wasps. - Take a plastic bottle and pour some water (for dilution) with the peppermint oil so that it won't irritate your pets and the human skin.
 
 - Next, take the bottle and spray around the house, yard, and perimeter to repel the spiders.
 
@@ -97,7 +97,7 @@ Finally, spray the tobacco-water mixture around the house and perimeter.
 
 ###  9. Use Borax
 
-Finally, borax is the last alternative repellent your can use against spiders. Definitely, [borax is popularly used in repelling ants](https: //pestpolicy. com/borax-for-ants-outside/) but it'll also be effective against spiders. - Take the borax powder and sprinkle it on the routes and areas you suspect will be used by spiders or where they may make their webs.
+Finally, borax is the last alternative repellent your can use against spiders. Definitely, [borax is popularly used in repelling ants](https://pestpolicy.com/borax-for-ants-outside/) but it'll also be effective against spiders. - Take the borax powder and sprinkle it on the routes and areas you suspect will be used by spiders or where they may make their webs.
 
 - In addition, you can sprinkle the powder along the doors, or between the storm windows and window.
 
@@ -107,10 +107,11 @@ So, we've tackled the question - "can you drown a spider? " The response is that
 
 Therefore, these spider willsurvive for longer (over 24 hours) without coming to the water surface.
 
-I've outlined alternative methods you can use to repel spiders from your house - as opposed to killing them since these arachnids assist in maintaining a [balanced ecological environment](https: //www. researchgate. net/profile/Rajeswaran_Jagadeesan/publication/265541377_Role_of_spiders_in_agriculture_and_horticulture_ecosystem/links/5a093bc10f7e9b68229ce8f6/Role-of-spiders-in-agriculture-and-horticulture-ecosystem. pdf).
+I've outlined alternative methods you can use to repel spiders from your house - as opposed to killing them since these arachnids assist in maintaining a [balanced ecological environment](https://www.researchgate. net/profile/Rajeswaran_Jagadeesan/publication/265541377_Role_of_spiders_in_agriculture_and_horticulture_ecosystem/links/5a093bc10f7e9b68229ce8f6/Role-of-spiders-in-agriculture-and-horticulture-ecosystem. pdf).
 
 Some of the methods include using tobacco, borax, and cedar oil.
 
 ##  Sources:
 
-1. [Rearing environment affects behaviour of jumpingspiders](https: //www. sciencedirect. com/science/article/pii/S0003347299912824) 2. [You can save thatspider! ](https: //search. informit. com. au/documentSummary; dn=418204111735627; res=IELHSS) 3. [Brown reclusespiders](https: //books. google. com/books? hl=en&lr=&id=OCypCwAAQBAJ&oi=fnd&pg=PA412&dq=Drown+a+Spider&ots=kd5m99dhqM&sig=2ROtbsX_vuflVmjH85zaFbgitb4)
+1. [Rearing environment affects behaviour of jumpingspiders](https://www.sciencedirect. com/science/article/pii/S0003347299912824) 2. [You can save thatspider! ](https://search.informit. com. au/documentSummary; dn=418204111735627; res=IELHSS) 3. [Brown reclusespiders](https://books.google. com/books? hl=en&lr=&id=OCypCwAAQBAJ&oi=fnd&pg=PA412&dq=Drown+a+Spider&ots=kd5m99dhqM&sig=2ROtbsX_vuflVmjH85zaFbgitb4)
+

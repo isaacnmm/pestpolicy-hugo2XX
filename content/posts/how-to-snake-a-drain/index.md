@@ -1,4 +1,4 @@
----
+﻿---
 title: How to Snake a Drain
 description: How to snake a drain? Sometimes you need a quick fix to your slow-moving drain. Or maybe pouring boiling water down the drain doesn't work anymore? -...
 slug: /how-to-snake-a-drain/
@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 
-How to snake a drain? Sometimes you need a quick fix to your slow-moving drain. Or maybe pouring boiling water down the drain doesn't work anymore? - Well, snaking your drainwould be anexcellent option for this! But, while at it, other options includeusing a plungeror[drain cleaners](https: //pestpolicy. com/best-drain-cleaner//).
+How to snake a drain? Sometimes you need a quick fix to your slow-moving drain. Or maybe pouring boiling water down the drain doesn't work anymore? - Well, snaking your drainwould be anexcellent option for this! But, while at it, other options includeusing a plungeror[drain cleaners](https://pestpolicy.com/best-drain-cleaner//).
 
 In the snaking process, you'd use the drain snake (also known as a drain auger, electric eel, or a toilet jack) to destroy clogs sitting down the drain.
 
@@ -47,9 +47,7 @@ In case of any increased resistance, that means you might have hit a bend in the
 
 Turn the snake anticlockwise and ensure the pipe does not get damaged, and no clogged materials are left behind. Once the snake is fully retrieved, you can use your hands to remove the materials from the drain hooked on the snake; better still, you can use a towel/rag to avoid any harm on the hands and dispose of the unclogged materials in the bucket.
 
-- **Ascertain that drain is unblocked by pouring water down it**- The water will take a few seconds to drain, and afterward, the water will run quickly. - If the water does not drain quickly, then the drainpipe is still blocked. Repeat the snaking process until the clog clears. If the water still doesnt run, you may consider calling a plumber for further assistance. Related: [How the drain cleaners work](https: //pestpolicy.
-
-com/how-drain-cleaners-work/).
+- **Ascertain that drain is unblocked by pouring water down it**- The water will take a few seconds to drain, and afterward, the water will run quickly. - If the water does not drain quickly, then the drainpipe is still blocked. Repeat the snaking process until the clog clears. If the water still doesnt run, you may consider calling a plumber for further assistance. Related: [How the drain cleaners work](https://pestpolicy.com/how-drain-cleaners-work/).
 
 ##  **How does a drain snake work?**
 
@@ -59,10 +57,11 @@ Snaking involves selecting the right type of auger for the drain in question, an
 
 ##  **How to Prevent Drain Clogs**
 
-Here are some few tips to observe that will save you the agony of clogged [drains](https: //pestpolicy. com/best-drain-cleaner/): - You can use a screen tub in the bathroom to prevent the infiltration of unwanted materials into the [drain](https: //pestpolicy. com/best-drain-snakes/) pipe. The screen tub collects the materials the cause clogging, and hence you should be cleaning the screen tub occasionally.
+Here are some few tips to observe that will save you the agony of clogged [drains](https://pestpolicy.com/best-drain-cleaner/): - You can use a screen tub in the bathroom to prevent the infiltration of unwanted materials into the [drain](https://pestpolicy.com/best-drain-snakes/) pipe. The screen tub collects the materials the cause clogging, and hence you should be cleaning the screen tub occasionally.
 
 - In line with the prevention, you can catch unwanted materials in the bathroom, including hairs and soap residues, using hands before they go down the drain.
 
 ##  Conclusion
 
 You can run hot water in the kitchen sink after use to keep oils off the drain, which causes clogging. Also, waste disposal in a trash bin instead of the sink helps keep waste that causes blockages away from the drains.
+

@@ -1,4 +1,4 @@
----
+﻿---
 title: Does Lavender Kill Bed Bugs
 description: I am sitting here in my rented property - and I am at a loss of what to do that'll clear this bed bug infestation. I moved into the house eight months ago!
 slug: /does-lavender-kill-bed-bugs/
@@ -21,15 +21,15 @@ I am sitting here in my rented property - and I am at a loss of what to do that'
 
 ##  Does Lavender Kill Bed Bugs? DIY Bed Bug Removal
 
-No major scientific research points to the effectiveness of lavender in killing bed bugs. This [entomology case study](https: //academic. oup. com/jee/article-abstract/111/1/170/4662900? redirectedFrom=fulltext) points out that essential oils, including lavender, aren't as effective as bed bug sprays. This doesn't mean that all essential oils won't kill bed bugs.
+No major scientific research points to the effectiveness of lavender in killing bed bugs. This [entomology case study](https://academic.oup. com/jee/article-abstract/111/1/170/4662900? redirectedFrom=fulltext) points out that essential oils, including lavender, aren't as effective as bed bug sprays. This doesn't mean that all essential oils won't kill bed bugs.
 
-A [recent Rutgers University study](https: //www. mdpi. com/2075-4450/5/4/849) reported an insecticide made from cedar and geranium oil kill bed bug in a quarter of the treated houses. What about real lavender? Real lavender will repel bed bugs but won't be as effective as a lavender spray. Lavender is proven to poison pets and animals, causing vomiting and nausea.
+A [recent Rutgers University study](https://www.mdpi. com/2075-4450/5/4/849) reported an insecticide made from cedar and geranium oil kill bed bug in a quarter of the treated houses. What about real lavender? Real lavender will repel bed bugs but won't be as effective as a lavender spray. Lavender is proven to poison pets and animals, causing vomiting and nausea.
 
 However, bed bugs will wittingly move around the real lavender, and thus they won't get to ingest it - remember, bed bugs are only about 1/4 inch in body size.
 
 ##  How DoesLavender Repel Bed Bugs?
 
-However, for lavender, [bed bugs](https: //pestpolicy. com/what-animals-eat-[bed-bugs](https: //pestpolicy. com/does-baby-powder-kill-bed-bugs/)/) will mainly react to its harsh smell instead of being toxic to their bodies. Naturally, bed bugs will escape from any unique smell - as a defense mechanism. For example, these bloodsuckers will escape when they small a new body scent, pesticides, or desiccant dust.
+However, for lavender, [bed bugs](https://pestpolicy.com/what-animals-eat-[bed-bugs](https://pestpolicy.com/does-baby-powder-kill-bed-bugs/)/) will mainly react to its harsh smell instead of being toxic to their bodies. Naturally, bed bugs will escape from any unique smell - as a defense mechanism. For example, these bloodsuckers will escape when they small a new body scent, pesticides, or desiccant dust.
 
 Thus, lavender would only be useful if you spray all the house areas - this is impossible.
 
@@ -45,16 +45,17 @@ Hence, it won't repel bed bugs entirely or cause allergy on humans - even when i
 
 ##  Does Lavender Powder Kill Bed Bugs?
 
-Next, we consider lavender powder -, this is a powder of the real lavender powered that's dried and then pounded. It is also available commercially in different stores. However, like the candles, the lavender powder will repel the bloodsuckers but will not kill [bed bugs like diatomaceous earth](https: //pestpolicy. com/does-diatomaceous-earth-kill-bed-bugs/) - DE will suck the insect's body fluids.
+Next, we consider lavender powder -, this is a powder of the real lavender powered that's dried and then pounded. It is also available commercially in different stores. However, like the candles, the lavender powder will repel the bloodsuckers but will not kill [bed bugs like diatomaceous earth](https://pestpolicy.com/does-diatomaceous-earth-kill-bed-bugs/) - DE will suck the insect's body fluids.
 
 Therefore, despite being highly concentrated, the lavender powder won't kill bed bugs because they won't get to ingest it. However, the lavender powder would work for longer in repelling bed bugs since it'll stick on different surfaces.
 
 ##  Does Lavender Dryer Sheets Kill Bed Bugs?
 
-Lavender dryer sheets wont work to kill bed bugs! Sadly so, but thats the fact, just like it is with lavender sprays or powders. However, lavender dryer sheets will only repel the bed bugs. In short, the dryer sheets are only sheets passed through a dryer and have a pleasant scent of your fabrics or clothes. But, this wont kill the [bloodsucking bed bugs](https: //pestpolicy. com/can-bed-bugs-get-in-your-hair/).
+Lavender dryer sheets wont work to kill bed bugs! Sadly so, but thats the fact, just like it is with lavender sprays or powders. However, lavender dryer sheets will only repel the bed bugs. In short, the dryer sheets are only sheets passed through a dryer and have a pleasant scent of your fabrics or clothes. But, this wont kill the [bloodsucking bed bugs](https://pestpolicy.com/can-bed-bugs-get-in-your-hair/).
 
 Interestingly, these Lavender producers might not also be using the real Lavender explains why the products will only repel the bed bugs and not kill them. Practically, youll not cover all the surfaces of your house.
 
 ##  Sources:
 
-1. [Rutgers Study - Home Treatments for Bed Bugs](https: //citybugs. tamu. edu/2014/12/18/diy-bed-bug-control/)
+1. [Rutgers Study - Home Treatments for Bed Bugs](https://citybugs.tamu. edu/2014/12/18/diy-bed-bug-control/)
+

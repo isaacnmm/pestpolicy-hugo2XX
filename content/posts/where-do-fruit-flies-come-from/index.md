@@ -1,4 +1,4 @@
----
+﻿---
 title: Where Do Fruit Flies Come from
 description: Could fruit flies have disturbed you in your place? Do you wonder where they may have come from or how long they live ? In this article, I will be answering...
 slug: /where-do-fruit-flies-come-from/
@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 
-Could [fruit](https: //pestpolicy. com/how-long-do-fruit-flies-live/) [flies](https: //pestpolicy. com/how-do-you-keep-horse-flies-away-naturally/) have disturbed you in your place? Do you wonder where they may have come from or [how long they live](https: //pestpolicy. com/how-long-do-fruit-flies-live/)?
+Could [fruit](https://pestpolicy.com/how-long-do-fruit-flies-live/) [flies](https://pestpolicy.com/how-do-you-keep-horse-flies-away-naturally/) have disturbed you in your place? Do you wonder where they may have come from or [how long they live](https://pestpolicy.com/how-long-do-fruit-flies-live/)?
 
 In this article, I will be answering this question in depth.
 
@@ -160,3 +160,4 @@ Dirty dishes causes a lot of fruit flies attraction. Dished that accumulate duri
 Fruit flies are very small insects that come from bush hideouts into the house through windows and doors; from Vegetable, fruit trees and flowers, from rotting of fermenting food stuff in the house; from groceries through food brought into the house or from whether change in an area that provides a room for their growth.
 
 These flies works best in dim light at dusk or dawn. It is necessary to prevent fruit flies using appropriate ways given. Fruit flies are irritate but you can get rid of them or prevent.
+

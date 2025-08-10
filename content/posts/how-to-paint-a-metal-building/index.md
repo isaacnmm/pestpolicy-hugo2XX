@@ -1,4 +1,4 @@
----
+﻿---
 title: How to Paint a Metal Building
 description: Metal structures and buildings are emerging trends in the construction industry. Whether the building is temporary or permanent, painting is paramount in...
 slug: /how-to-paint-a-metal-building/
@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 
-[Metal](https: //pestpolicy. com/can-you-use-acrylic-paint-on-metal/) structures and buildings are emerging trends in the construction industry. Whether the building is temporary or permanent, painting is paramount in creating an impressive outlook and adding aesthetic value in the vicinity.
+[Metal](https://pestpolicy.com/can-you-use-acrylic-paint-on-metal/) structures and buildings are emerging trends in the construction industry. Whether the building is temporary or permanent, painting is paramount in creating an impressive outlook and adding aesthetic value in the vicinity.
 
 *On how to paint a metal building - select materials and tools required, strip old paints and rust (if any), prep the surface, select and prepare the primer, apply primer, select and prepare finish paint, and apply the final coat before leaving it to dry naturally. * *Further, you must match the undercoat paint with the right primer to avoid peeling and chipping, which is common due to poor application method.
 
@@ -65,13 +65,13 @@ Be keen not to cause further damage - Go to the interior part and polish the met
 
 ###  g. Smooth Finish
 
-- Gently, dip the paintbrush in the light finish paint and a correct section that have an uneven color appearance. - Eliminate drains and runs from the surface by using a soft bristle paintbrush - Leave the surface to attain the final solid paint layer naturally Usually, a [paint sprayer](https: //pestpolicy. com/how-to-spray-paint-metal/) delivers the best quality paint finish on a metal building.
+- Gently, dip the paintbrush in the light finish paint and a correct section that have an uneven color appearance. - Eliminate drains and runs from the surface by using a soft bristle paintbrush - Leave the surface to attain the final solid paint layer naturally Usually, a [paint sprayer](https://pestpolicy.com/how-to-spray-paint-metal/) delivers the best quality paint finish on a metal building.
 
 The paint sprayer is economical when used on commercial paint application. However, the running cost is higher for small-scale painting tasks.
 
 ##  What are the Advantages of Painting a Metal Building?
 
-Painting metal your metal building is important as its accompanied by the following advantages: 1. Painting prevents metal from[rusting](https: //pestpolicy. com/best-paint-for-metal-garage-door/). Rust occurs due to a reaction between metal and oxygen in presence of water or moisture. Rust is a common problem that affects metal structures and buildings by slow corrosion and disintegration if not attended. 2.
+Painting metal your metal building is important as its accompanied by the following advantages: 1. Painting prevents metal from[rusting](https://pestpolicy.com/best-paint-for-metal-garage-door/). Rust occurs due to a reaction between metal and oxygen in presence of water or moisture. Rust is a common problem that affects metal structures and buildings by slow corrosion and disintegration if not attended. 2.
 
 Improves the outlook impression and boost the aesthetic value of the metal building. 3.
 
@@ -86,3 +86,4 @@ In conclusion, about how to paint a metal building, you begin by selecting mater
 Besides, youll have to match the undercoat paint with the right primer in order to avoid peeling and chipping, which is common due to poor application method.
 
 For safety purposes, consider wearing the protective gears and adhere to precautions given in this article during paint application. Importantly, select the best paint application method as per the size of your metal building.
+

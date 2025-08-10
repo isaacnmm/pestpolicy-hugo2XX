@@ -1,4 +1,4 @@
----
+﻿---
 title: Weeds That Look Like Grass
 description: For homeowners striving for a pristine lawn, few things are as frustrating as the subtle infiltration of weeds that camouflage themselves perfectly within the...
 slug: /weeds-that-look-like-grass/
@@ -46,7 +46,7 @@ Others, like Goosegrass, tend to grow very flat and low to the ground, making th
 
 * **Growth Rate: ** Some grassy weeds, particularly in warmer temperatures, grow much faster than your desirable turf, causing them to stand out above the mowed lawn shortly after cutting.
 
-Taking a small sample of the suspect grass, observing its growth over a few days, and comparing it to known [weed](https: //pestpolicy. com/applying-weed-and-feed-products-to-st-augustine-grass/) characteristics (using online resources or a local extension office) can help confirm your identification.
+Taking a small sample of the suspect grass, observing its growth over a few days, and comparing it to known [weed](https://pestpolicy.com/applying-weed-and-feed-products-to-st-augustine-grass/) characteristics (using online resources or a local extension office) can help confirm your identification.
 
 ##  Annual Grassy Weeds
 
@@ -123,3 +123,4 @@ The battle against weeds that look like grass is often a persistent one, demandi
 The most effective defense against grassy weeds is a thick, healthy, and properly maintained lawn. Prioritizing correct mowing height, smart fertilization, and consistent watering will empower your desirable turfgrass to outcompete and suppress these undesirable guests. When chemical controls are necessary, accurate identification and precise application of the right products are paramount.
 
 With patience and consistent effort, you can ensure that your lawn remains a uniform, vibrant carpet of green, free from the disguise of grassy weeds.
+

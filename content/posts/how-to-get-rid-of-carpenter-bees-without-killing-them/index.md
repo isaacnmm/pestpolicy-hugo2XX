@@ -1,4 +1,4 @@
----
+﻿---
 title: How to Get Rid Of Carpenter Bees Without Killing Them
 description: Unlike bumblehoney bees, carpenter bees do more than just carry out pollination - they bore woods and create nests. Also, female carpenter bees may sting...
 slug: /how-to-get-rid-of-carpenter-bees-without-killing-them/
@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 
-Unlike bumble/honey bees, carpenter [bees](https: //pestpolicy. com/compare-carpenter-bee-vs-bumblebee/) do more than just carry out pollination - they bore woods and create nests. Also, female carpenter bees may sting humans if provokes.
+Unlike bumble/honey bees, carpenter [bees](https://pestpolicy.com/compare-carpenter-bee-vs-bumblebee/) do more than just carry out pollination - they bore woods and create nests. Also, female carpenter bees may sting humans if provokes.
 
 **So, on how to get rid of carpenter bees without killing them; you can install a sacrificial piece of wood, install carpenter bee traps, use a Sweep net, adopt preventive measures like WD-40, or make some noise to scare bees away.
 
@@ -27,9 +27,7 @@ Unlike bumble/honey bees, carpenter [bees](https: //pestpolicy. com/compare-carp
 
 This a device which is weaved or manufactured using a tough loose network that forms a tiny mesh, though which insects such as bees can't pass. - The sweep net comes with a handle or extender, depending on the place you intend to use it. - Hang/pin the sweep net with an opening facing the carpenter bees' nest/holes and create a disturbance from beneath. - As the bees leave to escape, they get trapped in the sweep net.
 
-Later, empty the sweep net in open fields - far away from your home or office. In case you spot flying carpenter bees, use a sweep net with a long handle - swing/sweep the net in the air in order to capture the flying carpenter bees and dispose of them as advised previously. NB: Sweep nets are common in the local market and relatively cheap as compared to options such as vacuuming. Related: [Removing Get Rid of Ground Bees](https: //pestpolicy.
-
-com/how-to-get-rid-of-ground-bees/)
+Later, empty the sweep net in open fields - far away from your home or office. In case you spot flying carpenter bees, use a sweep net with a long handle - swing/sweep the net in the air in order to capture the flying carpenter bees and dispose of them as advised previously. NB: Sweep nets are common in the local market and relatively cheap as compared to options such as vacuuming. Related: [Removing Get Rid of Ground Bees](https://pestpolicy.com/how-to-get-rid-of-ground-bees/)
 
 ###  2. Installing Sacrificial Piece of Wood
 
@@ -73,7 +71,7 @@ A vacuum machine can suck carpenter bees from their nest without killing them, e
 
 NB: Avoid using too much suction pressure as it may kill live bees, especially baby bees.
 
-Related: [Carpenter Bee versus Bumblebee](https: //pestpolicy. com/compare-carpenter-bee-vs-bumblebee/)
+Related: [Carpenter Bee versus Bumblebee](https://pestpolicy.com/compare-carpenter-bee-vs-bumblebee/)
 
 ##  Are Carpenter Bees Dangerous?
 
@@ -148,3 +146,4 @@ In summary, on how to get rid of carpenter bees without killing them, you can us
 - More so, you can spray almond/citrus oil, knock off the bees from their nest, or vacuum the nest and release bees into open fields (far away from your home).
 
 Proper protection gear should be worn when getting rid of bees - for personal safety. Furthermore, if you are new to the task, it's recommended that you contract a bee professional to help you out.
+

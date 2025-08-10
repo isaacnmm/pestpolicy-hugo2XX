@@ -1,4 +1,4 @@
----
+﻿---
 title: Bedlam Plus Bed Bug Spray Review
 description: Hey guys, and welcome. I've reviewed Bedlam Plus bed bug spray - one of our best bed bug sprays in this post. Bedlam Plus residue will continue killing bed...
 slug: /bedlam-plus-bed-bug-spray-review/
@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 
-Hey guys, and welcome. I've reviewed Bedlam Plus bed bug spray - one of our best bed bug sprays in this post. Bedlam Plus residue will continue killing bed bugs for about 4 weeks after application. I note that it's great for carpeting, box springs, and mattresses. - Luckily, [research reports that](https: //www. ncbi. nlm. nih. gov/pmc/articles/PMC4808785/)more than 40 percent of the bed bug die when treated with Bedlam plus.
+Hey guys, and welcome. I've reviewed Bedlam Plus bed bug spray - one of our best bed bug sprays in this post. Bedlam Plus residue will continue killing bed bugs for about 4 weeks after application. I note that it's great for carpeting, box springs, and mattresses. - Luckily, [research reports that](https://www.ncbi. nlm. nih. gov/pmc/articles/PMC4808785/)more than 40 percent of the bed bug die when treated with Bedlam plus.
 
 - For safety when using Bedlam Plus, make sure you read the label instructions. First off, I note that Bedlam will also kill the bed bugs and the eggs resistant to pesticides such as pyrethroids. *So, let's get started! *
 
@@ -33,7 +33,7 @@ While spraying your sofas, you'll need to give special attention to corner crack
 
 ##  #2: My Detailed Review
 
-I've used [many bed bug](https: //pestpolicy. com/are-bed-bug-eggs-hard-or-soft/) control products, and I have to say that Bedlam Plus is definitely one of the best solutions we have out there. So, why and how did I end up selecting Bedlam Plus? - Further, I found that Bedlam Plus was easy to apply (with the ready-to-go applicator) and equally made from natural ingredients.
+I've used [many bed bug](https://pestpolicy.com/are-bed-bug-eggs-hard-or-soft/) control products, and I have to say that Bedlam Plus is definitely one of the best solutions we have out there. So, why and how did I end up selecting Bedlam Plus? - Further, I found that Bedlam Plus was easy to apply (with the ready-to-go applicator) and equally made from natural ingredients.
 
 - Luckily, Bedlam Plus was able tokill even the bed bugsthat had developed immunity against various pesticide ingredients such as pyrethroid. Bedlam Plus didn't stain my clothes and fabrics. Besides that, it won't get waterlogged and won't lose its effectiveness while applied in different areas such as bed bug frames and door frames.
 
@@ -49,4 +49,5 @@ Review of Ortho Home Defense Dual-Action
 
 ###  2.[Bedlam Plus Bed Bug Spray](https://pestpolicy.com/how-to-get-rid-of-bed-bugs-fast/)vs. Proof Bed Bug Spray
 
-[Review of Proof Bed Bug Spray](https: //pestpolicy. com/proof-bed-bug-spray-review/)
+[Review of Proof Bed Bug Spray](https://pestpolicy.com/proof-bed-bug-spray-review/)
+

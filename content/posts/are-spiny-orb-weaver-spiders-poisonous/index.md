@@ -1,4 +1,4 @@
----
+﻿---
 title: Are Spiny Orb Weaver Spiders Poisonous
 description: The Gasteracantha a.k.a spiny spiders, spiny orb-weavers, or spiny-backed orb-weavers  are in the orb-weaver genus of spiders.
 slug: /are-spiny-orb-weaver-spiders-poisonous/
@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 
-The Gasteracantha (a. k. a [spiny spiders, spiny orb-weavers, or spiny-backed orb-weavers](https: //en. wikipedia. org/wiki/Spiny_orb-weaver) ) [are](https: //pestpolicy. com/are-blue-tailed-lizards-poisonous/) in the orb-weaver genus of spiders. The spiders have unique spikes on their backs.
+The Gasteracantha (a. k. a [spiny spiders, spiny orb-weavers, or spiny-backed orb-weavers](https://en.wikipedia. org/wiki/Spiny_orb-weaver) ) [are](https://pestpolicy.com/are-blue-tailed-lizards-poisonous/) in the orb-weaver genus of spiders. The spiders have unique spikes on their backs.
 
 The female Gasteracantha have brightly-colored spines on their shell-like, hardened, and broad abdomens. However, are spiny orb-weaver spiders poisonous? **The simple answer is, NO, Spiny Orb-Weaver Spiders are not poisonous. While these Gasteracantha spiny spiders can bite, they aren't aggressive or poisonous spider species and they won't trigger any grave symptoms on humans. **
 
@@ -33,7 +33,7 @@ The bug's body color is the surest way to distinguish between the spiny-back spe
 
 [caption id="" align="aligncenter" width="360"]
 
-Source: [Wikipedia](https: //en. wikipedia. org/wiki/Spiny_orb-weaver) [/caption] The spiny spiders, just like name mentions, have 6 spines or projections protruding from the rear of their abdomen. You'll find bright color on the dosaum or top of the spiny spiders' abdomen - these will be red spines plus black spots on the white background. However, some of the spiny spiders, may be yellow but have black spikes.
+Source: [Wikipedia](https://en.wikipedia. org/wiki/Spiny_orb-weaver) [/caption] The spiny spiders, just like name mentions, have 6 spines or projections protruding from the rear of their abdomen. You'll find bright color on the dosaum or top of the spiny spiders' abdomen - these will be red spines plus black spots on the white background. However, some of the spiny spiders, may be yellow but have black spikes.
 
 But other may also be completely black in color.
 
@@ -41,7 +41,7 @@ The male bugs will have 4-5 small humps while their females come with large spin
 
 ##  Special Behaviors by the Spiny Orb-Weaver
 
-The [Micrathena](https: //www. insectidentification. org/insect-description. asp? identification=Spined-Micrathena-Spider) and [Gasteracantha](http: //entnemdept. ufl. edu/creatures/beneficial/g_cancriformis. htm) genus are the most prevalent among these spiders - particularly considering their body patterns, shape and colors. The Gasteracantha cancriformis males are tinier while the female adults are about half an inch.
+The [Micrathena](https://www.insectidentification. org/insect-description. asp? identification=Spined-Micrathena-Spider) and [Gasteracantha](http://entnemdept.ufl. edu/creatures/beneficial/g_cancriformis. htm) genus are the most prevalent among these spiders - particularly considering their body patterns, shape and colors. The Gasteracantha cancriformis males are tinier while the female adults are about half an inch.
 
 With their spine-like spines, crab-shaped and compact bodies makes these Spiny Orb-Weaver Spiders look very distinctive. Geographically, the color of the female Spiny Orb-Weaver Spiders is different because the black-spot abdomens could be yellow or white. Further, the spines or projections might be black or red. Further, their male counterparts may have abdomens that are gray, small spines, and white spots.
 
@@ -74,3 +74,4 @@ Such services might be costly but its definitely worth it as it immidietly takes
 ##  Conclusion
 
 So, are Spiny Orb-Weaver Spiders Poisonous? Well, as I've outlined above, these spiders can bite humans but they aren't aggressive or poisonous. However, the spiders will only bite when they're provoked as these are generally beneficial bugs in your farm or yard. Definitely, the bites from these Spiny Orb-Weaver Spiders won't be poisonous as won't also cause any grave or dangerous symptoms on you body.
+

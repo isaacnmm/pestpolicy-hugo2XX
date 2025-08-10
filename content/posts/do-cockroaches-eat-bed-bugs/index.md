@@ -1,4 +1,4 @@
----
+﻿---
 title: Do Cockroaches Eat Bed Bugs
 description: Below I've tackled this questions - "do cockroaches eat bed bugs?"Most people dread from the disgusting sight of domestic cockroaches. Naturalbiological pest...
 slug: /do-cockroaches-eat-bed-bugs/
@@ -18,7 +18,7 @@ layout: post
 
 Below I've tackled this questions - "do cockroaches eat bed bugs? "Most people dread from the disgusting sight of domestic cockroaches.
 
-Natural/biological pest control remedies like [Bed Bug Predators](https: //pestpolicy. com/what-eats-[bed-bugs](https: //pestpolicy. com/do-spiders-eat-bed-bugs/)/) have now become popular. So, do roaches [eat](https: //pestpolicy. com/what-animals-eat-bed-bugs/) bed bugs? **Simple answer, YES Cockroaches are known predators of bed bugs, which wreak havoc in millions of homes. However, only some species of cockroaches eat bed bugs.
+Natural/biological pest control remedies like [Bed Bug Predators](https://pestpolicy.com/what-eats-[bed-bugs](https://pestpolicy.com/do-spiders-eat-bed-bugs/)/) have now become popular. So, do roaches [eat](https://pestpolicy.com/what-animals-eat-bed-bugs/) bed bugs? **Simple answer, YES Cockroaches are known predators of bed bugs, which wreak havoc in millions of homes. However, only some species of cockroaches eat bed bugs.
 
 ** **Particularly the American and the German cockroaches are very fond of feasting on bed bugs. Others cockroaches that eat bed bugs include the oriental and the brown-banded cockroaches. **
 
@@ -30,7 +30,7 @@ However, cockroaches can save you from these bites by feasting on these nocturna
 
 To roaches, bed bugs seem like a nice snack. You might wonder how roaches are able to locate bed bugs. They have acute sensory and survival instincts that enable them to easily locate and feed on bed bugs.
 
-Related: [Get Rid of Bed Bug Bite Scars](https: //pestpolicy. com/how-to-get-rid-of-bed-bug-bite-scars/)
+Related: [Get Rid of Bed Bug Bite Scars](https://pestpolicy.com/how-to-get-rid-of-bed-bug-bite-scars/)
 
 ##  **Which Cockroach Species Eat Bed Bugs?**
 
@@ -100,4 +100,5 @@ Simply speaking, these natural predators will never make a difference to your be
 
 ##  Sources:
 
-1. [Bed Bugs: Clinical Relevance and Control Options - NCBI](https: //www. ncbi. nlm. nih. gov/pmc/articles/PMC3255965/) 2. [Behavioral Responses of the Common Bed Bug, Cimex - NCBI](https: //www. ncbi. nlm. nih. gov/pmc/articles/PMC5620703/) 3. [Susceptibility of insecticideresistant bed bugs (Cimex - NCBI](https: //www. ncbi. nlm. nih. gov/pmc/articles/PMC5518228/)
+1. [Bed Bugs: Clinical Relevance and Control Options - NCBI](https://www.ncbi. nlm. nih. gov/pmc/articles/PMC3255965/) 2. [Behavioral Responses of the Common Bed Bug, Cimex - NCBI](https://www.ncbi. nlm. nih. gov/pmc/articles/PMC5620703/) 3. [Susceptibility of insecticideresistant bed bugs (Cimex - NCBI](https://www.ncbi. nlm. nih. gov/pmc/articles/PMC5518228/)
+

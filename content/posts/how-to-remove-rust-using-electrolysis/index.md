@@ -1,4 +1,4 @@
----
+﻿---
 title: How to Remove Rust Using Electrolysis
 description: Rust, the common enemy of all ferrous metals, can quickly degrade the appearance and structural integrity of tools, automotive parts, and various metal...
 slug: /how-to-remove-rust-using-electrolysis/
@@ -38,11 +38,9 @@ This solution allows the electric current to flow.
 
 Avoid using table salt, as it can produce toxic chlorine gas. * **Two Electrodes: ** * **Cathode (Negative Electrode): ** This is the rusty object you want to clean. It's connected to the negative terminal of the DC power supply. * **Anode (Positive Electrode): ** This is a sacrificial piece of mild steel or iron (e. g. , rebar, scrap steel). It's connected to the positive terminal of the DC power supply.
 
-**Crucially, never use stainless steel for the anode**, as it can release toxic hexavalent chromium into the solution. * **A DC Power Supply: ** A common automotive battery charger is often used, providing 6V or 12V DC current. A regulated DC power supply with adjustable voltage and current is ideal but not strictly necessary for [DIY](https: //pestpolicy. com/best-diy-lawn-care-programs-and-services/) setups.
+**Crucially, never use stainless steel for the anode**, as it can release toxic hexavalent chromium into the solution. * **A DC Power Supply: ** A common automotive battery charger is often used, providing 6V or 12V DC current. A regulated DC power supply with adjustable voltage and current is ideal but not strictly necessary for [DIY](https://pestpolicy.com/best-diy-lawn-care-programs-and-services/) setups.
 
-2. **The Process: ** * When the power supply is turned on, direct current flows from the positive terminal (anode) through the electrolyte to the negative terminal (cathode, your rusty object). * **At the Cathode (Rusty Object): ** The rusty object (iron oxide) receives electrons from the power supply. This causes a reduction reaction. The iron oxides ([rust](https: //pestpolicy.
-
-com/can-you-paint-over-rust/), primarily Fe2O3 and Fe3O4) are chemically reduced.
+2. **The Process: ** * When the power supply is turned on, direct current flows from the positive terminal (anode) through the electrolyte to the negative terminal (cathode, your rusty object). * **At the Cathode (Rusty Object): ** The rusty object (iron oxide) receives electrons from the power supply. This causes a reduction reaction. The iron oxides ([rust](https://pestpolicy.com/can-you-paint-over-rust/), primarily Fe2O3 and Fe3O4) are chemically reduced.
 
 Some of the rust is converted back into metallic iron that re-bonds to the surface, while other rust is transformed into a black, easily removable sludge (magnetite, Fe3O4) or simply loosens and flakes off due to the liberation of hydrogen gas at the surface. Hydrogen gas (H2) bubbles are clearly visible rising from the rusty object. * **At the Anode (Sacrificial Steel): ** The sacrificial steel anode gives up electrons to the power supply.
 
@@ -105,3 +103,4 @@ Working with electricity and water, combined with the production of flammable ga
 The satisfaction of watching a heavily rusted item transform into clean metal without arduous scrubbing or harsh chemicals is immensely rewarding. With patience, a methodical approach, and unwavering commitment to safety, electrolysis can become an invaluable technique in your restoration arsenal, breathing new life into cherished metal objects and extending their lifespan for years to come.
 
 Remember to always rinse and protect your newly de-rusted items immediately to prevent the dreaded flash rust.
+

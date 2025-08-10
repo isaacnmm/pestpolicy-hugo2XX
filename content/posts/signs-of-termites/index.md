@@ -1,4 +1,4 @@
----
+﻿---
 title: Signs Of Termites
 description: Below Ive outlined signs of termites - these will become evident with rising atmospheric pressure, wind, light intensity, moisture levels, and temperatures -...
 slug: /signs-of-termites/
@@ -43,7 +43,7 @@ NB: Finding a few Formosan termites could be an exception when sighted in a buil
 
 If you see mud shelter tubes moving up the house plumbing, support piers, enable foundation walls, and outside foundation walls, then there could be a termite colony around. - For example, termites can build shelter tubes on the exterior side of a slab to enable them to get into the house under the siding. For verification purposes; - Break a small section of that mud tube and check if you see any termites.
 
-- Also, check the broken tube after a few days to see if the termites have repaired that section. These two will be enough signs that the termites are actively infesting the building or structures. But destroying the mud tubes only will not get rid of a termite infestation ( [but fumigation can help](https: //pestpolicy. com/termite-fumigation/) ). This is because the termites will go around and know how to enter the building anyway.
+- Also, check the broken tube after a few days to see if the termites have repaired that section. These two will be enough signs that the termites are actively infesting the building or structures. But destroying the mud tubes only will not get rid of a termite infestation ( [but fumigation can help](https://pestpolicy.com/termite-fumigation/) ). This is because the termites will go around and know how to enter the building anyway.
 
 - So after finding the mud shelter tubes, I advise you get professional exterminators to inspect the building for termites. But any shelter tubes that are inactive and old (especially from a previous termite infestation gross profit must be scraped off or removed to make subsequent inspections easier.
 
@@ -61,7 +61,7 @@ The mud may be formed into all shapes on the ceiling and walls particularly duri
 
 - The termites really easily tunnel through the foam insulation (particularly if it is sprayed on) but will not eat it.
 
-Some of the termite species that will tunnel through spray-on foam insulation include the [Eastern subterranean termites](https: //pestpolicy. com/subterranean-termites-treatment/) and the formosan termites. - Termite damage in your house may get noticed when you're doing your re-modelling, doing home repairs or replacing old wallpapers.
+Some of the termite species that will tunnel through spray-on foam insulation include the [Eastern subterranean termites](https://pestpolicy.com/subterranean-termites-treatment/) and the formosan termites. - Termite damage in your house may get noticed when you're doing your re-modelling, doing home repairs or replacing old wallpapers.
 
 Despite the fact that termites will leave an area shortly after attacking it, you may still see some of these animals that will denote the presence of an active termite infestation. Related: Termite Bait Stations
 
@@ -75,4 +75,5 @@ Another sign that will denote the presence of drywood termites is if you find si
 
 Termites will wittingly hide themselves in ward and soil especially in crisis and cars that are hidden on the foundation and the structures. - So if there are clear signs of a damaged infestation, then it is clear that their population is very high (since these pests are challenging to detect). The presence of shelter tubes moving up on the outside of the foundation wall will show the presence of termites.
 
-However, I advise that you get expert [professional termite inspection](https: //pestpolicy. com/termite-inspection-cost/) for your structures and the house for effective control. Also, don't forget to undertake regular or annual termite prevention and control on various structures and the yard. Cheers!
+However, I advise that you get expert [professional termite inspection](https://pestpolicy.com/termite-inspection-cost/) for your structures and the house for effective control. Also, don't forget to undertake regular or annual termite prevention and control on various structures and the yard. Cheers!
+

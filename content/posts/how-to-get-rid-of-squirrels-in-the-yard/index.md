@@ -1,4 +1,4 @@
----
+﻿---
 title: How to Get Rid Of Squirrels in the Yard
 description: Below I've outlined h ow to get rid of squirrels in the yard. Are you tired from squirrels and want to get rid of them? We will help you with this.
 slug: /how-to-get-rid-of-squirrels-in-the-yard/
@@ -17,7 +17,7 @@ layout: post
 
 *Below I've outlined h* ow to get rid of squirrels in the yard. *Are you tired from squirrels and want to get rid of them? We will help you with this. * *With the passage of time and need of the hour, various methods have emerged to tackle this specieshomeremedies to eliminate squirrels. * Squirrels are an animal that looks quite funny, being small in size, and extremely active and elusive.
 
-With the restless nature and extreme swift movements, they are tough to catch and potentially can cause a lot of damage to your property and holdings. **See [Squirrel](https: //pestpolicy. com/do-squirrels-attack-humans/) solutions. **
+With the restless nature and extreme swift movements, they are tough to catch and potentially can cause a lot of damage to your property and holdings. **See [Squirrel](https://pestpolicy.com/do-squirrels-attack-humans/) solutions. **
 
 Squirrels dont leave anything unharmed, from woods to vegetables; all are vulnerable to their potential of harmful instincts. They can cause fleas and even tick to your pets.
 
@@ -31,7 +31,7 @@ There are different ways of how these repellents are being made presently; a few
 
 The advantage with this type of method is that while they are very effective in repelling the squirrels, at the same time, it doesnt take trouble birds, which makes it handful and keep the birds happy and calm.
 
-This kind of repellent can easily be added to bird feeders. So what do you wait for? Get rid of squirrels by using the following easy to carry out remedies. But first: Check a Video Tutorial on How to [Trap Squirrels](http: //ipm. ucanr. edu/PMG/PESTNOTES/pn7438. html).
+This kind of repellent can easily be added to bird feeders. So what do you wait for? Get rid of squirrels by using the following easy to carry out remedies. But first: Check a Video Tutorial on How to [Trap Squirrels](http://ipm.ucanr. edu/PMG/PESTNOTES/pn7438. html).
 
 ##  2. Dont feed them
 
@@ -95,4 +95,5 @@ As the name indicates, this box has only a way in and no way out for squirrels. 
 
 ##  Conclusion
 
-Its risky because these are dangerous for our pets like dogs and cats, as they also like the sweetness of it and fall in the trap thats being laid, not for the squirrels. The anti-freeze works as a useful and effective homemade [squirrel poison](https: //pestpolicy. com/best-poison-for-squirrels/); its dark side is it puts our pets' lives at risk also.
+Its risky because these are dangerous for our pets like dogs and cats, as they also like the sweetness of it and fall in the trap thats being laid, not for the squirrels. The anti-freeze works as a useful and effective homemade [squirrel poison](https://pestpolicy.com/best-poison-for-squirrels/); its dark side is it puts our pets' lives at risk also.
+

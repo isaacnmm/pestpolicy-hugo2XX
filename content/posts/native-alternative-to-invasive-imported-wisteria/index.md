@@ -1,4 +1,4 @@
----
+﻿---
 title: Native Alternative to Invasive Imported Wisteria
 description: The sight of wisteria in full bloom is undeniably breathtaking. Cascading clusters of fragrant purple, blue, or white flowers dripping from trellises and...
 slug: /native-alternative-to-invasive-imported-wisteria/
@@ -47,7 +47,7 @@ The term "invasive wisteria" typically refers to two Asian species:
 
 ##  Native Wisteria
 
-In contrast to their aggressive Asian cousins, **American wisteria (*Wisteria frutescens*)** is a well-behaved and ecologically beneficial native [alternative](https: //pestpolicy. com/gutter-alternatives/). It is native to the southeastern United States, though its range can extend into parts of the Midwest.
+In contrast to their aggressive Asian cousins, **American wisteria (*Wisteria frutescens*)** is a well-behaved and ecologically beneficial native [alternative](https://pestpolicy.com/gutter-alternatives/). It is native to the southeastern United States, though its range can extend into parts of the Midwest.
 
 **Key Differences and Benefits of American Wisteria: **
 
@@ -112,3 +112,4 @@ For environmentally conscious gardeners, the answer is clear: **choose American 
 It offers all the charm and beauty of its Asian relatives the graceful vining habit, the exquisite, fragrant flowers, and the lush foliage without the ecological burden. By selecting native plants, you not only beautify your garden but also contribute positively to the local ecosystem, providing vital resources for native pollinators and wildlife, and helping to preserve the natural balance of your region.
 
 Make the responsible choice, and let your garden flourish with a truly beneficial beauty.
+

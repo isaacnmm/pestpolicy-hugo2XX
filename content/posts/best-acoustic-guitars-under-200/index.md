@@ -1,4 +1,4 @@
----
+﻿---
 title: Best Acoustic Guitars Under 200
 description: A review of the best acoustic guitars under 200 suggests that there is something for everyone depending on your budget and personal preferences - just like...
 slug: /best-acoustic-guitars-under-200/
@@ -66,7 +66,7 @@ Pros: - Beautiful finish - Excellent playability thanks to the SlimTaper neck de
 
 Cons: - Relatively sharp and uncomfortable frets
 
-Read Also: [Acoustic Guitar For Small Hands](https: //pestpolicy. com/best-acoustic-guitar-for-small-hands/)
+Read Also: [Acoustic Guitar For Small Hands](https://pestpolicy.com/best-acoustic-guitar-for-small-hands/)
 
 ###  [4. Oscar Schmidt OG2CESM acoustic (electric) guitar](https://www.amazon.com/dp/B009LL5T6E/?tag=p-policy-20)
 
@@ -82,7 +82,7 @@ This OG2 series combines exquisite looks with outstanding tones, giving you exce
 
 Cons: - None found
 
-Read Also: [Acoustic Guitar Under 1500](https: //pestpolicy. com/best-acoustic-guitar-under-1500/)
+Read Also: [Acoustic Guitar Under 1500](https://pestpolicy.com/best-acoustic-guitar-under-1500/)
 
 ###  [5. Ibanez PF Series PF15ECE acoustic guitar](https://www.amazon.com/dp/B001R2K9G0/?tag=p-policy-20)
 
@@ -114,7 +114,7 @@ Pros: - Integration of Daddario cords - Exceptional sound quality - Small body p
 
 Cons: - None found
 
-Read Also: [Acoustic Guitar Under 300](https: //pestpolicy. com/best-acoustic-guitar-under-300/)
+Read Also: [Acoustic Guitar Under 300](https://pestpolicy.com/best-acoustic-guitar-under-300/)
 
 ###  [7. Jasmine JO-36 Orchestra Acoustic Guitar](https://www.amazon.com/dp/B00B5LBZF2/?tag=p-policy-20)
 
@@ -133,3 +133,4 @@ Read Also: Best Acoustic Guitar
 ##  Conclusion
 
 Our featured list suggests that you can access many quality guitars within the $200 price range. Since various specifications guide different guitarists, this review offers you a wide range to choose from based on the budgetary, sound quality, and looks considerations. Overall, the Ibanez PF Series PF15ECE acoustic guitar stands out from the rest due to its unmatched sound output, whether you are plugged into the equalizer or not.
+

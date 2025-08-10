@@ -1,4 +1,4 @@
----
+﻿---
 title: Do Opossums Carry Rabies
 description: Opossums go through garbage, hunt mice and snakes , and hang around roadkill - which exposes them to dangerous diseases like rabies. So, the question is do...
 slug: /do-opossums-carry-rabies/
@@ -17,7 +17,7 @@ layout: post
 
 Opossums go through garbage, hunt mice and snakes, and hang around roadkill - which exposes them to dangerous diseases like rabies.
 
-So, the question is: do opossums [carry](https: //pestpolicy. com/do-squirrels-carry-ticks/) rabies? **In brief, NO, Opossum/ possums are very unlikely to carry rabies. Opossums' body temperature is too low to inhibit the rabies virus compared to other wildlife like foxes, skunks, raccoons, and bats. **
+So, the question is: do opossums [carry](https://pestpolicy.com/do-squirrels-carry-ticks/) rabies? **In brief, NO, Opossum/ possums are very unlikely to carry rabies. Opossums' body temperature is too low to inhibit the rabies virus compared to other wildlife like foxes, skunks, raccoons, and bats. **
 
 ##  Cold Body Temperature - Do Opossums Carry Rabies
 
@@ -79,7 +79,7 @@ Opossums carry a relatively low risk of carrying rabies but they may have **dang
 
 Leptospirosis causes flu-like symptoms and is caused by bacteria in contaminated bodily fluids and urine from infected Opossum.
 
-The disease may infect rodents, [squirrels](https: //pestpolicy. com/how-long-do-squirrels-live/), skunks, and raccoons but fail to show outright signs.
+The disease may infect rodents, [squirrels](https://pestpolicy.com/how-long-do-squirrels-live/), skunks, and raccoons but fail to show outright signs.
 
 The disease can be passed on to humans through contact with infected animal's urine or by breathing in infectious droplets from an animal sneezing or coughing nearby.
 
@@ -87,7 +87,7 @@ The disease can be passed on to humans through contact with infected animal's ur
 
 To avoid leptospirosis - especially from wild animals, stay away from places that may be contaminated with wildlife urine or water sources like swamps, rivers, and lakes.
 
-Related: [How to get rid of raccoons](https: //pestpolicy. com/how-to-get-rid-of-raccoons/)
+Related: [How to get rid of raccoons](https://pestpolicy.com/how-to-get-rid-of-raccoons/)
 
 ##  Don't let Opossums into Your Yard
 
@@ -124,3 +124,4 @@ Wild animals that'll carry rabies include raccoons, foxes, and skunks.
 As you can see, opossums do not carry rabies!
 
 I hope you found this blog post helpful, and I encourage you to share it with your friends on social media.
+

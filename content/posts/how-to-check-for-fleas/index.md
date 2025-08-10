@@ -1,4 +1,4 @@
----
+﻿---
 title: How to Check for Fleas
 description: Below I've outlinedhow to check for fleas.Sadly, this thought triggers an itching feeling in me  does my dog have fleas?
 slug: /how-to-check-for-fleas/
@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 
-Below I've outlinedhow to check for fleas. Sadly, this thought triggers an itching feeling in me: does my dog have fleas? Or is it just unfounded fear? Since I acquired my dog pet: my fluffy king, I have had numerous challenges. Some of them include feed selection, [flea medication selection](https: //pestpolicy. com/best-flea-treatment-for-dogs/), and safety.
+Below I've outlinedhow to check for fleas. Sadly, this thought triggers an itching feeling in me: does my dog have fleas? Or is it just unfounded fear? Since I acquired my dog pet: my fluffy king, I have had numerous challenges. Some of them include feed selection, [flea medication selection](https://pestpolicy.com/best-flea-treatment-for-dogs/), and safety.
 
 However, none of the above challenges with my dog has been disturbing as seeing fleas running on my pet.
 
@@ -37,7 +37,7 @@ Upon careful consideration, you can order a flea comb to undertake this exercise
 
 Flea droppings are mainly comma-shaped, and when placed on the wet kitchen paper, they leave a red ring, signifying blood from the flea.
 
-**But First: ** **Video Courtesy of** **Banfield Pet Hospital** https: //youtu. be/-VWr1UhTFw0 **Next, some details on the flea life cycle ** This will help you understand why fleas have always come back and how you can wittingly get ahead of the coming fleas generation. **The flea life cycle is divided into four stages: ** **- Eggs: ** One adult flea can lay about 40 eggs each day.
+**But First: ** **Video Courtesy of** **Banfield Pet Hospital** https://youtu.be/-VWr1UhTFw0 **Next, some details on the flea life cycle ** This will help you understand why fleas have always come back and how you can wittingly get ahead of the coming fleas generation. **The flea life cycle is divided into four stages: ** **- Eggs: ** One adult flea can lay about 40 eggs each day.
 
 Female fleas lay eggs 24-36 hours after they take the first blood meal (flea bite).
 
@@ -75,7 +75,7 @@ Also, a female flea can survive for about 1. 5 years. **Fleas have good hiding**
 
 Therefore, it would be helpful to use products such as the best fogger for fleas in your home when there is a major infestation. A flea can survive without feeding.
 
-**Surprisingly! ** Fleas are capable of surviving for a long time without feeding. For example, after one blood feeding, the flea can survive for one month. Various insect controlling chemicals such as sprays and foggers are good at fighting adult fleas. However, I recommend that you use [natural pest control concentrate](https: //www. amazon. com/dp/B00A755Q3O/? tag=p-policy-20) to kill fleas in all their developmental stages.
+**Surprisingly! ** Fleas are capable of surviving for a long time without feeding. For example, after one blood feeding, the flea can survive for one month. Various insect controlling chemicals such as sprays and foggers are good at fighting adult fleas. However, I recommend that you use [natural pest control concentrate](https://www.amazon. com/dp/B00A755Q3O/? tag=p-policy-20) to kill fleas in all their developmental stages.
 
 ##  Prevent flea re-infestation on your dog?
 
@@ -125,7 +125,7 @@ Vet's flea spray is made up of natural active ingredients like clove extract and
 
 Despite the that your pets are always indoors, fleas will attack it like any other roaming pet. Notably, fleas, like any other insects, will jump into your dogs kernel at any time, and thus, you need to take safety control measures. Many wild animals such as foxes, squirrels, and even rats may carry fleas. Also, wild and outdoor cats carry fleas, and when they pass near your homestead, they drop the fleas, their eggs, and larvae.
 
-Then, the [fleas jump onto any human](https: //pestpolicy. com/can-fleas-live-in-human-hair/) being or animal to reach your indoor dog. If there are some critters in your house, then they can carry fleas to the indoor dog. Despite that you may not set eyes on the mice, they could drop the fleas and their eggs in the house. The eggs would hatch and attach themselves to another host, the indoor cat or dog.
+Then, the [fleas jump onto any human](https://pestpolicy.com/can-fleas-live-in-human-hair/) being or animal to reach your indoor dog. If there are some critters in your house, then they can carry fleas to the indoor dog. Despite that you may not set eyes on the mice, they could drop the fleas and their eggs in the house. The eggs would hatch and attach themselves to another host, the indoor cat or dog.
 
 Also, since fleas love warm atmospheres, they will jump on your clothes when you walk around your yard and drop into the house to attack your dog. **Therefore: ** [thrive_text_block color="note" headline="] Despite that your dog is always indoors, they can get fleas through various methods that include the fleas jumping into their kernel or being carried by a host to the house. Some of the hosts could include mice, wild cats, and human beings.
 
@@ -153,14 +153,15 @@ If you observe some of the above reactions, you should call your vet for advice 
 
 ###  **#5: Yards, floors, and carpets **
 
-Your pet is now flea free. What next? It would help if you now countered the fleas and inside and outside your house - use [yard flea sprays](https: //pestpolicy. com/best-flea-spray-for-yard/). For maximum safety, contact your vet to advise the best indoor flea control, a method for your children and pets. However, if you have a major flea infestation, you should use flea foggers. However, ensure that you adhere to all the safety precautions.
+Your pet is now flea free. What next? It would help if you now countered the fleas and inside and outside your house - use [yard flea sprays](https://pestpolicy.com/best-flea-spray-for-yard/). For maximum safety, contact your vet to advise the best indoor flea control, a method for your children and pets. However, if you have a major flea infestation, you should use flea foggers. However, ensure that you adhere to all the safety precautions.
 
 ###  **#6: Vacuum your house and carpets daily.**
 
 Fleas hide in cracks, crevices, under furniture and carpet. Therefore, you should vacuum the house daily to eject the fleas, eggs, and larvae from their hideouts. Vacuuming will help eject the flea larvae from their cocoons. Notably, the larvae stage of the fleas is disturbed by pressure and excessive heat. Therefore, when you vacuum, you will stimulate the larvae to move out of their cocoons and come into contact with the insecticide.
 
-Remember to wash the vacuum canister and dispose of the vacuum bag. Further, clean the [dog bedding and sprinkle borax or diatomaceous earth](https: //pestpolicy. com/diatomaceous-earth-for-fleas-on-dogs/) in their kernel.
+Remember to wash the vacuum canister and dispose of the vacuum bag. Further, clean the [dog bedding and sprinkle borax or diatomaceous earth](https://pestpolicy.com/diatomaceous-earth-for-fleas-on-dogs/) in their kernel.
 
 ##  Conclusion
 
 The outdoor space could also host some fleas dropped by your pets. Therefore, treat the yard and fallen leaves with a natural flea treatment to eliminate fleas and ticks.
+

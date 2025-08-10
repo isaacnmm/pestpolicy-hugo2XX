@@ -1,4 +1,4 @@
----
+﻿---
 title: Rustoleum Galvanized Metal Primer
 description: It is important to go for a primer that will be compatible with your paint and the surface if you want a professional look - and that's why I've reviewed the...
 slug: /rustoleum-galvanized-metal-primer/
@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 
-It is important to go for a primer that will be compatible with your paint and the surface if you want a professional look - and that's why I've reviewed the [Rustoleum](https: //pestpolicy. com/rustoleum-rust-reformer-review/) Galvanized Metal Primer below. If you are a pro, you will clearly understand the challenges of painting non-primed galvanized metal.
+It is important to go for a primer that will be compatible with your paint and the surface if you want a professional look - and that's why I've reviewed the [Rustoleum](https://pestpolicy.com/rustoleum-rust-reformer-review/) Galvanized Metal Primer below. If you are a pro, you will clearly understand the challenges of painting non-primed galvanized metal.
 
 After drying, the paint easily peels off when subjected to adverse weather and direct sunlight. *In brief: Rust-Oleum (e. g.
 
@@ -43,7 +43,7 @@ As a painter, you can carry out the painting with or without priming and it will
 
 ###  3. Prime & paint aluminum and galvanized metals with Rust-Oleum
 
-You can apply this primer by either [spraying](https: //pestpolicy. com/best-deck-stain-for-pressure-treated-wood/), brushing, or rolling. However, spraying remains the most appropriate method of application. You can also find this primer in two forms either a spray can and in liquid form. Before application, you may need to do thinning if you really need to achieve a professional finish. How do you do thinning?
+You can apply this primer by either [spraying](https://pestpolicy.com/best-deck-stain-for-pressure-treated-wood/), brushing, or rolling. However, spraying remains the most appropriate method of application. You can also find this primer in two forms either a spray can and in liquid form. Before application, you may need to do thinning if you really need to achieve a professional finish. How do you do thinning?
 
 Well, a recommended ratio of 2: 1 for primer and thinner respectively is advised.
 
@@ -63,7 +63,7 @@ Getting the right paint for the primed surface is very important. This is becaus
 
 ####  iv. Painting the galvanized and primed surface
 
-When you have done proper priming, [painting](https: //pestpolicy. com/best-deck-sealer-for-pressure-treated-wood/) becomes an easy task for you, and you are only left with deciding the choice of color to go for. A well-primed surface will pave way for easy painting with either a roller, brush or even a sprayer depending on the surface and your objective too.
+When you have done proper priming, [painting](https://pestpolicy.com/best-deck-sealer-for-pressure-treated-wood/) becomes an easy task for you, and you are only left with deciding the choice of color to go for. A well-primed surface will pave way for easy painting with either a roller, brush or even a sprayer depending on the surface and your objective too.
 
 ##  Can this primer work on any metal?
 
@@ -72,3 +72,4 @@ This primer is specially designed for aluminum and galvanized metals. To qualify
 ##  Conclusion
 
 It has been a pleasure going through Rust-Oleum galvanized metal primer review together. I hope it was informative enough and has given you the courage to buy it. With nearly 69% of metals recycled each year in the US and Rust-Oleum Flat Aluminum Primer-8781502 becomes a very great product to this effect. You are guaranteed both durability and quality that gives you the confidence to use this primer.
+

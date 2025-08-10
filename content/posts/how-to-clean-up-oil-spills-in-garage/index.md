@@ -1,4 +1,4 @@
----
+﻿---
 title: How to Clean Up Oil Spills in Garage
 description: Oil spills in your garage can be a nuisance, but with the right tools and techniques, cleaning them up doesnt have to be difficult.
 slug: /how-to-clean-up-oil-spills-in-garage/
@@ -14,7 +14,7 @@ tags:
 layout: post
 ---
 
-[Oil](https: //pestpolicy. com/does-lavender-oil-kill-fleas/) spills in your garage can be a nuisance, but with the right tools and techniques, cleaning them up doesnt have to be difficult. Whether the [spill](https: //pestpolicy. com/no-spill-ant-kill/) is from your vehicle, machinery, or other equipment, its important to act quickly to prevent the oil from spreading and staining the garage floor.
+[Oil](https://pestpolicy.com/does-lavender-oil-kill-fleas/) spills in your garage can be a nuisance, but with the right tools and techniques, cleaning them up doesnt have to be difficult. Whether the [spill](https://pestpolicy.com/no-spill-ant-kill/) is from your vehicle, machinery, or other equipment, its important to act quickly to prevent the oil from spreading and staining the garage floor.
 
 In this guide, well cover the best methods for cleaning up oil spills in your garage.
 
@@ -51,3 +51,4 @@ Its important to dispose of the oil and absorbent materials properly. Do not thr
 ##  Conclusion
 
 Cleaning up oil spills in your garage may seem daunting, but with the right steps, its manageable. By acting quickly, containing the spill, using absorbent materials, and properly disposing of waste, you can restore your garage to its original condition. Remember to take preventive measures, such as using drip pans and regularly inspecting your vehicles, to avoid future spills. A clean, safe garage is just a few steps away!
+

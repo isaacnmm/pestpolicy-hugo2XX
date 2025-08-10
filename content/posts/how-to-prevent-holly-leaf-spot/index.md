@@ -1,4 +1,4 @@
----
+﻿---
 title: How to Prevent Holly Leaf Spot
 description: Holly bushes Ilex species are prized landscape plants, offering year-round beauty with their glossy evergreen leaves and often vibrant red berries.
 slug: /how-to-prevent-holly-leaf-spot/
@@ -73,3 +73,4 @@ Keep mulch a few inches away from the trunk.
 Holly leaf spot, while a common nuisance, is largely preventable and manageable with proactive gardening practices. By focusing on fundamental cultural conditions ensuring adequate light and air circulation, practicing intelligent watering, maintaining good sanitation, and promoting overall plant vigor you can significantly reduce the risk of infection.
 
 For those in challenging environments or with highly susceptible varieties, targeted pruning and, if necessary, strategic fungicide applications can provide additional layers of protection. With diligent care, your holly bushes will remain healthy, lustrous, and free from unsightly blemishes, continuing to provide their classic evergreen beauty throughout the seasons.
+

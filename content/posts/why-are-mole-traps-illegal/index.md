@@ -1,4 +1,4 @@
----
+﻿---
 title: Why Are Mole Traps Illegal
 description: Mole traps are notably inexpensive ways to control moles both in the UK and the United States. However, the use of mole traps is not lawful universally -...
 slug: /why-are-mole-traps-illegal/
@@ -14,9 +14,9 @@ tags:
 layout: post
 ---
 
-[Mole](https: //pestpolicy. com/best-mole-traps/) traps are notably inexpensive ways to control moles both in the UK and the United States. However, the use of mole traps is not lawful universally - apart from the [live trapping for moles](https: //pestpolicy. com/best-mole-traps/).
+[Mole](https://pestpolicy.com/best-mole-traps/) traps are notably inexpensive ways to control moles both in the UK and the United States. However, the use of mole traps is not lawful universally - apart from the [live trapping for moles](https://pestpolicy.com/best-mole-traps/).
 
-- In some parts of the United States and Europe, you'll need a trapping or hunting [trap](https: //pestpolicy. com/best-fly-trap/) to trap moles legally - you'd need to check with the wildlife authorities in your area for details.
+- In some parts of the United States and Europe, you'll need a trapping or hunting [trap](https://pestpolicy.com/best-fly-trap/) to trap moles legally - you'd need to check with the wildlife authorities in your area for details.
 
 **Moles are generally unclassified (you can kill or trap them in your property if they harm domestic animals, crops, or plants) but the use of snap trap or body-gripping mole traps is illegal in areas such as Washington, D. C. since they will kill or injure the moles - thanks to a law passed in 2000. ** Moles survive thanks to human activity (feeding mainly on garbage) since they're non-commensal species - it doesn't harm humans in urban areas.
 
@@ -75,3 +75,4 @@ Because moles usually create comprehensive tunnels, flooding these tunnels can b
 In conclusion, the anti-trapping law passed in 2000 bans trapping moles in some states such as Washington DC - especially with methods using the snaptrap or body-gripping design traps. - Alternative mole control methods that are legal include using drowning, drugs, gas, ferrets, and shooting.
 
 - Generally, moles are considered unclassified and thus homeowners are allowed to trap this wildlife especially if they're damaging your property, or harming your domestic animals or crops.
+

@@ -1,4 +1,4 @@
----
+﻿---
 title: University Of Oregon
 description: The University of Oregon UO, located in Eugene, is a prominent public research university known for its commitment to academic excellence, innovation, and...
 slug: /university-of-oregon/
@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 
-The University of Oregon (UO), located in [Eugene](https: //pestpolicy. com/hendricks-park/), is a prominent public research [university](https: //pestpolicy. com/western-washington-university-wwu/) known for its commitment to academic excellence, innovation, and sustainability.
+The University of Oregon (UO), located in [Eugene](https://pestpolicy.com/hendricks-park/), is a prominent public research [university](https://pestpolicy.com/western-washington-university-wwu/) known for its commitment to academic excellence, innovation, and sustainability.
 
 Established in 1876, UO has grown into a vibrant institution that attracts students from across the globe. With its diverse academic offerings, state-of-the-art facilities, and rich cultural heritage, the University of Oregon stands as a beacon of higher education in the Pacific Northwest.
 
@@ -55,10 +55,11 @@ The University of Oregon boasts a distinguished list of alumni who have made sig
 
 This includes Pulitzer Prize-winning authors, Nobel laureates, renowned scientists, influential business leaders, and celebrated athletes. Notable alumni include Nike co-founder Phil Knight, author Ken Kesey, and Olympic athlete Ashton Eaton.
 
-Related: [Wasp Nest Removal](https: //pestpolicy. com/wasp-nest-removal-in-eugene/)
+Related: [Wasp Nest Removal](https://pestpolicy.com/wasp-nest-removal-in-eugene/)
 
 ####  Conclusion
 
 The University of Oregon is a vibrant and dynamic institution that offers students a comprehensive education, abundant research opportunities, and a rich campus life. - Its commitment to academic excellence, sustainability, and community engagement makes it a leading university in the Pacific Northwest.
 
 Whether youre a prospective student, a current student, or a visitor, the University of Oregon offers a unique and enriching environment that fosters growth, innovation, and success.
+

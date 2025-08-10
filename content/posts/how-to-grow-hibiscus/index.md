@@ -1,4 +1,4 @@
----
+﻿---
 title: How to Grow Hibiscus
 description: With their large, trumpet-shaped flowers and an astounding array of colors, hibiscus plants instantly evoke images of tropical paradises and warm, sunny...
 slug: /how-to-grow-hibiscus/
@@ -16,7 +16,7 @@ tags:
 layout: post
 ---
 
-With their large, trumpet-shaped flowers and an astounding array of colors, hibiscus plants instantly evoke images of tropical paradises and warm, sunny climates. Whether you dream of [vibrant](https: //pestpolicy. com/how-to-grow-azaleas/) blooms gracing your patio or a sturdy shrub adding a touch of the exotic to your perennial border, there's a hibiscus type suited for nearly every gardener.
+With their large, trumpet-shaped flowers and an astounding array of colors, hibiscus plants instantly evoke images of tropical paradises and warm, sunny climates. Whether you dream of [vibrant](https://pestpolicy.com/how-to-grow-azaleas/) blooms gracing your patio or a sturdy shrub adding a touch of the exotic to your perennial border, there's a hibiscus type suited for nearly every gardener.
 
 While their showy appearance might suggest high maintenance, many hibiscus varieties are surprisingly easy to grow, provided their basic needs are met.
 
@@ -113,3 +113,4 @@ Deadhead tropical hibiscus (though self-cleaning, it can still encourage more) a
 Growing hibiscus, regardless of type, is an incredibly rewarding experience that brings a splash of the exotic to any garden. By understanding the specific needs of tropical, hardy perennial, and hardy shrub varieties, you can ensure your plants thrive and produce their magnificent blooms season after season.
 
 With a little attention to sunlight, water, and nutrition, you too can enjoy the vibrant, show-stopping beauty of hibiscus in your own backyard.
+

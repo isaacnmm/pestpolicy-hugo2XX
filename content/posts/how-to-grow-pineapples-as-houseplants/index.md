@@ -1,4 +1,4 @@
----
+﻿---
 title: How to Grow Pineapples As Houseplants
 description: The pineapple Ananas comosus is an iconic symbol of the tropics, celebrated for its unique spiky fruit and lush, architectural foliage.
 slug: /how-to-grow-pineapples-as-houseplants/
@@ -20,7 +20,7 @@ The pineapple (*Ananas comosus*) is an iconic symbol of the tropics, celebrated 
 
 Starting a pineapple plant from the top of a store-bought fruit is a popular and fun horticultural experiment that can transform your indoor space with exotic flair.
 
-While it takes patience often 2-3 years to produce fruit the journey from a discarded crown to a mature, fruiting plant is captivating. Even without fruit, the striking rosette of sword-like leaves makes for an impressive [houseplant](https: //pestpolicy. com/how-to-repot-houseplants/).
+While it takes patience often 2-3 years to produce fruit the journey from a discarded crown to a mature, fruiting plant is captivating. Even without fruit, the striking rosette of sword-like leaves makes for an impressive [houseplant](https://pestpolicy.com/how-to-repot-houseplants/).
 
 This guide will take you through the simple steps of propagating a pineapple top, providing the essential care for its growth, and even coaxing it into producing its own sweet, homegrown fruit.
 
@@ -123,3 +123,4 @@ Try the apple induction method. * **Pests (Mealybugs, Scale Insects): ** * **Cau
 Absolutely! Growing a pineapple as a houseplant is a wonderfully rewarding experience. While it requires patience and a commitment to providing tropical conditions, the sight of a vibrant, healthy pineapple plant gracing your living space is a unique delight. The potential for harvesting your very own homegrown pineapple, no matter how small, adds an extra layer of satisfaction to this engaging horticultural project.
 
 It's a fantastic way to bring a piece of the tropics into your home and enjoy the beauty of this remarkable plant.
+

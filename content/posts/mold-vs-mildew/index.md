@@ -1,4 +1,4 @@
----
+﻿---
 title: Mold Vs Mildew
 description: Its common for homeowners to confuse mold vs. mildew - check below for mold vs. mildew. Although both are fungus, they exhibit certain distinct features that...
 slug: /mold-vs-mildew/
@@ -15,11 +15,11 @@ tags:
 layout: post
 ---
 
-Its common for homeowners to confuse [mold](https: //pestpolicy. com/mold-cleanup/) vs. [mildew](https: //pestpolicy. com/mildew-resistant-paints/) - check below for mold vs. mildew. Although both are fungus, they exhibit certain distinct features that can be used to distinguish them. Correct identification allows you to embark on accurate treatment measures.
+Its common for homeowners to confuse [mold](https://pestpolicy.com/mold-cleanup/) vs. [mildew](https://pestpolicy.com/mildew-resistant-paints/) - check below for mold vs. mildew. Although both are fungus, they exhibit certain distinct features that can be used to distinguish them. Correct identification allows you to embark on accurate treatment measures.
 
 Ive featured some important features which you can use to differentiate between mold and mildew.
 
-Although mold and [mildew](https: //extension2. missouri. edu/gh5928) bear numerous similarities, they exhibit notable differences that can distinguish them.
+Although mold and [mildew](https://extension2.missouri. edu/gh5928) bear numerous similarities, they exhibit notable differences that can distinguish them.
 
 ##  Mold Vs. Mildew - What Are The Differences?
 
@@ -27,7 +27,7 @@ Although mold and [mildew](https: //extension2. missouri. edu/gh5928) bear numer
 
 **Mold: ** Molds grow on damp surfaces as colonies of irregularly shaped patches. They can be seen on walls, floors, wallpapers, carpet, and wood, among other surfaces.
 
-Depending on the species, the color of mold ranges from black, brown, green, blue, gray, yellow, or white. **Mildew: ** [Mildew appears as a powdery](https: //pestpolicy. com/best-fungicide-powdery-mildew/) (check fungicide killers) and flattened patch, usually yellowish, gray, or white. With time the color turns to brown and eventually black.
+Depending on the species, the color of mold ranges from black, brown, green, blue, gray, yellow, or white. **Mildew: ** [Mildew appears as a powdery](https://pestpolicy.com/best-fungicide-powdery-mildew/) (check fungicide killers) and flattened patch, usually yellowish, gray, or white. With time the color turns to brown and eventually black.
 
 ###  2. Smell -Mold Vs. Mildew
 
@@ -92,3 +92,4 @@ Below is a guide for removing mold from your home.
 ##  **Conclusion**
 
 Mold and mildew affect both structures and peoples health. They produce spores that spread rapidly through the air. - If left untreated, these fungi eventually get to any corner of the house with moisture and warmth. - A minor mold or mildew growth can effectively be removed using readily available fungicides or disinfectants. However, a full-blown mold or mildew problem might require an expert to help in removal.
+

@@ -1,4 +1,4 @@
----
+﻿---
 title: Natural Repellants for No See Ums
 description: No-see-ums, also known as biting midges or sandflies, can be quite bothersome with their itchy bites. While there's no foolproof method to completely...
 slug: /natural-repellants-for-no-see-ums/
@@ -14,7 +14,7 @@ tags:
 layout: post
 ---
 
-[No-see-ums](https: //pestpolicy. com/best-no-see-ums-repellent/), also known as biting midges or sandflies, can be quite bothersome with their itchy bites. While there's no foolproof method to completely eradicate them, there are some natural repellents you can try to keep them at bay:
+[No-see-ums](https://pestpolicy.com/best-no-see-ums-repellent/), also known as biting midges or sandflies, can be quite bothersome with their itchy bites. While there's no foolproof method to completely eradicate them, there are some natural repellents you can try to keep them at bay:
 
 ##  **1. Geranium rose oil: **
 
@@ -24,7 +24,7 @@ Geranium oil is a good ingredient in repellents for insects that bite like ticks
 
 ##  **2. Citronella oil: **
 
-Citronella oil is made from the leaves and stems of lemongrass. Lemongrass usually has a lot of geraniol, citronellol, and citronellal. - It's great to use when you are making no see-ums repellent and[bed bug repellents](https: //pestpolicy. com/essential-oils-for-bed-bugs/). You can use citronella oil to protect yourself from bugs. But it is not as good as DEET. [Vanilla](https: //pubmed. ncbi. nlm. nih.
+Citronella oil is made from the leaves and stems of lemongrass. Lemongrass usually has a lot of geraniol, citronellol, and citronellal. - It's great to use when you are making no see-ums repellent and[bed bug repellents](https://pestpolicy.com/essential-oils-for-bed-bugs/). You can use citronella oil to protect yourself from bugs. But it is not as good as DEET. [Vanilla](https://pubmed.ncbi. nlm. nih.
 
 gov/21481108/) can help extend the protection time.
 
@@ -36,11 +36,11 @@ You can try burning lemongrass oil using **oil** lamps to see if it will help ke
 
 This can be sprayed on your clothing, body, or exposed skin surfaces in order to repel insects from biting you - as noted by the [Entomology & Nematology Department.
 
-](http: //entnemdept. ufl. edu/creatures/aquatic/biting_midges. htm)
+](http://entnemdept.ufl. edu/creatures/aquatic/biting_midges. htm)
 
 ##  **4. Special garments: **
 
-To avoid insects from getting into your [clothes and biting](https: //pestpolicy. com/can-fleas-live-on-clothes/), you should wear special clothes that have a net that keeps them out. When your vacuum cleaner is not enough to keep the critters away, you can protect yourself with long pants and long shirts, as well as by switching on the air conditioner.
+To avoid insects from getting into your [clothes and biting](https://pestpolicy.com/can-fleas-live-on-clothes/), you should wear special clothes that have a net that keeps them out. When your vacuum cleaner is not enough to keep the critters away, you can protect yourself with long pants and long shirts, as well as by switching on the air conditioner.
 
 ##  6.**Small Mesh Screening**
 
@@ -49,3 +49,4 @@ Mosquitos can get into your home through open windows. You can stop them with sc
 ##  Conclusion
 
 Remember to perform a patch test before applying any essential oil directly to your skin, as some people may have sensitivities or allergies. Also, reapply these repellents frequently, especially if you're sweating or swimming, as they may wear off over time.
+

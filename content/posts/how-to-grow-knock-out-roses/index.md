@@ -1,4 +1,4 @@
----
+﻿---
 title: How to Grow Knock Out Roses
 description: For decades, roses were synonymous with high-maintenance gardening  requiring meticulous pruning, constant vigilance against pests and diseases, and often...
 slug: /how-to-grow-knock-out-roses/
@@ -16,7 +16,7 @@ tags:
 layout: post
 ---
 
-For decades, roses were synonymous with high-maintenance gardening requiring meticulous pruning, constant vigilance against pests and diseases, and often complex winter protection. Then came the **Knock [Out](https: //pestpolicy. com/when-do-mosquitoes-come-out/) Rose**. Introduced in 2000, this groundbreaking series revolutionized rose cultivation, making the beauty and fragrance of roses accessible to even the most novice gardeners.
+For decades, roses were synonymous with high-maintenance gardening requiring meticulous pruning, constant vigilance against pests and diseases, and often complex winter protection. Then came the **Knock [Out](https://pestpolicy.com/when-do-mosquitoes-come-out/) Rose**. Introduced in 2000, this groundbreaking series revolutionized rose cultivation, making the beauty and fragrance of roses accessible to even the most novice gardeners.
 
 Known for their exceptional disease resistance, continuous blooming, and impressive hardiness, Knock Out Roses live up to their name by virtually eliminating the common frustrations associated with traditional roses.
 
@@ -103,3 +103,4 @@ Knock Out Roses are excellent choices for containers, especially the smaller var
 ##  Final Thoughts
 
 Knock Out Roses truly live up to their reputation as the ultimate easy-care rose. Their remarkable disease resistance, continuous blooming habit, and general hardiness make them a perfect choice for gardeners of all experience levels. By providing them with ample sunlight, well-draining soil, and basic care, you can enjoy a season-long explosion of vibrant color that will "knock out" the competition in your landscape with minimal fuss.
+

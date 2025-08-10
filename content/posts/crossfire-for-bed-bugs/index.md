@@ -1,4 +1,4 @@
----
+﻿---
 title: Crossfire for Bed Bugs
 description: Most folks can achieve a bedbug-free home for less than 200-300 over 2-3 months with some diligence. If done correctly, you shouldnt see bed bugs after 2-3...
 slug: /crossfire-for-bed-bugs/
@@ -19,7 +19,7 @@ Most folks can achieve a bedbug-free home for less than $200-$300 over 2-3 month
 
 Many people swear by steaming or heat-treating bed bugs/). I tried this method twice and found that it failed for me because I did not have the time or patience to do it daily for two months. This review focuses on the chemical route with CrossFire, which has proven to be more effective with consistent application.
 
-Related: [Bed Bug Steamer](https: //pestpolicy. com/best-bed-bug-steamer/)
+Related: [Bed Bug Steamer](https://pestpolicy.com/best-bed-bug-steamer/)
 
 ##  CrossFire for Bed Bugs (Residual Spray)
 
@@ -39,9 +39,9 @@ One quart of CrossFire goes a long way; I was able to treat my 1200 sq ft, three
 
 ###  **3. Launder Your Clothes Thoroughly **
 
-During the first 2-3 weeks, while you may still [see live bed bugs](https: //pestpolicy. com/can-bed-bugs-live-in-carpet/), launder your bedclothes every three days and dry them on high heat. Keep your CrossFire spray handy in case you spot any bed bugs crawling around.
+During the first 2-3 weeks, while you may still [see live bed bugs](https://pestpolicy.com/can-bed-bugs-live-in-carpet/), launder your bedclothes every three days and dry them on high heat. Keep your CrossFire spray handy in case you spot any bed bugs crawling around.
 
-Vacuum your home daily, paying special attention to baseboards if you have carpeting. Immediately empty the vacuum, tie up the debris, and remove it from your home to ensure you kill even the [baby bed bugs](https: //pestpolicy. com/baby-bed-bugs/).
+Vacuum your home daily, paying special attention to baseboards if you have carpeting. Immediately empty the vacuum, tie up the debris, and remove it from your home to ensure you kill even the [baby bed bugs](https://pestpolicy.com/baby-bed-bugs/).
 
 Clear out shelves in closets and books on bookcasesno boxes either, as bed bugs love hiding in cardboard. Everything you keep needs to be sealed or tied up in plastic or garbage bags. This leaves bed bugs nowhere to hide.
 
@@ -49,10 +49,11 @@ Clear out shelves in closets and books on bookcasesno boxes either, as bed bugs 
 
 Dont forget to treat your car. Bed bugs can hitchhike to your vehicle and eventually infest it. Treat your car with CrossFire every time you treat your home.
 
-The cheapest place Ive found to buy CrossFire is from an online source where its priced at $30 with free shipping if you spend over $45. I suggest buying two bottles upfront, as it will take at least that much to treat every 14 days for 2-3 months, plus youll benefit from free shipping. Related: [Top best bed bug sprays](https: //pestpolicy. com/best-bed-bug-spray/)
+The cheapest place Ive found to buy CrossFire is from an online source where its priced at $30 with free shipping if you spend over $45. I suggest buying two bottles upfront, as it will take at least that much to treat every 14 days for 2-3 months, plus youll benefit from free shipping. Related: [Top best bed bug sprays](https://pestpolicy.com/best-bed-bug-spray/)
 
 ##  Conclusion
 
 CrossFire offers an effective solution to the persistent problem of bed bugs when used correctly and consistently. By following these stepsdecluttering, correctly mixing and applying CrossFire, laundering your clothes regularly, and not forgetting to treat your caryou can achieve a bedbug-free home.
 
 Although the initial process may seem daunting, the results are well worth the effort. With the right approach and a bit of diligence, you can rid your home of these pests for good.
+

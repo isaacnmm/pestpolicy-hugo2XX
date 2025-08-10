@@ -1,4 +1,4 @@
----
+﻿---
 title: Does Coconut Oil Kill Fleas
 description: So, does coconut oil kill fleas? Well, the simple answer is, YES! coconut oil has lauric acid that'll kill fleas through suffocation and restricting their...
 slug: /does-coconut-oil-kill-fleas/
@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 
-*So, **does coconut oil kill [fleas](https: //pestpolicy. com/does-apple-cider-vinegar-kill-fleas/)**? Well, the simple answer is, YES! coconut oil has lauric acid that'll kill fleas through suffocation and restricting their movement. It covers the * *flea's exoskeleton restricting its movement and breathing - leading to and death. * *In addition, coconut oil has anti-fungal and anti-microbial properties.
+*So, **does coconut oil kill [fleas](https://pestpolicy.com/does-apple-cider-vinegar-kill-fleas/)**? Well, the simple answer is, YES! coconut oil has lauric acid that'll kill fleas through suffocation and restricting their movement. It covers the * *flea's exoskeleton restricting its movement and breathing - leading to and death. * *In addition, coconut oil has anti-fungal and anti-microbial properties.
 
 Thus, I'll heal various skin conditions on your pet - cats or dogs.
 
@@ -25,11 +25,11 @@ Just like on pets, coconut oil has many health benefits for humans. * *Coconut o
 
 Many scientific studies have reported that dog flea shampoos having high amounts of virgin coconut oil will is effective in killing bugs such as lice, mites, ticks, and fleas. Coconut oil, particularly virgin coconut oil, will be safe to apply on your cat's or dog's fur or skin. The brand lacks ingredients that would strain the pet's immune system.
 
-- Its[antimicrobial properties](https: //nextgendog. com/wp-content/uploads/2016/03/34-ECTOPARASITICIDAL-EFFECT-OF-VIRGIN-COCONUT-Cocos-nucifera-OIL-SHAMPOO-IN-DOGS. pdf)hinder the infection of cats and dogs by ectoparasites like mange mites, fleas, and ticks. - Further, it'll kill pests that are already on your pet - besides[fungi, viruses, and bacteria](https: //www. ncbi. nlm. nih. gov/pmc/articles/PMC444260/).
+- Its[antimicrobial properties](https://nextgendog.com/wp-content/uploads/2016/03/34-ECTOPARASITICIDAL-EFFECT-OF-VIRGIN-COCONUT-Cocos-nucifera-OIL-SHAMPOO-IN-DOGS. pdf)hinder the infection of cats and dogs by ectoparasites like mange mites, fleas, and ticks. - Further, it'll kill pests that are already on your pet - besides[fungi, viruses, and bacteria](https://www.ncbi. nlm. nih. gov/pmc/articles/PMC444260/).
 
 But whycoconut oil compared to flea spray for the yard?
 
-Well, coconut oil is safe to apply directly on your pet's skin - it won't cause seizures, vomiting, or skin irritations. Coconut oil has ingredients such as fatty acids that allow it to work as a [flea repellent and pet skin treatment](https: //www. wikihow. com/Use-Coconut-Oil-for-Flea-and-Skin-Treatment-on-Dogs). Luckily, the fatty acids in the oil are very safe for your pet and have a long residue effect.
+Well, coconut oil is safe to apply directly on your pet's skin - it won't cause seizures, vomiting, or skin irritations. Coconut oil has ingredients such as fatty acids that allow it to work as a [flea repellent and pet skin treatment](https://www.wikihow. com/Use-Coconut-Oil-for-Flea-and-Skin-Treatment-on-Dogs). Luckily, the fatty acids in the oil are very safe for your pet and have a long residue effect.
 
 Therefore, the coconut oil will repel and immobilize the fleas in addition to preventing the irritation of the pet's skin (enhances skin repair) due to previous flea bites.
 
@@ -61,13 +61,13 @@ Next, you'll simply need to flea comb your cat or dog's fur or hair using coconu
 
 Luckily, coconut oil contains ingredients (fatty acids) that'll be safe to use on cats and dogs of all sizes and ages. Therefore, no special care is required when flea treating the kittens or puppies since there will be no ramifications on the pet's health.
 
-Further, coconut oil is [safe for humans](https: //www. nytimes. com/2018/08/21/well/eat/coconut-oil-good-bad-health. html), and hence it won't harm your kids who might find themselves playing with the cats or dogs when you've flea-treated the animals.
+Further, coconut oil is [safe for humans](https://www.nytimes. com/2018/08/21/well/eat/coconut-oil-good-bad-health. html), and hence it won't harm your kids who might find themselves playing with the cats or dogs when you've flea-treated the animals.
 
 ##  Choosing the Right Coconut Oil? -Does Coconut Oil Kill Fleas?
 
 It's very important that you choose coconut oil that's both effective and safe for use in treating the fleas in your home, yards, or on your pets. Therefore, always check the product stickers and labels to determine if it's organic coconut oil, extra-virgin, and unrefined - these are the type of oils you should select since they're natural and pure. So, here are the coconut oils brands that I recommend you use for the flee treatment process.
 
-- [Coco-therapy Pure, Virgin & Organic](https: //www. amazon. com/dp/B002XAZZMS/? tag=p-policy-20) - [Sun Beams Raw & Organic Coconut Oil](https: //www. amazon. com/dp/B00M7PENFE/? tag=p-policy-20) - [Zesty Paws Extra-Virgin & Organic Coconut Oil](https: //www. amazon. com/dp/B072FTVVVW/? tag=p-policy-20) **Pro Tip**: Despite that most coconut oils will kill fleas, only select the ones that are not deodorized, blended, or refined.
+- [Coco-therapy Pure, Virgin & Organic](https://www.amazon. com/dp/B002XAZZMS/? tag=p-policy-20) - [Sun Beams Raw & Organic Coconut Oil](https://www.amazon. com/dp/B00M7PENFE/? tag=p-policy-20) - [Zesty Paws Extra-Virgin & Organic Coconut Oil](https://www.amazon. com/dp/B072FTVVVW/? tag=p-policy-20) **Pro Tip**: Despite that most coconut oils will kill fleas, only select the ones that are not deodorized, blended, or refined.
 
 Luckily, the natural coconut oils for fleas will not be overly expensive.
 
@@ -75,12 +75,13 @@ Luckily, the natural coconut oils for fleas will not be overly expensive.
 
 Despite that coconut oil is generally safe to use around the house, yard, or with your pets including cats and dogs, here are the precautions you must take. - Allergic reaction - There is a likelihood that your pets (cats or dogs) may experience some allergic reaction. Thus, you must notify any amount of such reactions that may occur on your pets and stop the process immediately.
 
-- [Fatty plaques](https: //www. ncbi. nlm. nih. gov/pubmed/5638638)- Some pets may experience the effects of[fatty plaques in their arteries](https: //www. ncbi. nlm. nih. gov/pubmed/7462804)when they ingest coconut oil. Therefore, avoid allowing the pets to eat excessive amounts of coconut oil. - Scent detection - The pets may also experience some loss of their scent-detection ability due to ingesting[saturated fat](https: //www. ncbi. nlm. nih.
+- [Fatty plaques](https://www.ncbi. nlm. nih. gov/pubmed/5638638)- Some pets may experience the effects of[fatty plaques in their arteries](https://www.ncbi. nlm. nih. gov/pubmed/7462804)when they ingest coconut oil. Therefore, avoid allowing the pets to eat excessive amounts of coconut oil. - Scent detection - The pets may also experience some loss of their scent-detection ability due to ingesting[saturated fat](https://www.ncbi. nlm. nih.
 
 gov/pubmed/12893164)and thus you must take caution.
 
 ##  Conclusion
 
-So, does coconut oil kill fleas? Coconut oils will repel and kill fleas in your yard, house, and pets - including cars and dogs. - Also, the oil has anti-microbial and anti-fungal properties that'll enable it to heal your pet's skin breakouts and such conditions. - Alternative for flea treatment includes[dawn dish soap](https: //pestpolicy. com/dawn-dish-soap-for-fleas/), flea collars, and flea combs.
+So, does coconut oil kill fleas? Coconut oils will repel and kill fleas in your yard, house, and pets - including cars and dogs. - Also, the oil has anti-microbial and anti-fungal properties that'll enable it to heal your pet's skin breakouts and such conditions. - Alternative for flea treatment includes[dawn dish soap](https://pestpolicy.com/dawn-dish-soap-for-fleas/), flea collars, and flea combs.
 
-However, ensure you groom your cat adequately, use flea shampoos and wash off the [flea dirt](https: //pestpolicy. com/what-is-flea-dirt/) from their spaces.
+However, ensure you groom your cat adequately, use flea shampoos and wash off the [flea dirt](https://pestpolicy.com/what-is-flea-dirt/) from their spaces.
+

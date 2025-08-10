@@ -1,4 +1,4 @@
----
+﻿---
 title: Flea Eggs Vs Dandruff
 description: Sometimes it is not easy to tell the difference between flea eggs vs. dandruff that appears on your pet's skin - but fleas can't live in human...
 slug: /flea-eggs-vs-dandruff/
@@ -15,9 +15,9 @@ tags:
 layout: post
 ---
 
-Sometimes it is not easy to tell the difference between flea eggs vs. dandruff that appears on your pet's skin - but [[fleas](https: //pestpolicy. com/how-long-do-flea-eggs-take-to-hatch/) can't live in human hair](https: //pestpolicy. com/can-fleas-live-in-human-hair/). ***You are arming yourself with the knowledge to successfully determine which will significantly help you treat these conditions, including allergies.
+Sometimes it is not easy to tell the difference between flea eggs vs. dandruff that appears on your pet's skin - but [[fleas](https://pestpolicy.com/how-long-do-flea-eggs-take-to-hatch/) can't live in human hair](https://pestpolicy.com/can-fleas-live-in-human-hair/). ***You are arming yourself with the knowledge to successfully determine which will significantly help you treat these conditions, including allergies.
 
-*** ***When you spot small white flakes on your pet's skin, it might be easy to jump to conclusions without knowing the difference between dandruff and [flea](https: //pestpolicy. com/what-do-flea-eggs-look-like/) eggs - flea eggs can be killed by vacuuming while adults through flea bombs. ***
+*** ***When you spot small white flakes on your pet's skin, it might be easy to jump to conclusions without knowing the difference between dandruff and [flea](https://pestpolicy.com/what-do-flea-eggs-look-like/) eggs - flea eggs can be killed by vacuuming while adults through flea bombs. ***
 
 ##  Flea Eggs vs. Dandruff - How to Tell the Difference?
 
@@ -29,7 +29,7 @@ If you have become aware of your pet seeming irritated or scratching a lot more 
 
 - Theeggs are usually sticky and hardto remove.
 
-- The[eggs of fleas are oval](https: //pestpolicy. com/what-do-flea-eggs-look-like/)and have a round end. - If you notice adult fleas or small black specks in your pet's fur, this is a sure indication that there is a flea infestation. - Your cat may have small red marks on herskin from flea bites. Related: Can Fleas Live in Carpets?
+- The[eggs of fleas are oval](https://pestpolicy.com/what-do-flea-eggs-look-like/)and have a round end. - If you notice adult fleas or small black specks in your pet's fur, this is a sure indication that there is a flea infestation. - Your cat may have small red marks on herskin from flea bites. Related: Can Fleas Live in Carpets?
 
 If your pet is suffering from fleas, you will certainly want to tackle the problem, and there are a few easy ways to do this.
 
@@ -56,3 +56,4 @@ You might also find that your pet suffers from dandruff after trauma to the skin
 ##  Conclusion
 
 If you see white flecks within your pet's fur, panic may set in, and concerns might begin as to whether these are flea eggs or dandruff. - However, the two can be easily told apart if you know what you are looking for. Similarly, no matter which condition you find yourself confronted with, both can be easily treated using simple methods.
+

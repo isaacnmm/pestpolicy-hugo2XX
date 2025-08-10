@@ -1,4 +1,4 @@
----
+﻿---
 title: How to Repair Sagging Gutters
 description: Sagging gutters are a common sight on many homes, often manifesting as visible dips or bellies in the gutter trough. While it might seem like a minor cosmetic...
 slug: /how-to-repair-sagging-gutters/
@@ -54,7 +54,7 @@ Deciding whether to tackle sagging gutter repair yourself or hire a professional
 * **Seamless Gutters:** If your home has seamless gutters, repairs or adjustments often require specialized tools and expertise. * **Lack of Confidence/Time:** If you're uncomfortable with heights, lack the necessary tools, or simply don't have the time.
 ---
 
-Sagging [gutters](https: //pestpolicy. com/all-american-gutters-reviews/) are a common sight on many homes, often manifesting as visible dips or bellies in the [gutter](https: //pestpolicy. com/are-gutters-necessary/) trough. While it might seem like a minor cosmetic issue, a sagging gutter is a clear sign that your home's drainage system is failing.
+Sagging [gutters](https://pestpolicy.com/all-american-gutters-reviews/) are a common sight on many homes, often manifesting as visible dips or bellies in the [gutter](https://pestpolicy.com/are-gutters-necessary/) trough. While it might seem like a minor cosmetic issue, a sagging gutter is a clear sign that your home's drainage system is failing.
 
 Instead of channeling rainwater efficiently, these low spots collect standing water, adding immense weight, accelerating deterioration, and ultimately causing water to overflow directly onto your foundation, siding, and landscaping.
 
@@ -81,3 +81,4 @@ Before you start, gather the necessary tools and materials.
 Gutters should have a slight, continuous pitch (slope) towards the downspouts. The standard recommendation is a **minimum of 1/4 inch of drop for every 10 feet of gutter run**. This ensures that gravity efficiently moves all rainwater and debris towards the downspouts and away from your home.
 
 Repairing sagging gutters is a critical maintenance task that protects your home from water damage. By correctly identifying the cause and applying the appropriate fix, you can restore your gutters to proper working order, ensuring they continue to channel water away effectively and safeguard your property for years to come. Don't let a sag turn into a deluge!
+

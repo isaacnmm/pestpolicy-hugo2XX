@@ -1,4 +1,4 @@
----
+﻿---
 title: What is a Hobo Spider
 description: This post will answer the question "What is a Hobo Spider?" and give you 9 other interesting facts about these unique creatures! Hobo spiders Tegenaria...
 slug: /what-is-a-hobo-spider/
@@ -17,11 +17,11 @@ layout: post
 
 This post will answer the question "What is a Hobo Spider? " and give you 9 other interesting facts about these unique creatures!
 
-Hobo spiders (Tegenaria agrestis) are aggressive [house spiders](https: //pestpolicy. com/house-spiders/); they like damp and dark areas like in brick crevices, basement, garage, behind furniture, under radiators, or between boxes. **What Do ** **Hobo Spiders ** **Look Like? - A summary** - **Characteristics: **The eight-eyed Hobo spider does not have a typical eye arrangement for this species.
+Hobo spiders (Tegenaria agrestis) are aggressive [house spiders](https://pestpolicy.com/house-spiders/); they like damp and dark areas like in brick crevices, basement, garage, behind furniture, under radiators, or between boxes. **What Do ** **Hobo Spiders ** **Look Like? - A summary** - **Characteristics: **The eight-eyed Hobo spider does not have a typical eye arrangement for this species.
 
 A close look at the spider shows that its ALEs and AMEs are almost joined.
 
-- **Color: **Hobo spiders come in different shades of brown, so it's important to learn the distinguishing features but they'll look anything like the brown recluse spider and[wolf spiders](https: //pestpolicy. com/wolf-spiders/). - **Males: **The males of the species are typically shorter than 11 mm, with swollen appendages. The appendages are actually their reproductive organs.
+- **Color: **Hobo spiders come in different shades of brown, so it's important to learn the distinguishing features but they'll look anything like the brown recluse spider and[wolf spiders](https://pestpolicy.com/wolf-spiders/). - **Males: **The males of the species are typically shorter than 11 mm, with swollen appendages. The appendages are actually their reproductive organs.
 
 - **Females: **The female hobos have a length ranging from 11 mm - 14 mm.
 
@@ -35,7 +35,7 @@ Their abdomens are larger than that of their male hobo spiders. So, let's get in
 
 - Most people don't know when they're encroaching on the hobo spider, which typically hangs out in hidden and dark areas. - For the most part, they're harmless and just make webs but you need to know what they look like. **Are They Dangerous? ** A previous study of the hobo spider venom reported that Hobo spiders are a medical threat and that they're cause necrotic lesions.
 
-- However, current research shows that hobo spiders[aren't medically threatening](https: //www. usu. edu/today/story/hobo-spider-bite-may-not-be-so-dangerous) **Other Bug Problems ** The hobo spider, though an expert predator in its own right, is also preyed upon by other animals. These bugs include: - Centipedes - Birds - Bees, Mud-dauber wasps, and hornets - Spiders such as the wolf spider - Rodents and furry animals likesquirrelsor chipmunks.
+- However, current research shows that hobo spiders[aren't medically threatening](https://www.usu. edu/today/story/hobo-spider-bite-may-not-be-so-dangerous) **Other Bug Problems ** The hobo spider, though an expert predator in its own right, is also preyed upon by other animals. These bugs include: - Centipedes - Birds - Bees, Mud-dauber wasps, and hornets - Spiders such as the wolf spider - Rodents and furry animals likesquirrelsor chipmunks.
 
 ##  Hobo Spider Ecology, Habitat, and Distribution
 
@@ -59,7 +59,7 @@ So, the female spider is the one who does all of the work to produce new offspri
 
 No, the Hobo Spider is not venomous and does not pose any threat to humans or animals - according to the CDC.
 
-Recent [studies](http: //ipm. ucanr. edu/PMG/PESTNOTES/pn7488. html) show that the venom of the hobo spider does not create significant skin reactions in animals. - However, some people are allergic to their bite and can develop symptoms such as local swelling, itching around the area bitten by the spider, headache, nausea, or vomiting, and general malaise.
+Recent [studies](http://ipm.ucanr. edu/PMG/PESTNOTES/pn7488. html) show that the venom of the hobo spider does not create significant skin reactions in animals. - However, some people are allergic to their bite and can develop symptoms such as local swelling, itching around the area bitten by the spider, headache, nausea, or vomiting, and general malaise.
 
 If you experience these symptoms after being bit please seek medical attention immediately.
 
@@ -79,7 +79,7 @@ The hobo spider is not known to be poisonous; however, it can bite humans which 
 
 ##  What Do You Do If You Find A Hobo Spider?
 
-If you find a hobo spider, please contact an exterminator for [spider inspection and control](https: //pestpolicy. com/how-much-do-spider-exterminators-cost/) as they have venomous fangs.
+If you find a hobo spider, please contact an exterminator for [spider inspection and control](https://pestpolicy.com/how-much-do-spider-exterminators-cost/) as they have venomous fangs.
 
 The spider exterminator may employ these steps to get rid of a hobo spider: - Vacuum to get rid of those spiderwebs. Also, change your vacuum filter regularly; ideally, monthly. - Prevent wandering spiders from entering homes byinstalling sticky trapsin dark, damp places like basements and closets.
 
@@ -104,3 +104,4 @@ So, on the question of "What is a Hobo Spider? " we hope this article has been h
 Hobo spider bites rarely result in serious medical issues but may cause swelling at the site of injury along with flu-like symptoms such as fever, chills, nausea, and headache.
 
 As always, happy spider hunting!
+

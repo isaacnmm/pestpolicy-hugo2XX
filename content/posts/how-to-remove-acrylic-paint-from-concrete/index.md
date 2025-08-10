@@ -1,4 +1,4 @@
----
+﻿---
 title: How to Remove Acrylic Paint from Concrete
 description: Today's question came from Jake, one of our avid painting blog readers. The question relates to how to remove acrylic paint from concrete .
 slug: /how-to-remove-acrylic-paint-from-concrete/
@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 
-Today's question came from Jake, one of our avid painting blog readers. The question relates to; how to remove [acrylic](https: //pestpolicy. com/how-to-remove-acrylic-paint-from-canvas/) paint from concrete. Compared to oil-based paint, acrylic paint (being water-based) will be easier to clean. - *In summary, use a rag to wipe off the wet paint from concrete. Dip your scrub brush in some soapy water and scrub the concrete wall.
+Today's question came from Jake, one of our avid painting blog readers. The question relates to; how to remove [acrylic](https://pestpolicy.com/how-to-remove-acrylic-paint-from-canvas/) paint from concrete. Compared to oil-based paint, acrylic paint (being water-based) will be easier to clean. - *In summary, use a rag to wipe off the wet paint from concrete. Dip your scrub brush in some soapy water and scrub the concrete wall.
 
 * - - *Use more soap solution to clean up a lot of the wet paint and remove it quickly. Soak all the wet paint using a sponge and finally rinse the concrete surface using freshwater through a high-pressure hose. * *Repeat the process until all the paint is removed. * Acrylic paints tend to dry quite fast while also becoming water-resistant and sturdy once dried. Could he acrylic coat be challenging to remove from concrete?
 
@@ -41,11 +41,11 @@ The soap solution will dilute all the wet paint, and hence it'll be simple to re
 
 ###  2. Method 2: Acrylic Paint Remover/ Stripper for Old or Dried Acrylic Paint
 
-The acrylic paint remover will handle any old or dried acrylic paint that proves challenging for soapy water, rag, and scrub brush. The remover readily dissolves the [acrylic paint's resin](https: //www. sciencedirect. com/topics/chemistry/acrylic-resin).
+The acrylic paint remover will handle any old or dried acrylic paint that proves challenging for soapy water, rag, and scrub brush. The remover readily dissolves the [acrylic paint's resin](https://www.sciencedirect. com/topics/chemistry/acrylic-resin).
 
 ####  Step #1:**Prepare the Concrete Surface**
 
-The first thing you need to collect materials needed to remove your acrylic paint from concrete. Take a vacuum or broom to clean your painted concrete surfaces - [incluing latext paint. ](https: //pestpolicy. com/how-to-remove-latex-paint-from-concrete/) Removing the debris or dirt on the concrete will get the surface ready for action. Further, get some paint scraper to remove a little more acrylic paint from the concrete.
+The first thing you need to collect materials needed to remove your acrylic paint from concrete. Take a vacuum or broom to clean your painted concrete surfaces - [incluing latext paint. ](https://pestpolicy.com/how-to-remove-latex-paint-from-concrete/) Removing the debris or dirt on the concrete will get the surface ready for action. Further, get some paint scraper to remove a little more acrylic paint from the concrete.
 
 ####  Step #2: Apply Some Acrylic Paint Remover
 
@@ -61,7 +61,7 @@ Use a paintbrush to apply some stripper for the areas you'd consider as trouble 
 
 ####  Step #4: Wash the Concrete Surface
 
-Finally, its time to undertake the ultimate wash. So, hose the concrete surface with clean water. But fir your [open-air concrete](https: //pestpolicy. com/how-to-remove-paint-from-concrete-without-chemicals/) such as the garage floor surfacesor driveways, you may need to get a power washer. The power washers will effect ively clean or wash down larger areas.
+Finally, its time to undertake the ultimate wash. So, hose the concrete surface with clean water. But fir your [open-air concrete](https://pestpolicy.com/how-to-remove-paint-from-concrete-without-chemicals/) such as the garage floor surfacesor driveways, you may need to get a power washer. The power washers will effect ively clean or wash down larger areas.
 
 You'll get the machines for cheap (with the hiring option being the best) at most local stores.
 
@@ -96,3 +96,4 @@ Further, ensure that the blaster valves are sealed and closed effectively prior 
 On how to remove acrylic paint from concrete, you must know the different methods for working on either wet or dry acrylic paint (water-based paint) sitting on such surfaces. Also, ensure to ultimately clean the concrete surface using water and soap (solution) and get a scrub brush as it'll get into the deeper crevices or crack of the concrete.
 
 Finally, Acrylic paint Removers are a great method to remove the dried and tough acrylic paints on concrete.
+

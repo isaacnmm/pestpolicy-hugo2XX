@@ -1,4 +1,4 @@
----
+﻿---
 title: Proof Bed Bug Spray Review
 description: Well, Proof qualified to our list of best bed bug sprays. But how good is it? The manufacturer claims that Proof will effectively kill all the bed bugs, their...
 slug: /proof-bed-bug-spray-review/
@@ -17,11 +17,11 @@ layout: post
 
 Well, Proof qualified to our list of best bed bug sprays. But how good is it? The manufacturer claims that Proof will effectively kill all the bed bugs, their larvae, and eggs. Plant-based spray (actually Neem-Oil derived) is marketed as a natural solution and alternative to chemical pesticides. In this post, I've reviewed the good and the bad of theProof bed bug spray.
 
-> But first, Proof is produced from the Neem tree and thus it's aplant-extracted insecticide with > [5. 5%Cold-Pressed Neem Oil](https: //tigerprints. clemson. edu/cgi/viewcontent. cgi? referer=&httpsredir=1&article=2467&context=all_dissertations) > as it key active ingredients.
+> But first, Proof is produced from the Neem tree and thus it's aplant-extracted insecticide with > [5. 5%Cold-Pressed Neem Oil](https://tigerprints.clemson. edu/cgi/viewcontent. cgi? referer=&httpsredir=1&article=2467&context=all_dissertations) > as it key active ingredients.
 
 ##  #1:Review Summary
 
-Proof has high efficacy in repelling bed bugs/) but it's non-toxic to humans (and kids), cats or dogs. Therefore, it's safe to use around the house. Further, it's a residue (as left on various surfaces) will continue repelling the [bed bugs](https: //pestpolicy. com/what-does-bed-bug-poop-look-like/) for about two weeks - which is a pretty long residue effect.
+Proof has high efficacy in repelling bed bugs/) but it's non-toxic to humans (and kids), cats or dogs. Therefore, it's safe to use around the house. Further, it's a residue (as left on various surfaces) will continue repelling the [bed bugs](https://pestpolicy.com/what-does-bed-bug-poop-look-like/) for about two weeks - which is a pretty long residue effect.
 
 Proof, 100% spray, is made from neem oil that'll mainly disrupt the bed bug's reproductive cycle but may not control a massive infestation or kill bed bugs. Proof, the all-natural bed bug spray, might not give you a 100 percent guarantee in controlling all bed bugs, but it is great if you combine with bed bug traps.
 
@@ -67,4 +67,5 @@ Review of Ortho Home Defense Dual-Action
 
 ###  2. Proof Bed Bug Spray vs. Harris Bed Bug Killer
 
-[Review of Proof Bed Bug Spray](https: //pestpolicy. com/proof-bed-bug-spray-review/)
+[Review of Proof Bed Bug Spray](https://pestpolicy.com/proof-bed-bug-spray-review/)
+

@@ -1,4 +1,4 @@
----
+﻿---
 title: What Attracts Carpenter Ants in a Home
 description: Both carpenter ants and termites cause the destruction of our furniture and other household items in your house. But, what attracts carpenter ants in a home?...
 slug: /what-attracts-carpenter-ants-in-a-home/
@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 
-Both [carpenter](https: //pestpolicy. com/carpenter-ants-vs-fire-ants/) ants and termites cause the destruction of our furniture and other household items in your house. But, what [attracts carpenter ants](https: //pestpolicy. com/best-ant-traps/) in a home? - **Carpenter ants are attracted to our homes by debris piles, food, shade, stagnant water, and also like to live in moist places.
+Both [carpenter](https://pestpolicy.com/carpenter-ants-vs-fire-ants/) ants and termites cause the destruction of our furniture and other household items in your house. But, what [attracts carpenter ants](https://pestpolicy.com/best-ant-traps/) in a home? - **Carpenter ants are attracted to our homes by debris piles, food, shade, stagnant water, and also like to live in moist places.
 
 Carpenter ants are very destructive, especially in the pantry.
 
@@ -37,7 +37,7 @@ Carpenter ants like damp and humid conditions in your house. Leaking pipes and s
 
 If you have firewood areas, you need to check them for the carpenter ants. They are attracted to such places more so if the firewood is wet and moist. - Before you take that firewood into the house, always do a thorough check for these ants. - Damp and the rotting wood are also another favorite spot for the ants as they chew the wood. There are also other factors that accelerate and create a rightful environment for the ants.
 
-Related: [Quality Ant Killer](https: //pestpolicy. com/best-ant-killer/)
+Related: [Quality Ant Killer](https://pestpolicy.com/best-ant-killer/)
 
 ###  **4. Poor Drainages and Stagnant Water **
 
@@ -84,3 +84,4 @@ When you start seeing the subtle sign, do not ignore them but rather call and pe
 What attracts carpenter ants in a home? Carpenter ants like sugary products and proteins and they will attack a home as they look for food. - Also, moist and humid conditions and debris are also a good attraction to these ants. - There are different signs to look for to know whether these ants have invaded your home. - These ants are very difficult to control and also destructive to any wooden material within your home.
 
 If the signs indicate any kind of infestation it is good to get in touch with a pest control expert to help in elimination.
+

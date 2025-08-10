@@ -1,4 +1,4 @@
----
+﻿---
 title: Best Paint for Interior Doors
 description: The interior of your house can be a high traffic zone, especially if you have more occupants who must move from one room to another. During such movement,...
 slug: /best-paint-for-interior-doors/
@@ -14,9 +14,9 @@ tags:
 layout: post
 ---
 
-The [interior](https: //pestpolicy. com/how-to-paint-a-metal-interior-door/) of your house can be a high traffic zone, especially if you have more occupants who must move from one room to another.
+The [interior](https://pestpolicy.com/how-to-paint-a-metal-interior-door/) of your house can be a high traffic zone, especially if you have more occupants who must move from one room to another.
 
-During such movement, hands interact a lot with doors, thus staining and making them dirty. It is for such reasons that your doors need a regular touch by the Best Paint for Interior Doors to keep them neat and attractive. See Also: [Painting your Metal Interior Door](https: //pestpolicy. com/how-to-paint-a-metal-interior-door/).
+During such movement, hands interact a lot with doors, thus staining and making them dirty. It is for such reasons that your doors need a regular touch by the Best Paint for Interior Doors to keep them neat and attractive. See Also: [Painting your Metal Interior Door](https://pestpolicy.com/how-to-paint-a-metal-interior-door/).
 
 ##  s: Top 7 Best Paint for Interior Doors in 2025
 
@@ -128,8 +128,9 @@ Like most other water-based paints, KILZ 2 dries in a record 30 minutes paving t
 
 Cons: - May not cover completely if not applied according to instructions.
 
-> See Also: > [Primer for Rusted Metal](https: //pestpolicy. com/best-primer-for-rusted-metal/)
+> See Also: > [Primer for Rusted Metal](https://pestpolicy.com/best-primer-for-rusted-metal/)
 
 ##  Conclusion
 
 This is a non-exhaustive list of the Best Paint for Interior Doors. Keep reading my next blog posts to get more updates on this list.
+

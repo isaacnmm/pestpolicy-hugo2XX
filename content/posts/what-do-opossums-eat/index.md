@@ -1,4 +1,4 @@
----
+﻿---
 title: What Do Opossums Eat
 description: Opossums are omnivores, meaning that they eat both plants and animals - like humans. But really, what do opossums eat? Opossums need a balanced diet of...
 slug: /what-do-opossums-eat/
@@ -15,13 +15,13 @@ tags:
 layout: post
 ---
 
-Opossums are omnivores, meaning that they [eat](https: //pestpolicy. com/do-cats-eat-lizards/) both plants and animals - like humans. But really, what do opossums eat? Opossums need a balanced diet of proteins, fats, and carbohydrates to maintain good health. *A natural diet for an opossum would be lots of insects (insects are high in protein), small mammals (high in fat), and the occasional fruit or nut (high in carbs).
+Opossums are omnivores, meaning that they [eat](https://pestpolicy.com/do-cats-eat-lizards/) both plants and animals - like humans. But really, what do opossums eat? Opossums need a balanced diet of proteins, fats, and carbohydrates to maintain good health. *A natural diet for an opossum would be lots of insects (insects are high in protein), small mammals (high in fat), and the occasional fruit or nut (high in carbs).
 
 They need a very high calcium diet (which can be found in plant products).
 
 * *In captivity, opossums/ possums eat different foods including vegetables and dog food. But in summary, their diet can be leafy greens (like kale & spinach), grains (like oats & rice), and fruits (like oranges & apples). *
 
-Related: [Do Opossums Carry Rabies](https: //pestpolicy. com/do-opossums-carry-rabies/)
+Related: [Do Opossums Carry Rabies](https://pestpolicy.com/do-opossums-carry-rabies/)
 
 ##  Possum diet; What Do Opossums Eat?
 
@@ -63,7 +63,7 @@ The opossum has some blood protein that makes them safe from the snake's venom- 
 
 In fact, scientists are delivering and anti-venom for use on humans - taking advantage of the special feature of the opossums' blood.
 
-Ty these [gopher traps](https: //pestpolicy. com/best-gopher-traps/).
+Ty these [gopher traps](https://pestpolicy.com/best-gopher-traps/).
 
 ###  **7. Opossums will Eat Garbage**
 
@@ -73,7 +73,7 @@ But this can be a problem when the opossums run down the garbage bins and bags t
 
 Opossums love garbage disposals; just like raccoons and they'll do what it takes to get their paws on a tasty meal. - Opossums are opportunistic feeders, meaning they will eat whatever is readily accessible - for example if there's food spilled over the side of a garbage can, an opossum will climb up and fetch it so long as he or she doesn't encounter too much danger in doing so.
 
-- They'll scavenge through your trash cans at night looking for any edibles that may have been thrown out from dinner preparations earlier in the day (garbage disposals do not deter them). Garbage contains various items including pet foods that can be eaten by opossums - but you must also [keep the home's drainage system clean](https: //pestpolicy. com/best-drain-cleaner//).
+- They'll scavenge through your trash cans at night looking for any edibles that may have been thrown out from dinner preparations earlier in the day (garbage disposals do not deter them). Garbage contains various items including pet foods that can be eaten by opossums - but you must also [keep the home's drainage system clean](https://pestpolicy.com/best-drain-cleaner//).
 
 ###  8. Opossums Can Eat Fruit and Vegetables
 
@@ -87,7 +87,7 @@ There have also been reports of opossums eating fruits with high sugar content s
 
 ###  9. Pet Food can Make Opossum Diet
 
-Cat or dog food is something Opossums would eat on their own if left to scavenge, but it is also food that can provide them with the nutrition necessary to survive in captivity and will sustain them during rehabilitation when in need of supplemental feeding. Opossums will eat [**pet food**](http: //agrilifecdn. tamu. edu/txwildlifeservices/files/2016/08/Opossum.
+Cat or dog food is something Opossums would eat on their own if left to scavenge, but it is also food that can provide them with the nutrition necessary to survive in captivity and will sustain them during rehabilitation when in need of supplemental feeding. Opossums will eat [**pet food**](http://agrilifecdn.tamu. edu/txwildlifeservices/files/2016/08/Opossum.
 
 pdf) in urban areas, particularly when left outside the homes - particularly since there is not much roadkill and wildlife to forage.
 
@@ -102,3 +102,4 @@ The possum tends to go through periods of activity at
 ##  Conclusion
 
 On the question; what do opossums eat - h ere are some of the meals that opossums eat: - carrion (dead animals) - ectoparasites (animal or plant parasites found on an animal's skin, fur, feathers, scales, etc. ) - fruits and vegetables. Opossum diets will vary depending on what is locally available in a given region.
+

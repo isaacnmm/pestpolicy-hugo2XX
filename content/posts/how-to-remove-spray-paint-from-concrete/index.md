@@ -1,4 +1,4 @@
----
+﻿---
 title: How to Remove Spray Paint from Concrete
 description: Cleaning spray paint from concrete may be cumbersome, especially if combined with other dried stains or contaminated materials.
 slug: /how-to-remove-spray-paint-from-concrete/
@@ -18,7 +18,7 @@ Cleaning spray paint from concrete may be cumbersome, especially if combined wit
 
 *Here's how to remove spray paint from concrete - using TSP, Graffiti remover, soapy detergent & water, sandblaster, power washer, or paint stripper/thinner. These methods eliminate both wet and dried paint. * * * *However, some oil-stained concrete will need thinning or a solvent oil-soluble to clean the oil-layer before the paint removal process begins.
 
-* Alternatively, you can use commercially available spray paint removers such as [Motsenbocker's Lift Off](https: //www. amazon. com/dp/B0013CFNKG/? tag=p-policy-20), [BHA Easy-Strip](https: //www. amazon. com/dp/B087YYM2HQ/? tag=p-policy-20), [Mothers 07243 California](https: //www. amazon. com/dp/B07ZLF1QKC/? tag=p-policy-20), or [Sunnyside](https: //www. amazon. com/dp/B000TUHPAY/? tag=p-policy-20).
+* Alternatively, you can use commercially available spray paint removers such as [Motsenbocker's Lift Off](https://www.amazon. com/dp/B0013CFNKG/? tag=p-policy-20), [BHA Easy-Strip](https://www.amazon. com/dp/B087YYM2HQ/? tag=p-policy-20), [Mothers 07243 California](https://www.amazon. com/dp/B07ZLF1QKC/? tag=p-policy-20), or [Sunnyside](https://www.amazon. com/dp/B000TUHPAY/? tag=p-policy-20).
 
 Observe all the safety and precautions during spray paint removal.
 
@@ -26,7 +26,7 @@ Observe all the safety and precautions during spray paint removal.
 
 ###  Method #1: Using TSP Trisodium Phosphate
 
-The use of TSP ( [trisodium phosphate](https: //www. bobvila. com/articles/cleaning-with-tsp-trisodium-phosphate/) ) is one of the most efficient ways to guarantee a perfect finish if proper procedure is followed.
+The use of TSP ( [trisodium phosphate](https://www.bobvila. com/articles/cleaning-with-tsp-trisodium-phosphate/) ) is one of the most efficient ways to guarantee a perfect finish if proper procedure is followed.
 
 Material Required - TSP (liquid or powder form) and warm, clean water - Stiff bristle brush and hose pipe for outdoors removal - 1-gallon water bucket and pop or rag for indoors painting removal - 5-gallon water bucket and protective gear goggles, face mask, gloves, etc.
 
@@ -52,7 +52,7 @@ Material Required - Two 1-gallon water buckets and scrub brush with stiff bristl
 
 - Clean the spray-painted concrete surface to remove debris - Mix soapy detergent with warm water in one bucket and stir appropriately - Pre-wet the painted surface with warm to quench paint molecules - Dip the brush in the soapy water and scrub the painted area until the paint is removes - Blot the area with a wet rag or paper towel - Rinse with warm water to eradicate the paint.
 
-use hose pipe for the outdoor paint removal process This method is easier, non-toxic, and utilizes readily available material though tedious the paint layer may take a longer time to scrub off. > See Also: > [Removing Latex Paint from Concrete](https: //pestpolicy. com/how-to-remove-latex-paint-from-concrete/)
+use hose pipe for the outdoor paint removal process This method is easier, non-toxic, and utilizes readily available material though tedious the paint layer may take a longer time to scrub off. > See Also: > [Removing Latex Paint from Concrete](https://pestpolicy.com/how-to-remove-latex-paint-from-concrete/)
 
 ###  Method #4: Using Sand Blaster
 
@@ -60,13 +60,13 @@ A sandblaster machine works by removing the top paint layer on the concrete. Pol
 
 Material Required - Protective gear such as face mask, gloves, and sandblasting suit - Portable Sandblaster with at least 50 psi rating - Wet-dry vacuum for indoor or outdoor - or pressure washer for outdoor only - Sandblasting media material, e. g. , fine sandblasting sand Procedure to Follow - Wear protective gear well - Clean the spray-painted area to remove debris - Switch on the sandblaster and start blasting - Aim the sandblaster nozzle to and fro the spray-painted area quickly as you move along - Repeat this process until the entire painted area is clean - Vacuum the removed paint or use a pressure washer for outdoors painting removal NB: This method needs a specialist who is conversant with a sandblaster to prevent concrete damage.
 
-Moreover, it may be expensive if you do not own a sandblaster too. > See Also: > [Removing Acrylic Paint from Concrete](https: //pestpolicy. com/how-to-remove-acrylic-paint-from-concrete/)
+Moreover, it may be expensive if you do not own a sandblaster too. > See Also: > [Removing Acrylic Paint from Concrete](https://pestpolicy.com/how-to-remove-acrylic-paint-from-concrete/)
 
 ###  Method #5: Using a Power Washer
 
 This method uses high-pressure water mixed with soap (or not) to dislodge the paint layer from the surface. The high-pressure steam is generated by a pressure washer and thus best suited for outdoor spray paint removal. Material Required - Protective gear (gloves, respirator, goggles, heavy-duty overall, etc. ) - Electric powered or gas powered pressure washer ranging between 2, 000 psi 3, 000 psi. - Get the right pressure washer nozzle.
 
-Check the[color-coded nozzles](https: //cleanup. expert/info/pressure-washer-nozzles/)as this shows the force and angle of its water stream. - I recommend code 15 for your pressure washer nozzle for removing spray paint as it'll provide more power. Note that the 40-degree nozzle is approved for all-purpose cleaning while the 25-degree nozzle is suitable for regular cleanup jobs.
+Check the[color-coded nozzles](https://cleanup.expert/info/pressure-washer-nozzles/)as this shows the force and angle of its water stream. - I recommend code 15 for your pressure washer nozzle for removing spray paint as it'll provide more power. Note that the 40-degree nozzle is approved for all-purpose cleaning while the 25-degree nozzle is suitable for regular cleanup jobs.
 
 - Waterproof sheet or cloth/plastic that collects spray drops Procedure to Follow - Put on the protective gear - Assemble the power washer as per the manufacturers instructions - Select the desired nozzle pressure - Turn on the power washer and start spraying the painted area while standing away - point back and forth when spraying to remove the pain layers effectively - You can quench the paint with other chemicals to quicken the removal process - Run the pray until the entire paint is removed.
 
@@ -78,7 +78,7 @@ Paint stripper or thinner is a compound known to break down the paint layer into
 
 - Clean the painted surface to remove dirt - Wet the piece of cloth with thinner and apply on the spray-painted area - Rub the surface gently until the paint is removed - Use a clean rag to clean the removed paint. Remember, thinner is irritating. It should be applied in a well-ventilated area if you are carrying out indoor paint removal.
 
-You can clean the surface with soapy water for the effective removal of thinner or paint remains - The storage and disposal of thinners solvents must [adhere to state laws](https: //pestpolicy. com/how-to-use-paint-thinner/).
+You can clean the surface with soapy water for the effective removal of thinner or paint remains - The storage and disposal of thinners solvents must [adhere to state laws](https://pestpolicy.com/how-to-use-paint-thinner/).
 
 ##  Safety and Precautions to Consider When Removing Spray paints from Concrete
 
@@ -129,3 +129,4 @@ You can remove spray paint efficiently from concrete by using TSP, Graffiti remo
 You will also need to follow the right procedure highlighted in this article during application and adhere to a safer spray paint removal process.
 
 Go for the method that you are comfortable and conversant with during spray paint removal.
+

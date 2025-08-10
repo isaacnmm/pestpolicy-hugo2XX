@@ -1,4 +1,4 @@
----
+﻿---
 title: How to Get Rid Of Ants in Car
 description: Have you sighted a streak of ants crawling around in your car? Well, rest assured that you are not the only one wanting to get rid of ants in the car and...
 slug: /how-to-get-rid-of-ants-in-car/
@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 
-Have you sighted a streak of [ants](https: //pestpolicy. com/how-to-get-rid-of-ants-in-the-bathroom/) crawling around in your car? Well, rest assured that you are not the only one wanting to get rid of ants in the car and avoid their bites.
+Have you sighted a streak of [ants](https://pestpolicy.com/how-to-get-rid-of-ants-in-the-bathroom/) crawling around in your car? Well, rest assured that you are not the only one wanting to get rid of ants in the car and avoid their bites.
 
 Even though you may normally come across ants in your house devouring food crumbs or colonizing your back yard, but when ants invade your car they can be a hazardous distraction.
 
@@ -25,7 +25,7 @@ And when this happens, you should be prepared to be bugged and have damaged wire
 
 ##  Why Ants Invade Your Car
 
-To be able to effectively get rid of ants in the car, it is important to understand why they infested there in the first place. Cars are an uncommon place for ants to nest, but when they do it is due to either one of the following reasons: - Your car was parked near an [ant](https: //pestpolicy. com/how-to-get-rid-of-ants-naturally-outside/) colony for a long time.
+To be able to effectively get rid of ants in the car, it is important to understand why they infested there in the first place. Cars are an uncommon place for ants to nest, but when they do it is due to either one of the following reasons: - Your car was parked near an [ant](https://pestpolicy.com/how-to-get-rid-of-ants-naturally-outside/) colony for a long time.
 
 Ant colonies are normally near a kitchen or trash cans, so if your garage is nearby, this is probably why they got into your car.
 
@@ -35,7 +35,7 @@ Ant colonies are normally near a kitchen or trash cans, so if your garage is nea
 
 It is possible that some ants accidentally stumbled across your car in search of food. Even if you threw away the food cans or cleaned all the leftovers in your car, the smell of food probably stayed for some time and attracted some ants meanwhile. If you have found ants in the car during this phase, theres no need to worry. Their stay is only temporary and will leave when they find no food.
 
-Related: [How to Get Rid of Ants Naturally Outside? ? ](https: //pestpolicy. com/how-to-get-rid-of-ants-naturally-outside/)
+Related: [How to Get Rid of Ants Naturally Outside? ? ](https://pestpolicy.com/how-to-get-rid-of-ants-naturally-outside/)
 
 ###  Permanent Infestation
 
@@ -112,3 +112,4 @@ Ant traps will trap any ants in your car by using baits to attract them and sinc
 ##  Our Advice!
 
 Getting rid of ants in the car can be a long and tiresome process but dont lose hope. These tricks and techniques will make sure that not a single ant stays back to cause more frustration.
+

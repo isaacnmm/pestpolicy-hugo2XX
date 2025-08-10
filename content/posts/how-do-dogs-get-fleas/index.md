@@ -1,4 +1,4 @@
----
+﻿---
 title: How Do Dogs Get Fleas
 description: Fleas are a harsh pest when they attack your pets including dogs and cats. The bloodsuckers fleas will bite the dogs, causing irritation, scratching, pain,...
 slug: /how-do-dogs-get-fleas/
@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 
-[Fleas](https: //pestpolicy. com/best-dog-backpack-carrier-for-hiking/) are a harsh pest when they attack your pets including dogs and cats. The bloodsuckers (fleas) will bite the dogs, causing irritation, scratching, pain, and even diseases. But how do dogs get fleas? **In brief, dogs may get fleas from places such as the backyard, the park, ** **Pet facilities, ** **or when they come into contact with animals such as wildlife and pets.
+[Fleas](https://pestpolicy.com/best-dog-backpack-carrier-for-hiking/) are a harsh pest when they attack your pets including dogs and cats. The bloodsuckers (fleas) will bite the dogs, causing irritation, scratching, pain, and even diseases. But how do dogs get fleas? **In brief, dogs may get fleas from places such as the backyard, the park, ** **Pet facilities, ** **or when they come into contact with animals such as wildlife and pets.
 
 Outdoor animals that may bring fleas to dogs include foxes, raccoons, deer, rabbits, opossum, skunks, squirrels, ferrets, birds, and rodents. **
 
@@ -39,13 +39,13 @@ However, dogs may still socialize with various wildlife and other pets -which im
 
 ###  2. Contact with Domestic Animals
 
-Flea-infested domestic animals and pets may also pose a risk to making dogs get fleas. For example, dogs may also get fleas through contact with feral animals and other domestic pets such as cats. - You'd note that Ctenocephalides canis ([dog](https: //pestpolicy. com/best-dog-beds/) fleas) may not just attack and suck blood from cats but could also jump onto and bite dogs and their puppies.
+Flea-infested domestic animals and pets may also pose a risk to making dogs get fleas. For example, dogs may also get fleas through contact with feral animals and other domestic pets such as cats. - You'd note that Ctenocephalides canis ([dog](https://pestpolicy.com/best-dog-beds/) fleas) may not just attack and suck blood from cats but could also jump onto and bite dogs and their puppies.
 
 Fleas have back legs that are very strong that'll allow them to jump onto the tail or body of the dog from other domestic pets that are in the house or backyard. Dogs will also get fleas from grass - fleas will jump onto the dog and suck its blood - and then they'll jump off back to the grass waiting for other hosts.
 
 - You may notice that the dog is spending hours scratching themselves around the yard - maybe after picking those fleas from the grass or other pets.
 
-However, humans too may pick fleas from the yard and the bugs will jump onto your pant legs, socks, and shoes - and [you'll carry fleas to your house](https: //pestpolicy. com/can-humans-carry-fleas-from-one-home-to-another/). Unfortunately, fleas could also get into your house in different ways and develop into a colony to finally attack your dogs.
+However, humans too may pick fleas from the yard and the bugs will jump onto your pant legs, socks, and shoes - and [you'll carry fleas to your house](https://pestpolicy.com/can-humans-carry-fleas-from-one-home-to-another/). Unfortunately, fleas could also get into your house in different ways and develop into a colony to finally attack your dogs.
 
 For example, fleas could into the house by hitching pets and clothes worn by humans or even climbing onto mice - they'll come in and lay many eggs.
 
@@ -74,3 +74,4 @@ Use a flea comb that is fine-toothed for dogs that have long hair as this will h
 ##  Conclusion
 
 Summers come with heat and many fleas - which might land on your dog. We've outlined that dogs may get fleas from various places including the wildlife, backyard, other pets, the house, or the pet care facilities if appropriate flea-control measures are not adopted. - Inspect the dog's tail, underbelly, and fur for the presence of any adult fleas - check with your vet for appropriate and great flea control techniques to use on your dog. Cheers!
+

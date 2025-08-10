@@ -1,4 +1,4 @@
----
+﻿---
 title: Spray on Grass Seeds
 description: Achieving a lush, green lawn can be a significant undertaking, whether you're starting from scratch or repairing bare patches.
 slug: /spray-on-grass-seeds/
@@ -25,7 +25,7 @@ This comprehensive guide will delve into what spray-on grass seeds are, how they
 
 ##  What Are Spray-on Grass Seeds?
 
-Spray-on grass seeds are an innovative planting method that combines grass [seed](https: //pestpolicy. com/how-to-determine-if-old-seeds-are-still-good-for-planting/) with water, fertilizer, and a protective mulch layer into a slurry. This mixture is then sprayed over prepared ground using specialized equipment. The process is commonly referred to as hydroseeding.
+Spray-on grass seeds are an innovative planting method that combines grass [seed](https://pestpolicy.com/how-to-determine-if-old-seeds-are-still-good-for-planting/) with water, fertilizer, and a protective mulch layer into a slurry. This mixture is then sprayed over prepared ground using specialized equipment. The process is commonly referred to as hydroseeding.
 
 The key components of this "slurry" typically include: * **Grass Seed: ** The foundation of your new lawn, chosen based on climate, soil type, and desired appearance. Seed blends are often customized for specific regions or conditions (e. g. , sun, shade, high traffic). * **Mulch: ** Often made from wood fiber, paper, or a blend of both, this component is crucial.
 
@@ -192,3 +192,4 @@ This influences the required durability, recuperative ability, and overall appea
 The quality of the mulch (wood fiber vs. paper), the starter fertilizer, and the tackifiers in the hydroseed mixture significantly impacts moisture retention, seed protection, and adhesion.
 
 By carefully assessing these factors, potentially consulting with local lawn care professionals, university extension offices, or reputable seed suppliers, you can select the optimal spray-on grass seed and hydroseeding approach to achieve a beautiful, healthy, and resilient lawn that truly thrives in your unique yard environment.
+

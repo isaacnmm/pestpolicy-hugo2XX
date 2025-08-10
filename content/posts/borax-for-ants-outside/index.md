@@ -1,4 +1,4 @@
----
+﻿---
 title: Borax for Ants Outside
 description: Borax is a popular and effective solution for controlling ants, especially outdoors. It disrupts the ants digestive system, ultimately eliminating them and...
 slug: /borax-for-ants-outside/
@@ -24,7 +24,7 @@ Borax, a naturally occurring mineral, is toxic to ants but safe for humans and p
 
 ###  2. Prepare Borax Bait
 
-To create an effective [ant](https: //pestpolicy. com/ant-control-in-bellingham/) bait, mix [borax](https: //pestpolicy. com/borax-flea-killer/) with a sweet attractant such as sugar, honey, or syrup. Heres a simple recipe: - Mix 1 tablespoon of borax with 3 tablespoons of sugar or honey. - Add enough water to create a thick paste. - Place the mixture on small pieces of cardboard or in shallow containers near ant trails.
+To create an effective [ant](https://pestpolicy.com/ant-control-in-bellingham/) bait, mix [borax](https://pestpolicy.com/borax-flea-killer/) with a sweet attractant such as sugar, honey, or syrup. Heres a simple recipe: - Mix 1 tablespoon of borax with 3 tablespoons of sugar or honey. - Add enough water to create a thick paste. - Place the mixture on small pieces of cardboard or in shallow containers near ant trails.
 
 ###  3. Place the Bait Strategically
 
@@ -53,3 +53,4 @@ For severe infestations or if borax doesnt seem to work, consider contacting a p
 ###  Conclusion
 
 Using borax for ants outside is a simple, effective, and affordable solution for managing outdoor ant problems. By preparing the bait correctly and placing it strategically, you can eliminate ant colonies and protect your garden or yard. Always follow safety guidelines when handling borax, and enjoy an ant-free outdoor space.
+

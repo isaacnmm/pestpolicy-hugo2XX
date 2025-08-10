@@ -1,4 +1,4 @@
----
+﻿---
 title: How to Thin Acrylic Paint
 description: The paint application process doesnt only require a professional painter having well-thinned paint is crucial in attaining the best quality paint finish. If...
 slug: /how-to-thin-acrylic-paint/
@@ -18,7 +18,7 @@ The paint application process doesnt only require a professional painter; having
 
 If you get it wrong when thinning, chances are that you wont attain an excellent finish coat. Perhaps you are wondering how to undertake paint thinning? *On how to thin acrylic paint, start by selecting the tools & right material and preparing the surface to be used when thinning. You can thin acrylic paint by using water (for acrylic-latex paint), acrylic binder, paint thinner, or pouring medium.
 
-* * * *However, each of the following thinning mediums has particular instructions and procedures, which should be adhered to in order to attain uniform and well-thinned acrylic paint. * > *See Also: * > [Removing Acrylic Paint from Canvas](https: //pestpolicy. com/how-to-remove-acrylic-paint-from-canvas/) * *
+* * * *However, each of the following thinning mediums has particular instructions and procedures, which should be adhered to in order to attain uniform and well-thinned acrylic paint. * > *See Also: * > [Removing Acrylic Paint from Canvas](https://pestpolicy.com/how-to-remove-acrylic-paint-from-canvas/) * *
 
 ##  Details: How To Thin Acrylic Paint (Paint with Acrylics)
 
@@ -64,7 +64,7 @@ Furthermore, the pouring medium can be used directly on the surface paint mixtur
 
 For further thinning instruction, consider checking the manufacturers directives on the labels.
 
-Use pallets for effective paint testing and dont mix dried paint with wet ones when thinning. > See Also: > [Removing Acrylic Paint from Concrete](https: //pestpolicy. com/how-to-remove-acrylic-paint-from-concrete/)
+Use pallets for effective paint testing and dont mix dried paint with wet ones when thinning. > See Also: > [Removing Acrylic Paint from Concrete](https://pestpolicy.com/how-to-remove-acrylic-paint-from-concrete/)
 
 ##  How to Revive Dried Acrylic Paint
 
@@ -84,7 +84,7 @@ Always, acrylic paint may not be thinned appropriately and this may cause some o
 
 Low paint stickiness is a function of improper paint thinning or low-quality paint. Often, wrong paint thinning results in low paint stickiness upon application. You may over dilute or under dilute acrylic paint during the thinning process. Over diluted paint forms a light paint layer, which takes longer to dry or stick. Further, the paint forms a lot of drains and runs during the application process.
 
-Contrary Lowly thinned paint is challenging to apply and bond with primary surface material due to incomplete activation. See Also: [Latex Vs Acrylic Paint](https: //pestpolicy. com/latex-vs-acrylic-paint/).
+Contrary Lowly thinned paint is challenging to apply and bond with primary surface material due to incomplete activation. See Also: [Latex Vs Acrylic Paint](https://pestpolicy.com/latex-vs-acrylic-paint/).
 
 ###  2. Peeling and Flaking
 
@@ -117,3 +117,4 @@ To summarize, on how to thin acrylic paint, you start by selecting the tools & r
 You must stick to instructions and procedures highlighted in this article when using either of the above methods in order to attain the best quality acrylic solvent.
 
 In addition, its advisable to check on the paint labels (on the package) to gain more information and thinning directives from the manufacturer.
+

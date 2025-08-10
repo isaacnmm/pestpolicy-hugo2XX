@@ -1,4 +1,4 @@
----
+﻿---
 title: Is Wall Gecko Poisonous If Eaten
 description: Probably your home, yard, field, or zoo is full of wall geckos and you wonder whether these reptiles are a source of food.
 slug: /is-wall-gecko-poisonous-if-eaten/
@@ -15,9 +15,9 @@ tags:
 layout: post
 ---
 
-Probably your home, yard, field, or zoo is full of [wall geckos](https: //www. insidescience. org/news/how-geckos-run-water) and you wonder whether these reptiles are a source of food. Can they be eaten?
+Probably your home, yard, field, or zoo is full of [wall geckos](https://www.insidescience. org/news/how-geckos-run-water) and you wonder whether these reptiles are a source of food. Can they be eaten?
 
-Can Wall Geckos cause food poisoning or be poisonous when eaten by humans or carnivores? So, *is wall [gecko](https: //pestpolicy. com/do-geckos-eat-bed-bugs/) poisonous if eaten? * **The simple answer is NO! [Wall](https: //pestpolicy. com/how-to-remove-paint-from-walls/) Gecko is not poisonous to humans or other animals when eaten. The meat from the Wall Gecko is non-toxic (has no toxins) and is safe for human consumption.
+Can Wall Geckos cause food poisoning or be poisonous when eaten by humans or carnivores? So, *is wall [gecko](https://pestpolicy.com/do-geckos-eat-bed-bugs/) poisonous if eaten? * **The simple answer is NO! [Wall](https://pestpolicy.com/how-to-remove-paint-from-walls/) Gecko is not poisonous to humans or other animals when eaten. The meat from the Wall Gecko is non-toxic (has no toxins) and is safe for human consumption.
 
 ** **However, there are some parts of Wall Gecko that should not be eaten e. g. skin and mouth-part. These sections are known to house pathogens and bacteria such as salmonella, which multiply rapidly and cause food poisoning when eaten. **
 
@@ -83,7 +83,7 @@ Wall Gecko loves climbing on walls and branches, try piles stones in the cage an
 
 Ensure you warm the cage during the night to keep your pet active in case your cage is under a roof where there is no direct sunlight.
 
-Wall Geckos can easily climb out of the roof, kindly ensure that you place some stop barriers such as extended flat tops. Feed your Wall Gecko, just like [leopard geckos](https: //pestpolicy. com/what-does-leopard-gecko-eat/), 2 to 3 times in a day. This will make it active and friendlier always.
+Wall Geckos can easily climb out of the roof, kindly ensure that you place some stop barriers such as extended flat tops. Feed your Wall Gecko, just like [leopard geckos](https://pestpolicy.com/what-does-leopard-gecko-eat/), 2 to 3 times in a day. This will make it active and friendlier always.
 
 Carnivores such as cats and dogs can feed on the Wall Gecko. Ensure you keep such pets away from the cage where your pet Wall Gecko is housed. Moreover, wall gecko may have some of the infectious pathogens and bacteria such as salmonella, which can infect your humans and other pets.
 
@@ -107,4 +107,5 @@ However, the skin and mouthpart of Wall Gecko contain pathogens and harmful bact
 
 ##  Sources:
 
-1. [Easy Ways to Get Rid of Common House Geckos - wikiHow](https: //www. wikihow. com/Get-Rid-of-Common-House-Geckos) 2. [Why You Should Never Trust a Gecko Fearful Adventurer](https: //www. fearfuladventurer. com/why-you-should-never-trust-a-gecko/) 3. [Geckos' Sticky Secret? They Hang by Toe Hairs Live Science](https: //www. livescience. com/47307-how-geckos-stick-and-unstick-feet. html)
+1. [Easy Ways to Get Rid of Common House Geckos - wikiHow](https://www.wikihow. com/Get-Rid-of-Common-House-Geckos) 2. [Why You Should Never Trust a Gecko Fearful Adventurer](https://www.fearfuladventurer. com/why-you-should-never-trust-a-gecko/) 3. [Geckos' Sticky Secret? They Hang by Toe Hairs Live Science](https://www.livescience. com/47307-how-geckos-stick-and-unstick-feet. html)
+

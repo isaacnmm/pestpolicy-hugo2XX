@@ -1,4 +1,4 @@
----
+﻿---
 title: What Smells Do Raccoons Hate
 description: You don't want raccoons digging up your yard or tearing apart your house or garbage can, but you also don't like the idea of killing them. - There are a lot...
 slug: /what-smells-do-raccoons-hate/
@@ -14,7 +14,7 @@ tags:
 layout: post
 ---
 
-You don't want raccoons digging up your yard or tearing apart your house or garbage can, but you also don't like the idea of killing them. - There are a lot of repellents that claim they will[keep away raccoons](https: //pestpolicy. com/how-to-get-rid-of-raccoons/), but what smells do Raccoons hate? What do animals respond to most strongly?
+You don't want raccoons digging up your yard or tearing apart your house or garbage can, but you also don't like the idea of killing them. - There are a lot of repellents that claim they will[keep away raccoons](https://pestpolicy.com/how-to-get-rid-of-raccoons/), but what smells do Raccoons hate? What do animals respond to most strongly?
 
 **Answer: In brief, raccoons hate irritating smells like those from Epsom salt, peppermint oil, garlic, onion, and hot pepper.
 
@@ -22,7 +22,7 @@ You don't want raccoons digging up your yard or tearing apart your house or garb
 
 ##  What Problems Will Raccoons Bring to Your Property?
 
-Raccoons are hardy and adaptable mammals that thrive around homes where they have great access to shelter and food - they'll also transmit diseases like [Leptospirosis](https: //www. addl. purdue. edu/newsletters/1997/fall/[raccoon](https: //pestpolicy. com/how-to-get-rid-of-raccoons/). shtml).
+Raccoons are hardy and adaptable mammals that thrive around homes where they have great access to shelter and food - they'll also transmit diseases like [Leptospirosis](https://www.addl. purdue. edu/newsletters/1997/fall/[raccoon](https://pestpolicy.com/how-to-get-rid-of-raccoons/). shtml).
 
 The sense of smell is the most important sense that raccoons have. Also, their hands are small, but they're strong enough to rummage your garbage bins.
 
@@ -32,7 +32,7 @@ They'll rummage the garbage cans to find food, and they'll also tear down garden
 
 *With that said: * *Some scents are documented to be great as turning off raccoons from different spaces such as your home. * - *But these **scents and smells may not be reliable over the long term since they need to be applied regularly and remain at a strong level in the area where it is desired that raccoons do not go.
 
-* **If the raccoon problem has gotten out of hand, and your property, humans, and pets - you can ** [**check for pest exterminators near you**](https: //pestpolicy. com/pest-control-near-me/) ** and you'll be assisted. **
+* **If the raccoon problem has gotten out of hand, and your property, humans, and pets - you can ** [**check for pest exterminators near you**](https://pestpolicy.com/pest-control-near-me/) ** and you'll be assisted. **
 
 ##  What Smells Do Raccoons Hate - The 7 Scents That Repel Raccoons
 
@@ -46,7 +46,7 @@ In addition, a lot of these are mixed with other scents such as garlic or red pe
 
 But if this sounds like too much work, there are also products available on sites such as Amazon, which helps make it easy enough to buy what you need without having to prepare it on your own.
 
-I recommend the Cayenne Pepper Powder that has 90, 000 heat units to repel the raccoons. - I bought this to get rid of raccoons, opossums, and[gophers](https: //pestpolicy. com/best-gopher-traps/)that were getting into my yard. It worked in repelling the raccoons and it is safe. The only downside is that hot pepper irritates the raccoons' and such animals' sense of smell, but the scent will diminish after a while.
+I recommend the Cayenne Pepper Powder that has 90, 000 heat units to repel the raccoons. - I bought this to get rid of raccoons, opossums, and[gophers](https://pestpolicy.com/best-gopher-traps/)that were getting into my yard. It worked in repelling the raccoons and it is safe. The only downside is that hot pepper irritates the raccoons' and such animals' sense of smell, but the scent will diminish after a while.
 
 Applying hot pepper in the places where raccoons are most likely to find food will keep them away for a few days - so you must re-apply the hot pepper.
 
@@ -84,7 +84,7 @@ To prevent these critters from sniffing out rubbish bins and food left outside i
 
 ###  Scent 5: Eviction Fluid
 
-To evict a female raccoon, [scientists discovered](https: //digitalcommons. unl. edu/icwdm_wdmconfproc/173/) that the smell of male urine, or what we call Eviction Fluid (EF), is the solution.
+To evict a female raccoon, [scientists discovered](https://digitalcommons.unl. edu/icwdm_wdmconfproc/173/) that the smell of male urine, or what we call Eviction Fluid (EF), is the solution.
 
 Eliminating nursing raccoons from an area can be difficult if they have found a good spot to raise their young ones and establish their territory. - EF gives off a strong scent and lasts for weeks after application on hard surfaces like concrete, asphalt, wood, plastic decking, etc. , so female raccoons will not return once displaced with this product!
 
@@ -117,3 +117,4 @@ After trying other solutions to no avail, there's finally one that works: Predat
 In summary, on the question "what smells do Raccoons hate? " the answer has been found.
 
 Here are a few smells that Raccoons hate: - - citronella, Hot Pepper, Onions, lavender, predator urine, peppermint essential oils, and Eviction fluid. I hope this article was informative and that you found a solution to your raccoon problem. For more information, or if you have any questions please leave me a comment below.
+

@@ -1,4 +1,4 @@
----
+﻿---
 title: Revolution for Cats Without Vet Prescription
 description: I, like many other pet owners, prefer getting effective and safe flea medication s for my cat without having to visit the vet office or giving them a call. In...
 slug: /revolution-for-cats-without-vet-prescription/
@@ -21,11 +21,11 @@ So, let's get started with Revolution flea killer for cats!
 
 ##  Details: Revolution for Cats without Vet Prescription
 
-Besides protecting your cat from [fleas](https: //pestpolicy. com/cat-fleas-vs-dog-fleas/), Revolution also controls and treats ear mite infestations, hookworm infections, and roundworm infections. - Therefore, this will be an advantage since most pet owners do not pay attention or control these parasites. In addition, customer reviews for the non-prescription flu medication are just as effective as the prescription-based remedies.
+Besides protecting your cat from [fleas](https://pestpolicy.com/cat-fleas-vs-dog-fleas/), Revolution also controls and treats ear mite infestations, hookworm infections, and roundworm infections. - Therefore, this will be an advantage since most pet owners do not pay attention or control these parasites. In addition, customer reviews for the non-prescription flu medication are just as effective as the prescription-based remedies.
 
 So, getting the Revolution Plus medication to kill fleas but without prescription brings so much convenience to most pets and homeowners. But why is Revolution Plus so good at killing fleas? This is mainly due to the medication's special formulation that protects the cats from fleas for about a month.
 
-- So, as you are starting the flea control journey, you must seek to know the pests under consideration and how they attack your [cat](https: //pestpolicy. com/how-to-tell-if-your-cat-has-fleas/).
+- So, as you are starting the flea control journey, you must seek to know the pests under consideration and how they attack your [cat](https://pestpolicy.com/how-to-tell-if-your-cat-has-fleas/).
 
 Related: Capstar Flea Tabletsfor Large Dogs
 
@@ -37,13 +37,13 @@ But will Frontline kill exterminate the fleas in your house? Well, NO.
 
 I recommend using FRONTLINE HomeGard for flea control in the house (also kills flea larvae and flea eggs) avoid using it on pets. - Are there any side effects if one applies the Frontline Plus too soon? Well, Yes, this may result in seizures, trembling, hypersalivation, and twitching. - If the poisoning happens, you'll require to wash the cat using lukewarm water and some Palmolive, Dawn, ordish soap.
 
-https: //m. youtube. com/watch? v=HFEKYcXFWPM Revolution Plus contains Sarolaner and Selamectin, active ingredients to kill flea larvae and eggs around your house. - Further, Revolution Plus will also provide your cat with fast relief from flea allergy dermatitis.
+https://m.youtube. com/watch? v=HFEKYcXFWPM Revolution Plus contains Sarolaner and Selamectin, active ingredients to kill flea larvae and eggs around your house. - Further, Revolution Plus will also provide your cat with fast relief from flea allergy dermatitis.
 
 ##  Buying the Non-Prescription Revolution for Cats
 
 Simply drop some of the revolution plus medication on your pet's shoulder and it will exterminate all the external and internal parasites. There are different factors to take into thought as you are starting the journey to flea treatment using revolution Plus. - Failure to consider these may lead to causing harm to the cats health.
 
-First, ensure to cover and protect yourself the best you can as you are [treating the cat for fleas](https: //pestpolicy. com/best-flea-treatment-for-cats/).
+First, ensure to cover and protect yourself the best you can as you are [treating the cat for fleas](https://pestpolicy.com/best-flea-treatment-for-cats/).
 
 - For example, if you aren't well protected, the fleas may jump from the pet onto your skin. Also, conduct a thorough inspection of the pet (for the hotspots of the fleas) prior to applying the revolution flea treatment. - Finally, avoid over-applying the flea medication as this could lead to skin burning and irritation.
 
@@ -78,3 +78,4 @@ However, even if the pets have ear mites inside their ears, you must not apply r
 ##  Conclusion
 
 We all love our pets and the advice that they give but sometimes require non-prescription medication for emergency or convenience purposes. - So, the non-prescription Revolution Plus for controlling fleas in cats is a great savior. Besides, revolution plus will also help exterminate intestinal worms, ear mites, and heartworms.
+

@@ -1,4 +1,4 @@
----
+﻿---
 title: How to Play Tetherball   copy
 description: Tetherball is a classic backyard game that injects competitive energy and lively fun into any outdoor gathering. Simple in its core premise yet engaging in...
 slug: /how-to-play-tetherball/
@@ -14,7 +14,7 @@ tags:
 - master
 ---
 
-[Tetherball](https: //pestpolicy. com/how-to-play-tetherball/) is a classic backyard game that injects competitive energy and lively fun into any outdoor gathering. Simple in its core premise yet engaging in its execution, it's a fantastic two-player game that demands quick reflexes, strategic thinking, and a good dose of hand-eye coordination.
+[Tetherball](https://pestpolicy.com/how-to-play-tetherball/) is a classic backyard game that injects competitive energy and lively fun into any outdoor gathering. Simple in its core premise yet engaging in its execution, it's a fantastic two-player game that demands quick reflexes, strategic thinking, and a good dose of hand-eye coordination.
 
 If you've got a tetherball pole and a ball, you're just a few steps away from unlocking hours of outdoor entertainment.
 
@@ -65,3 +65,4 @@ Anticipate where the ball will be next, allowing you to position yourself optima
 Excellent footwork is crucial for quickly moving around the pole and getting into the best hitting positions, especially as the ball's speed and angle change. * **Identify Weaknesses: ** Pay attention to your opponent's tendencies. Try to force them to hit from an awkward body position or target their weaker side.
 
 Tetherball is a fantastic, high-energy way to enjoy the outdoors, engage in some light physical activity, and foster friendly competition. By understanding these rules and incorporating strategic techniques, you'll be well on your way to mastering the game and becoming a tetherball champion in your own backyard!
+

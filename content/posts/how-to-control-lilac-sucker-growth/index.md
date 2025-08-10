@@ -1,4 +1,4 @@
----
+﻿---
 title: How to Control Lilac Sucker Growth
 description: Lilacs Syringa spp. are beloved for their intoxicatingly fragrant, showy blossoms that herald the arrival of spring. These classic shrubs or small trees are a...
 slug: /how-to-control-lilac-sucker-growth/
@@ -100,3 +100,4 @@ If the constant battle with suckers or the specific growing conditions are a con
 Lilacs, with their irresistible fragrance and charming blooms, are truly a highlight of the spring garden. While their tendency to produce suckers can be a minor annoyance, it is a manageable trait. By understanding the reasons behind sucker growth whether it's their natural habit, grafting, or plant stress and implementing consistent, proper pruning techniques, you can effectively control these unwanted shoots.
 
 Regular vigilance and the right approach will ensure your lilac remains a healthy, well-shaped, and abundantly flowering specimen, continuing to grace your garden with its timeless beauty year after year.
+

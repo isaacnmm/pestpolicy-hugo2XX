@@ -1,4 +1,4 @@
----
+﻿---
 title: Zd V Controller
 description: ZD-V  Controller - USB Gaming Controller is compatible with PlayStation 3, Android, and PC. Further, the controller runs from Windows XP up to Windows 10. ...
 slug: /zd-v-controller/
@@ -22,7 +22,7 @@ Further, it is a multimode, the DirectInput, and Xinput. Further, youll love the
 
 ###  Vibration feedback
 
-For an excellent gaming experience, the controller has Vibration feedback but youll require to change the keypad using the DirectInput Mode. Read Also: [Controller for Rocket League](https: //pestpolicy. com/best-controller-for-rocket-league/)
+For an excellent gaming experience, the controller has Vibration feedback but youll require to change the keypad using the DirectInput Mode. Read Also: [Controller for Rocket League](https://pestpolicy.com/best-controller-for-rocket-league/)
 
 ###  JD-SWITCH capability
 
@@ -30,7 +30,7 @@ Also, the JD-SWITCH capability will enable you to switch the Left-Stick and the 
 
 ###  Responsive buttons
 
-ZD-V+ USB controller has excellently responsive buttons but does not interestingly stick-like in other traditional [controllers](https: //pestpolicy. com/best-controller-for-retropie/), and thus you can now achieve faster reaction time. It also has plastic grip holders which will allow the [controller](https: //pestpolicy. com/best-controller-for-rocket-league/) to last long enough and hence offer value for money.
+ZD-V+ USB controller has excellently responsive buttons but does not interestingly stick-like in other traditional [controllers](https://pestpolicy.com/best-controller-for-retropie/), and thus you can now achieve faster reaction time. It also has plastic grip holders which will allow the [controller](https://pestpolicy.com/best-controller-for-rocket-league/) to last long enough and hence offer value for money.
 
 ###  Ergonomic and comfortable
 
@@ -39,3 +39,4 @@ Further, the ZD-V+ USB controller will feel comfortable since the parts have a s
 ###  Unique Features
 
 1. Plug and Play for Xinput mode compatible games. 2. Android 4. 0 and above support 3. Vibration Feedback Function 4. Works with PS3, Windows XP up to Windows 10. 5. Multi-mode and JD-SWITCH Function - check theFlight Simulator Yoke Reviewed
+

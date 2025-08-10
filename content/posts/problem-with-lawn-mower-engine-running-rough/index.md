@@ -1,4 +1,4 @@
----
+﻿---
 title: Problem With Lawn Mower Engine Running Rough
 description: Few things are more frustrating on a beautiful mowing day than a lawn mower engine that won't cooperate. Instead of a steady, powerful hum, you might hear...
 slug: /problem-with-lawn-mower-engine-running-rough/
@@ -15,13 +15,13 @@ tags:
 layout: post
 ---
 
-Few things are more frustrating on a beautiful mowing day than a lawn [mower](https: //pestpolicy. com/lawn-mower-safety-for-your-home/) engine that won't cooperate. Instead of a steady, powerful hum, you might hear sputtering, surging, dying, or just a general lack of smooth operation commonly described as "running rough. "
+Few things are more frustrating on a beautiful mowing day than a lawn [mower](https://pestpolicy.com/lawn-mower-safety-for-your-home/) engine that won't cooperate. Instead of a steady, powerful hum, you might hear sputtering, surging, dying, or just a general lack of smooth operation commonly described as "running rough. "
 
 This issue isn't just annoying; it can lead to an uneven cut, wasted fuel, and can indicate a deeper problem that, if left unaddressed, could cause more significant damage to your mower.
 
 A rough-running engine usually points to one or more components of the **"Holy Trinity"** of engine operation: **fuel, air, and spark**. If any of these three elements are out of balance or contaminated, your engine will show it.
 
-This guide will walk you through the most common culprits behind a rough-running [lawn](https: //pestpolicy. com/10-essential-lawn-and-garden-tools-for-fall/) mower engine, along with practical troubleshooting steps you can take to get your machine back to peak performance.
+This guide will walk you through the most common culprits behind a rough-running [lawn](https://pestpolicy.com/10-essential-lawn-and-garden-tools-for-fall/) mower engine, along with practical troubleshooting steps you can take to get your machine back to peak performance.
 
 ##  1. Fuel System Issues: The Most Common Culprit
 
@@ -110,3 +110,4 @@ Attempt to clean with spray or prepare for a more thorough cleaning/rebuild. 6.
 **Check Oil Level and Condition: ** Ensure oil is at the correct level and isn't excessively dirty. 7. **Check Blade and Underdeck: ** Make sure the blade is sharp, balanced, and the deck is clear.
 
 By systematically going through these common issues, you'll likely identify and resolve the problem causing your lawn mower engine to run rough. Remember to always consult your mower's owner's manual for specific instructions and safety precautions. If you're uncomfortable performing any of these steps, or if the problem persists, it's always best to consult a certified small engine mechanic.
+

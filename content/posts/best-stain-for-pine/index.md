@@ -1,4 +1,4 @@
----
+﻿---
 title: Best Stain for Pine
 description: It is not an easy task choosing the best stain for pine whether you are a professional or into DIY projects. Stains are meant to protect your furniture and...
 slug: /best-stain-for-pine/
@@ -28,7 +28,7 @@ The stain has strong adhesion and penetrates deeper on the wood and gives a bril
 
 Surprisingly for this stain, a quart of it covers approximately 150 square ft.
 
-It takes about 1-2 hours to dry-up and in case of a second coat, you can apply it after 2 hours. In case of spillage, you can use any [paint](https: //pestpolicy. com/best-stain-for-douglas-fir-door/) thinners available or mineral spirits to clean the paint. Pros: - Has an easy application - Has great adhesion - Maintains the pines natural grains - dries fast - for indoor use - has good coverage
+It takes about 1-2 hours to dry-up and in case of a second coat, you can apply it after 2 hours. In case of spillage, you can use any [paint](https://pestpolicy.com/best-stain-for-douglas-fir-door/) thinners available or mineral spirits to clean the paint. Pros: - Has an easy application - Has great adhesion - Maintains the pines natural grains - dries fast - for indoor use - has good coverage
 
 Cons: - Does not work on the exterior surface
 
@@ -74,7 +74,7 @@ Pros: - Has resistance against UV light - Combine primer and a sealer - It is wa
 
 Cons: - covers little space
 
-> See Also: > [Staining your Wooden Playset](https: //pestpolicy. com/best-stain-for-swing-set/)
+> See Also: > [Staining your Wooden Playset](https://pestpolicy.com/best-stain-for-swing-set/)
 
 ###  [5. General Finishes Oil Based Gel Stain, New Pine](https://www.amazon.com/dp/B001D80H42/?tag=p-policy-20)
 
@@ -121,3 +121,4 @@ Cons: - Has sticky nature
 ##  Conclusion
 
 That said and done the line is drawn for the best stains for pine. However, for the best stain, use Defy-Extreme Stain for Natural. This is due to its unmatched features and its rating among the buyers.
+

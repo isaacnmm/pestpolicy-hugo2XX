@@ -1,4 +1,4 @@
----
+﻿---
 title: Pictures Of Bed Bug Bites
 description: Are you trying to determine if we have bed bugs in the house? First, I'll narrate a personal experience I had eight months ago. I had just come back from our...
 slug: /pictures-of-bed-bug-bites/
@@ -17,7 +17,7 @@ layout: post
 
 Are you trying to determine if we have bed bugs in the house? First, I'll narrate a personal experience I had eight months ago. I had just come back from our vacation - I was into 1 Vrbo and two hotels - which I had thoroughly inspected with no signs of bed bugs. However, the next day, spots appeared on my daughter's arms and legs - as shown in the picture. I was worried - probably just like you are.
 
-So, in this post, I'll outline different pictures of bed bug bites that'll help you determine if bed bugs have bitten you. **But first**, let clear this out of the way - bed bugs can't bite through clothing-bite-through-clothing/), and [bed bugs can't jump or fly](https: //pestpolicy. com/do-bed-bugs-jump/).
+So, in this post, I'll outline different pictures of bed bug bites that'll help you determine if bed bugs have bitten you. **But first**, let clear this out of the way - bed bugs can't bite through clothing-bite-through-clothing/), and [bed bugs can't jump or fly](https://pestpolicy.com/do-bed-bugs-jump/).
 
 ##  Pictures of Bed Bug Bites? Stings, Allergies? - What Do Bed Bug Bites Look Like?
 
@@ -57,9 +57,9 @@ Due to the quick spread of bed bugs at home, living in a house infested with som
 
 In most instances, one would feel improvement from bed bug bites within one to two weeks. This is a process that happens naturally. However, if you want to rid of the symptoms sooner, you might consider doing the things listed below. - Use anti-itch cream so that you stop feeling the itchiness. Also, you canapply calamine lotion to the bed bugbites. Find out the best cream that will not affect your skin due toside effects.
 
-- Use an oral[antihistamine](https: //www. webmd. com/allergies/antihistamines-for-allergies)so that you reduce the burning and itching. - Over-the-counter pain relievers can be used to remove the burning sensationcaused by the bed bugbites. However, before using such medications, you need to confirm that they wont cause severe side effects. Though possible, bed bugs cause allergic reactions in sporadic cases.
+- Use an oral[antihistamine](https://www.webmd. com/allergies/antihistamines-for-allergies)so that you reduce the burning and itching. - Over-the-counter pain relievers can be used to remove the burning sensationcaused by the bed bugbites. However, before using such medications, you need to confirm that they wont cause severe side effects. Though possible, bed bugs cause allergic reactions in sporadic cases.
 
-Still, if you encounter such reactions, you want to contact your local health provider as soon as you can. You might get an infection known as [cellulitis](https: //www. mayoclinic. org/diseases-conditions/cellulitis/symptoms-causes/syc-20370762) from the bed bug bites. After the bite, you need to wash the area with soap and water and avoid scratching it to prevent this infection.
+Still, if you encounter such reactions, you want to contact your local health provider as soon as you can. You might get an infection known as [cellulitis](https://www.mayoclinic. org/diseases-conditions/cellulitis/symptoms-causes/syc-20370762) from the bed bug bites. After the bite, you need to wash the area with soap and water and avoid scratching it to prevent this infection.
 
 If the symptoms mentioned above persist, you might consider visiting a medical practitioner for improved care.
 
@@ -67,10 +67,11 @@ If the symptoms mentioned above persist, you might consider visiting a medical p
 
 The only best way to control bed bugs at home is to rid them permanently. You need to employ a tactic that will target the eggs and remove them from hidden. The following tips can be helpful: - Use a strong vacuum cleaner to suck their babies and eggs. The vacuum should be connected to a strong hose. - Use steam cleaning in the areas that cannot be reached by the vacuum.
 
-- Use a hairdryer to[kills both adult bed bugs and their eggs](https: //pestpolicy. com/how-to-kill-bed-bug-eggs/).
+- Use a hairdryer to[kills both adult bed bugs and their eggs](https://pestpolicy.com/how-to-kill-bed-bug-eggs/).
 
-- Wash allclothes and bedding - Use scented dryer sheets to send them away. - Try to rub alcohol, and the[smell will kill the young and adult bed bugs](https: //pestpolicy. com/what-do-bed-bugs-smell-like/).
+- Wash allclothes and bedding - Use scented dryer sheets to send them away. - Try to rub alcohol, and the[smell will kill the young and adult bed bugs](https://pestpolicy.com/what-do-bed-bugs-smell-like/).
 
 ##  Conclusion
 
-Bed bug bites can be a huge problem, especially if you dont know how best to deal with them. Once you learn that [bed bugs have bitten you](https: //pestpolicy. com/can-bed-bugs-get-in-your-hair/), you can use the tricks mentioned above to relieve yourself of the symptoms. See a medical expert if the condition gets severe.
+Bed bug bites can be a huge problem, especially if you dont know how best to deal with them. Once you learn that [bed bugs have bitten you](https://pestpolicy.com/can-bed-bugs-get-in-your-hair/), you can use the tricks mentioned above to relieve yourself of the symptoms. See a medical expert if the condition gets severe.
+

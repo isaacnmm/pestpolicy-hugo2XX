@@ -1,4 +1,4 @@
----
+﻿---
 title: How to Grow Crape Myrtles in Cold Climates
 description: Crape myrtles Lagerstroemia species, with their vibrant, long-lasting summer blooms, attractive peeling bark, and often striking fall foliage, are a...
 slug: /how-to-grow-crape-myrtles-in-cold-climates/
@@ -91,3 +91,4 @@ For gardeners in very cold climates (Zone 5 and colder) or those who want maximu
 * Store it in a cool, dark, unheated but frost-free location, such as a garage, basement, or shed, where temperatures remain between $0^\circ \text{C}$ and $10^\circ \text{C}$ ($32^\circ \text{F}$ and $50^\circ \text{F}$). * Water sparingly (once every 3-4 weeks) just enough to prevent the root ball from completely drying out. The plant is dormant and requires very little water.
 
 * In spring, gradually reintroduce it to light and warmer temperatures, then move it outdoors after all danger of frost has passed.
+

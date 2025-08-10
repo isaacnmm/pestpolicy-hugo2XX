@@ -1,4 +1,4 @@
----
+﻿---
 title: Capstar Flea Tablets for Large Dogs
 description: Capstar flea tablets for large dogs contain 57 mg of nitenpyram as its active ingredient and it's effective for killing adult...
 slug: /capstar-flea-tablets-for-large-dogs/
@@ -15,15 +15,13 @@ tags:
 layout: post
 ---
 
-[Capstar](https: //pestpolicy. com/capstar-flea-tablets-for-small-dogs/) flea tablets for large dogs contain 57 mg of nitenpyram as its active ingredient and it's effective for [killing adult [fleas](https: //pestpolicy. com/capstar-flea-treatment-reviews/)](https: //pestpolicy. com/how-to-kill-fleas-on-dogs-naturally-safe-and-fast/). - The nitenpyram ingredient falls under the group of neonicotinoids.
+[Capstar](https://pestpolicy.com/capstar-flea-tablets-for-small-dogs/) flea tablets for large dogs contain 57 mg of nitenpyram as its active ingredient and it's effective for [killing adult [fleas](https://pestpolicy.com/capstar-flea-treatment-reviews/)](https://pestpolicy.com/how-to-kill-fleas-on-dogs-naturally-safe-and-fast/). - The nitenpyram ingredient falls under the group of neonicotinoids.
 
 The oral tablet is effective and safe for killing fleas in large dogs.
 
 However, the manufacturers caution that these oral tablets must not be used for humans. - So, keep the tablets away from the reach of kids. Luckily, Capstar is safe for use on so you can give a second dose to the dog if it has a fleas' re-infestation. Administering the Capstar flea trap tablets will require that you conceal the medication in the pet's food or drop it into the dog's mouth directly.
 
-- Inspect the dog thoroughly to ensure it has swallowed the flea tablet or re-administer the medication if you are not sure if it has swallowed. NB: Remember that the fleas can multiply and reproduce while on another pet in your household even when you flea-treated your dog. - So, it is good to adopt a comprehensive flea treatment approach for the house and on other pets. Related: [Capstar Flea Tabletsfor Small Dogs](https: //pestpolicy.
-
-com/capstar-flea-tablets-for-small-dogs/).
+- Inspect the dog thoroughly to ensure it has swallowed the flea tablet or re-administer the medication if you are not sure if it has swallowed. NB: Remember that the fleas can multiply and reproduce while on another pet in your household even when you flea-treated your dog. - So, it is good to adopt a comprehensive flea treatment approach for the house and on other pets. Related: [Capstar Flea Tabletsfor Small Dogs](https://pestpolicy.com/capstar-flea-tablets-for-small-dogs/).
 
 ##  Dosage and Reaction
 
@@ -70,3 +68,4 @@ This technique might not work for dogs that show adverse skin reactions from fle
 ##  Conclusion
 
 In summary, the Capstar flea tablets for large dogs are effective in exterminating adult fleas. - But to control the fleas in the pets' environment, you will require acomprehensive flea extermination strategy. Despite the fact that the Capstar tablets will only work for 24 hours, it offers a quick knockdown on the fleas - which will be around 15 minutes. Cheers!
+

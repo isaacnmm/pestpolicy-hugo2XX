@@ -1,4 +1,4 @@
----
+﻿---
 title: Is Drain Cleaner an Acid or Base
 description: So,is drain cleaner an acid or base?The short and simple answer to this question is that a drain cleaner can either be an acid or a base . - Regardless of the...
 slug: /is-drain-cleaner-an-acid-or-base/
@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 
-So, is drain [cleaner](https: //pestpolicy. com/best-drain-cleaner/) an acid or base? The short and simple answer to this question is that a [drain cleaner](https: //pestpolicy. com/best-drain-cleaner//) can either be [an acid or a base](https: //van. physics. illinois. edu/qa/listing. php? id=491&t=acids-and-bases-in-drain-cleaner). - Regardless of the acidity or basicity of your drain cleaner, they pretty much work in the same way.
+So, is drain [cleaner](https://pestpolicy.com/best-drain-cleaner/) an acid or base? The short and simple answer to this question is that a [drain cleaner](https://pestpolicy.com/best-drain-cleaner//) can either be [an acid or a base](https://van.physics. illinois. edu/qa/listing. php? id=491&t=acids-and-bases-in-drain-cleaner). - Regardless of the acidity or basicity of your drain cleaner, they pretty much work in the same way.
 
 - However, this post shall delve deeper into this topic by trying to uncover which drain cleaners are the best, and how to choose them. Related: plumber's snakes.
 
@@ -31,7 +31,7 @@ Related: Apartment Roach Killers
 
 ##  What Are Some Of The Most Common Drain Cleaners?
 
-As we have already mentioned, [drain cleaners](https: //pestpolicy. com/best-drain-cleaner//) can be divided into either acids or bases. Common acids include Hydrochloric acid [HCL] and Sulphuric acid [H2SO4]. The following are some of the most popular bases that can be used as [drain cleaners](https: //pestpolicy. com/how-drain-cleaners-work/).
+As we have already mentioned, [drain cleaners](https://pestpolicy.com/best-drain-cleaner//) can be divided into either acids or bases. Common acids include Hydrochloric acid [HCL] and Sulphuric acid [H2SO4]. The following are some of the most popular bases that can be used as [drain cleaners](https://pestpolicy.com/how-drain-cleaners-work/).
 
 1. Sodium Hypochlorite [NaClO],
 
@@ -88,3 +88,4 @@ As a result, you could suffer from respiratory or cardiovascular diseases, not t
 Whether you go for acidic or basic drain cleaners, remember that your choice of the most ideal one depends on what you are looking for in a cleaner. Thankfully, there are lots of cleaners in the market, each coming with its strengths and weaknesses.
 
 As the user, be sure to read carefully on the ingredients as well as how to use a drain cleaner. Especially pay attention to any caution notes. This will help avoid any accidents like corrosion. And at the very least, always have protective gear when using any drain cleaner.
+

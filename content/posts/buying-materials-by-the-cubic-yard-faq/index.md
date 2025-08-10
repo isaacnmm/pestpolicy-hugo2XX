@@ -1,4 +1,4 @@
----
+﻿---
 title: Buying Materials by the Cubic Yard Faq
 description: Embarking on a landscaping project, whether it's building a new garden bed, laying a patio, or spreading fresh mulch, often involves purchasing bulk materials...
 slug: /buying-materials-by-the-cubic-yard-faq/
@@ -34,7 +34,7 @@ If you're struggling to visualize it, think of a small pickup truck bed filled t
 
 While pickup truck capacities vary, a standard short-bed truck can often hold roughly 1 to 1. 5 cubic yards if filled level.
 
-Knowing this fundamental definition is the first step in accurately estimating your [material](https: //pestpolicy. com/best-material-for-playground-surface/) needs and communicating effectively with material suppliers. It helps you mentally "chunk" the material you're buying.
+Knowing this fundamental definition is the first step in accurately estimating your [material](https://pestpolicy.com/best-material-for-playground-surface/) needs and communicating effectively with material suppliers. It helps you mentally "chunk" the material you're buying.
 
 ##  How Much Does a Cubic Yard Weigh?
 
@@ -291,3 +291,4 @@ For more detailed information, consider consulting these resources:
 * **Online Calculators: ** Numerous websites offer free cubic yard calculators.
 
 Simply input your length, width, and depth, and they will do the conversion for you. Search for "cubic yard calculator for landscaping. " * **Vehicle Owner's Manual: ** Always refer to your specific vehicle's owner's manual for accurate payload and towing capacities.
+

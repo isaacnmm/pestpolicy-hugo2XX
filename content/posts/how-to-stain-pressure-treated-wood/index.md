@@ -1,4 +1,4 @@
----
+﻿---
 title: How to Stain Pressure Treated Wood
 description: Could you have a pressure treated wooden structure in your place, or have you come across one? The pressure treatment process protects the wood from insect...
 slug: /how-to-stain-pressure-treated-wood/
@@ -14,7 +14,7 @@ tags:
 layout: post
 ---
 
-Could you have a [pressure](https: //pestpolicy. com/best-pressure-washer-for-paint-removal/) treated wooden structure in your place, or have you come across one? The pressure treatment process protects the wood from insect damage and reduces the aging process.
+Could you have a [pressure](https://pestpolicy.com/best-pressure-washer-for-paint-removal/) treated wooden structure in your place, or have you come across one? The pressure treatment process protects the wood from insect damage and reduces the aging process.
 
 Staining is required to improve outlook impression, prevent cracking, peeling, and boost a particular wooden structure's overall service life - a stain for deck pressure-treated wood. In this article, we shall be discussing how to stain pressure treated wood.
 
@@ -52,7 +52,7 @@ The abrasive motion should be in the direction of wood grain orientation to prev
 
 Using a stain mixer, stir the stain appropriately to achieve the best solvent per the manufacturers instructions. When preparing wood stain, its necessary to consider the type of method you are using during stain application (is it a paintbrush, a roller, or a spray painter). Stain preparation for spray painter is less viscous (prevents drains and blocking of the paint gun) than prepared for the application using a roller or a paintbrush.
 
-It would help if you also prepared a wood stain, which is enough for the surface to be stain coated. NB: When staining a wooden surface using a roller or a paintbrush, dont overload the tool it may cause a drain on the surface. See Also: [Fixing Peeling Paint on Ceiling](https: //pestpolicy. com/how-do-i-fix-peeling-paint-on-ceiling/).
+It would help if you also prepared a wood stain, which is enough for the surface to be stain coated. NB: When staining a wooden surface using a roller or a paintbrush, dont overload the tool it may cause a drain on the surface. See Also: [Fixing Peeling Paint on Ceiling](https://pestpolicy.com/how-do-i-fix-peeling-paint-on-ceiling/).
 
 ###  e. Prepping the Surface
 
@@ -98,9 +98,7 @@ Health is paramount when staining pressure treated wooden structures. Therefore,
 
 Always carry out a sprinkle test experiment before staining pressure treated wood to ascertain dryness level before staining the surface. 4. Consider the type of wooden material for your structure before selecting a wood stain to use or the method of application to select. 5. Remained stain should always be kept away from the reach of children and pets. 6. Flammable stains should not be applied to wooden structures used near a fireplace. 7.
 
-Carry out a drop test experiment before actual staining to ascertain stain stickiness level on a particular wooden surface. 8. Always follow the manufacturers instructions when preparing stain for pressure treated wooden structures. 9. Always clean the strain mess before it dries out. 10. Never touch stained pressure treated wood after stain application before it's fully cured. > See Also: > [Paint Sprayer for Fence Stain](https: //pestpolicy.
-
-com/best-paint-sprayer-for-fence-stain/)
+Carry out a drop test experiment before actual staining to ascertain stain stickiness level on a particular wooden surface. 8. Always follow the manufacturers instructions when preparing stain for pressure treated wooden structures. 9. Always clean the strain mess before it dries out. 10. Never touch stained pressure treated wood after stain application before it's fully cured. > See Also: > [Paint Sprayer for Fence Stain](https://pestpolicy.com/best-paint-sprayer-for-fence-stain/)
 
 ##  Conclusion
 
@@ -109,3 +107,4 @@ Having read how to stain pressure treated wood, I believe you can comfortably st
 Besides, it would help prepare the stain as per the manufacturers instructions and give the stained surface sufficient time to dry before applying a second coat if need be.
 
 Notably, wear protective gear during stain application.
+

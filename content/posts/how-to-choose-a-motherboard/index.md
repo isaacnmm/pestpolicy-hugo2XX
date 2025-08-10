@@ -1,4 +1,4 @@
----
+﻿---
 title: How to Choose a Motherboard
 description: Despite that the RAM, graphics card, and processor will directly affect YOUR PCs performance, a motherboard will influence the gadgets you can install and run...
 slug: /how-to-choose-a-motherboard/
@@ -21,9 +21,9 @@ For example, Hardware fitting, a key aspect to consider while building your gami
 
 ###  1. Form Factor
 
-A motherboards [form factor](https: //en. wikipedia. org/wiki/Computer_form_factor) denotes ITS numbers and layout of connectors, ports, and mounting holes, kind of power supply, dimensions, and shape. For example, the standard form factors require that the motherboard parts are fitting over varied technology groups and vendors. Therefore, consider the type of case youll be using for the motherboard to decide on the one to purchase.
+A motherboards [form factor](https://en.wikipedia. org/wiki/Computer_form_factor) denotes ITS numbers and layout of connectors, ports, and mounting holes, kind of power supply, dimensions, and shape. For example, the standard form factors require that the motherboard parts are fitting over varied technology groups and vendors. Therefore, consider the type of case youll be using for the motherboard to decide on the one to purchase.
 
-Check Also: [i5 7600k motherboard](https: //pestpolicy. com/best-motherboard-for-i5-7600k/). However, if you already have a case that you require to employ in the PC build, then determine the motherboard specifications, one with a similar form factor, which will fit into it. Most current computers employ the [ATX](https: //en. wikipedia. org/wiki/MicroATX) * (microATX form factor) or the full ATX (ATX form factor)*.
+Check Also: [i5 7600k motherboard](https://pestpolicy.com/best-motherboard-for-i5-7600k/). However, if you already have a case that you require to employ in the PC build, then determine the motherboard specifications, one with a similar form factor, which will fit into it. Most current computers employ the [ATX](https://en.wikipedia. org/wiki/MicroATX) * (microATX form factor) or the full ATX (ATX form factor)*.
 
 You should note that the microATX mobos are fitting with both the ATX case and the microATX case. However, your ATX will only be fitting with the ATX case. However, be keen to note the nonstandard features of motherboards that will not fit into any of the other cases.
 
@@ -35,7 +35,7 @@ Its easy to see the processor socket by determining the motherboard records and 
 
 Therefore, view the model number of the motherboard over the internet, on the socket (first eject the processor cooler), or by running the diagnostic utility tools. Yes! In considering the Intel Socket 775, youll note that the manufacture reversed the female socket and the male processor outline by placing the holes in the processor while the pins are placed in the socket. But is there an exception?
 
-Determine the processor that will fit into the [i5 6600k motherboard](https: //pestpolicy. com/best-motherboard-for-i5-6600k/).
+Determine the processor that will fit into the [i5 6600k motherboard](https://pestpolicy.com/best-motherboard-for-i5-6600k/).
 
 ###  3. Operating system appropriate
 
@@ -47,7 +47,7 @@ RAM is an important part of your CPU build. Despite that the processor directly 
 
 Further, you must consider the form factor as itll determine the number of RAM slots available on the motherboard.
 
-Also, check whether the motherboard supports dual channel DDR that enables you to increase the PCs performance for gaming. For instance, many motherboards can currently support the 4GB RAM, and DDR2 rising as very common due to its low cost and good speed. Check Also: [i7 6700 (non-K) motherboard](https: //pestpolicy. com/best-motherboard-for-i7-6700/)
+Also, check whether the motherboard supports dual channel DDR that enables you to increase the PCs performance for gaming. For instance, many motherboards can currently support the 4GB RAM, and DDR2 rising as very common due to its low cost and good speed. Check Also: [i7 6700 (non-K) motherboard](https://pestpolicy.com/best-motherboard-for-i7-6700/)
 
 ###  5. Storage and SATA support
 
@@ -59,7 +59,7 @@ Probably you already know that SATA outdoes IDE on both compactness, price, and 
 
 ###  6. Chipset support
 
-Note that youll not replace the [chipset](https: //en. wikipedia. org/wiki/Chipset) (your PCs administrative assistant) on your motherboard at any time and thus you have to get your motherboard selection right the first time. Notably, the [chipset](https: //www. intel. com/content/www/us/en/products/chipsets. html) will affect the kind of memory, PCI/AGP Express, and processors that your motherboard will support and the kind.
+Note that youll not replace the [chipset](https://en.wikipedia. org/wiki/Chipset) (your PCs administrative assistant) on your motherboard at any time and thus you have to get your motherboard selection right the first time. Notably, the [chipset](https://www.intel. com/content/www/us/en/products/chipsets. html) will affect the kind of memory, PCI/AGP Express, and processors that your motherboard will support and the kind.
 
 Further, the CPU chipset will influence the type of networking, video, audio, Serial ATA, and USB 2. 0 you may be used.
 
@@ -74,3 +74,4 @@ RAID allows the grouping hard drives to increase data access speed and boost fau
 ##  Conclusion
 
 While scouting a great gaming motherboard, consider the above critical and performance. Also, remember to consider on-board features such as video and audio integration features.
+

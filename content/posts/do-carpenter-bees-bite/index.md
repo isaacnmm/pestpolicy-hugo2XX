@@ -1,4 +1,4 @@
----
+﻿---
 title: Do Carpenter Bees Bite
 description: While carpenter bees do not bite humans, they can cause damage to wooden structures. The bees burrow into wood to create their nests, which can lead to...
 slug: /do-carpenter-bees-bite/
@@ -14,7 +14,7 @@ tags:
 layout: post
 ---
 
-While [carpenter](https: //pestpolicy. com/compare-carpenter-bee-vs-bumblebee/) bees do not bite humans, they can cause damage to wooden structures. The bees burrow into wood to create their nests, which can lead to structural damage if left unchecked. Over time, repeated nesting activity can weaken wood, especially in areas like decks, eaves, and siding.
+While [carpenter](https://pestpolicy.com/compare-carpenter-bee-vs-bumblebee/) bees do not bite humans, they can cause damage to wooden structures. The bees burrow into wood to create their nests, which can lead to structural damage if left unchecked. Over time, repeated nesting activity can weaken wood, especially in areas like decks, eaves, and siding.
 
 ###  How to Prevent Carpenter [Bee](https://pestpolicy.com/hornet-bees-and-wasp-removal-tacoma/) Infestations
 
@@ -25,3 +25,4 @@ To prevent carpenter bees from nesting in your home or garden, consider the foll
 ###  Conclusion
 
 Carpenter bees are typically harmless to humans and do not bite. While their nesting behavior can cause damage to wood, they are not aggressive and will only sting if provoked. Taking preventive measures, such as sealing wood and using repellents, can help avoid infestations and minimize the risk of damage.
+

@@ -1,4 +1,4 @@
----
+﻿---
 title: Best Crossbow for Self Defense
 description: While on this site, we won't encourage careless shooting, at one time or another, you will need the b est Crossbow for self-defense when an attacker comes to...
 slug: /best-crossbow-for-self-defense/
@@ -32,7 +32,7 @@ Despite that the device would not match the latest crossbow designs, we consider
 
 With the Crossbow, you will achieve excellent shooting accuracy with distances such as 48 yards, even when you are a beginner.
 
-Read Also: [Driveway Alarms Reviewed](https: //pestpolicy. com/best-driveway-alarms/)
+Read Also: [Driveway Alarms Reviewed](https://pestpolicy.com/best-driveway-alarms/)
 
 ###  [2. Barnett Ghost 420 Cross Bow  High End and high powered](https://www.amazon.com/dp/B01MTDH9IB/?tag=p-policy-20)
 
@@ -48,7 +48,7 @@ There is a superior bristle that can be replaced after wearing out. Further, if 
 
 Finally, the Crossbow has an Anti-Dry Fire (ADF) Trigger Structure, allows Single Bolt Assembly, and has a Soft Lock mechanism.
 
-Read Also: [Long Range Wireless Driveway Alert System](https: //pestpolicy. com/long-range-wireless-driveway-alert-system/)
+Read Also: [Long Range Wireless Driveway Alert System](https://pestpolicy.com/long-range-wireless-driveway-alert-system/)
 
 ###  [3. Prophecy 80 Pound Crossbow](https://www.amazon.com/dp/B00SI8TZCK/?tag=p-policy-20)
 
@@ -56,7 +56,7 @@ For low-end but high-quality crossbows, you have to try the Prophecy 80 Pound Cr
 
 Unlike other full-sized crossbows, the Prophecy 80 Pound crossbow will not require excessive energy to cock, and hence you can shoot faster.
 
-The device is of high-quality build and can shoot straight with great accuracy. Further, you will be able to set up the Crossbow easily and be ready to hit your attacker. Also, the 6-4 or 5" Power Stroke. Read Also: [How to select a Wireless Driveway Alarm](https: //pestpolicy. com/how-to-select-a-wireless-driveway-alarm/).
+The device is of high-quality build and can shoot straight with great accuracy. Further, you will be able to set up the Crossbow easily and be ready to hit your attacker. Also, the 6-4 or 5" Power Stroke. Read Also: [How to select a Wireless Driveway Alarm](https://pestpolicy.com/how-to-select-a-wireless-driveway-alarm/).
 
 ###  [4. SA Sports](https://www.amazon.com/dp/B007ELWHJ0/?tag=p-policy-20)[Package 543](https://www.amazon.com/dp/B007ELWHJ0/?tag=p-policy-20)[Fever Crossbow](https://www.amazon.com/dp/B007ELWHJ0/?tag=p-policy-20)
 
@@ -91,3 +91,4 @@ The structure of the Crossbow holds the bolt and the string, and thus you need t
 I hope with the outline information; you'll quickly make a buying decision for your ultimate Crossbow for self-defense purposes.
 
 Happy Shopping! ! !
+

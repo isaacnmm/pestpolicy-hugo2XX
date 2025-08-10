@@ -1,4 +1,4 @@
----
+﻿---
 title: Diy Bed Bug Spray
 description: Bed bugs are tiny pests that will disturb your sleep by biting and sucking your blood before retreating to the seams of your couch or bed. The insects are...
 slug: /diy-bed-bug-spray/
@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 
-Bed bugs [are tiny pests](https: //pestpolicy. com/bed-bug-life-cycle/) that will disturb your sleep by biting and sucking your blood before retreating to the seams of your couch or bed. The insects are carried between places (unknowingly) by pets or humans on their bodies. - Bed bug bites appear as irritating bumps that are red - they are inflicted on any exposed skin all over your body.
+Bed bugs [are tiny pests](https://pestpolicy.com/bed-bug-life-cycle/) that will disturb your sleep by biting and sucking your blood before retreating to the seams of your couch or bed. The insects are carried between places (unknowingly) by pets or humans on their bodies. - Bed bug bites appear as irritating bumps that are red - they are inflicted on any exposed skin all over your body.
 
 In this article, I will outline the various DIY Bed Bug Sprays you can use to repel or kill the bugs.
 
@@ -25,31 +25,31 @@ Commercial bed bug killers and repellents are pricey and may come infused with p
 
 ###  1. Essential Oils Bed Bug Spray
 
-[Essential oils](https: //pestpolicy. com/essential-oils-for-[bed-bugs](https: //pestpolicy. com/are-bed-bug-eggs-hard-or-soft/)/) are a critical ingredient that can be used to [repel bed bugs](https: //www. purdue. edu/newsroom/releases/2019/Q1/study-identifies-essential-oil-compounds-most-toxic-to-bed-bugs. html).
+[Essential oils](https://pestpolicy.com/essential-oils-for-[bed-bugs](https://pestpolicy.com/are-bed-bug-eggs-hard-or-soft/)/) are a critical ingredient that can be used to [repel bed bugs](https://www.purdue. edu/newsroom/releases/2019/Q1/study-identifies-essential-oil-compounds-most-toxic-to-bed-bugs. html).
 
 But bed bugs can go for months without taking a blood meal and so the effectiveness of essential piles will be as good as how frequently you will spray them.
 
 ####  a.Thymol from Essential Oil Thyme
 
-The thyme plant produces the essential oil thyme which has Thymol as its active compound. - Thyme plant is popular for being an effective animal repellent and insecticide - it has been used for years. Thymol (its scent) has been [documented](https: //www. ncbi. nlm. nih. gov/pmc/articles/PMC6408565/) to overwhelm the bed bugs' nervous system and so it will repel the pests.
+The thyme plant produces the essential oil thyme which has Thymol as its active compound. - Thyme plant is popular for being an effective animal repellent and insecticide - it has been used for years. Thymol (its scent) has been [documented](https://www.ncbi. nlm. nih. gov/pmc/articles/PMC6408565/) to overwhelm the bed bugs' nervous system and so it will repel the pests.
 
 ###  b. Geraniol from Rose
 
-Some aromatic plants such as rose, and palm produce essential oils that contain terpene alcohol known as c. Geraniol. Geraniol is an essential oil that is popular for repelling cockroaches in apartments but it has also been shown to repel bed bugs. A [2014 research](https: //www. ncbi. nlm. nih.
+Some aromatic plants such as rose, and palm produce essential oils that contain terpene alcohol known as c. Geraniol. Geraniol is an essential oil that is popular for repelling cockroaches in apartments but it has also been shown to repel bed bugs. A [2014 research](https://www.ncbi. nlm. nih.
 
 gov/pmc/articles/PMC4592615/) that was comparing the effectiveness of traditional pesticides with a spray that contained Geraniol reported positive results in the latter.
 
 ####  d. Citronella from Asian Grass Plant
 
-Another essential oil that will repel the bed bugs is citronella oil. - Citronella oil is extracted or produced from Asian grass plants that are already being used to repel mosquitoes. Other medical applications of citronella oil take advantage of its wound healing and antifungal properties. Recent [research](https: //www. ncbi. nlm. nih.
+Another essential oil that will repel the bed bugs is citronella oil. - Citronella oil is extracted or produced from Asian grass plants that are already being used to repel mosquitoes. Other medical applications of citronella oil take advantage of its wound healing and antifungal properties. Recent [research](https://www.ncbi. nlm. nih.
 
 gov/pmc/articles/PMC7926421/) shows that citronella oil is an effective repellent against some insects such as bed bugs.
 
 ###  e. Eugenol from Clove Plant
 
-Eugenol is another ingredient that will repel bed bugs and it is derived from essential oils like those in a clove. Besides just repairing the bed bugs, a recent [study](https: //www. ncbi. nlm. nih. gov/pmc/articles/PMC7074276/) shows that eugenol will also kill some bed bugs. f. Carvacrol from Oregano plant The oregano plant is one of the plants where you can extract essential oils that contain carvacrol.
+Eugenol is another ingredient that will repel bed bugs and it is derived from essential oils like those in a clove. Besides just repairing the bed bugs, a recent [study](https://www.ncbi. nlm. nih. gov/pmc/articles/PMC7074276/) shows that eugenol will also kill some bed bugs. f. Carvacrol from Oregano plant The oregano plant is one of the plants where you can extract essential oils that contain carvacrol.
 
-The most recent [research](https: //www. ncbi. nlm. nih. gov/pmc/articles/PMC6408565/) appliance that carvacrol had the highest potency in repelling bed bugs during a fumigation process.
+The most recent [research](https://www.ncbi. nlm. nih. gov/pmc/articles/PMC6408565/) appliance that carvacrol had the highest potency in repelling bed bugs during a fumigation process.
 
 ###  g. Lavender Oil
 
@@ -77,11 +77,11 @@ Diatomaceous Earth is also a natural, safe, and effective spray that you can use
 
 The diatomaceous earth diatoms are accumulated over time in water bodies such as lakes and oceans. As a side note, FDA recognizes diatomaceous Earth as safe and it is used in beverages, food, medicines, paints, and various beauty products. Homeowners will sprinkle the DE powder around their rooms and home perimeter to kill the bed bugs.
 
-- A recent[study](http: //www. mdpi. com/2075-4450/5/4/942/pdf)shows that diatomaceous Earth generated moderate effectiveness in controlling bed bugs during a six-month time. Therefore, expect bed bug exterminators recommend using integrated approaches while trying to control these pests. Sprinkle the diatomaceous Earth on the mattress and box springs control bed bugs. - Finally, you should vacuum spaces where the diatomaceous Earth was applied.
+- A recent[study](http://www.mdpi. com/2075-4450/5/4/942/pdf)shows that diatomaceous Earth generated moderate effectiveness in controlling bed bugs during a six-month time. Therefore, expect bed bug exterminators recommend using integrated approaches while trying to control these pests. Sprinkle the diatomaceous Earth on the mattress and box springs control bed bugs. - Finally, you should vacuum spaces where the diatomaceous Earth was applied.
 
 ###  5. Spraying Rubbing Alcohol (91% Isopropyl Alcohol)
 
-[Rubbing Alcohol](https: //pestpolicy. com/does-rubbing-alcohol-kill-bed-bugs/) can help with early intervention, a bed bug infestation, or a prevention mission. - However, rubbing alcohol will only offer temporary relief for bed bugs in your home. - So, if you have a massive infestation of bed bugs, I would advise using chemical sprays or professional exterminators. But how will rubbing alcohol kill the bed bugs?
+[Rubbing Alcohol](https://pestpolicy.com/does-rubbing-alcohol-kill-bed-bugs/) can help with early intervention, a bed bug infestation, or a prevention mission. - However, rubbing alcohol will only offer temporary relief for bed bugs in your home. - So, if you have a massive infestation of bed bugs, I would advise using chemical sprays or professional exterminators. But how will rubbing alcohol kill the bed bugs?
 
 Well, rubbing alcohol is classified as a solvent and it will dissolve the bed bugs' exoskeleton. Besides, rubbing alcohol functions as a drying agent or as that will dry out the adult bed bugs and their eggs. - Finally, rubbing alcohol will repel bed bugs and therefore discourage them from laying eggs or crawling on treated surfaces. So you can spray the rubbing alcohol on furniture and bedding to win the fight against the bugs.
 
@@ -90,3 +90,4 @@ But spraying the rubbing alcohol on furniture, bedding, and mattress may leave t
 ##  Conclusion
 
 The DIY bed bug sprays will help exterminate the bugs - I recommend using essential oils, rubbing alcohol, vinegar, and diatomaceous earth. - These bed bug-repelling or killing sprays are effective and safe to use in the house or in business premises. Cheers!
+

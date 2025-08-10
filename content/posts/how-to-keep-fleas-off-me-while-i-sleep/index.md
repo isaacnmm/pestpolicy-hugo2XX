@@ -1,4 +1,4 @@
----
+﻿---
 title: How to Keep Fleas Off Me While I Sleep
 description: When fleas jump onto your bed they'll make your sleep comfortable and queen inflict flea bites that are painful. So, you ask, how to keep fleas off me while I...
 slug: /how-to-keep-fleas-off-me-while-i-sleep/
@@ -24,7 +24,7 @@ It can be challenging to control the biting tendencies of fleas and they're spre
 
 ###  1. Wear Long Pants and Sock
 
-Wearing long socks and pants (long trousers), and putting on closed shoes will protect you from flea bites since this pest [won't bite through most fabrics & clothing](https: //pestpolicy. com/can-fleas-bite-through-clothes/) - the please will be kept off your feet, lower legs, and skin.
+Wearing long socks and pants (long trousers), and putting on closed shoes will protect you from flea bites since this pest [won't bite through most fabrics & clothing](https://pestpolicy.com/can-fleas-bite-through-clothes/) - the please will be kept off your feet, lower legs, and skin.
 
 Please don't bite through thin fabrics socks jeans and various clothing.
 
@@ -72,11 +72,9 @@ Will the dryer sheets kill or repel fleas? Well, the dryer is an excellent tool 
 
 If you regularly sleep with your pet such as a cat or dog on your bed it's important that you bathe and flea-treat the animals well.
 
-Pets that have fleas on their bodies will significantly contribute to the occurrence of fleas on your bed - the bugs might eventually bite you. - The fleas will hide in the pet's body, hair, or fur before jumping onto different surfaces in the house and beginning their colony after laying many eggs. So bathe the pets using soapy and warm water and also [use a flea comb](https: //pestpolicy.
+Pets that have fleas on their bodies will significantly contribute to the occurrence of fleas on your bed - the bugs might eventually bite you. - The fleas will hide in the pet's body, hair, or fur before jumping onto different surfaces in the house and beginning their colony after laying many eggs. So bathe the pets using soapy and warm water and also [use a flea comb](https://pestpolicy.com/best-flea-comb-for-cats/) to remove those fleas that are entangled in the pet hair.
 
-com/best-flea-comb-for-cats/) to remove those fleas that are entangled in the pet hair.
-
-The soapy water that is warm will drown the flea eggs and kill the adult fleas. So bathe the pets regularly to ensure that the bugs are exterminated in [their initial growth stages](https: //pestpolicy. com/flea-life-cycle/).
+The soapy water that is warm will drown the flea eggs and kill the adult fleas. So bathe the pets regularly to ensure that the bugs are exterminated in [their initial growth stages](https://pestpolicy.com/flea-life-cycle/).
 
 But can I sleep on a bed that has fleas? Well yes, you can because please love warm environments and the bed is such an area.
 
@@ -95,3 +93,4 @@ But the fleas you may find on the bedding and beds maybe there are mainly search
 ##  Conclusion
 
 You can keep fleas off your body while you're sleeping by spraying some flea repellent on the skin or clothing and wearing long socks and pants.
+

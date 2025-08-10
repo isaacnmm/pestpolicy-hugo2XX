@@ -1,4 +1,4 @@
----
+﻿---
 title: Do Spiders Pee
 description: Do Spiders Pee? Animals, unlike plants, must all "urinate" despite undertaking the process in different ways. Urinating allow removal of unwanted salts,...
 slug: /do-spiders-pee/
@@ -29,7 +29,7 @@ In the stercoral pocket, the uric acid is mixed with solid waste coming from the
 
 ##  Conserves Water with Uric Acid
 
-Insects and spiders will change their nitrogenous waste into uric acid - which is an insoluble and contains minimal water - as a water conservation method for the spider. Comparatively, flying insects and birds produce dry 'urine'that has uric acid since they avoiding a bladder with water helps them cut their weight. Related: [Do Spiders Have Brains? ](https: //pestpolicy. com/do-spiders-have-brains/)
+Insects and spiders will change their nitrogenous waste into uric acid - which is an insoluble and contains minimal water - as a water conservation method for the spider. Comparatively, flying insects and birds produce dry 'urine'that has uric acid since they avoiding a bladder with water helps them cut their weight. Related: [Do Spiders Have Brains? ](https://pestpolicy.com/do-spiders-have-brains/)
 
 ##  Do Spiders Drink Water?
 
@@ -39,20 +39,21 @@ However, for the caged spiders, you should offer them fresh water using objects 
 
 For a spider that's inside the house, the best water sources is water droplets from shower or tap, sink edges, or plugholes.
 
-Definitely, [spiders can't drown](https: //pestpolicy. com/can-you-drown-a-spider/) but may remain trapped in the bath or sink due to being too steep or slippery. The whistling spider species creates a silk layer for their long burrow to ensure it remains humid and hydrated. Raindrops dew can also provide a water sources for some spider species. Garden spider, wolf spider and wolf spider tend to get water from drinking the morning dew.
+Definitely, [spiders can't drown](https://pestpolicy.com/can-you-drown-a-spider/) but may remain trapped in the bath or sink due to being too steep or slippery. The whistling spider species creates a silk layer for their long burrow to ensure it remains humid and hydrated. Raindrops dew can also provide a water sources for some spider species. Garden spider, wolf spider and wolf spider tend to get water from drinking the morning dew.
 
 They'll take the water from dew via mound (silk-covered) at the door of their hideout. Some spider species also drink nectar from the garden plants particularly when there are limited water sources such as rain, dew or tap water. Spider species like the whip spider use their pincers to suck water from sources like dew or nectar flowers.
 
 ##  Some Spiders Don't Drink Water
 
-The red back and black widow ( while they're not all venomous ), interestingly, don't drink water like humans or other spiders. These spiders get most of their required body fluids from sucking their prey. These are comparable to mammals such as the koalathat don't drink water but derive their fluids from eating eucalyptus (smooth-barked) among other plan leaves. Related: [Do Spiders Have Bones? ](https: //pestpolicy. com/do-spiders-have-bones/)
+The red back and black widow ( while they're not all venomous ), interestingly, don't drink water like humans or other spiders. These spiders get most of their required body fluids from sucking their prey. These are comparable to mammals such as the koalathat don't drink water but derive their fluids from eating eucalyptus (smooth-barked) among other plan leaves. Related: [Do Spiders Have Bones? ](https://pestpolicy.com/do-spiders-have-bones/)
 
 ##  Size of Spider's Pee-Poop
 
 As noted above, spider's poop and pee is mixed together - through their malpighian tubules to eliminate the nitrogenous waste. So, its fact that spiders don't generate urine but will have the near-solid uric acid.
 
-Spiders lack a clearly defined urinary tract comparable to that in mammals. Check this [amazing answer](https: //www. quora. com/Do-spiders-defecate-urinate-and-is-it-harmful-to-humans) on whether spiders pee or poop. You can use spider spray to control the arachnids that are unwanted indoors. The spider's pee-poop is small light brown, cream, or white colored that will appear like round drops.
+Spiders lack a clearly defined urinary tract comparable to that in mammals. Check this [amazing answer](https://www.quora. com/Do-spiders-defecate-urinate-and-is-it-harmful-to-humans) on whether spiders pee or poop. You can use spider spray to control the arachnids that are unwanted indoors. The spider's pee-poop is small light brown, cream, or white colored that will appear like round drops.
 
 On size, these droppings measure around 1/16 - 1/8 an inch in diameter.
 
 Further, the spider's poop mainly contains guanine - just like in the DNA.
+

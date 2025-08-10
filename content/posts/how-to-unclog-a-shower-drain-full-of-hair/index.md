@@ -1,4 +1,4 @@
----
+﻿---
 title: How to Unclog a Shower Drain Full Of Hair
 description: I am sitting here in Suzies house, and she is complaining about her slow draining shower. Suzie happens to have long hair, and indeed, the hair gets loose,...
 slug: /how-to-unclog-a-shower-drain-full-of-hair/
@@ -27,7 +27,7 @@ First, put on a pair of rubber gloves to help you avoid those nasty bacteria dow
 
 Pull the wire out and remove the clogged hair placing it into a trash bin.
 
-Now run water down the drain to check whether its draining quickly. Repeat the process every time going deeper the drain a few more inches while still increasing the wire hook's size. Keep repeating this step until youre sure that youve removed most of the hair. Next, treat the [drain using a great enzyme promoting drain cleaner](https: //pestpolicy. com/best-drain-cleaner//).
+Now run water down the drain to check whether its draining quickly. Repeat the process every time going deeper the drain a few more inches while still increasing the wire hook's size. Keep repeating this step until youre sure that youve removed most of the hair. Next, treat the [drain using a great enzyme promoting drain cleaner](https://pestpolicy.com/best-drain-cleaner//).
 
 However, hold the wire tightly so that it wont get stuck in the gutter.
 
@@ -37,7 +37,7 @@ First things first, read the usage instructions on the liquid cleaner bottle. Th
 
 Pour the cleaner (as instructed) into the open shower drain. This will require that you squeeze the bottle to get the liquid out. Next, allow the cleaner about 30-60 minutes to act on the clogged drain. But remember, this must follow the label instructions. The next step on this is to flash out the drain using hot water.
 
-However, when you notice that the shower [drain does not clear enough](https: //pestpolicy. com/is-drain-cleaner-an-acid-or-base/), you might require adding some drain cleaner and giving it time to work. ***2. For Granulated Crystal Cleaner: *** If youre using a granulated crystal cleaner, youll need to follow a different process to unclog the shower drain. However, first, just like with the liquid cleaner, read the label instructions.
+However, when you notice that the shower [drain does not clear enough](https://pestpolicy.com/is-drain-cleaner-an-acid-or-base/), you might require adding some drain cleaner and giving it time to work. ***2. For Granulated Crystal Cleaner: *** If youre using a granulated crystal cleaner, youll need to follow a different process to unclog the shower drain. However, first, just like with the liquid cleaner, read the label instructions.
 
 For the granulated crystal cleaner, clear all the stagnant water in the shower and drain. Then pour about 2-3 tablespoons of the granular crystal cleaner into the shower drain. Finally, pour about cold water (about two glasses) into the drain. Then leave the chemical to act for 35-50 minutes, after which youll only need to pour cold water to flash all the hair and debris in the shower drain.
 
@@ -51,7 +51,7 @@ Further, it would help if you kept the strainers clean from any hairballs or dir
 
 Therefore, the strainer prevents large hair from doing down the drain. Thus you can clean most of the large hairballs using your regular brush or broom after each shower. However, avoiding falling back to chemical drain cleaners so fast as some could, over time, destroy the drainage pipes. Therefore, the alternative is avoiding drain blockage as much as possible instead of using chemicals every time. **2.
 
-Pour hot water once weekly: ** Take some time once a week to do general [cleaning to rid the shower drain of any clogged](https: //pestpolicy. com/dont-use-vinegar-and-baking-soda-to-clean-clogged-[drains](https: //pestpolicy. com/best-drain-cleaner/)/) hair. Besides washing off any hair after every shower session, youll need to pour some hot water and some [drain](https: //pestpolicy. com/best-drain-snakes/) cleaner down the drain once per week.
+Pour hot water once weekly: ** Take some time once a week to do general [cleaning to rid the shower drain of any clogged](https://pestpolicy.com/dont-use-vinegar-and-baking-soda-to-clean-clogged-[drains](https://pestpolicy.com/best-drain-cleaner/)/) hair. Besides washing off any hair after every shower session, youll need to pour some hot water and some [drain](https://pestpolicy.com/best-drain-snakes/) cleaner down the drain once per week.
 
 The hot water will dissolve oils, greats, and soap solids that could combine with hair to form large balls of clogs. **3. Don't pour grease and oil into the shower drain: ** Like your kitchen drain, the shower drain will clog whenever you pour down grease and oil into them. As noted above, grease and oil will help the hair cuttings to come together to form large balls.
 
@@ -59,4 +59,5 @@ Therefore, if you think any oils are not safe to pour down the kitchen sink, the
 
 Further, you'll need to have some safe
 
-[soap dish](https: //www. amazon. com/dp/B0051T92C2/? tag=p-policy-20) since the soap (dropped down the drain) can help form large hair clogs. It goes without saying too that soap that lies around carelessly could cause slippage accidents.
+[soap dish](https://www.amazon. com/dp/B0051T92C2/? tag=p-policy-20) since the soap (dropped down the drain) can help form large hair clogs. It goes without saying too that soap that lies around carelessly could cause slippage accidents.
+

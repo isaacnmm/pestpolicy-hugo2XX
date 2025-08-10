@@ -1,4 +1,4 @@
----
+﻿---
 title: How Long Do Squirrels Live
 description: Have you come across squirrels in your garden? But do you ever ask yourself how long do squirrels live? Did you know that there are different species of...
 slug: /how-long-do-squirrels-live/
@@ -15,13 +15,13 @@ tags:
 layout: post
 ---
 
-Have you come across squirrels in your garden? But do you ever ask yourself how long do squirrels [live](https: //pestpolicy. com/can-no-see-ums-live-in-my-hair/)? Did you know that there are different species of squirrels ( just like with chipmunks ) and they have a different life span and Well, I was in the same situation as you a few years back when I had squirrels all over my garden. This prompted me into finding out more about squirrels.
+Have you come across squirrels in your garden? But do you ever ask yourself how long do squirrels [live](https://pestpolicy.com/can-no-see-ums-live-in-my-hair/)? Did you know that there are different species of squirrels ( just like with chipmunks ) and they have a different life span and Well, I was in the same situation as you a few years back when I had squirrels all over my garden. This prompted me into finding out more about squirrels.
 
 Here is what I found. Related: Squirrels Poison
 
 ##  **How Long Do Squirrels Live?**
 
-The life span of a [squirrel](https: //pestpolicy. com/do-squirrels-attack-humans/) is dependent on its species and the predisposing factors. For instance, squirrels in captivity live longer than those that live in the wild. The life span of the squirrels in the wild is shorter than those that live in captivity. - Squirrels have predators like hawks, dogs among other carnivores in the wild. They barely survive even two years of their life.
+The life span of a [squirrel](https://pestpolicy.com/do-squirrels-attack-humans/) is dependent on its species and the predisposing factors. For instance, squirrels in captivity live longer than those that live in the wild. The life span of the squirrels in the wild is shorter than those that live in captivity. - Squirrels have predators like hawks, dogs among other carnivores in the wild. They barely survive even two years of their life.
 
 In case this happens, most of these squirrels can live between 6-12 years on average. - Squirrels can be categorized into 3 species which include flying squirrels, ground and tree squirrels.
 
@@ -71,7 +71,7 @@ In the food chain, squirrels are prey to many animals and carnivorous birds. The
 
 Though there are not many predators in the urban areas, squirrels are exposed to all sorts of dangers including being hit by cars, attack by dogs among others. - The attacks on the squirrels are less but only skillful and the well-camouflaged squirrels can survive in the urban set-up. The grey squirrels do very well in the adapted urban set-up as compared to other types of squirrels due to their color.
 
-Related: [Controlling Squirrels in the Yard](https: //pestpolicy. com/how-to-get-rid-of-squirrels-in-the-yard/)
+Related: [Controlling Squirrels in the Yard](https://pestpolicy.com/how-to-get-rid-of-squirrels-in-the-yard/)
 
 ###  **4. Loss of eyesight **
 
@@ -90,3 +90,4 @@ How long do squirrels live? This will totally depend on the predisposing factors
 Besides all these factors that lead to a shorter lifespan, it is good to be nice to the squirrels and other animals in your garden.
 
 If you have spotted squirrels frequently in your garden, maybe you need to consider doing a feeding area for them.
+

@@ -1,4 +1,4 @@
----
+﻿---
 title: Homemade Ant Killer
 description: Are you stuck with an ant problem in your house and lawns? You dont have to worry anymore! Therere many do-it-yourself home remedies you can use to get rid of...
 slug: /homemade-ant-killer/
@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 
-Are you stuck with an ant problem in your house and lawns? You dont have to worry anymore! Therere many do-it-yourself home remedies you can use to get rid of these insects. These are tried and tested [home ant killer recipes](https: //entomology. ca. uky. edu/ef619) that can be easily made using locally available materials and simple equipment. Below is my guide on how to make simple ant killers in the comfort of your home.
+Are you stuck with an ant problem in your house and lawns? You dont have to worry anymore! Therere many do-it-yourself home remedies you can use to get rid of these insects. These are tried and tested [home ant killer recipes](https://entomology.ca. uky. edu/ef619) that can be easily made using locally available materials and simple equipment. Below is my guide on how to make simple ant killers in the comfort of your home.
 
 Related: Fire Ant Killer for Lawns.
 
@@ -29,7 +29,7 @@ These are excellent homemade ant killers to eradicate ants without exposing your
 
 Mix 1 teaspoon of boric acid with one teaspoon of peanut butter in a mixing bowl. 2. Fill plastic straws with the paste. 3. Cut the straws into 2-inch pieces and place them in places most frequented by ants. 4. Ants will be attracted by the peanut butter and get killed by the boric acid. Ants are social creatures that love doing everything together. 5. So, they will take the pieces back to the colony, hence distributing the poison to more ants.
 
-Related: [Bed Ant Killer](https: //pestpolicy. com/best-ant-killer/)
+Related: [Bed Ant Killer](https://pestpolicy.com/best-ant-killer/)
 
 ###  **2. Food-Grade Diatomaceous Earth Ant killer**
 
@@ -75,7 +75,7 @@ Vinegar also discourages ants from your house by interfering with their ability 
 
 Spray the solution in areas where ants usually emerge out in large numbers, such as baseboards, cabinets, and windows. This will prevent the ants outside the house from picking up the scent. 5. For a large number of ants, you can saturate them withvinegar to killthem. Allow some time and come back to wipe the carcasses. 6. Apply the vinegar solution at least two times a week. For more effectiveness, you can increase the vinegar concentration.
 
-Check Out: [Best Ant Traps](https: //pestpolicy. com/best-ant-traps/)
+Check Out: [Best Ant Traps](https://pestpolicy.com/best-ant-traps/)
 
 ###  **6. Borax Acid and Corn Syrup Ant Trap**
 
@@ -105,7 +105,7 @@ Mix a 50/50 solution of water and dish soap in a spray bottle. 2. To use the sol
 
 Keep your spray ready and use it to kill the ants you see crawling on your surfaces.
 
-Related: [How to Get Rid Of Ants in the Bathroom](https: //pestpolicy. com/how-to-get-rid-of-ants-in-the-bathroom/)
+Related: [How to Get Rid Of Ants in the Bathroom](https://pestpolicy.com/how-to-get-rid-of-ants-in-the-bathroom/)
 
 ###  **9. Baking Soda, Dish Soap & Apple Cider Vinegar**
 
@@ -178,3 +178,4 @@ So, youll need to use othermethods to killthe colony.
 ##  **Conclusion**
 
 Homemade ant killers provide you with an environmentally-friendly solution to get rid of ants both indoors and outdoors. They are cheap and easy to prepare since they require locally available ingredients. Unlike commercial ant killers, most of these home remedies are nontoxic and can be used indoors without worrying about kids and pets.
+

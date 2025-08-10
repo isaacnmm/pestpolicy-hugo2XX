@@ -1,4 +1,4 @@
----
+﻿---
 title: Do Squirrels Attack Humans
 description: Summertime in many parts of the World including the United States such as in Washington, D.C., largely experiences an upsurge of squirrels - they live longer...
 slug: /do-squirrels-attack-humans/
@@ -15,11 +15,9 @@ tags:
 layout: post
 ---
 
-Summertime in many parts of the World including the United States such as in Washington, D. C. , largely experiences an upsurge of squirrels - [they live longer too](https: //pestpolicy. com/how-long-do-squirrels-live/). Well, squirrels are comparatively cute and most of us may get attracted to them. In fact, we argue that squirrels are not like lions, bears, or wolves. But do squirrels attack humans?
+Summertime in many parts of the World including the United States such as in Washington, D. C. , largely experiences an upsurge of squirrels - [they live longer too](https://pestpolicy.com/how-long-do-squirrels-live/). Well, squirrels are comparatively cute and most of us may get attracted to them. In fact, we argue that squirrels are not like lions, bears, or wolves. But do squirrels attack humans?
 
-*In brief, Yes, squirrels will attack humans whenever they feel threatened - their powerful bites may bring dangerous diseases. So, if you love watching or feeding squirrels in the backyard, you must keep some safe distance. * - Therefore, if there are squirrels around your house or backyard, you'll need to hire professional [squirrel](https: //pestpolicy.
-
-com/do-squirrels-carry-ticks/) control - these will help with inspection and control of the squirrel.
+*In brief, Yes, squirrels will attack humans whenever they feel threatened - their powerful bites may bring dangerous diseases. So, if you love watching or feeding squirrels in the backyard, you must keep some safe distance. * - Therefore, if there are squirrels around your house or backyard, you'll need to hire professional [squirrel](https://pestpolicy.com/do-squirrels-carry-ticks/) control - these will help with inspection and control of the squirrel.
 
 ##  Details: Do Squirrels Attack Humans?
 
@@ -55,10 +53,11 @@ As noted above, the squirrels may eat through electrical wires and hence may lea
 
 So, if you're not ready to allow the squirrels to leave your surrounding on their own or if they're attacking humans, then you need to adopt appropriate removal methods. - A one-way squirrels exclusion door will work well in removing the animals since once they get out of the home or yard, they won't easily get back and attack humans.
 
-- [Live-trapping of these squirrels](https: //pestpolicy. com/how-to-get-rid-of-squirrels-in-the-yard/)will help easily and humanely remove these animals from our spaces. For example, one may use cage traps in spaces such as holes and attics. - Further, after you've trapped or caught the animals from the attic, you'll require to seal all the entry points that the squirrels used to access the spaces.
+- [Live-trapping of these squirrels](https://pestpolicy.com/how-to-get-rid-of-squirrels-in-the-yard/)will help easily and humanely remove these animals from our spaces. For example, one may use cage traps in spaces such as holes and attics. - Further, after you've trapped or caught the animals from the attic, you'll require to seal all the entry points that the squirrels used to access the spaces.
 
 - Despite that some DIY squirrel-control chemicals exist in the stotes, experts do not recommend these remedies as they may be dangerous to people and pets, especially when applied carelessly or incorrectly. However, all in all, the best technique to use in getting rid of those squirrels is to use expert wildlife control and removal professionals. Related: Poison for Squirrels
 
 ##  Conclusion
 
 Finally, on whether squirrels will attack humans; I answer to the affirmative that if provoked and they feel endangered squirrels will attack humans and pets equally in the house or in the backyard.
+

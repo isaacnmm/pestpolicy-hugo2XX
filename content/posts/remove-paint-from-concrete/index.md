@@ -1,4 +1,4 @@
----
+﻿---
 title: Remove Paint from Concrete
 description: Removing dried paint from concrete surfaces can be cumbersome, especially when the wrong procedure is followed. Perhaps you need to restore your concrete with...
 slug: /remove-paint-from-concrete/
@@ -14,7 +14,7 @@ tags:
 layout: post
 ---
 
-Removing dried [paint from concrete](https: //pestpolicy. com/what-kind-of-paint-can-be-used-on-concrete/) surfaces can be cumbersome, especially when the wrong procedure is followed. Perhaps you need to restore your concrete with new paint and wonder how you can remove old paint. Can washing with soap clean all paint?
+Removing dried [paint from concrete](https://pestpolicy.com/what-kind-of-paint-can-be-used-on-concrete/) surfaces can be cumbersome, especially when the wrong procedure is followed. Perhaps you need to restore your concrete with new paint and wonder how you can remove old paint. Can washing with soap clean all paint?
 
 *Summary: Here's how to remove paint from concrete - using a paint stripper, absorbent stripper method, trisodium phosphate, or soda blasting method such as on the driveway. In each of the following methods, you need to adhere to the correct steps and precautions to attain the best quality finish. * *The decision of which paint removal method to use should be determined by the type of paint under a removal (is it acrylic or latex paint? ).
 
@@ -26,11 +26,11 @@ Besides, surface cleaning should be done sufficiently before any paint removal p
 
 This method is used in the removal of both oil-based and water-based paints. The paint strippers are also manufactured in various forms (for either oil-based paint removal or water-based paint removal). You should therefore be keen when placing your order check the type of concrete paint first.
 
-**Items Required** - [Paint striper](https: //www. amazon. com/dp/B000TUHPAY/? tag=p-policy-20)and soap - Deck brush and scrapper - Eye goggles and overall - Waterpoint and power wash - Face mask and gloves - Respirator **Steps to Follow** 1. Wear the protective gear painting goggles, face mask, respirator, gloves, and overall 2. Clean the concrete surface with a steel brush scrub gently to remove debris 3.
+**Items Required** - [Paint striper](https://www.amazon. com/dp/B000TUHPAY/? tag=p-policy-20)and soap - Deck brush and scrapper - Eye goggles and overall - Waterpoint and power wash - Face mask and gloves - Respirator **Steps to Follow** 1. Wear the protective gear painting goggles, face mask, respirator, gloves, and overall 2. Clean the concrete surface with a steel brush scrub gently to remove debris 3.
 
 Prepare the paint stripper according to the manufacturers instructions. 4.
 
-Using a paintbrush or a roller, apply the paint stripper. 5. Allow the paint stripper to cure for about 10 minutes. 6. Using a[scraper](https: //www. amazon. com/dp/B07D5782VS/? tag=p-policy-20), scrub the surface gently to remove the paint debris 7. Connect the power wash or hosepipe to the water point and clean the scrubbed area entirely. 8. Reapply paint stripper until the paint is entirely removed 9.
+Using a paintbrush or a roller, apply the paint stripper. 5. Allow the paint stripper to cure for about 10 minutes. 6. Using a[scraper](https://www.amazon. com/dp/B07D5782VS/? tag=p-policy-20), scrub the surface gently to remove the paint debris 7. Connect the power wash or hosepipe to the water point and clean the scrubbed area entirely. 8. Reapply paint stripper until the paint is entirely removed 9.
 
 Finally, clean the surface with soapy water and aconcrete deck brushto remove traces of paint stripper from the surface. 10. Leave the concrete surface to dry naturally. NB: Paint stripper contains methylene chlorine (a toxic chemical), which is burns skin or irritates the respiratory system when inhaled.
 
@@ -40,7 +40,7 @@ Finally, clean the surface with soapy water and aconcrete deck brushto remove tr
 
 This particular method is suitable for cleaning thick paint layers from concrete (either acrylic or latex paint). You will need to consider the concrete paint before purchasing the absorbent paint stripper.
 
-**Items Required** - Absorbent paint striper and scrapper - Respirator and Deck brush - Dust coat and eye goggles - Waterpoint and power washer - [Gloves](https: //www. amazon. com/dp/B07CWD91XS/? tag=p-policy-20)and Face mask - Thinner or turpentine - Wire brush **Steps to Follow** - Put on the protective gear and clean the concrete surface with a wire brush to remove surface dirt or debris.
+**Items Required** - Absorbent paint striper and scrapper - Respirator and Deck brush - Dust coat and eye goggles - Waterpoint and power washer - [Gloves](https://www.amazon. com/dp/B07CWD91XS/? tag=p-policy-20)and Face mask - Thinner or turpentine - Wire brush **Steps to Follow** - Put on the protective gear and clean the concrete surface with a wire brush to remove surface dirt or debris.
 
 - Prepare the absorbent paint striper paste follow the manufacturers instructions.
 
@@ -54,7 +54,7 @@ You can repeat the procedure in case the first paste didnt remove the paint suff
 
 The soda blasting method is suitable for commercial paint removal from concrete surfaces - just like using concrete grinders. The technique guarantees excellent paint removal and protects the concrete surface from destruction. However, this method is slightly expensive as compared to other alternatives. The soda Blasting method can be used to remove both oil-based and water-based paint.
 
-**Items Required** - [Blasting unit/machine](https: //www. amazon. com/dp/B01JUZN6WY/? tag=p-policy-20) pot blast - Industrial sodium bicarbonate baking soda - Water source and respirator - Gloves and goggles - Power source and brush **Steps to Follow** - Wear protective gear protects you from debris and blasting chemicals.
+**Items Required** - [Blasting unit/machine](https://www.amazon. com/dp/B01JUZN6WY/? tag=p-policy-20) pot blast - Industrial sodium bicarbonate baking soda - Water source and respirator - Gloves and goggles - Power source and brush **Steps to Follow** - Wear protective gear protects you from debris and blasting chemicals.
 
 - Clean the surface with a wire brush scrub gently - Prepare the sodium bicarbonate in a pot blast follow the manufacturers instructions.
 
@@ -70,7 +70,7 @@ The chemical works by breaking the paint compound into liquid form that more com
 
 - Clean the surface with soapy detergent and water to remove traces of TSP - Rinse the concrete with water and leave it to dry naturally NB: TSP is poisonous and should be handled with care inhaling TSP will irritate your nasal cavity and cause skin irritation. More so, TSP is outlawed in some countries.
 
-> See Also: > [Removing Spray Paint from Concrete](https: //pestpolicy. com/how-to-remove-spray-paint-from-concrete/)
+> See Also: > [Removing Spray Paint from Concrete](https://pestpolicy.com/how-to-remove-spray-paint-from-concrete/)
 
 ##  What are Homemade Methods of Paint Removal from Concrete
 
@@ -110,9 +110,9 @@ Heat gun requires a power supply; thus, it is an unsuitable method for remote ar
 
 To attain excellent paint removal from concrete, you will have to follow the precautions highlighted below: 1. Always clean the painted concrete surface before starting the paint removal process it improves and eases paint removal. 2. Never smell paint striper of any commercial chemical meant for removing paint from concrete. Most of these compounds contain components that irritate the respiratory system when inhaled. 3.
 
-Always wear protective gears when removing paint from concrete, i. e. , gloves, overalls, gloves, respirator, and goggles. They protect you from[harmful chemicals](https: //pestpolicy. com/how-to-remove-paint-from-concrete-without-chemicals/), fumes, and particles dislodge during paint removal. 4. Always identify the type of concrete paint before you purchase a paint stripper. Each chemical is manufactured for a particular kind of stain. 5.
+Always wear protective gears when removing paint from concrete, i. e. , gloves, overalls, gloves, respirator, and goggles. They protect you from[harmful chemicals](https://pestpolicy.com/how-to-remove-paint-from-concrete-without-chemicals/), fumes, and particles dislodge during paint removal. 4. Always identify the type of concrete paint before you purchase a paint stripper. Each chemical is manufactured for a particular kind of stain. 5.
 
-Thin[acrylic painted concrete](https: //pestpolicy. com/how-to-remove-acrylic-paint-from-concrete/)surface appropriately before implementing the paint removal process. 6. Never use excessive force (scrubbing) during paint removal you may damage the concrete primary layer structure. 7. Consider homemade paint removal methods for small paint patches. 8.
+Thin[acrylic painted concrete](https://pestpolicy.com/how-to-remove-acrylic-paint-from-concrete/)surface appropriately before implementing the paint removal process. 6. Never use excessive force (scrubbing) during paint removal you may damage the concrete primary layer structure. 7. Consider homemade paint removal methods for small paint patches. 8.
 
 If you get into skin contact with paint stripper chemical, wash the point with plenty of clean water. 9.
 
@@ -125,3 +125,4 @@ Having read this article on how to remove paint from concrete, I hope you have a
 Precautions are vital and should be adhered to since human health is paramount.
 
 Always wear protective gear during the paint removal process. Notably, know the paint under removal before choosing a method to use on a particular concrete surface.
+

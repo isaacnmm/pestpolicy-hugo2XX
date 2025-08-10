@@ -1,4 +1,4 @@
----
+﻿---
 title: Get Rid Sweat Bees
 description: I'm sitting here on my outdoor working space wondering how do I get rid of sweat bees? A common method to kills sweat bees is a killing spray. But are there...
 slug: /get-rid-sweat-bees/
@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 
-I'm sitting here on my outdoor working space wondering how do I get rid of sweat [bees](https: //pestpolicy. com/how-to-get-rid-of-carpenter-bees-without-killing-them/)? A common method to kills sweat bees is a killing spray. But are there situations where it would not be appropriate? I conducted a quick research. **To get [rid](https: //pestpolicy. com/how-to-get-rid-of-ground-bees/) of sweat bees, you may repel, trap or kill the bugs.
+I'm sitting here on my outdoor working space wondering how do I get rid of sweat [bees](https://pestpolicy.com/how-to-get-rid-of-carpenter-bees-without-killing-them/)? A common method to kills sweat bees is a killing spray. But are there situations where it would not be appropriate? I conducted a quick research. **To get [rid](https://pestpolicy.com/how-to-get-rid-of-ground-bees/) of sweat bees, you may repel, trap or kill the bugs.
 
 Sweat Bees areattracted to salts present in human sweat.
 
@@ -31,7 +31,7 @@ It's appropriate when you just need some temporary shelters and safety such as w
 
 I'll now discuss in detail the main ways you can get rid of sweat bees.
 
-Also, check how to kill [Ground bees](https: //pestpolicy. com/how-to-get-rid-of-ground-bees/).
+Also, check how to kill [Ground bees](https://pestpolicy.com/how-to-get-rid-of-ground-bees/).
 
 ###  1. How to Kill Sweat Bees using your Best Insecticide
 
@@ -67,19 +67,19 @@ Exterminators will take all precautionary measures, including wearing protective
 
 Do your groundwork before hiring an exterminator and ask if you need to do anything to prepare for the extermination. **So, what if bees ceases to exists? **
 
-Considering sex: Female sweat bees have stingers andcan cause a mild sting to yourfamily member or pets. However, the male sweat bees can only bite as they do not have stingers. But, pain caused by sweat bee stings [rank the lowest](https: //nature. mdc. mo. gov/discover-nature/field-guide/sweat-bees) in severity.
+Considering sex: Female sweat bees have stingers andcan cause a mild sting to yourfamily member or pets. However, the male sweat bees can only bite as they do not have stingers. But, pain caused by sweat bee stings [rank the lowest](https://nature.mdc. mo. gov/discover-nature/field-guide/sweat-bees) in severity.
 
 ##  Identifying sweat bees
 
-Although some species of sweat bees [resemble wasps, honey, and bumble bees](http: //entnemdept. ufl. edu/creatures/misc/bees/halictid_bees. htm), they are a mostly solitary type and mostly make their nests in hollow wood trunks and underground.
+Although some species of sweat bees [resemble wasps, honey, and bumble bees](http://entnemdept.ufl. edu/creatures/misc/bees/halictid_bees. htm), they are a mostly solitary type and mostly make their nests in hollow wood trunks and underground.
 
-The bees take over such areas that are left unchecked. Sweat bees exits in *Hymenoptera Insect family* and commonly found in North America, Australia, and Asia. They have a [notable yellow face and feature a variety of sheen colors](https: //nature. mdc. mo. gov/discover-nature/field-guide/sweat-bees) such as brown, bronze, black, red, metallic, and green.
+The bees take over such areas that are left unchecked. Sweat bees exits in *Hymenoptera Insect family* and commonly found in North America, Australia, and Asia. They have a [notable yellow face and feature a variety of sheen colors](https://nature.mdc. mo. gov/discover-nature/field-guide/sweat-bees) such as brown, bronze, black, red, metallic, and green.
 
 The size of the sweat bee ranges from 0. 125 - 0. 5 and they have characteristic long hairy legs that are instrumental in the transfer of pollen.
 
 ##  What do sweat bees eat?
 
-According to [Discover Magazine](http: //blogs. discovermagazine. com/80beats/2012/05/01/bees-that-drink-sweat-from-peoples-skin-and-tears-from-peoples-eyes/#. WdAvNYpx234), sweat bees use humans like a salt lick. The salty human diet makes them prefer humans over animals. Sweat bees drink tears and nutritious human perspiration.
+According to [Discover Magazine](http://blogs.discovermagazine. com/80beats/2012/05/01/bees-that-drink-sweat-from-peoples-skin-and-tears-from-peoples-eyes/#. WdAvNYpx234), sweat bees use humans like a salt lick. The salty human diet makes them prefer humans over animals. Sweat bees drink tears and nutritious human perspiration.
 
 Their main diet, which also goes for the larvae underground, is mainly nectar and pollen. The nutritious human sweat and tears act as a dietary supplement.
 
@@ -90,3 +90,4 @@ Whatever the method you choose, always make it a point to seek expert help if un
 Check out all the options including using a sweat bee trap, depending on whether you strive to prevent colonization, repel, eliminate, or trap the bees.
 
 Professionals know best how to get rid of sweat bees from your pool and other areas that may prove complicated for a DIY approach.
+

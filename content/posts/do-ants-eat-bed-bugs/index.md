@@ -1,4 +1,4 @@
----
+﻿---
 title: Do Ants Eat Bed Bugs
 description: Bed bugs have natural predators which can be used as a pest control methods. Usually, commercial and DIY pest control remedies prove to be more effective than...
 slug: /do-ants-eat-bed-bugs/
@@ -19,7 +19,7 @@ Bed bugs have natural predators which can be used as a pest control methods.
 
 Usually, commercial and DIY pest control remedies prove to be more effective than natural methods for bed bug eradication.
 
-But sometimes even the most preferred bed bug control methods may prove ineffective and you may want go for [natural bed bug eaters](https: //pestpolicy. com/what-eats-[bed-bugs](https: //pestpolicy. com/do-ants-kill-bed-bugs/)/). So, the question is. Do ants eat [bed](https: //pestpolicy. com/are-bed-bug-eggs-hard-or-soft/) bugs?
+But sometimes even the most preferred bed bug control methods may prove ineffective and you may want go for [natural bed bug eaters](https://pestpolicy.com/what-eats-[bed-bugs](https://pestpolicy.com/do-ants-kill-bed-bugs/)/). So, the question is. Do ants eat [bed](https://pestpolicy.com/are-bed-bug-eggs-hard-or-soft/) bugs?
 
 **Short answer, YES While some ant species kill and eat bed bugs for food, most of them scavenge on carcasses of bed bugs.
 
@@ -142,3 +142,4 @@ However, this does not mean that its impossible to eradicate ants. With a proper
 While some ant species can kill and eat bed bugs, they are not a reliable method for eradicating bed bugs. Usually, ants dont go hunting down bed bugs.
 
 They prefer sweet food like honeydew and will only eat bed bugs to get a protein meal. In addition, most ant species are not predators. They scavenge on carcasses for their food.
+

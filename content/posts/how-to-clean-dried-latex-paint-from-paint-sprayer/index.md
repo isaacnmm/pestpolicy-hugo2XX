@@ -1,4 +1,4 @@
----
+﻿---
 title: How to Clean Dried Latex Paint from Paint Sprayer
 description: When the latex paint sprayer is stored without cleaning, the paint dries and clogs the channels. Dried paint affects the performance of the paint sprayer and...
 slug: /how-to-clean-dried-latex-paint-from-paint-sprayer/
@@ -14,7 +14,7 @@ tags:
 layout: post
 ---
 
-When the [latex paint sprayer](https: //pestpolicy. com/best-sprayer-for-latex-paint/) is stored without cleaning, the paint dries and clogs the channels. Dried paint affects the performance of the paint sprayer and may even cause a complete breakdown if not removed. Could you be having similar problems?
+When the [latex paint sprayer](https://pestpolicy.com/best-sprayer-for-latex-paint/) is stored without cleaning, the paint dries and clogs the channels. Dried paint affects the performance of the paint sprayer and may even cause a complete breakdown if not removed. Could you be having similar problems?
 
 *Well, in this article, I will be discussing how to clean dried latex paint from a paint sprayer. To begin, select required tools and material, unscrew and dismantle the sprayer, carefully clean the filters and nozzle, and flush clean water through the sprayer to thin and quench dried paint.
 
@@ -38,17 +38,13 @@ Spray filters are very sensitive and should be handled with care to prevent dama
 
 ###  Step 3: Flush Clean Water through the Sprayer
 
-- Fill an empty bucket with clean water - Add a little detergent (thinner) and stir to foam sufficiently - Flush water through the sprayer to quench/cure dried latex paint - Dip the sprayer gun into the soap liquid and lift gently to run the liquid through the channels sufficiently - Leave the sprayer to cure for 20 minutes or otherwise advised by the manufacturer - Pour the soapy fluid to remove quenched latex paint and flush more soapy water NB: The soapy water should be left within the sprayer channels to [quicken the thinning process](https: //pestpolicy.
-
-com/how-to-thin-latex-paint-for-hvlp/).
+- Fill an empty bucket with clean water - Add a little detergent (thinner) and stir to foam sufficiently - Flush water through the sprayer to quench/cure dried latex paint - Dip the sprayer gun into the soap liquid and lift gently to run the liquid through the channels sufficiently - Leave the sprayer to cure for 20 minutes or otherwise advised by the manufacturer - Pour the soapy fluid to remove quenched latex paint and flush more soapy water NB: The soapy water should be left within the sprayer channels to [quicken the thinning process](https://pestpolicy.com/how-to-thin-latex-paint-for-hvlp/).
 
 ###  Step 4: Clean the Tip, Gun, and Hose
 
 - Dip spray tips and gun into soapy liquid and leave them for 20 minutes to thin sufficiently - Using asoft blister brush, clean the spray tip gently - Scrub the tip orifice to remove interior clogging and paint blockage. However, you must be careful not to expand the internal orifice diameter - Using the thread brush, clean the sprayer guns interior channel.
 
-Gently, unblock the quenched paint and flush water through the channel - Adjust the gun width and clean the interlocking selections too - Rinse the tips and gun, and place them somewhere to dry naturally - Dip the hosepipe in a soapy bucket and flush water through it to remove stuck paint - Rinse the hosepipe with clean water you can connect the hosepipe to the water point if the diameter is compatible > See Also: > [Removing Latex Paint from Metal](https: //pestpolicy.
-
-com/how-to-remove-latex-paint-from-metal/)
+Gently, unblock the quenched paint and flush water through the channel - Adjust the gun width and clean the interlocking selections too - Rinse the tips and gun, and place them somewhere to dry naturally - Dip the hosepipe in a soapy bucket and flush water through it to remove stuck paint - Rinse the hosepipe with clean water you can connect the hosepipe to the water point if the diameter is compatible > See Also: > [Removing Latex Paint from Metal](https://pestpolicy.com/how-to-remove-latex-paint-from-metal/)
 
 ###  Step 5: Prime the Sprayer with Water Thinner
 
@@ -86,7 +82,7 @@ Importantly, dried paint affects spray tip diameter due to excess abrasive force
 
 ###  4. Reduced Sprayers Service life
 
-Dried paint causes internal blockage and channel clogging, which leads to sprayer fatigue during paint application. The paint gun wears due to excess abrasive force and filter tear often thus reducing the entire service life. The inlet strainer is also clogged by dried paint limiting paint intake and overall performance. > See Also: > [Removing Latex Paint from Concrete](https: //pestpolicy. com/how-to-remove-latex-paint-from-concrete/)
+Dried paint causes internal blockage and channel clogging, which leads to sprayer fatigue during paint application. The paint gun wears due to excess abrasive force and filter tear often thus reducing the entire service life. The inlet strainer is also clogged by dried paint limiting paint intake and overall performance. > See Also: > [Removing Latex Paint from Concrete](https://pestpolicy.com/how-to-remove-latex-paint-from-concrete/)
 
 ###  5. Nozzle or tip Damage
 
@@ -111,3 +107,4 @@ In conclusion, on how to clean dried latex paint from a paint sprayer, you begin
 Besides, clean the tips, gun, and the hosepipe, prime the sprayer with water once more, clean the inlet pick-up/strainer carefully, mop and rinse the sprayer to dryness, assemble the sprayer and store it in a cool dry place. Its advisable to put on protective gear (for personal protection) when cleaning latex paint and observe precautions given while handling the paint sprayer to prevent any damage.
 
 If you are new to a paint sprayer, contract a professional to help you in cleaning.
+

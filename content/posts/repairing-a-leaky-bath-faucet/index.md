@@ -1,4 +1,4 @@
----
+﻿---
 title: Repairing a Leaky Bath Faucet
 description: That incessant drip-drip-drip from a leaky bath faucet isn't just an annoyance it's a silent drain on your wallet and a wasteful drain on a precious resource.
 slug: /repairing-a-leaky-bath-faucet/
@@ -58,7 +58,7 @@ If pitted or corroded, you might need a valve seat wrench to remove and replace 
 Repairing a leaky bath faucet is a highly rewarding home maintenance task that saves water, money, and prevents potential damage to your bathroom. By taking the time to identify your faucet type, gathering the right tools, and carefully following the steps to disassemble, clean, replace worn components, and reassemble, you can effectively stop that annoying drip.
 Embracing this DIY skill not only gives you a sense of accomplishment but also ensures your bathroom functions efficiently and beautifully for years to come.
 
-That incessant drip-drip-drip from a leaky [bath](https: //pestpolicy. com/bath-fitter-review/) faucet isn't just an annoyance; it's a silent drain on your wallet and a wasteful drain on a precious resource. A single leaky faucet can waste hundreds, even thousands, of gallons of water per year, leading to unnecessarily high utility bills.
+That incessant drip-drip-drip from a leaky [bath](https://pestpolicy.com/bath-fitter-review/) faucet isn't just an annoyance; it's a silent drain on your wallet and a wasteful drain on a precious resource. A single leaky faucet can waste hundreds, even thousands, of gallons of water per year, leading to unnecessarily high utility bills.
 
 Beyond the financial impact, persistent drips can also stain your tub or sink, contribute to mildew growth, and eventually lead to more significant plumbing issues if left unaddressed.
 
@@ -79,3 +79,4 @@ This guide will walk you through the process of diagnosing the type of faucet yo
 While most faucet leaks are DIY-friendly, consider calling a licensed plumber if:
 
 * **You cannot identify your faucet type or internal parts. ** * **You encounter seized or corroded parts that won't budge. ** * **The leak persists after you've replaced the common components. ** * **You suspect the leak is coming from pipes within the wall or under the floor. ** * **You're uncomfortable working with plumbing or lack the necessary tools. ** * **The faucet is old, significantly damaged, or you want to upgrade it entirely. **
+

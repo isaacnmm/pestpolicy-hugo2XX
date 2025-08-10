@@ -1,4 +1,4 @@
----
+﻿---
 title: Why Your Lawn is Turning Brown
 description: Few sights are as disheartening to a homeowner as a once-vibrant green lawn slowly transforming into a sea of dull, lifeless brown.
 slug: /why-your-lawn-is-turning-brown/
@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 
-Few sights are as disheartening to a homeowner as a once-vibrant green [lawn](https: //pestpolicy. com/10-essential-lawn-and-garden-tools-for-fall/) slowly transforming into a sea of dull, lifeless [brown](https: //pestpolicy. com/how-to-identify-the-cause-of-brown-spots-in-your-lawn/). What begins as a subtle discoloration can quickly spread, turning a source of pride into a perplexing problem.
+Few sights are as disheartening to a homeowner as a once-vibrant green [lawn](https://pestpolicy.com/10-essential-lawn-and-garden-tools-for-fall/) slowly transforming into a sea of dull, lifeless [brown](https://pestpolicy.com/how-to-identify-the-cause-of-brown-spots-in-your-lawn/). What begins as a subtle discoloration can quickly spread, turning a source of pride into a perplexing problem.
 
 While drought is often the immediate suspect when grass turns brown, the reality is that numerous factors, both environmental and related to maintenance practices, can contribute to this unwelcome change. Understanding the specific reason behind your lawn's browning is the crucial first step toward effective diagnosis and successful restoration.
 
@@ -94,3 +94,4 @@ When faced with a browning lawn, homeowners often weigh the options of tackling 
 * **Pest/disease control: ** Grass will stop dying within a week or two after successful treatment, but full recovery (filling in brown spots) may take several weeks or months, especially if overseeding is required. * **Severe damage/dead grass: ** Requires reseeding or sodding, which can take several weeks to a full season for establishment.
 
 **Q5: Should I stop watering my lawn if it's already brown from drought? ** A5: No, continue to water deeply but less frequently. Even if the grass blades are brown, the crown (the growth point at the base of the plant) may still be alive. Consistent watering will help keep the crown viable, allowing the grass to recover when temperatures moderate.
+

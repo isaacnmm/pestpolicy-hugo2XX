@@ -1,4 +1,4 @@
----
+﻿---
 title: How and When to Trim a Monkey Grass Border
 description: Monkey grass, often admired for its lush, evergreen foliage and neat clumping or spreading habits, is a staple in many landscape designs.
 slug: /how-and-when-to-trim-a-monkey-grass-border/
@@ -16,7 +16,7 @@ tags:
 layout: post
 ---
 
-[Monkey](https: //pestpolicy. com/how-and-when-to-trim-monkey-grass-border/) grass, often admired for its lush, evergreen foliage and neat clumping or spreading habits, is a staple in many landscape designs. Whether used as a border, groundcover, or accent plant, its low-maintenance nature is a significant draw for gardeners. However, even the most low-maintenance plants benefit from occasional care, and monkey grass is no exception.
+[Monkey](https://pestpolicy.com/how-and-when-to-trim-monkey-grass-border/) grass, often admired for its lush, evergreen foliage and neat clumping or spreading habits, is a staple in many landscape designs. Whether used as a border, groundcover, or accent plant, its low-maintenance nature is a significant draw for gardeners. However, even the most low-maintenance plants benefit from occasional care, and monkey grass is no exception.
 
 Trimming, while not a frequent requirement, plays a crucial role in rejuvenating old growth, maintaining a tidy appearance, and promoting healthy new foliage.
 
@@ -125,3 +125,4 @@ While "simple" might seem understated for landscape maintenance, trimming monkey
 By consistently cutting back your monkey grass in late winter or early spring, you remove the faded, old foliage, which not only dramatically improves its aesthetic appeal but also provides the impetus for a flush of healthy, vibrant new growth. This annual rejuvenation ensures your monkey grass borders remain dense, lush, and a crisp, attractive feature in your landscape, serving their purpose beautifully year after year with minimal effort.
 
 It's a simple step that yields significant rewards for the overall health and visual impact of your garden.
+

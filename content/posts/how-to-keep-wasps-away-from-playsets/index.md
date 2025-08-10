@@ -1,4 +1,4 @@
----
+﻿---
 title: How to Keep Wasps Away from Playsets
 description: A few years back, I bought a Backyard Discovery Wooden Swing Set for my kids. I spent like 2 days putting it together in our backyard.
 slug: /how-to-keep-wasps-away-from-playsets/
@@ -22,7 +22,7 @@ Our kids are scared to death to play on the playset. So, how do we keep Wasps Aw
 
 ##  How to Keep Wasps Away from Playsets
 
-1. ** Using Natural Insect Pest Control ** - **Use Herbs****A mix of vinegar, salt & sugar****Detergent, Tap Water, & peppermint extract** - **Use Herbs** - **A mix of vinegar, salt & sugar** - **Detergent, Tap Water, & peppermint extract** 1. ** Use Fake wasps nest ** 2. ** Use of chemicals** 3. ** Use [Wasp](https: //pestpolicy. com/baby-wasp/) and Hornet Spray** 4. ** Maintaining Cleanliness ** 5. ** Pesticides** 6.
+1. ** Using Natural Insect Pest Control ** - **Use Herbs****A mix of vinegar, salt & sugar****Detergent, Tap Water, & peppermint extract** - **Use Herbs** - **A mix of vinegar, salt & sugar** - **Detergent, Tap Water, & peppermint extract** 1. ** Use Fake wasps nest ** 2. ** Use of chemicals** 3. ** Use [Wasp](https://pestpolicy.com/baby-wasp/) and Hornet Spray** 4. ** Maintaining Cleanliness ** 5. ** Pesticides** 6.
 
 **Calling an exterminator** *Note: wasps prefer to build their nests in * *crevices* * and in dark warm areas. On your kids' playset, these areas may include inside the playhouse, climber* **, ** *swings, slides, on the roof of the playhouse, among other areas. The wasps can literally attack any section of the playset and find a perfect resting point. This can be dangerous for you and your kids. *
 
@@ -70,7 +70,7 @@ I remember one of my colleagues had a serious wasp infestation in his backyard. 
 
 Therefore, if you feel overwhelmed, you can contact your local pest exterminator to do the work for you. The good part is that most exterminators eradicate everything including bees, rats, wasps, etc.
 
-Also Read: [Best Swing Sets for Small Backyards](https: //pestpolicy. com/best-[swing-sets](https: //pestpolicy. com/best-baby-swings-for-sleeping/)-for-small-backyards/)
+Also Read: [Best Swing Sets for Small Backyards](https://pestpolicy.com/best-[swing-sets](https://pestpolicy.com/best-baby-swings-for-sleeping/)-for-small-backyards/)
 
 ##  How to Prevent Wasps from Invading Your Space
 
@@ -127,3 +127,4 @@ Pour any sweetener inside the bottle; you could add honey, wine, or other sugary
 ##  Conclusion
 
 You now know How to keep wasps away from playsets. Ensure that you try the natural methods first before reaching out to chemicals or pesticides. As much as we are trying to keep off wasps, we should conserve our environment and make it safe for not only ourselves but also our kids, pets, and other people.
+

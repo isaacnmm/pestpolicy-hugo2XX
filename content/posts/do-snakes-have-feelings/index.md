@@ -1,4 +1,4 @@
----
+﻿---
 title: Do Snakes Have Feelings
 description: Snakes are reptiles that are believed to have strong feelings and emotions towards human beings and other animals. Could be you have seen varying behavioral...
 slug: /do-snakes-have-feelings/
@@ -15,9 +15,9 @@ tags:
 layout: post
 ---
 
-[Snakes are reptiles](https: //www. livescience. com/27845-snakes. html) that are believed to have strong feelings and emotions towards human beings and other animals. Could be you have seen varying behavioral [snake](https: //pestpolicy. com/best-drain-snakes/) reactions in your place or cage. Do they feel or react out of emotions like human beings do? **Well, the question here is, Do Snakes Have Feelings? The direct answer is YES!
+[Snakes are reptiles](https://www.livescience. com/27845-snakes. html) that are believed to have strong feelings and emotions towards human beings and other animals. Could be you have seen varying behavioral [snake](https://pestpolicy.com/best-drain-snakes/) reactions in your place or cage. Do they feel or react out of emotions like human beings do? **Well, the question here is, Do Snakes Have Feelings? The direct answer is YES!
 
-Snakes have feelings (just like other reptiles) that generate varying emotional reaction. ** **Snake can feel hungry, it can get angered (sad), it can generate fear, it can be happy or respond to touch. The response to these feelings may be more aggressive or calm according to the type snake you are dealing with. ** Related: [Do Snakes Have Bones? ](https: //pestpolicy. com/do-snakes-have-feelings/)
+Snakes have feelings (just like other reptiles) that generate varying emotional reaction. ** **Snake can feel hungry, it can get angered (sad), it can generate fear, it can be happy or respond to touch. The response to these feelings may be more aggressive or calm according to the type snake you are dealing with. ** Related: [Do Snakes Have Bones? ](https://pestpolicy.com/do-snakes-have-feelings/)
 
 ##  Details: Do Snakes Have Feelings?
 
@@ -105,4 +105,5 @@ However, continuous bonding through feeding of snakes make them friendlier. It i
 
 ##  Sources:
 
-1. [Reptile Emotions - News & Publications](https: //vetmed. tamu. edu/news/pet-talk/reptile-emotions/) 2. [https: //ball-pythons. net/forums/showthread. php? 87540-Do-snakes-feel-emotions-and-or-love/page4](https: //ball-pythons. net/forums/showthread. php? 87540-Do-snakes-feel-emotions-and-or-love/page4) 3. [Why We Fear Snakes Live Science](https: //www. livescience. com/2348-fear-snakes. html)
+1. [Reptile Emotions - News & Publications](https://vetmed.tamu. edu/news/pet-talk/reptile-emotions/) 2. [https://ball-pythons.net/forums/showthread. php? 87540-Do-snakes-feel-emotions-and-or-love/page4](https://ball-pythons.net/forums/showthread. php? 87540-Do-snakes-feel-emotions-and-or-love/page4) 3. [Why We Fear Snakes Live Science](https://www.livescience. com/2348-fear-snakes. html)
+

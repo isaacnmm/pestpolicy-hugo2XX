@@ -1,4 +1,4 @@
----
+﻿---
 title: Can Bearded Dragons Eat Bananas
 description: Bananas musa spp are widely eaten at homes in cooked form or as snacks when ripe. It concerns many whether bearded dragons can feed on bananas, whether ripe...
 slug: /can-bearded-dragons-eat-bananas/
@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 
-[Bananas (*musa spp)*](http: //hort. ufl. edu/trees/MUSSPPA. pdf) are widely eaten at homes in cooked form or as snacks when ripe. It concerns many whether [bearded dragons can feed](https: //pestpolicy. com/what-do-bearded-dragons-eat/) on bananas, whether ripe or raw. May be you even wonders if banana peels, leaves or stems can be used to feed these lizards. *So, can bearded dragon eat bananas? The direct answer is YES!
+[Bananas (*musa spp)*](http://hort.ufl. edu/trees/MUSSPPA. pdf) are widely eaten at homes in cooked form or as snacks when ripe. It concerns many whether [bearded dragons can feed](https://pestpolicy.com/what-do-bearded-dragons-eat/) on bananas, whether ripe or raw. May be you even wonders if banana peels, leaves or stems can be used to feed these lizards. *So, can bearded dragon eat bananas? The direct answer is YES!
 
 Bearded dragons will comfortably feed on bananas whether ripe or unripe.
 
@@ -25,7 +25,7 @@ Bananas have rich vitamin composition (needed to boost immunity), high dietary f
 
 ##  Can Bearded Dragons Eat Bananas?? 7 Secrets
 
-**Yes, but** bananas shouldnt be fed as the main meal since they contain low calcium: phosphorous ratio (leads to metabolic bone disease). These are the key considerations in [caring for beaded dragons](https: //www. texvetpets. org/article/bearded-dragons-cold-blooded-companions/). They have relatively high sugar level (some ripe bananas causing diabetes) as well as low glycemic index (controls carbs uptake into the bloodstream).
+**Yes, but** bananas shouldnt be fed as the main meal since they contain low calcium: phosphorous ratio (leads to metabolic bone disease). These are the key considerations in [caring for beaded dragons](https://www.texvetpets. org/article/bearded-dragons-cold-blooded-companions/). They have relatively high sugar level (some ripe bananas causing diabetes) as well as low glycemic index (controls carbs uptake into the bloodstream).
 
 Controlled and supplemented banana feeding is therefore required.
 
@@ -93,7 +93,7 @@ You can keep them for one or two weeks (until they near ripening) in open air wi
 
 Clean them with warm or treated water before peeling to remove any chemical or poisonous insects such as fireflies that may be on the skin. 5. Peel the bananas and chop them into small pieces that are not larger than the space between the beardies eyes. 6. Alternatively, you can chop the bananas without peeling after cleaning however, some beardie species wont eat bananas with peels. 7.
 
-Mix chopped bananas with other fruits such as guavas, kiwi, apricots as well as vegetables like cabbages and [broccoli](https: //pestpolicy. com/can-bearded-dragons-eat-broccoli/) in a ratio of 1: 3. 8. You should supplement banana feeds with main diet always. Feed 250g to 600g of bananas per given meal. ***NB***: Its necessary to feed you beardie with bananas nearing to ripen than feeding them with immediate or over ripen bananas.
+Mix chopped bananas with other fruits such as guavas, kiwi, apricots as well as vegetables like cabbages and [broccoli](https://pestpolicy.com/can-bearded-dragons-eat-broccoli/) in a ratio of 1: 3. 8. You should supplement banana feeds with main diet always. Feed 250g to 600g of bananas per given meal. ***NB***: Its necessary to feed you beardie with bananas nearing to ripen than feeding them with immediate or over ripen bananas.
 
 ##  **How Often Should You Feed Your Bearded Dragon?**
 
@@ -111,7 +111,7 @@ Excess starch (especially found in unripe bananas) is hard to be digested by man
 
 ###  **2. Banana with excess phosphorous content**
 
-Generally, banana have higher phosphorous content as compared to other fruits like [mangoes](https: //pestpolicy. com/can-bearded-dragons-eat-mango/) and tomatoes. However, you should always select a banana species that has the lowest phosphorous content as it inhibits calcium uptake into the blood leading to calcium deficiency.
+Generally, banana have higher phosphorous content as compared to other fruits like [mangoes](https://pestpolicy.com/can-bearded-dragons-eat-mango/) and tomatoes. However, you should always select a banana species that has the lowest phosphorous content as it inhibits calcium uptake into the blood leading to calcium deficiency.
 
 ###  **3. Green bananas**
 
@@ -131,8 +131,9 @@ Most banana species have low calcium: phosphorous ratio thus occasional feeding 
 
 ##  Conclusion
 
-So, can bearded dragons eat bananas? [Bearded dragons will not only eat](https: //pestpolicy. com/can-bearded-dragons-eat-mango/) bananas, but will also feed on their peels and leaves. However, bananas should not be used as main diet. Occasionally, feed your beardie with 250g to 600g of banana salad that is supplemented with other main meal.
+So, can bearded dragons eat bananas? [Bearded dragons will not only eat](https://pestpolicy.com/can-bearded-dragons-eat-mango/) bananas, but will also feed on their peels and leaves. However, bananas should not be used as main diet. Occasionally, feed your beardie with 250g to 600g of banana salad that is supplemented with other main meal.
 
 Avoid banana species that have high sugar level, low glycemic index as well as low calcium: phosphorous ratio.
 
 Importantly, always engage qualified veterinary to provide medical checkups after every 3 months in case you often feed your beardie with bananas.
+

@@ -1,4 +1,4 @@
----
+﻿---
 title: What Do Baby Roaches Look Like
 description: What do baby roaches look like? Definitely, it can be creepy and alarming to find these nymphs in your house or yard. Mainly, they'll be running around the...
 slug: /what-do-baby-roaches-look-like/
@@ -51,7 +51,7 @@ Roach ootheca is an egg encasement (for between 10 to 50 eggs) seen in insects l
 
 ##  How to Identify Cockroach Eggs
 
-Baby [roaches are evidence that you've some roach nests](https: //pestpolicy. com/how-to-find-a-roach-nest/) in the house or walls. Therefore, you must know how to kill roach eggs in addition to knowing how to identify them and the roach nymphs in your house truly. As noted earlier, female roaches will "lay" or carry an ootheca - which is an eggs protein-enveloped casing that contains 20-50 eggs.
+Baby [roaches are evidence that you've some roach nests](https://pestpolicy.com/how-to-find-a-roach-nest/) in the house or walls. Therefore, you must know how to kill roach eggs in addition to knowing how to identify them and the roach nymphs in your house truly. As noted earlier, female roaches will "lay" or carry an ootheca - which is an eggs protein-enveloped casing that contains 20-50 eggs.
 
 You will also see some wings on the roaches, but not all will use them to fly.
 
@@ -59,7 +59,7 @@ You will also see some wings on the roaches, but not all will use them to fly.
 
 Oriental roach eggs are also covered in a casing (oothecae) measuring 8 mm to 10 mm and are reddish-brown to dark in color. This egg encasement has roughly 16 roach eggs and thus may look a bit swollen. Also, the female oriental roaches tend to produce 1-18 oothecae during their whole life.
 
-- Their nymphs will mature into adult[oriental roaches](https: //entnemdept. ufl. edu/creatures/urban/roaches/oriental_cockroach. htm)within 600 days, but this will vary with the prevailing environmental conditions. - The dark-brown Asian roach adults measure about 22 mm - 27 mm in length. Equally, these roaches have rudimentary wings (females) while males have fully-developed wings. '
+- Their nymphs will mature into adult[oriental roaches](https://entnemdept.ufl. edu/creatures/urban/roaches/oriental_cockroach. htm)within 600 days, but this will vary with the prevailing environmental conditions. - The dark-brown Asian roach adults measure about 22 mm - 27 mm in length. Equally, these roaches have rudimentary wings (females) while males have fully-developed wings. '
 
 The female roaches will carry the oothecae for about 12 hours to 120 hours before dropping them in areas that have food - these are warm and sheltered places. The eggs will hatch within 40 days - 82 days, and the female roaches won't help the nymphs.
 
@@ -75,7 +75,7 @@ Its 1st instar will be white initially but will turn grayish-brown. However, the
 
 ###  3. German Roach Eggs
 
-Like other roaches, the German cockroaches also carry their ootheca (having about 50 eggs) when the eggs are ripe for hatching. German [roach eggs will take about 3 months](https: //pestpolicy. com/combat-max-12-month-roach-killing-bait-review/) to hatch and molt from the egg stage to full adults.
+Like other roaches, the German cockroaches also carry their ootheca (having about 50 eggs) when the eggs are ripe for hatching. German [roach eggs will take about 3 months](https://pestpolicy.com/combat-max-12-month-roach-killing-bait-review/) to hatch and molt from the egg stage to full adults.
 
 The female adults will also "lay" their oothecae measures about 9 mm in length by 6 mm in width - the egg encasement is brown-colored. - Each of these encasements will contain roughly 50 eggs. Further, their reproduction rate is thus fast. - However, the American roach nymphs lack wings, while their wing pads will only be seen clearly during the 3rd and 4th instar.
 
@@ -109,4 +109,5 @@ Notably, the nymphs and shells may be dropped on many locations in your house - 
 
 ##  Conclusion
 
-To control baby roaches: apply an IGR pesticide using a sprayer, treat the home with Gentrol (an IGR to kill juveniles and nymphs) plus DemonWP (kills in seconds) and set up [roach killers and traps](https: //pestpolicy. com/best-roach-killer-for-apartments/) (like Catchmaster) with fatty or sugar baits.
+To control baby roaches: apply an IGR pesticide using a sprayer, treat the home with Gentrol (an IGR to kill juveniles and nymphs) plus DemonWP (kills in seconds) and set up [roach killers and traps](https://pestpolicy.com/best-roach-killer-for-apartments/) (like Catchmaster) with fatty or sugar baits.
+

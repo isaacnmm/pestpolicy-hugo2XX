@@ -1,4 +1,4 @@
----
+﻿---
 title: Best Point and Shoot Camera Under 100
 description: Most smartphone cameras have inadequate shooting features . But any point and shoot camera have optical zoom changing the perspective of shots, larger...
 slug: /best-point-and-shoot-camera-under-100/
@@ -14,11 +14,11 @@ tags:
 layout: post
 ---
 
-Most smartphone [cameras](https: //pestpolicy. com/best-compact-cameras-under-300/) have [inadequate shooting features](https: //www. cnet. com/news/10-ways-a-point-and-shoot-camera-beats-your-phones/).
+Most smartphone [cameras](https://pestpolicy.com/best-compact-cameras-under-300/) have [inadequate shooting features](https://www.cnet. com/news/10-ways-a-point-and-shoot-camera-beats-your-phones/).
 
-But any [point and shoot camera](https: //en. wikipedia. org/wiki/Point-and-shoot_camera) have optical zoom (changing the perspective of shots), larger in-built sensor, and a powerful flash (great for backlit/ low light environments). I've reviewed the [best](https: //pestpolicy. com/best-drones-for-still-photography/) point and shoot camera under 100.
+But any [point and shoot camera](https://en.wikipedia. org/wiki/Point-and-shoot_camera) have optical zoom (changing the perspective of shots), larger in-built sensor, and a powerful flash (great for backlit/ low light environments). I've reviewed the [best](https://pestpolicy.com/best-drones-for-still-photography/) point and shoot camera under 100.
 
-Summary: I recommend [Sony DSC-HX9V](https: //www. amazon. com/dp/B004HYFX0C/? tag=p-policy-20) or [Sony DSCW800/B 20. 1 MP](https: //www. amazon. com/dp/B00I8BIBCW/? tag=p-policy-20) as the best point and shoot camera under 100.
+Summary: I recommend [Sony DSC-HX9V](https://www.amazon. com/dp/B004HYFX0C/? tag=p-policy-20) or [Sony DSCW800/B 20. 1 MP](https://www.amazon. com/dp/B00I8BIBCW/? tag=p-policy-20) as the best point and shoot camera under 100.
 
 ##  Reviews: 7 Best Point and Shoot Camera Under 100 in 2025
 
@@ -56,7 +56,7 @@ In addition, it has Panorama, Movie, and Portrait among other modes.
 
 With the auto mode activated, its possible to toggle macro focusing after switching off the cameras flash. However, this camera only comes with a 2. 7-inch LCD which is relatively small, compared to other point and shoot cameras reviewed above. Sadly, for continuous image shooting (particularly at 16 megapixels) youll have a 3. 3 seconds wait time between the shots. Further, the cameras autofocus is slow.
 
-Read Also: [Soundproof Earmuffs For Sleeping](https: //pestpolicy. com/best-soundproof-earmuffs-for-sleeping/).
+Read Also: [Soundproof Earmuffs For Sleeping](https://pestpolicy.com/best-soundproof-earmuffs-for-sleeping/).
 
 ###  [5. Nikon L35AF Camera - Point and Shoot](https://www.amazon.com/dp/B00YM6HJSY/?tag=p-policy-20)
 
@@ -71,3 +71,4 @@ Read Also: Laptop for Music Production
 ###  [6. Polaroid IEX29-RED HD 18 MP Optical Zoom Digital Camera](https://www.amazon.com/dp/B0177QDN5I/?tag=p-policy-20)
 
 It comes with a large LCD screen, image stabilization in-built flash and the red-eye reduction thatll allow you to take high-quality snapshots.
+

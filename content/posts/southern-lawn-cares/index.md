@@ -1,4 +1,4 @@
----
+﻿---
 title: Southern Lawn Cares
 description: The Southern United States, characterized by its long, hot summers and mild winters, is home to distinct types of grasses known as "warm season grasses."...
 slug: /southern-lawn-care/
@@ -15,9 +15,9 @@ tags:
 layout: post
 ---
 
-The [Southern](https: //pestpolicy. com/southern-lawn-care/) United States, characterized by its long, hot summers and mild winters, is home to distinct types of grasses known as "warm season grasses. " Unlike their cool-season counterparts found further North, these grasses thrive in temperatures between 80F and 95F, and go dormant, turning brown, when temperatures consistently fall below 50-55F.
+The [Southern](https://pestpolicy.com/southern-lawn-care/) United States, characterized by its long, hot summers and mild winters, is home to distinct types of grasses known as "warm season grasses. " Unlike their cool-season counterparts found further North, these grasses thrive in temperatures between 80F and 95F, and go dormant, turning brown, when temperatures consistently fall below 50-55F.
 
-Understanding the unique needs of these turf varieties is crucial for cultivating a lush, resilient [lawn](https: //pestpolicy. com/10-essential-lawn-and-garden-tools-for-fall/) year-round.
+Understanding the unique needs of these turf varieties is crucial for cultivating a lush, resilient [lawn](https://pestpolicy.com/10-essential-lawn-and-garden-tools-for-fall/) year-round.
 
 This guide will walk you through the essential care practices for Southern lawns, focusing on the specific needs of warm-season grasses across each season. We'll cover everything from proper watering and fertilization to weed and pest control, ensuring your lawn remains a vibrant green backdrop for your home.
 
@@ -124,3 +124,4 @@ TruGreen's ability to combine scientific expertise with localized knowledge and 
 **Q: What's the best way to deal with crabgrass in a Southern lawn? ** A: Prevention is key. Apply a pre-emergent herbicide in early spring when soil temperatures consistently reach 50-55F. For any crabgrass that emerges, spot treat with a post-emergent herbicide labeled for your specific grass type and for crabgrass.
 
 **Q: How low should I mow warm-season grasses? ** A: Mowing height varies by grass type, but typically ranges from 1-3 inches during the active growing season. St. Augustinegrass often prefers 2. 5-3 inches, while Bermudagrass can be mowed lower (1-2 inches). Avoid removing more than one-third of the blade length at a time. Raise the mowing height slightly during periods of extreme heat or drought stress.
+

@@ -1,4 +1,4 @@
----
+﻿---
 title: How Long Do Fruit Flies Live
 description: Could you be asking yourself how long fruit flies live? Do fruit flies bother you by flying all over in your house and compound that you wonder when they will...
 slug: /how-long-do-fruit-flies-live/
@@ -15,9 +15,9 @@ tags:
 layout: post
 ---
 
-Could you be asking yourself how long [fruit](https: //pestpolicy. com/where-do-fruit-flies-come-from/) [flies](https: //pestpolicy. com/how-do-you-keep-horse-flies-away-naturally/) live?
+Could you be asking yourself how long [fruit](https://pestpolicy.com/where-do-fruit-flies-come-from/) [flies](https://pestpolicy.com/how-do-you-keep-horse-flies-away-naturally/) live?
 
-Do fruit flies bother you by [flying all over in your house and compound](https: //pestpolicy. com/where-do-fruit-flies-come-from/) that you wonder when they will die? **Fruit flies live for approximately 40 to 50 earth days. During this time, the female fruit flies are able to mate with males severally and lay thousands of eggs that hatch into new ones.
+Do fruit flies bother you by [flying all over in your house and compound](https://pestpolicy.com/where-do-fruit-flies-come-from/) that you wonder when they will die? **Fruit flies live for approximately 40 to 50 earth days. During this time, the female fruit flies are able to mate with males severally and lay thousands of eggs that hatch into new ones.
 
 ** In fact, the fruit flies do not just hatch into flies directly; they undergo different stages in their life cycle to achieve fully development.
 
@@ -150,3 +150,4 @@ These, if you put them into practice, will help you a lot in preventing presence
 Your concern on life of fruit flies is valid. Fruit flies lives for about 40 to 50 earth days. The lifecycle of a fruit fly is classified into four stages: egg, larvae, pupa and adult. Fruit flies lives may be affected by various factors such as temperature humidity as well as source of food nutrients.
 
 It is necessary, therefore, to ensure that you keep your house or compound free from these irritating fruit flies by ensuring that you are able to observe proper sanitation requirement as I have advised in this articles. A fruit fly free home is a nice place to live. What do you think about it?
+

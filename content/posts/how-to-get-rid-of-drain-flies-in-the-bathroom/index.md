@@ -1,4 +1,4 @@
----
+﻿---
 title: How to Get Rid Of Drain Flies in the Bathroom
 description: Hey, little friends! Have you seen tiny insects measuring 18 inch in length flying around your shower drain or bathroom sink?
 slug: /how-to-get-rid-of-drain-flies-in-the-bathroom/
@@ -15,9 +15,9 @@ tags:
 layout: post
 ---
 
-Hey, little friends! Have you seen tiny insects (measuring 1/8 inch in length) flying around your shower drain or bathroom sink? Well, these could be drain gnats or drain [flies](https: //pestpolicy. com/how-to-get-rid-of-drain-flies-in-septic-tank/)!
+Hey, little friends! Have you seen tiny insects (measuring 1/8 inch in length) flying around your shower drain or bathroom sink? Well, these could be drain gnats or drain [flies](https://pestpolicy.com/how-to-get-rid-of-drain-flies-in-septic-tank/)!
 
-[Drain](https: //pestpolicy. com/how-to-get-rid-of-drain-flies-in-the-basement/) flies (tiny bugs that have fuzzy wings just like moths ) will mainly invade areas that have standing water including the kitchens and bathrooms. In this article, I'll outline all you need to know how to get rid of drain flies in your bathroom.
+[Drain](https://pestpolicy.com/how-to-get-rid-of-drain-flies-in-the-basement/) flies (tiny bugs that have fuzzy wings just like moths ) will mainly invade areas that have standing water including the kitchens and bathrooms. In this article, I'll outline all you need to know how to get rid of drain flies in your bathroom.
 
 **But in summary; here's how to get rid of drain flies; Clean the Bathroom Drains, Pour Boiling Water Down the Drain, using a drain cleaner (such as Bio-Clean or vinegar + baking soda), Use Baking Soda & Vinegar, Address Moisture Issues and Leaks, orusing bleach to clean drains. **
 
@@ -25,7 +25,7 @@ Hey, little friends! Have you seen tiny insects (measuring 1/8 inch in length) f
 
 ###  1.Clean the Bathroom Drains
 
-To remove the drain flies from the bathroom, begin by cleaning all the spills and the drains. I recommend using a suitable [drain cleaner](https: //pestpolicy. com/best-drain-cleaner/) such as Chemical Drain or Bio-Enzymatic Drain to help destroy the organic matter in your drains. However, incorporating a brush will also assist in removing the debris in the bathroom drains.
+To remove the drain flies from the bathroom, begin by cleaning all the spills and the drains. I recommend using a suitable [drain cleaner](https://pestpolicy.com/best-drain-cleaner/) such as Chemical Drain or Bio-Enzymatic Drain to help destroy the organic matter in your drains. However, incorporating a brush will also assist in removing the debris in the bathroom drains.
 
 This process will also help in removing any soap or food debris inside the drains.
 
@@ -70,3 +70,4 @@ Let the bleach mixture sit inside the shower drains for about 20 minutes - this 
 ##  Conclusion
 
 In conclusion, sewer flies, gnats or drain flies can be a nuisance when they attack your kitchens and bathrooms. Luckily, you can begin by getting rid of any standing water, unlocking the drains, and using chemicals such as black, drain cleaners, vinegar, and baking soda. Cheers!
+

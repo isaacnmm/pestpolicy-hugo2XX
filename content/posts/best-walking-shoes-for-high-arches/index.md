@@ -1,4 +1,4 @@
----
+﻿---
 title: Best Walking Shoes for High Arches
 description: Your high arches foot does not effectively absorb shock while you are walking or running. This phenomenon tends to put increased pressures on the heel and at...
 slug: /best-walking-shoes-for-high-arches/
@@ -40,11 +40,11 @@ The shoes footbed has DNA cushioning and arch support thatll adapt to each of yo
 
 New Balance MW928 Walker has its characteristic Rollbar midsole thatll stabilize your rear foot and hence control over-pronation.
 
-Youll love that the shoe has a wide width and your big toes cap. It has an EVA midsole that is compression molded to offer enough arch support. Read Also: [Walking Shoes For Men With Flat Feet](https: //pestpolicy. com/best-[walking-shoes](https: //pestpolicy. com/best-walking-shoes-for-flat-feet-and-bunions/)-for-men-with-flat-feet/).
+Youll love that the shoe has a wide width and your big toes cap. It has an EVA midsole that is compression molded to offer enough arch support. Read Also: [Walking Shoes For Men With Flat Feet](https://pestpolicy.com/best-[walking-shoes](https://pestpolicy.com/best-walking-shoes-for-flat-feet-and-bunions/)-for-men-with-flat-feet/).
 
 Being a stylish looking and lightweight shoe, New Balance MW928 Walker has found favor among many men with high arches.
 
-In addition, it is comfortable and strong for [walking](https: //pestpolicy. com/best-walking-shoes-for-lower-back-pain/) and jogging. The ROLLBAR will increase foot comfort as it prevents inward rolling of your foot and reduces rear-foot movement. New Balance MW928 Walker has a full-ground contact sole from its Walking-Strike Path innovation to increase comfort while you are walking.
+In addition, it is comfortable and strong for [walking](https://pestpolicy.com/best-walking-shoes-for-lower-back-pain/) and jogging. The ROLLBAR will increase foot comfort as it prevents inward rolling of your foot and reduces rear-foot movement. New Balance MW928 Walker has a full-ground contact sole from its Walking-Strike Path innovation to increase comfort while you are walking.
 
 ###  [3. Saucony Mens Grid Omni](https://www.amazon.com/dp/B000I4SA0A/?tag=p-policy-20)
 
@@ -56,7 +56,7 @@ Further, the shoe will slow pronation in your foot, particularly for a moderate 
 
 In addition, the shoes EVA insole (compression) gives you contoured and close support that will also help in slowing down compression. As noted above, the shoes asymmetrical midsole will slop with your feet natural; curve and hence allow a highly natural and closer fit. The shoe with its great HRC cushioning will effectively correct any foot roll that might come due to high arches. Read Also: [Running Shoes vs.
 
-Walking Shoes for Weight Loss](https: //pestpolicy. com/running-shoes-vs-walking-shoes-for-weight-loss/)
+Walking Shoes for Weight Loss](https://pestpolicy.com/running-shoes-vs-walking-shoes-for-weight-loss/)
 
 ##  Considerations in Best Walking Shoes for High Arches
 
@@ -69,3 +69,4 @@ Maybe youre already aware that pronation is that characteristic where your foot 
 ##  Conclusion
 
 In our case, high arch foot, the effect is that your foot will under-pronate or supinate in which situation the foot would not compress adequately and hence will increase the shock that lands on your feet.
+

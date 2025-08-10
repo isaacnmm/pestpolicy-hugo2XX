@@ -1,4 +1,4 @@
----
+﻿---
 title: Raspberry Pi 3 B Review
 description: There is so much fun in DIY Raspberry Pi projects, such as security cameras and digital weather stations. - Raspberry Pi model 3 B-model-b-plusis the newest...
 slug: /raspberry-pi-3-b-review/
@@ -14,9 +14,9 @@ tags:
 layout: post
 ---
 
-There is so much fun in DIY Raspberry Pi projects, such as security cameras and digital weather stations. - [Raspberry Pi model 3 B+](https: //www. raspberrypi. org/products/[raspberry-pi-3](https: //pestpolicy. com/best-heatsink-for-raspberry-pi-3/)-model-b-plus/)is the newest upgrade, being more flexible and powerful, but still low priced.
+There is so much fun in DIY Raspberry Pi projects, such as security cameras and digital weather stations. - [Raspberry Pi model 3 B+](https://www.raspberrypi. org/products/[raspberry-pi-3](https://pestpolicy.com/best-heatsink-for-raspberry-pi-3/)-model-b-plus/)is the newest upgrade, being more flexible and powerful, but still low priced.
 
-I recently run a test for the[micro-SD card for [Raspberry](https: //pestpolicy. com/best-os-for-raspberry-pi-3/) Pi 3](https: //pestpolicy. com/best-sd-card-for-raspberry-pi-3/). The upgrade brings superior WiFi performance, wired LAN performance, CPU frequency (200MHz faster), and other significant modifications but still maintained the 1GB memory.
+I recently run a test for the[micro-SD card for [Raspberry](https://pestpolicy.com/best-os-for-raspberry-pi-3/) Pi 3](https://pestpolicy.com/best-sd-card-for-raspberry-pi-3/). The upgrade brings superior WiFi performance, wired LAN performance, CPU frequency (200MHz faster), and other significant modifications but still maintained the 1GB memory.
 
 Below are the first impressions and benchmarks after a brief but thorough experience with the new Raspberry Pi model 3 B+.
 
@@ -46,7 +46,7 @@ The test results showed an improvement in the processing power, such as fast USB
 
 My first impression of the Raspberry Pi 3B+ is an excellent-looking circuit board that measures 0. 63*3. 5*2. 2 in. - Notably, all the components are visible: 40-pin GPIO input/output connector and the 1. 4GHz ARM processor. Also, the board includes a micro-SD slot, 3. 5mm audio output, HDMI, Ethernet, four USB 2. 0, and a micro-USB connector.
 
-Read Also: [Build a Raspberry Pi Retro Game Console](https: //pestpolicy. com/how-to-build-a-raspberry-pi-retro-game-console/) **Amazing Speed Boost** Just like Raspberry Pi 3 Model B, the all-new Model B+ has a 64-bit processor and in-built wireless connectivity. - Despite not having not many additional features, the Model B+ has some unique tasks that will be completed much more comfortably.
+Read Also: [Build a Raspberry Pi Retro Game Console](https://pestpolicy.com/how-to-build-a-raspberry-pi-retro-game-console/) **Amazing Speed Boost** Just like Raspberry Pi 3 Model B, the all-new Model B+ has a 64-bit processor and in-built wireless connectivity. - Despite not having not many additional features, the Model B+ has some unique tasks that will be completed much more comfortably.
 
 - For example, with the processor upgrade that allows faster speeds, it'll be easier to complete tasks that require enormous computing power, such as creating a home-theatre PC. Further, despite having the same 1GB memory, the Model B+ comes with a 200MHz faster CPU. On the negative side, however, Pi 3 Model B+ could not effectively play the YouTube 1080p video.
 
@@ -54,10 +54,11 @@ However, you may install VLC through different apps or command lines to play SDc
 
 PROS - Superior networking and faster processor - Highly customizable and easy to install CONS - Ethernet port won't attain the 1Gbps top speed described. I used benchmarks from the browser to assess the significance of the 200MHz CPU speed increase. - First, I used the JavaScript Sunspider 1. 0. 2, and it took 1. 92 seconds. Notably, the above is double the speed of the Raspberry Pi 3 Model B that takes 2. 77 secs.
 
-Read Also: Heatsink [for Raspberry Pi 3](https: //pestpolicy. com/best-heatsink-for-raspberry-pi-3/)
+Read Also: Heatsink [for Raspberry Pi 3](https://pestpolicy.com/best-heatsink-for-raspberry-pi-3/)
 
 ###  **Requires some Add-Ons**
 
 If you are utilizing the Raspberry Pi in complex projects, you must add components such as a Pi case, fans, and heat sinks. - To create an excellent first computer, you'll need a case that has top ports' cut-outs, and that will be easy to dismantle whenever required. - Also, you can include a PoE hat adapter to power up the Raspberry Pi through the Ethernet cable-supplied power, mainly when used with motion detectors.
 
 Model B+'s Ethernet port will allow the gigabit transfer speeds with speeds going up to 315Mbps. Your WiFi radio will do superior in Model B+'s 5GHz band.
+

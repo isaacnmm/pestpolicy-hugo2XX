@@ -1,4 +1,4 @@
----
+﻿---
 title: How to Get Rid Of Lawn Grubs
 description: Beneath the lush, green surface of your lawn, an unseen threat might be silently undermining its health lawn grubs. These C-shaped, white larvae are the...
 slug: /how-to-get-rid-of-lawn-grubs/
@@ -16,7 +16,7 @@ tags:
 layout: post
 ---
 
-Beneath the lush, green surface of your [lawn](https: //pestpolicy. com/10-essential-lawn-and-garden-tools-for-fall/), an unseen threat might be silently undermining its health: lawn grubs. These C-shaped, white larvae are the immature stage of various beetles, including Japanese beetles, May/June beetles, and chafers, and they have an insatiable appetite for the roots of your turfgrass.
+Beneath the lush, green surface of your [lawn](https://pestpolicy.com/10-essential-lawn-and-garden-tools-for-fall/), an unseen threat might be silently undermining its health: lawn grubs. These C-shaped, white larvae are the immature stage of various beetles, including Japanese beetles, May/June beetles, and chafers, and they have an insatiable appetite for the roots of your turfgrass.
 
 A severe grub infestation can quickly transform a vibrant lawn into a patchy, brown, and spongy expanse that peels back like a rug, leaving homeowners scratching their heads and reaching for solutions.
 
@@ -113,3 +113,4 @@ With diligence and the right approach, you can ensure your green space remains a
 **Q4: How long do grubs live in the soil? ** A4: Most common lawn grubs (like Japanese beetle grubs) have an annual life cycle. They hatch from eggs in summer, feed through fall, overwinter deep in the soil as larvae, move up to feed again briefly in spring, then pupate, emerging as adult beetles in early summer to start the cycle again.
 
 **Q5: Is milky spore effective against all types of grubs? ** A5: No, Milky Spore is highly specific to Japanese beetle grubs. It will not be effective against other grub species like those of May/June beetles or European chafers. Always identify the specific grub causing the problem before choosing a treatment.
+

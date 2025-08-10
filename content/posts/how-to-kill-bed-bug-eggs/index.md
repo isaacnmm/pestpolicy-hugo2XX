@@ -1,4 +1,4 @@
----
+﻿---
 title: How to Kill Bed Bug Eggs
 description: Bed bugs eggs are oval in shape and measure about 116 inches long. A female bed bug lays about 200-250 eggs. The eggs hatch in 6-10 days, and the nymphs suck...
 slug: /how-to-kill-bed-bug-eggs/
@@ -25,7 +25,7 @@ Female bed bugs lay their eggs on hard surfaces, and theyll hatch in 1-2 weeks t
 
 ###  **1. Non-chemical methods**
 
-First, ensure that the technique you use to kill either the bed bugs or eggs is legal, effective, and safe. Check [the legal techniques](https: //www. epa. gov/bedbugs/stay-legal-and-safe-treating-bed-bugs). For the non-chemical techniques, use the most appropriate for your situation - some are more effective. Below is the method I recommend to kill the bed bug eggs.
+First, ensure that the technique you use to kill either the bed bugs or eggs is legal, effective, and safe. Check [the legal techniques](https://www.epa. gov/bedbugs/stay-legal-and-safe-treating-bed-bugs). For the non-chemical techniques, use the most appropriate for your situation - some are more effective. Below is the method I recommend to kill the bed bug eggs.
 
 **- Heat treatment**: Try the clothes dryer to kill the bed bug eggs - but use high heat - about 39 o C to 51 o C for over 30 minutes. Try a closed car under scotching sun - but enclose the clothes in plastic bags (black in color). However, the effectiveness of the above-discussed method is dependent on your local factors, such as climate. Definitely, the DIY heat-treating techniques may not be effective in different circumstances.
 
@@ -63,11 +63,11 @@ Shiny and Sticky- ** Bed bug eggs have a sticking body that allows them to clust
 
 These husks also show signs of bed bugs in your space.
 
-You'll find bed bug husks on rough surfaces - you can see them using a magnifying lens. But bed bugs [won't die on their own](https: //entomologytoday. org/2016/11/17/which-insecticide-spray-should-you-use-for-bed-bug-eggs/) - so be sure there are some live bugs around. **Killing them**? First, vacuums will not strictly kill the bed bug eggs - but good bed bug sprays will do the magic - but ensure you do 2 - 3 treatments.
+You'll find bed bug husks on rough surfaces - you can see them using a magnifying lens. But bed bugs [won't die on their own](https://entomologytoday.org/2016/11/17/which-insecticide-spray-should-you-use-for-bed-bug-eggs/) - so be sure there are some live bugs around. **Killing them**? First, vacuums will not strictly kill the bed bug eggs - but good bed bug sprays will do the magic - but ensure you do 2 - 3 treatments.
 
 ##  Where Do Bed Bugs Lay Eggs?
 
-Due to their sticky body, youll find bed bugs moving or [stuck on cushions, couches, and wooden furniture](https: //www. epa. gov/bedbugs/how-find-bed-bugs), including different fabrics like cotton, wool, denim, and metal or plastics.
+Due to their sticky body, youll find bed bugs moving or [stuck on cushions, couches, and wooden furniture](https://www.epa. gov/bedbugs/how-find-bed-bugs), including different fabrics like cotton, wool, denim, and metal or plastics.
 
 ###  1. Beds - Box Springs, Bed Buttons, & Mattress
 
@@ -79,15 +79,13 @@ I recommend you also inspect the walls, floor, and bed frame as these areas may 
 
 The Nymphs will Instar (shed skins) roughly 5 times until they develop into adults.
 
-Interestingly, mature bed bugs will survive for multiple months after taking a blood meal. **Beds** - Bed bugs dont jump or fly, and thus, they wont move so far away from the house. Heck, they wont be anywhere very far from your bed. So, its highly probable thatll find bed bug eggs just around the bed where you get nymphs and their adults. So, inspect the hidden, dark, or jointed areas of the [bed for signs of bed bugs](https: //pestpolicy.
+Interestingly, mature bed bugs will survive for multiple months after taking a blood meal. **Beds** - Bed bugs dont jump or fly, and thus, they wont move so far away from the house. Heck, they wont be anywhere very far from your bed. So, its highly probable thatll find bed bug eggs just around the bed where you get nymphs and their adults. So, inspect the hidden, dark, or jointed areas of the [bed for signs of bed bugs](https://pestpolicy.com/what-does-bed-bug-poop-look-like/) and their eggs.
 
-com/what-does-bed-bug-poop-look-like/) and their eggs.
-
-Besides the initial bed bug treatment, you can [use bed bug mattress encasement](https: //pestpolicy. com/best-bed-bug-mattress-encasements/) to help resolve this. Besides, you can choose encasement that is hypo-allergenic and water-proof thatll help prevent the spread, development, and existence of bed bug adults, nymphs, and even adults.
+Besides the initial bed bug treatment, you can [use bed bug mattress encasement](https://pestpolicy.com/best-bed-bug-mattress-encasements/) to help resolve this. Besides, you can choose encasement that is hypo-allergenic and water-proof thatll help prevent the spread, development, and existence of bed bug adults, nymphs, and even adults.
 
 ###  2.**Floor and Carpet bed bugs:**
 
-Bed bugs may hitchhike your clothes or even the pets but they may eventually hide on your floor or carpet after talking a full blood meal. So, you might want to inspect under chairs, dressers, and bed frame legs. https: //youtu. be/nEbBWk-Zwq8 So, you may want to [check your carpet for bed bugs](https: //pestpolicy. com/can-bed-bugs-live-in-carpet/), particularly the hidden areas, seams, crevices, and cracks.
+Bed bugs may hitchhike your clothes or even the pets but they may eventually hide on your floor or carpet after talking a full blood meal. So, you might want to inspect under chairs, dressers, and bed frame legs. https://youtu.be/nEbBWk-Zwq8 So, you may want to [check your carpet for bed bugs](https://pestpolicy.com/can-bed-bugs-live-in-carpet/), particularly the hidden areas, seams, crevices, and cracks.
 
 I would say that using heat treatment and steam will kill the bed bugs eggs while theyre hidden in the carpet fibers. Further, check the around your baseboards and walls at the edges of the floor. Further, inspect and treat the joints and cracks around your hardwood floors. For the carpet, pull it off and check along or below the tack strips.
 
@@ -107,4 +105,5 @@ Equally, also put on a dust mask to protect your breathing system from the harsh
 
 ##  Sources:
 
-1. [Do-it-yourself Bed Bug Control](https: //www. epa. gov/bedbugs/do-it-yourself-bed-bug-control)
+1. [Do-it-yourself Bed Bug Control](https://www.epa. gov/bedbugs/do-it-yourself-bed-bug-control)
+

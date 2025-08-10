@@ -1,4 +1,4 @@
----
+﻿---
 title: Best Mosquito Repellent for Yard
 description: Do you find yourself constantly worrying about your kids getting mosquitoes bites every time they are out playing in your backyard?
 slug: /best-mosquito-repellent-for-yard/
@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 
-Do you find yourself constantly worrying about your kids getting [mosquitoes](https: //pestpolicy. com/best-mosquito-yard-spray/) bites every time they are out playing in your backyard? Well, you should be. - Mosquitoes are responsible for almost[720, 000 deaths every year](https: //www. isglobal. org/en_GB/-/mosquito-el-animal-mas-letal-del-mundo), with the biggest percentage being kids.
+Do you find yourself constantly worrying about your kids getting [mosquitoes](https://pestpolicy.com/best-mosquito-yard-spray/) bites every time they are out playing in your backyard? Well, you should be. - Mosquitoes are responsible for almost[720, 000 deaths every year](https://www.isglobal. org/en_GB/-/mosquito-el-animal-mas-letal-del-mundo), with the biggest percentage being kids.
 
 - You can never go wrong with investing in a mosquito repellent for your yard.
 
@@ -31,7 +31,7 @@ Backyard Bug Control Spray from Cutter is a favorite for many as it gets rid of 
 
 Given that the bug control spray kills other insects too bees included, ensure that you dont spray the flowering plants during bloom.
 
-If you are more into natural sprays, this might not be ideal for you as chemically synthesized. It is made from Lambda-cyhalothrin, a synthetic pyrethroid. These two chemicals have strong repelling properties that keep mosquitoes at bay. You will only need a small amount of the Cutter Backyard [Spray to get rid of mosquitoes](https: //pestpolicy. com/best-mosquito-yard-spray/) for at least several weeks, depending on the weather.
+If you are more into natural sprays, this might not be ideal for you as chemically synthesized. It is made from Lambda-cyhalothrin, a synthetic pyrethroid. These two chemicals have strong repelling properties that keep mosquitoes at bay. You will only need a small amount of the Cutter Backyard [Spray to get rid of mosquitoes](https://pestpolicy.com/best-mosquito-yard-spray/) for at least several weeks, depending on the weather.
 
 It also gets rids of bugs, deer ticks, flies, ants, Japanese beetles, worms, among other pests found both below or above the ground. You shouldnt be worried about your pets and children when using Cutter Backyard Spray. It poses no risk as long as it is used correctly and is left to dry before letting them play in the treated area.
 
@@ -45,7 +45,7 @@ Third, on my list is the Spectracide Triazicide. This is an outdoor insect kille
 
 A single bottle covers an area of 2100 square feet.
 
-Using this insect killer is pretty easy and straightforward. You just attach your garden hose to the repellant bottle and spray targeting the affected area - related - [top mosquito traps](https: //pestpolicy. com/best-mosquito-trap/). It may not be safe for pets and humans since it is chemically synthesized. It is made of a pyrethroid class insecticide- Gama-Cyhalothrin.
+Using this insect killer is pretty easy and straightforward. You just attach your garden hose to the repellant bottle and spray targeting the affected area - related - [top mosquito traps](https://pestpolicy.com/best-mosquito-trap/). It may not be safe for pets and humans since it is chemically synthesized. It is made of a pyrethroid class insecticide- Gama-Cyhalothrin.
 
 Spectracide Triazicide either comes in a 32-ounce bottle of dilutable concentrate formula or ready to spray formula.
 
@@ -118,3 +118,4 @@ You can choose one that repels, kills mosquitoes, or stops their breeding altoge
 ##  **Conclusion**
 
 Choosing the best mosquito repellant should be dependent on many factors, budget notwithstanding. In the end, effectiveness is all that matters. This will ensure that you are protected from the annoying bloodsuckers and other creepy insects. So, whether you enjoy watching the sunset in your backyard, hosting a barbeque party, or have children who enjoy playing outdoor games, you need to invest in the best mosquito repellant for your yard.
+

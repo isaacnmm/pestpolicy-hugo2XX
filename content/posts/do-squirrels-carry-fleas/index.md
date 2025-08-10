@@ -1,4 +1,4 @@
----
+﻿---
 title: Do Squirrels Carry Fleas
 description: Well, it is hard to get rid of fleas at your home if you don't know where they are coming from. So, really, do squirrels carry fleas? Wildlife, particularly...
 slug: /do-squirrels-carry-fleas/
@@ -15,15 +15,15 @@ tags:
 layout: post
 ---
 
-Well, it is hard to get rid of fleas at your home if you don't know where they are coming from. So, really, do squirrels [carry](https: //pestpolicy. com/can-humans-carry-fleas-from-one-home-to-another/) fleas?
+Well, it is hard to get rid of fleas at your home if you don't know where they are coming from. So, really, do squirrels [carry](https://pestpolicy.com/can-humans-carry-fleas-from-one-home-to-another/) fleas?
 
-Wildlife, particularly rodents can easily deposit eggs or larvae around your yard which brings a host of challenges for humans. **To answer this question, YES - squirrels carry fleas. The pests and their eggs can be dropped from the [squirrel](https: //pestpolicy. com/do-squirrels-carry-ticks/)'s fur and fall off on your garden** **, lawn, or yard as the rodent walks through.
+Wildlife, particularly rodents can easily deposit eggs or larvae around your yard which brings a host of challenges for humans. **To answer this question, YES - squirrels carry fleas. The pests and their eggs can be dropped from the [squirrel](https://pestpolicy.com/do-squirrels-carry-ticks/)'s fur and fall off on your garden** **, lawn, or yard as the rodent walks through.
 
 ** **Fleas jump and attach themselves to their hosts, humans, and animals alike including squirrels.
 
 The fleas' eggs or larvae that fall off can infest your property when they hatch into adulthood. **
 
-- [Fleas are a type of parasite](http: //www. idph. state. il. us/envhealth/pcfleas. htm)and live on the body of an animal, including squirrels! - As these flea parasites feed off blood from their host, they can cause some serious health consequences for animals or people who come in contact with them. If you have observed your pet scratching or grooming themselves excessively, they may be reacting to a flea infestation.
+- [Fleas are a type of parasite](http://www.idph. state. il. us/envhealth/pcfleas. htm)and live on the body of an animal, including squirrels! - As these flea parasites feed off blood from their host, they can cause some serious health consequences for animals or people who come in contact with them. If you have observed your pet scratching or grooming themselves excessively, they may be reacting to a flea infestation.
 
 ##  Can Dogs Get Fleas from Squirrels?
 
@@ -33,7 +33,7 @@ That being said, you may not need to worry about a flea infestation if your pet 
 
 The fleas will jump onto the dog hoping for a chance at consuming dog blood or getting a hiding place in the dog's fur - Occasionally, dogs will encounter fleas that have already been riding around on a squirrel and jump onto the new canine friend to find yet another host animal in which to dine. You might be very careful when it comes to prevention, but there are several ways your dog could still get fleas even if you don't suspect anything. 1.
 
-First off, identify anypotential sources of flea infestationfor your pet 2. Be aware of areas where squirrels, coyotes, and other animals may have left behind eggs or larva, a potentially serious problem with their reproductive cycle 3. Avoid places in which fleas and[ticks thrive](https: //pestpolicy. com/do-squirrels-carry-ticks/)
+First off, identify anypotential sources of flea infestationfor your pet 2. Be aware of areas where squirrels, coyotes, and other animals may have left behind eggs or larva, a potentially serious problem with their reproductive cycle 3. Avoid places in which fleas and[ticks thrive](https://pestpolicy.com/do-squirrels-carry-ticks/)
 
 ##  How Do You Get Rid of Fleas on Pet Squirrels?
 
@@ -198,3 +198,4 @@ There can also be parasites such as roundworms, tapeworms, and ticks. - Squirrel
 Squirrels as a species can carry fleas and diseases that may infect human beings. They are also the culprit when our pets get lost, often because of dogs chasing them or getting chased themselves. - When we encounter these problems with squirrels, it is important to use caution in order not to be bitten by one or pass on an infection.
 
 I hope this post has been informative for you and helped shed light on how to approach dealing with fleas on squirrels.
+

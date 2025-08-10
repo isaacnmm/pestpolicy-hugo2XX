@@ -1,4 +1,4 @@
----
+﻿---
 title: Best Mole Traps
 description: Are you searching for the best mole traps? We cover it all in this guide! But first, what damage have moles caused you? Or have you tried other strategies to...
 slug: /best-mole-traps/
@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 
-Are you searching for the best [mole](https: //pestpolicy. com/why-are-mole-traps-illegal/) traps? We cover it all in this guide! But first, what damage have moles caused you? Or have you tried other strategies to eradicate moles but with little results?
+Are you searching for the best [mole](https://pestpolicy.com/why-are-mole-traps-illegal/) traps? We cover it all in this guide! But first, what damage have moles caused you? Or have you tried other strategies to eradicate moles but with little results?
 
 Well, these pesky creatures are never useful to anyone. In this review, I'll show you why mole traps are the best remedies for eradicating moles. Let's get started! Related: Do Moles Have Eyes?
 
@@ -35,7 +35,7 @@ Pros: - Hands-free operation - No additional setting tools or tongs are required
 
 Cons: - Has a plastic construction which could break
 
-Read Also: [Raccoon Traps Reviewed](https: //pestpolicy. com/best-raccoon-traps/)
+Read Also: [Raccoon Traps Reviewed](https://pestpolicy.com/best-raccoon-traps/)
 
 ###  [2. Wire Tek 1001 EasySet Mole - Eliminator Trap](https://www.amazon.com/dp/B000SDKGC6/?tag=p-policy-20)
 
@@ -157,4 +157,5 @@ Moles are destructive creatures but can be effectively eradicated using the best
 
 ##  Sources:
 
-1. [Mechanical performance of rat, mouse and mole spring traps - NCBI](https: //www. ncbi. nlm. nih. gov/pubmed/22768073) 2. [Mechanical Performance of Rat, Mouse, and Mole Spring Traps](https: //journals. plos. org/plosone/article? id=10. 1371/journal. pone. 0039334) 3. [Live to trap and relocating moles](https: //journals. plos. org/plosone/article/file? type=supplementary&id=info: doi/10. 1371/journal. pone. 0146298. s004)
+1. [Mechanical performance of rat, mouse and mole spring traps - NCBI](https://www.ncbi. nlm. nih. gov/pubmed/22768073) 2. [Mechanical Performance of Rat, Mouse, and Mole Spring Traps](https://journals.plos. org/plosone/article? id=10. 1371/journal. pone. 0039334) 3. [Live to trap and relocating moles](https://journals.plos. org/plosone/article/file? type=supplementary&id=info: doi/10. 1371/journal. pone. 0146298. s004)
+

@@ -1,4 +1,4 @@
----
+﻿---
 title: Pruning Bare Branches on Holly Bushes
 description: Holly bushes, with their glossy evergreen leaves and vibrant berries, are cherished additions to many landscapes, providing year-round interest, privacy, and...
 slug: /pruning-bare-branches-on-holly-bushes/
@@ -84,3 +84,4 @@ Preventative measures can minimize the recurrence of bare branches.
 A soil test can reveal any nutrient deficiencies. 6.
 
 **Pest and Disease Management: ** Promptly address any pest infestations or diseases, as these can weaken the plant and lead to defoliation.
+

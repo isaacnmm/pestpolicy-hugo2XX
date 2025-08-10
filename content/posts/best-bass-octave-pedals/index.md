@@ -1,4 +1,4 @@
----
+﻿---
 title: Best Bass Octave Pedals
 description: In this post, I've reviewed the best bass octave pedals below. A bass octave pedal functions by creating a blended signal based on the original analog input....
 slug: /best-bass-octave-pedals/
@@ -16,7 +16,7 @@ layout: post
 
 In this post, I've reviewed the best bass octave pedals below. A bass octave pedal functions by creating a blended signal based on the original analog input.
 
-As a result, you can easily switch up your [guitar](https: //pestpolicy. com/best-delay-pedals-for-guitar/) sounds, hence introducing a new octave to your music notes, thus captivate the audience. ***Summary: ** I recommend either this Boss OC-3 or the MXR M288 as your best bass octave pedals. The two models will help you increase your guitars functionality or explore techniques to develop new tones and sounds.
+As a result, you can easily switch up your [guitar](https://pestpolicy.com/best-delay-pedals-for-guitar/) sounds, hence introducing a new octave to your music notes, thus captivate the audience. ***Summary: ** I recommend either this Boss OC-3 or the MXR M288 as your best bass octave pedals. The two models will help you increase your guitars functionality or explore techniques to develop new tones and sounds.
 
 * Related: 7 Best Mics for Recording Acoustic Guitar
 
@@ -46,7 +46,7 @@ This feature allows the pedal to generate clean and fancy sounds while ensuring 
 
 Another incredible feature that makes this pedal a darling is the Mid+ switch. This switch offers additional midrange improvement to your tone irrespective of the frequency you decide on, you can play up to 15dB. Youll appreciate the high-tech Constant Headroom Technology. This technology guarantees your safety and peace of mind by monitoring your headroom and tracking levels. This way you are guaranteed of clean sounds each time you play.
 
-Related: [Best Short Scale Electric Guitars](https: //pestpolicy. com/best-short-scale-electric-guitars/)
+Related: [Best Short Scale Electric Guitars](https://pestpolicy.com/best-short-scale-electric-guitars/)
 
 ###  **3. Electro Harmonix Micro POG Polyphonic Octave Generator **
 
@@ -73,3 +73,4 @@ This octamizer features four knobs for regulating the level of the octave. The k
 This incredible instrument also has a pedal board that is quite friendly and easy to operate.
 
 Youll also notice that this pedal is quite small than the other pedals, therefore, traveling around with it wont be a challenge. However, you will notice that this device lacks some advanced settings present on other pedals. You might not be able to experiment with different sounds or add distortion to your sound. But, it offers a great analog sound that most users applaud.
+

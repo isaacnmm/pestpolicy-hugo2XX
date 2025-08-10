@@ -1,4 +1,4 @@
----
+﻿---
 title: How to Prune Shrubs in Your Yard
 description: Pruning shrubs often intimidates novice gardeners, conjuring images of inadvertently disfiguring a beloved plant or, worse, causing its demise.
 slug: /how-to-prune-shrubs-in-your-yard/
@@ -92,7 +92,7 @@ Having the right tools, and keeping them sharp and clean, is crucial for making 
 
 4. **Hedge Shears: ** * **Purpose: ** Primarily for shaping formal hedges and creating straight lines. * **Features: ** Long, scissor-like blades. Available as manual or powered (electric, cordless, or gas). * **Consideration: ** Use for shearing only. Not ideal for selective thinning cuts, as they can cause uneven growth and plant stress if overused.
 
-5. **Gloves: ** * **Purpose: ** Protect your hands from thorns, rough bark, and blisters. * **Type: ** Choose durable [gardening](https: //pestpolicy. com/august-lawn-and-garden-to-do-list/) gloves that offer good dexterity.
+5. **Gloves: ** * **Purpose: ** Protect your hands from thorns, rough bark, and blisters. * **Type: ** Choose durable [gardening](https://pestpolicy.com/august-lawn-and-garden-to-do-list/) gloves that offer good dexterity.
 
 6. **Safety Glasses: ** * **Purpose: ** Protect your eyes from flying debris, twigs, or sap. Essential for any pruning work.
 
@@ -114,9 +114,7 @@ Beyond the basic cuts, several specific techniques are used to achieve different
 
 ###  2. Thinning for Air Circulation and Light
 
-* **Technique: ** Use thinning cuts to remove entire branches back to their point of origin (the main stem, ground, or a larger branch). Focus on removing branches that are crossing, rubbing, growing inward, or are simply too dense. * **Purpose: ** Improves light penetration and air circulation within the [shrub](https: //pestpolicy.
-
-com/can-i-plant-trees-and-shrubs-in-late-fall-or-winter/), reducing the risk of fungal diseases and promoting healthy growth throughout the plant.
+* **Technique: ** Use thinning cuts to remove entire branches back to their point of origin (the main stem, ground, or a larger branch). Focus on removing branches that are crossing, rubbing, growing inward, or are simply too dense. * **Purpose: ** Improves light penetration and air circulation within the [shrub](https://pestpolicy.com/can-i-plant-trees-and-shrubs-in-late-fall-or-winter/), reducing the risk of fungal diseases and promoting healthy growth throughout the plant.
 
 Maintains a natural shape.
 
@@ -207,3 +205,4 @@ By understanding the fundamental "why, when, and how" of pruning from recognizin
 Armed with sharp, clean tools and knowledge of your shrubs' unique flowering habits, you can transform overgrown, unproductive plants into vibrant, floriferous specimens. The benefits extend far beyond the visual: improved air circulation, increased light penetration, reduced disease susceptibility, and stimulated growth all contribute to a more resilient and thriving garden ecosystem.
 
 So, banish the apprehension and embrace the shears. Approach each shrub with a thoughtful eye, making intentional cuts that serve a specific purpose. With practice, youll not only cultivate healthier, more beautiful shrubs but also deepen your connection to the living landscape you nurture. The art of pruning is an ongoing journey of learning and observation, promising a more refined and flourishing yard for years to come.
+

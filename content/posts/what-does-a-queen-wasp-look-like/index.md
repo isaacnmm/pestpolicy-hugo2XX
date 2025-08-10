@@ -1,4 +1,4 @@
----
+﻿---
 title: What Does a Queen Wasp Look Like
 description: The Queen Wasp is a female wasp that has acquired full maturity, are mandated to lays eggs, and raise a new generation of wasps. The queen wasp is specially...
 slug: /what-does-a-queen-wasp-look-like/
@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 
-The [Queen Wasp](https: //www. ncbi. nlm. nih. gov/pubmed/24219699) is a female wasp that has acquired full maturity, are mandated to lays eggs, and raise a new generation of wasps.
+The [Queen Wasp](https://www.ncbi. nlm. nih. gov/pubmed/24219699) is a female wasp that has acquired full maturity, are mandated to lays eggs, and raise a new generation of wasps.
 
 The queen wasp is specially fed and treated by worker wasps while resting. It is not assigned any other duties. **How do you Identify a Queen Wasp? The simple answer to this is that, Queen Wasp is naturally larger than all other female workers and drones (males). ** **This is due to special care given to the queen wasp by the workers. In addition, the Queen Wasp can either be red, brown, metallic blue, yellow or combined stripes of these colors.
 
@@ -39,11 +39,11 @@ You can see them if you visit any wasp nest in your area.
 
 You will notice, in any wasp nest, that there are wasps that surround a given area and seem not to leave this could be one of the cells having the queen wasp.
 
-Related: [Baby Wasp in your House? ](https: //pestpolicy. com/baby-wasp/)
+Related: [Baby Wasp in your House? ](https://pestpolicy.com/baby-wasp/)
 
 ##  How Big is the Queen Wasp?
 
-The Queen Wasp is bigger than the rest of the wasps in a given wasp nest - [including fake wasp nests](https: //pestpolicy. com/do-fake-wasps-nests-work/). To be precise, most Queen Wasps will measure between 2 to 2. 5cm approximate lengths.
+The Queen Wasp is bigger than the rest of the wasps in a given wasp nest - [including fake wasp nests](https://pestpolicy.com/do-fake-wasps-nests-work/). To be precise, most Queen Wasps will measure between 2 to 2. 5cm approximate lengths.
 
 This may go up slightly, but not beyond 3. 8cm. The worker wasps are slightly smaller in length - it approximately measures 1. 2cm to 1. 8 cm.
 
@@ -75,7 +75,7 @@ The body of Queen European Wasp is bright yellow in color with black triangular 
 
 ##  Should I kill a Queen Wasp in a Wasp Nest?
 
-If you intend to eliminate a wasp colony, killing the queen is a brilliant option. We know that the queen is mandated with a role of laying eggs and raising new generation for its entire life. Some people use [wasp foggers](https: //pestpolicy. com/best-wasp-fogger/).
+If you intend to eliminate a wasp colony, killing the queen is a brilliant option. We know that the queen is mandated with a role of laying eggs and raising new generation for its entire life. Some people use [wasp foggers](https://pestpolicy.com/best-wasp-fogger/).
 
 However, you will have to know the time at which you intend to kill the queen. As winter approach, the queen wasp leaves its nest after raising a number of generations to maturity.
 
@@ -173,4 +173,5 @@ However, the colors are brighter as compared to those for drones and workers. Qu
 
 ##  Sources:
 
-1. [How Does a Wasp Become Queen? Live Science](https: //www. livescience. com/32703-how-does-a-wasp-become-queen-. html) 2. [Yellowjacket ControlNow is the Best Time to Do It](https: //web. extension. illinois. edu/hortihints/0204c. html)
+1. [How Does a Wasp Become Queen? Live Science](https://www.livescience. com/32703-how-does-a-wasp-become-queen-. html) 2. [Yellowjacket ControlNow is the Best Time to Do It](https://web.extension. illinois. edu/hortihints/0204c. html)
+

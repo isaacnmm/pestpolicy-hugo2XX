@@ -1,4 +1,4 @@
----
+﻿---
 title: The Powerful Yet Quiet Nutone Exhaust Fan
 description: In the quest for a truly comfortable and healthy home environment, often the unsung heroes are the appliances working quietly behind the scenes.
 slug: /the-powerful-yet-quiet-nutone-exhaust-fan/
@@ -92,3 +92,4 @@ If absolute silence is key, look for models below 0. 5 sones. 3. **Consider Addi
 **Ducting: ** Ensure your existing ductwork matches the fan's requirements (e. g. , 4-inch or 6-inch round duct).
 
 Larger, rigid ducts generally allow for quieter and more efficient operation.
+

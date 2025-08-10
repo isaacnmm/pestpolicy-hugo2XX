@@ -1,4 +1,4 @@
----
+﻿---
 title: How to Fix Lawn
 description: A lush, vibrant green lawn is a hallmark of a well-maintained home, contributing significantly to curb appeal and providing a beautiful space for relaxation...
 slug: /how-to-fix-lawn/
@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 
-A lush, vibrant green [lawn](https: //pestpolicy. com/10-essential-lawn-and-garden-tools-for-fall/) is a hallmark of a well-maintained home, contributing significantly to curb appeal and providing a beautiful space for relaxation and recreation. However, over time, even the most meticulously cared-for lawns can fall victim to a variety of issues, transforming into a patchy, discolored, or thin expanse that detracts from the overall landscape.
+A lush, vibrant green [lawn](https://pestpolicy.com/10-essential-lawn-and-garden-tools-for-fall/) is a hallmark of a well-maintained home, contributing significantly to curb appeal and providing a beautiful space for relaxation and recreation. However, over time, even the most meticulously cared-for lawns can fall victim to a variety of issues, transforming into a patchy, discolored, or thin expanse that detracts from the overall landscape.
 
 From invasive weeds and stubborn brown spots to signs of pest infestation or fungal disease, an unhealthy lawn can be a frustrating challenge for any homeowner.
 
@@ -118,3 +118,4 @@ Remember that a perfect lawn is a result of ongoing care and patience. There wil
 Total replacement (sodding or hydroseeding) is a last resort for lawns that are beyond repair, have severe weed infestations that are too difficult to control, or have the wrong grass type for the area.
 
 **Q5: How do I know if I have grubs? ** A5: Look for irregular brown patches of grass that pull up easily like a rug (because the roots are chewed off). You might also see increased activity from animals like raccoons, skunks, or birds digging in your lawn. Dig a small section of sod (1 sq ft) in an affected area and count the C-shaped white larvae. More than 5-10 grubs per square foot indicates a significant problem.
+

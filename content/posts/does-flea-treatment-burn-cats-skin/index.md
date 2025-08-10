@@ -1,4 +1,4 @@
----
+﻿---
 title: Does Flea Treatment Burn Cats Skin
 description: On how to flea treat kittens with sensitive skin?Kittenscats with sensitive skin are delicate animals to handle, even with kittens' best flea treatment .
 slug: /does-flea-treatment-burn-cats-skin/
@@ -43,16 +43,15 @@ Flea-repelling plants include Chrysanthemums, Penny Royal, Thyme, Sage, Clove, B
 
 ###  [Pet scape Organic Cat Flea Collar](https://www.amazon.com/dp/B07RQMBWGH/?tag=p-policy-20)
 
-Pet Scape collar flea treatment for your kitten is one of the best flea treatments for kittens - with another daily dosage. Nieko flea collar will work magic for you as it can treat your kitten for 8months. - The product is a 100%[natural flea treatment](https: //pestpolicy. com/does-apple-cider-vinegar-kill-fleas/)that is veterinary recommended. - Nieko[flea collar is quick-acting](https: //pestpolicy.
-
-com/best-flea-collar-for-dogs/), as it will begin to work after 24 hours once fitted.
+Pet Scape collar flea treatment for your kitten is one of the best flea treatments for kittens - with another daily dosage. Nieko flea collar will work magic for you as it can treat your kitten for 8months. - The product is a 100%[natural flea treatment](https://pestpolicy.com/does-apple-cider-vinegar-kill-fleas/)that is veterinary recommended. - Nieko[flea collar is quick-acting](https://pestpolicy.com/best-flea-collar-for-dogs/), as it will begin to work after 24 hours once fitted.
 
 It works on contact killing adult fleas, larvae, and eggs. The collar is waterproof and safe for all kittens/cats it does not cause irritations. It wont be affected by sun exposure or bleach due to its high-resistant fabric material. Nieko flea collar is non-greasy, hypoallergenic, and odorless. The collar is made of organic essential oils that do not harm your kitten. It has a natural oil that inhibits/prevents the infestation of the flea.
 
 The durable collar comes in a sizable length that works for all cats/kittens you will need to cut and fit the kittens neck size. Nieko flea collar is eco-friendly and assures you continuous protection for your kitten 24/7. Nieko flea collar is light in weight. This product wont cause any discomfort to your kitten/cat during the entire time of use. The Good: - No irritation andNatural/organic no pollution. - Waterproof/water-resistant.
 
-- Non-grease andHypoallergenic - Adjustable size andQuick acting in 24 hours. - Inhibits flea infestation andEco friendly. The Bad: - Relatively Expensive. Related: Check the [flea treatments for adult cats](https: //pestpolicy. com/best-flea-treatment-for-cats/).
+- Non-grease andHypoallergenic - Adjustable size andQuick acting in 24 hours. - Inhibits flea infestation andEco friendly. The Bad: - Relatively Expensive. Related: Check the [flea treatments for adult cats](https://pestpolicy.com/best-flea-treatment-for-cats/).
 
 ##  Conclusion
 
 Wrong treatment or Wrong medication may cause a skin reaction or discomfort on your kitten. Harsh grooming. - Therefore, you need professional know-how or skills to kill flea infestation without harming them.
+

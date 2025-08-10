@@ -1,4 +1,4 @@
----
+﻿---
 title: Best Bass Amps for Small Gigs
 description: Focusing on the best bass amps for small gigs would be a brilliant move towards improving your daily entertainment activities. Typically, you need to have an...
 slug: /best-bass-amps-for-small-gigs/
@@ -22,7 +22,7 @@ Typically, you need to have an excellent sound system that is dedicated to deliv
 
 ###  [1. Aguilar Tone Hammer 500-Watt Bass Amplifier Head](https://www.amazon.com/dp/B004IEBTIQ/?tag=p-policy-20)
 
-Aguilar Tone is a powerful [amp](https: //pestpolicy. com/best-bass-amps-for-metal/) that features an adaptive gain shaping (AGC) circuit, which is dedicated to delivering high-quality sound without blowing out.
+Aguilar Tone is a powerful [amp](https://pestpolicy.com/best-bass-amps-for-metal/) that features an adaptive gain shaping (AGC) circuit, which is dedicated to delivering high-quality sound without blowing out.
 
 The product is nicely fitted in a lightweight hard cabinet that is perfectly compacted for easier portability. This power amplifier claims to deliver a legendary Aguilar sound that genuinely generates a theatre experience in the playrooms. Moreover, Aguilar comes with balanced output (XLR) and pre/post EQ that allows perfect sound shaping.
 
@@ -38,7 +38,7 @@ Pros: - Compact assembly and light weight- 4 pounds - Impressive design and beau
 
 Cons: - No pedal input and usb - Small range master volume
 
-Read Also: [Best bass amps for metal](https: //pestpolicy. com/best-bass-amps-for-metal/)
+Read Also: [Best bass amps for metal](https://pestpolicy.com/best-bass-amps-for-metal/)
 
 ###  [2. Gallien-Krueger MB800 Ultra-Light Bass Amp](https://www.amazon.com/dp/B004QZB4Z0/?tag=p-policy-20)
 
@@ -54,7 +54,7 @@ It comes with internal safety fuse and headphone jack pin for DJs. Pros: - High 
 
 Cons: - Noise control varies in various playrooms - May spoil EQ if mishandle by non-professionals
 
-Read Also: [Best Busking Amps](https: //pestpolicy. com/best-busking-amps/)
+Read Also: [Best Busking Amps](https://pestpolicy.com/best-busking-amps/)
 
 ###  [3. Fender Rumble 800 Bass Amp Head v3](https://www.amazon.com/dp/B07N29M92P/?tag=p-policy-20)
 
@@ -161,3 +161,4 @@ Read Also: SD Card for Raspberry Pi 3
 Often, most people find it difficult to achieve the best sound performance due to inappropriate amp selection. When considering the best bass amps for small gigs, you will need to go beyond price as the main factor. Check on other features such as output power, several channels and EQ bands, presence of gain and onboard compressor, the master volume range as well as the overall design impression.
 
 Importantly, choose a bass amp that matches the output specification of your loudspeakers and other electronics you intend to pair without overweighing yourself financially.
+

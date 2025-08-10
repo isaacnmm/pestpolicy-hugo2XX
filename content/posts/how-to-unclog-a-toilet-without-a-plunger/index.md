@@ -1,4 +1,4 @@
----
+﻿---
 title: How to Unclog a Toilet Without a Plunger
 description: Sometimes toilets will clog ceaselessly. Thus, your "bank deposits" will float as the water level rises. A plunger would be a viable solution to save the...
 slug: /how-to-unclog-a-toilet-without-a-plunger/
@@ -15,9 +15,7 @@ tags:
 layout: post
 ---
 
-Sometimes toilets will clog ceaselessly. Thus, your "bank deposits" will float as the water level rises. A [plunger](https: //pestpolicy. com/how-to-use-a-plunger/) would be a [viable solution](https: //aces. nmsu. edu/pubs/_g/G304/welcome. html) to save the situation. However, thepoop smell and water flushing might discourage you from using yourplunger. Also, maybe even the available [plunger is for your kitchen sink](https: //pestpolicy.
-
-com/how-to-use-a-plunger/).
+Sometimes toilets will clog ceaselessly. Thus, your "bank deposits" will float as the water level rises. A [plunger](https://pestpolicy.com/how-to-use-a-plunger/) would be a [viable solution](https://aces.nmsu. edu/pubs/_g/G304/welcome. html) to save the situation. However, thepoop smell and water flushing might discourage you from using yourplunger. Also, maybe even the available [plunger is for your kitchen sink](https://pestpolicy.com/how-to-use-a-plunger/).
 
 Therefore, in this post, you'll learn the DIY tips on unclogging your toilet without a plunger or having to call a plumber.
 
@@ -101,10 +99,11 @@ By use of a wet/dry vacuum** Ensure that the bowl has no water.
 
 Put the end of the vacuum cleaner in the drain. Place it a few inches into the drain. You can use a rag as a seal around the drain. Turn the vacuum cleaner machine on, and the chances are that the vacuum cleaner will suck out the clog. **How to** **Prevention of clogs** A clogged toilet is not only embarrassing but also stressful. It causes inconveniences for a lot of people. Here are some tips on how to avoid future clogs: 1.
 
-Only flush human waste and tissue paper- Pipes used in the toilets are specifically designed to[flush human waste and tissue paper](https: //pestpolicy. com/best-toilet-paper-for-septic/). Any other materials will cause clogging. Dispose of such wastes in a trash bin and not the toilet. 2. Any other materials you dispose of in the toilet should be water-soluble.
+Only flush human waste and tissue paper- Pipes used in the toilets are specifically designed to[flush human waste and tissue paper](https://pestpolicy.com/best-toilet-paper-for-septic/). Any other materials will cause clogging. Dispose of such wastes in a trash bin and not the toilet. 2. Any other materials you dispose of in the toilet should be water-soluble.
 
 Other materials such as sanitary towels, toothbrushes, and others should be disposed of in a trash bin. 3.
 
 Use the necessary amount of toilet paper- Stuffing of a lot of tissue paper, and trying to flush it causes clogging. Only use the amount you require. 4. Ensure your toilet is always clean- Using toilet washing chemicals periodically wash to your toilet will meltdown and wash away any forming clogs. **Note - ** Always remember to clean any spilled water on the floor. You can even cover the floor around the toilet using towels and tissue paper.
 
 In case of any spillages on the floor, wash them using a disinfectant. Remember always to wear gloves. Any exposure to germs from the toilet can lead to infections and illnesses. Once you are done, ensure you dispose of the used gloves and wash your hands with soap or a hand sanitizer.
+

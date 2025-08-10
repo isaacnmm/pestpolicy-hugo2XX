@@ -1,4 +1,4 @@
----
+﻿---
 title: Microphone Polar Patterns
 description: Microphone polar patterns refer to the sensitivity of a microphone to sound from different directions. These patterns define how a microphone picks up sound...
 slug: /microphone-polar-patterns/
@@ -14,7 +14,7 @@ tags:
 layout: post
 ---
 
-[Microphone](https: //pestpolicy. com/types-of-microphones/) polar patterns refer to the sensitivity of a microphone to sound from different directions. These patterns define how a microphone picks up sound from various angles, and they play a crucial role in determining how and where the microphone should be placed in different environments.
+[Microphone](https://pestpolicy.com/types-of-microphones/) polar patterns refer to the sensitivity of a microphone to sound from different directions. These patterns define how a microphone picks up sound from various angles, and they play a crucial role in determining how and where the microphone should be placed in different environments.
 
 Understanding microphone polar patterns is essential for both recording engineers and performers to ensure optimal sound capture.
 
@@ -65,3 +65,4 @@ When selecting a microphone, understanding the polar pattern is critical for ach
 Microphone polar patterns play a significant role in how sound is captured, making it essential to choose the right one for your specific recording needs. Understanding the different patternsomnidirectional, cardioid, supercardioid, hypercardioid, bidirectional, and shotgunwill help you make informed decisions when selecting microphones for various applications.
 
 Whether youre recording in a studio, interviewing someone, or capturing distant sounds on a film set, choosing the correct microphone polar pattern will ensure that you capture the best possible sound for your project.
+

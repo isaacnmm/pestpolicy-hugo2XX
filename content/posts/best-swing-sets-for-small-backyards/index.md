@@ -1,4 +1,4 @@
----
+﻿---
 title: Best Swing Sets for Small Backyards
 description: You want your kids to get out and get involved in outdoor play, but your backyard is so small. You're probably thinking about Best Swing Sets For Small...
 slug: /best-swing-sets-for-small-backyards/
@@ -82,7 +82,7 @@ It also helps to resist mold or decay, hence, enhancing the durability of the pl
 
 Cons: - Some customers complain of unclear instructions
 
-Read Also: [Swing Sets for Small Yards](https: //pestpolicy. com/best-[swing-sets](https: //pestpolicy. com/best-swing-sets-for-small-yards/)-for-small-yards/)
+Read Also: [Swing Sets for Small Yards](https://pestpolicy.com/best-[swing-sets](https://pestpolicy.com/best-swing-sets-for-small-yards/)-for-small-yards/)
 
 ###  5. Step2 Naturally Playful Playhouse Climber & Swing [Set Extension](https://www.amazon.com/dp/B00066LFT8/?tag=p-policy-20)
 
@@ -96,7 +96,7 @@ The Step2 Swing Set has several play activities allowing multiple kids to play a
 
 Cons: - Instructions are quite confusing; you might need to keenly go through the guide first before starting the assembling process.
 
-Read Also: [Swing Set For Older Kids](https: //pestpolicy. com/best-swing-set-for-older-kids/)
+Read Also: [Swing Set For Older Kids](https://pestpolicy.com/best-swing-set-for-older-kids/)
 
 ###  [**6. Little Tikes Clubhouse Swing Set **](https://www.amazon.com/dp/B001IY8HSE/?tag=p-policy-20)
 
@@ -138,7 +138,7 @@ Pros: - Quick and easy set up. - Comes with ground anchors - Made with durable m
 
 Cons: - Offers limited play activities, but kids still get to have fun
 
-Read Also: [Swing Sets under 500](https: //pestpolicy. com/best-swing-sets-under-500/)
+Read Also: [Swing Sets under 500](https://pestpolicy.com/best-swing-sets-under-500/)
 
 ###  [9. Congo Safari Playsystem - Low Maintenance Play Set](https://www.amazon.com/dp/B00KCYMQ0Q/?tag=p-policy-20)
 
@@ -193,3 +193,4 @@ Wooden swing sets are durable, reliable, and naturally resist rot or insect dama
 ##  **Conclusion**
 
 Your small backyard is no longer a limiting factor when thinking about ideal play activities for your kids. Go ahead and select one that is within your liking and budget. We've reviewed some of the best playsets and swing sets for small backyards. Any of the discussed playsets or swing set will keep your children engaged even with the limited space.
+

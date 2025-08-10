@@ -1,4 +1,4 @@
----
+﻿---
 title: How to Get Rid Of No See Ums
 description: In this article, I am going to talk about how to get rid of no-see-ums. These are bugs that most people don't talk a lot about.
 slug: /how-to-get-rid-of-no-see-ums/
@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 
-In this article, I am going to talk about how to get [rid](https: //pestpolicy. com/how-to-get-rid-of-brown-recluse-spiders/) of no-see-ums. These are bugs that most people don't talk a lot about. T he [noseeums are attracted to carbon dioxide](https: //en. wikipedia. org/wiki/Ceratopogonidae) that your body (and every mammal) gives off.
+In this article, I am going to talk about how to get [rid](https://pestpolicy.com/how-to-get-rid-of-brown-recluse-spiders/) of no-see-ums. These are bugs that most people don't talk a lot about. T he [noseeums are attracted to carbon dioxide](https://en.wikipedia. org/wiki/Ceratopogonidae) that your body (and every mammal) gives off.
 
 Are you getting bit in your house are you worried you might have fed bugs or you're worried you might have fleas but you haven't seen any other signs - it might be no-see-ums. A lot of people call them no see ums because you can't see them - they are really teeny tiny mosquitoes. They can fly through the screens if you have a home even with some screened-in windows.
 
@@ -31,9 +31,7 @@ Thus, check if your property or home has standing water that hasn't been drained
 
 This can play host or homage to the no see ums. Further, the bugs love eating nectar - which's largely available in lawns and gardens. **2. Have saw-likemouthparts** - The mouthparts of no see ums are saw-like since they're created for sucking blood. Therefore, the bugs will bite humans and pets frequently (painful bites) particularly in the yard or outdoor spaces. **3.
 
-They carry diseases** - The No See Ums do carry diseases including Leishmania and Carrions Diseases (Bartonella bacilliformis). The bites for the bugs around the tropical regions may lead to chronic illnesses like phlebotomus and may equally transmit worms like the Filarial worms. The noseeums will equally make humans sick ( [maybe hiding in your hair](https: //pestpolicy.
-
-com/can-no-see-ums-live-in-my-hair/) ) besides leaving marks that are itchy and painful.
+They carry diseases** - The No See Ums do carry diseases including Leishmania and Carrions Diseases (Bartonella bacilliformis). The bites for the bugs around the tropical regions may lead to chronic illnesses like phlebotomus and may equally transmit worms like the Filarial worms. The noseeums will equally make humans sick ( [maybe hiding in your hair](https://pestpolicy.com/can-no-see-ums-live-in-my-hair/) ) besides leaving marks that are itchy and painful.
 
 Thus, homeowners consider it urgent to control the bugs. **4. They have winged hairs** - The bugs also have varied color patterns and winged hairs. It has segmented antennae (15) that it uses to suck blood from wild animals, pets, and humans. The tiny bugs measure about 1/8-inch or under and are grey-colored.
 
@@ -104,3 +102,4 @@ I would recommend getting long stockings, long-sleeved shirts and also long pant
 The last step on how to get rid of no-see-ums is undertaking appropriate prevention steps.
 
 This can be undertaken without conducting massive changes to the yard or garden environment.
+

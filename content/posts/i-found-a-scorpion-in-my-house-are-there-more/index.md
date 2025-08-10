@@ -1,4 +1,4 @@
----
+﻿---
 title: I Found a Scorpion in My House Are There More
 description: Scorpions are a pest that will come out regularly in the desert areas of the United States especially the southwestern regions. So, we just today found such a...
 slug: /i-found-a-scorpion-in-my-house-are-there-more/
@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 
-Scorpions are a pest that will come out regularly in the desert areas of the United States (especially the southwestern regions). **So, we just today found such a scorpion in our neighbor's [house](https: //pestpolicy. com/house-lizard-lifespan/). So I'm wondering if there could be more around. ** **My answer is that this will depend on the location and region that you found this scorpion - which means where you live.
+Scorpions are a pest that will come out regularly in the desert areas of the United States (especially the southwestern regions). **So, we just today found such a scorpion in our neighbor's [house](https://pestpolicy.com/house-lizard-lifespan/). So I'm wondering if there could be more around. ** **My answer is that this will depend on the location and region that you found this scorpion - which means where you live.
 
 ** Related: Pest Control Services Near Me
 
@@ -57,7 +57,7 @@ Father, for the basement, doors, and windows, you should use an indoor pesticide
 
 Scorpions get into your house by first hiding in the yard. So you must keep a well-organized and tidy garden or yard since this will help keep scorpions off your house. Scorpions get dehydrated regularly and will hide in the cool and shady areas of your yard to avoid exposure to sun and heat in the daytime. - Trim the trees and bushes provide the overgrowth touching the house - Declutter the yard by removing excessive leaves and wood stacks.
 
-- Avoid over-watering the garden or yard by inspecting a water system. - Trim the garden or yard grass Related: [Pet Lizards That Look Like Dragons](https: //pestpolicy. com/pet-lizards-that-look-like-dragons/)
+- Avoid over-watering the garden or yard by inspecting a water system. - Trim the garden or yard grass Related: [Pet Lizards That Look Like Dragons](https://pestpolicy.com/pet-lizards-that-look-like-dragons/)
 
 ###  c. Remove Debris and Seal the House
 
@@ -69,7 +69,7 @@ To sell the openings and trucks you can use expandable foam, sealers, fillers, s
 
 ###  d. Install Scorpion Traps
 
-The next step will be installing some suitable rat or mice traps in the house to trap scorpions - oor use [dragon cages](https: //pestpolicy. com/best-cages-for-bearded-dragons/). Place them around water sources and the entryway and dark areas such as the closet and furnishings. - But remember that the sticky pest traps could have toxic chemicals such as hazardous pesticides.
+The next step will be installing some suitable rat or mice traps in the house to trap scorpions - oor use [dragon cages](https://pestpolicy.com/best-cages-for-bearded-dragons/). Place them around water sources and the entryway and dark areas such as the closet and furnishings. - But remember that the sticky pest traps could have toxic chemicals such as hazardous pesticides.
 
 You can also deter the scorpions by using essential oils such as cinnamon, peppermint, tea tree, lavender, and cedar.
 
@@ -80,3 +80,4 @@ Spray the water-diluted essential oil in the basement, windows, doorways, and ot
 So in summary seeing one scorpion in your house may not necessarily mean that there are more of such animals around. - But this could vary depending on whether the area is scorpion-dense and if conditions are pushing the animals to shelter in the house. Some of these conditions may include wildfires or construction site unearthing. Scorpions will bite humans but their venom is non-hazardous - but could be hazardous to kids and elderly people.
 
 Any massive ground-digging or unearthing activities are going
+

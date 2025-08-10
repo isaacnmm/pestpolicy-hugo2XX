@@ -1,4 +1,4 @@
----
+﻿---
 title: Capstar Flea Tablets for Small Dogs
 description: Capstar tablets are effective remedies for controlling fleashttpspestpolicy.comhow-to-get-rid-of-fleas in dogs, puppies, kittens, and cats.
 slug: /capstar-flea-tablets-for-small-dogs/
@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 
-[Capstar](https: //pestpolicy. com/capstar-flea-tablets-for-large-dogs/) tablets are [effective remedies for controlling [fleas](https: //pestpolicy. com/capstar-flea-treatment-reviews/)](https: //pestpolicy. com/how-to-get-rid-of-fleas/) in dogs, puppies, kittens, and cats. In the Star article, I will discussCapstar flea tablets for small dogs (up to 11kg).
+[Capstar](https://pestpolicy.com/capstar-flea-tablets-for-large-dogs/) tablets are [effective remedies for controlling [fleas](https://pestpolicy.com/capstar-flea-treatment-reviews/)](https://pestpolicy.com/how-to-get-rid-of-fleas/) in dogs, puppies, kittens, and cats. In the Star article, I will discussCapstar flea tablets for small dogs (up to 11kg).
 
 Notably, capital will begin killing the fleas on your dog in around half an hour and its effectiveness will last for one day.
 
@@ -69,9 +69,7 @@ However, she noted that the product description classified the product as non-lo
 
 Capstar tablets worked excellently as described. - I used the product on my small dogs that weigh anywhere from 11 lb to 16 pounds. I noticed that the Shitzu dog that had denser hair on its body came with more fleas. But we administered 1 dose to each of the dogs and the formulation was able to clear all the pests within 1 to 2 days. - However, it was important to administer another dose to the dog that had long hair after 1 week.
 
-My review is that Capstar tablets are effective safe and well-priced for use in controlling fleas - plus they are nonprescription which makes them very convenient. Capstar cleared the fleas on my Shih Tzu dog that mainly stays in the US but sometimes moves to the yard - where I believe he picked some fleas. - But ever since this encounter, I also purchased a[yard flea killer](https: //pestpolicy.
-
-com/best-flea-spray-for-yard/)that has helped so much.
+My review is that Capstar tablets are effective safe and well-priced for use in controlling fleas - plus they are nonprescription which makes them very convenient. Capstar cleared the fleas on my Shih Tzu dog that mainly stays in the US but sometimes moves to the yard - where I believe he picked some fleas. - But ever since this encounter, I also purchased a[yard flea killer](https://pestpolicy.com/best-flea-spray-for-yard/)that has helped so much.
 
 ##  Used in Conjunction with Flea Combs
 
@@ -82,3 +80,4 @@ Pet owners are advised that this is a common habit but they should comb the outd
 ##  Conclusion
 
 So in summary, Capstar tablets are effective remedies for controlling adult fleas that are already on your small dog. - However, be cautious because there is a dosage limitation depending on the age and weight of your small dog. I also recommend you use Capstar tablets in combination with other longer-term flea remedies such as the Sentry Oatmeal Flea Shampoo.
+

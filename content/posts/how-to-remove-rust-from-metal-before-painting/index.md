@@ -1,4 +1,4 @@
----
+﻿---
 title: How to Remove Rust from Metal Before Painting
 description: Rusting is a common problem that occurs on metal, especially iron-based metal if proper preventive measures are not taken into place.
 slug: /how-to-remove-rust-from-metal-before-painting/
@@ -24,9 +24,7 @@ Rusting is a common problem that occurs on metal, especially iron-based metal if
 
 ###  a. Using Citric Acid
 
-**Items and Tool Required** - Citric acid andangle grinder - Wire brush and an empty bucket - PaintBrushand Rag - Safety google and dust coat - Boots and hearing protection - Dust mask and paint scraper **Procedure to Follow** - Put on appropriate protective gear dust mask, eye protection, gloves, boots, hearing protection, and overall - Using a wire brush, scrub the rusted metal gently - you can also[remove rust from metals](https: //www.
-
-yourmechanic. com/question/can-i-stop-rusting-without-sanding-down-and-painting-my-car-by-brad-f).
+**Items and Tool Required** - Citric acid andangle grinder - Wire brush and an empty bucket - PaintBrushand Rag - Safety google and dust coat - Boots and hearing protection - Dust mask and paint scraper **Procedure to Follow** - Put on appropriate protective gear dust mask, eye protection, gloves, boots, hearing protection, and overall - Using a wire brush, scrub the rusted metal gently - you can also[remove rust from metals](https://www.yourmechanic. com/question/can-i-stop-rusting-without-sanding-down-and-painting-my-car-by-brad-f).
 
 be careful not to get into contact with rust particle - Dilute citric acid slightly and apply it over the rusted area using a paintbrush. Leave the surface to quench for 5 minutes - Connect the angle grinder to the power source and polish the rust until all the rust layer is removed.
 
@@ -64,9 +62,7 @@ The dish soap acts as a catalyst that quickens the reaction when scrubbing. > Se
 
 ###  f. Using Baking Soda
 
-**Items and Tool Required** - [Baking Soda](https: //pestpolicy.
-
-com/how-to-remove-paint-from-metal-with-baking-soda/)and Empty container - A wire brush and a paintbrush - Paint Scraper and water point - Protective gear and grinder - Soapy detergent and a piece of cloth **Procedure to Follow** - Put on protective gear respirator, gloves, overalls, facemask, boots, andgoggles - Using a wire brush, scrub the rusted area gently to remove a thick layer from the surface - Clear the rust particleusing a paintbrush to remove - Mix the baking soda with warm water and apply it over the rusted metal using a paintbrush - Leave the surface to cure for 10 to 20 minutes - Then, polish the decomposed rust using an angle grinder until entire rust particles are removed - Soak a piece of cloth in soapy water and wipe the metal surface to clean traced of baking soda and rust particles - Rinse the surface to dryness Baking soda acts instantly upon application and breaks down the paint layer into small particles that are easily removed by a paintbrush or grinder.
+**Items and Tool Required** - [Baking Soda](https://pestpolicy.com/how-to-remove-paint-from-metal-with-baking-soda/)and Empty container - A wire brush and a paintbrush - Paint Scraper and water point - Protective gear and grinder - Soapy detergent and a piece of cloth **Procedure to Follow** - Put on protective gear respirator, gloves, overalls, facemask, boots, andgoggles - Using a wire brush, scrub the rusted area gently to remove a thick layer from the surface - Clear the rust particleusing a paintbrush to remove - Mix the baking soda with warm water and apply it over the rusted metal using a paintbrush - Leave the surface to cure for 10 to 20 minutes - Then, polish the decomposed rust using an angle grinder until entire rust particles are removed - Soak a piece of cloth in soapy water and wipe the metal surface to clean traced of baking soda and rust particles - Rinse the surface to dryness Baking soda acts instantly upon application and breaks down the paint layer into small particles that are easily removed by a paintbrush or grinder.
 
 A thick rust layer should be pre-cleaned before baking soda is applied. This method is best for light rust thickness.
 
@@ -92,13 +88,13 @@ High temperatures accelerate the rusting process temperature acts and catalyst t
 
 The acid reacts with metal upon contact and exposes metal structure to rusting agents in a given environment. Usually, acid decomposes metal (eats away metal) slowly for the surface inwards. The exposed metal crystals may react with water or other chemicals thus accelerating the rusting action on that particular surface. The acid will cause rusting in almost every metal.
 
-The best way of dealing with the acidic areas is to apply sacrificial protection or using complex alloy metal that has a low affinity for an acid reaction. > See Also: > [Painting on Metal Building](https: //pestpolicy. com/how-to-paint-a-metal-building/)
+The best way of dealing with the acidic areas is to apply sacrificial protection or using complex alloy metal that has a low affinity for an acid reaction. > See Also: > [Painting on Metal Building](https://pestpolicy.com/how-to-paint-a-metal-building/)
 
 ##  What are the Best Methods of Preventing Rusting from metal?
 
 ###  a. Greasing
 
-Greasing entails the application of grease on the metal surfaces to keep off moisture and other agents of rusting. Grease would be appropriate when used on moving parts (machine parts or automobile). Fiction resulting from moving parts exposes the metal to primary rusting agents if not well grease or maintained frequently with use. You may also use [sandblasting as it is easy and safe](https: //www. sciencedirect.
+Greasing entails the application of grease on the metal surfaces to keep off moisture and other agents of rusting. Grease would be appropriate when used on moving parts (machine parts or automobile). Fiction resulting from moving parts exposes the metal to primary rusting agents if not well grease or maintained frequently with use. You may also use [sandblasting as it is easy and safe](https://www.sciencedirect.
 
 com/topics/chemistry/sandblasting).
 
@@ -106,7 +102,7 @@ com/topics/chemistry/sandblasting).
 
 Coating metal surface with paint is the best way of preventing rust since paint eliminates direct moisture from the metal surface. The paint selected metal coating should be matched with the prevailing environmental condition oil-based paint should be used to coat outdoor metals, while water-based paint should be sued to coated indoor metal structures. Metal should be painted when dry to prevent peeling or scuffing due to moisture content.
 
-See Also: [Removing Paint from Metal Railing](https: //pestpolicy. com/how-to-remove-paint-from-metal-railing/).
+See Also: [Removing Paint from Metal Railing](https://pestpolicy.com/how-to-remove-paint-from-metal-railing/).
 
 ###  c. Alloying
 
@@ -141,3 +137,4 @@ All remains of rust removers should be store in a secure place away from pets an
 Having read the article on how to remove rust from metal before painting, I am confident that youve gained enough skills that will enable you to carry out the metal restoration process and DIY project without any problem. Rust can be removed from the metal surface by either using vinegar, commercial rust remover, baking soda Lemon and salt, or fresh potato and dish soap.
 
 Proper procedure and solvent preparation are important in preventing any metal damage and achieving an excellent final finish. You will require to wear proper protective gear when removing rust and adhere to safety measures/precautions in order to prevent any injuries or hazards from occurring.
+

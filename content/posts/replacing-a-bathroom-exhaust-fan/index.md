@@ -1,4 +1,4 @@
----
+﻿---
 title: Replacing a Bathroom Exhaust Fan
 description: A functional bathroom exhaust fan is a silent guardian against moisture damage, mold growth, and unpleasant odors in one of the most humid rooms in your home.
 slug: /replacing-a-bathroom-exhaust-fan/
@@ -34,7 +34,7 @@ While replacing a fan is often a DIY project, it's wise to call a licensed elect
 * **You're uncomfortable with electrical work.** * **The existing wiring is old, damaged, or doesn't match the new fan's requirements.** * **You need to run new ductwork or reconfigure complex ducting.** * **Access to the attic is extremely limited or unsafe.** * **The fan requires significant structural modification to ceiling joists.** * **You encounter unexpected issues or feel overwhelmed at any point.**
 ---
 
-A functional [bathroom](https: //pestpolicy. com/how-to-clean-a-bathroom-exhaust-vent-fan/) exhaust fan is a silent guardian against moisture damage, mold growth, and unpleasant odors in one of the most humid rooms in your home. However, old, noisy, or inefficient fans can quickly become more of a nuisance than a solution, struggling to keep up with the demands of steamy showers and frequent use.
+A functional [bathroom](https://pestpolicy.com/how-to-clean-a-bathroom-exhaust-vent-fan/) exhaust fan is a silent guardian against moisture damage, mold growth, and unpleasant odors in one of the most humid rooms in your home. However, old, noisy, or inefficient fans can quickly become more of a nuisance than a solution, struggling to keep up with the demands of steamy showers and frequent use.
 
 If your fan is rattling loudly, barely moving air, or has stopped working altogether, it might be time for an upgrade.
 
@@ -113,3 +113,4 @@ You might need to gently pry it free if it's secured with nails.
 Replacing a bathroom exhaust fan is a highly impactful upgrade that contributes significantly to the health, comfort, and longevity of your home. By following these steps carefully, especially prioritizing electrical safety, you can successfully remove an old, inefficient unit and install a modern, quieter, and more powerful fan.
 
 This DIY project not only solves a common household problem but also provides tangible benefits in terms of improved air quality, moisture control, and energy efficiency, making it a worthwhile investment in your home.
+

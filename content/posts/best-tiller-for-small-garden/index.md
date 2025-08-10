@@ -1,4 +1,4 @@
----
+﻿---
 title: Best Tiller for Small Garden
 description: The ideal tiller should be capable of preparing your soil adequately to transform it into a colorful and vibrant garden - try the best tiller for a small...
 slug: /best-tiller-for-small-garden/
@@ -32,7 +32,7 @@ Overall, this unit is guaranteed to offer you a hassle-free operation and it pas
 
 Cons: - Hard to assemble
 
-Read Also: [Best PTO [Tiller](https: //pestpolicy. com/best-tiller-for-breaking-new-ground/) For The Money](https: //pestpolicy. com/best-pto-tiller-for-the-money/)
+Read Also: [Best PTO [Tiller](https://pestpolicy.com/best-tiller-for-breaking-new-ground/) For The Money](https://pestpolicy.com/best-pto-tiller-for-the-money/)
 
 ###  [2. Earthwise TC70025 7.5 corded electric tiller](https://www.amazon.com/dp/B06Y24KQYN/?tag=p-policy-20)
 
@@ -66,7 +66,7 @@ Pros: - Highly dependable - Offers a powerful performance - Fuel efficient - Ver
 
 Cons: - Relatively expensive
 
-Read Also: [Best Tiller for Roots](https: //pestpolicy. com/best-tiller-for-roots/)
+Read Also: [Best Tiller for Roots](https://pestpolicy.com/best-tiller-for-roots/)
 
 ###  [4. Mantis 7924 two-cycle tiller](https://www.amazon.com/dp/B00TY87WIC/?tag=p-policy-20)
 
@@ -80,7 +80,7 @@ It also offers you the option of aerating and plowing your lawn with fewer hassl
 
 Cons: - Relatively expensive
 
-Read Also: [How To Use a Tiller To Remove Grass](https: //pestpolicy. com/how-to-use-a-tiller-to-remove-grass/)
+Read Also: [How To Use a Tiller To Remove Grass](https://pestpolicy.com/how-to-use-a-tiller-to-remove-grass/)
 
 ###  [5. Black and Decker LGC120 mini-tiller](https://www.amazon.com/dp/B00TY87WIC/?tag=p-policy-20)
 
@@ -163,3 +163,4 @@ This will not only save you unforeseen maintenance costs but also guarantees pea
 ##  Conclusion
 
 You need the right and reliable miniature version of a garden tiller that powers through sod with minimal effort. Earthwise TC70025 stands out in our featured list due to its durable and reliable motor engine which features a quick start option. Its unique handling design is just what you need to keep the unit running for long without getting fatigued.
+

@@ -1,4 +1,4 @@
----
+﻿---
 title: Signs Of a Cockroach Infestation
 description: Are you suspecting cockroaches in your househttpspestpolicy.comhow-to-get-rid-of-cockroaches-in-apartments ? One thing you need to know is that roaches are...
 slug: /signs-of-a-cockroach-infestation/
@@ -15,9 +15,9 @@ tags:
 layout: post
 ---
 
-Are you [suspecting [cockroaches](https: //pestpolicy. com/cockroach-eggs/) in your house](https: //pestpolicy. com/how-to-get-rid-of-cockroaches-in-apartments/)? One thing you need to know is that roaches are nocturnal pests and are very active during the night. They are very tactical, as they will also hide in crevices and cracks which complicate things.
+Are you [suspecting [cockroaches](https://pestpolicy.com/cockroach-eggs/) in your house](https://pestpolicy.com/how-to-get-rid-of-cockroaches-in-apartments/)? One thing you need to know is that roaches are nocturnal pests and are very active during the night. They are very tactical, as they will also hide in crevices and cracks which complicate things.
 
-**In summary, the signs of a [cockroach](https: //pestpolicy. com/cockroach-vs-palmetto-bug/) infestation are roach droppings, live or dead cockroaches, smear marks, shredded roach skin, strong odor, roach egg capsules, plus furniture and property damage. **
+**In summary, the signs of a [cockroach](https://pestpolicy.com/cockroach-vs-palmetto-bug/) infestation are roach droppings, live or dead cockroaches, smear marks, shredded roach skin, strong odor, roach egg capsules, plus furniture and property damage. **
 
 What is annoying is that they will feed on anything in your home from food, clothes, papers, plastics and anything around then hide only for you to find damages.
 
@@ -61,7 +61,7 @@ The German cockroaches who like staying indoors are the number one stench produc
 
 Cockroaches lay eggs in a capsule that is also called oothecae. One ootheca can contain up to 30 eggs. - Though different species have different oothecae, the most common in our houses is the German cockroaches that have 18 segments while American roaches dont have a defined segment. - Some roaches carry the oothecae until before it hatches while others will drop it soon after they land into a new environment.
 
-These oothecae are brown in color and translucent in nature and are normally left behind after the eggs hatch into nymphs. - These capsules can be seen in hidden places like under the furniture, in cabinets, and in other hidden dark places - you can use[cockroach Bomb](https: //pestpolicy. com/when-to-use-a-cockroach-bomb/). When you spot the capsules, its not time to sit down and relax because cockroaches have already settled in your room.
+These oothecae are brown in color and translucent in nature and are normally left behind after the eggs hatch into nymphs. - These capsules can be seen in hidden places like under the furniture, in cabinets, and in other hidden dark places - you can use[cockroach Bomb](https://pestpolicy.com/when-to-use-a-cockroach-bomb/). When you spot the capsules, its not time to sit down and relax because cockroaches have already settled in your room.
 
 ###  **7. ****Furniture and Property Damage **
 
@@ -82,3 +82,4 @@ Cleaning their hideouts, their droppings, eggs, and any other dirt in your house
 Now you know the signs of a cockroach infestation to look for in your house. These are going to help you take immediate action against the control of these harmful bugs. - Roaches are harmful and cause a lot of damages to our houses and should not be entertained at all cost.
 
 Though home remedies and general cleanliness keep them off from your house, contacting a pest control expert will be the most ideal for the proper elimination of these roaches.
+

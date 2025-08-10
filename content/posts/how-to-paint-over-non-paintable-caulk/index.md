@@ -1,4 +1,4 @@
----
+﻿---
 title: How to Paint Over Non Paintable Caulk
 description: If you have a caulk-sealed section at your home or office and you intend to paint then, you will notice that not all caulk material is paintable.
 slug: /how-to-paint-over-non-paintable-caulk/
@@ -74,7 +74,7 @@ However, you must match shellac with the right acrylic or latex paint for compat
 
 ##  How do You Remove Non-Paintable Caulk?
 
-If you intend to reinforce your non-paintable caulk like silicone caulk, a complete removal is crucial and this should be done with critical care to safeguard tiles from damage. During the removal process, follow the steps highlighted below: The material and tools required - [Safety Glasses for Spray Painting](https: //pestpolicy. com/best-safety-glasses-for-spray-painting/).
+If you intend to reinforce your non-paintable caulk like silicone caulk, a complete removal is crucial and this should be done with critical care to safeguard tiles from damage. During the removal process, follow the steps highlighted below: The material and tools required - [Safety Glasses for Spray Painting](https://pestpolicy.com/best-safety-glasses-for-spray-painting/).
 
 - Gloves and Abrasive pad - Bleach and Sealant remover - Utility knife and Needle-nose pliers - Clean cloth and Scraper or putty knife
 
@@ -88,7 +88,7 @@ Usually, a well-cured tile should come out after several slight shakes.
 
 - Alternatively, past the putty knife along the tile edges and try to push off the tile gently this method is a bit tricky as at a point leads to tiles edge damage - Once the tile is removed, scrape off the cured silicone caulk from the surface (gently) with a paint scraper or putty knife - Then, scrub the surface with an abrasive pad before rinsing it with a wet piece of cloth Once the tile and the surface wall/floor is dry to touch, you can apply the paintable caulk (latex caulk, acrylic caulk, or adhesive caulk) before sticking the tile back to its original position.
 
-Moreover, a professional painter should be contracted if you are new to non-paintable caulk. Alternatively, you may opt to groove the tile joints and replace non-paintable caulk (silicone caulk) with paintable caulk options. However, the paint stickiness level may be lower than the entire silicone restoration. > See Also: > [Paint Roller for Textured Walls](https: //pestpolicy. com/best-paint-roller-for-textured-walls/)
+Moreover, a professional painter should be contracted if you are new to non-paintable caulk. Alternatively, you may opt to groove the tile joints and replace non-paintable caulk (silicone caulk) with paintable caulk options. However, the paint stickiness level may be lower than the entire silicone restoration. > See Also: > [Paint Roller for Textured Walls](https://pestpolicy.com/best-paint-roller-for-textured-walls/)
 
 ###  Caution/Warning!
 
@@ -104,7 +104,7 @@ Be careful when holding tiles during the caulk reinforcement process tiles are b
 
 In case you get into contact with bleaching solvent, wash the area with plenty of water and soap. 7. Always check the type of caulk you intend to use before sealing as it helps you determine the finish paint to use. 8. Match the primer with finish paint always oil-based paint should be primed using oil-based primer and vice versa. 9. Always check the expiry date of the primer and finish paint before preparation is done.
 
-Clean debris and waste from painted surfaces and dispose of them accordingly. > See Also: > [Ladder for Painting 2 Story House](https: //pestpolicy. com/best-ladder-for-painting-2-story-house/)
+Clean debris and waste from painted surfaces and dispose of them accordingly. > See Also: > [Ladder for Painting 2 Story House](https://pestpolicy.com/best-ladder-for-painting-2-story-house/)
 
 ##  Conclusion
 
@@ -113,3 +113,4 @@ In summary, on how to paint over non-paintable caulk, you begin by selecting the
 Besides, you may have to replace non-paintable silicone caulk from joints (not easy) with paintable caulk to improve paint stickiness action or consider using shellac spray and paint over non-paintable caulk surface.
 
 Upon paint application, leave the coat to dry (as per manufacturers instructions) before applying the second coat, if necessary.
+

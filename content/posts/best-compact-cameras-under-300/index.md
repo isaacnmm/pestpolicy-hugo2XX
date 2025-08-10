@@ -1,4 +1,4 @@
----
+﻿---
 title: Best Compact Cameras Under 300
 description: In this post, Ive reviewed the best compact cameras under 300. Granted, its the end of summer and you need to take great shots of your kids. Maybe 7 years...
 slug: /best-compact-cameras-under-300/
@@ -14,9 +14,9 @@ tags:
 layout: post
 ---
 
-In this post, Ive reviewed the best compact [cameras](https: //pestpolicy. com/best-drones-for-still-photography/) under 300. Granted, its the end of summer and you need to take great shots of your kids.
+In this post, Ive reviewed the best compact [cameras](https://pestpolicy.com/best-drones-for-still-photography/) under 300. Granted, its the end of summer and you need to take great shots of your kids.
 
-Maybe 7 years from now the kids will wonder; where are my photos? Make sure you wont have to say that they were on my smartphone, I put them on Facebook. but they still dont look so good. Unique features in a [modern compact camera](http: //camera-wiki. org/wiki/Compact_camera) (compared to smartphone cameras) are having an optical zoom lens, superior focus, multiple modes, and working well in low-lighting.
+Maybe 7 years from now the kids will wonder; where are my photos? Make sure you wont have to say that they were on my smartphone, I put them on Facebook. but they still dont look so good. Unique features in a [modern compact camera](http://camera-wiki.org/wiki/Compact_camera) (compared to smartphone cameras) are having an optical zoom lens, superior focus, multiple modes, and working well in low-lighting.
 
 ##  Reviews: 7 [Best](https://pestpolicy.com/best-point-and-shoot-camera-under-100/) Compact Cameras under 300 in 2025
 
@@ -52,7 +52,7 @@ It comes compact and nice with packaging having a picture taken by the Fujifilm 
 
 4 megapixel BSI CMOS sensor (with 5 times optical zoom) and a 3-inches display. Interestingly, this camera is also waterproof, freezeproof (10 degrees Centigrade or 14 degrees Fahrenheit) and with an easy to use internal software.
 
-Enough with the smartphone photos that look great when theyre itty-bitty, but when you have to blow them up and their quality is so diminished you wouldnt want to hang them on your wall. Related: [Best Camera for Music Videos](https: //pestpolicy. com/best-camera-for-music-videos/).
+Enough with the smartphone photos that look great when theyre itty-bitty, but when you have to blow them up and their quality is so diminished you wouldnt want to hang them on your wall. Related: [Best Camera for Music Videos](https://pestpolicy.com/best-camera-for-music-videos/).
 
 ##  Considerations in Best Compact Cameras under 300
 
@@ -63,3 +63,4 @@ In addition, consider if youll require additional features to allow aspects such
 ##  Conclusion
 
 The best compact cameras under 300 - the features to look for in your compact camera, particularly when shopping online or dont have the chance to test drive the camera first. But, the alternative is visiting your local store and trying out different compact cameras to check if you can land some gold.
+

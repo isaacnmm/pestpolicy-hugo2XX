@@ -1,4 +1,4 @@
----
+﻿---
 title: Can Bed Bugs Get in Your Hair
 description: By definition, bed bugs are tiny apple-seed-sized, flat-bodied, brownish insects that'll feed on both human and animal blood.
 slug: /can-bed-bugs-get-in-your-hair/
@@ -51,13 +51,11 @@ Despite that bed bugs won't live on your hair, we don't love having the bugs in 
 
 ###  1. Manual Bed Bug Removal
 
-For persons with beards, you may require to comb, trim, or shave with the goal of removing the nits, nymphs, and eggs. See also: [How big are bed bugs](https: //pestpolicy. com/how-big-are-bed-bugs/)? If you're wearing infested hairpieces or wigs, you'll need to manually remove the bed bugs as these hairpieces may provide an easy home. To remove the [bed bugs and their eggs](https: //pestpolicy.
-
-com/how-to-kill-bed-bug-eggs/), can do this manually.
+For persons with beards, you may require to comb, trim, or shave with the goal of removing the nits, nymphs, and eggs. See also: [How big are bed bugs](https://pestpolicy.com/how-big-are-bed-bugs/)? If you're wearing infested hairpieces or wigs, you'll need to manually remove the bed bugs as these hairpieces may provide an easy home. To remove the [bed bugs and their eggs](https://pestpolicy.com/how-to-kill-bed-bug-eggs/), can do this manually.
 
 ###  2. Wash the Hair
 
-Next, get some hot water and keenly wash and comb the hair - this will also remove the bed bug nymphs, nits, and eggs. [Squashing the bed bugs](https: //pestpolicy. com/what-happens-when-you-squish-a-bed-bug/), it'll leave some bloodstains and a horrifying odor. Note that you must start with hair-washing prior to washing the body. The heat from the hot water will assist in killing the bed bugs - as you immerse yourself in a warm-water bath tab.
+Next, get some hot water and keenly wash and comb the hair - this will also remove the bed bug nymphs, nits, and eggs. [Squashing the bed bugs](https://pestpolicy.com/what-happens-when-you-squish-a-bed-bug/), it'll leave some bloodstains and a horrifying odor. Note that you must start with hair-washing prior to washing the body. The heat from the hot water will assist in killing the bed bugs - as you immerse yourself in a warm-water bath tab.
 
 ###  3. Alcohol Washing
 
@@ -70,3 +68,4 @@ Using Almond oil on your hair will repel the bed bugs - but you must effectively
 ##  Conclusion
 
 *Bed bugs may hide on a human body while they're moving especially from some public area. So, if you witness some insects on your skin or hair - these could be lice, ticks, or fleas. *
+

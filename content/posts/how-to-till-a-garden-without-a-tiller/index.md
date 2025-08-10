@@ -1,4 +1,4 @@
----
+﻿---
 title: How to Till a Garden Without a Tiller
 description: The millennium-old practice of tilling land comes with many benefits yet is exceedingly tiring, and time-consuming. What of discovering a hack that saves you...
 slug: /how-to-till-a-garden-without-a-tiller/
@@ -14,9 +14,9 @@ tags:
 layout: post
 ---
 
-The millennium-old practice of [tilling land](https: //extension. unh. edu/blog/2020/10/low-no-till-gardening) comes with many benefits yet is exceedingly tiring, and time-consuming. What of discovering a hack that saves you dozens of efforts? - Whether you are a staunch believer of tilling or otherwise, you can retire your tiller - like[rear tine [tillers](https: //pestpolicy. com/best-garden-tiller-for-a-woman/).
+The millennium-old practice of [tilling land](https://extension.unh. edu/blog/2020/10/low-no-till-gardening) comes with many benefits yet is exceedingly tiring, and time-consuming. What of discovering a hack that saves you dozens of efforts? - Whether you are a staunch believer of tilling or otherwise, you can retire your tiller - like[rear tine [tillers](https://pestpolicy.com/best-garden-tiller-for-a-woman/).
 
-](https: //pestpolicy. com/best-rear-tine-[tiller](https: //pestpolicy. com/best-rear-tine-tiller/)-under-1000/)We want to unearth some ways in which you can prepare your garden without a tiller. You can avoid tiling by removing the weeds and covering your land with god's blanket (mulching). (1) Layout your garden well (2) kill the existing weeds/grass (3) much/ lay organic matter (4) plant.
+](https://pestpolicy.com/best-rear-tine-[tiller](https://pestpolicy.com/best-rear-tine-tiller/)-under-1000/)We want to unearth some ways in which you can prepare your garden without a tiller. You can avoid tiling by removing the weeds and covering your land with god's blanket (mulching). (1) Layout your garden well (2) kill the existing weeds/grass (3) much/ lay organic matter (4) plant.
 
 ##  Details: How to Till a Garden without a Tiller
 
@@ -30,7 +30,7 @@ We recommend the use of a gardener planner to successfully handle such concerns.
 
 The garden planner solves a number of your headaches like helping you determine what to plant where and when. - It has a lot of ready-designed objects like compost bins, sheds, fences that are dropped right to your garden. Objects include sheds, fences, and compost bins, which can be adjusted to fit your space. Click on the plant you want to add, and then on the place where you want to plant it. Hold and drag your mouse to draw a block or row.
 
-As you add plants, the space required is clearly shown by a colored space around the plant. The tooltip feature displays the number of plants that can fit in that area. Related: [Front Tine vs. Rear Tine Tillers](https: //pestpolicy. com/front-tine-vs-rear-tine-tillers/)
+As you add plants, the space required is clearly shown by a colored space around the plant. The tooltip feature displays the number of plants that can fit in that area. Related: [Front Tine vs. Rear Tine Tillers](https://pestpolicy.com/front-tine-vs-rear-tine-tillers/)
 
 ###  2. Kill the existing weeds/grass
 
@@ -69,3 +69,4 @@ We recommend that you plant at the onset of spring because by then it will be a 
 ##  Enjoy the Fun of Tilling Your Garden without a Tiller
 
 No-tiller gardening is quite a reprieve from the back and leg pains associated with tilling. And you end up with healthy crops or your favorite vegetables. Although the benefits of not tiling take a while to be fully realized, anything worth having is certainly worth waiting for. Enjoy your gardening!
+

@@ -1,4 +1,4 @@
----
+﻿---
 title: How Does Capstar Work Flea Treatment
 description: If you need to keep fleas off your cats and dogs, then the Capstar Flea Tablets is highly recommended by pet owners and vets - even when you sleep with...
 slug: /how-does-capstar-work-flea-treatment/
@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 
-If you need to keep fleas off your cats and dogs, then the [Capstar](https: //pestpolicy. com/capstar-flea-tablets-for-large-dogs/) Flea Tablets is highly recommended by pet owners and vets - even when you [sleep with flea-infested dogs in your bed](https: //pestpolicy. com/dog-has-[fleas](https: //pestpolicy. com/capstar-flea-tablets-for-small-dogs/)-and-sleeps-in-my-bed/).
+If you need to keep fleas off your cats and dogs, then the [Capstar](https://pestpolicy.com/capstar-flea-tablets-for-large-dogs/) Flea Tablets is highly recommended by pet owners and vets - even when you [sleep with flea-infested dogs in your bed](https://pestpolicy.com/dog-has-[fleas](https://pestpolicy.com/capstar-flea-tablets-for-small-dogs/)-and-sleeps-in-my-bed/).
 
 Capstar is manufactured by a company known as Novartis which is a DIY flea killer that targets adult fleas in cats and dogs.
 
@@ -51,7 +51,7 @@ So from the onset, I have to say that the Capstar flea tablets are very safe and
 
 Also, if your cat or dog is pregnant or nursing you can still safely give them the Capstar tablets to control fleas. **4.
 
-Capstar Nitenpyram will not control or kill ticks. ** The Nitenpyram Capstar ingredient does not kill fleas in either cats or dogs. - Therefore, I advise you to consult your local veterinarian for advice on how to remove fleas on pets effectively. Related: [Will Flea Treatment Burn Cats Skin? ](https: //pestpolicy. com/does-flea-treatment-burn-cats-skin/)
+Capstar Nitenpyram will not control or kill ticks. ** The Nitenpyram Capstar ingredient does not kill fleas in either cats or dogs. - Therefore, I advise you to consult your local veterinarian for advice on how to remove fleas on pets effectively. Related: [Will Flea Treatment Burn Cats Skin? ](https://pestpolicy.com/does-flea-treatment-burn-cats-skin/)
 
 ##  What next after administering the Capstar flea tablets?
 
@@ -74,3 +74,4 @@ Related: Home Remedies for Fleas
 ##  Conclusion
 
 In summary, Capstar tablets will help exterminate fleas in dogs and cats either in the season or off-season of the fleas. - But remember to pursue flea prevention all the time to prevent the build-up of a flea population in your residence. Success in controlling the fleas on your cat and dogs using Capstar flea tablets! Cheers!
+

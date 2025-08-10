@@ -1,4 +1,4 @@
----
+﻿---
 title: What Animals Eat Cockroaches
 description: There are some know cockroach predators that can help you keep off those chemical roach killers and also cut on the pest control costs. On  what animals eat...
 slug: /what-animals-eat-cockroaches/
@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 
-There are some know cockroach predators that can help you keep off those chemical roach killers and also cut on the pest control costs. On * what animals eat [cockroaches](https: //pestpolicy. com/best-roach-bait/); they include some reptiles, amphibians, avians, and mammals - includingrats, bearded dragons, leopard geckos, frogs, and toads.
+There are some know cockroach predators that can help you keep off those chemical roach killers and also cut on the pest control costs. On * what animals eat [cockroaches](https://pestpolicy.com/best-roach-bait/); they include some reptiles, amphibians, avians, and mammals - includingrats, bearded dragons, leopard geckos, frogs, and toads.
 
 * *Other animals include mice, skinks, parasitoid wasps, hedgehogs, some beetles, panther chameleons, iguanas, some birds, Entomopathogenic fungi, monitor lizards. *
 
@@ -41,7 +41,7 @@ Normally, it is not okay to feed roaches to your cats and dogs. But roaches with
 
 But feral cats will equally roam the streets hunting birds, rats, and mice plus cockroaches. - Cats will achieve great satisfaction while hunting for roaches - but this may be disrupted by issues such as ingesting pesticides or digestive issues. But why will dogs and cats hunt for roaches? Well, dogs and cats (including domesticated ones) will exercise their hunting impulses and the bug's hard-shelled texture ensure it's easy to capture.
 
-Dogs and cats may also feed on roaches as a diet to help recover from diseases such as PICA or anemia. PICA could lead them to eat non-food objects due to psychological compulsion or boredom. - But the cats will[snack on the roaches](https: //pestpolicy. com/how-to-get-rid-of-cockroaches/)- but may get choked or hurt in their throat due to the bug's exoskeletons that is hard - if not adequately chewed.
+Dogs and cats may also feed on roaches as a diet to help recover from diseases such as PICA or anemia. PICA could lead them to eat non-food objects due to psychological compulsion or boredom. - But the cats will[snack on the roaches](https://pestpolicy.com/how-to-get-rid-of-cockroaches/)- but may get choked or hurt in their throat due to the bug's exoskeletons that is hard - if not adequately chewed.
 
 Despite that dogs and cats will actively hunt plus eat roaches, it's advisable to keep this away to reduce chances of digestive hazard or choking. Will cockroaches be drawn to litter? Yes, roaches may get drawn to the litter depending on the litter box in question (like corn, beets, or wheat) - so they might not get new silica-based, sand, or clay litters.
 
@@ -49,7 +49,7 @@ Despite that dogs and cats will actively hunt plus eat roaches, it's advisable t
 
 ###  3.Beetles
 
-Silverfish and beetles (and beetle larvae) are among the best roach predators - they'll hunt for the bugs and feed on them - plus controlling pests like the [Hemlock-Woolly Adelgid](https: //www. dec. ny. gov/animals/7250. html). But it's not advised to drop [predatory beetles](https: //extension. umd.
+Silverfish and beetles (and beetle larvae) are among the best roach predators - they'll hunt for the bugs and feed on them - plus controlling pests like the [Hemlock-Woolly Adelgid](https://www.dec. ny. gov/animals/7250. html). But it's not advised to drop [predatory beetles](https://extension.umd.
 
 edu/hgic/insects/predatory-beetles) into the house - these are the bugs that will feed on roaches; checkered beetles, lady beetles, rove beetles, and soldier beetles, ground beetles.
 
@@ -61,11 +61,11 @@ Seal up all the cracks (on door frames) and openings that roaches and other inse
 
 ###  4. Opossums
 
-Yes, Opossums are [extreme omnivores](https: //www. aces. edu/blog/topics/wildlife/the-virginia-opossum-our-only-native-marsupial/) that will hunt and feed on roaches largely found in North America - they'll also eat garbage, worms, and roadkill. They'll bear [semi-](http: //www. ucmp. berkeley. edu/mammal/marsupial/marsupial. html) [developed and small young ones](http: //www. ucmp. berkeley. edu/mammal/marsupial/marsupial.
+Yes, Opossums are [extreme omnivores](https://www.aces. edu/blog/topics/wildlife/the-virginia-opossum-our-only-native-marsupial/) that will hunt and feed on roaches largely found in North America - they'll also eat garbage, worms, and roadkill. They'll bear [semi-](http://www.ucmp. berkeley. edu/mammal/marsupial/marsupial. html) [developed and small young ones](http://www.ucmp. berkeley. edu/mammal/marsupial/marsupial.
 
 html) that they'll hide in their belly pouches until when ready to move.
 
-The [average-weighted Opossums (weighing 8-13 lbs](https: //www. nationalgeographic. com/animals/mammals/group/opossums/) ) may also transmit rabies. - So, yes opossums can be beneficial organisms despite being catatonic-like and creepy animals - and are greatnature's exterminators. Opossums will equally feed on frogs, insects, snails, slugs, moles, spiders, rats, and mice. They'll feast on those bothersome critters roaming your yard.
+The [average-weighted Opossums (weighing 8-13 lbs](https://www.nationalgeographic. com/animals/mammals/group/opossums/) ) may also transmit rabies. - So, yes opossums can be beneficial organisms despite being catatonic-like and creepy animals - and are greatnature's exterminators. Opossums will equally feed on frogs, insects, snails, slugs, moles, spiders, rats, and mice. They'll feast on those bothersome critters roaming your yard.
 
 Further, Opossums love eating weeds ( check these weed killers ) and dead plants in your garden. These include the decaying or wilting plant matter as opposed to the fresh crops. - The opossum will equally feed on carrion (*dead creatures*) including decaying creatures.
 
@@ -81,7 +81,7 @@ Other roach predators: - Some roach predators such as lizards, frogs, and toads 
 
 ###  6.Frogs
 
-Frogs such as the popular [Spring Peeper](https: //animaldiversity. org/site/accounts/information/Pseudacris_crucifer. html) and [Northern-Leopard Frog](http: //www. biokids. umich. edu/critters/Lithobates_pipiens/) will eat roaches - you'll find them in wet environments, lakes, and ponds. Other frog species like the [White's tree](https: //nationalzoo. si. edu/animals/whites-tree-frog) (found in New Guinea and Australia) will feed on roaches.
+Frogs such as the popular [Spring Peeper](https://animaldiversity.org/site/accounts/information/Pseudacris_crucifer. html) and [Northern-Leopard Frog](http://www.biokids. umich. edu/critters/Lithobates_pipiens/) will eat roaches - you'll find them in wet environments, lakes, and ponds. Other frog species like the [White's tree](https://nationalzoo.si. edu/animals/whites-tree-frog) (found in New Guinea and Australia) will feed on roaches.
 
 They measure about 3 to 5 inches living in woodland or grassy areas - they're nocturnal.
 
@@ -91,10 +91,11 @@ But also red imported fire ants will eat roaches.
 
 ###  7. Spiders
 
-Spiders will eat cloth moths, mosquitoes, and roaches among other indoor pests. But you're required many spiders to effectively control a massive roach infestation. But some homeowners will rear domesticated spiders and these [take cockroaches](https: //www. quora. com/Do-spiders-eat-cockroaches) for their food. Spider species including [Brown Huntsmans](http: //entnemdept. ufl. edu/creatures/urban/spiders/giant_crab_spider.
+Spiders will eat cloth moths, mosquitoes, and roaches among other indoor pests. But you're required many spiders to effectively control a massive roach infestation. But some homeowners will rear domesticated spiders and these [take cockroaches](https://www.quora. com/Do-spiders-eat-cockroaches) for their food. Spider species including [Brown Huntsmans](http://entnemdept.ufl. edu/creatures/urban/spiders/giant_crab_spider.
 
 htm) will also feed on roaches.
 
 ##  Conclusion
 
 Eating the adult roaches plus their larvae, the natural predators will ensure the bug population is checked. For instance, spiders and some ants will prey on bug roaches.
+

@@ -1,4 +1,4 @@
----
+﻿---
 title: Can Bearded Dragons Eat Apples
 description: Can bearded dragons eat apples? Well, your bearded dragon deserve the right food and diet to maintain great health. Maybe some cucumbers, cabbage , or mango ....
 slug: /can-bearded-dragons-eat-apples/
@@ -29,11 +29,11 @@ Improperly or unpeeled apples fed onto the bearded dragon could cause impaction.
 
 Also, give the apples as snacks - in small bits to avoid running stools. You can give bearded dragons water from some bowl.
 
-Deficiency in vitamin C can cause stomatitis, bleeding gums, bruising of skin. Bearded dragons or reptiles exhibiting such conditions are usually treated using vitamin C - known this to properly [care for your bearded dragon](http: //www. animalplanet. com/pets/other-pets/bearded-dragon-stats-facts/). Apples consist about 86% water. That gives you a perfect means of hydrating your bearded dragon.
+Deficiency in vitamin C can cause stomatitis, bleeding gums, bruising of skin. Bearded dragons or reptiles exhibiting such conditions are usually treated using vitamin C - known this to properly [care for your bearded dragon](http://www.animalplanet. com/pets/other-pets/bearded-dragon-stats-facts/). Apples consist about 86% water. That gives you a perfect means of hydrating your bearded dragon.
 
 Notably these creatures drink little water and most of them dont even know how to drink water from a bowl. In fact, it takes time to train your beardie how to drink water. However, when you feed then with apples, you dont have to worry about dehydration. Apples meant for bearded dragons need to be washed properly to remove chemicals used for pest control. Ingesting pesticides can make your beardie very sick or even result to death.
 
-In addition, apples should be peeled and sliced into very thin slices to make it easy for them to chew. Related: [Why I Don't Feed Bearded Dragons with Oranges](https: //pestpolicy. com/can-bearded-dragons-eat-oranges/)
+In addition, apples should be peeled and sliced into very thin slices to make it easy for them to chew. Related: [Why I Don't Feed Bearded Dragons with Oranges](https://pestpolicy.com/can-bearded-dragons-eat-oranges/)
 
 ###  **Can Baby Bearded Dragons Eat Apples?**
 
@@ -67,11 +67,11 @@ Fruit peels including apple peels should not be given to bearded dragons for two
 
 Related: [Can Bearded Dragons Eat Onions?
 
-](https: //pestpolicy. com/can-bearded-dragons-eat-onions/)
+](https://pestpolicy.com/can-bearded-dragons-eat-onions/)
 
 ###  **How to Feed Bearded Dragon with Apples**
 
-Some bearded dragons take some time to get accustomed to a new diet or environment. As a result you might notice that your beardie isnt eating apples. But with some effort and trick you can easily get your [bearded dragon to start eating](https: //pestpolicy. com/can-bearded-dragons-eat-mango/) apples. Follow these steps to prepare and teach your beardie to eat apples: - Wash the apples to remove dirt and any chemicals used as pesticides.
+Some bearded dragons take some time to get accustomed to a new diet or environment. As a result you might notice that your beardie isnt eating apples. But with some effort and trick you can easily get your [bearded dragon to start eating](https://pestpolicy.com/can-bearded-dragons-eat-mango/) apples. Follow these steps to prepare and teach your beardie to eat apples: - Wash the apples to remove dirt and any chemicals used as pesticides.
 
 - Peel off the skin using a knife or vegetable peeler.
 
@@ -91,4 +91,5 @@ In particular, baby beardies should be given very small amounts of apples.
 
 ##  Sources:
 
-1. [Caring for Your Pet Bearded Dragon - NCSU CVM](https: //cvm. ncsu. edu/documents/caring-for-your-bearded-dragon/) 2. [Introduction to Bearded Dragons Loving Your Pet](https: //www. lovingyourpet. co. uk/bearded-dragons/introduction-to-bearded-dragons. php)
+1. [Caring for Your Pet Bearded Dragon - NCSU CVM](https://cvm.ncsu. edu/documents/caring-for-your-bearded-dragon/) 2. [Introduction to Bearded Dragons Loving Your Pet](https://www.lovingyourpet. co. uk/bearded-dragons/introduction-to-bearded-dragons. php)
+

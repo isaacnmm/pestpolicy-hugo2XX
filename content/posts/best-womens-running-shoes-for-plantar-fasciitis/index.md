@@ -1,4 +1,4 @@
----
+﻿---
 title: Best Womens Running Shoes for Plantar Fasciitis
 description: The best Women's Running Shoes for Plantar Fasciitis are designed to relieve or prevent heel or foot pain. Female runners male runners too are likely to get...
 slug: /best-womens-running-shoes-for-plantar-fasciitis/
@@ -16,7 +16,7 @@ layout: post
 
 The best Women's Running Shoes for Plantar Fasciitis are designed to relieve or prevent heel or foot pain.
 
-Female runners (male runners too) are likely to get Plantar Fasciitis because of a continuous strain of their plantar fascia. [Overweight runners](https: //pestpolicy. com/best-[running-shoes](https: //pestpolicy. com/best-track-shoes-without-spikes/)-for-heavy-female-runners/) are at higher risk of plantar fasciitis. Plantar Fasciitis is a rare kind of pain that you feel at the bottom of your foot or the heel region.
+Female runners (male runners too) are likely to get Plantar Fasciitis because of a continuous strain of their plantar fascia. [Overweight runners](https://pestpolicy.com/best-[running-shoes](https://pestpolicy.com/best-track-shoes-without-spikes/)-for-heavy-female-runners/) are at higher risk of plantar fasciitis. Plantar Fasciitis is a rare kind of pain that you feel at the bottom of your foot or the heel region.
 
 Wearing incorrect running shoes can aggravate the pain, hence; interrupt your training or running schedule.
 
@@ -118,8 +118,9 @@ The upper is made using the durable lightweight material to offer you a more res
 
 Cons: - A customer complained about their narrow widths
 
-Read Also: [Everything about Kangoo Jumps shoes & boots](https: //pestpolicy. com/everything-about-kangoo-jumps-shoes-boots/)
+Read Also: [Everything about Kangoo Jumps shoes & boots](https://pestpolicy.com/everything-about-kangoo-jumps-shoes-boots/)
 
 ##  Conclusion
 
 Stability -If you want a running shoe with top stability, one that will relieve your Plantar Fasciitis, then choose 1340v2 from New Balance. This shoe is perfect for overpronators because of its amazing support structures. Another exceptional feature found on the New Balance 1340 is the polyurethane (multi-density) which delivers additional stability to the female runner with Plantar Fasciitis
+

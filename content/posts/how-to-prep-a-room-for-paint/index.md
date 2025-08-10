@@ -1,4 +1,4 @@
----
+﻿---
 title: How to Prep a Room for Paint
 description: Could be you need to paint your newly constructed room or carry out paint restoration to improve interior outlook impression.
 slug: /how-to-prep-a-room-for-paint/
@@ -14,7 +14,7 @@ tags:
 layout: post
 ---
 
-Could be you need to [paint](https: //pestpolicy. com/living-room-paint-colors-with-brown-furniture/) your newly constructed room or carry out paint restoration to improve interior outlook impression. Then, its crucial to prep the room.
+Could be you need to [paint](https://pestpolicy.com/living-room-paint-colors-with-brown-furniture/) your newly constructed room or carry out paint restoration to improve interior outlook impression. Then, its crucial to prep the room.
 
 *On how to prep a room for paint, you will need to select appropriate material and tools for prepping, clean the room, and strip old paint before sanding the ceiling/walls to remove debris and surface roughness.
 
@@ -36,7 +36,7 @@ Clean the walls, floor, and ceiling to remove surface dust or debris that may ha
 
 Old paint should be stripped entirely to create a smooth paint contact surface boosts surface stickiness ability.
 
-When stripping, its advisable to thin the walls/ceiling sufficiently to break paint molecular bond and hence ease the removal process the paint thinner should match the applied old paint (oil-based thinner should be used over oil-based paint and vice versa) Gently, strip the paint layer using a putty knife/ [a paint](https: //www. amazon. com/Toughest-Tools-Paint-Scraper-Remover/dp/B07XVBW45J/ref=sr_1_5?
+When stripping, its advisable to thin the walls/ceiling sufficiently to break paint molecular bond and hence ease the removal process the paint thinner should match the applied old paint (oil-based thinner should be used over oil-based paint and vice versa) Gently, strip the paint layer using a putty knife/ [a paint](https://www.amazon. com/Toughest-Tools-Paint-Scraper-Remover/dp/B07XVBW45J/ref=sr_1_5?
 
 dchild=1&keywords=paint+scraper&qid=1610135050&sr=8-5) scraper, be keen when running the scraper over the old paint to protect primary surface material from damage.
 
@@ -60,7 +60,7 @@ Seal the porous surface holes using putty or parting compounds. Repair the damag
 
 Using a polishing machine, smoothly run it over the repaired sections and sealed areas to attain an even and smooth final surface finish. The polishing machine should run at a low RPM (speed) to protect the surface from further damage. Finally, mop the polished sections and leave them to dry completely.
 
-When selecting a polishing machine, match it with surface material under preparation purchase a wood polishing machine for interior wood reinforced walls/ceiling or a concrete polishing machine for concrete walls/ceiling. > See Also: > [Thinning Oil Based Paint for Spray Gun](https: //pestpolicy. com/how-to-thin-oil-based-paint-for-spray-gun/)
+When selecting a polishing machine, match it with surface material under preparation purchase a wood polishing machine for interior wood reinforced walls/ceiling or a concrete polishing machine for concrete walls/ceiling. > See Also: > [Thinning Oil Based Paint for Spray Gun](https://pestpolicy.com/how-to-thin-oil-based-paint-for-spray-gun/)
 
 ###  h. Protect Floor/Fixture from Paint Staining
 
@@ -78,7 +78,7 @@ Wall/ceiling surface preparation eliminates the roughness and debris, which impe
 
 The presence of dust and surface debris leads to paint drains/runs, especially when using a paintbrush or a roller. Usually, the dust or debris repels the paint solvent upon contact leading to surface runs. Rugged wall/ceiling surface also offers a channel through which the paint molecules form runs/drains upon application. Moreover, the ceiling's low stickiness action leads to unnecessary dripping, which may stain the floor if not attended to.
 
-See Also: [Removing Latex Paint from Concrete](https: //pestpolicy. com/how-to-remove-latex-paint-from-concrete/).
+See Also: [Removing Latex Paint from Concrete](https://pestpolicy.com/how-to-remove-latex-paint-from-concrete/).
 
 ###  3. Initiates Peeling and Chipping
 
@@ -125,3 +125,4 @@ Fill the damaged walls/ceiling surface with parting compound and gently polish b
 Having read this article on how to prep a room for paint, I believe that you gained both application skills and surface restoration art, which will boost your DIY painting project. Usually, you are required to select the right material and tools for prepping activity, clean/sweep the room, and strip old paint before sanding the ceiling/walls to eliminate debris and surface roughness.
 
 Besides, it would help if you had to dust and wash the walls/ceiling (where appropriate), seal/repair the damaged ceiling/walls, polish the entire surface sufficiently to improve paint stickiness ability and reduce run formation when painting.
+

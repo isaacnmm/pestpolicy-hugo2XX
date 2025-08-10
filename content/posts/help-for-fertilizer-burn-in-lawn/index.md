@@ -1,4 +1,4 @@
----
+﻿---
 title: Help for Fertilizer Burn in Lawn
 description: Fertilizer is a vital component of a healthy, vibrant lawn, providing essential nutrients that promote lush growth, rich color, and strong root systems.
 slug: /help-for-fertilizer-burn-in-lawn/
@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 
-[Fertilizer](https: //pestpolicy. com/how-to-fix-fertilizer-burn-on-lawn/) is a vital component of a healthy, vibrant lawn, providing essential nutrients that promote lush growth, rich color, and strong root systems. However, in the quest for a greener lawn, it's possible to overdo it, leading to a common and frustrating problem: fertilizer burn.
+[Fertilizer](https://pestpolicy.com/how-to-fix-fertilizer-burn-on-lawn/) is a vital component of a healthy, vibrant lawn, providing essential nutrients that promote lush growth, rich color, and strong root systems. However, in the quest for a greener lawn, it's possible to overdo it, leading to a common and frustrating problem: fertilizer burn.
 
 This damage, characterized by brown, scorched patches, can quickly turn your aspiring emerald carpet into a mottled eyesore.
 
@@ -120,3 +120,4 @@ The grass cannot use the nutrients, and the salts will sit in the soil, ready to
 9. **Consider Liquid Fertilizers: ** Liquid fertilizers can be applied more evenly and are less prone to causing burn if diluted and applied correctly. However, they also require careful dilution and even application.
 
 By adhering to these preventative measures, you can confidently fertilize your lawn, promoting its health and beauty without the unwelcome surprise of fertilizer burn. When in doubt, always err on the side of under-applying rather than over-applying, as you can always add more later.
+

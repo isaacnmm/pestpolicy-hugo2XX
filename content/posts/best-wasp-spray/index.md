@@ -1,4 +1,4 @@
----
+﻿---
 title: Best Wasp Spray
 description: To defeat wasps colonies in your house or compound, youll need to acquire the best wasp spray. This is important, as wasps can be a nuisance at home,...
 slug: /best-wasp-spray/
@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 
-To defeat wasps colonies in your house or compound, youll need to acquire the best wasp [spray](https: //pestpolicy. com/best-roach-spray/). This is important, as wasps can be a nuisance at home, especially when disturbed. - They attack by stinging the enemy several and instilling painful toxic chemicals that cause swelling and bleeding at times. The situation may even worsen for those victims who are wasps allergic.
+To defeat wasps colonies in your house or compound, youll need to acquire the best wasp [spray](https://pestpolicy.com/best-roach-spray/). This is important, as wasps can be a nuisance at home, especially when disturbed. - They attack by stinging the enemy several and instilling painful toxic chemicals that cause swelling and bleeding at times. The situation may even worsen for those victims who are wasps allergic.
 
 To gain more insight, lets get into the reviews.
 
@@ -73,9 +73,7 @@ This product would work best when used outdoors on wasps nests, holes, or cracks
 
 When spraying, you will need to ensure that the applied area is thoroughly wet or moist to enable the complete killing of eggs and larvae. Pt Wasp and Hornet Freeze have a chilling effect that remains active for 2-3 weeks- this will keep off or kill any wasp that may come back. Sunrise or sunset is the best time for spraying since the wasps are usually very active then.
 
-The Good: - Knockdown killing on contact - Long chilling effect-2 to 3 weeks - Point application - High Oz -17. 5 and less application force - Large application radius 15 feet - No respiratory upset or skin irritation - Has a Non-pollutant compound prallethrin - Can also kill mud daubers and spiders - Best for outdoor application The Bad: - Poisonous when swallowed Read Also: [Best Spray for Yellow Jackets](https: //pestpolicy.
-
-com/best-spray-for-yellow-jackets/)
+The Good: - Knockdown killing on contact - Long chilling effect-2 to 3 weeks - Point application - High Oz -17. 5 and less application force - Large application radius 15 feet - No respiratory upset or skin irritation - Has a Non-pollutant compound prallethrin - Can also kill mud daubers and spiders - Best for outdoor application The Bad: - Poisonous when swallowed Read Also: [Best Spray for Yellow Jackets](https://pestpolicy.com/best-spray-for-yellow-jackets/)
 
 ##  [7. Syngenta 73654 Demand CS](https://www.amazon.com/dp/B002Y6BC1O/?tag=p-policy-20)
 
@@ -118,3 +116,4 @@ The Good: - Large area coverage -20 feet radius - Kills on contact quick-acting 
 ##  Conclusion
 
 Though wasps infestation can cause serious problems to dwellers, a proper elimination approach is needed to succeed in combating them. - Having the best wasp spray in your house is one crucial step towards this success. - You must select the wasp spray that will not only eliminate wasps but can also destroy any other insect that gives you trouble at your home. Remember, some of the best wasp sprays are reviewed in this article for you.
+

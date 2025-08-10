@@ -1,4 +1,4 @@
----
+﻿---
 title: Dead Bed Bugs
 description: Seeing dead bed bugsbed-bug-faqs in your house could raise some concern. It might be a sure indication that your house is bed bug-infested. I used dawn dish...
 slug: /dead-bed-bugs/
@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 
-Seeing [dead bed bugs](https: //nysipm. cornell. edu/whats-bugging-you/[bed-bugs](https: //pestpolicy. com/bed-bug-bites-vs-mosquito-bites/)/bed-bug-faqs///) in your house could raise some concern. It might be a sure indication that your house is bed bug-infested. I used dawn dish soap to kill bed bugs.
+Seeing [dead bed bugs](https://nysipm.cornell. edu/whats-bugging-you/[bed-bugs](https://pestpolicy.com/bed-bug-bites-vs-mosquito-bites/)/bed-bug-faqs///) in your house could raise some concern. It might be a sure indication that your house is bed bug-infested. I used dawn dish soap to kill bed bugs.
 
 - Though dead bed bugs are not easy to see, they have a lifespan too, right? You might start to wonder if there might be other live bed bugs that you need to start fighting right away; somehow, you might be right. If you have seen dead bed bugs in your house, keep reading to find out what needs to be done.
 
@@ -67,7 +67,7 @@ Bed bugs look for piles of cloth since they can hide in the easily.
 
 Therefore, remove and wash them before you start cleaning the house. You want to ensure that they dont have a safe place to hide in. - After clearing the clutter, use a powerful vacuum attached to a strong hose on areas that bed bugs use for hiding and laying eggs. Consider using a bed bug vacuum or steamer with a HEPA filter since it will not leave any bed bug, baby bed bugs, and their eggs behind.
 
-- On your bed frame, use a non-toxic spray to kill the hiding bed bugs that could not be reached with the powerful vacuum. - Move your bed a few weeks away from the walls so that you have enough room to clean the house. Also, by moving your bed, you will [remove the cups in which the bed bugs](https: //pestpolicy. com/can-bed-bugs-climb-metal-or-plastic/) might hide. Read Also: Does Diatomaceous Earth Kill Bed Bugs?
+- On your bed frame, use a non-toxic spray to kill the hiding bed bugs that could not be reached with the powerful vacuum. - Move your bed a few weeks away from the walls so that you have enough room to clean the house. Also, by moving your bed, you will [remove the cups in which the bed bugs](https://pestpolicy.com/can-bed-bugs-climb-metal-or-plastic/) might hide. Read Also: Does Diatomaceous Earth Kill Bed Bugs?
 
 ##  Can Dogs Carry Bed Bugs?
 
@@ -75,10 +75,11 @@ There is a possibility that your pet might have some bed bugs on their fur. This
 
 However, this should be done carefully since some pets might have sensitive skin.
 
-Such pets tend to develop allergic reactions when sprayed. There are special pills that are created for pets that have allergic skin. If your pet falls in that category, give it the pill, and it will form a [toxic layer so that when bed bugs](https: //pestpolicy. com/what-happens-when-you-squish-a-bed-bug/) try to feed on their blood, they die and fall off.
+Such pets tend to develop allergic reactions when sprayed. There are special pills that are created for pets that have allergic skin. If your pet falls in that category, give it the pill, and it will form a [toxic layer so that when bed bugs](https://pestpolicy.com/what-happens-when-you-squish-a-bed-bug/) try to feed on their blood, they die and fall off.
 
 You can talk to your vet for the best way to administer the pills so that your pet does not get hurt in the process of fighting the best bugs. **Call an Exterminator**: If your house is infested to a level that you cant deal with, consider calling an exterminator. This also makes sense if you are not familiar with DIY techniques mentioned above. Read Also: Does Baby Powder Kill Bed Bugs?
 
 ##  Conclusion
 
-If you spot a dead bed bug in your house, it is important that you get ready to clean your home. Go for a pesticide with a long killing effect. Make sure that you locate the [areas used by bed bugs](https: //pestpolicy. com/bed-bugs-vs-mites/) to hide and then using the right pesticide to kill them.
+If you spot a dead bed bug in your house, it is important that you get ready to clean your home. Go for a pesticide with a long killing effect. Make sure that you locate the [areas used by bed bugs](https://pestpolicy.com/bed-bugs-vs-mites/) to hide and then using the right pesticide to kill them.
+

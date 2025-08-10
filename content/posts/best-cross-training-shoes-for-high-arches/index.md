@@ -1,4 +1,4 @@
----
+﻿---
 title: Best Cross Training Shoes for High Arches
 description: Best Cross Training Shoes for High Arches should have ample midsole cushioning and under-arch support to alleviate pain or discomfort caused by high arches. A...
 slug: /best-cross-training-shoes-for-high-arches/
@@ -14,11 +14,11 @@ tags:
 layout: post
 ---
 
-[Best](https: //pestpolicy. com/best-cross-training-shoes-for-bad-knees/) Cross Training Shoes for High Arches should have ample midsole cushioning and under-arch support to alleviate pain or discomfort caused by high arches.
+[Best](https://pestpolicy.com/best-cross-training-shoes-for-bad-knees/) Cross Training Shoes for High Arches should have ample midsole cushioning and under-arch support to alleviate pain or discomfort caused by high arches.
 
 A high arch (pes cavus) is the opposite of a flat foot. However, high arches tend to cause more pain than flat feet. Therefore, trainers with high arches will need neutral cushioned shoes or shoes that have an additional bump within the midfoot unit. Such shoes promote flexibility and encourage natural pronation.
 
-Hence, Ive compiled some of the Best Cross Training Shoes for High Arches. Check out the list and choose your favorite pair. Related: [Best Cross Training Shoes for Bad Knees](https: //pestpolicy. com/best-cross-training-shoes-for-bad-knees/)
+Hence, Ive compiled some of the Best Cross Training Shoes for High Arches. Check out the list and choose your favorite pair. Related: [Best Cross Training Shoes for Bad Knees](https://pestpolicy.com/best-cross-training-shoes-for-bad-knees/)
 
 ##  Review: Best Cross Training Shoes for High Arches
 
@@ -48,7 +48,7 @@ The Powerflow midsole provides needed cushioning. It provides superior shock abs
 
 The upper of Inov-8 F-Lite 260 Knit features a knit material thats highly breathable and stretchy. The material provides a comfortable fit while securing the foot in place to prevent unnecessary foot movement.
 
-The rearfoot features a synthetic overlay wrap that inhibits in-shoe wobbling during plyometrics, weightlifting, and other intense exercises. The external heel cage provides lateral support making it possible to engage in [lateral workouts](https: //pestpolicy. com/best-shoes-for-lateral-movement/). The TPU panels on the heel provide crucial stability.
+The rearfoot features a synthetic overlay wrap that inhibits in-shoe wobbling during plyometrics, weightlifting, and other intense exercises. The external heel cage provides lateral support making it possible to engage in [lateral workouts](https://pestpolicy.com/best-shoes-for-lateral-movement/). The TPU panels on the heel provide crucial stability.
 
 The outsole of this cross-training shoe for high arches features a superior non-slip rubber that provides a sticky grip. The rubber outsole provides reliable traction on various surfaces. Hence, it eliminates the fear of slipping during box jumps.
 
@@ -161,3 +161,4 @@ Every time your shoes hit the ground during a workout, you should have a good am
 I hope that this review on the best cross-training shoes for high arches has been helpful. If you experience high arches you need to choose cross-training shoes that are comfortable, well-cushioned, provide good arch support and stability.
 
 Picking the correct footwear will help alleviate pain and discomfort making the workout sessions more enjoyable. Go through the above list and choose a cross-trainer that suits you best.
+

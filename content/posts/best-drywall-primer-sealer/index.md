@@ -1,4 +1,4 @@
----
+﻿---
 title: Best Drywall Primer Sealer
 description: Drywalls and other surfaces could be challenging especially getting the primer-sealers for them as you prepare them for painting. In this article, we...
 slug: /best-drywall-primer-sealer/
@@ -26,7 +26,7 @@ It a great time to bring that change on your drywall with Rust-Oleum water-based
 
 You know you made an excellent choice when you discover its great adhesion on those glossy household items like enamels and tiles plus walls. Interestingly, you can use this primer and sealer on either indoor or outdoor surfaces without having to worry about its effectiveness. Its a very great primer with a versatile nature and you can use it on multiple surfaces with great stick ability.
 
-That notwithstanding, this primer is easy to apply and use with just a brush, a roller, or even a sprayer to apply it. You do not need to [do some sanding](https: //pestpolicy. com/what-grit-sandpaper-for-primer-before-[paint](https: //pestpolicy. com/best-primer-for-kitchen-cabinets/)/) so that this primer can stick therefore it saves you the time needed to achieve this activity.
+That notwithstanding, this primer is easy to apply and use with just a brush, a roller, or even a sprayer to apply it. You do not need to [do some sanding](https://pestpolicy.com/what-grit-sandpaper-for-primer-before-[paint](https://pestpolicy.com/best-primer-for-kitchen-cabinets/)/) so that this primer can stick therefore it saves you the time needed to achieve this activity.
 
 As a primer, you need to understand that rust-oleum does an excellent job in creating rust-proof surfaces and protects your surface against peeling, molds, or blistering. Pros: - Acts as a sealer and a primer - Has strong adhesion - Easy to apply - Can be used indoors and outdoors - Easy cleanup
 
@@ -56,7 +56,7 @@ KILZ Premium is one of the most versatile primers/sealers available at the marke
 
 As a water-based primer, it does a fantastic job as an undercoat in case you want to paint your wall or apply a topcoat or when you need to do a repainting. The strong adhesion in this primer makes it a good primer for use on many surfaces like plaster, tiles, wood, or even furniture among many others.
 
-What is unique about this paint is that it performs well on moist surfaces making it one of the most recommended primers for [bathrooms and kitchens](https: //pestpolicy. com/best-primer-for-kitchen-cabinets/). On the contrary, it offers protection for your surfaces against molds and mildew.
+What is unique about this paint is that it performs well on moist surfaces making it one of the most recommended primers for [bathrooms and kitchens](https://pestpolicy.com/best-primer-for-kitchen-cabinets/). On the contrary, it offers protection for your surfaces against molds and mildew.
 
 It has excellent color and great coverage with one gallon covering approximately 300-400 square ft. however before application, you need to clean the surface and remove any dirt like paint peelings, dust, and others that may hinder you from achieving an excellent surface. Pros: - Excellent adhesion - For use both interiors and exteriors - Perfect for use on moist surfaces - Stain blocking feature - Low VOCs and odor
 
@@ -76,7 +76,7 @@ Just in case of a spillage or drip, the paint is easy to clean-up with soap and 
 
 Cons: - Some issues with packaging
 
-> See Also: > [Bonding Primer for Kitchen Cabinets](https: //pestpolicy. com/best-bonding-primer-for-kitchen-cabinets/)
+> See Also: > [Bonding Primer for Kitchen Cabinets](https://pestpolicy.com/best-bonding-primer-for-kitchen-cabinets/)
 
 ###  [5. KILZ Restoration Primer/Sealer, White, 1-gallon](https://www.amazon.com/dp/B007XH9PKO/?tag=p-policy-20)
 
@@ -123,3 +123,4 @@ Cons: - Not economical for small projects
 ##  Conclusion
 
 The top award for the best drywall primer-sealer goes to KILZ Premium High-Hide Stain Blocking Primer/Sealer, 1-gallon due to its great innovativeness and features. Having this gem carries the true picture of a primer-sealer.
+

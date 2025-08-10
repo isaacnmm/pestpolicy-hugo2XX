@@ -1,4 +1,4 @@
----
+﻿---
 title: How to Spray Paint Metal
 description: Spray painting metal can be a simple and effective way to refresh the appearance of metal surfaces or add a protective coating.
 slug: /how-to-spray-paint-metal/
@@ -18,7 +18,7 @@ Spray painting metal can be a simple and effective way to refresh the appearance
 
 ##  Materials Youll Need
 
-- Spray [paint](https: //pestpolicy. com/airless-paint-sprayer-cleaning-solution/) suitable for [metal](https: //pestpolicy. com/best-paint-for-metal-garage-door/) surfaces - Primer for metal - Drop cloth or newspaper to protect surrounding areas - Painters tape (optional) - Sandpaper or steel wool (optional) - Gloves and a mask (for protection)
+- Spray [paint](https://pestpolicy.com/airless-paint-sprayer-cleaning-solution/) suitable for [metal](https://pestpolicy.com/best-paint-for-metal-garage-door/) surfaces - Primer for metal - Drop cloth or newspaper to protect surrounding areas - Painters tape (optional) - Sandpaper or steel wool (optional) - Gloves and a mask (for protection)
 
 ##  Steps to Spray Paint Metal
 
@@ -57,3 +57,4 @@ If you want to add extra durability and a glossy finish to the painted metal, co
 ##  Conclusion
 
 Spray painting metal is a simple process that can restore or enhance the appearance of metal items. By properly preparing the surface, using the right materials, and applying the paint in multiple thin coats, you can achieve a professional finish. Whether youre painting furniture, outdoor equipment, or other metal surfaces, following these steps will help you achieve long-lasting results.
+

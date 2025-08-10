@@ -1,4 +1,4 @@
----
+﻿---
 title: Red Eyed Crocodile Skink Care
 description: There are many "expert" ideas on how to take care of your Red-Eyed Crocodile Skink - but in this article, I outline my red-eyed crocodile skink care guide -...
 slug: /red-eyed-crocodile-skink-care/
@@ -15,9 +15,9 @@ tags:
 layout: post
 ---
 
-There are many "expert" ideas on how to take care of your Red-Eyed Crocodile Skink - but in this article, I outline my red-eyed crocodile skink care guide - the 5 -years of experience of caring for and breeding for these reptile species. The [red-eyed crocodile skink](https: //en. wikipedia. org/wiki/Tribolonotus_gracilis) is a shy crepuscular lizard.
+There are many "expert" ideas on how to take care of your Red-Eyed Crocodile Skink - but in this article, I outline my red-eyed crocodile skink care guide - the 5 -years of experience of caring for and breeding for these reptile species. The [red-eyed crocodile skink](https://en.wikipedia. org/wiki/Tribolonotus_gracilis) is a shy crepuscular lizard.
 
-This means that it is a type of lizard that is most active at dawn and dusk. This shy reptile simply enjoys its own privacy but what if you find them irresistible and simply want to be a good host? - Lifespan: ~ 10 years - Size: 7 inches to 9 inches - From New Guinea Related: [Are Leopard Geckos Nocturnal](https: //pestpolicy. com/are-leopard-geckos-nocturnal/)?
+This means that it is a type of lizard that is most active at dawn and dusk. This shy reptile simply enjoys its own privacy but what if you find them irresistible and simply want to be a good host? - Lifespan: ~ 10 years - Size: 7 inches to 9 inches - From New Guinea Related: [Are Leopard Geckos Nocturnal](https://pestpolicy.com/are-leopard-geckos-nocturnal/)?
 
 ##  Caresheet for Your Red Eyed Crocodile Skink
 
@@ -29,7 +29,7 @@ For instance, check the Zilla's 200-long or the Exo Terra's Small as they'll giv
 
 The croc skinks will live best as a male and a female or just singly. Females will be territorial and defensive when places together while males tend to fight. You should keep the croc skinks in tanks or locations that have high humidity - and you may require to use some moss covering such as the New Zealand sphagnum. These help in holding moisture while also increasing the spaces' humidity.
 
-Further, such as an environment with foliage cover that is low lying (plus taller foliage) offers great hiding spots and increases the creatures' comfort - check the [Welfare Assessment Method](https: //www. ncbi. nlm. nih. gov/pmc/articles/PMC6356264/). Some live-planted enclosures may also work while hiding places such as Exo-terra hanging plants, Exo terra fern, or Exo terra rock hides give suitable places for ducking into.
+Further, such as an environment with foliage cover that is low lying (plus taller foliage) offers great hiding spots and increases the creatures' comfort - check the [Welfare Assessment Method](https://www.ncbi. nlm. nih. gov/pmc/articles/PMC6356264/). Some live-planted enclosures may also work while hiding places such as Exo-terra hanging plants, Exo terra fern, or Exo terra rock hides give suitable places for ducking into.
 
 ###  2. Temperament
 
@@ -39,7 +39,7 @@ But you can handle the Croc skinks, although not regularly, you must give them t
 
 ###  3.Temperatures & Lighting
 
-The Croc skinks love temperatures that are humid and cool - but they'll also rely on thermoregulation for body-temperature control. Thus, you'll need to offer a cool and hot side in the reptile's enclosure (for these [Ptyodactylus)](https: //www. ncbi. nlm. nih. gov/pmc/articles/PMC5540286/) - place cool elements on one side and then the heat elements on the opposite side.
+The Croc skinks love temperatures that are humid and cool - but they'll also rely on thermoregulation for body-temperature control. Thus, you'll need to offer a cool and hot side in the reptile's enclosure (for these [Ptyodactylus)](https://www.ncbi. nlm. nih. gov/pmc/articles/PMC5540286/) - place cool elements on one side and then the heat elements on the opposite side.
 
 Ensure that the warm-side temperature must not be over 82 degrees - you can increase the enclosure temperature using either the Zoo-Med heat pad or Exo terra that can be placed underneath that enclosure. Make sure that the other parts of the tank or enclosure are maintained at about 72 to 75-degree. When temperatures drop at night (to about 70 degrees), use quality temperature gauges such as the Exo Terras Thermometer.
 
@@ -47,7 +47,7 @@ For lig hting, utilize the Exo-Terras light (LED-type), as this will assist in i
 
 ###  4. Feeding
 
-The Croc skinks love eating insects - you can give them [various feeder bug](https: //pestpolicy. com/flying-ants-vs-termites/) types. But the reptiles can also be given pinky mice occasionally. Further, you can use the Exo-terras dish to feed the Croc skinks with worms - therefore, the worms won't burrow into that su bstrate prior to getting eaten by Croc skinks.
+The Croc skinks love eating insects - you can give them [various feeder bug](https://pestpolicy.com/flying-ants-vs-termites/) types. But the reptiles can also be given pinky mice occasionally. Further, you can use the Exo-terras dish to feed the Croc skinks with worms - therefore, the worms won't burrow into that su bstrate prior to getting eaten by Croc skinks.
 
 Ensure to offer the Croc skinks with the required food - this may include providing appropriate calcium with D3.
 
@@ -127,7 +127,7 @@ These lizards usually go for grubs, insects, and small worms. You should note th
 
 This ensures that the prey lives longer.
 
-Related: [What Does a Garden Lizard Eat? ](https: //pestpolicy. com/what-does-a-garden-lizard-eat/)
+Related: [What Does a Garden Lizard Eat? ](https://pestpolicy.com/what-does-a-garden-lizard-eat/)
 
 ##  How to Breed your Red-Eyed Crocodile Skinks
 
@@ -144,3 +144,4 @@ The period of pairing should be from June to September. Feeding is after one day
 ##  Conclusion
 
 The Red-Eyed crocodile skink is a wonderful creature that requires gentle hands. They do not bite and no, you can not handle them as a beginner. They need a good pair of hands but once you keep one, you will love it. There is beauty in their mysterious lifestyle. I hope this red-eyed crocodile skink care guide has been of great help and now that you are totally informed, your reptile pet-keeping ways are truly reformed.
+

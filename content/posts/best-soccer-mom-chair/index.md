@@ -1,4 +1,4 @@
----
+﻿---
 title: Best Soccer Mom Chair
 description: Your presence at the pitch will inspire your kids to perform better in their soccer matches. Theyll love to see you cheering them on as they play.
 slug: /best-soccer-mom-chair/
@@ -177,3 +177,4 @@ I hope that this review on the best soccer mom chair has been helpful. Going by 
 This chair comes with amazing technologies and features to enhance your comfort and safety. This one is one of the best portable chairs you can purchase.
 
 If youre attending your childs soccer game with a friend or spouse pick the Coleman Quattro Lax Double Quad Chair. This one accommodates two people and it's durable enough to hold up the weight of two people.
+

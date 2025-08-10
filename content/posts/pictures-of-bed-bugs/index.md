@@ -1,4 +1,4 @@
----
+﻿---
 title: Pictures Of Bed Bugs
 description: Below Ive listed 99 imagespictures of bed bugs,including baby bed bugs , nymphs, fertilized females, eggs, and adults. When you consider controlling bed bugs ...
 slug: /pictures-of-bed-bugs/
@@ -15,9 +15,9 @@ tags:
 layout: post
 ---
 
-Below Ive listed 99+ images/pictures of bed bugs, including [baby bed bugs](https: //pestpolicy. com/baby-[bed-bugs](https: //pestpolicy. com/pictures-of-bed-bug-bites/)/), nymphs, fertilized females, eggs, and adults. When you consider controlling bed bugs ( *Cimex lectularious)*, knowing what to look for (pictures of bed bugs) is your best defense.
+Below Ive listed 99+ images/pictures of bed bugs, including [baby bed bugs](https://pestpolicy.com/baby-[bed-bugs](https://pestpolicy.com/pictures-of-bed-bug-bites/)/), nymphs, fertilized females, eggs, and adults. When you consider controlling bed bugs ( *Cimex lectularious)*, knowing what to look for (pictures of bed bugs) is your best defense.
 
-Bed bugs are flat- to oval-shaped reddish-brown insects that are 4-5 mm long. They suck blood while youre sleeping or resting - mainly at night. We all feel itching when we hear or read about these bugs - [psychosomatic effects](https: //www. theatlantic. com/health/archive/2014/10/bed-bug-madness-the-psychological-toll-of-the-blood-suckers/381447/). *So, what do bed bugs look like?
+Bed bugs are flat- to oval-shaped reddish-brown insects that are 4-5 mm long. They suck blood while youre sleeping or resting - mainly at night. We all feel itching when we hear or read about these bugs - [psychosomatic effects](https://www.theatlantic. com/health/archive/2014/10/bed-bug-madness-the-psychological-toll-of-the-blood-suckers/381447/). *So, what do bed bugs look like?
 
 Whats their size, color, and body shape compared to objects such as liberty coins, Petri dishes, Suitcase, etc.
 
@@ -63,7 +63,7 @@ Related: Vacuum to kill bed bugs, eggs in crevices, and cracks.
 
 Youll find most dead bed bugs to be shriveled and lying on their back. If you inspect your mattresses and box spring, you might notice signs of bed bugs.
 
-Some may include dead bed bugs or specks of blood. Have you found some dead bed bugs in your house? - Check the one below. - Bed bugs dont play or pretend to be dead - according to[**behavioral sociology**](https: //link. springer. com/article/10. 1007%2Fs00265-017-2436-8). - Therefore, any of them that remains entirely still after some disturbance is most likely dying or dead.
+Some may include dead bed bugs or specks of blood. Have you found some dead bed bugs in your house? - Check the one below. - Bed bugs dont play or pretend to be dead - according to[**behavioral sociology**](https://link.springer. com/article/10. 1007%2Fs00265-017-2436-8). - Therefore, any of them that remains entirely still after some disturbance is most likely dying or dead.
 
 Any bugs that are still alive will run away with subtle lighting ( **afraid of light** ) or disruption.
 
@@ -73,7 +73,7 @@ Image Credits: AFPMB [/caption] You might also want to inspect hidden areas like
 
 ###  **2. Pictures ofbaby bed bugs**
 
-Baby bed bugs will hatch from eggs (theyre pinhead-sized) and grow to be adults in only one month. But these insects will require a dry and warm environment. - Bed bug eggs ([nymphs](https: //www. epa. gov/bedbugs/bed-bugs-appearance-and-life-cycle)) are visible using your naked eye - theyre colored translucent (when freshly hatching) to whitish-yellow/ brownish as they continue feeding.
+Baby bed bugs will hatch from eggs (theyre pinhead-sized) and grow to be adults in only one month. But these insects will require a dry and warm environment. - Bed bug eggs ([nymphs](https://www.epa. gov/bedbugs/bed-bugs-appearance-and-life-cycle)) are visible using your naked eye - theyre colored translucent (when freshly hatching) to whitish-yellow/ brownish as they continue feeding.
 
 - After hatching from the eggs, baby Cimex lectularius quickly hunts for a good blood meal.
 
@@ -93,7 +93,7 @@ The eggs have round ends with an elongated and oval-shaped body. - The eggs are 
 
 The main difference between females vs. male bed bugs is that they have a rounded abdomen while the males have a pointed abdomen. [caption id="" align="aligncenter" width="228"]
 
-Source: [pegadambiental](http: //pegadambiental-sa. blogspot. com/2012/04/cimex-lectularius-em-espanha. html) [/caption] *Females*: Female bed bugs will only lay eggs if they mate with their male counterparts - they need the males sperm. Females have a [hemocoel](https: //www. mdpi. com/2075-4450/2/2/151) - an empty abdominal space to store their eggs.
+Source: [pegadambiental](http://pegadambiental-sa.blogspot. com/2012/04/cimex-lectularius-em-espanha. html) [/caption] *Females*: Female bed bugs will only lay eggs if they mate with their male counterparts - they need the males sperm. Females have a [hemocoel](https://www.mdpi. com/2075-4450/2/2/151) - an empty abdominal space to store their eggs.
 
 - After mating, the females will store sperm from the males and even draw from it to create mature eggs multiple times.
 
@@ -117,7 +117,7 @@ The bugs will hide for about 5 to 10 days; theyll digest the blood, mate, and la
 
 *Bed Bugs Engorged (Image A) Vs. Not Engorged (Image B) * [caption id="" align="aligncenter" width="641"]
 
-Image Credit: [Bed-bugs-handbook](http: //bed-bugs-handbook. com) [/caption]
+Image Credit: [Bed-bugs-handbook](http://bed-bugs-handbook.com) [/caption]
 
 ###  4. Bed bugs on Curtains
 
@@ -141,7 +141,7 @@ This made the neighbor feel like a bad mother that the kids had to endure all th
 
 ###  **5. Pictures of Bed Bug Bites**
 
-Bed bugs dont spread disease, but theyre expensive to exterminate and difficult to contain. - Some people also experience allergic reactions from bed bug bites - check the[pictures of bed bug bites](https: //pestpolicy. com/pictures-of-bed-bug-bites/).
+Bed bugs dont spread disease, but theyre expensive to exterminate and difficult to contain. - Some people also experience allergic reactions from bed bug bites - check the[pictures of bed bug bites](https://pestpolicy.com/pictures-of-bed-bug-bites/).
 
 In this video, Louis Sorkin (an entomologist) describes how bed bugs look and behave. - You should know thatmosquito bites, flea bites, and bed bug bites may look similar. But WebMD states that bed bug bites will be evident from itchy and red skin initially - particularly on shoulders and arms - they are allergic to.
 
@@ -155,7 +155,7 @@ To control these critters, place the suitcases in unique provided garbage bags a
 
 ###  **7. Bed bugs on Liberty Coin**
 
-Below is an image of a [comparison between a real adult bed bug](https: //pestpolicy. com/stink-bugs-vs-bed-bugs/) and a liberty coin.
+Below is an image of a [comparison between a real adult bed bug](https://pestpolicy.com/stink-bugs-vs-bed-bugs/) and a liberty coin.
 
 ###  **8. Bed bugs on Wiring**
 
@@ -164,3 +164,4 @@ Also, bed bugs will easily migrate from one room or house to another through Wir
 ##  Conclusion
 
 On thepictures of bed bugs; males wont lay eggs like their female counterparts. They all have six legs, are brown, and are about an apple seed in size. None of them will take care of the young nymphs or eggs.
+

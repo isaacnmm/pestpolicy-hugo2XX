@@ -1,4 +1,4 @@
----
+﻿---
 title: How to Apply Caulking in Hard to Reach Places
 description: Caulking is an indispensable skill for homeowners, essential for sealing gaps, preventing drafts, and protecting against moisture.
 slug: /how-to-apply-caulking-in-hard-to-reach-places/
@@ -72,3 +72,4 @@ Use a small, angled smoothing tool.
 * **High Up (Windows/Trim): ** Use a stable ladder. Ensure you can comfortably reach the area. Consider a longer-nosed caulk gun or an extender. Take breaks to reposition yourself and the ladder safely. * **Around Plumbing Pipes/Fixtures: ** Often requires small, precise beads. Use painter's tape right up to the pipe. A fine-tipped nozzle cut and a small smoothing tool are key.
 
 You might need to apply caulk around the curvature of the pipe in small segments.
+

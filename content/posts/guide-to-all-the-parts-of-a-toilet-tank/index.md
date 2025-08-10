@@ -1,4 +1,4 @@
----
+﻿---
 title: Guide to All the Parts Of a Toilet Tank
 description: The toilet, an essential fixture in every home, often goes unnoticed until a problem arises. When it starts running, not flushing properly, or making strange...
 slug: /guide-to-all-the-parts-of-a-toilet-tank/
@@ -39,7 +39,7 @@ While not strictly *inside* the tank where the water fills, the **O-ring seal** 
 * **Function:** Creates a watertight seal between the toilet tank and the toilet bowl, preventing leaks between the two sections. * **How it Works:** The O-ring is compressed between the tank and the bowl by the tank bolts, forming a tight seal. * **Common Issues:** Leaks between the tank and bowl, often caused by an old, brittle, or cracked O-ring. This requires loosening the tank bolts, replacing the gasket, and re-tightening.
 ---
 
-The [toilet](https: //pestpolicy. com/best-toilet-paper-for-septic/), an essential fixture in every home, often goes unnoticed until a problem arises. When it starts running, not flushing properly, or making strange noises, many homeowners feel a sense of dread, picturing expensive plumber visits. However, understanding the internal workings of your toilet tank is surprisingly simple.
+The [toilet](https://pestpolicy.com/best-toilet-paper-for-septic/), an essential fixture in every home, often goes unnoticed until a problem arises. When it starts running, not flushing properly, or making strange noises, many homeowners feel a sense of dread, picturing expensive plumber visits. However, understanding the internal workings of your toilet tank is surprisingly simple.
 
 The tank houses the crucial mechanisms that control flushing and refilling, and most common issues can be diagnosed and fixed with a basic knowledge of its components.
 
@@ -82,3 +82,4 @@ Understanding these basic toilet tank parts empowers you to diagnose and often f
 With a little patience and the right replacement part, you can keep your toilet functioning efficiently, saving water and avoiding unnecessary plumbing calls.
 
 Remember, when in doubt or if facing complex issues, don't hesitate to consult a professional plumber.
+
