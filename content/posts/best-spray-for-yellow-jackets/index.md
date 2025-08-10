@@ -1,25 +1,21 @@
-﻿---
+---
 title: Best Spray for Yellow Jackets
-description: Yellow Jackets also known as wasps or hornets are infamous for their painful stings and aggressive behavior, which can cause not only quick discomfort but...
+description: Yellow Jackets also known as wasps or hornets are infamous for their
+  painful stings and aggressive behavior, which can cause not only quick discomfort
+  but...
 slug: /best-spray-for-yellow-jackets/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Product Reviews
-
 - Wasps
 tags:
-
 - product-reviews
-
 - spray
-
 - yellow
 layout: post
 ---
-
 [Yellow Jackets (also known as wasps or hornets)](http://entnemdept.ufl.edu/creatures/urban/occas/hornet_yellowjacket.htm)are infamous for their painful stings and aggressive behavior, which can cause not only quick discomfort but also allergic reactions in pets and humans alike. - So, if you're seeking a peaceful and secure outdoor environment, it's crucial to have effective measures in place to deal with these stinging insects.
 
 I've provided helpful information on how you can select the best hornet and wasp [spray](https://pestpolicy.com/best-roach-spray/)to take out these bugs with speed, precision, and courage. In A Hurry? Check Our Top Picks 1. [TERRO T3300 Spray Wasp & Hornet Killer](https://www.amazon.com/dp/B007VN2G5G/?tag=p-policy-20)2. [Ortho Home-Defense Wasp & Hornet Killer](https://www.amazon.com/dp/B0784WG4FD/?tag=p-policy-20)3.

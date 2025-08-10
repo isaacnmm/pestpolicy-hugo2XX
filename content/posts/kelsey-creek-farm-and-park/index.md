@@ -1,25 +1,21 @@
-﻿---
+---
 title: Kelsey Creek Farm and Park
-description: Located in the heart of Bellevue, Washington, Kelsey Creek Farm and Park is a charming urban oasis that offers visitors a unique blend of natural beauty ,...
+description: Located in the heart of Bellevue, Washington, Kelsey Creek Farm and Park
+  is a charming urban oasis that offers visitors a unique blend of natural beauty
+  ,...
 slug: /kelsey-creek-farm-and-park/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Bellevue
-
 - Guide
 tags:
-
 - bellevue
-
 - kelsey
-
 - creek
 layout: post
 ---
-
 Located in the heart of [Bellevue](https://pestpolicy.com/mount-rainier-national-park/),Washington, Kelsey Creek Farm and Park is a charming urban oasis that offers visitors a [unique blend of natural beauty](https://bellevuewa.gov/city-government/departments/parks/community-centers/kelsey-creek-farm),historical significance, and educational opportunities.
 
 The park spans over 150 acres and is a beloved destination for families, nature enthusiasts, and anyone looking to experience the tranquility of farm life without leaving the city.

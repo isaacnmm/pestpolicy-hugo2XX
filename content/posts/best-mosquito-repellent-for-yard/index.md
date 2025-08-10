@@ -1,25 +1,20 @@
-﻿---
+---
 title: Best Mosquito Repellent for Yard
-description: Do you find yourself constantly worrying about your kids getting mosquitoes bites every time they are out playing in your backyard?
+description: Do you find yourself constantly worrying about your kids getting mosquitoes
+  bites every time they are out playing in your backyard?
 slug: /best-mosquito-repellent-for-yard/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Mosquitoes
-
 - Product Reviews
 tags:
-
 - mosquitoes
-
 - best
-
 - mosquito
 layout: post
 ---
-
 Do you find yourself constantly worrying about your kids getting [mosquitoes](https://pestpolicy.com/best-mosquito-yard-spray/)bites every time they are out playing in your backyard? Well, you should be. - Mosquitoes are responsible for almost[720, 000 deaths every year](https://www.isglobal.org/en_GB/-/mosquito-el-animal-mas-letal-del-mundo),with the biggest percentage being kids.
 
 - You can never go wrong with investing in a mosquito repellent for your yard.

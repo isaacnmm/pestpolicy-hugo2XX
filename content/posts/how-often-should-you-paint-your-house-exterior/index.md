@@ -1,23 +1,20 @@
-﻿---
+---
 title: How Often Should You Paint Your House Exterior
-description: Painting the exterior of your house is an important maintenance task that helps protect the structure from the elements while also improving its curb appeal.
+description: Painting the exterior of your house is an important maintenance task
+  that helps protect the structure from the elements while also improving its curb
+  appeal.
 slug: /how-often-should-you-paint-your-house-exterior/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Guide
 tags:
-
 - guide
-
 - often
-
 - should
 layout: post
 ---
-
 Painting the exterior of your house is an important maintenance task that helps protect the structure from the elements while also improving its curb appeal. However, the question of how often you [should](https://pestpolicy.com/how-often-should-you-repaint-interior-walls/)paint your house exterior can vary depending on several factors.
 
 In this article, we will explore the factors that influence how often you should repaint your house and provide some general guidelines to help you determine the best timing for your home.

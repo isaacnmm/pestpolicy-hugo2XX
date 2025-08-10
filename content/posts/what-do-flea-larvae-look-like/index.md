@@ -1,25 +1,21 @@
-﻿---
+---
 title: What Do Flea Larvae Look Like
-description: What do flea larvae look like? If you are concerned that you may have a flea problem, you are likely looking out for various signs. This article will look at...
+description: What do flea larvae look like? If you are concerned that you may have
+  a flea problem, you are likely looking out for various signs. This article will
+  look at...
 slug: /what-do-flea-larvae-look-like/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Fleas
-
 - Guide
 tags:
-
 - fleas
-
 - flea
-
 - larvae
 layout: post
 ---
-
 What do flea [larvae](https://pestpolicy.com/what-do-flea-larvae-eat/)look like? If you are concerned that you may have a flea problem, you are likely looking out for various signs. This article will look at what you might see when spotting flea larvae and what action to take. Read also; [what do flea larvae eat](https://pestpolicy.com/what-do-flea-larvae-eat/).
 
 [Fleas](https://pestpolicy.com/where-do-flea-larvae-live/) go through four different stages during their life cycle, the second of these stages being the [larvae stage](https://www.petmd.com/dog/parasites/6-facts-about-flea-larvae-you-need-know).

@@ -1,25 +1,21 @@
-﻿---
+---
 title: Diatomaceous Earth
-description: Diatomaceous earth, anyone? You probably were searching for remedies to the roach infestation in your home or a solution to fleas that have become a nuisance...
+description: Diatomaceous earth, anyone? You probably were searching for remedies
+  to the roach infestation in your home or a solution to fleas that have become a
+  nuisance...
 slug: /diatomaceous-earth/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Fleas
-
 - Guide
 tags:
-
 - fleas
-
 - earth
-
 - effect
 layout: post
 ---
-
 Diatomaceous earth, anyone? You probably were searching for remedies to the roach infestation in your home or a solution to fleas that have become a nuisance to your pet and stumbled on Diatomaceous [earth](http://npic.orst.edu/factsheets/degen.html).And now you are wondering what this Diatomaceous earth is. This article is going to lay down all the facts about Diatomaceous earth and its benefits.
 
 **Definition: ** Diatomaceous earth is a naturally occurring siliceous sedimentary rock made from fossilized tiny aquatic organisms. These tiny organisms are called diatoms, and they contain shells of single-cell hard-shelled algae-like water plants. Diatomaceous easily crumbles to form a white to an off-white fine powder.

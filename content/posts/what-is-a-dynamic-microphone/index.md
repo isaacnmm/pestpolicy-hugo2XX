@@ -1,25 +1,20 @@
-﻿---
+---
 title: What is a Dynamic Microphone
-description: So,what is a dynamic microphonehttpspestpolicy.combest-dynamic-microphone ? First, it's important to note that microphones work on the electromagnetic...
+description: So,what is a dynamic microphonehttpspestpolicy.combest-dynamic-microphone
+  ? First, it's important to note that microphones work on the electromagnetic...
 slug: /what-is-a-dynamic-microphone/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Guide
-
 - Mics
 tags:
-
 - guide
-
 - dynamic
-
 - microphone
 layout: post
 ---
-
 So, what is a [[dynamic](https://pestpolicy.com/best-dynamic-microphone-for-podcasting/)[microphone](https://pestpolicy.com/best-dynamic-microphone-for-streaming/)](https://pestpolicy.com/best-dynamic-microphone/)? First, it's important to note that [microphones](https://pestpolicy.com/types-of-microphones/)work on the electromagnetic principle through a diaphragm that's affixed to the wire coil.
 
 For the mic microphones, their sound waves will hit the diaphragm (metallic) that's attached to the wire coil. The diaphragm will vibrate making the magnet(the metallic coil) to create a magnetic field. The coil's motion in this magnetic field helps create an electrical signal that matches the sound which is picked - this is a theory referred to as [electromagnetic induction](https://www.bbc.co.uk/bitesize/guides/z8c7pbk/revision/4).

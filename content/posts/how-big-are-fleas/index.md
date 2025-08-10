@@ -1,25 +1,20 @@
-﻿---
+---
 title: How Big Are Fleas
-description: Fleas are tiny insects order Siphonaptera that exist parasitically sucking blood on hosts birds, mammals, and pets like dogs & cats. Key identifies of the...
+description: Fleas are tiny insects order Siphonaptera that exist parasitically sucking
+  blood on hosts birds, mammals, and pets like dogs & cats. Key identifies of the...
 slug: /how-big-are-fleas/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Fleas
-
 - Guide
 tags:
-
 - fleas
-
 - flea
-
 - size
 layout: post
 ---
-
 Fleas are tiny insects (order Siphonaptera) that exist parasitically (sucking blood) on hosts birds, mammals, and pets like dogs & cats. Key identifies of the fleas include their color which can vary from black, reddish-brown, or brown; visible with naked eyes but may hide in-larvae/) *furniture & carpet fibers, and animals coats or fur. * **But how big are fleas? Adult fleas are dark brown and will measure about 1. 4 - 3.
 
 3 millimeters in body length.

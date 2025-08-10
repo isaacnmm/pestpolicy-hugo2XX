@@ -1,25 +1,20 @@
-﻿---
+---
 title: Are Lizards Poisonous
-description: House lizards eat a great deal of insects in the house and some are kept as pets. But you might be worried about their possibility of harming you or...
+description: House lizards eat a great deal of insects in the house and some are kept
+  as pets. But you might be worried about their possibility of harming you or...
 slug: /are-lizards-poisonous/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Guide
-
 - Lizard
 tags:
-
 - guide
-
 - are
-
 - lizard
 layout: post
 ---
-
 House lizards eat a great deal of insects in the house and some are kept as pets. But you might be worried about their possibility of harming you or contaminating your food, milk or drinking water - but [Lizards are vertebrates](https://pestpolicy.com/are-lizards-vertebrates-or-invertebrates/).
 
 Lizards will bite you when they feel threatened. But are lizards poisonous? **Short answer is NO. Most house lizards are not poisonous. But they have viruses and bacteria on their skin which can cause serious illness when consumed by humans. ** **Only the Blue-tailed [lizard](https://pestpolicy.com/are-lizards-vertebrates-or-invertebrates/)has poison on the skin. A few lizards are known to have venomous bites.

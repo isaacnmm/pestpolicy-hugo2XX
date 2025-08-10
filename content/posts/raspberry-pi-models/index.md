@@ -1,23 +1,19 @@
-﻿---
+---
 title: Raspberry Pi Models
-description: Raspberry Pi Models are popular among single-board super-computing enthusiasts and is described as a small Linux-based computer on a single small board. -...
+description: Raspberry Pi Models are popular among single-board super-computing enthusiasts
+  and is described as a small Linux-based computer on a single small board. -...
 slug: /raspberry-pi-models/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Raspberry Pi 3
 tags:
-
 - raspberry-pi-3
-
 - best
-
 - raspberry
 layout: post
 ---
-
 [Raspberry](https://pestpolicy.com/best-raspberry-pi-3-starter-kits/)Pi Models are popular among single-board super-computing enthusiasts and is described as a small Linux-based computer on a single small board. - Raspberry Pi 1, released in 2012, may be used with the PC monitor or Television and with your standard mouse or keyboard.
 
 The credit-card-sized board (computer) allows you to undertake essential computer functions such as playing games and videos, processing word and excel documents using Python programs, and a fantastic [micro-SD card](https://pestpolicy.com/[best](https://pestpolicy.com/best-pcie-wireless-card-for-gaming/)-sd-card-for-raspberry-pi-3/).

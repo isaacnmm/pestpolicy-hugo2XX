@@ -1,25 +1,21 @@
-﻿---
+---
 title: Homemade Fruit Fly Trap
-description: How would you love a homemade fruit fly trap? At times, you may find your compound or house, especially the kitchen, overtaken by a swarm of fruit flies. -...
+description: How would you love a homemade fruit fly trap? At times, you may find
+  your compound or house, especially the kitchen, overtaken by a swarm of fruit flies.
+  -...
 slug: /homemade-fruit-fly-trap/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Flies
-
 - Guide
 tags:
-
 - flies
-
 - get
-
 - rid
 layout: post
 ---
-
 How would you love a homemade fruit fly trap? At times, you may find your compound or house, especially the kitchen, overtaken by a swarm of fruit [flies](https://pestpolicy.com/how-to-get-rid-of-drain-flies-in-septic-tank/).- This will upset you. Fruit flies will make your house look messy and unkempt. *Maybe you have even tried to remove the attractants of these fruit flies without succeeding?
 
 In this article, I've discussed the top fruit fly traps you can DIY.

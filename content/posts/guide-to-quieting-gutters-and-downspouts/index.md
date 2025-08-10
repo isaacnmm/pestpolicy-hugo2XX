@@ -1,21 +1,18 @@
-﻿---
+---
 title: Guide to Quieting Gutters and Downspouts
-description: The gentle pitter-patter of rain can be a soothing sound, but when it turns into an irritating drumming, clanging, or gurgling symphony emanating from your...
+description: The gentle pitter-patter of rain can be a soothing sound, but when it
+  turns into an irritating drumming, clanging, or gurgling symphony emanating from
+  your...
 slug: /guide-to-quieting-gutters-and-downspouts/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Gutters
-
 - Home Maintenance
 tags:
-
 - gutters
-
 - gutter
-
 - downspout
 layout: post
 ---

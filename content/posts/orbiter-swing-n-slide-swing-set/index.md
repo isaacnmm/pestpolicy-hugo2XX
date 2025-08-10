@@ -1,23 +1,19 @@
-﻿---
+---
 title: Orbiter Swing N Slide Swing Set
-description: Orbiter Swing-N-Slide is a more massive playset compared to other regular options. However, the playset offers superior quality play options at a reasonable...
+description: Orbiter Swing-N-Slide is a more massive playset compared to other regular
+  options. However, the playset offers superior quality play options at a reasonable...
 slug: /orbiter-swing-n-slide-swing-set/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Swing Sets
 tags:
-
 - swing-sets
-
 - orbiter
-
 - swing-n-slide
 layout: post
 ---
-
 Orbiter Swing-N-Slide is a more massive playset compared to other regular options. However, the playset offers superior quality [play options](https://www.csub.edu/~lwildman/21st_Schools/documents/Sch14.htm)at a reasonable price.
 
 The swing set will have an extensive 5-year warranty for the posts covered with WoodGuard, hardware, and swings. Read Also: [Outdoor Playsets for Toddlers](https://pestpolicy.com/best-outdoor-playsets-for-toddlers/).

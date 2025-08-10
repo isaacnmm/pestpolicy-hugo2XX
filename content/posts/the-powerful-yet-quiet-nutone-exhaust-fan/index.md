@@ -1,21 +1,17 @@
-﻿---
+---
 title: The Powerful Yet Quiet Nutone Exhaust Fan
-description: In the quest for a truly comfortable and healthy home environment, often the unsung heroes are the appliances working quietly behind the scenes.
+description: In the quest for a truly comfortable and healthy home environment, often
+  the unsung heroes are the appliances working quietly behind the scenes.
 slug: /the-powerful-yet-quiet-nutone-exhaust-fan/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Improvement
-
 - Bathroom
 tags:
-
 - improvement
-
 - powerful
-
 - yet
 ---
 ---

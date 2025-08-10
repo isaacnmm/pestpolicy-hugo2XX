@@ -1,25 +1,20 @@
-﻿---
+---
 title: What Are Small Brown Insects in My Kitchen
-description: What are small brown insects in my kitchenhttpspestpolicy.compet-safe-roach-killer ? This is the right place for you because we have prepared the right...
+description: What are small brown insects in my kitchenhttpspestpolicy.compet-safe-roach-killer
+  ? This is the right place for you because we have prepared the right...
 slug: /what-are-small-brown-insects-in-my-kitchen/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Guide
-
 - Moths
 tags:
-
 - guide
-
 - are
-
 - small
 layout: post
 ---
-
 What [are](https://pestpolicy.com/are-blue-tailed-lizards-poisonous/)[[small](https://pestpolicy.com/small-trampoline-for-toddlers/) brown insects in my kitchen](https://pestpolicy.com/pet-safe-roach-killer/)?This is the right place for you because we have prepared the right answers to this question. - Nobody wants bugs in their homes, but sometimes they are inevitable.
 
 There are many pantry bugs common in our kitchen, stores, and other parts of our household.

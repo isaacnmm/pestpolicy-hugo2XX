@@ -1,25 +1,20 @@
-﻿---
+---
 title: Termite Prevention
-description: In this article, I've outlined some termite prevention tips to help protect your structures from termites. Active fight against termites , including termite...
+description: In this article, I've outlined some termite prevention tips to help protect
+  your structures from termites. Active fight against termites , including termite...
 slug: /termite-prevention/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Guide
-
 - Termites
 tags:
-
 - guide
-
 - termite
-
 - prevention
 layout: post
 ---
-
 In this article, I've outlined some termite prevention tips to help protect your structures from termites. Active fight against [termites](http://npic.orst.edu/pest/termite.html),including termite fumigation and using the best termite killers. *In summary, termite prevention starts by reducing the wood-to-soil contract around the structures, remove the cardboard, paper, mulch, plants, wood, or lumber near the structure's foundation.
 
 Also, build a 4-inch termite barrier between your house and the mulch. *

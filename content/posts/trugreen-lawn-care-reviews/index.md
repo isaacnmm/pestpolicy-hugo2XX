@@ -1,23 +1,18 @@
-﻿---
+---
 title: Trugreen Lawn Care Reviews
-description: TruGreen stands as the undisputed titan of the professional lawn care industry in the United States, a household name synonymous with comprehensive turf...
+description: TruGreen stands as the undisputed titan of the professional lawn care
+  industry in the United States, a household name synonymous with comprehensive turf...
 slug: /trugreen-lawn-care-reviews/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Lawn Care
-
 - Services
-
 - Reviews
 tags:
-
 - lawn-care
-
 - trugreen
-
 - lawn
 layout: post
 ---

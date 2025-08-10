@@ -1,25 +1,21 @@
-﻿---
+---
 title: Can Bearded Dragons Eat Apples
-description: Can bearded dragons eat apples? Well, your bearded dragon deserve the right food and diet to maintain great health. Maybe some cucumbers, cabbage , or mango ....
+description: Can bearded dragons eat apples? Well, your bearded dragon deserve the
+  right food and diet to maintain great health. Maybe some cucumbers, cabbage , or
+  mango ....
 slug: /can-bearded-dragons-eat-apples/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Guide
-
 - Lizard
 tags:
-
 - guide
-
 - bearded
-
 - dragon
 layout: post
 ---
-
 Can bearded dragons eat apples? Well, your bearded dragon deserve the right food and diet to maintain great health. Maybe some cucumbers, cabbage, or mango. But most of us wonder; which food or snacks should your avoid or give to beardies? Well, bearded dragons eat a variety of foods like fruits, vegetables or commercial foods. *But can bearded dragons eat apple? Yes, bearded dragons will eat apples.
 
 However, for a healthy diet, peel the apple's skin and cut the fruit into small pieces.

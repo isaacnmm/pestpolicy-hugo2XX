@@ -1,25 +1,19 @@
-﻿---
+---
 title: Best Diy Lawn Care Programs and Services
-description: Dreaming of a lush, green lawn but prefer to handle the maintenance yourself? DIY lawn care programs and subscription services offer a fantastic middle ground...
+description: Dreaming of a lush, green lawn but prefer to handle the maintenance yourself?
+  DIY lawn care programs and subscription services offer a fantastic middle ground...
 slug: /best-diy-lawn-care-programs-and-services/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Lawn Care
-
 - Guides
-
 - Home Improvement
-
 - Services
 tags:
-
 - lawn-care
-
 - best
-
 - diy
 layout: post
 ---

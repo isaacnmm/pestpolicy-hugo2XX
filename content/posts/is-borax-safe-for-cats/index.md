@@ -1,25 +1,20 @@
-﻿---
+---
 title: Is Borax Safe for Cats
-description: Hey Pet Lovers & Pet Parents, Maybe you know that borax sodium borate is as a cleaner and antiseptic. Also, it's used in toothpastes, water softener,...
+description: Hey Pet Lovers & Pet Parents, Maybe you know that borax sodium borate
+  is as a cleaner and antiseptic. Also, it's used in toothpastes, water softener,...
 slug: /is-borax-safe-for-cats/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Fleas
-
 - Guide
 tags:
-
 - fleas
-
 - borax
-
 - safe
 layout: post
 ---
-
 Hey Pet Lovers & Pet Parents,
 
 Maybe you know that borax (sodium borate) is as a cleaner and antiseptic. Also, it's used in toothpastes, water softener, pesticide, and mouthwashes.

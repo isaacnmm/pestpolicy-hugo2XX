@@ -1,27 +1,22 @@
-﻿---
+---
 title: Springtime Sprinkler Tune Up
-description: As the chill of winter recedes and the vibrant greens of spring begin to emerge, thoughts often turn to preparing our lawns and gardens for the growing season.
+description: As the chill of winter recedes and the vibrant greens of spring begin
+  to emerge, thoughts often turn to preparing our lawns and gardens for the growing
+  season.
 slug: /springtime-sprinkler-tune-up/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Lawn Care
-
 - Gardening
-
 - Maintenance
 tags:
-
 - lawn-care
-
 - springtime
-
 - sprinkler
 layout: post
 ---
-
 As the chill of winter recedes and the vibrant greens of spring begin to emerge, thoughts often turn to preparing our lawns and gardens for the growing season. A critical, yet often overlooked, task in this seasonal transition is the springtime tune-up of your irrigation system. After months of dormancy, or perhaps exposure to freezing temperatures, your sprinkler system needs more than just flipping a switch to restart.
 
 It requires a thorough inspection and adjustment to ensure it's operating efficiently and effectively.

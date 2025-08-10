@@ -1,25 +1,21 @@
-﻿---
+---
 title: Can Bearded Dragons Eat Bananas
-description: Bananas musa spp are widely eaten at homes in cooked form or as snacks when ripe. It concerns many whether bearded dragons can feed on bananas, whether ripe...
+description: Bananas musa spp are widely eaten at homes in cooked form or as snacks
+  when ripe. It concerns many whether bearded dragons can feed on bananas, whether
+  ripe...
 slug: /can-bearded-dragons-eat-bananas/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Guide
-
 - Lizard
 tags:
-
 - guide
-
 - bearded
-
 - dragon
 layout: post
 ---
-
 [Bananas (*musa spp)*](http://hort.ufl.edu/trees/MUSSPPA.pdf)are widely eaten at homes in cooked form or as snacks when ripe. It concerns many whether [bearded dragons can feed](https://pestpolicy.com/what-do-bearded-dragons-eat/)on bananas, whether ripe or raw. May be you even wonders if banana peels, leaves or stems can be used to feed these lizards. *So, can bearded dragon eat bananas? The direct answer is YES!
 
 Bearded dragons will comfortably feed on bananas whether ripe or unripe.

@@ -1,25 +1,20 @@
-﻿---
+---
 title: What Do Bearded Dragons Eat
-description: What do bearded dragons eat? For a healthy life, it is important to feed your bearded dragon with a proper balanced diet.
+description: What do bearded dragons eat? For a healthy life, it is important to feed
+  your bearded dragon with a proper balanced diet.
 slug: /what-do-bearded-dragons-eat/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Guide
-
 - Lizard
 tags:
-
 - guide
-
 - dragon
-
 - eat
 layout: post
 ---
-
 What do bearded dragons eat? For a healthy life, it is important to feed your bearded dragon with a proper balanced diet. As a smart omnivore, this dragon either eats fruits, plant or animal products/ supplements. Maybe you have come across a bearded dragon in the fields, zoo or probably own one and wonders what this reptile eats. *So, what do Bearded Dragons Eat?
 
 Well, these reptiles feed on fruits such as tomatoes, apples, guavas, bananas, berries, figs, watermelons, mangoes, papayas, grapes, kiwi, apricots, pears or plums. * *Bearded Dragons can also feed on vegetables/greens such as cabbages, celery, sweet potatoes, peas, green beans, courgette, butternut squash, okra, bell pepper, clover, turnip green, mustard green, coriander or collard/ kales. *

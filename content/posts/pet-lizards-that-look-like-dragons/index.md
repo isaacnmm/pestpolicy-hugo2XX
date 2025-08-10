@@ -1,25 +1,20 @@
-﻿---
+---
 title: Pet Lizards That Look Like Dragons
-description: Pet lizards that look like dragons ? May be you have ever heard of dragon or seen them in movies. These eminent creatures depict great power and they are...
+description: Pet lizards that look like dragons ? May be you have ever heard of dragon
+  or seen them in movies. These eminent creatures depict great power and they are...
 slug: /pet-lizards-that-look-like-dragons/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Guide
-
 - Lizard
 tags:
-
 - guide
-
 - pet
-
 - lizard
 layout: post
 ---
-
 Pet lizards that look like **dragons** **? ** **May** be you have ever heard of dragon or seen them in movies. These eminent creatures depict great power and they are viewed differently from one community to another.
 
 Perhaps you may even desire to see a dragon live. Can you imagine having your own pet dragon at home? So, *what pet lizards that look like Dragon? * **In summary, ** *pet lizards that look like dragons include Chinese Water Dragons, Bearded Dragons, Red-Eyed Crocodile Skinks, Plumed Basilisks, Crested Geckos, Draco Lizards, Green Iguanas, Armadillo Lizards, Horned Lizards, Sailfin Dragons and Frilled Dragons among others. *

@@ -1,25 +1,21 @@
-﻿---
+---
 title: Dust Mites
-description: If your home has dust which is practically in every home there will be dust mites. These pests will eat dead skin flakes that have been shared by pets and...
+description: If your home has dust which is practically in every home there will be
+  dust mites. These pests will eat dead skin flakes that have been shared by pets
+  and...
 slug: /dust-mites/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Guide
-
 - Mites
 tags:
-
 - guide
-
 - dust
-
 - mite
 layout: post
 ---
-
 If your home has dust (which is practically in every home) there will be dust mites. These pests will eat dead skin flakes that have been shared by pets and humans. The microscopic organisms (invisible) [won't bite humans](https://pestpolicy.com/do-dust-mites-bite/)like is the case with bed bugs or head lice. If you have an indoor allergy, then dust mites can worsen your symptoms and so it is important to control them in your house.
 
 Unfortunately, dust mites are microscopic pests.

@@ -1,21 +1,17 @@
-﻿---
+---
 title: How to Make a Nontoxic Weed Killer
-description: Weeds are an inevitable part of gardening, often feeling like a relentless battle against nature's determination to fill every empty space.
+description: Weeds are an inevitable part of gardening, often feeling like a relentless
+  battle against nature's determination to fill every empty space.
 slug: /how-to-make-a-nontoxic-weed-killer/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Guides
-
 - Gardening
 tags:
-
 - guides
-
 - nontoxic
-
 - weed
 layout: post
 ---

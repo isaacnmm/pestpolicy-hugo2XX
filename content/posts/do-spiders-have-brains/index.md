@@ -1,25 +1,21 @@
-﻿---
+---
 title: Do Spiders Have Brains
-description: Invertebrates and vertebrates follow the Hallers Rule when considering the body size and brain comparison. For example, the ant's brain makes up 15 of its...
+description: Invertebrates and vertebrates follow the Hallers Rule when considering
+  the body size and brain comparison. For example, the ant's brain makes up 15 of
+  its...
 slug: /do-spiders-have-brains/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Guide
-
 - Spiders
 tags:
-
 - guide
-
 - spider
-
 - brain
 layout: post
 ---
-
 Invertebrates and vertebrates follow the Hallers Rule when considering the body size and brain comparison. For example, the ant's brain makes up 15% of its body mass. But, the difference is considerably bigger in spiders -m as outline din this [*Arthropod Structure & Development study*](http://www.sciencedirect.com/science/article/pii/S1467803911000727).
 
 Spiders are tiny arachnids that seem to be very intelligent for their small sized-body in web-weaving (some being even below 1 millimeter in body length). You can control them using [spider sprays](https://pestpolicy.com/best-spider-spray-for-indoors/)of [spider foggers](https://pestpolicy.com/best-fogger-for-spiders/).**But, do spiders have brains? Well, technically, spiders have no brains in the manner anatomy defines "brains".

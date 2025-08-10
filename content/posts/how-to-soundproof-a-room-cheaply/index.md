@@ -1,23 +1,19 @@
-﻿---
+---
 title: How to Soundproof a Room Cheaply
-description: Living in an urban area has its ups and downs. Among the major downsides of living in an urban area is having to deal with all sorts of noises from the...
+description: Living in an urban area has its ups and downs. Among the major downsides
+  of living in an urban area is having to deal with all sorts of noises from the...
 slug: /how-to-soundproof-a-room-cheaply/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Soundproofing
 tags:
-
 - soundproofing
-
 - room
-
 - cheaply
 layout: post
 ---
-
 Living in an urban area has its ups and downs. Among the major downsides of living in an urban area is having to deal with all sorts of noises from the external environment.
 
 It gets even worse if your home is made of modern walling materials such as drywall that allow more sound to pass through than traditional brick and mortar homes. Noise pollution is not something you should ignore especially if it is impossible to relocate to a different house. Read Also: Headphones for Music Production

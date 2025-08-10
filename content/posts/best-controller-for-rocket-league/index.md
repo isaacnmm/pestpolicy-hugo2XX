@@ -1,23 +1,20 @@
-﻿---
+---
 title: Best Controller for Rocket League
-description: With a suitable controller, it'll be much easier to do aerials and have favorable triggers - so, use the best controller for rocket league. - Also, with the...
+description: With a suitable controller, it'll be much easier to do aerials and have
+  favorable triggers - so, use the best controller for rocket league. - Also, with
+  the...
 slug: /best-controller-for-rocket-league/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Controllers
 tags:
-
 - controllers
-
 - controller
-
 - rocket
 layout: post
 ---
-
 With a suitable controller, it'll be much easier to do aerials and have favorable triggers - so, use the best controller for rocket league. - Also, with the controller, you can speed up slowly, which is better for dribbling.
 
 From my five years of Rocket League, I recommend either the [Microsoft Xbox 360](https://www.amazon.com/dp/B004QRKWLA/?tag=p-policy-20)or [Steam controller](https://www.amazon.com/dp/B016KBVBCS/?tag=p-policy-20)is the controller (in fast auto racing combined with soccer) for beginners and professional gamers. Read Also: Controller for Steam Link

@@ -1,21 +1,17 @@
-﻿---
+---
 title: Glacier Bay Power Flush One Piece Toilet
-description: When it comes to selecting a new toilet for your bathroom, the market offers a dizzying array of choices, from basic two-piece models to advanced smart...
+description: When it comes to selecting a new toilet for your bathroom, the market
+  offers a dizzying array of choices, from basic two-piece models to advanced smart...
 slug: /glacier-bay-power-flush-one-piece-toilet/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Improvement
-
 - Plumbing
 tags:
-
 - improvement
-
 - glacier
-
 - bay
 layout: post
 ---

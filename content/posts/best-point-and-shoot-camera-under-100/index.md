@@ -1,23 +1,19 @@
-﻿---
+---
 title: Best Point and Shoot Camera Under 100
-description: Most smartphone cameras have inadequate shooting features . But any point and shoot camera have optical zoom changing the perspective of shots, larger...
+description: Most smartphone cameras have inadequate shooting features . But any point
+  and shoot camera have optical zoom changing the perspective of shots, larger...
 slug: /best-point-and-shoot-camera-under-100/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Cameras
 tags:
-
 - cameras
-
 - best
-
 - point
 layout: post
 ---
-
 Most smartphone [cameras](https://pestpolicy.com/best-compact-cameras-under-300/)have [inadequate shooting features](https://www.cnet.com/news/10-ways-a-point-and-shoot-camera-beats-your-phones/).
 
 But any [point and shoot camera](https://en.wikipedia.org/wiki/Point-and-shoot_camera)have optical zoom (changing the perspective of shots), larger in-built sensor, and a powerful flash (great for backlit/ low light environments). I've reviewed the [best](https://pestpolicy.com/best-drones-for-still-photography/)point and shoot camera under 100.

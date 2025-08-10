@@ -1,23 +1,19 @@
-﻿---
+---
 title: Best Way to Apply Thermal Paste to Cpu
-description: The right choice of thermal paste is critical for optimal CPU temperatures. - But, the thermal paste application leads to different outcomes, which could...
+description: The right choice of thermal paste is critical for optimal CPU temperatures.
+- But, the thermal paste application leads to different outcomes, which could...
 slug: /best-way-to-apply-thermal-paste-to-cpu/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Raspberry Pi 3
 tags:
-
 - raspberry-pi-3
-
 - apply
-
 - thermal
 layout: post
 ---
-
 The right choice of thermal paste is critical for optimal CPU temperatures. - But, the thermal paste application leads to different outcomes, which could include damage to your CPU and motherboard. - Therefore, in this article, I discuss the best way to apply thermal paste to the CPU. Youll need to apply the Thermal Interface Material (thermal paste) either when upgrading your CPU or building a new PC. But why so?
 
 The thermal paste helps in heat dissipation from the PC heat sink and the CPU die. I would recommend the [Arctic Silver 5 AS5-3. 5G Thermal Paste](https://www.amazon.com/dp/B0087X728K/?tag=p-policy-20)on Amazon and I will be using it in this case study.

@@ -1,25 +1,20 @@
-﻿---
+---
 title: Standing Water in Yard
-description: Standing water in your yard, often manifesting as persistent puddles or squishy, waterlogged patches, is more than just an unsightly nuisance.
+description: Standing water in your yard, often manifesting as persistent puddles
+  or squishy, waterlogged patches, is more than just an unsightly nuisance.
 slug: /standing-water-in-yard/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Lawn Care
-
 - Landscaping
 tags:
-
 - lawn-care
-
 - standing
-
 - water
 layout: post
 ---
-
 Standing [water](https://pestpolicy.com/best-water-tables-for-1-year-old/)in your yard, often manifesting as persistent puddles or squishy, waterlogged patches, is more than just an unsightly nuisance. It can wreak havoc on your landscape, drowning desirable plants and turfgrass, creating breeding grounds for mosquitoes, and potentially leading to foundation issues for your home.
 
 A perpetually wet yard can also make outdoor activities unpleasant, turning what should be a usable space into a swampy hazard.

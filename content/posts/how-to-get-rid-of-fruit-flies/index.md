@@ -1,25 +1,21 @@
-﻿---
+---
 title: How to Get Rid Of Fruit Flies
-description: Fruit flies are tiny flying bugs that's attracted to rotting and over ripened fruits such as grapes, plums, strawberries, mangoes, and watermelon. Each female...
+description: Fruit flies are tiny flying bugs that's attracted to rotting and over
+  ripened fruits such as grapes, plums, strawberries, mangoes, and watermelon. Each
+  female...
 slug: /how-to-get-rid-of-fruit-flies/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Flies
-
 - Guide
 tags:
-
 - flies
-
 - rid
-
 - fruit
 layout: post
 ---
-
 Fruit flies are tiny flying bugs that's attracted to rotting and over ripened fruits such as grapes, plums, strawberries, mangoes, and watermelon.
 
 Each female will lay 500 eggs in summer and they'll develop to adults within 8 - 10 days. Fruit flies come [thrive in warmer temperatures](https://pestpolicy.com/where-do-fruit-flies-come-from/)with rotten fruits and vegetables laying their eggs in wall cracks, home kitchen, or in cafeterias, hotels, and restaurants. So, how to get [rid](https://pestpolicy.com/homemade-fruit-fly-trap/)of fruit flies?

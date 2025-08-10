@@ -1,25 +1,20 @@
-﻿---
+---
 title: Can Bearded Dragons Eat Onions
-description: Do you own one of these smart bearded dragonhttpspestpolicy.comhow-smart-are-bearded-dragons or have you seen one at you field or zoo and even wonder what...
+description: Do you own one of these smart bearded dragonhttpspestpolicy.comhow-smart-are-bearded-dragons
+  or have you seen one at you field or zoo and even wonder what...
 slug: /can-bearded-dragons-eat-onions/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Guide
-
 - Lizard
 tags:
-
 - guide
-
 - bearded
-
 - dragon
 layout: post
 ---
-
 Do you own one of these [smart bearded [dragon](https://pestpolicy.com/can-bearded-dragons-eat-apples/)](https://pestpolicy.com/how-smart-are-[bearded](https://pestpolicy.com/can-bearded-dragons-eat-bananas/)-dragons/)or have you seen one at you field or zoo and even wonder what they actually eat? But when it comes to other foods such as onions, you may need to pay a little bit of attention. *So, can bearded Dragon Eat Onions?
 
 * **The simple answer is No.

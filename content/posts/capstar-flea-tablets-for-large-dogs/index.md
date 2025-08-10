@@ -1,25 +1,20 @@
-﻿---
+---
 title: Capstar Flea Tablets for Large Dogs
-description: Capstar flea tablets for large dogs contain 57 mg of nitenpyram as its active ingredient and it's effective for killing adult...
+description: Capstar flea tablets for large dogs contain 57 mg of nitenpyram as its
+  active ingredient and it's effective for killing adult...
 slug: /capstar-flea-tablets-for-large-dogs/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Fleas
-
 - Product Reviews
 tags:
-
 - fleas
-
 - capstar
-
 - flea
 layout: post
 ---
-
 [Capstar](https://pestpolicy.com/capstar-flea-tablets-for-small-dogs/)flea tablets for large dogs contain 57 mg of nitenpyram as its active ingredient and it's effective for [killing adult fleas](https://pestpolicy.com/how-to-kill-fleas-on-dogs-naturally-safe-and-fast/).- The nitenpyram ingredient falls under the group of neonicotinoids.
 
 The oral tablet is effective and safe for killing fleas in large dogs.

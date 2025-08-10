@@ -1,25 +1,20 @@
-﻿---
+---
 title: Diatomaceous Earth for Fleas on Cats
-description: You might have noticed that your cat is scratching its fur more than usual, and some small creatures are falling off its skin. Your cat is most probably...
+description: You might have noticed that your cat is scratching its fur more than
+  usual, and some small creatures are falling off its skin. Your cat is most probably...
 slug: /diatomaceous-earth-for-fleas-on-cats/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Fleas
-
 - Guide
 tags:
-
 - fleas
-
 - earth
-
 - flea
 layout: post
 ---
-
 You might have noticed that your cat is scratching its fur more than usual, and some small creatures are falling off its skin. Your cat is most probably infected by [fleas](https://pestpolicy.com/diatomaceous-earth-for-fleas/),a nightmare to your cat, and you as well. There are many ways to get rid of fleas from cats. They include methods where you use chemicals and others where no chemicals are involved.
 
 The latter method is the use of [Diatomaceous [Earth](https://pestpolicy.com/diatomaceous-earth-for-fleas-on-dogs/)for Fleas](https://pestpolicy.com/diatomaceous-earth-for-fleas/).

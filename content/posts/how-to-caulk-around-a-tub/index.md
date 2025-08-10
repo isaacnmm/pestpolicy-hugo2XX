@@ -1,21 +1,17 @@
-﻿---
+---
 title: How to Caulk Around a Tub
-description: The caulk line around your bathtub and where the tub meets the surrounding walls often tiled is more than just a decorative finish.
+description: The caulk line around your bathtub and where the tub meets the surrounding
+  walls often tiled is more than just a decorative finish.
 slug: /how-to-caulk-around-a-tub/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Home Maintenance
-
 - Bathroom
 tags:
-
 - home-maintenance
-
 - tub
-
 - watertight
 layout: post
 ---

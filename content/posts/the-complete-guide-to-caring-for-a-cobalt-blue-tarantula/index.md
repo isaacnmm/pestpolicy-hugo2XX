@@ -1,25 +1,21 @@
-﻿---
+---
 title: The Complete Guide to Caring for a Cobalt Blue Tarantula
-description: Keeping a tarantula is not for the weak-hearted. Only a professional enthusiast or an award-winning entomologist should have a cobalt blue tarantula in their...
+description: Keeping a tarantula is not for the weak-hearted. Only a professional
+  enthusiast or an award-winning entomologist should have a cobalt blue tarantula
+  in their...
 slug: /the-complete-guide-to-caring-for-a-cobalt-blue-tarantula/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Guide
-
 - Spiders
 tags:
-
 - guide
-
 - caring
-
 - cobalt
 layout: post
 ---
-
 Keeping a tarantula is not for the weak-hearted. Only a professional enthusiast or an award-winning entomologist should have a cobalt blue tarantula in their home. Let's start by talking about [caring](https://pestpolicy.com/selecting-and-caring-for-a-live-christmas-tree/)for your cobalt blue tarantula spider. **Overview of Cobalt Blue Tarantula: ** Cobalt blue tarantulas are named after the color of their legs.
 
 In comparison, their bodies and carapaces are drab, with a grayish-blue color.

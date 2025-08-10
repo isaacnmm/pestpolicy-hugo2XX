@@ -1,27 +1,21 @@
-﻿---
+---
 title: How to Deal With Voles Field Mice in Your Yard or Garden
-description: Few things are as frustrating for a gardener or homeowner as discovering inexplicable damage to plants, trees, or lawn, only to realize the culprits are...
+description: Few things are as frustrating for a gardener or homeowner as discovering
+  inexplicable damage to plants, trees, or lawn, only to realize the culprits are...
 slug: /how-to-deal-with-voles-field-mice-in-your-yard-or-garden/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Pest Control
-
 - Gardening
-
 - Wildlife
 tags:
-
 - pest-control
-
 - vole
-
 - field
 layout: post
 ---
-
 Few things are as frustrating for a gardener or homeowner as discovering inexplicable damage to plants, trees, or lawn, only to realize the culprits are small, unassuming rodents. Often mistaken for moles or mice, voles commonly referred to as field mice are a pervasive nuisance that can wreak havoc on a landscape with their voracious appetites and tunneling habits.
 
 Unlike moles that feed on insects, voles are primarily herbivores, making a direct assault on the very plants you cherish.

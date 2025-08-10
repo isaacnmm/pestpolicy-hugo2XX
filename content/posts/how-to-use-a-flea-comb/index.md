@@ -1,25 +1,20 @@
-﻿---
+---
 title: How to Use a Flea Comb
-description: Here'show to use a flea comb.Hey, today I am here on my garage table with my dog Jake. I'll demonstrate how to use a flea comb on your cat or dog.
+description: Here'show to use a flea comb.Hey, today I am here on my garage table
+  with my dog Jake. I'll demonstrate how to use a flea comb on your cat or dog.
 slug: /how-to-use-a-flea-comb/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Fleas
-
 - Guide
 tags:
-
 - fleas
-
 - flea
-
 - comb
 layout: post
 ---
-
 Here'show to use a flea comb. Hey, today I am here on my garage table with my dog Jake. I'll demonstrate how to use a flea comb on your cat or dog. You'll not use chemicals, and thus it's a non-toxic process. **Note**: first, fleas live in the house (not on pets) - so, they'll temporarily jump on pets or pet owners. I recommend inspecting your pets if you find the pet starts frequently scratching, losing hair, or restless than usual.
 
 *If you need a short answer, place your cat/dog on a white or light-colored towel. Comb through your pet's hair slowly - start at the nip of the neck and work your way down. Make sure to cover the base of the back and the neck area. Finally, clean and vacuum the spaces you've used for flea combing. *

@@ -1,27 +1,21 @@
-﻿---
+---
 title: Go Native With Oakleaf Hydrangeas
-description: When gardeners think of hydrangeas, often the first image that comes to mind is the classic mophead or lacecap with their vibrant blues and pinks.
+description: When gardeners think of hydrangeas, often the first image that comes
+  to mind is the classic mophead or lacecap with their vibrant blues and pinks.
 slug: /go-native-with-oakleaf-hydrangeas/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Plants and Flowers
-
 - Guides
-
 - Gardening
 tags:
-
 - plants-and-flowers
-
 - native
-
 - oakleaf
 layout: post
 ---
-
 When gardeners think of hydrangeas, often the first image that comes to mind is the classic mophead or lacecap with their vibrant blues and pinks. However, there's a lesser-known, yet equally spectacular, native American species that deserves a prominent place in any garden: the **Oakleaf Hydrangea (Hydrangea quercifolia)**.
 
 Unlike its more common cousins, the oakleaf hydrangea offers a multi-season display of interest, boasting not just stunning flowers, but also unique foliage, rich fall color, and attractive exfoliating bark.

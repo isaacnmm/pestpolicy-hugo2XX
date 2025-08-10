@@ -1,25 +1,21 @@
-﻿---
+---
 title: What Does Bed Bug Poop Look Like
-description: What does bed bug poop look like? First, they're not solid and difficult to pick up - they'll readily smear like toothpaste since it looks like a liquid. Bed...
+description: What does bed bug poop look like? First, they're not solid and difficult
+  to pick up - they'll readily smear like toothpaste since it looks like a liquid.
+  Bed...
 slug: /what-does-bed-bug-poop-look-like/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Bed Bugs
-
 - Guide
 tags:
-
 - bed-bugs
-
 - bed
-
 - bug
 layout: post
 ---
-
 *What does bed bug poop look like? * First, they're not solid and difficult to pick up - they'll readily smear like toothpaste since it looks like a liquid. [Bed bugs](https://nysipm.cornell.edu/whats-bugging-you/[bed-bugs](https://pestpolicy.com/bed-bug-bites-vs-mosquito-bites/)/bed-bug-faqs///)will feed every 5 to 10 days and numb your pain using its anesthetic saliva ( see bed bug images ).
 
 You may notice eggs, *feces*, and skin castings on bed or old box spring.

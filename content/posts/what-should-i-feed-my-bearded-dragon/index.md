@@ -1,25 +1,20 @@
-﻿---
+---
 title: What Should I Feed My Bearded Dragon
-description: So, what should I feed my bearded dragon? Well, bearded dragons are pets that are feed on several vegetables, fruits, and insects. So, feed the bearded...
+description: So, what should I feed my bearded dragon? Well, bearded dragons are pets
+  that are feed on several vegetables, fruits, and insects. So, feed the bearded...
 slug: /what-should-i-feed-my-bearded-dragon/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Guide
-
 - Lizard
 tags:
-
 - guide
-
 - bearded
-
 - dragon
 layout: post
 ---
-
 So, what should I feed my [bearded](https://pestpolicy.com/can-bearded-dragons-eat-apples/)[dragon](https://pestpolicy.com/can-bearded-dragons-eat-bananas/)? Well, bearded dragons are pets that are feed on several vegetables, fruits, and insects. *So, feed the bearded dragons with fruits (tomatoes, mangoes, bananas or grapes, etc. ), vegetables (cabbages, broccoli, greens, pepper, sweet potato, or cucumber, etc.
 
 ), insects (king-worms, meal-worms, crickets, etc.

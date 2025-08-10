@@ -1,25 +1,20 @@
-﻿---
+---
 title: How to Treat Ant Bites
-description: Ant bites can be painful, cause swelling, itching , or allergic reactions , and you may require some soothing treatment.
+description: Ant bites can be painful, cause swelling, itching , or allergic reactions
+  , and you may require some soothing treatment.
 slug: /how-to-treat-ant-bites/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Ants
-
 - Guide
 tags:
-
 - ants
-
 - ant
-
 - bite
 layout: post
 ---
-
 Ant bites can be painful, cause swelling, [itching](https://www.webmd.com/skin-problems-and-treatments/guide/skin-conditions-pruritus),or [allergic reactions](https://www.webmd.com/allergies/guide/allergic-reaction-causes),and you may require some soothing treatment. In this article, I'll describe how to treat ant bites; what should I do? **To treat ant bites, hydrocortisone cream & antihistamine will ease the itching.
 
 Wash the bite area using water & soap, then smear some antiseptic and an antiseptic like calamine or hydrocortisone. ** **If there is swelling around the ant bite area, cold-compress that place with an ice pack. Other DIY remedies include apple cider vinegar, olive oil, baking soda & lemon juice, salt, toothpaste, cucumber, and honey. ** Let's check the details!

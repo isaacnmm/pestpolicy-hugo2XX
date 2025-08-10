@@ -1,23 +1,19 @@
-﻿---
+---
 title: Raising Men Lawn Care
-description: In a world often consumed by self-interest, stories of selfless acts shine as beacons of hope and inspiration. One such beacon is the "Raising Men Lawn Care...
+description: In a world often consumed by self-interest, stories of selfless acts
+  shine as beacons of hope and inspiration. One such beacon is the "Raising Men Lawn
+  Care...
 slug: /raising-men-lawn-care/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Community Service
-
 - Youth Empowerment
-
 - Lawn Care
 tags:
-
 - community-service
-
 - men
-
 - lawn
 layout: post
 ---

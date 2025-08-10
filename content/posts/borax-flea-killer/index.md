@@ -1,25 +1,20 @@
-﻿---
+---
 title: Borax Flea Killer
-description: Below I've described how you can use a borax flea killer an old-time flea control . But why, Borax? Well, it's budget-friendly, effective, all-natural...
+description: Below I've described how you can use a borax flea killer an old-time
+  flea control . But why, Borax? Well, it's budget-friendly, effective, all-natural...
 slug: /borax-flea-killer/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Fleas
-
 - Guide
 tags:
-
 - fleas
-
 - borax
-
 - flea
 layout: post
 ---
-
 Below I've described how you can use a borax flea killer (an [old-time flea control](https://www.google.com/patents/US4617188)). But why, Borax? Well, it's budget-friendly, effective, all-natural treatment, and safe around kids, cats, and dogs. - The Borax in your laundry room provides a safer way to control fleas - without using harsh chemicals. - Borax can help homeowners control flea problems in and around our homes - includingflea eggs? .
 
 Let's find out!

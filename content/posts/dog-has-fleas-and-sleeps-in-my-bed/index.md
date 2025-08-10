@@ -1,25 +1,21 @@
-﻿---
+---
 title: Dog Has Fleas and Sleeps in My Bed
-description: Sleeping with you are cat or dog on the bed is quite cozy and soothing but this may turn out different if the pet has fleas. - Psychological snuggling or...
+description: Sleeping with you are cat or dog on the bed is quite cozy and soothing
+  but this may turn out different if the pet has fleas. - Psychological snuggling
+  or...
 slug: /dog-has-fleas-and-sleeps-in-my-bed/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Fleas
-
 - Guide
 tags:
-
 - fleas
-
 - dog
-
 - flea
 layout: post
 ---
-
 Sleeping with you are cat or dog on the bed is quite cozy and soothing but this may turn out different if the pet has [fleas](https://pestpolicy.com/can-dog-fleas-transfer-to-humans/).- Psychological snuggling or sleeping next to your pet has been documented to[reduce anxiety and stress](https://www.sleepassociation.org/sleep-news/pets-may-help-you-sleep-better/)fromwork or school.
 
 So, youre wondering; your dog has fleas and sleeps in my bed, what should you do? Is it safe?

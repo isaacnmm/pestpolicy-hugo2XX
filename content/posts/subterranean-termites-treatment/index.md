@@ -1,25 +1,20 @@
-﻿---
+---
 title: Subterranean Termites Treatment
-description: Subterranean termites cause damages amounting to over a billion-dollar annually - try the Subterranean Termites Treatment.
+description: Subterranean termites cause damages amounting to over a billion-dollar
+  annually - try the Subterranean Termites Treatment.
 slug: /subterranean-termites-treatment/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Guide
-
 - Termites
 tags:
-
 - guide
-
 - termite
-
 - treatment
 layout: post
 ---
-
 Subterranean termites cause damages amounting to over a billion-dollar annually - try the Subterranean Termites [Treatment](https://pestpolicy.com/soil-treatment-for-termites/).Check these [termite images](https://pestpolicy.com/what-does-a-termite-look-like/).The insects will chew or gnaw wood and house items like filtration systems, swimming pool liners, insulation, books, and paper.
 
 Also, termites can cause emotional strain on homeowners.

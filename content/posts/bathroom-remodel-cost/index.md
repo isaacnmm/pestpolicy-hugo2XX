@@ -1,23 +1,19 @@
-﻿---
+---
 title: Bathroom Remodel Cost
-description: A bathroom remodel can be one of the most impactful home improvement projects, significantly enhancing both the functionality and aesthetic appeal of your...
+description: A bathroom remodel can be one of the most impactful home improvement
+  projects, significantly enhancing both the functionality and aesthetic appeal of
+  your...
 slug: /bathroom-remodel-cost/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Improvement
-
 - Bathroom
-
 - Guides
 tags:
-
 - improvement
-
 - bathroom
-
 - remodel
 layout: post
 ---

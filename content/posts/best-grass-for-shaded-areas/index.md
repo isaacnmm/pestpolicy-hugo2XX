@@ -1,25 +1,19 @@
-﻿---
+---
 title: Best Grass for Shaded Areas
-description: Growing a lush, green lawn in a shaded area can be one of the most persistent challenges for homeowners. While no grass will thrive in extremely dense, dark...
+description: Growing a lush, green lawn in a shaded area can be one of the most persistent
+  challenges for homeowners. While no grass will thrive in extremely dense, dark...
 slug: /best-grass-for-shaded-areas/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Lawn Care
-
 - Guides
-
 - Landscaping
-
 - Gardening
 tags:
-
 - lawn-care
-
 - gra
-
 - shaded
 layout: post
 ---

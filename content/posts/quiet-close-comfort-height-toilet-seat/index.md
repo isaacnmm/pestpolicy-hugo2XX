@@ -1,23 +1,19 @@
-﻿---
+---
 title: Quiet Close Comfort Height Toilet Seat
-description: In the realm of bathroom fixtures, the toilet seat often goes unnoticed until it fails to meet expectations. A slamming lid can be jarring, especially in the...
+description: In the realm of bathroom fixtures, the toilet seat often goes unnoticed
+  until it fails to meet expectations. A slamming lid can be jarring, especially in
+  the...
 slug: /quiet-close-comfort-height-toilet-seat/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Home Improvement
-
 - Bathroom
-
 - Plumbing
 tags:
-
 - home-improvement
-
 - comfort
-
 - height
 layout: post
 ---

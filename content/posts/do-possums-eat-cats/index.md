@@ -1,25 +1,20 @@
-﻿---
+---
 title: Do Possums Eat Cats
-description: The idea that possums eat cats is largely a misconception. Possums, being opportunistic omnivores and scavengers, primarily feed on fruits, insects, and small...
+description: The idea that possums eat cats is largely a misconception. Possums, being
+  opportunistic omnivores and scavengers, primarily feed on fruits, insects, and small...
 slug: /do-possums-eat-cats/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Guide
-
 - Moles
 tags:
-
 - guide
-
 - possum
-
 - eat
 layout: post
 ---
-
 The idea that possums eat cats is largely a misconception. Possums, being opportunistic omnivores and scavengers, primarily feed on fruits, insects, and small animals like rodents. - They do not actively hunt cats, and while they might scavenge the remains of a deceased cat, they do not pose a direct threat to living, healthy ones. Possums are more likely to compete with cats for food than to attack them.
 
 This article explores [possum](https://pestpolicy.com/do-possums-eat-chickens/)behavior, their dietary preferences, and the nature of their interactions with domestic cats, offering reassurance to pet owners and tips to prevent unwanted encounters.

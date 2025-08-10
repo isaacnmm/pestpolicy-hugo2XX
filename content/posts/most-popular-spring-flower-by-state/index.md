@@ -1,21 +1,17 @@
-﻿---
+---
 title: Most Popular Spring Flower by State
-description: Gardening is a deeply personal endeavor, often influenced by local climate, soil conditions, and individual preference. However, when it comes to celebrating...
+description: Gardening is a deeply personal endeavor, often influenced by local climate,
+  soil conditions, and individual preference. However, when it comes to celebrating...
 slug: /most-popular-spring-flower-by-state/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Guides
-
 - Gardening
 tags:
-
 - guides
-
 - spring
-
 - flower
 layout: post
 ---

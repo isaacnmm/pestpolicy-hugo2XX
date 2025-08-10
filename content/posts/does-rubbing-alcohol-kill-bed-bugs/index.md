@@ -1,25 +1,20 @@
-﻿---
+---
 title: Does Rubbing Alcohol Kill Bed Bugs
-description: So, your home or premises has become infested with bed bugs? Nobody wants toxic chemicals in their home. Before calling in an exterminator , try some natural,...
+description: So, your home or premises has become infested with bed bugs? Nobody wants
+  toxic chemicals in their home. Before calling in an exterminator , try some natural,...
 slug: /does-rubbing-alcohol-kill-bed-bugs/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Bed Bugs
-
 - Guide
 tags:
-
 - bed-bugs
-
 - doe
-
 - rubbing
 layout: post
 ---
-
 So, your home or premises has become infested with bed bugs? Nobody wants toxic chemicals in their home. *Before calling in an exterminator*, try some natural, homemade procedures such as rubbing alcohol, borax, bleach/), or Ammonia.
 
 And if you have little kids, youre probably looking for solutions that kill bed bugs and bed bug eggs naturally (in addition to having fast action). In this post, I've discussed how rubbing alcohol can [kill bed bugs](https://pestpolicy.com/does-lysol-kill-bed-bugs/).**Summary: The short answer is YES!

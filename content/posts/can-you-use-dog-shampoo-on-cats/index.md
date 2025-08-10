@@ -1,25 +1,20 @@
-﻿---
+---
 title: Can You Use Dog Shampoo on Cats
-description: This article will answer the question, "can you use dog shampoo on cats?" Unlike dogs, cats don't need to be bathed as often they keep their fur healthy and...
+description: This article will answer the question, "can you use dog shampoo on cats?"
+  Unlike dogs, cats don't need to be bathed as often they keep their fur healthy and...
 slug: /can-you-use-dog-shampoo-on-cats/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Fleas
-
 - Guide
 tags:
-
 - fleas
-
 - dog
-
 - shampoo
 layout: post
 ---
-
 This article will answer the question, "can you use dog shampoo on cats? "
 
 Unlike dogs, cats don't need to be bathed as often; they keep their fur healthy and clean using their tongue.

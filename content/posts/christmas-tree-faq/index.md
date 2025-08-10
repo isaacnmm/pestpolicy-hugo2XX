@@ -1,21 +1,17 @@
-﻿---
+---
 title: Christmas Tree Faq
-description: The Christmas tree stands as the quintessential symbol of the holiday season for many, bringing warmth, cheer, and that unmistakable pine scent into homes...
+description: The Christmas tree stands as the quintessential symbol of the holiday
+  season for many, bringing warmth, cheer, and that unmistakable pine scent into homes...
 slug: /christmas-tree-faq/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Guides
-
 - Holiday Decor
 tags:
-
 - guides
-
 - christma
-
 - tree
 layout: post
 ---

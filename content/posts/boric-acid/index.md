@@ -1,23 +1,20 @@
-﻿---
+---
 title: Boric Acid
-description: Boric acid, also known as orthoboric acid, boracic acid, and hydrogen borate is a boron-based but weak monobasic Lewis acid . Boric acid H 3 BO 3  is largely...
+description: Boric acid, also known as orthoboric acid, boracic acid, and hydrogen
+  borate is a boron-based but weak monobasic Lewis acid . Boric acid H 3 BO 3  is
+  largely...
 slug: /boric-acid/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Cockroaches
-
 - Guide
 tags:
-
 - cockroaches
-
 - acid
 layout: post
 ---
-
 Boric acid, also known as orthoboric acid, boracic acid, and hydrogen borate is a [boron-based](https://en.wikipedia.org/wiki/Boron)but weak monobasic [Lewis acid](https://en.wikipedia.org/wiki/Lewis_acid).
 
 Boric acid (H 3 BO 3 ) is largely used in many commercial products like neutron absorbers, preserving ingredients, flame retardants, [insecticides](https://pestpolicy.com/does-boric-acid-kill-roaches/),and [antiseptics](https://pubmed.ncbi.nlm.nih.gov/1712169/).- The white powder or colorless crystals of this Boric acid (first created by Wilhelm Homberg) will dissolve in water.

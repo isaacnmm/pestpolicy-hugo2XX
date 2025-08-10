@@ -1,25 +1,20 @@
-﻿---
+---
 title: Do Lizards Have Bones
-description: Probably you have come across various species of lizards in your home, compound, fields, yards, or zoo and wonder if they have bones.
+description: Probably you have come across various species of lizards in your home,
+  compound, fields, yards, or zoo and wonder if they have bones.
 slug: /do-lizards-have-bones/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Guide
-
 - Lizard
 tags:
-
 - guide
-
 - lizard
-
 - bone
 layout: post
 ---
-
 Probably you have come across various species of lizards in your home, compound, fields, yards, or zoo and wonder if they have bones. How then are their body muscles supported? So, *do lizards have bones? * **The direct answer is, YES, all ** lizards are vertebrates ** that have bones that are interconnected together to help them in locomotion. ** **The bones of lizards are classified under either appendicular skeleton or axial skeleton.
 
 These bones offer support, protection of internal organs, and options for attachment of body muscles and cells. The number of each bone varies according to size and species of lizard. **

@@ -1,21 +1,17 @@
-﻿---
+---
 title: How to Divide and Propagate Shrubs
-description: As your garden matures, many shrubs will grow larger, sometimes outgrowing their space or becoming less vigorous in their centers.
+description: As your garden matures, many shrubs will grow larger, sometimes outgrowing
+  their space or becoming less vigorous in their centers.
 slug: /how-to-divide-and-propagate-shrubs/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Guides
-
 - Gardening
 tags:
-
 - guides
-
 - divide
-
 - propagate
 layout: post
 ---

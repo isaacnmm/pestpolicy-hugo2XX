@@ -1,23 +1,19 @@
-﻿---
+---
 title: How Big Are Bearded Dragons
-description: The bearded dragons are docile and beautiful reptiles that you'll love for their low maintenance.In this article, I will let you know how big bearded dragons...
+description: The bearded dragons are docile and beautiful reptiles that you'll love
+  for their low maintenance.In this article, I will let you know how big bearded dragons...
 slug: /how-big-are-bearded-dragons/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Guide
-
 - Lizard
 tags:
-
 - guide
-
 - dragon
 layout: post
 ---
-
 The bearded dragons are docile and beautiful reptiles that you'll love for their low maintenance. In this article, I will let you know how big bearded dragons (Beardies) can grow while in captivity. **In brief, an adult (and fully-grown) bearded [dragon](https://pestpolicy.com/can-bearded-dragons-eat-apples/)will have a length of 16 - 24 inches and have a weight of between 380 - 510 grams.
 
 However, this reptile will be classified as unhealthy (suffering stunted growth) when it's under 300 grams all under 16 inches after one year - mainly due to cognitive or physical sickness. ** - **The bearded dragons reach sexual maturity at around 1 to 1. 5 years and this is when they achieve full size. ** If the Beardies length is more than 24 inches, then this could be a German giant or what we call an uncommon mophr.

@@ -1,23 +1,19 @@
-﻿---
+---
 title: Best Swing Set Under 200
-description: Are you thinking about getting your kids a swing set, but the cost is making you think otherwise? Well, most parents go through the same situation.
+description: Are you thinking about getting your kids a swing set, but the cost is
+  making you think otherwise? Well, most parents go through the same situation.
 slug: /best-swing-set-under-200/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Swing Sets
 tags:
-
 - swing-sets
-
 - set
-
 - reviewed
 layout: post
 ---
-
 Are you thinking about getting your kids a swing set, but the cost is making you think otherwise? Well, most parents go through the same situation. In this, I've reviewed Best Swing Set Under 200.
 
 These swing sets will give your kids hours of fun and excitement. Let's dive right in!

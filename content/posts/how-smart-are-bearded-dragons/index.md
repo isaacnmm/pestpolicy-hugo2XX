@@ -1,25 +1,20 @@
-﻿---
+---
 title: How Smart Are Bearded Dragons
-description: Bearded dragons are often hailed as one of the most intelligent reptiles, just behind some lizards. Do bearded dragons behave like mammals?
+description: Bearded dragons are often hailed as one of the most intelligent reptiles,
+  just behind some lizards. Do bearded dragons behave like mammals?
 slug: /how-smart-are-bearded-dragons/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Guide
-
 - Lizard
 tags:
-
 - guide
-
 - smart
-
 - dragon
 layout: post
 ---
-
 Bearded dragons are often hailed as one of the most intelligent reptiles, just behind some lizards.
 
 Do bearded dragons behave like mammals? Do they respond to training? It is possible to train them?

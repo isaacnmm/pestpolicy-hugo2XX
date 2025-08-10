@@ -1,25 +1,21 @@
-﻿---
+---
 title: Does Lysol Kill Bed Bugs
-description: Lysol is a disinfectant that kills germs, fungi, viruses, and bacteria on different surfaces . But, does Lysol kill bed bugs, including their eggs? So, in...
+description: Lysol is a disinfectant that kills germs, fungi, viruses, and bacteria
+  on different surfaces . But, does Lysol kill bed bugs, including their eggs? So,
+  in...
 slug: /does-lysol-kill-bed-bugs/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Bed Bugs
-
 - Guide
 tags:
-
 - bed-bugs
-
 - doe
-
 - lysol
 layout: post
 ---
-
 Lysol is a disinfectant that kills germs, fungi, viruses, and bacteria [on different surfaces](https://pestpolicy.com/best-drain-cleaner//).But, does Lysol kill bed bugs, including their eggs? So, in summary, does Lysol make for an effective pesticide for bed bugs? - Lysol will only kill bed bugs when your spray it on the bugs directly - drowning the bed bugs. Lysol is mainly a cleaning agent.
 
 - So, Lysol is unlikely to kill bed bugs (contrast this toBleach/)), but an exterminator can provide a more thorough and effective solution such as heat treatment.

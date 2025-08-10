@@ -1,23 +1,19 @@
-﻿---
+---
 title: Best Controller for Retropie
-description: The "reluctantly" good gamepads lack analog sticks and broader functionality. These include compatibility with 3-D titles and extra buttons, which is unlike...
+description: The "reluctantly" good gamepads lack analog sticks and broader functionality.
+  These include compatibility with 3-D titles and extra buttons, which is unlike...
 slug: /best-controller-for-retropie/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Controllers
 tags:
-
 - controllers
-
 - controller
-
 - retropie
 layout: post
 ---
-
 The "reluctantly" good gamepads lack analog sticks and broader functionality. These include compatibility with 3-D titles and extra buttons, which is unlike the Best Controller for Retropie that I review in this post.
 
 I conducted an analysis for Best Controller for Retropie using 2D games such as Darkstalkers, Samurai Shodown II, and The Last Blade. You can use the Retropie [controllers](https://pestpolicy.com/best-controller-for-rocket-league/)for your Retro-gaming Emulation build. For the 3D games, I used Splatoon 2 for your Nintendo 64; if you use your Raspberry Pi like a console emulator, download and run [Retropie](https://retropie.org.uk/).

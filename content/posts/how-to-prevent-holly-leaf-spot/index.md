@@ -1,21 +1,17 @@
-﻿---
+---
 title: How to Prevent Holly Leaf Spot
-description: Holly bushes Ilex species are prized landscape plants, offering year-round beauty with their glossy evergreen leaves and often vibrant red berries.
+description: Holly bushes Ilex species are prized landscape plants, offering year-round
+  beauty with their glossy evergreen leaves and often vibrant red berries.
 slug: /how-to-prevent-holly-leaf-spot/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Guides
-
 - Gardening
 tags:
-
 - guides
-
 - holly
-
 - leaf
 layout: post
 ---

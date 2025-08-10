@@ -1,23 +1,19 @@
-﻿---
+---
 title: Best Sd Card for Raspberry Pi 3
-description: After using different Raspberry Pi SD cards, I have to say that the Best SD card for Raspberry Pi 3 must have excellent 4K random read and 4K random write,...
+description: After using different Raspberry Pi SD cards, I have to say that the Best
+  SD card for Raspberry Pi 3 must have excellent 4K random read and 4K random write,...
 slug: /best-sd-card-for-raspberry-pi-3/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Raspberry Pi 3
 tags:
-
 - raspberry-pi-3
-
 - best
-
 - card
 layout: post
 ---
-
 After using different Raspberry Pi SD cards, I have to say that the Best SD card for Raspberry Pi 3 must have excellent 4K random read and 4K random write, and [wear-leveling algorithms](https://www.delkin.com/blog/learning-the-basics-about-ssd-wear-leveling-algorithms/).
 
 - I recommend the[Samsung Evo+32 GB](https://www.amazon.com/dp/B00WR4IJBE/?tag=p-policy-20)(with[*wear-leveling*](http://en.wikipedia.org/wiki/Wear_leveling))fortheir high4K random read (8. 58MB/sec) and 4K random write (3. 12 MB/sec), and excellentwear leveling. With excellent wear leveling and [proper SD card formatting](https://pestpolicy.com/how-to-format-sd-card-to-fat32/),writing on your Raspberry Pi SD card will be distributed and hence last longer.

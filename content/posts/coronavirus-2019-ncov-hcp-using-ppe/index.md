@@ -1,23 +1,19 @@
-﻿---
+---
 title: Coronavirus 2019 Ncov Hcp Using Ppe
-description: The coronavirus 2019-nCoV has become a global health concern, and healthcare personnel HCP are at the forefront of combating the disease.
+description: The coronavirus 2019-nCoV has become a global health concern, and healthcare
+  personnel HCP are at the forefront of combating the disease.
 slug: /coronavirus-2019-ncov-hcp-using-ppe/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Guide
 tags:
-
 - guide
-
 - coronaviru
-
 - healthcare
 layout: post
 ---
-
 The coronavirus (2019-nCoV) has become a global health concern, and healthcare personnel (HCP) are at the forefront of combating the disease. Proper use of personal protective equipment (PPE) is crucial for preventing the spread of the virus and protecting healthcare workers. This article provides a guide on how healthcare personnel can use PPE effectively when treating patients with suspected or confirmed COVID-19.
 
 ##  Types of PPE for Healthcare Personnel

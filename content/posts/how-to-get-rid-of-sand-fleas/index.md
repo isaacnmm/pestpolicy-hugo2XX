@@ -1,25 +1,21 @@
-﻿---
+---
 title: How to Get Rid Of Sand Fleas
-description: Spring is here and with it, sand fleas . In this article, I'll provide tips on how to get rid of sand fleas. - These tiny parasitic bugs inhabit humid beaches...
+description: Spring is here and with it, sand fleas . In this article, I'll provide
+  tips on how to get rid of sand fleas. - These tiny parasitic bugs inhabit humid
+  beaches...
 slug: /how-to-get-rid-of-sand-fleas/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Fleas
-
 - Guide
 tags:
-
 - fleas
-
 - rid
-
 - sand
 layout: post
 ---
-
 Spring is here and with it, [sand fleas](https://en.wikipedia.org/wiki/Tunga_penetrans).In this article, I'll provide tips on how to get [rid](https://pestpolicy.com/getting-rid-of-fleas-in-the-carpet/)of sand [fleas](https://pestpolicy.com/how-do-i-get-rid-of-fleas-in-my-house-without-bombing/).
 
 - These tiny parasitic bugs inhabit humid beaches or coastal climates and they're known for their bite, itchiness, and difficulty to get rid of.

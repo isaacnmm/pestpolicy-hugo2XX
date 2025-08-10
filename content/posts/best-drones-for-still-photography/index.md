@@ -1,25 +1,20 @@
-﻿---
+---
 title: Best Drones for Still Photography
-description: The world of photography has been transformed by drone technology or surveillance , opening up breathtaking aerial perspectives that were once impossible...
+description: The world of photography has been transformed by drone technology or
+  surveillance , opening up breathtaking aerial perspectives that were once impossible...
 slug: /best-drones-for-still-photography/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Cameras
-
 - Product Reviews
 tags:
-
 - cameras
-
 - best
-
 - drone
 layout: post
 ---
-
 The world of photography has been transformed by drone technology or [surveillance](https://www.brookings.edu/research/drones-and-aerial-surveillance-considerations-for-legislatures/),opening up breathtaking aerial perspectives that were once impossible without expensive helicopter rentals.
 
 *Summary: If you need a quick answer, I recommend either* [DJI Phantom 4 PRO](https://www.amazon.com/dp/B08RCHDW96/?tag=p-policy-20)or [DJI Inspire 2](https://www.amazon.com/dp/B06X9DS9PH/?tag=p-policy-20)*as your best drones for still photography. *

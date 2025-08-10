@@ -1,23 +1,19 @@
-﻿---
+---
 title: How to Remove Dry Paint from Carpet
-description: You should match the carpet cleaning solvent with the type of stain under removal. Otherwise, you may end up destroying your carpet.
+description: You should match the carpet cleaning solvent with the type of stain under
+  removal. Otherwise, you may end up destroying your carpet.
 slug: /how-to-remove-dry-paint-from-carpet/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - DIY Paintings
 tags:
-
 - diy-paintings
-
 - dry
-
 - paint
 layout: post
 ---
-
 You should match the carpet cleaning solvent with the type of stain under removal. Otherwise, you may end up destroying your carpet. Dried paint stain may even be more challenging - wrong procedure. *So, in this article, we shall be discussing how to remove dry paint from the carpet. To remove dry paint, you can either use laundry detergent and warm water, Denatured/Rubbing alcohol, washing machine and soap, or blot with Turpentine.
 
 * *Alternatively, you can opt to use Hairspray, commercial paint removers like Goo Gone, acetone, or mineral spirit, especially for small section paint stain. During the paint removal process, ensure the solvent is thinned or diluted appropriately (follow manufacturers instructions). *

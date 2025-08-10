@@ -1,23 +1,18 @@
-﻿---
+---
 title: Tips on Where and How to Install a Bathroom Vent Fan
-description: A well-functioning bathroom vent fan is a non-negotiable component of any healthy home. Its primary purpose is to exhaust humid air, steam, and odors,...
+description: A well-functioning bathroom vent fan is a non-negotiable component of
+  any healthy home. Its primary purpose is to exhaust humid air, steam, and odors,...
 slug: /tips-on-where-and-how-to-install-a-bathroom-vent-fan/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Home Improvement
-
 - Bathroom
-
 - HVAC
 tags:
-
 - home-improvement
-
 - where
-
 - how
 layout: post
 ---

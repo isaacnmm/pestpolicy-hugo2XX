@@ -1,25 +1,20 @@
-﻿---
+---
 title: How to Get Rid Of Drain Flies in Septic Tank
-description: The tiny moth-like bugs drain flies buzzing around your septic tank or drains-flies-in-the-basement are both a health hazard and a nuisance. The moist...
+description: The tiny moth-like bugs drain flies buzzing around your septic tank or
+  drains-flies-in-the-basement are both a health hazard and a nuisance. The moist...
 slug: /how-to-get-rid-of-drain-flies-in-septic-tank/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Flies
-
 - Guide
 tags:
-
 - flies
-
 - rid
-
 - drain
 layout: post
 ---
-
 The tiny moth-like bugs (drain flies) buzzing around your septic tank or [drains](https://pestpolicy.com/how-to-get-rid-of-[drain](https://pestpolicy.com/how-to-get-rid-of-drain-flies-in-the-bathroom/)-flies-in-the-basement/)are both a health hazard and a nuisance. The moist conditions including the organic matter in the septic tank allow the drain flies to reproduce fast.
 
 But fear not, I'll delve into ways you can use to get rid of drain flies in your septic tank.

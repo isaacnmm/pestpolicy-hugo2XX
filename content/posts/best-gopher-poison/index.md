@@ -1,23 +1,20 @@
-﻿---
+---
 title: Best Gopher Poison
-description: Gophers are herbivores and feed on different kinds of roots. They also eat leaves and some insects - try the best gopher poison. So if you see an area of dead...
+description: Gophers are herbivores and feed on different kinds of roots. They also
+  eat leaves and some insects - try the best gopher poison. So if you see an area
+  of dead...
 slug: /best-gopher-poison/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Product Reviews
 tags:
-
 - product-reviews
-
 - gopher
-
 - poison
 layout: post
 ---
-
 [Gophers](http://ipm.ucanr.edu/PMG/PESTNOTES/pn7433.html)are herbivores and feed on different kinds of roots. They also eat leaves and some insects - try the best gopher [poison](https://pestpolicy.com/best-poison-for-squirrels/).So if you see an area of dead grass, it might be because gophers have been eating up its roots.
 
 To tackle these pests, most people use [gopher](https://pestpolicy.com/best-gopher-traps/)baits that act as a poisonous meal. As gophers tend to use the existing tunnels, they might come across leftover bait that's lying around. It'll get attracted to the bait and end up eating it and die before you even find out about the presence of a new gopher.

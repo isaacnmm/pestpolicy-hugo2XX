@@ -1,25 +1,21 @@
-﻿---
+---
 title: How to Get Rid Of Roof Rats in Attic
-description: Have you recently discovered some activity in your attic and are afraid that it could be roof rats or black rats ? While it can be a worrying thought, it is...
+description: Have you recently discovered some activity in your attic and are afraid
+  that it could be roof rats or black rats ? While it can be a worrying thought, it
+  is...
 slug: /how-to-get-rid-of-roof-rats-in-attic/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Guide
-
 - Rats
 tags:
-
 - guide
-
 - rid
-
 - roof
 layout: post
 ---
-
 Have you recently discovered some activity in your attic and are afraid that it could be [roof rats or black rats](https://en.wikipedia.org/wiki/Black_rat)?While it can be a worrying thought, it is not uncommon for rats to inhabit less populated areas of a house.
 
 Attics provide an ideal location for rats looking for a warm, dark and quiet space where they can mate and reproduce safely.

@@ -1,25 +1,21 @@
-﻿---
+---
 title: How to Get Rid Of Ants Naturally Outside
-description: The first and foremost step in killing ants is to identify their nests and try to destroy them. For this purpose, one can use boiling water, by pouring it...
+description: The first and foremost step in killing ants is to identify their nests
+  and try to destroy them. For this purpose, one can use boiling water, by pouring
+  it...
 slug: /how-to-get-rid-of-ants-naturally-outside/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Ants
-
 - Guide
 tags:
-
 - ants
-
 - rid
-
 - ant
 layout: post
 ---
-
 The first and foremost step in killing [ants](https://en.wikipedia.org/wiki/[Ant](https://pestpolicy.com/how-to-get-rid-of-ants-in-car/))is to identify their nests and try to destroy them. For this purpose, one can use boiling water, by pouring it over the ant colony.
 
 Another way is to attract the [ants](https://pestpolicy.com/how-to-get-rid-of-ants-in-the-bathroom/)with some sugary product and use baking soda which will eventually kill them. Similarly, vinegar spray is also a very helpful method in getting rid of ants.

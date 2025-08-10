@@ -1,25 +1,21 @@
-﻿---
+---
 title: 12 Chic Eco Friendly Decor Ideas That Will Save the Planet and Your Wallet
-description: Transform your living space into an eco-friendly sanctuary with these 12 stylish decor ideas. Not only will they elevate your home aesthetics, but they also...
+description: Transform your living space into an eco-friendly sanctuary with these
+  12 stylish decor ideas. Not only will they elevate your home aesthetics, but they
+  also...
 slug: /12-chic-eco-friendly-decor-ideas-that-will-save-the-planet-and-your-wallet/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Guide
-
 - Home Decor
 tags:
-
 - guide
-
 - decor
-
 - will
 layout: post
 ---
-
 Transform your living space into an eco-friendly sanctuary with these 12 stylish decor ideas.
 
 Not only will they elevate your home aesthetics, but they also promote sustainability, proving that chic design and environmental consciousness can go hand in hand.

@@ -1,21 +1,18 @@
-﻿---
+---
 title: How to Install or Replace Gutters
-description: Gutters are an indispensable component of any home, quietly working to divert countless gallons of rainwater and snowmelt away from your roof, siding, and...
+description: Gutters are an indispensable component of any home, quietly working to
+  divert countless gallons of rainwater and snowmelt away from your roof, siding,
+  and...
 slug: /how-to-install-or-replace-gutters/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Gutters
-
 - Home Improvement
 tags:
-
 - gutters
-
 - replace
-
 - gutter
 layout: post
 ---

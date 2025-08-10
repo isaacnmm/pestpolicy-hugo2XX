@@ -1,23 +1,19 @@
-﻿---
+---
 title: How to Get Rid Of Gnats
-description: The presence of Gnats either the biting or the non-biting species can really be very disturbing and irritating since they keep moving rapidly in the entire...
+description: The presence of Gnats either the biting or the non-biting species can
+  really be very disturbing and irritating since they keep moving rapidly in the entire...
 slug: /how-to-get-rid-of-gnats/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Gnat
-
 - Guide
 tags:
-
 - gnat
-
 - rid
 layout: post
 ---
-
 The presence of Gnats (either the biting or the non-biting species) can really be very disturbing and irritating since they keep moving rapidly in the entire room.
 
 [Gnats have a lifespan of 7 to 21 days](https://pestpolicy.com/how-long-do-gnats-live/)**. ** Gnats will be attracted by some common things including stagnant water around our houses, unwashed dishes, spoilt food stuffs and decaying organic matter near your houses.

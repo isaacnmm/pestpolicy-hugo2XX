@@ -1,23 +1,20 @@
-﻿---
+---
 title: What Attracts Fleas
-description: Fleas will pose a hazard health to both pets and humans. So, ensure to flea-treat your cats & dogs - to avoid that massive infestation. But what attracts fleas?
+description: Fleas will pose a hazard health to both pets and humans. So, ensure to
+  flea-treat your cats & dogs - to avoid that massive infestation. But what attracts
+  fleas?
 slug: /what-attracts-fleas/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Fleas
-
 - Guide
 tags:
-
 - fleas
-
 - flea
 layout: post
 ---
-
 Fleas will pose a hazard (health) to both pets and humans. So, ensure to [flea-treat your cats](https://pestpolicy.com/best-flea-treatment-for-cats/)& dogs - to avoid that massive infestation. **But what attracts fleas? As they find a host, cat fleas are mainly attracted by thermal and visual stimuli (heat & light). Others include C02 & exhaled breath from humans, movement, darkness, food, and warmth.
 
 ** **Attraction Cues: ** - *Host size & color, time of day, carbon dioxide, physical contact, warmth, gravity, host odor, air currents, and light movement. * Related: Do Fleas Suck Blood

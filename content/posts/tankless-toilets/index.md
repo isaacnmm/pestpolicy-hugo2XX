@@ -1,21 +1,17 @@
-﻿---
+---
 title: Tankless Toilets
-description: For generations, the traditional toilet designcomprising a bowl and a bulky tank filled with waterhas been a ubiquitous feature in bathrooms worldwide.
+description: For generations, the traditional toilet designcomprising a bowl and a
+  bulky tank filled with waterhas been a ubiquitous feature in bathrooms worldwide.
 slug: /tankless-toilets/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Home Improvement
-
 - Plumbing
 tags:
-
 - home-improvement
-
 - tankle
-
 - toilet
 layout: post
 ---

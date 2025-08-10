@@ -1,23 +1,18 @@
-﻿---
+---
 title: Installing a Bathroom Vent Fan Through a Wall
-description: A well-functioning bathroom vent fan is essential for maintaining a healthy and comfortable home environment. It expels excess moisture, odors, and airborne...
+description: A well-functioning bathroom vent fan is essential for maintaining a healthy
+  and comfortable home environment. It expels excess moisture, odors, and airborne...
 slug: /installing-a-bathroom-vent-fan-through-a-wall/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Home Improvement
-
 - Bathroom
-
 - HVAC
 tags:
-
 - home-improvement
-
 - bathroom
-
 - vent
 layout: post
 ---

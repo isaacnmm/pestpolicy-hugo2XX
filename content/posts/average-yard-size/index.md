@@ -1,25 +1,20 @@
-﻿---
+---
 title: Average Yard Size
-description: The size of a residential yard in the United States is a topic of perpetual interest, reflecting shifting demographics, housing trends, and regional...
+description: The size of a residential yard in the United States is a topic of perpetual
+  interest, reflecting shifting demographics, housing trends, and regional...
 slug: /average-yard-size/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Lawn Care
-
 - Guides
 tags:
-
 - lawn-care
-
 - yard
-
 - size
 layout: post
 ---
-
 The size of a residential [yard](https://pestpolicy.com/how-to-fix-a-muddy-yard/)in the United States is a topic of perpetual interest, reflecting shifting demographics, housing trends, and regional preferences. From sprawling rural estates to compact urban green spaces, yard sizes vary dramatically across the country.
 
 Understanding these averages and the factors that influence them can offer valuable insights into housing markets, lifestyle choices, and the evolving American dream.

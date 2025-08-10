@@ -1,25 +1,20 @@
-﻿---
+---
 title: Do Gnats Bite Humans
-description: Gnat bite transmits diseases such as carrison, sandy fever, and river blindness among others. Therefore, preventive measures should be undertaken whatsoever.
+description: Gnat bite transmits diseases such as carrison, sandy fever, and river
+  blindness among others. Therefore, preventive measures should be undertaken whatsoever.
 slug: /do-gnats-bite-humans/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Gnats
-
 - Guide
 tags:
-
 - gnats
-
 - gnat
-
 - bite
 layout: post
 ---
-
 Gnat bite transmits diseases such as carrison, sandy fever, and river blindness among others. Therefore, [preventive measures](https://pestpolicy.com/best-gnat-repellents/)should be undertaken whatsoever. So, can [gnats](https://pestpolicy.com/best-gnat-repellents/)bite really! How and why, if so? - **Well, YES! the female gnats will bite humans & animals (to feed on blood).
 
 But male gnats don't bite humans since they feed on plant juice and flower nectar.

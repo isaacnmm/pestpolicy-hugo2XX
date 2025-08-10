@@ -1,25 +1,20 @@
-﻿---
+---
 title: Does Diatomaceous Earth Kill Bed Bugs
-description: Diatomaceous earth , commonly known as D. E, is a naturally occurring off-white soft, silicon-based sedimentary rock.It is composed of fossilized marine-based...
+description: Diatomaceous earth , commonly known as D. E, is a naturally occurring
+  off-white soft, silicon-based sedimentary rock.It is composed of fossilized marine-based...
 slug: /does-diatomaceous-earth-kill-bed-bugs/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Bed Bugs
-
 - Guide
 tags:
-
 - bed-bugs
-
 - doe
-
 - diatomaceou
 layout: post
 ---
-
 [Diatomaceous earth](http://npic.orst.edu/factsheets/degen.html),commonly known as D. E, is a naturally occurring off-white soft, silicon-based sedimentary rock. It is composed of fossilized marine-based algae called planktons. Under a microscope, it looks like shards of glass (silica is used to make glass). But does diatomaceous earth kill bed bugs (or even with vinegar)/)? *A simple answer is, YES, diatomaceous earth will kill bed bugs.
 
 The D. E particles stick to the insect's exoskeleton it punctures the carapace, thus, leaving the insect susceptible to dehydration. * *Also, when the insect inhales the powder, it cuts through the respiratory system and causes drying of the mucous membrane of breathing passages in the bug, thus, killing them. Related: Pictures of Bed Bugs. *

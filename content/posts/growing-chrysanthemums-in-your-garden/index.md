@@ -1,27 +1,22 @@
-﻿---
+---
 title: Growing Chrysanthemums in Your Garden
-description: As summer flowers fade and the days grow shorter, the garden can often feel a little forlorn. This is precisely when chrysanthemums, affectionately known as...
+description: As summer flowers fade and the days grow shorter, the garden can often
+  feel a little forlorn. This is precisely when chrysanthemums, affectionately known
+  as...
 slug: /growing-chrysanthemums-in-your-garden/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Plants and Flowers
-
 - Guides
-
 - Gardening
 tags:
-
 - plants-and-flowers
-
 - chrysanthemum
-
 - your
 layout: post
 ---
-
 As summer flowers fade and the days grow shorter, the garden can often feel a little forlorn. This is precisely when chrysanthemums, affectionately known as "mums, " burst onto the scene, painting the landscape with an extraordinary array of colors and forms. These vibrant perennials are the quintessential autumn flower, providing a stunning burst of late-season color that can last well into the first hard frosts.
 
 From their origins in Asia, where they symbolize longevity and nobility, chrysanthemums have been cultivated for centuries, resulting in an incredible diversity of bloom types, sizes, and colors. While often bought as potted plants for temporary fall decor, many varieties are hardy enough to thrive in the garden year after year, transforming [your](https://pestpolicy.com/how-can-you-tell-if-you-have-moles-in-your-yard/)autumn landscape into a spectacular display.

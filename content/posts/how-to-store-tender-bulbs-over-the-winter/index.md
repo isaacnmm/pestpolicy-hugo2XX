@@ -1,21 +1,17 @@
-﻿---
+---
 title: How to Store Tender Bulbs Over the Winter
-description: For gardeners in temperate climates, the vivid displays of Dahlias, Gladiolus, Cannas, and Begonias are highlights of the summer garden.
+description: For gardeners in temperate climates, the vivid displays of Dahlias, Gladiolus,
+  Cannas, and Begonias are highlights of the summer garden.
 slug: /how-to-store-tender-bulbs-over-the-winter/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Guides
-
 - Gardening
 tags:
-
 - guides
-
 - tender
-
 - bulb
 layout: post
 ---

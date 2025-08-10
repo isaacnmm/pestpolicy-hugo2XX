@@ -1,27 +1,21 @@
-﻿---
+---
 title: How to Keep Dogs Off Lawn
-description: For many homeowners, a lush, green lawn is a point of pride, a beautiful backdrop for outdoor living. However, this verdant carpet can quickly become a...
+description: For many homeowners, a lush, green lawn is a point of pride, a beautiful
+  backdrop for outdoor living. However, this verdant carpet can quickly become a...
 slug: /how-to-keep-dogs-off-lawn/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Lawn Care
-
 - Pest Control
-
 - Guides
 tags:
-
 - lawn-care
-
 - dog
-
 - false
 layout: post
 ---
-
 For many homeowners, a lush, green lawn is a point of pride, a beautiful backdrop for outdoor living. However, this verdant carpet can quickly become a patchwork of yellow spots, divots, and worn paths when active dogs are in the picture.
 
 While our beloved canine companions bring joy to our lives, their natural behaviors from urinating and defecating to digging and running can pose significant challenges to maintaining a healthy and attractive lawn.

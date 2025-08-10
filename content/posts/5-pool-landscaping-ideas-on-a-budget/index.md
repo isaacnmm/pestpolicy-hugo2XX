@@ -1,27 +1,22 @@
-﻿---
+---
 title: 5 Pool Landscaping Ideas on a Budget
-description: A backyard pool is often the focal point of outdoor living, offering a refreshing escape during hot summer days and a gathering spot for friends and family.
+description: A backyard pool is often the focal point of outdoor living, offering
+  a refreshing escape during hot summer days and a gathering spot for friends and
+  family.
 slug: /5-pool-landscaping-ideas-on-a-budget/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Landscaping
-
 - Outdoor Living
-
 - Budget
 tags:
-
 - landscaping
-
 - pool
-
 - budget
 layout: post
 ---
-
 A backyard pool is often the focal point of outdoor living, offering a refreshing escape during hot summer days and a gathering spot for friends and family. However, transforming the area around your pool into a true "backyard paradise" can seem like an expensive endeavor. High-end hardscaping, elaborate water features, and exotic plant selections can quickly drain your budget.
 
 The good news is that creating a beautiful, functional, and inviting pool landscape doesn't require an unlimited bank account.

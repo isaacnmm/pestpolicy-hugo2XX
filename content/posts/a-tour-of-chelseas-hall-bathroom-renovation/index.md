@@ -1,21 +1,17 @@
-﻿---
+---
 title: A Tour Of Chelseas Hall Bathroom Renovation
-description: Step inside and prepare to be inspired! Today, we're taking an exclusive tour of Chelsea's recently completed hall bathroom renovation  a project that...
+description: Step inside and prepare to be inspired! Today, we're taking an exclusive
+  tour of Chelsea's recently completed hall bathroom renovation  a project that...
 slug: /a-tour-of-chelseas-hall-bathroom-renovation/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Bathroom
-
 - Improvement
 tags:
-
 - bathroom
-
 - tour
-
 - chelsea
 ---
 ---

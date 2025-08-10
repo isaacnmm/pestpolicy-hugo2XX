@@ -1,25 +1,20 @@
-﻿---
+---
 title: Can Bearded Dragons Eat Mushrooms
-description: Bearded dragons enjoy a diverse and balanced diet that includes leafy greens such as collard greens and cabbage , as well as vegetables like bell peppers,...
+description: Bearded dragons enjoy a diverse and balanced diet that includes leafy
+  greens such as collard greens and cabbage , as well as vegetables like bell peppers,...
 slug: /can-bearded-dragons-eat-mushrooms/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Guide
-
 - Lizard
 tags:
-
 - guide
-
 - are
-
 - mushroom
 layout: post
 ---
-
 Bearded dragons enjoy a diverse and balanced diet that includes leafy greens such as collard greens and cabbage, as well as vegetables like bell peppers, tomatoes, and carrots. However, it is crucial to carefully assess the food you offer to these unique and docile reptiles, as some foods may be unsafe for their consumption. So, mushrooms: [are](https://pestpolicy.com/are-blue-tailed-lizards-poisonous/)they safe for Bearded Dragons?
 
 *In summary, it's generally unsafe to feed mushrooms to bearded dragons - despite these bites having essential nutrients. Although mushrooms have essential nutrients, many varieties, including wild mushrooms, are toxic to reptiles, including bearded dragons.

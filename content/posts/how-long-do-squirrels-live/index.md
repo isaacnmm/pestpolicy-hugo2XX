@@ -1,25 +1,20 @@
-﻿---
+---
 title: How Long Do Squirrels Live
-description: Have you come across squirrels in your garden? But do you ever ask yourself how long do squirrels live? Did you know that there are different species of...
+description: Have you come across squirrels in your garden? But do you ever ask yourself
+  how long do squirrels live? Did you know that there are different species of...
 slug: /how-long-do-squirrels-live/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Guide
-
 - Squirrels
 tags:
-
 - guide
-
 - squirrel
-
 - live
 layout: post
 ---
-
 Have you come across squirrels in your garden? But do you ever ask yourself how long do squirrels [live](https://pestpolicy.com/can-no-see-ums-live-in-my-hair/)?Did you know that there are different species of squirrels ( just like with chipmunks ) and they have a different life span and Well, I was in the same situation as you a few years back when I had squirrels all over my garden. This prompted me into finding out more about squirrels.
 
 Here is what I found. Related: Squirrels Poison

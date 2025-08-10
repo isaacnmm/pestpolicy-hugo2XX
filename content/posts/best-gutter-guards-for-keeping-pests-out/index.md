@@ -1,23 +1,18 @@
-﻿---
+---
 title: Best Gutter Guards for Keeping Pests Out
-description: Gutters, when clogged with leaves, twigs, and standing water, become ideal breeding grounds and nesting sites for a variety of unwelcome pests.
+description: Gutters, when clogged with leaves, twigs, and standing water, become
+  ideal breeding grounds and nesting sites for a variety of unwelcome pests.
 slug: /best-gutter-guards-for-keeping-pests-out/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Gutters
-
 - Gutter Guards
-
 - Pest Control
 tags:
-
 - gutters
-
 - best
-
 - gutter
 layout: post
 ---

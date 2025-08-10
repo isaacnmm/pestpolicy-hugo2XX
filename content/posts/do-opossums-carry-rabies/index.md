@@ -1,25 +1,20 @@
-﻿---
+---
 title: Do Opossums Carry Rabies
-description: Opossums go through garbage, hunt mice and snakes , and hang around roadkill - which exposes them to dangerous diseases like rabies. So, the question is do...
+description: Opossums go through garbage, hunt mice and snakes , and hang around roadkill
+- which exposes them to dangerous diseases like rabies. So, the question is do...
 slug: /do-opossums-carry-rabies/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Guide
-
 - Raccoons
 tags:
-
 - guide
-
 - opossum
-
 - carry
 layout: post
 ---
-
 Opossums go through garbage, hunt mice and snakes, and hang around roadkill - which exposes them to dangerous diseases like rabies.
 
 So, the question is: do opossums [carry](https://pestpolicy.com/do-squirrels-carry-ticks/)rabies? **In brief, NO, Opossum/ possums are very unlikely to carry rabies. Opossums' body temperature is too low to inhibit the rabies virus compared to other wildlife like foxes, skunks, raccoons, and bats. **

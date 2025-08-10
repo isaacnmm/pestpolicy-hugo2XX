@@ -1,25 +1,21 @@
-﻿---
+---
 title: Can Dog Fleas Transfer to Humans
-description: Recently my friend, Jane, got a healthy-looking dog. Sadly , the dog was flea-infested. Jane applied flea shampoo on the dog to save the situation. But, she's...
+description: Recently my friend, Jane, got a healthy-looking dog. Sadly , the dog
+  was flea-infested. Jane applied flea shampoo on the dog to save the situation. But,
+  she's...
 slug: /can-dog-fleas-transfer-to-humans/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Fleas
-
 - Guide
 tags:
-
 - fleas
-
 - dog
-
 - flea
 layout: post
 ---
-
 Recently my friend, Jane, got a healthy-looking dog. **Sadly**, the dog was flea-infested. Jane applied flea shampoo on the dog to save the situation. But, she's still worried whether "Dog [Fleas](https://pestpolicy.com/dog-has-fleas-and-sleeps-in-my-bed/)Transfer to Humans? " Can the bugs jump/ bite him, his kids, or his wife? I seek to answer these questions in this short post. **The simple answer is Yes**.
 
 [Dog fleas (Ctenocephalidescanis](https://pestpolicy.com/best-[flea](https://pestpolicy.com/how-to-tell-if-your-dog-has-fleas/)-combs-for-dogs/)) will sometimes jump onto humans, bite them and suck blood - although they mainly suck blood from dogs and cats. Scientific research shows that fleas will quickly move to another and hitchhike people as they move to other houses, just like the [over 2, 000 flea species](https://ohioline.osu.

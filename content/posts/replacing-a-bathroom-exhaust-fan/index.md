@@ -1,23 +1,19 @@
-﻿---
+---
 title: Replacing a Bathroom Exhaust Fan
-description: A functional bathroom exhaust fan is a silent guardian against moisture damage, mold growth, and unpleasant odors in one of the most humid rooms in your home.
+description: A functional bathroom exhaust fan is a silent guardian against moisture
+  damage, mold growth, and unpleasant odors in one of the most humid rooms in your
+  home.
 slug: /replacing-a-bathroom-exhaust-fan/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Home Maintenance
-
 - Bathroom
-
 - HVAC
 tags:
-
 - home-maintenance
-
 - bathroom
-
 - exhaust
 layout: post
 ---

@@ -1,21 +1,17 @@
-﻿---
+---
 title: Leaf Filter Reviews
-description: Clogged gutters are a leading cause of expensive home damage, from foundation cracks and basement flooding to fascia rot and landscape erosion.
+description: Clogged gutters are a leading cause of expensive home damage, from foundation
+  cracks and basement flooding to fascia rot and landscape erosion.
 slug: /leaf-filter-reviews/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Gutters
-
 - Gutter Guards
 tags:
-
 - gutters
-
 - leaffilter
-
 - gutter
 layout: post
 ---

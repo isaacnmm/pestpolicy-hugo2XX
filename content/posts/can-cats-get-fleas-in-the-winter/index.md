@@ -1,25 +1,20 @@
-﻿---
+---
 title: Can Cats Get Fleas in the Winter
-description: The drier regions of the Midwest and Southwest have a "flea season" in some months of the year. But in balmy states such as Florida, fleas are highly active...
+description: The drier regions of the Midwest and Southwest have a "flea season" in
+  some months of the year. But in balmy states such as Florida, fleas are highly active...
 slug: /can-cats-get-fleas-in-the-winter/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Fleas
-
 - Guide
 tags:
-
 - fleas
-
 - get
-
 - flea
 layout: post
 ---
-
 The drier regions of the Midwest and Southwest have a "flea season" in some months of the year. But in balmy states such as Florida, fleas are highly active and reproduce throughout the year. So, its no brainer that one reader asked: Can cats get fleas in the winter regardless of my region? **The simple answer is YES** - But, cats have lower chances of getting fleas during winter since fleas remain dormant in this season.
 
 However, the warm environment in the house (due to central heating) allows fleas to stay active even during the cold season and thus attack cats.

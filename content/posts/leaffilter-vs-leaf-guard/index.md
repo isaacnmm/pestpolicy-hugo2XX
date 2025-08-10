@@ -1,21 +1,17 @@
-﻿---
+---
 title: Leaffilter Vs Leaf Guard
-description: When it comes to top-tier, professionally installed gutter protection systems, LeafFilter and LeafGuard are two of the most recognized names in the industry.
+description: When it comes to top-tier, professionally installed gutter protection
+  systems, LeafFilter and LeafGuard are two of the most recognized names in the industry.
 slug: /leaffilter-vs-leaf-guard/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Gutters
-
 - Gutter Guards
 tags:
-
 - gutters
-
 - leaffilter
-
 - leafguard
 layout: post
 ---

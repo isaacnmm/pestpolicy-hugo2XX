@@ -1,25 +1,21 @@
-﻿---
+---
 title: Do Fleas Stay on Humans
-description: So, do fleas stay on humans?If you're like most humans, you'll start scratching just with the mention of bed bugs. However, fleas bites on humans are only...
+description: So, do fleas stay on humans?If you're like most humans, you'll start
+  scratching just with the mention of bed bugs. However, fleas bites on humans are
+  only...
 slug: /do-fleas-stay-on-humans/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Fleas
-
 - Guide
 tags:
-
 - fleas
-
 - flea
-
 - stay
 layout: post
 ---
-
 So, do fleas stay on humans? If you're like most humans, you'll start scratching just with the mention of bed bugs. However, fleas bites on humans are only incidental. But adult fleas will bite and suck blood from humans, cats, dogs, and outdoor animals like opossums, foxes, and rodents both for survival and reproduction purposes. - *So, in this post, I've answered this question "do fleas stay on humans? " **The short answer is YES and NO!
 
 **Cat fleas can survive and breed by feeding exclusively on human blood. Female fleas must suck human blood for many hours to reproduce effectively. This is only possible in laboratory settings. Most fleas species can't live in humans because we lack hair. * - *But human fleas have elongated hind legs and measure about 1. 5-3mm, which allows them to hide under the human skin for a bit longer.

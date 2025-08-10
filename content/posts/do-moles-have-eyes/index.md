@@ -1,25 +1,21 @@
-﻿---
+---
 title: Do Moles Have Eyes
-description: From an outward look, moles appear not to have eyes! But how do they manage to dig tunnels and destroy our gardens? Moles will do anything that is done by...
+description: From an outward look, moles appear not to have eyes! But how do they
+  manage to dig tunnels and destroy our gardens? Moles will do anything that is done
+  by...
 slug: /do-moles-have-eyes/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Guide
-
 - Moles
 tags:
-
 - guide
-
 - mole
-
 - eye
 layout: post
 ---
-
 From an outward look, moles appear not to have eyes! But how do they manage to dig tunnels and destroy our gardens?
 
 Moles will do anything that is done by animals that have eyes. They dig tunnels, move around, look for food, mate and also evade enemies. But do they have eyes? **Short answer is YES Moles have eyes which are covered by a fur and a thin membrane. These eyes cant see things but can differentiate light and dark. Their eyes help them in knowing time periods and seasons of the year. **

@@ -1,25 +1,20 @@
-﻿---
+---
 title: Can Bed Bugs Live in Your Skin
-description: Bed bugs will feed on your bare or hairless skin areas - including legs, arms, face, and neck. For starters, bed bug bites will appear as tiny red welts...
+description: Bed bugs will feed on your bare or hairless skin areas - including legs,
+  arms, face, and neck. For starters, bed bug bites will appear as tiny red welts...
 slug: /can-bed-bugs-live-in-your-skin/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Bed Bugs
-
 - Guide
 tags:
-
 - bed-bugs
-
 - bed
-
 - bug
 layout: post
 ---
-
 Bed bugs will feed on your bare (or hairless) skin areas - including legs, arms, face, and neck. For starters, bed bug bites will appear as tiny red welts that'll effectively remain for 2+ weeks. *Can bed bugs live in your skin? .. .No? Bed bugs don't like heat so that they won't stick to the human skin or hair. They'll feed on humans' blood (skin) but hide in other locations like clothes.
 
 * *Therefore, any bugs that are burrowing and living in human skin are possibly ticks, lice, or fleas.

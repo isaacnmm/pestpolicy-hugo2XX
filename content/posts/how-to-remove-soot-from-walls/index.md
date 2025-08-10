@@ -1,23 +1,19 @@
-﻿---
+---
 title: How to Remove Soot from Walls
-description: Usually, kitchen walls and burnt surfaces are left with soot that kills the initial aesthetic appearance. Removing soot and oil stains-paint requires a...
+description: Usually, kitchen walls and burnt surfaces are left with soot that kills
+  the initial aesthetic appearance. Removing soot and oil stains-paint requires a...
 slug: /how-to-remove-soot-from-walls/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - DIY Paintings
 tags:
-
 - diy-paintings
-
 - soot
-
 - wall
 layout: post
 ---
-
 Usually, kitchen walls and burnt surfaces are left with soot that kills the initial aesthetic appearance. Removing soot and [oil stains](https://pestpolicy.com/how-to-remove-oil-stains-from-[wall](https://pestpolicy.com/3d-wall-painting-for-your-bedroom/)-paint/)requires a professional approach and appropriate method.
 
 *On how to remove soot from walls; whether concrete or wooden walls, use either trisodium phosphate, rubbing alcohol and melamine sponge, commercial soot remover, sandblasting, and detergent, vacuuming, or using a degreaser. * *Alternatively, you opt to use homemade soot removers such as mineral spirit, baking soda, vinegar, or dish soap solution.

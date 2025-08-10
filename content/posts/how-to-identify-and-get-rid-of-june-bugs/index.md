@@ -1,23 +1,19 @@
-﻿---
+---
 title: How to Identify and Get Rid Of June Bugs
-description: June bugs can be a nuisance in your garden and around your home, but identifying and controlling them is possible with the right strategies.
+description: June bugs can be a nuisance in your garden and around your home, but
+  identifying and controlling them is possible with the right strategies.
 slug: /how-to-identify-and-get-rid-of-june-bugs/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Guide
 tags:
-
 - guide
-
 - get
-
 - rid
 layout: post
 ---
-
 June bugs can be a nuisance in your garden and around your home, but identifying and controlling them is possible with the right strategies. Below, well explore how to recognize these pests and methods for effective removal.
 
 ###  What Are June Bugs?

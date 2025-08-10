@@ -1,25 +1,21 @@
-﻿---
+---
 title: How Do You Keep Horse Flies Away Naturally
-description: Natural horse fly repellents are made from naturally grown plants or animals. Further, processing the repellents undergo must not downgrade the natural form...
+description: Natural horse fly repellents are made from naturally grown plants or
+  animals. Further, processing the repellents undergo must not downgrade the natural
+  form...
 slug: /how-do-you-keep-horse-flies-away-naturally/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Flies
-
 - Guide
 tags:
-
 - flies
-
 - horse
-
 - flie
 layout: post
 ---
-
 Natural horse fly repellents are made from naturally grown plants or animals. Further, [processing the repellents](https://pestpolicy.com/best-fly-spray-for-horses/)undergo must not downgrade the natural form of its ingredients. - Besides, the natural horse fly repellent needs to be safe for plants & animals (at least the non-targeted ones) and human beings. How do you keep horseflies away naturally? Can you use DEET on horses?
 
 Diethyltoluamide (DEET) is a highly effective ingredient in insect repellents. Notably, it was first created by the United States Army in World War II. - The ingredient can kill ticks, fleas, and mosquitoes. Further, DEET has a yellow die that could stain your clothes. - At high concentration levels (or with highly sensitive skins), DEET could be toxic to animals and people. Icaridin is an odorless and colorless chemical formula.

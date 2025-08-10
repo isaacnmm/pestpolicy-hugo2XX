@@ -1,23 +1,19 @@
-﻿---
+---
 title: Wet Area Remodeling Vs Full Bathroom Remodeling
-description: Bathroom remodels are among the most popular home renovation projects, offering a significant return on investment and a dramatic improvement in daily living.
+description: Bathroom remodels are among the most popular home renovation projects,
+  offering a significant return on investment and a dramatic improvement in daily
+  living.
 slug: /wet-area-remodeling-vs-full-bathroom-remodeling/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Home Improvement
-
 - Bathroom
-
 - Renovation
 tags:
-
 - home-improvement
-
 - wet
-
 - area
 layout: post
 ---

@@ -1,23 +1,19 @@
-﻿---
+---
 title: How Long Do Gnats Live
-description: Gnats are restless two-winged flies commonly found in residential and commercial establishments. How long do gnats live? The simple answer is The average...
+description: Gnats are restless two-winged flies commonly found in residential and
+  commercial establishments. How long do gnats live? The simple answer is The average...
 slug: /how-long-do-gnats-live/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Gnat
-
 - Guide
 tags:
-
 - gnat
-
 - live
 layout: post
 ---
-
 Gnats are restless two-winged flies commonly found in residential and commercial establishments.
 
 How long do gnats live? **The simple answer is: The average lifespan of Gnats is 7-21 days. This will depend on several factors like food sources, temperature, habitat, and available moisture. **

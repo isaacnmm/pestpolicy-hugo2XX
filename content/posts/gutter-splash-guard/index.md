@@ -1,21 +1,18 @@
-﻿---
+---
 title: Gutter Splash Guard
-description: Even a perfectly clean and well-maintained gutter system can sometimes struggle to contain the sheer volume of water during a heavy downpour, especially at...
+description: Even a perfectly clean and well-maintained gutter system can sometimes
+  struggle to contain the sheer volume of water during a heavy downpour, especially
+  at...
 slug: /gutter-splash-guard/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Home Maintenance
-
 - Gutters
 tags:
-
 - home-maintenance
-
 - gutter
-
 - splash
 layout: post
 ---

@@ -1,25 +1,20 @@
-﻿---
+---
 title: Best Noise Cancelling Headphones Under 50
-description: If you're looking for the best noise canceling headphones under 50, you're in the right place! You'll love the quiet and relaxed environment away from the...
+description: If you're looking for the best noise canceling headphones under 50, you're
+  in the right place! You'll love the quiet and relaxed environment away from the...
 slug: /best-noise-cancelling-headphones-under-50/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Headphones
-
 - Product Reviews
 tags:
-
 - headphones
-
 - noise
-
 - headphone
 layout: post
 ---
-
 If you're looking for the best noise canceling [headphones](https://en.wikipedia.org/wiki/Noise-cancelling_headphones)under 50, you're in the right place! You'll love the quiet and relaxed environment away from the constant ambient noises that could otherwise and sadly increase your stress levels. These quality headphones will come in handle for reducing or completing blocking noises while you're traveling on the road or in an airplane.
 
 ##  7 Best Noise Cancelling Headphones Under 50 in 2025

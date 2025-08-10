@@ -1,25 +1,20 @@
-﻿---
+---
 title: Absorbine Ultrashield Ex Brand Residual Insecticide Review
-description: The Absorbine UltraShield EX contains 1.00 piperonyl butoxide, 0.10 pyrethrins, and 0.50 permethrin as its active ingredients - and it's one of the best fly...
+description: The Absorbine UltraShield EX contains 1.00 piperonyl butoxide, 0.10 pyrethrins,
+  and 0.50 permethrin as its active ingredients - and it's one of the best fly...
 slug: /absorbine-ultrashield-ex-brand-residual-insecticide-review/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Flies
-
 - Product Reviews
 tags:
-
 - flies
-
 - absorbine
-
 - ultrashield
 layout: post
 ---
-
 The Absorbine UltraShield EX contains 1. 00% piperonyl butoxide, 0. 10% pyrethrins, and 0. 50% permethrin as its active ingredients - and it's one of the [best fly sprays for horses](https://pestpolicy.com/best-fly-spray-for-horses/).Initial pros to note about this fly control product for your horse is that its sweat-resistant and weatherproof thus will work great both for outdoors and indoors horse fly control.
 
 Absorbine was developed by Mary Ida Young, a horse enthusiast and an herbalist and gardener, who aimed to use more humane and less painful treatment methods on her horses. Therefore, Mary developed Absorbine in 1892, suing various herbal and natural ingredients, which has over the years to be a trusted brand for horse fly control.

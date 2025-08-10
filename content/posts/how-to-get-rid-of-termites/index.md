@@ -1,25 +1,20 @@
-﻿---
+---
 title: How to Get Rid Of Termites
-description: Know how to get rid of termites? Despite that, most homeowners prefer professional termite extermination - particularly after a termite inspection -...
+description: Know how to get rid of termites? Despite that, most homeowners prefer
+  professional termite extermination - particularly after a termite inspection -...
 slug: /how-to-get-rid-of-termites/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Guide
-
 - Termites
 tags:
-
 - guide
-
 - rid
-
 - termite
 layout: post
 ---
-
 Know how to get rid of termites? Despite that, most homeowners prefer professional [termite extermination](https://content.ces.ncsu.edu/termites-biology-and-control)- particularly after a termite inspection - comprehensive steps for prevention and total termite extermination.
 
 In summary, the most common technique includes soil treatment and chemical termite killers with active ingredients such as fipronil and imidacloprid. Further, you may also directly treat the wood and furniture to get rid of termites( check termite images ). While at it, you may also position baits in the house and lawn. Such chemicals will release IGRs.

@@ -1,25 +1,21 @@
-﻿---
+---
 title: Do Dust Mites Bite
-description: Dust Mites are tiny insects that have eight legs and a small head and they feed off flakes of dead skin shed by humans. - NB an adult human will shed about...
+description: Dust Mites are tiny insects that have eight legs and a small head and
+  they feed off flakes of dead skin shed by humans. - NB an adult human will shed
+  about...
 slug: /do-dust-mites-bite/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Guide
-
 - Mites
 tags:
-
 - guide
-
 - dust
-
 - mite
 layout: post
 ---
-
 [Dust](https://pestpolicy.com/dust-mites/)Mites are [tiny insects](https://pestpolicy.com/what-do-dust-mites-look-like/)that have eight legs and a small head and they feed off flakes of dead skin shed by humans. - NB: an adult human will shed about 500 million flakes of their dead skin daily. Dust mites measure about 1/100 inch in length and so it's only visible through a microscope.
 
 The symptoms of dust mites for humans include itching and sneezing - but these can be related to chiggers, ticks, and spiders. **But do dust mites bite humans? No, the mouthparts of dust mites are quite rudimentary and so they can't sting or bite humans. ** - **On the contrary, dust mites will eat their own cast of skins and poop or fungi, pollen, pet skin, and flakes of dead human skin.

@@ -1,21 +1,17 @@
-﻿---
+---
 title: Best Foam Gutter Guards
-description: Foam gutter guards, sometimes referred to as gutter filters or sponges, represent one of the simplest and most accessible DIY options for gutter protection.
+description: Foam gutter guards, sometimes referred to as gutter filters or sponges,
+  represent one of the simplest and most accessible DIY options for gutter protection.
 slug: /best-foam-gutter-guards/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Gutters
-
 - Gutter Guards
 tags:
-
 - gutters
-
 - best
-
 - foam
 layout: post
 ---

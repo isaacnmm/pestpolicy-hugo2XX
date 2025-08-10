@@ -1,25 +1,20 @@
-﻿---
+---
 title: How Drain Cleaners Work
-description: Cooking oil, hair, scum, soap, slime, and sludge can block drains leading to water obstruction or blockage. Today Im explaining how the best drain cleaners...
+description: Cooking oil, hair, scum, soap, slime, and sludge can block drains leading
+  to water obstruction or blockage. Today Im explaining how the best drain cleaners...
 slug: /how-drain-cleaners-work/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Drains
-
 - Guide
 tags:
-
 - drains
-
 - drain
-
 - cleaner
 layout: post
 ---
-
 Cooking oil, hair, scum, soap, slime, and sludge can block drains leading to water obstruction or blockage. Today Im explaining how the [best drain cleaners](https://pestpolicy.com/best-drain-[cleaner](https://pestpolicy.com/best-drain-cleaner/)//)cut through standing water and eat up the organic matter in PVC and metal pipes. Recently, I discussed how to unclog stagnant water in your bathtub.
 
 **Summary: Oxidizing drain cleaners (withnitrate ions) utilize heat and gas to unclog [drains](https://pestpolicy.com/best-shower-drain-cleaner/)while caustic drain cleaners generate hydroxide ions that clear the drain clog. It produces heat to break down the grease & oil. Here're the top drain cleaners. **

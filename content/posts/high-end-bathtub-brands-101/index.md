@@ -1,21 +1,17 @@
-﻿---
+---
 title: High End Bathtub Brands 101
-description: The bathtub is often the focal point of a luxurious bathroom, transforming a utilitarian space into a personal sanctuary for relaxation and rejuvenation.
+description: The bathtub is often the focal point of a luxurious bathroom, transforming
+  a utilitarian space into a personal sanctuary for relaxation and rejuvenation.
 slug: /high-end-bathtub-brands-101/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Home Improvement
-
 - Bathroom
 tags:
-
 - home-improvement
-
 - high-end
-
 - bathtub
 layout: post
 ---

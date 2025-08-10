@@ -1,23 +1,18 @@
-﻿---
+---
 title: Bathroom Vent Fan Cfm Calculator
-description: A bathroom is, by its very nature, a high-humidity zone. Without adequate ventilation, the steam from showers and baths, coupled with general moisture, can...
+description: A bathroom is, by its very nature, a high-humidity zone. Without adequate
+  ventilation, the steam from showers and baths, coupled with general moisture, can...
 slug: /bathroom-vent-fan-cfm-calculator/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Home Improvement
-
 - HVAC
-
 - Bathroom
 tags:
-
 - home-improvement
-
 - bathroom
-
 - vent
 layout: post
 ---

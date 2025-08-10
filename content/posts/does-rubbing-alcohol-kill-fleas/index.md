@@ -1,25 +1,20 @@
-﻿---
+---
 title: Does Rubbing Alcohol Kill Fleas
-description: Having fleas around your home can be a real menace. They like to bite and cause itchiness on pets and humans. Does rubbing alcohol kill fleas?
+description: Having fleas around your home can be a real menace. They like to bite
+  and cause itchiness on pets and humans. Does rubbing alcohol kill fleas?
 slug: /does-rubbing-alcohol-kill-fleas/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Fleas
-
 - Guide
 tags:
-
 - fleas
-
 - doe
-
 - rubbing
 layout: post
 ---
-
 Having [fleas](https://pestpolicy.com/does-apple-cider-vinegar-kill-fleas/)around your home can be a real menace. They like to bite and cause itchiness on pets and humans. Does [rubbing alcohol](https://www.webmd.com/first-aid/ss/rubbing-alcohol-uses)kill fleas? Well, there are various methods to control them and alcohol is one of them. - **So, does rubbing alcohol kill fleas? Well, Yes, rubbing alcohol is very effective in killing fleas.
 
 In fact, most disinfectants and some fleas spray at least contain some percentage of alcohol. Although it works, it is not a good idea to use it on your furry pet. ** - What percent of alcohol kills fleas? Rubbing alcohol with 70% isopropyl alcohol offers excellent flea killing and disinfecting capability. Though rubbing alcohol kills fleas, there is more that you need to know before you can get that spray can.

@@ -1,25 +1,20 @@
-﻿---
+---
 title: Capstar Flea Tablets for Small Dogs
-description: Capstar tablets are effective remedies for controlling fleashttpspestpolicy.comhow-to-get-rid-of-fleas in dogs, puppies, kittens, and cats.
+description: Capstar tablets are effective remedies for controlling fleashttpspestpolicy.comhow-to-get-rid-of-fleas
+  in dogs, puppies, kittens, and cats.
 slug: /capstar-flea-tablets-for-small-dogs/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Fleas
-
 - Product Reviews
 tags:
-
 - fleas
-
 - capstar
-
 - flea
 layout: post
 ---
-
 [Capstar](https://pestpolicy.com/capstar-flea-tablets-for-large-dogs/)tablets are [effective remedies for controlling fleas](https://pestpolicy.com/how-to-get-rid-of-fleas/)in dogs, puppies, kittens, and cats. In the Star article, I will discussCapstar flea tablets for small dogs (up to 11kg).
 
 Notably, capital will begin killing the fleas on your dog in around half an hour and its effectiveness will last for one day.

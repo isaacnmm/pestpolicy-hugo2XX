@@ -1,21 +1,17 @@
-﻿---
+---
 title: Scotts Lawn Care
-description: When it comes to lawn care, the name Scotts is almost synonymous with a beautiful yard. For decades, Scotts has been a household name, providing generations...
+description: When it comes to lawn care, the name Scotts is almost synonymous with
+  a beautiful yard. For decades, Scotts has been a household name, providing generations...
 slug: /scotts-lawn-care/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Lawn Care
-
 - Guides
 tags:
-
 - lawn-care
-
 - scott
-
 - lawn
 layout: post
 ---

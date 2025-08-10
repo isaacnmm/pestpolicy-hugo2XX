@@ -1,25 +1,20 @@
-﻿---
+---
 title: Does Dryer Kill Bed Bugs
-description: Cloth dryers are equipment at homes, hotels, and institutions we use them to dry clothes after washing. - But, do dryers kill bed bugs?
+description: Cloth dryers are equipment at homes, hotels, and institutions we use
+  them to dry clothes after washing. - But, do dryers kill bed bugs?
 slug: /does-dryer-kill-bed-bugs/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Bed Bugs
-
 - Guide
 tags:
-
 - bed-bugs
-
 - doe
-
 - dryer
 layout: post
 ---
-
 Cloth dryers are equipment at homes, hotels, and institutions we use them to dry clothes after washing. - **But, do dryers kill bed bugs? YES, the simple answer is that the high temperature in dryers (between 39oC to 51o C) will kill bed bugs, nymphs, and eggs especially when the exposure is for over 30 minutes. **
 
 Lets get into the details. Related: Pictures of Bed Bugs

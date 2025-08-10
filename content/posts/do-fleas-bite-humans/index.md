@@ -1,25 +1,20 @@
-﻿---
+---
 title: Do Fleas Bite Humans
-description: Flea bites trigger irritation and discomfort in dogs and cats. But do fleas bite humans and possibly transmit diseases like the bubonic plague ? In summary,...
+description: Flea bites trigger irritation and discomfort in dogs and cats. But do
+  fleas bite humans and possibly transmit diseases like the bubonic plague ? In summary,...
 slug: /do-fleas-bite-humans/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Fleas
-
 - Guide
 tags:
-
 - fleas
-
 - flea
-
 - bite
 layout: post
 ---
-
 [Flea bites](https://www.petmd.com/dog/parasites/flea-bites-dogs-what-do-they-look)trigger irritation and discomfort in dogs and cats. But do [fleas](https://pestpolicy.com/can-fleas-bite-through-clothes/)bite humans and possibly [transmit diseases like the bubonic plague](http://www.sciencedirect.com/science/article/pii/S1198743X1461377X)?
 
 *In summary, the [flea](https://pestpolicy.com/why-do-flea-bites-itch/)will bite humans to suck blood, leaving 3-4 clusters of small-reddish spots - particularly on the ankles, feet, lower legs, calves. * - *Flea bites trigger irritation, pain, scratching, and allergic reactions, plus a rash or white-top blisters. Fleas have a mouth with 3 stylet that is needle-like adapted for biting their hosts and sucking blood.

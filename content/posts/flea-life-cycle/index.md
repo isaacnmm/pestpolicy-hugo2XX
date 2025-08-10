@@ -1,25 +1,20 @@
-﻿---
+---
 title: Flea Life Cycle
-description: The flea life cycle consists of four stages egg, flea larva, pupa, and the adult. Fleas will live from a few weeks to several months given optimal humidity...
+description: The flea life cycle consists of four stages egg, flea larva, pupa, and
+  the adult. Fleas will live from a few weeks to several months given optimal humidity...
 slug: /flea-life-cycle/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Fleas
-
 - Guide
 tags:
-
 - fleas
-
 - flea
-
 - cycle
 layout: post
 ---
-
 The flea life [cycle](https://pestpolicy.com/how-long-does-it-take-to-break-the-flea-life-cycle/)consists of four stages: egg, flea larva, pupa, and the adult. Fleas will live from a few weeks to several months given optimal humidity and temperature (70 percent and 7085F). - Fleas feed on blood, and the cycle of a flea's life is closely aligned with that need. - Flea eggs hatch into larvae, which then turn into pupae before emerging as adults.
 
 The adults lay eggs as they feed to continue the cycle. Understanding [the flea life cycle](https://pestpolicy.com/how-long-does-it-take-to-break-the-flea-life-cycle/)functions can help you better protect your pet and home from these parasites!

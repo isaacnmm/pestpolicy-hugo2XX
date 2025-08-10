@@ -1,21 +1,18 @@
-﻿---
+---
 title: Where Do Fleas Live
-description: We may earn a commission when you click and buy from Amazon.com.  --- Where do fleas live?Often-times, fleas will cause a scare in your home and yard - but...
+description: We may earn a commission when you click and buy from Amazon.com.  ---
+  Where do fleas live?Often-times, fleas will cause a scare in your home and yard
+- but...
 slug: /where-do-fleas-live/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Fleas
-
 - Guide
 tags:
-
 - fleas
-
 - flea
-
 - live
 layout: post
 ---

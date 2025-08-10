@@ -1,25 +1,21 @@
-﻿---
+---
 title: Pictures Of Bed Bug Bites
-description: Are you trying to determine if we have bed bugs in the house? First, I'll narrate a personal experience I had eight months ago. I had just come back from our...
+description: Are you trying to determine if we have bed bugs in the house? First,
+  I'll narrate a personal experience I had eight months ago. I had just come back
+  from our...
 slug: /pictures-of-bed-bug-bites/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Bed Bugs
-
 - Guide
 tags:
-
 - bed-bugs
-
 - picture
-
 - bed
 layout: post
 ---
-
 Are you trying to determine if we have bed bugs in the house? First, I'll narrate a personal experience I had eight months ago. I had just come back from our vacation - I was into 1 Vrbo and two hotels - which I had thoroughly inspected with no signs of bed bugs. However, the next day, spots appeared on my daughter's arms and legs - as shown in the picture. I was worried - probably just like you are.
 
 So, in this post, I'll outline different pictures of bed bug bites that'll help you determine if bed bugs have bitten you. **But first**, let clear this out of the way - bed bugs can't bite through clothing-bite-through-clothing/), and [bed bugs can't jump or fly](https://pestpolicy.com/do-bed-bugs-jump/).

@@ -1,23 +1,20 @@
-﻿---
+---
 title: What Temperature Kills Bed Bugs
-description: Bed bugs are notorious for being resilient pests that can infest your home without you even noticing. One of the most effective ways to eliminate them is by...
+description: Bed bugs are notorious for being resilient pests that can infest your
+  home without you even noticing. One of the most effective ways to eliminate them
+  is by...
 slug: /what-temperature-kills-bed-bugs/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Guide
 tags:
-
 - guide
-
 - temperature
-
 - kill
 layout: post
 ---
-
 Bed bugs are notorious for being resilient pests that can infest your home without you even noticing. One of the most effective ways to eliminate them is by using [temperature](https://pestpolicy.com/at-what-temperature-do-fleas-die/)to your advantage. Bed bugs cant survive extreme temperatures, and applying either heat or cold is an effective strategy to eradicate them.
 
 ##  How Heat Can [Kill](https://pestpolicy.com/does-the-dryer-kill-fleas/)Bed Bugs

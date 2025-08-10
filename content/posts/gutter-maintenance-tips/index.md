@@ -1,21 +1,17 @@
-﻿---
+---
 title: Gutter Maintenance Tips
-description: Your home's gutter system might seem like a minor component, but it plays a critical role in protecting your most significant investment.
+description: Your home's gutter system might seem like a minor component, but it plays
+  a critical role in protecting your most significant investment.
 slug: /gutter-maintenance-tips/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Home Maintenance
-
 - Gutters
 tags:
-
 - home-maintenance
-
 - gutter
-
 - maintenance
 layout: post
 ---

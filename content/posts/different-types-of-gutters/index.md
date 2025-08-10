@@ -1,21 +1,17 @@
-﻿---
+---
 title: Different Types Of Gutters
-description: Different Types of Gutters - A Comprehensive Guide to Choosing the Right System Gutters are an often-overlooked yet incredibly vital component of any home's...
+description: Different Types of Gutters - A Comprehensive Guide to Choosing the Right
+  System Gutters are an often-overlooked yet incredibly vital component of any home's...
 slug: /different-types-of-gutters/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Gutters
-
 - Home Improvement
 tags:
-
 - gutters
-
 - different
-
 - type
 layout: post
 ---

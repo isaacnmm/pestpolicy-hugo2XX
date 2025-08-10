@@ -1,25 +1,20 @@
-﻿---
+---
 title: Do Flea Collars Work
-description: Current flea collars are more comfortable, adjustable, non-greasy with flexible designs. Manufactures claim flea collars will offer more extended flea...
+description: Current flea collars are more comfortable, adjustable, non-greasy with
+  flexible designs. Manufactures claim flea collars will offer more extended flea...
 slug: /do-flea-collars-work/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Fleas
-
 - Guide
 tags:
-
 - fleas
-
 - flea
-
 - collar
 layout: post
 ---
-
 Current flea collars are more comfortable, adjustable, non-greasy with flexible designs. Manufactures claim flea collars will offer more extended flea protection (up to months). But *do flea collars work? * **In Summary** *, YES, fleas collars will kill fleas on pets, including cats and dogs. But flea collars are different - some will repel fleas, others will kill, some kill baby fleas but other target adult fleas.
 
 * *But go for flea collars whose technology is adequately tested and designed - consult a veterinarian, check the product's label claims or the manufacturers website. *

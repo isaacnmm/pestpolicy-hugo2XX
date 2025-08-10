@@ -1,25 +1,20 @@
-﻿---
+---
 title: Are Fleas Nocturnal
-description: As a home or pet owner, you'd be worried if your lovely dog or cat caught fleas . These bugs will bite and suck blood from these animals, causing your furry...
+description: As a home or pet owner, you'd be worried if your lovely dog or cat caught
+  fleas . These bugs will bite and suck blood from these animals, causing your furry...
 slug: /are-fleas-nocturnal/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Fleas
-
 - Guide
 tags:
-
 - fleas
-
 - are
-
 - nocturnal
 layout: post
 ---
-
 As a home or pet owner, you'd be worried if your lovely dog or cat caught fleas. These bugs will bite and suck blood from these animals, causing your furry friends pain, anemia, or death. So, it's logical to pursue techniques to help control fleas both in the day and night times. But [are](https://pestpolicy.com/are-leopard-geckos-nocturnal/)[fleas](https://pestpolicy.com/are-male-or-female-bernedoodles-better/) nocturnal?
 
 do fleas sleep at night?

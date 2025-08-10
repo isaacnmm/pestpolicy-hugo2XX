@@ -1,25 +1,20 @@
-﻿---
+---
 title: Hornet Bees and Wasp Removal Tacoma
-description: At PestPolicy, we offer expert hornet, bee, and wasp removal services to keep your property safe and pest-free. Our team is experienced in handling various...
+description: At PestPolicy, we offer expert hornet, bee, and wasp removal services
+  to keep your property safe and pest-free. Our team is experienced in handling various...
 slug: /hornet-bees-and-wasp-removal-tacoma/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Guide
-
 - Wasps
 tags:
-
 - guide
-
 - hornet
-
 - bee
 layout: post
 ---
-
 At PestPolicy, we offer expert hornet, [bee](https://pestpolicy.com/do-carpenter-bees-bite/),and wasp removal services to keep your property safe and pest-free.
 
 Our team is experienced in handling various types of stinging insects, ensuring effective and humane solutions. Heres a brief overview of the common stinging insects in Tacoma and how we can help:

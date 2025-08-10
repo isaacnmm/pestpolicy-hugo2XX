@@ -1,25 +1,20 @@
-﻿---
+---
 title: How to Get Rid Of No See Ums
-description: In this article, I am going to talk about how to get rid of no-see-ums. These are bugs that most people don't talk a lot about.
+description: In this article, I am going to talk about how to get rid of no-see-ums.
+  These are bugs that most people don't talk a lot about.
 slug: /how-to-get-rid-of-no-see-ums/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Guide
-
 - No See Ums
 tags:
-
 - guide
-
 - rid
-
 - no-see-um
 layout: post
 ---
-
 In this article, I am going to talk about how to get [rid](https://pestpolicy.com/how-to-get-rid-of-brown-recluse-spiders/)of no-see-ums. These are bugs that most people don't talk a lot about. T he [noseeums are attracted to carbon dioxide](https://en.wikipedia.org/wiki/Ceratopogonidae)that your body (and every mammal) gives off.
 
 Are you getting bit in your house are you worried you might have fed bugs or you're worried you might have fleas but you haven't seen any other signs - it might be no-see-ums. A lot of people call them no see ums because you can't see them - they are really teeny tiny mosquitoes. They can fly through the screens if you have a home even with some screened-in windows.

@@ -1,25 +1,21 @@
-﻿---
+---
 title: Does Peppermint Oil Kill Bed Bugs
-description: Current research shows that essential oils have antiseptic, antifungal, & antibacterial properties. But which one really does kill or repel bed bugs ? In this...
+description: Current research shows that essential oils have antiseptic, antifungal,
+  & antibacterial properties. But which one really does kill or repel bed bugs ? In
+  this...
 slug: /does-peppermint-oil-kill-bed-bugs/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Bed Bugs
-
 - Guide
 tags:
-
 - bed-bugs
-
 - doe
-
 - peppermint
 layout: post
 ---
-
 Current research shows that essential oils have antiseptic, antifungal, & antibacterial properties. But which one really does [kill or repel bed bugs](https://pestpolicy.com/essential-oils-for-[bed-bugs](https://pestpolicy.com/does-baby-powder-kill-bed-bugs/)/)?In this article, I will discuss the question "does [peppermint](https://pestpolicy.com/does-peppermint-oil-repel-spiders/)oil kill bed bugs? "
 
 Bed bugs will hide in small crevices and cracks all over their home.

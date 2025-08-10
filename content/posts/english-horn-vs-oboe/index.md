@@ -1,23 +1,19 @@
-﻿---
+---
 title: English Horn Vs Oboe
-description: I was not always a woodwind player but I was thinking of the difference & similarities between English Horn Cor Anglais and Oboe - English horn vs Oboe....
+description: I was not always a woodwind player but I was thinking of the difference
+  & similarities between English Horn Cor Anglais and Oboe - English horn vs Oboe....
 slug: /english-horn-vs-oboe/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Recording
 tags:
-
 - recording
-
 - horn
-
 - oboe
 layout: post
 ---
-
 I was not always a woodwind player but I was thinking of the difference & similarities between English Horn (Cor Anglais) and [Oboe](https://pestpolicy.com/what-is-an-oboe/)- English horn vs Oboe.
 
 Sadly, all I could think of was that they are both in the woodwind family, can found in the orchestra, and are all played using reeds. Well, I thought they were lame answers too! And so I got down to business researching. Read Also: Laptop for Music Production.

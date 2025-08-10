@@ -1,24 +1,19 @@
-﻿---
+---
 title: Diatomaceous Earth Vs Borax for Fleas
-description: You saw it, didn't you? That tiny black speck that jumped. Maybe it was on your ankle, or maybe you saw it on your pets white fur.
+description: You saw it, didn't you? That tiny black speck that jumped. Maybe it was
+  on your ankle, or maybe you saw it on your pets white fur.
 slug: /diatomaceous-earth-vs-borax-for-fleas/
 date: 2025-08-03 00:00:00+03:00
 lastmod: 2025-08-03 00:00:00+03:00
 author: Isaac
 categories:
-
 - Flea Control
-
 - DIY Pest Control
 tags:
-
 - flea-control
-
 - earth
-
 - borax
 ---
-
 You saw it, didn't you? That tiny black speck that jumped. Maybe it was on your ankle, or maybe you saw it on your pet’s white fur. That single moment sends a wave of dread through any homeowner, and it leads to the same frantic, late-night internet search: "how to get rid of fleas FAST. " That search will inevitably lead you to two popular DIY solutions: white powders that promise to end the infestation in your carpets.
 
 One of them is likely the familiar box of <span style="color: red; ">[20 Mule Team Borax](https://www.amazon.com/dp/B000R4L32E/?tag=p-policy-20)</span>from the laundry aisle, a product you've seen for years.

@@ -1,25 +1,20 @@
-﻿---
+---
 title: Wasp Nest Removal in Federal Way
-description: Wasps can be a serious nuisance and pose safety risks to homeowners in Federal Way, WA. With its temperate climate, Federal Way is an attractive area for...
+description: Wasps can be a serious nuisance and pose safety risks to homeowners in
+  Federal Way, WA. With its temperate climate, Federal Way is an attractive area for...
 slug: /wasp-nest-removal-in-federal-way/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Guide
-
 - Wasps
 tags:
-
 - guide
-
 - wasp
-
 - nest
 layout: post
 ---
-
 Wasps can be a serious nuisance and pose safety risks to homeowners in Federal Way, WA. With its temperate climate, Federal Way is an attractive area for [various wasp species](https://pestpolicy.com/baby-wasp/)to establish nests in residential areas.
 
 Heres how you can safely manage and remove wasp nests specific to the Federal Way environment.

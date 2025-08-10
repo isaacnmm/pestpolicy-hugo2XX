@@ -1,25 +1,20 @@
-﻿---
+---
 title: When to Trim Trees and Shrubs
-description: Pruning is one of the most fundamental and beneficial practices for maintaining the health, vigor, and aesthetic appeal of trees and shrubs in your garden.
+description: Pruning is one of the most fundamental and beneficial practices for maintaining
+  the health, vigor, and aesthetic appeal of trees and shrubs in your garden.
 slug: /when-to-trim-trees-and-shrubs/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Guides
-
 - Gardening
 tags:
-
 - guides
-
 - tree
-
 - shrub
 layout: post
 ---
-
 Pruning is one of the most fundamental and beneficial practices for maintaining the health, vigor, and aesthetic appeal of trees and shrubs in your garden. Done correctly, it can encourage stronger growth, enhance flowering, improve air circulation, and prevent disease. Done incorrectly or at the wrong time, however, it can weaken a plant, reduce blooms, or even lead to its decline.
 
 The "when" of pruning is often as important as the "how, " as plant physiology changes throughout the year, impacting how they respond to cuts.

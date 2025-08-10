@@ -1,25 +1,20 @@
-﻿---
+---
 title: What Does a Termite Look Like
-description: Your top termite killers will fail if you don't accurately know the physical appearance of termites. It might also help to understand the termites vs.
+description: Your top termite killers will fail if you don't accurately know the physical
+  appearance of termites. It might also help to understand the termites vs.
 slug: /what-does-a-termite-look-like/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Guide
-
 - Termites
 tags:
-
 - guide
-
 - termite
-
 - look
 layout: post
 ---
-
 Your top [termite killers](https://pestpolicy.com/best-termite-killer/)will fail if you don't accurately know the physical appearance of termites. It might also help to understand the termites vs. ants and how to tell them apart. But don't also confuse them with fire ants or carpenter ants. So, have you noticed some cylindrical, dry, and brown tunnels around the house or yard?
 
 Well, these are signs of an ant infestation- maybe dry-wood termites or subterranean termites.

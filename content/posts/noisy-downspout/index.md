@@ -1,21 +1,17 @@
-﻿---
+---
 title: Noisy Downspout
-description: The sound of rain can be wonderfully soothing, a gentle drumbeat against the window, but a noisy downspout can quickly turn that peaceful ambiance into an...
+description: The sound of rain can be wonderfully soothing, a gentle drumbeat against
+  the window, but a noisy downspout can quickly turn that peaceful ambiance into an...
 slug: /noisy-downspout/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Home Maintenance
-
 - Gutters
 tags:
-
 - home-maintenance
-
 - noisy
-
 - downspout
 layout: post
 ---

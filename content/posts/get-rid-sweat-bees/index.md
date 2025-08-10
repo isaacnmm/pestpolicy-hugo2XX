@@ -1,25 +1,20 @@
-﻿---
+---
 title: Get Rid Sweat Bees
-description: I'm sitting here on my outdoor working space wondering how do I get rid of sweat bees? A common method to kills sweat bees is a killing spray. But are there...
+description: I'm sitting here on my outdoor working space wondering how do I get rid
+  of sweat bees? A common method to kills sweat bees is a killing spray. But are there...
 slug: /get-rid-sweat-bees/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Bees
-
 - Guide
 tags:
-
 - bees
-
 - rid
-
 - sweat
 layout: post
 ---
-
 I'm sitting here on my outdoor working space wondering how do I get rid of sweat [bees](https://pestpolicy.com/how-to-get-rid-of-carpenter-bees-without-killing-them/)?A common method to kills sweat bees is a killing spray. But are there situations where it would not be appropriate? I conducted a quick research. **To get [rid](https://pestpolicy.com/how-to-get-rid-of-ground-bees/)of sweat bees, you may repel, trap or kill the bugs.
 
 Sweat Bees areattracted to salts present in human sweat.

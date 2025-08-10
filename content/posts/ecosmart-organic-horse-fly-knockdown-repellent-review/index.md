@@ -1,25 +1,20 @@
-﻿---
+---
 title: Ecosmart Organic Horse Fly Knockdown Repellent Review
-description: This is an Ecosmart Organic Horse Fly Knockdown review. EcoSMART Organic is also an effective horse fly repellent that qualifies for our noble list of the...
+description: This is an Ecosmart Organic Horse Fly Knockdown review. EcoSMART Organic
+  is also an effective horse fly repellent that qualifies for our noble list of the...
 slug: /ecosmart-organic-horse-fly-knockdown-repellent-review/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Flies
-
 - Product Reviews
 tags:
-
 - flies
-
 - ecosmart
-
 - organic
 layout: post
 ---
-
 This is an Ecosmart Organic Horse Fly Knockdown review. EcoSMART Organic is also an [effective horse fly repellent](https://livestockvetento.tamu.edu/horse-flydeer-fly-insecticides/)that qualifies for our noble list of the best fly spray for horses. The Organic name points to the Green nature of quality products with no chemical and hence safe for your horse.
 
 This product allows natural botanical defense against the horse flies and hence wont use chemicals.

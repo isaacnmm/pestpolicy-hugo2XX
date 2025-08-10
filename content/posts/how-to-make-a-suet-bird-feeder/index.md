@@ -1,21 +1,17 @@
-﻿---
+---
 title: How to Make a Suet Bird Feeder
-description: Attracting a diverse array of birds to your garden is one of the most rewarding aspects of wildlife gardening. While seed feeders are popular, suet feeders...
+description: Attracting a diverse array of birds to your garden is one of the most
+  rewarding aspects of wildlife gardening. While seed feeders are popular, suet feeders...
 slug: /how-to-make-a-suet-bird-feeder/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Guides
-
 - Gardening
 tags:
-
 - guides
-
 - suet
-
 - bird
 layout: post
 ---

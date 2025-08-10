@@ -1,21 +1,17 @@
-﻿---
+---
 title: Gutter Downspout Adapter
-description: Your home's gutter system relies on a continuous, efficient flow of water to protect your foundation, landscaping, and exterior.
+description: Your home's gutter system relies on a continuous, efficient flow of water
+  to protect your foundation, landscaping, and exterior.
 slug: /gutter-downspout-adapter/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Home Maintenance
-
 - Gutters
 tags:
-
 - home-maintenance
-
 - gutter
-
 - downspout
 layout: post
 ---

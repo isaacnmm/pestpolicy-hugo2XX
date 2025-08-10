@@ -1,23 +1,19 @@
-﻿---
+---
 title: Ototo Dentaku
-description: The Ototo synthesizer is a groundbreaking musical invention kit that empowers anyone to create their own instruments without prior electronics knowledge.
+description: The Ototo synthesizer is a groundbreaking musical invention kit that
+  empowers anyone to create their own instruments without prior electronics knowledge.
 slug: /ototo-dentaku/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Keyboard
 tags:
-
 - keyboard
-
 - ototo
-
 - dentaku
 layout: post
 ---
-
 The [Ototo synthesizer](https://dentakulondon.com/ototo)is a groundbreaking musical invention kit that empowers anyone to create their own instruments without prior electronics knowledge. Designed by Dentaku, this PCB-based synthesizer opens up endless possibilities for music creation by combining touchpads, input/output, and sensors. Whether youre a seasoned musician or a curious beginner, Ototo transforms everyday objects into musical tools.
 
 ##  What is the Ototo Synthesizer?

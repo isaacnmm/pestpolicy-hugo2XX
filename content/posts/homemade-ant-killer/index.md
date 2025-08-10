@@ -1,25 +1,21 @@
-﻿---
+---
 title: Homemade Ant Killer
-description: Are you stuck with an ant problem in your house and lawns? You dont have to worry anymore! Therere many do-it-yourself home remedies you can use to get rid of...
+description: Are you stuck with an ant problem in your house and lawns? You dont have
+  to worry anymore! Therere many do-it-yourself home remedies you can use to get rid
+  of...
 slug: /homemade-ant-killer/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Ants
-
 - Guide
 tags:
-
 - ants
-
 - homemade
-
 - ant
 layout: post
 ---
-
 Are you stuck with an ant problem in your house and lawns? You dont have to worry anymore! Therere many do-it-yourself home remedies you can use to get rid of these insects. These are tried and tested [home ant killer recipes](https://entomology.ca.uky.edu/ef619)that can be easily made using locally available materials and simple equipment. Below is my guide on how to make simple ant killers in the comfort of your home.
 
 Related: Fire Ant Killer for Lawns.

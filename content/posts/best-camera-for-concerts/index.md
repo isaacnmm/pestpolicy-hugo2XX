@@ -1,23 +1,19 @@
-﻿---
+---
 title: Best Camera for Concerts
-description: Live concerts have diverse lighting conditions with fast-paced events & excessive flickering or lighting. Thus, you'll require a camera that is very portable,...
+description: Live concerts have diverse lighting conditions with fast-paced events
+  & excessive flickering or lighting. Thus, you'll require a camera that is very portable,...
 slug: /best-camera-for-concerts/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Cameras
 tags:
-
 - cameras
-
 - camera
-
 - concert
 layout: post
 ---
-
 [Live concerts](https://en.wikipedia.org/wiki/Concert)have diverse lighting conditions with fast-paced events & excessive flickering or lighting. Thus, you'll require a camera that is very portable, and that offers high power in addition to ISO sensitivity.
 
 Summary: To take exceptional pictures or shoot great videos in concerts, use either [Canon EOS 6D DSLR](https://www.amazon.com/dp/B009B0MZ8U/?tag=p-policy-20)or [Nikon D5300 24. 2 DSLR](https://www.amazon.com/dp/B00I1CPA0O/?tag=p-policy-20)as the best camera for concerts.

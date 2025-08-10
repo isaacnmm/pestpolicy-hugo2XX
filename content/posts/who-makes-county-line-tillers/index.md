@@ -1,23 +1,19 @@
-﻿---
+---
 title: Who Makes County Line Tillers
-description: Many of the tractor Implements we use to break or till our land or lawns are manufactured in the US. Finish mowers and tillers are mainly manufactured in...
+description: Many of the tractor Implements we use to break or till our land or lawns
+  are manufactured in the US. Finish mowers and tillers are mainly manufactured in...
 slug: /who-makes-county-line-tillers/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Tillers
 tags:
-
 - tillers
-
 - make
-
 - county
 layout: post
 ---
-
 Many of the tractor Implements we use to break or till our land or lawns are manufactured in the US. Finish mowers and [tillers](https://pestpolicy.com/best-electric-tiller-for-clay-soil/)are mainly manufactured in Italy. - Well, some wheels, ripper teeth, cutting edges, blades, gears, gearboxes, steel are made in China. But, *who makes county line tillers?
 
 * **Simple answer - county line tillers are manufactured by King Kutter - great for the yard, garden, or raised beds.

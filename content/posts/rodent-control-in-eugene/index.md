@@ -1,29 +1,22 @@
-﻿---
+---
 title: Rodent Control in Eugene
-description: Rodent infestations can be a serious concern for homeowners in Eugene, OR, where the temperate climate and lush environment provide an ideal habitat for...
+description: Rodent infestations can be a serious concern for homeowners in Eugene,
+  OR, where the temperate climate and lush environment provide an ideal habitat for...
 slug: /rodent-control-in-eugene/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Eugene
-
 - Guide
-
 - Moles
-
 - Rats
 tags:
-
 - eugene
-
 - rodent
-
 - control
 layout: post
 ---
-
 Rodent infestations can be a serious concern for homeowners in Eugene, OR, where the temperate climate and lush environment provide an ideal habitat for various rodent species. - Common rodents such as Norway rats, roof rats, and house mice can cause significant damage to homes and pose health risks. Here are effective strategies specifically tailored to Eugenes unique conditions to manage and prevent rodent infestations.
 
 ####  Identifying Common Rodent Species in Eugene

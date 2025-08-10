@@ -1,19 +1,18 @@
-﻿---
+---
 title: Is Composite Decking Worth It
-description: Besides deck design, deck materials are the most important feature that affects the outlook and style of your deck. The composite decks are mainly made from...
+description: Besides deck design, deck materials are the most important feature that
+  affects the outlook and style of your deck. The composite decks are mainly made
+  from...
 slug: /is-composite-decking-worth-it/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - DIY Paintings
 tags:
-
 - diy-paintings
 layout: post
 ---
-
 Besides deck design, deck materials are the most important feature that affects the outlook and style of your deck. The composite decks are mainly made from recycled plastic, sawdust, or wood chips. *But, is composite decking worth it? Well, compared to materials like wood, composite decking Is more expensive. But composite decking is loved since it is similar to natural wood with efficiency.
 
 * *Compared to wood, the composite decks will be easier to maintain and clean - and thus it'll last longer - thus giving equal or more value to you as a DIY homeowner. *

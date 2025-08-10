@@ -1,25 +1,21 @@
-﻿---
+---
 title: How to Tell If Your Dog Has Fleas
-description: How do I know if my dog has fleas? Well, the vet says it's if you notice your dog scratching, shaking their head, biting themselves, and then scratching some...
+description: How do I know if my dog has fleas? Well, the vet says it's if you notice
+  your dog scratching, shaking their head, biting themselves, and then scratching
+  some...
 slug: /how-to-tell-if-your-dog-has-fleas/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Fleas
-
 - Guide
 tags:
-
 - fleas
-
 - dog
-
 - flea
 layout: post
 ---
-
 How do I know if my dog has [fleas](https://pestpolicy.com/can-dog-fleas-transfer-to-humans/)?
 
 Well, the vet says it's if you notice your dog scratching, shaking their head, biting themselves, and then scratching some more. But how do you know for sure?

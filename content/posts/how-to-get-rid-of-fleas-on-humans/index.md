@@ -1,25 +1,20 @@
-﻿---
+---
 title: How to Get Rid Of Fleas on Humans
-description: Fleas are common pests with hairy pets like cats and dogs but they can also attack humans. There are over 2000 species and some species also attack humans.
+description: Fleas are common pests with hairy pets like cats and dogs but they can
+  also attack humans. There are over 2000 species and some species also attack humans.
 slug: /how-to-get-rid-of-fleas-on-humans/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Fleas
-
 - Guide
 tags:
-
 - fleas
-
 - rid
-
 - flea
 layout: post
 ---
-
 [Fleas](https://pestpolicy.com/getting-rid-of-fleas-in-the-carpet/)are common pests with hairy pets like cats and dogs but they can also attack humans. There are over 2000 species and some species also attack humans. This guide on how to get rid of fleas on humans has all you need to know. - **Unlike fury pets, fleas attacking humans like to hide either on the clothing or hair.
 
 To get rid of them, you need to wash your hair with anti-fleas products.

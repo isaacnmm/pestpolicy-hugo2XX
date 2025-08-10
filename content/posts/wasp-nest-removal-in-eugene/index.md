@@ -1,27 +1,21 @@
-﻿---
+---
 title: Wasp Nest Removal in Eugene
-description: Dealing with a wasp nest on your property can be a daunting task, especially in Eugene, OR, where the warm weather encourages wasps to build nests in and...
+description: Dealing with a wasp nest on your property can be a daunting task, especially
+  in Eugene, OR, where the warm weather encourages wasps to build nests in and...
 slug: /wasp-nest-removal-in-eugene/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Eugene
-
 - Guide
-
 - Wasps
 tags:
-
 - eugene
-
 - wasp
-
 - nest
 layout: post
 ---
-
 Dealing with a [wasp](https://pestpolicy.com/wasp-nest-removal-in-bellevue-wa/)[nest](https://pestpolicy.com/wasp-nest-removal-in-federal-way/) on your property can be a daunting task, especially in Eugene, OR, where the warm weather encourages wasps to build nests in and around homes.
 
 While it's crucial to remove these nests safely, it's equally important to understand the risks and methods involved in the process.

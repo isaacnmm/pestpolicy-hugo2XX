@@ -1,25 +1,21 @@
-﻿---
+---
 title: Do Water Purification Tablets Kill Viruses
-description: Do water purification tablets kill viruses? Water purification tablets release free chlorine into the dirty water to kill pathogens, just like municipal water...
+description: Do water purification tablets kill viruses? Water purification tablets
+  release free chlorine into the dirty water to kill pathogens, just like municipal
+  water...
 slug: /do-water-purification-tablets-kill-viruses/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Guide
-
 - Molds
 tags:
-
 - guide
-
 - purification
-
 - tablet
 layout: post
 ---
-
 Do water purification tablets kill viruses? Water [purification tablets](https://upurifywater.com/best-water-purification-tablets/)release free chlorine into the dirty water to kill pathogens, just like municipal water treatment. *In summary, water purification tablets with chlorine dioxide will kill micro-organisms like cryptosporidium, bacteria, and viruses. But are the [tablet](https://pestpolicy.com/best-laptop-tablet-combo/)safe?
 
 * *The tablets will be safe or used by human beings in the purification process - kill dangerous micro-organisms and treat the water. But store the tablets well as recommended by the manufactures to avoid damage or poisoning. * Read Also: H0w to UseDawn Dish Soap for Fleas?

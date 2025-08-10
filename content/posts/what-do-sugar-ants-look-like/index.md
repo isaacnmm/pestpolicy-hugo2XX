@@ -1,25 +1,20 @@
-﻿---
+---
 title: What Do Sugar Ants Look Like
-description: Below I've tackled this question - "what do sugar ants look like?" Sugar ants  banded sugar ants or Camponotus consobrinus  are one of the most popular types...
+description: Below I've tackled this question - "what do sugar ants look like?" Sugar
+  ants  banded sugar ants or Camponotus consobrinus  are one of the most popular types...
 slug: /what-do-sugar-ants-look-like/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Ants
-
 - Guide
 tags:
-
 - ants
-
 - sugar
-
 - ant
 layout: post
 ---
-
 Below I've tackled this question - "what do [sugar](https://pestpolicy.com/do-sugar-ants-bite/)ants look like? "
 
 Sugar ants ( [banded sugar ants](https://en.wikipedia.org/wiki/Banded_sugar_ant)or *Camponotus consobrinus* ) are one of the most popular types of ant species.

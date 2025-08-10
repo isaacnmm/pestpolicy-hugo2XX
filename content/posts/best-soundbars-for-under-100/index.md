@@ -1,21 +1,18 @@
-﻿---
+---
 title: Best Soundbars for Under 100
-description: If you're looking for a budget soundbar , here's a compilation of my best soundbars for under 100. You'll find the soundbars worth a lot as they'll provide...
+description: If you're looking for a budget soundbar , here's a compilation of my
+  best soundbars for under 100. You'll find the soundbars worth a lot as they'll provide...
 slug: /best-soundbars-for-under-100/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Soundbars
 tags:
-
 - soundbars
-
 - soundbar
 layout: post
 ---
-
 If you're looking for a [budget soundbar](https://www.fhsu.edu/technology/purchasing-procedures/),here's a compilation of my best soundbars for under 100.
 
 You'll find the soundbars worth a lot as they'll provide superior sound than the TV - great immersion for listening to music or watching your amazing movies. The below models are decent and affordable with a variety of features to create a great sound and entertainment experience. Here are the key considerations to make when choosing your greatest soundbar. - Positioning of the soundbar - under TVs or on-wall mounting?

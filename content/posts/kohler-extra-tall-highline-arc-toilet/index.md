@@ -1,21 +1,18 @@
-﻿---
+---
 title: Kohler Extra Tall Highline Arc Toilet
-description: When selecting a new toilet, functionality, efficiency, and comfort are paramount. For many, a standard-height toilet can present challenges, especially for...
+description: When selecting a new toilet, functionality, efficiency, and comfort are
+  paramount. For many, a standard-height toilet can present challenges, especially
+  for...
 slug: /kohler-extra-tall-highline-arc-toilet/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Improvement
-
 - Plumbing
 tags:
-
 - improvement
-
 - kohler
-
 - highline
 layout: post
 ---

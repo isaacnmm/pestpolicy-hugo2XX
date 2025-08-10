@@ -1,27 +1,21 @@
-﻿---
+---
 title: Laying Sod Over Existing Grass
-description: The promise of an instant, lush green lawn is incredibly appealing, and for many homeowners, sod offers just that. It bypasses the waiting period of seeding,...
+description: The promise of an instant, lush green lawn is incredibly appealing, and
+  for many homeowners, sod offers just that. It bypasses the waiting period of seeding,...
 slug: /laying-sod-over-existing-grass/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Lawn Care
-
 - Landscaping
-
 - Guides
 tags:
-
 - lawn-care
-
 - sod
-
 - existing
 layout: post
 ---
-
 The promise of an instant, lush green lawn is incredibly appealing, and for many homeowners, sod offers just that. It bypasses the waiting period of seeding, transforming bare soil into a verdant carpet almost overnight. However, faced with an existing but struggling lawn, some might be tempted by a seemingly quicker fix: laying new sod directly over the old grass.
 
 While this shortcut might appear to save time and effort, it is almost universally considered a practice that leads to poor results, wasted investment, and ultimately, a less healthy and less resilient lawn.

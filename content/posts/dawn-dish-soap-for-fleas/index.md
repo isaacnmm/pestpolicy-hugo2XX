@@ -1,25 +1,20 @@
-﻿---
+---
 title: Dawn Dish Soap for Fleas
-description: Witnessing my pets scratching, or even falling ill from flea bites is distressing. So, you're wondering, can Dawn dish soap the household detergent really...
+description: Witnessing my pets scratching, or even falling ill from flea bites is
+  distressing. So, you're wondering, can Dawn dish soap the household detergent really...
 slug: /dawn-dish-soap-for-fleas/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Fleas
-
 - Guide
 tags:
-
 - fleas
-
 - dawn
-
 - dish
 layout: post
 ---
-
 Witnessing my pets scratching, or even falling ill from flea bites is distressing. So, you're wondering, can Dawn dish soap (the household detergent) [really kill fleas](https://pestpolicy.com/best-flea-treatment-for-puppies/)on your dogs or cats? **Certainly! Dawn dish soap can kill fleas on your cats and dogs, but it's a less effective flea control method compared to IGR sprays.
 
 Although it can easily remove grease and oil from wild birds, the flea-killing process is different. ** - *According to Dr. Andrea Miller, Dawn **dish soap works by degreasing the fleas' protective exoskeleton waxy *through the*surfactant effect**, essentially drowning them. Also, the fleas become susceptible to dehydration, and other environmental stressors.

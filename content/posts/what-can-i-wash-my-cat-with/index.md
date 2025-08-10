@@ -1,23 +1,19 @@
-﻿---
+---
 title: What Can I Wash My Cat With
-description: You're ready to give your fluffy, adorable cat a bath - or it has fleashttpspestpolicy.comhow-to-tell-if-your-cat-has-fleas .
+description: You're ready to give your fluffy, adorable cat a bath - or it has fleashttpspestpolicy.comhow-to-tell-if-your-cat-has-fleas
+  .
 slug: /what-can-i-wash-my-cat-with/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Fleas
-
 - Guide
 tags:
-
 - fleas
-
 - cat
 layout: post
 ---
-
 You're ready to give your fluffy, adorable cat a bath - [or it has [fleas](https://pestpolicy.com/cat-fleas-vs-dog-fleas/)](https://pestpolicy.com/how-to-tell-if-your-[cat](https://pestpolicy.com/how-to-tell-if-your-cat-has-fleas/)-has-fleas/).You're considering using shampoo, maybe dish soap, or probably laundry detergent?
 
 Really, what can I wash my cat with?

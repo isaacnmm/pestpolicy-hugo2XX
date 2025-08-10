@@ -1,25 +1,20 @@
-﻿---
+---
 title: Can Bearded Dragons Eat Carrots
-description: Can bearded dragons.html eat carrots? You know that bearded dragons love eating a variety of vegetables. Vegetables are a good source of minerals, vitamins,...
+description: Can bearded dragons.html eat carrots? You know that bearded dragons love
+  eating a variety of vegetables. Vegetables are a good source of minerals, vitamins,...
 slug: /can-bearded-dragons-eat-carrots/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Guide
-
 - Lizard
 tags:
-
 - guide
-
 - bearded
-
 - dragon
 layout: post
 ---
-
 Can [bearded dragons](http://avianexotichospital.com/bearded-[dragon](https://pestpolicy.com/can-bearded-dragons-eat-apples/).html) eat carrots? You know that bearded dragons love eating a variety of vegetables. Vegetables are a good source of minerals, vitamins, and water. So, we recently analyzed this - what do bearded dragons eat? But, can bearded dragons eat carrots? **Short answer is YES Bearded dragons love eating carrots.
 
 Carrots are rich in Beta-carotene and vitamin A which are essential requirements in a bearded dragons diet. However, carrots should be avoided if the bearded dragon is presently on vitamin A supplements. ** Thats because feeding the bearded dragon on carrots while it is receiving vitamin A supplements might lead excess vitamin A. This condition is known as vitamin A toxicity or hypervitaminosis A.

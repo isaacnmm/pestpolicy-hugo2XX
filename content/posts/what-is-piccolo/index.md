@@ -1,21 +1,19 @@
-﻿---
+---
 title: What is Piccolo
-description: What is Piccolo? Ive been a flutist for 5 years, but I also play the piccolo. In comparison to the flute, the piccolo has a higher tone . However, the piccolo...
+description: What is Piccolo? Ive been a flutist for 5 years, but I also play the
+  piccolo. In comparison to the flute, the piccolo has a higher tone . However, the
+  piccolo...
 slug: /what-is-piccolo/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Recording
 tags:
-
 - recording
-
 - piccolo
 layout: post
 ---
-
 What is Piccolo? Ive been a flutist for 5 years, but I also play the piccolo. In comparison to the flute, the [piccolo has a higher tone](https://en.wikipedia.org/wiki/Piccolo).
 
 However, the piccolo is much smaller than the flute: being smaller and shorter thus considered a lower instrument. To play piccolo, youll need to add or subtract through lifting our fingers and thats what changes the length of the tube inside and hence alter the notes.

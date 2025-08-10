@@ -1,25 +1,20 @@
-﻿---
+---
 title: Signs Of a Cockroach Infestation
-description: Are you suspecting cockroaches in your househttpspestpolicy.comhow-to-get-rid-of-cockroaches-in-apartments ? One thing you need to know is that roaches are...
+description: Are you suspecting cockroaches in your househttpspestpolicy.comhow-to-get-rid-of-cockroaches-in-apartments
+  ? One thing you need to know is that roaches are...
 slug: /signs-of-a-cockroach-infestation/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Cockroaches
-
 - Guide
 tags:
-
 - cockroaches
-
 - sign
-
 - cockroach
 layout: post
 ---
-
 Are you [suspecting [cockroaches](https://pestpolicy.com/cockroach-eggs/)in your house](https://pestpolicy.com/how-to-get-rid-of-cockroaches-in-apartments/)?One thing you need to know is that roaches are nocturnal pests and are very active during the night. They are very tactical, as they will also hide in crevices and cracks which complicate things.
 
 **In summary, the signs of a [cockroach](https://pestpolicy.com/cockroach-vs-palmetto-bug/)infestation are roach droppings, live or dead cockroaches, smear marks, shredded roach skin, strong odor, roach egg capsules, plus furniture and property damage. **

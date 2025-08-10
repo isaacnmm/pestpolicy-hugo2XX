@@ -1,27 +1,21 @@
-﻿---
+---
 title: How to Grow Crape Myrtles from Seed
-description: Crape myrtles Lagerstroemia spp. are beloved deciduous trees and shrubs, particularly cherished in warmer climates for their spectacular, long-lasting summer...
+description: Crape myrtles Lagerstroemia spp. are beloved deciduous trees and shrubs,
+  particularly cherished in warmer climates for their spectacular, long-lasting summer...
 slug: /how-to-grow-crape-myrtles-from-seed/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Gardening
-
 - Plants and Flowers
-
 - Guides
 tags:
-
 - gardening
-
 - crape
-
 - myrtle
 layout: post
 ---
-
 [Crape](https://pestpolicy.com/how-to-grow-crape-myrtles-in-cold-climates/)myrtles (Lagerstroemia spp. ) are beloved deciduous trees and shrubs, particularly cherished in warmer climates for their spectacular, long-lasting summer blooms, attractive peeling bark, and often vibrant fall foliage.
 
 While commonly propagated through cuttings or purchased as established plants, growing crape myrtles from seed can be a rewarding and cost-effective way to produce new specimens.

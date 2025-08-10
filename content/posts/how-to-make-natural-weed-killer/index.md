@@ -1,21 +1,17 @@
-﻿---
+---
 title: How to Make Natural Weed Killer
-description: Weeds are the bane of every gardener's existence, relentlessly competing with desirable plants for nutrients, water, and sunlight.
+description: Weeds are the bane of every gardener's existence, relentlessly competing
+  with desirable plants for nutrients, water, and sunlight.
 slug: /how-to-make-natural-weed-killer/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Guides
-
 - Gardening
 tags:
-
 - guides
-
 - natural
-
 - weed
 layout: post
 ---

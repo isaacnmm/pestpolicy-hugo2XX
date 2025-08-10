@@ -1,25 +1,21 @@
-﻿---
+---
 title: How Can You Tell If You Have Moles in Your Yard
-description: Maybe in your yard, you spotted a mouse or a rat, or its a mole but you can tell the difference. How can you tell if you have moles in your yard? Well, here...
+description: Maybe in your yard, you spotted a mouse or a rat, or its a mole but you
+  can tell the difference. How can you tell if you have moles in your yard? Well,
+  here...
 slug: /how-can-you-tell-if-you-have-moles-in-your-yard/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Guide
-
 - Moles
 tags:
-
 - guide
-
 - mole
-
 - your
 layout: post
 ---
-
 Maybe in your yard, you spotted a mouse or a rat, or its a [mole](https://pestpolicy.com/do-moles-have-eyes/)but you can tell the difference. How can you tell if you have moles in [your](https://pestpolicy.com/how-to-clean-your-laptop-keyboard/)yard? **Well, here are the signs of moles in the yard; moulding, drying plants and grass, and sighting a mole.
 
 You need to deal with them, the moment you spot them before the level of damage can be extensive.

@@ -1,25 +1,20 @@
-﻿---
+---
 title: What Do Baby Lizards Eat
-description: What do baby lizards eat?What do lizards feed their young ones also know as hatchlings ? How do they do it and how long before they can go get their food?...
+description: What do baby lizards eat?What do lizards feed their young ones also know
+  as hatchlings ? How do they do it and how long before they can go get their food?...
 slug: /what-do-baby-lizards-eat/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Fleas
-
 - Guide
 tags:
-
 - fleas
-
 - baby
-
 - lizard
 layout: post
 ---
-
 What do [baby](https://pestpolicy.com/can-i-use-baby-shampoo-on-my-cat/)lizards eat? What do lizards feed their young ones (also know as [hatchlings](https://nhm.org/stories/tis-season-baby-lizards))? How do they do it and how long before they can go get their food?
 
 Well, this article piece is all about lizard baby food -just like noted that [garden lizard eats caterpillars, insects, small crickets, and some greens and fruits](https://pestpolicy.com/what-does-a-garden-lizard-eat/).

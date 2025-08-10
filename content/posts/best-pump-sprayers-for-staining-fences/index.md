@@ -1,23 +1,19 @@
-﻿---
+---
 title: Best Pump Sprayers for Staining Fences
-description: Using the best pump sprayers for staining fences will be both less labor- and time-intensive compared to using a roller or brush.
+description: Using the best pump sprayers for staining fences will be both less labor-
+  and time-intensive compared to using a roller or brush.
 slug: /best-pump-sprayers-for-staining-fences/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Sprayers
 tags:
-
 - sprayers
-
 - best
-
 - pump
 layout: post
 ---
-
 Using the best pump [sprayers](https://pestpolicy.com/best-air-compressors-for-spray-painting/)for staining fences will be both less labor- and time-intensive compared to using a roller or brush. But the roller and roller trends push your painting material deeper into the wood.
 
 You should stain or paint your wood fence ( [with exterior decking stain](https://pestpolicy.com/[best](https://pestpolicy.com/best-airless-paint-sprayer/)-stain-for-swing-set/)) every 2-3 years as the wood will be exposed to many elements - and thus staining or painting will increase its durability. On quantity, you'll require one gallon of stain for painting smaller fences of roughly 175 square feet.

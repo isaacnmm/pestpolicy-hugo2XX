@@ -1,25 +1,21 @@
-﻿---
+---
 title: Does Salt Kill Bed Bugs
-description: Does salt kill bed bugs? There are many popular home remedies for bed bugs, including essential oils such as Tea Tree Oil and Lavender . Salt is cheap and...
+description: Does salt kill bed bugs? There are many popular home remedies for bed
+  bugs, including essential oils such as Tea Tree Oil and Lavender . Salt is cheap
+  and...
 slug: /does-salt-kill-bed-bugs/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Bed Bugs
-
 - Guide
 tags:
-
 - bed-bugs
-
 - doe
-
 - salt
 layout: post
 ---
-
 Does salt kill bed bugs? There are many popular home remedies for bed bugs, including essential oils/) such as Tea Tree Oil and Lavender. Salt is cheap and readily available and is also easy to use. However, not all of them will give you the best result. So, does salt kill bed bugs? *The short answer is, Yes and NO; bedbugs have a waxy shell.
 
 Therefore, if you apply salt on them, the waxy shell will prevent the salt from being absorbed into their body to dehydrate them.

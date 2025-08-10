@@ -1,23 +1,20 @@
-﻿---
+---
 title: Soundproof Dog Crate
-description: Did you know that your dog could be stressed or mentally detailed by boom sounds and noises like road traffic, trains, thunder, and fireworks? Is your dog...
+description: Did you know that your dog could be stressed or mentally detailed by
+  boom sounds and noises like road traffic, trains, thunder, and fireworks? Is your
+  dog...
 slug: /soundproof-dog-crate/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Soundproofing
 tags:
-
 - soundproofing
-
 - dog
-
 - crate
 layout: post
 ---
-
 Did you know that your [dog](https://pestpolicy.com/best-dog-backpack-carrier-for-hiking/)could be stressed or mentally detailed by boom sounds and noises like road traffic, trains, thunder, and fireworks?
 
 Is your dog frequently hiding, howling, barking, drooling, whining, shaking, or panting? Does this really get on your nerves? Well, youll need to soundproof the dogs crate, closet, or room - toreduce the [noise levels](https://ehs.yale.edu/sites/default/files/files/decibel-level-chart.pdf).

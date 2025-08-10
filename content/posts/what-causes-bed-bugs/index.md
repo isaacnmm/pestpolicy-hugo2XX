@@ -1,25 +1,20 @@
-﻿---
+---
 title: What Causes Bed Bugs
-description: Bed bugs Cimex lectularius are a fact of life, particularly after states banned DDT for its toxicity to humans. So, are bed bugs caused by dirty homes or...
+description: Bed bugs Cimex lectularius are a fact of life, particularly after states
+  banned DDT for its toxicity to humans. So, are bed bugs caused by dirty homes or...
 slug: /what-causes-bed-bugs/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Bed Bugs
-
 - Guide
 tags:
-
 - bed-bugs
-
 - bed
-
 - bug
 layout: post
 ---
-
 Bed bugs/) (Cimex lectularius) are a fact of life, particularly after [states banned DDT](https://www.epa.gov/ingredients-used-pesticide-products/ddt-brief-history-and-status)for its toxicity to humans. So, are bed bugs caused by dirty homes or living quarters? Well, NO! You'll also find bed bugs in clean environs like high-end quarters and 5-star hotels. So, what causes bed bugs?
 
 The short answer is that bed bugs are caused by traveling in bed bugs and infested places or acquiring second-hand furniture and mattresses. Bed bugs will hitchhike your luggage, clothing, and legs to suck blood. They're flat-bodied and wingless it measures 5 to 7 mm. [bctt tweet="What Causes Bed Bugs? " username="@pestpolicy"]

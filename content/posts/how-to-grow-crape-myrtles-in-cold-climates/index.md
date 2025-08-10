@@ -1,21 +1,17 @@
-﻿---
+---
 title: How to Grow Crape Myrtles in Cold Climates
-description: Crape myrtles Lagerstroemia species, with their vibrant, long-lasting summer blooms, attractive peeling bark, and often striking fall foliage, are a...
+description: Crape myrtles Lagerstroemia species, with their vibrant, long-lasting
+  summer blooms, attractive peeling bark, and often striking fall foliage, are a...
 slug: /how-to-grow-crape-myrtles-in-cold-climates/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Guides
-
 - Gardening
 tags:
-
 - guides
-
 - crape
-
 - myrtle
 layout: post
 ---

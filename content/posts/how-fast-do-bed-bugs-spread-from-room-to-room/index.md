@@ -1,25 +1,20 @@
-﻿---
+---
 title: How Fast Do Bed Bugs Spread from Room to Room
-description: As long as the bed bugs get a blood meal, they continue to multiply and increase in numbers. But how fast do bed bugs spread from room to room?
+description: As long as the bed bugs get a blood meal, they continue to multiply and
+  increase in numbers. But how fast do bed bugs spread from room to room?
 slug: /how-fast-do-bed-bugs-spread-from-room-to-room/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Bed Bugs
-
 - Guide
 tags:
-
 - bed-bugs
-
 - fast
-
 - bed
 layout: post
 ---
-
 As long as the bed bugs get a blood meal, they continue to multiply and increase in numbers. But how fast do bed bugs spread from room to room? Bed bugs dont thrive in dirty places but rather warm environments. **Bed bugs are wingless and crawl to move to their destination. They can move up to a speed of 4 feet per minute which can translate to an average distance of 100 feet per hour.
 
 ** **But how fast they spread in your home varied with how fast you apply the control measures.

@@ -1,23 +1,19 @@
-﻿---
+---
 title: Best Oil Based Primer for Cabinets
-description: Priming the surfaces of your cabinets prior to painting promotes better paint coverage - I recommend using the best oil-based primer for cabinets. For a...
+description: Priming the surfaces of your cabinets prior to painting promotes better
+  paint coverage - I recommend using the best oil-based primer for cabinets. For a...
 slug: /best-oil-based-primer-for-cabinets/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Paint
 tags:
-
 - paint
-
 - best
-
 - oil
 layout: post
 ---
-
 Priming the surfaces of your cabinets prior to painting promotes better paint coverage - I recommend using the best oil-based primer for cabinets.
 
 For a cabinet that's stained, you'll require to apply a minimum of two quality primer coats. Compared to oil-based primers, shellac-based primers dry fast and won't have brush marks but not like. The Oil-based primers will work great on the exterior and interior bare or unfinished wood. The primers will seal your porous wood and thus give better coverage.

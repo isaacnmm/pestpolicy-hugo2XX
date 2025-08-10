@@ -1,21 +1,18 @@
-﻿---
+---
 title: Best Trimmer Line
-description: There are numerous tools for maintaining a properly landscaped lawn but few are as efficient as the trimmer line. A line trimmer makes it easy to cut grass...
+description: There are numerous tools for maintaining a properly landscaped lawn but
+  few are as efficient as the trimmer line. A line trimmer makes it easy to cut grass...
 slug: /best-trimmer-line/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Tillers
 tags:
-
 - tillers
-
 - line
 layout: post
 ---
-
 There are numerous tools for maintaining a properly landscaped lawn but few are as efficient as the trimmer line. A line trimmer makes it easy to cut grass and get rid of weeds efficiently in bordered areas or raised beds.
 
 The best trimmer lines are highly durable and efficient at cutting through material easily.

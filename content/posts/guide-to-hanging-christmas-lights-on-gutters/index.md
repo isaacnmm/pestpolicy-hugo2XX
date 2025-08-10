@@ -1,21 +1,17 @@
-﻿---
+---
 title: Guide to Hanging Christmas Lights on Gutters
-description: As the holiday season approaches, the festive glow of Christmas lights transforms homes into magical spectacles. For many, hanging lights along the roofline,...
+description: As the holiday season approaches, the festive glow of Christmas lights
+  transforms homes into magical spectacles. For many, hanging lights along the roofline,...
 slug: /guide-to-hanging-christmas-lights-on-gutters/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Gutters
-
 - Home Improvement
 tags:
-
 - gutters
-
 - hanging
-
 - christma
 layout: post
 ---

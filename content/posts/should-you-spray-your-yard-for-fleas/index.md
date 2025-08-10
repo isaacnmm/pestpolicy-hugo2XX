@@ -1,25 +1,20 @@
-﻿---
+---
 title: Should You Spray Your Yard for Fleas
-description: If used around the house beyond just the Yard, Vet's Best Flea Spray will leave no stains even in places that the pets eat, play, sleep or live. - However,...
+description: If used around the house beyond just the Yard, Vet's Best Flea Spray
+  will leave no stains even in places that the pets eat, play, sleep or live. - However,...
 slug: /should-you-spray-your-yard-for-fleas/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Fleas
-
 - Guide
 tags:
-
 - fleas
-
 - yard
-
 - flea
 layout: post
 ---
-
 If used around the house (beyond just the Yard), [Vet's Best Flea Spray](https://pestpolicy.com/best-flea-spray-for-yard/)will leave no stains even in places that the pets eat, play, sleep or live. - However, you'll need to test a small area like on pant legs or shoes before you undertake full-blown spraying. Now, point the spray nozzle in any direction in your Yard or lawn to spray.
 
 However, ensure that you flea-spray the yard area evenly and avoid forming a puddle.

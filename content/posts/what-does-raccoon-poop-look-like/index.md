@@ -1,25 +1,21 @@
-﻿---
+---
 title: What Does Raccoon Poop Look Like
-description: Raccoons are nocturnal, thus it's difficult to spot them easily during the day. But, raccoon poops and urine smell are key indicators in case of invasion. So,...
+description: Raccoons are nocturnal, thus it's difficult to spot them easily during
+  the day. But, raccoon poops and urine smell are key indicators in case of invasion.
+  So,...
 slug: /what-does-raccoon-poop-look-like/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Guide
-
 - Raccoons
 tags:
-
 - guide
-
 - raccoon
-
 - poop
 layout: post
 ---
-
 Raccoons are nocturnal, thus it's difficult to spot them easily during the day. But, [raccoon poops and urine](https://pestpolicy.com/parasites/baylisascaris/resources/raccoonlatrines.pdf)smell are key indicators in case of invasion. **So, what does raccoon [poop](https://pestpolicy.com/what-does-lizard-poop-look-like/)look like?
 
 Well, raccoon poop is brown in color (dark to light brown) and appears like an elongated pinky finger on the ground.

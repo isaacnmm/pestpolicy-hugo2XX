@@ -1,21 +1,18 @@
-﻿---
+---
 title: Guide to All the Parts Of a Toilet Tank
-description: The toilet, an essential fixture in every home, often goes unnoticed until a problem arises. When it starts running, not flushing properly, or making strange...
+description: The toilet, an essential fixture in every home, often goes unnoticed
+  until a problem arises. When it starts running, not flushing properly, or making
+  strange...
 slug: /guide-to-all-the-parts-of-a-toilet-tank/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Maintenance
-
 - Bathroom
 tags:
-
 - maintenance
-
 - toilet
-
 - tank
 layout: post
 ---

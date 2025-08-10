@@ -1,21 +1,17 @@
-﻿---
+---
 title: Leaffilter Cost
-description: For homeowners tired of the relentless cycle of gutter cleaning, the promise of a "clog-free gutter" system is incredibly appealing.
+description: For homeowners tired of the relentless cycle of gutter cleaning, the
+  promise of a "clog-free gutter" system is incredibly appealing.
 slug: /leaffilter-cost/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Gutter Guards
-
 - Home Improvement
 tags:
-
 - gutter-guards
-
 - leaffilter
-
 - cost
 layout: post
 ---

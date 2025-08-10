@@ -1,25 +1,21 @@
-﻿---
+---
 title: How to Get Rid Of Flea Eggs on Cats
-description: Previously, I discussed the top flea foggers , but we'll cover how you can get rid of cat flea eggs in this post. In short, to get rid of flea eggs on cats,...
+description: Previously, I discussed the top flea foggers , but we'll cover how you
+  can get rid of cat flea eggs in this post. In short, to get rid of flea eggs on
+  cats,...
 slug: /how-to-get-rid-of-flea-eggs-on-cats/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Fleas
-
 - Guide
 tags:
-
 - fleas
-
 - rid
-
 - flea
 layout: post
 ---
-
 Previously, I discussed the [top flea foggers](https://pestpolicy.com/best-fogger-for-[fleas](https://pestpolicy.com/getting-rid-of-fleas-in-the-carpet/)/),but we'll cover how you can get rid of cat [flea](https://pestpolicy.com/how-to-get-rid-of-fleas/)eggs in this post.
 
 In short, to get rid of flea eggs on cats, Bathe the cat with a flea shampoo, flea comb the cat's fur (with tightly-spaced tines), give oral cat flea medicine such as lufenuron, and kill adult fleas using cat medication such as nitenpyram twice per week. **First off**: Whats the negative effect of having [fleas on your cat](https://entnemdept.ufl.edu/creatures/urban/occas/catflea.htm)or kittens?

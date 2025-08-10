@@ -1,25 +1,21 @@
-﻿---
+---
 title: Raccoon Facts
-description: Whether your home is surrounded by trees or skyscrapers, raccoons are likely a part of the wildlife population in your area. Raccoons are some of the most...
+description: Whether your home is surrounded by trees or skyscrapers, raccoons are
+  likely a part of the wildlife population in your area. Raccoons are some of the
+  most...
 slug: /raccoon-facts/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Guide
-
 - Raccoons
 tags:
-
 - guide
-
 - raccoon
-
 - fact
 layout: post
 ---
-
 Whether your home is surrounded by trees or skyscrapers, raccoons are likely a part of the wildlife population in your area.
 
 Raccoons are some of the most adaptable pests in the Americas, and they can be found in both urban and rural areas in different climates.

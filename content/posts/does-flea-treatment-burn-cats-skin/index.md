@@ -1,25 +1,20 @@
-﻿---
+---
 title: Does Flea Treatment Burn Cats Skin
-description: On how to flea treat kittens with sensitive skin?Kittenscats with sensitive skin are delicate animals to handle, even with kittens' best flea treatment .
+description: On how to flea treat kittens with sensitive skin?Kittenscats with sensitive
+  skin are delicate animals to handle, even with kittens' best flea treatment .
 slug: /does-flea-treatment-burn-cats-skin/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Fleas
-
 - Guide
 tags:
-
 - fleas
-
 - doe
-
 - flea
 layout: post
 ---
-
 On how to flea treat kittens with sensitive skin? Kittens/cats with sensitive skin are delicate animals to handle, even with kittens' best flea treatment. These skin sensations are triggered by some causes such as: 1. Allergens cause irritation and itching. 2. Flea infestations Flea bites-live-on-clothes/)my case diseases like Bartonella, Anemia, or Flea Allergy Dermatitis on your kittens.
 
 ##  Details: Does Flea Treatment Burn Cats Skin?

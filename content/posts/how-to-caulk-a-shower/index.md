@@ -1,21 +1,17 @@
-﻿---
+---
 title: How to Caulk a Shower
-description: Caulking a shower might seem like a small detail in bathroom maintenance, but it plays a monumental role in protecting your home from water damage and...
+description: Caulking a shower might seem like a small detail in bathroom maintenance,
+  but it plays a monumental role in protecting your home from water damage and...
 slug: /how-to-caulk-a-shower/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Home Maintenance
-
 - Bathroom
 tags:
-
 - home-maintenance
-
 - shower
-
 - leak
 layout: post
 ---

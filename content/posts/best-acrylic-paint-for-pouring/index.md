@@ -1,23 +1,20 @@
-﻿---
+---
 title: Best Acrylic Paint for Pouring
-description: If you're looking for the best acrylic paint for pouring, you have to choose between different paint textures and brands - which might be a devastating task....
+description: If you're looking for the best acrylic paint for pouring, you have to
+  choose between different paint textures and brands - which might be a devastating
+  task....
 slug: /best-acrylic-paint-for-pouring/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Paint
 tags:
-
 - paint
-
 - best
-
 - acrylic
 layout: post
 ---
-
 If you're looking for the best [acrylic](https://pestpolicy.com/best-acrylic-paint-for-canvas/)[paint](https://pestpolicy.com/best-acrylic-paint-for-professional-artists/) for pouring, you have to choose between different paint textures and brands - which might be a devastating task.
 
 Consider ease of mixing with different pouring mediums, quality of dried texture, area to be painted, ease of missing with different pouring mediums, and cost - maybe craft acrylics and artist-quality acrylics? Besides, you may require to use water to use any of your thicker acrylics - maybe mix 1 part of GAC 100 with 1. 6 parts of water then use it to thin your thick paints. See Also: [Acrylic Paint for Canvas](https://pestpolicy.com/best-acrylic-paint-for-canvas/).

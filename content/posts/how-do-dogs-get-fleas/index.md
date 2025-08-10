@@ -1,25 +1,21 @@
-﻿---
+---
 title: How Do Dogs Get Fleas
-description: Fleas are a harsh pest when they attack your pets including dogs and cats. The bloodsuckers fleas will bite the dogs, causing irritation, scratching, pain,...
+description: Fleas are a harsh pest when they attack your pets including dogs and
+  cats. The bloodsuckers fleas will bite the dogs, causing irritation, scratching,
+  pain,...
 slug: /how-do-dogs-get-fleas/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Fleas
-
 - Guide
 tags:
-
 - fleas
-
 - dog
-
 - get
 layout: post
 ---
-
 [Fleas](https://pestpolicy.com/best-dog-backpack-carrier-for-hiking/)are a harsh pest when they attack your pets including dogs and cats. The bloodsuckers (fleas) will bite the dogs, causing irritation, scratching, pain, and even diseases. But how do dogs get fleas? **In brief, dogs may get fleas from places such as the backyard, the park, ** **Pet facilities, ** **or when they come into contact with animals such as wildlife and pets.
 
 Outdoor animals that may bring fleas to dogs include foxes, raccoons, deer, rabbits, opossum, skunks, squirrels, ferrets, birds, and rodents. **

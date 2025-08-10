@@ -1,27 +1,22 @@
-﻿---
+---
 title: How to Control Wire Grass in Your Lawn
-description: '''Wire grass'' is a common name used to describe several tough, aggressive grassy weeds that are notorious for invading and outcompeting desirable turfgrass in la'
+description: '''Wire grass'' is a common name used to describe several tough, aggressive
+  grassy weeds that are notorious for invading and outcompeting desirable turfgrass
+  in la'
 slug: /how-to-control-wire-grass-in-your-lawn/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Lawn Care
-
 - Weed Control
-
 - Guides
 tags:
-
 - lawn-care
-
 - wire
-
 - gra
 layout: post
 ---
-
 "Wire grass" is a common name used to describe several tough, aggressive grassy weeds that are notorious for invading and outcompeting desirable turfgrass in lawns.
 
 While the term can sometimes refer to Bermuda grass (*Cynodon dactylon*) when it's growing where it's not wanted, it most commonly refers to **Nimblewill (*Muhlenbergia schreberi*)** or sometimes **Quackgrass (*Elymus repens*)** in cooler climates, and various other resilient species depending on the region.

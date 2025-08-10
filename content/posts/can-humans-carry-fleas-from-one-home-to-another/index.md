@@ -1,25 +1,20 @@
-﻿---
+---
 title: Can Humans Carry Fleas from One Home to Another
-description: Fleas are tiny pests that primarily infest dogs and cats, feeding on their blood and causing itching, allergies, and even diseases.
+description: Fleas are tiny pests that primarily infest dogs and cats, feeding on
+  their blood and causing itching, allergies, and even diseases.
 slug: /can-humans-carry-fleas-from-one-home-to-another/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Fleas
-
 - Guide
 tags:
-
 - fleas
-
 - human
-
 - carry
 layout: post
 ---
-
 [Fleas](https://pestpolicy.com/can-you-use-human-shampoo-on-cats/)are tiny pests that primarily infest dogs and cats, feeding on their blood and causing itching, allergies, and even diseases. But what about humans? **Can we [carry](https://pestpolicy.com/do-squirrels-carry-fleas/)fleas from one house to another? ** The answer is **yes - but its uncommon**. Unlike bed bugs or ticks, fleas dont prefer human hosts.
 
 However, they can **hitchhike on clothing, shoes, or skin**, especially after contact with infested pets or environments. This guide covers:

@@ -1,25 +1,20 @@
-﻿---
+---
 title: How to Control Dollarweed Pennywort in Your Lawn
-description: Dollarweed, also known as pennywort Hydrocotyle spp., is one of the most frustrating and persistent weeds for homeowners, particularly in warmer, humid...
+description: Dollarweed, also known as pennywort Hydrocotyle spp., is one of the most
+  frustrating and persistent weeds for homeowners, particularly in warmer, humid...
 slug: /how-to-control-dollarweed-pennywort-in-your-lawn/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Guides
-
 - Lawn Care
 tags:
-
 - guides
-
 - dollarweed
-
 - pennywort
 layout: post
 ---
-
 Dollarweed, also known as pennywort (*Hydrocotyle spp. *), is one of the most frustrating and persistent weeds for homeowners, particularly in warmer, humid climates like many parts of Kenya. Its distinctive round, coin-shaped leaves, which give it its common name, can quickly spread through lawns, flowerbeds, and even gravel paths, forming dense mats that choke out desirable plants.
 
 This aggressive perennial thrives in moist conditions, making it a common sight in irrigated lawns or areas with poor drainage.

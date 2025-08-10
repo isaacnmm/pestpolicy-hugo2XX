@@ -1,25 +1,20 @@
-﻿---
+---
 title: What is Blep in Pets Cats and Dogs
-description: Cats never cease to amaze with their adorable but sometimes bizarre behaviors. One such behavior is blep as described on the inter-webs, particularly among...
+description: Cats never cease to amaze with their adorable but sometimes bizarre behaviors.
+  One such behavior is blep as described on the inter-webs, particularly among...
 slug: /what-is-blep-in-pets-cats-and-dogs/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Fleas
-
 - Guide
 tags:
-
 - fleas
-
 - pet
-
 - cat
 layout: post
 ---
-
 Cats never cease to amaze with their adorable but sometimes bizarre behaviors. One such behavior is [blep](https://www.reddit.com/r/Blep/)(as described on the inter-webs), particularly among cats and dogs. So, we asked our pet behavior expert: What is blep in pets (cats and dogs), you ask? Well, no one really knows the origin of this blep word, but you might already know how it looks like.
 
 It's when your [cat](https://pestpolicy.com/cat-fleas-vs-dog-fleas/)or dog unconsciously sticks out its tongue, particularly when they forget to take it back. Most time, cats blep while they are resting. So, blep, it's usually not anything to worry about. But, blep can also significant damage to the face, teeth, or jaw. Read Also: Flea Treatment for Dogs.

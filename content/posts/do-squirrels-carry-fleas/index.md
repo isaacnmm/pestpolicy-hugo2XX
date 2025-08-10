@@ -1,25 +1,20 @@
-﻿---
+---
 title: Do Squirrels Carry Fleas
-description: Well, it is hard to get rid of fleas at your home if you don't know where they are coming from. So, really, do squirrels carry fleas? Wildlife, particularly...
+description: Well, it is hard to get rid of fleas at your home if you don't know where
+  they are coming from. So, really, do squirrels carry fleas? Wildlife, particularly...
 slug: /do-squirrels-carry-fleas/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Fleas
-
 - Guide
 tags:
-
 - fleas
-
 - squirrel
-
 - carry
 layout: post
 ---
-
 Well, it is hard to get rid of fleas at your home if you don't know where they are coming from. So, really, do squirrels [carry](https://pestpolicy.com/can-humans-carry-fleas-from-one-home-to-another/)fleas?
 
 Wildlife, particularly rodents can easily deposit eggs or larvae around your yard which brings a host of challenges for humans. **To answer this question, YES - squirrels carry fleas. The pests and their eggs can be dropped from the [squirrel](https://pestpolicy.com/do-squirrels-carry-ticks/)'sfur and fall off on your garden** **, lawn, or yard as the rodent walks through.

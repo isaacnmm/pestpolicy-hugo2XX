@@ -1,25 +1,21 @@
-﻿---
+---
 title: Permethrin
-description: Permethrin is one of the synthetic chemicals that are classified under the pyrethroids family and come from a chrysanthemum flower. Permethrin has been in use...
+description: Permethrin is one of the synthetic chemicals that are classified under
+  the pyrethroids family and come from a chrysanthemum flower. Permethrin has been
+  in use...
 slug: /permethrin/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Fleas
-
 - Guide
 tags:
-
 - fleas
-
 - permethrin
-
 - insect
 layout: post
 ---
-
 Permethrin is one of the synthetic chemicals that are classified under the [pyrethroids family](https://www.epa.gov/ingredients-used-pesticide-products/registration-review-pyrethrins-and-pyrethroids)and come from a chrysanthemum flower. Permethrin has been in use as an insecticide (as approved by EPA) since 1979 but its use has been adopted in 2006. This broad insecticide can be used in a number of techniques in controlling insects. 1.
 
 Controlling mosquitoes, especially in programs meant for the general public. 2. Spraying on clothes, structures, pets, yard or gardens, livestock, ornamental lawns, seed, and food crops. You may also spray around food-handling areas.

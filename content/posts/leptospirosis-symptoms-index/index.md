@@ -1,23 +1,19 @@
-﻿---
+---
 title: Leptospirosis Symptoms Index
-description: Leptospirosis is a bacterial infection that can affect both humans and animals. It is caused by bacteria of the genus Leptospira , and can lead to severe...
+description: Leptospirosis is a bacterial infection that can affect both humans and
+  animals. It is caused by bacteria of the genus Leptospira , and can lead to severe...
 slug: /leptospirosis-symptoms-index/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Guide
 tags:
-
 - guide
-
 - leptospirosi
-
 - symptom
 layout: post
 ---
-
 Leptospirosis is a bacterial infection that can affect both humans and animals. It is caused by bacteria of the genus *Leptospira*, and can lead to severe symptoms or even death if left untreated. Understanding the symptoms of leptospirosis is essential for early detection and treatment. This index will help you identify the various symptoms of leptospirosis and understand the progression of the disease.
 
 ##  Symptoms of Leptospirosis

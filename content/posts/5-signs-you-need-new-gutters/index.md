@@ -1,21 +1,17 @@
-﻿---
+---
 title: 5 Signs You Need New Gutters
-description: Gutters are more than just an aesthetic trim on your home they are a critical component of its defense system against water damage.
+description: Gutters are more than just an aesthetic trim on your home they are a
+  critical component of its defense system against water damage.
 slug: /5-signs-you-need-new-gutters/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Gutters
-
 - Home Improvement
 tags:
-
 - gutters
-
 - sign
-
 - new
 layout: post
 ---

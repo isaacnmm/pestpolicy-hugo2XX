@@ -1,25 +1,20 @@
-﻿---
+---
 title: Do Possums Eat Chickens
-description: Maybe some chicken plus chicks and their eggs have recently disappeared from their coop. Recently, there have been some native opossums Didelphis Virginiana...
+description: Maybe some chicken plus chicks and their eggs have recently disappeared
+  from their coop. Recently, there have been some native opossums Didelphis Virginiana...
 slug: /do-possums-eat-chickens/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Guide
-
 - Moles
 tags:
-
 - guide
-
 - possum
-
 - eat
 layout: post
 ---
-
 Maybe some chicken (plus chicks) and their eggs have recently disappeared from their coop. Recently, there have been some native opossums *(Didelphis Virginiana) and dead chickens * around - well, these are scavengers. So, you're wondering really 'do possums eat chickens? ' Well, Yes, possums will scavenger and eat chickens (including fully-grown hens) and other easy food sources like chicks and eggs.
 
 - The adult [possum](https://pestpolicy.com/do-possums-eat-cats/)weighs 4 to 15 lb and measures about 21 to 36 inches in length - about the size of your house-cat. They have 50 pointed and sharp teeth with a white mouth (& face) with grey or white fur. - You'll also notice that they have a hairless tail, black eyes, and pink nose, and pointed faces.

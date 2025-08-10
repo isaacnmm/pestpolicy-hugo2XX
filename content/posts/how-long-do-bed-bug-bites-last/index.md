@@ -1,25 +1,21 @@
-﻿---
+---
 title: How Long Do Bed Bug Bites Last
-description: So, how long do bed bug bites last? If you thought mosquito bites are painful and irritating, then hopefully, you'll never get to experience the bites of a...
+description: So, how long do bed bug bites last? If you thought mosquito bites are
+  painful and irritating, then hopefully, you'll never get to experience the bites
+  of a...
 slug: /how-long-do-bed-bug-bites-last/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Bed Bugs
-
 - Guide
 tags:
-
 - bed-bugs
-
 - bed
-
 - bug
 layout: post
 ---
-
 So, how long do bed bug bites last? If you thought mosquito bites are painful and irritating, then hopefully, you'll never get to experience the bites of a bed bug. [Bed bug bites](https://nysipm.cornell.edu/whats-bugging-you/[bed-bugs](https://pestpolicy.com/bed-bug-bites-vs-mosquito-bites/)/bed-bug-faqs///#2)are itchy and painful but won't transmit disease, but it's still a nightmarish experience to deal with at home or while traveling.
 
 **If you need a short answer**, bed bug bites will mainly last anything from 1-2 weeks (roughly ten days), Though, for people who are highly allergic to such bites, the effect may last even about three weeks or more. But, baby bed bugs have weaker mandibles, and thus their bites won't go deep your skin or last long. **Check these bed bug killers. **

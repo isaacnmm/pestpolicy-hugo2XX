@@ -1,24 +1,20 @@
-﻿---
+---
 title: How to Check Your Home for Fleas
-description: It starts with a nagging feeling, doesn't it? A tiny black speck you thought you saw jump. A pet that seems to be scratching just a little more than usual.
+description: It starts with a nagging feeling, doesn't it? A tiny black speck you
+  thought you saw jump. A pet that seems to be scratching just a little more than
+  usual.
 slug: /how-to-check-your-home-for-fleas/
 date: 2025-08-01 00:00:00+03:00
 lastmod: 2025-08-01 00:00:00+03:00
 author: Isaac
 categories:
-
 - Flea Control
-
 - Guides
 tags:
-
 - flea-control
-
 - your
-
 - flea
 ---
-
 It starts with a nagging feeling, doesn't it? A tiny black speck you thought you saw jump. A pet that seems to be scratching just a little more than usual. The suspicion that you might have fleas is enough to make anyone's skin crawl. Before you can declare war, you need to be sure. You have to gather intelligence and confirm that the enemy is actually present.
 
 The absolute first place to check is the most likely source: [your](https://pestpolicy.com/growing-chrysanthemums-in-your-garden/)pet.

@@ -1,27 +1,21 @@
-﻿---
+---
 title: How to Fix Fertilizer Burn on Lawn
-description: Fertilizer is a vital tool for cultivating a lush, green lawn, providing essential nutrients that encourage robust growth and vibrant color.
+description: Fertilizer is a vital tool for cultivating a lush, green lawn, providing
+  essential nutrients that encourage robust growth and vibrant color.
 slug: /how-to-fix-fertilizer-burn-on-lawn/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Lawn Care
-
 - Guides
-
 - Problem Solving
 tags:
-
 - lawn-care
-
 - fix
-
 - fertilizer
 layout: post
 ---
-
 [Fertilizer](https://pestpolicy.com/help-for-fertilizer-burn-in-lawn/)is a vital tool for cultivating a lush, green lawn, providing essential nutrients that encourage robust growth and vibrant color. However, like any powerful tool, it must be used with care and precision.
 
 An overzealous application or improper technique can quickly turn a beneficial treatment into a damaging one, leading to a common and disheartening issue known as "fertilizer burn. "

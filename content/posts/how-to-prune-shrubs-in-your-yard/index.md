@@ -1,27 +1,21 @@
-﻿---
+---
 title: How to Prune Shrubs in Your Yard
-description: Pruning shrubs often intimidates novice gardeners, conjuring images of inadvertently disfiguring a beloved plant or, worse, causing its demise.
+description: Pruning shrubs often intimidates novice gardeners, conjuring images of
+  inadvertently disfiguring a beloved plant or, worse, causing its demise.
 slug: /how-to-prune-shrubs-in-your-yard/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Gardening
-
 - Maintenance
-
 - Guides
 tags:
-
 - gardening
-
 - prune
-
 - shrub
 layout: post
 ---
-
 Pruning shrubs often intimidates novice gardeners, conjuring images of inadvertently disfiguring a beloved plant or, worse, causing its demise. However, far from being a destructive act, proper pruning is an essential horticultural practice that is vital for the health, vitality, and aesthetic appeal of your shrubs.
 
 It's an art informed by science, a skill that, once mastered, empowers you to shape your landscape, enhance flowering, and extend the lifespan of your plants.

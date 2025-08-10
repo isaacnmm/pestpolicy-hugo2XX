@@ -1,25 +1,20 @@
-﻿---
+---
 title: Do Bed Bugs Jump
-description: Theres a common belief that bed bugs can jump! Well, bed bugs are crafty creatures and youll find them anywhere in the house. Youll find them on your bed,...
+description: Theres a common belief that bed bugs can jump! Well, bed bugs are crafty
+  creatures and youll find them anywhere in the house. Youll find them on your bed,...
 slug: /do-bed-bugs-jump/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Bed Bugs
-
 - Guide
 tags:
-
 - bed-bugs
-
 - bed
-
 - bug
 layout: post
 ---
-
 Theres a common belief that [bed bugs](https://www.researchgate.net/publication/322975297_Non-chemical_methods_of_bed_bug_control_a_case_study)can jump! Well, bed bugs are crafty creatures and youll find them anywhere in the house.
 
 Youll find them on your bed, inside furniture, on walls and even on the celling. But do they jump from one place to another. **A short answer is No. Bed bugs cant jump. Their legs are meant for crawling rather than jumping. Their lack of wings also prevents them for flying around. However, they can crawl at relatively high speeds (about 1m per minute). ** Related: Pictures of Bed Bugs

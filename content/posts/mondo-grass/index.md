@@ -1,25 +1,20 @@
-﻿---
+---
 title: Mondo Grass
-description: Mondo grass, primarily Ophiopogon japonicus, is a beloved ornamental grass-like plant known for its refined texture, evergreen foliage, and remarkable...
+description: Mondo grass, primarily Ophiopogon japonicus, is a beloved ornamental
+  grass-like plant known for its refined texture, evergreen foliage, and remarkable...
 slug: /mondo-grass/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Lawn Care
-
 - Guides
 tags:
-
 - lawn-care
-
 - mondo
-
 - gra
 layout: post
 ---
-
 Mondo grass, primarily *Ophiopogon japonicus*, is a beloved ornamental grass-like plant known for its refined texture, evergreen foliage, and remarkable versatility in the landscape. Often mistaken for its larger cousin, Liriope (lilyturf), mondo grass stands out with its finer blades and more delicate appearance, making it a favorite for creating elegant borders, softening pathways, and providing dense groundcover in shaded areas.
 
 Despite its sophisticated look, mondo grass is incredibly tough and low-maintenance, thriving where many other plants struggle.

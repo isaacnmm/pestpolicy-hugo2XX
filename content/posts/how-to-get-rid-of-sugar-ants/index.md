@@ -1,25 +1,21 @@
-﻿---
+---
 title: How to Get Rid Of Sugar Ants
-description: Sugar ants are tiny annoying insects and stubborn household bugs. Sugar ants are common during warm seasons when they come out of their nests to search for...
+description: Sugar ants are tiny annoying insects and stubborn household bugs. Sugar
+  ants are common during warm seasons when they come out of their nests to search
+  for...
 slug: /how-to-get-rid-of-sugar-ants/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Ants
-
 - Guide
 tags:
-
 - ants
-
 - rid
-
 - sugar
 layout: post
 ---
-
 Sugar [ants](https://pestpolicy.com/how-to-get-rid-of-ants-in-car/)are tiny annoying insects and stubborn household bugs.
 
 Sugar ants are common during warm seasons when they come out of their nests to search for food.

@@ -1,23 +1,20 @@
-﻿---
+---
 title: Running With Bad Knees
-description: Having a bad knee? Here are the rules dont run, lift or squat! Right? Wrong! You should consider bad knees as just a hurdle to overcome, and never an excuse...
+description: Having a bad knee? Here are the rules dont run, lift or squat! Right?
+  Wrong! You should consider bad knees as just a hurdle to overcome, and never an
+  excuse...
 slug: /running-with-bad-knees/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Running shoes
 tags:
-
 - running-shoes
-
 - bad
-
 - knee
 layout: post
 ---
-
 Having a bad [knee](https://pestpolicy.com/how-to-exercise-with-bad-knees-to-lose-weight/)?Here are the rules: dont run, lift or squat! Right? Wrong! You should consider bad knees as just a hurdle to overcome, and never an excuse to evade running and exercise - running with bad knees.
 
 However, take caution while running with a bad knee since any weight-bearing exercise could increase knee pain.

@@ -1,25 +1,20 @@
-﻿---
+---
 title: Best Flea Collar for Dogs
-description: Are you searching for the best flea collar to keep your dog free from pesky fleas and ticks? Look no further! We've reviewed some of the top-rated flea...
+description: Are you searching for the best flea collar to keep your dog free from
+  pesky fleas and ticks? Look no further! We've reviewed some of the top-rated flea...
 slug: /best-flea-collar-for-dogs/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Fleas
-
 - Product Reviews
 tags:
-
 - fleas
-
 - best
-
 - flea
 layout: post
 ---
-
 Are you searching for the best flea collar to keep your dog free from pesky [fleas](https://pestpolicy.com/best-flea-carpet-powder/)and ticks?
 
 Look no further! We've reviewed some of the top-rated flea collars on the market to help you make an informed decision for your furry friend's well-being.

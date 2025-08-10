@@ -1,25 +1,20 @@
-﻿---
+---
 title: Whatcom Falls Park
-description: Discover Whatcom Falls Park Nestled in the heart of Bellingham, WA, Whatcom Falls Park offers a serene escape from the hustle and bustle of daily life.
+description: Discover Whatcom Falls Park Nestled in the heart of Bellingham, WA, Whatcom
+  Falls Park offers a serene escape from the hustle and bustle of daily life.
 slug: /whatcom-falls-park/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Bellingham
-
 - Guide
 tags:
-
 - bellingham
-
 - discover
-
 - whatcom
 layout: post
 ---
-
 ###  Discover Whatcom Falls Park
 
 Nestled in the heart of [Bellingham](https://pestpolicy.com/rodent-control-in-bellingham/),WA, Whatcom Falls Park offers a serene escape from the hustle and bustle of daily life. Spanning over 240 acres, this park is a gem of natural beauty, providing a perfect blend of lush greenery, stunning waterfalls, and recreational activities.

@@ -1,25 +1,21 @@
-﻿---
+---
 title: How to Tell If Your Cat Has Fleas
-description: As a pet parent, maybe sometimes you wonder how to tell if your cat has fleas. Well, not anymore! In this article, I am going to show you how best to tell if...
+description: As a pet parent, maybe sometimes you wonder how to tell if your cat has
+  fleas. Well, not anymore! In this article, I am going to show you how best to tell
+  if...
 slug: /how-to-tell-if-your-cat-has-fleas/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Fleas
-
 - Guide
 tags:
-
 - fleas
-
 - cat
-
 - flea
 layout: post
 ---
-
 As a pet parent, maybe sometimes you wonder how to tell if your cat has [fleas](https://pestpolicy.com/cat-fleas-vs-dog-fleas/).
 
 Well, not anymore!

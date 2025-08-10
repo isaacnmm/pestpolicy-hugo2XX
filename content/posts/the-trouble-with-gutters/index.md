@@ -1,21 +1,17 @@
-﻿---
+---
 title: The Trouble With Gutters
-description: Gutters are one of the most critical, yet often unappreciated, components of your home's exterior. They work tirelessly, day in and day out, channeling...
+description: Gutters are one of the most critical, yet often unappreciated, components
+  of your home's exterior. They work tirelessly, day in and day out, channeling...
 slug: /the-trouble-with-gutters/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Gutters
-
 - Home Improvement
 tags:
-
 - gutters
-
 - gutter
-
 - understanding
 layout: post
 ---

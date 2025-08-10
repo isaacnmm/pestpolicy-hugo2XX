@@ -1,25 +1,20 @@
-﻿---
+---
 title: How to Get Rid Of Drain Flies in the Bathroom
-description: Hey, little friends! Have you seen tiny insects measuring 18 inch in length flying around your shower drain or bathroom sink?
+description: Hey, little friends! Have you seen tiny insects measuring 18 inch in
+  length flying around your shower drain or bathroom sink?
 slug: /how-to-get-rid-of-drain-flies-in-the-bathroom/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Flies
-
 - Guide
 tags:
-
 - flies
-
 - rid
-
 - drain
 layout: post
 ---
-
 Hey, little friends! Have you seen tiny insects (measuring 1/8 inch in length) flying around your shower drain or bathroom sink? Well, these could be drain gnats or drain [flies](https://pestpolicy.com/how-to-get-rid-of-drain-flies-in-septic-tank/)!
 
 [Drain](https://pestpolicy.com/how-to-get-rid-of-drain-flies-in-the-basement/) flies (tiny bugs that have fuzzy wings just like moths ) will mainly invade areas that have standing water including the kitchens and bathrooms. In this article, I'll outline all you need to know how to get rid of drain flies in your bathroom.

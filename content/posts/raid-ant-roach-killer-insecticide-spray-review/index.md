@@ -1,25 +1,21 @@
-﻿---
+---
 title: Raid Ant Roach Killer Insecticide Spray Review
-description: Next up is this Raid Ant & Roach Killer that will readily exterminate roaches and other insects such as ants, just like the Harris Boric acid and other best...
+description: Next up is this Raid Ant & Roach Killer that will readily exterminate
+  roaches and other insects such as ants, just like the Harris Boric acid and other
+  best...
 slug: /raid-ant-roach-killer-insecticide-spray-review/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Cockroaches
-
 - Product Reviews
 tags:
-
 - cockroaches
-
 - raid
-
 - ant
 layout: post
 ---
-
 Next up is this [Raid Ant & Roach Killer](https://hpd.nlm.nih.gov/cgi-bin/household/brands?tbl=brands&id=19001023)that will readily exterminate roaches and other insects such as ants, just like the Harris Boric acid and other best roach killers. Most homeowners will love the lemon scent in this roach killer, which will ensure that no foul odors are left behind.
 
 The roach spray kills on contact; it has a fast roach and ant killer whose residue effect will last for about four weeks but lacks the secondary kill effect in roach baits.

@@ -1,21 +1,17 @@
-﻿---
+---
 title: Gutter Downspout Bags
-description: When it comes to home maintenance, cleaning gutters is often ranked high on the list of least favorite chores. It's messy, can be physically demanding, and...
+description: When it comes to home maintenance, cleaning gutters is often ranked high
+  on the list of least favorite chores. It's messy, can be physically demanding, and...
 slug: /gutter-downspout-bags/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Home Maintenance
-
 - Gutters
 tags:
-
 - home-maintenance
-
 - gutter
-
 - downspout
 layout: post
 ---

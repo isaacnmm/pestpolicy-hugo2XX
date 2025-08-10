@@ -1,25 +1,21 @@
-﻿---
+---
 title: Bedlam Plus Bed Bug Spray Review
-description: Hey guys, and welcome. I've reviewed Bedlam Plus bed bug spray - one of our best bed bug sprays in this post. Bedlam Plus residue will continue killing bed...
+description: Hey guys, and welcome. I've reviewed Bedlam Plus bed bug spray - one
+  of our best bed bug sprays in this post. Bedlam Plus residue will continue killing
+  bed...
 slug: /bedlam-plus-bed-bug-spray-review/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Bed Bugs
-
 - Product Reviews
 tags:
-
 - bed-bugs
-
 - bedlam
-
 - bed
 layout: post
 ---
-
 Hey guys, and welcome. I've reviewed Bedlam Plus bed bug spray - one of our best bed bug sprays in this post. Bedlam Plus residue will continue killing bed bugs for about 4 weeks after application. I note that it's great for carpeting, box springs, and mattresses. - Luckily, [research reports that](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4808785/)morethan 40 percent of the bed bug die when treated with Bedlam plus.
 
 - For safety when using Bedlam Plus, make sure you read the label instructions. First off, I note that Bedlam will also kill the bed bugs and the eggs resistant to pesticides such as pyrethroids. *So, let's get started! *

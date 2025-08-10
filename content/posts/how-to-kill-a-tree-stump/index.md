@@ -1,25 +1,21 @@
-﻿---
+---
 title: How to Kill a Tree Stump
-description: A tree stump, left behind after a tree is felled, can be an unsightly obstacle in any garden or landscape. Beyond being an aesthetic nuisance, stumps can pose...
+description: A tree stump, left behind after a tree is felled, can be an unsightly
+  obstacle in any garden or landscape. Beyond being an aesthetic nuisance, stumps
+  can pose...
 slug: /how-to-kill-a-tree-stump/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Guides
-
 - Home Maintenance
 tags:
-
 - guides
-
 - tree
-
 - stump
 layout: post
 ---
-
 A [tree](https://pestpolicy.com/10-trees-to-grow-in-containers/)stump, left behind after a tree is felled, can be an unsightly obstacle in any garden or landscape. Beyond being an aesthetic nuisance, stumps can pose tripping hazards, become home to pests, sprout new growth (suckers), and hinder future landscaping plans.
 
 While complete stump removal is often the most desirable outcome, killing a tree stump is the essential first step to prevent regrowth and facilitate its eventual decay.

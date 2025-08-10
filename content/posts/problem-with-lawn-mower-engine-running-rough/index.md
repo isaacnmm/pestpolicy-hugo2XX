@@ -1,25 +1,21 @@
-﻿---
+---
 title: Problem With Lawn Mower Engine Running Rough
-description: Few things are more frustrating on a beautiful mowing day than a lawn mower engine that won't cooperate. Instead of a steady, powerful hum, you might hear...
+description: Few things are more frustrating on a beautiful mowing day than a lawn
+  mower engine that won't cooperate. Instead of a steady, powerful hum, you might
+  hear...
 slug: /problem-with-lawn-mower-engine-running-rough/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Lawn Care
-
 - Guides
 tags:
-
 - lawn-care
-
 - lawn
-
 - mower
 layout: post
 ---
-
 Few things are more frustrating on a beautiful mowing day than a lawn [mower](https://pestpolicy.com/lawn-mower-safety-for-your-home/)engine that won't cooperate. Instead of a steady, powerful hum, you might hear sputtering, surging, dying, or just a general lack of smooth operation commonly described as "running rough. "
 
 This issue isn't just annoying; it can lead to an uneven cut, wasted fuel, and can indicate a deeper problem that, if left unaddressed, could cause more significant damage to your mower.

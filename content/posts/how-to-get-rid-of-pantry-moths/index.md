@@ -1,25 +1,20 @@
-﻿---
+---
 title: How to Get Rid Of Pantry Moths
-description: Pastry moths, well known by the name Indian meal moths, are cumbersome insects that feed on dry food stored in shelvespantries.
+description: Pastry moths, well known by the name Indian meal moths, are cumbersome
+  insects that feed on dry food stored in shelvespantries.
 slug: /how-to-get-rid-of-pantry-moths/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Guide
-
 - Moths
 tags:
-
 - guide
-
 - rid
-
 - pantry
 layout: post
 ---
-
 Pastry moths, well known by the name Indian meal moths, are cumbersome insects that feed on dry food stored in shelves/pantries. They reproduce in a couple of weeks [creating disastrous colonies](https://pestpolicy.com/are-[pantry](https://pestpolicy.com/are-pantry-bugs-harmful-if-eaten/)-bugs-harmful-if-eaten/).
 
 **So, on how to get [rid](https://pestpolicy.com/how-to-get-rid-of-brown-recluse-spiders/)of pantry moths; remove/clear everything from your pantry, wipe the shelves with a mixture of warm water, vinegar & peppermint oil, or dispose of non-airtight storage cans.

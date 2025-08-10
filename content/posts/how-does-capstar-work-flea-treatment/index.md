@@ -1,25 +1,20 @@
-﻿---
+---
 title: How Does Capstar Work Flea Treatment
-description: If you need to keep fleas off your cats and dogs, then the Capstar Flea Tablets is highly recommended by pet owners and vets - even when you sleep with...
+description: If you need to keep fleas off your cats and dogs, then the Capstar Flea
+  Tablets is highly recommended by pet owners and vets - even when you sleep with...
 slug: /how-does-capstar-work-flea-treatment/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Fleas
-
 - Guide
 tags:
-
 - fleas
-
 - doe
-
 - capstar
 layout: post
 ---
-
 If you need to keep fleas off your cats and dogs, then the [Capstar](https://pestpolicy.com/capstar-flea-tablets-for-large-dogs/)Flea Tablets is highly recommended by pet owners and vets - even when you [sleep with flea-infested dogs in your bed](https://pestpolicy.com/dog-has-[fleas](https://pestpolicy.com/capstar-flea-tablets-for-small-dogs/)-and-sleeps-in-my-bed/).
 
 Capstar is manufactured by a company known as Novartis which is a DIY flea killer that targets adult fleas in cats and dogs.

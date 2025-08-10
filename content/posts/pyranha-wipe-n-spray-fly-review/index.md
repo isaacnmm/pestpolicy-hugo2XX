@@ -1,25 +1,21 @@
-﻿---
+---
 title: Pyranha Wipe N Spray Fly Review
-description: PYRANHA Wipe N Spray offers protection to your horse against insects such as biting flies in addition to fleas, gnats, and mosquitoes.Youll require just 1-2...
+description: PYRANHA Wipe N Spray offers protection to your horse against insects
+  such as biting flies in addition to fleas, gnats, and mosquitoes.Youll require just
+  1-2...
 slug: /pyranha-wipe-n-spray-fly-review/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Flies
-
 - Product Reviews
 tags:
-
 - flies
-
 - pyranha
-
 - wipe
 layout: post
 ---
-
 PYRANHA Wipe N Spray offers protection to your horse against insects such as biting [flies](https://pestpolicy.com/absorbine-ultrashield-ex-brand-residual-insecticide-review/)in addition to fleas, gnats, and mosquitoes. Youll require just 1-2 ounces for every horse and will be excellent if you daily on your horse. Interestingly, you wont need to mix the chemical with anything as it is delivered ready to use.
 
 In this post, I've reviewed this PIRANHA Wipe N Spray which is among the *best fly spray for horses. *

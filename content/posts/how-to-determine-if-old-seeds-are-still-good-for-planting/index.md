@@ -1,27 +1,21 @@
-﻿---
+---
 title: How to Determine If Old Seeds Are Still Good for Planting
-description: The allure of a forgotten packet of seeds, tucked away from a previous gardening season, can be strong. Perhaps it's a cherished heirloom variety, a...
+description: The allure of a forgotten packet of seeds, tucked away from a previous
+  gardening season, can be strong. Perhaps it's a cherished heirloom variety, a...
 slug: /how-to-determine-if-old-seeds-are-still-good-for-planting/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Gardening
-
 - Seeds
-
 - Guides
 tags:
-
 - gardening
-
 - old
-
 - seed
 layout: post
 ---
-
 The allure of a forgotten packet of seeds, tucked away from a previous [gardening](https://pestpolicy.com/how-to-quickly-space-seeds-in-your-garden/)season, can be strong. Perhaps it's a cherished heirloom variety, a particularly successful crop from years past, or simply a desire to avoid waste. While the promise of new life lies dormant within each tiny seed, time is often an unforgiving enemy.
 
 As seeds age, their viability their ability to germinate and grow into healthy plants gradually diminishes. Planting [old](https://pestpolicy.com/best-4-wheeler-for-12-year-old/),non-viable seeds can lead to wasted effort, disappointing germination rates, and ultimately, unproductive garden beds.

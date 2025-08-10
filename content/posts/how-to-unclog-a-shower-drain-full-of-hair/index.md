@@ -1,25 +1,20 @@
-﻿---
+---
 title: How to Unclog a Shower Drain Full Of Hair
-description: I am sitting here in Suzies house, and she is complaining about her slow draining shower. Suzie happens to have long hair, and indeed, the hair gets loose,...
+description: I am sitting here in Suzies house, and she is complaining about her slow
+  draining shower. Suzie happens to have long hair, and indeed, the hair gets loose,...
 slug: /how-to-unclog-a-shower-drain-full-of-hair/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Drains
-
 - Guide
 tags:
-
 - drains
-
 - shower
-
 - drain
 layout: post
 ---
-
 I am sitting here in Suzies house, and she is complaining about her slow draining shower. Suzie happens to have long hair, and indeed, the hair gets loose, goes down the shower drain, mixes with oil, shampoo, or soap to form a large ball of hair blockage. Re *ad on to learn how I helped my friend their shower drain.
 
 * **Summary: To unclog the shower drain, physically pull off the hairballs using a wire coat hanger, pour thebest drain cleaners (liquid or Granulated Crystal cleaner), allow 30-60 minutes & finally flash down the drain using hot water. But, it's essential to install your shower drain in the first place properly. ** The tools to carry are a shower drain cleaner, long screwdrivers, wire coat hanger, and pliers.

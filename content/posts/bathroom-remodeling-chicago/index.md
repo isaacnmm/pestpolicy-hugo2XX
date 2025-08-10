@@ -1,21 +1,17 @@
-﻿---
+---
 title: Bathroom Remodeling Chicago
-description: Chicago, a city renowned for its stunning architecture, diverse neighborhoods, and robust real estate market, presents a unique backdrop for home renovation...
+description: Chicago, a city renowned for its stunning architecture, diverse neighborhoods,
+  and robust real estate market, presents a unique backdrop for home renovation...
 slug: /bathroom-remodeling-chicago/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Improvement
-
 - Bathroom
 tags:
-
 - improvement
-
 - bathroom
-
 - remodeling
 layout: post
 ---

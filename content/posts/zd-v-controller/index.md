@@ -1,23 +1,20 @@
-﻿---
+---
 title: Zd V Controller
-description: ZD-V  Controller - USB Gaming Controller is compatible with PlayStation 3, Android, and PC. Further, the controller runs from Windows XP up to Windows 10. ...
+description: ZD-V  Controller - USB Gaming Controller is compatible with PlayStation
+  3, Android, and PC. Further, the controller runs from Windows XP up to Windows 10.
+  ...
 slug: /zd-v-controller/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Controllers
 tags:
-
 - controllers
-
 - zd-v+
-
 - controller
 layout: post
 ---
-
 ZD-V + Controller - USB Gaming Controller is compatible with PlayStation 3, Android, and PC. Further, the controller runs from Windows XP up to Windows 10.
 
 ##  Review of theZD-V Controller in 2025

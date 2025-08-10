@@ -1,23 +1,19 @@
-﻿---
+---
 title: Can Lizards Swim
-description: Could be you have come across lizards in a pond, river, sea, ocean, or stagnant water at your home and wonder how they move about.
+description: Could be you have come across lizards in a pond, river, sea, ocean, or
+  stagnant water at your home and wonder how they move about.
 slug: /can-lizards-swim/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Guide
-
 - Lizard
 tags:
-
 - guide
-
 - swim
 layout: post
 ---
-
 Could be you have come across lizards in a pond, river, sea, ocean, or stagnant water at your home and wonder how they move about. How do they cross water bodies? So, * can lizard Swim? * **The direct answer is, YES! Lizards can swim in water bodies including rivers, seas, oceans, or pods. These reptiles use their tail to propel themselves forward when swimming plus use front limbs for vertical movement.
 
 ** **Some lizards like Gecko can even walk on water.

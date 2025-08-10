@@ -1,21 +1,17 @@
-﻿---
+---
 title: How to Grow Azaleas
-description: Azaleas are among the most beloved flowering shrubs, celebrated worldwide for their dazzling displays of colorful, trumpet-shaped blooms that erupt in spring,...
+description: Azaleas are among the most beloved flowering shrubs, celebrated worldwide
+  for their dazzling displays of colorful, trumpet-shaped blooms that erupt in spring,...
 slug: /how-to-grow-azaleas/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Guides
-
 - Gardening
 tags:
-
 - guides
-
 - azalea
-
 - vibrant
 layout: post
 ---

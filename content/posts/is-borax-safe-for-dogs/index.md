@@ -1,25 +1,20 @@
-﻿---
+---
 title: Is Borax Safe for Dogs
-description: The first question is, is borax safe for dogs? The answer to this question is that it depends on the amount and how often they are exposed. Borax is a...
+description: The first question is, is borax safe for dogs? The answer to this question
+  is that it depends on the amount and how often they are exposed. Borax is a...
 slug: /is-borax-safe-for-dogs/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Fleas
-
 - Guide
 tags:
-
 - fleas
-
 - borax
-
 - safe
 layout: post
 ---
-
 The first question is [borax](https://pestpolicy.com/is-borax-safe-for-cats/)[safe](https://pestpolicy.com/pet-safe-roach-killer/) for dogs? The answer to this question is that it depends on the amount and how often they are exposed. Borax is a chemical compound (Na2B4O7(OH)410H2O) that has multiple uses in industry, but many people use it as a laundry booster or as an insecticide because of its low toxicity to mammals and birds.
 
 **But, just how toxic is borax to dogs?

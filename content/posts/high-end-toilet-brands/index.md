@@ -1,21 +1,18 @@
-﻿---
+---
 title: High End Toilet Brands
-description: The humble toilet, once a purely functional fixture, has undergone a revolutionary transformation in recent years. In the realm of high-end bathroom design,...
+description: The humble toilet, once a purely functional fixture, has undergone a
+  revolutionary transformation in recent years. In the realm of high-end bathroom
+  design,...
 slug: /high-end-toilet-brands/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Home Improvement
-
 - Guides
 tags:
-
 - home-improvement
-
 - toilet
-
 - brand
 ---
 ---

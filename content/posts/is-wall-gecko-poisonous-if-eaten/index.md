@@ -1,25 +1,20 @@
-﻿---
+---
 title: Is Wall Gecko Poisonous If Eaten
-description: Probably your home, yard, field, or zoo is full of wall geckos and you wonder whether these reptiles are a source of food.
+description: Probably your home, yard, field, or zoo is full of wall geckos and you
+  wonder whether these reptiles are a source of food.
 slug: /is-wall-gecko-poisonous-if-eaten/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Guide
-
 - Lizard
 tags:
-
 - guide
-
 - wall
-
 - gecko
 layout: post
 ---
-
 Probably your home, yard, field, or zoo is full of [wall geckos](https://www.insidescience.org/news/how-geckos-run-water)and you wonder whether these reptiles are a source of food. Can they be eaten?
 
 Can Wall Geckos cause food poisoning or be poisonous when eaten by humans or carnivores? So, *is wall [gecko](https://pestpolicy.com/do-geckos-eat-bed-bugs/)poisonous if eaten? * **The simple answer is NO! [Wall](https://pestpolicy.com/how-to-remove-paint-from-walls/)Gecko is not poisonous to humans or other animals when eaten. The meat from the Wall Gecko is non-toxic (has no toxins) and is safe for human consumption.

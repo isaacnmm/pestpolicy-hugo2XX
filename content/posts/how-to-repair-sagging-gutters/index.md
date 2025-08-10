@@ -1,19 +1,16 @@
-﻿---
+---
 title: How to Repair Sagging Gutters
-description: Sagging gutters are a common sight on many homes, often manifesting as visible dips or bellies in the gutter trough. While it might seem like a minor cosmetic...
+description: Sagging gutters are a common sight on many homes, often manifesting as
+  visible dips or bellies in the gutter trough. While it might seem like a minor cosmetic...
 slug: /how-to-repair-sagging-gutters/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Gutters
-
 - Home Maintenance
 tags:
-
 - gutters
-
 - gutter
 layout: post
 ---

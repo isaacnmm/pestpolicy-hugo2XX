@@ -1,25 +1,21 @@
-﻿---
+---
 title: Can Bearded Dragons Eat Mango
-description: Can bearded dragons eat mango? Mango  Mangifera indica  is a delicious drupe that grows mainly in tropical climate and is often used as dessert by many people...
+description: Can bearded dragons eat mango? Mango  Mangifera indica  is a delicious
+  drupe that grows mainly in tropical climate and is often used as dessert by many
+  people...
 slug: /can-bearded-dragons-eat-mango/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Guide
-
 - Lizard
 tags:
-
 - guide
-
 - bearded
-
 - dragon
 layout: post
 ---
-
 Can bearded dragons eat mango? Mango ( [*Mangifera indica*](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3249901/)) is a delicious drupe that grows mainly in tropical climate and is often used as dessert by many people or chewed while unripe. Could be you have come across a number of them at market place or you grow various mango species and wonders if bearded dragons can eat them.
 
 It may also concern you if beardies can eat mango peels, leaves or stems/backs.

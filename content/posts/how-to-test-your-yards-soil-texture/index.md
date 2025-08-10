@@ -1,25 +1,19 @@
-﻿---
+---
 title: How to Test Your Yards Soil Texture
-description: Understanding your yard's soil texture is one of the foundational steps to becoming a successful gardener or lawn care enthusiast.
+description: Understanding your yard's soil texture is one of the foundational steps
+  to becoming a successful gardener or lawn care enthusiast.
 slug: /how-to-test-your-yards-soil-texture/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Gardening
-
 - Home Improvement
-
 - Guides
-
 - Plant Care
 tags:
-
 - gardening
-
 - yard
-
 - soil
 layout: post
 ---

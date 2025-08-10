@@ -1,25 +1,21 @@
-﻿---
+---
 title: What It Truly Means to Have Bad Knees
-description: Below I discuss what it truly means to have Bad Knees? I was yearning to stay active, but I didnt have my ever strong knees. "Bad knees" the root of most of...
+description: Below I discuss what it truly means to have Bad Knees? I was yearning
+  to stay active, but I didnt have my ever strong knees. "Bad knees" the root of most
+  of...
 slug: /what-it-truly-means-to-have-bad-knees/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Product Reviews
-
 - Running shoes
 tags:
-
 - product-reviews
-
 - mean
-
 - bad
 layout: post
 ---
-
 Below I discuss what it truly means to have [Bad](https://pestpolicy.com/best-running-shoes-for-bad-knees/)Knees? I was yearning to stay active, but I didnt have my ever strong knees. "Bad knees" the root of most of my fitness challenges is a collection of injuries that occur to the knee. The injuries are classified into two: (1) traumatic/ acute injuries and (2) overuse injuries - check these [shoes if you've flat feet](https://pestpolicy.com/best-walking-shoes-for-men-with-flat-feet/).
 
 ##  What it truly means to have Bad Knees?

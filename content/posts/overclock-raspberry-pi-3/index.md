@@ -1,23 +1,20 @@
-﻿---
+---
 title: Overclock Raspberry Pi 3
-description: In this article, Ill teach you how to overclock your Raspberry pi 3 with the goal of improving its performance. Despite that overclocking mainly happen on the...
+description: In this article, Ill teach you how to overclock your Raspberry pi 3 with
+  the goal of improving its performance. Despite that overclocking mainly happen on
+  the...
 slug: /overclock-raspberry-pi-3/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Laptops
 tags:
-
 - laptops
-
 - overclock
-
 - raspberry
 layout: post
 ---
-
 In this article, Ill teach you how to overclock your Raspberry pi 3 with the goal of improving its performance.
 
 Despite that overclocking mainly happen on the software level, the changes will significantly affect the physical level too. First, increasing the power of the Raspberry Pi 3 processor through overclocking may cause hazardous overheating of the Raspberry Pi and all the hardware components near it. Notably, the temperatures reach highs of 100 C! Read Also: USB Hub for iMac.

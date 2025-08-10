@@ -1,25 +1,20 @@
-﻿---
+---
 title: How High Can Fleas Jump
-description: Fact Fleas Ctenocephalides felis don't have wingshttpspestpolicy.comdo-fleas-have-wings and will move by jumping using their powerful legs. Fleas can only...
+description: Fact Fleas Ctenocephalides felis don't have wingshttpspestpolicy.comdo-fleas-have-wings
+  and will move by jumping using their powerful legs. Fleas can only...
 slug: /how-high-can-fleas-jump/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Fleas
-
 - Guide
 tags:
-
 - fleas
-
 - can
-
 - flea
 layout: post
 ---
-
 Fact: [[Fleas](https://pestpolicy.com/how-long-can-fleas-live-without-a-host/)(Ctenocephalides felis) don't have wings](https://pestpolicy.com/do-fleas-have-wings/)and will move by jumping using their powerful legs.
 
 [Fleas can only live up to 4 days](https://pestpolicy.com/how-long-can-fleas-live-without-a-host/)when removed from their hosts. So, fleas jump around looking for a blood meal or move from heat. So, *how high can fleas jump? * **Fleas can jump a maximum of ** **7 inches (18cm) vertically and 13 inches (33cm) horizontally (an average 40 - 99 times of the flea's body length) - it's only second to ** **froghopper.

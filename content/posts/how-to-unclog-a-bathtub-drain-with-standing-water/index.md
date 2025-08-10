@@ -1,25 +1,21 @@
-﻿---
+---
 title: How to Unclog a Bathtub Drain With Standing Water
-description: Here's how to unclog a bathtub drain with standing water.Lately, Ive been getting many calls from clients who have clogged their bathtubs with excessive hair...
+description: Here's how to unclog a bathtub drain with standing water.Lately, Ive
+  been getting many calls from clients who have clogged their bathtubs with excessive
+  hair...
 slug: /how-to-unclog-a-bathtub-drain-with-standing-water/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Drains
-
 - Guide
 tags:
-
 - drains
-
 - bathtub
-
 - drain
 layout: post
 ---
-
 Here's how to unclog a bathtub drain with standing water. Lately, Ive been getting many calls from clients who have clogged their bathtubs with excessive hair and soap scum. I also recently covered how to unclog a shower drain full of hair. *The questions definitely come like this: How do I unclog a bathtub drain with standing water? So, let's get started!
 
 * *Summary: To clear thebathtub blockage and drain the standing water: use aWet-Dry Vacuum (with no filter), use a plumbing snake through theoverflow cover in the bathtub, plunge the bathtub thoroughly, or finally try one of thebest drain cleaners. *

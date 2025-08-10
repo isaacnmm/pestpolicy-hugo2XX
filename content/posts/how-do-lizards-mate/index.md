@@ -1,25 +1,20 @@
-﻿---
+---
 title: How Do Lizards Mate
-description: How Do Lizards Mate? Maybe you have pet lizards at home or have seen one and wishes to know how they mate. Do they court like human being before mating?
+description: How Do Lizards Mate? Maybe you have pet lizards at home or have seen
+  one and wishes to know how they mate. Do they court like human being before mating?
 slug: /how-do-lizards-mate/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Guide
-
 - Lizard
 tags:
-
 - guide
-
 - lizard
-
 - mate
 layout: post
 ---
-
 How Do Lizards Mate? Maybe you have pet lizards at home or have seen one and wishes to know how they mate. Do they court like human being before mating? Well, in this article we shall answer the question, How Do Lizards Mate? *During Mating, the male [lizard](https://pestpolicy.com/are-lizards-poisonous/)(vertebrates) clings on the females back and support itself by biting the females neck.
 
 Then, the male lizards connects is hemipenes/male organ to the females cloaca (female organ) and pours its sperms that move up the oviduct to fertilize the ova (female egg). * *However, before mating, the male and female may have 1 to 2 months of courtship during the mating season (spring). After fertilization, the lizard (Savannah, monitor, iguana, or Komodo dragon) lays eggs, which hatch into baby lizards in 4 to 8 weeks. *

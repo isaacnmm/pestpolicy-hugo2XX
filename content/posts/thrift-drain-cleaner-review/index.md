@@ -1,25 +1,20 @@
-﻿---
+---
 title: Thrift Drain Cleaner Review
-description: Finding a decent drain cleaner is difficult. Most options on the market are far too expensive. And those that you can afford are often limited in the...
+description: Finding a decent drain cleaner is difficult. Most options on the market
+  are far too expensive. And those that you can afford are often limited in the...
 slug: /thrift-drain-cleaner-review/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Drains
-
 - Product Reviews
 tags:
-
 - drains
-
 - thrift
-
 - drain
 layout: post
 ---
-
 Finding a decent [drain cleaner](https://pestpolicy.com/best-drain-cleaner//)is difficult. Most options on the market are far too expensive. And those that you can afford are often limited in the functions they can perform. So you have to purchase multiple types and brands of drain cleaners to sufficiently cater to your homes entire plumbing system.
 
 ## +What is the [Thrift T-600 Alkaline Based Drain Cleaner](https://www.amazon.com/THRIFT-T-600-Alkaline-Granular-Cleaner/dp/B00E1N09JO?&linkCode=ll1&tag=p-policy-20&linkId=2b4aec92d6fd01239eb8ccd0c93edf67&language=en_US&ref_=as_li_ss_tl)?

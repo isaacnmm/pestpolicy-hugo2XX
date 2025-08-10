@@ -1,21 +1,19 @@
-﻿---
+---
 title: Sanding Walls Before Painting
-description: You can use either a sanding block or some sandpaper will help smoothen those uneven surfaces particularly those with high-gloss and gloss paint, followed by...
+description: You can use either a sanding block or some sandpaper will help smoothen
+  those uneven surfaces particularly those with high-gloss and gloss paint, followed
+  by...
 slug: /sanding-walls-before-painting/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - DIY Paintings
 tags:
-
 - diy-paintings
-
 - wall
 layout: post
 ---
-
 You can use either a sanding block or some [sandpaper](https://pestpolicy.com/what-grit-sandpaper-for-primer-before-paint/)will help smoothen those uneven surfaces (particularly those with high-gloss and gloss paint), followed by simple wiping and drying.
 
 So, below I'll discuss the sanding techniques and tips (step by step) that you can follow to effectively smooth those drywall surfaces. You can also use *sand* paper (fine-grit) on the baseboard and ceiling.

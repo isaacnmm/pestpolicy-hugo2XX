@@ -1,19 +1,16 @@
-﻿---
+---
 title: Black Gutters on Brick House Ideas
-description: The classic appeal of a brick house is undeniable, offering warmth, durability, and a timeless aesthetic. For many years, the default choice for gutters on a...
+description: The classic appeal of a brick house is undeniable, offering warmth, durability,
+  and a timeless aesthetic. For many years, the default choice for gutters on a...
 slug: /black-gutters-on-brick-house-ideas/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Gutters
 tags:
-
 - gutters
-
 - black
-
 - gutter
 layout: post
 ---

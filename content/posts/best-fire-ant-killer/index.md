@@ -1,25 +1,21 @@
-﻿---
+---
 title: Best Fire Ant Killer
-description: Fire ants invade homes, cars, and yards - and their painful stings make them a serious problem. Using the wrong treatment can split colonies, spreading the...
+description: Fire ants invade homes, cars, and yards - and their painful stings make
+  them a serious problem. Using the wrong treatment can split colonies, spreading
+  the...
 slug: /best-fire-ant-killer/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Ants
-
 - Roaches
 tags:
-
 - ants
-
 - best
-
 - fire
 layout: post
 ---
-
 [Fire ants](http://entnemdept.ufl.edu/creatures/urban/ants/red_imported_fire_ant.htm)invade homes, cars, and yards - and their painful stings make them a serious problem. Using the wrong treatment can split colonies, spreading the infestation.
 
 The key? A targeted fire ant killer that eliminates the colony fast. ( *For more ant control tips, see* [**ant killers for yard**](https://pestpolicy.com/[best](https://pestpolicy.com/best-fire-ant-killer-for-lawns/)-ant-killer-for-yard/)).

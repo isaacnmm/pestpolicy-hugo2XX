@@ -1,27 +1,21 @@
-﻿---
+---
 title: How to Control Dandelions in Your Yard
-description: Few weeds are as universally recognized and, for many homeowners, as universally reviled as the common dandelion Taraxacum officinale.
+description: Few weeds are as universally recognized and, for many homeowners, as
+  universally reviled as the common dandelion Taraxacum officinale.
 slug: /how-to-control-dandelions-in-your-yard/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Lawn Care
-
 - Weed Control
-
 - Guides
 tags:
-
 - lawn-care
-
 - dandelion
-
 - your
 layout: post
 ---
-
 Few weeds are as universally recognized and, for many homeowners, as universally reviled as the common dandelion (*Taraxacum officinale*). Its bright yellow flowers, cheerful at first glance, quickly transform into puffy white seed heads, ready to disperse hundreds of new invaders with every gust of wind.
 
 Dandelions are not just an aesthetic nuisance; their deep taproots compete with desirable turfgrass for water and nutrients, and their prolific seeding can quickly overwhelm a lawn, turning a uniform green carpet into a patchwork of yellow and white.

@@ -1,27 +1,21 @@
-﻿---
+---
 title: Buying Materials by the Cubic Yard Faq
-description: Embarking on a landscaping project, whether it's building a new garden bed, laying a patio, or spreading fresh mulch, often involves purchasing bulk materials...
+description: Embarking on a landscaping project, whether it's building a new garden
+  bed, laying a patio, or spreading fresh mulch, often involves purchasing bulk materials...
 slug: /buying-materials-by-the-cubic-yard-faq/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Home Improvement
-
 - Landscaping
-
 - Guides
 tags:
-
 - home-improvement
-
 - material
-
 - cubic
 layout: post
 ---
-
 Embarking on a landscaping project, whether it's building a new garden bed, laying a patio, or spreading fresh mulch, often involves purchasing bulk materials like soil, gravel, sand, or compost. Unlike buying small bags from a home improvement store, these materials are typically sold by the "cubic yard. " For many DIY enthusiasts, this unit of measurement can be a source of confusion. How much is a cubic yard, really? How much does it weigh?
 
 And how do you even figure out how much you need for your specific project?

@@ -1,25 +1,20 @@
-﻿---
+---
 title: Does Heat Kill Fleas
-description: Fleas are tiny flat-bodied external parasites thatll feed on blood from mammals and birds. Fleas will mainly hide floor cracks, beddings and furniture and...
+description: Fleas are tiny flat-bodied external parasites thatll feed on blood from
+  mammals and birds. Fleas will mainly hide floor cracks, beddings and furniture and...
 slug: /does-heat-kill-fleas/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Fleas
-
 - Guide
 tags:
-
 - fleas
-
 - doe
-
 - heat
 layout: post
 ---
-
 [Fleas](https://pestpolicy.com/does-apple-cider-vinegar-kill-fleas/)are tiny flat-bodied external parasites thatll feed on blood from mammals and birds.
 
 Fleas will mainly hide floor cracks, beddings and furniture and thus it is challenging to control them. But, *does [heat](https://pestpolicy.com/best-heat-gun-for-removing-paint/)kill fleas? * **In summary, YES, heat will kill fleas, their eggs, and larvae particularly heat from steaming, laundering, dryers, professional heat treatment (Entotherm), and flea heaters. So, lets get into the details! **

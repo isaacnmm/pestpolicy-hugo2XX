@@ -1,23 +1,18 @@
-﻿---
+---
 title: Macerating Toilets
-description: When you dream of adding a new bathroom, basement bar, or laundry room, the first thought that often comes to mind is plumbing.
+description: When you dream of adding a new bathroom, basement bar, or laundry room,
+  the first thought that often comes to mind is plumbing.
 slug: /macerating-toilets/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Home Improvement
-
 - Plumbing
-
 - Bathroom
 tags:
-
 - home-improvement
-
 - toilet
-
 - challenging
 layout: post
 ---

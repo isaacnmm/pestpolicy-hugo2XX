@@ -1,25 +1,20 @@
-﻿---
+---
 title: Applying Weed and Feed Products to St Augustine Grass
-description: Maintaining a lush, green lawn is a goal for many homeowners, especially those in warmer climates where St. Augustine grass thrives.
+description: Maintaining a lush, green lawn is a goal for many homeowners, especially
+  those in warmer climates where St. Augustine grass thrives.
 slug: /applying-weed-and-feed-products-to-st-augustine-grass/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Lawn Care
-
 - Guides
 tags:
-
 - lawn-care
-
 - weed
-
 - feed
 layout: post
 ---
-
 Maintaining a lush, green lawn is a goal for many homeowners, especially those in warmer climates where St. Augustine grass thrives. The desire for a pristine, [weed](https://pestpolicy.com/best-weed-killer-bermuda-grass/)-freeturf often leads people to consider "weed and [feed](https://pestpolicy.com/best-gravity-feed-spray-gun-for-woodworking/)"products a convenient, all-in-one solution promising to nourish the grass while simultaneously eradicating unwanted invaders.
 
 However, applying these combination products to St. Augustine grass requires a nuanced understanding, as this particular turf type is more sensitive to certain herbicides than others.

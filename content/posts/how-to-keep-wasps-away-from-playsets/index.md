@@ -1,23 +1,19 @@
-﻿---
+---
 title: How to Keep Wasps Away from Playsets
-description: A few years back, I bought a Backyard Discovery Wooden Swing Set for my kids. I spent like 2 days putting it together in our backyard.
+description: A few years back, I bought a Backyard Discovery Wooden Swing Set for
+  my kids. I spent like 2 days putting it together in our backyard.
 slug: /how-to-keep-wasps-away-from-playsets/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Swing Sets
 tags:
-
 - swing-sets
-
 - wasp
-
 - away
 layout: post
 ---
-
 A few years back, I bought a Backyard Discovery Wooden Swing Set for my kids. I spent like 2 days putting it together in our backyard. It was a task on its own.
 
 Recently I noticed wasps around the playset and I think they are getting out of hand. I can call it a Wasps infestation of some sort. The wasps have made my childrens swing set their home.

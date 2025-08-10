@@ -1,27 +1,22 @@
-﻿---
+---
 title: How to Get Rid Of Lawn Grubs
-description: Beneath the lush, green surface of your lawn, an unseen threat might be silently undermining its health lawn grubs. These C-shaped, white larvae are the...
+description: Beneath the lush, green surface of your lawn, an unseen threat might
+  be silently undermining its health lawn grubs. These C-shaped, white larvae are
+  the...
 slug: /how-to-get-rid-of-lawn-grubs/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Lawn Care
-
 - Pest Control
-
 - Guides
 tags:
-
 - lawn-care
-
 - rid
-
 - lawn
 layout: post
 ---
-
 Beneath the lush, green surface of your [lawn](https://pestpolicy.com/10-essential-lawn-and-garden-tools-for-fall/),an unseen threat might be silently undermining its health: lawn grubs. These C-shaped, white larvae are the immature stage of various beetles, including Japanese beetles, May/June beetles, and chafers, and they have an insatiable appetite for the roots of your turfgrass.
 
 A severe grub infestation can quickly transform a vibrant lawn into a patchy, brown, and spongy expanse that peels back like a rug, leaving homeowners scratching their heads and reaching for solutions.

@@ -1,25 +1,21 @@
-﻿---
+---
 title: Do Fleas Have Wings
-description: So, how do fleas move? Do fleas have wings?  Wondering if fleas have wings, can they fly like gnats? or do these clitters jump like frogs? Fleas are tiny...
+description: So, how do fleas move? Do fleas have wings?  Wondering if fleas have
+  wings, can they fly like gnats? or do these clitters jump like frogs? Fleas are
+  tiny...
 slug: /do-fleas-have-wings/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Fleas
-
 - Guide
 tags:
-
 - fleas
-
 - flea
-
 - wing
 layout: post
 ---
-
 *So, how do fleas move? Do fleas have wings? * Wondering if [fleas](https://www.canr.msu.edu/ipm/uploads/files/Fleas.pdf)have wings, can they fly like gnats? or do these clitters jump like frogs?
 
 Fleas are tiny insects of the Siphonaptera order that'll feed off human or animal blood. Fleas move quickly and it may seem like they fly. Most of their over 2, 000 types, like human fleas or cat fleas have strong legs, flat bodies and a length of ~ 0. 1 inches. **Well, the short answer is, No, fleas don't have wings.

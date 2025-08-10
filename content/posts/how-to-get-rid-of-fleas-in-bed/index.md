@@ -1,25 +1,21 @@
-﻿---
+---
 title: How to Get Rid Of Fleas in Bed
-description: Fun fact Over 95 of the flea population will be scattered all over your house including in the bed with the pets hosting just 5 of the pests. So, if you think...
+description: Fun fact Over 95 of the flea population will be scattered all over your
+  house including in the bed with the pets hosting just 5 of the pests. So, if you
+  think...
 slug: /how-to-get-rid-of-fleas-in-bed/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Fleas
-
 - Guide
 tags:
-
 - fleas
-
 - rid
-
 - flea
 layout: post
 ---
-
 Fun fact: Over 95% of the flea population will be scattered all over your house (including in the bed) with the pets hosting just 5% of the pests. So, if you think bed bugs are the only disturbing pest you can have in your bed, then think again. - [Fleas](https://pestpolicy.com/getting-rid-of-fleas-in-the-carpet/)will hide, reproduce, and bite you or your kids as you sleep. In this article, Ive outlined how to get rid of fleas in bed.
 
 In summary, you can remove fleas from the bed by Washing and drying the bed fabrics at high temperatures. - Wash the bed covers, pillow covers, and bed sheets using hot water to kill the fleas. Next, put the fabrics into your dryer to kill any living fleas. Related: How Big are Fleas?

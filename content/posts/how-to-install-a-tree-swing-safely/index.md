@@ -1,21 +1,18 @@
-﻿---
+---
 title: How to Install a Tree Swing Safely
-description: A tree swing evokes a timeless sense of joy, adventure, and childhood memories. The simple act of soaring through the air, propelled by your own momentum, is...
+description: A tree swing evokes a timeless sense of joy, adventure, and childhood
+  memories. The simple act of soaring through the air, propelled by your own momentum,
+  is...
 slug: /how-to-install-a-tree-swing-safely/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Guides
-
 - Home Improvement
 tags:
-
 - guides
-
 - tree
-
 - swing
 layout: post
 ---

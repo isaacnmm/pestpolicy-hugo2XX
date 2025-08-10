@@ -1,27 +1,22 @@
-﻿---
+---
 title: How to Improve Yard Drainage
-description: A beautiful, thriving yard relies on a delicate balance, and nowhere is this more evident than with water. While plants need adequate moisture to survive, too...
+description: A beautiful, thriving yard relies on a delicate balance, and nowhere
+  is this more evident than with water. While plants need adequate moisture to survive,
+  too...
 slug: /how-to-improve-yard-drainage/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Landscaping
-
 - Guides
-
 - Home Improvement
 tags:
-
 - landscaping
-
 - yard
-
 - drainage
 layout: post
 ---
-
 A beautiful, thriving yard relies on a delicate balance, and nowhere is this more evident than with water. While plants need adequate moisture to survive, too much water or water that sits stagnant for extended periods can quickly turn a lush landscape into a soggy, unhealthy mess.
 
 Poor yard drainage leads to a host of problems: drowned roots, fungal diseases, mosquito breeding grounds, muddy patches, and even structural damage to your home's foundation.

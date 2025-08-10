@@ -1,21 +1,17 @@
-﻿---
+---
 title: Best 4 Inch Gutter Guards
-description: While the majority of residential properties feature 5-inch or 6-inch gutters, a significant number of homes, particularly older constructions, smaller...
+description: While the majority of residential properties feature 5-inch or 6-inch
+  gutters, a significant number of homes, particularly older constructions, smaller...
 slug: /best-4-inch-gutter-guards/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Gutters
-
 - Gutter Guards
 tags:
-
 - gutters
-
 - gutter
-
 - guard
 layout: post
 ---

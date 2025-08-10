@@ -1,25 +1,21 @@
-﻿---
+---
 title: Sink Not Draining but Pipes Clear
-description: In this post, I outline how I cleared my sink drain blockage that had persisted even with clear pipes. But first, I narrate my sad story. I was almost going...
+description: In this post, I outline how I cleared my sink drain blockage that had
+  persisted even with clear pipes. But first, I narrate my sad story. I was almost
+  going...
 slug: /sink-not-draining-but-pipes-clear/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Drains
-
 - Guide
 tags:
-
 - drains
-
 - sink
-
 - pipe
 layout: post
 ---
-
 In this post, I outline how I cleared my sink drain blockage that had persisted even with clear pipes. **But first, I narrate my sad story. ** *I was almost going insane due to the bathroom sink that had blocked for about a week. My kids and I had already started using a basin to take our shower. ? ? ? ? * - *By this time, I had called my plumber numerous times, but he was not available as it was Christmas times.
 
 My plumbing snake, drain cleaners, and hot water, the wet-dry vacuum cleaner was not working. * - *I had disconnected the u-bend under the sink and tried using a wire coat hanger to clear any drain clog, all with no success. * **Summary: Assuming that the waste line sits at a small decline, youll need to solve a possible airflow issuefor your vent stack. This will keep neutral air pressure (prevent negative or positive pressure).

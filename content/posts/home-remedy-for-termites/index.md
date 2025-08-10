@@ -1,25 +1,20 @@
-﻿---
+---
 title: Home Remedy for Termites
-description: Soil treatment for termites with chemical termite killers like fipronil and imidacloprid is the most common termite-removal method. Termites can eat your...
+description: Soil treatment for termites with chemical termite killers like fipronil
+  and imidacloprid is the most common termite-removal method. Termites can eat your...
 slug: /home-remedy-for-termites/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Guide
-
 - Termites
 tags:
-
 - guide
-
 - remedy
-
 - termite
 layout: post
 ---
-
 Soil treatment for termites with [chemical termite killers](https://pestpolicy.com/best-termite-killer/)like fipronil and imidacloprid is the most common termite-removal method. *Termites can eat your home's structural beams causing significant damage. But, which are the best home remedies for termites? One that's effective, budget-friendly, yet safe to the environment?
 
 * *In summary, the home remedies for termites (including dry woodtermites) include wet cardboard, orange oil, perimeter barrier, sunlight, nematodes, vinegar, and borates. *

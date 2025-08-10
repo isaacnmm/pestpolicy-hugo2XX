@@ -1,25 +1,20 @@
-﻿---
+---
 title: What Kills Fleas on Contact
-description: The question is what kills fleas on contact? Will the remedy be safe for me and my pets? What product will tackle the flea infestation...
+description: The question is what kills fleas on contact? Will the remedy be safe
+  for me and my pets? What product will tackle the flea infestation...
 slug: /what-kills-fleas-on-contact/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Fleas
-
 - Guide
 tags:
-
 - fleas
-
 - kill
-
 - flea
 layout: post
 ---
-
 The question is; what kills [fleas](https://pestpolicy.com/how-to-kill-flea-eggs/)on contact? Will the remedy be safe for me and my pets? What product will [tackle the [flea](https://pestpolicy.com/how-to-kill-fleas-on-dogs-naturally-safe-and-fast/)infestation effectively](https://pestpolicy.com/how-to-get-rid-of-fleas/)?
 
 In this article, I've detailed the answer to this question. There are many flea-killing products like medicated drops, shampoos, repellents, and sprays - but they take time to work. **But what kills fleas on contact? Well, rubbing alcohol (isopropyl alcohol) will kill adult fleas on contact - it's best applied on flea-infested bedding or yard.

@@ -1,21 +1,17 @@
-﻿---
+---
 title: Hydrangea Propagation
-description: Hydrangea Propagation - Expanding Your Garden's Beauty Through Cuttings and Division Hydrangeas are a beloved staple in gardens worldwide, celebrated for...
+description: Hydrangea Propagation - Expanding Your Garden's Beauty Through Cuttings
+  and Division Hydrangeas are a beloved staple in gardens worldwide, celebrated for...
 slug: /hydrangea-propagation/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Guides
-
 - Gardening
 tags:
-
 - guides
-
 - hydrangea
-
 - propagation
 layout: post
 ---

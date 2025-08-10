@@ -1,21 +1,17 @@
-﻿---
+---
 title: Fall Lawn Care Guide
-description: As the vibrant energy of summer gives way to the crisp air and changing colors of autumn, many gardeners begin to wind down their outdoor tasks.
+description: As the vibrant energy of summer gives way to the crisp air and changing
+  colors of autumn, many gardeners begin to wind down their outdoor tasks.
 slug: /fall-lawn-care-guide/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Guides
-
 - Lawn Care
 tags:
-
 - guides
-
 - fall
-
 - lawn
 layout: post
 ---

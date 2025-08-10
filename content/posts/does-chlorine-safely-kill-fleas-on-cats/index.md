@@ -1,25 +1,20 @@
-﻿---
+---
 title: Does Chlorine Safely Kill Fleas on Cats
-description: Fleas got your cat down? Forget the pool chlorine it's a recipe for disaster, and it can be downright dangerous for your precious kitty. Even small amounts of...
+description: Fleas got your cat down? Forget the pool chlorine it's a recipe for disaster,
+  and it can be downright dangerous for your precious kitty. Even small amounts of...
 slug: /does-chlorine-safely-kill-fleas-on-cats/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Fleas
-
 - Guide
 tags:
-
 - fleas
-
 - doe
-
 - chlorine
 layout: post
 ---
-
 [Fleas](https://pestpolicy.com/does-apple-cider-vinegar-kill-fleas/)got your cat down? Forget the pool chlorine it's a recipe for disaster, and it can be downright dangerous for your precious kitty. Even small amounts of chlorine can be harmful to cats. Here why: - **Skin and eye irritation: **Chlorine can cause painful burns and itchy rashes on your cat's delicate skin and eyes.
 
 - **Digestive distress: **Ingesting chlorine can lead to vomiting, diarrhea, and even internal damage.

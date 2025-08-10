@@ -1,27 +1,21 @@
-﻿---
+---
 title: Chemlawn
-description: The name "ChemLawn" evokes a strong sense of nostalgia for many homeowners, synonymous with the early days of professional, widespread lawn care services.
+description: The name "ChemLawn" evokes a strong sense of nostalgia for many homeowners,
+  synonymous with the early days of professional, widespread lawn care services.
 slug: /chemlawn/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Lawn Care
-
 - Company Profile
-
 - Guides
 tags:
-
 - lawn-care
-
 - legacy
-
 - chemlawn
 layout: post
 ---
-
 The name "ChemLawn" evokes a strong sense of nostalgia for many homeowners, synonymous with the early days of professional, widespread lawn care services. For decades, it was a household name, pioneering the concept of scheduled treatments to maintain a healthy, green lawn.
 
 While the ChemLawn brand as it once was no longer exists independently, its legacy lives on through its integration into TruGreen, which has grown to become the largest professional lawn care company in North America.

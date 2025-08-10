@@ -1,23 +1,19 @@
-﻿---
+---
 title: Leptospirosis Symptoms
-description: Leptospirosis is a bacterial infection caused by the bacteria of the genus Leptospira . This disease can affect both humans and animals, and it is often...
+description: Leptospirosis is a bacterial infection caused by the bacteria of the
+  genus Leptospira . This disease can affect both humans and animals, and it is often...
 slug: /leptospirosis-symptoms/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Guide
 tags:
-
 - guide
-
 - leptospirosi
-
 - symptom
 layout: post
 ---
-
 Leptospirosis is a bacterial infection caused by the bacteria of the genus *Leptospira*. This disease can affect both humans and animals, and it is often contracted through contact with contaminated water, soil, or animal urine. It is considered a zoonotic disease, meaning it can be transmitted between animals and humans.
 
 In this article, we will explore the symptoms of leptospirosis, how the disease is transmitted, and its treatment and prevention methods.

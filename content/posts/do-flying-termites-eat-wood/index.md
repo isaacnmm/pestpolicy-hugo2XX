@@ -1,25 +1,20 @@
-﻿---
+---
 title: Do Flying Termites Eat Wood
-description: If you have seen flying termites around your home, you probably have a lot of questions in mind. - Do flying termites eat wood?
+description: If you have seen flying termites around your home, you probably have
+  a lot of questions in mind. - Do flying termites eat wood?
 slug: /do-flying-termites-eat-wood/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Guide
-
 - Termites
 tags:
-
 - guide
-
 - termite
-
 - eat
 layout: post
 ---
-
 If you have seen flying termites around your home, you probably have a lot of questions in mind. - Do flying termites eat wood? Though most people confuse flying termites with flying ants they are clearly different. **So, do Flying Termites Eat Wood? Flying termites do not eat wood but only fly out to mate and reproduce and to form a new colony.
 
 In this flying termite stage, they only survive in that state for nearly an hour or two before their wings fall off and they seek a nest to lay their eggs. ** **But, when they shed wings, they cause destruction by burrowing into woods or establish nests where they start their next life cycle - know how to control termites. **

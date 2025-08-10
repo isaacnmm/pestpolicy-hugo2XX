@@ -1,25 +1,20 @@
-﻿---
+---
 title: What Do Flea Eggs Look Like
-description: Really, what do flea eggs look like? Well, for anyone whos been bitten by a bed bug , you can be sure some tiny flea eggs are lurking around to hatch either...
+description: Really, what do flea eggs look like? Well, for anyone whos been bitten
+  by a bed bug , you can be sure some tiny flea eggs are lurking around to hatch either...
 slug: /what-do-flea-eggs-look-like/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Fleas
-
 - Guide
 tags:
-
 - fleas
-
 - flea
-
 - egg
 layout: post
 ---
-
 Really, what do flea eggs look like? Well, for anyone whos been bitten by a bed bug, you can be sure some tiny flea eggs are lurking around to hatch either from your cat or dogs. *But to control flea eggs, you must effectively know their physical appearance and places where theyre hidden including differences between flea eggs and flea dirt.
 
 * *In summary, [fleas](https://pestpolicy.com/flea-eggs-vs-dandruff/)eggs are tiny specs (0. 5 lengths by 0. 25 mm width), rounded-oval shape, with a flexible-chorion and softshell. * *Adult females fleas produce eggs 1 to 2 days after taking a full blood meal and mating. [Flea](https://pestpolicy.com/how-long-do-flea-eggs-take-to-hatch/)eggs will be laid on a host like cats or dogs, but they'll fall off shortly (within hours). *

@@ -1,25 +1,20 @@
-﻿---
+---
 title: Does Peppermint Oil Repel Spiders
-description: If you have a spider infestation in the house , you must be asking yourself this - does peppermint oil repel spiders? Well, as a natural remedy, peppermint...
+description: If you have a spider infestation in the house , you must be asking yourself
+  this - does peppermint oil repel spiders? Well, as a natural remedy, peppermint...
 slug: /does-peppermint-oil-repel-spiders/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Guide
-
 - Spiders
 tags:
-
 - guide
-
 - doe
-
 - peppermint
 layout: post
 ---
-
 If you have a [spider infestation in the house](https://pestpolicy.com/how-to-get-rid-of-spiders/),you must be asking yourself this - does [peppermint](https://pestpolicy.com/does-peppermint-oil-kill-bed-bugs/)oil repel spiders? Well, as a natural remedy, peppermint oil will treat acne, muscle pain, and nausea. *Peppermint oil has natural Mint (a smell that spiders hate) and thus will repel the spiders like the brown recluse.
 
 Spray the home with water (16-ounce) laced with some peppermint oil (about five drops). * Peppermint oil is a regular household item that'll remove the spiders - substituting harsh chemicals. - The DIY spray works like tea tree and lavender oil citrus oil (lemon) or Hedge apples. - Peppermint will repel insects including wasps, stink bugs, spiders, moths, head lice, gnats, fruit flies, fleas, andcockroaches.

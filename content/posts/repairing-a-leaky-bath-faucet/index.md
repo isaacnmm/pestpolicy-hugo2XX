@@ -1,21 +1,18 @@
-﻿---
+---
 title: Repairing a Leaky Bath Faucet
-description: That incessant drip-drip-drip from a leaky bath faucet isn't just an annoyance it's a silent drain on your wallet and a wasteful drain on a precious resource.
+description: That incessant drip-drip-drip from a leaky bath faucet isn't just an
+  annoyance it's a silent drain on your wallet and a wasteful drain on a precious
+  resource.
 slug: /repairing-a-leaky-bath-faucet/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Home Maintenance
-
 - Plumbing
 tags:
-
 - home-maintenance
-
 - leaky
-
 - bath
 layout: post
 ---

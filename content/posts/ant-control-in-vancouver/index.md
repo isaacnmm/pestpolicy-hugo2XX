@@ -1,25 +1,21 @@
-﻿---
+---
 title: Ant Control in Vancouver
-description: Ant infestations are a common issue for homeowners and businesses in Vancouver, particularly during the warmer months. These tiny invaders can quickly become...
+description: Ant infestations are a common issue for homeowners and businesses in
+  Vancouver, particularly during the warmer months. These tiny invaders can quickly
+  become...
 slug: /ant-control-in-vancouver/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Ants
-
 - Guide
 tags:
-
 - ants
-
 - ant
-
 - control
 layout: post
 ---
-
 Ant infestations are a common issue for homeowners and businesses in Vancouver, particularly during the warmer months.
 
 These tiny invaders can quickly become a nuisance, infiltrating homes in search of food and water. At PestPolicy, we understand the challenges posed by ant infestations and offer tailored solutions to address them effectively.

@@ -1,21 +1,18 @@
-﻿---
+---
 title: What Happens If You Dont Paint Over Primer
-description: Usually, the priming process is done before actual paint application is undertaken in order to boost adhesive contact of the finish coat.
+description: Usually, the priming process is done before actual paint application
+  is undertaken in order to boost adhesive contact of the finish coat.
 slug: /what-happens-if-you-dont-paint-over-primer/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - DIY Paintings
 tags:
-
 - diy-paintings
-
 - primer
 layout: post
 ---
-
 Usually, the [priming process](https://pestpolicy.com/rustoleum-galvanized-metal-[primer](https://pestpolicy.com/can-you-paint-fiberglass-without-primer/)/)is done before actual paint application is undertaken in order to boost adhesive contact of the finish coat. Some painters tend to skip primer and directly apply finish paint. *So, what happens if you dont paint over primer?
 
 Well, the surface (under paint application) experiences low-paint adhesion, non-uniformity between paint color and sheen, while the surface demands several coats before attaining an excellent finish. *

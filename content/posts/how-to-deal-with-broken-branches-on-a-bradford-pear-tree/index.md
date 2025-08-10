@@ -1,27 +1,21 @@
-﻿---
+---
 title: How to Deal With Broken Branches on a Bradford Pear Tree
-description: The Bradford Pear Pyrus calleryana 'Bradford' was once hailed as the perfect ornamental tree fast-growing, tolerant of diverse conditions, and boasting...
+description: The Bradford Pear Pyrus calleryana 'Bradford' was once hailed as the
+  perfect ornamental tree fast-growing, tolerant of diverse conditions, and boasting...
 slug: /how-to-deal-with-broken-branches-on-a-bradford-pear-tree/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Guides
-
 - Tree Care
-
 - Home Maintenance
 tags:
-
 - guides
-
 - broken
-
 - branche
 layout: post
 ---
-
 The Bradford Pear (Pyrus calleryana 'Bradford') was once hailed as the perfect ornamental tree: fast-growing, tolerant of diverse conditions, and boasting beautiful white spring blossoms. However, its popularity has significantly waned due to a critical flaw: its inherently weak branch structure.
 
 As these trees mature, their narrow, upright branch angles often lead to included bark and weak points, making them highly susceptible to breakage from wind, ice, snow, or even their own weight.

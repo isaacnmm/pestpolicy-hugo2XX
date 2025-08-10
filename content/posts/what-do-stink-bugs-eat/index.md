@@ -1,25 +1,20 @@
-﻿---
+---
 title: What Do Stink Bugs Eat
-description: Stink bugs are pests commonly found in the garden but on some rare occasions, they make entry into our homes. But do ever wonder what do stink bugs to...
+description: Stink bugs are pests commonly found in the garden but on some rare occasions,
+  they make entry into our homes. But do ever wonder what do stink bugs to...
 slug: /what-do-stink-bugs-eat/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Bed Bugs
-
 - Guide
 tags:
-
 - bed-bugs
-
 - stink
-
 - bug
 layout: post
 ---
-
 [Stink](https://pestpolicy.com/stink-bugs-vs-bed-bugs/)bugs are pests commonly found in the garden but on some rare occasions, they make entry into our homes. But do ever wonder what do stink bugs to survive? - Well, stink bugs are well known for their pungent smell. There are many species of stink bugs and you can tell from their different colours.
 
 - Though the most common colour is brown other colours ranges from brown to red, yellow and white.

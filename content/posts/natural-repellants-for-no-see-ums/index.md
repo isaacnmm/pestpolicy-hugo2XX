@@ -1,23 +1,19 @@
-﻿---
+---
 title: Natural Repellants for No See Ums
-description: No-see-ums, also known as biting midges or sandflies, can be quite bothersome with their itchy bites. While there's no foolproof method to completely...
+description: No-see-ums, also known as biting midges or sandflies, can be quite bothersome
+  with their itchy bites. While there's no foolproof method to completely...
 slug: /natural-repellants-for-no-see-ums/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - No See Ums
 tags:
-
 - no-see-ums
-
 - repellant
-
 - no-see-um
 layout: post
 ---
-
 [No-see-ums](https://pestpolicy.com/best-no-see-ums-repellent/),also known as biting midges or sandflies, can be quite bothersome with their itchy bites. While there's no foolproof method to completely eradicate them, there are some natural repellents you can try to keep them at bay:
 
 ##  **1. Geranium rose oil: **

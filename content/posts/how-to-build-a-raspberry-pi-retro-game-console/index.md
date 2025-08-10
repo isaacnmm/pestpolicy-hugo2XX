@@ -1,23 +1,20 @@
-﻿---
+---
 title: How to Build a Raspberry Pi Retro Game Console
-description: It's no brainier that retro gamers have always desired to create their "general game console," which would enable them to play games from various systems. -...
+description: It's no brainier that retro gamers have always desired to create their
+  "general game console," which would enable them to play games from various systems.
+  -...
 slug: /how-to-build-a-raspberry-pi-retro-game-console/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Raspberry Pi 3
 tags:
-
 - raspberry-pi-3
-
 - raspberry
-
 - retro
 layout: post
 ---
-
 It's no brainier that retro gamers have always desired to create their "general game console, " which would enable them to play games from various systems. - The critical considerations for this seemingly "idea build" have been excellent connectivity to the Television set, comfortable for gaming using aRetropie Controller, and average price. However, with the [RetroPie](https://retropie.org.
 
 uk/) software and Raspberry Pi 3, the "idea build" is now achievable.

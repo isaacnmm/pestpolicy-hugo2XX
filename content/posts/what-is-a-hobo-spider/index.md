@@ -1,25 +1,20 @@
-﻿---
+---
 title: What is a Hobo Spider
-description: This post will answer the question "What is a Hobo Spider?" and give you 9 other interesting facts about these unique creatures! Hobo spiders Tegenaria...
+description: This post will answer the question "What is a Hobo Spider?" and give
+  you 9 other interesting facts about these unique creatures! Hobo spiders Tegenaria...
 slug: /what-is-a-hobo-spider/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Guide
-
 - Spiders
 tags:
-
 - guide
-
 - hobo
-
 - spider
 layout: post
 ---
-
 This post will answer the question "What is a Hobo Spider? " and give you 9 other interesting facts about these unique creatures!
 
 Hobo spiders (Tegenaria agrestis) are aggressive [house spiders](https://pestpolicy.com/house-spiders/);they like damp and dark areas like in brick crevices, basement, garage, behind furniture, under radiators, or between boxes. **What Do ** **Hobo Spiders ** **Look Like? - A summary** - **Characteristics: **The eight-eyed Hobo spider does not have a typical eye arrangement for this species.

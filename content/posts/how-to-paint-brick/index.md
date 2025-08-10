@@ -1,25 +1,20 @@
-﻿---
+---
 title: How to Paint Brick
-description: Perhaps you own a brick home or a wall structure and you intend to improve it's outlook impression, then, painting is the best option to consider. Wrong...
+description: Perhaps you own a brick home or a wall structure and you intend to improve
+  it's outlook impression, then, painting is the best option to consider. Wrong...
 slug: /how-to-paint-brick/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - DIY Paintings
-
 - Paint
 tags:
-
 - diy-paintings
-
 - brick
-
 - step-by-step
 layout: post
 ---
-
 Perhaps you own a [brick](https://pestpolicy.com/how-to-remove-paint-from-brick/)home or a wall structure and you intend to improve it's outlook impression, then, painting is the best option to consider.
 
 Wrong procedure and painting method cause paint to peel or chip with time upon application. *On how to paint brick; select appropriate tools and materials required, clean the brick surface, strip old paint, sand the surface, repair damaged sections, and polish the surface before rinsing it to dryness.

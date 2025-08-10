@@ -1,25 +1,20 @@
-﻿---
+---
 title: What is Flea Dirt
-description: What is flea dirt?  Flea dirt flea poop or flea frass is the round black pepper or dandruff-looking specs made up of undigested and dried blood dropped by...
+description: What is flea dirt?  Flea dirt flea poop or flea frass is the round black
+  pepper or dandruff-looking specs made up of undigested and dried blood dropped by...
 slug: /what-is-flea-dirt/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Fleas
-
 - Guide
 tags:
-
 - fleas
-
 - flea
-
 - dirt
 layout: post
 ---
-
 **What is flea dirt? ** Flea dirt (flea poop or flea frass) is the round black pepper or dandruff-looking specs made up of undigested and dried blood (dropped by fleas) after sucking blood from cats, dogs, or humans-repellent-for-humans/). You can find flea dirt when combing or running fingers against the grain of your cat's or dog's hair. Flea dirt is mainly found around your cat's or dog's groin area, the tails, or between their hind legs.
 
 Ultimately, flea larvae will feed on the flea dirt - *remember its blood anyway*. But most fleas must be controlled from their hiding places in the house or the yard.

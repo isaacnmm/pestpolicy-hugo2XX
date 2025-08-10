@@ -1,23 +1,19 @@
-﻿---
+---
 title: How Does Oiling Prevent Rusting
-description: Rusting of metallic structures or vehicle parts is a common problem facing people. The rate of rusting differs from place to place due to varying...
+description: Rusting of metallic structures or vehicle parts is a common problem facing
+  people. The rate of rusting differs from place to place due to varying...
 slug: /how-does-oiling-prevent-rusting/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - DIY Paintings
 tags:
-
 - diy-paintings
-
 - oiling
-
 - prevent
 layout: post
 ---
-
 Rusting of metallic structures or vehicle parts is a common problem facing people. The rate of rusting differs from place to place due to varying environmental conditions.
 
 Rust erodes iron metal and destroys the entire body eventually. Rusting prevention measures such as painting, greasing/oiling, galvanizing, and alloying have been put into place to curb further corrosion. *Oiling the metal creates a coating layer that prevents water and oxygen from reaching the metal surface. * *Usually, oil doesnt mix with water (immiscible) and hence water remains on the oiled metal surface.

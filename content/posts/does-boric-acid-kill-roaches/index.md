@@ -1,25 +1,20 @@
-﻿---
+---
 title: Does Boric Acid Kill Roaches
-description: You'll get boric acid in either dust or gel forms , but largely dusts are used for pest extermination. Chemically, boric acid will contain electrostatic...
+description: You'll get boric acid in either dust or gel forms , but largely dusts
+  are used for pest extermination. Chemically, boric acid will contain electrostatic...
 slug: /does-boric-acid-kill-roaches/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Cockroaches
-
 - Product Reviews
 tags:
-
 - cockroaches
-
 - doe
-
 - boric
 layout: post
 ---
-
 You'll get [boric](https://pestpolicy.com/does-boric-acid-kill-bed-bugs/)acid in either dust or gel forms, but largely dusts are used for pest extermination. Chemically, boric acid will contain electrostatic charges and thus it'll cling to the roach's body while it's crawling on the roach-treated surfaces. - **Does Boric Acid Kill Roaches? I've come to love Boric acid powder(available on Amazon) for its effectiveness in killing roaches.
 
 ****The boricacid powder is a boron derivative.

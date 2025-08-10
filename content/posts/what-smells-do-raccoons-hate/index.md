@@ -1,23 +1,20 @@
-﻿---
+---
 title: What Smells Do Raccoons Hate
-description: You don't want raccoons digging up your yard or tearing apart your house or garbage can, but you also don't like the idea of killing them. - There are a lot...
+description: You don't want raccoons digging up your yard or tearing apart your house
+  or garbage can, but you also don't like the idea of killing them. - There are a
+  lot...
 slug: /what-smells-do-raccoons-hate/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Guide
-
 - Raccoons
 tags:
-
 - guide
-
 - raccoon
 layout: post
 ---
-
 You don't want raccoons digging up your yard or tearing apart your house or garbage can, but you also don't like the idea of killing them. - There are a lot of repellents that claim they will[keep away raccoons](https://pestpolicy.com/how-to-get-rid-of-raccoons/),but what smells do Raccoons hate? What do animals respond to most strongly?
 
 **Answer: In brief, raccoons hate irritating smells like those from Epsom salt, peppermint oil, garlic, onion, and hot pepper.

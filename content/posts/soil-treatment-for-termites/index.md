@@ -1,25 +1,21 @@
-﻿---
+---
 title: Soil Treatment for Termites
-description: Soil treatment for termites involves using some contact insecticides around your house and yard to create barriers. The subterranean termite control process...
+description: Soil treatment for termites involves using some contact insecticides
+  around your house and yard to create barriers. The subterranean termite control
+  process...
 slug: /soil-treatment-for-termites/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Guide
-
 - Termites
 tags:
-
 - guide
-
 - soil
-
 - treatment
 layout: post
 ---
-
 Soil [treatment](https://pestpolicy.com/subterranean-termites-treatment/)for termites involves using some contact insecticides around your house and yard to create barriers. The [subterranean termite control](https://pestpolicy.com/subterranean-termites-treatment/)process is divided into pre-construction plus the post-construction treatment.
 
 Soil treatment for termites applies some termite insecticide like [fipronil](https://iaspub.epa.gov/apex/pesticides/f?p=CHEMICALSEARCH:3:::NO:1,3,31,7,12,25:P3_XCHEMICAL_ID:2377)or [imidacloprid](https://iaspub.epa.gov/apex/pesticides/f?p=CHEMICALSEARCH:3:::NO:1,3,31,7,12,25:P3_XCHEMICAL_ID:2571)on the structures like the house or wall foundations and wood.

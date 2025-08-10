@@ -1,21 +1,17 @@
-﻿---
+---
 title: Best Flowers for Flourishing Fall Garden
-description: As the long, sun-drenched days of summer begin to wane, many gardens start to show signs of fatigue. The dazzling displays of peak season annuals and...
+description: As the long, sun-drenched days of summer begin to wane, many gardens
+  start to show signs of fatigue. The dazzling displays of peak season annuals and...
 slug: /best-flowers-for-flourishing-fall-garden/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Guides
-
 - Gardening
 tags:
-
 - guides
-
 - flower
-
 - fall
 layout: post
 ---

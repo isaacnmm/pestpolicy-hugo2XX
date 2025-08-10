@@ -1,25 +1,20 @@
-﻿---
+---
 title: How to Make Centipede Grass Spread
-description: Centipede grass Eremochloa ophiuroides is a popular choice for lawns in the warm, humid climates of the southeastern United States.
+description: Centipede grass Eremochloa ophiuroides is a popular choice for lawns
+  in the warm, humid climates of the southeastern United States.
 slug: /how-to-make-centipede-grass-spread/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Lawn Care
-
 - Guides
 tags:
-
 - lawn-care
-
 - centipede
-
 - gra
 layout: post
 ---
-
 Centipede grass (Eremochloa ophiuroides) is a popular choice for lawns in the warm, humid climates of the southeastern United States. Known for its slow-growing, low-maintenance nature and apple-green color, it forms a dense, attractive turf that thrives in full sun but tolerates some shade. One of its most appealing characteristics is its ability to spread, naturally filling in thin areas and creating a uniform, carpet-like lawn.
 
 This spreading habit is due to its stolonsabove-ground runners that creep along the soil surface, rooting at their nodes to establish new grass plants.

@@ -1,24 +1,20 @@
-﻿---
+---
 title: How to Play Tetherball   copy
-description: Tetherball is a classic backyard game that injects competitive energy and lively fun into any outdoor gathering. Simple in its core premise yet engaging in...
+description: Tetherball is a classic backyard game that injects competitive energy
+  and lively fun into any outdoor gathering. Simple in its core premise yet engaging
+  in...
 slug: /how-to-play-tetherball/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Lawn Care
-
 - Guides
 tags:
-
 - lawn-care
-
 - tetherball
-
 - master
 ---
-
 [Tetherball](https://pestpolicy.com/how-to-play-tetherball/)is a classic backyard game that injects competitive energy and lively fun into any outdoor gathering. Simple in its core premise yet engaging in its execution, it's a fantastic two-player game that demands quick reflexes, strategic thinking, and a good dose of hand-eye coordination.
 
 If you've got a tetherball pole and a ball, you're just a few steps away from unlocking hours of outdoor entertainment.

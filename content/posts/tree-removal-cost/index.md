@@ -1,23 +1,18 @@
-﻿---
+---
 title: Tree Removal Cost
-description: Trees enhance property aesthetics, provide shade, and support local ecosystems. However, there are times when tree removal becomes necessary.
+description: Trees enhance property aesthetics, provide shade, and support local ecosystems.
+  However, there are times when tree removal becomes necessary.
 slug: /tree-removal-cost/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Guides
-
 - Lawn Care
-
 - Pest Control
 tags:
-
 - guides
-
 - doe
-
 - tree
 layout: post
 ---

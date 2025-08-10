@@ -1,21 +1,18 @@
-﻿---
+---
 title: What is an Oboe
-description: The World Guinness Records documents oboe and French horn are the hardest instruments of all to play. But, what is an oboe?
+description: The World Guinness Records documents oboe and French horn are the hardest
+  instruments of all to play. But, what is an oboe?
 slug: /what-is-an-oboe/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Recording
 tags:
-
 - recording
-
 - oboe
 layout: post
 ---
-
 The World Guinness Records documents [oboe](https://pestpolicy.com/english-horn-vs-oboe/)and French horn are the hardest instruments of all to play. But, what is an oboe? How will it fit into your solo work on the orchestra?
 
 Well, I have to state that the French horn is difficult to play but the oboe - woodwind instrument - is the hardest. By definition, the Oboe the treble instrument - (pronounced as *OH-boh* ) is a [woodwind instruments](https://en.wikipedia.org/wiki/Woodwind_instrument),double-reed mouthpiece to be specific. Well, the regular oboe would play the soprano or treble range.

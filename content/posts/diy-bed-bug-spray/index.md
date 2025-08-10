@@ -1,25 +1,20 @@
-﻿---
+---
 title: Diy Bed Bug Spray
-description: Bed bugs are tiny pests that will disturb your sleep by biting and sucking your blood before retreating to the seams of your couch or bed. The insects are...
+description: Bed bugs are tiny pests that will disturb your sleep by biting and sucking
+  your blood before retreating to the seams of your couch or bed. The insects are...
 slug: /diy-bed-bug-spray/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Bed Bugs
-
 - Guide
 tags:
-
 - bed-bugs
-
 - diy
-
 - bed
 layout: post
 ---
-
 Bed bugs [are tiny pests](https://pestpolicy.com/bed-bug-life-cycle/)that will disturb your sleep by biting and sucking your blood before retreating to the seams of your couch or bed. The insects are carried between places (unknowingly) by pets or humans on their bodies. - Bed bug bites appear as irritating bumps that are red - they are inflicted on any exposed skin all over your body.
 
 In this article, I will outline the various DIY Bed Bug Sprays you can use to repel or kill the bugs.

@@ -1,27 +1,21 @@
-﻿---
+---
 title: How to Grow Pineapples As Houseplants
-description: The pineapple Ananas comosus is an iconic symbol of the tropics, celebrated for its unique spiky fruit and lush, architectural foliage.
+description: The pineapple Ananas comosus is an iconic symbol of the tropics, celebrated
+  for its unique spiky fruit and lush, architectural foliage.
 slug: /how-to-grow-pineapples-as-houseplants/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Guides
-
 - Houseplants
-
 - Tropical Plants
 tags:
-
 - guides
-
 - pineapple
-
 - houseplant
 layout: post
 ---
-
 The pineapple (*Ananas comosus*) is an iconic symbol of the tropics, celebrated for its unique spiky fruit and lush, architectural foliage. While most of us associate pineapples with sun-drenched plantations, it's surprisingly easy and rewarding to grow a pineapple plant right in your own home, even in non-tropical climates.
 
 Starting a pineapple plant from the top of a store-bought fruit is a popular and fun horticultural experiment that can transform your indoor space with exotic flair.

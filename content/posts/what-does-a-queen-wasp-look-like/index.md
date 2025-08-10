@@ -1,25 +1,20 @@
-﻿---
+---
 title: What Does a Queen Wasp Look Like
-description: The Queen Wasp is a female wasp that has acquired full maturity, are mandated to lays eggs, and raise a new generation of wasps. The queen wasp is specially...
+description: The Queen Wasp is a female wasp that has acquired full maturity, are
+  mandated to lays eggs, and raise a new generation of wasps. The queen wasp is specially...
 slug: /what-does-a-queen-wasp-look-like/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Guide
-
 - Wasps
 tags:
-
 - guide
-
 - queen
-
 - wasp
 layout: post
 ---
-
 The [Queen Wasp](https://www.ncbi.nlm.nih.gov/pubmed/24219699)is a female wasp that has acquired full maturity, are mandated to lays eggs, and raise a new generation of wasps.
 
 The queen wasp is specially fed and treated by worker wasps while resting. It is not assigned any other duties. **How do you Identify a Queen Wasp? The simple answer to this is that, Queen Wasp is naturally larger than all other female workers and drones (males). ** **This is due to special care given to the queen wasp by the workers. In addition, the Queen Wasp can either be red, brown, metallic blue, yellow or combined stripes of these colors.

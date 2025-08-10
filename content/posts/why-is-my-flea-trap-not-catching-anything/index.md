@@ -1,25 +1,20 @@
-﻿---
+---
 title: Why Is My Flea Trap Not Catching Anything? A Troubleshooting Guide
-description: It's one of the most disheartening feelings in the battle against fleas. You've taken action, set up a trap, and left it overnight, full of hope.
+description: It's one of the most disheartening feelings in the battle against fleas.
+  You've taken action, set up a trap, and left it overnight, full of hope.
 slug: /why-flea-trap-is-not-working/
 date: 2025-08-05 00:00:00+00:00
 lastmod: 2025-08-05 00:00:00+03:00
 author: Isaac
 categories:
-
 - Fleas
-
 - Guides
 tags:
-
 - flea-trap
-
 - fleas
-
 - pest-control
 layout: post
 ---
-
 It's one of the most disheartening feelings in the battle against fleas. You've taken action, set up a trap, and left it overnight, full of hope. In the morning, you check it, only to find it completely empty.
 
 Your first thought might be, "Great, no fleas! " But when your pet is still scratching or you see a tiny speck jump, the frustration sets in.

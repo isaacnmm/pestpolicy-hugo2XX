@@ -1,21 +1,17 @@
-﻿---
+---
 title: This Bluetooth Bathroom Speaker Fan Also Functions As Your Phone
-description: The bathroom, once a purely utilitarian space, has rapidly evolved into a sanctuary of relaxation and personal care. With the advent of smart home technology,...
+description: The bathroom, once a purely utilitarian space, has rapidly evolved into
+  a sanctuary of relaxation and personal care. With the advent of smart home technology,...
 slug: /this-bluetooth-bathroom-speaker-fan-also-functions-as-your-phone/
 date: 2025-07-10 00:00:00+00:00
 lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
-
 - Guides
-
 - Bathroom
 tags:
-
 - guides
-
 - bluetooth
-
 - bathroom
 layout: post
 ---
