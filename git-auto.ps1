@@ -1,17 +1,21 @@
-param(
-    [string]$msg = "Auto commit"
+param (
+    [string]$Message = ""
 )
 
-Write-Host "=== Checking Git status ===" -ForegroundColor Cyan
+if (-not $Message) {
+    $Message = "Auto commit - $(Get-Date -Format 'yyyy-MM-dd HH:mm:ss')"
+}
+
+Write-Host "=== Checking Git status ==="
 git status
 
-Write-Host "=== Adding changes ===" -ForegroundColor Cyan
+Write-Host "=== Adding changes ==="
 git add -A
 
-Write-Host "=== Committing ===" -ForegroundColor Cyan
-git commit -m $msg
+Write-Host "=== Committing ==="
+git commit -m "$Message"
 
-Write-Host "=== Pushing to origin/main ===" -ForegroundColor Cyan
+Write-Host "=== Pushing to origin/main ==="
 git push origin main
 
-Write-Host "=== Done ===" -ForegroundColor Green
+Write-Host "=== Done ==="
