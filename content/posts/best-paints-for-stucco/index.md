@@ -65,7 +65,7 @@ Cons: - Susceptible to scratching and flaking
 
 KILZ has been over the years been known to produce premium paints this being one of them.
 
-Designed with good hide, this paint does well in hiding [imperfections on concrete](https://pestpolicy.com/best-paint-stripper-for-concrete/), bricks, stucco, tiles among others. This paint has the ability to resist mildew and molds and water and therefore good on exterior and interior surfaces. The strong adhesion of this paint makes it stick on most surfaces. A roller, a brush, or a sprayer, can be used to apply this paint with minimum ease.
+Designed with good hide, this paint does well in hiding [imperfections on concrete](https://pestpolicy.com/best-paint-stripper-for-concrete/),bricks, stucco, tiles among others. This paint has the ability to resist mildew and molds and water and therefore good on exterior and interior surfaces. The strong adhesion of this paint makes it stick on most surfaces. A roller, a brush, or a sprayer, can be used to apply this paint with minimum ease.
 
 It has good coverage and a gallon covers 250-400 square feet depending on the texture of the surface. The fast to dry within 30 minutes but in the case of a second coat, it can only be done after 4 hours for better results. The paint is self-priming abilities but also remember to thoroughly clean the surface to be free from oil, grease, dust, polish and other dirt for excellent results.
 

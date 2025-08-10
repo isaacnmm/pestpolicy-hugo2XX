@@ -26,7 +26,7 @@ Related: Best Walking Shoes for Flat Feet and Bunions-for-flat-feet-and-bunions/
 
 ###  [1. Arcopedico Women's L8](https://www.amazon.com/dp/B00DE7GPK0/tag=p-policy-20)
 
-If youre for reliable and comfortable shoes for tailors bunions then look no further than the Arcopedico Women's L8. This [shoe](https://pestpolicy.com/best-shoes-for-bunions-and-plantar-fasciitis/) provides good arch support, which helps to remove excess pressure on the sides of the foot and on the tailor bunions.
+If youre for reliable and comfortable shoes for tailors bunions then look no further than the Arcopedico Women's L8. This [shoe](https://pestpolicy.com/best-shoes-for-bunions-and-plantar-fasciitis/)provides good arch support, which helps to remove excess pressure on the sides of the foot and on the tailor bunions.
 
 Most women agree that this is one of the Best Shoes for Tailors Bunion. Although its not the most attractive boot it delivers superior comfort and support.
 
@@ -64,7 +64,7 @@ Cons: - Expensive
 
 Related: [Best Shoes for Hammer Toes and Bunions](https://pestpolicy.com/best-shoes-for-hammer-toes-and-bunions/)
 
-###  [3. Skechers Men's Equalizer Slip-On Sneaker](https://www.amazon.com/dp/B00OPEIYLO/tag=p-policy-20)- Best Shoes for Tailors Bunion
+###  [3. Skechers Men's Equalizer Slip-On Sneaker](https://www.amazon.com/dp/B00OPEIYLO/tag=p-policy-20)-Best Shoes for Tailors Bunion
 
 Skechers Equalizer Slip-On Sneaker has a roomy forefoot, accommodative upper, and comes with wide width options. All these features are crucial in a shoe especially for someone with a tailors bunion.
 
@@ -156,7 +156,7 @@ Therefore, its crucial that you select shoes with soft upper materials with smoo
 
 Some of the upper materials to consider include a combination of synthetic, textile, or mesh. All the above-reviewed shoes have the best upper material to ease your bunions. **Get Extra Bunion Support** If youre in need of more support and comfort you may consider getting additional bunion support. This support will add more cushioning that would deliver proper arch support and protect the sides of the foot from injuries.
 
-You can also invest in specialized [bunion socks](https://www.amazon. com/dp/B07BN1DZZY/tag=p-policy-20) to boost your comfort.
+You can also invest in specialized [bunion socks](https://www.amazon.com/dp/B07BN1DZZY/tag=p-policy-20)to boost your comfort.
 
 ##  How to Treat a Tailor's Bunion
 

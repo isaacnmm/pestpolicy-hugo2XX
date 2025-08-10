@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 
-Flea eggs and pupae can remain dormant for a prolonged lying under carpets, pet fur, or clothes lying on the floor. But, cats & dogs - which are warm-blooded are their preferred hosts. Also, fleas may host tapeworms and spread diseases like Lyme diseases. But *, can fleas [live](https://pestpolicy.com/can-fleas-live-in-human-hair/) on clothes? * **The short answer is, No! ** Cat [fleas can't live on hair](https://pestpolicy.com/can-fleas-live-in-human-hair/) and clothes.
+Flea eggs and pupae can remain dormant for a prolonged lying under carpets, pet fur, or clothes lying on the floor. But, cats & dogs - which are warm-blooded are their preferred hosts. Also, fleas may host tapeworms and spread diseases like Lyme diseases. But *, can fleas [live](https://pestpolicy.com/can-fleas-live-in-human-hair/)on clothes? * **The short answer is, No! ** Cat [fleas can't live on hair](https://pestpolicy.com/can-fleas-live-in-human-hair/)and clothes.
 
 Fleas stay on humans for only about7. 5 minutes as they suckblood. If you disrupt them while sucking blood, the fleas will hide in the seams of your clothes - for better flea control. But, sometimes, the fleas can hide in clothes for about 24 hours if they can't figure their way out - as they continue sucking human blood.
 
@@ -43,7 +43,7 @@ For example, the fleas can hide under clothes that are left lying on the floor o
 
 ###  1.Fleas larvae hatch on their hosts
 
-Flea larvae will hatch from their fleas eggs while still on their hosts, such as dogs and cats. However, flea larvae don't live on the hosts but will fall off to the environment [in areas such as carpet](https://pestpolicy.com/can-fleas-live-in-carpets/) fibers when the cat or dog is walking around your house. The fleas' eggs will behave like any round ball that will roll off any surface.
+Flea larvae will hatch from their fleas eggs while still on their hosts, such as dogs and cats. However, flea larvae don't live on the hosts but will fall off to the environment [in areas such as carpet](https://pestpolicy.com/can-fleas-live-in-carpets/)fibers when the cat or dog is walking around your house. The fleas' eggs will behave like any round ball that will roll off any surface.
 
 Therefore, when the cat or dog rises and shales its body, the flea eggs will fall off to the surrounding surfaces in their environment. Further, when the pet is in its sleeping area, the flea eggs will fall off to the bedding, where they'll hatch into larvae and grow.
 

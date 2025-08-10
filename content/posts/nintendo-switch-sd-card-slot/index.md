@@ -14,7 +14,7 @@ tags:
 layout: post
 ---
 
-Today I'll take a peek at how to install your micro SD card on the [Nintendo switch](https://en.wikipedia. org/wiki/Nintendo_Switch). The 32GB internal storage of your Nintendo Switch might not be enough to store many, or just enough, digitally downloaded game titles. Maybe you have just acquired a Nintendo Switch Micro SD Card, and you are ready to hit go with new game titles.
+Today I'll take a peek at how to install your micro SD card on the [Nintendo switch](https://en.wikipedia.org/wiki/Nintendo_Switch).The 32GB internal storage of your Nintendo Switch might not be enough to store many, or just enough, digitally downloaded game titles. Maybe you have just acquired a Nintendo Switch Micro SD Card, and you are ready to hit go with new game titles.
 
 You might want to take pictures or take screenshots of the Nintendo switch. But wait a minute! It would help if you had numerous questions regarding the use of additional storage in the Nintendo switch. - Do I require a memory card? Where is Nintendo switch SD card slot? How do you insert or remove the SD card from the Nintendo Switch? - In this guide, I will go through all the above issues and offer solutions step by step.
 
@@ -30,7 +30,7 @@ Well, I can see the spot for the game card on the top. However, it can be tricky
 
 1. Switch off your Nintendo Switch console. 2. Gently swing the kickstand open to reveal the Nintendo switch SD card slot.
 
-3. Take the microSD card and make sure that its microSD card label is facing away from your [Nintendo Switch console](https://www.amazon. com/dp/B01MUAGZ49/? tag=p-policy-20). 4. Insert the microSD card into the Nintendo switch SD card slot and smoothly push it down until it produces a clicking sound as it gets its right position. 5. Close your Nintendo switch back door. 6. Also, switch on the Nintendo Switch console. 7.
+3. Take the microSD card and make sure that its microSD card label is facing away from your [Nintendo Switch console](https://www.amazon.com/dp/B01MUAGZ49/?tag=p-policy-20).4. Insert the microSD card into the Nintendo switch SD card slot and smoothly push it down until it produces a clicking sound as it gets its right position. 5. Close your Nintendo switch back door. 6. Also, switch on the Nintendo Switch console. 7.
 
 However, if the MicroSD card for your console is not recognized, ensure that the card is inserted adequately inserted into the Nintendo switch SD card slot. Further, make sure that the SD card is formatted correctly. Read Also: [SD card for Raspberry Pi 3](https://pestpolicy.com/best-sd-card-for-raspberry-pi-3/)
 
@@ -52,7 +52,7 @@ Your Nintendo Switch will only come with 32 GB as its internal storage capacity.
 
 Some of the game downloads (and their capacity) include: 1.
 
-[Disgaea 5 - 5. 92 GB](https://www.nintendo. com/games/detail/disgaea-5-complete-switch) 2. [Mario Kart 8 Deluxe - 7 GB](https://www.nintendo. com/games/detail/mario-kart-8-deluxe-switch)
+[Disgaea 5 - 5. 92 GB](https://www.nintendo.com/games/detail/disgaea-5-complete-switch)2. [Mario Kart 8 Deluxe - 7 GB](https://www.nintendo.com/games/detail/mario-kart-8-deluxe-switch)
 
 ###  Is a Micro SD Card necessary?
 

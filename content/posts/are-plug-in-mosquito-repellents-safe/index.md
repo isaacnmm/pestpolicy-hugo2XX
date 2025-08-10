@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 
-Mosquito repellent plugins [are](https://pestpolicy.com/are-blue-tailed-lizards-poisonous/) the most reliable way of keeping mosquitoes at bay.
+Mosquito repellent plugins [are](https://pestpolicy.com/are-blue-tailed-lizards-poisonous/)the most reliable way of keeping mosquitoes at bay.
 
 But are they safe for us? I have done a comprehensive research on this topic and have some important facts to share with you! **Are mosquito repellent plugins safe? When wrongly applied, mosquito repellent plugins can result to the following; they could cause respiratory disorders to babies, allergic reactions, and can cause a condition called hypospadias for babies and pregnant women. ** Let's get started!
 

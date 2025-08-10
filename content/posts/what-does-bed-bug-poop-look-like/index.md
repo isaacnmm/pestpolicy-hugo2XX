@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 
-*What does bed bug poop look like? * First, they're not solid and difficult to pick up - they'll readily smear like toothpaste since it looks like a liquid. [Bed bugs](https://nysipm.cornell. edu/whats-bugging-you/[bed-bugs](https://pestpolicy.com/bed-bug-bites-vs-mosquito-bites/)/bed-bug-faqs///) will feed every 5 to 10 days and numb your pain using its anesthetic saliva ( see bed bug images ).
+*What does bed bug poop look like? * First, they're not solid and difficult to pick up - they'll readily smear like toothpaste since it looks like a liquid. [Bed bugs](https://nysipm.cornell.edu/whats-bugging-you/[bed-bugs](https://pestpolicy.com/bed-bug-bites-vs-mosquito-bites/)/bed-bug-faqs///)will feed every 5 to 10 days and numb your pain using its anesthetic saliva ( see bed bug images ).
 
 You may notice eggs, *feces*, and skin castings on bed or old box spring.
 
@@ -59,13 +59,13 @@ But any of the droppings that'll be allowed to lie around for a long time will d
 
 A bed bug will drop their feces, particularly under your mattress - and they'll have the same appearance as those on the bedsheets. Hence, the feces, if wet, will smear over the mattress. However, dried bed bug feces will get absorbed into the mattress fabric. Further, they'll occur on fecal matter clusters - particularly under the mattress.
 
-You'll find most of the fecal matter around the bed bug's harbor-age - this as noted above the sheets and mattress - they'll signify that bed bugs are around their living areas. However, you'll also find the [bed bugs around zipping](https://pestpolicy.com/do-bed-bug-bombs-work/), buttons, or mattress piping. You may notice bed bug shells that drop when the bugs molt.
+You'll find most of the fecal matter around the bed bug's harbor-age - this as noted above the sheets and mattress - they'll signify that bed bugs are around their living areas. However, you'll also find the [bed bugs around zipping](https://pestpolicy.com/do-bed-bug-bombs-work/),buttons, or mattress piping. You may notice bed bug shells that drop when the bugs molt.
 
 ##  Are Black Spots or Stains on my Sheets fromBed Bugs?
 
-Have you seen some black spots on your bed - well, these don't bed bug feces? Sure, bed bugs will leave tiny and bright stains - but they'll appear in a line. The tiny bloodstain is from hosts' blood - the [bed bugs](https://pestpolicy.com/dead-bed-bugs/) drop the blood from their mouths as they move from harbor-age. Thus, the blood is undigested and hence will be brighter than bed bug feces.
+Have you seen some black spots on your bed - well, these don't bed bug feces? Sure, bed bugs will leave tiny and bright stains - but they'll appear in a line. The tiny bloodstain is from hosts' blood - the [bed bugs](https://pestpolicy.com/dead-bed-bugs/)drop the blood from their mouths as they move from harbor-age. Thus, the blood is undigested and hence will be brighter than bed bug feces.
 
-You may also notice more significant bright red stains (equally on the sheets) that's irregularly shaped. These stains occur when you [crush the bed bugs](https://pestpolicy.com/what-happens-when-you-squish-a-bed-bug/) after they've taken their fresh blood meal. Further, some blood spots may happen when you crash the bed bugs as you turn and twist in your sleep. However, any other tiny black spots on your sheets may be from fleas.
+You may also notice more significant bright red stains (equally on the sheets) that's irregularly shaped. These stains occur when you [crush the bed bugs](https://pestpolicy.com/what-happens-when-you-squish-a-bed-bug/)after they've taken their fresh blood meal. Further, some blood spots may happen when you crash the bed bugs as you turn and twist in your sleep. However, any other tiny black spots on your sheets may be from fleas.
 
 Further, flea dirt or bed bug feces may equally have some black spots if they've dried - so conduct the right searches to ensure that you have or don't have bed bugs in your home.
 

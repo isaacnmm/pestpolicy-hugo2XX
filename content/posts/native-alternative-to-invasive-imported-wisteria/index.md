@@ -47,7 +47,7 @@ The term "invasive wisteria" typically refers to two Asian species:
 
 ##  Native Wisteria
 
-In contrast to their aggressive Asian cousins, **American wisteria (*Wisteria frutescens*)** is a well-behaved and ecologically beneficial native [alternative](https://pestpolicy.com/gutter-alternatives/). It is native to the southeastern United States, though its range can extend into parts of the Midwest.
+In contrast to their aggressive Asian cousins, **American wisteria (*Wisteria frutescens*)** is a well-behaved and ecologically beneficial native [alternative](https://pestpolicy.com/gutter-alternatives/).It is native to the southeastern United States, though its range can extend into parts of the Midwest.
 
 **Key Differences and Benefits of American Wisteria: **
 

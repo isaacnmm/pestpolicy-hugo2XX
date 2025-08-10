@@ -14,9 +14,9 @@ tags:
 layout: post
 ---
 
-There is so much fun in DIY Raspberry Pi projects, such as security cameras and digital weather stations. - [Raspberry Pi model 3 B+](https://www.raspberrypi. org/products/[raspberry-pi-3](https://pestpolicy.com/best-heatsink-for-raspberry-pi-3/)-model-b-plus/)is the newest upgrade, being more flexible and powerful, but still low priced.
+There is so much fun in DIY Raspberry Pi projects, such as security cameras and digital weather stations. - [Raspberry Pi model 3 B+](https://www.raspberrypi.org/products/[raspberry-pi-3](https://pestpolicy.com/best-heatsink-for-raspberry-pi-3/)-model-b-plus/)isthe newest upgrade, being more flexible and powerful, but still low priced.
 
-I recently run a test for the[micro-SD card for [Raspberry](https://pestpolicy.com/best-os-for-raspberry-pi-3/) Pi 3](https://pestpolicy.com/best-sd-card-for-raspberry-pi-3/). The upgrade brings superior WiFi performance, wired LAN performance, CPU frequency (200MHz faster), and other significant modifications but still maintained the 1GB memory.
+I recently run a test for the[micro-SD card for [Raspberry](https://pestpolicy.com/best-os-for-raspberry-pi-3/)Pi 3](https://pestpolicy.com/best-sd-card-for-raspberry-pi-3/).The upgrade brings superior WiFi performance, wired LAN performance, CPU frequency (200MHz faster), and other significant modifications but still maintained the 1GB memory.
 
 Below are the first impressions and benchmarks after a brief but thorough experience with the new Raspberry Pi model 3 B+.
 
@@ -46,7 +46,7 @@ The test results showed an improvement in the processing power, such as fast USB
 
 My first impression of the Raspberry Pi 3B+ is an excellent-looking circuit board that measures 0. 63*3. 5*2. 2 in. - Notably, all the components are visible: 40-pin GPIO input/output connector and the 1. 4GHz ARM processor. Also, the board includes a micro-SD slot, 3. 5mm audio output, HDMI, Ethernet, four USB 2. 0, and a micro-USB connector.
 
-Read Also: [Build a Raspberry Pi Retro Game Console](https://pestpolicy.com/how-to-build-a-raspberry-pi-retro-game-console/) **Amazing Speed Boost** Just like Raspberry Pi 3 Model B, the all-new Model B+ has a 64-bit processor and in-built wireless connectivity. - Despite not having not many additional features, the Model B+ has some unique tasks that will be completed much more comfortably.
+Read Also: [Build a Raspberry Pi Retro Game Console](https://pestpolicy.com/how-to-build-a-raspberry-pi-retro-game-console/)**Amazing Speed Boost** Just like Raspberry Pi 3 Model B, the all-new Model B+ has a 64-bit processor and in-built wireless connectivity. - Despite not having not many additional features, the Model B+ has some unique tasks that will be completed much more comfortably.
 
 - For example, with the processor upgrade that allows faster speeds, it'll be easier to complete tasks that require enormous computing power, such as creating a home-theatre PC. Further, despite having the same 1GB memory, the Model B+ comes with a 200MHz faster CPU. On the negative side, however, Pi 3 Model B+ could not effectively play the YouTube 1080p video.
 

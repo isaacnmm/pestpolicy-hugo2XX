@@ -15,13 +15,13 @@ tags:
 layout: post
 ---
 
-Some spider like [Redback spider](https://en.wikipedia. org/wiki/Redback_spider) go into non-action up-to 6 months without a meal (by reducing energy use). But the spider will spring into action when a prey appears.
+Some spider like [Redback spider](https://en.wikipedia.org/wiki/Redback_spider)go into non-action up-to 6 months without a meal (by reducing energy use). But the spider will spring into action when a prey appears.
 
 **But do spiders sleep? Spiders don't sleep like humans but have circadian rhythms - rest & activity cycles. Spiders lack eyelids and don't close their eyes like humans. ** **During the resting phase, spiders conserve energy during the day and cold areas by lowering the metabolic rate and cutting their activity - how spiders hibernate during winter. But spiders are more highly active at night so as to avoid predators such as birds at day time. **
 
 ##  **How Do Spiders Sleep?**
 
-In hibernation mode, the arachnids will lower their metabolic rates while also tucking in their legs. Most [spider species](https://books.google. com/books? hl=en&lr=&id=oJxVDwAAQBAJ&oi=fnd&pg=PP6&dq=do+Spiders+Sleep&ots=0sDheMGg5e&sig=BlRRfLwk_a-nKhGyTSZ31hwIiJU) will be active mainly at night. In addition, these arachnids will hibernate during the cold season. Do spiders sleep?
+In hibernation mode, the arachnids will lower their metabolic rates while also tucking in their legs. Most [spider species](https://books.google.com/books?hl=en&lr=&id=oJxVDwAAQBAJ&oi=fnd&pg=PP6&dq=do+Spiders+Sleep&ots=0sDheMGg5e&sig=BlRRfLwk_a-nKhGyTSZ31hwIiJU)will be active mainly at night. In addition, these arachnids will hibernate during the cold season. Do spiders sleep?
 
 To a curious mind, it would make sense that a creature with 8 eyes would need to sleep from time to time.
 
@@ -35,7 +35,7 @@ During cold seasons, spiders curl their legs and reduce their metabolic rate eve
 
 ##  Do Spiders Crawl in Mouth While Sleeping?
 
-The fact that spiders are capable of such hibernation means that they can do so in short bursts on a day to day basis to give the impression of sleep. As the spider encounters a period of low food availability and harsh climatic conditions, they enter hibernation mode to conserve energy. When the spiders are resting, [their brains](https://pestpolicy.com/do-spiders-have-brains/) will be working round the clock.
+The fact that spiders are capable of such hibernation means that they can do so in short bursts on a day to day basis to give the impression of sleep. As the spider encounters a period of low food availability and harsh climatic conditions, they enter hibernation mode to conserve energy. When the spiders are resting, [their brains](https://pestpolicy.com/do-spiders-have-brains/)will be working round the clock.
 
 For example, they'll feel even the smallest vibration with their great tactile sense. In addition, they'll react in case of danger of when one of their prey gets stuck on their web.
 
@@ -43,7 +43,7 @@ For example, they'll feel even the smallest vibration with their great tactile s
 
 The spider's brain is a little different from the human brain. Therefore, the arachnids won't get bored in their "rest" or "sleep" mode. But some spiders may take naps at night. But hunting spiders posses more powerful eyesight compared to those that build webs. for example, wolf spiders will attack and chase their prey.
 
-Crab spiders will just sit around waiting to ambush their prey on the leaf and flower. In addition, jumping spiders will use their great [hearing capability](https://pestpolicy.com/do-spiders-have-ears/), intelligent and eyesight.
+Crab spiders will just sit around waiting to ambush their prey on the leaf and flower. In addition, jumping spiders will use their great [hearing capability](https://pestpolicy.com/do-spiders-have-ears/),intelligent and eyesight.
 
 ##  Lifestyle of the Arachnids
 
@@ -65,5 +65,5 @@ Some factors like cold temperatures or circadian rhythms may make the spiders su
 
 ##  Sources:
 
-1. [Believing that humans swallowspidersin theirsleep: False beliefs as side effects of the processes that support accurate knowledge](https://www.sciencedirect. com/science/article/pii/S0079742115000341) 2. [What is so frightening aboutspiders? Selfrated and selfdisclosed impact](https://onlinelibrary.wiley. com/doi/abs/10. 1111/sjop. 12508)
+1. [Believing that humans swallowspidersin theirsleep: False beliefs as side effects of the processes that support accurate knowledge](https://www.sciencedirect.com/science/article/pii/S0079742115000341)2. [What is so frightening aboutspiders? Selfrated and selfdisclosed impact](https://onlinelibrary.wiley.com/doi/abs/10.1111/sjop.12508)
 

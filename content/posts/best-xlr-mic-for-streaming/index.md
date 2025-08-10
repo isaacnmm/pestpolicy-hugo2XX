@@ -80,7 +80,7 @@ You will comfortably achieve various sound recordings since this mic is fitted w
 
 Moreover, Electro-Voice comes with an Auray BAI-2X and an integrated XLR cable that nicely pairs with multiple electronic devices.
 
-Indeed, this mic features cardioid polar pattern and simple kick drum switch setting for best vocal and instrumental pick-up orientation it can also be used as a [microphone for recording vocals](https://pestpolicy.com/best-microphone-for-recording-vocals/). Notably, Electro-Voice is budget friendly and comes with free universal interchangeable combo mount best for live broadcast & a classic BC10 microphone suspension.
+Indeed, this mic features cardioid polar pattern and simple kick drum switch setting for best vocal and instrumental pick-up orientation it can also be used as a [microphone for recording vocals](https://pestpolicy.com/best-microphone-for-recording-vocals/).Notably, Electro-Voice is budget friendly and comes with free universal interchangeable combo mount best for live broadcast & a classic BC10 microphone suspension.
 
 Pros: - Classic BC10 microphone suspension - Auray BAI-2X and integrated XLR cable - Dedicated variable D tonal response - Neodymium dynamic element and simple set up - Flexible shock mount stand and budget friendly - Dynamic range frequency response pattern - Proximity effect tuner and cardioid polar pattern - Simple kick drum switch setting
 

@@ -14,7 +14,7 @@ tags:
 layout: post
 ---
 
-Selecting the [best](https://pestpolicy.com/best-dress-shoes-for-back-pain/) [work](https://pestpolicy.com/best-work-boots-for-plantar-fasciitis/) shoes for [overweight persons](https://en.wikipedia. org/wiki/Obesity_and_walking) is a crucial step towards enjoying a comfortable walk or smooth physical activities.
+Selecting the [best](https://pestpolicy.com/best-dress-shoes-for-back-pain/)[work](https://pestpolicy.com/best-work-boots-for-plantar-fasciitis/) shoes for [overweight persons](https://en.wikipedia.org/wiki/Obesity_and_walking)is a crucial step towards enjoying a comfortable walk or smooth physical activities.
 
 Often, overweight persons face challenges such as ankle pain, toe paralysis, tarsal tunnel syndrome as well as flattening of shoes.
 

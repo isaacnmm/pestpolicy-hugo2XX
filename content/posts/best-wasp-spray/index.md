@@ -15,13 +15,13 @@ tags:
 layout: post
 ---
 
-To defeat wasps colonies in your house or compound, youll need to acquire the best wasp [spray](https://pestpolicy.com/best-roach-spray/). This is important, as wasps can be a nuisance at home, especially when disturbed. - They attack by stinging the enemy several and instilling painful toxic chemicals that cause swelling and bleeding at times. The situation may even worsen for those victims who are wasps allergic.
+To defeat wasps colonies in your house or compound, youll need to acquire the best wasp [spray](https://pestpolicy.com/best-roach-spray/).This is important, as wasps can be a nuisance at home, especially when disturbed. - They attack by stinging the enemy several and instilling painful toxic chemicals that cause swelling and bleeding at times. The situation may even worsen for those victims who are wasps allergic.
 
 To gain more insight, lets get into the reviews.
 
 Read Also: Bees vs. wasps vs. hornets.
 
-# **In a Hurry? View Best [Wasp](https://pestpolicy.com/best-wasp-fogger/) Sprays**
+# **In a Hurry? View Best [Wasp](https://pestpolicy.com/best-wasp-fogger/)Sprays**
 
 ##  [1. Our #1 Pick:Ortho Home Entrapping Wasp and Hornet Killer](https://www.amazon.com/dp/B0784WG4FD/?tag=p-policy-20)
 

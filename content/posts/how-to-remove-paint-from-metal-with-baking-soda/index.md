@@ -14,9 +14,9 @@ tags:
 layout: post
 ---
 
-Suppose you require a [non-toxic method for removing paint](https://pestpolicy.com/how-to-remove-paint-from-[metal](https://pestpolicy.com/can-you-use-acrylic-paint-on-metal/)-door/); I recommend baking soda and boiling water - this is the topic of discussion in the current article to polish your metallic doorknobs and hinges or [metallic garages floors](https://pestpolicy.com/best-[paint](https://pestpolicy.com/how-to-remove-paint-from-metal-door/)-for-metal-garage-door/).
+Suppose you require a [non-toxic method for removing paint](https://pestpolicy.com/how-to-remove-paint-from-[metal](https://pestpolicy.com/can-you-use-acrylic-paint-on-metal/)-door/);I recommend baking soda and boiling water - this is the topic of discussion in the current article to polish your metallic doorknobs and hinges or [metallic garages floors](https://pestpolicy.com/best-[paint](https://pestpolicy.com/how-to-remove-paint-from-metal-door/)-for-metal-garage-door/).
 
-You'll use the [household baking soda (home remedy)](https://www.onecrazyhouse. com/40-uses-for-baking-soda/), and it won't also require specialized tools, painting knowledge, or equipment. Baking soda will refresh the surface of the hinges and wall paints with no hazardous fumes.
+You'll use the [household baking soda (home remedy)](https://www.onecrazyhouse.com/40-uses-for-baking-soda/),and it won't also require specialized tools, painting knowledge, or equipment. Baking soda will refresh the surface of the hinges and wall paints with no hazardous fumes.
 
 *In summary, here's how to remove paint from metal with baking soda; * - *Fill your large bowl with water (1-quart), place the pot over a fire, and add some baking soda (1/4 a cup) but don't stir and a**llow the water to get to a low boil. * - *Hold the painted metal with tongs, put it inside the baking soda solution (leave for 15 minutes), and finally remove the metal piece - scrub off the paint using a cloth or toothbrush. *
 
@@ -28,7 +28,7 @@ Why use baking soda to strip paint? There are many methods of removing paint, in
 
 First, fill your large bowl with water about one quarter - get a pot that's enough to allow the metal piece to be completely immersed into the water. NB; Use a pot that you won't be used for cooking purposes - eithe5r for humans or pets. The pot must not be leaking as this will hinder an effective paint removal on metal areas.
 
-For most DIY homeowners, baking soda will strip paint effectively, and it doesn't need extensive surface preparation, such as covering the area with newspapers its clothes. But you may require to [wear protecting gear](https://www.osha. gov/personal-protective-equipment) such as painting goggles. - Further, using baking soda is cost-friendly compared to using steamers or chemical strippers.
+For most DIY homeowners, baking soda will strip paint effectively, and it doesn't need extensive surface preparation, such as covering the area with newspapers its clothes. But you may require to [wear protecting gear](https://www.osha.gov/personal-protective-equipment)such as painting goggles. - Further, using baking soda is cost-friendly compared to using steamers or chemical strippers.
 
 - It is also readily available in the kitchen or at your local grocery store - you'll easily strip the paint from the metal parts.
 

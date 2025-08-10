@@ -21,7 +21,7 @@ Below I answer this question - do geckos eat bed bugs or what can you use to ext
 
 ##  Details: Do Geckos Eat Bed Bugs?
 
-Some Lizards like the [Gecko](https://pestpolicy.com/do-geckos-eat-roaches/) will [eat](https://pestpolicy.com/do-cats-eat-lizards/) bugs including bed bugs - great bed bugs extermination. The pest extermination methods to use on bed bugs will reduce the sucking of human blood. Bed bugs (Cimex hemipterus or Cimex lectularius) will invade your clothing and mattresses - these will cause bites.
+Some Lizards like the [Gecko](https://pestpolicy.com/do-geckos-eat-roaches/)will [eat](https://pestpolicy.com/do-cats-eat-lizards/)bugs including bed bugs - great bed bugs extermination. The pest extermination methods to use on bed bugs will reduce the sucking of human blood. Bed bugs (Cimex hemipterus or Cimex lectularius) will invade your clothing and mattresses - these will cause bites.
 
 You may result in skin-related issues, blisters, and rashes.
 
@@ -67,7 +67,7 @@ You'll find the lizards hanging around dark places - locations where you also ge
 
 So, will geckos feed on cockroaches? Well, yes geckos and house lizards will also eat roaches and their larva. But they occupy different places - roaches love places near the ground. On the other hand, geckos occupy spaces that are higher above the ground - they love dark, damp, and equally cool places. But house lizards will occupy dark places - also loved by cockroaches.
 
-> See Also: > [Animals that Eat Cockroaches](https://pestpolicy.com/what-animals-eat-cockroaches/) Centipedes will feed on house lizards - the bug's wriggly motion will attract lizards that snatch them fast. You'll get the centipedes around the house on wood beams and other wooden fixtures. Lizards will also feed on termite swarmers that move in colonies - they have wings and hence will fly as swarmers.
+> See Also: > [Animals that Eat Cockroaches](https://pestpolicy.com/what-animals-eat-cockroaches/)Centipedes will feed on house lizards - the bug's wriggly motion will attract lizards that snatch them fast. You'll get the centipedes around the house on wood beams and other wooden fixtures. Lizards will also feed on termite swarmers that move in colonies - they have wings and hence will fly as swarmers.
 
 ##  Will House**Geckos Eat Bed Bugs in captivity?**
 

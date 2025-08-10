@@ -14,9 +14,9 @@ tags:
 layout: post
 ---
 
-Acrylic [paint](https://pestpolicy.com/how-to-remove-paint-from-wood-trim/) is a commonly used solvent in surface painting or paint restoration process. Its high stickiness action and unmatched durability have always made it stand out as compared to latex paint.
+Acrylic [paint](https://pestpolicy.com/how-to-remove-paint-from-wood-trim/)is a commonly used solvent in surface painting or paint restoration process. Its high stickiness action and unmatched durability have always made it stand out as compared to latex paint.
 
-However, acrylic painted surfaces tend to be cumbersome during the paint removal process. Perhaps you are wondering which surfaces you can coat with acrylic paint. *So, can you use acrylic paint on [wood](https://pestpolicy.com/best-paint-for-outdoor-wood-deck/)? The direct answer is YES. Acrylic paint sticks on the wood primary material impressively without forming drains or runs if the right procedure is followed.
+However, acrylic painted surfaces tend to be cumbersome during the paint removal process. Perhaps you are wondering which surfaces you can coat with acrylic paint. *So, can you use acrylic paint on [wood](https://pestpolicy.com/best-paint-for-outdoor-wood-deck/)?The direct answer is YES. Acrylic paint sticks on the wood primary material impressively without forming drains or runs if the right procedure is followed.
 
 Usually, youll need to select the right items, prepare the wood surface appropriately, and prime the wood to improve the surface stickiness. * *Further, prepare acrylic paint as per the manufacturers instructions, carry our actual painting stepwise, and seal the painted wood surface before terminating the coat with a professional finish tint.
 
@@ -28,9 +28,9 @@ Importantly, you need to consider precautions and safety measures given when pai
 
 ###  a. Select Items Required
 
-- Paint tray and[paintbrush](https://www.amazon. com/dp/B07JHZNJSB/? tag=p-policy-20)/roller - [Acrylic paint](https://www.amazon. com/dp/B007TIDLK2/? tag=p-policy-20)and acrylic primer - [Paint sealer](https://www.amazon. com/dp/B07NC6TG2T/? tag=p-policy-20)and[wood sander](https://www.amazon. com/dp/B07KL4QGSQ/? tag=p-policy-20) - [Sandpaper](https://www.amazon. com/dp/B086VX135D/?
+- Paint tray and[paintbrush](https://www.amazon.com/dp/B07JHZNJSB/?tag=p-policy-20)/roller- [Acrylic paint](https://www.amazon.com/dp/B007TIDLK2/?tag=p-policy-20)andacrylic primer - [Paint sealer](https://www.amazon.com/dp/B07NC6TG2T/?tag=p-policy-20)and[woodsander](https://www.amazon.com/dp/B07KL4QGSQ/?tag=p-policy-20) - [Sandpaper](https://www.amazon.com/dp/B086VX135D/?
 
-tag=p-policy-20)and scrapper - Polyethylene bag and bucket - Waterpoint and soapy detergent - [Vacuum cleaner](https://www.amazon. com/dp/B085WPWTM1/? tag=p-policy-20)and paint sprayer - Protective gear gloves, goggles, [overalls](https://www.amazon. com/dp/B001A42DUA/? tag=p-policy-20), boots, and respirator
+tag=p-policy-20)and scrapper - Polyethylene bag and bucket - Waterpoint and soapy detergent - [Vacuum cleaner](https://www.amazon.com/dp/B085WPWTM1/?tag=p-policy-20)andpaint sprayer - Protective gear gloves, goggles, [overalls](https://www.amazon.com/dp/B001A42DUA/?tag=p-policy-20),boots, and respirator
 
 ###  b. Prepare the Wood Surface
 

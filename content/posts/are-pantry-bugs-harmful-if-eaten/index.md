@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 
-Have you come across pantry bugs in your house? You probably have many questions about them. Maybe, you are even wondering if [pantry](https://pestpolicy.com/how-long-do-pantry-bugs-live/) bugs are harmful if eaten. - You are likely to find these pantry bugs in the food storage areas, kitchen cabinets among other areas in your house. They[like hiding in](https://pestpolicy.com/what-causes-pantry-bugs/)pasta, powdered milk, bread, dried fruits and herbs, nuts, and crackers.
+Have you come across pantry bugs in your house? You probably have many questions about them. Maybe, you are even wondering if [pantry](https://pestpolicy.com/how-long-do-pantry-bugs-live/)bugs are harmful if eaten. - You are likely to find these pantry bugs in the food storage areas, kitchen cabinets among other areas in your house. They[like hiding in](https://pestpolicy.com/what-causes-pantry-bugs/)pasta,powdered milk, bread, dried fruits and herbs, nuts, and crackers.
 
 If not careful, there are higher chances of eating them.
 

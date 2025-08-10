@@ -36,7 +36,7 @@ Cons: - Susceptible to rust
 
 ###  [2. Earlex-HV5500 HVLP Gun Sprayer](https://www.amazon.com/dp/B004RGOKR2/?tag=p-policy-20)
 
-As a small contractor, a general user, or a [woodworker](https://pestpolicy.com/best-hvlp-spray-gun-for-woodworking/), a sprayer that considers your needs is finally here.
+As a small contractor, a general user, or a [woodworker](https://pestpolicy.com/best-hvlp-spray-gun-for-woodworking/),a sprayer that considers your needs is finally here.
 
 Whether you are doing interior paintwork or an exterior one, this sprayer got you covered. Check the comprehensive review of the sprayer for your interior walls. Fitted with a 650 power-turbine, this sprayer is fast and efficient for any spray work that needs to be done. Additionally, the 13ft hose pipe and 5. 5 ft. power cable enables you to reach any point within your spraying diameter with ease.
 

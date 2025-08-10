@@ -49,7 +49,7 @@ Stop the fleas infesting all your pets with Zodiacs Flea and Tick Shampoo that c
 
 - Stop theflea cycle and the eggsin all life stages with this treatment before they take over your home and life.
 
-Of course, [you want to act fast](https://pestpolicy.com/what-do-baby-roaches-look-like//), but you mustnt irritate or harm your pet further when trying to treat them. Choose the right product that will keep your pet smelling fresh and happy. This formula is carefully created to ensure that your dog or cat wont feel irritated during or after theapplication.
+Of course, [you want to act fast](https://pestpolicy.com/what-do-baby-roaches-look-like//),but you mustnt irritate or harm your pet further when trying to treat them. Choose the right product that will keep your pet smelling fresh and happy. This formula is carefully created to ensure that your dog or cat wont feel irritated during or after theapplication.
 
 The coconut conditioner will keep your pet smeller fresh and leave their coat shiny and new.
 
@@ -73,11 +73,11 @@ The spray will keep your pet happy and any nasty pests away!
 
 ##  [6. Freshn Clean Flea and Tick Pet Conditioning Shampoo](https://www.amazon.com/dp/B005DGIJPY/?tag=p-policy-20)
 
-Often people think that fleas dont strike in Winter, but they can attack all year round and hatch at any time. - Get prepared with a[flea treatment](https://pestpolicy.com/best-flea-treatment-for-cats/)that will keep fleas under control. - This product is great value for money and can be used on all your animals.
+Often people think that fleas dont strike in Winter, but they can attack all year round and hatch at any time. - Get prepared with a[flea treatment](https://pestpolicy.com/best-flea-treatment-for-cats/)thatwill keep fleas under control. - This product is great value for money and can be used on all your animals.
 
 If your pet is amongst the many that constantly pick up fleas from other animals and you have to treat your pet constantly, this could be the perfect solution for you.
 
-The Fresh n Clean flea and tick conditioning shampoo are formulated to kill fleasand ticks rapidly without using harsh chemicals that will irritate your pet. You can pour directly onto your pet's coat and enjoy the clean scent that will leave your animal's fur feeling refreshed. The shampoo is a great alternative to [flea drops](https://pestpolicy.com/best-flea-drops-for-cats/), which some pets may notbe used to or not react well to.
+The Fresh n Clean flea and tick conditioning shampoo are formulated to kill fleasand ticks rapidly without using harsh chemicals that will irritate your pet. You can pour directly onto your pet's coat and enjoy the clean scent that will leave your animal's fur feeling refreshed. The shampoo is a great alternative to [flea drops](https://pestpolicy.com/best-flea-drops-for-cats/),which some pets may notbe used to or not react well to.
 
 The shampoo rinses out easily and cleansthoroughly so you can quickly treat your pet. Youcan use the shampoo as and when required and ensure that the fleas stay away from all your pets and humans. The product is suitable for cats and dogs over twelve weeksold and great for elderly pets too. It is enriched with coconut for some extraconditioning.
 
@@ -93,7 +93,7 @@ When you have a flea invasion, you may feel like you want to mix every solution 
 
 They aresmall and jump, making them hard to spot. The fleas survive through blood, with the new eggs hatching within six days. Asingle flea can produce two thousand eggs in its lifetime. - The eggs tend to hatch indoors best nestled in carpets, soft furnishings, and anywhere that provides warmth. - While you have the heating on during winter, this can also encourage fleas to produceoutdoor, fleas hatch in shaded areas and sandy pits.
 
-The worst part about a flea survival tactic is that it can remain in a cocoon for up to three hundred and fifty days until it hatches, waiting for the perfect conditions for best survival. They wait for body heat and movement. Howyou can identify if your pet has fleas is a lot easier than getting rid ofthem, unfortunately. Check your pet's coat by eye and by [combing through with aflea](https://pestpolicy.com/best-flea-combs-for-dogs/) comb and look for scales and bite marks on your pet's skin.
+The worst part about a flea survival tactic is that it can remain in a cocoon for up to three hundred and fifty days until it hatches, waiting for the perfect conditions for best survival. They wait for body heat and movement. Howyou can identify if your pet has fleas is a lot easier than getting rid ofthem, unfortunately. Check your pet's coat by eye and by [combing through with aflea](https://pestpolicy.com/best-flea-combs-for-dogs/)comb and look for scales and bite marks on your pet's skin.
 
 You may also Have some bite marks on your skin also. You can rub aloe vera on, which will soothe the bite. Check your bedding if your pet sleeps near you for flea eggs andclean these to prevent spreading. - Same with any bedding that your pets may besleeping on. - The most difficult stage to tackle a flea cycle is when the flea is in an immature state.
 

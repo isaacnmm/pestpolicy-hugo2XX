@@ -24,7 +24,7 @@ Related: Best Shoes for Heel Pain When Walking
 
 ##  Review 7 Best Shoes for Insertional Achilles Tendonitis
 
-###  [1. Brooks Ghost 13](https://www.amazon.com/dp/B089R418D4/?tag=p-policy-20)- Shoes for Insertional Achilles Tendonitis
+###  [1. Brooks Ghost 13](https://www.amazon.com/dp/B089R418D4/?tag=p-policy-20)-Shoes for Insertional Achilles Tendonitis
 
 The Brooks Ghost 13 takes the first spot for the best shoes for Insertional Achilles Tendonitis. Most reviewers agree that it's highly comfortable, reliable, sturdy, and supportive. Runners with problematic feet benefit from the features and technologies of the Ghost 13.
 

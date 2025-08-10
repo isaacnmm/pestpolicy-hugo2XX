@@ -49,7 +49,7 @@ Choosing a lawn care service that understands and addresses the unique needs of 
 
 Maintaining a beautiful, healthy lawn can be a joy, but for dog owners, it comes with a unique set of considerations. The products used on your lawnfrom fertilizers to weed killers and pest controlcan pose risks to your furry friends if not applied carefully or if they contain harmful ingredients. Ensuring your lawn care service prioritizes the safety of your canine companions is paramount.
 
-This guide delves into the [best](https://pestpolicy.com/best-lawn-care-fertilizer-service/) [lawn](https://pestpolicy.com/best-lawn-care-service-for-weeds/) care services for homes with dogs, focusing on companies that offer pet-friendly solutions, clear communication, and effective treatments. We'll help you navigate the options to keep both your lawn pristine and your pups safe.
+This guide delves into the [best](https://pestpolicy.com/best-lawn-care-fertilizer-service/)[lawn](https://pestpolicy.com/best-lawn-care-service-for-weeds/) care services for homes with dogs, focusing on companies that offer pet-friendly solutions, clear communication, and effective treatments. We'll help you navigate the options to keep both your lawn pristine and your pups safe.
 
 ##  How Do I Choose the Best Lawn Care Service?
 

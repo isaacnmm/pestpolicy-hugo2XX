@@ -15,11 +15,11 @@ tags:
 layout: post
 ---
 
-Recently, I noticed my neighbor's dog scratching and upon further inspection, I have served simply that on them. - So my neighbor's biggest question was how did my dog get [fleas](https://pestpolicy.com/best-dog-backpack-carrier-for-hiking/) this is a question. Has it become a flea magnet? This is a question I'll be answering in this article.
+Recently, I noticed my neighbor's dog scratching and upon further inspection, I have served simply that on them. - So my neighbor's biggest question was how did my dog get [fleas](https://pestpolicy.com/best-dog-backpack-carrier-for-hiking/)this is a question. Has it become a flea magnet? This is a question I'll be answering in this article.
 
 **But in brief, dogs can get fleas from other animals such as foxes, raccoons, and rodents, or from the house (from flea-infested blankets, rugs, and bedding), or even in outdoor spaces such as the neighbor's yard, or flea-infested kennels. **
 
-##  Details: How Did My [Dog](https://pestpolicy.com/best-dog-beds/) Get Fleas?
+##  Details: How Did My [Dog](https://pestpolicy.com/best-dog-beds/)Get Fleas?
 
 ###  1. Can Dogs Get Fleas From Other Animals? Wildlife? Hotspot #1
 

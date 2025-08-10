@@ -14,11 +14,11 @@ tags:
 layout: post
 ---
 
-Most smartphone [cameras](https://pestpolicy.com/best-compact-cameras-under-300/) have [inadequate shooting features](https://www.cnet. com/news/10-ways-a-point-and-shoot-camera-beats-your-phones/).
+Most smartphone [cameras](https://pestpolicy.com/best-compact-cameras-under-300/)have [inadequate shooting features](https://www.cnet.com/news/10-ways-a-point-and-shoot-camera-beats-your-phones/).
 
-But any [point and shoot camera](https://en.wikipedia. org/wiki/Point-and-shoot_camera) have optical zoom (changing the perspective of shots), larger in-built sensor, and a powerful flash (great for backlit/ low light environments). I've reviewed the [best](https://pestpolicy.com/best-drones-for-still-photography/) point and shoot camera under 100.
+But any [point and shoot camera](https://en.wikipedia.org/wiki/Point-and-shoot_camera)have optical zoom (changing the perspective of shots), larger in-built sensor, and a powerful flash (great for backlit/ low light environments). I've reviewed the [best](https://pestpolicy.com/best-drones-for-still-photography/)point and shoot camera under 100.
 
-Summary: I recommend [Sony DSC-HX9V](https://www.amazon. com/dp/B004HYFX0C/? tag=p-policy-20) or [Sony DSCW800/B 20. 1 MP](https://www.amazon. com/dp/B00I8BIBCW/? tag=p-policy-20) as the best point and shoot camera under 100.
+Summary: I recommend [Sony DSC-HX9V](https://www.amazon.com/dp/B004HYFX0C/?tag=p-policy-20)or [Sony DSCW800/B 20. 1 MP](https://www.amazon.com/dp/B00I8BIBCW/?tag=p-policy-20)as the best point and shoot camera under 100.
 
 ##  Reviews: 7 Best Point and Shoot Camera Under 100 in 2025
 

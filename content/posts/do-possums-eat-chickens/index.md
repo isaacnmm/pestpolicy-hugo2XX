@@ -17,15 +17,15 @@ layout: post
 
 Maybe some chicken (plus chicks) and their eggs have recently disappeared from their coop. Recently, there have been some native opossums *(Didelphis Virginiana) and dead chickens * around - well, these are scavengers. So, you're wondering really 'do possums eat chickens? ' Well, Yes, possums will scavenger and eat chickens (including fully-grown hens) and other easy food sources like chicks and eggs.
 
-- The adult [possum](https://pestpolicy.com/do-possums-eat-cats/) weighs 4 to 15 lb and measures about 21 to 36 inches in length - about the size of your house-cat. They have 50 pointed and sharp teeth with a white mouth (& face) with grey or white fur. - You'll also notice that they have a hairless tail, black eyes, and pink nose, and pointed faces.
+- The adult [possum](https://pestpolicy.com/do-possums-eat-cats/)weighs 4 to 15 lb and measures about 21 to 36 inches in length - about the size of your house-cat. They have 50 pointed and sharp teeth with a white mouth (& face) with grey or white fur. - You'll also notice that they have a hairless tail, black eyes, and pink nose, and pointed faces.
 
 To repel the possums, you may position ammonia-coaked rags near the chikcen coop or spray any of these rodent repellents. ..
 
-##  Do Opossums or Possums [Eat](https://pestpolicy.com/do-cats-eat-lizards/) Chickens?
+##  Do Opossums or Possums [Eat](https://pestpolicy.com/do-cats-eat-lizards/)Chickens?
 
 As noted above, possums and opossums will attack and eat your chickens. So, YES, simply put, possums will eat chickens. Their strong teeth enable them to tear down prey's bones and flesh - including from dead animals and chickens. - While uncommon, possumslike raccoons will eat mature hens(about 20 in a night since they are large & intimidating) but may regularly prey on chicken eggs and their young chicks.
 
-The omnivore animals largely eat and prey on small invertebrates - but if they are occupying the backyard gardens, the possums could hunt your chickens and eggs too - [but the possums won't eat the cats](https://pestpolicy.com/do-possums-eat-cats/) or dogs.
+The omnivore animals largely eat and prey on small invertebrates - but if they are occupying the backyard gardens, the possums could hunt your chickens and eggs too - [but the possums won't eat the cats](https://pestpolicy.com/do-possums-eat-cats/)or dogs.
 
 ##  Do Possums Steal and Eat Chicken Eggs?
 

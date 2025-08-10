@@ -17,7 +17,7 @@ layout: post
 
 House lizards eat a great deal of insects in the house and some are kept as pets. But you might be worried about their possibility of harming you or contaminating your food, milk or drinking water - but [Lizards are vertebrates](https://pestpolicy.com/are-lizards-vertebrates-or-invertebrates/).
 
-Lizards will bite you when they feel threatened. But are lizards poisonous? **Short answer is NO. Most house lizards are not poisonous. But they have viruses and bacteria on their skin which can cause serious illness when consumed by humans. ** **Only the Blue-tailed [lizard](https://pestpolicy.com/are-lizards-vertebrates-or-invertebrates/) has poison on the skin. A few lizards are known to have venomous bites.
+Lizards will bite you when they feel threatened. But are lizards poisonous? **Short answer is NO. Most house lizards are not poisonous. But they have viruses and bacteria on their skin which can cause serious illness when consumed by humans. ** **Only the Blue-tailed [lizard](https://pestpolicy.com/are-lizards-vertebrates-or-invertebrates/)has poison on the skin. A few lizards are known to have venomous bites.
 
 These include the Mexican Bearded Lizards, Iguanas and the Gila. **
 
@@ -25,11 +25,11 @@ These include the Mexican Bearded Lizards, Iguanas and the Gila. **
 
 **1. Lizards Bite for Defence ** Most house lizards are harmless creatures and will always scamper for safety whenever they feel threatened. In rare cases they can bite you as a defense mechanism.
 
-However, their bites are not known to be poisonous. Although they might inflict some pain, the bites wont have any serious effects on your body. But there are some [venomous lizards](https://www.newscientist. com/article/dn8331-lizards-poisonous-secret-is-revealed/). **2. Desert Lizards Are Poisonous** The only lizards with venomous bites include the Mexican Bearded Lizards, Iguanas and the Gila.
+However, their bites are not known to be poisonous. Although they might inflict some pain, the bites wont have any serious effects on your body. But there are some [venomous lizards](https://www.newscientist.com/article/dn8331-lizards-poisonous-secret-is-revealed/).**2. Desert Lizards Are Poisonous** The only lizards with venomous bites include the Mexican Bearded Lizards, Iguanas and the Gila.
 
 These are found in northern Mexico and south-western US.
 
-These lizards live in the desert regions and rarely come to dwelling places. They are also not know to bite unless they feel threatened. **3. Pathogens on Lizardss Skin ** Your only worry with lizards should be the pathogens on their skin such as [Salmonella](https://www.petmd. com/reptile/care/diseases-your-pet-reptile-can-give-you). When you touch your pet lizard, you might ingest the harmful pathogens causing you fall sick.
+These lizards live in the desert regions and rarely come to dwelling places. They are also not know to bite unless they feel threatened. **3. Pathogens on Lizardss Skin ** Your only worry with lizards should be the pathogens on their skin such as [Salmonella](https://www.petmd.com/reptile/care/diseases-your-pet-reptile-can-give-you).When you touch your pet lizard, you might ingest the harmful pathogens causing you fall sick.
 
 Lizards are attracted to food stuff especially milk. Thus when they touch your food or accidentally fall into milk, you might incur serious infections. A few lizards like the blue-tailed lizard contain poison on their skin.
 
@@ -39,7 +39,7 @@ Lizards are attracted to food stuff especially milk. Thus when they touch your f
 
 An adult can reach about 20 inch and feeds on birds, small mammals and their eggs. The bulged head helps in holding the prey in place as it injects the venom to paralyze it.
 
-But unlike snakes, all venomous lizards such as [Australian lizards](http://www.abc. net. au/science/articles/2005/11/17/1506321. htm) dont have fangs. Venom flows over the groves on their teeth to the prey. They rarely bite humans. If they bite they wont cause death. **2. Mexican Beaded Lizard** A close relative to the Gila monster, Mexican Beaded Lizard lives in western as well as the central parts of Mexico.
+But unlike snakes, all venomous lizards such as [Australian lizards](http://www.abc.net.au/science/articles/2005/11/17/1506321.htm)dont have fangs. Venom flows over the groves on their teeth to the prey. They rarely bite humans. If they bite they wont cause death. **2. Mexican Beaded Lizard** A close relative to the Gila monster, Mexican Beaded Lizard lives in western as well as the central parts of Mexico.
 
 It resembles the Gila monster in all aspects except that its darker and grows longer (32 inches).
 
@@ -49,7 +49,7 @@ Similar to Gila, this lizard bites it prey and holds on it with its powerful jaw
 
 **3. Iguana** These are large lizards stretching to about 6. 6 feet long. The most common is the green iguana usually found in Brazil and Mexico. They mainly inhabit arid areas, tree and the edges of water bodies.
 
-Unlike most lizards, iguanas are vegetarians. However, they have sharp teeth which they use to bite impending intruders. Their [venom](https://en.wikipedia. org/wiki/Venom) is relatively mild compared to other venomous lizards.
+Unlike most lizards, iguanas are vegetarians. However, they have sharp teeth which they use to bite impending intruders. Their [venom](https://en.wikipedia.org/wiki/Venom)is relatively mild compared to other venomous lizards.
 
 Although they dont attack easily, they can cause serious injuries on soft skin such as face, hands and legs. But they are known to warn intruders before they strike. Watch out for iguanas when they take a deep breath, lower their dewlap or stand on their fours. **4. Monitor Lizard** Last but not least is the monitor lizards. Commonly found in Australia, these lizards vary greatly in size (2/3 foot to 10 feet).
 
@@ -83,7 +83,7 @@ Lizard venoms are however less serious compared to snake venoms and can be treat
 
 ##  **Do Lizards Carry Salmonella?**
 
-Lizard bites can transfer pathogens such as [Salmonella](https://www.mayoclinic. org/diseases-conditions/salmonella/symptoms-causes/syc-20355329). Symptoms of lizard bites in humans include: - Pain and Convulsions - Decreases blood pressure - Blurred vision - Swelling andNumbness - Diarrhea andShock - Difficulty in breathing In case of lizard bites, seek medical attention as soon as possible.
+Lizard bites can transfer pathogens such as [Salmonella](https://www.mayoclinic.org/diseases-conditions/salmonella/symptoms-causes/syc-20355329).Symptoms of lizard bites in humans include: - Pain and Convulsions - Decreases blood pressure - Blurred vision - Swelling andNumbness - Diarrhea andShock - Difficulty in breathing In case of lizard bites, seek medical attention as soon as possible.
 
 Delayed medical attention can lead to complications or even death.
 
@@ -95,7 +95,7 @@ If they cannot respond your call of distress with prompt, take a photo of the li
 
 Waiting for symptoms to show might only make the condition worse. Treatments for poisonous and non-poisonous lizard bites include: **1. Treating Non-Poisonous Lizard Bites** House lizard are certainly not poisonous. So, if youre bitten by a house lizard you dont have to go to hospital.
 
-You can treat yourself at home with simple methods and ingredients to prevent infection and ease the symptoms. Heres what to do: - Stop the bleeding by applying a little pressure on the bite. - If the[lizard broke its teeth on the wound](https://pestpolicy.com/do-lizards-have-teeth/), remove them carefully with a pair of tweezers. - Clean the wound with warm water to prevent infection.
+You can treat yourself at home with simple methods and ingredients to prevent infection and ease the symptoms. Heres what to do: - Stop the bleeding by applying a little pressure on the bite. - If the[lizard broke its teeth on the wound](https://pestpolicy.com/do-lizards-have-teeth/),remove them carefully with a pair of tweezers. - Clean the wound with warm water to prevent infection.
 
 - Apply a little petroleum jelly on the wound to inhibit bacterial contamination.
 

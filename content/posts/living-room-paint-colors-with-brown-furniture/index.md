@@ -15,9 +15,9 @@ tags:
 layout: post
 ---
 
-Most often, it is hard to identify the best living room [paint](https://pestpolicy.com/how-to-prep-a-room-for-paint/) colors with brown furniture. At some point, some have gone to an extent of terming brown as boring. Much as this is not true - maybe its time you give it a little more consideration and see what becomes of it with my recommendations.
+Most often, it is hard to identify the best living room [paint](https://pestpolicy.com/how-to-prep-a-room-for-paint/)colors with brown furniture. At some point, some have gone to an extent of terming brown as boring. Much as this is not true - maybe its time you give it a little more consideration and see what becomes of it with my recommendations.
 
-There are several ways to compliment that brown furniture and give your living [room](https://pestpolicy.com/how-to-soundproof-a-room-cheaply/) a new and glamorous look.
+There are several ways to compliment that brown furniture and give your living [room](https://pestpolicy.com/how-to-soundproof-a-room-cheaply/)a new and glamorous look.
 
 ##  **Living Room Paint Colors with Brown Furniture**
 
@@ -51,7 +51,7 @@ Beige is seemingly a cool color. If you do not want a rather bright room, you ca
 
 ###  6. White Wall
 
-Depending on the tone of your brown furniture, you can also decide to introduce white color in the [walls of your living room](https://pestpolicy.com/best-undercoat-paint/). By this, you create a clean environment white in turn reflects the nature of your room. Being a bright color, it shout more and draws the attention more than the brown furniture therefore neutralizing it.
+Depending on the tone of your brown furniture, you can also decide to introduce white color in the [walls of your living room](https://pestpolicy.com/best-undercoat-paint/).By this, you create a clean environment white in turn reflects the nature of your room. Being a bright color, it shout more and draws the attention more than the brown furniture therefore neutralizing it.
 
 ###  7. Red color
 

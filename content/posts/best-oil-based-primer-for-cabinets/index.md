@@ -68,7 +68,7 @@ KILZ-Restoration or popularly known as KILZ MAX is an excellent kitchen cabinet 
 
 KILZ-Restoration ensures that you won't require to sand the wood - you can block pet stains, grease, pencil, tannin, nicotine, felt marker, grease, and smoke from extensively damaging your surfaces with water. But keep the cabinet surfaces cleaned and hence ripe for priming to get excellent results - it's a stain blocker and sealer. It'll tacker those tough stains and I gallon will cover roughly 300 to 400 square feet.
 
-KILZ-Restoration will tackle those tough stains working on your different materials [including](https://pestpolicy.com/best-deck-sealer-for-pressure-treated-wood/) [wood](https://pestpolicy.com/best-deck-sealer-for-pressure-treated-wood/), stucco, plaster, painted metal, masonry, glass, drywall, ceramic tile, and brick - and excellent oil-based and latex paint.
+KILZ-Restoration will tackle those tough stains working on your different materials [including](https://pestpolicy.com/best-deck-sealer-for-pressure-treated-wood/)[wood](https://pestpolicy.com/best-deck-sealer-for-pressure-treated-wood/), stucco, plaster, painted metal, masonry, glass, drywall, ceramic tile, and brick - and excellent oil-based and latex paint.
 
 Ensure to mix the paint well prior to applying on your surfaces - you may use airless sprayers, roller, or a brush.
 
@@ -84,7 +84,7 @@ Cons: - Not approved for interior cabinets.
 
 ###  **5. Zinsser B-I-N Shellac-Base house-primers and Painting Supplies Primer**
 
-Zinsser B-I-N considers the health plus environmental impacts and thus its lacks VOC and thus it is approved from [priming child cribs](https://pestpolicy.com/best-baby-safe-paint-for-crib/) - safe for both animal plus human health.
+Zinsser B-I-N considers the health plus environmental impacts and thus its lacks VOC and thus it is approved from [priming child cribs](https://pestpolicy.com/best-baby-safe-paint-for-crib/)- safe for both animal plus human health.
 
 Zinsser B-I-N is an excellent primer for exterior and interior application - an amazing primer for your kitchen cabinets. It'll cover stains more excellently compared to oil-based and latex primers. Zinsser B-I-N will remove most musty odors, smoke, and pet stains. It is suitable if you need a topcoat or paints the cabinets. But make sure the area is well-ventilated as it has strong-fumed alcohol.
 

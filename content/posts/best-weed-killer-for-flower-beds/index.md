@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 
-looking for the best [weed](https://pestpolicy.com/best-weed-killer-for-lawns/) killer for flower beds? [Gardening or weeding](https://extension.psu. edu/introduction-to-weeds-and-herbicides) is a time consuming and demanding hobby that not many can keep up with.
+looking for the best [weed](https://pestpolicy.com/best-weed-killer-for-lawns/)killer for flower beds? [Gardening or weeding](https://extension.psu.edu/introduction-to-weeds-and-herbicides)is a time consuming and demanding hobby that not many can keep up with.
 
 - From regularly watering and fertilizing plants to carrying out much more laborious and complex activities such as transplanting, thinning, and spraying insecticides, growing plants is notan easy job.
 
@@ -45,7 +45,7 @@ The Preen extended control weed preventer prevents weed and wild grass seeds fro
 
 What makes it different from the Preen garden weed preventer is its easy-to-use bottle and flip cap, which make the application of the weed preventing solution a breeze.
 
-Moreover, as soon as you are done [de-weeding your garden](https://pestpolicy.com/best-lawn-mower-for-large-yard/), you can apply it by simply spraying it the targeted areas of your lawn. Their granular structures make them easy to apply and do not damage the soil, your plants, or any sowed flower seeds.
+Moreover, as soon as you are done [de-weeding your garden](https://pestpolicy.com/best-lawn-mower-for-large-yard/),you can apply it by simply spraying it the targeted areas of your lawn. Their granular structures make them easy to apply and do not damage the soil, your plants, or any sowed flower seeds.
 
 Another great feature of this product is that the Preen extended control weed preventer is the best solution for use in areas where transplanted and grown plants are present.
 

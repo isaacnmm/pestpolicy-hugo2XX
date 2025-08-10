@@ -17,7 +17,7 @@ layout: post
 
 When I first left my parent's house and got my apartment, it was a frustrating hustle to get rid of bed bugs. Just like myself, most homeowners fear and get a chill with the mention of a bed bug infestation. In todays post, I'll be answering this question **can bed bugs fly?
 
-** **Lets face it: ** Controlling [bed bugs](https://www.cornellcollege. edu/student-health/bed-bug-info. shtml) can be a difficult, expensive, and time-consuming task given that they'vebecome [more resistant to insecticides](https://www.bbc. com/news/science-environment-35421742) such as neonicotinoids. But imagine what it would be like if bed bugs could also fly-hide/)? Well, this would be a notable horror.
+** **Lets face it: ** Controlling [bed bugs](https://www.cornellcollege.edu/student-health/bed-bug-info.shtml)can be a difficult, expensive, and time-consuming task given that they'vebecome [more resistant to insecticides](https://www.bbc.com/news/science-environment-35421742)such as neonicotinoids. But imagine what it would be like if bed bugs could also fly-hide/)? Well, this would be a notable horror.
 
 So, let's dive right in for more details.
 
@@ -27,7 +27,7 @@ Before we move on with bed bugs and their movement, I recommend that you also vi
 
 ##  Do Bed Bugs Fly? Bedbug Movement
 
-You ever wondered [how bed bugs spread](https://pestpolicy.com/how-do-bed-bugs-spread/)? Maybe you previously thought that bed bugs jump/ or fly from one room or house to another. **Well**, you were wrong because bed bugs only move through crawling. But do they have wings, or it's equivalent maybe? Well, bed bugs are wingless insects.
+You ever wondered [how bed bugs spread](https://pestpolicy.com/how-do-bed-bugs-spread/)?Maybe you previously thought that bed bugs jump/ or fly from one room or house to another. **Well**, you were wrong because bed bugs only move through crawling. But do they have wings, or it's equivalent maybe? Well, bed bugs are wingless insects.
 
 However, on the flip side, these bugs winglets make it look like they have wings, but the wings do not develop fully.
 
@@ -43,11 +43,11 @@ For example, you can find the bed bugs and their eggs in headboards, bed frames,
 
 As noted above, bed bugs and their nymphs will move only through crawling. Their crawling sprees will most likely lead the bugs to climb on different favorable walls and finally getting onto beds, cupboards, and cabinets. Besides, bed bugs can crawl through drain pipes to get from one house to another. Therefore, its always a good idea to unblocked clogged drains, possibly using one of the [best drain cleaners](https://pestpolicy.com/best-drain-cleaner//).
 
-However, the bugs tend to have reduced crawling ability when it comes to smoother surfaces such as [metal or plastic pipes](https://pestpolicy.com/can-bed-bugs-climb-metal-or-plastic/), porcelain, or glass. For example, bed bugs will have a difficult time climbing up the porcelain walls of your bathtub. However, they can climb up on another nearby (and rough) wall and finally fall off to your bathtub.
+However, the bugs tend to have reduced crawling ability when it comes to smoother surfaces such as [metal or plastic pipes](https://pestpolicy.com/can-bed-bugs-climb-metal-or-plastic/),porcelain, or glass. For example, bed bugs will have a difficult time climbing up the porcelain walls of your bathtub. However, they can climb up on another nearby (and rough) wall and finally fall off to your bathtub.
 
 But dont be too happy; the bugs can still use electrical runs and pipe chases.
 
-Control the bed bugs [through spraying](https://pestpolicy.com/best-bed-bug-spray/) or bed bug steamers.
+Control the bed bugs [through spraying](https://pestpolicy.com/best-bed-bug-spray/)or bed bug steamers.
 
 ##  **Conclusion**
 

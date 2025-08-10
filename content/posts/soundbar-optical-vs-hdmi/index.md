@@ -16,7 +16,7 @@ layout: post
 
 Is Soundbar optical vs HDMI - digital-audio? Connecting your soundbar-for-under-100/) to the audio system or AV receiver requires using either an Optical or HDMI connection (digital-audio).
 
-Remember the old day of coaxial cable for video and audio signals to your TV? The new connection, new challenges? Well, in this article, I've outlined the differences between these Digital-Audio connections - Soundbar Optical Vs HDMI. In summary, comparing Optical Vs HDMI, I would [take the HDMI](https://www.cnet. com/forums/discussions/why-would-it-matter-that-a-soundbar-doesn-t-have-hdmi-550351/). Read on to see my reasoning on this.
+Remember the old day of coaxial cable for video and audio signals to your TV? The new connection, new challenges? Well, in this article, I've outlined the differences between these Digital-Audio connections - Soundbar Optical Vs HDMI. In summary, comparing Optical Vs HDMI, I would [take the HDMI](https://www.cnet.com/forums/discussions/why-would-it-matter-that-a-soundbar-doesn-t-have-hdmi-550351/).Read on to see my reasoning on this.
 
 Read Also: [Best Soundbar Under 200](https://pestpolicy.com/best-soundbar-under-200/).
 
@@ -26,7 +26,7 @@ Considering the digital-audio basics, both the optical and HDMI cables will pass
 
 On the other hand, Fiber optic can't transmit similar kinds of high-resolution formats of sound.
 
-Further, HDMI will also transmit video signals plus quality sound. Therefore, HDMI is a great choice when you want to deal with lesser cables. However, consider if your different devices have the HDMI option or even its an older receiver. Also, if you've already connected different inputs to the TV and you only require the audio to a [quality soundbar](https://pestpolicy.com/best-soundbars-under-300/) - you'll thus require to use the optical cables.
+Further, HDMI will also transmit video signals plus quality sound. Therefore, HDMI is a great choice when you want to deal with lesser cables. However, consider if your different devices have the HDMI option or even its an older receiver. Also, if you've already connected different inputs to the TV and you only require the audio to a [quality soundbar](https://pestpolicy.com/best-soundbars-under-300/)- you'll thus require to use the optical cables.
 
 ##  DetailedComparison
 

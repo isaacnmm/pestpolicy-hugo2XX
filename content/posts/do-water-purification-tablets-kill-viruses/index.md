@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 
-Do water purification tablets kill viruses? Water [purification tablets](https://upurifywater.com/best-water-purification-tablets/) release free chlorine into the dirty water to kill pathogens, just like municipal water treatment. *In summary, water purification tablets with chlorine dioxide will kill micro-organisms like cryptosporidium, bacteria, and viruses. But are the [tablet](https://pestpolicy.com/best-laptop-tablet-combo/) safe?
+Do water purification tablets kill viruses? Water [purification tablets](https://upurifywater.com/best-water-purification-tablets/)release free chlorine into the dirty water to kill pathogens, just like municipal water treatment. *In summary, water purification tablets with chlorine dioxide will kill micro-organisms like cryptosporidium, bacteria, and viruses. But are the [tablet](https://pestpolicy.com/best-laptop-tablet-combo/)safe?
 
 * *The tablets will be safe or used by human beings in the purification process - kill dangerous micro-organisms and treat the water. But store the tablets well as recommended by the manufactures to avoid damage or poisoning. * Read Also: H0w to UseDawn Dish Soap for Fleas?
 
@@ -33,7 +33,7 @@ Chlorine-based tablets contain chlorine that helps purify the water. But water t
 
 Iodine-based tablets are considered to be more effective when used with warm water. However, you'll require to allow about half an hour to purify the water for use with cold water. Further, these iodine tablets will equally kill viruses and bacteria in your water. Equally, the iodine tablets will allow some after- taste in your water.
 
-Options to remove the taste include waiting for the taste to escape to thin air or using vitamin C that'll readily neutralize the after- taste following the completion of [water purification](https://pestpolicy.com). For thyroid patients - avoid iodine tablets.
+Options to remove the taste include waiting for the taste to escape to thin air or using vitamin C that'll readily neutralize the after- taste following the completion of [water purification](https://pestpolicy.com).For thyroid patients - avoid iodine tablets.
 
 ##  Benefits of EmployingWater Purification Tablets
 
@@ -55,7 +55,7 @@ Water purification tablets will kill dangerous pathogens, including bacteria and
 
 The iodine and chlorine will kill cryptosporidium, E. coli bacteria, and giardia found in water mainly contained with animal deposits.
 
-Further, water purification using the tablets also [kill weeds in your flower bed](https://pestpolicy.com/best-weed-killers-for-flower-beds/) since they have chlorine and iodine as their main active ingredients - so that other micro-organism won't grow in the water or its surroundings.
+Further, water purification using the tablets also [kill weeds in your flower bed](https://pestpolicy.com/best-weed-killers-for-flower-beds/)since they have chlorine and iodine as their main active ingredients - so that other micro-organism won't grow in the water or its surroundings.
 
 ###  3. Great forEmergency - Purify andKill Viruses
 

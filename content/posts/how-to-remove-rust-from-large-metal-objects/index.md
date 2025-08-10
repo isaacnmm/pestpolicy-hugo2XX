@@ -14,7 +14,7 @@ tags:
 layout: post
 ---
 
-[Rust](https://pestpolicy.com/can-you-paint-over-rust/) is a common problem that can significantly damage metal surfaces, especially large objects exposed to the elements over time. While rust doesnt always render an item unusable, it can be unsightly and, if left untreated, lead to structural damage.
+[Rust](https://pestpolicy.com/can-you-paint-over-rust/)is a common problem that can significantly damage metal surfaces, especially large objects exposed to the elements over time. While rust doesnt always render an item unusable, it can be unsightly and, if left untreated, lead to structural damage.
 
 Fortunately, there are several effective methods to remove rust from large metal objects, restoring their appearance and functionality. This guide will walk you through the best techniques and tools for rust removal, as well as tips to prevent rust from returning.
 

@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 
-Probably you have come across monitor lizards in your field, yard, compound or zoo and wonder if they could be poisonous. You may even have seen them feed on rats, snakes or rodents. But [are](https://pestpolicy.com/are-blue-tailed-lizards-poisonous/) Monitor Lizards Poisonous? **The direct answer is YES.
+Probably you have come across monitor lizards in your field, yard, compound or zoo and wonder if they could be poisonous. You may even have seen them feed on rats, snakes or rodents. But [are](https://pestpolicy.com/are-blue-tailed-lizards-poisonous/)Monitor Lizards Poisonous? **The direct answer is YES.
 
 Monitor lizards (such as Komodo Dragon, Asian Water Monitor, and Tree Crocodile Monitor) can bite and cause poisonous infections since they are venomous.
 
@@ -25,7 +25,7 @@ Related: [Are Blue Tailed Lizards Poisonous? ](https://pestpolicy.com/are-blue-t
 
 ##  Details: Are Monitor Lizards Poisonous?
 
-Monitor lizards are the most [poisonous and dangerous species of lizards](https://pestpolicy.com/are-lizards-poisonous/). They contain venom at the root of their teeth, which they use to paralyze the prey before they swallow. Most Monitor lizards are carnivore and are well known for their tactical hunting skills. We can therefore say that most Monitor lizards are dangerous carnivores that paralyze prey using their venom before swallowing.
+Monitor lizards are the most [poisonous and dangerous species of lizards](https://pestpolicy.com/are-lizards-poisonous/).They contain venom at the root of their teeth, which they use to paralyze the prey before they swallow. Most Monitor lizards are carnivore and are well known for their tactical hunting skills. We can therefore say that most Monitor lizards are dangerous carnivores that paralyze prey using their venom before swallowing.
 
 In addition, these reptiles harbor salmonella bacteria that cause infections to both pets and human beings if not treated or disinfected. Meat from Monitor Lizard contains Liver fluke which damages severely the pets livers and causes liver inflammation.
 

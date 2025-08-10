@@ -14,9 +14,9 @@ tags:
 layout: post
 ---
 
-The best [spray](https://pestpolicy.com/best-spray-paint-for-glass/) paints for [plastic](https://pestpolicy.com/how-to-paint-plastic/) will entirely transform the look and feel of your plastic objects or household items.
+The best [spray](https://pestpolicy.com/best-spray-paint-for-glass/)paints for [plastic](https://pestpolicy.com/how-to-paint-plastic/)will entirely transform the look and feel of your plastic objects or household items.
 
-It'll easily revamp your house and yard chairs to gain or train a bold color. Check this guide on [how to paint plastic](https://pestpolicy.com/how-to-paint-plastic/). Spray paints for your plastic must be designed to adhere to different plastics like Rust-Oleum effectively.
+It'll easily revamp your house and yard chairs to gain or train a bold color. Check this guide on [how to paint plastic](https://pestpolicy.com/how-to-paint-plastic/).Spray paints for your plastic must be designed to adhere to different plastics like Rust-Oleum effectively.
 
 ##  s: 7 Best Spray Paints for Plastic in 2025
 

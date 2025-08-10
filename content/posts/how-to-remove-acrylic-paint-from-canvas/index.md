@@ -24,7 +24,7 @@ Removing acrylic paint from canvas becomes challenging, especially when the pain
 
 ###  a. Denature Alcohol or Isopropyl alcohol
 
-Dilute one liter of denatured alcohol with two liters of water (1: 2 ratio). Using a sponge, rub the surface with acrylic paint gently. This solvent will remove wet [acrylic paint]( instantly upon contact. For dry acrylic paint, you will need to quench the surface before stripping. Denatured alcohol contains strong, active agents (ethyl 5%) that break down the paint molecular bond into a thick paint viscous fluid, which is easier to clean.
+Dilute one liter of denatured alcohol with two liters of water (1: 2 ratio). Using a sponge, rub the surface with acrylic paint gently. This solvent will remove wet [acrylic paint](instantlyuponcontact.Fordryacrylicpaint,youwillneedtoquenchthesurfacebeforestripping.Denaturedalcoholcontainsstrong,activeagents(ethyl5%) that break down the paint molecular bond into a thick paint viscous fluid, which is easier to clean.
 
 Beside, denatured alcohol penetrates the canvas without affecting the material fabric. For a thicker layer of acrylic paint, isopropyl alcohol is suitable. Further, you will need to use a concentrated solvent to improve the bond-breaking affinity during action time. Notably, denature alcohol irritates the skin and nasal cavity; thus, you should wear protective gear when cleaning. See Also: [Can You Use Acrylic Paint On Metal?
 
@@ -60,7 +60,7 @@ Excess concentration of acetone may deface the canvas it is necessary to carry o
 
 ###  a. Spot Cleaning
 
-Prepare acrylic cleaning solvent and put it in a bottle or spray can. Gently, spray or rub over the acrylic painted area on the canvas. Leave to quench fo0r 5 to 10 minutes (for thick layers) before stripping or wiping the stain. Alternatively, you can dip the section with [acrylic paint for professional artists](https://pestpolicy.com/best-acrylic-paint-for-professional-artists/) in a paint remover and scrape off using a knife or scalpel.
+Prepare acrylic cleaning solvent and put it in a bottle or spray can. Gently, spray or rub over the acrylic painted area on the canvas. Leave to quench fo0r 5 to 10 minutes (for thick layers) before stripping or wiping the stain. Alternatively, you can dip the section with [acrylic paint for professional artists](https://pestpolicy.com/best-acrylic-paint-for-professional-artists/)in a paint remover and scrape off using a knife or scalpel.
 
 You must be very precise when carrying out spot cleaning since the paint remover may affect the marginal areas. Further, you should rinse the spot area with soap and clean water to eliminate acrylic paint remover residuals.
 

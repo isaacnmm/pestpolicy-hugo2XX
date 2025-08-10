@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 
-When it comes to professional lawn care, homeowners often weigh their options between national giants and well-established regional providers. [TruGreen](https://pestpolicy.com/trugreen-cost/) and Massey Services represent two distinct but highly reputable choices in this landscape. TruGreen is a household name, synonymous with comprehensive lawn care across most of the United States.
+When it comes to professional lawn care, homeowners often weigh their options between national giants and well-established regional providers. [TruGreen](https://pestpolicy.com/trugreen-cost/)and Massey Services represent two distinct but highly reputable choices in this landscape. TruGreen is a household name, synonymous with comprehensive lawn care across most of the United States.
 
 Massey Services, while perhaps less nationally recognized for *just* lawn care, is a significant integrated home services provider, particularly dominant in the Southeastern U. S. , offering robust lawn, pest, and termite control.
 

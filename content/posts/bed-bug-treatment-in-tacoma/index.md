@@ -33,7 +33,7 @@ Engaging a professional pest control service is often the most effective way to 
 
 These chemicals are applied to affected areas, targeting bed bugs in their hiding spots.
 
-Multiple treatments may be required to ensure complete eradication. 4. **Steam Treatments**: [High-temperature steam](https://pestpolicy.com/best-bed-bug-steamer/)is used to kill bed bugs on contact. This method is particularly useful for treating mattresses, furniture, and other areas where chemicals cannot be applied. 5. **Encasements**: Special bedbug-proof covers are used for mattresses and box springs.
+Multiple treatments may be required to ensure complete eradication. 4. **Steam Treatments**: [High-temperature steam](https://pestpolicy.com/best-bed-bug-steamer/)isused to kill bed bugs on contact. This method is particularly useful for treating mattresses, furniture, and other areas where chemicals cannot be applied. 5. **Encasements**: Special bedbug-proof covers are used for mattresses and box springs.
 
 These encasements trap any remaining bed bugs, preventing them from feeding and eventually killing them.
 
@@ -43,7 +43,7 @@ While professional services are often the most effective, there are several DIY 
 
 **Washing and Drying**: Washing infested clothing and bedding in hot water (at least 120F or 49C) and drying them on high heat can kill bed bugs. This method is effective for linens and clothing but may not address all areas of an infestation. 3. **Diatomaceous Earth**: This natural, non-toxic powder can be spread in infested areas.
 
-It works by[dehydrating and killing](https://pestpolicy.com/does-diatomaceous-earth-kill-[bed-bugs](https://pestpolicy.com/bed-bug-bites-vs-mosquito-bites/)/)[bed](https://pestpolicy.com/bed-bug-bites-vs-other-bites/) bugs that come into contact with it. However, it may take several days to weeks to see results. 4. **Bed Bug Sprays**: Over-the-counter bed bug sprays can be used to treat visible bed bugs.
+It works by[dehydrating and killing](https://pestpolicy.com/does-diatomaceous-earth-kill-[bed-bugs](https://pestpolicy.com/bed-bug-bites-vs-mosquito-bites/)/)[bed](https://pestpolicy.com/bed-bug-bites-vs-other-bites/)bugs that come into contact with it. However, it may take several days to weeks to see results. 4. **Bed Bug Sprays**: Over-the-counter bed bug sprays can be used to treat visible bed bugs.
 
 However, these sprays may not be effective against hidden bed bugs or eggs, and their efficacy varies.
 

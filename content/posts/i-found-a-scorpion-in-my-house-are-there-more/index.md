@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 
-Scorpions are a pest that will come out regularly in the desert areas of the United States (especially the southwestern regions). **So, we just today found such a scorpion in our neighbor's [house](https://pestpolicy.com/house-lizard-lifespan/). So I'm wondering if there could be more around. ** **My answer is that this will depend on the location and region that you found this scorpion - which means where you live.
+Scorpions are a pest that will come out regularly in the desert areas of the United States (especially the southwestern regions). **So, we just today found such a scorpion in our neighbor's [house](https://pestpolicy.com/house-lizard-lifespan/).So I'm wondering if there could be more around. ** **My answer is that this will depend on the location and region that you found this scorpion - which means where you live.
 
 ** Related: Pest Control Services Near Me
 
@@ -69,7 +69,7 @@ To sell the openings and trucks you can use expandable foam, sealers, fillers, s
 
 ###  d. Install Scorpion Traps
 
-The next step will be installing some suitable rat or mice traps in the house to trap scorpions - oor use [dragon cages](https://pestpolicy.com/best-cages-for-bearded-dragons/). Place them around water sources and the entryway and dark areas such as the closet and furnishings. - But remember that the sticky pest traps could have toxic chemicals such as hazardous pesticides.
+The next step will be installing some suitable rat or mice traps in the house to trap scorpions - oor use [dragon cages](https://pestpolicy.com/best-cages-for-bearded-dragons/).Place them around water sources and the entryway and dark areas such as the closet and furnishings. - But remember that the sticky pest traps could have toxic chemicals such as hazardous pesticides.
 
 You can also deter the scorpions by using essential oils such as cinnamon, peppermint, tea tree, lavender, and cedar.
 

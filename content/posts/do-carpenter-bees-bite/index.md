@@ -14,9 +14,9 @@ tags:
 layout: post
 ---
 
-While [carpenter](https://pestpolicy.com/compare-carpenter-bee-vs-bumblebee/) bees do not bite humans, they can cause damage to wooden structures. The bees burrow into wood to create their nests, which can lead to structural damage if left unchecked. Over time, repeated nesting activity can weaken wood, especially in areas like decks, eaves, and siding.
+While [carpenter](https://pestpolicy.com/compare-carpenter-bee-vs-bumblebee/)bees do not bite humans, they can cause damage to wooden structures. The bees burrow into wood to create their nests, which can lead to structural damage if left unchecked. Over time, repeated nesting activity can weaken wood, especially in areas like decks, eaves, and siding.
 
-###  How to Prevent Carpenter [Bee](https://pestpolicy.com/hornet-bees-and-wasp-removal-tacoma/) Infestations
+###  How to Prevent Carpenter [Bee](https://pestpolicy.com/hornet-bees-and-wasp-removal-tacoma/)Infestations
 
 To prevent carpenter bees from nesting in your home or garden, consider the following methods: - **Seal Wooden Surfaces: **Ensure that wood around your home is sealed properly. Carpenter bees are attracted to untreated wood, so applying a coat of paint or varnish can deter them from drilling. - **Use Bee Traps: **Specialized carpenter bee traps can help reduce the number of bees around your property.
 

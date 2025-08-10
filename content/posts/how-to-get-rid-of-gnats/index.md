@@ -16,7 +16,7 @@ layout: post
 
 The presence of Gnats (either the biting or the non-biting species) can really be very disturbing and irritating since they keep moving rapidly in the entire room.
 
-[Gnats have a lifespan of 7 to 21 days](https://pestpolicy.com/how-long-do-gnats-live/) **. ** Gnats will be attracted by some common things including stagnant water around our houses, unwashed dishes, spoilt food stuffs and decaying organic matter near your houses.
+[Gnats have a lifespan of 7 to 21 days](https://pestpolicy.com/how-long-do-gnats-live/)**. ** Gnats will be attracted by some common things including stagnant water around our houses, unwashed dishes, spoilt food stuffs and decaying organic matter near your houses.
 
 **So, here's how to get rid of gnats; use a rotten bananas trap, dish soap, apple cider vinegar and sugar trap, use of wine, use of bleach solution, sticky yellow traps, gnats fogging product, tobacco method, use of citronella candles and maintaining cleanliness in your house. **
 
@@ -34,7 +34,7 @@ The gnats will move in and get stuck inside the jar; the plastic cover will hind
 
 Next, youll make a gnats trap by mixing a few drops of dish soap, apple cider vinegar and sugar. All what you need is a container; dish soap, sugar and apple cider vinegar. 1. Take a container; just add two tablespoons of vinegar and two cups of water in it. Mix thoroughly then add a table spoon of sugar and some soap dish drops. Mix them until the sugar dissolves. 2. The fragrance smell of the mixture will attract the gnats.
 
-When the gnats make contact with the vinegar solution, they wont be able to crawl out. 3. Make sure you have several such traps and place them where the gnats are seen frequently in your room. 4. Also you can fill a spray bottle with this solution and anytime you come across any [gnat](https://pestpolicy.com/best-gnat-repellent/) circling around you, spray it off with it. *Why does the * *Soap, Vinegar & Sugar Trap work?
+When the gnats make contact with the vinegar solution, they wont be able to crawl out. 3. Make sure you have several such traps and place them where the gnats are seen frequently in your room. 4. Also you can fill a spray bottle with this solution and anytime you come across any [gnat](https://pestpolicy.com/best-gnat-repellent/)circling around you, spray it off with it. *Why does the * *Soap, Vinegar & Sugar Trap work?
 
 * *This trap is an easy and quick to clear out all gnats.
 
@@ -66,7 +66,7 @@ Once the gnats land on the sticky surface, they will not be able to make any mov
 
 You can repeat this severally until all gnats are completely destroyed from your house.
 
-The good thing with these traps, they will also assist you get [rid](https://pestpolicy.com/get-rid-sweat-bees/) of other pests around your household like white flies and clothes moths.
+The good thing with these traps, they will also assist you get [rid](https://pestpolicy.com/get-rid-sweat-bees/)of other pests around your household like white flies and clothes moths.
 
 ###  6. Using gnats fogging product
 

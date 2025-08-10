@@ -18,7 +18,7 @@ Gnats are restless two-winged flies commonly found in residential and commercial
 
 How long do gnats live? **The simple answer is: The average lifespan of Gnats is 7-21 days. This will depend on several factors like food sources, temperature, habitat, and available moisture. **
 
-##  Different [Gnat](https://pestpolicy.com/best-gnat-repellent/) species - How Long Do Gnats [Live](https://pestpolicy.com/best-streaming-devices-for-live-tv/)?
+##  Different [Gnat](https://pestpolicy.com/best-gnat-repellent/)species - How Long Do Gnats [Live](https://pestpolicy.com/best-streaming-devices-for-live-tv/)?
 
 Examples of flies that fit the above description include fungus gnats, fruit flies, black flies, phorid flies, eye gnats, and biting midges. Read on and learn more!
 
@@ -62,7 +62,7 @@ If youre worried why gnats are always inside your house, you should check for or
 
 ###  Can cold temperatures kill gnats?
 
-A cold environment wont [kill gnats](https://pestpolicy.com/how-to-get-rid-of-gnats/) but will stop them from breeding. Below 60 degrees F, these flies experience a sharp decline in lifespan. Generally, the ideal temperature for a healthy life cycle is 65-75 degrees Fahrenheit.
+A cold environment wont [kill gnats](https://pestpolicy.com/how-to-get-rid-of-gnats/)but will stop them from breeding. Below 60 degrees F, these flies experience a sharp decline in lifespan. Generally, the ideal temperature for a healthy life cycle is 65-75 degrees Fahrenheit.
 
 ##  Ways to get rid of gnats from your home
 

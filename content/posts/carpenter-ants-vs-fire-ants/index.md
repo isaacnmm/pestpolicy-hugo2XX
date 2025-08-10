@@ -17,7 +17,7 @@ layout: post
 
 Ant identification can be a challenging task - mainly due to the tiny size of these insects. You'd need a microscope or even use the [help of a pest control professional](https://pestpolicy.com/how-to-get-rid-of-[carpenter](https://pestpolicy.com/what-attracts-carpenter-ants-in-a-home/)-bees-without-killing-them/).
 
-But in this article, I've outlined some major characteristics that'll help you differentiate between carpenter [ants](https://pestpolicy.com/ant-control-in-bellingham/) vs fire ants - you'll thus easily identify the ants in the house or yard. **In summary; on Carpenter Ants vs Fire Ants - we'll consider their behavior, nesting habits, and coloration.
+But in this article, I've outlined some major characteristics that'll help you differentiate between carpenter [ants](https://pestpolicy.com/ant-control-in-bellingham/)vs fire ants - you'll thus easily identify the ants in the house or yard. **In summary; on Carpenter Ants vs Fire Ants - we'll consider their behavior, nesting habits, and coloration.
 
 ** - **First, carpenter ants are black (to orange), brown, or black while Fire Ants are red-brown in color. Fire Ants.
 
@@ -25,7 +25,7 @@ But in this article, I've outlined some major characteristics that'll help you d
 
 ##  Carpenter Ants vs Fire Ants
 
-**1. Identifying Carpenter Ants** You can [recognize the carpenter ants](https://extension.umn. edu/insects-infest-homes/carpenter-ants), which are mainly in the Southern states such as Texas - and they behave like termites, with some key features. - Carpenter ants have waists that have a rounded thorax behind their head and a waist having a single petiole (node). - Worker carpenter bees measure about 3/8 - 1/2 inches in body length.
+**1. Identifying Carpenter Ants** You can [recognize the carpenter ants](https://extension.umn.edu/insects-infest-homes/carpenter-ants),which are mainly in the Southern states such as Texas - and they behave like termites, with some key features. - Carpenter ants have waists that have a rounded thorax behind their head and a waist having a single petiole (node). - Worker carpenter bees measure about 3/8 - 1/2 inches in body length.
 
 - Worker carpenter bees are black or red You'll mainly find the carpenter ants in the yard, trees, or the house. Notably, the carpenter ants will cause extensive damage to the house if ignored. - Thus, you - as a diligent homeowner, must take care to ensure that the carpenter ants won't nest in the trees and your home.
 
@@ -39,7 +39,7 @@ Carpenter ants build their residence of nests inside solid woods but they'll lar
 
 You can identify Fire ants quickly from the dull red color in their body - but this color may vary from reddish black or reddish-brown. - On their anatomy, you'll also notice a stinger on the fire ants. In sunny places, the fire ants will create some noticeablesoil mounds - The soil mounds could be as big as 61 centimeters wide and 18 centimeters tall - or they may be shaped like a dome.
 
-Fire ants will have less activity in the bot sunny times; they also evade shades and darkness - and thus you'll mainly find them in open lawns and fields. These ants are [considered aggressive](http://fireant.tamu. edu/materials/fact-sheets/) and they'll mainly feed on dead animals and living insects. But when they get into their house, the fire ants will invade sweet foods and fats.
+Fire ants will have less activity in the bot sunny times; they also evade shades and darkness - and thus you'll mainly find them in open lawns and fields. These ants are [considered aggressive](http://fireant.tamu.edu/materials/fact-sheets/)and they'll mainly feed on dead animals and living insects. But when they get into their house, the fire ants will invade sweet foods and fats.
 
 - **In brief, we can easily know fire ants from the size and shape of the mounds, and the type of bites they cause. Also, fire ants are seen to be very aggressive compared to other ant species. ** The worker fire ants will bite humans using their chewing mouthparts while also injecting some poison using the stingers that'll cause a tingling or painful feeling.
 
@@ -47,7 +47,7 @@ You'll know when you have fire ants in your spaes from some key indicators; thes
 
 Collecting the fire ants for proper identification requires adequate keenness from that ant mounds. - Take your dishwashing gloves and pour some baby powder on them; wear those gloves now and this will hinder ants from crawling up. - Take a vial and put somerubbing alcoholonto the ant mound - the top part. Notably, the worker ants of the fire ants will climb and drop into the vial.
 
-- Finally, close the vial (with the fire ants inside) - but ensure to still use gloves to avoid ant bites - if bitten, [you can treat the ant bites](https://pestpolicy.com/how-to-treat-ant-bites/). Notably, fire ants come in 5 different species; red-imported fire ants, little-fire ants, desert-fire ants, tropical-fire ants, and the Southern (native) fire ants.
+- Finally, close the vial (with the fire ants inside) - but ensure to still use gloves to avoid ant bites - if bitten, [you can treat the ant bites](https://pestpolicy.com/how-to-treat-ant-bites/).Notably, fire ants come in 5 different species; red-imported fire ants, little-fire ants, desert-fire ants, tropical-fire ants, and the Southern (native) fire ants.
 
 - When the nests of these fire ants are attacked, the pest will move out aggressively ready to bite and sting in defense.
 

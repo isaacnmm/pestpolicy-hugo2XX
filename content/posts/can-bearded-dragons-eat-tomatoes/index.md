@@ -23,13 +23,13 @@ Well, Yes and NO; bearded dragons can eat just 1/4 a tomato each meoht*** > ***w
 
 ##  Why Bearded Dragons Must Not Eat Tomatoes Daily?
 
-Tomatoes will provide nutritional benefits to your bearded dragons but let's first interrogate why you can use the fruit as your beardies staple or main diet as you care for the Bearded [Dragon](https://cvm.ncsu. edu/wp-content/uploads/2016/12/Caring-for-your-Bearded-Dragon. pdf). **a.
+Tomatoes will provide nutritional benefits to your bearded dragons but let's first interrogate why you can use the fruit as your beardies staple or main diet as you care for the Bearded [Dragon](https://cvm.ncsu.edu/wp-content/uploads/2016/12/Caring-for-your-Bearded-Dragon.pdf).**a.
 
-High Acid content; ** Maybe your vet (like [Dr. Javier Nevarez does](http://facultypages.vetmed. lsu. edu/faculty/jnevare) ) has mentioned that you limit citrus fruits (and related products) as food for your bearded dragons, but why? These fruits have considerable citric acid, which is harsh on the digestive system of your dragon.
+High Acid content; ** Maybe your vet (like [Dr. Javier Nevarez does](http://facultypages.vetmed.lsu.edu/faculty/jnevare)) has mentioned that you limit citrus fruits (and related products) as food for your bearded dragons, but why? These fruits have considerable citric acid, which is harsh on the digestive system of your dragon.
 
 Despite that tomatoes are not classified as citrus fruits (botanically), their citric acid content makes them unsafe to be fed to the dragons as they'll your dragon with severe dehydration and diarrhea. **b. High Phosphorus Levels; ** The high phosphorous in tomatoes when fed to dragons are comparable to kryptonite - they'll bind the calcium and thus reduces its chances of getting absorbed into the reptile's bloodstream.
 
-Calcium is very critical to the health of the Bearded dragons and hence taking in tomatoes daily (which have high phosphorous) may cause [metabolic bone disease](https://vcahospitals.com/know-your-pet/bearded-dragons-diseases) (MBD) - a hazardous disease that (if not treated) may kill or paralyze your dragons. Tomatoes have little calcium but the harmful phosphorus roughly six times that amount.
+Calcium is very critical to the health of the Bearded dragons and hence taking in tomatoes daily (which have high phosphorous) may cause [metabolic bone disease](https://vcahospitals.com/know-your-pet/bearded-dragons-diseases)(MBD) - a hazardous disease that (if not treated) may kill or paralyze your dragons. Tomatoes have little calcium but the harmful phosphorus roughly six times that amount.
 
 Quantitatively, safe foods for your bearded dragons must have a 1: 1 to 2: 1 range as the ratio of calcium to phosphorus - this ensures that calcium is more than the phosphorus. Considering the above phosphorous hazard to bearded dragons, tomatoes also have less levels of calcium and this will lead to poor nutrition when used as their main diet.
 
@@ -39,7 +39,7 @@ Thus, in addition to their acidity, tomatoes will cause dehydration and digestiv
 
 ##  Thus; Can Bearded Dragons Eat Tomatoes?
 
-These beardies will readily eat tomatoes because they obtain vitamin A from them. Vitamin A has four benefits to your beardie: - Encourage great vision - Assists in the growth and reproductive health - Helps in protein synthesis - Promotes skin development - just like[apples for Bearded Dragons](https://pestpolicy.com/can-bearded-dragons-eat-apples/) However, it is advisable not to feed your beardie on too many tomatoes because they are high in oxalic acids.
+These beardies will readily eat tomatoes because they obtain vitamin A from them. Vitamin A has four benefits to your beardie: - Encourage great vision - Assists in the growth and reproductive health - Helps in protein synthesis - Promotes skin development - just like[apples for Bearded Dragons](https://pestpolicy.com/can-bearded-dragons-eat-apples/)However, it is advisable not to feed your beardie on too many tomatoes because they are high in oxalic acids.
 
 Oxalic acid inhibits the absorption of calcium which is necessary for bone development and in egg production by female dragons.
 
@@ -77,7 +77,7 @@ To feed your beardie with tomatoes, place a few slices on green vegetables like 
 
 ##  Other Alternative Foods for bearded Dragons?
 
-As we've noted, tomatoes won't make it into the main diet of your bearded dragons - and thus you'll require to get alternative fruits and vegetables - these are the options: - Yellow squash - Sweet potato - Mango - Green beans - Broccoli - Apples - Bell peppers - [Cucumbers](https://pestpolicy.com/can-bearded-dragons-eat-cucumbers/) - Acorn squash Fruits and vegetables must be provided in healthy and vet-recommended quantities to the bearded dragon for a balanced and healthy diet - but take extra care when working with tomatoes - as it'll have to be limited to just a 1/4 tomato per month.
+As we've noted, tomatoes won't make it into the main diet of your bearded dragons - and thus you'll require to get alternative fruits and vegetables - these are the options: - Yellow squash - Sweet potato - Mango - Green beans - Broccoli - Apples - Bell peppers - [Cucumbers](https://pestpolicy.com/can-bearded-dragons-eat-cucumbers/)- Acorn squash Fruits and vegetables must be provided in healthy and vet-recommended quantities to the bearded dragon for a balanced and healthy diet - but take extra care when working with tomatoes - as it'll have to be limited to just a 1/4 tomato per month.
 
 ##  Conclusion
 

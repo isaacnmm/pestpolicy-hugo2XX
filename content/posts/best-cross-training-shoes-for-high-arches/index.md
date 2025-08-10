@@ -14,7 +14,7 @@ tags:
 layout: post
 ---
 
-[Best](https://pestpolicy.com/best-cross-training-shoes-for-bad-knees/) Cross Training Shoes for High Arches should have ample midsole cushioning and under-arch support to alleviate pain or discomfort caused by high arches.
+[Best](https://pestpolicy.com/best-cross-training-shoes-for-bad-knees/)Cross Training Shoes for High Arches should have ample midsole cushioning and under-arch support to alleviate pain or discomfort caused by high arches.
 
 A high arch (pes cavus) is the opposite of a flat foot. However, high arches tend to cause more pain than flat feet. Therefore, trainers with high arches will need neutral cushioned shoes or shoes that have an additional bump within the midfoot unit. Such shoes promote flexibility and encourage natural pronation.
 
@@ -48,7 +48,7 @@ The Powerflow midsole provides needed cushioning. It provides superior shock abs
 
 The upper of Inov-8 F-Lite 260 Knit features a knit material thats highly breathable and stretchy. The material provides a comfortable fit while securing the foot in place to prevent unnecessary foot movement.
 
-The rearfoot features a synthetic overlay wrap that inhibits in-shoe wobbling during plyometrics, weightlifting, and other intense exercises. The external heel cage provides lateral support making it possible to engage in [lateral workouts](https://pestpolicy.com/best-shoes-for-lateral-movement/). The TPU panels on the heel provide crucial stability.
+The rearfoot features a synthetic overlay wrap that inhibits in-shoe wobbling during plyometrics, weightlifting, and other intense exercises. The external heel cage provides lateral support making it possible to engage in [lateral workouts](https://pestpolicy.com/best-shoes-for-lateral-movement/).The TPU panels on the heel provide crucial stability.
 
 The outsole of this cross-training shoe for high arches features a superior non-slip rubber that provides a sticky grip. The rubber outsole provides reliable traction on various surfaces. Hence, it eliminates the fear of slipping during box jumps.
 

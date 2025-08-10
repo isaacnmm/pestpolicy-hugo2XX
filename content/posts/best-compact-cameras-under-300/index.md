@@ -14,11 +14,11 @@ tags:
 layout: post
 ---
 
-In this post, Ive reviewed the best compact [cameras](https://pestpolicy.com/best-drones-for-still-photography/) under 300. Granted, its the end of summer and you need to take great shots of your kids.
+In this post, Ive reviewed the best compact [cameras](https://pestpolicy.com/best-drones-for-still-photography/)under 300. Granted, its the end of summer and you need to take great shots of your kids.
 
-Maybe 7 years from now the kids will wonder; where are my photos? Make sure you wont have to say that they were on my smartphone, I put them on Facebook. but they still dont look so good. Unique features in a [modern compact camera](http://camera-wiki.org/wiki/Compact_camera) (compared to smartphone cameras) are having an optical zoom lens, superior focus, multiple modes, and working well in low-lighting.
+Maybe 7 years from now the kids will wonder; where are my photos? Make sure you wont have to say that they were on my smartphone, I put them on Facebook. but they still dont look so good. Unique features in a [modern compact camera](http://camera-wiki.org/wiki/Compact_camera)(compared to smartphone cameras) are having an optical zoom lens, superior focus, multiple modes, and working well in low-lighting.
 
-##  Reviews: 7 [Best](https://pestpolicy.com/best-point-and-shoot-camera-under-100/) Compact Cameras under 300 in 2025
+##  Reviews: 7 [Best](https://pestpolicy.com/best-point-and-shoot-camera-under-100/)Compact Cameras under 300 in 2025
 
 ###  [1. Canon PowerShot SX740 Digital Camera w/40x Zoom - #1 Pick](https://www.amazon.com/dp/B07FXPY6SF/?tag=p-policy-20)
 

@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 
-[Cockroaches](https://en.wikipedia. org/wiki/Cockroach) are unwelcome visitors in our homes - these [ear mites will even attack humans](https://pestpolicy.com/can-humans-get-ear-mites-from-dogs/). Majority of roaches hibernate during winter to maintain their warmth. But, some remain active and get into our homes. **But can I freeze roaches to death? Yes.
+[Cockroaches](https://en.wikipedia.org/wiki/Cockroach)are unwelcome visitors in our homes - these [ear mites will even attack humans](https://pestpolicy.com/can-humans-get-ear-mites-from-dogs/).Majority of roaches hibernate during winter to maintain their warmth. But, some remain active and get into our homes. **But can I freeze roaches to death? Yes.
 
 While this may sound like a lame suggestion, its a low-risk control tactic that wont cost you a dime. Why?
 
@@ -33,7 +33,7 @@ Its worth mentioning that you can only kill the eggs after prolonged exposure to
 
 ##  Can Cockroaches Survive In Winter?
 
-Since roaches can adapt to low temperatures, they will adjust to the immediate temperatures and stay warm. There are plenty of ways to avoid that exposure. Maybe you've just [seen just one cockroach](https://pestpolicy.com/i-saw-one-cockroach-should-i-be-worried/) - its time to act.
+Since roaches can adapt to low temperatures, they will adjust to the immediate temperatures and stay warm. There are plenty of ways to avoid that exposure. Maybe you've just [seen just one cockroach](https://pestpolicy.com/i-saw-one-cockroach-should-i-be-worried/)- its time to act.
 
 Youll often find them creeping to your home when it gets too cold outside. Another survival tactic is to decrease the rate of perspiration and go into a temporary coma.
 

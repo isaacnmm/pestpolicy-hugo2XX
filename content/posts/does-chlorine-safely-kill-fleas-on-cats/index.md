@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 
-[Fleas](https://pestpolicy.com/does-apple-cider-vinegar-kill-fleas/) got your cat down? Forget the pool chlorine it's a recipe for disaster, and it can be downright dangerous for your precious kitty. Even small amounts of chlorine can be harmful to cats. Here why: - **Skin and eye irritation: **Chlorine can cause painful burns and itchy rashes on your cat's delicate skin and eyes.
+[Fleas](https://pestpolicy.com/does-apple-cider-vinegar-kill-fleas/)got your cat down? Forget the pool chlorine it's a recipe for disaster, and it can be downright dangerous for your precious kitty. Even small amounts of chlorine can be harmful to cats. Here why: - **Skin and eye irritation: **Chlorine can cause painful burns and itchy rashes on your cat's delicate skin and eyes.
 
 - **Digestive distress: **Ingesting chlorine can lead to vomiting, diarrhea, and even internal damage.
 
@@ -31,11 +31,11 @@ Fleas Slip Through the Chlorine Slipstream: ** While chlorine might knock out so
 
 Thankfully, there are plenty of safe and effective flea control options for cats. Veterinarian-recommended shampoos, topical treatments, and oral medications effectively target fleas at all stages, putting the kibosh on their reign of terror. - **Vet's the Best Bet: **Always consult your veterinarian for the best flea control solution for your cat. They can recommend products based on your cat's age, breed, and individual needs.
 
-- **Washing Woes: **Regularly laundering your cat's bedding and toys in hot water with detergent helps break the flea cycle and prevent re-infestation. - **Vacuum Vacuum Vacuum: **Fleas love to lurk in carpets and furniture. [Frequent vacuuming](https://pestpolicy.com/best-cordless-stick-vacuums/)with a HEPA filter can suck up these tiny terrors and their eggs.
+- **Washing Woes: **Regularly laundering your cat's bedding and toys in hot water with detergent helps break the flea cycle and prevent re-infestation. - **Vacuum Vacuum Vacuum: **Fleas love to lurk in carpets and furniture. [Frequent vacuuming](https://pestpolicy.com/best-cordless-stick-vacuums/)witha HEPA filter can suck up these tiny terrors and their eggs.
 
-- **Yard Treating: **Don't forget the[outdoors](https://pestpolicy.com/best-flea-spray-for-yard/)! Treating your yard with a pet-safe flea control product can help prevent those pesky parasites from hopping back inside.
+- **Yard Treating: **Don't forget the[outdoors](https://pestpolicy.com/best-flea-spray-for-yard/)!Treating your yard with a pet-safe flea control product can help prevent those pesky parasites from hopping back inside.
 
-For more information on different flea control options and their suitability for your cat, see the [AVMA's guide](https://www.avma. org/resources-tools/avma-policies/aaha-avma-feline-preventive-healthcare-guidelines) and if you're in Washington state; check the Washington State Department of Health - Fleas and Ticks on Cats: [https://doh.wa. gov/community-and-environment/pests/fleas](https://doh.wa.
+For more information on different flea control options and their suitability for your cat, see the [AVMA's guide](https://www.avma.org/resources-tools/avma-policies/aaha-avma-feline-preventive-healthcare-guidelines)and if you're in Washington state; check the Washington State Department of Health - Fleas and Ticks on Cats: [https://doh.wa.gov/community-and-environment/pests/fleas](https://doh.wa.
 
 gov/community-and-environment/pests/fleas).
 

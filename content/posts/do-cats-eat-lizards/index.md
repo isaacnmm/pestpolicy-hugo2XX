@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 
-Do Cats [Eat](https://pestpolicy.com/do-flying-termites-eat-wood/) Lizards? Have you ever met lizards and cats together in your home, yard or compound? Can your lizard and cat pet live together? It is interesting to find how cats go along with lizards in your place? So, do cats eat lizards? *The direct answer is YES! Cats will eat lizards. Cats are great lizard predators.
+Do Cats [Eat](https://pestpolicy.com/do-flying-termites-eat-wood/)Lizards? Have you ever met lizards and cats together in your home, yard or compound? Can your lizard and cat pet live together? It is interesting to find how cats go along with lizards in your place? So, do cats eat lizards? *The direct answer is YES! Cats will eat lizards. Cats are great lizard predators.
 
 They will hunt, kill and eat lizard either by cutting it into pieces or swallow it whole (for the small sized cats).
 

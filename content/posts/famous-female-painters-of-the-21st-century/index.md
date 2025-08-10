@@ -24,7 +24,7 @@ Yayoi Kusama, known for her signature polka dots and immersive installations, is
 
 ###  2.[Cindy Sherman](https://www.amazon.com/dp/B085Y2D8TR?tag=p-policy-20)
 
-Cindy Sherman is an American photographer and [painter](https://pestpolicy.com/how-much-does-a-painter-make/), widely recognized for her conceptual portraits that explore identity, gender, and societal roles. She often appears in her works, changing her appearance with costumes and makeup to create different personas, reflecting the complexities of the human experience.
+Cindy Sherman is an American photographer and [painter](https://pestpolicy.com/how-much-does-a-painter-make/),widely recognized for her conceptual portraits that explore identity, gender, and societal roles. She often appears in her works, changing her appearance with costumes and makeup to create different personas, reflecting the complexities of the human experience.
 
 ###  3.[Kara Walker](https://www.amazon.com/dp/B08Y6J9TL1?tag=p-policy-20)
 

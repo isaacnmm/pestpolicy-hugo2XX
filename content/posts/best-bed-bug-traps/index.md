@@ -27,7 +27,7 @@ Bed bugs will often hide in mattresses and come out at night to suck your blood.
 
 The Bed Bug Climb Up traps is not a killer of bed bugs but a remedy while you figure out the steps you need to take to call an exterminator to handle the bugs. It is called an insect interceptor because it helps detect an infestation of the bugs. It is made up of plastic cups with polished walls-climb-metal-or-plastic/) too slick for the bugs to crawl out of.
 
-The traps are placed under the bedposts and act as barriers between the bugs and the [bed](https://pestpolicy.com/what-does-bed-bug-poop-look-like/), preventing the bed bugs from getting to you when asleep or resting. You dont need either insecticide or talcum powder because the Bed Bug Climb Up traps are glossy enough to trap the bed bugs. Remember, it is not to be used as a stand-alone solution.
+The traps are placed under the bedposts and act as barriers between the bugs and the [bed](https://pestpolicy.com/what-does-bed-bug-poop-look-like/),preventing the bed bugs from getting to you when asleep or resting. You dont need either insecticide or talcum powder because the Bed Bug Climb Up traps are glossy enough to trap the bed bugs. Remember, it is not to be used as a stand-alone solution.
 
 ##  **5. LightsOut Bedbug Trap Reusable, Chemical Free**
 
@@ -59,7 +59,7 @@ Put the interceptors under the feet of living and bedroom furniture. There are m
 
 ##  **9. Bug Snarer Bed Bug Trap Baby Safe and Eco-Friendly**
 
-They come in a pack of 8 chemical-free interceptors. It functions as a trap that prevents a bed bug from climbing your bed or sitting room furniture. It also captures the [bed bugs (dead bed bugs)](https://pestpolicy.com/dead-bed-bugs/) and stores them till discarded. It is wide, strong, and solid. It is wide so that it can fit subtly under most furniture legs no matter the size.
+They come in a pack of 8 chemical-free interceptors. It functions as a trap that prevents a bed bug from climbing your bed or sitting room furniture. It also captures the [bed bugs (dead bed bugs)](https://pestpolicy.com/dead-bed-bugs/)and stores them till discarded. It is wide, strong, and solid. It is wide so that it can fit subtly under most furniture legs no matter the size.
 
 Put the traps under the legs of your living room or bedroom furniture.
 
@@ -67,5 +67,5 @@ Check the traps and pour the trapped bed bugs out. It is safe to use around chil
 
 ##  **Conclusion**
 
-Like the famous nursery rhyme goes, good night and sleep tight and dont let the bed bugs bite. - You now know how to find the[bed bug trap solutions that work](https://pestpolicy.com/do-bed-bug-bombs-work/)so that you can keep your home, furniture, and beddings free from bed bugs. Now you can sleep free from the fear that [bed bugs will be nuzzling your skin](https://pestpolicy.com/can-bed-bugs-live-in-your-skin/) and feeding on your blood at night.
+Like the famous nursery rhyme goes, good night and sleep tight and dont let the bed bugs bite. - You now know how to find the[bed bug trap solutions that work](https://pestpolicy.com/do-bed-bug-bombs-work/)sothat you can keep your home, furniture, and beddings free from bed bugs. Now you can sleep free from the fear that [bed bugs will be nuzzling your skin](https://pestpolicy.com/can-bed-bugs-live-in-your-skin/)and feeding on your blood at night.
 

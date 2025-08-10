@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 
-Flea [larvae](https://pestpolicy.com/what-do-flea-larvae-eat/) are concentrated in places that pets sleep or relax like carpet fibers. Also, the carpet fibers may hinder [insecticides like foggers](https://pestpolicy.com/best-fogger-for-[fleas](https://pestpolicy.com/what-do-flea-larvae-look-like/)/) from easily penetrating and killing the larvae. **On where do flea larvae live?
+Flea [larvae](https://pestpolicy.com/what-do-flea-larvae-eat/)are concentrated in places that pets sleep or relax like carpet fibers. Also, the carpet fibers may hinder [insecticides like foggers](https://pestpolicy.com/best-fogger-for-[fleas](https://pestpolicy.com/what-do-flea-larvae-look-like/)/)from easily penetrating and killing the larvae. **On where do flea larvae live?
 
 Fleas larvae will live in those micro-habitats that are dark, with moderate temperature, and high humidity with enough flea food. ** - **So, in your home, you'll find flea larvae (and over**80% of the fleas) growing incarpet fibers. - **You'll also get fleas larvae around the pet's resting areas - including around dog houses, holstered furniture, floorboard cracks, and pet bedding. ** You may try these steam cleaners.
 
@@ -59,7 +59,7 @@ Further, fleas won't survive in a location that has poor drainage, sprinklers, a
 
 **3. Carpeting** Flea larvae (including over 50% of fleas) will burrow into the carpet fibers. - The carpet fibers will protect the bugs from the direct sunlight or desiccating air flow that may kill them. Carpets that are made to accumulate some dirt at their base will build up food for the flea larvae. The location has moderate ambient temperature and relative humidity - great for fleas.
 
-Further, the carpet offers a canopy to protect the bugs and their larvae from being [exterminated by insecticides](https://pestpolicy.com/best-flea-spray-for-house-carpets/) or also mechanical damage such as vacuuming. The carpets will also hold some organic debris - keeping the larvae food safe and hidden. Also, the bugs tend to coil themselves when they notice disturbances. **4.
+Further, the carpet offers a canopy to protect the bugs and their larvae from being [exterminated by insecticides](https://pestpolicy.com/best-flea-spray-for-house-carpets/)or also mechanical damage such as vacuuming. The carpets will also hold some organic debris - keeping the larvae food safe and hidden. Also, the bugs tend to coil themselves when they notice disturbances. **4.
 
 Other Rooms** Further, you may find the immature flea larvae around the carpeted rooms, living rooms, and bedrooms - especially areas that your pets rest. As they move around the rooms, they'll drop many eggs as they jump to the ground or off the furniture. Check the pet furniture and bedding - or near the human's bed.
 

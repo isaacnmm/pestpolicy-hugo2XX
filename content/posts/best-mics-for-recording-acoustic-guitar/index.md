@@ -14,7 +14,7 @@ tags:
 layout: post
 ---
 
-Looking for the best mics for recording [acoustic](https://pestpolicy.com/best-acoustic-guitar-for-small-hands/) guitar? Are you having problems getting high-quality sounds from your acoustic guitar?
+Looking for the best mics for recording [acoustic](https://pestpolicy.com/best-acoustic-guitar-for-small-hands/)guitar? Are you having problems getting high-quality sounds from your acoustic guitar?
 
 If your answer to this question is yes, then you need an effective microphone to help you record clear and accurate sounds. So, which are the best mics for recording acoustic guitar? Well, with the many offers in the market, it might be tasked to choose the most effective mic for your acoustic guitar. Related: 9 Best Camera for Music Videos.
 

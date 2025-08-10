@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 
-As the vibrant greens of summer begin to fade into the golden hues of autumn, [lawn](https://pestpolicy.com/fall-lawn-care-guide/) care routines shift focus from vigorous growth to preparing your turf for the dormant months ahead. One of the most frequently debated and often misunderstood aspects of fall lawn care is the final mowing height.
+As the vibrant greens of summer begin to fade into the golden hues of autumn, [lawn](https://pestpolicy.com/fall-lawn-care-guide/)care routines shift focus from vigorous growth to preparing your turf for the dormant months ahead. One of the most frequently debated and often misunderstood aspects of fall lawn care is the final mowing height.
 
 Many homeowners adhere to the "cut it short" philosophy, believing it's the best way to tuck the lawn in for winter.
 

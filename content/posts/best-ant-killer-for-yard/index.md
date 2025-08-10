@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 
-I've reviewed the [best](https://pestpolicy.com/best-ant-killer/) ant killers for your yard. You dont really realize the importance of ant killers until you want to sit in your yard and your peaceful time gets disrupted because of so many [ants](https://pestpolicy.com/best-ant-traps/) crawling around.
+I've reviewed the [best](https://pestpolicy.com/best-ant-killer/)ant killers for your yard. You dont really realize the importance of ant killers until you want to sit in your yard and your peaceful time gets disrupted because of so many [ants](https://pestpolicy.com/best-ant-traps/)crawling around.
 
 They can be quite a nuisance, and thus, it is best that you get hold of a good ant killer for your yard so that you can have some peaceful, relaxing time outdoors. There are a lot of different factors that can affect your purchase of an ant killer. It all depends on the type of budget that you have and the time on hand. Read Also: Fire Ant Killer for Reviewed.
 

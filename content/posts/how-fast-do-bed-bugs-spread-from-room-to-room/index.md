@@ -49,7 +49,7 @@ Apart from humans and pets, bed bugs like to hide on furniture, curtains, cracks
 
 Sealing of the cracks and the crevices and all the hiding places for the bed bugs. This will be a huge milestone in controlling bed bugs because that is where they hide and multiply. Vacuum the furniture, curtains, and any other hiding places where bed bugs are. Make sure to dispose of the vacuum bag in a tightly sealed bin to avoid them finding their way back into the house.
 
-[Heat treatment](https://pestpolicy.com/how-to-kill-bed-bug-eggs/) - after you have identified the infested areas a heat treatment would be very ideal to eliminate the bugs. In this case, you can either heat up the whole room at temperatures of 120 degrees Fahrenheit which kills the bed bugs. However, you need to keep turning some wares like furniture and others for effective control of bugs.
+[Heat treatment](https://pestpolicy.com/how-to-kill-bed-bug-eggs/)- after you have identified the infested areas a heat treatment would be very ideal to eliminate the bugs. In this case, you can either heat up the whole room at temperatures of 120 degrees Fahrenheit which kills the bed bugs. However, you need to keep turning some wares like furniture and others for effective control of bugs.
 
 Cold treatment could also work very well to treat bugs. Sealing mattresses with bite-proof covers.
 
@@ -63,7 +63,7 @@ They are also better skilled with the necessary equipment for the job. Related: 
 
 ##  In Summary
 
-How fast do bed bugs spread between rooms? Bed bugs [crawl very fast](https://pestpolicy.com/do-bed-bugs-jump/) and can hardly stay in one place. Its estimated they can move about 100 feet in an hour making it very easy to be in the next room within minutes. Other than moving fast, they are multiplying fast and you are only safe if you control them early enough.
+How fast do bed bugs spread between rooms? Bed bugs [crawl very fast](https://pestpolicy.com/do-bed-bugs-jump/)and can hardly stay in one place. Its estimated they can move about 100 feet in an hour making it very easy to be in the next room within minutes. Other than moving fast, they are multiplying fast and you are only safe if you control them early enough.
 
 That said and done, there are multiple options to use when controlling bed bug infestation in your house before they get out of hand.
 

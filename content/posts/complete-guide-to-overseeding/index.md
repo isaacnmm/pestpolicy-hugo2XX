@@ -115,7 +115,7 @@ Investing the time and effort into overseeding your lawn yields a multitude of b
 
 Healthier root systems developed by new seedlings also make the lawn more resilient during dry spells. * **Improved Recovery from Stress: ** A lawn with a diverse population of healthy grass plants can bounce back faster from damage caused by heavy traffic, extreme weather, or minor pest issues.
 
-* **Cost Savings: ** By maintaining a healthy, dense lawn through overseeding, you might reduce your long-term need for extensive pest/disease treatments or [complete](https://pestpolicy.com/best-grass-seed-for-overseeding/) lawn renovation.
+* **Cost Savings: ** By maintaining a healthy, dense lawn through overseeding, you might reduce your long-term need for extensive pest/disease treatments or [complete](https://pestpolicy.com/best-grass-seed-for-overseeding/)lawn renovation.
 
 ##  Final Thoughts
 

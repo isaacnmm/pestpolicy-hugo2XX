@@ -19,7 +19,7 @@ Bearded dragons are often hailed as one of the most intelligent reptiles, just b
 
 Do bearded dragons behave like mammals? Do they respond to training? It is possible to train them?
 
-This article will look at the intelligence of [**bearded dragons**](https://www.petmd. com/reptile/care/10-things-you-didnt-know-about-bearded-dragons) and answer these questions. **How smart are bearded dragons? ** *Bearded dragons may be less intelligent than some lizards, but these reptiles are equally smart.
+This article will look at the intelligence of [**bearded dragons**](https://www.petmd.com/reptile/care/10-things-you-didnt-know-about-bearded-dragons)and answer these questions. **How smart are bearded dragons? ** *Bearded dragons may be less intelligent than some lizards, but these reptiles are equally smart.
 
 * - *They can learn to solve problems and are capable of imitating other bearded lizards (an intelligent skill thought to belong to mammals of higher cranial capacity).
 
@@ -27,11 +27,11 @@ This article will look at the intelligence of [**bearded dragons**](https://www.
 
 ##  How Smart are Bearded Dragons? Research
 
-While humans may have once been the only species capable of imitation, new research has shown that some lizards are on equal footing with us in the intelligence department. - The[University of Lincoln, U. K research](https://www.lincoln. ac. uk/news/2014/09/970. asp)aimed to provide a better understanding of the intelligence of bearded dragons - through imitation testing. The bearded dragons were studied while in terrariums.
+While humans may have once been the only species capable of imitation, new research has shown that some lizards are on equal footing with us in the intelligence department. - The[University of Lincoln, U. K research](https://www.lincoln.ac.uk/news/2014/09/970.asp)aimedto provide a better understanding of the intelligence of bearded dragons - through imitation testing. The bearded dragons were studied while in terrariums.
 
 They were offered a wire door and get to the sumptuous mealworm. 1.
 
-**Group 1**- One bearded [dragon](https://pestpolicy.com/can-bearded-dragons-eat-apples/) was shown a video where another bearded dragon was opening the wire door from the left 2. **Group 2**- Another bearded dragon was shown a video where another bearded dragon was opening the wire door from the right 3. **Group 3**- Another bearded dragon was shown a video where a human being was opening the wire door 4.
+**Group 1**- One bearded [dragon](https://pestpolicy.com/can-bearded-dragons-eat-apples/)was shown a video where another bearded dragon was opening the wire door from the left 2. **Group 2**- Another bearded dragon was shown a video where another bearded dragon was opening the wire door from the right 3. **Group 3**- Another bearded dragon was shown a video where a human being was opening the wire door 4.
 
 **Control group**- Four bearded dragons didn't get any video instruction on how to open the wire door **The results and conclusion? ** 1. **Group 1 and Group 2**(shown videos of other bearded dragons opening the wire door) acted in exactly the same way and even followed the direction used in opening the door in the video. 2.
 
@@ -45,7 +45,7 @@ https://youtu.be/s0Sey8WdnjM
 
 ##  Intelligence Signs? - Recognize owners or Feeders, Feeding-time Routines
 
-Bearded Dragons are [smart](https://pestpolicy.com/roku-smart-soundbar-review/); they learn and recognize their owners or people who feed them by use of sight, smell, pleasure, or anger.
+Bearded Dragons are [smart](https://pestpolicy.com/roku-smart-soundbar-review/);they learn and recognize their owners or people who feed them by use of sight, smell, pleasure, or anger.
 
 The research showed that bearded dragons are intelligent as they can imitate other bearded dragons. - But people with Bearded Dragons pets have seen other smart things they do for a long time. - A lot of animals kept as pets learn patterns and routines. They are more intelligent than other reptiles like geckos, Gila monsters, or Komodo dragons.
 

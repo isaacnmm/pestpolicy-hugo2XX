@@ -53,7 +53,7 @@ This is the most special brush to use on a large surface, fence and drywall. Pro
 
 Wooster Brush Company has been on the frontline always to give you innovative and advanced paintbrushes and rollers. Wooster-R740-9 is one of the great innovations from this company designed to golden yellow fabrics. If you look forward to getting an excellent capacity, Wooster-R740-9 provides you that on all satin, stains, and waterproofing.
 
-With some, combined with a good frame, you can use this roller on big DIY projects or even on professional jobs - but for [painting corners](https://pestpolicy.com/best-paint-brushes-for-edging/), I recommend brushes. But, this paint is designed to resist matting and give you excellent coverage with smooth results. Additionally, the double-thick polypropylene is water-resistant and seals cracks giving you a semi-smooth surface.
+With some, combined with a good frame, you can use this roller on big DIY projects or even on professional jobs - but for [painting corners](https://pestpolicy.com/best-paint-brushes-for-edging/),I recommend brushes. But, this paint is designed to resist matting and give you excellent coverage with smooth results. Additionally, the double-thick polypropylene is water-resistant and seals cracks giving you a semi-smooth surface.
 
 If you love fast results, this is the roller to go for because of its 9-inch length and absorbent qualities, thereby hiding all your imperfections while still holding paint. They are durable and easy to clean and can be reused multiple times. Pros: - Good paint absorbent - Gives excellent coverage - Resist water and cracking Cons: - Expensive
 

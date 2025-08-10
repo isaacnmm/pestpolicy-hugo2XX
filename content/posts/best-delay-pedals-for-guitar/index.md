@@ -14,7 +14,7 @@ tags:
 layout: post
 ---
 
-What's the Best Delay Pedals for [Guitar](https://pestpolicy.com/best-bass-octave-pedals/)? Ever witnessed a hot debate among guitar players? Well, just make your opinion about the best delay pedal.
+What's the Best Delay Pedals for [Guitar](https://pestpolicy.com/best-bass-octave-pedals/)?Ever witnessed a hot debate among guitar players? Well, just make your opinion about the best delay pedal.
 
 Or make it even worse and specify whether the digital delay or analog delay is the superior one.
 

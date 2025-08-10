@@ -14,7 +14,7 @@ tags:
 layout: post
 ---
 
-Finding the [Best](https://pestpolicy.com/best-dress-shoes-for-back-pain/) [Women](https://pestpolicy.com/best-womens-running-shoes-for-plantar-fasciitis/)'s Dress Shoes for Flat Feet can be a daunting task. People with flat feet or fallen arches tend to experience overpronation (inward rolling of feet).
+Finding the [Best](https://pestpolicy.com/best-dress-shoes-for-back-pain/)[Women](https://pestpolicy.com/best-womens-running-shoes-for-plantar-fasciitis/)'s Dress Shoes for Flat Feet can be a daunting task. People with flat feet or fallen arches tend to experience overpronation (inward rolling of feet).
 
 Because of the overpronation, the flat feet become unable to absorb shock. As a result, youll place continuous stress on your feet, knees, and ankles.
 
@@ -58,7 +58,7 @@ Cons: - A customer complained that the upper leather is not of the best quality
 
 Checkout: Best Shoes for Pain On Top Of Foot
 
-###  [3. Alegria Women's Paloma Flat](https://www.amazon.com/dp/B00F8GJ9D0/?tag=p-policy-20)- Women's Dress Shoes for Flat Feet
+###  [3. Alegria Women's Paloma Flat](https://www.amazon.com/dp/B00F8GJ9D0/?tag=p-policy-20)-Women's Dress Shoes for Flat Feet
 
 Most women with flat feet have a hard time finding the best dress shoes to complete their professional and personal style. Fortunately, the Alegria Women's Paloma Flat comes with a wide range of stylish patterns and excellent features to make every womans dream of looking stylish come true.
 

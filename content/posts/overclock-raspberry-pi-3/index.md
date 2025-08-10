@@ -58,5 +58,5 @@ Read Also: [MacBook for Video Editing](https://pestpolicy.com/best-macbook-for-v
 
 ##  Conclusion
 
-Weve just outlined how to overclock your Raspberry Pi 3 its time to enjoy the power boost! However, you may find detail on [how else to configure the CPU usage](https://www.raspberrypi. org/documentation/configuration/config-txt. md).
+Weve just outlined how to overclock your Raspberry Pi 3 its time to enjoy the power boost! However, you may find detail on [how else to configure the CPU usage](https://www.raspberrypi.org/documentation/configuration/config-txt.md).
 

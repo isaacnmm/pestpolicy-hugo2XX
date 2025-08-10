@@ -24,7 +24,7 @@ A high fever is one of the earliest symptoms of leptospirosis. It is usually acc
 
 ###  2. Muscle Pain
 
-Muscle pain, particularly in the calves and lower back, is common among individuals with leptospirosis. This [symptom](https://pestpolicy.com/leptospirosis-symptoms/) may worsen over time, and muscle stiffness can also develop.
+Muscle pain, particularly in the calves and lower back, is common among individuals with leptospirosis. This [symptom](https://pestpolicy.com/leptospirosis-symptoms/)may worsen over time, and muscle stiffness can also develop.
 
 ###  3. Headache
 

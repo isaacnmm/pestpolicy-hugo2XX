@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 
-Theres a common belief that [bed bugs](https://www.researchgate. net/publication/322975297_Non-chemical_methods_of_bed_bug_control_a_case_study) can jump! Well, bed bugs are crafty creatures and youll find them anywhere in the house.
+Theres a common belief that [bed bugs](https://www.researchgate.net/publication/322975297_Non-chemical_methods_of_bed_bug_control_a_case_study)can jump! Well, bed bugs are crafty creatures and youll find them anywhere in the house.
 
 Youll find them on your bed, inside furniture, on walls and even on the celling. But do they jump from one place to another. **A short answer is No. Bed bugs cant jump. Their legs are meant for crawling rather than jumping. Their lack of wings also prevents them for flying around. However, they can crawl at relatively high speeds (about 1m per minute). ** Related: Pictures of Bed Bugs
 
@@ -43,9 +43,9 @@ Related: Can Bed Bugs Get in Your Hair?
 
 ##  **Do Bed Bugs Have Wings?**
 
-Theres a popular believe that bed bugs have wings. Some online content will tell you so but thats not actually true. If they had wings, they could already be using them to fly. But as we see them, no bed [bug](https://pestpolicy.com/bed-bug-bites-vs-mosquito-bites/) cant fly.
+Theres a popular believe that bed bugs have wings. Some online content will tell you so but thats not actually true. If they had wings, they could already be using them to fly. But as we see them, no bed [bug](https://pestpolicy.com/bed-bug-bites-vs-mosquito-bites/)cant fly.
 
-They have wing pads which only suggest that [bed](https://pestpolicy.com/bed-bug-bites-vs-other-bites/) bugs could have evolved to lose their wings. These wing pads are very tiny and cannot be used for flying. Bed bug nymphs have no wing pads and cannot also fly.
+They have wing pads which only suggest that [bed](https://pestpolicy.com/bed-bug-bites-vs-other-bites/)bugs could have evolved to lose their wings. These wing pads are very tiny and cannot be used for flying. Bed bug nymphs have no wing pads and cannot also fly.
 
 Therefore, if you have come across a flying bed bug, that could be a mistaken identity. The fact that bed bugs dont fly is perhaps a good reprieve for homeowners. You can imagine the problem bed bugs could cause if they had the ability to fly.
 

@@ -23,7 +23,7 @@ Related: Best Stain for Swingset
 
 1. **Ensure the weather is sunny** 2. **Remove everything except the wood** 3. **Clean the playset** 4. **Allow 24 hours for the playset to dry** 5. **Inspect the playset carefully and fill up any cracks** 6. **Sand where necessary** 7. **Cover the surface underneath the playset** 8.
 
-**Apply your stain or sealer starting from the top** Related: [Best Stain for Cedar Swing Set](https://pestpolicy.com/best-stain-for-cedar-swing-set/) Just a reminder, ensure all the tools or equipment needed for the project are close by and you can easily get your hands on them without much hustle.
+**Apply your stain or sealer starting from the top** Related: [Best Stain for Cedar Swing Set](https://pestpolicy.com/best-stain-for-cedar-swing-set/)Just a reminder, ensure all the tools or equipment needed for the project are close by and you can easily get your hands on them without much hustle.
 
 Ensure that you stain your playset during the sunny days so that it dries up quickly. This allows your children to embark on their play without much disruption.
 
@@ -79,7 +79,7 @@ In addition, a careful review of the playset will enhance the overall safety of 
 
 Using sandpaper, work on all those rough and pointed edges.
 
-If youre covering a bigger area consider using an electric sander to speed up your project. I recommend [BOSCH Palm Sander](https://www.amazon. com/dp/B0018Z8D64/? tag=p-policy-20).
+If youre covering a bigger area consider using an electric sander to speed up your project. I recommend [BOSCH Palm Sander](https://www.amazon.com/dp/B0018Z8D64/?tag=p-policy-20).
 
 The good thing with buying a sander is that youll use it anytime youll be doing any project with wood structures.
 
@@ -95,7 +95,7 @@ Cover yourself wear protective add-ons like gloves or eye protectors. Otherwise,
 
 Youll need to choose the best stain for your playset. I will cover that below. In the meantime, you can check out this article on the [best stain for a swing set](https://pestpolicy.com/best-stain-for-swing-set/).
 
-You can use either a [brush](https://www.amazon. com/dp/B07JHQ4L4F/? tag=p-policy-20) or a [Paint Sprayer](https://www.amazon. com/dp/B083CZ6ZQ5/? tag=p-policy-20) to do your staining project. Apply the first coat of the stain. Stain from top to bottom.
+You can use either a [brush](https://www.amazon.com/dp/B07JHQ4L4F/?tag=p-policy-20)or a [Paint Sprayer](https://www.amazon.com/dp/B083CZ6ZQ5/?tag=p-policy-20)to do your staining project. Apply the first coat of the stain. Stain from top to bottom.
 
 Brush off or wipe the drips that accumulate at the bottom to enhance the final look of the playset. Ensure that you stain every area of your playset.
 
@@ -119,7 +119,7 @@ The kind of stain that you use on your playset will determine whether youll have
 
 Oil-based stains provide a thick coating for the wood. It offers the wood prolonged protection. On the other hand, water-based stains dont offer long-term protection. With the water-based stain, youll need to stain yearly or after every two years.
 
-Check out my article on the [best stain to use on a swing set](https://pestpolicy.com/best-stain-for-swing-set/). If youre in a hurry, you can use my [top pick](https://www.amazon. com/dp/B00MDVLMGK/? tag=p-policy-20) on this article. The product is a combination of stain and sealer.
+Check out my article on the [best stain to use on a swing set](https://pestpolicy.com/best-stain-for-swing-set/).If youre in a hurry, you can use my [top pick](https://www.amazon.com/dp/B00MDVLMGK/?tag=p-policy-20)on this article. The product is a combination of stain and sealer.
 
 Before staining the playset check whether its pre-stained. This aspect helps you to know the color option to choose.
 

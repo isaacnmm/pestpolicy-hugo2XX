@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 
-House Spiders (Parasteatoda tepidariorum) popular as the American house spider or common house spider are classified under the [Parasteatoda genus](https://edis.ifas. ufl. edu/pdf/IN/IN39400. pdf). - House spiders mainly live in cosmopolitan areas and are described as synanthropic meaning they live near and in human dwellings. House spiders are largely found indoors (in the house).
+House Spiders (Parasteatoda tepidariorum) popular as the American house spider or common house spider are classified under the [Parasteatoda genus](https://edis.ifas.ufl.edu/pdf/IN/IN39400.pdf).- House spiders mainly live in cosmopolitan areas and are described as synanthropic meaning they live near and in human dwellings. House spiders are largely found indoors (in the house).
 
 Also, a spider and its webs will prove to be a nuisance in the house - which makes homeowners classify it as a challenging pest. - You mainly find house spiders in Canada and the United States but they are also in other areas worldwide. In this article, I will outline the facts, physical appearance, and behaviors of the house spiders. Let's dig in!
 
@@ -93,7 +93,7 @@ Male spiders have real height inside crawl spaces, basements, closets, under fur
 
 ##  How Dangerous Are The House Spiders?
 
-House spiders aren't dangerous humans but will cause considerable nuisance and [pain](https://pestpolicy.com/spider-bite-vs-mosquito-bite/) in case they bite - just like [the wolf spiders](https://pestpolicy.com/wolf-spiders/). So these spiders won't cause considerable health damage to humans but they may make the house or various spaces feel unwelcoming.
+House spiders aren't dangerous humans but will cause considerable nuisance and [pain](https://pestpolicy.com/spider-bite-vs-mosquito-bite/)in case they bite - just like [the wolf spiders](https://pestpolicy.com/wolf-spiders/).So these spiders won't cause considerable health damage to humans but they may make the house or various spaces feel unwelcoming.
 
 - The spiders will trigger nervousness among the family members and sleeping off the webs will also be a demanding task.
 

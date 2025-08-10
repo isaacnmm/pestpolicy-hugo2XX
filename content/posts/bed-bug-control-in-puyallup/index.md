@@ -36,7 +36,7 @@ Puyallup's mild climate can sometimes encourage indoor clutter as people store s
 
 ##  Natural Bed Bug Control Methods
 
-For those who prefer [environmentally friendly solutions](https://pestpolicy.com/does-ammonia-kill-[bed-bugs](https://pestpolicy.com/bed-bug-bites-vs-mosquito-bites/)/), several natural methods can help control [bed](https://pestpolicy.com/bed-bug-bites-vs-other-bites/) bugs: - **Heat Treatment**: Bed bugs cannot survive at high temperatures. Wash and dry bedding, clothing, and other infested items on high heat.
+For those who prefer [environmentally friendly solutions](https://pestpolicy.com/does-ammonia-kill-[bed-bugs](https://pestpolicy.com/bed-bug-bites-vs-mosquito-bites/)/),several natural methods can help control [bed](https://pestpolicy.com/bed-bug-bites-vs-other-bites/)bugs: - **Heat Treatment**: Bed bugs cannot survive at high temperatures. Wash and dry bedding, clothing, and other infested items on high heat.
 
 Steam cleaning can also be effective for furniture and carpets.
 

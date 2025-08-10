@@ -14,7 +14,7 @@ tags:
 layout: post
 ---
 
-You're ready to give your fluffy, adorable cat a bath - [or it has [fleas](https://pestpolicy.com/cat-fleas-vs-dog-fleas/)](https://pestpolicy.com/how-to-tell-if-your-[cat](https://pestpolicy.com/how-to-tell-if-your-cat-has-fleas/)-has-fleas/). You're considering using shampoo, maybe dish soap, or probably laundry detergent?
+You're ready to give your fluffy, adorable cat a bath - [or it has [fleas](https://pestpolicy.com/cat-fleas-vs-dog-fleas/)](https://pestpolicy.com/how-to-tell-if-your-[cat](https://pestpolicy.com/how-to-tell-if-your-cat-has-fleas/)-has-fleas/).You're considering using shampoo, maybe dish soap, or probably laundry detergent?
 
 Really, what can I wash my cat with?
 
@@ -78,7 +78,7 @@ If you have nothing else at hand and want to help clean off dirty cats then you 
 
 ###  5. Baking soda
 
-If your cat doesn't need to be washed but they still smell or has fleas, you can [use baking soda](https://pestpolicy.com/does-baking-soda-kill-fleas/). It will take away the bad smells and some dirt.
+If your cat doesn't need to be washed but they still smell or has fleas, you can [use baking soda](https://pestpolicy.com/does-baking-soda-kill-fleas/).It will take away the bad smells and some dirt.
 
 Baking soda will take away the bad smells and some dirt from your cat if they don't need any more than just being brushed out.
 

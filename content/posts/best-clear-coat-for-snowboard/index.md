@@ -14,9 +14,9 @@ tags:
 layout: post
 ---
 
-If you're looking for the best clear coat for a snowboard, ensure that the surface can hold [paint](https://pestpolicy.com/how-many-coats-of-paint-on-a-fiberglass-boat/) besides being clean.
+If you're looking for the best clear coat for a snowboard, ensure that the surface can hold [paint](https://pestpolicy.com/how-many-coats-of-paint-on-a-fiberglass-boat/)besides being clean.
 
-So, you'll need to first sand your board beginning with the rough grit gradually going to the fine grit to make the surface smooth. So, maybe if you've applied water-based paint plus a Krylon spray paint, you may need to consider getting a quality clear [coat](https://pestpolicy.com/how-many-coats-of-paint-on-the-ceiling/) for your snowboard. See Also: Best spray paints for graffiti.
+So, you'll need to first sand your board beginning with the rough grit gradually going to the fine grit to make the surface smooth. So, maybe if you've applied water-based paint plus a Krylon spray paint, you may need to consider getting a quality clear [coat](https://pestpolicy.com/how-many-coats-of-paint-on-the-ceiling/)for your snowboard. See Also: Best spray paints for graffiti.
 
 ##  s: Top 7 Best Clear Coat for Snowboard in 2025
 

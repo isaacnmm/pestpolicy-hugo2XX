@@ -30,7 +30,7 @@ Further, note areas that have large (irremovable) roots and roots so that youll 
 
 ###  2. Water the Soil  if land is hard and dry
 
-Now that the grassed area is clean from all obstacles which may hinder the tilling process, check whether the area is dry, hardy or wet. This is to ensure the tiller moves smoothly in the soils. This method will make it easier to eliminate grass from its roots - check the [best root tillers](https://pestpolicy.com/best-tiller-for-roots/). Once you note the area is very dry and hardy, water the ground with enough water to soften it.
+Now that the grassed area is clean from all obstacles which may hinder the tilling process, check whether the area is dry, hardy or wet. This is to ensure the tiller moves smoothly in the soils. This method will make it easier to eliminate grass from its roots - check the [best root tillers](https://pestpolicy.com/best-tiller-for-roots/).Once you note the area is very dry and hardy, water the ground with enough water to soften it.
 
 However working on a muddy ground can be a bit hard so after watering the ground wait a few minutes for the soils to dry until the soils easily breaks up. After that check if the soils texture is okay with your hands, This is to ensure the soils are not too muddy to start tilling, the soils should not be soggy but moist.
 
@@ -38,7 +38,7 @@ However working on a muddy ground can be a bit hard so after watering the ground
 
 A tiller has tines which can be destroyed by long grasses and weeds if they clog into them. To prevent this from happening cut off the long grasses and weeds to shorter. This will make it more efficient and faster while tilling. Use a mower or a sharp panga to cut them off from the area you are tilling. After that, remove the waste from the area to allow smooth movement of the tiller while tilling for best results.
 
-Check the [best tillers for](https://pestpolicy.com/best-tiller-for-subcompact-tractor/) [subcompact tractor](https://pestpolicy.com/best-tiller-for-subcompact-tractor/).
+Check the [best tillers for](https://pestpolicy.com/best-tiller-for-subcompact-tractor/)[subcompact tractor](https://pestpolicy.com/best-tiller-for-subcompact-tractor/).
 
 ###  4. Set the Tiller on the Grassed area
 

@@ -16,7 +16,7 @@ layout: post
 
 When building a deck, its crucial to learn how to sand between deck boards. You need to ensure that all boards are as smooth as possible. They must have a similar width for them to be level.
 
-If you dont do that, therell be incongruities between the boards you use. If you do this manually, the procedure of sanding between deck boards will consume time. When preparing to [build your deck](https://www.extension. iastate. edu/smallfarms/toxicity-concerns-about-raised-bed-construction-materials), these tips on how to sand between deck boards will help you produce a precisely level deck.
+If you dont do that, therell be incongruities between the boards you use. If you do this manually, the procedure of sanding between deck boards will consume time. When preparing to [build your deck](https://www.extension.iastate.edu/smallfarms/toxicity-concerns-about-raised-bed-construction-materials),these tips on how to sand between deck boards will help you produce a precisely level deck.
 
 Requirements: a T-square, level, planer, an electric sander, and sandpaper.
 

@@ -14,7 +14,7 @@ tags:
 layout: post
 ---
 
-Finding a quality record [player](https://pestpolicy.com/best-music-player-for-windows-10-free-download/) under $100 can be a challenge, but it is possible to enjoy the warm sound of vinyl without breaking the bank. Below, weve reviewed some of the best budget-friendly record players for those looking to get started in vinyl or upgrade from an older model.
+Finding a quality record [player](https://pestpolicy.com/best-music-player-for-windows-10-free-download/)under $100 can be a challenge, but it is possible to enjoy the warm sound of vinyl without breaking the bank. Below, weve reviewed some of the best budget-friendly record players for those looking to get started in vinyl or upgrade from an older model.
 
 ##  Best Record Players Under $100
 

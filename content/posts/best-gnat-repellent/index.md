@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 
-[[Gnat](https://pestpolicy.com/best-gnat-repellents/) infestation](http://ipm.ucanr. edu/PMG/PESTNOTES/pn7448. html) can be infectious, disturbing, and extremely irritating. Recently, we discussed how long gnats live?
+[[Gnat](https://pestpolicy.com/best-gnat-repellents/)infestation](http://ipm.ucanr. edu/PMG/PESTNOTES/pn7448. html) can be infectious, disturbing, and extremely irritating. Recently, we discussed how long gnats live?
 
 If you are looking for quick prevention methods to keep gnats away, commercial gnat repellents will be your best bet. But given the massive variety of gnat repellents available in the market, it can be tricky to find not only the most effective repellent but also one that suits you. Read Also: How To Get Rid of Gnats.
 
@@ -127,5 +127,5 @@ The best gnat repellents will allow you to comfortably enjoy summer days without
 
 ##  Sources:
 
-1. [Fungus Gnats Indoors NC State Extension Publications](https://content.ces. ncsu. edu/fungus-gnats-indoors) 2. [Fungus gnats UMN Extension](https://extension.umn. edu/product-and-houseplant-pests/fungus-gnats) 3. Fungus Gnats - CT Integrated Pest Management Program
+1. [Fungus Gnats Indoors NC State Extension Publications](https://content.ces.ncsu.edu/fungus-gnats-indoors)2. [Fungus gnats UMN Extension](https://extension.umn.edu/product-and-houseplant-pests/fungus-gnats)3. Fungus Gnats - CT Integrated Pest Management Program
 

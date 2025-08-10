@@ -16,7 +16,7 @@ tags:
 layout: post
 ---
 
-Transforming a bushy shrub into a [tree](https://pestpolicy.com/10-trees-to-grow-in-containers/)-like form, often called a "standard" or "tree form, " is a rewarding horticultural technique that can add elegance, structure, and a unique focal point to your garden.
+Transforming a bushy shrub into a [tree](https://pestpolicy.com/10-trees-to-grow-in-containers/)-likeform, often called a "standard" or "tree form, " is a rewarding horticultural technique that can add elegance, structure, and a unique focal point to your garden.
 
 This practice involves gradually removing lower branches to expose a single trunk or a cluster of graceful multi-stems, elevating the plant's canopy and creating a more open, architectural presence.
 

@@ -16,7 +16,7 @@ schema: |
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
-    "@type": "HowTo",
+"@type": "HowTo",
     "name": "How to Remove Oil Stains from Wall Paint",
     "description": "Step-by-step guide to removing oil stains from wall paint without damage.",
     "totalTime": "PT15M",
@@ -76,7 +76,7 @@ Before starting, confirm if your wall is painted with latex, oil-based, or speci
 
 ###  3. Prepare the Cleaning Solution
 
-- **Baking Soda**: 4 tbsp baking soda + 2 cups warm water. Apply with a soft cloth or sponge. - **White Vinegar**: 3 tbsp vinegar + 3 liters warm water. Let sit for 5 minutes for tough stains. - **Ammonia**: 1 cup ammonia + 3 cups warm water. Wear gloves and a mask. - **WD-40**: Spray directly on stain, wait 1â€“2 minutes, then wipe. - **TSP**: Â½ cup TSP + 4 cups water. Use gently to avoid paint damage.
+- **Baking Soda**: 4 tbsp baking soda + 2 cups warm water. Apply with a soft cloth or sponge. - **White Vinegar**: 3 tbsp vinegar + 3 liters warm water. Let sit for 5 minutes for tough stains. - **Ammonia**: 1 cup ammonia + 3 cups warm water. Wear gloves and a mask. - **WD-40**: Spray directly on stain, wait 1–2 minutes, then wipe. - **TSP**: Â½ cup TSP + 4 cups water. Use gently to avoid paint damage.
 
 ###  4. Clean the Stain
 
@@ -88,7 +88,7 @@ Wipe the area with soapy water to remove residue, then dry with a clean towel.
 
 ##  Best Commercial Products (Affiliate Links)
 
-- [ACT Concrete Cleaner (Eco-Friendly)](https://www.amazon. com/dp/B006G0PYFE/? tag=p-policy-20) â€“ Works on multiple surfaces. - [Woolite INSTAclean](https://www.amazon. com/dp/B06XNSBSXB/? tag=p-policy-20) â€“ Ideal for carpets and fabrics. - [Biokleen Bac-Out Enzyme Cleaner](https://www.amazon. com/dp/B0061VZQWO/? tag=p-policy-20) â€“ Plant-based, non-toxic.
+- [ACT Concrete Cleaner (Eco-Friendly)](https://www.amazon.com/dp/B006G0PYFE/?tag=p-policy-20)– Works on multiple surfaces. - [Woolite INSTAclean](https://www.amazon.com/dp/B06XNSBSXB/?tag=p-policy-20)– Ideal for carpets and fabrics. - [Biokleen Bac-Out Enzyme Cleaner](https://www.amazon.com/dp/B0061VZQWO/?tag=p-policy-20)– Plant-based, non-toxic.
 
 *Disclosure: This article contains affiliate links. As an Amazon Associate, we earn from qualifying purchases at no extra cost to you. *
 
@@ -96,7 +96,7 @@ Wipe the area with soapy water to remove residue, then dry with a clean towel.
 
 **Q: Will WD-40 damage wall paint? ** A: No, if used sparingly and wiped clean promptly.
 
-**Q: Can vinegar remove old, dried oil stains? ** A: Yes, but let it soak longer (5â€“10 minutes) before wiping.
+**Q: Can vinegar remove old, dried oil stains? ** A: Yes, but let it soak longer (5–10 minutes) before wiping.
 
 **Q: What if the paint fades? ** A: You may need to touch up the area with matching paint.
 

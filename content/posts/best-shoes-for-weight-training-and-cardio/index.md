@@ -26,11 +26,11 @@ The Reebok Nano X is a highly versatile shoe that accommodates almost all types 
 
 The outsole of Reebok Nano X features a durable rubber compound that provides traction. The tread pattern beneath the outsole prevents the wearer from slipping or falling while doing cardio or other types of workout routines.
 
-The Metasplit innovation at the forefoot allows the toes to splay naturally providing the balance needed for multi-direction movements. Thus, you can engage in [lateral movements](https://pestpolicy.com/best-shoes-for-lateral-movement/) and other types of movements with ease.
+The Metasplit innovation at the forefoot allows the toes to splay naturally providing the balance needed for multi-direction movements. Thus, you can engage in [lateral movements](https://pestpolicy.com/best-shoes-for-lateral-movement/)and other types of movements with ease.
 
 The outsole also promotes stability. Hence, the wearers foot remains grounded allowing them to do the heavy lifting without losing balance.
 
-The midsole features a compressed EVA form that provides needed cushioning during landings in [plyometrics](https://pestpolicy.com/best-shoes-for-plyometrics/) training and aerobics exercises.
+The midsole features a compressed EVA form that provides needed cushioning during landings in [plyometrics](https://pestpolicy.com/best-shoes-for-plyometrics/)training and aerobics exercises.
 
 The upper of Reebok Nano X features soft woven material thats soft and a bit stretchy to give you a sock-like fit. The upper material is also highly breathable allowing entry of air into the shoe for a comfortable cardio and weight training experience. Pros: - Most versatile cross trainer - Highly stable - Comfortable - Provides a secure lockdown - Highly durable
 
@@ -62,7 +62,7 @@ The outsole of the Nobull Trainer uses a high carbon rubber compound. This durab
 
 The outsole also facilitates easy rope climbing, thanks to the raised lateral and medial sections. The lateral sections help during descents while the medial section grips the rope while ascending.
 
-The midsole of this weight training and cardio shoe helps in shock attenuation. Its flexible and encourages the natural movement of the foot during [cardio](https://pestpolicy.com/best-shoes-for-cardio-dance/) and plyometrics. The midsole also provides unmatched steadiness during training sessions.
+The midsole of this weight training and cardio shoe helps in shock attenuation. Its flexible and encourages the natural movement of the foot during [cardio](https://pestpolicy.com/best-shoes-for-cardio-dance/)and plyometrics. The midsole also provides unmatched steadiness during training sessions.
 
 The sockliner provides extra protection to the underfoot while the anatomical insert ensures additional shock absorption.
 

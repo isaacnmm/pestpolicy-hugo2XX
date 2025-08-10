@@ -19,7 +19,7 @@ Bed bugs have natural predators which can be used as a pest control methods.
 
 Usually, commercial and DIY pest control remedies prove to be more effective than natural methods for bed bug eradication.
 
-But sometimes even the most preferred bed bug control methods may prove ineffective and you may want go for [natural bed bug eaters](https://pestpolicy.com/what-eats-[bed-bugs](https://pestpolicy.com/do-ants-kill-bed-bugs/)/). So, the question is. Do ants eat [bed](https://pestpolicy.com/are-bed-bug-eggs-hard-or-soft/) bugs?
+But sometimes even the most preferred bed bug control methods may prove ineffective and you may want go for [natural bed bug eaters](https://pestpolicy.com/what-eats-[bed-bugs](https://pestpolicy.com/do-ants-kill-bed-bugs/)/).So, the question is. Do ants eat [bed](https://pestpolicy.com/are-bed-bug-eggs-hard-or-soft/)bugs?
 
 **Short answer, YES While some ant species kill and eat bed bugs for food, most of them scavenge on carcasses of bed bugs.
 

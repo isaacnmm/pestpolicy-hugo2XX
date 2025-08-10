@@ -29,7 +29,7 @@ These pests can cause extensive damage to property and pose serious health risks
 
 ####  Prevention Tips for Federal Way Homeowners
 
-Preventing a rodent infestation is the first step in effective rodent [control](https://pestpolicy.com/rodent-control-in-bellevue/). Here are some practical tips specifically for homeowners in Federal Way: 1. **Seal Entry Points**: Inspect your homes exterior and seal any gaps or cracks in walls, windows, doors, and the foundation.
+Preventing a rodent infestation is the first step in effective rodent [control](https://pestpolicy.com/rodent-control-in-bellevue/).Here are some practical tips specifically for homeowners in Federal Way: 1. **Seal Entry Points**: Inspect your homes exterior and seal any gaps or cracks in walls, windows, doors, and the foundation.
 
 Pay special attention to areas where utility lines and pipes enter the home, as rodents can squeeze through small openings. 2.
 

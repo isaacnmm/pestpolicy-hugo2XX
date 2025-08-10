@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 
-Bed bugs/) (Cimex lectularius) are a fact of life, particularly after [states banned DDT](https://www.epa. gov/ingredients-used-pesticide-products/ddt-brief-history-and-status) for its toxicity to humans. So, are bed bugs caused by dirty homes or living quarters? Well, NO! You'll also find bed bugs in clean environs like high-end quarters and 5-star hotels. So, what causes bed bugs?
+Bed bugs/) (Cimex lectularius) are a fact of life, particularly after [states banned DDT](https://www.epa.gov/ingredients-used-pesticide-products/ddt-brief-history-and-status)for its toxicity to humans. So, are bed bugs caused by dirty homes or living quarters? Well, NO! You'll also find bed bugs in clean environs like high-end quarters and 5-star hotels. So, what causes bed bugs?
 
 The short answer is that bed bugs are caused by traveling in bed bugs and infested places or acquiring second-hand furniture and mattresses. Bed bugs will hitchhike your luggage, clothing, and legs to suck blood. They're flat-bodied and wingless it measures 5 to 7 mm. [bctt tweet="What Causes Bed Bugs? " username="@pestpolicy"]
 
@@ -39,11 +39,11 @@ But be patient as the eradication may require several treatment cycles.
 
 Besides the loss of luggage and food poisoning, most travelers worry even more about travel bugs and bed bugs! Bed bugs re-emerged and continued spreading after the banning of DDT. While traveling, you can pick up bed bugs from hotels and resorts, libraries, movie theaters, retail stores, hospitals, universities, and colleges. However, the bugs may also hitchhike your clothes either in private homes or other business premises.
 
-In fact, a recent [NPMA's case study](https://www.npmapestworld. org/default/assets/File/newsroom/magazine/2015/nov-dec_2015. pdf) reported that 75% of the respondents had an encounter with bed bugs in motels and hotels. *How to Prevent and Control Bed Bugs while Travelling* - First, inspect the hotel room todetect any signs of bed bugs. I note that for this, youll require just a good flashlight.
+In fact, a recent [NPMA's case study](https://www.npmapestworld.org/default/assets/File/newsroom/magazine/2015/nov-dec_2015.pdf)reported that 75% of the respondents had an encounter with bed bugs in motels and hotels. *How to Prevent and Control Bed Bugs while Travelling* - First, inspect the hotel room todetect any signs of bed bugs. I note that for this, youll require just a good flashlight.
 
 So, examine luggage racks, the headboard, and mattress.
 
-Check the mattress seams for signs of spots and stains change room/ hotel and notify the management. - Inspect the chairs. Sofas and behind beds headboard. This must happen first before starting unpacking. Any[bed bugs signs](https://pestpolicy.com/what-does-bed-bug-poop-look-like/)will prove enough to change room/ hotel and notify the management. - Avoid changing to a room directly above or next to the oneinfested by bed bugs.
+Check the mattress seams for signs of spots and stains change room/ hotel and notify the management. - Inspect the chairs. Sofas and behind beds headboard. This must happen first before starting unpacking. Any[bed bugs signs](https://pestpolicy.com/what-does-bed-bug-poop-look-like/)willprove enough to change room/ hotel and notify the management. - Avoid changing to a room directly above or next to the oneinfested by bed bugs.
 
 Notably, bed bugs will readily hitchhike through wall sockets, luggage, and housekeeping carts to the next room. - Next, during room entry or exit, place your luggage on the luggage racks when youre unpacking or packing. So, dont place the luggage on the rooms floor or even the bed further let the luggage be very far from the bed.
 
@@ -55,7 +55,7 @@ Notably, bed bugs will readily hitchhike through wall sockets, luggage, and hous
 
 ###  3. Dirty or Clean? - Bed Bugs Don't Care!
 
-It's actually a fact [bed bugs don't give a fish if you're dirty or clean](https://www.thoughtco. com/what-are-these-tiny-black-bugs-in-my-house-1968030). As you already know, bed bugs mainly feed blood from humans or animals. Therefore, bed bugs will remain in the house or other premises, be they clean or dirty, provided the host is available - the bed bugs will easily take their blood meal. So, don't lie to yourself.
+It's actually a fact [bed bugs don't give a fish if you're dirty or clean](https://www.thoughtco.com/what-are-these-tiny-black-bugs-in-my-house-1968030).As you already know, bed bugs mainly feed blood from humans or animals. Therefore, bed bugs will remain in the house or other premises, be they clean or dirty, provided the host is available - the bed bugs will easily take their blood meal. So, don't lie to yourself.
 
 Wealth won't help you against bed bug attacks; also, poverty isn't a ticket for getting a bed bug infestation. However, it's also a fact that poor people could lack the finances to prevent or control bed bug infestations.
 
@@ -77,5 +77,5 @@ If you're in an area with high human traffic - you should be worried since the b
 
 ##  Conclusion
 
-First, [bed bugs mainly hide](https://pestpolicy.com/where-do-bed-bugs-hide/) in closets, second-hand furniture, upholstery, bed frames, box springs, and mattresses seams. But as weve noted, bed bugs are caused by [old- furniture and second-hand mattresses](https://pestpolicy.com/best-bed-bug-mattress-encasements/), infested luggage while on international travels.
+First, [bed bugs mainly hide](https://pestpolicy.com/where-do-bed-bugs-hide/)in closets, second-hand furniture, upholstery, bed frames, box springs, and mattresses seams. But as weve noted, bed bugs are caused by [old- furniture and second-hand mattresses](https://pestpolicy.com/best-bed-bug-mattress-encasements/),infested luggage while on international travels.
 

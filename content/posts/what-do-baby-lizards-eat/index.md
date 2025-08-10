@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 
-What do [baby](https://pestpolicy.com/can-i-use-baby-shampoo-on-my-cat/) lizards eat? What do lizards feed their young ones (also know as [hatchlings](https://nhm.org/stories/tis-season-baby-lizards) )? How do they do it and how long before they can go get their food?
+What do [baby](https://pestpolicy.com/can-i-use-baby-shampoo-on-my-cat/)lizards eat? What do lizards feed their young ones (also know as [hatchlings](https://nhm.org/stories/tis-season-baby-lizards))? How do they do it and how long before they can go get their food?
 
 Well, this article piece is all about lizard baby food -just like noted that [garden lizard eats caterpillars, insects, small crickets, and some greens and fruits](https://pestpolicy.com/what-does-a-garden-lizard-eat/).
 
@@ -107,5 +107,5 @@ Do note that lizards are cold-blooded and you might not quickly notice changes i
 
 ##  Sources:
 
-1. [Lizards from Urban Areas Are More Asymmetric: Using - NCBI](https://www.ncbi. nlm. nih. gov/pmc/articles/PMC3873971/) 2. [Facts About Lizards Live Science](https://www.livescience. com/56017-lizard-facts. html)
+1. [Lizards from Urban Areas Are More Asymmetric: Using - NCBI](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3873971/)2. [Facts About Lizards Live Science](https://www.livescience.com/56017-lizard-facts.html)
 

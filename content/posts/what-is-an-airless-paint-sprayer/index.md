@@ -14,7 +14,7 @@ tags:
 layout: post
 ---
 
-An airless [paint](https://pestpolicy.com/airless-paint-sprayer-cleaning-solution/) [sprayer](https://pestpolicy.com/best-paint-sprayer-for-ceiling/) is a device used for spraying paint without the need for compressed air. It works by using a high-pressure pump to push the paint through a small nozzle, allowing it to be sprayed evenly onto surfaces.
+An airless [paint](https://pestpolicy.com/airless-paint-sprayer-cleaning-solution/)[sprayer](https://pestpolicy.com/best-paint-sprayer-for-ceiling/) is a device used for spraying paint without the need for compressed air. It works by using a high-pressure pump to push the paint through a small nozzle, allowing it to be sprayed evenly onto surfaces.
 
 Airless sprayers are commonly used for large painting projects, such as homes, fences, and commercial spaces, due to their efficiency and ability to cover large areas quickly.
 

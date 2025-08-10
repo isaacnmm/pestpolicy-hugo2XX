@@ -18,7 +18,7 @@ Spray painting metal can be a simple and effective way to refresh the appearance
 
 ##  Materials Youll Need
 
-- Spray [paint](https://pestpolicy.com/airless-paint-sprayer-cleaning-solution/) suitable for [metal](https://pestpolicy.com/best-paint-for-metal-garage-door/) surfaces - Primer for metal - Drop cloth or newspaper to protect surrounding areas - Painters tape (optional) - Sandpaper or steel wool (optional) - Gloves and a mask (for protection)
+- Spray [paint](https://pestpolicy.com/airless-paint-sprayer-cleaning-solution/)suitable for [metal](https://pestpolicy.com/best-paint-for-metal-garage-door/)surfaces - Primer for metal - Drop cloth or newspaper to protect surrounding areas - Painters tape (optional) - Sandpaper or steel wool (optional) - Gloves and a mask (for protection)
 
 ##  Steps to Spray Paint Metal
 

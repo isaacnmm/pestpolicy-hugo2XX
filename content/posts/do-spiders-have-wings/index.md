@@ -15,9 +15,9 @@ tags:
 layout: post
 ---
 
-Some spiders even exhibit ballooning behavior - but do spiders have wings? Spiders use the earths electric field as a guide [for flying across oceans](https://www.sciencenews. org/blog/wild-things/trapdoor-spiders-australia-africa) on long strands of silk without wings! ***Well, what about winged spiders? Do these exist? No, not really.
+Some spiders even exhibit ballooning behavior - but do spiders have wings? Spiders use the earths electric field as a guide [for flying across oceans](https://www.sciencenews.org/blog/wild-things/trapdoor-spiders-australia-africa)on long strands of silk without wings! ***Well, what about winged spiders? Do these exist? No, not really.
 
-There are no known species of [spider](https://pestpolicy.com/can-you-drown-a-spider/) with fully developed wings capable of powered flight in any way comparable to that of insects or birds. *** ***However there is one genus (Palystes) whose females possess wing-like projections called apomoses which cover their reproductive organs and sometimes also extend beyond them.
+There are no known species of [spider](https://pestpolicy.com/can-you-drown-a-spider/)with fully developed wings capable of powered flight in any way comparable to that of insects or birds. *** ***However there is one genus (Palystes) whose females possess wing-like projections called apomoses which cover their reproductive organs and sometimes also extend beyond them.
 
 These structures serve only as protective covers and are not used for flight. ***
 
@@ -33,7 +33,7 @@ The spider can then use this silk to trap particles in the surrounding atmospher
 
 Spiders like arboreal tarantulas are excellent jumping- known to glide from tree to tree - and they might grow glider wings over millionof years. Also, *Selenops change their whole* body into some airfoil and they'll glide for a long time. Gliding is a great way for spiders (and other arthropods) to escape from predators, and it's also a good means of transportation if they need go long distances!
 
-Some spiders can even use [changes in wind currents](https://pestpolicy.com/how-to-get-rid-of-brown-recluse-spiders/) or tree branches like stepping stones across gaps too wide for jumping.
+Some spiders can even use [changes in wind currents](https://pestpolicy.com/how-to-get-rid-of-brown-recluse-spiders/)or tree branches like stepping stones across gaps too wide for jumping.
 
 ###  How Spider Silk help in flight?
 

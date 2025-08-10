@@ -16,7 +16,7 @@ tags:
 layout: post
 ---
 
-Bed bugs are tiny insects (1/4 inch in body length) and are a nuisance to humans their bites are painful and may cause anemia. You will mainly find these bloodsuckers in residential or public premises and public places. Nevertheless, its challenging to [locate their hideouts](https://extension.psu. edu/biology-habitat-and-management-of-[bed-bugs](https://pestpolicy.com/bed-bug-bites-vs-mosquito-bites/)). So, where do bed bugs hide?
+Bed bugs are tiny insects (1/4 inch in body length) and are a nuisance to humans their bites are painful and may cause anemia. You will mainly find these bloodsuckers in residential or public premises and public places. Nevertheless, its challenging to [locate their hideouts](https://extension.psu.edu/biology-habitat-and-management-of-[bed-bugs](https://pestpolicy.com/bed-bug-bites-vs-mosquito-bites/)).So, where do bed bugs hide?
 
 *Simply put, bed bugs hide in mattress seams, wall or floor cracks, bed frames, chair joints, second-hand furniture joints, couches, bedding, clothes seams, ceiling, and clothe shelves. Often, bed bugs hide during the day and appear at night when you are asleep. *
 
@@ -110,13 +110,13 @@ Collecting basin/ jar/container- use this to put bed bugs that you have caught.
 
 ##  How to find Bed Bugs during the day
 
-You will find it difficult to bed bugs during the day. However, in case you need to find them, you will have to do the following things: 1. Put your Bedding or mattress ([and their encasements](https://pestpolicy.com/best-bed-bug-mattress-encasements/)) outside under a direct sun- you will see them move out due to heating. 2. Remove all cushions and furniture coversspraybed bugs hideouts with the bed bug killers during the day. 3.
+You will find it difficult to bed bugs during the day. However, in case you need to find them, you will have to do the following things: 1. Put your Bedding or mattress ([and their encasements](https://pestpolicy.com/best-bed-bug-mattress-encasements/))outside under a direct sun- you will see them move out due to heating. 2. Remove all cushions and furniture coversspraybed bugs hideouts with the bed bug killers during the day. 3.
 
 Knock severally the joint of Home furniture and closets to disturb their comfort. 4. Place carbon dioxide source/emitter near their suspected hideouts- bed bugs are attracted to carbon dioxide.
 
 ##  How to prevent and Control Bed bugs
 
-Bed bugs are not nice insects to have in your home. There are various measures that you may follow to prevent and control bed bugs. These include: 1. Drying mattresses and bedding under the sun severally and cleaning bedding and clothes often with hot water. But definitely, [bed bugs won't bite through your clothes](https://pestpolicy.com/can-bed-bugs-bite-through-clothing/). 2.
+Bed bugs are not nice insects to have in your home. There are various measures that you may follow to prevent and control bed bugs. These include: 1. Drying mattresses and bedding under the sun severally and cleaning bedding and clothes often with hot water. But definitely, [bed bugs won't bite through your clothes](https://pestpolicy.com/can-bed-bugs-bite-through-clothing/).2.
 
 Sealing all the cracks on the wall and floor completely and stop buying second-hand furniture.
 
@@ -126,5 +126,5 @@ Inspect your furniture regularly to check bed bugs and be aware of bed bugs in p
 
 ##  Conclusion
 
-Bed bugs can be found in both public and residential places. Maintain [good cleanliness](https://pestpolicy.com/can-bed-bugs-live-in-carpet/) to prevent and control bed bugs. In your home, you will find bed bugs in the couches, seam mattresses, wall units, bedding, ceiling, cracks on the floor and wall, joinery spaces of bed, chairs, and closets, as well as in clothes.
+Bed bugs can be found in both public and residential places. Maintain [good cleanliness](https://pestpolicy.com/can-bed-bugs-live-in-carpet/)to prevent and control bed bugs. In your home, you will find bed bugs in the couches, seam mattresses, wall units, bedding, ceiling, cracks on the floor and wall, joinery spaces of bed, chairs, and closets, as well as in clothes.
 

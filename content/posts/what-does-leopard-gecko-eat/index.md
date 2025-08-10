@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 
-A proper diet will make your [****crepuscular****](https://pestpolicy.com/are-[leopard](https://pestpolicy.com/are-leopard-geckos-nocturnal/)-geckos-nocturnal/) Leopard [Gecko](https://pestpolicy.com/do-geckos-eat-bed-bugs/) [healthy and happy every day](https://www.rspca. org. uk/adviceandwelfare/pets/other/leopardgecko). But, really, what does leopard gecko eat?
+A proper diet will make your [****crepuscular****](https://pestpolicy.com/are-[leopard](https://pestpolicy.com/are-leopard-geckos-nocturnal/)-geckos-nocturnal/)Leopard [Gecko](https://pestpolicy.com/do-geckos-eat-bed-bugs/)[healthy and happy every day](https://www.rspca.org.uk/adviceandwelfare/pets/other/leopardgecko).But, really, what does leopard gecko eat?
 
 Leopard Gecko is a small and attractive insectivorous reptile that is easier to take care of. Improper food administration may adversely affect their health. **In summary, Leopard Gecko mainly eats insects such as cockroaches, super worms (such as Zilla Reptile Food), mealworms, or crickets. Leopard Geckos can also feed on silkworms, tomato hornworms, waxworms, beetles, sowbugs, and butter worms.
 

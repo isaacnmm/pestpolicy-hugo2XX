@@ -38,7 +38,7 @@ Because this section is at the back, it's less likely to allow surface moisture 
 Use rubbing alcohol for a final wipe-down. * **Smooth Bead:** Apply a continuous, even bead. Use a caulk tool or a wet finger (wearing a glove) to smooth the caulk immediately after application for a professional finish. * **Cure Time:** Allow the caulk to cure fully according to the manufacturer's instructions before using the toilet heavily or exposing the caulk to water. This usually takes at least 24 hours.
 ---
 
-It's a common dilemma in bathroom DIY: after installing or re-setting a [toilet](https://pestpolicy.com/best-toilet-paper-for-septic/), should you run a bead of caulk around its base where it meets the floor? This seemingly simple question sparks a surprising amount of debate among plumbers, homeowners, and DIY enthusiasts. On one hand, a neatly caulked perimeter provides a clean, finished look and seals out moisture and grime.
+It's a common dilemma in bathroom DIY: after installing or re-setting a [toilet](https://pestpolicy.com/best-toilet-paper-for-septic/),should you run a bead of caulk around its base where it meets the floor? This seemingly simple question sparks a surprising amount of debate among plumbers, homeowners, and DIY enthusiasts. On one hand, a neatly caulked perimeter provides a clean, finished look and seals out moisture and grime.
 
 On the other, some argue it can hide leaks, leading to unseen damage.
 

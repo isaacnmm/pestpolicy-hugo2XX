@@ -15,9 +15,9 @@ tags:
 layout: post
 ---
 
-Its not only pet owners who have to deal with flea infestations. Each household is prone to flea attack, which means that even you might require the best indoor flea killer or [flea control treatment](https://citybugs.tamu. edu/factsheets/biting-stinging/others/ent-3001/).
+Its not only pet owners who have to deal with flea infestations. Each household is prone to flea attack, which means that even you might require the best indoor flea killer or [flea control treatment](https://citybugs.tamu.edu/factsheets/biting-stinging/others/ent-3001/).
 
-Look out for signs of a flea infestation, and take measures to control them. Flea sprays are a good option to deal with such pests. Well provide you a list of flea sprays that are the top picks for homeowners. If youve just discovered that your home is infested with [fleas](https://pestpolicy.com/best-cordless-vacuum-for-pet-hair/), you must take action before its too late.
+Look out for signs of a flea infestation, and take measures to control them. Flea sprays are a good option to deal with such pests. Well provide you a list of flea sprays that are the top picks for homeowners. If youve just discovered that your home is infested with [fleas](https://pestpolicy.com/best-cordless-vacuum-for-pet-hair/),you must take action before its too late.
 
 Related: [Flea Treatment for Cats](https://pestpolicy.com/[best](https://pestpolicy.com/best-dog-brush-for-short-hair-shedding/)-flea-treatment-for-cats/).
 
@@ -123,5 +123,5 @@ You can choose any one of these according to your preference. But remember that 
 
 ##  Sources:
 
-1. [Flea Control and Prevention Entomology](https://entomology.ca. uky. edu/ef602) 2. [Fleas Management Guidelines--UC IPM](http://ipm.ucanr. edu/PMG/PESTNOTES/pn7419. html) 3. [Flea Control - OSU Fact Sheets - Oklahoma State University](http://pods.dasnr. okstate. edu/docushare/dsweb/Get/Document-2681/VTMD-9121web. pdf)
+1. [Flea Control and Prevention Entomology](https://entomology.ca.uky.edu/ef602)2. [Fleas Management Guidelines--UC IPM](http://ipm.ucanr.edu/PMG/PESTNOTES/pn7419.html)3. [Flea Control - OSU Fact Sheets - Oklahoma State University](http://pods.dasnr.okstate.edu/docushare/dsweb/Get/Document-2681/VTMD-9121web.pdf)
 

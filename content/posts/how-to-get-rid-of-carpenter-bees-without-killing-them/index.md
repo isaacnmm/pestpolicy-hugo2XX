@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 
-Unlike bumble/honey bees, carpenter [bees](https://pestpolicy.com/compare-carpenter-bee-vs-bumblebee/) do more than just carry out pollination - they bore woods and create nests. Also, female carpenter bees may sting humans if provokes.
+Unlike bumble/honey bees, carpenter [bees](https://pestpolicy.com/compare-carpenter-bee-vs-bumblebee/)do more than just carry out pollination - they bore woods and create nests. Also, female carpenter bees may sting humans if provokes.
 
 **So, on how to get rid of carpenter bees without killing them; you can install a sacrificial piece of wood, install carpenter bee traps, use a Sweep net, adopt preventive measures like WD-40, or make some noise to scare bees away.
 

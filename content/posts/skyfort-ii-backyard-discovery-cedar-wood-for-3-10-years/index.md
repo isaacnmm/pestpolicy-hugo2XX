@@ -24,7 +24,7 @@ Hence, you might need to create a stand or short kids to reach the monkey bars. 
 
 ###  **Picnic area **
 
-Also, your kids will love the picnic area where they can have chit chats or take snacks. Also, you can put sand in the sandbox provided or additional fun. Read Also: Outdoor Playsets for Toddlers. Also, you can install a kitchen set up in the picnic area. However, the kitchen set up is not sold with the swing set and thus you can purchase the [KidKraftkitchen set up separately on Amazon](https://www.amazon. com/dp/B00592BOAO/? tag=p-policy-20).
+Also, your kids will love the picnic area where they can have chit chats or take snacks. Also, you can put sand in the sandbox provided or additional fun. Read Also: Outdoor Playsets for Toddlers. Also, you can install a kitchen set up in the picnic area. However, the kitchen set up is not sold with the swing set and thus you can purchase the [KidKraftkitchen set up separately on Amazon](https://www.amazon.com/dp/B00592BOAO/?tag=p-policy-20).
 
 The picnic table, made for 4 kids, is right below the ort where your kids can eat or chat. The picnic area for the Sky Fort II is totally shaded from direct sun and thus excellent relaxation place for your kids. From the picnic areas, you have steps leading to the play platform. The play platform is very large, looking like a treehouse, and thus provide additional fun.
 

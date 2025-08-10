@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 
-Having an ant infestation in your home or office could be problematic, especially when ants invade large colonies. Though ants are classified as a non-disease vector, ant stings are painful and often trigger allergies in people. How so you get rid of ants then? Well, the question at hand is, how much does an ant [exterminator](https://pestpolicy.com/ant-exterminator-in-bellevue/) cost?
+Having an ant infestation in your home or office could be problematic, especially when ants invade large colonies. Though ants are classified as a non-disease vector, ant stings are painful and often trigger allergies in people. How so you get rid of ants then? Well, the question at hand is, how much does an ant [exterminator](https://pestpolicy.com/ant-exterminator-in-bellevue/)cost?
 
 The direct answer would be accost range that would go to as low as $70 and as high as $1250.
 
@@ -35,7 +35,7 @@ Pest control costs are not simply random numbers that companies showcase in thei
 
 ####  i. Level of Infestation
 
-The market rule of the thumb is that large ant infestation requires more pay. This is attributed to the fact that, naturally, the expert will need more time and pest killer to deal with [ants](https://pestpolicy.com/ant-exterminator-in-seattle/). The level of pest infestation is best measured by the surface area covered and/or the number of ants found in a given square foot.
+The market rule of the thumb is that large ant infestation requires more pay. This is attributed to the fact that, naturally, the expert will need more time and pest killer to deal with [ants](https://pestpolicy.com/ant-exterminator-in-seattle/).The level of pest infestation is best measured by the surface area covered and/or the number of ants found in a given square foot.
 
 ####  ii. The Type of Ant Species
 

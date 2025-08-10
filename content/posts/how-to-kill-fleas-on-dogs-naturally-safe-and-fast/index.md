@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 
-Natural flea control methods will not leave [dangerous chemical residues](https://www.nrdc. org/sites/default/files/poisonsonpets. pdf) on your dogs fur. But, I know you might have used flea control chemicals such as NexGard, Advantage, flea collars, [flea bombs](https://pestpolicy.com/best-fogger-for-[fleas](https://pestpolicy.com/how-to-kill-flea-eggs/)/), Frontline, dog flea shampoo, etc.
+Natural flea control methods will not leave [dangerous chemical residues](https://www.nrdc.org/sites/default/files/poisonsonpets.pdf)on your dogs fur. But, I know you might have used flea control chemicals such as NexGard, Advantage, flea collars, [flea bombs](https://pestpolicy.com/best-fogger-for-[fleas](https://pestpolicy.com/how-to-kill-flea-eggs/)/),Frontline, dog flea shampoo, etc.
 
 Chemicals aside, today we discuss step by step process to control fleas on your dog naturally.
 
@@ -25,7 +25,7 @@ Chemicals aside, today we discuss step by step process to control fleas on your 
 
 To ease the scratching and itching caused by flea combs will weed out fleas of all sizes from your dogs fur. A flea comb has finely spaced teeth/ tines to physically trap and eject the flea "dirt, " fleas, larvae, and flea eggs. Luckily, the flea combing process leaves your dog well-groomed, too, and happy. Use the flea comb when your dogs fur is not tangled, thick, and extended to increase effectiveness and reduce pain.
 
-Remove the fur tangles by brushing using a regular [pet comb or brush](https://www.amazon. com/dp/B00OIOB90E/? tag=p-policy-20) as it has widely-spaced tines. Mix dish soap with hot water in a deep bucket (half full) thus, fleas wont jump out quickly. While combing, youll use the liquid to rinse your flea comb and hold the fleas combed from the dog's fur. Position white clothing or a newspaper under your bucket and dog.
+Remove the fur tangles by brushing using a regular [pet comb or brush](https://www.amazon.com/dp/B00OIOB90E/?tag=p-policy-20)as it has widely-spaced tines. Mix dish soap with hot water in a deep bucket (half full) thus, fleas wont jump out quickly. While combing, youll use the liquid to rinse your flea comb and hold the fleas combed from the dog's fur. Position white clothing or a newspaper under your bucket and dog.
 
 This will hold the flea dirt, fleas, and eggs thatll be dropping off.
 
@@ -49,7 +49,7 @@ Borax, named Sodium Tetraborate or Disodium Tetraborate, is a direct natural min
 
 Borax will kill fleas by incising the bugs exoskeleton and dehydrating their body hence killing them.
 
-Despite that, borax is great in killing flea larvae, too; it does not eliminate flea eggs on cats and dogs butcan be mixed to create a spray for yard flea spray. **Caution**: Borax containing substances must not be used near pregnant women. Further, [keep borax away from food substances](http://npic.orst. edu/factsheets/boricgen. html) and cats, leading to poisoning and breathing problems, respectively.
+Despite that, borax is great in killing flea larvae, too; it does not eliminate flea eggs on cats and dogs butcan be mixed to create a spray for yard flea spray. **Caution**: Borax containing substances must not be used near pregnant women. Further, [keep borax away from food substances](http://npic.orst.edu/factsheets/boricgen.html)and cats, leading to poisoning and breathing problems, respectively.
 
 Also, do not use borax on wet carpets, and it can discolor them and destroy their fiber.
 
@@ -57,5 +57,5 @@ Apply borax on an area that has humidity being more significant than 50 percent.
 
 Wait for about 1-2 days or longer after sprinkling the borax powder.
 
-Finally, vacuum the treated areas to remove the borax, flea, and flea debris. **Note**: Dont use borax to treat your dog. However, check these articles on [cat flea removal](https://pestpolicy.com/best-flea-treatment-for-cats/) and [dog flea removal using shampoo](https://pestpolicy.com/best-flea-shampoo-for-dogs/).
+Finally, vacuum the treated areas to remove the borax, flea, and flea debris. **Note**: Dont use borax to treat your dog. However, check these articles on [cat flea removal](https://pestpolicy.com/best-flea-treatment-for-cats/)and [dog flea removal using shampoo](https://pestpolicy.com/best-flea-shampoo-for-dogs/).
 

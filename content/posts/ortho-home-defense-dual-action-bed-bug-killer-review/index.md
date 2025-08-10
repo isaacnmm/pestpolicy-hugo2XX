@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 
-Ortho Home [Defense](https://pestpolicy.com/best-crossbow-for-self-defense/) (Dual-Action) is one of the top bed bug sprays we recommend for you. The aerosol spray insecticide is specifically designed to kill bed bugs in your indoor spaces. - Its active ingredients are Imidacloprid (0. 05%), n-Octyl bicycloheptene dicarboximide (1. 00%), and 2-dimethyl-3-(2-methylprop-1-enyl) Cyclopropanecarboxylate.
+Ortho Home [Defense](https://pestpolicy.com/best-crossbow-for-self-defense/)(Dual-Action) is one of the top bed bug sprays we recommend for you. The aerosol spray insecticide is specifically designed to kill bed bugs in your indoor spaces. - Its active ingredients are Imidacloprid (0. 05%), n-Octyl bicycloheptene dicarboximide (1. 00%), and 2-dimethyl-3-(2-methylprop-1-enyl) Cyclopropanecarboxylate.
 
 - You can use this insecticide as a spot treatment around or on your mattress seams, luggage, carpets, suitcases, or bed frames. So, let's get down to the review.
 
@@ -49,7 +49,7 @@ However, some fabrics or clothes might not be compatible with this spray, and th
 
 ###  3. Exterminates even Pesticide-Resistant Bed bugs
 
-If you're dealing with bed bugs that have developed immunity against various pesticides (as noted by [National Geographic](https://news.nationalgeographic. com/news/2013/13/130314-bedbug-insecticide-resistance-pest-science/) ), then Ortho Home Defense is an excellent solution for you. From the onset, Ortho comes out as a highly reliable manufacturer of pest control solutions.
+If you're dealing with bed bugs that have developed immunity against various pesticides (as noted by [National Geographic](https://news.nationalgeographic.com/news/2013/13/130314-bedbug-insecticide-resistance-pest-science/)), then Ortho Home Defense is an excellent solution for you. From the onset, Ortho comes out as a highly reliable manufacturer of pest control solutions.
 
 Equally, this roach spray brand will kill evenstink bugs, dust mites, and fleas.
 
@@ -71,5 +71,5 @@ Therefore, you can use bed bug spray to both protect and kill the pests.
 
 ##  #4:Ortho Home Defensevs. Other Sprays
 
-**1. Ortho Home Defense Dual-Actionvs. Harris Bed Bug Killer Review** Harris Bed Bug Killer Review **2. Ortho Home Defense Dual-Action vs. Spectracide Bug Stop** [Spectracide Bed Bug Stop Fogger](https://pestpolicy.com/spectracide-bug-stop-fogger-review-for-bed-bugs/) **3. Ortho Home Defense Dual-Action vs. Proof Bed Bug Spray** [Review of Proof Bed Bug Spray](https://pestpolicy.com/proof-bed-bug-spray-review/)
+**1. Ortho Home Defense Dual-Actionvs. Harris Bed Bug Killer Review** Harris Bed Bug Killer Review **2. Ortho Home Defense Dual-Action vs. Spectracide Bug Stop** [Spectracide Bed Bug Stop Fogger](https://pestpolicy.com/spectracide-bug-stop-fogger-review-for-bed-bugs/)**3. Ortho Home Defense Dual-Action vs. Proof Bed Bug Spray** [Review of Proof Bed Bug Spray](https://pestpolicy.com/proof-bed-bug-spray-review/)
 

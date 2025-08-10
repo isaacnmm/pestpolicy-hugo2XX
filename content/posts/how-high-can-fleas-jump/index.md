@@ -15,9 +15,9 @@ tags:
 layout: post
 ---
 
-Fact: [[Fleas](https://pestpolicy.com/how-long-can-fleas-live-without-a-host/) (Ctenocephalides felis) don't have wings](https://pestpolicy.com/do-fleas-have-wings/) and will move by jumping using their powerful legs.
+Fact: [[Fleas](https://pestpolicy.com/how-long-can-fleas-live-without-a-host/)(Ctenocephalides felis) don't have wings](https://pestpolicy.com/do-fleas-have-wings/)and will move by jumping using their powerful legs.
 
-[Fleas can only live up to 4 days](https://pestpolicy.com/how-long-can-fleas-live-without-a-host/) when removed from their hosts. So, fleas jump around looking for a blood meal or move from heat. So, *how high can fleas jump? * **Fleas can jump a maximum of ** **7 inches (18cm) vertically and 13 inches (33cm) horizontally (an average 40 - 99 times of the flea's body length) - it's only second to ** **froghopper.
+[Fleas can only live up to 4 days](https://pestpolicy.com/how-long-can-fleas-live-without-a-host/)when removed from their hosts. So, fleas jump around looking for a blood meal or move from heat. So, *how high can fleas jump? * **Fleas can jump a maximum of ** **7 inches (18cm) vertically and 13 inches (33cm) horizontally (an average 40 - 99 times of the flea's body length) - it's only second to ** **froghopper.
 
 Its hind-most pair of legs are significantly adapted in jumping.
 
@@ -25,7 +25,7 @@ Here's how to tell if you have a flea problem. **
 
 ##  How High Can Fleas Jump?
 
-The fleas's legs are long and appropriately build for jumping. The bug provides a forceful and quick jump - it wont depend on power from directly from its muscles but on the energy stored in the [resilin](https://en.wikipedia. org/wiki/Resilin) elastic protein pad. It releases the store energy fast like bow & arrow.
+The fleas's legs are long and appropriately build for jumping. The bug provides a forceful and quick jump - it wont depend on power from directly from its muscles but on the energy stored in the [resilin](https://en.wikipedia.org/wiki/Resilin)elastic protein pad. It releases the store energy fast like bow & arrow.
 
 Before the flea jump, the bug's muscles will contract to allow the deformation of its resilin pad, this allows storage of energy to be used later.
 
@@ -49,11 +49,11 @@ In addition, the fleas tarsi stand furthest to the bug's body. The flea's trocha
 
 Considering the shape and size of fleas - these flat and tiny bugs measure about 1/12 - 1/8 inches move of jump quickly and effectively over distances or between the pet's hairs. The hind legs, from its 6 legs, of these fleas, allow the bugs to jump quickly. Some fleas species will jump about 150 times its body length. Further, the record jump ever recorded in fleas was a vertical jump of 4 feet.
 
-[Without a host, fleas can survive for about 100 - 150 days](https://pestpolicy.com/how-long-can-fleas-live-without-a-host/) - however, it must remain undisturbed to avoid wasting energy moving around or jumping. When fleas attain adult ages and body, they'll be running around looking for a blood meal and later conditions necessary undertake reproduction.
+[Without a host, fleas can survive for about 100 - 150 days](https://pestpolicy.com/how-long-can-fleas-live-without-a-host/)- however, it must remain undisturbed to avoid wasting energy moving around or jumping. When fleas attain adult ages and body, they'll be running around looking for a blood meal and later conditions necessary undertake reproduction.
 
 Adult fleas lays about 5000+ eggs in its lifetime and the adult will live or about 2-3 months.
 
-As noted above, fleas won't survive for long without a blood meal or a host - in fact its just a few days. However, with the correct humidity, blood supply, and temperatures, adults fleas will live anywhere from 1-1. 5 years. Further, adults fleas will survive for long without feeding if they won't break off their [puparia](https://en.wikipedia. org/wiki/Puparium) since this would otherwise make them lose excessive energy.
+As noted above, fleas won't survive for long without a blood meal or a host - in fact its just a few days. However, with the correct humidity, blood supply, and temperatures, adults fleas will live anywhere from 1-1. 5 years. Further, adults fleas will survive for long without feeding if they won't break off their [puparia](https://en.wikipedia.org/wiki/Puparium)since this would otherwise make them lose excessive energy.
 
 ##  Can Fleas Jump Onto Beds?
 

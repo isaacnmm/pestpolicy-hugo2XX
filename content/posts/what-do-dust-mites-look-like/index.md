@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 
-Homeowners [confuse [dust](https://pestpolicy.com/do-dust-mites-bite/) mites and bed bugs](https://pestpolicy.com/bed-bugs-vs-mites/). If you suspect you are having mites infestation and cant tell what exactly they are, well, this is the right place for you. - **So, what do dust mites look like? - Dust mites are microscopic creatures and very hard to see with our bare eyes. They commonly feed on dead human and animal skin cells.
+Homeowners [confuse [dust](https://pestpolicy.com/do-dust-mites-bite/)mites and bed bugs](https://pestpolicy.com/bed-bugs-vs-mites/).If you suspect you are having mites infestation and cant tell what exactly they are, well, this is the right place for you. - **So, what do dust mites look like? - Dust mites are microscopic creatures and very hard to see with our bare eyes. They commonly feed on dead human and animal skin cells.
 
 ** - **From a microscopic view, they are tiny oval-shaped insects. They have 8 legs and they do not have wings. They are greyish-black in color with some stripes and they move from one place to another through crawling. ** Dust mites cannot be categorized as parasites because they dont sting, or bite and neither do they burrow into the human body.
 
@@ -33,7 +33,7 @@ As earlier stated dust mites mostly feed on dead skin. In your room, that is whe
 
 ##  Do Dust Mites Stay In Me?
 
-Most probably not. There is absolutely nothing to scare you about dust mites attaching to you. Dust mites dont have wings and barely move a lot. Another thing is that they also dont burrow into humans so it will also be hard for them to hang around you all the time. - Where you leave the dead skin is just where they want to be. Next time you experience some bites when in your bed, chances are that this is not a dust [mite](https://pestpolicy.com/dust-mites/) but either a bed bug or a mosquito.
+Most probably not. There is absolutely nothing to scare you about dust mites attaching to you. Dust mites dont have wings and barely move a lot. Another thing is that they also dont burrow into humans so it will also be hard for them to hang around you all the time. - Where you leave the dead skin is just where they want to be. Next time you experience some bites when in your bed, chances are that this is not a dust [mite](https://pestpolicy.com/dust-mites/)but either a bed bug or a mosquito.
 
 ##  What Are Dust Mites Eating?
 

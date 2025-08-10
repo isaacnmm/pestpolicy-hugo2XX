@@ -60,7 +60,7 @@ Taylor GS Mini tops its class when it comes to great playability - fretting will
 
 Taylor GS Mini, with pick picking and fingerpicking, this acoustic guitar is excellent for younger guitarists. Also, the guitar comes with gig bag that has straps to prevent scratches, termites and dust. Taylor GS Mini has a pretty outlook - they're also deeper, broader, and longer compared to other mini models by Taylor. It's portable but bigger to produce higher volume and better sound quality.
 
-However, Taylor GS Mini's size is adequately compact and classic to be effective for beginners or [acoustic guitarists with small hands](https://pestpolicy.com/best-acoustic-guitar-for-small-hands/) - its also amazing form composition or as a travel acoustic guitar.
+However, Taylor GS Mini's size is adequately compact and classic to be effective for beginners or [acoustic guitarists with small hands](https://pestpolicy.com/best-acoustic-guitar-for-small-hands/)- its also amazing form composition or as a travel acoustic guitar.
 
 Taylor GS Mini has an excellent build quality for rich and bolder tones while you're strumming - even at its maximum volume with the sides and back made from Sapele wood (full-sized).
 

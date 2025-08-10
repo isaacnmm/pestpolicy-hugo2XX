@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 
-When dealing with a mouse infestation, choosing the right [poison](https://pestpolicy.com/best-gopher-poison/) can make a significant difference. Below are some of the best poisons for effectively eliminating [mice](https://pestpolicy.com/how-much-is-an-exterminator-for-mice/), ensuring your home stays rodent-free.
+When dealing with a mouse infestation, choosing the right [poison](https://pestpolicy.com/best-gopher-poison/)can make a significant difference. Below are some of the best poisons for effectively eliminating [mice](https://pestpolicy.com/how-much-is-an-exterminator-for-mice/),ensuring your home stays rodent-free.
 
 ###  [1. Tomcat Mouse Killer](https://www.amazon.com/dp/B00J4LFSN4?tag=p-policy-20)
 

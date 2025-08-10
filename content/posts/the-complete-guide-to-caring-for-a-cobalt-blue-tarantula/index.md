@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 
-Keeping a tarantula is not for the weak-hearted. Only a professional enthusiast or an award-winning entomologist should have a cobalt blue tarantula in their home. Let's start by talking about [caring](https://pestpolicy.com/selecting-and-caring-for-a-live-christmas-tree/) for your cobalt blue tarantula spider. **Overview of Cobalt Blue Tarantula: ** Cobalt blue tarantulas are named after the color of their legs.
+Keeping a tarantula is not for the weak-hearted. Only a professional enthusiast or an award-winning entomologist should have a cobalt blue tarantula in their home. Let's start by talking about [caring](https://pestpolicy.com/selecting-and-caring-for-a-live-christmas-tree/)for your cobalt blue tarantula spider. **Overview of Cobalt Blue Tarantula: ** Cobalt blue tarantulas are named after the color of their legs.
 
 In comparison, their bodies and carapaces are drab, with a grayish-blue color.
 
@@ -31,11 +31,11 @@ When spiderlings attain sexual maturity, they reveal their gender. Males develop
 
 ###  **1. Feeding and Diet**
 
-A [cobalt blue tarantula](https://www.topflightdubia. com/cobalt-blue-tarantula-care) only emerges from its burrow when it's time to eat, and these spiders are formidable predators. They move fast and seize prey at the burrow's farthest margins. They pull it back to their lair and consume it alive after injecting it with poisonous venom.
+A [cobalt blue tarantula](https://www.topflightdubia.com/cobalt-blue-tarantula-care)only emerges from its burrow when it's time to eat, and these spiders are formidable predators. They move fast and seize prey at the burrow's farthest margins. They pull it back to their lair and consume it alive after injecting it with poisonous venom.
 
 **Categories of Food** Amphibians, insects such as cockroaches and crickets, mice, and other spiders are eaten by cobalt blues.
 
-Some people label their eating habits as "greedy" because they need a lot of energy to keep up with their quick growth. Whatever they eat must be smaller than their carapace and must be alive and fresh, rather than frozen or dead. Each week, they can consume up to five huge insects. - It is not a good idea to feed your tarantula insects such as crickets or[cockroaches](https://pestpolicy.com/what-animals-eat-cockroaches/)from your yard.
+Some people label their eating habits as "greedy" because they need a lot of energy to keep up with their quick growth. Whatever they eat must be smaller than their carapace and must be alive and fresh, rather than frozen or dead. Each week, they can consume up to five huge insects. - It is not a good idea to feed your tarantula insects such as crickets or[cockroaches](https://pestpolicy.com/what-animals-eat-cockroaches/)fromyour yard.
 
 To guarantee they're clear of worms or parasites, buy them from a pet food shop instead. However, there isn't much you can do if a bug slips into your spider's enclosure and starts eating it. Just make sure any leftovers are thrown away.
 
@@ -63,7 +63,7 @@ When a male is ready to reproduce, he makes a little silk sack to deposit his sp
 
 ##  **How to Safeguard the Cobalt Blue Tarantula**
 
-The best way to keep a Cobalt blue tarantula secure is to learn everything there is to know about them before obtaining one as a pet, and there is a lot to learn. - Learn as much as you can about the[animal's behavior in the wild](https://pestpolicy.com/is-wall-gecko-poisonous-if-eaten/)and in captivity. Then you will want to make sure your tarantula comes from a trustworthy breeder. Do not get one that has just been caught in the wild.
+The best way to keep a Cobalt blue tarantula secure is to learn everything there is to know about them before obtaining one as a pet, and there is a lot to learn. - Learn as much as you can about the[animal's behavior in the wild](https://pestpolicy.com/is-wall-gecko-poisonous-if-eaten/)andin captivity. Then you will want to make sure your tarantula comes from a trustworthy breeder. Do not get one that has just been caught in the wild.
 
 Then, to ensure that the tarantula's surroundings are to its liking, make sure you have a large enough glass tank with a secure top. Other pets, big or tiny, should be kept away from your tarantula.
 

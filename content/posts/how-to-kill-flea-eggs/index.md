@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 
-Let's discuss what kills flea eggs in your yard or in indoor spaces. Honestly, there aren't many things that'll kill flea eggs - they're supper hardy. [Fleas](https://pestpolicy.com/how-to-kill-fleas-on-dogs-naturally-safe-and-fast/) will jump off from the cats and dogs to lays their eggs on pet bedding or even house carpeting. Any unattended fleas eggs will hatch to a major [flea](https://pestpolicy.com/what-kills-fleas-in-the-yard-naturally/) infestation within a month.
+Let's discuss what kills flea eggs in your yard or in indoor spaces. Honestly, there aren't many things that'll kill flea eggs - they're supper hardy. [Fleas](https://pestpolicy.com/how-to-kill-fleas-on-dogs-naturally-safe-and-fast/)will jump off from the cats and dogs to lays their eggs on pet bedding or even house carpeting. Any unattended fleas eggs will hatch to a major [flea](https://pestpolicy.com/what-kills-fleas-in-the-yard-naturally/)infestation within a month.
 
 *In summary, here's how to kill flea eggs; vacuuming carpets, rugs and floors will remove the flea eggs dropped by your cats or dogs. Vacuuming will clean up flea larvae and their food (flea dirt). In addition, vacuuming makes the fleas to emerge from the insecticide-resistant cocoons - exposing them to treatment. *
 
@@ -33,7 +33,7 @@ Further, vacuum the throw rugs, beds, cushions, under furniture, and room edges.
 
 ###  2. Spray IGR Prodcuts like Frontline Plus (Has S Methoprene)
 
-Get a flea control product that has an [Insect Growth Regulator (IGR)](http://npic.orst. edu/ingred/ptype/igr. html) such as S Methoprene and pyriproxyfen that'll help kill the fleas eggs and flea larvae. Consult veterinarian first to ensure the product is safe for your pets, their bedding, and carpeting in the house. Not many product will kill and prevent flea eggs. However, you'll succeed if you prevent the flea eggs from hatching.
+Get a flea control product that has an [Insect Growth Regulator (IGR)](http://npic.orst.edu/ingred/ptype/igr.html)such as S Methoprene and pyriproxyfen that'll help kill the fleas eggs and flea larvae. Consult veterinarian first to ensure the product is safe for your pets, their bedding, and carpeting in the house. Not many product will kill and prevent flea eggs. However, you'll succeed if you prevent the flea eggs from hatching.
 
 I recommend you use Frontline Plus as it contains and IGR - S Methoprene. The S Methoprene will hinder the flea from eggs and equally prevent the fleas eggs from hatching. Therefore, this will definitely break down the flea life cycle. Frontline Plus is an excellent flea control product because it'll exterminate both adult fleas (5 percent of flea population), larvae and flea eggs.
 
@@ -49,7 +49,7 @@ Dryer heat will kill the flea eggs and larvae plus adults in your clothes, curta
 
 Ensure you add some soap in the washing soap.
 
-Fleas won't survive the heat in your dryer. The bugs will die at [temperatures that go over 35C (95F)](https://www.ncbi. nlm. nih. gov/pubmed/7288833). Further, flea larvae and fleas eggs die at temperatures over 38C (100. 4F). Despite that some of the flea eggs could still hatch at 35C, the temperature won't allow the larvae to mature.
+Fleas won't survive the heat in your dryer. The bugs will die at [temperatures that go over 35C (95F)](https://www.ncbi.nlm.nih.gov/pubmed/7288833).Further, flea larvae and fleas eggs die at temperatures over 38C (100. 4F). Despite that some of the flea eggs could still hatch at 35C, the temperature won't allow the larvae to mature.
 
 But about a third of the larvae population could still develop to spin their cocoons and molt - but all will die in their cocoon.
 
@@ -61,7 +61,7 @@ Boric acid plus the included sodium salts will kill fleas and their eggs.
 
 They'll abrade the creature's exoskeletons or act like stomach poison to kill the fleas. Further, boric acid will also kill ants, termites, and roaches. 1. Purchase boric acid that's EPA-registered. Flea larvae that'll be scavenging for a meal around the carpet will feed on the boric acid. 2. Boric acid will penetrate the carpet fibers, upholstered furniture, crevices and cracks.
 
-However, avoid using boric acid powder in the outdoor spaces as it won't be effective against fleas when it gets wet. 3. Caution: Don't apply the boric acid directly on your cats, dogs or any other pets. Also, if possible, you can use[flea collars against cats and dogs](https://pestpolicy.com/do-flea-collars-work/). 4. Pay special attention, when applying the powder, to your pet's sleeping areas including under beds or chairs.
+However, avoid using boric acid powder in the outdoor spaces as it won't be effective against fleas when it gets wet. 3. Caution: Don't apply the boric acid directly on your cats, dogs or any other pets. Also, if possible, you can use[flea collars against cats and dogs](https://pestpolicy.com/do-flea-collars-work/).4. Pay special attention, when applying the powder, to your pet's sleeping areas including under beds or chairs.
 
 But vacuum the concrete, tile or hardwood floors for best results against flea eggs.
 

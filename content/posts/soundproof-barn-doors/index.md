@@ -26,11 +26,11 @@ Read Also: Noise Cancelling Headphones Under 50
 
 Install double curtain rods and hang two thick curtains to reduce the noise going through the barn door. The curtains will form a noise barrier in its double layer. I know that single-panel doors are the ones recommended for doors but for noise-reduction ensure to use thedouble-panel curtains like theNicetown Full Shading. However, ensure that the door curtains cover the door fully - in itswidth andlength too.
 
-Also, make sure the curtains cover the door frames and any space that's left between them. https://youtu.be/vGj3HTrjNbc Read Also: Noise Cancelling Headphones Under 100.
+Also, make sure the curtains cover the door frames and any space that's left between them. https://youtu.be/vGj3HTrjNbcRead Also: Noise Cancelling Headphones Under 100.
 
 ###  2. Use Soundproof Panels
 
-Soundproof panels have enoughdensity andthickness will help block sounds and noise that might pass through the barn doors. Luckily, most homeowners find soundproof panels easy to use. You'll achieve even better [soundproofing](https://pestpolicy.com/best-soundproof-earmuffs-for-sleeping/) if you getsoundproof panels that have materials with higherweight anddensity such as Fiberglass Acoustics. The materials containmoldedglass fiber.
+Soundproof panels have enoughdensity andthickness will help block sounds and noise that might pass through the barn doors. Luckily, most homeowners find soundproof panels easy to use. You'll achieve even better [soundproofing](https://pestpolicy.com/best-soundproof-earmuffs-for-sleeping/)if you getsoundproof panels that have materials with higherweight anddensity such as Fiberglass Acoustics. The materials containmoldedglass fiber.
 
 However, get the s oundproof panels that have the correct materials. For example, some of these may barely limit the airborne noise androom echo - but it won't be effective in sound-proofing. Read Also: Noise Cancelling Headphones for Babies
 

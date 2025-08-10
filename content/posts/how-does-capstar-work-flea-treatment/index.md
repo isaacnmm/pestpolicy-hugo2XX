@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 
-If you need to keep fleas off your cats and dogs, then the [Capstar](https://pestpolicy.com/capstar-flea-tablets-for-large-dogs/) Flea Tablets is highly recommended by pet owners and vets - even when you [sleep with flea-infested dogs in your bed](https://pestpolicy.com/dog-has-[fleas](https://pestpolicy.com/capstar-flea-tablets-for-small-dogs/)-and-sleeps-in-my-bed/).
+If you need to keep fleas off your cats and dogs, then the [Capstar](https://pestpolicy.com/capstar-flea-tablets-for-large-dogs/)Flea Tablets is highly recommended by pet owners and vets - even when you [sleep with flea-infested dogs in your bed](https://pestpolicy.com/dog-has-[fleas](https://pestpolicy.com/capstar-flea-tablets-for-small-dogs/)-and-sleeps-in-my-bed/).
 
 Capstar is manufactured by a company known as Novartis which is a DIY flea killer that targets adult fleas in cats and dogs.
 

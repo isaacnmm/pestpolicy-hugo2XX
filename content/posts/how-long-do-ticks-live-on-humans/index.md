@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 
-In this article, we'll tackle this question - how long do ticks [live](https://pestpolicy.com/can-no-see-ums-live-in-my-hair/) on humans? Definitely, longer engagement with ticks could result in infections and conditions such as anemia just with flea infestations. So, in summary, various [tick](https://pestpolicy.com/ticks-diseases-index/) species will stay on humans for different numbers of hours - but this will also vary with the Host immunity and the life stage of the tick.
+In this article, we'll tackle this question - how long do ticks [live](https://pestpolicy.com/can-no-see-ums-live-in-my-hair/)on humans? Definitely, longer engagement with ticks could result in infections and conditions such as anemia just with flea infestations. So, in summary, various [tick](https://pestpolicy.com/ticks-diseases-index/)species will stay on humans for different numbers of hours - but this will also vary with the Host immunity and the life stage of the tick.
 
 However, if the ticks are in the different life stages remain undisturbed on humans, where is the amount of time that they will stay on. - Adult female ticks - 7 to 10 days - Tick nymphs - 3 to 4 days - Tick larvae - roughly 3 days Let's dig in! Read Also: Tick Collars for Dogs Reviewed
 

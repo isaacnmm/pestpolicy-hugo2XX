@@ -14,13 +14,13 @@ tags:
 layout: post
 ---
 
-**No doubt about it: ** You are one among the 31 million Americans, according to [research](https://www.ncbi. nlm. nih. gov/pmc/articles/PMC4603263/), who experience backaches in their life. You'll learn how to relieve back [pain](https://pestpolicy.com/best-shoes-for-pain-on-top-of-foot/) quickly. - But before we get into the steps you should take to relieve your back pain, let get into the WHY we should take the problem seriously.
+**No doubt about it: ** You are one among the 31 million Americans, according to [research](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4603263/),who experience backaches in their life. You'll learn how to relieve back [pain](https://pestpolicy.com/best-shoes-for-pain-on-top-of-foot/)quickly. - But before we get into the steps you should take to relieve your back pain, let get into the WHY we should take the problem seriously.
 
 - The systematic literature review by Rodrigo Dalke Meucci et al. (2025) shows that chronic low back pain increases linearly from when a person is 30 years on until when they reach age 60. Further, chronic low back pain is highly widespread among women. So, why should you care about the statistics? Isn't the pain just a simple condition that will go away within no time? **Wrong! ** Surprisingly, slight back pain sadly leads to disability.
 
-For example, low back pain is [documented](https://www.bls. gov/news. release/pdf/osh2. pdf) to causes also a third of all work-related disability cases in the United States.
+For example, low back pain is [documented](https://www.bls.gov/news.release/pdf/osh2.pdf)to causes also a third of all work-related disability cases in the United States.
 
-So, what causes back pain? Back pain and other spine-related problems result from poor posture, [poor workplace ergonomics](http://www.osha. gov/SLTC/ergonomics/index. html), or bad sleeping habits.
+So, what causes back pain? Back pain and other spine-related problems result from poor posture, [poor workplace ergonomics](http://www.osha.gov/SLTC/ergonomics/index.html),or bad sleeping habits.
 
 Read Also: Bullet Journal Notebook
 
@@ -28,7 +28,7 @@ Read Also: Bullet Journal Notebook
 
 ###  1. Core muscle exercise  The right way!
 
-Muscle tightness is one of the causes of low back pain. Notably, hip flexors, quads, and [Hamstrings](http://en.wikipedia. org/wiki/Hamstring) may shorten with time and thus cause muscle stretching and consequently lead to back pain.
+Muscle tightness is one of the causes of low back pain. Notably, hip flexors, quads, and [Hamstrings](http://en.wikipedia.org/wiki/Hamstring)may shorten with time and thus cause muscle stretching and consequently lead to back pain.
 
 During the day, your back and abs support the lower pain. However, the muscles in these regions might not stretch enough.
 
@@ -78,7 +78,7 @@ Further, depending on the comfort level, you can place a pillow under the head.
 
 It is very uncomfortable sleeping on the regular couch. Ouch!
 
-Enter [sleep recliners](https://pestpolicy.com/best-recliners-for-sleeping/) with all the comfort, and possibly massage, in the world. Mainly, sleeping in a reclined position can be beneficial for people with isthmic spondylolisthesis.
+Enter [sleep recliners](https://pestpolicy.com/best-recliners-for-sleeping/)with all the comfort, and possibly massage, in the world. Mainly, sleeping in a reclined position can be beneficial for people with isthmic spondylolisthesis.
 
 So, how does reclining help you back?
 
@@ -114,7 +114,7 @@ The transfer of nutrients and blood will reduce body stiffness and promote heali
 
 Some of the aerobic exercises you can take include swimming, biking since they can increase your heart rate.
 
-Further, walking using [ergonomic shoes](https://pestpolicy.com/best-walking-shoes-for-lower-back-pain/) also is good as it reduces the possibility of hurting your spine. **a. Elliptical trainer**.
+Further, walking using [ergonomic shoes](https://pestpolicy.com/best-walking-shoes-for-lower-back-pain/)also is good as it reduces the possibility of hurting your spine. **a. Elliptical trainer**.
 
 Much like a standard bicycle, the elliptical trainer will cut the stress on the spine as you move the legs through the oval action continuously. **b. Stationary bike**.
 

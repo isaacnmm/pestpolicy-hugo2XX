@@ -14,7 +14,7 @@ tags:
 layout: post
 ---
 
-If you're a boat owner looking to refresh the appearance of your fiberglass boat with a [new coat of paint](https://pestpolicy.com/how-to-paint-a-fiberglass-boat/), you might wonder if sanding is necessary before applying the paint. Sanding fiberglass boats before painting is a common practice, but is it really essential? **The answer is yes, sanding is necessary before painting a fiberglass boat.
+If you're a boat owner looking to refresh the appearance of your fiberglass boat with a [new coat of paint](https://pestpolicy.com/how-to-paint-a-fiberglass-boat/),you might wonder if sanding is necessary before applying the paint. Sanding fiberglass boats before painting is a common practice, but is it really essential? **The answer is yes, sanding is necessary before painting a fiberglass boat.
 
 ** Sanding serves several crucial purposes that ensure a successful and long-lasting paint job.
 
@@ -30,7 +30,7 @@ Contaminant Removal** Fiberglass boats are exposed to various environmental elem
 
 Related: [Painting Aluminium Boats](https://pestpolicy.com/how-to-paint-an-aluminum-boat/)
 
-##  **How to [Sand](https://pestpolicy.com/is-it-better-to-sand-or-strip-wood-deck/) a Fiberglass Boat Before Painting?**
+##  **How to [Sand](https://pestpolicy.com/is-it-better-to-sand-or-strip-wood-deck/)a Fiberglass Boat Before Painting?**
 
 **1. Gather the Right Tools and Materials** Before starting the sanding process, gather the necessary tools and materials, including sandpaper (various grits), sanding blocks, orbital sander (if available), safety goggles, dust mask, solvent or wax remover, and clean rags. **2. Choose the Right Grit** Select the appropriate sandpaper grit for the job.
 

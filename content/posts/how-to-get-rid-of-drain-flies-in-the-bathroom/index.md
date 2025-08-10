@@ -25,7 +25,7 @@ Hey, little friends! Have you seen tiny insects (measuring 1/8 inch in length) f
 
 ###  1.Clean the Bathroom Drains
 
-To remove the drain flies from the bathroom, begin by cleaning all the spills and the drains. I recommend using a suitable [drain cleaner](https://pestpolicy.com/best-drain-cleaner/) such as Chemical Drain or Bio-Enzymatic Drain to help destroy the organic matter in your drains. However, incorporating a brush will also assist in removing the debris in the bathroom drains.
+To remove the drain flies from the bathroom, begin by cleaning all the spills and the drains. I recommend using a suitable [drain cleaner](https://pestpolicy.com/best-drain-cleaner/)such as Chemical Drain or Bio-Enzymatic Drain to help destroy the organic matter in your drains. However, incorporating a brush will also assist in removing the debris in the bathroom drains.
 
 This process will also help in removing any soap or food debris inside the drains.
 

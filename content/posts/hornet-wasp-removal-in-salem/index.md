@@ -18,7 +18,7 @@ layout: post
 
 Hornets and wasps can pose a significant threat to homeowners in Salem, OR, especially during the warmer months.
 
-These stinging insects can build nests near homes, posing risks to residents. Effective hornet and [wasp](https://pestpolicy.com/baby-wasp/) removal requires identifying the species, locating their nests, and using safe removal techniques.
+These stinging insects can build nests near homes, posing risks to residents. Effective hornet and [wasp](https://pestpolicy.com/baby-wasp/)removal requires identifying the species, locating their nests, and using safe removal techniques.
 
 ####  Common Species in Salem
 
@@ -28,13 +28,13 @@ Salem is home to several species of hornets and wasps that can become pests: - *
 
 ####  Signs of Nesting
 
-1. **Visible Nests**: Look fornests in trees, shrubs, under eaves, in attics, or even underground. 2. **Increased Activity**: More wasp or [hornet](https://pestpolicy.com/hornet-bees-and-wasp-removal-tacoma/) sightings around your home, especially near potential nesting sites. 3. **Stinging Incidents**: If you notice more frequent stings or aggressive behavior from wasps or hornets, there may be a nearby nest.
+1. **Visible Nests**: Look fornests in trees, shrubs, under eaves, in attics, or even underground. 2. **Increased Activity**: More wasp or [hornet](https://pestpolicy.com/hornet-bees-and-wasp-removal-tacoma/)sightings around your home, especially near potential nesting sites. 3. **Stinging Incidents**: If you notice more frequent stings or aggressive behavior from wasps or hornets, there may be a nearby nest.
 
 ####  Steps for Removal
 
 1. **Identification**: Properly identify the species to determine the best removal method. Approach with caution, as some species are more aggressive than others. 2. **Locate the Nest**: Follow the flight path of the insects to locate the nest. Hornets and wasps are most active during the day. 3. **Treatment Options**: - **DIY Methods**: Use wasp freeze or aerosol insecticide sprays available at hardware stores for smaller nests.
 
-- **Professional Services**: For larger or hard-to-reach nests, consider[professional wasp control](https://pestpolicy.com/best-wasp-fogger/)services in Salem. They have the expertise and protective gear to handle stinging insects safely.
+- **Professional Services**: For larger or hard-to-reach nests, consider[professional wasp control](https://pestpolicy.com/best-wasp-fogger/)servicesin Salem. They have the expertise and protective gear to handle stinging insects safely.
 
 ####  Safety Considerations
 

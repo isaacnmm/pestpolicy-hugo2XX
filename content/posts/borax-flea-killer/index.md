@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 
-Below I've described how you can use a borax flea killer (an [old-time flea control](https://www.google. com/patents/US4617188) ). But why, Borax? Well, it's budget-friendly, effective, all-natural treatment, and safe around kids, cats, and dogs. - The Borax in your laundry room provides a safer way to control fleas - without using harsh chemicals. - Borax can help homeowners control flea problems in and around our homes - includingflea eggs? .
+Below I've described how you can use a borax flea killer (an [old-time flea control](https://www.google.com/patents/US4617188)). But why, Borax? Well, it's budget-friendly, effective, all-natural treatment, and safe around kids, cats, and dogs. - The Borax in your laundry room provides a safer way to control fleas - without using harsh chemicals. - Borax can help homeowners control flea problems in and around our homes - includingflea eggs? .
 
 Let's find out!
 
@@ -49,7 +49,7 @@ This product will also kill fleas on wall cracks, under carpets, and on your bed
 
 * Ensure that you reach and evident fleas from their hideouts such as under carpets, in cracks and crevices. Borax for fleas?
 
-[99% PURE BORIC ACID](https://www.amazon. com/dp/B015OUPN4S/? tag=p-policy-20) - 99% Pure Boric Acid contains Acidum boricum, orthoboric acid, boracic acid, hydrogen borate, and boric acid. Therefore, you can use this neutron absorber, flame retardant, flea control insecticide, or antiseptic. Read Also: Flea Eggs Vs. Dandruff. **Step 2: Pour Borax Powder** Treat your dogs play area thoroughly with various flea treatments.
+[99% PURE BORIC ACID](https://www.amazon.com/dp/B015OUPN4S/?tag=p-policy-20)- 99% Pure Boric Acid contains Acidum boricum, orthoboric acid, boracic acid, hydrogen borate, and boric acid. Therefore, you can use this neutron absorber, flame retardant, flea control insecticide, or antiseptic. Read Also: Flea Eggs Vs. Dandruff. **Step 2: Pour Borax Powder** Treat your dogs play area thoroughly with various flea treatments.
 
 Target the borax flea treatment to the places where your dog frequents.
 
@@ -73,7 +73,7 @@ Definitely, you must vacuum the carpet and floors thoroughly after treating with
 
 Therefore, you can use this neutron absorber, flame retardant, flea control insecticide (and Waterbugs or Palmetto bugs), or antiseptic.
 
-You can use 99% Pure Boric Acid in crawl places, attic areas, wall voids, and plumbing chase to control the fleas, larvae, and eggs. Further, you can treat fleas under electronic appliances, in ceilings, inside clothing closets, and near the [best drain cleaners](https://pestpolicy.com/best-drain-cleaner//). Luckily, you can use it in a combination of flea killers or as a standalone flea treatment solution.
+You can use 99% Pure Boric Acid in crawl places, attic areas, wall voids, and plumbing chase to control the fleas, larvae, and eggs. Further, you can treat fleas under electronic appliances, in ceilings, inside clothing closets, and near the [best drain cleaners](https://pestpolicy.com/best-drain-cleaner//).Luckily, you can use it in a combination of flea killers or as a standalone flea treatment solution.
 
 It's an excellent DIY natural flea control method.
 
@@ -107,7 +107,7 @@ The larvae feed on the contaminated food (mainly droppings by adult fleas) and g
 
 ##  **How to use Borax for fleas in Yard & Lawn**
 
-What youll require to control fleas in your lawn: **Borax powder, salt, sprinklers or water hose, and diatomaceous earth. But you can also use the** Best Flea Spray for Yard. **Precautions: ** Wear [gloves](https://www.amazon. com/dp/B01MYMRZEI/? tag=p-policy-20) and cover your face using a dust protector. The borax powder can cause significant throat and skin irritation if you do not take safety precautions.
+What youll require to control fleas in your lawn: **Borax powder, salt, sprinklers or water hose, and diatomaceous earth. But you can also use the** Best Flea Spray for Yard. **Precautions: ** Wear [gloves](https://www.amazon.com/dp/B01MYMRZEI/?tag=p-policy-20)and cover your face using a dust protector. The borax powder can cause significant throat and skin irritation if you do not take safety precautions.
 
 First: Clear your Lawn or Yard - Remove any obstacles such as containers and movable furniture. This will make it easier to apply the Borax on your lawn. **Step 1: Choose a Dry Day and week** Borax will be useful in treating fleas when there are low moisture levels in your garden. Therefore, treat your yard when there is no rain or any rain forecast in that week. Also, turn off your water sprinkler system.
 
@@ -117,13 +117,13 @@ First: Clear your Lawn or Yard - Remove any obstacles such as containers and mov
 
 The time allowance will allow the Borax to dehydrate the fleas, thus killing them. **Step 4: Spread the Borax ** Use a tool such as a rake to spread the Borax on the yard to ensure that the powder gets to all the plants and grass. To avoid poisoning and contamination, ensure that no human being or animal steps in the yard for about 2-3 days. Note that if your pets ingest the borax mixture, they might get poisoned.
 
-**Step 5: Water the Yard** After 2-3 days, water the yard to wash away the borax moisture. Check whether there are signs of live fleas, and if you find any, repeat the treating process. Always ensure to repeat the process once after 15 days to make sure the [fleas and their eggs](https://pestpolicy.com/what-do-flea-eggs-look-like/) are all killed.
+**Step 5: Water the Yard** After 2-3 days, water the yard to wash away the borax moisture. Check whether there are signs of live fleas, and if you find any, repeat the treating process. Always ensure to repeat the process once after 15 days to make sure the [fleas and their eggs](https://pestpolicy.com/what-do-flea-eggs-look-like/)are all killed.
 
 In addition to treating your yard, you will need to treat your house using the best fogger for fleas to control the fleas from residence from inside and outside. You can find Borax in an online store or the physical grocery store, particularly in the detergent section.
 
 ##  **Borax for fleas on hardwood floors**
 
-Is it possible to use Borax for fleas to exterminate hardwood floors? Like you can use Borax to treat your lawns, it can also be applied on your hardwood floors. **Step 1: ** Clear the furniture and carpets and vacuum the whole floor space. The process will help eject all the [fleas that could be hiding](https://pestpolicy.com/where-do-fleas-hide/) under the table and carpets. Also, vacuuming will eject flea larvae from their cocoons.
+Is it possible to use Borax for fleas to exterminate hardwood floors? Like you can use Borax to treat your lawns, it can also be applied on your hardwood floors. **Step 1: ** Clear the furniture and carpets and vacuum the whole floor space. The process will help eject all the [fleas that could be hiding](https://pestpolicy.com/where-do-fleas-hide/)under the table and carpets. Also, vacuuming will eject flea larvae from their cocoons.
 
 **Step 2: ** Sprinkle the Borax for fleas powder on the hardwood floors in your residence. Further, ensure to sprinkle the powder on furniture and the carpet. **Step 3: ** Spread the borax powder in the hardwood floors to ensure it reaches all the cracks and crevices. **Step 4: ** Leave the room with your pets for 6-10 hours to allow the borax powder to work on killing the fleas and their larvae.
 
@@ -135,7 +135,7 @@ Borax (Na 2 B 4 O 7 10H 2 O) ( **disodium tetraborate, ** **sodium tetraborate, 
 
 Borax is an active ingredient in detergent soaps and toothpaste and can help reduce flea infestations.
 
-As a homemade pesticide, Borax is mixed with sugar to kill fleas, roaches, and ants. You can also check [borax products on Amazon](https://www.amazon. com/s/ref=as_li_ss_tl? url=search-alias=aps&field-keywords=borax&linkCode=ll2&tag=p-policy-20&linkId=1083df3cf5b1e6bda40b5c99ad80c454) and **eliminate the whole flea life cycle**: eggs, larvae, and adults.
+As a homemade pesticide, Borax is mixed with sugar to kill fleas, roaches, and ants. You can also check [borax products on Amazon](https://www.amazon.com/s/ref=as_li_ss_tl?url=search-alias=aps&field-keywords=borax&linkCode=ll2&tag=p-policy-20&linkId=1083df3cf5b1e6bda40b5c99ad80c454)and **eliminate the whole flea life cycle**: eggs, larvae, and adults.
 
 In addition to usingBorax ** on fleas** control, you can also use them on other bugs like cockroaches and moths.
 
@@ -177,7 +177,7 @@ It is quick and tough on stains and dirt without the need to use too much effort
 
 The borax alternative for killing flea naturally is Diatomaceous Earth. Diatomaceous Earth (DE) has razor-sharp edges, which cut the fleas outs shells and absorb their body fluid. Diatomaceous earth remains the sea and wetland algae, particularly a type of hard-shelled phytoplankton or plankton. Similar to Borax, DE is mined from underground, and it is a natural pest control method. Later, the DE powder is crushed into an excellent powder.
 
-Equally, DE is considered a safe [flea prevention](https://pestpolicy.com/can-cats-get-fleas-in-the-winter/) alternative to Borax. If you purchase DE that is labeled food-grade, you can use it to deworm humans and animals. It will take DE about 24-72 hours to kill the fleas in your home. The DE powder will also destroy any other fleas that will emerge from their cocoons within that time.
+Equally, DE is considered a safe [flea prevention](https://pestpolicy.com/can-cats-get-fleas-in-the-winter/)alternative to Borax. If you purchase DE that is labeled food-grade, you can use it to deworm humans and animals. It will take DE about 24-72 hours to kill the fleas in your home. The DE powder will also destroy any other fleas that will emerge from their cocoons within that time.
 
 ##  **Finally:****How To Use Boric Acid To Kill Fleas in Carpet**
 

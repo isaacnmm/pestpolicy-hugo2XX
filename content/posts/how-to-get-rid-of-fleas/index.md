@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 
-The few [fleas](https://pets.webmd. com/spot-fleas) you see on your dog or cat only make up 5 percent of the total [flea](https://pestpolicy.com/getting-rid-of-fleas-in-the-carpet/) population in your home. There is a whole bunch of them hiding on your pets bed, carpet, furniture, and even in your own bed. Here are some great methods on how to get rid of [fleas](https://pestpolicy.com/how-to-get-rid-of-flea-eggs-on-cats/) fast.
+The few [fleas](https://pets.webmd.com/spot-fleas)you see on your dog or cat only make up 5 percent of the total [flea](https://pestpolicy.com/getting-rid-of-fleas-in-the-carpet/)population in your home. There is a whole bunch of them hiding on your pets bed, carpet, furniture, and even in your own bed. Here are some great methods on how to get rid of [fleas](https://pestpolicy.com/how-to-get-rid-of-flea-eggs-on-cats/)fast.
 
 Beneficial nematodes are highly effective in getting rid of fleas at home and in the yard. Unlike chemical treatments, the good news is that nematodes are completely safe for animals, pets, people, and plants.
 
@@ -59,7 +59,7 @@ Its also an effective treatment for bed bugs, mites, lice, ants, roaches, aphids
 
 If using a flea bomb or spray is not an option, consider a more natural flea treatment like salt or borax. Borax or salt are some of the best natural and cost-effective home treatments for fleas. Also known as sodium borate, Borax is highly toxic to fleas and other bugs when inhaled or ingested. It works by dehydrating the bugs, larvae, and eggs, resulting in their ultimate death.
 
-Salt, on the other hand, drains moisture from the bugs and their larvae, dehydrating and killing them in the process. When used together, a mixture of borax and salt will wipe out a full-blown flea infestation in a matter of days on your [carpets](https://www.wikihow. com/Get-Rid-of-Fleas-in-Carpets).
+Salt, on the other hand, drains moisture from the bugs and their larvae, dehydrating and killing them in the process. When used together, a mixture of borax and salt will wipe out a full-blown flea infestation in a matter of days on your [carpets](https://www.wikihow.com/Get-Rid-of-Fleas-in-Carpets).
 
 ###  **How to Use Borax/Salt to Eliminate Fleas**
 
@@ -67,7 +67,7 @@ Salt, on the other hand, drains moisture from the bugs and their larvae, dehydra
 
 ##  5. How to Get Rid of Fleason Dogs -Flea Shampoo
 
-Bathing your dog or cat with flea shampoo regularly ( [flea control regiment for dogs](https://www.petmd. com/dog/parasites/evr_dg_10_ways_to_stop_fleas_from_biting_your_dog) ) using a flea shampoo is one way to keep these blood-sucking creatures off your pets. Flea shampoos contain powerful ingredients like Pyrethrin, Methoprene, and Piperonyl Butoxide, which kill adult fleas, larvae, and eggs.
+Bathing your dog or cat with flea shampoo regularly ( [flea control regiment for dogs](https://www.petmd.com/dog/parasites/evr_dg_10_ways_to_stop_fleas_from_biting_your_dog)) using a flea shampoo is one way to keep these blood-sucking creatures off your pets. Flea shampoos contain powerful ingredients like Pyrethrin, Methoprene, and Piperonyl Butoxide, which kill adult fleas, larvae, and eggs.
 
 Flea shampooing your dog will kill fleas on contact and can be used as preventative flea treatment.
 
@@ -91,7 +91,7 @@ Check the flea collars for your cats. Some of the best flea collars can offer up
 
 ##  7. Nematodes for Fleas Control
 
-If your yard is infested with fleas, you might want to try beneficial nematodes to get rid of outdoor fleas quickly. Unlike other flea treatment methods, beneficial nematodes eradicate [fleas while they are still in the soil as larvae](https://pestpolicy.com/what-do-flea-larvae-look-like/) and pupae. Basically, they stop the problem before it even starts.
+If your yard is infested with fleas, you might want to try beneficial nematodes to get rid of outdoor fleas quickly. Unlike other flea treatment methods, beneficial nematodes eradicate [fleas while they are still in the soil as larvae](https://pestpolicy.com/what-do-flea-larvae-look-like/)and pupae. Basically, they stop the problem before it even starts.
 
 Beneficial nematodes are microscopic organisms that feed on decaying matter and tiny garden insects like fleas.
 

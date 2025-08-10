@@ -24,7 +24,7 @@ For explorers and campers, you won't want to risk getting infections and disease
 
 ###  **1. Portable Water Filters**
 
-When going camping or out of the house, [portable water purifiers](https://upurifywater.com/best-portable-water-purifier/) will be great to filter and purify water. These mobile or handheld filters are compact, lightweight, and easy to use. Filters will remove the contaminant and dangerous chemicals from the drinking water to leave it in a crystal clear, pure, and transparent form. Also, brush or clean the filters to get a longer usage life.
+When going camping or out of the house, [portable water purifiers](https://upurifywater.com/best-portable-water-purifier/)will be great to filter and purify water. These mobile or handheld filters are compact, lightweight, and easy to use. Filters will remove the contaminant and dangerous chemicals from the drinking water to leave it in a crystal clear, pure, and transparent form. Also, brush or clean the filters to get a longer usage life.
 
 The purifies will work great for water from springs, lakes, lagoons, and rivers - equally, the cleanses are cheap and can allow you to live a minimalist lifestyle in the cabin or camp. - For camping or explorer missions that are taking you to develop nations, the water may also be contaminated with drainage, and sewage - purifiers are great - like[reverse osmosis system](https://pestpolicy.com/best-reverse-osmosis-systems/).
 

@@ -25,7 +25,7 @@ This guide will walk you through the step-by-step process of performing these ac
 
 ##  Why Test Your Soil pH?
 
-Understanding your soil's pH is foundational to successful [gardening](https://pestpolicy.com/breaking-up-clay-soil/). It's not merely a scientific curiosity; it's a critical factor that directly impacts nutrient availability. Most plants, including a wide range of vegetables, flowers, and turfgrasses, prefer a slightly acidic to neutral [soil](https://pestpolicy.com/how-to-correct-soil-ph-in-your-yard/) pH, typically ranging from 6. 0 to 7.
+Understanding your soil's pH is foundational to successful [gardening](https://pestpolicy.com/breaking-up-clay-soil/).It's not merely a scientific curiosity; it's a critical factor that directly impacts nutrient availability. Most plants, including a wide range of vegetables, flowers, and turfgrasses, prefer a slightly acidic to neutral [soil](https://pestpolicy.com/how-to-correct-soil-ph-in-your-yard/)pH, typically ranging from 6. 0 to 7.
 
 0.
 

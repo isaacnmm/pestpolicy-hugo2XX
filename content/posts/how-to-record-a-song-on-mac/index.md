@@ -14,7 +14,7 @@ tags:
 layout: post
 ---
 
-Below I outline how to record a song on [[mac](https://pestpolicy.com/best-mac-for-music-production/) for music production](https://pestpolicy.com/best-mac-for-music-production/). Recording music outside of a studio is much easier compared to years before since computers come with recording software and inbuilt microphones.
+Below I outline how to record a song on [[mac](https://pestpolicy.com/best-mac-for-music-production/)for music production](https://pestpolicy.com/best-mac-for-music-production/).Recording music outside of a studio is much easier compared to years before since computers come with recording software and inbuilt microphones.
 
 Notably, all current Apple Macs computers will have inbuilt cameras and microphones - you'll love GarageBand - their pre-installed sound recording on Macs. Therefore, it'll be possible to record music on the basic updated Macs - record your sound easily with the GarageBand software. Read Also: Best Earbuds Under $50
 
@@ -22,7 +22,7 @@ Notably, all current Apple Macs computers will have inbuilt cameras and micropho
 
 ###  Step 1: Launch**GarageBand & Start a New Recording Project**
 
-Launch the [GarageBand software](https://mediacommons.psu. edu/2017/04/30/starting-a-new-podcast-project-in-garageband/) and start the new recording project. To do this, click on the icon at its dock (bottom of your Mac's screen) and see the GarageBand's at Mac's application menu. After running the program, it'll bring a dialogue box containing a number of options.
+Launch the [GarageBand software](https://mediacommons.psu.edu/2017/04/30/starting-a-new-podcast-project-in-garageband/)and start the new recording project. To do this, click on the icon at its dock (bottom of your Mac's screen) and see the GarageBand's at Mac's application menu. After running the program, it'll bring a dialogue box containing a number of options.
 
 So, hit the button reading "Create the New Podcast Episode, " that'll open a new template optimized to record the human voice - but will also record all other sounds. Scroll to its Podcast template - avoid double-clicking this may make you skip over selecting the microphone for live recording. For starters, GarageBand is music recording software created by Apple for sound mixing and recording.
 

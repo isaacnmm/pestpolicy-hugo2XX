@@ -17,7 +17,7 @@ layout: post
 
 Pastry moths, well known by the name Indian meal moths, are cumbersome insects that feed on dry food stored in shelves/pantries. They reproduce in a couple of weeks [creating disastrous colonies](https://pestpolicy.com/are-[pantry](https://pestpolicy.com/are-pantry-bugs-harmful-if-eaten/)-bugs-harmful-if-eaten/).
 
-**So, on how to get [rid](https://pestpolicy.com/how-to-get-rid-of-brown-recluse-spiders/) of pantry moths; remove/clear everything from your pantry, wipe the shelves with a mixture of warm water, vinegar & peppermint oil, or dispose of non-airtight storage cans.
+**So, on how to get [rid](https://pestpolicy.com/how-to-get-rid-of-brown-recluse-spiders/)of pantry moths; remove/clear everything from your pantry, wipe the shelves with a mixture of warm water, vinegar & peppermint oil, or dispose of non-airtight storage cans.
 
 ** - **Remove and clean shelf liners, scrub pantry with soap and hot water, dry pantry & washed storage containers thoroughly, and vacuum your pantry sufficiently before disinfecting the surface with vinegar.
 
@@ -97,7 +97,7 @@ Also, larvae may be left in the containers upon which they mature and become adu
 
 Any contaminated or moth-infested food should be discarded or thrown away. The food may include either recently opened dry food or moth-infested dry food. Its difficult to observe moths eggs with naked eyes. - Therefore, you need to get rid of the entire container as soon as you notice a single moth. - Alternatively, you can opt to store the infested food in a freezer for 7 days.
 
-Then, sieve the dry food before cooking low temperature inactivates [the live moths](https://pestpolicy.com/how-long-do-pantry-bugs-live/) and kills their egg/larvae. For easier identification, you will notice tiny holes on the packaging container/sack that you never saw previously.
+Then, sieve the dry food before cooking low temperature inactivates [the live moths](https://pestpolicy.com/how-long-do-pantry-bugs-live/)and kills their egg/larvae. For easier identification, you will notice tiny holes on the packaging container/sack that you never saw previously.
 
 ##  What are Signs of Pantry Moths Infestation in Your Place?
 

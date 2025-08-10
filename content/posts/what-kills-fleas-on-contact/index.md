@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 
-The question is; what kills [fleas](https://pestpolicy.com/how-to-kill-flea-eggs/) on contact? Will the remedy be safe for me and my pets? What product will [tackle the [flea](https://pestpolicy.com/how-to-kill-fleas-on-dogs-naturally-safe-and-fast/) infestation effectively](https://pestpolicy.com/how-to-get-rid-of-fleas/)?
+The question is; what kills [fleas](https://pestpolicy.com/how-to-kill-flea-eggs/)on contact? Will the remedy be safe for me and my pets? What product will [tackle the [flea](https://pestpolicy.com/how-to-kill-fleas-on-dogs-naturally-safe-and-fast/)infestation effectively](https://pestpolicy.com/how-to-get-rid-of-fleas/)?
 
 In this article, I've detailed the answer to this question. There are many flea-killing products like medicated drops, shampoos, repellents, and sprays - but they take time to work. **But what kills fleas on contact? Well, rubbing alcohol (isopropyl alcohol) will kill adult fleas on contact - it's best applied on flea-infested bedding or yard.
 
@@ -35,11 +35,11 @@ Avoid pouring the rubbing alcohol on the cat's or dog's skin in an effort to exa
 
 However, it is critical to realize that some commercial flea killers also have a little percentage of alcohol. Therefore, over-spraying with such alcohol- containing products may lead to pet poisoning too.
 
-In addition, ingesting the rubbing alcohol could also be toxic to the cat or dog. You'll not the poisoning within 1/2 an hour after ingesting - under5take emergency treatment to avoid fatal outcomes. The [ASPCA](https://www.aspcapro. org/resource/top-10-animal-toxins-2017) outlines that from 2016, accidental swallowing of cleaning products ranked top 10 among the pet toxins reported.
+In addition, ingesting the rubbing alcohol could also be toxic to the cat or dog. You'll not the poisoning within 1/2 an hour after ingesting - under5take emergency treatment to avoid fatal outcomes. The [ASPCA](https://www.aspcapro.org/resource/top-10-animal-toxins-2017)outlines that from 2016, accidental swallowing of cleaning products ranked top 10 among the pet toxins reported.
 
 But how would you know that the cat or dog (pet) ingested rubbing alcohol?
 
-- Stumbling - Shaking - Shortness of Breath - Diarrhea - Vomiting - Disorientation Therefore, if your pet has any or most of these signs, it's highly likely they've ingested rubbing alcohol, and so you should contact your veterinarian or [APSCA](https://www.aspca. org/pet-care/animal-poison-control) for an emergency pet assessment and treatment.
+- Stumbling - Shaking - Shortness of Breath - Diarrhea - Vomiting - Disorientation Therefore, if your pet has any or most of these signs, it's highly likely they've ingested rubbing alcohol, and so you should contact your veterinarian or [APSCA](https://www.aspca.org/pet-care/animal-poison-control)for an emergency pet assessment and treatment.
 
 ##  Danger 2: Pure Rubbing Alcohol is Very flammable
 
@@ -59,7 +59,7 @@ First, most pet parents consider dish soap for fleas control as its readily avai
 
 Further, washing pets with dish soap may be less effective as you'll require massive pet scrubbing using a flea comb. Besides, you must read the flea-shampoo usage instructions. - Remember don't use do shampoomust neverbe used in washing the cats while you must also avoid using a shampoo meant for adult pets on puppies and kittens.
 
-So, ensure to talk to the pet veterinarian while considering using the flea-treatment products available online or on Amazon - use [age-appropriate flea killers](https://www.aspcapro. org/resource/getting-rid-fleas-kittens-and-puppies). Use the recommended treatment since over-treatment may be toxic.
+So, ensure to talk to the pet veterinarian while considering using the flea-treatment products available online or on Amazon - use [age-appropriate flea killers](https://www.aspcapro.org/resource/getting-rid-fleas-kittens-and-puppies).Use the recommended treatment since over-treatment may be toxic.
 
 Finally, combing the pet's hair or fur helps remove dead skin and adult fleas for better health. Comb keenly around the pet's backside, belly. , and neck as these are areas that fleas gather and hide.
 
@@ -73,7 +73,7 @@ But, do they really work?
 
 How effective are the flea traps? Well, flea traps will attract and help reduce massive flea infestations but the fleas may still move jump onto another host like dogs or cats. The veterinarians will recommend pet-appropriate flea killers for your cat or dog.
 
-For instance, some of the insecticides might not be appropriate ( [causing adverse effects](https://www.fda. gov/animal-veterinary/animal-health-literacy/fact-sheet-pet-owners-and-veterinarians-about-potential-adverse-events-associated-isoxazoline-flea) ) on the health of pregnant animals, or small dogs.
+For instance, some of the insecticides might not be appropriate ( [causing adverse effects](https://www.fda.gov/animal-veterinary/animal-health-literacy/fact-sheet-pet-owners-and-veterinarians-about-potential-adverse-events-associated-isoxazoline-flea)) on the health of pregnant animals, or small dogs.
 
 Re-application within approved intervals will work great. Ensure to read the product instructions particularly of the isoxazoline class as they may cause neurological reactions and seizures. Some of the products in this class are Revolution Plus, Simparica, Nexgard, Credelio, and Bravecto.
 

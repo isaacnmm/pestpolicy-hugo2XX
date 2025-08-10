@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 
-Drying fabric or clothes at high temperatures is often prescribed to homeowners killing bugs such as bed bugs. Butdoes the dryer kill [fleas](https://pestpolicy.com/how-long-does-it-take-for-steam-to-kill-fleas/)? - **Well, in summary, YES, the high temperatures in a dryer do [kill](https://pestpolicy.com/how-to-kill-flea-eggs/) fleas plus all their babies including eggs and flea larvae on your clothes, curtains, and bedding.
+Drying fabric or clothes at high temperatures is often prescribed to homeowners killing bugs such as bed bugs. Butdoes the dryer kill [fleas](https://pestpolicy.com/how-long-does-it-take-for-steam-to-kill-fleas/)?- **Well, in summary, YES, the high temperatures in a dryer do [kill](https://pestpolicy.com/how-to-kill-flea-eggs/)fleas plus all their babies including eggs and flea larvae on your clothes, curtains, and bedding.
 
 ** - **So, launder the clothing and other fabrics 10 minutes at temperatures of ~ 95F (35C). Finally, undertake the garment drying (at the highest temperature) to kill the fleas and other bugs. **
 
@@ -61,7 +61,7 @@ Use Dish Soap + Water** Next, use dawn dish soap to exterminate the remaining fl
 
 ##  Launder or Dry the Fabric Having Fleas
 
-Drying and laundering will help you exterminate those flea larvae, [flea dirt](https://pestpolicy.com/what-is-flea-dirt/), and flea eggs. So, here's how to launder and dry those clothes, and beddings. **a. ** First, wash those fabrics you have for about ten minutes. Make sure the temperature at washing is around 140F - clean all the attire and beddings. **b.
+Drying and laundering will help you exterminate those flea larvae, [flea dirt](https://pestpolicy.com/what-is-flea-dirt/),and flea eggs. So, here's how to launder and dry those clothes, and beddings. **a. ** First, wash those fabrics you have for about ten minutes. Make sure the temperature at washing is around 140F - clean all the attire and beddings. **b.
 
 ** Next, ensure to re-wash &re-wash the garments, fabrics, and bedding - this should be redone roughly 3 times - ensure the washer machine temperature is around 140F - wash for roughly 3-10 minutes.
 

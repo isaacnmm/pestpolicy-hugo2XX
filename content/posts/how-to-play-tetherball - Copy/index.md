@@ -14,7 +14,7 @@ tags:
 - master
 ---
 
-[Tetherball](https://pestpolicy.com/how-to-play-tetherball/) is a classic backyard game that injects competitive energy and lively fun into any outdoor gathering. Simple in its core premise yet engaging in its execution, it's a fantastic two-player game that demands quick reflexes, strategic thinking, and a good dose of hand-eye coordination.
+[Tetherball](https://pestpolicy.com/how-to-play-tetherball/)is a classic backyard game that injects competitive energy and lively fun into any outdoor gathering. Simple in its core premise yet engaging in its execution, it's a fantastic two-player game that demands quick reflexes, strategic thinking, and a good dose of hand-eye coordination.
 
 If you've got a tetherball pole and a ball, you're just a few steps away from unlocking hours of outdoor entertainment.
 

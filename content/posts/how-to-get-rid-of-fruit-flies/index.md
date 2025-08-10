@@ -17,7 +17,7 @@ layout: post
 
 Fruit flies are tiny flying bugs that's attracted to rotting and over ripened fruits such as grapes, plums, strawberries, mangoes, and watermelon.
 
-Each female will lay 500 eggs in summer and they'll develop to adults within 8 - 10 days. Fruit flies come [thrive in warmer temperatures](https://pestpolicy.com/where-do-fruit-flies-come-from/) with rotten fruits and vegetables laying their eggs in wall cracks, home kitchen, or in cafeterias, hotels, and restaurants. So, how to get [rid](https://pestpolicy.com/homemade-fruit-fly-trap/) of fruit flies?
+Each female will lay 500 eggs in summer and they'll develop to adults within 8 - 10 days. Fruit flies come [thrive in warmer temperatures](https://pestpolicy.com/where-do-fruit-flies-come-from/)with rotten fruits and vegetables laying their eggs in wall cracks, home kitchen, or in cafeterias, hotels, and restaurants. So, how to get [rid](https://pestpolicy.com/homemade-fruit-fly-trap/)of fruit flies?
 
 ##  1. Toss Fruits and Wipe Them out
 
@@ -33,13 +33,13 @@ Remember to use trash bags but also dispose them off daily. However, any bag tha
 
 ##  2. Apple Cider Vinegar + Dawn Dish Soap
 
-Apple cider vinegaris the magical best fruit fly trap. But why do fruit flies love v inegar? Well, vinegar is [fully fermented organic matter](https://www.hsph. harvard. edu/nutritionsource/vinegar/) (with excellent scent). Fruit flies love broken-down natural ingredients and its acidity.
+Apple cider vinegaris the magical best fruit fly trap. But why do fruit flies love v inegar? Well, vinegar is [fully fermented organic matter](https://www.hsph.harvard.edu/nutritionsource/vinegar/)(with excellent scent). Fruit flies love broken-down natural ingredients and its acidity.
 
-[caption id="" align="aligncenter" width="960"]: max_bytes(150000): strip_icc(): format(webp)/get-rid-of-fruit-flies-1388144_FINAL-5bd1e65c46e0fb0051f7ed36. png) Source: [the Spruce](https://www.thespruce. com/get-rid-of-fruit-flies-1388144) [/caption] The bugs will jump into a jar containing Apple cider vinegar and drown in it as they try to drink it with its mouth-parts - acting like a Kryptonite.
+[caption id="" align="aligncenter" width="960"]: max_bytes(150000): strip_icc(): format(webp)/get-rid-of-fruit-flies-1388144_FINAL-5bd1e65c46e0fb0051f7ed36. png) Source: [the Spruce](https://www.thespruce.com/get-rid-of-fruit-flies-1388144)[/caption] The bugs will jump into a jar containing Apple cider vinegar and drown in it as they try to drink it with its mouth-parts - acting like a Kryptonite.
 
-The requirements to make the vinegar fruit fly traps are just a [plastic wrap and a jar or glass](http://www.academia. edu/27434106/How_to_Get_Rid_Of_Fruit_Flies_with_a_Homemade_Fruit_Fly_Trap). 1. Pour a portion of your Apple cider vinegar into a glass. Cover the glass with vinegar using a plastic wrap. 2. Now, use a pin or toothpick to poke some 2-4 small holes on the plastic wrap. This will allow the smell of your white vinegar to emerge. 3.
+The requirements to make the vinegar fruit fly traps are just a [plastic wrap and a jar or glass](http://www.academia.edu/27434106/How_to_Get_Rid_Of_Fruit_Flies_with_a_Homemade_Fruit_Fly_Trap).1. Pour a portion of your Apple cider vinegar into a glass. Cover the glass with vinegar using a plastic wrap. 2. Now, use a pin or toothpick to poke some 2-4 small holes on the plastic wrap. This will allow the smell of your white vinegar to emerge. 3.
 
-Next, you'll need to poke a bigger hole at the center of your plastic cover - this is where the fruit flies will gain entry into the glass. 4. Now, leave the glass with Apple cider vinegar around the area having a fruit fly infestation. To ensure that the fleas won't escape the glass having white vinegar - add 3-10 drops of[dawn dish soap for fleas](https://pestpolicy.com/dawn-dish-soap-for-fleas/)that'll act like glue on the insects. 5.
+Next, you'll need to poke a bigger hole at the center of your plastic cover - this is where the fruit flies will gain entry into the glass. 4. Now, leave the glass with Apple cider vinegar around the area having a fruit fly infestation. To ensure that the fleas won't escape the glass having white vinegar - add 3-10 drops of[dawn dish soap for fleas](https://pestpolicy.com/dawn-dish-soap-for-fleas/)that'llact like glue on the insects. 5.
 
 The fruit flies will be stuck in the vinegar jar as they can't move out - they'll finally die. 6. Repeat the Apple cider vinegar treatment daily until the fruit fly infestation ceases. *Alternatively* 1. Pour boiling water or boiling Apple cider vinegar in the infested drains. This will quickly repel the fruit flies from your yard and home. 2.
 
@@ -51,7 +51,7 @@ But liquid dish soap isn't' safe for human consumption and thus must be kept far
 
 ##  3.*Beer *or Old Wine Trap
 
-[New scientific research](https://www.sciencemag. org/news/2014/10/better-smelling-beer-thanks-fruit-flies) show fruit flies have a unique relationship with yeast that's is beer or old wine. Yeast secretes some sweet scent that'll attract the fruit flies. 1. Simply pour half a glass of fresh or old beer into some mason jar that's covered with a lid. Place the bottle of glass with the beer at the area where you saw the fruit flies. 2.
+[New scientific research](https://www.sciencemag.org/news/2014/10/better-smelling-beer-thanks-fruit-flies)show fruit flies have a unique relationship with yeast that's is beer or old wine. Yeast secretes some sweet scent that'll attract the fruit flies. 1. Simply pour half a glass of fresh or old beer into some mason jar that's covered with a lid. Place the bottle of glass with the beer at the area where you saw the fruit flies. 2.
 
 Hammer some holes on the lid of the metal lid covering the bottle, glass or jar. The fruit flies will enter the container, feast on the bear and ultimately drown. 3. You'll need to drop a little bear on top of the glass cover - this will lure the fruit flies into your stale beverage. The bugs will be trapped by the bottle's narrow neck - it acts as a natural barrier as they can't jump out.
 

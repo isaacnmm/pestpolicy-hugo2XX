@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 
-Most boats that spend a lot of time in the water and risk [developing growth and fouls](https://pestpolicy.com/mildew-resistant-paints/) that affect the boat's performance. One of the remedies to minimize such challenges is getting the best bottom paints for trailered boats. The [paint](https://pestpolicy.com/best-acrylic-paint-for-canvas/) plays a preventive role and before application, proper procedures must be followed both for new surfaces or already affected surfaces.
+Most boats that spend a lot of time in the water and risk [developing growth and fouls](https://pestpolicy.com/mildew-resistant-paints/)that affect the boat's performance. One of the remedies to minimize such challenges is getting the best bottom paints for trailered boats. The [paint](https://pestpolicy.com/best-acrylic-paint-for-canvas/)plays a preventive role and before application, proper procedures must be followed both for new surfaces or already affected surfaces.
 
 The boat's durability, speed, and fuel-saving cost are well taken care of. Proper consideration and knowledge are needed to acquire the best.
 
@@ -43,7 +43,7 @@ Pros: - It is durable - Good for bright colored boats - Good for all weather pro
 
 One of the most economical and effective paints, for trailed boats available in the market, is the total boat underdog. It gives your boat a durable finish especially if its a frequently used boat. A fter applying this paint, it becomes easier even to apply another coat as it also reduces the chances of paint building up. You can equally use this paint on steel, wood, iron, or even fiberglass.
 
-Luckily for this paint, you do not need to do sanding before or after applying for a case where you are applying multiple coats. You can muse a roller, a brush, or a sprayer to apply this paint. For instance; for a brush, use a natural fiber brush; for a roller, [use a foam roller](https://pestpolicy.com/best-paint-roller-for-popcorn-ceiling/) or a 3/16 nap roller and for a sprayer, preferably use an airless sprayer.
+Luckily for this paint, you do not need to do sanding before or after applying for a case where you are applying multiple coats. You can muse a roller, a brush, or a sprayer to apply this paint. For instance; for a brush, use a natural fiber brush; for a roller, [use a foam roller](https://pestpolicy.com/best-paint-roller-for-popcorn-ceiling/)or a 3/16 nap roller and for a sprayer, preferably use an airless sprayer.
 
 After application, it takes approximately 1-4 hours for the paint to dry and ready for another coat with one gallon covers approximately 400-500 square ft. you can get the paint in different colors i. e. red, blue, and black. Pros: - Durable - No sanding is required - Great coverage - It is economical Cons: - Requires more than one coating
 

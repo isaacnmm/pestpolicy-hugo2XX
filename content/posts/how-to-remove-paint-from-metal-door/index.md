@@ -14,7 +14,7 @@ tags:
 layout: post
 ---
 
-In this guide, Ill show you how to remove paint from the [metal](https://pestpolicy.com/can-you-use-acrylic-paint-on-metal/) door - [paint](https://pestpolicy.com/how-to-remove-paint-from-metal-railing/) that maybe landed there on purpose or from [errant paint drips and splatters](https://www.artcons. udel. edu/mitra/Documents/MITRA_Mediums_and_Additives. pdf).
+In this guide, Ill show you how to remove paint from the [metal](https://pestpolicy.com/can-you-use-acrylic-paint-on-metal/)door - [paint](https://pestpolicy.com/how-to-remove-paint-from-metal-railing/)that maybe landed there on purpose or from [errant paint drips and splatters](https://www.artcons.udel.edu/mitra/Documents/MITRA_Mediums_and_Additives.pdf).
 
 Water and soap definitely won't scrape off stubborn paint from the metal doors, doorknobs, hinges, and radiators. First, I would recommend using a paint stripper for metal to remove the paint leave the metal bare.
 

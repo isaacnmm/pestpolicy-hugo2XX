@@ -14,9 +14,9 @@ tags:
 layout: post
 ---
 
-[Paint](https://pestpolicy.com/airless-paint-sprayer-tips/) peeling is a common problem that occurs on painted walls, ceiling, pavements, or furniture due to loss of stickiness strength over a while. Usually, peels damage the primary surface and destroy the aesthetic impression of a given surface.
+[Paint](https://pestpolicy.com/airless-paint-sprayer-tips/)peeling is a common problem that occurs on painted walls, ceiling, pavements, or furniture due to loss of stickiness strength over a while. Usually, peels damage the primary surface and destroy the aesthetic impression of a given surface.
 
-*Well, the question at hand is, how do I [fix](https://pestpolicy.com/how-to-fix-peeling-paint-on-drywall/) peeling paint on the ceiling? Simple! You need to prepare the surface sufficiently (sanding), prime the polished ceiling, repaint, and let the final finish dry naturally without touching even your bathroom.
+*Well, the question at hand is, how do I [fix](https://pestpolicy.com/how-to-fix-peeling-paint-on-drywall/)peeling paint on the ceiling? Simple! You need to prepare the surface sufficiently (sanding), prime the polished ceiling, repaint, and let the final finish dry naturally without touching even your bathroom.
 
 * *Also, purchase interior paint and primer that match the paint type you intend to apply on a particular ceiling (whether acrylic or latex paint/primer).
 
@@ -28,7 +28,7 @@ Further, the sanding/polishing should be finely done to improve stickiness and e
 
 ###  a. Items Required
 
-- Putty knife and filler - [Paint scraper](https://www.amazon. com/dp/B071XDP685/? tag=p-policy-20)and Wire brush - Fine/rough Grain Sandpapers and Tack cloth - Roller and Dropcloth, tarp, plastic piece, or rag - [Shop vacuum](https://www.amazon. com/dp/B07MPJRLYH/?
+- Putty knife and filler - [Paint scraper](https://www.amazon.com/dp/B071XDP685/?tag=p-policy-20)andWire brush - Fine/rough Grain Sandpapers and Tack cloth - Roller and Dropcloth, tarp, plastic piece, or rag - [Shop vacuum](https://www.amazon.com/dp/B07MPJRLYH/?
 
 tag=p-policy-20)and Dust collection bag - Paintbrush and Masking tape - Flashlight tool and Paint tray - Ladderand Protective gear - Interior Primer and Interior Paint - Respirator and thinner - Paint sprayer
 

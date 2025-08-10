@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 
-Opossums are omnivores, meaning that they [eat](https://pestpolicy.com/do-cats-eat-lizards/) both plants and animals - like humans. But really, what do opossums eat? Opossums need a balanced diet of proteins, fats, and carbohydrates to maintain good health. *A natural diet for an opossum would be lots of insects (insects are high in protein), small mammals (high in fat), and the occasional fruit or nut (high in carbs).
+Opossums are omnivores, meaning that they [eat](https://pestpolicy.com/do-cats-eat-lizards/)both plants and animals - like humans. But really, what do opossums eat? Opossums need a balanced diet of proteins, fats, and carbohydrates to maintain good health. *A natural diet for an opossum would be lots of insects (insects are high in protein), small mammals (high in fat), and the occasional fruit or nut (high in carbs).
 
 They need a very high calcium diet (which can be found in plant products).
 
@@ -87,7 +87,7 @@ There have also been reports of opossums eating fruits with high sugar content s
 
 ###  9. Pet Food can Make Opossum Diet
 
-Cat or dog food is something Opossums would eat on their own if left to scavenge, but it is also food that can provide them with the nutrition necessary to survive in captivity and will sustain them during rehabilitation when in need of supplemental feeding. Opossums will eat [**pet food**](http://agrilifecdn.tamu. edu/txwildlifeservices/files/2016/08/Opossum.
+Cat or dog food is something Opossums would eat on their own if left to scavenge, but it is also food that can provide them with the nutrition necessary to survive in captivity and will sustain them during rehabilitation when in need of supplemental feeding. Opossums will eat [**pet food**](http://agrilifecdn.tamu.edu/txwildlifeservices/files/2016/08/Opossum.
 
 pdf) in urban areas, particularly when left outside the homes - particularly since there is not much roadkill and wildlife to forage.
 

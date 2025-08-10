@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 
-A lush, vibrant lawn is often the result of more than just regular mowing and watering. Beneath the green blades, the health of the [soil](https://pestpolicy.com/breaking-up-clay-soil/) is the ultimate determinant of turf quality. While fertilizers provide essential nutrients, they don't fundamentally change soil structure or organic matter content.
+A lush, vibrant lawn is often the result of more than just regular mowing and watering. Beneath the green blades, the health of the [soil](https://pestpolicy.com/breaking-up-clay-soil/)is the ultimate determinant of turf quality. While fertilizers provide essential nutrients, they don't fundamentally change soil structure or organic matter content.
 
 This is where top-dressing comes in a practice widely employed in professional turf management and increasingly adopted by homeowners seeking to elevate their lawn's health and appearance.
 

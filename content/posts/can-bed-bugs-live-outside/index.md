@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 
-No one wants to be confronted with a bed bug infestation and one of the burning questions - can bed bugs live outside? Will these tiny bed bugs survive outside/ in the lawn or yard - you may find dead bed bugs/) after you've used [bed](https://pestpolicy.com/bed-bug-bites-vs-other-bites/) bug steamers.
+No one wants to be confronted with a bed bug infestation and one of the burning questions - can bed bugs live outside? Will these tiny bed bugs survive outside/ in the lawn or yard - you may find dead bed bugs/) after you've used [bed](https://pestpolicy.com/bed-bug-bites-vs-other-bites/)bug steamers.
 
 This is because if they can, many people become concerned that they could reenter a home after bed bugs have been eradicated and begin a new cycle.
 
@@ -37,11 +37,11 @@ These are pretty resilient little animals and are likely to survive hot and cold
 
 - Of course, as with any insect, the bed bug has predators, and depending on the prevalence of these in your garden will depend on how long the bed bugs can last. Some of the most typicalbed bug predators include lizards, spiders, and ants. - If the bed bugs do not have access to food, they will eventually die out.
 
-That being said, these tough little pests can survive for months without food, but the females will be unable to produce[eggs](https://pestpolicy.com/bed-bug-eggs/)if they are not fed.
+That being said, these tough little pests can survive for months without food, but the females will be unable to produce[eggs](https://pestpolicy.com/bed-bug-eggs/)ifthey are not fed.
 
 ##  Can Bed Bugs Get Back Inside once Removed from the House?
 
-Now that we have established that bed bugs can indeed live in an outdoor environment, we need to determine whether they can return after you have kicked them out of the home. Bed bugs cannot fly or jump, like their distant cousins, the [fleas in the carpet](https://pestpolicy.com/can-bed-bugs-live-in-carpet/), but they can still return into a house by way of attachment once they have been sent packing.
+Now that we have established that bed bugs can indeed live in an outdoor environment, we need to determine whether they can return after you have kicked them out of the home. Bed bugs cannot fly or jump, like their distant cousins, the [fleas in the carpet](https://pestpolicy.com/can-bed-bugs-live-in-carpet/),but they can still return into a house by way of attachment once they have been sent packing.
 
 They do this by simply being on something that is returned inside; for example, if they live in a garden table, you then cover with a table cloth for a BBQ. Once the BBQ is over, you return the table cloth into the home, and any bed bugs that have latched onto it will hitch a ride inside.
 

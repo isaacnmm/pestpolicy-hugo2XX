@@ -14,9 +14,9 @@ tags:
 layout: post
 ---
 
-Are you looking for the Best Running Shoes for [IT Band Syndrome](https://www.cedars-sinai. org/health-library/diseases-and-conditions/i/iliotibial-band-syndrome. html)? Youre right on time! ITBS (IT Band Syndrome) is one of the primary causes of knee pain among many runners. The ITBS is so painful and can make a runner abandon their training schedule.
+Are you looking for the Best Running Shoes for [IT Band Syndrome](https://www.cedars-sinai.org/health-library/diseases-and-conditions/i/iliotibial-band-syndrome.html)?Youre right on time! ITBS (IT Band Syndrome) is one of the primary causes of knee pain among many runners. The ITBS is so painful and can make a runner abandon their training schedule.
 
-However, investing in the correct Iliotibial (IT) Band Syndromeshoes and [doing the right exercise](https://uhs.princeton. edu/sites/uhs/files/documents/Illiotibial-Band-Syndrome. pdf) will provide support for your knee problem allowing you to continue with your usual activities.
+However, investing in the correct Iliotibial (IT) Band Syndromeshoes and [doing the right exercise](https://uhs.princeton.edu/sites/uhs/files/documents/Illiotibial-Band-Syndrome.pdf)will provide support for your knee problem allowing you to continue with your usual activities.
 
 Here is a compilation of top Running Shoes for IT Band Syndrome
 
@@ -24,7 +24,7 @@ Also Read: Best Mens Running Shoes for Bad Knees-for-bad-knees/)
 
 ##  Review: 7 Best Running Shoes for IT Band Syndrome
 
-###  [1. ASICS Gel-Kayano 26 [Shoe](https://pestpolicy.com/best-running-shoes-for-extensor-tendonitis/) for IT Band Syndrome](https://www.amazon.com/dp/B07TXW85NH/?tag=p-policy-20)
+###  [1. ASICS Gel-Kayano 26 [Shoe](https://pestpolicy.com/best-running-shoes-for-extensor-tendonitis/)for IT Band Syndrome](https://www.amazon.com/dp/B07TXW85NH/?tag=p-policy-20)
 
 ASICS Gel-Kayano 26 tops my list for Best Running Shoes for IT Band Syndrome. The shoe has excellent features and technologies that help combat various knee issues including ITBS. The shoe is lightweight, cushioned, and offers good shock absorption.
 

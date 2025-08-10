@@ -14,7 +14,7 @@ tags:
 layout: post
 ---
 
-Painting a fence with a [roller](https://pestpolicy.com/best-paint-roller-for-ceilings/) is an effective way to give it a fresh look while saving time and effort. Using a roller for painting allows for a smooth and even finish. Heres a step-by-step guide to help you paint your [fence](https://pestpolicy.com/fence-painting-ideas/) like a pro.
+Painting a fence with a [roller](https://pestpolicy.com/best-paint-roller-for-ceilings/)is an effective way to give it a fresh look while saving time and effort. Using a roller for painting allows for a smooth and even finish. Heres a step-by-step guide to help you paint your [fence](https://pestpolicy.com/fence-painting-ideas/)like a pro.
 
 ##  Materials You Will Need
 

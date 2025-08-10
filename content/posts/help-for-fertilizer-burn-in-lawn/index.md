@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 
-[Fertilizer](https://pestpolicy.com/how-to-fix-fertilizer-burn-on-lawn/) is a vital component of a healthy, vibrant lawn, providing essential nutrients that promote lush growth, rich color, and strong root systems. However, in the quest for a greener lawn, it's possible to overdo it, leading to a common and frustrating problem: fertilizer burn.
+[Fertilizer](https://pestpolicy.com/how-to-fix-fertilizer-burn-on-lawn/)is a vital component of a healthy, vibrant lawn, providing essential nutrients that promote lush growth, rich color, and strong root systems. However, in the quest for a greener lawn, it's possible to overdo it, leading to a common and frustrating problem: fertilizer burn.
 
 This damage, characterized by brown, scorched patches, can quickly turn your aspiring emerald carpet into a mottled eyesore.
 

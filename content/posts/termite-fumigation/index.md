@@ -14,7 +14,7 @@ tags:
 layout: post
 ---
 
-[Termite](https://pestpolicy.com/do-flying-termites-eat-wood/) fumigation is an effective way to eradicate termites from your home or business. This method involves the use of a gaseous pesticide, which is introduced into the affected area to eliminate termites and prevent further damage. In this article, we will discuss what termite fumigation is, how it works, its benefits, and the necessary precautions you need to take.
+[Termite](https://pestpolicy.com/do-flying-termites-eat-wood/)fumigation is an effective way to eradicate termites from your home or business. This method involves the use of a gaseous pesticide, which is introduced into the affected area to eliminate termites and prevent further damage. In this article, we will discuss what termite fumigation is, how it works, its benefits, and the necessary precautions you need to take.
 
 ##  What is Termite Fumigation?
 

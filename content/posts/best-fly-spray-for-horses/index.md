@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 
-**Are you searching for the [best](https://pestpolicy.com/best-electric-fly-swatter/) fly spray for horses? One that's not only effective but also gentle on horses with sensitive skin? ** Look no further! - Our top-rated fly spraysrepel[horse flies](https://animaldiversity.org/accounts/Tabanus_similis/), gnats, and other pests while ensuring safety for both you and your equine friends.
+**Are you searching for the [best](https://pestpolicy.com/best-electric-fly-swatter/)fly spray for horses? One that's not only effective but also gentle on horses with sensitive skin? ** Look no further! - Our top-rated fly spraysrepel[horse flies](https://animaldiversity.org/accounts/Tabanus_similis/),gnats, and other pests while ensuring safety for both you and your equine friends.
 
 These options are even safe for use on horse gear and around other animals like dogs, mules, and donkeys.
 
@@ -35,7 +35,7 @@ Dive into the details to find the ultimate fly spray solution for your beloved h
 
 ###  [3. Absorbine UltraShield EX Brand Fly Spray for Horses](https://www.amazon.com/dp/B000MCZVXC/?tag=p-policy-20)
 
-**Key Features: ** - **Potent Formula: **Contains Pyrethrins, Piperonyl Butoxide, and Permethrin. - **Dual Benefits: **Combines fly control with coat conditioning. - **Long-Lasting: **Up to 17 days of protectionagainst[Horse Flies](https://entomology.ca. uky. edu/ef511) - **Versatile: **Can be used on dogs for flea and tick control. **Benefits: ** - Effective in wet conditions -Absorbine UltraShield EX spray - Pleasant citronella scent.
+**Key Features: ** - **Potent Formula: **Contains Pyrethrins, Piperonyl Butoxide, and Permethrin. - **Dual Benefits: **Combines fly control with coat conditioning. - **Long-Lasting: **Up to 17 days of protectionagainst[Horse Flies](https://entomology.ca.uky.edu/ef511)- **Versatile: **Can be used on dogs for flea and tick control. **Benefits: ** - Effective in wet conditions -Absorbine UltraShield EX spray - Pleasant citronella scent.
 
 **Drawbacks: ** - Requires gloves during application.
 
@@ -47,11 +47,11 @@ Dive into the details to find the ultimate fly spray solution for your beloved h
 
 ###  [5. EcoSMART Horse Fly Spray & Repellent Ready-to-Spray](https://www.amazon.com/dp/B001CRP9M4/?tag=p-policy-20)
 
-**Key Features: ** - **Natural Ingredients: **Made from essential plant oils -EcoSMART Horse Fly - **Safe and Eco-Friendly: **No harsh chemical odors, safe for pets and the environment. - **Pleasant Scent: **Fresh, botanical fragrance. **Benefits: ** - Gentle on the skin and kills[filthy horse flies](https://extension.psu. edu/filth-fly-control-on-horse-farms) - Environmentally friendly. **Drawbacks: ** - None reported.
+**Key Features: ** - **Natural Ingredients: **Made from essential plant oils -EcoSMART Horse Fly - **Safe and Eco-Friendly: **No harsh chemical odors, safe for pets and the environment. - **Pleasant Scent: **Fresh, botanical fragrance. **Benefits: ** - Gentle on the skin and kills[filthy horse flies](https://extension.psu.edu/filth-fly-control-on-horse-farms)- Environmentally friendly. **Drawbacks: ** - None reported.
 
 ###  [6. Espree Aloe Herbal Fly Repellent Horse Fly Spray](https://www.amazon.com/dp/B001C4CKNS/?tag=p-policy-20)
 
-**Key Features: ** - **Natural Formula: **Includes Peppermint Oil, Cedarwood Oil, and Citronella Oil. - **Additional Benefits: **Contains sunscreen and coat conditioners -[Espree Aloe Herbal](https://pestpolicy.com/espree-aloe-herbal-fly-repellent-horse-spray-review/). - **Easy Application: **Dilute with water and apply with a cloth or spray. **Benefits: ** - Pleasant scent and sun protection. - Enriched with aloe vera for a healthier coat.
+**Key Features: ** - **Natural Formula: **Includes Peppermint Oil, Cedarwood Oil, and Citronella Oil. - **Additional Benefits: **Contains sunscreen and coat conditioners -[Espree Aloe Herbal](https://pestpolicy.com/espree-aloe-herbal-fly-repellent-horse-spray-review/).- **Easy Application: **Dilute with water and apply with a cloth or spray. **Benefits: ** - Pleasant scent and sun protection. - Enriched with aloe vera for a healthier coat.
 
 **Drawbacks: ** - Not waterproof.
 

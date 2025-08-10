@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 
-Perhaps you own a [brick](https://pestpolicy.com/how-to-remove-paint-from-brick/) home or a wall structure and you intend to improve it's outlook impression, then, painting is the best option to consider.
+Perhaps you own a [brick](https://pestpolicy.com/how-to-remove-paint-from-brick/)home or a wall structure and you intend to improve it's outlook impression, then, painting is the best option to consider.
 
 Wrong procedure and painting method cause paint to peel or chip with time upon application. *On how to paint brick; select appropriate tools and materials required, clean the brick surface, strip old paint, sand the surface, repair damaged sections, and polish the surface before rinsing it to dryness.
 
@@ -35,7 +35,7 @@ The materials and tools required are; - Wire Brush and a paint brush - Sanderand
 
 Pour stripping chemical into an empty bucket gently.
 
-Add thinner and stir thoroughly until you acquire uniform solution - follow manufacturer's instructions - Using a paint brush or a roller, apply stripping chemical over the old paint - Repeat the previous step until the entire surface is covered - Leave the[stripping chemical](https://pestpolicy.com/how-to-remove-paint-from-brick/)to cure for 10 minutes or otherwise advised by the manufacturer - Then, strip off the cured paint using paint scraper - Further, scrub the brick with wire brush gently - be careful not to damage primary surface material - Clean dislodged paint with power wash and leave the surface to dry
+Add thinner and stir thoroughly until you acquire uniform solution - follow manufacturer's instructions - Using a paint brush or a roller, apply stripping chemical over the old paint - Repeat the previous step until the entire surface is covered - Leave the[stripping chemical](https://pestpolicy.com/how-to-remove-paint-from-brick/)tocure for 10 minutes or otherwise advised by the manufacturer - Then, strip off the cured paint using paint scraper - Further, scrub the brick with wire brush gently - be careful not to damage primary surface material - Clean dislodged paint with power wash and leave the surface to dry
 
 ###  Step 3: Sanding the Surface
 

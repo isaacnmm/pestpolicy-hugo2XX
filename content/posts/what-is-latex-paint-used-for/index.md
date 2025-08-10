@@ -14,7 +14,7 @@ tags:
 layout: post
 ---
 
-Various types of paints are manufactured in certain forms and concentrations in order to serve a given purpose. Perhaps you have come across [latex](https://pestpolicy.com/how-to-remove-latex-paint-from-concrete/) in your place and wonder where its best used for. Can latex [paint](https://pestpolicy.com/how-to-remove-latex-paint-from-metal/) be applied to concrete or furniture?
+Various types of paints are manufactured in certain forms and concentrations in order to serve a given purpose. Perhaps you have come across [latex](https://pestpolicy.com/how-to-remove-latex-paint-from-concrete/)in your place and wonder where its best used for. Can latex [paint](https://pestpolicy.com/how-to-remove-latex-paint-from-metal/)be applied to concrete or furniture?
 
 *So, what is latex paint used for? Latex paint can be used on surfaces such as concrete slabs, drywall, concrete blocks, prepped furniture/wood, interior finish, fiberglass surfaces, metallic surfaces, aluminum siding, masonry, art, and craft. * *However, the right concentration and proper procedure should be followed when applying latex paint to achieve the best final finish.
 

@@ -14,7 +14,7 @@ tags:
 layout: post
 ---
 
-If you want to soothe your [baby](https://pestpolicy.com/best-baby-safe-paint-for-crib/) to sleep quickly, get the [Best](https://pestpolicy.com/best-outdoor-playsets-for-toddlers/) Baby Swings for Sleeping. The swings provide perfect distraction and entertainment for babies allowing parents to engage in other activities around the house.
+If you want to soothe your [baby](https://pestpolicy.com/best-baby-safe-paint-for-crib/)to sleep quickly, get the [Best](https://pestpolicy.com/best-outdoor-playsets-for-toddlers/)Baby Swings for Sleeping. The swings provide perfect distraction and entertainment for babies allowing parents to engage in other activities around the house.
 
 However, when you put your baby on the swing ensure that she is in a reclined position to avoid the risk of suffocation. In addition, youll want to buy a swing thats sturdy enough to prevent it from tipping over. It's also crucial that the swing has shoulder straps to secure the baby in place.
 

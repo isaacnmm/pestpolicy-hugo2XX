@@ -14,7 +14,7 @@ tags:
 layout: post
 ---
 
-The best paint [roller](https://pestpolicy.com/best-paint-roller-for-emulsion/) for popcorn ceilings should feature a thick nap capable of holding more [paint](https://pestpolicy.com/best-paint-roller-for-smooth-finish/) to allow you to tackle the rough surface with relative ease.
+The best paint [roller](https://pestpolicy.com/best-paint-roller-for-emulsion/)for popcorn ceilings should feature a thick nap capable of holding more [paint](https://pestpolicy.com/best-paint-roller-for-smooth-finish/)to allow you to tackle the rough surface with relative ease.
 
 According to experts, a roller cover measuring 0. 75 to 1. 25 thick is recommended for best results. Read on our featured list for a review of the best products in the market. See Also: Ceiling Paint versus Wall Paint.
 

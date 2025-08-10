@@ -63,13 +63,13 @@ Diatomaceous Earth as noted earlier kills bed bugs by dehydrating them after pee
 
 This will especially happen in the third and fourth stages of the nymphs growth because these organisms will be more active and will easily reach the location of the diatomaceous earth.
 
-However diatomaceous Earth won't wipe out the whole nymph population. Therefore, experts recommend [using heat treatments](https://pestpolicy.com/best-bed-bug-heaters/) and [bed bug sprays](https://pestpolicy.com/best-bed-bug-spray/) or hiring exterminators for infestations that are large.
+However diatomaceous Earth won't wipe out the whole nymph population. Therefore, experts recommend [using heat treatments](https://pestpolicy.com/best-bed-bug-heaters/)and [bed bug sprays](https://pestpolicy.com/best-bed-bug-spray/)or hiring exterminators for infestations that are large.
 
 ###  3. Adult Bed Bugs
 
 The average length of an adult bedbug ranges from 1/4 inch to 3/16 inches - they have a wide and flat body but will get larger once theyve fed on blood from their host. - After getting a blood meal (engorged) the bed bug's body will be cylindrical and longer. But bed bugs are generally brownish, oval-shaped, and small insects (comparable to an apple seed) that live on hosts such as humans and other animals.
 
-- Bed bugs will move fast over ceilings, walls, and floors -[but they cant fly](https://pestpolicy.com/do-bed-bugs-fly/). Also before reaching maturity they mature bed bugs (instars or nymphs) will have shed skin 5 times when molting to the next stage and after feeding on blood.
+- Bed bugs will move fast over ceilings, walls, and floors -[but they cant fly](https://pestpolicy.com/do-bed-bugs-fly/).Also before reaching maturity they mature bed bugs (instars or nymphs) will have shed skin 5 times when molting to the next stage and after feeding on blood.
 
 When the conditions are right, the bedbugs will reach the adult stage in about a month and thus will produce 3 + generations each year.
 

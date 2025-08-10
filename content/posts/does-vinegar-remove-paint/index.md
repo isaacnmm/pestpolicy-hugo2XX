@@ -14,7 +14,7 @@ tags:
 layout: post
 ---
 
-So, does [vinegar](https://pestpolicy.com/does-vinegar-kill-bed-bugs/) remove paint? Well, vinegar is a regular ingredient in our kitchens used for salad dressing or making pickles. So, white vinegar will also remove paint from various surfaces including masonry.
+So, does [vinegar](https://pestpolicy.com/does-vinegar-kill-bed-bugs/)remove paint? Well, vinegar is a regular ingredient in our kitchens used for salad dressing or making pickles. So, white vinegar will also remove paint from various surfaces including masonry.
 
 Vinegar is an effective, yet cheap and eco-friendly method to remove stuck-on and dried/ stubborn paints from surfaces such as metal windows or concrete walls without releasing toxic fumes or chemicals. Besides, lemon juice, Vinegar, plus cola will also help remove rust from various light surfaces like the driveways. Also, vinegar is a natural wall's degreaser and luckily its residue doesn't harm the surfaces once painted.
 

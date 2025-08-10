@@ -13,7 +13,7 @@ tags:
 layout: post
 ---
 
-[Stairwell](https://pestpolicy.com/how-do-you-paint-a-ceiling-in-a-stairwell/) painting may not be easy, especially when the wrong procedure or paint selection is engaged. Low-quality paint or inappropriate painting procedure leads to peeling and scuffing with time. Could you be facing similar challenges?
+[Stairwell](https://pestpolicy.com/how-do-you-paint-a-ceiling-in-a-stairwell/)painting may not be easy, especially when the wrong procedure or paint selection is engaged. Low-quality paint or inappropriate painting procedure leads to peeling and scuffing with time. Could you be facing similar challenges?
 
 *On how to paint a stairwell - select the tools and material required, clean the surface, strip old paint, sand the surface, and fill & repair damaged sections before final polishing. * *Besides, you must select the right primer and prepare it accordingly, apply the primer, select and prepare finish paint, apply to finish paint, and undertake quality coat finish.
 

@@ -14,7 +14,7 @@ tags:
 layout: post
 ---
 
-Non-skid [paint](https://pestpolicy.com/airless-paint-sprayer-cleaning-solution/) is an essential component for maintaining safety and enhancing the durability of [aluminum](https://pestpolicy.com/best-paints-for-aluminum-boats/) boats. Whether you're looking to prevent slips and falls or ensure your boat maintains its aesthetic appeal, using the right non-skid paint is crucial.
+Non-skid [paint](https://pestpolicy.com/airless-paint-sprayer-cleaning-solution/)is an essential component for maintaining safety and enhancing the durability of [aluminum](https://pestpolicy.com/best-paints-for-aluminum-boats/)boats. Whether you're looking to prevent slips and falls or ensure your boat maintains its aesthetic appeal, using the right non-skid paint is crucial.
 
 In this article, we will discuss the best non-skid paint options for aluminum boats and provide insights on their application.
 

@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 
-Are you tall and big and would like a [recliner](https://pestpolicy.com/best-recliners-for-pregnancy/) that will fit your size? You deserve the Best Recliner For Tall People to get the ultimate comfort and eliminate the chances of getting back pain or sore muscles. - Recliners targeting tall people, particularly 6 feet height and above, have a tall backrest.
+Are you tall and big and would like a [recliner](https://pestpolicy.com/best-recliners-for-pregnancy/)that will fit your size? You deserve the Best Recliner For Tall People to get the ultimate comfort and eliminate the chances of getting back pain or sore muscles. - Recliners targeting tall people, particularly 6 feet height and above, have a tall backrest.
 
 Further, people who are below the average height can consider buying the recliners for [short people](https://pestpolicy.com/best-recliners-for-short-people/).
 
@@ -39,7 +39,7 @@ The Catnapper Magnum reclining glider is designed to build excellent comfort for
 
 The recliners seat box is created from a full steal that is documented not to split or wrap if it carries a tall and big person. It is built from hardwood that is durable and long-lasting. It has padded cushioning and a microfiber upholstery that will create comfort for the tall and big person. With the leg support and heat massager, the recliner will offer soothing comfort.
 
-Pros: - Comfortable padded cushioning - Soothing reclining system - Wide sitting and back area[just like sectional sofas](https://pestpolicy.com/best-sectional-sofa-for-family/). Cons: - Microfiber upholstery is challenging to clean
+Pros: - Comfortable padded cushioning - Soothing reclining system - Wide sitting and back area[just like sectional sofas](https://pestpolicy.com/best-sectional-sofa-for-family/).Cons: - Microfiber upholstery is challenging to clean
 
 ###  [3. Imperial Big Daddy Leather Rocker Recliner](https://www.amazon.com/dp/B00D9SPOW4/?tag=p-policy-20)
 

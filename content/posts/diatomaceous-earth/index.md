@@ -15,13 +15,13 @@ tags:
 layout: post
 ---
 
-Diatomaceous earth, anyone? You probably were searching for remedies to the roach infestation in your home or a solution to fleas that have become a nuisance to your pet and stumbled on Diatomaceous [earth](http://npic.orst. edu/factsheets/degen. html). And now you are wondering what this Diatomaceous earth is. This article is going to lay down all the facts about Diatomaceous earth and its benefits.
+Diatomaceous earth, anyone? You probably were searching for remedies to the roach infestation in your home or a solution to fleas that have become a nuisance to your pet and stumbled on Diatomaceous [earth](http://npic.orst.edu/factsheets/degen.html).And now you are wondering what this Diatomaceous earth is. This article is going to lay down all the facts about Diatomaceous earth and its benefits.
 
 **Definition: ** Diatomaceous earth is a naturally occurring siliceous sedimentary rock made from fossilized tiny aquatic organisms. These tiny organisms are called diatoms, and they contain shells of single-cell hard-shelled algae-like water plants. Diatomaceous easily crumbles to form a white to an off-white fine powder.
 
 ##  Diatomaceous Earth - Uses, Side Effects, Interactions
 
-This powder leaves a dusty effect on your hands. 1. **Other names: **DE, diatomite. Read Also: Does Diatomaceous Earth Kill Bed Bugs? 2. **Size: **The particle size of the[diatomaceous earth](https://pestpolicy.com/diatomaceous-earth-for-fleas-on-dogs/)ranges from 10 micrometers to 200 micrometers. 3. **Formation: **Diatomaceous earth is formed by accumulating diatoms in the sediments of oceans, rivers, and lakes. 4.
+This powder leaves a dusty effect on your hands. 1. **Other names: **DE, diatomite. Read Also: Does Diatomaceous Earth Kill Bed Bugs? 2. **Size: **The particle size of the[diatomaceous earth](https://pestpolicy.com/diatomaceous-earth-for-fleas-on-dogs/)rangesfrom 10 micrometers to 200 micrometers. 3. **Formation: **Diatomaceous earth is formed by accumulating diatoms in the sediments of oceans, rivers, and lakes. 4.
 
 **Composition: **The major component in the diatomaceous earth is Silica.
 
@@ -91,7 +91,7 @@ Diatomaceous earth is contained mostly in dust/wettable powders & pressurized li
 
 Its advantage is that it is not toxic and safe even for any children playing around your home.
 
-There are two ways of getting rid of ants using [Diatomaceous Earth](https://pestpolicy.com/diatomaceous-earth-for-fleas/). The dry and wet method. **Requirements: ** 1. Pest grade Diatomaceous Earth 2.
+There are two ways of getting rid of ants using [Diatomaceous Earth](https://pestpolicy.com/diatomaceous-earth-for-fleas/).The dry and wet method. **Requirements: ** 1. Pest grade Diatomaceous Earth 2.
 
 The applicator of your own choice Dry application method - Step 1- Identify areas where you have seen ants crawling and spot any places that might be the ants' entry points; if*the ants are moving across a large flat area, use the wet application.
 

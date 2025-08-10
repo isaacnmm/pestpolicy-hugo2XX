@@ -20,7 +20,7 @@ Ant infestations are a common problem for homeowners in Eugene, OR, particularly
 
 ####  Identifying Common Ant Species in Eugene
 
-1. **Odorous House Ants**: These small, dark ants are prevalent in Eugene and are known for the strong, rotten coconut smell they emit when crushed. They typically nest indoors near moisture sources, such as kitchens and[bathrooms](https://pestpolicy.com/how-to-get-rid-of-ants-in-the-bathroom/), which are common in the damp climate of Eugene. 2.
+1. **Odorous House Ants**: These small, dark ants are prevalent in Eugene and are known for the strong, rotten coconut smell they emit when crushed. They typically nest indoors near moisture sources, such as kitchens and[bathrooms](https://pestpolicy.com/how-to-get-rid-of-ants-in-the-bathroom/),which are common in the damp climate of Eugene. 2.
 
 **Carpenter Ants**: Larger than most ants, carpenter ants are a significant concern in Eugene due to the abundance of moisture-rich wood in the area.
 
@@ -28,7 +28,7 @@ These ants can cause substantial structural damage as they tunnel through wood t
 
 ####  Prevention Tips for Eugene Homeowners
 
-Preventing an ant infestation is the first step in effective ant [control](https://pestpolicy.com/ant-control-in-bellingham/). Here are some practical tips for homeowners in Eugene: 1. **Seal Entry Points**: [Ants](https://pestpolicy.com/ant-control-in-federal-way/) can enter your home through the smallest of cracks. Inspect your homes exterior and seal any gaps or cracks in walls, windows, doors, and the foundation.
+Preventing an ant infestation is the first step in effective ant [control](https://pestpolicy.com/ant-control-in-bellingham/).Here are some practical tips for homeowners in Eugene: 1. **Seal Entry Points**: [Ants](https://pestpolicy.com/ant-control-in-federal-way/)can enter your home through the smallest of cracks. Inspect your homes exterior and seal any gaps or cracks in walls, windows, doors, and the foundation.
 
 Eugenes rainy weather can exacerbate these entry points, so regular checks are essential. 2. **Eliminate Food Sources**: Ants are attracted to food and water. Keep your kitchen clean, store food in airtight containers, and promptly clean up spills and crumbs. Regularly take out the trash and keep garbage cans sealed. The abundance of outdoor food sources in Eugene, such as fruit trees, can also attract ants, so clean up fallen fruit promptly. 3.
 

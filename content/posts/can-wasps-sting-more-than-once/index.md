@@ -13,9 +13,9 @@ tags:
 layout: post
 ---
 
-Being a victim of a [wasps sting](https://en.wikipedia. org/wiki/Stinger) once is painful enough to leave a lasting impression regardless of whether you are a kid or an adult. Wasp stings generate excessive discomfort and can cause extreme allergic reactions in people who have sensitive skin.
+Being a victim of a [wasps sting](https://en.wikipedia.org/wiki/Stinger)once is painful enough to leave a lasting impression regardless of whether you are a kid or an adult. Wasp stings generate excessive discomfort and can cause extreme allergic reactions in people who have sensitive skin.
 
-And unfortunately, unpleasant incidents of wasp stings are more common than you think. Check the [baby wasps](https://pestpolicy.com/baby-wasp/) for a detailed analysis. But can wasps sting more than once? **Unlike the common misunderstanding, wasps can sting more than once without dying in the process. But did you know that these heavily criticized and aggressive insects can live with you peacefully in one space?
+And unfortunately, unpleasant incidents of wasp stings are more common than you think. Check the [baby wasps](https://pestpolicy.com/baby-wasp/)for a detailed analysis. But can wasps sting more than once? **Unlike the common misunderstanding, wasps can sting more than once without dying in the process. But did you know that these heavily criticized and aggressive insects can live with you peacefully in one space?
 
 If this sounds hard to believe in, continue reading this blog to find: ** - What causes the wasps to sting - Why wasps can sting multiple times - Not all wasps sting - How to tell if a wasp has stung you - The difference between wasps and bees Contrary to the view that wasps are naturally destructive, they only use their venomous stinger for self-defense.
 
@@ -89,7 +89,7 @@ It is also helpful to avoid wearing any fruity and floral fragrances because the
 
 You cant always know where you may run into a wasp. But it is ideal to wear close-toed shoes and muted tones when you visit a garden or meadow.
 
-This will effectively reduce your chance of being stung if you accidentally disrupt or walk over a wasp nest - or even [fake wasp nests - do they work? ](https://pestpolicy.com/do-fake-wasps-nests-work/). If you do get stung by a wasp once, dont make any sudden movement because it will only go on to result in more stings. Cover your nose and mouth with your hand and walk in an enclosed space.
+This will effectively reduce your chance of being stung if you accidentally disrupt or walk over a wasp nest - or even [fake wasp nests - do they work? ](https://pestpolicy.com/do-fake-wasps-nests-work/).If you do get stung by a wasp once, dont make any sudden movement because it will only go on to result in more stings. Cover your nose and mouth with your hand and walk in an enclosed space.
 
 If you have noticed a wasp or two in your house, dont hesitate to call a wasp control professional to inspect your house for any wasp infestation. This will protect you from running into a wasp nest unintentionally. If you see a wasp nest nearby, do not try to get rid of it all by yourself and contact a wasp control contractor instead.
 
@@ -101,5 +101,5 @@ We hope that this detailed account on wasps helped you identify the symptoms of 
 
 ##  Sources:
 
-1. [Controlling Wasps, Hornets, and Yellowjackets Entomology](https://entomology.ca. uky. edu/ef620) 2. [Wasps and bees UMN Extension](https://extension.umn. edu/insects-infest-homes/wasps-and-bees)
+1. [Controlling Wasps, Hornets, and Yellowjackets Entomology](https://entomology.ca.uky.edu/ef620)2. [Wasps and bees UMN Extension](https://extension.umn.edu/insects-infest-homes/wasps-and-bees)
 

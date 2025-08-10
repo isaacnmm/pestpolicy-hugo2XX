@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 
-Can bearded dragons eat broccoli? Vegetables are part of the recommended diet for bearded dragons. Broccoli is a source of essential minerals and vitamins. However, not all vegetables are good for your bearded [dragon](https://cvm.ncsu. edu/documents/caring-for-your-bearded-dragon/). *So, can bearded dragons eat broccoli? A simple answer is YES. A little broccoli wont do harm to your beardie.
+Can bearded dragons eat broccoli? Vegetables are part of the recommended diet for bearded dragons. Broccoli is a source of essential minerals and vitamins. However, not all vegetables are good for your bearded [dragon](https://cvm.ncsu.edu/documents/caring-for-your-bearded-dragon/).*So, can bearded dragons eat broccoli? A simple answer is YES. A little broccoli wont do harm to your beardie.
 
 However, you should only feed your beardie with small amounts of broccoli once in a while.
 
@@ -25,7 +25,7 @@ Thats because broccoli contains high contents of oxalic acid which may cause kid
 
 Broccoli provides a good source of calcium, protein, fibre and vitamins such as vitamin A, B1, C, E and K. But they also contain high levels of oxalic acid which makes it unsuitable for reptiles including bearded dragons.
 
-Although [bearded dragons can eat](https://pestpolicy.com/can-bearded-dragons-eat-mango/) broccoli, they should be given very little of it. The high levels of oxalic acid in broccoli isnt good for their kidney and bone health. Taking too much oxalic acid reduces the amount of calcium in their body. Oxalic acid reacts with calcium in the body of the reptile which leads to an imbalance in the calcium: phosphorous ratio.
+Although [bearded dragons can eat](https://pestpolicy.com/can-bearded-dragons-eat-mango/)broccoli, they should be given very little of it. The high levels of oxalic acid in broccoli isnt good for their kidney and bone health. Taking too much oxalic acid reduces the amount of calcium in their body. Oxalic acid reacts with calcium in the body of the reptile which leads to an imbalance in the calcium: phosphorous ratio.
 
 As a result, the body of the reptile utilizes the calcium from the bones which leads to bone degeneration. Inappropriate combination of calcium also affects the functioning of the kidney. It leads to bladder stones which in turn affect the kidney due fluid retention.
 

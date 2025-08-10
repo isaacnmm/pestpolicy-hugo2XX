@@ -21,15 +21,15 @@ However, the warm environment in the house (due to central heating) allows fleas
 
 ##  Warm-blooded hosts (Cats) in Winter
 
-[Silverman](http://www4.ncsu. edu/~jsilver/Silverman%20et%20al%202581. pdf) states that snow (freezing temperatures - over a long time) will kill all fleas' life stages. But adult fleas will live in the warm-blooded hosts. During winter, fleas will have longer life cycles. As part of your general flea control in your home, it's essential to flea treat your cat (and other pets) even during winter.
+[Silverman](http://www4.ncsu.edu/~jsilver/Silverman%20et%20al%202581.pdf)states that snow (freezing temperatures - over a long time) will kill all fleas' life stages. But adult fleas will live in the warm-blooded hosts. During winter, fleas will have longer life cycles. As part of your general flea control in your home, it's essential to flea treat your cat (and other pets) even during winter.
 
 Ensure to treat all the pet bedding and toys inside and outside the house, mainly using vet-approved flea control solutions. Notably, flea treating the cats will prevent diseases such as anemia caused by severe blood loss (from flea bites) and skin problems. However, as noted earlier, fleas will have a longer life cycle during winter. Therefore, it's critical to be vigilant in the bug control efforts.
 
 ##  Temperature
 
-Fleas show top activity and reproduction at temperatures between 70-85 degrees range. [Michael Dryden](http://citeseerx.ist. psu. edu/viewdoc/download? doi=10. 1. 1. 621. 743&rep=rep1&type=pdf) states that fleas will die when the temperature falls under 30. 2 degrees Fahrenheit for over five consecutive days. The optimum temperature for fleas is 70-85 degrees Fahrenheit. However, fleas can also live in warmer or cooler temperatures.
+Fleas show top activity and reproduction at temperatures between 70-85 degrees range. [Michael Dryden](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.621.743&rep=rep1&type=pdf)states that fleas will die when the temperature falls under 30. 2 degrees Fahrenheit for over five consecutive days. The optimum temperature for fleas is 70-85 degrees Fahrenheit. However, fleas can also live in warmer or cooler temperatures.
 
-Notably, most fleas will be seen between May and September, which are summer and spring. If the temperature drops below the freezing point for some consecutive days, the adult fleas will not survive. But the [flea eggs](https://pestpolicy.com/how-to-kill-flea-eggs/), the larvae, and pupa would not die during the cold winter weather.
+Notably, most fleas will be seen between May and September, which are summer and spring. If the temperature drops below the freezing point for some consecutive days, the adult fleas will not survive. But the [flea eggs](https://pestpolicy.com/how-to-kill-flea-eggs/),the larvae, and pupa would not die during the cold winter weather.
 
 However, the fleas pre-adult stages would remain dormant during winter and begin serious activity when the temperature rises.
 
@@ -37,7 +37,7 @@ However, the fleas pre-adult stages would remain dormant during winter and begin
 
 Fleas will thrive at a 70 percent humidity level. Moisture is critical for fleas' survival because it helps the eggs to hatch and the other stages to grow over the flea life cycle. Fleas will develop, hatch, and survive at temperatures only at a temperature at or above 13C (55. 4F). Flea pre-adult stages will not survive when the Relative humidity drops below 50%.
 
-Therefore, the [fleas larvae](https://pestpolicy.com/what-do-flea-larvae-look-like/) will opt to hide under thecarpet fibers, moist anddark places.
+Therefore, the [fleas larvae](https://pestpolicy.com/what-do-flea-larvae-look-like/)will opt to hide under thecarpet fibers, moist anddark places.
 
 ##  **Flea treating your cat during winter**
 
@@ -47,7 +47,7 @@ However, change the shampoo and flea drop brands each time since the flea may gr
 
 Notably, vacuuming creates strong vibrations that will eject both the adult and the pre-adult fleas from their hiding places and cocoons, respectively. 3. Get a suitable floor cleaner and mop floors in the house. Notably, choose a floor cleaner that the most pungent smell this will repel the fleas. However, ensure take care of the cleaner you decide if there are small children (maybe those babies) in the house. 4.
 
-Clean clothing, bedding, and pillow covers in the washing machine (with a strong detergent) and dryer. Ensure that the washing machine's water must have a temperature of over 55 degrees centigrade. Further, if youve been allowing your cat to your bed, wash all the bedding. 5. Utilize a [flea comb](https://pestpolicy.com/best-flea-comb-for-cats/) to remove the flea eggs and flea adults.
+Clean clothing, bedding, and pillow covers in the washing machine (with a strong detergent) and dryer. Ensure that the washing machine's water must have a temperature of over 55 degrees centigrade. Further, if youve been allowing your cat to your bed, wash all the bedding. 5. Utilize a [flea comb](https://pestpolicy.com/best-flea-comb-for-cats/)to remove the flea eggs and flea adults.
 
 However, ensure to target the belly, forehead, and neck since thats where many fleas will exist.
 

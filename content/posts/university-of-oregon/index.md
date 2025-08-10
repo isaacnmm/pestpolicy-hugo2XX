@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 
-The University of Oregon (UO), located in [Eugene](https://pestpolicy.com/hendricks-park/), is a prominent public research [university](https://pestpolicy.com/western-washington-university-wwu/) known for its commitment to academic excellence, innovation, and sustainability.
+The University of Oregon (UO), located in [Eugene](https://pestpolicy.com/hendricks-park/),is a prominent public research [university](https://pestpolicy.com/western-washington-university-wwu/)known for its commitment to academic excellence, innovation, and sustainability.
 
 Established in 1876, UO has grown into a vibrant institution that attracts students from across the globe. With its diverse academic offerings, state-of-the-art facilities, and rich cultural heritage, the University of Oregon stands as a beacon of higher education in the Pacific Northwest.
 

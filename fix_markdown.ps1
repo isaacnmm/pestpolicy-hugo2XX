@@ -1,46 +1,31 @@
-$postsPath = "C:\My Hugo Sites\pestpolicy-hugo2XX\content\posts"
+import re
+import os
 
-Get-ChildItem -Path $postsPath -Filter *.md -Recurse | ForEach-Object {
-    $file = $_.FullName
-    Write-Host "Processing $file"
+def fix_links_in_file(filepath):
+    with open(filepath, 'r', encoding='utf-8') as f:
+        content = f.read()
 
-    # Read all lines
-    $content = Get-Content $file -Raw
+    pattern = re.compile(r'(\[.*?\])\((.*?)\)')
 
-    # Fix URLs: Remove spaces inside http:// or https:// links
-    $content = [regex]::Replace($content, '(https?:)\s*//\s*([\w\.-]+)(\s*[\w\./\-\?=&%]*)', {
-        param($m)
-        $scheme = $m.Groups[1].Value
-        $domain = $m.Groups[2].Value -replace '\s',''
-        $rest = $m.Groups[3].Value -replace '\s',''
-        return "$scheme//$domain$rest"
-    })
+    def clean_url(match):
+        text = match.group(1)
+        url = match.group(2)
+        fixed_url = url.replace(' ', '')
+        return f"{text}({fixed_url})"
 
-    # Fix pinnable shortcode src: remove any brackets or extra chars, keep only path starting with /
-    # Matches: src="[best](/best-flea-collar-for-dogs.jpg)" or similar, replace with src="/best-flea-collar-for-dogs.jpg"
-    $content = [regex]::Replace($content, 'src="\[.*?\]\((\/[^\)]+)\)"', 'src="$1"')
+    fixed_content = pattern.sub(clean_url, content)
 
-    # Escape apostrophes inside pinnable shortcode attributes (description and alt)
-    # This replaces ' with &#39; inside pinnable shortcode attributes
-    # Caution: only inside pinnable shortcode's attribute values between double quotes
-    $content = [regex]::Replace($content, '({{<\s*pinnable\s+.*?description=")(.*?)(".*?>}})', {
-        param($m)
-        $prefix = $m.Groups[1].Value
-        $desc = $m.Groups[2].Value -replace "'", '&#39;'
-        $suffix = $m.Groups[3].Value
-        return "$prefix$desc$suffix"
-    }, [System.Text.RegularExpressions.RegexOptions]::Singleline)
+    if fixed_content != content:
+        print(f"Fixed links in: {filepath}")
+        with open(filepath, 'w', encoding='utf-8') as f:
+            f.write(fixed_content)
 
-    # Also fix apostrophes in alt attribute similarly (optional)
-    $content = [regex]::Replace($content, '({{<\s*pinnable\s+.*?alt=")(.*?)(".*?>}})', {
-        param($m)
-        $prefix = $m.Groups[1].Value
-        $alt = $m.Groups[2].Value -replace "'", '&#39;'
-        $suffix = $m.Groups[3].Value
-        return "$prefix$alt$suffix"
-    }, [System.Text.RegularExpressions.RegexOptions]::Singleline)
+def fix_links_in_folder(folder):
+    for root, _, files in os.walk(folder):
+        for file in files:
+            if file.endswith('.md'):
+                fix_links_in_file(os.path.join(root, file))
 
-    # Save fixed content back to file
-    Set-Content -Path $file -Value $content -Encoding UTF8
-}
-Write-Host "Done fixing markdown files."
+if __name__ == "__main__":
+    folder_path = r"C:\My Hugo Sites\pestpolicy-hugo2XX\content\posts"
+    fix_links_in_folder(folder_path)

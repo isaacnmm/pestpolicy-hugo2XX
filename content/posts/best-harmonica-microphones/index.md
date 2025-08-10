@@ -14,7 +14,7 @@ tags:
 layout: post
 ---
 
-The best harmonica microphones should be capable of [producing quality sound](https://blogs.uoregon. edu/uocinetech/recording-and-exporting-standards/audio-recording-standards/) output throughout the performance without distorting. Because the harmonica is played in genres that generally need amp lification, it is imperative to reinforce live perfo rmances with your kind of microphone.
+The best harmonica microphones should be capable of [producing quality sound](https://blogs.uoregon.edu/uocinetech/recording-and-exporting-standards/audio-recording-standards/)output throughout the performance without distorting. Because the harmonica is played in genres that generally need amp lification, it is imperative to reinforce live perfo rmances with your kind of microphone.
 
 When recording, the harmonica needs to be miked in order to capture all the sounds accurately - just like with the mac computers.
 
@@ -78,7 +78,7 @@ If you are looking for a maneuverable and lightweight harmonica mic with great s
 
 This unit comes fully equipped with an internally powered preamp which gives you the richest sound quality. In particular, the pre-installed lithium battery makes it an excellent choice for most wireless systems. This unit gives you unrestricted mobility without compromising the use of your fingers due to its hand-free capability. Given its lightweight design, you will barely notice you have this mic on as you perform your vocals.
 
-You get a 6 flexible gooseneck, which allows you to adjust it to your perfect playing style. A patented Saddle Clip secures & comfortably clips it as you perform across the stage [for live performances](https://pestpolicy.com/best-microphone-for-vocals-live-performance/). Each Myers unit features a 48 long lightweight cord which gives you the flexibility of movement and reaches. This unit features dimensions of 1. 97 by 1. 38 by 0. 79.
+You get a 6 flexible gooseneck, which allows you to adjust it to your perfect playing style. A patented Saddle Clip secures & comfortably clips it as you perform across the stage [for live performances](https://pestpolicy.com/best-microphone-for-vocals-live-performance/).Each Myers unit features a 48 long lightweight cord which gives you the flexibility of movement and reaches. This unit features dimensions of 1. 97 by 1. 38 by 0. 79.
 
 Pros: - Lightweight in design - Unlimited reach - Durable lithium-ion battery
 

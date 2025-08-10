@@ -14,9 +14,9 @@ tags:
 layout: post
 ---
 
-What's the best [condenser](https://pestpolicy.com/best-condenser-mic-under-200/) [mics](https://pestpolicy.com/best-harmonica-microphones/) under 300? Condenser Mics, in recording studios, are best for recording vocals to accompany acoustic instruments, drums, horns.
+What's the best [condenser](https://pestpolicy.com/best-condenser-mic-under-200/)[mics](https://pestpolicy.com/best-harmonica-microphones/) under 300? Condenser Mics, in recording studios, are best for recording vocals to accompany acoustic instruments, drums, horns.
 
-If youre starting your recording journey, and you want your vocals to sound great, get some quality. **Summary: ** I approve of [SE Electronics sE2200a II](https://www.amazon. com/dp/B007W294X8/? tag=p-policy-20) or [Audio-Technica AT2035](https://www.amazon. com/dp/B00D6RMFG6/? tag=p-policy-20). The [condenser microphones](https://www.nyu. edu/classes/bello/FMT_files/3_microphones.
+If youre starting your recording journey, and you want your vocals to sound great, get some quality. **Summary: ** I approve of [SE Electronics sE2200a II](https://www.amazon.com/dp/B007W294X8/?tag=p-policy-20)or [Audio-Technica AT2035](https://www.amazon.com/dp/B00D6RMFG6/?tag=p-policy-20).The [condenser microphones](https://www.nyu.edu/classes/bello/FMT_files/3_microphones.
 
 pdf) are wired with on-board electronics to ensure excellent output levels.
 

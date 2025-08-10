@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 
-Have you sighted a streak of [ants](https://pestpolicy.com/how-to-get-rid-of-ants-in-the-bathroom/) crawling around in your car? Well, rest assured that you are not the only one wanting to get rid of ants in the car and avoid their bites.
+Have you sighted a streak of [ants](https://pestpolicy.com/how-to-get-rid-of-ants-in-the-bathroom/)crawling around in your car? Well, rest assured that you are not the only one wanting to get rid of ants in the car and avoid their bites.
 
 Even though you may normally come across ants in your house devouring food crumbs or colonizing your back yard, but when ants invade your car they can be a hazardous distraction.
 
@@ -25,7 +25,7 @@ And when this happens, you should be prepared to be bugged and have damaged wire
 
 ##  Why Ants Invade Your Car
 
-To be able to effectively get rid of ants in the car, it is important to understand why they infested there in the first place. Cars are an uncommon place for ants to nest, but when they do it is due to either one of the following reasons: - Your car was parked near an [ant](https://pestpolicy.com/how-to-get-rid-of-ants-naturally-outside/) colony for a long time.
+To be able to effectively get rid of ants in the car, it is important to understand why they infested there in the first place. Cars are an uncommon place for ants to nest, but when they do it is due to either one of the following reasons: - Your car was parked near an [ant](https://pestpolicy.com/how-to-get-rid-of-ants-naturally-outside/)colony for a long time.
 
 Ant colonies are normally near a kitchen or trash cans, so if your garage is nearby, this is probably why they got into your car.
 

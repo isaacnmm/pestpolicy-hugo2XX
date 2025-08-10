@@ -14,9 +14,9 @@ tags:
 layout: post
 ---
 
-Have you ever considered painting your metal [interior](https://pestpolicy.com/best-paint-for-interior-doors/) door freshly? Door painting is necessary as it will not only improve the overall service life but also boost the aesthetic impression.
+Have you ever considered painting your metal [interior](https://pestpolicy.com/best-paint-for-interior-doors/)door freshly? Door painting is necessary as it will not only improve the overall service life but also boost the aesthetic impression.
 
-Often, homeowners face challenges when coating [metal](https://pestpolicy.com/best-paint-for-metal-garage-door/) interior door, especially while selecting the paint and prepping the surface. Undertaking wrong painting procedure and paint preparation has always led to peeling, chipping, and scuffing. Could you be facing similar problems?
+Often, homeowners face challenges when coating [metal](https://pestpolicy.com/best-paint-for-metal-garage-door/)interior door, especially while selecting the paint and prepping the surface. Undertaking wrong painting procedure and paint preparation has always led to peeling, chipping, and scuffing. Could you be facing similar problems?
 
 *On how to paint a metal interior door, choose the right tools and material, remove the door and hardware (if not fixed permanently), clean the door with a degreaser, and remove old paints before sanding the surface.
 

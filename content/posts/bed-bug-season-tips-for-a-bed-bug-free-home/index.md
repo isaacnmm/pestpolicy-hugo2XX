@@ -25,7 +25,7 @@ Bed bugs are small, reddish-brown insects that feed on the blood of humans and a
 
 - **Legs and Antennae**: Bed bugs have six legs and relatively short antennae.
 
-They do not have wings, so they cannot fly. - **Movement**: They move quickly on surfaces but do not jump or fly. - **Eggs**: Bed [bug](https://pestpolicy.com/bed-bug-bites-vs-other-bites/) eggs are tiny, about 1 mm in size, white, and laid in clusters in cracks and crevices near their hosts. Recognizing these physical characteristics can help in identifying a bed bug infestation early and taking appropriate action to control it.
+They do not have wings, so they cannot fly. - **Movement**: They move quickly on surfaces but do not jump or fly. - **Eggs**: Bed [bug](https://pestpolicy.com/bed-bug-bites-vs-other-bites/)eggs are tiny, about 1 mm in size, white, and laid in clusters in cracks and crevices near their hosts. Recognizing these physical characteristics can help in identifying a bed bug infestation early and taking appropriate action to control it.
 
 ###  Signs of Bed Bugs
 
@@ -39,7 +39,7 @@ Preventing bed bugs starts with awareness and proactive steps: - **Inspect Secon
 
 - **Seal Cracks and Crevices**: Seal up cracks in walls, floors, and furniture where bed bugs can hide.
 
-- **Use Bed Bug Covers**: [Encase mattresses and box springs](https://pestpolicy.com/best-bed-bug-mattress-encasements/)to trap bed bugs and prevent them from entering or escaping. - **Be Cautious When Traveling**: Inspect hotel rooms and luggage after traveling to avoid bringing bed bugs home. - **Consult a Professional**: If you suspect an infestation, contact a pest control professional for proper identification and treatment.
+- **Use Bed Bug Covers**: [Encase mattresses and box springs](https://pestpolicy.com/best-bed-bug-mattress-encasements/)totrap bed bugs and prevent them from entering or escaping. - **Be Cautious When Traveling**: Inspect hotel rooms and luggage after traveling to avoid bringing bed bugs home. - **Consult a Professional**: If you suspect an infestation, contact a pest control professional for proper identification and treatment.
 
 ###  Conclusion
 

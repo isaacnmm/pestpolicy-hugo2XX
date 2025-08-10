@@ -14,9 +14,9 @@ tags:
 layout: post
 ---
 
-Below I've outlined the key differences between painting vs. staining [deck](https://pestpolicy.com/can-i-sand-my-deck-by-hand/) - and equally which one will be the best fit for which surfaces and weather conditions. Also, I've answered this question - it better to stain or paint a deck? Real wood decks will weather with time, but you can use stains for weathered wood to make the outdoor living space beautiful and more inviting.
+Below I've outlined the key differences between painting vs. staining [deck](https://pestpolicy.com/can-i-sand-my-deck-by-hand/)- and equally which one will be the best fit for which surfaces and weather conditions. Also, I've answered this question - it better to stain or paint a deck? Real wood decks will weather with time, but you can use stains for weathered wood to make the outdoor living space beautiful and more inviting.
 
-Compared to brick pavers and concrete, wooden decks will require a higher level of [maintenance and care](https://www.extension. purdue. edu/extmedia/NCR/NCR-134. html). So, this guide will help you know where to leave it natural, paint it, or stain it.
+Compared to brick pavers and concrete, wooden decks will require a higher level of [maintenance and care](https://www.extension.purdue.edu/extmedia/NCR/NCR-134.html).So, this guide will help you know where to leave it natural, paint it, or stain it.
 
 ##  Painting Vs. Staining Deck - 7 Differences
 
@@ -48,7 +48,7 @@ But for both paint and stains, you'll require to deep clean the deck surface to 
 
 ###  5. Ease of Application
 
-Generally, you'll find that stains will be much easier to apply compared to paints. Stains will be thinner than paints, and it'll soak easily into the wood surface, but paints will sit on the surface. But for both staining and painting, you'll need to appropriately [clean the deck surface](https://pestpolicy.com/how-to-clean-a-deck-before-staining/) - repair and replace broken pieces and [sand between deck boards](https://pestpolicy.com/how-to-sand-between-deck-boards/).
+Generally, you'll find that stains will be much easier to apply compared to paints. Stains will be thinner than paints, and it'll soak easily into the wood surface, but paints will sit on the surface. But for both staining and painting, you'll need to appropriately [clean the deck surface](https://pestpolicy.com/how-to-clean-a-deck-before-staining/)- repair and replace broken pieces and [sand between deck boards](https://pestpolicy.com/how-to-sand-between-deck-boards/).
 
 For a stain plus sealer in one product, you won't require an extra topcoat. Further, you can use a roller or brush to apply one coat of deck stain. No globs from the thin stain will pool on the wood, and since it's transparent, it won't leave lap marks. But before you paint, you'll require to treat the deck using some wood preservatives and coat it using a suitable primer.
 

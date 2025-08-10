@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 
-Standing [water](https://pestpolicy.com/best-water-tables-for-1-year-old/) in your yard, often manifesting as persistent puddles or squishy, waterlogged patches, is more than just an unsightly nuisance. It can wreak havoc on your landscape, drowning desirable plants and turfgrass, creating breeding grounds for mosquitoes, and potentially leading to foundation issues for your home.
+Standing [water](https://pestpolicy.com/best-water-tables-for-1-year-old/)in your yard, often manifesting as persistent puddles or squishy, waterlogged patches, is more than just an unsightly nuisance. It can wreak havoc on your landscape, drowning desirable plants and turfgrass, creating breeding grounds for mosquitoes, and potentially leading to foundation issues for your home.
 
 A perpetually wet yard can also make outdoor activities unpleasant, turning what should be a usable space into a swampy hazard.
 

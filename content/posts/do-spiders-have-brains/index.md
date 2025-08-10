@@ -15,19 +15,19 @@ tags:
 layout: post
 ---
 
-Invertebrates and vertebrates follow the Hallers Rule when considering the body size and brain comparison. For example, the ant's brain makes up 15% of its body mass. But, the difference is considerably bigger in spiders -m as outline din this [*Arthropod Structure & Development study*](http://www.sciencedirect. com/science/article/pii/S1467803911000727).
+Invertebrates and vertebrates follow the Hallers Rule when considering the body size and brain comparison. For example, the ant's brain makes up 15% of its body mass. But, the difference is considerably bigger in spiders -m as outline din this [*Arthropod Structure & Development study*](http://www.sciencedirect.com/science/article/pii/S1467803911000727).
 
-Spiders are tiny arachnids that seem to be very intelligent for their small sized-body in web-weaving (some being even below 1 millimeter in body length). You can control them using [spider sprays](https://pestpolicy.com/best-spider-spray-for-indoors/) of [spider foggers](https://pestpolicy.com/best-fogger-for-spiders/). **But, do spiders have brains? Well, technically, spiders have no brains in the manner anatomy defines "brains".
+Spiders are tiny arachnids that seem to be very intelligent for their small sized-body in web-weaving (some being even below 1 millimeter in body length). You can control them using [spider sprays](https://pestpolicy.com/best-spider-spray-for-indoors/)of [spider foggers](https://pestpolicy.com/best-fogger-for-spiders/).**But, do spiders have brains? Well, technically, spiders have no brains in the manner anatomy defines "brains".
 
 However, the arachnids have neural/ nerve cell clusters filling up many spaces in the spider's cephalothorax. Notably, the"brains" of some spiders like Jumping spiders tend to extend down in their legs. **
 
 ##  Details: Do Spiders Have Brains??
 
-It would require a big brain for the small spiders to have such magnificent web-weaving prowess and weave webs that are even bigger than the arachnids. A recent [spider brain study](http://www.stri. si. edu/english/scientific_staff/staff_scientist/scientist. php? id=10) by Bill Eberhard analyzed 9 species of spiders across 6 web-weaving groups. The outcomes of the study was that the spider's body was inversely proportional to its brain size.
+It would require a big brain for the small spiders to have such magnificent web-weaving prowess and weave webs that are even bigger than the arachnids. A recent [spider brain study](http://www.stri.si.edu/english/scientific_staff/staff_scientist/scientist.php?id=10)by Bill Eberhard analyzed 9 species of spiders across 6 web-weaving groups. The outcomes of the study was that the spider's body was inversely proportional to its brain size.
 
 Thus, smaller spiders have relatively larger brains.
 
-In addition, for various spiders, their central nervous system occupied about 80% of their body spaces - it may also fill up the arachnid's legs as shown below. Check [how spiders evolved its spare legs](http://news.nationalgeographic. com/news/2011/06/110603-spiders-spare-legs-webs-science-animals/).
+In addition, for various spiders, their central nervous system occupied about 80% of their body spaces - it may also fill up the arachnid's legs as shown below. Check [how spiders evolved its spare legs](http://news.nationalgeographic.com/news/2011/06/110603-spiders-spare-legs-webs-science-animals/).
 
 Further, the body of the spider, like *Leucauge mariana, * filled with its brain continue to grow and develop up to when it becomes an adult. You'll notice that some of the immature and tiny spiders tend to have a bulging and deformed body due to having an excess spider brain. However, the adult spiders won't have a bulge. This is because its brain cell will still remain relatively small.
 

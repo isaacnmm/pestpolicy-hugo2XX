@@ -24,7 +24,7 @@ Originating from Asia, these woody plants are surprisingly versatile and can thr
 
 ##  Features and Types of Garden Camellias
 
-Camellias belong to the genus *[Camellia](https://pestpolicy.com/how-to-grow-camellias-from-seed/)*, part of the tea family (Theaceae). They are woody shrubs or small trees, highly valued for their ornamental qualities.
+Camellias belong to the genus *[Camellia](https://pestpolicy.com/how-to-grow-camellias-from-seed/)*,part of the tea family (Theaceae). They are woody shrubs or small trees, highly valued for their ornamental qualities.
 
 **Key Features: ** * **Evergreen Foliage: ** Leathery, dark green, glossy leaves provide year-round interest. * **Distinctive Flowers: ** Blooms range from single petals to highly formal doubles, often with prominent yellow stamens, and come in various sizes (from small 5 cm / 2 inches to large 15 cm / 6 inches). Colors include white, pink, red, and variegated forms. * **Bloom Time: ** This is a major distinguishing feature.
 

@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 
-As a home- and pet owner, flea infestations are a real nuisance to humans-live-on-humans/), cats, and dogs - including baby fleas. But where do fleas lay eggs? Knowing the hideouts will help us to easily break the flea's life cycle. Definitely, of the 2, 000 flea species, [dog fleas](https://en.wikipedia. org/wiki/Dog_flea) and [cat flea](https://en.wikipedia.
+As a home- and pet owner, flea infestations are a real nuisance to humans-live-on-humans/), cats, and dogs - including baby fleas. But where do fleas lay eggs? Knowing the hideouts will help us to easily break the flea's life cycle. Definitely, of the 2, 000 flea species, [dog fleas](https://en.wikipedia.org/wiki/Dog_flea)and [cat flea](https://en.wikipedia.
 
 org/wiki/Cat_flea) (Ctenocephalides felis) are the most common on furry mammals, birds, dogs, and cats.
 
@@ -85,7 +85,7 @@ Thus, the rate of falling of the flea eggs will vary on the movement and groomin
 
 Once dislodged, the flea eggs will drop off in areas like outdoors or indoors. They'll drop on places that the bug hosts such as dogs and cats will access. The fleas' host behavior and movement patterns will determine how the eggs will be dispersed. The eggs will be dispersed mainly in the home and places that pets feed, rest, or sleep.
 
-The eggs will be deposited mainly around the resting and sleeping areas since [egg shedding and oviposition](https://pestpolicy.com/how-long-do-flea-eggs-take-to-hatch/) is high during night hours as the dogs & cats rest. Further, the cats will be grooming, resting, and sleeping themselves for a long time - around 13-percent during the day. But they'll share the sleeping and resting areas with different cats.
+The eggs will be deposited mainly around the resting and sleeping areas since [egg shedding and oviposition](https://pestpolicy.com/how-long-do-flea-eggs-take-to-hatch/)is high during night hours as the dogs & cats rest. Further, the cats will be grooming, resting, and sleeping themselves for a long time - around 13-percent during the day. But they'll share the sleeping and resting areas with different cats.
 
 - But flea larvae won't travel far from the bug's laying location and pet's sleeping area - and they'll die when[exposed to high or lower temperatures](https://pestpolicy.com/at-what-temperature-do-fleas-die/).
 
@@ -99,7 +99,7 @@ Fleas will die from desiccation - but to hatch and develop effectively, the eggs
 
 ###  2. Feeding on Flea Dirt (Fecal Blood)
 
-Fleas will survive effectively when they take flea dirt - which is fecal blood for adult fleas. With no food ( [blood or flea dirt](https://pestpolicy.com/what-is-flea-dirt/) ), the flea larvae will die in just 3 after hatching. - The basic food source for fleas is flea dirt - the adult fleas will equally die.
+Fleas will survive effectively when they take flea dirt - which is fecal blood for adult fleas. With no food ( [blood or flea dirt](https://pestpolicy.com/what-is-flea-dirt/)), the flea larvae will die in just 3 after hatching. - The basic food source for fleas is flea dirt - the adult fleas will equally die.
 
 Thus the flea eggs will develop fully once they are in the right habitat plus there must be enough fecal blood - and this is because the fecal blood doesn't fall easily as the flea eggs.
 

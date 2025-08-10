@@ -26,13 +26,13 @@ So, if you've dripped paint on the garage floor or concrete driveway cleaning it
 
 You can maintain the low-maintenance and inexpensive concrete floors - also check out these concrete sealer using muriatic acid - you may need to use some hard-bristled brush but no harsh detergent. *What you'll require: * 1. *Pole and Paint Roller* 2. *Mask* 3. *Floor Scraper* 4. *Chemical Resistant Gloves* 5. *Stripper* 6. *Old Shoes* The first step, as outlined in the title above, will be concrete surface preparation.
 
-This will require you to use a shop vacuum or broom for removing all the debris and dirt. Equally important, is that the brush or scraper will help remove all the [loose paint](https://pestpolicy.com/remove-paint-from-concrete/) that's stuck on the garage or patio concreate. This method will remove oils, adhesives, and paint from tile flooring.
+This will require you to use a shop vacuum or broom for removing all the debris and dirt. Equally important, is that the brush or scraper will help remove all the [loose paint](https://pestpolicy.com/remove-paint-from-concrete/)that's stuck on the garage or patio concreate. This method will remove oils, adhesives, and paint from tile flooring.
 
 ###  Step #2 - C**oncrete surface Preparation**
 
-The next step will involve using a paint stripper on your concrete surface. The stripper will depend on the kind of [paint being removed](https://pestpolicy.com/remove-paint-from-concrete/) - for example, are they oil-based or water-based paint. The aim is to ensure that it's a clean machine - make sure the concrete is free from contaminants, coatings, curing components, paint, grease, oil, dirt, and dust. You can use this
+The next step will involve using a paint stripper on your concrete surface. The stripper will depend on the kind of [paint being removed](https://pestpolicy.com/remove-paint-from-concrete/)- for example, are they oil-based or water-based paint. The aim is to ensure that it's a clean machine - make sure the concrete is free from contaminants, coatings, curing components, paint, grease, oil, dirt, and dust. You can use this
 
-[water drop test](https://www.science. gov/topicpages/w/water+drop+tests) to make sure you get a clean concrete surface - this will simply require that you put some water on the concrete floor.
+[water drop test](https://www.science.gov/topicpages/w/water+drop+tests)to make sure you get a clean concrete surface - this will simply require that you put some water on the concrete floor.
 
 ###  Step #3 -Apply Paint Stripper
 
@@ -74,7 +74,7 @@ Using the s oy-based cleaners is technically not using chemicals in cleaning the
 
 Luckily, since these cleaners come as a gel, it is easy to contain them in a distinct area with the paint.
 
-So, try the [Dumond Chemicals 3332 cleaner](https://www.amazon. com/dp/B001PCVKLK/? tag=p-policy-20) - its Biodegradable, substrate, and user-safe. These s oy-based cleaners are eco-friendly and innovative for the removal of paint on lead encapsulating, lead abatement, graffiti removal, and masonry or stone care.
+So, try the [Dumond Chemicals 3332 cleaner](https://www.amazon.com/dp/B001PCVKLK/?tag=p-policy-20)- its Biodegradable, substrate, and user-safe. These s oy-based cleaners are eco-friendly and innovative for the removal of paint on lead encapsulating, lead abatement, graffiti removal, and masonry or stone care.
 
 ##  Method #4 - For Large Areas
 
@@ -90,7 +90,7 @@ This may be available in your local store - where you'll also get the sodium bic
 
 But ensure to put on your respirator to prevent inhaling fine particles.
 
-Move the sand-blaster nozzle slowly over the painted concrete - this will guarantee all the paint is removed. Don't blast around vegetation since the soda may have high pH. Step #2 - Use **Paint Remover -** If you still have stubborn concrete paint its time to try paint removers. Check how to [remove acrylic paint from concrete](https://pestpolicy.com/how-to-remove-acrylic-paint-from-concrete/) using the all-purpose paint stripper.
+Move the sand-blaster nozzle slowly over the painted concrete - this will guarantee all the paint is removed. Don't blast around vegetation since the soda may have high pH. Step #2 - Use **Paint Remover -** If you still have stubborn concrete paint its time to try paint removers. Check how to [remove acrylic paint from concrete](https://pestpolicy.com/how-to-remove-acrylic-paint-from-concrete/)using the all-purpose paint stripper.
 
 ##  Conclusion
 

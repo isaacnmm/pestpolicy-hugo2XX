@@ -64,9 +64,9 @@ Strong five-star base - AKRacing Pro-X has a strong five-star base that will pro
 
 With a strong base, it is thus possible to stay focused on your gaming. With only a lever pull, you can adjust the chair's backrest to the desired position so that you achieve the desired comfort to play your game. - Durable Gas lift -The chair has a class-4 gas lift that will allow reliable and durable enough to support about 330lbs. - Therefore, sit down and enjoy your game without worry, as far as your weight is not above the allowed.
 
-But there is a twist: Most gaming chairs available commercially are mainly built for people with smaller body frames, which is a disadvantage for the big-bodied boys and girls. You should consider factors like great ergonomics, comfort, and safety when choosing a Gaming Chair for Tall Person. Read Also: [[recliners](https://pestpolicy.com/best-rocking-chairs-for-nursery/) for short people](https://pestpolicy.com/best-recliners-for-short-people/).
+But there is a twist: Most gaming chairs available commercially are mainly built for people with smaller body frames, which is a disadvantage for the big-bodied boys and girls. You should consider factors like great ergonomics, comfort, and safety when choosing a Gaming Chair for Tall Person. Read Also: [[recliners](https://pestpolicy.com/best-rocking-chairs-for-nursery/)for short people](https://pestpolicy.com/best-recliners-for-short-people/).
 
-I have created a list of the Best Gaming Chair for [Tall](https://pestpolicy.com/best-recliner-for-tall-people/) Person to allow you to avoid the stress of trial and error in searching for a great chair. The chairs I have reviewed have a high-quality framework and cover.
+I have created a list of the Best Gaming Chair for [Tall](https://pestpolicy.com/best-recliner-for-tall-people/)Person to allow you to avoid the stress of trial and error in searching for a great chair. The chairs I have reviewed have a high-quality framework and cover.
 
 ##  Considerations in Best Gaming Chair for Tall Person
 

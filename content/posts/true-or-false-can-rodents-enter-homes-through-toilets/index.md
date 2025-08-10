@@ -21,7 +21,7 @@ This question might sound like something out of a horror movie, but it's a real 
 
 Rats and mice are adept at squeezing through small openings, with mice being able to fit through holes as small as a dime and rats through holes the size of a quarter. They are also excellent climbers and can navigate through pipes and plumbing systems. **Sewer Systems and Rodent Entry** One of the primary concerns with rodents entering homes through toilets involves the sewer system.
 
-In older or [poorly maintained sewer systems](https://pestpolicy.com/best-drain-cleaner/), there can be gaps, cracks, or openings that allow rodents to enter. Rats, especially, are known to swim through sewer lines and can surface in toilets if there is a direct connection. **How They Can Enter Through Toilets** While it's not very common, rodents can indeed enter homes through toilets under certain circumstances: 1.
+In older or [poorly maintained sewer systems](https://pestpolicy.com/best-drain-cleaner/),there can be gaps, cracks, or openings that allow rodents to enter. Rats, especially, are known to swim through sewer lines and can surface in toilets if there is a direct connection. **How They Can Enter Through Toilets** While it's not very common, rodents can indeed enter homes through toilets under certain circumstances: 1.
 
 **Sewer Line Connections**: In older homes or in regions where plumbing infrastructure is outdated, there may be direct connections between the sewer line and toilet pipes. Rats, being good swimmers, can enter through the sewer line and swim up into the toilet bowl. 2. **Broken Pipes**: If there are any breaks or cracks in the sewer pipes, rodents can find their way into the system and potentially into your home. 3.
 
@@ -29,7 +29,7 @@ In older or [poorly maintained sewer systems](https://pestpolicy.com/best-drain-
 
 Seal any cracks or holes in the walls, floors, or foundation.
 
-- **Maintain Your Sewer Lines**: Keep your sewer lines and[plumbing in good repair](https://pestpolicy.com/how-to-use-a-plunger/). Replace old pipes and faulty seals to prevent rodents from entering. - **Use Guards**: Consider using a one-way sewer valve or sewer grate to prevent rodents from entering the sewer line.
+- **Maintain Your Sewer Lines**: Keep your sewer lines and[plumbing in good repair](https://pestpolicy.com/how-to-use-a-plunger/).Replace old pipes and faulty seals to prevent rodents from entering. - **Use Guards**: Consider using a one-way sewer valve or sewer grate to prevent rodents from entering the sewer line.
 
 - **Keep Your Toilet Lid Closed**: Although this won't prevent rodents from entering through the pipes, keeping the toilet lid closed when not in use can prevent rodents from entering the bowl. - **Professional Help**: If you suspect you have a rodent problem, contact a pest control professional who can help identify entry points and eliminate the problem.
 

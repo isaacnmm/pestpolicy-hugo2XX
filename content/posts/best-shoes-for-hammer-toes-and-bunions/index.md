@@ -24,7 +24,7 @@ Related: Best Running Shoes for Flat Feet and Bunions
 
 ##  Review: 7 Best Shoes for Hammer Toes and Bunions
 
-###  [1. New Balance Men's Slip-Resistant 626 V2 Industrial [Shoe](https://pestpolicy.com/best-shoes-for-arthritic-hips/)](https://www.amazon.com/dp/B018QS97IS/?tag=p-policy-20)
+###  [1. New Balance Men's Slip-Resistant 626 V2 Industrial Shoe](https://www.amazon.com/dp/B018QS97IS/?tag=p-policy-20)
 
 New Balance 626v2 is for men who spend hours on their feet. This work shoe has a roomy toe box, soft interiors, and accommodating upper. All these features make it one of the Best Shoes for Hammer Toes and Bunions.
 
@@ -82,7 +82,7 @@ Cons: - A customer complained that the shoes are too tight
 
 If youre looking for Comfortable, stylish, and supportive orthopedic shoes, then this Women's Springfield shoe would be an ideal choice.
 
-The shoe provides an unmatched solution for hammertoes and bunions. It has a wide toe box that comfortable, supportive, and non-binding fit. The wide toe box also alleviates pressure on [claw toes](https://pestpolicy.com/best-shoes-for-claw-toes/), hammertoes, bunions, and sensitive feet.
+The shoe provides an unmatched solution for hammertoes and bunions. It has a wide toe box that comfortable, supportive, and non-binding fit. The wide toe box also alleviates pressure on [claw toes](https://pestpolicy.com/best-shoes-for-claw-toes/),hammertoes, bunions, and sensitive feet.
 
 The shoes also feature an Extra-depth design and removable insoles that allow the wearer to insert custom-made orthotics for extra support and comfort. The orthotics also improves the wearers stability, mobility, and help ease the stress on the muscles, joints, and feet.
 

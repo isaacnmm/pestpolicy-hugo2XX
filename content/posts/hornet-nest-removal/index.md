@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 
-This is a [Hornet](https://pestpolicy.com/hornet-bees-and-wasp-removal-tacoma/) [Nest](https://pestpolicy.com/how-to-find-a-roach-nest/) Removal guide. It is a kind of unpleasant situation for you if you are having a hornet or wasps nest around in or near your place. - It can get nastier, especially if there are kids or anyone with an allergic issue to their stings (insect venom).
+This is a [Hornet](https://pestpolicy.com/hornet-bees-and-wasp-removal-tacoma/)[Nest](https://pestpolicy.com/how-to-find-a-roach-nest/) Removal guide. It is a kind of unpleasant situation for you if you are having a hornet or wasps nest around in or near your place. - It can get nastier, especially if there are kids or anyone with an allergic issue to their stings (insect venom).
 
 I will discuss the ultimate[guide for the Hornet Nest](https://pestpolicy.com/how-to-find-a-roach-nest/)Removal.
 
@@ -23,7 +23,7 @@ I will discuss the ultimate[guide for the Hornet Nest](https://pestpolicy.com/ho
 
 ##  #1: Take Safety Measures
 
-There are countless ways of [keeping the hornets away](https://entomology.ca. uky. edu/ef620). It is not easy to get rid of them. - If you are careful, you can eliminate their existence without even the services of a professional exterminator. - Hornets can sting hard and can do it several times and will do so aggressively.
+There are countless ways of [keeping the hornets away](https://entomology.ca.uky.edu/ef620).It is not easy to get rid of them. - If you are careful, you can eliminate their existence without even the services of a professional exterminator. - Hornets can sting hard and can do it several times and will do so aggressively.
 
 One thing should be kept in mind before attempting to remove it; this can be a risky project to undertake irrespective of whether you are allergic to it or not; caution should be taken care of.
 
@@ -53,7 +53,7 @@ If you have been successful until now, then this past is the last part of the me
 
 ##  Where Are Hornet Nests Located?
 
-** *The most important thing to know to dispose of these nests is to find about their location and existence. * A hornet nest generally looks like a paper or mud-like construction, mostly in the shape of a pine cone, mass lump, or like an upside-down apiary. Hornets usually search for a sheltered location to make their nest - G [etting rid of wasps' nests](https://www.canr. msu. edu/news/getting_rid_of_wasps_nests).
+** *The most important thing to know to dispose of these nests is to find about their location and existence. * A hornet nest generally looks like a paper or mud-like construction, mostly in the shape of a pine cone, mass lump, or like an upside-down apiary. Hornets usually search for a sheltered location to make their nest - G [etting rid of wasps' nests](https://www.canr.msu.edu/news/getting_rid_of_wasps_nests).
 
 Found in branches of a tree, under joists, on the slide of windows, in attics, inside the usable portion of abandoned buildings or vehicles, etc. To cut the story short, any place shielded from weather and in peace can attract these hornets to build their nest. Typically, hornets prefer to build a nest in relatively high areas.
 

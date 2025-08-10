@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 
-You'll undertake a termite inspection during the regular home maintenance or home purchase processes - but it has many [challenges](https://npmapestworld.org/default/assets/File/Resource%20Center/NPMA%20Library%20Updates/2012%2009%20Termite%20inspection%20challenges%20and%20considerations%20for%20slab%20buildings. pdf). It's a visual inspection of the home (including crawlspaces & basements) for signs of termites.
+You'll undertake a termite inspection during the regular home maintenance or home purchase processes - but it has many [challenges](https://npmapestworld.org/default/assets/File/Resource%20Center/NPMA%20Library%20Updates/2012%2009%20Termite%20inspection%20challenges%20and%20considerations%20for%20slab%20buildings.pdf).It's a visual inspection of the home (including crawlspaces & basements) for signs of termites.
 
 But *how much does a termite inspection cost?
 
@@ -23,7 +23,7 @@ But *how much does a termite inspection cost?
 
 ##  *Details: Average Termite Inspection Cost?*
 
-*Caution: the termite inspector must be experienced, licensed, insured, and bonded. So, what's the average termite inspection cost? * As an estate closing cost, the termite inspection costs will be about $60 to $150, plus this will also give you a [WDO (Wood-Destroying) Report](https://housemaster.com/article/401-wood-destroying-organism-inspection) with two sections.
+*Caution: the termite inspector must be experienced, licensed, insured, and bonded. So, what's the average termite inspection cost? * As an estate closing cost, the termite inspection costs will be about $60 to $150, plus this will also give you a [WDO (Wood-Destroying) Report](https://housemaster.com/article/401-wood-destroying-organism-inspection)with two sections.
 
 - **Section 1**: Includes the critical step the homeowner or the exterminator must take to protect their investment structures from the termites. - **Section 2**: Outlines the likely problems or shortcomings during the termite control process using thebest termite killers, a professional exterminator, orhome remedies.
 
@@ -51,7 +51,7 @@ Termites are nasty bugs that'll gnaw off your home and other structures. But hir
 
 ###  1. Conduct Termite Inspectors Research
 
-First, check this [termite inspector guide by NPMA](https://npmapestworld.org/resourcecenter/hud/). However, from the onset, get an insured, bonded, experienced, and licensed termite inspection company. However, make sure the inspectors are legitimate - check with the local client protection organization. 1. Inquire or take referrals from your work or social network 2.
+First, check this [termite inspector guide by NPMA](https://npmapestworld.org/resourcecenter/hud/).However, from the onset, get an insured, bonded, experienced, and licensed termite inspection company. However, make sure the inspectors are legitimate - check with the local client protection organization. 1. Inquire or take referrals from your work or social network 2.
 
 Go through the local telephone book to check for qualified termite inspectors. 3.
 
@@ -63,7 +63,7 @@ Next, you'll take and contact the termite inspectors through the details you get
 
 ###  3. Schedule the Termite Inspection
 
-The next [step is to schedule the inspection](https://pestpolicy.com/how-to-get-rid-of-termites/) - if the termite inspection cost fits your bill. However; 1. Request to have a minimum of 3 inspectors to undertake the termite inspection. 2. Ensure they state any inspection fee that they may require from the process. 3. Get some written inspection reports and costs according to the areas that are termite infested.
+The next [step is to schedule the inspection](https://pestpolicy.com/how-to-get-rid-of-termites/)- if the termite inspection cost fits your bill. However; 1. Request to have a minimum of 3 inspectors to undertake the termite inspection. 2. Ensure they state any inspection fee that they may require from the process. 3. Get some written inspection reports and costs according to the areas that are termite infested.
 
 Further, ensure you know the number of treatments and materials that will be needed. 4. What amount of time will be needed to undertake the termite inspection fully. Does the inspector offer any warranty or additional costs while inspecting? 5. Finally, the inspector should outline how long you, your kids, and kids must remain outside the house after undertaken.
 
@@ -97,7 +97,7 @@ The number and type of treatments needed - for example, will be a soil treatment
 
 **Notably: ** Give the high cost of repairing caused by termite damage; youll note that it is advisable to conduct a practical termite inspection. Once youve decided to pre-treat or go all-out war on termites, searching for the right professional pest control agency would be your next call.
 
-You would have to hire their services to have them assess the possible damage already in place and the total termite inspection costs and [treatment for](https://pestpolicy.com/subterranean-termites-treatment/) [subterranean termites](https://pestpolicy.com/subterranean-termites-treatment/).
+You would have to hire their services to have them assess the possible damage already in place and the total termite inspection costs and [treatment for](https://pestpolicy.com/subterranean-termites-treatment/)[subterranean termites](https://pestpolicy.com/subterranean-termites-treatment/).
 
 Your decision will inevitably involve a few factors you would want to consider before making that phone callthe most critical of choosing a licensed pest control company if applicable in your locale.
 
@@ -137,7 +137,7 @@ The prospective must prove that they have at least one licensed and certified te
 
 ##  Sources:
 
-1. [Termites: How to Identify and Control Them Pest Control](https://www.epa. gov/safepestcontrol/termites-how-identify-and-control-them)[Drywood Termites Management Guidelines--UC IPM](http://ipm.ucanr. edu/PMG/PESTNOTES/pn7440. html)[Termite - Wikipedia](https://en.wikipedia. org/wiki/Termite) 2. [Termites: How to Identify and Control Them Pest Control](https://www.epa. gov/safepestcontrol/termites-how-identify-and-control-them) 3.
+1. [Termites: How to Identify and Control Them Pest Control](https://www.epa.gov/safepestcontrol/termites-how-identify-and-control-them)[DrywoodTermites Management Guidelines--UC IPM](http://ipm.ucanr.edu/PMG/PESTNOTES/pn7440.html)[Termite- Wikipedia](https://en.wikipedia.org/wiki/Termite)2. [Termites: How to Identify and Control Them Pest Control](https://www.epa.gov/safepestcontrol/termites-how-identify-and-control-them)3.
 
-[Drywood Termites Management Guidelines--UC IPM](http://ipm.ucanr. edu/PMG/PESTNOTES/pn7440. html) 4. [Termite - Wikipedia](https://en.wikipedia. org/wiki/Termite)
+[Drywood Termites Management Guidelines--UC IPM](http://ipm.ucanr.edu/PMG/PESTNOTES/pn7440.html)4. [Termite - Wikipedia](https://en.wikipedia.org/wiki/Termite)
 

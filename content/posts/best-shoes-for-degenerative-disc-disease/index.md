@@ -18,13 +18,13 @@ Are you suffering from Degenerative Disc Disease? Are you looking for shoes that
 
 Degenerative disc disease (DDD) is a condition that occurs as you age. As you get older, your discs can start to degenerate or breakdown causing a lot of pain. However, young people can also suffer from this spinal condition.
 
-The [Degenerative disc disease](https://www.cedars-sinai. org/health-library/diseases-and-conditions/d/degenerative-disc-disease. html) can affect your neck, low back, mid-back, and lower extremities of your spine (tailbone). With this condition, Youre likely to experience frequent episodes of severe pain, numbness, hot shooting pains, and weaknesses.
+The [Degenerative disc disease](https://www.cedars-sinai.org/health-library/diseases-and-conditions/d/degenerative-disc-disease.html)can affect your neck, low back, mid-back, and lower extremities of your spine (tailbone). With this condition, Youre likely to experience frequent episodes of severe pain, numbness, hot shooting pains, and weaknesses.
 
 Related: [Best Walking Shoes for Lower Back Pain](https://pestpolicy.com/best-[walking-shoes](https://pestpolicy.com/best-shoes-for-arthritic-hips/)-for-lower-back-pain/)
 
 ##  Review: 7 Best Shoes for Degenerative Disc Disease
 
-###  [1. HOKA ONE ONE Men's Bondi 6 Running [Shoe](https://pestpolicy.com/best-shoes-for-bunions-and-plantar-fasciitis/)](https://www.amazon.com/dp/B07897QMX4/?tag=p-policy-20)
+###  [1. HOKA ONE ONE Men's Bondi 6 Running Shoe](https://www.amazon.com/dp/B07897QMX4/?tag=p-policy-20)
 
 People with Degenerative Disc Disease require comfortable, supportive, and well-cushioned shoes. The HOKA ONE ONE Bondi 6 is one of the best shoes for Degenerative Disc Disease.
 

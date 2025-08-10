@@ -24,9 +24,9 @@ A good stain will restore your weathered wood all year round - including indoor 
 
 #1 Premium stain by SaverSystem will give you old, weathered, or grayed deck and wood. The stain comes in 4 colors that are all semi-transparent to give your timber a fresh look.
 
-You'll find this water-based #1 Premium stain easy to apply using a/) sprayer or a brush to safeguard the weathered wood from moisture damage, mildew growth, and UV rays. Further, the stain is budget-friendly as you can stain 100 square feet of weathered wood or [deck](https://pestpolicy.com/best-deck-sealer-for-pressure-treated-wood/) with 1 gallon.
+You'll find this water-based #1 Premium stain easy to apply using a/) sprayer or a brush to safeguard the weathered wood from moisture damage, mildew growth, and UV rays. Further, the stain is budget-friendly as you can stain 100 square feet of weathered wood or [deck](https://pestpolicy.com/best-deck-sealer-for-pressure-treated-wood/)with 1 gallon.
 
-It has a combined capability to be used both like a [deck sealer](https://pestpolicy.com/best-deck-sealer-for-pressure-treated-wood/) and a [deck stain](https://pestpolicy.com/best-deck-stain-for-pressure-treated-wood/).
+It has a combined capability to be used both like a [deck sealer](https://pestpolicy.com/best-deck-sealer-for-pressure-treated-wood/)and a [deck stain](https://pestpolicy.com/best-deck-stain-for-pressure-treated-wood/).
 
 #1 Premium stain is appropriate for staining old wood sidings, play-sets, fences, and decks. That's why many DIYers love the stain as it has many applications, plus it has four shades. The semi-transparent stain will give your wood a natural pattern and grain - a shiny and visible color. The stain will safeguard from the UV rays and against water infiltration.
 

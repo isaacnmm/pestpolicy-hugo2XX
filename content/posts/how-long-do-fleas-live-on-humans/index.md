@@ -14,7 +14,7 @@ tags:
 layout: post
 ---
 
-Fleas are tiny, pesky insects that can cause discomfort to both pets and humans. While fleas are commonly associated with pets like dogs and cats, they can also infest human hosts. Understanding how long fleas can [live](https://pestpolicy.com/can-fleas-live-in-carpets/) on humans is important for preventing bites and controlling infestations. Lets explore the lifespan of fleas on humans and how you can deal with them effectively.
+Fleas are tiny, pesky insects that can cause discomfort to both pets and humans. While fleas are commonly associated with pets like dogs and cats, they can also infest human hosts. Understanding how long fleas can [live](https://pestpolicy.com/can-fleas-live-in-carpets/)on humans is important for preventing bites and controlling infestations. Lets explore the lifespan of fleas on humans and how you can deal with them effectively.
 
 ##  How Long Do Fleas Live on Humans?
 

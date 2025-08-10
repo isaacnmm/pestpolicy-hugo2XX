@@ -19,7 +19,7 @@ It is hard to live in an area with plentiful of snakes.
 
 Other than being dangerous, snakes might carry parasites such as tapeworms, salmonella, and roundworms.
 
-Many people are still not sure of the best [snake](https://pestpolicy.com/best-snake-repellent-for-yards/) repellent for yard. If you suspect that you might have snakes in your yard, read on for the [best](https://pestpolicy.com/best-chipmunk-repellents/) solution.
+Many people are still not sure of the best [snake](https://pestpolicy.com/best-snake-repellent-for-yards/)repellent for yard. If you suspect that you might have snakes in your yard, read on for the [best](https://pestpolicy.com/best-chipmunk-repellents/)solution.
 
 ##  Reviews: 7 Best Snake Repellent for Yard 2025
 

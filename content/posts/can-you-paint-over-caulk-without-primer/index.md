@@ -14,7 +14,7 @@ tags:
 layout: post
 ---
 
-Have you ever wondered whether you can paint over [caulk](https://pestpolicy.com/is-it-ok-to-paint-over-wet-caulk/) without using primer? If you've encountered cracks or gaps in your caulking job and want to refresh the look of your surfaces, this question might have crossed your mind. *The short answer is yes, you can paint over caulk without using primer.
+Have you ever wondered whether you can paint over [caulk](https://pestpolicy.com/is-it-ok-to-paint-over-wet-caulk/)without using primer? If you've encountered cracks or gaps in your caulking job and want to refresh the look of your surfaces, this question might have crossed your mind. *The short answer is yes, you can paint over caulk without using primer.
 
 While painting over caulk without primer might work in some situations, it is generally advisable to use primer for better adhesion and durability of the paint job. * *Skipping the primer step can save time and effort, but it may not always yield the best results. * Related: [Paint Over Non Paintable Caulk](https://pestpolicy.com/how-to-paint-over-non-paintable-caulk/)
 

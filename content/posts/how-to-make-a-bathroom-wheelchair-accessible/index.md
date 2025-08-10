@@ -26,7 +26,7 @@ While some modifications can be DIY, a full wheelchair-accessible bathroom conve
 * **Complex Waterproofing:** Ensuring a zero-threshold shower is properly sloped and waterproofed is critical to prevent leaks and mold. * **Specific Accessibility Needs:** An accessibility specialist or occupational therapist can provide tailored recommendations based on the individual's unique mobility requirements.
 ---
 
-Creating a **wheelchair-accessible [bathroom](https://pestpolicy.com/bathroom-vent-fan-cfm-calculator/)** is a crucial step towards ensuring independence, safety, and comfort for individuals with mobility challenges. Whether planning for an aging family member, adapting to a new disability, or simply aiming for a more universally designed home, a truly accessible bathroom goes beyond just wider doorways.
+Creating a **wheelchair-accessible [bathroom](https://pestpolicy.com/bathroom-vent-fan-cfm-calculator/)**is a crucial step towards ensuring independence, safety, and comfort for individuals with mobility challenges. Whether planning for an aging family member, adapting to a new disability, or simply aiming for a more universally designed home, a truly accessible bathroom goes beyond just wider doorways.
 
 It involves thoughtful modifications to layouts, fixtures, and finishes to allow for seamless navigation and independent use.
 

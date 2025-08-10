@@ -15,13 +15,13 @@ tags:
 layout: post
 ---
 
-**Can [bearded](https://pestpolicy.com/can-bearded-dragons-eat-apples/) dragons eat oranges? ** Well, previously we've seen that beardies feed on selected veggies, insects (bugs), fruits. - **The short answer is NO - bearded dragons don't eat oranges - oranges contain excessive fruit acid and sugar that may irritate the digestive system of the bearded [dragon](https://pestpolicy.com/can-bearded-dragons-eat-bananas/) causing dehydration and diarrhea.
+**Can [bearded](https://pestpolicy.com/can-bearded-dragons-eat-apples/)dragons eat oranges? ** Well, previously we've seen that beardies feed on selected veggies, insects (bugs), fruits. - **The short answer is NO - bearded dragons don't eat oranges - oranges contain excessive fruit acid and sugar that may irritate the digestive system of the bearded [dragon](https://pestpolicy.com/can-bearded-dragons-eat-bananas/)causing dehydration and diarrhea.
 
 ** Also, oranges contain more phosphorous than calcium, giving a Ca: P ratio that is incorrect for bearded dragons. These beardies love supplements that have a ratio of calcium: phosphorus ranging from 2: 1 to 3: 1. See other foods for bearded dragons.
 
 ##  **Details: Can Bearded Dragons Eat oranges?**
 
-Don't feed [bearded dragons](https://www.sciencedirect. com/topics/agricultural-and-biological-sciences/central-bearded-dragon) (or other lizards) with oranges. Oranges have excessive fruit acid and sugar that'll irritate the digestive system of your bearded dragon. Like other citrus fruits, oranges are very acidic. When ingested by beardies, they can cause severe diarrhea plus dehydration.
+Don't feed [bearded dragons](https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/central-bearded-dragon)(or other lizards) with oranges. Oranges have excessive fruit acid and sugar that'll irritate the digestive system of your bearded dragon. Like other citrus fruits, oranges are very acidic. When ingested by beardies, they can cause severe diarrhea plus dehydration.
 
 Also, the consumption of oranges interferes with the pets Ca: P ratio.
 

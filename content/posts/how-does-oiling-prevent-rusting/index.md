@@ -20,7 +20,7 @@ Rust erodes iron metal and destroys the entire body eventually. Rusting preventi
 
 * *This process prevents the initiation and formation of rust on iron metal.
 
-Ideally, rust is scientifically referred to as hydrated Iron (III) Oxide or in common terms identified as corrosion or oxidation of the iron metal. * *Many methods can be used in preventing rusting. But, application considerations should bear in mind the particular item under rust [prevent](https://pestpolicy.com/prevent-paint-overspray/) easier matching. Remember, its advisable to wear protective gear when oiling metal for safety purposes. *
+Ideally, rust is scientifically referred to as hydrated Iron (III) Oxide or in common terms identified as corrosion or oxidation of the iron metal. * *Many methods can be used in preventing rusting. But, application considerations should bear in mind the particular item under rust [prevent](https://pestpolicy.com/prevent-paint-overspray/)easier matching. Remember, its advisable to wear protective gear when oiling metal for safety purposes. *
 
 ##  Details: How Does Oiling Prevent Rusting
 

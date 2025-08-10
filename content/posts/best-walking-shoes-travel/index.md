@@ -42,7 +42,7 @@ Read Also: [Walking Shoes for High Arches](https://pestpolicy.com/best-[walking-
 
 ###  [2. Earth Venus Women's Sandal - Leather and Synthetic sole](https://www.amazon.com/dp/B005B7DVLM/?tag=p-policy-20)
 
-Earth Venus Women's Sandal is one of the most [stylish [walking](https://pestpolicy.com/best-walking-shoes-for-high-arches/) shoes for travel](https://www.google. com/search? rlz=1C1CHBD_enKE773KE778&q=stylish+walking+shoes+for+travel&sa=X&ved=0ahUKEwj85Jq1-OHaAhXkg-AKHWvIBk4Q1QIItAMoAA) available on the market today. Earths elegant styling is made more appealing by the multi-density cushioning as well as comfortable footbed.
+Earth Venus Women's Sandal is one of the most [stylish [walking](https://pestpolicy.com/best-walking-shoes-for-high-arches/)shoes for travel](https://www.google.com/search? rlz=1C1CHBD_enKE773KE778&q=stylish+walking+shoes+for+travel&sa=X&ved=0ahUKEwj85Jq1-OHaAhXkg-AKHWvIBk4Q1QIItAMoAA) available on the market today. Earths elegant styling is made more appealing by the multi-density cushioning as well as comfortable footbed.
 
 The shoe also features fantastic arch support and a heel that is generously cushioned to absorb shock effectively. Furthermore, Earth Venus Women's Sandal is made using a quality leather upper that has an amazing breathable lining to maintain the feet dry and fresh all day. If you want comfortable walking shoes for women, you should get Earth Venus. These shoes have all the essential qualities needed for travel.
 

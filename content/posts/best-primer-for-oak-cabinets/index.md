@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 
-If you are looking for a cheap alternative to buying expensive replacements for your furniture, painting oak cabinets (and kitchen cabinets ) is viable. - However, choosing the right [primer](https://pestpolicy.com/best-bonding-primer-for-kitchen-cabinets/) is of critical importance when preparing the surface - either for new cabinets or[kitchen cabinet remodeling](https://pestpolicy.com/how-much-does-it-cost-to-[paint](https://pestpolicy.com/best-drywall-primer-sealer/)-kitchen-cabinets/).
+If you are looking for a cheap alternative to buying expensive replacements for your furniture, painting oak cabinets (and kitchen cabinets ) is viable. - However, choosing the right [primer](https://pestpolicy.com/best-bonding-primer-for-kitchen-cabinets/)is of critical importance when preparing the surface - either for new cabinets or[kitchen cabinet remodeling](https://pestpolicy.com/how-much-does-it-cost-to-[paint](https://pestpolicy.com/best-drywall-primer-sealer/)-kitchen-cabinets/).
 
 The primer for oak cabinets should minimize the wood's grain and keep the grain from bleeding through the paint. Its minimal shrinkage - a suitable choice for cabinet surface preparation.
 
@@ -29,13 +29,13 @@ The Aqua Coat Grain Filler is ideal for smoothing out the grain of oak wood cabi
 
 The filler can be thinned with water if you are a DIYer who is just getting acquainted with cabinet priming.
 
-Don't avoid your priming step if you need to [remodel the kitchen cabinets](https://www.houselogic. com/by-room/kitchen/kitchen-cabinet-refacing/). Besides, it sands and levels quickly as compared to other standard primers. While sanding is not a must, it improves the adhesion of the filler. Pros: - Extra-ordinarily smooth finish - Fast-drying action - Eco-friendly Cons: - Relatively limited coverage
+Don't avoid your priming step if you need to [remodel the kitchen cabinets](https://www.houselogic.com/by-room/kitchen/kitchen-cabinet-refacing/).Besides, it sands and levels quickly as compared to other standard primers. While sanding is not a must, it improves the adhesion of the filler. Pros: - Extra-ordinarily smooth finish - Fast-drying action - Eco-friendly Cons: - Relatively limited coverage
 
 ###  [2. Zinsser Bulls Eye 123 Primers for all surfaces](https://www.amazon.com/dp/B000H5VKBQ/?tag=p-policy-20)
 
 For users looking for a multi-purpose primer for different home projects, Bulls Eye 123 presents the perfect solution. T his primer's odorless nature and ease of cleaning with soap and water make it ideal for kitchen oak cabinets. Additionally, this primer locks porous surfaces by forming a protective coating due to its deep penetrating power. The flexible nature of this paint makes it suitable for use at different temperatures.
 
-These primers are versatile - it'll also get a good tile primer, plaster primer, concrete primer, or [metal primer](https://pestpolicy.com/best-primer-for-rusted-metal/). Also, it seals different types of stains from smoke to grease to water. This primer contains a porous film that allows interior house moisture to escape, minimizing the exterior paint coating's blistering and peeling. Whats more?
+These primers are versatile - it'll also get a good tile primer, plaster primer, concrete primer, or [metal primer](https://pestpolicy.com/best-primer-for-rusted-metal/).Also, it seals different types of stains from smoke to grease to water. This primer contains a porous film that allows interior house moisture to escape, minimizing the exterior paint coating's blistering and peeling. Whats more?
 
 Its low smoke generation and non-flammable nature make it suitable for institutional applications. This primer adheres to a wide range of surfaces without sanding or deglossing. The Prime Oak Cabinets with oils primers are better than Latex primer since it won't prevent wood bleeding. Also, I would recommend you use the BIN shellac primer. It acts as an excellent sealant for painted surfaces, providing more color and sheen to your oak cabinets.
 

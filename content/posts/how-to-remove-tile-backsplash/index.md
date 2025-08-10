@@ -52,7 +52,7 @@ When you are done, you can later proceed and redo the drywall and another backla
 
 ###  Step 5: Removing the Backlash
 
-After loosening the backlash, you create a possibility of removing the backlash without damaging the drywall - and remember to remove the [spray paint smell](https://pestpolicy.com/how-to-get-rid-of-spray-paint-smell/). The most convenient and easiest way of removing the backlash is using the tip of the chisel or the 6-in-1 painters tool, lay it at an angle and parallel to the drywall.
+After loosening the backlash, you create a possibility of removing the backlash without damaging the drywall - and remember to remove the [spray paint smell](https://pestpolicy.com/how-to-get-rid-of-spray-paint-smell/).The most convenient and easiest way of removing the backlash is using the tip of the chisel or the 6-in-1 painters tool, lay it at an angle and parallel to the drywall.
 
 Directly hammering the chisel against the wall can easily cause damage and you will incur loss.
 

@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 
-Hey folks! If you're battling an ant infestation, you know the struggle in the kitchen, bathroom, and [Lawn](https://pestpolicy.com/[best](https://pestpolicy.com/best-ant-killer-for-yard/)-fire-ant-killer-for-lawns/). I've tried and tested some of the best ant killers out there, and Im here to give you the straight scoop.
+Hey folks! If you're battling an ant infestation, you know the struggle in the kitchen, bathroom, and [Lawn](https://pestpolicy.com/[best](https://pestpolicy.com/best-ant-killer-for-yard/)-fire-ant-killer-for-lawns/).I've tried and tested some of the best ant killers out there, and Im here to give you the straight scoop.
 
 Heres what really works: consider things like effectiveness, safety, ease of use, and environmental impact. Related: Check these [top ant traps](https://pestpolicy.com/best-ant-traps/).
 
@@ -23,7 +23,7 @@ Heres what really works: consider things like effectiveness, safety, ease of use
 
 ###  **1. Effectiveness **
 
-You need something that does more than just kill [ants](https://pestpolicy.com/best-ant-traps/) on sight. **Terro Liquid Ant Baits** are my top recommendation for a reason.
+You need something that does more than just kill [ants](https://pestpolicy.com/best-ant-traps/)on sight. **Terro Liquid Ant Baits** are my top recommendation for a reason.
 
 The liquid bait lures ants, which then carry it back to the colony. This method takes longer but ensures youre dealing with the entire nest, not just the ones you see. Its slow but thorough.
 

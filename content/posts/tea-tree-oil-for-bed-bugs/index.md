@@ -19,13 +19,13 @@ Tea tree oil for bed bugs - finding an exterminator is expensive, and even when 
 
 ##  How to Use Tea Tree Oil for Bed Bugs - Effective?
 
-The [Melaleuca alternifolia](https://en.wikipedia. org/wiki/Melaleuca_alternifolia) plant is the natural source of Tea Tree Oil. The plant has a fascinating smell and contains up to 100 components. Though highly toxic when consumed, the plant has manifested strong antiviral, antifungal, and antibacterial qualities. Have you tried lavender to kill bed bugs?
+The [Melaleuca alternifolia](https://en.wikipedia.org/wiki/Melaleuca_alternifolia)plant is the natural source of Tea Tree Oil. The plant has a fascinating smell and contains up to 100 components. Though highly toxic when consumed, the plant has manifested strong antiviral, antifungal, and antibacterial qualities. Have you tried lavender to kill bed bugs?
 
 Tea Tree Oil's healing capabilities are currently being researched to determine whether tea tree oil is an ideal topical antimicrobial treatment.
 
 ##  Why Consider Tea Tree Oil For Bed Bugs?
 
-Sources state that [tea tree oil is almost as effective as chemical insecticides](https://www.webmd. com/vitamins/ai/ingredientmono-113/tea-tree-oil). Also, chemical insecticides are mostly harmful to the human respiratory system. Tea tree oil has a pleasant smell that you will like. It smells almost like pine disinfectant, only that it is a bit stronger. Check out the pictures of bed bugs.
+Sources state that [tea tree oil is almost as effective as chemical insecticides](https://www.webmd.com/vitamins/ai/ingredientmono-113/tea-tree-oil).Also, chemical insecticides are mostly harmful to the human respiratory system. Tea tree oil has a pleasant smell that you will like. It smells almost like pine disinfectant, only that it is a bit stronger. Check out the pictures of bed bugs.
 
 ###  How to Do Patch Test
 
@@ -43,7 +43,7 @@ After running the patch test successfully, you can go ahead and use the oil to k
 
 ##  How to Mix Tea Tree Oil for Bed Bugs
 
-You are free to mix the oil to the desired concentration. It is essential to keep it between [1% and 5%](https://www.medicalnewstoday. com/articles/262944. php) since that would be enough to kill the bed bugs and baby bed bugs. Still, you might consider using slightly higher concentrations since bed bugs are sturdier insects. Whichever the concentration you decide on, make sure you dont apply the oil neat.
+You are free to mix the oil to the desired concentration. It is essential to keep it between [1% and 5%](https://www.medicalnewstoday.com/articles/262944.php)since that would be enough to kill the bed bugs and baby bed bugs. Still, you might consider using slightly higher concentrations since bed bugs are sturdier insects. Whichever the concentration you decide on, make sure you dont apply the oil neat.
 
 Otherwise, you will also get a reaction.
 
@@ -57,19 +57,19 @@ You need to check the furniture, stuffed clothes and toys, closets, under carpet
 
 ##  Tea Tree Oil and Its Effects on Humans
 
-Some reviews reveal just how toxic to humans the tea tree oil can be. Half of them died when a dose of [2ml/kg was given to rats](https://www.sciencedirect. com/topics/neuroscience/peppermint-oil), while half of them recovered. This can also be called a 50% lethal dose. The same dose of tea tree oil in humans might make them ataxic or lethargic from the observation.
+Some reviews reveal just how toxic to humans the tea tree oil can be. Half of them died when a dose of [2ml/kg was given to rats](https://www.sciencedirect.com/topics/neuroscience/peppermint-oil),while half of them recovered. This can also be called a 50% lethal dose. The same dose of tea tree oil in humans might make them ataxic or lethargic from the observation.
 
 In simple terms, they will slur their speech, move involuntarily, and lose control of their normal body functions and movements.
 
 A further study revealed that no human death would occur due to ingesting tea tree oil. However, some reasonable level of poisoning would be reported among children and adults. Experts also point out that the toxicity of the oil is self-limiting. Therefore, you will not get hurt as long as you know what you are doing. Make sure that you dont ingest it, and you must not apply it neatly.
 
-However, you can also try using [bed bug steamers](https://pestpolicy.com/best-bed-bug-steamer/) to kill the bugs using high temperatures.
+However, you can also try using [bed bug steamers](https://pestpolicy.com/best-bed-bug-steamer/)to kill the bugs using high temperatures.
 
 ##  Conclusion
 
-Tea tree oil can [kill bed bugs](https://pestpolicy.com/dead-bed-bugs/) as long as it is mixed in the right ratio. From the start, you must ensure that you target the regions that the insects use for hiding. Moreover, you should avoid getting in contact with the oil since it could irritate your skin. The oil contains natural components that can help make your [home free from bed bugs](https://pestpolicy.com/home-remedies-for-bed-bugs/).
+Tea tree oil can [kill bed bugs](https://pestpolicy.com/dead-bed-bugs/)as long as it is mixed in the right ratio. From the start, you must ensure that you target the regions that the insects use for hiding. Moreover, you should avoid getting in contact with the oil since it could irritate your skin. The oil contains natural components that can help make your [home free from bed bugs](https://pestpolicy.com/home-remedies-for-bed-bugs/).
 
 ##  Sources:
 
-1. [Efficacy of an Essential Oil-Based Pesticide for Controlling Bed Bugs](https://www.ncbi. nlm. nih. gov/pmc/articles/PMC4592615/) 2. [How to Get Rid of Bed Bugs Naturally -WikiHow](https://www.wikihow. com/Get-Rid-of-Bed-Bugs-Naturally)
+1. [Efficacy of an Essential Oil-Based Pesticide for Controlling Bed Bugs](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4592615/)2. [How to Get Rid of Bed Bugs Naturally -WikiHow](https://www.wikihow.com/Get-Rid-of-Bed-Bugs-Naturally)
 

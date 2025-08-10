@@ -29,7 +29,7 @@ One of the endless ways of killing bed bugs is by use of high or low temperature
 
 - Place the room heating machines centrally to enhance equal distribution of heat within the room (uniform heat transfer. )
 
-- You can put the indicator on window panes or doors to show a given color when[bed bugs killing](https://pestpolicy.com/does-baby-powder-kill-bed-bugs/)temperature (119 degrees Fahrenheit) reaches. - Switch on the machine and let it heat the room for 30 to 60 minutes, after which you will switch off. - Open the doors and window and let in fresh air for 30 minutes (helps in cooling the room) before cleaning the bedbug treated room and items.
+- You can put the indicator on window panes or doors to show a given color when[bed bugs killing](https://pestpolicy.com/does-baby-powder-kill-bed-bugs/)temperature(119 degrees Fahrenheit) reaches. - Switch on the machine and let it heat the room for 30 to 60 minutes, after which you will switch off. - Open the doors and window and let in fresh air for 30 minutes (helps in cooling the room) before cleaning the bedbug treated room and items.
 
 All eggs and larva stage of bed bugs will begin to die at a temperature of 98 degrees Fahrenheit while adult bed bugs will start breaking at a temperature of 118 degrees Fahrenheit. It is essential to maintain the killing temperature anywhere between 120 to 140 (max) degrees Fahrenheit to allow the complete killing of bed bugs infestation. Alternatively, you can freeze the bed bug-infested items or room to a temperature below zero degrees.
 
@@ -87,7 +87,7 @@ This method is quick-acting though it may require a specialist for complete bed 
 
 Borax, also called boric acid, is a home solution that can instantly kill bed bugs on application. The borax concentration determines the ability to kill bed bugsand the amount fed/breathed by a bed bug.
 
-- Wear hand protection (gloves) and sprinkle borax on bed bugs infested items (mattress, bed sheet, clothes, etc. ) or area (cracks, floor, or closets). - Leave them for 20 to 50 hours for the chemical to work. - After treatment, clean the items to remove borax and dead bed bugs. Box kills bed bugs by suffocating them. Though [bed bugs wont eat](https://pestpolicy.com/what-animals-eat-bed-bugs/) box as per se, the environment will make bed bugs difficult to breathe, thus dying.
+- Wear hand protection (gloves) and sprinkle borax on bed bugs infested items (mattress, bed sheet, clothes, etc. ) or area (cracks, floor, or closets). - Leave them for 20 to 50 hours for the chemical to work. - After treatment, clean the items to remove borax and dead bed bugs. Box kills bed bugs by suffocating them. Though [bed bugs wont eat](https://pestpolicy.com/what-animals-eat-bed-bugs/)box as per se, the environment will make bed bugs difficult to breathe, thus dying.
 
 This method will kill up to 95% of adult bed bugs. This method wont kill eggs. Therefore, you need to combine it with a complement method such as steam treatment. Borax will cause a burning sensation when in contact with eyes and upset your stomach when swallowed and should be kept away from children.
 
@@ -137,15 +137,15 @@ Undiluted Tea Tree Oil is unsafe for humans during use. Well-diluted Tea Tree Oi
 
 ##  Conclusion
 
-[Bed bugs bite](https://pestpolicy.com/how-long-do-bed-bug-bites-last/) human beings and pets, injecting pain and leaves marks that may swell or lead to allergic reactions. It is also necessary to observe proper bed bugs in preventive measures.
+[Bed bugs bite](https://pestpolicy.com/how-long-do-bed-bug-bites-last/)human beings and pets, injecting pain and leaves marks that may swell or lead to allergic reactions. It is also necessary to observe proper bed bugs in preventive measures.
 
 Homemade bed bugs remedies such as the use of Diatomaceous Earth, Borax, Baking powder, Steam treatment, Heat treatment, Tea tree, vinegar, or use of herbs such as Indiana Lilac leaves can keep off or kill bed bugs infestation in the home.
 
 ##  Sources:
 
-1. [Seasons, searches, and intentions: what the internet can tell us about thebed bug(Hemiptera: Cimicidae) epidemic](https://academic.oup. com/jme/article-abstract/53/1/116/2459664) 2. [The resurgence ofbed bugs, Cimex spp. (Hemiptera: Cimicidae) in Australia](https://www.researchgate. net/profile/Stephen_Doggett2/publication/228489217_The_resurgence_of_bed_bugs_Cimex_sppHemiptera_Cimicidae_in_Australia/links/579b526508ae802facba50ec.
+1. [Seasons, searches, and intentions: what the internet can tell us about thebed bug(Hemiptera: Cimicidae) epidemic](https://academic.oup.com/jme/article-abstract/53/1/116/2459664)2. [The resurgence ofbed bugs, Cimex spp. (Hemiptera: Cimicidae) in Australia](https://www.researchgate.net/profile/Stephen_Doggett2/publication/228489217_The_resurgence_of_bed_bugs_Cimex_sppHemiptera_Cimicidae_in_Australia/links/579b526508ae802facba50ec.
 
 pdf) 3. [Sleep Tight!
 
-Don't Let](http://citeseerx.ist. psu. edu/viewdoc/download? doi=10. 1. 1. 651. 9075&rep=rep1&type=pdf)[theBed BugsBite](https://pestpolicy.com/pictures-of-bed-bug-bites/)[! ](http://citeseerx.ist. psu. edu/viewdoc/download? doi=10. 1. 1. 651. 9075&rep=rep1&type=pdf)
+Don't Let](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.651.9075&rep=rep1&type=pdf)[theBedBugsBite](https://pestpolicy.com/pictures-of-bed-bug-bites/)[! ](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.651.9075&rep=rep1&type=pdf)
 

@@ -13,7 +13,7 @@ tags:
 layout: post
 ---
 
-Having an impressive [concrete](https://pestpolicy.com/how-to-remove-paint-from-concrete-without-chemicals/) outlook is the dream of every homeowner. However, achieving an excellent paint finish is usually faced with several challenges, especially when the wrong procedure is used while painting.
+Having an impressive [concrete](https://pestpolicy.com/how-to-remove-paint-from-concrete-without-chemicals/)outlook is the dream of every homeowner. However, achieving an excellent paint finish is usually faced with several challenges, especially when the wrong procedure is used while painting.
 
 Perhaps you are facing peeling challenges or even mold growth over your concrete surface and wonder how to go about it. Do you just coat the concrete with paint, strip, or wash the entire surface? *Well, in this article, we shall be discussing how to paint concrete.
 
@@ -25,7 +25,7 @@ You begin your task by selecting appropriate tools/materials, carry out surface 
 
 ###  a. Tools and Items Required
 
-- [Wire-brush](https://www.amazon. com/dp/B08DM15R4V/?
+- [Wire-brush](https://www.amazon.com/dp/B08DM15R4V/?
 
 tag=p-policy-20)and Vacuum cleaner - Soapy detergent and Warm water - A paintbrush, apaint roller, a spray painter - A putty knife and fitter/patching compound - Polyethylene cover and water point - Power source and concrete-based paint - Empty bucket and sandpaper/hand sander - Blower and piece of cloth - Concrete bonding primer and painter tape - Protective gear overall, goggles, gloves, respirator, and facemask > See Also: > Remove Paint From Concrete
 
@@ -67,7 +67,7 @@ Using a hand sander, polish the sealed section gently (to avoid further surface 
 
 A select primer that is concrete-based and prepared as per the manufacturers instruction.
 
-Using [a paintbrush](https://www.amazon. com/Bates-Paint-Brushes-Professional-Paintbrush/dp/B07FW83JCJ/ref=sr_1_2_sspa?
+Using [a paintbrush](https://www.amazon.com/Bates-Paint-Brushes-Professional-Paintbrush/dp/B07FW83JCJ/ref=sr_1_2_sspa?
 
 dchild=1&keywords=paint+brush&qid=1607684429&sr=8-2-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyQVoyRlRINDY2MEJOJmVuY3J5cHRlZElkPUEwMTQ0MzQzMklRT1hFUFFFVkJFMyZlbmNyeXB0ZWRBZElkPUEwMzM3MzE3MzEzTUdGUVBURzZQQSZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=) or a roller, apply the primer over the concrete surface and leave it to dry.
 
@@ -119,7 +119,7 @@ Growth of molds and mildew highly affects painted concrete surfaces found in dam
 
 However, by selecting mold/mildew resistant concrete paint, you will combat such problems effectively and improve the service life of your concrete surface.
 
-NB: Select [acrylic concrete paint](https://pestpolicy.com/how-to-remove-acrylic-paint-from-concrete/) for both indoors and outdoors use when painting a damp or wet environment.
+NB: Select [acrylic concrete paint](https://pestpolicy.com/how-to-remove-acrylic-paint-from-concrete/)for both indoors and outdoors use when painting a damp or wet environment.
 
 ###  3. Cracking and Chipping
 

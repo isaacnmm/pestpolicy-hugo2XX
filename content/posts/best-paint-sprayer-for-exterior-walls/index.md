@@ -18,7 +18,7 @@ Selecting the best paint sprayer for exterior walls is crucial in achieving an e
 
 If you have faced similar challenges, consider purchasing a paint sprayer as the best alternative. It will help if you consider factors such as the power rating, volume/capacity of the sprayer, area to be painted, pressure adjustability, easy to clean, sprayer type, and the nozzle model before making your final purchase order. > See Also: > Cordless Paint [Sprayers](https://pestpolicy.com/best-cordless-paint-sprayers/)
 
-##  s:7 Best Paint [Sprayer](https://pestpolicy.com/best-paint-sprayer-for-doors/) for Exterior Walls 2025
+##  s:7 Best Paint [Sprayer](https://pestpolicy.com/best-paint-sprayer-for-doors/)for Exterior Walls 2025
 
 ###  [1. Graco 17G180 Magnum ProX19 Cart Paint Sprayer](https://www.amazon.com/dp/B01G8SXNNS/?tag=p-policy-20)
 

@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 
-Nestled in the heart of [Tacoma](https://pestpolicy.com/tacoma-art-museum/), the Tacoma Farmers Market is a vibrant community hub that offers a rich array of fresh produce, artisanal goods, and local delights.
+Nestled in the heart of [Tacoma](https://pestpolicy.com/tacoma-art-museum/),the Tacoma Farmers Market is a vibrant community hub that offers a rich array of fresh produce, artisanal goods, and local delights.
 
 This market, which operates in several locations throughout the city, is more than just a place to buy groceriesit's a gathering spot that embodies the spirit and culture of Tacoma. **What the Market Offers** The Tacoma Farmers Market is renowned for its diverse offerings. From farm-fresh fruits and vegetables to handmade crafts, there's something for everyone.
 

@@ -16,7 +16,7 @@ tags:
 layout: post
 ---
 
-Rodents such as rats and mice can pose serious health risks and cause significant damage to homes in Salem, OR. Effective rodent [control](https://pestpolicy.com/rodent-control-in-puyallup/) involves identifying signs of infestation, implementing preventive measures, and using targeted treatments to eradicate these pests.
+Rodents such as rats and mice can pose serious health risks and cause significant damage to homes in Salem, OR. Effective rodent [control](https://pestpolicy.com/rodent-control-in-puyallup/)involves identifying signs of infestation, implementing preventive measures, and using targeted treatments to eradicate these pests.
 
 ####  Common Rodent Species in Salem
 
@@ -42,7 +42,7 @@ For minor rodent problems, you can try these DIY methods: - **Traps**: Use snap 
 
 ####  Professional Rodent Control Services in Salem
 
-For persistent rodent problems or large infestations, it's best to consult with a professional pest control service in Salem. They can provide: - **Thorough Inspection**: Identify entry points, nesting sites, and the extent of the infestation. - **Effective Treatments**: Use rodenticides, [traps](https://pestpolicy.com/best-outdoor-rat-traps/), and exclusion methods to eliminate rodents.
+For persistent rodent problems or large infestations, it's best to consult with a professional pest control service in Salem. They can provide: - **Thorough Inspection**: Identify entry points, nesting sites, and the extent of the infestation. - **Effective Treatments**: Use rodenticides, [traps](https://pestpolicy.com/best-outdoor-rat-traps/),and exclusion methods to eliminate rodents.
 
 - **Preventative Measures**: Offer advice on how to prevent future rodent infestations.
 

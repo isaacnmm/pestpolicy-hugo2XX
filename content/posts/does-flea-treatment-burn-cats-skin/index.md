@@ -43,7 +43,7 @@ Flea-repelling plants include Chrysanthemums, Penny Royal, Thyme, Sage, Clove, B
 
 ###  [Pet scape Organic Cat Flea Collar](https://www.amazon.com/dp/B07RQMBWGH/?tag=p-policy-20)
 
-Pet Scape collar flea treatment for your kitten is one of the best flea treatments for kittens - with another daily dosage. Nieko flea collar will work magic for you as it can treat your kitten for 8months. - The product is a 100%[natural flea treatment](https://pestpolicy.com/does-apple-cider-vinegar-kill-fleas/)that is veterinary recommended. - Nieko[flea collar is quick-acting](https://pestpolicy.com/best-flea-collar-for-dogs/), as it will begin to work after 24 hours once fitted.
+Pet Scape collar flea treatment for your kitten is one of the best flea treatments for kittens - with another daily dosage. Nieko flea collar will work magic for you as it can treat your kitten for 8months. - The product is a 100%[natural flea treatment](https://pestpolicy.com/does-apple-cider-vinegar-kill-fleas/)thatis veterinary recommended. - Nieko[flea collar is quick-acting](https://pestpolicy.com/best-flea-collar-for-dogs/),as it will begin to work after 24 hours once fitted.
 
 It works on contact killing adult fleas, larvae, and eggs. The collar is waterproof and safe for all kittens/cats it does not cause irritations. It wont be affected by sun exposure or bleach due to its high-resistant fabric material. Nieko flea collar is non-greasy, hypoallergenic, and odorless. The collar is made of organic essential oils that do not harm your kitten. It has a natural oil that inhibits/prevents the infestation of the flea.
 

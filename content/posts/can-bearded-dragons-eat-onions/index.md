@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 
-Do you own one of these [smart bearded [dragon](https://pestpolicy.com/can-bearded-dragons-eat-apples/)](https://pestpolicy.com/how-smart-are-[bearded](https://pestpolicy.com/can-bearded-dragons-eat-bananas/)-dragons/) or have you seen one at you field or zoo and even wonder what they actually eat? But when it comes to other foods such as onions, you may need to pay a little bit of attention. *So, can bearded Dragon Eat Onions?
+Do you own one of these [smart bearded [dragon](https://pestpolicy.com/can-bearded-dragons-eat-apples/)](https://pestpolicy.com/how-smart-are-[bearded](https://pestpolicy.com/can-bearded-dragons-eat-bananas/)-dragons/)or have you seen one at you field or zoo and even wonder what they actually eat? But when it comes to other foods such as onions, you may need to pay a little bit of attention. *So, can bearded Dragon Eat Onions?
 
 * **The simple answer is No.
 
@@ -25,7 +25,7 @@ Never feed bearded dragon with (cooked or raw). Onions are laced with high level
 
 ###  1. Toxic to their digestive system
 
-Onions (scientific name *Allium cepa* ) usually contain toxic substance which when eaten by Bearded Dragon, it toxifies the alimentary canal leading to digestion problems such as incomplete digestion, [vomiting and burning sensation](https://www.vetexotic. theclinics. com/article/S1094-9194(16)30081-0/abstract).
+Onions (scientific name *Allium cepa* ) usually contain toxic substance which when eaten by Bearded Dragon, it toxifies the alimentary canal leading to digestion problems such as incomplete digestion, [vomiting and burning sensation](https://www.vetexotic.theclinics.com/article/S1094-9194(16)30081-0/abstract).
 
 You will notice mixed reaction when you feed your beard dragon with onions due to colorless steam produced by fleshly cut onions. These steam emissions from onions usually make your pet bearded dragon to even shed tears (though they dont cry like human beings do). - Though scientific research has been done, it has not been able to establish the exact chemical that cause tears and itching sensation on bearded dragon.
 
@@ -57,7 +57,7 @@ Onion has other nutritional components that may be of nutritional value for your
 
 1. Any plant feeds should be fresh, chopped and thoroughly washed before feeding your bearded dragon. Water provides added nutrition to your beaded dragon. 2. Never feed your bearded dragons with food pieces that are larger than the space between the eyes (this cause chocking while feeding). 3. Let your bearded dragon hunt for food (insects) introduced in the cage to enable it to exercise while moving. 4.
 
-Always ensure that you feed you bearded dragon from a dish to prevent it from direct swallowing, which may cause impaction leading to death or health complications. 5. Never leave excess food in the cage after feeding your bearded dragon - [including egg diet](https://pestpolicy.com/can-bearded-dragons-eat-eggs/). This makes it less active or docile since most of them never stop eating. 6.
+Always ensure that you feed you bearded dragon from a dish to prevent it from direct swallowing, which may cause impaction leading to death or health complications. 5. Never leave excess food in the cage after feeding your bearded dragon - [including egg diet](https://pestpolicy.com/can-bearded-dragons-eat-eggs/).This makes it less active or docile since most of them never stop eating. 6.
 
 It is always advisable to offer plant feed mixed with insects to boost the nutrients acquired per feed.
 

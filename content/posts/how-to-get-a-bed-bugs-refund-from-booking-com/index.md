@@ -21,13 +21,13 @@ Encountering bed bugs during your stay at a hotel booked through Booking. com ca
 
 The first and most crucial step in securing a refund for a bed bug infestation is gathering concrete evidence. Bed bugs are notorious for their ability to hide in various nooks and crannies within a hotel room.
 
-To effectively document their presence, follow these steps as outlined in [bedbugreports. com](https://bedbugreports.com/): - **Photograph the Bed Bugs: **Use your smartphone or camera to take clear, high-resolution photographs of the bed bugs themselves and[bed bug eggs](https://pestpolicy.com/how-to-kill-bed-bug-eggs/). Focus on capturing their size, color, and any unique markings.
+To effectively document their presence, follow these steps as outlined in [bedbugreports. com](https://bedbugreports.com/):- **Photograph the Bed Bugs: **Use your smartphone or camera to take clear, high-resolution photographs of the bed bugs themselves and[bed bug eggs](https://pestpolicy.com/how-to-kill-bed-bug-eggs/).Focus on capturing their size, color, and any unique markings.
 
 - **Inspect Hiding Spots: **Bed bugs often hide in seams and folds of mattresses, cracks in headboards, baseboards, and even behind picture frames. Carefully inspect these areas and document any signs of infestation, such as eggs, fecal stains, or molted exoskeletons. - **Date and Time Stamp: **Ensure your photographs are date and time-stamped. This will provide a clear timeline of when the infestation was discovered.
 
-- **Use a Ruler or Coin for Scale: **Include a common object like a coin or a ruler in your photographs to provide a sense of scale, which can be crucial in identifying bugs. Gathering solid evidence of the [bed bugs' presence](https://pestpolicy.com/how-to-find-[bed-bugs](https://pestpolicy.com/bed-bug-bites-vs-mosquito-bites/)/) is the foundation of your refund request. Without it, your claim may lack credibility.
+- **Use a Ruler or Coin for Scale: **Include a common object like a coin or a ruler in your photographs to provide a sense of scale, which can be crucial in identifying bugs. Gathering solid evidence of the [bed bugs' presence](https://pestpolicy.com/how-to-find-[bed-bugs](https://pestpolicy.com/bed-bug-bites-vs-mosquito-bites/)/)is the foundation of your refund request. Without it, your claim may lack credibility.
 
-##  **2. Documenting [Bed](https://pestpolicy.com/bed-bug-bites-vs-other-bites/) Bug-Related Injuries**
+##  **2. Documenting [Bed](https://pestpolicy.com/bed-bug-bites-vs-other-bites/)Bug-Related Injuries**
 
 Bed bug bites can cause a range of reactions, from mild itching to severe allergic responses. To strengthen your case for a refund, it's essential to thoroughly document any injuries or discomfort caused by these bites: - **Photograph Bite Marks: **Capture clear, close-up photographs of the bed bug bite marks on your body. Ensure the images are well-lit and dated.
 

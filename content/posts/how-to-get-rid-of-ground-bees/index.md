@@ -15,11 +15,11 @@ tags:
 layout: post
 ---
 
-Have you noticed some conical dirt piles, but similar to anthills, with large openings in your yard? You could be having ground [bees](https://pestpolicy.com/get-rid-sweat-bees/) in your lawn! To be sure, watch any bees or insects flying into or out of the burrowed ground. - [Ground bees](https://entomology.cals. cornell.
+Have you noticed some conical dirt piles, but similar to anthills, with large openings in your yard? You could be having ground [bees](https://pestpolicy.com/get-rid-sweat-bees/)in your lawn! To be sure, watch any bees or insects flying into or out of the burrowed ground. - [Ground bees](https://entomology.cals.cornell.
 
 edu/extension/wild-pollinators/native-bees-your-backyard)dig mainly in bare areas of the garden or lawn, particularly in early spring.
 
-Therefore, maybe you should consider how to get [rid](https://pestpolicy.com/how-to-get-rid-of-carpenter-bees-without-killing-them/) of ground beesthat are in your yard? Related: [Easily Get Rid of Sweat Bees](https://pestpolicy.com/get-rid-sweat-bees/). **Wait: ** Bee stings are feared because they are lethal, and they cause pain. But, do ground bees pose a danger to you, your family, or your pets?
+Therefore, maybe you should consider how to get [rid](https://pestpolicy.com/how-to-get-rid-of-carpenter-bees-without-killing-them/)of ground beesthat are in your yard? Related: [Easily Get Rid of Sweat Bees](https://pestpolicy.com/get-rid-sweat-bees/).**Wait: ** Bee stings are feared because they are lethal, and they cause pain. But, do ground bees pose a danger to you, your family, or your pets?
 
 ##  Details: How to Get Rid of Ground Bees
 

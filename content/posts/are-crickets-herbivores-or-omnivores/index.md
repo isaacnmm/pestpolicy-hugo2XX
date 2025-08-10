@@ -43,7 +43,7 @@ In addition to plant matter, crickets are known to feast on small insects like a
 
 Crickets are opportunistic and may consume fungi and detritus when available. Fungi can be a vital source of nutrients, and detritus can provide them with valuable sustenance.
 
-##  The Ecological Significance of [Cricket](https://pestpolicy.com/are-crickets-good-or-bad/) Diets
+##  The Ecological Significance of [Cricket](https://pestpolicy.com/are-crickets-good-or-bad/)Diets
 
 Understanding the dietary habits of crickets goes beyond mere curiosity. Their omnivorous nature holds ecological significance and plays a crucial role in various ecosystems.
 
@@ -57,7 +57,7 @@ One of the key contributions of crickets to ecosystems is pest control. By consu
 
 ###  3. Nutrient Cycling: Their Role in Decomposition
 
-Crickets' consumption of decaying matter contributes to [nutrient cycling and decomposition](https://pestpolicy.com/are-crickets-decomposers/). - As they break down organic material, they return valuable nutrients to the soil. This nutrient recycling is essential for maintaining the health of ecosystems, enhancing soil fertility, and supporting plant growth.
+Crickets' consumption of decaying matter contributes to [nutrient cycling and decomposition](https://pestpolicy.com/are-crickets-decomposers/).- As they break down organic material, they return valuable nutrients to the soil. This nutrient recycling is essential for maintaining the health of ecosystems, enhancing soil fertility, and supporting plant growth.
 
 ##  The Influence of Diet on Cricket Behavior
 

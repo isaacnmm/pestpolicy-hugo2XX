@@ -49,7 +49,7 @@ This means one or more edges of the field tile are factory-finished (glazed) to 
 * **Wet Saw Techniques:** If attempting mitered edges, watch detailed tutorials on using a wet saw to cut 45-degree bevels accurately and safely. * **Selecting Tile Trim:** Explore the full range of Schluter profiles or similar metal trim products from other brands to find the perfect style and finish for your project.
 * **Bathroom Renovation Guides:** Consult comprehensive guides on bathroom remodeling for broader context on framing, backer board installation, and other related tasks for a complete renovation project.
 
-A [shower](https://pestpolicy.com/a-shower-wand-made-to-clean-your-tub/) niche is a practical and aesthetically pleasing addition to any modern bathroom, providing recessed storage for toiletries without the clutter of caddies. While traditional tiling often relies on bullnose tiles to create a finished edge, many contemporary designs favor cleaner, more minimalist lines.
+A [shower](https://pestpolicy.com/a-shower-wand-made-to-clean-your-tub/)niche is a practical and aesthetically pleasing addition to any modern bathroom, providing recessed storage for toiletries without the clutter of caddies. While traditional tiling often relies on bullnose tiles to create a finished edge, many contemporary designs favor cleaner, more minimalist lines.
 
 This guide explores the best methods for tiling a shower niche beautifully and professionally without using bullnose tiles.
 

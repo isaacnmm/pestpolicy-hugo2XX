@@ -14,7 +14,7 @@ tags:
 layout: post
 ---
 
-Below I've outlined some airless [paint](https://pestpolicy.com/airless-paint-sprayer-cleaning-solution/) sprayer tips to help you deliver a glass-smooth and elegant finish within budget and a short time.
+Below I've outlined some airless [paint](https://pestpolicy.com/airless-paint-sprayer-cleaning-solution/)sprayer tips to help you deliver a glass-smooth and elegant finish within budget and a short time.
 
 This includes excellent painting techniques, and how the machine works - how to set-up, avoiding clogging, and clean the airless sprayers after work. Having the right spray tip for your airless paint sprayer creates a professional and beautiful finish as your surfaces and job required. The right tip will eject enough fluid from the sprayer once you pull its trigger - it also influences the width of the spray fan.
 
@@ -22,7 +22,7 @@ This includes excellent painting techniques, and how the machine works - how to 
 
 ###  1.**Renting vs. Buying ****an****Airless Paint Sprayer**
 
-First, for residential & commercial painting projects, renting a team with [airless sprayers](https://www.williamson. edu/education/trade-programs/paint-and-coatings/) will be up to 4 times as fast compared to using brushes and rollers. A sprayer team with an airless sprayer will take one week to do a job that a traditional team would undertake in 4 weeks. But the sprayer would pay for itself in a month.
+First, for residential & commercial painting projects, renting a team with [airless sprayers](https://www.williamson.edu/education/trade-programs/paint-and-coatings/)will be up to 4 times as fast compared to using brushes and rollers. A sprayer team with an airless sprayer will take one week to do a job that a traditional team would undertake in 4 weeks. But the sprayer would pay for itself in a month.
 
 *Buying*: However, on owning the airless paint sprayer, it would take more than just owning the machine, but you'll also require to have the necessary skills to deliver an excellent finish. Thus, renting the airless sprayer will do more for the same time, including painting the trim, walls, and ceilings.
 

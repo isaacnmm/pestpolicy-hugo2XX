@@ -16,7 +16,7 @@ tags:
 layout: post
 ---
 
-Beneath the lush, green surface of your [lawn](https://pestpolicy.com/10-essential-lawn-and-garden-tools-for-fall/), an unseen threat might be silently undermining its health: lawn grubs. These C-shaped, white larvae are the immature stage of various beetles, including Japanese beetles, May/June beetles, and chafers, and they have an insatiable appetite for the roots of your turfgrass.
+Beneath the lush, green surface of your [lawn](https://pestpolicy.com/10-essential-lawn-and-garden-tools-for-fall/),an unseen threat might be silently undermining its health: lawn grubs. These C-shaped, white larvae are the immature stage of various beetles, including Japanese beetles, May/June beetles, and chafers, and they have an insatiable appetite for the roots of your turfgrass.
 
 A severe grub infestation can quickly transform a vibrant lawn into a patchy, brown, and spongy expanse that peels back like a rug, leaving homeowners scratching their heads and reaching for solutions.
 
@@ -56,7 +56,7 @@ Avoid excessive nitrogen, which can create lush, tender growth that grubs might 
 
 * **Effectiveness: ** Highly effective when applied correctly and at the right time. * **Caution: ** Read labels carefully. Some preventative chemicals can be harmful to pollinators if applied during bloom times or to plants they visit.
 
-##  How to Get [Rid](https://pestpolicy.com/how-to-get-rid-of-crabgrass/) of Lawn Grubs
+##  How to Get [Rid](https://pestpolicy.com/how-to-get-rid-of-crabgrass/)of Lawn Grubs
 
 Once you have identified an active grub infestation, curative treatments are necessary. The timing of these treatments is crucial for success.
 

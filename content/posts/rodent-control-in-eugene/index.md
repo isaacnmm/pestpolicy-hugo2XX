@@ -27,7 +27,7 @@ Rodent infestations can be a serious concern for homeowners in Eugene, OR, where
 
 ####  Prevention Tips for Eugene Homeowners
 
-Preventing a rodent infestation is the first step in effective rodent [control](https://pestpolicy.com/rodent-control-in-bellevue/). Here are some practical tips specifically for homeowners in [Eugene](https://pestpolicy.com/hendricks-park/): 1. **Seal Entry Points**: Rodents can squeeze throughsmall openings. Inspect your homes exterior and seal any gaps or cracks in walls, windows, doors, and the foundation.
+Preventing a rodent infestation is the first step in effective rodent [control](https://pestpolicy.com/rodent-control-in-bellevue/).Here are some practical tips specifically for homeowners in [Eugene](https://pestpolicy.com/hendricks-park/):1. **Seal Entry Points**: Rodents can squeeze throughsmall openings. Inspect your homes exterior and seal any gaps or cracks in walls, windows, doors, and the foundation.
 
 Pay special attention to areas where utility lines and pipes enter the home. 2.
 
@@ -45,7 +45,7 @@ If you notice signs of rodent activity in your home, these DIY methods can help 
 
 **Rodent Baits**: Commercial rodent baits can be effective but should be used with caution, especially in homes with pets and children.
 
-Place baits in secure, tamper-proof bait stations and follow the manufacturers instructions. 3. **Natural Repellents**: Use natural repellents such as peppermint oil, ammonia, or mothballs to[deter or repel rodents](https://pestpolicy.com/best-chipmunk-repellents/). Place these substances in areas where rodents are active. Eugenes commitment to eco-friendly practices makes natural repellents a great option.
+Place baits in secure, tamper-proof bait stations and follow the manufacturers instructions. 3. **Natural Repellents**: Use natural repellents such as peppermint oil, ammonia, or mothballs to[deter or repel rodents](https://pestpolicy.com/best-chipmunk-repellents/).Place these substances in areas where rodents are active. Eugenes commitment to eco-friendly practices makes natural repellents a great option.
 
 ####  When to Call a Professional in Eugene
 

@@ -110,7 +110,7 @@ Related: Front Tine vs. Rear Tine Tillers
 
 ##  **Considerations for Buying Best Tiller for Subcompact Tractor**
 
-**1. Forward or Reverse** This consideration should be to of your questions to ask when you seek a tiller. Usually, a reverse- rotating tiller will dig deeper into the ground, while forward-rotating tiller will bounce off hardpans - [rear tine tillers](https://pestpolicy.com/best-rear-tine-tiller/). So, consider the nature of the land you want to till. If it is slightly soft, then a forward-rotating tiller will work for you.
+**1. Forward or Reverse** This consideration should be to of your questions to ask when you seek a tiller. Usually, a reverse- rotating tiller will dig deeper into the ground, while forward-rotating tiller will bounce off hardpans - [rear tine tillers](https://pestpolicy.com/best-rear-tine-tiller/).So, consider the nature of the land you want to till. If it is slightly soft, then a forward-rotating tiller will work for you.
 
 However, if it is hard, then you are better off with a reverse-rotating tiller. Forward-rotating tillers are also excellent on rocky places, as they will fling the rocks away from the rotor. **2. Number of Tines** The number of tines varies the HP of the rotor. Also, more tines per flange mean that you will have a rotor with a heavier weight, which will add to your maintenance cost.
 

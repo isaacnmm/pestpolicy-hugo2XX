@@ -14,7 +14,7 @@ tags:
 layout: post
 ---
 
-If youre looking for creative and awesome ideas on [How](https://pestpolicy.com/how-to-build-a-backyard-train/) to Camp Out In Your Backyard this article is for you. I will provide an [ultimate](https://pestpolicy.com/best-lawn-treatment/) guide for fun backyard camping for both adults and children.
+If youre looking for creative and awesome ideas on [How](https://pestpolicy.com/how-to-build-a-backyard-train/)to Camp Out In Your Backyard this article is for you. I will provide an [ultimate](https://pestpolicy.com/best-lawn-treatment/)guide for fun backyard camping for both adults and children.
 
 Camping in the backyard will keep you, the kids, and the guests entertained. It offers amazing opportunities to engage in different activities for an unforgettable camping experience. **So, How to Camp Out in Your Backyard** **To camp in your backyard, youll need to pitch a tent, build a fire pit, Cook Some delicious Camp food, add some fun activities and backyard games, and remember to include a bug spray.
 
@@ -36,7 +36,7 @@ Before you pitch the tent, determine the number of people you would be hosting. 
 
 Ensure that the tent is of good quality to provide protection against bugs, rain, and the wind.
 
-If youve never assembled a tent before checking out this article on [how to assemble a tent](https://www.wikihow. com/Assemble-a-Tent) will provide crucial and helpful information.
+If youve never assembled a tent before checking out this article on [how to assemble a tent](https://www.wikihow.com/Assemble-a-Tent)will provide crucial and helpful information.
 
 However, if you dont have a tent you can build a makeshift shelter. Tie a rope between two trees and hang a large canvas, tarp, or blanket at the top.
 
@@ -104,7 +104,7 @@ Youll need a video projector, a canvas, or a white bed sheet that will act as th
 
 ###  7. Do Stargazing
 
-Stargazing is about looking at the sky and the stars. Spread out a big blanket on the ground. Lie down and gaze at the stars. You can use [Sky Map](https://play.google. com/store/apps/details? id=com. google. android. stardroid&hl=en_US&gl=US) to identify stars, Orion, planets, and more
+Stargazing is about looking at the sky and the stars. Spread out a big blanket on the ground. Lie down and gaze at the stars. You can use [Sky Map](https://play.google.com/store/apps/details?id=com.google.android.stardroid&hl=en_US&gl=US)to identify stars, Orion, planets, and more
 
 ##  BackyardCamping Activities
 
@@ -114,11 +114,11 @@ This can be more fun if you have musical instruments like guitar - Learning in t
 
 ##  BackyardCamping For Adults
 
-You can also include a backyard camping party for adults to keep adults entertained. I have previously written about [the 10 best BBQ Party Games Ideas for Adults](https://pestpolicy.com/bbq-party-games-ideas-for-adults/). You can check out this article for ideas on how to keep adults engaged and entertained.
+You can also include a backyard camping party for adults to keep adults entertained. I have previously written about [the 10 best BBQ Party Games Ideas for Adults](https://pestpolicy.com/bbq-party-games-ideas-for-adults/).You can check out this article for ideas on how to keep adults engaged and entertained.
 
 ##  BackyardCamping Covid
 
-With the [covid 19](https://www.who. int/health-topics/coronavirus) pandemic, its wise to limit outings and interactions with large crowds. The idea of backyard camping during the covid time is a welcomed thing that will help people stay indoors but still have fun.
+With the [covid 19](https://www.who.int/health-topics/coronavirus)pandemic, its wise to limit outings and interactions with large crowds. The idea of backyard camping during the covid time is a welcomed thing that will help people stay indoors but still have fun.
 
 There are so many games and activities that everyone can engage in and still have fun. Some examples include Campfire stories, singing, video games, and many others.
 

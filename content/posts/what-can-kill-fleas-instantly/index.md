@@ -14,7 +14,7 @@ tags:
 layout: post
 ---
 
-Fleas can be a nightmare for pet owners and homeowners alike. These tiny, blood-sucking insects can cause discomfort to pets and humans, leading to itching, irritation, and even serious health problems. If youre dealing with a [flea](https://pestpolicy.com/are-fleas-attracted-to-heat/) infestation, youll want to know what can kill fleas instantly to provide relief.
+Fleas can be a nightmare for pet owners and homeowners alike. These tiny, blood-sucking insects can cause discomfort to pets and humans, leading to itching, irritation, and even serious health problems. If youre dealing with a [flea](https://pestpolicy.com/are-fleas-attracted-to-heat/)infestation, youll want to know what can kill fleas instantly to provide relief.
 
 In this article, well discuss effective solutions to eradicate fleas quickly and safely.
 

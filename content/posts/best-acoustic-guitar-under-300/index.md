@@ -16,7 +16,7 @@ layout: post
 
 In this article, we present to you a list of Best Acoustic Guitars Under 300 which have been applauded by guitarists for their quality and affordability.
 
-Top-name companies that manufacture expensive [acoustic guitars](https://en.wikipedia. org/wiki/Acoustic_guitar) are now making acoustic guitars that are budget-friendly, high quality, with a variety of designs to suit your preference. Summary: For a $300 budget, I recommend Yamaha FG800 or the Breedlove Discovery Concert as your Best Acoustic Guitars Under $300.
+Top-name companies that manufacture expensive [acoustic guitars](https://en.wikipedia.org/wiki/Acoustic_guitar)are now making acoustic guitars that are budget-friendly, high quality, with a variety of designs to suit your preference. Summary: For a $300 budget, I recommend Yamaha FG800 or the Breedlove Discovery Concert as your Best Acoustic Guitars Under $300.
 
 These 2 models boast of excellent playability, exceptional build quality, and great musical tone.
 
@@ -48,7 +48,7 @@ Its made using quality materials - the back and sides are designed using laminat
 
 ###  [3. Alvarez Artist Series AF30 - #3 Pick](https://www.amazon.com/dp/B07DP3PP94/?tag=p-policy-20)
 
-Alvarez is widely known to produce quality instruments and this Artist Series AF30 does not disappoint. This [acoustic](https://pestpolicy.com/best-acoustic-guitar-under-1500/) guitar is affordable and comes with a variety of amazing features to make your playing experience fun and exciting.
+Alvarez is widely known to produce quality instruments and this Artist Series AF30 does not disappoint. This [acoustic](https://pestpolicy.com/best-acoustic-guitar-under-1500/)guitar is affordable and comes with a variety of amazing features to make your playing experience fun and exciting.
 
 These award-winning series boast of excellent Sitka spruce while the top is all cedar thats hand-picked from quarter-sawn wood. These features give the guitar consistent quality making it stand out among the rest. The tops are finely grained and strong to allow the manufactures to give the guitars thinner cut for increased vibration and a richer tone when played.
 

@@ -14,9 +14,9 @@ tags:
 layout: post
 ---
 
-Many professional and DIY painters have asked how to thin oil-based [paint](https://pestpolicy.com/airless-paint-sprayer-tips/) for the spray gun. Possibly you got interested in reading this article because you have sought answers to the same question before.
+Many professional and DIY painters have asked how to thin oil-based [paint](https://pestpolicy.com/airless-paint-sprayer-tips/)for the spray gun. Possibly you got interested in reading this article because you have sought answers to the same question before.
 
-Well, for their convenience and speed, spray guns are great tools for use in any painting project. However, if you will use [oil](https://pestpolicy.com/best-oil-based-primer-for-cabinets/)-based paint, you have to thin it out for the best outcomes. Several questions usually linger whenever oil-based paint is mentioned, and these include; - What is oil-based paint? - How do you thin oil-based paint? - What is oil-based paint used for?
+Well, for their convenience and speed, spray guns are great tools for use in any painting project. However, if you will use [oil](https://pestpolicy.com/best-oil-based-primer-for-cabinets/)-basedpaint, you have to thin it out for the best outcomes. Several questions usually linger whenever oil-based paint is mentioned, and these include; - What is oil-based paint? - How do you thin oil-based paint? - What is oil-based paint used for?
 
 - What types of paint are oil-based?
 

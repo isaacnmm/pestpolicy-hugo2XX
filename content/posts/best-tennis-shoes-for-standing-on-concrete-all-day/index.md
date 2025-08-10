@@ -76,7 +76,7 @@ The Gel-Resolution 7 is the best tennis shoe to consider as it will provide you 
 
 ###  [5. Wilson Women's Rush Pro 2.5](https://www.amazon.com/dp/B077J1KG1G/?tag=p-policy-20)
 
-The Wilson Rush 2. 5 is one of Best Tennis Shoes for Standing on Concrete All Day. This [shoe](https://pestpolicy.com/best-running-shoes-for-extensor-tendonitis/) has obtained great updates to keep you on the top of the game.
+The Wilson Rush 2. 5 is one of Best Tennis Shoes for Standing on Concrete All Day. This [shoe](https://pestpolicy.com/best-running-shoes-for-extensor-tendonitis/)has obtained great updates to keep you on the top of the game.
 
 The shoe features sensifeel technology and combines comfort and stability to ensure top performance. Youll appreciate the torsion control and the stability from the bottom of your foot up to the arch the shoe offers. Your feet remain supported all through even during aggressive lateral movements. The Wilson Rush 2. 5 delivers exceptional responsiveness allowing the feet to effortlessly adapt to natural strides.
 
@@ -84,7 +84,7 @@ Also, the heel drop is low enough to allow you to build on your speed while offe
 
 These shoes also feature Kevlar and superior polyamide threads around the upper section to increase the lifespan of the shoes.
 
-Read Also: [Running Shoes For Men With Flat Feet](https://pestpolicy.com/best-running-shoes-for-men-with-flat-feet/). Overall, if you want a shoe that delivers exceptional speed, is highly durable, promotes high performance, and is highly lightweight, then we recommend the Babolat Jet Mach II Read Also: Running Shoes For Bad Knees
+Read Also: [Running Shoes For Men With Flat Feet](https://pestpolicy.com/best-running-shoes-for-men-with-flat-feet/).Overall, if you want a shoe that delivers exceptional speed, is highly durable, promotes high performance, and is highly lightweight, then we recommend the Babolat Jet Mach II Read Also: Running Shoes For Bad Knees
 
 ##  Conclusion
 

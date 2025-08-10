@@ -14,7 +14,7 @@ tags:
 layout: post
 ---
 
-Dried [paint](https://pestpolicy.com/airless-paint-sprayer-tips/) is at times cumbersome to remove from porcelain, especially when the wrong procedure is used. Could you be having similar challenges?
+Dried [paint](https://pestpolicy.com/airless-paint-sprayer-tips/)is at times cumbersome to remove from porcelain, especially when the wrong procedure is used. Could you be having similar challenges?
 
 *On how to remove paint from a porcelain tub; use turpentine, soapy detergent or warm water, denatured alcohol, and damp cloth, or cleanser powder and sponge when removing paint from your porcelain tub. * *In addition, the use of stripping chemicals, fabric softener, and scrubbing material will remove paint excellently if you stick to the procedure highlighted in this article.
 
@@ -26,7 +26,7 @@ However, intensive care should be adhered to in order to prevent your porcelain 
 
 ###  Method 1: Using Soapy Detergent and Warm Water
 
-Soapy detergent can be used to clean water-based or [latex paint](https://pestpolicy.com/what-is-latex-paint-used-for/) without experiencing any challenges since the chemical structure is self-activating and acts upon contact. Though the detergent does clean wet oil-based paint, the finish quality is not excellent as compare to latex paint removal.
+Soapy detergent can be used to clean water-based or [latex paint](https://pestpolicy.com/what-is-latex-paint-used-for/)without experiencing any challenges since the chemical structure is self-activating and acts upon contact. Though the detergent does clean wet oil-based paint, the finish quality is not excellent as compare to latex paint removal.
 
 The components in the soapy detergent mix with wet or dried latex paint and breaks it into thick viscous fluid, which more comfortable to clean.
 

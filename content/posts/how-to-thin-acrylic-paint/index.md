@@ -18,7 +18,7 @@ The paint application process doesnt only require a professional painter; having
 
 If you get it wrong when thinning, chances are that you wont attain an excellent finish coat. Perhaps you are wondering how to undertake paint thinning? *On how to thin acrylic paint, start by selecting the tools & right material and preparing the surface to be used when thinning. You can thin acrylic paint by using water (for acrylic-latex paint), acrylic binder, paint thinner, or pouring medium.
 
-* * * *However, each of the following thinning mediums has particular instructions and procedures, which should be adhered to in order to attain uniform and well-thinned acrylic paint. * > *See Also: * > [Removing Acrylic Paint from Canvas](https://pestpolicy.com/how-to-remove-acrylic-paint-from-canvas/) * *
+* * * *However, each of the following thinning mediums has particular instructions and procedures, which should be adhered to in order to attain uniform and well-thinned acrylic paint. * > *See Also: * > [Removing Acrylic Paint from Canvas](https://pestpolicy.com/how-to-remove-acrylic-paint-from-canvas/)* *
 
 ##  Details: How To Thin Acrylic Paint (Paint with Acrylics)
 

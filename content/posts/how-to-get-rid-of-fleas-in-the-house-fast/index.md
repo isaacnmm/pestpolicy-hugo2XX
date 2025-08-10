@@ -15,9 +15,9 @@ tags:
 layout: post
 ---
 
-[Fleas](https://pestpolicy.com/getting-rid-of-fleas-in-the-carpet/) are a major problem for many people in houses and offices. They can infest your carpet, furniture, and even your pets.
+[Fleas](https://pestpolicy.com/getting-rid-of-fleas-in-the-carpet/)are a major problem for many people in houses and offices. They can infest your carpet, furniture, and even your pets.
 
-Some fleas fall off [these wild animals](https://www.extension. colostate. edu/docs/pubs/insect/05600. pdf) onto furniture, carpets, and bedding. So, on how to get rid of fleas in the house fast, you'll want to: - Vacuum your carpets, furniture, and hard floors thoroughly. Be sure to change the bag in your vacuum cleaner often.
+Some fleas fall off [these wild animals](https://www.extension.colostate.edu/docs/pubs/insect/05600.pdf)onto furniture, carpets, and bedding. So, on how to get rid of fleas in the house fast, you'll want to: - Vacuum your carpets, furniture, and hard floors thoroughly. Be sure to change the bag in your vacuum cleaner often.
 
 - Wash all bedding, curtains, and clothes that have come into contact with fleas or their droppings using a temperature of at least 60C (140F) for all items.
 
@@ -25,7 +25,7 @@ Some fleas fall off [these wild animals](https://www.extension. colostate. edu/d
 
 ##  Step by Step - How to Get Rid Of Fleas in the House Fast
 
-###  Step 1: Use [Flea](https://pestpolicy.com/how-to-get-rid-of-flea-eggs-on-cats/) traps
+###  Step 1: Use [Flea](https://pestpolicy.com/how-to-get-rid-of-flea-eggs-on-cats/)traps
 
 Flea traps offer an easy method to remove fleas from your home. They contain a chemical that attracts insects, which then die on their sticky surface.
 
@@ -57,7 +57,7 @@ All the eggs, which will hatch soon after they are laid, need to be killed at th
 
 ###  Step 3: Use Flea Tablets
 
-Flea tabletssuch as the Novartis Capstar are fed on cats and [dogs](https://pestpolicy.com/best-flea-treatment-for-dogs/) to remove fleas with fast results - exterminating the bugs in about 30 minutes. - Flea tablets are used in combination with a good flea shampoo. The flea tablet helps to kill the eggs and larvae of the insect on contact, while the shampoo helps remove live fleas that may be stuck on your pets skin or fur.
+Flea tabletssuch as the Novartis Capstar are fed on cats and [dogs](https://pestpolicy.com/best-flea-treatment-for-dogs/)to remove fleas with fast results - exterminating the bugs in about 30 minutes. - Flea tablets are used in combination with a good flea shampoo. The flea tablet helps to kill the eggs and larvae of the insect on contact, while the shampoo helps remove live fleas that may be stuck on your pets skin or fur.
 
 - The best way to tell if an animal has been bitten by a tick is through its behavior - such as lethargy, having decreased appetite, not grooming properly (or dong it excessively), etc. Flea tablets work well for dogs especially because they can get very dirty at times and hard to wash off effectively enough without some assistance from medication like this!
 

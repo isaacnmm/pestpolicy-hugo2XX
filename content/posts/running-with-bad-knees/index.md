@@ -14,11 +14,11 @@ tags:
 layout: post
 ---
 
-Having a bad [knee](https://pestpolicy.com/how-to-exercise-with-bad-knees-to-lose-weight/)? Here are the rules: dont run, lift or squat! Right? Wrong! You should consider bad knees as just a hurdle to overcome, and never an excuse to evade running and exercise - running with bad knees.
+Having a bad [knee](https://pestpolicy.com/how-to-exercise-with-bad-knees-to-lose-weight/)?Here are the rules: dont run, lift or squat! Right? Wrong! You should consider bad knees as just a hurdle to overcome, and never an excuse to evade running and exercise - running with bad knees.
 
 However, take caution while running with a bad knee since any weight-bearing exercise could increase knee pain.
 
-I know, there are significant arguments out there that running with a bad knee could lead to osteoarthritis. However, according to a recent study by [Hansen Utah Orthopaedic Centre](http://www.ncbi. nlm. nih. gov/pubmed/22632690), moderate and low volume runners have reduced the risk of developing osteoarthritis compared to non-runners.
+I know, there are significant arguments out there that running with a bad knee could lead to osteoarthritis. However, according to a recent study by [Hansen Utah Orthopaedic Centre](http://www.ncbi.nlm.nih.gov/pubmed/22632690),moderate and low volume runners have reduced the risk of developing osteoarthritis compared to non-runners.
 
 Here are the critical factors to consider before embarking on running with a bad knee: muscle problems, ligament tear, and cartilage tear, to have painless running. Read Also: What it truly means to have Bad Knees?
 
@@ -30,7 +30,7 @@ Do you run on hard surfaces such as concrete? You could be inducing harm to your
 
 However, always choose a soft but stable surface to avoid twisting your need, which would cause additional injury. If youve suffered shin splints or runners knee, soft surfaces such as trails will be great for your knees. Choose trails that are marked as asphalt or dirt.
 
-However, avoid trails that have rock and roots as you could land at a wrong angle to harm your knee. A recent [study by Foot and Ankle International journal](https://www.ncbi. nlm. nih. gov/pubmed/18785416) concluded that running on an asphalt surface reduced the risk of injury, tendinopathy, compared to running on the sandy surface **Avoid**: Sand tails should be a no for you unless you are sure that they have been hard-packed.
+However, avoid trails that have rock and roots as you could land at a wrong angle to harm your knee. A recent [study by Foot and Ankle International journal](https://www.ncbi.nlm.nih.gov/pubmed/18785416)concluded that running on an asphalt surface reduced the risk of injury, tendinopathy, compared to running on the sandy surface **Avoid**: Sand tails should be a no for you unless you are sure that they have been hard-packed.
 
 This is mainly because loose sand will twist your knee, hip, or ankle.
 

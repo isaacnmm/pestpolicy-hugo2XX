@@ -25,7 +25,7 @@ Indeed, baking soda has a sharp crystalline structure that can cut the bugs alim
 
 ** During bed bug extermination, you can either sprinkle the powder, prepare a paste, or pile the compound into layers for effective killing action. Related: Bed Bugs compared to Roaches-vs-roaches/)
 
-##  Details: Does [Baking](https://pestpolicy.com/does-baking-acid-kill-crickets/) Soda Kill Bed Bugs?
+##  Details: Does [Baking](https://pestpolicy.com/does-baking-acid-kill-crickets/)Soda Kill Bed Bugs?
 
 ###  Killing Action
 
@@ -79,7 +79,7 @@ You need to further wash the items in hot water in order to remove any toxic che
 
 ###  4. Using Isopropyl alcohol/Rubbing Alcohol
 
-[Isopropyl alcohol kills bed bugs](https://pestpolicy.com/does-rubbing-alcohol-kill-bed-bugs/) within 30 minutes upon contact with help of cuticle destructive additives, which not only causes suffocation but also disintegrates the exoskeleton.
+[Isopropyl alcohol kills bed bugs](https://pestpolicy.com/does-rubbing-alcohol-kill-bed-bugs/)within 30 minutes upon contact with help of cuticle destructive additives, which not only causes suffocation but also disintegrates the exoskeleton.
 
 The best approach when using this method is by direct spraying the solvent into bed bugs hideouts and infested items. Then, leave them for 10-15 hours killing action time
 
@@ -137,7 +137,7 @@ Removing bed bugs from your home is often a lengthy and costly undertaking. Cons
 
 Keep on monitoring the interceptors for any bed bug activity for several months - Cover your mattress with a zippered cover and ensure it is fully zipped bed bug proof - Seal any crack/crevice in the house with caulk to block bed bugs from hiding. Pay attention to cracks/openings around electric sockets and baseboards as well - Regularly wash beddings, curtains, and carpets.
 
-It is also recommendable to vacuum them from time to time dirt is a key bed bug attractant or hideout - Do not leave magazines, newspapers, or clothing on the ground - ensure they are neatly kept in their appropriate places - When checking in hotel rooms, inspect them for bed bugs to avoid transferring bed bugs into your home - Call a professional bed bug exterminator (including using[peppermint oil](https://pestpolicy.com/does-peppermint-oil-kill-bed-bugs/)) if you try out several bed bug extermination methods unsuccessfully - Avoid buying second-hand furniture or other household items where possible inspect them thoroughly in case you opt to purchase one
+It is also recommendable to vacuum them from time to time dirt is a key bed bug attractant or hideout - Do not leave magazines, newspapers, or clothing on the ground - ensure they are neatly kept in their appropriate places - When checking in hotel rooms, inspect them for bed bugs to avoid transferring bed bugs into your home - Call a professional bed bug exterminator (including using[peppermint oil](https://pestpolicy.com/does-peppermint-oil-kill-bed-bugs/))if you try out several bed bug extermination methods unsuccessfully - Avoid buying second-hand furniture or other household items where possible inspect them thoroughly in case you opt to purchase one
 
 ##  Conclusion
 

@@ -23,7 +23,7 @@ The chances are that you will be much more likely to notice the other signs of b
 
 There are many signs that an infestation of bed bugs might be present; some things you might commonly notice are blood spots and the bed bugs dropping, which appear as specks. You may also notice that you suffer from irritation and itching as a result of these creatures. However, one of the giveaway signs that you have some unwelcome guests could be their scent - check these bed bug nymphs.
 
-It is more common to notice bed bugs' odor when there is a much larger infestation; due to their small size, they need to be in a larger number for the smell to be potent enough to be detected by human nostrils. There have been suggestions that the smell of [bed bugs](https://entomology.ca. uky. edu/ef636) can be compared to berries' scent and has a musty yet sweet aroma.
+It is more common to notice bed bugs' odor when there is a much larger infestation; due to their small size, they need to be in a larger number for the smell to be potent enough to be detected by human nostrils. There have been suggestions that the smell of [bed bugs](https://entomology.ca.uky.edu/ef636)can be compared to berries' scent and has a musty yet sweet aroma.
 
 Some people have remarked that the smell is similar to the herb cilantro (or coriander, depending on where you come from).
 
@@ -53,9 +53,9 @@ You are probably beginning to understand that the smell of bed bugs can differ s
 
 ##  Do Dead Bed Bugs Smell Different?
 
-If you are concerned about a [bed bug (they don't jump)](https://pestpolicy.com/do-bed-bugs-jump/) infestation, one of the things that you might wonder is whether the deceased [bed bug](%view_link%) s will leave a worse odor. The odor certainly won't be putrid, you may notice the scent of cilantro to begin with, but if the bug was crushed whilst still digesting a feed, you might also pick up an aroma of blood.
+If you are concerned about a [bed bug (they don't jump)](https://pestpolicy.com/do-bed-bugs-jump/)infestation, one of the things that you might wonder is whether the deceased [bed bug](%view_link%) s will leave a worse odor. The odor certainly won't be putrid, you may notice the scent of cilantro to begin with, but if the bug was crushed whilst still digesting a feed, you might also pick up an aroma of blood.
 
-Another thing to be mindful of with large infestations is that the buildup of the [bed bug poop](https://pestpolicy.com/what-does-bed-bug-poop-look-like/) may give off a rusty odor; this could be a warning sign that they are present. Read Also: Does Salt Kill Bed Bugs?
+Another thing to be mindful of with large infestations is that the buildup of the [bed bug poop](https://pestpolicy.com/what-does-bed-bug-poop-look-like/)may give off a rusty odor; this could be a warning sign that they are present. Read Also: Does Salt Kill Bed Bugs?
 
 ##  Conclusion
 

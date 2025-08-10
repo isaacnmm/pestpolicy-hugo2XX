@@ -57,7 +57,7 @@ Snaking involves selecting the right type of auger for the drain in question, an
 
 ##  **How to Prevent Drain Clogs**
 
-Here are some few tips to observe that will save you the agony of clogged [drains](https://pestpolicy.com/best-drain-cleaner/): - You can use a screen tub in the bathroom to prevent the infiltration of unwanted materials into the [drain](https://pestpolicy.com/best-drain-snakes/) pipe. The screen tub collects the materials the cause clogging, and hence you should be cleaning the screen tub occasionally.
+Here are some few tips to observe that will save you the agony of clogged [drains](https://pestpolicy.com/best-drain-cleaner/):- You can use a screen tub in the bathroom to prevent the infiltration of unwanted materials into the [drain](https://pestpolicy.com/best-drain-snakes/)pipe. The screen tub collects the materials the cause clogging, and hence you should be cleaning the screen tub occasionally.
 
 - In line with the prevention, you can catch unwanted materials in the bathroom, including hairs and soap residues, using hands before they go down the drain.
 

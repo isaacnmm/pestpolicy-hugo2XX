@@ -21,7 +21,7 @@ Feeding the beardie with eggs provides them with proteins and vitamins such as v
 
 ##  Details:**Can Bearded Dragons Eat Eggs?**
 
-In the right quantities, eggs are good for your bearded dragons. You can give them eggs to supplement the protein diet they get from feeders insect. Below is a summary of the benefits of eggs to your bearded [dragon](https://pestpolicy.com/can-bearded-dragons-eat-bananas/). 1. **Eggs Contain Essential Vitamins and Minerals** Eggs contain vitamins and minerals which are essential to your bearded dragons health.
+In the right quantities, eggs are good for your bearded dragons. You can give them eggs to supplement the protein diet they get from feeders insect. Below is a summary of the benefits of eggs to your bearded [dragon](https://pestpolicy.com/can-bearded-dragons-eat-bananas/).1. **Eggs Contain Essential Vitamins and Minerals** Eggs contain vitamins and minerals which are essential to your bearded dragons health.
 
 As long as you are cautious on the high protein content in eggs, your beardie can benefit from the following vitamins and minerals. - *Vitamin A: *Although bearded dragons require very minimal vitamin A, it helps in enhancing their normal vision, reproduction and developing their immune system. - *Vitamin D: *Eggs are rich in vitamin D which helps your bearded dragon in absorbing calcium from their diet.
 

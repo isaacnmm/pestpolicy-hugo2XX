@@ -14,9 +14,9 @@ tags:
 layout: post
 ---
 
-After using different Raspberry Pi SD cards, I have to say that the Best SD card for Raspberry Pi 3 must have excellent 4K random read and 4K random write, and [wear-leveling algorithms](https://www.delkin. com/blog/learning-the-basics-about-ssd-wear-leveling-algorithms/).
+After using different Raspberry Pi SD cards, I have to say that the Best SD card for Raspberry Pi 3 must have excellent 4K random read and 4K random write, and [wear-leveling algorithms](https://www.delkin.com/blog/learning-the-basics-about-ssd-wear-leveling-algorithms/).
 
-- I recommend the[Samsung Evo+32 GB](https://www.amazon. com/dp/B00WR4IJBE/? tag=p-policy-20)(with[*wear-leveling*](http://en.wikipedia. org/wiki/Wear_leveling))for their high4K random read (8. 58MB/sec) and 4K random write (3. 12 MB/sec), and excellentwear leveling. With excellent wear leveling and [proper SD card formatting](https://pestpolicy.com/how-to-format-sd-card-to-fat32/), writing on your Raspberry Pi SD card will be distributed and hence last longer.
+- I recommend the[Samsung Evo+32 GB](https://www.amazon.com/dp/B00WR4IJBE/?tag=p-policy-20)(with[*wear-leveling*](http://en.wikipedia.org/wiki/Wear_leveling))fortheir high4K random read (8. 58MB/sec) and 4K random write (3. 12 MB/sec), and excellentwear leveling. With excellent wear leveling and [proper SD card formatting](https://pestpolicy.com/how-to-format-sd-card-to-fat32/),writing on your Raspberry Pi SD card will be distributed and hence last longer.
 
 ##  **7 Best SD card for Raspberry Pi 3**
 
@@ -40,9 +40,9 @@ The SD card is highly resistant to Magnetic fields, X-Radiation, and Water.
 
 **Dd Write Speeds: ** Using an IOMeter, I noted that Samsung Evo+ achieved 13. 0MB/s - 16MB/s dd write speed and 43. 6MB/s read speed. It is faster in handling small block sizes and files compared to DS cards like Samsung Pro, whic h is excellent for Raspberry Pi3. Samsung EVO+ has a fantastic exterior design, with an orange and white color theme. With the EVO+, you'll achieve top data transfer speeds reaching 80MB/s.
 
-The Pros are: (1) Top performance high random write and read speeds (2) Work well with [**Pi 3 and Raspberry Pi 2models**](https://pestpolicy.com/[raspberry-pi-3](https://pestpolicy.com/best-pcie-wireless-card-for-gaming/)-vs-2/). (4) Reliable and cheap SD [card](https://pestpolicy.com/how-to-format-sd-card-to-fat32/)(5) Working temperature is -13F - 185F.
+The Pros are: (1) Top performance high random write and read speeds (2) Work well with [**Pi 3 and Raspberry Pi 2models**](https://pestpolicy.com/[raspberry-pi-3](https://pestpolicy.com/best-pcie-wireless-card-for-gaming/)-vs-2/).(4) Reliable and cheap SD [card](https://pestpolicy.com/how-to-format-sd-card-to-fat32/)(5)Working temperature is -13F - 185F.
 
-Also, JeffGeerling recommends the above Samsung Evo+on his [Midwestern Mac](http://www.midwesternmac. com/blogs/jeff-geerling/raspberry-pi-microsd-card) guide. The SD cards also work well with Raspberry Pi model 3 B+, Raspberry Pi 1 (A+ & B+), Pi 2 Model B, Pi Zero, Pi Zero W, Pi 3 (B & B+).
+Also, JeffGeerling recommends the above Samsung Evo+on his [Midwestern Mac](http://www.midwesternmac.com/blogs/jeff-geerling/raspberry-pi-microsd-card)guide. The SD cards also work well with Raspberry Pi model 3 B+, Raspberry Pi 1 (A+ & B+), Pi 2 Model B, Pi Zero, Pi Zero W, Pi 3 (B & B+).
 
 Ire-did various benchmarks forSanDisk andSamsungcards (equally, I skipped the Lexar, Toshiba, and Sony due to slow speed while used in Raspberry Pi).
 

@@ -15,13 +15,13 @@ tags:
 layout: post
 ---
 
-Does [baking](https://pestpolicy.com/does-baking-acid-kill-crickets/) soda kill fleas? You may have heard that baking soda can be used to kill fleas, but is there any truth to this statement? Previously, I outlined how to use spray against yard fleas. In this article, we will delve a little deeper into this topic and find out once and for all. Ensure that you ensure that you know the signs of fleas.
+Does [baking](https://pestpolicy.com/does-baking-acid-kill-crickets/)soda kill fleas? You may have heard that baking soda can be used to kill fleas, but is there any truth to this statement? Previously, I outlined how to use spray against yard fleas. In this article, we will delve a little deeper into this topic and find out once and for all. Ensure that you ensure that you know the signs of fleas.
 
 Following this simple method will bring you the best results and ensure that the fleas are eradicated from your home for gooda technique for killing fleas around the house with baking soda.
 
 ##  Details: Does Baking Soda Kill Fleas? Natural Fleas Control
 
-In short, the answer to this question is yes, baking soda can be used as an effective way to [kill and remove fleas](https://pestpolicy.com/does-salt-kill-fleas/) from home. One thing that you should bear in mind is that baking soda cannot get shot with [fleas](https://extension.psu. edu/cat-fleas) when it is used on its own. However, when used in conjunction with salt, it can become a fleas worst nightmare.
+In short, the answer to this question is yes, baking soda can be used as an effective way to [kill and remove fleas](https://pestpolicy.com/does-salt-kill-fleas/)from home. One thing that you should bear in mind is that baking soda cannot get shot with [fleas](https://extension.psu.edu/cat-fleas)when it is used on its own. However, when used in conjunction with salt, it can become a fleas worst nightmare.
 
 This is a great natural way to treat any home with an infestation of fleas, and it is a perfect choice for homes with children where the use of pesticides and sprays might not be 100% safe. However, it is worth remembering that you will need a lot of the mixture if you want the best results. Read Also: Do Fleas Stay On Humans?
 
@@ -47,5 +47,5 @@ You can repeat the process a third time if you deem this to be necessary. This i
 
 ##  Conclusion
 
-There are many [natural and inexpensive ways to kill fleas](https://pestpolicy.com/does-apple-cider-vinegar-kill-fleas/) when you find them lodging in your home. Also, other natural methods include diatomaceous earth for fleas. One of these ways is using a baking soda and salt mixture, which is very effective at targeting fleas within carpets and furnishings.
+There are many [natural and inexpensive ways to kill fleas](https://pestpolicy.com/does-apple-cider-vinegar-kill-fleas/)when you find them lodging in your home. Also, other natural methods include diatomaceous earth for fleas. One of these ways is using a baking soda and salt mixture, which is very effective at targeting fleas within carpets and furnishings.
 

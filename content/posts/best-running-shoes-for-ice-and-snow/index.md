@@ -54,7 +54,7 @@ If youre looking for comfort and maximum protection while running on ice and sno
 
 This trail running shoe has a StoneGuard technology that incorporates the TPU system. These two work to protect your feet against hash trails.
 
-The wide toe box gives your toes enough space to move. Hence, if youre a [runner with wide feet](https://pestpolicy.com/best-[running-shoes](https://pestpolicy.com/best-running-shoes-for-clydesdales/)-for-men-with-wide-feet/) this is the [shoe](https://pestpolicy.com/best-running-shoes-for-extensor-tendonitis/) for you.
+The wide toe box gives your toes enough space to move. Hence, if youre a [runner with wide feet](https://pestpolicy.com/best-[running-shoes](https://pestpolicy.com/best-running-shoes-for-clydesdales/)-for-men-with-wide-feet/)this is the [shoe](https://pestpolicy.com/best-running-shoes-for-extensor-tendonitis/)for you.
 
 In addition, the A-Bound technology delivers superior cushioning to the runners underfoot for additional comfort.
 

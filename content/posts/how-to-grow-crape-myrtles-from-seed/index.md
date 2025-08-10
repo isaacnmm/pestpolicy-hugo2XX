@@ -16,7 +16,7 @@ tags:
 layout: post
 ---
 
-[Crape](https://pestpolicy.com/how-to-grow-crape-myrtles-in-cold-climates/) myrtles (Lagerstroemia spp. ) are beloved deciduous trees and shrubs, particularly cherished in warmer climates for their spectacular, long-lasting summer blooms, attractive peeling bark, and often vibrant fall foliage.
+[Crape](https://pestpolicy.com/how-to-grow-crape-myrtles-in-cold-climates/)myrtles (Lagerstroemia spp. ) are beloved deciduous trees and shrubs, particularly cherished in warmer climates for their spectacular, long-lasting summer blooms, attractive peeling bark, and often vibrant fall foliage.
 
 While commonly propagated through cuttings or purchased as established plants, growing crape myrtles from seed can be a rewarding and cost-effective way to produce new specimens.
 

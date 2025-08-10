@@ -17,7 +17,7 @@ layout: post
 
 Opossums go through garbage, hunt mice and snakes, and hang around roadkill - which exposes them to dangerous diseases like rabies.
 
-So, the question is: do opossums [carry](https://pestpolicy.com/do-squirrels-carry-ticks/) rabies? **In brief, NO, Opossum/ possums are very unlikely to carry rabies. Opossums' body temperature is too low to inhibit the rabies virus compared to other wildlife like foxes, skunks, raccoons, and bats. **
+So, the question is: do opossums [carry](https://pestpolicy.com/do-squirrels-carry-ticks/)rabies? **In brief, NO, Opossum/ possums are very unlikely to carry rabies. Opossums' body temperature is too low to inhibit the rabies virus compared to other wildlife like foxes, skunks, raccoons, and bats. **
 
 ##  Cold Body Temperature - Do Opossums Carry Rabies
 
@@ -79,7 +79,7 @@ Opossums carry a relatively low risk of carrying rabies but they may have **dang
 
 Leptospirosis causes flu-like symptoms and is caused by bacteria in contaminated bodily fluids and urine from infected Opossum.
 
-The disease may infect rodents, [squirrels](https://pestpolicy.com/how-long-do-squirrels-live/), skunks, and raccoons but fail to show outright signs.
+The disease may infect rodents, [squirrels](https://pestpolicy.com/how-long-do-squirrels-live/),skunks, and raccoons but fail to show outright signs.
 
 The disease can be passed on to humans through contact with infected animal's urine or by breathing in infectious droplets from an animal sneezing or coughing nearby.
 

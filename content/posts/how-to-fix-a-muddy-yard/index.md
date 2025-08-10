@@ -16,7 +16,7 @@ tags:
 layout: post
 ---
 
-A muddy [yard](https://pestpolicy.com/average-yard-size/) is a common and frustrating problem for many homeowners. What should be a lush, green space for relaxation and play can quickly turn into a messy, squishy mire after a period of rain or even just heavy irrigation.
+A muddy [yard](https://pestpolicy.com/average-yard-size/)is a common and frustrating problem for many homeowners. What should be a lush, green space for relaxation and play can quickly turn into a messy, squishy mire after a period of rain or even just heavy irrigation.
 
 Beyond the inconvenience of tracking mud indoors, perpetually wet and muddy conditions can damage your lawn, create unpleasant odors, become a breeding ground for mosquitoes, and potentially lead to more significant issues like foundation damage to your home.
 

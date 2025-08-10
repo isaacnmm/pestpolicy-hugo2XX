@@ -16,7 +16,7 @@ tags:
 layout: post
 ---
 
-[Tree](https://pestpolicy.com/10-trees-to-grow-in-containers/) roots are powerful forces of nature, providing essential stability and nutrients to large, majestic trees. However, when planted too close to urban infrastructure, these very roots can become a significant problem, particularly for sidewalks.
+[Tree](https://pestpolicy.com/10-trees-to-grow-in-containers/)roots are powerful forces of nature, providing essential stability and nutrients to large, majestic trees. However, when planted too close to urban infrastructure, these very roots can become a significant problem, particularly for sidewalks.
 
 Heaving, cracked, and uneven sidewalks caused by tree roots are not only unsightly but also pose serious tripping hazards, leading to potential injuries and liability issues for homeowners and municipalities alike.
 

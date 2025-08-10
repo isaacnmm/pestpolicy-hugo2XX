@@ -14,7 +14,7 @@ tags:
 layout: post
 ---
 
-Have you had a difficult time choosing an oil thinner for your oil paints? We're going to talk about all your options - the best [paint](https://pestpolicy.com/best-oil-based-primer-for-cabinets/) thinner for [oil](https://pestpolicy.com/best-paint-brushes-for-oil-based-paint/) painting. All these paints can be used both to clean the brushes and thin your oil paints.
+Have you had a difficult time choosing an oil thinner for your oil paints? We're going to talk about all your options - the best [paint](https://pestpolicy.com/best-oil-based-primer-for-cabinets/)thinner for [oil](https://pestpolicy.com/best-paint-brushes-for-oil-based-paint/)painting. All these paints can be used both to clean the brushes and thin your oil paints.
 
 You must know how to mix the paints with the right medium - the paint in your tube could be very stiff and thus thinning it down will make it simpler to work with. So, for both noob oil painters or expert professionals, get yourself a great oil solvent - it'll act both as paint thinner while also speeding up the paint drying process. See Also: Sprayer for Interior Walls.
 

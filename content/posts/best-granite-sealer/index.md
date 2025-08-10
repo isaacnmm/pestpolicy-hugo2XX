@@ -62,7 +62,7 @@ It also works very well on granite, stones, tiles, bricks, and concrete. The goo
 
 Cons: - It is costly
 
-> See Also: > [Pressure Washer for [Paint](https://pestpolicy.com/best-acrylic-paint-for-canvas/) Removal](https://pestpolicy.com/[best](https://pestpolicy.com/best-acrylic-paint-for-pouring/)-pressure-washer-for-paint-removal/)
+> See Also: > [Pressure Washer for [Paint](https://pestpolicy.com/best-acrylic-paint-for-canvas/)Removal](https://pestpolicy.com/[best](https://pestpolicy.com/best-acrylic-paint-for-pouring/)-pressure-washer-for-paint-removal/)
 
 ###  [4. HMK S234 Stone Impregnating Granite Sealer](https://www.amazon.com/dp/B07B6TB4YZ/?tag=p-policy-20)
 

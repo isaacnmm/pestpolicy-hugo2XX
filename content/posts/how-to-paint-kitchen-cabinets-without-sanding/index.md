@@ -14,9 +14,9 @@ tags:
 layout: post
 ---
 
-Painting cabinets is a common activity carried out during paint restoration or new coat application in homes of commercial places. Whether its a kitchen [cabinet](https://pestpolicy.com/best-paint-for-kitchen-cabinets/) or a wardrobe, sanding affects the finish outlook upon paint application, especially the case of the laminate wood.
+Painting cabinets is a common activity carried out during paint restoration or new coat application in homes of commercial places. Whether its a kitchen [cabinet](https://pestpolicy.com/best-paint-for-kitchen-cabinets/)or a wardrobe, sanding affects the finish outlook upon paint application, especially the case of the laminate wood.
 
-Could you be facing similar challenges and wonder how to paint your cabinet afresh or restore old paint? *On how to paint [kitchen](https://pestpolicy.com/how-much-does-it-cost-to-paint-kitchen-cabinets/) cabinets without sanding, select the right material and tools, detach cabinet drawers and doors, clean the entire cabinet, select the right paint, and prepare it accordingly.
+Could you be facing similar challenges and wonder how to paint your cabinet afresh or restore old paint? *On how to paint [kitchen](https://pestpolicy.com/how-much-does-it-cost-to-paint-kitchen-cabinets/)cabinets without sanding, select the right material and tools, detach cabinet drawers and doors, clean the entire cabinet, select the right paint, and prepare it accordingly.
 
 * *Further, carry out actual painting step by step, attain a classic final finish before fixing back the cabinet drawers and doors. Put on proper protection gear during paint application to boost your safety and avoid any hazards. See Also: * stain for your swing set.
 
@@ -24,7 +24,7 @@ Could you be facing similar challenges and wonder how to paint your cabinet afre
 
 ###  a. Material and Tools Needed
 
-- Screwdriver/[Drill](https://www.amazon. com/dp/B07QG5P2MG/? tag=p-policy-20)and a scrubbing sponge - [Degreaser](https://www.amazon. com/dp/B0015KROXU/? tag=p-policy-20)and warm water - Cabinet paintand primer - A paintbrush, a roller, ora paint sprayer - A piece of clean cloth and deglosser - Fine bristle brush and bucket - Soapy detergent and power source - Protective gear respirator, facemask, overall, gloves, glasses, and boots
+- Screwdriver/[Drill](https://www.amazon.com/dp/B07QG5P2MG/?tag=p-policy-20)anda scrubbing sponge - [Degreaser](https://www.amazon.com/dp/B0015KROXU/?tag=p-policy-20)andwarm water - Cabinet paintand primer - A paintbrush, a roller, ora paint sprayer - A piece of clean cloth and deglosser - Fine bristle brush and bucket - Soapy detergent and power source - Protective gear respirator, facemask, overall, gloves, glasses, and boots
 
 ###  b. Removing cabinet drawers and doors
 
@@ -40,7 +40,7 @@ Remove latched partitions in the cabinet, in case of any
 
 ###  d. Primer Paint Selection
 
-Cabinet paint should be selected according to the type of material under paint application. metallic cabinets are best painted with acrylic paint, while wooden cabinets are best painted with latex-acrylic paint. The laminate wood cabinet should be painted with [enamel paint](https://pestpolicy.com/what-is-enamel-paint-used-for/) for best service life performance.
+Cabinet paint should be selected according to the type of material under paint application. metallic cabinets are best painted with acrylic paint, while wooden cabinets are best painted with latex-acrylic paint. The laminate wood cabinet should be painted with [enamel paint](https://pestpolicy.com/what-is-enamel-paint-used-for/)for best service life performance.
 
 Avoid painted kitchen cabinets with highly concentrated oil-based paint the oil ratio in the paint should be as low as possible to prevent fire outbreaks. Pure latex paint should be avoided on the cabinet since its easily removed or gets washed out by fluid or water spillage within the cabinet drawers or shelves.
 

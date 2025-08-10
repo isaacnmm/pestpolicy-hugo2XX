@@ -14,7 +14,7 @@ tags:
 layout: post
 ---
 
-The [Best](https://pestpolicy.com/best-dress-shoes-for-back-pain/) Tactical Boots for Plantar Fasciitis should provide you enough support and comfort to deal with plantar fasciitis flare-ups. Hence, I will review top tactical boots to consider for your plantar fasciitis pain.
+The [Best](https://pestpolicy.com/best-dress-shoes-for-back-pain/)Tactical Boots for Plantar Fasciitis should provide you enough support and comfort to deal with plantar fasciitis flare-ups. Hence, I will review top tactical boots to consider for your plantar fasciitis pain.
 
 These boots are durable and have the ability to endure tough environments while also protecting you from various foot pains and conditions. The tactical boots are largely associated with the military, the police force, and others who are into public service.
 
@@ -176,5 +176,5 @@ You may even consider boots with waterproofing technologies that help to inhibit
 
 I hope that this review on the best tactical boots for plantar fasciitis has been helpful. Remember to choose boots that are comfortable, supportive, durable, water-resistant, and have reliable traction.
 
-My top plantar fasciitis tactical boot is [Danner Men's Acadia 8" Boot](https://www.amazon. com/dp/B000O2WB8I/tag=p-policy-20). This boot is comfortable and slip-resistant. It provides crucial support to plantar fasciitis suffers and helps to ease pain or discomfort in their plantar fascia.
+My top plantar fasciitis tactical boot is [Danner Men's Acadia 8" Boot](https://www.amazon.com/dp/B000O2WB8I/tag=p-policy-20).This boot is comfortable and slip-resistant. It provides crucial support to plantar fasciitis suffers and helps to ease pain or discomfort in their plantar fascia.
 

@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 
-The best dishwasher [detergent](https://pestpolicy.com/best-dishwasher-detergent/) to prevent etching will help you with glassware, ceramics, and metallic items as its not harsh or have very high pH concentrations. Wrong dishwashing detergent may not be the only cause of etching on items; however, opting to use phosphate-free plant-based detergent instead of other chemicals, works incredibly well in etching prevention.
+The best dishwasher [detergent](https://pestpolicy.com/best-dishwasher-detergent/)to prevent etching will help you with glassware, ceramics, and metallic items as its not harsh or have very high pH concentrations. Wrong dishwashing detergent may not be the only cause of etching on items; however, opting to use phosphate-free plant-based detergent instead of other chemicals, works incredibly well in etching prevention.
 
 More so, the quality of a given dishwasher detergent is a function of the ratio of additives and solvent formulation.
 

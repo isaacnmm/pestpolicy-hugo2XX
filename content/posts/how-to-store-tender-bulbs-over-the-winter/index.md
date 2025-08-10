@@ -16,7 +16,7 @@ layout: post
 ---
 ---
 ## What are Tender Bulbs and Why Store Them?
-"Tender bulbs" is a broad horticultural term often used to describe any plant with an underground storage organ ([bulb](https://pestpolicy.com/can-you-replant-potted-bulbs/), corm, tuber, or rhizome) that cannot tolerate freezing temperatures.
+"Tender bulbs" is a broad horticultural term often used to describe any plant with an underground storage organ ([bulb](https://pestpolicy.com/can-you-replant-potted-bulbs/),corm, tuber, or rhizome) that cannot tolerate freezing temperatures.
 * **Examples of Common Tender Bulbs:** * **Dahlias** (tubers) * **Gladiolus** (corms) * **Cannas** (rhizomes) * **Begonias (Tuberous)** (tubers) * **Caladiums** (tubers) * **Calla Lilies** (rhizomes) * **Elephant Ears (*Colocasia*, *Alocasia*)** (tubers/rhizomes) * **Why Store Them:** In USDA Hardiness Zones where the ground freezes (generally Zone 7 and colder), these plants will perish if left in the soil over winter.
 Lifting and storing them provides them with the warm, dry, and protected environment they need to survive dormancy and be ready for replanting in spring.
 **Nairobi Context:** Nairobi's climate is warm year-round and does not experience freezing temperatures. Therefore, **tender bulbs generally do *not* need to be lifted and stored over winter in Nairobi. ** They can typically be left in the ground as perennials, blooming annually. The "winter care" for these plants in Nairobi would focus on adapting watering during the cooler dry season (June-August) or managing heat stress during the hotter dry season (January-February).

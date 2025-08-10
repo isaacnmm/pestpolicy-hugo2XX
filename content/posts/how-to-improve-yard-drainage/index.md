@@ -22,7 +22,7 @@ Poor yard drainage leads to a host of problems: drowned roots, fungal diseases, 
 
 Recognizing and addressing drainage issues is not just about aesthetics; it's crucial for the long-term health of your plants and the integrity of your property.
 
-Understanding the underlying causes of poor drainage is the first step toward finding effective solutions. From compacted soil to improper grading, various factors can contribute to waterlogging. Fortunately, a range of strategies, from simple soil amendments to more complex [landscaping](https://pestpolicy.com/how-to-landscape-your-yard-with-deer-resistant-plants/) interventions, can significantly improve your [yard](https://pestpolicy.com/how-to-level-yard/)'s ability to manage water.
+Understanding the underlying causes of poor drainage is the first step toward finding effective solutions. From compacted soil to improper grading, various factors can contribute to waterlogging. Fortunately, a range of strategies, from simple soil amendments to more complex [landscaping](https://pestpolicy.com/how-to-landscape-your-yard-with-deer-resistant-plants/)interventions, can significantly improve your [yard](https://pestpolicy.com/how-to-level-yard/)'sability to manage water.
 
 This guide will walk you through how to identify drainage problems, common culprits behind them, and practical solutions to transform your waterlogged areas into a healthy, functional landscape.
 

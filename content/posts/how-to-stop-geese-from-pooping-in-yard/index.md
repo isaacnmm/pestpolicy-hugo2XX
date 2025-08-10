@@ -14,7 +14,7 @@ tags:
 layout: post
 ---
 
-Its unfortunate that most of us dont understand the dangers of geese droppings. How to stop geese from [pooping in the [yard](https://pestpolicy.com/average-yard-size/)](https://u.osu. edu/sustainability/2018/02/12/hey-you-[geese](https://pestpolicy.com/how-to-keep-geese-away-from-your-pond/)-get-off-my-lawn/) still becomes a challenge.
+Its unfortunate that most of us dont understand the dangers of geese droppings. How to stop geese from [pooping in the [yard](https://pestpolicy.com/average-yard-size/)](https://u.osu.edu/sustainability/2018/02/12/hey-you-[geese](https://pestpolicy.com/how-to-keep-geese-away-from-your-pond/)-get-off-my-lawn/) still becomes a challenge.
 
 - **Fencing the yard, taking away the food, planting tall bushes and grasses in your yard are among the strategies you can use to keep off the geese.
 

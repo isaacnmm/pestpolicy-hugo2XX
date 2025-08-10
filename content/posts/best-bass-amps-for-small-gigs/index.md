@@ -22,7 +22,7 @@ Typically, you need to have an excellent sound system that is dedicated to deliv
 
 ###  [1. Aguilar Tone Hammer 500-Watt Bass Amplifier Head](https://www.amazon.com/dp/B004IEBTIQ/?tag=p-policy-20)
 
-Aguilar Tone is a powerful [amp](https://pestpolicy.com/best-bass-amps-for-metal/) that features an adaptive gain shaping (AGC) circuit, which is dedicated to delivering high-quality sound without blowing out.
+Aguilar Tone is a powerful [amp](https://pestpolicy.com/best-bass-amps-for-metal/)that features an adaptive gain shaping (AGC) circuit, which is dedicated to delivering high-quality sound without blowing out.
 
 The product is nicely fitted in a lightweight hard cabinet that is perfectly compacted for easier portability. This power amplifier claims to deliver a legendary Aguilar sound that genuinely generates a theatre experience in the playrooms. Moreover, Aguilar comes with balanced output (XLR) and pre/post EQ that allows perfect sound shaping.
 

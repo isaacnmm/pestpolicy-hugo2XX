@@ -14,7 +14,7 @@ tags:
 layout: post
 ---
 
-[Oil](https://pestpolicy.com/does-lavender-oil-kill-fleas/) spills in your garage can be a nuisance, but with the right tools and techniques, cleaning them up doesnt have to be difficult. Whether the [spill](https://pestpolicy.com/no-spill-ant-kill/) is from your vehicle, machinery, or other equipment, its important to act quickly to prevent the oil from spreading and staining the garage floor.
+[Oil](https://pestpolicy.com/does-lavender-oil-kill-fleas/)spills in your garage can be a nuisance, but with the right tools and techniques, cleaning them up doesnt have to be difficult. Whether the [spill](https://pestpolicy.com/no-spill-ant-kill/)is from your vehicle, machinery, or other equipment, its important to act quickly to prevent the oil from spreading and staining the garage floor.
 
 In this guide, well cover the best methods for cleaning up oil spills in your garage.
 

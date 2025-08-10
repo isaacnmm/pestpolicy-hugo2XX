@@ -21,7 +21,7 @@ So, let's get started with Revolution flea killer for cats!
 
 ##  Details: Revolution for Cats without Vet Prescription
 
-Besides protecting your cat from [fleas](https://pestpolicy.com/cat-fleas-vs-dog-fleas/), Revolution also controls and treats ear mite infestations, hookworm infections, and roundworm infections. - Therefore, this will be an advantage since most pet owners do not pay attention or control these parasites. In addition, customer reviews for the non-prescription flu medication are just as effective as the prescription-based remedies.
+Besides protecting your cat from [fleas](https://pestpolicy.com/cat-fleas-vs-dog-fleas/),Revolution also controls and treats ear mite infestations, hookworm infections, and roundworm infections. - Therefore, this will be an advantage since most pet owners do not pay attention or control these parasites. In addition, customer reviews for the non-prescription flu medication are just as effective as the prescription-based remedies.
 
 So, getting the Revolution Plus medication to kill fleas but without prescription brings so much convenience to most pets and homeowners. But why is Revolution Plus so good at killing fleas? This is mainly due to the medication's special formulation that protects the cats from fleas for about a month.
 
@@ -37,7 +37,7 @@ But will Frontline kill exterminate the fleas in your house? Well, NO.
 
 I recommend using FRONTLINE HomeGard for flea control in the house (also kills flea larvae and flea eggs) avoid using it on pets. - Are there any side effects if one applies the Frontline Plus too soon? Well, Yes, this may result in seizures, trembling, hypersalivation, and twitching. - If the poisoning happens, you'll require to wash the cat using lukewarm water and some Palmolive, Dawn, ordish soap.
 
-https://m.youtube. com/watch? v=HFEKYcXFWPM Revolution Plus contains Sarolaner and Selamectin, active ingredients to kill flea larvae and eggs around your house. - Further, Revolution Plus will also provide your cat with fast relief from flea allergy dermatitis.
+https://m.youtube.com/watch? v=HFEKYcXFWPM Revolution Plus contains Sarolaner and Selamectin, active ingredients to kill flea larvae and eggs around your house. - Further, Revolution Plus will also provide your cat with fast relief from flea allergy dermatitis.
 
 ##  Buying the Non-Prescription Revolution for Cats
 

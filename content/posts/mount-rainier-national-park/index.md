@@ -21,7 +21,7 @@ The park's centerpiece is Mount Rainier itself, an active stratovolcano that sta
 
 ####  Natural Beauty and Biodiversity
 
-The park is renowned for its stunning beauty and rich biodiversity. Visitors can explore lush forests filled with towering Douglas firs and western red cedars, as well as vibrant meadows blanketed with wildflowers during the summer months. [The park](https://www.nps. gov/mora/index. htm) is home to an array of wildlife, including black bears, elk, mountain goats, and over 140 species of birds.
+The park is renowned for its stunning beauty and rich biodiversity. Visitors can explore lush forests filled with towering Douglas firs and western red cedars, as well as vibrant meadows blanketed with wildflowers during the summer months. [The park](https://www.nps.gov/mora/index.htm)is home to an array of wildlife, including black bears, elk, mountain goats, and over 140 species of birds.
 
 The diverse habitats within Mount Rainier National Park support a wide range of plant and animal life, making it a paradise for nature enthusiasts and wildlife watchers.
 
@@ -49,7 +49,7 @@ The park also engages in educational outreach to promote environmental stewardsh
 
 When planning a visit to Mount Rainier National Park, it's important to consider the seasonal variations and weather conditions. The best time to visit is typically from late June to early October, when the weather is milder, and most of the park's facilities and trails are accessible.
 
-However, the [park is open year-round](https://en.wikipedia. org/wiki/Mount_Rainier_National_Park), and each season offers its own unique experiences and activities. Visitors should be prepared for rapidly changing weather, especially at higher elevations, and check current conditions before embarking on their trip.
+However, the [park is open year-round](https://en.wikipedia.org/wiki/Mount_Rainier_National_Park),and each season offers its own unique experiences and activities. Visitors should be prepared for rapidly changing weather, especially at higher elevations, and check current conditions before embarking on their trip.
 
 ####  Conclusion
 

@@ -27,7 +27,7 @@ Also, bed bugs feed solely on blood. Therefore, there is no way you can poison t
 
 Diatomaceous earth is one of the naturalways to rid bed bugs.
 
-Also, it is a short leap to create a connection to salt. - Bed bugs are best killedby dehydrating them, and salt might be a great tool to provide that result. The statement above tends to show that salt cannot be used to [exterminate bed bugs](https://www.epa. gov/bedbugs/do-it-yourself-bed-bug-control). Nevertheless, there are tips to help you use salt in the right way to help you eradicate bed bugs in your house successfully.
+Also, it is a short leap to create a connection to salt. - Bed bugs are best killedby dehydrating them, and salt might be a great tool to provide that result. The statement above tends to show that salt cannot be used to [exterminate bed bugs](https://www.epa.gov/bedbugs/do-it-yourself-bed-bug-control).Nevertheless, there are tips to help you use salt in the right way to help you eradicate bed bugs in your house successfully.
 
 ##  **Does Salt Kill Bed Bugs?**
 
@@ -53,7 +53,7 @@ Related: How to Kill Bed Bug Eggs?
 
 ##  **Can Salt Water Kill Bed Bugs?**
 
-Sprays are the most effective way to kill bed bugs. This is because, with spraying, you get to spread the toxic substance widely. This way, [bed bugs will have to walk through](https://pestpolicy.com/does-baby-powder-kill-bed-bugs/) them. If you spray a highly effective substance, you will get the best results. Alternatively, check these commercial bed bug sprays. However, in this case, we are talking about saltwater.
+Sprays are the most effective way to kill bed bugs. This is because, with spraying, you get to spread the toxic substance widely. This way, [bed bugs will have to walk through](https://pestpolicy.com/does-baby-powder-kill-bed-bugs/)them. If you spray a highly effective substance, you will get the best results. Alternatively, check these commercial bed bug sprays. However, in this case, we are talking about saltwater.
 
 Salt is not toxic to bed bugs.
 
@@ -63,7 +63,7 @@ Hence, it cannot kill them even though spraying. If you took a jar full of saltw
 
 ##  **Salt and Baking Soda on Bed Bugs**
 
-The chances are that you have heard about using salt and baking soda to kill bed bugs. For a long time, people have used salt and baking soda to clean around the house. Some also use it to clean their teeth. The idea in this belief is that salt and baking soda can be used to suck moisture from the body of [bed bugs to kill](https://pestpolicy.com/does-vinegar-kill-bed-bugs/) them.
+The chances are that you have heard about using salt and baking soda to kill bed bugs. For a long time, people have used salt and baking soda to clean around the house. Some also use it to clean their teeth. The idea in this belief is that salt and baking soda can be used to suck moisture from the body of [bed bugs to kill](https://pestpolicy.com/does-vinegar-kill-bed-bugs/)them.
 
 However, this cannot happen as long as their waxy shell is not broken into.
 
@@ -83,7 +83,7 @@ Also known as magnesium sulfate, Epsom salt is another type of salt used for man
 
 Moreover, bed bugs dont ingest anything other than blood, which means you will not use the salt to poison them.
 
-It is accurate to mention that it is not possible to use Epsom salt to [exterminate bed bugs](https://pestpolicy.com/does-dryer-kill-bed-bugs/). Instead, you want to try tested and proven methods to rid bed bugs in your home.
+It is accurate to mention that it is not possible to use Epsom salt to [exterminate bed bugs](https://pestpolicy.com/does-dryer-kill-bed-bugs/).Instead, you want to try tested and proven methods to rid bed bugs in your home.
 
 ##  **Can Salt in your Bed Sheets Really Kill Bed Bugs?**
 

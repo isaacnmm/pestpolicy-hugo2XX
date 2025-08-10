@@ -170,7 +170,7 @@ Plastic material will incur lower maintenance costs that could be caused by inse
 
 ###  3.*Design*
 
-So, how will the swing set be installed in the backyard? You'll need to consider the size and design of every swing set and how it would sit in the garden. Read Also: [Swing Sets under 500](https://pestpolicy.com/best-swing-sets-under-500/). For example, the Monkey Bar Swing set will come with a broader free-standing design and therefore, will require more ground space.
+So, how will the swing set be installed in the backyard? You'll need to consider the size and design of every swing set and how it would sit in the garden. Read Also: [Swing Sets under 500](https://pestpolicy.com/best-swing-sets-under-500/).For example, the Monkey Bar Swing set will come with a broader free-standing design and therefore, will require more ground space.
 
 However, the Flexible Flyer set is more compact, with its A-frame design, and thus will take less space in the backyard.
 
@@ -188,7 +188,7 @@ How many kids do you want to swing concurrently? Do you need a seesaw in the swi
 
 ###  6.*Consider Safety standards *
 
-Safety is a critical aspect of the swing set to enable your kids to have fun without endangering their lives. Despite that there are outlined [safety recommendations](https://www.swing-n-slide. com/pages/play-set-safety-checklist) or all swing set, some brands may not meet all of them and thus endanger your kids.
+Safety is a critical aspect of the swing set to enable your kids to have fun without endangering their lives. Despite that there are outlined [safety recommendations](https://www.swing-n-slide.com/pages/play-set-safety-checklist)or all swing set, some brands may not meet all of them and thus endanger your kids.
 
 However, you should have your minimum standards to have some level of satisfaction on the safety, in addition to the manufacturer's assurance of meeting the required standards.
 

@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 
-Worried if bedbugs will make you sick? Well, bed [bug](https://pestpolicy.com/bed-bug-bites-vs-other-bites/) bites are very painful.
+Worried if bedbugs will make you sick? Well, bed [bug](https://pestpolicy.com/bed-bug-bites-vs-other-bites/)bites are very painful.
 
 You will have to wait a couple of minutes or even hours for it to subside.
 
@@ -27,7 +27,7 @@ Related: Bed Bug Predators
 
 ##  Details: Can Bed Bugs Make You Sick
 
-First, [bed bugs will bite](https://pestpolicy.com/what-do-bed-bugs-eat/) and inject your blood with an anticoagulant saliva, which prevents clotting of blood. The immediate effect is an inflammation on your skin around the bite location. So, you'll see small, reddish swollen skin with an itching effect.
+First, [bed bugs will bite](https://pestpolicy.com/what-do-bed-bugs-eat/)and inject your blood with an anticoagulant saliva, which prevents clotting of blood. The immediate effect is an inflammation on your skin around the bite location. So, you'll see small, reddish swollen skin with an itching effect.
 
 ###  1. Bed bug cause Anemia
 
@@ -91,7 +91,7 @@ Bed bugs are small insects that you may at times not see with your naked eye. Th
 
 ##  **How to get rid of bed bugs?**
 
-To prevent bed bugs in your home, you can follow the following approaches: - Ensure that you do thorough cleaning in your house. - Check all possible hideouts like cracks, [carpets](https://pestpolicy.com/can-bed-bugs-live-in-carpet/), and furniture regularly. - Avoid buying second hand furniture as this creates a loop for entry into your house.
+To prevent bed bugs in your home, you can follow the following approaches: - Ensure that you do thorough cleaning in your house. - Check all possible hideouts like cracks, [carpets](https://pestpolicy.com/can-bed-bugs-live-in-carpet/),and furniture regularly. - Avoid buying second hand furniture as this creates a loop for entry into your house.
 
 When you are purchasing house items like bed, select the design that makes it difficult for the bed bugs to climb such as metal or glass.
 

@@ -41,7 +41,7 @@ Adult flea measures between 1. 5 and 3. 2 mm long. Females are generally larger 
 
 With moderate weather conditions, they take about a week and a half.
 
-But if the conditions are more favorable such as in warm temperatures and high humidity, these eggs could hatch in days. From the egg stage comes the larvae stage. The flea [larva is usually white with pale hair](https://pestpolicy.com/what-do-flea-larvae-look-like/) and measures inch in length. In most areas infested by fleas, the larvae usually constitute a third of the entire flea population. They are relatively more difficult to spot.
+But if the conditions are more favorable such as in warm temperatures and high humidity, these eggs could hatch in days. From the egg stage comes the larvae stage. The flea [larva is usually white with pale hair](https://pestpolicy.com/what-do-flea-larvae-look-like/)and measures inch in length. In most areas infested by fleas, the larvae usually constitute a third of the entire flea population. They are relatively more difficult to spot.
 
 This is because, being photophobic, they tend to bury themselves underneath fabric and carpets. Flea larvae live on flea dirt and conspecific eggs for a period between 5 and 20 days before they can begin spinning their cocoons. When that happens, you know they are ripe for the next stage in flea development the pupae. Flea pupae resemble the adult in various ways, as this is the last stage of the insect's development.
 
@@ -51,7 +51,7 @@ Flea pupae spend most of their time in their cocoons. Thats where they will stay
 
 ##  Detect Fleas in Your Home
 
-In most cases, [fleas will settle for pets as opposed to humans](https://pestpolicy.com/do-fleas-stay-on-humans/) as hosts. Well, there is really no difference because the agony experienced in either case is nearly the same. Flea-infested dogs will experience constant hair loss. But even before you notice a few furs missing from your pets coat, you will surely not miss the little dark spots moving around in his fur.
+In most cases, [fleas will settle for pets as opposed to humans](https://pestpolicy.com/do-fleas-stay-on-humans/)as hosts. Well, there is really no difference because the agony experienced in either case is nearly the same. Flea-infested dogs will experience constant hair loss. But even before you notice a few furs missing from your pets coat, you will surely not miss the little dark spots moving around in his fur.
 
 Thats the surest sign your pet is infested.
 
@@ -59,5 +59,5 @@ You might also want to look out for flea droppings that are black in color or th
 
 ##  Conclusion
 
-[Fleas are not very difficult to spot](https://pestpolicy.com/where-do-fleas-hide/), especially when they are fully grown. These jumping parasites are known to be frenzy feeders, so when they find a host in you, be prepared for endless days of itching and scratching. You need not prepare for all that when you can [take preventive measures](https://entomology.ca. uky. edu/ef602) to keep these insects at bay.
+[Fleas are not very difficult to spot](https://pestpolicy.com/where-do-fleas-hide/),especially when they are fully grown. These jumping parasites are known to be frenzy feeders, so when they find a host in you, be prepared for endless days of itching and scratching. You need not prepare for all that when you can [take preventive measures](https://entomology.ca.uky.edu/ef602)to keep these insects at bay.
 

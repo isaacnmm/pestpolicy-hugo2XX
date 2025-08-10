@@ -21,13 +21,13 @@ Espree was invented by Teri Payne Jones in 1989, who loved Aloe Vera natural ing
 
 ##  Natural Aloe ingredients
 
-Espree Aloe is created from purely natural Aloe ingredients. Therefore, since it has no dangerous chemicals, the horse repellent wont be toxic to the animals body or skin if its absorbed. Further, the formula wont be harmful to the environment as it's all-natural ingredients. I love my horse, but most time [flies](https://pestpolicy.com/absorbine-ultrashield-ex-brand-residual-insecticide-review/) cannot give them peace of mind to graze and enjoy life in the stalls and pastures.
+Espree Aloe is created from purely natural Aloe ingredients. Therefore, since it has no dangerous chemicals, the horse repellent wont be toxic to the animals body or skin if its absorbed. Further, the formula wont be harmful to the environment as it's all-natural ingredients. I love my horse, but most time [flies](https://pestpolicy.com/absorbine-ultrashield-ex-brand-residual-insecticide-review/)cannot give them peace of mind to graze and enjoy life in the stalls and pastures.
 
 But I have realized that this Espree Aloe Herbal will prevent that toxic interaction between your horse and flies.
 
 ##  Ready to Use - Plug-and-Play
 
-Espree Aloe comes in its ready to use the form, and thus you wont require to mix things up before you start spraying your horse. This [horse fly](https://pestpolicy.com/ecosmart-organic-horse-fly-knockdown-repellent-review/) repellent has a sunscreen that allows it to protect you against harsh sun rays. The horsefly repellent has a conditioner to assist keep your horses coat in a healthy and shiny state.
+Espree Aloe comes in its ready to use the form, and thus you wont require to mix things up before you start spraying your horse. This [horse fly](https://pestpolicy.com/ecosmart-organic-horse-fly-knockdown-repellent-review/)repellent has a sunscreen that allows it to protect you against harsh sun rays. The horsefly repellent has a conditioner to assist keep your horses coat in a healthy and shiny state.
 
 This will be great for both pasturing and when youre going for a horse show and may even give you additional favors over there. Its scent is heavenly, which you and your horse will love. Notably, the great smell in the horse fly repellent will also last long enough to give you excellent service both at the farm and at the horse show.
 

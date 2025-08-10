@@ -15,9 +15,9 @@ tags:
 layout: post
 ---
 
-[Cockroaches](https://pestpolicy.com/best-roach-bait/) are infamous for being one of the most resilient and pervasive pests, invading homes and often causing distress among homeowners. They are often associated with the transmission of diseases and can be a real nuisance.
+[Cockroaches](https://pestpolicy.com/best-roach-bait/)are infamous for being one of the most resilient and pervasive pests, invading homes and often causing distress among homeowners. They are often associated with the transmission of diseases and can be a real nuisance.
 
-But the question that often comes to mind is, "Do cockroaches [bite](https://pestpolicy.com/can-fleas-bite-through-clothes/)? " In this comprehensive article, we will delve into the world of cockroaches, exploring their behavior, what drives them to bite, the potential dangers, and how to treat a cockroach bite. **Cockroach Diet: Omnivores at Heart** Cockroaches are omnivorous pests, which means they have a diverse diet.
+But the question that often comes to mind is, "Do cockroaches [bite](https://pestpolicy.com/can-fleas-bite-through-clothes/)?" In this comprehensive article, we will delve into the world of cockroaches, exploring their behavior, what drives them to bite, the potential dangers, and how to treat a cockroach bite. **Cockroach Diet: Omnivores at Heart** Cockroaches are omnivorous pests, which means they have a diverse diet.
 
 They will eat just about anything that's edible, whether it's dead or alive animals, plants, or decaying matter. This dietary versatility is one of the reasons they are such persistent and adaptable pests in various environments.
 
@@ -25,7 +25,7 @@ They will eat just about anything that's edible, whether it's dead or alive anim
 
 **Yes, the answer is a resounding yes, cockroaches can and do bite. However, it's important to note that cockroaches do not bite humans as a primary source of food. ** **Their natural inclination is to find food and shelter, and humans are not typically on their menu. Instead, cockroaches resort to biting in certain situations: ** 1.
 
-**Scarcity of Food: **When cockroaches cannot find their usual sources of food, such as crumbs or organic matter, they may explore alternative options, including nibbling on human skin. 2. **Feeling Threatened: **Cockroaches are primarily nocturnal creatures that prefer to remain hidden. If they feel cornered or threatened, they may[bite as a defense mechanism](https://www.ncbi. nlm. nih. gov/pmc/articles/PMC4641686/). 3.
+**Scarcity of Food: **When cockroaches cannot find their usual sources of food, such as crumbs or organic matter, they may explore alternative options, including nibbling on human skin. 2. **Feeling Threatened: **Cockroaches are primarily nocturnal creatures that prefer to remain hidden. If they feel cornered or threatened, they may[bite as a defense mechanism](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4641686/).3.
 
 **Extreme Infestations: **In cases of severe infestations, cockroaches may become bolder and more desperate, increasing the likelihood of encountering humans and potentially resorting to biting.
 
@@ -55,7 +55,7 @@ These allergies are typically caused by cockroach allergens found in their saliv
 
 ##  **Cockroaches and Disease Transmission**
 
-Cockroaches are notorious for being potential vectors of disease. However, it's important to clarify that they do not transmit diseases through their bites. - Instead, cockroaches and[baby roaches](https://pestpolicy.com/what-do-baby-roaches-look-like//)can carry disease-causing pathogens on their bodies and in their excrement. By crawling in unsanitary environments, such as drains, sewage, and garbage waste, they can pick up these pathogens.
+Cockroaches are notorious for being potential vectors of disease. However, it's important to clarify that they do not transmit diseases through their bites. - Instead, cockroaches and[baby roaches](https://pestpolicy.com/what-do-baby-roaches-look-like//)cancarry disease-causing pathogens on their bodies and in their excrement. By crawling in unsanitary environments, such as drains, sewage, and garbage waste, they can pick up these pathogens.
 
 When they come into contact with food or surfaces that humans touch, they can transfer these pathogens, potentially causing diseases like typhoid, cholera, diarrhea, and dysentery.
 
@@ -85,5 +85,5 @@ In conclusion, cockroaches can indeed bite, but it's not something that should c
 
 ##  **Sources**
 
-1. *Fast and Powerful: Biomechanics and Bite Forces - National Center for Biotechnology Information. * 2. [Cockroach, tick, storage mite, and other arthropod allergies - NCBI - NIH](https://www.ncbi. nlm. nih. gov/pmc/articles/PMC4484749/). 3. [Cockroaches as a Source of High Bacterial Pathogens - NCBI - NIH](https://www.ncbi. nlm. nih. gov/pmc/articles/PMC4909895/)
+1. *Fast and Powerful: Biomechanics and Bite Forces - National Center for Biotechnology Information. * 2. [Cockroach, tick, storage mite, and other arthropod allergies - NCBI - NIH](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4484749/).3. [Cockroaches as a Source of High Bacterial Pathogens - NCBI - NIH](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4909895/)
 

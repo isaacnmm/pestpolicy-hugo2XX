@@ -16,7 +16,7 @@ layout: post
 
 Painting drywall may not be simple, especially if the wrong approach or paint application method is followed. The drywall material could be plasterboard, gypsum, sheetrock, wallboard, plywood reinforcement, or even a composite material.
 
-Your peeling paint problem will even worsen if you opt to coat the peeled section without adhering to the right procedure. *Well, in this article, we shall be discussing how to [fix](https://pestpolicy.com/how-do-i-fix-peeling-paint-on-ceiling/) [peeling](https://pestpolicy.com/how-to-paint-a-deck-with-peeling-paint/) paint on drywall.
+Your peeling paint problem will even worsen if you opt to coat the peeled section without adhering to the right procedure. *Well, in this article, we shall be discussing how to [fix](https://pestpolicy.com/how-do-i-fix-peeling-paint-on-ceiling/)[peeling](https://pestpolicy.com/how-to-paint-a-deck-with-peeling-paint/) paint on drywall.
 
 To start with, you need to select appropriate material and tools, prepare the peeled drywall sufficiently, repair/seal dents and damaged sections, and polish the drywall excellently before priming the surface, where necessary.
 

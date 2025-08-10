@@ -68,13 +68,13 @@ ACME 59390 Sharan Rocking Chair has a padded back and seat area. - The rockers w
 
 ACME 59390 Sharan Rocking Chair has a fresh design that comes with cabriole front legs, a scalloped apron, and unique fabric cushions with flowery patterns.
 
-It has a padded back and seat area for additional comfort. Notably, the chair will improve the face of your nursery dcor. Read Also: [Best Ergonomic Sofa](https://pestpolicy.com/best-ergonomic-sofa/). - The back and seat come as separate parts and thus it will require some assembly worm. However, I must state that the chair is strong and comfortable for your nursery and will match your nursery style appropriately.
+It has a padded back and seat area for additional comfort. Notably, the chair will improve the face of your nursery dcor. Read Also: [Best Ergonomic Sofa](https://pestpolicy.com/best-ergonomic-sofa/).- The back and seat come as separate parts and thus it will require some assembly worm. However, I must state that the chair is strong and comfortable for your nursery and will match your nursery style appropriately.
 
 Read Also: Bullet Journal Notebook
 
 ##  Conclusion
 
-Well-balanced - The sleepytime Rocker for the nursery is well-balanced with minimal padding and creates great comfort for nursing. - The chair has ash hardwood legs enhanced and excellent smooth rocking or[recliners for short people](https://pestpolicy.com/best-recliners-for-short-people/). Aesthetic Look -The nursery rocking chair is easy to install and has an excellent aesthetic look.
+Well-balanced - The sleepytime Rocker for the nursery is well-balanced with minimal padding and creates great comfort for nursing. - The chair has ash hardwood legs enhanced and excellent smooth rocking or[recliners for short people](https://pestpolicy.com/best-recliners-for-short-people/).Aesthetic Look -The nursery rocking chair is easy to install and has an excellent aesthetic look.
 
 However, the chair would also be an excellent addition to the indoor room.
 

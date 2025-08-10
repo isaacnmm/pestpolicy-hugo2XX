@@ -44,7 +44,7 @@ Adjust pH if necessary (most grasses prefer 6. 0-7. 0). Incorporate 2-4 inches o
 
 * **Cross-Hatch Pattern: ** Apply half the seed in one direction and the other half perpendicularly to ensure uniform coverage.
 
-5. **Ensure Excellent Seed-to-Soil Contact: ** * This is arguably the most critical step for [fast](https://pestpolicy.com/how-fast-do-bed-bugs-spread-from-room-to-room/) germination. Seeds need to be nestled in the soil, not just sitting on top. * **Lightly Rake: ** After spreading, lightly rake the seed into the top 1/8 to 1/4 inch of soil. Don't bury it too deep.
+5. **Ensure Excellent Seed-to-Soil Contact: ** * This is arguably the most critical step for [fast](https://pestpolicy.com/how-fast-do-bed-bugs-spread-from-room-to-room/)germination. Seeds need to be nestled in the soil, not just sitting on top. * **Lightly Rake: ** After spreading, lightly rake the seed into the top 1/8 to 1/4 inch of soil. Don't bury it too deep.
 
 * **Roll (Optional): ** A light lawn roller can gently press seeds into the soil, improving contact.
 

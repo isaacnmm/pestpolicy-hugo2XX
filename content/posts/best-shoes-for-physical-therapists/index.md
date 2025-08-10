@@ -22,7 +22,7 @@ Also read: [Best Non-Slip Shoes for Standing All Day](https://pestpolicy.com/bes
 
 ###  [1. Skechers Men's GO Walk 5-55500 Sneaker](https://www.amazon.com/dp/B07MNJWWKZ/?tag=p-policy-20)
 
-Skechers Men's GO Walk 5-55500 is for Physical Therapists who spend long hours on their feet. Its an easy slip-on [shoe](https://pestpolicy.com/best-non-slip-shoes-for-standing-all-day/) with a fabric pull loop within the heel section for quick removal or wearing of the shoe.
+Skechers Men's GO Walk 5-55500 is for Physical Therapists who spend long hours on their feet. Its an easy slip-on [shoe](https://pestpolicy.com/best-non-slip-shoes-for-standing-all-day/)with a fabric pull loop within the heel section for quick removal or wearing of the shoe.
 
 The upper of GO Walk 5-55500 features a soft-engineered mesh fabric that allows ample flow of air into the shoe. The upper texture detailing makes the shoe appealing and professional.
 
@@ -146,7 +146,7 @@ Determine which activities you would use the shoe for, is it outdoor or indoor a
 
 The rigidity of the shoe- a rigid shoe can put extra stress and pressure on your foot calf. On the other hand, highly cushioned shoes may cause foot pain.
 
-Establish whether you have any underlying foot issues like pronation, bad knees, or [lower back pain](https://pestpolicy.com/best-walking-shoes-for-lower-back-pain/) and make an informed choice considering your current situation.
+Establish whether you have any underlying foot issues like pronation, bad knees, or [lower back pain](https://pestpolicy.com/best-walking-shoes-for-lower-back-pain/)and make an informed choice considering your current situation.
 
 ###  Arch Support
 

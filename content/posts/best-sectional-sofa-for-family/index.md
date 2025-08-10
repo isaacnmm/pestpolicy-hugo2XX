@@ -17,7 +17,7 @@ layout: post
 
 A family sofa must withstand the chaos of daily life, from rambunctious kids to playful pets, while still looking stylish enough to anchor your living space. It should also be spacious and sturdy, offering ample seating for everyone to gather [comfortably](https://pestpolicy.com/[best](https://pestpolicy.com/best-chipmunk-repellents/)-recliners-for-short-people/).
 
-For those seeking additional seating options, Id recommend checking out specialized furniture like recliners for short people, which complement these sectionals nicely. Without further ado, here are my top picks for the 7 best [sectional](https://pestpolicy.com/best-leather-sectional-sofa/) sofas for families.
+For those seeking additional seating options, Id recommend checking out specialized furniture like recliners for short people, which complement these sectionals nicely. Without further ado, here are my top picks for the 7 best [sectional](https://pestpolicy.com/best-leather-sectional-sofa/)sofas for families.
 
 ##  7 Best Sectional Sofa for Family
 
@@ -35,7 +35,7 @@ The sofa has modern soft overstuffed and tweed fabric and the three-layer feathe
 
 For families looking for affordability without compromising quality, the Oliver Smith Large Light Grey Sectional Sofa is a fantastic option. Priced competitively, this sofa combines excellent fabric upholstery with a user-friendly assembly process that requires no tools. Two people can put it together in about an hour, making it an ideal choice for those who dread complicated furniture setups.
 
-The sectional includes loveseats and a corner piece, creating a versatile layout that fosters conversation, [relaxation](https://pestpolicy.com/best-reclining-sectional-sofas/), or TV time with the whole family. - Despite its lighter weight compared to some bulkier alternatives, this sofa fits beautifully into most living rooms.
+The sectional includes loveseats and a corner piece, creating a versatile layout that fosters conversation, [relaxation](https://pestpolicy.com/best-reclining-sectional-sofas/),or TV time with the whole family. - Despite its lighter weight compared to some bulkier alternatives, this sofa fits beautifully into most living rooms.
 
 Its cloth fabric exudes a modern vibe, while the firm seats and back cushions provide lasting support that doesnt sink over time.
 

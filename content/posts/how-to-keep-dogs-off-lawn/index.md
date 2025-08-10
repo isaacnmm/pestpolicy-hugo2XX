@@ -22,7 +22,7 @@ While our beloved canine companions bring joy to our lives, their natural behavi
 
 The damage caused by dogs is not merely cosmetic; concentrated urine can scorch grass, digging can destroy root systems, and repetitive traffic can compact soil and create bare spots. Whether you're dealing with your own playful pup or neighborhood dogs frequently visiting your property, finding effective and humane ways to deter them is essential for preserving your green oasis.
 
-This guide will explore the various ways dogs impact your lawn, offer a range of solutions from commercial and DIY repellents to physical barriers and [dog](https://pestpolicy.com/best-dog-backpack-carrier-for-hiking/)-repelling plants, and delve into training strategies to encourage more desirable behavior, ultimately helping you achieve a harmonious balance between pet ownership and lawn care.
+This guide will explore the various ways dogs impact your lawn, offer a range of solutions from commercial and DIY repellents to physical barriers and [dog](https://pestpolicy.com/best-dog-backpack-carrier-for-hiking/)-repellingplants, and delve into training strategies to encourage more desirable behavior, ultimately helping you achieve a harmonious balance between pet ownership and lawn care.
 
 ##  How Dogs Damage Your Lawn
 

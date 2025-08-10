@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 
-[Diatomaceous earth](http://npic.orst. edu/factsheets/degen. html), commonly known as D. E, is a naturally occurring off-white soft, silicon-based sedimentary rock. It is composed of fossilized marine-based algae called planktons. Under a microscope, it looks like shards of glass (silica is used to make glass). But does diatomaceous earth kill bed bugs (or even with vinegar)/)? *A simple answer is, YES, diatomaceous earth will kill bed bugs.
+[Diatomaceous earth](http://npic.orst.edu/factsheets/degen.html),commonly known as D. E, is a naturally occurring off-white soft, silicon-based sedimentary rock. It is composed of fossilized marine-based algae called planktons. Under a microscope, it looks like shards of glass (silica is used to make glass). But does diatomaceous earth kill bed bugs (or even with vinegar)/)? *A simple answer is, YES, diatomaceous earth will kill bed bugs.
 
 The D. E particles stick to the insect's exoskeleton it punctures the carapace, thus, leaving the insect susceptible to dehydration. * *Also, when the insect inhales the powder, it cuts through the respiratory system and causes drying of the mucous membrane of breathing passages in the bug, thus, killing them. Related: Pictures of Bed Bugs. *
 
@@ -103,7 +103,7 @@ The bed bug is resistant to many known pesticides, and thus, your normal insecti
 
 You will most likely come across these gels severally when you buy electronics or clothing items as they are used to prevent the accumulation of moisture on electronic items during shipping and/or storage.
 
-These gels contain high concentrations of silicon dioxide, which is highly absorbent and, thus, will absorb the insect's cuticle waxes faster than D. E. Also, unlike D. E, these silica gels can work one time, needing a bug to crawl over the dusted surface just once for it to be effective, and because it is [highly absorbent, it will kill](https://pestpolicy.com/does-salt-kill-bed-bugs/) the bug in a far shorter time than the D. E.
+These gels contain high concentrations of silicon dioxide, which is highly absorbent and, thus, will absorb the insect's cuticle waxes faster than D. E. Also, unlike D. E, these silica gels can work one time, needing a bug to crawl over the dusted surface just once for it to be effective, and because it is [highly absorbent, it will kill](https://pestpolicy.com/does-salt-kill-bed-bugs/)the bug in a far shorter time than the D. E.
 
 ###  5. Use 91% Rubbing Alcohol
 

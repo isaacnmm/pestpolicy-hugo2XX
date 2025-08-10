@@ -14,7 +14,7 @@ tags:
 layout: post
 ---
 
-You should know that many problems you experience with your [raspberry pi 3](https://www.raspberrypi. org/magpi/[raspberry-pi-3](https://pestpolicy.com/best-heatsink-for-raspberry-pi-3/)-specs-benchmarks/) are mainly due to using underpowered and low-quality supplies. - You'd thus require the Best power supply for raspberry pi 3. Many power supplies in the market lie about the specification and they experience a significant voltage drop.
+You should know that many problems you experience with your [raspberry pi 3](https://www.raspberrypi.org/magpi/[raspberry-pi-3](https://pestpolicy.com/best-heatsink-for-raspberry-pi-3/)-specs-benchmarks/)are mainly due to using underpowered and low-quality supplies. - You'd thus require the Best power supply for raspberry pi 3. Many power supplies in the market lie about the specification and they experience a significant voltage drop.
 
 Read Also: Best Laptop Tablet Combo.
 
@@ -60,7 +60,7 @@ This is because of its reliability and efficiency in power supply considering th
 
 The adapter is ERP rated at level 6 on efficiency.
 
-Check the [Official Raspberry Pi Supply Unit Datasheet](https://www.modmypi. com/download/T5875DV. PDF)
+Check the [Official Raspberry Pi Supply Unit Datasheet](https://www.modmypi.com/download/T5875DV.PDF)
 
 ##  Alternative Methods to Power your Raspberry Pi 3
 

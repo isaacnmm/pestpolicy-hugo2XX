@@ -36,9 +36,9 @@ The New Balance Fresh Foam 1080v12 offers plush cushioning with Fresh Foam X in 
 
 ###  5.[Saucony Triumph 20](https://www.amazon.com/dp/B08LQCXYNT?tag=p-policy-20)
 
-The Saucony Triumph 20 is another excellent option for runners with bad knees. It features PWRRUN+ cushioning technology, offering a soft yet responsive feel. The [shoe](https://pestpolicy.com/best-running-shoes-for-bad-knees/) also provides good stability and support, making it an ideal choice for individuals who need extra protection against knee strain.
+The Saucony Triumph 20 is another excellent option for runners with bad knees. It features PWRRUN+ cushioning technology, offering a soft yet responsive feel. The [shoe](https://pestpolicy.com/best-running-shoes-for-bad-knees/)also provides good stability and support, making it an ideal choice for individuals who need extra protection against knee strain.
 
-###  Other Noteworthy Shoes for [Running](https://pestpolicy.com/best-mens-running-shoes-for-bad-knees/) with Bad Knees
+###  Other Noteworthy Shoes for [Running](https://pestpolicy.com/best-mens-running-shoes-for-bad-knees/)with Bad Knees
 
 1. Nike Air Zoom Pegasus 39: Known for its responsive cushioning and sleek design, its a popular choice for runners with knee concerns. 2. Adidas Ultraboost 22: These shoes offer outstanding cushioning, providing excellent comfort and shock absorption for your knees. 3. Mizuno Wave Sky 5: With its Cloudwave technology, the Mizuno Wave Sky 5 offers smooth and cushioned transitions, reducing knee impact.
 

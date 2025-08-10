@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 
-Most of us fear spiders (unless it's a pet [spider](https://pestpolicy.com/can-you-drown-a-spider/)) because [their spider bites are largely poisonous](https://pestpolicy.com/spider-bite-vs-mosquito-bite/). - So, if any homeowner sees some insect poop around the house, they worry that they could have spiders around. **But, do spiders poop? Yes, after feeding and digestion happen, spiders will poop to release their body's waste.
+Most of us fear spiders (unless it's a pet [spider](https://pestpolicy.com/can-you-drown-a-spider/))because [their spider bites are largely poisonous](https://pestpolicy.com/spider-bite-vs-mosquito-bite/).- So, if any homeowner sees some insect poop around the house, they worry that they could have spiders around. **But, do spiders poop? Yes, after feeding and digestion happen, spiders will poop to release their body's waste.
 
 The spider poop will be the size of a pinhead (thick liquid) and they have a gray, black, brown, or white color. ** - After drying, the spider poop may stain the surface, the floor, and the walls.
 
@@ -57,9 +57,9 @@ For example, there are spider species that'll poop once a day or even in a month
 
 ##  How Safe is Spider Poop? Toxic?
 
-Bites from some common spiders tend to be venomous mainly due to the antimicrobials in their blood and venom but are spider poop toxic? Well, simply stated spider poop is never toxic. - However, most animal droppings could be dangerous as they may carry parasites, viruses, and bacteria but[spider poop is classified as less toxic](https://www.illinoispoisoncenter. org/my-child-ate-poop).
+Bites from some common spiders tend to be venomous mainly due to the antimicrobials in their blood and venom but are spider poop toxic? Well, simply stated spider poop is never toxic. - However, most animal droppings could be dangerous as they may carry parasites, viruses, and bacteria but[spider poop is classified as less toxic](https://www.illinoispoisoncenter.org/my-child-ate-poop).
 
-But it has [been reported that](https://www.pctonline. com/article/pct1013-spider-poop/) poop from the Black Widow may bring pathogenic bacteria if it is eaten by flies. - Despite that spider ear insects like flies, most of their poop is non-toxic. - Otherwise, they would transmit pathogens such as Streptococcus spp, Staphylococcus spp, Enterococcus spp, or Salmonella spp.
+But it has [been reported that](https://www.pctonline.com/article/pct1013-spider-poop/)poop from the Black Widow may bring pathogenic bacteria if it is eaten by flies. - Despite that spider ear insects like flies, most of their poop is non-toxic. - Otherwise, they would transmit pathogens such as Streptococcus spp, Staphylococcus spp, Enterococcus spp, or Salmonella spp.
 
 Notably, the antimicrobial cap[abilities that are normally in the venom of a spider are often removed by the poop's bacterias.
 
@@ -71,5 +71,5 @@ I suggest you use some long tweezers or tongs to hold the clothe or wet tissue t
 
 ##  Conclusion
 
-Further, the spider poop will also be dropped tother with a bolus - I can describe this as the web and part of the flesh of the [tiny insects like bed bugs](https://pestpolicy.com/do-spiders-eat-bed-bugs/) that the spider ate.
+Further, the spider poop will also be dropped tother with a bolus - I can describe this as the web and part of the flesh of the [tiny insects like bed bugs](https://pestpolicy.com/do-spiders-eat-bed-bugs/)that the spider ate.
 

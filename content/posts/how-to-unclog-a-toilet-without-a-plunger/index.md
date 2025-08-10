@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 
-Sometimes toilets will clog ceaselessly. Thus, your "bank deposits" will float as the water level rises. A [plunger](https://pestpolicy.com/how-to-use-a-plunger/) would be a [viable solution](https://aces.nmsu. edu/pubs/_g/G304/welcome. html) to save the situation. However, thepoop smell and water flushing might discourage you from using yourplunger. Also, maybe even the available [plunger is for your kitchen sink](https://pestpolicy.com/how-to-use-a-plunger/).
+Sometimes toilets will clog ceaselessly. Thus, your "bank deposits" will float as the water level rises. A [plunger](https://pestpolicy.com/how-to-use-a-plunger/)would be a [viable solution](https://aces.nmsu.edu/pubs/_g/G304/welcome.html)to save the situation. However, thepoop smell and water flushing might discourage you from using yourplunger. Also, maybe even the available [plunger is for your kitchen sink](https://pestpolicy.com/how-to-use-a-plunger/).
 
 Therefore, in this post, you'll learn the DIY tips on unclogging your toilet without a plunger or having to call a plumber.
 
@@ -99,7 +99,7 @@ By use of a wet/dry vacuum** Ensure that the bowl has no water.
 
 Put the end of the vacuum cleaner in the drain. Place it a few inches into the drain. You can use a rag as a seal around the drain. Turn the vacuum cleaner machine on, and the chances are that the vacuum cleaner will suck out the clog. **How to** **Prevention of clogs** A clogged toilet is not only embarrassing but also stressful. It causes inconveniences for a lot of people. Here are some tips on how to avoid future clogs: 1.
 
-Only flush human waste and tissue paper- Pipes used in the toilets are specifically designed to[flush human waste and tissue paper](https://pestpolicy.com/best-toilet-paper-for-septic/). Any other materials will cause clogging. Dispose of such wastes in a trash bin and not the toilet. 2. Any other materials you dispose of in the toilet should be water-soluble.
+Only flush human waste and tissue paper- Pipes used in the toilets are specifically designed to[flush human waste and tissue paper](https://pestpolicy.com/best-toilet-paper-for-septic/).Any other materials will cause clogging. Dispose of such wastes in a trash bin and not the toilet. 2. Any other materials you dispose of in the toilet should be water-soluble.
 
 Other materials such as sanitary towels, toothbrushes, and others should be disposed of in a trash bin. 3.
 

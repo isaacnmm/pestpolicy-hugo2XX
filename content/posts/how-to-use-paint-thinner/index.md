@@ -14,7 +14,7 @@ tags:
 layout: post
 ---
 
-[Paint](https://pestpolicy.com/airless-paint-sprayer-tips/) [thinner](https://pestpolicy.com/best-paint-thinner-for-oil-painting/) including Xylene, Naptha, Acetone, and Turpentine 1. Paint thinner is a substance used to make paint thinner. Paint thinner is a term that can be used to describe many different substances. Turpentine, Acetone, Naptha, Xylene, and many more substances can be used to reduce the thickness of paint. 1.
+[Paint](https://pestpolicy.com/airless-paint-sprayer-tips/)[thinner](https://pestpolicy.com/best-paint-thinner-for-oil-painting/) including Xylene, Naptha, Acetone, and Turpentine 1. Paint thinner is a substance used to make paint thinner. Paint thinner is a term that can be used to describe many different substances. Turpentine, Acetone, Naptha, Xylene, and many more substances can be used to reduce the thickness of paint. 1.
 
 While latex-based primers and paints are convenient and versatile, oil-based primers and paints still are good choices in certain applications. However, if you are going to use oil-based products, you will need to know how to properly use paint thinners or solvents to thin paint, and clean brushes and other equipment when youre done. Keep reading to learn how.
 

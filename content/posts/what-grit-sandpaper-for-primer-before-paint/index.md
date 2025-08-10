@@ -14,7 +14,7 @@ tags:
 layout: post
 ---
 
-Surfaces such as rust metal require coarse grip sandpaper ( [maybe you've tried oiling](https://pestpolicy.com/how-does-oiling-prevent-rusting/) ), while painted ceramic surface needs to be sanded with super fine-grit sandpaper to prevent primary material from damage.
+Surfaces such as rust metal require coarse grip sandpaper ( [maybe you've tried oiling](https://pestpolicy.com/how-does-oiling-prevent-rusting/)), while painted ceramic surface needs to be sanded with super fine-grit sandpaper to prevent primary material from damage.
 
 *So, what grit sandpaper for primer before painting - the answer is IT VARIES with the surfaces. * *When sanding raw wood material, you will need to begin with extra coarse grit sandpaper (to remove large debris), followed by coarse grit sandpaper (to remove stock material), and pass with medium-grit sandpaper to clean any unfinished wood from the surface.
 

@@ -14,7 +14,7 @@ tags:
 layout: post
 ---
 
-Accidentally spilling [paint](https://pestpolicy.com/airless-paint-sprayer-cleaning-solution/) on your [wooden](https://pestpolicy.com/best-wooden-swing-set-reviews/) floor can be frustrating, but its not the end of the world. Whether its from a paint can, brush, or roller, you can effectively remove paint from wood without damaging the floors surface.
+Accidentally spilling [paint](https://pestpolicy.com/airless-paint-sprayer-cleaning-solution/)on your [wooden](https://pestpolicy.com/best-wooden-swing-set-reviews/)floor can be frustrating, but its not the end of the world. Whether its from a paint can, brush, or roller, you can effectively remove paint from wood without damaging the floors surface.
 
 In this guide, well walk you through the best methods for removing paint from wooden floors safely and effectively.
 

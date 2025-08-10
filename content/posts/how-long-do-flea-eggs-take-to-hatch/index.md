@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 
-Using monthly flea control products such as [flea foggers](https://pestpolicy.com/best-fogger-for-[fleas](https://pestpolicy.com/flea-eggs-vs-dandruff/)/) will [break the](https://pestpolicy.com/how-long-does-it-take-to-break-the-[flea](https://pestpolicy.com/what-do-flea-eggs-look-like/)-life-cycle/) flea cycle in 3 months while adult fleas have a lifespan of ~ 12 days (up to 110+ days).
+Using monthly flea control products such as [flea foggers](https://pestpolicy.com/best-fogger-for-[fleas](https://pestpolicy.com/flea-eggs-vs-dandruff/)/)will [break the](https://pestpolicy.com/how-long-does-it-take-to-break-the-[flea](https://pestpolicy.com/what-do-flea-eggs-look-like/)-life-cycle/)flea cycle in 3 months while adult fleas have a lifespan of ~ 12 days (up to 110+ days).
 
 Fleas will lay about 22 - 51 eggs a day, but this could vary with the prevailing temperature or if there are pesticides around and the fleas' food - may be flea dirt? *But how long do flea eggs take to hatch? Fleas eggs hatch within 1 (36 hours) to 10 days into larvae but this may vary with environmental conditions like humidity (over 50 %) & temperature (75 to 85 degrees).
 
@@ -37,7 +37,7 @@ To exterminate fleas eggs, you'll require to undertake a 2-stage process; which 
 
 ###  **1. FleaVacuuming**
 
-So, after you've exterminated the fleas on your pet, I advise that you go on to control the bugs in the house, [yard, or garden using some effective flea sprays](https://pestpolicy.com/best-flea-spray-for-yard/). - Flea vacuuming has proven to be an effective technique to control fleas and their eggs.
+So, after you've exterminated the fleas on your pet, I advise that you go on to control the bugs in the house, [yard, or garden using some effective flea sprays](https://pestpolicy.com/best-flea-spray-for-yard/).- Flea vacuuming has proven to be an effective technique to control fleas and their eggs.
 
 - I advise you to drop mothballs into that vacuum bag - and remember to dispose of that bag (after sealing) as this will prevent flea hatching inside there.
 
@@ -59,7 +59,7 @@ Remember to use the hottest (temperature) cycle, bleach, and appropriate deterge
 
 ###  4. Diatomaceous Earth
 
-Diatomaceous Earth functions well to exterminate fleas - this will work well if you sprinkle it on the pets bedding, carpets. The US [NPIC](http://npic.orst. edu/factsheets/degen. html#products) outlines that Diatomaceous Earth will dry out the fleas' exoskeleton and cuticle (including their fats and oils) due to the sharp edges that will cut the outer shell.
+Diatomaceous Earth functions well to exterminate fleas - this will work well if you sprinkle it on the pets bedding, carpets. The US [NPIC](http://npic.orst.edu/factsheets/degen.html#products)outlines that Diatomaceous Earth will dry out the fleas' exoskeleton and cuticle (including their fats and oils) due to the sharp edges that will cut the outer shell.
 
 - But the Diatomaceous Earth could be dangerous to the pet's digestive and respiratory tracts and thus you would do well to avoid sprinkling it on areas where pets lay.
 

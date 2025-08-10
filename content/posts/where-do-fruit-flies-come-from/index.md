@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 
-Could [fruit](https://pestpolicy.com/how-long-do-fruit-flies-live/) [flies](https://pestpolicy.com/how-do-you-keep-horse-flies-away-naturally/) have disturbed you in your place? Do you wonder where they may have come from or [how long they live](https://pestpolicy.com/how-long-do-fruit-flies-live/)?
+Could [fruit](https://pestpolicy.com/how-long-do-fruit-flies-live/)[flies](https://pestpolicy.com/how-do-you-keep-horse-flies-away-naturally/) have disturbed you in your place? Do you wonder where they may have come from or [how long they live](https://pestpolicy.com/how-long-do-fruit-flies-live/)?
 
 In this article, I will be answering this question in depth.
 

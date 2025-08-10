@@ -14,9 +14,9 @@ tags:
 layout: post
 ---
 
-Did you stop by to read through this content because you are desperately looking for the best paint for the bathroom [ceiling](https://pestpolicy.com/best-paint-finish-for-ceilings/) to prevent mold?
+Did you stop by to read through this content because you are desperately looking for the best paint for the bathroom [ceiling](https://pestpolicy.com/best-paint-finish-for-ceilings/)to prevent mold?
 
-Mold thrives on moist surfaces, especially in places with inadequate ventilation, making your [bathroom](https://pestpolicy.com/a-tour-of-chelseas-hall-bathroom-renovation/) ceiling a fertile breeding area for it.
+Mold thrives on moist surfaces, especially in places with inadequate ventilation, making your [bathroom](https://pestpolicy.com/a-tour-of-chelseas-hall-bathroom-renovation/)ceiling a fertile breeding area for it.
 
 Unfortunately, you cannot just apply any paint, say the water-based type, and expect to eradicate it because some regular water-based paints provide food for these fungi in the long run.
 

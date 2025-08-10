@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 
-Have you ever woken up with a bite/s on your body and wondered what could be the cause? The worst arises when you imagine having a bedbug or a [spider bite](https://www.webmd. com/skin-problems-and-treatments/ss/slideshow-spider-bites). How can you differentiate the two if it's the case for you?
+Have you ever woken up with a bite/s on your body and wondered what could be the cause? The worst arises when you imagine having a bedbug or a [spider bite](https://www.webmd.com/skin-problems-and-treatments/ss/slideshow-spider-bites).How can you differentiate the two if it's the case for you?
 
 **Check on indicators such as the physical appearance of the bite, size of the bite mark, the number of bites on the surface/body, duration of bite to heal, location of the bite as well as the degree of pain instilled when you got bitten. ** - **Further, you will need to observe the frequency of bite, biting time, and severity of the bite on the victim. ** - **Upon bite identification, it's necessary to undertake proper bite treatment.
 
@@ -29,11 +29,11 @@ Bedbug's bite is usually small and appears as a reddish bump on the skin surface
 
 ###  b. Size of Bite Mark
 
-The size of the bite mark from a spider is usually big/wide (deep fangs can be seen when the bite is still flesh), whereas the size of the bedbug's bite is small - no visible marks at times. Further, the [bedbug's bite](https://health.clevelandclinic. org/need-know-[bed-bugs](https://pestpolicy.com/do-spiders-eat-bed-bugs/)/) may appear like a flat patch on the skin or tiny-pus rashes.
+The size of the bite mark from a spider is usually big/wide (deep fangs can be seen when the bite is still flesh), whereas the size of the bedbug's bite is small - no visible marks at times. Further, the [bedbug's bite](https://health.clevelandclinic.org/need-know-[bed-bugs](https://pestpolicy.com/do-spiders-eat-bed-bugs/)/)may appear like a flat patch on the skin or tiny-pus rashes.
 
 ###  c. Number of Bites
 
-Spider leaves one [bite](https://pestpolicy.com/flea-bites-vs-bed-bug-bites/) at a time in a given surface/location, while bedbug carries multiple bites (clusters) in a given surface/point - you will see small shallow marks or swellings on your skin.
+Spider leaves one [bite](https://pestpolicy.com/flea-bites-vs-bed-bug-bites/)at a time in a given surface/location, while bedbug carries multiple bites (clusters) in a given surface/point - you will see small shallow marks or swellings on your skin.
 
 ###  d. Signs and Symptoms
 

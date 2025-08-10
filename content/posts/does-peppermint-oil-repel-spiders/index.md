@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 
-If you have a [spider infestation in the house](https://pestpolicy.com/how-to-get-rid-of-spiders/), you must be asking yourself this - does [peppermint](https://pestpolicy.com/does-peppermint-oil-kill-bed-bugs/) oil repel spiders? Well, as a natural remedy, peppermint oil will treat acne, muscle pain, and nausea. *Peppermint oil has natural Mint (a smell that spiders hate) and thus will repel the spiders like the brown recluse.
+If you have a [spider infestation in the house](https://pestpolicy.com/how-to-get-rid-of-spiders/),you must be asking yourself this - does [peppermint](https://pestpolicy.com/does-peppermint-oil-kill-bed-bugs/)oil repel spiders? Well, as a natural remedy, peppermint oil will treat acne, muscle pain, and nausea. *Peppermint oil has natural Mint (a smell that spiders hate) and thus will repel the spiders like the brown recluse.
 
 Spray the home with water (16-ounce) laced with some peppermint oil (about five drops). * Peppermint oil is a regular household item that'll remove the spiders - substituting harsh chemicals. - The DIY spray works like tea tree and lavender oil citrus oil (lemon) or Hedge apples. - Peppermint will repel insects including wasps, stink bugs, spiders, moths, head lice, gnats, fruit flies, fleas, andcockroaches.
 
@@ -27,9 +27,9 @@ Apply the spider-repellent spray onto dark corners, the perimeters, windows, and
 
 Spiders hate the natural mint smell in the peppermint oil - so spray the mixture around your home. Also, the spray will leave a fresh minty smell. As an even better DIY to repel spiders, you may crash the dried peppermint leaves and position them near the entryways or on the kitchen cupboard.
 
-This [2010 scientific study](https://www.ncbi. nlm. nih. gov/pmc/articles/PMC3014752/#! po=85. 2941) concluded that peppermint oil will excellently repel those spiders and other insects like ants like other natural essential oils. Spiders use their legs in the sensing mission, and thus the peppermint smell will make them not to crawl through the treated surfaces.
+This [2010 scientific study](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3014752/#!po=85.2941)concluded that peppermint oil will excellently repel those spiders and other insects like ants like other natural essential oils. Spiders use their legs in the sensing mission, and thus the peppermint smell will make them not to crawl through the treated surfaces.
 
-Another [comprehensive research](https://athenaeum.libs. uga. edu/handle/10724/26478) reported peppermint oil and other essential oils with monoterpenoids (fumigants) are naturally effective against, different home invaders. > See Also: > No See Ums Repellent
+Another [comprehensive research](https://athenaeum.libs.uga.edu/handle/10724/26478)reported peppermint oil and other essential oils with monoterpenoids (fumigants) are naturally effective against, different home invaders. > See Also: > No See Ums Repellent
 
 ##  Using Peppermint Oil for Controlling Spiders
 
@@ -49,7 +49,7 @@ Do this particularly around open gaps, cracks, and corners. Re-spraying may be r
 
 ##  Peppermint Oil Side Effects and Risks for Spider Control
 
-Peppermint oil is a natural product you may find even in your house. But the oil will include menthol which could trigger some skin irritation. Further, avoid using peppermint oil like your spider when you have pets - cats or dogs in the spaces - as also outlined by [the ASPCA study results](https://www.aspca. org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/mint) as it's toxic to pets.
+Peppermint oil is a natural product you may find even in your house. But the oil will include menthol which could trigger some skin irritation. Further, avoid using peppermint oil like your spider when you have pets - cats or dogs in the spaces - as also outlined by [the ASPCA study results](https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/mint)as it's toxic to pets.
 
 Inhalation of large amounts of peppermint oil may lead to Nausea, Double vision, Fatigue, and Dizziness. Avoid skin contact due to allergic reactions -may also cause skin irritation and inflammation.
 
@@ -63,7 +63,7 @@ Keenly seal the doors and windows while also seeling or securing all the cracks 
 
 ###  1. Limited**Side Effects**
 
-Peppermint oil will have even limited side effects when compared to using various other spider repellents [such as bug sprays](https://pestpolicy.com/how-to-get-rid-of-brown-recluse-spiders/). Commercial or chemical-based pesticides and insecticides will cause side effects such as blurred vision, diarrhea, cramps, stomach, nausea, dizziness, and headaches.
+Peppermint oil will have even limited side effects when compared to using various other spider repellents [such as bug sprays](https://pestpolicy.com/how-to-get-rid-of-brown-recluse-spiders/).Commercial or chemical-based pesticides and insecticides will cause side effects such as blurred vision, diarrhea, cramps, stomach, nausea, dizziness, and headaches.
 
 Therefore, using natural peppermint oil will help ease the number and consequences of side effects from products in controlling the spiders.
 

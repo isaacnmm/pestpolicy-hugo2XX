@@ -41,7 +41,7 @@ Also, an alternative of Palmolive dishwashing liquids is not safe nor are they r
 
 ###  **2. Castile**
 
-This is also another human soap that can also be effective for washing your dog. It is made from natural ingredients and is [also safe for your dog](https://pestpolicy.com/best-flea-combs-for-dogs/). - Unlike other liquid soap, castile soap does not contain any elements of detergents that can harm your puppy. - It is effective in cleaning the dirt without causing harm to the natural body oils of the dogs skin.
+This is also another human soap that can also be effective for washing your dog. It is made from natural ingredients and is [also safe for your dog](https://pestpolicy.com/best-flea-combs-for-dogs/).- Unlike other liquid soap, castile soap does not contain any elements of detergents that can harm your puppy. - It is effective in cleaning the dirt without causing harm to the natural body oils of the dogs skin.
 
 The skin remains intact and moisturized.
 
@@ -49,7 +49,7 @@ You can use it to kill ticks and fleas that harm the dog and cause constant itch
 
 ###  **3. Dove**
 
-Dove is formulated with natural ingredients that make it safe and tender to use on your dag. - Though it has customized pH for human skin, its natural ingredients make it possible to use on dogs and other pets. If you use it regularly, it is most likely going to cause a reaction on the dogs body and itching. A further engagement with your vet would be a nice idea before you can use it to [wash](https://pestpolicy.com/best-car-wash-soap/) your dog.
+Dove is formulated with natural ingredients that make it safe and tender to use on your dag. - Though it has customized pH for human skin, its natural ingredients make it possible to use on dogs and other pets. If you use it regularly, it is most likely going to cause a reaction on the dogs body and itching. A further engagement with your vet would be a nice idea before you can use it to [wash](https://pestpolicy.com/best-car-wash-soap/)your dog.
 
 ###  **4. Head and shoulders**
 

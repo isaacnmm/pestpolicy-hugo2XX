@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 
-Fun fact: Over 95% of the flea population will be scattered all over your house (including in the bed) with the pets hosting just 5% of the pests. So, if you think bed bugs are the only disturbing pest you can have in your bed, then think again. - [Fleas](https://pestpolicy.com/getting-rid-of-fleas-in-the-carpet/) will hide, reproduce, and bite you or your kids as you sleep. In this article, Ive outlined how to get rid of fleas in bed.
+Fun fact: Over 95% of the flea population will be scattered all over your house (including in the bed) with the pets hosting just 5% of the pests. So, if you think bed bugs are the only disturbing pest you can have in your bed, then think again. - [Fleas](https://pestpolicy.com/getting-rid-of-fleas-in-the-carpet/)will hide, reproduce, and bite you or your kids as you sleep. In this article, Ive outlined how to get rid of fleas in bed.
 
 In summary, you can remove fleas from the bed by Washing and drying the bed fabrics at high temperatures. - Wash the bed covers, pillow covers, and bed sheets using hot water to kill the fleas. Next, put the fabrics into your dryer to kill any living fleas. Related: How Big are Fleas?
 
@@ -25,7 +25,7 @@ Fleas will reproduce at a quick rate and after laying eggs the growth of the pop
 
 ###  1. Verify that its Fleas
 
-Correct identification is a critical step while controlling pests including fleas. So you have to respond to this question "are these pests on my bed really fleas? " In summary here are the signs that will show the presence of fleas in your bed. 1. Live Adult fleas 2. [Flea](https://pestpolicy.com/how-to-get-rid-of-flea-eggs-on-cats/) skin 3. Flea larvae 4. Flea eggs 5. Flea bite marks 6. Flea dirt
+Correct identification is a critical step while controlling pests including fleas. So you have to respond to this question "are these pests on my bed really fleas? " In summary here are the signs that will show the presence of fleas in your bed. 1. Live Adult fleas 2. [Flea](https://pestpolicy.com/how-to-get-rid-of-flea-eggs-on-cats/)skin 3. Flea larvae 4. Flea eggs 5. Flea bite marks 6. Flea dirt
 
 ####  a. Live Adult fleas
 
@@ -87,7 +87,7 @@ Yes, that's right, you should vacuum the mattress to remove fleas from the bed. 
 
 After vacuuming the mattress and washing the bedding fully, can fleas could still escape and hide in cushions and carpeting waiting to jump back in your bed. - Therefore, experts recommend that you fully deflea the bed area and the mattress. First, avoid using boric acid because it could be toxic to humans who will be sleeping on that bed. Below are effective and safe flea killers that you can use around the bed area. 1.
 
-Diatomaceous Earth ( [food grade DE](https://pestpolicy.com/diatomaceous-earth-for-fleas/) ) will kill fleas by breaking their exoskeleton to dehydrate the pests. Luckily, DE is effective yet non-toxic and so it will help remove that free infestation in just a few days. 2. The next technique is to de-flea the mattress completely by using quality mattress encasement.
+Diatomaceous Earth ( [food grade DE](https://pestpolicy.com/diatomaceous-earth-for-fleas/)) will kill fleas by breaking their exoskeleton to dehydrate the pests. Luckily, DE is effective yet non-toxic and so it will help remove that free infestation in just a few days. 2. The next technique is to de-flea the mattress completely by using quality mattress encasement.
 
 I recommend that you use a mattress encasement continuously until there are no more signs of fleas. 3.
 

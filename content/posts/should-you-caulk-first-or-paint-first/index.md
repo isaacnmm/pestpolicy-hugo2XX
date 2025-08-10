@@ -18,7 +18,7 @@ Many homeowners and DIY enthusiasts grapple with this question - should caulk be
 
 Caulk serves as a sealant, filling gaps and cracks between surfaces, ensuring a smooth and uniform appearance.
 
-* *By applying caulk before painting, you create a seamless and cohesive surface, preventing [paint](https://pestpolicy.com/airless-paint-sprayer-tips/) from seeping into gaps and enhancing the overall finish. The caulk also helps improve the durability and longevity of the paint job by providing an additional layer of protection against moisture and drafts. * Related: Paint for Outdoor Wood Furniture
+* *By applying caulk before painting, you create a seamless and cohesive surface, preventing [paint](https://pestpolicy.com/airless-paint-sprayer-tips/)from seeping into gaps and enhancing the overall finish. The caulk also helps improve the durability and longevity of the paint job by providing an additional layer of protection against moisture and drafts. * Related: Paint for Outdoor Wood Furniture
 
 ##  **Why is caulking important?**
 

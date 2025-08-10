@@ -46,9 +46,9 @@ Despite the relatively small screen size, the screen gives you a resolution of 2
 
 Cons: - Poor bezel design
 
-Read Also: [[Laptops](https://pestpolicy.com/best-laptop-for-video-editing/) for Drawing](https://pestpolicy.com/best-laptops-for-drawing/)
+Read Also: [[Laptops](https://pestpolicy.com/best-laptop-for-video-editing/)for Drawing](https://pestpolicy.com/best-laptops-for-drawing/)
 
-###  [3. Apple [MacBook](https://pestpolicy.com/macbook-pro-touch-bar-increases-productivity-in-music-making/) Pro 15 (2019) - #3 Pick](https://www.amazon.com/dp/B07RZWHHHP/?tag=p-policy-20)
+###  [3. Apple [MacBook](https://pestpolicy.com/macbook-pro-touch-bar-increases-productivity-in-music-making/)Pro 15 (2019) - #3 Pick](https://www.amazon.com/dp/B07RZWHHHP/?tag=p-policy-20)
 
 With this 2019 edition, you get a combination of portability, excellent battery life, and high video processing power.
 

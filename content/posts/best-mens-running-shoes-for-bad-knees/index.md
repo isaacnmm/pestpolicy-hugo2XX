@@ -24,7 +24,7 @@ Related: [Best Womens Running Shoes for Bad Knees](https://pestpolicy.com/best-w
 
 ##  Review: 7 Best Mens Running Shoes for Bad Knees
 
-###  [1. Brooks [Men](https://pestpolicy.com/best-running-shoes-for-men-with-wide-feet/)'s Adrenaline GTS 19 - Best Mens Running Shoes for Bad Knees](https://www.amazon.com/dp/B07C6JB568/?tag=p-policy-20)
+###  [1. Brooks [Men](https://pestpolicy.com/best-running-shoes-for-men-with-wide-feet/)'sAdrenaline GTS 19 - Best Mens Running Shoes for Bad Knees](https://www.amazon.com/dp/B07C6JB568/?tag=p-policy-20)
 
 Brooks Adrenaline GTS 19 is one of the best stability running shoes thats ideal for runners with severe overpronation and bad knees. It provides comfort, a non-binding fit, and support to feet and knees.
 

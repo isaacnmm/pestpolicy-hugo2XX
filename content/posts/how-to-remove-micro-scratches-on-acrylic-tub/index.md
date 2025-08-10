@@ -35,7 +35,7 @@ Despite their advantages, acrylic's softer nature means it's more prone to scrat
 * **Always start with the least abrasive method.** * **Keep sandpaper and surface wet during sanding.** * **Use light, even pressure.** * **Work in small sections.** * **Clean and dry thoroughly between steps to check progress.**
 ---
 
-[Acrylic](https://pestpolicy.com/best-acrylic-paint-for-canvas/) bathtubs have become an incredibly popular choice for modern bathrooms due to their lightweight nature, versatility in design, excellent heat retention, and relatively affordable price point. Their smooth, non-porous surface is generally easy to clean and maintain.
+[Acrylic](https://pestpolicy.com/best-acrylic-paint-for-canvas/)bathtubs have become an incredibly popular choice for modern bathrooms due to their lightweight nature, versatility in design, excellent heat retention, and relatively affordable price point. Their smooth, non-porous surface is generally easy to clean and maintain.
 
 However, despite their durability against cracking and chipping, acrylic tubs are softer than their enamel-coated cast iron or porcelain counterparts, making them susceptible to **micro-scratches** and dullness over time.
 

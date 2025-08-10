@@ -14,7 +14,7 @@ tags:
 - them
 ---
 
-Landscaping around the base of trees can add beauty, suppress weeds, and retain moisture, creating a stunning and cohesive look for your garden. However, it's crucial to approach this task with care to ensure the health and longevity of your trees. Improper landscaping techniques can severely damage a [tree](https://pestpolicy.com/10-trees-to-grow-in-containers/)'s root system, leading to stress, disease, or even death.
+Landscaping around the base of trees can add beauty, suppress weeds, and retain moisture, creating a stunning and cohesive look for your garden. However, it's crucial to approach this task with care to ensure the health and longevity of your trees. Improper landscaping techniques can severely damage a [tree](https://pestpolicy.com/10-trees-to-grow-in-containers/)'sroot system, leading to stress, disease, or even death.
 
 The key to successful landscaping around trees lies in understanding their **critical root zone (CRZ)** and choosing the right plants and materials that coexist harmoniously.
 

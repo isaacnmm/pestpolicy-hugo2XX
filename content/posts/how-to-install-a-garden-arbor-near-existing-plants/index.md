@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 
-A [garden](https://pestpolicy.com/10-essential-lawn-and-garden-tools-for-fall/) arbor adds a touch of charm, vertical interest, and a welcoming gateway to any landscape. It provides a perfect framework for climbing plants, creating a lush, living tunnel or a fragrant focal point.
+A [garden](https://pestpolicy.com/10-essential-lawn-and-garden-tools-for-fall/)arbor adds a touch of charm, vertical interest, and a welcoming gateway to any landscape. It provides a perfect framework for climbing plants, creating a lush, living tunnel or a fragrant focal point.
 
 While installing an arbor in an open, empty space is straightforward, integrating one seamlessly into an existing garden, especially near established plants, presents a unique set of challenges.
 

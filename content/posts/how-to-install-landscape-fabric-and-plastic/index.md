@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 
-Landscape fabric and plastic sheeting are two common materials used in gardening and [landscaping](https://pestpolicy.com/10-winter-landscaping-ideas-to-spruce-up-your-outdoor-space/), primarily for weed control, moisture retention, and soil temperature regulation. While often lumped together, they serve distinct purposes and come with their own sets of advantages and disadvantages.
+Landscape fabric and plastic sheeting are two common materials used in gardening and [landscaping](https://pestpolicy.com/10-winter-landscaping-ideas-to-spruce-up-your-outdoor-space/),primarily for weed control, moisture retention, and soil temperature regulation. While often lumped together, they serve distinct purposes and come with their own sets of advantages and disadvantages.
 
 Choosing the right material and installing it correctly is crucial for achieving your desired results and avoiding potential pitfalls. Misuse can lead to unintended consequences, such as root rot, soil degradation, or persistent weed problems.
 

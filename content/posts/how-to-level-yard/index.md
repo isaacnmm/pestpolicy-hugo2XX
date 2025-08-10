@@ -141,7 +141,7 @@ The method you choose for leveling your yard depends heavily on the scale and na
 
 * **Cons: ** Can be an extensive project, potentially costly, requires understanding of water flow.
 
-Choosing the right method (or combination of methods) requires a clear assessment of your [yard](https://pestpolicy.com/how-to-landscape-your-yard-with-deer-resistant-plants/)'s specific problems and your ultimate landscaping goals.
+Choosing the right method (or combination of methods) requires a clear assessment of your [yard](https://pestpolicy.com/how-to-landscape-your-yard-with-deer-resistant-plants/)'sspecific problems and your ultimate landscaping goals.
 
 ##  Why Is It Important to Level a Yard?
 

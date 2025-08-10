@@ -14,7 +14,7 @@ tags:
 layout: post
 ---
 
-In this article, I present the [Best](https://pestpolicy.com/best-acrylic-paint-for-wood/) [Water](https://pestpolicy.com/how-do-portable-water-filters-work/) Tables for 1 Year Old. Water Tables are fun outdoor toys for kids that provide a perfect opportunity for your toddler to have fun, learn, and think.
+In this article, I present the [Best](https://pestpolicy.com/best-acrylic-paint-for-wood/)[Water](https://pestpolicy.com/how-do-portable-water-filters-work/) Tables for 1 Year Old. Water Tables are fun outdoor toys for kids that provide a perfect opportunity for your toddler to have fun, learn, and think.
 
 Water tables touch on all aspects of children's development. They help to enhance coordination of the eyes and hand. They also help toddlers to develop decision-making skills, scientific thinking, and teamwork among other aspects.
 
@@ -24,7 +24,7 @@ Also Read: Best Power Wheels for 1-Year-Old
 
 ##  Review: 7 Best Water Tables For 1 Year Old
 
-###  [1. Little Tikes Spiralin' Seas Play Table](https://www.amazon.com/dp/B004INDQWY/?tag=p-policy-20)- Best Water Tables For 1 Year Old
+###  [1. Little Tikes Spiralin' Seas Play Table](https://www.amazon.com/dp/B004INDQWY/?tag=p-policy-20)-Best Water Tables For 1 Year Old
 
 The Little Tikes Spiralin' water table comes with excellent features and various play accessories to make playtime a fun-filled experience for the 1-year-old.
 
@@ -40,7 +40,7 @@ The water table includes 5 round characters and 1 cup. The 1-year-old learns to 
 
 Cons: - Some people experienced a challenge screwing the swirl
 
-###  [2. UNIH Kids Sand and Water Table](https://www.amazon.com/dp/B08YRPBN8V/?tag=p-policy-20)- 1-Year-Old Water Table
+###  [2. UNIH Kids Sand and Water Table](https://www.amazon.com/dp/B08YRPBN8V/?tag=p-policy-20)-1-Year-Old Water Table
 
 The UNIH beach sand toy set and water table provide 1-3-year-olds an opportunity to utilize their senses to discover the world around them. This set of beach toys for kids ensure that your little one has an excellent play experience.
 
@@ -70,7 +70,7 @@ Cons: - Some reviewers complained that the drain plug was not effective
 
 Also Read: [Best Power Wheels for 2 Year Old](https://pestpolicy.com/best-power-wheels-for-2-year-old/)
 
-###  [4. Roberty Kids Play Sand Water Table](https://www.amazon.com/dp/B093D2WXTF/?tag=p-policy-20)- Water Tables For 1 Year Old
+###  [4. Roberty Kids Play Sand Water Table](https://www.amazon.com/dp/B093D2WXTF/?tag=p-policy-20)-Water Tables For 1 Year Old
 
 Let your one year old have an excellent childhood memory filled with fun and excitement with this Roberty Kids Play Sand Water Table. This water table is a perfect birthday or holiday gift you can give your child.
 

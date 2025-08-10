@@ -16,7 +16,7 @@ tags:
 layout: post
 ---
 
-August in the garden and on the [lawn](https://pestpolicy.com/september-lawn-garden-to-do-list/) can be a challenging month. For many regions, it's the peak of summer heat and often a period of significant drought stress. While it might seem like a time to slow down, August is crucial for maintaining the health of your landscape, protecting it from summer's harshest elements, and laying the groundwork for a strong autumn and next spring.
+August in the garden and on the [lawn](https://pestpolicy.com/september-lawn-garden-to-do-list/)can be a challenging month. For many regions, it's the peak of summer heat and often a period of significant drought stress. While it might seem like a time to slow down, August is crucial for maintaining the health of your landscape, protecting it from summer's harshest elements, and laying the groundwork for a strong autumn and next spring.
 
 It's a month of vigilant care, strategic planning, and careful observation.
 

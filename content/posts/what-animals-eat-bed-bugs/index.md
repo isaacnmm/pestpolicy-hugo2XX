@@ -23,7 +23,7 @@ If you're wondering which animals will eat bed bugs (Hemiptera), read on to get 
 
 ###  1. Masked Bed Bug Hunter
 
-Some of the natural bed bug enemies might be dangerous to bring into your spaces - so it would be best to hire professional exterminators to control both the adult and [ba](https://pestpolicy.com/baby-[bed-bugs](https://pestpolicy.com/what-eats-bed-bugs/)/) by bed bugs. These Masked hunters are even described as assassin bugs that'll colonize areas that are dry and warm - your home will be an excellent destination.
+Some of the natural bed bug enemies might be dangerous to bring into your spaces - so it would be best to hire professional exterminators to control both the adult and [ba](https://pestpolicy.com/baby-[bed-bugs](https://pestpolicy.com/what-eats-bed-bugs/)/)by bed bugs. These Masked hunters are even described as assassin bugs that'll colonize areas that are dry and warm - your home will be an excellent destination.
 
 These flying bugs will measure roughly 17 - 22 millimeters (with some gray or brown).
 
@@ -43,13 +43,13 @@ Also, they'll inhabit sewers and other dirty places eating food, garbage, and ju
 
 Further, roaches will love dirty homes as they'll easily get bread crumbs and leftover food - but they won't be super effective against bed bugs like foggers, traps, and sprays. Despite that roaches will east the bed bugs, the rate of exterminating them is too slow while the bed bugs reproduce too fast. Also, roaches tend to bite humans and contaminate their food.
 
-But as natural scavengers, roaches will eat both bed bug eggs and their adults - but it won't be possible to exterminate the entire bed bug colony since the [bed bugs do fast reproduction. ](https://www.terminix. com/blog/bug-facts/how-fast-do-bed-bugs-spread/) - In summary, roaches will predators on bed bugs - as they'll feed on most things that'll act like food - but they won't eat and eliminate the whole colony of bed bugs in the house.
+But as natural scavengers, roaches will eat both bed bug eggs and their adults - but it won't be possible to exterminate the entire bed bug colony since the [bed bugs do fast reproduction. ](https://www.terminix.com/blog/bug-facts/how-fast-do-bed-bugs-spread/)- In summary, roaches will predators on bed bugs - as they'll feed on most things that'll act like food - but they won't eat and eliminate the whole colony of bed bugs in the house.
 
 - Thus, it is better to employ chemical bed-bug killers or even engage a professional exterminator to clear the whole colony of bed bugs in your residence and house.
 
 ###  3. Pharaoh Ants
 
-From all the ant species, pharaoh ants are the best documented to [kill or attack bed bugs](https://pestpolicy.com/do-ants-kill-bed-bugs/). Further, they'll draw attention or pinpoint (give away) the specific hiding areas of the bed bugs. The [Pharaoh ants](https://en.wikipedia. org/wiki/Pharaoh_ant) consider bed bugs as a great diet - but they're threatening to humans.
+From all the ant species, pharaoh ants are the best documented to [kill or attack bed bugs](https://pestpolicy.com/do-ants-kill-bed-bugs/).Further, they'll draw attention or pinpoint (give away) the specific hiding areas of the bed bugs. The [Pharaoh ants](https://en.wikipedia.org/wiki/Pharaoh_ant)consider bed bugs as a great diet - but they're threatening to humans.
 
 The ants will help manage large bed bug infestations - the 1/16-inch workers will be honey-colored.
 
@@ -65,7 +65,7 @@ On the other hand, Argentine Ants will measure roughly 2. 2 mm - 2. 8 mm - the i
 
 ###  4.Thanatus Flavidus Spider
 
-Thanatus flavidus (Philodromidae) is a [spider species that are effective in controlling bed bugs](https://pestpolicy.com/do-spiders-eat-bed-bugs/) - besides heat treatment, fumigation, and pesticides. They're native to Greece, Ukraine, and Russia. The legend spider - as described by [Time Magazine](http://content.time. com/time/magazine/article/0, 9171, 737831, 00. html), cleared the bed bugs infestation that was in Athens, Greece in 1929.
+Thanatus flavidus (Philodromidae) is a [spider species that are effective in controlling bed bugs](https://pestpolicy.com/do-spiders-eat-bed-bugs/)- besides heat treatment, fumigation, and pesticides. They're native to Greece, Ukraine, and Russia. The legend spider - as described by [Time Magazine](http://content.time.com/time/magazine/article/0,9171,737831,00.html),cleared the bed bugs infestation that was in Athens, Greece in 1929.
 
 They'll catch the bloodsuckers by their backs to remove their body fluids. This Thanatus flavidus isn't toxic to humans - and hence are better suited to be in the house compared to kissing bugs, cockroaches, and ants. Other predator spiders include jumping spider, running crab spider, and the wolf spider. - Spider bites won't spread infections to humans and won't also invade your bedroom.
 
@@ -73,7 +73,7 @@ Bedbugs came back after the prohibition of synthetic DDT pesticides mainly in Eu
 
 ###  5. House Centipedes
 
-The [House Centipedes](https://en.wikipedia. org/wiki/Scutigera_coleoptrata) are hated by humans but they'll also eat many invertebrates including cockroaches, bed bugs, termites, and spiders. The centipedes (that have a body that's yellowish-brown) are considered disgusting by most people but the house species will eat bed bugs. These bugs have flattened and long bodies - that'll go up to1-1/2 inches in length.
+The [House Centipedes](https://en.wikipedia.org/wiki/Scutigera_coleoptrata)are hated by humans but they'll also eat many invertebrates including cockroaches, bed bugs, termites, and spiders. The centipedes (that have a body that's yellowish-brown) are considered disgusting by most people but the house species will eat bed bugs. These bugs have flattened and long bodies - that'll go up to1-1/2 inches in length.
 
 Each of their body section has a (thread-like, slender, and long) pair of legs - that have some white and black banding. - The centipedes have well-developed and large eyes - they're beneficial and harmless to humans but will predate on insects, bed bugs, ants, silverfish, cockroaches, termites, spiders, andNo See Umstoo. The thirty legged arthropods measure about 15 centimeters in body length - they'll hunt bed bugs and cockroaches.
 
@@ -81,5 +81,5 @@ They might cause painful and poisonous bites - that look like bee bites. - House
 
 ##  Sources:
 
-1. [Pharaoh Ants Kill Bed-Bugs? - University of Florida](http://entnemdept.ufl. edu/creatures/urban/ants/pharaoh_ant. htm) 2. [Roaches Eat Bed-bugs - Harvard University? ](http://adsabs.harvard. edu/abs/1930Natur. 125. .858G) 3. [Masked Hunter Attack Bed-Bugs? Penn State University](http://ento.psu. edu/extension/factsheets/masked-hunter)
+1. [Pharaoh Ants Kill Bed-Bugs? - University of Florida](http://entnemdept.ufl.edu/creatures/urban/ants/pharaoh_ant.htm)2. [Roaches Eat Bed-bugs - Harvard University? ](http://adsabs.harvard.edu/abs/1930Natur.125..858G)3. [Masked Hunter Attack Bed-Bugs? Penn State University](http://ento.psu.edu/extension/factsheets/masked-hunter)
 

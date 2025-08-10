@@ -16,7 +16,7 @@ tags:
 layout: post
 ---
 
-[Fertilizer](https://pestpolicy.com/help-for-fertilizer-burn-in-lawn/) is a vital tool for cultivating a lush, green lawn, providing essential nutrients that encourage robust growth and vibrant color. However, like any powerful tool, it must be used with care and precision.
+[Fertilizer](https://pestpolicy.com/help-for-fertilizer-burn-in-lawn/)is a vital tool for cultivating a lush, green lawn, providing essential nutrients that encourage robust growth and vibrant color. However, like any powerful tool, it must be used with care and precision.
 
 An overzealous application or improper technique can quickly turn a beneficial treatment into a damaging one, leading to a common and disheartening issue known as "fertilizer burn. "
 

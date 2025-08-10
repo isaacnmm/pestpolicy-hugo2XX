@@ -33,13 +33,13 @@ Bed bugs are incredibly prolific insects. During its 6 to 12 month lifespan, a f
 
 Refurbished old mattresses often spread bugs to shops and homes, causing infection.
 
-Also, [bed bugs can spread](https://pestpolicy.com/bed-bugs-vs-mites/) when old and new mattresses are shipped together.
+Also, [bed bugs can spread](https://pestpolicy.com/bed-bugs-vs-mites/)when old and new mattresses are shipped together.
 
 ##  Prevent bed bugs from spreading in your bed and house
 
-Prevention is better than cure. Taking precautions against bed bugs is much smaller than getting rid of them after pests. Follow these steps: 1. Seal and repair any cracks outside the home to prevent any insects from entering. While at this, ensure you use effective [sprays against bed bugs](https://pestpolicy.com/best-bed-bug-spray/). 2.
+Prevention is better than cure. Taking precautions against bed bugs is much smaller than getting rid of them after pests. Follow these steps: 1. Seal and repair any cracks outside the home to prevent any insects from entering. While at this, ensure you use effective [sprays against bed bugs](https://pestpolicy.com/best-bed-bug-spray/).2.
 
-Use a mattress cover - a [plastic or tightly woven mattress cover to prevent bed bugs](https://pestpolicy.com/can-bed-bugs-climb-metal-or-plastic/) from crawling in and out 3. Do not buy or pick up any used furniture, if possibleTy Ammonia, or Rubbing alcohol. 4. Clean your house regularly - reduce any unnecessary mess and vacuum mattresses. And finally, undertake beds bug-killing in the place to use vacuuming, heat treatment (using steamers).
+Use a mattress cover - a [plastic or tightly woven mattress cover to prevent bed bugs](https://pestpolicy.com/can-bed-bugs-climb-metal-or-plastic/)from crawling in and out 3. Do not buy or pick up any used furniture, if possibleTy Ammonia, or Rubbing alcohol. 4. Clean your house regularly - reduce any unnecessary mess and vacuum mattresses. And finally, undertake beds bug-killing in the place to use vacuuming, heat treatment (using steamers).
 
 ##  How to prevent bedbugs from spreading as you travel
 

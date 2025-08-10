@@ -14,7 +14,7 @@ tags:
 layout: post
 ---
 
-The [Zhidong Controller](https://www.amazon. com/dp/B01HBKLIJ8/? tag=p-policy-20) is a multi-modem both DirectInput and input. Besides, it is a plug-and-play device, particularly in the games supporting Xinput Mode. It is an amazing [wireless controller](https://pestpolicy.com/) for PS3 and PC. - Further, the Zhidong Controller has a fast wireless connection: 2. 4 GHz wireless but lacks Xbox One or 360.
+The [Zhidong Controller](https://www.amazon.com/dp/B01HBKLIJ8/?tag=p-policy-20)is a multi-modem both DirectInput and input. Besides, it is a plug-and-play device, particularly in the games supporting Xinput Mode. It is an amazing [wireless controller](https://pestpolicy.com/)for PS3 and PC. - Further, the Zhidong Controller has a fast wireless connection: 2. 4 GHz wireless but lacks Xbox One or 360.
 
 Also, it has a JD-SWITCH function and full vibration feedback.
 

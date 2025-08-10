@@ -62,7 +62,7 @@ Read Also: Stain For Cedar Swing Set
 
 Kids 12V Electric Power from best choice offers great fun and excitement to your kids. You can also join in the fun by using the wireless remote that comes with the car to control the car movements.
 
-To make this car even more appealing, it comes with many great features including; - 2 powerful 12V motors that support high and low-speed control - Comes with a wireless remote - Rechargeable batteries plus a charger - Can be operated in three ways; through the foot pedal, steering [wheel](https://pestpolicy.com/best-power-wheels-for-3-year-old/), or via the parent using the remote control - Comes with a built-in speaker that features a cord and MP3 auxiliary jack - Its weight capacity is 66lbs and its dimension is 44 x 23 x 24 To ensure quality, this stunning car design is built using heavy-duty plastic materials.
+To make this car even more appealing, it comes with many great features including; - 2 powerful 12V motors that support high and low-speed control - Comes with a wireless remote - Rechargeable batteries plus a charger - Can be operated in three ways; through the foot pedal, steering [wheel](https://pestpolicy.com/best-power-wheels-for-3-year-old/),or via the parent using the remote control - Comes with a built-in speaker that features a cord and MP3 auxiliary jack - Its weight capacity is 66lbs and its dimension is 44 x 23 x 24 To ensure quality, this stunning car design is built using heavy-duty plastic materials.
 
 The MP3 connection and the FM radio allow your kids to play their favorite music via the inbuilt speakers. To maintain the excitement and the fun for long hours, the car has a charger that comes with rechargeable batteries. The recommended charging time is 8-10 hours. For ease of assembling, all hardware and instruction are included. The manufacturers recommended age is 18 months to 6 years. So your 2 years old can safely ride on it!
 
@@ -130,7 +130,7 @@ battery-powered models need recharging regularly, but they are known to be more 
 
 The leg-powered on the hand requires kids to concentrate more.
 
-If you are looking for a perfect holiday or birthday present for your kid (2 or [7 years old](https://pestpolicy.com/best-power-wheels-for-7-year-old/) ), the Ride-on toys will be a perfect pick. We all know how challenging it can get when selecting a gift for your child, especially if they already have many interesting toys. Power wheels are a great option you might want to consider.
+If you are looking for a perfect holiday or birthday present for your kid (2 or [7 years old](https://pestpolicy.com/best-power-wheels-for-7-year-old/)), the Ride-on toys will be a perfect pick. We all know how challenging it can get when selecting a gift for your child, especially if they already have many interesting toys. Power wheels are a great option you might want to consider.
 
 The Ride-on toys provide fun and exciting experience to kids and parents.
 

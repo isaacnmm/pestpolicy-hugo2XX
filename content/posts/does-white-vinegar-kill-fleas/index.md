@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 
-Vinegar is a common household ingredient that you will find around the kitchen but it can also have varied applications around the house. Flea bites are painful and they may cause the transmission of diseases. Further, removing [fleas](https://pestpolicy.com/does-apple-cider-vinegar-kill-fleas/) from your house and pets is challenging and expensive but you can use some home remedies. - **So, does white vinegar (acetic acid) kill fleas?
+Vinegar is a common household ingredient that you will find around the kitchen but it can also have varied applications around the house. Flea bites are painful and they may cause the transmission of diseases. Further, removing [fleas](https://pestpolicy.com/does-apple-cider-vinegar-kill-fleas/)from your house and pets is challenging and expensive but you can use some home remedies. - **So, does white vinegar (acetic acid) kill fleas?
 
 In summary, no, spraying the cider vinegar on the dog bed or rugs wouldn't kill fleas but it will help repel the pests from your house and pets. ** - **The reason is that the vinegar acid is relatively weak to break through the shells of flea larvae and free eggs. ** **However, adult fleas tend to avoid pets such as cats and dogs that are sprayed with white vinegar. But the vinegar solution won't kill the adult fleas. **
 
@@ -23,7 +23,7 @@ In summary, no, spraying the cider vinegar on the dog bed or rugs wouldn't kill 
 
 Control or prevention of fleas requires that you kill or sterilize the flea **larvae ** and flea eggs. - Therefore, any remedy (including white vinegar) that won't offer these will allow the fleas to continue multiplying. Notably, please hate the taste and smell of white vinegar and that they tend to avoid pets that are sprayed with it.
 
-- To use the cider vinegar to repel fleas, simply dilute 8 oz. cider vinegar with some warm water (4 oz. - 8 oz. ) and spray it on the pets like cats & dogs. - To make even better flea repellent, you may add[ teaspoon of baking soda](https://pestpolicy.com/does-baking-soda-kill-fleas/)and[ teaspoon of salt](https://pestpolicy.com/does-salt-kill-fleas/).
+- To use the cider vinegar to repel fleas, simply dilute 8 oz. cider vinegar with some warm water (4 oz. - 8 oz. ) and spray it on the pets like cats & dogs. - To make even better flea repellent, you may add[ teaspoon of baking soda](https://pestpolicy.com/does-baking-soda-kill-fleas/)and[teaspoon of salt](https://pestpolicy.com/does-salt-kill-fleas/).
 
 ##  Will the cider vinegar be safe to use on my pets?
 

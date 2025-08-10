@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 
-The [best](https://pestpolicy.com/best-chipmunk-repellents/) rotavator for allotments takes the sweat out of soil prep, turning hours of labor into minutes of effortless work. With powerful spinning blades that slice through compacted earth and [effortlessly aerate the soil](https://eos.com/blog/soil-aeration/), a rotavator is a game-changer for any gardener.
+The [best](https://pestpolicy.com/best-chipmunk-repellents/)rotavator for allotments takes the sweat out of soil prep, turning hours of labor into minutes of effortless work. With powerful spinning blades that slice through compacted earth and [effortlessly aerate the soil](https://eos.com/blog/soil-aeration/),a rotavator is a game-changer for any gardener.
 
 Whether you're reviving an overgrown plot or prepping fresh ground for planting, the machines I've reviewed below does the heavy lifting - so you can spend less time tilling and more time growing.
 
@@ -45,7 +45,7 @@ VonHaus electric rotavator is corded, but its lengthy extension cord allows you 
 
 A two-point safety switch prevents the user from accidentally turning on the unit or running over the cable during operation.
 
-Pros: - Highly efficient and portable - Highly durable - Its cutting blades are[strong for removing grass](https://pestpolicy.com/how-to-use-a-tiller-to-remove-grass/)and highly durable. - Lowly priced Cons: - It features a corded design which limits the users accessibility for larger gardens
+Pros: - Highly efficient and portable - Highly durable - Its cutting blades are[strong for removing grass](https://pestpolicy.com/how-to-use-a-tiller-to-remove-grass/)andhighly durable. - Lowly priced Cons: - It features a corded design which limits the users accessibility for larger gardens
 
 ###  [3. Sun Joe TJ601E Versatile Electric Tiller & Cultivator](https://www.amazon.com/dp/B07CCN5T6D/?tag=p-policy-20)
 
@@ -61,7 +61,7 @@ Conveniently positioned fingertip handlebar controls allow you to access all fun
 
 This unit features a 42. 7cc two-stroke engine and six tough tines, a perfect combination that allows you to plow through-hardened soils. If you are preparing your land for allotment, this unit will get the job done with relative ease. A tilling depth of 20cm and width of 30cm allow you to plow through the lawn in one pass, allowing you to get the job done speedily and efficiently.
 
-It gives enough power to plow through the toughest grounds, making it ideal for digging out compacted soils - you can [use also a fertilizer spreader](https://pestpolicy.com/best-tow-behind-fertilizer-spreader/). The Garden gear petrol rotavator has a 1. 2 L fuel capacity, which gives the user about an hour of service. Whats more? This units engine is air-cooled, which prevents overheating during operation.
+It gives enough power to plow through the toughest grounds, making it ideal for digging out compacted soils - you can [use also a fertilizer spreader](https://pestpolicy.com/best-tow-behind-fertilizer-spreader/).The Garden gear petrol rotavator has a 1. 2 L fuel capacity, which gives the user about an hour of service. Whats more? This units engine is air-cooled, which prevents overheating during operation.
 
 A blade guard offers you additional safety as you handle this units high tilling power.
 

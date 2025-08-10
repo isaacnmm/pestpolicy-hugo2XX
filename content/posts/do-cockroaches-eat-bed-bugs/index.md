@@ -18,7 +18,7 @@ layout: post
 
 Below I've tackled this questions - "do cockroaches eat bed bugs? "Most people dread from the disgusting sight of domestic cockroaches.
 
-Natural/biological pest control remedies like [Bed Bug Predators](https://pestpolicy.com/what-eats-[bed-bugs](https://pestpolicy.com/do-spiders-eat-bed-bugs/)/) have now become popular. So, do roaches [eat](https://pestpolicy.com/what-animals-eat-bed-bugs/) bed bugs? **Simple answer, YES Cockroaches are known predators of bed bugs, which wreak havoc in millions of homes. However, only some species of cockroaches eat bed bugs.
+Natural/biological pest control remedies like [Bed Bug Predators](https://pestpolicy.com/what-eats-[bed-bugs](https://pestpolicy.com/do-spiders-eat-bed-bugs/)/)have now become popular. So, do roaches [eat](https://pestpolicy.com/what-animals-eat-bed-bugs/)bed bugs? **Simple answer, YES Cockroaches are known predators of bed bugs, which wreak havoc in millions of homes. However, only some species of cockroaches eat bed bugs.
 
 ** **Particularly the American and the German cockroaches are very fond of feasting on bed bugs. Others cockroaches that eat bed bugs include the oriental and the brown-banded cockroaches. **
 
@@ -100,5 +100,5 @@ Simply speaking, these natural predators will never make a difference to your be
 
 ##  Sources:
 
-1. [Bed Bugs: Clinical Relevance and Control Options - NCBI](https://www.ncbi. nlm. nih. gov/pmc/articles/PMC3255965/) 2. [Behavioral Responses of the Common Bed Bug, Cimex - NCBI](https://www.ncbi. nlm. nih. gov/pmc/articles/PMC5620703/) 3. [Susceptibility of insecticideresistant bed bugs (Cimex - NCBI](https://www.ncbi. nlm. nih. gov/pmc/articles/PMC5518228/)
+1. [Bed Bugs: Clinical Relevance and Control Options - NCBI](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3255965/)2. [Behavioral Responses of the Common Bed Bug, Cimex - NCBI](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5620703/)3. [Susceptibility of insecticideresistant bed bugs (Cimex - NCBI](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5518228/)
 

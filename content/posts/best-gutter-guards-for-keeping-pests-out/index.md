@@ -37,9 +37,9 @@ The bristles provide an excellent, sheltered nesting material and structure for 
 * **Cons:** Not effective for fine debris, hard to clean thoroughly, can become saturated and heavy, notorious for attracting birds and pests as nesting sites. * **Materials:** Polypropylene bristles with a galvanized steel wire core. (e.g., GutterBrush)
 ---
 
-[Gutters](https://pestpolicy.com/best-gutter-guards/), when clogged with leaves, twigs, and standing water, become ideal breeding grounds and nesting sites for a variety of unwelcome pests. Mosquitoes lay eggs in stagnant water, while birds, rodents (squirrels, mice, rats), and insects (ants, wasps, bees) can build nests or seek shelter in the debris, potentially gaining access to your attic or home interior.
+[Gutters](https://pestpolicy.com/best-gutter-guards/),when clogged with leaves, twigs, and standing water, become ideal breeding grounds and nesting sites for a variety of unwelcome pests. Mosquitoes lay eggs in stagnant water, while birds, rodents (squirrels, mice, rats), and insects (ants, wasps, bees) can build nests or seek shelter in the debris, potentially gaining access to your attic or home interior.
 
-While the primary function of [gutter](https://pestpolicy.com/best-gutter-guards-for-box-gutters/) guards is to prevent clogs, a significant secondary benefit is their ability to deter pests. However, not all gutter guard types are equally effective at pest control. This article will examine how different gutter guard designs fare in keeping critters out and help you choose the best option to protect your home from unwanted invaders.
+While the primary function of [gutter](https://pestpolicy.com/best-gutter-guards-for-box-gutters/)guards is to prevent clogs, a significant secondary benefit is their ability to deter pests. However, not all gutter guard types are equally effective at pest control. This article will examine how different gutter guard designs fare in keeping critters out and help you choose the best option to protect your home from unwanted invaders.
 
 ##  Reverse Curve Gutter Guards
 

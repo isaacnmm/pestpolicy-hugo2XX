@@ -17,7 +17,7 @@ layout: post
 
 Are you wondering which trampoline size would be perfect for you? Well, to make it a bit easier, I will look at 12 ft. vs-14 ft. Trampoline.
 
-When deciding on the [ideal trampoline shape](https://pestpolicy.com/best-long-trampolines-for-gymnastics/), its crucial that you consider the available space in your backyard, the age of the user, and the purpose of the trampoline.
+When deciding on the [ideal trampoline shape](https://pestpolicy.com/best-long-trampolines-for-gymnastics/),itscrucial that you consider the available space in your backyard, the age of the user, and the purpose of the trampoline.
 
 For example, the 14 ft. trampoline is a perfect choice for gymnastics, while the 12 ft. trampoline is ideal for normal bouncing or play. Hence, check out my detailed analysis of 12 ft. vs-14 ft. Trampoline and decide on the best trampoline size for your backyard.
 
@@ -55,7 +55,7 @@ The 12 ft. vs-14 ft. trampoline may have a different number of springs depending
 
 Some manufacturers will have the same number of springs in both the 12 ft. and 14 ft trampolines. While others will put more springs on the 14 ft. trampoline. Make sure you confirm the number of springs before making your purchase. - The higher the number of springs in a trampoline the better and higher the bounce.
 
-Therefore, if youre looking for quality and higher bounces, youll want to choose a brand that includes more springs in their[trampoline](https://pestpolicy.com/small-trampoline-for-toddlers/). However, if young children or toddlers are involved, you might want to choose a trampoline with fewer springs, hence, a lower bounce for their safety. Depending on the manufacturer, the 12ft would be ideal for children.
+Therefore, if youre looking for quality and higher bounces, youll want to choose a brand that includes more springs in their[trampoline](https://pestpolicy.com/small-trampoline-for-toddlers/).However,if young children or toddlers are involved, you might want to choose a trampoline with fewer springs, hence, a lower bounce for their safety. Depending on the manufacturer, the 12ft would be ideal for children.
 
 ##  Product Review for 12 ft. vs-14 ft Trampoline
 

@@ -46,7 +46,7 @@ Cons: - Pricey but worth it
 
 Check Out: [Best Mini Trampoline for seniors](https://pestpolicy.com/best-mini-trampoline-for-seniors/)
 
-###  [2. MaXimus PRO Folding Rebounder](https://www.amazon.com/dp/B00J06V4EG/?tag=p-policy-20)- Trampoline for overweight people
+###  [2. MaXimus PRO Folding Rebounder](https://www.amazon.com/dp/B00J06V4EG/?tag=p-policy-20)-Trampoline for overweight people
 
 The MaXimus PRO Folding Rebounder also finds a spot in the best mini trampoline for heavy adults. This rebounder for morbidly obese people delivers low-impact exercises to protect the joints. It can accommodate anyone with 310lbs of body weight.
 
@@ -92,7 +92,7 @@ Firstly, this trampoline is heavy duty with a recommended weight limit of 400lbs
 
 Furthermore, this best trampoline for heavy adults is safe and built to last. It features a durable patented metal spring with a reliable spring cover to keep the user safe. The springs also ensure you have more bounces that are effective throughout your sessions.
 
-Other than that, youll appreciate the softer and quieter bounce that this Low-impact mini trampoline delivers. Thus, youll enjoy a comfortable rebounder workout thats easy on joints. The workouts are also ideal for your [lymphatic drainage](https://pestpolicy.com/best-mini-trampoline-for-lymphatic-drainage/) for an improved lymphatic system.
+Other than that, youll appreciate the softer and quieter bounce that this Low-impact mini trampoline delivers. Thus, youll enjoy a comfortable rebounder workout thats easy on joints. The workouts are also ideal for your [lymphatic drainage](https://pestpolicy.com/best-mini-trampoline-for-lymphatic-drainage/)for an improved lymphatic system.
 
 Besides that, the Ultimate Rebounder has high-quality and durable PERMATRON MAT that will accommodate your extra weight. Thus, allow you to exercise with confidence.
 

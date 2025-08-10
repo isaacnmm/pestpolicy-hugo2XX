@@ -39,7 +39,7 @@ If you're not satisfied, they promise to re-treat your lawn as often as needed b
 For those who desire a consistently healthy, vibrant lawn without the time commitment, research, or physical effort of DIY, TruGreen provides a robust, expert-driven solution built on decades of combined experience from both its original operations and the legacy of Scotts LawnService.
 ---
 
-When it comes to [lawn](https://pestpolicy.com/10-essential-lawn-and-garden-tools-for-fall/) care, the name Scotts is almost synonymous with a beautiful yard. For decades, Scotts has been a household name, providing generations of homeowners with the products and knowledge to cultivate lush, green spaces. However, the company's journey has evolved, particularly in its approach to professional lawn care services.
+When it comes to [lawn](https://pestpolicy.com/10-essential-lawn-and-garden-tools-for-fall/)care, the name Scotts is almost synonymous with a beautiful yard. For decades, Scotts has been a household name, providing generations of homeowners with the products and knowledge to cultivate lush, green spaces. However, the company's journey has evolved, particularly in its approach to professional lawn care services.
 
 This article delves into Scotts' legacy of innovation, clarifies its past involvement in professional services, highlights its popular DIY product lines, and helps you decide between tackling lawn care yourself or hiring a pro, ultimately offering a recommendation for professional assistance.
 

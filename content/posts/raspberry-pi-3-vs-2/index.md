@@ -13,7 +13,7 @@ tags:
 layout: post
 ---
 
-The [Raspberry](https://pestpolicy.com/best-heatsink-for-raspberry-pi-3/) Pi 3 and Raspberry Pi 2 are both popular single-board computers used for various projects, ranging from home automation to robotics and media centers. However, the Raspberry Pi 3 comes with several improvements over its predecessor, the Raspberry Pi 2. Let's compare both models in terms of key specifications and features to help you choose the right one for your needs.
+The [Raspberry](https://pestpolicy.com/best-heatsink-for-raspberry-pi-3/)Pi 3 and Raspberry Pi 2 are both popular single-board computers used for various projects, ranging from home automation to robotics and media centers. However, the Raspberry Pi 3 comes with several improvements over its predecessor, the Raspberry Pi 2. Let's compare both models in terms of key specifications and features to help you choose the right one for your needs.
 
 ###  1. Processor
 

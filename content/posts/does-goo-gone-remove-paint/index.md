@@ -36,7 +36,7 @@ Goo Gone is formulated with an exceptional chemical ratio that works excellently
 
 However, the quantity applied may vary from one type to another as well as according to the difference in material under which the paint is being removed. In this regard, you will note that Goo Gone removes latex paint faster than varnish and shellac. However, there is action time variation due to differences in the chemical structure of these compounds (paints) as well as the degree of stickiness on the applied surface.
 
-Though [Goo Gone](https://www.amazon. com/Goo-Gone-Latex-Cleaner-Surface/dp/B01JIRIIP4) can be used in either of the above types of paint, it is crucial to consider the surfaces upon which they are applied. Avoid using Goo Gone on any of the surfaces not applicable, as discussed later in this article. See Also: Sprayer for Latex Paint
+Though [Goo Gone](https://www.amazon.com/Goo-Gone-Latex-Cleaner-Surface/dp/B01JIRIIP4)can be used in either of the above types of paint, it is crucial to consider the surfaces upon which they are applied. Avoid using Goo Gone on any of the surfaces not applicable, as discussed later in this article. See Also: Sprayer for Latex Paint
 
 ###  c. Surfaces to Use on Goo Gone
 

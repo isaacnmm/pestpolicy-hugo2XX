@@ -30,7 +30,7 @@ You will need Concrete, 4 Anchor bolt, 4 screws or bolt, Drill, Shovel, Gravel o
 
 ###  **Step 1 Mark the Ground where you'll Position Each leg**
 
-Mark the location where each leg of the swing [set](https://pestpolicy.com/best-swing-set-under-200/) or ground pole will be set up. Use the shovel to mark each leg. You can do this by facing the pointed area of the shovel onto the ground, then using a hammer; hit the opposite end of the shovel. To make digging easier you can move the swing set away. Read Also: Compression Socks For Standing All Day
+Mark the location where each leg of the swing [set](https://pestpolicy.com/best-swing-set-under-200/)or ground pole will be set up. Use the shovel to mark each leg. You can do this by facing the pointed area of the shovel onto the ground, then using a hammer; hit the opposite end of the shovel. To make digging easier you can move the swing set away. Read Also: Compression Socks For Standing All Day
 
 ###  **Step 2 Dig the Holes**
 

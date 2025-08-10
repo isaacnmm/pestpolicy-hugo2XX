@@ -68,7 +68,7 @@ Weeds are the bane of any homeowner striving for a pristine lawn. These unwelcom
 
 The good news is that you don't have to tackle the endless war on weeds alone. A variety of lawn care services specialize in eradicating and preventing weeds, offering tailored solutions from conventional chemical treatments to organic alternatives and DIY programs.
 
-This guide will help you identify the [best](https://pestpolicy.com/best-lawn-care-fertilizer-service/) [lawn](https://pestpolicy.com/best-lawn-care-service-for-dogs/) care services for weed control, outlining their strengths and helping you choose the right approach for your yard.
+This guide will help you identify the [best](https://pestpolicy.com/best-lawn-care-fertilizer-service/)[lawn](https://pestpolicy.com/best-lawn-care-service-for-dogs/) care services for weed control, outlining their strengths and helping you choose the right approach for your yard.
 
 ##  Types of Weeds and Control Methods
 

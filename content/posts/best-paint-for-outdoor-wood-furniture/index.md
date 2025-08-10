@@ -14,9 +14,9 @@ tags:
 layout: post
 ---
 
-The best paint for [outdoor](https://pestpolicy.com/best-paint-for-outdoor-wood-deck/) wood furniture and outdoor deckscan be sprayed using your deck stain sprayer - to shield you from extreme weather - including severe humidity and extreme heat.
+The best paint for [outdoor](https://pestpolicy.com/best-paint-for-outdoor-wood-deck/)wood furniture and outdoor deckscan be sprayed using your deck stain sprayer - to shield you from extreme weather - including severe humidity and extreme heat.
 
-On prep work, before [spray painting](https://pestpolicy.com/best-[paint](https://pestpolicy.com/best-paint-stripper-for-wood/)-sprayer-for-fence-stain/) the furniture, ensure to clean the outdoor wood. For painting your outdoor plastic furniture, you can special paint - not the one for metal, wood, or wicker outdoor furniture.
+On prep work, before [spray painting](https://pestpolicy.com/best-[paint](https://pestpolicy.com/best-paint-stripper-for-wood/)-sprayer-for-fence-stain/)the furniture, ensure to clean the outdoor wood. For painting your outdoor plastic furniture, you can special paint - not the one for metal, wood, or wicker outdoor furniture.
 
 But you should begin with some stain-blocking primer and follow this with some latex outdoor-primer and a number of latex-paint coats for ultraviolet protection in the summer months - apart from on plastic paints.
 
@@ -104,7 +104,7 @@ Many outdoor furniture may include plastic, aluminum, wrought iron, and wicker -
 
 ###  Step #1: Surface Preparation
 
-The outdoor require painting and staining will help keep the surfaces free from [mildew](https://www.benjaminmoore. com/en-us/contractors/job-solutions/troubleshooting/mildew) and mold - but ensure to check the underside of the outdoor furniture. For old outdoor furniture that has mildew and stains, you may use some premium cleaner such as Benjamin Moore in some well-ventilated area.
+The outdoor require painting and staining will help keep the surfaces free from [mildew](https://www.benjaminmoore.com/en-us/contractors/job-solutions/troubleshooting/mildew)and mold - but ensure to check the underside of the outdoor furniture. For old outdoor furniture that has mildew and stains, you may use some premium cleaner such as Benjamin Moore in some well-ventilated area.
 
 But if there are mild mildew cases, you'll require to mix water + household bleach.
 

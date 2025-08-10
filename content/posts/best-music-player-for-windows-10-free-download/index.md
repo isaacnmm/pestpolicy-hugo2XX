@@ -14,7 +14,7 @@ tags:
 layout: post
 ---
 
-You could be whining that Windows Media Player is not included in Windows 10. Do you need the best music [player](https://pestpolicy.com/best-record-player-under-100/) for windows 10? Read Also: Wifi Extender for Verizon Fios I am sure you are looking for more than just music playback on your computer. The music players designed for Windows 10 will enable music cloud playback, synchronization, and customization all for free.
+You could be whining that Windows Media Player is not included in Windows 10. Do you need the best music [player](https://pestpolicy.com/best-record-player-under-100/)for windows 10? Read Also: Wifi Extender for Verizon Fios I am sure you are looking for more than just music playback on your computer. The music players designed for Windows 10 will enable music cloud playback, synchronization, and customization all for free.
 
 > I understand that music players are a highly personal device.
 

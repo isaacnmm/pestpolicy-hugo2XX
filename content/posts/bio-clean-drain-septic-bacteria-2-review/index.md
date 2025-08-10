@@ -27,7 +27,7 @@ Therefore, compared to other drain cleaners that are either highly basic or high
 
 ###  Safe and Ease of application
 
-Youll require a single teaspoonful of the drain cleaner and dump it into the clogged/) [drain](https://pestpolicy.com/best-drain-snakes/) or piping system. However, mix the [drain cleaner powder with some hot water](https://pestpolicy.com/how-to-unclog-a-bathtub-drain-with-standing-water/) to activate the bacteria and enzymes' working. Finally, pour your great water drain cleaner mixture directly into the clogged drain.
+Youll require a single teaspoonful of the drain cleaner and dump it into the clogged/) [drain](https://pestpolicy.com/best-drain-snakes/)or piping system. However, mix the [drain cleaner powder with some hot water](https://pestpolicy.com/how-to-unclog-a-bathtub-drain-with-standing-water/)to activate the bacteria and enzymes' working. Finally, pour your great water drain cleaner mixture directly into the clogged drain.
 
 ###  The slower rate of action: 4-6 hours (Overnight is better)
 
@@ -49,7 +49,7 @@ Further, the enzymes do not rely on gravity to act and will thus ill love throug
 
 ##  **Bio-Clean safe for pipes**?
 
-I would say that Bio-clean, as they are just natural bacteria and enzymes, wont generate dangerous gases in their action. Bio-clean digests organic materials without heating or generation poisonous fumes. The [drain cleaner](https://pestpolicy.com/is-drain-cleaner-an-acid-or-base/) wont harm your pipes as it has not contained caustic, acidic, or alkaline formula.
+I would say that Bio-clean, as they are just natural bacteria and enzymes, wont generate dangerous gases in their action. Bio-clean digests organic materials without heating or generation poisonous fumes. The [drain cleaner](https://pestpolicy.com/is-drain-cleaner-an-acid-or-base/)wont harm your pipes as it has not contained caustic, acidic, or alkaline formula.
 
 Further, it wont eat away any live tissue as hence its safe for yourself, your kids, or pets in addition to being eco-friendly.
 

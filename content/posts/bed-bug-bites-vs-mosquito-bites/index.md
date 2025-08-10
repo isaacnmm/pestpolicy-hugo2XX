@@ -69,11 +69,11 @@ Those of us with a strong reaction to it will see the bite take a longer period 
 
 Mosquitoes bite not only humans but also many other animals like birds. Mosquitoes are categorized into different species, and each has their preferences on what to feast on. Some prefer humans over other animals. Contrary to that, bedbugs have a specific diet: human blood. Although bedbugs do feed from other animals in some cases, they stick to humans for most of their lives.
 
-Their preference for human blood has been attributed to the host's convenience, given they cannot [fly nor jump](https://pestpolicy.com/do-bed-bugs-fly/). Also, the human [skin has an easier surface to bite](https://pestpolicy.com/can-bed-bugs-live-in-your-skin/) through compared to that of furrier animals.
+Their preference for human blood has been attributed to the host's convenience, given they cannot [fly nor jump](https://pestpolicy.com/do-bed-bugs-fly/).Also, the human [skin has an easier surface to bite](https://pestpolicy.com/can-bed-bugs-live-in-your-skin/)through compared to that of furrier animals.
 
 ##  **Where are you likely to get Mosquitoes and Bedbugs?**
 
-Both bedbugs and mosquitoes are scattered across the country, depending on the nature of the location. Bedbugs are most common in populated settlements like cities and suburbs. The higher the population, the more the bedbugs. The proximity of households enables the easier [movement of bedbugs](https://pestpolicy.com/do-bed-bugs-jump/) from one house to another.
+Both bedbugs and mosquitoes are scattered across the country, depending on the nature of the location. Bedbugs are most common in populated settlements like cities and suburbs. The higher the population, the more the bedbugs. The proximity of households enables the easier [movement of bedbugs](https://pestpolicy.com/do-bed-bugs-jump/)from one house to another.
 
 Related: Mosquito Traps Mosquitoes, on the other hand, require standing water like ponds and pools to breed.
 
@@ -91,5 +91,5 @@ Therefore, you are more likely to experience mosquito problems if you live near 
 
 ##  Sources:
 
-1. [Bed Bug Bites vs. Mosquito Bites: Telling Them Apart](https://www.healthline. com/health/bed-bug-bites-vs-mosquito-bites) 2. [Bedbug Bites - StatPearls - NCBI Bookshelf](https://www.ncbi. nlm. nih. gov/books/NBK538128/) 3. [Bed Bugs: Clinical Relevance and Control Options - NCBI](https://www.ncbi. nlm. nih. gov/pmc/articles/PMC3255965/)
+1. [Bed Bug Bites vs. Mosquito Bites: Telling Them Apart](https://www.healthline.com/health/bed-bug-bites-vs-mosquito-bites)2. [Bedbug Bites - StatPearls - NCBI Bookshelf](https://www.ncbi.nlm.nih.gov/books/NBK538128/)3. [Bed Bugs: Clinical Relevance and Control Options - NCBI](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3255965/)
 

@@ -69,7 +69,7 @@ Plant a diverse range of flowering plants (especially those with small flowers l
 
 If you detect leaf miner damage, several organic methods can help control the infestation.
 
-1. **Hand-Picking/Squishing: ** * **Method: ** For light infestations, inspect leaves regularly. When you spot a mined tunnel, locate the larva (it will be visible as a darker spot within the white [line](https://pestpolicy.com/best-trimmer-line/)). Simply squish the larva between your fingers or remove the affected portion of the leaf. * **Effectiveness: ** Very effective for small populations and for reducing the immediate threat.
+1. **Hand-Picking/Squishing: ** * **Method: ** For light infestations, inspect leaves regularly. When you spot a mined tunnel, locate the larva (it will be visible as a darker spot within the white [line](https://pestpolicy.com/best-trimmer-line/)).Simply squish the larva between your fingers or remove the affected portion of the leaf. * **Effectiveness: ** Very effective for small populations and for reducing the immediate threat.
 
 Requires vigilance. 2.
 
@@ -101,7 +101,7 @@ Sustainable leaf miner control involves building a healthy ecosystem in your gar
 
 In Kenya, this might be during drier, warmer periods. Adjust your prevention and monitoring efforts accordingly. 4. **Proper Plant Nutrition: ** Avoid over-fertilizing with nitrogen, which can lead to lush, soft growth that is more attractive to pests. A balanced feeding program promotes stronger, more resistant plants.
 
-##  Final Thoughts About [White](https://pestpolicy.com/best-white-paints-for-interior-walls/) Lines on Tomato Plants
+##  Final Thoughts About [White](https://pestpolicy.com/best-white-paints-for-interior-walls/)Lines on Tomato Plants
 
 The appearance of white lines on your tomato plants is a clear indicator of leaf miner activity, but it's usually a manageable problem for the home gardener. By understanding the pest's life cycle and implementing a combination of preventive measures, organic treatments, and long-term garden health strategies, you can minimize damage and ensure your tomato plants remain vigorous and productive.
 

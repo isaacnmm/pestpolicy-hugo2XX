@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 
-There are two main types of [fleas](https://pestpolicy.com/how-to-tell-if-your-cat-has-fleas/) that live on cats and dogs - cat fleas and dog fleas. If you want to know the difference between cat fleas vs dog fleas, read on! - *When our vet informed us that we needed to start treating our dog for cat fleas, I was confused. We don't have a cat and haven't had any in our yard that I know of. * *Let me surprise you!
+There are two main types of [fleas](https://pestpolicy.com/how-to-tell-if-your-cat-has-fleas/)that live on cats and dogs - cat fleas and dog fleas. If you want to know the difference between cat fleas vs dog fleas, read on! - *When our vet informed us that we needed to start treating our dog for cat fleas, I was confused. We don't have a cat and haven't had any in our yard that I know of. * *Let me surprise you!
 
 * - One of the most frequent questions that pet owners ask is this: do cat fleas (*Ctenocephalidesfelis*) exclusively attack cats, while dog fleas (*Ctenocephalides canis*) live only off dogs? **So, how do ** **cat fleas compare to dog fleas? While they're different species (only differentiable under a ** **microscope** **), dog and cat fleas can infest either cats or dogs.
 
@@ -111,9 +111,9 @@ To treat an existing infestation: You will need to;
 
 - You also need to comb your pup twice a day while it's infested so mature insects won't lay new eggs - which could then end up living off of other animals in the house.
 
-- You can also [put your pup in a flea bath](https://pestpolicy.com/best-puppy-shampoo-for-fleas/) that is meant to kill all stages of the life cycle, including eggs!
+- You can also [put your pup in a flea bath](https://pestpolicy.com/best-puppy-shampoo-for-fleas/)that is meant to kill all stages of the life cycle, including eggs!
 
-- If you're concerned about pesticides around kids and pets, try using [natural methods like diatomaceous earth (DE)](https://pestpolicy.com/diatomaceous-earth-for-fleas/), which kills any insects by dehydrating them as they walk over its fine particles.
+- If you're concerned about pesticides around kids and pets, try using [natural methods like diatomaceous earth (DE)](https://pestpolicy.com/diatomaceous-earth-for-fleas/),which kills any insects by dehydrating them as they walk over its fine particles.
 
 - Use flea foggers or bombs to exterminate the whole flea population in the residence.
 

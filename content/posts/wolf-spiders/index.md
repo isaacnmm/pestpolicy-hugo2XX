@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 
-Unlike the Black Widow Spiders, the Wolf Spiders are big hunting spiders that will not require webs to affectively trap their prey. - In the United States, youll find 2 main species of the Wolf Spiders (Lycosidae spp); H. aspersa and the Hogna carolinensis. The Lycosidae family (where the [spider](https://pestpolicy.com/can-you-drown-a-spider/) belongs) are arachnids that have athletic, hairy, and have a large body size.
+Unlike the Black Widow Spiders, the Wolf Spiders are big hunting spiders that will not require webs to affectively trap their prey. - In the United States, youll find 2 main species of the Wolf Spiders (Lycosidae spp); H. aspersa and the Hogna carolinensis. The Lycosidae family (where the [spider](https://pestpolicy.com/can-you-drown-a-spider/)belongs) are arachnids that have athletic, hairy, and have a large body size.
 
 The Lycos bit means "wolf" due to the wolf-like hunting habits but the spiders are solitary animals and thus they hunt alone and not in packs. Related: [How to Control Spiders](https://pestpolicy.com/how-to-get-rid-of-spiders/).
 
@@ -33,13 +33,13 @@ Next, you should check if the end of the spider's legs 3 claws (tarsal claws). -
 
 - The latter (the small tarantula) are classified in the infraorder Mygalomorphae that come with fangs that are vertically-oriented. On comparing the brown recluse with the wolf spiders; the wolf spiders have shorter legs and they lack the marking behind-the-head (violin-shaped) which is characteristic in the brown recluse.
 
-Related: Getting Rid of Brown Recluse Spiders The wolf spiders also have hairs that cover their abdomen - [Kentucky Entomology](https://www.uky. edu/Ag/CritterFiles/casefile/spiders/wolf/wolf. htm). - This feature may make you confuse them with the tarantula but the wolf spiders are smaller in body size.
+Related: Getting Rid of Brown Recluse Spiders The wolf spiders also have hairs that cover their abdomen - [Kentucky Entomology](https://www.uky.edu/Ag/CritterFiles/casefile/spiders/wolf/wolf.htm).- This feature may make you confuse them with the tarantula but the wolf spiders are smaller in body size.
 
 ##  Wolf Spider Behavior
 
 As noted above the wolf spiders are hunting arachnids (theyre great sprinters) and so they won't lay webs to catch their prey. - This is where the wolf spiders derived their name from because they will hunt down their prey. Where can you find the wolf spiders? The habitat of the wolf spiders includes the rainforests, alpine meadows, wetlands, coastal forests, inland shrublands, deserts, and dry or Woodlands.
 
-- But some species of wolf spiders may occupy suburban gardens, riverbank beds, mountains herbal fields, and coastal sand dunes. The [ITIS](https://www.itis. gov/servlet/SingleRpt/SingleRpt? search_topic=TSN&search_value=847731) reports that the wolf spiders (Lycosidae) have about 2400 species that are classified into 123+ genera.
+- But some species of wolf spiders may occupy suburban gardens, riverbank beds, mountains herbal fields, and coastal sand dunes. The [ITIS](https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=847731)reports that the wolf spiders (Lycosidae) have about 2400 species that are classified into 123+ genera.
 
 ##  Wolf Spider Habitat
 
@@ -57,7 +57,7 @@ Wolf spiders can enter your house through breezeways, crawl spaces, and basement
 
 ##  How Dangerous Are The Wolf Spiders
 
-Wolf spiders will only bite humans when mishandled or if they feel threatened. - Arachnids will only socialize during the mating season and thus they will walk as lone wolves. Wolf spiders are venomous but are not classified as poisonous to humans - as reported by [Penn State College](http://ento.psu. edu/extension/factsheets/wolf-spiders).
+Wolf spiders will only bite humans when mishandled or if they feel threatened. - Arachnids will only socialize during the mating season and thus they will walk as lone wolves. Wolf spiders are venomous but are not classified as poisonous to humans - as reported by [Penn State College](http://ento.psu.edu/extension/factsheets/wolf-spiders).
 
 This means that the venom produced by The wolf spiders will paralyze the small and crawling insects but won't be toxic people.
 

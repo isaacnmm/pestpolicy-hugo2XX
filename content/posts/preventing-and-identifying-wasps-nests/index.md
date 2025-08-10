@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 
-Wasps can be a significant nuisance and sometimes pose a danger, especially to those allergic to stings. Preventing and identifying [wasp](https://pestpolicy.com/baby-wasp/) nests early on can save you a lot of trouble and potential harm. Here's a detailed guide on how to do both effectively.
+Wasps can be a significant nuisance and sometimes pose a danger, especially to those allergic to stings. Preventing and identifying [wasp](https://pestpolicy.com/baby-wasp/)nests early on can save you a lot of trouble and potential harm. Here's a detailed guide on how to do both effectively.
 
 ###  Prevention
 
@@ -25,7 +25,7 @@ Wasps can be a significant nuisance and sometimes pose a danger, especially to t
 
 Wasps are particularly attracted to sweet foods, so ensure that these are securely stored. - **Cleanliness**: Maintain a clean environment by wiping down surfaces and cleaning up spills immediately. Wasps are less likely to linger if there are no food residues. 3. **Properly Store Garbage**: - **Sealed Bins**: Use garbage cans with tight-fitting lids. Wasps are attracted to rotting food and sugary residues found in garbage.
 
-- **Regular Disposal**: Dispose of trash regularly to avoid[attracting wasps](https://pestpolicy.com/baby-wasp/). Rinse out any recyclable containers that held food or drinks. 4. **Regular Maintenance**: - **Inspections**: Perform regular checks around your home and property for early signs of wasp activity. The earlier you spot potential nests, the easier it is to deal with them.
+- **Regular Disposal**: Dispose of trash regularly to avoid[attracting wasps](https://pestpolicy.com/baby-wasp/).Rinse out any recyclable containers that held food or drinks. 4. **Regular Maintenance**: - **Inspections**: Perform regular checks around your home and property for early signs of wasp activity. The earlier you spot potential nests, the easier it is to deal with them.
 
 - **Yard Care**: Keep your yard clean and free of debris where wasps might build nests.
 
@@ -49,7 +49,7 @@ These nests can grow quite large.
 
 ###  Dealing with Nests
 
-1. **Early Removal**: - **Small Nests**: If you[catch a nest early](https://pestpolicy.com/difference-between-a-bee-and-a-wasps-nest/), you can often remove it using a stick or a broom. Do this during the early morning or late evening when wasps are less active. - **Timing**: Always attempt nest removal during cooler parts of the day, as wasps are less aggressive and slower in lower temperatures. 2.
+1. **Early Removal**: - **Small Nests**: If you[catch a nest early](https://pestpolicy.com/difference-between-a-bee-and-a-wasps-nest/),you can often remove it using a stick or a broom. Do this during the early morning or late evening when wasps are less active. - **Timing**: Always attempt nest removal during cooler parts of the day, as wasps are less aggressive and slower in lower temperatures. 2.
 
 **Protective Gear**: - **Wear Protection**: When dealing with larger nests, wear protective clothing to prevent stings. This includes long sleeves, gloves, and a hat with a net. - **Emergency Plan**: Have an emergency plan in place in case of multiple stings, especially if you or someone in your household is allergic. 3.
 

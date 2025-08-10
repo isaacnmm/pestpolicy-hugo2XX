@@ -22,9 +22,9 @@ Related: Best Walking Shoes for Lower Back Pain
 
 ##  Review: 7 Best Shoes for High Arches and Standing All Day
 
-###  [1. New Balance Men's 990 V5](https://www.amazon.com/dp/B0797D3GYP/?tag=p-policy-20)- Shoes for High Arches and Standing All Day
+###  [1. New Balance Men's 990 V5](https://www.amazon.com/dp/B0797D3GYP/?tag=p-policy-20)-Shoes for High Arches and Standing All Day
 
-New Balance 990 V5 is a comfortable well-cushioned [shoe](https://pestpolicy.com/best-non-slip-shoes-for-standing-all-day/) thats ideal for all-day wear. It features excellent support technologies that make your days easier.
+New Balance 990 V5 is a comfortable well-cushioned [shoe](https://pestpolicy.com/best-non-slip-shoes-for-standing-all-day/)thats ideal for all-day wear. It features excellent support technologies that make your days easier.
 
 For starters, the midsole features the Encap technology that provides soft cushioning and support to the foot. This technology also provides needed stability and durability for a longer wear experience. To ensure all-day comfort and support for your high arches, the midsole provides a firm, flexible, and supportive structure.
 
@@ -154,7 +154,7 @@ Therefore, you need High arch support footwear that has excellent shock absorpti
 
 ###  Cushioning
 
-Shoes with good cushioning will protect you from hard ground impact. [Shoes for standing all day](https://pestpolicy.com/best-non-slip-shoes-for-standing-all-day/) must have good padding and adaptive cushioning that conforms to the natural contours of the foot. This way, the foot will have more support that will ensure comfort throughout the day.
+Shoes with good cushioning will protect you from hard ground impact. [Shoes for standing all day](https://pestpolicy.com/best-non-slip-shoes-for-standing-all-day/)must have good padding and adaptive cushioning that conforms to the natural contours of the foot. This way, the foot will have more support that will ensure comfort throughout the day.
 
 You can pick shoes with Memory foam cushioning. This component adjusts to the weight, speed, and shape of the feet.
 

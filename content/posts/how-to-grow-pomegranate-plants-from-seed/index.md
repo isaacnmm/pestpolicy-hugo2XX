@@ -17,7 +17,7 @@ layout: post
 
 The pomegranate, with its jewel-toned arils and ancient mystique, is a fruit that evokes images of warmth and abundance. While often associated with arid regions, the pomegranate tree (*Punica granatum*) is surprisingly adaptable and can be a rewarding addition to many gardens, provided the climate is suitable.
 
-Growing a pomegranate from seed is a slow but fascinating journey, offering the satisfaction of nurturing a [plant](https://pestpolicy.com/how-to-landscape-your-yard-with-deer-resistant-plants/) from its very beginning. While fruit production from seed-grown plants can take several years and may not yield fruit identical to the parent, it's an excellent way to grow a unique specimen or simply enjoy the lush foliage and vibrant flowers.
+Growing a pomegranate from seed is a slow but fascinating journey, offering the satisfaction of nurturing a [plant](https://pestpolicy.com/how-to-landscape-your-yard-with-deer-resistant-plants/)from its very beginning. While fruit production from seed-grown plants can take several years and may not yield fruit identical to the parent, it's an excellent way to grow a unique specimen or simply enjoy the lush foliage and vibrant flowers.
 
 This guide will take you through the detailed steps of growing pomegranate plants from seed, from selecting the right seeds to nurturing your young seedlings into robust plants.
 

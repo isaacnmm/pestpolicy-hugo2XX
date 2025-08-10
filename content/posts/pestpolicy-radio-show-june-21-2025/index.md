@@ -27,7 +27,7 @@ You likely have everything you need in your pantry right now!
 2. **Baking Soda Paste for Tough Spots:** * **What you need:** Baking soda, a small bowl, water, a non-abrasive sponge or soft brush. * **Steps:** 1. **Make a Paste:** In the bowl, mix a few tablespoons of baking soda with just enough water to form a thick paste. 2. **Apply to Problem Areas:** Apply the paste directly to particularly stubborn cloudy spots or areas with heavy buildup. 3. **Scrub Gently:** Use your sponge or soft brush to gently scrub the paste onto the glass.
 The mild abrasive quality of baking soda helps lift the grime. 4. **Let it Sit & Rinse:** Let it sit for 5-10 minutes, then rinse thoroughly and squeegee dry.
 3. **Lemon Juice Power (for lighter buildup and fresh scent):** * **What you need:** Fresh lemon juice, spray bottle, non-abrasive sponge, squeegee. * **Steps:** 1. **Spray:** Fill a spray bottle with undiluted lemon juice. 2. **Apply & Sit:** Spray the door and let it sit for 10-15 minutes. 3. **Scrub & Rinse:** Scrub lightly, then rinse and squeegee.
-Lemon juice offers a pleasant citrus scent and is good for [maintenance](https://pestpolicy.com/pestpolicy-radio-show-june-20-2025/) or lighter haziness.
+Lemon juice offers a pleasant citrus scent and is good for [maintenance](https://pestpolicy.com/pestpolicy-radio-show-june-20-2025/)or lighter haziness.
 **Prevention is Key!** Once your shower door is sparkling, keep it that way with these daily habits:
 * **Squeegee After Every Shower:** This is the single most effective prevention method. A quick 30-second swipe after each shower removes most of the water before it can evaporate and leave deposits. * **Daily Shower Spray:** Keep a bottle of daily shower cleaner (many are vinegar-based) inside your shower. Give the door a quick spray after each use. These formulas help break down soap scum and mineral deposits before they harden.
 * **Improve Ventilation:** Run your bathroom exhaust fan during and for at least 15-20 minutes after every shower to reduce humidity levels, which helps surfaces dry faster. * **Use Liquid Soap:** Bar soaps contain talc, which contributes heavily to soap scum. Switching to liquid body wash can significantly reduce buildup.
@@ -74,5 +74,5 @@ Leading brands like Roborock, Ecovacs Deebot, Dreame, and Roomba (with their sel
 
 **(Outro Music: Fades in)**
 
-**Host: ** That wraps up another episode of [PestPolicy](https://pestpolicy.com/pestpolicy-radio-show-podcast-june-10-2025/) Radio! We hope these tips help you achieve a sparkling clean home with less effort. Join us next week for more practical advice and exciting product discoveries. Until then, keep those homes clean and smart!
+**Host: ** That wraps up another episode of [PestPolicy](https://pestpolicy.com/pestpolicy-radio-show-podcast-june-10-2025/)Radio! We hope these tips help you achieve a sparkling clean home with less effort. Join us next week for more practical advice and exciting product discoveries. Until then, keep those homes clean and smart!
 

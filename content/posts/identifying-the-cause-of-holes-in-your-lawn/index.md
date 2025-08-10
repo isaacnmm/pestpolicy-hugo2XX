@@ -18,7 +18,7 @@ layout: post
 
 Discovering unexplained holes in your otherwise pristine lawn can be a frustrating and perplexing experience. These unwelcome divots not only mar the aesthetic appeal of your green space but can also pose tripping hazards or indicate underlying issues that might require immediate attention. The size, shape, and pattern of these holes, along with other tell-tale signs, often provide critical clues about the culprit behind the excavation.
 
-From foraging wildlife to industrious insects and even human activity, a variety of agents can be responsible for digging up your turf. Pinpointing the exact [cause](https://pestpolicy.com/how-to-identify-the-cause-of-brown-spots-in-your-lawn/) is the first and most crucial step toward implementing an effective solution, whether it involves deterring pests, repairing damage, or addressing environmental factors.
+From foraging wildlife to industrious insects and even human activity, a variety of agents can be responsible for digging up your turf. Pinpointing the exact [cause](https://pestpolicy.com/how-to-identify-the-cause-of-brown-spots-in-your-lawn/)is the first and most crucial step toward implementing an effective solution, whether it involves deterring pests, repairing damage, or addressing environmental factors.
 
 This guide will help you become a lawn detective, exploring the common sources of holes in your yard, detailing the characteristics of damage left by various critters, examining non-animal causes, and advising on when it's time to call in the professionals.
 

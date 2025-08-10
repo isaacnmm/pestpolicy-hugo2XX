@@ -40,7 +40,7 @@ Once you've chosen the right time and gathered your tools, you're ready to trim.
 Go slowly to ensure an even cut. You might need to make a couple of passes to get all the old foliage. 5. **Clean Up:** Immediately rake or blow away all the clippings. 6. **Optional: Fertilize and Redefine:** As with manual shearing, consider fertilizing lightly and cleaning up the border edges.
 ---
 
-[Monkey](https://pestpolicy.com/how-and-when-to-trim-a-monkey-grass-border/) grass, a common name for plants like Liriope ([Liriope muscari](https://plants.ces. ncsu. edu/plants/liriope-muscari/)) and Mondo Grass ([Ophiopogon japonicus](https://plants.ces. ncsu. edu/plants/ophiopogon-japonicus/)), is a popular choice for borders, ground cover, and accent planting due to its lush, evergreen foliage and low-maintenance nature.
+[Monkey](https://pestpolicy.com/how-and-when-to-trim-a-monkey-grass-border/)grass, a common name for plants like Liriope ([Liriope muscari](https://plants.ces.ncsu.edu/plants/liriope-muscari/))and Mondo Grass ([Ophiopogon japonicus](https://plants.ces.ncsu.edu/plants/ophiopogon-japonicus/)),is a popular choice for borders, ground cover, and accent planting due to its lush, evergreen foliage and low-maintenance nature.
 
 While these resilient plants require minimal care, proper trimming at the right time is key to keeping them looking their best, promoting healthy new growth, and preventing them from becoming unruly. Trimming removes old, discolored, or damaged foliage, giving the border a fresh, clean appearance and improving air circulation to prevent disease.
 
@@ -62,7 +62,7 @@ Don't let the idea of trimming monkey grass intimidate you. With the right timin
 
 By following these simple steps, your monkey grass will rebound quickly with fresh, vibrant growth, maintaining that neat, healthy border you desire. Remember these quick tips for ongoing success:
 
-* **Always use sharp tools. ** [Sharp blades make clean cuts](https://extension.umd. edu/resource/pruning-trees-and-shrubs) that heal faster and look better. * **Never cut too low. ** Leave at least 2-4 inches of stubble to protect the plant's crown. * **Consider dividing overgrown clumps** during this trimming period. It's an excellent opportunity to [rejuvenate and multiply your plants](https://hort.extension. wisc.
+* **Always use sharp tools. ** [Sharp blades make clean cuts](https://extension.umd.edu/resource/pruning-trees-and-shrubs)that heal faster and look better. * **Never cut too low. ** Leave at least 2-4 inches of stubble to protect the plant's crown. * **Consider dividing overgrown clumps** during this trimming period. It's an excellent opportunity to [rejuvenate and multiply your plants](https://hort.extension.wisc.
 
 edu/articles/dividing-ornamental-grasses/).
 

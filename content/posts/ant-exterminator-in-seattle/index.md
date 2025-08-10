@@ -24,13 +24,13 @@ Seattles unique climate makes it a haven for ants of all kinds. Whether its the 
 
 ###  Signs of an Ant Infestation
 
-Spotting ants crawling around your kitchen isnt just annoyingits a sign of [a bigger problem](https://pestpolicy.com/carpenter-ants-vs-fire-ants/). Heres what to look for: - **Ant Trails**: These little buggers love to march in lines, so if you see them trailing around, you might have an infestation. - **Nesting Sites**: Carpenter ants love wood, so if you spot sawdust or notice wood damage, its time to investigate.
+Spotting ants crawling around your kitchen isnt just annoyingits a sign of [a bigger problem](https://pestpolicy.com/carpenter-ants-vs-fire-ants/).Heres what to look for: - **Ant Trails**: These little buggers love to march in lines, so if you see them trailing around, you might have an infestation. - **Nesting Sites**: Carpenter ants love wood, so if you spot sawdust or notice wood damage, its time to investigate.
 
 - **Food Invaders**: Finding ants in your pantry? Time to call in the pros.
 
 ###  DIY Methods vs. Professional Extermination
 
-Sure, you could try DIY methods, but they often just delay the inevitable. Hiring a professional [exterminator](https://pestpolicy.com/ant-exterminator-in-bellevue/) in Seattle means you get: - **Expert Help**: Pros know their [ants](https://pestpolicy.com/how-much-does-an-ant-exterminator-cost/) and how to get rid of them. - **Long-term Solutions**: They use stuff that really works and keeps ants from coming back.
+Sure, you could try DIY methods, but they often just delay the inevitable. Hiring a professional [exterminator](https://pestpolicy.com/ant-exterminator-in-bellevue/)in Seattle means you get: - **Expert Help**: Pros know their [ants](https://pestpolicy.com/how-much-does-an-ant-exterminator-cost/)and how to get rid of them. - **Long-term Solutions**: They use stuff that really works and keeps ants from coming back.
 
 - **Peace of Mind**: You wont have to worry about ants making a comeback.
 

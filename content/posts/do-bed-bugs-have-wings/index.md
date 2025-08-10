@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 
-Do bed bugs/) have wings? So, what bugs can be mistaken for [bed bugs? ](https://pestpolicy.com/bugs-that-look-like-bed-bugs/) that also have wings. Insects with wings can fly in search of food or escape from their predators or bed bug spray. Pre-historic bed bugs had wings, while current-day ones only possess under-developed wing pads that don't allow bed bugs to fly.
+Do bed bugs/) have wings? So, what bugs can be mistaken for [bed bugs? ](https://pestpolicy.com/bugs-that-look-like-bed-bugs/)that also have wings. Insects with wings can fly in search of food or escape from their predators or bed bug spray. Pre-historic bed bugs had wings, while current-day ones only possess under-developed wing pads that don't allow bed bugs to fly.
 
 Thus, bed bugs can only crawl or climb while moving - they can't jump or fly.
 
@@ -31,9 +31,9 @@ But equally important is that bed bugs, even without flying, will cause massive 
 
 ##  How to IdentifyBed Bugs?
 
-From the onset, [bed bugs](https://wagner.edu/campus-services/operations/bed-bug-policy/) are brownish, tiny ( 1/4 inches) and oval-shaped insects feeding on a cat or dog blood - but also humans' blood. But the adult bed bugs are about the apple seed but a flat body. Following a full blood meal, the adult bed bugs will become reddish in their color and a swollen body. The bugs will be moving quickly around the ceilings, walls, and floors.
+From the onset, [bed bugs](https://wagner.edu/campus-services/operations/bed-bug-policy/)are brownish, tiny ( 1/4 inches) and oval-shaped insects feeding on a cat or dog blood - but also humans' blood. But the adult bed bugs are about the apple seed but a flat body. Following a full blood meal, the adult bed bugs will become reddish in their color and a swollen body. The bugs will be moving quickly around the ceilings, walls, and floors.
 
-https://youtu.be/hW4RTY7k2lw Further, you'll notice females as they'll lay eggs - look anything like dust specks. The eggs are off-white in color, have sticky skin & exist in clusters - can be confused with dandruff. However, the baby or immature bed bugs (1 millimeter) will take a blood meal each time to progress past each of their 4 life stages - as they also shed skin when molting.
+https://youtu.be/hW4RTY7k2lwFurther, you'll notice females as they'll lay eggs - look anything like dust specks. The eggs are off-white in color, have sticky skin & exist in clusters - can be confused with dandruff. However, the baby or immature bed bugs (1 millimeter) will take a blood meal each time to progress past each of their 4 life stages - as they also shed skin when molting.
 
 Notably, with high humidity, bed bugs will develop to full adults within a month and get 3+ generations every year. However, bed bugs don't carry diseases but will cause anemia. Bed bugs have long antennae plus their characteristic six insect legs. These blood-suckers will look swollen after taking a blood meal. So any small bugs that'll be jumping around could be fleas. Bed bugs will be hiding in dark areas like crevices and cracks.
 
@@ -43,13 +43,13 @@ Bed bug bites are very painful but won't cause the spread of any diseases - but 
 
 ###  1. Fleas
 
-Fleas, particularly Ctenocephalides felis, are comparable bed bugs, but they have no wings. Fleas are reddish-brown, with a round head, plus equally long legs. Fleas will also bite humans but are inches in size with a segmented and flattened body. Flea bites are itchy and will carry different [vector diseases](https://www.who. int/news-room/fact-sheets/detail/vector-borne-diseases), particularity from wild animals.
+Fleas, particularly Ctenocephalides felis, are comparable bed bugs, but they have no wings. Fleas are reddish-brown, with a round head, plus equally long legs. Fleas will also bite humans but are inches in size with a segmented and flattened body. Flea bites are itchy and will carry different [vector diseases](https://www.who.int/news-room/fact-sheets/detail/vector-borne-diseases),particularity from wild animals.
 
 ###  2. Bat bugs
 
 Bad bugs are brown-colored insects that are highly comparable to bed bugs - but also have no wings. Also, bat bugs have heads that are covered with long hairs. Nasty bugs are oval-shaped and inches in size, looking like the apple seed. Equally, bat bugs only have wing pads, and hence their "wings" are not functional. [caption id="" align="aligncenter" width="247"]
 
-Image Source: [*Minnesota *University](https://extension.umn. edu/biting-insects-and-insect-relatives/bed-bugs#bat-bugs-and-other-bed-bug-relatives-701110) [/caption] Further, bat bugs don't bite humans, but they do bite on bats. You'll mainly get these bugs on or around the areas that bats live - these include the attic or similar dark areas.
+Image Source: [*Minnesota *University](https://extension.umn.edu/biting-insects-and-insect-relatives/bed-bugs#bat-bugs-and-other-bed-bug-relatives-701110)[/caption] Further, bat bugs don't bite humans, but they do bite on bats. You'll mainly get these bugs on or around the areas that bats live - these include the attic or similar dark areas.
 
 ###  3.Carpet beetles
 
@@ -71,9 +71,9 @@ Bed bugs will move into any house, including those that are super clean. Even th
 
 You may find bed bugs inside public transportation, rental cars, and taxis - in the indoor spaces, you'll find the bugs moving between rooms or attaching to carpets or household objects. - So, bed bugs can't fly - they have no wings. You'll mainly find them on beds, mattresses, and mattress seams but will also be on headboard, bed frame, cracks, and box spring.
 
-- Old or second-hand furniture can also hold bed bugs - particularly on the seams of couches and chairs, curtain folds, and on cushions. - Bed bugs will[feed when they're hungry](http://www2.ca. uky. edu/entomology/entfacts/ef636. asp)as opposed to just eating only at night. Therefore, the[bugs will also bite your skin](https://pestpolicy.com/can-bed-bugs-live-in-your-skin/)during the day when you get near them.
+- Old or second-hand furniture can also hold bed bugs - particularly on the seams of couches and chairs, curtain folds, and on cushions. - Bed bugs will[feed when they're hungry](http://www2.ca.uky.edu/entomology/entfacts/ef636.asp)asopposed to just eating only at night. Therefore, the[bugs will also bite your skin](https://pestpolicy.com/can-bed-bugs-live-in-your-skin/)duringthe day when you get near them.
 
-- As compared to fleas and other similar insects, bed bugs can't jump around the house, andspray won't be enough to kill all the bed bugstages, including eggs, nymphs, and adults. [Can you squish a bed bug](https://pestpolicy.com/what-happens-when-you-squish-a-bed-bug/)? Well, YES, it'll burst, leaving red bloodstains.
+- As compared to fleas and other similar insects, bed bugs can't jump around the house, andspray won't be enough to kill all the bed bugstages, including eggs, nymphs, and adults. [Can you squish a bed bug](https://pestpolicy.com/what-happens-when-you-squish-a-bed-bug/)?Well, YES, it'll burst, leaving red bloodstains.
 
 Bed bugs will move over distances by hitchhiking on human beings, clothing, or send-hand furniture - particularly around mattress or couch seams.
 
@@ -81,5 +81,5 @@ Bed bugs will move over distances by hitchhiking on human beings, clothing, or s
 
 Do bed bugs have wings? No - bed bugs have no wings - but you can identify them with their oval, flat any tiny body measuring about 1/4 inches but have wing pads as opposed to having fully-functional wings. Adult bed bugs can be seen with your naked eyes, but babies and nymphs will mainly exist in clusters - you'll find both on crevices and cracks. Bed bugs measure roughly the size of an apple seed or a pinhead.
 
-However, [bed bug eggs](https://pestpolicy.com/how-to-kill-bed-bug-eggs/) are off-white in color and only exist in clusters.
+However, [bed bug eggs](https://pestpolicy.com/how-to-kill-bed-bug-eggs/)are off-white in color and only exist in clusters.
 

@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 
-[Fleas](https://pestpolicy.com/can-you-use-human-shampoo-on-cats/) are tiny pests that primarily infest dogs and cats, feeding on their blood and causing itching, allergies, and even diseases. But what about humans? **Can we [carry](https://pestpolicy.com/do-squirrels-carry-fleas/) fleas from one house to another? ** The answer is **yes - but its uncommon**. Unlike bed bugs or ticks, fleas dont prefer human hosts.
+[Fleas](https://pestpolicy.com/can-you-use-human-shampoo-on-cats/)are tiny pests that primarily infest dogs and cats, feeding on their blood and causing itching, allergies, and even diseases. But what about humans? **Can we [carry](https://pestpolicy.com/do-squirrels-carry-fleas/)fleas from one house to another? ** The answer is **yes - but its uncommon**. Unlike bed bugs or ticks, fleas dont prefer human hosts.
 
 However, they can **hitchhike on clothing, shoes, or skin**, especially after contact with infested pets or environments. This guide covers:
 
@@ -49,7 +49,7 @@ If you visit a flea-infested home and then go elsewhere, you might unknowingly t
 
 ###  **2. Flea Eggs and Larvae in Personal Belongings**
 
-Flea eggs are smooth and easily dislodged from pet fur, falling onto: - Carpets - [Pet bedding](https://www.ncbi. nlm. nih. gov/pubmed/8057325) - Upholstered furniture These eggs can stick to shoes, bags, or laundry. Unlike adult fleas, eggs dont move, but they can hatch in a new location if transported. Flea larvae, which are slightly mobile, may also crawl into fabrics and hitchhike.
+Flea eggs are smooth and easily dislodged from pet fur, falling onto: - Carpets - [Pet bedding](https://www.ncbi.nlm.nih.gov/pubmed/8057325)- Upholstered furniture These eggs can stick to shoes, bags, or laundry. Unlike adult fleas, eggs dont move, but they can hatch in a new location if transported. Flea larvae, which are slightly mobile, may also crawl into fabrics and hitchhike.
 
 ###  **3. Secondhand Furniture and Rugs**
 

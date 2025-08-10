@@ -26,7 +26,7 @@ The park features open green spaces, well-maintained walking paths, seating area
 
 **Recreation**: The well-paved walking paths are ideal for a stroll or a jog, making it a great place for exercise enthusiasts. 4.
 
-**Accessibility**: Located centrally, the park is easily accessible and serves as a convenient meeting point for residents and[visitors alike](https://pestpolicy.com/[federal-way](https://pestpolicy.com/rhododendron-species-botanical-garden/)/pest-control-in-federal-way/). 5. **Family-Friendly**: The parks open spaces and safe environment make it an excellent destination for families with children.
+**Accessibility**: Located centrally, the park is easily accessible and serves as a convenient meeting point for residents and[visitors alike](https://pestpolicy.com/[federal-way](https://pestpolicy.com/rhododendron-species-botanical-garden/)/pest-control-in-federal-way/).5. **Family-Friendly**: The parks open spaces and safe environment make it an excellent destination for families with children.
 
 ##  Other Parks in Federal Way, WA
 

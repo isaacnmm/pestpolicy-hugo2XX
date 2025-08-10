@@ -31,7 +31,7 @@ A simple wash with mild soap and water (e.g., dish soap) can remove surface dirt
 **Strategic Landscaping:** While not always practical, dense trees or tall shrubs that provide some shade to the gutters can reduce direct UV exposure. However, balance this with the increased debris they might contribute.
 ---
 
-For many homeowners, the sight of a white, chalky residue or dull streaking on their aluminum [gutters](https://pestpolicy.com/all-american-gutters-reviews/) is a familiar, yet often perplexing, issue. This phenomenon is known as **[gutter](https://pestpolicy.com/are-gutters-necessary/) oxidation**, a natural chemical reaction that affects the painted surface of metal gutters, particularly aluminum.
+For many homeowners, the sight of a white, chalky residue or dull streaking on their aluminum [gutters](https://pestpolicy.com/all-american-gutters-reviews/)is a familiar, yet often perplexing, issue. This phenomenon is known as **[gutter](https://pestpolicy.com/are-gutters-necessary/)oxidation**, a natural chemical reaction that affects the painted surface of metal gutters, particularly aluminum.
 
 While not immediately damaging to the gutter's function, it significantly detracts from curb appeal and can make an otherwise well-maintained home look neglected.
 

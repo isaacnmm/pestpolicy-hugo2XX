@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 
-When it comes to professional lawn care, [TruGreen](https://pestpolicy.com/trugreen-lawn-care-reviews/) and [Lawn](https://pestpolicy.com/10-essential-lawn-and-garden-tools-for-fall/) Doctor are two of the most recognized and widely available names in the industry. Both companies offer a comprehensive range of services designed to keep your lawn healthy, green, and free of pests and weeds.
+When it comes to professional lawn care, [TruGreen](https://pestpolicy.com/trugreen-lawn-care-reviews/)and [Lawn](https://pestpolicy.com/10-essential-lawn-and-garden-tools-for-fall/)Doctor are two of the most recognized and widely available names in the industry. Both companies offer a comprehensive range of services designed to keep your lawn healthy, green, and free of pests and weeds.
 
 However, they operate with slightly different models and have distinct reputations among homeowners.
 

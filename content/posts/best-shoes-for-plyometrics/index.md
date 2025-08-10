@@ -26,7 +26,7 @@ Also Read: Best Cross Training Shoes for Bad Knees
 
 ###  [1. Reebok Men's Nano X Cross Trainer Running Shoes](https://www.amazon.com/dp/B07XD777BM/?tag=p-policy-20)
 
-If youre looking for the best cross trainer for Plyometrics pick Reebok Nano X. This [shoe](https://pestpolicy.com/best-shoes-for-beachbody-workouts/) accommodates CrossFit workouts, Plyometrics, boot camps, HIIT classes, and any workout youre thinking of doing.
+If youre looking for the best cross trainer for Plyometrics pick Reebok Nano X. This [shoe](https://pestpolicy.com/best-shoes-for-beachbody-workouts/)accommodates CrossFit workouts, Plyometrics, boot camps, HIIT classes, and any workout youre thinking of doing.
 
 The Nano X offers excellent cushioning thanks to the compressed EVA foam found at the midsole. The EVA form offers protection to feet during plyometrics and other intense movements. The heel section also features a hard EVA compound that holds the back of the foot in place to prevent unnecessary movements of the heel during jump exercises.
 
@@ -46,7 +46,7 @@ Nike Metcon 5 X are the Best Shoes for Plyometrics. They have excellent shock ab
 
 The midsole of Metcon 5 provides needed support for various Plyometrics activities like jumping. The shoe has a drop-in midsole design with a dual-density feature.
 
-The heel section is firm to keep the user grounded when doing heavy lifting or during intense plyos or [lateral movements](https://pestpolicy.com/best-shoes-for-lateral-movement/). The sole is also low to provide close foot ground contact ensuring you remain stable throughout the jump training. The forefoot section is soft and flexible to allow more responsive WOD that incorporates plenty of foot bending.
+The heel section is firm to keep the user grounded when doing heavy lifting or during intense plyos or [lateral movements](https://pestpolicy.com/best-shoes-for-lateral-movement/).The sole is also low to provide close foot ground contact ensuring you remain stable throughout the jump training. The forefoot section is soft and flexible to allow more responsive WOD that incorporates plenty of foot bending.
 
 The 5th Metcon provides you an option to change your heel height, thanks to the Hyperlift insert. The insert has two firm wedges that you attach beneath the drop-in midsole. Usually, most cross-training shoes including the Metcon 5 have a midsole drop of 4mm.
 

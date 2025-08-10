@@ -15,11 +15,11 @@ tags:
 layout: post
 ---
 
-The first question is [borax](https://pestpolicy.com/is-borax-safe-for-cats/) [safe](https://pestpolicy.com/pet-safe-roach-killer/) for dogs? The answer to this question is that it depends on the amount and how often they are exposed. Borax is a chemical compound (Na2B4O7(OH)410H2O) that has multiple uses in industry, but many people use it as a laundry booster or as an insecticide because of its low toxicity to mammals and birds.
+The first question is [borax](https://pestpolicy.com/is-borax-safe-for-cats/)[safe](https://pestpolicy.com/pet-safe-roach-killer/) for dogs? The answer to this question is that it depends on the amount and how often they are exposed. Borax is a chemical compound (Na2B4O7(OH)410H2O) that has multiple uses in industry, but many people use it as a laundry booster or as an insecticide because of its low toxicity to mammals and birds.
 
 **But, just how toxic is borax to dogs?
 
-** - **Dogs are susceptible to borax toxicity at over 0. 02 oz per lb of body weight. It will **[**cause clinical signs**](https://onlinelibrary.wiley. com/doi/book/10. 1002/9780470699010)** like loss of appetite, retching, diarrhea, vomiting, abdominal pain, anemic skin/ gums, shock, and **[**death**](https://jamanetwork.com/journals/jama/article-abstract/274229)**.
+** - **Dogs are susceptible to borax toxicity at over 0. 02 oz per lb of body weight. It will **[**cause clinical signs**](https://onlinelibrary.wiley.com/doi/book/10.1002/9780470699010)**like loss of appetite, retching, diarrhea, vomiting, abdominal pain, anemic skin/ gums, shock, and **[**death**](https://jamanetwork.com/journals/jama/article-abstract/274229)**.
 
 ** - **The dog exposed to borax or boric acid frequently vomits, produces stools with blue-green substance or blood, and becomes lethargic or droopy-eyed. **
 
@@ -27,7 +27,7 @@ The first question is [borax](https://pestpolicy.com/is-borax-safe-for-cats/) [s
 
 Borax is a chemical compound that can be found at many grocery stores. But the real question is how much borax can a small dog eat before being dangerous? Well, for every pound (half a kilogram) of body weight, dogs are only able to tolerate about 0. 25 grams (0. 06 ounces) of borax before it is too much for them and can cause serious health problems such as vomiting or diarrhea.
 
-- Borax is an irritant, so if your dog consumes any borax, they will likely experience some type of irritation in their mouth or stomach. **Oral ingestion of b** **orax**, either as a pesticide or as a cleaner, has been linked to many disorders in dogs including seizures, [kidney failure](https://pets.webmd. com/dogs/kidney-problems-in-dogs), or death when ingested.
+- Borax is an irritant, so if your dog consumes any borax, they will likely experience some type of irritation in their mouth or stomach. **Oral ingestion of b** **orax**, either as a pesticide or as a cleaner, has been linked to many disorders in dogs including seizures, [kidney failure](https://pets.webmd.com/dogs/kidney-problems-in-dogs),or death when ingested.
 
 - When you mix Borax ingredients with others that are also unsafe for your dog, the health consequences can be even worse.
 
@@ -47,9 +47,9 @@ Contact the vet immediately for treatment if you notice such symptoms.
 
 ##  Causes of Dog Borax Poisoning
 
-Boron, a naturally occurring element found in a number of products used around the home can have adverse effects on your canine companion. The causes of borax poisoning include: - Insecticides - Paints - Fungicides - Rodent poisons and repellents - Medicated powders - Skin lotions - Tick and[flea medications](https://pestpolicy.com/is-borax-safe-for-cats/) - Antiseptics, germicides, disinfectants - Detergents.
+Boron, a naturally occurring element found in a number of products used around the home can have adverse effects on your canine companion. The causes of borax poisoning include: - Insecticides - Paints - Fungicides - Rodent poisons and repellents - Medicated powders - Skin lotions - Tick and[flea medications](https://pestpolicy.com/is-borax-safe-for-cats/)- Antiseptics, germicides, disinfectants - Detergents.
 
-- [Laundry products](https://pestpolicy.com/best-drain-cleaner//)(detergent powders) - Shaving cream - Diaper creams Cosmetics such as soaps or lotions with borax in them can also be a cause of poisoning to your dog if they lick the product of their skin.
+- [Laundry products](https://pestpolicy.com/best-drain-cleaner//)(detergentpowders) - Shaving cream - Diaper creams Cosmetics such as soaps or lotions with borax in them can also be a cause of poisoning to your dog if they lick the product of their skin.
 
 ##  Is 20 Mule Team Borax harmful to dogs?
 
@@ -83,7 +83,7 @@ The vet will also monitor hydration levels closely through urine output as well 
 
 Kidney damage from boric acid poisoning is a top concern for vets. The vet may opt to do hemodialysis and dialysis to help remove any boric acid from the kidneys. - Once they have recovered, make sure to keep them away from any borax. - Leaving it in the house will only tempt your dog and could lead to another poisoning event or death.
 
-The vet may also prescribe [medication for boric acid](http://npic.orst. edu/factsheets/archive/borictech. html) depending on how much borax was consumed by the dog.
+The vet may also prescribe [medication for boric acid](http://npic.orst.edu/factsheets/archive/borictech.html)depending on how much borax was consumed by the dog.
 
 ##  Conclusion
 

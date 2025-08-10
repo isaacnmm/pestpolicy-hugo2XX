@@ -14,7 +14,7 @@ tags:
 layout: post
 ---
 
-If you are a regular [paint](https://pestpolicy.com/airless-paint-sprayer-tips/) user, then avoiding paint stain may not be easy. Often, you get paint spots or patches that stain your clothes or garment. Whether its latex or acrylic paint, selecting the wrong cleaning method makes the paint removal process cumbersome.
+If you are a regular [paint](https://pestpolicy.com/airless-paint-sprayer-tips/)user, then avoiding paint stain may not be easy. Often, you get paint spots or patches that stain your clothes or garment. Whether its latex or acrylic paint, selecting the wrong cleaning method makes the paint removal process cumbersome.
 
 *You can remove paint from clothes using rubbing alcohol/isopropyl alcohol, liquid laundry detergent, blot with turpentine, hairspray, Goo Gone, blot with non-acetone nail polish, or washing machine and warm water. * *The application procedure should be adhered to when using each of the stated methods to avoid damaging your clothes.
 
@@ -26,7 +26,7 @@ Further, you can opt for commercially available methods like Goo Gone or home-ba
 
 Rubbing alcohol is a powerful solvent that cleans both latex paint and acrylic paint from clothes. The compound breaks paint molecular structure into a thick viscous liquid, which is fast to clean. Besides, rubbing alcohol wont stain your fabric if you follow the steps provided accordingly. Alternatively, you can use isopropyl alcohol in paint removal.
 
-**Items Required** - Rubbing alcohol or isopropyl alcohol - 5 liters of warm water - Soapy detergent - A sponge or a clean piece of clothing **Procedure to follow** 1. Prepare[Rubbing alcohol or isopropyl alcohol](https://www.amazon. com/dp/B07F3Y188L/? tag=p-policy-20)in the right concentration. 2. Administer drop test experiment on the paint-stained clothe to ascertain the performance 3.
+**Items Required** - Rubbing alcohol or isopropyl alcohol - 5 liters of warm water - Soapy detergent - A sponge or a clean piece of clothing **Procedure to follow** 1. Prepare[Rubbing alcohol or isopropyl alcohol](https://www.amazon.com/dp/B07F3Y188L/?tag=p-policy-20)inthe right concentration. 2. Administer drop test experiment on the paint-stained clothe to ascertain the performance 3.
 
 Spray rubbing alcohol or isopropyl alcohol over paint-stained area gently. 4.
 
@@ -34,15 +34,15 @@ Leave it for 5 to 10 minute to cure 5. Soak the clothe in warm water and clean w
 
 ###  2. Liquid laundry detergent
 
-Liquid laundry detergent can either be commercially acquired or homemade. The liquid such as [Absolutely Clean Laundry](https://www.amazon. com/dp/B07K62ZWJD/? tag=p-policy-20) is manufactured specially to clean both dried and wet paint. The laundry liquid usually acts on contact and breaks the paint molecules into a washable fluid. You can either wash directly with the liquid detergent or spray over the paint-stained area before cleaning.
+Liquid laundry detergent can either be commercially acquired or homemade. The liquid such as [Absolutely Clean Laundry](https://www.amazon.com/dp/B07K62ZWJD/?tag=p-policy-20)is manufactured specially to clean both dried and wet paint. The laundry liquid usually acts on contact and breaks the paint molecules into a washable fluid. You can either wash directly with the liquid detergent or spray over the paint-stained area before cleaning.
 
-Usually, a particular [laundry liquid](https://www.amazon. com/dp/B06XHRRYXL/? tag=p-policy-20) is manufactured for a given type of paint; therefore, it would help if you stick to the manufacturers instruction. **Items Required** - Laundry liquid-like Clean Laundry from amazon - 3 liters of warm, clean water in a bucket - Hand gloves **Procedure to follow** - Add laundry detergent in warm water in a bucket and stir uniformly.
+Usually, a particular [laundry liquid](https://www.amazon.com/dp/B06XHRRYXL/?tag=p-policy-20)is manufactured for a given type of paint; therefore, it would help if you stick to the manufacturers instruction. **Items Required** - Laundry liquid-like Clean Laundry from amazon - 3 liters of warm, clean water in a bucket - Hand gloves **Procedure to follow** - Add laundry detergent in warm water in a bucket and stir uniformly.
 
 - Soak the stained clothe entirely and leave it for 5 minutes - Wash the clothe gently - Rinse with clean water NB: Laundry detergent is best used for both commercial paint removal and spot paint cleaning. Excess laundry detergent may bleach the fabric. > See Also: > Nail Polish Remover Removes Paint?
 
 ###  [3. Blot with Turpentine](https://www.amazon.com/dp/B07DL5GFKW/?tag=p-policy-20)
 
-Turpentine acts instantly on the application and breaks both wet and dried paint without affecting clothe fabric. The solvent is self-activating and penetrates deeper and thus works incredibly for multiple layer clothing during paint removal. However, [turpentine](https://www.amazon. com/dp/B000HFCH1S/? tag=p-policy-20) irritates nasal cavity and skin upon contact you should wear a respirator and hand gloves during paint removal.
+Turpentine acts instantly on the application and breaks both wet and dried paint without affecting clothe fabric. The solvent is self-activating and penetrates deeper and thus works incredibly for multiple layer clothing during paint removal. However, [turpentine](https://www.amazon.com/dp/B000HFCH1S/?tag=p-policy-20)irritates nasal cavity and skin upon contact you should wear a respirator and hand gloves during paint removal.
 
 **Items Required** - 1 liter of turpentine - Soapy detergent - 4 liters of warm water in a bucket - A clean piece of cloth - Scraper **Procedure to follow** - Spray turpentine over the paint-stained clothes - including byswing set stain. - Leave it for 3 to 6 minute to cure - Using a scraper, scrape off the dried paint- where appropriate.
 
@@ -52,7 +52,7 @@ Turpentine acts instantly on the application and breaks both wet and dried paint
 
 Hairspray contains a chemical formulation that breaks down latex and acrylic paint into thick fluid, easier to clean. The structural formula is self-activating and wont stain or bleach the cloth fabric upon contact. Alternatively, you can use sprays that contain isopropyl components in their formulation.
 
-**Items Required** - [Hairspray](https://www.amazon. com/dp/B07NFQTB5G/?
+**Items Required** - [Hairspray](https://www.amazon.com/dp/B07NFQTB5G/?
 
 tag=p-policy-20)from Amazon - 3 liters of warm water - Hand gloves - Soap detergent **Procedure to follow** - Wear hand groves and carry point spray over the paint stain area to ascertain the performance - Gently apply hairspray over the paint-stained area entirely - Leave it for 7 minutes to cure - Soak the stained area with warm water and soap to remove hairspray traces - Rinse with clean water to dryness Hairspray works best for wet and dried latex paint.
 
@@ -90,13 +90,13 @@ You can scrap dried paint off using a blunt knife or scalpel gently to eliminate
 
 ###  2. Vinegar or white spirit
 
-[vinegar](https://pestpolicy.com/does-vinegar-remove-paint/) or white spirit works by breaking the paint molecules into thin viscous liquid upon application. It would help if you diluted vinegar/white spirit to the right concentration before application. Carry out a drop-test experiment before use to ascertain the suitability of the concentration. Otherwise, you may end up bleaching or staining your clothes.
+[vinegar](https://pestpolicy.com/does-vinegar-remove-paint/)or white spirit works by breaking the paint molecules into thin viscous liquid upon application. It would help if you diluted vinegar/white spirit to the right concentration before application. Carry out a drop-test experiment before use to ascertain the suitability of the concentration. Otherwise, you may end up bleaching or staining your clothes.
 
 After a successful paint removal process, clean the clothes with soapy detergent and rinse them with warm water to eliminate traces of vinegar/white spirit from your clothes. NB: Vinegar irritate nasal cavity and skin upon contact you should wear protective gear during application.
 
 ###  3. Dish soap
 
-Dish soap like [Cascade Complete Dishwasher](https://www.amazon. com/dp/B07G28CM6P/? tag=p-policy-20) cleans paints through paint bonds breakdown. Prepare dish soap solution and rub it gently over the paint-stained surface until the paint is fully removed. Then, wash the clothes in warm water before rinsing to dryness. You can mix dish soap in warm water and soak your paint-stained clothes for one hour before cleaning.
+Dish soap like [Cascade Complete Dishwasher](https://www.amazon.com/dp/B07G28CM6P/?tag=p-policy-20)cleans paints through paint bonds breakdown. Prepare dish soap solution and rub it gently over the paint-stained surface until the paint is fully removed. Then, wash the clothes in warm water before rinsing to dryness. You can mix dish soap in warm water and soak your paint-stained clothes for one hour before cleaning.
 
 Notably, carry a drop-test experiment before soaking your clothes to confirm concentration performance.
 

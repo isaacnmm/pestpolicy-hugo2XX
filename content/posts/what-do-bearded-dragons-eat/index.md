@@ -163,5 +163,5 @@ Importantly, do not overfeed your dragon as they end up being docile.
 
 ##  Sources:
 
-1. [Your Weekly How To: How We Care For a Colony of Bearded Dragons](https://vetmed.illinois. edu/wel/your-weekly-how-to-how-we-care-for-a-colony-of-bearded-dragons/)
+1. [Your Weekly How To: How We Care For a Colony of Bearded Dragons](https://vetmed.illinois.edu/wel/your-weekly-how-to-how-we-care-for-a-colony-of-bearded-dragons/)
 

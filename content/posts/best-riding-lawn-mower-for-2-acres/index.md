@@ -14,9 +14,9 @@ tags:
 layout: post
 ---
 
-Are you hunting for the best riding [lawn mower](https://web.extension. illinois. edu/lawntalk/planting/guidelines_for_mowing_lawns. cfm) for 2 acres? Spring is here, and thus its time to get onto your riding tractor, ready to mow your lawn.
+Are you hunting for the best riding [lawn mower](https://web.extension.illinois.edu/lawntalk/planting/guidelines_for_mowing_lawns.cfm)for 2 acres? Spring is here, and thus its time to get onto your riding tractor, ready to mow your lawn.
 
-- A right mower for 2 - 3 Acres would be one that has a 46", 50" or 54" deck size as it will get your mowing done quicker - compared to[[mowers](https://pestpolicy.com/best-riding-lawn-mower-for-hilly-terrain/) for small yards](https://pestpolicy.com/best-riding-lawn-[mower](https://pestpolicy.com/best-riding-lawn-mower-for-rough-terrain/)-for-small-yard/).
+- A right mower for 2 - 3 Acres would be one that has a 46", 50" or 54" deck size as it will get your mowing done quicker - compared to[[mowers](https://pestpolicy.com/best-riding-lawn-mower-for-hilly-terrain/)for small yards](https://pestpolicy.com/best-riding-lawn-[mower](https://pestpolicy.com/best-riding-lawn-mower-for-rough-terrain/)-for-small-yard/).
 
 Thus, tractor *size* and *grade* are the key consideration when selecting your best riding lawn mower for 2 acres. Let's get started!
 
@@ -60,7 +60,7 @@ Cons: - Not suitable for heavy-duty mowing
 
 ###  [3. Husqvarna YTA24V4848-Inch24 HP Lawn Tractor](https://www.amazon.com/dp/B00HRWTGGS/?tag=p-policy-20)
 
-Husqvarna YTA24v48 has a wide (48 inches) cutting deck, making the worker easier & offering a cleaner lawn cut. Also, it has a [hydrostatic](https://en.wikipedia. org/wiki/Hydrostatics) transmission (operated with a pedal) for simple operation. Husqvarna YTA24v48 has both rearward and forward gears thatll allow the rider to easily mow both the rough and hilly terrain.
+Husqvarna YTA24v48 has a wide (48 inches) cutting deck, making the worker easier & offering a cleaner lawn cut. Also, it has a [hydrostatic](https://en.wikipedia.org/wiki/Hydrostatics)transmission (operated with a pedal) for simple operation. Husqvarna YTA24v48 has both rearward and forward gears thatll allow the rider to easily mow both the rough and hilly terrain.
 
 - For wet conditions, youd only require to drop to its lower equipment that enables you to gain wheel traction.
 

@@ -15,9 +15,9 @@ tags:
 layout: post
 ---
 
-How to kill cockroach eggs? [Cockroaches](https://pestpolicy.com/cockroach-eggs/) are common pests in apartment buildings and our homes - you must control the roaches in your apartment. To [get rid of a [cockroach](https://pestpolicy.com/cockroach-vs-palmetto-bug/) infestation](https://pestpolicy.com/how-to-get-rid-of-cockroaches/), you must take care of all stages, including the eggs (you'll notice the roach smell ), nymphs, and adults.
+How to kill cockroach eggs? [Cockroaches](https://pestpolicy.com/cockroach-eggs/)are common pests in apartment buildings and our homes - you must control the roaches in your apartment. To [get rid of a [cockroach](https://pestpolicy.com/cockroach-vs-palmetto-bug/)infestation](https://pestpolicy.com/how-to-get-rid-of-cockroaches/), you must take care of all stages, including the eggs (you'll notice the roach smell ), nymphs, and adults.
 
-- The best way to deal with cockroach egg sacks or[baby roaches](https://pestpolicy.com/what-do-baby-roaches-look-like//)is by using an insect growth regulator (IGR). - IGRs are generally used to prevent hatchlings from reaching adulthood and thus stopping further reproduction. - However, IGRs are also very useful when it comes to killing the cockroach eggs.
+- The best way to deal with cockroach egg sacks or[baby roaches](https://pestpolicy.com/what-do-baby-roaches-look-like//)isby using an insect growth regulator (IGR). - IGRs are generally used to prevent hatchlings from reaching adulthood and thus stopping further reproduction. - However, IGRs are also very useful when it comes to killing the cockroach eggs.
 
 It can be obtained in liquid form, and when sprayed on the eggs, it causes them to become sterile.
 
@@ -25,7 +25,7 @@ When theeggs are killed, you are guaranteedthey wont be another generation of co
 
 ##  How to Kill Cockroach Eggs? Tips To Kill The Eggs
 
-Now that youve identified [cockroach types](https://extension.umn. edu/insects-infest-homes/cockroaches), it is time to destroy the eggs. The best strategy is eradicating them so that there wont be future generations to deal with. Below are the effective methods of destroying cockroach eggs.
+Now that youve identified [cockroach types](https://extension.umn.edu/insects-infest-homes/cockroaches),it is time to destroy the eggs. The best strategy is eradicating them so that there wont be future generations to deal with. Below are the effective methods of destroying cockroach eggs.
 
 ###  1. Crush the Eggs
 

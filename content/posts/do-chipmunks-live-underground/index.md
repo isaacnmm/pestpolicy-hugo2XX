@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 
-[Chipmunks](https://extension.psu. edu/chipmunks) are small animals classified under the squirrel family. They may visit your farm or home in search of food or a place to live. **Chipmunks mostly appear during the day. It is not easier to spot these animals while moving. They run very fast and camouflage well with environment. ** **So, do Chipmunks live underground? The direct answer is YES!
+[Chipmunks](https://extension.psu.edu/chipmunks)are small animals classified under the squirrel family. They may visit your farm or home in search of food or a place to live. **Chipmunks mostly appear during the day. It is not easier to spot these animals while moving. They run very fast and camouflage well with environment. ** **So, do Chipmunks live underground? The direct answer is YES!
 
 Chipmunks dig burrows underground with their paws and create underground rooms for breeding, storage of gathered food and sleeping. **
 
@@ -41,7 +41,7 @@ According to National Geographic, Chipmunks are the smallest members that are as
 
 There are about 25 known species of the Chipmunks family, which mostly live in northern America. However, one species call Siberian Chipmunks has been spotted in other places like Asia and Europe.
 
-These are some species of chipmunks: Eastern [Chipmunk](https://pestpolicy.com/best-chipmunk-repellents/), Yellow-pine Chipmunk, Hopi Chipmunk, Townsends Chipmunk, Least Chipmunk, California Chipmunk and Alpine Chipmunk among others.
+These are some species of chipmunks: Eastern [Chipmunk](https://pestpolicy.com/best-chipmunk-repellents/),Yellow-pine Chipmunk, Hopi Chipmunk, Townsends Chipmunk, Least Chipmunk, California Chipmunk and Alpine Chipmunk among others.
 
 The Specific shelter for a given species of Chipmunk is determined by the environment in which they are located and proximity to the food source. You will find that Alpine Chipmunks dwell in forest and bushes while Hopi Chipmunk live in burrows dug in open field.
 
@@ -57,7 +57,7 @@ Chipmunk dont leave their shelter easily. They communally guard their territory 
 
 ##  **Do Chipmunks Live In Trees?**
 
-Yes! Chipmunks will make their way to [forest, bush or woodland](https://blog.nwf. org/2011/12/not-alvin-and-the-chipmunks-10-facts-about-the-real-rodents/) in search of food and hideouts on attack. Some sources of food for Chipmunk such as nuts, seeds, grass, plant matter or birds egg are found on/in trees/forest.
+Yes! Chipmunks will make their way to [forest, bush or woodland](https://blog.nwf.org/2011/12/not-alvin-and-the-chipmunks-10-facts-about-the-real-rodents/)in search of food and hideouts on attack. Some sources of food for Chipmunk such as nuts, seeds, grass, plant matter or birds egg are found on/in trees/forest.
 
 Chipmunks make nest in bushes or burrow wood to create their shelter in the forest. You may find sizable burrows on stems of large trees, which elongate upward these, may belong to Chipmunks.
 
@@ -65,7 +65,7 @@ It is important to acknowledge that Chipmunk wont hung like bat on trees. Theref
 
 ##  How does a Chipmunk Burrow Look Inside?
 
-When you dig the ground radially with intentions to view the [chipmunks underground shelter](https://www.humanesociety. org/resources/what-do-about-chipmunks), you will see/find a long excavated narrow tunnel of varying width.
+When you dig the ground radially with intentions to view the [chipmunks underground shelter](https://www.humanesociety.org/resources/what-do-about-chipmunks),you will see/find a long excavated narrow tunnel of varying width.
 
 How deep are chipmunk holes? The central part of the burrow is slightly raised to avoid flooding in case water leaks. Moreover, the chamber might be reinforced with grass or leaves to create more warmth for the Chipmunks.
 
@@ -89,7 +89,7 @@ They create various chambers underneath and side pockets for storage, nesting, r
 
 Chipmunks usually block the entrance with soil they dug from inside they dig while throwing soil behind.
 
-To [stop Chipmunks from digging your lawn, garden or field](https://m.wikihow. com/Get-Rid-of-Chipmunks), you can use any of the ways highlighted below. 1. Remove rock piles or woods and trim trees to eliminate Chipmunks hideouts and food sources. 2. Surround your field with plant-free gravels. 3. Set L-shaped footers along your garden, farm or compound to keep of Chipmunks. 4. Have an outdoors cat for rodents. 5.
+To [stop Chipmunks from digging your lawn, garden or field](https://m.wikihow.com/Get-Rid-of-Chipmunks),you can use any of the ways highlighted below. 1. Remove rock piles or woods and trim trees to eliminate Chipmunks hideouts and food sources. 2. Surround your field with plant-free gravels. 3. Set L-shaped footers along your garden, farm or compound to keep of Chipmunks. 4. Have an outdoors cat for rodents. 5.
 
 Spray fields with cloud ammonia keeps of Chipmunks (expensive) 6.
 
@@ -117,5 +117,5 @@ Chipmunks can cause serious damage in your home and need to be controlled using 
 
 ##  Sources
 
-1. [Chipmunk & Ground Squirrel - Wildlife Ecology and Damage](https://extension.psu. edu/chipmunks) 2. [Chipmunks in the Garden - University of Vermont](https://pestpolicy.com/) 3. [Golden-Mantled Ground Squirrel or Chipmunk? - UCCE](http://cecentralsierra.ucanr. edu/files/170223. pdf)
+1. [Chipmunk & Ground Squirrel - Wildlife Ecology and Damage](https://extension.psu.edu/chipmunks)2. [Chipmunks in the Garden - University of Vermont](https://pestpolicy.com/)3. [Golden-Mantled Ground Squirrel or Chipmunk? - UCCE](http://cecentralsierra.ucanr.edu/files/170223.pdf)
 

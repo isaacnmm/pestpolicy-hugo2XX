@@ -14,7 +14,7 @@ tags:
 layout: post
 ---
 
-Cleaning your airless [paint](https://pestpolicy.com/airless-paint-sprayer-tips/) sprayer is a crucial step in ensuring it works properly and lasts longer. Regular maintenance can help prevent clogs and keep the sprayer performing at its best. In this guide, we'll discuss the best cleaning solutions and methods for keeping your airless paint sprayer in top condition.
+Cleaning your airless [paint](https://pestpolicy.com/airless-paint-sprayer-tips/)sprayer is a crucial step in ensuring it works properly and lasts longer. Regular maintenance can help prevent clogs and keep the sprayer performing at its best. In this guide, we'll discuss the best cleaning solutions and methods for keeping your airless paint sprayer in top condition.
 
 ##  Why Cleaning Your Airless Paint Sprayer Is Important
 

@@ -15,11 +15,11 @@ tags:
 layout: post
 ---
 
-Can humans get [ear](https://pestpolicy.com/do-spiders-have-ears/) mites from dogs? [Ear mites](https://vcahospitals.com/know-your-pet/ear-mites-otodectes-in-cats-and-dogs) will cause your dogs to scratch and shake their ears very frequently. They live in their ear canal & cause itchiness, as evidenced by frequent scratching. *The simple answer is YES.
+Can humans get [ear](https://pestpolicy.com/do-spiders-have-ears/)mites from dogs? [Ear mites](https://vcahospitals.com/know-your-pet/ear-mites-otodectes-in-cats-and-dogs)will cause your dogs to scratch and shake their ears very frequently. They live in their ear canal & cause itchiness, as evidenced by frequent scratching. *The simple answer is YES.
 
 These parasites spread rapidly and can be transmitted to humans through physical contact with the affected animal.
 
-It's sporadic for humans to catch ear mites. If they get into your body, they won't survive for long since they are not adapted to live in a human host. * [Demodectic mites and sarcoptic mites](https://www.petmd. com/blogs/fullyvetted/2012/feb/sarcoptic_vs_demodectic_mange-12823) are common mites that can be transmitted from dogs to humans. So, you might be worried about ear mites being transmitted from your dogs to your family.
+It's sporadic for humans to catch ear mites. If they get into your body, they won't survive for long since they are not adapted to live in a human host. * [Demodectic mites and sarcoptic mites](https://www.petmd.com/blogs/fullyvetted/2012/feb/sarcoptic_vs_demodectic_mange-12823)are common mites that can be transmitted from dogs to humans. So, you might be worried about ear mites being transmitted from your dogs to your family.
 
 Related: Medicine for Ear Mites in Cats.
 

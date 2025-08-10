@@ -35,7 +35,7 @@ Pros: - For hands-on control, you'll get the eight faders having LED-ring dials,
 
 Cons: - Costly workstation
 
-https://youtu.be/ELYQKUdIayg Read Also: Laptop for Video Editing
+https://youtu.be/ELYQKUdIaygRead Also: Laptop for Video Editing
 
 ###  [2. Korg Kross 2-61 61-Key Synthesizer Workstation](https://www.amazon.com/dp/B075FB71QM/?tag=p-policy-20)
 

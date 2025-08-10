@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 
-Could you be hearing some indiscernible animal noises/sounds at night in your attic and wonder what it could be? But, how do you tell if it's raccoon's [sound](http://ipm.ucanr. edu/PMG/PESTNOTES/pn74116. html)? **Well, the question at hand is, what sound does a raccoon make? Raccoons produce sounds like ** **churring/purring, barking, chattering, hissing, and growling.
+Could you be hearing some indiscernible animal noises/sounds at night in your attic and wonder what it could be? But, how do you tell if it's raccoon's [sound](http://ipm.ucanr.edu/PMG/PESTNOTES/pn74116.html)?**Well, the question at hand is, what sound does a raccoon make? Raccoons produce sounds like ** **churring/purring, barking, chattering, hissing, and growling.
 
 ** **Raccoons may squeal, screech (like a whistle), snarl, or scream as well.
 

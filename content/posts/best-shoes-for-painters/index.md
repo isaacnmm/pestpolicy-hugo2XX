@@ -29,11 +29,11 @@ Its rubber sole is also effectively shock-absorbing, and hence it increases trac
 
 Pros: - Offers suitable ankle support thanks to the full-grain weather - On flexibility, Carhartt CMF6366 is chemical resistant, slip-resistant, and oil resistant. - You'll love the metal eyelets and clamshell lacing for easy fitting. Also, the insoles (shock-absorbing type) are removable.
 
-- Carhartt CMF6366 uses premium construction, components, and design - which implies that the [shoe](https://pestpolicy.com/best-running-shoes-for-heavy-female-runners/) would work effectively for various tasks. - Its Rugged-Flex technology allows easy stretching and movement. Cons: - Realatively squeaky
+- Carhartt CMF6366 uses premium construction, components, and design - which implies that the [shoe](https://pestpolicy.com/best-running-shoes-for-heavy-female-runners/)would work effectively for various tasks. - Its Rugged-Flex technology allows easy stretching and movement. Cons: - Realatively squeaky
 
 ###  [2. Thorogood American-Heritage 6" Men's Moc Toe Boot](https://www.amazon.com/dp/B001QJ4I5C/?tag=p-policy-20)
 
-Thorogood American-Heritage 6" is a popular [painter](https://pestpolicy.com/best-folding-ladders-for-painters/)'s shoe brand that's fit for your spray-painting job, including those working as contractors, electricians, and carpenters, etc. - they're durable, stylish, and unique.
+Thorogood American-Heritage 6" is a popular [painter](https://pestpolicy.com/best-folding-ladders-for-painters/)'sshoe brand that's fit for your spray-painting job, including those working as contractors, electricians, and carpenters, etc. - they're durable, stylish, and unique.
 
 T he a nkle-length boot is created with top comfort, innovation, and craftsmanship to suit painters plus other workers, including fabricator, assembler, millwright, utility lineman, boilermaker, and ironworker.
 
@@ -85,7 +85,7 @@ The boot has an ergonomic build that allows the painter to have a comfortable an
 
 ##  Conclusion
 
-The shoe's PU Insole offers comfortable, easy-wearing - gives your feet great comfort for long hours. Further, when you're combing [ladders](https://pestpolicy.com/best-ladder-for-painting-2-story-house/) or downstairs - the footwear's steel shank removes excessive pressure. The abrasion-resistant and reinforced rubber toe on the boot make the boots highly durable. You'll love the cement-heel or welt build branded.
+The shoe's PU Insole offers comfortable, easy-wearing - gives your feet great comfort for long hours. Further, when you're combing [ladders](https://pestpolicy.com/best-ladder-for-painting-2-story-house/)or downstairs - the footwear's steel shank removes excessive pressure. The abrasion-resistant and reinforced rubber toe on the boot make the boots highly durable. You'll love the cement-heel or welt build branded.
 
 Goodyear enhances the boot's structural support - with durability and superior traction.
 

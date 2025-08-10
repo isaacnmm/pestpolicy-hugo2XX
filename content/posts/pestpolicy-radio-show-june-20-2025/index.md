@@ -51,7 +51,7 @@ Brands like Moen Flo, Phyn, and LeakSmart are leading the way in this category, 
 
 **(Intro Music: Upbeat, light-hearted jingle)**
 
-**Host: ** Welcome back to [PestPolicy](https://pestpolicy.com/pestpolicy-radio-show-june-21-2025/) [Radio](https://pestpolicy.com/pestpolicy-radio-show-podcast-june-10-2025/), your weekly guide to keeping your home happy, healthy, and pest-free! I'm your host, [Host Name], and today, June 20th, 2025, we're diving into some fascinating home mysteries and practical solutions you can implement right away.
+**Host: ** Welcome back to [PestPolicy](https://pestpolicy.com/pestpolicy-radio-show-june-21-2025/)[Radio](https://pestpolicy.com/pestpolicy-radio-show-podcast-june-10-2025/), your weekly guide to keeping your home happy, healthy, and pest-free! I'm your host, [Host Name], and today, June 20th, 2025, we're diving into some fascinating home mysteries and practical solutions you can implement right away.
 
 From fuzzy toilet mold to rumbling freight trains, we've got you covered.
 

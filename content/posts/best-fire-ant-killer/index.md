@@ -15,15 +15,15 @@ tags:
 layout: post
 ---
 
-[Fire ants](http://entnemdept.ufl. edu/creatures/urban/ants/red_imported_fire_ant. htm) invade homes, cars, and yards - and their painful stings make them a serious problem. Using the wrong treatment can split colonies, spreading the infestation.
+[Fire ants](http://entnemdept.ufl.edu/creatures/urban/ants/red_imported_fire_ant.htm)invade homes, cars, and yards - and their painful stings make them a serious problem. Using the wrong treatment can split colonies, spreading the infestation.
 
-The key? A targeted fire ant killer that eliminates the colony fast. ( *For more ant control tips, see* [**ant killers for yard**](https://pestpolicy.com/[best](https://pestpolicy.com/best-fire-ant-killer-for-lawns/)-ant-killer-for-yard/) ).
+The key? A targeted fire ant killer that eliminates the colony fast. ( *For more ant control tips, see* [**ant killers for yard**](https://pestpolicy.com/[best](https://pestpolicy.com/best-fire-ant-killer-for-lawns/)-ant-killer-for-yard/)).
 
 ##  Top 9 Best Fire Ant Killer
 
 ###  [1. Best for Lawns: Ortho Orthene Fire Ant Killer](https://www.amazon.com/dp/B000A0UCRG/?tag=p-policy-20)
 
-If you love gardening, you probably know how it feels like to see fire [ants](https://pestpolicy.com/best-ant-killer/) ruining the ornamental plants in your garden. S ave yourself and [your garden or yard](https://pestpolicy.com/best-ant-killer-for-yard/) by getting the Ortho Orthene fire ant killer that will not only kill the existing ants but also prevent re-infestation in the future.
+If you love gardening, you probably know how it feels like to see fire [ants](https://pestpolicy.com/best-ant-killer/)ruining the ornamental plants in your garden. S ave yourself and [your garden or yard](https://pestpolicy.com/best-ant-killer-for-yard/)by getting the Ortho Orthene fire ant killer that will not only kill the existing ants but also prevent re-infestation in the future.
 
 This contact killer consists of 50% acephate that only takes a few minutes to treat around 162 ant mounds and has a residual effect that lasts up to 6 months. It is very easy to use for garden owners who just have to pour one tablespoon of Ortho Orthene over the fire ant mound without the need to dissolve it in water. Its deep-reaching formula allows it to reach ants that are packed inside the mound and kills them too.
 

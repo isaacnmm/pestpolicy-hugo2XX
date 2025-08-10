@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 
-Bearded dragons enjoy a diverse and balanced diet that includes leafy greens such as collard greens and cabbage, as well as vegetables like bell peppers, tomatoes, and carrots. However, it is crucial to carefully assess the food you offer to these unique and docile reptiles, as some foods may be unsafe for their consumption. So, mushrooms: [are](https://pestpolicy.com/are-blue-tailed-lizards-poisonous/) they safe for Bearded Dragons?
+Bearded dragons enjoy a diverse and balanced diet that includes leafy greens such as collard greens and cabbage, as well as vegetables like bell peppers, tomatoes, and carrots. However, it is crucial to carefully assess the food you offer to these unique and docile reptiles, as some foods may be unsafe for their consumption. So, mushrooms: [are](https://pestpolicy.com/are-blue-tailed-lizards-poisonous/)they safe for Bearded Dragons?
 
 *In summary, it's generally unsafe to feed mushrooms to bearded dragons - despite these bites having essential nutrients. Although mushrooms have essential nutrients, many varieties, including wild mushrooms, are toxic to reptiles, including bearded dragons.
 
@@ -37,7 +37,7 @@ So, feeding your bearded dragon with mushrooms isnt good for their health. The u
 
 When the amount of phosphorous exceeds calcium, phosphorous reacts with calcium to form calcium phosphate which is difficult to absorb in the gut.
 
-- Further, experts recommend including more foods that have a balanced calcium-to-phosphorus ratio in the[dragon's diet](https://pestpolicy.com/what-do-bearded-dragons-eat/). Some of these foods are vegetables and calcium-dusted insects.
+- Further, experts recommend including more foods that have a balanced calcium-to-phosphorus ratio in the[dragon's diet](https://pestpolicy.com/what-do-bearded-dragons-eat/).Some of these foods are vegetables and calcium-dusted insects.
 
 ###  **2. ****Oxalic Acid in Mushrooms Negatively Affects calcium levels**
 
@@ -101,5 +101,5 @@ If the bearded dragon defecates or vomits after mushroom ingestion, take with yo
 
 ##  **Conclusion**
 
-The high acidity levels and [unbalanced calcium-to-phosphorous ratio](https://www.canr. msu. edu/news/which_pet_is_right_for_me) in mushrooms can lead to deteriorated health in your bearded dragon. In addition, some mushrooms are very poisonous which makes them unfit for bearded dragons.
+The high acidity levels and [unbalanced calcium-to-phosphorous ratio](https://www.canr.msu.edu/news/which_pet_is_right_for_me)in mushrooms can lead to deteriorated health in your bearded dragon. In addition, some mushrooms are very poisonous which makes them unfit for bearded dragons.
 

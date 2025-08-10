@@ -14,9 +14,9 @@ tags:
 layout: post
 ---
 
-Using the best pump [sprayers](https://pestpolicy.com/best-air-compressors-for-spray-painting/) for staining fences will be both less labor- and time-intensive compared to using a roller or brush. But the roller and roller trends push your painting material deeper into the wood.
+Using the best pump [sprayers](https://pestpolicy.com/best-air-compressors-for-spray-painting/)for staining fences will be both less labor- and time-intensive compared to using a roller or brush. But the roller and roller trends push your painting material deeper into the wood.
 
-You should stain or paint your wood fence ( [with exterior decking stain](https://pestpolicy.com/[best](https://pestpolicy.com/best-airless-paint-sprayer/)-stain-for-swing-set/) ) every 2-3 years as the wood will be exposed to many elements - and thus staining or painting will increase its durability. On quantity, you'll require one gallon of stain for painting smaller fences of roughly 175 square feet.
+You should stain or paint your wood fence ( [with exterior decking stain](https://pestpolicy.com/[best](https://pestpolicy.com/best-airless-paint-sprayer/)-stain-for-swing-set/)) every 2-3 years as the wood will be exposed to many elements - and thus staining or painting will increase its durability. On quantity, you'll require one gallon of stain for painting smaller fences of roughly 175 square feet.
 
 But you'll need about 2 to 4 gallons of stain to paint larger fences of a maximum of 700 square feet. But should you pressure wash your fence prior to painting? Well, YES, pressure-wash the fences to remove grime, dust, dirt, and old finish(es) as these may ultimately show through the stained surfaces.
 

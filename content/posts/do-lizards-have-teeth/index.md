@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 
-Probably youve seen a [lizard](https://pestpolicy.com/are-lizards-poisonous/) running around your house or yard. So, youre wondering whether these reptiles can bite you, other humans, in your residence, or even pets.
+Probably youve seen a [lizard](https://pestpolicy.com/are-lizards-poisonous/)running around your house or yard. So, youre wondering whether these reptiles can bite you, other humans, in your residence, or even pets.
 
 Further, how do these lizards even feed with or without teeth? So, do lizards have teeth? - **The short answer is, YES! Lizards have teeth that are well adapted to the type of food they eat. The dentition of lizards varies from one species to another within the taxonomic family where some have pleurodont teeth formation while others have acrodont teeth.
 
@@ -81,13 +81,13 @@ The Iguana lizards are more aggressive as compared to other species since the fe
 
 ##  Do Baby Lizards Have Teeth?
 
-Yes! Young lizards are hatched with [teeth in place for eating](https://pestpolicy.com/what-do-baby-lizards-eat/). As the lizard grows and near maturity, the teeth increase in number. The Pleurodont class of lizards is able to shed off and replace their teeth regularly up to 6 times a year.
+Yes! Young lizards are hatched with [teeth in place for eating](https://pestpolicy.com/what-do-baby-lizards-eat/).As the lizard grows and near maturity, the teeth increase in number. The Pleurodont class of lizards is able to shed off and replace their teeth regularly up to 6 times a year.
 
 Contrary, the acrodont class of lizards do not replace their teeth once they are shed off. - Therefore, special care should be taken (by owners) when handling these species of lizards. - The teeth of baby lizards are adapted to feeding on soft food substances. Though they can grasp, the teeth are usually not strong enough to cause any substantial resistance against their prey. So, most of the young lizards are fed by their mothers.
 
 ##  Can Lizard Bite Human Being?
 
-Lizards, usually, will bite you if they feel threatened or when they are stressed. Some of these bites are not injurious (are harmless) while some [lizards are poisonous](https://pestpolicy.com/are-lizards-poisonous/) and may infect you, your humans, and pets badly.
+Lizards, usually, will bite you if they feel threatened or when they are stressed. Some of these bites are not injurious (are harmless) while some [lizards are poisonous](https://pestpolicy.com/are-lizards-poisonous/)and may infect you, your humans, and pets badly.
 
 Iguanas, Monitor lizards, and Nile monitors are some of the lizards that are rampant in biting when threatened or stressed.
 

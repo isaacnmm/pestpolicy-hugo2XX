@@ -14,7 +14,7 @@ tags:
 layout: post
 ---
 
-What's the best midi [keyboard](https://pestpolicy.com/best-49-key-midi-controller/) for Ableton? You can substitute a whole production team with just. you, an Ableton Live [MIDI](https://pestpolicy.com/best-midi-keyboard-controller/) controller, and your soundcards / audio interfaces.
+What's the best midi [keyboard](https://pestpolicy.com/best-49-key-midi-controller/)for Ableton? You can substitute a whole production team with just. you, an Ableton Live [MIDI](https://pestpolicy.com/best-midi-keyboard-controller/)controller, and your soundcards / audio interfaces.
 
 But, clearly, Ableton live Midi Keyboards are not created equal. Ive reviewed the Best Midi Keyboard for Ableton Live. *Summary: I recommend Akai Professional APC40 MKII or the M-Audio Oxygen 25 MK IV for a seamless workflow with top efficiency and versatility. You can now produce top-quality compositions in addition to reorganizing or remixing your live set. * Related: 7 Free Autotune vst Plugins
 
@@ -56,5 +56,5 @@ Its drum pads, the Novation Impulse 49 has LED backlight with amber, red and gre
 
 ##  Conclusion
 
-With a MIDI controller, you can record the MIDI data into your favorite Digital Audio Workstations (DAWs). Released in the 2000s, [Ableton Live](https://www.ableton. com/en/) (a DAW), serves as the home production suite and works great for live performances. Lets dive right inBut first, here's a MIDI Controller Setup.
+With a MIDI controller, you can record the MIDI data into your favorite Digital Audio Workstations (DAWs). Released in the 2000s, [Ableton Live](https://www.ableton.com/en/)(a DAW), serves as the home production suite and works great for live performances. Lets dive right inBut first, here's a MIDI Controller Setup.
 

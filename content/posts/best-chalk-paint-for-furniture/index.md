@@ -14,7 +14,7 @@ tags:
 layout: post
 ---
 
-With the best [chalk](https://pestpolicy.com/best-chalk-paint-for-kitchen-cabinets/) paint for furniture, it is easy to bring back the aesthetic value of your furniture. These chalk paints can be used on a previously painted surface or that old furniture to restore them.
+With the best [chalk](https://pestpolicy.com/best-chalk-paint-for-kitchen-cabinets/)paint for furniture, it is easy to bring back the aesthetic value of your furniture. These chalk paints can be used on a previously painted surface or that old furniture to restore them.
 
 Identifying these paints in the market could also be a challenge and prior information is very necessary. Different chalk paints come with different features and other than, the nature of your furniture, there is a need to understand these paints' features for better results. See Also: Deck Sealer for Pressure Treated Wood.
 

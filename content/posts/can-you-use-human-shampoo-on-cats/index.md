@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 
-Cats love that clean life, they'll grom their skin regularly removing any dirt, dead skin, or loose fur. But, if you're to clean off piles of mud from the pet, can you use human [shampoo](https://pestpolicy.com/best-puppy-shampoo-for-fleas/) on cats? **Simple answer, NO, don't use human shampoo on cats - human shampoo's pH imbalance makes it aggressive and will make the pet's skin dry out.
+Cats love that clean life, they'll grom their skin regularly removing any dirt, dead skin, or loose fur. But, if you're to clean off piles of mud from the pet, can you use human [shampoo](https://pestpolicy.com/best-puppy-shampoo-for-fleas/)on cats? **Simple answer, NO, don't use human shampoo on cats - human shampoo's pH imbalance makes it aggressive and will make the pet's skin dry out.
 
 ** **Also, human shampoo may cause painful irritation and flakiness on the cat.
 
@@ -27,7 +27,7 @@ Shampoos are designed to be species-specific and thus you must not use human or 
 
 So, if the cat gets itself messed up such as when they knock down that food container, bathe them appropriately to avoid dirtying your laundry or seats.
 
-For a household that has many cats, it's common that they'll take up the work of cleaning each other. An older cat will take up cat grooming - thus need that cat-specific shampoo. If the cat-specific shampoo isn't available, use some gentle dish soap, as opposed to using human shampoo - also check the ingredients in the dish soap - [avoid](https://pestpolicy.com/dawn-dish-soap-for-[fleas](https://pestpolicy.com/can-humans-carry-fleas-from-one-home-to-another/)/) original Dawn.
+For a household that has many cats, it's common that they'll take up the work of cleaning each other. An older cat will take up cat grooming - thus need that cat-specific shampoo. If the cat-specific shampoo isn't available, use some gentle dish soap, as opposed to using human shampoo - also check the ingredients in the dish soap - [avoid](https://pestpolicy.com/dawn-dish-soap-for-[fleas](https://pestpolicy.com/can-humans-carry-fleas-from-one-home-to-another/)/)original Dawn.
 
 Further, don't use dog shampoo to clean your cat as it has harsh chemicals or ingredients that may harm the health of your cat or be toxic to your puppies.
 
@@ -43,7 +43,7 @@ Further, ensure that the cleaning products your use on your cat has a pH that's 
 
 - Cats are known to be allergic to many all-natural ingredients and thus take care when considered such products that are not specially labeled as being cat-safe.
 
-Check the [ASPCA](https://www.aspca. org/) website to know the allergic reaction that the product or ingredient it may cause on your cat or dog - this makes sure the product won't be toxic.
+Check the [ASPCA](https://www.aspca.org/)website to know the allergic reaction that the product or ingredient it may cause on your cat or dog - this makes sure the product won't be toxic.
 
 ##  Human Shampoos Arent Approved for Cats
 

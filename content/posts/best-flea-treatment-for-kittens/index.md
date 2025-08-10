@@ -49,7 +49,7 @@ Capstar comes in two dosages: Cats/kittens weighing from 2 to 25 pounds should b
 
 ##  [4. ZoGuard Plus Flea for Cats/kittens](https://www.amazon.com/dp/B07P9NNK9S/?tag=p-policy-20)
 
-The ZoGuard Plus is an **application type** of kitten [flea treatment](https://pestpolicy.com/[best](https://pestpolicy.com/best-flea-collar-for-dogs/)-flea-treatment-for-puppies/) and protection product that acts on contact. ZoGuard Plus kills all stages of the life cycle of flea i. e. eggs, larvae and adult. It also prevents/inhibits flea re-infestation. ZoGuard Plus is **waterproof.
+The ZoGuard Plus is an **application type** of kitten [flea treatment](https://pestpolicy.com/[best](https://pestpolicy.com/best-flea-collar-for-dogs/)-flea-treatment-for-puppies/)and protection product that acts on contact. ZoGuard Plus kills all stages of the life cycle of flea i. e. eggs, larvae and adult. It also prevents/inhibits flea re-infestation. ZoGuard Plus is **waterproof.
 
 ** The product remains effective even after your kitten is immersed in water/rained or exposed to sunlight.
 
@@ -75,13 +75,13 @@ Related: Dishwasher Detergent to Prevent Etching.
 
 ##  [6. Vet's Best Flea Home Spray for Cats/Kittens](https://www.amazon.com/dp/B07THGTVL4/?tag=p-policy-20)
 
-Have you been looking for a [spray for your kitten flea](https://pestpolicy.com/best-flea-spray-for-home/) treatment and prevention? **Vet's Best Flea** is our top product to go for. - It is non-pollutant during the action and contains certified Natural Oils that leave a pretty scent on your kitten. - Vet's Best Flea is formulated to kill the adult flea, larvae, and eggs instantly on contact.
+Have you been looking for a [spray for your kitten flea](https://pestpolicy.com/best-flea-spray-for-home/)treatment and prevention? **Vet's Best Flea** is our top product to go for. - It is non-pollutant during the action and contains certified Natural Oils that leave a pretty scent on your kitten. - Vet's Best Flea is formulated to kill the adult flea, larvae, and eggs instantly on contact.
 
 Your kitten will enjoy continuous protection without experiencing any irritation.
 
 Vet's Best Flea is suitable for cats/kitten that is aged 12 weeks or more. They should weigh between 2 to 23 pounds. This product also kills tick infestations on your kitten. A package contains two bottles, each 32oz that can be refilled with Vet's Best Flea 96oz for your kitten/cat flea killing. This is easier to use and convenient.
 
-The Classic design of the Vet's Best Flea nozzle [enables you to concentrate the spray](https://pestpolicy.com/best-flea-spray-for-yard/) at a single point on your kitten without spilling over. The non-staining product leads well, thus suitable for other places on your home flea treatment such as coaches, furniture, carpet, crates, and outdoor places. The treatment effect of Vet's Best Flea is long-lasting, even after bathing your kitten.
+The Classic design of the Vet's Best Flea nozzle [enables you to concentrate the spray](https://pestpolicy.com/best-flea-spray-for-yard/)at a single point on your kitten without spilling over. The non-staining product leads well, thus suitable for other places on your home flea treatment such as coaches, furniture, carpet, crates, and outdoor places. The treatment effect of Vet's Best Flea is long-lasting, even after bathing your kitten.
 
 **NB: This product is meant for kitten/cat flea treatment. It should not be used on any other animal/pet. ** The Good: - Nonpollutant - no harmful chemicals and Natural scent contains certified natural oil. - Easier/convenient to use and Efficient Kills the entire flea life cycle. - Long-lasting treatment effect and Suitable for other home flea killing. - Veterinary recommended and Quick-acting kills on contact.
 
@@ -89,7 +89,7 @@ The Bad: - It can only be used for cats/kittens' flea treatment.
 
 ##  [7. Cheristin for Cats/Kittens Topical Flea reatment](https://www.amazon.com/dp/B07R9GNRC2/?tag=p-policy-20)
 
-The Non-greasy, quick-drying, and fragrance-free **Christin** is all you need for your kitten flea treatment at your home. The product is Kills through contact. - On a single application, Cheristin is activated for killing in 30 minutes ([fast-acting](https://pestpolicy.com/what-do-baby-roaches-look-like//)) and kills 98 to 100% of flea infestation on your kitten within 12 hours.
+The Non-greasy, quick-drying, and fragrance-free **Christin** is all you need for your kitten flea treatment at your home. The product is Kills through contact. - On a single application, Cheristin is activated for killing in 30 minutes ([fast-acting](https://pestpolicy.com/what-do-baby-roaches-look-like//))and kills 98 to 100% of flea infestation on your kitten within 12 hours.
 
 - Cheristin has a perfectly designed nozzle (rounded) that enables your carry-out point application during use.
 

@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 
-Bedbugs are hard to control but their bites could also trigger allergic reactions, cause itching, and are painful. - Bed bugs[look like many other insects](https://pestpolicy.com/bugs-that-look-like-[bed-bugs](https://pestpolicy.com/bed-bug-bites-vs-mosquito-bites/)/)but they will mainly hide inside mattresses, baseboards, upholstered furniture, headboard, walls, and furniture. Is it a [bed](https://pestpolicy.com/bed-bug-bully-review/) bug that is biting you?
+Bedbugs are hard to control but their bites could also trigger allergic reactions, cause itching, and are painful. - Bed bugs[look like many other insects](https://pestpolicy.com/bugs-that-look-like-[bed-bugs](https://pestpolicy.com/bed-bug-bites-vs-mosquito-bites/)/)butthey will mainly hide inside mattresses, baseboards, upholstered furniture, headboard, walls, and furniture. Is it a [bed](https://pestpolicy.com/bed-bug-bully-review/)bug that is biting you?
 
 Well, in this article, I will teach you how you can differentiate between bed bug bites and other bites. Lets dive in. Most humans will get terrified when bed bugs crawl into their bed or house. Bed bugs are nocturnal insects that will bite on animals and humans (while they sleep) to suck blood. - If your skin has some small red dots, you may be confused whether they are from bed bugs or any other biting or stinging insects.
 
@@ -29,11 +29,11 @@ The bed bug sucks a fill of the human blood (before going into hiding for a numb
 
 ##  1. Bed Bug Bites Versus Flea Bites
 
-a. Bite Locati **on** It's important to know where specific pests will bite a human being. - For example, if you know that the b of a specific pest tends to be concentrated in a certain area, itll be easy to identify the pest. Fleas will mainly target humans on the lower extremities [such as the legs](https://edis.ifas. ufl. edu/mg343) when bed bugs will bite your upper torso. But why?
+a. Bite Locati **on** It's important to know where specific pests will bite a human being. - For example, if you know that the b of a specific pest tends to be concentrated in a certain area, itll be easy to identify the pest. Fleas will mainly target humans on the lower extremities [such as the legs](https://edis.ifas.ufl.edu/mg343)when bed bugs will bite your upper torso. But why?
 
 Well, bed bugs will mainly hide or nest in the bedding such as mattresses and sheets.
 
-- They will mainly move towards the head of your bed and thus they will bite your arms and upper torso - but you can use a[mattress Encasement](https://pestpolicy.com/best-bed-bug-mattress-encasements/). On the other hand, fleas will mainly bite humans on the lower body such as the legs. - This is because fleas do not fly but leap over small heights - about 13 inches.
+- They will mainly move towards the head of your bed and thus they will bite your arms and upper torso - but you can use a[mattress Encasement](https://pestpolicy.com/best-bed-bug-mattress-encasements/).On the other hand, fleas will mainly bite humans on the lower body such as the legs. - This is because fleas do not fly but leap over small heights - about 13 inches.
 
 Also, fleas do not target people but will buy them when their preferred host (cats and dogs) is not available.
 

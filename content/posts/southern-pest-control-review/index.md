@@ -14,7 +14,7 @@ tags:
 layout: post
 ---
 
-Southern Pest [Control](https://pestpolicy.com/american-pest-review/) is a [[pest](https://pestpolicy.com/pest-control-near-me/) control company](https://pestpolicy.com/pest-control-near-me/) offering bug management in residential locations, especially in the areas of Texas, Georgia, Tennessee, Maryland, and Virginia.
+Southern Pest [Control](https://pestpolicy.com/american-pest-review/)is a [[pest](https://pestpolicy.com/pest-control-near-me/)control company](https://pestpolicy.com/pest-control-near-me/)offering bug management in residential locations, especially in the areas of Texas, Georgia, Tennessee, Maryland, and Virginia.
 
 - The service prides itself in offering pest control to more than 30, 000 homeowners annually - covering a number of pests including termites.
 

@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 
-A wasp infestation could be such frustration in your place, especially if no lasting solution is put into place - try the best wasp fogger. Foggers are commercial [wasp](https://pestpolicy.com/best-wasp-spray/) killers that not only eliminate the infestation but also inhibit future infestation.
+A wasp infestation could be such frustration in your place, especially if no lasting solution is put into place - try the best wasp fogger. Foggers are commercial [wasp](https://pestpolicy.com/best-wasp-spray/)killers that not only eliminate the infestation but also inhibit future infestation.
 
 - When choosing a wasp fogger, consider factors such as the quantity, chemical formulation, area covered, environmental implications, and extent of activeness.
 

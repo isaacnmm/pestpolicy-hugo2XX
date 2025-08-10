@@ -18,7 +18,7 @@ layout: post
 
 Weeds are the bane of any gardener or homeowner striving for a pristine lawn or a thriving garden bed. These opportunistic plants seemingly appear out of nowhere, competing with your desired vegetation for precious resources like water, nutrients, and sunlight.
 
-While simply pulling off the top of a [weed](https://pestpolicy.com/applying-weed-and-feed-products-to-st-augustine-grass/) might offer temporary visual relief, it often leads to frustrating regrowth, as the plant's robust root system remains intact, ready to spring back to life.
+While simply pulling off the top of a [weed](https://pestpolicy.com/applying-weed-and-feed-products-to-st-augustine-grass/)might offer temporary visual relief, it often leads to frustrating regrowth, as the plant's robust root system remains intact, ready to spring back to life.
 
 The secret to truly winning the war on weeds lies in eliminating them at their source: the root. By destroying the entire plant, including its underground network, you prevent regrowth, reduce future weed populations, and ensure your desirable plants can flourish without competition.
 
@@ -154,7 +154,7 @@ This encourages deep grass roots that outcompete shallow-rooted weeds for water.
 
 4. **Edge Lawn and Garden Beds: ** * Install physical barriers like plastic, metal, or stone edging between your lawn and garden beds. This helps prevent invasive weeds (like quackgrass or Bermuda grass) from spreading from one area to another via their root systems (rhizomes and stolons).
 
-5. **Clean Tools and Equipment: ** * Before moving from a weedy area to a clean one, clean your [gardening](https://pestpolicy.com/august-lawn-and-garden-to-do-list/) tools, mower deck, and even shoes. Weed seeds can easily hitch a ride and be inadvertently spread to pristine areas.
+5. **Clean Tools and Equipment: ** * Before moving from a weedy area to a clean one, clean your [gardening](https://pestpolicy.com/august-lawn-and-garden-to-do-list/)tools, mower deck, and even shoes. Weed seeds can easily hitch a ride and be inadvertently spread to pristine areas.
 
 6. **Control Weeds Before They Seed: ** * If a weed does pop up, remove it immediately before it has a chance to flower and produce seeds. A single weed can generate thousands of seeds, perpetuating the problem for years.
 

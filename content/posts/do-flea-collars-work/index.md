@@ -25,7 +25,7 @@ Flea collars offer 24/7 protection against fleas on your pets, including cats an
 
 ###  1.**Gas based Fleas [collar](https://pestpolicy.com/best-flea-collar-for-cats/)**
 
-These emit some toxic gases to repel or kill the [fleas](https://pestpolicy.com/at-what-temperature-do-fleas-die/). The gas-based toxins will kill fleas and [flea eggs](https://pestpolicy.com/what-do-flea-eggs-look-like/) on contact when they come around the collar. The emitted gas won't be absorbed by the pets but will instantly kill the fleas that come into contact.
+These emit some toxic gases to repel or kill the [fleas](https://pestpolicy.com/at-what-temperature-do-fleas-die/).The gas-based toxins will kill fleas and [flea eggs](https://pestpolicy.com/what-do-flea-eggs-look-like/)on contact when they come around the collar. The emitted gas won't be absorbed by the pets but will instantly kill the fleas that come into contact.
 
 Luckily, the gas isn't absorbed into the pet's skin and thus not toxic to the - cats or dogs.
 
@@ -89,7 +89,7 @@ Some fleas collars are even custom-fit, and hence it'll be easy and quick to fit
 
 ##  How Long Does It Take a Flea Collar to Work?
 
-Most flea collars (particularly the chemical brands) begin killing fleas in 24 hours, and you may notice a decline of fleas in 3 to 4 weeks. However, the residue effect of the collars may last for 5-12 months. But natural fleas collars require more time to show reliable flea control results. However, as you use the collars consider the [mild reported risk of flea collars](https://cen.acs. org/articles/95/i2/EPA-finds-risks-flea-collar. html).
+Most flea collars (particularly the chemical brands) begin killing fleas in 24 hours, and you may notice a decline of fleas in 3 to 4 weeks. However, the residue effect of the collars may last for 5-12 months. But natural fleas collars require more time to show reliable flea control results. However, as you use the collars consider the [mild reported risk of flea collars](https://cen.acs.org/articles/95/i2/EPA-finds-risks-flea-collar.html).
 
 The fleas collars' time of action mainly depends on factors such as the pet's condition, flea infestation stages, hygiene, fleas collar type and manufacturer, and the active ingredients used, including tetrachlorvinphos, imidacloprid, and flumethrin.
 

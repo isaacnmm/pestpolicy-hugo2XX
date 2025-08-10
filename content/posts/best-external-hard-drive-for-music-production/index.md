@@ -34,9 +34,9 @@ You'll get a sweet app collection including Z-way, Transmission, Joomla, Mule, D
 
 WD 8TB EX2 Ultra has Logitech media and DLNA servers for effective streaming - you may also download the Plex server.
 
-It's a great HDD for music storage and streaming for multiple users. Pros: - The WD My Cloud provides large storage capacity, and it's easier to share music files. - Smart hybrid external HDD that includes services such as[Dropbox](https://www.dropbox. com/), Google Drive, Joomla, Mule, and IceCast for cloud storage features.
+It's a great HDD for music storage and streaming for multiple users. Pros: - The WD My Cloud provides large storage capacity, and it's easier to share music files. - Smart hybrid external HDD that includes services such as[Dropbox](https://www.dropbox.com/),Google Drive, Joomla, Mule, and IceCast for cloud storage features.
 
-- The DLNA support HDD is also browser-based, allowing remote access to the drive using tablets, [music production [laptops](https://pestpolicy.com/best-fogger-for-spiders/)](https://pestpolicy.com/best-laptop-for-music-production/), and smartphones. - Add extra storage with the USB 3. 0 port or even back up the data and music files on Mac or windows.
+- The DLNA support HDD is also browser-based, allowing remote access to the drive using tablets, [music production laptops](https://pestpolicy.com/best-laptop-for-music-production/),and smartphones. - Add extra storage with the USB 3. 0 port or even back up the data and music files on Mac or windows.
 
 Cons: - None
 

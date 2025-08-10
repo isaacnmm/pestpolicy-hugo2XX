@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 
-Most people use enamel [paint](https://pestpolicy.com/airless-paint-sprayer-tips/) wrongly over unappropriated surfaces and end up attaining poor results or low-quality paint finish. Maybe you could be facing similar challenges. So, can [enamel](https://pestpolicy.com/how-to-thin-enamel-paint/) paint be used over every surface?
+Most people use enamel [paint](https://pestpolicy.com/airless-paint-sprayer-tips/)wrongly over unappropriated surfaces and end up attaining poor results or low-quality paint finish. Maybe you could be facing similar challenges. So, can [enamel](https://pestpolicy.com/how-to-thin-enamel-paint/)paint be used over every surface?
 
 - **Summary: ***Enamel paint (water- and oil-based) has a glossy and opaque finish - it's long-lasting and strong - mainly used in painting metal surfaces and indoors.
 
@@ -107,7 +107,7 @@ Ceramics painted using enamel paint have a longer service life and better streng
 
 ####  **e. Glass**
 
-Glass panes can be coated using enamel paint sufficiently. The paint sticks on the glass surface excellently and dries without forming drains or surface runs. The paint coat formed on glass material is opaque and [resistant to peeling and fading](https://pestpolicy.com/mildew-resistant-paints/). Notably, enamel painted glass is more comfortable to clean/remove.
+Glass panes can be coated using enamel paint sufficiently. The paint sticks on the glass surface excellently and dries without forming drains or surface runs. The paint coat formed on glass material is opaque and [resistant to peeling and fading](https://pestpolicy.com/mildew-resistant-paints/).Notably, enamel painted glass is more comfortable to clean/remove.
 
 ##  Advantages and Disadvantages of Using Enamel Paint?
 

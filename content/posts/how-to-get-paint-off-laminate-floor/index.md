@@ -14,7 +14,7 @@ tags:
 layout: post
 ---
 
-Staining the floor is standard when carrying out [paint](https://pestpolicy.com/airless-paint-sprayer-tips/) restoration, either indoors or outdoors. Usually, you will require to clean/remove the paint or playset stain - wet or dry, to improve the finish outlook impression.
+Staining the floor is standard when carrying out [paint](https://pestpolicy.com/airless-paint-sprayer-tips/)restoration, either indoors or outdoors. Usually, you will require to clean/remove the paint or playset stain - wet or dry, to improve the finish outlook impression.
 
 The paint removal process may not be easy at times, mostly when you use the wrong method. Laminate floors are even cumbersome to get paint off without damaging surface material. *Here's how to get paint off the laminate floor - use rubbing alcohol/isopropyl alcohol, commercial paint remover like Goof Off, paint stripper, acetone/nail polish, paint thinner like turpentine, or scrap it off.
 
@@ -36,7 +36,7 @@ Wipe the floor to dryness with clean water Isopropyl alcohol breaks down the pai
 
 ###  b. Commercial Paint Removers  Goof Off
 
-Required Items - Commercial paint remover Goof Off from Amazon - A vacuum cleaner and a paintbrush - Soapy detergent and a piece of cloth - [Scrapper](https://www.amazon. com/dp/B07XVBW45J/? tag=p-policy-20)and an empty bucket - Clean, warm water and protective gear Steps to Follow 1. Wear protective equipment (eye protection, gloves, respirator, and dust coat) 2. Gently vacuum the stained surface area to remove dust particles 3.
+Required Items - Commercial paint remover Goof Off from Amazon - A vacuum cleaner and a paintbrush - Soapy detergent and a piece of cloth - [Scrapper](https://www.amazon.com/dp/B07XVBW45J/?tag=p-policy-20)andan empty bucket - Clean, warm water and protective gear Steps to Follow 1. Wear protective equipment (eye protection, gloves, respirator, and dust coat) 2. Gently vacuum the stained surface area to remove dust particles 3.
 
 Prepare the commercial stain remover (goof off) as instructed by the manufacturer 4. Carry out a drop test experiment over the stained surface to approve efficiency of stain removal 5. Using a paintbrush, apply the solvent over the stained surface and leave it for 5-10 minutes or otherwise advised by the manufacturer. Alternatively, you can spray the paint-stained surface if the solvent is in a spray can 6.
 

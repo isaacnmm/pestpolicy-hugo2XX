@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 
-Can [bearded dragons](http://avianexotichospital.com/bearded-[dragon](https://pestpolicy.com/can-bearded-dragons-eat-apples/). html) eat carrots? You know that bearded dragons love eating a variety of vegetables. Vegetables are a good source of minerals, vitamins, and water. So, we recently analyzed this - what do bearded dragons eat? But, can bearded dragons eat carrots? **Short answer is YES Bearded dragons love eating carrots.
+Can [bearded dragons](http://avianexotichospital.com/bearded-[dragon](https://pestpolicy.com/can-bearded-dragons-eat-apples/).html) eat carrots? You know that bearded dragons love eating a variety of vegetables. Vegetables are a good source of minerals, vitamins, and water. So, we recently analyzed this - what do bearded dragons eat? But, can bearded dragons eat carrots? **Short answer is YES Bearded dragons love eating carrots.
 
 Carrots are rich in Beta-carotene and vitamin A which are essential requirements in a bearded dragons diet. However, carrots should be avoided if the bearded dragon is presently on vitamin A supplements. ** Thats because feeding the bearded dragon on carrots while it is receiving vitamin A supplements might lead excess vitamin A. This condition is known as vitamin A toxicity or hypervitaminosis A.
 
@@ -25,7 +25,7 @@ Bearded dragons will generously eat carrots! With carrots, you have a good chanc
 
 ###  **1. ****Contains Vitamin A**
 
-Vitamin A is an essential requirement in a bearded dragons diet. Bearded dragons get vitamin A either from plants such as carrots or it can be administered as vitamin A supplements. Read also; [Can Bearded Dragons Eat Cabbage? ](https://pestpolicy.com/can-bearded-dragons-eat-cabbage/) Giving vitamin A to your bearded dragon comes with three benefits. The main importance of vitamin A in a beardies body is vision.
+Vitamin A is an essential requirement in a bearded dragons diet. Bearded dragons get vitamin A either from plants such as carrots or it can be administered as vitamin A supplements. Read also; [Can Bearded Dragons Eat Cabbage? ](https://pestpolicy.com/can-bearded-dragons-eat-cabbage/)Giving vitamin A to your bearded dragon comes with three benefits. The main importance of vitamin A in a beardies body is vision.
 
 Just like in humans, carrots help in maintaining eye health since they contain a lot of vitamin A. A deficiency in vitamin A can adversely affect the beardies eye sight. Thats why swollen eyes are the first symptoms of vitamin A deficiency in a bearded dragon. Vitamin A also plays an important role in bone development, skin health, protein synthesis and reproductive health.
 
@@ -45,7 +45,7 @@ The fiber content in carrots plays a big role in digestion. Without fiber, the o
 
 ##  **Can Bearded Dragons Eat Carrot Leaves/Tops?**
 
-You might already be feeding your bearded dragon on greens such as kale, cucumber, celery leaves, Swiss chard and so on. But are carrot leaves also good for them? Read also; [Can Bearded Dragons Eat Bananas? ](https://pestpolicy.com/can-bearded-dragons-eat-bananas/) Well, bearded dragons cant resist the luring scent from the carrot tops. However, these greens will do more harm than good to your pet beardie.
+You might already be feeding your bearded dragon on greens such as kale, cucumber, celery leaves, Swiss chard and so on. But are carrot leaves also good for them? Read also; [Can Bearded Dragons Eat Bananas? ](https://pestpolicy.com/can-bearded-dragons-eat-bananas/)Well, bearded dragons cant resist the luring scent from the carrot tops. However, these greens will do more harm than good to your pet beardie.
 
 They contain high levels of oxalates which are harmful to bearded dragons and other reptiles when consumed in excess. Oxalates are associated with calcium binding in the body. With little calcium in the body, a lot of oxalates reach the kidneys which may eventually lead to kidney stones. Therefore, although your beardie can eat carrot tops, you should give very small amounts and on very rare cases. Give carrot tops as occasional treats.
 
@@ -59,7 +59,7 @@ Bearded dragons require a host of other nutrients which are absent in carrots. I
 
 ##  **How to Prepare Carrots for Your Bearded Dragon**
 
-Now its time to feed your bearded dragon with carrots. Below is a step by step guide for preparing a carrot meal for your pet: Read also; [Can Bearded Dragons Eat Grapes? ](https://pestpolicy.com/can-bearded-dragons-eat-grapes/) 1. Wash the carrots with clean water and peel using a kitchen knife or a mini peeler. Dont give the peels to your beardie because they might contain pesticides. 2.
+Now its time to feed your bearded dragon with carrots. Below is a step by step guide for preparing a carrot meal for your pet: Read also; [Can Bearded Dragons Eat Grapes? ](https://pestpolicy.com/can-bearded-dragons-eat-grapes/)1. Wash the carrots with clean water and peel using a kitchen knife or a mini peeler. Dont give the peels to your beardie because they might contain pesticides. 2.
 
 Chop the carrots into very small pieces because large pieces prove difficult for the bearded dragon to bite and chew. Alternatively, you can shred the carrots to make it even easier for your beardie to chew. Shredded carrots are even better for baby bearded dragons. 3. Place the chopped or shredded carrots in a dish and put it in the beardies terrarium. Bearded dragons love the sweetness in carrots.
 

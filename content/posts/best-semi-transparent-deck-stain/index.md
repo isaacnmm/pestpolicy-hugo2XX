@@ -16,7 +16,7 @@ layout: post
 
 By reading this feature on the best semi-transparent deck stain, youll learn my recommended paints to maintain your wooden decks natural impression and original color-a-deck-with-peeling-paint/) the result will be a great looking DIY project.
 
-The critical considerations for choosing your deck stain are; the type of wood deck, the application method, the surface area to be covered, durability, type of stain (is it oil-based or water-based? ), surface texture, safety, and the intended final outlook. Further, the stain must have long-lasting results [(protect the wood](https://www.wikihow. com/Waterproof-Wood) ), fast drying times, and be easy to apply.
+The critical considerations for choosing your deck stain are; the type of wood deck, the application method, the surface area to be covered, durability, type of stain (is it oil-based or water-based? ), surface texture, safety, and the intended final outlook. Further, the stain must have long-lasting results [(protect the wood](https://www.wikihow.com/Waterproof-Wood)), fast drying times, and be easy to apply.
 
 Finally, purchase a waterproof deck stain within your budget plan without overlooking the net weight per package. > See Also: > Staining a Deck for the First Time
 
@@ -42,7 +42,7 @@ Cons: - There are complain of over-saturation in heavy rain areas. - Its not sui
 
 Defy Extreme is manufactured using the state technology that protects your wooden deck from UV-rays and fading common with the stain I the market.
 
-The water-based formula that comes with Defy allows a simple dilution procedure when painting without much hassle. The included [zinc nano-particles](https://en.wikipedia. org/wiki/Zinc_oxide_nanoparticle) makes this Defy Extreme highly durable. Indeed, you will love optional, semi-transparent colors (selectable) that comes with Defty.
+The water-based formula that comes with Defy allows a simple dilution procedure when painting without much hassle. The included [zinc nano-particles](https://en.wikipedia.org/wiki/Zinc_oxide_nanoparticle)makes this Defy Extreme highly durable. Indeed, you will love optional, semi-transparent colors (selectable) that comes with Defty.
 
 The low VOC reduces environmental pollution while the nano-particles that are integrated protect your deck from graying.
 
@@ -96,7 +96,7 @@ Ready Seal is a biodegradable wood stain that features simple chemical formula, 
 
 The high penetrative properties of Ready Seal guarantees perfect final finish and smooth surface lining without leaving streaks during the application process. Moreover, Ready Seal is waterproof and comes with a simple dilution formula that is easier to apply using a roller/paintbrush. Your deck surface is protected from UV rays and mold regeneration by selecting Ready Seal as your number one wood stain it is mold and UV rays resistant.
 
-The [low VOC compound](https://pestpolicy.com/best-baby-safe-paint-for-crib/) is integrated with natural grains that improve surface streakiness and eliminate runs/laps when painting. There is no sanding or polishing required when using Ready Seal for your deck painting activities. You will easily clean the stain (by using soap and water) and eliminate drains without much hassle the stain merges to form a uniform layer during drain elimination.
+The [low VOC compound](https://pestpolicy.com/best-baby-safe-paint-for-crib/)is integrated with natural grains that improve surface streakiness and eliminate runs/laps when painting. There is no sanding or polishing required when using Ready Seal for your deck painting activities. You will easily clean the stain (by using soap and water) and eliminate drains without much hassle the stain merges to form a uniform layer during drain elimination.
 
 Pros: - Comes in a large container which covers a wide area - It is a highly penetrative and quick-acting compound. - Does not irritate your skin or nasal cavity upon contact - Delivers long-lasting coated layer - Protects the surface from UV rays and simple to prepare - Has no runs, laps, or streaks when painting
 

@@ -53,7 +53,7 @@ They are designed to work with K-style [gutters](https://pestpolicy.com/all-amer
 
 * **Considerations: ** While good for large leaves, these can sometimes be prone to "overshoot" in heavy rainfall if not installed perfectly or if the roof pitch is very steep. Fine debris like pine needles can also accumulate on the surface.
 
-3. **Frost King [Gutter](https://pestpolicy.com/are-gutters-necessary/) Guard (Plastic Mesh/Screen): ** * **Type: ** Basic plastic mesh/screen roll. * **Material: ** Lightweight plastic. * **Key Features: ** This is typically one of the most affordable and easy-to-install options. It comes in a roll and can be cut to length with ordinary scissors.
+3. **Frost King [Gutter](https://pestpolicy.com/are-gutters-necessary/)Guard (Plastic Mesh/Screen): ** * **Type: ** Basic plastic mesh/screen roll. * **Material: ** Lightweight plastic. * **Key Features: ** This is typically one of the most affordable and easy-to-install options. It comes in a roll and can be cut to length with ordinary scissors.
 
 It simply sits in or clips over the gutter opening to prevent large leaves and debris from entering.
 

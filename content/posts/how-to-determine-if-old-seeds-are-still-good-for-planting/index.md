@@ -16,9 +16,9 @@ tags:
 layout: post
 ---
 
-The allure of a forgotten packet of seeds, tucked away from a previous [gardening](https://pestpolicy.com/how-to-quickly-space-seeds-in-your-garden/) season, can be strong. Perhaps it's a cherished heirloom variety, a particularly successful crop from years past, or simply a desire to avoid waste. While the promise of new life lies dormant within each tiny seed, time is often an unforgiving enemy.
+The allure of a forgotten packet of seeds, tucked away from a previous [gardening](https://pestpolicy.com/how-to-quickly-space-seeds-in-your-garden/)season, can be strong. Perhaps it's a cherished heirloom variety, a particularly successful crop from years past, or simply a desire to avoid waste. While the promise of new life lies dormant within each tiny seed, time is often an unforgiving enemy.
 
-As seeds age, their viability their ability to germinate and grow into healthy plants gradually diminishes. Planting [old](https://pestpolicy.com/best-4-wheeler-for-12-year-old/), non-viable seeds can lead to wasted effort, disappointing germination rates, and ultimately, unproductive garden beds.
+As seeds age, their viability their ability to germinate and grow into healthy plants gradually diminishes. Planting [old](https://pestpolicy.com/best-4-wheeler-for-12-year-old/),non-viable seeds can lead to wasted effort, disappointing germination rates, and ultimately, unproductive garden beds.
 
 So, how do you distinguish between a still-vibrant seed and one that has lost its spark? The answer lies in a combination of understanding the factors that affect seed longevity and performing simple tests to gauge their viability. This guide will walk you through practical methods, from basic visual inspections to the more reliable germination test, empowering you to make informed decisions about your seed stash.
 

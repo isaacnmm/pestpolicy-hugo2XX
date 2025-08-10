@@ -19,7 +19,7 @@ How do fleas mate? If you are unfortunate enough to be suffering a flea outbreak
 
 ##  How Do Fleas Mate? 7 Quick Sex Life Tips
 
-One of the most notable things about many fleas types is that they must feed before [they mate on pets](https://hgic.clemson. edu/factsheet/flea-control/). But the process is not as simple as this. There are certain conditions that the flea needs to mate. Let's take a look at some critical factors in the mating process of a flea.
+One of the most notable things about many fleas types is that they must feed before [they mate on pets](https://hgic.clemson.edu/factsheet/flea-control/).But the process is not as simple as this. There are certain conditions that the flea needs to mate. Let's take a look at some critical factors in the mating process of a flea.
 
 - Fleas that live on cats are known to perform the entirety of their essential day-to-day needs (feeding, mating, living, etc. )
 
@@ -47,7 +47,7 @@ The male will use his antenna and legs to restrain the female during the mating 
 
 ##  Fertility Of Female Fleas
 
-Once the mating is over, it is then left to the female to lay her eggs. It is interesting to note that the more a female flea mates, the more fertile she becomes. A virgin female can lay unfertilized eggs, which is thought to be a step in the evolution of asexual reproduction in these creatures. The viability of eggs increases by 30% after the first mating, which is helpful information for eradicating [fleas](https://pestpolicy.com/where-do-fleas-come-from/) from your pet or home.
+Once the mating is over, it is then left to the female to lay her eggs. It is interesting to note that the more a female flea mates, the more fertile she becomes. A virgin female can lay unfertilized eggs, which is thought to be a step in the evolution of asexual reproduction in these creatures. The viability of eggs increases by 30% after the first mating, which is helpful information for eradicating [fleas](https://pestpolicy.com/where-do-fleas-come-from/)from your pet or home.
 
 The quicker you can do it, the less fertile the fleas will be, making it easier to tackle these parasites.
 
@@ -59,5 +59,5 @@ If you are concerned about a flea infestation, one of the key factors to conside
 
 How do fleas mate? The flea's mating process is somewhat complicated, and yet it is also a fascinating subject - control the bugs with flea bombs or foggers. One of the most important factors to remember is that fleas can begin mating within hours of finding a host and taking a meal.
 
-Therefore, it is essential to maximize your efforts to [rid your pet of fleas](https://pestpolicy.com/how-to-get-rid-of-fleas-on-clothes-and-bedding/) as soon as you find them to avoid the females becoming more fertile and producing more eggs.
+Therefore, it is essential to maximize your efforts to [rid your pet of fleas](https://pestpolicy.com/how-to-get-rid-of-fleas-on-clothes-and-bedding/)as soon as you find them to avoid the females becoming more fertile and producing more eggs.
 

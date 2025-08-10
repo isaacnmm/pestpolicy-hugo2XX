@@ -14,7 +14,7 @@ tags:
 layout: post
 ---
 
-If you've recently sprayed the [ceiling](https://pestpolicy.com/how-do-you-paint-a-ceiling-in-a-stairwell/) in your home or are considering doing so, you might be wondering if backrolling is necessary after the spraying process.
+If you've recently sprayed the [ceiling](https://pestpolicy.com/how-do-you-paint-a-ceiling-in-a-stairwell/)in your home or are considering doing so, you might be wondering if backrolling is necessary after the spraying process.
 
 In this article, we will delve into whether backrolling is required after spraying the ceiling, why it matters, and provide you with a comprehensive guide on achieving a professional-looking ceiling paint job. **Yes, backrolling is essential after spraying the ceiling**.
 

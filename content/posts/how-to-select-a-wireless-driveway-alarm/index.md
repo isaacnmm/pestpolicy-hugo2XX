@@ -14,7 +14,7 @@ tags:
 layout: post
 ---
 
-In this article, I describe how to select a wireless [driveway](https://pestpolicy.com/best-driveway-alarms/) alarm. Wireless Driveway Alarms are designed to give you and your family protection as well as enable you to remain vigilant at all times. - Thesewireless driveway alarmsalert you immediately when someone gets into your driveway, hence, youre never caught unprepared.
+In this article, I describe how to select a wireless [driveway](https://pestpolicy.com/best-driveway-alarms/)alarm. Wireless Driveway Alarms are designed to give you and your family protection as well as enable you to remain vigilant at all times. - Thesewireless driveway alarmsalert you immediately when someone gets into your driveway, hence, youre never caught unprepared.
 
 With a wireless driveway monitor, you can easily monitor your visitors or even control pests like moles, prevent trespassing and detect any movements that might compromise your security. **Related: ** **Best Driveway Alarms -Wired Options**
 

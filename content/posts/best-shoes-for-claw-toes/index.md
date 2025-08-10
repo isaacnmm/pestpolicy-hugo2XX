@@ -38,7 +38,7 @@ The midsole also incorporates an internal shank that works as a crucial support 
 
 The upper of New Balance 624 is all leather. This upper is water repellant and has small pores that allow for breathability.
 
-The interior of this [shoe](https://pestpolicy.com/best-shoes-for-bunions-and-plantar-fasciitis/) has a Phantom Liner thats smooth and lightweight. This liner prevents toes from rubbing against the upper, thus protect you from blisters or foot irritation for a comfortable wear experience.
+The interior of this [shoe](https://pestpolicy.com/best-shoes-for-bunions-and-plantar-fasciitis/)has a Phantom Liner thats smooth and lightweight. This liner prevents toes from rubbing against the upper, thus protect you from blisters or foot irritation for a comfortable wear experience.
 
 On top of that, the outsole is all rubbers, hence, it delivers needed durability, traction, and flexibility. The forefoot section also features Flex Grooves that promote natural foot movement. The amazing tread pattern at the bottom of the outsole enhances traction.
 

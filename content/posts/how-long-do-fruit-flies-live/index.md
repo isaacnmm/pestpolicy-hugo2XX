@@ -15,9 +15,9 @@ tags:
 layout: post
 ---
 
-Could you be asking yourself how long [fruit](https://pestpolicy.com/where-do-fruit-flies-come-from/) [flies](https://pestpolicy.com/how-do-you-keep-horse-flies-away-naturally/) live?
+Could you be asking yourself how long [fruit](https://pestpolicy.com/where-do-fruit-flies-come-from/)[flies](https://pestpolicy.com/how-do-you-keep-horse-flies-away-naturally/) live?
 
-Do fruit flies bother you by [flying all over in your house and compound](https://pestpolicy.com/where-do-fruit-flies-come-from/) that you wonder when they will die? **Fruit flies live for approximately 40 to 50 earth days. During this time, the female fruit flies are able to mate with males severally and lay thousands of eggs that hatch into new ones.
+Do fruit flies bother you by [flying all over in your house and compound](https://pestpolicy.com/where-do-fruit-flies-come-from/)that you wonder when they will die? **Fruit flies live for approximately 40 to 50 earth days. During this time, the female fruit flies are able to mate with males severally and lay thousands of eggs that hatch into new ones.
 
 ** In fact, the fruit flies do not just hatch into flies directly; they undergo different stages in their life cycle to achieve fully development.
 

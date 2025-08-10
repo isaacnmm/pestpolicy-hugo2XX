@@ -14,7 +14,7 @@ tags:
 layout: post
 ---
 
-Do you need to improve the quality of your sleep? Well, below, Ive reviewed the best [soundproof earmuffs](https://patents.google. com/patent/US9585792B2/en) for sleeping for a tight sleep and even sweet dreams.
+Do you need to improve the quality of your sleep? Well, below, Ive reviewed the best [soundproof earmuffs](https://patents.google.com/patent/US9585792B2/en)for sleeping for a tight sleep and even sweet dreams.
 
 Notably, a good earmuff will reduce about 15 to 30 dB of noise just like the top muffs and earplugs, but the earmuffs are best for high-frequency noise. I live in downtown Monrovia. Its crowded and sprawling section, but I love the convenience of getting everything just a few meters away.
 
@@ -92,9 +92,9 @@ Earmuffs airflow is a critical aspect of your device in your noise and sound blo
 
 You sleep earmuffs will come with varying lengths of headbands. However, its your job to ensure that the headband in your selected Earmuff will strictly fit the size of the head. Failure to this, youll experience discomfort while youre in bed. For example, earmuffs could slide off your head if the headband is oversized. Further, for a tight headband, you might experience some headaches.
 
-Therefore, some [people and singers](https://pestpolicy.com/best-throat-lozenges-for-singers/) op-to have band-less earmuffs.
+Therefore, some [people and singers](https://pestpolicy.com/best-throat-lozenges-for-singers/)op-to have band-less earmuffs.
 
 ##  Sources:
 
-1. [Utilization of Styrofoam as [Soundproofing](https://pestpolicy.com/soundproof-barn-doors/) Material with Auditory Frequency Range](http://journal.fkm. ui. ac. id/kesmas/article/view/2633) 2. [NOISE POLLUTION IN VADODARA CITY-A CASE STUDY](http://www.ijaerd. co. in/papers/finished_papers/NOISE%20POLLUTION%20IN%20VADODARA%20CITY%20-%20A%20CASE%20STUDY-35861. pdf)
+1. [Utilization of Styrofoam as [Soundproofing](https://pestpolicy.com/soundproof-barn-doors/)Material with Auditory Frequency Range](http://journal.fkm.ui. ac. id/kesmas/article/view/2633) 2. [NOISE POLLUTION IN VADODARA CITY-A CASE STUDY](http://www.ijaerd.co.in/papers/finished_papers/NOISE%20POLLUTION%20IN%20VADODARA%20CITY%20-%20A%20CASE%20STUDY-35861.pdf)
 

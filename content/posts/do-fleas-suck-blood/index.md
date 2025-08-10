@@ -14,7 +14,7 @@ tags:
 layout: post
 ---
 
-Fleas are tiny parasitic insects that feed on the blood of mammals and birds. While they are not capable of causing harm on their own, [flea](https://pestpolicy.com/are-fleas-attracted-to-heat/) infestations can cause serious issues for both pets and humans. One of the most common questions people have about fleas is whether or not they actually suck blood. Lets explore this question in detail.
+Fleas are tiny parasitic insects that feed on the blood of mammals and birds. While they are not capable of causing harm on their own, [flea](https://pestpolicy.com/are-fleas-attracted-to-heat/)infestations can cause serious issues for both pets and humans. One of the most common questions people have about fleas is whether or not they actually suck blood. Lets explore this question in detail.
 
 ##  What Do Fleas Do?
 

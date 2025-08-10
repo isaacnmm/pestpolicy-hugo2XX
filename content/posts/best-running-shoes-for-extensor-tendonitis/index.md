@@ -14,7 +14,7 @@ tags:
 layout: post
 ---
 
-If youre a runner and usually experience [tendon inflammation on top of your foot](https://www.physio. co. uk/what-we-treat/musculoskeletal/conditions/foot/extensor-tendinopathy. php), you need to invest in Best Running Shoes for Extensor Tendonitis.
+If youre a runner and usually experience [tendon inflammation on top of your foot](https://www.physio.co.uk/what-we-treat/musculoskeletal/conditions/foot/extensor-tendinopathy.php),you need to invest in Best Running Shoes for Extensor Tendonitis.
 
 Extensor Tendonitis is associated with Pain On top Of Foot. Factors that cause Extensor Tendonitis include; Wearing tight shoes, Spending a lot of time on your feet, and using incorrect shoes for a specific activity.
 
@@ -42,7 +42,7 @@ Pros: - Provides excellent cushioning - Comfortable - Offers a stable ride - Exc
 
 Cons: - Limited color variations
 
-###  [2. Mizuno Women's Wave Rider 23 Wave knit Running [Shoe](https://pestpolicy.com/best-running-shoes-for-flat-feet-and-bunions/)](https://www.amazon.com/dp/B07QVTF9G4/?tag=p-policy-20)
+###  [2. Mizuno Women's Wave Rider 23 Wave knit Running Shoe](https://www.amazon.com/dp/B07QVTF9G4/?tag=p-policy-20)
 
 Mizuno Wave Rider 23 also finds a spot in the best running shoes for Extensor Tendonitis. The Rider 23 is designed for injury prevention. Thus, boasts of lightweight comfort, cushioning, and flexibility.
 
@@ -86,7 +86,7 @@ FlyteFoam Lyte Technology incorporates an excellent formulation from Asics that 
 
 Asics Nimbus 22 has an outsole that features AHAR material. This durable rubber compound offers protection against excessive wear and tear. This abrasion-resistant rubber compound is also found on those critical parts of the outsole to promote the shoes durability.
 
-The flex grooves beneath the outsole provide needed traction on wet/ slippery surfaces making them ideal for [running on snow and ice](https://pestpolicy.com/best-running-shoes-for-ice-and-snow/). They also encourage the foot to flex naturally for a more responsive ride.
+The flex grooves beneath the outsole provide needed traction on wet/ slippery surfaces making them ideal for [running on snow and ice](https://pestpolicy.com/best-running-shoes-for-ice-and-snow/).They also encourage the foot to flex naturally for a more responsive ride.
 
 Trusstic technology promotes the shoes stability and longevity. The molded EVA sockliner with a padded footbed offers extra comfort to feet. The sockliner also offers protection to feet preventing irritation, pain on top of the foot, or blisters. Ortholite X-40 technology provides additional cushioning.
 

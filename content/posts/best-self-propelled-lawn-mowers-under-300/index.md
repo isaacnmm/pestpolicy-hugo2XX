@@ -18,9 +18,9 @@ Lawn care doesnt have to be an endeavour that blows your budget or breaks your b
 
 If you own a small or medium lawn, the ideal tool would be a self-propelled lawnmower that you can easily move about the lawn. In addition, these units feature a durable frame and cutting blade which guarantees an increased lifespan even with regular usage.
 
-##  Run Down: 7 Best Self Propelled Lawn [Mowers](https://pestpolicy.com/best-lawn-mower-for-cutting-edges/) Under 300 in 2025
+##  Run Down: 7 Best Self Propelled Lawn [Mowers](https://pestpolicy.com/best-lawn-mower-for-cutting-edges/)Under 300 in 2025
 
-###  [1. Lawn-Boy 17732 21 [self](https://pestpolicy.com/best-self-defense-weapon-besides-gun/)-propelled mower](https://www.amazon.com/dp/B00H8GLL5M/?tag=p-policy-20)
+###  [1. Lawn-Boy 17732 21 [self](https://pestpolicy.com/best-self-defense-weapon-besides-gun/)-propelledmower](https://www.amazon.com/dp/B00H8GLL5M/?tag=p-policy-20)
 
 This unit is powered by a 149cc engine which is not ideal for large yards but it offers good value for money.
 

@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 
-When choosing the best [substrate](https://pestpolicy.com/best-substrate-for-bearded-dragons/) for [leopard geckos](https://animaldiversity.org/accounts/Eublepharis_macularius/), you can consider things like safety, ease of cleaning, and comfort for your pet.
+When choosing the best [substrate](https://pestpolicy.com/best-substrate-for-bearded-dragons/)for [leopard geckos](https://animaldiversity.org/accounts/Eublepharis_macularius/),you can consider things like safety, ease of cleaning, and comfort for your pet.
 
 The substrate is crucial as it forms the bedding of the gecko's enclosure, directly affecting their health and well-being.
 
@@ -23,9 +23,9 @@ The substrate is crucial as it forms the bedding of the gecko's enclosure, direc
 
 ###  **1. Safety **
 
-Some products, like [**GECKOPIA Premium Reptile Liner**](https://www.amazon. com/dp/B09W7KQHCS/? tag=p-policy-20), are popular because they are safe and free from small particles that could cause impaction if ingested. Safety is paramount when selecting a substrate for Leopard Geckos.
+Some products, like [**GECKOPIA Premium Reptile Liner**](https://www.amazon.com/dp/B09W7KQHCS/?tag=p-policy-20),are popular because they are safe and free from small particles that could cause impaction if ingested. Safety is paramount when selecting a substrate for Leopard Geckos.
 
-Loose substrates, such as sand, can be dangerous as they may lead to impactiona condition where the gecko ingests the substrate, leading to a blockage in their digestive system. Therefore, using non-particle-based substrates lik [**Riare 4LBS Expanded Clay**](https://www.amazon. com/dp/B0CGLJ7PKH/? tag=p-policy-20) is often recommended to prevent such health risks.
+Loose substrates, such as sand, can be dangerous as they may lead to impactiona condition where the gecko ingests the substrate, leading to a blockage in their digestive system. Therefore, using non-particle-based substrates lik [**Riare 4LBS Expanded Clay**](https://www.amazon.com/dp/B0CGLJ7PKH/?tag=p-policy-20)is often recommended to prevent such health risks.
 
 ###  **2. Ease of Cleaning **
 

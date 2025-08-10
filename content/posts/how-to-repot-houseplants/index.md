@@ -43,7 +43,7 @@ The amount should be sufficient so that when the plant is placed on top, the bas
 Repotting houseplants is a vital and straightforward task that significantly contributes to their long-term health and vitality. By recognizing the signs your plant needs a new home, gathering the appropriate supplies, and following the simple steps outlined, you can confidently provide your indoor greenery with the fresh start it needs. Remember to be gentle, choose the right pot size, use fresh, appropriate potting mix, and provide consistent care during the recovery period.
 With each successful repotting, you'll gain confidence and ensure your beloved houseplants continue to thrive and beautify your living space for years to come.
 
-Just like children outgrow their shoes, houseplants eventually outgrow their pots. Repotting is a fundamental aspect of [houseplant](https://pestpolicy.com/how-to-grow-pineapples-as-houseplants/) care, essential for maintaining your plant's health, promoting vigorous growth, and preventing common issues like root rot or nutrient deficiencies.
+Just like children outgrow their shoes, houseplants eventually outgrow their pots. Repotting is a fundamental aspect of [houseplant](https://pestpolicy.com/how-to-grow-pineapples-as-houseplants/)care, essential for maintaining your plant's health, promoting vigorous growth, and preventing common issues like root rot or nutrient deficiencies.
 
 Over time, potting mix degrades, losing its structure, aeration, and nutrient-holding capacity, while roots can become so dense that they choke the plant.
 

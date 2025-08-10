@@ -15,9 +15,9 @@ tags:
 layout: post
 ---
 
-[Flea bites](https://www.petmd. com/dog/parasites/flea-bites-dogs-what-do-they-look) trigger irritation and discomfort in dogs and cats. But do [fleas](https://pestpolicy.com/can-fleas-bite-through-clothes/) bite humans and possibly [transmit diseases like the bubonic plague](http://www.sciencedirect. com/science/article/pii/S1198743X1461377X)?
+[Flea bites](https://www.petmd.com/dog/parasites/flea-bites-dogs-what-do-they-look)trigger irritation and discomfort in dogs and cats. But do [fleas](https://pestpolicy.com/can-fleas-bite-through-clothes/)bite humans and possibly [transmit diseases like the bubonic plague](http://www.sciencedirect.com/science/article/pii/S1198743X1461377X)?
 
-*In summary, the [flea](https://pestpolicy.com/why-do-flea-bites-itch/) will bite humans to suck blood, leaving 3-4 clusters of small-reddish spots - particularly on the ankles, feet, lower legs, calves. * - *Flea bites trigger irritation, pain, scratching, and allergic reactions, plus a rash or white-top blisters. Fleas have a mouth with 3 stylet that is needle-like adapted for biting their hosts and sucking blood.
+*In summary, the [flea](https://pestpolicy.com/why-do-flea-bites-itch/)will bite humans to suck blood, leaving 3-4 clusters of small-reddish spots - particularly on the ankles, feet, lower legs, calves. * - *Flea bites trigger irritation, pain, scratching, and allergic reactions, plus a rash or white-top blisters. Fleas have a mouth with 3 stylet that is needle-like adapted for biting their hosts and sucking blood.
 
 * - *The 2 styles on the outer side will bite (pierce) the human skin, and the remaining (middle) stylet will enter the blood capillary of the host and draw blood. **Also, the middle stylet injects some anticoagulant saliva to prevent blood clotting. *
 
@@ -135,13 +135,13 @@ The fleas will transmit the cat-scratch disease to humans through bites or the c
 
 ###  4.Mycoplasma haemofelis -Oriental Rat Flea
 
-Bites from Oriental rat fleas will lead to the bubonic plague or [Lyme disease](https://www.petmd. com/dog/conditions/infectious-parasitic/c_dg_lyme_disease) in humans and dogs. [*Mycoplasma haemofelis*](https://www.sciencedirect. com/topics/agricultural-and-biological-sciences/mycoplasma-haemofelis) will be transmitted through bites from oriental cat fleas.
+Bites from Oriental rat fleas will lead to the bubonic plague or [Lyme disease](https://www.petmd.com/dog/conditions/infectious-parasitic/c_dg_lyme_disease)in humans and dogs. [*Mycoplasma haemofelis*](https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/mycoplasma-haemofelis)will be transmitted through bites from oriental cat fleas.
 
 Mycoplasma haemofelis will infect the red blood cells, which will eventually cause anemia in humans and pets, particularly those with weaker immune systems. Antibiotics can be used to treat Mycoplasma haemofelis, but pets, including cats and dogs, should be given a blood transfusion.
 
 ##  Conclusion
 
-Fleas mainly emerge in the warm months and will bite the warm-blooded mammal to feed on their blood - the [flea sprays for your yard](https://pestpolicy.com/best-flea-spray-for-yard/). - Fleabites will cause you discomfort, allergic reactions, and red spots encircled by reddish bumps. - Fleas will attack the whole body of your household pets like dogs and cats.
+Fleas mainly emerge in the warm months and will bite the warm-blooded mammal to feed on their blood - the [flea sprays for your yard](https://pestpolicy.com/best-flea-spray-for-yard/).- Fleabites will cause you discomfort, allergic reactions, and red spots encircled by reddish bumps. - Fleas will attack the whole body of your household pets like dogs and cats.
 
 Fleas, particularly cat fleas, will bite humans, cats, or dogs within seconds to a few minutes after landing on the host.
 

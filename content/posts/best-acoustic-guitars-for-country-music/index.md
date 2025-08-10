@@ -14,7 +14,7 @@ tags:
 layout: post
 ---
 
-If youre a country music enthusiast, then choosing the best acoustic guitars for country music live performance would be a [crucial step](https://www.mi. edu/education/guitar-history-how-the-guitar-has-evolved/). However, this may not be that easy as per see.
+If youre a country music enthusiast, then choosing the best acoustic guitars for country music live performance would be a [crucial step](https://www.mi.edu/education/guitar-history-how-the-guitar-has-evolved/).However, this may not be that easy as per see.
 
 Consider these specific features; tonewoods, body styles, strength, string quality, pick up options, connection ability with other electronics, and cutaway design. Check the cost implications associated with the particular guitar of your choice. In this article, we shall be reviewing the acoustic guitars-acoustic-guitar/) for country music in depth. So, lets get started. Read Also: Acoustic Guitar Under 1000
 

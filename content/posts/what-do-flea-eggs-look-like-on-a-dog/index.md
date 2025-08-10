@@ -21,7 +21,7 @@ However, flea eggs are smooth and oval with a white color, which may hinder thei
 
 ##  Details: What Do Flea Eggs Look Like on a Dog?
 
-[Fleas](https://pestpolicy.com/flea-eggs-vs-dandruff/) will definitely hurt your dogs as they'll bite and suck blood from your pet. Fleas bites might also prove life-threatening. - Despite that [flea](https://pestpolicy.com/how-long-do-flea-eggs-take-to-hatch/) eggs will be challenging to detect on your dog's fur, you must know how to identify and control these bugs.
+[Fleas](https://pestpolicy.com/flea-eggs-vs-dandruff/)will definitely hurt your dogs as they'll bite and suck blood from your pet. Fleas bites might also prove life-threatening. - Despite that [flea](https://pestpolicy.com/how-long-do-flea-eggs-take-to-hatch/)eggs will be challenging to detect on your dog's fur, you must know how to identify and control these bugs.
 
 - Proper and timely control of the flea eggs on or around your dog will helpdisrupt that elusive flea cycle- and thus you'll make the dog and other pets safe.
 
@@ -67,5 +67,5 @@ Equally, you can use tick and flea sprays for the house to control flea eggs and
 
 ##  Conclusion
 
-Fleas will lay their eggs around the dog's hips and fur - but since the eggs are not sticky they'll [fall off from the pet into carpeting](https://pestpolicy.com/where-do-fleas-lay-eggs/) or the dog's resting areas. - Flea eggs will look like tiny specs on the dog's body - and they could be invisible in most cases since they're small-sized and will be seen using some microscope.
+Fleas will lay their eggs around the dog's hips and fur - but since the eggs are not sticky they'll [fall off from the pet into carpeting](https://pestpolicy.com/where-do-fleas-lay-eggs/)or the dog's resting areas. - Flea eggs will look like tiny specs on the dog's body - and they could be invisible in most cases since they're small-sized and will be seen using some microscope.
 

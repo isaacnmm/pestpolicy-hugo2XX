@@ -14,13 +14,13 @@ tags:
 layout: post
 ---
 
-Unlike oil-based solutions, removing latex [paint](https://pestpolicy.com/what-is-latex-paint-used-for/) (a water-soluble paint) from concrete is much more comfortable. However, if you apply the wrong paint removal method, then you may experience incomplete paint cleaning at the end of it all.
+Unlike oil-based solutions, removing latex [paint](https://pestpolicy.com/what-is-latex-paint-used-for/)(a water-soluble paint) from concrete is much more comfortable. However, if you apply the wrong paint removal method, then you may experience incomplete paint cleaning at the end of it all.
 
-In this article, I've outlined how to remove [latex paint](https://pestpolicy.com/what-is-latex-paint-used-for/) from concrete using soapy detergent, power washer, paint-stripping chemical, scraper, Trisodium Phosphate, or sandblaster/paint grinder.
+In this article, I've outlined how to remove [latex paint](https://pestpolicy.com/what-is-latex-paint-used-for/)from concrete using soapy detergent, power washer, paint-stripping chemical, scraper, Trisodium Phosphate, or sandblaster/paint grinder.
 
-Alternatively, you use commercial latex paint removers like [Motsenbocker's Lift Latex Paint Remover](https://www.amazon. com/dp/B000VB4KWM/? tag=p-policy-20), [Sunnyside Corporation](https://www.amazon. com/dp/B07SWTRPP2/? tag=p-policy-20), [Dumond Chemicals](https://www.amazon. com/Dumond-Chemicals-3301-Advanced-Remover/dp/B001F0KO2S/ref=sr_1_9?
+Alternatively, you use commercial latex paint removers like [Motsenbocker's Lift Latex Paint Remover](https://www.amazon.com/dp/B000VB4KWM/?tag=p-policy-20),[Sunnyside Corporation](https://www.amazon.com/dp/B07SWTRPP2/?tag=p-policy-20),[Dumond Chemicals](https://www.amazon.com/Dumond-Chemicals-3301-Advanced-Remover/dp/B001F0KO2S/ref=sr_1_9?
 
-dchild=1&keywords=latex+paint+remover+from+concrete&qid=1602088975&sr=8-9), and [CS UNITEC Electric Paint Stripper](https://www.amazon. com/dp/B08G9T883X/? tag=p-policy-20).
+dchild=1&keywords=latex+paint+remover+from+concrete&qid=1602088975&sr=8-9), and [CS UNITEC Electric Paint Stripper](https://www.amazon.com/dp/B08G9T883X/?tag=p-policy-20).
 
 Proper protection and safety adherence should be put in place during the latex removal process.
 

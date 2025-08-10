@@ -16,7 +16,7 @@ tags:
 layout: post
 ---
 
-Bed bugs are [persistent pests](https://pestpolicy.com/what-causes-[bed-bugs](https://pestpolicy.com/bed-bug-bites-vs-mosquito-bites/)/) that can infest homes, hotels, and other dwellings in Salem, OR. Effective [bed](https://pestpolicy.com/bed-bug-bites-vs-other-bites/) bug control involves thorough inspection, identification, and targeted treatments to eliminate these insects and prevent their return.
+Bed bugs are [persistent pests](https://pestpolicy.com/what-causes-[bed-bugs](https://pestpolicy.com/bed-bug-bites-vs-mosquito-bites/)/)that can infest homes, hotels, and other dwellings in Salem, OR. Effective [bed](https://pestpolicy.com/bed-bug-bites-vs-other-bites/)bug control involves thorough inspection, identification, and targeted treatments to eliminate these insects and prevent their return.
 
 ####  Signs of Bed Bug Infestation
 
@@ -26,7 +26,7 @@ Bed bugs are [persistent pests](https://pestpolicy.com/what-causes-[bed-bugs](ht
 
 1. **Inspection**: Conduct a thorough inspection of the affected areas, including mattresses, bed frames, furniture, and nearby walls. 2. **Treatment Options**: - **Heat Treatment**: Effective for killing bed bugs and their eggs by raising the temperature of the infested area. - **Insecticide Treatment**: Use of insecticides labeled for bed bugs, applied to cracks, crevices, and other hiding places.
 
-- **Steam Treatment**: Steam can[effectively kill bed bugs](https://pestpolicy.com/best-bed-bug-steamer/)and their eggs in cracks and crevices. 3. **Preventative Measures**: - **Encase Mattresses**: Use bed bug-proof mattress encasements to trap any bed bugs already present and prevent new infestations. - **Reduce Clutter**: Decluttering reduces hiding places for bed bugs.
+- **Steam Treatment**: Steam can[effectively kill bed bugs](https://pestpolicy.com/best-bed-bug-steamer/)andtheir eggs in cracks and crevices. 3. **Preventative Measures**: - **Encase Mattresses**: Use bed bug-proof mattress encasements to trap any bed bugs already present and prevent new infestations. - **Reduce Clutter**: Decluttering reduces hiding places for bed bugs.
 
 - **Regular Cleaning**: Vacuuming and cleaning bedding, furniture, and carpets can help eliminate bed bugs and their eggs.
 

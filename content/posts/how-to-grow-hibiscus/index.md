@@ -16,7 +16,7 @@ tags:
 layout: post
 ---
 
-With their large, trumpet-shaped flowers and an astounding array of colors, hibiscus plants instantly evoke images of tropical paradises and warm, sunny climates. Whether you dream of [vibrant](https://pestpolicy.com/how-to-grow-azaleas/) blooms gracing your patio or a sturdy shrub adding a touch of the exotic to your perennial border, there's a hibiscus type suited for nearly every gardener.
+With their large, trumpet-shaped flowers and an astounding array of colors, hibiscus plants instantly evoke images of tropical paradises and warm, sunny climates. Whether you dream of [vibrant](https://pestpolicy.com/how-to-grow-azaleas/)blooms gracing your patio or a sturdy shrub adding a touch of the exotic to your perennial border, there's a hibiscus type suited for nearly every gardener.
 
 While their showy appearance might suggest high maintenance, many hibiscus varieties are surprisingly easy to grow, provided their basic needs are met.
 

@@ -28,7 +28,7 @@ This remover works excellently in getting rid of chewing gum, stains, paint mark
 
 Goof Off professional remover effectively removes caulk, dried latex paint, duct tape residue, adhesives, decals, crayon marks, marker and pen marks, tree sap, and scuff marks, as well as tar, asphalt, and many other stain-causing substances.
 
-The remover is also right on wood surfaces, glass surfaces, brick, wood, concrete, tools, fiberglass, metal surfaces, and most car finishes - avoid [unusual painting mistakes](https://www.diynetwork. com/how-to/skills-and-know-how/painting/15-painting-mistakes-to-avoid). It has the power to get rid of the majority of messes and splatters besides being very helpful in giving your most cherished belongings a new lease of life.
+The remover is also right on wood surfaces, glass surfaces, brick, wood, concrete, tools, fiberglass, metal surfaces, and most car finishes - avoid [unusual painting mistakes](https://www.diynetwork.com/how-to/skills-and-know-how/painting/15-painting-mistakes-to-avoid).It has the power to get rid of the majority of messes and splatters besides being very helpful in giving your most cherished belongings a new lease of life.
 
 However, the powerful remover has strong chemical ingredients, such as Ethylbenzene. Hence it is always advisable to wear protective gear such as eyewear, goggles, and a respirator whenever you use this special remover. Pros: - Highly versatile as it works on several types of surfaces, including glass and wood - Removes all manner of stains and spots - It works very quickly.
 
@@ -104,9 +104,9 @@ Cons: - You might have to scrub for more extended periods to get the job done.
 
 Goo Gone Cleaner is another good alternative remover for cleaning up latex paint with excellent results. Hence it is a favorite addition to the spraying collection of latex paint lovers.
 
-The paint remover offers one of the easiest ways to get rid of paint from your car. You will also find it useful in the removal of splatters, [removing varnish spills](https://home.howstuffworks. com/how-to-remove-lacquer-and-varnish-stains. htm), as well as over-spray. Besides cleaning locomotives, Goo Gone can also be used to clean plastic, tiles, carpets, appliances, metal, and glass surfaces.
+The paint remover offers one of the easiest ways to get rid of paint from your car. You will also find it useful in the removal of splatters, [removing varnish spills](https://home.howstuffworks.com/how-to-remove-lacquer-and-varnish-stains.htm),as well as over-spray. Besides cleaning locomotives, Goo Gone can also be used to clean plastic, tiles, carpets, appliances, metal, and glass surfaces.
 
-It superbly gets rid of [latex paint from all surfaces](https://pestpolicy.com/what-is-latex-paint-used-for/), whether wet or dried. Most importantly, it is a safe remover as it is harmless to the user and the surfaces on which it is used. If you have been looking for a remover that is fit for both professional and do-it-yourself applications, then Goo Gone is a natural choice for you. Anybody can use it irrespective of their experience.
+It superbly gets rid of [latex paint from all surfaces](https://pestpolicy.com/what-is-latex-paint-used-for/),whether wet or dried. Most importantly, it is a safe remover as it is harmless to the user and the surfaces on which it is used. If you have been looking for a remover that is fit for both professional and do-it-yourself applications, then Goo Gone is a natural choice for you. Anybody can use it irrespective of their experience.
 
 It is the easiest and the quickest means of removing any mess made by varnish or paint. Pros: - The best option for all kinds of hard surfaces - It acts rapidly in its stain removal. - It is safe both for the user and the surface. - Works on both dried and wet latex paint - It is multi-purpose
 

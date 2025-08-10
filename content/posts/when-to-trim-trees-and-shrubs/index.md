@@ -103,7 +103,7 @@ Understanding these nuances ensures that your pruning efforts contribute positiv
 
 ##  FAQs About Pruning Trees and Shrubs
 
-**Q: Will pruning kill my tree or [shrub](https://pestpolicy.com/can-i-plant-trees-and-shrubs-in-late-fall-or-winter/)? ** A: Proper pruning, even heavy pruning (like rejuvenation pruning), should not kill a healthy [tree](https://pestpolicy.com/10-trees-to-grow-in-containers/) or shrub.
+**Q: Will pruning kill my tree or [shrub](https://pestpolicy.com/can-i-plant-trees-and-shrubs-in-late-fall-or-winter/)?** A: Proper pruning, even heavy pruning (like rejuvenation pruning), should not kill a healthy [tree](https://pestpolicy.com/10-trees-to-grow-in-containers/)or shrub.
 
 However, removing too much live growth at once (more than 25-30% in a single season) or making improper cuts can stress the plant, weaken it, or lead to decline. Always know what you're cutting and why.
 

@@ -15,13 +15,13 @@ tags:
 layout: post
 ---
 
-Have you come across squirrels in your garden? But do you ever ask yourself how long do squirrels [live](https://pestpolicy.com/can-no-see-ums-live-in-my-hair/)? Did you know that there are different species of squirrels ( just like with chipmunks ) and they have a different life span and Well, I was in the same situation as you a few years back when I had squirrels all over my garden. This prompted me into finding out more about squirrels.
+Have you come across squirrels in your garden? But do you ever ask yourself how long do squirrels [live](https://pestpolicy.com/can-no-see-ums-live-in-my-hair/)?Did you know that there are different species of squirrels ( just like with chipmunks ) and they have a different life span and Well, I was in the same situation as you a few years back when I had squirrels all over my garden. This prompted me into finding out more about squirrels.
 
 Here is what I found. Related: Squirrels Poison
 
 ##  **How Long Do Squirrels Live?**
 
-The life span of a [squirrel](https://pestpolicy.com/do-squirrels-attack-humans/) is dependent on its species and the predisposing factors. For instance, squirrels in captivity live longer than those that live in the wild. The life span of the squirrels in the wild is shorter than those that live in captivity. - Squirrels have predators like hawks, dogs among other carnivores in the wild. They barely survive even two years of their life.
+The life span of a [squirrel](https://pestpolicy.com/do-squirrels-attack-humans/)is dependent on its species and the predisposing factors. For instance, squirrels in captivity live longer than those that live in the wild. The life span of the squirrels in the wild is shorter than those that live in captivity. - Squirrels have predators like hawks, dogs among other carnivores in the wild. They barely survive even two years of their life.
 
 In case this happens, most of these squirrels can live between 6-12 years on average. - Squirrels can be categorized into 3 species which include flying squirrels, ground and tree squirrels.
 

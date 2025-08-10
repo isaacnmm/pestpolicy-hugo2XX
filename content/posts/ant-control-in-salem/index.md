@@ -16,13 +16,13 @@ tags:
 layout: post
 ---
 
-Ants are a common household pest in Salem, OR, and can be particularly persistent once they find a way into your home. Effective ant [control](https://pestpolicy.com/ant-control-in-bellingham/) requires a combination of preventive measures, identification of ant species, and targeted treatments to eliminate them and prevent future infestations.
+Ants are a common household pest in Salem, OR, and can be particularly persistent once they find a way into your home. Effective ant [control](https://pestpolicy.com/ant-control-in-bellingham/)requires a combination of preventive measures, identification of ant species, and targeted treatments to eliminate them and prevent future infestations.
 
 ####  Common Ant Species in Salem
 
-Salem is home to several species of [ants](https://pestpolicy.com/ant-control-in-federal-way/) that can become household pests: - **Odorous House Ants**: These ants are small, dark brown to black in color and emit a strong, rotten coconut-like odor when crushed. - **Pavement Ants**: Dark brown to black ants that typically nest under sidewalks, driveways, and foundations, but can invade homes in search of food.
+Salem is home to several species of [ants](https://pestpolicy.com/ant-control-in-federal-way/)that can become household pests: - **Odorous House Ants**: These ants are small, dark brown to black in color and emit a strong, rotten coconut-like odor when crushed. - **Pavement Ants**: Dark brown to black ants that typically nest under sidewalks, driveways, and foundations, but can invade homes in search of food.
 
-- [**Carpenter Ants**](https://pestpolicy.com/what-attracts-carpenter-ants-in-a-home/): Larger ants that can be black, red, or a combination thereof. They dont eat wood like termites but can damage wood structures by excavating tunnels for nesting.
+- [**Carpenter Ants**](https://pestpolicy.com/what-attracts-carpenter-ants-in-a-home/):Larger ants that can be black, red, or a combination thereof. They dont eat wood like termites but can damage wood structures by excavating tunnels for nesting.
 
 ####  Steps for Ant Prevention
 

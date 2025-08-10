@@ -42,7 +42,7 @@ Mineral spirits work for oil-based paints (not for water-based paints) for excel
 
 Moreover, you can also use mineral spirit in degreasing, removing paint pills, paint preparation, thinning paint, and stain removal without much hassle. However, the right procedure and administration should be carried out during application (as explained later in this article) to prevent bleaching and staining of the surfaces.
 
-NB: Since the mineral spirit is mainly used for paint thinning, its recommended that you carry out a drop test before you start the application to ascertain the effectiveness of this product over a given surface or given type of paint you intend to clean. > See Also: > [Can Alcohol Remove Paint](https://pestpolicy.com/does-alcohol-remove-paint/) >?
+NB: Since the mineral spirit is mainly used for paint thinning, its recommended that you carry out a drop test before you start the application to ascertain the effectiveness of this product over a given surface or given type of paint you intend to clean. > See Also: > [Can Alcohol Remove Paint](https://pestpolicy.com/does-alcohol-remove-paint/)>?
 
 ###  c. Concentration Requirements and Precaution to be observed
 

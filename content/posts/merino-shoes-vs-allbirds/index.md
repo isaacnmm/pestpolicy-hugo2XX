@@ -40,7 +40,7 @@ Some of the things I didnt like about merino shoes include their pricing. I felt
 
 ###  Allbirds
 
-If youre looking for a comfortable [shoe](https://pestpolicy.com/best-shoes-for-bunions-and-plantar-fasciitis/) brand thats has received massive positive responses from its users, then pick any Allbird shoe. From the beginning, most if not all Allbirds users have defined the brand by its simple design and amazingly comfortable construction.
+If youre looking for a comfortable [shoe](https://pestpolicy.com/best-shoes-for-bunions-and-plantar-fasciitis/)brand thats has received massive positive responses from its users, then pick any Allbird shoe. From the beginning, most if not all Allbirds users have defined the brand by its simple design and amazingly comfortable construction.
 
 I acquired my first pair of Allbirds in 2016. I specifically bought the all-famous **Allbirds Wool Runners**. Oh boy! It was the most comfortable shoe Ive ever worn. This made me try out almost all the Allbirds shoes.
 

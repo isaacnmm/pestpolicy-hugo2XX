@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 
-A [tree](https://pestpolicy.com/10-trees-to-grow-in-containers/) stump, left behind after a tree is felled, can be an unsightly obstacle in any garden or landscape. Beyond being an aesthetic nuisance, stumps can pose tripping hazards, become home to pests, sprout new growth (suckers), and hinder future landscaping plans.
+A [tree](https://pestpolicy.com/10-trees-to-grow-in-containers/)stump, left behind after a tree is felled, can be an unsightly obstacle in any garden or landscape. Beyond being an aesthetic nuisance, stumps can pose tripping hazards, become home to pests, sprout new growth (suckers), and hinder future landscaping plans.
 
 While complete stump removal is often the most desirable outcome, killing a tree stump is the essential first step to prevent regrowth and facilitate its eventual decay.
 

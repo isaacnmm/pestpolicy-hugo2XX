@@ -22,7 +22,7 @@ Wear while serving drinks and food in different joints and restaurants to help y
 
 ###  [1. Skechers for Work Women's Soft Stride](https://www.amazon.com/dp/B0026O24CK/?tag=p-policy-20)
 
-My final recommendation is the Skechers for Work Women's Soft Stride that are rugged work shoes that have leather upper that is OSHA approved, particularly for their rubber outsoles. It has PU comfort insoles that you can remove and add better orthotics. Luckily, the [shoe](https://pestpolicy.com/best-cushioned-running-shoes-for-bad-knees/) is also great for commuting, and thus you can wear it after Work.
+My final recommendation is the Skechers for Work Women's Soft Stride that are rugged work shoes that have leather upper that is OSHA approved, particularly for their rubber outsoles. It has PU comfort insoles that you can remove and add better orthotics. Luckily, the [shoe](https://pestpolicy.com/best-cushioned-running-shoes-for-bad-knees/)is also great for commuting, and thus you can wear it after Work.
 
 Skechers for Work Women's shoe promotes comfort and better performance, making you feel secure and comfortable.
 
@@ -110,7 +110,7 @@ Such features will give you a more supportive gait.
 
 - Breathability and Fit -We all need a waitressing shoe that will keep the foot fresh and relaxed. - Well, Dansko Professional Mule has a breathable foam footbed to increase the flow of air and regulate the temperature in the waitressing clog. Blisters prevention - I wouldn't say I like blisters, and thus blister-proof shoes were one of my considerations in the waitressing shoe. Enter Dansko Professional Mule!
 
-Read Also: [Athletic Shoes for Lower Back Pain](https://pestpolicy.com/best-athletic-shoes-for-lower-back-pain/). The shoe comes with a padded instep collar that will enable it shoe to fit perfectly and safely with your foot. These features will prevent the feet and the stop of the clog from rubbing carelessly. Pros: - Slip-on shoes are favored by waitresses.
+Read Also: [Athletic Shoes for Lower Back Pain](https://pestpolicy.com/best-athletic-shoes-for-lower-back-pain/).The shoe comes with a padded instep collar that will enable it shoe to fit perfectly and safely with your foot. These features will prevent the feet and the stop of the clog from rubbing carelessly. Pros: - Slip-on shoes are favored by waitresses.
 
 - Prevent slipping - A characteristic toe box that is spacious thus better aeration - Excellent arch support and prevents plantar fasciitis. - Has a rocker bottom to absorb shock Cons: - Could have a long break-in - Its heel is relatively high?
 

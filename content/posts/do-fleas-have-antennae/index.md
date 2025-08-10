@@ -14,7 +14,7 @@ tags:
 layout: post
 ---
 
-Fleas are notorious for causing discomfort and irritation to both pets and humans. One common question people have about fleas is whether they have antennae. The short answer is yesfleas do have antennae, and they play a crucial role in helping them navigate their environment. In this post, we'll explore the role of antennae in fleas and how they contribute to the [flea](https://pestpolicy.com/are-fleas-attracted-to-heat/)'s survival.
+Fleas are notorious for causing discomfort and irritation to both pets and humans. One common question people have about fleas is whether they have antennae. The short answer is yesfleas do have antennae, and they play a crucial role in helping them navigate their environment. In this post, we'll explore the role of antennae in fleas and how they contribute to the [flea](https://pestpolicy.com/are-fleas-attracted-to-heat/)'ssurvival.
 
 ##  Flea Anatomy: The Role of [Antennae](https://pestpolicy.com/do-spiders-have-antennae/)
 

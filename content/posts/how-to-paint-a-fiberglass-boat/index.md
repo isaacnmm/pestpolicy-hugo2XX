@@ -14,7 +14,7 @@ tags:
 layout: post
 ---
 
-But how do you paint a [fiberglass [boat](https://pestpolicy.com/best-fiberglass-boat-cleaner/)](https://en.wikipedia. org/wiki/Fiberglass)? Which is the correct approach in the case of paint restoration? These are some of the questions most boat owners ask themselves.
+But how do you paint a [fiberglass boat](https://en.wikipedia.org/wiki/Fiberglass)?Which is the correct approach in the case of paint restoration? These are some of the questions most boat owners ask themselves.
 
 *So, in this article, we shall be discussing how to paint a fiberglass boat. To achieve an excellent finish, you will need to follow the right steps/procedure, carry out proper paint selection, paint preparation, paint application with an airless paint sprayer, sanding process, and smart final finish. * *Its important to know that selecting the wrong paint damages fiberglass coating, which may lead to a marine accident when cruising.
 

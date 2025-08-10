@@ -52,7 +52,7 @@ Cons: - Highly flammable
 
 If you are looking forward to have a smooth metallic and golden finish for your surface, you are in the right place.
 
-So far this is the most ideal and the most sort after spray paint for a golden metallic finished surfaces. This spray paint has very strong adhesion and sticks properly to any surface applied. The good thing about this paint is that it can be applied to all surfaces and works well. Among the surfaces including but not limited to metals, [plastic surfaces](https://pestpolicy.com/best-spray-paints-for-plastic/), ceramics, paper potteries among others.
+So far this is the most ideal and the most sort after spray paint for a golden metallic finished surfaces. This spray paint has very strong adhesion and sticks properly to any surface applied. The good thing about this paint is that it can be applied to all surfaces and works well. Among the surfaces including but not limited to metals, [plastic surfaces](https://pestpolicy.com/best-spray-paints-for-plastic/),ceramics, paper potteries among others.
 
 It is also necessary to note, that this paint is very flammable when subjected to pressure and necessary caution should be taken. You can get this spray in a variety of colors and choose from among them depending on the surface and your target. Unfortunately, this paint easily flake off and a topcoat is very necessary. If available, a sealant would be the most convenient to prevent the flaking off.
 
@@ -82,7 +82,7 @@ From the color master, you get a gloss, prime, a satin, or a semi-gloss finish a
 
 Luckily, you can also combine these colors to achieve any of your desired choices.
 
-Every spray comes packaged in a 12oz can each designed with EZ touch tips that control [any form of spillage](https://www.valsparpaint. ca/en/how-to/exterior/helpful-info/cleaning-spills. html). ColorMaster saves your time and dries to touch within 10 minutes of application. And in case of a recoat, it can be applied immediately and still achieve a smooth surface.
+Every spray comes packaged in a 12oz can each designed with EZ touch tips that control [any form of spillage](https://www.valsparpaint.ca/en/how-to/exterior/helpful-info/cleaning-spills.html).ColorMaster saves your time and dries to touch within 10 minutes of application. And in case of a recoat, it can be applied immediately and still achieve a smooth surface.
 
 Additionally, you can use on both on interior and exterior surfaces and gives long lasting covermax technology Pros: - Come in a variety of colors - Fast drying - Can be used both indoor and outdoor - Can be used on multiple surfaces - Gives a durable finish
 
@@ -108,11 +108,11 @@ Cons: - Not suitable on water-exposed surfaces
 
 Krylon K05549007 ColorMaxx is one of the best spray paint available in the market.
 
-Although not directly recommended for glass, this spray paint has strong adherent on glass windows and doors and other surfaces such as [metallic spray paint](https://pestpolicy.com/best-spray-paint-for-metal/), wood, plastics, metals, plasters. Additionally, it acts both as a paint and a primer on these surfaces especially if you are into DIY projects this spray paintwork a great deal for you.
+Although not directly recommended for glass, this spray paint has strong adherent on glass windows and doors and other surfaces such as [metallic spray paint](https://pestpolicy.com/best-spray-paint-for-metal/),wood, plastics, metals, plasters. Additionally, it acts both as a paint and a primer on these surfaces especially if you are into DIY projects this spray paintwork a great deal for you.
 
-With Krylon K05549007 ColorMaxx you get a durable painted surface and with a light blue matte finish. You can use this paint on your windows to create a translucent surface for decoration and privacy purposes - you can scrub and remover paint in the [microfiber cleaning](https://www.realsimple. com/home-organizing/cleaning/best-microfiber-towels).
+With Krylon K05549007 ColorMaxx you get a durable painted surface and with a light blue matte finish. You can use this paint on your windows to create a translucent surface for decoration and privacy purposes - you can scrub and remover paint in the [microfiber cleaning](https://www.realsimple.com/home-organizing/cleaning/best-microfiber-towels).
 
-It takes 20 minutes to dry and touch the surface and your window is ready for recoat after 4 hours but the most recommended time for recoat is after 48 hours. Equally, you can get this spray in variety of colors depending on your target with a can of 12oz covering 25 square ft. Pros: - Fast drying - Can be used on multiple surfaces - Durable - Comes in multiple colors -[DIY tips](https://blog.nationwide. com/diy-interior-painting-tips/).
+It takes 20 minutes to dry and touch the surface and your window is ready for recoat after 4 hours but the most recommended time for recoat is after 48 hours. Equally, you can get this spray in variety of colors depending on your target with a can of 12oz covering 25 square ft. Pros: - Fast drying - Can be used on multiple surfaces - Durable - Comes in multiple colors -[DIY tips](https://blog.nationwide.com/diy-interior-painting-tips/).
 
 Cons: - Its very expensive
 

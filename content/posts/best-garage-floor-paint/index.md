@@ -14,7 +14,7 @@ tags:
 layout: post
 ---
 
-Choosing the best [garage](https://pestpolicy.com/best-garage-floor-containment-mats/) floor [paint](https://pestpolicy.com/best-paint-for-metal-garage-door/) is a critical task that should not be taken lightly because of the unique nature of this facility's services.
+Choosing the best [garage](https://pestpolicy.com/best-garage-floor-containment-mats/)floor [paint](https://pestpolicy.com/best-paint-for-metal-garage-door/)is a critical task that should not be taken lightly because of the unique nature of this facility's services.
 
 Remember that a garage does not only store family vehicles but also provides a place for minor repairs. Good garage floor paint must bear the car weight and resist scratches and chemical pollution as well.
 

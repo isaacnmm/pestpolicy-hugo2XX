@@ -19,13 +19,13 @@ Hey Pet Lovers & Pet Parents,
 
 Maybe you know that borax (sodium borate) is as a cleaner and antiseptic. Also, it's used in toothpastes, water softener, pesticide, and mouthwashes.
 
-Well, recently, we discussed how borax can be used as a flea killer around the house. But how safe is it around [dogs](https://pestpolicy.com/is-borax-safe-for-dogs/) and cats. **Is borax safe for cats? ** **Yes and No.
+Well, recently, we discussed how borax can be used as a flea killer around the house. But how safe is it around [dogs](https://pestpolicy.com/is-borax-safe-for-dogs/)and cats. **Is borax safe for cats? ** **Yes and No.
 
 ** **Cats, and kittens are more sensitive to the toxicity of borax than humans are - and if your cat ingests a large amount (5 grams and above), it damages their internal organs and skin which can cause poisoning, breathlessness, allergies, and death.
 
 ** - **Moreover, inhaling sodium borate powder can inflame or irritate the respiratory system's mucous membrane. ** - **Normally, dogs and cats do not lick sodium borate. But if they have it on their paws, they may lick it. **
 
-- [Borax](https://pestpolicy.com/borax-flea-killer/) and boric acid are considered safer pesticides in comparison to other chemicals in killing fleas, ants, roaches, and fleas. - The 20 Mule-Team Borax is one of the borax-based cleaning products. However, borax is safe for cats if ingested in small and EPA-approved amounts.
+- [Borax](https://pestpolicy.com/borax-flea-killer/)and boric acid are considered safer pesticides in comparison to other chemicals in killing fleas, ants, roaches, and fleas. - The 20 Mule-Team Borax is one of the borax-based cleaning products. However, borax is safe for cats if ingested in small and EPA-approved amounts.
 
 ##  Is Borax Safe for Cats? Borax for Fleas
 
@@ -73,7 +73,7 @@ Borax also doesn't work well on hard surfaces and has no residual effect which m
 
 Remember to wash them after they have been outside because fleas and ticks are attracted to their blood which means they could potentially come back inside with them from areas where there's an infestation.
 
-Borax is safe for cats plus another small pest if used as intended. Always go for brands and quantities that are [EPA-registered](https://www3.epa. gov/pesticides/chem_search/reg_actions/reregistration/fs_PC-011001_1-Sep-93. pdf) for your intended use to reduce chances of toxicity.
+Borax is safe for cats plus another small pest if used as intended. Always go for brands and quantities that are [EPA-registered](https://www3.epa.gov/pesticides/chem_search/reg_actions/reregistration/fs_PC-011001_1-Sep-93.pdf)for your intended use to reduce chances of toxicity.
 
 If you are trying to control fleas in your cat, fill borax into crevices, cracks, and carpet and leave it there for around 24 hours before vacuuming it. Don't put the borax powder directly on your cat's.
 

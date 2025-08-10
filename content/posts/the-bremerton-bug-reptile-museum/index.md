@@ -17,7 +17,7 @@ tags:
 layout: post
 ---
 
-Nestled in the heart of picturesque Bremerton, Washington, The Bremerton [Bug](https://pestpolicy.com/bed-bug-bites-vs-mosquito-bites/) & Reptile Museum [stands as a beacon](https://www.bugmuseum. com/) for adventurers, nature enthusiasts, and curious minds alike.
+Nestled in the heart of picturesque Bremerton, Washington, The Bremerton [Bug](https://pestpolicy.com/bed-bug-bites-vs-mosquito-bites/)& Reptile Museum [stands as a beacon](https://www.bugmuseum.com/)for adventurers, nature enthusiasts, and curious minds alike.
 
 More than just a museum, it is a sprawling sanctuary that invites visitors to delve deep into the mesmerizing world of insects, reptiles, and arachnids.
 

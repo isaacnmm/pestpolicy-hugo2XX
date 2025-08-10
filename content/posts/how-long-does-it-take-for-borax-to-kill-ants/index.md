@@ -17,7 +17,7 @@ layout: post
 
 Usually, the first line of defense against ants is some sort of poison that will kill them and keep them from coming back.
 
-But you can also make an ant trap with borax, or you could use some bait like sugar and honey. So, how long does it take for [borax to work](https://www.wikihow. com/Kill-Ants-Using-Borax)?
+But you can also make an ant trap with borax, or you could use some bait like sugar and honey. So, how long does it take for [borax to work](https://www.wikihow.com/Kill-Ants-Using-Borax)?
 
 Some people prefer Borax Flea Killer for its natural properties. How long does it take for borax to kill ants? - **Simple answer, 24-48 hours. The ****ingredient in the borax ****bait damages the ants' digestive system and it'll kill the ant in ****24-48 hours****. ** - **Borax is an effective ant poison is because it takes a long time for the chemicals in the borax to kill ants.
 
@@ -35,7 +35,7 @@ Related: Bed Bugs vs. Ants
 
 People often wonder if sprinkling borax on their lawn will get rid of ants. Sprinkle the borax powder around your yard, near ant mounds and other places where ants are. - Sprinkle borax or mix honey in the mixture with borax and then sprinkle in places where ants will find it. - Sprinkling borax may be a quick fix for ants but when sprinkled on the ground, it can also kill grass and plants.
 
-*Entry points for ants include; * - Utility Lines - Flooring Holes - Doors and windows - Exhaust Fans and Dryer Vents - Foundation Gaps - Wall cracks Related: [is borax safe for dogs](https://pestpolicy.com/is-borax-safe-for-dogs/) There are a few signs that can help you determine whether or not ants have invaded your home. 1. Look for ant mounds: Ants will make small, dome-shaped hills out of the dirt in order to live.
+*Entry points for ants include; * - Utility Lines - Flooring Holes - Doors and windows - Exhaust Fans and Dryer Vents - Foundation Gaps - Wall cracks Related: [is borax safe for dogs](https://pestpolicy.com/is-borax-safe-for-dogs/)There are a few signs that can help you determine whether or not ants have invaded your home. 1. Look for ant mounds: Ants will make small, dome-shaped hills out of the dirt in order to live.
 
 As time goes on these mounds become more frequent and larger; they may also be close together as the colony grows over time. 2. Look for ant trails: If you see long lines of tiny insects wandering aimlessly around your house then that's a big sign an infestation is underway - and something needs to be done!
 

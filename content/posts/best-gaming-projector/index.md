@@ -48,7 +48,7 @@ Optoma HD142 XE has better picture quality compared to both BenQ HT2150ST and Vi
 
 - HD142 has a manual zoom to enable easier positioning but will show a narrow range ad lacks the lens shift.
 
-- However, the device will not act like a short-throw projector, and thus you should consider other options such as BenQ HT2150ST and Viewsonic PJD7828HDL for such capability. For a 3D display, you should buy the [3D glasses](https://www.amazon. com/dp/B00KUIYUP8/? tag=p-policy-20) on Amazon as the device has a DLP Link that will be compatible with many glasses. Read Also: [Ergonomic Sofa](https://pestpolicy.com/best-ergonomic-sofa/)
+- However, the device will not act like a short-throw projector, and thus you should consider other options such as BenQ HT2150ST and Viewsonic PJD7828HDL for such capability. For a 3D display, you should buy the [3D glasses](https://www.amazon.com/dp/B00KUIYUP8/?tag=p-policy-20)on Amazon as the device has a DLP Link that will be compatible with many glasses. Read Also: [Ergonomic Sofa](https://pestpolicy.com/best-ergonomic-sofa/)
 
 ###  [5. Epson Home Cinema 2040](https://www.amazon.com/dp/B014D7XHDC/?tag=p-policy-20)
 

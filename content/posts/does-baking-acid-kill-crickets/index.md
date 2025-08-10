@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 
-Are you troubled by the constant chirping of crickets in your home and wondering if [baking](https://pestpolicy.com/does-baking-soda-kill-bed-bugs/) acid can put an end to their symphony? Well, you're in the right place. We've done the research for you, so let's dive into the science behind whether baking acid can effectively eliminate [crickets](https://pestpolicy.com/does-vinegar-kill-crickets/) from your space.
+Are you troubled by the constant chirping of crickets in your home and wondering if [baking](https://pestpolicy.com/does-baking-soda-kill-bed-bugs/)acid can put an end to their symphony? Well, you're in the right place. We've done the research for you, so let's dive into the science behind whether baking acid can effectively eliminate [crickets](https://pestpolicy.com/does-vinegar-kill-crickets/)from your space.
 
 *The Answer: In simple terms, baking acid, commonly known as boric acid, can indeed be an effective solution for getting rid of crickets. Boric acid is a naturally occurring substance that, when applied correctly, can disrupt the cricket's physiology and lead to its demise. It works by damaging the exoskeleton of the crickets, leading to dehydration and ultimately death.
 

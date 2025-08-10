@@ -15,11 +15,11 @@ tags:
 layout: post
 ---
 
-It's hard to spot [fleas](https://pestpolicy.com/how-to-get-rid-of-flea-eggs-on-cats/) in the carpet fibers, and many treatments [can't reach deep down](https://entomology.ca. uky. edu/ef602) where they hide.
+It's hard to spot [fleas](https://pestpolicy.com/how-to-get-rid-of-flea-eggs-on-cats/)in the carpet fibers, and many treatments [can't reach deep down](https://entomology.ca.uky.edu/ef602)where they hide.
 
 So, if you're looking for effective ways of getting rid of fleas in the carpet - we've got lots of ideas! Maybe it's through vacuuming or steam cleaning?
 
-In this PestPolicy guide, this is what I'll be exploring: - How do fleas end up in your carpet? - How long do fleas live in carpets? - What Should I Do with [Flea](https://pestpolicy.com/how-to-get-rid-of-fleas/)-Infested Furniture and Carpet? - 3 steps to getting rid of fleas in the carpet - fastest way - What Can I Use for Fleas on my Furniture?
+In this PestPolicy guide, this is what I'll be exploring: - How do fleas end up in your carpet? - How long do fleas live in carpets? - What Should I Do with [Flea](https://pestpolicy.com/how-to-get-rid-of-fleas/)-InfestedFurniture and Carpet? - 3 steps to getting rid of fleas in the carpet - fastest way - What Can I Use for Fleas on my Furniture?
 
 ##  How do fleas end up in your carpet?
 

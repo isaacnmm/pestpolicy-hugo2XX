@@ -14,7 +14,7 @@ tags:
 layout: post
 ---
 
-Whats the [best](https://pestpolicy.com/best-acoustic-guitar-for-small-hands/) [belt sander](http://web.mit. edu/course/other/machineshop/BeltSander/) for the deck? Choosing the right sander is essential when you are dealing with a large volume of wood. Additionally, although bridges are built out of highly durable woods, they need to be sanded diligently.
+Whats the [best](https://pestpolicy.com/best-acoustic-guitar-for-small-hands/)[belt sander](http://web.mit.edu/course/other/machineshop/BeltSander/)for the deck? Choosing the right sander is essential when you are dealing with a large volume of wood. Additionally, although bridges are built out of highly durable woods, they need to be sanded diligently.
 
 If you are a DIYer looking to refinish that aging deck in the backyard, you need the sander to achieve a clean look. What about the length and width of the sanding platform? If you are looking for more precision, the ideal pick should feature a shorter and narrower belt.
 

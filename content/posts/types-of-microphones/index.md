@@ -21,9 +21,9 @@ In this **complete guide**, well break down the **5 main types of microphones**,
 
 ##  **How Do Microphones Work? (An Overview)**
 
-Before diving into [microphone](https://pestpolicy.com/microphone-polar-patterns/) types, its helpful to understand how they capture sound. All microphones convert **sound waves into electrical signals**, but they do so in different ways: - **Dynamic Mics: **Use a moving coil in a magnetic field (durable, great for loud sounds). - **Condenser Mics: **Use a charged diaphragm for high sensitivity (ideal for studio recordings).
+Before diving into [microphone](https://pestpolicy.com/microphone-polar-patterns/)types, its helpful to understand how they capture sound. All microphones convert **sound waves into electrical signals**, but they do so in different ways: - **Dynamic Mics: **Use a moving coil in a magnetic field (durable, great for loud sounds). - **Condenser Mics: **Use a charged diaphragm for high sensitivity (ideal for studio recordings).
 
-- **Ribbon Mics: **Use a thin metal ribbon for smooth, vintage sound (best for professional studios). - **Lavalier Mics: **Small clip-on mics for hands-free use (perfect for interviews & videos). - **Shotgun Mics: **Highly directional for focused sound capture (used in film & TV). Now, lets explore each [type](https://pestpolicy.com/different-types-of-gutters/) in detail.
+- **Ribbon Mics: **Use a thin metal ribbon for smooth, vintage sound (best for professional studios). - **Lavalier Mics: **Small clip-on mics for hands-free use (perfect for interviews & videos). - **Shotgun Mics: **Highly directional for focused sound capture (used in film & TV). Now, lets explore each [type](https://pestpolicy.com/different-types-of-gutters/)in detail.
 
 ##  **1. Dynamic Microphones: The Workhorse of Live Sound**
 
@@ -31,7 +31,7 @@ Before diving into [microphone](https://pestpolicy.com/microphone-polar-patterns
 
 ###  **How They Work:**
 
-[Dynamic mics](https://pestpolicy.com/best-dynamic-microphone-for-podcasting/) use a **moving coil** attached to a diaphragm inside a magnetic field. When sound hits the diaphragm, it moves the coil, generating an electrical signal.
+[Dynamic mics](https://pestpolicy.com/best-dynamic-microphone-for-podcasting/)use a **moving coil** attached to a diaphragm inside a magnetic field. When sound hits the diaphragm, it moves the coil, generating an electrical signal.
 
 ###  **Pros:**
 
@@ -71,7 +71,7 @@ Condenser mics use a **thin diaphragm** near a backplate, forming a capacitor. T
 
 ###  **How They Work:**
 
-Ribbon mics use a [**thin metal ribbon**](https://en.wikipedia. org/wiki/Ribbon_microphone) suspended in a magnetic field. They produce a warm, natural sound favored in professional studios.
+Ribbon mics use a [**thin metal ribbon**](https://en.wikipedia.org/wiki/Ribbon_microphone)suspended in a magnetic field. They produce a warm, natural sound favored in professional studios.
 
 ###  **Pros:**
 

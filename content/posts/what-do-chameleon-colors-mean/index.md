@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 
-Chameleons are famous for changing colors. Acoat of many colors is a story about a little girl who had a coat that was not just one [color](https://pestpolicy.com/paint-colors-to-brighten-a-dark-room/). She takes it to church with her and everyone admires the colors.
+Chameleons are famous for changing colors. Acoat of many colors is a story about a little girl who had a coat that was not just one [color](https://pestpolicy.com/paint-colors-to-brighten-a-dark-room/).She takes it to church with her and everyone admires the colors.
 
 That's a chameleon! Just like peacocks, a chameleon will change color depending on its mood changes, temperature, or body language.
 
@@ -75,7 +75,7 @@ Related: [How Lizards Mate](https://pestpolicy.com/how-do-lizards-mate/)
 
 When in shock or under attack, chameleons will show what is called fear colors which are usually darker colors like black.
 
-For example, your Veiled chameleons will change to [dark colors](https://animals.mom. me/identifying-veiled-chameleons-color-mood-5721. html) when it is under attack, or it's shocking or in defense.
+For example, your Veiled chameleons will change to [dark colors](https://animals.mom.me/identifying-veiled-chameleons-color-mood-5721.html)when it is under attack, or it's shocking or in defense.
 
 The color gets darker when the fear level intensifies. This is to help them blend better into their environment when under attack.
 

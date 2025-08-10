@@ -14,7 +14,7 @@ tags:
 layout: post
 ---
 
-When it comes to painting bathroom cabinets, you need a [paint](https://pestpolicy.com/what-kind-of-paint-can-be-used-on-concrete/) that can withstand humidity, moisture, and regular use. The right type of paint will not only make your cabinets look great but will also protect them from damage. Here are some of the best options for painting your bathroom cabinets:
+When it comes to painting bathroom cabinets, you need a [paint](https://pestpolicy.com/what-kind-of-paint-can-be-used-on-concrete/)that can withstand humidity, moisture, and regular use. The right type of paint will not only make your cabinets look great but will also protect them from damage. Here are some of the best options for painting your bathroom cabinets:
 
 ##  Best Paint Types for Bathroom Cabinets
 

@@ -30,7 +30,7 @@ Also, the JD-SWITCH capability will enable you to switch the Left-Stick and the 
 
 ###  Responsive buttons
 
-ZD-V+ USB controller has excellently responsive buttons but does not interestingly stick-like in other traditional [controllers](https://pestpolicy.com/best-controller-for-retropie/), and thus you can now achieve faster reaction time. It also has plastic grip holders which will allow the [controller](https://pestpolicy.com/best-controller-for-rocket-league/) to last long enough and hence offer value for money.
+ZD-V+ USB controller has excellently responsive buttons but does not interestingly stick-like in other traditional [controllers](https://pestpolicy.com/best-controller-for-retropie/),and thus you can now achieve faster reaction time. It also has plastic grip holders which will allow the [controller](https://pestpolicy.com/best-controller-for-rocket-league/)to last long enough and hence offer value for money.
 
 ###  Ergonomic and comfortable
 

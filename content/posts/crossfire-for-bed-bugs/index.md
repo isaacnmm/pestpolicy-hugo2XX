@@ -39,7 +39,7 @@ One quart of CrossFire goes a long way; I was able to treat my 1200 sq ft, three
 
 ###  **3. Launder Your Clothes Thoroughly **
 
-During the first 2-3 weeks, while you may still [see live bed bugs](https://pestpolicy.com/can-bed-bugs-live-in-carpet/), launder your bedclothes every three days and dry them on high heat. Keep your CrossFire spray handy in case you spot any bed bugs crawling around.
+During the first 2-3 weeks, while you may still [see live bed bugs](https://pestpolicy.com/can-bed-bugs-live-in-carpet/),launder your bedclothes every three days and dry them on high heat. Keep your CrossFire spray handy in case you spot any bed bugs crawling around.
 
 Vacuum your home daily, paying special attention to baseboards if you have carpeting. Immediately empty the vacuum, tie up the debris, and remove it from your home to ensure you kill even the [baby bed bugs](https://pestpolicy.com/baby-bed-bugs/).
 

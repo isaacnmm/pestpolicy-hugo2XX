@@ -14,7 +14,7 @@ tags:
 layout: post
 ---
 
-Are you wondering if it's safe to clean your HVLP (High Volume Low Pressure) spray gun with [acetone](https://pestpolicy.com/does-acetone-remove-paint/)? You've come to the right place! - In this article, we'll explore the topic of cleaning [HVLP](https://pestpolicy.com/how-to-use-an-hvlp-paint-sprayer/) guns with acetone and provide you with all the essential information you need to make an informed decision.
+Are you wondering if it's safe to clean your HVLP (High Volume Low Pressure) spray gun with [acetone](https://pestpolicy.com/does-acetone-remove-paint/)?You've come to the right place! - In this article, we'll explore the topic of cleaning [HVLP](https://pestpolicy.com/how-to-use-an-hvlp-paint-sprayer/)guns with acetone and provide you with all the essential information you need to make an informed decision.
 
 We've done the research for you, so let's delve into the details.
 
@@ -54,7 +54,7 @@ Yes, you can use acetone to clean the paint cup of your HVLP spray gun. Ensure y
 
 ###  *Question 3: How often should I clean my HVLP spray gun?*
 
-The frequency of cleaning your [HVLP spray gun](https://pestpolicy.com/best-hvlp-spray-gun-for-woodworking/) depends on how often you use it and the types of materials you spray. For regular users, it's advisable to perform a thorough cleaning after every painting session.
+The frequency of cleaning your [HVLP spray gun](https://pestpolicy.com/best-hvlp-spray-gun-for-woodworking/)depends on how often you use it and the types of materials you spray. For regular users, it's advisable to perform a thorough cleaning after every painting session.
 
 However, if you use the gun infrequently, you should still perform maintenance cleaning every few weeks or months, even if the gun has not been used extensively.
 

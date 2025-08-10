@@ -17,7 +17,7 @@ layout: post
 
 Summer times is the perfect time to relax at your balcony or backyard.
 
-Right? Well, it may not be that peaceful if you have wasps infestation in your home - its time to [control these wasps](https://extension.unh. edu/resources/files/Resource000532_Rep554. pdf).
+Right? Well, it may not be that peaceful if you have wasps infestation in your home - its time to [control these wasps](https://extension.unh.edu/resources/files/Resource000532_Rep554.pdf).
 
 Could be you have come across Fake Wasps Nests a perfect designed, non-toxic wasps trap that lure the wasps into death chamber. So, my question is, do fake wasps nests work? **Yes! Fake Wasps Nests are designed in a shape that resembles the own wasps made nest. The wasps are tricked to think that there are already existing wasps in the territory.
 
@@ -35,7 +35,7 @@ Importantly, the Fake Wasps Nest has a doom shaped interior that offers an ample
 
 The idea of trapping and killing wasps using Fake Wasps Nests is brilliant though highly affected by wasps behavior of life they prefer living in their own made wasps nest.
 
-##  What is a Fake [Wasp](https://pestpolicy.com/baby-wasp/) Nest?
+##  What is a Fake [Wasp](https://pestpolicy.com/baby-wasp/)Nest?
 
 Fake wasps nest is a product/repellent designed to fool the wasps into them. It resemble the actual wasps nest though the material used in making it may differ slightly.
 
@@ -165,5 +165,5 @@ Therefore, Fake Wasps Nests may not be the best option for wasps eradication. Yo
 
 ##  Sources:
 
-1. [How to Get Rid of a Wasp's Nest (with Pictures) - wikiHow](https://www.wikihow. com/Get-Rid-of-a-Wasp%27s-Nest) 2. [Signs of Wasp Nests Ehrlich Pest Control](https://www.jcehrlich. com/wasps/wasp-nest/)
+1. [How to Get Rid of a Wasp's Nest (with Pictures) - wikiHow](https://www.wikihow.com/Get-Rid-of-a-Wasp%27s-Nest)2. [Signs of Wasp Nests Ehrlich Pest Control](https://www.jcehrlich.com/wasps/wasp-nest/)
 

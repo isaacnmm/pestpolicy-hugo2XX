@@ -83,9 +83,9 @@ According to researchers, the black masks also help them to see more clearly. Th
 
 ##  Sources:
 
-1. [https://news.nationalgeographic. com/2018/06/raccoon-climbing-building-intelligence-facts-animals/](https://news.nationalgeographic. com/2018/06/raccoon-climbing-building-intelligence-facts-animals/) 2. [http://mentalfloss.com/article/527175/10-clever-facts-about-raccoons](http://mentalfloss.com/article/527175/10-clever-facts-about-raccoons) 3. [https://www.livescience. com/52655-raccoons. html](https://www.livescience.
+1. [https://news.nationalgeographic.com/2018/06/raccoon-climbing-building-intelligence-facts-animals/](https://news.nationalgeographic.com/2018/06/raccoon-climbing-building-intelligence-facts-animals/) 2. [http://mentalfloss.com/article/527175/10-clever-facts-about-raccoons](http://mentalfloss.com/article/527175/10-clever-facts-about-raccoons)3. [https://www.livescience.com/52655-raccoons. html](https://www.livescience.
 
-com/52655-raccoons. html) 4.
+com/52655-raccoons.html) 4.
 
-[http://www.havahart. com/raccoon-facts](http://www.havahart. com/raccoon-facts)
+[http://www.havahart.com/raccoon-facts](http://www.havahart.com/raccoon-facts)
 

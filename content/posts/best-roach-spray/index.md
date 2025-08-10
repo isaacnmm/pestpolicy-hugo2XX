@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 
-In this article, I will review the best roach sprays. [Cockroach](https://extension.umn. edu/insects-infest-homes/cockroaches) infestation in your house or compound can really be problematic if not attended.
+In this article, I will review the best roach sprays. [Cockroach](https://extension.umn.edu/insects-infest-homes/cockroaches)infestation in your house or compound can really be problematic if not attended.
 
 Cockroaches contaminate foodstuff by biting and feeding on them. They even defecate on your kitchen wear, furniture, and bedding, thus messing them. What Attracts cockroaches in your home? Cockroaches may be attracted in your Home by some of the following things: 1. Free Access to plenty of dirty dishes, improperly stored food, and water. 2. A lot of rubbish and dirty house/room (Poor sanitary conditions). 3. Improper housing. 4.
 
@@ -25,7 +25,7 @@ Stationaries such as unkempt books and papers. Read Also: Do Bed Bugs Jump?
 
 ##  Reviews: Top 7 Best Roach Sprays for 2025
 
-###  [1. Ortho 0196410 Cockroach [Spray](https://pestpolicy.com/best-spider-spray-for-indoors/) - #1 Pick](https://www.amazon.com/dp/B000CSSYYE/?tag=p-policy-20)
+###  [1. Ortho 0196410 Cockroach [Spray](https://pestpolicy.com/best-spider-spray-for-indoors/)- #1 Pick](https://www.amazon.com/dp/B000CSSYYE/?tag=p-policy-20)
 
 Ortho 0196410 is a fast-acting cockroach killer that will eliminates cockroach intrusion in a couple of minutes.
 

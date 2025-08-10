@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 
-[Fleas](https://pestpolicy.com/how-high-can-fleas-jump/) are generally parasites that [need a host to survive](https://www.ncbi. nlm. nih. gov/pmc/articles/PMC5734377/). But how long can fleas live without a host? Well, because of their thirst for blood and parasitic nature, they depend on the host most of their time. - **Fleas can survive for a period of 4-7 days without a host. But if you subject them to any longer than this, they will die.
+[Fleas](https://pestpolicy.com/how-high-can-fleas-jump/)are generally parasites that [need a host to survive](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5734377/).But how long can fleas live without a host? Well, because of their thirst for blood and parasitic nature, they depend on the host most of their time. - **Fleas can survive for a period of 4-7 days without a host. But if you subject them to any longer than this, they will die.
 
 ** - **Fleas have different stages of a life cycle but it is the adults that need the host more especially when laying eggs. Fleas can attach to many hosts, but their preferred hosts are the furry homes pets- cats and dogs. ** If you study the life cycle of a flea, you shall get the opportunity to learn and understand about the fleas and their host.
 
@@ -33,7 +33,7 @@ A flea has a life span of between 60-100 days. But they can live even for a whol
 
 ###  **Eggs **
 
-This is the first stage in a life cycle. A flea likes to lay its eggs on the host. Most of the preferred hosts are pets at home because their blood is nutritious and makes fleas lay more eggs. - When the pet is grooming or shaking, these eggs fall on the carpets, bedding, furniture, and any other surface The fertilized eggs hatch in a span of 2-12 days. From the [total flea population](https://pestpolicy.com/should-you-spray-your-yard-for-fleas/) in any house, the eggs comprise about 50-54%.
+This is the first stage in a life cycle. A flea likes to lay its eggs on the host. Most of the preferred hosts are pets at home because their blood is nutritious and makes fleas lay more eggs. - When the pet is grooming or shaking, these eggs fall on the carpets, bedding, furniture, and any other surface The fertilized eggs hatch in a span of 2-12 days. From the [total flea population](https://pestpolicy.com/should-you-spray-your-yard-for-fleas/)in any house, the eggs comprise about 50-54%.
 
 ###  **Larvae **
 

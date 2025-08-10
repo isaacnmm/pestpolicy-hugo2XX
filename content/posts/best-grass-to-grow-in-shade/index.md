@@ -24,7 +24,7 @@ However, a shady lawn doesn't have to be a lost cause. The key to success lies i
 
 While no grass can thrive in complete darkness, several species exhibit remarkable tolerance to partial or even significant shade, allowing you to cultivate a beautiful lawn where you once thought it impossible.
 
-This guide will delve into understanding the nuances of shade, explore the top grass types [best](https://pestpolicy.com/best-commercial-fertilizer-spreaders/) suited for low-light conditions, provide essential tips for establishing grass in shady areas, and offer crucial lawn care advice to ensure your shaded turf remains lush and resilient.
+This guide will delve into understanding the nuances of shade, explore the top grass types [best](https://pestpolicy.com/best-commercial-fertilizer-spreaders/)suited for low-light conditions, provide essential tips for establishing grass in shady areas, and offer crucial lawn care advice to ensure your shaded turf remains lush and resilient.
 
 ##  Understanding Shade in Your Lawn
 

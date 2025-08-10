@@ -16,7 +16,7 @@ tags:
 layout: post
 ---
 
-Beneath the lush green blades of a healthy [lawn](https://pestpolicy.com/10-essential-lawn-and-garden-tools-for-fall/) lies a hidden layer that can either contribute to its vitality or slowly stifle its growth: thatch. Thatch is a tightly interwoven layer of living and dead grass stems, roots, and organic debris that accumulates between the soil surface and the green canopy of your turf.
+Beneath the lush green blades of a healthy [lawn](https://pestpolicy.com/10-essential-lawn-and-garden-tools-for-fall/)lies a hidden layer that can either contribute to its vitality or slowly stifle its growth: thatch. Thatch is a tightly interwoven layer of living and dead grass stems, roots, and organic debris that accumulates between the soil surface and the green canopy of your turf.
 
 A thin layer (less than inch) can actually be beneficial, acting as a natural mulch that conserves moisture and insulates the soil. However, when thatch becomes too thick, it transforms from an asset into a detriment, creating a barrier that prevents essential elements from reaching the grass roots.
 

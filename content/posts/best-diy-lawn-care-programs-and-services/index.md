@@ -54,7 +54,7 @@ A DIY lawn care service is particularly worth it if you enjoy spending time outd
 ---
 By leveraging a DIY lawn care program, you can take control of your lawn's health, save money, and gain a deeper understanding of what it takes to cultivate a truly thriving outdoor space.
 
-Dreaming of a lush, green lawn but prefer to handle the maintenance yourself? [DIY](https://pestpolicy.com/diy-bed-bug-spray/) lawn care programs and subscription services offer a fantastic middle ground between hands-on gardening and hiring a professional. These services empower homeowners with customized plans, precisely timed product deliveries, and expert guidance, removing much of the guesswork from achieving a healthy yard.
+Dreaming of a lush, green lawn but prefer to handle the maintenance yourself? [DIY](https://pestpolicy.com/diy-bed-bug-spray/)lawn care programs and subscription services offer a fantastic middle ground between hands-on gardening and hiring a professional. These services empower homeowners with customized plans, precisely timed product deliveries, and expert guidance, removing much of the guesswork from achieving a healthy yard.
 
 Whether you're looking for all-natural solutions or comprehensive synthetic programs, there's a DIY option designed to simplify your lawn care routine and help you cultivate a vibrant outdoor space.
 

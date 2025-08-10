@@ -15,9 +15,9 @@ tags:
 layout: post
 ---
 
-In this post, Ive reviewed the best [raccoon](https://pestpolicy.com/best-raccoon-bait/) traps and cages available today. My key considerations are that the traps must be safe to the non-target animals and equally humane for raccoons.
+In this post, Ive reviewed the best [raccoon](https://pestpolicy.com/best-raccoon-bait/)traps and cages available today. My key considerations are that the traps must be safe to the non-target animals and equally humane for raccoons.
 
-I'll discuss how to bait your raccoon [trap](https://pestpolicy.com/best-spider-traps/). Also, we'll learn the laws, regulations, and rules that affect raccoon trapping. Related: how to trap raccoons. Professional raccoon exterminators recommend getting a trap that has a length ranging from 32 to 42 inches stops animals from stealing the trap bait.
+I'll discuss how to bait your raccoon [trap](https://pestpolicy.com/best-spider-traps/).Also, we'll learn the laws, regulations, and rules that affect raccoon trapping. Related: how to trap raccoons. Professional raccoon exterminators recommend getting a trap that has a length ranging from 32 to 42 inches stops animals from stealing the trap bait.
 
 ##  Reviews: Top 7 Best Raccoon Traps in 2025
 
@@ -85,5 +85,5 @@ You can reuse this Havahart 1045 trap without requiring to replace any of its pa
 
 ##  Sources:
 
-1. [It's a trap: Optimizing the detection of rare small mammals - NCBI](https://www.ncbi. nlm. nih. gov/pmc/articles/PMC6400386/) 2. [Progress towards Bait Station Integration into Oral Rabies - NCBI](https://www.ncbi. nlm. nih. gov/pmc/articles/PMC6082100/) 3. [Raccoon Social Networks and the Potential for Disease - NCBI](https://www.ncbi. nlm. nih. gov/pmc/articles/PMC3794951/)
+1. [It's a trap: Optimizing the detection of rare small mammals - NCBI](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6400386/)2. [Progress towards Bait Station Integration into Oral Rabies - NCBI](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6082100/)3. [Raccoon Social Networks and the Potential for Disease - NCBI](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3794951/)
 

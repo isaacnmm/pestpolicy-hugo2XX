@@ -16,7 +16,7 @@ tags:
 layout: post
 ---
 
-For decades, roses were synonymous with high-maintenance gardening requiring meticulous pruning, constant vigilance against pests and diseases, and often complex winter protection. Then came the **Knock [Out](https://pestpolicy.com/when-do-mosquitoes-come-out/) Rose**. Introduced in 2000, this groundbreaking series revolutionized rose cultivation, making the beauty and fragrance of roses accessible to even the most novice gardeners.
+For decades, roses were synonymous with high-maintenance gardening requiring meticulous pruning, constant vigilance against pests and diseases, and often complex winter protection. Then came the **Knock [Out](https://pestpolicy.com/when-do-mosquitoes-come-out/)Rose**. Introduced in 2000, this groundbreaking series revolutionized rose cultivation, making the beauty and fragrance of roses accessible to even the most novice gardeners.
 
 Known for their exceptional disease resistance, continuous blooming, and impressive hardiness, Knock Out Roses live up to their name by virtually eliminating the common frustrations associated with traditional roses.
 

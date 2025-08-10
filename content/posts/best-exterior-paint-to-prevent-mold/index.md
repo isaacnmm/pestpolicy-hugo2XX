@@ -14,7 +14,7 @@ tags:
 layout: post
 ---
 
-Whats the best [exterior](https://pestpolicy.com/best-exterior-primer-paint/) paint to prevent mold? Exterior paints must withstand harsh environmental conditions mud, wind, snow, and sun. besides the requirement to have great color and high durability.
+Whats the best [exterior](https://pestpolicy.com/best-exterior-primer-paint/)paint to prevent mold? Exterior paints must withstand harsh environmental conditions mud, wind, snow, and sun. besides the requirement to have great color and high durability.
 
 So, get the best mold-killing primers that have excellent antimicrobial properties to prevent the build-up and growth of mildew and mold blotches which may damage the houses' walls. But for starters, latex exterior paints (check latex paint sprayers ) will a great pick for outdoor painting such as trim and house walls. Latex paints will contract and expand with temperature changes.
 
@@ -76,7 +76,7 @@ Cons: - Expensive
 
 ###  [4. Rust-Oleum 1990502 Exterior Paint (Flat White - Painters Touch Latex)](https://www.amazon.com/dp/B000H5VKBQ/?tag=p-policy-20)
 
-Rust-Oleum 1990502 is made from different outdoor and indoor surfaces including your regular canvas, metal, treated wood (check [stains for pressure-treated wood](https://pestpolicy.com/best-deck-stain-for-pressure-treated-wood/) ), and ceramic.
+Rust-Oleum 1990502 is made from different outdoor and indoor surfaces including your regular canvas, metal, treated wood (check [stains for pressure-treated wood](https://pestpolicy.com/best-deck-stain-for-pressure-treated-wood/)), and ceramic.
 
 Also, it has an adhesive and hence won't require primer or prep layer to attack to outdoor structures and walls of your house. Rust-Oleum 1990502 is easy to use and will dry ready to use and touch in just about 30 minutes - therefore, it won't lead to excessive wet or leaving bad odor (check how to remove spray paint smell ) - its a semi-latex-based and thus you can simply use soap and water as opposed to professional cleaners.
 

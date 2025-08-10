@@ -14,7 +14,7 @@ tags:
 layout: post
 ---
 
-To save time and money using a roller as compared to brush on emulsion paints is recommended. But, for the best results, you need to select the best [paint](https://pestpolicy.com/best-paint-roller-for-smooth-finish/) rollers for emulsion available in the market.
+To save time and money using a roller as compared to brush on emulsion paints is recommended. But, for the best results, you need to select the best [paint](https://pestpolicy.com/best-paint-roller-for-smooth-finish/)rollers for emulsion available in the market.
 
 Besides considering the type of surface being painted, painting material, there are also different sizes and types of rollers available in the market. Failure to identify the right rollers for your job could lead you to incur losses and having a poorly done job. See Also: Paint roller for textured walls.
 
@@ -38,7 +38,7 @@ Cons: - Cannot be used on tough surfaces
 
 Pro Grade Quality rollers area true definition of a quality brand. They ensure excellent coverage on your surface with an even finish for a professional painter or those into DIY projects.
 
-Whether your surface is semi-smooth or smooth you can trust this roller to deliver on ceilings (including [popcorn ceiling](https://pestpolicy.com/best-paint-roller-for-popcorn-ceiling/) ) or walls on both exterior and interior surfaces. Designed with microfiber, the rollers have a shed-resistant technique that allows them to give a smooth finish.
+Whether your surface is semi-smooth or smooth you can trust this roller to deliver on ceilings (including [popcorn ceiling](https://pestpolicy.com/best-paint-roller-for-popcorn-ceiling/)) or walls on both exterior and interior surfaces. Designed with microfiber, the rollers have a shed-resistant technique that allows them to give a smooth finish.
 
 The rollers are also highly absorbent and can be used to quickly apply paint faster than most rollers, therefore, saving you time.
 

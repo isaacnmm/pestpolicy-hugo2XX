@@ -54,7 +54,7 @@ In addition to the Stroke element, the flashlight has five varied brightness lev
 
 ###  [4. Tactical Knife](https://www.amazon.com/gp/product/B003D7K07K/?tag=p-policy-20)
 
-A tactical knife will be an excellent self-defense weapon for you at the home, office, or outdoors. First, according to a Police-Policy Council [Study](http://www.theppsc. org/Staff_Views/Tueller/How. Close. htm), a tactical knife will be highly helpful than a gun when your target is within 20 feet from you.
+A tactical knife will be an excellent self-defense weapon for you at the home, office, or outdoors. First, according to a Police-Policy Council [Study](http://www.theppsc.org/Staff_Views/Tueller/How.Close.htm),a tactical knife will be highly helpful than a gun when your target is within 20 feet from you.
 
 In the current time, when most have adopted a more minimalistic life, I am sure youll love a weapon (the tactical knife) that serves more than one purpose in your outdoor activities.
 

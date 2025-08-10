@@ -16,13 +16,13 @@ layout: post
 
 In this post, I've reviewed the best bass octave pedals below. A bass octave pedal functions by creating a blended signal based on the original analog input.
 
-As a result, you can easily switch up your [guitar](https://pestpolicy.com/best-delay-pedals-for-guitar/) sounds, hence introducing a new octave to your music notes, thus captivate the audience. ***Summary: ** I recommend either this Boss OC-3 or the MXR M288 as your best bass octave pedals. The two models will help you increase your guitars functionality or explore techniques to develop new tones and sounds.
+As a result, you can easily switch up your [guitar](https://pestpolicy.com/best-delay-pedals-for-guitar/)sounds, hence introducing a new octave to your music notes, thus captivate the audience. ***Summary: ** I recommend either this Boss OC-3 or the MXR M288 as your best bass octave pedals. The two models will help you increase your guitars functionality or explore techniques to develop new tones and sounds.
 
 * Related: 7 Best Mics for Recording Acoustic Guitar
 
 ##  **Reviews: 7 Best Bass Octave Pedals 2025 **
 
-###  **1. BOSS OC-3 Super Octave [Pedal](https://pestpolicy.com/best-bass-compressor-pedal/) for Guitar or Bass Bundle - Our Top Pick**
+###  **1. BOSS OC-3 Super Octave [Pedal](https://pestpolicy.com/best-bass-compressor-pedal/)for Guitar or Bass Bundle - Our Top Pick**
 
 Well kickstart with this amazing and versatile OC-3 octave pedal that operates as a guitar and bass at the same time. This is one of a kind pedal that allows both the guitar and the bass and with separate responses for the two instruments.
 

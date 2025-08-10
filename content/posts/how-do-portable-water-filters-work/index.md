@@ -14,9 +14,9 @@ tags:
 layout: post
 ---
 
-How do [portable](https://pestpolicy.com/best-portable-air-compressor-for-jeep/) [water](https://pestpolicy.com/best-water-tables-for-1-year-old/) filters work? You can make your water potable or drinkable.
+How do [portable](https://pestpolicy.com/best-portable-air-compressor-for-jeep/)[water](https://pestpolicy.com/best-water-tables-for-1-year-old/) filters work? You can make your water potable or drinkable.
 
-The methods include water treatment and water filtering including [emergency water purifiers](https://upurifywater.com/best-portable-water-purifier/) to use during camping or exploration missions. Water purification will involve passing the water via filters (make from fiberglass or ceramic) that'll remove the soil sediments and other bad microorganisms.
+The methods include water treatment and water filtering including [emergency water purifiers](https://upurifywater.com/best-portable-water-purifier/)to use during camping or exploration missions. Water purification will involve passing the water via filters (make from fiberglass or ceramic) that'll remove the soil sediments and other bad microorganisms.
 
 ##  How Do Portable Water Filters Work?
 
@@ -34,7 +34,7 @@ Squeeze filters work akin to the pump filters but won't need additional housing 
 
 ###  **2. Pump Filters**
 
-[Pump water filters](https://ufonline.ufl. edu/infographics/five-water-purification-designs/) will utilize your body's energy for pumping out water via the filter. These are excellent for quick water filtration like when you're on camping or exploration missions.
+[Pump water filters](https://ufonline.ufl.edu/infographics/five-water-purification-designs/)will utilize your body's energy for pumping out water via the filter. These are excellent for quick water filtration like when you're on camping or exploration missions.
 
 Considering your pumping energy - you can get clean and safe water within a very short time - buts its filters will age fast and it requires high amounts of energy for the pumping process.
 

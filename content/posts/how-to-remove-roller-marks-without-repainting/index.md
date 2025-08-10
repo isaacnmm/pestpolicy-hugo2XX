@@ -14,7 +14,7 @@ tags:
 layout: post
 ---
 
-[Roller](https://pestpolicy.com/best-paint-roller-for-ceilings/) marks on painted walls can be frustrating, but the good news is, you don't always need to repaint the entire wall to fix them. Here's how to remove roller marks and achieve a smooth, flawless finish without starting over.
+[Roller](https://pestpolicy.com/best-paint-roller-for-ceilings/)marks on painted walls can be frustrating, but the good news is, you don't always need to repaint the entire wall to fix them. Here's how to remove roller marks and achieve a smooth, flawless finish without starting over.
 
 ###  1. Assess the Marks
 

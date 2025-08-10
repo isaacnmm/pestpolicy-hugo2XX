@@ -15,13 +15,13 @@ tags:
 layout: post
 ---
 
-The Absorbine UltraShield EX contains 1. 00% piperonyl butoxide, 0. 10% pyrethrins, and 0. 50% permethrin as its active ingredients - and it's one of the [best fly sprays for horses](https://pestpolicy.com/best-fly-spray-for-horses/). Initial pros to note about this fly control product for your horse is that its sweat-resistant and weatherproof thus will work great both for outdoors and indoors horse fly control.
+The Absorbine UltraShield EX contains 1. 00% piperonyl butoxide, 0. 10% pyrethrins, and 0. 50% permethrin as its active ingredients - and it's one of the [best fly sprays for horses](https://pestpolicy.com/best-fly-spray-for-horses/).Initial pros to note about this fly control product for your horse is that its sweat-resistant and weatherproof thus will work great both for outdoors and indoors horse fly control.
 
 Absorbine was developed by Mary Ida Young, a horse enthusiast and an herbalist and gardener, who aimed to use more humane and less painful treatment methods on her horses. Therefore, Mary developed Absorbine in 1892, suing various herbal and natural ingredients, which has over the years to be a trusted brand for horse fly control.
 
 ##  **Sweat-resistant and weatherproof **
 
-Absorbine Ultrashield EX is among the top horse fly repellent you can find in the market today. As noted above, this [horse fly](https://en.wikipedia. org/wiki/Horse-fly) spray is both sweat-resistant and weatherproof, and hence your horse will be protected against [flies](https://pestpolicy.com/best-electric-fly-swatter/) even during rains or sunshine.
+Absorbine Ultrashield EX is among the top horse fly repellent you can find in the market today. As noted above, this [horse fly](https://en.wikipedia.org/wiki/Horse-fly)spray is both sweat-resistant and weatherproof, and hence your horse will be protected against [flies](https://pestpolicy.com/best-electric-fly-swatter/)even during rains or sunshine.
 
 The formula will stick on your horses skin and wont thus dislodge easily being active for about 17 days.
 
@@ -39,7 +39,7 @@ Luckily, you can also spray the product on the dogs and horses stalls or bedding
 
 Being sweat-proof and weatherproof, this Absorbine UltraShield EX will provide more extended protection to your horse as it remains on the animals coat without the ease of dislodging due to sweat or weather factors such as rain. 4.
 
-In addition to being [useful in killing](https://pestpolicy.com/does-bleach-kill-bed-bugs/) and repelling insects in horses, its also great in dogs. Even it can kill and repel mosquitoes and ticks.
+In addition to being [useful in killing](https://pestpolicy.com/does-bleach-kill-bed-bugs/)and repelling insects in horses, its also great in dogs. Even it can kill and repel mosquitoes and ticks.
 
 ##  Cons about Absorbine UltraShield EX
 

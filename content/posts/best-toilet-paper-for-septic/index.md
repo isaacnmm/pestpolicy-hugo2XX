@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 
-Some toilet papers are low quality, non-biodegradable, and may end up clogging your toilets/[drains](https://digitalcommons.wpi. edu/mqp-all/2416/) or even block the sewer and septic system. - Maybe your home septic and drain are clogged, and you suspect it could result from [toilet](https://pestpolicy.com/how-to-unclog-a-toilet-without-a-plunger/) paper - you can use[drain cleaners](https://pestpolicy.com/best-drain-cleaner//).
+Some toilet papers are low quality, non-biodegradable, and may end up clogging your toilets/[drains](https://digitalcommons.wpi.edu/mqp-all/2416/)or even block the sewer and septic system. - Maybe your home septic and drain are clogged, and you suspect it could result from [toilet](https://pestpolicy.com/how-to-unclog-a-toilet-without-a-plunger/)paper - you can use[drain cleaners](https://pestpolicy.com/best-drain-cleaner//).
 
 - Such problems arise in many homes day by day.
 

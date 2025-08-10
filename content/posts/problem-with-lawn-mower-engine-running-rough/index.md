@@ -15,13 +15,13 @@ tags:
 layout: post
 ---
 
-Few things are more frustrating on a beautiful mowing day than a lawn [mower](https://pestpolicy.com/lawn-mower-safety-for-your-home/) engine that won't cooperate. Instead of a steady, powerful hum, you might hear sputtering, surging, dying, or just a general lack of smooth operation commonly described as "running rough. "
+Few things are more frustrating on a beautiful mowing day than a lawn [mower](https://pestpolicy.com/lawn-mower-safety-for-your-home/)engine that won't cooperate. Instead of a steady, powerful hum, you might hear sputtering, surging, dying, or just a general lack of smooth operation commonly described as "running rough. "
 
 This issue isn't just annoying; it can lead to an uneven cut, wasted fuel, and can indicate a deeper problem that, if left unaddressed, could cause more significant damage to your mower.
 
 A rough-running engine usually points to one or more components of the **"Holy Trinity"** of engine operation: **fuel, air, and spark**. If any of these three elements are out of balance or contaminated, your engine will show it.
 
-This guide will walk you through the most common culprits behind a rough-running [lawn](https://pestpolicy.com/10-essential-lawn-and-garden-tools-for-fall/) mower engine, along with practical troubleshooting steps you can take to get your machine back to peak performance.
+This guide will walk you through the most common culprits behind a rough-running [lawn](https://pestpolicy.com/10-essential-lawn-and-garden-tools-for-fall/)mower engine, along with practical troubleshooting steps you can take to get your machine back to peak performance.
 
 ##  1. Fuel System Issues: The Most Common Culprit
 

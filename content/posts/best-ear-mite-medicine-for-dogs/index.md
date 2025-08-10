@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 
-Are you be looking for the best [ear](https://pestpolicy.com/best-medicine-for-ear-mites-in-cats/) [mite](https://pestpolicy.com/do-dust-mites-bite/) medicine for dogs? Definitely, Ill help with that!
+Are you be looking for the best [ear](https://pestpolicy.com/best-medicine-for-ear-mites-in-cats/)[mite](https://pestpolicy.com/do-dust-mites-bite/) medicine for dogs? Definitely, Ill help with that!
 
 Ear mites (also called Otodectes cynotis mites) is a parasitic infection that is characterized by waxy/black discharge with foul smell. Ear mites mainly affects dogs ears causing irritations and discomfort. Proper medication against these infections is essential for your dogs healthy life. Let's get started!
 

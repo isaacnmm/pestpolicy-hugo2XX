@@ -14,7 +14,7 @@ tags:
 layout: post
 ---
 
-Fleas will pose a hazard (health) to both pets and humans. So, ensure to [flea-treat your cats](https://pestpolicy.com/best-flea-treatment-for-cats/) & dogs - to avoid that massive infestation. **But what attracts fleas? As they find a host, cat fleas are mainly attracted by thermal and visual stimuli (heat & light). Others include C02 & exhaled breath from humans, movement, darkness, food, and warmth.
+Fleas will pose a hazard (health) to both pets and humans. So, ensure to [flea-treat your cats](https://pestpolicy.com/best-flea-treatment-for-cats/)& dogs - to avoid that massive infestation. **But what attracts fleas? As they find a host, cat fleas are mainly attracted by thermal and visual stimuli (heat & light). Others include C02 & exhaled breath from humans, movement, darkness, food, and warmth.
 
 ** **Attraction Cues: ** - *Host size & color, time of day, carbon dioxide, physical contact, warmth, gravity, host odor, air currents, and light movement. * Related: Do Fleas Suck Blood
 
@@ -32,7 +32,7 @@ Notably, when positioned in dark places, over 90% of all fleas will start moving
 
 The light attraction for fleas will be better when the source of light is briefly & quickly interrupted within like 5-10 minutes. - As noted above, the light interruption seems to mimic some shadow that would be produced by some potential host when its passes by the bug. Thus, fleas will tend to quickly jump towards the side that had observed shadow.
 
-[Flea traps](https://pestpolicy.com/best-flea-trap/) that employ intermittent lighting will be effective in attracting and capturing more fleas compared to the use of lighting that is constant.
+[Flea traps](https://pestpolicy.com/best-flea-trap/)that employ intermittent lighting will be effective in attracting and capturing more fleas compared to the use of lighting that is constant.
 
 ####  b. Color of Light
 
@@ -50,7 +50,7 @@ Different flea hosts have an odor that'll attract fleas - this is because the pr
 
 Fleas won't be attached to stationary and inanimate items. For instance, a recent study reported that over 75% of fleas were attracted by a black (moving) target. - However, in the same experiment, just under 20% of the fleas got attracted to the object in its stationary form. Further, another study reported that stationary (and warm) objects make the fleas jump with the presence of other stimuli like air currents.
 
-- Fleas will produce about 20 eggs in the pet's hair - these eggs tend to fall off onto some furniture, floors, and carpets. - While in such locations, the fleas and their larvae hide in the dark locations and shadows as they eat[flea dirt (undigested blood)](https://pestpolicy.com/what-is-flea-dirt/). The shadows and fabric or carpet fibers will hide the fleas as they develop into pupae & as they spin those silky cocoons.
+- Fleas will produce about 20 eggs in the pet's hair - these eggs tend to fall off onto some furniture, floors, and carpets. - While in such locations, the fleas and their larvae hide in the dark locations and shadows as they eat[flea dirt (undigested blood)](https://pestpolicy.com/what-is-flea-dirt/).The shadows and fabric or carpet fibers will hide the fleas as they develop into pupae & as they spin those silky cocoons.
 
 ###  4. Air Currents/ Air movement (Anemotaxis)
 
@@ -58,7 +58,7 @@ Air Currents won't attract fleas on their own - this is to say that your fan cau
 
 ###  5. Gravity (Geotaxis)
 
-Considering gravity, fleas will be negatively gravitactic (geotactic), and thus it'll be moving anti-gravity. - The baby fleas will climb onto small items - they'll remain on top and also wait for any animal that's passing by. In your apartments, check the carpet fibers as this will be where you'll find the adult fleas. - When in the[outdoor spaces](https://pestpolicy.com/best-flea-spray-for-yard/), fleas will climb onto some shrubs or vegetation.
+Considering gravity, fleas will be negatively gravitactic (geotactic), and thus it'll be moving anti-gravity. - The baby fleas will climb onto small items - they'll remain on top and also wait for any animal that's passing by. In your apartments, check the carpet fibers as this will be where you'll find the adult fleas. - When in the[outdoor spaces](https://pestpolicy.com/best-flea-spray-for-yard/),fleas will climb onto some shrubs or vegetation.
 
 ###  6. Are fleas attracted to CO2?
 

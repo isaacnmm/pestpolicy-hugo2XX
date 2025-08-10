@@ -16,7 +16,7 @@ layout: post
 
 Gardening used to be back-breaking, especially if it involved a hoe and a shovel. However, with the advancement in technology.
 
-Many outdoor companies are coming up with rototillers capable of tilling any ground, [including rocky terrain](https://books.google. com/books? hl=en&lr=&id=K7sdCwAAQBAJ&oi=fnd&pg=PR4&dq=Rototiller+for+Rocky+Soil&ots=dJEVsA0i3w&sig=g-d9s3QAXe88WKQTruOwW131aqw). We carefully researched and came up with a list of rototillers and their features that will help you overcome this problem.
+Many outdoor companies are coming up with rototillers capable of tilling any ground, [including rocky terrain](https://books.google.com/books?hl=en&lr=&id=K7sdCwAAQBAJ&oi=fnd&pg=PR4&dq=Rototiller+for+Rocky+Soil&ots=dJEVsA0i3w&sig=g-d9s3QAXe88WKQTruOwW131aqw).We carefully researched and came up with a list of rototillers and their features that will help you overcome this problem.
 
 ##  Rototillers: 9 Best Rototiller for Rocky Soil 2025
 
@@ -104,11 +104,11 @@ This excellent tiller comes with a structure measuring 48x17x38 inches. It also 
 
 Schiller Grounds ergonomic speed control makes tilling easy as you can conveniently control its speed. It's also convenient to switch the tiller on and off. The two-cycle commercial engine is placed directly over the top of the tines for maximum tilling power and stability.
 
-With such power, you can comfortably break hard clay and new grounds thanks to its hard material that makes it long-lasting - check best tiller for hard soil. The [tillers](https://pestpolicy.com/best-electric-tiller-for-clay-soil/) 9-inch tilling width offers a large tilling surface. The patted serpentine tines ensure that the tilling tool works well without getting broken.
+With such power, you can comfortably break hard clay and new grounds thanks to its hard material that makes it long-lasting - check best tiller for hard soil. The [tillers](https://pestpolicy.com/best-electric-tiller-for-clay-soil/)9-inch tilling width offers a large tilling surface. The patted serpentine tines ensure that the tilling tool works well without getting broken.
 
 The cultivator comes with a 10-inch working depth, making it suitable to cultivate any soil.
 
-The cultivator is ideal for use in [rocky](https://pestpolicy.com/best-pole-digger-for-rocky-soil/) soil with obstacles like large stones. Cleaning this beast does not take much. You need a soapy piece of clothing and a stiff brush to clean the cultivator. Pros: - 10-inch tilling depth - 9-inch tilling width - Foldable for storage - Lightweight - Powerful tines
+The cultivator is ideal for use in [rocky](https://pestpolicy.com/best-pole-digger-for-rocky-soil/)soil with obstacles like large stones. Cleaning this beast does not take much. You need a soapy piece of clothing and a stiff brush to clean the cultivator. Pros: - 10-inch tilling depth - 9-inch tilling width - Foldable for storage - Lightweight - Powerful tines
 
 Cons: - Pollutes environment
 
@@ -146,7 +146,7 @@ As a gardener, you need a tiller that will do your tilling work correctly. There
 
 ##  Sources:
 
-1. [Building HealthySoil](https://vtechworks.lib. vt. edu/bitstream/handle/10919/80695/426-711. pdf? sequence=1) 2. [A new blade design of rotary tiller and static analysis using a computer-aided tool. ](http://search.ebscohost. com/login. aspx? direct=true&profile=ehost&scope=site&authtype=crawler&jrnl=20684215&AN=127108498&h=g1gat3%2FwWZ%2BfqcaLaTPBm3waKpDwfbI0vhAzFOBd%2FA9AwjxmdIidBoIthZXf9Qt37Ur6L%2FH209%2Bbox2tgN6Uyw%3D%3D&crl=c) 3.
+1. [Building HealthySoil](https://vtechworks.lib.vt.edu/bitstream/handle/10919/80695/426-711.pdf?sequence=1)2. [A new blade design of rotary tiller and static analysis using a computer-aided tool. ](http://search.ebscohost.com/login.aspx?direct=true&profile=ehost&scope=site&authtype=crawler&jrnl=20684215&AN=127108498&h=g1gat3%2FwWZ%2BfqcaLaTPBm3waKpDwfbI0vhAzFOBd%2FA9AwjxmdIidBoIthZXf9Qt37Ur6L%2FH209%2Bbox2tgN6Uyw%3D%3D&crl=c)3.
 
-[Below ground matters: Urbansoilrehabilitation increases tree canopy and speeds establishment](https://www.sciencedirect. com/science/article/pii/S1618866715301060)
+[Below ground matters: Urbansoilrehabilitation increases tree canopy and speeds establishment](https://www.sciencedirect.com/science/article/pii/S1618866715301060)
 

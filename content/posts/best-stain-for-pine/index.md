@@ -28,13 +28,13 @@ The stain has strong adhesion and penetrates deeper on the wood and gives a bril
 
 Surprisingly for this stain, a quart of it covers approximately 150 square ft.
 
-It takes about 1-2 hours to dry-up and in case of a second coat, you can apply it after 2 hours. In case of spillage, you can use any [paint](https://pestpolicy.com/best-stain-for-douglas-fir-door/) thinners available or mineral spirits to clean the paint. Pros: - Has an easy application - Has great adhesion - Maintains the pines natural grains - dries fast - for indoor use - has good coverage
+It takes about 1-2 hours to dry-up and in case of a second coat, you can apply it after 2 hours. In case of spillage, you can use any [paint](https://pestpolicy.com/best-stain-for-douglas-fir-door/)thinners available or mineral spirits to clean the paint. Pros: - Has an easy application - Has great adhesion - Maintains the pines natural grains - dries fast - for indoor use - has good coverage
 
 Cons: - Does not work on the exterior surface
 
 > See Also: > Sealing pressure-treated wood deckeck
 
-###  [2. Defy Extreme Wood [Stain](https://pestpolicy.com/best-stain-for-red-oak-floors/) Natural Pine, 1-gallon](https://www.amazon.com/dp/B0062CWRHO/?tag=p-policy-20)
+###  [2. Defy Extreme Wood [Stain](https://pestpolicy.com/best-stain-for-red-oak-floors/)Natural Pine, 1-gallon](https://www.amazon.com/dp/B0062CWRHO/?tag=p-policy-20)
 
 You do not need to watch your furniture getting damaged when you can just get yourself a Defy Extreme stain.
 

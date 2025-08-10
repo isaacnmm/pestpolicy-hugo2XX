@@ -14,9 +14,9 @@ tags:
 layout: post
 ---
 
-If you are a kid, a player with petite hands or a traveler wishing to play the [guitar](https://pestpolicy.com/best-acoustic-guitar-under-1000/) - the [best](https://pestpolicy.com/best-acoustic-guitars-under-200/) short scale electric guitars more playable.
+If you are a kid, a player with petite hands or a traveler wishing to play the [guitar](https://pestpolicy.com/best-acoustic-guitar-under-1000/)- the [best](https://pestpolicy.com/best-acoustic-guitars-under-200/)short scale electric guitars more playable.
 
-It has a shorter distance between nut and bridge (in the 22 inches - 24 inches). Frets are closer together like in the 1958s [Capri series](https://reverb.com/p/rickenbacker-360-capri-1958-1960). But, Just like in full-scale guitars, consider durability, sound quality, & reliability. Related: 7 Best Mics for Recording Acoustic Guitar
+It has a shorter distance between nut and bridge (in the 22 inches - 24 inches). Frets are closer together like in the 1958s [Capri series](https://reverb.com/p/rickenbacker-360-capri-1958-1960).But, Just like in full-scale guitars, consider durability, sound quality, & reliability. Related: 7 Best Mics for Recording Acoustic Guitar
 
 ##  Reviews: 7 Best Short Scale Electric Guitars 2025
 

@@ -17,7 +17,7 @@ layout: post
 
 Diatomaceous Earth (DE) is an effective and equally safe way to kill various pests and insects, including fleas and bed bugs. DE is made up of tiny fossilized remains of diatoms (a form of algae). DE won't kill fleas immediately, like the contact killers, but its benefits far outweigh the expected wait time.
 
-When crushed, Diatomaceous [Earth](https://pestpolicy.com/diatomaceous-earth-for-fleas-on-dogs/) powder has sharp edges (microscopic) safe for you and your pets but is fatal on pests like fleas. The razor-sharp edges in DE will break the fleas' exoskeletons and kill them through dehydration. In this post, you'll learn how to use Diatomaceous Earth for fleas' extermination safely. But you can click here to check out how to use DE.
+When crushed, Diatomaceous [Earth](https://pestpolicy.com/diatomaceous-earth-for-fleas-on-dogs/)powder has sharp edges (microscopic) safe for you and your pets but is fatal on pests like fleas. The razor-sharp edges in DE will break the fleas' exoskeletons and kill them through dehydration. In this post, you'll learn how to use Diatomaceous Earth for fleas' extermination safely. But you can click here to check out how to use DE.
 
 ##  **What's Diatomaceous Earth? How Does It Work?**
 
@@ -57,7 +57,7 @@ Luckily, you'll quickly find DE in most pest control outlets in your locality or
 
 ##  Is Diatomaceous Earth Safe for My Family?
 
-First, is Diatomaceous earth carcinogenicity? Well, NO! According to [OSHA](https://www.osha. gov/laws-regs/standardinterpretations/1999-04-05), Diatomaceous earth is classified as a Group 3 carcinogen, and thus its no carcinogenicity to human beings. But is DE harmful to humans? Not, if it's food-grade DE. This kind of DE will have anything below 2% crystalline silica, which is considered safe for humans.
+First, is Diatomaceous earth carcinogenicity? Well, NO! According to [OSHA](https://www.osha.gov/laws-regs/standardinterpretations/1999-04-05),Diatomaceous earth is classified as a Group 3 carcinogen, and thus its no carcinogenicity to human beings. But is DE harmful to humans? Not, if it's food-grade DE. This kind of DE will have anything below 2% crystalline silica, which is considered safe for humans.
 
 On the flip side, inhaling the Diatomaceous earth will hurt the human lungs for a long time. Therefore, Food-grade DE will be safe for eating, and cosmetic **use ** hut will scar the human lungs if inhaled. Therefore, can you use Diatomaceous earth to kill fleas in your indoor spaces? Yes, DE will be great to use indoors in killing fleas, ants, or roaches. However, it's advisable not to sleep around the treated spaces as you might inhale the DE.
 
@@ -83,7 +83,7 @@ However, massive flea infestation will be concentrated on a few critical areas i
 
 ##  Diatomaceous Earth for Fleas on Cats
 
-As a natural and thus safe flea control solution, [Diatomaceous earth (DE) is excellent for cats](https://pestpolicy.com/diatomaceous-earth-for-fleas-on-cats/). Therefore, follow the below-outlined steps to control fleas in cats using Diatomaceous earth.
+As a natural and thus safe flea control solution, [Diatomaceous earth (DE) is excellent for cats](https://pestpolicy.com/diatomaceous-earth-for-fleas-on-cats/).Therefore, follow the below-outlined steps to control fleas in cats using Diatomaceous earth.
 
 ###  1.**Check The Flea-prone areas**
 
@@ -103,7 +103,7 @@ Sadly so, some fleas might survive the above harsh treatment. Therefore, you'll 
 
 ##  Diatomaceous Earth for Fleas on Dogs
 
-You can useDiatomaceous earth (DE) to prevent or control the number of fleas that could be biting your dog. Luckily, as noted above, DE is both [safe and effective against fleas to use on your lovely dog](https://pestpolicy.com/diatomaceous-earth-for-fleas-on-dogs/). Check the flea control steps you can take on your dog usingDiatomaceous earth.
+You can useDiatomaceous earth (DE) to prevent or control the number of fleas that could be biting your dog. Luckily, as noted above, DE is both [safe and effective against fleas to use on your lovely dog](https://pestpolicy.com/diatomaceous-earth-for-fleas-on-dogs/).Check the flea control steps you can take on your dog usingDiatomaceous earth.
 
 ###  1. Consider areas where your Dog rests
 
@@ -125,5 +125,5 @@ Allow the dog to play around the areas sprinkled with the diatomaceous earth. Th
 
 This is important because diatomaceous earth will tend to dry the dogs skin.
 
-Finally, you should flea comb your dog to ensure that you eject any of the remaining fleas on the pets fur. Also, ensure you vacuum the house spaces clean in several weeks. For this process, use the shop vac type of vacuum cleaner because it wont burn its motor quickly. 1. [Effect of diatomaceous earth on parasite load, egg production - NCBI](https://www.sciencedirect. com/science/article/pii/S0032579119420300)
+Finally, you should flea comb your dog to ensure that you eject any of the remaining fleas on the pets fur. Also, ensure you vacuum the house spaces clean in several weeks. For this process, use the shop vac type of vacuum cleaner because it wont burn its motor quickly. 1. [Effect of diatomaceous earth on parasite load, egg production - NCBI](https://www.sciencedirect.com/science/article/pii/S0032579119420300)
 

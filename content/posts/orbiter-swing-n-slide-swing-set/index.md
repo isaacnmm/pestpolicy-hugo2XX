@@ -14,7 +14,7 @@ tags:
 layout: post
 ---
 
-Orbiter Swing-N-Slide is a more massive playset compared to other regular options. However, the playset offers superior quality [play options](https://www.csub. edu/~lwildman/21st_Schools/documents/Sch14. htm) at a reasonable price.
+Orbiter Swing-N-Slide is a more massive playset compared to other regular options. However, the playset offers superior quality [play options](https://www.csub.edu/~lwildman/21st_Schools/documents/Sch14.htm)at a reasonable price.
 
 The swing set will have an extensive 5-year warranty for the posts covered with WoodGuard, hardware, and swings. Read Also: [Outdoor Playsets for Toddlers](https://pestpolicy.com/best-outdoor-playsets-for-toddlers/).
 

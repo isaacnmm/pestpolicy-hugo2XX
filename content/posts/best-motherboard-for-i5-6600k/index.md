@@ -13,7 +13,7 @@ tags:
 layout: post
 ---
 
-i5 6600k CPU i5 processors come with 3. 5 GHz 4 cores, which takes lower energy and allows 4k resolution, particularly for gaming and content creation purposes. - Z170 motherboards are considered to be highly powerful motherboards with the i5 6600k. I sought mobo recommendations from experts for my first PC build, and I am convinced that [ASRock Z170M EXTREME4](https://www.amazon. com/dp/B017NMX6JO/?
+i5 6600k CPU i5 processors come with 3. 5 GHz 4 cores, which takes lower energy and allows 4k resolution, particularly for gaming and content creation purposes. - Z170 motherboards are considered to be highly powerful motherboards with the i5 6600k. I sought mobo recommendations from experts for my first PC build, and I am convinced that [ASRock Z170M EXTREME4](https://www.amazon.com/dp/B017NMX6JO/?
 
 tag=p-policy-20) is the best motherboard for i5 6600k. Related: Motherboard for i5 7600k
 
@@ -109,7 +109,7 @@ Also, it has 3 SATA Express allowing next-generation storage and connectivity.
 
 ###  **1. Form Factor. **
 
-The [motherboard form actor includes aspects](https://pestpolicy.com/how-to-choose-a-motherboard/) such as its shape and size, connector and ports type and location, and the layout of the power interface and mounting holes. - An ATX design is the common motherboard size and they will require the largest cases. However, the ATX design motherboards have a high number of memory sockets and PCI-E slots.
+The [motherboard form actor includes aspects](https://pestpolicy.com/how-to-choose-a-motherboard/)such as its shape and size, connector and ports type and location, and the layout of the power interface and mounting holes. - An ATX design is the common motherboard size and they will require the largest cases. However, the ATX design motherboards have a high number of memory sockets and PCI-E slots.
 
 ###  **2. Supported RAM **
 
@@ -121,7 +121,7 @@ To achieve maximum efficiency, youll need to choose a motherboard that will supp
 
 ###  **4. Chip-set support**
 
-Determine the type of chip-set that is on your motherboard. However, you should not that the chip-set is not replaceable. Therefore, consider checking reviews on the type of chip-set on the motherboard to determine its usefulness or your desired gaming purposes. You can check motherboard reputation on sites like [Motherboards. org](http://www.motherboards. org). Also, consider the motherboard compatibility with different operating systems.
+Determine the type of chip-set that is on your motherboard. However, you should not that the chip-set is not replaceable. Therefore, consider checking reviews on the type of chip-set on the motherboard to determine its usefulness or your desired gaming purposes. You can check motherboard reputation on sites like [Motherboards. org](http://www.motherboards.org).Also, consider the motherboard compatibility with different operating systems.
 
 ###  **5. On-Board**** Attributes. **
 
@@ -129,7 +129,7 @@ Consider support for features such as multimedia, video, graphics, and audio sup
 
 ###  **Operating system - (32bit or 64bit processor)**
 
-The i5-6600K processor is a 64-bit component. Therefore, the processor will also support other 32-bit applications. Therefore, you can install the [64 bit Windows 10 Home](https://www.amazon. com/dp/B00ZSI7Y3U/? tag=p-policy-20) from amazon.
+The i5-6600K processor is a 64-bit component. Therefore, the processor will also support other 32-bit applications. Therefore, you can install the [64 bit Windows 10 Home](https://www.amazon.com/dp/B00ZSI7Y3U/?tag=p-policy-20)from amazon.
 
 ###  **i5 - 6600K Graphics Card**
 

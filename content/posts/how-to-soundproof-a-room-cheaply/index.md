@@ -26,7 +26,7 @@ This is probably the easiest and cheapest way to reduce noise levels in your hom
 
 This is because since there are no obstacles, sound waves travel faster and they are never absorbed by anything. On the other hand, a room full of stuff has no echo and usually is quieter. To soundproof a room using furniture, you can arrange your heaviest pieces of furniture next to the walls that are letting in the most sound, such as the walls facing the street and in front of windows.
 
-Some of the best [soundproofing](https://pestpolicy.com/best-soundproof-earmuffs-for-sleeping/) furniture includes sofas, wardrobes, dressers, bookcases, and tables. Read Also: Noise Cancelling Headphones
+Some of the best [soundproofing](https://pestpolicy.com/best-soundproof-earmuffs-for-sleeping/)furniture includes sofas, wardrobes, dressers, bookcases, and tables. Read Also: Noise Cancelling Headphones
 
 ###  2. Use carpets and rugs to soundproof the floor
 
@@ -52,7 +52,7 @@ Windows are one of the biggest challenges when it comes to soundproofing. One of
 
 Weatherstripping is designed to prevent drafts and air leaks, but it can also come in handy if you want to block sound waves. There are many kinds of weather stripping for any budget but for the best results, you should use EPDM rubber since it has a lot of mass. Before you try it, make sure you are familiar with how weather stripping works and how to do it properly. The goal is to ensure all openings that could possibly let in sound are covered.
 
-So what do you do if you want to create a quiet environment in your home? Maybe you want to create a cinema experience in your living [room](https://pestpolicy.com/how-to-prep-a-room-for-paint/). Or maybe you want to make your new babys room more comfortable for her. Whatever your reasons are, soundproofing is the solution. Read Also: Noise Cancelling Headphones Under 50.
+So what do you do if you want to create a quiet environment in your home? Maybe you want to create a cinema experience in your living [room](https://pestpolicy.com/how-to-prep-a-room-for-paint/).Or maybe you want to make your new babys room more comfortable for her. Whatever your reasons are, soundproofing is the solution. Read Also: Noise Cancelling Headphones Under 50.
 
 ##  Conclusion
 

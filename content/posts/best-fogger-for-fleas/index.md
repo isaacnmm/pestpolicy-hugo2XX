@@ -17,7 +17,7 @@ layout: post
 
 When selecting the best flea fogger, key considerations include effectiveness, coverage area, safety, ease of use, and duration of protection.
 
-Effective products like **Hot Shot HG-20177** and [**Raid Max Fogger**](https://www.amazon. com/dp/B001JTADUI? th=1&linkCode=ll1&tag=p-policy-20&linkId=fedb25230bdd71b590ab0c6ed52e2a1e&language=en_US&ref_=as_li_ss_tl) eliminate [fleas](https://pestpolicy.com/best-cordless-vacuum-for-pet-hair/) and their eggs, with options like Black Flag designed for larger spaces and TAT [Fogger](https://pestpolicy.com/best-fogger-for-bed-bugs/) for smaller areas.
+Effective products like **Hot Shot HG-20177** and [**Raid Max Fogger**](https://www.amazon.com/dp/B001JTADUI?th=1&linkCode=ll1&tag=p-policy-20&linkId=fedb25230bdd71b590ab0c6ed52e2a1e&language=en_US&ref_=as_li_ss_tl)eliminate [fleas](https://pestpolicy.com/best-cordless-vacuum-for-pet-hair/)and their eggs, with options like Black Flag designed for larger spaces and TAT [Fogger](https://pestpolicy.com/best-fogger-for-bed-bugs/)for smaller areas.
 
 Safety is crucial, especially for households with pets or children, with options like Zoecon Precor Plus offering safer formulations for your home. Easy-to-use foggers, such as Hartz UltraGuard Plus, simplify the application process. For long-lasting results, consider products like Spectracide Bug Stop, which provides up to 7 months of protection.
 
@@ -75,7 +75,7 @@ Ingredients: 0. 50% Pyrethrins, 0. 10% Cyfluthrin & 1. 00% PBO. It is USDA appro
 
 ###  [7. HOME-APP SC Johnson Flea Fogger](https://www.amazon.com/Raid-Flea-Killer-Plus-Fogger/dp/B003AOA3EQ?&linkCode=ll1&tag=p-policy-20&linkId=968ca3fea3981b2ab102817af1c557de&language=en_US&ref_=as_li_ss_tl)
 
-SC Johnson Raid Fogger has [IGR (Insect Growth Regulators)](http://npic.orst. edu/ingred/ptype/igr. html) plus active ingredients that kill adult fleas, hatching eggs, or larvae. This Raid Fogger has a long residue effect (4 months) that keeps your room actively protected against fleas.
+SC Johnson Raid Fogger has [IGR (Insect Growth Regulators)](http://npic.orst.edu/ingred/ptype/igr.html)plus active ingredients that kill adult fleas, hatching eggs, or larvae. This Raid Fogger has a long residue effect (4 months) that keeps your room actively protected against fleas.
 
 **Pros: ** - Fog moves into cracks and crevices, killing bugs on contact - Kills a range of pests, including fleas, roaches, and ants - Won't stain or wet your fabric and furniture **Cons: ** - Largerooms may require a second application - Largerooms may require a second application
 

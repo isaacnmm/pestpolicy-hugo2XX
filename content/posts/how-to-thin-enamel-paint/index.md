@@ -16,7 +16,7 @@ layout: post
 
 If you are a paint enthusiast, then you must have used enamel paint in one way or another. The hard gloss finish is one mark of the quality thinning process in enamel paints. But most paint users face challenges when thinning (one may over dilute or even thin insufficiently). Improper thinning affects the overall finish quality and may subject the surface to peeling, chipping, or scuffing with time.
 
-*In this regard, we shall be discussing how to thin [enamel](https://pestpolicy.com/what-is-enamel-paint-used-for/) paint. First, youll need to have the right thinning items, check on the prevailing weather conditions, choose an ideal thinning location, and select the correct paint thinner.
+*In this regard, we shall be discussing how to thin [enamel](https://pestpolicy.com/what-is-enamel-paint-used-for/)paint. First, youll need to have the right thinning items, check on the prevailing weather conditions, choose an ideal thinning location, and select the correct paint thinner.
 
 * *Besides, you will require to measure the right amount of thinner about the quantity of enamel paint, then stir the mixture appropriately before testing the thinned paint to ascertain the coat quality.
 
@@ -30,7 +30,7 @@ Remember, enamel paints are manufactured in different varieties. Therefore, not 
 
 Items Required - Paint stirrer andsafety goggles, overalls, and gloves - Respirator and Paint Thinner - Empty Bucket and Thinning surface - Paint sprayer, paintbrush, orroller - Piece of Cloth Select an ideal environment that is well-ventilated since enamel fumes cause breathing difficulties. Moreover, thinner add a toxic smell that irritates the nasal cavity or respiratory system when inhaled.
 
-Its advisable to open windows and doors when thinning paint in a room or opt-out paint thinning in an open field. The odor from [thinner](https://www.amazon. com/dp/B00UDIZDSI/? tag=p-policy-20) and enamel paint may cause dizziness, headache, or nausea when inhaled in excess. > See Also: > Thinning Semi-Gloss Paint
+Its advisable to open windows and doors when thinning paint in a room or opt-out paint thinning in an open field. The odor from [thinner](https://www.amazon.com/dp/B00UDIZDSI/?tag=p-policy-20)and enamel paint may cause dizziness, headache, or nausea when inhaled in excess. > See Also: > Thinning Semi-Gloss Paint
 
 ###  **STEP**** 2: Wear Protective Gear**
 
@@ -38,7 +38,7 @@ Its advisable to open windows and doors when thinning paint in a room or opt-out
 
 Human safety and health are paramount during the thinning process.
 
-Ensure you put on protective gear (facemask, respirator, gloves, eye goggles, boots, [dustcoat](https://www.amazon. com/dp/B001A42DUA/? tag=p-policy-20) ) before starting the paint thinning procedure. Avoid direct contact with thinner or paint as it cause skin burn or irritation - check the paint consistency using a sprayer.
+Ensure you put on protective gear (facemask, respirator, gloves, eye goggles, boots, [dustcoat](https://www.amazon.com/dp/B001A42DUA/?tag=p-policy-20)) before starting the paint thinning procedure. Avoid direct contact with thinner or paint as it cause skin burn or irritation - check the paint consistency using a sprayer.
 
 ###  **STEP ****3: Select Appropriate Thinner**
 
@@ -54,7 +54,7 @@ Prep paint appropriately (where necessary) to improve the thinning action. You n
 
 Put a substantial amount of paint in the bucket, then add a small quantity of thinner and stir. Add more thinner and stir until the mixture is sufficiently thinned. Usually, you are expected to maintain paint to the thinner ratio of 3: 1 or 4: 1. This can be achieved by actual measuring of enamel paint and thinner before mixing even for weathered wood. However, this is not the usual case when thinning.
 
-People tend to mix the solvent directly without weighing paint since its a tedious process or wastes time. In such a case, you will only need to ensure that the enamel paint is always more than thinner as you continue stirring - [consider the paint's viscosity](https://www.paint. org/coatingstech-magazine/articles/optimum-viscosity-paint-application/).
+People tend to mix the solvent directly without weighing paint since its a tedious process or wastes time. In such a case, you will only need to ensure that the enamel paint is always more than thinner as you continue stirring - [consider the paint's viscosity](https://www.paint.org/coatingstech-magazine/articles/optimum-viscosity-paint-application/).
 
 ###  **STEP**** 6: Mix the Solvents**
 
@@ -108,7 +108,7 @@ Always wear protective gears when thinning, e. g. , facemask, goggles, overalls,
 
 Consider weather condition before thinning 10.
 
-Dont use two types of thinners to thin one enamel paint - there are many [thinning methods](https://pestpolicy.com/how-to-thin-acrylic-paint/) 11. Never thin water-based enamel paint with oil-based thinner. 12. Never thin oil-based enamel paint with water.
+Dont use two types of thinners to thin one enamel paint - there are many [thinning methods](https://pestpolicy.com/how-to-thin-acrylic-paint/)11. Never thin water-based enamel paint with oil-based thinner. 12. Never thin oil-based enamel paint with water.
 
 ##  Which is the Best Enamel Paint Thinning Solvent?
 
@@ -126,5 +126,5 @@ Water They are used for water-based enamel paint. It the best to paint thinner.
 
 The article on how to thin enamel paint is insightful and an eye-opener to various ways of thinning enamel paint. The accrued benefits associated with the use of enamel paint guarantee you the best quality coat layer. Besides, you enjoy in-depth conviction as to why thinning enamel paint is such a crucial step.
 
-Remember, to achieve the best quality thinned paint, you must locate the ideal environment (like a [well-ventilated room](https://www.ncbi. nlm. nih. gov/books/NBK143277/) ), select the right thinner, and mix the solvents in the correct ratio before carrying out an actual application.
+Remember, to achieve the best quality thinned paint, you must locate the ideal environment (like a [well-ventilated room](https://www.ncbi.nlm.nih.gov/books/NBK143277/)), select the right thinner, and mix the solvents in the correct ratio before carrying out an actual application.
 

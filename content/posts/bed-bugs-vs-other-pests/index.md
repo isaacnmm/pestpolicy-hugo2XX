@@ -14,7 +14,7 @@ tags:
 layout: post
 ---
 
-When it comes to dealing with pests in your home, it is important to correctly identify the type of infestation you are dealing with. [Bed](https://pestpolicy.com/how-much-do-bed-bug-exterminators-cost/) bugs are one of the most notorious household pests, but they are not the only ones that can cause discomfort or damage.
+When it comes to dealing with pests in your home, it is important to correctly identify the type of infestation you are dealing with. [Bed](https://pestpolicy.com/how-much-do-bed-bug-exterminators-cost/)bugs are one of the most notorious household pests, but they are not the only ones that can cause discomfort or damage.
 
 In this article, we will compare bed bugs with other common household pests, including their behavior, signs of infestation, and methods of control.
 
@@ -26,7 +26,7 @@ Bed bugs (Cimex lectularius) are small, flat, reddish-brown insects that feed on
 
 Although bed bugs are not known to transmit diseases, their bites can cause itching, irritation, and allergic reactions in some people.
 
-###  Common Symptoms of Bed [Bug](https://pestpolicy.com/how-to-find-bed-bugs-during-the-day/) Infestation
+###  Common Symptoms of Bed [Bug](https://pestpolicy.com/how-to-find-bed-bugs-during-the-day/)Infestation
 
 - **Itchy, red bites: **Bed bugs leave bite marks that are often grouped together in a small area, typically on exposed skin. - **Dark spots on bedding: **Bed bug excrement appears as dark stains on sheets, mattresses, and other fabric surfaces. - **Visible bugs: **Bed bugs can sometimes be seen on bedding, furniture, or in cracks and crevices in walls or floors.
 

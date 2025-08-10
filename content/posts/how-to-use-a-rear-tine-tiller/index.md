@@ -14,7 +14,7 @@ tags:
 layout: post
 ---
 
-Proper [land preparation](https://www.indstate. edu/university-engagement/sustainability/garden/tiller-usage-and-soil-health-information) is crucial for any serious gardener to ensure they get a good harvest. - ** Whether you are preparing an existing seedbed or creating a new one, you need to have proper equipment knowledge. ** - **How to use a rear mount tiller? Before starting up the tiller, ensure you have protective gear on for safety.
+Proper [land preparation](https://www.indstate.edu/university-engagement/sustainability/garden/tiller-usage-and-soil-health-information)is crucial for any serious gardener to ensure they get a good harvest. - ** Whether you are preparing an existing seedbed or creating a new one, you need to have proper equipment knowledge. ** - **How to use a rear mount tiller? Before starting up the tiller, ensure you have protective gear on for safety.
 
 ** **Industrial boots, fitting clothing, safety goggles, and work gloves should keep you safe. You also need ear protection from the noise produced during the tilling process. **
 
@@ -24,9 +24,9 @@ Read and understand the operation manual and get to know the tiller in depth. Us
 
 After that, put the cotter pin back and lock it in place. 2.
 
-Before starting the tiller, ensure that the drive control and tine control are on neutral. Start the tiller as per your user manual as different [tillers](https://pestpolicy.com/best-rear-tine-tiller/) use different start mechanisms depending on manufacturers. 3. Now you look set to go. Set the drive control to D (drive) then hold the handlebars and lift them upwards to lift the rear end of the tiller.
+Before starting the tiller, ensure that the drive control and tine control are on neutral. Start the tiller as per your user manual as different [tillers](https://pestpolicy.com/best-rear-tine-tiller/)use different start mechanisms depending on manufacturers. 3. Now you look set to go. Set the drive control to D (drive) then hold the handlebars and lift them upwards to lift the rear end of the tiller.
 
-The tiller's handlebars perfectly fit into your hand like a glove ensuring that you handle and control the tiller with ease. 4. Turn the [tine](https://pestpolicy.com/front-tine-vs-rear-tine-tillers/) control on to start the tilling and note that the tines rotate in the opposite direction to the one the tiller is moving. Adjust the throttle slowly as you walk behind the tiller and monitor how it works. 5.
+The tiller's handlebars perfectly fit into your hand like a glove ensuring that you handle and control the tiller with ease. 4. Turn the [tine](https://pestpolicy.com/front-tine-vs-rear-tine-tillers/)control on to start the tilling and note that the tines rotate in the opposite direction to the one the tiller is moving. Adjust the throttle slowly as you walk behind the tiller and monitor how it works. 5.
 
 Make sure that the tiller is lifting and diverting topsoil to both sides while maintaining your desired depth. Exert pressure upwards or downwards on the handles to maintain your desired tilling depth as you walk behind the tiller. 6. Keep it simple by tilling straight lines running parallel to the longest width of the till area. Ensure that the tiling paths are free of rocks and other impediments like logs to prevent damage to the tiller.
 

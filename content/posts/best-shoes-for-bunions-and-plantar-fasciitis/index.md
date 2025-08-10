@@ -30,7 +30,7 @@ Brooks Ghost 12 are some of the best running shoes for Bunions and Plantar Fasci
 
 The upper of ghost 12 features an engineered mesh material that has a classic look that youll definitely like. The 3D Fit Print reinforces the upper to provide a soft and secure fit. The medial and lateral sides have simple overlays that provide extra comfort.
 
-The upper is also a bit stretchy to conform to any foot type. The wide forefoot area allows the natural wiggling of toes. Hence, helps to soothe painful [bunions and Hammer Toes](https://pestpolicy.com/best-shoes-for-hammer-toes-and-bunions/) The midsection of Brooks Ghost 12 features a dual component that incorporates DNA LOFT and BioMoGo DNA.
+The upper is also a bit stretchy to conform to any foot type. The wide forefoot area allows the natural wiggling of toes. Hence, helps to soothe painful [bunions and Hammer Toes](https://pestpolicy.com/best-shoes-for-hammer-toes-and-bunions/)The midsection of Brooks Ghost 12 features a dual component that incorporates DNA LOFT and BioMoGo DNA.
 
 These are cushioning technologies that work in conjunction to deliver a pleasant underfoot experience while ensuring high responsiveness and longer wear period.
 
@@ -96,7 +96,7 @@ Beneath the outsole of Nimbus 22, there are flex grooves that promote the shoes 
 
 The shoe also features a padded heel collar that helps to keep the back of the foot in place. Thus, prevent accidental shoe removal while walking or running.
 
-Furthermore, the upper of Nimbus of 22 features an engineered monofilament material that delivers comfort on the upper part of the foot to prevent [pain on top of the foot](https://pestpolicy.com/best-shoes-for-pain-on-top-of-foot/). The material also allows fresh air into the shoe for a dry and cool in-shoe environment. Pros: - Roomy toe box - Supportive - Comfortable - Stylish design - Softer than its predecessor - Durable
+Furthermore, the upper of Nimbus of 22 features an engineered monofilament material that delivers comfort on the upper part of the foot to prevent [pain on top of the foot](https://pestpolicy.com/best-shoes-for-pain-on-top-of-foot/).The material also allows fresh air into the shoe for a dry and cool in-shoe environment. Pros: - Roomy toe box - Supportive - Comfortable - Stylish design - Softer than its predecessor - Durable
 
 Cons: - Expensive
 

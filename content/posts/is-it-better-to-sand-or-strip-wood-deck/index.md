@@ -16,7 +16,7 @@ layout: post
 
 Both sanding and stripping are viable options for restoring the deck's beauty and preparing it for a fresh finish, but they have distinct differences and varying levels of effectiveness. In this article, we'll explore the pros and cons of each method, helping you make an informed decision on whether sanding or stripping is better suited for your specific deck restoration needs.
 
-**The answer to whether it is better to [sand](https://pestpolicy.com/do-i-need-to-sand-fiberglass-boat-before-painting/) or strip a wood deck depends on the condition of the deck, the type of finish it currently has, and your desired end result.
+**The answer to whether it is better to [sand](https://pestpolicy.com/do-i-need-to-sand-fiberglass-boat-before-painting/)or strip a wood deck depends on the condition of the deck, the type of finish it currently has, and your desired end result.
 
 In general, sanding is more suitable for decks with a solid, but deteriorating finish (preserves the wood's natural beauty ), while stripping is preferred when dealing with a thick or stubborn finish, such as paint or solid stains. **
 

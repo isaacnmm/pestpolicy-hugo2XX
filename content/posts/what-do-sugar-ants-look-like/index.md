@@ -15,9 +15,9 @@ tags:
 layout: post
 ---
 
-Below I've tackled this question - "what do [sugar](https://pestpolicy.com/do-sugar-ants-bite/) ants look like? "
+Below I've tackled this question - "what do [sugar](https://pestpolicy.com/do-sugar-ants-bite/)ants look like? "
 
-Sugar ants ( [banded sugar ants](https://en.wikipedia. org/wiki/Banded_sugar_ant) or *Camponotus consobrinus* ) are one of the most popular types of ant species.
+Sugar ants ( [banded sugar ants](https://en.wikipedia.org/wiki/Banded_sugar_ant)or *Camponotus consobrinus* ) are one of the most popular types of ant species.
 
 Sugar ants will mainly be seen in most homes hauling grains of sugar and food particles. [Bites](https://pestpolicy.com/do-sugar-ants-bite/)
 
@@ -29,7 +29,7 @@ Sugar ants will mainly be seen in most homes hauling grains of sugar and food pa
 
 *The soldiers, also known as major workers, and the minor workers usually measure approximately 5 to 15 mm in length while their queens can be up to twice the size of the worker ants. * [caption id="" align="aligncenter" width="908"]
 
-Source: [Fantasticservicesgroup](https://fantasticservicesgroup.com. au/blog/banded-sugar-ants/) [/caption]
+Source: [Fantasticservicesgroup](https://fantasticservicesgroup.com.au/blog/banded-sugar-ants/)[/caption]
 
 ##  **Details: What Do Sugar Ants Look Like?**
 
@@ -79,5 +79,5 @@ Now that you know what sugar ants look like and how to know if they have invaded
 
 ##  Sources:
 
-1. [Banded sugar ant - WikiVisually](https://wikivisually.com/wiki/Banded_sugar_ant) 2. [Common names for Australian ants (Hymenoptera - Semantic Scholar](https://pdfs.semanticscholar. org/3ce5/f5353abce0e480d4f741c35d23dec1939b4b. pdf) 3. [Is it possible to remove ants from sugar? - Quora](https://www.quora. com/Is-it-possible-to-remove-ants-from-sugar)
+1. [Banded sugar ant - WikiVisually](https://wikivisually.com/wiki/Banded_sugar_ant)2. [Common names for Australian ants (Hymenoptera - Semantic Scholar](https://pdfs.semanticscholar.org/3ce5/f5353abce0e480d4f741c35d23dec1939b4b.pdf)3. [Is it possible to remove ants from sugar? - Quora](https://www.quora.com/Is-it-possible-to-remove-ants-from-sugar)
 

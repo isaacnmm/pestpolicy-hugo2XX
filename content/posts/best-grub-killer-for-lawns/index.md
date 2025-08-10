@@ -16,7 +16,7 @@ tags:
 layout: post
 ---
 
-Are you looking for thebest [grub](https://www.canr. msu. edu/news/how_to_choose_and_when_to_apply_grub_control_products_for_your_lawn) killer for lawns? Grubs in the garden can be a real pain. However, it is a widespread problem. People with gardens know how difficult it is to deal with grubs.
+Are you looking for thebest [grub](https://www.canr.msu.edu/news/how_to_choose_and_when_to_apply_grub_control_products_for_your_lawn)killer for lawns? Grubs in the garden can be a real pain. However, it is a widespread problem. People with gardens know how difficult it is to deal with grubs.
 
 However, there are two effective ways of dealing with them: pesticides and natural methods. Pesticides come in liquid or granular forms and are also referred to as 'curative' products. Read Also: Yard Spray for Ticks Reviewed.
 
@@ -120,5 +120,5 @@ The product that you buy for the treatment of grubs in your lawn depends on your
 
 ##  Sources:
 
-1. [Grub Control - Extension](https://extension.unh. edu/resource/grub-control-video) 2. [Is it too late to treat for white grubs? Horticulture and Home](https://hortnews.extension. iastate. edu/2008/9-10/grubs. html) 3. [Grub Control - Blue Grass Enterprises](https://static1.squarespace. com/static/50a39d4ce4b0f822f291399c/t/56b385743c44d86cf333fd78/1454605687028/Grub+Control. pdf)
+1. [Grub Control - Extension](https://extension.unh.edu/resource/grub-control-video)2. [Is it too late to treat for white grubs? Horticulture and Home](https://hortnews.extension.iastate.edu/2008/9-10/grubs.html)3. [Grub Control - Blue Grass Enterprises](https://static1.squarespace.com/static/50a39d4ce4b0f822f291399c/t/56b385743c44d86cf333fd78/1454605687028/Grub+Control.pdf)
 

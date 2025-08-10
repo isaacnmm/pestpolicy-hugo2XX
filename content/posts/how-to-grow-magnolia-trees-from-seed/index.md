@@ -17,7 +17,7 @@ layout: post
 
 Magnolia trees, with their magnificent, often fragrant blooms and stately presence, are among the most revered flowering trees in many landscapes. From the iconic Southern Magnolia (*Magnolia grandiflora*) with its large, creamy white blossoms to the delicate, early-blooming Star Magnolias (*Magnolia stellata*), these trees bring a touch of timeless elegance to any garden.
 
-While purchasing an established magnolia sapling offers instant gratification, growing a magnolia [tree](https://pestpolicy.com/10-trees-to-grow-in-containers/) from seed is a deeply rewarding, albeit long-term, endeavor. It's a true labor of love that allows you to nurture a tree from its very beginning, potentially for generations to come.
+While purchasing an established magnolia sapling offers instant gratification, growing a magnolia [tree](https://pestpolicy.com/10-trees-to-grow-in-containers/)from seed is a deeply rewarding, albeit long-term, endeavor. It's a true labor of love that allows you to nurture a tree from its very beginning, potentially for generations to come.
 
 Growing magnolias from seed is a process that requires patience, as germination can be slow and the trees themselves take many years to reach flowering maturity. However, the satisfaction of seeing a magnificent magnolia grow from a tiny seed makes the wait worthwhile.
 

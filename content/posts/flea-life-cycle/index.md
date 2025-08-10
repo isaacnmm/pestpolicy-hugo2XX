@@ -15,9 +15,9 @@ tags:
 layout: post
 ---
 
-The flea life [cycle](https://pestpolicy.com/how-long-does-it-take-to-break-the-flea-life-cycle/) consists of four stages: egg, flea larva, pupa, and the adult. Fleas will live from a few weeks to several months given optimal humidity and temperature (70 percent and 7085F). - Fleas feed on blood, and the cycle of a flea's life is closely aligned with that need. - Flea eggs hatch into larvae, which then turn into pupae before emerging as adults.
+The flea life [cycle](https://pestpolicy.com/how-long-does-it-take-to-break-the-flea-life-cycle/)consists of four stages: egg, flea larva, pupa, and the adult. Fleas will live from a few weeks to several months given optimal humidity and temperature (70 percent and 7085F). - Fleas feed on blood, and the cycle of a flea's life is closely aligned with that need. - Flea eggs hatch into larvae, which then turn into pupae before emerging as adults.
 
-The adults lay eggs as they feed to continue the cycle. Understanding [the flea life cycle](https://pestpolicy.com/how-long-does-it-take-to-break-the-flea-life-cycle/) functions can help you better protect your pet and home from these parasites!
+The adults lay eggs as they feed to continue the cycle. Understanding [the flea life cycle](https://pestpolicy.com/how-long-does-it-take-to-break-the-flea-life-cycle/)functions can help you better protect your pet and home from these parasites!
 
 In this article, we'll take a look at the cycle of their life. Also, check this fleas movement guide.
 
@@ -99,7 +99,7 @@ You can help speed up the hatching of any remaining flea pupae by increasing the
 
 ##  How to Flea Treat My Cats and Dogs
 
-Pets should be treated with a flea treatment including dog flea shampoo or an appropriate [cat flea shampoo](https://pestpolicy.com/best-flea-shampoo-for-cats/). Fleas can become resistant to certain treatments, so it is important you use the correct one for your pet's needs.
+Pets should be treated with a flea treatment including dog flea shampoo or an appropriate [cat flea shampoo](https://pestpolicy.com/best-flea-shampoo-for-cats/).Fleas can become resistant to certain treatments, so it is important you use the correct one for your pet's needs.
 
 A topical or oral medication that has an insect growth regulator (IGR) will help break the life cycle of adult fleas and prevent new from developing into an egg laying female for at least six months. - It is important that you use pet shampoos with insecticides, as well as other products such, sprays or lotions on the animal's coat.
 

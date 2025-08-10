@@ -45,7 +45,7 @@ This age-old technique leverages sheer heat to rapidly destroy plant cells, offe
 
 Killing weeds with boiling water might seem almost too simple, but its effectiveness lies in its ability to denature proteins and burst cell walls on contact. However, like any gardening method, it has its best applications and limitations. Understanding where and how to deploy this hot solution will ensure you effectively tackle unwanted greenery while protecting your desired plants and maintaining the health of your garden ecosystem.
 
-This guide will explore the science behind boiling water as a [weed](https://pestpolicy.com/how-to-make-a-nontoxic-weed-killer/) killer, detail its proper application, discuss its pros and cons, and offer tips for maximizing its effectiveness and safety.
+This guide will explore the science behind boiling water as a [weed](https://pestpolicy.com/how-to-make-a-nontoxic-weed-killer/)killer, detail its proper application, discuss its pros and cons, and offer tips for maximizing its effectiveness and safety.
 
 ##  Where to Use Boiling Water for Weed Control
 

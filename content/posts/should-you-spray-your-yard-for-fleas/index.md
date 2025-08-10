@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 
-If used around the house (beyond just the Yard), [Vet's Best Flea Spray](https://pestpolicy.com/best-flea-spray-for-yard/) will leave no stains even in places that the pets eat, play, sleep or live. - However, you'll need to test a small area like on pant legs or shoes before you undertake full-blown spraying. Now, point the spray nozzle in any direction in your Yard or lawn to spray.
+If used around the house (beyond just the Yard), [Vet's Best Flea Spray](https://pestpolicy.com/best-flea-spray-for-yard/)will leave no stains even in places that the pets eat, play, sleep or live. - However, you'll need to test a small area like on pant legs or shoes before you undertake full-blown spraying. Now, point the spray nozzle in any direction in your Yard or lawn to spray.
 
 However, ensure that you flea-spray the yard area evenly and avoid forming a puddle.
 
@@ -33,7 +33,7 @@ Is it suitable for small or large yards? Some yard sprays are very effective in 
 
 But for larger yards, you either want to buy a higher capacity spray or end up getting multiple bottles. So it's essential to check the coverage.
 
-*Is the yard spray valid for the entire [flea](https://pestpolicy.com/at-what-temperature-do-fleas-die/) life cycle? * This is probably the most important thing for you to consider when choosing a flea spray for your Yard. If you're looking for a cheap, quick solution, then get a yard spray that only kills adult fleas.
+*Is the yard spray valid for the entire [flea](https://pestpolicy.com/at-what-temperature-do-fleas-die/)life cycle? * This is probably the most important thing for you to consider when choosing a flea spray for your Yard. If you're looking for a cheap, quick solution, then get a yard spray that only kills adult fleas.
 
 ##  [BioSpot Active Care Yard & Garden Flea Spray](https://www.amazon.com/dp/B001R9F4KO/?tag=p-policy-20)
 

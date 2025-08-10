@@ -18,7 +18,7 @@ layout: post
 ## The 15 Best Fall Flowers For Your Garden
 Here are some of the top choices for ensuring your garden remains vibrant and captivating as the seasons change:
 ### 1. Chrysanthemums (Mums)
-* **Why they're great for fall:** The undisputed queens of fall, Mums offer an incredible diversity of colors, sizes, and [flower](https://pestpolicy.com/most-popular-spring-flower-by-state/) forms. They are specifically bred for their late-season bloom. * **Colors:** Virtually every color imaginable, from classic golds, oranges, and reds to purples, pinks, and whites. * **Growing Tips:** Prefer full sun and well-drained soil. Pinching back in spring encourages bushier growth and more blooms.
+* **Why they're great for fall:** The undisputed queens of fall, Mums offer an incredible diversity of colors, sizes, and [flower](https://pestpolicy.com/most-popular-spring-flower-by-state/)forms. They are specifically bred for their late-season bloom. * **Colors:** Virtually every color imaginable, from classic golds, oranges, and reds to purples, pinks, and whites. * **Growing Tips:** Prefer full sun and well-drained soil. Pinching back in spring encourages bushier growth and more blooms.
 In colder climates, some varieties are hardy perennials, while others are best treated as annuals for container displays. * **Kenyan context:** Mums thrive in Nairobi's climate, especially the cooler periods. They are a popular cut flower and ornamental plant year-round but can be particularly vibrant as other summer flowers fade.
 ### 2. Asters
 * **Why they're great for fall:** Providing a beautiful contrast to the warm fall colors, asters burst into masses of daisy-like flowers in shades of purple, pink, blue, and white, often covered in pollinators. * **Colors:** Purple, blue, pink, white, red. * **Growing Tips:** Full sun, well-drained soil. Many are hardy perennials (USDA Zones 3-8). Taller varieties may need staking.
@@ -56,7 +56,7 @@ In colder climates, some varieties are hardy perennials, while others are best t
 * **Kenyan context:** These can be grown in cooler parts of Kenya, providing striking ornamental interest when other plants might be less vibrant.
 ---
 
-As the long, sun-drenched days of summer begin to wane, many gardens start to show signs of fatigue. The dazzling displays of peak season annuals and perennials may fade, leaving behind a less vibrant landscape. However, the end of summer doesn't have to signal the end of garden beauty. [Fall](https://pestpolicy.com/fall-lawn-care-guide/), with its crisp air and softer light, offers a spectacular opportunity to refresh and reinvigorate your outdoor space with a new wave of blooms.
+As the long, sun-drenched days of summer begin to wane, many gardens start to show signs of fatigue. The dazzling displays of peak season annuals and perennials may fade, leaving behind a less vibrant landscape. However, the end of summer doesn't have to signal the end of garden beauty. [Fall](https://pestpolicy.com/fall-lawn-care-guide/),with its crisp air and softer light, offers a spectacular opportunity to refresh and reinvigorate your outdoor space with a new wave of blooms.
 
 Many plants truly shine as temperatures cool, providing a much-needed burst of color and texture right up until the first hard frost (or, in milder climates, well into the cooler season). By strategically incorporating these autumn stars, you can create a flourishing fall garden that extends the joy of gardening and provides continuous visual interest.
 

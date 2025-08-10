@@ -15,11 +15,11 @@ tags:
 layout: post
 ---
 
-So, when do mosquitoes come [out](https://pestpolicy.com/how-to-grow-knock-out-roses/)? Naturally, mosquitoes tend to go during certain times of the day or season. Knowing their most active time or season presents an excellent opportunity to prevent bites or diseases they come with. So, when do mosquitoes come out? *Well, mosquitoes will come out either during the day or night, depending on the species.
+So, when do mosquitoes come [out](https://pestpolicy.com/how-to-grow-knock-out-roses/)?Naturally, mosquitoes tend to go during certain times of the day or season. Knowing their most active time or season presents an excellent opportunity to prevent bites or diseases they come with. So, when do mosquitoes come out? *Well, mosquitoes will come out either during the day or night, depending on the species.
 
 However, they often avoid the scorching midday sunlight to prevent dehydration.
 
-Besides, they remain active in the warmer months and hibernate during winter. * But its possible to have mosquitoes in indoor [spaces during the winter season](http://vectorbio.rutgers. edu/outreach/habitat. php) because its warmer inside there. Thus it would help if you were prepared with mosquito repellents during winter to keep off those that come indoors to escape low temperatures out there.
+Besides, they remain active in the warmer months and hibernate during winter. * But its possible to have mosquitoes in indoor [spaces during the winter season](http://vectorbio.rutgers.edu/outreach/habitat.php)because its warmer inside there. Thus it would help if you were prepared with mosquito repellents during winter to keep off those that come indoors to escape low temperatures out there.
 
 ##  When Do Mosquitoes Come Out? Most Active?
 
@@ -29,7 +29,7 @@ The Aedes usually come out during the day.
 
 They tend to be active from the morning up to late afternoon when they aggressively bite humans like fleas to get a blood meal. They can infect humans with yellow fever, Zika virus, chikungunya, and dengue fever. Culex pipiens start biting in the evening and may remain active a couple of hours during the night. When Culex mosquitoes are infected with the West Nile virus, they can transmit it to humans through bites.
 
-[The Anopheles mosquitoes usually bite](https://pestpolicy.com/spider-bite-vs-mosquito-bite/) throughout the better part of the night, including dusk and dawn. They are known to cause malaria in humans. Read Also: Mosquito Yard Spray.
+[The Anopheles mosquitoes usually bite](https://pestpolicy.com/spider-bite-vs-mosquito-bite/)throughout the better part of the night, including dusk and dawn. They are known to cause malaria in humans. Read Also: Mosquito Yard Spray.
 
 ##  **Are Mosquitoes Active Throughout The Year?**
 
@@ -51,7 +51,7 @@ Read Also: Best Mosquito Repellent for Yard **Schedule Your Travel to Off-Season
 
 ##  **How to Prepare for Mosquito Season**
 
-Mosquitoes will disappear during winter and resurface once the cold season is over. Not only is the warm weather favorable to mosquitoes, but its also accompanied by rains that favor their breeding. But how do you enjoy the favorable warm weather with mosquitoes in their most current mood? Well, below are few [tips to help you prepare your home against termites](https://pestpolicy.com/termite-prevention/) and for the dreaded mosquito season.
+Mosquitoes will disappear during winter and resurface once the cold season is over. Not only is the warm weather favorable to mosquitoes, but its also accompanied by rains that favor their breeding. But how do you enjoy the favorable warm weather with mosquitoes in their most current mood? Well, below are few [tips to help you prepare your home against termites](https://pestpolicy.com/termite-prevention/)and for the dreaded mosquito season.
 
 **Get Ready for The Mosquito Season: ** Mosquitoes wreak havoc immediately as temperatures begin to get above 10 degrees. You should expect mosquitoes are starting spring all through to early fall. So, it would help if you considered arming yourself with mosquito repellents and mosquito traps. The repellents expel as many mosquitoes as possible while the traps capture those that manage to come by.
 

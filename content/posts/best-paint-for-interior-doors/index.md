@@ -14,7 +14,7 @@ tags:
 layout: post
 ---
 
-The [interior](https://pestpolicy.com/how-to-paint-a-metal-interior-door/) of your house can be a high traffic zone, especially if you have more occupants who must move from one room to another.
+The [interior](https://pestpolicy.com/how-to-paint-a-metal-interior-door/)of your house can be a high traffic zone, especially if you have more occupants who must move from one room to another.
 
 During such movement, hands interact a lot with doors, thus staining and making them dirty. It is for such reasons that your doors need a regular touch by the Best Paint for Interior Doors to keep them neat and attractive. See Also: [Painting your Metal Interior Door](https://pestpolicy.com/how-to-paint-a-metal-interior-door/).
 

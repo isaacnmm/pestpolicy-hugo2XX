@@ -14,7 +14,7 @@ tags:
 layout: post
 ---
 
-What brings joy to an artist than the thought of owning the best paintbrushes for watercolor jobs? He can [paint](https://pestpolicy.com/best-paint-brushes-for-acrylic-painting/) the whole world for you if not your imaginations.
+What brings joy to an artist than the thought of owning the best paintbrushes for watercolor jobs? He can [paint](https://pestpolicy.com/best-paint-brushes-for-acrylic-painting/)the whole world for you if not your imaginations.
 
 Unlike the skills, proper tools mean a lot for any professional painter and, therefore, a useful guide. In this article, I will take you through the best paint brushes for watercolor and other mediums available in the market even as you make your decision on the appropriate one for your job. See Also: Quality Color Paint Goes With Beige Tile.
 
@@ -24,7 +24,7 @@ Unlike the skills, proper tools mean a lot for any professional painter and, the
 
 Winsor and Newton Cotman brushes are among the finest watercolor brushes to find in the market. In a set of 7 brushes, they are a clear definition of what quality means from their excellently blended synthetic bristles.
 
-Manufactured by the Winsor and Cotman brush company, their experience in the range of brushes is an assurance of high standard - [produce an excellent art piece](https://www.artistsnetwork. com/fantasy-art/). If you a professional painter, resilience is what you get from the bristles with exceptional soft filaments giving you a smooth flow and excellent spring.
+Manufactured by the Winsor and Cotman brush company, their experience in the range of brushes is an assurance of high standard - [produce an excellent art piece](https://www.artistsnetwork.com/fantasy-art/).If you a professional painter, resilience is what you get from the bristles with exceptional soft filaments giving you a smooth flow and excellent spring.
 
 Additionally, these bristles are easy to wash, and you can reuse the brush multiple times.
 

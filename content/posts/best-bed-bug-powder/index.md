@@ -73,7 +73,7 @@ The dust is effective for up to ten years when used in undisturbed areas like ho
 
 ##  How to Use Bed Bug powders
 
-There is a wide range of powders that you can use to protect your home from being bed bug-infestedeffectively. To use the powders in the right way, you need to start by clearing the clutter and other mess in your bedroom and other parts of the house. Apply your favorite powder in the holes, crevices, under the carpet, and in stuffed toys. These are the [areas that the bed bugs use to hide](https://pestpolicy.com/what-causes-bed-bugs/) and reproduce.
+There is a wide range of powders that you can use to protect your home from being bed bug-infestedeffectively. To use the powders in the right way, you need to start by clearing the clutter and other mess in your bedroom and other parts of the house. Apply your favorite powder in the holes, crevices, under the carpet, and in stuffed toys. These are the [areas that the bed bugs use to hide](https://pestpolicy.com/what-causes-bed-bugs/)and reproduce.
 
 The powders should be applied in small amounts. However, you must ensure that you target the right areas since without that, the bed bugs will keep reproducing, and your house will not be safe. Regardless of the powder that you use, you are supposed to clean your house of the residue that might have been left behind after the powder's application. Note that some powders work faster compared to the rest.
 
@@ -81,7 +81,7 @@ After applying the powder, you should give it at least 48 hours to kill all the 
 
 ##  Is Bed Bug Power Safe For Humans?
 
-Diatomaceous earth is the primary ingredient used by the powders mentioned above. It is mainly natural and does not have any effect on human health. - The[fact that it kills bed bugs](https://pestpolicy.com/what-happens-when-you-squish-a-bed-bug/)and prevents them from moving freely in your home makes it an ideal option. - It is essential to note that diatomaceous alone is not perfect forkilling and controlling bed bugsfrom infesting your home.
+Diatomaceous earth is the primary ingredient used by the powders mentioned above. It is mainly natural and does not have any effect on human health. - The[fact that it kills bed bugs](https://pestpolicy.com/what-happens-when-you-squish-a-bed-bug/)andprevents them from moving freely in your home makes it an ideal option. - It is essential to note that diatomaceous alone is not perfect forkilling and controlling bed bugsfrom infesting your home.
 
 Though it kills and ensures that they dont move in your house, diatomaceous works best alongside heat treatment. It is essential to heat-treat your items all the time and before using diatomaceous to complement the process. - Though the powders might not significantly affect humans, it is essential to treat and air your house after using them. - This makes sense since some companies use additives that might be poisonous.
 

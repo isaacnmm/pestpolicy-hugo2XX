@@ -32,7 +32,7 @@ Overall, this unit is guaranteed to offer you a hassle-free operation and it pas
 
 Cons: - Hard to assemble
 
-Read Also: [Best PTO [Tiller](https://pestpolicy.com/best-tiller-for-breaking-new-ground/) For The Money](https://pestpolicy.com/best-pto-tiller-for-the-money/)
+Read Also: [Best PTO [Tiller](https://pestpolicy.com/best-tiller-for-breaking-new-ground/)For The Money](https://pestpolicy.com/best-pto-tiller-for-the-money/)
 
 ###  [2. Earthwise TC70025 7.5 corded electric tiller](https://www.amazon.com/dp/B06Y24KQYN/?tag=p-policy-20)
 

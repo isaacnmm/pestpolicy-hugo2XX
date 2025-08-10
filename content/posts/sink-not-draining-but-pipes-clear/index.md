@@ -27,7 +27,7 @@ My issue was that maybe I had a more significant problem because, in the previou
 
 ###  What is vent stack? Where is it, and how can I check/fix it?
 
-Vent stack blocked? The gurgling sound usually means it is starving for air. Without venting, the flush operation would act as a vacuum and would not properly flush. The vent stack is usually hidden behind the wall. It is a vertical pipe to which all the [drains](https://pestpolicy.com/how-to-unclog-a-bathroom-sink-drain/) along with that line tie into. Check the toilet too to make sure there is no partial blockage.
+Vent stack blocked? The gurgling sound usually means it is starving for air. Without venting, the flush operation would act as a vacuum and would not properly flush. The vent stack is usually hidden behind the wall. It is a vertical pipe to which all the [drains](https://pestpolicy.com/how-to-unclog-a-bathroom-sink-drain/)along with that line tie into. Check the toilet too to make sure there is no partial blockage.
 
 Does the sink do anything funny also?
 
@@ -35,5 +35,5 @@ Does the sink do anything funny also?
 
 Sewer gases can enter your home.
 
-In general, if there is a vacuum in the line, it can suck the water out of your traps and drop the toilet water level. Read Also: [Is drain cleaner acid or base? ](https://pestpolicy.com/is-drain-cleaner-an-acid-or-base/) **How a Plumbing Trap Can Lose Water**
+In general, if there is a vacuum in the line, it can suck the water out of your traps and drop the toilet water level. Read Also: [Is drain cleaner acid or base? ](https://pestpolicy.com/is-drain-cleaner-an-acid-or-base/)**How a Plumbing Trap Can Lose Water**
 

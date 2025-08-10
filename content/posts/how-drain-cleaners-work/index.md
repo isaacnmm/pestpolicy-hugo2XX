@@ -15,13 +15,13 @@ tags:
 layout: post
 ---
 
-Cooking oil, hair, scum, soap, slime, and sludge can block drains leading to water obstruction or blockage. Today Im explaining how the [best drain cleaners](https://pestpolicy.com/best-drain-[cleaner](https://pestpolicy.com/best-drain-cleaner/)//) cut through standing water and eat up the organic matter in PVC and metal pipes. Recently, I discussed how to unclog stagnant water in your bathtub.
+Cooking oil, hair, scum, soap, slime, and sludge can block drains leading to water obstruction or blockage. Today Im explaining how the [best drain cleaners](https://pestpolicy.com/best-drain-[cleaner](https://pestpolicy.com/best-drain-cleaner/)//)cut through standing water and eat up the organic matter in PVC and metal pipes. Recently, I discussed how to unclog stagnant water in your bathtub.
 
-**Summary: Oxidizing drain cleaners (withnitrate ions) utilize heat and gas to unclog [drains](https://pestpolicy.com/best-shower-drain-cleaner/) while caustic drain cleaners generate hydroxide ions that clear the drain clog. It produces heat to break down the grease & oil. Here're the top drain cleaners. **
+**Summary: Oxidizing drain cleaners (withnitrate ions) utilize heat and gas to unclog [drains](https://pestpolicy.com/best-shower-drain-cleaner/)while caustic drain cleaners generate hydroxide ions that clear the drain clog. It produces heat to break down the grease & oil. Here're the top drain cleaners. **
 
 ##  How Drain Cleaners Work (Unclogging) Plumbing
 
-Chemical drain clears produce heat and gas, which may melt the PVC pipes if not used according to label instructions. Further, you must keep the cleaners away from animals or children as they are dangerous if ingested. The products may burn clothes or char mucous membranes, skin, and eyes. Precautions to take include dont use a plunger, dont [mixing on the drain cleaners](https://pestpolicy.com/best-drain-cleaner//), wearing gas masks and rubber gloves, and ensuring that the room is ventilated.
+Chemical drain clears produce heat and gas, which may melt the PVC pipes if not used according to label instructions. Further, you must keep the cleaners away from animals or children as they are dangerous if ingested. The products may burn clothes or char mucous membranes, skin, and eyes. Precautions to take include dont use a plunger, dont [mixing on the drain cleaners](https://pestpolicy.com/best-drain-cleaner//),wearing gas masks and rubber gloves, and ensuring that the room is ventilated.
 
 ###  (i). Chemical-Based Cleaners
 
@@ -35,7 +35,7 @@ Causticdrain cleaners**: These types of chemical drain cleaners have caustic pot
 
 ###  (ii). Enzyme-Based Cleaners
 
-Caution: dont use enzymatic cleaners combined with chemical disinfectants or bleach since these products will lessen their effectiveness. These natural and effective products will work for you if you love green solutions or simply allergic to chemical cleaners. The biofilm-eating enzyme cleaners will be great in unclogging [drains in septic](https://pestpolicy.com/bio-clean-drain-septic-bacteria-2-review/) systems.
+Caution: dont use enzymatic cleaners combined with chemical disinfectants or bleach since these products will lessen their effectiveness. These natural and effective products will work for you if you love green solutions or simply allergic to chemical cleaners. The biofilm-eating enzyme cleaners will be great in unclogging [drains in septic](https://pestpolicy.com/bio-clean-drain-septic-bacteria-2-review/)systems.
 
 Theyll work great with lukewarm water to allow the growth of different bacteria.
 

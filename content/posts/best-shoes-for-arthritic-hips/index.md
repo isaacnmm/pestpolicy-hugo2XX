@@ -22,7 +22,7 @@ Investing in the right shoes can help alleviate hip pain caused by Arthritis. Ch
 
 ###  [1. Brooks Men's Addiction Walker Walking Shoes](https://www.amazon.com/dp/B0012ILF94/?tag=p-policy-20)
 
-If youre looking for comfortable and supportive shoes for your Arthritic Hips you need to consider Brooks Addiction Walker. This walking [shoe](https://pestpolicy.com/best-shoes-for-bunions-and-plantar-fasciitis/) will minimize your hip pain thanks to its numerous technologies and features.
+If youre looking for comfortable and supportive shoes for your Arthritic Hips you need to consider Brooks Addiction Walker. This walking [shoe](https://pestpolicy.com/best-shoes-for-bunions-and-plantar-fasciitis/)will minimize your hip pain thanks to its numerous technologies and features.
 
 For starters, the Brooks Addiction Walker features Extended Progressive Diagonal Rollbar, which provides you maximum support. It offers crucial support to the arch helping the body to maintain a more natural walking pattern.
 
@@ -40,7 +40,7 @@ If youre looking for a comfortable, supportive, and slip-on arthritic shoe choos
 
 The outsole features ZeroG Technology that helps to keep you comfortable throughout the day. The contoured EVA footbed promotes additional underfoot cushioning. You can also remove the footbed and use custom-made orthotics for additional comfort and support.
 
-Hip pain sufferers swear by the support and comfort that Hush Puppies Gil provides. The shoe is [best for all-day standing](https://pestpolicy.com/best-non-slip-shoes-for-standing-all-day/) or walking.
+Hip pain sufferers swear by the support and comfort that Hush Puppies Gil provides. The shoe is [best for all-day standing](https://pestpolicy.com/best-non-slip-shoes-for-standing-all-day/)or walking.
 
 The shoe also features a ZeroG Elon midsole that provides crucial cushioning and support. Stroebel construction ensures additional flexibility and comfort.
 

@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 
-At PestPolicy, we offer expert hornet, [bee](https://pestpolicy.com/do-carpenter-bees-bite/), and wasp removal services to keep your property safe and pest-free.
+At PestPolicy, we offer expert hornet, [bee](https://pestpolicy.com/do-carpenter-bees-bite/),and wasp removal services to keep your property safe and pest-free.
 
 Our team is experienced in handling various types of stinging insects, ensuring effective and humane solutions. Heres a brief overview of the common stinging insects in Tacoma and how we can help:
 

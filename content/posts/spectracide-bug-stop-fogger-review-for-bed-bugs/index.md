@@ -27,7 +27,7 @@ Spectracide bug stop fogger produces a mist (fine and penetrating one) that'll g
 
 ###  1.Non-staining and No odor (Quite long)
 
-Spectracide Bug Stop produces a fine mist that'll cover various surfaces to kill bed bugs but won't stain theclothing, furniture, linens, bedspreads, beds, andcarpets. Therefore, the insecticide reduces the cleaning cost that would be required after treating the [areas for bed bugs](https://pestpolicy.com/bed-bugs-vs-mites/). Further, the cost of replacing stained objects like clothes will be significantly reduced.
+Spectracide Bug Stop produces a fine mist that'll cover various surfaces to kill bed bugs but won't stain theclothing, furniture, linens, bedspreads, beds, andcarpets. Therefore, the insecticide reduces the cleaning cost that would be required after treating the [areas for bed bugs](https://pestpolicy.com/bed-bugs-vs-mites/).Further, the cost of replacing stained objects like clothes will be significantly reduced.
 
 ###  2. On-contact ExterminationFormula
 
@@ -35,13 +35,13 @@ Spectracide Bug Stop readily kills all the fleas, eggs, and larvae through the o
 
 ###  3. Deep Reaching Formula
 
-The fogger produces a fine mist that'll penetrate [deep into the bed bug's hiding](https://pestpolicy.com/where-do-bed-bugs-hide/) places such as crevices and cracks or even smaller crannies and nooks. Therefore, the insecticide will readily reach the hard places that tend to host bed bugs, eggs, and the larvae preparing to bring up another dangerous population. Related: Bed Bug Pictures
+The fogger produces a fine mist that'll penetrate [deep into the bed bug's hiding](https://pestpolicy.com/where-do-bed-bugs-hide/)places such as crevices and cracks or even smaller crannies and nooks. Therefore, the insecticide will readily reach the hard places that tend to host bed bugs, eggs, and the larvae preparing to bring up another dangerous population. Related: Bed Bug Pictures
 
 ##  #3: My Experience:
 
 ###  1. Has a 2-weeks residue effect
 
-Despite thatSpectracide Bug Stop is marketed as an on-contact extermination solution for bed bugs, it also has a long residue effect - going up to 2 weeks. Therefore, you'll need to apply the fogger in the recommended spaces (areas) after 2 weeks, where it'll kill all the [adult bed bugs](https://pestpolicy.com/do-bed-bugs-jump/) and thesterile bed bugs or roaches.
+Despite thatSpectracide Bug Stop is marketed as an on-contact extermination solution for bed bugs, it also has a long residue effect - going up to 2 weeks. Therefore, you'll need to apply the fogger in the recommended spaces (areas) after 2 weeks, where it'll kill all the [adult bed bugs](https://pestpolicy.com/do-bed-bugs-jump/)and thesterile bed bugs or roaches.
 
 ###  1. IsSpectracide Bug Stop Effective in cars?
 

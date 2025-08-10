@@ -52,7 +52,7 @@ Actually, Dekko comes in two, 24-pack boxes that guarantee you multiple times us
 
 However, the package should be kept away from kids and pets.
 
-The Good: - It's easier to install - place pack in a strategic point - Comes in 24 pack box - multiple uses - Highly refined with 20% boric acid and 80% inert ingredients - It's economical and kills when ingested - Can be used either indoors or outdoors - It lasts for over 4 months - Has no itching effects on contact - no skin irritation The Bad: - It May take longer to kill the entire silverfish infestation - about 4 weeks - Only kills when ingested - Should be replaced after 4 months - Should be kept away from pets and kids Related: [Fogger for [Fleas](https://pestpolicy.com/are-fleas-nocturnal/)](https://pestpolicy.com/best-fogger-for-fleas/)
+The Good: - It's easier to install - place pack in a strategic point - Comes in 24 pack box - multiple uses - Highly refined with 20% boric acid and 80% inert ingredients - It's economical and kills when ingested - Can be used either indoors or outdoors - It lasts for over 4 months - Has no itching effects on contact - no skin irritation The Bad: - It May take longer to kill the entire silverfish infestation - about 4 weeks - Only kills when ingested - Should be replaced after 4 months - Should be kept away from pets and kids Related: [Fogger for Fleas](https://pestpolicy.com/best-fogger-for-fleas/)
 
 ##  [4. D-Fense Dust](https://www.amazon.com/dp/B007AIE8OY/?tag=p-policy-20)
 
@@ -68,7 +68,7 @@ However, D-Fense Dust should be kept away from children and pets The Good: - Con
 
 ##  [5. JT Eaton 360 silverfish Killer](https://www.amazon.com/dp/B000HMCAAO/?tag=p-policy-20)
 
-JT Eaton 360 is a concentrated silverfish [repellent](https://pestpolicy.com/best-gnat-repellent/) that comes packed in a ready-to-use dilution ratio. - The inflammable compound is highly refined to improve killing action (kills in contact) and boost crack penetration. You will definitely love the alternative nozzle that comes with JT Eaton as it allows point application, thus eliminating overspray.
+JT Eaton 360 is a concentrated silverfish [repellent](https://pestpolicy.com/best-gnat-repellent/)that comes packed in a ready-to-use dilution ratio. - The inflammable compound is highly refined to improve killing action (kills in contact) and boost crack penetration. You will definitely love the alternative nozzle that comes with JT Eaton as it allows point application, thus eliminating overspray.
 
 In addition, the powder substance integrates non-staining ingredients that prevent surface damage upon use - Fogger for Roaches. JT Eaton works best when used either indoors or outdoor - provided it's kept dry on the surface. You can count on JT Eaton when it comes to action power - the powder has a long-lasting residual effect and limited environmental pollution.
 

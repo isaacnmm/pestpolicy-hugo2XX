@@ -61,7 +61,7 @@ However, the abdomen of the fleas will change in size as the bug sucks blood or 
 
 - Thus, the abdomen segments will continue expanding and make the fleas' abdomen to become longer.
 
-When the flea is well fed, you can inspect its last segment and see the [flea's sensilium](https://livestockvetento.tamu. edu/insectspests/fleas/) (senses the bug's host) and also the genitals. - Fleas have a[lifecycle](https://pestpolicy.com/flea-life-cycle/)that lasts about 2-3 months but these bugs could live for even 1. 5 years in different localities (varied humidity and temperature), and the presence of host blood.
+When the flea is well fed, you can inspect its last segment and see the [flea's sensilium](https://livestockvetento.tamu.edu/insectspests/fleas/)(senses the bug's host) and also the genitals. - Fleas have a[lifecycle](https://pestpolicy.com/flea-life-cycle/)thatlasts about 2-3 months but these bugs could live for even 1. 5 years in different localities (varied humidity and temperature), and the presence of host blood.
 
 ###  3. Fleas'Thorax
 
@@ -71,7 +71,7 @@ The thorax of fleas has 3 leg pairs with their hind ones being the longest. - Th
 
 Yes, flea eggs are about 0. 5mm (tiny) but they're visible to a naked human eye - they're smooth and oval-shaped. - However, since the eggs are white, you might not see them when on fabric that's light-colored. The flea eggs are white to semi-transparent and will appear shiny and oval-shaped. You'll notice that the flea's eggs will appear like salt grains - since they measure about a length of 0. 5 mm and a width of 0. 3 mm.
 
-- You might fail to notice the light-colored flea eggs ([not like flea dirt that is more dirt](https://pestpolicy.com/what-is-flea-dirt/)) while they're stuck in carpet fibers or pet fur. Matura fleas eggs may look a bit darker and hence they'll be noticeable faster. Despite that flea eggs are largely dry, they're laid in a wet and sticky form. - On the structure, fleas are highly fragile and they'll get crashed with light force to form a gel.
+- You might fail to notice the light-colored flea eggs ([not like flea dirt that is more dirt](https://pestpolicy.com/what-is-flea-dirt/))while they're stuck in carpet fibers or pet fur. Matura fleas eggs may look a bit darker and hence they'll be noticeable faster. Despite that flea eggs are largely dry, they're laid in a wet and sticky form. - On the structure, fleas are highly fragile and they'll get crashed with light force to form a gel.
 
 Notably, the eggs have a wall that measures just one picometer in thickness and you can view the larvae through their shell. Related: [Why Do Flea Bites Itch? ](https://pestpolicy.com/why-do-flea-bites-itch/)
 

@@ -22,7 +22,7 @@ Our kids are scared to death to play on the playset. So, how do we keep Wasps Aw
 
 ##  How to Keep Wasps Away from Playsets
 
-1. ** Using Natural Insect Pest Control ** - **Use Herbs****A mix of vinegar, salt & sugar****Detergent, Tap Water, & peppermint extract** - **Use Herbs** - **A mix of vinegar, salt & sugar** - **Detergent, Tap Water, & peppermint extract** 1. ** Use Fake wasps nest ** 2. ** Use of chemicals** 3. ** Use [Wasp](https://pestpolicy.com/baby-wasp/) and Hornet Spray** 4. ** Maintaining Cleanliness ** 5. ** Pesticides** 6.
+1. ** Using Natural Insect Pest Control ** - **Use Herbs****A mix of vinegar, salt & sugar****Detergent, Tap Water, & peppermint extract** - **Use Herbs** - **A mix of vinegar, salt & sugar** - **Detergent, Tap Water, & peppermint extract** 1. ** Use Fake wasps nest ** 2. ** Use of chemicals** 3. ** Use [Wasp](https://pestpolicy.com/baby-wasp/)and Hornet Spray** 4. ** Maintaining Cleanliness ** 5. ** Pesticides** 6.
 
 **Calling an exterminator** *Note: wasps prefer to build their nests in * *crevices* * and in dark warm areas. On your kids' playset, these areas may include inside the playhouse, climber* **, ** *swings, slides, on the roof of the playhouse, among other areas. The wasps can literally attack any section of the playset and find a perfect resting point. This can be dangerous for you and your kids. *
 

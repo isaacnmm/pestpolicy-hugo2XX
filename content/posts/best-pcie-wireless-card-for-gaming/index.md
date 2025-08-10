@@ -14,7 +14,7 @@ tags:
 layout: post
 ---
 
-To achieve better signal ranges and increased transmission speeds for your gaming, you'll need the [Best](https://pestpolicy.com/best-raspberry-pi-3-starter-kits/) PCIE Wireless Card for Gaming. There are two kinds of Wi-Fi adapter technologies: PCI-E Wireless Adapters and USB Windows 10 Compatible WiFi Adapters. PCI-E has reduced physical footprint, allows [Input-output virtualization](https://en.wikipedia.
+To achieve better signal ranges and increased transmission speeds for your gaming, you'll need the [Best](https://pestpolicy.com/best-raspberry-pi-3-starter-kits/)PCIE Wireless Card for Gaming. There are two kinds of Wi-Fi adapter technologies: PCI-E Wireless Adapters and USB Windows 10 Compatible WiFi Adapters. PCI-E has reduced physical footprint, allows [Input-output virtualization](https://en.wikipedia.
 
 org/wiki/I/O_virtualization), and an extensive error detection system (AER).
 
@@ -76,5 +76,5 @@ The PCI-E Wi-Fi adapter fastens reading and writing easy from your drive.
 
 Finally, you now have a list of the excellent PCI-E Wireless Cards that will make your Gaming seamless. Therefore, make a choice for the best PCI-E card and enjoy your gaming, TV streaming, and net surfing. What are PCI-E Wireless Adapters? - PCI-E replaces the AGP, PCI-X, PCI, and bus standards or expands your connecting via the PCI-E-based expansion cards.
 
-[PCI-E Wireless Adapters come in four series](https://en.wikipedia. org/wiki/PCI_Express): PCI-E 1 (25 mm), 4 (39 mm), 8 (56 mm), and 16 (89 mm).
+[PCI-E Wireless Adapters come in four series](https://en.wikipedia.org/wiki/PCI_Express):PCI-E 1 (25 mm), 4 (39 mm), 8 (56 mm), and 16 (89 mm).
 

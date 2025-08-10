@@ -14,7 +14,7 @@ tags:
 layout: post
 ---
 
-Whats the best [ladder](https://pestpolicy.com/best-folding-ladders-for-painters/) for painting 2 story house? [Painting 2 story house](https://www.wikihow. com/[Paint](https://pestpolicy.com/airless-paint-sprayer-cleaning-solution/)-a-House) may be challenging especially when it comes to reaching the roof or ceiling of your house at ease without any accident.
+Whats the best [ladder](https://pestpolicy.com/best-folding-ladders-for-painters/)for painting 2 story house? [Painting 2 story house](https://www.wikihow.com/[Paint](https://pestpolicy.com/airless-paint-sprayer-cleaning-solution/)-a-House)may be challenging especially when it comes to reaching the roof or ceiling of your house at ease without any accident.
 
 Ladders are designed with various features that call for keen selection to suit the job at hand. Perhaps youre stuck and wonders which ladder would fit your house-painting task without hassle among many brands in the current market. See Also: Heres how to stain a deck.
 

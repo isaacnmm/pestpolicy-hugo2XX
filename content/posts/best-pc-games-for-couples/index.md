@@ -50,7 +50,7 @@ Looking for a different experience with your wife or husband, then Lovers in a D
 
 Consequently, with the heart, you can now move to the next stage in the gaming campaign one among 4 campaigns in the game. However, there are different kinds of enemies and sceneries on the way that could harm you and thus affect your shooting techniques, flying capability, and functioning of your weapons. Check the full review.
 
-- Therefore, brace yourself with the required[steam link [controllers](https://pestpolicy.com/best-controller-for-retropie/)](https://pestpolicy.com/best-controller-for-steam-link/), and enjoy a thrilling and hilarious coop game with your lover. - However, if you prefer to go it solo, for now, load the game and challenge yourself into the strategically-designed gaming campaign.
+- Therefore, brace yourself with the required[steam link controllers](https://pestpolicy.com/best-controller-for-steam-link/),and enjoy a thrilling and hilarious coop game with your lover. - However, if you prefer to go it solo, for now, load the game and challenge yourself into the strategically-designed gaming campaign.
 
 With your partner (co-pilot), you will be required to fly a circular spaceship having varied terminals through different space stations, asteroid belts in a rescue mission. You can upgrade the stations by collecting flowing gems located at space inky blackness which you can further combine to create special power-ups. > Lovers in a Dangerous Spacetime has excellently designed products accurate, classy and bright.
 

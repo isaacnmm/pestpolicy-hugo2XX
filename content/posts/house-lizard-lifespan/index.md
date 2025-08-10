@@ -67,7 +67,7 @@ To prolong the lifespan of your pet house lizard, do not hold it by the tail. In
 
 ##  Weird Life Behaviors of House Lizard
 
-House lizard has several weird behaviors that you may need to know. These behaviors include: 1. **Eating their own shed skin**. Gecko eat their skin -[using their teeth](https://pestpolicy.com/do-lizards-have-teeth/)- as soon as it is shed. You may not notice that, however, you will find a change in its new skin color. 2. **Female is parthenogenesis. **This mean that the female house lizard does not need a male to reproduce always.
+House lizard has several weird behaviors that you may need to know. These behaviors include: 1. **Eating their own shed skin**. Gecko eat their skin -[using their teeth](https://pestpolicy.com/do-lizards-have-teeth/)-as soon as it is shed. You may not notice that, however, you will find a change in its new skin color. 2. **Female is parthenogenesis. **This mean that the female house lizard does not need a male to reproduce always.
 
 It have ability to reproduce without mating with male.
 

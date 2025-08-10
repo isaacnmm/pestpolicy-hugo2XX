@@ -21,13 +21,13 @@ For along time, scientific evidence considered that spiders are dominated by tou
 
 ##  Details: Do Spiders Have Ears?
 
-According to the [Paul Shamble research](https://www.theguardian. com/science/2016/oct/13/spiders-dont-have-ears-but-they-can-still-hear-you-coming), their study showed that spiders have acute hearing senses. These insects, despite lacking ears and eardrums, will hear sounds from far distances. Definitely, the research notes that the [spider](https://pestpolicy.com/can-you-drown-a-spider/)'s eardrums are small but its sensitive leg hairs will help the insect to detect sounds.
+According to the [Paul Shamble research](https://www.theguardian.com/science/2016/oct/13/spiders-dont-have-ears-but-they-can-still-hear-you-coming),their study showed that spiders have acute hearing senses. These insects, despite lacking ears and eardrums, will hear sounds from far distances. Definitely, the research notes that the [spider](https://pestpolicy.com/can-you-drown-a-spider/)'seardrums are small but its sensitive leg hairs will help the insect to detect sounds.
 
 Current research shows spiders will hear humans clap and talk in 5 meters. Related: [Do Spiders Poop? ](https://pestpolicy.com/do-spiders-poop/)
 
 ##  Spider's Legs Are Sensitive To Sound Waves
 
-[Past knowledge](https://www.researchgate. net/blog/post/that-spider-in-the-corner-can-hear-you-from-across-the-room) suggested that the hairs on the spiders legs are sensitive to sound waves plus other airborne vibrations - but they said this was limited to sounds only near the spider's body length.
+[Past knowledge](https://www.researchgate.net/blog/post/that-spider-in-the-corner-can-hear-you-from-across-the-room)suggested that the hairs on the spiders legs are sensitive to sound waves plus other airborne vibrations - but they said this was limited to sounds only near the spider's body length.
 
 Definitely, most researchers had not realized that the spiders would also interpret the sound waves to a neural activity - this implies that the arachnids could actually hear the sound waves not just sensing even when the [spiders are resting](https://pestpolicy.com/do-spiders-sleep/).
 
@@ -39,13 +39,13 @@ com/log/post/that-spider-in-the-corner-can-hear-you-from-across-the-room) - this
 
 When Menda was moving from the spiders, the chair did some squeaking in the laboratory floor. The spider's neurons fired with the chair squeaking - they could hear a 'pop' sound. Again the neural recordings fired again. To clarify their discovery, the researchers did clap as they moved away from the spider to check when the neurons firing would stop. But the neurons firing continued up to 5 meters from the spider.
 
-[Menda](https://www.sciencealert. com/log/post/that-spider-in-the-corner-can-hear-you-from-across-the-room) reported that the accidental discovery had just enabled the researchers to begin a new journey into testing the spider's hearing capability. Related: Best Fogger for Spiders
+[Menda](https://www.sciencealert.com/log/post/that-spider-in-the-corner-can-hear-you-from-across-the-room)reported that the accidental discovery had just enabled the researchers to begin a new journey into testing the spider's hearing capability. Related: Best Fogger for Spiders
 
 ##  Testing Spiders Hair using Water Droplets
 
 Menda and team went on to determine the spider's hearing capability by placing some droplets of water on the insects legs - the main was to reduce the vibrations that would happen on the hairs. But the spider's auditory neurons could no fire - which would mean the arachnid could not hear. Tests showed spiders were sensitive to sounds at low frequencies (80 Hz -130 Hz) like for wasps' wing-beats.
 
-However, even with their slight haring, spiders won't hear like human do - this is because their brain process such information in a different way. The researchers are now examining if spider species like fishing spiders and wolf spider show similar reaction on sound waves - as shown in [Current Biology](http://www.cell. com/current-biology/fulltext/S0960-9822(16)30985-X). Related: Best Spider Spray for Indoors
+However, even with their slight haring, spiders won't hear like human do - this is because their brain process such information in a different way. The researchers are now examining if spider species like fishing spiders and wolf spider show similar reaction on sound waves - as shown in [Current Biology](http://www.cell.com/current-biology/fulltext/S0960-9822(16)30985-X).Related: Best Spider Spray for Indoors
 
 ##  Can Spiders Hear You Scream?
 

@@ -15,15 +15,15 @@ tags:
 layout: post
 ---
 
-Today Ill discuss my short investigation with vinegar and baking soda to see if its perfect in unblocking slow-moving drains as some [YouTubers Claim](. The two ingredients are readily available and will have a bubbling reaction. *Summary: It's a thumbs down for thevinegar and baking soda in unclogging blocked drains and de-scaling pipes.
+Today Ill discuss my short investigation with vinegar and baking soda to see if its perfect in unblocking slow-moving drains as some [YouTubers Claim](.Thetwoingredientsarereadilyavailableandwillhaveabubblingreaction.*Summary:It'sathumbsdownforthevinegarandbakingsodainuncloggingblockeddrainsandde-scalingpipes.
 
-Arecent experiment proves that the bubbling (Sodium Acetate + Water) can't de-clog your drain or remove the clogging gunk deep down the drain.
+Arecentexperimentprovesthatthebubbling(SodiumAcetate+Water) can't de-clog your drain or remove the clogging gunk deep down the drain.
 
 So, I'll stick toreliable drain cleaners. *
 
 ##  Vinegar + Baking Soda = Sodium Acetate + Water
 
-When you add vinegar to Baking soda, youll create a bubbling mix. However, the bubbling is just producing Sodium Acetate + Water, which will not do a reliable deep cleaning. With the vinegar plus Baking soda, its mix will create just [salt and water that will not help generate the drain clog](http://www.crunchybetty. com/diy-101-baking-soda-vinegar-not-so-much) you might burn your resources.
+When you add vinegar to Baking soda, youll create a bubbling mix. However, the bubbling is just producing Sodium Acetate + Water, which will not do a reliable deep cleaning. With the vinegar plus Baking soda, its mix will create just [salt and water that will not help generate the drain clog](http://www.crunchybetty.com/diy-101-baking-soda-vinegar-not-so-much)you might burn your resources.
 
 **So, whats the best method**: Instead of using the mix of the two greening ingredients, use the baking soda like your scouring agent in cleaning bathrooms or the sinks. On the other hand, use vinegar for neutralizing any odor or like a scum busting.
 
@@ -37,9 +37,9 @@ I know most of you may believe the bubbles (from the white vinegar plus baking s
 
 **Alternatives Boiled water, Dish Soap, Salt, Drain Snake** However, if you still dont fancy using the recommended drain cleaners, you can use boiled water and mix it with some dish soap (it works in the drain with oil or grease buildup, such as kitchen sinks).
 
-Further, you can add salt to boiled [water to also help in unclogging the drain](https://pestpolicy.com/how-to-unclog-a-bathtub-drain-with-standing-water/). I recently covered how to [unclog a shower drain full of hair](https://pestpolicy.com/how-to-unclog-a-shower-drain-full-of-hair/), just like its covered in this guide showingwhy these alternative methods are effective.
+Further, you can add salt to boiled [water to also help in unclogging the drain](https://pestpolicy.com/how-to-unclog-a-bathtub-drain-with-standing-water/).I recently covered how to [unclog a shower drain full of hair](https://pestpolicy.com/how-to-unclog-a-shower-drain-full-of-hair/),just like its covered in this guide showingwhy these alternative methods are effective.
 
-However, youll need to remove the hair, oil, and grease clog balls by [snaking the drain](https://pestpolicy.com/best-drain-snakes/) for shower or bathtub clog.
+However, youll need to remove the hair, oil, and grease clog balls by [snaking the drain](https://pestpolicy.com/best-drain-snakes/)for shower or bathtub clog.
 
 ##  Conclusion
 

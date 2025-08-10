@@ -14,7 +14,7 @@ tags:
 layout: post
 ---
 
-Safety is the number one consideration when buying trampolines. Most parents are overwhelmed with the many brands, styles, and shapes of trampolines. To make it a bit easier, I will discuss Springfree [Trampoline](https://pestpolicy.com/are-trampolines-good-for-obese-people/) vs. Regular Trampoline.
+Safety is the number one consideration when buying trampolines. Most parents are overwhelmed with the many brands, styles, and shapes of trampolines. To make it a bit easier, I will discuss Springfree [Trampoline](https://pestpolicy.com/are-trampolines-good-for-obese-people/)vs. Regular Trampoline.
 
 I will cover everything you need to know about these two options. So sit tight, read this article to the end, become more informed.
 
@@ -22,7 +22,7 @@ Related: 12 ft. vs-14 ft. Trampoline
 
 ##  Springfree Trampoline Vs Regular Trampoline-Details
 
-Trampolines provide an excellent way for kids and adults to have active and healthy lifestyles. A recent [study](https://newsroom.osfhealthcare. org/screen-time-for-kids-how-much-is-too-much/) has shown that children spend hours in front of the screen.
+Trampolines provide an excellent way for kids and adults to have active and healthy lifestyles. A recent [study](https://newsroom.osfhealthcare.org/screen-time-for-kids-how-much-is-too-much/)has shown that children spend hours in front of the screen.
 
 Hence, parents need to look for exciting ways to encourage kids to spend more time outdoors.
 
@@ -36,9 +36,9 @@ Checkout: [Rectangular Vs. Round Trampoline](https://pestpolicy.com/rectangular-
 
 ###  What Is A Springfree Trampoline?
 
-A [Springfree Trampoline](https://en.wikipedia. org/wiki/Springfree_Trampoline) is simply a trampoline without springs. These trampolines dont have springs in their construction, instead they are reinforced with fiberglass poles. Hence, they eliminate areas that can trap the toes or feet or those areas that can cause pinching.
+A [Springfree Trampoline](https://en.wikipedia.org/wiki/Springfree_Trampoline)is simply a trampoline without springs. These trampolines dont have springs in their construction, instead they are reinforced with fiberglass poles. Hence, they eliminate areas that can trap the toes or feet or those areas that can cause pinching.
 
-Developed by [Dr. Keith Vivian Alexander](https://en.wikipedia. org/wiki/Keith_Alexander_(engineer)), springfree trampolines have hidden frames. These frames have 3 layers of rust protection to prevent peeling. The frame is also located beneath the jumping surface. Hence, theres no way a jumper can hit it or fall on it.
+Developed by [Dr. Keith Vivian Alexander](https://en.wikipedia.org/wiki/Keith_Alexander_(engineer)),springfree trampolines have hidden frames. These frames have 3 layers of rust protection to prevent peeling. The frame is also located beneath the jumping surface. Hence, theres no way a jumper can hit it or fall on it.
 
 Dr. Keith Vivian created safe trampolines by eliminating all areas on a regular trampoline that cause injuries. Thus, he eliminated steel coil springs and the rigid perimeter frame to come with the safest trampolines of our time.
 

@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 
-In this post, I've [reviewed](https://pestpolicy.com/best-gopher-traps/) the best fly [trap](https://pestpolicy.com/best-silverfish-traps/) available. Besides carrying bacteria that can cause illnesses, flies have a constant buzzing annoying as well. - You want them away from your food and away from your kitchen.
+In this post, I've [reviewed](https://pestpolicy.com/best-gopher-traps/)the best fly [trap](https://pestpolicy.com/best-silverfish-traps/)available. Besides carrying bacteria that can cause illnesses, flies have a constant buzzing annoying as well. - You want them away from your food and away from your kitchen.
 
 It is almost impossible to keep them from invading your kitchen, and thats where insecticides and fly-killing devices come in handy. Let's get started!
 

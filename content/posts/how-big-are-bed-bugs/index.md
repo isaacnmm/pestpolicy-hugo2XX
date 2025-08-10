@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 
-How big are bed bugs? Bed bug bites are painful and cause excessive irritating, but most of us don't know the bug's appearance, shape, size, and color. So, how [big the bugs](https://www.epa. gov/bedbugs/[bed-bugs](https://pestpolicy.com/bed-bug-bites-vs-mosquito-bites/)-appearance-and-life-cycle) are; *In summary, adult bed bugs (last in the life cycle) measure inch in length - roughly the size of an apple seed in length - and can be seen with a naked eye with no magnification.
+How big are bed bugs? Bed bug bites are painful and cause excessive irritating, but most of us don't know the bug's appearance, shape, size, and color. So, how [big the bugs](https://www.epa.gov/bedbugs/[bed-bugs](https://pestpolicy.com/bed-bug-bites-vs-mosquito-bites/)-appearance-and-life-cycle)are; *In summary, adult bed bugs (last in the life cycle) measure inch in length - roughly the size of an apple seed in length - and can be seen with a naked eye with no magnification.
 
 * *Also, bed bugs are oval-shaped (but long and flat), plus they're brown. * But bed bugs are cryptic and nocturnal - they'll highly avoid detection. They may quickly reproduce (including nymph adults and eggs) and spread all over the house.
 
@@ -55,7 +55,7 @@ After taking a blood meal, and before the female's mate and lay eggs, the bugs w
 
 ##  How Big Are Bed Bug Eggs?
 
-Once the small bed bugs feed on a pet or human blood, they'll get plumb about double their original size. Further, [Bed bug eggs](https://pestpolicy.com/bed-bug-eggs/) are even smaller - and off-white in color. Female [bed bugs will lay](https://pestpolicy.com/how-to-kill-bed-bug-eggs/) roughly 500 - 600 eggs for their whole life-time. The eggs are white and equally tiny, looking like a salt grain or pinhead on physical appearance.
+Once the small bed bugs feed on a pet or human blood, they'll get plumb about double their original size. Further, [Bed bug eggs](https://pestpolicy.com/bed-bug-eggs/)are even smaller - and off-white in color. Female [bed bugs will lay](https://pestpolicy.com/how-to-kill-bed-bug-eggs/)roughly 500 - 600 eggs for their whole life-time. The eggs are white and equally tiny, looking like a salt grain or pinhead on physical appearance.
 
 But the eggs will also be wet - covered by some sticky substance making them get stuck on different objects. However, within a week, the eggs will have a "dark eye" on their surface. Bed bug eggs have a tough surface that'll withstand and survive most insecticides - the reason why you must use steamers (with temperatures over 120 degrees) -, and thus, over 90% of the eggs will hatch successfully.
 
@@ -75,5 +75,5 @@ Nymphs will live even up to 4 months without a blood meal. Nymphs may also look 
 
 ##  Conclusion
 
-These are tiny bugs, but you may see them only clear when there's a huge infestation. To effectively control bed bugs, you must know their average size, color, and shape- try [bed bug sprays for control](https://pestpolicy.com/best-bed-bug-spray/). So, for the question of how big are bed bugs? : Bed bugs are tiny bugs measuring about inch in length - about apple seed's length - they're visible to the human eye.
+These are tiny bugs, but you may see them only clear when there's a huge infestation. To effectively control bed bugs, you must know their average size, color, and shape- try [bed bug sprays for control](https://pestpolicy.com/best-bed-bug-spray/).So, for the question of how big are bed bugs? : Bed bugs are tiny bugs measuring about inch in length - about apple seed's length - they're visible to the human eye.
 

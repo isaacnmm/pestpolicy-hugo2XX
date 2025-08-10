@@ -41,11 +41,11 @@ But they are also easily mistaken for bed bugs because most of them are reddish 
 
 They are however smaller than bed bugs and have wings that are covered with hairs. Unlike bed bugs, spider beetles have two body segments (head connects to the body without a neck). - **Size: **1/32 in-3/16 in or 1-5mm - **Shape: **Oval - **Do Spider Beetles have wings? **They have wings but only a few species can fly - **Do Spider Beetles bite? **They dont bite **Where are Spider Beetles found?
 
-** They inhabit wooden structures [and carpets](https://pestpolicy.com/can-[bed-bugs](https://pestpolicy.com/bed-bug-bites-vs-mosquito-bites/)-live-in-carpet/) where they can easily access stored food.
+** They inhabit wooden structures [and carpets](https://pestpolicy.com/can-[bed-bugs](https://pestpolicy.com/bed-bug-bites-vs-mosquito-bites/)-live-in-carpet/)where they can easily access stored food.
 
 ###  3. Cockroach Nymphs
 
-**Colour: ** Reddish-brown **Description: ** Cockroach nymphs bear a lot of similarity to adult [bed](https://pestpolicy.com/bed-bug-bites-vs-other-bites/) bugs, especially in their size and color. When lodged in their favourite narrow cracks, youll easily confuse them for bed bugs. - **Size: **2 in long - **Shape: **Cylindrical - **Do Cockroach Nymphs have wings? **Cockroach nymphs have no wings - **Do Cockroach Nymphs bite?
+**Colour: ** Reddish-brown **Description: ** Cockroach nymphs bear a lot of similarity to adult [bed](https://pestpolicy.com/bed-bug-bites-vs-other-bites/)bugs, especially in their size and color. When lodged in their favourite narrow cracks, youll easily confuse them for bed bugs. - **Size: **2 in long - **Shape: **Cylindrical - **Do Cockroach Nymphs have wings? **Cockroach nymphs have no wings - **Do Cockroach Nymphs bite?
 
 **They dont bite **Where are Cockroach Nymphs found?
 

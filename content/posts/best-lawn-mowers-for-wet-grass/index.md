@@ -16,7 +16,7 @@ layout: post
 
 Whereas it is always ideal to cut grass during dry weather because it can be mowed by a majority of mowers, there are instances when mowing wet lawns cannot be avoided.
 
-The [Best](https://pestpolicy.com/best-lawn-mower-for-large-yard/) Lawn Mower for Wet Grass should be sufficiently powerful and its blades sharp enough to cut through wet grass - including lawnmowers for zoysia grass. Ensure that you'll only cut [about a third of the grass blades](http://www.ipm. ucdavis. edu/TOOLS/TURF/ESTABLISH/onethird. html). Check that the mower has serrated tips like those in [gator blades](http://www.gatorblade.
+The [Best](https://pestpolicy.com/best-lawn-mower-for-large-yard/)Lawn Mower for Wet Grass should be sufficiently powerful and its blades sharp enough to cut through wet grass - including lawnmowers for zoysia grass. Ensure that you'll only cut [about a third of the grass blades](http://www.ipm.ucdavis.edu/TOOLS/TURF/ESTABLISH/onethird.html).Check that the mower has serrated tips like those in [gator blades](http://www.gatorblade.
 
 com/) to easily cut wet grass clumps.
 
@@ -52,7 +52,7 @@ Cons: - Limited mowing capacity on a single charge
 
 This is arguably one of the best push mowers for small yards which is powered by a 140cc engine whose auto choke technology eliminates priming for a smoother start even in wet and freezing conditions.
 
-In addition, this units 3 in 1 deck and a mulch kit allows the user to mulch the lawn during wet conditions by putting nutrients back into the soil - mowers for [cutting edges](https://pestpolicy.com/best-lawn-mower-for-cutting-edges/). A rear grass bag collects the clipped grass for easier composting. The Craftsman M105 features a 21 convertible cutting deck which allows the user to discharge cut grass through the side.
+In addition, this units 3 in 1 deck and a mulch kit allows the user to mulch the lawn during wet conditions by putting nutrients back into the soil - mowers for [cutting edges](https://pestpolicy.com/best-lawn-mower-for-cutting-edges/).A rear grass bag collects the clipped grass for easier composting. The Craftsman M105 features a 21 convertible cutting deck which allows the user to discharge cut grass through the side.
 
 The manoeuvrability of this unit is eased by its 8 rear wheels which allows the user to mow through rough terrain or wet conditions. This Craftsman model cutting deck can be adjusted to 6 position heights while running. This unit is ideal for rugged mowing conditions as depicted by its comfortable handle and 8 diameter wheels.
 

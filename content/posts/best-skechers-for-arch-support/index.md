@@ -66,7 +66,7 @@ For starters, the boot is 100% leather, thus, it should give you proper service 
 
 Furthermore, the midsole features a shock-absorbing component that protects you from hard impact. Further, the gel-infused memory foam and cushioned insoles provide you comfort, cushioning, and support on your underfoot.
 
-Besides that, youll appreciate the Relaxed Fit design that provides a spacious interior to accommodate different types of feet. People with bunions-for-flat-feet-and-bunions/), [hammertoes](https://pestpolicy.com/best-shoes-for-hammer-toes-and-bunions/), and [claw toes](https://pestpolicy.com/best-shoes-for-claw-toes/) among others will benefit from this dress work shoe.
+Besides that, youll appreciate the Relaxed Fit design that provides a spacious interior to accommodate different types of feet. People with bunions-for-flat-feet-and-bunions/), [hammertoes](https://pestpolicy.com/best-shoes-for-hammer-toes-and-bunions/),and [claw toes](https://pestpolicy.com/best-shoes-for-claw-toes/)among others will benefit from this dress work shoe.
 
 This arch support sketcher also has a lace-up closure design that enables you to tighten or loosen your boot until you find the perfect fit. The soft fabric lining on the interior provides extra comfort to the feet.
 
@@ -138,7 +138,7 @@ Furthermore, the outsole features a rubber compound that provides excellent trac
 
 Other than that, the Skechers D'Lites Interlude Sneaker also features an Air-cooled memory foam insole that enhances comfort and additional breathability.
 
-In addition, the Skechers D'Lites are also the [best shoes for arthritic feet](https://pestpolicy.com/best-shoes-for-arthritic-hips/). They have ample cushioning that ensures you have enough support to walk or stand without feeling any discomfort. However, these shoes run small, hence, you may need to go one size high to attain a perfect fit. Pros: - Comfortable - Well-cushioned - Excellent arch support - Durable - Reliable traction
+In addition, the Skechers D'Lites are also the [best shoes for arthritic feet](https://pestpolicy.com/best-shoes-for-arthritic-hips/).They have ample cushioning that ensures you have enough support to walk or stand without feeling any discomfort. However, these shoes run small, hence, you may need to go one size high to attain a perfect fit. Pros: - Comfortable - Well-cushioned - Excellent arch support - Durable - Reliable traction
 
 Cons: - Some people complain that they run small
 

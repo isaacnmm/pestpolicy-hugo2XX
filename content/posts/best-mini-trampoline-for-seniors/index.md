@@ -22,7 +22,7 @@ Also Read: [Best Mini Trampoline for Lymphatic Drainage](https://pestpolicy.com/
 
 ##  Review: 7 Best Mini Trampoline for Seniors
 
-###  [1. MaXimus PRO Folding Rebounder](https://www.amazon.com/dp/B00J06V4EG/?tag=p-policy-20)- Best Mini Trampoline for seniors
+###  [1. MaXimus PRO Folding Rebounder](https://www.amazon.com/dp/B00J06V4EG/?tag=p-policy-20)-Best Mini Trampoline for seniors
 
 The MaXimus PRO Rebounder is a highly versatile, durable, and safe trampoline for people of all ages. Most people have ranked it higher because of its excellent performance.
 

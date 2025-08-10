@@ -29,7 +29,7 @@ Rentokil pest control started in 1925 and so it has about a century of experienc
 
 Rentokil has experience in controlling pests using advanced and safe technologies for both commercial and residential properties. - Their innovative technologies allow effective pest management that will control the pests and also prevent the occurrence of future infestations. The pest control coverage varies with location and plan but these are the household pests that Rentokil manages.
 
-- Wasps - Stink bugs - Moths Spiders - Flies - [Fleas](https://pestpolicy.com/how-to-avoid-pests-in-apartments/) - Fabric pests - Crickets - Cockroaches - Bees - Termites - check thesequality termite killers. - Bed bugs - Ants
+- Wasps - Stink bugs - Moths Spiders - Flies - [Fleas](https://pestpolicy.com/how-to-avoid-pests-in-apartments/)- Fabric pests - Crickets - Cockroaches - Bees - Termites - check thesequality termite killers. - Bed bugs - Ants
 
 ##  Pestfree365 Plan
 
@@ -51,7 +51,7 @@ Treatment - The pest control expert will pest treat the house during the schedul
 
 When there is a massive mice infestation in your house or business premises, the Rentokil experts can assist by providing specialized techniques and products which will perform better compared to using over-the-counter remedies. The Rentokil specialists and Technicians have the expertise for distributing and administering - for example, the technicians will use baited and humane traps to assist in controlling pests.
 
-Related: [Armored Pest SVC Review Exterminators](https://pestpolicy.com/armored-pest-svc-review/) - Getting mice around the business premises and house may be distressing. These pests may spread disease as they find suitable shelter and food, and this may trigger health risks around the food storage location and the kitchens. If not controlled early enough, the mice will cause massive damage to your house and property as follows: 1.
+Related: [Armored Pest SVC Review Exterminators](https://pestpolicy.com/armored-pest-svc-review/)- Getting mice around the business premises and house may be distressing. These pests may spread disease as they find suitable shelter and food, and this may trigger health risks around the food storage location and the kitchens. If not controlled early enough, the mice will cause massive damage to your house and property as follows: 1.
 
 The mice will gnaw on your property and cause damage to the floorboards, doors, pipes, and insulation - they'll use the soft materials they get from such activities for their nesting. 2. Mice will also contaminate your foodstuffs because their body waste has pathogens that can transmit diseases such as Salmonellosis and Hantavirus. 3.
 

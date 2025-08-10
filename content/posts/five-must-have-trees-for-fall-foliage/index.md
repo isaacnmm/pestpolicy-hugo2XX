@@ -17,7 +17,7 @@ layout: post
 ---
 ## Understanding Fall Foliage
 The vibrant colors of fall leaves are not new pigments but rather the unmasking of existing ones. Chlorophyll, the green pigment responsible for photosynthesis, breaks down as days shorten and temperatures cool. This allows other pigments  carotenoids (yellows and oranges) and anthocyanins (reds and purples, produced in response to bright light and cool temperatures)  to become visible, creating the glorious autumn display.
-The intensity of fall color is influenced by species, genetics, weather (sunny days, cool nights), and [tree](https://pestpolicy.com/10-trees-to-grow-in-containers/) health.
+The intensity of fall color is influenced by species, genetics, weather (sunny days, cool nights), and [tree](https://pestpolicy.com/10-trees-to-grow-in-containers/)health.
 ---
 ---
 ## Designing for Fall Color

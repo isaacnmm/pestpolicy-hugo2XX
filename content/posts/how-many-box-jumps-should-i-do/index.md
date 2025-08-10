@@ -14,7 +14,7 @@ tags:
 layout: post
 ---
 
-How Many [Box](https://pestpolicy.com/best-shoes-for-box-jumps/) Jumps Should I Do? well, It depends on your strength and goals. - Thus, for cardio endurance, you can do 4 sets of 20 reps with 60 seconds of rest in between. - Conversely, you can do 5 sets of 5 reps for power and strength using a higher box [jump](https://pestpolicy.com/why-do-crickets-jump-towards-you/).
+How Many [Box](https://pestpolicy.com/best-shoes-for-box-jumps/)Jumps Should I Do? well, It depends on your strength and goals. - Thus, for cardio endurance, you can do 4 sets of 20 reps with 60 seconds of rest in between. - Conversely, you can do 5 sets of 5 reps for power and strength using a higher box [jump](https://pestpolicy.com/why-do-crickets-jump-towards-you/).
 
 If youre new to box jumping or just want to increase or enhance the level of your jumps, you might wonder how many boxes jumps you need to do to attain the best results.
 
@@ -70,7 +70,7 @@ As an athlete, youll need to do 2-3 box jumps training per week. This is crucial
 
 Overdoing the box jumps may cause joint stress plus other serious injuries to your body. Dont tax your body a lot.
 
-Besides, a [study](https://books.google. com/books?
+Besides, a [study](https://books.google.com/books?
 
 id=9r5jDwAAQBAJ&pg=PA56&lpg=PA56&dq=Low+and+Moderate+Plyometric+Training+Frequency+Produces+Greater+Jumping+and+Sprinting+Gains+Compared+with+High+Frequency&source=bl&ots=j44tx-46F5&sig=ACfU3U2pWJKQ9Sf88goO8JV6kLfi_GYrYw&hl=en&sa=X&ved=2ahUKEwjLrOn1luzwAhUWH80KHfsQCHkQ6AEwEXoECBYQAw#v=onepage&q=Low%20and%20Moderate%20Plyometric%20Training%20Frequency%20Produces%20Greater%20Jumping%20and%20Sprinting%20Gains%20Compared%20with%20High%20Frequency&f=false) comparing between low- moderate- and high- levels jump has revealed that overdoing the jumps may not bring in the desired results.
 

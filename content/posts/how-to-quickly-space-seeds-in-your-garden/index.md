@@ -70,7 +70,7 @@ If you follow square foot gardening principles or prefer grid planting, a dibble
 
 * **Construction: ** Create a wooden board cut to the size of your raised bed or a section of it (e. g. , 1 foot x 1 foot for a square foot garden). Attach small wooden dowels or bolts to the board at the exact spacing required for your plants (e. g. , 3-inch intervals for radishes, 6-inch for bush beans, 12-inch for peppers). * **Process: ** Press the dibble board firmly onto your prepared soil. It will create perfectly spaced indentations.
 
-Simply drop a [seed](https://pestpolicy.com/how-to-grow-camellias-from-seed/) into each hole. This is incredibly fast and efficient for precise grid planting.
+Simply drop a [seed](https://pestpolicy.com/how-to-grow-camellias-from-seed/)into each hole. This is incredibly fast and efficient for precise grid planting.
 
 ###  6. The "Salt Shaker" Method for Tiny Seeds
 

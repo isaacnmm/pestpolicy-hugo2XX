@@ -54,7 +54,7 @@ For homeowners tired of the relentless cycle of gutter cleaning, the promise of 
 
 Marketed as a premium, professionally installed system, LeafFilter aims to provide a permanent solution to overflowing gutters and the associated risks of water damage to your home.
 
-However, the [cost](https://pestpolicy.com/cost-to-reseed-lawn/) of [LeafFilter](https://pestpolicy.com/leaf-filter-reviews/) is often a point of inquiry and sometimes sticker shock for potential buyers. Unlike many home improvement products with transparent pricing, LeafFilter's cost is not readily available on their website and requires a personalized estimate.
+However, the [cost](https://pestpolicy.com/cost-to-reseed-lawn/)of [LeafFilter](https://pestpolicy.com/leaf-filter-reviews/)is often a point of inquiry and sometimes sticker shock for potential buyers. Unlike many home improvement products with transparent pricing, LeafFilter's cost is not readily available on their website and requires a personalized estimate.
 
 This guide will demystify LeafFilter, explain how its system works, detail the various factors that influence its cost, assess its value for money, discuss its lifespan, and offer tips on how to potentially save on your investment.
 

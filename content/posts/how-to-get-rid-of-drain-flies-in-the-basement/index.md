@@ -15,9 +15,9 @@ tags:
 layout: post
 ---
 
-If you're tired of the nuisance brought by the tiny nuzzling insects (drain [flies](https://pestpolicy.com/how-to-get-rid-of-drain-flies-in-septic-tank/) also known as sewer flies) in your basement drains in your residence, it's time we go rid of them!
+If you're tired of the nuisance brought by the tiny nuzzling insects (drain [flies](https://pestpolicy.com/how-to-get-rid-of-drain-flies-in-septic-tank/)also known as sewer flies) in your basement drains in your residence, it's time we go rid of them!
 
-The basement has many attractants (moist areas and organic material like [sewage](https://pestpolicy.com/how-[drain](https://pestpolicy.com/how-to-get-rid-of-drain-flies-in-the-bathroom/)-cleaners-work/) ) to these bugs including clogged drains, leaky pipes, and standing water where they'll lay eggs and multiply quickly.
+The basement has many attractants (moist areas and organic material like [sewage](https://pestpolicy.com/how-[drain](https://pestpolicy.com/how-to-get-rid-of-drain-flies-in-the-bathroom/)-cleaners-work/)) to these bugs including clogged drains, leaky pipes, and standing water where they'll lay eggs and multiply quickly.
 
 Below, I've explored some safe and effective methods on how you can remove drain flies in the basement -including ways to prevent any possible infestations.
 
@@ -73,5 +73,5 @@ Another option would be using insecticides to remove drain flies from the baseme
 
 ##  Conclusion
 
-So, drain flies have proven a nuisance especially when they invade your basement or [bathroom](https://pestpolicy.com/how-to-get-rid-of-drain-flies-in-the-bathroom/), mainly because these areas have moisture, dampness, and organic matter - conditions that promote the fast breeding of these bugs. I hope the above DIY and commercially acquired products will help your get rid of the drain flies in your residential or commercial building basement.
+So, drain flies have proven a nuisance especially when they invade your basement or [bathroom](https://pestpolicy.com/how-to-get-rid-of-drain-flies-in-the-bathroom/),mainly because these areas have moisture, dampness, and organic matter - conditions that promote the fast breeding of these bugs. I hope the above DIY and commercially acquired products will help your get rid of the drain flies in your residential or commercial building basement.
 

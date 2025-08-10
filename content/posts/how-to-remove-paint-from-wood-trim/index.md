@@ -14,9 +14,9 @@ tags:
 layout: post
 ---
 
-Heres how to remove [paint](https://pestpolicy.com/can-you-use-acrylic-paint-on-wood/) from [wood](https://pestpolicy.com/best-paint-for-outdoor-wood-deck/) trim. After several paint jobs in your home, the interior wood trim can become encrusted with several layers of paint, leading to the loss of shape, detail, and contours.
+Heres how to remove [paint](https://pestpolicy.com/can-you-use-acrylic-paint-on-wood/)from [wood](https://pestpolicy.com/best-paint-for-outdoor-wood-deck/)trim. After several paint jobs in your home, the interior wood trim can become encrusted with several layers of paint, leading to the loss of shape, detail, and contours.
 
-If you are experiencing this challenge with the wooden trim in your home, you might want to remove the paint entirely before applying a natural wood finish. Nevertheless, [stripping paint from wood](https://www.wikihow. com/Remove-Paint-from-Wood) trim can turn out to be a tedious task with negligible results.
+If you are experiencing this challenge with the wooden trim in your home, you might want to remove the paint entirely before applying a natural wood finish. Nevertheless, [stripping paint from wood](https://www.wikihow.com/Remove-Paint-from-Wood)trim can turn out to be a tedious task with negligible results.
 
 In addition to the complexity involved in getting all the edges, the wood trim may not be restored to its original look. The ideal method for eliminating dry paint spillage from wood trim is determined by whether latex or oil-based paint was used.
 
@@ -90,5 +90,5 @@ Moving the sander across the floorboard as if mowing the lawn will give you that
 
 Keeping a maintenance routine is vital in ensuring that wooden trim surfaces maintain their natural look. While eliminating dirt particles keeps your cover in a pristine condition, utilizing a mild cleaning solution also supports all the stains at bay. Nevertheless, water is wooden surfaces worst enemy, and you should ensure that the rag used is just damp.
 
-Part of the care routine for wooden trim is ensuring that any moisture applied is dried out to [prevent mold stains](https://pestpolicy.com/best-exterior-paint-to-prevent-mold/). Whether you are an expert or a DIYer looking to restore the look of that wooden trim surface, the above precautions will leave your surface in great shape for a long time to come.
+Part of the care routine for wooden trim is ensuring that any moisture applied is dried out to [prevent mold stains](https://pestpolicy.com/best-exterior-paint-to-prevent-mold/).Whether you are an expert or a DIYer looking to restore the look of that wooden trim surface, the above precautions will leave your surface in great shape for a long time to come.
 

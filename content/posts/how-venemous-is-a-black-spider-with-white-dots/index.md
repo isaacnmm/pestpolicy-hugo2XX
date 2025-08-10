@@ -15,13 +15,13 @@ tags:
 layout: post
 ---
 
-Have you recently seen a [black](https://pestpolicy.com/black-widow-spiders/) spider (Badumna insignis) in your garden that look like grey-house spider or Badumna longinqua but have white dots?
+Have you recently seen a [black](https://pestpolicy.com/black-widow-spiders/)spider (Badumna insignis) in your garden that look like grey-house spider or Badumna longinqua but have white dots?
 
 So, you're wondering how venomous is a black spider with white dots? *Well, most black spiders with white spots are jumping spider that aren't venomous to humans. However, other similar species like the immature black widow are very poisonous. But this is just a faction of the 3, 000 spider spices found in North America. Thus, you must know how to differentiate the spider species. *
 
 ##  Details: How Venomous is a Black Spider with White Dots?
 
-The [Phidippus audax (JumpingSpider)](https://nature.mdc. mo. gov/discover-nature/field-guide/bold-jumper) with black and whitespot or bands at the back of their abdomen are the most common jumping spiders but aren't venomous. You'll find them around the house and in your gardens or lawns.
+The [Phidippus audax (JumpingSpider)](https://nature.mdc.mo.gov/discover-nature/field-guide/bold-jumper)with black and whitespot or bands at the back of their abdomen are the most common jumping spiders but aren't venomous. You'll find them around the house and in your gardens or lawns.
 
 ###  1. Jumping Spider
 
@@ -51,13 +51,13 @@ edu/news/spiders-earn-their-keep-natural-pest-control-garden).
 
 ###  5. Black Widow Spider
 
-National Geographic state that [black widows are highlyvenomous](https://www.ncbi. nlm. nih. gov/books/NBK499987/) - infarct the most poisonous in North America. Compared to the rattlesnakes, bites from [black widows are 15 times more venomous](https://www.livescience. com/39919-black-widow-spiders. html). But black widows only bite if disturbed by humans or predators [when resting](https://pestpolicy.com/do-spiders-sleep/).
+National Geographic state that [black widows are highlyvenomous](https://www.ncbi.nlm.nih.gov/books/NBK499987/)- infarct the most poisonous in North America. Compared to the rattlesnakes, bites from [black widows are 15 times more venomous](https://www.livescience.com/39919-black-widow-spiders.html).But black widows only bite if disturbed by humans or predators [when resting](https://pestpolicy.com/do-spiders-sleep/).
 
 The immature and male black widow spiders come with white spots while the female is conspicuous shaped like a red hourglass. The spots on this spider will run on its back and sides. Further, you'll see, on its big abdomen, some cleanly outlined spots - while only females are very venomous. Related: [Do Spiders Have Hearts? ](https://pestpolicy.com/do-spiders-have-hearts/)
 
 ##  Black widow's Venom
 
-As noted above, Black widows are very venomous while only the females will threaten the life of human beings. But these spiders don't [major harm to humans](https://www.livescience. com/39702-first-person-black-widow-bite-sends-man-to-hospital. html) - but this is different from the sick, very old, and very young. The bites from these spiders feel and appear like the pin-prick with the pain spreading withing very few minutes in the human body.
+As noted above, Black widows are very venomous while only the females will threaten the life of human beings. But these spiders don't [major harm to humans](https://www.livescience.com/39702-first-person-black-widow-bite-sends-man-to-hospital.html)- but this is different from the sick, very old, and very young. The bites from these spiders feel and appear like the pin-prick with the pain spreading withing very few minutes in the human body.
 
-The pain from Black widows bites could last for about 8-12 hours as detailed by [OSHA](https://www.osha. gov/OshDoc/data_Hurricane_Facts/black_widow_spider. pdf). But the species of this Black widows will determine the effects which may include diaphragm paralysis, severe back pain, nausea, and muscle aches.
+The pain from Black widows bites could last for about 8-12 hours as detailed by [OSHA](https://www.osha.gov/OshDoc/data_Hurricane_Facts/black_widow_spider.pdf).But the species of this Black widows will determine the effects which may include diaphragm paralysis, severe back pain, nausea, and muscle aches.
 

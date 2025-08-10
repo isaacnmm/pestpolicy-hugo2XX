@@ -20,7 +20,7 @@ Blades are one of the most components of a lawnmower. You need the best availabl
 
 ###  [1. EGO Power+AB2101 21 high lift blade](https://www.amazon.com/dp/B01N39KRRM/?tag=p-policy-20)
 
-This is just the right fit for a 21 EGO Power+ lawnmower. This high lift is designed for this brand, but it also attaches perfectly to other [mowers](https://pestpolicy.com/best-cordless-hedge-trimmer/) with the same features. This unit features a factory sharpened steel blade which guarantees you superior performance for that clean look on your lawn.
+This is just the right fit for a 21 EGO Power+ lawnmower. This high lift is designed for this brand, but it also attaches perfectly to other [mowers](https://pestpolicy.com/best-cordless-hedge-trimmer/)with the same features. This unit features a factory sharpened steel blade which guarantees you superior performance for that clean look on your lawn.
 
 This feature saves you time and effort since you can start preparing the lawn immediately after installation.
 
@@ -30,7 +30,7 @@ This model is compatible with the EGO power plus 56v battery powered LM2100SP an
 
 Cons: - None
 
-Read Also: [[Best](https://pestpolicy.com/best-heavy-duty-flail-mower-for-atv/) PTO tiller for the money](https://pestpolicy.com/best-pto-tiller-for-the-money/).
+Read Also: [[Best](https://pestpolicy.com/best-heavy-duty-flail-mower-for-atv/)PTO tiller for the money](https://pestpolicy.com/best-pto-tiller-for-the-money/).
 
 ###  [2. Max-Power 331740S Mower Blade](https://www.amazon.com/dp/B07SMVLN8G/?tag=p-policy-20)
 

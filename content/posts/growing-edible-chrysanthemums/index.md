@@ -40,7 +40,7 @@ Use organic slug baits, handpick, or create barriers. * **Nairobi Context:** Mon
 Growing edible chrysanthemums is a rewarding experience that enriches both your garden's biodiversity and your kitchen's flavor palette. Their ease of cultivation, rapid growth, and continuous harvest make them an excellent choice for both novice and experienced gardeners looking to expand their culinary horizons.
 Whether you're adding their pungent leaves to a savory stir-fry or garnishing a salad with their cheerful petals, *Glebionis coronaria* offers a unique combination of ornamental beauty and gastronomic delight. Embrace this versatile plant, and discover a new favorite for your home garden.
 
-When you hear "[chrysanthemum](https://pestpolicy.com/growing-chrysanthemums-in-your-garden/), " your mind likely conjures images of vibrant, multi-petaled blooms adorning fall gardens or gracing floral arrangements.
+When you hear "[chrysanthemum](https://pestpolicy.com/growing-chrysanthemums-in-your-garden/)," your mind likely conjures images of vibrant, multi-petaled blooms adorning fall gardens or gracing floral arrangements.
 
 While ornamental chrysanthemums are indeed a spectacle, there's a distinct group known as **edible chrysanthemums** (*Glebionis coronaria*, formerly *Chrysanthemum coronarium*), also commonly called Crown Daisy, Chop Suey Greens, or Shungiku.
 

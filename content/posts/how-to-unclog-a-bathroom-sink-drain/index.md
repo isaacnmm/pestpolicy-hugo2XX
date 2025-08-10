@@ -59,7 +59,7 @@ With each passing cycle, you may notice that more hair gets pulled up and out of
 
 **Tools and items required** - 2 small buckets - empty - Soap and gloves - Hot water and pointed brush - Pipe wrench - Screwdriver set if needed **Procedure** - Wear gloves - Place a small bucket underneath the sink to trap dirty water. - Using a pipe wrench and screwdriver set, detach and remove the P-trap accessories.
 
-- Using a brush, wash thoroughly; [the pipes and inside the bends](https://pestpolicy.com/sink-not-draining-but-pipes-clear/)- use soap and hot water mixture to attain the best results. - Rinse the P-trap before assembling.
+- Using a brush, wash thoroughly; [the pipes and inside the bends](https://pestpolicy.com/sink-not-draining-but-pipes-clear/)-use soap and hot water mixture to attain the best results. - Rinse the P-trap before assembling.
 
 ###  f. Using the Snake Drain method
 
@@ -155,5 +155,5 @@ When your water bills are strangely higher than average yet your water usage rou
 
 In conclusion, on how to unclog a bathroom sink drain, you can simply use a Zip-It tool, hot water, or hot water. If the fault is pretty serious; then, go for a plunger or use a vinegar-baking powder solution to attain total removal of clogs, dirt, and residuals in your sink drain.
 
-If the clogging persists even after trying highlighted solutions; then, you may have to contact a [professional plumber](https://pestpolicy.com/xionlab-safer-drain-opener-review/) since this may suggest blockage or some other problem with the sewer line. Remember to wear protective gear for your personal safety.
+If the clogging persists even after trying highlighted solutions; then, you may have to contact a [professional plumber](https://pestpolicy.com/xionlab-safer-drain-opener-review/)since this may suggest blockage or some other problem with the sewer line. Remember to wear protective gear for your personal safety.
 

@@ -14,7 +14,7 @@ tags:
 layout: post
 ---
 
-Painting concrete surfaces can be a great way to enhance their appearance and increase their longevity. However, not all paints are suitable for concrete. In this guide, we'll discuss the types of [paint](https://pestpolicy.com/what-kind-of-paint-to-use-on-bathroom-cabinets/) that can be used on concrete and the factors you should consider when choosing the right one for your project.
+Painting concrete surfaces can be a great way to enhance their appearance and increase their longevity. However, not all paints are suitable for concrete. In this guide, we'll discuss the types of [paint](https://pestpolicy.com/what-kind-of-paint-to-use-on-bathroom-cabinets/)that can be used on concrete and the factors you should consider when choosing the right one for your project.
 
 ##  Types of Paint for Concrete
 

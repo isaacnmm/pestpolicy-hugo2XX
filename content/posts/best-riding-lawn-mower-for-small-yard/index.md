@@ -14,7 +14,7 @@ tags:
 layout: post
 ---
 
-Most riding lawn [mowers](https://pestpolicy.com/best-riding-lawn-mower-for-2-acres/) will be overkill for a small yard. Thus, you'll require a more straightforward yet powerful [mower](https://pestpolicy.com/best-riding-lawn-mower-for-hilly-terrain/) - this will save you both money and time. - If you need to cut grass in an over 12 acres yard, then you're better with a riding mower compared to a push mower orrear-tine tillers.
+Most riding lawn [mowers](https://pestpolicy.com/best-riding-lawn-mower-for-2-acres/)will be overkill for a small yard. Thus, you'll require a more straightforward yet powerful [mower](https://pestpolicy.com/best-riding-lawn-mower-for-hilly-terrain/)- this will save you both money and time. - If you need to cut grass in an over 12 acres yard, then you're better with a riding mower compared to a push mower orrear-tine tillers.
 
 With a great riding mower, over the spring season, you can control pests in your small yard and improve its soil condition, keep it's well-manicured and prevent it from appearing overgrown!
 
@@ -26,7 +26,7 @@ Troy-Bilt 540ccs selling point is comfort and versatility. Easily mow in forward
 
 Also, you can use your finger to raise and lower the deck quickly.
 
-You can to easily mow my hilly yard in just one day compared to the two days. Its an excellent mower for anyone with a yard thats more than half an acre - check these [riding mowers for 2 acres](https://pestpolicy.com/best-riding-lawn-mower-for-2-acres/). It's a quality machine that comes with excellent soft-touch steering with the gas pedal plus CVT transmission also providing safety and power.
+You can to easily mow my hilly yard in just one day compared to the two days. Its an excellent mower for anyone with a yard thats more than half an acre - check these [riding mowers for 2 acres](https://pestpolicy.com/best-riding-lawn-mower-for-2-acres/).It's a quality machine that comes with excellent soft-touch steering with the gas pedal plus CVT transmission also providing safety and power.
 
 - The mower will stop quickly if you release the gas pedal.
 

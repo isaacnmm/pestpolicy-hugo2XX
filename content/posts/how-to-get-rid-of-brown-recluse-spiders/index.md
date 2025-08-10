@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 
-In brief on how to [get [rid](https://pestpolicy.com/how-to-get-rid-of-cockroaches-in-apartments/) of [brown](https://pestpolicy.com/how-to-identify-the-cause-of-brown-spots-in-your-lawn/) recluse spiders](https://pestpolicy.com/how-to-get-rid-of-spiders/); start with a vacuum for removing webs, get some sticky traps, and spider repellent on hiding places such as garages, attics, and basements.
+In brief on how to [get [rid](https://pestpolicy.com/how-to-get-rid-of-cockroaches-in-apartments/)of [brown](https://pestpolicy.com/how-to-identify-the-cause-of-brown-spots-in-your-lawn/)recluse spiders](https://pestpolicy.com/how-to-get-rid-of-spiders/);start with a vacuum for removing webs, get some sticky traps, and spider repellent on hiding places such as garages, attics, and basements.
 
 Brown recluse is venomous and you'll mainly find them hiding in dark places on the yard and home.
 
@@ -27,7 +27,7 @@ Brown recluse is venomous and you'll mainly find them hiding in dark places on t
 
 The fiddle-back spider or Brown recluse have markings but will also have many shades such as light or dark brown - you can get them in Kentucky, western Georgia, and central Texas. These nocturnal hunters will prey on mosquitoes, and flies among other insects. But they won't harm humans - but act in self-defense and they'll use their bites.
 
-You may confuse the Brown recluse with wolf spiders but these ones have eight eyes and larger in body size. The recluse has fine hairs and six eyes but smaller in size. - Despite that bites from brown recluse are rare, they are itchy and become reddish - and may become[an open sore](https://www.mayoclinic. org/diseases-conditions/spider-bites/symptoms-causes/syc-20352371)taking even a weak to heal.
+You may confuse the Brown recluse with wolf spiders but these ones have eight eyes and larger in body size. The recluse has fine hairs and six eyes but smaller in size. - Despite that bites from brown recluse are rare, they are itchy and become reddish - and may become[an open sore](https://www.mayoclinic.org/diseases-conditions/spider-bites/symptoms-causes/syc-20352371)takingeven a weak to heal.
 
 On the body shape, these spiders are violin shape (and dark brown) on their cephalothorax - the section where the bug's legs are attached. - The spider has a uniformly-colored abdomen and legs - it has no multiple abdomen pigments. - It has no spines but some fine hairs on its legs The bug has 6 (not eight) eyes arranged in pairs but has some small space that separates the egg pairs.
 
@@ -37,11 +37,11 @@ But don't confuse these spiders with the spitting spiders in the Scytodes genus.
 
 ###  Step 2: Remove Propitious (Favourable) Conditions for Brown Recluse**
 
-** [Brown recluse naturally live](https://entomology.ca. uky. edu/ef631) in debris, woodpiles, logs, and rocks - outdoors spaces. They'll live in indoor spaces - even in attics or unheated basements during winters with no water or food. The spiders will hunt during the night for their dead or living prey. - they may employ suspended webs around outdoor vegetation, ceilings, corners, and walls.
+** [Brown recluse naturally live](https://entomology.ca.uky.edu/ef631)in debris, woodpiles, logs, and rocks - outdoors spaces. They'll live in indoor spaces - even in attics or unheated basements during winters with no water or food. The spiders will hunt during the night for their dead or living prey. - they may employ suspended webs around outdoor vegetation, ceilings, corners, and walls.
 
 - Therefore, to get rid of these Recluse Spiders, ensure to first remove the propitious (favorable) conditions in the yard or home - such acts will remove their shelter of preying areas. - The Brown recluse will hide in locations that are warm, dark, and dry such as in rubber tires, bedding, furniture, shoes, clothing, and boxes - including in cellars, basements, and closets.
 
-The adaptable Brown recluse is largely active (but non-aggressive) in temperatures around 45F to 110F - they'll survive for about 6 months with no water or food. - You can repel the spiders using essential oils such as tea tree, lavender, and[peppermint oil](https://pestpolicy.com/does-peppermint-oil-repel-spiders/)- spray the oils and you may also use Hedge apples to repel the spiders.
+The adaptable Brown recluse is largely active (but non-aggressive) in temperatures around 45F to 110F - they'll survive for about 6 months with no water or food. - You can repel the spiders using essential oils such as tea tree, lavender, and[peppermint oil](https://pestpolicy.com/does-peppermint-oil-repel-spiders/)-spray the oils and you may also use Hedge apples to repel the spiders.
 
 ###  Step 3:**Inspect & Clean Brown Recluse Hiding Places**
 

@@ -46,7 +46,7 @@ Others, like Goosegrass, tend to grow very flat and low to the ground, making th
 
 * **Growth Rate: ** Some grassy weeds, particularly in warmer temperatures, grow much faster than your desirable turf, causing them to stand out above the mowed lawn shortly after cutting.
 
-Taking a small sample of the suspect grass, observing its growth over a few days, and comparing it to known [weed](https://pestpolicy.com/applying-weed-and-feed-products-to-st-augustine-grass/) characteristics (using online resources or a local extension office) can help confirm your identification.
+Taking a small sample of the suspect grass, observing its growth over a few days, and comparing it to known [weed](https://pestpolicy.com/applying-weed-and-feed-products-to-st-augustine-grass/)characteristics (using online resources or a local extension office) can help confirm your identification.
 
 ##  Annual Grassy Weeds
 

@@ -14,7 +14,7 @@ tags:
 layout: post
 ---
 
-By choosing to read this article on the best [exterior](https://pestpolicy.com/best-exterior-paint-to-prevent-mold/) primer paint, you will acquire both paint application skills and high-quality paint for your DIY project or exterior painting work. Usually, priming is crucial after surface preparation to improve paint stickiness and eliminate cases of peeling or scuffing.
+By choosing to read this article on the best [exterior](https://pestpolicy.com/best-exterior-paint-to-prevent-mold/)primer paint, you will acquire both paint application skills and high-quality paint for your DIY project or exterior painting work. Usually, priming is crucial after surface preparation to improve paint stickiness and eliminate cases of peeling or scuffing.
 
 The primer of your choice should be fast drying, more comfortable to prepare and apply, scratch-resistant, fade-free, durable, high stickiness ability, and packed in the right quantity that will sufficiently cover your area under paint application. Besides, go for an eco-friendly primer, affordable, mold/mildew-resistant (for the wet or humid area), odor-free, and supplied in various selectable colors.
 

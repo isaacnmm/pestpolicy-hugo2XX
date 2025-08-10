@@ -41,7 +41,7 @@ Skywalker Trampolines have excellent metal springs that provide bounces that are
 
 Skywalker trampolines have a 3-year warranty on the frame while the other parts have a 1-year warranty. This warranty is non-transferable and only the original buyer can apply for the warranty. However, you might need to do regular maintenance to keep the trampoline safe.
 
-On the other hand, the propel trampolines provide a 30 day registration period. You need to register your propel [trampoline](https://pestpolicy.com/best-backyard-trampolines/) within 30 days.
+On the other hand, the propel trampolines provide a 30 day registration period. You need to register your propel [trampoline](https://pestpolicy.com/best-backyard-trampolines/)within 30 days.
 
 The registration allows the company to contact you in case of any issue with the product purchased. If it has been discontinued or been recalled the company can give you a replacement. Propel doesnt declare clearly on their website about the warranty.
 
@@ -69,7 +69,7 @@ As weve mentioned above propel trampolines are available from 7ft to 15ft. The 1
 
 Nevertheless, the Propel 14-foot trampoline comes with many amazing features and accessories to make jumping more enjoyable.
 
-This trampoline features a basketball hoop that comes with a pump and ball. The trampoline delivers a [super smooth bounce](https://pestpolicy.com/best-long-trampolines-for-gymnastics/) thanks to the 96 galvanized steel springs.
+This trampoline features a basketball hoop that comes with a pump and ball. The trampoline delivers a [super smooth bounce](https://pestpolicy.com/best-long-trampolines-for-gymnastics/)thanks to the 96 galvanized steel springs.
 
 Other than that, the click connect system makes the assembling process easier and fast.
 

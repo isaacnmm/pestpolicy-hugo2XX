@@ -16,7 +16,7 @@ tags:
 layout: post
 ---
 
-September marks a pivotal transition in the garden and on the [lawn](https://pestpolicy.com/august-lawn-and-garden-to-do-list/). As the scorching heat of summer begins to fade and the crispness of autumn approaches, conditions become ideal for a range of essential tasks that will set your yard up for success.
+September marks a pivotal transition in the garden and on the [lawn](https://pestpolicy.com/august-lawn-and-garden-to-do-list/).As the scorching heat of summer begins to fade and the crispness of autumn approaches, conditions become ideal for a range of essential tasks that will set your yard up for success.
 
 For many regions, this month offers a second prime growing season, especially for cool-season grasses and certain plants, making it a crucial time for rejuvenation and preparation for the colder months ahead.
 

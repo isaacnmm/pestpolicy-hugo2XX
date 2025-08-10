@@ -19,9 +19,9 @@ Seattle's rainy season creates an ideal environment for pests. Increased moistur
 
 **Maintain Your Yard**: Remove debris like leaf piles and fallen branches.
 
-Trim shrubs, trees, and grass to keep them away from your home's exterior, reducing potential habitats for pests - [well-maintained yard](https://pestpolicy.com/best-flea-spray-for-yard/). **Address Moisture Issues**: Fix plumbing and roof leaks promptly. Ensure proper drainage around your home, keeping gutters and downspouts clear to prevent water pooling. **Store Food Properly**: Use airtight containers for food storage.
+Trim shrubs, trees, and grass to keep them away from your home's exterior, reducing potential habitats for pests - [well-maintained yard](https://pestpolicy.com/best-flea-spray-for-yard/).**Address Moisture Issues**: Fix plumbing and roof leaks promptly. Ensure proper drainage around your home, keeping gutters and downspouts clear to prevent water pooling. **Store Food Properly**: Use airtight containers for food storage.
 
-Regularly clean kitchen areas, wipe down counters, and take out the trash to avoid attracting pests. **Use Pest Control Solutions**: Set up baits and traps for pests like rodents, [spiders](https://pestpolicy.com/how-to-get-rid-of-spiders/), and ants. Consider hiring professional pest control services for regular inspections and treatments.
+Regularly clean kitchen areas, wipe down counters, and take out the trash to avoid attracting pests. **Use Pest Control Solutions**: Set up baits and traps for pests like rodents, [spiders](https://pestpolicy.com/how-to-get-rid-of-spiders/),and ants. Consider hiring professional pest control services for regular inspections and treatments.
 
 **Keep Firewood and Mulch Away**: Store firewood at least 20 feet from your home and elevate it off the ground.
 

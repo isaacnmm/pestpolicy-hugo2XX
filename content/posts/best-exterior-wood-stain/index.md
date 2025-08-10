@@ -14,7 +14,7 @@ tags:
 layout: post
 ---
 
-Exterior wood staining is essential for preserving the beauty and longevity of your wooden surfaces, whether its your deck, fence, or garden furniture. The right stain can protect your wood from the elements while enhancing its natural grain. Lets explore some of the [best](https://pestpolicy.com/best-acrylic-paint-for-wood/) [exterior](https://pestpolicy.com/best-exterior-paint-to-prevent-mold/) wood stains available on the market today.
+Exterior wood staining is essential for preserving the beauty and longevity of your wooden surfaces, whether its your deck, fence, or garden furniture. The right stain can protect your wood from the elements while enhancing its natural grain. Lets explore some of the [best](https://pestpolicy.com/best-acrylic-paint-for-wood/)[exterior](https://pestpolicy.com/best-exterior-paint-to-prevent-mold/) wood stains available on the market today.
 
 ##  Best Exterior Wood Stain
 

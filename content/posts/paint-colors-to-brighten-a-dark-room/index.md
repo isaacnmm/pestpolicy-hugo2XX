@@ -24,7 +24,7 @@ One of the most effective ways to brighten a dark room is by painting the walls 
 
 ###  2. Light Gray
 
-If you prefer a neutral shade but want to avoid the starkness of white, light gray is an excellent option. Its a versatile [color](https://pestpolicy.com/what-color-paint-goes-with-beige-tile/) that reflects light and creates a soft, modern look. Pair light gray with pops of color in the furniture or decor for added vibrancy. For a warmer look, choose a gray with hints of beige or taupe.
+If you prefer a neutral shade but want to avoid the starkness of white, light gray is an excellent option. Its a versatile [color](https://pestpolicy.com/what-color-paint-goes-with-beige-tile/)that reflects light and creates a soft, modern look. Pair light gray with pops of color in the furniture or decor for added vibrancy. For a warmer look, choose a gray with hints of beige or taupe.
 
 ###  3. Soft Pastels
 
@@ -54,7 +54,7 @@ If you like the look of white but want a bit more depth, consider off-white colo
 
 ##  Conclusion
 
-By selecting the right [paint](https://pestpolicy.com/airless-paint-sprayer-cleaning-solution/) colors, you can transform a dark room into a bright, inviting, and energetic space. Soft whites, light grays, pastels, and pale yellows are all excellent choices for brightening up a room and creating a more open feel.
+By selecting the right [paint](https://pestpolicy.com/airless-paint-sprayer-cleaning-solution/)colors, you can transform a dark room into a bright, inviting, and energetic space. Soft whites, light grays, pastels, and pale yellows are all excellent choices for brightening up a room and creating a more open feel.
 
 In addition to choosing the right paint, consider incorporating mirrors, light-colored furniture, and effective lighting to enhance the brightness of the space.
 

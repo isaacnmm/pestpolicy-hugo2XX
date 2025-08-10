@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 
-Sugar [ants](https://pestpolicy.com/how-to-get-rid-of-ants-in-car/) are tiny annoying insects and stubborn household bugs.
+Sugar [ants](https://pestpolicy.com/how-to-get-rid-of-ants-in-car/)are tiny annoying insects and stubborn household bugs.
 
 Sugar ants are common during warm seasons when they come out of their nests to search for food.
 
@@ -81,5 +81,5 @@ If you have tried all these methods and failed( which is highly unlikely), your 
 
 ##  Sources:
 
-1. [Targeted Removal of Ant Colonies in Ecological Experiments - NCBI](https://www.ncbi. nlm. nih. gov/pmc/articles/PMC2999503/) 2. [Banded sugar ant - Wikipedia](https://en.wikipedia. org/wiki/Banded_sugar_ant) 3. [Follower ants in a tandem pair are not always nave - NCBI](https://www.ncbi. nlm. nih. gov/pmc/articles/PMC4448225/)
+1. [Targeted Removal of Ant Colonies in Ecological Experiments - NCBI](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2999503/)2. [Banded sugar ant - Wikipedia](https://en.wikipedia.org/wiki/Banded_sugar_ant)3. [Follower ants in a tandem pair are not always nave - NCBI](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4448225/)
 

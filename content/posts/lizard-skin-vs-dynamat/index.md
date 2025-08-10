@@ -14,7 +14,7 @@ tags:
 layout: post
 ---
 
-Road noise in a car may be one of the most distracting, or rather irritating things about driving - [Lizard](https://pestpolicy.com/are-lizards-poisonous/) Skin Vs Dynamat.
+Road noise in a car may be one of the most distracting, or rather irritating things about driving - [Lizard](https://pestpolicy.com/are-lizards-poisonous/)Skin Vs Dynamat.
 
 You may have already heard about sound deadening mechanisms, and are now confused about which to pick. This article will look at lizard skin s. v dynamite and break it down for you. Read Also: Laptops for FL Studio. With Lizard Skin, however, the risks in terms of application, both to you and your car, are minimal. It is also cheaper as compared to Dynamat. But in terms of quality and effectiveness, Dynamat takes the day.
 
@@ -30,7 +30,7 @@ Read Also: [Soundproof Barn Doors Easily! ](https://pestpolicy.com/soundproof-ba
 
 ###  Cons of using Dynamat
 
-Dynamat is costlier than its other counterparts, so despite its superior quality, a lot of people will still go for other options since they are more affordable. Read Also: [Easy Guide to Soundproof a Tent](https://pestpolicy.com/soundproof-a-tent/). Even though the amount of work it takes to apply it is minimal, it still needs extra concentration since leaving air gaps will have moisture trapped in it, and that is not good.
+Dynamat is costlier than its other counterparts, so despite its superior quality, a lot of people will still go for other options since they are more affordable. Read Also: [Easy Guide to Soundproof a Tent](https://pestpolicy.com/soundproof-a-tent/).Even though the amount of work it takes to apply it is minimal, it still needs extra concentration since leaving air gaps will have moisture trapped in it, and that is not good.
 
 You also need to be extra careful during the cutting process and have the right tools. Application on small surfaces is not too much of a hassle, but larger surfaces are a bit trickier. It is not capable of covering the cars whole surface. You will most probably need a professional to apply it for you, and this will end up costing you more.
 

@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 
-Well, it takes a well-trained cat to make it have a bath, otherwise, cats hate water. To bath or remove fleas, can I use baby [shampoo](https://pestpolicy.com/best-puppy-shampoo-for-fleas/) on my cat? The whole process of [getting the cat to bathe](https://www.wikihow. pet/Train-a-Cat-to-Take-a-Bath) is difficult and you may find yourself using unskilful ways to get it into water. - **Can I use [baby](https://pestpolicy.com/what-do-baby-fleas-look-like/) shampoo on my cat?
+Well, it takes a well-trained cat to make it have a bath, otherwise, cats hate water. To bath or remove fleas, can I use baby [shampoo](https://pestpolicy.com/best-puppy-shampoo-for-fleas/)on my cat? The whole process of [getting the cat to bathe](https://www.wikihow.pet/Train-a-Cat-to-Take-a-Bath)is difficult and you may find yourself using unskilful ways to get it into water. - **Can I use [baby](https://pestpolicy.com/what-do-baby-fleas-look-like/)shampoo on my cat?
 
 No, its not a good idea to use baby shampoo on cats. Baby shampoo is not designed for cat pets and may contain some chemicals that may harm the furry pet. ** - **Some shampoos may also affect the cats skin by causing irritation and dry skin too. Instead, its a good idea to use the cat shampoos that are available in the market. ** In this detailed article, I have gathered all the necessary information about these shampoos.
 

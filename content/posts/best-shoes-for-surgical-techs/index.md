@@ -24,7 +24,7 @@ Related: [Best Nursing Shoes for Bunions](https://pestpolicy.com/best-nursing-sh
 
 ##  Review: 7 Best Shoes for Surgical Techs
 
-###  [1. Merrell Men's Encore Gust Slip-On [Shoe](https://pestpolicy.com/best-non-slip-shoes-for-standing-all-day/)](https://www.amazon.com/dp/B003JJAU86/tag=p-policy-20)
+###  [1. Merrell Men's Encore Gust Slip-On Shoe](https://www.amazon.com/dp/B003JJAU86/tag=p-policy-20)
 
 Merrell Men's Encore Gust Slip-On takes the first position for the Best Shoes for Surgical Techs. This slip-on walking shoe delivers unmatched comfort allowing Surgical Techs to perform their OR duties to the best of their abilities.
 
@@ -78,7 +78,7 @@ Cons: - You might need to break in on them
 
 Also Read: Best Mens Dress Shoes for Standing All Day
 
-###  4.[Skechers for Work Men's Flex Advantage](https://www.amazon.com/dp/B00NQY1OKM/tag=p-policy-20) Best OR shoes for Men
+###  4.[Skechers for Work Men's Flex Advantage](https://www.amazon.com/dp/B00NQY1OKM/tag=p-policy-20)Best OR shoes for Men
 
 Skechers for Work Flex Advantage is an excellent shoe for surgical techs. It boasts stability, cushioning, comfort, and support. It comes in various width options to accommodate all surgeons or workers irrespective of your foot type.
 
@@ -132,7 +132,7 @@ The upper of this Alegria Paloma Flat features a durable leather upper. The inne
 
 Besides that, the hook-and-loop design with the stylish button addition delivers a more secure fit. The shoe also provides enough arch support. The heel bumper provides additional comfort and support.
 
-Furthermore, this [womens dress shoe](https://pestpolicy.com/best-womens-dress-shoes-for-flat-feet/) features a removable footbed that incorporates memory foam, latex, and cork. The footbed conforms to the natural shape of the wearers foot. You can also replace the footbed with custom orthotics.
+Furthermore, this [womens dress shoe](https://pestpolicy.com/best-womens-dress-shoes-for-flat-feet/)features a removable footbed that incorporates memory foam, latex, and cork. The footbed conforms to the natural shape of the wearers foot. You can also replace the footbed with custom orthotics.
 
 In addition, the rocker outsole provides good traction on surfaces giving you the confidence you need to walk on those hospital surfaces. The outsole design also helps to reduce pressure and stress on joints and muscles. Pros: - Excellent arch support - Durable leather upper - Available in various color options - Highly comfortable - Allows use of orthotics
 

@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 
-Ants are [common household pests](https://pestpolicy.com/what-attracts-carpenter-ants-in-a-home/) that you'll find in the strangest places like carpets or bathrooms. But how do you know how to remove ants from the carpet? Let's find out! - **There are 3 easy and safe ways to get rid of the ants from carpets; you can use some [ant](https://pestpolicy.com/ant-control-in-federal-way/) carpet powder, ant bait, baking powder, or borax.
+Ants are [common household pests](https://pestpolicy.com/what-attracts-carpenter-ants-in-a-home/)that you'll find in the strangest places like carpets or bathrooms. But how do you know how to remove ants from the carpet? Let's find out! - **There are 3 easy and safe ways to get rid of the ants from carpets; you can use some [ant](https://pestpolicy.com/ant-control-in-federal-way/)carpet powder, ant bait, baking powder, or borax.
 
 All these 3 methods are very effective and reliable though there are other ways too that you can employ. ** Before eliminating the ants from carpets, you need to understand what draws them to your carpet. Remember that ants dont eat carpets and therefore finding them in your carpets is something to worry about.
 

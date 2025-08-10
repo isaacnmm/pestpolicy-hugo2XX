@@ -68,7 +68,7 @@ Cons: - Limitations of the power cord
 
 If you are a homeowner and have no idea where to start to get a good sprayer, you can try this one.
 
-It is effective and very reliable especially if you have to undertake a large home projects. To begin with, this sprayer is propelled by a powerful motor that [delivers high pressure](https://pestpolicy.com/best-deck-sealer-for-pressure-treated-wood/) and therefore it becomes easy to paint all kinds of paint materials. This high pressure is also very instrumental when you are applying unthinned paint.
+It is effective and very reliable especially if you have to undertake a large home projects. To begin with, this sprayer is propelled by a powerful motor that [delivers high pressure](https://pestpolicy.com/best-deck-sealer-for-pressure-treated-wood/)and therefore it becomes easy to paint all kinds of paint materials. This high pressure is also very instrumental when you are applying unthinned paint.
 
 You are able to achieve an excellent and professional finish.
 
@@ -82,7 +82,7 @@ Cons: - Not easy to move
 
 For any small home project that you are planning on undertaking, this is a perfect sprayer for take home.
 
-It is [cordless and handheld sprayer](https://pestpolicy.com/best-handheld-paint-sprayers/) and therefore it is easily portable as you carry out your project. It also constitutes several other features that will fascinate you. First, it uses the HEA technology which is very helpful to minimize overspray and also help you in minimizing the cost of your project through less wastage.
+It is [cordless and handheld sprayer](https://pestpolicy.com/best-handheld-paint-sprayers/)and therefore it is easily portable as you carry out your project. It also constitutes several other features that will fascinate you. First, it uses the HEA technology which is very helpful to minimize overspray and also help you in minimizing the cost of your project through less wastage.
 
 Secondly, it is very easy to use and also connecting it to begin your project.
 

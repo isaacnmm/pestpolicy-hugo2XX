@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 
-The Bigheaded Ants (sceientifically; *Pheidole megacephala* ) is classified as one of the top 100 ["World's dangerous"invaders](https://lancaster.unl. edu/pest/ants/bigheadant. shtml) including in businesses and homes. The Bigheaded Ants will get into your house to forage for water and food through the seams and cracks around the doors and windows or on the house foundation. But are the Bigheaded Ants really a risk or nuisance to humans?
+The Bigheaded Ants (sceientifically; *Pheidole megacephala* ) is classified as one of the top 100 ["World's dangerous"invaders](https://lancaster.unl.edu/pest/ants/bigheadant.shtml)including in businesses and homes. The Bigheaded Ants will get into your house to forage for water and food through the seams and cracks around the doors and windows or on the house foundation. But are the Bigheaded Ants really a risk or nuisance to humans?
 
 Well, yes. .. here's why; First, the ants will leave extensive debris and dirt in the house to feed their colonies. Also, the ants will scavenge and forage persistently both outside and inside the house.
 
@@ -25,7 +25,7 @@ Well, yes. .. here's why; First, the ants will leave extensive debris and dirt i
 
 This reddish-brown to light-brown ants have 2 workers; the Minor workers (measuring 1/16th Inch and with a smaller head) and the major worker ant (measuring 1/8th Inch and with a large head). - Misidentification of the ants may make you choose to use an inappropriateant-control method. However, the large-sized head will mainly help identify most of the Bigheaded Ants - especially being that its head is very big compared to the rest of its body.
 
-- Further, these Bigheaded Ants are mainly found in Hawaii, [Florida](https://pestpolicy.com/tiny-red-ants-in-florida/), and Australia; they're black to reddish-brown and their antennae are segmented. The Pheidole megacephala is classified to be in the Formicidae family. You'll find it commonly in Australia (coastal brown ant), and the big-headed ant (USA).
+- Further, these Bigheaded Ants are mainly found in Hawaii, [Florida](https://pestpolicy.com/tiny-red-ants-in-florida/),and Australia; they're black to reddish-brown and their antennae are segmented. The Pheidole megacephala is classified to be in the Formicidae family. You'll find it commonly in Australia (coastal brown ant), and the big-headed ant (USA).
 
 The ant species is described as being very invasive and they pose a great risk to the Australian native ants.
 

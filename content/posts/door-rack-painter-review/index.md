@@ -14,7 +14,7 @@ tags:
 layout: post
 ---
 
-If you're looking for an efficient way to paint doors and other vertical surfaces, the [Door](https://pestpolicy.com/best-paint-for-interior-doors/) Rack Painter is a product worth considering. This innovative tool helps painters achieve a smooth, even finish without the hassle of handling heavy doors or worrying about drips. In this review, we'll break down the features, pros, cons, and performance of the Door Rack Painter.
+If you're looking for an efficient way to paint doors and other vertical surfaces, the [Door](https://pestpolicy.com/best-paint-for-interior-doors/)Rack Painter is a product worth considering. This innovative tool helps painters achieve a smooth, even finish without the hassle of handling heavy doors or worrying about drips. In this review, we'll break down the features, pros, cons, and performance of the Door Rack Painter.
 
 ##  Features of the Door Rack Painter
 

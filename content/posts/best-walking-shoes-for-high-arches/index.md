@@ -44,7 +44,7 @@ Youll love that the shoe has a wide width and your big toes cap. It has an EVA m
 
 Being a stylish looking and lightweight shoe, New Balance MW928 Walker has found favor among many men with high arches.
 
-In addition, it is comfortable and strong for [walking](https://pestpolicy.com/best-walking-shoes-for-lower-back-pain/) and jogging. The ROLLBAR will increase foot comfort as it prevents inward rolling of your foot and reduces rear-foot movement. New Balance MW928 Walker has a full-ground contact sole from its Walking-Strike Path innovation to increase comfort while you are walking.
+In addition, it is comfortable and strong for [walking](https://pestpolicy.com/best-walking-shoes-for-lower-back-pain/)and jogging. The ROLLBAR will increase foot comfort as it prevents inward rolling of your foot and reduces rear-foot movement. New Balance MW928 Walker has a full-ground contact sole from its Walking-Strike Path innovation to increase comfort while you are walking.
 
 ###  [3. Saucony Mens Grid Omni](https://www.amazon.com/dp/B000I4SA0A/?tag=p-policy-20)
 

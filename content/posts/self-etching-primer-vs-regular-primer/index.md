@@ -15,9 +15,9 @@ tags:
 layout: post
 ---
 
-When it comes to preparing metal surfaces for painting, choosing the right [primer](https://pestpolicy.com/best-bonding-primer-for-kitchen-cabinets/) is crucial for achieving a smooth, long-lasting finish. Two common types of primers are self-etching primer and regular primer. While both are designed to improve paint adhesion, they serve different purposes and have distinct characteristics.
+When it comes to preparing metal surfaces for painting, choosing the right [primer](https://pestpolicy.com/best-bonding-primer-for-kitchen-cabinets/)is crucial for achieving a smooth, long-lasting finish. Two common types of primers are self-etching primer and regular primer. While both are designed to improve paint adhesion, they serve different purposes and have distinct characteristics.
 
-In this article, we will compare self-etching primer vs [regular primer](https://pestpolicy.com/best-primer-for-oak-cabinets/) to help you determine which one is best for your project.
+In this article, we will compare self-etching primer vs [regular primer](https://pestpolicy.com/best-primer-for-oak-cabinets/)to help you determine which one is best for your project.
 
 ##  Self-Etching Primer vs Regular Primer: Whats the Difference?
 
@@ -53,7 +53,7 @@ Regular primer is ideal in the following cases: - You are working with surfaces 
 
 ###  Pros and Cons of Self-Etching Primer
 
-**Pros: ** - Excellent adhesion to bare metal surfaces. - Provides corrosion resistance, making it ideal for outdoor or exposed metal surfaces. - Helps create a smoother surface for paint. - Quick-drying and[easy to apply](https://pestpolicy.com/should-i-use-water-based-or-silicone-based-primer-in-painting/) **Cons: ** - Not suitable for non-metal surfaces.
+**Pros: ** - Excellent adhesion to bare metal surfaces. - Provides corrosion resistance, making it ideal for outdoor or exposed metal surfaces. - Helps create a smoother surface for paint. - Quick-drying and[easy to apply](https://pestpolicy.com/should-i-use-water-based-or-silicone-based-primer-in-painting/)**Cons: ** - Not suitable for non-metal surfaces.
 
 - Requires special care when applying to avoid over-etching, which can affect the surface finish. - More expensive than regular primer.
 

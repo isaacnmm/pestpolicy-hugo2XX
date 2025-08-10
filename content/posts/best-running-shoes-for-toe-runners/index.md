@@ -34,7 +34,7 @@ The platform also has Traction nodes that help improve the gripping capacity of 
 
 The upper features a fabric called Condura. This material is highly durable, offers excellent breathability, and provides a secure fit to the foot. This upper material also resists abrasion and wear and tear.
 
-The Merrell Vapor Glove 4 also has M Select FRESH, which is an antibacterial component located on the interior of the [shoe](https://pestpolicy.com/best-running-shoes-for-extensor-tendonitis/). This technology averts odor-causing microbes ensuring a clean and healthy in-shoe environment.
+The Merrell Vapor Glove 4 also has M Select FRESH, which is an antibacterial component located on the interior of the [shoe](https://pestpolicy.com/best-running-shoes-for-extensor-tendonitis/).This technology averts odor-causing microbes ensuring a clean and healthy in-shoe environment.
 
 The heel counter of this toe runner shoes has a Hyperlock technology. The technology helps to secure the foot, hence prevent unintended shoe removal. Pros: - Close-to-the-groundconstruction - Lightweight ideal for all daywear - Flexible - Excellent aesthetics - Reliable traction - Provides barefoot-like running experience - Upper dries up quickly - Excellent ground feel
 

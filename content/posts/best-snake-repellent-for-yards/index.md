@@ -15,9 +15,9 @@ tags:
 layout: post
 ---
 
-Snakes can be beneficial when they capture and eat [damaging pests](http://www.pbs. org/wnet/nature/the-reptiles-snakes-saving-snakes/2911/) such as mice and slugs. So you don't want to kill these either venomous or non-venomous snakes slithering into your backyard. But you don't want a case where a [snake](https://pestpolicy.com/best-snake-repellent-for-yard/) may bite (and poison) either you, your family members, or pets.
+Snakes can be beneficial when they capture and eat [damaging pests](http://www.pbs.org/wnet/nature/the-reptiles-snakes-saving-snakes/2911/)such as mice and slugs. So you don't want to kill these either venomous or non-venomous snakes slithering into your backyard. But you don't want a case where a [snake](https://pestpolicy.com/best-snake-repellent-for-yard/)may bite (and poison) either you, your family members, or pets.
 
-Thus, below I've reviewed the seven [best](https://pestpolicy.com/best-chipmunk-repellents/) snake repellents for your yard. Also, check these [best drain cleaners](https://pestpolicy.com/best-drain-cleaner//). **See these snake repellents. **
+Thus, below I've reviewed the seven [best](https://pestpolicy.com/best-chipmunk-repellents/)snake repellents for your yard. Also, check these [best drain cleaners](https://pestpolicy.com/best-drain-cleaner//).**See these snake repellents. **
 
 ##  **1. Our #1 Top Pick: Ortho Snake B Gon Snake Repellent Granules**
 
@@ -35,23 +35,23 @@ The Good: - Environmentallyfriendly no stinkformula made from essential oils - S
 
 ##  **2. #2 Pick: Safer-Brand 5951 Snake Repellent & Shield Snake Granular**
 
-Snake Repellents - Encountering a snake in your home can be a traumatizing experience. Plus, they pose a great danger to your family and your pets and should, therefore, be kept as far away as possible. Some repellents could have toxic chemicals such as malignant and carcinogens Naphthalene, as outlined by the [EPA](https://www.epa. gov/sites/production/files/2016-09/documents/naphthalene. pdf) that produces phthalic anhydride.
+Snake Repellents - Encountering a snake in your home can be a traumatizing experience. Plus, they pose a great danger to your family and your pets and should, therefore, be kept as far away as possible. Some repellents could have toxic chemicals such as malignant and carcinogens Naphthalene, as outlined by the [EPA](https://www.epa.gov/sites/production/files/2016-09/documents/naphthalene.pdf)that produces phthalic anhydride.
 
 These are the four best snake repellent for the yard that has been proven actually to work. They are also quite affordable and easy to use.
 
 ##  **3. #3 Pick: Safer-Brand 5951 Snake Repellent & Shield Snake Granular**
 
-What's a Snake Repellent? - ASnake repellent is either a [natural](http://www.wildlifeanimalcontrol. com/homemade-snake. html), chemical-based (naphthalene) or sonic product created to stop snakes from getting in [spaces such as yards or houses](http://npic.orst. edu/pest/snake. html). Most of them will contain a repellent ingredient, an adjuvant, and an inert carrier.
+What's a Snake Repellent? - ASnake repellent is either a [natural](http://www.wildlifeanimalcontrol.com/homemade-snake.html),chemical-based (naphthalene) or sonic product created to stop snakes from getting in [spaces such as yards or houses](http://npic.orst.edu/pest/snake.html).Most of them will contain a repellent ingredient, an adjuvant, and an inert carrier.
 
 - Eugenol, clove oil, andcinnamon oil are also great natural snake repellents if sprayed directly on the snakes.
 
-Historically, *Styrax*trees' resin was burned for the same purpose of chasing offpoisonous snakes. - What Is in a snake repellent? -The active ingredients in mostchemical-based snake repellents are either (1)[Naphthalene](https://pubchem.ncbi. nlm. nih. gov/compound/naphthalene#section=Top), (2) Sulfur, or (3) both. Naphthalene is also the ingredient in the good old mothballs that'll irritate the snakes' receptors.
+Historically, *Styrax*trees' resin was burned for the same purpose of chasing offpoisonous snakes. - What Is in a snake repellent? -The active ingredients in mostchemical-based snake repellents are either (1)[Naphthalene](https://pubchem.ncbi.nlm.nih.gov/compound/naphthalene#section=Top),(2) Sulfur, or (3) both. Naphthalene is also the ingredient in the good old mothballs that'll irritate the snakes' receptors.
 
 Naphthalene is a chemical that has an unpleasant smell for snakes and will damage the reptile's retinal system and nerves. It's mainly extracted from the walnut trees (the black type). Natural best snake repellents are created fromessential oils like clove, peppermint, castor, and cinnamon.
 
 ##  [4. Dr. T's 28 lb. Snake-A-Way Snake Repelling Granules](https://www.amazon.com/dp/B0042XAOJI/?tag=p-policy-20)
 
-Dr. Ts Snake Repellent granule is an EPA-registered granular snake repellent that effectively repels both poisonous and non-poisonous snakes from your home. This formula contains a powerful combination of 28 percent Sulfur and 7 percent [Naphthalene](https://pubchem.ncbi. nlm. nih. gov/compound/naphthalene#section=Top), which creates an unpleasant odor.
+Dr. Ts Snake Repellent granule is an EPA-registered granular snake repellent that effectively repels both poisonous and non-poisonous snakes from your home. This formula contains a powerful combination of 28 percent Sulfur and 7 percent [Naphthalene](https://pubchem.ncbi.nlm.nih.gov/compound/naphthalene#section=Top),which creates an unpleasant odor.
 
 When poured around the garden or yard, any snake that attempts to go near the granule is repelled by the pungent smell.
 
@@ -107,7 +107,7 @@ This means that for a 1-acre piece of land, youll need to use at least 6 VenSmil
 
 However, sulfur will work great when combined with naphthalene.
 
-For instance, Snake-A-Way combines 7% naphthalene and 28% sulfur to control even rattle and garter snakes. The chemical snake repellents are created to produce a pungent smell that will be harsh on the snakes. The snakes' mouthparts ( [vomeronasal organs](https://academic.oup. com/chemse/article/26/4/433/266106) ), as opposed to their nose or nostrils, will sense the smell of the odor particles that the reptile picks up with its tongues.
+For instance, Snake-A-Way combines 7% naphthalene and 28% sulfur to control even rattle and garter snakes. The chemical snake repellents are created to produce a pungent smell that will be harsh on the snakes. The snakes' mouthparts ( [vomeronasal organs](https://academic.oup.com/chemse/article/26/4/433/266106)), as opposed to their nose or nostrils, will sense the smell of the odor particles that the reptile picks up with its tongues.
 
 ##  Conclusion
 

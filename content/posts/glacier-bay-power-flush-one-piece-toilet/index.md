@@ -40,7 +40,7 @@ The Glacier Bay Power Flush One-Piece Toilet successfully carves out a niche as 
 While it may not offer the cutting-edge innovations or brand prestige of high-end models, it delivers solid performance and a modern look at an attractive price point, proving that you don't always need to spend a fortune to get a functional and good-looking toilet for your home.
 ---
 
-When it comes to selecting a new toilet for your bathroom, the market offers a dizzying array of choices, from basic two-piece models to advanced smart toilets. Nestled within the popular and budget-friendly segment, you'll often encounter the **[Glacier](https://pestpolicy.com/glacier-bays-everdean-vanity-brings-contemporary-flair/) Bay Power Flush One-Piece Toilet**.
+When it comes to selecting a new toilet for your bathroom, the market offers a dizzying array of choices, from basic two-piece models to advanced smart toilets. Nestled within the popular and budget-friendly segment, you'll often encounter the **[Glacier](https://pestpolicy.com/glacier-bays-everdean-vanity-brings-contemporary-flair/)Bay Power Flush One-Piece Toilet**.
 
 As Home Depot's house brand for plumbing fixtures, Glacier Bay aims to provide accessible, functional, and aesthetically pleasing options for homeowners and DIY enthusiasts.
 

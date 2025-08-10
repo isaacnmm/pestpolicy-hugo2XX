@@ -24,7 +24,7 @@ June bugs, also known as May beetles, are large beetles belonging to the scarab 
 
 June bugs are typically brown or reddish-brown with a hard, shiny shell. They are about an inch long and can often be seen flying around lights at night. Their larvae, known as grubs, live in the soil and feed on plant roots.
 
-###  Effective Methods to [Get](https://pestpolicy.com/homemade-fruit-fly-trap/) [Rid](https://pestpolicy.com/how-do-i-get-rid-of-fleas-in-my-house-without-bombing/) of June Bugs
+###  Effective Methods to [Get](https://pestpolicy.com/homemade-fruit-fly-trap/)[Rid](https://pestpolicy.com/how-do-i-get-rid-of-fleas-in-my-house-without-bombing/) of June Bugs
 
 1. **Use Light Traps**: Attract June bugs at night using a light source and a container filled with soapy water. The bugs will be drawn to the light and fall into the water, where they cant escape.
 

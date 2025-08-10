@@ -17,7 +17,7 @@ tags:
 layout: post
 ---
 
-A thriving [garden](https://pestpolicy.com/10-essential-lawn-and-garden-tools-for-fall/) is a joy to behold, but pests can quickly turn it into a battleground. Managing garden pests effectively involves identifying common invaders and implementing prevention strategies to keep plants healthy.
+A thriving [garden](https://pestpolicy.com/10-essential-lawn-and-garden-tools-for-fall/)is a joy to behold, but pests can quickly turn it into a battleground. Managing garden pests effectively involves identifying common invaders and implementing prevention strategies to keep plants healthy.
 
 Whether you're dealing with aphids, slugs, caterpillars, or spider mites, understanding their habits and knowing how to control them is essential for maintaining a vibrant garden.
 
@@ -33,7 +33,7 @@ This guide covers some of the most common garden pests, their identifying featur
 
 ###  **2. Slugs and Snails**
 
-**Identification: ** [Slugs](https://pestpolicy.com/do-lizards-eat-snails/) are soft-bodied, while snails have a hard shell. Both leave slimy trails and chew irregular holes in leaves, often targeting young seedlings. **Damage: ** - Devour tender leaves, stems, and fruits overnight. - Prefer moist, shady environments. **Control Methods: ** - **Beer Traps: **Bury a shallow container of beer to attract and drown them.
+**Identification: ** [Slugs](https://pestpolicy.com/do-lizards-eat-snails/)are soft-bodied, while snails have a hard shell. Both leave slimy trails and chew irregular holes in leaves, often targeting young seedlings. **Damage: ** - Devour tender leaves, stems, and fruits overnight. - Prefer moist, shady environments. **Control Methods: ** - **Beer Traps: **Bury a shallow container of beer to attract and drown them.
 
 - **Copper Barriers: **Copper tape repels them with a mild electric charge.
 

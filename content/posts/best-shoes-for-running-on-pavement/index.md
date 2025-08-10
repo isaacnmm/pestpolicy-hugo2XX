@@ -24,7 +24,7 @@ Here's a list of the Best Shoes for Running on Pavement to help you find your id
 
 ASICS GEL-KAYANO 26 is one of the best shoes for running on pavement. Its durable, stable, supportive, and well-cushioned.
 
-Runners with overpronation who want to run on pavements or roads will benefit from the arch support and stability that this [shoe](https://pestpolicy.com/best-running-shoes-for-extensor-tendonitis/) offers. The shoe features DUOMAX midsole that helps to control overpronation protecting the runner from [bunion and flat feet](https://pestpolicy.com/best-running-shoes-for-flat-feet-and-bunions/).
+Runners with overpronation who want to run on pavements or roads will benefit from the arch support and stability that this [shoe](https://pestpolicy.com/best-running-shoes-for-extensor-tendonitis/)offers. The shoe features DUOMAX midsole that helps to control overpronation protecting the runner from [bunion and flat feet](https://pestpolicy.com/best-running-shoes-for-flat-feet-and-bunions/).
 
 The upper of GEL-KAYANO 26 features a synthetic mesh material thats soft. The collar and the padded tongue add extra comfort. The forefoot section is spacious and allows ample room for your toes to move naturally.
 
@@ -46,7 +46,7 @@ If youre one of those runners that require extra support, cushioning, and stabil
 
 The outsole of Brooks GTS 20 features a full-blown rubber material thats softer, flexible, and lighter. The rubber covers the whole outsole to provide needed protection against abrasion. Underneath the outsole and midsole, there are Omega Flex Grooves that allow the foot to move naturally. These grooves facilitate a smoother heel to toe transition.
 
-The upper of the GTS 20 features a modernized, engineered mesh that provides a firm and flexible fit to control overpronation. The mesh upper also ensures breathability as well as a spacious forefoot area, hence, [runners with wide feet](https://pestpolicy.com/best-running-shoes-for-men-with-wide-feet/) would benefit from this shoe.
+The upper of the GTS 20 features a modernized, engineered mesh that provides a firm and flexible fit to control overpronation. The mesh upper also ensures breathability as well as a spacious forefoot area, hence, [runners with wide feet](https://pestpolicy.com/best-running-shoes-for-men-with-wide-feet/)would benefit from this shoe.
 
 The midsection of GTS 20 features a GuideRails support system that provides excellent stability and support for running on pavement. The GuideRails also prevents overpronation by ensuring the runners' feet dont move excessively while running. Therefore, if youre an overpronator or neutral runner who struggles with poor running form, then the Brooks Adrenaline GTS 20 would be a great choice.
 

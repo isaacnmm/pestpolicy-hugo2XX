@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 
-Glue traps are a common and reliable way of [getting rid of mice](https://entomology.ca. uky. edu/ef617) in houses and offices. - A glue trap is a plastic tray or a compact cardboard with a sticky surface that holds pests once they come into contact with the glue. **But what are the pros and cons of using glue traps for mice?
+Glue traps are a common and reliable way of [getting rid of mice](https://entomology.ca.uky.edu/ef617)in houses and offices. - A glue trap is a plastic tray or a compact cardboard with a sticky surface that holds pests once they come into contact with the glue. **But what are the pros and cons of using glue traps for mice?
 
 ** *Pros: easy to use, cheap to purchase, provide quick results, non- toxic, best for tight locations, and easy to dispose of the dead mouse.
 
@@ -39,7 +39,7 @@ Once several traps are well placed; you can add some peanut on the trap. The pea
 
 ###  3. Non-toxic
 
-Compared to the [best mouse poisons](https://pestpolicy.com/best-poison-for-mouse/), the glue on the trap surface is not poisonous to pets, human beings and pests trapped too. The aim of the glue traps is to; - To hold the mice once it passes on the surface. - Trapped animals does not die immediately, they suffer only from starvation and dehydration for the days stuck.
+Compared to the [best mouse poisons](https://pestpolicy.com/best-poison-for-mouse/),the glue on the trap surface is not poisonous to pets, human beings and pests trapped too. The aim of the glue traps is to; - To hold the mice once it passes on the surface. - Trapped animals does not die immediately, they suffer only from starvation and dehydration for the days stuck.
 
 ###  4. Best for tight locations
 
@@ -85,5 +85,5 @@ Mice will transmit diseases, contaminate food, and damage clothes and other hous
 
 ##  Sources:
 
-- [House Mouse Management Guidelines--UC IPM](http://ipm.ucanr. edu/PMG/PESTNOTES/pn7483. html) - [What is a sticky trap? - Insects in the City](https://citybugs.tamu. edu/factsheets/ipm/what-is-a-sticky-trap/) - [Controlling House Mice - Nebraska Extension Wildlife](https://wildlife.unl. edu/pdfs/controlling-house-mice. pdf)
+- [House Mouse Management Guidelines--UC IPM](http://ipm.ucanr.edu/PMG/PESTNOTES/pn7483.html)- [What is a sticky trap? - Insects in the City](https://citybugs.tamu.edu/factsheets/ipm/what-is-a-sticky-trap/)- [Controlling House Mice - Nebraska Extension Wildlife](https://wildlife.unl.edu/pdfs/controlling-house-mice.pdf)
 

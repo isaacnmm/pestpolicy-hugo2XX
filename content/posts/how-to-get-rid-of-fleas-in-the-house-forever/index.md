@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 
-[Fleas](https://pestpolicy.com/getting-rid-of-fleas-in-the-carpet/) are a [common pest](https://entnemdept.ufl. edu/creatures/urban/occas/catflea. htm) in the house; They're small, they jump high, they'll multiply so fast, and can be incredibly difficult to get [rid](https://pestpolicy.com/how-to-get-rid-of-flea-eggs-on-cats/) of.
+[Fleas](https://pestpolicy.com/getting-rid-of-fleas-in-the-carpet/)are a [common pest](https://entnemdept.ufl.edu/creatures/urban/occas/catflea.htm)in the house; They're small, they jump high, they'll multiply so fast, and can be incredibly difficult to get [rid](https://pestpolicy.com/how-to-get-rid-of-flea-eggs-on-cats/)of.
 
 The fleas may have used your dog or cat as carriers to get into the house, or they hitchhiked onto humans - sometimes.
 
@@ -59,7 +59,7 @@ If you want a long-term solution to killing fleas, then its best to use pesticid
 
 Vacuum your house thoroughly before going on to the next step - vacuum all crevices and corners.
 
-Once you have vacuumed the carpet, be sure to throw out your vacuum bag. - Pets must be removed from the premises for at least 2 - 3 hours before and during house and yard treatment. Steam clean the pet beds, upholstery, and [carpets. ](https://pestpolicy.com/getting-rid-of-fleas-in-the-carpet/) Do the laundry. Wash all bedding in hot water and dry on high heat for at least 20 minutes. - Vacuum or sweep floors, including under furniture.
+Once you have vacuumed the carpet, be sure to throw out your vacuum bag. - Pets must be removed from the premises for at least 2 - 3 hours before and during house and yard treatment. Steam clean the pet beds, upholstery, and [carpets. ](https://pestpolicy.com/getting-rid-of-fleas-in-the-carpet/)Do the laundry. Wash all bedding in hot water and dry on high heat for at least 20 minutes. - Vacuum or sweep floors, including under furniture.
 
 Throw out any vacuum bag contents as fleas could survive in them for up to a year if they get stuck inside it Clean your pet's bowls, litter box, food dishes with soapy dish detergent and rinse well- then scrub clean with a bleach solution of one tablespoon bleach per quart of warm water (or use commercial products designed to kill flea larvae).
 

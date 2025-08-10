@@ -55,7 +55,7 @@ The No-Spill Ant Kill will exterminate the large drones of ants that will be inv
 
 ###  3. Indoor Ant Control
 
-The No-Spill Ant Kill is great for killing ants in indoor spaces. You'll require to just apply on bait stations, foil, paper, or cardboard - in a place that's inaccessible to pets or kids. Ensure to set up the bait in places that ants frequent including in corners, baseboards, floors, [bathrooms](https://pestpolicy.com/how-to-get-rid-of-ants-in-the-bathroom/), food cabinets, window sills, and on sink edges.
+The No-Spill Ant Kill is great for killing ants in indoor spaces. You'll require to just apply on bait stations, foil, paper, or cardboard - in a place that's inaccessible to pets or kids. Ensure to set up the bait in places that ants frequent including in corners, baseboards, floors, [bathrooms](https://pestpolicy.com/how-to-get-rid-of-ants-in-the-bathroom/),food cabinets, window sills, and on sink edges.
 
 Make sure to place multiple baits in different places - but make sure to target areas that ants will use to gain entry into your house as they come from the nesting sites located outdoors. Check for the ant trails as this is what the bugs will follow as they search for water, food, and nesting location. You'll achieve better control of the ants on the trails.
 

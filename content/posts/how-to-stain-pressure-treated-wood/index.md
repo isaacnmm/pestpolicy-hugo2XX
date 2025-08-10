@@ -14,7 +14,7 @@ tags:
 layout: post
 ---
 
-Could you have a [pressure](https://pestpolicy.com/best-pressure-washer-for-paint-removal/) treated wooden structure in your place, or have you come across one? The pressure treatment process protects the wood from insect damage and reduces the aging process.
+Could you have a [pressure](https://pestpolicy.com/best-pressure-washer-for-paint-removal/)treated wooden structure in your place, or have you come across one? The pressure treatment process protects the wood from insect damage and reduces the aging process.
 
 Staining is required to improve outlook impression, prevent cracking, peeling, and boost a particular wooden structure's overall service life - a stain for deck pressure-treated wood. In this article, we shall be discussing how to stain pressure treated wood.
 

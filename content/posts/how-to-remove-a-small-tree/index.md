@@ -39,7 +39,7 @@ At a minimum, you'll need: * Safety glasses or a face shield * Work gloves * Lon
 
 ##  Step 2: Cut Down the Tree
 
-The method for felling a small tree involves two main cuts: a "notch" (or "hinge") cut and a "felling" cut. This creates a hinge that [guides](https://pestpolicy.com/10-trees-to-grow-in-containers/) the [tree](https://pestpolicy.com/can-i-plant-trees-and-shrubs-in-late-fall-or-winter/)'s fall.
+The method for felling a small tree involves two main cuts: a "notch" (or "hinge") cut and a "felling" cut. This creates a hinge that [guides](https://pestpolicy.com/10-trees-to-grow-in-containers/)the [tree](https://pestpolicy.com/can-i-plant-trees-and-shrubs-in-late-fall-or-winter/)'sfall.
 
 1. **Make the Notch Cut (Directional Cut): ** * This cut determines the direction the tree will fall. It should be made on the side of the tree facing your desired fall direction. * **First Cut (Top of Notch): ** Make a downward-sloping cut into the trunk, going about one-third of the way through the trunk's diameter. Aim for a 45-degree angle.
 

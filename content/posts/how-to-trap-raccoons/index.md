@@ -27,7 +27,7 @@ Related: [How to control Racoons](https://pestpolicy.com/how-to-get-rid-of-racco
 
 ###  **Step 1:**Select a Raccoon Trap
 
-[Raccoons](https://www.esf. edu/aec/adks/mammals/raccoon. htm) are adaptive wild animals. They host pests like roundworms and spread rabies, and will forage in your garbage bins. Killing or hunting raccoons is illegal in some states.
+[Raccoons](https://www.esf.edu/aec/adks/mammals/raccoon.htm)are adaptive wild animals. They host pests like roundworms and spread rabies, and will forage in your garbage bins. Killing or hunting raccoons is illegal in some states.
 
 You can trap and then relocate them. Raccoon traps are a humane way to remove these fur-bearing wild animals.
 
@@ -69,7 +69,7 @@ Related: [How to Trap Raccoons](https://pestpolicy.com/how-to-trap-raccoons/)
 
 ###  **1. Open Trap Doors only at Night (Raccoons are Nocturnals)**
 
-Raccoons are very cunning wild animals (rodents for that matter). Therefore, recent [research](http://ipm.ucanr. edu/PMG/PESTNOTES/pn74116. html) shows that the back of the raccoon trap must be covered using a half-inch wire mesh to ensure that the raccoon wont steal the bait from outside the trap.
+Raccoons are very cunning wild animals (rodents for that matter). Therefore, recent [research](http://ipm.ucanr.edu/PMG/PESTNOTES/pn74116.html)shows that the back of the raccoon trap must be covered using a half-inch wire mesh to ensure that the raccoon wont steal the bait from outside the trap.
 
 Definitely, the rodents will attempt to get the bait via the trap bars. However, because raccoons are nocturnal, you should only open the traps during the night. This'll prevent the trap catching animals such as cats or rats.
 
@@ -81,7 +81,7 @@ Also, you can place it around places food was located. This will trap the raccoo
 
 ##  3. Practices for Humana Raccoon Trapping
 
-For human treatment of the Raccoons, you [should](http://wdfw.wa. gov/living/nuisance/trapping. html) put 1-2 tennis balls in the raccoon traps and thus allow the large rodents to release its frustration and energy. Further, for the smaller animal, you can offer some piece of wood.
+For human treatment of the Raccoons, you [should](http://wdfw.wa.gov/living/nuisance/trapping.html)put 1-2 tennis balls in the raccoon traps and thus allow the large rodents to release its frustration and energy. Further, for the smaller animal, you can offer some piece of wood.
 
 Related: Best racoon baits
 
@@ -99,5 +99,5 @@ Therefore, with some simple manoeuvres, the wild animals can flip the cage and f
 
 ##  **Sources**
 
-1. [Trap-Vaccinate-Release Program to Control Raccoon Rabies. .. - NCBI](https://www.ncbi. nlm. nih. gov/pmc/articles/PMC3376792/) 2. [Best Management Practices for Trapping Raccoons in the United States](https://www.dec. ny. gov/docs/wildlife_pdf/trapbmpsraccoon. pdf) 3. Trapping Nuisance Wildlife Purdue Extension Forestry & Natural
+1. [Trap-Vaccinate-Release Program to Control Raccoon Rabies. .. - NCBI](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3376792/)2. [Best Management Practices for Trapping Raccoons in the United States](https://www.dec.ny.gov/docs/wildlife_pdf/trapbmpsraccoon.pdf)3. Trapping Nuisance Wildlife Purdue Extension Forestry & Natural
 

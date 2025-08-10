@@ -20,7 +20,7 @@ Check out my compilation and pick your favorite pair.
 
 Related: [Best Womens Running Shoes for Shin Splints](https://pestpolicy.com/best-womens-[running-shoes](https://pestpolicy.com/best-womens-running-shoes-for-plantar-fasciitis/)-for-shin-splints/).
 
-##  Reviews: 7 [Best](https://pestpolicy.com/everything-about-kangoo-jumps-shoes-boots/) Track Shoes Without Spikes
+##  Reviews: 7 [Best](https://pestpolicy.com/everything-about-kangoo-jumps-shoes-boots/)Track Shoes Without Spikes
 
 ###  [1. ASICS Men's Gel-Kayano 27 Running Shoes](https://www.amazon.com/dp/B082CVKMBL/tag=p-policy-20)
 
@@ -50,7 +50,7 @@ Another amazing feature that the Ghost 13 boasts of is the Segmented Crash Pad. 
 
 Furthermore, the midsection of Brooks Ghost 13 incorporates DNA LOFT cushioning and BioMoGo DNA that works in conjunction to deliver excellent underfoot cushioning. They also make the shoe lighter while ensuring high responsiveness and durability.
 
-The upper incorporates an engineered mesh material thats reinforced with a 3D Fit Print to give the upper shape and structure. The mesh also allows ventilation. Pros: - Excellent grip - Comfortable - Wide toe box thus, accommodates[people with wide feet](https://pestpolicy.com/best-running-shoes-for-men-with-wide-feet/) - Highly breathable - Provides stable runs - Excellent shock absorption
+The upper incorporates an engineered mesh material thats reinforced with a 3D Fit Print to give the upper shape and structure. The mesh also allows ventilation. Pros: - Excellent grip - Comfortable - Wide toe box thus, accommodates[people with wide feet](https://pestpolicy.com/best-running-shoes-for-men-with-wide-feet/)- Highly breathable - Provides stable runs - Excellent shock absorption
 
 Cons: - A bit heavy according to some reviews
 

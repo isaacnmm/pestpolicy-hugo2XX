@@ -23,7 +23,7 @@ In fact some bigger creatures like lobsters, crab, snails, worms and shrimps hav
 
 The spider's cuticle is composed of 4 layers (like other arthropods) unlike insects that have 3 cuticle layers. However, the cuticles are all made off chitin fibers plus protein. But, don't be mistaken, the spider still has a small internal skeleton - that's has, however, no bones in it. The spider's endoskeleton has collagen and a couple of plates which won't articulate like bones do for the skeleton in vertebrates.
 
-Compared to humans and other animal species -these ones have an endoskeleton that acts like a support structure that's created from bones. The endoskeleton offers support to its organs like lungs, [brain](https://pestpolicy.com/do-spiders-have-brains/), [heart](https://pestpolicy.com/do-spiders-have-hearts/) and maintain the animals size and shape.
+Compared to humans and other animal species -these ones have an endoskeleton that acts like a support structure that's created from bones. The endoskeleton offers support to its organs like lungs, [brain](https://pestpolicy.com/do-spiders-have-brains/),[heart](https://pestpolicy.com/do-spiders-have-hearts/) and maintain the animals size and shape.
 
 ##  Exoskeletons offer Spiders Body Support
 
@@ -41,13 +41,13 @@ Related: [Do Spiders Have Ears? ](https://pestpolicy.com/do-spiders-have-ears/)
 
 The segments of the exoskeleton in the arthropod are joined using joints to allow it to move up and down. Therefore, the muscles that are attached to the exoskeleton tend to contract allowing the spider to move its legs inward. However, the spider lacks muscles that would otherwise extend its legs back (outward) to their default position. Therefore, the creature use its blood and other bodily fluids to push the legs outward.
 
-Whenever the spider loses excessive bodily fluid, it'll lack the required pressure ( [hydraulic)](https://science.howstuffworks. com/transport/engines-equipment/hydraulic. htm) for moving its legs outwards. You'll notice the spider lying on its back and its legs in a curled up position.
+Whenever the spider loses excessive bodily fluid, it'll lack the required pressure ( [hydraulic)](https://science.howstuffworks.com/transport/engines-equipment/hydraulic.htm)for moving its legs outwards. You'll notice the spider lying on its back and its legs in a curled up position.
 
 ##  **How****Spiders ****Molt**
 
-Spiders will move from one point to another through muscle contraction - these will be attached to the exoskeleton on the outer part of the arthropod. The spider's exoskeleton is composed of different cuticle layers - that are made from chitin (polysaccharide) and [proteins](https://science.howstuffworks. com/life/cellular-microscopic/cell3. htm). This allows the cuticle structure to be layered like a [plywood](https://home.howstuffworks.
+Spiders will move from one point to another through muscle contraction - these will be attached to the exoskeleton on the outer part of the arthropod. The spider's exoskeleton is composed of different cuticle layers - that are made from chitin (polysaccharide) and [proteins](https://science.howstuffworks.com/life/cellular-microscopic/cell3.htm).This allows the cuticle structure to be layered like a [plywood](https://home.howstuffworks.
 
-com/home-improvement/remodeling/question154. htm) grain.
+com/home-improvement/remodeling/question154.htm) grain.
 
 Therefore, the cuticle structure is very strong for protection while also preventing the spider from losing fluids excessively and drying out. This would in turn prevent effective movement in the arthropod. But the cuticle won't grow like the human tissue or bones (endoskeleton) and thus it must be shed off as the spider continues to develop and grow.
 

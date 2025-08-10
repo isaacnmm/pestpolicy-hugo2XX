@@ -21,7 +21,7 @@ In the ongoing battle between the cockroach vs. the palmetto bug, it's often dis
 
 ##  Cockroach Vs. Palmetto Bug: What're the Difference?
 
-While there are over 4, 500 various [cockroaches](https://pestpolicy.com/cockroach-eggs/) species, these two provide a constant source of confusion for people. Yet, there are some notable differences. So let's put on our boxing gloves, step in the ring, get behind our favorite [cockroach](https://pestpolicy.com/how-to-kill-cockroach-eggs/), and see what they are. Read Also: What do roaches smell like?
+While there are over 4, 500 various [cockroaches](https://pestpolicy.com/cockroach-eggs/)species, these two provide a constant source of confusion for people. Yet, there are some notable differences. So let's put on our boxing gloves, step in the ring, get behind our favorite [cockroach](https://pestpolicy.com/how-to-kill-cockroach-eggs/),and see what they are. Read Also: What do roaches smell like?
 
 Well, the most straightforward answer is a cockroach.
 

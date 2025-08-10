@@ -24,7 +24,7 @@ These shoes are breathable, well-cushioned, supportive, have roomy toe boxes, an
 
 Brooks GTS 20 takes the first spot for best Shoes for Standing All Day with Bad Knees. It has many amazing features and technologies that make it ideal for all-day wear.
 
-For starters, the GTS 20 features a GuideRails support technology that helps to prevent excess movement of the foot. Hence, protects the wearers knees from injuries. Most people who are on their feet for extended periods love the support and comfort that the [shoe](https://pestpolicy.com/best-shoes-for-arthritic-hips/) provides.
+For starters, the GTS 20 features a GuideRails support technology that helps to prevent excess movement of the foot. Hence, protects the wearers knees from injuries. Most people who are on their feet for extended periods love the support and comfort that the [shoe](https://pestpolicy.com/best-shoes-for-arthritic-hips/)provides.
 
 Other than that, the BioMoGo DNA and the DNA LOFT Crash Pad work in conjunction to provide unmatched cushioning for a great wear experience.
 
@@ -32,7 +32,7 @@ The segmented crash pad ensures extra support and cushioning as it encourages th
 
 The padded tongue ensures even distribution of pressure on top of the foot.
 
-Hence, helps to eliminate the [top of foot pain](https://pestpolicy.com/best-shoes-for-pain-on-top-of-foot/). The heel section features a reliable heel cup that holds the foot in place to prevent unintended removal of the shoe. The outsole features a blown rubber component that provides needed protection against any abrasion. The Omega Flex Grooves at the bottom of the sole encourage the natural movement of the foot.
+Hence, helps to eliminate the [top of foot pain](https://pestpolicy.com/best-shoes-for-pain-on-top-of-foot/).The heel section features a reliable heel cup that holds the foot in place to prevent unintended removal of the shoe. The outsole features a blown rubber component that provides needed protection against any abrasion. The Omega Flex Grooves at the bottom of the sole encourage the natural movement of the foot.
 
 Pros: - Provides excellent cushioning - Highly comfortable - Excellent stability hence prevents overpronation - Roomy forefoot - Durable
 
@@ -84,7 +84,7 @@ Another amazing outsole technology that this stylish walking shoe boasts of is t
 
 Cons: - Simple design
 
-###  [5. Skechers GO Walk 5](https://www.amazon.com/dp/B07MR1TD9J/?tag=p-policy-20) Prized
+###  [5. Skechers GO Walk 5](https://www.amazon.com/dp/B07MR1TD9J/?tag=p-policy-20)Prized
 
 If youre looking for a perfect shoe for standing all day with bad knees pick the Skechers GOwalk 5. This shoe is ideal for everyday wear thats perfect for standing or walking for long hours.
 

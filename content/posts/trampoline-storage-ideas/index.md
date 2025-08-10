@@ -14,7 +14,7 @@ tags:
 layout: post
 ---
 
-Many [trampoline](https://pestpolicy.com/are-trampolines-good-for-obese-people/) owners disassemble and keep away their trampolines in winter and others lack Trampoline Storage Ideas.
+Many [trampoline](https://pestpolicy.com/are-trampolines-good-for-obese-people/)owners disassemble and keep away their trampolines in winter and others lack Trampoline Storage Ideas.
 
 While taking them down or thinking about trampoline storage ideas can be quite a challenge, the additional care can help prolong the lifespan of the structure. **But first things first; ** Before keeping away your trampoline, you can clean it thoroughly with hot water and a mild detergent. Read Also: Swing Sets for Small Yards.
 

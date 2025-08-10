@@ -36,7 +36,7 @@ It's important to consider the "cost per light" when buying multi-packs, as this
 * **Prioritize durability and weatherproofing** with an IP rating of IP55 or higher, especially in areas prone to heavy rain or dust. * **Ease of installation** is a major benefit; look for designs that simplify the mounting process. * **Don't just look at LED count; check the lumen output** for a true measure of brightness. * While an initial investment, the **long-term savings on electricity** make solar gutter lights a wise choice for outdoor lighting.
 By carefully considering these factors, you can choose the best solar gutter lights to enhance your home's safety, functionality, and aesthetic appeal.
 
-Gutters are essential for protecting your home from water damage, but they don't have to be purely functional. **Solar [gutter](https://pestpolicy.com/all-american-gutters-reviews/) lights** offer an innovative way to add illumination, enhance security, and boost your home's curb appeal, all without the need for complex wiring or increased electricity bills.
+Gutters are essential for protecting your home from water damage, but they don't have to be purely functional. **Solar [gutter](https://pestpolicy.com/all-american-gutters-reviews/)lights** offer an innovative way to add illumination, enhance security, and boost your home's curb appeal, all without the need for complex wiring or increased electricity bills.
 
 These compact, self-contained units harness the sun's energy during the day and automatically switch on at dusk, providing ambient or security lighting where you need it most.
 

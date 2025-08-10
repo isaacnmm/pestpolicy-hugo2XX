@@ -16,7 +16,7 @@ layout: post
 
 Preparing your seedbed may same easy from face value. However, proper preparation of your garden in readiness for planting could be the key to getting better yields from your garden. Plowing and harrowing work in tandem in seedbed preparation but are slightly different altogether.
 
-Choosing the right tractor and [tillers](https://digitalcommons.usu. edu/cgi/viewcontent. cgi? article=1897&context=extension_histall) is crucial for you to get the desired results.
+Choosing the right tractor and [tillers](https://digitalcommons.usu.edu/cgi/viewcontent.cgi?article=1897&context=extension_histall)is crucial for you to get the desired results.
 
 What is harrowing? **Harrowing is further preparation of a seedbed that comes after plowing. Harrowing come with specialized attachments that help to break up large soil clumps. Many rookies confuse harrowing with cultivating as both are crucial in seedbed preparation. ** **However, plows dig deeper into the soil and in the process loosening and turning it.
 
@@ -42,7 +42,7 @@ It is easier for the sods to disintegrate on their own this way.
 
 Harrowing does more to the soil than reducing the size of soil particles, making it an essential process before seeding. The benefits include: **1. Removing Weeds from the Ground** After plowing, some grasses may get attached to the soil clamps. Harrows help remove the weeds by bringing them on the soil surface, making it easy for seeding. You can also manually collect the weed stumps leaving the seedbed ready for planting. **2.
 
-Removing Soil Clumps** Plowing helps to disintegrate robust and compact grounds and turns it up the soil. However, the leveler breaks the soil clumps and sod by reducing their size further - [depending on the tiller or harrow width](http://agris.fao. org/agris-search/search. do? recordID=RU2012000341).
+Removing Soil Clumps** Plowing helps to disintegrate robust and compact grounds and turns it up the soil. However, the leveler breaks the soil clumps and sod by reducing their size further - [depending on the tiller or harrow width](http://agris.fao.org/agris-search/search.do?recordID=RU2012000341).
 
 It also brings the clamps and sods that its unable to cut to the soil surface. In most cases, it breaks all, but in case of rocky soils, the rock particles are brought to the soil surface, making it easy for you in the seeding process. **3. Soil Aeration And Better Water Absorption** Harrowing your yard is crucial for better soil aeration. Soil microorganism thrives better in an adequately aerated soil.
 
@@ -90,7 +90,7 @@ Cleaning harrows keeps the rust away, consequently increasing its durability. Us
 
 ##  **Conclusion**
 
-Buying an expensive farming implement is never easy. Buying a harrowing implement wont be easy either. However, now that you have all the information that you need concerning a harrow. However, take care of [hallowing safety to avoid unnecessary injuries](https://vtechworks.lib. vt. edu/bitstream/handle/10919/56823/BSE-50NP. pdf? sequence=1).
+Buying an expensive farming implement is never easy. Buying a harrowing implement wont be easy either. However, now that you have all the information that you need concerning a harrow. However, take care of [hallowing safety to avoid unnecessary injuries](https://vtechworks.lib.vt.edu/bitstream/handle/10919/56823/BSE-50NP.pdf?sequence=1).
 
 You need to do further due diligence also to understand a harrow and how you can use it in other farm applications. Paying a visit to your local harrow dealer would be an excellent first stop. You will see the harrows tool first hand, and you will be in a better position to further get clarification on the ideal harrow for your yard.
 

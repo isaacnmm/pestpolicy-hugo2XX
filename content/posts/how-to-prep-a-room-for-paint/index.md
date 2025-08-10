@@ -14,7 +14,7 @@ tags:
 layout: post
 ---
 
-Could be you need to [paint](https://pestpolicy.com/living-room-paint-colors-with-brown-furniture/) your newly constructed room or carry out paint restoration to improve interior outlook impression. Then, its crucial to prep the room.
+Could be you need to [paint](https://pestpolicy.com/living-room-paint-colors-with-brown-furniture/)your newly constructed room or carry out paint restoration to improve interior outlook impression. Then, its crucial to prep the room.
 
 *On how to prep a room for paint, you will need to select appropriate material and tools for prepping, clean the room, and strip old paint before sanding the ceiling/walls to remove debris and surface roughness.
 
@@ -36,7 +36,7 @@ Clean the walls, floor, and ceiling to remove surface dust or debris that may ha
 
 Old paint should be stripped entirely to create a smooth paint contact surface boosts surface stickiness ability.
 
-When stripping, its advisable to thin the walls/ceiling sufficiently to break paint molecular bond and hence ease the removal process the paint thinner should match the applied old paint (oil-based thinner should be used over oil-based paint and vice versa) Gently, strip the paint layer using a putty knife/ [a paint](https://www.amazon. com/Toughest-Tools-Paint-Scraper-Remover/dp/B07XVBW45J/ref=sr_1_5?
+When stripping, its advisable to thin the walls/ceiling sufficiently to break paint molecular bond and hence ease the removal process the paint thinner should match the applied old paint (oil-based thinner should be used over oil-based paint and vice versa) Gently, strip the paint layer using a putty knife/ [a paint](https://www.amazon.com/Toughest-Tools-Paint-Scraper-Remover/dp/B07XVBW45J/ref=sr_1_5?
 
 dchild=1&keywords=paint+scraper&qid=1610135050&sr=8-5) scraper, be keen when running the scraper over the old paint to protect primary surface material from damage.
 

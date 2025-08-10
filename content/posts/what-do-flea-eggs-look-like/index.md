@@ -17,13 +17,13 @@ layout: post
 
 Really, what do flea eggs look like? Well, for anyone whos been bitten by a bed bug, you can be sure some tiny flea eggs are lurking around to hatch either from your cat or dogs. *But to control flea eggs, you must effectively know their physical appearance and places where theyre hidden including differences between flea eggs and flea dirt.
 
-* *In summary, [fleas](https://pestpolicy.com/flea-eggs-vs-dandruff/) eggs are tiny specs (0. 5 lengths by 0. 25 mm width), rounded-oval shape, with a flexible-chorion and softshell. * *Adult females fleas produce eggs 1 to 2 days after taking a full blood meal and mating. [Flea](https://pestpolicy.com/how-long-do-flea-eggs-take-to-hatch/) eggs will be laid on a host like cats or dogs, but they'll fall off shortly (within hours). *
+* *In summary, [fleas](https://pestpolicy.com/flea-eggs-vs-dandruff/)eggs are tiny specs (0. 5 lengths by 0. 25 mm width), rounded-oval shape, with a flexible-chorion and softshell. * *Adult females fleas produce eggs 1 to 2 days after taking a full blood meal and mating. [Flea](https://pestpolicy.com/how-long-do-flea-eggs-take-to-hatch/)eggs will be laid on a host like cats or dogs, but they'll fall off shortly (within hours). *
 
 ##  Flea Eggs - What Do Flea Eggs Look Like?
 
 ###  1. Size - How big is Flea Eggs?
 
-Flea eggs, particularly cat flea eggs, measure about 0. 25 millimeters in width and 0. 5 millimeters in length. Despite that, you can see the eggs with your unaided human eye - particularly when in clusters, these creatures are tiny in body size. In the house, [flea eggs will be found](https://pestpolicy.com/flea-eggs-vs-dandruff/) in pets' visits, feed, sleep, and rest.
+Flea eggs, particularly cat flea eggs, measure about 0. 25 millimeters in width and 0. 5 millimeters in length. Despite that, you can see the eggs with your unaided human eye - particularly when in clusters, these creatures are tiny in body size. In the house, [flea eggs will be found](https://pestpolicy.com/flea-eggs-vs-dandruff/)in pets' visits, feed, sleep, and rest.
 
 Also, the immature fleas will grow inside carpets - use flea carpet powder to control.
 

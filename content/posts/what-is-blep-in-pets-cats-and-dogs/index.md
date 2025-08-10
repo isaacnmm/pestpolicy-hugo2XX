@@ -15,9 +15,9 @@ tags:
 layout: post
 ---
 
-Cats never cease to amaze with their adorable but sometimes bizarre behaviors. One such behavior is [blep](https://www.reddit. com/r/Blep/) (as described on the inter-webs), particularly among cats and dogs. So, we asked our pet behavior expert: What is blep in pets (cats and dogs), you ask? Well, no one really knows the origin of this blep word, but you might already know how it looks like.
+Cats never cease to amaze with their adorable but sometimes bizarre behaviors. One such behavior is [blep](https://www.reddit.com/r/Blep/)(as described on the inter-webs), particularly among cats and dogs. So, we asked our pet behavior expert: What is blep in pets (cats and dogs), you ask? Well, no one really knows the origin of this blep word, but you might already know how it looks like.
 
-It's when your [cat](https://pestpolicy.com/cat-fleas-vs-dog-fleas/) or dog unconsciously sticks out its tongue, particularly when they forget to take it back. Most time, cats blep while they are resting. So, blep, it's usually not anything to worry about. But, blep can also significant damage to the face, teeth, or jaw. Read Also: Flea Treatment for Dogs.
+It's when your [cat](https://pestpolicy.com/cat-fleas-vs-dog-fleas/)or dog unconsciously sticks out its tongue, particularly when they forget to take it back. Most time, cats blep while they are resting. So, blep, it's usually not anything to worry about. But, blep can also significant damage to the face, teeth, or jaw. Read Also: Flea Treatment for Dogs.
 
 https://twitter.com/MeowMoeDotCom/status/1030926427850452993
 
@@ -33,9 +33,9 @@ Most cats will hang their cat out if you disturb them while they are grooming. H
 
 ##  Hanging Tongue Syndrome  Blep in Dogs
 
-A blep in dogs could be a sign of Hanging Tongue Syndrome. In Hanging Tongue Syndrome, a dogs tongue is painful due to becoming dry and cracking, which forces the pet to stick its tongue out. Read Also: [Best Flea Treatment for Cats](https://pestpolicy.com/best-flea-treatment-for-cats/). Therefore, if you, not your dog blepping, check the above initial signs and symptoms of a possible Hanging Tongue Syndrome.
+A blep in dogs could be a sign of Hanging Tongue Syndrome. In Hanging Tongue Syndrome, a dogs tongue is painful due to becoming dry and cracking, which forces the pet to stick its tongue out. Read Also: [Best Flea Treatment for Cats](https://pestpolicy.com/best-flea-treatment-for-cats/).Therefore, if you, not your dog blepping, check the above initial signs and symptoms of a possible Hanging Tongue Syndrome.
 
-If you note some or all the signs, then you should call your vet to give your dog the required medical attention or carry them with the [Dog Backpack Carrier](https://pestpolicy.com/best-dog-backpack-carrier-for-hiking/) to the Vets office for medical attention.
+If you note some or all the signs, then you should call your vet to give your dog the required medical attention or carry them with the [Dog Backpack Carrier](https://pestpolicy.com/best-dog-backpack-carrier-for-hiking/)to the Vets office for medical attention.
 
 ##  Conclusion
 

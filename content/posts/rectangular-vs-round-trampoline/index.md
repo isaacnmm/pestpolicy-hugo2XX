@@ -14,7 +14,7 @@ tags:
 layout: post
 ---
 
-In this article, we will look at Rectangular vs. Round Trampoline. Choosing the [best trampoline for your backyard](https://pestpolicy.com/best-backyard-trampolines/) is never an easy task. Trampolines come in different shapes, sizes, and features.
+In this article, we will look at Rectangular vs. Round Trampoline. Choosing the [best trampoline for your backyard](https://pestpolicy.com/best-backyard-trampolines/)is never an easy task. Trampolines come in different shapes, sizes, and features.
 
 Most people, especially first time buyers can get overwhelmed in deciding the kind of trampoline to pick. To make the decision easier, I will discuss everything you need to know about Rectangular Vs. Round Trampoline.
 
@@ -50,7 +50,7 @@ However, the round trampoline will not give you a higher bounce compared to the 
 
 The low jumping height and the center jump makes round trampoline a safer option for children. Without getting to the edges, children cant come across springs that might hurt them. The low height jump will not allow dangerous maneuvers.
 
-Read this [article](https://www.chp. edu/injury-prevention/safety/home-and-yard/trampolines) on trampoline safety.
+Read this [article](https://www.chp.edu/injury-prevention/safety/home-and-yard/trampolines)on trampoline safety.
 
 ###  Rectangular Vs. Round Trampoline Safety Net Enclosure
 

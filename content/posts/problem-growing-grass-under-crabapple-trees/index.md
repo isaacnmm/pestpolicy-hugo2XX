@@ -16,7 +16,7 @@ tags:
 layout: post
 ---
 
-Few things enhance a landscape quite like a beautiful, mature tree. Crabapple trees, with their stunning spring blossoms, attractive summer foliage, and vibrant fall fruit, are particularly beloved for their ornamental value. However, beneath their charming canopy often lies a common [gardening](https://pestpolicy.com/how-and-when-to-trim-a-monkey-grass-border/) conundrum: the struggle to grow a healthy, lush lawn.
+Few things enhance a landscape quite like a beautiful, mature tree. Crabapple trees, with their stunning spring blossoms, attractive summer foliage, and vibrant fall fruit, are particularly beloved for their ornamental value. However, beneath their charming canopy often lies a common [gardening](https://pestpolicy.com/how-and-when-to-trim-a-monkey-grass-border/)conundrum: the struggle to grow a healthy, lush lawn.
 
 If you've ever tried to cultivate green grass under your crabapple tree only to be met with sparse, patchy, or yellowing turf, you're experiencing a widespread issue.
 

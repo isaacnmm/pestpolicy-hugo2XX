@@ -14,7 +14,7 @@ tags:
 layout: post
 ---
 
-Painting the interior of a [house](https://pestpolicy.com/house-lizard-lifespan/) is a rewarding project that transforms living spaces, adding vibrancy and freshness. However, many homeowners wonder: *how long does it take to paint a house [interior](https://pestpolicy.com/best-paint-for-interior-doors/)?
+Painting the interior of a [house](https://pestpolicy.com/house-lizard-lifespan/)is a rewarding project that transforms living spaces, adding vibrancy and freshness. However, many homeowners wonder: *how long does it take to paint a house [interior](https://pestpolicy.com/best-paint-for-interior-doors/)?
 
 * The answer depends on several factors, including the size of the house, the number of rooms, the level of preparation, and the techniques used.
 

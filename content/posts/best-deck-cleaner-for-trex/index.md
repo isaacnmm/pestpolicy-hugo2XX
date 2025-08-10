@@ -38,7 +38,7 @@ See Also: Painting Vs Staining Deck
 
 This unit will allow you to eliminate green and black spots on trex decks. You only need to dilute it with water, sprayon the surface and forget. This concentrate leverages the rain and wind to gently eliminate mold ( see mold rem, oval paints-to-prevent-mold/) ), mildew, moss and algae on outdoor surfaces. The gentleness provided by this cleaner makes it ideal for applying to trex decks.
 
-The Wet and Forget outdoor cleaner concentrate makes 6 gallons in total, offering you a coverage of 750-2250 square foot. With this unit, you get a clean surface for 1+ years in most cases. The bleach-free, biodegradable, and phosphate-free nature of this unit makes it the ideal choice for all your Trex [deck](https://pestpolicy.com/best-deck-stain-for-pressure-treated-wood/) cleaning needs.
+The Wet and Forget outdoor cleaner concentrate makes 6 gallons in total, offering you a coverage of 750-2250 square foot. With this unit, you get a clean surface for 1+ years in most cases. The bleach-free, biodegradable, and phosphate-free nature of this unit makes it the ideal choice for all your Trex [deck](https://pestpolicy.com/best-deck-stain-for-pressure-treated-wood/)cleaning needs.
 
 This water-conserving application offers you unlimited shelf life.
 

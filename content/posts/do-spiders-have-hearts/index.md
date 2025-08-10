@@ -14,7 +14,7 @@ tags:
 layout: post
 ---
 
-Spiders, being over 48, 000 species, are an essential section of the earth ecosystem. These arthropods possess the [open circulatory system](https://link.springer. com/chapter/10. 1007/978-3-642-33989-9_2) that is, they lack "true blood" or veins to transport it. But, do spiders have hearts?
+Spiders, being over 48, 000 species, are an essential section of the earth ecosystem. These arthropods possess the [open circulatory system](https://link.springer.com/chapter/10.1007/978-3-642-33989-9_2)that is, they lack "true blood" or veins to transport it. But, do spiders have hearts?
 
 **The simple ** **answer** ** is, Yes, spiders have 1 tube-like heart in its abdomen with one artery that carry hemolymph (spiders blood) and ostia (one-way valve) on its sides. However, the spider's heart has no capillaries. ** **Spiders have the open circulatory system. The animal's heart thus pumps the hemolymph into the sinuses and body cavity soaking its organs and tissues to give them hormones, nutrients, and oxygen. **
 
@@ -22,7 +22,7 @@ Spiders, being over 48, 000 species, are an essential section of the earth ecosy
 
 Spiders have the open circulatory system, which is different from that in mammals that have the closed circulatory system. The spiders has 1 heart that's a muscular tube pumping the hemolymph into the open circuit.
 
-The spider's bodies like the [Brown recluse](https://books.google. com/books? hl=en&lr=&id=OCypCwAAQBAJ&oi=fnd&pg=PA412&dq=Spiders+Have+Hearts&ots=kd5ld9canM&sig=BTTnLEI9RYd9m76MSBHlSGRYGIo) will be filled with the arthropod's haemolymph that's pumped via arteries into the sinuses (openings) that surround various internal organs. The arthropod's blood would diffuse into the individual cells and later collected into the spider's heart.
+The spider's bodies like the [Brown recluse](https://books.google.com/books?hl=en&lr=&id=OCypCwAAQBAJ&oi=fnd&pg=PA412&dq=Spiders+Have+Hearts&ots=kd5ld9canM&sig=BTTnLEI9RYd9m76MSBHlSGRYGIo)will be filled with the arthropod's haemolymph that's pumped via arteries into the sinuses (openings) that surround various internal organs. The arthropod's blood would diffuse into the individual cells and later collected into the spider's heart.
 
 Related: Do Spiders Have Brains?
 
@@ -40,11 +40,11 @@ The spider's heart will pump the haemolymph via the pedicel then to its cephalot
 
 To guarantee that the blood flows in one-way, the spider's heart has simple valves. Also, the spider has a 30 to 200 heart rate (beats in every minute) varying with level of activity or species. 1. Negative pressure is what will allow the spider's haemolymph to return in its heart - this particularly occurs when the heart relaxes in between the beats. 2.
 
-But the haemolymph that's pump[ed into the spiders cephalothorax is moved via unique channels though pedicel whenver the blood pressure is high in its cephalothorax compared to that in the abdomen. 3. Further, the haemolymph would collect in the lacunae prior to diffusing into the lamellae of the[book lungs](https://pestpolicy.com/do-spiders-have-lungs/)and taken up via the heart's tissue spaces getting in through the ostia (tiny holes). 4.
+But the haemolymph that's pump[ed into the spiders cephalothorax is moved via unique channels though pedicel whenver the blood pressure is high in its cephalothorax compared to that in the abdomen. 3. Further, the haemolymph would collect in the lacunae prior to diffusing into the lamellae of the[book lungs](https://pestpolicy.com/do-spiders-have-lungs/)andtaken up via the heart's tissue spaces getting in through the ostia (tiny holes). 4.
 
 The secondaryhaemolymph pumping is great since there exists cephalothorax muscles that'll expand and compress to allow easy movement of the spider's legs. 5. Every cephalothorax compression makes the haemolymph that has lost oxygen back via the pedicle moving towards the book lungs for gas exchange and finally getting back to the spider's heart. 6.
 
-However, researchers noted that when the spider moves its legs vigorously, its[heart rate will increase](http://www.diva-portal. org/smash/record. jsf? pid=diva2: 871756)due to a rise in pressure of the haemolymph in the spider's cephalothorax that increase fluid flow into the abdomen. 7. This on the other hand reduces the flow of haemolymph into the cephalothorax from the abdomen through the spider's anterior aorta.
+However, researchers noted that when the spider moves its legs vigorously, its[heart rate will increase](http://www.diva-portal.org/smash/record.jsf?pid=diva2:871756)dueto a rise in pressure of the haemolymph in the spider's cephalothorax that increase fluid flow into the abdomen. 7. This on the other hand reduces the flow of haemolymph into the cephalothorax from the abdomen through the spider's anterior aorta.
 
 This, therefore, makes the heart rate to slow down as a compensation mechanism.
 
@@ -60,7 +60,7 @@ However, cells also assist in reducing bleeding (just like the mammalian thrombo
 
 ##  How Do Spiders Accumulate Oxygen?
 
-Spiders lack the sponge-type lungs but have 1 or 2 book lung pairs for [respiration](https://link.springer. com/article/10. 1007/s00360-016-0962-8) that look like the fish gills. The book lung allow easy exchange of air carbon dioxide and oxygen due to its large surface area. However.
+Spiders lack the sponge-type lungs but have 1 or 2 book lung pairs for [respiration](https://link.springer.com/article/10.1007/s00360-016-0962-8)that look like the fish gills. The book lung allow easy exchange of air carbon dioxide and oxygen due to its large surface area. However.
 
 , for spiders having 1 pair of the book lungs, its considered that the second one evolved into a tracheae system (fine tubes) looking like the bronchial and trachea systems in human lungs.
 
@@ -68,5 +68,5 @@ To control the arthropods, use spider foggers. But these will be kept open using
 
 ##  Sources:
 
-1. [Respiratory gut peristalsis by seaspiders](https://www.sciencedirect. com/science/article/pii/S0960982217306280) 2. [Virtualspidersraise realheartrates](http://www.diva-portal. org/smash/record. jsf? pid=diva2: 871756)
+1. [Respiratory gut peristalsis by seaspiders](https://www.sciencedirect.com/science/article/pii/S0960982217306280)2. [Virtualspidersraise realheartrates](http://www.diva-portal.org/smash/record.jsf?pid=diva2:871756)
 

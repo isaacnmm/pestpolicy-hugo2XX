@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 
-[Waterbugs](https://en.wikipedia. org/wiki/Waterbug) are often mistaken for cockroaches. Mistaking one bug for the other leads to wrong pest eradication interventions - get rid of cockroaches. Although they bear a close resemblance, it is possible to differentiate the two based on some factors. Ill take you through some of the features you can use to differentiate cockroaches ( [including baby roaches](https://pestpolicy.com/what-do-baby-roaches-look-like//) ) from water bugs.
+[Waterbugs](https://en.wikipedia.org/wiki/Waterbug)are often mistaken for cockroaches. Mistaking one bug for the other leads to wrong pest eradication interventions - get rid of cockroaches. Although they bear a close resemblance, it is possible to differentiate the two based on some factors. Ill take you through some of the features you can use to differentiate cockroaches ( [including baby roaches](https://pestpolicy.com/what-do-baby-roaches-look-like//)) from water bugs.
 
 ##  Water Bugs Vs. Cockroaches (7 Key Differences)
 
@@ -81,7 +81,7 @@ Roach sprays can be used to kill and repel roaches and waterbugs. Most of the be
 
 ###  **3. Boric Acid**
 
-The boric [acid powder can be spread on the affected areas to kill roaches](https://pestpolicy.com/harris-boric-acid-roach-powder-with-lure-review/) and waterbugs. This powder exists as microscopic particles that can break through the insects exoskeleton, causing dehydration. You can also make a solution by mixing the [boric acid](https://pestpolicy.com/does-boric-acid-kill-roaches/) powder with water.
+The boric [acid powder can be spread on the affected areas to kill roaches](https://pestpolicy.com/harris-boric-acid-roach-powder-with-lure-review/)and waterbugs. This powder exists as microscopic particles that can break through the insects exoskeleton, causing dehydration. You can also make a solution by mixing the [boric acid](https://pestpolicy.com/does-boric-acid-kill-roaches/)powder with water.
 
 This solution can be applied by sprinkling or by using a spray bottle.
 
@@ -105,5 +105,5 @@ Cockroaches come to your house in search of food, water, and warmth. So, effecti
 
 ##  **Conclusion**
 
-[Water bugs](https://pestpolicy.com/can-bed-bugs-survive-in-water/) and cockroaches exhibit several similarities that might make it difficult to differentiate. This guide makes it very easy to differentiate the two common household pests. One notable difference is the presence of sharp claws in waterbugs, which is not the case with cockroaches. Correct pest identification enables you to embark on an effective eradication method.
+[Water bugs](https://pestpolicy.com/can-bed-bugs-survive-in-water/)and cockroaches exhibit several similarities that might make it difficult to differentiate. This guide makes it very easy to differentiate the two common household pests. One notable difference is the presence of sharp claws in waterbugs, which is not the case with cockroaches. Correct pest identification enables you to embark on an effective eradication method.
 

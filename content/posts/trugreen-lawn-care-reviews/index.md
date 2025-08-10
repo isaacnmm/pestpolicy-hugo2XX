@@ -17,7 +17,7 @@ layout: post
 ---
 ---
 
-[TruGreen](https://pestpolicy.com/trugreen-vs-lawn-doctor/) stands as the undisputed titan of the professional [lawn](https://pestpolicy.com/10-essential-lawn-and-garden-tools-for-fall/) care industry in the United States, a household name synonymous with comprehensive turf management and widespread availability.
+[TruGreen](https://pestpolicy.com/trugreen-vs-lawn-doctor/)stands as the undisputed titan of the professional [lawn](https://pestpolicy.com/10-essential-lawn-and-garden-tools-for-fall/)care industry in the United States, a household name synonymous with comprehensive turf management and widespread availability.
 
 With a vast operational footprint spanning nearly every state, TruGreen offers a compelling solution for homeowners seeking a hands-off approach to cultivating a healthy, lush, and weed-free lawn. Their promise rests on a science-backed methodology, a team of trained specialists, and a renowned "Healthy Lawn Guarantee" that instills confidence.
 

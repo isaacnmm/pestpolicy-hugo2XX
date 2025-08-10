@@ -24,7 +24,7 @@ Read Also: [Best Shoes for Cardio Workouts](https://pestpolicy.com/best-shoes-fo
 
 ##  Review: 7 Best Shoes for Boxing Class
 
-###  [1. Adidas Unisex-Adult Speedex 18 Boxing [Shoe](https://pestpolicy.com/best-shoes-for-beachbody-workouts/)](https://www.amazon.com/dp/B07SF17P5M/?tag=p-policy-20)
+###  [1. Adidas Unisex-Adult Speedex 18 Boxing Shoe](https://www.amazon.com/dp/B07SF17P5M/?tag=p-policy-20)
 
 adidas Unisex-Adult Speedex 18 takes the first spot for the Best Shoes for Boxing Class. Theyre incredibly lightweight, supportive, and wont impede your speed or agility when youre transitioning through different positions.
 

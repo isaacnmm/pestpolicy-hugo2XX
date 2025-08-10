@@ -14,7 +14,7 @@ tags:
 layout: post
 ---
 
-When the [latex paint sprayer](https://pestpolicy.com/best-sprayer-for-latex-paint/) is stored without cleaning, the paint dries and clogs the channels. Dried paint affects the performance of the paint sprayer and may even cause a complete breakdown if not removed. Could you be having similar problems?
+When the [latex paint sprayer](https://pestpolicy.com/best-sprayer-for-latex-paint/)is stored without cleaning, the paint dries and clogs the channels. Dried paint affects the performance of the paint sprayer and may even cause a complete breakdown if not removed. Could you be having similar problems?
 
 *Well, in this article, I will be discussing how to clean dried latex paint from a paint sprayer. To begin, select required tools and material, unscrew and dismantle the sprayer, carefully clean the filters and nozzle, and flush clean water through the sprayer to thin and quench dried paint.
 

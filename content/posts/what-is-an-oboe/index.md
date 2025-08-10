@@ -13,9 +13,9 @@ tags:
 layout: post
 ---
 
-The World Guinness Records documents [oboe](https://pestpolicy.com/english-horn-vs-oboe/) and French horn are the hardest instruments of all to play. But, what is an oboe? How will it fit into your solo work on the orchestra?
+The World Guinness Records documents [oboe](https://pestpolicy.com/english-horn-vs-oboe/)and French horn are the hardest instruments of all to play. But, what is an oboe? How will it fit into your solo work on the orchestra?
 
-Well, I have to state that the French horn is difficult to play but the oboe - woodwind instrument - is the hardest. By definition, the Oboe the treble instrument - (pronounced as *OH-boh* ) is a [woodwind instruments](https://en.wikipedia. org/wiki/Woodwind_instrument), double-reed mouthpiece to be specific. Well, the regular oboe would play the soprano or treble range.
+Well, I have to state that the French horn is difficult to play but the oboe - woodwind instrument - is the hardest. By definition, the Oboe the treble instrument - (pronounced as *OH-boh* ) is a [woodwind instruments](https://en.wikipedia.org/wiki/Woodwind_instrument),double-reed mouthpiece to be specific. Well, the regular oboe would play the soprano or treble range.
 
 Notably, Oboes can be made from synthetic materials but mainly wood is the main material. Read Also: SD Card for Raspberry Pi 3
 
@@ -71,5 +71,5 @@ Oboesound and facts
 
 ##  Resources
 
-1. [Bibliographies & Guides to the Oboe Repertoire](https://researchguides.uoregon. edu/oboe/bibliographies) 2. [Oboe reed investigations](https://eprints.utas. edu. au/12400/) -University of Tasmania 3. [A Study of Oboe Reeds](https://scholarworks.gvsu. edu/cgi/viewcontent. cgi? article=1119&context=sss) -Grand Valley State University
+1. [Bibliographies & Guides to the Oboe Repertoire](https://researchguides.uoregon.edu/oboe/bibliographies)2. [Oboe reed investigations](https://eprints.utas.edu.au/12400/)-University of Tasmania 3. [A Study of Oboe Reeds](https://scholarworks.gvsu.edu/cgi/viewcontent.cgi?article=1119&context=sss)-Grand Valley State University
 

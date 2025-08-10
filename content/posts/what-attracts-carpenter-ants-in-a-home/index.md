@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 
-Both [carpenter](https://pestpolicy.com/carpenter-ants-vs-fire-ants/) ants and termites cause the destruction of our furniture and other household items in your house. But, what [attracts carpenter ants](https://pestpolicy.com/best-ant-traps/) in a home? - **Carpenter ants are attracted to our homes by debris piles, food, shade, stagnant water, and also like to live in moist places.
+Both [carpenter](https://pestpolicy.com/carpenter-ants-vs-fire-ants/)ants and termites cause the destruction of our furniture and other household items in your house. But, what [attracts carpenter ants](https://pestpolicy.com/best-ant-traps/)in a home? - **Carpenter ants are attracted to our homes by debris piles, food, shade, stagnant water, and also like to live in moist places.
 
 Carpenter ants are very destructive, especially in the pantry.
 

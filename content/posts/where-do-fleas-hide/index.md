@@ -59,13 +59,13 @@ For the areas that you keep the pet food, you'll also require thorough flea-kill
 
 ##  3. In Crevices & Cracks- Do fleas Hide inCrevices & Cracks?
 
-Well, YES, fleas can hide in bedding, carpets, crevices, and cracks - they'll use debris, dirt, and saliva to spin their cocoon to allow them to be camouflaged easily. - The fleas ([including flea larvae and eggs](https://pestpolicy.com/what-do-baby-fleas-look-like/)) may hide in*crevices*& cracks of your upholstered sofa - to control these you'd require to use a steamer or vacuum.
+Well, YES, fleas can hide in bedding, carpets, crevices, and cracks - they'll use debris, dirt, and saliva to spin their cocoon to allow them to be camouflaged easily. - The fleas ([including flea larvae and eggs](https://pestpolicy.com/what-do-baby-fleas-look-like/))may hide in*crevices*& cracks of your upholstered sofa - to control these you'd require to use a steamer or vacuum.
 
-- The fleas ([including flea larvae and eggs](https://pestpolicy.com/what-do-baby-fleas-look-like/)) may hide in*crevices*& cracks of your upholstered sofa - to control these you'd require to use a steamer or vacuum. Further, the fleas can hide in crevices and cracks of those hardwood floors of various furniture and baseboards. Notably, various flea treatments like insecticides don't get deep down there.
+- The fleas ([including flea larvae and eggs](https://pestpolicy.com/what-do-baby-fleas-look-like/))may hide in*crevices*& cracks of your upholstered sofa - to control these you'd require to use a steamer or vacuum. Further, the fleas can hide in crevices and cracks of those hardwood floors of various furniture and baseboards. Notably, various flea treatments like insecticides don't get deep down there.
 
 - Alternative flea-control techniques will include using steamers, vacuums, anddryers at high temperatureswill exterminate the bugs. Further, fleas may live under your carpets & rugs in both your apartment or house. They'll even lay their eggs, and if viable, they'll hatch into larvae.
 
 ##  Conclusion
 
-Fleas will be a major nuisance to you and other homeowners due to the [cat fleas](https://ento.psu. edu/extension/factsheets/fleas) being dark-coloured and having a tiny body size (4mm length) allowing them to hide in those odd locations.
+Fleas will be a major nuisance to you and other homeowners due to the [cat fleas](https://ento.psu.edu/extension/factsheets/fleas)being dark-coloured and having a tiny body size (4mm length) allowing them to hide in those odd locations.
 

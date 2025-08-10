@@ -34,7 +34,7 @@ Read Also: [Walking Shoes For Men With Flat Feet](https://pestpolicy.com/best-[w
 
 ###  [2. Brooks Men's Addiction Walker Walking Shoes](https://www.amazon.com/Brooks-Addiction-Walker-Walking-Shoes/dp/B0012HR2I8/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=p-policy-20&linkId=82d5697b4b005aa417fc084385eb036b&language=en_US)
 
-This is one of the [Best](https://pestpolicy.com/best-snake-boots-for-hot-weather/) Work Shoes for High Arches that can be worn throughout the day because of its incredible arch support.
+This is one of the [Best](https://pestpolicy.com/best-snake-boots-for-hot-weather/)Work Shoes for High Arches that can be worn throughout the day because of its incredible arch support.
 
 You'll love that the shoe provides great support and has amazing slip-resistant soles allowing you to walk on varied terrain without fear of slipping and injuring yourself. The forefoot and the rear sections of the shoes feature Hydroflow technology. This exceptional technology allows these Brooks Addiction Walking Shoes to provide you excellent cushioning and excellent shock absorption.
 

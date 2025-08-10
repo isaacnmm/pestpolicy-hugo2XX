@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 
-Located in [Bellingham](https://pestpolicy.com/rodent-control-in-bellingham/), WA, Western Washington [University](https://pestpolicy.com/university-of-oregon/) (WWU) is a vibrant institution renowned for its academic excellence, stunning campus, and strong community spirit. Here's a closer look at what makes WWU a standout educational destination.
+Located in [Bellingham](https://pestpolicy.com/rodent-control-in-bellingham/),WA, Western Washington [University](https://pestpolicy.com/university-of-oregon/)(WWU) is a vibrant institution renowned for its academic excellence, stunning campus, and strong community spirit. Here's a closer look at what makes WWU a standout educational destination.
 
 ####  Academic Excellence
 
@@ -41,7 +41,7 @@ WWU is deeply connected to the Bellingham community, with many students, faculty
 
 If you're considering Western Washington University for your education, visiting the campus is highly recommended. You'll have the opportunity to tour the campus, meet with faculty and students, and learn more about the programs and resources available. Whether you're interested in the arts, sciences, education, or business, WWU offers a supportive and inspiring environment to pursue your academic and personal goals.
 
-**Address: ** 516 High St, Bellingham, WA 98225 **Website: ** [Western Washington University](https://www.wwu. edu/) **Admission Information: ** For admission requirements and application deadlines, visit the WWU Admissions website.
+**Address: ** 516 High St, Bellingham, WA 98225 **Website: ** [Western Washington University](https://www.wwu.edu/)**Admission Information: ** For admission requirements and application deadlines, visit the WWU Admissions website.
 
 Western Washington University combines academic excellence with a vibrant campus life and a commitment to sustainability and community engagement. Come and experience all that WWU has to offer in beautiful Bellingham, WA.
 

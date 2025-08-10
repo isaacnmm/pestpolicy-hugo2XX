@@ -14,7 +14,7 @@ tags:
 layout: post
 ---
 
-In this article, I will provide a straightforward guide on [how](https://pestpolicy.com/how-to-camp-out-in-your-backyard/) to build a [Backyard](https://pestpolicy.com/best-backyard-trampolines/) Train. If building a train in your backyard has been your dream for some time now I got you covered.
+In this article, I will provide a straightforward guide on [how](https://pestpolicy.com/how-to-camp-out-in-your-backyard/)to build a [Backyard](https://pestpolicy.com/best-backyard-trampolines/)Train. If building a train in your backyard has been your dream for some time now I got you covered.
 
 You need to know the different types of trains then decide which among them suits your backyard best. Some examples to consider include Barrel trains, wooden Railroadtrains, and Gauge Train tracks among others.
 
@@ -36,13 +36,13 @@ Follow this guide on how to build a backyard train. Within hours, you would have
 
 ###  Step 1: Gather Everything You Need For the Project
 
-Youll need the following to start off - [55-gallon HDPE barrel](https://www.amazon. com/dp/B06Y2H5GVX/? tag=p-policy-20) - [10-inch wagonwheels](https://www.amazon. com/dp/B00ECAVJ1I/?
+Youll need the following to start off - [55-gallon HDPE barrel](https://www.amazon.com/dp/B06Y2H5GVX/?tag=p-policy-20)- [10-inch wagonwheels](https://www.amazon.com/dp/B00ECAVJ1I/?
 
 tag=p-policy-20) - Hollow square steel rods - 11 gauge square tub 1-inch each - Hollow circular steel rods - A drill - Nuts and bolts - Golf Cart, ATV, or UTV for pulling the cart - Welding machines - Paint (optional) Now, you need to decide the number of barrels you would wish your train to have.
 
 To make a good decision consider the number of children that would ride on the train. Will adults join in too?
 
-Check out this YouTube video on [DIY Barrel Train]( and this website on [how to build a barrel train](https://www.popularmechanics. com/home/how-to-plans/how-to/a20791/how-to-build-a-diy-barrel-train-that-your-kids-will-love/) to learn more about this project.
+Check out this YouTube video on [DIY Barrel Train](andthiswebsiteon[howtobuildabarreltrain](https://www.popularmechanics.com/home/how-to-plans/how-to/a20791/how-to-build-a-diy-barrel-train-that-your-kids-will-love/)to learn more about this project.
 
 Other Important Tools and Supplies Include - Ratchets or wrenches for tightening the bolts or nuts - Wood-cutting saw - A jigsaw - A hand drill - 22-inch wood plunks - 2-1/2 inches wood screws
 
@@ -58,7 +58,7 @@ Allow the barrels to dry properly.
 
 Flip the barrels to the side and cut the top according to your preference. Ensure the openings are large enough to accommodate both adults and children for uninterrupted and fun-filled family time.
 
-This [website](https://howtoadult.com/trailer-plastic-barrels-4709116. html) provides helpful information on the successful completion of the barrels train.
+This [website](https://howtoadult.com/trailer-plastic-barrels-4709116.html)provides helpful information on the successful completion of the barrels train.
 
 Watch this video on how to cut and build a simple barrel train
 
@@ -76,7 +76,7 @@ Next, youll need to fasten the barrel onto the frame. Thus, drill holes through 
 
 Once youre through with constructing the frames, it's time to include the wheels.
 
-I will encourage you to refer to this [website](https://howtoadult.com/trailer-plastic-barrels-4709116. html) - howtoadult. com for more detailed information.
+I will encourage you to refer to this [website](https://howtoadult.com/trailer-plastic-barrels-4709116.html)- howtoadult. com for more detailed information.
 
 Now, insert your wheel axel or steel dowel through the circular steel rod. Attach the wheels.
 

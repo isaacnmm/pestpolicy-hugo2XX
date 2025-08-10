@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 
-As the vibrancy of summer and autumn fades, many gardens in temperate climates can become stark and muted, leaving behind bare branches and dormant beds. While [winter](https://pestpolicy.com/10-winter-landscaping-ideas-to-spruce-up-your-outdoor-space/) brings a quiet beauty of its own, the lack of color can be a stark contrast to the lively seasons before. This is where berry-producing plants become invaluable.
+As the vibrancy of summer and autumn fades, many gardens in temperate climates can become stark and muted, leaving behind bare branches and dormant beds. While [winter](https://pestpolicy.com/10-winter-landscaping-ideas-to-spruce-up-your-outdoor-space/)brings a quiet beauty of its own, the lack of color can be a stark contrast to the lively seasons before. This is where berry-producing plants become invaluable.
 
 These unsung heroes of the winter landscape hold onto their colorful fruits long after their leaves have fallen, providing much-needed visual interest and a vital food source for overwintering birds.
 

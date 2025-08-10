@@ -40,11 +40,11 @@ Is the amp battery-powered? First, check how the busting amp is powered. For exa
 
 Cons: - M
 
-###  [3. Yamaha THR10 Desktop [Guitar](https://pestpolicy.com/best-acoustic-guitar-under-1000/) Amplifier and Interface with Cubase AI Recording Software](https://www.amazon.com/dp/B006QLW5XC/?tag=p-policy-20)
+###  [3. Yamaha THR10 Desktop [Guitar](https://pestpolicy.com/best-acoustic-guitar-under-1000/)Amplifier and Interface with Cubase AI Recording Software](https://www.amazon.com/dp/B006QLW5XC/?tag=p-policy-20)
 
 Battery-powered amps will make it easy to operate on different open streets or areas that have no power outlet. However, check for batteries- and AC-powered busting amps.
 
-Highly Portable and have appropriate Wattage Definitely, the busking [amp](https://pestpolicy.com/best-bass-amps-for-beginners/) must be easy to transport and highly portable real portability and reliability. Further, ensure that the amp is hardy enough to withstand the difficult conditions that are on the streets. Pros: - G
+Highly Portable and have appropriate Wattage Definitely, the busking [amp](https://pestpolicy.com/best-bass-amps-for-beginners/)must be easy to transport and highly portable real portability and reliability. Further, ensure that the amp is hardy enough to withstand the difficult conditions that are on the streets. Pros: - G
 
 Cons: - M
 

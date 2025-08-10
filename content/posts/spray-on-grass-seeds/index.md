@@ -25,7 +25,7 @@ This comprehensive guide will delve into what spray-on grass seeds are, how they
 
 ##  What Are Spray-on Grass Seeds?
 
-Spray-on grass seeds are an innovative planting method that combines grass [seed](https://pestpolicy.com/how-to-determine-if-old-seeds-are-still-good-for-planting/) with water, fertilizer, and a protective mulch layer into a slurry. This mixture is then sprayed over prepared ground using specialized equipment. The process is commonly referred to as hydroseeding.
+Spray-on grass seeds are an innovative planting method that combines grass [seed](https://pestpolicy.com/how-to-determine-if-old-seeds-are-still-good-for-planting/)with water, fertilizer, and a protective mulch layer into a slurry. This mixture is then sprayed over prepared ground using specialized equipment. The process is commonly referred to as hydroseeding.
 
 The key components of this "slurry" typically include: * **Grass Seed: ** The foundation of your new lawn, chosen based on climate, soil type, and desired appearance. Seed blends are often customized for specific regions or conditions (e. g. , sun, shade, high traffic). * **Mulch: ** Often made from wood fiber, paper, or a blend of both, this component is crucial.
 

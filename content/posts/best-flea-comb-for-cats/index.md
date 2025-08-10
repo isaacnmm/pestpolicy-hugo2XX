@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 
-In this post, Ive reviewed the best flea combs for cats. Flea Combs are safer and simple flea control solutions when liked to flea spray, boric acid, or flea shampoo. With these combs, you can easily find and remove [fleas](https://pestpolicy.com/how-to-use-a-flea-comb/), flea dirt, and eggs. - Luckily, the combs are non-chemical flea control methods and suitable for kittens and puppies with sensitive or damaged skin.
+In this post, Ive reviewed the best flea combs for cats. Flea Combs are safer and simple flea control solutions when liked to flea spray, boric acid, or flea shampoo. With these combs, you can easily find and remove [fleas](https://pestpolicy.com/how-to-use-a-flea-comb/),flea dirt, and eggs. - Luckily, the combs are non-chemical flea control methods and suitable for kittens and puppies with sensitive or damaged skin.
 
 **Summary: ** To stop scratching and itching in your cats & dogs due to fleas, check these flea combs.
 
@@ -25,7 +25,7 @@ Top on the list of the best flea combs for cats and dogs is the safari flea comb
 
 Single vs. Double row teeth Flea Combs?
 
-If you have your or orphaned kitten that could be too small to employ topical treatments, then the Safari Flea Comb will come in handy. I noted that I was required to run just a few [flea comb strokes through the cats](https://pestpolicy.com/best-flea-treatment-for-cats/) fur before some fleas started jumping off.
+If you have your or orphaned kitten that could be too small to employ topical treatments, then the Safari Flea Comb will come in handy. I noted that I was required to run just a few [flea comb strokes through the cats](https://pestpolicy.com/best-flea-treatment-for-cats/)fur before some fleas started jumping off.
 
 Equally, the flea comb is effective for both flaky and dry skin. Youll need to put extra combing around the cats tail base, nape of neck, and ears. The flea combs arrest both the adult fleas, smaller-sized fleas, and flea dirt too. The Safari flea comb is suitable for both long and short hair. However, be sure to remove all tangles and mats that might break the combs teeth.
 
@@ -33,7 +33,7 @@ On durability, the Safari Flea Comb has a hard handle and durable body that make
 
 However, youll need first to remove all the hair tangles on your cats or dogs coat.
 
-The teeth of the Safari Flea comb wont bend if you use it after brushing the cats fur using the regular human hair comb to remove all the tangles or knots. However, if you need to do extensive brushing, you should use a de-shedding comb particularly for pets with long hair. + **Pros**: Good after using [flea shampoos](https://pestpolicy.com/best-flea-shampoo-for-cats/) and powders, Easy to control with its great Contoured, does not irritate flea bites, has metal teeth, easy-to-grip handle.
+The teeth of the Safari Flea comb wont bend if you use it after brushing the cats fur using the regular human hair comb to remove all the tangles or knots. However, if you need to do extensive brushing, you should use a de-shedding comb particularly for pets with long hair. + **Pros**: Good after using [flea shampoos](https://pestpolicy.com/best-flea-shampoo-for-cats/)and powders, Easy to control with its great Contoured, does not irritate flea bites, has metal teeth, easy-to-grip handle.
 
 **Cons**: Might not work well with long hair.
 
@@ -43,7 +43,7 @@ Hornby Flea and Lice Comb come second on the list and can comb most of your smal
 
 But, I loved the pretty pack of colored flea combs.
 
-However, I loved that the flea comb had two sets of teeth of different widths narrow and wide. The plastic teeth tend to electrify the [cats hair and thus assists in removing the fleas](https://pestpolicy.com/best-flea-drops-for-cats/). However, compared to metal teeth, the plastic teeth are less strong, and hence the flea comb has lower durability could twist or bend.
+However, I loved that the flea comb had two sets of teeth of different widths narrow and wide. The plastic teeth tend to electrify the [cats hair and thus assists in removing the fleas](https://pestpolicy.com/best-flea-drops-for-cats/).However, compared to metal teeth, the plastic teeth are less strong, and hence the flea comb has lower durability could twist or bend.
 
 While you can use both sets for flea combing, the side with wider teeth is also suitable for general grooming. Its tines are built from plastic and will be easy on your cats skin particularly if it has broken skin or flea bites that would cause discomfort during rough flea combing.
 

@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 
-Maintaining hedges and shrubs can be one of the most time-consuming and messy tasks in the [garden](https://pestpolicy.com/10-essential-lawn-and-garden-tools-for-fall/). Traditional hedge trimmers do a great job of cutting, but they leave behind a scattered mess of clippings that requires significant cleanup. Enter the **Garden Groom**, a unique electric hedge trimmer designed to tackle both the cutting and collecting in one fell swoop.
+Maintaining hedges and shrubs can be one of the most time-consuming and messy tasks in the [garden](https://pestpolicy.com/10-essential-lawn-and-garden-tools-for-fall/).Traditional hedge trimmers do a great job of cutting, but they leave behind a scattered mess of clippings that requires significant cleanup. Enter the **Garden Groom**, a unique electric hedge trimmer designed to tackle both the cutting and collecting in one fell swoop.
 
 Often seen in infomercials and lauded for its innovative approach, the Garden Groom promises to reduce cleanup time by shredding and collecting clippings as you trim.
 

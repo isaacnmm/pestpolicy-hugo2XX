@@ -68,7 +68,7 @@ The upper also has a 3D Fit Printed design that offers shoes structure and extra
 
 The Brooks Adrenaline GTS 20 has an outsole with a blown rubber compound. This rubber compound provides needed protection against abrasion. Below the outsole, youll find strategically placed Omega Flex Grooves that encourages the foot to bend naturally. They also ensure a smooth heel to toe transition while providing crucial grip on surfaces.
 
-Pros: - Provides excellent stability - Comfortable - Lightweight stability running [shoe](https://pestpolicy.com/best-running-shoes-for-clydesdales/) - Well-cushioned - Provides exceptional arch support - Stylish design - Spacious toe box
+Pros: - Provides excellent stability - Comfortable - Lightweight stability running [shoe](https://pestpolicy.com/best-running-shoes-for-clydesdales/)- Well-cushioned - Provides exceptional arch support - Stylish design - Spacious toe box
 
 Cons: - Limited color variations
 
@@ -118,7 +118,7 @@ Paradigm 4. 5 also features Altra EGO foam. This compound encourages responsiven
 
 The outsole features FootPod technology, which is a rubber compound that covers the base of the outsole. its placed on specific regions of the sole that are susceptible to excess wear and tear. The FootPod also follows the natural contours of the foot for increased flexibility during running.
 
-The outsole also has deep grooves that provide excellent traction and grip on various surfaces including [pavement running](https://pestpolicy.com/best-shoes-for-running-on-pavement/). Pros: - Relieves foot pain like overpronation - Excellent support - Comfortable - Exceptional cushioning - Lightweight
+The outsole also has deep grooves that provide excellent traction and grip on various surfaces including [pavement running](https://pestpolicy.com/best-shoes-for-running-on-pavement/).Pros: - Relieves foot pain like overpronation - Excellent support - Comfortable - Exceptional cushioning - Lightweight
 
 Cons: - A customer complained about a stiff toe box
 

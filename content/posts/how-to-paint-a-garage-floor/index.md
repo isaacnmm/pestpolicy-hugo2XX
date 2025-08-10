@@ -20,11 +20,11 @@ Particularly, oil stains tend to seep into the porous concrete and thus result i
 
 ##  Details: How to Paint a Garage Floor: Epoxy or Latex?
 
-So, let's check you and other homeownerscan improve/ upgrade the function and look of your garage. But don't [remove old paint](https://pestpolicy.com/how-to-remove-paint-from-concrete-without-chemicals/) since it'll be easier than working on bare cement - but sand lightly. Note that your epoxy floor paint will be extra-tough that won't be damaged easily by gasoline, oil, or chemicals.
+So, let's check you and other homeownerscan improve/ upgrade the function and look of your garage. But don't [remove old paint](https://pestpolicy.com/how-to-remove-paint-from-concrete-without-chemicals/)since it'll be easier than working on bare cement - but sand lightly. Note that your epoxy floor paint will be extra-tough that won't be damaged easily by gasoline, oil, or chemicals.
 
 Here are the *materials and tools* you'll require for the garage painting job.
 
-- Scrubbing brush (stiff-bristled) - Concrete Degreaser - Protective coverings - Mop - Detergent - Primer - High-pressure nozzle - Vacuum (the wet-dry type) - latex paint protects against the[damaging UV rays](https://www.cancer. org/cancer/cancer-causes/radiation-exposure/uv-radiation. html)
+- Scrubbing brush (stiff-bristled) - Concrete Degreaser - Protective coverings - Mop - Detergent - Primer - High-pressure nozzle - Vacuum (the wet-dry type) - latex paint protects against the[damaging UV rays](https://www.cancer.org/cancer/cancer-causes/radiation-exposure/uv-radiation.html)
 
 - Paintbrushes - Concrete patch or filler - Plastic bucket - Broom andPaint roller - Extension pole - Protective wear (safety glasses, face mask, rubber gloves, and cover cloth) - Etching solution - Dust parker - it won't leave[roller marks on garage](https://pestpolicy.com/how-to-paint-a-ceiling-without-roller-marks/).
 
@@ -36,15 +36,15 @@ Check the temperature and surface preparation plus paint usage instructions. Ens
 
 ###  Step #2 - Provide Adequate Ventilation
 
-Maintain great air outflow and inflow - and [sand walls before painting](https://pestpolicy.com/sanding-walls-before-painting/). This is because there will be toxic paint fumes that may lead to breathing complications and other health issues. Further, take adequate precautions to reduce the chances of dangerous exposure to different harmful fumes to yourself, humans, pets, and the home environment.
+Maintain great air outflow and inflow - and [sand walls before painting](https://pestpolicy.com/sanding-walls-before-painting/).This is because there will be toxic paint fumes that may lead to breathing complications and other health issues. Further, take adequate precautions to reduce the chances of dangerous exposure to different harmful fumes to yourself, humans, pets, and the home environment.
 
-Conduct cross ventilation in your garage by having enough windows or installing a running fan for effective ventilation - blowing the [toxic fumes](https://en.wikipedia. org/wiki/List_of_highly_toxic_gases) to the outside.
+Conduct cross ventilation in your garage by having enough windows or installing a running fan for effective ventilation - blowing the [toxic fumes](https://en.wikipedia.org/wiki/List_of_highly_toxic_gases)to the outside.
 
 ###  Step #2 - Floor Preparation
 
 The next step will involve cleaning your garage floor. You'll use a wet-dry vacuum or a broom to effectively remove the debris stuck on the floor. Also, use a stiff brush or degreaser to remove all the grease stuck on the floor surface. Next, thoroughly rinse your degreaser and give it time to dry - you can use a pressure washer to remove tough stains. Using the scraper, keenly scrape off the hard dirt and then apply your degreaser.
 
-The dirt particles could otherwise bar the paint from effectively bonding with the garage floor. - Next, you'll use a detergent-like[Savogran Trisodium Phosphate](https://www.amazon. com/dp/B0001GOGQW/? tag=p-policy-20)to effectively wash your garage. - Ensure to apply the detergent on the notable stains - leave for 10-20 minutes depending on toughness.
+The dirt particles could otherwise bar the paint from effectively bonding with the garage floor. - Next, you'll use a detergent-like[Savogran Trisodium Phosphate](https://www.amazon.com/dp/B0001GOGQW/?tag=p-policy-20)toeffectively wash your garage. - Ensure to apply the detergent on the notable stains - leave for 10-20 minutes depending on toughness.
 
 - Use the garden hose (with a high-pressure nozzle) to flush down standing liquids and lather.
 
@@ -60,7 +60,7 @@ I recommend you get some wet rag that'll help you remove the excess concrete pat
 
 ###  Step #4 - Time forEtch Concrete
 
-It is now time to etch treat the concrete floor ( maybe muriatic acid ) that'll open the pores a and hence it'll get a rough feel and look - like sandpaper. So, it'll be easier for the paint to adhere to the surface. Che ck and adhere to the label instructions. Otherwise, you can use a sander to get the same surface aspect. But ensure to finally clean the [dust](https://serc.carleton. edu/NAGTWorkshops/health/case_studies/airborne_dust_p.
+It is now time to etch treat the concrete floor ( maybe muriatic acid ) that'll open the pores a and hence it'll get a rough feel and look - like sandpaper. So, it'll be easier for the paint to adhere to the surface. Che ck and adhere to the label instructions. Otherwise, you can use a sander to get the same surface aspect. But ensure to finally clean the [dust](https://serc.carleton.edu/NAGTWorkshops/health/case_studies/airborne_dust_p.
 
 html) and sand from the concrete.
 
@@ -88,7 +88,7 @@ Painted garages will be low-maintenance and hence your garage will be neat at a 
 
 ###  3. Color Variety
 
-There is a wide variety of colors you can use on the garage floor - so don't simply stick with the grey concrete color. Brighter colors will be great even for the workshop. Besides, the painted floor won't be easily attacked by mold, dust mites, and prevents mildew growth. Further, the floor won't get tough stains from grease, oil leaks, and [chemical spills](https://ehs.ucsf. edu/chemical-spills). > See Also: > Paint for a Concrete Driveway
+There is a wide variety of colors you can use on the garage floor - so don't simply stick with the grey concrete color. Brighter colors will be great even for the workshop. Besides, the painted floor won't be easily attacked by mold, dust mites, and prevents mildew growth. Further, the floor won't get tough stains from grease, oil leaks, and [chemical spills](https://ehs.ucsf.edu/chemical-spills).> See Also: > Paint for a Concrete Driveway
 
 ##  Conclusion
 

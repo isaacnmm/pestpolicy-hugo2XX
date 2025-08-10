@@ -14,9 +14,9 @@ tags:
 layout: post
 ---
 
-[Gophers](http://ipm.ucanr. edu/PMG/PESTNOTES/pn7433. html) are herbivores and feed on different kinds of roots. They also eat leaves and some insects - try the best gopher [poison](https://pestpolicy.com/best-poison-for-squirrels/). So if you see an area of dead grass, it might be because gophers have been eating up its roots.
+[Gophers](http://ipm.ucanr.edu/PMG/PESTNOTES/pn7433.html)are herbivores and feed on different kinds of roots. They also eat leaves and some insects - try the best gopher [poison](https://pestpolicy.com/best-poison-for-squirrels/).So if you see an area of dead grass, it might be because gophers have been eating up its roots.
 
-To tackle these pests, most people use [gopher](https://pestpolicy.com/best-gopher-traps/) baits that act as a poisonous meal. As gophers tend to use the existing tunnels, they might come across leftover bait that's lying around. It'll get attracted to the bait and end up eating it and die before you even find out about the presence of a new gopher.
+To tackle these pests, most people use [gopher](https://pestpolicy.com/best-gopher-traps/)baits that act as a poisonous meal. As gophers tend to use the existing tunnels, they might come across leftover bait that's lying around. It'll get attracted to the bait and end up eating it and die before you even find out about the presence of a new gopher.
 
 ##  Reviews: Top 7 Best Gopher Poison for 2025
 
@@ -114,5 +114,5 @@ Cleaning up the mess after each use isn't an experience that you'd want to go th
 
 ##  Sources:
 
-1. [Gophers--UC IPM](http://ipm.ucanr. edu/QT/gopherscard. html) 2. [Pocket gopher control techniques - Montana Agricultural](http://agresearch.montana. edu/wtarc/producerinfo/entomology-insect-ecology/Gofers/MTFactSheet. pdf) 3. [Moles, voles, and gophers Metro](https://www.oregonmetro. gov/tools-living/yard-and-garden/garden-problems/moles-voles-and-gophers)
+1. [Gophers--UC IPM](http://ipm.ucanr.edu/QT/gopherscard.html)2. [Pocket gopher control techniques - Montana Agricultural](http://agresearch.montana.edu/wtarc/producerinfo/entomology-insect-ecology/Gofers/MTFactSheet.pdf)3. [Moles, voles, and gophers Metro](https://www.oregonmetro.gov/tools-living/yard-and-garden/garden-problems/moles-voles-and-gophers)
 

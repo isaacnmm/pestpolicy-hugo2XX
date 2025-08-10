@@ -17,7 +17,7 @@ layout: post
 
 Have you been disturbed by colonies of roaches in your place and wonder which animal can eliminate them naturally? You may even be compelled to find out if some of your pets can eat cockroaches.
 
-Do you own a pet [Gecko](https://pestpolicy.com/do-geckos-eat-bed-bugs/) (house lizard) or have you spotted one in your house, yard or zoo? Well, in this article, we shall delve into close predation of gecko on roaches. - **So, Do Geckos [Eat](https://pestpolicy.com/do-cats-eat-lizards/) Roaches? The direct answer is YES. Geckos hunt and eat roaches in your home, yard, or zoo.
+Do you own a pet [Gecko](https://pestpolicy.com/do-geckos-eat-bed-bugs/)(house lizard) or have you spotted one in your house, yard or zoo? Well, in this article, we shall delve into close predation of gecko on roaches. - **So, Do Geckos [Eat](https://pestpolicy.com/do-cats-eat-lizards/)Roaches? The direct answer is YES. Geckos hunt and eat roaches in your home, yard, or zoo.
 
 ** - **But, it's not advisable to feed your Geckos on cockroaches from your house or caught outside in the fields since these roaches contain bacterial infections, parasites, and germs, which may affect their health adversely. ** **Geckos will eat any species of roaches (unselective) though they prefer eating Dubia roaches. They also hunt and eat mosquitoes, ants, rats/mice, swarmers, crickets, locusts, and centipedes in your place.
 

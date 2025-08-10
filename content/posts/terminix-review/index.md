@@ -34,7 +34,7 @@ The company has hired (over the years) expert pest exterminators and they have a
 
 ###  Downsides
 
-- Terminix will provide the [money](https://pestpolicy.com/best-automotive-paint-for-the-money/)-back guarantee in the year general bug control plan - Does not have a free bug inspection. - Pricey Related: [Orkin Pest Control Review](https://pestpolicy.com/orkin-pest-control-review/)
+- Terminix will provide the [money](https://pestpolicy.com/best-automotive-paint-for-the-money/)-backguarantee in the year general bug control plan - Does not have a free bug inspection. - Pricey Related: [Orkin Pest Control Review](https://pestpolicy.com/orkin-pest-control-review/)
 
 ##  Bug Control Plans offered by Terminix
 

@@ -15,9 +15,9 @@ tags:
 layout: post
 ---
 
-[Termite](https://pestpolicy.com/best-termite-killer/) bait stations provide an effective and convenient way of getting rid of termites from homes. - You wont have to dig into your garden or house foundations with a bait station to eliminate termites. - Since the baiting system operates below the ground surface, your family and pets would be exposed to toxic chemicals.
+[Termite](https://pestpolicy.com/best-termite-killer/)bait stations provide an effective and convenient way of getting rid of termites from homes. - You wont have to dig into your garden or house foundations with a bait station to eliminate termites. - Since the baiting system operates below the ground surface, your family and pets would be exposed to toxic chemicals.
 
-This guide features the [best](https://pestpolicy.com/best-chipmunk-repellents/) termite bait stations in the market, a buyers guide, and tips for making the best use of the bait stations. **Check these bait stations. **
+This guide features the [best](https://pestpolicy.com/best-chipmunk-repellents/)termite bait stations in the market, a buyers guide, and tips for making the best use of the bait stations. **Check these bait stations. **
 
 ##  [1. #1 Top Pick:**Advance Termite Detection Baiting Station**](https://www.amazon.com/dp/B01LD5PQQ8/?tag=p-policy-20)
 
@@ -89,7 +89,7 @@ Not all bait stations will work effectively on all termite species. Therefore, i
 
 ##  **Tips for Installing Termite Bait Stations**
 
-If this is your first encounter with a termite bait station, you might need some guidance on how to get the best results from your product. - Luckily, most of the products come with instruction manuals/booklets for easy installation. - These are general[tips that apply to most types of termite](https://pestpolicy.com/termite-prevention/)bait stations.
+If this is your first encounter with a termite bait station, you might need some guidance on how to get the best results from your product. - Luckily, most of the products come with instruction manuals/booklets for easy installation. - These are general[tips that apply to most types of termite](https://pestpolicy.com/termite-prevention/)baitstations.
 
 They include: **Mapping Out the Affected Area** The installation of bait stations needs to be done accurately to cover the exact areas that have been infested. Mapping out the exact areas to be treated enhances your accuracy and estimates the number of stations to be used. Start your mapping at least 3 to 4 feet from the foundations of buildings or fences.
 

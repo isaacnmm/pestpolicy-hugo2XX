@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 
-Reptiles such as Geckos could even be more sensitive when it comes to appropriate feed matching. Should you give your [gecko](https://pestpolicy.com/do-geckos-eat-bed-bugs/) meat, insects, or vegetables? Which food is healthy for geckos? - **Well, do Geckos [eat](https://pestpolicy.com/do-geckos-eat-roaches/) cockroaches? Yes! Geckos are naturally insectivorous pets and would feed on cockroaches as much as they can.
+Reptiles such as Geckos could even be more sensitive when it comes to appropriate feed matching. Should you give your [gecko](https://pestpolicy.com/do-geckos-eat-bed-bugs/)meat, insects, or vegetables? Which food is healthy for geckos? - **Well, do Geckos [eat](https://pestpolicy.com/do-geckos-eat-roaches/)cockroaches? Yes! Geckos are naturally insectivorous pets and would feed on cockroaches as much as they can.
 
 I****t would not be advisable to feed your geckos with cockroaches that are fetched directly from the field as they may be contaminated, poisonous, or venomous. ** - **Usually, you should be able to identify the right cockroach species, especially ones recommended by the vet, when feeding your geckos. ** Alternatively, you can buy commercial roaches from the nearest center or breed some at your home place.
 

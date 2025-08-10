@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 
-The legs of [fleas](https://pestpolicy.com/can-fleas-bite-through-clothes/) have strong claws and proboscis (tiny needles) that'll help the pest bite the skin of the hosts such as cats, dogs, and even humans. **Why do [flea](https://pestpolicy.com/do-fleas-bite-humans/) bites itch? Well, fleas will bite humans and pets where they'll secrete some saliva into the blood - which the host's body and blood take as an allergen.
+The legs of [fleas](https://pestpolicy.com/can-fleas-bite-through-clothes/)have strong claws and proboscis (tiny needles) that'll help the pest bite the skin of the hosts such as cats, dogs, and even humans. **Why do [flea](https://pestpolicy.com/do-fleas-bite-humans/)bites itch? Well, fleas will bite humans and pets where they'll secrete some saliva into the blood - which the host's body and blood take as an allergen.
 
 ** **The immune system will send histamine to counter the allergen (flea saliva) and thus the chemical triggers itching and swelling. **
 

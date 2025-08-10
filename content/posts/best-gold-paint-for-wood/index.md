@@ -14,7 +14,7 @@ tags:
 layout: post
 ---
 
-If you are looking forward to painting or turning your furniture into a golden decorative surface, the options are available for you. However, you need to carefully go through the best gold [paint](https://pestpolicy.com/best-gold-spray-paint/) for wood in order for you to identify the best for your furniture and other surfaces.
+If you are looking forward to painting or turning your furniture into a golden decorative surface, the options are available for you. However, you need to carefully go through the best gold [paint](https://pestpolicy.com/best-gold-spray-paint/)for wood in order for you to identify the best for your furniture and other surfaces.
 
 I have carefully gone through these paints and stains available and summarized the top qualities that I hope this is what you are looking for to give your wood that fantastic look. Below is a summarized list to guide you into making the best choice. See Also: staining pressure-treated wood.
 
@@ -60,7 +60,7 @@ Cons: - Irritating to skin and eyes - Difficult to clean up
 
 If you are looking forward to giving your wood a decorative golden accent, Rust-Oleum is here to give that elegance and touch you need.
 
-For any of your projects, this water-based paint is multi-purpose and can be used on furniture, trims, walls, and many other surfaces. The metallic accent from this paint gives your interior and exterior surfaces a decorative and brilliant finish. Before application, you will need a [proper surface cleaning](https://pestpolicy.com/best-deck-cleaner-for-trex/) indoor to achieve an easy application and get a smooth durable surface.
+For any of your projects, this water-based paint is multi-purpose and can be used on furniture, trims, walls, and many other surfaces. The metallic accent from this paint gives your interior and exterior surfaces a decorative and brilliant finish. Before application, you will need a [proper surface cleaning](https://pestpolicy.com/best-deck-cleaner-for-trex/)indoor to achieve an easy application and get a smooth durable surface.
 
 The good thing about this paint is that it comes with a single-step application and you will not need to do thinning to achieve a fine texture. Besides, the paint is designed with a low odor and a fast-drying feature. Within 30 minutes, the surface is already dry to touch and ready for a second coat if need be. In case you have splashes or drips it is very easy to clean it up with soap and water.
 

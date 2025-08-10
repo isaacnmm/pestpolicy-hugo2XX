@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 
-When choosing the best substrate for [bearded](https://pestpolicy.com/best-cages-for-bearded-dragons/) dragons, you can consider things like safety, ease of cleaning, and the natural feel that mimics their environment.
+When choosing the best substrate for [bearded](https://pestpolicy.com/best-cages-for-bearded-dragons/)dragons, you can consider things like safety, ease of cleaning, and the natural feel that mimics their environment.
 
 ##  Key Factors to Consider
 
@@ -23,7 +23,7 @@ When choosing the best substrate for [bearded](https://pestpolicy.com/best-cages
 
 Some products, like **Reptile Carpet such asZoo Med Eco Cage**, are designed to minimize the risk of impaction, a common concern with loose substrates.
 
-Reptile Carpet is a non-loose [substrate](https://pestpolicy.com/best-substrate-for-leopard-gecko/) that provides a solid surface, reducing the chance of your bearded dragon ingesting harmful particles. However, it may require frequent cleaning and replacement to maintain hygiene.
+Reptile Carpet is a non-loose [substrate](https://pestpolicy.com/best-substrate-for-leopard-gecko/)that provides a solid surface, reducing the chance of your bearded dragon ingesting harmful particles. However, it may require frequent cleaning and replacement to maintain hygiene.
 
 ###  **2. Ease of Cleaning**
 

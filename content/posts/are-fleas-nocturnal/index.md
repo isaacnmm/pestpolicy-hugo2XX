@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 
-As a home or pet owner, you'd be worried if your lovely dog or cat caught fleas. These bugs will bite and suck blood from these animals, causing your furry friends pain, anemia, or death. So, it's logical to pursue techniques to help control fleas both in the day and night times. But [are](https://pestpolicy.com/are-leopard-geckos-nocturnal/) [fleas](https://pestpolicy.com/are-male-or-female-bernedoodles-better/) nocturnal?
+As a home or pet owner, you'd be worried if your lovely dog or cat caught fleas. These bugs will bite and suck blood from these animals, causing your furry friends pain, anemia, or death. So, it's logical to pursue techniques to help control fleas both in the day and night times. But [are](https://pestpolicy.com/are-leopard-geckos-nocturnal/)[fleas](https://pestpolicy.com/are-male-or-female-bernedoodles-better/) nocturnal?
 
 do fleas sleep at night?
 
@@ -23,7 +23,7 @@ do fleas sleep at night?
 
 ##  Details: Are fleas Nocturnal? Do fleas Sleep at Night?
 
-**1. Fleas Enjoy the Circadian Rhythm** Fleas, especially cat fleas, enjoy circadian activity & rest locomotion rhythms while also being highly active at night compared to daytime - it's [unaffected by the](https://pubmed.ncbi. nlm. nih. gov/2708627/) ultrasonic devices. - Thus, flea baits andflea trapswill work best at night. The bugs will rise some hours before dark with their activity being highest at midnight.
+**1. Fleas Enjoy the Circadian Rhythm** Fleas, especially cat fleas, enjoy circadian activity & rest locomotion rhythms while also being highly active at night compared to daytime - it's [unaffected by the](https://pubmed.ncbi.nlm.nih.gov/2708627/)ultrasonic devices. - Thus, flea baits andflea trapswill work best at night. The bugs will rise some hours before dark with their activity being highest at midnight.
 
 Fleas won't move much during the day - and also their pattern of laying eggs will follow this trend. The fleas lay their eggs mainly at midnight and less of these during dawn. However, as noted above, fleas won't be fully inactive during the day. But they'll continue pooping during most hours of the day - constantly and randomly.
 

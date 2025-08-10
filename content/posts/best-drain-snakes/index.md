@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 
-To fix clogged drains, snakes/) (also known as augers or plumber's snakes) are a useful and budget-friendly tool. So, quit experimenting with acidic cleaners, plungers, or coat hangers. So, what's the best drain snake? If you need a quick answer, I approve of the [FlexiSnake](https://www.amazon. com/dp/B01NB0729G/? tag=p-policy-20) drain snake, especially for hair-clog removal.
+To fix clogged drains, snakes/) (also known as augers or plumber's snakes) are a useful and budget-friendly tool. So, quit experimenting with acidic cleaners, plungers, or coat hangers. So, what's the best drain snake? If you need a quick answer, I approve of the [FlexiSnake](https://www.amazon.com/dp/B01NB0729G/?tag=p-policy-20)drain snake, especially for hair-clog removal.
 
 It has grabbers and small hooks that'll attach to the hair as the auger rotates even around the p-trap.
 
@@ -103,13 +103,13 @@ The Good: - Unblocks both simple and tough drain clogs - Will unclog even 2 diam
 
 With this Ridgid K-45AF snake, you won't have to mess your hands o clothes - it comes with a self-feeding cable that's easy to operate with just a push of its button. - It's great for unclogging sinks, the lavatory bathtub, showers, or even urinals. You'll love the flexible auger and the rust-proof material. The 115 V plug on this snake will give your 15% more efficiency. With this device, you can go as deep as 25 ft. deep into your drain pipes.
 
-Pipe diameters range from to 2. The motor used in this device has a variable speed enabling you to push and pull the cable swiftly. Thus you can easily tackle even the toughest blockages without much fatigue. Its compact size enables easy transportation and allows you to maneuver through hard-to-reach areas. Whats more, this [drain cleaner](https://pestpolicy.com/is-drain-cleaner-an-acid-or-base/) will solve all your problems related to drain clogging.
+Pipe diameters range from to 2. The motor used in this device has a variable speed enabling you to push and pull the cable swiftly. Thus you can easily tackle even the toughest blockages without much fatigue. Its compact size enables easy transportation and allows you to maneuver through hard-to-reach areas. Whats more, this [drain cleaner](https://pestpolicy.com/is-drain-cleaner-an-acid-or-base/)will solve all your problems related to drain clogging.
 
 An operation manual and cleaning gloves are included in this package. The Good: - Suitable for a variety ofdrain cleaningchores - Its flexible cable can bend more than 90 - Ideal for diameters up to 2 - Works well in pipe materials such as PPR, iron, and PVC The Bad: - Relatively expensive
 
 ##  [**12. Cobra Drain Snake GIDDS-211332 - **500 RPM](https://www.amazon.com/dp/B008MG0KD6/?tag=p-policy-20)
 
-If you indeed [need a drain cleaner](https://pestpolicy.com/thrift-drain-cleaner-review/) to tackle tough and enormous clogging, you might go for this cobra GIDDS drain cleaner. - Clogging in the main drains, root blocks, and sewer lines requires a heavy-duty unit like this. It features a 0. 75 hp motor, which spins at 500 RPM.
+If you indeed [need a drain cleaner](https://pestpolicy.com/thrift-drain-cleaner-review/)to tackle tough and enormous clogging, you might go for this cobra GIDDS drain cleaner. - Clogging in the main drains, root blocks, and sewer lines requires a heavy-duty unit like this. It features a 0. 75 hp motor, which spins at 500 RPM.
 
 With its forward-reverse option and 100 ft. flexible cable, this drain snake can clean pipes of between 4 and 10 inches.
 

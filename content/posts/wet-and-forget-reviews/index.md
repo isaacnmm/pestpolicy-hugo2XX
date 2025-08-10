@@ -32,7 +32,7 @@ The features of the stain remover Wet & Forget is biodegradable, and hence it is
 
 It has no bleach - there are it is not acidic or caustic - it'll be safe for your pets and plants. It'll work well for your walkways, driveway, deck, and roof - plus other outdoor surfaces. I also recommend the larger surfaces and high elevations, including rooftops, downspouts, shingles, sidewalks, siding, pavers, and eaves - offer excellent performance.
 
-You can also use the Wet and Forget on the lawn and outdoor garden places like outdoor pots, play equipment, storage units, pool liners, patio umbrellas, gazebos, [fences](https://pestpolicy.com/best-stain-for-redwood-fence/), and fountains. Some painters use the stain remover on commercial spaces such as airports, cemeteries, schools, parks, hotels, and amusement parks, among other areas.
+You can also use the Wet and Forget on the lawn and outdoor garden places like outdoor pots, play equipment, storage units, pool liners, patio umbrellas, gazebos, [fences](https://pestpolicy.com/best-stain-for-redwood-fence/),and fountains. Some painters use the stain remover on commercial spaces such as airports, cemeteries, schools, parks, hotels, and amusement parks, among other areas.
 
 I also recommend the remover on cabins, RVs, and outdoor furniture - and hence it'll be easy to remove both mold and mildew stains. > See Also: > Removing Oil Stains from Wall Paint?
 
@@ -58,7 +58,7 @@ The remover works on 750-2250 square feet considering surface porosity.
 
 ###  4. Working Process of the Wet & Forget
 
-Consider the materials; the stain remover - Wet and Forget - will work well on [fiberglass](https://pestpolicy.com/best-paint-for-fiberglass-boats/), Vinyl, teak, PVC steel, asphalt, concrete, ceramic, and plastic. Wet & Forget works first by quickly penetrating those stains to remove bacteria, and it'll reactivate every time there is rainfall - removing debris and preventing further growth.
+Consider the materials; the stain remover - Wet and Forget - will work well on [fiberglass](https://pestpolicy.com/best-paint-for-fiberglass-boats/),Vinyl, teak, PVC steel, asphalt, concrete, ceramic, and plastic. Wet & Forget works first by quickly penetrating those stains to remove bacteria, and it'll reactivate every time there is rainfall - removing debris and preventing further growth.
 
 For mold that's grown on the roof, you may use other products to effectively scrub the shingles to remove the mold with excellent cleaning power effectively. Compared to various roof-cleaning substances with a harsh ingredient, this stain remover is non-caustic, non-acidic, and beach-free.
 
@@ -66,7 +66,7 @@ For mold that's grown on the roof, you may use other products to effectively scr
 
 ##  How Safe isWet & Forget?
 
-First, Wet & Forget will be super useful and safe to use both for your [indoor & outdoor spaces](https://pestpolicy.com/can-you-use-exterior-paint-indoors/) - as approved by EPA - it won't damage the surfaces under the mildew, moss, or mold. As noted earlier, Wet & Forget does not include bleach, nor is it acidic or caustic - the formula is equally eco-friendly and biodegradable - which means that it's safe.
+First, Wet & Forget will be super useful and safe to use both for your [indoor & outdoor spaces](https://pestpolicy.com/can-you-use-exterior-paint-indoors/)- as approved by EPA - it won't damage the surfaces under the mildew, moss, or mold. As noted earlier, Wet & Forget does not include bleach, nor is it acidic or caustic - the formula is equally eco-friendly and biodegradable - which means that it's safe.
 
 The product will be comfortable and safe to use as a stain remover - apply the liquid on your stained surfaces - you won't need to rinse or scrub the surfaces using water. You should use smart bottles and sprayers for the less messy and even easier application of the stain remover. With the triggers and nozzles in the latex sprayers, you can get to great heights.
 

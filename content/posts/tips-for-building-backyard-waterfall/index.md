@@ -17,7 +17,7 @@ tags:
 layout: post
 ---
 
-The gentle cascade of water, the soothing sound of a babbling brook, and the shimmering reflections of sunlight can transform any [backyard](https://pestpolicy.com/best-backyard-trampolines/) into a tranquil sanctuary. A backyard waterfall is more than just a decorative feature; it's an immersive experience that brings a piece of nature's calming beauty right to your doorstep.
+The gentle cascade of water, the soothing sound of a babbling brook, and the shimmering reflections of sunlight can transform any [backyard](https://pestpolicy.com/best-backyard-trampolines/)into a tranquil sanctuary. A backyard waterfall is more than just a decorative feature; it's an immersive experience that brings a piece of nature's calming beauty right to your doorstep.
 
 While it might seem like a daunting project, building your own backyard waterfall is an achievable DIY endeavor with careful planning and the right guidance.
 

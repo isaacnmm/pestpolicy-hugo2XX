@@ -21,9 +21,9 @@ For example, Hardware fitting, a key aspect to consider while building your gami
 
 ###  1. Form Factor
 
-A motherboards [form factor](https://en.wikipedia. org/wiki/Computer_form_factor) denotes ITS numbers and layout of connectors, ports, and mounting holes, kind of power supply, dimensions, and shape. For example, the standard form factors require that the motherboard parts are fitting over varied technology groups and vendors. Therefore, consider the type of case youll be using for the motherboard to decide on the one to purchase.
+A motherboards [form factor](https://en.wikipedia.org/wiki/Computer_form_factor)denotes ITS numbers and layout of connectors, ports, and mounting holes, kind of power supply, dimensions, and shape. For example, the standard form factors require that the motherboard parts are fitting over varied technology groups and vendors. Therefore, consider the type of case youll be using for the motherboard to decide on the one to purchase.
 
-Check Also: [i5 7600k motherboard](https://pestpolicy.com/best-motherboard-for-i5-7600k/). However, if you already have a case that you require to employ in the PC build, then determine the motherboard specifications, one with a similar form factor, which will fit into it. Most current computers employ the [ATX](https://en.wikipedia. org/wiki/MicroATX) * (microATX form factor) or the full ATX (ATX form factor)*.
+Check Also: [i5 7600k motherboard](https://pestpolicy.com/best-motherboard-for-i5-7600k/).However, if you already have a case that you require to employ in the PC build, then determine the motherboard specifications, one with a similar form factor, which will fit into it. Most current computers employ the [ATX](https://en.wikipedia.org/wiki/MicroATX)* (microATX form factor) or the full ATX (ATX form factor)*.
 
 You should note that the microATX mobos are fitting with both the ATX case and the microATX case. However, your ATX will only be fitting with the ATX case. However, be keen to note the nonstandard features of motherboards that will not fit into any of the other cases.
 
@@ -59,7 +59,7 @@ Probably you already know that SATA outdoes IDE on both compactness, price, and 
 
 ###  6. Chipset support
 
-Note that youll not replace the [chipset](https://en.wikipedia. org/wiki/Chipset) (your PCs administrative assistant) on your motherboard at any time and thus you have to get your motherboard selection right the first time. Notably, the [chipset](https://www.intel. com/content/www/us/en/products/chipsets. html) will affect the kind of memory, PCI/AGP Express, and processors that your motherboard will support and the kind.
+Note that youll not replace the [chipset](https://en.wikipedia.org/wiki/Chipset)(your PCs administrative assistant) on your motherboard at any time and thus you have to get your motherboard selection right the first time. Notably, the [chipset](https://www.intel.com/content/www/us/en/products/chipsets.html)will affect the kind of memory, PCI/AGP Express, and processors that your motherboard will support and the kind.
 
 Further, the CPU chipset will influence the type of networking, video, audio, Serial ATA, and USB 2. 0 you may be used.
 

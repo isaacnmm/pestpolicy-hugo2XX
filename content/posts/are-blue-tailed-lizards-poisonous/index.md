@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 
-Could be you have come across Blue Tailed Lizards in your home, yard or zoo and wonder whether they could be [poisonous](https://pestpolicy.com/[are](https://pestpolicy.com/are-fleas-attracted-to-heat/)-lizards-poisonous/). Can these reptiles really harm your children, dogs, cats or other home occupants? May be you are even worried how dangerous their saliva or bite could be. **Well, the question here is, are Blue Tailed Lizards Poisonous?
+Could be you have come across Blue Tailed Lizards in your home, yard or zoo and wonder whether they could be [poisonous](https://pestpolicy.com/[are](https://pestpolicy.com/are-fleas-attracted-to-heat/)-lizards-poisonous/).Can these reptiles really harm your children, dogs, cats or other home occupants? May be you are even worried how dangerous their saliva or bite could be. **Well, the question here is, are Blue Tailed Lizards Poisonous?
 
 The direct answer is NO.
 

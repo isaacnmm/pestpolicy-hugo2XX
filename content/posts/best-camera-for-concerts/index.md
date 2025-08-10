@@ -14,9 +14,9 @@ tags:
 layout: post
 ---
 
-[Live concerts](https://en.wikipedia. org/wiki/Concert) have diverse lighting conditions with fast-paced events & excessive flickering or lighting. Thus, you'll require a camera that is very portable, and that offers high power in addition to ISO sensitivity.
+[Live concerts](https://en.wikipedia.org/wiki/Concert)have diverse lighting conditions with fast-paced events & excessive flickering or lighting. Thus, you'll require a camera that is very portable, and that offers high power in addition to ISO sensitivity.
 
-Summary: To take exceptional pictures or shoot great videos in concerts, use either [Canon EOS 6D DSLR](https://www.amazon. com/dp/B009B0MZ8U/? tag=p-policy-20) or [Nikon D5300 24. 2 DSLR](https://www.amazon. com/dp/B00I1CPA0O/? tag=p-policy-20) as the best camera for concerts.
+Summary: To take exceptional pictures or shoot great videos in concerts, use either [Canon EOS 6D DSLR](https://www.amazon.com/dp/B009B0MZ8U/?tag=p-policy-20)or [Nikon D5300 24. 2 DSLR](https://www.amazon.com/dp/B00I1CPA0O/?tag=p-policy-20)as the best camera for concerts.
 
 Otherwise, if you're low on the budget it's allowable to take your mobile phone (even with the basic built-in camera and some concert earplugs ) to concerts and live shows.
 
@@ -26,7 +26,7 @@ Otherwise, if you're low on the budget it's allowable to take your mobile phone 
 
 It has an in-built GPS device that automatically geotags your photos. In addition, you can share the photo locations with your friends and family or even social media.
 
-With the WIFI capability, you can easily transfer photos to other devices such as mobile phones or other Android devices. Read Also: Quality Compact [Cameras under 300](https://pestpolicy.com/best-compact-cameras-under-300/). Further, for video, this Canon EOS 6D will show 1080p HD quality videos. Hence, the full-frame (bigger sensor) & continuous shooting features are the key reasons why the Canon EOS 6D.
+With the WIFI capability, you can easily transfer photos to other devices such as mobile phones or other Android devices. Read Also: Quality Compact [Cameras under 300](https://pestpolicy.com/best-compact-cameras-under-300/).Further, for video, this Canon EOS 6D will show 1080p HD quality videos. Hence, the full-frame (bigger sensor) & continuous shooting features are the key reasons why the Canon EOS 6D.
 
 It borrows heavily from the Canon EOS 60D.
 
@@ -46,7 +46,7 @@ Read Also: [Camera for Beginner Filmmaker](https://pestpolicy.com/best-camera-fo
 
 ###  [3. Nikon D5300 24.2 MP CMOS Digital SLR Camera - #3 Pick](https://www.amazon.com/dp/B00I1CPA0O/?tag=p-policy-20)
 
-[Nikon D5300](https://en.wikipedia. org/wiki/Nikon_D5300) is a compact DSLR that has a 24. 4-megapixel sensor and an [Expeed 4](https://en.wikipedia. org/wiki/Expeed#Expeed_4) processor, which means a higher resolution to give you excellent shots in live shows or concerts.
+[Nikon D5300](https://en.wikipedia.org/wiki/Nikon_D5300)is a compact DSLR that has a 24. 4-megapixel sensor and an [Expeed 4](https://en.wikipedia.org/wiki/Expeed#Expeed_4)processor, which means a higher resolution to give you excellent shots in live shows or concerts.
 
 Hence, when you take images, you can easily blow them up or make them big or even crop. Its possible to print even on 11 by 16 while still achieving top clarity. With its optical viewfinder, you can create pictures that are centered or even off-centered.
 
@@ -96,9 +96,9 @@ Mirrorless cameras (compact system cameras (CSCs)), unlike the DSLRs, come with 
 
 ###  [3. DSLR (Digital Single-Lens Reflex) Cameras](https://en.wikipedia.org/wiki/Digital_single-lens_reflex_camera)
 
-DSLR (such as Canon EOS Rebel T7i/800D or Nikon D5600) blend the digital imaging sensor and single-lens reflex devices (with reflex design scheme) & optics. Check the [Camera for YouTube](https://pestpolicy.com/best-camera-for-youtube/). But, DSLRs have a large build design therefore wont serve if you need super portability and sleeker design. DSLR is praised for being inter-changeable - can switch in & out of lenses.
+DSLR (such as Canon EOS Rebel T7i/800D or Nikon D5600) blend the digital imaging sensor and single-lens reflex devices (with reflex design scheme) & optics. Check the [Camera for YouTube](https://pestpolicy.com/best-camera-for-youtube/).But, DSLRs have a large build design therefore wont serve if you need super portability and sleeker design. DSLR is praised for being inter-changeable - can switch in & out of lenses.
 
 ##  Conclusion
 
-If youre hunting for the best camera for concerts specifically, here are some key considerations youll need to make. Do you need a 1080p or 4K resolution? For filming indoors, youll require a great [ISO](https://www.nikonusa. com/en/learn-and-explore/a/products-and-innovation/iso-control. html). Do you need audio or a tripod?
+If youre hunting for the best camera for concerts specifically, here are some key considerations youll need to make. Do you need a 1080p or 4K resolution? For filming indoors, youll require a great [ISO](https://www.nikonusa.com/en/learn-and-explore/a/products-and-innovation/iso-control.html).Do you need audio or a tripod?
 

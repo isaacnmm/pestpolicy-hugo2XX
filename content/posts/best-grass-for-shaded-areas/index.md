@@ -27,10 +27,10 @@ It's important to remember that shade patterns can shift throughout the day and 
 ## How To Grow Grass in Shady Areas
 Beyond choosing the right grass, preparing the area and adapting your initial planting strategy are crucial for success in shaded spots.
 ### 1. Assess and Maximize Light
-* **Pruning Trees:** Thinning the canopy of overhead trees is one of the most effective ways to increase light penetration to the grass below. Consult with an arborist to properly [prune trees for increased light](https://www.treesaregood.org/treeowner/pruningbasics). * **Remove Obstructions:** Clear away any unnecessary shrubs, bushes, or other structures that cast dense shadows.
+* **Pruning Trees:** Thinning the canopy of overhead trees is one of the most effective ways to increase light penetration to the grass below. Consult with an arborist to properly [prune trees for increased light](https://www.treesaregood.org/treeowner/pruningbasics).* **Remove Obstructions:** Clear away any unnecessary shrubs, bushes, or other structures that cast dense shadows.
 ### 2. Prepare the Soil
-* **Soil Test:** Perform a [soil test](https://extension.umd.edu/resource/soil-testing-and-soil-testing-labs) to determine nutrient deficiencies and pH levels. Shaded soils can often be more acidic due to leaf decay. * **Improve Drainage:** Shaded areas tend to stay wetter. Amend heavy clay soils with organic matter to improve drainage and aeration. * **Aerate:** Compacted soil restricts root growth and air circulation.
-[Core aeration](https://extension.umd.edu/resource/lawn-aeration) can significantly improve conditions in shaded areas, especially where tree roots are prevalent, by creating channels for water, air, and nutrients.
+* **Soil Test:** Perform a [soil test](https://extension.umd.edu/resource/soil-testing-and-soil-testing-labs)to determine nutrient deficiencies and pH levels. Shaded soils can often be more acidic due to leaf decay. * **Improve Drainage:** Shaded areas tend to stay wetter. Amend heavy clay soils with organic matter to improve drainage and aeration. * **Aerate:** Compacted soil restricts root growth and air circulation.
+[Core aeration](https://extension.umd.edu/resource/lawn-aeration)can significantly improve conditions in shaded areas, especially where tree roots are prevalent, by creating channels for water, air, and nutrients.
 ### 3. Proper Seeding or Sodding
 * **Select Quality Seed/Sod:** Always use high-quality seed mixes or sod specifically labeled for "shade" or containing the grasses mentioned above. * **Timing:** Plant cool-season grasses in early fall or early spring. Plant warm-season grasses in late spring or early summer. * **Seed Rate:** Use a slightly higher seeding rate in shaded areas than recommended for sunny areas, as germination and establishment can be less robust.
 ---
@@ -49,13 +49,13 @@ These grasses generally perform much better in shade than their warm-season coun
 
 1. **Fine Fescues: ** * Considered the top choice for shade tolerance among cool-season grasses. This group includes Chewing Fescue, Creeping Red Fescue, Hard Fescue, and Sheep Fescue. They are often sold in specialized shade mixes. * **Characteristics: ** Very fine texture, low maintenance, excellent drought tolerance once established, and can handle dry shade better than other grasses. They establish well from seed.
 
-* **Best Use: ** Low-traffic areas, under trees, and ornamental sections of the lawn. * [Learn more about Fine Fescues for low-maintenance lawns from Penn State Extension. ](https://extension.psu. edu/fine-fescues-for-low-maintenance-lawns)
+* **Best Use: ** Low-traffic areas, under trees, and ornamental sections of the lawn. * [Learn more about Fine Fescues for low-maintenance lawns from Penn State Extension. ](https://extension.psu.edu/fine-fescues-for-low-maintenance-lawns)
 
 2. **Tall Fescue: ** * Offers a good balance of shade tolerance and durability, making it suitable for shaded areas with moderate foot traffic. * **Characteristics: ** Broader blades than fine fescues, deeper root system, good heat and drought tolerance (for a cool-season grass), and decent wear tolerance. * **Best Use: ** Transition zones, moderate shade, areas that receive some foot traffic.
 
 It's often included in "shade mixes" as a more robust component.
 
-* [Find more information on Tall Fescue from Clemson Cooperative Extension. ](https://www.clemson. edu/extension/rowancounty/lawn/tall-fescue-lawns. html)
+* [Find more information on Tall Fescue from Clemson Cooperative Extension. ](https://www.clemson.edu/extension/rowancounty/lawn/tall-fescue-lawns.html)
 
 3. **Rough Bluegrass (Poa trivialis): ** * Possesses exceptional shade tolerance and prefers moist conditions. It's often used in specialized shade mixes. * **Characteristics: ** Bright green, fine texture, prefers consistently moist (but not waterlogged) shade. Can become aggressive in sunny, wet areas. * **Best Use: ** Deeply shaded, moist areas where other grasses struggle, often in combination with fine fescues.
 

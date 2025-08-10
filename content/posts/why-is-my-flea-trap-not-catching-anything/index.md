@@ -33,7 +33,7 @@ This is the number one reason a flea trap fails. You can have the best trap, but
 
 * **Beside "Hot Spot" Furniture: ** If your pet has a favorite armchair, sofa spot, or rug, that's a prime target. Fleas hide in the fibers of these resting places.
 
-* **In a Quiet Corner: ** The trap needs to be in a high-flea room, but in a spot where it wonâ€™t be disturbed. Constant foot traffic will deter fleas. Find a quiet corner of the target room where it can be left alone overnight.
+* **In a Quiet Corner: ** The trap needs to be in a high-flea room, but in a spot where it won’t be disturbed. Constant foot traffic will deter fleas. Find a quiet corner of the target room where it can be left alone overnight.
 
 ###  Reason #2: Competing Light and Heat Sources
 

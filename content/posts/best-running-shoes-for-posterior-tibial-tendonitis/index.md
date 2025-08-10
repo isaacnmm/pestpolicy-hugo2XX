@@ -14,7 +14,7 @@ tags:
 layout: post
 ---
 
-Which are the Best Running Shoes for Posterior Tibial Tendonitis? Most podiatrist and other medical experts recommend wearing supportive shoes for the prevention and treatment of [posterior tibial tendonitis](https://orthoinfo.aaos. org/en/diseases--conditions/posterior-tibial-tendon-dysfunction/).
+Which are the Best Running Shoes for Posterior Tibial Tendonitis? Most podiatrist and other medical experts recommend wearing supportive shoes for the prevention and treatment of [posterior tibial tendonitis](https://orthoinfo.aaos.org/en/diseases--conditions/posterior-tibial-tendon-dysfunction/).
 
 A posterior tibial tendon is a tendon of the leg that stabilizes the rearfoot and the midfoot. Posterior tibial tendonitis occurs when the posterior tendon has a tear or becomes inflamed.
 
@@ -26,7 +26,7 @@ Related: [Best Running Shoes for Extensor Tendonitis](https://pestpolicy.com/bes
 
 ###  [1. ASICS Women's Gel-Kayano 27 Posterior Tibial Tendonitis Running Shoes](https://www.amazon.com/dp/B082NTQBNS/?tag=p-policy-20)
 
-ASICS Gel-Kayano 27 provides comfort and support thanks to the Trusstic technology that helps to improve the stability of the platform. Runners with posterior tibial tendonitis will benefit from the support that this stability running [shoe](https://pestpolicy.com/best-running-shoes-for-extensor-tendonitis/) provides.
+ASICS Gel-Kayano 27 provides comfort and support thanks to the Trusstic technology that helps to improve the stability of the platform. Runners with posterior tibial tendonitis will benefit from the support that this stability running [shoe](https://pestpolicy.com/best-running-shoes-for-extensor-tendonitis/)provides.
 
 Kayano 27 corrects overpronation and it will be helpful for those who have inflamed posterior tendon or experience pain on the inside of the foot and ankle.
 
@@ -72,7 +72,7 @@ The shoe also has a segmented crash pad that provides extra cushioning and suppo
 
 The upper features an engineered mesh that has a 3D Fit Print. The upper provides a flexible fit that helps to control overpronation. The lightweight yet durable structure of the upper provides excellent breathability for a more comfortable run.
 
-The forefoot is also spacious and [wide footed runners](https://pestpolicy.com/best-running-shoes-for-men-with-wide-feet/) will benefit from the roomier forefoot. The padded tongue ensures even distribution of pressure on top of the foot. Hence helps to prevent pain on top of the foot.
+The forefoot is also spacious and [wide footed runners](https://pestpolicy.com/best-running-shoes-for-men-with-wide-feet/)will benefit from the roomier forefoot. The padded tongue ensures even distribution of pressure on top of the foot. Hence helps to prevent pain on top of the foot.
 
 The outsole of GTS 20 uses a blown rubber compound thats softer and flexible compared to other rubber materials. The rubber compound delivers traction and offers protection against abrasion. Underneath the outsole, there are Omega Flex Grooves that enhances the shoes flexibility. Pros: - Delivers great shock absorption - Offers stability - Comfortable - Cushioned - Best for wide feet men
 
@@ -168,7 +168,7 @@ Some sandals also have cushioned, shock-absorbing, and rigid soles that offer ex
 
 ###  Calf Stretching
 
-Seek out professional help on the best program for your calf exercises. Most [studies](https://pubmed.ncbi. nlm. nih. gov/19022863/) show that calf-stretching regimen can help ease or reduce Posterail Tibial Tendonitis. Ensure that you wear correct shoes during these exercises to prevent the possibility of injury.
+Seek out professional help on the best program for your calf exercises. Most [studies](https://pubmed.ncbi.nlm.nih.gov/19022863/)show that calf-stretching regimen can help ease or reduce Posterail Tibial Tendonitis. Ensure that you wear correct shoes during these exercises to prevent the possibility of injury.
 
 ###  Return to Running Gradually
 

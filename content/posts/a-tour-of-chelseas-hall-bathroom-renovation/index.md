@@ -29,7 +29,7 @@ This not only expedited the renovation timeline but also promised a future of ef
 Chelsea's hall bathroom renovation is a true masterclass in maximizing a small space and blending diverse design influences. From the strategic wall expansion that opened up possibilities, to the bold choice of a floating navy vanity, the low-maintenance elegance of Wetwall panels, and the charming throwback of penny tile flooring, every decision was thoughtfully made.
 The result is a highly functional, effortlessly stylish, and deeply personal bathroom that proves that even the most practical spaces can be transformed into expressions of beautiful design.
 
-Step inside and prepare to be inspired! Today, we're taking an exclusive tour of Chelsea's recently completed hall [bathroom](https://pestpolicy.com/bathroom-remodel-austin/) renovation a project that transformed a small, dated, and somewhat neglected space into a bright, highly functional, and aesthetically captivating sanctuary.
+Step inside and prepare to be inspired! Today, we're taking an exclusive tour of Chelsea's recently completed hall [bathroom](https://pestpolicy.com/bathroom-remodel-austin/)renovation a project that transformed a small, dated, and somewhat neglected space into a bright, highly functional, and aesthetically captivating sanctuary.
 
 Chelsea, known for her keen eye for design and a courageous DIY spirit, envisioned a bathroom that blended modern clean lines with a subtle nod to timeless retro charm. The journey involved strategic spatial changes, smart material choices, and a dash of personal style that truly brought her vision to life.
 

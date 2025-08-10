@@ -15,19 +15,19 @@ tags:
 layout: post
 ---
 
-When choosing the best [squirrel](https://pestpolicy.com/best-poison-for-squirrels/) repellent, you can consider things like effectiveness, safety, ease of use, and cost. Ensuring you select the right product is essential to keeping your property free from these persistent pests without causing harm to them or other animals.
+When choosing the best [squirrel](https://pestpolicy.com/best-poison-for-squirrels/)repellent, you can consider things like effectiveness, safety, ease of use, and cost. Ensuring you select the right product is essential to keeping your property free from these persistent pests without causing harm to them or other animals.
 
 ##  Key Factors to Consider
 
 ###  **1. Effectiveness**
 
-Some products, like the [**Bonide Repels-All repellent**](https://www.amazon. com/dp/B002ITKVKU/? tag=p-policy-20), stand out for their long-lasting effectiveness. This product contains natural ingredients that deter not only squirrels but also other pests like deer, moles, rabbits, and skunks.
+Some products, like the [**Bonide Repels-All repellent**](https://www.amazon.com/dp/B002ITKVKU/?tag=p-policy-20),stand out for their long-lasting effectiveness. This product contains natural ingredients that deter not only squirrels but also other pests like deer, moles, rabbits, and skunks.
 
 Its effectiveness is due to the combination of scents and tastes that animals find unpleasant, making your garden or yard an uninviting place for them. When choosing a repellent, consider how well it performs in various weather conditions, as some may wash away easily with rain.
 
 ###  **2. Safety**
 
-When it comes to safety, especially around pets and children, [**Eco Defense Pest Control Pouches**](https://www.amazon. com/dp/B019G1TXII/? tag=p-policy-20) are a top choice. This repellent uses natural ingredients like peppermint oil, cinnamon, and lemongrass, which are safe for use around the home.
+When it comes to safety, especially around pets and children, [**Eco Defense Pest Control Pouches**](https://www.amazon.com/dp/B019G1TXII/?tag=p-policy-20)are a top choice. This repellent uses natural ingredients like peppermint oil, cinnamon, and lemongrass, which are safe for use around the home.
 
 These pouches emit a pleasant smell to humans but are repulsive to squirrels and other pests in the yard. Safety is crucial, so ensure that the product you choose wont harm your pets, children, or the environment.
 

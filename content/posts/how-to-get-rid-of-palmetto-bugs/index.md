@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 
-The sight of [palmetto bugs](https://en.wikipedia. org/wiki/Florida_woods_cockroach) crawling around your house is simply disgusting. In case youre wondering how to get [rid](https://pestpolicy.com/how-to-get-rid-of-brown-recluse-spiders/) of it, you dont need to worry. Weve already done the research for you. **Carry out these 5 simple tips to get rid of these [palmetto](https://pestpolicy.com/cockroach-vs-palmetto-bug/) bugs without making direct contact.
+The sight of [palmetto bugs](https://en.wikipedia.org/wiki/Florida_woods_cockroach)crawling around your house is simply disgusting. In case youre wondering how to get [rid](https://pestpolicy.com/how-to-get-rid-of-brown-recluse-spiders/)of it, you dont need to worry. Weve already done the research for you. **Carry out these 5 simple tips to get rid of these [palmetto](https://pestpolicy.com/cockroach-vs-palmetto-bug/)bugs without making direct contact.
 
 ** - **Place roach glue traps around the place in strategic positions. ** - **Use boric acid to make homemade roach baits. ** - **Spread out food-grade diatomaceous earth over the entire place. ** - **Ensure every crack; gap and hole along the walls are sealed. ** - **Natural predators such as beneficial bugs and geckos should be encouraged.
 
@@ -127,7 +127,7 @@ The flowering plant has a natural insecticide compound called pyrethrins. After 
 
 ###  **2. Catnip Plants**
 
-Professionals have found out that these plants have a certain chemical called [nepetalactone](https://www.sciencedaily. com/releases/1999/08/990827071500. htm). These have the potential of repel not only palmetto bugs but its other equally disgusting relatives as well.
+Professionals have found out that these plants have a certain chemical called [nepetalactone](https://www.sciencedaily.com/releases/1999/08/990827071500.htm).These have the potential of repel not only palmetto bugs but its other equally disgusting relatives as well.
 
 Were sure now youre aware of how to get rid of palmetto bugs. With the help of the tips that weve provided you can easily disinfect your home and keep it safe from palmetto bugs.
 

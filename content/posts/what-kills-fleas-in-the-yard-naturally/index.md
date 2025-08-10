@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 
-Using pesticide sprays, among other [chemical flea control methods](https://extension.tennessee. edu/publications/Documents/PB1596. pdf), is considered the best way to control [fleas](https://pestpolicy.com/how-to-kill-flea-eggs/) in every Yard. - But other home remedies are equally effective for someone who would like to try a DIY approach. So, what kills fleas in the yard naturally? So, check the below home remedies:
+Using pesticide sprays, among other [chemical flea control methods](https://extension.tennessee.edu/publications/Documents/PB1596.pdf),is considered the best way to control [fleas](https://pestpolicy.com/how-to-kill-flea-eggs/)in every Yard. - But other home remedies are equally effective for someone who would like to try a DIY approach. So, what kills fleas in the yard naturally? So, check the below home remedies:
 
 ###  1. Diatomaceous earth
 
@@ -37,7 +37,7 @@ Also, as the saltwater continues drying, it'll absorb water and moisture from th
 
 ##  Whether it uses natural or chemical ingredients?
 
-Generally, [flea sprays for yards](https://pestpolicy.com/best-flea-spray-for-yard/) that contain chemicals are more effective. But there are a few good, non-toxic solutions available too. Remember: always follow all instructions carefully. Not onl y is this important for safety reasons, but it will also ensure you get the best results. *Is it safe to use around your pets?
+Generally, [flea sprays for yards](https://pestpolicy.com/best-flea-spray-for-yard/)that contain chemicals are more effective. But there are a few good, non-toxic solutions available too. Remember: always follow all instructions carefully. Not onl y is this important for safety reasons, but it will also ensure you get the best results. *Is it safe to use around your pets?
 
 * - Always read the ingredi ents, instructions, and warning labels carefully.
 
@@ -49,11 +49,11 @@ Definitely, Yes! Fleas will readily infest and multiply in your yards or lawns a
 
 This significantly cuts down on the favorable shady conditions needed by fleas larvae to survive.
 
-In the short term, I recommend using chemical flea treatment as some may not exterminate the flea larvae and eggs. Therefore, for long-term control of these bugs, you'll need to consider various [methods of bug control](https://entomology.ca. uky. edu/ef602) that are readily available.
+In the short term, I recommend using chemical flea treatment as some may not exterminate the flea larvae and eggs. Therefore, for long-term control of these bugs, you'll need to consider various [methods of bug control](https://entomology.ca.uky.edu/ef602)that are readily available.
 
 ##  How Long will Fleas Live in my Yard?
 
-[Adult Fleas and different pests](https://extension.entm. purdue. edu/publichealth/insects/flea. html) will mainly be lying on the underside, neck, and back of dogs and cats. However, in cases of massive flea attacks, you may find the bugs lying or jumping around your bedroom, on the carpet, or the pet's bedding. However, the fleas must be coming from another area before they land on your way to the house.
+[Adult Fleas and different pests](https://extension.entm.purdue.edu/publichealth/insects/flea.html)will mainly be lying on the underside, neck, and back of dogs and cats. However, in cases of massive flea attacks, you may find the bugs lying or jumping around your bedroom, on the carpet, or the pet's bedding. However, the fleas must be coming from another area before they land on your way to the house.
 
 This is the place where we consider the Yard as the breeding and feeding ground for the bugs. The Yard provides a shady, humid, and moist environment that is favorable for the breeding and growth of fleas. This will be even better if there are tall grasses or woodpiles lying around the Yard. Check the public parks and dog houses for evidence of flea infestations.
 

@@ -49,9 +49,9 @@ The final touches for a tidy and healthy fall lawn.
 * **Trim Edges:** Maintain neat edges along driveways, walkways, and garden beds to give your lawn a crisp, finished look. * **Clean Up Debris:** Remove any fallen branches, toys, or other debris that could smother grass or invite pests over winter. * **Winterize Equipment:** Clean and store your lawn mower, trimmers, and other equipment. Sharpen mower blades for next spring.
 ---
 
-As the vibrant energy of summer gives way to the crisp air and changing colors of autumn, many gardeners begin to wind down their outdoor tasks. However, for your lawn, [fall](https://pestpolicy.com/best-flowers-for-flourishing-fall-garden/) isn't a time for rest; it's arguably the most critical season for care.
+As the vibrant energy of summer gives way to the crisp air and changing colors of autumn, many gardeners begin to wind down their outdoor tasks. However, for your lawn, [fall](https://pestpolicy.com/best-flowers-for-flourishing-fall-garden/)isn't a time for rest; it's arguably the most critical season for care.
 
-The efforts you put into your [lawn](https://pestpolicy.com/how-high-to-mow-your-lawn-for-the-final-cut-in-the-fall/) during autumn directly impact its health, vigor, and appearance come spring. This is the prime time for turfgrass to recover from summer stress, build strong root systems, and store energy for the dormant months ahead.
+The efforts you put into your [lawn](https://pestpolicy.com/how-high-to-mow-your-lawn-for-the-final-cut-in-the-fall/)during autumn directly impact its health, vigor, and appearance come spring. This is the prime time for turfgrass to recover from summer stress, build strong root systems, and store energy for the dormant months ahead.
 
 Effective fall lawn care goes beyond just raking leaves. It involves a strategic series of tasks designed to repair damage, suppress weeds, improve soil health, and fortify your grass against the challenges of winter. Whether you're aiming for a lush, green carpet or simply want to ensure your lawn bounces back strong, understanding and implementing a comprehensive fall lawn care regimen is essential.
 

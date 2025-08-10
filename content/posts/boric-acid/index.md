@@ -14,23 +14,23 @@ tags:
 layout: post
 ---
 
-Boric acid, also known as orthoboric acid, boracic acid, and hydrogen borate is a [boron-based](https://en.wikipedia. org/wiki/Boron) but weak monobasic [Lewis acid](https://en.wikipedia. org/wiki/Lewis_acid).
+Boric acid, also known as orthoboric acid, boracic acid, and hydrogen borate is a [boron-based](https://en.wikipedia.org/wiki/Boron)but weak monobasic [Lewis acid](https://en.wikipedia.org/wiki/Lewis_acid).
 
-Boric acid (H 3 BO 3 ) is largely used in many commercial products like neutron absorbers, preserving ingredients, flame retardants, [insecticides](https://pestpolicy.com/does-boric-acid-kill-roaches/), and [antiseptics](https://pubmed.ncbi. nlm. nih. gov/1712169/). - The white powder or colorless crystals of this Boric acid (first created by Wilhelm Homberg) will dissolve in water.
+Boric acid (H 3 BO 3 ) is largely used in many commercial products like neutron absorbers, preserving ingredients, flame retardants, [insecticides](https://pestpolicy.com/does-boric-acid-kill-roaches/),and [antiseptics](https://pubmed.ncbi.nlm.nih.gov/1712169/).- The white powder or colorless crystals of this Boric acid (first created by Wilhelm Homberg) will dissolve in water.
 
 ##  Boric AcidOccurrence
 
-You'll mainly find Boric acid around volcanic areas like Nevada, Lipari Islands, andTuscany as [sassolite](https://en.wikipedia. org/wiki/Sassolite) - which is a free state. It has antimicrobial and antifungal properties.
+You'll mainly find Boric acid around volcanic areas like Nevada, Lipari Islands, andTuscany as [sassolite](https://en.wikipedia.org/wiki/Sassolite)- which is a free state. It has antimicrobial and antifungal properties.
 
 In the areas, sassolite mixes with underground steam to form minerals such as colemanite, ulexite (boronatrocalcite), boracite, and borax.
 
 ##  What Is Boric Acid Used For?
 
-Boric acid (H 3 BO 3 ) is a white powder or colorless crystals used as a neutron absorber, preserving ingredients, flame retardants, [pesticides](http://npic.orst. edu/ingred/products. html), and antiseptic.
+Boric acid (H 3 BO 3 ) is a white powder or colorless crystals used as a neutron absorber, preserving ingredients, flame retardants, [pesticides](http://npic.orst.edu/ingred/products.html),and antiseptic.
 
 ###  1. Roach Killer
 
-If used correctly, boric acid is [good for killingcockroaches](https://pestpolicy.com/does-boric-acid-kill-roaches/). Incorrect usage will make the boric acid reduce its roach-killing potency. You can mic the boric acid (powder - 2 tablespoons ) with 1 cup of water and sugar (2 cups) to kill roaches. Sugar acts as an attractant for while boric acid poisons the bugs.
+If used correctly, boric acid is [good for killingcockroaches](https://pestpolicy.com/does-boric-acid-kill-roaches/).Incorrect usage will make the boric acid reduce its roach-killing potency. You can mic the boric acid (powder - 2 tablespoons ) with 1 cup of water and sugar (2 cups) to kill roaches. Sugar acts as an attractant for while boric acid poisons the bugs.
 
 Roches will infest your office, restaurants, and homes - to most people these bugs are repulsive and unsightly but will also cause major health risks (in indoor spaces) to pets and people. Roaches will carry germs on their leg spines while crawling on various decaying materials - they may contaminate human food with these causing salmonella and E. coli.
 
@@ -44,13 +44,13 @@ Boric acid is an excellent product for cleaning around the house. It's an excell
 
 You'll find Borax used in cleaning products like diaper creams, glasscleaners, dish detergents, air fresheners, stain removers (laundry), and toilet bowlcleaners plus ant killers. But is it safe for home cleaning? Yes, boric acid is safe, effective, and powerful to use as a household cleaner and pesticide. It has a limited risk to humans or pets - for large doses.
 
-For cleaning toilet bowls or [clogged drainages](https://pestpolicy.com/best-drain-cleaner//), you'll need to simply pour the boric acid on the surfaces and let it work for roughly 1/2 an hour.
+For cleaning toilet bowls or [clogged drainages](https://pestpolicy.com/best-drain-cleaner//),you'll need to simply pour the boric acid on the surfaces and let it work for roughly 1/2 an hour.
 
 ###  **3. Treats Yeast Infections**
 
 Boric acid is also an effective solution for treating yeast infections, especially yeast infections. Medics recommend it (as female suppositories) for the prevention of Candida fungi. The capsule (female BA capsules) is inserted into the female and it'll be effective for 6 - 12 months - apply for 7 days t 2 weeks depending on the infection intensity.
 
-Boric acid suppositories for the female are reported by CDC to be more effective than oral azole in treating the systems of candida - [minimize exposure](http://npic.orst. edu/factsheets/MinimizingExposure. html).
+Boric acid suppositories for the female are reported by CDC to be more effective than oral azole in treating the systems of candida - [minimize exposure](http://npic.orst.edu/factsheets/MinimizingExposure.html).
 
 ###  4. Acne Treatment - Boracic Water
 
@@ -76,9 +76,9 @@ Some of the prevalent signs of boric acid exposure include bright red skin rash,
 
 For infants, they may experience a coma, confusion, convulsions, and abnormal postures in addition to nervous system effects.
 
-Thus, ensure a treatment in 2 hours. Boric acid will be safe for pets and humans if moderately exposed - but excessive exposure lad to chronic and acute effects. For example, ingesting [roach-killing items](https://pestpolicy.com/best-roach-killer-for-apartments/) causes acute poisoning.
+Thus, ensure a treatment in 2 hours. Boric acid will be safe for pets and humans if moderately exposed - but excessive exposure lad to chronic and acute effects. For example, ingesting [roach-killing items](https://pestpolicy.com/best-roach-killer-for-apartments/)causes acute poisoning.
 
-Will boric acid affect wildlife including fish and birds? No, boric acid is largely non-toxic to most [wildlife](http://npic.orst. edu/envir/wildlife. html) including fish and birds - but it may prove slightly toxic to bees and some fresh-water fish.
+Will boric acid affect wildlife including fish and birds? No, boric acid is largely non-toxic to most [wildlife](http://npic.orst.edu/envir/wildlife.html)including fish and birds - but it may prove slightly toxic to bees and some fresh-water fish.
 
 ##  Conclusion
 

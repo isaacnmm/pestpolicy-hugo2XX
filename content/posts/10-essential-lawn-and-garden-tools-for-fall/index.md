@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 
-As the vibrant hues of summer begin to fade, ushering in the crisp air and changing leaves of autumn, our focus in the garden shifts from vigorous growth and bountiful harvests to preparation and preservation. Fall is arguably one of the most critical seasons for [lawn](https://pestpolicy.com/6-steps-to-getting-the-perfect-lawn/) and [garden](https://pestpolicy.com/best-garden-tiller-for-a-woman/) care, laying the groundwork for a healthy, thriving landscape come spring.
+As the vibrant hues of summer begin to fade, ushering in the crisp air and changing leaves of autumn, our focus in the garden shifts from vigorous growth and bountiful harvests to preparation and preservation. Fall is arguably one of the most critical seasons for [lawn](https://pestpolicy.com/6-steps-to-getting-the-perfect-lawn/)and[garden](https://pestpolicy.com/best-garden-tiller-for-a-woman/)care, laying the groundwork for a healthy, thriving landscape come spring.
 
 From clearing fallen leaves and putting beds to rest to planting bulbs and performing essential pruning, the tasks are numerous and varied.
 

@@ -14,9 +14,9 @@ tags:
 layout: post
 ---
 
-[Mole](https://pestpolicy.com/best-mole-traps/) traps are notably inexpensive ways to control moles both in the UK and the United States. However, the use of mole traps is not lawful universally - apart from the [live trapping for moles](https://pestpolicy.com/best-mole-traps/).
+[Mole](https://pestpolicy.com/best-mole-traps/)traps are notably inexpensive ways to control moles both in the UK and the United States. However, the use of mole traps is not lawful universally - apart from the [live trapping for moles](https://pestpolicy.com/best-mole-traps/).
 
-- In some parts of the United States and Europe, you'll need a trapping or hunting [trap](https://pestpolicy.com/best-fly-trap/) to trap moles legally - you'd need to check with the wildlife authorities in your area for details.
+- In some parts of the United States and Europe, you'll need a trapping or hunting [trap](https://pestpolicy.com/best-fly-trap/)to trap moles legally - you'd need to check with the wildlife authorities in your area for details.
 
 **Moles are generally unclassified (you can kill or trap them in your property if they harm domestic animals, crops, or plants) but the use of snap trap or body-gripping mole traps is illegal in areas such as Washington, D. C. since they will kill or injure the moles - thanks to a law passed in 2000. ** Moles survive thanks to human activity (feeding mainly on garbage) since they're non-commensal species - it doesn't harm humans in urban areas.
 

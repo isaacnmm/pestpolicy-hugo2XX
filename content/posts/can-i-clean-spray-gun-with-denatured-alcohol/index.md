@@ -14,7 +14,7 @@ tags:
 layout: post
 ---
 
-Cleaning your [spray](https://pestpolicy.com/can-you-clean-spray-gun-with-water/) [gun](https://pestpolicy.com/best-spray-gun-for-enamel-paint/) is essential to maintain its performance and prolong its lifespan. In this article, we'll explore the effectiveness of denatured alcohol as a cleaning solution for your spray gun, backed by reliable sources, and offer some valuable tips to ensure proper maintenance.
+Cleaning your [spray](https://pestpolicy.com/can-you-clean-spray-gun-with-water/)[gun](https://pestpolicy.com/best-spray-gun-for-enamel-paint/) is essential to maintain its performance and prolong its lifespan. In this article, we'll explore the effectiveness of denatured alcohol as a cleaning solution for your spray gun, backed by reliable sources, and offer some valuable tips to ensure proper maintenance.
 
 **Answer: Yes, you can clean a spray gun with denatured alcohol.
 

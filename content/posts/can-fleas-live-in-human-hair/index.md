@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 
-Flea bites on humans-bite-humans/) from cat fleas, dog fleas, rat fleas cause irritation, itching, pain, and distress - they'll bite calves, ankles, lower legs, and feet. But are flea bites on the human scalp common? Can these pests create a permanent residence in your hair? So, *can fleas [live](https://pestpolicy.com/can-fleas-live-on-clothes/) in human hair?
+Flea bites on humans-bite-humans/) from cat fleas, dog fleas, rat fleas cause irritation, itching, pain, and distress - they'll bite calves, ankles, lower legs, and feet. But are flea bites on the human scalp common? Can these pests create a permanent residence in your hair? So, *can fleas [live](https://pestpolicy.com/can-fleas-live-on-clothes/)in human hair?
 
 * - *In summary, when you sleep with a pet, fleas can temporarily hide in dense or full frizzy human hair (like Remy human hair).
 
@@ -25,21 +25,21 @@ See the flea spray. *
 
 ##  Details: Can Fleas Live in Human Hair? (7 Quick Tips)
 
-Usually, fleas won't stay or live in human hair. But when humans sleep with pets (including cats and dogs), the fleas may jump off, at night, onto the human hair and [clothes](https://pestpolicy.com/can-fleas-live-on-clothes/). The fleas jump onto the human scalp, where they'll feed on your blood - a good blood meal despite not being like the pet's blood meal.
+Usually, fleas won't stay or live in human hair. But when humans sleep with pets (including cats and dogs), the fleas may jump off, at night, onto the human hair and [clothes](https://pestpolicy.com/can-fleas-live-on-clothes/).The fleas jump onto the human scalp, where they'll feed on your blood - a good blood meal despite not being like the pet's blood meal.
 
 Pet's blood meal allows the female fleas to lay eggs, and they hatch into the larvae, pupae, before progressing into adults, and thus exterminators concentrate on killing fleas on pets. So, you can control fleas in your yard or apartment using vacuum cleaning, laundering, and thoroughly washing the pet bedding and clothes.
 
 So, if the pet sleeps on your bed, the fleas may jump from the bed and land on the floor or carpets - try some of these best flea carpet powder - including targeting flea eggs and larvae. Fleas will be dislodged from their pet hosts during pet-grooming with tools like flea combs for cats and dog flea combs. Also, flea gets dislodged when the cats or dogs groom themselves.
 
-Fleas will mainly hop, hide, and [bite humans (warm-blooded mammal) 2 to 7 times](http://ijpa.tums. ac. ir/index. php/ijpa/article/view/61) immediately; it emerges from the flea cocoon because they urgently need a blood meal and a host.
+Fleas will mainly hop, hide, and [bite humans (warm-blooded mammal) 2 to 7 times](http://ijpa.tums.ac.ir/index.php/ijpa/article/view/61)immediately; it emerges from the flea cocoon because they urgently need a blood meal and a host.
 
 ##  How Do Fleas Jump into the Human Hair?
 
-Fleas have long hind legs shaped from jumping - about 13 inches horizontally and [7 inches vertically](https://www.ncbi. nlm. nih. gov/pubmed/10962162), which is the record coming only second to frog-hoppers. However, for the fleas to jump onto your head and hence the human hair - you'd require holding the cat or dog near the head or sleeping around where the bugs hide.
+Fleas have long hind legs shaped from jumping - about 13 inches horizontally and [7 inches vertically](https://www.ncbi.nlm.nih.gov/pubmed/10962162),which is the record coming only second to frog-hoppers. However, for the fleas to jump onto your head and hence the human hair - you'd require holding the cat or dog near the head or sleeping around where the bugs hide.
 
 Therefore, despite that fleas can jump high both vertically (about 7 inches) and horizontally, they can't get to the head (and human hair) of a regular height human being from the ground.
 
-The regular flea's jump being 6 inches will only get the bug to the ankle of an adult (and standing) human being. Therefore, you'll find most flea bites are clustered around the ankles. Although fleas can [crawl to good hiding places](https://www.jstor. org/stable/24923246? seq=1#page_scan_tab_contents), they'll not usually climb up from the human ankles to the pubic hair or even the head hair.
+The regular flea's jump being 6 inches will only get the bug to the ankle of an adult (and standing) human being. Therefore, you'll find most flea bites are clustered around the ankles. Although fleas can [crawl to good hiding places](https://www.jstor.org/stable/24923246?seq=1#page_scan_tab_contents),they'll not usually climb up from the human ankles to the pubic hair or even the head hair.
 
 Conclusion? Fleas will only get and hide in your human hair if you sleep or lay around flea-infested pets, including cats or dogs. This may also happen when you let flea-infested pets lay on your bed.
 
@@ -49,7 +49,7 @@ Conclusion? Fleas will only get and hide in your human hair if you sleep or lay 
 
 Some human beings are allergic (anaphylaxis) to flea-bites because their immune system tends to overreact, releasing excessive histamine. Signs include breathing issues, nausea, and swelling. Humans may also experience hair loss, crusts (scabs), pustules (pus bumps), papules (bumps), and erythema (redness).
 
-The head may also become painful and sore due to flea bites - [but the flea allergy is treatable](https://www.banfield. com/pet-healthcare/additional-resources/article-library/parasites/fleas/flea-allergy-dermatitis-treatment-options).
+The head may also become painful and sore due to flea bites - [but the flea allergy is treatable](https://www.banfield.com/pet-healthcare/additional-resources/article-library/parasites/fleas/flea-allergy-dermatitis-treatment-options).
 
 ###  3.Red Bumps
 
@@ -81,5 +81,5 @@ However, it's challenging to get the correct and safe measurement for tea tree o
 
 ##  Conclusion
 
-Rarely do [fleas live](https://pestpolicy.com/where-do-fleas-live/) in human hair but never say never. But when these fleas get into your hair - and bite your skin, they'll cause itching, red bumps, and allergic reactions. However, human blood isn't the preferred blood meal for fleas, and thus the insects won't lay eggs on the human hair - this is attributed to lowered fertility levels caused by poor diet.
+Rarely do [fleas live](https://pestpolicy.com/where-do-fleas-live/)in human hair but never say never. But when these fleas get into your hair - and bite your skin, they'll cause itching, red bumps, and allergic reactions. However, human blood isn't the preferred blood meal for fleas, and thus the insects won't lay eggs on the human hair - this is attributed to lowered fertility levels caused by poor diet.
 

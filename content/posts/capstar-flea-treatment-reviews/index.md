@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 
-Capstar tablets are formulated to kill the various adult flea species and they're meant for use on large dogs, cats, puppies, and kittens that are over 2 pounds in weight. - For most of these pests, one dose of the Capstar tablets will kill most of the [fleas](https://pestpolicy.com/capstar-flea-tablets-for-small-dogs/) - but you must use other techniques tobreak the flea lifecycle.
+Capstar tablets are formulated to kill the various adult flea species and they're meant for use on large dogs, cats, puppies, and kittens that are over 2 pounds in weight. - For most of these pests, one dose of the Capstar tablets will kill most of the [fleas](https://pestpolicy.com/capstar-flea-tablets-for-small-dogs/)- but you must use other techniques tobreak the flea lifecycle.
 
 In this article, I will online and discuss some of the Capstar flea treatment reviews that are accessible to me.
 
@@ -25,7 +25,7 @@ Let's dig in!
 
 ###  Review #1: Highly Effective Oral Flea Treatment
 
-I can say that I finally landed on an effective and still [safe flea killer - for small dogs](https://pestpolicy.com/capstar-flea-tablets-for-small-dogs) and large dogs plus cats. Compared to other over-the-counter pesticides and repellents that I had used trying to control the fleas on my pets, Capstar tablets proved much better.
+I can say that I finally landed on an effective and still [safe flea killer - for small dogs](https://pestpolicy.com/capstar-flea-tablets-for-small-dogs)and large dogs plus cats. Compared to other over-the-counter pesticides and repellents that I had used trying to control the fleas on my pets, Capstar tablets proved much better.
 
 - I had my reservations in using the oral tablets for flea control especially after going through the CDC reports regarding their safety.
 
@@ -35,7 +35,7 @@ The results after using the Capstar flea tablets proved amazing since the chemic
 
 This will not be like other prescription flea treatments that tend to remain in the pet body for years or months - which may come with adverse health effects. So my feedback is that Capstar flea tablets produced positive outcomes in handling and finishing the flea infestation that had proved stubborn. - So if those pets including cats kitties dogs and puppies pickfleas from the yardand bring them in the house, Capstar tablets will help you.
 
-Also, fleas make cats and dogs lose their fur through scratching and itchy. Therefore a suitable oral flea medication will save the pets from dropping off their fur - it will work well for [large medium and small furry pets](https://pestpolicy.com/capstar-flea-tablets-for-large-dogs). - Just within a week, my home became flea-free and my pets why are healing their wounds while also re-growing their fur at a fast rate.
+Also, fleas make cats and dogs lose their fur through scratching and itchy. Therefore a suitable oral flea medication will save the pets from dropping off their fur - it will work well for [large medium and small furry pets](https://pestpolicy.com/capstar-flea-tablets-for-large-dogs).- Just within a week, my home became flea-free and my pets why are healing their wounds while also re-growing their fur at a fast rate.
 
 Within a month none of my pets showed any signs of physical or mental sickness and that's why I conclude Capstar flea tablets are quite effective. Father the natural flea repellents may not work always to control the bags while some chemical pesticides may irritate the pet's skin.
 

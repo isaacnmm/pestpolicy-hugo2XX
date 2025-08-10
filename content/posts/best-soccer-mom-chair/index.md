@@ -24,7 +24,7 @@ Hence, Ive rounded up some of the 7 best chairs for soccer games for both moms a
 
 ##  Review: 7 Best Soccer Mom Chair
 
-###  [1. GCI Outdoor Rocker Portable Folding Rocking Chair](https://www.amazon.com/dp/B00D4JYR62/?tag=p-policy-20)- Best Soccer Mom Chair
+###  [1. GCI Outdoor Rocker Portable Folding Rocking Chair](https://www.amazon.com/dp/B00D4JYR62/?tag=p-policy-20)-Best Soccer Mom Chair
 
 If youre looking for a unique and comfortable Soccer Mom Chair, the GCI Outdoor Freestyle rocking chair would be a great pick.
 
@@ -38,7 +38,7 @@ More than that, the soccer mom chair features padded armrests and a beverage hol
 
 Cons: - Some people have experienced squeaking after repeated use - The pads on the armrests are not long enough.
 
-###  [2. Picnic Time Oniva Sports Chair](https://www.amazon.com/dp/B004N9DGRS/?tag=p-policy-20)- Soccer Mom Chair
+###  [2. Picnic Time Oniva Sports Chair](https://www.amazon.com/dp/B004N9DGRS/?tag=p-policy-20)-Soccer Mom Chair
 
 If youre looking for a multi-functional sports chair that you can actually use during picnics, camping, or watching your child comfortably from the sidelines pick the Picnic Time Oniva folding Sports Chair.
 
@@ -54,7 +54,7 @@ Furthermore, the chair is easy to carry and transport. It has carrying handles b
 
 Cons: - A reviewer complained that the snap hooks were not as durable as expected
 
-###  [3. Coleman Quattro Lax Double Quad Chair](https://www.amazon.com/dp/B00TFYZJFI/?tag=p-policy-20)- Soccer Games Chairs
+###  [3. Coleman Quattro Lax Double Quad Chair](https://www.amazon.com/dp/B00TFYZJFI/?tag=p-policy-20)-Soccer Games Chairs
 
 If you love tagging along with a friend, spouse, or relative to attend your childs soccer match, then the Coleman Quattro Lax Double Quad Chair would be an ideal choice for you. Its a two in one chair. That means it can accommodate two people comfortably.
 

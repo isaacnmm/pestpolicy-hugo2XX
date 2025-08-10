@@ -14,7 +14,7 @@ tags:
 layout: post
 ---
 
-[[Dog](https://pestpolicy.com/best-dog-backpack-carrier-for-hiking/) [Ear](https://pestpolicy.com/best-ear-mite-medicine-for-dogs/) Mites](https://www.petmd. com/dog/conditions/infectious-parasitic/how-treat-ear-mites-dogs) and [Yeast Infections](https://vcahospitals.com/know-your-pet/yeast-dermatitis-in-dogs) are major problems facing most dog/pet owners.
+[[Dog](https://pestpolicy.com/best-dog-backpack-carrier-for-hiking/)[Ear](https://pestpolicy.com/best-ear-mite-medicine-for-dogs/) Mites](https://www.petmd.com/dog/conditions/infectious-parasitic/how-treat-ear-mites-dogs) and [Yeast Infections](https://vcahospitals.com/know-your-pet/yeast-dermatitis-in-dogs)are major problems facing most dog/pet owners.
 
 Could you be having challenges while differentiating between the Dog Ear Mites and Yeast Infections? Then, this article is for you. **Dog Ear Mites (also known as Otodectes cynotis mites) is a parasitic infection that is caused by tiny parasites called ear mites. ** **It is characterized by red inflammation and severe irritations.
 
@@ -112,7 +112,7 @@ Though Dog Ear Mites and Yeast Infections have close similarities in symptoms, t
 
 ##  Sources:
 
-1. [Dog Ear Mite Infestation: a Possible Problem in Public - NCBI](https://www.ncbi. nlm. nih. gov/pmc/articles/PMC3385579/) 2. [Fungal Infections in Dogs - Dog Owners - Merck Veterinary](https://www.merckvetmanual. com/dog-owners/disorders-affecting-multiple-body-systems-of-dogs/fungal-infections-in-dogs) 3. [Ear mite infestation in two dogs and its therapy - Semantic](https://pdfs.semanticscholar.
+1. [Dog Ear Mite Infestation: a Possible Problem in Public - NCBI](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3385579/)2. [Fungal Infections in Dogs - Dog Owners - Merck Veterinary](https://www.merckvetmanual.com/dog-owners/disorders-affecting-multiple-body-systems-of-dogs/fungal-infections-in-dogs)3. [Ear mite infestation in two dogs and its therapy - Semantic](https://pdfs.semanticscholar.
 
-org/d7de/fd2f45d76a05e38dce1153d104d26e2f0705. pdf)
+org/d7de/fd2f45d76a05e38dce1153d104d26e2f0705.pdf)
 

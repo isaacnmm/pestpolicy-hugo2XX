@@ -17,9 +17,9 @@ layout: post
 
 You can spray lacquer with HVLP like your spray finish (light coats) on dry wood that has been finish-sanded for a minimum of 220 grit. HVLPsprayers are better than the conventional spray guns as they'll reduce the overspray and bounce-back.
 
-- But an airless sprayer with appropriate tips can be used in spraying thick liquids such as latex housepaint or thin liquids including varnish, lacquer, and[stains for your playsets](https://pestpolicy.com/[best](https://pestpolicy.com/best-chipmunk-repellents/)-stain-for-swing-set/), woodwork, cabinets, and doors.
+- But an airless sprayer with appropriate tips can be used in spraying thick liquids such as latex housepaint or thin liquids including varnish, lacquer, and[stains for your playsets](https://pestpolicy.com/[best](https://pestpolicy.com/best-chipmunk-repellents/)-stain-for-swing-set/),woodwork, cabinets, and doors.
 
-Thus, if you're refinishing old lacquer or getting that vintage color on your new woodwork pieces, the lacquer delivered with an [HVLP](https://pestpolicy.com/best-hvlp-paint-sprayer-for-cabinets/) spray gun will produce that subtle texture and tactile sense.
+Thus, if you're refinishing old lacquer or getting that vintage color on your new woodwork pieces, the lacquer delivered with an [HVLP](https://pestpolicy.com/best-hvlp-paint-sprayer-for-cabinets/)spray gun will produce that subtle texture and tactile sense.
 
 ##  7 Best HVLP Spray Gun for Lacquer
 
@@ -63,7 +63,7 @@ Wagner-Spraytech 0518080 is simple for your finishing work, including smaller or
 
 The electric sprayer is corded and hence enables easy recharging.
 
-- Like other WAGNER FLEXO, the devices are also simple to use and equally[user-friendly](https://pestpolicy.com/wagner-flexio-3000/), allowing precise and straightforward direction. You can use oil-based latex, sealers, and stains. Besides taking care of the sprayer weight, Wagner-Spraytech 0518080 comes with the 20-Foot Flexible Hose, and hence you won't have to move the device regularly.
+- Like other WAGNER FLEXO, the devices are also simple to use and equally[user-friendly](https://pestpolicy.com/wagner-flexio-3000/),allowing precise and straightforward direction. You can use oil-based latex, sealers, and stains. Besides taking care of the sprayer weight, Wagner-Spraytech 0518080 comes with the 20-Foot Flexible Hose, and hence you won't have to move the device regularly.
 
 The device allows easy maintenance and cleaning if the machine gets dirty and down - making you have less cleaning time without compromising on the components. Pros: - The sprayer settings (0. 5 inches to 12 inches) allow you to get diagonal, vertical, and horizontal spray patterns. - You'll require to allowing the device's nozzle and its air cap to your spraying area.
 

@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 
-May be you have come across various species of lizards in your home, park or zoo and wonder whether they have backbones or not. How could their internal organs be protected or supported? Could they be having similar anatomy as mammals or other animals? **So, Are Lizards Vertebrates or Invertebrates? The simple answer is, all species of [Lizard](https://pestpolicy.com/are-lizards-poisonous/) are vertebrates (they have backbone also called the vertebral column/spinal column).
+May be you have come across various species of lizards in your home, park or zoo and wonder whether they have backbones or not. How could their internal organs be protected or supported? Could they be having similar anatomy as mammals or other animals? **So, Are Lizards Vertebrates or Invertebrates? The simple answer is, all species of [Lizard](https://pestpolicy.com/are-lizards-poisonous/)are vertebrates (they have backbone also called the vertebral column/spinal column).
 
 ** **The lizards spinal column is divided into cervical, dorsal, caudal regions and sacral apart from legless lizards whose backbone is divided into caudal and precaudal. ** **The main function of the backbone is to offer protection to the spinal cord. It also provides an option for attachment of body muscles. **
 
@@ -83,7 +83,7 @@ In addition, the backbone provides extra support and protection to internal orga
 
 ##  Is lizard a reptile or amphibian
 
-All lizards are reptiles including [monitor lizards](https://pestpolicy.com/are-monitor-lizards-poisonous/). They are cold-blooded animals (ectothermic). Unlike amphibians (which have smooth and slippery skin), Lizards have skin which is covered with scare this one features of all reptiles. The following are characteristics/fears of reptiles (lizards): **1. They are cold blooded**.
+All lizards are reptiles including [monitor lizards](https://pestpolicy.com/are-monitor-lizards-poisonous/).They are cold-blooded animals (ectothermic). Unlike amphibians (which have smooth and slippery skin), Lizards have skin which is covered with scare this one features of all reptiles. The following are characteristics/fears of reptiles (lizards): **1. They are cold blooded**.
 
 This means that their body temperature changes according to the change in temperature on its environment.
 
@@ -115,7 +115,7 @@ Lizards such as Komodo dragon and tree crocodile are known for predation culture
 
 Lizards are able to camouflage and escape any predator. For example, the chameleon lizards are able to change color randomly to march the background and use this mechanism to escape the predator.
 
-The [venomous lizards use the poison to paralyze](https://pestpolicy.com/are-lizards-poisonous/) their prey before swallowing them. The strong tail of predator lizards is used a weapon to grasp and knock down their prey or defend themselves in case of attack.
+The [venomous lizards use the poison to paralyze](https://pestpolicy.com/are-lizards-poisonous/)their prey before swallowing them. The strong tail of predator lizards is used a weapon to grasp and knock down their prey or defend themselves in case of attack.
 
 Lizards often escape in case they notice dangers to hideouts that make predators difficult to reach them e. g. under the roof, in the thorn bushes or holes/cracks. **2. The lizard Habitat. ** Lizards are found everywhere in the world. They mostly live on the ground. Lizards do not make nests. You will spot some lizards in trees, marshy areas or riverbanks (Nile monitor and Asian Water monitor)
 

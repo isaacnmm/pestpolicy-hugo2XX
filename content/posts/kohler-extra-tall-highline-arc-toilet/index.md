@@ -39,7 +39,7 @@ While it is a two-piece design, which might be a minor aesthetic compromise for 
 Ultimately, the Kohler Highline Arc Extra Tall toilet stands out as a well-engineered fixture that elevates daily comfort while delivering the powerful and efficient flushing performance that homeowners expect from a leading brand like Kohler.
 ---
 
-When selecting a new toilet, functionality, efficiency, and comfort are paramount. For many, a standard-height toilet can present challenges, especially for taller individuals, the elderly, or those with mobility issues. [Kohler](https://pestpolicy.com/kohler-rethinks-bathroom-medicine-cabinets-with-maxstow-model/), a renowned leader in plumbing fixtures, addresses this need with its **Highline Arc Extra Tall Toilet**.
+When selecting a new toilet, functionality, efficiency, and comfort are paramount. For many, a standard-height toilet can present challenges, especially for taller individuals, the elderly, or those with mobility issues. [Kohler](https://pestpolicy.com/kohler-rethinks-bathroom-medicine-cabinets-with-maxstow-model/),a renowned leader in plumbing fixtures, addresses this need with its **Highline Arc Extra Tall Toilet**.
 
 Part of their bestselling Highline family, this model combines Kohler's reputation for quality with an elevated design focused on enhanced accessibility and powerful flushing.
 

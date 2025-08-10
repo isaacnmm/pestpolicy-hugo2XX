@@ -24,7 +24,7 @@ Also, the swings are securely secured using the chain clips at the top of the fr
 
 Read Also: [Swing Sets for Small Backyards](https://pestpolicy.com/best-[swing-sets](https://pestpolicy.com/best-baby-swings-for-sleeping/)-for-small-backyards/).
 
-Due to the high-density polyethylene and galvanized steel construction, the Lifetime [Monkey](https://pestpolicy.com/how-and-when-to-trim-a-monkey-grass-border/) Bar swing set is resistant from heat and is smooth. Since the swings set frame is constructed from heavy-duty gauge steel, you dont have to worry about it losing its shape and design over time.
+Due to the high-density polyethylene and galvanized steel construction, the Lifetime [Monkey](https://pestpolicy.com/how-and-when-to-trim-a-monkey-grass-border/)Bar swing set is resistant from heat and is smooth. Since the swings set frame is constructed from heavy-duty gauge steel, you dont have to worry about it losing its shape and design over time.
 
-Read Also: [Tree Swings Reviews](https://pestpolicy.com/best-tree-swing/) Also, the set has strong support bases that will allow easy installation and will not require cement or the process. Therefore, you can easily move the swing set later to another location.
+Read Also: [Tree Swings Reviews](https://pestpolicy.com/best-tree-swing/)Also, the set has strong support bases that will allow easy installation and will not require cement or the process. Therefore, you can easily move the swing set later to another location.
 

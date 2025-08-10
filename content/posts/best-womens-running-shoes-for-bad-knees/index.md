@@ -40,13 +40,13 @@ The heel cup is well structured to deliver a secure lockdown at the back of the 
 
 The upper of Brooks GTS 20 features an updated dual-layer FlexFit material thats engineered to provide a stretchy and flexible fit to avert overpronation. The upper is also highly breathable to allow entry of fresh air into the shoes.
 
-The 3D Fit Print design reinforces the structural integrity of the upper. The forefoot section is also spacious enough to accommodate [wide footed runners](https://pestpolicy.com/best-[running-shoes](https://pestpolicy.com/best-womens-running-shoes-for-shin-splints/)-for-men-with-wide-feet/). The padded tongue helps to distribute pressure evenly on top of the foot. Hence, helps to prevent discomfort or pain on top of the foot.
+The 3D Fit Print design reinforces the structural integrity of the upper. The forefoot section is also spacious enough to accommodate [wide footed runners](https://pestpolicy.com/best-[running-shoes](https://pestpolicy.com/best-womens-running-shoes-for-shin-splints/)-for-men-with-wide-feet/).The padded tongue helps to distribute pressure evenly on top of the foot. Hence, helps to prevent discomfort or pain on top of the foot.
 
 Pros: - Provides excellent stability - Comfortable - Provides snug fit - Excellent cushioning - Spacious toe box - Excellent arch support - Durable and lightweight
 
 Cons: - Limited color variations
 
-###  [2. New Balance Women's Fresh Foam 1080 V10 [Running](https://pestpolicy.com/best-mens-running-shoes-for-bad-knees/) Shoe](https://www.amazon.com/dp/B07RR4983M/?tag=p-policy-20)
+###  [2. New Balance Women's Fresh Foam 1080 V10 [Running](https://pestpolicy.com/best-mens-running-shoes-for-bad-knees/)Shoe](https://www.amazon.com/dp/B07RR4983M/?tag=p-policy-20)
 
 Wearing the correct shoes can help alleviate knee pain and other pains on your hips, feet, or lower back. The New Balance Women's Fresh Foam 1080 V10 is a perfect choice for any runner experiencing such pains. Its well-cushioned, lightweight, and highly durable.
 
@@ -170,7 +170,7 @@ Therefore, choosing breathable running shoes will prevent excess heat, sweat, an
 
 ###  Stability
 
-Runners who overpronate may need to invest in [running shoes](https://pestpolicy.com/best-shoes-for-running-on-pavement/) that deliver stability to the foot. Hence, prevent the inward rolling of feet that may cause flat feet. These shoes have higher arch support to provide maximum comfort.
+Runners who overpronate may need to invest in [running shoes](https://pestpolicy.com/best-shoes-for-running-on-pavement/)that deliver stability to the foot. Hence, prevent the inward rolling of feet that may cause flat feet. These shoes have higher arch support to provide maximum comfort.
 
 For runners who underpronate they will need shoes with smaller arch support and those that prevent foot rolling. Therefore, if you have any of these conditions, its important that you be keen when choosing your running shoes.
 

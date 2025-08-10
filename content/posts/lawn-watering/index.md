@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 
-Watering a [lawn](https://pestpolicy.com/10-essential-lawn-and-garden-tools-for-fall/) seems like a simple task: just turn on the sprinklers until the grass looks wet, right? In reality, proper lawn watering is a nuanced science, and getting it wrong can lead to more problems than solutions. Overwatering wastes a precious resource, encourages shallow root growth, and creates an ideal environment for fungal diseases and pests.
+Watering a [lawn](https://pestpolicy.com/10-essential-lawn-and-garden-tools-for-fall/)seems like a simple task: just turn on the sprinklers until the grass looks wet, right? In reality, proper lawn watering is a nuanced science, and getting it wrong can lead to more problems than solutions. Overwatering wastes a precious resource, encourages shallow root growth, and creates an ideal environment for fungal diseases and pests.
 
 Underwatering, on the other hand, leads to a brown, stressed lawn susceptible to heat damage and thinning. The secret to a lush, healthy, and resilient turf lies in understanding how much water your lawn truly needs and how often it should receive it.
 

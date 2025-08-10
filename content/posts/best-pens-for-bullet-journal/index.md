@@ -14,7 +14,7 @@ tags:
 layout: post
 ---
 
-Using the right pen for your [bullet](https://pestpolicy.com/best-bullet-journal-notebook/) journal can make all the difference. Whether youre a beginner or a seasoned bullet journal enthusiast, having smooth-writing, vibrant, and smudge-free pens is essential. Lets explore some of the best pens available on Amazon and why theyre perfect for enhancing your journaling experience.
+Using the right pen for your [bullet](https://pestpolicy.com/best-bullet-journal-notebook/)journal can make all the difference. Whether youre a beginner or a seasoned bullet journal enthusiast, having smooth-writing, vibrant, and smudge-free pens is essential. Lets explore some of the best pens available on Amazon and why theyre perfect for enhancing your journaling experience.
 
 ##  Best Pens for Bullet Journal
 

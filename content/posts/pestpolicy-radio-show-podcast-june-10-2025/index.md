@@ -48,7 +48,7 @@ Here are some innovative home products making waves in 2025:
 * **"The Homeowner's Handbook: Essential DIY Repairs"** by Bob Vila * **"Ultimate Guide to Plumbing"** by Creative Homeowner * **"Drywall: Professional Techniques for Great Results"** by Myron Ferguson * **EPA WaterSense Program:** For tips on water efficiency in your home. * **Consumer Reports:** For reviews and guides on home appliances and building materials.
 ---
 
-Welcome to the [PestPolicy](https://pestpolicy.com/pestpolicy-radio-show-june-20-2025/) [Radio](https://pestpolicy.com/pestpolicy-radio-show-june-21-2025/) Show & Podcast, where we bring you the latest in pest management and, as a bonus, essential home care tips to keep your sanctuary in top shape!
+Welcome to the [PestPolicy](https://pestpolicy.com/pestpolicy-radio-show-june-20-2025/)[Radio](https://pestpolicy.com/pestpolicy-radio-show-june-21-2025/) Show & Podcast, where we bring you the latest in pest management and, as a bonus, essential home care tips to keep your sanctuary in top shape!
 
 Today, June 10, 2025, we're diving into some common household headaches and offering practical, DIY-friendly solutions that can save you time, money, and future frustration.
 

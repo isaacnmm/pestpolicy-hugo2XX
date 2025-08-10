@@ -81,7 +81,7 @@ Also, cleaning the spaces won't help remove the dust mites.
 
 ##  Conclusion
 
-You can use covers (dust-proof), [mattresses covers](https://pestpolicy.com/best-bed-bug-mattress-encasements/), blankets, and sheets for bed bugs. I would also recommend using steamers to kill bed bugs to clean up even the dead [bed bugs](https://pestpolicy.com/dead-bed-bugs/). For mites, look output for any allergy signs, including stuffy nose, watery eyes, runny nose, and sneezing.
+You can use covers (dust-proof), [mattresses covers](https://pestpolicy.com/best-bed-bug-mattress-encasements/),blankets, and sheets for bed bugs. I would also recommend using steamers to kill bed bugs to clean up even the dead [bed bugs](https://pestpolicy.com/dead-bed-bugs/).For mites, look output for any allergy signs, including stuffy nose, watery eyes, runny nose, and sneezing.
 
 Organic methods to control mites include washing plants using steam from a bug blaster.
 

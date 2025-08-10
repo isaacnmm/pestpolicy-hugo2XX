@@ -15,11 +15,11 @@ tags:
 layout: post
 ---
 
-Gnat bite transmits diseases such as carrison, sandy fever, and river blindness among others. Therefore, [preventive measures](https://pestpolicy.com/best-gnat-repellents/) should be undertaken whatsoever. So, can [gnats](https://pestpolicy.com/best-gnat-repellents/) bite really! How and why, if so? - **Well, YES! the female gnats will bite humans & animals (to feed on blood).
+Gnat bite transmits diseases such as carrison, sandy fever, and river blindness among others. Therefore, [preventive measures](https://pestpolicy.com/best-gnat-repellents/)should be undertaken whatsoever. So, can [gnats](https://pestpolicy.com/best-gnat-repellents/)bite really! How and why, if so? - **Well, YES! the female gnats will bite humans & animals (to feed on blood).
 
 But male gnats don't bite humans since they feed on plant juice and flower nectar.
 
-** - **Unlike bees and wasps, gnats don't sting (the insects have a jagged saw-like mouthpiece that cuts through the skin when sucking blood). ** Usually, a [Gnat](https://pestpolicy.com/best-gnat-repellent/) bite appears like a tiny reddish spot with moderate swelling on your skin surface. The swelling is itchy and very painful, especially when touched. The pain and swelling may take over a week to heal.
+** - **Unlike bees and wasps, gnats don't sting (the insects have a jagged saw-like mouthpiece that cuts through the skin when sucking blood). ** Usually, a [Gnat](https://pestpolicy.com/best-gnat-repellent/)bite appears like a tiny reddish spot with moderate swelling on your skin surface. The swelling is itchy and very painful, especially when touched. The pain and swelling may take over a week to heal.
 
 Related: Fly Spray for Horses
 

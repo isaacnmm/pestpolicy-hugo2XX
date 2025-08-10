@@ -14,7 +14,7 @@ tags:
 layout: post
 ---
 
-[Xbox One Elite](https://www.amazon. com/dp/B00ZDNNRB8/? tag=p-policy-20) is targeted for highly aggressive gamers who can tweak the [controllers](https://pestpolicy.com/best-controller-for-retropie/) using some third-party fixtures to achieve increased precision which implies it is a highly customizable [PC Wireless [controller](https://pestpolicy.com/best-controller-for-rocket-league/)](https://pestpolicy.com/).
+[Xbox One Elite](https://www.amazon.com/dp/B00ZDNNRB8/?tag=p-policy-20)is targeted for highly aggressive gamers who can tweak the [controllers](https://pestpolicy.com/best-controller-for-retropie/)using some third-party fixtures to achieve increased precision which implies it is a highly customizable [PC Wireless controller](https://pestpolicy.com/).
 
 It feels nice to hold the Xbox One Elite as it has good weight, with rubber and metal parts installed appropriately to give it an excellent look and feel.
 

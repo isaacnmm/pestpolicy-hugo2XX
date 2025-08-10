@@ -19,7 +19,7 @@ Heres how to get rid of bed bugs fast. When you wake up and discover blisters, r
 
 ##  How to Get Rid Of Bed Bugs Fast
 
-These bugs suck blood from humans and leave them with itchy welts. [Bed bugs](https://pestpolicy.com/does-lavender-kill-[bed-bugs](https://pestpolicy.com/how-to-get-rid-of-bed-bug-bite-scars/)/) can invade your headboards, box springs, bed frames, and even sleeping mattresses. It's no surprise that my readers asked me to craft a comprehensive guide on h [ow to get rid of bed bugs. ](https://www.bedbugs. umn.
+These bugs suck blood from humans and leave them with itchy welts. [Bed bugs](https://pestpolicy.com/does-lavender-kill-[bed-bugs](https://pestpolicy.com/how-to-get-rid-of-bed-bug-bite-scars/)/)can invade your headboards, box springs, bed frames, and even sleeping mattresses. It's no surprise that my readers asked me to craft a comprehensive guide on h [ow to get rid of bed bugs. ](https://www.bedbugs.umn.
 
 edu/bed-bug-control-in-residences)
 
@@ -29,7 +29,7 @@ An excellent step to eliminating bed bugs is by vacuuming your home. Concentrati
 
 On this note, it is wise to stop their tracks by vacuuming every item in each roomseal photo frames, toys, books, clothes, and other materials at home when vacuuming.
 
-Also, you might need to [check drain cleaners](https://pestpolicy.com/best-drain-cleaner//) that'll help you clear drain clogs.
+Also, you might need to [check drain cleaners](https://pestpolicy.com/best-drain-cleaner//)that'll help you clear drain clogs.
 
 ###  2. While Traveling Take Proper Caution:
 
@@ -57,5 +57,5 @@ If you suspect an item in your home to be infested by bed bugs, then waste no ti
 
 ##  Conclusion
 
-Apart from the methods mentioned above, you can [trap bed bugs](https://pestpolicy.com/best-bed-bug-traps/) and dont pick up things in awkward areas. Ensure not to make use of bed bug pesticides and bombs. Repeating the treatment process every three weeks can also help. Items that are under serious infestation by bed bugs should be discarded. Knowing the [signs and symptoms of bed bug](https://pestpolicy.com/can-you-see-bed-bugs/) presence is the first way to get rid of them. Give it a try now.
+Apart from the methods mentioned above, you can [trap bed bugs](https://pestpolicy.com/best-bed-bug-traps/)and dont pick up things in awkward areas. Ensure not to make use of bed bug pesticides and bombs. Repeating the treatment process every three weeks can also help. Items that are under serious infestation by bed bugs should be discarded. Knowing the [signs and symptoms of bed bug](https://pestpolicy.com/can-you-see-bed-bugs/)presence is the first way to get rid of them. Give it a try now.
 

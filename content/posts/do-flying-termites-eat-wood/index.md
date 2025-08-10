@@ -55,7 +55,7 @@ Turning off the lights also helps control those that are attracted to light. If 
 
 If you have noticed these flying termites, its a signal that you need to take action against insect control in your area. - It is an indication that the termites have been hiding in your vicinity and are now going to multiply even more. - Flying termites are actually hard to control because they appear within a very short time and quickly disappear into their nests after mating.
 
-The queen is also very much protected and killing it is hard making it impossible to control the rest of the termites. It will continue laying eggs and releasing more termites into your house. Using pest control products may work but a [professional pest control expert](https://pestpolicy.com/termite-fumigation/) will do a much better job in eliminating them
+The queen is also very much protected and killing it is hard making it impossible to control the rest of the termites. It will continue laying eggs and releasing more termites into your house. Using pest control products may work but a [professional pest control expert](https://pestpolicy.com/termite-fumigation/)will do a much better job in eliminating them
 
 ##  Conclusion
 

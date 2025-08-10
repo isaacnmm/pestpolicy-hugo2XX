@@ -14,7 +14,7 @@ tags:
 layout: post
 ---
 
-The Best Shoes for Box Jumps are the [Inov-8 Mens F-Lite 235 v3](https://www.amazon. com/dp/B07KXSF248/tag=p-policy-20) and [Reebok Men's Nano X1 Cross Trainer](https://www.amazon. com/dp/B08W5NGZCN/? tag=p-policy-20). These two CrossFit trainers top my list for box jump shoes. They have excellent forefoot flexibility to allow unrestricted metatarsal movement. Thus, efficient jumping.
+The Best Shoes for Box Jumps are the [Inov-8 Mens F-Lite 235 v3](https://www.amazon.com/dp/B07KXSF248/tag=p-policy-20)and [Reebok Men's Nano X1 Cross Trainer](https://www.amazon.com/dp/B08W5NGZCN/?tag=p-policy-20).These two CrossFit trainers top my list for box jump shoes. They have excellent forefoot flexibility to allow unrestricted metatarsal movement. Thus, efficient jumping.
 
 They also deliver reliable traction and grip on both outdoor and indoor surfaces.
 
@@ -26,7 +26,7 @@ Related: Best Shoes for Plyometrics
 
 ##  Review: 7 Best Shoes for Box Jumps
 
-###  [1. Reebok Men's Nano X1 Cross Trainer](https://www.amazon.com/dp/B08W5NGZCN/?tag=p-policy-20)- Shoes for Box Jumps
+###  [1. Reebok Men's Nano X1 Cross Trainer](https://www.amazon.com/dp/B08W5NGZCN/?tag=p-policy-20)-Shoes for Box Jumps
 
 If youre looking for an all-around sneaker that will allow you to do box jumps plus other workouts pick the Nano X1. This is one of the best shoes For CrossFit and Insanity. It will take you through various exercises without getting a biting.
 

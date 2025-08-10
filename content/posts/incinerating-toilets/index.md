@@ -16,7 +16,7 @@ layout: post
 ---
 ---
 ## How Incinerating Toilets Work
-The operation of an incinerating [toilet](https://pestpolicy.com/high-end-toilet-brands/) is remarkably straightforward in concept, though technologically advanced in execution:
+The operation of an incinerating [toilet](https://pestpolicy.com/high-end-toilet-brands/)is remarkably straightforward in concept, though technologically advanced in execution:
 1. **Waste Collection:** After use, waste (both solid and liquid) drops into a combustion chamber lined with a special non-stick material. A bowl liner (typically made of paper or a similar combustible material) is often used to keep the bowl clean and aid in transferring waste to the chamber. 2. **Lid Closure/Activation:** The user closes the lid, which often triggers the incineration cycle. 3.
 **Heating Element Activation:** An electric heating element (or sometimes a gas burner) in the combustion chamber rapidly raises the temperature to extremely high levels (often over 1000F or 550C). 4. **Incineration Process:** The high heat completely incinerates the waste, reducing it to a small amount of sterile, odorless ash. Water content evaporates as steam, which is vented, and solid waste burns completely.
 The incineration cycle typically lasts between 60 to 90 minutes, depending on the model and waste load. 5. **Cooling Down:** After the incineration cycle, the unit cools down. 6. **Ash Collection:** The resulting ash falls into an ash pan, which only needs to be emptied periodically (e.g., every few days or weeks, depending on usage). The volume of ash is minuscule compared to the original waste. 7.

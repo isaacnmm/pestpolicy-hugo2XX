@@ -24,7 +24,7 @@ Borax, a naturally occurring mineral, is toxic to ants but safe for humans and p
 
 ###  2. Prepare Borax Bait
 
-To create an effective [ant](https://pestpolicy.com/ant-control-in-bellingham/) bait, mix [borax](https://pestpolicy.com/borax-flea-killer/) with a sweet attractant such as sugar, honey, or syrup. Heres a simple recipe: - Mix 1 tablespoon of borax with 3 tablespoons of sugar or honey. - Add enough water to create a thick paste. - Place the mixture on small pieces of cardboard or in shallow containers near ant trails.
+To create an effective [ant](https://pestpolicy.com/ant-control-in-bellingham/)bait, mix [borax](https://pestpolicy.com/borax-flea-killer/)with a sweet attractant such as sugar, honey, or syrup. Heres a simple recipe: - Mix 1 tablespoon of borax with 3 tablespoons of sugar or honey. - Add enough water to create a thick paste. - Place the mixture on small pieces of cardboard or in shallow containers near ant trails.
 
 ###  3. Place the Bait Strategically
 

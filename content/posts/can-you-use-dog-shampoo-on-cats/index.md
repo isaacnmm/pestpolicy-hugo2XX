@@ -23,11 +23,11 @@ So, caring for a cat can be easy, but there are some instances where your feline
 
 So, if you're worried if you can use dog shampoo for your cats; this article is for you! - **The answer: Simply, NO. Most dog shampoos have harsh chemicals, ingredients (like tar and permethrin), and high pH that can be toxic to cats. ** - **Thus, only you use feline-friendlyshampoo for grooming your kitty. Also, If you use dog products on your cat, consult with your vet first before trying it.
 
-** Dog shampoo and other flea-control products (even those with natural ingredients) put cats at a [greater health risk](https://www.quora. com/Is-it-ok-to-use-dog-shampoo-on-cats) than it does to its canine cousins.
+** Dog shampoo and other flea-control products (even those with natural ingredients) put cats at a [greater health risk](https://www.quora.com/Is-it-ok-to-use-dog-shampoo-on-cats)than it does to its canine cousins.
 
 ##  Why Must You Avoid Using Dog Shampoo On Cats?
 
-Many people wonder why they should bathe their cats as self-grooming is a natural feline instinct. There are two things you might want to consider: - You may need to wash off something your cat got into and get it out of his fur so that he won't ingest it when grooming. - The second reason, which is probably more common, is that your cat may have [fleas](https://pestpolicy.com/best-dog-backpack-carrier-for-hiking/) or other parasites.
+Many people wonder why they should bathe their cats as self-grooming is a natural feline instinct. There are two things you might want to consider: - You may need to wash off something your cat got into and get it out of his fur so that he won't ingest it when grooming. - The second reason, which is probably more common, is that your cat may have [fleas](https://pestpolicy.com/best-dog-backpack-carrier-for-hiking/)or other parasites.
 
 So, what should you use instead?
 
@@ -35,11 +35,11 @@ So, what should you use instead?
 
 ###  1. Harmful Chemicals like Permethrin and Tar
 
-Using [dog](https://pestpolicy.com/best-dog-beds/) shampoo on cats is not a good idea because some shampoos contain chemicals that are harmful to cats.
+Using [dog](https://pestpolicy.com/best-dog-beds/)shampoo on cats is not a good idea because some shampoos contain chemicals that are harmful to cats.
 
 Some of these chemicals include permethrin, selenium sulfite, tea tree oils, and coal tar, etc.
 
-You should not use dog shampoo on cats, just like you would never use baby shampoo on a cat to avoid the [long-lasting effects](https://pestpolicy.com/can-i-use-baby-shampoo-on-my-cat/). - Some shampoos that are safe for cats include Oatmeal & Aloe Shampoo, Herbal Conditioning Hair Rinse, Honeydew Melon Pet Shampoo, and more.
+You should not use dog shampoo on cats, just like you would never use baby shampoo on a cat to avoid the [long-lasting effects](https://pestpolicy.com/can-i-use-baby-shampoo-on-my-cat/).- Some shampoos that are safe for cats include Oatmeal & Aloe Shampoo, Herbal Conditioning Hair Rinse, Honeydew Melon Pet Shampoo, and more.
 
 - If you have a kitten or older cat with long hair then it is best to use some type of conditioner after shampooing especially if your home is dry.
 
@@ -105,5 +105,5 @@ You should only wash kittens with shampoos made especially for cats as well beca
 
 If you want your pet to feel clean after its bathtime session, I recommend some of these natural substitutes to wash your cat; - Lemon spray (use this instead of bleach), - Aloe vera juice (great for dry or irritated skin) - Cedar chips (for waterproofing), - Peppermint extract(keeps fleas away). - Apple Cider Vinegar I would love to hear what products other pet owners have found that they like best for their kitty!
 
-What natural alternatives did you try? Let me know in the comments below or at [@PestPolicy)](https://twitter.com/pestpolicy) on Twitter! "
+What natural alternatives did you try? Let me know in the comments below or at [@PestPolicy)](https://twitter.com/pestpolicy)on Twitter! "
 

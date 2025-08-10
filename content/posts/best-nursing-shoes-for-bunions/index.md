@@ -32,7 +32,7 @@ These nursing clogs feature a slip-resistant Polyurethane outsole that ensures y
 
 The upper features an easy to clean leather that has a spacious toe box that provides enough room for toe wiggling while soothing painful bunions. The Padded instep collar provides extra support and comfort to feet.
 
-This professional clog from Dansko also features a soft breathable leather lining and PU foam footbed that provides excellent temperature control allowing a cool and comfortable in-[shoe](https://pestpolicy.com/best-non-slip-shoes-for-standing-all-day/) environment. With this nursing shoe, youll never experience sweaty feet or excess heat inside the shoe.
+This professional clog from Dansko also features a soft breathable leather lining and PU foam footbed that provides excellent temperature control allowing a cool and comfortable in-[shoe](https://pestpolicy.com/best-non-slip-shoes-for-standing-all-day/)environment. With this nursing shoe, youll never experience sweaty feet or excess heat inside the shoe.
 
 The midsole also provides excellent arch support for all-day support and comfort. You can also insert custom orthotics for extra support and comfort.
 
@@ -122,7 +122,7 @@ Cons: - You might need to order a size higher
 
 ###  [7. HOKA ONE ONE Men's Bondi 6 Running Shoe](https://www.amazon.com/dp/B0788TX9S5/?tag=p-policy-20)
 
-HOKA ONE ONE Bondi 6 is a highly versatile shoe that works as excellent work and [running shoe](https://pestpolicy.com/best-shoes-for-running-on-pavement/). It's underfoot is designed to prevent the wearer from straining as they walk or run.
+HOKA ONE ONE Bondi 6 is a highly versatile shoe that works as excellent work and [running shoe](https://pestpolicy.com/best-shoes-for-running-on-pavement/).It's underfoot is designed to prevent the wearer from straining as they walk or run.
 
 The back section of Bondi 6 has a stretchy Lycra comfort frame that conforms to the natural contours of the foot ensuring proper foot lockdown.
 

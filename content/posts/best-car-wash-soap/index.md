@@ -15,9 +15,9 @@ tags:
 layout: post
 ---
 
-Cleaning your cars with the wrong soap contributes to the deterioration of their paint. Dish soaps are for removing grease and are thus not good for the paint surfaces in your car. - They tend to strip off the wax coating on your car, making them look dull - some people say even[hydrofluoric acid](https://www.sciencedirect. com/science/article/pii/S1226086X12001189).
+Cleaning your cars with the wrong soap contributes to the deterioration of their paint. Dish soaps are for removing grease and are thus not good for the paint surfaces in your car. - They tend to strip off the wax coating on your car, making them look dull - some people say even[hydrofluoric acid](https://www.sciencedirect.com/science/article/pii/S1226086X12001189).
 
-- So, which is the best car wash soap - it must be eco-friendly, safe for humans, and[safe for water life, including fish](http://www.journalajee. com/index. php/AJEE/article/view/9522)? Well, a good car wash soap will give your car a brilliant look and wont damage the paint.
+- So, which is the best car wash soap - it must be eco-friendly, safe for humans, and[safe for water life, including fish](http://www.journalajee.com/index.php/AJEE/article/view/9522)?Well, a good car wash soap will give your car a brilliant look and wont damage the paint.
 
 # **In a Hurry? Check Best Car Wash Soap**
 
@@ -29,9 +29,9 @@ It contains both washing and conditioning properties, which maintains the brilli
 
 Meguiar's G7101FFP comes with a balanced PH and does not exhibit detergent properties. This allows you to wash your car without stripping the wax or affecting the polish. - Its quick drying time wont leave streaks that disfigure your cars body finish. - With its strong concentration, you only need 1-2 cups of soap per gallon of water. That means one gallon will keep your car clean for several days.
 
-If you have clogged drains, [check these drain openers](https://pestpolicy.com/best-drain-cleaner//). For better results, the manufacturer recommends using the soap together with the Grift Guard, separately. You use two buckets where one bucket contains the soap while the other contains water for rinsing. This protects your paint from possible swirls.
+If you have clogged drains, [check these drain openers](https://pestpolicy.com/best-drain-cleaner//).For better results, the manufacturer recommends using the soap together with the Grift Guard, separately. You use two buckets where one bucket contains the soap while the other contains water for rinsing. This protects your paint from possible swirls.
 
-The Good: - Does not strip wax coating on your [car](https://pestpolicy.com/best-paint-remover-for-cars/) - Removes dirt, grease, and grime - Concentrated - Brilliant finish - Pleasant smell The Bad: - Pricey
+The Good: - Does not strip wax coating on your [car](https://pestpolicy.com/best-paint-remover-for-cars/)- Removes dirt, grease, and grime - Concentrated - Brilliant finish - Pleasant smell The Bad: - Pricey
 
 ##  [2. #2 Pick: Mr. Pink Chemical-Guys CWS_402_64 Car-Wash Soap](https://www.amazon.com/dp/B071RKWXKV/?tag=p-policy-20)
 
@@ -43,7 +43,7 @@ With its balanced PH, it wont strip off wax or make the paint or other surfaces 
 
 You can use it for weekly maintenance of your car, motorcycle, truck, among others.
 
-Whats more, the absence of harsh chemicals makes this product safe for you and your family. The Good: - Does not removewax of damaged paint - Foams easily and heavily. - [Safe for your hands](https://www.sciencedirect. com/science/article/pii/S0190962208009237) - Neutral PH - Nice scent The Bad: - Low concentration
+Whats more, the absence of harsh chemicals makes this product safe for you and your family. The Good: - Does not removewax of damaged paint - Foams easily and heavily. - [Safe for your hands](https://www.sciencedirect.com/science/article/pii/S0190962208009237)- Neutral PH - Nice scent The Bad: - Low concentration
 
 ##  [**4. Optimum No Rinse Car Wash ****NR2010Q**](https://www.amazon.com/dp/B00D8DR0AO/?tag=p-policy-20)
 
@@ -99,7 +99,7 @@ Cleaning is part of car maintenance in addition to other routines like changing 
 
 **Foaming** Plenty of suds or foams help in lifting dirt to separate it from the car surface. It also lubricates the dirt and surface, making it possible to flow away from the rinsing surface. - This is an important consideration because it reduces or eliminates the need for scrubbing, which may leave your paint surface with scratches. However, some stains like bird droppings tend to stick on the surfaces and may not be removed without scrubbing.
 
-**PH Level** The sealants and paint finish on your car cannot withstand [high PH levels](https://www.lenosgarage. com/blogs/auto-detailing/4-things-to-look-for-when-choosing-a-car-wash-soap). - High PH soap solutions tend to strip the layer of paint and wax finish making your car lose its original shiny appearance. - Luckily, therere products with a balanced or neutral PH that will not strip the finish coat in your car.
+**PH Level** The sealants and paint finish on your car cannot withstand [high PH levels](https://www.lenosgarage.com/blogs/auto-detailing/4-things-to-look-for-when-choosing-a-car-wash-soap).- High PH soap solutions tend to strip the layer of paint and wax finish making your car lose its original shiny appearance. - Luckily, therere products with a balanced or neutral PH that will not strip the finish coat in your car.
 
 The high PH in most dish soaps makes them unsuitable for cleaning cars.
 
@@ -109,7 +109,7 @@ They are associated with stripping the protective coat and decreasing the durabi
 
 Apart from cleaning, a good product should also leave the paint finish on your car free from streaks or water spots. **Value For Money** This will be determined by the concentration rather than the quantity of the product. - The higher the concentration, the little the amount you need per wash. Thus, a highly concentrated car wash soap will give you several washes before buying another one.
 
-**Safety** Your product of choice should not contain harsh ingredients that might affect you or damage your car's paint. [Follow how to use a plunger](https://pestpolicy.com/how-to-use-a-plunger/). Also, an environmentally friendly product will go a long way to protect the surrounding environment from pollution.
+**Safety** Your product of choice should not contain harsh ingredients that might affect you or damage your car's paint. [Follow how to use a plunger](https://pestpolicy.com/how-to-use-a-plunger/).Also, an environmentally friendly product will go a long way to protect the surrounding environment from pollution.
 
 ##  **Conclusion**
 

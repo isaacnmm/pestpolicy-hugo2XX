@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 
-In this article I've answered this question - can bearded [dragon](https://pestpolicy.com/can-bearded-dragons-eat-bananas/) eat grapes? Grapes, whether red, green, yellow, pink or black, are either seedless or seeded clustered fruits that grow in temperate climate across the world. - **Answer; Yes - bearded dragon can eat grapes - just like other fruits and vegetables!
+In this article I've answered this question - can bearded [dragon](https://pestpolicy.com/can-bearded-dragons-eat-bananas/)eat grapes? Grapes, whether red, green, yellow, pink or black, are either seedless or seeded clustered fruits that grow in temperate climate across the world. - **Answer; Yes - bearded dragon can eat grapes - just like other fruits and vegetables!
 
 Most species of bearded dragon eat grapes comfortably without any challenge they actually like them.
 
@@ -25,7 +25,7 @@ Most species of bearded dragon eat grapes comfortably without any challenge they
 
 ###  1. Rich/strong Fiber Content
 
-Grapes have rich and strong fiber content that is necessary for digestion process of your bearded dragon. For every 150g of grapes, there is 1. 5g to 2. 8g fiber content this is quite high value as compared to other fruits and vegetables. Maybe you have vineyard or have seen some grapes in groceries and wonders whether your [bearded dragon can feed](https://vcahospitals.com/know-your-pet/bearded-dragons-feeding) on them.
+Grapes have rich and strong fiber content that is necessary for digestion process of your bearded dragon. For every 150g of grapes, there is 1. 5g to 2. 8g fiber content this is quite high value as compared to other fruits and vegetables. Maybe you have vineyard or have seen some grapes in groceries and wonders whether your [bearded dragon can feed](https://vcahospitals.com/know-your-pet/bearded-dragons-feeding)on them.
 
 Would it be okay if you feed it with grapes leaves or vines?
 

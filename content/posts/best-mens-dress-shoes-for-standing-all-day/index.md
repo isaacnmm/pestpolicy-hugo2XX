@@ -14,9 +14,9 @@ tags:
 layout: post
 ---
 
-If your job involves standing all day, you need comfortable and supportive footwear to take you through the day. Hence, in this article, I present [Best](https://pestpolicy.com/best-mens-dress-shoes-for-flat-feet/) Men's Dress Shoes for Standing All Day.
+If your job involves standing all day, you need comfortable and supportive footwear to take you through the day. Hence, in this article, I present [Best](https://pestpolicy.com/best-mens-dress-shoes-for-flat-feet/)Men's Dress Shoes for Standing All Day.
 
-Being on feet for long hours can cause vein inflammation. Over time, the inflammation can progress to painful or chronic varicose veins. [Excessive standing](https://www.ncbi. nlm. nih. gov/pmc/articles/PMC4591921/) may also cause pain on joints, spine, knees, hips, feet, and lower backpain. Therefore, its crucial to pick supportive shoes that are ideal for all-day standing.
+Being on feet for long hours can cause vein inflammation. Over time, the inflammation can progress to painful or chronic varicose veins. [Excessive standing](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4591921/)may also cause pain on joints, spine, knees, hips, feet, and lower backpain. Therefore, its crucial to pick supportive shoes that are ideal for all-day standing.
 
 Related: Best Non-Slip Shoes for Standing All Day
 
@@ -52,7 +52,7 @@ The interior of Ecco Men's Helsinki Slip-On features a soft textile lining that 
 
 The outsole is durable and well designed. It features a Direct Injection Polyurethane compound that provides you flexibility and a springy feel when you walk or stand the whole day. The outsole also offers reliable traction on various surfaces.
 
-Pros: - Durable outsole with reliable traction - Comfortable - Removable insoles - Roomy toe box ideal for[people with wide feet](https://pestpolicy.com/best-running-shoes-for-men-with-wide-feet/) - Durable leather upper - Simple slip-on shoe - Breathable interior lining
+Pros: - Durable outsole with reliable traction - Comfortable - Removable insoles - Roomy toe box ideal for[people with wide feet](https://pestpolicy.com/best-running-shoes-for-men-with-wide-feet/)- Durable leather upper - Simple slip-on shoe - Breathable interior lining
 
 Cons: - Some customers complained about the shoes poor workmanship
 
@@ -160,7 +160,7 @@ Pick shoes with reliable breathability. One that would allow free circulation of
 
 ###  Maintain a Proper Posture
 
-Poor posture can cause severe pain and injury to feet, [back](https://pestpolicy.com/best-dress-shoes-for-back-pain/), hips, heels, and other places. Poor posture cause one to lean backward or forward leading to poor body alignment causing unnecessary strain on feet and heels, which lead to conditions like plantar fasciitis.
+Poor posture can cause severe pain and injury to feet, [back](https://pestpolicy.com/best-dress-shoes-for-back-pain/),hips, heels, and other places. Poor posture cause one to lean backward or forward leading to poor body alignment causing unnecessary strain on feet and heels, which lead to conditions like plantar fasciitis.
 
 However, you can correct your posture by paying attention to how you stand or check the position of your feet and then intentionally force them to maintain a natural or the correct posture. You can also decide to use custom orthotics as they help to distribute weight evenly.
 

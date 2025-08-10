@@ -16,7 +16,7 @@ layout: post
 
 Aluminium boats are great for fishing as they're durable and lightweight. But, sometimes, they may get abused or overused. So, in this post, I'll take you through how to paint an aluminium boat-boats/) (step by step).
 
-A new paint coat on the aluminium [boat](https://pestpolicy.com/how-to-paint-a-fiberglass-boat/) will give a new life. We'll help you (affordably) change your abused, neglected, and ugly aluminium boat to look like gel-coated fibreglass ready to go fishing for many years. Below I've outlined the detailed steps of painting an aluminium boat to (hopefully) make your boat-painting project much more straightforward.
+A new paint coat on the aluminium [boat](https://pestpolicy.com/how-to-paint-a-fiberglass-boat/)will give a new life. We'll help you (affordably) change your abused, neglected, and ugly aluminium boat to look like gel-coated fibreglass ready to go fishing for many years. Below I've outlined the detailed steps of painting an aluminium boat to (hopefully) make your boat-painting project much more straightforward.
 
 Luckily, with the correct formula, you won't need professional shipwright or expert painters. *To paint your aluminium boat Sand off the boat surface, scrub and pressure-wash the aluminium off contaminants and dust, apply the primer, paint about two paint coats, apply a clear coat once the coats are cured, and finally apply the anti-fouling paint. *
 
@@ -38,11 +38,11 @@ So, place your aluminium boat on the trailer for ease of painting. You may also 
 
 ####  Gear up!
 
-I have to repeat that; safety is paramount while you're paining the aluminium boat - just like [painting a fibreglass boat](https://pestpolicy.com/how-to-paint-a-fiberglass-boat/). So, suit up to protect your lungs from metal bristles and aluminium dust. Thus, put on your respirator or face mask, ear and eye protection, and protective gloves before you begin working on the aluminium boat. See Also: Quality Paints for Fiberglass Boats
+I have to repeat that; safety is paramount while you're paining the aluminium boat - just like [painting a fibreglass boat](https://pestpolicy.com/how-to-paint-a-fiberglass-boat/).So, suit up to protect your lungs from metal bristles and aluminium dust. Thus, put on your respirator or face mask, ear and eye protection, and protective gloves before you begin working on the aluminium boat. See Also: Quality Paints for Fiberglass Boats
 
 ###  Step #2:**Prepare your Boat**
 
-First, inspect the boat's functionality and structurally soundness. Check for any notable cracks and corrosion - these may signify the need to [change the transom](https://en.wikipedia. org/wiki/Transom_(architecture)). Replace rusted rivets and bolts before using the new paint coat. On surface prep, ensure that the vessel surface is grease-free and dry - free of foreign matter, including dirt and wax.
+First, inspect the boat's functionality and structurally soundness. Check for any notable cracks and corrosion - these may signify the need to [change the transom](https://en.wikipedia.org/wiki/Transom_(architecture)).Replace rusted rivets and bolts before using the new paint coat. On surface prep, ensure that the vessel surface is grease-free and dry - free of foreign matter, including dirt and wax.
 
 Use power brushing and sanding to remove gloss area or loose paint.
 
@@ -68,7 +68,7 @@ Next, clean your aluminium boat thoroughly. Use soapy water in a container such 
 
 This is to prevent damaging the paint and switch on an electric fan to allow great ventilation.
 
-The sanding process did leave many dust and residues, and thus the washing process will help remove them. Thus, you'll also require to pressure [wash the boat's interior and exterior](https://www.kleanwaypressurecleaning. com/the-right-way-to-pressure-clean-a-boat/). You can also sip some brush with hard bristles in the soapy water solution and scrub the dirt and debris that remaining from the sanding process.
+The sanding process did leave many dust and residues, and thus the washing process will help remove them. Thus, you'll also require to pressure [wash the boat's interior and exterior](https://www.kleanwaypressurecleaning.com/the-right-way-to-pressure-clean-a-boat/).You can also sip some brush with hard bristles in the soapy water solution and scrub the dirt and debris that remaining from the sanding process.
 
 Finally, keenly rise the boat using a high-pressure hose - but air drying is the best. Allow the boat to dry fully awaiting painting or priming. But you may dry the boat manually using a dry towel.
 
@@ -86,7 +86,7 @@ Leave the primer overnight or up to 12 hours to dry, and this will help prevent 
 
 ###  Step #3:Paint the Aluminum Boat
 
-So, this is the final step in the painting process, and thus we must give it total attention. While as it, get yourself a [quality water-resistant aluminium boat paint](https://pestpolicy.com/best-paints-for-aluminum-boats/). First, use either a roller, paintbrush or sprayer to paint the inner side of your boat. Leave the surfaces to dry for roughly 12 hours (check paint directions) and continue and paint the boat exterior.
+So, this is the final step in the painting process, and thus we must give it total attention. While as it, get yourself a [quality water-resistant aluminium boat paint](https://pestpolicy.com/best-paints-for-aluminum-boats/).First, use either a roller, paintbrush or sprayer to paint the inner side of your boat. Leave the surfaces to dry for roughly 12 hours (check paint directions) and continue and paint the boat exterior.
 
 As a precaution, ensure to use even painting strokes while you're working on the boat's exterior. Allow the 1st paint to dry before applying the 2nd coat. Finally, let the boat paint dry for over 12 hours (or overnight) and come back to add a clear coat to the exterior part of your boat still using a paintbrush or roller (use even and thin strokes). - For corners and other difficult areas to reach, m you'll require to use a brush.
 

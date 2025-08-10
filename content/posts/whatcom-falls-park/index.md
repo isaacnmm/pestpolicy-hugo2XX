@@ -17,13 +17,13 @@ layout: post
 
 ###  Discover Whatcom Falls Park
 
-Nestled in the heart of [Bellingham](https://pestpolicy.com/rodent-control-in-bellingham/), WA, Whatcom Falls Park offers a serene escape from the hustle and bustle of daily life. Spanning over 240 acres, this park is a gem of natural beauty, providing a perfect blend of lush greenery, stunning waterfalls, and recreational activities.
+Nestled in the heart of [Bellingham](https://pestpolicy.com/rodent-control-in-bellingham/),WA, Whatcom Falls Park offers a serene escape from the hustle and bustle of daily life. Spanning over 240 acres, this park is a gem of natural beauty, providing a perfect blend of lush greenery, stunning waterfalls, and recreational activities.
 
 ####  A Natural Wonderland
 
 One of the park's main attractions is the Whatcom Falls, a picturesque waterfall that cascades gracefully over moss-covered rocks. Visitors can enjoy the view from the stone bridge that spans the creek, offering a perfect spot for photos and quiet reflection.
 
-The park's [well-maintained trails](https://www.washingtonnature. org/fieldnotes/nature-nearby-whatcom-falls-park) meander through dense forests, alongside bubbling streams, and open meadows, making it a haven for nature enthusiasts and hikers.
+The park's [well-maintained trails](https://www.washingtonnature.org/fieldnotes/nature-nearby-whatcom-falls-park)meander through dense forests, alongside bubbling streams, and open meadows, making it a haven for nature enthusiasts and hikers.
 
 ####  Family-Friendly Activities
 

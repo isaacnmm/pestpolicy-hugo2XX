@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 
-As a homeowner, I've at one time been disturbed by household [fleas](https://pestpolicy.com/does-apple-cider-vinegar-kill-fleas/) and I was required to take quick and effective steps to control them - including vacuuming and heat treatment? Butdoes vacuuming kill flea larvae? Well, Yes, researchers have concluded that vacuuming will indeed kill 96% or more of the fleas that in various life stages.
+As a homeowner, I've at one time been disturbed by household [fleas](https://pestpolicy.com/does-apple-cider-vinegar-kill-fleas/)and I was required to take quick and effective steps to control them - including vacuuming and heat treatment? Butdoes vacuuming kill flea larvae? Well, Yes, researchers have concluded that vacuuming will indeed kill 96% or more of the fleas that in various life stages.
 
 So, I advise you to vacuum your home and yard to exterminate or kill the developing flea pupae, larvae, adults, and flea eggs. Further, the vacuuming process will trigger the cocoons-surrounded fleas to emerge faster - and thus enhances better exposure to insecticides.
 
@@ -51,7 +51,7 @@ If you vacuum those bare floors, you'll get a better flea-killing rate compared 
 
 To effectively control the flea larvae, you'll require to equally flea-treat the pets and home to eliminate those immature fleas before they re-infest the hosts and your spaces.
 
-I recommend using some [flea insect growth regulators (IGRs)](https://pestpolicy.com/best-igr-for-fleas/) to achieve better flea control as these will hinder the flea larvae from molting or developing into adults. - Thus, controlling the flea larvae using just vacuuming might not work effectively - you might need to control IGRs or use professional exterminators.
+I recommend using some [flea insect growth regulators (IGRs)](https://pestpolicy.com/best-igr-for-fleas/)to achieve better flea control as these will hinder the flea larvae from molting or developing into adults. - Thus, controlling the flea larvae using just vacuuming might not work effectively - you might need to control IGRs or use professional exterminators.
 
 The seriousness of the flea larvae will affect how long it'll require for you to control the fleas - but this may be anywhere from 1-8 weeks - and vacuuming may help reduce the severity of the flea issue.
 
@@ -67,7 +67,7 @@ Will you require special attachments and extra extenders to exterminate all the 
 
 ##  How to kill flea Larav naturally in Carpets?
 
-Vacuuming the spaces will help remove the flea larvae but to achieve better outcomes, you'll need to use other comprehensive techniques. I would also advise sprinkling some [diatomaceous earth (2 days)](https://pestpolicy.com/diatomaceous-earth-for-fleas/), salt (1-2 days), or baking soda (carpet sprinkling) for faster flea larvae removal.
+Vacuuming the spaces will help remove the flea larvae but to achieve better outcomes, you'll need to use other comprehensive techniques. I would also advise sprinkling some [diatomaceous earth (2 days)](https://pestpolicy.com/diatomaceous-earth-for-fleas/),salt (1-2 days), or baking soda (carpet sprinkling) for faster flea larvae removal.
 
 - You may need to use some brush, carpet rack, or broom for rubbing the ingredients into the carpet fiber before you begin vacuuming.
 

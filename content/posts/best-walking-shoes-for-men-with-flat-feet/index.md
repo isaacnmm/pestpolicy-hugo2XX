@@ -18,7 +18,7 @@ Best Walking Shoes for Men with Flat Feet should have great shock absorbing prop
 
 Your arches are designed to naturally act as shock absorbers every time you take a step. Hence, the arches require optimal support to eliminate knee or foot-related pains. Hence, you need to choose shoes with proper support, which will naturally adapt to your gait needs. Read Also: Running shoes vs. walking shoes for weight loss-for-weight-loss/).
 
-##  **Reviews: 7 Best [Walking](https://pestpolicy.com/best-walking-shoes-for-high-arches/) Shoes for Men With Flat Feet 2025 Reviewed**
+##  **Reviews: 7 Best [Walking](https://pestpolicy.com/best-walking-shoes-for-high-arches/)Shoes for Men With Flat Feet 2025 Reviewed**
 
 ###  **1. Brooks Men's Addiction Walking Shoes - #1 Pick**
 

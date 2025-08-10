@@ -32,9 +32,9 @@ When the pH deviates significantly from this optimal zone, a cascade of problems
 
 Conversely, in alkaline soils, crucial micronutrients like iron and manganese become insoluble and therefore deficient, leading to symptoms like chlorosis (yellowing leaves).
 
-An imbalanced pH also affects beneficial microbial activity, which is vital for breaking down organic matter and cycling nutrients. Therefore, correcting soil pH isn't just a technical adjustment; it's a foundational step that enables all other [gardening](https://pestpolicy.com/breaking-up-clay-soil/) efforts to succeed, leading to stronger, healthier plants, better nutrient absorption, and a more resilient landscape.
+An imbalanced pH also affects beneficial microbial activity, which is vital for breaking down organic matter and cycling nutrients. Therefore, correcting soil pH isn't just a technical adjustment; it's a foundational step that enables all other [gardening](https://pestpolicy.com/breaking-up-clay-soil/)efforts to succeed, leading to stronger, healthier plants, better nutrient absorption, and a more resilient landscape.
 
-##  Before You Begin: The Essential [Soil](https://pestpolicy.com/how-to-conduct-your-own-soil-test-for-ph-using-household-ingredients/) Test
+##  Before You Begin: The Essential [Soil](https://pestpolicy.com/how-to-conduct-your-own-soil-test-for-ph-using-household-ingredients/)Test
 
 Before you even consider applying any amendments, a thorough soil test is non-negotiable. Guessing your soil's pH can lead to over-correction, creating a new imbalance that can be just as detrimental, if not more so, than the original problem.
 

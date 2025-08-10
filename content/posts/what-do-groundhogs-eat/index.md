@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 
-Groundhogs are underground rodents that spend most of their lives in underground tunnels. They spend a lot of time burrowing and coming out in the open to look for food. But what do groundhogs [eat](https://pestpolicy.com/do-cats-eat-lizards/) to survive underground? - **Groundhogs are omnivorous that'll eat both plants and animals.
+Groundhogs are underground rodents that spend most of their lives in underground tunnels. They spend a lot of time burrowing and coming out in the open to look for food. But what do groundhogs [eat](https://pestpolicy.com/do-cats-eat-lizards/)to survive underground? - **Groundhogs are omnivorous that'll eat both plants and animals.
 
 But in most cases, groundhogs eat vegetables, grass, fruits, alfalfa, clovers, soybeans, dandelion, and apples, and other garden plants.
 

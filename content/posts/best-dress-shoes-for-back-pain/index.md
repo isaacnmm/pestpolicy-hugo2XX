@@ -14,7 +14,7 @@ tags:
 layout: post
 ---
 
-Wearing the [Best](https://pestpolicy.com/best-mens-dress-shoes-for-flat-feet/) Dress Shoes For Back Pain can make your workdays comfortable and bearable. - [Research](https://medlineplus.gov/backpain. html)shows that 8 out of 10 individuals experience back pain at some point in their life. Many factors can aggravate back pain. - For example, poor posture, lack of exercise, and incorrect footwear.
+Wearing the [Best](https://pestpolicy.com/best-mens-dress-shoes-for-flat-feet/)Dress Shoes For Back Pain can make your workdays comfortable and bearable. - [Research](https://medlineplus.gov/backpain.html)showsthat 8 out of 10 individuals experience back pain at some point in their life. Many factors can aggravate back pain. - For example, poor posture, lack of exercise, and incorrect footwear.
 
 Hence, in this article, Ill review some of the top-rated Dress Shoes For Back Pain.
 
@@ -30,7 +30,7 @@ In the review, Ill look at both mens and womens Dress Shoes for Back Pain. Lets 
 
 The first spot for Best Dress Shoes for Back Pain goes to this Orthopedic Shoe from Avery Island. This Orthopedic shoe is designed for men who crave comfort and style. The shoe features superior Orthofeet's comfort technologies that would help alleviate back pain.
 
-Further, if youve foot conditions like plantar fasciitis, arthritis, Neuropathy, and [claw toes](https://pestpolicy.com/best-shoes-for-claw-toes/) among other conditions, this is the shoe to pick.
+Further, if youve foot conditions like plantar fasciitis, arthritis, Neuropathy, and [claw toes](https://pestpolicy.com/best-shoes-for-claw-toes/)among other conditions, this is the shoe to pick.
 
 The Avery Island Orthopedic Shoe features an orthotic insole that comes with exceptional deep heel-seat and anatomical arch support. These features aid in shock absorption and ensure you have customized support. Hence, youre guaranteed additional comfort with each stride you take.
 
@@ -72,7 +72,7 @@ The shoes have a lightweight ergonomic sole that comes with exceptional orthotic
 
 This orthopedic mens shoe has a spacious toe box area that provides a comfortable fit while easing pressure on your hammertoes, bunions, and sensitive feet.
 
-Furthermore, these mens walking shoes are available in various width options including, Extra-Wide, Extra-Extra-Wide, medium, and narrow. The wide toe box and the extended widths ensure that people with [wide feet](https://pestpolicy.com/best-running-shoes-for-men-with-wide-feet/) benefit from these shoes.
+Furthermore, these mens walking shoes are available in various width options including, Extra-Wide, Extra-Extra-Wide, medium, and narrow. The wide toe box and the extended widths ensure that people with [wide feet](https://pestpolicy.com/best-running-shoes-for-men-with-wide-feet/)benefit from these shoes.
 
 The removable insoles and extra depth design facilitate the use of custom orthotics. This comfort feature aids in easing stress on the wearers joints thereby enhancing stability to improve your gait cycle. Pros: - Comfortable - Well-cushioned - Alleviates back discomfort - Available in various widths - Can use custom orthotics for added comfort - Soft upper leather
 

@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 
-Leopard geckos [are](https://pestpolicy.com/are-fleas-nocturnal/) terrestrial animals that mostly live on the ground and under rocks. Naturally, you will find them in the Middle East and Asia in countries like Iran, Afghanistan and India. So, *are [leopard](https://pestpolicy.com/what-does-leopard-gecko-eat/) geckos nocturnal? * **In summary, contrary to popular belief Leopard geckos **are crepuscular and not nocturnal.
+Leopard geckos [are](https://pestpolicy.com/are-fleas-nocturnal/)terrestrial animals that mostly live on the ground and under rocks. Naturally, you will find them in the Middle East and Asia in countries like Iran, Afghanistan and India. So, *are [leopard](https://pestpolicy.com/what-does-leopard-gecko-eat/)geckos nocturnal? * **In summary, contrary to popular belief Leopard geckos **are crepuscular and not nocturnal.
 
 They are not active the whole night, but you'll only enjoy them at fading light at dusk and dawn during twilight. **** ****Leopard geckos difference from the rest of nocturnal gecko is they have large eyes and ears so they can see and hear clearly at night. ****
 

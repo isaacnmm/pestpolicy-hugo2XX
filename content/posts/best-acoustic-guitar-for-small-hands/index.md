@@ -40,7 +40,7 @@ Cons: - Some don't love its double-cutout design
 
 Taylor Academy 12e is also a great small-hand acoustic guitar with a width at Nut of 42. 8 mm (1. 687 inches) - it sounds great and it's equally light-weight.
 
-Taylor Academy 12e has a simple aesthetic with its solid Sitka spruce and light hue. Its excellent tonal possibilities are enabled by the stable and playable neck - just like the [acoustic guitar under 500](https://pestpolicy.com/best-acoustic-guitar-under-500/). Taylor Academy 12e is designed from ethically-sourced materials and that's great for entry-level guitarists since its simple to maintain and master.
+Taylor Academy 12e has a simple aesthetic with its solid Sitka spruce and light hue. Its excellent tonal possibilities are enabled by the stable and playable neck - just like the [acoustic guitar under 500](https://pestpolicy.com/best-acoustic-guitar-under-500/).Taylor Academy 12e is designed from ethically-sourced materials and that's great for entry-level guitarists since its simple to maintain and master.
 
 It's comfortable and lightweight with a fingerstyle design for top comfort plus its wood pairing makes the spruce top strong. The bridge & fingerboard are made from African ebony that's genuine. On sound quality, this Academy 12e will give you a fine sound with great tonal balance, and thus it'll be easy to learn any style. You'll enjoy its disciplined bass, voluptuous treble, and rich midrange.
 

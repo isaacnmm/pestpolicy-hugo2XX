@@ -15,11 +15,11 @@ tags:
 layout: post
 ---
 
-[Fleas](https://pestpolicy.com/getting-rid-of-fleas-in-the-carpet/) are common pests with hairy pets like cats and dogs but they can also attack humans. There are over 2000 species and some species also attack humans. This guide on how to get rid of fleas on humans has all you need to know. - **Unlike fury pets, fleas attacking humans like to hide either on the clothing or hair.
+[Fleas](https://pestpolicy.com/getting-rid-of-fleas-in-the-carpet/)are common pests with hairy pets like cats and dogs but they can also attack humans. There are over 2000 species and some species also attack humans. This guide on how to get rid of fleas on humans has all you need to know. - **Unlike fury pets, fleas attacking humans like to hide either on the clothing or hair.
 
 To get rid of them, you need to wash your hair with anti-fleas products.
 
-** - **Taking a bath with a [flea](https://pestpolicy.com/how-to-get-rid-of-flea-eggs-on-cats/) shampoo will also help. Ultimately, knowing their source and other infested areas will do much good when eliminating them. ** Fleas are tiny parasites that will attack and suck human and pet blood. Even before you get hold of these tiny pests, [it jumps into hiding](https://pestpolicy.com/how-to-get-rid-of-fleas-on-clothes-and-bedding/).
+** - **Taking a bath with a [flea](https://pestpolicy.com/how-to-get-rid-of-flea-eggs-on-cats/)shampoo will also help. Ultimately, knowing their source and other infested areas will do much good when eliminating them. ** Fleas are tiny parasites that will attack and suck human and pet blood. Even before you get hold of these tiny pests, [it jumps into hiding](https://pestpolicy.com/how-to-get-rid-of-fleas-on-clothes-and-bedding/).
 
 ##  Details: How to Get Rid Of Fleas on Humans
 

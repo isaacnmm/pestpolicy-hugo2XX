@@ -53,7 +53,7 @@ Use a level to ensure it's straight.
 * **Ignoring Local Codes:** Always check local building and electrical codes before starting the project. * **Choosing the Wrong Fan Type:** Using a ceiling fan designed for attic ducting in a wall-mount scenario without proper modification or a direct vent kit can lead to issues.
 ---
 
-A well-functioning [bathroom](https://pestpolicy.com/bathroom-vent-fan-cfm-calculator/) [vent](https://pestpolicy.com/how-to-maintain-a-bathroom-vent-fan/) fan is essential for maintaining a healthy and comfortable home environment. It expels excess moisture, odors, and airborne contaminants, preventing issues like mold growth, peeling paint, and structural damage.
+A well-functioning [bathroom](https://pestpolicy.com/bathroom-vent-fan-cfm-calculator/)[vent](https://pestpolicy.com/how-to-maintain-a-bathroom-vent-fan/) fan is essential for maintaining a healthy and comfortable home environment. It expels excess moisture, odors, and airborne contaminants, preventing issues like mold growth, peeling paint, and structural damage.
 
 While most bathroom fans are installed in the ceiling and vented through the attic or roof, this isn't always a feasible option.
 

@@ -15,9 +15,9 @@ tags:
 layout: post
 ---
 
-Recently my friend, Jane, got a healthy-looking dog. **Sadly**, the dog was flea-infested. Jane applied flea shampoo on the dog to save the situation. But, she's still worried whether "Dog [Fleas](https://pestpolicy.com/dog-has-fleas-and-sleeps-in-my-bed/) Transfer to Humans? " Can the bugs jump/ bite him, his kids, or his wife? I seek to answer these questions in this short post. **The simple answer is Yes**.
+Recently my friend, Jane, got a healthy-looking dog. **Sadly**, the dog was flea-infested. Jane applied flea shampoo on the dog to save the situation. But, she's still worried whether "Dog [Fleas](https://pestpolicy.com/dog-has-fleas-and-sleeps-in-my-bed/)Transfer to Humans? " Can the bugs jump/ bite him, his kids, or his wife? I seek to answer these questions in this short post. **The simple answer is Yes**.
 
-[Dog fleas (Ctenocephalidescanis](https://pestpolicy.com/best-[flea](https://pestpolicy.com/how-to-tell-if-your-dog-has-fleas/)-combs-for-dogs/) ) will sometimes jump onto humans, bite them and suck blood - although they mainly suck blood from dogs and cats. Scientific research shows that fleas will quickly move to another and hitchhike people as they move to other houses, just like the [over 2, 000 flea species](https://ohioline.osu.
+[Dog fleas (Ctenocephalidescanis](https://pestpolicy.com/best-[flea](https://pestpolicy.com/how-to-tell-if-your-dog-has-fleas/)-combs-for-dogs/)) will sometimes jump onto humans, bite them and suck blood - although they mainly suck blood from dogs and cats. Scientific research shows that fleas will quickly move to another and hitchhike people as they move to other houses, just like the [over 2, 000 flea species](https://ohioline.osu.
 
 edu/factsheet/HYG-2081-11).
 
@@ -55,5 +55,5 @@ Ive pointed above that you can use flea bombs to control massive flea infestatio
 
 ##  Conclusion
 
-Fleas take host on your dog, and thus, whenever you come too close to the pet, the fleas could jump over to you looking for a blood source. However, fleas (apart from *Pulex irritans* ) cannot [live on human](https://pestpolicy.com/can-fleas-live-in-human-hair/) blood and thus will have to jump off to an appropriate host, particularly after sucking some of your blood.
+Fleas take host on your dog, and thus, whenever you come too close to the pet, the fleas could jump over to you looking for a blood source. However, fleas (apart from *Pulex irritans* ) cannot [live on human](https://pestpolicy.com/can-fleas-live-in-human-hair/)blood and thus will have to jump off to an appropriate host, particularly after sucking some of your blood.
 

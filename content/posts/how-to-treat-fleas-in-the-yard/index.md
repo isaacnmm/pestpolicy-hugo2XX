@@ -15,9 +15,9 @@ tags:
 layout: post
 ---
 
-If you're tired of [fleas](https://pestpolicy.com/should-you-spray-your-yard-for-fleas/) in your yard, this blog post is for you. We'll discuss how to treat fleas in the yard.
+If you're tired of [fleas](https://pestpolicy.com/should-you-spray-your-yard-for-fleas/)in your yard, this blog post is for you. We'll discuss how to treat fleas in the yard.
 
-Fleas in your yard can be a nuisance, as they breed fast and thrive there; thanks to the [humid or warm environments](https://www.canr. msu. edu/ipm/uploads/files/Fleas. pdf). They may hitchhike your pets ( or rarely humans ) to get into your home.
+Fleas in your yard can be a nuisance, as they breed fast and thrive there; thanks to the [humid or warm environments](https://www.canr.msu.edu/ipm/uploads/files/Fleas.pdf).They may hitchhike your pets ( or rarely humans ) to get into your home.
 
 Keeping them out of the yard is a good first step to preventing and or eradicating an infestation because they're difficult bugs; - Fleas, with the right conditions, can live up for as much as two years. - Fleas can lay about 50 eggs daily and an average of 2000 eggs in a lifetime. - Spotting fleas in the yard can be challenging, as the narrow-bodied, wingless, and reddish-brown bugs are only average 1/8 inches long.
 
@@ -93,7 +93,7 @@ Allow the sunrays to bit the ground
 
 Allow sunshine to shine on the yard by pruning shrubs and trees. Further, cut the thick canopies and low branches of your trees. - This will allow the sun to reach the ground and kill any eggs or larvae that may be in these areas, as well as dry out their hiding spots. The insecticide sprays and flea collars may be helpful on your pets, but they are not the only way to control this problem.
 
-It's also important that you regularly wash your pet with a medicated shampoo, or [give them regular baths](https://pestpolicy.com/best-flea-shampoo-for-dogs/) if they live indoors. Your yard will stay cleaner and more comfortable for both humans and pets.
+It's also important that you regularly wash your pet with a medicated shampoo, or [give them regular baths](https://pestpolicy.com/best-flea-shampoo-for-dogs/)if they live indoors. Your yard will stay cleaner and more comfortable for both humans and pets.
 
 ###  **Step 6:**Remove Yard Debris
 
@@ -171,7 +171,7 @@ To clean pet bedding, clothes, and linens: *Step One * - Gather materials needed
 
 ###  Step 12: Apply Borax For Fleas
 
-For fleas, Borax can be used in many ways. One way is to [sprinkle it around the yard](https://pestpolicy.com/borax-flea-killer/) which will kill any adult fleas.
+For fleas, Borax can be used in many ways. One way is to [sprinkle it around the yard](https://pestpolicy.com/borax-flea-killer/)which will kill any adult fleas.
 
 Borax can also be used as a carpet and area treatment. Just sprinkle it on the carpets or wherever you see fleas in your home.
 

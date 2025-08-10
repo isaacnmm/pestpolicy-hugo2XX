@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 
-Getting a good [stain](https://pestpolicy.com/best-stain-for-douglas-fir-door/) will help to protect your wooden swing [set](https://pestpolicy.com/best-stain-for-cedar-swing-set/) from adverse weather conditions like harsh humidity, extreme heat, rain, and snow. Also, even the best or highly-priced swing sets need proper maintenance.
+Getting a good [stain](https://pestpolicy.com/best-stain-for-douglas-fir-door/)will help to protect your wooden swing [set](https://pestpolicy.com/best-stain-for-cedar-swing-set/)from adverse weather conditions like harsh humidity, extreme heat, rain, and snow. Also, even the best or highly-priced swing sets need proper maintenance.
 
 Taking good care of a playset will ensure it remains flawless for ages, even under extreme natural conditions.
 
@@ -71,7 +71,7 @@ Oil-based stains are considered more durable and when applied offer a thicker se
 
 ###  **2. Another Great Option are theWater-Based Repellent Stains**
 
-Water-based repellent stains protect [children and playsets](https://pestpolicy.com/best-swing-set-for-older-kids/) against damage or any harm. - The strong acrylic coating in water-based repellents helps to cover any wood that is rough, allowing a smooth surface that prevents children from getting injured.
+Water-based repellent stains protect [children and playsets](https://pestpolicy.com/best-swing-set-for-older-kids/)against damage or any harm. - The strong acrylic coating in water-based repellents helps to cover any wood that is rough, allowing a smooth surface that prevents children from getting injured.
 
 ###  **3. Pick Environmentally Safe and Durable Products**
 

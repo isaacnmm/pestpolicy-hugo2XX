@@ -37,7 +37,7 @@ Adding a tick collar enhances the protection, making it a great choice for compr
 
 **Richards-Organics Tick & Flea Shampoo** stands out for its natural formulation. Made with pyrethrins from chrysanthemum flowers, this shampoo effectively repels and kills fleas and ticks while being gentle on your puppys skin.
 
-Its enriched with soothing aloe and vitamin E, which help to relieve itching and moisturize the skin. The absence of synthetic fragrances and [harsh chemicals](https://www.vetmed. wsu. edu/outreach/Pet-Health-Topics/categories/procedures/dogs/bathing-your-dog) makes it a good choice for puppies with sensitive skin, although it may not be as effective for severe infestations.
+Its enriched with soothing aloe and vitamin E, which help to relieve itching and moisturize the skin. The absence of synthetic fragrances and [harsh chemicals](https://www.vetmed.wsu.edu/outreach/Pet-Health-Topics/categories/procedures/dogs/bathing-your-dog)makes it a good choice for puppies with sensitive skin, although it may not be as effective for severe infestations.
 
 Bathing your dog is crucial for hygiene, removing germs, ticks, and maintaining the skins pH balance. Avoid shampoos with intense fragrances or harsh chemicals, as these can irritate sensitive skin. If your puppy needs a medicated shampoo, consult your vet. **Pros: ** - Uses natural pyrethrins, reducing the risk of irritation. - Contains aloe and vitamin E for soothing and moisturizing. - Free from synthetic fragrances and harsh chemicals.
 
@@ -49,13 +49,13 @@ Bathing your dog is crucial for hygiene, removing germs, ticks, and maintaining 
 
 While effective for most skin types, it may not be suitable for very young puppies or those with severe skin conditions and may require multiple applications for persistent flea issues.
 
-**When to Start Bathing Your Puppy** If your puppy is under [six weeks old](https://www.aspca. org/pet-care/dog-care/dog-grooming-tips), it is best to avoid bathing as their skin is still too sensitive. Use pet wipes as an alternative if the mother is not available for grooming. **Pros: ** - Contains oatmeal to soothe itchy and irritated skin. - Gentle formula suitable for sensitive skin. - Improves coat condition, making it soft and shiny.
+**When to Start Bathing Your Puppy** If your puppy is under [six weeks old](https://www.aspca.org/pet-care/dog-care/dog-grooming-tips),it is best to avoid bathing as their skin is still too sensitive. Use pet wipes as an alternative if the mother is not available for grooming. **Pros: ** - Contains oatmeal to soothe itchy and irritated skin. - Gentle formula suitable for sensitive skin. - Improves coat condition, making it soft and shiny.
 
 **Cons: ** - Not ideal for very young puppies or severe skin conditions. - Multiple applications may be needed for persistent infestations. Related: [Flea sprays for garden](https://pestpolicy.com/best-flea-spray-for-yard/).
 
 ###  [4. Earthbath All Natural Pet Shampoo for Puppy](https://www.amazon.com/dp/B00079PHUW?&linkCode=ll1&tag=p-policy-20&linkId=f50649597e17f41992faeef9a12f958d&language=en_US&ref_=as_li_ss_tl)
 
-**Earthbath All Natural Pet Shampoo** is known for its ultra-mild and gentle formula, which is [perfect for puppies](https://pestpolicy.com/best-flea-treatment-for-puppies/). It is free from harsh chemicals like sulfates and parabens, making it safe for frequent use.
+**Earthbath All Natural Pet Shampoo** is known for its ultra-mild and gentle formula, which is [perfect for puppies](https://pestpolicy.com/best-flea-treatment-for-puppies/).It is free from harsh chemicals like sulfates and parabens, making it safe for frequent use.
 
 The tearless formula ensures a comfortable bath experience, and it does not wash off topical flea treatments, maintaining ongoing flea protection. While effective for most cases, it may not address severe flea infestations as well as more potent treatments. **Pros: ** - Tearless and pH-balanced for sensitive skin. - Made with 100% natural and biodegradable ingredients. - Does not affect topical flea treatments.
 

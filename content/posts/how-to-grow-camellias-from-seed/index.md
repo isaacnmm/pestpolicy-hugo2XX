@@ -17,9 +17,9 @@ layout: post
 post-type: article
 ---
 
-Camellias are renowned for their exquisite, waxy blooms and glossy evergreen foliage, bringing a touch of elegance and vibrant color to the garden, particularly during the cooler months when few other plants are in flower. While propagation via cuttings or purchasing established plants is common, growing camellias from [seed](https://pestpolicy.com/how-to-determine-if-old-seeds-are-still-good-for-planting/) offers a unique and rewarding experience.
+Camellias are renowned for their exquisite, waxy blooms and glossy evergreen foliage, bringing a touch of elegance and vibrant color to the garden, particularly during the cooler months when few other plants are in flower. While propagation via cuttings or purchasing established plants is common, growing camellias from [seed](https://pestpolicy.com/how-to-determine-if-old-seeds-are-still-good-for-planting/)offers a unique and rewarding experience.
 
-It's a journey of patience, as these slow-growing beauties can take several years to reach flowering maturity. However, the reward of seeing a new, potentially unique [camellia](https://pestpolicy.com/how-to-grow-camellias/) cultivar emerge from a tiny seed is unparalleled.
+It's a journey of patience, as these slow-growing beauties can take several years to reach flowering maturity. However, the reward of seeing a new, potentially unique [camellia](https://pestpolicy.com/how-to-grow-camellias/)cultivar emerge from a tiny seed is unparalleled.
 
 Growing camellias from seed is also an excellent way to cultivate a large number of plants, perhaps for a hedge or a collection, or to simply engage in the fascinating process of plant propagation. This guide will walk you through the steps involved in successfully germinating camellia seeds and nurturing them into healthy, mature plants, preparing you for a future filled with their captivating blooms.
 

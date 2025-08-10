@@ -24,7 +24,7 @@ Lizard, they're vertebrates, such as Marine Iguanas can swim in deep seas or oce
 
 Lizards can swim. The swimming capability varies from one species to another and is determined by body size, shape and length of the tail. Some lizard species such as Gecko and skinks can walk or run on the water bodies. Marine Iguana lizards are known to swim in deep waters and can hold its breath for over 45 minutes while feeding on its prey at the floor of sea or ocean.
 
-Lizard such as sandfish or [saharan lizard](https://www.nytimes. com/2009/07/21/science/21obsand. html) can swim even on sand instead of walking.
+Lizard such as sandfish or [saharan lizard](https://www.nytimes.com/2009/07/21/science/21obsand.html)can swim even on sand instead of walking.
 
 ###  1. Mechanisms used by Lizards to Swim.
 
@@ -124,5 +124,5 @@ Some lizards such as gecko can walk and run on water. Baby lizards can swim thou
 
 ##  Sources:
 
-1. [Scuba-diving lizard can stay underwater for at least 16 minutes](https://www.newscientist. com/article/2189067-scuba-diving-lizard-can-stay-underwater-for-at-least-16-minutes/) 2. [Lizard Swims Like Snake Through Sand Live Science](https://www.livescience. com/5577-lizard-swims-snake-sand. html)
+1. [Scuba-diving lizard can stay underwater for at least 16 minutes](https://www.newscientist.com/article/2189067-scuba-diving-lizard-can-stay-underwater-for-at-least-16-minutes/)2. [Lizard Swims Like Snake Through Sand Live Science](https://www.livescience.com/5577-lizard-swims-snake-sand.html)
 

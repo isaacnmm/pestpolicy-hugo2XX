@@ -35,7 +35,7 @@ Before you begin any major treatments, you need to know your starting point. Thi
 
 1. **Choose the Hot Zone: ** Identify the single most likely spot for fleas in your home. This is almost always the area right beside where your pet sleeps or rests most often. 2. **Set a Fresh Trap: ** Place a brand-new flea trap with a fresh sticky pad in this location. 3. **Wait Exactly 24 Hours: ** Leave the trap undisturbed for a full day and night. 4. **Count the Fleas: ** The number of fleas caught on the pad after 24 hours is your BFC.
 
-This numberâ€”whether it's 3 or 30â€”is your crucial starting point. It represents the current level of active adult fleas in that area.
+This number—whether it's 3 or 30—is your crucial starting point. It represents the current level of active adult fleas in that area.
 
 ###  Step 3: Create a Simple Tracking Log
 
@@ -49,7 +49,7 @@ Check the trap at the same time each day, count the new fleas, replace the pad i
 
 Your log will start to tell a story. Here's how to read it:
 
-* **A High Count (10+ Fleas): ** This indicates an active, reproducing infestation. Your numbers might even go up after you vacuum for the first timeâ€”this is normal, as the vibrations trigger dormant fleas to hatch. This requires aggressive action.
+* **A High Count (10+ Fleas): ** This indicates an active, reproducing infestation. Your numbers might even go up after you vacuum for the first time—this is normal, as the vibrations trigger dormant fleas to hatch. This requires aggressive action.
 
 * **A Moderate Count (3-9 Fleas): ** This shows the fight is ongoing. If your numbers are trending downwards from a high count, it's a great sign that your treatments are working.
 

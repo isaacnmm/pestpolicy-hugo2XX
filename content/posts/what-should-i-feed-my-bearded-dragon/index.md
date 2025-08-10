@@ -15,17 +15,17 @@ tags:
 layout: post
 ---
 
-So, what should I feed my [bearded](https://pestpolicy.com/can-bearded-dragons-eat-apples/) [dragon](https://pestpolicy.com/can-bearded-dragons-eat-bananas/)? Well, bearded dragons are pets that are feed on several vegetables, fruits, and insects. *So, feed the bearded dragons with fruits (tomatoes, mangoes, bananas or grapes, etc. ), vegetables (cabbages, broccoli, greens, pepper, sweet potato, or cucumber, etc.
+So, what should I feed my [bearded](https://pestpolicy.com/can-bearded-dragons-eat-apples/)[dragon](https://pestpolicy.com/can-bearded-dragons-eat-bananas/)? Well, bearded dragons are pets that are feed on several vegetables, fruits, and insects. *So, feed the bearded dragons with fruits (tomatoes, mangoes, bananas or grapes, etc. ), vegetables (cabbages, broccoli, greens, pepper, sweet potato, or cucumber, etc.
 
 ), insects (king-worms, meal-worms, crickets, etc.
 
-), or substrates for bearded dragons. * Thus, its evident [bearded dragons](https://cvm.ncsu. edu/documents/caring-for-your-bearded-dragon/) will feed on various foods, including fruits, vegetables, insects, and equally the commercially available substrates.
+), or substrates for bearded dragons. * Thus, its evident [bearded dragons](https://cvm.ncsu.edu/documents/caring-for-your-bearded-dragon/)will feed on various foods, including fruits, vegetables, insects, and equally the commercially available substrates.
 
 ##  What Should I Feed My Bearded Dragon?
 
 ###  1. Can Bearded Dragons Eat Meat?
 
-But [wild-bearded dragons](https://www.nationalgeographic. com/animals/reptiles/group/bearded-dragon/) will mainly feed on animals, including mice, rats, worms, roaches ( [check roach killers](https://pestpolicy.com/best-roach-killer-for-apartments/) ), & crickets. So, yes, Bearded Dragons will eat meat mainly from different insects. But they'll also eat some fruit and vegetables. They related - [best drain cleaner](https://pestpolicy.com/best-drain-cleaner//).
+But [wild-bearded dragons](https://www.nationalgeographic.com/animals/reptiles/group/bearded-dragon/)will mainly feed on animals, including mice, rats, worms, roaches ( [check roach killers](https://pestpolicy.com/best-roach-killer-for-apartments/)), & crickets. So, yes, Bearded Dragons will eat meat mainly from different insects. But they'll also eat some fruit and vegetables. They related - [best drain cleaner](https://pestpolicy.com/best-drain-cleaner//).
 
 Here are the insects that insect meat that the bearded dragons will eat. 1. Phoenix worms 2. Mealworms 3. Waxworms 4. Crickets 5. Cockroaches 6. Butterworms 7. Earthworms 8. King worms 9. Crickets 10. Locusts 11. Dubai roaches 12. Silkworms However, only adult Bearded Dragons because of their exterior skin that's hard. Therefore, don't give the baby bearded dragons such as insect meat.
 
@@ -33,7 +33,7 @@ Here are the insects that insect meat that the bearded dragons will eat. 1. Phoe
 
 Besides the fruits and vegetables, I suggest you get some extra supplements (substrates) plus some proteins to spice up the bearded dragon's diet. The diet can include feeding them a dragon with 2-3 meals daily plus some additional supplements and an extra meal or insect - these provide the critical proteins. Avoid lowing insects, including Lightning bugs, since they're toxic to your dragons.
 
-I recommend you feed your dragon with just the gut-loaded insects, which points out that they'll provide a high level of nutrients. Further, offer some Dubai [baby roaches](https://pestpolicy.com/what-do-baby-roaches-look-like//), earthworms, crickets besides spraying some calcium powder on the pet's food. You may add some meal-worms, wax-worms, and butter-worms for extra fat.
+I recommend you feed your dragon with just the gut-loaded insects, which points out that they'll provide a high level of nutrients. Further, offer some Dubai [baby roaches](https://pestpolicy.com/what-do-baby-roaches-look-like//),earthworms, crickets besides spraying some calcium powder on the pet's food. You may add some meal-worms, wax-worms, and butter-worms for extra fat.
 
 ##  What Fruit Do Bearded Dragons Eat?
 

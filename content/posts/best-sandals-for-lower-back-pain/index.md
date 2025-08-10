@@ -14,7 +14,7 @@ tags:
 layout: post
 ---
 
-If youre suffering from [lower back pain](https://pestpolicy.com/best-[walking-shoes](https://pestpolicy.com/best-shoes-for-arthritic-hips/)-for-lower-back-pain/) and looking for supportive yet stylish sandals, youre right on time. With summer first approaching, you may need sandals that are light and casual. Hence, in this article, Ill review the Best Sandals for Lower Back Pain.
+If youre suffering from [lower back pain](https://pestpolicy.com/best-[walking-shoes](https://pestpolicy.com/best-shoes-for-arthritic-hips/)-for-lower-back-pain/)and looking for supportive yet stylish sandals, youre right on time. With summer first approaching, you may need sandals that are light and casual. Hence, in this article, Ill review the Best Sandals for Lower Back Pain.
 
 Wearing comfortable, well-cushioned, and supportive sandals can help improve your posture while reducing back pain. Am sure youll find a pair that interests you. Go through the list and make your choice.
 

@@ -19,7 +19,7 @@ Spiders are fascinating creatures, often mistaken for insects due to their small
 
 ##  Do Spiders Have Antennae?
 
-The short answer is **no, spiders do not have antennae**. While spiders and insects are both arthropods, they belong to different classes: spiders are arachnids, and insects are classified as [hexapods](http://bohart.ucdavis. edu/). One key difference between these two groups is their body structure, including their sensory organs.
+The short answer is **no, spiders do not have antennae**. While spiders and insects are both arthropods, they belong to different classes: spiders are arachnids, and insects are classified as [hexapods](http://bohart.ucdavis.edu/).One key difference between these two groups is their body structure, including their sensory organs.
 
 Antennae are absent in spiders. Instead, they have other sensory systems that help them navigate their environment and detect prey. These features work differently from insect antennae but serve similar functions.
 
@@ -31,9 +31,9 @@ Antennae are typically long, segmented appendages located on the heads of insect
 
 ##  Spiders Sensory System: The Role of Pedipalps and Hair-like Structures
 
-Instead of antennae, spiders have evolved other sensory adaptations that help them perceive their surroundings and hunt effectively. 1. **Pedipalps**: Located near a [spider](https://pestpolicy.com/can-you-drown-a-spider/)'s mouth, pedipalps are small, leg-like appendages that play a significant role in sensing, manipulating prey, and in mating for males.
+Instead of antennae, spiders have evolved other sensory adaptations that help them perceive their surroundings and hunt effectively. 1. **Pedipalps**: Located near a [spider](https://pestpolicy.com/can-you-drown-a-spider/)'smouth, pedipalps are small, leg-like appendages that play a significant role in sensing, manipulating prey, and in mating for males.
 
-Though not as long or prominent as insect [antennae](https://pestpolicy.com/do-fleas-have-antennae/), pedipalps are highly sensitive and help spiders detect chemical signals, such as those from potential prey. 2. **Sensory Hairs (Setae)**: Spiders are covered in tiny hairs called*setae*, which are highly sensitive to touch, air currents, and vibrations.
+Though not as long or prominent as insect [antennae](https://pestpolicy.com/do-fleas-have-antennae/),pedipalps are highly sensitive and help spiders detect chemical signals, such as those from potential prey. 2. **Sensory Hairs (Setae)**: Spiders are covered in tiny hairs called*setae*, which are highly sensitive to touch, air currents, and vibrations.
 
 These hairs allow spiders to detect even slight movements in their environment, helping them sense prey caught in their webs or an approaching predator. 3. **Trichobothria**: Spiders have long, specialized hairs called trichobothria, which are exceptionally sensitive to vibrations in the air. These hairs help spiders detect the movement of nearby prey or predators, allowing them to react even when the source is not in direct contact. 4.
 
@@ -41,7 +41,7 @@ These hairs allow spiders to detect even slight movements in their environment, 
 
 ##  Differences Between Spiders and Insects
 
-Though spiders and insects are both arthropods, there are significant anatomical and behavioral differences between them: 1. **Body Structure**: Insects have three body segments (head, thorax, abdomen) and six legs, while spiders have two segments ([cephalothorax](https://bijlmakers.com/spiders/spider-bodyparts/#cephalothorax)and abdomen) and eight legs. 2. **Sensory Organs**: Insects have antennae that serve as primary sensory organs.
+Though spiders and insects are both arthropods, there are significant anatomical and behavioral differences between them: 1. **Body Structure**: Insects have three body segments (head, thorax, abdomen) and six legs, while spiders have two segments ([cephalothorax](https://bijlmakers.com/spiders/spider-bodyparts/#cephalothorax)andabdomen) and eight legs. 2. **Sensory Organs**: Insects have antennae that serve as primary sensory organs.
 
 Spiders lack antennae and instead use pedipalps, sensory hairs, and their keen eyesight for sensory input. 3. **Breathing Systems**: Spiders breathe through structures called book lungs, while insects use a network of tubes called tracheae to transport oxygen. 4. **Life Cycle**: Insects typically undergo metamorphosis, transitioning through stages such as egg, larva, pupa, and adult.
 

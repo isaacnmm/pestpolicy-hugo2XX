@@ -18,7 +18,7 @@ layout: post
 ## 1. Start by Cleaning out Your Gutters
 This is the most crucial step in preparing your gutters for any heavy rainfall, and it's especially vital before a hurricane. Clogged gutters, even partially, will quickly overflow during the immense volume of water a hurricane brings, rendering them useless.
 * **Remove All Debris:** Don't just clear visible leaves. Dig deep to remove wet leaves, twigs, shingle grit, seeds, pine needles, and any other sludge that has accumulated. Pay particular attention to downspout openings, elbows, and any areas where debris tends to collect. * **Flush with Water:** After physically removing debris, use a garden hose to flush water through the gutters and downspouts. This will help identify any hidden clogs and ensure water flows freely all the way to the ground.
-Watch the water at the downspout exit; if it's not flowing strongly, there's still a blockage you need to clear. * **Consider [Gutter](https://pestpolicy.com/are-gutters-necessary/) Guards (Long-Term Prep):** While not a last-minute hurricane prep, having high-quality gutter guards (especially micro-mesh or reverse-curve systems) can significantly reduce the need for pre-storm cleaning. If you live in a hurricane-prone area, investing in reliable gutter guards is a wise long-term strategy.
+Watch the water at the downspout exit; if it's not flowing strongly, there's still a blockage you need to clear. * **Consider [Gutter](https://pestpolicy.com/are-gutters-necessary/)Guards (Long-Term Prep):** While not a last-minute hurricane prep, having high-quality gutter guards (especially micro-mesh or reverse-curve systems) can significantly reduce the need for pre-storm cleaning. If you live in a hurricane-prone area, investing in reliable gutter guards is a wise long-term strategy.
 However, even with guards, a quick check before a storm is always recommended, as very fine debris or unusual blockages can occur.
 ---
 ---
@@ -36,7 +36,7 @@ While not directly part of the gutter system, window wells are closely related i
 If a downspout ends too close, an overflowing gutter or a heavy downpour can direct water directly into the well, bypassing the intended drainage and leading to basement flooding. Use downspout extensions to direct water at least 5-10 feet away from the foundation and any window wells.
 ---
 
-When a hurricane is approaching, homeowners rightly focus on securing windows, stocking supplies, and planning evacuation routes. However, an often-overlooked but critically important aspect of hurricane preparedness is your home's gutter system. [Gutters](https://pestpolicy.com/all-american-gutters-reviews/) play a vital role in directing massive amounts of rainwater away from your roof, foundation, and landscaping.
+When a hurricane is approaching, homeowners rightly focus on securing windows, stocking supplies, and planning evacuation routes. However, an often-overlooked but critically important aspect of hurricane preparedness is your home's gutter system. [Gutters](https://pestpolicy.com/all-american-gutters-reviews/)play a vital role in directing massive amounts of rainwater away from your roof, foundation, and landscaping.
 
 If they are not properly prepared, a hurricane's torrential downpours and strong winds can quickly overwhelm them, leading to severe and costly damage.
 

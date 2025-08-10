@@ -15,11 +15,11 @@ tags:
 layout: post
 ---
 
-[Fleas](https://pestpolicy.com/do-fleas-bite-humans/) are very stubborn parasites. They like to suck blood from both humans and animals-more so our pets at home. When its cold outside, they find their way into our houses for survival. When on human, can fleas bite through clothes? - **Yes, and No, fleas cant bite through thick clothing or layers of clothes such as denim, jeans, and sneakers.
+[Fleas](https://pestpolicy.com/do-fleas-bite-humans/)are very stubborn parasites. They like to suck blood from both humans and animals-more so our pets at home. When its cold outside, they find their way into our houses for survival. When on human, can fleas bite through clothes? - **Yes, and No, fleas cant bite through thick clothing or layers of clothes such as denim, jeans, and sneakers.
 
 ** - **But, fleas can bite through thin clothes such as silk or lace - thin and tight fabric-like skin tights. Fleas cannot bite through clothes but like to find their way under the clothes and enjoy biting and sucking blood. **
 
-*But, fleas will move under the clothes to feed on your exposed skin. * *Thus, you can stop [flea](https://pestpolicy.com/why-do-flea-bites-itch/) bites by wearing closed-toe shoes, long trousers, and socks - and tuck the pant legs into your socks. * For additional flea bite protection, use sprays some Sawyer Products Permethrin on your garments. Related: Can You Use Dawn Dish Soap
+*But, fleas will move under the clothes to feed on your exposed skin. * *Thus, you can stop [flea](https://pestpolicy.com/why-do-flea-bites-itch/)bites by wearing closed-toe shoes, long trousers, and socks - and tuck the pant legs into your socks. * For additional flea bite protection, use sprays some Sawyer Products Permethrin on your garments. Related: Can You Use Dawn Dish Soap
 
 ##  Can Fleas Bite Through Clothes?
 
@@ -55,7 +55,7 @@ Fleas are found both outdoors and also in houses. They are all-season pests that
 
 ##  **Are Clothes Effective Flea Deterrents?**
 
-Clothes are very effective in protecting you against flea bites but they are not deterrents. - [Repellents](https://pestpolicy.com/home-remedies-for-fleas/)are very good deterrents that you can use, either the essential oils or the sprays for that case. - If you dont have the repellents, long pants and shirts would do such a nice job in preventing flea bites.
+Clothes are very effective in protecting you against flea bites but they are not deterrents. - [Repellents](https://pestpolicy.com/home-remedies-for-fleas/)arevery good deterrents that you can use, either the essential oils or the sprays for that case. - If you dont have the repellents, long pants and shirts would do such a nice job in preventing flea bites.
 
 The biggest worry will be that you may find yourself transferring all the fleas to your home and you may need other methods of elimination.
 

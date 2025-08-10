@@ -38,11 +38,11 @@ The right potting mix provides aeration, drainage, and nutrients.
 Treat with insecticidal soap or neem oil as needed. * **Repotting:** Repot every 1-3 years, or when roots start circling the pot, or when the tree becomes top-heavy. Always go up only one pot size.
 ---
 
-Bringing trees indoors offers a unique way to introduce living architecture, lush greenery, and a sense of calm to your home or office space. Far from merely being large houseplants, indoor [container](https://pestpolicy.com/10-trees-to-grow-in-containers/) trees can transform a room, purify the air, and provide a continuous connection to nature, even in urban environments or during colder months.
+Bringing trees indoors offers a unique way to introduce living architecture, lush greenery, and a sense of calm to your home or office space. Far from merely being large houseplants, indoor [container](https://pestpolicy.com/10-trees-to-grow-in-containers/)trees can transform a room, purify the air, and provide a continuous connection to nature, even in urban environments or during colder months.
 
 While growing a tree indoors presents a different set of challenges compared to outdoor cultivation, with the right selection, proper planting techniques, and diligent care, you can successfully cultivate a thriving arboreal companion within your living space.
 
-This guide will walk you through everything you need to know about planting [indoor](https://pestpolicy.com/best-indoor-flea-killer/) container trees, from selecting the ideal species that can adapt to indoor conditions to choosing the right container, preparing the soil, and ensuring successful long-term growth.
+This guide will walk you through everything you need to know about planting [indoor](https://pestpolicy.com/best-indoor-flea-killer/)container trees, from selecting the ideal species that can adapt to indoor conditions to choosing the right container, preparing the soil, and ensuring successful long-term growth.
 
 Whether you dream of a stately Fiddle Leaf Fig, a fragrant citrus tree, or a dramatic Olive, understanding these fundamentals will set you up for success in bringing the majesty of trees indoors.
 

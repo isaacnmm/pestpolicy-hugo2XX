@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 
-Do you have a house wall, car, or garage that's painted in some odd Rust-Oleum color? So, you're wondering, "does [acetone](https://pestpolicy.com/can-you-clean-hvlp-with-acetone/) remove paint? " The painting has no clear coat but offers excellent corrosion resistance and color retention.
+Do you have a house wall, car, or garage that's painted in some odd Rust-Oleum color? So, you're wondering, "does [acetone](https://pestpolicy.com/can-you-clean-hvlp-with-acetone/)remove paint? " The painting has no clear coat but offers excellent corrosion resistance and color retention.
 
 *In brief, YES, Acetone (a solvent) removes acrylic paint, enamels, and oil-based paints (both dry and fresh). It'll lift the mineral spirits and dry fast as you spin and shake the brush. * *Acetone, as an ingredient, is used to remove paint and varnish. It'll take off the paint right off when you pour it directly on your painted surfaces. * *When you get your paint ruined, you spray the acetone on the painting, and it'll merely clean it.
 
@@ -23,7 +23,7 @@ Acetone is neither HAP nor VOC and hence it's usable both for cleaning or cleari
 
 ##  Details: Does Acetone Remove Paint?
 
-Although acetone has some strong odor, it's not toxic since it'll only lead to some moderate irritation on your central nervous system. See Also: [Stain Pressure Treated Wood](https://pestpolicy.com/how-to-stain-pressure-treated-wood/). Acetone is mixable (miscible) with different solvents plus water, and thus it's usable with your regular coloring products, finishes, and paints.
+Although acetone has some strong odor, it's not toxic since it'll only lead to some moderate irritation on your central nervous system. See Also: [Stain Pressure Treated Wood](https://pestpolicy.com/how-to-stain-pressure-treated-wood/).Acetone is mixable (miscible) with different solvents plus water, and thus it's usable with your regular coloring products, finishes, and paints.
 
 Since Acetone has fast evaporation, it is also highly flammable and may result in a flash fire or explosion.
 
@@ -35,7 +35,7 @@ First, wear your mask and gloves as acetone is a dangerous chemical that'll diss
 
 ###  2.Cleaning with Acetone
 
-Acetone is s regular degreaser and cleaner for most industries and labs. You'll also find acetone as a critical ingredient in your [fingernail polish](https://pestpolicy.com/does-nail-polish-remover-remove-paint/) that'll remove cyanoacrylate (CA) and epoxy adhesives.
+Acetone is s regular degreaser and cleaner for most industries and labs. You'll also find acetone as a critical ingredient in your [fingernail polish](https://pestpolicy.com/does-nail-polish-remover-remove-paint/)that'll remove cyanoacrylate (CA) and epoxy adhesives.
 
 Besides the cleaning role, you can also use the same Acetone to remove resinous oils on rosewood and teak, among other oily woods - it'll worm better than denatured alcohol or naphtha. Acetone is considered to be water-miscible.
 

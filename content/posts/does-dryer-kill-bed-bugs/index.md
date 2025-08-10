@@ -21,7 +21,7 @@ Lets get into the details. Related: Pictures of Bed Bugs
 
 ##  Does Dryer Kill Bed Bugs? Keenly Laundering Items
 
-Bed bugs are causedby different factors, such as purchasing second-hand furniture. Bed bugs can bite through clothing. To kill bed bugs, youll need to set your [dryer temperature between 39oC to 51oC](https://www.bedbugs. umn. edu/bed-bug-control-in-residences/laundering). However, below are the steps to take in the drying process. **1. Sorting ** - Select bed bug-infested clothes according to: **2.
+Bed bugs are causedby different factors, such as purchasing second-hand furniture. Bed bugs can bite through clothing. To kill bed bugs, youll need to set your [dryer temperature between 39oC to 51oC](https://www.bedbugs.umn.edu/bed-bug-control-in-residences/laundering).However, below are the steps to take in the drying process. **1. Sorting ** - Select bed bug-infested clothes according to: **2.
 
 Fabrics** Cotton, wool, linen, nylon synthetic, etc. **3.
 
@@ -87,7 +87,7 @@ Frequent repair and maintenance of the washing machine are necessary to assess i
 
 ##  **Can dry Cleaning chemical/ detergent kill bed bugs?**
 
-**NO! ** Chemicals mostly used in detergents ( [apart from Lysol](https://pestpolicy.com/does-lysol-kill-bed-bugs/) ) do not kill bed bugs. Soapy water wont kill bed bugs too. However, bed bugs suck foam from soapy water, which makes them fatten and easily float - *a condition that they recover from after water is drained*. However, for high [efficiency in killing bed bugs](https://pestpolicy.com/does-vinegar-kill-bed-bugs/), dry the infested clothes at about 123 degrees Fahrenheit.
+**NO! ** Chemicals mostly used in detergents ( [apart from Lysol](https://pestpolicy.com/does-lysol-kill-bed-bugs/)) do not kill bed bugs. Soapy water wont kill bed bugs too. However, bed bugs suck foam from soapy water, which makes them fatten and easily float - *a condition that they recover from after water is drained*. However, for high [efficiency in killing bed bugs](https://pestpolicy.com/does-vinegar-kill-bed-bugs/),dry the infested clothes at about 123 degrees Fahrenheit.
 
 ##  **How do you pack bed bugs-infested clothes for dry cleaning?**
 
@@ -105,7 +105,7 @@ This will cost may cost you about 2000 dollars or more. In case you need a dry c
 
 ##  How much does it cost to kill bed bugs using a dryer?
 
-The cost of [treatment of bed bugs, including with lavender](https://pestpolicy.com/does-lavender-kill-bed-bugs/), is a function of the following factors: 1. Quantity of clothes infested with bed bugs. The nature and type of cloth fabrics. 2. The time through which bed bugs infested clothes runs in a dryer. 3. The extent to which clothes are infested with bed bugs a few of the bed bugs' colonies. 4.
+The cost of [treatment of bed bugs, including with lavender](https://pestpolicy.com/does-lavender-kill-bed-bugs/),is a function of the following factors: 1. Quantity of clothes infested with bed bugs. The nature and type of cloth fabrics. 2. The time through which bed bugs infested clothes runs in a dryer. 3. The extent to which clothes are infested with bed bugs a few of the bed bugs' colonies. 4.
 
 Location and transportation of bed bugs-infestedclothes.
 

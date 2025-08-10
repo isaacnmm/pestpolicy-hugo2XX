@@ -55,7 +55,7 @@ It also has a blower adapter, several brushes, HEPA bag, several nozzle sets, ex
 
 Pros - Versatile - Lightweight - Electric powered - Easy to use on both hands - Multiple nozzles Cons - It's costly
 
-##  [**4. ****My Critter [Spider](https://pestpolicy.com/best-spider-killer/) and Insect Catcher**](https://www.amazon.com/dp/B01A3N09F4/?tag=p-policy-20)
+##  [**4. ****My Critter [Spider](https://pestpolicy.com/best-spider-killer/)and Insect Catcher**](https://www.amazon.com/dp/B01A3N09F4/?tag=p-policy-20)
 
 My critter catcher is an environmentally friendly spider, cockroaches, and bug catcher. You can use it in offices, homes, schools or even hotels.
 

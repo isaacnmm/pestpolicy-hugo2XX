@@ -14,11 +14,11 @@ tags:
 layout: post
 ---
 
-Today I present a superb compilation of the Best [Lego](https://pestpolicy.com/best-lego-set-for-11-year-old-boy/) Sets for 9 Year Old Boy. I have included various types of mind-blowing sets to keep your little one stimulated and entertained all day long.
+Today I present a superb compilation of the Best [Lego](https://pestpolicy.com/best-lego-set-for-11-year-old-boy/)Sets for 9 Year Old Boy. I have included various types of mind-blowing sets to keep your little one stimulated and entertained all day long.
 
 Hence, all the Lego sets in this list are user-friendly have easy-to-follow instructions, have eye-catching aesthetics, and the designs are top-notch. Your 9-Year-Old Boy will definitely love these Lego sets. Lets get started!
 
-Related: [Best Lego [Set](https://pestpolicy.com/best-lego-sets-for-8-year-old-boy/) For an 11-Year-Old Boy](https://pestpolicy.com/best-lego-set-for-11-year-old-boy/)
+Related: [Best Lego [Set](https://pestpolicy.com/best-lego-sets-for-8-year-old-boy/)For an 11-Year-Old Boy](https://pestpolicy.com/best-lego-set-for-11-year-old-boy/)
 
 ##  Review: Best Lego Sets For 9 Year Old Boy
 

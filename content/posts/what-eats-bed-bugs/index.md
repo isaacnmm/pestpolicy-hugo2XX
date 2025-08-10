@@ -39,7 +39,7 @@ Theyll bite even humans, especially around the mouth. Thats why they are sometim
 
 ###  2. Cockroaches
 
-Roaches are very fond of [eating bed bugs and their eggs](https://pestpolicy.com/do-cockroaches-eat-[bed-bugs](https://pestpolicy.com/what-animals-eat-bed-bugs/)/). In fact roaches will eat anything from food crumbs, wood, paper, glue, trash, the list is endless.
+Roaches are very fond of [eating bed bugs and their eggs](https://pestpolicy.com/do-cockroaches-eat-[bed-bugs](https://pestpolicy.com/what-animals-eat-bed-bugs/)/).In fact roaches will eat anything from food crumbs, wood, paper, glue, trash, the list is endless.
 
 Standing at between 1 and 3 inches long, roaches outsize bed bugs and can move very fast, making it easy to run after the bed bugs. However, not all roaches eat bed bug. The most common bed bug eating roaches include the American roach, The German roach and the oriental roach.
 
@@ -49,7 +49,7 @@ Although cockroaches can eat a great deal of bed bugs, therere good reasons for 
 
 ###  3. Spiders
 
-Spiders are [natural predators of bed bugs](https://pestpolicy.com/do-spiders-eat-bed-bugs/), mosquitoes, flies and many other small creatures. Some spiders make webs in different corners of the house to trap and eat small creatures that crawl or fly nearby.
+Spiders are [natural predators of bed bugs](https://pestpolicy.com/do-spiders-eat-bed-bugs/),mosquitoes, flies and many other small creatures. Some spiders make webs in different corners of the house to trap and eat small creatures that crawl or fly nearby.
 
 Others like the Philodromid Crab Spiders are swift enough to track and run after the bed bugs. Although some spiders are poisonous, many of them are naturally harmless and will feed on most of the nagging house pests including bed bugs.
 
@@ -61,7 +61,7 @@ Similar to other natural predators, spiders will neither be a good option for er
 
 ###  4. Ants
 
-Many ant species love sweet foods like honeydew but will also [ants feed on small creatures including bed bugs](https://pestpolicy.com/do-ants-eat-bed-bugs/) to add protein to their diet.
+Many ant species love sweet foods like honeydew but will also [ants feed on small creatures including bed bugs](https://pestpolicy.com/do-ants-eat-bed-bugs/)to add protein to their diet.
 
 The most common bed bug eating ants include the pharaoh ant, fire ants and the argentine ant. But the pharaoh ant has been documented to be especially notorious for eating bed bugs.
 
@@ -143,7 +143,7 @@ You can use chemical sprays such as permethrin, encasements and diatomaceous ear
 
 ##  Sources:
 
-1. [Bed Bugs: Clinical Relevance and Control Options - NCBI](https://www.ncbi. nlm. nih. gov/pmc/articles/PMC3255965/) 2. [Bed Bugs Entomology](https://entomology.ca. uky. edu/ef636) 3. [Let's Beat the Bed Bug! ](https://www.bedbugs. umn. edu/) 4. [Bed Bug Management Guidelines--UC IPM](http://ipm.ucanr. edu/PMG/PESTNOTES/pn7454. html) 5. [Bedbugs beware: New research may beat back bedbug epidemic](https://news.psu.
+1. [Bed Bugs: Clinical Relevance and Control Options - NCBI](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3255965/)2. [Bed Bugs Entomology](https://entomology.ca.uky.edu/ef636)3. [Let's Beat the Bed Bug! ](https://www.bedbugs.umn.edu/)4. [Bed Bug Management Guidelines--UC IPM](http://ipm.ucanr.edu/PMG/PESTNOTES/pn7454.html)5. [Bedbugs beware: New research may beat back bedbug epidemic](https://news.psu.
 
 edu/story/457391/2017/03/22/bedbugs-beware-new-research-may-beat-back-bedbug-epidemic)
 

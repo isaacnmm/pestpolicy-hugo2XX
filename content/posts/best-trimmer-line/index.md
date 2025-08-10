@@ -25,7 +25,7 @@ If you own an extensive lawn, the Cyclone CY155S3 commercial trimmer line is the
 
 This Cyclone model is an excellent choice if you are looking to do some fine trimming as fast as possible. This trimmer line is proprietary grade measuring at 0. 155 inches diameter, making it ideal for cutting through dense weed with no visible damage. The Cyclone CY155S3 Commercial Trimmer Line is ideal for use with high-wheel trimmers. It is compatible with trimmers measuring 0. 065-inch in diameter.
 
-This commercial trimmer line is the ideal walk-behind tool if you are looking for something strong to fit your gasoline powered hand trimmer. The Cyclone line is designed for tough materials and it may not be worth the extra cost if you are dealing with light to medium duty tasks. Check [[tillers](https://pestpolicy.com/best-electric-tiller-for-clay-soil/) for new ground](https://pestpolicy.com/best-tiller-for-breaking-new-ground/).
+This commercial trimmer line is the ideal walk-behind tool if you are looking for something strong to fit your gasoline powered hand trimmer. The Cyclone line is designed for tough materials and it may not be worth the extra cost if you are dealing with light to medium duty tasks. Check [[tillers](https://pestpolicy.com/best-electric-tiller-for-clay-soil/)for new ground](https://pestpolicy.com/best-tiller-for-breaking-new-ground/).
 
 Pros: - Ideal for commercial use - It has 6-bladed multiple side trimmer - It is thick and reinforced with polymers which increases its durability - The tool is ideal for thick grassy areas and can trim about 100 feet of yard non-stop
 
@@ -33,7 +33,7 @@ Cons: - High noise levels
 
 ###  [2. Oregon Heavy-Duty Professional Magnum Gatorline (Medium Weight)](https://www.amazon.com/dp/B0018TWCOO/?tag=p-policy-20)
 
-This is a medium weight trimmer [line](https://pestpolicy.com/pre-emergent-herbicide/) measuring 0. 095 inches in diameter. It is capable of cutting through the main weeds and grasses growing around your compound. Yet, it is small enough to fit in most cord trimmers.
+This is a medium weight trimmer [line](https://pestpolicy.com/pre-emergent-herbicide/)measuring 0. 095 inches in diameter. It is capable of cutting through the main weeds and grasses growing around your compound. Yet, it is small enough to fit in most cord trimmers.
 
 Oregon Heavy-Duty Professional Magnum Gatorline is a favorite among commercial landscaping companies and land owners in general. The trimmer line is a square shaped duel polymer whose core is high in strength. This feature provides that extra grip needed for its outer layer which is both flexible and weld-resistant. Its multi-sided edges enable it to slice through grass and weeds with minimal resistance.
 

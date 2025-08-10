@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 
-[Fleas](https://pestpolicy.com/best-flea-carpet-powder/) can be annoying to both humans and pets. Worse still, they could cause severe health complications if not controlled - try the [best](https://pestpolicy.com/best-flea-collar-for-dogs/) flea spray for the yard. - There are different types of sprays that can be used to kill and keep fleas off your yard. - Home improvement entails many things, and pest control is one of them.
+[Fleas](https://pestpolicy.com/best-flea-carpet-powder/)can be annoying to both humans and pets. Worse still, they could cause severe health complications if not controlled - try the [best](https://pestpolicy.com/best-flea-collar-for-dogs/)flea spray for the yard. - There are different types of sprays that can be used to kill and keep fleas off your yard. - Home improvement entails many things, and pest control is one of them.
 
 However, with many products on the market, knowing what would work best might be a considerable challenge.
 

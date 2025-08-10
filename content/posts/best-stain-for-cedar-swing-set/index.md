@@ -76,7 +76,7 @@ Read Also: [Swing Sets for Small Yards](https://pestpolicy.com/best-[swing-sets]
 
 ###  [4. Thompsons WaterSeal TH.A21711-16 Advanced Natural Wood Protector](https://www.amazon.com/dp/B00C0E0PR2/?tag=p-policy-20)
 
-Thompsons WaterSeal Natural Wood Protector offers one coat protection that attacks mildew and protects playset against UV damage. The [stain](https://pestpolicy.com/best-stain-for-douglas-fir-door/) is waterproofer you can apply it immediately after cleaning your playset.
+Thompsons WaterSeal Natural Wood Protector offers one coat protection that attacks mildew and protects playset against UV damage. The [stain](https://pestpolicy.com/best-stain-for-douglas-fir-door/)is waterproofer you can apply it immediately after cleaning your playset.
 
 When painting a wooden swing set, you may want to consider the Thompson's Water Seal Natural Wood Protector. This stain is prepared explicitly for cedar playset maintenance.
 

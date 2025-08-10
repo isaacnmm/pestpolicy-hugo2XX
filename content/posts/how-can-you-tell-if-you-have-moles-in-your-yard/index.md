@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 
-Maybe in your yard, you spotted a mouse or a rat, or its a [mole](https://pestpolicy.com/do-moles-have-eyes/) but you can tell the difference. How can you tell if you have moles in [your](https://pestpolicy.com/how-to-clean-your-laptop-keyboard/) yard? **Well, here are the signs of moles in the yard; moulding, drying plants and grass, and sighting a mole.
+Maybe in your yard, you spotted a mouse or a rat, or its a [mole](https://pestpolicy.com/do-moles-have-eyes/)but you can tell the difference. How can you tell if you have moles in [your](https://pestpolicy.com/how-to-clean-your-laptop-keyboard/)yard? **Well, here are the signs of moles in the yard; moulding, drying plants and grass, and sighting a mole.
 
 You need to deal with them, the moment you spot them before the level of damage can be extensive.
 

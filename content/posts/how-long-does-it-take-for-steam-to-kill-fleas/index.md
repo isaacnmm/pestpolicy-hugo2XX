@@ -15,9 +15,9 @@ tags:
 layout: post
 ---
 
-[Fleas](https://pestpolicy.com/best-steam-cleaner-for-fleas/) will attack your carpets, furniture, and clothing in your home - quickly growing into a major problem. Many homeowners turn to pesticides to remove fleas, but some may be harmful to humans and pets. However, hot & pressurized [steam](https://pestpolicy.com/does-steam-cleaning-kill-fleas/) is a suitable, non-chemical method to kill fleas.
+[Fleas](https://pestpolicy.com/best-steam-cleaner-for-fleas/)will attack your carpets, furniture, and clothing in your home - quickly growing into a major problem. Many homeowners turn to pesticides to remove fleas, but some may be harmful to humans and pets. However, hot & pressurized [steam](https://pestpolicy.com/does-steam-cleaning-kill-fleas/)is a suitable, non-chemical method to kill fleas.
 
-- But on the question of how long that steam will take to kill the fleas depends on different factors such as the duration of exposure and the steam temperature - you may still need to vacuum. So, in this post, I'll outline the time steam requires to kill these fleas. Further, I'll recommend the most [suitable steam cleaner](https://pestpolicy.com/best-steam-cleaner-for-fleas/) that I've found so far for removing fleas and cleaning.
+- But on the question of how long that steam will take to kill the fleas depends on different factors such as the duration of exposure and the steam temperature - you may still need to vacuum. So, in this post, I'll outline the time steam requires to kill these fleas. Further, I'll recommend the most [suitable steam cleaner](https://pestpolicy.com/best-steam-cleaner-for-fleas/)that I've found so far for removing fleas and cleaning.
 
 **Typically, exposing fleas to steam at a temperature of 203F (95C) for a minimum of 30 seconds can kill both adult fleas and their eggs. But positing the steam hose for a long time such as 2 minutes on an area that has fleas will kill all these bugs. **
 

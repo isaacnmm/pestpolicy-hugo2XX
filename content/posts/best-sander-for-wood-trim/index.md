@@ -94,9 +94,9 @@ Moreover, BOSCH OS50VC comes with a translucent micro-filter dust canister that 
 
 The belt sander is slightly inclined to allow sufficient pick-up and gradient surface cleaning without any challenge. BOSCH OS50VC integrates a high torque electric motor, which supplies continuous sanding motion without getting fatigued. Importantly, BOSCH OS50VC comes with multiple-grip locations and a microcellular backing pad.
 
-Pros: - Its affordable and[more comfortable to use](https://pestpolicy.com/best-pump-[sprayers](https://pestpolicy.com/best-air-compressors-for-spray-painting/)-for-staining-fences/) - Comes with flat-base plate and belt sandpaper - Integrates rugged, die-cast aluminum housing - Come with multiple-grip location and flat base plate - Has microcellular backing pad and comfortable handle - Comes with dedicated electric motor no fatigue - Creates minimal noise/vibrations
+Pros: - Its affordable and[more comfortable to use](https://pestpolicy.com/best-pump-[sprayers](https://pestpolicy.com/best-air-compressors-for-spray-painting/)-for-staining-fences/)- Comes with flat-base plate and belt sandpaper - Integrates rugged, die-cast aluminum housing - Come with multiple-grip location and flat base plate - Has microcellular backing pad and comfortable handle - Comes with dedicated electric motor no fatigue - Creates minimal noise/vibrations
 
-Cons: - A bit expensive as compared to others - The power cord could be longer - Not best for round [wood](https://pestpolicy.com/best-paint-for-outdoor-wood-deck/) surface
+Cons: - A bit expensive as compared to others - The power cord could be longer - Not best for round [wood](https://pestpolicy.com/best-paint-for-outdoor-wood-deck/)surface
 
 ###  [6. Makita Variable Sander Rotary Disc](https://www.amazon.com/dp/B00005Q7CG/?tag=p-policy-20)
 
@@ -124,7 +124,7 @@ Unlike other circular sanders, SKIL 5 Random comes with an angled base diameter 
 
 You will also fix medium grip sandpaper for your polishing activity without any problem. Importantly, SKIL 5 Random is budget-friendly and has low vibrations.
 
-Pros: - Comes with a classic ergonomic handle and attractive design - Its lightweight and more comfortable to use - Features high-torque motor and low power - Generates low vibrations minimal noise - Has angled base diameter [reduces dust overspray](https://pestpolicy.com/best-paint-for-outdoor-wood-furniture/) - Its affordable and simple to set up - Comes with X-flow dust collector and simple press button - Best for medium grit sandpaper smooth polishing - Entails a variable speed control maximum of 13000 RPM - Has an impressive outlook and beautiful color
+Pros: - Comes with a classic ergonomic handle and attractive design - Its lightweight and more comfortable to use - Features high-torque motor and low power - Generates low vibrations minimal noise - Has angled base diameter [reduces dust overspray](https://pestpolicy.com/best-paint-for-outdoor-wood-furniture/)- Its affordable and simple to set up - Comes with X-flow dust collector and simple press button - Best for medium grit sandpaper smooth polishing - Entails a variable speed control maximum of 13000 RPM - Has an impressive outlook and beautiful color
 
 Cons: - Unsuitable for large scale sanding operations - The dust collector could be more - Only compatible with circular discs
 

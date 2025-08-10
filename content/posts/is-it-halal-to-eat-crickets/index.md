@@ -17,13 +17,13 @@ layout: post
 
 Dietary choices in Islam are deeply rooted in the principles of halal (permissible) and haram (forbidden) as prescribed by Islamic jurisprudence. These principles guide Muslims in their food selections, ensuring that what they consume aligns with their religious beliefs.
 
-- In recent times, the question of whether it is halal to eat insects, including [crickets](https://pestpolicy.com/are-crickets-decomposers/), has gained attention due to scientific interest in alternative protein sources and ethical concerns regarding sustainable food practices.
+- In recent times, the question of whether it is halal to eat insects, including [crickets](https://pestpolicy.com/are-crickets-decomposers/),has gained attention due to scientific interest in alternative protein sources and ethical concerns regarding sustainable food practices.
 
-In this comprehensive guide, we will explore the intricate and nuanced [halal status of consuming insects](https://seekersguidance.org/answers/shafii-fiqh/what-insects-are-permissible-to-[eat](https://pestpolicy.com/do-cats-eat-lizards/)-according-to-the-shafii-school/), drawing insights from Islamic jurisprudence, scientific research, and diverse opinions within the major Sunni Islamic schools of thought.
+In this comprehensive guide, we will explore the intricate and nuanced [halal status of consuming insects](https://seekersguidance.org/answers/shafii-fiqh/what-insects-are-permissible-to-[eat](https://pestpolicy.com/do-cats-eat-lizards/)-according-to-the-shafii-school/),drawing insights from Islamic jurisprudence, scientific research, and diverse opinions within the major Sunni Islamic schools of thought.
 
 ##  The Halal Status: Are Insects, Including Crickets, Permissible?
 
-**In the general framework of Islamic dietary guidelines, consuming insects such as crickets is considered halal. ** This conclusion is based on several factors, including the absence of explicit prohibitions in the Quran and Hadith regarding insect consumption such as [grasshoppers](https://www.bugsolutely. com/wp-content/uploads/2018/07/Fatwa-Consuming-Word-and-Cricket. pdf).
+**In the general framework of Islamic dietary guidelines, consuming insects such as crickets is considered halal. ** This conclusion is based on several factors, including the absence of explicit prohibitions in the Quran and Hadith regarding insect consumption such as [grasshoppers](https://www.bugsolutely.com/wp-content/uploads/2018/07/Fatwa-Consuming-Word-and-Cricket.pdf).
 
 - However, as with many aspects of halal dietary choices, the issue is more complex and nuanced than a simple yes or no answer.
 
@@ -35,7 +35,7 @@ Among the four major Sunni Islamic schools of thought (Madhabs), there are diffe
 
 ###  The Role of Source and Preparation
 
-The halal status of insects hinges significantly on their source and how they are prepared. Just like any other food, insects must be sourced from reputable and halal sources. - This ensures they are raised and harvested in compliance with Islamic principles - acccording to the[Islamic Services of America](https://www.isahalal. com/news-events/blog/eating-insects-halal).
+The halal status of insects hinges significantly on their source and how they are prepared. Just like any other food, insects must be sourced from reputable and halal sources. - This ensures they are raised and harvested in compliance with Islamic principles - acccording to the[Islamic Services of America](https://www.isahalal.com/news-events/blog/eating-insects-halal).
 
 Furthermore, proper hygiene and preparation techniques are vital to maintaining the halal status of insects.
 

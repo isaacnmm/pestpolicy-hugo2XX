@@ -16,7 +16,7 @@ tags:
 layout: post
 ---
 
-Dealing with a [bed](https://pestpolicy.com/bed-bug-bites-vs-mosquito-bites/) [bug](https://pestpolicy.com/bed-bug-bites-vs-other-bites/) infestation can be a stressful experience for homeowners in Eugene, OR. - Bed bugs are resilient pests that can quickly spread and are notoriously difficult to eradicate without professional assistance.
+Dealing with a [bed](https://pestpolicy.com/bed-bug-bites-vs-mosquito-bites/)[bug](https://pestpolicy.com/bed-bug-bites-vs-other-bites/) infestation can be a stressful experience for homeowners in Eugene, OR. - Bed bugs are resilient pests that can quickly spread and are notoriously difficult to eradicate without professional assistance.
 
 Here are some effective strategies specifically tailored to Eugenes unique conditions to manage and prevent bed bug infestations.
 
@@ -34,7 +34,7 @@ Preventing a bed bug infestation is the first step in effective bed bug control.
 
 ####  DIY Bed Bug Control Methods
 
-If you suspect a bed bug infestation in [your home](https://pestpolicy.com/hendricks-park/), here are some DIY methods to help manage the problem: 1. **Vacuuming**: Thoroughly vacuum areas where bed bugs are likely to hide, including mattresses, box springs, bed frames, furniture, and baseboards. Immediately dispose of the vacuum bag in a sealed plastic bag. 2.
+If you suspect a bed bug infestation in [your home](https://pestpolicy.com/hendricks-park/),here are some DIY methods to help manage the problem: 1. **Vacuuming**: Thoroughly vacuum areas where bed bugs are likely to hide, including mattresses, box springs, bed frames, furniture, and baseboards. Immediately dispose of the vacuum bag in a sealed plastic bag. 2.
 
 **Steam Treatment**: Use a steam cleaner on mattresses, furniture, and carpeting to kill bed bugs and their eggs. 3.
 

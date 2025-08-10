@@ -16,7 +16,7 @@ tags:
 layout: post
 ---
 
-The decision to plant a [tree](https://pestpolicy.com/10-trees-to-grow-in-containers/) in [your](https://pestpolicy.com/growing-chrysanthemums-in-your-garden/) yard is an investment, not just in your landscape's aesthetic appeal, but in your property's value, the environment, and even your quality of life. A well-chosen tree can provide decades of shade, beauty, privacy, and habitat for wildlife.
+The decision to plant a [tree](https://pestpolicy.com/10-trees-to-grow-in-containers/)in [your](https://pestpolicy.com/growing-chrysanthemums-in-your-garden/)yard is an investment, not just in your landscape's aesthetic appeal, but in your property's value, the environment, and even your quality of life. A well-chosen tree can provide decades of shade, beauty, privacy, and habitat for wildlife.
 
 Conversely, a poorly selected tree can lead to costly problems, from root damage to foundations and pipes, to constant maintenance headaches, or simply failing to thrive. Choosing the right tree is far more complex than picking the prettiest one at the nursery; it requires thoughtful consideration of numerous factors that ensure its long-term success in your specific environment.
 

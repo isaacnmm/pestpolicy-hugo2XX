@@ -36,7 +36,7 @@ While much of bathroom fan maintenance is DIY-friendly, certain situations warra
 * **Fan Replacement:** If your fan is old, severely damaged, or significantly undersized for your bathroom, a professional HVAC technician can recommend and install a new, more efficient unit.
 ---
 
-Your [bathroom](https://pestpolicy.com/bathroom-vent-fan-cfm-calculator/) [vent](https://pestpolicy.com/how-to-properly-vent-a-bathroom-exhaust-fan-in-an-attic/) fan, often an unassuming fixture in the ceiling, plays a vital role in the health and longevity of your bathroom.
+Your [bathroom](https://pestpolicy.com/bathroom-vent-fan-cfm-calculator/)[vent](https://pestpolicy.com/how-to-properly-vent-a-bathroom-exhaust-fan-in-an-attic/) fan, often an unassuming fixture in the ceiling, plays a vital role in the health and longevity of your bathroom.
 
 Its primary job is to extract excess moisture, unpleasant odors, and airborne particles, preventing the conditions that lead to mold, mildew, peeling paint, and structural damage.
 

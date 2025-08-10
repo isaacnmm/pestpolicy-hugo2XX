@@ -26,9 +26,9 @@ Related: Best Power Wheels for 7 Year Old
 
 ##  Review: 7 Best Power Wheels for 3 Year Old
 
-###  [1. Moderno Kids Mercedes C63S](https://www.amazon.com/dp/B07TYGPPCH/?tag=p-policy-20)- 3-Year-Old Power [Wheel](https://pestpolicy.com/best-power-wheels-for-2-year-old/)
+###  [1. Moderno Kids Mercedes C63S](https://www.amazon.com/dp/B07TYGPPCH/?tag=p-policy-20)-3-Year-Old Power [Wheel](https://pestpolicy.com/best-power-wheels-for-2-year-old/)
 
-If youre looking for a luxury car for a 3-year-old pick the Moderno Kids Mercedes C63S. This is one of the best Mercedes Benz Ride-On cars for kids aged 3-5 years. With a supervisor, your [one-year-old](https://pestpolicy.com/best-power-wheels-for-1-year-old/) can also enjoy a ride in this fun-filled luxury car.
+If youre looking for a luxury car for a 3-year-old pick the Moderno Kids Mercedes C63S. This is one of the best Mercedes Benz Ride-On cars for kids aged 3-5 years. With a supervisor, your [one-year-old](https://pestpolicy.com/best-power-wheels-for-1-year-old/)can also enjoy a ride in this fun-filled luxury car.
 
 The C63S is a Single Rider Kids car that comes with an array of safety features and technologies to keep your little one safe.
 
@@ -52,7 +52,7 @@ Cons: - Pricey
 
 Also Read: [Best Power Wheels for 2 Year Old](https://pestpolicy.com/best-power-wheels-for-2-year-old/)
 
-###  [2. Peg Perego John Deere Front Loader, with Pedal](https://www.amazon.com/dp/B00B1RG2S0/tag=p-policy-20)- Best Power Wheels for 3-Year-Old
+###  [2. Peg Perego John Deere Front Loader, with Pedal](https://www.amazon.com/dp/B00B1RG2S0/tag=p-policy-20)-Best Power Wheels for 3-Year-Old
 
 If your child loves doing things hands-on and they like to help around the Peg Perego John Deere Front Loader would be an ideal choice for them.
 

@@ -92,7 +92,7 @@ Having the right tools, and keeping them sharp and clean, is crucial for making 
 
 4. **Hedge Shears: ** * **Purpose: ** Primarily for shaping formal hedges and creating straight lines. * **Features: ** Long, scissor-like blades. Available as manual or powered (electric, cordless, or gas). * **Consideration: ** Use for shearing only. Not ideal for selective thinning cuts, as they can cause uneven growth and plant stress if overused.
 
-5. **Gloves: ** * **Purpose: ** Protect your hands from thorns, rough bark, and blisters. * **Type: ** Choose durable [gardening](https://pestpolicy.com/august-lawn-and-garden-to-do-list/) gloves that offer good dexterity.
+5. **Gloves: ** * **Purpose: ** Protect your hands from thorns, rough bark, and blisters. * **Type: ** Choose durable [gardening](https://pestpolicy.com/august-lawn-and-garden-to-do-list/)gloves that offer good dexterity.
 
 6. **Safety Glasses: ** * **Purpose: ** Protect your eyes from flying debris, twigs, or sap. Essential for any pruning work.
 
@@ -114,7 +114,7 @@ Beyond the basic cuts, several specific techniques are used to achieve different
 
 ###  2. Thinning for Air Circulation and Light
 
-* **Technique: ** Use thinning cuts to remove entire branches back to their point of origin (the main stem, ground, or a larger branch). Focus on removing branches that are crossing, rubbing, growing inward, or are simply too dense. * **Purpose: ** Improves light penetration and air circulation within the [shrub](https://pestpolicy.com/can-i-plant-trees-and-shrubs-in-late-fall-or-winter/), reducing the risk of fungal diseases and promoting healthy growth throughout the plant.
+* **Technique: ** Use thinning cuts to remove entire branches back to their point of origin (the main stem, ground, or a larger branch). Focus on removing branches that are crossing, rubbing, growing inward, or are simply too dense. * **Purpose: ** Improves light penetration and air circulation within the [shrub](https://pestpolicy.com/can-i-plant-trees-and-shrubs-in-late-fall-or-winter/),reducing the risk of fungal diseases and promoting healthy growth throughout the plant.
 
 Maintains a natural shape.
 

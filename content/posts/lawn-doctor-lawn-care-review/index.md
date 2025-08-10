@@ -17,7 +17,7 @@ layout: post
 ---
 ---
 
-In the landscape of professional [lawn](https://pestpolicy.com/10-essential-lawn-and-garden-tools-for-fall/) care, Lawn Doctor stands as a venerable and highly recognizable name, synonymous with expertise and a commitment to cultivating healthy, vibrant lawns.
+In the landscape of professional [lawn](https://pestpolicy.com/10-essential-lawn-and-garden-tools-for-fall/)care, Lawn Doctor stands as a venerable and highly recognizable name, synonymous with expertise and a commitment to cultivating healthy, vibrant lawns.
 
 Operating through a robust network of locally owned and operated franchises across the United States, Lawn Doctor has built its reputation on a combination of scientific turf management principles, proprietary application equipment, and a strong dedication to customer satisfaction backed by a compelling guarantee.
 

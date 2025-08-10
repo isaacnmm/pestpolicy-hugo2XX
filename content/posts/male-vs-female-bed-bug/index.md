@@ -15,7 +15,7 @@ tags:
 layout: post
 ---
 
-Unlike other big animals like mammals, it's not easy to tell male or female [bedbug](https://en.wikipedia. org/wiki/Bed_bug) by just looking. *On male vs. female bed bugs; female bedbugs have rounded abdomen while male counterparts have pointed ones. Unlike females, males don't lay eggs. * - *However, they participate in the reproduction process (mating).
+Unlike other big animals like mammals, it's not easy to tell male or female [bedbug](https://en.wikipedia.org/wiki/Bed_bug)by just looking. *On male vs. female bed bugs; female bedbugs have rounded abdomen while male counterparts have pointed ones. Unlike females, males don't lay eggs. * - *However, they participate in the reproduction process (mating).
 
 Both male and female bedbugs are brown in color and move equally fast - including *baby bed bugs.
 
@@ -93,7 +93,7 @@ At times bedbugs die of suffocation - Heating bedbug-infested room to a temperat
 
 ##  Conclusion
 
-In summary, [male vs female bed bugs](https://pestpolicy.com/can-you-see-bed-bugs/), female bedbugs have rounded abdomen while male counterparts have pointed ones. Unlike females, males don't lay eggs. However, they participate in the reproduction process (mating). Both males and females are brown (medium to dark brown) in color and move equally fast. - Male & female bedbugs have stripe mark patterns on their abdomen and have equal body size.
+In summary, [male vs female bed bugs](https://pestpolicy.com/can-you-see-bed-bugs/),female bedbugs have rounded abdomen while male counterparts have pointed ones. Unlike females, males don't lay eggs. However, they participate in the reproduction process (mating). Both males and females are brown (medium to dark brown) in color and move equally fast. - Male & female bedbugs have stripe mark patterns on their abdomen and have equal body size.
 
 - Their body layout is made up of head, thorax, and abdomen, while movement is made possible with the help of 3 pairs of legs that are strategically fixed with body structure. - Although male and female bedbugs have wings, they are too small to enable them to fly (they are vestigial). Bedbugs are risky to human health. Therefore, you should learn signs and ways to curb their infestation as highlighted in this article.
 

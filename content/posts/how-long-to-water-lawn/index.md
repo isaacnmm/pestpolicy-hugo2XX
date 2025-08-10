@@ -19,7 +19,7 @@ Watering your lawn might seem like a simple task, but determining the correct du
 
 The elusive "how long" question doesn't have a single, universal answer; it depends on a symphony of factors including grass type, soil composition, climate, and the specific sprinkler system you're using.
 
-Understanding the [optimal](https://pestpolicy.com/when-to-fertilize-your-lawn/) watering duration is about more than just turning on the spigot. Its about encouraging your [lawn](https://pestpolicy.com/10-essential-lawn-and-garden-tools-for-fall/)s roots to grow deep and strong, making the grass more resilient to environmental stresses like drought and heat.
+Understanding the [optimal](https://pestpolicy.com/when-to-fertilize-your-lawn/)watering duration is about more than just turning on the spigot. Its about encouraging your [lawn](https://pestpolicy.com/10-essential-lawn-and-garden-tools-for-fall/)sroots to grow deep and strong, making the grass more resilient to environmental stresses like drought and heat.
 
 This guide will delve into the science behind effective lawn watering, explaining how often you should water, the best time of day for irrigation, how to choose the right sprinkler system, and when professional assistance might be the key to unlocking your lawn's full potential. By the end, you'll have the knowledge to fine-tune your watering routine for a lush, thriving lawn that conserves water.
 
