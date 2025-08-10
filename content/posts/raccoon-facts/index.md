@@ -1,15 +1,9 @@
-﻿
-- -
-- title: Raccoon Facts
+﻿---
+title: Raccoon Facts
 description: Whether your home is surrounded by trees or skyscrapers, raccoons are likely a part of the wildlife population in your area. Raccoons are some of the most...
-slug: /raccoon
-- facts/
-date: 2025
-- 07
-- 10 00:00:00+00:00
-lastmod: 2025
-- 07
-- 10 00:00:00+03:00
+slug: /raccoon-facts/
+date: 2025-07-10 00:00:00+00:00
+lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
 - Guide
@@ -19,8 +13,9 @@ tags:
 - raccoon
 - fact
 layout: post
-- -
-- Whether your home is surrounded by trees or skyscrapers, raccoons are likely a part of the wildlife population in your area.
+---
+
+Whether your home is surrounded by trees or skyscrapers, raccoons are likely a part of the wildlife population in your area.
 
 Raccoons are some of the most adaptable pests in the Americas, and they can be found in both urban and rural areas in different climates.
 
@@ -28,8 +23,7 @@ We have compiled some interesting facts about these masked bandits that you shou
 
 ##  General Raccoon facts
 
-Raccoons, also known as Procyon lotor, are round, fuzzy animals with grey fur, bushy tails with 5
-- 7 black rings around them, and a black mask of fur covering their eye area.
+Raccoons, also known as Procyon lotor, are round, fuzzy animals with grey fur, bushy tails with 5-7 black rings around them, and a black mask of fur covering their eye area.
 
 They have pointy snouts with black noses and dextrous front paws. Raccoons are about the size of small dogs.
 
@@ -45,8 +39,7 @@ The first time raccoons were exported to Europe was in the early 1900s to stock 
 
 The first time raccoons made it to Japan was in the 1970s and you will never guess why. During that period, Japanese kids were obsessed with the amine cartoon 'Rascal the Raccoon' which led them to demand raccoons of their own.
 
-At one point, the Japanese were importing more than 1500 raccoons every month. Raccoon intelligence
-- naturally, most of the raccoons found a way to get back in the wild where they established populations.
+At one point, the Japanese were importing more than 1500 raccoons every month. Raccoon intelligence - naturally, most of the raccoons found a way to get back in the wild where they established populations.
 
 Even though Japan banned the import and ownership of raccoons, they have spread to all parts of the country.
 
@@ -54,8 +47,7 @@ Even though Japan banned the import and ownership of raccoons, they have spread 
 
 Traditionally, raccoons live in heavily wooded areas with plenty of trees, vegetation, and water. They make dens in hollow trees or abandoned burrows and can travel for long distances in search of food.
 
-Raccoons are highly adaptable, and they can be found in urban and suburban areas living in man
-- made structures such as sewers, garbage bins, barns, sheds, attics, and basements.
+Raccoons are highly adaptable, and they can be found in urban and suburban areas living in man-made structures such as sewers, garbage bins, barns, sheds, attics, and basements.
 
 Diet
 
@@ -71,54 +63,29 @@ Raccoons are notorious for spreading rabies to pets, so if you see one with exce
 
 Other Raccoon facts
 
-1. They have unique hands
-- raccoons are known for having some of the most dextrous paws in nature.
+1. They have unique hands - raccoons are known for having some of the most dextrous paws in nature.
 
 This explains why they are able to open doors, latches, jars, and bottles. It also gives them special climbing skills which they use to access food and shelter more efficiently.
 
-2. Reproduction
-- raccoons usually reproduce in late winter. They usually give birth to around 6 babies in April or May.
+2. Reproduction - raccoons usually reproduce in late winter. They usually give birth to around 6 babies in April or May.
 
 The mothers are extremely protective of their babies during their first year which is one of the main reasons why a raccoon would invade your home for shelter.
 
-3. Activity
-- raccoons are nocturnal creatures and they are most active at night. While most animals rely on their sight, smell, or sound to hunt for food, raccoons use their sense of touch to find food.
+3. Activity - raccoons are nocturnal creatures and they are most active at night. While most animals rely on their sight, smell, or sound to hunt for food, raccoons use their sense of touch to find food.
 
 Their front paws have about 4 times more sensory receptors compared to the back paws, which allows them to tell apart various objects without even seeing them.
 
-4. Their iconic black mask
-- the black mask around raccoons' eyes is not meant just to make them look like cute little bandits.
+4. Their iconic black mask - the black mask around raccoons' eyes is not meant just to make them look like cute little bandits.
 
 According to researchers, the black masks also help them to see more clearly. The dark mask absorbs incoming light which reduces glare that would obstruct their vision.
 
-5. Life expectancy
-- raccoons can survive in the wild for 2
-- 3 years and up to 20 years in captivity.
+5. Life expectancy - raccoons can survive in the wild for 2-3 years and up to 20 years in captivity.
 
 ##  Sources:
 
-1. [https://news.nationalgeographic.com/2018/06/raccoon
-- climbing
-- building
-- intelligence
-- facts
-- animals/](https://news.nationalgeographic.com/2018/06/raccoon
-- climbing
-- building
-- intelligence
-- facts
-- animals/) 2. [http://mentalfloss.com/article/527175/10
-- clever
-- facts
-- about
-- raccoons](http://mentalfloss.com/article/527175/10
-- clever
-- facts
-- about
-- raccoons)3. [https://www.livescience.com/52655
-- raccoons. html](https://www.livescience.com/52655
-- raccoons.html) 4.
+1. [https://news.nationalgeographic.com/2018/06/raccoon-climbing-building-intelligence-facts-animals/](https://news.nationalgeographic.com/2018/06/raccoon-climbing-building-intelligence-facts-animals/) 2. [http://mentalfloss.com/article/527175/10-clever-facts-about-raccoons](http://mentalfloss.com/article/527175/10-clever-facts-about-raccoons)3. [https://www.livescience.com/52655-raccoons. html](https://www.livescience.
 
-[http://www.havahart.com/raccoon
-- facts](http://www.havahart.com/raccoon
-- facts)
+com/52655-raccoons.html) 4.
+
+[http://www.havahart.com/raccoon-facts](http://www.havahart.com/raccoon-facts)
+

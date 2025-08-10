@@ -1,19 +1,9 @@
-﻿
-- -
-- title: Is Wall Gecko Poisonous If Eaten
+﻿---
+title: Is Wall Gecko Poisonous If Eaten
 description: Probably your home, yard, field, or zoo is full of wall geckos and you wonder whether these reptiles are a source of food.
-slug: /is
-- wall
-- gecko
-- poisonous
-- if
-- eaten/
-date: 2025
-- 07
-- 10 00:00:00+00:00
-lastmod: 2025
-- 07
-- 10 00:00:00+03:00
+slug: /is-wall-gecko-poisonous-if-eaten/
+date: 2025-07-10 00:00:00+00:00
+lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
 - Guide
@@ -23,33 +13,19 @@ tags:
 - wall
 - gecko
 layout: post
-- -
-- Probably your home, yard, field, or zoo is full of [wall geckos](https://www.insidescience.org/news/how
-- geckos
-- run
-- water)and you wonder whether these reptiles are a source of food. Can they be eaten?
+---
 
-Can Wall Geckos cause food poisoning or be poisonous when eaten by humans or carnivores? So, *is wall [gecko](https://pestpolicy.com/do
-- geckos
-- eat
-- bed
-- bugs/)poisonous if eaten? * **The simple answer is NO! [Wall](https://pestpolicy.com/how
-- to
-- remove
-- paint
-- from
-- walls/)Gecko is not poisonous to humans or other animals when eaten. The meat from the Wall Gecko is non
-- toxic (has no toxins) and is safe for human consumption.
+Probably your home, yard, field, or zoo is full of [wall geckos](https://www.insidescience.org/news/how-geckos-run-water)and you wonder whether these reptiles are a source of food. Can they be eaten?
 
-** **However, there are some parts of Wall Gecko that should not be eaten e. g. skin and mouth
-- part. These sections are known to house pathogens and bacteria such as salmonella, which multiply rapidly and cause food poisoning when eaten. **
+Can Wall Geckos cause food poisoning or be poisonous when eaten by humans or carnivores? So, *is wall [gecko](https://pestpolicy.com/do-geckos-eat-bed-bugs/)poisonous if eaten? * **The simple answer is NO! [Wall](https://pestpolicy.com/how-to-remove-paint-from-walls/)Gecko is not poisonous to humans or other animals when eaten. The meat from the Wall Gecko is non-toxic (has no toxins) and is safe for human consumption.
+
+** **However, there are some parts of Wall Gecko that should not be eaten e. g. skin and mouth-part. These sections are known to house pathogens and bacteria such as salmonella, which multiply rapidly and cause food poisoning when eaten. **
 
 ##  Details: Is Wall Gecko Poisonous If Eaten?
 
 The Wall Gecko is safe and edible reptile that does not cause any harm to human beings when eaten. Their meat does not have toxins and can also be eaten by other carnivores without causing any food poisoning.
 
-However, the mouth
-- part and skin of wall Gecko house the salmonella bacteria and pathogens that may cause food poisoning when eaten.
+However, the mouth-part and skin of wall Gecko house the salmonella bacteria and pathogens that may cause food poisoning when eaten.
 
 ###  1. What to eat in wall Gecko
 
@@ -61,17 +37,13 @@ The body meat (somatic) it best to feed on since its soft and tender. This meat 
 
 Organs like heart and kidneys are very small and may not be substantial to eat.
 
-Intestines need to be cleaned thoroughly before boiling them to kill any bacteria that may be in the digestive track. Care should be put into place when handling the liver not to damage the gall bladder (it contains the bile juice, which may poison the meat).
-- **The Bones. **Bones can be boiled to form marrowbone soup which when added some spices becomes very delicious.
+Intestines need to be cleaned thoroughly before boiling them to kill any bacteria that may be in the digestive track. Care should be put into place when handling the liver not to damage the gall bladder (it contains the bile juice, which may poison the meat). - **The Bones. **Bones can be boiled to form marrowbone soup which when added some spices becomes very delicious.
 
-Before boiling, the bone skin (limb bones) must be removed as well as cleaning thoroughly the toe
-- webbed skin the skin houses a lot of bacteria and pathogens which lead to food poisoning. You can pass the limbs over the fire (grill) to dry the skin fully before boiling. Nevertheless, you should not eat any of these parts of Wall Gecko: 1. **The skin. **Ensure to dissect the Wall Geckos skin perfectly well to detach it with body meat completely.
+Before boiling, the bone skin (limb bones) must be removed as well as cleaning thoroughly the toe-webbed skin the skin houses a lot of bacteria and pathogens which lead to food poisoning. You can pass the limbs over the fire (grill) to dry the skin fully before boiling. Nevertheless, you should not eat any of these parts of Wall Gecko: 1. **The skin. **Ensure to dissect the Wall Geckos skin perfectly well to detach it with body meat completely.
 
 This prevents the meat from being contaminated with the pathogens and bacteria that may be housed in the skin. Never eat the Wall Geckos skin since the salmonella bacteria found in it will be transfer with the meat to your digestive track causing food poisoning. Moreover, the bacteria and pathogens on the skin multiply very fast. 2. **The mouthpart. **The mouth of Wall Gecko is known to house variety of pathogens and bacteria such as salmonella.
 
-These bacteria hide in the teeth gaps, under the tongues, in the air sack region, on the palate and even along the throat. Normally, these bacteria cause infections when lizards bite you. When killing the Wall Gecko, it is advisable to get rid of the mouthpart completely or heat
-- treat it with high temperature (above 110 degree centigrade) to eliminate any living bacteria or pathogens.
-- **The Toes. **The toes of Wall Gecko are partially webbed.
+These bacteria hide in the teeth gaps, under the tongues, in the air sack region, on the palate and even along the throat. Normally, these bacteria cause infections when lizards bite you. When killing the Wall Gecko, it is advisable to get rid of the mouthpart completely or heat-treat it with high temperature (above 110 degree centigrade) to eliminate any living bacteria or pathogens. - **The Toes. **The toes of Wall Gecko are partially webbed.
 
 The tip of the toes have crawls that provides a suitable hideout of bacteria and pathogens. It is difficult to remove these bacteria due to the coiling of the crawls. It is therefore necessary to cut of these sections. In case you must feed on them, carry out thorough cleaning and heat treatment.
 
@@ -103,8 +75,7 @@ You can involve the veterinary to check the health status of the Wall Gecko befo
 
 ##  **How Do You Keep Wall Gecko As Pet?**
 
-Wall Gecko are cold
-- blooded (ectotherms) reptiles and thus need special care. As a Pet, Wall Gecko needs a cage that is well aerated and spacious. Access to water and food without strain is important. You can use bowls and shall water cans which the Wall Gecko cannot tend to swim in.
+Wall Gecko are cold-blooded (ectotherms) reptiles and thus need special care. As a Pet, Wall Gecko needs a cage that is well aerated and spacious. Access to water and food without strain is important. You can use bowls and shall water cans which the Wall Gecko cannot tend to swim in.
 
 Provide a warm pod where your Pet Wall Gecko can swim in at will. Normally, Wall Gecko will walk or run on water unlike other species of lizards such as Marine Iguanas and Komodo dragon.
 
@@ -112,11 +83,7 @@ Wall Gecko loves climbing on walls and branches, try piles stones in the cage an
 
 Ensure you warm the cage during the night to keep your pet active in case your cage is under a roof where there is no direct sunlight.
 
-Wall Geckos can easily climb out of the roof, kindly ensure that you place some stop barriers such as extended flat tops. Feed your Wall Gecko, just like [leopard geckos](https://pestpolicy.com/what
-- does
-- leopard
-- gecko
-- eat/),2 to 3 times in a day. This will make it active and friendlier always.
+Wall Geckos can easily climb out of the roof, kindly ensure that you place some stop barriers such as extended flat tops. Feed your Wall Gecko, just like [leopard geckos](https://pestpolicy.com/what-does-leopard-gecko-eat/),2 to 3 times in a day. This will make it active and friendlier always.
 
 Carnivores such as cats and dogs can feed on the Wall Gecko. Ensure you keep such pets away from the cage where your pet Wall Gecko is housed. Moreover, wall gecko may have some of the infectious pathogens and bacteria such as salmonella, which can infect your humans and other pets.
 
@@ -140,22 +107,5 @@ However, the skin and mouthpart of Wall Gecko contain pathogens and harmful bact
 
 ##  Sources:
 
-1. [Easy Ways to Get Rid of Common House Geckos
-- wikiHow](https://www.wikihow.com/Get
-- Rid
-- of
-- Common
-- House
-- Geckos)2. [Why You Should Never Trust a Gecko Fearful Adventurer](https://www.fearfuladventurer.com/why
-- you
-- should
-- never
-- trust
-- a
-- gecko/)3. [Geckos' Sticky Secret? They Hang by Toe Hairs Live Science](https://www.livescience.com/47307
-- how
-- geckos
-- stick
-- and
-- unstick
-- feet.html)
+1. [Easy Ways to Get Rid of Common House Geckos - wikiHow](https://www.wikihow.com/Get-Rid-of-Common-House-Geckos)2. [Why You Should Never Trust a Gecko Fearful Adventurer](https://www.fearfuladventurer.com/why-you-should-never-trust-a-gecko/)3. [Geckos' Sticky Secret? They Hang by Toe Hairs Live Science](https://www.livescience.com/47307-how-geckos-stick-and-unstick-feet.html)
+

@@ -1,31 +1,20 @@
-﻿
-- -
-- title: How to Keep Wasps Away from Playsets
+﻿---
+title: How to Keep Wasps Away from Playsets
 description: A few years back, I bought a Backyard Discovery Wooden Swing Set for my kids. I spent like 2 days putting it together in our backyard.
-slug: /how
-- to
-- keep
-- wasps
-- away
-- from
-- playsets/
-date: 2025
-- 07
-- 10 00:00:00+00:00
-lastmod: 2025
-- 07
-- 10 00:00:00+03:00
+slug: /how-to-keep-wasps-away-from-playsets/
+date: 2025-07-10 00:00:00+00:00
+lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
 - Swing Sets
 tags:
-- swing
-- sets
+- swing-sets
 - wasp
 - away
 layout: post
-- -
-- A few years back, I bought a Backyard Discovery Wooden Swing Set for my kids. I spent like 2 days putting it together in our backyard. It was a task on its own.
+---
+
+A few years back, I bought a Backyard Discovery Wooden Swing Set for my kids. I spent like 2 days putting it together in our backyard. It was a task on its own.
 
 Recently I noticed wasps around the playset and I think they are getting out of hand. I can call it a Wasps infestation of some sort. The wasps have made my childrens swing set their home.
 
@@ -33,17 +22,11 @@ Our kids are scared to death to play on the playset. So, how do we keep Wasps Aw
 
 ##  How to Keep Wasps Away from Playsets
 
-1. ** Using Natural Insect Pest Control **
-- **Use Herbs****A mix of vinegar, salt & sugar****Detergent, Tap Water, & peppermint extract**
-- **Use Herbs**
-- **A mix of vinegar, salt & sugar**
-- **Detergent, Tap Water, & peppermint extract** 1. ** Use Fake wasps nest ** 2. ** Use of chemicals** 3. ** Use [Wasp](https://pestpolicy.com/baby
-- wasp/)and Hornet Spray** 4. ** Maintaining Cleanliness ** 5. ** Pesticides** 6.
+1. ** Using Natural Insect Pest Control ** - **Use Herbs****A mix of vinegar, salt & sugar****Detergent, Tap Water, & peppermint extract** - **Use Herbs** - **A mix of vinegar, salt & sugar** - **Detergent, Tap Water, & peppermint extract** 1. ** Use Fake wasps nest ** 2. ** Use of chemicals** 3. ** Use [Wasp](https://pestpolicy.com/baby-wasp/)and Hornet Spray** 4. ** Maintaining Cleanliness ** 5. ** Pesticides** 6.
 
 **Calling an exterminator** *Note: wasps prefer to build their nests in * *crevices* * and in dark warm areas. On your kids' playset, these areas may include inside the playhouse, climber* **, ** *swings, slides, on the roof of the playhouse, among other areas. The wasps can literally attack any section of the playset and find a perfect resting point. This can be dangerous for you and your kids. *
 
-##  **So, How Do You Keep ****Wasps**** off
-- Details**
+##  **So, How Do You Keep ****Wasps**** off- Details**
 
 Well, I did some research online to find out what other people with wasp infestation are doing to end the menace. I will discuss the methods I used plus those that other people have used and seen success.
 
@@ -51,8 +34,7 @@ Well, I did some research online to find out what other people with wasp infesta
 
 Use the following natural methods to repel wasp invasion. **a) Use Herbs** You may decide to plant herbal plants in your backyard, outdoor sitting area, or around the patio. Wasps dont like plants with aroma. Therefore, planting things like thyme, eucalyptus, citronella, among others can help in repelling wasps. **b) A mix of vinegar, salt & sugar** A solution of vinegar, salt, and sugar will work wonders.
 
-This solution attracts wasps and they get stuck inside the solution for wasps
-- free playsets. Youll need a cup of vinegar, 4 tablespoons of sugar, and 4 tablespoons of salt. **c) Detergent, Tap Water, & Peppermint extract** Fill tap water in your regular spray bottle; add a cup of any liquid detergent, then add about 20 drops of peppermint extract. This solution is effective at eliminating wasps.
+This solution attracts wasps and they get stuck inside the solution for wasps-free playsets. Youll need a cup of vinegar, 4 tablespoons of sugar, and 4 tablespoons of salt. **c) Detergent, Tap Water, & Peppermint extract** Fill tap water in your regular spray bottle; add a cup of any liquid detergent, then add about 20 drops of peppermint extract. This solution is effective at eliminating wasps.
 
 ###  2. Fake Wasps Nest
 
@@ -62,8 +44,7 @@ The beauty about these decoy wasp nests is that they fool the wasps into believi
 
 These nests trick the wasps into believing that other wasps have already settled into that specific region. Since wasps are territorial in nature, they cant settle where other wasps are present. So they end up moving away.
 
-I bought a ready
-- made wasp nest from Amazon. However, you can make one yourself. Its pretty simple. Take brown paper and crumple it. Fill this brown bag with other papers to make it gain more volume. Hang it on your playset and wait for the results.
+I bought a ready-made wasp nest from Amazon. However, you can make one yourself. Its pretty simple. Take brown paper and crumple it. Fill this brown bag with other papers to make it gain more volume. Hang it on your playset and wait for the results.
 
 ###  3. Use Wasp and Hornet Spray
 
@@ -89,16 +70,7 @@ I remember one of my colleagues had a serious wasp infestation in his backyard. 
 
 Therefore, if you feel overwhelmed, you can contact your local pest exterminator to do the work for you. The good part is that most exterminators eradicate everything including bees, rats, wasps, etc.
 
-Also Read: [Best Swing Sets for Small Backyards](https://pestpolicy.com/best
-- [swing
-- sets](https://pestpolicy.com/best
-- baby
-- swings
-- for
-- sleeping/)
-- for
-- small
-- backyards/)
+Also Read: [Best Swing Sets for Small Backyards](https://pestpolicy.com/best-[swing-sets](https://pestpolicy.com/best-baby-swings-for-sleeping/)-for-small-backyards/)
 
 ##  How to Prevent Wasps from Invading Your Space
 
@@ -128,8 +100,7 @@ You can even put some of the natural solutions for wasp control weve discussed a
 
 Wasps flourish well in warm and dark places. The roofing of the playhouse in most playsets is usually thick vinyl roof canvas. You can replace the roofing of the playhouse with roofing that allows light inside the playhouse.
 
-I replaced the solid vinyl roof canvas that the playset had come with with a heavy
-- duty vinyl mesh canvas. This new roofing allows natural light and air into the set.
+I replaced the solid vinyl roof canvas that the playset had come with with a heavy-duty vinyl mesh canvas. This new roofing allows natural light and air into the set.
 
 ##  DIY Wasp Traps for Backyard Playsets
 
@@ -147,8 +118,7 @@ Apparently, wasps are territorial in nature, so they dont invade places already 
 
 Another effective DIY method that you can easily make at the convenience of your house is the Soda Bottle Wasp Trap. This wasp trap requires a 2 liters soda water bottle or any other clear bottle you can find.
 
-Cut off the top of the bottle. Try to approximate a quarter from the top and cut the bottle to create a funnel
-- like shape.
+Cut off the top of the bottle. Try to approximate a quarter from the top and cut the bottle to create a funnel-like shape.
 
 Insert the funnel upside down. The mouth of the funnel should be inside the body of the bottle. Secure the sides properly and seal off any gaps.
 
@@ -157,3 +127,4 @@ Pour any sweetener inside the bottle; you could add honey, wine, or other sugary
 ##  Conclusion
 
 You now know How to keep wasps away from playsets. Ensure that you try the natural methods first before reaching out to chemicals or pesticides. As much as we are trying to keep off wasps, we should conserve our environment and make it safe for not only ourselves but also our kids, pets, and other people.
+

@@ -1,21 +1,9 @@
-﻿
-- -
-- title: Can Dog Fleas Transfer to Humans
-description: Recently my friend, Jane, got a healthy
-- looking dog. Sadly , the dog was flea
-- infested. Jane applied flea shampoo on the dog to save the situation. But, she's...
-slug: /can
-- dog
-- fleas
-- transfer
-- to
-- humans/
-date: 2025
-- 07
-- 10 00:00:00+00:00
-lastmod: 2025
-- 07
-- 10 00:00:00+03:00
+﻿---
+title: Can Dog Fleas Transfer to Humans
+description: Recently my friend, Jane, got a healthy-looking dog. Sadly , the dog was flea-infested. Jane applied flea shampoo on the dog to save the situation. But, she's...
+slug: /can-dog-fleas-transfer-to-humans/
+date: 2025-07-10 00:00:00+00:00
+lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
 - Fleas
@@ -25,38 +13,17 @@ tags:
 - dog
 - flea
 layout: post
-- -
-- Recently my friend, Jane, got a healthy
-- looking dog. **Sadly**, the dog was flea
-- infested. Jane applied flea shampoo on the dog to save the situation. But, she's still worried whether "Dog [Fleas](https://pestpolicy.com/dog
-- has
-- fleas
-- and
-- sleeps
-- in
-- my
-- bed/)Transfer to Humans? " Can the bugs jump/ bite him, his kids, or his wife? I seek to answer these questions in this short post. **The simple answer is Yes**.
+---
 
-[Dog fleas (Ctenocephalidescanis](https://pestpolicy.com/best
-- [flea](https://pestpolicy.com/how
-- to
-- tell
-- if
-- your
-- dog
-- has
-- fleas/)
-- combs
-- for
-- dogs/)) will sometimes jump onto humans, bite them and suck blood
-- although they mainly suck blood from dogs and cats. Scientific research shows that fleas will quickly move to another and hitchhike people as they move to other houses, just like the [over 2, 000 flea species](https://ohioline.osu.edu/factsheet/HYG
-- 2081
-- 11).
+Recently my friend, Jane, got a healthy-looking dog. **Sadly**, the dog was flea-infested. Jane applied flea shampoo on the dog to save the situation. But, she's still worried whether "Dog [Fleas](https://pestpolicy.com/dog-has-fleas-and-sleeps-in-my-bed/)Transfer to Humans? " Can the bugs jump/ bite him, his kids, or his wife? I seek to answer these questions in this short post. **The simple answer is Yes**.
+
+[Dog fleas (Ctenocephalidescanis](https://pestpolicy.com/best-[flea](https://pestpolicy.com/how-to-tell-if-your-dog-has-fleas/)-combs-for-dogs/)) will sometimes jump onto humans, bite them and suck blood - although they mainly suck blood from dogs and cats. Scientific research shows that fleas will quickly move to another and hitchhike people as they move to other houses, just like the [over 2, 000 flea species](https://ohioline.osu.
+
+edu/factsheet/HYG-2081-11).
 
 ##  Can Dog Fleas Transfer to Humans? People's hair?
 
-A quick google search on whetherCan Dog Fleas Transfer to Humans
-- most related information available online is false. Some articles claim that only dog fleas (Ctenocephalides canis) attack canines and that only the *Pulex irritans * can bite human beings. *Pulex irritans* feed on blood (humans, dogs, and cats) and will bite human beings (leaving itchy red bumps ) and only *survive on human blood.
+A quick google search on whetherCan Dog Fleas Transfer to Humans - most related information available online is false. Some articles claim that only dog fleas (Ctenocephalides canis) attack canines and that only the *Pulex irritans * can bite human beings. *Pulex irritans* feed on blood (humans, dogs, and cats) and will bite human beings (leaving itchy red bumps ) and only *survive on human blood.
 
 * *Fleas* transmit tapeworms, cause flea allergy dermatitis (FAD) and anemia.
 
@@ -80,8 +47,7 @@ So, howll you know when fleas have transferred from your dog to you or your fami
 
 Further, if you note some flea dirt and red bumps on the dog, you should be alert that a flea attack could be coming over to you from the dog.
 
-Brush or comb your dog keenly to check whether the comb comes out with some brown color when passed on a white surface
-- to avoid such purchase good dog beds.
+Brush or comb your dog keenly to check whether the comb comes out with some brown color when passed on a white surface - to avoid such purchase good dog beds.
 
 ##  Prevent fleas on your dogs
 
@@ -89,9 +55,5 @@ Ive pointed above that you can use flea bombs to control massive flea infestatio
 
 ##  Conclusion
 
-Fleas take host on your dog, and thus, whenever you come too close to the pet, the fleas could jump over to you looking for a blood source. However, fleas (apart from *Pulex irritans* ) cannot [live on human](https://pestpolicy.com/can
-- fleas
-- live
-- in
-- human
-- hair/)blood and thus will have to jump off to an appropriate host, particularly after sucking some of your blood.
+Fleas take host on your dog, and thus, whenever you come too close to the pet, the fleas could jump over to you looking for a blood source. However, fleas (apart from *Pulex irritans* ) cannot [live on human](https://pestpolicy.com/can-fleas-live-in-human-hair/)blood and thus will have to jump off to an appropriate host, particularly after sucking some of your blood.
+

@@ -1,23 +1,9 @@
-﻿
-- -
-- title: How to Exercise With Bad Knees to Lose Weight
-description: In this post, Ill take you through different cardio workouts planned to assist you to lose weight, even when you have a bad knee
-- How to exercise with bad...
-slug: /how
-- to
-- exercise
-- with
-- bad
-- knees
-- to
-- lose
-- weight/
-date: 2025
-- 07
-- 10 00:00:00+00:00
-lastmod: 2025
-- 07
-- 10 00:00:00+03:00
+﻿---
+title: How to Exercise With Bad Knees to Lose Weight
+description: In this post, Ill take you through different cardio workouts planned to assist you to lose weight, even when you have a bad knee - How to exercise with bad...
+slug: /how-to-exercise-with-bad-knees-to-lose-weight/
+date: 2025-07-10 00:00:00+00:00
+lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
 - Guide
@@ -26,44 +12,23 @@ tags:
 - bad
 - knee
 layout: post
-- -
-- In this post, Ill take you through different cardio workouts planned to assist you to lose weight, even when you have a [bad](https://pestpolicy.com/best
-- running
-- shoes
-- for
-- bad
-- knees/)[knee](https://pestpolicy.com/running
-- with
-- bad
-- knees/)
-- How to exercise with bad knees to lose weight.
+---
 
-But first, the term [bad knees](https://www.health.harvard.edu/pain/moving
-- away
-- from
-- knee
-- osteoarthritis)is way too broad. However, with bad knees, you should work your knees without jarring them to reduce pain and to make them stronger.
+In this post, Ill take you through different cardio workouts planned to assist you to lose weight, even when you have a [bad](https://pestpolicy.com/best-running-shoes-for-bad-knees/)[knee](https://pestpolicy.com/running-with-bad-knees/) - How to exercise with bad knees to lose weight.
 
-Appropriate workouts for your bad knees should incorporate non
-- plyometric exercises such as sitting back in the squat and avoiding the plyometric exercises such as jumping.
+But first, the term [bad knees](https://www.health.harvard.edu/pain/moving-away-from-knee-osteoarthritis)is way too broad. However, with bad knees, you should work your knees without jarring them to reduce pain and to make them stronger.
+
+Appropriate workouts for your bad knees should incorporate non-plyometric exercises such as sitting back in the squat and avoiding the plyometric exercises such as jumping.
 
 ##  How to Exercise With Bad Knees to Lose Weight
 
 ###  1. Walking
 
-Walking is awesome low
-- impact cardio that will reduce your knee pain. Unlike most bad pain sufferers who take up activity avoidance, you adopt different aerobic exercises such as walking. Such exercises are [recommended](https://www.ncbi.nlm.nih.gov/pubmed/18279766)as they will improve your knees muscle quality and fight sarcopenia.
+Walking is awesome low-impact cardio that will reduce your knee pain. Unlike most bad pain sufferers who take up activity avoidance, you adopt different aerobic exercises such as walking. Such exercises are [recommended](https://www.ncbi.nlm.nih.gov/pubmed/18279766)as they will improve your knees muscle quality and fight sarcopenia.
 
-Luckily, walking and light [running with the right footwear](https://pestpolicy.com/best
-- running
-- shoes
-- for
-- bad
-- knees/)and cushioned shoesis a non
-- pharmacologic therapy, and thus you wont need to take medications. Notably, walking has been wide studies and approved for the disabled and elderly population.
+Luckily, walking and light [running with the right footwear](https://pestpolicy.com/best-running-shoes-for-bad-knees/)and cushioned shoesis a non-pharmacologic therapy, and thus you wont need to take medications. Notably, walking has been wide studies and approved for the disabled and elderly population.
 
-Further, taking long
-- term walking plans can largely improve your knee pain and body functioning and slows physical function declining, also among the disabled people.
+Further, taking long-term walking plans can largely improve your knee pain and body functioning and slows physical function declining, also among the disabled people.
 
 According to a recent [study](https://www.ncbi.nlm.nih.gov/pubmed/15696558),increased mobility such as walking in the aerobic treatment is significantly correlated with better ankle and knee angular velocities. Also, adhering to physical activity plans improves physical function and general mobility.
 
@@ -75,8 +40,7 @@ While walking, make sure you keep your upper body nice and tall while your shoul
 
 Like walking and stationary bicycles, elliptical trainers are considered low impact exercises because they produce circular motion.
 
-The elliptical trainers mimic the cross
-- country skiing movements, and thus youll exercise through pedal resistance.
+The elliptical trainers mimic the cross-country skiing movements, and thus youll exercise through pedal resistance.
 
 Therefore, increasing the pedal resistance will enable your muscles to work harder and enhancing aerobic exercise.
 
@@ -93,3 +57,4 @@ Further, due to the reduced pain, youll find yourself working out longer in the 
 ##  Conclusion
 
 Therefore, if you are suffering from a specific condition or injury, you should know that not all the exercises we described will appropriate. Therefore, listen to your bodys reaction and follow your doctors recommendations, if are under some for that condition.
+

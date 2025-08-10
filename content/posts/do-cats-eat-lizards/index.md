@@ -1,17 +1,9 @@
-﻿
-- -
-- title: Do Cats Eat Lizards
+﻿---
+title: Do Cats Eat Lizards
 description: Do Cats Eat Lizards? Have you ever met lizards and cats together in your home, yard or compound? Can your lizard and cat pet live together?
-slug: /do
-- cats
-- eat
-- lizards/
-date: 2025
-- 07
-- 10 00:00:00+00:00
-lastmod: 2025
-- 07
-- 10 00:00:00+03:00
+slug: /do-cats-eat-lizards/
+date: 2025-07-10 00:00:00+00:00
+lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
 - Guide
@@ -21,31 +13,21 @@ tags:
 - cat
 - eat
 layout: post
-- -
-- Do Cats [Eat](https://pestpolicy.com/do
-- flying
-- termites
-- eat
-- wood/)Lizards? Have you ever met lizards and cats together in your home, yard or compound? Can your lizard and cat pet live together? It is interesting to find how cats go along with lizards in your place? So, do cats eat lizards? *The direct answer is YES! Cats will eat lizards. Cats are great lizard predators.
+---
+
+Do Cats [Eat](https://pestpolicy.com/do-flying-termites-eat-wood/)Lizards? Have you ever met lizards and cats together in your home, yard or compound? Can your lizard and cat pet live together? It is interesting to find how cats go along with lizards in your place? So, do cats eat lizards? *The direct answer is YES! Cats will eat lizards. Cats are great lizard predators.
 
 They will hunt, kill and eat lizard either by cutting it into pieces or swallow it whole (for the small sized cats).
 
-* *Cats prefer eating smaller lizards such as geckos, skins and Savannahlizards. However, depending on the species, cats may not be safe after eating lizards. Some species such as salamanders and juvenile blue
-- tailed skinks secrets poison in their skin, which may kill your cat if eaten. *
+* *Cats prefer eating smaller lizards such as geckos, skins and Savannahlizards. However, depending on the species, cats may not be safe after eating lizards. Some species such as salamanders and juvenile blue-tailed skinks secrets poison in their skin, which may kill your cat if eaten. *
 
-*Though house lizards (gecko) may not have venom or poison, they carry parasites (liver flukes), pathogens and bacteria (salmonella) which affect adversely on the health of your cat when eaten. * Related: [Is Wall Gecko Poisonous If Eaten? ](https://pestpolicy.com/is
-- wall
-- gecko
-- poisonous
-- if
-- eaten/)
+*Though house lizards (gecko) may not have venom or poison, they carry parasites (liver flukes), pathogens and bacteria (salmonella) which affect adversely on the health of your cat when eaten. * Related: [Is Wall Gecko Poisonous If Eaten? ](https://pestpolicy.com/is-wall-gecko-poisonous-if-eaten/)
 
 ##  Details: Do Cats Eat Lizards?
 
 ###  1. How Do Cat Eat Lizards
 
-Cats normally hunt and kill the lizards before eating them. The cat will cut (using its teeth
-- canines) lizard into parts for easier swallowing. Also, the cat can tear the soft flesh from the body meat of the lizard. Main parts of lizards that are usually fed on by the cats include the body meat, limbs and the tail. When feeding on the lizards, cats do not remove lizards skin (which is infectious in some lizard species).
+Cats normally hunt and kill the lizards before eating them. The cat will cut (using its teeth-canines) lizard into parts for easier swallowing. Also, the cat can tear the soft flesh from the body meat of the lizard. Main parts of lizards that are usually fed on by the cats include the body meat, limbs and the tail. When feeding on the lizards, cats do not remove lizards skin (which is infectious in some lizard species).
 
 Most cats do not eat the Head of lizard unless when they swallow lizard whole (which is a rare case). Small cats dont eat the lizards bones. You will, probably, find bones leftovers where the cat was feeding. Cats dont hunt lizards as a group unless when training their kitten. You are not likely to spot cats feeding since they hide mostly.
 
@@ -59,8 +41,7 @@ Moreover, geckos do not run faster when escaping in case of danger and their def
 
 **Nile water monitors**.
 
-These love water bodies in rivers and pods around your home or region. Cats hunt them even though they get wild during capture. These lizards are safe and non
-- venomous. Related: Can Bearded Dragons Eat Tomatoes?
+These love water bodies in rivers and pods around your home or region. Cats hunt them even though they get wild during capture. These lizards are safe and non-venomous. Related: Can Bearded Dragons Eat Tomatoes?
 
 ###  3. Which Lizards Are Poisonous To Cats?
 
@@ -68,8 +49,7 @@ The following lizards are poisonous to your pet cat when eaten. 1. **The Mexican
 
 Moreover, the cat face walking challenges, breathing, have frequent pooping and urination and generates inability to meow after eating Mexican bearded lizards. 2. **Gila Monitor lizard. **This lizard is known attack and bite cats in defense. Its poison is severe than that of Mexican Bearded lizard and its poisonous teeth paralyzes the cat on injection. Their skin also house bacteria that causes severe infection on your cat. 3. **Komodo dragon.
 
-**This lizard is able to attack and kill cats on approach immediately. It has poisonous glands that release killing venom on biting. Cats bitten by die in minutes. Most cats fear hunting the Komodo dragon. In fact, Komodo dragon is known to kill human beings. 4. **Juvenile blue
-- tailed skinks. **The skinks secrets poison in their skin, which kills the cat when eaten. Cats are highly attracted to blue tailed skinks and often prey on them.
+**This lizard is able to attack and kill cats on approach immediately. It has poisonous glands that release killing venom on biting. Cats bitten by die in minutes. Most cats fear hunting the Komodo dragon. In fact, Komodo dragon is known to kill human beings. 4. **Juvenile blue-tailed skinks. **The skinks secrets poison in their skin, which kills the cat when eaten. Cats are highly attracted to blue tailed skinks and often prey on them.
 
 The skinks dont run fast in case of attack (they are easily caught by cats). 5. They have poisonous skin (skin produces poison) which kill cats when eaten. Salamanders have smooth soft skins and are usually swallowed whole by cats. Salamander dont escape faster and thus are easily caught by cats (predators).
 
@@ -91,8 +71,7 @@ Lizards have various mechanisms of protecting them from their predator. These wa
 
 Lizards such as Thorny devil and Horned toad lizard inflates their bodies to appear big so as to scare away their predators.
 
-Bearded dragon is able to puff their throat out making them bigger thus scaring their predators. 3. **Autotomy. **This an act where the lizard is able to carry out self
-- amputation of tail. Lizards such as leopard geckos and house lizards are able to cut off its tail in case of danger. The cut tail is used as a bait or a mechanism that stops the predators (scare/confuse) from following them further. 4. ** Fighting.
+Bearded dragon is able to puff their throat out making them bigger thus scaring their predators. 3. **Autotomy. **This an act where the lizard is able to carry out self-amputation of tail. Lizards such as leopard geckos and house lizards are able to cut off its tail in case of danger. The cut tail is used as a bait or a mechanism that stops the predators (scare/confuse) from following them further. 4. ** Fighting.
 
 **Monitor lizards such as Tree Crocodile monitor and Gila monitors are famous of fighting against their assailants. The Komodo dragon and Green Iguana use their tail to knock down their enemies. 5. **Using venom/biting. **Venomous lizards such as Komodo dragon, Gila monitors, Mexican Bearded lizards and the Tree Crocodile have venom in their teeth roots, which paralyses their prey on biting. 6. **Camouflaging.
 
@@ -104,27 +83,11 @@ Pygmy short horned lizards squirts their blood from their eyes when they spot a 
 
 ##  How do I know my Cat has eaten a Lizard? Symptoms?
 
-When a cat eats a lizard, it may generates symptoms that gives an indicator. Some of these symptoms include:
-- Shows lethargy or weaknesses.
-- Generates abnormal thirst,
-- Becomes hyperactivity or nervousness.
-- Loses its appetite.
-- Diarrhea or vomiting.
-- Yellow gums and eyes (crosses a lot).
-- Seizures or muscle tremors.
-- Abnormal/erratic movements.
-- Coma in some cases.
-- Mouth foaming and excessive drooling.
+When a cat eats a lizard, it may generates symptoms that gives an indicator. Some of these symptoms include: - Shows lethargy or weaknesses. - Generates abnormal thirst, - Becomes hyperactivity or nervousness. - Loses its appetite. - Diarrhea or vomiting. - Yellow gums and eyes (crosses a lot). - Seizures or muscle tremors. - Abnormal/erratic movements. - Coma in some cases. - Mouth foaming and excessive drooling.
 
 *NB: These symptoms are as a results or eating poisonous lizards.
 
-* In case the lizards eaten has a pathogenic skin or has Salmonella bacteria, your pet cat will show the following symptoms:
-- Swollen lymph nodes.
-- Loss of appetite.
-- Sudden shock.
-- Rapid heart rate.
-- Shock
-- Diarrhea and vomiting
+* In case the lizards eaten has a pathogenic skin or has Salmonella bacteria, your pet cat will show the following symptoms: - Swollen lymph nodes. - Loss of appetite. - Sudden shock. - Rapid heart rate. - Shock - Diarrhea and vomiting
 
 ##  How do you stop/ prevent your cat from eating lizards?
 
@@ -136,13 +99,9 @@ You can prevent your pet cat from eating lizards by applying some of the followi
 
 This method is time consuming and expensive.
 
-Related: [What Does a Garden Lizard Eat? ](https://pestpolicy.com/what
-- does
-- a
-- garden
-- lizard
-- eat/)
+Related: [What Does a Garden Lizard Eat? ](https://pestpolicy.com/what-does-a-garden-lizard-eat/)
 
 ##  Conclusions
 
 Cats eat lizards. They do not select which species they feed on. However, most cats hunt geckos, savannah lizards and skins since they are easier to catch. Most Lizards are not poisonous though some like Gila monitor and Komodo dragon contain poisonous venom that paralyzes their prey when injected. Ensure you prevent your pet cat from eating lizards using some of the above ways.
+

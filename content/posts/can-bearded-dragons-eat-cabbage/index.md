@@ -1,18 +1,9 @@
-﻿
-- -
-- title: Can Bearded Dragons Eat Cabbage
+﻿---
+title: Can Bearded Dragons Eat Cabbage
 description: Cabbages, whether red, green, or variegated, are vegetables that are often eaten together with course meals across the world. Previously we checked what...
-slug: /can
-- bearded
-- dragons
-- eat
-- cabbage/
-date: 2025
-- 07
-- 10 00:00:00+00:00
-lastmod: 2025
-- 07
-- 10 00:00:00+03:00
+slug: /can-bearded-dragons-eat-cabbage/
+date: 2025-07-10 00:00:00+00:00
+lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
 - Guide
@@ -22,20 +13,15 @@ tags:
 - bearded
 - dragon
 layout: post
-- -
-- Cabbages, whether red, green, or variegated, are vegetables that are often eaten together with course meals across the world. Previously we checked what [bearded dragons eat](https://pestpolicy.com/what
-- do
-- bearded
-- dragons
-- eat/).It may even concern you if these lizards can eat all cabbage species or not. *So, can bearded dragons eat cabbages? The simple answer is YES!
+---
+
+Cabbages, whether red, green, or variegated, are vegetables that are often eaten together with course meals across the world. Previously we checked what [bearded dragons eat](https://pestpolicy.com/what-do-bearded-dragons-eat/).It may even concern you if these lizards can eat all cabbage species or not. *So, can bearded dragons eat cabbages? The simple answer is YES!
 
 The bearded dragon will feed on all varieties of cabbages without any problems.
 
 Actually, cabbages have rich vitamin composition (needed to boost beardies immune system), and high calcium: phosphorous ratio (that prevents metabolic bone disease).
 
-* *Cabbages have high dietary fiber (which prevents constipation), large mineral contents (needed for growth and development of tissues), contain powerful antioxidants and anti
-- inflammatory, low
-- fat content (thus preventing obesity) as well as relatively low sugar level that help reduce cases of diabetes and high blood pressure on your bearded dragon. *
+* *Cabbages have high dietary fiber (which prevents constipation), large mineral contents (needed for growth and development of tissues), contain powerful antioxidants and anti-inflammatory, low-fat content (thus preventing obesity) as well as relatively low sugar level that help reduce cases of diabetes and high blood pressure on your bearded dragon. *
 
 ##  Details: Can Bearded Dragons Eat Cabbage?
 
@@ -45,29 +31,23 @@ But it is necessary to keep close monitoring of the sugar and water levels of yo
 
 Cabbages have proven to be one of the best vegetables with very high calcium: the phosphorous ratio of 2: 1 or 2. 4: 1. This ideally means that your bearded dragon will enjoy high uptake of calcium (necessary for the strengthening of bones) into the bloodstream without phosphorous inhibition. Actually, phosphorous is a dangerous cofactor that inhibits calcium absorption in the blood if it occurs in high quantities in any animal feed.
 
-Problems that result from excess phosphorous (such as metabolic bone disease calcium deficiency disease) will be reduced far or get eliminated by feeding your beardie with cabbages. Green cabbages like Savoy and Nana cabbage species show high calcium: phosphorous ratio as compared to red and variegated cabbage species. Read also
-- Can Bearded Dragons Eat Mango?
+Problems that result from excess phosphorous (such as metabolic bone disease calcium deficiency disease) will be reduced far or get eliminated by feeding your beardie with cabbages. Green cabbages like Savoy and Nana cabbage species show high calcium: phosphorous ratio as compared to red and variegated cabbage species. Read also - Can Bearded Dragons Eat Mango?
 
 Storing harvested cabbage for 2 to 5 days before feeding your beardie will improve the calcium uptake level and reduce phosphorous activeness. This is important.
 
 ###  2. Rich Vitamin Composition
 
-Vitamin K, which regulates clotting of blood in case of injuries and building/replacing worn
-- out tissues, is found in very large quantities in cabbages (especially Savoy species). For every 100g of cabbage, there is 54% to 83% of RDI of Vitamin K
-- from eggs. As compared to other vegetables like kales and corianders, cabbages show 64.
+Vitamin K, which regulates clotting of blood in case of injuries and building/replacing worn-out tissues, is found in very large quantities in cabbages (especially Savoy species). For every 100g of cabbage, there is 54% to 83% of RDI of Vitamin K - from eggs. As compared to other vegetables like kales and corianders, cabbages show 64.
 
 6mcg extra of vitamin K. Cabbages also have vitamin D and B12, but in low quantities as compared to other vitamins.
 
-Also, cabbages Vitamin C (51. 5mg of RDI
-- needed for the proper functioning of the bones, blood vessels, and smooth skin /muscle flexibility), Vitamin B1 (0. 11mg
-- which boost nerve signals and accelerates carbohydrates breakdown to give energy for your beardie), Vitamin B6 (required for fat/protein metabolism and red blood cell creation) as well as vitamin A that boosts the beardies vision during the night.
+Also, cabbages Vitamin C (51. 5mg of RDI- needed for the proper functioning of the bones, blood vessels, and smooth skin /muscle flexibility), Vitamin B1 (0. 11mg - which boost nerve signals and accelerates carbohydrates breakdown to give energy for your beardie), Vitamin B6 (required for fat/protein metabolism and red blood cell creation) as well as vitamin A that boosts the beardies vision during the night.
 
 ###  3. High dietary fiber 2.5g
 
 For every 100g of fresh cabbage, there is 2. 5g to 3. 21g of fibers. Green cabbages have more fibers than variegated and red cabbage species. Fibers will keep a healthy digestion/alimentary canal by fueling regular and smooth bowel movement. It is the insoluble fibers found in cabbages that add bulk to the stool network, bind it well thus preventing your beardie from constipation (difficulties in releasing bowels).
 
-Cabbages also have 1. 2g to 1. 5g of soluble fibers, which add to the main meal during digestion these cruciferous fibers decrease the cholesterol level and help break down low
-- density lipoproteins that may lead to a heart attack or high blood pressure.
+Cabbages also have 1. 2g to 1. 5g of soluble fibers, which add to the main meal during digestion these cruciferous fibers decrease the cholesterol level and help break down low-density lipoproteins that may lead to a heart attack or high blood pressure.
 
 Feed your beardie with cabbages that are 3days after harvesting to a period just before the outer leaves begins to turn yellow so as to acquire maximum fiber content fibers lose action ability when the cabbage turns yellow.
 
@@ -81,11 +61,7 @@ Cabbages have high mineral components such as potassium (367mg per 100g of cabba
 
 Cabbage generally have low fat content of about 0. 2g for every 100g of cabbage. This quantity is very low as compared to over vegetables like lettuce or broccoli. Fat is quite dangerous for beardie as excess of it accumulates at the tail and berry lining making it inactive or docile. Read Also; [Can Bearded Dragons Eat Bananas?
 
-](https://pestpolicy.com/can
-- bearded
-- dragons
-- eat
-- bananas/)In addition, excess fat will cause your beardie to generate high blood pressure and heart failure or stroke if not attended to accordingly. In comparison, red cabbage species have lower fat content than variegated and green cabbage species. You can therefore supplement the main meal with savoy or red cabbage species if you want to lower the fat intake of your bearded dragon.
+](https://pestpolicy.com/can-bearded-dragons-eat-bananas/)In addition, excess fat will cause your beardie to generate high blood pressure and heart failure or stroke if not attended to accordingly. In comparison, red cabbage species have lower fat content than variegated and green cabbage species. You can therefore supplement the main meal with savoy or red cabbage species if you want to lower the fat intake of your bearded dragon.
 
 ###  6. Relatively low sugar and starch level
 
@@ -97,26 +73,19 @@ Excess starch (in combined form) in a meal will be difficult for most beardie sp
 
 When broken down through digestion, cabbages will give out 103 kJ to 113kJ or 25cal of energy for every 100g of cabbages. The value is quite high as compared to other vegetables such as kales, green beans, or corianders. Enough energy is needed for beardies daily activities such as moving about, feeding as well as keeping it warm (homeostatic function)
 
-###  8. Powerful antioxidants and anti
-- inflammatory compounds
+###  8. Powerful antioxidants and anti-inflammatory compounds
 
-Cabbages have powerful antioxidants such as polyphenols that will prevent your beard from damages caused by free radicals (molecules with odd electrons that damage body cells) on body tissues. The anti
-- inflammatory compound (kaempferol and sulforaphane) found in cabbage will protect your bearded dragon from diseases such as rheumatoid arthritis, inflammatory bowel disease as well as heart disease.
+Cabbages have powerful antioxidants such as polyphenols that will prevent your beard from damages caused by free radicals (molecules with odd electrons that damage body cells) on body tissues. The anti-inflammatory compound (kaempferol and sulforaphane) found in cabbage will protect your bearded dragon from diseases such as rheumatoid arthritis, inflammatory bowel disease as well as heart disease.
 
 Importantly, these compounds will also reduce any chronic and acute inflammatory diseases.
 
-Read also; [Can Bearded Dragons Eat Grapes? ](https://pestpolicy.com/can
-- bearded
-- dragons
-- eat
-- grapes/)
+Read also; [Can Bearded Dragons Eat Grapes? ](https://pestpolicy.com/can-bearded-dragons-eat-grapes/)
 
 ##  How to Prepare Cabbages for Your Bearded Dragon
 
 Follow the procedure below when preparing cabbages for your bearded dragon: 1. Harvest mature cabbages (avoid immature cabbages as they have low calcium levels and nutrients arent fully stocked) and remove the base stalk this prevents draining of nutrients from the cabbage. 2. Store the cabbage for 3 to 6 days before feeding your beardie this will improve calcium uptake, drain excess water and reduce phosphorous activeness. 3.
 
-Remove the outer foliage leaves (may have infections) and clean the cabbage with warm water or treated water to remove any poisonous insects (fireflies) or chemicals that may be in contact. 4. Split the cabbage (into 3 or 4 pieces) and remove the mid
-- rib/talk this is hard for beardie to digest. 5. Chop the cabbage in to small sizes (size not larger than the space between beardies eyes).
+Remove the outer foliage leaves (may have infections) and clean the cabbage with warm water or treated water to remove any poisonous insects (fireflies) or chemicals that may be in contact. 4. Split the cabbage (into 3 or 4 pieces) and remove the mid-rib/talk this is hard for beardie to digest. 5. Chop the cabbage in to small sizes (size not larger than the space between beardies eyes).
 
 Always check (when chopping) any possibilities of insects or worms that could have hid between leaf blades.
 
@@ -130,13 +99,7 @@ Glycemic index determines how carbs are absorbed into beardies bloodstream. Most
 
 ###  **2. Cabbages with high water content **
 
-Freshly harvested cabbages have a high water content of 60% to 85% (116g out of 150g) in relation to dry matters. As said earlier, cabbages should be stored for 3 to 6 days to drain excess water. Avoid [feeding your bearded dragon](https://pestpolicy.com/what
-- should
-- i
-- feed
-- my
-- bearded
-- dragon/)with variety of cabbages that have high water content e. g. nana cabbage, before draining period.
+Freshly harvested cabbages have a high water content of 60% to 85% (116g out of 150g) in relation to dry matters. As said earlier, cabbages should be stored for 3 to 6 days to drain excess water. Avoid [feeding your bearded dragon](https://pestpolicy.com/what-should-i-feed-my-bearded-dragon/)with variety of cabbages that have high water content e. g. nana cabbage, before draining period.
 
 Excess water that accumulates in the beardie due to continuous cabbage feeding will make your pet docile, have low blood pressure, or experience diarrhea and runny poo. Moreover, overhydration that results from excess water will lead to osmotic imbalance thus causing homeostatic problems in your beardie.
 
@@ -144,8 +107,7 @@ Excess water that accumulates in the beardie due to continuous cabbage feeding w
 
 Many varieties of cabbages have relatively low sugar content (2. 3g to 3. 4g for every 150g of cabbage). However, sugar level increases as the cabbage overstay after harvesting (as it tends to turn yellow). On the other hand, species like red cabbages and variegated cabbages have higher sugar content if they overstay on the farm or in store thus should be used within the first 10 days after harvesting.
 
-High sugar level (as stated in this article) cause high blood pressure, kidney fatigue as well as heart problems. You will need to select low sugar cabbage for your beardies health safety and avoid cabbages that have overstayed in stores (15
-- 24 days).
+High sugar level (as stated in this article) cause high blood pressure, kidney fatigue as well as heart problems. You will need to select low sugar cabbage for your beardies health safety and avoid cabbages that have overstayed in stores (15- 24 days).
 
 ##  Which Parts of Cabbages Dont You Feed Your bearded dragon
 
@@ -167,9 +129,5 @@ Remember to involve a qualified veterinarian often to check your beardies health
 
 ##  Sources:
 
-1. [**Bearded Dragon Adaptations: Lesson for Kids Study. com**](https://study.com/academy/lesson/bearded
-- dragon
-- adaptations
-- lesson
-- for
-- kids.html)
+1. [**Bearded Dragon Adaptations: Lesson for Kids Study. com**](https://study.com/academy/lesson/bearded-dragon-adaptations-lesson-for-kids.html)
+

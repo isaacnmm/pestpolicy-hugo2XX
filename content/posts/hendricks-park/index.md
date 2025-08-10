@@ -1,16 +1,9 @@
-﻿
-- -
-- title: Hendricks Park
-description: Hendricks Park, Eugenes oldest city park, is a beloved destination for both residents and visitors. Established in 1906, this 80
-- acre park is nestled in the...
-slug: /hendricks
-- park/
-date: 2025
-- 07
-- 10 00:00:00+00:00
-lastmod: 2025
-- 07
-- 10 00:00:00+03:00
+﻿---
+title: Hendricks Park
+description: Hendricks Park, Eugenes oldest city park, is a beloved destination for both residents and visitors. Established in 1906, this 80-acre park is nestled in the...
+slug: /hendricks-park/
+date: 2025-07-10 00:00:00+00:00
+lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
 - Eugene
@@ -20,12 +13,9 @@ tags:
 - hendrick
 - park
 layout: post
-- -
-- Hendricks Park, Eugenes oldest city park, is a beloved destination for both residents and visitors. Established in 1906, this 80
-- acre park is nestled in the southeast hills of [Eugene](https://pestpolicy.com/rodent
-- control
-- in
-- eugene/)and offers a serene escape into nature.
+---
+
+Hendricks Park, Eugenes oldest city park, is a beloved destination for both residents and visitors. Established in 1906, this 80-acre park is nestled in the southeast hills of [Eugene](https://pestpolicy.com/rodent-control-in-eugene/)and offers a serene escape into nature.
 
 Known for its stunning rhododendron garden, extensive trails, and diverse plant life, Hendricks Park is a gem that showcases the natural beauty of the Pacific Northwest.
 
@@ -37,16 +27,11 @@ The garden is particularly spectacular in the spring when the rhododendrons are 
 
 ####  Trails and Hiking
 
-Hendricks Park is home to a network of well
-- maintained trails that cater to hikers of all skill levels. The trails wind through old
-- growth forest, offering a peaceful setting for a leisurely walk or a more challenging hike.
+Hendricks Park is home to a network of well-maintained trails that cater to hikers of all skill levels. The trails wind through old-growth forest, offering a peaceful setting for a leisurely walk or a more challenging hike.
 
 The parks trails are also popular among bird watchers and nature enthusiasts, who can enjoy spotting various bird species and other wildlife native to the area.
 
-Related: [Rodent Control in Eugene, OR](https://pestpolicy.com/rodent
-- control
-- in
-- eugene/)
+Related: [Rodent Control in Eugene, OR](https://pestpolicy.com/rodent-control-in-eugene/)
 
 ####  Native Plant Garden
 
@@ -74,20 +59,11 @@ Over the years, the park has been a cherished part of Eugenes community, offerin
 
 ####  Visiting Hendricks Park
 
-Hendricks Park is open daily from dawn to dusk and is free to the public.
-- Whether youre looking to explore the vibrant gardens, take a scenic hike, or enjoy a peaceful picnic, Hendricks Park offers something for everyone. Its close proximity to downtown Eugene makes it easily accessible, yet it feels like a world away from the hustle and bustle of city life.
+Hendricks Park is open daily from dawn to dusk and is free to the public. - Whether youre looking to explore the vibrant gardens, take a scenic hike, or enjoy a peaceful picnic, Hendricks Park offers something for everyone. Its close proximity to downtown Eugene makes it easily accessible, yet it feels like a world away from the hustle and bustle of city life.
 
-Related: [Effective Ant Control for Homeowners in Eugene](https://pestpolicy.com/effective
-- ant
-- control
-- for
-- homeowners
-- in
-- eugene
-- or/)
+Related: [Effective Ant Control for Homeowners in Eugene](https://pestpolicy.com/effective-ant-control-for-homeowners-in-eugene-or/)
 
 ####  Conclusion
 
-Hendricks Park is a testament to Eugenes commitment to preserving natural beauty and providing green spaces for its residents.
-- With its stunning gardens, diverse plant life, and extensive trails, Hendricks Park is a must
-- visit destination for anyone looking to experience the natural splendor of Eugene, OR. Whether youre a local or a visitor, a day spent in Hendricks Park is sure to be a memorable one.
+Hendricks Park is a testament to Eugenes commitment to preserving natural beauty and providing green spaces for its residents. - With its stunning gardens, diverse plant life, and extensive trails, Hendricks Park is a must-visit destination for anyone looking to experience the natural splendor of Eugene, OR. Whether youre a local or a visitor, a day spent in Hendricks Park is sure to be a memorable one.
+

@@ -1,22 +1,9 @@
-﻿
-- -
-- title: How to Get Rid Of Roof Rats in Attic
+﻿---
+title: How to Get Rid Of Roof Rats in Attic
 description: Have you recently discovered some activity in your attic and are afraid that it could be roof rats or black rats ? While it can be a worrying thought, it is...
-slug: /how
-- to
-- get
-- rid
-- of
-- roof
-- rats
-- in
-- attic/
-date: 2025
-- 07
-- 10 00:00:00+00:00
-lastmod: 2025
-- 07
-- 10 00:00:00+03:00
+slug: /how-to-get-rid-of-roof-rats-in-attic/
+date: 2025-07-10 00:00:00+00:00
+lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
 - Guide
@@ -26,26 +13,17 @@ tags:
 - rid
 - roof
 layout: post
-- -
-- Have you recently discovered some activity in your attic and are afraid that it could be [roof rats or black rats](https://en.wikipedia.org/wiki/Black_rat)?While it can be a worrying thought, it is not uncommon for rats to inhabit less populated areas of a house.
+---
+
+Have you recently discovered some activity in your attic and are afraid that it could be [roof rats or black rats](https://en.wikipedia.org/wiki/Black_rat)?While it can be a worrying thought, it is not uncommon for rats to inhabit less populated areas of a house.
 
 Attics provide an ideal location for rats looking for a warm, dark and quiet space where they can mate and reproduce safely.
 
 But once they make themselves comfortable in your attic, roof rats can cause a variety of problems for your family and damage your property significantly.
 
-If you dont get [rid](https://pestpolicy.com/how
-- to
-- get
-- rid
-- of
-- brown
-- recluse
-- spiders/)of roof rats in the attic immediately, it could result in costly repairs and an unmatched amount of frustration. So read on to find all the ways you can use to make the roof rats vacate your attic!
+If you dont get [rid](https://pestpolicy.com/how-to-get-rid-of-brown-recluse-spiders/)of roof rats in the attic immediately, it could result in costly repairs and an unmatched amount of frustration. So read on to find all the ways you can use to make the roof rats vacate your attic!
 
-Related: [Do Moles Have Eyes? Can Moles See? ](https://pestpolicy.com/do
-- moles
-- have
-- eyes/)
+Related: [Do Moles Have Eyes? Can Moles See? ](https://pestpolicy.com/do-moles-have-eyes/)
 
 ##  How to Identify the Roof Rats
 
@@ -73,9 +51,7 @@ Like squirrels, they feed on nuts and fruits as well and find natural habitats w
 
 ###  4. Reproduction
 
-The breeding season varies for roof rats depending on weather conditions but they breed all year regardless. When a female roof rat in the attic conceives, she may give birth to a litter of 5
-- 8 roof rats within 21
-- 23 days.
+The breeding season varies for roof rats depending on weather conditions but they breed all year regardless. When a female roof rat in the attic conceives, she may give birth to a litter of 5-8 roof rats within 21-23 days.
 
 Related: Best Mole Traps 9 Best Raccoon Traps
 
@@ -113,40 +89,29 @@ Roof rats move around primarily based on their urine marks and hide in places th
 
 ###  **2. ****Baiting & Trapping **
 
-This is the most traditional way of getting rid of roof rats in the attic because the right kind of baits can easily lure the rats into a trap. Unlike other rats, roof rats are attracted to bait such as:
-- Cried fruits and nuts
-- Berries and peanut butter
-- Insects and snail shells
-- Dental floss or other nesting material You may also use chemically treated poisonous baits that kill the roof rats and you can get rid of them permanently.
+This is the most traditional way of getting rid of roof rats in the attic because the right kind of baits can easily lure the rats into a trap. Unlike other rats, roof rats are attracted to bait such as: - Cried fruits and nuts - Berries and peanut butter - Insects and snail shells - Dental floss or other nesting material You may also use chemically treated poisonous baits that kill the roof rats and you can get rid of them permanently.
 
 When you use bait to lure a rat, make sure to place it along with a trap in an area with rat activity because roof rats can detect any unusual placement of food and stay away from the bait. Dont forget to check on the traps so that you can timely dispose of any dead rats.
 
-Related: [Best Raccoon Traps](https://pestpolicy.com/best
-- raccoon
-- traps/)
+Related: [Best Raccoon Traps](https://pestpolicy.com/best-raccoon-traps/)
 
-###  3. Non
-- Toxic Trapping
+###  3. Non-Toxic Trapping
 
 Setting the right bait doesnt guarantee that youll get rid of roof rats in the attic * unless you use the right kind of trap. * *You can find various types and sizes of traps in the market that dont require you to poison the * roof rats in your attic. Based on the kind of trap you opt for, the rat can be caught without even being harmed.
 
 Some of the more common traps are:
 
-####  *
-- **Snap Traps*
+####  *- **Snap Traps*
 
 These conventional traps have a metal bar that snaps down when it catches a rat. They are extremely effective in getting rid of roof rats in the attic, but it is difficult to set them up and each trap only tends to kill one.
 
 These may not be ideal to use if you have children or pets at home because snap traps shut with tremendous force and can cause injury in case an accident occurs.
 
-####  *
-- **Electronic Traps*
+####  *- **Electronic Traps*
 
-Easy to bait and set, these traps use a high voltage shock to kill a rat. This trap is a non
-- toxic way of killing a rat and comes with a design that is reusable and allows the trap to be safely used around kids.
+Easy to bait and set, these traps use a high voltage shock to kill a rat. This trap is a non-toxic way of killing a rat and comes with a design that is reusable and allows the trap to be safely used around kids.
 
-####  *
-- **Glue Traps*
+####  *- **Glue Traps*
 
 If you have recognized the track of a roof rat, chances are that it will take the same route next time. This is when you can easily use a glue trap.
 
@@ -156,11 +121,7 @@ These traps are convenient and easy to use because they dont require any baiting
 
 While you make efforts to get rid of roof rats in the attic, dont forget to block all the entry passages to discourage the roof rats from entering the attic.
 
-This will not only help you catch the ones inside the attic but also prevent other rats from entering. You may block the passages by spraying or keeping repellant agents near the entry points or covering holes with material that cant be chewed such as steel wool. Some of the more likely entry passages are:
-- Gaps in shingles
-- Vent covers that are damaged
-- Cracks
-- Holes in the walls or ceilings
+This will not only help you catch the ones inside the attic but also prevent other rats from entering. You may block the passages by spraying or keeping repellant agents near the entry points or covering holes with material that cant be chewed such as steel wool. Some of the more likely entry passages are: - Gaps in shingles - Vent covers that are damaged - Cracks - Holes in the walls or ceilings
 
 ###  5. Use Natural Predators
 
@@ -174,13 +135,11 @@ But know that this may not be the best way to get rid of roof rats in the attic 
 
 If there is a huge population of roof rats in your attic, you should consult a professional pest control company to help you out.
 
-Getting rid of roof rats in the attic is a time
-- consuming process but dont forget that all your efforts will eventually bring back the comforts of your home.
+Getting rid of roof rats in the attic is a time-consuming process but dont forget that all your efforts will eventually bring back the comforts of your home.
 
 ##  Sources:
 
-1. [The role of roof rats (Rattus rattus) in the spread. ..
-- NCBI
-- NIH](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2870913/)2. [Rat Management Guidelines
-- -UC IPM](http://ipm.ucanr.edu/PMG/PESTNOTES/pn74106.html)3. [Effectiveness of rodenticides for managing invasive roof rats](https://www.ncbi.nlm.nih.gov/pubmed/24443051)4. [About Roof Rats
-- the County of Santa Clara](https://www.sccgov.org/sites/vector/resources/brochures/Documents/Roof%20Rats.pdf)
+1. [The role of roof rats (Rattus rattus) in the spread. .. - NCBI - NIH](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2870913/)2. [Rat Management Guidelines--UC IPM](http://ipm.ucanr.edu/PMG/PESTNOTES/pn74106.html)3. [Effectiveness of rodenticides for managing invasive roof rats](https://www.ncbi.nlm.nih.gov/pubmed/24443051)4. [About Roof Rats - the County of Santa Clara](https://www.sccgov.
+
+org/sites/vector/resources/brochures/Documents/Roof%20Rats.pdf)
+

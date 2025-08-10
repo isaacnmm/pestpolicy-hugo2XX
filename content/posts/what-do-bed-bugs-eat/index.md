@@ -1,48 +1,23 @@
-﻿
-- -
-- title: What Do Bed Bugs Eat
-description: Bed bugs have many predators . So might wonder that bed bugs eat a variety of foods
-- from human blood, skin or the crumbs of food.
-slug: /what
-- do
-- bed
-- bugs
-- eat/
-date: 2025
-- 07
-- 10 00:00:00+00:00
-lastmod: 2025
-- 07
-- 10 00:00:00+03:00
+﻿---
+title: What Do Bed Bugs Eat
+description: Bed bugs have many predators . So might wonder that bed bugs eat a variety of foods - from human blood, skin or the crumbs of food.
+slug: /what-do-bed-bugs-eat/
+date: 2025-07-10 00:00:00+00:00
+lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
 - Bed Bugs
 - Guide
 tags:
-- bed
-- bugs
+- bed-bugs
 - bed
 - bug
 layout: post
-- -
-- Bed bugs have [many predators](https://pestpolicy.com/what
-- eats
-- [bed
-- bugs](https://pestpolicy.com/bed
-- bug
-- bites
-- vs
-- mosquito
-- bites/)/).
+---
 
-So might wonder that [bed](https://pestpolicy.com/bed
-- bug
-- bites
-- vs
-- other
-- bites/)bugs eat a variety of foods
-- from human blood, skin or the crumbs of food. So, what do bed bugs eat? **Summary: Most bed bugs species mainly feed on blood of mammals like human. For example, Cimex lectularius only feed on human blood. ** **NB: Bed bug lack teeth and tongue for chewing and swallowing food
-- and thus they'll only eat blood. **
+Bed bugs have [many predators](https://pestpolicy.com/what-eats-[bed-bugs](https://pestpolicy.com/bed-bug-bites-vs-mosquito-bites/)/).
+
+So might wonder that [bed](https://pestpolicy.com/bed-bug-bites-vs-other-bites/)bugs eat a variety of foods - from human blood, skin or the crumbs of food. So, what do bed bugs eat? **Summary: Most bed bugs species mainly feed on blood of mammals like human. For example, Cimex lectularius only feed on human blood. ** **NB: Bed bug lack teeth and tongue for chewing and swallowing food - and thus they'll only eat blood. **
 
 ###  **Does Food Attract Bed Bugs?**
 
@@ -58,8 +33,7 @@ The frequency with which bed bugs eat depends partly on the prevailing temperatu
 
 Basically bed bugs will require a blood meal to produce eggs and to survive in each of the 5 successive nymph stages. However, in the absence of a host, bed bugs can survive for a very long time.
 
-Studies have shown that under favourable conditions, bed bugs can go without a meal for up to 400 days. However, when the conditions are unfavourable, they can barely survive 3
-- 5 months without a meal.
+Studies have shown that under favourable conditions, bed bugs can go without a meal for up to 400 days. However, when the conditions are unfavourable, they can barely survive 3-5 months without a meal.
 
 Bed bugs have the advantage of a waxy exoskeleton that keeps them from excessive dehydration. And similar to many other insects their body requires very little water. Another reason why bed bugs stay long without feeding is because most of the nutrients they get from blood are meant for growth rather than for survival.
 
@@ -85,11 +59,7 @@ In addition bed bugs like to bite you when youre sound asleep. Unlike other anim
 
 ###  **Are Bed Bugs Attracted To Certain Blood Types?**
 
-While there are speculations and publications purporting bed bugs are attracted to certain blood types, there is no proof to ascertain that possibility. Your blood may fall within any of these types O+, O
-- , A+, A
-- , B+, B
-- , AB+, or AB
-- . However, theres no reliable indication that bed bugs are attracted to one or two of these blood types.
+While there are speculations and publications purporting bed bugs are attracted to certain blood types, there is no proof to ascertain that possibility. Your blood may fall within any of these types O+, O-, A+, A-, B+, B-, AB+, or AB-. However, theres no reliable indication that bed bugs are attracted to one or two of these blood types.
 
 New research has however shown that bed bugs prefer blood that has less alcohol concentration. That means a person who has been taking alcohol will have less bed bug bites compared to a person who has not been drinking.
 
@@ -125,8 +95,7 @@ Bed bugs in particular will find it easier to crawl and suck blood on a bald hea
 
 ###  **For**** How Long Do Bed Bugs Feed?**
 
-Basically bed bugs will spend the least time possible to complete a meal to avoid being detected by you or a natural predator. They survive by feeding and retreating to their safe
-- havens without being noticed.
+Basically bed bugs will spend the least time possible to complete a meal to avoid being detected by you or a natural predator. They survive by feeding and retreating to their safe-havens without being noticed.
 
 They dont waste time searching for particular areas to bite. Once they locate the nearest area, they pierce the skin and suck blood until they are satisfied. Depending on its size and the last time it had a meal, a bed bug might bite you severally before satisfaction. In such instances, the bed bug bites in a straight line pattern in order to save time.
 
@@ -144,8 +113,7 @@ Similar to other animals, bed bugs feed whenever they feel hungry. That means th
 
 However, they prefer to feed at night and spend most part of the day hiding. This is a survival tactic they have adapted, to avoid being detected by humans and natural predators.
 
-###  **Do Bed Bugs Feed At Night
-- With Lights On?**
+###  **Do Bed Bugs Feed At Night - With Lights On?**
 
 The preference for feeding arises from two scenarios. The need to and the availability of a still host. While bed bugs survive by coming out in darkness, they wont skip a meal simply because theres light. They take meals when necessary and when conditions are right.
 
@@ -157,7 +125,7 @@ If you have a large infestation, bed bugs will come out to feed in broad dayligh
 
 ##  Conclusion
 
-You have seen that bed bugs will eat nothing else apart from blood from warm
-- blooded animals. So, when they get into your house, their only source of food will be you and your family including pets.
+You have seen that bed bugs will eat nothing else apart from blood from warm-blooded animals. So, when they get into your house, their only source of food will be you and your family including pets.
 
 Therefore, its advisable to prevent bed bugs or act quickly to eradicate them whenever they appear in your house.
+

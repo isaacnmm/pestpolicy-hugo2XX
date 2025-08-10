@@ -1,17 +1,9 @@
-﻿
-- -
-- title: How to Trap Raccoons
+﻿---
+title: How to Trap Raccoons
 description: Quality raccoon traps, if used correctly, will give you high success rates. In this post, I've discussed how to trap raccoons.
-slug: /how
-- to
-- trap
-- raccoons/
-date: 2025
-- 07
-- 10 00:00:00+00:00
-lastmod: 2025
-- 07
-- 10 00:00:00+03:00
+slug: /how-to-trap-raccoons/
+date: 2025-07-10 00:00:00+00:00
+lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
 - Guide
@@ -21,20 +13,15 @@ tags:
 - raccoon
 - live
 layout: post
-- -
-- Quality raccoon traps, if used correctly, will give you high success rates.
+---
 
-In this post, I've discussed how to trap raccoons. Check these [racoon facts](https://pestpolicy.com/raccoon
-- facts/).
+Quality raccoon traps, if used correctly, will give you high success rates.
+
+In this post, I've discussed how to trap raccoons. Check these [racoon facts](https://pestpolicy.com/raccoon-facts/).
 
 Caution: But check with the local authorities if raccoon trapping is legal or how to do it humanely.
 
-Related: [How to control Racoons](https://pestpolicy.com/how
-- to
-- get
-- rid
-- of
-- raccoons/)
+Related: [How to control Racoons](https://pestpolicy.com/how-to-get-rid-of-raccoons/)
 
 ##  How to Trap Raccoons
 
@@ -42,21 +29,13 @@ Related: [How to control Racoons](https://pestpolicy.com/how
 
 [Raccoons](https://www.esf.edu/aec/adks/mammals/raccoon.htm)are adaptive wild animals. They host pests like roundworms and spread rabies, and will forage in your garbage bins. Killing or hunting raccoons is illegal in some states.
 
-You can trap and then relocate them. Raccoon traps are a humane way to remove these fur
-- bearing wild animals.
+You can trap and then relocate them. Raccoon traps are a humane way to remove these fur-bearing wild animals.
 
-Exterminators recommend getting raccoon traps that are either extra
-- large or large
-- sizes (with its length measuring roughly 32 to 42 inches).
+Exterminators recommend getting raccoon traps that are either extra-large or large-sizes (with its length measuring roughly 32 to 42 inches).
 
-Raccoon traps will come with 1 or 2 doors from which youll select the one that serves your specific purpose.
-- **One
-- Door Trap Model**: This model is a favorite among raccoon exterminators and provides superior level of protection on the trap bait. Allows faster and simple enter/ trapping of the raccoons and other wild animals.
-- **Two
-- door Trap Model**: Allows double entry allowance and thus provides improved raccoon catch rate.
+Raccoon traps will come with 1 or 2 doors from which youll select the one that serves your specific purpose. - **One-Door Trap Model**: This model is a favorite among raccoon exterminators and provides superior level of protection on the trap bait. Allows faster and simple enter/ trapping of the raccoons and other wild animals. - **Two-door Trap Model**: Allows double entry allowance and thus provides improved raccoon catch rate.
 
-Also, since its a see
-- through traps, the raccoons will be calmed.
+Also, since its a see-through traps, the raccoons will be calmed.
 
 ###  Step 2: Decide on the Trap Placement Location
 
@@ -80,24 +59,17 @@ Related: Do Moles Have Eyes?
 
 Now, its now that you keenly set the traps door or doors in the raccoon traps ready to trap the nasty wild rodents. Do this keenly on a flat or even surface.
 
-Check the trap usage instruction in the manual for different requirements. After setting the trap, now, its time to test
-- drive the trigger
-- and
-- close systems through pressing down the provided trigger plate.
+Check the trap usage instruction in the manual for different requirements. After setting the trap, now, its time to test-drive the trigger-and-close systems through pressing down the provided trigger plate.
 
 However, if you're setting the trap in hard surfaces such as concrete, first lay down a protective surface like plywood to protect the animal's paws when attempting to dig its way out of the tar.
 
-Related: [How to Trap Raccoons](https://pestpolicy.com/how
-- to
-- trap
-- raccoons/)
+Related: [How to Trap Raccoons](https://pestpolicy.com/how-to-trap-raccoons/)
 
 ##  Rules for Using Raccoon Traps
 
 ###  **1. Open Trap Doors only at Night (Raccoons are Nocturnals)**
 
-Raccoons are very cunning wild animals (rodents for that matter). Therefore, recent [research](http://ipm.ucanr.edu/PMG/PESTNOTES/pn74116.html)shows that the back of the raccoon trap must be covered using a half
-- inch wire mesh to ensure that the raccoon wont steal the bait from outside the trap.
+Raccoons are very cunning wild animals (rodents for that matter). Therefore, recent [research](http://ipm.ucanr.edu/PMG/PESTNOTES/pn74116.html)shows that the back of the raccoon trap must be covered using a half-inch wire mesh to ensure that the raccoon wont steal the bait from outside the trap.
 
 Definitely, the rodents will attempt to get the bait via the trap bars. However, because raccoons are nocturnal, you should only open the traps during the night. This'll prevent the trap catching animals such as cats or rats.
 
@@ -109,8 +81,7 @@ Also, you can place it around places food was located. This will trap the raccoo
 
 ##  3. Practices for Humana Raccoon Trapping
 
-For human treatment of the Raccoons, you [should](http://wdfw.wa.gov/living/nuisance/trapping.html)put 1
-- 2 tennis balls in the raccoon traps and thus allow the large rodents to release its frustration and energy. Further, for the smaller animal, you can offer some piece of wood.
+For human treatment of the Raccoons, you [should](http://wdfw.wa.gov/living/nuisance/trapping.html)put 1-2 tennis balls in the raccoon traps and thus allow the large rodents to release its frustration and energy. Further, for the smaller animal, you can offer some piece of wood.
 
 Related: Best racoon baits
 
@@ -122,14 +93,11 @@ Further, was the new racoon traps using vinegar and water as this will eliminate
 
 ###  5. Fix the Racoon Cage Securely
 
-Lastly, by any possible way, ensure you fix the raccoon cage securely. But why? Well, raccoons are relatively heavy weighting anything from 5
-- 25 kg.
+Lastly, by any possible way, ensure you fix the raccoon cage securely. But why? Well, raccoons are relatively heavy weighting anything from 5-25 kg.
 
 Therefore, with some simple manoeuvres, the wild animals can flip the cage and flee. Further, fixing the cage properly avoid cases where the raccoon would tilt the cage and easily pick the bait.
 
 ##  **Sources**
 
-1. [Trap
-- Vaccinate
-- Release Program to Control Raccoon Rabies. ..
-- NCBI](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3376792/)2. [Best Management Practices for Trapping Raccoons in the United States](https://www.dec.ny.gov/docs/wildlife_pdf/trapbmpsraccoon.pdf)3. Trapping Nuisance Wildlife Purdue Extension Forestry & Natural
+1. [Trap-Vaccinate-Release Program to Control Raccoon Rabies. .. - NCBI](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3376792/)2. [Best Management Practices for Trapping Raccoons in the United States](https://www.dec.ny.gov/docs/wildlife_pdf/trapbmpsraccoon.pdf)3. Trapping Nuisance Wildlife Purdue Extension Forestry & Natural
+

@@ -1,35 +1,21 @@
-﻿
-- -
-- title: Does Boric Acid Kill Bed Bugs
+﻿---
+title: Does Boric Acid Kill Bed Bugs
 description: Does boric acid kill bed bugs? Boric acid is one of the most famous pest killer in the market. It has various home applications.
-slug: /does
-- boric
-- acid
-- kill
-- bed
-- bugs/
-date: 2025
-- 07
-- 10 00:00:00+00:00
-lastmod: 2025
-- 07
-- 10 00:00:00+03:00
+slug: /does-boric-acid-kill-bed-bugs/
+date: 2025-07-10 00:00:00+00:00
+lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
 - Bed Bugs
 - Guide
 tags:
-- bed
-- bugs
+- bed-bugs
 - doe
 - boric
 layout: post
-- -
-- Does [boric](https://pestpolicy.com/does
-- boric
-- acid
-- kill
-- roaches/)acid kill bed bugs? Boric acid is one of the most famous pest killer in the market. It has various home applications. Some people use it to kill bed bugs. **But does boric acid kill bed bugs? The answer to this question is NO! However, Boric acid can kill bed bugs, but only when eaten/inhaled or injected into them. **
+---
+
+Does [boric](https://pestpolicy.com/does-boric-acid-kill-roaches/)acid kill bed bugs? Boric acid is one of the most famous pest killer in the market. It has various home applications. Some people use it to kill bed bugs. **But does boric acid kill bed bugs? The answer to this question is NO! However, Boric acid can kill bed bugs, but only when eaten/inhaled or injected into them. **
 
 **On the other hand, bed bugs feed on blood and unless boric acid is mixed with blood, from which they feed and get it into their body; then it may never kill them. ** So, lets start.
 
@@ -79,11 +65,8 @@ You will have to look for alternative means of getting rid of bed bug infestatio
 
 Before that, I will recommend you to look for an examinator, who will assist check on your current situation as you may even find it were other insects like flea instead.
 
-Also, read properly our bed bug removal guide to acquire insight. To eradicate bed bugs in your house/home, you can use the options given below:
-- You can set bed bug traps.
-- Ensure you remove mattress cover to expose them.
-- You can use other chemicals/sprays that destroy bed bugs.
-- You can throw away the items that are having bed bugs.
+Also, read properly our bed bug removal guide to acquire insight. To eradicate bed bugs in your house/home, you can use the options given below: - You can set bed bug traps. - Ensure you remove mattress cover to expose them. - You can use other chemicals/sprays that destroy bed bugs. - You can throw away the items that are having bed bugs.
+
 - Room heat treatment kills bed bug completely though it is much more expensive, but environmentally friendly.
 
 It may not seem a nice advice, however it is worth rather that investing in boric acid that may not help, instead make you waste your resources/money.
@@ -94,22 +77,17 @@ Bed bugs eggs are the most complicated stage of bed bug eradication. Direct appl
 
 Again, locating their breeding sites may be difficult and thus making the whole process challenging.
 
-Nevertheless, you can mix boric acid with your washing powder and wash items infested with bed bugs. Use very hot water
-- of course, this needs a washing machine.
+Nevertheless, you can mix boric acid with your washing powder and wash items infested with bed bugs. Use very hot water-of course, this needs a washing machine.
 
-This will destroy the eggs and kill the living bed bugs. Follow these steps: 1. Put powder form of boric acid (borax) into a washing machine. 2. Put clothes infested with bed bugs. 3. Add boiling water. 4. Add powder
-- washing soap. 5. Run the machine, 6. Remove the clothes and hung after rinsing.
+This will destroy the eggs and kill the living bed bugs. Follow these steps: 1. Put powder form of boric acid (borax) into a washing machine. 2. Put clothes infested with bed bugs. 3. Add boiling water. 4. Add powder-washing soap. 5. Run the machine, 6. Remove the clothes and hung after rinsing.
 
 ##  Which other ways can I use boric acid in my house/home?
 
-Boric acid is one of most important substance in home use. It is commonly used in laundry activities. It is used as a cleanser, disinfectant, stain
-- remover, deodorizer as well as mould
-- killer.
+Boric acid is one of most important substance in home use. It is commonly used in laundry activities. It is used as a cleanser, disinfectant, stain-remover, deodorizer as well as mould-killer.
 
 More importantly, it removes stains and odor from your clothes. If mixed with honey or other sugary baits, it can be used to kill home insects like cockroaches and ants.
 
-Boric acid is an anti
-- fungal, natural antiseptic agent, and astringent which when mixed with water can be used to treat rushes, minor burns or wounds.
+Boric acid is an anti-fungal, natural antiseptic agent, and astringent which when mixed with water can be used to treat rushes, minor burns or wounds.
 
 ##  Can boric acid kill other insects?
 
@@ -129,8 +107,7 @@ It cant harm your eyes, as you will even realize that the eye contact lens is ma
 
 It may not be extreme, however it is important to seek doctors checkup if symptoms persist. Boric acid is dangerous to human when inhaled.
 
-It has a sharp irritation to the breathing/respiratory system, which makes you uncomfortable
-- it may be accompanied by coughing (though rare).
+It has a sharp irritation to the breathing/respiratory system, which makes you uncomfortable- it may be accompanied by coughing (though rare).
 
 This will persist for a few minutes, then stops. You may not need to see the doctor unless the symptoms persist.
 
@@ -149,3 +126,4 @@ Boric acid can kill bed bugs only when eaten/inhaled or injected into their bodi
 It is not efficient enough to be used for killing bed bugs as compared to other available options. I recommend that you should opt for other ways I have suggested above.
 
 Boric acid can kill cockroaches and ants when mixed with sugary bait. It may not kill you, however if symptoms persist, seek medication as soon as possible.
+

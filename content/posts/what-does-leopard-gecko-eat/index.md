@@ -1,20 +1,9 @@
-﻿
-- -
-- title: What Does Leopard Gecko Eat
-description: A proper diet will make your crepuscular
-- geckos
-- nocturnal Leopard Gecko healthy and happy every day . But, really, what does leopard gecko eat? Leopard Gecko...
-slug: /what
-- does
-- leopard
-- gecko
-- eat/
-date: 2025
-- 07
-- 10 00:00:00+00:00
-lastmod: 2025
-- 07
-- 10 00:00:00+03:00
+﻿---
+title: What Does Leopard Gecko Eat
+description: A proper diet will make your crepuscular-geckos-nocturnal Leopard Gecko healthy and happy every day . But, really, what does leopard gecko eat? Leopard Gecko...
+slug: /what-does-leopard-gecko-eat/
+date: 2025-07-10 00:00:00+00:00
+lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
 - Fleas
@@ -24,18 +13,9 @@ tags:
 - leopard
 - gecko
 layout: post
-- -
-- A proper diet will make your [****crepuscular****](https://pestpolicy.com/are
-- [leopard](https://pestpolicy.com/are
-- leopard
-- geckos
-- nocturnal/)
-- geckos
-- nocturnal/)Leopard [Gecko](https://pestpolicy.com/do
-- geckos
-- eat
-- bed
-- bugs/)[healthy and happy every day](https://www.rspca.org.uk/adviceandwelfare/pets/other/leopardgecko).But, really, what does leopard gecko eat?
+---
+
+A proper diet will make your [****crepuscular****](https://pestpolicy.com/are-[leopard](https://pestpolicy.com/are-leopard-geckos-nocturnal/)-geckos-nocturnal/)Leopard [Gecko](https://pestpolicy.com/do-geckos-eat-bed-bugs/)[healthy and happy every day](https://www.rspca.org.uk/adviceandwelfare/pets/other/leopardgecko).But, really, what does leopard gecko eat?
 
 Leopard Gecko is a small and attractive insectivorous reptile that is easier to take care of. Improper food administration may adversely affect their health. **In summary, Leopard Gecko mainly eats insects such as cockroaches, super worms (such as Zilla Reptile Food), mealworms, or crickets. Leopard Geckos can also feed on silkworms, tomato hornworms, waxworms, beetles, sowbugs, and butter worms.
 
@@ -49,51 +29,25 @@ Most of these insects are readily available in various climatic conditions (regi
 
 ###  **1. Mealworms**
 
-These are the primary source of food for Leopard Gecko that has a very high content of fat. They have a low or poor calcium
-- to
-- phosphorous ratio. Mealworms are easier to raise at home since they multiply rapidly. Never feed your Leopard Gecko with mealworm beetle. They have shells that cause impaction due to indigestion problems.
+These are the primary source of food for Leopard Gecko that has a very high content of fat. They have a low or poor calcium-to-phosphorous ratio. Mealworms are easier to raise at home since they multiply rapidly. Never feed your Leopard Gecko with mealworm beetle. They have shells that cause impaction due to indigestion problems.
 
-**Review of theZilla
-- Reptile Mealworm**
-- Nutritious food forLeopard Geckos, large Birds or Tropical Fish, hermit crabs, fence lizard, and Bearded Dragons
-- Doesn't requireRefrigeration
-- Resealable and Convenient Packaging
-- Has High Protein and Dehydrated Ingredient First, mealworms must be just a small portion of the Leopard Geckos' diet
-- most info sheets recommend that you feed the reptiles mainly with live food.
+**Review of theZilla-Reptile Mealworm** - Nutritious food forLeopard Geckos, large Birds or Tropical Fish, hermit crabs, fence lizard, and Bearded Dragons - Doesn't requireRefrigeration - Resealable and Convenient Packaging - Has High Protein and Dehydrated Ingredient First, mealworms must be just a small portion of the Leopard Geckos' diet - most info sheets recommend that you feed the reptiles mainly with live food.
 
-Give the leopard geckos, occasionally, just about a bowl of the mealworm food above. My red
-- slider turtle munched on the Zilla
-- Reptile Mealworm around its outdoor pond. For the leopard gecko, I made mustard greens salad and added the Mealworms for excellent nutrition. This has made the reptiles become muscular, healthy, and happy.
+Give the leopard geckos, occasionally, just about a bowl of the mealworm food above. My red-slider turtle munched on the Zilla-Reptile Mealworm around its outdoor pond. For the leopard gecko, I made mustard greens salad and added the Mealworms for excellent nutrition. This has made the reptiles become muscular, healthy, and happy.
 
-The Zilla
-- Reptile Mealworm has a great taste and smell
-- and offers its additional protein to the reptiles as well as being great for chickens and peafowl.
+The Zilla-Reptile Mealworm has a great taste and smell - and offers its additional protein to the reptiles as well as being great for chickens and peafowl.
 
-Also, it's suitable nutrition for sick geckos plus it won't spill since its plastic is strong enough allowing excellent sealing. The mealworms are dehydrated to offer the right nutrients and protein that'll help maintain the health of your leopard dragons. The 100
-- percent natural worms and thus your geckos will achieve the same nutrition like they're feeding on whole insects.
+Also, it's suitable nutrition for sick geckos plus it won't spill since its plastic is strong enough allowing excellent sealing. The mealworms are dehydrated to offer the right nutrients and protein that'll help maintain the health of your leopard dragons. The 100-percent natural worms and thus your geckos will achieve the same nutrition like they're feeding on whole insects.
 
-Pros
-- Nutritious food forLeopard Geckos just like whole mealworms
-- Doesn't requireRefrigeration
-- 100
-- percent natural
-- Resealable and Convenient Packaging
-- Has High Protein and Dehydrated Ingredients Cons
-- **It does not excite all dragons
+Pros - Nutritious food forLeopard Geckos just like whole mealworms - Doesn't requireRefrigeration - 100-percent natural - Resealable and Convenient Packaging - Has High Protein and Dehydrated Ingredients Cons - **It does not excite all dragons
 
-###  2. Cockroaches
-- Do leopard geckos eat cockroaches?
+###  2. Cockroaches - Do leopard geckos eat cockroaches?
 
-Yes, Leopard geckos will many worms and bugs including Dubia Roaches (a great staple food), crickets, locusts, silkworms, hornworms, super
-- worms, and mealworms.
+Yes, Leopard geckos will many worms and bugs including Dubia Roaches (a great staple food), crickets, locusts, silkworms, hornworms, super-worms, and mealworms.
 
-But are Dubia roaches too big for leopard geckos? Well, for leopard geckos that are in the juvenile stage, only feed them with 1/4
-- inch Dubia roaches. But for adult geckos, feed them with Dubai roaches that are medium
-- sized
-- this is a maximum of 1. 5 inches in length.
+But are Dubia roaches too big for leopard geckos? Well, for leopard geckos that are in the juvenile stage, only feed them with 1/4-inch Dubia roaches. But for adult geckos, feed them with Dubai roaches that are medium-sized - this is a maximum of 1. 5 inches in length.
 
-The cockroaches will offer great nutrition to your leopard gecko as they have high protein that'll keep your geckos healthy and active. Also, you should feed the gecko with whole
-- grain cereals, fruits, and fresh veggies too.
+The cockroaches will offer great nutrition to your leopard gecko as they have high protein that'll keep your geckos healthy and active. Also, you should feed the gecko with whole-grain cereals, fruits, and fresh veggies too.
 
 Tropical Cockroaches are the best tropical insects to use when feeding your Leopard Gecko within the tropics. The best cockroach species is Dubia roaches.
 
@@ -101,15 +55,13 @@ These are easier to raise they multiply very fast as long as proper hideouts and
 
 Dubai roaches and Turkestan cockroaches move slowly and are unable to climb walls this makes it easier to collect them as food when needed.
 
-Do not feed your Leopard Gecko with cockroaches found in your shower/bathroom or damp areas these are usually non
-- nutritious and poisonous.
+Do not feed your Leopard Gecko with cockroaches found in your shower/bathroom or damp areas these are usually non-nutritious and poisonous.
 
 ###  3. Crickets
 
 Crickets are known to have a relatively good amount of proteins for your Leopard Geckos growth, unlike the mealworms and roaches.
 
-They have low
-- fat content and can easily be dusted with other artificial food supplements when feeding your Leopard Gecko.
+They have low-fat content and can easily be dusted with other artificial food supplements when feeding your Leopard Gecko.
 
 Crickets are popular since their movement, behavior, and biting give Leopard Gecko a chance to acquire hunting skills.
 
@@ -165,11 +117,7 @@ The sick Leopard Gecko should be fed according to instructions given by the vet.
 
 For adult Leopard Gecko, feed it one time per day or thrice per week is enough. Adult Leopard Gecko can be satisfied when fed with 4 to 7 sizable insects.
 
-Just in case Leopard Gecko has a Problem with feeding habits, you can try to leave some of the harmless insects in a bowl (deep enough that insects cant crawl out) for Leopard Gecko to feed on during its free time. *NB: Do not feed your, Leopard, with insects that is larger/longer than the space between its eyes (thumb rule). * Related: [What Do Baby Lizards Eat? ](https://pestpolicy.com/what
-- do
-- baby
-- lizards
-- eat/)
+Just in case Leopard Gecko has a Problem with feeding habits, you can try to leave some of the harmless insects in a bowl (deep enough that insects cant crawl out) for Leopard Gecko to feed on during its free time. *NB: Do not feed your, Leopard, with insects that is larger/longer than the space between its eyes (thumb rule). * Related: [What Do Baby Lizards Eat? ](https://pestpolicy.com/what-do-baby-lizards-eat/)
 
 ##  Which Food Should You Avoid Giving Your Leopard Gecko?
 
@@ -192,3 +140,4 @@ In normal times, an adult Leopard Gecko can go without food for 10 to 20 days.
 Leopard Gecko is a small attractive reptile that feeds on insects such as mealworms, crickets, cockroaches, silkworms, waxworms, or super worms.
 
 You can also feed your Leopard Gecko with artificial feeds that are dusted over the natural food to give it vitamin (D3) supplements. Avoid feeding your Leopard Gecko with feeds not approved by vet.
+

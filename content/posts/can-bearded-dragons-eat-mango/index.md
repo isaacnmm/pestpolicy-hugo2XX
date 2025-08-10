@@ -1,18 +1,9 @@
-﻿
-- -
-- title: Can Bearded Dragons Eat Mango
+﻿---
+title: Can Bearded Dragons Eat Mango
 description: Can bearded dragons eat mango? Mango  Mangifera indica  is a delicious drupe that grows mainly in tropical climate and is often used as dessert by many people...
-slug: /can
-- bearded
-- dragons
-- eat
-- mango/
-date: 2025
-- 07
-- 10 00:00:00+00:00
-lastmod: 2025
-- 07
-- 10 00:00:00+03:00
+slug: /can-bearded-dragons-eat-mango/
+date: 2025-07-10 00:00:00+00:00
+lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
 - Guide
@@ -22,8 +13,9 @@ tags:
 - bearded
 - dragon
 layout: post
-- -
-- Can bearded dragons eat mango? Mango ( [*Mangifera indica*](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3249901/)) is a delicious drupe that grows mainly in tropical climate and is often used as dessert by many people or chewed while unripe. Could be you have come across a number of them at market place or you grow various mango species and wonders if bearded dragons can eat them.
+---
+
+Can bearded dragons eat mango? Mango ( [*Mangifera indica*](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3249901/)) is a delicious drupe that grows mainly in tropical climate and is often used as dessert by many people or chewed while unripe. Could be you have come across a number of them at market place or you grow various mango species and wonders if bearded dragons can eat them.
 
 It may also concern you if beardies can eat mango peels, leaves or stems/backs.
 
@@ -35,22 +27,17 @@ It may also concern you if beardies can eat mango peels, leaves or stems/backs.
 
 ###  1. Vitamins Composition
 
-For every 100g of mango salad, there is 6% to 10% Vitamin A that is needed to boost beardies eyesight thus preventing dry eyes and night blindness. In addition, vitamin A will improve your pets immune system further and help in development of reproduction system
-- just like with eggs.
+For every 100g of mango salad, there is 6% to 10% Vitamin A that is needed to boost beardies eyesight thus preventing dry eyes and night blindness. In addition, vitamin A will improve your pets immune system further and help in development of reproduction system - just like with eggs.
 
-Mangoes also have Vitamin B6 (0. 119mg or 11. 6% RDI needed for fat & protein metabolism as well as in manufacture of red blood cells), Vitamin C (34. 6mg or 67. 2% of RDI
-- required to help repair worn
-- out tissues and boost your beardies growth and development) and Vitamin E (0. 9mg or 9. 67% RDI needed for destruction of free radicals within tissues and prevents beardies skin from UV rays damage that may occur).
+Mangoes also have Vitamin B6 (0. 119mg or 11. 6% RDI needed for fat & protein metabolism as well as in manufacture of red blood cells), Vitamin C (34. 6mg or 67. 2% of RDI - required to help repair worn-out tissues and boost your beardies growth and development) and Vitamin E (0. 9mg or 9. 67% RDI needed for destruction of free radicals within tissues and prevents beardies skin from UV rays damage that may occur).
 
 Importantly, mangoes have vitamin K (6% of RDI) that improves beardies blood clotting (in case of injuries) thus preventing any excess bleeding.
 
 Related: Best Substrate for Bearded Dragons
 
-###  2. Rich Pre
-- Biotic Dietary Fiber
+###  2. Rich Pre-Biotic Dietary Fiber
 
-Mangoes are known to have pre
-- biotic fibers that are will add bulk to your beardies stool thus preventing it from constipation (difficulties in releasing bowels). Scientific research shows that for every 100g of mango salad, there is 2. 6g to 3. 2g dietary fibers this number is relatively high as compared to other fruits such as paw paws and berries.
+Mangoes are known to have pre-biotic fibers that are will add bulk to your beardies stool thus preventing it from constipation (difficulties in releasing bowels). Scientific research shows that for every 100g of mango salad, there is 2. 6g to 3. 2g dietary fibers this number is relatively high as compared to other fruits such as paw paws and berries.
 
 The soluble based mango fibers will also add to the food content in the alimentary canal and ease the digestion process.
 
@@ -66,33 +53,21 @@ Moreover, mangoes contain other powerful antioxidants such as polyphenols, rhamn
 
 There is 168mg of potassium in every 100g of fresh ripe mango salad. Potassium is required for smooth muscle contraction, fluid regulation and quick nerves signal control in your bearded dragon. In addition, potassium will lower the blood pressure, control excess water levels and prevent occurrence of diseases such as osteoporosis and kidney stones. Presence of 11mg calcium will further help strengthen your beardies bones and teeth.
 
-Other minerals present include Sodium (1. 3mg needed for osmoregulation and blood pressure balance), Magnesium (10mg boosts heartbeat and maintains smooth nerve signal response), Zinc (0. 19mg
-- required for cell division and repair of injuries), Manganese (0. 063mg needed for metabolism of cholesterol and amino acid as well as clotting process) and Iron (0. 16mg
-- prevents anemia and oxygen transportation).
+Other minerals present include Sodium (1. 3mg needed for osmoregulation and blood pressure balance), Magnesium (10mg boosts heartbeat and maintains smooth nerve signal response), Zinc (0. 19mg-required for cell division and repair of injuries), Manganese (0. 063mg needed for metabolism of cholesterol and amino acid as well as clotting process) and Iron (0. 16mg-prevents anemia and oxygen transportation).
 
-Mangoes also contain phyto
-- nutrients such as
-- carotene,
-- cryptoxanthin and a
-- carotene, which easily combine with other antioxidants thus helping in elimination of free radicals.
+Mangoes also contain phyto-nutrients such as -carotene, -cryptoxanthin and a-carotene, which easily combine with other antioxidants thus helping in elimination of free radicals.
 
 ###  5. Relative Water Content Level
 
 On average, most mango species contain 49% to 74% water content when ripe. This quantity wont be harmful to your beardie if controlled feeding is carried out. Your beardie will have a stable osmoregulation (very crucial process for beardie without which it suffers kidney failure) if you follow proper feeding and preparation procedure given below.
 
-Average water content is needed for your beardies homeostasis processes as well as maintenance of its skin and cells in hydrated state for proper physiological processes. Low water content in beardie will cause dehydration that leads to dizziness, constipation and dry skin. You should avoid overfeeding your bearded dragon with excess mangoes
-- it may lead to over hydration that causes high blood pressure and runny poo.
+Average water content is needed for your beardies homeostasis processes as well as maintenance of its skin and cells in hydrated state for proper physiological processes. Low water content in beardie will cause dehydration that leads to dizziness, constipation and dry skin. You should avoid overfeeding your bearded dragon with excess mangoes-it may lead to over hydration that causes high blood pressure and runny poo.
 
-Normally, Mangoes should be fed occasionally and be supplemented with other meals like mealworms or silkworms. Related: [Can Bearded Dragons Eat Bananas? ](https://pestpolicy.com/can
-- bearded
-- dragons
-- eat
-- bananas/)
+Normally, Mangoes should be fed occasionally and be supplemented with other meals like mealworms or silkworms. Related: [Can Bearded Dragons Eat Bananas? ](https://pestpolicy.com/can-bearded-dragons-eat-bananas/)
 
 ###  6. Aphrodisiac fruit
 
-Mangoes, from the recent scientific research, are now aphrodisiac. They contain compounds, which improves sexual activities of bearded dragons. If your beardies are sexually inactive, just prepare 300g of mango salad weekly (as supplement feed) for a period of 3
-- 4 months in order to boost their mating desire and performance.
+Mangoes, from the recent scientific research, are now aphrodisiac. They contain compounds, which improves sexual activities of bearded dragons. If your beardies are sexually inactive, just prepare 300g of mango salad weekly (as supplement feed) for a period of 3-4 months in order to boost their mating desire and performance.
 
 Species such as chaunsa and alphonsos mangoes strengthen further the bonds of male and female beardies in a given cage they tend to stay together most of their time.
 
@@ -114,11 +89,7 @@ Measure 300g to 545g of mango salad in a given time when feeding your beardie th
 
 Related: [Can Bearded Dragons Eat Grapes?
 
-](https://pestpolicy.com/can
-- bearded
-- dragons
-- eat
-- grapes/)
+](https://pestpolicy.com/can-bearded-dragons-eat-grapes/)
 
 ##  Mango Species not to Feed Your Bearded Dragon
 
@@ -140,11 +111,7 @@ You can feed your beardie with mangoes that are about to ripen they usually have
 
 One great problem of mangoes is that they have low calcium: phosphorous ratio of 0. 4: 1. This is dangerous since excess phosphorous inhibits (binds) calcium from being absorbed into the bloodstream leading to calcium deficiency disease called metabolic bone disease. However, you can boost beardies calcium level in the mango salad by adding commercially manufactured calcium powder supplement when feeding.
 
-You need to know that low calcium to phosphorous ration will also affect absorption of carbs by your beardie. Therefore, select mango species that have relatively high calcium: phosphorous ratio. Related: [Can Bearded Dragons Eat Apples? ](https://pestpolicy.com/can
-- bearded
-- dragons
-- eat
-- apples/)
+You need to know that low calcium to phosphorous ration will also affect absorption of carbs by your beardie. Therefore, select mango species that have relatively high calcium: phosphorous ratio. Related: [Can Bearded Dragons Eat Apples? ](https://pestpolicy.com/can-bearded-dragons-eat-apples/)
 
 ###  **4. Mangoes With High Acidity Level **
 
@@ -164,5 +131,5 @@ Actually, mango peels contain important antioxidant compounds necessary for dest
 
 ##  Conclusion
 
-Bearded dragon will easily eat mangoes to acquire vitamin A, B6, C, E and K. In addition, mangoes have rich pre
-- biotic dietary fibers as well as rich mineral content. Notably, low fat and cholesterol content makes mango salad a suitable feed supplement. However, mangoes contain relatively high sugar, moderate oxalate/acid and low calcium: phosphorous ratio and thus should be used occasionally.
+Bearded dragon will easily eat mangoes to acquire vitamin A, B6, C, E and K. In addition, mangoes have rich pre-biotic dietary fibers as well as rich mineral content. Notably, low fat and cholesterol content makes mango salad a suitable feed supplement. However, mangoes contain relatively high sugar, moderate oxalate/acid and low calcium: phosphorous ratio and thus should be used occasionally.
+

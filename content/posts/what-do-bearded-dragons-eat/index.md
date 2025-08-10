@@ -1,18 +1,9 @@
-﻿
-- -
-- title: What Do Bearded Dragons Eat
+﻿---
+title: What Do Bearded Dragons Eat
 description: What do bearded dragons eat? For a healthy life, it is important to feed your bearded dragon with a proper balanced diet.
-slug: /what
-- do
-- bearded
-- dragons
-- eat/
-date: 2025
-- 07
-- 10 00:00:00+00:00
-lastmod: 2025
-- 07
-- 10 00:00:00+03:00
+slug: /what-do-bearded-dragons-eat/
+date: 2025-07-10 00:00:00+00:00
+lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
 - Guide
@@ -22,8 +13,9 @@ tags:
 - dragon
 - eat
 layout: post
-- -
-- What do bearded dragons eat? For a healthy life, it is important to feed your bearded dragon with a proper balanced diet. As a smart omnivore, this dragon either eats fruits, plant or animal products/ supplements. Maybe you have come across a bearded dragon in the fields, zoo or probably own one and wonders what this reptile eats. *So, what do Bearded Dragons Eat?
+---
+
+What do bearded dragons eat? For a healthy life, it is important to feed your bearded dragon with a proper balanced diet. As a smart omnivore, this dragon either eats fruits, plant or animal products/ supplements. Maybe you have come across a bearded dragon in the fields, zoo or probably own one and wonders what this reptile eats. *So, what do Bearded Dragons Eat?
 
 Well, these reptiles feed on fruits such as tomatoes, apples, guavas, bananas, berries, figs, watermelons, mangoes, papayas, grapes, kiwi, apricots, pears or plums. * *Bearded Dragons can also feed on vegetables/greens such as cabbages, celery, sweet potatoes, peas, green beans, courgette, butternut squash, okra, bell pepper, clover, turnip green, mustard green, coriander or collard/ kales. *
 
@@ -41,8 +33,7 @@ Importantly, avoid feeding your pet bearded dragon with tomatos leaves, stem or 
 
 ####  **b. Apples**
 
-Apples for bearded dragons are an essential fruit as they contain 1% of vitamin A, 5% of Vitamin K and 14% of vitamin C, which enhances good vision and development. When feeding, it is necessary to peel the apples and slice them into sizable pieces that can be chewed and swallowed smoothly without chocking the lizard. Apples have high
-- level Calories (95%) and 4g fibers per fruit that will boost your dragons energy and reduce indigestion problems.
+Apples for bearded dragons are an essential fruit as they contain 1% of vitamin A, 5% of Vitamin K and 14% of vitamin C, which enhances good vision and development. When feeding, it is necessary to peel the apples and slice them into sizable pieces that can be chewed and swallowed smoothly without chocking the lizard. Apples have high-level Calories (95%) and 4g fibers per fruit that will boost your dragons energy and reduce indigestion problems.
 
 Moreover, apples large quantities of magnesium and potassium minerals, which improves development and immune system of your Breaded Dragon.
 
@@ -54,9 +45,7 @@ Why because, bananas contain high levels of phosphorous that binds the calcium i
 
 ###  **d. Berries**
 
-Berries such as blackberries, raspberries, strawberries or blueberries can be fed to bearded dragon as they add extra water content to the blood stream. In addition, berries contain rich fiber
-- networks that improves digestion process
-- just like the *cantaloupe. * Berries should be fed directly without peeling or mashing.
+Berries such as blackberries, raspberries, strawberries or blueberries can be fed to bearded dragon as they add extra water content to the blood stream. In addition, berries contain rich fiber-networks that improves digestion process - just like the *cantaloupe. * Berries should be fed directly without peeling or mashing.
 
 However, wild picked berries should be cleaning thoroughly before feeding or you avoid them since they may contain toxins or harmful pests.
 
@@ -74,9 +63,7 @@ However, these fruits have high level of oxalate that binds and inhibits calcium
 
 ####  **a. Cabbages**
 
-Cabbages are essential meal for your bearded dragon since they contain high
-- energy content (113kJ). They also contain strong fibers (prevents constipation), water and vitamin A, C, & K necessary for growth and development. Moreover, magnesium, iron, zinc and manganese minerals are also plenty
-- just like broccoli for bearded dragons.
+Cabbages are essential meal for your bearded dragon since they contain high-energy content (113kJ). They also contain strong fibers (prevents constipation), water and vitamin A, C, & K necessary for growth and development. Moreover, magnesium, iron, zinc and manganese minerals are also plenty - just like broccoli for bearded dragons.
 
 Notably, cabbages have high level of calcium to phosphorous ratio (2: 1) which prevents occurrence of metabolic bone disease.
 
@@ -84,18 +71,13 @@ Ensure that green or red cabbages are thoroughly washed (to remove harmful chemi
 
 ####  **b. Sweet potatoes**
 
-Normally, bearded dragons dont eat raw sweet potatoes. They may feed on peels, but occasionally. Actually, raw sweet potatoes are great challenge to chewing as most beardies swallow food as a whole. However, these lizards will eat mashed or cooked sweet potatoes. You can also supplement your beardies main meal with sweet potatoes vines, which should be chopped well. But [bearded dragons can also eat carrots](https://pestpolicy.com/can
-- bearded
-- dragons
-- eat
-- carrots/).
+Normally, bearded dragons dont eat raw sweet potatoes. They may feed on peels, but occasionally. Actually, raw sweet potatoes are great challenge to chewing as most beardies swallow food as a whole. However, these lizards will eat mashed or cooked sweet potatoes. You can also supplement your beardies main meal with sweet potatoes vines, which should be chopped well. But [bearded dragons can also eat carrots](https://pestpolicy.com/can-bearded-dragons-eat-carrots/).
 
 The relative level of calcium to phosphorous ratio (1: 1. 56) make it inappropriate to use sweet potatoes as daily meal. Sweet potatoes vines have rich fiber networks that help in preventing constipation.
 
 ####  **c. Green beans and peas**
 
-Green beans and peas are ideal meal for your beardies as they contain high
-- energy content (131 kJ), vitamins A, C&K as well as calcium, magnesium and iron minerals. You can either feed your beardies with green pods or vines, which need to be chopped into small sizes first. The relative calcium to phosphorous ratio of these greens means that they can only be used occasionally (once or twice per week. ).
+Green beans and peas are ideal meal for your beardies as they contain high-energy content (131 kJ), vitamins A, C&K as well as calcium, magnesium and iron minerals. You can either feed your beardies with green pods or vines, which need to be chopped into small sizes first. The relative calcium to phosphorous ratio of these greens means that they can only be used occasionally (once or twice per week. ).
 
 Beans or peas pods and vines have rich fiber content, which will help prevent your bearded dragon from indigestion problems. You need to clean green peas and beans before feeding your pet bearded dragon so as to remove any toxic chemical or poisonous insects (fireflies).
 
@@ -111,8 +93,7 @@ Notably, corianders or Kales are acidic in nature thus will alter the pH of dige
 
 ####  **a. Crickets and Locusts**
 
-Crickets and locusts are staple insects to feed your bearded dragon. They have high level of proteins necessary for growth and development of your pet lizard. Crickets and locusts also contain a large quantity of iron needed to strengthen teeth and bones. When feeding your beardie, remove the legs to allow easier swallowing and slice large locust where possible. Baby beardies should only be fed with small locust/crickets (1
-- 10 days).
+Crickets and locusts are staple insects to feed your bearded dragon. They have high level of proteins necessary for growth and development of your pet lizard. Crickets and locusts also contain a large quantity of iron needed to strengthen teeth and bones. When feeding your beardie, remove the legs to allow easier swallowing and slice large locust where possible. Baby beardies should only be fed with small locust/crickets (1-10 days).
 
 ####  **b. Earthworm**
 
@@ -120,16 +101,13 @@ Earthworms are major source of calcium for your bearded dragon. They are also fa
 
 ####  **c. Silkworm**
 
-Silkworms have soft bodies that make its swallowing easier. They contain high protein and calcium level needed for growth and development. Bearded dragon (of any age) can be fed using silkworm as basic diet. Actually, you can use silkworms as main meal since they contain low
-- fat levels and are highly nutritious. Silkworms also contain minerals such as magnesium, iron, sodium as well as vitamin B1, B2 and B3 that help boost immunity.
+Silkworms have soft bodies that make its swallowing easier. They contain high protein and calcium level needed for growth and development. Bearded dragon (of any age) can be fed using silkworm as basic diet. Actually, you can use silkworms as main meal since they contain low-fat levels and are highly nutritious. Silkworms also contain minerals such as magnesium, iron, sodium as well as vitamin B1, B2 and B3 that help boost immunity.
 
 ####  **d. Mealworm**
 
-The tasty mealworms are known to be the most favorite of bearded dragons meals. They contain high fat level and thus should be used occasionally with other feeds such as fruits and vegetables. Mealworms should be fed, mostly, to beardies aged 5
-- 6 years. Though Mealworms contains proteins and calcium, the quantity is quite low as compared to silkworms and earthworms.
+The tasty mealworms are known to be the most favorite of bearded dragons meals. They contain high fat level and thus should be used occasionally with other feeds such as fruits and vegetables. Mealworms should be fed, mostly, to beardies aged 5-6 years. Though Mealworms contains proteins and calcium, the quantity is quite low as compared to silkworms and earthworms.
 
-**e. Waxworm** Just like mealworms and silkworms, waxworms are fatty meals that should be fed to your bearded dragon occasionally in order to avoid abnormal weight accumulation, which may make it inactive. Supplement 2
-- 12 waxworms with vegetables and fruits per week. Waxworms are best diet for fattening young beardies.
+**e. Waxworm** Just like mealworms and silkworms, waxworms are fatty meals that should be fed to your bearded dragon occasionally in order to avoid abnormal weight accumulation, which may make it inactive. Supplement 2-12 waxworms with vegetables and fruits per week. Waxworms are best diet for fattening young beardies.
 
 **f. Dubia roaches** Dubia roaches are the best insect meal for your bearded dragons as they contain 50% proteins (necessary for growth) and 61% moisture content.
 
@@ -151,70 +129,39 @@ Lighting insects** All insect that glow (produces light) such as fireflies shoul
 
 ###  1. Oranges
 
-[Oranges](https://pestpolicy.com/can
-- bearded
-- dragons
-- eat
-- oranges/)
+[Oranges](https://pestpolicy.com/can-bearded-dragons-eat-oranges/)
 
 ###  2. Onions
 
-[Onions? ](https://pestpolicy.com/can
-- bearded
-- dragons
-- eat
-- onions/)
+[Onions? ](https://pestpolicy.com/can-bearded-dragons-eat-onions/)
 
 ##  What do Baby Bearded Dragons eat?
 
-Baby Bearded Dragon will need a special care through proper feeding habit and health attention (use vet for regular medical check
-- up). It is important to feed your baby beardie with more insect (especial Dubia roaches) than vegetables. Insects contains high protein level, fat and minerals that is needed at the young stage for growth and development.
+Baby Bearded Dragon will need a special care through proper feeding habit and health attention (use vet for regular medical check-up). It is important to feed your baby beardie with more insect (especial Dubia roaches) than vegetables. Insects contains high protein level, fat and minerals that is needed at the young stage for growth and development.
 
 Fruits such as grapes, peeled bananas and berries should be supplemented with mealworms or silkworms to boost the breadies feeding habit.
 
-Though baby bearded dragon do eat vegetables, normally they climb on them when left in the cage. You will need to mix vegetables with some insects and monitor the feeding for 10
-- 15 minutes. Feed your baby beardie 1
-- 2 times more that you feed adult ones. A baby bearded dragon aged 4
-- 16 years should eat 40
-- 60 insects per day. At juvenile stage, supplement their main diet with calcium and multi
-- vitamins powder to boost their growth and immunity.
+Though baby bearded dragon do eat vegetables, normally they climb on them when left in the cage. You will need to mix vegetables with some insects and monitor the feeding for 10-15 minutes. Feed your baby beardie 1-2 times more that you feed adult ones. A baby bearded dragon aged 4-16 years should eat 40-60 insects per day. At juvenile stage, supplement their main diet with calcium and multi-vitamins powder to boost their growth and immunity.
 
 ##  How to Feed a Bearded Dragon
 
-When feeding breaded dragon, it is necessary to follow the following steps and instructions:
-- Never feed your bearded dragon with dead insects. Always introduced live insect in the cage and allow the beardie to hunt this create an exercise chance and boost its psychology.
-- All vegetable feeds should be washed thoroughly; freshly chopped and fed while wet water ease swallowing and reduces dehydration.
-- When feeding your bearded dragon, ensure that the chopped pieces are lesser than the space between its eyes.
-- Feed your bearded dragon for a given period (10
-- 20minutes) and then carry the leftovers. Most of these beardies never stop eating
-- they may end up being docile because of excess feeding.
-- Peel and chop all fruit meals that you feed your bearded dragon.
+When feeding breaded dragon, it is necessary to follow the following steps and instructions: - Never feed your bearded dragon with dead insects. Always introduced live insect in the cage and allow the beardie to hunt this create an exercise chance and boost its psychology. - All vegetable feeds should be washed thoroughly; freshly chopped and fed while wet water ease swallowing and reduces dehydration.
+
+- When feeding your bearded dragon, ensure that the chopped pieces are lesser than the space between its eyes. - Feed your bearded dragon for a given period (10-20minutes) and then carry the leftovers. Most of these beardies never stop eating - they may end up being docile because of excess feeding. - Peel and chop all fruit meals that you feed your bearded dragon.
+
 - It is necessary to mix vegetable/fruits with insects when feeding your bearded dragon to improve the nutrition level.
 
-Never feed your bearded dragon directly into its mouth (this may cause health complication or impaction). You should, therefore, place all the meals in a dish to allow self
-- feeding unless the beardie is sick and needs medical attention.
+Never feed your bearded dragon directly into its mouth (this may cause health complication or impaction). You should, therefore, place all the meals in a dish to allow self-feeding unless the beardie is sick and needs medical attention.
 
 ##  Conclusion
 
 Bearded dragon can eat either fruits (apple, grapes, berries), vegetables (cabbages, green beans, corianders) or animals such as crickets, roaches, silkworms and locust. Avoid feeding your beardies with avocados, rhubarbs, spinach, onions or fireflies as they negatively affect their health. Mix plant diet with animal feed to improve the nutritional value.
 
-You will also need to supplement meals with calcium and multi
-- vitamin powder to boost growth and immunity of your bearded dragon further.
+You will also need to supplement meals with calcium and multi-vitamin powder to boost growth and immunity of your bearded dragon further.
 
 Importantly, do not overfeed your dragon as they end up being docile.
 
 ##  Sources:
 
-1. [Your Weekly How To: How We Care For a Colony of Bearded Dragons](https://vetmed.illinois.edu/wel/your
-- weekly
-- how
-- to
-- how
-- we
-- care
-- for
-- a
-- colony
-- of
-- bearded
-- dragons/)
+1. [Your Weekly How To: How We Care For a Colony of Bearded Dragons](https://vetmed.illinois.edu/wel/your-weekly-how-to-how-we-care-for-a-colony-of-bearded-dragons/)
+

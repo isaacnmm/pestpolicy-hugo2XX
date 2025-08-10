@@ -1,18 +1,9 @@
-﻿
-- -
-- title: Can Bearded Dragons Eat Broccoli
+﻿---
+title: Can Bearded Dragons Eat Broccoli
 description: Can bearded dragons eat broccoli? Vegetables are part of the recommended diet for bearded dragons.Broccoli is a source of essential minerals and vitamins.
-slug: /can
-- bearded
-- dragons
-- eat
-- broccoli/
-date: 2025
-- 07
-- 10 00:00:00+00:00
-lastmod: 2025
-- 07
-- 10 00:00:00+03:00
+slug: /can-bearded-dragons-eat-broccoli/
+date: 2025-07-10 00:00:00+00:00
+lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
 - Guide
@@ -22,12 +13,9 @@ tags:
 - bearded
 - dragon
 layout: post
-- -
-- Can bearded dragons eat broccoli? Vegetables are part of the recommended diet for bearded dragons. Broccoli is a source of essential minerals and vitamins. However, not all vegetables are good for your bearded [dragon](https://cvm.ncsu.edu/documents/caring
-- for
-- your
-- bearded
-- dragon/).*So, can bearded dragons eat broccoli? A simple answer is YES. A little broccoli wont do harm to your beardie.
+---
+
+Can bearded dragons eat broccoli? Vegetables are part of the recommended diet for bearded dragons. Broccoli is a source of essential minerals and vitamins. However, not all vegetables are good for your bearded [dragon](https://cvm.ncsu.edu/documents/caring-for-your-bearded-dragon/).*So, can bearded dragons eat broccoli? A simple answer is YES. A little broccoli wont do harm to your beardie.
 
 However, you should only feed your beardie with small amounts of broccoli once in a while.
 
@@ -37,19 +25,11 @@ Thats because broccoli contains high contents of oxalic acid which may cause kid
 
 Broccoli provides a good source of calcium, protein, fibre and vitamins such as vitamin A, B1, C, E and K. But they also contain high levels of oxalic acid which makes it unsuitable for reptiles including bearded dragons.
 
-Although [bearded dragons can eat](https://pestpolicy.com/can
-- bearded
-- dragons
-- eat
-- mango/)broccoli, they should be given very little of it. The high levels of oxalic acid in broccoli isnt good for their kidney and bone health. Taking too much oxalic acid reduces the amount of calcium in their body. Oxalic acid reacts with calcium in the body of the reptile which leads to an imbalance in the calcium: phosphorous ratio.
+Although [bearded dragons can eat](https://pestpolicy.com/can-bearded-dragons-eat-mango/)broccoli, they should be given very little of it. The high levels of oxalic acid in broccoli isnt good for their kidney and bone health. Taking too much oxalic acid reduces the amount of calcium in their body. Oxalic acid reacts with calcium in the body of the reptile which leads to an imbalance in the calcium: phosphorous ratio.
 
 As a result, the body of the reptile utilizes the calcium from the bones which leads to bone degeneration. Inappropriate combination of calcium also affects the functioning of the kidney. It leads to bladder stones which in turn affect the kidney due fluid retention.
 
-Related: [Can Bearded Dragons Eat Cucumbers? 7 Secrets](https://pestpolicy.com/can
-- bearded
-- dragons
-- eat
-- cucumbers/)
+Related: [Can Bearded Dragons Eat Cucumbers? 7 Secrets](https://pestpolicy.com/can-bearded-dragons-eat-cucumbers/)
 
 ##  **Broccoli Ca:P Ratio: How it Affects Bearded Dragons**
 
@@ -67,16 +47,12 @@ As earlier said, you can give your bearded dragon small amounts of broccoli with
 
 Broccoli should be cut into very small pieces to allow easy chewing and prevent choking. 5.
 
-Give only the floret because its softer for the beardie to chew and digest. Avoid the leaves and stalk. 6. Do not give broccoli to baby beardie. Not only do they need less vegetable diet but its also hard for them to digest. 7. In case your bearded develops complications after eating broccoli stop the feeding immediately. If possible consult your veterinarian. Related: [Can Bearded Dragons Eat Apples? ](https://pestpolicy.com/can
-- bearded
-- dragons
-- eat
-- apples/)
+Give only the floret because its softer for the beardie to chew and digest. Avoid the leaves and stalk. 6. Do not give broccoli to baby beardie. Not only do they need less vegetable diet but its also hard for them to digest. 7. In case your bearded develops complications after eating broccoli stop the feeding immediately. If possible consult your veterinarian. Related: [Can Bearded Dragons Eat Apples? ](https://pestpolicy.com/can-bearded-dragons-eat-apples/)
 
 ##  **How to Prepare Broccoli for Bearded Dragon**
-- Wash fresh broccoli with running water or in a bowl of clean water. Rub it with your fingers to remove dirt and any lodged insects. Wipe the broccoli with a tea towel to dry.
-- Use a sharp knife to cut off the leaves from the stalk. Now part off the florets by cutting them out from the stalk.
-- For each of the floret, remove the stem so that youre only left with the flowering part.
+
+- Wash fresh broccoli with running water or in a bowl of clean water. Rub it with your fingers to remove dirt and any lodged insects. Wipe the broccoli with a tea towel to dry. - Use a sharp knife to cut off the leaves from the stalk. Now part off the florets by cutting them out from the stalk. - For each of the floret, remove the stem so that youre only left with the flowering part.
+
 - Finally cut the large florets into small pieces to make it easy for your bearded dragon to chew.
 
 ##  **Conclusion**
@@ -88,3 +64,4 @@ Although bearded dragons eat broccoli, they should be given very small amounts o
 ##  Sources:
 
 1. Tosney's Bearded Dragon Care
+

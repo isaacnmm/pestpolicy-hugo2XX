@@ -1,16 +1,9 @@
-﻿
-- -
-- title: Can Lizards Swim
+﻿---
+title: Can Lizards Swim
 description: Could be you have come across lizards in a pond, river, sea, ocean, or stagnant water at your home and wonder how they move about.
-slug: /can
-- lizards
-- swim/
-date: 2025
-- 07
-- 10 00:00:00+00:00
-lastmod: 2025
-- 07
-- 10 00:00:00+03:00
+slug: /can-lizards-swim/
+date: 2025-07-10 00:00:00+00:00
+lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
 - Guide
@@ -19,8 +12,9 @@ tags:
 - guide
 - swim
 layout: post
-- -
-- Could be you have come across lizards in a pond, river, sea, ocean, or stagnant water at your home and wonder how they move about. How do they cross water bodies? So, * can lizard Swim? * **The direct answer is, YES! Lizards can swim in water bodies including rivers, seas, oceans, or pods. These reptiles use their tail to propel themselves forward when swimming plus use front limbs for vertical movement.
+---
+
+Could be you have come across lizards in a pond, river, sea, ocean, or stagnant water at your home and wonder how they move about. How do they cross water bodies? So, * can lizard Swim? * **The direct answer is, YES! Lizards can swim in water bodies including rivers, seas, oceans, or pods. These reptiles use their tail to propel themselves forward when swimming plus use front limbs for vertical movement.
 
 ** **Some lizards like Gecko can even walk on water.
 
@@ -46,10 +40,7 @@ The Lizard is able to move vertically upward while using the font legs/limbs, wh
 
 The Iguana, Bearded dragon, Komodo dragon and Asian water monitor lizards are known to swim deep in the sea or ocean waters in search of food. Once the lizard gets its tail detached, it may not be possible to swim well and may get drowned in most cases.
 
-Related: [Do Lizards Have Bones? ](https://pestpolicy.com/do
-- lizards
-- have
-- bones/)
+Related: [Do Lizards Have Bones? ](https://pestpolicy.com/do-lizards-have-bones/)
 
 ###  2. Distance that Lizard can swim.
 
@@ -75,15 +66,11 @@ Lizards that prefer to walk on water (gecko) are easily swept away by the water 
 
 ##  4. Adaptation of Lizards to swimming.
 
-The following are adaptation of lizards to swimming. Lizards have web skin between their toes, which help them to float easily while swimming. 1. The belly of lizard is flat and wide this makes it float easily on water and thus increasing buoyancy while swimming. 2. Lizards have long tail, which help in forward propulsion. 3. The front limbs of lizards have wide and flat
-- bottomed toes, which help navigation. 4.
+The following are adaptation of lizards to swimming. Lizards have web skin between their toes, which help them to float easily while swimming. 1. The belly of lizard is flat and wide this makes it float easily on water and thus increasing buoyancy while swimming. 2. Lizards have long tail, which help in forward propulsion. 3. The front limbs of lizards have wide and flat-bottomed toes, which help navigation. 4.
 
 The dorsal/back of the lizards protrude upwards slightly from the head to tail.
 
-This prevent lizards from rolling due to water current acts as side breaks. 5. The lower part of the mouth of the lizards is large and act as reservoir for air when they are under the water. Related: [Do Lizards Have Teeth? ](https://pestpolicy.com/do
-- lizards
-- have
-- teeth/)
+This prevent lizards from rolling due to water current acts as side breaks. 5. The lower part of the mouth of the lizards is large and act as reservoir for air when they are under the water. Related: [Do Lizards Have Teeth? ](https://pestpolicy.com/do-lizards-have-teeth/)
 
 ##  Can Baby Lizard Swim?
 
@@ -99,8 +86,7 @@ Most of baby lizards that swim under water usually get drowned. In case you want
 
 You can make it step on a mesh table, which can allow water to pass and then tag it along as the baby lizard swim. This will make it easier to rescue your baby lizard pet in case it tend to drown.
 
-You can also train your baby lizard to swim by holding it at chest region over the water and releasing it intermittently to make it swim. You can do so this at home using the basin water or the slow
-- running stream.
+You can also train your baby lizard to swim by holding it at chest region over the water and releasing it intermittently to make it swim. You can do so this at home using the basin water or the slow-running stream.
 
 ##  **How Long Can Lizard Hold Breathe Under Water?**
 
@@ -118,9 +104,7 @@ Large lizards such as Tree crocodile Monitor can swim for 30 to 60 minutes conti
 
 Lizards are able to swim longer while on the water surface than when under water since they can shoot their head often to blow and take more air.
 
-Related: [Are Lizards Poisonous? ](https://pestpolicy.com/are
-- lizards
-- poisonous/)
+Related: [Are Lizards Poisonous? ](https://pestpolicy.com/are-lizards-poisonous/)
 
 ##  **Can Lizards Walk On Water?**
 
@@ -134,27 +118,11 @@ At times, small lizards would run over the water. Gecko lizards are experts when
 
 Lizards can swim. They use their tail to propel them forward while on the surface or in deep water.
 
-The partially webbed toes of the lizards help them in flapping and navigation while their flat
-- bottomed berry help in maintaining high buoyance of the lizard when swimming.
+The partially webbed toes of the lizards help them in flapping and navigation while their flat-bottomed berry help in maintaining high buoyance of the lizard when swimming.
 
 Some lizards such as gecko can walk and run on water. Baby lizards can swim though they may not be as excellent as the adult ones.
 
 ##  Sources:
 
-1. [Scuba
-- diving lizard can stay underwater for at least 16 minutes](https://www.newscientist.com/article/2189067
-- scuba
-- diving
-- lizard
-- can
-- stay
-- underwater
-- for
-- at
-- least
-- 16
-- minutes/)2. [Lizard Swims Like Snake Through Sand Live Science](https://www.livescience.com/5577
-- lizard
-- swims
-- snake
-- sand.html)
+1. [Scuba-diving lizard can stay underwater for at least 16 minutes](https://www.newscientist.com/article/2189067-scuba-diving-lizard-can-stay-underwater-for-at-least-16-minutes/)2. [Lizard Swims Like Snake Through Sand Live Science](https://www.livescience.com/5577-lizard-swims-snake-sand.html)
+

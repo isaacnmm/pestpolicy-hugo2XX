@@ -1,21 +1,9 @@
-﻿
-- -
-- title: How Many Box Jumps Should I Do
-description: How Many Box Jumps Should I Do? well, It depends on your strength and goals.
-- Thus, for cardio endurance, you can do 4 sets of 20 reps with 60 seconds of...
-slug: /how
-- many
-- box
-- jumps
-- should
-- i
-- do/
-date: 2025
-- 07
-- 10 00:00:00+00:00
-lastmod: 2025
-- 07
-- 10 00:00:00+03:00
+﻿---
+title: How Many Box Jumps Should I Do
+description: How Many Box Jumps Should I Do? well, It depends on your strength and goals. - Thus, for cardio endurance, you can do 4 sets of 20 reps with 60 seconds of...
+slug: /how-many-box-jumps-should-i-do/
+date: 2025-07-10 00:00:00+00:00
+lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
 - Guide
@@ -24,19 +12,9 @@ tags:
 - box
 - jump
 layout: post
-- -
-- How Many [Box](https://pestpolicy.com/best
-- shoes
-- for
-- box
-- jumps/)Jumps Should I Do? well, It depends on your strength and goals.
-- Thus, for cardio endurance, you can do 4 sets of 20 reps with 60 seconds of rest in between.
-- Conversely, you can do 5 sets of 5 reps for power and strength using a higher box [jump](https://pestpolicy.com/why
-- do
-- crickets
-- jump
-- towards
-- you/).
+---
+
+How Many [Box](https://pestpolicy.com/best-shoes-for-box-jumps/)Jumps Should I Do? well, It depends on your strength and goals. - Thus, for cardio endurance, you can do 4 sets of 20 reps with 60 seconds of rest in between. - Conversely, you can do 5 sets of 5 reps for power and strength using a higher box [jump](https://pestpolicy.com/why-do-crickets-jump-towards-you/).
 
 If youre new to box jumping or just want to increase or enhance the level of your jumps, you might wonder how many boxes jumps you need to do to attain the best results.
 
@@ -46,11 +24,7 @@ Well, I will answer this question in two dimensions. First, if youre doing Box J
 
 Secondly, if your intention is to build power and overall body strength, youll need to focus on quality over quantity. Do at least 5 sets of 5 reps using a higher box. Rest for 1to 3 minutes. If you feel strong enough push it a little further, but dont overdo it.
 
-Related: [Best Shoes for Box Jumps](https://pestpolicy.com/best
-- shoes
-- for
-- box
-- jumps/)
+Related: [Best Shoes for Box Jumps](https://pestpolicy.com/best-shoes-for-box-jumps/)
 
 ##  What You Need To Know About Box Jumps
 
@@ -84,32 +58,23 @@ Also Read: Best Shoes for Plyometrics
 
 ###  3. Start with a Low height Box
 
-Patience is key when it comes to learning or even progressing in your box jumps techniques. Therefore, you can start with a low
-- height box before progressing to higher heights. 12
-- to 24
-- inches will do for a beginner. Dont be embarrassed to start low we all have to start somewhere.
+Patience is key when it comes to learning or even progressing in your box jumps techniques. Therefore, you can start with a low-height box before progressing to higher heights. 12- to 24-inches will do for a beginner. Dont be embarrassed to start low we all have to start somewhere.
 
 Ensure that you adopt a good jumping form and technique. Well talk about the best jumping form and technique later on in this article.
 
 ##  How Often Should Athletes Do Jump Training
 
-**2
-- 3 box jumps per week** If youre wondering how often athletes should do jump training, then this section is for you.
+**2-3 box jumps per week** If youre wondering how often athletes should do jump training, then this section is for you.
 
-As an athlete, youll need to do 2
-- 3 box jumps training per week. This is crucial because youll give your body and the nervous system enough time to recover.
+As an athlete, youll need to do 2-3 box jumps training per week. This is crucial because youll give your body and the nervous system enough time to recover.
 
 Overdoing the box jumps may cause joint stress plus other serious injuries to your body. Dont tax your body a lot.
 
-Besides, a [study](https://books.google.com/books?id=9r5jDwAAQBAJ&pg=PA56&lpg=PA56&dq=Low+and+Moderate+Plyometric+Training+Frequency+Produces+Greater+Jumping+and+Sprinting+Gains+Compared+with+High+Frequency&source=bl&ots=j44tx
-- 46F5&sig=ACfU3U2pWJKQ9Sf88goO8JV6kLfi_GYrYw&hl=en&sa=X&ved=2ahUKEwjLrOn1luzwAhUWH80KHfsQCHkQ6AEwEXoECBYQAw#v=onepage&q=Low%20and%20Moderate%20Plyometric%20Training%20Frequency%20Produces%20Greater%20Jumping%20and%20Sprinting%20Gains%20Compared%20with%20High%20Frequency&f=false) comparing between low
-- moderate
-- and high
-- levels jump has revealed that overdoing the jumps may not bring in the desired results.
+Besides, a [study](https://books.google.com/books?
 
-This study advocates doing better jumps and at a Moderate
-- frequency i. e. 2
-- 3 jumps per week. You dont need to perform higher frequency jumps per week to attain positive results. If you do this, youll cause unnecessary stress to your joints and the body wont have enough recovery time.
+id=9r5jDwAAQBAJ&pg=PA56&lpg=PA56&dq=Low+and+Moderate+Plyometric+Training+Frequency+Produces+Greater+Jumping+and+Sprinting+Gains+Compared+with+High+Frequency&source=bl&ots=j44tx-46F5&sig=ACfU3U2pWJKQ9Sf88goO8JV6kLfi_GYrYw&hl=en&sa=X&ved=2ahUKEwjLrOn1luzwAhUWH80KHfsQCHkQ6AEwEXoECBYQAw#v=onepage&q=Low%20and%20Moderate%20Plyometric%20Training%20Frequency%20Produces%20Greater%20Jumping%20and%20Sprinting%20Gains%20Compared%20with%20High%20Frequency&f=false) comparing between low- moderate- and high- levels jump has revealed that overdoing the jumps may not bring in the desired results.
+
+This study advocates doing better jumps and at a Moderate-frequency i. e. 2-3 jumps per week. You dont need to perform higher frequency jumps per week to attain positive results. If you do this, youll cause unnecessary stress to your joints and the body wont have enough recovery time.
 
 ##  How manysets and reps ofbox jumps should I do?
 
@@ -139,26 +104,17 @@ While doing box jumps avoid dropping into deep squat positions. Deep squatting m
 
 ###  3. Start With a Low Box Height
 
-Start with a low
-- height box before advancing to the higher ones. Master the art of effective jumping first to avoid getting injuries.
+Start with a low-height box before advancing to the higher ones. Master the art of effective jumping first to avoid getting injuries.
 
-Dont feel intimidated when you see others exercising on a 50
-- inch box or a height higher than the one youre currently using. Everyone has his or her own fitness journey, as you must start somewhere.
+Dont feel intimidated when you see others exercising on a 50-inch box or a height higher than the one youre currently using. Everyone has his or her own fitness journey, as you must start somewhere.
 
 ###  **4. Best box jump height for beginners**
 
 6 inches box height is ideal for a beginner box jumper. If you feel strong you can go a bit higher and start at 12 inches.
 
-Athletes who are new to box jumping need to use low
-- height boxes for their exercise. As you master the art of box jumping, you can progress with the height. Avoid progressing to a higher box if you still can't attain a set of 5 good jumps on the low box youre using.
+Athletes who are new to box jumping need to use low-height boxes for their exercise. As you master the art of box jumping, you can progress with the height. Avoid progressing to a higher box if you still can't attain a set of 5 good jumps on the low box youre using.
 
 ##  Box jump alternative
 
-The best alternative to box jumps include
-- Jump Squat
-- Step
-- Ups
-- Squat Push
-- Press
-- Hex Bar Deadlift Also known as trap bar deadlifts
-- Barbell Squat
+The best alternative to box jumps include - Jump Squat - Step-Ups - Squat Push-Press - Hex Bar Deadlift Also known as trap bar deadlifts - Barbell Squat
+

@@ -1,20 +1,9 @@
-﻿
-- -
-- title: How to Get Rid Of Ground Bees
+﻿---
+title: How to Get Rid Of Ground Bees
 description: Have you noticed some conical dirt piles, but similar to anthills, with large openings in your yard? You could be having ground bees in your lawn!
-slug: /how
-- to
-- get
-- rid
-- of
-- ground
-- bees/
-date: 2025
-- 07
-- 10 00:00:00+00:00
-lastmod: 2025
-- 07
-- 10 00:00:00+03:00
+slug: /how-to-get-rid-of-ground-bees/
+date: 2025-07-10 00:00:00+00:00
+lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
 - Bees
@@ -24,30 +13,13 @@ tags:
 - rid
 - ground
 layout: post
-- -
-- Have you noticed some conical dirt piles, but similar to anthills, with large openings in your yard? You could be having ground [bees](https://pestpolicy.com/get
-- rid
-- sweat
-- bees/)in your lawn! To be sure, watch any bees or insects flying into or out of the burrowed ground.
-- [Ground bees](https://entomology.cals.cornell.edu/extension/wild
-- pollinators/native
-- bees
-- your
-- backyard)dig mainly in bare areas of the garden or lawn, particularly in early spring.
+---
 
-Therefore, maybe you should consider how to get [rid](https://pestpolicy.com/how
-- to
-- get
-- rid
-- of
-- carpenter
-- bees
-- without
-- killing
-- them/)of ground beesthat are in your yard? Related: [Easily Get Rid of Sweat Bees](https://pestpolicy.com/get
-- rid
-- sweat
-- bees/).**Wait: ** Bee stings are feared because they are lethal, and they cause pain. But, do ground bees pose a danger to you, your family, or your pets?
+Have you noticed some conical dirt piles, but similar to anthills, with large openings in your yard? You could be having ground [bees](https://pestpolicy.com/get-rid-sweat-bees/)in your lawn! To be sure, watch any bees or insects flying into or out of the burrowed ground. - [Ground bees](https://entomology.cals.cornell.
+
+edu/extension/wild-pollinators/native-bees-your-backyard)dig mainly in bare areas of the garden or lawn, particularly in early spring.
+
+Therefore, maybe you should consider how to get [rid](https://pestpolicy.com/how-to-get-rid-of-carpenter-bees-without-killing-them/)of ground beesthat are in your yard? Related: [Easily Get Rid of Sweat Bees](https://pestpolicy.com/get-rid-sweat-bees/).**Wait: ** Bee stings are feared because they are lethal, and they cause pain. But, do ground bees pose a danger to you, your family, or your pets?
 
 ##  Details: How to Get Rid of Ground Bees
 
@@ -81,7 +53,7 @@ Ground bees have colors ranging from purple, red, blue, yellow, and black. They 
 
 ##  Are Ground Bees Dangerous?
 
-Male ground bees like Carpenter Bees do not have a sting! Mainly, the male ground bees are the ones that fly over the bee nest. However, male ground bees are very aggressive but will not sting. On the contrary, female ground bees are not aggressive but can sting. Therefore, ensure that you will irritate them to cause them to initiate self
-- defense. Therefore, ground bees will only sting if they are aiming to defend themselves and their colony.
+Male ground bees like Carpenter Bees do not have a sting! Mainly, the male ground bees are the ones that fly over the bee nest. However, male ground bees are very aggressive but will not sting. On the contrary, female ground bees are not aggressive but can sting. Therefore, ensure that you will irritate them to cause them to initiate self-defense. Therefore, ground bees will only sting if they are aiming to defend themselves and their colony.
 
 However, ground bee nests are as dangerous due to the chemicals that come with the bee sting.
+

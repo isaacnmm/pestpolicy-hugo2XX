@@ -1,21 +1,9 @@
-﻿
-- -
-- title: Harris Boric Acid Roach Powder With Lure Review
+﻿---
+title: Harris Boric Acid Roach Powder With Lure Review
 description: In this post, I've reviewed Harris Boric Acid powder as an effective roach killer. Harris Boric Acid is a historic roach control method, at least the...
-slug: /harris
-- boric
-- acid
-- roach
-- powder
-- with
-- lure
-- review/
-date: 2025
-- 07
-- 10 00:00:00+00:00
-lastmod: 2025
-- 07
-- 10 00:00:00+03:00
+slug: /harris-boric-acid-roach-powder-with-lure-review/
+date: 2025-07-10 00:00:00+00:00
+lastmod: 2025-07-10 00:00:00+03:00
 author: Isaac
 categories:
 - Cockroaches
@@ -25,29 +13,19 @@ tags:
 - harri
 - boric
 layout: post
-- -
-- In this post, I've reviewed Harris Boric Acid powder as an effective roach killer. Harris Boric Acid is a historic roach control method, at least the composition's chemical side. In addition to killing roaches, the boric acid powder will also exterminate other bugs such as silverfish, palmetto bugs, and water bugs. Boric Acid is highly effective in killing roaches yet also budget
-- friendly and thus topping the best roach killers available today.
+---
+
+In this post, I've reviewed Harris Boric Acid powder as an effective roach killer. Harris Boric Acid is a historic roach control method, at least the composition's chemical side. In addition to killing roaches, the boric acid powder will also exterminate other bugs such as silverfish, palmetto bugs, and water bugs. Boric Acid is highly effective in killing roaches yet also budget-friendly and thus topping the best roach killers available today.
 
 ##  Special lure/ Attractant
 
-Harris [boric acid contains a unique lure thatll attract the roaches](https://pestpolicy.com/does
-- boric
-- acid
-- kill
-- roaches/)to the poison and trick it into feeding o its death. Further, the [cockroaches](https://pestpolicy.com/does
-- boric
-- acid
-- kill
-- roaches/)tend to carry the boric acid back to their nests, causing the secondary kill effect on the whole roach colony.
+Harris [boric acid contains a unique lure thatll attract the roaches](https://pestpolicy.com/does-boric-acid-kill-roaches/)to the poison and trick it into feeding o its death. Further, the [cockroaches](https://pestpolicy.com/does-boric-acid-kill-roaches/)tend to carry the boric acid back to their nests, causing the secondary kill effect on the whole roach colony.
 
-The included straw has a tube
-- like design thatll allow the homeowner to place the roach killing powders to the deepest of the cracks and crevices. But, being a chemical, boric acid must not be ingested by humans, pets, and livestock as it can be poisonous to them.
+The included straw has a tube-like design thatll allow the homeowner to place the roach killing powders to the deepest of the cracks and crevices. But, being a chemical, boric acid must not be ingested by humans, pets, and livestock as it can be poisonous to them.
 
 ##  **Condensed milk mixture**
 
-It would help if you mixed the boric acid roach killer with condensed milk, creating a thick paste thats highly attractive to top efficiency roaches. This will help confuse some roaches and bugs that will readily avoid eating some roach baits with a specific smell, color, or shape. This roach powder offers high
-- efficiency rates where you can see dead roaches two days after being applied in the right locations.
+It would help if you mixed the boric acid roach killer with condensed milk, creating a thick paste thats highly attractive to top efficiency roaches. This will help confuse some roaches and bugs that will readily avoid eating some roach baits with a specific smell, color, or shape. This roach powder offers high-efficiency rates where you can see dead roaches two days after being applied in the right locations.
 
 ##  Harris Boric Acid works
 
@@ -57,16 +35,11 @@ Youll need to treat the areas that are difficult to reach, such as under the sof
 
 ##  Is Boric Acid roach killer Safe for Humans & Pets?
 
-Despite that this roach killer is highly toxic to roaches and other insects such as fleas and bed bugs, the products have low
-- toxicity levels that would not poison humans and pets (either cats or dogs). Therefore, [roach acid will be safe around pets](https://pestpolicy.com/pet
-- safe
-- roach
-- killer/)and humans if it's in low dosages. Further, boric acid causes no carcinogenic impacts on the roaches.
+Despite that this roach killer is highly toxic to roaches and other insects such as fleas and bed bugs, the products have low-toxicity levels that would not poison humans and pets (either cats or dogs). Therefore, [roach acid will be safe around pets](https://pestpolicy.com/pet-safe-roach-killer/)and humans if it's in low dosages. Further, boric acid causes no carcinogenic impacts on the roaches.
 
 However, the boric acid powder must not be used near breastfeeding or nursing women.
 
-Ingesting high amounts of the roach acid powders can cause a coma, seizures, tremors, skin rashes, and diarrhea
-- and thus, care is paramount. Further, the roach killing powder may trigger a burning or irritating feeling on your skin and eyes. Therefore, when making the boric acid application, you'll need to wear protective goggles and gloves to safeguard and block your eyes, mouth, and nose.
+Ingesting high amounts of the roach acid powders can cause a coma, seizures, tremors, skin rashes, and diarrhea - and thus, care is paramount. Further, the roach killing powder may trigger a burning or irritating feeling on your skin and eyes. Therefore, when making the boric acid application, you'll need to wear protective goggles and gloves to safeguard and block your eyes, mouth, and nose.
 
 However, exposure to low levels of boric acid may cause hives, rashes, burning sensation on your nasal passages, and dry throat.
 
@@ -78,5 +51,5 @@ However, you must follow the product label instructions before using this boric 
 
 ##  **Sources:**
 
-1. [Boric Acid NPIC](http://npic.orst.edu/factsheets/boricgen.html#cancer).2. [Boric Acid Pesticide
-- Roach Control](https://entomology.ca.uky.edu/ef614).
+1. [Boric Acid NPIC](http://npic.orst.edu/factsheets/boricgen.html#cancer).2. [Boric Acid Pesticide - Roach Control](https://entomology.ca.uky.edu/ef614).
+
