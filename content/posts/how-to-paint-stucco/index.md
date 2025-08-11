@@ -10,9 +10,8 @@ categories:
 - DIY Paintings
 - Paint
 tags:
-- diy-paintings
+- diy paintings
 - stucco
--the
 layout: post
 ---
 Owning a [Stucco](https://pestpolicy.com/best-paints-for-stucco/)home will not only make you stand out among others but also boost your self-esteem. However, painting Stucco [with Acrylic latex](https://pestpolicy.com/how-to-thin-acrylic-paint/)(great color retention and gloss ) could be very cumbersome especially when the wrong paint is selected and improper procedure followed.
