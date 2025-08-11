@@ -3,8 +3,8 @@ title: test-post1
 description: Having a new bedroom outlook is paramount in boosting your psychological
   comfort and enhancing the interior . Perhaps you have decided to consider 3D wall...
 slug: /test-post1/
-date: '2025-08-10 00:00:00+00:00'
-lastmod: '2025-08-10 00:00:00+00:00'
+date: '2025-08-11 00:00:00+00:00'
+lastmod: '2025-08-11 00:00:00+00:00'
 author: Isaac
 categories:
 - DIY Paintings
