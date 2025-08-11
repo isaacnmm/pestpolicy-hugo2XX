@@ -3,8 +3,8 @@ title: How to Level Yard
 description: An uneven yard, characterized by dips, bumps, and improper slopes, is
   more than just an aesthetic annoyance. It can lead to a host of problems, from...
 slug: /how-to-level-yard/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Landscaping

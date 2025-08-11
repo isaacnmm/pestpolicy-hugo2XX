@@ -3,8 +3,8 @@ title: Best Camera for Beginner Filmmaker
 description: Are you tired of smartphone photography or filming? Then you should invest
   in an entry-level camera that gives you high-quality footage. It enhances your...
 slug: /best-camera-for-beginner-filmmaker/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Cameras

@@ -4,8 +4,8 @@ description: If you're tired of fleas in your yard, this blog post is for you. W
   discuss how to treat fleas in the yard. Fleas in your yard can be a nuisance, as
   they...
 slug: /how-to-treat-fleas-in-the-yard/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Fleas

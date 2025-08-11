@@ -3,8 +3,8 @@ title: Best Daw for Mac
 description: Digital Audio Workstations DAWs are essential tools for music production,
   and Mac users are fortunate to have access to some of the best options on the market.
 slug: /best-daw-for-mac/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Guide

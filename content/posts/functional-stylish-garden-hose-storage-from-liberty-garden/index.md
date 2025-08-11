@@ -3,8 +3,8 @@ title: Functional Stylish Garden Hose Storage from Liberty Garden
 description: A garden hose is an indispensable tool for any outdoor enthusiast, from
   watering vibrant flowerbeds to washing the car or cleaning the patio.
 slug: /functional-stylish-garden-hose-storage-from-liberty-garden/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Garden

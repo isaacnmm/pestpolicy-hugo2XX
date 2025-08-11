@@ -2,8 +2,8 @@
 title: What Can I Wash My Cat With
 description: You're ready to give your fluffy, adorable cat a bath
 slug: /what-can-i-wash-my-cat-with/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Fleas
@@ -12,7 +12,6 @@ tags:
 - fleas
 - cat
 layout: post
-
 ---
 You're ready to give your fluffy, adorable cat a bath - [or it has [fleas](https://pestpolicy.com/cat-fleas-vs-dog-fleas/)](https://pestpolicy.com/how-to-tell-if-your-[cat](https://pestpolicy.com/how-to-tell-if-your-cat-has-fleas/)-has-fleas/).You're considering using shampoo, maybe dish soap, or probably laundry detergent?
 

@@ -3,8 +3,8 @@ title: What Do Dust Mites Look Like
 description: Homeowners confuse dust mites and bed bugshttpspestpolicy.combed-bugs-vs-mites
   . If you suspect you are having mites infestation and cant tell what exactly...
 slug: /what-do-dust-mites-look-like/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Guide

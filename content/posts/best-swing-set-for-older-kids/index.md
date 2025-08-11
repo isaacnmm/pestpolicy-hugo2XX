@@ -3,8 +3,8 @@ title: Best Swing Set for Older Kids
 description: Its a dream for every parent or guardian to see their children happy
   at all times. The best Swing set for older kids will guarantee your children happiness...
 slug: /best-swing-set-for-older-kids/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Swing Sets

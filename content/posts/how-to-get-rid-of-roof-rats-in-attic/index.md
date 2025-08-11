@@ -4,8 +4,8 @@ description: Have you recently discovered some activity in your attic and are af
   that it could be roof rats or black rats ? While it can be a worrying thought, it
   is...
 slug: /how-to-get-rid-of-roof-rats-in-attic/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Guide

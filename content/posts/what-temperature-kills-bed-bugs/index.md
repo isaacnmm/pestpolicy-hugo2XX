@@ -4,8 +4,8 @@ description: Bed bugs are notorious for being resilient pests that can infest yo
   home without you even noticing. One of the most effective ways to eliminate them
   is by...
 slug: /what-temperature-kills-bed-bugs/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Guide

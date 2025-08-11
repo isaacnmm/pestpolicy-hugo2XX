@@ -3,8 +3,8 @@ title: Best Riding Lawn Mower With Bagger
 description: A riding lawn mower with a bagger is a game-changer for anyone who wants
   to keep their lawn tidy and well-maintained without breaking a sweat.
 slug: /best-riding-lawn-mower-with-bagger/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Guide

@@ -3,8 +3,8 @@ title: Fence Painting Ideas
 description: When it comes to enhancing the look of your yard or garden, painting
   your fence is one of the easiest and most affordable ways to do so.
 slug: /fence-painting-ideas/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Guide

@@ -3,8 +3,8 @@ title: How to Paint a Wall With a Brush
 description: Owning a classic painted wall is crucial in improving the aesthetic finish
   outlook of interior painting or exterior wall.
 slug: /how-to-paint-a-wall-with-a-brush/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - DIY Paintings

@@ -3,8 +3,8 @@ title: Best Soccer Mom Chair
 description: Your presence at the pitch will inspire your kids to perform better in
   their soccer matches. Theyll love to see you cheering them on as they play.
 slug: /best-soccer-mom-chair/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Swing Sets

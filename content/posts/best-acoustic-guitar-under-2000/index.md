@@ -3,8 +3,8 @@ title: Best Acoustic Guitar Under 2000
 description: You're here since you're looking for a great acoustic guitar. So, relax,
   you're right on time for my review best acoustic guitar under 2000 and suitable...
 slug: /best-acoustic-guitar-under-2000/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Acoustic Guitars

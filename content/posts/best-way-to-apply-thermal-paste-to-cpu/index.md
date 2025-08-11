@@ -1,9 +1,10 @@
 ---
 title: Best Way to Apply Thermal Paste to Cpu
-description: The right choice of thermal paste is critical for optimal CPU temperatures. But, the thermal paste application leads to different outcomes, which could...
+description: The right choice of thermal paste is critical for optimal CPU temperatures.
+  But, the thermal paste application leads to different outcomes, which could...
 slug: /best-way-to-apply-thermal-paste-to-cpu/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Raspberry Pi 3

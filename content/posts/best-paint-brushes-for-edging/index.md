@@ -4,8 +4,8 @@ description: As a painter, you must have experienced some of the common challeng
   associated with painting edges. Did you know that such problems usually arise because
   of...
 slug: /best-paint-brushes-for-edging/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Paint

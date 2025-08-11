@@ -3,8 +3,8 @@ title: Best Driveway Alarms
 description: With the advancement in technology, people are finding innovative ways
   to secure their homes and property efficiently, probably using the Best Driveway...
 slug: /best-driveway-alarms/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Defense

@@ -3,8 +3,8 @@ title: What Kind Of Paint Can Be Used on Concrete
 description: Painting concrete surfaces can be a great way to enhance their appearance
   and increase their longevity. However, not all paints are suitable for concrete.
 slug: /what-kind-of-paint-can-be-used-on-concrete/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Guide

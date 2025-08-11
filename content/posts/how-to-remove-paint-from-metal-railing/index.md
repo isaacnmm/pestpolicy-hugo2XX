@@ -3,8 +3,8 @@ title: How to Remove Paint from Metal Railing
 description: Home improvement project requires special attention if you have to attain
   the quality result. Paint restoration from the metal surfaces may be cumbersome,...
 slug: /how-to-remove-paint-from-metal-railing/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - DIY Paintings

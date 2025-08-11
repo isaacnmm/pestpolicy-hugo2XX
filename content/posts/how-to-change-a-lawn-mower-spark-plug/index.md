@@ -3,8 +3,8 @@ title: How to Change a Lawn Mower Spark Plug
 description: For many homeowners, the annual ritual of getting the lawn mower ready
   for spring can be fraught with uncertainty. Will it start? Will it run smoothly?
 slug: /how-to-change-a-lawn-mower-spark-plug/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Lawn Mower Maintenance

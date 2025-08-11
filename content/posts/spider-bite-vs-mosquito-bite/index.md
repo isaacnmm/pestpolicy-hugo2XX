@@ -4,8 +4,8 @@ description: If you're trying to figure out what bug bit you and the confusion i
   the spider bite vs mosquito bite, then I'll help you differentiate between the two.
   -...
 slug: /spider-bite-vs-mosquito-bite/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Guide

@@ -4,8 +4,8 @@ description: Bathroom remodels are among the most popular home renovation projec
   offering a significant return on investment and a dramatic improvement in daily
   living.
 slug: /wet-area-remodeling-vs-full-bathroom-remodeling/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Home Improvement

@@ -1,14 +1,15 @@
 ---
 title: Roku Smart Soundbar Review
-description: This is a Roku Smart Soundbar Review a device that I'll note from the offset is a great streamer or soundbar that allows additional surround speakers
+description: This is a Roku Smart Soundbar Review a device that I'll note from the
+  offset is a great streamer or soundbar that allows additional surround speakers
 slug: /roku-smart-soundbar-review/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Soundbars
 tags:
--
+- null
 - soundbars
 layout: post
 ---

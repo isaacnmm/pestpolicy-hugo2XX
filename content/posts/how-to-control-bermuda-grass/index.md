@@ -4,8 +4,8 @@ description: Bermuda grass Cynodon dactylon is a plant of paradoxes. In warm cli
   it's widely celebrated as a durable, beautiful, and resilient turfgrass, forming
   the...
 slug: /how-to-control-bermuda-grass/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Lawn Care

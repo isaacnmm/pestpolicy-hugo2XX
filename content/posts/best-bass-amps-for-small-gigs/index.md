@@ -4,8 +4,8 @@ description: Focusing on the best bass amps for small gigs would be a brilliant 
   towards improving your daily entertainment activities. Typically, you need to have
   an...
 slug: /best-bass-amps-for-small-gigs/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Mics

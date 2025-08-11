@@ -3,8 +3,8 @@ title: What Does Lizard Poop Look Like
 description: What does lizard poop look like?Reptiles such as salamanders lizards
   and geckos love to hang around the house. You will find their poop on any surface...
 slug: /what-does-lizard-poop-look-like/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Guide

@@ -3,8 +3,8 @@ title: How Do I Fix Peeling Paint on Ceiling
 description: Paint peeling is a common problem that occurs on painted walls, ceiling,
   pavements, or furniture due to loss of stickiness strength over a while.
 slug: /how-do-i-fix-peeling-paint-on-ceiling/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - DIY Paintings

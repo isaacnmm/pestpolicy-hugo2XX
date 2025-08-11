@@ -3,8 +3,8 @@ title: Dethatching and When to Do It
 description: Beneath the lush green blades of a healthy lawn lies a hidden layer that
   can either contribute to its vitality or slowly stifle its growth thatch.
 slug: /dethatching-and-when-to-do-it/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Lawn Care

@@ -3,8 +3,8 @@ title: How to Remove Acrylic Paint from Canvas
 description: Removing acrylic paint from canvas becomes challenging, especially when
   the paint has dried out. How you can clean paint spots or the entire canvas?
 slug: /how-to-remove-acrylic-paint-from-canvas/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - DIY Paintings

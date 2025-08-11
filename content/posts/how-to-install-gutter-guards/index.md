@@ -4,8 +4,8 @@ description: Installing gutter guards is one of the most effective ways to reduc
   home maintenance, prevent costly water damage, and eliminate the dangerous chore
   of...
 slug: /how-to-install-gutter-guards/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Gutters

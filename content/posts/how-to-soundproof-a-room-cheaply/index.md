@@ -3,8 +3,8 @@ title: How to Soundproof a Room Cheaply
 description: Living in an urban area has its ups and downs. Among the major downsides
   of living in an urban area is having to deal with all sorts of noises from the...
 slug: /how-to-soundproof-a-room-cheaply/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Soundproofing

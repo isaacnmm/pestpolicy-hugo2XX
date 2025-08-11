@@ -3,8 +3,8 @@ title: Best Camera for Youtube
 description: Quality video shooting and You-tubing is a preserve of professional videographers.
   This is thanks to the advancement in video camera technology. So, which is...
 slug: /best-camera-for-youtube/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Cameras

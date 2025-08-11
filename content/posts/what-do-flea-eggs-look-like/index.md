@@ -3,8 +3,8 @@ title: What Do Flea Eggs Look Like
 description: Really, what do flea eggs look like? Well, for anyone whos been bitten
   by a bed bug , you can be sure some tiny flea eggs are lurking around to hatch either...
 slug: /what-do-flea-eggs-look-like/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Fleas

@@ -4,8 +4,8 @@ description: Breaking new ground or tilling hard soil in your garden requires th
   right tools to make your work easier and perfect. Thats where a powered tiller comes
   in....
 slug: /best-tiller-for-hard-soil/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Tillers

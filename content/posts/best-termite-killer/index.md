@@ -1,9 +1,10 @@
 ---
-title: "The 5 Best Termite Killers for DIY Home Defense (2025 Review)"
-description: "Protect your home from termite damage. We review the best termite killers, including baits and liquid treatments, for effective DIY termite control."
+title: The 5 Best Termite Killers for DIY Home Defense (2025 Review)
+description: Protect your home from termite damage. We review the best termite killers,
+  including baits and liquid treatments, for effective DIY termite control.
 slug: /best-termite-killer/
-date: 2025-08-09 00:00:00+00:00
-lastmod: 2025-08-09 00:00:00+00:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Termites
@@ -16,7 +17,6 @@ tags:
 - best
 layout: post
 ---
-
 Termites are silent destroyers, capable of causing thousands of dollars in damage to your home's foundation, walls, and furniture before you even know they're there. Whether you're dealing with subterranean termites tunneling from the ground up or drywood termites living inside your home's structure, taking swift action is critical.
 
 This guide reviews the best termite killers available for DIY homeowners, from powerful liquid barriers to easy-to-use bait stations, helping you choose the right defense for your property.

@@ -3,8 +3,8 @@ title: How Do Portable Water Filters Work
 description: How do portable water filters work? You can make your water potable or
   drinkable. The methods include water treatment and water filtering including emergency...
 slug: /how-do-portable-water-filters-work/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Guide

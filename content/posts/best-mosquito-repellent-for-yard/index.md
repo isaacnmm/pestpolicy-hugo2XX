@@ -3,8 +3,8 @@ title: Best Mosquito Repellent for Yard
 description: Do you find yourself constantly worrying about your kids getting mosquitoes
   bites every time they are out playing in your backyard?
 slug: /best-mosquito-repellent-for-yard/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Mosquitoes

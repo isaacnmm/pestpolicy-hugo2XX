@@ -3,8 +3,8 @@ title: Can Bed Bugs Get in Your Hair
 description: By definition, bed bugs are tiny apple-seed-sized, flat-bodied, brownish
   insects that'll feed on both human and animal blood.
 slug: /can-bed-bugs-get-in-your-hair/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Bed Bugs

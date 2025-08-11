@@ -3,8 +3,8 @@ title: Trugreen Vs Sunday Lawn Care
 description: When it comes to achieving a lush, healthy lawn, homeowners today have
   more options than ever. The choice often boils down to two main philosophies hands-on...
 slug: /trugreen-vs-sunday-lawn-care/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Lawn Care

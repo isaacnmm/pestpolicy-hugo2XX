@@ -3,8 +3,8 @@ title: The No Mix No Mess Alternative to Traditional Grout
 description: Tiling projects, whether a small backsplash or an entire bathroom floor,
   often conclude with one of the messiest and most labor-intensive steps grouting.
 slug: /the-no-mix-no-mess-alternative-to-traditional-grout/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Home Improvement

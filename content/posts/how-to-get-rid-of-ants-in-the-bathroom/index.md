@@ -3,8 +3,8 @@ title: How to Get Rid Of Ants in the Bathroom
 description: You must have noticed some ants , maybe little or black, in your bathroom.
   Did the ants in the bathroom appear at the same time last year?
 slug: /how-to-get-rid-of-ants-in-the-bathroom/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Ants

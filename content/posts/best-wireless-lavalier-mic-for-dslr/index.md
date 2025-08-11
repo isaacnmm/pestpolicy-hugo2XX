@@ -3,8 +3,8 @@ title: Best Wireless Lavalier Mic for Dslr
 description: For videography and photography, you'll require the best wireless lavalier
   mic for DSLR camera like for YouTubers . They're suitable for churches,...
 slug: /best-wireless-lavalier-mic-for-dslr/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Mics

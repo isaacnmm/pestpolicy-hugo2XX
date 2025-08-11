@@ -3,8 +3,8 @@ title: 12 Ft Vs 14 Ft Trampoline
 description: Are you wondering which trampoline size would be perfect for you? Well,
   to make it a bit easier, I will look at 12 ft. vs-14 ft.
 slug: /12-ft-vs-14-ft-trampoline/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Guide

@@ -3,8 +3,8 @@ title: Does Mineral Spirits Remove Paint
 description: The Challenge of removing old paints on different surfaces is a frequent
   thing of every day-to-day life. Often, people have devised many options to clean...
 slug: /does-mineral-spirits-remove-paint/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - DIY Paintings

@@ -3,8 +3,8 @@ title: Do Chipmunks Live Underground
 description: Chipmunks are small animals classified under the squirrel family. They
   may visit your farm or home in search of food or a place to live. Chipmunks mostly...
 slug: /do-chipmunks-live-underground/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Chipmunks

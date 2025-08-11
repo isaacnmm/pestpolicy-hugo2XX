@@ -3,8 +3,8 @@ title: How to Use Paint Thinner
 description: Paint thinner including Xylene, Naptha, Acetone, and Turpentine 1. Paint
   thinner is a substance used to make paint thinner.
 slug: /how-to-use-paint-thinner/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - DIY Paintings

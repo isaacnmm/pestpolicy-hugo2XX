@@ -4,8 +4,8 @@ description: Getting a good stain will help to protect your wooden swing set fro
   adverse weather conditions like harsh humidity, extreme heat, rain, and snow. Also,
   even...
 slug: /best-stain-for-swing-set/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Paint

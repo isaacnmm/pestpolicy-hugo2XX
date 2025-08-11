@@ -3,8 +3,8 @@ title: How Do You Silence a Cricket
 description: Have you ever found yourself lying awake at night, unable to sleep because
   of the incessant chirping of a cricket? Or perhaps you've been trying to...
 slug: /how-do-you-silence-a-cricket/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Crickets

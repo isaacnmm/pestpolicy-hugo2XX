@@ -4,8 +4,8 @@ description: Transforming a dark room into a bright and inviting space is a comm
   challenge in home decor. The right choice of paint colors can significantly improve
   the...
 slug: /paint-colors-to-brighten-a-dark-room/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Guide

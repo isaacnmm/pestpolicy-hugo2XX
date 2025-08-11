@@ -1,10 +1,10 @@
 ---
 title: Red Eyed Crocodile Skink Care
-description: There are many "expert" ideas on how to take care of your Red-Eyed 
-  Crocodile Skink
+description: There are many "expert" ideas on how to take care of your Red-Eyed Crocodile
+  Skink
 slug: /red-eyed-crocodile-skink-care/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Guide
@@ -14,7 +14,6 @@ tags:
 - eyed
 - crocodile
 layout: post
-
 ---
 There are many "expert" ideas on how to take care of your Red-Eyed Crocodile Skink - but in this article, I outline my red-eyed crocodile skink care guide - the 5 -years of experience of caring for and breeding for these reptile species. The [red-eyed crocodile skink](https://en.wikipedia.org/wiki/Tribolonotus_gracilis)is a shy crepuscular lizard.
 

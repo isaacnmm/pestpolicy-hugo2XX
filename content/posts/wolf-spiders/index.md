@@ -1,10 +1,10 @@
 ---
 title: Wolf Spiders
-description: Unlike the Black Widow Spiders , the Wolf Spiders are big hunting 
-  spiders that will not require webs to affectively trap their prey.
+description: Unlike the Black Widow Spiders , the Wolf Spiders are big hunting spiders
+  that will not require webs to affectively trap their prey.
 slug: /wolf-spiders/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Guide
@@ -14,7 +14,6 @@ tags:
 - spider
 - appearance
 layout: post
-
 ---
 Unlike the Black Widow Spiders, the Wolf Spiders are big hunting spiders that will not require webs to affectively trap their prey. - In the United States, youll find 2 main species of the Wolf Spiders (Lycosidae spp); H. aspersa and the Hogna carolinensis. The Lycosidae family (where the [spider](https://pestpolicy.com/can-you-drown-a-spider/)belongs) are arachnids that have athletic, hairy, and have a large body size.
 

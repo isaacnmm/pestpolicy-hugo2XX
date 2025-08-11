@@ -2,8 +2,8 @@
 title: Vinyl Vs Steel Vs Aluminum Gutters
 description: Vinyl vs. Steel vs. Aluminum Gutters
 slug: /vinyl-vs-steel-vs-aluminum-gutters/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Gutters
@@ -13,7 +13,6 @@ tags:
 - vinyl
 - steel
 layout: post
-
 ---
 ---
 

@@ -4,8 +4,8 @@ description: Gutters, while primarily functional, play a significant role in you
   home's overall curb appeal. Their color can either blend seamlessly with your trim
   and...
 slug: /can-you-paint-gutters/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Gutters

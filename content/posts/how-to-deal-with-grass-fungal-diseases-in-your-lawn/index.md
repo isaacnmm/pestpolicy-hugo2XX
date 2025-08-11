@@ -3,8 +3,8 @@ title: How to Deal With Grass Fungal Diseases in Your Lawn
 description: A vibrant, healthy lawn is often the pride of a homeowner, but even the
   most meticulously maintained turf can fall victim to unseen threats fungal diseases.
 slug: /how-to-deal-with-grass-fungal-diseases-in-your-lawn/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Lawn Care

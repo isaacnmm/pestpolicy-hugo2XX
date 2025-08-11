@@ -4,8 +4,8 @@ description: Boric acid, also known as orthoboric acid, boracic acid, and hydrog
   borate is a boron-based but weak monobasic Lewis acid . Boric acid H 3 BO 3  is
   largely...
 slug: /boric-acid/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Cockroaches

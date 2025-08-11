@@ -3,8 +3,8 @@ title: Best Controller for Retropie
 description: The "reluctantly" good gamepads lack analog sticks and broader functionality.
   These include compatibility with 3-D titles and extra buttons, which is unlike...
 slug: /best-controller-for-retropie/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Controllers

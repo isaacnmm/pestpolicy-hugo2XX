@@ -4,8 +4,8 @@ description: Are you looking for the best BBQ Party Games Ideas for Adults that 
   can play right away? Search no more! I have compiled 10 Outdoor party games that
   are...
 slug: /bbq-party-games-ideas-for-adults/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Backyard Games

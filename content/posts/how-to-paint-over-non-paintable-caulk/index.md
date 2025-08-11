@@ -3,8 +3,8 @@ title: How to Paint Over Non Paintable Caulk
 description: If you have a caulk-sealed section at your home or office and you intend
   to paint then, you will notice that not all caulk material is paintable.
 slug: /how-to-paint-over-non-paintable-caulk/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - DIY Paintings

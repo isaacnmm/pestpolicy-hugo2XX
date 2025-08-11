@@ -3,8 +3,8 @@ title: Does Nail Polish Remover Remove Paint
 description: Perhaps you work in the cosmetic industry and often use nail polish in
   one way or another. You could even have polished your nails and effectively cleaned...
 slug: /does-nail-polish-remover-remove-paint/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - DIY Paintings

@@ -1,10 +1,10 @@
 ---
 title: Best Tiller for Breaking New Ground
-description: When searching for the best tiller for breaking new ground, the 
-  manufacturer is not as important as the type of tool chosen.
+description: When searching for the best tiller for breaking new ground, the manufacturer
+  is not as important as the type of tool chosen.
 slug: /best-tiller-for-breaking-new-ground/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Tillers
@@ -13,7 +13,6 @@ tags:
 - tiller
 - new
 layout: post
-
 ---
 When searching for the best tiller for breaking new ground, the manufacturer is not as important as the type of tool chosen. - There are various reasons why you may want to break new ground, such as when making a[raised flower garden](https://pestpolicy.com/best-tiller-for-raised-beds/).
 

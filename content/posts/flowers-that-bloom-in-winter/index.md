@@ -3,8 +3,8 @@ title: Flowers That Bloom in Winter
 description: When winter blankets the landscape in stark whites and muted browns,
   the garden can often feel devoid of life and vibrancy.
 slug: /flowers-that-bloom-in-winter/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Gardening

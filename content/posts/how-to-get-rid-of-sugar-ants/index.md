@@ -4,8 +4,8 @@ description: Sugar ants are tiny annoying insects and stubborn household bugs. S
   ants are common during warm seasons when they come out of their nests to search
   for...
 slug: /how-to-get-rid-of-sugar-ants/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Ants

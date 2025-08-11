@@ -4,8 +4,8 @@ description: As an enthusiast of wrought iron railings, the greatest concern is 
   to keep them beautiful for long.The best paints for wrought iron railings will keep
   the...
 slug: /best-paint-for-wrought-iron-railings/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Paint

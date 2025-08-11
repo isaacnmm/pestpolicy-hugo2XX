@@ -4,8 +4,8 @@ description: In this post, I've reviewed the best bass octave pedals below. A ba
   octave pedal functions by creating a blended signal based on the original analog
   input....
 slug: /best-bass-octave-pedals/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Guitar

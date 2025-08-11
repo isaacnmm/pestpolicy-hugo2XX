@@ -1,10 +1,10 @@
 ---
 title: How Did My Dog Get Fleas
-description: Recently, I noticed my neighbor's dog scratching and upon further 
-  inspection, I have served simply that on them.
+description: Recently, I noticed my neighbor's dog scratching and upon further inspection,
+  I have served simply that on them.
 slug: /how-did-my-dog-get-fleas/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Fleas
@@ -14,7 +14,6 @@ tags:
 - did
 - dog
 layout: post
-
 ---
 Recently, I noticed my neighbor's dog scratching and upon further inspection, I have served simply that on them. - So my neighbor's biggest question was how did my dog get [fleas](https://pestpolicy.com/best-dog-backpack-carrier-for-hiking/)this is a question. Has it become a flea magnet? This is a question I'll be answering in this article.
 

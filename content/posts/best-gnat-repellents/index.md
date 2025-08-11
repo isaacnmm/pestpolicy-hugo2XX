@@ -2,8 +2,8 @@
 title: Best Gnat Repellents
 description: Summer brings warm weather, outdoor adventures
 slug: /best-gnat-repellents/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Gnats
@@ -13,7 +13,6 @@ tags:
 - best
 - gnat
 layout: post
-
 ---
 Summer brings warm weather, outdoor adventures - and relentless swarms of gnats. These tiny pests can turn a relaxing day outside into an itchy, frustrating experience. - But with so many options available - from natural sprays and[[gnat](https://pestpolicy.com/best-gnat-repellent/)repellent](https://www.wikihow. com/Keep-[Gnats](https://pestpolicy.com/do-gnats-bite-humans/)-Away-from-Your-Face)tolong-lasting chemical formulas - how do you choose the best one?
 

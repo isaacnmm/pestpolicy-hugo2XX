@@ -3,8 +3,8 @@ title: How to Paint Bathroom Cabinets
 description: Painting bathroom cabinets is a simple and cost-effective way to update
   the look of your bathroom without having to replace the entire cabinet.
 slug: /how-to-paint-bathroom-cabinets/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Guide

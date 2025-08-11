@@ -4,8 +4,8 @@ description: Wasps are a common sight in Vancouver during the warmer months. Whi
   they play a beneficial role in controlling other pest populations, they can become
   a...
 slug: /wasp-control-in-vancouver/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Guide

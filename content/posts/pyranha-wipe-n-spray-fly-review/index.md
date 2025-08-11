@@ -4,8 +4,8 @@ description: PYRANHA Wipe N Spray offers protection to your horse against insect
   such as biting flies in addition to fleas, gnats, and mosquitoes.Youll require just
   1-2...
 slug: /pyranha-wipe-n-spray-fly-review/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Flies

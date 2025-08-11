@@ -1,10 +1,10 @@
 ---
 title: Raspberry Pi 3 B Review
-description: There is so much fun in DIY Raspberry Pi projects, such as security
-  cameras and digital weather stations.
+description: There is so much fun in DIY Raspberry Pi projects, such as security cameras
+  and digital weather stations.
 slug: /raspberry-pi-3-b-review/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Raspberry Pi 3
@@ -13,7 +13,6 @@ tags:
 - raspberry
 - performance
 layout: post
-
 ---
 There is so much fun in DIY Raspberry Pi projects, such as security cameras and digital weather stations. - [Raspberry Pi model 3 B+](https://www.raspberrypi.org/products/[raspberry-pi-3](https://pestpolicy.com/best-heatsink-for-raspberry-pi-3/)-model-b-plus/)isthe newest upgrade, being more flexible and powerful, but still low priced.
 

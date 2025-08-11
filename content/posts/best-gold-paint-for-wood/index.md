@@ -3,8 +3,8 @@ title: Best Gold Paint for Wood
 description: If you are looking forward to painting or turning your furniture into
   a golden decorative surface, the options are available for you.
 slug: /best-gold-paint-for-wood/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Paint

@@ -4,8 +4,8 @@ description: What do flea larvae look like? If you are concerned that you may ha
   a flea problem, you are likely looking out for various signs. This article will
   look at...
 slug: /what-do-flea-larvae-look-like/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Fleas

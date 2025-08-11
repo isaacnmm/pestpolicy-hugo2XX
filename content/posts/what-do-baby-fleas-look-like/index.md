@@ -1,10 +1,10 @@
 ---
 title: What Do Baby Fleas Look Like
-description: What do baby fleas look like? Check these baby flea larvae videos, 
-  images, and pictures
+description: What do baby fleas look like? Check these baby flea larvae videos, images,
+  and pictures
 slug: /what-do-baby-fleas-look-like/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Fleas
@@ -14,7 +14,6 @@ tags:
 - baby
 - flea
 layout: post
-
 ---
 What do baby fleas look like? Check these baby flea (larvae) videos, images, and pictures - check their color and size. - Flea larvae are worm-like, leg-less, off-white in color, and measure about inches with a tiny head. You'll mainly find them during a[flea infestation](https://www.canr.msu.edu/ipm/uploads/files/Fleas.pdf)onsecond-hand furniture and pet sleeping. - *The short answer on "What do baby fleas look like? "
 

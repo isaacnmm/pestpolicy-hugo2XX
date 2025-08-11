@@ -3,8 +3,8 @@ title: Are Pre Emergent Weed Preventers Safe Around Bulbs
 description: As gardeners, we all strive for vibrant, weed-free beds, especially around
   the delicate beauty of spring-flowering bulbs.
 slug: /are-pre-emergent-weed-preventers-safe-around-bulbs/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Guides

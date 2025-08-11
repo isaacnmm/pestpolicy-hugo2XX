@@ -3,8 +3,8 @@ title: Do Lizards Have Bones
 description: Probably you have come across various species of lizards in your home,
   compound, fields, yards, or zoo and wonder if they have bones.
 slug: /do-lizards-have-bones/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Guide

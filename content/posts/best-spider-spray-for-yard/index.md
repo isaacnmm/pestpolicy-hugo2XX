@@ -1,10 +1,10 @@
 ---
 title: Best Spider Spray for Yard
-description: Spiders play a valuable role in controlling other pests, but when 
-  they overpopulate your yard
+description: Spiders play a valuable role in controlling other pests, but when they
+  overpopulate your yard
 slug: /best-spider-spray-for-yard/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Product Reviews
@@ -14,7 +14,6 @@ tags:
 - spider
 - spray
 layout: post
-
 ---
 Spiders play a valuable role in controlling other pests, but when they overpopulate your yard - or worse, when dangerous species like black widows or brown recluses move in - it's time to take action.
 

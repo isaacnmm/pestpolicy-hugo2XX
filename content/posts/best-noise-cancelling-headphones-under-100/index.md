@@ -4,8 +4,8 @@ description: While the use of headphones in the current world is becoming a dail
   routine, many buyers have become victims of low-quality products. Actually, to select
   the...
 slug: /best-noise-cancelling-headphones-under-100/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Headphones

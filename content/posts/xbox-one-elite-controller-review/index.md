@@ -3,8 +3,8 @@ title: Xbox One Elite Controller Review
 description: Xbox One Elite is targeted for highly aggressive gamers who can tweak
   the controllers using some third-party fixtures to achieve increased precision which...
 slug: /xbox-one-elite-controller-review/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Controllers

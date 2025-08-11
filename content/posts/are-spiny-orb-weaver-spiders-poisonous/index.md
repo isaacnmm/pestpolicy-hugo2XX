@@ -3,8 +3,8 @@ title: Are Spiny Orb Weaver Spiders Poisonous
 description: The Gasteracantha a.k.a spiny spiders, spiny orb-weavers, or spiny-backed
   orb-weavers  are in the orb-weaver genus of spiders.
 slug: /are-spiny-orb-weaver-spiders-poisonous/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Guide

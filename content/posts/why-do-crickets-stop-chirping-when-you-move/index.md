@@ -3,8 +3,8 @@ title: Why Do Crickets Stop Chirping When You Move
 description: Have you ever noticed that crickets go eerily silent when you approach
   them? If you've ever wondered why crickets stop chirping when you move, you're not...
 slug: /why-do-crickets-stop-chirping-when-you-move/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Crickets

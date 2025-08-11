@@ -3,8 +3,8 @@ title: How to Get Rid Of Bed Bugs Fast
 description: Heres how to get rid of bed bugs fast. When you wake up and discover
   blisters, red rashes, bed bug bites , or small itchy spots, there is every possibility...
 slug: /how-to-get-rid-of-bed-bugs-fast/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Bed Bugs

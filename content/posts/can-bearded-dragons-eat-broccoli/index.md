@@ -3,8 +3,8 @@ title: Can Bearded Dragons Eat Broccoli
 description: Can bearded dragons eat broccoli? Vegetables are part of the recommended
   diet for bearded dragons.Broccoli is a source of essential minerals and vitamins.
 slug: /can-bearded-dragons-eat-broccoli/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Guide

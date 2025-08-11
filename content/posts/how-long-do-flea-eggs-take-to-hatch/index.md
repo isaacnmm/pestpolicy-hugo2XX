@@ -3,8 +3,8 @@ title: How Long Do Flea Eggs Take to Hatch
 description: Using monthly flea control products such as flea foggers will break the-life-cycle
   flea cycle in 3 months while adult fleas have a lifespan of  12 days up to...
 slug: /how-long-do-flea-eggs-take-to-hatch/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Fleas

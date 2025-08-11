@@ -4,8 +4,8 @@ description: PVC Polyvinyl Chloride gutters, often referred to as vinyl gutters,
   a popular choice for homeowners due to their affordability, lightweight nature,
   and...
 slug: /pvc-gutter-cleaner/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Home Maintenance

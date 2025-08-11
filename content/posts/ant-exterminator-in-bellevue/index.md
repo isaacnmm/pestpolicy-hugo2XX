@@ -3,8 +3,8 @@ title: Ant Exterminator in Bellevue
 description: Ant infestations are a common and often frustrating problem for residents
   and businesses in Bellevue, WA. With its lush environment and favorable climate,...
 slug: /ant-exterminator-in-bellevue/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Ants

@@ -3,8 +3,8 @@ title: Prevent Paint Overspray
 description: By choosing to use a paint sprayer , youll attain a high-quality paint
   finish if the right procedure and spraying techniques are followed.
 slug: /prevent-paint-overspray/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - DIY Paintings

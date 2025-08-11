@@ -3,8 +3,8 @@ title: How to Paint an Aluminum Boat
 description: Aluminium boats are great for fishing as they're durable and lightweight.
   But, sometimes, they may get abused or overused.
 slug: /how-to-paint-an-aluminum-boat/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - DIY Paintings

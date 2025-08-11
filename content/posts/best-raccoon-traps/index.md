@@ -3,8 +3,8 @@ title: Best Raccoon Traps
 description: In this post, Ive reviewed the best raccoon traps and cages available
   today.My key considerations are that the traps must be safe to the non-target animals...
 slug: /best-raccoon-traps/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Product Reviews

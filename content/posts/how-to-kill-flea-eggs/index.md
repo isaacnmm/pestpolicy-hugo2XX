@@ -1,10 +1,10 @@
 ---
 title: How to Kill Flea Eggs
-description: Let's discuss what kills flea eggs in your yard or in indoor spaces
-  . Honestly, there aren't many things that'll kill flea eggs
+description: Let's discuss what kills flea eggs in your yard or in indoor spaces .
+  Honestly, there aren't many things that'll kill flea eggs
 slug: /how-to-kill-flea-eggs/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Fleas
@@ -14,7 +14,6 @@ tags:
 - kill
 - flea
 layout: post
-
 ---
 Let's discuss what kills flea eggs in your yard or in indoor spaces. Honestly, there aren't many things that'll kill flea eggs - they're supper hardy. [Fleas](https://pestpolicy.com/how-to-kill-fleas-on-dogs-naturally-safe-and-fast/)will jump off from the cats and dogs to lays their eggs on pet bedding or even house carpeting. Any unattended fleas eggs will hatch to a major [flea](https://pestpolicy.com/what-kills-fleas-in-the-yard-naturally/)infestation within a month.
 

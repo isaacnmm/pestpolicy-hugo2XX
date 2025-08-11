@@ -4,8 +4,8 @@ description: Mole traps are notably inexpensive ways to control moles both in th
   UK and the United States. However, the use of mole traps is not lawful universally
   -...
 slug: /why-are-mole-traps-illegal/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Guide

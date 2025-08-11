@@ -3,8 +3,8 @@ title: Pestpolicy Radio Podcast June 20 2025
 description: Welcome to today's edition of the PestPolicy Radio Podcast, recorded
   live on June 20, 2024! We're diving deep into a variety of home improvement and...
 slug: /pestpolicy-radio-podcast-june-20-2025/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: PestPolicy Radio Team
 categories:
 - Home Improvement

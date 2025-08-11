@@ -3,8 +3,8 @@ title: How to Repot Houseplants
 description: Just like children outgrow their shoes, houseplants eventually outgrow
   their pots. Repotting is a fundamental aspect of houseplant care, essential for...
 slug: /how-to-repot-houseplants/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Guides

@@ -2,8 +2,8 @@
 title: House Lizard Lifespan
 description: House Lizard Lifespan
 slug: /house-lizard-lifespan/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Guide
@@ -13,7 +13,6 @@ tags:
 - house
 - lizard
 layout: post
-
 ---
 House Lizard Lifespan - Probably you have come across the house lizard (commonly known as house gecko) in your house, yard, compound or zoo and wonder how long these vertebrate s live. Could House Lizards live just like human beings or survive for a couple of weeks? *So, whats the house lizards lifespan? * **The simple answer is, house lizard live for 4 to 6 years on average.
 

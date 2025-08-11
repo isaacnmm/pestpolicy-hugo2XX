@@ -3,8 +3,8 @@ title: Baby Wasp
 description: As homeowners, we're often faced with wasp attacks and other flying insects,
   especially in summer and thus it's critical to know all that appertains to wasps,...
 slug: /baby-wasp/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Guide

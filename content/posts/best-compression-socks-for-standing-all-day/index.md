@@ -4,8 +4,8 @@ description: Are you looking for the best compression socks for standing all day
   Then, read on! So, if think that standing all day causes you swollen and painful
   feet or...
 slug: /best-compression-socks-for-standing-all-day/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Socks

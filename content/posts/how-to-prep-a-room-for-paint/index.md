@@ -3,8 +3,8 @@ title: How to Prep a Room for Paint
 description: Could be you need to paint your newly constructed room or carry out paint
   restoration to improve interior outlook impression.
 slug: /how-to-prep-a-room-for-paint/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - DIY Paintings

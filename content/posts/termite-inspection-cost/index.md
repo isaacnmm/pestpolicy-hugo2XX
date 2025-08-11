@@ -1,10 +1,10 @@
 ---
 title: Termite Inspection Cost
-description: You'll undertake a termite inspection during the regular home 
-  maintenance or home purchase processes
+description: You'll undertake a termite inspection during the regular home maintenance
+  or home purchase processes
 slug: /termite-inspection-cost/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Guide
@@ -14,7 +14,6 @@ tags:
 - termite
 - inspection
 layout: post
-
 ---
 You'll undertake a termite inspection during the regular home maintenance or home purchase processes - but it has many [challenges](https://npmapestworld.org/default/assets/File/Resource%20Center/NPMA%20Library%20Updates/2012%2009%20Termite%20inspection%20challenges%20and%20considerations%20for%20slab%20buildings.pdf).It's a visual inspection of the home (including crawlspaces & basements) for signs of termites.
 

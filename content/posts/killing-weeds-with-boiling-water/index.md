@@ -3,8 +3,8 @@ title: Killing Weeds With Boiling Water
 description: Weeds are the bane of every gardener's existence, relentlessly competing
   with desirable plants for nutrients, water, and sunlight.
 slug: /killing-weeds-with-boiling-water/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Guides

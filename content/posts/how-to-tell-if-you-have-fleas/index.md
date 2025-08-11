@@ -1,10 +1,10 @@
 ---
 title: How to Tell If You Have Fleas
-description: It is pretty obvious and common for pets to catch fleas and 
-  eventually show up at home with a full load of them.
+description: It is pretty obvious and common for pets to catch fleas and eventually
+  show up at home with a full load of them.
 slug: /how-to-tell-if-you-have-fleas/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Fleas
@@ -14,7 +14,6 @@ tags:
 - your
 - house
 layout: post
-
 ---
 It is pretty obvious and common for pets to catch fleas and eventually show up at home with a full load of them. - Our houses get infested too from pets, which bring them indoors, which means that human beings eventually get plagued. - To human beings, they cause diseases like bubonic plague and typhus fever, and to pets, they cause anemia and introduce tapeworms to them. In this post, Ive discussed how to tell if you have fleas.
 

@@ -2,8 +2,8 @@
 title: How to Find Bed Bugs
 description: In this article, I'll outline how to find bed bugs
 slug: /how-to-find-bed-bugs/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Bed Bugs
@@ -13,7 +13,6 @@ tags:
 - bed
 - bug
 layout: post
-
 ---
 In this article, I'll outline how to find bed bugs - step-by-step - including their babies/). - Finding a bed bug infestation early will aid in its control so that it doesn't spread further - they measure about5 - 7 millimeters in length. - Notably, treating that minor bed bug infestation will be easier and cheaper compared to trying to control a full-blown attack.
 

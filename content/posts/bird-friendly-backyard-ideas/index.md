@@ -3,8 +3,8 @@ title: Bird Friendly Backyard Ideas
 description: Are you looking to make your backyard more bird-friendly? Well, you need
   the right habitat to attract a variety of popular birds into your backyard.
 slug: /bird-friendly-backyard-ideas/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Backyard Games

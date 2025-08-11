@@ -1,10 +1,10 @@
 ---
 title: Rustoleum Galvanized Metal Primer
-description: It is important to go for a primer that will be compatible with 
-  your paint and the surface if you want a professional look
+description: It is important to go for a primer that will be compatible with your
+  paint and the surface if you want a professional look
 slug: /rustoleum-galvanized-metal-primer/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Paint
@@ -14,7 +14,6 @@ tags:
 - rustoleum
 - galvanized
 layout: post
-
 ---
 It is important to go for a primer that will be compatible with your paint and the surface if you want a professional look - and that's why I've reviewed the [Rustoleum](https://pestpolicy.com/rustoleum-rust-reformer-review/)Galvanized Metal Primer below. If you are a pro, you will clearly understand the challenges of painting non-primed galvanized metal.
 

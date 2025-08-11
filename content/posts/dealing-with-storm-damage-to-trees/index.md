@@ -3,8 +3,8 @@ title: Dealing With Storm Damage to Trees
 description: Storms, whether they bring strong winds, heavy rain, ice, or snow, can
   wreak havoc on trees. From minor limb breakage to complete uprooting, storm-damaged...
 slug: /dealing-with-storm-damage-to-trees/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Guides

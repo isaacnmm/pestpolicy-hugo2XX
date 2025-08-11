@@ -3,8 +3,8 @@ title: Best Noise Cancelling Headphones Under 200
 description: In this post, Ive reviewed the best noise-canceling headphones under
   200 . Sometimes you want to reduce ambient sounds when bingeing on Netflix or listening...
 slug: /best-noise-cancelling-headphones-under-200/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Headphones

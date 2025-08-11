@@ -4,8 +4,8 @@ description: Keeping your boat's hull clear of marine growth is vital to guarant
   a risk-free, efficient, and speedy performance. A coat of racing paint should be
   hardy...
 slug: /best-boat-bottom-paint-for-speed/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Paint

@@ -3,8 +3,8 @@ title: How to Use a Flea Comb
 description: Here'show to use a flea comb.Hey, today I am here on my garage table
   with my dog Jake. I'll demonstrate how to use a flea comb on your cat or dog.
 slug: /how-to-use-a-flea-comb/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Fleas

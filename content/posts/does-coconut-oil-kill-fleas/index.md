@@ -3,8 +3,8 @@ title: Does Coconut Oil Kill Fleas
 description: So, does coconut oil kill fleas? Well, the simple answer is, YES! coconut
   oil has lauric acid that'll kill fleas through suffocation and restricting their...
 slug: /does-coconut-oil-kill-fleas/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Fleas

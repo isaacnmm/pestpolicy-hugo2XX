@@ -4,8 +4,8 @@ description: Effective gutter drainage is the cornerstone of a healthy, protecte
   home. While gutters are adept at collecting rainwater and snowmelt from your roof,
   their...
 slug: /gutter-drainage/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Gutters

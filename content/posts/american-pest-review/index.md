@@ -4,8 +4,8 @@ description: When you get signs of pests in or around the house, it's critical t
   you hire a reliable and efficient pest exterminator. Top bug control services such
   as...
 slug: /american-pest-review/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Exterminators

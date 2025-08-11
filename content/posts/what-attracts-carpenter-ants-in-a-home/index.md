@@ -4,8 +4,8 @@ description: Both carpenter ants and termites cause the destruction of our furni
   and other household items in your house. But, what attracts carpenter ants in a
   home?...
 slug: /what-attracts-carpenter-ants-in-a-home/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Ants

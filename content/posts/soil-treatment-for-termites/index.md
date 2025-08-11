@@ -4,8 +4,8 @@ description: Soil treatment for termites involves using some contact insecticide
   around your house and yard to create barriers. The subterranean termite control
   process...
 slug: /soil-treatment-for-termites/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Guide

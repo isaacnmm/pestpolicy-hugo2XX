@@ -4,8 +4,8 @@ description: Beneath the lush, green surface of your lawn, an unseen threat migh
   be silently undermining its health lawn grubs. These C-shaped, white larvae are
   the...
 slug: /how-to-get-rid-of-lawn-grubs/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Lawn Care

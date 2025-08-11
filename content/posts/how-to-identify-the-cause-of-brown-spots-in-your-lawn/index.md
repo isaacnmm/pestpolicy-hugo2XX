@@ -3,8 +3,8 @@ title: How to Identify the Cause Of Brown Spots in Your Lawn
 description: Few things are as disheartening to a proud homeowner as the sudden appearance
   of unsightly brown spots marring an otherwise verdant lawn.
 slug: /how-to-identify-the-cause-of-brown-spots-in-your-lawn/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Lawn Care

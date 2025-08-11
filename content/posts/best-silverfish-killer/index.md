@@ -4,8 +4,8 @@ description: When choosing the best silverfish killer , you can consider things 
   effectiveness, safety for pets and children, ease of use, and the speed at which
   it...
 slug: /best-silverfish-killer/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Fleas

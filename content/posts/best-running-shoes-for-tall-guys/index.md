@@ -3,8 +3,8 @@ title: Best Running Shoes for Tall Guys
 description: It can be a daunting task to find the Best Running Shoes for Tall Guys
   both in physical and online stores. But fret not.
 slug: /best-running-shoes-for-tall-guys/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Running shoes

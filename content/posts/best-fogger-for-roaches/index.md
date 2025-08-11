@@ -3,8 +3,8 @@ title: Best Fogger for Roaches
 description: When choosing the best fogger for roaches, you can consider things like
   effectiveness, safety, coverage area, ease of use, and cost.
 slug: /best-fogger-for-roaches/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Product Reviews

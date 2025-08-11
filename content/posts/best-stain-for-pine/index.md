@@ -4,8 +4,8 @@ description: It is not an easy task choosing the best stain for pine whether you
   a professional or into DIY projects. Stains are meant to protect your furniture
   and...
 slug: /best-stain-for-pine/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Paint

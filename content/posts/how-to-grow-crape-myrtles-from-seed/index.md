@@ -3,8 +3,8 @@ title: How to Grow Crape Myrtles from Seed
 description: Crape myrtles Lagerstroemia spp. are beloved deciduous trees and shrubs,
   particularly cherished in warmer climates for their spectacular, long-lasting summer...
 slug: /how-to-grow-crape-myrtles-from-seed/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Gardening

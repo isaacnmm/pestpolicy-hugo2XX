@@ -3,8 +3,8 @@ title: Best Running Shoes for It Band Syndrome
 description: Are you looking for the Best Running Shoes for IT Band Syndrome ? Youre
   right on time! ITBS IT Band Syndrome is one of the primary causes of knee pain among...
 slug: /best-running-shoes-for-it-band-syndrome/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Running shoes

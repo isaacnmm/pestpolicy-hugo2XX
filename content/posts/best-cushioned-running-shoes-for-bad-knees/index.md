@@ -3,8 +3,8 @@ title: Best Cushioned Running Shoes for Bad Knees
 description: Running is a great way to stay fit, but for individuals with bad knees,
   it can be a painful experience. The impact from running can put stress on your knee...
 slug: /best-cushioned-running-shoes-for-bad-knees/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Guide

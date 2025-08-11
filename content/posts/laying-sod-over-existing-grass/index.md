@@ -3,8 +3,8 @@ title: Laying Sod Over Existing Grass
 description: The promise of an instant, lush green lawn is incredibly appealing, and
   for many homeowners, sod offers just that. It bypasses the waiting period of seeding,...
 slug: /laying-sod-over-existing-grass/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Lawn Care

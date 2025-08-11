@@ -4,8 +4,8 @@ description: Are you stuck with an ant problem in your house and lawns? You dont
   to worry anymore! Therere many do-it-yourself home remedies you can use to get rid
   of...
 slug: /homemade-ant-killer/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Ants

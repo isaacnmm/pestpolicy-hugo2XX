@@ -3,8 +3,8 @@ title: Can Bed Bugs Climb Metal or Plastic
 description: Can bed bugs climb metal or plastic? One of the worst bug infestations
   you can ever wish on your enemies is a bedbug invasion.
 slug: /can-bed-bugs-climb-metal-or-plastic/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Bed Bugs

@@ -4,8 +4,8 @@ description: Monkey grass, a common name for plants like Liriope Liriope muscari
   Mondo Grass Ophiopogon japonicus, is a popular choice for borders, ground cover,
   and...
 slug: /how-and-when-to-trim-monkey-grass-border/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Gardening

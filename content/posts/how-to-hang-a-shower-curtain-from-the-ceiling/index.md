@@ -2,8 +2,8 @@
 title: How to Hang a Shower Curtain from the Ceiling
 description: How to Hang a Shower Curtain from the Ceiling
 slug: /how-to-hang-a-shower-curtain-from-the-ceiling/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Bathroom
@@ -13,7 +13,6 @@ tags:
 - shower
 - curtain
 layout: post
-
 ---
 ---
 

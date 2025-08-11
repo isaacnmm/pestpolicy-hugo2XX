@@ -3,8 +3,8 @@ title: Ototo Dentaku
 description: The Ototo synthesizer is a groundbreaking musical invention kit that
   empowers anyone to create their own instruments without prior electronics knowledge.
 slug: /ototo-dentaku/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Keyboard

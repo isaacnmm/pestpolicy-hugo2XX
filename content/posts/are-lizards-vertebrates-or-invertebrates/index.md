@@ -3,8 +3,8 @@ title: Are Lizards Vertebrates or Invertebrates
 description: May be you have come across various species of lizards in your home,
   park or zoo and wonder whether they have backbones or not.
 slug: /are-lizards-vertebrates-or-invertebrates/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Guide

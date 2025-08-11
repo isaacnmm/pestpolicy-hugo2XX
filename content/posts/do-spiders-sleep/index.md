@@ -3,8 +3,8 @@ title: Do Spiders Sleep
 description: Some spider like Redback spider go into non-action up-to 6 months without
   a meal by reducing energy use. But the spider will spring into action when a prey...
 slug: /do-spiders-sleep/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Guide

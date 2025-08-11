@@ -3,8 +3,8 @@ title: Dawn Dish Soap for Fleas
 description: Witnessing my pets scratching, or even falling ill from flea bites is
   distressing. So, you're wondering, can Dawn dish soap the household detergent really...
 slug: /dawn-dish-soap-for-fleas/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Fleas

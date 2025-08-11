@@ -4,8 +4,8 @@ description: If you're tired of the nuisance brought by the tiny nuzzling insect
   drain flies also known as sewer flies in your basement drains in your residence,
   it's...
 slug: /how-to-get-rid-of-drain-flies-in-the-basement/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Flies

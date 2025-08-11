@@ -3,8 +3,8 @@ title: Best Grass for Every Region
 description: Creating and maintaining a lush, healthy lawn is a cornerstone of many
   beautiful landscapes. However, the secret to a thriving green carpet isn't just...
 slug: /best-grass-for-every-region/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Lawn Care

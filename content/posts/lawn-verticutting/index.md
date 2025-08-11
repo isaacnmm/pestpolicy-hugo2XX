@@ -3,8 +3,8 @@ title: Lawn Verticutting
 description: For many homeowners, lawn care begins and ends with regular mowing, watering,
   and occasional fertilization. While these practices are foundational, a truly...
 slug: /lawn-verticutting/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Lawn Care

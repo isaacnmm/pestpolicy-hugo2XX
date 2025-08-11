@@ -4,8 +4,8 @@ description: It starts with a nagging feeling, doesn't it? A tiny black speck yo
   thought you saw jump. A pet that seems to be scratching just a little more than
   usual.
 slug: /how-to-check-your-home-for-fleas/
-date: 2025-08-01 00:00:00+03:00
-lastmod: 2025-08-01 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Flea Control

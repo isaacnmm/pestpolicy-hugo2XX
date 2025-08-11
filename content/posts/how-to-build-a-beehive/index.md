@@ -3,15 +3,15 @@ title: How to Build a Beehive
 description: Embarking on the journey of beekeeping is a rewarding experience, connecting
   you with nature and providing delicious honey.
 slug: /how-to-build-a-beehive/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Beekeeping
 - DIY
 - Guides
 tags:
--
+- null
 - beekeeping
 layout: post
 ---

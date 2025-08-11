@@ -3,8 +3,8 @@ title: Listen to Your Favorite Songs With the Homewerks Bluetooth Bathroom Fan
 description: Host Welcome back to PestPolicy Radio! I'm your host, Host Name, and
   today, June 22nd, 2025, we're diving into an innovative home product that merges...
 slug: /listen-to-your-favorite-songs-with-the-homewerks-bluetooth-bathroom-fan/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Improvement

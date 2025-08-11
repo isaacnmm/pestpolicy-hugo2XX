@@ -3,8 +3,8 @@ title: How to Maintain a Bathroom Vent Fan
 description: Your bathroom vent fan, often an unassuming fixture in the ceiling, plays
   a vital role in the health and longevity of your bathroom.
 slug: /how-to-maintain-a-bathroom-vent-fan/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Home Maintenance

@@ -3,8 +3,8 @@ title: Paint Zoom Review
 description: The Paint Zoom is a popular paint sprayer designed to provide fast and
   smooth painting results. This tool is marketed as a solution for both professional...
 slug: /paint-zoom-review/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Guide

@@ -3,8 +3,8 @@ title: How to Check for Fleas
 description: Below I've outlinedhow to check for fleas.Sadly, this thought triggers
   an itching feeling in me  does my dog have fleas?
 slug: /how-to-check-for-fleas/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Fleas

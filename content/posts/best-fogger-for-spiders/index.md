@@ -3,8 +3,8 @@ title: Best Fogger for Spiders
 description: Each house or at least every compound suffers some form of insect infestation.
   While some come in as a mere domestic nuisance, arachnids like Spiders may pose...
 slug: /best-fogger-for-spiders/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Laptops

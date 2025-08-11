@@ -1,11 +1,10 @@
 ---
 title: Hornet Nest Removal
-description: This is a Hornet Nest Removal guide. It is a kind of unpleasant 
-  situation for you if you are having a hornet or wasps nest around in or near 
-  your place.
+description: This is a Hornet Nest Removal guide. It is a kind of unpleasant situation
+  for you if you are having a hornet or wasps nest around in or near your place.
 slug: /hornet-nest-removal/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Bees
@@ -15,7 +14,6 @@ tags:
 - hornet
 - nest
 layout: post
-
 ---
 This is a [Hornet](https://pestpolicy.com/hornet-bees-and-wasp-removal-tacoma/)[Nest](https://pestpolicy.com/how-to-find-a-roach-nest/) Removal guide. It is a kind of unpleasant situation for you if you are having a hornet or wasps nest around in or near your place. - It can get nastier, especially if there are kids or anyone with an allergic issue to their stings (insect venom).
 

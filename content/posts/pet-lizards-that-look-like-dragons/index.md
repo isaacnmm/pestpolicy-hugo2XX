@@ -3,8 +3,8 @@ title: Pet Lizards That Look Like Dragons
 description: Pet lizards that look like dragons ? May be you have ever heard of dragon
   or seen them in movies. These eminent creatures depict great power and they are...
 slug: /pet-lizards-that-look-like-dragons/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Guide

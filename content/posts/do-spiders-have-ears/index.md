@@ -3,8 +3,8 @@ title: Do Spiders Have Ears
 description: For along time, scientific evidence considered that spiders are dominated
   by touch and sight. But the characteristics of these arachnids can be both...
 slug: /do-spiders-have-ears/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Guide

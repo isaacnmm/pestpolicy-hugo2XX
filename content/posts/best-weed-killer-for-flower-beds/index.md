@@ -1,11 +1,10 @@
 ---
 title: Best Weed Killer for Flower Beds
-description: looking for the best weed killer for flower beds? Gardening or 
-  weeding is a time consuming and demanding hobby that not many can keep up 
-  with.
+description: looking for the best weed killer for flower beds? Gardening or weeding
+  is a time consuming and demanding hobby that not many can keep up with.
 slug: /best-weed-killer-for-flower-beds/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Product Reviews
@@ -15,7 +14,6 @@ tags:
 - best
 - weed
 layout: post
-
 ---
 looking for the best [weed](https://pestpolicy.com/best-weed-killer-for-lawns/)killer for flower beds? [Gardening or weeding](https://extension.psu.edu/introduction-to-weeds-and-herbicides)is a time consuming and demanding hobby that not many can keep up with.
 

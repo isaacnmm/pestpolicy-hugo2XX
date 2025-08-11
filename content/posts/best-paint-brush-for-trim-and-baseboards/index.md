@@ -3,8 +3,8 @@ title: Best Paint Brush for Trim and Baseboards
 description: Painting is a magnificent job that gives beauty and value to the structure
   or the item being applied, and the best paint brushes for baseboards and trim...
 slug: /best-paint-brush-for-trim-and-baseboards/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Paint

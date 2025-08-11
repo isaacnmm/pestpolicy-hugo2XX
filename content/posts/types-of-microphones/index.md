@@ -3,8 +3,8 @@ title: Types Of Microphones
 description: Microphones are essential tools for content creators, musicians , podcasters,
   and professionals in broadcasting, live sound, and video production.
 slug: /types-of-microphones/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Guide

@@ -3,8 +3,8 @@ title: Fall Maintenance Checklist
 description: As the vibrant colors of autumn emerge and the temperatures begin to
   drop, it's a clear signal winter is on its way. While many associate fall with pumpkin...
 slug: /fall-maintenance-checklist/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Guides

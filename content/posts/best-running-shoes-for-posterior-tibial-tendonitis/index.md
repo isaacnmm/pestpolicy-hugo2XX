@@ -3,8 +3,8 @@ title: Best Running Shoes for Posterior Tibial Tendonitis
 description: Which are the Best Running Shoes for Posterior Tibial Tendonitis? Most
   podiatrist and other medical experts recommend wearing supportive shoes for the...
 slug: /best-running-shoes-for-posterior-tibial-tendonitis/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Running shoes

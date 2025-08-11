@@ -3,8 +3,8 @@ title: Best Earbuds Under 50
 description: So, which are the best earbuds under 50? The importance of earbuds cannot
   be underestimated in reducing the risk hearing loss .
 slug: /best-earbuds-under-50/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Headphones

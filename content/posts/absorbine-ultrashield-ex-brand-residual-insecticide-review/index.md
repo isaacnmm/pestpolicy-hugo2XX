@@ -1,10 +1,10 @@
 ---
 title: Absorbine Ultrashield Ex Brand Residual Insecticide Review
-description: The Absorbine UltraShield EX contains 1.00 piperonyl butoxide, 0.10
-  pyrethrins, and 0.50 permethrin as its active ingredients
+description: The Absorbine UltraShield EX contains 1.00 piperonyl butoxide, 0.10 pyrethrins,
+  and 0.50 permethrin as its active ingredients
 slug: /absorbine-ultrashield-ex-brand-residual-insecticide-review/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Flies
@@ -14,7 +14,6 @@ tags:
 - absorbine
 - ultrashield
 layout: post
-
 ---
 The Absorbine UltraShield EX contains 1. 00% piperonyl butoxide, 0. 10% pyrethrins, and 0. 50% permethrin as its active ingredients - and it's one of the [best fly sprays for horses](https://pestpolicy.com/best-fly-spray-for-horses/).Initial pros to note about this fly control product for your horse is that its sweat-resistant and weatherproof thus will work great both for outdoors and indoors horse fly control.
 

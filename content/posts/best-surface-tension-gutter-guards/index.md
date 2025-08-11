@@ -3,8 +3,8 @@ title: Best Surface Tension Gutter Guards
 description: Surface tension gutter guards, often referred to as reverse-curve or
   nose-forward systems, represent a distinct category of gutter protection.
 slug: /best-surface-tension-gutter-guards/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Gutters

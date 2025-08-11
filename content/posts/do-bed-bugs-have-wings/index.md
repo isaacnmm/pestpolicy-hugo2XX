@@ -3,8 +3,8 @@ title: Do Bed Bugs Have Wings
 description: Do bed bugs have wings? So, what bugs can be mistaken for bed bugs? that
   also have wings. Insects with wings can fly in search of food or escape from their...
 slug: /do-bed-bugs-have-wings/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Bed Bugs

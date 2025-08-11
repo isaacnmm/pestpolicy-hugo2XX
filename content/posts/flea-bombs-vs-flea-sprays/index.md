@@ -3,8 +3,8 @@ title: Flea Bombs Vs Flea Sprays
 description: There's a unique sinking feeling that hits you the moment you realize
   fleas have invaded your home. Its a mix of disgust and urgency that sends you straight...
 slug: /flea-bombs-vs-flea-sprays/
-date: 2025-08-01 00:00:00+03:00
-lastmod: 2025-08-01 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Flea Control

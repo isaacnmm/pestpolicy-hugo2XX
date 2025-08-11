@@ -3,8 +3,8 @@ title: Western Washington University Wwu
 description: Located in Bellingham, WA, Western Washington University WWU is a vibrant
   institution renowned for its academic excellence, stunning campus, and strong...
 slug: /western-washington-university-wwu/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Bellingham

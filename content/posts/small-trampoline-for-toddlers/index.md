@@ -3,8 +3,8 @@ title: Small Trampoline for Toddlers
 description: Small Trampolines for Toddlers are intended to make kids playtime exciting
   and adventurous. Further, they help children to exercise, stay healthy, and have...
 slug: /small-trampoline-for-toddlers/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Guide

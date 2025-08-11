@@ -3,8 +3,8 @@ title: What is Better Silicone or Latex Caulk
 description: When taking on a caulking project, the choice between silicone and latex
   caulk can significantly impact its success and longevity.
 slug: /what-is-better-silicone-or-latex-caulk/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - DIY Paintings

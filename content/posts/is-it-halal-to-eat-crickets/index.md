@@ -3,8 +3,8 @@ title: Is It Halal to Eat Crickets
 description: Dietary choices in Islam are deeply rooted in the principles of halal
   permissible and haram forbidden as prescribed by Islamic jurisprudence.
 slug: /is-it-halal-to-eat-crickets/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Crickets

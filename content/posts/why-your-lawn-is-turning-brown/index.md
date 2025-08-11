@@ -3,8 +3,8 @@ title: Why Your Lawn is Turning Brown
 description: Few sights are as disheartening to a homeowner as a once-vibrant green
   lawn slowly transforming into a sea of dull, lifeless brown.
 slug: /why-your-lawn-is-turning-brown/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Lawn Care

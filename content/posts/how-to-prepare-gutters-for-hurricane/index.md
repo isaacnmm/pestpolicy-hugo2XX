@@ -3,8 +3,8 @@ title: How to Prepare Gutters for Hurricane
 description: When a hurricane is approaching, homeowners rightly focus on securing
   windows, stocking supplies, and planning evacuation routes.
 slug: /how-to-prepare-gutters-for-hurricane/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Gutters

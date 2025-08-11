@@ -3,8 +3,8 @@ title: Bed Bug Treatment in Tacoma
 description: Bed bugs are a common pest problem in Tacoma, posing a challenge for
   homeowners and businesses alike. These small, elusive insects can cause significant...
 slug: /bed-bug-treatment-in-tacoma/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Bed Bugs

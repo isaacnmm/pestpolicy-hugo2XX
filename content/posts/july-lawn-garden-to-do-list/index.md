@@ -3,8 +3,8 @@ title: July Lawn Garden to Do List
 description: July is the heart of summer in most regions, bringing with it the longest
   days, often the highest temperatures, and a bustling period of growth and activity...
 slug: /july-lawn-garden-to-do-list/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Lawn Care

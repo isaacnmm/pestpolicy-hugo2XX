@@ -4,8 +4,8 @@ description: As the vibrant greens of summer begin to fade into the golden hues 
   autumn, lawn care routines shift focus from vigorous growth to preparing your turf
   for...
 slug: /how-high-to-mow-your-lawn-for-the-final-cut-in-the-fall/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Guides

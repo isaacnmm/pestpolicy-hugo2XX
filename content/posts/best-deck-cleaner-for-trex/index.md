@@ -4,8 +4,8 @@ description: Are you searching for the best deck cleaner for Trex? Cleaning a Tr
   deck may seem like a difficult task at first, given the relatively new nature of
   this...
 slug: /best-deck-cleaner-for-trex/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Paint

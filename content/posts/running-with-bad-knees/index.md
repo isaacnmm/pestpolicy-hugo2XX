@@ -4,8 +4,8 @@ description: Having a bad knee? Here are the rules dont run, lift or squat! Righ
   Wrong! You should consider bad knees as just a hurdle to overcome, and never an
   excuse...
 slug: /running-with-bad-knees/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Running shoes

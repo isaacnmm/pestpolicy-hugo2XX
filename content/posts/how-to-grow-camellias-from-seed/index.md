@@ -3,8 +3,8 @@ title: How to Grow Camellias from Seed
 description: Camellias are renowned for their exquisite, waxy blooms and glossy evergreen
   foliage, bringing a touch of elegance and vibrant color to the garden,...
 slug: /how-to-grow-camellias-from-seed/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Guides

@@ -1,10 +1,10 @@
 ---
 title: Best Toilet Paper for Septic
-description: Some toilet papers are low quality, non-biodegradable, and may end 
-  up clogging your toiletsdrains or even block the sewer and septic system.
+description: Some toilet papers are low quality, non-biodegradable, and may end up
+  clogging your toiletsdrains or even block the sewer and septic system.
 slug: /best-toilet-paper-for-septic/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Drains
@@ -14,7 +14,6 @@ tags:
 - best
 - toilet
 layout: post
-
 ---
 Some toilet papers are low quality, non-biodegradable, and may end up clogging your toilets/[drains](https://digitalcommons.wpi.edu/mqp-all/2416/)or even block the sewer and septic system. - Maybe your home septic and drain are clogged, and you suspect it could result from [toilet](https://pestpolicy.com/how-to-unclog-a-toilet-without-a-plunger/)paper - you can use[drain cleaners](https://pestpolicy.com/best-drain-cleaner//).
 

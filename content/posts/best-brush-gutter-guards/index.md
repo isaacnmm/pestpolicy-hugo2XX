@@ -2,8 +2,8 @@
 title: Best Brush Gutter Guards
 description: Best Brush Gutter Guards
 slug: /best-brush-gutter-guards/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Gutters
@@ -13,7 +13,6 @@ tags:
 - brush
 - gutter
 layout: post
-
 ---
 ---
 

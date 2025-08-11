@@ -3,8 +3,8 @@ title: Best Leather Sectional Sofa
 description: Are you searching the internet for the best leather sectional sofa? Well,
   a leather sectional sofa is an excellent masterpiece office of living room addition...
 slug: /best-leather-sectional-sofa/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Recliners

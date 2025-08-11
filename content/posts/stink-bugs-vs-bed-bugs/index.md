@@ -1,10 +1,10 @@
 ---
 title: Stink Bugs Vs Bed Bugs
-description: In this post, I compare stink bugs vs. bed bugs. These arthropods 
-  belong to the Cimicidae and Pentatomidae families, respectively.
+description: In this post, I compare stink bugs vs. bed bugs. These arthropods belong
+  to the Cimicidae and Pentatomidae families, respectively.
 slug: /stink-bugs-vs-bed-bugs/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Bed Bugs
@@ -14,7 +14,6 @@ tags:
 - stink
 - bug
 layout: post
-
 ---
 In this post, I compare stink bugs vs. bed bugs. These arthropods belong to the Cimicidae and Pentatomidae families, respectively. - **Stink Bugs (**shield bugs) have a shield-shaped body and belong to the Cimicidae family. - **Bed bugs**(in the Pentatomidae family) are often located in dark spaces like under beds, chairs, carpets, couches, and beds.
 

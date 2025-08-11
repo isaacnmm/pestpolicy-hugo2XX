@@ -1,10 +1,10 @@
 ---
 title: Can Bed Bugs Live Outside
-description: No one wants to be confronted with a bed bug infestation and one of
-  the burning questions
+description: No one wants to be confronted with a bed bug infestation and one of the
+  burning questions
 slug: /can-bed-bugs-live-outside/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Bed Bugs
@@ -14,7 +14,6 @@ tags:
 - bed
 - bug
 layout: post
-
 ---
 No one wants to be confronted with a bed bug infestation and one of the burning questions - can bed bugs live outside? Will these tiny bed bugs survive outside/ in the lawn or yard - you may find dead bed bugs/) after you've used [bed](https://pestpolicy.com/bed-bug-bites-vs-other-bites/)bug steamers.
 

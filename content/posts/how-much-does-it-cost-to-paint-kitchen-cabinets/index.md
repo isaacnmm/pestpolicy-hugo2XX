@@ -3,8 +3,8 @@ title: How Much Does It Cost to Paint Kitchen Cabinets
 description: Painting protects primary material from damage and eliminates external
   agents that weaken the structural strength. However, costing kitchen cabinet...
 slug: /how-much-does-it-cost-to-paint-kitchen-cabinets/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - DIY Paintings

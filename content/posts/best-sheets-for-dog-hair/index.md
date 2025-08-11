@@ -3,8 +3,8 @@ title: Best Sheets for Dog Hair
 description: Finding the best sheets to keep dog hair off your bed can be a challenge,
   but these highly rated options on Amazon make it easy.
 slug: /best-sheets-for-dog-hair/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Guide

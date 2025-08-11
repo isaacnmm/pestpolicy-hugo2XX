@@ -4,8 +4,8 @@ description: Diatomaceous earth, anyone? You probably were searching for remedie
   to the roach infestation in your home or a solution to fleas that have become a
   nuisance...
 slug: /diatomaceous-earth/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Fleas

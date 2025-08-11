@@ -4,8 +4,8 @@ description: Are you looking for the Best Shoes for Cardio Workouts? Youre right
   time. In this review, I will take you through some of the top Cardio workout shoes
   that...
 slug: /best-shoes-for-cardio-workouts/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - HIIT Shoes

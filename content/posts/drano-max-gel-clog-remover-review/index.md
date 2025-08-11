@@ -1,10 +1,10 @@
 ---
 title: Drano Max Gel Clog Remover Review
-description: So today, Im at my house in Downtown Houston ready to do a review 
-  of the Drano Max Gel Clog Remover
+description: So today, Im at my house in Downtown Houston ready to do a review of
+  the Drano Max Gel Clog Remover
 slug: /drano-max-gel-clog-remover-review/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Drains
@@ -14,7 +14,6 @@ tags:
 - drano
 - max
 layout: post
-
 ---
 So today, Im at my house in Downtown Houston ready to do a review of the Drano Max Gel Clog Remover - the runner-up product in the [best drain cleaners](https://pestpolicy.com/best-drain-cleaner//).I aim to see what the cleaner can do about a severe clog in my kitchen sink. *Summary: Drano Max Gel will liquefy even the most challenging drain clogs in your plumbing or septic systems.
 

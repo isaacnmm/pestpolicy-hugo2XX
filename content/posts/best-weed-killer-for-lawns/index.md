@@ -4,8 +4,8 @@ description: When choosing the Best Weed Killer for Lawns , you can consider thi
   like effectiveness, safety for your grass , ease of use, and environmental impact.
   Each...
 slug: /best-weed-killer-for-lawns/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Product Reviews

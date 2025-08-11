@@ -3,8 +3,8 @@ title: Tacoma Farmers Market
 description: Nestled in the heart of Tacoma, the Tacoma Farmers Market is a vibrant
   community hub that offers a rich array of fresh produce, artisanal goods, and local...
 slug: /tacoma-farmers-market/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Guide

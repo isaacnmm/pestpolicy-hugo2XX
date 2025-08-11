@@ -4,8 +4,8 @@ description: If youre seeking an affordable, eco-friendly way to control pests i
   your home, consider 20 Mule Team Borax . This natural mineral has been a trusted
   pest...
 slug: /20-mule-team-borax-pest-control/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Bed Bugs

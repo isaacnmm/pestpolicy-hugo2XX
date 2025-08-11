@@ -1,10 +1,10 @@
 ---
 title: Best Pop Filter for Blue Yeti
-description: Choosing the best pop filter for blue yeti is easier said than 
-  done. Pop filters will help with plosives
+description: Choosing the best pop filter for blue yeti is easier said than done.
+  Pop filters will help with plosives
 slug: /best-pop-filter-for-blue-yeti/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Headphones
@@ -13,7 +13,6 @@ tags:
 - best
 - pop
 layout: post
-
 ---
 Choosing the best pop filter for blue yeti is easier said than done. Pop filters will help with plosives - sounds like 'P' & 'B'. Such plosives may enter the mics and lead to annoying heavy bass/ breath sound.
 

@@ -4,8 +4,8 @@ description: The legs of fleas have strong claws and proboscis tiny needles that
   help the pest bite the skin of the hosts such as cats, dogs , and even humans. Why
   do...
 slug: /why-do-flea-bites-itch/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Fleas

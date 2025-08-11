@@ -1,10 +1,10 @@
 ---
 title: Best Paint Thinner for Oil Painting
-description: Have you had a difficult time choosing an oil thinner for your oil 
-  paints? We're going to talk about all your options
+description: Have you had a difficult time choosing an oil thinner for your oil paints?
+  We're going to talk about all your options
 slug: /best-paint-thinner-for-oil-painting/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Paint
@@ -13,7 +13,6 @@ tags:
 - thinner
 - oil
 layout: post
-
 ---
 Have you had a difficult time choosing an oil thinner for your oil paints? We're going to talk about all your options - the best [paint](https://pestpolicy.com/best-oil-based-primer-for-cabinets/)thinner for [oil](https://pestpolicy.com/best-paint-brushes-for-oil-based-paint/)painting. All these paints can be used both to clean the brushes and thin your oil paints.
 

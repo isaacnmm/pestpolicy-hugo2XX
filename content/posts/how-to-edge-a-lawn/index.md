@@ -4,8 +4,8 @@ description: A beautifully manicured lawn is often the hallmark of a well-mainta
   home. While regular mowing, fertilizing, and watering are foundational, there's
   one...
 slug: /how-to-edge-a-lawn/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Lawn Care

@@ -3,8 +3,8 @@ title: The Complete Guide to Yard Waste Disposal
 description: Maintaining a beautiful and healthy yard inevitably generates a significant
   amount of organic material, commonly known as yard waste.
 slug: /the-complete-guide-to-yard-waste-disposal/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Lawn Care

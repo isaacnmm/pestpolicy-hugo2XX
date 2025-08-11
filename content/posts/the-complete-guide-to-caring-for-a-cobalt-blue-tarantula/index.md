@@ -4,8 +4,8 @@ description: Keeping a tarantula is not for the weak-hearted. Only a professiona
   enthusiast or an award-winning entomologist should have a cobalt blue tarantula
   in their...
 slug: /the-complete-guide-to-caring-for-a-cobalt-blue-tarantula/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Guide

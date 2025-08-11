@@ -4,8 +4,8 @@ description: Everett, a beautiful city nestled in the Pacific Northwest, is know
   for its scenic beauty and vibrant community. However, like many places, it is not
   immune...
 slug: /ant-control-in-everett/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Everett

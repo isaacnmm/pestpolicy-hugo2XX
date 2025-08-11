@@ -1,10 +1,10 @@
 ---
 title: Does the Dryer Kill Fleas
-description: Drying fabric or clothes at high temperatures is often prescribed 
-  to homeowners killing bugs such as bed bugs . Butdoes the dryer kill fleas?
+description: Drying fabric or clothes at high temperatures is often prescribed to
+  homeowners killing bugs such as bed bugs . Butdoes the dryer kill fleas?
 slug: /does-the-dryer-kill-fleas/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Fleas
@@ -14,7 +14,6 @@ tags:
 - dryer
 - kill
 layout: post
-
 ---
 Drying fabric or clothes at high temperatures is often prescribed to homeowners killing bugs such as bed bugs. Butdoes the dryer kill [fleas](https://pestpolicy.com/how-long-does-it-take-for-steam-to-kill-fleas/)?- **Well, in summary, YES, the high temperatures in a dryer do [kill](https://pestpolicy.com/how-to-kill-flea-eggs/)fleas plus all their babies including eggs and flea larvae on your clothes, curtains, and bedding.
 

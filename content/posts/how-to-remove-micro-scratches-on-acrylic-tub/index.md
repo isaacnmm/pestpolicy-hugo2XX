@@ -3,8 +3,8 @@ title: How to Remove Micro Scratches on Acrylic Tub
 description: Acrylic bathtubs have become an incredibly popular choice for modern
   bathrooms due to their lightweight nature, versatility in design, excellent heat...
 slug: /how-to-remove-micro-scratches-on-acrylic-tub/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Home Maintenance

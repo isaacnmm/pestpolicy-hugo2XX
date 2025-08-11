@@ -3,8 +3,8 @@ title: Do Geckos Eat Cockroaches
 description: Reptiles such as Geckos could even be more sensitive when it comes to
   appropriate feed matching. Should you give your gecko meat, insects, or vegetables?
 slug: /do-geckos-eat-cockroaches/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Cockroaches

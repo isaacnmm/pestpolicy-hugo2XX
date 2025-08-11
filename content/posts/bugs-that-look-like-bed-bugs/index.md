@@ -3,8 +3,8 @@ title: Bugs That Look Like Bed Bugs
 description: Bed bug look-alikes often make it hard to identify bed bugs, which eventually
   results in wrong eradication methods.If you dont know the characteristics of...
 slug: /bugs-that-look-like-bed-bugs/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Bed Bugs

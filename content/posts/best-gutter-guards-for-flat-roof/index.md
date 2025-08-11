@@ -3,8 +3,8 @@ title: Best Gutter Guards for Flat Roof
 description: When considering gutter guards, homeowners often picture sloped roofs
   and traditional K-style gutters. However, flat roofs, common on modern homes and...
 slug: /best-gutter-guards-for-flat-roof/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Gutters

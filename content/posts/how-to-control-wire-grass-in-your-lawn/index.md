@@ -4,8 +4,8 @@ description: '''Wire grass'' is a common name used to describe several tough, ag
   grassy weeds that are notorious for invading and outcompeting desirable turfgrass
   in la'
 slug: /how-to-control-wire-grass-in-your-lawn/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Lawn Care

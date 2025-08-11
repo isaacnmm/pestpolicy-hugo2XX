@@ -3,8 +3,8 @@ title: Lawn Fertilizer
 description: A lush, vibrant green lawn is the envy of the neighborhood and a source
   of pride for homeowners. While regular mowing and watering are fundamental, achieving...
 slug: /lawn-fertilizer/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Lawn Care

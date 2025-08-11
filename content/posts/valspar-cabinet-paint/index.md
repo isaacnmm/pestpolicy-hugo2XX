@@ -3,8 +3,8 @@ title: Valspar Cabinet Paint
 description: First, does Valspar cabinet revamping painthttpspestpolicy.comhow-to-paint-kitchen-cabinets-without-sanding
   need a primer? Well, No!
 slug: /valspar-cabinet-paint/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Paint

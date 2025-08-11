@@ -3,8 +3,8 @@ title: Paint Color Ideas for Outside Of House
 description: Painting your newly constructed home will not only improve its outlook
   impression, but also boosts the overall service life.
 slug: /paint-color-ideas-for-outside-of-house/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - DIY Paintings

@@ -1,9 +1,10 @@
 ---
-title: "12 Chic Eco-Friendly Decor Ideas to Refresh Your Home Sustainably"
-description: "Go green without sacrificing style. Discover 12 chic, budget-friendly decor ideas using upcycled furniture, natural fibers, and sustainable materials."
+title: 12 Chic Eco-Friendly Decor Ideas to Refresh Your Home Sustainably
+description: Go green without sacrificing style. Discover 12 chic, budget-friendly
+  decor ideas using upcycled furniture, natural fibers, and sustainable materials.
 slug: /12-chic-eco-friendly-decor-ideas-that-will-save-the-planet-and-your-wallet/
-date: 2025-08-09 00:00:00+00:00
-lastmod: 2025-08-09 00:00:00+00:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Home Decor
@@ -16,7 +17,6 @@ tags:
 - guide
 layout: post
 ---
-
 Embracing eco-friendly decor is more than just a trend; it's a lifestyle choice that proves chic design and environmental consciousness can go hand in hand. Creating a beautiful, sustainable home doesn't have to be expensive or complicated.
 
 With a focus on mindful consumption and creative reuse, you can transform your living space into a sanctuary that is kind to both the planet and your wallet. Get ready to be inspired by these 12 stylish and budget-friendly solutions.

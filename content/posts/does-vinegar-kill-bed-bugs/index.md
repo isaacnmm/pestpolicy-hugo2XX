@@ -3,8 +3,8 @@ title: Does Vinegar Kill Bed Bugs
 description: Does vinegar kill bed bugs?Bed bug infestations have seen an increase
   in natural bed bug remedies like essential oil for bed bugs .
 slug: /does-vinegar-kill-bed-bugs/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Bed Bugs

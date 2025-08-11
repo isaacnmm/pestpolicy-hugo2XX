@@ -4,8 +4,8 @@ description: Did you know that your dog could be stressed or mentally detailed b
   boom sounds and noises like road traffic, trains, thunder, and fireworks? Is your
   dog...
 slug: /soundproof-dog-crate/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Soundproofing

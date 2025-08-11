@@ -3,8 +3,8 @@ title: How to Treat Ant Bites
 description: Ant bites can be painful, cause swelling, itching , or allergic reactions
   , and you may require some soothing treatment.
 slug: /how-to-treat-ant-bites/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Ants

@@ -3,8 +3,8 @@ title: Spring Green Vs Trugreen
 description: Choosing the right lawn care provider is a significant decision for any
   homeowner looking to achieve a healthy, vibrant lawn.
 slug: /spring-green-vs-trugreen/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Lawn

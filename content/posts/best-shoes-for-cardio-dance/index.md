@@ -3,8 +3,8 @@ title: Best Shoes for Cardio Dance
 description: Cardio Dance is a fun and enjoyable way to engage in a full-body workout.
   However, youll need to invest in Best Shoes for Cardio Dance because of the endless...
 slug: /best-shoes-for-cardio-dance/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - HIIT Shoes

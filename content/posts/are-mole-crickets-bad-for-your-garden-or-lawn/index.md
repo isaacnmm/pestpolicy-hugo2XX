@@ -3,8 +3,8 @@ title: Are Mole Crickets Bad for Your Garden or Lawn
 description: If you're concerned about the well-being of your garden or lawn and whether
   mole crickets might be causing harm-crickets-good-or-bad , this comprehensive...
 slug: /are-mole-crickets-bad-for-your-garden-or-lawn/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Crickets

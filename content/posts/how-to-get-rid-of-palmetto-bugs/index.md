@@ -3,8 +3,8 @@ title: How to Get Rid Of Palmetto Bugs
 description: The sight of palmetto bugs crawling around your house is simply disgusting.
   In case youre wondering how to get rid of it, you dont need to worry.
 slug: /how-to-get-rid-of-palmetto-bugs/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Guide

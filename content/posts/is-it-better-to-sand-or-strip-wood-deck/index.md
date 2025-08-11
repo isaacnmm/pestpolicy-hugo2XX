@@ -3,8 +3,8 @@ title: Is It Better to Sand or Strip Wood Deck
 description: Both sanding and stripping are viable options for restoring the deck's
   beauty and preparing it for a fresh finish, but they have distinct differences and...
 slug: /is-it-better-to-sand-or-strip-wood-deck/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - DIY Paintings

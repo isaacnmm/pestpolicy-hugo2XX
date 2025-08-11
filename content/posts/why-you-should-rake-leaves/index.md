@@ -3,8 +3,8 @@ title: Why You Should Rake Leaves
 description: As autumn paints the landscape with fiery hues, the beauty is often accompanied
   by an inevitable chore falling leaves. For many, raking leaves is a...
 slug: /why-you-should-rake-leaves/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Lawn Care

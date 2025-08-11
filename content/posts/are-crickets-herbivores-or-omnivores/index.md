@@ -4,8 +4,8 @@ description: Crickets, those small chirping insects that often serenade us durin
   warm summer nights, have long piqued our curiosity.Their intriguing behavior and
   the...
 slug: /are-crickets-herbivores-or-omnivores/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Crickets

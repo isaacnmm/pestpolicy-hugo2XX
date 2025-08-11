@@ -1,10 +1,10 @@
 ---
 title: Are Male or Female Bernedoodles Better
-description: Bernedoodles make adorable pets . You may be wondering if there are
-  any major differences between male and female ones.
+description: Bernedoodles make adorable pets . You may be wondering if there are any
+  major differences between male and female ones.
 slug: /are-male-or-female-bernedoodles-better/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Fleas
@@ -14,7 +14,6 @@ tags:
 - are
 - male
 layout: post
-
 ---
 Bernedoodles make adorable pets. You may be wondering if there are any major differences between male and female ones. - Understanding what separates them is important for both you and your pet. - Whether you already have one or are looking to adopt, there are certain underlying factors to be aware of. It is natural to wonder if you made the right decision.
 

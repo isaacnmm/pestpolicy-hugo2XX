@@ -3,8 +3,8 @@ title: What Causes Pantry Bugs
 description: Does the presence of pantry bugs worry you? I also get scared of them.
   Though their presence is inevitable we can try to find the root cause of what causes...
 slug: /what-causes-pantry-bugs/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Guide

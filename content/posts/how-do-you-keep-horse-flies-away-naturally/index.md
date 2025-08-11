@@ -4,8 +4,8 @@ description: Natural horse fly repellents are made from naturally grown plants o
   animals. Further, processing the repellents undergo must not downgrade the natural
   form...
 slug: /how-do-you-keep-horse-flies-away-naturally/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Flies

@@ -3,8 +3,8 @@ title: Best Soundproof Earmuffs for Sleeping
 description: Do you need to improve the quality of your sleep? Well, below, Ive reviewed
   the best soundproof earmuffs for sleeping for a tight sleep and even sweet dreams....
 slug: /best-soundproof-earmuffs-for-sleeping/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Soundproofing

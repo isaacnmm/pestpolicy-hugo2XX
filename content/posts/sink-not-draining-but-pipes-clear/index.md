@@ -4,8 +4,8 @@ description: In this post, I outline how I cleared my sink drain blockage that h
   persisted even with clear pipes. But first, I narrate my sad story. I was almost
   going...
 slug: /sink-not-draining-but-pipes-clear/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Drains

@@ -4,8 +4,8 @@ description: Using painter's tape to create unique wall designs is a fantastic w
   to add creativity to any room. With just a few basic materials, you can transform
   a...
 slug: /wall-paint-design-ideas-with-tape/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Guide

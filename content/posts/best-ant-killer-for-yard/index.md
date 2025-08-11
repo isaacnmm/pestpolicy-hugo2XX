@@ -3,8 +3,8 @@ title: Best Ant Killer for Yard
 description: I've reviewed the best ant killers for your yard. You dont really realize
   the importance of ant killers until you want to sit in your yard and your peaceful...
 slug: /best-ant-killer-for-yard/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Ants

@@ -3,8 +3,8 @@ title: Best Exterior Primer Paint
 description: By choosing to read this article on the best exterior primer paint, you
   will acquire both paint application skills and high-quality paint for your DIY project...
 slug: /best-exterior-primer-paint/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Paint

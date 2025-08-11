@@ -3,8 +3,8 @@ title: Best Grass to Grow in Shade
 description: Achieving a uniformly green and healthy lawn can be one of the most rewarding
   aspects of homeownership, but it often presents a significant challenge shade.
 slug: /best-grass-to-grow-in-shade/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Lawn Care

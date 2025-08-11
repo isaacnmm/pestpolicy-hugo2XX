@@ -3,8 +3,8 @@ title: Protecting Walls from Pets
 description: Pets bring immense joy, companionship, and laughter into our homes. They
   are beloved family members, often considered furry children.
 slug: /protecting-walls-from-pets/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Home Improvement

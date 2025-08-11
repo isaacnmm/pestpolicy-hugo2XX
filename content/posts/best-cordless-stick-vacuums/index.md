@@ -3,8 +3,8 @@ title: Best Cordless Stick Vacuums
 description: In today's fast-paced world, keeping your home spotless should be effortless
   and efficient. Cordless stick vacuums are revolutionizing how we clean, offering...
 slug: /best-cordless-stick-vacuums/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Drains

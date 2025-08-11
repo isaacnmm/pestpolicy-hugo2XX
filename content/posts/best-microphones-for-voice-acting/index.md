@@ -3,8 +3,8 @@ title: Best Microphones for Voice Acting
 description: Choosing the best microphones for voice acting isnt simple, especially
   when selecting those designed for recording studios.In fact, most people often find...
 slug: /best-microphones-for-voice-acting/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Mics

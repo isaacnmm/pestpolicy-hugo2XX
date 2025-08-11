@@ -4,8 +4,8 @@ description: The millennium-old practice of tilling land comes with many benefit
   yet is exceedingly tiring, and time-consuming. What of discovering a hack that saves
   you...
 slug: /how-to-till-a-garden-without-a-tiller/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Tillers

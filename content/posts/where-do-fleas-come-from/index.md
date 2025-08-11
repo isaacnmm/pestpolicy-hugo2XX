@@ -4,8 +4,8 @@ description: Fleas are remarkably adaptable parasites that can survive in numero
   environments beyond their preferred animal hosts. While they commonly live and feed
   on...
 slug: /where-do-fleas-come-from/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Fleas

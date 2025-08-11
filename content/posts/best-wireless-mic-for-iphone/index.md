@@ -4,8 +4,8 @@ description: The best wireless mic for iPhone will help you to easily record you
   podcasts, youtube videos , music, video chatting, and interviews since iPhones have
   poor...
 slug: /best-wireless-mic-for-iphone/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Mics

@@ -3,8 +3,8 @@ title: Ant Control in Federal Way
 description: Ant infestations can be a persistent problem for homeowners in Federal
   Way, WA. With its mild, wet climate, Federal Way provides an ideal environment for...
 slug: /ant-control-in-federal-way/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Ants

@@ -3,8 +3,8 @@ title: How to Get Rid Of Wolf Spiders
 description: Having spider infestation in your home could be such a chilling moment,
   especially if you have phobia and allergen reactions against the bites.
 slug: /how-to-get-rid-of-wolf-spiders/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Guide

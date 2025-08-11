@@ -3,8 +3,8 @@ title: How to Install Landscape Fabric and Plastic
 description: Landscape fabric and plastic sheeting are two common materials used in
   gardening and landscaping, primarily for weed control, moisture retention, and soil...
 slug: /how-to-install-landscape-fabric-and-plastic/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Landscaping

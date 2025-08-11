@@ -1,10 +1,10 @@
 ---
 title: How Do Fleas Mate
-description: How do fleas mate? If you are unfortunate enough to be suffering a 
-  flea outbreak, you may be wondering how the mate and therefore spread
+description: How do fleas mate? If you are unfortunate enough to be suffering a flea
+  outbreak, you may be wondering how the mate and therefore spread
 slug: /how-do-fleas-mate/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Fleas
@@ -14,7 +14,6 @@ tags:
 - flea
 - mate
 layout: post
-
 ---
 How do fleas mate? If you are unfortunate enough to be suffering a flea outbreak, you may be wondering how the mate and therefore spread - to control the fleas effectively. In this article, we will take a detailed look at how these pests reproduce - there are clear signs to show if fleas infest your house or yard.
 

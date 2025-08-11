@@ -3,8 +3,8 @@ title: Flea Bites Vs Bed Bug Bites
 description: The small red bumps appearing in specific areas of your skin can be hard
   to tell apart.Well tell you how to figure out whether theyre flea bites or bedbug...
 slug: /flea-bites-vs-bed-bug-bites/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Bed Bugs

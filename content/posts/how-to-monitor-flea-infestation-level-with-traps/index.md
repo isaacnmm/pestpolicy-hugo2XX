@@ -3,8 +3,8 @@ title: How to Monitor Flea Levels with a Trap - A Guide
 description: When you're fighting fleas, one of the hardest parts is the uncertainty.
   Are your efforts making a difference? Is the population growing or shrinking?
 slug: /how-to-monitor-flea-infestation-level-with-traps/
-date: 2025-08-03 00:00:00+00:00
-lastmod: 2025-08-03 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Fleas

@@ -1,10 +1,10 @@
 ---
 title: Rustoleum Rust Reformer Review
-description: In this article, I've reviewed the Rustoleum Rust Reformer on its 
-  suitability for rust repair
+description: In this article, I've reviewed the Rustoleum Rust Reformer on its suitability
+  for rust repair
 slug: /rustoleum-rust-reformer-review/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Paint
@@ -13,7 +13,6 @@ tags:
 - rustoleum
 - rust
 layout: post
-
 ---
 In this article, I've reviewed the [Rustoleum](https://pestpolicy.com/rustoleum-galvanized-metal-primer/)Rust Reformer on its suitability for rust repair - so that you can now maintain your metallic tools.
 

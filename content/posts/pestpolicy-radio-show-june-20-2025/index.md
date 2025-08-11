@@ -3,8 +3,8 @@ title: Pestpolicy Radio Show June 20 2025
 description: Intro Music Upbeat, light-hearted jingle Host Welcome back to PestPolicy
   Radio, your weekly guide to keeping your home happy, healthy, and pest-free!
 slug: /pestpolicy-radio-show-june-20-2025/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Maintenance

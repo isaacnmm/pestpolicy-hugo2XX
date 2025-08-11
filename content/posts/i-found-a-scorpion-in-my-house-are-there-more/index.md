@@ -4,8 +4,8 @@ description: Scorpions are a pest that will come out regularly in the desert are
   of the United States especially the southwestern regions. So, we just today found
   such a...
 slug: /i-found-a-scorpion-in-my-house-are-there-more/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Drains

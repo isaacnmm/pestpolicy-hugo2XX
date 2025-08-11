@@ -4,8 +4,8 @@ description: In this article, I describe how to select a wireless driveway alarm
   Wireless Driveway Alarms are designed to give you and your family protection as
   well as...
 slug: /how-to-select-a-wireless-driveway-alarm/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Defense

@@ -4,8 +4,8 @@ description: A tree swing evokes a timeless sense of joy, adventure, and childho
   memories. The simple act of soaring through the air, propelled by your own momentum,
   is...
 slug: /how-to-install-a-tree-swing-safely/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Guides

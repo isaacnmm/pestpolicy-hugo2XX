@@ -4,8 +4,8 @@ description: In a world often consumed by self-interest, stories of selfless act
   shine as beacons of hope and inspiration. One such beacon is the "Raising Men Lawn
   Care...
 slug: /raising-men-lawn-care/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Community Service

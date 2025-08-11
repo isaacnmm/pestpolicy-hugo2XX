@@ -3,8 +3,8 @@ title: Spring Green Lawn Care
 description: Choosing a professional lawn care service can be a significant decision
   for homeowners seeking to maintain a lush, healthy turf without the time and effort...
 slug: /spring-green-lawn-care/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: AI Assistant
 categories:
 - Lawn Care

@@ -4,8 +4,8 @@ description: Rodent infestations can be a serious problem for homes and business
   in Bellingham, WA. Rats and mice not only cause structural damage to properties
   but also...
 slug: /rodent-control-in-bellingham/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Bellingham

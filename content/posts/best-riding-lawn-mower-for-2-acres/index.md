@@ -1,9 +1,11 @@
 ---
-title: "The 3 Best Riding Lawn Mowers for 2 Acres (2025 Review)"
-description: "Tired of spending hours mowing? We reviewed the best riding lawn mowers for 2-acre properties, focusing on deck size, power, and durability. Find your perfect tractor."
+title: The 3 Best Riding Lawn Mowers for 2 Acres (2025 Review)
+description: Tired of spending hours mowing? We reviewed the best riding lawn mowers
+  for 2-acre properties, focusing on deck size, power, and durability. Find your perfect
+  tractor.
 slug: /best-riding-lawn-mower-for-2-acres/
-date: 2025-08-09 00:00:00+00:00
-lastmod: 2025-08-09 00:00:00+00:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Mowers
@@ -16,7 +18,6 @@ tags:
 - mowers
 layout: post
 ---
-
 Mowing a 2-acre property is a significant task, and using the wrong equipment can turn a weekend chore into an all-day struggle. The key to reclaiming your time and achieving a beautiful lawn is choosing a riding mower with the right combination of deck size, engine power, and durability.
 
 A mower with at least a 46-inch deck is essential for this size of property, as it dramatically reduces the number of passes you need to make. We've analyzed the top models on the market to find the best riding lawn mowers designed to handle 2-acre yards with ease.

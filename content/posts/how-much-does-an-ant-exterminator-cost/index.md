@@ -3,8 +3,8 @@ title: How Much Does an Ant Exterminator Cost
 description: Having an ant infestation in your home or office could be problematic,
   especially when ants invade large colonies. Though ants are classified as a non-disease...
 slug: /how-much-does-an-ant-exterminator-cost/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Ants

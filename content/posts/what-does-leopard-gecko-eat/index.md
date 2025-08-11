@@ -4,8 +4,8 @@ description: A proper diet will make your crepuscular-geckos-nocturnal Leopard G
   healthy and happy every day . But, really, what does leopard gecko eat? Leopard
   Gecko...
 slug: /what-does-leopard-gecko-eat/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Fleas

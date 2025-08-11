@@ -4,8 +4,8 @@ description: Red Oak is considered one of the best solid wood to use on your flo
   to give it a durable and natural look. With this consideration, you may need to
   get the...
 slug: /best-stain-for-red-oak-floors/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Paint

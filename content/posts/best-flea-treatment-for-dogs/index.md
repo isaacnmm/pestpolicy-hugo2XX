@@ -3,8 +3,8 @@ title: Best Flea Treatment for Dogs
 description: When choosing the best flea treatment for dogs, you can consider things
   like the product's effectiveness, safety, ease of use, and your dog's specific needs.
 slug: /best-flea-treatment-for-dogs/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Fleas

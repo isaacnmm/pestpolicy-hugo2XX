@@ -3,8 +3,8 @@ title: Best Paint for Concrete Walls in Basement
 description: Unlike standard walls, paint on the concrete wallshttpspestpolicy.comwhat-kind-of-paint-can-be-used-on-concrete
   requires a unique approach to ensure that you...
 slug: /best-paint-for-concrete-walls-in-basement/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Paint

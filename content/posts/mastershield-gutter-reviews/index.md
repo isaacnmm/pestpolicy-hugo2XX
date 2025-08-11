@@ -4,8 +4,8 @@ description: Clogged gutters are a perennial headache for homeowners, leading to
   cascade of potential issues from foundation damage and basement flooding to fascia
   rot...
 slug: /mastershield-gutter-reviews/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Gutters

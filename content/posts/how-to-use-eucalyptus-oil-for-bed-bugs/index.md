@@ -1,10 +1,10 @@
 ---
 title: How to Use Eucalyptus Oil for Bed Bugs
-description: Eucalyptus oil is a natural and effective way to get rid of bed bugs just like with lavender . So, for details on how to use eucalyptus oil for bed
-  bugs,...
+description: Eucalyptus oil is a natural and effective way to get rid of bed bugs
+  just like with lavender . So, for details on how to use eucalyptus oil for bed bugs,...
 slug: /how-to-use-eucalyptus-oil-for-bed-bugs/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Bed Bugs

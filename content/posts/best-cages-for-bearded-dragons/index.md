@@ -3,8 +3,8 @@ title: Best Cages for Bearded Dragons
 description: When choosing the best cages for bearded dragons, you can consider factors
   like size, ventilation, material, ease of cleaning, and additional features. A...
 slug: /best-cages-for-bearded-dragons/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Lizard

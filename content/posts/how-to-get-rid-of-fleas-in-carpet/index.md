@@ -3,8 +3,8 @@ title: How to Get Rid Of Fleas in Carpet
 description: If youve got a furry pet at home, its likely that your carpet is infected
   with fleashttpsentomology.ca.uky.eduef602 . Well tell you how to get rid of the...
 slug: /how-to-get-rid-of-fleas-in-carpet/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Fleas

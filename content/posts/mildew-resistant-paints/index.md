@@ -3,8 +3,8 @@ title: Mildew Resistant Paints
 description: By reading this article on the best mildew resistant paints, you will
   gain refined information on eliminating molds and mildew from the painted surfaces....
 slug: /mildew-resistant-paints/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Paint

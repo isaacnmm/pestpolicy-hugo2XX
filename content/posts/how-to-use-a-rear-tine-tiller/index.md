@@ -1,10 +1,10 @@
 ---
 title: How to Use a Rear Tine Tiller
-description: Proper land preparation is crucial for any serious gardener to 
-  ensure they get a good harvest.
+description: Proper land preparation is crucial for any serious gardener to ensure
+  they get a good harvest.
 slug: /how-to-use-a-rear-tine-tiller/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Tillers
@@ -13,7 +13,6 @@ tags:
 - rear
 - tine
 layout: post
-
 ---
 Proper [land preparation](https://www.indstate.edu/university-engagement/sustainability/garden/tiller-usage-and-soil-health-information)is crucial for any serious gardener to ensure they get a good harvest. - ** Whether you are preparing an existing seedbed or creating a new one, you need to have proper equipment knowledge. ** - **How to use a rear mount tiller? Before starting up the tiller, ensure you have protective gear on for safety.
 

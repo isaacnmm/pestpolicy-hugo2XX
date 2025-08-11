@@ -4,8 +4,8 @@ description: If you are a granite enthusiast, you can tell of the beauty it brin
   and the vulnerability it possesses. Thus, I sought the best granite sealers with
   the...
 slug: /best-granite-sealer/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Paint

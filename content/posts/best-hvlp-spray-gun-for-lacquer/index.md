@@ -3,8 +3,8 @@ title: Best Hvlp Spray Gun for Lacquer
 description: You can spray lacquer with HVLP like your spray finish light coats on
   dry wood that has been finish-sanded for a minimum of 220 grit.
 slug: /best-hvlp-spray-gun-for-lacquer/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Product Reviews

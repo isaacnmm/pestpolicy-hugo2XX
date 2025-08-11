@@ -3,8 +3,8 @@ title: Varathane Fast Dry Wood Stain Reviews
 description: When it comes to staining wood for a beautiful, professional finish,
   Varathane Fast Dry Wood Stain is a popular choice among both DIYers and professionals.
 slug: /varathane-fast-dry-wood-stain-reviews/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Guide

@@ -3,8 +3,8 @@ title: Best Running Socks for Marathon
 description: Any runner who wants a smooth running experience should consider investing
   in the best running socks for marathon. Running socks protect your feet and can...
 slug: /best-running-socks-for-marathon/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Socks

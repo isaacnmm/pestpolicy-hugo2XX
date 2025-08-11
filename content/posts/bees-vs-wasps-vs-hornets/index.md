@@ -1,10 +1,10 @@
 ---
 title: Bees Vs Wasps Vs Hornets
-description: What're the differences between bees vs. wasps vs. hornets ? If 
-  you've seen a flying insect that's black and yellow in the yard
+description: What're the differences between bees vs. wasps vs. hornets ? If you've
+  seen a flying insect that's black and yellow in the yard
 slug: /bees-vs-wasps-vs-hornets/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Bees
@@ -14,7 +14,6 @@ tags:
 - bee
 - wasp
 layout: post
-
 ---
 What're the differences between [bees](https://pestpolicy.com/compare-carpenter-bee-vs-bumblebee/)vs. wasps vs. [hornets](https://www.nationalgeographic.com/animals/invertebrates/group/hornets/)?If you've seen a flying insect that's black and yellow in the yard - it could cause one of these bugs or yellow jackets. They have different behaviors, diet, nesting habits, & aggressiveness.
 

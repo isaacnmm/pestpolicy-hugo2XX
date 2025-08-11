@@ -4,8 +4,8 @@ description: Painting is never an easy job especially when you have to do a budg
   involving painting material and the best airless paint sprayer under 500. It is
   still...
 slug: /best-airless-paint-sprayer-under-500/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Sprayers

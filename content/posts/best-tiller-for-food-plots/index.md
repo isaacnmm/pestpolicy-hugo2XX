@@ -4,8 +4,8 @@ description: When it comes to preparing food plots, having the right tiller can 
   all the difference. Whether youre planting a garden for personal use or working
   on a...
 slug: /best-tiller-for-food-plots/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Guide

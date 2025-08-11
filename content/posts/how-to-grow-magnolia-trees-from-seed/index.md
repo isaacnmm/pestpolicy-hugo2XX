@@ -3,8 +3,8 @@ title: How to Grow Magnolia Trees from Seed
 description: Magnolia trees, with their magnificent, often fragrant blooms and stately
   presence, are among the most revered flowering trees in many landscapes.
 slug: /how-to-grow-magnolia-trees-from-seed/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Guides

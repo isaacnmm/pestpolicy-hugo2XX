@@ -4,8 +4,8 @@ description: The vast majority of residential homes across North America and man
   other regions are equipped with 5-inch gutters. This standard size is generally
   adequate...
 slug: /best-5-inch-gutter-guards/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Gutters

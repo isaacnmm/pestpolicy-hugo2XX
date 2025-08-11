@@ -4,8 +4,8 @@ description: When starting on a fiberglass painting project , the question of wh
   primer is necessary often comes to mind. In this comprehensive article, we will
   delve...
 slug: /can-you-paint-fiberglass-without-primer/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - DIY Paintings

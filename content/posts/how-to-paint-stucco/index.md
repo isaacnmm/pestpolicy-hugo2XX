@@ -3,8 +3,8 @@ title: How to Paint Stucco
 description: Owning a Stucco home will not only make you stand out among others but
   also boost your self-esteem. However, painting Stucco with Acrylic latex great color...
 slug: /how-to-paint-stucco/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - DIY Paintings

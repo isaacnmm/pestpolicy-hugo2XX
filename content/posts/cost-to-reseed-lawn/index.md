@@ -4,8 +4,8 @@ description: Even the most well-maintained lawns can eventually show signs of we
   and tear, whether it's from heavy foot traffic, environmental stressors, or the
   natural...
 slug: /cost-to-reseed-lawn/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Lawn Care

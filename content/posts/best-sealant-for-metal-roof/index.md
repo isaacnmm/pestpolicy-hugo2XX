@@ -3,8 +3,8 @@ title: Best Sealant for Metal Roof
 description: What's the best sealant for metal roof? If you intend to achieve a perfect
   finish on your metallic roofing task, then you'll need to choose the best sealant...
 slug: /best-sealant-for-metal-roof/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Paint

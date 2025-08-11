@@ -3,8 +3,8 @@ title: Brighten Up Your Winter Garden With Berries
 description: As the vibrancy of summer and autumn fades, many gardens in temperate
   climates can become stark and muted, leaving behind bare branches and dormant beds.
 slug: /brighten-up-your-winter-garden-with-berries/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Guides

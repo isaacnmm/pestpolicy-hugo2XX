@@ -4,8 +4,8 @@ description: Most folks can achieve a bedbug-free home for less than 200-300 ove
   2-3 months with some diligence. If done correctly, you shouldnt see bed bugs after
   2-3...
 slug: /crossfire-for-bed-bugs/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Bed Bugs

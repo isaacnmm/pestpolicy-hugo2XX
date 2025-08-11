@@ -4,8 +4,8 @@ description: If you own a high volume low pressure HVLP spray painter-paint  the
   appropriate paint thinning is paramount in order to attain excellent paint flow
   rate and...
 slug: /how-to-thin-latex-paint-for-hvlp/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - DIY Paintings

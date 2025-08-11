@@ -4,8 +4,8 @@ description: Tetherball is a classic backyard game that injects competitive ener
   and lively fun into any outdoor gathering. Simple in its core premise yet engaging
   in...
 slug: /how-to-play-tetherball/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Lawn Care

@@ -2,8 +2,8 @@
 title: Best Tick Collars for Dogs
 description: Tick treatments in dogs come in all forms
 slug: /best-tick-collars-for-dogs/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Product Reviews
@@ -13,7 +13,6 @@ tags:
 - best
 - tick
 layout: post
-
 ---
 Tick treatments in dogs come in all forms - from shampoos, sprays, collars, serums to tick wipes. But dogs' [best](https://pestpolicy.com/best-tick-shampoo-for-dogs/)tick collars remain a popular choice for preventing and [killing tick infestations](https://pestpolicy.com/best-tick-killer-for-yard/).They are both simple to use and have a long residue effect lasting up to 7 months.
 

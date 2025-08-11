@@ -2,8 +2,8 @@
 title: How to Remove Paint from Metal Door
 description: In this guide, Ill show you how to remove paint from the metal door
 slug: /how-to-remove-paint-from-metal-door/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - DIY Paintings
@@ -12,7 +12,6 @@ tags:
 - paint
 - metal
 layout: post
-
 ---
 In this guide, Ill show you how to remove paint from the [metal](https://pestpolicy.com/can-you-use-acrylic-paint-on-metal/)door - [paint](https://pestpolicy.com/how-to-remove-paint-from-metal-railing/)that maybe landed there on purpose or from [errant paint drips and splatters](https://www.artcons.udel.edu/mitra/Documents/MITRA_Mediums_and_Additives.pdf).
 

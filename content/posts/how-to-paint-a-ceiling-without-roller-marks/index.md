@@ -4,8 +4,8 @@ description: Perhaps you have come across a ceiling with roller marks and wonder
   to eliminate them when painting, and you're wondering how to beautify your room
   . On...
 slug: /how-to-paint-a-ceiling-without-roller-marks/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - DIY Paintings

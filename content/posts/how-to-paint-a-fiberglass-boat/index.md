@@ -3,8 +3,8 @@ title: How to Paint a Fiberglass Boat
 description: But how do you paint a fiberglass boathttpsen.wikipedia.orgwikiFiberglass
   ? Which is the correct approach in the case of paint restoration?
 slug: /how-to-paint-a-fiberglass-boat/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - DIY Paintings

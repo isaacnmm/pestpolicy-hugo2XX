@@ -3,8 +3,8 @@ title: Shower Wall Panels
 description: For decades, ceramic tile has reigned supreme as the go-to material for
   shower walls. Its durability and aesthetic versatility have made it a classic choice.
 slug: /shower-wall-panels/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Improvement

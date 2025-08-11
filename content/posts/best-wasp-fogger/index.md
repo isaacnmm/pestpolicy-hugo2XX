@@ -1,10 +1,10 @@
 ---
 title: Best Wasp Fogger
-description: A wasp infestation could be such frustration in your place, 
-  especially if no lasting solution is put into place
+description: A wasp infestation could be such frustration in your place, especially
+  if no lasting solution is put into place
 slug: /best-wasp-fogger/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Product Reviews
@@ -14,7 +14,6 @@ tags:
 - wasp
 - fogger
 layout: post
-
 ---
 A wasp infestation could be such frustration in your place, especially if no lasting solution is put into place - try the best wasp fogger. Foggers are commercial [wasp](https://pestpolicy.com/best-wasp-spray/)killers that not only eliminate the infestation but also inhibit future infestation.
 

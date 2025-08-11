@@ -3,8 +3,8 @@ title: Best Vocal Mic Under 200
 description: Looking for thebest vocal mic under 200? Getting excellent voice recordings
   depends on the quality of the vocal mic you use. But you dont have to break a bank...
 slug: /best-vocal-mic-under-200/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Mics

@@ -1,10 +1,10 @@
 ---
 title: Lizard Skin Vs Dynamat
-description: Road noise in a car may be one of the most distracting, or rather 
-  irritating things about driving
+description: Road noise in a car may be one of the most distracting, or rather irritating
+  things about driving
 slug: /lizard-skin-vs-dynamat/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Soundproofing
@@ -13,7 +13,6 @@ tags:
 - lizard
 - skin
 layout: post
-
 ---
 Road noise in a car may be one of the most distracting, or rather irritating things about driving - [Lizard](https://pestpolicy.com/are-lizards-poisonous/)Skin Vs Dynamat.
 

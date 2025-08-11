@@ -1,10 +1,10 @@
 ---
 title: Best Cordless Cultivators for a Small Garden
-description: While gas-powered tillers may offer more raw power, corded tillers 
-  remain a popular choice for many gardeners
+description: While gas-powered tillers may offer more raw power, corded tillers remain
+  a popular choice for many gardeners
 slug: /best-cordless-cultivators-for-a-small-garden/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Product Reviews
@@ -14,7 +14,6 @@ tags:
 - best
 - cordle
 layout: post
-
 ---
 While gas-powered tillers may offer more raw power, corded tillers remain a popular choice for many gardeners - especially those tending smaller plots. Their lightweight design, ease of use, and consistent performance make them a practical option. Plus, without the hassle of fuel or battery limitations, they provide [reliable tilling](https://pestpolicy.com/[best](https://pestpolicy.com/best-cordless-paint-sprayers/)-garden-tiller-for-a-woman/)whenever you need it.
 

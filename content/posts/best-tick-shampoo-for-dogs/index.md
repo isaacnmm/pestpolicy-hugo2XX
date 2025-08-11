@@ -4,8 +4,8 @@ description: Hugging and interacting with your dog provides a relieving experien
   for many people. Ticks and mites cause diseases like skin lesions or blood depletion,
   or...
 slug: /best-tick-shampoo-for-dogs/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Product Reviews

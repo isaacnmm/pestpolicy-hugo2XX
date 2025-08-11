@@ -3,8 +3,8 @@ title: Best Folding Ladders for Painters
 description: It is practically impossible to accomplish a painting task without sourcing
   for a strong and stable ladder or telescoping ladders . If you are painting a...
 slug: /best-folding-ladders-for-painters/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Paint

@@ -3,8 +3,8 @@ title: Recycling Your Christmas Tree
 description: As the festive season winds down, and the twinkling lights come off,
   the question often arises what do you do with your Christmas tree?
 slug: /recycling-your-christmas-tree/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Guides

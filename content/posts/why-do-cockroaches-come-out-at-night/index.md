@@ -3,8 +3,8 @@ title: Why Do Cockroaches Come Out at Night
 description: Waking up at the midnight hour for nature's call or a midnight craving
   and finding a big roach challenging your way with even bigger tentacles, could send...
 slug: /why-do-cockroaches-come-out-at-night/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Guide

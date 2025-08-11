@@ -3,8 +3,8 @@ title: Best Fiberglass Boat Cleaner
 description: When your fiberglass boat is paintedhttpspestpolicy.comhow-to-paint-a-fiberglass-boat
   and clean, it smoothly sails over the water faster and faster, thereby...
 slug: /best-fiberglass-boat-cleaner/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Product Reviews

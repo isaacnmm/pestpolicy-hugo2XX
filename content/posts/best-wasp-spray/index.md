@@ -3,8 +3,8 @@ title: Best Wasp Spray
 description: To defeat wasps colonies in your house or compound, youll need to acquire
   the best wasp spray. This is important, as wasps can be a nuisance at home,...
 slug: /best-wasp-spray/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Product Reviews

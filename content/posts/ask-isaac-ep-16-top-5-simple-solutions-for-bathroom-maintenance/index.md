@@ -3,8 +3,8 @@ title: Ask Isaac Ep 16 Top 5 Simple Solutions for Bathroom Maintenance
 description: Welcome to Ask Isaac, Episode 16! Today, we're tackling one of the most
   frequently asked-about areas of the home the bathroom.
 slug: /ask-isaac-ep-16-top-5-simple-solutions-for-bathroom-maintenance/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Maintenance

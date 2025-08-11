@@ -3,8 +3,8 @@ title: Best Dynamic Microphone for Podcasting
 description: Hence, your pick can break or make your podcast. The best dynamic microphone
   for podcasting should be easy to use and capable of isolating the sound in front...
 slug: /best-dynamic-microphone-for-podcasting/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Mics

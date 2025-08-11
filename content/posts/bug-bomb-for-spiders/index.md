@@ -4,8 +4,8 @@ description: Spiders can be a real nuisance, especially when they start multiply
   and hiding in every corner of your home. Regular sprays and traps might not cut
   it for...
 slug: /bug-bomb-for-spiders/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Product Reviews

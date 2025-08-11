@@ -3,8 +3,8 @@ title: 10 Winter Landscaping Ideas to Spruce Up Your Outdoor Space
 description: As the vibrant colors of spring and summer recede, and the lushness of
   autumn gives way to cooler temperatures, many gardens can appear stark and dormant.
 slug: /10-winter-landscaping-ideas-to-spruce-up-your-outdoor-space/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Guides
@@ -15,7 +15,6 @@ tags:
 - landscaping
 layout: post
 ---
-
 As the vibrant colors of spring and summer recede, and the lushness of autumn gives way to cooler temperatures, many gardens can appear stark and dormant. In regions experiencing true [winter](https://pestpolicy.com/brighten-up-your-winter-garden-with-berries/), snow and bare branches dominate the landscape.
 
 Even in climates like Nairobi, where "winter" is primarily a cooler, drier period rather than a snowy one, the garden's energy shifts, and many plants are less floriferous.

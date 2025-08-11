@@ -3,8 +3,8 @@ title: Best Headphones for Kids
 description: Finding the perfect headphones for kids involves more than just picking
   a pair with vibrant colors. Factors like comfort, durability, safety, and sound...
 slug: /best-headphones-for-kids/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Guide

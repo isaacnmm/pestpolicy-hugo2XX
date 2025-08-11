@@ -3,8 +3,8 @@ title: Best Do It Yourself Lawn Care
 description: For many homeowners, maintaining a beautiful lawn is a source of pride
   and enjoyment. While professional lawn care services offer convenience, a growing...
 slug: /best-do-it-yourself-lawn-care/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Lawn Care

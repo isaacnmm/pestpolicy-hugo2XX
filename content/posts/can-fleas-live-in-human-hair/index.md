@@ -1,10 +1,10 @@
 ---
 title: Can Fleas Live in Human Hair
-description: Flea bites on humans-bite-humans from cat fleas, dog fleas, rat 
-  fleas cause irritation, itching, pain, and distress
+description: Flea bites on humans-bite-humans from cat fleas, dog fleas, rat fleas
+  cause irritation, itching, pain, and distress
 slug: /can-fleas-live-in-human-hair/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Fleas
@@ -14,7 +14,6 @@ tags:
 - flea
 - live
 layout: post
-
 ---
 Flea bites on humans-bite-humans/) from cat fleas, dog fleas, rat fleas cause irritation, itching, pain, and distress - they'll bite calves, ankles, lower legs, and feet. But are flea bites on the human scalp common? Can these pests create a permanent residence in your hair? So, *can fleas [live](https://pestpolicy.com/can-fleas-live-on-clothes/)in human hair?
 

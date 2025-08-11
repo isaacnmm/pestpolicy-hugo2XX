@@ -3,8 +3,8 @@ title: Running Shoes Vs Walking Shoes for Weight Loss
 description: For heavy females, choosing the right walking or running shoes is not
   an easy task. This is particularly s due to the many brands, colors, cushioning...
 slug: /running-shoes-vs-walking-shoes-for-weight-loss/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - walking Shoes

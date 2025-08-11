@@ -3,8 +3,8 @@ title: Does Garlic Kill Fleas on Cats
 description: Cats bring joy and purrs to our lives, and keeping them healthy and pest-free
   is a top priority. Fleas, however, can be pesky nuisances that cause discomfort...
 slug: /does-garlic-kill-fleas-on-cats/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Fleas

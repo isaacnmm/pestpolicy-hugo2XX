@@ -4,8 +4,8 @@ description: It's always tricky to choose non-slip waitress shoes, that are dres
   code policy compliant, for servers who hoist heavy plates and trays in fast food
   joints &...
 slug: /best-shoes-for-waitressing/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Shoes

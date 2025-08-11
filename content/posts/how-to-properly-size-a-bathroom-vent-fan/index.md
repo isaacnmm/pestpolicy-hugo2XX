@@ -4,8 +4,8 @@ description: The bathroom is arguably the most humid room in any home. Without p
   ventilation, the constant moisture from showers, baths, and sinks can quickly lead
   to...
 slug: /how-to-properly-size-a-bathroom-vent-fan/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Home Maintenance

@@ -1,10 +1,10 @@
 ---
 title: Logitech Wireless F710 Gamepad
-description: The Logitech Wireless f710 Gamepad is easy to pick a Wireless PC 
-  controller but it will be very difficult to put away.
+description: The Logitech Wireless f710 Gamepad is easy to pick a Wireless PC controller
+  but it will be very difficult to put away.
 slug: /logitech-wireless-f710-gamepad/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Controllers
@@ -13,7 +13,6 @@ tags:
 - logitech
 - wirele
 layout: post
-
 ---
 The Logitech Wireless f710 Gamepad is easy to pick a Wireless PC controller but it will be very difficult to put away. - F710 is a wireless gamepad for Windows PCs and it uses the Nano USB receiver. [Logitech](https://www.logitechg.com/en-us)was the first innovator of gamepads and they have done some good developments with their new models, particularly the f710.
 

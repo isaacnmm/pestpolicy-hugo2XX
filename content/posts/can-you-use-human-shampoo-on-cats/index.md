@@ -4,8 +4,8 @@ description: Cats love that clean life, they'll grom their skin regularly removi
   any dirt, dead skin, or loose fur. But, if you're to clean off piles of mud from
   the...
 slug: /can-you-use-human-shampoo-on-cats/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Fleas

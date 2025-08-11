@@ -3,8 +3,8 @@ title: Do Spiders Eat Bed Bugs
 description: A bed bug infestation in your spaces may be challenging to control  you'll
   require professional help and top-quality bedbug control equipment and natural bed...
 slug: /do-spiders-eat-bed-bugs/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Bed Bugs

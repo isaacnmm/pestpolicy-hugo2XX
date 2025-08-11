@@ -3,8 +3,8 @@ title: Soundproof Barn Doors
 description: In this post, I'll be discussing how soundproof barn doors in your home
   easily and cheaply. Definitely, Barn Doors will let a lot of noise get through these...
 slug: /soundproof-barn-doors/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Soundproofing

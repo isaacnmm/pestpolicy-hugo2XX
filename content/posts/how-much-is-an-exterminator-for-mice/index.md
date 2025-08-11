@@ -3,8 +3,8 @@ title: How Much is an Exterminator for Mice
 description: If you have a mouse infestation in your home, you may be wondering how
   much it will cost to hire an exterminator to handle the problem.
 slug: /how-much-is-an-exterminator-for-mice/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Guide

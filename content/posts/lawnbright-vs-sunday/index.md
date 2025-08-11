@@ -3,8 +3,8 @@ title: Lawnbright Vs Sunday
 description: In an era where homeowners are increasingly seeking sustainable and convenient
   solutions for their outdoor spaces, the traditional model of professional lawn...
 slug: /lawnbright-vs-sunday/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Lawn Care

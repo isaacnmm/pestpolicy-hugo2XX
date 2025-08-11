@@ -3,8 +3,8 @@ title: Removing Concrete Sealer With Muriatic Acid
 description: Removing concrete sealer can be a tough task, especially when you want
   to restore the original appearance of your concrete surfaces.
 slug: /removing-concrete-sealer-with-muriatic-acid/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Guide

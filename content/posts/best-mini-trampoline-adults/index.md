@@ -4,8 +4,8 @@ description: Best Mini Trampoline for Adults offer excellent exercise option tha
   any adult might want to engage. Mini Trampolines for exercise or rebounder trampolines
   as...
 slug: /best-mini-trampoline-adults/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Guide

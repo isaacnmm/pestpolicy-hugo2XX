@@ -3,8 +3,8 @@ title: Rodent Control in Everett
 description: Everett, Washington, with its beautiful landscapes and thriving community,
   is a wonderful place to live. However, like any city, it faces challenges with...
 slug: /rodent-control-in-everett/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Everett

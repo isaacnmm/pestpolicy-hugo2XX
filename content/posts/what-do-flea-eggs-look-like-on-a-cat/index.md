@@ -1,10 +1,10 @@
 ---
 title: What Do Flea Eggs Look Like on a Cat
-description: If you are a pet lover, you have to be very keen on identifying 
-  fleas from them. What do flea eggs look like on a cat?
+description: If you are a pet lover, you have to be very keen on identifying fleas
+  from them. What do flea eggs look like on a cat?
 slug: /what-do-flea-eggs-look-like-on-a-cat/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Fleas
@@ -14,7 +14,6 @@ tags:
 - flea
 - egg
 layout: post
-
 ---
 If you are a pet lover, you have to be very keen on identifying [fleas](https://pestpolicy.com/flea-eggs-vs-dandruff/)from them. What do [flea](https://pestpolicy.com/how-long-do-flea-eggs-take-to-hatch/)eggs look like on a cat? - Fleas eggs are[very tiny in size](https://entnemdept.ufl.edu/creatures/urban/occas/catflea.htm).They are also shiny and visible with human eyes. They are approximately 0. 019 by 0.
 

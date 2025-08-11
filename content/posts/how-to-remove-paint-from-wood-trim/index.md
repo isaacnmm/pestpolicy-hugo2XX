@@ -3,8 +3,8 @@ title: How to Remove Paint from Wood Trim
 description: Heres how to remove paint from wood trim. After several paint jobs in
   your home, the interior wood trim can become encrusted with several layers of paint,...
 slug: /how-to-remove-paint-from-wood-trim/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - DIY Paintings

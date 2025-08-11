@@ -3,8 +3,8 @@ title: Best Electric Riding Lawn Mowers
 description: Electric riding lawn mowers represent a significant leap forward in residential
   and light-commercial lawn maintenance. Gone are the days of noisy,...
 slug: /best-electric-riding-lawn-mowers/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Lawn Mowers

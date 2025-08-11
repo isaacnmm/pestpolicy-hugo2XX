@@ -3,8 +3,8 @@ title: Bed Bug Treatment in Everett
 description: Bed bugs, though small, can cause big problems in homes and businesses.
   Everett, Washington, known for its scenic beauty and community spirit, is not immune...
 slug: /bed-bug-treatment-in-everett/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Bed Bugs

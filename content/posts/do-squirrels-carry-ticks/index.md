@@ -3,8 +3,8 @@ title: Do Squirrels Carry Ticks
 description: Squirrels are part of the bigger rodents family . They are prone to pests
   and parasites but do squirrels carry ticks? Do Squirrels Carry Ticks?
 slug: /do-squirrels-carry-ticks/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Guide

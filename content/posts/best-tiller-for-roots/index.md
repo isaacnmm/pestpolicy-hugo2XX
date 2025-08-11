@@ -2,8 +2,8 @@
 title: Best Tiller for Roots
 description: I've reviewed the best tiller for roots
 slug: /best-tiller-for-roots/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Tillers
@@ -12,7 +12,6 @@ tags:
 - tiller
 - root
 layout: post
-
 ---
 I've reviewed the best tiller for roots - including for chopping roots, weeds, or loosen soil and remove the grass with the tiller. A right [tiller](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5543968/)gives you a consistent level and allows a uniform planting depth that eventually provides uniform germination for grass or vegetable.
 

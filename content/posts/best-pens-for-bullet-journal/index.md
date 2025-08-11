@@ -3,8 +3,8 @@ title: Best Pens for Bullet Journal
 description: Using the right pen for your bullet journal can make all the difference.
   Whether youre a beginner or a seasoned bullet journal enthusiast, having...
 slug: /best-pens-for-bullet-journal/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Guide

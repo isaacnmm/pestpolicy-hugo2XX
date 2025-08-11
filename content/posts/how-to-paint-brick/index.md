@@ -3,8 +3,8 @@ title: How to Paint Brick
 description: Perhaps you own a brick home or a wall structure and you intend to improve
   it's outlook impression, then, painting is the best option to consider. Wrong...
 slug: /how-to-paint-brick/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - DIY Paintings

@@ -3,8 +3,8 @@ title: How Big Are Bed Bugs
 description: How big are bed bugs? Bed bug bites are painful and cause excessive irritating
   , but most of us don't know the bug's appearance, shape, size, and color. So,...
 slug: /how-big-are-bed-bugs/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Bed Bugs

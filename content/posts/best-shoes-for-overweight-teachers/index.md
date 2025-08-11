@@ -4,8 +4,8 @@ description: Overweight teachers need comfortable yet stylish footwear for every
   use. Hence, Ive reviewed some of the Best Shoes For Overweight Teachers. Teaching
   is a...
 slug: /best-shoes-for-overweight-teachers/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Work Shoes

@@ -3,8 +3,8 @@ title: Can You Paint Over Caulk Without Primer
 description: Have you ever wondered whether you can paint over caulk without using
   primer ? If you've encountered cracks or gaps in your caulking job and want to refresh...
 slug: /can-you-paint-over-caulk-without-primer/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - DIY Paintings

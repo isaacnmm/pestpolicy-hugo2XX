@@ -3,8 +3,8 @@ title: Best Garage Floor Containment Mats
 description: The best garage floor containment mats play a vital role in protecting
   your garage floor from damaging factors like water, snow any other element.
 slug: /best-garage-floor-containment-mats/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Paint

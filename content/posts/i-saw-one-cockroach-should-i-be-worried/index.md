@@ -4,8 +4,8 @@ description: Whenever you spot a cockroach in your house, the first thing that m
   come to your mind is whether you might have a roach infestation.Well, roaches bring
   a...
 slug: /i-saw-one-cockroach-should-i-be-worried/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Guide

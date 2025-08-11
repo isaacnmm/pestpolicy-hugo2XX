@@ -3,8 +3,8 @@ title: How to Spray Paint Metal
 description: Spray painting metal can be a simple and effective way to refresh the
   appearance of metal surfaces or add a protective coating.
 slug: /how-to-spray-paint-metal/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Guide

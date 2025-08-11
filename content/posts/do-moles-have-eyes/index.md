@@ -4,8 +4,8 @@ description: From an outward look, moles appear not to have eyes! But how do the
   manage to dig tunnels and destroy our gardens? Moles will do anything that is done
   by...
 slug: /do-moles-have-eyes/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Guide

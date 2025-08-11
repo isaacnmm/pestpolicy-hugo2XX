@@ -3,8 +3,8 @@ title: Termite Prevention
 description: In this article, I've outlined some termite prevention tips to help protect
   your structures from termites. Active fight against termites , including termite...
 slug: /termite-prevention/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Guide

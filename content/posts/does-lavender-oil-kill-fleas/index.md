@@ -3,8 +3,8 @@ title: Does Lavender Oil Kill Fleas
 description: Lavender oil is often praised for its calming scent and various health
   benefits, but can it also help in getting rid of fleas?
 slug: /does-lavender-oil-kill-fleas/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Guide

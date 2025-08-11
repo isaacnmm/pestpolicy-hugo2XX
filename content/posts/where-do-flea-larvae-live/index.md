@@ -4,8 +4,8 @@ description: Flea larvae are concentrated in places that pets sleep or relax lik
   carpet fibers. Also, the carpet fibers may hinder insecticides like foggers from
   easily...
 slug: /where-do-flea-larvae-live/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Fleas

@@ -1,10 +1,10 @@
 ---
 title: Can You Clean Hvlp With Acetone
-description: Are you wondering if it's safe to clean your HVLP High Volume Low 
-  Pressure spray gun with acetone? You've come to the right place!
+description: Are you wondering if it's safe to clean your HVLP High Volume Low Pressure
+  spray gun with acetone? You've come to the right place!
 slug: /can-you-clean-hvlp-with-acetone/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - DIY Paintings
@@ -13,7 +13,6 @@ tags:
 - hvlp
 - acetone
 layout: post
-
 ---
 Are you wondering if it's safe to clean your HVLP (High Volume Low Pressure) spray gun with [acetone](https://pestpolicy.com/does-acetone-remove-paint/)?You've come to the right place! - In this article, we'll explore the topic of cleaning [HVLP](https://pestpolicy.com/how-to-use-an-hvlp-paint-sprayer/)guns with acetone and provide you with all the essential information you need to make an informed decision.
 

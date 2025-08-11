@@ -4,8 +4,8 @@ description: In this article, I will discuss how to naturally control compared t
   other termite treatments  and eliminate termites without hiring a professional.
   Termites...
 slug: /top-7-natural-termite-control-can-easily/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Guide

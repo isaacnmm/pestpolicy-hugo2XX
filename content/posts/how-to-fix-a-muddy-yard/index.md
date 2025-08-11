@@ -4,8 +4,8 @@ description: A muddy yard is a common and frustrating problem for many homeowner
   What should be a lush, green space for relaxation and play can quickly turn into
   a...
 slug: /how-to-fix-a-muddy-yard/
-date: 2025-07-10 00:00:00+00:00
-lastmod: 2025-07-10 00:00:00+03:00
+date: '2025-08-10 00:00:00+00:00'
+lastmod: '2025-08-10 00:00:00+00:00'
 author: Isaac
 categories:
 - Lawn Care
