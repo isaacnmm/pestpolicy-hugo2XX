@@ -3,7 +3,7 @@ title: "DIY Bed Bug Treatment for a Single Room"
 description: "A professional's realistic guide to a single-room DIY bed bug treatment. Learn the intensive, step-by-step process and the critical reasons why DIY often fails."
 slug: /diy-bed-bug-treatment-for-a-single-room/
 date: '2025-08-15 00-00-00+00-00'
-lastmod: '2025-08-1s5 00-00-00+00-00'
+lastmod: '2025-08-15 00-00-00+00-00'
 author: Isaac
 categories:
 - Bed Bugs
