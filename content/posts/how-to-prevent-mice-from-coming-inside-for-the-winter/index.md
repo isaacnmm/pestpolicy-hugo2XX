@@ -2,7 +2,7 @@
 title: "How to Prevent Mice From Coming Inside for the Winter"
 description: "A pro's guide to winter mouse prevention. Learn the key entry points you must seal before the cold weather hits and the most effective methods to keep your home rodent-free."
 slug: /how-to-prevent-mice-from-coming-inside-for-the-winter/
-date: '2025-08-15 00-00-00+00-00
+date: '2025-08-15 00-00-00+00-00'
 lastmod: '2025-08-15 00-00-00+00-00'
 author: Isaac
 categories:
