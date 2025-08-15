@@ -2,7 +2,7 @@
 title: Kohler Rethinks Bathroom Medicine Cabinets With Maxstow Model
 description: For decades, the bathroom medicine cabinet has been a utilitarian staple  a
   simple mirrored box above the sink, designed for quick access to everyday...
-slug: /kohler-rethinks-bathroom-medicine-cabinets-with-maxstow-model/
+slug: kohler-rethinks-bathroom-medicine-cabinets-with-maxstow-model
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

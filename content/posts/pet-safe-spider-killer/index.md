@@ -2,7 +2,7 @@
 title: Pet Safe Spider Killer
 description: Though most spiders are harmless , species like black widow spiders and
   brown recluses are venomous .
-slug: /pet-safe-spider-killer/
+slug: pet-safe-spider-killer
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

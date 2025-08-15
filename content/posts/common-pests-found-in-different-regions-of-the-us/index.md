@@ -1,7 +1,7 @@
 ---
 title: "Common Pests Found in Different Regions of the US"
 description: "A pest control pro's guide to the most common pests in the Northeast, Southeast, Midwest, Southwest, and Pacific Northwest. Learn what to watch for in your region."
-slug: /common-pests-found-in-different-regions-of-the-us/
+slug: common-pests-found-in-different-regions-of-the-us
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

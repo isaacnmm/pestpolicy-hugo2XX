@@ -2,7 +2,7 @@
 title: Best Sectional Sofa for Family
 description: A family sofa must withstand the chaos of daily life, from rambunctious
   kids to playful pets, while still looking stylish enough to anchor your living space.
-slug: /best-sectional-sofa-for-family/
+slug: best-sectional-sofa-for-family
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

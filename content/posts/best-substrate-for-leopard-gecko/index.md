@@ -2,7 +2,7 @@
 title: Best Substrate for Leopard Gecko
 description: When choosing the best substrate for leopard geckos , you can consider
   things like safety, ease of cleaning, and comfort for your pet. The substrate is...
-slug: /best-substrate-for-leopard-gecko/
+slug: best-substrate-for-leopard-gecko
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

@@ -2,7 +2,7 @@
 title: How to Unclog a Bathroom Sink Drain
 description: Could you be having a stuffy or clogged bathroom sink drain ? How would
   you go about it knowing well that this might be a little bit frustrating, especially...
-slug: /how-to-unclog-a-bathroom-sink-drain/
+slug: how-to-unclog-a-bathroom-sink-drain
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

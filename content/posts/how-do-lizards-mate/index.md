@@ -2,7 +2,7 @@
 title: How Do Lizards Mate
 description: How Do Lizards Mate? Maybe you have pet lizards at home or have seen
   one and wishes to know how they mate. Do they court like human being before mating?
-slug: /how-do-lizards-mate/
+slug: how-do-lizards-mate
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

@@ -2,7 +2,7 @@
 title: Lawn Care Companies
 description: A healthy, vibrant lawn is the cornerstone of great curb appeal and an
   enjoyable outdoor space. However, achieving and maintaining that lush green carpet...
-slug: /lawn-care-companies/
+slug: lawn-care-companies
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

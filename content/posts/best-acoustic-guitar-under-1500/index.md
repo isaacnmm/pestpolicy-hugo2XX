@@ -3,7 +3,7 @@ title: Best Acoustic Guitar Under 1500
 description: Choosing the best acoustic guitar under 1500 is not simple. Youll have
   to consider the guitar material. You will often find yourself stuck between the
   price...
-slug: /best-acoustic-guitar-under-1500/
+slug: best-acoustic-guitar-under-1500
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

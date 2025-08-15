@@ -2,7 +2,7 @@
 title: What Do Bed Bugs Eat
 description: Bed bugs have many predators . So might wonder that bed bugs eat a variety
   of foods
-slug: /what-do-bed-bugs-eat/
+slug: what-do-bed-bugs-eat
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

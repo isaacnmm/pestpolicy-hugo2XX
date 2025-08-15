@@ -2,7 +2,7 @@
 title: Best Mini Trampoline for Kids
 description: The Best Mini Trampoline for Kids will prompt your kids to abandon their
   screen time and become more physical outside. The best part is that trampolines...
-slug: /best-mini-trampoline-for-kids/
+slug: best-mini-trampoline-for-kids
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

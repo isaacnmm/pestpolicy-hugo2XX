@@ -2,7 +2,7 @@
 title: Does Goo Gone Remove Paint
 description: Paint removal has been a big challenge for the home user. People have
   come up with many ways of cleaning paint from various surfaces.
-slug: /does-goo-gone-remove-paint/
+slug: does-goo-gone-remove-paint
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

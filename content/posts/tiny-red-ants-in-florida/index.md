@@ -2,7 +2,7 @@
 title: Tiny Red Ants in Florida
 description: Most homeowners in Florida have experienced the tiny Red Ants challenge
   this is among other 49 ant species such as red fire ant, carpenter ant , and ghost...
-slug: /tiny-red-ants-in-florida/
+slug: tiny-red-ants-in-florida
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

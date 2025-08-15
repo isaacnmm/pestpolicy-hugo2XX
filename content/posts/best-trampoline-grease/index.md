@@ -2,7 +2,7 @@
 title: Best Trampoline Grease
 description: If you want the best functionality and durability for your trampoline,
   you need to get the Best Trampoline Grease. Most trampolines squeak and its a nuisance...
-slug: /best-trampoline-grease/
+slug: best-trampoline-grease
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

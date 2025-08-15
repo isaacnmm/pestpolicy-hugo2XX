@@ -3,7 +3,7 @@ title: How Long Does It Take to Paint a House Interior
 description: Painting the interior of a house is a rewarding project that transforms
   living spaces, adding vibrancy and freshness. However, many homeowners wonder how
   long...
-slug: /how-long-does-it-take-to-paint-a-house-interior/
+slug: how-long-does-it-take-to-paint-a-house-interior
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

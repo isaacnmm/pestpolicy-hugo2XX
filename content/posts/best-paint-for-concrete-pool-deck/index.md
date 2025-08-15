@@ -3,7 +3,7 @@ title: Best Paint for Concrete Pool Deck
 description: Sprucing up your concrete pool deck is now more comfortable with the
   availability of different leading paint products in the market, capable of changing
   your...
-slug: /best-paint-for-concrete-pool-deck/
+slug: best-paint-for-concrete-pool-deck
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

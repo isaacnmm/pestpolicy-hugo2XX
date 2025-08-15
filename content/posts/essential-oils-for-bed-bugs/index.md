@@ -2,7 +2,7 @@
 title: Essential Oils for Bed Bugs
 description: Essential oils for bed bugs? Make a list of natural treatments for bed
   bugs. Whenever conventional bed bug treatments fail, many homeowners opt for natural...
-slug: /essential-oils-for-bed-bugs/
+slug: essential-oils-for-bed-bugs
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

@@ -3,7 +3,7 @@ title: What Does a Garden Lizard Eat
 description: What Does a Garden Lizard Eat? A garden lizard is a great reptile pet
   for homeowners. These reptiles Calotes Veriscolor  also known as oriental garden
   lizards...
-slug: /what-does-a-garden-lizard-eat/
+slug: what-does-a-garden-lizard-eat
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

@@ -3,7 +3,7 @@ title: How to Remove Paint from Wooden Floor
 description: Accidentally spilling paint on your wooden floor can be frustrating,
   but its not the end of the world. Whether its from a paint can, brush, or roller,
   you can...
-slug: /how-to-remove-paint-from-wooden-floor/
+slug: how-to-remove-paint-from-wooden-floor
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

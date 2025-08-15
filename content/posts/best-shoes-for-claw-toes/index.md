@@ -2,7 +2,7 @@
 title: Best Shoes for Claw Toes
 description: Which are the Best Shoes for Claw Toes? Well, if you have claw toes you
   need supportive, comfortable, and well-cushioned shoes.
-slug: /best-shoes-for-claw-toes/
+slug: best-shoes-for-claw-toes
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

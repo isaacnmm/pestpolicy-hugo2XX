@@ -2,7 +2,7 @@
 title: Bed Bug Control in Salem
 description: Bed bugs are persistent pests that can infest homes, hotels, and other
   dwellings in Salem, OR. Effective bed bug control involves thorough inspection,...
-slug: /bed-bug-control-in-salem/
+slug: bed-bug-control-in-salem
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

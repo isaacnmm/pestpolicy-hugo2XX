@@ -2,7 +2,7 @@
 title: Samsung Evo Plus Review for Your Raspberry Pi
 description: Samsung Evo32 GB is Samsungs innovative and top-performing MicroSD Memory
   Card that is suitable for your Raspberry Pi.
-slug: /samsung-evo-plus-review-for-your-raspberry-pi/
+slug: samsung-evo-plus-review-for-your-raspberry-pi
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

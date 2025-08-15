@@ -2,7 +2,7 @@
 title: Are Bed Bug Eggs Hard or Soft
 description: Are bed bug eggs hard or soft? Are they hard or soft? This is a question
   you might be asking in an attempt to figure out whether the substances youre seeing...
-slug: /are-bed-bug-eggs-hard-or-soft/
+slug: are-bed-bug-eggs-hard-or-soft
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

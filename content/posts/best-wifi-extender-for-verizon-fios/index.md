@@ -2,7 +2,7 @@
 title: Best Wifi Extender for Verizon Fios
 description: Are you looking for the best Wifi Extenderhttpsen.wikipedia.orgwikiEthernetextender
   for Verizon FiOS? Well, a great one will excellently extend the internet...
-slug: /best-wifi-extender-for-verizon-fios/
+slug: best-wifi-extender-for-verizon-fios
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

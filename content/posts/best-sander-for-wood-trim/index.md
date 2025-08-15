@@ -3,7 +3,7 @@ title: Best Sander for Wood Trim
 description: By reading this article on the best sander for wood trim, you will get
   an efficient machine that helps cut down damage and power consumption costs. Your
   top...
-slug: /best-sander-for-wood-trim/
+slug: best-sander-for-wood-trim
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

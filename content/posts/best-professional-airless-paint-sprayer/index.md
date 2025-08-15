@@ -3,7 +3,7 @@ title: Best Professional Airless Paint Sprayer
 description: Paintbrushes, rollers, and the best professional airless paint sprayer
   are fantastic tools, especially when working on fences, multiple walls, and much
   more...
-slug: /best-professional-airless-paint-sprayer/
+slug: best-professional-airless-paint-sprayer
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

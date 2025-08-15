@@ -1,7 +1,7 @@
 ---
 title: How to Remove Paint from Metal Door
 description: In this guide, Ill show you how to remove paint from the metal door
-slug: /how-to-remove-paint-from-metal-door/
+slug: how-to-remove-paint-from-metal-door
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

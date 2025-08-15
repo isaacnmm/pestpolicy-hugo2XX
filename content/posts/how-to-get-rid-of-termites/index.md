@@ -2,7 +2,7 @@
 title: How to Get Rid Of Termites
 description: Know how to get rid of termites? Despite that, most homeowners prefer
   professional termite extermination
-slug: /how-to-get-rid-of-termites/
+slug: how-to-get-rid-of-termites
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

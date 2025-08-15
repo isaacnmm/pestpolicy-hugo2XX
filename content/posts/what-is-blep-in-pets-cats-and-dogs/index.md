@@ -2,7 +2,7 @@
 title: What is Blep in Pets Cats and Dogs
 description: Cats never cease to amaze with their adorable but sometimes bizarre behaviors.
   One such behavior is blep as described on the inter-webs, particularly among...
-slug: /what-is-blep-in-pets-cats-and-dogs/
+slug: what-is-blep-in-pets-cats-and-dogs
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

@@ -2,7 +2,7 @@
 title: How to Remove Ants from Carpet
 description: Ants are common household pests that you'll find in the strangest places
   like carpets or bathrooms. But how do you know how to remove ants from the carpet?
-slug: /how-to-remove-ants-from-carpet/
+slug: how-to-remove-ants-from-carpet
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

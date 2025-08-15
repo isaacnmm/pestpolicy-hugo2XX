@@ -2,7 +2,7 @@
 title: Propel Vs Skywalker Trampoline
 description: In this article, I will compare Propel Vs. Skywalker Trampoline. Buying
   a trampoline can be an overwhelming task because of the many brands on the market.
-slug: /propel-vs-skywalker-trampoline/
+slug: propel-vs-skywalker-trampoline
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

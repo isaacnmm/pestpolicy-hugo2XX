@@ -2,7 +2,7 @@
 title: Best Walking Shoes for Sweaty Feet
 description: If youre looking for the Best Walking Shoes for Sweaty Feet, this is
   the article for you. Sweaty feet can make one uncomfortable they provide a favorable...
-slug: /best-walking-shoes-for-sweaty-feet/
+slug: best-walking-shoes-for-sweaty-feet
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

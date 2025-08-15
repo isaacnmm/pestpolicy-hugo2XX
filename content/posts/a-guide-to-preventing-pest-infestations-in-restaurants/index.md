@@ -2,7 +2,7 @@
 title: A Guide to Preventing Pest Infestations in Restaurants
 description: Pests can be a major issue for restaurants, potentially leading to health
   code violations, reputation damage, and financial losses. Implementing a proactive...
-slug: /a-guide-to-preventing-pest-infestations-in-restaurants/
+slug: a-guide-to-preventing-pest-infestations-in-restaurants
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

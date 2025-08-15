@@ -2,7 +2,7 @@
 title: Best Stunt Scooter for 12 Year Old
 description: Are you looking for the Best Stunt Scooter For 12 Year Old? One thats
   durable, flexible, and delivers smooth performance?
-slug: /best-stunt-scooter-for-12-year-old/
+slug: best-stunt-scooter-for-12-year-old
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

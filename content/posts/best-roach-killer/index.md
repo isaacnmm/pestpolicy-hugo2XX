@@ -2,7 +2,7 @@
 title: Best Roach Killer
 description: Are you searching for the best cockroach killer? The search is over.In
   this pest policy guide, youll get to know my 1 rated cockroach killer, factors to...
-slug: /best-roach-killer/
+slug: best-roach-killer
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

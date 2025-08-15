@@ -2,7 +2,7 @@
 title: Does Acetone Remove Paint
 description: Do you have a house wall, car, or garage that's painted in some odd Rust-Oleum
   color? So, you're wondering, "does acetone remove paint?" The painting has no...
-slug: /does-acetone-remove-paint/
+slug: does-acetone-remove-paint
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

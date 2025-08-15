@@ -2,7 +2,7 @@
 title: How to Remove Paint from Walls
 description: Removing paint from walls can be a challenging task, whether youre dealing
   with old, peeling paint or want to repaint a room with a fresh color. With the...
-slug: /how-to-remove-paint-from-walls/
+slug: how-to-remove-paint-from-walls
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

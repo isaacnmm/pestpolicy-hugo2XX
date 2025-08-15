@@ -2,7 +2,7 @@
 title: Best Primer for Kitchen Cabinets
 description: Are you looking to facelift your kitchen cabinetshttpspestpolicy.combest-paint-for-kitchen-cabinets
   ? A primer is used as a preparatory coat on previously...
-slug: /best-primer-for-kitchen-cabinets/
+slug: best-primer-for-kitchen-cabinets
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

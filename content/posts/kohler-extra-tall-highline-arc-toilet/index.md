@@ -3,7 +3,7 @@ title: Kohler Extra Tall Highline Arc Toilet
 description: When selecting a new toilet, functionality, efficiency, and comfort are
   paramount. For many, a standard-height toilet can present challenges, especially
   for...
-slug: /kohler-extra-tall-highline-arc-toilet/
+slug: kohler-extra-tall-highline-arc-toilet
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

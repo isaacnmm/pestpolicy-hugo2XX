@@ -2,7 +2,7 @@
 title: Do Fleas Have Antennae
 description: Fleas are notorious for causing discomfort and irritation to both pets
   and humans. One common question people have about fleas is whether they have antennae.
-slug: /do-fleas-have-antennae/
+slug: do-fleas-have-antennae
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

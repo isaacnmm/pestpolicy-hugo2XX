@@ -2,7 +2,7 @@
 title: Do Flea Collars Work
 description: Current flea collars are more comfortable, adjustable, non-greasy with
   flexible designs. Manufactures claim flea collars will offer more extended flea...
-slug: /do-flea-collars-work/
+slug: do-flea-collars-work
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

@@ -2,7 +2,7 @@
 title: Bathroom Remodel Austin
 description: Austin, Texas, is a city known for its unique blend of culture, innovation,
   and a thriving housing market. In such a dynamic environment, a bathroom remodel...
-slug: /bathroom-remodel-austin/
+slug: bathroom-remodel-austin
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

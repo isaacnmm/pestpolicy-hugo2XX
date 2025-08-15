@@ -3,7 +3,7 @@ title: Best Roach Killer for Apartments
 description: Roaches enjoy living in dark places that have water and food like the
   pantry, bathrooms, and kitchens this could be many places in your apartment or house.
   -...
-slug: /best-roach-killer-for-apartments/
+slug: best-roach-killer-for-apartments
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

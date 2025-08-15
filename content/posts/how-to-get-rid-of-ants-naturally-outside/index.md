@@ -3,7 +3,7 @@ title: How to Get Rid Of Ants Naturally Outside
 description: The first and foremost step in killing ants is to identify their nests
   and try to destroy them. For this purpose, one can use boiling water, by pouring
   it...
-slug: /how-to-get-rid-of-ants-naturally-outside/
+slug: how-to-get-rid-of-ants-naturally-outside
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

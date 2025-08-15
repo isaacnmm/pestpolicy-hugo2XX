@@ -2,7 +2,7 @@
 title: Where to Place a Flea Trap for Maximum Results
 description: You've made a smart choice by getting a flea trap. It's a powerful, chemical-free
   tool in your fight against these pests.
-slug: /where-to-place-flea-trap/
+slug: where-to-place-flea-trap
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

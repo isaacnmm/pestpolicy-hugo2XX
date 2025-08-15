@@ -2,7 +2,7 @@
 title: Caulking Around Toilet
 description: It's a common dilemma in bathroom DIY after installing or re-setting
   a toilet, should you run a bead of caulk around its base where it meets the floor?
-slug: /caulking-around-toilet/
+slug: caulking-around-toilet
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

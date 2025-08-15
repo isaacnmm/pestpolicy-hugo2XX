@@ -2,7 +2,7 @@
 title: Best Detailer for Black Cars
 description: Maintaining the glossy, sleek appearance of a black car can be a challenge,
   especially with scratches and swirl marks. Choosing the right detailer for black...
-slug: /best-detailer-for-black-cars/
+slug: best-detailer-for-black-cars
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

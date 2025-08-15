@@ -2,7 +2,7 @@
 title: Wet and Forget Reviews
 description: If you need to remove moss, mold, and mildew stains on your outdoor surfaces,
   deck , driveway, and patio
-slug: /wet-and-forget-reviews/
+slug: wet-and-forget-reviews
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

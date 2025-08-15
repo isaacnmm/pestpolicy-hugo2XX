@@ -2,7 +2,7 @@
 title: September Lawn Garden to Do List
 description: September marks a pivotal transition in the garden and on the lawn. As
   the scorching heat of summer begins to fade and the crispness of autumn approaches,...
-slug: /september-lawn-garden-to-do-list/
+slug: september-lawn-garden-to-do-list
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

@@ -2,7 +2,7 @@
 title: Best Lawn Mower for Large Yard
 description: Definitely, when choosing the best lawn mower for large yard, deck size
   or yard slope must not be your only consideration. Thus, to easily mow your sprawling...
-slug: /best-lawn-mower-for-large-yard/
+slug: best-lawn-mower-for-large-yard
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

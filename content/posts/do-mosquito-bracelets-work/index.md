@@ -2,7 +2,7 @@
 title: Do Mosquito Bracelets Work
 description: Are you tired of swatting away pesky mosquitoes every time you step outside
   ? Do mosquito bites ruin your outdoor enjoyment?
-slug: /do-mosquito-bracelets-work/
+slug: do-mosquito-bracelets-work
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

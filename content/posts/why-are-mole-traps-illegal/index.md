@@ -3,7 +3,7 @@ title: Why Are Mole Traps Illegal
 description: Mole traps are notably inexpensive ways to control moles both in the
   UK and the United States. However, the use of mole traps is not lawful universally
   -...
-slug: /why-are-mole-traps-illegal/
+slug: why-are-mole-traps-illegal
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

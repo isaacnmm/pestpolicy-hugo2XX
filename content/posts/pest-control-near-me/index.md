@@ -3,7 +3,7 @@ title: Pest Control Near Me
 description: So if you're considering hiring a pest control companyhttpspestpolicy.com
   near you to undertake various bug extermination tasks in your house, office, or
   yard...
-slug: /pest-control-near-me/
+slug: pest-control-near-me
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

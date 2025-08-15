@@ -2,7 +2,7 @@
 title: Best Drain Cleaner
 description: Clogged drains can be a real hassle, causing foul odors, gurgling water,
   and overflowing sinks. Before you call a plumber, try these efficient, safe, and...
-slug: /best-drain-cleaner/
+slug: best-drain-cleaner
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

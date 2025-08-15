@@ -1,7 +1,7 @@
 ---
 title: House Lizard Lifespan
 description: House Lizard Lifespan
-slug: /house-lizard-lifespan/
+slug: house-lizard-lifespan
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

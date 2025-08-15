@@ -2,7 +2,7 @@
 title: Best Fogger for Mosquitoes
 description: Sometimes biting insects and mosquitoes have not made it easy to have
   some outdoor activity like picnics, barbeque, or camping .
-slug: /best-fogger-for-mosquitoes/
+slug: best-fogger-for-mosquitoes
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

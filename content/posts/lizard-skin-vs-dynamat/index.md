@@ -2,7 +2,7 @@
 title: Lizard Skin Vs Dynamat
 description: Road noise in a car may be one of the most distracting, or rather irritating
   things about driving
-slug: /lizard-skin-vs-dynamat/
+slug: lizard-skin-vs-dynamat
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

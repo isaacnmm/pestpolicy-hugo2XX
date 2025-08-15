@@ -3,7 +3,7 @@ title: What Do Fleas Look Like
 description: Fleas are small wingless insects that can be classified as parasites
   that are difficult to control. These insects predominantly live on small animals
   kept at...
-slug: /what-do-fleas-look-like/
+slug: what-do-fleas-look-like
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

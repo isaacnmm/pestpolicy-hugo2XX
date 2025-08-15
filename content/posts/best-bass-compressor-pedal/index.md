@@ -2,7 +2,7 @@
 title: Best Bass Compressor Pedal
 description: If you are interested in seamless music playing experience you might
   want to consider getting Best Bass Compressor Pedals.
-slug: /best-bass-compressor-pedal/
+slug: best-bass-compressor-pedal
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

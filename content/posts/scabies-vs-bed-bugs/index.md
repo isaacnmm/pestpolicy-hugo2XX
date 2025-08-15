@@ -2,7 +2,7 @@
 title: Scabies Vs Bed Bugs
 description: Bedbugs and scabies are parasites that'll bite and prey on humans. So,
   what are the differences between scabies vs. bed bugs
-slug: /scabies-vs-bed-bugs/
+slug: scabies-vs-bed-bugs
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

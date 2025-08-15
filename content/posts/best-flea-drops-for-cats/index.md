@@ -3,7 +3,7 @@ title: Best Flea Drops for Cats
 description: Searching for the best flea drops for cats can be an overwhelming task
   due to the many options available for sale online and at your local pet stores.
   You may...
-slug: /best-flea-drops-for-cats/
+slug: best-flea-drops-for-cats
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

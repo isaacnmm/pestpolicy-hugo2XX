@@ -2,7 +2,7 @@
 title: I5 6600k Vs I7 6700k
 description: Its common knowledge that the Core i7 is the ultimate solution for content
   creators. Skylake is 6 th Gen Intel CPU and is produced through a 14-nanometer...
-slug: /i5-6600k-vs-i7-6700k/
+slug: i5-6600k-vs-i7-6700k
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

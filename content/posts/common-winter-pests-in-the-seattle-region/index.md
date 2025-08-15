@@ -3,7 +3,7 @@ title: Common Winter Pests in the Seattle Region
 description: As winter approaches in the Seattle region, homeowners and businesses
   face the challenge of dealing with various pests seeking shelter from the cold.
   Here's a...
-slug: /common-winter-pests-in-the-seattle-region/
+slug: common-winter-pests-in-the-seattle-region
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

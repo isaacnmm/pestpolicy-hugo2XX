@@ -2,7 +2,7 @@
 title: Zhidong Controller Review
 description: The Zhidong Controller is a multi-modem both DirectInput and input. Besides,
   it is a plug-and-play device, particularly in the games supporting Xinput Mode.
-slug: /zhidong-controller-review/
+slug: zhidong-controller-review
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

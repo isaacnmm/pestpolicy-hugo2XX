@@ -2,7 +2,7 @@
 title: How to Remove Latex Paint from Concrete
 description: Unlike oil-based solutions , removing latex paint a water-soluble paint
   from concrete is much more comfortable. However, if you apply the wrong paint removal...
-slug: /how-to-remove-latex-paint-from-concrete/
+slug: how-to-remove-latex-paint-from-concrete
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

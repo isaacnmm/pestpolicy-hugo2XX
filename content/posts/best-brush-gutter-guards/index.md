@@ -1,7 +1,7 @@
 ---
 title: Best Brush Gutter Guards
 description: Best Brush Gutter Guards
-slug: /best-brush-gutter-guards/
+slug: best-brush-gutter-guards
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

@@ -2,7 +2,7 @@
 title: Best Riding Lawn Mower for Tall Grass
 description: Acquiring a new riding lawn mower is a huge investment. If youre a professional
   or DIY gardener looking for the best riding lawn mower for tall grass such as...
-slug: /best-riding-lawn-mower-for-tall-grass/
+slug: best-riding-lawn-mower-for-tall-grass
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

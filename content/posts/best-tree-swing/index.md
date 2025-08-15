@@ -3,7 +3,7 @@ title: Best Tree Swing
 description: After dedicating 36 hours into research and testing, we came up with
   a list of the Best Tree Swings that you can purchase right away. A tree swing offers
   a...
-slug: /best-tree-swing/
+slug: best-tree-swing
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

@@ -3,7 +3,7 @@ title: Pictures Of Bed Bugs
 description: Below Ive listed 99 imagespictures of bed bugs,including baby bed bugs
   , nymphs, fertilized females, eggs, and adults. When you consider controlling bed
   bugs ...
-slug: /pictures-of-bed-bugs/
+slug: pictures-of-bed-bugs
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

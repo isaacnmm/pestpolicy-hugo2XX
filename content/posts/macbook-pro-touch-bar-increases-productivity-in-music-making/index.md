@@ -1,7 +1,7 @@
 ---
 title: Macbook Pro Touch Bar Increases Productivity in Music Making
 description: Hi Guys. I recently purchased MacBook Pro and I love its Touch bar
-slug: /macbook-pro-touch-bar-increases-productivity-in-music-making/
+slug: macbook-pro-touch-bar-increases-productivity-in-music-making
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

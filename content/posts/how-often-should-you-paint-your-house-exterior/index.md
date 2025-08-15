@@ -3,7 +3,7 @@ title: How Often Should You Paint Your House Exterior
 description: Painting the exterior of your house is an important maintenance task
   that helps protect the structure from the elements while also improving its curb
   appeal.
-slug: /how-often-should-you-paint-your-house-exterior/
+slug: how-often-should-you-paint-your-house-exterior
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

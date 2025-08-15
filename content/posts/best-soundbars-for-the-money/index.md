@@ -2,7 +2,7 @@
 title: Best Soundbars for the Money
 description: Are you looking for the best soundbars for the money? Well, modern TVs
   are beautiful and thin but lack room for decent audio suffers and speaker. Soundbars...
-slug: /best-soundbars-for-the-money/
+slug: best-soundbars-for-the-money
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

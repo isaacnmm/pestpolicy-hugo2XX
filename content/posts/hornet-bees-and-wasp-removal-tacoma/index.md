@@ -2,7 +2,7 @@
 title: Hornet Bees and Wasp Removal Tacoma
 description: At PestPolicy, we offer expert hornet, bee, and wasp removal services
   to keep your property safe and pest-free. Our team is experienced in handling various...
-slug: /hornet-bees-and-wasp-removal-tacoma/
+slug: hornet-bees-and-wasp-removal-tacoma
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

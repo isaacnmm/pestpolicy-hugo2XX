@@ -2,7 +2,7 @@
 title: Best Gutter Guards for Box Gutters
 description: Box gutters, also known as internal gutters, parallel gutters, or trough
   gutters, are a distinctive and often concealed type of gutter system.
-slug: /best-gutter-guards-for-box-gutters/
+slug: best-gutter-guards-for-box-gutters
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

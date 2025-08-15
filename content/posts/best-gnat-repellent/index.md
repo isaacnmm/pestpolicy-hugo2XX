@@ -2,7 +2,7 @@
 title: Best Gnat Repellent
 description: Gnat infestationhttpipm.ucanr.eduPMGPESTNOTESpn7448.html can be infectious,
   disturbing, and extremely irritating.Recently, we discussed how long gnats live?...
-slug: /best-gnat-repellent/
+slug: best-gnat-repellent
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

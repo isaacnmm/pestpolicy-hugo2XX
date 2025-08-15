@@ -3,7 +3,7 @@ title: Ant Control in Everett
 description: Everett, a beautiful city nestled in the Pacific Northwest, is known
   for its scenic beauty and vibrant community. However, like many places, it is not
   immune...
-slug: /ant-control-in-everett/
+slug: ant-control-in-everett
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

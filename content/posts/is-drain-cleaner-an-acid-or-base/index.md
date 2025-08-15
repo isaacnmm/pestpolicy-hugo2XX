@@ -2,7 +2,7 @@
 title: Is Drain Cleaner an Acid or Base
 description: So,is drain cleaner an acid or base?The short and simple answer to this
   question is that a drain cleaner can either be an acid or a base .
-slug: /is-drain-cleaner-an-acid-or-base/
+slug: is-drain-cleaner-an-acid-or-base
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

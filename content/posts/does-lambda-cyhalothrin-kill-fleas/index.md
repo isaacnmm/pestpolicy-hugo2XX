@@ -2,7 +2,7 @@
 title: Does Lambda Cyhalothrin Kill Fleas
 description: Lambda Cyhalothrin is a synthetic Pyrethroid chemical that is popular
   for pest control.
-slug: /does-lambda-cyhalothrin-kill-fleas/
+slug: does-lambda-cyhalothrin-kill-fleas
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

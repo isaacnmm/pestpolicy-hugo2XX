@@ -3,7 +3,7 @@ title: Best Spray Paint for Glass
 description: Not all spray paints work well on the glasses and give you the desired
   results. Choosing the best spray paint for glass windows, doors, and bathroom doors
   not...
-slug: /best-spray-paint-for-glass/
+slug: best-spray-paint-for-glass
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

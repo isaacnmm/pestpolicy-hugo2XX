@@ -2,7 +2,7 @@
 title: How to Grow Pomegranate Plants from Seed
 description: The pomegranate, with its jewel-toned arils and ancient mystique, is
   a fruit that evokes images of warmth and abundance.
-slug: /how-to-grow-pomegranate-plants-from-seed/
+slug: how-to-grow-pomegranate-plants-from-seed
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

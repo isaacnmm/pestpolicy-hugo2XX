@@ -3,7 +3,7 @@ title: Best Shoes for Sled Pushing
 description: Are you looking for the Best Shoes for Sled Pushing? If you answered
   yes, youre right on time. Sled push also known as prowler press is an excellent
   exercise...
-slug: /best-shoes-for-sled-pushing/
+slug: best-shoes-for-sled-pushing
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

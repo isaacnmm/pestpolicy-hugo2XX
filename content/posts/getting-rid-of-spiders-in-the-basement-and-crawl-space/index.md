@@ -1,7 +1,7 @@
 ---
 title: "Getting Rid of Spiders in the Basement and Crawl Space"
 description: "A pro's guide to getting rid of spiders in your basement or crawl space. Learn why they're there and the three-step process of cleaning, drying, and excluding that works."
-slug: /getting-rid-of-spiders-in-the-basement-and-crawl-space/
+slug: getting-rid-of-spiders-in-the-basement-and-crawl-space
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

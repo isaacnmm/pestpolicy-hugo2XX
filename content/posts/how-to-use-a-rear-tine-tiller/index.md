@@ -2,7 +2,7 @@
 title: How to Use a Rear Tine Tiller
 description: Proper land preparation is crucial for any serious gardener to ensure
   they get a good harvest.
-slug: /how-to-use-a-rear-tine-tiller/
+slug: how-to-use-a-rear-tine-tiller
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

@@ -2,7 +2,7 @@
 title: Tips for Building Backyard Waterfall
 description: The gentle cascade of water, the soothing sound of a babbling brook,
   and the shimmering reflections of sunlight can transform any backyard into a tranquil...
-slug: /tips-for-building-backyard-waterfall/
+slug: tips-for-building-backyard-waterfall
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

@@ -2,7 +2,7 @@
 title: Black Gutters on White House Design Ideas
 description: In the realm of exterior home design, color choices play a pivotal role
   in defining a property's character and curb appeal.
-slug: /black-gutters-on-white-house-design-ideas/
+slug: black-gutters-on-white-house-design-ideas
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

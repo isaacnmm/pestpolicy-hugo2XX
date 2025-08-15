@@ -2,7 +2,7 @@
 title: Robin Lawn Care
 description: In an era increasingly shaped by technology and on-demand services, the
   traditional lawn care industry has not been immune to disruption.
-slug: /robin-lawn-care/
+slug: robin-lawn-care
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

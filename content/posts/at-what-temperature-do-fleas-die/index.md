@@ -2,7 +2,7 @@
 title: At What Temperature Do Fleas Die
 description: Using heat is one of the many ways of getting rid of fleas in your home
   . But what temperatures do fleas die? Well, this is the right place to find your...
-slug: /at-what-temperature-do-fleas-die/
+slug: at-what-temperature-do-fleas-die
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

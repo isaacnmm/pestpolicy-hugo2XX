@@ -3,7 +3,7 @@ title: Rodent Control in Puyallup
 description: Rodents can be a significant nuisance and health hazard for homeowners
   in Puyallup, WA. Effective rodent controlhttpspestpolicy.combest-outdoor-rat-traps
   is...
-slug: /rodent-control-in-puyallup/
+slug: rodent-control-in-puyallup
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

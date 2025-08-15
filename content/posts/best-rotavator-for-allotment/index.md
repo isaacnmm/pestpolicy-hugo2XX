@@ -2,7 +2,7 @@
 title: Best Rotavator for Allotment
 description: The best rotavator for allotments takes the sweat out of soil prep, turning
   hours of labor into minutes of effortless work.With powerful spinning blades that...
-slug: /best-rotavator-for-allotment/
+slug: best-rotavator-for-allotment
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

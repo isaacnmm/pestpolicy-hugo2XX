@@ -3,7 +3,7 @@ title: Best Macbook for Video Editing
 description: Digital video editing requires huge processing power, heavy graphics,
   and, most importantly, storage space. Now that 4K has become part of life, heavy
   video...
-slug: /best-macbook-for-video-editing/
+slug: best-macbook-for-video-editing
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

@@ -2,7 +2,7 @@
 title: Gutter Guards America
 description: Maintaining clear gutters is a critical component of home maintenance,
   yet it's a task many homeowners dread. Clogged gutters can lead to a cascade of...
-slug: /gutter-guards-america/
+slug: gutter-guards-america
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

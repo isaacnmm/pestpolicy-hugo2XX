@@ -3,7 +3,7 @@ title: Lawn Watering
 description: Watering a lawn seems like a simple task just turn on the sprinklers
   until the grass looks wet, right? In reality, proper lawn watering is a nuanced
   science,...
-slug: /lawn-watering/
+slug: lawn-watering
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

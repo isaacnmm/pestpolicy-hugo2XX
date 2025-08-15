@@ -1,7 +1,7 @@
 ---
 title: "Fire Ant Mound Treatment for Lawns in Dallas, Texas"
 description: "A pro's guide to fire ant mound treatment for Dallas lawns. Learn the most effective products, the critical mistakes to avoid, and the two-step method for lasting control."
-slug: /fire-ant-mound-treatment-for-lawns-in-dallas-texas/
+slug: fire-ant-mound-treatment-for-lawns-in-dallas-texas
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

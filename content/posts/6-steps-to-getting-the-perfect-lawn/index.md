@@ -2,7 +2,7 @@
 title: 6 Steps to Getting the Perfect Lawn
 description: The vision of a lush, emerald-green lawn  thick, uniform, and free of
   blemishes  is a common aspiration for many homeowners.
-slug: /6-steps-to-getting-the-perfect-lawn/
+slug: 6-steps-to-getting-the-perfect-lawn
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

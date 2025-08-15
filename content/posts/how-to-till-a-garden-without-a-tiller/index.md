@@ -3,7 +3,7 @@ title: How to Till a Garden Without a Tiller
 description: The millennium-old practice of tilling land comes with many benefits
   yet is exceedingly tiring, and time-consuming. What of discovering a hack that saves
   you...
-slug: /how-to-till-a-garden-without-a-tiller/
+slug: how-to-till-a-garden-without-a-tiller
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

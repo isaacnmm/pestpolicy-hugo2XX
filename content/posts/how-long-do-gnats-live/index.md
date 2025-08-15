@@ -2,7 +2,7 @@
 title: How Long Do Gnats Live
 description: Gnats are restless two-winged flies commonly found in residential and
   commercial establishments. How long do gnats live? The simple answer is The average...
-slug: /how-long-do-gnats-live/
+slug: how-long-do-gnats-live
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

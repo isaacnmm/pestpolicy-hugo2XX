@@ -2,7 +2,7 @@
 title: Best Lego Set for 11 Year Old Boy
 description: Are you looking for a perfect lego set for your 11-year-old son? youll
   love my detailed recommendation on the Best Lego Set For an 11-Year-Old Boy.
-slug: /best-lego-set-for-11-year-old-boy/
+slug: best-lego-set-for-11-year-old-boy
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

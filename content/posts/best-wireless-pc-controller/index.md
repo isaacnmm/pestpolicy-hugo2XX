@@ -2,7 +2,7 @@
 title: Best Wireless Pc Controller
 description: Is the Standard Xbox one Controller or Xbox 360 Controller the Best Wireless
   PC Controller?
-slug: /best-wireless-pc-controller/
+slug: best-wireless-pc-controller
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

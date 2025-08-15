@@ -3,7 +3,7 @@ title: Harrowing Guide
 description: Preparing your seedbed may same easy from face value. However, proper
   preparation of your garden in readiness for planting could be the key to getting
   better...
-slug: /harrowing-guide/
+slug: harrowing-guide
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

@@ -3,7 +3,7 @@ title: How to Thin Acrylic Paint
 description: The paint application process doesnt only require a professional painter
   having well-thinned paint is crucial in attaining the best quality paint finish.
   If...
-slug: /how-to-thin-acrylic-paint/
+slug: how-to-thin-acrylic-paint
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

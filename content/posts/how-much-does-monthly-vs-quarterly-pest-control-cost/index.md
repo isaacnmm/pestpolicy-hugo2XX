@@ -1,7 +1,7 @@
 ---
 title: "How Much Does Monthly vs. Quarterly Pest Control Cost?"
 description: "A professional's breakdown of monthly vs. quarterly pest control costs. Learn the average price ranges and discover which service plan is the right financial choice for your home."
-slug: /how-much-does-monthly-vs-quarterly-pest-control-cost/
+slug: how-much-does-monthly-vs-quarterly-pest-control-cost
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

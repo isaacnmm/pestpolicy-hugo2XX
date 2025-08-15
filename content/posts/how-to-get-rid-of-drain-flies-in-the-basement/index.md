@@ -3,7 +3,7 @@ title: How to Get Rid Of Drain Flies in the Basement
 description: If you're tired of the nuisance brought by the tiny nuzzling insects
   drain flies also known as sewer flies in your basement drains in your residence,
   it's...
-slug: /how-to-get-rid-of-drain-flies-in-the-basement/
+slug: how-to-get-rid-of-drain-flies-in-the-basement
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

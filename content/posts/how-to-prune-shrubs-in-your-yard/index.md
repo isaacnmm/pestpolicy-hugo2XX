@@ -2,7 +2,7 @@
 title: How to Prune Shrubs in Your Yard
 description: Pruning shrubs often intimidates novice gardeners, conjuring images of
   inadvertently disfiguring a beloved plant or, worse, causing its demise.
-slug: /how-to-prune-shrubs-in-your-yard/
+slug: how-to-prune-shrubs-in-your-yard
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

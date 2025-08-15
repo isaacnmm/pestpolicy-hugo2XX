@@ -2,7 +2,7 @@
 title: Trugreen Vs Lawn Doctor
 description: When it comes to professional lawn care, TruGreen and Lawn Doctor are
   two of the most recognized and widely available names in the industry.
-slug: /trugreen-vs-lawn-doctor/
+slug: trugreen-vs-lawn-doctor
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

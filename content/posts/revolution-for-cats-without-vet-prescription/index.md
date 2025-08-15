@@ -3,7 +3,7 @@ title: Revolution for Cats Without Vet Prescription
 description: I, like many other pet owners, prefer getting effective and safe flea
   medication s for my cat without having to visit the vet office or giving them a
   call. In...
-slug: /revolution-for-cats-without-vet-prescription/
+slug: revolution-for-cats-without-vet-prescription
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

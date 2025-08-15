@@ -3,7 +3,7 @@ title: Is It Ok to Paint Over Wet Caulk
 description: When it comes to home improvement projects, caulking plays a crucial
   role in sealing gaps and preventing water damage.  However, there may be instances
   where...
-slug: /is-it-ok-to-paint-over-wet-caulk/
+slug: is-it-ok-to-paint-over-wet-caulk
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

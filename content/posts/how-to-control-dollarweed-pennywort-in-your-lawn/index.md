@@ -2,7 +2,7 @@
 title: How to Control Dollarweed Pennywort in Your Lawn
 description: Dollarweed, also known as pennywort Hydrocotyle spp., is one of the most
   frustrating and persistent weeds for homeowners, particularly in warmer, humid...
-slug: /how-to-control-dollarweed-pennywort-in-your-lawn/
+slug: how-to-control-dollarweed-pennywort-in-your-lawn
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

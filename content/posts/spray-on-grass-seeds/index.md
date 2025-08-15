@@ -2,7 +2,7 @@
 title: Spray on Grass Seeds
 description: Achieving a lush, green lawn can be a significant undertaking, whether
   you're starting from scratch or repairing bare patches.
-slug: /spray-on-grass-seeds/
+slug: spray-on-grass-seeds
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

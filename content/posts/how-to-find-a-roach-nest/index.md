@@ -3,7 +3,7 @@ title: How to Find a Roach Nest
 description: If you are reading this, you must be worried as youve seen some roaches
   running around your house. It is common knowledge that roaches love dark, moist,
   and...
-slug: /how-to-find-a-roach-nest/
+slug: how-to-find-a-roach-nest
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

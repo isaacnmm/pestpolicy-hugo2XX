@@ -3,7 +3,7 @@ title: Best Mics for Recording Acoustic Guitar
 description: Looking for the best mics for recording acoustic guitar? Are you having
   problems getting high-quality sounds from your acoustic guitar? If your answer to
   this...
-slug: /best-mics-for-recording-acoustic-guitar/
+slug: best-mics-for-recording-acoustic-guitar
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

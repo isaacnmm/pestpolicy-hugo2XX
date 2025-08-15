@@ -2,7 +2,7 @@
 title: Pestpolicy Radio Show Podcast June 10 2025
 description: Welcome to the PestPolicy Radio Show & Podcast, where we bring you the
   latest in pest management and, as a bonus, essential home care tips to keep your...
-slug: /pestpolicy-radio-show-podcast-june-10-2025/
+slug: pestpolicy-radio-show-podcast-june-10-2025
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

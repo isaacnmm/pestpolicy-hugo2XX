@@ -2,7 +2,7 @@
 title: How to Paint Kitchen Cabinets Without Sanding
 description: Painting cabinets is a common activity carried out during paint restoration
   or new coat application in homes of commercial places.
-slug: /how-to-paint-kitchen-cabinets-without-sanding/
+slug: how-to-paint-kitchen-cabinets-without-sanding
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

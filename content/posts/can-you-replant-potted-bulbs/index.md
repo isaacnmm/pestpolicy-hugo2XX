@@ -2,7 +2,7 @@
 title: Can You Replant Potted Bulbs
 description: As winter gives way to the vibrant spectacle of spring, many homes are
   brightened with pots of cheerful daffodils, tulips, hyacinths, and crocuses.
-slug: /can-you-replant-potted-bulbs/
+slug: can-you-replant-potted-bulbs
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

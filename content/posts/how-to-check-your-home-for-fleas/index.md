@@ -3,7 +3,7 @@ title: How to Check Your Home for Fleas
 description: It starts with a nagging feeling, doesn't it? A tiny black speck you
   thought you saw jump. A pet that seems to be scratching just a little more than
   usual.
-slug: /how-to-check-your-home-for-fleas/
+slug: how-to-check-your-home-for-fleas
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

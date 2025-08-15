@@ -2,7 +2,7 @@
 title: Best Pressure Washer for Paint Removal
 description: Are you wondering how to strip paint with a pressure washer like the
   mi-t-m? Well, the best pressure washer for paint removal would do the magic!
-slug: /best-pressure-washer-for-paint-removal/
+slug: best-pressure-washer-for-paint-removal
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

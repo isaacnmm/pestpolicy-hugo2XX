@@ -2,7 +2,7 @@
 title: The Best Gutter Cleaning Tools
 description: Gutter cleaning is one of those necessary home maintenance tasks that
   few homeowners look forward to. Clogged gutters can lead to a host of expensive...
-slug: /the-best-gutter-cleaning-tools/
+slug: the-best-gutter-cleaning-tools
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

@@ -2,7 +2,7 @@
 title: Capstar Flea Tablets for Small Dogs
 description: Capstar tablets are effective remedies for controlling fleashttpspestpolicy.comhow-to-get-rid-of-fleas
   in dogs, puppies, kittens, and cats.
-slug: /capstar-flea-tablets-for-small-dogs/
+slug: capstar-flea-tablets-for-small-dogs
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

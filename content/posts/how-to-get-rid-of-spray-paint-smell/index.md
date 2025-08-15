@@ -2,7 +2,7 @@
 title: How to Get Rid Of Spray Paint Smell
 description: As a DIY home renovator, you understand that spray paint is a convenient
   and efficient option to give your living space a fresh new look. However, the...
-slug: /how-to-get-rid-of-spray-paint-smell/
+slug: how-to-get-rid-of-spray-paint-smell
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

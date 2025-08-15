@@ -3,7 +3,7 @@ title: Best Womens Running Shoes for Shin Splints
 description: One way women can use to preventshin splintsis to invest in the Best
   Womens Running Shoes for Shin Splints. Shin Splints medial tibial stress syndrome
   is a...
-slug: /best-womens-running-shoes-for-shin-splints/
+slug: best-womens-running-shoes-for-shin-splints
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

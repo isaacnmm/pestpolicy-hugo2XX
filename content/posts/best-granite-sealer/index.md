@@ -3,7 +3,7 @@ title: Best Granite Sealer
 description: If you are a granite enthusiast, you can tell of the beauty it brings
   and the vulnerability it possesses. Thus, I sought the best granite sealers with
   the...
-slug: /best-granite-sealer/
+slug: best-granite-sealer
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

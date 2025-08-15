@@ -2,7 +2,7 @@
 title: Rustoleum Rust Reformer Review
 description: In this article, I've reviewed the Rustoleum Rust Reformer on its suitability
   for rust repair
-slug: /rustoleum-rust-reformer-review/
+slug: rustoleum-rust-reformer-review
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

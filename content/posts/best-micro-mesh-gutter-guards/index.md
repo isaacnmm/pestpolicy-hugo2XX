@@ -3,7 +3,7 @@ title: Best Micro Mesh Gutter Guards
 description: When it comes to comprehensive gutter protection, micro-mesh gutter guards
   stand head and shoulders above other types. Unlike traditional screens, brushes,
   or...
-slug: /best-micro-mesh-gutter-guards/
+slug: best-micro-mesh-gutter-guards
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

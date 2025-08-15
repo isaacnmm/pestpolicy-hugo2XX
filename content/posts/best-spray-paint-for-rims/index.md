@@ -2,7 +2,7 @@
 title: Best Spray Paint for Rims
 description: As rims are exposed to harsh outdoor elements and fluctuating temperatures
   over time, they are likely to look chaffed and worn out, leading to a lower...
-slug: /best-spray-paint-for-rims/
+slug: best-spray-paint-for-rims
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

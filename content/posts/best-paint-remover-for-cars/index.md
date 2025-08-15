@@ -2,7 +2,7 @@
 title: Best Paint Remover for Cars
 description: Nothing can be as frustrating as having unwanted patches of paint on
   the body of your car. Ugly spots of paint that sometimes accidentally end up decorating...
-slug: /best-paint-remover-for-cars/
+slug: best-paint-remover-for-cars
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

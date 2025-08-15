@@ -2,7 +2,7 @@
 title: Best Paints for Stucco
 description: Harsh weather is disastrous on your stucco but acquiring the best paints-used-for
   for stucco could reverse the situation and not maintain the natural look of...
-slug: /best-paints-for-stucco/
+slug: best-paints-for-stucco
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

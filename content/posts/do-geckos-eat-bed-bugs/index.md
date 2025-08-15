@@ -1,7 +1,7 @@
 ---
 title: Do Geckos Eat Bed Bugs
 description: Below I answer this question
-slug: /do-geckos-eat-bed-bugs/
+slug: do-geckos-eat-bed-bugs
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

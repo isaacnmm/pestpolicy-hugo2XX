@@ -3,7 +3,7 @@ title: Growing Chrysanthemums in Your Garden
 description: As summer flowers fade and the days grow shorter, the garden can often
   feel a little forlorn. This is precisely when chrysanthemums, affectionately known
   as...
-slug: /growing-chrysanthemums-in-your-garden/
+slug: growing-chrysanthemums-in-your-garden
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

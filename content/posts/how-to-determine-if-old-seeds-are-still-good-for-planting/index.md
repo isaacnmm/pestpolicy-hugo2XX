@@ -2,7 +2,7 @@
 title: How to Determine If Old Seeds Are Still Good for Planting
 description: The allure of a forgotten packet of seeds, tucked away from a previous
   gardening season, can be strong. Perhaps it's a cherished heirloom variety, a...
-slug: /how-to-determine-if-old-seeds-are-still-good-for-planting/
+slug: how-to-determine-if-old-seeds-are-still-good-for-planting
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

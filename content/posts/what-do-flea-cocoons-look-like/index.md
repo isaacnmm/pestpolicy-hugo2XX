@@ -2,7 +2,7 @@
 title: What Do Flea Cocoons Look Like
 description: Flea cocoons are protective casings that fleas create during their pupal
   stage. The cocoon is an essential part of the flea lifecycle and serves as a safe...
-slug: /what-do-flea-cocoons-look-like/
+slug: what-do-flea-cocoons-look-like
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

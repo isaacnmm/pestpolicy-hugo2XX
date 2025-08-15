@@ -2,7 +2,7 @@
 title: How to Install a Garden Arbor Near Existing Plants
 description: A garden arbor adds a touch of charm, vertical interest, and a welcoming
   gateway to any landscape. It provides a perfect framework for climbing plants,...
-slug: /how-to-install-a-garden-arbor-near-existing-plants/
+slug: how-to-install-a-garden-arbor-near-existing-plants
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

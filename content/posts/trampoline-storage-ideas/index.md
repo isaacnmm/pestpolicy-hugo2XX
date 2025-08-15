@@ -2,7 +2,7 @@
 title: Trampoline Storage Ideas
 description: Many trampoline owners disassemble and keep away their trampolines in
   winter and others lack Trampoline Storage Ideas. While taking them down or thinking...
-slug: /trampoline-storage-ideas/
+slug: trampoline-storage-ideas
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

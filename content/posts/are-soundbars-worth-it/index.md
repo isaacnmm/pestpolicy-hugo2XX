@@ -2,7 +2,7 @@
 title: Are Soundbars Worth It
 description: So, are soundbars worth it? Well, soundbars are touted as an easy method
   to upgrade your TV's audio quality. Compared to home theaters, soundbars are cheap,...
-slug: /are-soundbars-worth-it/
+slug: are-soundbars-worth-it
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

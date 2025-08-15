@@ -3,7 +3,7 @@ title: What is an Airless Paint Sprayer
 description: An airless paint sprayer is a device used for spraying paint without
   the need for compressed air. It works by using a high-pressure pump to push the
   paint...
-slug: /what-is-an-airless-paint-sprayer/
+slug: what-is-an-airless-paint-sprayer
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

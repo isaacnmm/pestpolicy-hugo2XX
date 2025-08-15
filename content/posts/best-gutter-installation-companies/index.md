@@ -3,7 +3,7 @@ title: Best Gutter Installation Companies
 description: Protecting your home's foundation and exterior from water damage is a
   top priority for any homeowner, and a well-functioning gutter system is your first
   line...
-slug: /best-gutter-installation-companies/
+slug: best-gutter-installation-companies
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

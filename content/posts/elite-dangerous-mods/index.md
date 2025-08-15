@@ -2,7 +2,7 @@
 title: Elite Dangerous Mods
 description: I've learned how to make Elite Dangerous better with mods, apps, and
   tweaks. Frontier was developed as a space simulator which is amazingly big.
-slug: /elite-dangerous-mods/
+slug: elite-dangerous-mods
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

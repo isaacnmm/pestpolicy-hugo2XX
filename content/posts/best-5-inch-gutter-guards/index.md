@@ -3,7 +3,7 @@ title: Best 5 Inch Gutter Guards
 description: The vast majority of residential homes across North America and many
   other regions are equipped with 5-inch gutters. This standard size is generally
   adequate...
-slug: /best-5-inch-gutter-guards/
+slug: best-5-inch-gutter-guards
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

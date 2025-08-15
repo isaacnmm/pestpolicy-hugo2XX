@@ -3,7 +3,7 @@ title: How Long Does It Take for Grass to Grow
 description: One of the most common questions for any homeowner embarking on a lawn
   seeding project is, "How long until I see green?" The answer, unfortunately, isn't
   a...
-slug: /how-long-does-it-take-for-grass-to-grow/
+slug: how-long-does-it-take-for-grass-to-grow
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

@@ -2,7 +2,7 @@
 title: Door Rack Painter Review
 description: If you're looking for an efficient way to paint doors and other vertical
   surfaces, the Door Rack Painter is a product worth considering.
-slug: /door-rack-painter-review/
+slug: door-rack-painter-review
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

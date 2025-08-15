@@ -2,7 +2,7 @@
 title: Best Automotive Paint for the Money
 description: The best automotive paint for the money is great for painters with limited
   painting experience to give the vehicle a great facelift. So, reduce the hassle,...
-slug: /best-automotive-paint-for-the-money/
+slug: best-automotive-paint-for-the-money
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

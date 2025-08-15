@@ -2,7 +2,7 @@
 title: Best Bed Bug Mattress Encasements
 description: A bedbug infestation and bites in your home can make your life and that
   of your family unbearable
-slug: /best-bed-bug-mattress-encasements/
+slug: best-bed-bug-mattress-encasements
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

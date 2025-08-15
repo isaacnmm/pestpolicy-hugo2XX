@@ -3,7 +3,7 @@ title: What to Look for When Choosing a Tree for Your Yard
 description: The decision to plant a tree in your yard is an investment, not just
   in your landscape's aesthetic appeal, but in your property's value, the environment,
   and...
-slug: /what-to-look-for-when-choosing-a-tree-for-your-yard/
+slug: what-to-look-for-when-choosing-a-tree-for-your-yard
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

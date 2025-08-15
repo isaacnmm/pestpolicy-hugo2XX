@@ -3,7 +3,7 @@ title: Solar Gutter Lights
 description: Gutters are essential for protecting your home from water damage, but
   they don't have to be purely functional. Solar gutter lights offer an innovative
   way to...
-slug: /solar-gutter-lights/
+slug: solar-gutter-lights
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

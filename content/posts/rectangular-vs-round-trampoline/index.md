@@ -2,7 +2,7 @@
 title: Rectangular Vs Round Trampoline
 description: In this article, we will look at Rectangular vs. Round Trampoline. Choosing
   the best trampoline for your backyard is never an easy task.
-slug: /rectangular-vs-round-trampoline/
+slug: rectangular-vs-round-trampoline
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

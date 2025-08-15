@@ -2,7 +2,7 @@
 title: Why Is My Flea Trap Not Catching Anything? A Troubleshooting Guide
 description: It's one of the most disheartening feelings in the battle against fleas.
   You've taken action, set up a trap, and left it overnight, full of hope.
-slug: /why-flea-trap-is-not-working/
+slug: why-flea-trap-is-not-working
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

@@ -2,7 +2,7 @@
 title: Lawn Full Of Weeds
 description: A lush, uniform expanse of green grass is the dream of many homeowners,
   but often, that dream is infiltrated by persistent, unwelcome guests weeds.
-slug: /lawn-full-of-weeds/
+slug: lawn-full-of-weeds
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

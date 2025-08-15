@@ -2,7 +2,7 @@
 title: Best Chipmunk Repellents
 description: Are you searching for the best chipmunk repellents? Chipmunks can cause
   significant damage around your home, from gardens to garage spaces.
-slug: /best-chipmunk-repellents/
+slug: best-chipmunk-repellents
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

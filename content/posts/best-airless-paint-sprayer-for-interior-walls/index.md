@@ -2,7 +2,7 @@
 title: Best Airless Paint Sprayer for Interior Walls
 description: Spray painting provides a cheaper and faster alternative for staining,
   painting, and sealing projects around your home. It is also considered more efficient...
-slug: /best-airless-paint-sprayer-for-interior-walls/
+slug: best-airless-paint-sprayer-for-interior-walls
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

@@ -2,7 +2,7 @@
 title: Best Semi Transparent Deck Stain
 description: By reading this feature on the best semi-transparent deck stain, youll
   learn my recommended paints to maintain your wooden decks natural impression and...
-slug: /best-semi-transparent-deck-stain/
+slug: best-semi-transparent-deck-stain
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

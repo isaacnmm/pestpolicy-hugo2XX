@@ -2,7 +2,7 @@
 title: Best Turbine Paint Sprayer
 description: Lets agree on one thing, having turbine paint sprayers saves you time.
   However, case owning the best turbine paint sprayers saves you both money and time.
-slug: /best-turbine-paint-sprayer/
+slug: best-turbine-paint-sprayer
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

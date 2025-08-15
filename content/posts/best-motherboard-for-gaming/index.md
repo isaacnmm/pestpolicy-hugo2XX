@@ -2,7 +2,7 @@
 title: Best Motherboard for Gaming
 description: The best motherboard for gaming is truly the unrecognized hero in PC
   gaming.
-slug: /best-motherboard-for-gaming/
+slug: best-motherboard-for-gaming
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

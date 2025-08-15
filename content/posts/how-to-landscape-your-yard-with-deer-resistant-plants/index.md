@@ -3,7 +3,7 @@ title: How to Landscape Your Yard With Deer Resistant Plants
 description: For many homeowners, the sight of a graceful deer in the yard can evoke
   a sense of natural beauty and wonder. However, this enchantment often fades when
   those...
-slug: /how-to-landscape-your-yard-with-deer-resistant-plants/
+slug: how-to-landscape-your-yard-with-deer-resistant-plants
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

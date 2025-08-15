@@ -1,7 +1,7 @@
 ---
 title: Carpenter Ants Vs Fire Ants
 description: Ant identification can be a challenging task
-slug: /carpenter-ants-vs-fire-ants/
+slug: carpenter-ants-vs-fire-ants
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

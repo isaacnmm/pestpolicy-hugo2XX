@@ -3,7 +3,7 @@ title: Best Copper Gutter Guards
 description: Copper gutters are a hallmark of architectural distinction, renowned
   for their stunning aesthetic appeal, exceptional durability, and the unique patina
   they...
-slug: /best-copper-gutter-guards/
+slug: best-copper-gutter-guards
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

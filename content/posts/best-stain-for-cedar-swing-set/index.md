@@ -3,7 +3,7 @@ title: Best Stain for Cedar Swing Set
 description: Looking for the best stain for cedar swing set? Swing sets from cedar
   wood tend to be expensive because of their fascinating grain structure, color, and
   their...
-slug: /best-stain-for-cedar-swing-set/
+slug: best-stain-for-cedar-swing-set
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

@@ -2,7 +2,7 @@
 title: 12 Chic Eco-Friendly Decor Ideas to Refresh Your Home Sustainably
 description: Go green without sacrificing style. Discover 12 chic, budget-friendly
   decor ideas using upcycled furniture, natural fibers, and sustainable materials.
-slug: /12-chic-eco-friendly-decor-ideas-that-will-save-the-planet-and-your-wallet/
+slug: 12-chic-eco-friendly-decor-ideas-that-will-save-the-planet-and-your-wallet
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

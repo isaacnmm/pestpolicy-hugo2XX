@@ -2,7 +2,7 @@
 title: Best Paint Sprayer for Fence Stain
 description: If you're setting to paint your tales, fences, and outdoor furniture,
   use the best paint sprayer for fence stain to refresh the property and home surfaces.
-slug: /best-paint-sprayer-for-fence-stain/
+slug: best-paint-sprayer-for-fence-stain
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

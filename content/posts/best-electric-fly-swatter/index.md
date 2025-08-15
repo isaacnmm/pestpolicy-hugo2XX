@@ -2,7 +2,7 @@
 title: Best Electric Fly Swatter
 description: When choosing the best electric fly swatter, you can consider factors
   like power output, durability, ease of use, and safety features.
-slug: /best-electric-fly-swatter/
+slug: best-electric-fly-swatter
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

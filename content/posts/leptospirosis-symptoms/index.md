@@ -2,7 +2,7 @@
 title: Leptospirosis Symptoms
 description: Leptospirosis is a bacterial infection caused by the bacteria of the
   genus Leptospira . This disease can affect both humans and animals, and it is often...
-slug: /leptospirosis-symptoms/
+slug: leptospirosis-symptoms
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

@@ -1,7 +1,7 @@
 ---
 title: Best Airless Paint Sprayer
 description: So, if you're considering the best airless paint sprayer
-slug: /best-airless-paint-sprayer/
+slug: best-airless-paint-sprayer
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

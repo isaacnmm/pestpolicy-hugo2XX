@@ -1,7 +1,7 @@
 ---
 title: Best Flea Shampoos for Dogs
 description: Fleas are more than just a nuisance
-slug: /best-flea-shampoos-for-dogs/
+slug: best-flea-shampoos-for-dogs
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

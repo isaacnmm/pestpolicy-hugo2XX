@@ -3,7 +3,7 @@ title: Wagner Flexio 590 Review
 description: Wagner Flexio 590 is a multi-purpose hand sprayer that is flexible for
   use on either indoors or outdoors painting jobs. Designed with an X-Boost turbine,
   it...
-slug: /wagner-flexio-590-review/
+slug: wagner-flexio-590-review
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

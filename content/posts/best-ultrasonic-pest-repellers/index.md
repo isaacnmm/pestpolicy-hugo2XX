@@ -2,7 +2,7 @@
 title: Best Ultrasonic Pest Repellers
 description: The best ultrasonic pest repellers allow you to repel pests without killing
   them. They emit powerful ultrasonic waves that disturb pests, causing them to...
-slug: /best-ultrasonic-pest-repellers/
+slug: best-ultrasonic-pest-repellers
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

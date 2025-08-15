@@ -2,7 +2,7 @@
 title: Five Must Have Trees for Fall Foliage
 description: As summer's green abundance begins to wane, a new and often more breathtaking
   spectacle emerges fall foliage. The transformation of leaves from verdant green...
-slug: /five-must-have-trees-for-fall-foliage/
+slug: five-must-have-trees-for-fall-foliage
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

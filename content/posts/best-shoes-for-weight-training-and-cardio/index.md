@@ -2,7 +2,7 @@
 title: Best Shoes for Weight Training and Cardio
 description: If you want to build muscles and shed excess fat, you may need to invest
   in the Best Shoes for Weight Training and Cardio.
-slug: /best-shoes-for-weight-training-and-cardio/
+slug: best-shoes-for-weight-training-and-cardio
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

@@ -2,7 +2,7 @@
 title: Mold Cleanup
 description: Mold growth in homes and buildings can lead to serious health problems
   and damage to property. Proper mold cleanup is crucial to ensure a safe and healthy...
-slug: /mold-cleanup/
+slug: mold-cleanup
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

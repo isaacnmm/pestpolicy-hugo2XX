@@ -3,7 +3,7 @@ title: How to Clean an Hvlp Spray Gun
 description: HVLP high volume, low pressure spray guns are a popular tool for DIY
   home renovators and professionals alike. They are efficient and provide a smooth,
   even...
-slug: /how-to-clean-an-hvlp-spray-gun/
+slug: how-to-clean-an-hvlp-spray-gun
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

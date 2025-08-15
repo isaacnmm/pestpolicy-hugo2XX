@@ -3,7 +3,7 @@ title: Best Laptop for Video Editing
 description: Looking for the best laptop for video editing? Discover powerful laptops
   with fast processors, high graphics resolution, and ample memory to handle demanding
   video editing software.
-slug: /best-laptop-for-video-editing/
+slug: best-laptop-for-video-editing
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

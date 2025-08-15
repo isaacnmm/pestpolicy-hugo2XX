@@ -3,7 +3,7 @@ title: Best White Paints for Interior Walls
 description: Selecting the best white paints for interior walls is an essential step
   towards achieving an excellent final finish. Interior walls require outstanding
   paint...
-slug: /best-white-paints-for-interior-walls/
+slug: best-white-paints-for-interior-walls
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

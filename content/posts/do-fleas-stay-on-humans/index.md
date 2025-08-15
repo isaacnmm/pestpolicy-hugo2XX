@@ -3,7 +3,7 @@ title: Do Fleas Stay on Humans
 description: So, do fleas stay on humans?If you're like most humans, you'll start
   scratching just with the mention of bed bugs. However, fleas bites on humans are
   only...
-slug: /do-fleas-stay-on-humans/
+slug: do-fleas-stay-on-humans
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

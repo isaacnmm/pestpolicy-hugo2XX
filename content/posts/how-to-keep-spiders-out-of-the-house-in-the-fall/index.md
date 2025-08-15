@@ -1,7 +1,7 @@
 ---
 title: "How to Keep Spiders Out of the House in the Fall"
 description: "Why do you see more spiders in the fall? A pest control expert explains this annual event and provides a pro-level exclusion plan to keep them out of your house."
-slug: /how-to-keep-spiders-out-of-the-house-in-the-fall/
+slug: how-to-keep-spiders-out-of-the-house-in-the-fall
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

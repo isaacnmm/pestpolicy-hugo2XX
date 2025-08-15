@@ -2,7 +2,7 @@
 title: How High Can Fleas Jump
 description: Fact Fleas Ctenocephalides felis don't have wingshttpspestpolicy.comdo-fleas-have-wings
   and will move by jumping using their powerful legs. Fleas can only...
-slug: /how-high-can-fleas-jump/
+slug: how-high-can-fleas-jump
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

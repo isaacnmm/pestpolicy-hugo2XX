@@ -3,7 +3,7 @@ title: Best Mens Dress Shoes for Flat Feet
 description: Are you looking for the Best Mens Dress Shoes for Flat Feet for that
   formal event or special occasion? Men just as women need to look fashionable and
   stylish.
-slug: /best-mens-dress-shoes-for-flat-feet/
+slug: best-mens-dress-shoes-for-flat-feet
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

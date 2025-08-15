@@ -2,7 +2,7 @@
 title: Best Paint Sprayer for Ceiling
 description: By reading this article on the best paint sprayer for ceiling, you will
   gain deep insight into getting a permanent solution to your interior painting...
-slug: /best-paint-sprayer-for-ceiling/
+slug: best-paint-sprayer-for-ceiling
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

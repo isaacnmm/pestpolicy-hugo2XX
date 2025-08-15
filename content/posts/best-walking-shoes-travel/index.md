@@ -2,7 +2,7 @@
 title: Best Walking Shoes Travel
 description: Stylish yet comfortable walking shoes should be your priority when traveling.
   You wouldnt want to ruin your travel experience by wearing uncomfortable shoes,...
-slug: /best-walking-shoes-travel/
+slug: best-walking-shoes-travel
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

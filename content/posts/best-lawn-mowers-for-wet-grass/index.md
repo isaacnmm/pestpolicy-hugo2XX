@@ -3,7 +3,7 @@ title: Best Lawn Mowers for Wet Grass
 description: Whereas it is always ideal to cut grass during dry weather because it
   can be mowed by a majority of mowers, there are instances when mowing wet lawns
   cannot...
-slug: /best-lawn-mowers-for-wet-grass/
+slug: best-lawn-mowers-for-wet-grass
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

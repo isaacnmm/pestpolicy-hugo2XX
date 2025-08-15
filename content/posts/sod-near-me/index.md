@@ -3,7 +3,7 @@ title: Sod Near Me
 description: The desire for an immediate, lush, green lawn often leads homeowners
   to consider sod. Unlike patiently waiting for grass seed to germinate and grow,
   sod...
-slug: /sod-near-me/
+slug: sod-near-me
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

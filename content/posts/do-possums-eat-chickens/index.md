@@ -2,7 +2,7 @@
 title: Do Possums Eat Chickens
 description: Maybe some chicken plus chicks and their eggs have recently disappeared
   from their coop. Recently, there have been some native opossums Didelphis Virginiana...
-slug: /do-possums-eat-chickens/
+slug: do-possums-eat-chickens
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

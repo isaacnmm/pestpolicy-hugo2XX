@@ -2,7 +2,7 @@
 title: Best 6 Inch Gutter Guards
 description: Six-inch gutters are increasingly popular for residential homes, especially
   those with large roof areas, steep pitches, or located in regions experiencing...
-slug: /best-6-inch-gutter-guards/
+slug: best-6-inch-gutter-guards
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

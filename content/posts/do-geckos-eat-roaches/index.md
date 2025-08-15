@@ -3,7 +3,7 @@ title: Do Geckos Eat Roaches
 description: Have you been disturbed by colonies of roaches in your place and wonder
   which animal can eliminate them naturally? You may even be compelled to find out
   if...
-slug: /do-geckos-eat-roaches/
+slug: do-geckos-eat-roaches
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

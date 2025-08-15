@@ -2,7 +2,7 @@
 title: Identifying the Cause Of Holes in Your Lawn
 description: Discovering unexplained holes in your otherwise pristine lawn can be
   a frustrating and perplexing experience. These unwelcome divots not only mar the...
-slug: /identifying-the-cause-of-holes-in-your-lawn/
+slug: identifying-the-cause-of-holes-in-your-lawn
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

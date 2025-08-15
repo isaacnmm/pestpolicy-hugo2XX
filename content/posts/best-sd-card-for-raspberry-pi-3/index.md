@@ -2,7 +2,7 @@
 title: Best Sd Card for Raspberry Pi 3
 description: After using different Raspberry Pi SD cards, I have to say that the Best
   SD card for Raspberry Pi 3 must have excellent 4K random read and 4K random write,...
-slug: /best-sd-card-for-raspberry-pi-3/
+slug: best-sd-card-for-raspberry-pi-3
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

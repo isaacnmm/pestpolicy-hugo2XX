@@ -2,7 +2,7 @@
 title: Selecting and Caring for a Live Christmas Tree
 description: While the classic cut Christmas tree holds a special place in many hearts,
   a growing number of people are opting for a more sustainable and ultimately...
-slug: /selecting-and-caring-for-a-live-christmas-tree/
+slug: selecting-and-caring-for-a-live-christmas-tree
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

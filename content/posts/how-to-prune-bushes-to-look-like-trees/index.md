@@ -2,7 +2,7 @@
 title: How to Prune Bushes to Look Like Trees
 description: Transforming a bushy shrub into a tree-like form, often called a "standard"
   or "tree form," is a rewarding horticultural technique that can add elegance,...
-slug: /how-to-prune-bushes-to-look-like-trees/
+slug: how-to-prune-bushes-to-look-like-trees
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

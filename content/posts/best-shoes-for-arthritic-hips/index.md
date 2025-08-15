@@ -2,7 +2,7 @@
 title: Best Shoes for Arthritic Hips
 description: The Best Shoes for Arthritic Hips can help to reduce pain on the hips,
   foot, and knees. Arthritisof theHip can affect many aspects of your life including...
-slug: /best-shoes-for-arthritic-hips/
+slug: best-shoes-for-arthritic-hips
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

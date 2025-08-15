@@ -3,7 +3,7 @@ title: Best Shoes for Boxing Class
 description: The Best Shoes for Boxing Class should provide excellent ankle support
   enhance mobility, speed, and comfort. They should improve your posture and allow
   you to...
-slug: /best-shoes-for-boxing-class/
+slug: best-shoes-for-boxing-class
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

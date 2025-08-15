@@ -2,7 +2,7 @@
 title: Is Borax Safe for Dogs
 description: The first question is, is borax safe for dogs? The answer to this question
   is that it depends on the amount and how often they are exposed. Borax is a...
-slug: /is-borax-safe-for-dogs/
+slug: is-borax-safe-for-dogs
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

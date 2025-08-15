@@ -2,7 +2,7 @@
 title: Step2 Naturally Playful Swing Set With Glider
 description: If you're looking for a swing set that will keep your kids entertained
   while also accommodating their friends for endless outdoor fun, the Step2 Naturally...
-slug: /step2-naturally-playful-swing-set-with-glider/
+slug: step2-naturally-playful-swing-set-with-glider
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

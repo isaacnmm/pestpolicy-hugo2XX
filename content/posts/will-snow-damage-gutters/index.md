@@ -2,7 +2,7 @@
 title: Will Snow Damage Gutters
 description: As winter descends, bringing with it beautiful blankets of snow, homeowners
   in colder climates often shift their focus to heating, insulation, and roof...
-slug: /will-snow-damage-gutters/
+slug: will-snow-damage-gutters
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

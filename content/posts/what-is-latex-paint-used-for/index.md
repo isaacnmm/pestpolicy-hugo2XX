@@ -2,7 +2,7 @@
 title: What is Latex Paint Used for
 description: Various types of paints are manufactured in certain forms and concentrations
   in order to serve a given purpose. Perhaps you have come across latex in your...
-slug: /what-is-latex-paint-used-for/
+slug: what-is-latex-paint-used-for
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

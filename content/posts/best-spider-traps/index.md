@@ -2,7 +2,7 @@
 title: Best Spider Traps
 description: When choosing the best spider traps, you can consider factors like effectiveness,
   ease of use, safety, and the type of spider you want to trap. In this guide,...
-slug: /best-spider-traps/
+slug: best-spider-traps
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

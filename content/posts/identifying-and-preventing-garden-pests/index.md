@@ -2,7 +2,7 @@
 title: Identifying and Preventing Garden Pests
 description: A thriving garden is a joy to behold, but pests can quickly turn it into
   a battleground. Managing garden pests effectively involves identifying common...
-slug: /identifying-and-preventing-garden-pests/
+slug: identifying-and-preventing-garden-pests
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

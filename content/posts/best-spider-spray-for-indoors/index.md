@@ -3,7 +3,7 @@ title: Best Spider Spray for Indoors
 description: Looking for best spider spray for indoors? Say no more! Spring marks
   an annual onslaught of spiders, hornets, wasps, ants plus various nuisance insects.
   Thus,...
-slug: /best-spider-spray-for-indoors/
+slug: best-spider-spray-for-indoors
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

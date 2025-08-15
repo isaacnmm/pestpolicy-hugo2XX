@@ -2,7 +2,7 @@
 title: Can Bearded Dragons Eat Tomatoes
 description: Tomatoes are delicious and healthy veggie-like fruits-dragons-eat on
   taco or salad. But, can bearded dragons eat tomatoes?
-slug: /can-bearded-dragons-eat-tomatoes/
+slug: can-bearded-dragons-eat-tomatoes
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

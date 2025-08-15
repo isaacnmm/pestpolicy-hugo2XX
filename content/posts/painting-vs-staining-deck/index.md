@@ -2,7 +2,7 @@
 title: Painting Vs Staining Deck
 description: Below I've outlined the key differences between painting vs. staining
   deck
-slug: /painting-vs-staining-deck/
+slug: painting-vs-staining-deck
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

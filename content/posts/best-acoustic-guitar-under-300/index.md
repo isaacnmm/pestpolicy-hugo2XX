@@ -2,7 +2,7 @@
 title: Best Acoustic Guitar Under 300
 description: In this article, we present to you a list of Best Acoustic Guitars Under
   300 which have been applauded by guitarists for their quality and affordability....
-slug: /best-acoustic-guitar-under-300/
+slug: best-acoustic-guitar-under-300
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

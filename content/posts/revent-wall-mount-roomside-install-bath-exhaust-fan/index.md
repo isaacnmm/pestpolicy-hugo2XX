@@ -2,7 +2,7 @@
 title: Revent Wall Mount Roomside Install Bath Exhaust Fan
 description: Proper ventilation is paramount in any bathroom to combat humidity, eliminate
   odors, and prevent the damaging effects of mold and mildew.
-slug: /revent-wall-mount-roomside-install-bath-exhaust-fan/
+slug: revent-wall-mount-roomside-install-bath-exhaust-fan
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

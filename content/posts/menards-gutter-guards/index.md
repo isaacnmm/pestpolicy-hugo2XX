@@ -2,7 +2,7 @@
 title: Menards Gutter Guards
 description: For homeowners looking to tackle home improvement projects themselves,
   Menards offers a range of DIY gutter guard solutions.
-slug: /menards-gutter-guards/
+slug: menards-gutter-guards
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

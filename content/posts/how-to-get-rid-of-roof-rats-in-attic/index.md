@@ -3,7 +3,7 @@ title: How to Get Rid Of Roof Rats in Attic
 description: Have you recently discovered some activity in your attic and are afraid
   that it could be roof rats or black rats ? While it can be a worrying thought, it
   is...
-slug: /how-to-get-rid-of-roof-rats-in-attic/
+slug: how-to-get-rid-of-roof-rats-in-attic
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

@@ -2,7 +2,7 @@
 title: Does Bleach Kill Spiders
 description: Spiders, those unwelcome houseguests! They often seek refuge indoors
   during colder months, especially in our cozy heated homes.
-slug: /does-bleach-kill-spiders/
+slug: does-bleach-kill-spiders
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

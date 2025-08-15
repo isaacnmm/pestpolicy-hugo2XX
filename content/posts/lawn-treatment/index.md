@@ -2,7 +2,7 @@
 title: Lawn Treatment
 description: A vibrant, healthy lawn is more than just a beautiful aesthetic for your
   home it's a living ecosystem that contributes to your property's value and your...
-slug: /lawn-treatment/
+slug: lawn-treatment
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

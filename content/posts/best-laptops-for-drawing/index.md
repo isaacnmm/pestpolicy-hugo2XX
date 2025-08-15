@@ -2,7 +2,7 @@
 title: Best Laptops for Drawing
 description: So, which the best laptops for drawing? With advances in digital technology,
   artists can now draw directly on their laptops using a digital pen. The accuracy...
-slug: /best-laptops-for-drawing/
+slug: best-laptops-for-drawing
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

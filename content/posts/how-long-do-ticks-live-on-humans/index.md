@@ -1,7 +1,7 @@
 ---
 title: How Long Do Ticks Live on Humans
 description: In this article, we'll tackle this question
-slug: /how-long-do-ticks-live-on-humans/
+slug: how-long-do-ticks-live-on-humans
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

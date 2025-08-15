@@ -3,7 +3,7 @@ title: Format Sd Card to Fat32
 description: Formatting an SD card to FAT32 is a common procedure, especially when
   you need to use the card with older devices or systems that require this specific
   file...
-slug: /format-sd-card-to-fat32/
+slug: format-sd-card-to-fat32
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

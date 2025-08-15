@@ -2,7 +2,7 @@
 title: Best Bass Amps for Metal
 description: If you are a hard rock or heavy metal enthusiast, then you will need
   special attention when choosing the best bass amps for the metal to achieve the...
-slug: /best-bass-amps-for-metal/
+slug: best-bass-amps-for-metal
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

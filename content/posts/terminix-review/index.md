@@ -3,7 +3,7 @@ title: Terminix Review
 description: Pests such as bed bugs, termites, fleas flies, and ants are a nuisance
   to homeowners but they will also threaten our health and investments such as houses.
   -...
-slug: /terminix-review/
+slug: terminix-review
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

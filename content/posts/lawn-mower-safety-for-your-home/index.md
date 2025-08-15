@@ -2,7 +2,7 @@
 title: Lawn Mower Safety for Your Home
 description: The familiar hum of a lawn mower is a quintessential sound of spring
   and summer, signifying well-maintained yards and outdoor enjoyment.
-slug: /lawn-mower-safety-for-your-home/
+slug: lawn-mower-safety-for-your-home
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

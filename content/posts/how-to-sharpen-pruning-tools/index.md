@@ -2,7 +2,7 @@
 title: How to Sharpen Pruning Tools
 description: Sharp pruning tools are the unsung heroes of a healthy and well-maintained
   garden. While it might seem like a minor detail, the sharpness of your pruners,...
-slug: /how-to-sharpen-pruning-tools/
+slug: how-to-sharpen-pruning-tools
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

@@ -2,7 +2,7 @@
 title: What is a Dynamic Microphone
 description: So,what is a dynamic microphonehttpspestpolicy.combest-dynamic-microphone
   ? First, it's important to note that microphones work on the electromagnetic...
-slug: /what-is-a-dynamic-microphone/
+slug: what-is-a-dynamic-microphone
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

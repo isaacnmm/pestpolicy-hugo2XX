@@ -2,7 +2,7 @@
 title: Merino Shoes Vs Allbirds
 description: Merino Shoes and Allbirds use the same material in their construction-
   merino wool. Wool is a natural product that originates from sheep.
-slug: /merino-shoes-vs-allbirds/
+slug: merino-shoes-vs-allbirds
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

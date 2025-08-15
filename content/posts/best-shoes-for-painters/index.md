@@ -2,7 +2,7 @@
 title: Best Shoes for Painters
 description: The best shoes for painters will protect your feet and provide adequate
   grip for various slick surfaces, including concrete. Also, it must provide arch...
-slug: /best-shoes-for-painters/
+slug: best-shoes-for-painters
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

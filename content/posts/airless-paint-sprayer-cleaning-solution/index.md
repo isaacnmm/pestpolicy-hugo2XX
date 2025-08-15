@@ -3,7 +3,7 @@ title: Airless Paint Sprayer Cleaning Solution
 description: Cleaning your airless paint sprayer is a crucial step in ensuring it
   works properly and lasts longer. Regular maintenance can help prevent clogs and
   keep the...
-slug: /airless-paint-sprayer-cleaning-solution/
+slug: airless-paint-sprayer-cleaning-solution
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

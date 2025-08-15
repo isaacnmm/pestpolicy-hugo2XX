@@ -2,7 +2,7 @@
 title: Ticks Diseases Index
 description: Ticks may be tiny, but their ability to spread diseases makes them a
   major health concern. These blood-sucking parasites thrive in grassy, wooded areas,...
-slug: /ticks-diseases-index/
+slug: ticks-diseases-index
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

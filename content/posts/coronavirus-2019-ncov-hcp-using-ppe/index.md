@@ -2,7 +2,7 @@
 title: Coronavirus 2019 Ncov Hcp Using Ppe
 description: The coronavirus 2019-nCoV has become a global health concern, and healthcare
   personnel HCP are at the forefront of combating the disease.
-slug: /coronavirus-2019-ncov-hcp-using-ppe/
+slug: coronavirus-2019-ncov-hcp-using-ppe
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

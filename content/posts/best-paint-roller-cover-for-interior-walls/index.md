@@ -2,7 +2,7 @@
 title: Best Paint Roller Cover for Interior Walls
 description: To choose the best paint roller cover for interior walls, check both
   the paint's sheen either knit or woven and then consider the nap height
-slug: /best-paint-roller-cover-for-interior-walls/
+slug: best-paint-roller-cover-for-interior-walls
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

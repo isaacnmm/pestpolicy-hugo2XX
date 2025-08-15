@@ -2,7 +2,7 @@
 title: How to Exercise With Bad Knees to Lose Weight
 description: In this post, Ill take you through different cardio workouts planned
   to assist you to lose weight, even when you have a bad knee
-slug: /how-to-exercise-with-bad-knees-to-lose-weight/
+slug: how-to-exercise-with-bad-knees-to-lose-weight
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

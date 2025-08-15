@@ -3,7 +3,7 @@ title: How to Improve Yard Drainage
 description: A beautiful, thriving yard relies on a delicate balance, and nowhere
   is this more evident than with water. While plants need adequate moisture to survive,
   too...
-slug: /how-to-improve-yard-drainage/
+slug: how-to-improve-yard-drainage
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

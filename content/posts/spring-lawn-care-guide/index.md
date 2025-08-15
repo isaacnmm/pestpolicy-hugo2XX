@@ -2,7 +2,7 @@
 title: Spring Lawn Care Guide
 description: After the dormancy of winter, spring brings the promise of renewal  and
   for your lawn, it's the most critical season for setting the stage for a lush, healthy...
-slug: /spring-lawn-care-guide/
+slug: spring-lawn-care-guide
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

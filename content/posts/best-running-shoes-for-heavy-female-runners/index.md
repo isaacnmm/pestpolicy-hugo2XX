@@ -3,7 +3,7 @@ title: Best Running Shoes for Heavy Female Runners
 description: If your weight falls on theheavy side or you run with heel Strikes ,
   finding the right running shoes is a big challenge- try the best running shoes for
   heavy...
-slug: /best-running-shoes-for-heavy-female-runners/
+slug: best-running-shoes-for-heavy-female-runners
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

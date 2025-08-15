@@ -3,7 +3,7 @@ title: How Do Dogs Get Fleas
 description: Fleas are a harsh pest when they attack your pets including dogs and
   cats. The bloodsuckers fleas will bite the dogs, causing irritation, scratching,
   pain,...
-slug: /how-do-dogs-get-fleas/
+slug: how-do-dogs-get-fleas
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

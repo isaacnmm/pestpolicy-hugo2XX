@@ -2,7 +2,7 @@
 title: How to Install Rain Gutters
 description: Rain gutters are an essential defense system for any home. They efficiently
   channel rainwater and snowmelt from your roof, diverting it away from your...
-slug: /how-to-install-rain-gutters/
+slug: how-to-install-rain-gutters
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

@@ -2,7 +2,7 @@
 title: Absorbine Ultrashield Ex Brand Residual Insecticide Review
 description: The Absorbine UltraShield EX contains 1.00 piperonyl butoxide, 0.10 pyrethrins,
   and 0.50 permethrin as its active ingredients
-slug: /absorbine-ultrashield-ex-brand-residual-insecticide-review/
+slug: absorbine-ultrashield-ex-brand-residual-insecticide-review
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

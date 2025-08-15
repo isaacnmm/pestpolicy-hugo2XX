@@ -3,7 +3,7 @@ title: Best Cordless Hedge Trimmer
 description: Modern landscaping and gardening are becoming easy by day due to the
   introduction of electric tools that make life amazing. The trimming that used to
   take...
-slug: /best-cordless-hedge-trimmer/
+slug: best-cordless-hedge-trimmer
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

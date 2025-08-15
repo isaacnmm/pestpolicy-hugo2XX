@@ -3,7 +3,7 @@ title: Weeds That Look Like Grass
 description: For homeowners striving for a pristine lawn, few things are as frustrating
   as the subtle infiltration of weeds that camouflage themselves perfectly within
   the...
-slug: /weeds-that-look-like-grass/
+slug: weeds-that-look-like-grass
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

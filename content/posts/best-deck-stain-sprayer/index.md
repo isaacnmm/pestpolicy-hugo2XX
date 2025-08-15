@@ -2,7 +2,7 @@
 title: Best Deck Stain Sprayer
 description: The deck is an essential feature of your home like other investments
   and hence the need to maintain it to achieve a durable finish and keep it looking...
-slug: /best-deck-stain-sprayer/
+slug: best-deck-stain-sprayer
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

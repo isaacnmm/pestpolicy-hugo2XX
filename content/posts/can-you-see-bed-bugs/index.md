@@ -2,7 +2,7 @@
 title: Can You See Bed Bugs
 description: Can you see bed bugs ? Without meaning to state the obvious, bed bugs
   are, above everything else, insects. So it goes without saying that they are fairly...
-slug: /can-you-see-bed-bugs/
+slug: can-you-see-bed-bugs
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

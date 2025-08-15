@@ -2,7 +2,7 @@
 title: How to Grow Grass Fast
 description: Achieving a dense, green lawn quickly is a common desire for homeowners,
   whether you're establishing a new lawn, repairing bare spots, or revitalizing a...
-slug: /how-to-grow-grass-fast/
+slug: how-to-grow-grass-fast
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

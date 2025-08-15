@@ -2,7 +2,7 @@
 title: Do Bed Bug Bombs Work
 description: The use of bed bug bombs to kill bed bugs is increasing day by day. The
   aerosol foggers contain insecticides like pyrethroid, permethrin, or pyrethrin -...
-slug: /do-bed-bug-bombs-work/
+slug: do-bed-bug-bombs-work
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

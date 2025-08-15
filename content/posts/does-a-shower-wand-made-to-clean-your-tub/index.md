@@ -2,7 +2,7 @@
 title: Does a Shower Wand Made to Clean Your Tub
 description: The modern bathroom is a sanctuary, a place for relaxation and rejuvenation.
   Yet, it's also a high-traffic area that demands regular cleaning, particularly...
-slug: /a-shower-wand-made-to-clean-your-tub/
+slug: a-shower-wand-made-to-clean-your-tub
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

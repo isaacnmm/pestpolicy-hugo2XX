@@ -2,7 +2,7 @@
 title: How to Paint a Stairwell
 description: Stairwell painting may not be easy, especially when the wrong procedure
   or paint selection is engaged. Low-quality paint or inappropriate painting procedure...
-slug: /how-to-paint-a-stairwell/
+slug: how-to-paint-a-stairwell
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

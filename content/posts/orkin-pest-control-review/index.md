@@ -2,7 +2,7 @@
 title: Orkin Pest Control Review
 description: If you are looking for a reliable pest control service that is professional
   and will help exterminate pests such as fleas, bed bugs, termites, etc, read on...
-slug: /orkin-pest-control-review/
+slug: orkin-pest-control-review
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

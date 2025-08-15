@@ -3,7 +3,7 @@ title: Best Mole Traps
 description: Are you searching for the best mole traps? We cover it all in this guide!
   But first, what damage have moles caused you? Or have you tried other strategies
   to...
-slug: /best-mole-traps/
+slug: best-mole-traps
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

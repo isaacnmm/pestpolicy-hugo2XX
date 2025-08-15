@@ -2,7 +2,7 @@
 title: Best Water Tables for 1 Year Old
 description: In this article, I present the Best Water Tables for 1 Year Old. Water
   Tables are fun outdoor toys for kids that provide a perfect opportunity for your...
-slug: /best-water-tables-for-1-year-old/
+slug: best-water-tables-for-1-year-old
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

@@ -2,7 +2,7 @@
 title: Best Infield Gloves
 description: Being the best infielder you are, you'll need to make lightning-fast
   plays. The line drives and grounders must not stand a chance when you have the Best...
-slug: /best-infield-gloves/
+slug: best-infield-gloves
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

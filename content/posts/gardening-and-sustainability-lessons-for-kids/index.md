@@ -2,7 +2,7 @@
 title: Gardening and Sustainability Lessons for Kids
 description: In a world increasingly disconnected from nature, teaching children about
   where their food comes from and the importance of environmental stewardship is more...
-slug: /gardening-and-sustainability-lessons-for-kids/
+slug: gardening-and-sustainability-lessons-for-kids
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

@@ -2,7 +2,7 @@
 title: Best Zero Gravity Massage Chairs
 description: Which best zero gravity massage chairs are great for you? I dedicated
   32 hours to research some of the popular ones and created a list of the top 5 chairs,...
-slug: /best-zero-gravity-massage-chairs/
+slug: best-zero-gravity-massage-chairs
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

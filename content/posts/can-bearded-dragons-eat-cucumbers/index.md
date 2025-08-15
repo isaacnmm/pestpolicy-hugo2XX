@@ -2,7 +2,7 @@
 title: Can Bearded Dragons Eat Cucumbers
 description: Cucumbers are commonly used by humans in their culinary dishes as a source
   of vitamins, minerals, and fiber. They are usually preferred because of their...
-slug: /can-bearded-dragons-eat-cucumbers/
+slug: can-bearded-dragons-eat-cucumbers
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

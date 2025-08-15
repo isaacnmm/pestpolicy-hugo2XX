@@ -2,7 +2,7 @@
 title: Does Boric Acid Kill Roaches
 description: You'll get boric acid in either dust or gel forms , but largely dusts
   are used for pest extermination. Chemically, boric acid will contain electrostatic...
-slug: /does-boric-acid-kill-roaches/
+slug: does-boric-acid-kill-roaches
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

@@ -2,7 +2,7 @@
 title: Does Heat Kill Fleas
 description: Fleas are tiny flat-bodied external parasites thatll feed on blood from
   mammals and birds. Fleas will mainly hide floor cracks, beddings and furniture and...
-slug: /does-heat-kill-fleas/
+slug: does-heat-kill-fleas
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

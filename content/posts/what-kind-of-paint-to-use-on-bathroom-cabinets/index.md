@@ -3,7 +3,7 @@ title: What Kind Of Paint to Use on Bathroom Cabinets
 description: When it comes to painting bathroom cabinets, you need a paint that can
   withstand humidity, moisture, and regular use. The right type of paint will not
   only...
-slug: /what-kind-of-paint-to-use-on-bathroom-cabinets/
+slug: what-kind-of-paint-to-use-on-bathroom-cabinets
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

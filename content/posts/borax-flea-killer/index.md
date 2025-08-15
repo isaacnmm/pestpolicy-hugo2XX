@@ -2,7 +2,7 @@
 title: Borax Flea Killer
 description: Below I've described how you can use a borax flea killer an old-time
   flea control . But why, Borax? Well, it's budget-friendly, effective, all-natural...
-slug: /borax-flea-killer/
+slug: borax-flea-killer
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

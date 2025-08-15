@@ -1,7 +1,7 @@
 ---
 title: Hydrangea Propagation
 description: Hydrangea Propagation
-slug: /hydrangea-propagation/
+slug: hydrangea-propagation
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

@@ -3,7 +3,7 @@ title: What Temperature Kills Bed Bugs
 description: Bed bugs are notorious for being resilient pests that can infest your
   home without you even noticing. One of the most effective ways to eliminate them
   is by...
-slug: /what-temperature-kills-bed-bugs/
+slug: what-temperature-kills-bed-bugs
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

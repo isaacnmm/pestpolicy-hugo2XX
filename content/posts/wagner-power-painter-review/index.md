@@ -2,7 +2,7 @@
 title: Wagner Power Painter Review
 description: The Wagner Power Painter is a popular airless paint sprayer that promises
   to make painting quicker, easier, and more efficient.
-slug: /wagner-power-painter-review/
+slug: wagner-power-painter-review
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

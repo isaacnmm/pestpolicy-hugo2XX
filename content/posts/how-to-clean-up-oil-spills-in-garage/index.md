@@ -2,7 +2,7 @@
 title: How to Clean Up Oil Spills in Garage
 description: Oil spills in your garage can be a nuisance, but with the right tools
   and techniques, cleaning them up doesnt have to be difficult.
-slug: /how-to-clean-up-oil-spills-in-garage/
+slug: how-to-clean-up-oil-spills-in-garage
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

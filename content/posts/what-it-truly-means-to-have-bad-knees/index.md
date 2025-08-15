@@ -3,7 +3,7 @@ title: What It Truly Means to Have Bad Knees
 description: Below I discuss what it truly means to have Bad Knees? I was yearning
   to stay active, but I didnt have my ever strong knees. "Bad knees" the root of most
   of...
-slug: /what-it-truly-means-to-have-bad-knees/
+slug: what-it-truly-means-to-have-bad-knees
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

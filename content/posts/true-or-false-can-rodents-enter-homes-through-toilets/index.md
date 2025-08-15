@@ -3,7 +3,7 @@ title: True or False Can Rodents Enter Homes Through Toilets
 description: Rodents are notorious for finding their way into homes through various
   entry points, but can they really come through toilets? This question might sound
   like...
-slug: /true-or-false-can-rodents-enter-homes-through-toilets/
+slug: true-or-false-can-rodents-enter-homes-through-toilets
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

@@ -3,7 +3,7 @@ title: What Eats Bed Bugs
 description: Its very discouraging when you use the commercial as well as DIY bed
   bug solutions but still have bed bugs crawling in your house. Perhaps you could
   be...
-slug: /what-eats-bed-bugs/
+slug: what-eats-bed-bugs
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

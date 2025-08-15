@@ -2,7 +2,7 @@
 title: Can Bearded Dragons Eat Cabbage
 description: Cabbages, whether red, green, or variegated, are vegetables that are
   often eaten together with course meals across the world. Previously we checked what...
-slug: /can-bearded-dragons-eat-cabbage/
+slug: can-bearded-dragons-eat-cabbage
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

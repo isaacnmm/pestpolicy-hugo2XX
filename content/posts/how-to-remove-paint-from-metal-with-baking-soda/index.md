@@ -2,7 +2,7 @@
 title: How to Remove Paint from Metal With Baking Soda
 description: Suppose you require a non-toxic method for removing paint-door  I recommend
   baking soda and boiling water
-slug: /how-to-remove-paint-from-metal-with-baking-soda/
+slug: how-to-remove-paint-from-metal-with-baking-soda
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

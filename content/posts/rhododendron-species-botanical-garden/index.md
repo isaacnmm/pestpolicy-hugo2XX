@@ -2,7 +2,7 @@
 title: Rhododendron Species Botanical Garden
 description: The Rhododendron Species Botanical Garden, located in Federal Way, Washington,
   is a renowned botanical garden dedicated to the conservation, cultivation, and...
-slug: /rhododendron-species-botanical-garden/
+slug: rhododendron-species-botanical-garden
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

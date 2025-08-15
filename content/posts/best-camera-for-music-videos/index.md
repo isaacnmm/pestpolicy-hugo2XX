@@ -2,7 +2,7 @@
 title: Best Camera for Music Videos
 description: Which is the best camera for music videos? Professional-level music videos
   never come easy. It depends on the quality of the cameras you use to shoot the...
-slug: /best-camera-for-music-videos/
+slug: best-camera-for-music-videos
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

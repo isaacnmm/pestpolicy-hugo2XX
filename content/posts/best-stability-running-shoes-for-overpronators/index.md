@@ -2,7 +2,7 @@
 title: Best Stability Running Shoes for Overpronators
 description: If you experience overpronation during running, you need to invest in
   the Best Stability Running Shoes for Overpronators. Overpronation excessive inward...
-slug: /best-stability-running-shoes-for-overpronators/
+slug: best-stability-running-shoes-for-overpronators
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

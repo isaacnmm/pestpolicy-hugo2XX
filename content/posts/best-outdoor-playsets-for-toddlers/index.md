@@ -3,7 +3,7 @@ title: Best Outdoor Playsets for Toddlers
 description: You can give your kids fun and trigger great childhood memories with
   the Best Outdoor Playsets for Toddlers and backyard swing sets-for-small-backyards
   ....
-slug: /best-outdoor-playsets-for-toddlers/
+slug: best-outdoor-playsets-for-toddlers
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

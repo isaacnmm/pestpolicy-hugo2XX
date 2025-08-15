@@ -3,7 +3,7 @@ title: Combat Max 12 Month Roach Killing Bait Review
 description: This is a combat max 12-month roach killing bait review. Maybe youve
   already heard the old myth that roaches and bed bugs can survive a nuclear bomb
   exposition.
-slug: /combat-max-12-month-roach-killing-bait-review/
+slug: combat-max-12-month-roach-killing-bait-review
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

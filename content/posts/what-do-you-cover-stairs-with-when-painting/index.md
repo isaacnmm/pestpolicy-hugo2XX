@@ -2,7 +2,7 @@
 title: What Do You Cover Stairs With When Painting
 description: When painting stairs, protecting both the stairs themselves and the surrounding
   area is crucial to achieving a successful and professional-looking finish .
-slug: /what-do-you-cover-stairs-with-when-painting/
+slug: what-do-you-cover-stairs-with-when-painting
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

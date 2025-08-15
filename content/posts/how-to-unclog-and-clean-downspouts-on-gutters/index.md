@@ -2,7 +2,7 @@
 title: How to Unclog and Clean Downspouts on Gutters
 description: While many homeowners diligently scoop leaves from their gutter troughs,
   the often-forgotten heroes of the drainage system are the downspouts.
-slug: /how-to-unclog-and-clean-downspouts-on-gutters/
+slug: how-to-unclog-and-clean-downspouts-on-gutters
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

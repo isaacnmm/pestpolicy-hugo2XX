@@ -2,7 +2,7 @@
 title: Planting Indoor Container Trees
 description: Bringing trees indoors offers a unique way to introduce living architecture,
   lush greenery, and a sense of calm to your home or office space.
-slug: /planting-indoor-container-trees/
+slug: planting-indoor-container-trees
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

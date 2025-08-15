@@ -2,7 +2,7 @@
 title: Best Automotive Paint for Beginners
 description: If you are a beginner with automotive that needs painting, you need to
   set your priorities first. To begin with, you need the best automotive paint for...
-slug: /best-automotive-paint-for-beginners/
+slug: best-automotive-paint-for-beginners
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

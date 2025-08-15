@@ -3,7 +3,7 @@ title: How to Tile a Shower Niche Without Bullnose 101 a Comprehensive Guide
 description: A shower niche is a practical and aesthetically pleasing addition to
   any modern bathroom, providing recessed storage for toiletries without the clutter
   of...
-slug: /how-to-tile-a-shower-niche-without-bullnose-101-a-comprehensive-guide/
+slug: how-to-tile-a-shower-niche-without-bullnose-101-a-comprehensive-guide
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

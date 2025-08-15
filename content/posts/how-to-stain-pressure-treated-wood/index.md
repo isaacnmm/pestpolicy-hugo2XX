@@ -3,7 +3,7 @@ title: How to Stain Pressure Treated Wood
 description: Could you have a pressure treated wooden structure in your place, or
   have you come across one? The pressure treatment process protects the wood from
   insect...
-slug: /how-to-stain-pressure-treated-wood/
+slug: how-to-stain-pressure-treated-wood
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

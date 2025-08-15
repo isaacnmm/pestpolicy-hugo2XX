@@ -2,7 +2,7 @@
 title: Best Bed Bug Heaters
 description: When choosing the best bed bug heaters, you can consider things like
   efficiency, ease of use, portability, and safety features.
-slug: /best-bed-bug-heaters/
+slug: best-bed-bug-heaters
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

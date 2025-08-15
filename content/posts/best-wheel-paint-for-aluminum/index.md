@@ -3,7 +3,7 @@ title: Best Wheel Paint for Aluminum
 description: Selecting the best wheel paint for aluminum may not be an easy task but
   will play a very vital role in making your wheels durable and also adding beauty
   to...
-slug: /best-wheel-paint-for-aluminum/
+slug: best-wheel-paint-for-aluminum
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

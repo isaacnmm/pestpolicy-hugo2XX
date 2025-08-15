@@ -3,7 +3,7 @@ title: Bed Bug Bites Vs Mosquito Bites
 description: What're the differences between bed bug bites vs. mosquito bites? We
   wake up in the morning and find rashes, red swellings, or streaks and get torn as
   to...
-slug: /bed-bug-bites-vs-mosquito-bites/
+slug: bed-bug-bites-vs-mosquito-bites
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

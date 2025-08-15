@@ -2,7 +2,7 @@
 title: Gutter Colors
 description: While often seen as purely functional components, gutters play a significant
   role in your home's exterior aesthetic. Their color can dramatically influence...
-slug: /gutter-colors/
+slug: gutter-colors
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

@@ -3,7 +3,7 @@ title: Everything About Kangoo Jumps Shoes Boots
 description: The best Kangoo Jumps shoes are ideal for those interested in fitness
   regardless of their age. If you want to shed excess weight, maintain a healthy body,
   or...
-slug: /everything-about-kangoo-jumps-shoes-boots/
+slug: everything-about-kangoo-jumps-shoes-boots
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

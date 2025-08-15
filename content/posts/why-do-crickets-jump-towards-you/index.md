@@ -2,7 +2,7 @@
 title: Why Do Crickets Jump Towards You
 description: Have you ever found yourself wondering about the peculiar behavior of
   crickets, where they seem to jump towards you when you approach them?
-slug: /why-do-crickets-jump-towards-you/
+slug: why-do-crickets-jump-towards-you
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

@@ -2,7 +2,7 @@
 title: Get Rid Sweat Bees
 description: I'm sitting here on my outdoor working space wondering how do I get rid
   of sweat bees? A common method to kills sweat bees is a killing spray. But are there...
-slug: /get-rid-sweat-bees/
+slug: get-rid-sweat-bees
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

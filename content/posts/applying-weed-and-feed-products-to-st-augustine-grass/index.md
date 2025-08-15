@@ -2,7 +2,7 @@
 title: Applying Weed and Feed Products to St Augustine Grass
 description: Maintaining a lush, green lawn is a goal for many homeowners, especially
   those in warmer climates where St. Augustine grass thrives.
-slug: /applying-weed-and-feed-products-to-st-augustine-grass/
+slug: applying-weed-and-feed-products-to-st-augustine-grass
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

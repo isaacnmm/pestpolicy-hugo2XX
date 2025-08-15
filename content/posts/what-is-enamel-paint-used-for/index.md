@@ -2,7 +2,7 @@
 title: What is Enamel Paint Used for
 description: Most people use enamel paint wrongly over unappropriated surfaces and
   end up attaining poor results or low-quality paint finish.
-slug: /what-is-enamel-paint-used-for/
+slug: what-is-enamel-paint-used-for
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

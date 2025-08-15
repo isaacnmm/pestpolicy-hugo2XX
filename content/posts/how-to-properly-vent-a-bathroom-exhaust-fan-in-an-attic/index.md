@@ -2,7 +2,7 @@
 title: How to Properly Vent a Bathroom Exhaust Fan in an Attic
 description: A bathroom exhaust fan is a crucial component for maintaining a healthy
   and durable home, primarily by removing excess moisture, odors, and airborne...
-slug: /how-to-properly-vent-a-bathroom-exhaust-fan-in-an-attic/
+slug: how-to-properly-vent-a-bathroom-exhaust-fan-in-an-attic
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

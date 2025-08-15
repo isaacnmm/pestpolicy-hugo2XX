@@ -3,7 +3,7 @@ title: Gutter Splash Guard
 description: Even a perfectly clean and well-maintained gutter system can sometimes
   struggle to contain the sheer volume of water during a heavy downpour, especially
   at...
-slug: /gutter-splash-guard/
+slug: gutter-splash-guard
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

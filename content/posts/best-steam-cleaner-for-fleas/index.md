@@ -2,7 +2,7 @@
 title: Best Steam Cleaner for Fleas
 description: When choosing the best steam cleaner for fleas , you need to consider
   factors like heat output, tank size, pressure, and versatility.
-slug: /best-steam-cleaner-for-fleas/
+slug: best-steam-cleaner-for-fleas
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

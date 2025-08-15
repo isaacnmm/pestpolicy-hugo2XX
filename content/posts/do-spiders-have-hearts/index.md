@@ -2,7 +2,7 @@
 title: Do Spiders Have Hearts
 description: Spiders, being over 48,000 species, are an essential section of the earth
   ecosystem. These arthropods possess the open circulatory system that is, they lack...
-slug: /do-spiders-have-hearts/
+slug: do-spiders-have-hearts
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

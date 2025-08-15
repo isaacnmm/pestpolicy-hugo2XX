@@ -2,7 +2,7 @@
 title: Wagner Spraytech 0282014 915e on Demand Steam Cleaner
 description: The holiday season ushers in warmth, joy, and, inevitably, a surge in
   household messes. Amidst the festivities, maintaining a pristine home can pose a...
-slug: /wagner-spraytech-0282014-915e-on-demand-steam-cleaner/
+slug: wagner-spraytech-0282014-915e-on-demand-steam-cleaner
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

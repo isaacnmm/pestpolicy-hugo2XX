@@ -2,7 +2,7 @@
 title: Bed Bugs Vs Roaches
 description: If there are pests in your house that look like cockroaches or bed bugs
   you'd better be sure. One of them will cause damage in the kitchen while the other...
-slug: /bed-bugs-vs-roaches/
+slug: bed-bugs-vs-roaches
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

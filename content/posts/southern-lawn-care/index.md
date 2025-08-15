@@ -2,7 +2,7 @@
 title: Southern Lawn Care
 description: The vibrant, often humid climate of the Southern United States presents
   a unique set of challenges and opportunities for lawn care.
-slug: /southern-lawn-care/
+slug: southern-lawn-care
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

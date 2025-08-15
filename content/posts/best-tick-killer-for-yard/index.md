@@ -2,7 +2,7 @@
 title: Best Tick Killer for Yard
 description: When choosing the best tick killer for your yard, you can consider things
   like effectiveness, safety for pets and humans, ease of application, and...
-slug: /best-tick-killer-for-yard/
+slug: best-tick-killer-for-yard
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

@@ -2,7 +2,7 @@
 title: How to Winterize the Grass in Your Lawn
 description: As the vibrant greens of summer fade and autumn's chill sets in, many
   homeowners assume their lawn care duties are winding down.
-slug: /how-to-winterize-the-grass-in-your-lawn/
+slug: how-to-winterize-the-grass-in-your-lawn
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

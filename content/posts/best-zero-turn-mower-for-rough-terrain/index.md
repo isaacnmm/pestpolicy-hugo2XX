@@ -2,7 +2,7 @@
 title: Best Zero Turn Mower for Rough Terrain
 description: If you are a homeowner looking to maintain a lawn in rough terrain, keeping
   it green all season may prove to be a challenging and time-consuming task
-slug: /best-zero-turn-mower-for-rough-terrain/
+slug: best-zero-turn-mower-for-rough-terrain
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

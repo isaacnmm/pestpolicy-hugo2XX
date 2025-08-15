@@ -2,7 +2,7 @@
 title: Ant Control in Puyallup
 description: Ants are a common pest problem in Puyallup, WA, and can be a nuisance
   for homeowners. Understanding how to manage and prevent ant infestations is essential...
-slug: /ant-control-in-puyallup/
+slug: ant-control-in-puyallup
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

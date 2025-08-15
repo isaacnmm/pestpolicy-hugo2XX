@@ -2,7 +2,7 @@
 title: How to Make a Bathroom Wheelchair Accessible
 description: Creating a wheelchair-accessible bathroom is a crucial step towards ensuring
   independence, safety, and comfort for individuals with mobility challenges.
-slug: /how-to-make-a-bathroom-wheelchair-accessible/
+slug: how-to-make-a-bathroom-wheelchair-accessible
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

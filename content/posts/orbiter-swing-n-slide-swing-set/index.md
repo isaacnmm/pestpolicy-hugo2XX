@@ -2,7 +2,7 @@
 title: Orbiter Swing N Slide Swing Set
 description: Orbiter Swing-N-Slide is a more massive playset compared to other regular
   options. However, the playset offers superior quality play options at a reasonable...
-slug: /orbiter-swing-n-slide-swing-set/
+slug: orbiter-swing-n-slide-swing-set
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

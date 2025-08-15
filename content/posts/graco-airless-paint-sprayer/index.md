@@ -2,7 +2,7 @@
 title: Graco Airless Paint Sprayer
 description: Graco airless paint sprayer? First, Graco company is known for producing
   quality paint sprayers
-slug: /graco-airless-paint-sprayer/
+slug: graco-airless-paint-sprayer
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

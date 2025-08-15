@@ -2,7 +2,7 @@
 title: Lawn Mower Maintenance
 description: A lawn mower is often one of the most frequently used pieces of outdoor
   power equipment for any homeowner. Like a car, it requires regular care to perform...
-slug: /lawn-mower-maintenance/
+slug: lawn-mower-maintenance
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

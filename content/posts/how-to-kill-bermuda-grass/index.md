@@ -2,7 +2,7 @@
 title: How to Kill Bermuda Grass
 description: Bermuda grass Cynodon dactylon is a warm-season grass highly valued in
   some regions for its heat and drought tolerance, and its ability to create a tough,...
-slug: /how-to-kill-bermuda-grass/
+slug: how-to-kill-bermuda-grass
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

@@ -3,7 +3,7 @@ title: I Saw One Cockroach Should I Be Worried
 description: Whenever you spot a cockroach in your house, the first thing that might
   come to your mind is whether you might have a roach infestation.Well, roaches bring
   a...
-slug: /i-saw-one-cockroach-should-i-be-worried/
+slug: i-saw-one-cockroach-should-i-be-worried
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

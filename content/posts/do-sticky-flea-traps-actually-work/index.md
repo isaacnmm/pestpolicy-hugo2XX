@@ -2,7 +2,7 @@
 title: Do Sticky Flea Traps Actually Work? A Realistic Review
 description: You've seen them online or in the store dome-shaped plastic devices with
   a little light bulb, promising to lure and capture fleas on a sticky pad. It seems...
-slug: /do-sticky-flea-traps-work/
+slug: do-sticky-flea-traps-work
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

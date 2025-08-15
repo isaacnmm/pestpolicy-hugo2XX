@@ -2,7 +2,7 @@
 title: Lawn Ph
 description: Beneath the lush green blades of a healthy lawn lies a hidden world,
   a complex ecosystem where nutrient absorption and microbial activity are intricately...
-slug: /lawn-ph/
+slug: lawn-ph
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

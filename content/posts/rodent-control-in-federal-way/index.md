@@ -2,7 +2,7 @@
 title: Rodent Control in Federal Way
 description: Rodent infestations can be a significant concern for homeowners in Federal
   Way, WA. The area's temperate climate and suburban environment provide an ideal...
-slug: /rodent-control-in-federal-way/
+slug: rodent-control-in-federal-way
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

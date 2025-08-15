@@ -2,7 +2,7 @@
 title: How to Tell If You Have Fleas
 description: It is pretty obvious and common for pets to catch fleas and eventually
   show up at home with a full load of them.
-slug: /how-to-tell-if-you-have-fleas/
+slug: how-to-tell-if-you-have-fleas
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

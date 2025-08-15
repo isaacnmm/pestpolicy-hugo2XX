@@ -2,7 +2,7 @@
 title: Best Noise Cancelling Headphones Under 150
 description: What're the best noise-canceling headphones under 150? If you work in
   a busy office or you are a regular commuter or just planning an upcoming plane flight,...
-slug: /best-noise-cancelling-headphones-under-150/
+slug: best-noise-cancelling-headphones-under-150
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

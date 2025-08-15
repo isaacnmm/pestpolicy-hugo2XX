@@ -2,7 +2,7 @@
 title: Gutter Installation Cost
 description: Maintaining a functional gutter system is paramount to protecting your
   home from the damaging effects of water. Gutters collect rainwater and snowmelt,...
-slug: /gutter-installation-cost/
+slug: gutter-installation-cost
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

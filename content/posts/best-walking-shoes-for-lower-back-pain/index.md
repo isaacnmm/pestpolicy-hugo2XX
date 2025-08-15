@@ -2,7 +2,7 @@
 title: Best Walking Shoes for Lower Back Pain
 description: With the many shoe brands on the market today, it can be tricky to choose
   good walking and athletic shoes to ease your back pain
-slug: /best-walking-shoes-for-lower-back-pain/
+slug: best-walking-shoes-for-lower-back-pain
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

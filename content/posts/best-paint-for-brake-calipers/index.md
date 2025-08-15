@@ -2,7 +2,7 @@
 title: Best Paint for Brake Calipers
 description: If you are the type of car owner who likes to go all out when it comes
   to looks, painting your best brake calipers is a great place to start even without...
-slug: /best-paint-for-brake-calipers/
+slug: best-paint-for-brake-calipers
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

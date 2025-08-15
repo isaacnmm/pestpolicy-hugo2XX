@@ -2,7 +2,7 @@
 title: How to Control Weeds in Your Lawn
 description: A lush, uniform, and weed-free lawn is the aspiration of many homeowners.
   However, the reality for most is a continuous battle against persistent botanical...
-slug: /how-to-control-weeds-in-your-lawn/
+slug: how-to-control-weeds-in-your-lawn
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

@@ -3,7 +3,7 @@ title: Best Dump Carts for Lawn Tractors
 description: Gardening and landscaping chores are quite tasking for moving heavy loads
   and equipment from one place to another.Thats where you need a dump cart to make
   the...
-slug: /best-dump-carts-for-lawn-tractors/
+slug: best-dump-carts-for-lawn-tractors
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

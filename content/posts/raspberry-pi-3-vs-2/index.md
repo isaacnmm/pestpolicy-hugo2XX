@@ -2,7 +2,7 @@
 title: Raspberry Pi 3 Vs 2
 description: The Raspberry Pi 3 and Raspberry Pi 2 are both popular single-board computers
   used for various projects, ranging from home automation to robotics and media...
-slug: /raspberry-pi-3-vs-2/
+slug: raspberry-pi-3-vs-2
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

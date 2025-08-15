@@ -3,7 +3,7 @@ title: Hendricks Park
 description: Hendricks Park, Eugenes oldest city park, is a beloved destination for
   both residents and visitors. Established in 1906, this 80-acre park is nestled in
   the...
-slug: /hendricks-park/
+slug: hendricks-park
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

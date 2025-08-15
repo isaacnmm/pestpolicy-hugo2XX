@@ -2,7 +2,7 @@
 title: Debate Over Organic Chemical Fertilizers
 description: In the vibrant world of gardening and agriculture, few topics spark as
   much passionate discussion and diverse opinion as the choice between organic and...
-slug: /debate-over-organic-chemical-fertilizers/
+slug: debate-over-organic-chemical-fertilizers
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

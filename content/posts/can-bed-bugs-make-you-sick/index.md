@@ -2,7 +2,7 @@
 title: Can Bed Bugs Make You Sick
 description: Worried if bedbugs will make you sick? Well, bed bug bites are very painful.
   You will have to wait a couple of minutes or even hours for it to subside. The...
-slug: /can-bed-bugs-make-you-sick/
+slug: can-bed-bugs-make-you-sick
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

@@ -2,7 +2,7 @@
 title: Bed Bug Life Cycle
 description: Bed bugs are reddish-brown and nocturnal insects that suck blood from
   warm-blooded animals including humans
-slug: /bed-bug-life-cycle/
+slug: bed-bug-life-cycle
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

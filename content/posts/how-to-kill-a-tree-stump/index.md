@@ -3,7 +3,7 @@ title: How to Kill a Tree Stump
 description: A tree stump, left behind after a tree is felled, can be an unsightly
   obstacle in any garden or landscape. Beyond being an aesthetic nuisance, stumps
   can pose...
-slug: /how-to-kill-a-tree-stump/
+slug: how-to-kill-a-tree-stump
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

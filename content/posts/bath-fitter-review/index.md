@@ -3,7 +3,7 @@ title: Bath Fitter Review
 description: When your bathroom starts looking tired  chipped tubs, stained grout,
   or outdated tile surrounds  the thought of a full bathroom demolition and renovation
   can...
-slug: /bath-fitter-review/
+slug: bath-fitter-review
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

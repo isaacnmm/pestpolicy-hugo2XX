@@ -1,7 +1,7 @@
 ---
 title: Do Ants Kill Bed Bugs
 description: Most bed bug killers may not work and are expensive
-slug: /do-ants-kill-bed-bugs/
+slug: do-ants-kill-bed-bugs
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

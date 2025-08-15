@@ -3,7 +3,7 @@ title: Gutter Guard Installation Cost
 description: Investing in gutter guards is a smart move for homeowners looking to
   protect their property from water damage and reduce the hassle of regular gutter
   cleaning.
-slug: /gutter-guard-installation-cost/
+slug: gutter-guard-installation-cost
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

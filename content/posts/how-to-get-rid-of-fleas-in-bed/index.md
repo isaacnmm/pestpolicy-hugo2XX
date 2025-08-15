@@ -3,7 +3,7 @@ title: How to Get Rid Of Fleas in Bed
 description: Fun fact Over 95 of the flea population will be scattered all over your
   house including in the bed with the pets hosting just 5 of the pests. So, if you
   think...
-slug: /how-to-get-rid-of-fleas-in-bed/
+slug: how-to-get-rid-of-fleas-in-bed
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

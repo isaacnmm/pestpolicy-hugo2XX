@@ -2,7 +2,7 @@
 title: Home Remedies for Bed Bugs
 description: If a bed bug has ever bitten you, you will agree with me that these bloodsuckers
   instill painful injections that may even lead to allergic or abnormal...
-slug: /home-remedies-for-bed-bugs/
+slug: home-remedies-for-bed-bugs
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

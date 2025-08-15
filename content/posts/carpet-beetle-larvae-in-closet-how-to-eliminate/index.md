@@ -1,7 +1,7 @@
 ---
 title: "Carpet Beetle Larvae in a Closet: How to Eliminate Them"
 description: "Finding tiny, bristly larvae in your closet? A pro explains what carpet beetle larvae are, why they're there, and the essential, step-by-step plan to eliminate them."
-slug: /carpet-beetle-larvae-in-closet-how-to-eliminate/
+slug: carpet-beetle-larvae-in-closet-how-to-eliminate
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

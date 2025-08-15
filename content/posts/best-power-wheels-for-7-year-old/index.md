@@ -3,7 +3,7 @@ title: Best Power Wheels for 7 Year Old
 description: Your 7-year-old will love the thrill and excitement of driving their
   own car. Hence, I have done some comprehensive research to help you choose the Best
   Power...
-slug: /best-power-wheels-for-7-year-old/
+slug: best-power-wheels-for-7-year-old
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

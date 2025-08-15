@@ -2,7 +2,7 @@
 title: How to Get Rid Of Sand Fleas
 description: Spring is here and with it, sand fleas . In this article, I'll provide
   tips on how to get rid of sand fleas.
-slug: /how-to-get-rid-of-sand-fleas/
+slug: how-to-get-rid-of-sand-fleas
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

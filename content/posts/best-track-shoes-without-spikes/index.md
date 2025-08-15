@@ -3,7 +3,7 @@ title: Best Track Shoes Without Spikes
 description: Are you looking for the Best Track Shoes without Spikes? Well, Ive done
   in-depth research on some of the best spikeless shoes you can consider for running
   on...
-slug: /best-track-shoes-without-spikes/
+slug: best-track-shoes-without-spikes
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

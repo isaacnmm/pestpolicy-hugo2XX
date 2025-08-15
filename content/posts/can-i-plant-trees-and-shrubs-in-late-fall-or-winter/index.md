@@ -2,7 +2,7 @@
 title: Can I Plant Trees and Shrubs in Late Fall or Winter
 description: When the vibrant hues of autumn fade and the chill of winter sets in,
   many gardeners assume the planting season is over.
-slug: /can-i-plant-trees-and-shrubs-in-late-fall-or-winter/
+slug: can-i-plant-trees-and-shrubs-in-late-fall-or-winter
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

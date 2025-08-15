@@ -2,7 +2,7 @@
 title: How to Remove Paint from Concrete Without Chemicals
 description: For most homeowners with pets and small children, removing paint from
   concrete such as in the garage  requires using non-chemical methods. You can remove...
-slug: /how-to-remove-paint-from-concrete-without-chemicals/
+slug: how-to-remove-paint-from-concrete-without-chemicals
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

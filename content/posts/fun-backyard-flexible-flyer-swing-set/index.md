@@ -3,7 +3,7 @@ title: Fun Backyard Flexible Flyer Swing Set
 description: The Fun Backyard Flexible Flyer Swing Set offers an excellent healthy
   play option for kids and their friends. With the various play activities, the swing
   set...
-slug: /fun-backyard-flexible-flyer-swing-set/
+slug: fun-backyard-flexible-flyer-swing-set
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

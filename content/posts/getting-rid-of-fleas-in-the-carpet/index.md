@@ -2,7 +2,7 @@
 title: Getting Rid Of Fleas in the Carpet
 description: It's hard to spot fleas in the carpet fibers, and many treatments can't
   reach deep down where they hide. So, if you're looking for effective ways of getting...
-slug: /getting-rid-of-fleas-in-the-carpet/
+slug: getting-rid-of-fleas-in-the-carpet
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

@@ -3,7 +3,7 @@ title: Springtime Sprinkler Tune Up
 description: As the chill of winter recedes and the vibrant greens of spring begin
   to emerge, thoughts often turn to preparing our lawns and gardens for the growing
   season.
-slug: /springtime-sprinkler-tune-up/
+slug: springtime-sprinkler-tune-up
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

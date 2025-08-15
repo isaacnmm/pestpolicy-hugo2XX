@@ -2,7 +2,7 @@
 title: Gutter Cleaning Dallas
 description: Dallas, Texas, is known for its vibrant city life, beautiful neighborhoods,
   and, unfortunately, its susceptibility to heavy storms and changing seasons.
-slug: /gutter-cleaning-dallas/
+slug: gutter-cleaning-dallas
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

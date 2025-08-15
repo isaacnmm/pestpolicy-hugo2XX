@@ -2,7 +2,7 @@
 title: How to Use a Wagner Paint Sprayer
 description: Wagner Company has recently made the top choice paint sprayer that not
   only delivers the best quality paint finish but also records an incredible net...
-slug: /how-to-use-a-wagner-paint-sprayer/
+slug: how-to-use-a-wagner-paint-sprayer
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

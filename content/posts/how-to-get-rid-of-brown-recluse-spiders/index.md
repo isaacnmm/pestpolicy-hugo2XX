@@ -2,7 +2,7 @@
 title: How to Get Rid Of Brown Recluse Spiders
 description: In brief on how to get rid of brown recluse spidershttpspestpolicy.comhow-to-get-rid-of-spiders  start
   with a vacuum for removing webs, get some sticky traps,...
-slug: /how-to-get-rid-of-brown-recluse-spiders/
+slug: how-to-get-rid-of-brown-recluse-spiders
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

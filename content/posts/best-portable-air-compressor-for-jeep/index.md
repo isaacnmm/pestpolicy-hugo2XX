@@ -3,7 +3,7 @@ title: Best Portable Air Compressor for Jeep
 description: Being stuck on the road with your jeep because of a flat tire can be
   quite inconveniencing. However, with the best portable air compressor for jeep,
   it is...
-slug: /best-portable-air-compressor-for-jeep/
+slug: best-portable-air-compressor-for-jeep
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

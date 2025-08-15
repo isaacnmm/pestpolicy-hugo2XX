@@ -2,7 +2,7 @@
 title: Best Walking Shoes for Men With Flat Feet
 description: Best Walking Shoes for Men with Flat Feet should have great shock absorbing
   properties, excellent arch support, and exceptional cushioning. Your arches are...
-slug: /best-walking-shoes-for-men-with-flat-feet/
+slug: best-walking-shoes-for-men-with-flat-feet
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

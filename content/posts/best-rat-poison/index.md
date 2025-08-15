@@ -2,7 +2,7 @@
 title: Best Rat Poison
 description: When choosing the best rat poison , you can consider things like effectiveness,
   safety for non-target animals, ease of use, and environmental impact.
-slug: /best-rat-poison/
+slug: best-rat-poison
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

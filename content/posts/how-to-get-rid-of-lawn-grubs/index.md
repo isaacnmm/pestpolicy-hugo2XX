@@ -3,7 +3,7 @@ title: How to Get Rid Of Lawn Grubs
 description: Beneath the lush, green surface of your lawn, an unseen threat might
   be silently undermining its health lawn grubs. These C-shaped, white larvae are
   the...
-slug: /how-to-get-rid-of-lawn-grubs/
+slug: how-to-get-rid-of-lawn-grubs
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

@@ -1,7 +1,7 @@
 ---
 title: "Your Car Has Roaches. Here’s the Pro-Level Fix."
 description: "A direct, field-tested guide from a pest control expert on how to permanently eliminate a vehicle infestation, without the blame or filler."
-slug: /why-do-i-have-cockroaches-in-my-car/
+slug: why-do-i-have-cockroaches-in-my-car
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

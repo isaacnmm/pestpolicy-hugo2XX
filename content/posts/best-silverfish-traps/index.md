@@ -3,7 +3,7 @@ title: Best Silverfish Traps
 description: When choosing the best silverfish traps , you can consider things like
   efficiency , safety, ease of use, and environmental impact. Whether youre dealing
   with...
-slug: /best-silverfish-traps/
+slug: best-silverfish-traps
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

@@ -2,7 +2,7 @@
 title: Best Work Shoes for High Arches
 description: Best Work Shoes For High Arches should provide ample support and cushioning
   to prevent blisters, foot pain, or other painful conditions while soothing the...
-slug: /best-work-shoes-for-high-arches/
+slug: best-work-shoes-for-high-arches
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

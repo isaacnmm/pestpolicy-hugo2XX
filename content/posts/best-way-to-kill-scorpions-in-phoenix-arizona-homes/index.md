@@ -1,7 +1,7 @@
 ---
 title: "Best Way to Kill Scorpions in Phoenix, Arizona Homes"
 description: "A pro's guide to killing scorpions in Phoenix. Learn the most effective insecticides, the critical areas you must treat, and the essential safety measures for your family."
-slug: /best-way-to-kill-scorpions-in-phoenix-arizona-homes/
+slug: best-way-to-kill-scorpions-in-phoenix-arizona-homes
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

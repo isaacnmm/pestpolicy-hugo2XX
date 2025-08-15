@@ -2,7 +2,7 @@
 title: Dualshock 4 Controller Review
 description: Right off, the new PS4 controller popular as the DualShock 4 is the ultimate
   Sony controller, particularly considering the flaws that were in DualShock 3 poor...
-slug: /dualshock-4-controller-review/
+slug: dualshock-4-controller-review
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

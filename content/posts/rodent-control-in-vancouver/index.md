@@ -2,7 +2,7 @@
 title: Rodent Control in Vancouver
 description: Rodents, including mice and rats, are common pests that can cause significant
   issues for homeowners and businesses in Vancouver.
-slug: /rodent-control-in-vancouver/
+slug: rodent-control-in-vancouver
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

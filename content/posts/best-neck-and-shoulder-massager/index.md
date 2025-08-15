@@ -2,7 +2,7 @@
 title: Best Neck and Shoulder Massager
 description: Your Neck and Shoulders bear the largest effect of all the strenuous
   work activities, such as long sitting hours and using tools that are not ergonomically...
-slug: /best-neck-and-shoulder-massager/
+slug: best-neck-and-shoulder-massager
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

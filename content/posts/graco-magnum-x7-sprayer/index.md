@@ -2,7 +2,7 @@
 title: Graco Magnum X7 Sprayer
 description: The Graco Magnum X7 is a highly regarded airless paint sprayer designed
   for both DIY enthusiasts and professional painters.
-slug: /graco-magnum-x7-sprayer/
+slug: graco-magnum-x7-sprayer
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

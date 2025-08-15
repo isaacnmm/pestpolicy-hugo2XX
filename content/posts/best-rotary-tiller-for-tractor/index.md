@@ -2,7 +2,7 @@
 title: Best Rotary Tiller for Tractor
 description: You need the Best Rotary Tiller for Tractor as an implement for you to
   have an easier time in farming or landscaping.
-slug: /best-rotary-tiller-for-tractor/
+slug: best-rotary-tiller-for-tractor
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

@@ -2,7 +2,7 @@
 title: Best Point and Shoot Camera Under 100
 description: Most smartphone cameras have inadequate shooting features . But any point
   and shoot camera have optical zoom changing the perspective of shots, larger...
-slug: /best-point-and-shoot-camera-under-100/
+slug: best-point-and-shoot-camera-under-100
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

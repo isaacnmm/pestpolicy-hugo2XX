@@ -1,7 +1,7 @@
 ---
 title: Best Gnat Repellents
 description: Summer brings warm weather, outdoor adventures
-slug: /best-gnat-repellents/
+slug: best-gnat-repellents
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

@@ -2,7 +2,7 @@
 title: Are Lizards Poisonous
 description: House lizards eat a great deal of insects in the house and some are kept
   as pets. But you might be worried about their possibility of harming you or...
-slug: /are-lizards-poisonous/
+slug: are-lizards-poisonous
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

@@ -2,7 +2,7 @@
 title: Average Yard Size
 description: The size of a residential yard in the United States is a topic of perpetual
   interest, reflecting shifting demographics, housing trends, and regional...
-slug: /average-yard-size/
+slug: average-yard-size
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

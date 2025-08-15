@@ -2,7 +2,7 @@
 title: How Big Are Fleas
 description: Fleas are tiny insects order Siphonaptera that exist parasitically sucking
   blood on hosts birds, mammals, and pets like dogs & cats. Key identifies of the...
-slug: /how-big-are-fleas/
+slug: how-big-are-fleas
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

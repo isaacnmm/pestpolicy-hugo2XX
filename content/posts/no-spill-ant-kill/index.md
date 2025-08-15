@@ -2,7 +2,7 @@
 title: No Spill Ant Kill
 description: In this article, I've reviewed the No Spill Ant Kill by Maggie's Farm
   for killing insects like worker ants and foraging ants.
-slug: /no-spill-ant-kill/
+slug: no-spill-ant-kill
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

@@ -2,7 +2,7 @@
 title: Best Blackout Curtains
 description: If you're like most of us, you hate that dazzling sunlight entering through
   your window or door during the lazy mornings.
-slug: /best-blackout-curtains/
+slug: best-blackout-curtains
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

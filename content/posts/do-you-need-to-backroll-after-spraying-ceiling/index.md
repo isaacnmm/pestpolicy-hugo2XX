@@ -2,7 +2,7 @@
 title: Do You Need to Backroll After Spraying Ceiling
 description: If you've recently sprayed the ceiling in your home or are considering
   doing so, you might be wondering if backrolling is necessary after the spraying...
-slug: /do-you-need-to-backroll-after-spraying-ceiling/
+slug: do-you-need-to-backroll-after-spraying-ceiling
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

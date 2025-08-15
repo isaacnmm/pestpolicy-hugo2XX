@@ -3,7 +3,7 @@ title: House Painting Designs and Colors
 description: Choosing the right house painting designs and colors can be a fun yet
   challenging task. The colors you choose for your home can influence the mood of
   each...
-slug: /house-painting-designs-and-colors/
+slug: house-painting-designs-and-colors
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

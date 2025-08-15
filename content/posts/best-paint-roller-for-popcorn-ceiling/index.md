@@ -2,7 +2,7 @@
 title: Best Paint Roller for Popcorn Ceiling
 description: The best paint roller for popcorn ceilings should feature a thick nap
   capable of holding more paint to allow you to tackle the rough surface with relative...
-slug: /best-paint-roller-for-popcorn-ceiling/
+slug: best-paint-roller-for-popcorn-ceiling
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

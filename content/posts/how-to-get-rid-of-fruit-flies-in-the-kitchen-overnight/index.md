@@ -1,7 +1,7 @@
 ---
 title: "How to Get Rid of Fruit Flies in the Kitchen Overnight"
 description: "Need to get rid of fruit flies fast? A pest control pro shares the two-step plan for overnight success: set an effective trap and eliminate the breeding source."
-slug: /how-to-get-rid-of-fruit-flies-in-the-kitchen-overnight/
+slug: how-to-get-rid-of-fruit-flies-in-the-kitchen-overnight
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

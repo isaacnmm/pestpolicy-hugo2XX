@@ -3,7 +3,7 @@ title: Best Weed Killer for Lawns
 description: When choosing the Best Weed Killer for Lawns , you can consider things
   like effectiveness, safety for your grass , ease of use, and environmental impact.
   Each...
-slug: /best-weed-killer-for-lawns/
+slug: best-weed-killer-for-lawns
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

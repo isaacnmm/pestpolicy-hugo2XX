@@ -2,7 +2,7 @@
 title: Best Lawn Care Service for Weeds
 description: Weeds are the bane of any homeowner striving for a pristine lawn. These
   unwelcome intruders not only detract from your lawn's aesthetic appeal but also...
-slug: /best-lawn-care-service-for-weeds/
+slug: best-lawn-care-service-for-weeds
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

@@ -2,7 +2,7 @@
 title: Does Dryer Kill Bed Bugs
 description: Cloth dryers are equipment at homes, hotels, and institutions we use
   them to dry clothes after washing.
-slug: /does-dryer-kill-bed-bugs/
+slug: does-dryer-kill-bed-bugs
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

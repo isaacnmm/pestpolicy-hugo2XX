@@ -2,7 +2,7 @@
 title: Best 49 Key Midi Controller
 description: Last week I reviewed the best midi keyboard controllerhttpspestpolicy.combest-midi-keyboard-controller
   . In this post, Ive reviewed the best 49 Key Midi...
-slug: /best-49-key-midi-controller/
+slug: best-49-key-midi-controller
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

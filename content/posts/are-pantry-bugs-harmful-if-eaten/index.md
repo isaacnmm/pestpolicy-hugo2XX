@@ -2,7 +2,7 @@
 title: Are Pantry Bugs Harmful If Eaten
 description: Have you come across pantry bugs in your house ? You probably have many
   questions about them. Maybe, you are even wondering if pantry bugs are harmful if...
-slug: /are-pantry-bugs-harmful-if-eaten/
+slug: are-pantry-bugs-harmful-if-eaten
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

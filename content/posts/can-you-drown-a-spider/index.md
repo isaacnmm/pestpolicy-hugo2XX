@@ -3,7 +3,7 @@ title: Can You Drown a Spider
 description: Probably there are thousand ways you can kill you can kill a spider in
   your yard or house. But definitely, most of us know crushing it with a blunt object
   -...
-slug: /can-you-drown-a-spider/
+slug: can-you-drown-a-spider
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

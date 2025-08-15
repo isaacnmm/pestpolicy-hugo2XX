@@ -3,7 +3,7 @@ title: How to Properly Size a Bathroom Vent Fan
 description: The bathroom is arguably the most humid room in any home. Without proper
   ventilation, the constant moisture from showers, baths, and sinks can quickly lead
   to...
-slug: /how-to-properly-size-a-bathroom-vent-fan/
+slug: how-to-properly-size-a-bathroom-vent-fan
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

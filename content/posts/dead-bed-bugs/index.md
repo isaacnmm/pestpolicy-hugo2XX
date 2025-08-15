@@ -2,7 +2,7 @@
 title: Dead Bed Bugs
 description: Seeing dead bed bugsbed-bug-faqs in your house could raise some concern.
   It might be a sure indication that your house is bed bug-infested. I used dawn dish...
-slug: /dead-bed-bugs/
+slug: dead-bed-bugs
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

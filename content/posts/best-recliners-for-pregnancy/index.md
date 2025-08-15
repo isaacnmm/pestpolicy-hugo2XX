@@ -2,7 +2,7 @@
 title: Best Recliners for Pregnancy
 description: Well, I know that choosing a good pregnancy recliner and Nursery is a
   daunting task.
-slug: /best-recliners-for-pregnancy/
+slug: best-recliners-for-pregnancy
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

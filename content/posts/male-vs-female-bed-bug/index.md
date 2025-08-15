@@ -2,7 +2,7 @@
 title: Male Vs Female Bed Bug
 description: Unlike other big animals like mammals, it's not easy to tell male or
   female bedbug by just looking. On male vs. female bed bugs female bedbugs have rounded...
-slug: /male-vs-female-bed-bug/
+slug: male-vs-female-bed-bug
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

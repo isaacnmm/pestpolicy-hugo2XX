@@ -2,7 +2,7 @@
 title: How Often Should You Repaint Interior Walls
 description: Repainting your interior walls is more than just a cosmetic updateits
   a vital part of home maintenance that preserves your spaces appeal and structural...
-slug: /how-often-should-you-repaint-interior-walls/
+slug: how-often-should-you-repaint-interior-walls
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

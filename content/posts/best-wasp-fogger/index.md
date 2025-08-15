@@ -2,7 +2,7 @@
 title: Best Wasp Fogger
 description: A wasp infestation could be such frustration in your place, especially
   if no lasting solution is put into place
-slug: /best-wasp-fogger/
+slug: best-wasp-fogger
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

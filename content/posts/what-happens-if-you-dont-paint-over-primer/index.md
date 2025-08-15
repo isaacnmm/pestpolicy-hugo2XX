@@ -2,7 +2,7 @@
 title: What Happens If You Dont Paint Over Primer
 description: Usually, the priming process is done before actual paint application
   is undertaken in order to boost adhesive contact of the finish coat.
-slug: /what-happens-if-you-dont-paint-over-primer/
+slug: what-happens-if-you-dont-paint-over-primer
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

@@ -2,7 +2,7 @@
 title: Do Gnats Bite Humans
 description: Gnat bite transmits diseases such as carrison, sandy fever, and river
   blindness among others. Therefore, preventive measures should be undertaken whatsoever.
-slug: /do-gnats-bite-humans/
+slug: do-gnats-bite-humans
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

@@ -2,7 +2,7 @@
 title: Complete Guide to Overseeding
 description: Even the most meticulously maintained lawns can thin out over time. Foot
   traffic, environmental stresses like drought or heat, pest infestations, and diseases...
-slug: /complete-guide-to-overseeding/
+slug: complete-guide-to-overseeding
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

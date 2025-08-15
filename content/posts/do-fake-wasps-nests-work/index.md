@@ -3,7 +3,7 @@ title: Do Fake Wasps Nests Work
 description: Summer times is the perfect time to relax at your balcony or backyard.
   Right? Well, it may not be that peaceful if you have wasps infestation in your home
   -...
-slug: /do-fake-wasps-nests-work/
+slug: do-fake-wasps-nests-work
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

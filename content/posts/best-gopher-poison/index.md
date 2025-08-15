@@ -2,7 +2,7 @@
 title: Best Gopher Poison
 description: Gophers are herbivores and feed on different kinds of roots. They also
   eat leaves and some insects
-slug: /best-gopher-poison/
+slug: best-gopher-poison
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

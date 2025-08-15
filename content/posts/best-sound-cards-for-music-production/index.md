@@ -3,7 +3,7 @@ title: Best Sound Cards for Music Production
 description: In this post, I've reviewed the best sound cards for music production.
   Matching your music production needs with the right sound card or audio interface
   is...
-slug: /best-sound-cards-for-music-production/
+slug: best-sound-cards-for-music-production
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

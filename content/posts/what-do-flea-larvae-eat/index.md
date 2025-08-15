@@ -2,7 +2,7 @@
 title: What Do Flea Larvae Eat
 description: What do flea larvae eat? Flea larvae 35 of the flea population are the
   second phase of the fleas' life cycle. The short answer is flea larvae feed primarily...
-slug: /what-do-flea-larvae-eat/
+slug: what-do-flea-larvae-eat
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

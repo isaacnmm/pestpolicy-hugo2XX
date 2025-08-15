@@ -3,7 +3,7 @@ title: Best Pcie Wireless Card for Gaming
 description: To achieve better signal ranges and increased transmission speeds for
   your gaming, you'll need the Best PCIE Wireless Card for Gaming. There are two kinds
   of...
-slug: /best-pcie-wireless-card-for-gaming/
+slug: best-pcie-wireless-card-for-gaming
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

@@ -2,7 +2,7 @@
 title: Best Gutter Guards for Maple Seeds
 description: Maple trees, with their vibrant fall colors and graceful presence, are
   a beautiful addition to any landscape. However, come spring and early summer, they...
-slug: /best-gutter-guards-for-maple-seeds/
+slug: best-gutter-guards-for-maple-seeds
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

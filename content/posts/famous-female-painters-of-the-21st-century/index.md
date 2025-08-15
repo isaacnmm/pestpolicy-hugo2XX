@@ -2,7 +2,7 @@
 title: Famous Female Painters Of the 21st Century
 description: The 21st century has seen the rise of many influential female artists
   who have made significant contributions to the world of painting.
-slug: /famous-female-painters-of-the-21st-century/
+slug: famous-female-painters-of-the-21st-century
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

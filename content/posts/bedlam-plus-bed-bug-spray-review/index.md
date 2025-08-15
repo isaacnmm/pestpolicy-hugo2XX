@@ -1,7 +1,7 @@
 ---
 title: Bedlam Plus Bed Bug Spray Review
 description: Hey guys, and welcome. I've reviewed Bedlam Plus bed bug spray
-slug: /bedlam-plus-bed-bug-spray-review/
+slug: bedlam-plus-bed-bug-spray-review
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

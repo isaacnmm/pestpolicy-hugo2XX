@@ -2,7 +2,7 @@
 title: Tacoma Art Museum
 description: Tacoma, Washington, a city nestled in the picturesque Pacific Northwest,
   is not only renowned for its natural beauty but also for its vibrant cultural scene,...
-slug: /tacoma-art-museum/
+slug: tacoma-art-museum
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

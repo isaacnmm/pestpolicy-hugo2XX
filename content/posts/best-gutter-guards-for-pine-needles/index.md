@@ -3,7 +3,7 @@ title: Best Gutter Guards for Pine Needles
 description: Homeowners living near pine trees know the unique challenge their needles
   pose to gutter systems. Unlike broad leaves that often blow away or break down,
   pine...
-slug: /best-gutter-guards-for-pine-needles/
+slug: best-gutter-guards-for-pine-needles
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

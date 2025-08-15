@@ -3,7 +3,7 @@ title: Are Butterfly Bushes Bad for Butterflies
 description: The common butterfly bush, Buddleja davidii, is a popular garden shrub
   renowned for its abundant, fragrant flowers that undeniably attract a multitude
   of...
-slug: /are-butterfly-bushes-bad-for-butterflies/
+slug: are-butterfly-bushes-bad-for-butterflies
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

@@ -3,7 +3,7 @@ title: Best Microphone for Vocals Live Performance
 description: Are you looking for the best microphone for vocals live performance?
   Well, after honing your skills through regular practice, you'll need a great mic
   to take...
-slug: /best-microphone-for-vocals-live-performance/
+slug: best-microphone-for-vocals-live-performance
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

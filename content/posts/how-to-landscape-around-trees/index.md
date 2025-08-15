@@ -2,7 +2,7 @@
 title: How to Landscape Around Trees
 description: Landscaping around the base of trees can add beauty, suppress weeds,
   and retain moisture, creating a stunning and cohesive look for your garden.
-slug: /landscape-around-trees/
+slug: landscape-around-trees
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

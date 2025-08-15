@@ -3,7 +3,7 @@ title: Diatomaceous Earth
 description: Diatomaceous earth, anyone? You probably were searching for remedies
   to the roach infestation in your home or a solution to fleas that have become a
   nuisance...
-slug: /diatomaceous-earth/
+slug: diatomaceous-earth
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

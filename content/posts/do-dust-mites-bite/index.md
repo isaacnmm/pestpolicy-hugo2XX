@@ -2,7 +2,7 @@
 title: Do Dust Mites Bite
 description: Dust Mites are tiny insects that have eight legs and a small head and
   they feed off flakes of dead skin shed by humans.
-slug: /do-dust-mites-bite/
+slug: do-dust-mites-bite
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

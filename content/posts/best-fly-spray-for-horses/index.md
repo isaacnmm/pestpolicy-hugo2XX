@@ -2,7 +2,7 @@
 title: Best Fly Spray for Horses
 description: Are you searching for the best fly spray for horses? One that's not only
   effective but also gentle on horses with sensitive skin?
-slug: /best-fly-spray-for-horses/
+slug: best-fly-spray-for-horses
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

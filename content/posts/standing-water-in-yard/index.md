@@ -2,7 +2,7 @@
 title: Standing Water in Yard
 description: Standing water in your yard, often manifesting as persistent puddles
   or squishy, waterlogged patches, is more than just an unsightly nuisance.
-slug: /standing-water-in-yard/
+slug: standing-water-in-yard
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

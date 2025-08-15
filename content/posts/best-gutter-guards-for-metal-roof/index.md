@@ -2,7 +2,7 @@
 title: Best Gutter Guards for Metal Roof
 description: Metal roofs offer exceptional durability, longevity, and a distinctive
   aesthetic for homes. However, their smooth, often steep surfaces present a unique...
-slug: /best-gutter-guards-for-metal-roof/
+slug: best-gutter-guards-for-metal-roof
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

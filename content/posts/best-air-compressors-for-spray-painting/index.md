@@ -3,7 +3,7 @@ title: Best Air Compressors for Spray Painting
 description: After you are done getting a good paint sprayer, you need to consider
   a good air compressor to spice up your painting. Getting the best air compressor
   for...
-slug: /best-air-compressors-for-spray-painting/
+slug: best-air-compressors-for-spray-painting
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

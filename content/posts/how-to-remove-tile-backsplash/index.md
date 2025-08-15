@@ -3,7 +3,7 @@ title: How to Remove Tile Backsplash
 description: Are you tired of those tile backsplash? How are you currently dealing
   with it? If you dont like it, you can still affect those possible changes and put
   the...
-slug: /how-to-remove-tile-backsplash/
+slug: how-to-remove-tile-backsplash
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

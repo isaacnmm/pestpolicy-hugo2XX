@@ -3,7 +3,7 @@ title: Hornet Wasp Removal in Salem
 description: Hornets and wasps can pose a significant threat to homeowners in Salem,
   OR, especially during the warmer months. These stinging insects can build nests
   near...
-slug: /hornet-wasp-removal-in-salem/
+slug: hornet-wasp-removal-in-salem
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

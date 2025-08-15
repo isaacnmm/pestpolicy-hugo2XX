@@ -2,7 +2,7 @@
 title: Guide to Cleaning Mold Off Of Gutters
 description: Gutters are constantly exposed to the elements, making them prime candidates
   for the growth of unsightly mold, mildew, and algae.
-slug: /guide-to-cleaning-mold-off-of-gutters/
+slug: guide-to-cleaning-mold-off-of-gutters
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

@@ -2,7 +2,7 @@
 title: Diatomaceous Earth Vs Borax for Fleas
 description: You saw it, didn't you? That tiny black speck that jumped. Maybe it was
   on your ankle, or maybe you saw it on your pets white fur.
-slug: /diatomaceous-earth-vs-borax-for-fleas/
+slug: diatomaceous-earth-vs-borax-for-fleas
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

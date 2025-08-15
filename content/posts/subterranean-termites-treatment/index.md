@@ -2,7 +2,7 @@
 title: Subterranean Termites Treatment
 description: Subterranean termites cause damages amounting to over a billion-dollar
   annually
-slug: /subterranean-termites-treatment/
+slug: subterranean-termites-treatment
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

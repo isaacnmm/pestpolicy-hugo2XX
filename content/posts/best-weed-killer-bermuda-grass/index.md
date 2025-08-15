@@ -2,7 +2,7 @@
 title: Best Weed Killer Bermuda Grass
 description: Bermudagrass is a popular choice for lawns in warm climates due to its
   exceptional heat and drought tolerance, rapid growth, and ability to withstand heavy...
-slug: /best-weed-killer-bermuda-grass/
+slug: best-weed-killer-bermuda-grass
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

@@ -2,7 +2,7 @@
 title: Bed Bugs Vs Mites
 description: What are the differences between bed bugs vs. mites? No infestation from
   any of the bed bugs or mites is good. But exterminating them requires that you know...
-slug: /bed-bugs-vs-mites/
+slug: bed-bugs-vs-mites
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

@@ -2,7 +2,7 @@
 title: Wasp Nest Removal in Bellevue Wa
 description: Wasp infestations can be a serious concern for homeowners and businesses
   in Bellevue, WA. These aggressive insects can pose significant health risks,...
-slug: /wasp-nest-removal-in-bellevue-wa/
+slug: wasp-nest-removal-in-bellevue-wa
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

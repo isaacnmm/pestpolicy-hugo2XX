@@ -2,7 +2,7 @@
 title: Best Metal Gutter Guards
 description: Investing in gutter guards is a smart decision for any homeowner looking
   to reduce maintenance, prevent costly water damage, and enhance their home's...
-slug: /best-metal-gutter-guards/
+slug: best-metal-gutter-guards
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

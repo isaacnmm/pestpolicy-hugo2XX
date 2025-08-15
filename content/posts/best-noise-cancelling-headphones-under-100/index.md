@@ -3,7 +3,7 @@ title: Best Noise Cancelling Headphones Under 100
 description: While the use of headphones in the current world is becoming a daily
   routine, many buyers have become victims of low-quality products. Actually, to select
   the...
-slug: /best-noise-cancelling-headphones-under-100/
+slug: best-noise-cancelling-headphones-under-100
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

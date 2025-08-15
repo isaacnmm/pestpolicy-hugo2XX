@@ -2,7 +2,7 @@
 title: What Kills Fleas in the Yard Naturally
 description: Using pesticide sprays, among other chemical flea control methods , is
   considered the best way to control fleas in every Yard.
-slug: /what-kills-fleas-in-the-yard-naturally/
+slug: what-kills-fleas-in-the-yard-naturally
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

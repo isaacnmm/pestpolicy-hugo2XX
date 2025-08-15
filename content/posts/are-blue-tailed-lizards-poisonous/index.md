@@ -2,7 +2,7 @@
 title: Are Blue Tailed Lizards Poisonous
 description: Could be you have come across Blue Tailed Lizards in your home, yard
   or zoo and wonder whether they could be poisonous-lizards-poisonous .
-slug: /are-blue-tailed-lizards-poisonous/
+slug: are-blue-tailed-lizards-poisonous
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

@@ -2,7 +2,7 @@
 title: Summer Lawn Care Guide
 description: Summer is a time for enjoying your outdoor space, but it also presents
   the most significant challenges for maintaining a healthy and vibrant lawn.
-slug: /summer-lawn-care-guide/
+slug: summer-lawn-care-guide
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

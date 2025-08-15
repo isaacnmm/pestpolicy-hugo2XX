@@ -2,7 +2,7 @@
 title: How Big Are Bearded Dragons
 description: The bearded dragons are docile and beautiful reptiles that you'll love
   for their low maintenance.In this article, I will let you know how big bearded dragons...
-slug: /how-big-are-bearded-dragons/
+slug: how-big-are-bearded-dragons
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

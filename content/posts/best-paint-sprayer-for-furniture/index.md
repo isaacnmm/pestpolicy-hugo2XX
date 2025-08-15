@@ -2,7 +2,7 @@
 title: Best Paint Sprayer for Furniture
 description: Are you looking for the best paint sprayer for furniture? I've reviewed
   sprayers that are easy to use and give your furniture an excellent finish. The...
-slug: /best-paint-sprayer-for-furniture/
+slug: best-paint-sprayer-for-furniture
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

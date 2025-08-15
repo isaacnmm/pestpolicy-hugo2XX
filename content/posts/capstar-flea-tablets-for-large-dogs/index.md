@@ -2,7 +2,7 @@
 title: Capstar Flea Tablets for Large Dogs
 description: Capstar flea tablets for large dogs contain 57 mg of nitenpyram as its
   active ingredient and it's effective for killing adult...
-slug: /capstar-flea-tablets-for-large-dogs/
+slug: capstar-flea-tablets-for-large-dogs
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

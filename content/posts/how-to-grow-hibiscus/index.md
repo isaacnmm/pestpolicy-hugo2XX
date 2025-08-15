@@ -2,7 +2,7 @@
 title: How to Grow Hibiscus
 description: With their large, trumpet-shaped flowers and an astounding array of colors,
   hibiscus plants instantly evoke images of tropical paradises and warm, sunny...
-slug: /how-to-grow-hibiscus/
+slug: how-to-grow-hibiscus
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

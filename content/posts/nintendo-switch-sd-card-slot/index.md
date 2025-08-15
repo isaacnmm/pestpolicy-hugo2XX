@@ -2,7 +2,7 @@
 title: Nintendo Switch Sd Card Slot
 description: Today I'll take a peek at how to install your micro SD card on the Nintendo
   switch . The 32GB internal storage of your Nintendo Switch might not be enough to...
-slug: /nintendo-switch-sd-card-slot/
+slug: nintendo-switch-sd-card-slot
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

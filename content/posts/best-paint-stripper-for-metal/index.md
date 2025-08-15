@@ -2,7 +2,7 @@
 title: Best Paint Stripper for Metal
 description: So, whats the best paint stripper for metal? It's challenging to choose
   a remover for old wood-for-wood or metal such as spray paint for metal , including...
-slug: /best-paint-stripper-for-metal/
+slug: best-paint-stripper-for-metal
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

@@ -2,7 +2,7 @@
 title: Best Chemical Paint Remover for Wood
 description: Better preparation of your surface for paintwork is as vital as the paintwork
   itself, and therefore choosing the best chemical paint remover for wood should...
-slug: /best-chemical-paint-remover-for-wood/
+slug: best-chemical-paint-remover-for-wood
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

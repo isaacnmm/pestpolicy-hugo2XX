@@ -3,7 +3,7 @@ title: Best Wooden Swing Set Reviews
 description: Are you one of those parents that are struggling to get your kids out
   to play? Or one that kids want to truly get out but there is no play equipment in
   their...
-slug: /best-wooden-swing-set-reviews/
+slug: best-wooden-swing-set-reviews
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

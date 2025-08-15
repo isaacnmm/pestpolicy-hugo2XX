@@ -2,7 +2,7 @@
 title: Spraying Yard With Dawn for Fleas
 description: My brother and I are neighbors and we have lawns that are green and well-manicured.
   So we are always worried about the idea of pests like fleas taking over...
-slug: /spraying-yard-with-dawn-for-fleas/
+slug: spraying-yard-with-dawn-for-fleas
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

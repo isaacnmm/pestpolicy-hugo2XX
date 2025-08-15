@@ -3,7 +3,7 @@ title: How to Get Rid Of Flea Eggs on Cats
 description: Previously, I discussed the top flea foggers , but we'll cover how you
   can get rid of cat flea eggs in this post. In short, to get rid of flea eggs on
   cats,...
-slug: /how-to-get-rid-of-flea-eggs-on-cats/
+slug: how-to-get-rid-of-flea-eggs-on-cats
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

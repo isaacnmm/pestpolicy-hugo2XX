@@ -3,7 +3,7 @@ title: Green Gobbler Ggdis2ch32 Dissolve Review
 description: Green Gobbler is conveniently packed in two packets that youll find easy
   to use on your clogged pipes and drains. Luckily, this product also tops our list
   of...
-slug: /green-gobbler-ggdis2ch32-dissolve-review/
+slug: green-gobbler-ggdis2ch32-dissolve-review
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

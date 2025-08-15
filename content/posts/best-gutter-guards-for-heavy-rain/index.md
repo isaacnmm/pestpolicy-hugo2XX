@@ -2,7 +2,7 @@
 title: Best Gutter Guards for Heavy Rain
 description: For homeowners in regions prone to heavy rainfall, selecting the right
   gutter guards is not just about preventing clogs it's about ensuring your home's...
-slug: /best-gutter-guards-for-heavy-rain/
+slug: best-gutter-guards-for-heavy-rain
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

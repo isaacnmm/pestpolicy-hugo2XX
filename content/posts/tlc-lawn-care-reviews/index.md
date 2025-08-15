@@ -3,7 +3,7 @@ title: Tlc Lawn Care Reviews
 description: In the vast and varied world of lawn maintenance, homeowners often seek
   a service that goes beyond the basics, one that truly provides "Tender Loving Care"
   to...
-slug: /tlc-lawn-care-reviews/
+slug: tlc-lawn-care-reviews
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

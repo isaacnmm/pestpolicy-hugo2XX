@@ -2,7 +2,7 @@
 title: Winter Care Of Succulents
 description: Succulents are renowned for their low-maintenance nature, unique aesthetics,
   and ability to thrive in arid conditions. Their fleshy leaves, stems, or roots...
-slug: /winter-care-of-succulents/
+slug: winter-care-of-succulents
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

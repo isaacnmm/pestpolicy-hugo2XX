@@ -2,7 +2,7 @@
 title: Weed Man Lawn Care Review
 description: In the battle against intrusive weeds, a healthy lawn is often the primary
   casualty. For homeowners seeking to reclaim their turf from dandelions, crabgrass,...
-slug: /weed-man-lawn-care-review/
+slug: weed-man-lawn-care-review
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

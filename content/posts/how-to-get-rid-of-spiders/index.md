@@ -2,7 +2,7 @@
 title: How to Get Rid Of Spiders
 description: Spiders will have many benefits, as a homeowner, in your garden including
   preying on other dangerous insects. But why are spiders among the most loathed pests...
-slug: /how-to-get-rid-of-spiders/
+slug: how-to-get-rid-of-spiders
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

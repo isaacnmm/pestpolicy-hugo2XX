@@ -2,7 +2,7 @@
 title: How to Stop Geese from Pooping in Yard
 description: Its unfortunate that most of us dont understand the dangers of geese
   droppings. How to stop geese from pooping in the...
-slug: /how-to-stop-geese-from-pooping-in-yard/
+slug: how-to-stop-geese-from-pooping-in-yard
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

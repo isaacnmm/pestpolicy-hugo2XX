@@ -3,7 +3,7 @@ title: Best Tiller for Subcompact Tractor
 description: To find the best tiller for your subcompact tractor or rotary tiller
   , you need to be cautious and detailed. Whether you are a professional farmer, a
   hobbyist...
-slug: /best-tiller-for-subcompact-tractor/
+slug: best-tiller-for-subcompact-tractor
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

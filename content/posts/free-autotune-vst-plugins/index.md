@@ -2,7 +2,7 @@
 title: Free Autotune Vst Plugins
 description: Here's a comparison guide between free Autotune vst plugins. In an attempt
   to get the best vocal and musical instrumental sound output, producers creatively...
-slug: /free-autotune-vst-plugins/
+slug: free-autotune-vst-plugins
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

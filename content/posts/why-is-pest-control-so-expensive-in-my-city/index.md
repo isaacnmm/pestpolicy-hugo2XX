@@ -1,7 +1,7 @@
 ---
 title: "Why Is Pest Control So Expensive? A Professional Breakdown"
 description: "A pest control expert explains the real reasons why professional service is so expensive, from the high cost of insurance and products to the local factors in your city."
-slug: /why-is-pest-control-so-expensive-in-my-city/
+slug: why-is-pest-control-so-expensive-in-my-city
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

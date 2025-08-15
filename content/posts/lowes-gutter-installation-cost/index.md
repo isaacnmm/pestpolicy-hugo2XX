@@ -2,7 +2,7 @@
 title: Lowes Gutter Installation Cost
 description: For homeowners looking to install new gutters or replace old ones, big-box
   retailers like Lowe's often come to mind as a convenient option.
-slug: /lowes-gutter-installation-cost/
+slug: lowes-gutter-installation-cost
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

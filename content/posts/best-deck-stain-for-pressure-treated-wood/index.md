@@ -2,7 +2,7 @@
 title: Best Deck Stain for Pressure Treated Wood
 description: Whats the best deck stain for pressure-treated wood? There is a variety
   of deck stains and sealers available to choose from
-slug: /best-deck-stain-for-pressure-treated-wood/
+slug: best-deck-stain-for-pressure-treated-wood
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

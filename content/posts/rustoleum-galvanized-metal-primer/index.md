@@ -2,7 +2,7 @@
 title: Rustoleum Galvanized Metal Primer
 description: It is important to go for a primer that will be compatible with your
   paint and the surface if you want a professional look
-slug: /rustoleum-galvanized-metal-primer/
+slug: rustoleum-galvanized-metal-primer
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

@@ -3,7 +3,7 @@ title: How to Get Rid Of Fleas in the House Fast
 description: Fleas are a major problem for many people in houses and offices. They
   can infest your carpet, furniture, and even your pets. Some fleas fall off these
   wild...
-slug: /how-to-get-rid-of-fleas-in-the-house-fast/
+slug: how-to-get-rid-of-fleas-in-the-house-fast
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

@@ -2,7 +2,7 @@
 title: Savatree
 description: For homeowners with mature landscapes featuring valuable trees and shrubs,
   or those seeking a higher level of nuanced care for their entire property, standard...
-slug: /savatree/
+slug: savatree
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

@@ -1,7 +1,7 @@
 ---
 title: "Best Essential Oils to Repel Spiders and Mice"
 description: "A professional's guide to using essential oils for spiders and mice. Learn which oils work as a temporary repellent, how to use them safely, and their critical limitations."
-slug: /best-essential-oils-to-repel-spiders-and-mice/
+slug: best-essential-oils-to-repel-spiders-and-mice
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

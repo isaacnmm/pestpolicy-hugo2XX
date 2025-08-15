@@ -2,7 +2,7 @@
 title: What Can Kill Fleas Instantly
 description: Fleas can be a nightmare for pet owners and homeowners alike. These tiny,
   blood-sucking insects can cause discomfort to pets and humans, leading to itching,...
-slug: /what-can-kill-fleas-instantly/
+slug: what-can-kill-fleas-instantly
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

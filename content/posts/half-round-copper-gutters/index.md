@@ -2,7 +2,7 @@
 title: Half Round Copper Gutters
 description: For discerning homeowners seeking to elevate the aesthetic appeal and
   long-term functionality of their property, half-round copper gutters stand as an...
-slug: /half-round-copper-gutters/
+slug: half-round-copper-gutters
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

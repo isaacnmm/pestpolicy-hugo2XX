@@ -3,7 +3,7 @@ title: How to Clean Dried Latex Paint from Paint Sprayer
 description: When the latex paint sprayer is stored without cleaning, the paint dries
   and clogs the channels. Dried paint affects the performance of the paint sprayer
   and...
-slug: /how-to-clean-dried-latex-paint-from-paint-sprayer/
+slug: how-to-clean-dried-latex-paint-from-paint-sprayer
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

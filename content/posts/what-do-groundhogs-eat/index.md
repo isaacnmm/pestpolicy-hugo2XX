@@ -3,7 +3,7 @@ title: What Do Groundhogs Eat
 description: Groundhogs are underground rodents that spend most of their lives in
   underground tunnels. They spend a lot of time burrowing and coming out in the open
   to...
-slug: /what-do-groundhogs-eat/
+slug: what-do-groundhogs-eat
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

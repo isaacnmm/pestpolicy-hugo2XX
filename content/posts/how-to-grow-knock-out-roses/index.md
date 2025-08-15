@@ -2,7 +2,7 @@
 title: How to Grow Knock Out Roses
 description: For decades, roses were synonymous with high-maintenance gardening  requiring
   meticulous pruning, constant vigilance against pests and diseases, and often...
-slug: /how-to-grow-knock-out-roses/
+slug: how-to-grow-knock-out-roses
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

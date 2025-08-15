@@ -2,7 +2,7 @@
 title: Graco Fflp Tip for Sprayer
 description: If you own a Graco RAC sprayer , then, you will have to read this article
   to acquire in-depth knowledge on the fine finish, low pressure FFLP tips.
-slug: /graco-fflp-tip-for-sprayer/
+slug: graco-fflp-tip-for-sprayer
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

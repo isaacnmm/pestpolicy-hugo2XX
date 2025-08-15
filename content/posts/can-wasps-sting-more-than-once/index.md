@@ -2,7 +2,7 @@
 title: Can Wasps Sting More Than Once
 description: Being a victim of a wasps sting once is painful enough to leave a lasting
   impression regardless of whether you are a kid or an adult.
-slug: /can-wasps-sting-more-than-once/
+slug: can-wasps-sting-more-than-once
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

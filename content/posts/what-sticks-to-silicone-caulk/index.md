@@ -2,7 +2,7 @@
 title: What Sticks to Silicone Caulk
 description: Silicone caulk is a popular and versatile sealing material known for
   its rubber-like properties and high-temperature resistance.
-slug: /what-sticks-to-silicone-caulk/
+slug: what-sticks-to-silicone-caulk
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

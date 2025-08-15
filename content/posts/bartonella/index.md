@@ -3,7 +3,7 @@ title: Bartonella
 description: Bartonella is a type of bacteria that can cause a variety of illnesses
   in both humans and animals. It is often transmitted through the bites or scratches
   of...
-slug: /bartonella/
+slug: bartonella
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

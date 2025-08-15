@@ -2,7 +2,7 @@
 title: Pros and Cons Of Using Glue Traps for Mice
 description: Glue traps are a common and reliable way of getting rid of mice in houses
   and offices.
-slug: /pros-and-cons-of-using-glue-traps-for-mice/
+slug: pros-and-cons-of-using-glue-traps-for-mice
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

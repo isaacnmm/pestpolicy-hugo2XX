@@ -3,7 +3,7 @@ title: How to Edge a Lawn
 description: A beautifully manicured lawn is often the hallmark of a well-maintained
   home. While regular mowing, fertilizing, and watering are foundational, there's
   one...
-slug: /how-to-edge-a-lawn/
+slug: how-to-edge-a-lawn
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

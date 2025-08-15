@@ -2,7 +2,7 @@
 title: The 5 Best Termite Killers for DIY Home Defense (2025 Review)
 description: Protect your home from termite damage. We review the best termite killers,
   including baits and liquid treatments, for effective DIY termite control.
-slug: /best-termite-killer/
+slug: best-termite-killer
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

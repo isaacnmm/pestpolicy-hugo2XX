@@ -2,7 +2,7 @@
 title: Best Riding Lawn Mower for Rough Terrain
 description: Mowing a rugged lawn is not the most thrilling activity. But, with the
   excellent riding lawn mower , it could become something that you can enjoy.
-slug: /best-riding-lawn-mower-for-rough-terrain/
+slug: best-riding-lawn-mower-for-rough-terrain
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

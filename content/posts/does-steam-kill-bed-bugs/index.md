@@ -3,7 +3,7 @@ title: Does Steam Kill Bed Bugs
 description: '''Goodnight, sleep tight, and don''t let the bed bugs bite!'' The thought
   of sharing our beds with resilient critters that live off our skin and blood is
   enough to'
-slug: /does-steam-kill-bed-bugs/
+slug: does-steam-kill-bed-bugs
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

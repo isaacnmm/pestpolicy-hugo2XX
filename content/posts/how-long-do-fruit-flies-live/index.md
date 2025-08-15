@@ -3,7 +3,7 @@ title: How Long Do Fruit Flies Live
 description: Could you be asking yourself how long fruit flies live? Do fruit flies
   bother you by flying all over in your house and compound that you wonder when they
   will...
-slug: /how-long-do-fruit-flies-live/
+slug: how-long-do-fruit-flies-live
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

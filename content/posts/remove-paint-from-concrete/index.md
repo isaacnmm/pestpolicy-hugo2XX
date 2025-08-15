@@ -3,7 +3,7 @@ title: Remove Paint from Concrete
 description: Removing dried paint from concrete surfaces can be cumbersome, especially
   when the wrong procedure is followed. Perhaps you need to restore your concrete
   with...
-slug: /remove-paint-from-concrete/
+slug: remove-paint-from-concrete
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

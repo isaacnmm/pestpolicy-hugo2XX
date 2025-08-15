@@ -1,7 +1,7 @@
 ---
 title: "Natural Scorpion Repellents for Las Vegas Yards"
 description: "A pro's guide to natural scorpion repellents for Las Vegas yards. Learn what actually works—from diatomaceous earth to habitat removal—and which popular myths to avoid."
-slug: /natural-scorpion-repellent-for-las-vegas-yards/
+slug: natural-scorpion-repellent-for-las-vegas-yards
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

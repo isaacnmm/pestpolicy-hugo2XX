@@ -2,7 +2,7 @@
 title: Bed Bugs Vs Other Pests
 description: When it comes to dealing with pests in your home, it is important to
   correctly identify the type of infestation you are dealing with.
-slug: /bed-bugs-vs-other-pests/
+slug: bed-bugs-vs-other-pests
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

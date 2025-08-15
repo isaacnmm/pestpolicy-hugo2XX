@@ -1,7 +1,7 @@
 ---
 title: "How to Get Rid of Drain Flies in the Bathroom Sink"
 description: "Seeing tiny flies around your bathroom sink? A pro explains what drain flies are, why they're there, and a field-tested plan to eliminate them from your drain for good."
-slug: /how-to-get-rid-of-drain-flies-in-the-bathroom-sink/
+slug: how-to-get-rid-of-drain-flies-in-the-bathroom-sink
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

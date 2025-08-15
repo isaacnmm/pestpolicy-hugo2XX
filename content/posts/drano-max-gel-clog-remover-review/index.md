@@ -2,7 +2,7 @@
 title: Drano Max Gel Clog Remover Review
 description: So today, Im at my house in Downtown Houston ready to do a review of
   the Drano Max Gel Clog Remover
-slug: /drano-max-gel-clog-remover-review/
+slug: drano-max-gel-clog-remover-review
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

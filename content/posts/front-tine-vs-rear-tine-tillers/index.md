@@ -2,7 +2,7 @@
 title: Front Tine Vs Rear Tine Tillers
 description: A tiller will help you in turning and aerating the soil in your vegetable
   garden or farm.
-slug: /front-tine-vs-rear-tine-tillers/
+slug: front-tine-vs-rear-tine-tillers
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

@@ -3,7 +3,7 @@ title: Best Condenser Mics Under 300
 description: What's the best condenser mics under 300? Condenser Mics, in recording
   studios, are best for recording vocals to accompany acoustic instruments, drums,
   horns....
-slug: /best-condenser-mics-under-300/
+slug: best-condenser-mics-under-300
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

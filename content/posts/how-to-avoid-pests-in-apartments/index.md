@@ -2,7 +2,7 @@
 title: How to Avoid Pests in Apartments
 description: Avoiding pests in apartments requires a combination of good hygiene,
   preventive measures, and prompt action if pests are spotted.
-slug: /how-to-avoid-pests-in-apartments/
+slug: how-to-avoid-pests-in-apartments
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

@@ -2,7 +2,7 @@
 title: August Lawn and Garden to Do List
 description: August in the garden and on the lawn can be a challenging month. For
   many regions, it's the peak of summer heat and often a period of significant drought...
-slug: /august-lawn-and-garden-to-do-list/
+slug: august-lawn-and-garden-to-do-list
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

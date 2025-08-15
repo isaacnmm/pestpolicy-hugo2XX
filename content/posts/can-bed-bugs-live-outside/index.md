@@ -2,7 +2,7 @@
 title: Can Bed Bugs Live Outside
 description: No one wants to be confronted with a bed bug infestation and one of the
   burning questions
-slug: /can-bed-bugs-live-outside/
+slug: can-bed-bugs-live-outside
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

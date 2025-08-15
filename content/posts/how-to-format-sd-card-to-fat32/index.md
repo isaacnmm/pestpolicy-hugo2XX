@@ -3,7 +3,7 @@ title: How to Format Sd Card to Fat32
 description: Formatting the Raspberry Pi 3 SD card , particularly SDXC 64GB and above,
   to fat32 is usually the first step while using the tiny computing system for Pi
   3...
-slug: /how-to-format-sd-card-to-fat32/
+slug: how-to-format-sd-card-to-fat32
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

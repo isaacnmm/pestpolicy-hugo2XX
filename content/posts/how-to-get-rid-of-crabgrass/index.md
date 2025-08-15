@@ -2,7 +2,7 @@
 title: How to Get Rid Of Crabgrass
 description: Crabgrass is one of the most persistent and frustrating weeds for homeowners
   striving for a pristine lawn. This annual grassy weed, identifiable by its...
-slug: /how-to-get-rid-of-crabgrass/
+slug: how-to-get-rid-of-crabgrass
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

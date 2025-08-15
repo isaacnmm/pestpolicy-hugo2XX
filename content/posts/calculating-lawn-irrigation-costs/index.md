@@ -2,7 +2,7 @@
 title: Calculating Lawn Irrigation Costs
 description: A lush, green lawn is a desirable feature for any home, but achieving
   and maintaining it often involves significant water consumption, especially in warmer...
-slug: /calculating-lawn-irrigation-costs/
+slug: calculating-lawn-irrigation-costs
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

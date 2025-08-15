@@ -2,7 +2,7 @@
 title: How to Decorate a Stairwell
 description: Decorating a stairwell requires careful planning and attention to detail.
   The key to a successful stairwell decoration lies in combining aesthetics and...
-slug: /how-to-decorate-a-stairwell/
+slug: how-to-decorate-a-stairwell
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

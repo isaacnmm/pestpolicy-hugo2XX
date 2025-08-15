@@ -2,7 +2,7 @@
 title: Best Shoes for Standing All Day With Bad Knees
 description: The Best Shoes for Standing All Day with Bad Knees ensures that you dont
   strain your painful knees as you go about your usual errands. These shoes are...
-slug: /best-shoes-for-standing-all-day-with-bad-knees/
+slug: best-shoes-for-standing-all-day-with-bad-knees
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

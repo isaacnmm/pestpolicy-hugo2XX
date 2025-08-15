@@ -3,7 +3,7 @@ title: Best Recliners for Short People
 description: Most recliners advertised as best recliners for short people have 1 seat
   padding fixed in the wrong places, 2 a backrest that is too far, or 3 a seat that
   is...
-slug: /best-recliners-for-short-people/
+slug: best-recliners-for-short-people
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

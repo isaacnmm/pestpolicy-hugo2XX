@@ -2,7 +2,7 @@
 title: Do Anole Lizards Bite
 description: Anole lizards, often referred to as "Anoles," are common in many households
   and outdoor environments. Known for their vibrant colors and territorial...
-slug: /do-anole-lizards-bite/
+slug: do-anole-lizards-bite
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

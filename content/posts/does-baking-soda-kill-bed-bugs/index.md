@@ -3,7 +3,7 @@ title: Does Baking Soda Kill Bed Bugs
 description: Does Baking Soda Kill Bed Bugs? Dealing with pests in your home can be
   costly and unsettling. Pests such as bed bugs replicate rapidly by laying 2 or 3
   eggs...
-slug: /does-baking-soda-kill-bed-bugs/
+slug: does-baking-soda-kill-bed-bugs
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

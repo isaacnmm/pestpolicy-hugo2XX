@@ -2,7 +2,7 @@
 title: Best Shoes for Plyometrics
 description: Are you looking for the Best Shoes for Plyometrics? Youre right on time!
   During Plyometrics youll engage in many intense movements like jumping, skipping,...
-slug: /best-shoes-for-plyometrics/
+slug: best-shoes-for-plyometrics
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

@@ -2,7 +2,7 @@
 title: Lawn Rust
 description: A vibrant, uniformly green lawn is a hallmark of a well-maintained property.
   So, it can be disheartening to step onto your turf and find your shoes, clothes,...
-slug: /lawn-rust/
+slug: lawn-rust
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

@@ -2,7 +2,7 @@
 title: Best Plastic Gutter Guards
 description: Plastic gutter guards offer an appealing blend of affordability, ease
   of installation, and basic debris protection, making them a popular choice for...
-slug: /best-plastic-gutter-guards/
+slug: best-plastic-gutter-guards
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

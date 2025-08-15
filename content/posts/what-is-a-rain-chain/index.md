@@ -2,7 +2,7 @@
 title: What is a Rain Chain
 description: For centuries, homeowners have relied on traditional downspouts to channel
   rainwater from their gutters away from their homes.
-slug: /what-is-a-rain-chain/
+slug: what-is-a-rain-chain
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

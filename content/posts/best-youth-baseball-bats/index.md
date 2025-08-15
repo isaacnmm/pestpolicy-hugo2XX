@@ -2,7 +2,7 @@
 title: Best Youth Baseball Bats
 description: To maintain long-term game integrity, all youth players sluggers must
   acquire the best youth baseball bats that comply with the wood-like performance...
-slug: /best-youth-baseball-bats/
+slug: best-youth-baseball-bats
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

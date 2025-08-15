@@ -3,7 +3,7 @@ title: American Pest Review
 description: When you get signs of pests in or around the house, it's critical that
   you hire a reliable and efficient pest exterminator. Top bug control services such
   as...
-slug: /american-pest-review/
+slug: american-pest-review
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

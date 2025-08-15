@@ -2,7 +2,7 @@
 title: How to Thin Semi Gloss Paint
 description: Semi-gloss paint is a popular choice for high-traffic areas due to its
   durability, ease of cleaning, and attractive finish.
-slug: /how-to-thin-semi-gloss-paint/
+slug: how-to-thin-semi-gloss-paint
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

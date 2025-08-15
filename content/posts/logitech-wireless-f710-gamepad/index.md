@@ -2,7 +2,7 @@
 title: Logitech Wireless F710 Gamepad
 description: The Logitech Wireless f710 Gamepad is easy to pick a Wireless PC controller
   but it will be very difficult to put away.
-slug: /logitech-wireless-f710-gamepad/
+slug: logitech-wireless-f710-gamepad
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

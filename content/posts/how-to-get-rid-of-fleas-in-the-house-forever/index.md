@@ -2,7 +2,7 @@
 title: How to Get Rid Of Fleas in the House Forever
 description: Fleas are a common pest in the house They're small, they jump high, they'll
   multiply so fast, and can be incredibly difficult to get rid of. The fleas may...
-slug: /how-to-get-rid-of-fleas-in-the-house-forever/
+slug: how-to-get-rid-of-fleas-in-the-house-forever
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

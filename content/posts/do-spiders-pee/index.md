@@ -2,7 +2,7 @@
 title: Do Spiders Pee
 description: Do Spiders Pee? Animals, unlike plants, must all "urinate" despite undertaking
   the process in different ways. Urinating allow removal of unwanted salts,...
-slug: /do-spiders-pee/
+slug: do-spiders-pee
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

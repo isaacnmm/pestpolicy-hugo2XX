@@ -3,7 +3,7 @@ title: Cost to Reseed Lawn
 description: Even the most well-maintained lawns can eventually show signs of wear
   and tear, whether it's from heavy foot traffic, environmental stressors, or the
   natural...
-slug: /cost-to-reseed-lawn/
+slug: cost-to-reseed-lawn
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

@@ -3,7 +3,7 @@ title: Sanding Walls Before Painting
 description: You can use either a sanding block or some sandpaper will help smoothen
   those uneven surfaces particularly those with high-gloss and gloss paint, followed
   by...
-slug: /sanding-walls-before-painting/
+slug: sanding-walls-before-painting
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

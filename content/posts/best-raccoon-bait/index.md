@@ -3,7 +3,7 @@ title: Best Raccoon Bait
 description: Looking for the best raccoon bait? Raccoons can leave costly damages
   behind them. They can also spread diseases such as rabies. If theres a wild animal
   that...
-slug: /best-raccoon-bait/
+slug: best-raccoon-bait
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

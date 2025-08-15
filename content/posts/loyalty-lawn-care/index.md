@@ -2,7 +2,7 @@
 title: Loyalty Lawn Care
 description: In the competitive landscape of professional lawn care, building a lasting
   relationship with clients is a hallmark of truly effective service.
-slug: /loyalty-lawn-care/
+slug: loyalty-lawn-care
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

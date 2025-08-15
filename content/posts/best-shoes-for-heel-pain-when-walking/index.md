@@ -2,7 +2,7 @@
 title: Best Shoes for Heel Pain When Walking
 description: Are you looking for the Best Shoes for Heel Pain When Walking? Welcome!
   Heel pain is associated with conditions like Achilles tendonitis and plantar fasciitis.
-slug: /best-shoes-for-heel-pain-when-walking/
+slug: best-shoes-for-heel-pain-when-walking
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

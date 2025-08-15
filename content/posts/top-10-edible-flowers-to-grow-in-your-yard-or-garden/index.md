@@ -2,7 +2,7 @@
 title: Top 10 Edible Flowers to Grow in Your Yard or Garden
 description: Beyond their aesthetic appeal, many flowers offer a delightful secret
   they are perfectly edible, adding unique flavors, vibrant colors, and intriguing...
-slug: /top-10-edible-flowers-to-grow-in-your-yard-or-garden/
+slug: top-10-edible-flowers-to-grow-in-your-yard-or-garden
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

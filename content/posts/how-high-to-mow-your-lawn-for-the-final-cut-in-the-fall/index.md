@@ -3,7 +3,7 @@ title: How High to Mow Your Lawn for the Final Cut in the Fall
 description: As the vibrant greens of summer begin to fade into the golden hues of
   autumn, lawn care routines shift focus from vigorous growth to preparing your turf
   for...
-slug: /how-high-to-mow-your-lawn-for-the-final-cut-in-the-fall/
+slug: how-high-to-mow-your-lawn-for-the-final-cut-in-the-fall
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

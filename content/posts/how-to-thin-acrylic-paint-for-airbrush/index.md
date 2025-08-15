@@ -2,7 +2,7 @@
 title: How to Thin Acrylic Paint for Airbrush
 description: Acrylic paint is a versatile medium that works well for airbrushing,
   but to achieve smooth and even results, it needs to be thinned to the proper consistency.
-slug: /how-to-thin-acrylic-paint-for-airbrush/
+slug: how-to-thin-acrylic-paint-for-airbrush
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

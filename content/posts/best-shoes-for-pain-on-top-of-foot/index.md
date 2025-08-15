@@ -3,7 +3,7 @@ title: Best Shoes for Pain on Top Of Foot
 description: Which are the Best Shoes for Pain On top Of Foot? Pain On Top Of Foot
   is a common problem that affects most people irrespective of the activities they
   do.
-slug: /best-shoes-for-pain-on-top-of-foot/
+slug: best-shoes-for-pain-on-top-of-foot
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

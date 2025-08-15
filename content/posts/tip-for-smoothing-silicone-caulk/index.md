@@ -1,7 +1,7 @@
 ---
 title: Tip for Smoothing Silicone Caulk
 description: The Secret to Perfect Seams
-slug: /tip-for-smoothing-silicone-caulk/
+slug: tip-for-smoothing-silicone-caulk
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

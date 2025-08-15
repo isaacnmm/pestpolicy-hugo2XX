@@ -2,7 +2,7 @@
 title: Does Vinegar Remove Paint
 description: So, does vinegar remove paint? Well, vinegar is a regular ingredient
   in our kitchens used for salad dressing or making pickles.
-slug: /does-vinegar-remove-paint/
+slug: does-vinegar-remove-paint
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

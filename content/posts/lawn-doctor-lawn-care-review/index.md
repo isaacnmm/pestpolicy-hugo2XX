@@ -2,7 +2,7 @@
 title: Lawn Doctor Lawn Care Review
 description: In the landscape of professional lawn care, Lawn Doctor stands as a venerable
   and highly recognizable name, synonymous with expertise and a commitment to...
-slug: /lawn-doctor-lawn-care-review/
+slug: lawn-doctor-lawn-care-review
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

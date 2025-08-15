@@ -1,7 +1,7 @@
 ---
 title: What Can I Wash My Cat With
 description: You're ready to give your fluffy, adorable cat a bath
-slug: /what-can-i-wash-my-cat-with/
+slug: what-can-i-wash-my-cat-with
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

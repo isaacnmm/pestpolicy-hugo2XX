@@ -2,7 +2,7 @@
 title: Best Backyard Trampolines
 description: In this article, I present the Best Backyard Trampolines for Endless
   Summer Fun. These trampolines provide the highest level of safety, durability, and...
-slug: /best-backyard-trampolines/
+slug: best-backyard-trampolines
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

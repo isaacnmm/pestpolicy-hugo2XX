@@ -2,7 +2,7 @@
 title: Best Bed Bug Powder
 description: Bed bug control is a real struggle, especially with many bed bug powders
   and steamers available on the market.
-slug: /best-bed-bug-powder/
+slug: best-bed-bug-powder
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

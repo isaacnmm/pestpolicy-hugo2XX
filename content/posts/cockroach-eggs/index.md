@@ -2,7 +2,7 @@
 title: Cockroach Eggs
 description: German cockroaches are smaller but more common in the house than the
   American cockroaches in the United States.
-slug: /cockroach-eggs/
+slug: cockroach-eggs
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

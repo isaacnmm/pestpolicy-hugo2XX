@@ -3,7 +3,7 @@ title: Do Spiders Have Bones
 description: Your regular spiders are small-bodied insects. So, its not out of the
   ordinary to imagine how small their bones would be, if they have any at all. In
   fact...
-slug: /do-spiders-have-bones/
+slug: do-spiders-have-bones
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

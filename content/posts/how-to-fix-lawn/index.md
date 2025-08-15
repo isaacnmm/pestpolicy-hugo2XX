@@ -2,7 +2,7 @@
 title: How to Fix Lawn
 description: A lush, vibrant green lawn is a hallmark of a well-maintained home, contributing
   significantly to curb appeal and providing a beautiful space for relaxation...
-slug: /how-to-fix-lawn/
+slug: how-to-fix-lawn
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

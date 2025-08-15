@@ -2,7 +2,7 @@
 title: Best Shoes for Plantar Fibroma
 description: The Best Shoes for Plantar Fibroma should have technologies for motion
   control that would help prevent excessive movement.
-slug: /best-shoes-for-plantar-fibroma/
+slug: best-shoes-for-plantar-fibroma
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

@@ -2,7 +2,7 @@
 title: Best Oil Based Primer for Cabinets
 description: Priming the surfaces of your cabinets prior to painting promotes better
   paint coverage
-slug: /best-oil-based-primer-for-cabinets/
+slug: best-oil-based-primer-for-cabinets
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

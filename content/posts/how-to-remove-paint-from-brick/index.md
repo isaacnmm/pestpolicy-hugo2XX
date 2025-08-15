@@ -2,7 +2,7 @@
 title: How to Remove Paint from Brick
 description: Whether it's concrete walls paint ,acrylic, or latex paint, proper procedure,
   and thinning chemicals should be used to attain excellent paint removal from...
-slug: /how-to-remove-paint-from-brick/
+slug: how-to-remove-paint-from-brick
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

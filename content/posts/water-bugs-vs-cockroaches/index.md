@@ -2,7 +2,7 @@
 title: Water Bugs Vs Cockroaches
 description: Waterbugs are often mistaken for cockroaches. Mistaking one bug for the
   other leads to wrong pest eradication interventions
-slug: /water-bugs-vs-cockroaches/
+slug: water-bugs-vs-cockroaches
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

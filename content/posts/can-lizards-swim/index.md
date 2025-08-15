@@ -2,7 +2,7 @@
 title: Can Lizards Swim
 description: Could be you have come across lizards in a pond, river, sea, ocean, or
   stagnant water at your home and wonder how they move about.
-slug: /can-lizards-swim/
+slug: can-lizards-swim
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

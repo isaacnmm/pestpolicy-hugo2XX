@@ -1,7 +1,7 @@
 ---
 title: "What Is the Buzzing Sound Inside My Walls? (A Pro's Diagnosis)"
 description: "A buzzing sound in your wall demands immediate attention. This expert guide helps you identify the cause—from bees to a dangerous electrical fault—and explains what to do next."
-slug: /what-is-the-buzzing-sound-inside-my-walls/
+slug: what-is-the-buzzing-sound-inside-my-walls
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

@@ -2,7 +2,7 @@
 title: Best Ride on Mower for Steep Slopes
 description: Choosing the best ride-on mower for steep slopes is essential for safely
   and efficiently maintaining your lawn. Whether you have a small yard with uneven...
-slug: /best-ride-on-mower-for-steep-slopes/
+slug: best-ride-on-mower-for-steep-slopes
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

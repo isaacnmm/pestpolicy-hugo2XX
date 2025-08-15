@@ -2,7 +2,7 @@
 title: How to Use a Plunger
 description: Overflowing toilets and slow-drains are a common plumbing problem in
   most homes.Do you find using a drain snake , a drain cleaner , or hiring a plumber...
-slug: /how-to-use-a-plunger/
+slug: how-to-use-a-plunger
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

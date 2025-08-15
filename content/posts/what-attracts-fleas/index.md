@@ -2,7 +2,7 @@
 title: What Attracts Fleas
 description: Fleas will pose a hazard health to both pets and humans. So, ensure to
   flea-treat your cats & dogs
-slug: /what-attracts-fleas/
+slug: what-attracts-fleas
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

@@ -3,7 +3,7 @@ title: Parasites Bedbugs Faqs
 description: Bedbugs are one of the most common household pests, but they are also
   among the most elusive. They are tiny, reddish-brown insects that feed on the blood
   of...
-slug: /parasites-bedbugs-faqs/
+slug: parasites-bedbugs-faqs
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

@@ -2,7 +2,7 @@
 title: How to Thin Enamel Paint
 description: If you are a paint enthusiast, then you must have used enamel paint in
   one way or another. The hard gloss finish is one mark of the quality thinning process...
-slug: /how-to-thin-enamel-paint/
+slug: how-to-thin-enamel-paint
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

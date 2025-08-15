@@ -2,7 +2,7 @@
 title: Leaffilter Cost
 description: For homeowners tired of the relentless cycle of gutter cleaning, the
   promise of a "clog-free gutter" system is incredibly appealing.
-slug: /leaffilter-cost/
+slug: leaffilter-cost
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

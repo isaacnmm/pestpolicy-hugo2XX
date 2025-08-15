@@ -2,7 +2,7 @@
 title: Where Do Spiders Go in the Winter
 description: So,where do spiders go in the winter?  From the over 40,000 spiders species
   , like argiopes or garden orb weavers only survive for a single season
-slug: /where-do-spiders-go-in-the-winter/
+slug: where-do-spiders-go-in-the-winter
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

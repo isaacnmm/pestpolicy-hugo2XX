@@ -2,7 +2,7 @@
 title: Non Skid Paint for Aluminum Boats
 description: Non-skid paint is an essential component for maintaining safety and enhancing
   the durability of aluminum boats. Whether you're looking to prevent slips and...
-slug: /non-skid-paint-for-aluminum-boats/
+slug: non-skid-paint-for-aluminum-boats
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

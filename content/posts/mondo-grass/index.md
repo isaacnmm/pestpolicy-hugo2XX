@@ -2,7 +2,7 @@
 title: Mondo Grass
 description: Mondo grass, primarily Ophiopogon japonicus, is a beloved ornamental
   grass-like plant known for its refined texture, evergreen foliage, and remarkable...
-slug: /mondo-grass/
+slug: mondo-grass
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

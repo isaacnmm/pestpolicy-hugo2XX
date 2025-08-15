@@ -3,7 +3,7 @@ title: Problem With Lawn Mower Engine Running Rough
 description: Few things are more frustrating on a beautiful mowing day than a lawn
   mower engine that won't cooperate. Instead of a steady, powerful hum, you might
   hear...
-slug: /problem-with-lawn-mower-engine-running-rough/
+slug: problem-with-lawn-mower-engine-running-rough
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

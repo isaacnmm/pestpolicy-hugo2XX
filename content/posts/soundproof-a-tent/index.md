@@ -3,7 +3,7 @@ title: Soundproof a Tent
 description: If you are having trouble with your tent not being as quiet as you wish
   then do not threaten as I know some amazing ideas which will help reduce the noise
   -...
-slug: /soundproof-a-tent/
+slug: soundproof-a-tent
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

@@ -2,7 +2,7 @@
 title: What Do Bed Bugs Smell Like
 description: What do bed bugs smell like? If there is an odor in your home that you
   do not recognize, you may be wondering if the culprit could be a bed bug infestation....
-slug: /what-do-bed-bugs-smell-like/
+slug: what-do-bed-bugs-smell-like
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

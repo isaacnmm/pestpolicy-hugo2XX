@@ -3,7 +3,7 @@ title: Pictures Of Bed Bug Bites
 description: Are you trying to determine if we have bed bugs in the house? First,
   I'll narrate a personal experience I had eight months ago. I had just come back
   from our...
-slug: /pictures-of-bed-bug-bites/
+slug: pictures-of-bed-bug-bites
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

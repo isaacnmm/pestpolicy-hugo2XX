@@ -3,7 +3,7 @@ title: How to Find Bed Bugs During the Day
 description: Bed bugs are notoriously elusive pests that are most active at night
   when they feed on their hosts. However, they don't just hide at nightthey also spend
   a...
-slug: /how-to-find-bed-bugs-during-the-day/
+slug: how-to-find-bed-bugs-during-the-day
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

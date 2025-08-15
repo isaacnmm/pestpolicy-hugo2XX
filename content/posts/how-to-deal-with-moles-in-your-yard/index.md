@@ -2,7 +2,7 @@
 title: How to Deal With Moles in Your Yard
 description: The sudden appearance of unsightly mounds of soil and raised ridges crisscrossing
   your perfectly manicured lawn can be a frustrating sight for any homeowner.
-slug: /how-to-deal-with-moles-in-your-yard/
+slug: how-to-deal-with-moles-in-your-yard
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

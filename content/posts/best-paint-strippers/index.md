@@ -2,7 +2,7 @@
 title: Best Paint Strippers
 description: Removing paint effectively requires the right tools, and paint strippers
   are essential for achieving a clean, paint-free surface.
-slug: /best-paint-strippers/
+slug: best-paint-strippers
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

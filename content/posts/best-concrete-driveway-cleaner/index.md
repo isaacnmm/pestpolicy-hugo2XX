@@ -2,7 +2,7 @@
 title: Best Concrete Driveway Cleaner
 description: Stains from oil spillage, paints, and grease often look disgusting when
   they appear on your concrete driveway.
-slug: /best-concrete-driveway-cleaner/
+slug: best-concrete-driveway-cleaner
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

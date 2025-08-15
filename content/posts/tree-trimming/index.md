@@ -2,7 +2,7 @@
 title: Tree Trimming
 description: Trees are living assets that enhance the beauty, value, and ecological
   health of our properties. To ensure their longevity, vitality, and safety, regular...
-slug: /tree-trimming/
+slug: tree-trimming
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

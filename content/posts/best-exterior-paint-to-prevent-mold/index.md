@@ -2,7 +2,7 @@
 title: Best Exterior Paint to Prevent Mold
 description: Whats the best exterior paint to prevent mold? Exterior paints must withstand
   harsh environmental conditions mud, wind, snow, and sun.
-slug: /best-exterior-paint-to-prevent-mold/
+slug: best-exterior-paint-to-prevent-mold
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

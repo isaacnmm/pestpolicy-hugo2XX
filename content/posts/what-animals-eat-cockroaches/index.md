@@ -3,7 +3,7 @@ title: What Animals Eat Cockroaches
 description: There are some know cockroach predators that can help you keep off those
   chemical roach killers and also cut on the pest control costs. On  what animals
   eat...
-slug: /what-animals-eat-cockroaches/
+slug: what-animals-eat-cockroaches
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

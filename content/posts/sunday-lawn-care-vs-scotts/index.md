@@ -2,7 +2,7 @@
 title: Sunday Lawn Care Vs Scotts
 description: For homeowners looking to cultivate a lush, green lawn without hiring
   a professional service, the market offers a wide array of do-it-yourself DIY solutions.
-slug: /sunday-lawn-care-vs-scotts/
+slug: sunday-lawn-care-vs-scotts
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

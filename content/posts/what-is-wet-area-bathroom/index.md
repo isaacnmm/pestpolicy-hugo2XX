@@ -3,7 +3,7 @@ title: What is Wet Area Bathroom
 description: The term "wet area bathroom" can sometimes be a source of confusion.
   In its broadest sense, any part of a bathroom that regularly gets wetlike inside
   a shower...
-slug: /what-is-wet-area-bathroom/
+slug: what-is-wet-area-bathroom
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

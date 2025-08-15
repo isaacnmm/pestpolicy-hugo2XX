@@ -3,7 +3,7 @@ title: Is Composite Decking Worth It
 description: Besides deck design, deck materials are the most important feature that
   affects the outlook and style of your deck. The composite decks are mainly made
   from...
-slug: /is-composite-decking-worth-it/
+slug: is-composite-decking-worth-it
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

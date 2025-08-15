@@ -2,7 +2,7 @@
 title: Bed Bug Control in Puyallup
 description: Bed bugs can be a distressing and persistent problem for homeowners in
   Puyallup, WA. These tiny pests are known for their ability to hide in small crevices...
-slug: /bed-bug-control-in-puyallup/
+slug: bed-bug-control-in-puyallup
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

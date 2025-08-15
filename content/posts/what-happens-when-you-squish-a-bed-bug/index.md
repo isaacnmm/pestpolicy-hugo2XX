@@ -2,7 +2,7 @@
 title: What Happens When You Squish a Bed Bug
 description: I answer this question what happens when you squish a bed bug ? A dead
   bed bug is the only guarantee that you've won the war against the bugs.
-slug: /what-happens-when-you-squish-a-bed-bug/
+slug: what-happens-when-you-squish-a-bed-bug
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

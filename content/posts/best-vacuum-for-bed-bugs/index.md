@@ -2,7 +2,7 @@
 title: Best Vacuum for Bed Bugs
 description: A vacuum cleaner will help you reduce bed bugs from your house, especially
   where they live in clusters.
-slug: /best-vacuum-for-bed-bugs/
+slug: best-vacuum-for-bed-bugs
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

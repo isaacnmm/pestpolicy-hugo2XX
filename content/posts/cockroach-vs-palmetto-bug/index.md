@@ -1,7 +1,7 @@
 ---
 title: Cockroach Vs Palmetto Bug
 description: Cockroach Vs. Palmetto Bug
-slug: /cockroach-vs-palmetto-bug/
+slug: cockroach-vs-palmetto-bug
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

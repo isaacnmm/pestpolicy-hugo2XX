@@ -2,7 +2,7 @@
 title: How to Control Dandelions in Your Yard
 description: Few weeds are as universally recognized and, for many homeowners, as
   universally reviled as the common dandelion Taraxacum officinale.
-slug: /how-to-control-dandelions-in-your-yard/
+slug: how-to-control-dandelions-in-your-yard
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

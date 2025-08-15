@@ -2,7 +2,7 @@
 title: Best Record Player Under 100
 description: Finding a quality record player under 100 can be a challenge, but it
   is possible to enjoy the warm sound of vinyl without breaking the bank.
-slug: /best-record-player-under-100/
+slug: best-record-player-under-100
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

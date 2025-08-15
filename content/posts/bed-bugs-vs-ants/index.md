@@ -2,7 +2,7 @@
 title: Bed Bugs Vs Ants
 description: What is the difference between bed bugs vs. ants? Well, for a beginner,
   it's hard to them apart.
-slug: /bed-bugs-vs-ants/
+slug: bed-bugs-vs-ants
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

@@ -3,7 +3,7 @@ title: Neat Steam Cleaner by Dupray Best Steam Cleaner
 description: In our daily lives, maintaining a clean and hygienic environment has
   become more critical than ever. As we spend more time at home, the accumulation
   of dirt,...
-slug: /neat-steam-cleaner-by-dupray-best-steam-cleaner/
+slug: neat-steam-cleaner-by-dupray-best-steam-cleaner
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

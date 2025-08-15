@@ -3,7 +3,7 @@ title: Trampoline Covers for Winter
 description: Trampoline Covers For Winter will guarantee you and your family years
   of fun and enjoyment. A trampoline can become dirty and lose their original new
   look if...
-slug: /trampoline-covers-for-winter/
+slug: trampoline-covers-for-winter
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

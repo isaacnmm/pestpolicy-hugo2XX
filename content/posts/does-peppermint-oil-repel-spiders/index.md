@@ -2,7 +2,7 @@
 title: Does Peppermint Oil Repel Spiders
 description: If you have a spider infestation in the house , you must be asking yourself
   this
-slug: /does-peppermint-oil-repel-spiders/
+slug: does-peppermint-oil-repel-spiders
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

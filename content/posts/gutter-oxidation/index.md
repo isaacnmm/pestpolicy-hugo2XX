@@ -2,7 +2,7 @@
 title: Gutter Oxidation
 description: For many homeowners, the sight of a white, chalky residue or dull streaking
   on their aluminum gutters is a familiar, yet often perplexing, issue.
-slug: /gutter-oxidation/
+slug: gutter-oxidation
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

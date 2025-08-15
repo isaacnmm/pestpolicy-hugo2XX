@@ -1,7 +1,7 @@
 ---
 title: "Rodent Proofing Brownstone Apartments in Brooklyn, NY"
 description: "A pro's guide to rodent proofing a Brooklyn brownstone. Learn the key entry points specific to these historic buildings and the field-tested methods to seal them out for good."
-slug: /rodent-proofing-brownstone-apartments-in-brooklyn-ny/
+slug: rodent-proofing-brownstone-apartments-in-brooklyn-ny
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

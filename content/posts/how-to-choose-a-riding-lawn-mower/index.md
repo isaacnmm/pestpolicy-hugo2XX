@@ -2,7 +2,7 @@
 title: How to Choose a Riding Lawn Mower
 description: Acquiring the best riding mowers from the market can be challenging.
   Ive put up a post to help you navigate through different sizes, transmissions, and...
-slug: /how-to-choose-a-riding-lawn-mower/
+slug: how-to-choose-a-riding-lawn-mower
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

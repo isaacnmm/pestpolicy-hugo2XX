@@ -3,7 +3,7 @@ title: Raccoon Facts
 description: Whether your home is surrounded by trees or skyscrapers, raccoons are
   likely a part of the wildlife population in your area. Raccoons are some of the
   most...
-slug: /raccoon-facts/
+slug: raccoon-facts
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

@@ -3,7 +3,7 @@ title: Quiet Close Comfort Height Toilet Seat
 description: In the realm of bathroom fixtures, the toilet seat often goes unnoticed
   until it fails to meet expectations. A slamming lid can be jarring, especially in
   the...
-slug: /quiet-close-comfort-height-toilet-seat/
+slug: quiet-close-comfort-height-toilet-seat
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

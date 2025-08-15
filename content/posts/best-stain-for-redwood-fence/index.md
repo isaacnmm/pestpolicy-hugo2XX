@@ -2,7 +2,7 @@
 title: Best Stain for Redwood Fence
 description: By reading this article on the best stain for the redwood fence, you
   will gain deep insight into improving and painting your redwood fence.
-slug: /best-stain-for-redwood-fence/
+slug: best-stain-for-redwood-fence
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

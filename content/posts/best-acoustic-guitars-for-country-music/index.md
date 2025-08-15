@@ -2,7 +2,7 @@
 title: Best Acoustic Guitars for Country Music
 description: If youre a country music enthusiast, then choosing the best acoustic
   guitars for country music live performance would be a crucial step .
-slug: /best-acoustic-guitars-for-country-music/
+slug: best-acoustic-guitars-for-country-music
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

@@ -2,7 +2,7 @@
 title: How to Remove Roller Marks Without Repainting
 description: Roller marks on painted walls can be frustrating, but the good news is,
   you don't always need to repaint the entire wall to fix them.
-slug: /how-to-remove-roller-marks-without-repainting/
+slug: how-to-remove-roller-marks-without-repainting
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

@@ -3,7 +3,7 @@ title: Best Crossbow for Self Defense
 description: While on this site, we won't encourage careless shooting, at one time
   or another, you will need the b est Crossbow for self-defense when an attacker comes
   to...
-slug: /best-crossbow-for-self-defense/
+slug: best-crossbow-for-self-defense
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

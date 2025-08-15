@@ -3,7 +3,7 @@ title: Best Busking Amps
 description: I've always had a problem performing in front of large crowds. This is
   exasperated when there is limitless space on the performance stage. Its no surprise
   I...
-slug: /best-busking-amps/
+slug: best-busking-amps
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

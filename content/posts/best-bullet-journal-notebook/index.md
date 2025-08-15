@@ -1,7 +1,7 @@
 ---
 title: Best Bullet Journal Notebook
 description: Journalists, writers, and productivity enthusiasts swear by bullet journal...
-slug: /best-bullet-journal-notebook/
+slug: best-bullet-journal-notebook
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

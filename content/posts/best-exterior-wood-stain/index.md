@@ -2,7 +2,7 @@
 title: Best Exterior Wood Stain
 description: Exterior wood staining is essential for preserving the beauty and longevity
   of your wooden surfaces, whether its your deck, fence, or garden furniture.
-slug: /best-exterior-wood-stain/
+slug: best-exterior-wood-stain
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

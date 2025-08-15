@@ -2,7 +2,7 @@
 title: Breaking Up Clay Soil
 description: Clay soil is a common challenge for gardeners and homeowners alike. While
   it possesses some valuable qualities, its dense, compact nature can stifle plant...
-slug: /breaking-up-clay-soil/
+slug: breaking-up-clay-soil
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

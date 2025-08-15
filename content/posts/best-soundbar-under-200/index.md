@@ -3,7 +3,7 @@ title: Best Soundbar Under 200
 description: If you're on a tight budget under 200, pick one of these best soundbars
   under 200 for home theater or TV to get better sound for TV shows or movies away
   from...
-slug: /best-soundbar-under-200/
+slug: best-soundbar-under-200
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

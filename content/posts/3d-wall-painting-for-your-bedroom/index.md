@@ -2,7 +2,7 @@
 title: 3d Wall Painting for Your Bedroom
 description: Having a new bedroom outlook is paramount in boosting your psychological
   comfort and enhancing the interior . Perhaps you have decided to consider 3D wall...
-slug: /3d-wall-painting-for-your-bedroom/
+slug: 3d-wall-painting-for-your-bedroom
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

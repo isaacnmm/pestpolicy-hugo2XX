@@ -3,7 +3,7 @@ title: How Long Does It Take for Borax to Kill Ants
 description: Usually, the first line of defense against ants is some sort of poison
   that will kill them and keep them from coming back. But you can also make an ant
   trap...
-slug: /how-long-does-it-take-for-borax-to-kill-ants/
+slug: how-long-does-it-take-for-borax-to-kill-ants
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

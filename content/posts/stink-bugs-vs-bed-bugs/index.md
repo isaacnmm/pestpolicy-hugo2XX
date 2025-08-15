@@ -2,7 +2,7 @@
 title: Stink Bugs Vs Bed Bugs
 description: In this post, I compare stink bugs vs. bed bugs. These arthropods belong
   to the Cimicidae and Pentatomidae families, respectively.
-slug: /stink-bugs-vs-bed-bugs/
+slug: stink-bugs-vs-bed-bugs
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

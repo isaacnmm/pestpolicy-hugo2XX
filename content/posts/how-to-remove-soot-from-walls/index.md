@@ -2,7 +2,7 @@
 title: How to Remove Soot from Walls
 description: Usually, kitchen walls and burnt surfaces are left with soot that kills
   the initial aesthetic appearance. Removing soot and oil stains-paint requires a...
-slug: /how-to-remove-soot-from-walls/
+slug: how-to-remove-soot-from-walls
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

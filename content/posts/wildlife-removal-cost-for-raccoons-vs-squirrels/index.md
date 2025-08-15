@@ -1,7 +1,7 @@
 ---
 title: "Wildlife Removal Cost: Raccoons vs. Squirrels"
 description: "A pro's breakdown of wildlife removal costs. Learn the average price for raccoon and squirrel removal and the key factors, like trapping and repairs, that determine your final bill."
-slug: /wildlife-removal-cost-for-raccoons-vs-squirrels/
+slug: wildlife-removal-cost-for-raccoons-vs-squirrels
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

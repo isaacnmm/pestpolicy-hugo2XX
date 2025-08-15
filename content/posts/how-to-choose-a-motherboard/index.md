@@ -3,7 +3,7 @@ title: How to Choose a Motherboard
 description: Despite that the RAM, graphics card, and processor will directly affect
   YOUR PCs performance, a motherboard will influence the gadgets you can install and
   run...
-slug: /how-to-choose-a-motherboard/
+slug: how-to-choose-a-motherboard
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

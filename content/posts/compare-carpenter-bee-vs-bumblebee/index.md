@@ -2,7 +2,7 @@
 title: Compare Carpenter Bee Vs Bumblebee
 description: Amidst the confusion between black bees in your yard, you must have tried
   to compare carpenter bee vs. bumblebee.
-slug: /compare-carpenter-bee-vs-bumblebee/
+slug: compare-carpenter-bee-vs-bumblebee
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

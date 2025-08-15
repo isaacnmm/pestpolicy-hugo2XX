@@ -2,7 +2,7 @@
 title: How to Keep Spray Paint from Chipping Off Metal
 description: Keeping spray paint from chipping off may be cumbersome, especially if
   you fail to adhere to the application procedure given by the manufacturer or a...
-slug: /how-to-keep-spray-paint-from-chipping-off-metal/
+slug: how-to-keep-spray-paint-from-chipping-off-metal
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

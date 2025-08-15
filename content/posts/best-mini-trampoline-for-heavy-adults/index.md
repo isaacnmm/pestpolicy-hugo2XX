@@ -3,7 +3,7 @@ title: Best Mini Trampoline for Heavy Adults
 description: Are you an overweight person looking for a perfect and fun way to exercise?
   Well, the Best Mini Trampoline for Heavy Adults is a sure deal. In this article,
   I...
-slug: /best-mini-trampoline-for-heavy-adults/
+slug: best-mini-trampoline-for-heavy-adults
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

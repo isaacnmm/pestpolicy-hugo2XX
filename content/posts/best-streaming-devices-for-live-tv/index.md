@@ -2,7 +2,7 @@
 title: Best Streaming Devices for Live Tv
 description: With the rise of cord-cutting, streaming devices have become essential
   for accessing live TV channels, sports, news, and on-demand content.
-slug: /best-streaming-devices-for-live-tv/
+slug: best-streaming-devices-for-live-tv
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

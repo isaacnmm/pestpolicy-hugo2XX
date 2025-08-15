@@ -3,7 +3,7 @@ title: Best Yard Spray for Ticks
 description: Seeking for the best yard spray for ticks? Search no more! But first,
   what damage have ticks caused you?Well, having ticks around your compound can be
   very...
-slug: /best-yard-spray-for-ticks/
+slug: best-yard-spray-for-ticks
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

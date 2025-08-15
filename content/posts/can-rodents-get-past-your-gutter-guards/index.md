@@ -2,7 +2,7 @@
 title: Can Rodents Get Past Your Gutter Guards
 description: One often-overlooked benefit of gutter guards is their potential role
   in deterring pests, particularly rodents, from gaining access to your home.
-slug: /can-rodents-get-past-your-gutter-guards/
+slug: can-rodents-get-past-your-gutter-guards
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

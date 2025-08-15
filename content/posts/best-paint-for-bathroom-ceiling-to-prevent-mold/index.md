@@ -3,7 +3,7 @@ title: Best Paint for Bathroom Ceiling to Prevent Mold
 description: Did you stop by to read through this content because you are desperately
   looking for the best paint for the bathroom ceiling to prevent mold? Mold thrives
   on...
-slug: /best-paint-for-bathroom-ceiling-to-prevent-mold/
+slug: best-paint-for-bathroom-ceiling-to-prevent-mold
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

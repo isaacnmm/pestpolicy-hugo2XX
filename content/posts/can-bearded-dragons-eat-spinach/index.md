@@ -2,7 +2,7 @@
 title: Can Bearded Dragons Eat Spinach
 description: We've seen that bearded dragons will eat fruits like peaches, watermelon,
   strawberries, and even apples. But can bearded dragons eat spinach
-slug: /can-bearded-dragons-eat-spinach/
+slug: can-bearded-dragons-eat-spinach
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

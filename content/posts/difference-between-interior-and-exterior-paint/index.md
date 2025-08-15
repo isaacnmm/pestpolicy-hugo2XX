@@ -2,7 +2,7 @@
 title: Difference Between Interior and Exterior Paint
 description: Choosing the right paint for your home is crucial to achieving the desired
   finish and ensuring durability. Although both interior and exterior paints serve...
-slug: /difference-between-interior-and-exterior-paint/
+slug: difference-between-interior-and-exterior-paint
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

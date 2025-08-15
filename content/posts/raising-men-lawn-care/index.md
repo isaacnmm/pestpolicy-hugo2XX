@@ -3,7 +3,7 @@ title: Raising Men Lawn Care
 description: In a world often consumed by self-interest, stories of selfless acts
   shine as beacons of hope and inspiration. One such beacon is the "Raising Men Lawn
   Care...
-slug: /raising-men-lawn-care/
+slug: raising-men-lawn-care
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

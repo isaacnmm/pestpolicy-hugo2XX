@@ -2,7 +2,7 @@
 title: How Long to Water Lawn
 description: Watering your lawn might seem like a simple task, but determining the
   correct duration is a critical factor in cultivating a healthy, vibrant turf.
-slug: /how-long-to-water-lawn/
+slug: how-long-to-water-lawn
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

@@ -2,7 +2,7 @@
 title: What Color Paint Goes With Beige Tile
 description: Choosing the right paint color to complement beige tiles can be a daunting
   task. Beige is a neutral color, and finding a hue that enhances its warmth and...
-slug: /what-color-paint-goes-with-beige-tile/
+slug: what-color-paint-goes-with-beige-tile
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

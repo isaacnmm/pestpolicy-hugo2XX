@@ -3,7 +3,7 @@ title: Pruning Bare Branches on Holly Bushes
 description: Holly bushes, with their glossy evergreen leaves and vibrant berries,
   are cherished additions to many landscapes, providing year-round interest, privacy,
   and...
-slug: /pruning-bare-branches-on-holly-bushes/
+slug: pruning-bare-branches-on-holly-bushes
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

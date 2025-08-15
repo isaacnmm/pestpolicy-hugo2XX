@@ -2,7 +2,7 @@
 title: Top Dressing to Improve the Soil in Your Lawn
 description: A lush, vibrant lawn is often the result of more than just regular mowing
   and watering. Beneath the green blades, the health of the soil is the ultimate...
-slug: /top-dressing-to-improve-the-soil-in-your-lawn/
+slug: top-dressing-to-improve-the-soil-in-your-lawn
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

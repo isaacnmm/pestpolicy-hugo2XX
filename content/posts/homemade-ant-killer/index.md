@@ -3,7 +3,7 @@ title: Homemade Ant Killer
 description: Are you stuck with an ant problem in your house and lawns? You dont have
   to worry anymore! Therere many do-it-yourself home remedies you can use to get rid
   of...
-slug: /homemade-ant-killer/
+slug: homemade-ant-killer
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

@@ -2,7 +2,7 @@
 title: What Do Chameleon Colors Mean
 description: Chameleons are famous for changing colors. Acoat of many colors is a
   story about a little girl who had a coat that was not just one color.
-slug: /what-do-chameleon-colors-mean/
+slug: what-do-chameleon-colors-mean
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

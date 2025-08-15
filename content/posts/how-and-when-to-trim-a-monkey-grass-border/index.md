@@ -2,7 +2,7 @@
 title: How and When to Trim a Monkey Grass Border
 description: Monkey grass, often admired for its lush, evergreen foliage and neat
   clumping or spreading habits, is a staple in many landscape designs.
-slug: /how-and-when-to-trim-a-monkey-grass-border/
+slug: how-and-when-to-trim-a-monkey-grass-border
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

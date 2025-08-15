@@ -2,7 +2,7 @@
 title: Healthy Pets Rodent Control
 description: Keeping your pets healthy is a top priority for any pet owner. However,
   sometimes pests like rodents can become a threat to both your home and your pets.
-slug: /healthy-pets-rodent-control/
+slug: healthy-pets-rodent-control
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

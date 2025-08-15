@@ -3,7 +3,7 @@ title: Permethrin
 description: Permethrin is one of the synthetic chemicals that are classified under
   the pyrethroids family and come from a chrysanthemum flower. Permethrin has been
   in use...
-slug: /permethrin/
+slug: permethrin
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

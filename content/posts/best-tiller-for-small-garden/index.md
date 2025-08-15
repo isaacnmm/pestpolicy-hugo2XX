@@ -2,7 +2,7 @@
 title: Best Tiller for Small Garden
 description: The ideal tiller should be capable of preparing your soil adequately
   to transform it into a colorful and vibrant garden
-slug: /best-tiller-for-small-garden/
+slug: best-tiller-for-small-garden
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

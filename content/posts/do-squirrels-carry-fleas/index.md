@@ -2,7 +2,7 @@
 title: Do Squirrels Carry Fleas
 description: Well, it is hard to get rid of fleas at your home if you don't know where
   they are coming from. So, really, do squirrels carry fleas? Wildlife, particularly...
-slug: /do-squirrels-carry-fleas/
+slug: do-squirrels-carry-fleas
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

@@ -1,7 +1,7 @@
 ---
 title: Soundbar Optical Vs Hdmi
 description: Is Soundbar optical vs HDMI
-slug: /soundbar-optical-vs-hdmi/
+slug: soundbar-optical-vs-hdmi
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac

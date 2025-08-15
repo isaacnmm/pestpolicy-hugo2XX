@@ -3,7 +3,7 @@ title: How to Control Lilac Sucker Growth
 description: Lilacs Syringa spp. are beloved for their intoxicatingly fragrant, showy
   blossoms that herald the arrival of spring. These classic shrubs or small trees
   are a...
-slug: /how-to-control-lilac-sucker-growth/
+slug: how-to-control-lilac-sucker-growth
 date: 2025-08-15T15:16:55+03:00
 lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac
