@@ -3,8 +3,8 @@ title: Best Joystick for Elite Dangerous
 description: Finding the best joystick for elite dangerous and Hotas joysticks is
   not an easy task. Consider Compatibility, top Design Quality, Ease of Control, Buttons,...
 slug: /best-joystick-for-elite-dangerous/
-date: '2025-08-10 00:00:00+00:00'
-lastmod: '2025-08-10 00:00:00+00:00'
+date: 2025-08-15T15:16:55+03:00
+lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac
 categories:
 - Controllers

@@ -3,8 +3,8 @@ title: Bathroom Remodeling Houston
 description: A bathroom remodel is one of the most impactful home improvement projects
   you can undertake. It not only enhances the aesthetics and functionality of a...
 slug: /bathroom-remodeling-houston/
-date: '2025-08-10 00:00:00+00:00'
-lastmod: '2025-08-10 00:00:00+00:00'
+date: 2025-08-15T15:16:55+03:00
+lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac
 categories:
 - Improvement

@@ -3,8 +3,8 @@ title: Bathroom Remodel San Diego
 description: San Diego, with its stunning coastline, vibrant communities, and desirable
   climate, is a premier location for homeowners seeking to enhance their living...
 slug: /bathroom-remodel-san-diego/
-date: '2025-08-10 00:00:00+00:00'
-lastmod: '2025-08-10 00:00:00+00:00'
+date: 2025-08-15T15:16:55+03:00
+lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac
 categories:
 - Improvement

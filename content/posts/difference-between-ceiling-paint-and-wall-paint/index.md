@@ -3,8 +3,8 @@ title: Difference Between Ceiling Paint and Wall Paint
 description: When it comes to painting your home, its important to understand the
   differences between ceiling paint and wall paint. While both serve the purpose of...
 slug: /difference-between-ceiling-paint-and-wall-paint/
-date: '2025-08-10 00:00:00+00:00'
-lastmod: '2025-08-10 00:00:00+00:00'
+date: 2025-08-15T15:16:55+03:00
+lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac
 categories:
 - Guide

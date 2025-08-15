@@ -3,8 +3,8 @@ title: Best Headphones for Music Production
 description: Headphones, headphones...headphones everywhere...which pair do you pick?
   They are essential for any audio monitoring
 slug: /best-headphones-for-music-production/
-date: '2025-08-10 00:00:00+00:00'
-lastmod: '2025-08-10 00:00:00+00:00'
+date: 2025-08-15T15:16:55+03:00
+lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac
 categories:
 - Headphones

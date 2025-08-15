@@ -3,8 +3,8 @@ title: How to Make Centipede Grass Spread
 description: Centipede grass Eremochloa ophiuroides is a popular choice for lawns
   in the warm, humid climates of the southeastern United States.
 slug: /how-to-make-centipede-grass-spread/
-date: '2025-08-10 00:00:00+00:00'
-lastmod: '2025-08-10 00:00:00+00:00'
+date: 2025-08-15T15:16:55+03:00
+lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac
 categories:
 - Lawn Care

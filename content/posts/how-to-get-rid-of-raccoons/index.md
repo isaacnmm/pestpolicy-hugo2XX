@@ -3,8 +3,8 @@ title: How to Get Rid Of Raccoons
 description: Raccoons are clever, resourceful animals that can be a real nuisance
   when they invade your home or property. Known for their masked appearance and dexterous...
 slug: /how-to-get-rid-of-raccoons/
-date: '2025-08-10 00:00:00+00:00'
-lastmod: '2025-08-10 00:00:00+00:00'
+date: 2025-08-15T15:16:55+03:00
+lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac
 categories:
 - Guide

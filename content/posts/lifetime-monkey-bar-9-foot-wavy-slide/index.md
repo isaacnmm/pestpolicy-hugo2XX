@@ -3,8 +3,8 @@ title: Lifetime Monkey Bar 9 Foot Wavy Slide
 description: Let your children have fun and enjoy your cool backyard with the Lifetime
   Monkey Bar swing set with a 9 Foot Wavy Slide. The swing set is favorable or kids...
 slug: /lifetime-monkey-bar-9-foot-wavy-slide/
-date: '2025-08-10 00:00:00+00:00'
-lastmod: '2025-08-10 00:00:00+00:00'
+date: 2025-08-15T15:16:55+03:00
+lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac
 categories:
 - Swing Sets

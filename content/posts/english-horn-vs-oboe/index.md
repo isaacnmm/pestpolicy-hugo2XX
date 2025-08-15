@@ -3,8 +3,8 @@ title: English Horn Vs Oboe
 description: I was not always a woodwind player but I was thinking of the difference
   & similarities between English Horn Cor Anglais and Oboe
 slug: /english-horn-vs-oboe/
-date: '2025-08-10 00:00:00+00:00'
-lastmod: '2025-08-10 00:00:00+00:00'
+date: 2025-08-15T15:16:55+03:00
+lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac
 categories:
 - Recording

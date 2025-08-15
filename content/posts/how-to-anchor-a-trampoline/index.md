@@ -3,8 +3,8 @@ title: How to Anchor a Trampoline
 description: If you reside in areas that are susceptible to storms and strong winds,
   then you should learn how to Anchor-anchors a Trampoline.
 slug: /how-to-anchor-a-trampoline/
-date: '2025-08-10 00:00:00+00:00'
-lastmod: '2025-08-10 00:00:00+00:00'
+date: 2025-08-15T15:16:55+03:00
+lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac
 categories:
 - Guide

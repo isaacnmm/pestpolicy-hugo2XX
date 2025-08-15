@@ -3,8 +3,8 @@ title: Preventing and Identifying Wasps Nests
 description: Wasps can be a significant nuisance and sometimes pose a danger, especially
   to those allergic to stings. Preventing and identifying wasp nests early on can...
 slug: /preventing-and-identifying-wasps-nests/
-date: '2025-08-10 00:00:00+00:00'
-lastmod: '2025-08-10 00:00:00+00:00'
+date: 2025-08-15T15:16:55+03:00
+lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac
 categories:
 - Guide

@@ -3,8 +3,8 @@ title: How to Get Rid Of No See Ums
 description: In this article, I am going to talk about how to get rid of no-see-ums.
   These are bugs that most people don't talk a lot about.
 slug: /how-to-get-rid-of-no-see-ums/
-date: '2025-08-10 00:00:00+00:00'
-lastmod: '2025-08-10 00:00:00+00:00'
+date: 2025-08-15T15:16:55+03:00
+lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac
 categories:
 - Guide

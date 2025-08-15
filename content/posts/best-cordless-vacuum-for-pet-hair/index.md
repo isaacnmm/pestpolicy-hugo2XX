@@ -3,8 +3,8 @@ title: Best Cordless Vacuum for Pet Hair
 description: Sharing a house with pets comes at a cost. Pets such as dogs and cats
   shed hair on bare floors, upholstery, carpet, crevices, and so on. A cordless vacuum...
 slug: /best-cordless-vacuum-for-pet-hair/
-date: '2025-08-10 00:00:00+00:00'
-lastmod: '2025-08-10 00:00:00+00:00'
+date: 2025-08-15T15:16:55+03:00
+lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac
 categories:
 - Fleas

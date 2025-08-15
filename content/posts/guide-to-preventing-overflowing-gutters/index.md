@@ -3,8 +3,8 @@ title: Guide to Preventing Overflowing Gutters
 description: Overflowing gutters are a homeowner's nightmare. Instead of channeling
   rainwater safely away from your home, they turn into miniature waterfalls, dumping...
 slug: /guide-to-preventing-overflowing-gutters/
-date: '2025-08-10 00:00:00+00:00'
-lastmod: '2025-08-10 00:00:00+00:00'
+date: 2025-08-15T15:16:55+03:00
+lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac
 categories:
 - Gutters

@@ -4,8 +4,8 @@ title: Are There Any Slip Resistant Shoes That Provide Stability While Painting 
 description: Are there any slip-resistant shoes that provide stability while painting
   on potentially slippery surfaces?
 slug: /are-there-any-slip-resistant-shoes-that-provide-stability-while-painting-on-potentially-slippery-surfaces/
-date: '2025-08-10 00:00:00+00:00'
-lastmod: '2025-08-10 00:00:00+00:00'
+date: 2025-08-15T15:16:55+03:00
+lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac
 categories:
 - DIY Paintings

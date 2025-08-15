@@ -3,8 +3,8 @@ title: Wolf Spiders
 description: Unlike the Black Widow Spiders , the Wolf Spiders are big hunting spiders
   that will not require webs to affectively trap their prey.
 slug: /wolf-spiders/
-date: '2025-08-10 00:00:00+00:00'
-lastmod: '2025-08-10 00:00:00+00:00'
+date: 2025-08-15T15:16:55+03:00
+lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac
 categories:
 - Guide

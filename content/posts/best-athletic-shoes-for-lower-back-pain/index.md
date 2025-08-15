@@ -3,8 +3,8 @@ title: Best Athletic Shoes for Lower Back Pain
 description: I had experienced many lower back pain issues before I invested in the
   best athletic shoes for lower back pain.
 slug: /best-athletic-shoes-for-lower-back-pain/
-date: '2025-08-10 00:00:00+00:00'
-lastmod: '2025-08-10 00:00:00+00:00'
+date: 2025-08-15T15:16:55+03:00
+lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac
 categories:
 - Shoes

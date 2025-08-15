@@ -3,8 +3,8 @@ title: Best Ant Killer
 description: Hey folks! If you're battling an ant infestation, you know the struggle
   in the kitchen, bathroom , and Lawn-fire-ant-killer-for-lawns . I've tried and tested...
 slug: /best-ant-killer/
-date: '2025-08-10 00:00:00+00:00'
-lastmod: '2025-08-10 00:00:00+00:00'
+date: 2025-08-15T15:16:55+03:00
+lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac
 categories:
 - Ants

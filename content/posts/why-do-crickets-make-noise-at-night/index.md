@@ -4,8 +4,8 @@ description: Crickets, those tiny, often unseen creatures that fill our summer n
   with their melodious chirping, have long held a place in our collective curiosity.
   -...
 slug: /why-do-crickets-make-noise-at-night/
-date: '2025-08-10 00:00:00+00:00'
-lastmod: '2025-08-10 00:00:00+00:00'
+date: 2025-08-15T15:16:55+03:00
+lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac
 categories:
 - Crickets

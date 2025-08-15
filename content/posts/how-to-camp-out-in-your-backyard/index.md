@@ -4,8 +4,8 @@ description: If youre looking for creative and awesome ideas on How to Camp Out 
   Your Backyard this article is for you. I will provide an ultimate guide for fun
   backyard...
 slug: /how-to-camp-out-in-your-backyard/
-date: '2025-08-10 00:00:00+00:00'
-lastmod: '2025-08-10 00:00:00+00:00'
+date: 2025-08-15T15:16:55+03:00
+lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac
 categories:
 - Backyard Games

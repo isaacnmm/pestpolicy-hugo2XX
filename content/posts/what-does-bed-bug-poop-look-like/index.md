@@ -3,8 +3,8 @@ title: What Does Bed Bug Poop Look Like
 description: What does bed bug poop look like? First, they're not solid and difficult
   to pick up
 slug: /what-does-bed-bug-poop-look-like/
-date: '2025-08-10 00:00:00+00:00'
-lastmod: '2025-08-10 00:00:00+00:00'
+date: 2025-08-15T15:16:55+03:00
+lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac
 categories:
 - Bed Bugs

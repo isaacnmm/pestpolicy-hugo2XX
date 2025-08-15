@@ -4,8 +4,8 @@ description: Yellow Jackets also known as wasps or hornets are infamous for thei
   painful stings and aggressive behavior, which can cause not only quick discomfort
   but...
 slug: /best-spray-for-yellow-jackets/
-date: '2025-08-10 00:00:00+00:00'
-lastmod: '2025-08-10 00:00:00+00:00'
+date: 2025-08-15T15:16:55+03:00
+lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac
 categories:
 - Product Reviews

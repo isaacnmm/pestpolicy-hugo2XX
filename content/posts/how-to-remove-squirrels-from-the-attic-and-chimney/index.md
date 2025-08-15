@@ -2,8 +2,8 @@
 title: "How to Remove Squirrels from the Attic and Chimney"
 description: "Hearing scratching in your attic or chimney? A pro explains the safe and effective process for removing squirrels, including one-way doors and the critical step of sealing entry points."
 slug: /how-to-remove-squirrels-from-the-attic-and-chimney/
-date: '2025-08-15 00-00-00+00-00'
-lastmod: '2025-08-15 00-00-00+00-00'
+date: 2025-08-15T15:16:55+03:00
+lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac
 categories:
 - Rodents

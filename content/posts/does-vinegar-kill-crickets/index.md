@@ -3,8 +3,8 @@ title: Does Vinegar Kill Crickets
 description: The incessant chirping of cricketshttpspestpolicy.comwhy-do-crickets-stop-chirping-when-you-move
   can be both annoying and disruptive, especially when you're...
 slug: /does-vinegar-kill-crickets/
-date: '2025-08-10 00:00:00+00:00'
-lastmod: '2025-08-10 00:00:00+00:00'
+date: 2025-08-15T15:16:55+03:00
+lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac
 categories:
 - Crickets

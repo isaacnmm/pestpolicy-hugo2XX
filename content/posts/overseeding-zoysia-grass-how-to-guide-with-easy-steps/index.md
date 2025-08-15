@@ -3,8 +3,8 @@ title: Overseeding Zoysia Grass How to Guide With Easy Steps
 description: Zoysia grass is a popular choice for lawns in warm-season climates and
   transition zones, renowned for its exceptional durability, heat tolerance, and ability...
 slug: /overseeding-zoysia-grass-how-to-guide-with-easy-steps/
-date: '2025-08-10 00:00:00+00:00'
-lastmod: '2025-08-10 00:00:00+00:00'
+date: 2025-08-15T15:16:55+03:00
+lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac
 categories:
 - Lawn Care

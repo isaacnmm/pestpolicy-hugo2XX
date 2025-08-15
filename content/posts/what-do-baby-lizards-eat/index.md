@@ -3,8 +3,8 @@ title: What Do Baby Lizards Eat
 description: What do baby lizards eat?What do lizards feed their young ones also know
   as hatchlings ? How do they do it and how long before they can go get their food?...
 slug: /what-do-baby-lizards-eat/
-date: '2025-08-10 00:00:00+00:00'
-lastmod: '2025-08-10 00:00:00+00:00'
+date: 2025-08-15T15:16:55+03:00
+lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac
 categories:
 - Fleas

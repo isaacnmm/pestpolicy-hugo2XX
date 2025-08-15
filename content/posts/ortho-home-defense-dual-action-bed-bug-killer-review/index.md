@@ -3,8 +3,8 @@ title: Ortho Home Defense Dual Action Bed Bug Killer Review
 description: Ortho Home Defense Dual-Action is one of the top bed bug sprays we recommend
   for you. The aerosol spray insecticide is specifically designed to kill bed bugs...
 slug: /ortho-home-defense-dual-action-bed-bug-killer-review/
-date: '2025-08-10 00:00:00+00:00'
-lastmod: '2025-08-10 00:00:00+00:00'
+date: 2025-08-15T15:16:55+03:00
+lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac
 categories:
 - Drains

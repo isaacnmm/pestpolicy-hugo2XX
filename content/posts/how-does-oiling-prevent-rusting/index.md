@@ -3,8 +3,8 @@ title: How Does Oiling Prevent Rusting
 description: Rusting of metallic structures or vehicle parts is a common problem facing
   people. The rate of rusting differs from place to place due to varying...
 slug: /how-does-oiling-prevent-rusting/
-date: '2025-08-10 00:00:00+00:00'
-lastmod: '2025-08-10 00:00:00+00:00'
+date: 2025-08-15T15:16:55+03:00
+lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac
 categories:
 - DIY Paintings

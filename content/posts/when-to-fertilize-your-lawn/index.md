@@ -3,8 +3,8 @@ title: When to Fertilize Your Lawn
 description: A vibrant, healthy lawn is often the cornerstone of an attractive landscape,
   providing a lush carpet for outdoor activities and enhancing curb appeal.
 slug: /when-to-fertilize-your-lawn/
-date: '2025-08-10 00:00:00+00:00'
-lastmod: '2025-08-10 00:00:00+00:00'
+date: 2025-08-15T15:16:55+03:00
+lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac
 categories:
 - Lawn Care

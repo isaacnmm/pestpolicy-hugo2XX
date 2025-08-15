@@ -4,8 +4,8 @@ description: Fleas can be an irritating problem, especially if youve got pets or
   time outdoors. While there are plenty of repellents, sprays-repellent-for-humans
   and...
 slug: /what-can-i-eat-or-drink-to-keep-fleas-from-biting-me/
-date: '2025-08-10 00:00:00+00:00'
-lastmod: '2025-08-10 00:00:00+00:00'
+date: 2025-08-15T15:16:55+03:00
+lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac
 categories:
 - Fleas

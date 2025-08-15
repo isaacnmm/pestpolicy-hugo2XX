@@ -3,8 +3,8 @@ title: What Smells Do Raccoons Hate
 description: You don't want raccoons digging up your yard or tearing apart your house
   or garbage can, but you also don't like the idea of killing them.
 slug: /what-smells-do-raccoons-hate/
-date: '2025-08-10 00:00:00+00:00'
-lastmod: '2025-08-10 00:00:00+00:00'
+date: 2025-08-15T15:16:55+03:00
+lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac
 categories:
 - Guide

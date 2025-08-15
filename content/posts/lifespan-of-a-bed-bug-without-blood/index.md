@@ -3,8 +3,8 @@ title: Lifespan Of a Bed Bug Without Blood
 description: Bed bugs are warm-blooded, reddish-brown, and wingless pests that survive
   from blood meals. But what's the lifespan of a bed bug without blood. In brief adult...
 slug: /lifespan-of-a-bed-bug-without-blood/
-date: '2025-08-10 00:00:00+00:00'
-lastmod: '2025-08-10 00:00:00+00:00'
+date: 2025-08-15T15:16:55+03:00
+lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac
 categories:
 - Bed Bugs

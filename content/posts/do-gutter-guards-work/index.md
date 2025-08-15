@@ -3,8 +3,8 @@ title: Do Gutter Guards Work
 description: The promise of never cleaning your gutters again is a strong one, leading
   many homeowners to wonder "Do gutter guards actually work?" The short answer is,...
 slug: /do-gutter-guards-work/
-date: '2025-08-10 00:00:00+00:00'
-lastmod: '2025-08-10 00:00:00+00:00'
+date: 2025-08-15T15:16:55+03:00
+lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac
 categories:
 - Gutters

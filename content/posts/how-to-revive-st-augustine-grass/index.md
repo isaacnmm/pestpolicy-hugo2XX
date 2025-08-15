@@ -4,8 +4,8 @@ description: St. Augustine grass Stenotaphrum secundatum is a popular warm-seaso
   turfgrass known for its lush, coarse-bladed, blue-green appearance, making it a
   favorite...
 slug: /how-to-revive-st-augustine-grass/
-date: '2025-08-10 00:00:00+00:00'
-lastmod: '2025-08-10 00:00:00+00:00'
+date: 2025-08-15T15:16:55+03:00
+lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac
 categories:
 - Lawn Care

@@ -3,8 +3,8 @@ title: Ant Control in Salem
 description: Ants are a common household pest in Salem, OR, and can be particularly
   persistent once they find a way into your home. Effective ant control requires a...
 slug: /ant-control-in-salem/
-date: '2025-08-10 00:00:00+00:00'
-lastmod: '2025-08-10 00:00:00+00:00'
+date: 2025-08-15T15:16:55+03:00
+lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac
 categories:
 - Ants

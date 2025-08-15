@@ -3,8 +3,8 @@ title: How to Get Rid Of Bed Bug Bite Scars
 description: Treating bed bug bites can become a problem if you dont act on them promptly.
   Though hardly noticeable at first, these bites end up becoming irritable and...
 slug: /how-to-get-rid-of-bed-bug-bite-scars/
-date: '2025-08-10 00:00:00+00:00'
-lastmod: '2025-08-10 00:00:00+00:00'
+date: 2025-08-15T15:16:55+03:00
+lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac
 categories:
 - Bed Bugs

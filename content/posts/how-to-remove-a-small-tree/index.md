@@ -3,8 +3,8 @@ title: How to Remove a Small Tree
 description: Removing a small tree from your yard can seem like a daunting task, but
   for trees that are genuinely small and pose minimal risk, it's a manageable DIY...
 slug: /how-to-remove-a-small-tree/
-date: '2025-08-10 00:00:00+00:00'
-lastmod: '2025-08-10 00:00:00+00:00'
+date: 2025-08-15T15:16:55+03:00
+lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac
 categories:
 - Guides

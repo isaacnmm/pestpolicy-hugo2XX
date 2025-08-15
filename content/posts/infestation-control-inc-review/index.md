@@ -3,8 +3,8 @@ title: Infestation Control Inc Review
 description: Infestation Control Inc. is a pest control company that specializes in
   tackling a wide range of infestations, from insects to rodents.
 slug: /infestation-control-inc-review/
-date: '2025-08-10 00:00:00+00:00'
-lastmod: '2025-08-10 00:00:00+00:00'
+date: 2025-08-15T15:16:55+03:00
+lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac
 categories:
 - Guide

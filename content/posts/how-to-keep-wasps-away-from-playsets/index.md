@@ -3,8 +3,8 @@ title: How to Keep Wasps Away from Playsets
 description: A few years back, I bought a Backyard Discovery Wooden Swing Set for
   my kids. I spent like 2 days putting it together in our backyard.
 slug: /how-to-keep-wasps-away-from-playsets/
-date: '2025-08-10 00:00:00+00:00'
-lastmod: '2025-08-10 00:00:00+00:00'
+date: 2025-08-15T15:16:55+03:00
+lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac
 categories:
 - Swing Sets

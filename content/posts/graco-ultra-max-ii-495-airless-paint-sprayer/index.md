@@ -3,8 +3,8 @@ title: Graco Ultra Max Ii 495 Airless Paint Sprayer
 description: The Graco Ultra Max II 495 Airless Paint Sprayer is a powerful and versatile
   tool designed for professional painters and contractors.
 slug: /graco-ultra-max-ii-495-airless-paint-sprayer/
-date: '2025-08-10 00:00:00+00:00'
-lastmod: '2025-08-10 00:00:00+00:00'
+date: 2025-08-15T15:16:55+03:00
+lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac
 categories:
 - Guide

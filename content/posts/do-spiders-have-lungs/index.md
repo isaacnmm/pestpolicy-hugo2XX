@@ -3,8 +3,8 @@ title: Do Spiders Have Lungs
 description: Spiders in the Arachnida class are feared by humans for their poisonous
   bites. However, most spiders are quite harmless
 slug: /do-spiders-have-lungs/
-date: '2025-08-10 00:00:00+00:00'
-lastmod: '2025-08-10 00:00:00+00:00'
+date: 2025-08-15T15:16:55+03:00
+lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac
 categories:
 - Guide

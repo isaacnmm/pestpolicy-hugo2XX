@@ -2,8 +2,8 @@
 title: "Spring Pest Control Checklist for Homeowners"
 description: "As temperatures rise, pests become active. This expert checklist outlines the essential preventative tasks for your home's exterior, interior, and yard to stop spring pests."
 slug: /spring-pest-control-checklist-for-homeowners/
-date: '2025-08-15 00-00-00+00-00'
-lastmod: '2025-08-15 00-00-00+00-00'
+date: 2025-08-15T15:16:55+03:00
+lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac
 categories:
 - Home Maintenance

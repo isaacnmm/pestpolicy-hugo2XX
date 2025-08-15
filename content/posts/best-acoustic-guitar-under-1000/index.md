@@ -3,8 +3,8 @@ title: Best Acoustic Guitar Under 1000
 description: The best acoustic guitar under 1000 impressive need flexibility  for
   busking amp , build quality and playability. The guitar must be great for playing...
 slug: /best-acoustic-guitar-under-1000/
-date: '2025-08-10 00:00:00+00:00'
-lastmod: '2025-08-10 00:00:00+00:00'
+date: 2025-08-15T15:16:55+03:00
+lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac
 categories:
 - Guitar

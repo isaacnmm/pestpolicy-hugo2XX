@@ -4,8 +4,8 @@ description: Fleas are tiny, pesky insects that can cause discomfort to both pet
   and humans. While fleas are commonly associated with pets like dogs and cats, they
   can...
 slug: /how-long-do-fleas-live-on-humans/
-date: '2025-08-10 00:00:00+00:00'
-lastmod: '2025-08-10 00:00:00+00:00'
+date: 2025-08-15T15:16:55+03:00
+lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac
 categories:
 - Guide

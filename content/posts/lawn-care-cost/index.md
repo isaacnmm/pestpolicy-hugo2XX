@@ -3,8 +3,8 @@ title: Lawn Care Cost
 description: Maintaining a healthy, vibrant lawn is a cornerstone of attractive curb
   appeal, but it's also a significant commitment of time, effort, and resources.
 slug: /lawn-care-cost/
-date: '2025-08-10 00:00:00+00:00'
-lastmod: '2025-08-10 00:00:00+00:00'
+date: 2025-08-15T15:16:55+03:00
+lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac
 categories:
 - Lawn Care

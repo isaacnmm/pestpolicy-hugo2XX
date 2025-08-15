@@ -4,8 +4,8 @@ description: Your high arches foot does not effectively absorb shock while you a
   walking or running. This phenomenon tends to put increased pressures on the heel
   and at...
 slug: /best-walking-shoes-for-high-arches/
-date: '2025-08-10 00:00:00+00:00'
-lastmod: '2025-08-10 00:00:00+00:00'
+date: 2025-08-15T15:16:55+03:00
+lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac
 categories:
 - walking Shoes

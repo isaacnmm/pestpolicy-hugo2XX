@@ -4,8 +4,8 @@ description: In this post, I've reviewed the best fly trap available. Besides ca
   bacteria that can cause illnesses, flies have a constant buzzing annoying as well.
   -...
 slug: /best-fly-trap/
-date: '2025-08-10 00:00:00+00:00'
-lastmod: '2025-08-10 00:00:00+00:00'
+date: 2025-08-15T15:16:55+03:00
+lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac
 categories:
 - Flies

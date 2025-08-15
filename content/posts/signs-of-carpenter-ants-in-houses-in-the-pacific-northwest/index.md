@@ -2,8 +2,8 @@
 title: "Signs of Carpenter Ants in Pacific Northwest Homes"
 description: "The damp PNW climate makes homes a target for carpenter ants. A pro explains the key signs to look for, from frass to faint sounds, and why early detection is critical."
 slug: /signs-of-carpenter-ants-in-houses-in-the-pacific-northwest/
-date: '2025-08-15 00-00-00+00-00'
-lastmod: '2025-08-15 00-00-00+00-00'
+date: 2025-08-15T15:16:55+03:00
+lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac
 categories:
 - Carpenter Ants

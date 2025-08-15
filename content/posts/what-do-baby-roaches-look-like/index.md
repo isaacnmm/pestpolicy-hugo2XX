@@ -3,8 +3,8 @@ title: What Do Baby Roaches Look Like
 description: What do baby roaches look like? Definitely, it can be creepy and alarming
   to find these nymphs in your house or yard. Mainly, they'll be running around the...
 slug: /what-do-baby-roaches-look-like/
-date: '2025-08-10 00:00:00+00:00'
-lastmod: '2025-08-10 00:00:00+00:00'
+date: 2025-08-15T15:16:55+03:00
+lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac
 categories:
 - Cockroaches

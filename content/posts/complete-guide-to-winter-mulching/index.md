@@ -3,8 +3,8 @@ title: Complete Guide to Winter Mulching
 description: As the vibrant colors of autumn fade and the chill of winter approaches,
   gardeners turn their attention from harvesting to preparing their plants for the...
 slug: /complete-guide-to-winter-mulching/
-date: '2025-08-10 00:00:00+00:00'
-lastmod: '2025-08-10 00:00:00+00:00'
+date: 2025-08-15T15:16:55+03:00
+lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac
 categories:
 - Gardening

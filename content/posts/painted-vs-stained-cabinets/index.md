@@ -3,8 +3,8 @@ title: Painted Vs Stained Cabinets
 description: When it comes to renovating your kitchen or bathroom, choosing the right
   finish for your cabinets can be a difficult decision.
 slug: /painted-vs-stained-cabinets/
-date: '2025-08-10 00:00:00+00:00'
-lastmod: '2025-08-10 00:00:00+00:00'
+date: 2025-08-15T15:16:55+03:00
+lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac
 categories:
 - Guide

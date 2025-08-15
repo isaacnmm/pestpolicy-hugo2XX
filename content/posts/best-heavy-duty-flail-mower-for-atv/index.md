@@ -3,8 +3,8 @@ title: Best Heavy Duty Flail Mower for Atv
 description: You will love the versatility of AVTs. Besides using them for fun, their
   versatility makes them useful when it comes to hauling towing, and mowing
 slug: /best-heavy-duty-flail-mower-for-atv/
-date: '2025-08-10 00:00:00+00:00'
-lastmod: '2025-08-10 00:00:00+00:00'
+date: 2025-08-15T15:16:55+03:00
+lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac
 categories:
 - Mowers

@@ -4,8 +4,8 @@ description: Have you ever wondered if you can clean a spray gun with water? You
   not alone! Many people have this question, and I'm here to provide you with a clear
   and...
 slug: /can-you-clean-spray-gun-with-water/
-date: '2025-08-10 00:00:00+00:00'
-lastmod: '2025-08-10 00:00:00+00:00'
+date: 2025-08-15T15:16:55+03:00
+lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac
 categories:
 - DIY Paintings

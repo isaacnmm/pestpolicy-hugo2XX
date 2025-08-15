@@ -3,8 +3,8 @@ title: How to Conduct Your Own Soil Test for Ph Using Household Ingredients
 description: The health and vibrancy of your garden, lawn, and even individual plants
   are deeply rooted in the chemistry of your soil, particularly its pH.
 slug: /how-to-conduct-your-own-soil-test-for-ph-using-household-ingredients/
-date: '2025-08-10 00:00:00+00:00'
-lastmod: '2025-08-10 00:00:00+00:00'
+date: 2025-08-15T15:16:55+03:00
+lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac
 categories:
 - Gardening

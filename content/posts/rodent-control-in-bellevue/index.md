@@ -3,8 +3,8 @@ title: Rodent Control in Bellevue
 description: Rodent infestations pose a serious threat to both residential and commercial
   properties in Bellevue, WA. With its mix of urban development and lush natural...
 slug: /rodent-control-in-bellevue/
-date: '2025-08-10 00:00:00+00:00'
-lastmod: '2025-08-10 00:00:00+00:00'
+date: 2025-08-15T15:16:55+03:00
+lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac
 categories:
 - Bellevue

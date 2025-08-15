@@ -4,8 +4,8 @@ description: Your deck is an extension of your home. But pressure-treated wood, 
   durable, can quickly deteriorate without proper protection due to elements such
   as...
 slug: /best-deck-sealer-for-pressure-treated-wood/
-date: '2025-08-10 00:00:00+00:00'
-lastmod: '2025-08-10 00:00:00+00:00'
+date: 2025-08-15T15:16:55+03:00
+lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac
 categories:
 - Paint

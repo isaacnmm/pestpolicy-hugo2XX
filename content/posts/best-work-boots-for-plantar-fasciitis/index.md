@@ -3,8 +3,8 @@ title: Best Work Boots for Plantar Fasciitis
 description: Are you searching for the best work boots for plantar fasciitis? Being
   on your feet working or standing for extended periods may strain the ligaments that...
 slug: /best-work-boots-for-plantar-fasciitis/
-date: '2025-08-10 00:00:00+00:00'
-lastmod: '2025-08-10 00:00:00+00:00'
+date: 2025-08-15T15:16:55+03:00
+lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac
 categories:
 - walking Shoes

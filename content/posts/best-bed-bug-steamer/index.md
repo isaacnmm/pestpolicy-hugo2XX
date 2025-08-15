@@ -3,8 +3,8 @@ title: Best Bed Bug Steamer
 description: Bed bugs are a persistent and irritating pest that can infest homes,
   hotels, and other public spaces.
 slug: /best-bed-bug-steamer/
-date: '2025-08-10 00:00:00+00:00'
-lastmod: '2025-08-10 00:00:00+00:00'
+date: 2025-08-15T15:16:55+03:00
+lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac
 categories:
 - Bed Bugs

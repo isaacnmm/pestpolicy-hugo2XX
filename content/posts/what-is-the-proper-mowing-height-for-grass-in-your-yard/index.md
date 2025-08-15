@@ -4,8 +4,8 @@ description: Mowing your lawn seems like a straightforward chore fire up the mow
   push it around, and you're done. However, the height at which you cut your grass
   is one...
 slug: /what-is-the-proper-mowing-height-for-grass-in-your-yard/
-date: '2025-08-10 00:00:00+00:00'
-lastmod: '2025-08-10 00:00:00+00:00'
+date: 2025-08-15T15:16:55+03:00
+lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac
 categories:
 - Lawn Care

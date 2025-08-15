@@ -4,8 +4,8 @@ description: Having a flock of geese in your pond could eliminate prevailing pea
   and natural beauty. Usually, geese literally convert your pond, lawn, or field to
   their...
 slug: /how-to-keep-geese-away-from-your-pond/
-date: '2025-08-10 00:00:00+00:00'
-lastmod: '2025-08-10 00:00:00+00:00'
+date: 2025-08-15T15:16:55+03:00
+lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac
 categories:
 - Geese

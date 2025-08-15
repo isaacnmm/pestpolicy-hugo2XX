@@ -3,8 +3,8 @@ title: How to Repel Raccoons
 description: Below ishow to repel raccoons?A raccoon is probably one of the most tenacious
   and clever pests that boasts a wide variety of athletic skills. Raccoons can...
 slug: /how-to-repel-raccoons/
-date: '2025-08-10 00:00:00+00:00'
-lastmod: '2025-08-10 00:00:00+00:00'
+date: 2025-08-15T15:16:55+03:00
+lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac
 categories:
 - Guide

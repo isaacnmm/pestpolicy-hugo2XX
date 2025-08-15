@@ -3,8 +3,8 @@ title: Best Acoustic Guitar for Small Hands
 description: Guitar players will have different body physiques like big or small arms,
   hands, height, shoulders, and backs. Regardless, you'll need a great device for...
 slug: /best-acoustic-guitar-for-small-hands/
-date: '2025-08-10 00:00:00+00:00'
-lastmod: '2025-08-10 00:00:00+00:00'
+date: 2025-08-15T15:16:55+03:00
+lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac
 categories:
 - Acoustic Guitars

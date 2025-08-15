@@ -3,8 +3,8 @@ title: What is a Hobo Spider
 description: This post will answer the question "What is a Hobo Spider?" and give
   you 9 other interesting facts about these unique creatures! Hobo spiders Tegenaria...
 slug: /what-is-a-hobo-spider/
-date: '2025-08-10 00:00:00+00:00'
-lastmod: '2025-08-10 00:00:00+00:00'
+date: 2025-08-15T15:16:55+03:00
+lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac
 categories:
 - Guide

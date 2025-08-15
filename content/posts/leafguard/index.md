@@ -3,8 +3,8 @@ title: Leafguard
 description: Homeowners constantly seek effective ways to protect their properties
   from water damage, and a primary defense lies in a well-functioning gutter system.
 slug: /leafguard/
-date: '2025-08-10 00:00:00+00:00'
-lastmod: '2025-08-10 00:00:00+00:00'
+date: 2025-08-15T15:16:55+03:00
+lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac
 categories:
 - Gutters

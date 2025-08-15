@@ -4,8 +4,8 @@ description: If youre looking for the best sketchers for arch support youre at t
   right place. Skechers makes some of the most comfortable and supportive footwear
   for...
 slug: /best-skechers-for-arch-support/
-date: '2025-08-10 00:00:00+00:00'
-lastmod: '2025-08-10 00:00:00+00:00'
+date: 2025-08-15T15:16:55+03:00
+lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac
 categories:
 - walking Shoes

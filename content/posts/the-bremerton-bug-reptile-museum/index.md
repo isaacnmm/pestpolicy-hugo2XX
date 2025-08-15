@@ -3,8 +3,8 @@ title: The Bremerton Bug Reptile Museum
 description: Nestled in the heart of picturesque Bremerton, Washington, The Bremerton
   Bug & Reptile Museum stands as a beacon for adventurers, nature enthusiasts, and...
 slug: /the-bremerton-bug-reptile-museum/
-date: '2025-08-10 00:00:00+00:00'
-lastmod: '2025-08-10 00:00:00+00:00'
+date: 2025-08-15T15:16:55+03:00
+lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac
 categories:
 - Bremerton

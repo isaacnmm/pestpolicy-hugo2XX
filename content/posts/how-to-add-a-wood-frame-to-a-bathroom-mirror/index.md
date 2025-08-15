@@ -3,8 +3,8 @@ title: How to Add a Wood Frame to a Bathroom Mirror
 description: A large, unframed plate glass mirror is a common feature in many bathrooms,
   particularly in older homes or builder-grade designs.
 slug: /how-to-add-a-wood-frame-to-a-bathroom-mirror/
-date: '2025-08-10 00:00:00+00:00'
-lastmod: '2025-08-10 00:00:00+00:00'
+date: 2025-08-15T15:16:55+03:00
+lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac
 categories:
 - Bathroom

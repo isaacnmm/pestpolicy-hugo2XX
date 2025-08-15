@@ -2,8 +2,8 @@
 title: Best Tick Collars for Dogs
 description: Tick treatments in dogs come in all forms
 slug: /best-tick-collars-for-dogs/
-date: '2025-08-10 00:00:00+00:00'
-lastmod: '2025-08-10 00:00:00+00:00'
+date: 2025-08-15T15:16:55+03:00
+lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac
 categories:
 - Product Reviews

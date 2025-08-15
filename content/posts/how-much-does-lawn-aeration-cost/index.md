@@ -3,8 +3,8 @@ title: How Much Does Lawn Aeration Cost
 description: A lush, vibrant lawn is often the centerpiece of a beautiful home, but
   beneath that green surface, a silent struggle might be undermining its health soil...
 slug: /how-much-does-lawn-aeration-cost/
-date: '2025-08-10 00:00:00+00:00'
-lastmod: '2025-08-10 00:00:00+00:00'
+date: 2025-08-15T15:16:55+03:00
+lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac
 categories:
 - Lawn Care

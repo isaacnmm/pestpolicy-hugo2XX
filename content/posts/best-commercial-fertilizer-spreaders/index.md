@@ -3,8 +3,8 @@ title: Best Commercial Fertilizer Spreaders
 description: For landscaping professionals, golf course superintendents, or homeowners
   managing extensive properties, a high-quality fertilizer spreader is not just a...
 slug: /best-commercial-fertilizer-spreaders/
-date: '2025-08-10 00:00:00+00:00'
-lastmod: '2025-08-10 00:00:00+00:00'
+date: 2025-08-15T15:16:55+03:00
+lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac
 categories:
 - Lawn Care

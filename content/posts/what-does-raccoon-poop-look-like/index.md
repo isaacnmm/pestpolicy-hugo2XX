@@ -4,8 +4,8 @@ description: Raccoons are nocturnal, thus it's difficult to spot them easily dur
   the day. But, raccoon poops and urine smell are key indicators in case of invasion.
   So,...
 slug: /what-does-raccoon-poop-look-like/
-date: '2025-08-10 00:00:00+00:00'
-lastmod: '2025-08-10 00:00:00+00:00'
+date: 2025-08-15T15:16:55+03:00
+lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac
 categories:
 - Guide

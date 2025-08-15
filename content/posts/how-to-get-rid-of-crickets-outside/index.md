@@ -3,8 +3,8 @@ title: How to Get Rid Of Crickets Outside
 description: Are you tired of the incessant chirping of crickets keeping you up at
   night or invading your outdoor spaces ? You're not alone!
 slug: /how-to-get-rid-of-crickets-outside/
-date: '2025-08-10 00:00:00+00:00'
-lastmod: '2025-08-10 00:00:00+00:00'
+date: 2025-08-15T15:16:55+03:00
+lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac
 categories:
 - Crickets

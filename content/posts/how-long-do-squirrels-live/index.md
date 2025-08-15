@@ -3,8 +3,8 @@ title: How Long Do Squirrels Live
 description: Have you come across squirrels in your garden? But do you ever ask yourself
   how long do squirrels live? Did you know that there are different species of...
 slug: /how-long-do-squirrels-live/
-date: '2025-08-10 00:00:00+00:00'
-lastmod: '2025-08-10 00:00:00+00:00'
+date: 2025-08-15T15:16:55+03:00
+lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac
 categories:
 - Guide

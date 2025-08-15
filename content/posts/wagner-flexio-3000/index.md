@@ -3,8 +3,8 @@ title: Wagner Flexio 3000
 description: The Wagner Flexio 3000 is a versatile airless paint sprayer designed
   to help homeowners and DIY enthusiasts achieve a professional-quality finish.
 slug: /wagner-flexio-3000/
-date: '2025-08-10 00:00:00+00:00'
-lastmod: '2025-08-10 00:00:00+00:00'
+date: 2025-08-15T15:16:55+03:00
+lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac
 categories:
 - Guide

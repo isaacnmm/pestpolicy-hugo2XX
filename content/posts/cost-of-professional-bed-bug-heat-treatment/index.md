@@ -2,8 +2,8 @@
 title: "Cost of Professional Bed Bug Heat Treatment"
 description: "A professional's guide to the cost of a bed bug heat treatment. Learn the average price per square foot, the key factors that determine your final quote, and why it's so effective."
 slug: /cost-of-professional-bed-bug-heat-treatment/
-date: '2025-08-15 00-00-00+00-00'
-lastmod: '2025-08-15 00-00-00+00-00'
+date: 2025-08-15T15:16:55+03:00
+lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac
 categories:
 - Bed Bugs

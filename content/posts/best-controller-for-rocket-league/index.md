@@ -3,8 +3,8 @@ title: Best Controller for Rocket League
 description: With a suitable controller, it'll be much easier to do aerials and have
   favorable triggers
 slug: /best-controller-for-rocket-league/
-date: '2025-08-10 00:00:00+00:00'
-lastmod: '2025-08-10 00:00:00+00:00'
+date: 2025-08-15T15:16:55+03:00
+lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac
 categories:
 - Controllers

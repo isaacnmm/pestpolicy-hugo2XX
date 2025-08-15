@@ -3,8 +3,8 @@ title: Enamel Vs Latex Paint
 description: When it comes to painting your home or project, choosing the right type
   of paint can make a big difference in the final result.
 slug: /enamel-vs-latex-paint/
-date: '2025-08-10 00:00:00+00:00'
-lastmod: '2025-08-10 00:00:00+00:00'
+date: 2025-08-15T15:16:55+03:00
+lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac
 categories:
 - Guide

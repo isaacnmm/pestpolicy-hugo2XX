@@ -3,8 +3,8 @@ title: What Do Baby Fleas Look Like
 description: What do baby fleas look like? Check these baby flea larvae videos, images,
   and pictures
 slug: /what-do-baby-fleas-look-like/
-date: '2025-08-10 00:00:00+00:00'
-lastmod: '2025-08-10 00:00:00+00:00'
+date: 2025-08-15T15:16:55+03:00
+lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac
 categories:
 - Fleas

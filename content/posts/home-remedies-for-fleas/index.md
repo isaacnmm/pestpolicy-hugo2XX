@@ -3,8 +3,8 @@ title: Home Remedies for Fleas
 description: For most home and pet owners, a flea infestation see images-look-like
   can cause panic. Below I've discussed the 7 top home remedies for fleas
 slug: /home-remedies-for-fleas/
-date: '2025-08-10 00:00:00+00:00'
-lastmod: '2025-08-10 00:00:00+00:00'
+date: 2025-08-15T15:16:55+03:00
+lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac
 categories:
 - Fleas

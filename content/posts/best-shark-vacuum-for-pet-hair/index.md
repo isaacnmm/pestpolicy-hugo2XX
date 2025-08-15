@@ -3,8 +3,8 @@ title: Best Shark Vacuum for Pet Hair
 description: Pet hair gets into our homes and almost goes unnoticeable. Conventional
   cleaning methods may not effectively remove pet hair from the floor, carpets, and...
 slug: /best-shark-vacuum-for-pet-hair/
-date: '2025-08-10 00:00:00+00:00'
-lastmod: '2025-08-10 00:00:00+00:00'
+date: 2025-08-15T15:16:55+03:00
+lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac
 categories:
 - Fleas

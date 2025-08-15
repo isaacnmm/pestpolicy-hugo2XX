@@ -3,8 +3,8 @@ title: Best Motherboard for I7 6700
 description: Intel recently launched the 6th gen processors, one of which was the
   Core i7-6700k, after which came the Core i7-6700.
 slug: /best-motherboard-for-i7-6700/
-date: '2025-08-10 00:00:00+00:00'
-lastmod: '2025-08-10 00:00:00+00:00'
+date: 2025-08-15T15:16:55+03:00
+lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac
 categories:
 - Motherboards

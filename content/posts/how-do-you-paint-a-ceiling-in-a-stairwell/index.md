@@ -3,8 +3,8 @@ title: How Do You Paint a Ceiling in a Stairwell
 description: Painting a ceiling in a stairwell can be a challenging task due to the
   confined space and height involved. However, with the right preparation and techniques,...
 slug: /how-do-you-paint-a-ceiling-in-a-stairwell/
-date: '2025-08-10 00:00:00+00:00'
-lastmod: '2025-08-10 00:00:00+00:00'
+date: 2025-08-15T15:16:55+03:00
+lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac
 categories:
 - DIY Paintings

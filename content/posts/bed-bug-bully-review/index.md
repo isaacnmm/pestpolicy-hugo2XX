@@ -3,8 +3,8 @@ title: Bed Bug Bully Review
 description: Skills, the manufacture of Bed Bug Bully, markets the product as an effective,
   non-toxic, all-natural bed bug killer spray. So, how accurate is this? Can Bed...
 slug: /bed-bug-bully-review/
-date: '2025-08-10 00:00:00+00:00'
-lastmod: '2025-08-10 00:00:00+00:00'
+date: 2025-08-15T15:16:55+03:00
+lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac
 categories:
 - Bed Bugs

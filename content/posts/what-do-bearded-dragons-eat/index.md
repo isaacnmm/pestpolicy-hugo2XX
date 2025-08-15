@@ -3,8 +3,8 @@ title: What Do Bearded Dragons Eat
 description: What do bearded dragons eat? For a healthy life, it is important to feed
   your bearded dragon with a proper balanced diet.
 slug: /what-do-bearded-dragons-eat/
-date: '2025-08-10 00:00:00+00:00'
-lastmod: '2025-08-10 00:00:00+00:00'
+date: 2025-08-15T15:16:55+03:00
+lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac
 categories:
 - Guide

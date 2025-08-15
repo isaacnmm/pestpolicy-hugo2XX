@@ -4,8 +4,8 @@ description: When choosing the best squirrel repellent, you can consider things 
   effectiveness, safety, ease of use, and cost. Ensuring you select the right product
   is...
 slug: /best-squirrel-repellent/
-date: '2025-08-10 00:00:00+00:00'
-lastmod: '2025-08-10 00:00:00+00:00'
+date: 2025-08-15T15:16:55+03:00
+lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac
 categories:
 - Product Reviews

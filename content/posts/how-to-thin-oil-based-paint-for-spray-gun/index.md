@@ -3,8 +3,8 @@ title: How to Thin Oil Based Paint for Spray Gun
 description: Many professional and DIY painters have asked how to thin oil-based paint
   for the spray gun. Possibly you got interested in reading this article because you...
 slug: /how-to-thin-oil-based-paint-for-spray-gun/
-date: '2025-08-10 00:00:00+00:00'
-lastmod: '2025-08-10 00:00:00+00:00'
+date: 2025-08-15T15:16:55+03:00
+lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac
 categories:
 - DIY Paintings

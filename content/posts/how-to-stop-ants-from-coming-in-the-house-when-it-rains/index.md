@@ -2,8 +2,8 @@
 title: "How to Stop Ants From Coming in the House When It Rains"
 description: "Why does rain drive ants indoors? A pest control expert explains this common phenomenon and provides a field-tested plan to stop them from invading your kitchen."
 slug: /how-to-stop-ants-from-coming-in-the-house-when-it-rains/
-date: '2025-08-15 00-00-00+00-00'
-lastmod: '2025-08-15 00-00-00+00-00'
+date: 2025-08-15T15:16:55+03:00
+lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac
 categories:
 - Ants

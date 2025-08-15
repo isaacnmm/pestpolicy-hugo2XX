@@ -3,8 +3,8 @@ title: 7 Best Low Maintenance and Drought Resistant Grasses
 description: In an era where water conservation is increasingly critical and busy
   schedules demand efficient solutions, the desire for a lush, green lawn often clashes...
 slug: /7-best-low-maintenance-and-drought-resistant-grasses/
-date: '2025-08-10 00:00:00+00:00'
-lastmod: '2025-08-10 00:00:00+00:00'
+date: 2025-08-15T15:16:55+03:00
+lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac
 categories:
 - Lawn Care

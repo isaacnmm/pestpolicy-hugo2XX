@@ -3,8 +3,8 @@ title: Best Undercoat Paint
 description: One of the reasons why you will end up having uneven painting is a failure
   to have the right undercoat. Before you go for that paint, you need to first...
 slug: /best-undercoat-paint/
-date: '2025-08-10 00:00:00+00:00'
-lastmod: '2025-08-10 00:00:00+00:00'
+date: 2025-08-15T15:16:55+03:00
+lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac
 categories:
 - Paint

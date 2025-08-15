@@ -4,8 +4,8 @@ description: Here's how to filter and purify camping water? It's essential to en
   that your camp-ground is safe and clean for drinking without viruses and bacteria.
   -...
 slug: /how-to-filter-and-purify-camping-water/
-date: '2025-08-10 00:00:00+00:00'
-lastmod: '2025-08-10 00:00:00+00:00'
+date: 2025-08-15T15:16:55+03:00
+lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac
 categories:
 - Shoes

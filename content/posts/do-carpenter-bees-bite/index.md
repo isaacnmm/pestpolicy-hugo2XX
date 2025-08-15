@@ -3,8 +3,8 @@ title: Do Carpenter Bees Bite
 description: While carpenter bees do not bite humans, they can cause damage to wooden
   structures. The bees burrow into wood to create their nests, which can lead to...
 slug: /do-carpenter-bees-bite/
-date: '2025-08-10 00:00:00+00:00'
-lastmod: '2025-08-10 00:00:00+00:00'
+date: 2025-08-15T15:16:55+03:00
+lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac
 categories:
 - Guide

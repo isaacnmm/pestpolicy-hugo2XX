@@ -3,8 +3,8 @@ title: How to Repair a Section Of Gutter
 description: Gutters are an essential component of your home's defense against water
   damage. They tirelessly collect rainwater from your roof and divert it safely away...
 slug: /how-to-repair-a-section-of-gutter/
-date: '2025-08-10 00:00:00+00:00'
-lastmod: '2025-08-10 00:00:00+00:00'
+date: 2025-08-15T15:16:55+03:00
+lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac
 categories:
 - Gutters

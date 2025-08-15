@@ -4,8 +4,8 @@ description: As a responsible pet owner, every decision you make is weighed agai
   one critical question "Is this safe for my animal?" When facing a flea infestation,
   the...
 slug: /are-electric-flea-traps-safe-for-pets/
-date: '2025-08-10 00:00:00+00:00'
-lastmod: '2025-08-10 00:00:00+00:00'
+date: 2025-08-15T15:16:55+03:00
+lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac
 categories:
 - Fleas

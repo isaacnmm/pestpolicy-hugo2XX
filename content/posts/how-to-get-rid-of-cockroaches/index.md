@@ -3,8 +3,8 @@ title: How to Get Rid Of Cockroaches
 description: A cockroach infestation is probably the hardest household to control.
   Besides being very sneaky, cockroaches breed very fast, bite human beingswhen...
 slug: /how-to-get-rid-of-cockroaches/
-date: '2025-08-10 00:00:00+00:00'
-lastmod: '2025-08-10 00:00:00+00:00'
+date: 2025-08-15T15:16:55+03:00
+lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac
 categories:
 - Cockroaches

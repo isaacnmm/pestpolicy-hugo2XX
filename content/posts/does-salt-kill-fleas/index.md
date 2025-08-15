@@ -3,8 +3,8 @@ title: Does Salt Kill Fleas
 description: Does salt kill fleas? When looking to eradicate fleas, you are often
   confronted by a wealth of information, but what is correct and what is not?
 slug: /does-salt-kill-fleas/
-date: '2025-08-10 00:00:00+00:00'
-lastmod: '2025-08-10 00:00:00+00:00'
+date: 2025-08-15T15:16:55+03:00
+lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac
 categories:
 - Fleas

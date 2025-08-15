@@ -4,8 +4,8 @@ description: When choosing the best poison for squirrels , you can consider fact
   like effectiveness, safety, ease of use, and environmental impact. Selecting the
   right...
 slug: /best-poison-for-squirrels/
-date: '2025-08-10 00:00:00+00:00'
-lastmod: '2025-08-10 00:00:00+00:00'
+date: 2025-08-15T15:16:55+03:00
+lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac
 categories:
 - Product Reviews

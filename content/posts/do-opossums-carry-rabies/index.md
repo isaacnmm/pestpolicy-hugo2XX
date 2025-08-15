@@ -3,8 +3,8 @@ title: Do Opossums Carry Rabies
 description: Opossums go through garbage, hunt mice and snakes , and hang around roadkill
   which exposes them to dangerous diseases like rabies. So, the question is do...
 slug: /do-opossums-carry-rabies/
-date: '2025-08-10 00:00:00+00:00'
-lastmod: '2025-08-10 00:00:00+00:00'
+date: 2025-08-15T15:16:55+03:00
+lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac
 categories:
 - Guide

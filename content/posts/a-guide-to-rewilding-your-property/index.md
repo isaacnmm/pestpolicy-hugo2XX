@@ -3,8 +3,8 @@ title: A Guide to Rewilding Your Property
 description: In an increasingly urbanized world, the concept of "rewilding" offers
   a powerful antidote to manicured landscapes and biodiversity loss.
 slug: /a-guide-to-rewilding-your-property/
-date: '2025-08-10 00:00:00+00:00'
-lastmod: '2025-08-10 00:00:00+00:00'
+date: 2025-08-15T15:16:55+03:00
+lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac
 categories:
 - Landscaping

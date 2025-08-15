@@ -4,8 +4,8 @@ description: For a beginner considering microphones-for-vocals-live-performance 
   a key considering is what's the best microphone for recording vocals? Well, these
   vocal...
 slug: /best-microphone-for-recording-vocals/
-date: '2025-08-10 00:00:00+00:00'
-lastmod: '2025-08-10 00:00:00+00:00'
+date: 2025-08-15T15:16:55+03:00
+lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac
 categories:
 - Mics

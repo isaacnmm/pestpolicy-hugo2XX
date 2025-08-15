@@ -3,8 +3,8 @@ title: How Long Can Fleas Live Without a Host
 description: Fleas are generally parasites that need a host to survive . But how long
   can fleas live without a host? Well, because of their thirst for blood and parasitic...
 slug: /how-long-can-fleas-live-without-a-host/
-date: '2025-08-10 00:00:00+00:00'
-lastmod: '2025-08-10 00:00:00+00:00'
+date: 2025-08-15T15:16:55+03:00
+lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac
 categories:
 - Fleas

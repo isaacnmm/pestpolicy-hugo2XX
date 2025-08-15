@@ -4,8 +4,8 @@ description: Usually, the first line of defense against ants is some sort of poi
   that will kill them and keep them from coming back. But you can also make an ant
   trap...
 slug: /how-long-does-it-take-for-borax-to-kill-ants/
-date: '2025-08-10 00:00:00+00:00'
-lastmod: '2025-08-10 00:00:00+00:00'
+date: 2025-08-15T15:16:55+03:00
+lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac
 categories:
 - Ants

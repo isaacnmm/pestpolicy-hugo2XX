@@ -3,8 +3,8 @@ title: Best Silverfish Repellent
 description: On the best silverfish repellent, you will not only acquire a quality
   product but also reduce the hassles of searching for the top choice solution.
 slug: /best-silverfish-repellent/
-date: '2025-08-10 00:00:00+00:00'
-lastmod: '2025-08-10 00:00:00+00:00'
+date: 2025-08-15T15:16:55+03:00
+lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac
 categories:
 - Fleas

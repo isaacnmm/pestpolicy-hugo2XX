@@ -3,8 +3,8 @@ title: Best Electronic Flea Comb
 description: Fleas can be a persistent nuisance for pets and their owners alike. Traditional
   flea treatments-flea-treatment-for-cats often involve chemical solutions that...
 slug: /best-electronic-flea-comb/
-date: '2025-08-10 00:00:00+00:00'
-lastmod: '2025-08-10 00:00:00+00:00'
+date: 2025-08-15T15:16:55+03:00
+lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac
 categories:
 - Fleas

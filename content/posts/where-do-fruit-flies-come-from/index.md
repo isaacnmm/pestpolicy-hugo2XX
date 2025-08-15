@@ -3,8 +3,8 @@ title: Where Do Fruit Flies Come from
 description: Could fruit flies have disturbed you in your place? Do you wonder where
   they may have come from or how long they live ? In this article, I will be answering...
 slug: /where-do-fruit-flies-come-from/
-date: '2025-08-10 00:00:00+00:00'
-lastmod: '2025-08-10 00:00:00+00:00'
+date: 2025-08-15T15:16:55+03:00
+lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac
 categories:
 - Flies

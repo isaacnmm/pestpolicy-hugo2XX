@@ -3,8 +3,8 @@ title: How Long Does It Take for Steam to Kill Fleas
 description: Fleas will attack your carpets, furniture, and clothing in your home
   quickly growing into a major problem. Many homeowners turn to pesticides to remove...
 slug: /how-long-does-it-take-for-steam-to-kill-fleas/
-date: '2025-08-10 00:00:00+00:00'
-lastmod: '2025-08-10 00:00:00+00:00'
+date: 2025-08-15T15:16:55+03:00
+lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac
 categories:
 - Fleas

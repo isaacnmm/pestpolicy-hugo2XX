@@ -3,8 +3,8 @@ title: 10 Essential Fall Lawn & Garden Tools for a Perfect Spring
 description: Prepare your yard for winter and ensure a vibrant spring with our guide
   to the 10 essential lawn and garden tools every homeowner needs for fall cleanup.
 slug: /10-essential-lawn-and-garden-tools-for-fall/
-date: '2025-08-10 00:00:00+00:00'
-lastmod: '2025-08-10 00:00:00+00:00'
+date: 2025-08-15T15:16:55+03:00
+lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac
 categories:
 - Lawn Care

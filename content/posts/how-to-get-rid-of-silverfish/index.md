@@ -3,8 +3,8 @@ title: How to Get Rid Of Silverfish
 description: Silverfish are small, wingless insects known for their silvery-grey appearance
   and fish-like movements. Though generally harmless, these pests can become a...
 slug: /how-to-get-rid-of-silverfish/
-date: '2025-08-10 00:00:00+00:00'
-lastmod: '2025-08-10 00:00:00+00:00'
+date: 2025-08-15T15:16:55+03:00
+lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac
 categories:
 - Fleas

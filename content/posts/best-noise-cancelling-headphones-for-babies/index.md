@@ -2,8 +2,8 @@
 title: Best Noise Cancelling Headphones for Babies
 description: The world is full of noise
 slug: /best-noise-cancelling-headphones-for-babies/
-date: '2025-08-10 00:00:00+00:00'
-lastmod: '2025-08-10 00:00:00+00:00'
+date: 2025-08-15T15:16:55+03:00
+lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac
 categories:
 - Headphones

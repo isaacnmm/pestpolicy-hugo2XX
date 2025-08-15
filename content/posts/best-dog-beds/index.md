@@ -3,8 +3,8 @@ title: Best Dog Beds
 description: A dog that has comfortable bedding best dog beds is always a happily
   living pet, and it will definitely bond with the owner and other households amazingly...
 slug: /best-dog-beds/
-date: '2025-08-10 00:00:00+00:00'
-lastmod: '2025-08-10 00:00:00+00:00'
+date: 2025-08-15T15:16:55+03:00
+lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac
 categories:
 - Fleas

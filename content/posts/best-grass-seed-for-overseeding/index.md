@@ -3,8 +3,8 @@ title: Best Grass Seed for Overseeding
 description: A lush, dense, and vibrant lawn is the envy of many homeowners. However,
   even the most meticulously cared-for lawns can thin out over time due to wear and...
 slug: /best-grass-seed-for-overseeding/
-date: '2025-08-10 00:00:00+00:00'
-lastmod: '2025-08-10 00:00:00+00:00'
+date: 2025-08-15T15:16:55+03:00
+lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac
 categories:
 - Lawn Care

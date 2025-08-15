@@ -4,8 +4,8 @@ description: Selecting the best white paints for interior walls is an essential 
   towards achieving an excellent final finish. Interior walls require outstanding
   paint...
 slug: /best-white-paints-for-interior-walls/
-date: '2025-08-10 00:00:00+00:00'
-lastmod: '2025-08-10 00:00:00+00:00'
+date: 2025-08-15T15:16:55+03:00
+lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac
 categories:
 - Paint

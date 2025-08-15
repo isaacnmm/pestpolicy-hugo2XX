@@ -4,8 +4,8 @@ description: When choosing the best mosquito killer, you can consider things lik
   effectiveness, safety, and ease of use. These factors are crucial in ensuring you
   select...
 slug: /best-mosquito-killer/
-date: '2025-08-10 00:00:00+00:00'
-lastmod: '2025-08-10 00:00:00+00:00'
+date: 2025-08-15T15:16:55+03:00
+lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac
 categories:
 - Mosquitoes

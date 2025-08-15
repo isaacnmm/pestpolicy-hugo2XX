@@ -3,8 +3,8 @@ title: How to Play Tetherball
 description: Tetherball is a classic playground game thats simple to learn, fun to
   play, and offers a great way to stay active. Whether youre a beginner looking to...
 slug: /how-to-play-tetherball/
-date: '2025-08-10 00:00:00+00:00'
-lastmod: '2025-08-10 00:00:00+00:00'
+date: 2025-08-15T15:16:55+03:00
+lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac
 categories:
 - Guide

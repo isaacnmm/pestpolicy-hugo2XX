@@ -4,8 +4,8 @@ description: What is Piccolo? Ive been a flutist for 5 years, but I also play th
   piccolo. In comparison to the flute, the piccolo has a higher tone . However, the
   piccolo...
 slug: /what-is-piccolo/
-date: '2025-08-10 00:00:00+00:00'
-lastmod: '2025-08-10 00:00:00+00:00'
+date: 2025-08-15T15:16:55+03:00
+lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac
 categories:
 - Recording

@@ -3,8 +3,8 @@ title: What Causes White Lines on Tomato Plants
 description: Observing fine, squiggly white or translucent lines marring the lush
   green leaves of your tomato plants can be quite alarming for any gardener.
 slug: /what-causes-white-lines-on-tomato-plants/
-date: '2025-08-10 00:00:00+00:00'
-lastmod: '2025-08-10 00:00:00+00:00'
+date: 2025-08-15T15:16:55+03:00
+lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac
 categories:
 - Guides

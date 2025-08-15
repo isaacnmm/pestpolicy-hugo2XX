@@ -3,8 +3,8 @@ title: How Venemous is a Black Spider With White Dots
 description: Have you recently seen a black spider Badumna insignis in your garden
   that look like grey-house spider or Badumna longinqua but have white dots? So, you're...
 slug: /how-venemous-is-a-black-spider-with-white-dots/
-date: '2025-08-10 00:00:00+00:00'
-lastmod: '2025-08-10 00:00:00+00:00'
+date: 2025-08-15T15:16:55+03:00
+lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac
 categories:
 - Guide

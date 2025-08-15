@@ -4,8 +4,8 @@ description: A shower niche is a practical and aesthetically pleasing addition t
   any modern bathroom, providing recessed storage for toiletries without the clutter
   of...
 slug: /how-to-tile-a-shower-niche-without-bullnose-101-a-comprehensive-guide/
-date: '2025-08-10 00:00:00+00:00'
-lastmod: '2025-08-10 00:00:00+00:00'
+date: 2025-08-15T15:16:55+03:00
+lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac
 categories:
 - Home Improvement

@@ -3,8 +3,8 @@ title: Best Graphics Card for Music Production
 description: When it comes to music production, a high-performance graphics card may
   not seem like a priority. However, as digital audio workstations DAWs and music...
 slug: /best-graphics-card-for-music-production/
-date: '2025-08-10 00:00:00+00:00'
-lastmod: '2025-08-10 00:00:00+00:00'
+date: 2025-08-15T15:16:55+03:00
+lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac
 categories:
 - Guide

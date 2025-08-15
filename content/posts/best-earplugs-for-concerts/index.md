@@ -3,8 +3,8 @@ title: Best Earplugs for Concerts
 description: In this post, I've reviewed the best earplugs for concerts. It's no secret
   that regular noise-reduction Earplugs will degrade music sound quality in concerts...
 slug: /best-earplugs-for-concerts/
-date: '2025-08-10 00:00:00+00:00'
-lastmod: '2025-08-10 00:00:00+00:00'
+date: 2025-08-15T15:16:55+03:00
+lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac
 categories:
 - Headphones

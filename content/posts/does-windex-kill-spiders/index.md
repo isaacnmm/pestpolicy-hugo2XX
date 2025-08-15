@@ -3,8 +3,8 @@ title: Does Windex Kill Spiders
 description: Windex is a degreaser for hard-to-clean surfaces like fans and hoods.
   But, does Windex kill spiders and their eggs? Well, here's my experience!
 slug: /does-windex-kill-spiders/
-date: '2025-08-10 00:00:00+00:00'
-lastmod: '2025-08-10 00:00:00+00:00'
+date: 2025-08-15T15:16:55+03:00
+lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac
 categories:
 - Guide

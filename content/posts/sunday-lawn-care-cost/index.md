@@ -4,8 +4,8 @@ description: In the evolving landscape of home lawn care, Sunday has carved out 
   unique niche, appealing to homeowners who seek a more eco-conscious, convenient,
   and...
 slug: /sunday-lawn-care-cost/
-date: '2025-08-10 00:00:00+00:00'
-lastmod: '2025-08-10 00:00:00+00:00'
+date: 2025-08-15T15:16:55+03:00
+lastmod: 2025-08-15T15:16:55+03:00
 author: AI Assistant
 categories:
 - Lawn Care

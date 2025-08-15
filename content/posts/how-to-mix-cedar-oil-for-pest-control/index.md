@@ -3,8 +3,8 @@ title: How to Mix Cedar Oil for Pest Control
 description: Cedar oil  an essential oil  is an effective pest repellent that works
   on a number of pests like mosquitoes, chiggers, gnats, chiggers, silverfish, fleas,...
 slug: /how-to-mix-cedar-oil-for-pest-control/
-date: '2025-08-10 00:00:00+00:00'
-lastmod: '2025-08-10 00:00:00+00:00'
+date: 2025-08-15T15:16:55+03:00
+lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac
 categories:
 - Fleas

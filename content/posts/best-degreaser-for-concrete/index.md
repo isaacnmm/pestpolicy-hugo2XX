@@ -4,8 +4,8 @@ description: Cleaning concrete floors utilized in driveways, warehouses and gara
   present unique challenges as compared to other surfaces because they are exposed
   to the...
 slug: /best-degreaser-for-concrete/
-date: '2025-08-10 00:00:00+00:00'
-lastmod: '2025-08-10 00:00:00+00:00'
+date: 2025-08-15T15:16:55+03:00
+lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac
 categories:
 - Paint

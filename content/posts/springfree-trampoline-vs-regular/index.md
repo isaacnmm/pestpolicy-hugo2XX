@@ -3,8 +3,8 @@ title: Springfree Trampoline Vs Regular
 description: Safety is the number one consideration when buying trampolines. Most
   parents are overwhelmed with the many brands, styles, and shapes of trampolines.
 slug: /springfree-trampoline-vs-regular/
-date: '2025-08-10 00:00:00+00:00'
-lastmod: '2025-08-10 00:00:00+00:00'
+date: 2025-08-15T15:16:55+03:00
+lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac
 categories:
 - Guide

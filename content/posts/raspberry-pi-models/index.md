@@ -3,8 +3,8 @@ title: Raspberry Pi Models
 description: Raspberry Pi Models are popular among single-board super-computing enthusiasts
   and is described as a small Linux-based computer on a single small board. -...
 slug: /raspberry-pi-models/
-date: '2025-08-10 00:00:00+00:00'
-lastmod: '2025-08-10 00:00:00+00:00'
+date: 2025-08-15T15:16:55+03:00
+lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac
 categories:
 - Raspberry Pi 3

@@ -3,8 +3,8 @@ title: How to Stop Your Bathroom Fan from Blowing Dust
 description: A bathroom exhaust fan is designed to whisk away moisture, odors, and
   stale air, creating a healthier and more comfortable environment.
 slug: /how-to-stop-your-bathroom-fan-from-blowing-dust/
-date: '2025-08-10 00:00:00+00:00'
-lastmod: '2025-08-10 00:00:00+00:00'
+date: 2025-08-15T15:16:55+03:00
+lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac
 categories:
 - Home Maintenance

@@ -3,8 +3,8 @@ title: Are Fleas Nocturnal
 description: As a home or pet owner, you'd be worried if your lovely dog or cat caught
   fleas . These bugs will bite and suck blood from these animals, causing your furry...
 slug: /are-fleas-nocturnal/
-date: '2025-08-10 00:00:00+00:00'
-lastmod: '2025-08-10 00:00:00+00:00'
+date: 2025-08-15T15:16:55+03:00
+lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac
 categories:
 - Fleas

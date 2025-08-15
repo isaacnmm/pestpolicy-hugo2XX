@@ -3,8 +3,8 @@ title: What Grit Sandpaper for Primer Before Paint
 description: Surfaces such as rust metal require coarse grip sandpaper  maybe you've
   tried oiling , while painted ceramic surface needs to be sanded with super fine-grit...
 slug: /what-grit-sandpaper-for-primer-before-paint/
-date: '2025-08-10 00:00:00+00:00'
-lastmod: '2025-08-10 00:00:00+00:00'
+date: 2025-08-15T15:16:55+03:00
+lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac
 categories:
 - DIY Paintings

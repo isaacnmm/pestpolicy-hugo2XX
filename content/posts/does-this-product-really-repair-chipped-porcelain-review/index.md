@@ -3,8 +3,8 @@ title: Does This Product Really Repair Chipped Porcelain Review
 description: Porcelain fixtures, from sinks and bathtubs to toilets and tiles, add
   a touch of classic elegance and durability to any home.
 slug: /does-this-product-really-repair-chipped-porcelain-review/
-date: '2025-08-10 00:00:00+00:00'
-lastmod: '2025-08-10 00:00:00+00:00'
+date: 2025-08-15T15:16:55+03:00
+lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac
 categories:
 - Home Improvement

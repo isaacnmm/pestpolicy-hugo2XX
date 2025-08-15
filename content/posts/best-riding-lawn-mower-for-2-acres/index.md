@@ -4,8 +4,8 @@ description: Tired of spending hours mowing? We reviewed the best riding lawn mo
   for 2-acre properties, focusing on deck size, power, and durability. Find your perfect
   tractor.
 slug: /best-riding-lawn-mower-for-2-acres/
-date: '2025-08-10 00:00:00+00:00'
-lastmod: '2025-08-10 00:00:00+00:00'
+date: 2025-08-15T15:16:55+03:00
+lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac
 categories:
 - Mowers

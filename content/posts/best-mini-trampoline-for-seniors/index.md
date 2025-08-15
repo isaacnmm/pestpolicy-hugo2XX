@@ -3,8 +3,8 @@ title: Best Mini Trampoline for Seniors
 description: The Best Mini Trampoline for seniors provides a great way for older people
   to exercise. The mini trampoline helps to stimulate the metabolism, improve...
 slug: /best-mini-trampoline-for-seniors/
-date: '2025-08-10 00:00:00+00:00'
-lastmod: '2025-08-10 00:00:00+00:00'
+date: 2025-08-15T15:16:55+03:00
+lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac
 categories:
 - Guide

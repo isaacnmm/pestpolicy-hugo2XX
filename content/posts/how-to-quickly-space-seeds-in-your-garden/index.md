@@ -3,8 +3,8 @@ title: How to Quickly Space Seeds in Your Garden
 description: One of the most common pitfalls for new gardeners is sowing seeds too
   thickly. While it might seem like a good idea to sprinkle them generously to ensure...
 slug: /how-to-quickly-space-seeds-in-your-garden/
-date: '2025-08-10 00:00:00+00:00'
-lastmod: '2025-08-10 00:00:00+00:00'
+date: 2025-08-15T15:16:55+03:00
+lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac
 categories:
 - Gardening

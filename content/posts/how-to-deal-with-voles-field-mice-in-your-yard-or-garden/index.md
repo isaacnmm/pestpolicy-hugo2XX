@@ -3,8 +3,8 @@ title: How to Deal With Voles Field Mice in Your Yard or Garden
 description: Few things are as frustrating for a gardener or homeowner as discovering
   inexplicable damage to plants, trees, or lawn, only to realize the culprits are...
 slug: /how-to-deal-with-voles-field-mice-in-your-yard-or-garden/
-date: '2025-08-10 00:00:00+00:00'
-lastmod: '2025-08-10 00:00:00+00:00'
+date: 2025-08-15T15:16:55+03:00
+lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac
 categories:
 - Pest Control

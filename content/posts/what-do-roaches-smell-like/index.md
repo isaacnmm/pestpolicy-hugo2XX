@@ -4,8 +4,8 @@ description: So, what do roaches smell like? Roaches are one of the most annoyin
   pests you can find in your house. However, sometimes you might be anxious about
   what type...
 slug: /what-do-roaches-smell-like/
-date: '2025-08-10 00:00:00+00:00'
-lastmod: '2025-08-10 00:00:00+00:00'
+date: 2025-08-15T15:16:55+03:00
+lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac
 categories:
 - Guide

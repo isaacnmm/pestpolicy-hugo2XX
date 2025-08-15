@@ -2,8 +2,8 @@
 title: "Is Professional Pest Control Safe for Babies and Pets?"
 description: "A crucial question for parents and pet owners. A pest control expert explains modern safety protocols, low-impact products, and the right questions to ask your technician."
 slug: /is-professional-pest-control-safe-for-babies-and-pets/
-date: '2025-08-15 00-00-00+00-00'
-lastmod: '2025-08-15 00-00-00+00-00'
+date: 2025-08-15T15:16:55+03:00
+lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac
 categories:
 - Home Maintenance

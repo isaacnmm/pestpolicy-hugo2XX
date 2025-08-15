@@ -3,8 +3,8 @@ title: Help for Fertilizer Burn in Lawn
 description: Fertilizer is a vital component of a healthy, vibrant lawn, providing
   essential nutrients that promote lush growth, rich color, and strong root systems.
 slug: /help-for-fertilizer-burn-in-lawn/
-date: '2025-08-10 00:00:00+00:00'
-lastmod: '2025-08-10 00:00:00+00:00'
+date: 2025-08-15T15:16:55+03:00
+lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac
 categories:
 - Lawn Care

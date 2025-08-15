@@ -2,8 +2,8 @@
 title: "How to Get Rid of Ants in a Potted Plant"
 description: "Found ants in your houseplant? A pro explains why they're there and the field-tested, plant-safe method to eliminate the colony without harming your plant."
 slug: /how-to-get-rid-of-ants-in-a-potted-plant/
-date: '2025-08-15 00-00-00+00-00'
-lastmod: '2025-08-15 00-00-00+00-00'
+date: 2025-08-15T15:16:55+03:00
+lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac
 categories:
 - Ants

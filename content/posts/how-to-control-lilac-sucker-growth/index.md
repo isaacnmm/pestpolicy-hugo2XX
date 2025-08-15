@@ -4,8 +4,8 @@ description: Lilacs Syringa spp. are beloved for their intoxicatingly fragrant, 
   blossoms that herald the arrival of spring. These classic shrubs or small trees
   are a...
 slug: /how-to-control-lilac-sucker-growth/
-date: '2025-08-10 00:00:00+00:00'
-lastmod: '2025-08-10 00:00:00+00:00'
+date: 2025-08-15T15:16:55+03:00
+lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac
 categories:
 - Guides

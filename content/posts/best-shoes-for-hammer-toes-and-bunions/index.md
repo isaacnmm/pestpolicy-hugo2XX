@@ -4,8 +4,8 @@ description: Best Shoes for Hammer Toes and Bunions should provide a spacious an
   accommodating fit that aids in reducing strain and pressure on painful Hammertoes
   and...
 slug: /best-shoes-for-hammer-toes-and-bunions/
-date: '2025-08-10 00:00:00+00:00'
-lastmod: '2025-08-10 00:00:00+00:00'
+date: 2025-08-15T15:16:55+03:00
+lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac
 categories:
 - walking Shoes

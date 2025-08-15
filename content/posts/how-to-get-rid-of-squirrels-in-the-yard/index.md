@@ -3,8 +3,8 @@ title: How to Get Rid Of Squirrels in the Yard
 description: Below I've outlined h ow to get rid of squirrels in the yard. Are you
   tired from squirrels and want to get rid of them? We will help you with this.
 slug: /how-to-get-rid-of-squirrels-in-the-yard/
-date: '2025-08-10 00:00:00+00:00'
-lastmod: '2025-08-10 00:00:00+00:00'
+date: 2025-08-15T15:16:55+03:00
+lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac
 categories:
 - Guide

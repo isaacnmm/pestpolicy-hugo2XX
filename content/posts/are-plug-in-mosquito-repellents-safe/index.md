@@ -3,8 +3,8 @@ title: Are Plug in Mosquito Repellents Safe
 description: Mosquito repellent plugins are the most reliable way of keeping mosquitoes
   at bay. But are they safe for us? I have done a comprehensive research on this...
 slug: /are-plug-in-mosquito-repellents-safe/
-date: '2025-08-10 00:00:00+00:00'
-lastmod: '2025-08-10 00:00:00+00:00'
+date: 2025-08-15T15:16:55+03:00
+lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac
 categories:
 - Guide

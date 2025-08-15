@@ -3,8 +3,8 @@ title: How to Kill Cockroach Eggs
 description: How to kill cockroach eggs? Cockroaches are common pests in apartment
   buildings and our homes
 slug: /how-to-kill-cockroach-eggs/
-date: '2025-08-10 00:00:00+00:00'
-lastmod: '2025-08-10 00:00:00+00:00'
+date: 2025-08-15T15:16:55+03:00
+lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac
 categories:
 - Cockroaches

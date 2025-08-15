@@ -3,8 +3,8 @@ title: Why You Need Full Time Gutter Protection
 description: Imagine a steady stream of water cascading from your roof during a rainstorm,
   not into your gutters, but directly over them.
 slug: /why-you-need-full-time-gutter-protection/
-date: '2025-08-10 00:00:00+00:00'
-lastmod: '2025-08-10 00:00:00+00:00'
+date: 2025-08-15T15:16:55+03:00
+lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac
 categories:
 - Gutters

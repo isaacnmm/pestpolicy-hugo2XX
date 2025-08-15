@@ -3,8 +3,8 @@ title: Steam Controller Review
 description: Steam has released both the Steam Link and the Steam Controller . The
   Steam Link helps you in gaming on the TV through a gaming rig.
 slug: /steam-controller-review/
-date: '2025-08-10 00:00:00+00:00'
-lastmod: '2025-08-10 00:00:00+00:00'
+date: 2025-08-15T15:16:55+03:00
+lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac
 categories:
 - Controllers

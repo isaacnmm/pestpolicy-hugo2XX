@@ -3,8 +3,8 @@ title: Can Cockroaches Fly
 description: Its no secret that most homeowners hate cockroaches. Surprisingly, an
   even larger percentage of the people report that they'd fear meeting flying roaches.
 slug: /can-cockroaches-fly/
-date: '2025-08-10 00:00:00+00:00'
-lastmod: '2025-08-10 00:00:00+00:00'
+date: 2025-08-15T15:16:55+03:00
+lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac
 categories:
 - Cockroaches

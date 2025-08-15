@@ -4,8 +4,8 @@ description: A backyard pool is often the focal point of outdoor living, offerin
   a refreshing escape during hot summer days and a gathering spot for friends and
   family.
 slug: /5-pool-landscaping-ideas-on-a-budget/
-date: '2025-08-10 00:00:00+00:00'
-lastmod: '2025-08-10 00:00:00+00:00'
+date: 2025-08-15T15:16:55+03:00
+lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac
 categories:
 - Landscaping

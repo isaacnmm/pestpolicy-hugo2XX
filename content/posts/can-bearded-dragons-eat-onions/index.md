@@ -3,8 +3,8 @@ title: Can Bearded Dragons Eat Onions
 description: Do you own one of these smart bearded dragonhttpspestpolicy.comhow-smart-are-bearded-dragons
   or have you seen one at you field or zoo and even wonder what...
 slug: /can-bearded-dragons-eat-onions/
-date: '2025-08-10 00:00:00+00:00'
-lastmod: '2025-08-10 00:00:00+00:00'
+date: 2025-08-15T15:16:55+03:00
+lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac
 categories:
 - Guide

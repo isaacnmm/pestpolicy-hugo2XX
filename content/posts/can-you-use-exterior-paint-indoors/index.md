@@ -3,8 +3,8 @@ title: Can You Use Exterior Paint Indoors
 description: Could you be a homeowner or property developer looking forward to painting
   your place? So, do you pick any paint and apply it anywhere
 slug: /can-you-use-exterior-paint-indoors/
-date: '2025-08-10 00:00:00+00:00'
-lastmod: '2025-08-10 00:00:00+00:00'
+date: 2025-08-15T15:16:55+03:00
+lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac
 categories:
 - DIY Paintings

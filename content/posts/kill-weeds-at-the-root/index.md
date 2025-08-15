@@ -3,8 +3,8 @@ title: Kill Weeds at the Root
 description: Weeds are the bane of any gardener or homeowner striving for a pristine
   lawn or a thriving garden bed. These opportunistic plants seemingly appear out of...
 slug: /kill-weeds-at-the-root/
-date: '2025-08-10 00:00:00+00:00'
-lastmod: '2025-08-10 00:00:00+00:00'
+date: 2025-08-15T15:16:55+03:00
+lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac
 categories:
 - Gardening

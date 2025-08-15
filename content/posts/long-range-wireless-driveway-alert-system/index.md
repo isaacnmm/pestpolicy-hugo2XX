@@ -3,8 +3,8 @@ title: Long Range Wireless Driveway Alert System
 description: The long-range wireless driveway alert system alarm will help you detect
   any intruder that sets foot in your residence.
 slug: /long-range-wireless-driveway-alert-system/
-date: '2025-08-10 00:00:00+00:00'
-lastmod: '2025-08-10 00:00:00+00:00'
+date: 2025-08-15T15:16:55+03:00
+lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac
 categories:
 - Defense

@@ -3,8 +3,8 @@ title: Best Fogger for Bed Bugs
 description: Could you be looking for a method that would kill bed bugs without being
   engaged directly for the entire time? Then, the best fogger for bed bugs is a...
 slug: /best-fogger-for-bed-bugs/
-date: '2025-08-10 00:00:00+00:00'
-lastmod: '2025-08-10 00:00:00+00:00'
+date: 2025-08-15T15:16:55+03:00
+lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac
 categories:
 - Bed Bugs

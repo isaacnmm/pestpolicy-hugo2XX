@@ -3,8 +3,8 @@ title: Best Flea Carpet Powder
 description: If you have pets like cats or dogs, fleas are an inevitable problem.
   While treating your pets is essential, its not enough to fully eliminate fleas.
 slug: /best-flea-carpet-powder/
-date: '2025-08-10 00:00:00+00:00'
-lastmod: '2025-08-10 00:00:00+00:00'
+date: 2025-08-15T15:16:55+03:00
+lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac
 categories:
 - Fleas

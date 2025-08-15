@@ -2,8 +2,8 @@
 title: "How to Get Rid of Sugar Ants in Portland, Oregon Kitchens"
 description: "A pro's guide to getting rid of sugar ants in Portland kitchens. Learn why our damp climate makes them worse and the field-tested baiting strategy that actually works."
 slug: /how-to-get-rid-of-sugar-ants-in-portland-oregon-kitchens/
-date: '2025-08-15 00-00-00+00-00'
-lastmod: '2025-08-15 00-00-00+00-00'
+date: 2025-08-15T15:16:55+03:00
+lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac
 categories:
 - Ants

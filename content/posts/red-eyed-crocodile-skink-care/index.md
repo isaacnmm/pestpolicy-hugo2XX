@@ -3,8 +3,8 @@ title: Red Eyed Crocodile Skink Care
 description: There are many "expert" ideas on how to take care of your Red-Eyed Crocodile
   Skink
 slug: /red-eyed-crocodile-skink-care/
-date: '2025-08-10 00:00:00+00:00'
-lastmod: '2025-08-10 00:00:00+00:00'
+date: 2025-08-15T15:16:55+03:00
+lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac
 categories:
 - Guide

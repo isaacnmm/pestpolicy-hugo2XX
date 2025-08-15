@@ -3,8 +3,8 @@ title: Best Vinyl Gutter Guards
 description: Vinyl gutter guards offer an attractive, budget-friendly option for homeowners
   looking to protect their gutters without a significant upfront investment.
 slug: /best-vinyl-gutter-guards/
-date: '2025-08-10 00:00:00+00:00'
-lastmod: '2025-08-10 00:00:00+00:00'
+date: 2025-08-15T15:16:55+03:00
+lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac
 categories:
 - Gutters

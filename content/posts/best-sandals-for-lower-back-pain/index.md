@@ -3,8 +3,8 @@ title: Best Sandals for Lower Back Pain
 description: If youre suffering from lower back pain-for-lower-back-pain and looking
   for supportive yet stylish sandals, youre right on time.
 slug: /best-sandals-for-lower-back-pain/
-date: '2025-08-10 00:00:00+00:00'
-lastmod: '2025-08-10 00:00:00+00:00'
+date: 2025-08-15T15:16:55+03:00
+lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac
 categories:
 - walking Shoes

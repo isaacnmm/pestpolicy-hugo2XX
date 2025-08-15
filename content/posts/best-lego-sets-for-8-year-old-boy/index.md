@@ -3,8 +3,8 @@ title: Best Lego Sets for 8 Year Old Boy
 description: In this article, I will comprehensively review some of the Best Lego
   Sets for 8 Year Old Boy. A Lego set is a crucial play gadget that has numerous benefits...
 slug: /best-lego-sets-for-8-year-old-boy/
-date: '2025-08-10 00:00:00+00:00'
-lastmod: '2025-08-10 00:00:00+00:00'
+date: 2025-08-15T15:16:55+03:00
+lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac
 categories:
 - Guide

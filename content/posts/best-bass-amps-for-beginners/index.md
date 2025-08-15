@@ -3,8 +3,8 @@ title: Best Bass Amps for Beginners
 description: If you're starting off in music, choosing the best bass amps for beginners
   or small gigs would be a crucial step towards achieving top-quality sound. So,...
 slug: /best-bass-amps-for-beginners/
-date: '2025-08-10 00:00:00+00:00'
-lastmod: '2025-08-10 00:00:00+00:00'
+date: 2025-08-15T15:16:55+03:00
+lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac
 categories:
 - Product Reviews

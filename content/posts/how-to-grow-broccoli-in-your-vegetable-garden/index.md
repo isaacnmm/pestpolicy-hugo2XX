@@ -3,8 +3,8 @@ title: How to Grow Broccoli in Your Vegetable Garden
 description: Broccoli, with its distinctive tree-like florets, is a powerhouse of
   nutrition and a staple in many kitchens. Rich in vitamins C and K, fiber, and various...
 slug: /how-to-grow-broccoli-in-your-vegetable-garden/
-date: '2025-08-10 00:00:00+00:00'
-lastmod: '2025-08-10 00:00:00+00:00'
+date: 2025-08-15T15:16:55+03:00
+lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac
 categories:
 - Guides

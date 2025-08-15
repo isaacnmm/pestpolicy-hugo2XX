@@ -4,8 +4,8 @@ description: Bananas musa spp are widely eaten at homes in cooked form or as sna
   when ripe. It concerns many whether bearded dragons can feed on bananas, whether
   ripe...
 slug: /can-bearded-dragons-eat-bananas/
-date: '2025-08-10 00:00:00+00:00'
-lastmod: '2025-08-10 00:00:00+00:00'
+date: 2025-08-15T15:16:55+03:00
+lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac
 categories:
 - Guide

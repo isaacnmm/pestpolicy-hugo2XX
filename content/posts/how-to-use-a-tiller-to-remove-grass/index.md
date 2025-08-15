@@ -4,8 +4,8 @@ description: Removing grass on your yard, lawn or garden can be fairly tiring, c
   and time consuming tasks. Hand tools will make your work backbreaking and arent
   as...
 slug: /how-to-use-a-tiller-to-remove-grass/
-date: '2025-08-10 00:00:00+00:00'
-lastmod: '2025-08-10 00:00:00+00:00'
+date: 2025-08-15T15:16:55+03:00
+lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac
 categories:
 - Tillers

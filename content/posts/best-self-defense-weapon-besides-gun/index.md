@@ -3,8 +3,8 @@ title: Best Self Defense Weapon Besides Gun
 description: Maybe you dont fancy guns, or they are illegal for the public in your
   state.However, you still need the best self-defense weapon besides guns.
 slug: /best-self-defense-weapon-besides-gun/
-date: '2025-08-10 00:00:00+00:00'
-lastmod: '2025-08-10 00:00:00+00:00'
+date: 2025-08-15T15:16:55+03:00
+lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac
 categories:
 - Defense

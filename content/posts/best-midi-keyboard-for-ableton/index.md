@@ -4,8 +4,8 @@ description: What's the best midi keyboard for Ableton? You can substitute a who
   production team with just .you, an Ableton Live MIDI controller, and your soundcards
   ...
 slug: /best-midi-keyboard-for-ableton/
-date: '2025-08-10 00:00:00+00:00'
-lastmod: '2025-08-10 00:00:00+00:00'
+date: 2025-08-15T15:16:55+03:00
+lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac
 categories:
 - Keyboard

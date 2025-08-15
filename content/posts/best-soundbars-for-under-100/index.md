@@ -3,8 +3,8 @@ title: Best Soundbars for Under 100
 description: If you're looking for a budget soundbar , here's a compilation of my
   best soundbars for under 100. You'll find the soundbars worth a lot as they'll provide...
 slug: /best-soundbars-for-under-100/
-date: '2025-08-10 00:00:00+00:00'
-lastmod: '2025-08-10 00:00:00+00:00'
+date: 2025-08-15T15:16:55+03:00
+lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac
 categories:
 - Soundbars

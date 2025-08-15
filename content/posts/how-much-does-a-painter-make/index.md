@@ -3,8 +3,8 @@ title: How Much Does a Painter Make
 description: If youre considering a career as a painter or are simply curious about
   how much painters earn, youve come to the right place.
 slug: /how-much-does-a-painter-make/
-date: '2025-08-10 00:00:00+00:00'
-lastmod: '2025-08-10 00:00:00+00:00'
+date: 2025-08-15T15:16:55+03:00
+lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac
 categories:
 - Guide

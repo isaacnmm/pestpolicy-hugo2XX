@@ -2,8 +2,8 @@
 title: "How to Make a Natural Wasp and Hornet Killer Spray"
 description: "A pro explains how to make a simple, natural wasp and hornet spray with soap and water. Learn why it works, how to use it safely, and its critical limitations."
 slug: /how-to-make-a-natural-wasp-and-hornet-killer-spray/
-date: '2025-08-15 00-00-00+00-00'
-lastmod: '2025-08-15 00-00-00+00-00'
+date: 2025-08-15T15:16:55+03:00
+lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac
 categories:
 - Wasps

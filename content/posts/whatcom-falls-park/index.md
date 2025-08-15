@@ -3,8 +3,8 @@ title: Whatcom Falls Park
 description: Discover Whatcom Falls Park Nestled in the heart of Bellingham, WA, Whatcom
   Falls Park offers a serene escape from the hustle and bustle of daily life.
 slug: /whatcom-falls-park/
-date: '2025-08-10 00:00:00+00:00'
-lastmod: '2025-08-10 00:00:00+00:00'
+date: 2025-08-15T15:16:55+03:00
+lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac
 categories:
 - Bellingham

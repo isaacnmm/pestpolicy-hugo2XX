@@ -3,8 +3,8 @@ title: Does Rubbing Alcohol Kill Bed Bugs
 description: So, your home or premises has become infested with bed bugs? Nobody wants
   toxic chemicals in their home. Before calling in an exterminator , try some natural,...
 slug: /does-rubbing-alcohol-kill-bed-bugs/
-date: '2025-08-10 00:00:00+00:00'
-lastmod: '2025-08-10 00:00:00+00:00'
+date: 2025-08-15T15:16:55+03:00
+lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac
 categories:
 - Bed Bugs

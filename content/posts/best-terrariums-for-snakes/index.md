@@ -3,8 +3,8 @@ title: Best Terrariums for Snakes
 description: If you own a pet snake, then you must provide it with a safe and comfortable
   enclosure.
 slug: /best-terrariums-for-snakes/
-date: '2025-08-10 00:00:00+00:00'
-lastmod: '2025-08-10 00:00:00+00:00'
+date: 2025-08-15T15:16:55+03:00
+lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac
 categories:
 - Product Reviews

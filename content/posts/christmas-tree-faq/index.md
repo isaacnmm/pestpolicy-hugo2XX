@@ -3,8 +3,8 @@ title: Christmas Tree Faq
 description: The Christmas tree stands as the quintessential symbol of the holiday
   season for many, bringing warmth, cheer, and that unmistakable pine scent into homes...
 slug: /christmas-tree-faq/
-date: '2025-08-10 00:00:00+00:00'
-lastmod: '2025-08-10 00:00:00+00:00'
+date: 2025-08-15T15:16:55+03:00
+lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac
 categories:
 - Guides

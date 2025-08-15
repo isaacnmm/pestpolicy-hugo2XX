@@ -4,8 +4,8 @@ description: Whether youre a novice, a professional, or a budding DJ , it is har
   to achieve considerable performance without good headphones. Typically, DJ headphones
   are...
 slug: /best-dj-headphones/
-date: '2025-08-10 00:00:00+00:00'
-lastmod: '2025-08-10 00:00:00+00:00'
+date: 2025-08-15T15:16:55+03:00
+lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac
 categories:
 - Headphones

@@ -2,8 +2,8 @@
 title: How to Get Rid Of Fleas on Clothes and Bedding
 description: Fleas hiding in clothes and bedding cause disastrous effects
 slug: /how-to-get-rid-of-fleas-on-clothes-and-bedding/
-date: '2025-08-10 00:00:00+00:00'
-lastmod: '2025-08-10 00:00:00+00:00'
+date: 2025-08-15T15:16:55+03:00
+lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac
 categories:
 - Fleas

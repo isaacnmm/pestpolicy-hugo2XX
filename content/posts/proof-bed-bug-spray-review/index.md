@@ -4,8 +4,8 @@ description: Well, Proof qualified to our list of best bed bug sprays. But how g
   is it? The manufacturer claims that Proof will effectively kill all the bed bugs,
   their...
 slug: /proof-bed-bug-spray-review/
-date: '2025-08-10 00:00:00+00:00'
-lastmod: '2025-08-10 00:00:00+00:00'
+date: 2025-08-15T15:16:55+03:00
+lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac
 categories:
 - Bed Bugs

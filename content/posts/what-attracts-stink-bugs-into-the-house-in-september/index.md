@@ -2,8 +2,8 @@
 title: "What Attracts Stink Bugs to Your House in September? (A Pro's Explanation)"
 description: "Discover why your house is suddenly covered in stink bugs in the fall. An expert explains the key attractants and a pro-level plan to stop them from getting inside."
 slug: /what-attracts-stink-bugs-into-the-house-in-september/
-date: '2025-08-15 00-00-00+00-00'
-lastmod: '2025-08-15 00-00-00+00-00'
+date: 2025-08-15T15:16:55+03:00
+lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac
 categories:
 - Stink Bugs

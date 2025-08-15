@@ -3,8 +3,8 @@ title: Best Flea Trap
 description: While sprays and treatments are essential for tackling a full-blown infestation,
   one of the most powerful tools in your long-term arsenal is a simple, plug-in...
 slug: /best-flea-trap/
-date: '2025-08-10 00:00:00+00:00'
-lastmod: '2025-08-10 00:00:00+00:00'
+date: 2025-08-15T15:16:55+03:00
+lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac
 categories:
 - Fleas

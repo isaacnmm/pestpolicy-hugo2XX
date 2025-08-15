@@ -3,8 +3,8 @@ title: Guide to Different Tree Shapes for Your Yard
 description: Trees are the backbone of any well-designed landscape, providing shade,
   privacy, beauty, and ecological benefits. While we often focus on factors like flower...
 slug: /guide-to-different-tree-shapes-for-your-yard/
-date: '2025-08-10 00:00:00+00:00'
-lastmod: '2025-08-10 00:00:00+00:00'
+date: 2025-08-15T15:16:55+03:00
+lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac
 categories:
 - Guides

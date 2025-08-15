@@ -4,8 +4,8 @@ description: Cleaning the bathtub is often cited as one of the least favorite ho
   chores. The awkward bending, scrubbing, and rinsing of slippery surfaces can be
   a...
 slug: /a-shower-wand-made-to-clean-your-tub/
-date: '2025-08-10 00:00:00+00:00'
-lastmod: '2025-08-10 00:00:00+00:00'
+date: 2025-08-15T15:16:55+03:00
+lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac
 categories:
 - Home Improvement

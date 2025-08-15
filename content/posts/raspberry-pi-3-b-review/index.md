@@ -3,8 +3,8 @@ title: Raspberry Pi 3 B Review
 description: There is so much fun in DIY Raspberry Pi projects, such as security cameras
   and digital weather stations.
 slug: /raspberry-pi-3-b-review/
-date: '2025-08-10 00:00:00+00:00'
-lastmod: '2025-08-10 00:00:00+00:00'
+date: 2025-08-15T15:16:55+03:00
+lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac
 categories:
 - Raspberry Pi 3

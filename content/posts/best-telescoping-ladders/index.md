@@ -3,8 +3,8 @@ title: Best Telescoping Ladders
 description: If you are looking for an alternative to heavy and cumbersome ladders
   that lag you behind, our comprehensive guide caters to all your needs. A telescopic...
 slug: /best-telescoping-ladders/
-date: '2025-08-10 00:00:00+00:00'
-lastmod: '2025-08-10 00:00:00+00:00'
+date: 2025-08-15T15:16:55+03:00
+lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac
 categories:
 - Sprayers

@@ -3,8 +3,8 @@ title: Best Drought Tolerant Lawn Grass for Sandy Soil
 description: Sandy soil presents a unique challenge for lawn enthusiasts. While its
   excellent drainage might seem beneficial, it also means that water and vital nutrients...
 slug: /best-drought-tolerant-lawn-grass-for-sandy-soil/
-date: '2025-08-10 00:00:00+00:00'
-lastmod: '2025-08-10 00:00:00+00:00'
+date: 2025-08-15T15:16:55+03:00
+lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac
 categories:
 - Lawn Care

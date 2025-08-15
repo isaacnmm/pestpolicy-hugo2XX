@@ -4,8 +4,8 @@ description: Bed bugs are notoriously elusive pests that are most active at nigh
   when they feed on their hosts. However, they don't just hide at nightthey also spend
   a...
 slug: /how-to-find-bed-bugs-during-the-day/
-date: '2025-08-10 00:00:00+00:00'
-lastmod: '2025-08-10 00:00:00+00:00'
+date: 2025-08-15T15:16:55+03:00
+lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac
 categories:
 - Guide

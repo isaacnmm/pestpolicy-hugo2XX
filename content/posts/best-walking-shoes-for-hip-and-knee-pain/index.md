@@ -3,8 +3,8 @@ title: Best Walking Shoes for Hip and Knee Pain
 description: The Best Walking Shoes for Hip and Knee Pain offer stability and cushioning
   to minimize the impact of each step you make while walking.
 slug: /best-walking-shoes-for-hip-and-knee-pain/
-date: '2025-08-10 00:00:00+00:00'
-lastmod: '2025-08-10 00:00:00+00:00'
+date: 2025-08-15T15:16:55+03:00
+lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac
 categories:
 - Running shoes

@@ -3,8 +3,8 @@ title: How to Kill Fleas on Dogs Naturally Safe and Fast
 description: Natural flea control methods will not leave dangerous chemical residues
   on your dogs fur. But, I know you might have used flea control chemicals such as...
 slug: /how-to-kill-fleas-on-dogs-naturally-safe-and-fast/
-date: '2025-08-10 00:00:00+00:00'
-lastmod: '2025-08-10 00:00:00+00:00'
+date: 2025-08-15T15:16:55+03:00
+lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac
 categories:
 - Fleas

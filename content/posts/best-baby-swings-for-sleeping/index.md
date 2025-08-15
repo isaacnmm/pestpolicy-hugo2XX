@@ -3,8 +3,8 @@ title: Best Baby Swings for Sleeping
 description: If you want to soothe your baby to sleep quickly, get the Best Baby Swings
   for Sleeping. The swings provide perfect distraction and entertainment for babies...
 slug: /best-baby-swings-for-sleeping/
-date: '2025-08-10 00:00:00+00:00'
-lastmod: '2025-08-10 00:00:00+00:00'
+date: 2025-08-15T15:16:55+03:00
+lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac
 categories:
 - Swing Sets

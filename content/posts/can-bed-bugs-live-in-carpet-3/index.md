@@ -4,8 +4,8 @@ description: Bed bugs! Their name is quite deceiving.Mainly, youll find these pe
   living in beds and suck human blood-eat . But, can bed bugs live in carpet? The
   simple...
 slug: /can-bed-bugs-live-in-carpet-3/
-date: '2025-08-10 00:00:00+00:00'
-lastmod: '2025-08-10 00:00:00+00:00'
+date: 2025-08-15T15:16:55+03:00
+lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac
 categories:
 - Bed Bugs

@@ -3,8 +3,8 @@ title: How to Paint Concrete
 description: Having an impressive concrete outlook is the dream of every homeowner.
   However, achieving an excellent paint finish is usually faced with several challenges,...
 slug: /how-to-paint-concrete/
-date: '2025-08-10 00:00:00+00:00'
-lastmod: '2025-08-10 00:00:00+00:00'
+date: 2025-08-15T15:16:55+03:00
+lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac
 categories:
 - DIY Paintings

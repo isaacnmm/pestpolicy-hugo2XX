@@ -2,8 +2,8 @@
 title: "Getting Rid of Cluster Flies on Windows in Late Summer"
 description: "Why are your windows covered in sluggish flies? A pro explains what cluster flies are, why they invade in late summer, and the only effective way to deal with them."
 slug: /getting-rid-of-cluster-flies-on-windows-in-late-summer/
-date: '2025-08-15 00-00-00+00-00'
-lastmod: '2025-08-15 00-00-00+00-00'
+date: 2025-08-15T15:16:55+03:00
+lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac
 categories:
 - Flies

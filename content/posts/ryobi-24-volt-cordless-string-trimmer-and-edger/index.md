@@ -3,8 +3,8 @@ title: Ryobi 24 Volt Cordless String Trimmer and Edger
 description: In the evolving world of lawn care, cordless tools have revolutionized
   the way we maintain our yards, offering unparalleled convenience, quieter operation,...
 slug: /ryobi-24-volt-cordless-string-trimmer-and-edger/
-date: '2025-08-10 00:00:00+00:00'
-lastmod: '2025-08-10 00:00:00+00:00'
+date: 2025-08-15T15:16:55+03:00
+lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac
 categories:
 - Lawn Care

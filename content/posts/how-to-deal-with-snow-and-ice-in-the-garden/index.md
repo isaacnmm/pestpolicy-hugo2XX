@@ -3,8 +3,8 @@ title: How to Deal With Snow and Ice in the Garden
 description: For gardeners in regions accustomed to the chill of winter, snow and
   ice are inevitable visitors, often blanketing the landscape in a serene, white hush.
 slug: /how-to-deal-with-snow-and-ice-in-the-garden/
-date: '2025-08-10 00:00:00+00:00'
-lastmod: '2025-08-10 00:00:00+00:00'
+date: 2025-08-15T15:16:55+03:00
+lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac
 categories:
 - Winter Gardening

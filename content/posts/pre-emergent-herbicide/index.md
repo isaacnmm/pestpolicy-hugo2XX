@@ -3,8 +3,8 @@ title: Pre Emergent Herbicide
 description: A pristine, weed-free lawn is the envy of many homeowners. While post-emergent
   herbicides tackle weeds that have already sprouted, the truly proactive...
 slug: /pre-emergent-herbicide/
-date: '2025-08-10 00:00:00+00:00'
-lastmod: '2025-08-10 00:00:00+00:00'
+date: 2025-08-15T15:16:55+03:00
+lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac
 categories:
 - Lawn Care

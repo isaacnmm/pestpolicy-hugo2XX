@@ -2,8 +2,8 @@
 title: "How to Get Rid of Palmetto Bugs in Florida Apartments"
 description: "A pro's guide for Florida apartment dwellers on getting rid of Palmetto Bugs (American Cockroaches). Learn why they come inside and the critical steps for control."
 slug: /how-to-get-rid-of-palmetto-bugs-in-florida-apartments/
-date: '2025-08-15 00-00-00+00-00'
-lastmod: '2025-08-15 00-00-00+00-00'
+date: 2025-08-15T15:16:55+03:00
+lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac
 categories:
 - Cockroaches

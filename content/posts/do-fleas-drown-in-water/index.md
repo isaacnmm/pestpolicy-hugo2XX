@@ -4,8 +4,8 @@ description: Do you have fleas in your home, or on pets like cats and dogs, and 
   been trying to kill them by drowning? Well, fleas flourish in dusty conditions but
   is...
 slug: /do-fleas-drown-in-water/
-date: '2025-08-10 00:00:00+00:00'
-lastmod: '2025-08-10 00:00:00+00:00'
+date: 2025-08-15T15:16:55+03:00
+lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac
 categories:
 - Fleas

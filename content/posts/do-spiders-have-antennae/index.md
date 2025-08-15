@@ -3,8 +3,8 @@ title: Do Spiders Have Antennae
 description: Spiders are fascinating creatures, often mistaken for insects due to
   their small size and presence in many of the same environments.
 slug: /do-spiders-have-antennae/
-date: '2025-08-10 00:00:00+00:00'
-lastmod: '2025-08-10 00:00:00+00:00'
+date: 2025-08-15T15:16:55+03:00
+lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac
 categories:
 - Guide

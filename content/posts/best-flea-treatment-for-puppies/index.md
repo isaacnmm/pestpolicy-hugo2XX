@@ -3,8 +3,8 @@ title: Best Flea Treatment for Puppies
 description: Flea Treatment is vital for your puppies healthy life. Flea may cause
   skin allergies, typhus, or even transmit parasites such as tapeworms.
 slug: /best-flea-treatment-for-puppies/
-date: '2025-08-10 00:00:00+00:00'
-lastmod: '2025-08-10 00:00:00+00:00'
+date: 2025-08-15T15:16:55+03:00
+lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac
 categories:
 - Fleas

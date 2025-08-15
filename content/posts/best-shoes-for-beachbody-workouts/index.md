@@ -4,8 +4,8 @@ description: Beachbody Workouts may include high-intensity workouts like insanit
   dance, PIYO , intense cardio workouts, and P90X3 among many other workout routines.
   -...
 slug: /best-shoes-for-beachbody-workouts/
-date: '2025-08-10 00:00:00+00:00'
-lastmod: '2025-08-10 00:00:00+00:00'
+date: 2025-08-15T15:16:55+03:00
+lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac
 categories:
 - HIIT Shoes

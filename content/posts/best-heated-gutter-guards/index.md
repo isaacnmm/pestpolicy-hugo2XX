@@ -3,8 +3,8 @@ title: Best Heated Gutter Guards
 description: For homeowners in colder climates, gutter guards solve half the problem
   keeping debris out. The other half, however, is often more destructive and dangerous...
 slug: /best-heated-gutter-guards/
-date: '2025-08-10 00:00:00+00:00'
-lastmod: '2025-08-10 00:00:00+00:00'
+date: 2025-08-15T15:16:55+03:00
+lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac
 categories:
 - Gutters

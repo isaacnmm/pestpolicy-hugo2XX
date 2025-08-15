@@ -4,8 +4,8 @@ description: Painting plastic material could be one of the most cumbersome tasks
   especially when wrong paint selection and improper procedures are undertaken.Usually,
   the...
 slug: /how-to-paint-plastic/
-date: '2025-08-10 00:00:00+00:00'
-lastmod: '2025-08-10 00:00:00+00:00'
+date: 2025-08-15T15:16:55+03:00
+lastmod: 2025-08-15T15:16:55+03:00
 author: Isaac
 categories:
 - Paint
