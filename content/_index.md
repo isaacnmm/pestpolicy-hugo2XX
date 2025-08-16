@@ -1,13 +1,9 @@
 ---
-title: "Welcome to Pest Policy" # This title might or might not be displayed depending on theme settings
-# You can add other front matter here, like a specific layout, if needed
+title: "Welcome to Pest Policy"
+description: "Your guide to achieving great homes: pest-free, well-painted, and advice on running/walking shoes."
+slug: "home"
+date: 2025-08-16T00:00:00+03:00
+lastmod: 2025-08-16T00:00:00+03:00
+author: "Isaac"
+layout: "home" # Optional, if your theme uses a custom homepage layout
 ---
-
-## Welcome to Pest Policy!
-
-Your guide to achieving Great Homes - including pest-free, well-painted and also talking about running or walking shoes. 
-
-Visit the [Product Reviews](/categories/product-reviews/) or check out the [DIY Guides](/categories/guide/).
-- Pest Control solutions
-- Paint Sprayers 
-- Walking and Running shoes

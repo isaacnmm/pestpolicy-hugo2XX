@@ -1,0 +1,1 @@
+hugo mod init github.com/isaacnmm/pestpolicy-hugo2XX
