@@ -1,10 +1,13 @@
 ﻿---
 title: "Contact Us"
-date: '2025-07-10T00:00:00+00:00'
+date: 2025-07-10T00:00:00+00:00
+lastmod: 2025-08-16T00:00:00+03:00
+author: "Isaac"
 layout: "single"
 url: "/contact/"
 outputs:
   - HTML
+description: "Reach out to Pest Policy with your questions, feedback, or inquiries. Connect via email, phone, or our contact form."
 ---
 
 We'd love to hear from you! Please use the form below to send us your questions, feedback, or anything else.
@@ -42,3 +45,14 @@ If you prefer, you can also reach us directly:
 * **Email:** <a href="mailto:isaacnmm@gmail.com">isaacnmm@gmail.com</a>
 * **Phone:** +1 912-54-7642
 * **Address:** Federal Way
+
+<!-- Structured Data: ContactPage -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ContactPage",
+  "url": "{{ .Permalink }}",
+  "name": "{{ .Title }}",
+  "description": "{{ .Description }}"
+}
+</script>
