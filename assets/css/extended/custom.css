@@ -100,3 +100,15 @@
         font-size: 1em; /* Reduced for mobile H4s (matching body font size) */
     }
 }
+
+/* --- Ensure Bold Text (strong tag) is actually bold --- */
+/* Add this block to your custom.css file */
+strong {
+    font-weight: bold;
+}
+
+/* If the above isn't enough, you might need to be more specific,
+   but start with the simple 'strong' selector first. */
+.post-content strong {
+    font-weight: bold;
+}
