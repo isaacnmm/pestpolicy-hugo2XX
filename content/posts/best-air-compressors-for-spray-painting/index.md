@@ -19,7 +19,7 @@ After you are done getting a good paint sprayer, you need to consider a good air
 
 Depending on your project and the sprayer, getting a multi-purpose compressor will be the most appropriate. Basing on the horsepower and the minimum gallon compressor, for a small project the lowest you can get is a 30-gallon compressor. See Also: Walk-Behind Grinder.
 
-##  **s: 7Best Air Compressors for Spray Paintingin 2025**
+##  **s: 7Best Air Compressors for Spray Paintingin 2026**
 
 ###  [1. DEWALT (DWFP55126) Pancake Air Compressor](https://www.amazon.com/dp/B00K34UZBW/?tag=p-policy-20)
 

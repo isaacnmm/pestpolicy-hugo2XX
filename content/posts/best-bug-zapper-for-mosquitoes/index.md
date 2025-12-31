@@ -20,7 +20,7 @@ Are you looking for the best bug zapper for [mosquitoes](https://pestpolicy.com/
 
 These bugs, either in the house or yard, might spread disease, including malaria to you, your family members, or pets. However, the use of repellent may, at times, be irritating or could fail to keep off the mosquito and other insects. So, below I've reviewed the [best](https://pestpolicy.com/best-mosquito-repellent-for-yard/)bug zapper that you can use against for mosquitoes in the house, garden, or lawn.
 
-##  **Reviews: 7 Best Bug Zapper for Mosquitoes in 2025**
+##  **Reviews: 7 Best Bug Zapper for Mosquitoes in 2026**
 
 ###  **1. Flowtron BK-40D Electronic Mosquito Killer - #1 Pick**
 

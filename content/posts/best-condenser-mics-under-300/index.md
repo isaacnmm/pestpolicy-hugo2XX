@@ -23,7 +23,7 @@ pdf) are wired with on-board electronics to ensure excellent output levels.
 
 They also have a capsule design which enables them to capture more information. Related: 7 Best Earbuds Under $50
 
-##  **Reviews: 7 Best Condenser Mics under $300 in 2025 **
+##  **Reviews: 7 Best Condenser Mics under $300 in 2026 **
 
 ###  **1. SE Electronics sE2200a II C Large Diaphragm - #1 Pick**
 

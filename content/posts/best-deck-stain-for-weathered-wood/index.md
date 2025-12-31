@@ -19,7 +19,7 @@ Whats the best deck stain for weathered wood? Well, the best remedy for old and 
 
 A good stain will restore your weathered wood all year round - including indoor furniture, fence posts, decks, or patio furniture. But solid stains (even staining swing sets ) tend to last longer (over three years). So, give your timber a new stain look and protect it from damage by UV rays, mold, and mildew.
 
-##  **s: Top 7 Best Deck Stain for Weathered Wood in 2025 **
+##  **s: Top 7 Best Deck Stain for Weathered Wood in 2026 **
 
 ###  **1. SaverSystems Premium Deck Stain - #1 Stain Pick**
 
