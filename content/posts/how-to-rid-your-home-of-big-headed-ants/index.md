@@ -3,8 +3,8 @@ title: How to Rid Your Home Of Big Headed Ants
 description: The Bigheaded Ants sceientifically Pheidole megacephala  is classified
   as one of the top 100 "World's dangerous"invaders including in businesses and homes....
 slug: how-to-rid-your-home-of-big-headed-ants
-date: 2025-08-15T15:16:55+03:00
-lastmod: 2025-08-15T15:16:55+03:00
+date: 2025-12-30T15:16:55+03:00
+lastmod: 2025-12-30T15:16:55+03:00
 author: Isaac
 categories:
 - Ants

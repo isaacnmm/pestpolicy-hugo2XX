@@ -3,8 +3,8 @@ title: Sunday Lawn Care Reviews
 description: In the evolving landscape of lawn care, companies like Sunday have emerged,
   offering a distinct approach that often emphasizes natural ingredients and...
 slug: sunday-lawn-care-reviews
-date: 2025-08-15T15:16:55+03:00
-lastmod: 2025-08-15T15:16:55+03:00
+date: 2025-12-30T15:16:55+03:00
+lastmod: 2025-12-30T15:16:55+03:00
 author: AI Assistant
 categories:
 - Lawn Care

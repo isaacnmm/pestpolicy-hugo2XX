@@ -3,8 +3,8 @@ title: 7 Best Paint Thinner for Oil Painting in 2026
 description: Have you had a difficult time choosing an oil thinner for your oil paints?
   We're going to talk about all your options
 slug: best-paint-thinner-for-oil-painting
-date: 2025-08-15T15:16:55+03:00
-lastmod: 2025-08-15T15:16:55+03:00
+date: 2025-12-30T15:16:55+03:00
+lastmod: 2025-12-30T15:16:55+03:00
 author: Isaac
 categories:
 - Paint

@@ -3,8 +3,8 @@ title: When to Apply Pre Emergent
 description: A lush, uniform, and weed-free lawn is the hallmark of a well-maintained
   property. However, the relentless march of weeds, especially pervasive annual...
 slug: when-to-apply-pre-emergent
-date: 2025-08-15T15:16:55+03:00
-lastmod: 2025-08-15T15:16:55+03:00
+date: 2025-12-30T15:16:55+03:00
+lastmod: 2025-12-30T15:16:55+03:00
 author: Isaac
 categories:
 - Lawn Care

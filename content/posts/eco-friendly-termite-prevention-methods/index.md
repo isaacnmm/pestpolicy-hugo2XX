@@ -2,8 +2,8 @@
 title: "Eco-Friendly Termite Prevention Methods"
 description: "A pro's guide to eco-friendly termite prevention. Learn the physical, non-chemical methods that are the first and most critical line of defense for protecting your home."
 slug: eco-friendly-termite-prevention-methods
-date: 2025-08-15T15:16:55+03:00
-lastmod: 2025-08-15T15:16:55+03:00
+date: 2025-12-30T15:16:55+03:00
+lastmod: 2025-12-30T15:16:55+03:00
 author: Isaac
 categories:
 - Termites

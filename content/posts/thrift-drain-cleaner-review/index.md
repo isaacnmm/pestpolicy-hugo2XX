@@ -3,8 +3,8 @@ title: Thrift Drain Cleaner Review
 description: Finding a decent drain cleaner is difficult. Most options on the market
   are far too expensive. And those that you can afford are often limited in the...
 slug: thrift-drain-cleaner-review
-date: 2025-08-15T15:16:55+03:00
-lastmod: 2025-08-15T15:16:55+03:00
+date: 2025-12-30T15:16:55+03:00
+lastmod: 2025-12-30T15:16:55+03:00
 author: Isaac
 categories:
 - Drains

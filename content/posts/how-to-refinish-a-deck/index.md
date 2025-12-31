@@ -3,8 +3,8 @@ title: How to Refinish a Deck
 description: If your deck is faded or bleached then, refinishing is urgently required
   to restore its initial beauty. On how to refinish a deck
 slug: how-to-refinish-a-deck
-date: 2025-08-15T15:16:55+03:00
-lastmod: 2025-08-15T15:16:55+03:00
+date: 2025-12-30T15:16:55+03:00
+lastmod: 2025-12-30T15:16:55+03:00
 author: Isaac
 categories:
 - DIY Paintings

@@ -3,8 +3,8 @@ title: 7 Best Shoes for Supination and Plantar Fasciitis in 2026
 description: Are you looking for The Best Shoes for Supination and Plantar Fasciitis?
   If your answer is yes, weve got you covered. People with Supination and Plantar...
 slug: best-shoes-for-supination-and-plantar-fasciitis
-date: 2025-08-15T15:16:55+03:00
-lastmod: 2025-08-15T15:16:55+03:00
+date: 2025-12-30T15:16:55+03:00
+lastmod: 2025-12-30T15:16:55+03:00
 author: Isaac
 categories:
 - walking Shoes

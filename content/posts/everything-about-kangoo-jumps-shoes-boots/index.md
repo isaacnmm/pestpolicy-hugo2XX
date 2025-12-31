@@ -4,8 +4,8 @@ description: The best Kangoo Jumps shoes are ideal for those interested in fitne
   regardless of their age. If you want to shed excess weight, maintain a healthy body,
   or...
 slug: everything-about-kangoo-jumps-shoes-boots
-date: 2025-08-15T15:16:55+03:00
-lastmod: 2025-08-15T15:16:55+03:00
+date: 2025-12-30T15:16:55+03:00
+lastmod: 2025-12-30T15:16:55+03:00
 author: Isaac
 categories:
 - Running shoes

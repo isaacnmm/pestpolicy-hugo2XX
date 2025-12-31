@@ -3,8 +3,8 @@ title: 7 Best Spider Spray for Yard in 2026
 description: Spiders play a valuable role in controlling other pests, but when they
   overpopulate your yard
 slug: best-spider-spray-for-yard
-date: 2025-08-15T15:16:55+03:00
-lastmod: 2025-08-15T15:16:55+03:00
+date: 2025-12-30T15:16:55+03:00
+lastmod: 2025-12-30T15:16:55+03:00
 author: Isaac
 categories:
 - Product Reviews

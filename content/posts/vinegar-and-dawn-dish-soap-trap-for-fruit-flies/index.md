@@ -2,8 +2,8 @@
 title: "Vinegar and Dawn Dish Soap Trap for Fruit Flies: A Pro's Guide"
 description: "Does the viral vinegar and dish soap trap for fruit flies actually work? A pest control expert explains the science and provides a field-tested recipe for success."
 slug: vinegar-and-dawn-dish-soap-trap-for-fruit-flies-a-pros-guide
-date: 2025-08-15T15:16:55+03:00
-lastmod: 2025-08-15T15:16:55+03:00
+date: 2025-12-30T15:16:55+03:00
+lastmod: 2025-12-30T15:16:55+03:00
 author: Isaac
 categories:
 - Fruit Flies

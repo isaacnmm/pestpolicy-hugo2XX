@@ -3,8 +3,8 @@ title: What is a Gutter Apron
 description: What Is a Gutter Apron? Understanding This Essential Roof Component When
   considering roof and gutter systems, terms like "drip edge," "fascia," and "gutter"...
 slug: what-is-a-gutter-apron
-date: 2025-08-15T15:16:55+03:00
-lastmod: 2025-08-15T15:16:55+03:00
+date: 2025-12-30T15:16:55+03:00
+lastmod: 2025-12-30T15:16:55+03:00
 author: Isaac
 categories:
 - Gutters

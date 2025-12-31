@@ -3,8 +3,8 @@ title: 7 Best Snake Repellent for Yard in 2026
 description: It is hard to live in an area with plentiful of snakes. Other than being
   dangerous, snakes might carry parasites such as tapeworms, salmonella, and...
 slug: best-snake-repellent-for-yard
-date: 2025-08-15T15:16:55+03:00
-lastmod: 2025-08-15T15:16:55+03:00
+date: 2025-12-30T15:16:55+03:00
+lastmod: 2025-12-30T15:16:55+03:00
 author: Isaac
 categories:
 - Product Reviews

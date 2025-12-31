@@ -3,8 +3,8 @@ title: Does Rubbing Alcohol Kill Fleas
 description: Having fleas around your home can be a real menace. They like to bite
   and cause itchiness on pets and humans. Does rubbing alcohol kill fleas?
 slug: does-rubbing-alcohol-kill-fleas
-date: 2025-08-15T15:16:55+03:00
-lastmod: 2025-08-15T15:16:55+03:00
+date: 2025-12-30T15:16:55+03:00
+lastmod: 2025-12-30T15:16:55+03:00
 author: Isaac
 categories:
 - Fleas

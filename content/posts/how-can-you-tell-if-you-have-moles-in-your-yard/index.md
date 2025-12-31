@@ -4,8 +4,8 @@ description: Maybe in your yard, you spotted a mouse or a rat, or its a mole but
   can tell the difference. How can you tell if you have moles in your yard? Well,
   here...
 slug: how-can-you-tell-if-you-have-moles-in-your-yard
-date: 2025-08-15T15:16:55+03:00
-lastmod: 2025-08-15T15:16:55+03:00
+date: 2025-12-30T15:16:55+03:00
+lastmod: 2025-12-30T15:16:55+03:00
 author: Isaac
 categories:
 - Guide

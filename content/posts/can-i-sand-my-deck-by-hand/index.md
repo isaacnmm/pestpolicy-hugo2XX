@@ -3,8 +3,8 @@ title: Can I Sand My Deck by Hand
 description: If you're a homeowner with a deck in need of refinishinghttpspestpolicy.comhow-to-refinish-a-deck
   , you might be wondering whether it's possible to sand it by...
 slug: can-i-sand-my-deck-by-hand
-date: 2025-08-15T15:16:55+03:00
-lastmod: 2025-08-15T15:16:55+03:00
+date: 2025-12-30T15:16:55+03:00
+lastmod: 2025-12-30T15:16:55+03:00
 author: Isaac
 categories:
 - DIY Paintings

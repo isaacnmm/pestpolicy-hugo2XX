@@ -3,8 +3,8 @@ title: 7 Best Painters Tape for Textured Walls in 2026
 description: To paint like a pro, you need a painter's tape especially if you want
   to create a boundary between two differently painted surfaces. There are many painters...
 slug: best-painters-tape-for-textured-walls
-date: 2025-08-15T15:16:55+03:00
-lastmod: 2025-08-15T15:16:55+03:00
+date: 2025-12-30T15:16:55+03:00
+lastmod: 2025-12-30T15:16:55+03:00
 author: Isaac
 categories:
 - Paint

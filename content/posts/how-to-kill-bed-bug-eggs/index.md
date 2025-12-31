@@ -4,8 +4,8 @@ description: Bed bugs eggs are oval in shape and measure about 116 inches long. 
   female bed bug lays about 200-250 eggs. The eggs hatch in 6-10 days, and the nymphs
   suck...
 slug: how-to-kill-bed-bug-eggs
-date: 2025-08-15T15:16:55+03:00
-lastmod: 2025-08-15T15:16:55+03:00
+date: 2025-12-30T15:16:55+03:00
+lastmod: 2025-12-30T15:16:55+03:00
 author: Isaac
 categories:
 - Bed Bugs

@@ -4,8 +4,8 @@ description: The desire for an immediate, lush, green lawn often leads homeowner
   to consider sod. Unlike patiently waiting for grass seed to germinate and grow,
   sod...
 slug: sod-near-me
-date: 2025-08-15T15:16:55+03:00
-lastmod: 2025-08-15T15:16:55+03:00
+date: 2025-12-30T15:16:55+03:00
+lastmod: 2025-12-30T15:16:55+03:00
 author: Isaac
 categories:
 - Lawn Care

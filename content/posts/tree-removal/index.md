@@ -3,8 +3,8 @@ title: Tree Removal
 description: While trees are invaluable assets to our landscapes, providing shade,
   beauty, and environmental benefits, there comes a time when removing a tree becomes...
 slug: tree-removal
-date: 2025-08-15T15:16:55+03:00
-lastmod: 2025-08-15T15:16:55+03:00
+date: 2025-12-30T15:16:55+03:00
+lastmod: 2025-12-30T15:16:55+03:00
 author: Isaac
 categories:
 - Guides

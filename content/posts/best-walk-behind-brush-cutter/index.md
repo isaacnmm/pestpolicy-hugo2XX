@@ -3,8 +3,8 @@ title: 7 Best Walk Behind Brush Cutter in 2026
 description: Maybe you need some professional mowing or cut grass thats over 6 tall
   in your large outdoor space, farm, garden?
 slug: best-walk-behind-brush-cutter
-date: 2025-08-15T15:16:55+03:00
-lastmod: 2025-08-15T15:16:55+03:00
+date: 2025-12-30T15:16:55+03:00
+lastmod: 2025-12-30T15:16:55+03:00
 author: Isaac
 categories:
 - Cutters

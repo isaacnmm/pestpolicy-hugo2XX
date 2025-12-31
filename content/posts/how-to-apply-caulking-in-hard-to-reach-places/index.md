@@ -3,8 +3,8 @@ title: How to Apply Caulking in Hard to Reach Places
 description: Caulking is an indispensable skill for homeowners, essential for sealing
   gaps, preventing drafts, and protecting against moisture.
 slug: how-to-apply-caulking-in-hard-to-reach-places
-date: 2025-08-15T15:16:55+03:00
-lastmod: 2025-08-15T15:16:55+03:00
+date: 2025-12-30T15:16:55+03:00
+lastmod: 2025-12-30T15:16:55+03:00
 author: Isaac
 categories:
 - Home Maintenance

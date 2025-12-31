@@ -3,8 +3,8 @@ title: How to Remove Dry Paint from Carpet
 description: You should match the carpet cleaning solvent with the type of stain under
   removal. Otherwise, you may end up destroying your carpet.
 slug: how-to-remove-dry-paint-from-carpet
-date: 2025-08-15T15:16:55+03:00
-lastmod: 2025-08-15T15:16:55+03:00
+date: 2025-12-30T15:16:55+03:00
+lastmod: 2025-12-30T15:16:55+03:00
 author: Isaac
 categories:
 - DIY Paintings

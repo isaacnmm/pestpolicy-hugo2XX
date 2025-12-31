@@ -2,8 +2,8 @@
 title: "Using Diatomaceous Earth for Fleas in Your Carpet"
 description: "Can you use diatomaceous earth (DE) for fleas in your carpet? An expert explains the right way to use it, the critical safety warnings, and why it often fails."
 slug: using-diatomaceous-earth-for-fleas-in-carpet
-date: 2025-08-15T15:16:55+03:00
-lastmod: 2025-08-15T15:16:55+03:00
+date: 2025-12-30T15:16:55+03:00
+lastmod: 2025-12-30T15:16:55+03:00
 author: Isaac
 categories:
 - Fleas

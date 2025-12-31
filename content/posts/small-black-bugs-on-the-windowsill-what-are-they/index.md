@@ -2,8 +2,8 @@
 title: "Small Black Bugs on the Windowsill: What Are They?"
 description: "Finding tiny black bugs on your windowsill? This expert guide helps you identify the most common culprits, from clover mites to booklice, and explains how to get rid of them."
 slug: small-black-bugs-on-the-windowsill-what-are-they
-date: 2025-08-15T15:16:55+03:00
-lastmod: 2025-08-15T15:16:55+03:00
+date: 2025-12-30T15:16:55+03:00
+lastmod: 2025-12-30T15:16:55+03:00
 author: Isaac
 categories:
 - Home Maintenance

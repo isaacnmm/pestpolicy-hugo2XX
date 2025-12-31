@@ -3,8 +3,8 @@ title: 7 Best Shoes for Stairmaster in 2026
 description: The Stairmaster is a great workout alternative especially if youre looking
   for a low-impact or high impact kind of exercise. Investing in the best shoes for...
 slug: best-shoes-for-stairmaster
-date: 2025-08-15T15:16:55+03:00
-lastmod: 2025-08-15T15:16:55+03:00
+date: 2025-12-30T15:16:55+03:00
+lastmod: 2025-12-30T15:16:55+03:00
 author: Isaac
 categories:
 - HIIT Shoes

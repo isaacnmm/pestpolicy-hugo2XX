@@ -3,8 +3,8 @@ title: Does Diatomaceous Earth Kill Bed Bugs
 description: Diatomaceous earth , commonly known as D. E, is a naturally occurring
   off-white soft, silicon-based sedimentary rock.It is composed of fossilized marine-based...
 slug: does-diatomaceous-earth-kill-bed-bugs
-date: 2025-08-15T15:16:55+03:00
-lastmod: 2025-08-15T15:16:55+03:00
+date: 2025-12-30T15:16:55+03:00
+lastmod: 2025-12-30T15:16:55+03:00
 author: Isaac
 categories:
 - Bed Bugs

@@ -3,8 +3,8 @@ title: Glacier Bays Everdean Vanity Brings Contemporary Flair
 description: When embarking on a bathroom renovation, selecting the right vanity is
   a pivotal decision. It's not just a place for your sink it's a central design element...
 slug: glacier-bays-everdean-vanity-brings-contemporary-flair
-date: 2025-08-15T15:16:55+03:00
-lastmod: 2025-08-15T15:16:55+03:00
+date: 2025-12-30T15:16:55+03:00
+lastmod: 2025-12-30T15:16:55+03:00
 author: Isaac
 categories:
 - Renovation

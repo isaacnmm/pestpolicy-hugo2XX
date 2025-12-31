@@ -4,8 +4,8 @@ description: Swing sets offer hours of extreme fun and enjoyment for kids of all
   However, they can also pose some serious risks to children if not well anchored.
   The...
 slug: best-way-to-anchor-a-swing-set
-date: 2025-08-15T15:16:55+03:00
-lastmod: 2025-08-15T15:16:55+03:00
+date: 2025-12-30T15:16:55+03:00
+lastmod: 2025-12-30T15:16:55+03:00
 author: Isaac
 categories:
 - Swing Sets

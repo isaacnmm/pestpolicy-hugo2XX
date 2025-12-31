@@ -3,8 +3,8 @@ title: 7 Best Noise Cancelling Headphones in 2026
 description: The best noise-canceling headphones should sufficiently block out the
   noise in your surroundings to allow you to listen to your favorite audiobook, podcast,...
 slug: best-noise-cancelling-headphones
-date: 2025-08-15T15:16:55+03:00
-lastmod: 2025-08-15T15:16:55+03:00
+date: 2025-12-30T15:16:55+03:00
+lastmod: 2025-12-30T15:16:55+03:00
 author: Isaac
 categories:
 - Headphones

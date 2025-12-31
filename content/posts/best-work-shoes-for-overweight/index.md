@@ -3,8 +3,8 @@ title: 7 Best Work Shoes for Overweight in 2026
 description: Selecting the best work shoes for overweight persons is a crucial step
   towards enjoying a comfortable walk or smooth physical activities. Often, overweight...
 slug: best-work-shoes-for-overweight
-date: 2025-08-15T15:16:55+03:00
-lastmod: 2025-08-15T15:16:55+03:00
+date: 2025-12-30T15:16:55+03:00
+lastmod: 2025-12-30T15:16:55+03:00
 author: Isaac
 categories:
 - Work Shoes

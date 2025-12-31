@@ -4,8 +4,8 @@ description: Are you searching for the best mole traps? We cover it all in this 
   But first, what damage have moles caused you? Or have you tried other strategies
   to...
 slug: best-mole-traps
-date: 2025-08-15T15:16:55+03:00
-lastmod: 2025-08-15T15:16:55+03:00
+date: 2025-12-30T15:16:55+03:00
+lastmod: 2025-12-30T15:16:55+03:00
 author: Isaac
 categories:
 - Moles

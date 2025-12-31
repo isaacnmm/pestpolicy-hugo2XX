@@ -3,8 +3,8 @@ title: How to Spread St Augustine Grass
 description: St. Augustine grass Stenotaphrum secundatum is a popular warm-season
   turfgrass known for its lush, blue-green color and thick, coarse blades.
 slug: how-to-spread-st-augustine-grass
-date: 2025-08-15T15:16:55+03:00
-lastmod: 2025-08-15T15:16:55+03:00
+date: 2025-12-30T15:16:55+03:00
+lastmod: 2025-12-30T15:16:55+03:00
 author: Isaac
 categories:
 - Lawn Care

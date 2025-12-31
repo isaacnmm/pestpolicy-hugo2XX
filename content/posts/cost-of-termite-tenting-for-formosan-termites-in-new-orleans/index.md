@@ -2,8 +2,8 @@
 title: "Cost of Termite Tenting for Formosan Termites in New Orleans"
 description: "A pro's guide to the cost of termite tenting in New Orleans. Learn the average price per square foot, the key factors that influence your quote, and why it's non-negotiable for Formosan termites."
 slug: cost-of-termite-tenting-for-formosan-termites-in-new-orleans
-date: 2025-08-15T15:16:55+03:00
-lastmod: 2025-08-15T15:16:55+03:00
+date: 2025-12-30T15:16:55+03:00
+lastmod: 2025-12-30T15:16:55+03:00
 author: Isaac
 categories:
 - Termites

@@ -3,8 +3,8 @@ title: Ways to Keep Gutters Clean Through Each Season
 description: Gutters are the unsung heroes of your home's exterior, tirelessly diverting
   thousands of gallons of rainwater and snowmelt away from your foundation, siding,...
 slug: ways-to-keep-gutters-clean-through-each-season
-date: 2025-08-15T15:16:55+03:00
-lastmod: 2025-08-15T15:16:55+03:00
+date: 2025-12-30T15:16:55+03:00
+lastmod: 2025-12-30T15:16:55+03:00
 author: Isaac
 categories:
 - Gutters

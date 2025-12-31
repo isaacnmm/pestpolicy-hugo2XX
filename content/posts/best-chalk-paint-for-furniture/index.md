@@ -3,8 +3,8 @@ title: 7 Best Chalk Paint for Furniture in 2026
 description: With the best chalk paint for furniture, it is easy to bring back the
   aesthetic value of your furniture. These chalk paints can be used on a previously...
 slug: best-chalk-paint-for-furniture
-date: 2025-08-15T15:16:55+03:00
-lastmod: 2025-08-15T15:16:55+03:00
+date: 2025-12-30T15:16:55+03:00
+lastmod: 2025-12-30T15:16:55+03:00
 author: Isaac
 categories:
 - Paint

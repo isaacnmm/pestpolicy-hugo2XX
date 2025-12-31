@@ -3,8 +3,8 @@ title: How to Clean a Paint Sprayer
 description: Choosing a paint sprayer for your DIY projects or home improvement activities
   guarantees you a better paint finish as compared to a paint bush.
 slug: how-to-clean-a-paint-sprayer
-date: 2025-08-15T15:16:55+03:00
-lastmod: 2025-08-15T15:16:55+03:00
+date: 2025-12-30T15:16:55+03:00
+lastmod: 2025-12-30T15:16:55+03:00
 author: Isaac
 categories:
 - DIY Paintings

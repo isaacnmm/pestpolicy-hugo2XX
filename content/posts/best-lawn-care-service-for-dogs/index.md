@@ -3,8 +3,8 @@ title: 7 Best Lawn Care Service for Dogs in 2026
 description: Maintaining a beautiful, healthy lawn can be a joy, but for dog owners,
   it comes with a unique set of considerations. The products used on your lawnfrom...
 slug: best-lawn-care-service-for-dogs
-date: 2025-08-15T15:16:55+03:00
-lastmod: 2025-08-15T15:16:55+03:00
+date: 2025-12-30T15:16:55+03:00
+lastmod: 2025-12-30T15:16:55+03:00
 author: Isaac
 categories:
 - Lawn Care

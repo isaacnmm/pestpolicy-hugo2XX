@@ -3,8 +3,8 @@ title: 10 Trees to Grow in Containers
 description: Dreaming of a tree in your garden but limited by space? Or perhaps you
   live in a colder climate but yearn for the lush beauty of a tropical specimen?
 slug: 10-trees-to-grow-in-containers
-date: 2025-08-15T15:16:55+03:00
-lastmod: 2025-08-15T15:16:55+03:00
+date: 2025-12-30T15:16:55+03:00
+lastmod: 2025-12-30T15:16:55+03:00
 author: Isaac
 categories:
 - Guides

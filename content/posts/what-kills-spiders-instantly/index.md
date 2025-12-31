@@ -4,8 +4,8 @@ description: This question of what kills spiders instantly is very tricky. Why k
   the spiders when a large number are harmless? Some eat mosquitoes and other bugs
   in our...
 slug: what-kills-spiders-instantly
-date: 2025-08-15T15:16:55+03:00
-lastmod: 2025-08-15T15:16:55+03:00
+date: 2025-12-30T15:16:55+03:00
+lastmod: 2025-12-30T15:16:55+03:00
 author: Isaac
 categories:
 - Guide

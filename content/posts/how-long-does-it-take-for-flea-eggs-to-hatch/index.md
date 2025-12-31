@@ -4,8 +4,8 @@ description: Flea eggs are one of the most important stages in the flea life cyc
   and understanding how long it takes for them to hatch can help you effectively manage
   a...
 slug: how-long-does-it-take-for-flea-eggs-to-hatch
-date: 2025-08-15T15:16:55+03:00
-lastmod: 2025-08-15T15:16:55+03:00
+date: 2025-12-30T15:16:55+03:00
+lastmod: 2025-12-30T15:16:55+03:00
 author: Isaac
 categories:
 - Guide

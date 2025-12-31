@@ -3,8 +3,8 @@ title: Chemlawn
 description: The name "ChemLawn" evokes a strong sense of nostalgia for many homeowners,
   synonymous with the early days of professional, widespread lawn care services.
 slug: chemlawn
-date: 2025-08-15T15:16:55+03:00
-lastmod: 2025-08-15T15:16:55+03:00
+date: 2025-12-30T15:16:55+03:00
+lastmod: 2025-12-30T15:16:55+03:00
 author: Isaac
 categories:
 - Lawn Care

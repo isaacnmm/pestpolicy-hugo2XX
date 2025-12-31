@@ -3,8 +3,8 @@ title: How to Make Old Paint Usable Again
 description: Are you still having those old paints stacked in your garage or store?
   Well, it's high time you visit your garage and rethink how those paint can be reused...
 slug: how-to-make-old-paint-usable-again
-date: 2025-08-15T15:16:55+03:00
-lastmod: 2025-08-15T15:16:55+03:00
+date: 2025-12-30T15:16:55+03:00
+lastmod: 2025-12-30T15:16:55+03:00
 author: Isaac
 categories:
 - DIY Paintings

@@ -3,8 +3,8 @@ title: How Do I Get Rid Of Fleas in My House Without Bombing
 description: The Pyrethrins in the flea spray kill the adult fleas targeting the fleas
   nervous system and thus kill or paralyze them
 slug: how-do-i-get-rid-of-fleas-in-my-house-without-bombing
-date: 2025-08-15T15:16:55+03:00
-lastmod: 2025-08-15T15:16:55+03:00
+date: 2025-12-30T15:16:55+03:00
+lastmod: 2025-12-30T15:16:55+03:00
 author: Isaac
 categories:
 - Fleas

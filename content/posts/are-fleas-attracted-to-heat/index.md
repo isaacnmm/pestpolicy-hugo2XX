@@ -3,8 +3,8 @@ title: Are Fleas Attracted to Heat
 description: As fleas search for food or flea dirt , they'll be attracted by different
   stimuli to know a fitting host
 slug: are-fleas-attracted-to-heat
-date: 2025-08-15T15:16:55+03:00
-lastmod: 2025-08-15T15:16:55+03:00
+date: 2025-12-30T15:16:55+03:00
+lastmod: 2025-12-30T15:16:55+03:00
 author: Isaac
 categories:
 - Guide

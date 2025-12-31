@@ -3,8 +3,8 @@ title: 7 Best Acrylic Paint for Wood in 2026
 description: Choosing the best acrylic paint for wood can make your DIY projects stand
   out with vibrant colors and a smooth finish. Acrylic paints are versatile,...
 slug: best-acrylic-paint-for-wood
-date: 2025-08-15T15:16:55+03:00
-lastmod: 2025-08-15T15:16:55+03:00
+date: 2025-12-30T15:16:55+03:00
+lastmod: 2025-12-30T15:16:55+03:00
 author: Isaac
 categories:
 - Guide

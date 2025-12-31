@@ -3,8 +3,8 @@ title: How to Paint a Metal Interior Door
 description: Have you ever considered painting your metal interior door freshly? Door
   painting is necessary as it will not only improve the overall service life but also...
 slug: how-to-paint-a-metal-interior-door
-date: 2025-08-15T15:16:55+03:00
-lastmod: 2025-08-15T15:16:55+03:00
+date: 2025-12-30T15:16:55+03:00
+lastmod: 2025-12-30T15:16:55+03:00
 author: Isaac
 categories:
 - Paint

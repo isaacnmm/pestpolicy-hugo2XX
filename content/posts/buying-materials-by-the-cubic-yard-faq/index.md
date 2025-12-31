@@ -3,8 +3,8 @@ title: Buying Materials by the Cubic Yard Faq
 description: Embarking on a landscaping project, whether it's building a new garden
   bed, laying a patio, or spreading fresh mulch, often involves purchasing bulk materials...
 slug: buying-materials-by-the-cubic-yard-faq
-date: 2025-08-15T15:16:55+03:00
-lastmod: 2025-08-15T15:16:55+03:00
+date: 2025-12-30T15:16:55+03:00
+lastmod: 2025-12-30T15:16:55+03:00
 author: Isaac
 categories:
 - Home Improvement

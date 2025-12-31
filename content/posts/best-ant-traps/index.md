@@ -3,8 +3,8 @@ title: 7 Best Ant Traps in 2026
 description: Besides being such a big nuisance, ants are incredibly destructive. Have
   you considered the best ant traps?
 slug: best-ant-traps
-date: 2025-08-15T15:16:55+03:00
-lastmod: 2025-08-15T15:16:55+03:00
+date: 2025-12-30T15:16:55+03:00
+lastmod: 2025-12-30T15:16:55+03:00
 author: Isaac
 categories:
 - Ants

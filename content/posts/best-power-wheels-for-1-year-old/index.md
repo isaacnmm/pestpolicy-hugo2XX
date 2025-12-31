@@ -3,8 +3,8 @@ title: 7 Best Power Wheels for 1 Year Old in 2026
 description: Are you looking for a perfect present for your 1-year-old child? Or are
   you looking to add to their toy collection? Whatever the reason, I recommend getting...
 slug: best-power-wheels-for-1-year-old
-date: 2025-08-15T15:16:55+03:00
-lastmod: 2025-08-15T15:16:55+03:00
+date: 2025-12-30T15:16:55+03:00
+lastmod: 2025-12-30T15:16:55+03:00
 author: Isaac
 categories:
 - Guide

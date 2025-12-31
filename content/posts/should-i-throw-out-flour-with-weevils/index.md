@@ -3,8 +3,8 @@ title: Should I Throw Out Flour With Weevils
 description: Flour weevils are common insects that attack cereals and flour. The breeding
   rate could be adverse if the matter is not corrected in time.
 slug: should-i-throw-out-flour-with-weevils
-date: 2025-08-15T15:16:55+03:00
-lastmod: 2025-08-15T15:16:55+03:00
+date: 2025-12-30T15:16:55+03:00
+lastmod: 2025-12-30T15:16:55+03:00
 author: Isaac
 categories:
 - Guide

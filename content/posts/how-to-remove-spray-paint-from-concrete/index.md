@@ -3,8 +3,8 @@ title: How to Remove Spray Paint from Concrete
 description: Cleaning spray paint from concrete may be cumbersome, especially if combined
   with other dried stains or contaminated materials.
 slug: how-to-remove-spray-paint-from-concrete
-date: 2025-08-15T15:16:55+03:00
-lastmod: 2025-08-15T15:16:55+03:00
+date: 2025-12-30T15:16:55+03:00
+lastmod: 2025-12-30T15:16:55+03:00
 author: Isaac
 categories:
 - DIY Paintings

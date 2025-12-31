@@ -4,8 +4,8 @@ description: To understand how long pantry bugs live, you have to first understa
   their life cycles. Different pantry bugs have a different life span and so is their
   life...
 slug: how-long-do-pantry-bugs-live
-date: 2025-08-15T15:16:55+03:00
-lastmod: 2025-08-15T15:16:55+03:00
+date: 2025-12-30T15:16:55+03:00
+lastmod: 2025-12-30T15:16:55+03:00
 author: Isaac
 categories:
 - Guide

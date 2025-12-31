@@ -3,8 +3,8 @@ title: How to Stain a Playset
 description: In this article I will discuss step by step process of How to Stain a
   Playset. If youve had your playset for more than a year its likely that youve noticed...
 slug: how-to-stain-a-playset
-date: 2025-08-15T15:16:55+03:00
-lastmod: 2025-08-15T15:16:55+03:00
+date: 2025-12-30T15:16:55+03:00
+lastmod: 2025-12-30T15:16:55+03:00
 author: Isaac
 categories:
 - Swing Sets

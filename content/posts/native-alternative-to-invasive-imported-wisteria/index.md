@@ -3,8 +3,8 @@ title: Native Alternative to Invasive Imported Wisteria
 description: The sight of wisteria in full bloom is undeniably breathtaking. Cascading
   clusters of fragrant purple, blue, or white flowers dripping from trellises and...
 slug: native-alternative-to-invasive-imported-wisteria
-date: 2025-08-15T15:16:55+03:00
-lastmod: 2025-08-15T15:16:55+03:00
+date: 2025-12-30T15:16:55+03:00
+lastmod: 2025-12-30T15:16:55+03:00
 author: Isaac
 categories:
 - Guides

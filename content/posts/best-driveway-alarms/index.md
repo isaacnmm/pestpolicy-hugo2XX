@@ -3,8 +3,8 @@ title: 7 Best Driveway Alarms in 2026
 description: With the advancement in technology, people are finding innovative ways
   to secure their homes and property efficiently, probably using the Best Driveway...
 slug: best-driveway-alarms
-date: 2025-08-15T15:16:55+03:00
-lastmod: 2025-08-15T15:16:55+03:00
+date: 2025-12-30T15:16:55+03:00
+lastmod: 2025-12-30T15:16:55+03:00
 author: Isaac
 categories:
 - Defense

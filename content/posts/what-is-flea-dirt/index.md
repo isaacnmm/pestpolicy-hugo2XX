@@ -3,8 +3,8 @@ title: What is Flea Dirt
 description: What is flea dirt?  Flea dirt flea poop or flea frass is the round black
   pepper or dandruff-looking specs made up of undigested and dried blood dropped by...
 slug: what-is-flea-dirt
-date: 2025-08-15T15:16:55+03:00
-lastmod: 2025-08-15T15:16:55+03:00
+date: 2025-12-30T15:16:55+03:00
+lastmod: 2025-12-30T15:16:55+03:00
 author: Isaac
 categories:
 - Fleas

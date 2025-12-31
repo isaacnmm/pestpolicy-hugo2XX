@@ -3,8 +3,8 @@ title: 7 Best Shoes for Boot Camp in 2026
 description: Today I present the Best Shoes for Boot Camp. Boot Camp training just
   like CrossFit incorporates various strenuous physical activities like HIIT, strength...
 slug: best-shoes-for-boot-camp
-date: 2025-08-15T15:16:55+03:00
-lastmod: 2025-08-15T15:16:55+03:00
+date: 2025-12-30T15:16:55+03:00
+lastmod: 2025-12-30T15:16:55+03:00
 author: Isaac
 categories:
 - HIIT Shoes

@@ -3,8 +3,8 @@ title: 7 Best Walk Behind Concrete Grinder in 2026
 description: Choosing the best walk behind a concrete grinder is essential as it helps
   you achieve a well-polished finish and saves time-just like with sprayer for walls...
 slug: best-walk-behind-concrete-grinder
-date: 2025-08-15T15:16:55+03:00
-lastmod: 2025-08-15T15:16:55+03:00
+date: 2025-12-30T15:16:55+03:00
+lastmod: 2025-12-30T15:16:55+03:00
 author: Isaac
 categories:
 - Pressure Washers

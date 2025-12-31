@@ -3,8 +3,8 @@ title: Is Wall Gecko Poisonous If Eaten
 description: Probably your home, yard, field, or zoo is full of wall geckos and you
   wonder whether these reptiles are a source of food.
 slug: is-wall-gecko-poisonous-if-eaten
-date: 2025-08-15T15:16:55+03:00
-lastmod: 2025-08-15T15:16:55+03:00
+date: 2025-12-30T15:16:55+03:00
+lastmod: 2025-12-30T15:16:55+03:00
 author: Isaac
 categories:
 - Guide

@@ -2,8 +2,8 @@
 title: Should You Caulk First or Paint First
 description: Many homeowners and DIY enthusiasts grapple with this question
 slug: should-you-caulk-first-or-paint-first
-date: 2025-08-15T15:16:55+03:00
-lastmod: 2025-08-15T15:16:55+03:00
+date: 2025-12-30T15:16:55+03:00
+lastmod: 2025-12-30T15:16:55+03:00
 author: Isaac
 categories:
 - DIY Paintings

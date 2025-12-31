@@ -3,8 +3,8 @@ title: When to Use a Cockroach Bomb
 description: Roaches will invade your building or home through various routes and
   then multiply rapidly. There are many methods you can use to control roaches
 slug: when-to-use-a-cockroach-bomb
-date: 2025-08-15T15:16:55+03:00
-lastmod: 2025-08-15T15:16:55+03:00
+date: 2025-12-30T15:16:55+03:00
+lastmod: 2025-12-30T15:16:55+03:00
 author: Isaac
 categories:
 - Cockroaches

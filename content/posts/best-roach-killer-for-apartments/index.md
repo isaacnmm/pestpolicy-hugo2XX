@@ -4,8 +4,8 @@ description: Roaches enjoy living in dark places that have water and food like t
   pantry, bathrooms, and kitchens this could be many places in your apartment or house.
   -...
 slug: best-roach-killer-for-apartments
-date: 2025-08-15T15:16:55+03:00
-lastmod: 2025-08-15T15:16:55+03:00
+date: 2025-12-30T15:16:55+03:00
+lastmod: 2025-12-30T15:16:55+03:00
 author: Isaac
 categories:
 - Cockroaches

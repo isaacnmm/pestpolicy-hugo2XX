@@ -2,8 +2,8 @@
 title: "Natural Mosquito Control for Summer Backyard Parties"
 description: "Planning a party? A pro's guide to the natural mosquito control methods that actually work. Learn the critical steps to take the week, day, and hour before your event."
 slug: natural-mosquito-control-for-summer-backyard-parties
-date: 2025-08-15T15:16:55+03:00
-lastmod: 2025-08-15T15:16:55+03:00
+date: 2025-12-30T15:16:55+03:00
+lastmod: 2025-12-30T15:16:55+03:00
 author: Isaac
 categories:
 - Mosquitoes

@@ -4,8 +4,8 @@ description: The best spray paints for plastic will entirely transform the look 
   feel of your plastic objects or household items. It'll easily revamp your house
   and...
 slug: best-spray-paints-for-plastic
-date: 2025-08-15T15:16:55+03:00
-lastmod: 2025-08-15T15:16:55+03:00
+date: 2025-12-30T15:16:55+03:00
+lastmod: 2025-12-30T15:16:55+03:00
 author: Isaac
 categories:
 - Paint

@@ -4,8 +4,8 @@ description: In this article, Ill teach you how to overclock your Raspberry pi 3
   the goal of improving its performance. Despite that overclocking mainly happen on
   the...
 slug: overclock-raspberry-pi-3
-date: 2025-08-15T15:16:55+03:00
-lastmod: 2025-08-15T15:16:55+03:00
+date: 2025-12-30T15:16:55+03:00
+lastmod: 2025-12-30T15:16:55+03:00
 author: Isaac
 categories:
 - Laptops

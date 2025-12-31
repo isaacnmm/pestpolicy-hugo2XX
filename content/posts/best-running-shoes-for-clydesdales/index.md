@@ -3,8 +3,8 @@ title: 7 Best Running Shoes for Clydesdales in 2026
 description: Today I present Best Running Shoes for Clydesdales. Overweight runners
   also are known as Clydesdales require supportive, well-cushioned, and comfortable...
 slug: best-running-shoes-for-clydesdales
-date: 2025-08-15T15:16:55+03:00
-lastmod: 2025-08-15T15:16:55+03:00
+date: 2025-12-30T15:16:55+03:00
+lastmod: 2025-12-30T15:16:55+03:00
 author: Isaac
 categories:
 - Running shoes

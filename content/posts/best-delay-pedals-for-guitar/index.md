@@ -4,8 +4,8 @@ description: What's the Best Delay Pedals for Guitar? Ever witnessed a hot debat
   among guitar players? Well, just make your opinion about the best delay pedal. Or
   make it...
 slug: best-delay-pedals-for-guitar
-date: 2025-08-15T15:16:55+03:00
-lastmod: 2025-08-15T15:16:55+03:00
+date: 2025-12-30T15:16:55+03:00
+lastmod: 2025-12-30T15:16:55+03:00
 author: Isaac
 categories:
 - Guitar

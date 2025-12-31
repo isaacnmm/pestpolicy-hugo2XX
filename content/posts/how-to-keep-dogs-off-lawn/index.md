@@ -3,8 +3,8 @@ title: How to Keep Dogs Off Lawn
 description: For many homeowners, a lush, green lawn is a point of pride, a beautiful
   backdrop for outdoor living. However, this verdant carpet can quickly become a...
 slug: how-to-keep-dogs-off-lawn
-date: 2025-08-15T15:16:55+03:00
-lastmod: 2025-08-15T15:16:55+03:00
+date: 2025-12-30T15:16:55+03:00
+lastmod: 2025-12-30T15:16:55+03:00
 author: Isaac
 categories:
 - Lawn Care

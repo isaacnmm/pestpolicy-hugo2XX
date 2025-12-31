@@ -3,8 +3,8 @@ title: Rain Chain a Stylish Alternative to Downspouts
 description: For centuries, downspouts have served a purely utilitarian purpose directing
   water from gutters away from a home's foundation.
 slug: rain-chain-a-stylish-alternative-to-downspouts
-date: 2025-08-15T15:16:55+03:00
-lastmod: 2025-08-15T15:16:55+03:00
+date: 2025-12-30T15:16:55+03:00
+lastmod: 2025-12-30T15:16:55+03:00
 author: Isaac
 categories:
 - Gutters

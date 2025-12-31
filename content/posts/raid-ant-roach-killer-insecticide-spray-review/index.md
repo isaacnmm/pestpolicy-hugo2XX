@@ -4,8 +4,8 @@ description: Next up is this Raid Ant & Roach Killer that will readily extermina
   roaches and other insects such as ants, just like the Harris Boric acid and other
   best...
 slug: raid-ant-roach-killer-insecticide-spray-review
-date: 2025-08-15T15:16:55+03:00
-lastmod: 2025-08-15T15:16:55+03:00
+date: 2025-12-30T15:16:55+03:00
+lastmod: 2025-12-30T15:16:55+03:00
 author: Isaac
 categories:
 - Cockroaches

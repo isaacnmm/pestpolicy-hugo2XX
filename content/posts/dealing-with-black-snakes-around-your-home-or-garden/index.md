@@ -3,8 +3,8 @@ title: Dealing With Black Snakes Around Your Home or Garden
 description: Encountering a snake, especially a long, dark one, can be an unnerving
   experience for many homeowners. While the immediate reaction might be fear, it's...
 slug: dealing-with-black-snakes-around-your-home-or-garden
-date: 2025-08-15T15:16:55+03:00
-lastmod: 2025-08-15T15:16:55+03:00
+date: 2025-12-30T15:16:55+03:00
+lastmod: 2025-12-30T15:16:55+03:00
 author: Isaac
 categories:
 - Guides

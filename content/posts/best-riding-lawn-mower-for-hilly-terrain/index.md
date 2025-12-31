@@ -3,8 +3,8 @@ title: 7 Best Riding Lawn Mower for Hilly Terrain in 2026
 description: In this post, I've reviewed the best riding lawn mower for hilly terrain.
   You can now ditch your walk-behind mowers as you might be unwilling or are...
 slug: best-riding-lawn-mower-for-hilly-terrain
-date: 2025-08-15T15:16:55+03:00
-lastmod: 2025-08-15T15:16:55+03:00
+date: 2025-12-30T15:16:55+03:00
+lastmod: 2025-12-30T15:16:55+03:00
 author: Isaac
 categories:
 - Mowers

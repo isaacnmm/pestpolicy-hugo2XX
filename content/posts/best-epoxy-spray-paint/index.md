@@ -3,8 +3,8 @@ title: 7 Best Epoxy Spray Paint in 2026
 description: The Best Epoxy Spray Paint should be capable of extending the lifespan
   of your surfaces and leave them looking glossy. You can protect the fiberglass from...
 slug: best-epoxy-spray-paint
-date: 2025-08-15T15:16:55+03:00
-lastmod: 2025-08-15T15:16:55+03:00
+date: 2025-12-30T15:16:55+03:00
+lastmod: 2025-12-30T15:16:55+03:00
 author: Isaac
 categories:
 - Paint

@@ -3,8 +3,8 @@ title: 7 Best Antifouling Paint for Fiberglass in 2026
 description: Whats the best antifouling paint for fiberglass? Excellent care of fiberglass
   products can only be achieved by selecting the best antifouling paint for...
 slug: best-antifouling-paint-for-fiberglass
-date: 2025-08-15T15:16:55+03:00
-lastmod: 2025-08-15T15:16:55+03:00
+date: 2025-12-30T15:16:55+03:00
+lastmod: 2025-12-30T15:16:55+03:00
 author: Isaac
 categories:
 - Paint

@@ -3,8 +3,8 @@ title: 7 Best Flea Treatment for Kittens in 2026
 description: Your kitten's health is paramount. The flea-infested kittens may suffer
   from Bartonella, Anemia, Flea Allergy Dermatitis, or tapeworm.
 slug: best-flea-treatment-for-kittens
-date: 2025-08-15T15:16:55+03:00
-lastmod: 2025-08-15T15:16:55+03:00
+date: 2025-12-30T15:16:55+03:00
+lastmod: 2025-12-30T15:16:55+03:00
 author: Isaac
 categories:
 - Fleas

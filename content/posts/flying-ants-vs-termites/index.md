@@ -3,8 +3,8 @@ title: Flying Ants Vs Termites
 description: Both flying ants vs. termites can wreak havoc in our indoor and outdoor
   spaces. They appear as swarms of flying insects, especially at night. Their close...
 slug: flying-ants-vs-termites
-date: 2025-08-15T15:16:55+03:00
-lastmod: 2025-08-15T15:16:55+03:00
+date: 2025-12-30T15:16:55+03:00
+lastmod: 2025-12-30T15:16:55+03:00
 author: Isaac
 categories:
 - Ants

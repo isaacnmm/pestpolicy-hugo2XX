@@ -3,8 +3,8 @@ title: Can Cats Get Fleas in the Winter
 description: The drier regions of the Midwest and Southwest have a "flea season" in
   some months of the year. But in balmy states such as Florida, fleas are highly active...
 slug: can-cats-get-fleas-in-the-winter
-date: 2025-08-15T15:16:55+03:00
-lastmod: 2025-08-15T15:16:55+03:00
+date: 2025-12-30T15:16:55+03:00
+lastmod: 2025-12-30T15:16:55+03:00
 author: Isaac
 categories:
 - Fleas

@@ -2,8 +2,8 @@
 title: "Homemade Spray to Kill Cockroaches Instantly"
 description: "Need to kill a cockroach right now? A pro explains the simple homemade spray that works on contact and, more importantly, why it's not a real solution for an infestation."
 slug: homemade-spray-to-kill-cockroaches-instantly
-date: 2025-08-15T15:16:55+03:00
-lastmod: 2025-08-15T15:16:55+03:00
+date: 2025-12-30T15:16:55+03:00
+lastmod: 2025-12-30T15:16:55+03:00
 author: Isaac
 categories:
 - Cockroaches

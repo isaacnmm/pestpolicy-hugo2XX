@@ -3,8 +3,8 @@ title: How to Remove Rust Using Electrolysis
 description: Rust, the common enemy of all ferrous metals, can quickly degrade the
   appearance and structural integrity of tools, automotive parts, and various metal...
 slug: how-to-remove-rust-using-electrolysis
-date: 2025-08-15T15:16:55+03:00
-lastmod: 2025-08-15T15:16:55+03:00
+date: 2025-12-30T15:16:55+03:00
+lastmod: 2025-12-30T15:16:55+03:00
 author: Isaac
 categories:
 - DIY

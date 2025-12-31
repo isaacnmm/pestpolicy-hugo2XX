@@ -3,8 +3,8 @@ title: 7 Best Lawn Care Fertilizer Service in 2026
 description: A lush, vibrant green lawn is often the centerpiece of a beautiful home,
   and proper fertilization is the cornerstone of achieving it.
 slug: best-lawn-care-fertilizer-service
-date: 2025-08-15T15:16:55+03:00
-lastmod: 2025-08-15T15:16:55+03:00
+date: 2025-12-30T15:16:55+03:00
+lastmod: 2025-12-30T15:16:55+03:00
 author: Isaac
 categories:
 - Lawn Care

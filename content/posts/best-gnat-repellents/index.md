@@ -2,8 +2,8 @@
 title: 7 Best Gnat Repellents in 2026
 description: Summer brings warm weather, outdoor adventures
 slug: best-gnat-repellents
-date: 2025-08-15T15:16:55+03:00
-lastmod: 2025-08-15T15:16:55+03:00
+date: 2025-12-30T15:16:55+03:00
+lastmod: 2025-12-30T15:16:55+03:00
 author: Isaac
 categories:
 - Gnats

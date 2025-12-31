@@ -3,8 +3,8 @@ title: 7 Best Non Slip Shoes for Standing All Day in 2026
 description: If your job involves standing all day, you need to invest in comfortable,
   high-quality, and non-slip footwear. Thus, in this article, well review Best...
 slug: best-non-slip-shoes-for-standing-all-day
-date: 2025-08-15T15:16:55+03:00
-lastmod: 2025-08-15T15:16:55+03:00
+date: 2025-12-30T15:16:55+03:00
+lastmod: 2025-12-30T15:16:55+03:00
 author: Isaac
 categories:
 - Work Shoes

@@ -4,8 +4,8 @@ description: Painting is a crucial method to prevent corrosion and protect vario
   materials, especially metal surfaces. The application of paint creates a barrier
   that...
 slug: how-does-painting-prevent-corrosion
-date: 2025-08-15T15:16:55+03:00
-lastmod: 2025-08-15T15:16:55+03:00
+date: 2025-12-30T15:16:55+03:00
+lastmod: 2025-12-30T15:16:55+03:00
 author: Isaac
 categories:
 - Guide

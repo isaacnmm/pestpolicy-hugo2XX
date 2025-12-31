@@ -3,8 +3,8 @@ title: How to Record a Song on Mac
 description: Below I outline how to record a song on mac for music productionhttpspestpolicy.combest-mac-for-music-production
   . Recording music outside of a studio is much...
 slug: how-to-record-a-song-on-mac
-date: 2025-08-15T15:16:55+03:00
-lastmod: 2025-08-15T15:16:55+03:00
+date: 2025-12-30T15:16:55+03:00
+lastmod: 2025-12-30T15:16:55+03:00
 author: Isaac
 categories:
 - Laptops

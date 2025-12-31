@@ -3,8 +3,8 @@ title: 7 Best Paint for Metal Garage Door in 2026
 description: Garage doors tend to take a beating, particularly after prolonged use
   and given their location and the heavy equipment that passes through them. The best...
 slug: best-paint-for-metal-garage-door
-date: 2025-08-15T15:16:55+03:00
-lastmod: 2025-08-15T15:16:55+03:00
+date: 2025-12-30T15:16:55+03:00
+lastmod: 2025-12-30T15:16:55+03:00
 author: Isaac
 categories:
 - Paint

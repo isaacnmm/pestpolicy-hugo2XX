@@ -4,8 +4,8 @@ description: You should know that many problems you experience with your raspber
   pi 3-specs-benchmarks are mainly due to using underpowered and low-quality supplies.
   -...
 slug: best-power-supply-raspberry-pi-3
-date: 2025-08-15T15:16:55+03:00
-lastmod: 2025-08-15T15:16:55+03:00
+date: 2025-12-30T15:16:55+03:00
+lastmod: 2025-12-30T15:16:55+03:00
 author: Isaac
 categories:
 - Raspberry Pi 3

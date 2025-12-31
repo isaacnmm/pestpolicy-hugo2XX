@@ -3,8 +3,8 @@ title: How to Unclog a Shower Drain Full Of Hair
 description: I am sitting here in Suzies house, and she is complaining about her slow
   draining shower. Suzie happens to have long hair, and indeed, the hair gets loose,...
 slug: how-to-unclog-a-shower-drain-full-of-hair
-date: 2025-08-15T15:16:55+03:00
-lastmod: 2025-08-15T15:16:55+03:00
+date: 2025-12-30T15:16:55+03:00
+lastmod: 2025-12-30T15:16:55+03:00
 author: Isaac
 categories:
 - Drains

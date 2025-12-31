@@ -3,8 +3,8 @@ title: 7 Best Controller for Steam Link in 2026
 description: Your Steam Link will you to seamless stream or mirroring of any steamcontent
   from a steam Machine or PC to a TV set.
 slug: best-controller-for-steam-link
-date: 2025-08-15T15:16:55+03:00
-lastmod: 2025-08-15T15:16:55+03:00
+date: 2025-12-30T15:16:55+03:00
+lastmod: 2025-12-30T15:16:55+03:00
 author: Isaac
 categories:
 - Controllers

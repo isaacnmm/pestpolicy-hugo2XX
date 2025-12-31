@@ -3,8 +3,8 @@ title: Growing Edible Chrysanthemums
 description: When you hear "chrysanthemum," your mind likely conjures images of vibrant,
   multi-petaled blooms adorning fall gardens or gracing floral arrangements.
 slug: growing-edible-chrysanthemums
-date: 2025-08-15T15:16:55+03:00
-lastmod: 2025-08-15T15:16:55+03:00
+date: 2025-12-30T15:16:55+03:00
+lastmod: 2025-12-30T15:16:55+03:00
 author: Isaac
 categories:
 - Guides

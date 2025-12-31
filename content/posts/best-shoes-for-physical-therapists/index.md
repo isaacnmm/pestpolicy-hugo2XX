@@ -3,8 +3,8 @@ title: 7 Best Shoes for Physical Therapists in 2026
 description: People in the medical profession are mostly on their feet for long hours
   and Physical Therapists are not any different. As a Physical Therapist, wearing...
 slug: best-shoes-for-physical-therapists
-date: 2025-08-15T15:16:55+03:00
-lastmod: 2025-08-15T15:16:55+03:00
+date: 2025-12-30T15:16:55+03:00
+lastmod: 2025-12-30T15:16:55+03:00
 author: Isaac
 categories:
 - Work Shoes

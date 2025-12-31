@@ -4,8 +4,8 @@ description: A lush, green lawn is often considered the hallmark of a well-maint
   home. However, the relentless invasion of weeds can quickly turn that vision into
   a...
 slug: best-lawn-weed-killer
-date: 2025-08-15T15:16:55+03:00
-lastmod: 2025-08-15T15:16:55+03:00
+date: 2025-12-30T15:16:55+03:00
+lastmod: 2025-12-30T15:16:55+03:00
 author: Isaac
 categories:
 - Lawn Care

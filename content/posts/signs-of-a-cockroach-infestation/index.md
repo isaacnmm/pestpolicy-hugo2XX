@@ -3,8 +3,8 @@ title: Signs Of a Cockroach Infestation
 description: Are you suspecting cockroaches in your househttpspestpolicy.comhow-to-get-rid-of-cockroaches-in-apartments
   ? One thing you need to know is that roaches are...
 slug: signs-of-a-cockroach-infestation
-date: 2025-08-15T15:16:55+03:00
-lastmod: 2025-08-15T15:16:55+03:00
+date: 2025-12-30T15:16:55+03:00
+lastmod: 2025-12-30T15:16:55+03:00
 author: Isaac
 categories:
 - Cockroaches

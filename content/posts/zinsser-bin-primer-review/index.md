@@ -3,8 +3,8 @@ title: Zinsser Bin Primer Review
 description: Zinsser BIN Primer is a high-performance shellac-based primer designed
   to seal stains, block odors, and provide excellent adhesion.
 slug: zinsser-bin-primer-review
-date: 2025-08-15T15:16:55+03:00
-lastmod: 2025-08-15T15:16:55+03:00
+date: 2025-12-30T15:16:55+03:00
+lastmod: 2025-12-30T15:16:55+03:00
 author: Isaac
 categories:
 - Guide

@@ -3,8 +3,8 @@ title: Ant Exterminator in Seattle
 description: Hey Seattle homeowners! Dealing with ant problems in the Emerald City?
   We know how those little critters can invade our homes and cause a real hassle.
 slug: ant-exterminator-in-seattle
-date: 2025-08-15T15:16:55+03:00
-lastmod: 2025-08-15T15:16:55+03:00
+date: 2025-12-30T15:16:55+03:00
+lastmod: 2025-12-30T15:16:55+03:00
 author: Isaac
 categories:
 - Ants

@@ -4,8 +4,8 @@ description: Let's be honest, the speakers built into your gorgeouss new TV are.
   well, they're terrible. The sound is often thin, flat, and the moment a movie has
   a...
 slug: 2-1-vs-5-1-soundbar
-date: 2025-08-15T15:16:55+03:00
-lastmod: 2025-08-15T15:16:55+03:00
+date: 2025-12-30T15:16:55+03:00
+lastmod: 2025-12-30T15:16:55+03:00
 author: Isaac
 categories:
 - Guide

@@ -2,8 +2,8 @@
 title: "Signs of a Yellow Jacket Nest in the Ground"
 description: "A buzzing lawn can be dangerous. A pest control expert explains the key signs of a yellow jacket ground nest, how to identify it, and the critical safety warnings you must follow."
 slug: signs-of-a-yellow-jacket-nest-in-the-ground
-date: 2025-08-15T15:16:55+03:00
-lastmod: 2025-08-15T15:16:55+03:00
+date: 2025-12-30T15:16:55+03:00
+lastmod: 2025-12-30T15:16:55+03:00
 author: Isaac
 categories:
 - Yellow Jackets

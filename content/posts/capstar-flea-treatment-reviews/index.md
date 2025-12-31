@@ -4,8 +4,8 @@ description: Capstar tablets are formulated to kill the various adult flea speci
   and they're meant for use on large dogs, cats, puppies, and kittens that are over
   2...
 slug: capstar-flea-treatment-reviews
-date: 2025-08-15T15:16:55+03:00
-lastmod: 2025-08-15T15:16:55+03:00
+date: 2025-12-30T15:16:55+03:00
+lastmod: 2025-12-30T15:16:55+03:00
 author: Isaac
 categories:
 - Fleas

@@ -3,8 +3,8 @@ title: How to Pick Wild Blackberries and Raspberries
 description: The thought of fresh, juicy wild berries conjures images of warm summer
   days, sunlight filtering through leaves, and the sweet tang of nature's bounty.
 slug: how-to-pick-wild-blackberries-and-raspberries
-date: 2025-08-15T15:16:55+03:00
-lastmod: 2025-08-15T15:16:55+03:00
+date: 2025-12-30T15:16:55+03:00
+lastmod: 2025-12-30T15:16:55+03:00
 author: Isaac
 categories:
 - Guides

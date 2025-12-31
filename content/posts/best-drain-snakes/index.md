@@ -3,8 +3,8 @@ title: 7 Best Drain Snakes in 2026
 description: To fix clogged drains, snakes also known as augers or plumber's snakes
   are a useful and budget-friendly tool. So, quit experimenting with acidic cleaners,...
 slug: best-drain-snakes
-date: 2025-08-15T15:16:55+03:00
-lastmod: 2025-08-15T15:16:55+03:00
+date: 2025-12-30T15:16:55+03:00
+lastmod: 2025-12-30T15:16:55+03:00
 author: Isaac
 categories:
 - Drains

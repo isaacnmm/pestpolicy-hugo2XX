@@ -3,8 +3,8 @@ title: Xionlab Safer Drain Opener Review
 description: In this comprehensive review, I delve into the capabilities of the XIONLAB
   Safer drain opener , a versatile cleaner renowned for its exceptional performance...
 slug: xionlab-safer-drain-opener-review
-date: 2025-08-15T15:16:55+03:00
-lastmod: 2025-08-15T15:16:55+03:00
+date: 2025-12-30T15:16:55+03:00
+lastmod: 2025-12-30T15:16:55+03:00
 author: Isaac
 categories:
 - Drains

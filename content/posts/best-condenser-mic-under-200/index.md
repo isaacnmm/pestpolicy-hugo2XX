@@ -3,8 +3,8 @@ title: 7 Best Condenser Mic Under 200 in 2026
 description: If you're on the hunt for a budget-friendly condenser microphone that
   delivers excellent sound quality, you're in the right place.
 slug: best-condenser-mic-under-200
-date: 2025-08-15T15:16:55+03:00
-lastmod: 2025-08-15T15:16:55+03:00
+date: 2025-12-30T15:16:55+03:00
+lastmod: 2025-12-30T15:16:55+03:00
 author: Isaac
 categories:
 - Guide

@@ -3,8 +3,8 @@ title: How to Remove Bed Bugs from Carpets
 description: Dealing with bed bugs in carpets can be a frustrating and challenging
   task, as these pests hide deep within fibers and along edges.
 slug: how-to-remove-bed-bugs-from-carpets
-date: 2025-08-15T15:16:55+03:00
-lastmod: 2025-08-15T15:16:55+03:00
+date: 2025-12-30T15:16:55+03:00
+lastmod: 2025-12-30T15:16:55+03:00
 author: Isaac
 categories:
 - Bed Bugs

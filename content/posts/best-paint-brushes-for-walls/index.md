@@ -4,8 +4,8 @@ description: Painting your walls with a brush-a-wall-with-a-brush requires a bus
   of good quality bristles, good handle, which saves you time and gives you value
   for your...
 slug: best-paint-brushes-for-walls
-date: 2025-08-15T15:16:55+03:00
-lastmod: 2025-08-15T15:16:55+03:00
+date: 2025-12-30T15:16:55+03:00
+lastmod: 2025-12-30T15:16:55+03:00
 author: Isaac
 categories:
 - Paint

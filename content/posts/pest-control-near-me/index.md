@@ -4,8 +4,8 @@ description: So if you're considering hiring a pest control companyhttpspestpoli
   near you to undertake various bug extermination tasks in your house, office, or
   yard...
 slug: pest-control-near-me
-date: 2025-08-15T15:16:55+03:00
-lastmod: 2025-08-15T15:16:55+03:00
+date: 2025-12-30T15:16:55+03:00
+lastmod: 2025-12-30T15:16:55+03:00
 author: Isaac
 categories:
 - Exterminators

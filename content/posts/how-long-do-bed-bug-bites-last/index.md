@@ -4,8 +4,8 @@ description: So, how long do bed bug bites last? If you thought mosquito bites a
   painful and irritating, then hopefully, you'll never get to experience the bites
   of a...
 slug: how-long-do-bed-bug-bites-last
-date: 2025-08-15T15:16:55+03:00
-lastmod: 2025-08-15T15:16:55+03:00
+date: 2025-12-30T15:16:55+03:00
+lastmod: 2025-12-30T15:16:55+03:00
 author: Isaac
 categories:
 - Bed Bugs

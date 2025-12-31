@@ -2,8 +2,8 @@
 title: "How to Deal with Roof Rats in Southern California Attics"
 description: "A pro's guide to dealing with roof rats in Southern California attics. Learn the key signs, why they're so common here, and the critical steps of trapping and exclusion."
 slug: how-to-deal-with-roof-rats-in-southern-california-attics
-date: 2025-08-15T15:16:55+03:00
-lastmod: 2025-08-15T15:16:55+03:00
+date: 2025-12-30T15:16:55+03:00
+lastmod: 2025-12-30T15:16:55+03:00
 author: Isaac
 categories:
 - Rodents

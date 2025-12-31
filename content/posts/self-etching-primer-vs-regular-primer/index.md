@@ -3,8 +3,8 @@ title: Self Etching Primer Vs Regular Primer
 description: When it comes to preparing metal surfaces for painting, choosing the
   right primer is crucial for achieving a smooth, long-lasting finish.
 slug: self-etching-primer-vs-regular-primer
-date: 2025-08-15T15:16:55+03:00
-lastmod: 2025-08-15T15:16:55+03:00
+date: 2025-12-30T15:16:55+03:00
+lastmod: 2025-12-30T15:16:55+03:00
 author: Isaac
 categories:
 - Guide

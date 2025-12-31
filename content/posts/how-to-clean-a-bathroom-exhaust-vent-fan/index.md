@@ -3,8 +3,8 @@ title: How to Clean a Bathroom Exhaust Vent Fan
 description: A clean bathroom exhaust fan is the unsung hero of your homequietly whisking
   away steam, odors, and moisture to prevent mold, mildew, and stale air.
 slug: how-to-clean-a-bathroom-exhaust-vent-fan
-date: 2025-08-15T15:16:55+03:00
-lastmod: 2025-08-15T15:16:55+03:00
+date: 2025-12-30T15:16:55+03:00
+lastmod: 2025-12-30T15:16:55+03:00
 author: Isaac
 categories:
 - Bathroom Repairs

@@ -3,8 +3,8 @@ title: 7 Best Running Shoes for Extensor Tendonitis in 2026
 description: If youre a runner and usually experience tendon inflammation on top of
   your foot , you need to invest in Best Running Shoes for Extensor Tendonitis. Extensor...
 slug: best-running-shoes-for-extensor-tendonitis
-date: 2025-08-15T15:16:55+03:00
-lastmod: 2025-08-15T15:16:55+03:00
+date: 2025-12-30T15:16:55+03:00
+lastmod: 2025-12-30T15:16:55+03:00
 author: Isaac
 categories:
 - Running shoes

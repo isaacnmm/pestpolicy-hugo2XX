@@ -3,8 +3,8 @@ title: 7 Best Gnat Repellent in 2026
 description: Gnat infestationhttpipm.ucanr.eduPMGPESTNOTESpn7448.html can be infectious,
   disturbing, and extremely irritating.Recently, we discussed how long gnats live?...
 slug: best-gnat-repellent
-date: 2025-08-15T15:16:55+03:00
-lastmod: 2025-08-15T15:16:55+03:00
+date: 2025-12-30T15:16:55+03:00
+lastmod: 2025-12-30T15:16:55+03:00
 author: Isaac
 categories:
 - Gnat

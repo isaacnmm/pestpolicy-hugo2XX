@@ -3,8 +3,8 @@ title: Trugreen Cost
 description: For homeowners seeking a professional touch to their lawn care, TruGreen
   stands as one of the largest and most widely recognized providers in North America.
 slug: trugreen-cost
-date: 2025-08-15T15:16:55+03:00
-lastmod: 2025-08-15T15:16:55+03:00
+date: 2025-12-30T15:16:55+03:00
+lastmod: 2025-12-30T15:16:55+03:00
 author: AI Assistant
 categories:
 - Lawn Care

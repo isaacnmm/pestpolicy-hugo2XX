@@ -2,8 +2,8 @@
 title: "What to Do About a Wasp Nest on Your Porch"
 description: "A direct, field-tested guide for safely handling a wasp nest on your porch. Learn how to identify the wasp, when to DIY, and when you must call a professional."
 slug: what-to-do-about-a-wasp-nest-on-your-porch-in-summer
-date: 2025-08-15T15:16:55+03:00
-lastmod: 2025-08-15T15:16:55+03:00
+date: 2025-12-30T15:16:55+03:00
+lastmod: 2025-12-30T15:16:55+03:00
 author: Isaac
 categories:
 - Wasps  

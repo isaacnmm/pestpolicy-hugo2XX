@@ -4,8 +4,8 @@ description: Does WD 40 work like a paint cleaner, a lubricant, or a degreaser? 
   effective is WD 40 when used in automobile service or with sprayer for latex paint
   ?...
 slug: does-wd-40-remove-paint
-date: 2025-08-15T15:16:55+03:00
-lastmod: 2025-08-15T15:16:55+03:00
+date: 2025-12-30T15:16:55+03:00
+lastmod: 2025-12-30T15:16:55+03:00
 author: Isaac
 categories:
 - DIY Paintings

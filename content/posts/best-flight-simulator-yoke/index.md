@@ -3,8 +3,8 @@ title: 7 Best Flight Simulator Yoke in 2026
 description: There has been increased innovation and upgrades in modern gaming devices
   such as the best flight simulator yoke, mainly aiming to achieve more realism in...
 slug: best-flight-simulator-yoke
-date: 2025-08-15T15:16:55+03:00
-lastmod: 2025-08-15T15:16:55+03:00
+date: 2025-12-30T15:16:55+03:00
+lastmod: 2025-12-30T15:16:55+03:00
 author: Isaac
 categories:
 - Controllers

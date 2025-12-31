@@ -3,8 +3,8 @@ title: How to Select the Right Tree for Your Yard
 description: Selecting the perfect tree for your yard is a long-term investment that
   can significantly enhance your property's beauty, provide shade, support local...
 slug: how-to-select-the-right-tree-for-your-yard
-date: 2025-08-15T15:16:55+03:00
-lastmod: 2025-08-15T15:16:55+03:00
+date: 2025-12-30T15:16:55+03:00
+lastmod: 2025-12-30T15:16:55+03:00
 author: Isaac
 categories:
 - Guide

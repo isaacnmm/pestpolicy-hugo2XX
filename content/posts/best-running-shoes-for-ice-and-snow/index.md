@@ -4,8 +4,8 @@ description: Running on ice and snow can be a bit challenging because of the sof
   slippery, and wet terrain. However, with the Best Running Shoes for Ice and Snow,
   winter...
 slug: best-running-shoes-for-ice-and-snow
-date: 2025-08-15T15:16:55+03:00
-lastmod: 2025-08-15T15:16:55+03:00
+date: 2025-12-30T15:16:55+03:00
+lastmod: 2025-12-30T15:16:55+03:00
 author: Isaac
 categories:
 - Running shoes

@@ -4,8 +4,8 @@ description: Cleaning and staining a deck can be a daunting task for many homeow
   but it doesn't have to be. With a little bit of know-how and the right tools, you
   can...
 slug: how-to-clean-a-deck-before-staining
-date: 2025-08-15T15:16:55+03:00
-lastmod: 2025-08-15T15:16:55+03:00
+date: 2025-12-30T15:16:55+03:00
+lastmod: 2025-12-30T15:16:55+03:00
 author: Isaac
 categories:
 - DIY Paintings

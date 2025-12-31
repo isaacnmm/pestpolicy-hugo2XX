@@ -4,8 +4,8 @@ description: How would you love a homemade fruit fly trap? At times, you may fin
   your compound or house, especially the kitchen, overtaken by a swarm of fruit flies.
   -...
 slug: homemade-fruit-fly-trap
-date: 2025-08-15T15:16:55+03:00
-lastmod: 2025-08-15T15:16:55+03:00
+date: 2025-12-30T15:16:55+03:00
+lastmod: 2025-12-30T15:16:55+03:00
 author: Isaac
 categories:
 - Flies

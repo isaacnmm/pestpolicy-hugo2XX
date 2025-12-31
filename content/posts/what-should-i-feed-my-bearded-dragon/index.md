@@ -3,8 +3,8 @@ title: What Should I Feed My Bearded Dragon
 description: So, what should I feed my bearded dragon? Well, bearded dragons are pets
   that are feed on several vegetables, fruits, and insects. So, feed the bearded...
 slug: what-should-i-feed-my-bearded-dragon
-date: 2025-08-15T15:16:55+03:00
-lastmod: 2025-08-15T15:16:55+03:00
+date: 2025-12-30T15:16:55+03:00
+lastmod: 2025-12-30T15:16:55+03:00
 author: Isaac
 categories:
 - Guide

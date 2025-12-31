@@ -3,8 +3,8 @@ title: 7 Best Indoor Flea Killer in 2026
 description: Its not only pet owners who have to deal with flea infestations. Each
   household is prone to flea attack, which means that even you might require the best...
 slug: best-indoor-flea-killer
-date: 2025-08-15T15:16:55+03:00
-lastmod: 2025-08-15T15:16:55+03:00
+date: 2025-12-30T15:16:55+03:00
+lastmod: 2025-12-30T15:16:55+03:00
 author: Isaac
 categories:
 - Fleas

@@ -3,8 +3,8 @@ title: Paver Patio Sitting Wall Make for a Backyard Paradise
 description: Transforming a backyard from a mere patch of grass into a functional
   and inviting outdoor living space is a dream for many homeowners.
 slug: paver-patio-sitting-wall-make-for-a-backyard-paradise
-date: 2025-08-15T15:16:55+03:00
-lastmod: 2025-08-15T15:16:55+03:00
+date: 2025-12-30T15:16:55+03:00
+lastmod: 2025-12-30T15:16:55+03:00
 author: Isaac
 categories:
 - Landscaping

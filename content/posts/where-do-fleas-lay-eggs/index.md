@@ -3,8 +3,8 @@ title: Where Do Fleas Lay Eggs
 description: As a home- and pet owner, flea infestations are a real nuisance to humans-live-on-humans
   , cats, and dogs
 slug: where-do-fleas-lay-eggs
-date: 2025-08-15T15:16:55+03:00
-lastmod: 2025-08-15T15:16:55+03:00
+date: 2025-12-30T15:16:55+03:00
+lastmod: 2025-12-30T15:16:55+03:00
 author: Isaac
 categories:
 - Fleas

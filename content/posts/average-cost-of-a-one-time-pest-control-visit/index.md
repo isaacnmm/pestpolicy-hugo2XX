@@ -2,8 +2,8 @@
 title: "Average Cost of a One-Time Pest Control Visit"
 description: "What does a one-time exterminator visit cost? A pro breaks down the national average price range, the factors that influence the final cost, and what the service includes."
 slug: average-cost-of-a-one-time-pest-control-visit
-date: 2025-08-15T15:16:55+03:00
-lastmod: 2025-08-15T15:16:55+03:00
+date: 2025-12-30T15:16:55+03:00
+lastmod: 2025-12-30T15:16:55+03:00
 author: Isaac
 categories:
 - Home Maintenance

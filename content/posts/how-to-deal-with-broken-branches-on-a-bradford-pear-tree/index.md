@@ -3,8 +3,8 @@ title: How to Deal With Broken Branches on a Bradford Pear Tree
 description: The Bradford Pear Pyrus calleryana 'Bradford' was once hailed as the
   perfect ornamental tree fast-growing, tolerant of diverse conditions, and boasting...
 slug: how-to-deal-with-broken-branches-on-a-bradford-pear-tree
-date: 2025-08-15T15:16:55+03:00
-lastmod: 2025-08-15T15:16:55+03:00
+date: 2025-12-30T15:16:55+03:00
+lastmod: 2025-12-30T15:16:55+03:00
 author: Isaac
 categories:
 - Guides

@@ -3,8 +3,8 @@ title: Home Remedy for Termites
 description: Soil treatment for termites with chemical termite killers like fipronil
   and imidacloprid is the most common termite-removal method. Termites can eat your...
 slug: home-remedy-for-termites
-date: 2025-08-15T15:16:55+03:00
-lastmod: 2025-08-15T15:16:55+03:00
+date: 2025-12-30T15:16:55+03:00
+lastmod: 2025-12-30T15:16:55+03:00
 author: Isaac
 categories:
 - Guide

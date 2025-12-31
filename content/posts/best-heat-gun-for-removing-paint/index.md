@@ -4,8 +4,8 @@ description: Were you looking for the best heat gun for removing paint? Perhaps 
   want to remove paint on your steel surface or wooden furniture at your homeoffice
   and...
 slug: best-heat-gun-for-removing-paint
-date: 2025-08-15T15:16:55+03:00
-lastmod: 2025-08-15T15:16:55+03:00
+date: 2025-12-30T15:16:55+03:00
+lastmod: 2025-12-30T15:16:55+03:00
 author: Isaac
 categories:
 - Paint

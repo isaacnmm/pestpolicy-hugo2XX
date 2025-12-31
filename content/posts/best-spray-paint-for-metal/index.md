@@ -4,8 +4,8 @@ description: By choosing to read this article on the best spray paint for metal,
   will gain extra information on selecting spray paint for your DIY project. Wrong
   spray...
 slug: best-spray-paint-for-metal
-date: 2025-08-15T15:16:55+03:00
-lastmod: 2025-08-15T15:16:55+03:00
+date: 2025-12-30T15:16:55+03:00
+lastmod: 2025-12-30T15:16:55+03:00
 author: Isaac
 categories:
 - Paint

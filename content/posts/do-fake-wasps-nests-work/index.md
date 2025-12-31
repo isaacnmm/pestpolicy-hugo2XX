@@ -4,8 +4,8 @@ description: Summer times is the perfect time to relax at your balcony or backya
   Right? Well, it may not be that peaceful if you have wasps infestation in your home
   -...
 slug: do-fake-wasps-nests-work
-date: 2025-08-15T15:16:55+03:00
-lastmod: 2025-08-15T15:16:55+03:00
+date: 2025-12-30T15:16:55+03:00
+lastmod: 2025-12-30T15:16:55+03:00
 author: Isaac
 categories:
 - Guide

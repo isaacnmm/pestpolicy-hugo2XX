@@ -4,8 +4,8 @@ description: Besides deck design, deck materials are the most important feature 
   affects the outlook and style of your deck. The composite decks are mainly made
   from...
 slug: is-composite-decking-worth-it
-date: 2025-08-15T15:16:55+03:00
-lastmod: 2025-08-15T15:16:55+03:00
+date: 2025-12-30T15:16:55+03:00
+lastmod: 2025-12-30T15:16:55+03:00
 author: Isaac
 categories:
 - DIY Paintings

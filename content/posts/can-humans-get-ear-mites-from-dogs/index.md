@@ -3,8 +3,8 @@ title: Can Humans Get Ear Mites from Dogs
 description: Can humans get ear mites from dogs? Ear mites will cause your dogs to
   scratch and shake their ears very frequently. They live in their ear canal & cause...
 slug: can-humans-get-ear-mites-from-dogs
-date: 2025-08-15T15:16:55+03:00
-lastmod: 2025-08-15T15:16:55+03:00
+date: 2025-12-30T15:16:55+03:00
+lastmod: 2025-12-30T15:16:55+03:00
 author: Isaac
 categories:
 - Guide

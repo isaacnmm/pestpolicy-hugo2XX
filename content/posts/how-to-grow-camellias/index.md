@@ -4,8 +4,8 @@ description: Camellias are among the most aristocratic and cherished shrubs in t
   garden, prized for their exquisite, often fragrant flowers that bloom when most
   other...
 slug: how-to-grow-camellias
-date: 2025-08-15T15:16:55+03:00
-lastmod: 2025-08-15T15:16:55+03:00
+date: 2025-12-30T15:16:55+03:00
+lastmod: 2025-12-30T15:16:55+03:00
 author: Isaac
 categories:
 - Plants and Flowers

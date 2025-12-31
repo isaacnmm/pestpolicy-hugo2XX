@@ -4,8 +4,8 @@ description: A trampoline is a significant and fundamental investment that anyon
   would decide to make.Trampoline Care In Winter is essential, but you should strive
   to...
 slug: trampoline-care-in-winter
-date: 2025-08-15T15:16:55+03:00
-lastmod: 2025-08-15T15:16:55+03:00
+date: 2025-12-30T15:16:55+03:00
+lastmod: 2025-12-30T15:16:55+03:00
 author: Isaac
 categories:
 - Guide

@@ -3,8 +3,8 @@ title: Graco Magnum X5 Reviews
 description: The Graco Magnum X5 is a popular airless paint sprayer that is designed
   for DIY enthusiasts and professionals alike. In this review, we will take a closer...
 slug: graco-magnum-x5-reviews
-date: 2025-08-15T15:16:55+03:00
-lastmod: 2025-08-15T15:16:55+03:00
+date: 2025-12-30T15:16:55+03:00
+lastmod: 2025-12-30T15:16:55+03:00
 author: Isaac
 categories:
 - Guide

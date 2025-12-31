@@ -3,8 +3,8 @@ title: Bees Vs Wasps Vs Hornets
 description: What're the differences between bees vs. wasps vs. hornets ? If you've
   seen a flying insect that's black and yellow in the yard
 slug: bees-vs-wasps-vs-hornets
-date: 2025-08-15T15:16:55+03:00
-lastmod: 2025-08-15T15:16:55+03:00
+date: 2025-12-30T15:16:55+03:00
+lastmod: 2025-12-30T15:16:55+03:00
 author: Isaac
 categories:
 - Bees

@@ -3,8 +3,8 @@ title: 7 Best Aluminum Gutter Guards in 2026
 description: When it comes to protecting your home from the perils of clogged gutters,
   the choice of gutter guard material is paramount.
 slug: best-aluminum-gutter-guards
-date: 2025-08-15T15:16:55+03:00
-lastmod: 2025-08-15T15:16:55+03:00
+date: 2025-12-30T15:16:55+03:00
+lastmod: 2025-12-30T15:16:55+03:00
 author: Isaac
 categories:
 - Gutters

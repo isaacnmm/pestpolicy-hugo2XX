@@ -3,8 +3,8 @@ title: How to Correct Soil Ph in Your Yard
 description: You've learned about the critical role of soil pH in your yard's overall
   health  how this single chemical measurement dictates the availability of vital...
 slug: how-to-correct-soil-ph-in-your-yard
-date: 2025-08-15T15:16:55+03:00
-lastmod: 2025-08-15T15:16:55+03:00
+date: 2025-12-30T15:16:55+03:00
+lastmod: 2025-12-30T15:16:55+03:00
 author: Isaac
 categories:
 - Gardening

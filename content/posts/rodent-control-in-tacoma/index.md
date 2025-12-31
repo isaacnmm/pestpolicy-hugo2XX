@@ -3,8 +3,8 @@ title: Rodent Control in Tacoma
 description: Rodent control is crucial for maintaining a healthy and safe home environment,
   particularly in Tacoma, WA, where common rodents such as house mice, Norway...
 slug: rodent-control-in-tacoma
-date: 2025-08-15T15:16:55+03:00
-lastmod: 2025-08-15T15:16:55+03:00
+date: 2025-12-30T15:16:55+03:00
+lastmod: 2025-12-30T15:16:55+03:00
 author: Isaac
 categories:
 - Guide

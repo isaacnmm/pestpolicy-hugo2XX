@@ -3,8 +3,8 @@ title: 7 Best Handheld Paint Sprayers in 2026
 description: Choosing the best handheld sprayers reduces much hassle that comes with
   painting with a roller and paintbrushes. Handheld sprayer guarantees high-quality...
 slug: best-handheld-paint-sprayers
-date: 2025-08-15T15:16:55+03:00
-lastmod: 2025-08-15T15:16:55+03:00
+date: 2025-12-30T15:16:55+03:00
+lastmod: 2025-12-30T15:16:55+03:00
 author: Isaac
 categories:
 - Sprayers

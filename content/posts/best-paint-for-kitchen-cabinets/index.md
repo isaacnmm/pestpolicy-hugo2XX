@@ -4,8 +4,8 @@ description: By reading this article on the best paint for cabinets, you will no
   only acquire in-depth knowledge on the best cabinet paint, but you will also be
   able to...
 slug: best-paint-for-kitchen-cabinets
-date: 2025-08-15T15:16:55+03:00
-lastmod: 2025-08-15T15:16:55+03:00
+date: 2025-12-30T15:16:55+03:00
+lastmod: 2025-12-30T15:16:55+03:00
 author: Isaac
 categories:
 - Paint

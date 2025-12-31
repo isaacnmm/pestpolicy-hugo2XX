@@ -3,8 +3,8 @@ title: Do Squirrels Attack Humans
 description: Summertime in many parts of the World including the United States such
   as in Washington, D.C., largely experiences an upsurge of squirrels
 slug: do-squirrels-attack-humans
-date: 2025-08-15T15:16:55+03:00
-lastmod: 2025-08-15T15:16:55+03:00
+date: 2025-12-30T15:16:55+03:00
+lastmod: 2025-12-30T15:16:55+03:00
 author: Isaac
 categories:
 - Guide

@@ -3,8 +3,8 @@ title: Problem Growing Grass Under Crabapple Trees
 description: Few things enhance a landscape quite like a beautiful, mature tree. Crabapple
   trees, with their stunning spring blossoms, attractive summer foliage, and...
 slug: problem-growing-grass-under-crabapple-trees
-date: 2025-08-15T15:16:55+03:00
-lastmod: 2025-08-15T15:16:55+03:00
+date: 2025-12-30T15:16:55+03:00
+lastmod: 2025-12-30T15:16:55+03:00
 author: Isaac
 categories:
 - Gardening

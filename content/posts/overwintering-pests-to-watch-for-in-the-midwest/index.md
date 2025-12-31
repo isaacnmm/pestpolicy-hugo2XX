@@ -2,8 +2,8 @@
 title: "Overwintering Pests to Watch for in the Midwest"
 description: "A pro's guide to the common overwintering pests in the Midwest. Learn why stink bugs, Asian lady beetles, and boxelder bugs invade homes in the fall and how to stop them."
 slug: overwintering-pests-to-watch-for-in-the-midwest
-date: 2025-08-15T15:16:55+03:00
-lastmod: 2025-08-15T15:16:55+03:00
+date: 2025-12-30T15:16:55+03:00
+lastmod: 2025-12-30T15:16:55+03:00
 author: Isaac
 categories:
 - Home Maintenance

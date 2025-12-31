@@ -3,8 +3,8 @@ title: 7 Best Mini Trampoline for Osteopororosis in 2026
 description: Today I will focus on the Best Mini Trampoline for Osteoporosis. Research
   shows that regular rebounding increases bone density and bone mass, especially for...
 slug: best-mini-trampoline-for-osteopororosis
-date: 2025-08-15T15:16:55+03:00
-lastmod: 2025-08-15T15:16:55+03:00
+date: 2025-12-30T15:16:55+03:00
+lastmod: 2025-12-30T15:16:55+03:00
 author: Isaac
 categories:
 - Guide

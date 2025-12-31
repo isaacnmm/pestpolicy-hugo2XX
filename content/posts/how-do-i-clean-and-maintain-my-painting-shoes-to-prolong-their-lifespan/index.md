@@ -3,8 +3,8 @@ title: How Do I Clean and Maintain My Painting Shoes to Prolong Their Lifespan
 description: Are you a dedicated wall painter, who spends countless hours on ladders
   and scaffolding, giving walls a fresh coat of paint?
 slug: how-do-i-clean-and-maintain-my-painting-shoes-to-prolong-their-lifespan
-date: 2025-08-15T15:16:55+03:00
-lastmod: 2025-08-15T15:16:55+03:00
+date: 2025-12-30T15:16:55+03:00
+lastmod: 2025-12-30T15:16:55+03:00
 author: Isaac
 categories:
 - DIY Paintings

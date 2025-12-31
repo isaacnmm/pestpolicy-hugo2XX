@@ -3,8 +3,8 @@ title: How to Fix Peeling Paint on Drywall
 description: Painting drywall may not be simple, especially if the wrong approach
   or paint application method is followed. The drywall material could be plasterboard,...
 slug: how-to-fix-peeling-paint-on-drywall
-date: 2025-08-15T15:16:55+03:00
-lastmod: 2025-08-15T15:16:55+03:00
+date: 2025-12-30T15:16:55+03:00
+lastmod: 2025-12-30T15:16:55+03:00
 author: Isaac
 categories:
 - DIY Paintings

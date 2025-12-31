@@ -3,8 +3,8 @@ title: Rodents in the Spring What You Need to Know
 description: Spring marks a period of increased rodent activity due to warmer weather
   and the availability of food and shelter. This season, rodents become more visible...
 slug: rodents-in-the-spring-what-you-need-to-know
-date: 2025-08-15T15:16:55+03:00
-lastmod: 2025-08-15T15:16:55+03:00
+date: 2025-12-30T15:16:55+03:00
+lastmod: 2025-12-30T15:16:55+03:00
 author: Isaac
 categories:
 - Guide

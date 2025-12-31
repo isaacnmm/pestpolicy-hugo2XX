@@ -4,8 +4,8 @@ description: If your home has dust which is practically in every home there will
   dust mites. These pests will eat dead skin flakes that have been shared by pets
   and...
 slug: dust-mites
-date: 2025-08-15T15:16:55+03:00
-lastmod: 2025-08-15T15:16:55+03:00
+date: 2025-12-30T15:16:55+03:00
+lastmod: 2025-12-30T15:16:55+03:00
 author: Isaac
 categories:
 - Guide

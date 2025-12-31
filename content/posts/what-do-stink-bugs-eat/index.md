@@ -3,8 +3,8 @@ title: What Do Stink Bugs Eat
 description: Stink bugs are pests commonly found in the garden but on some rare occasions,
   they make entry into our homes. But do ever wonder what do stink bugs to...
 slug: what-do-stink-bugs-eat
-date: 2025-08-15T15:16:55+03:00
-lastmod: 2025-08-15T15:16:55+03:00
+date: 2025-12-30T15:16:55+03:00
+lastmod: 2025-12-30T15:16:55+03:00
 author: Isaac
 categories:
 - Bed Bugs

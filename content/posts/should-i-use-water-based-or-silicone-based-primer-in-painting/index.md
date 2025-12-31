@@ -4,8 +4,8 @@ description: Choosing the right primer is crucial for a successful painting proj
   Whether you're a professional painter or a DIY enthusiast, the type of primer you
   use...
 slug: should-i-use-water-based-or-silicone-based-primer-in-painting
-date: 2025-08-15T15:16:55+03:00
-lastmod: 2025-08-15T15:16:55+03:00
+date: 2025-12-30T15:16:55+03:00
+lastmod: 2025-12-30T15:16:55+03:00
 author: Isaac
 categories:
 - Uncategorized

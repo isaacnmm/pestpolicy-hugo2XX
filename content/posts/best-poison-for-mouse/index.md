@@ -3,8 +3,8 @@ title: 7 Best Poison for Mouse in 2026
 description: When dealing with a mouse infestation, choosing the right poison can
   make a significant difference. Below are some of the best poisons for effectively...
 slug: best-poison-for-mouse
-date: 2025-08-15T15:16:55+03:00
-lastmod: 2025-08-15T15:16:55+03:00
+date: 2025-12-30T15:16:55+03:00
+lastmod: 2025-12-30T15:16:55+03:00
 author: Isaac
 categories:
 - Mice

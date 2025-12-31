@@ -3,8 +3,8 @@ title: Can Bearded Dragons Eat Mushrooms
 description: Bearded dragons enjoy a diverse and balanced diet that includes leafy
   greens such as collard greens and cabbage , as well as vegetables like bell peppers,...
 slug: can-bearded-dragons-eat-mushrooms
-date: 2025-08-15T15:16:55+03:00
-lastmod: 2025-08-15T15:16:55+03:00
+date: 2025-12-30T15:16:55+03:00
+lastmod: 2025-12-30T15:16:55+03:00
 author: Isaac
 categories:
 - Guide

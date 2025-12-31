@@ -2,8 +2,8 @@
 title: "Does Boric Acid Work for Killing German Cockroaches?"
 description: "A pest control expert explains if boric acid is effective for German cockroaches. Learn the right way to use it, the critical safety warnings, and why it often fails."
 slug: does-boric-acid-work-for-killing-german-cockroaches
-date: 2025-08-15T15:16:55+03:00
-lastmod: 2025-08-15T15:16:55+03:00
+date: 2025-12-30T15:16:55+03:00
+lastmod: 2025-12-30T15:16:55+03:00
 author: Isaac
 categories:
 - Cockroaches

@@ -4,8 +4,8 @@ description: What's the best throat lozenges for singers? Whether you're a begin
   or an elite singer, you'll at one time need the best throat lozenges for singers
   to...
 slug: best-throat-lozenges-for-singers
-date: 2025-08-15T15:16:55+03:00
-lastmod: 2025-08-15T15:16:55+03:00
+date: 2025-12-30T15:16:55+03:00
+lastmod: 2025-12-30T15:16:55+03:00
 author: Isaac
 categories:
 - Headphones

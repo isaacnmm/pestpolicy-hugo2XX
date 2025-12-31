@@ -3,8 +3,8 @@ title: 7 Best Socks for Sensitive Feet in 2026
 description: The Best Socks for Sensitive Feet are seamless, comfortable, and supportive.
   They come with additional padding that provides the feet with protection against...
 slug: best-socks-for-sensitive-feet
-date: 2025-08-15T15:16:55+03:00
-lastmod: 2025-08-15T15:16:55+03:00
+date: 2025-12-30T15:16:55+03:00
+lastmod: 2025-12-30T15:16:55+03:00
 author: Isaac
 categories:
 - Socks

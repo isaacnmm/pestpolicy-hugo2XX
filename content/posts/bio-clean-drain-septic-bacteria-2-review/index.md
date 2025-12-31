@@ -3,8 +3,8 @@ title: Bio Clean Drain Septic Bacteria 2 Review
 description: Bio-clean Drain Septic Bacteria 2 Review? Dont we all hate the common
   challenge of the slow-moving drain in the kitchen or sink? In this post, Ive reviewed...
 slug: bio-clean-drain-septic-bacteria-2-review
-date: 2025-08-15T15:16:55+03:00
-lastmod: 2025-08-15T15:16:55+03:00
+date: 2025-12-30T15:16:55+03:00
+lastmod: 2025-12-30T15:16:55+03:00
 author: Isaac
 categories:
 - Drains

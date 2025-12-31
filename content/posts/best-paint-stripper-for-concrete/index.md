@@ -3,8 +3,8 @@ title: 7 Best Paint Stripper for Concrete in 2026
 description: Sometimes you may want to do repainting or you have accidentally spilled
   on your concrete and you need to remove it. Getting the best paint stripper for...
 slug: best-paint-stripper-for-concrete
-date: 2025-08-15T15:16:55+03:00
-lastmod: 2025-08-15T15:16:55+03:00
+date: 2025-12-30T15:16:55+03:00
+lastmod: 2025-12-30T15:16:55+03:00
 author: Isaac
 categories:
 - Pressure Washers

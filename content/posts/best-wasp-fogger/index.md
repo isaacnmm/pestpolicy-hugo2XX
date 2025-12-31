@@ -3,8 +3,8 @@ title: 7 Best Wasp Fogger in 2026
 description: A wasp infestation could be such frustration in your place, especially
   if no lasting solution is put into place
 slug: best-wasp-fogger
-date: 2025-08-15T15:16:55+03:00
-lastmod: 2025-08-15T15:16:55+03:00
+date: 2025-12-30T15:16:55+03:00
+lastmod: 2025-12-30T15:16:55+03:00
 author: Isaac
 categories:
 - Product Reviews

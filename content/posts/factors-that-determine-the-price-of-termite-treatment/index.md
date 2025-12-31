@@ -2,8 +2,8 @@
 title: "Factors That Determine the Price of Termite Treatment"
 description: "A pest control expert explains the key factors that determine your termite treatment quote, from the size of your home and type of termite to the treatment method used."
 slug: factors-that-determine-the-price-of-termite-treatment
-date: 2025-08-15T15:16:55+03:00
-lastmod: 2025-08-15T15:16:55+03:00
+date: 2025-12-30T15:16:55+03:00
+lastmod: 2025-12-30T15:16:55+03:00
 author: Isaac
 categories:
 - Termites

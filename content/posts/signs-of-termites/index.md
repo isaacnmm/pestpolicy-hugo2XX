@@ -2,8 +2,8 @@
 title: Signs Of Termites
 description: Below Ive outlined signs of termites
 slug: signs-of-termites
-date: 2025-08-15T15:16:55+03:00
-lastmod: 2025-08-15T15:16:55+03:00
+date: 2025-12-30T15:16:55+03:00
+lastmod: 2025-12-30T15:16:55+03:00
 author: Isaac
 categories:
 - Guide

@@ -2,8 +2,8 @@
 title: 7 Best Running Shoes for Men With Flat Feet in 2026
 description: Your flat feet should not limit your running and training schedule
 slug: best-running-shoes-for-men-with-flat-feet
-date: 2025-08-15T15:16:55+03:00
-lastmod: 2025-08-15T15:16:55+03:00
+date: 2025-12-30T15:16:55+03:00
+lastmod: 2025-12-30T15:16:55+03:00
 author: Isaac
 categories:
 - Running shoes

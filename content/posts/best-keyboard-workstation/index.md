@@ -4,8 +4,8 @@ description: So, what's the best keyboard workstation? Well, you might be confus
   with the many available keyboard workstation in the market. Are you are professional
   and...
 slug: best-keyboard-workstation
-date: 2025-08-15T15:16:55+03:00
-lastmod: 2025-08-15T15:16:55+03:00
+date: 2025-12-30T15:16:55+03:00
+lastmod: 2025-12-30T15:16:55+03:00
 author: Isaac
 categories:
 - Keyboard

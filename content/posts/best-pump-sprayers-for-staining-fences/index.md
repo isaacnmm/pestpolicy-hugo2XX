@@ -3,8 +3,8 @@ title: 7 Best Pump Sprayers for Staining Fences in 2026
 description: Using the best pump sprayers for staining fences will be both less labor-
   and time-intensive compared to using a roller or brush.
 slug: best-pump-sprayers-for-staining-fences
-date: 2025-08-15T15:16:55+03:00
-lastmod: 2025-08-15T15:16:55+03:00
+date: 2025-12-30T15:16:55+03:00
+lastmod: 2025-12-30T15:16:55+03:00
 author: Isaac
 categories:
 - Sprayers

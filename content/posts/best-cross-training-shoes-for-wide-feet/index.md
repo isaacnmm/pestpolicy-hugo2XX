@@ -3,8 +3,8 @@ title: 7 Best Cross Training Shoes for Wide Feet in 2026
 description: Youll agree with me that finding the Best Cross Training Shoes For Wide
   Feet can be a daunting task. Athletes with wide feet need reliable cross-training...
 slug: best-cross-training-shoes-for-wide-feet
-date: 2025-08-15T15:16:55+03:00
-lastmod: 2025-08-15T15:16:55+03:00
+date: 2025-12-30T15:16:55+03:00
+lastmod: 2025-12-30T15:16:55+03:00
 author: Isaac
 categories:
 - HIIT Shoes

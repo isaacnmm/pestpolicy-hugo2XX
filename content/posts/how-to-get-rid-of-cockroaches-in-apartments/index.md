@@ -3,8 +3,8 @@ title: How to Get Rid Of Cockroaches in Apartments
 description: Roaches are notoriously difficult to get rid of. But don't let them win!
   In this article, I outline How to Get Rid of Cockroaches in Apartments.
 slug: how-to-get-rid-of-cockroaches-in-apartments
-date: 2025-08-15T15:16:55+03:00
-lastmod: 2025-08-15T15:16:55+03:00
+date: 2025-12-30T15:16:55+03:00
+lastmod: 2025-12-30T15:16:55+03:00
 author: Isaac
 categories:
 - Guide

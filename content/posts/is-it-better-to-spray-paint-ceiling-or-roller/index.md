@@ -3,8 +3,8 @@ title: Is It Better to Spray Paint Ceiling or Roller
 description: Are you embarking on a painting project and wondering whether it's better
   to spray paint the ceiling or use a roller? Choosing the right method can...
 slug: is-it-better-to-spray-paint-ceiling-or-roller
-date: 2025-08-15T15:16:55+03:00
-lastmod: 2025-08-15T15:16:55+03:00
+date: 2025-12-30T15:16:55+03:00
+lastmod: 2025-12-30T15:16:55+03:00
 author: Isaac
 categories:
 - DIY Paintings

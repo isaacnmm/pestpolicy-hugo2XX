@@ -3,8 +3,8 @@ title: 7 Best Swing Sets for Small Backyards in 2026
 description: You want your kids to get out and get involved in outdoor play, but your
   backyard is so small. You're probably thinking about Best Swing Sets For Small...
 slug: best-swing-sets-for-small-backyards
-date: 2025-08-15T15:16:55+03:00
-lastmod: 2025-08-15T15:16:55+03:00
+date: 2025-12-30T15:16:55+03:00
+lastmod: 2025-12-30T15:16:55+03:00
 author: Isaac
 categories:
 - Swing Sets

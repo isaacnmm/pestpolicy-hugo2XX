@@ -4,8 +4,8 @@ description: Dealing with bed bugs can be a challenging and frustrating task. Wh
   professional pest control is often recommended, having a reliable vacuum designed
   for...
 slug: best-vacuums-for-bed-bugs
-date: 2025-08-15T15:16:55+03:00
-lastmod: 2025-08-15T15:16:55+03:00
+date: 2025-12-30T15:16:55+03:00
+lastmod: 2025-12-30T15:16:55+03:00
 author: Isaac
 categories:
 - Guide

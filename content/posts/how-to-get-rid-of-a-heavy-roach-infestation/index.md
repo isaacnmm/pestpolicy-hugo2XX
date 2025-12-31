@@ -3,8 +3,8 @@ title: How to Get Rid Of a Heavy Roach Infestation
 description: What's the best way to kill roaches ? Well, here's a summary Traps, Baits,
   Sprays, and Growth Regulators IGR with their method of roach killing. 1.
 slug: how-to-get-rid-of-a-heavy-roach-infestation
-date: 2025-08-15T15:16:55+03:00
-lastmod: 2025-08-15T15:16:55+03:00
+date: 2025-12-30T15:16:55+03:00
+lastmod: 2025-12-30T15:16:55+03:00
 author: Isaac
 categories:
 - Cockroaches

@@ -3,8 +3,8 @@ title: Gutter Alternatives
 description: Gutters are widely considered an essential component of a home's exterior,
   tirelessly channeling rainwater away from the roof and foundation.
 slug: gutter-alternatives
-date: 2025-08-15T15:16:55+03:00
-lastmod: 2025-08-15T15:16:55+03:00
+date: 2025-12-30T15:16:55+03:00
+lastmod: 2025-12-30T15:16:55+03:00
 author: Isaac
 categories:
 - Gutters

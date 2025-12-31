@@ -4,8 +4,8 @@ description: The few fleas you see on your dog or cat only make up 5 percent of 
   total flea population in your home. There is a whole bunch of them hiding on your
   pets...
 slug: how-to-get-rid-of-fleas
-date: 2025-08-15T15:16:55+03:00
-lastmod: 2025-08-15T15:16:55+03:00
+date: 2025-12-30T15:16:55+03:00
+lastmod: 2025-12-30T15:16:55+03:00
 author: Isaac
 categories:
 - Fleas

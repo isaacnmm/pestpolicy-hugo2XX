@@ -4,8 +4,8 @@ description: Could you be hearing some indiscernible animal noisessounds at nigh
   in your attic and wonder what it could be? But, how do you tell if it's raccoon's
   sound ?...
 slug: what-sound-does-a-raccoon-make
-date: 2025-08-15T15:16:55+03:00
-lastmod: 2025-08-15T15:16:55+03:00
+date: 2025-12-30T15:16:55+03:00
+lastmod: 2025-12-30T15:16:55+03:00
 author: Isaac
 categories:
 - Guide

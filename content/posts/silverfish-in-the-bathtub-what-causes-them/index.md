@@ -2,8 +2,8 @@
 title: "Silverfish in the Bathtub: What Causes Them?"
 description: "An expert explains why you're finding silverfish in your tub, what attracts them to your bathroom, and a pro-level plan to get rid of them for good."
 slug: silverfish-in-the-bathtub-what-causes-them
-date: 2025-08-15T15:16:55+03:00
-lastmod: 2025-08-15T15:16:55+03:00
+date: 2025-12-30T15:16:55+03:00
+lastmod: 2025-12-30T15:16:55+03:00
 author: Isaac
 categories:
 - Silverfish

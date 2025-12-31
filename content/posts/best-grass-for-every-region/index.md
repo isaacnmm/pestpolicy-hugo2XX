@@ -3,8 +3,8 @@ title: 7 Best Grass for Every Region in 2026
 description: Creating and maintaining a lush, healthy lawn is a cornerstone of many
   beautiful landscapes. However, the secret to a thriving green carpet isn't just...
 slug: best-grass-for-every-region
-date: 2025-08-15T15:16:55+03:00
-lastmod: 2025-08-15T15:16:55+03:00
+date: 2025-12-30T15:16:55+03:00
+lastmod: 2025-12-30T15:16:55+03:00
 author: Isaac
 categories:
 - Lawn Care

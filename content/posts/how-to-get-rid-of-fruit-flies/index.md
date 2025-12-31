@@ -4,8 +4,8 @@ description: Fruit flies are tiny flying bugs that's attracted to rotting and ov
   ripened fruits such as grapes, plums, strawberries, mangoes, and watermelon. Each
   female...
 slug: how-to-get-rid-of-fruit-flies
-date: 2025-08-15T15:16:55+03:00
-lastmod: 2025-08-15T15:16:55+03:00
+date: 2025-12-30T15:16:55+03:00
+lastmod: 2025-12-30T15:16:55+03:00
 author: Isaac
 categories:
 - Flies

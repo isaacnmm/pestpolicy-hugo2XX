@@ -3,8 +3,8 @@ title: How to Revive Dead Grass
 description: The sight of a brown, lifeless lawn can be disheartening for any homeowner.
   What was once a vibrant green carpet can, seemingly overnight, transform into a...
 slug: how-to-revive-dead-grass
-date: 2025-08-15T15:16:55+03:00
-lastmod: 2025-08-15T15:16:55+03:00
+date: 2025-12-30T15:16:55+03:00
+lastmod: 2025-12-30T15:16:55+03:00
 author: Isaac
 categories:
 - Lawn Care

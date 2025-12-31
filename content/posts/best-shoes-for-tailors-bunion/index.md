@@ -3,8 +3,8 @@ title: 7 Best Shoes for Tailors Bunion in 2026
 description: The Best Shoes for Tailors Bunion or bunionette should have a wide and
   spacious toe box to accommodate the tailor bunion. The shoes should also feature...
 slug: best-shoes-for-tailors-bunion
-date: 2025-08-15T15:16:55+03:00
-lastmod: 2025-08-15T15:16:55+03:00
+date: 2025-12-30T15:16:55+03:00
+lastmod: 2025-12-30T15:16:55+03:00
 author: Isaac
 categories:
 - walking Shoes

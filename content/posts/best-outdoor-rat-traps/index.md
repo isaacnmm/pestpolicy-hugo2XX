@@ -3,8 +3,8 @@ title: 7 Best Outdoor Rat Traps in 2026
 description: You dont realize the importance of a rat trap until you see a rodent
   running around in your garden or backyard. You cannot possibly trap a rat or a mouse...
 slug: best-outdoor-rat-traps
-date: 2025-08-15T15:16:55+03:00
-lastmod: 2025-08-15T15:16:55+03:00
+date: 2025-12-30T15:16:55+03:00
+lastmod: 2025-12-30T15:16:55+03:00
 author: Isaac
 categories:
 - Product Reviews

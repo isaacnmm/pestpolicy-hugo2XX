@@ -3,8 +3,8 @@ title: How to Use Coffee Grounds in Your Garden
 description: For many of us, coffee is an indispensable part of our daily routine.
   But what happens to all those leftover coffee grounds?
 slug: how-to-use-coffee-grounds-in-your-garden
-date: 2025-08-15T15:16:55+03:00
-lastmod: 2025-08-15T15:16:55+03:00
+date: 2025-12-30T15:16:55+03:00
+lastmod: 2025-12-30T15:16:55+03:00
 author: Isaac
 categories:
 - Guides

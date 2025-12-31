@@ -4,8 +4,8 @@ description: Before proceeding to paint the popcorn ceiling, lets first understa
   what is popcorn ceiling? Popcorn also referred to as stucco ceiling is a ceiling
   that...
 slug: how-to-paint-popcorn-ceiling
-date: 2025-08-15T15:16:55+03:00
-lastmod: 2025-08-15T15:16:55+03:00
+date: 2025-12-30T15:16:55+03:00
+lastmod: 2025-12-30T15:16:55+03:00
 author: Isaac
 categories:
 - DIY Paintings

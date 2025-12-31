@@ -3,8 +3,8 @@ title: Benefits Of Spreading Straw or Mulch Over Grass Seed
 description: After the meticulous work of preparing your soil and carefully spreading
   grass seed, the temptation might be to simply water and wait.
 slug: benefits-of-spreading-straw-or-mulch-over-grass-seed
-date: 2025-08-15T15:16:55+03:00
-lastmod: 2025-08-15T15:16:55+03:00
+date: 2025-12-30T15:16:55+03:00
+lastmod: 2025-12-30T15:16:55+03:00
 author: Isaac
 categories:
 - Lawn Care

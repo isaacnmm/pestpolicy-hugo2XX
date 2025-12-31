@@ -3,8 +3,8 @@ title: 7 Best Flea Shampoo for Dogs in 2026
 description: Dealing with fleas can feel like a never-ending battle, but the right
   flea shampoo can make all the difference. If you're tired of watching your dog scratch...
 slug: best-flea-shampoo-for-dogs
-date: 2025-08-15T15:16:55+03:00
-lastmod: 2025-08-15T15:16:55+03:00
+date: 2025-12-30T15:16:55+03:00
+lastmod: 2025-12-30T15:16:55+03:00
 author: Isaac
 categories:
 - Fleas

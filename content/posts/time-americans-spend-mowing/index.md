@@ -4,8 +4,8 @@ description: The rhythmic hum of a lawnmower on a Saturday morning is an iconic 
   of American suburbia. For many homeowners, lawn care is a weekly ritual, a chore,
   or...
 slug: time-americans-spend-mowing
-date: 2025-08-15T15:16:55+03:00
-lastmod: 2025-08-15T15:16:55+03:00
+date: 2025-12-30T15:16:55+03:00
+lastmod: 2025-12-30T15:16:55+03:00
 author: Isaac
 categories:
 - Lawn Care

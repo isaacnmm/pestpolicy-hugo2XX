@@ -3,8 +3,8 @@ title: Go Native With Oakleaf Hydrangeas
 description: When gardeners think of hydrangeas, often the first image that comes
   to mind is the classic mophead or lacecap with their vibrant blues and pinks.
 slug: go-native-with-oakleaf-hydrangeas
-date: 2025-08-15T15:16:55+03:00
-lastmod: 2025-08-15T15:16:55+03:00
+date: 2025-12-30T15:16:55+03:00
+lastmod: 2025-12-30T15:16:55+03:00
 author: Isaac
 categories:
 - Plants and Flowers

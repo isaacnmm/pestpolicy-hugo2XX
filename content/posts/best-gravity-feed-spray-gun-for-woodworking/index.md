@@ -4,8 +4,8 @@ description: For any dedicated woodworker, there comes a moment of truth. Youve 
   hours, if not days, selecting the perfect lumber, meticulously cutting joinery,
   and...
 slug: best-gravity-feed-spray-gun-for-woodworking
-date: 2025-08-15T15:16:55+03:00
-lastmod: 2025-08-15T15:16:55+03:00
+date: 2025-12-30T15:16:55+03:00
+lastmod: 2025-12-30T15:16:55+03:00
 author: Isaac
 categories:
 - Woodworking

@@ -4,8 +4,8 @@ description: Carbon dioxide CO2 is often considered a potential tool in the figh
   against pests like bed bugs. Understanding its effects on bed bugs and how it can
   be used...
 slug: does-carbon-dioxide-kill-bed-bugs
-date: 2025-08-15T15:16:55+03:00
-lastmod: 2025-08-15T15:16:55+03:00
+date: 2025-12-30T15:16:55+03:00
+lastmod: 2025-12-30T15:16:55+03:00
 author: Isaac
 categories:
 - Guide

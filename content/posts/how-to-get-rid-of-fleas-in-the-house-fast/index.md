@@ -4,8 +4,8 @@ description: Fleas are a major problem for many people in houses and offices. Th
   can infest your carpet, furniture, and even your pets. Some fleas fall off these
   wild...
 slug: how-to-get-rid-of-fleas-in-the-house-fast
-date: 2025-08-15T15:16:55+03:00
-lastmod: 2025-08-15T15:16:55+03:00
+date: 2025-12-30T15:16:55+03:00
+lastmod: 2025-12-30T15:16:55+03:00
 author: Isaac
 categories:
 - Fleas

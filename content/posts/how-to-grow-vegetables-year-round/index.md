@@ -3,8 +3,8 @@ title: How to Grow Vegetables Year Round
 description: The dream of a continuous harvest, plucking fresh, homegrown vegetables
   from your garden regardless of the season, is attainable for many gardeners.
 slug: how-to-grow-vegetables-year-round
-date: 2025-08-15T15:16:55+03:00
-lastmod: 2025-08-15T15:16:55+03:00
+date: 2025-12-30T15:16:55+03:00
+lastmod: 2025-12-30T15:16:55+03:00
 author: Isaac
 categories:
 - Guides

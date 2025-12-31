@@ -3,8 +3,8 @@ title: What Do Bed Bugs Look Like
 description: On the question, what do bed bugs look like? Bed bugs are wingless, oval-shaped,
   flat, and small-bodied bugs
 slug: what-do-bed-bugs-look-like
-date: 2025-08-15T15:16:55+03:00
-lastmod: 2025-08-15T15:16:55+03:00
+date: 2025-12-30T15:16:55+03:00
+lastmod: 2025-12-30T15:16:55+03:00
 author: Isaac
 categories:
 - Bed Bugs

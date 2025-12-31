@@ -3,8 +3,8 @@ title: 7 Best Nursing Shoes for Bunions in 2026
 description: The Best Nursing Shoes for Bunions should be comfortable, slip-resistant,
   and have a wide toe box. Nurses spend many hours 8-12 on their feet.
 slug: best-nursing-shoes-for-bunions
-date: 2025-08-15T15:16:55+03:00
-lastmod: 2025-08-15T15:16:55+03:00
+date: 2025-12-30T15:16:55+03:00
+lastmod: 2025-12-30T15:16:55+03:00
 author: Isaac
 categories:
 - Work Shoes

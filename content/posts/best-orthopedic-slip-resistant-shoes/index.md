@@ -3,8 +3,8 @@ title: 7 Best Orthopedic Slip Resistant Shoes in 2026
 description: The Best Orthopedic Slip Resistant Shoes should be comfortable, supportive,
   and high performing. These shoes must keep you safe from slipping or falling.
 slug: best-orthopedic-slip-resistant-shoes
-date: 2025-08-15T15:16:55+03:00
-lastmod: 2025-08-15T15:16:55+03:00
+date: 2025-12-30T15:16:55+03:00
+lastmod: 2025-12-30T15:16:55+03:00
 author: Isaac
 categories:
 - Work Shoes

@@ -2,8 +2,8 @@
 title: "Pet-Safe Ant Killers for Inside the House"
 description: "A pest control expert's guide to pet-safe ant control. Learn why bait stations are the top choice, how to use natural methods safely, and what to avoid to protect your pets."
 slug: pet-safe-ant-killer-for-inside-the-house
-date: 2025-08-15T15:16:55+03:00
-lastmod: 2025-08-15T15:16:55+03:00
+date: 2025-12-30T15:16:55+03:00
+lastmod: 2025-12-30T15:16:55+03:00
 author: Isaac
 categories:
 - Ants

@@ -3,8 +3,8 @@ title: 7 Best Running Shoes for Toe Runners in 2026
 description: Best Running Shoes for Toe Runners provide an interesting option for
   runners who love experimenting with different running forms.
 slug: best-running-shoes-for-toe-runners
-date: 2025-08-15T15:16:55+03:00
-lastmod: 2025-08-15T15:16:55+03:00
+date: 2025-12-30T15:16:55+03:00
+lastmod: 2025-12-30T15:16:55+03:00
 author: Isaac
 categories:
 - Running shoes

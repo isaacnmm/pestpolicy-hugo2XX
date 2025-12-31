@@ -3,8 +3,8 @@ title: How to Use a Garden Hose As a Landscaping Guide
 description: Embarking on a landscaping project, whether it's designing a new flower
   bed, rerouting a pathway, or defining the edge of a lawn, often feels like a daunting...
 slug: how-to-use-a-garden-hose-as-a-landscaping-guide
-date: 2025-08-15T15:16:55+03:00
-lastmod: 2025-08-15T15:16:55+03:00
+date: 2025-12-30T15:16:55+03:00
+lastmod: 2025-12-30T15:16:55+03:00
 author: Isaac
 categories:
 - Gardening

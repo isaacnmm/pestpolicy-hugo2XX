@@ -4,8 +4,8 @@ description: The University of Oregon UO, located in Eugene, is a prominent publ
   research university known for its commitment to academic excellence, innovation,
   and...
 slug: university-of-oregon
-date: 2025-08-15T15:16:55+03:00
-lastmod: 2025-08-15T15:16:55+03:00
+date: 2025-12-30T15:16:55+03:00
+lastmod: 2025-12-30T15:16:55+03:00
 author: Isaac
 categories:
 - Eugene

@@ -2,8 +2,8 @@
 title: "Signs of Mice in Your Kitchen Cabinets"
 description: "A professional's guide to the top signs of mice in kitchen cabinets. Learn to identify the subtle evidence, from droppings to smudge marks, and understand what to do next."
 slug: signs-of-mice-in-the-kitchen-cabinets
-date: 2025-08-15T15:16:55+03:00
-lastmod: 2025-08-15T15:16:55+03:00
+date: 2025-12-30T15:16:55+03:00
+lastmod: 2025-12-30T15:16:55+03:00
 author: Isaac
 categories:
 - Rodents

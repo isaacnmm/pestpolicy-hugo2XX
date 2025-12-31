@@ -3,8 +3,8 @@ title: 7 Best Midi Keyboard Controller in 2026
 description: When looking for a MIDI keyboard controller, the right choice depends
   on your musical style, preferences, and the functionality you require.
 slug: best-midi-keyboard-controller
-date: 2025-08-15T15:16:55+03:00
-lastmod: 2025-08-15T15:16:55+03:00
+date: 2025-12-30T15:16:55+03:00
+lastmod: 2025-12-30T15:16:55+03:00
 author: Isaac
 categories:
 - Guide

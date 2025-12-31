@@ -4,8 +4,8 @@ description: Invertebrates and vertebrates follow the Hallers Rule when consider
   the body size and brain comparison. For example, the ant's brain makes up 15 of
   its...
 slug: do-spiders-have-brains
-date: 2025-08-15T15:16:55+03:00
-lastmod: 2025-08-15T15:16:55+03:00
+date: 2025-12-30T15:16:55+03:00
+lastmod: 2025-12-30T15:16:55+03:00
 author: Isaac
 categories:
 - Guide

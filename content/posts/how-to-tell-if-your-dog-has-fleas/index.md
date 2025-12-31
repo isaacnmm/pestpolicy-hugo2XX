@@ -4,8 +4,8 @@ description: How do I know if my dog has fleas? Well, the vet says it's if you n
   your dog scratching, shaking their head, biting themselves, and then scratching
   some...
 slug: how-to-tell-if-your-dog-has-fleas
-date: 2025-08-15T15:16:55+03:00
-lastmod: 2025-08-15T15:16:55+03:00
+date: 2025-12-30T15:16:55+03:00
+lastmod: 2025-12-30T15:16:55+03:00
 author: Isaac
 categories:
 - Fleas

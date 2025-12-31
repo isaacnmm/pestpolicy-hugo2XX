@@ -3,8 +3,8 @@ title: 7 Best Flea Treatment for Cats in 2026
 description: Flea prevention is crucial, especially in warmer climates like Arizona
   or Florida. Fleas not only cause discomfort but can also carry diseases such as...
 slug: best-flea-treatment-for-cats
-date: 2025-08-15T15:16:55+03:00
-lastmod: 2025-08-15T15:16:55+03:00
+date: 2025-12-30T15:16:55+03:00
+lastmod: 2025-12-30T15:16:55+03:00
 author: Isaac
 categories:
 - Fleas

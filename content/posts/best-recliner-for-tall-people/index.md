@@ -3,8 +3,8 @@ title: 7 Best Recliner for Tall People in 2026
 description: Are you tall and big and would like a recliner that will fit your size?
   You deserve the Best Recliner For Tall People to get the ultimate comfort and...
 slug: best-recliner-for-tall-people
-date: 2025-08-15T15:16:55+03:00
-lastmod: 2025-08-15T15:16:55+03:00
+date: 2025-12-30T15:16:55+03:00
+lastmod: 2025-12-30T15:16:55+03:00
 author: Isaac
 categories:
 - Product Reviews

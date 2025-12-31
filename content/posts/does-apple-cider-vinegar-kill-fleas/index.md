@@ -4,8 +4,8 @@ description: Does apple cider vinegar kill fleas? To make your life and that of 
   pets as stress-free as possible, proper flea extermination is necessary. Summer
   is...
 slug: does-apple-cider-vinegar-kill-fleas
-date: 2025-08-15T15:16:55+03:00
-lastmod: 2025-08-15T15:16:55+03:00
+date: 2025-12-30T15:16:55+03:00
+lastmod: 2025-12-30T15:16:55+03:00
 author: Isaac
 categories:
 - Fleas

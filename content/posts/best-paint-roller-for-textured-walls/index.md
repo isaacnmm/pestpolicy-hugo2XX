@@ -3,8 +3,8 @@ title: 7 Best Paint Roller for Textured Walls in 2026
 description: When the primer is fully dry, get a deep-pile paint rollerhttpswww.pinterest.compin122371314860759495
   , popularly known as the best paint roller, for textured...
 slug: best-paint-roller-for-textured-walls
-date: 2025-08-15T15:16:55+03:00
-lastmod: 2025-08-15T15:16:55+03:00
+date: 2025-12-30T15:16:55+03:00
+lastmod: 2025-12-30T15:16:55+03:00
 author: Isaac
 categories:
 - Paint

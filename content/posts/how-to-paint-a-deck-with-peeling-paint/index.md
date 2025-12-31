@@ -3,8 +3,8 @@ title: How to Paint a Deck With Peeling Paint
 description: Perhaps your deck is covered with old peeling paint and wonders how to
   clean and repaint. Frequent peeling paint on your deck surfaces makes them get...
 slug: how-to-paint-a-deck-with-peeling-paint
-date: 2025-08-15T15:16:55+03:00
-lastmod: 2025-08-15T15:16:55+03:00
+date: 2025-12-30T15:16:55+03:00
+lastmod: 2025-12-30T15:16:55+03:00
 author: Isaac
 categories:
 - DIY Paintings

@@ -3,8 +3,8 @@ title: 7 Best Acrylic Paint for Professional Artists in 2026
 description: If you're an expert hobbyist painter, the best acrylic paint for professional
   artists has the right acrylic pigments and features like being "high flow," and...
 slug: best-acrylic-paint-for-professional-artists
-date: 2025-08-15T15:16:55+03:00
-lastmod: 2025-08-15T15:16:55+03:00
+date: 2025-12-30T15:16:55+03:00
+lastmod: 2025-12-30T15:16:55+03:00
 author: Isaac
 categories:
 - Paint

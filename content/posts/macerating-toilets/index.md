@@ -3,8 +3,8 @@ title: Macerating Toilets
 description: When you dream of adding a new bathroom, basement bar, or laundry room,
   the first thought that often comes to mind is plumbing.
 slug: macerating-toilets
-date: 2025-08-15T15:16:55+03:00
-lastmod: 2025-08-15T15:16:55+03:00
+date: 2025-12-30T15:16:55+03:00
+lastmod: 2025-12-30T15:16:55+03:00
 author: Isaac
 categories:
 - Home Improvement

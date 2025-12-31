@@ -4,8 +4,8 @@ description: Gutters are an indispensable component of any home, quietly working
   divert countless gallons of rainwater and snowmelt away from your roof, siding,
   and...
 slug: how-to-install-or-replace-gutters
-date: 2025-08-15T15:16:55+03:00
-lastmod: 2025-08-15T15:16:55+03:00
+date: 2025-12-30T15:16:55+03:00
+lastmod: 2025-12-30T15:16:55+03:00
 author: Isaac
 categories:
 - Gutters

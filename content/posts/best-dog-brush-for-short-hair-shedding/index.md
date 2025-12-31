@@ -4,8 +4,8 @@ description: Sometimes vacuuming your carpets, floors, or sofas off any dog hair
   never enough. It can get tiring and time-consuming, significantly when your dog
   is...
 slug: best-dog-brush-for-short-hair-shedding
-date: 2025-08-15T15:16:55+03:00
-lastmod: 2025-08-15T15:16:55+03:00
+date: 2025-12-30T15:16:55+03:00
+lastmod: 2025-12-30T15:16:55+03:00
 author: Isaac
 categories:
 - Fleas

@@ -4,8 +4,8 @@ description: But, if you're anything like me, you hate second-guessing when hand
   householdpests , and I hope you do too. Therefore, in this post, Ill be answering
   this...
 slug: does-ammonia-kill-bed-bugs
-date: 2025-08-15T15:16:55+03:00
-lastmod: 2025-08-15T15:16:55+03:00
+date: 2025-12-30T15:16:55+03:00
+lastmod: 2025-12-30T15:16:55+03:00
 author: Isaac
 categories:
 - Bed Bugs

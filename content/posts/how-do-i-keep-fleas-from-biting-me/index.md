@@ -3,8 +3,8 @@ title: How Do I Keep Fleas from Biting Me
 description: Flea bites are a common concern, especially in households with pets or
   in areas where pets frequently visit. These tiny pests can cause significant...
 slug: how-do-i-keep-fleas-from-biting-me
-date: 2025-08-15T15:16:55+03:00
-lastmod: 2025-08-15T15:16:55+03:00
+date: 2025-12-30T15:16:55+03:00
+lastmod: 2025-12-30T15:16:55+03:00
 author: Isaac
 categories:
 - Fleas

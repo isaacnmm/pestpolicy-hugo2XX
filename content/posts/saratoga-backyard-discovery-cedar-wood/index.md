@@ -4,8 +4,8 @@ description: The Saratoga Discovery wood swing set can best be described as a pl
   yard since it includes many play options that will create fun for your kids. The
   set has...
 slug: saratoga-backyard-discovery-cedar-wood
-date: 2025-08-15T15:16:55+03:00
-lastmod: 2025-08-15T15:16:55+03:00
+date: 2025-12-30T15:16:55+03:00
+lastmod: 2025-12-30T15:16:55+03:00
 author: Isaac
 categories:
 - Swing Sets
