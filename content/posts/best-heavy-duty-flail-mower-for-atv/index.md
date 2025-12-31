@@ -18,7 +18,7 @@ You will love the versatility of AVTs. Besides using them for fun, their versati
 
 For starters, you only need to buy a heavy-duty flail mower to use the ATV for mowing. We have done an in-depth review of the top flail mowers suitable for AVTs as follows:
 
-##  Mowers: 9 Best Heavy Duty Flail Mower For Atv 2025
+##  Mowers: 9 Best Heavy Duty Flail Mower For Atv in 2026
 
 ###  [1. Nova Tractor Heavy Duty Flail Mower](https://www.amazon.com/dp/B07D1BPCK7/?tag=p-policy-20)
 

@@ -19,7 +19,7 @@ What's the best throat lozenges for singers? Whether you're a beginner or an eli
 
 The tablets will dissolve into a liquid to generate a cooling effect to heal strained, swollen, or scratchy vocal cords - regardless if you're singing for short or long periods. Some tablets contain cut thew production of phlegm - which would otherwise dry-out your voice. So, is it herb-rich Ricola [gummy lozenges](https://europepmc.org/abstract/med/30761819)or peppermint? Related: English horn vs. Oboe
 
-##  Reviews: 9 Best Throat Lozenges for Singers 2025
+##  Reviews: 9 Best Throat Lozenges for Singers in 2026
 
 ###  [1. Cepacol Honey Lemon Benzocaine Sore Throat Relief Lozenges](https://www.amazon.com/dp/B00DORUVLO/?tag=p-policy-20)
 

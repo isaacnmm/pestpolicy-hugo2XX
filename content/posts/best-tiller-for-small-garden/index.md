@@ -18,7 +18,7 @@ The ideal tiller should be capable of preparing your soil adequately to transfor
 
 Size and weight of the tiller -A compact design is considered suitable for small yards and mini-gardens to allow you to work around delicate seedlings and tight spaces. Read Also: Best Rototiller for Rocky Soil
 
-##  Run-Down: 9 Best Tiller for Small Garden in 2025
+##  Run-Down: 9 Best Tiller for Small Garden in 2026
 
 ###  [1. Sun Joe TJ603E electric tiller Garden Tiller](https://www.amazon.com/dp/B00V6IEVXM/?tag=p-policy-20)
 

@@ -18,7 +18,7 @@ If you are a hard rock or heavy metal enthusiast, then you will need special att
 
 Typically, this type of music is associated with deep bass sound, which often blows off most amplifiers. In this regard, consider a potent [amp](https://pestpolicy.com/best-bass-amps-for-small-gigs/)that will handle both hard and soft rock music effectively without overwhelming the amplifier. Features such as power rating, control options, sound filters, compatibility as well as cost should be prioritized.
 
-##  Reviews: Top 7 Best Bass Amps for Metal in 2025
+##  Reviews: Top 7 Best Bass Amps for Metal in 2026
 
 ###  [1. Hughes & Kettner GM40DH GrandMeister Deluxe 40](https://www.amazon.com/dp/B01M31G0CM/?tag=p-policy-20)
 

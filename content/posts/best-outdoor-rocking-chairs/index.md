@@ -18,7 +18,7 @@ Let me guess! At one time, you needed to relax on your outdoor porch but lacked 
 
 Rocking chairs are a furniture type that allows the user to rock to and fro for top comfort just like the sleep recliners that are used indoors.
 
-##  Reviews: Top 7 Best Outdoor Rocking Chairs in 2025
+##  Reviews: Top 7 Best Outdoor Rocking Chairs in 2026
 
 ###  [1. Char-Log Rocker Single with Star - All-weather rocking chair](https://www.amazon.com/dp/B0043JBFV2/?tag=p-policy-20)
 

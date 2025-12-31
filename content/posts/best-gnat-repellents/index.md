@@ -18,7 +18,7 @@ Summer brings warm weather, outdoor adventures - and relentless swarms of gnats.
 
 Weve tested and compared the top gnat repellents on the market, evaluating their effectiveness, safety, and ease of use. Below, we break down the **five best gnat repellents for Summer 2025**, including their pros and cons.
 
-##  7 Best Gnat Repellents for Summer 2025
+##  7 Best Gnat Repellents for Summer in 2026
 
 ##  [1. Bug Soother Gnat, Mosquito Repellent](https://www.amazon.com/dp/B00E3C1QJ0/?tag=p-policy-20)
 

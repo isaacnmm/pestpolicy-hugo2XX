@@ -18,7 +18,7 @@ The best airless [paint](https://pestpolicy.com/best-airless-paint-sprayer-for-c
 
 Further, the versatility allows these sprayers to work with different liquids, including varnish and latex (see latex sprayers) effectively. But you can also check these cordless paint sprayers.
 
-## 7 Best Airless Paint Sprayer for DIY in 2025
+## 7 Best Airless Paint Sprayer for DIY in 2026
 
 ###  [1. Graco-Magnum X7 262805 Airless DIY Paint Sprayer](https://www.amazon.com/dp/B0026SSW8G/?tag=p-policy-20)
 

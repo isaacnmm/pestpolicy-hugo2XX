@@ -19,7 +19,7 @@ I've reviewed the [best](https://pestpolicy.com/best-ant-killer/)ant killers for
 
 They can be quite a nuisance, and thus, it is best that you get hold of a good ant killer for your yard so that you can have some peaceful, relaxing time outdoors. There are a lot of different factors that can affect your purchase of an ant killer. It all depends on the type of budget that you have and the time on hand. Read Also: Fire Ant Killer for Reviewed.
 
-##  Reviews: Top 7 Best Ant Killer for Yard in 2025
+##  Reviews: Top 7 Best Ant Killer for Yard in 2026
 
 ###  [1. Ortho Fire Ant Killer - Editors' #1 Pick](https://www.amazon.com/dp/B000A0UCRG/?tag=p-policy-20)
 

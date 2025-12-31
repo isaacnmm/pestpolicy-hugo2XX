@@ -15,7 +15,7 @@ layout: post
 ---
 Did you order a Raspberry Pi 3 without a ready installed Operating System? If Not, you might need to install the Best OS for Raspberry Pi 3. - If yes, then you'll need to install the operating system manually. Luckily you have operating systems options such as [OSMC](https://osmc.tv)or [Raspbian](https://www.raspberrypi.org/downloads/raspbian/)to enable media streaming. Read Also: Nintendo Switch SD Card.
 
-##  Reviews: Top 7 Best OS for raspberry pi 3 2025
+##  Reviews: Top 7 Best OS for raspberry pi 3 in 2026
 
 ###  [**1. Raspbian OS - Best Raspberry Pi 3**** OS **](https://www.raspberrypi.org/downloads/raspbian/)
 

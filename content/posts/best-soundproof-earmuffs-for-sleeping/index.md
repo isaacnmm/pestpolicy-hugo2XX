@@ -20,7 +20,7 @@ Notably, a good earmuff will reduce about 15 to 30 dB of noise just like the top
 
 Some earmuffs are used for noise cancellation in areas that have substantial and noisy machinery - these are not the type of Earmuff we require for healthy sleep.
 
-##  Reviews: 9 Best Soundproof Earmuffs For Sleeping 2025
+##  Reviews: 9 Best Soundproof Earmuffs For Sleeping in 2026
 
 I need to wake up refreshed, focused, and well-rested by muffing the noise coming from loud passerby and loud vehicle noise. No more turning and tossing all night - get noise-canceling earmuffs.
 

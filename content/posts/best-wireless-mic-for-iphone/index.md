@@ -19,7 +19,7 @@ The best wireless mic for iPhone will help you to easily record your podcasts, y
 
 Key considerations, besides the quality of the iPhone [mics](https://pestpolicy.com/best-wireless-lavalier-mic-for-dslr/),ensure to check if the mic uses the lightning port or headphone jack. Or maybe the wireless option? Let's get started with the best lightning connector and headphone jack microphones. Read Also: Laptop for Video Editing.
 
-##  Reviews: Top 7 Best Wireless Mic for iPhone in 2025
+##  Reviews: Top 7 Best Wireless Mic for iPhone in 2026
 
 ###  [1. Comica CVM-WS50(C) Lavalier Wireless iPhone Mic](https://www.amazon.com/dp/B078JPPT3N/?tag=p-policy-20)
 

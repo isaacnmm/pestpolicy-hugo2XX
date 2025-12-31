@@ -18,7 +18,7 @@ The best way to give your aluminum boat a new look is by having the best paints 
 
 Suitable paints are durable and give your boat a new transformation-an-aluminum-boat/). There are those exceptional paints that can be applied both below and above the water surface. Which exactly are these paint? This article will help you understand more of the paint you need for your aluminum boat and more of this information.
 
-## Top 7 Best Paints for Aluminum Boats in 2025
+## Top 7 Best Paints for Aluminum Boats in 2026
 
 ###  [1. Rust-Oleum, 207005 Marine Topside Paint](https://www.amazon.com/dp/B0019K43TY/?tag=p-policy-20)
 

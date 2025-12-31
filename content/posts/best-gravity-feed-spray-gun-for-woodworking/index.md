@@ -84,7 +84,7 @@ A quality gun will have three distinct control knobs that allow you to "dial in"
 
 * **Air Pressure Regulator: ** While your main pressure is set at the compressor, a final adjustment knob or a gauge at the base of the gun is crucial for fine-tuning atomization.
 
-###  The Best Gravity-Feed Spray Guns of 2025
+###  The Best Gravity-Feed Spray Guns of in 2026
 
 ####  Best Overall: IWATA LPH400 LVLP Spray Gun
 

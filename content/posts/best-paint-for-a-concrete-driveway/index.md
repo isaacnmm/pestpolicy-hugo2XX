@@ -18,7 +18,7 @@ Whats the best paint for a [concrete](https://pestpolicy.com/best-paint-for-conc
 
 Epoxy paints are preferred [for driveways and garages](https://www.nps.gov/tps/how-to-preserve/briefs/15-concrete.htm)because they contain a resin that is resistant to oil, chemical, and worn tire stains. See Also: Best Concrete Rust Remover
 
-##  Top7 Best Paint for a Concrete Driveway in 2025
+##  Top7 Best Paint for a Concrete Driveway in 2026
 
 ###  [1. ECO-Advance EACON16CON Waterproofer concrete Concentrate](https://www.amazon.com/dp/B00LWDS5PQ/?tag=p-policy-20)
 

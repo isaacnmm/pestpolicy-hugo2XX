@@ -18,7 +18,7 @@ Maybe you dont fancy guns, or they are illegal (for the public) in your state. H
 
 Also, get appropriate training that will enable you to protect yourself against any buglers that get into your house. Read Also: Blinds for Bedroom Windows.
 
-##  Reviews: 7 Best Self Defense Weapon Besides Gun in 2025
+##  Reviews: 7 Best Self Defense Weapon Besides Gun in 2026
 
 ###  [1. DEWALT DCS380B 20-Volt Reciprocating Saw](https://www.amazon.com/gp/product/B007NVSTCK/?tag=p-policy-20)
 

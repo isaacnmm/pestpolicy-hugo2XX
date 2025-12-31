@@ -20,7 +20,7 @@ Getting a good [stain](https://pestpolicy.com/best-stain-for-douglas-fir-door/)w
 
 Taking good care of a playset will ensure it remains flawless for ages, even under extreme natural conditions.
 
-##  7 Best Stain for Swing Set in 2025
+##  7 Best Stain for Swing Set in 2026
 
 ###  [1. Ready Seal 112 Stain for Swing Set](https://www.amazon.com/dp/B00MDVLMGK/?tag=p-policy-20)
 

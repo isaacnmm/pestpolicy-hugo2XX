@@ -18,7 +18,7 @@ With any of the best chalk paint for [kitchen](https://pestpolicy.com/best-bondi
 
 Luckily, [chalk](https://pestpolicy.com/best-chalk-paint-for-furniture/)paints are thick but will also dry quickly, and thus you can add another coating immediately. I noted that one could adequately cover all the flaws or holes like oak grains using about three coats - but you may require to sand lightly using some 600 grit dry or wet sandpaper.
 
-## 7 Best Chalk Paint forKitchen Cabinets 2025
+## 7 Best Chalk Paint forKitchen Cabinets in 2026
 
 Unlike the oil-based and latex paint, chalk paint may require limited furniture and ends up giving the furniture items vintage or rustic appearance.
 

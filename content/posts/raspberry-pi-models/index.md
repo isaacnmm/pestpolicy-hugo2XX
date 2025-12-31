@@ -18,7 +18,7 @@ layout: post
 
 The credit-card-sized board (computer) allows you to undertake essential computer functions such as playing games and videos, processing word and excel documents using Python programs, and a fantastic [micro-SD card](https://pestpolicy.com/[best](https://pestpolicy.com/best-pcie-wireless-card-for-gaming/)-sd-card-for-raspberry-pi-3/).
 
-##  Reviews: Top 7 Best Raspberry Pi Models for 2025
+##  Reviews: Top 7 Best Raspberry Pi Models for in 2026
 
 ###  **1. Raspberry Pi 2 Model B Desktop - #1 Pick**
 

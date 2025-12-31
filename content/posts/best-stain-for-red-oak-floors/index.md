@@ -19,7 +19,7 @@ Red Oak is considered one of the best solid wood to use on your floor to give it
 
 These stains are found in many forms, from water-based, oil-based to chalked ones, and you may need a little guide to help you make the right choice for your floor. A great deck stain offers your red oak an amazing natural color. Considering the characteristics of red oak floors, this article will outline all the top-quality stains that will give natural beauty, durability, and getting back value for your money.
 
-## Top 7 Best Stain for Red Oak Floors in 2025
+## Top 7 Best Stain for Red Oak Floors in 2026
 
 ###  [1. DEFY-Extreme Wood Clear Stain - Great for Playsets, Fences, and Wood decks](https://www.amazon.com/dp/B0061N8ZKC/?tag=p-policy-20)
 

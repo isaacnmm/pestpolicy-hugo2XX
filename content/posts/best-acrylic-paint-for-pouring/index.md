@@ -18,7 +18,7 @@ If you're looking for the best [acrylic](https://pestpolicy.com/best-acrylic-pai
 
 Consider ease of mixing with different pouring mediums, quality of dried texture, area to be painted, ease of missing with different pouring mediums, and cost - maybe craft acrylics and artist-quality acrylics? Besides, you may require to use water to use any of your thicker acrylics - maybe mix 1 part of GAC 100 with 1. 6 parts of water then use it to thin your thick paints. See Also: [Acrylic Paint for Canvas](https://pestpolicy.com/best-acrylic-paint-for-canvas/).
 
-##  7 Best Acrylic Paint for Pouring in 2025
+##  7 Best Acrylic Paint for Pouring in 2026
 
 ###  [1. Liquitex BASICS Acrylic Pouring Paint - #1](https://www.amazon.com/dp/B004M56VU2/?tag=p-policy-20)
 

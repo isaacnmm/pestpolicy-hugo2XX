@@ -18,7 +18,7 @@ layout: post
 
 To tackle these pests, most people use [gopher](https://pestpolicy.com/best-gopher-traps/)baits that act as a poisonous meal. As gophers tend to use the existing tunnels, they might come across leftover bait that's lying around. It'll get attracted to the bait and end up eating it and die before you even find out about the presence of a new gopher.
 
-##  Reviews: Top 7 Best Gopher Poison for 2025
+##  Reviews: Top 7 Best Gopher Poison for in 2026
 
 ###  **1. JT Eaton Anticoagulant Poison / Bait - #1 Pick**
 

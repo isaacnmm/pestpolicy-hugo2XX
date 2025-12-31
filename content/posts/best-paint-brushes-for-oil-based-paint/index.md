@@ -20,7 +20,7 @@ To ease the stress of using [oil](https://pestpolicy.com/best-paint-thinner-for-
 
 To achieve the right painting quality, [paint with the right brush](https://pestpolicy.com/best-paint-brushes-for-edging/)with your oil-based paints.
 
-## Top 7 Best Paint Brushes for Oil Based Paintin2025
+## Top 7 Best Paint Brushes for Oil Based Paintinin 2026
 
 ###  [1. Purdy 144400340 XL Series Swan Enamel/Wall Paint Brush, 4 inch](https://www.amazon.com/dp/B00002N6IR/?tag=p-policy-20)
 

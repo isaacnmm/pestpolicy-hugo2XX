@@ -20,7 +20,7 @@ org/wiki/PC_game).
 
 The controllers can play different game categories, including [Rocket League](https://pestpolicy.com/[best](https://pestpolicy.com/best-joystick-for-elite-dangerous/)-controller-rocket-league/)and Elite Dangerous.
 
-##  Reviews: Top 7 Best Wireless PC Controller for 2025
+##  Reviews: Top 7 Best Wireless PC Controller for in 2026
 
 ###  [1. Microsoft Xbox 360 Wireless Controller](https://www.amazon.com/dp/B004QRKWKQ/?tag=p-policy-20)
 

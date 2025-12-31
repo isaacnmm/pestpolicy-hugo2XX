@@ -18,7 +18,7 @@ If you are a kid, a player with petite hands or a traveler wishing to play the [
 
 It has a shorter distance between nut and bridge (in the 22 inches - 24 inches). Frets are closer together like in the 1958s [Capri series](https://reverb.com/p/rickenbacker-360-capri-1958-1960).But, Just like in full-scale guitars, consider durability, sound quality, & reliability. Related: 7 Best Mics for Recording Acoustic Guitar
 
-##  Reviews: 7 Best Short Scale Electric Guitars 2025
+##  Reviews: 7 Best Short Scale Electric Guitars in 2026
 
 ###  [1. Fender Duo-Sonic Offset Electric Guitar - #1 Pick](https://www.amazon.com/dp/B01KWPTLQG/?tag=p-policy-20)
 

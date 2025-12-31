@@ -20,7 +20,7 @@ You should stain or paint your wood fence ( [with exterior decking stain](https:
 
 But you'll need about 2 to 4 gallons of stain to paint larger fences of a maximum of 700 square feet. But should you pressure wash your fence prior to painting? Well, YES, pressure-wash the fences to remove grime, dust, dirt, and old finish(es) as these may ultimately show through the stained surfaces.
 
-##  7 Best Pump Sprayers for Staining Fences in 2025
+##  7 Best Pump Sprayers for Staining Fences in 2026
 
 ###  [1. Graco-Ultra Max 17M367 Handheld or Cordless Airless Fence Paint Sprayer](https://www.amazon.com/dp/B072C4HZ9B/?tag=p-policy-20)
 

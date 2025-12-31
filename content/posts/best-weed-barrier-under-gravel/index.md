@@ -16,7 +16,7 @@ layout: post
 ---
 Are you looking for the [best](https://pestpolicy.com/best-acoustic-guitar-for-small-hands/)weed barrier under gravel? Well, Ive covered it all below. - Weeds will definitely spoil the fun and the beauty in your home, yard, or garden. In fact, weeds will compete aggressively with your garden grass for sunlight, nutrients, and water leading to weaker plants like lavender or strawberries.
 
-##  Barriers: 7 Best Weed Barrier under Gravel 2025
+##  Barriers: 7 Best Weed Barrier under Gravel in 2026
 
 ###  [1. Agfabric Woven Weed Barrier  Best for Under Gravel orRock](https://www.amazon.com/dp/B00ZU1Z2W0/?tag=p-policy-20)
 

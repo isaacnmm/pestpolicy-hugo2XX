@@ -18,7 +18,7 @@ If you're like most of us, you hate that dazzling sunlight entering through your
 
 Blackout curtains will help block harmful UV and sunlight rays or insulate against cold or heat in your Media/Gaming room, living room, or bedroom - [thorough research](https://www.washingtonpost.com/lifestyle/home/a-beginners-guide-to-window-treatments/2025/04/11/2301483a-1ae2-11e7-855e-4824bbb5d748_story.html?utm_term=.69120ed782d2).
 
-##  Reviews: Top 7 Best Blackout Curtains for 2025
+##  Reviews: Top 7 Best Blackout Curtains for in 2026
 
 ###  1. Deconovo Room Darkening Blackout [Curtain - Great for bedroom](https://www.amazon.com/dp/B06Y5CSSJY/?tag=p-policy-20)
 

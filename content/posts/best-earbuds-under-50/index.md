@@ -17,7 +17,7 @@ So, which are the best earbuds under 50? The importance of earbuds cannot be und
 
 The market has a lot to offer when it comes to earbuds. Technology evolution has seen the development of quality earbuds at very affordable prices. *Features to look out for? * Probably [noise-canceling](https://www.ncbi.nlm.nih.gov/pubmed/22712926),high audio signature, durable build, c omfortable fit, waterproof, in-built microphones, high-powered Audio.
 
-##  Reviews: 9 Best Earbuds Under 50 in 2025
+##  Reviews: 9 Best Earbuds Under 50 in 2026
 
 ###  1. JBL Live 100 In-Ear [Headphones/ EarBuds with In-Line -#1 Pick](https://www.amazon.com/dp/B07P5DQH2P/?tag=p-policy-20)
 

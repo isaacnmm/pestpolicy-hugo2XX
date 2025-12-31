@@ -21,7 +21,7 @@ Look out for signs of a flea infestation, and take measures to control them. Fle
 
 Related: [Flea Treatment for Cats](https://pestpolicy.com/[best](https://pestpolicy.com/best-dog-brush-for-short-hair-shedding/)-flea-treatment-for-cats/).
 
-##  Reviews:Top 9 Best Indoor Flea Killer in 2025
+##  Reviews:Top 9 Best Indoor Flea Killer in 2026
 
 ###  1. Wondercide Spray for Home (Indoors), Cats, Dogs
 

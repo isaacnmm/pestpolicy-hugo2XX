@@ -18,7 +18,7 @@ If you are looking forward to painting or turning your furniture into a golden d
 
 I have carefully gone through these paints and stains available and summarized the top qualities that I hope this is what you are looking for to give your wood that fantastic look. Below is a summarized list to guide you into making the best choice. See Also: staining pressure-treated wood.
 
-## Top 7 Best Gold Paint for Wood in 2025
+## Top 7 Best Gold Paint for Wood in 2026
 
 ###  [1. Jacquard Products 442392 Acrylic Paint, True Gold](https://www.amazon.com/dp/B001DKJES0/?tag=p-policy-20)
 

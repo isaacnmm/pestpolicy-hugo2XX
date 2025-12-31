@@ -19,7 +19,7 @@ Are you be looking for the best [ear](https://pestpolicy.com/best-medicine-for-e
 
 Ear mites (also called Otodectes cynotis mites) is a parasitic infection that is characterized by waxy/black discharge with foul smell. Ear mites mainly affects dogs ears causing irritations and discomfort. Proper medication against these infections is essential for your dogs healthy life. Let's get started!
 
-##  9 Best Ear Mite Medicine for Dogs 2025
+##  9 Best Ear Mite Medicine for Dogs in 2026
 
 ### 1. [ZYMOX Otic Dog Ear Treatment - Top Editor's Pick](https://www.amazon.com/dp/B0025YOJXS/?tag=p-policy-20)
 

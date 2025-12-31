@@ -18,7 +18,7 @@ With a suitable controller, it'll be much easier to do aerials and have favorabl
 
 From my five years of Rocket League, I recommend either the [Microsoft Xbox 360](https://www.amazon.com/dp/B004QRKWLA/?tag=p-policy-20)or [Steam controller](https://www.amazon.com/dp/B016KBVBCS/?tag=p-policy-20)is the controller (in fast auto racing combined with soccer) for beginners and professional gamers. Read Also: Controller for Steam Link
 
-##  Reviews: 7 Best Controller for Rocket League in 2025
+##  Reviews: 7 Best Controller for Rocket League in 2026
 
 ###  [1. Steam Controller for Great Precise Control - #1 Top Pick](https://www.amazon.com/dp/B016KBVBCS/?tag=p-policy-20)
 

@@ -18,7 +18,7 @@ Have you had a difficult time choosing an oil thinner for your oil paints? We're
 
 You must know how to mix the paints with the right medium - the paint in your tube could be very stiff and thus thinning it down will make it simpler to work with. So, for both noob oil painters or expert professionals, get yourself a great oil solvent - it'll act both as paint thinner while also speeding up the paint drying process. See Also: Sprayer for Interior Walls.
 
-## Top 7 Best Paint Thinner for Oil Painting in 2025
+## Top 7 Best Paint Thinner for Oil Painting in 2026
 
 ###  [1. Chelsea Lavender-Spike Classical-Studio Oil-Paint Thinner Essence](https://www.amazon.com/dp/B00N1EFQGK/?tag=p-policy-20)
 

@@ -20,7 +20,7 @@ Top-name companies that manufacture expensive [acoustic guitars](https://en.wiki
 
 These 2 models boast of excellent playability, exceptional build quality, and great musical tone.
 
-##  Reviews: Top 9 Best Acoustic Guitar Under 300 in 2025
+##  Reviews: Top 9 Best Acoustic Guitar Under 300 in 2026
 
 ###  [1.Yamaha FG800 Solid Top Acoustic Guitar - #1 Pick](https://www.amazon.com/dp/B01C92QHLC/?tag=p-policy-20)
 

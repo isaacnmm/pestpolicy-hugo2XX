@@ -19,7 +19,7 @@ To achieve better signal ranges and increased transmission speeds for your gamin
 
 org/wiki/I/O_virtualization), and an extensive error detection system (AER).
 
-##  Reviews: Best PCIE Wireless Card for Gaming 2025
+##  Reviews: Best PCIE Wireless Card for Gaming in 2026
 
 ###  [1. ASUS 4x4 - PCE-AC88 Wireless-AC3100 PCI-E Adapter](https://www.amazon.com/dp/B01H9QMOMY/?tag=p-policy-20)
 

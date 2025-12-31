@@ -20,7 +20,7 @@ Thebest paintbrush for [latex paint](https://www.woosterbrush.com/reviews-advice
 
 Latex paints will work best with p olyester brushes - they'll maintain their stiffness and shape - allowing an even and smooth surface painting.
 
-## Top 7 Best Paint Brushes for Latex Paint in 2025
+## Top 7 Best Paint Brushes for Latex Paint in 2026
 
 ###  [1. Wooster New ultra pro firm Lindbeck Paintbrush](https://www.amazon.com/dp/B01E0DYSLO/?tag=p-policy-20)
 

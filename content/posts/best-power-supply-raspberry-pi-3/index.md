@@ -17,7 +17,7 @@ layout: post
 ---
 You should know that many problems you experience with your [raspberry pi 3](https://www.raspberrypi.org/magpi/[raspberry-pi-3](https://pestpolicy.com/best-heatsink-for-raspberry-pi-3/)-specs-benchmarks/)are mainly due to using underpowered and low-quality supplies. - You'd thus require the Best power supply for raspberry pi 3. Many power supplies in the market lie about the specification and they experience a significant voltage drop.
 
-##  Reviews: 7 Best Power Supply for Raspberry Pi 3 in 2025
+##  Reviews: 7 Best Power Supply for Raspberry Pi 3 in 2026
 
 ###  [1. CanaKit 5V 2.5A Raspberry Pi 3 Power Supply Adapter](https://www.amazon.com/dp/B00MARDJZ4/?tag=p-policy-20)
 

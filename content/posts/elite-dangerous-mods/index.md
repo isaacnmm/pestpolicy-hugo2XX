@@ -18,7 +18,7 @@ I've learned how to make Elite Dangerous better with mods, apps, and tweaks. Fro
 
 **Well: ** I must state that most of the mods available are sound and visual such and HUD Recolour and edfx as they will not modify or affect gameplay. Check the Controller for Retropie.
 
-##  Reviews:7 Best Elite Dangerous Mods in 2025
+##  Reviews:7 Best Elite Dangerous Mods in 2026
 
 ###  **1. Voice Attack **
 

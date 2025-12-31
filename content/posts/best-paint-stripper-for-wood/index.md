@@ -20,7 +20,7 @@ Making the decision to remove old paint from wood can be a daunting task with th
 
 Depending on the scope of the project, consider comparing the prices of the available options to get the best bargain. Also, check these [paint strippers for metal](https://pestpolicy.com/best-paint-stripper-for-metal/).
 
-##  7 Best Paint Stripper for Wood in 2025
+##  7 Best Paint Stripper for Wood in 2026
 
 ###  [1. Dumond Smart 3301 Chemical Advanced Varnish & Paint Stripper](https://www.amazon.com/dp/B001F0KO2S/?tag=p-policy-20)
 

@@ -18,7 +18,7 @@ Your [Steam Link](https://www.amazon.com/dp/B016XBGWAQ/?tag=p-policy-20)will you
 
 *Sure, the keyboard-mouse combo, keyboard, and mouse. But did you ever consider a. gamepad? ? *
 
-##  Reviews: Top 7 Best Controller for Steam Link in 2025
+##  Reviews: Top 7 Best Controller for Steam Link in 2026
 
 ###  [1. Xbox One S Controller (chrome gold) with 3.5mm audio jack](https://www.amazon.com/dp/B076589BVQ/?tag=p-policy-20)
 

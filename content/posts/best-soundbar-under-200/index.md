@@ -20,7 +20,7 @@ Also, these soundbars will [wirelessly Bluetooth](http://large.stanford.edu/cour
 
 The soundbars may include HDMI input, remote control, optical connection (for TV hooking). These soundbars will improve the audio experience you get from your TVs - either 4K, HDR OLED, Vizio, or TCL since most don't have "good" built-in speakers - soundbars are worth every penny.
 
-##  Reviews: Top 7 Best [Soundbar](https://pestpolicy.com/best-soundbars-for-under-100/)Under 200 in 2025
+##  Reviews: Top 7 Best [Soundbar](https://pestpolicy.com/best-soundbars-for-under-100/)Under 200 in 2026
 
 ###  [1. Sony HT-MT300/B Soundbar + Wireless Sub-woofer - #1 Pick](https://www.amazon.com/dp/B01MRD7PCZ/?tag=p-policy-20)
 

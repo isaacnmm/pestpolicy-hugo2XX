@@ -18,7 +18,7 @@ Finding the [best](https://pestpolicy.com/best-hotas-joysticks/)joystick for eli
 
 org/wiki/Elite:_Dangerous)spaceship and conquer the E. D. galaxy.
 
-##  Reviews: 7Top 7 Best Joystick for Elite Dangerous 2025
+##  Reviews: 7Top 7 Best Joystick for Elite Dangerous in 2026
 
 ###  [1. Thrustmaster Hotas Warthog Stick and Throttle - #1 Pick](https://www.amazon.com/dp/B00CBVHJ00/?tag=p-policy-20)
 

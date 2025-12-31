@@ -18,7 +18,7 @@ Whats the [best](https://pestpolicy.com/best-acoustic-guitar-for-small-hands/)[b
 
 If you are a DIYer looking to refinish that aging deck in the backyard, you need the sander to achieve a clean look. What about the length and width of the sanding platform? If you are looking for more precision, the ideal pick should feature a shorter and narrower belt.
 
-##  Reviews: 7 Best Belt Sander for Deck in 2025
+##  Reviews: 7 Best Belt Sander for Deck in 2026
 
 Considering that decks tend to be expansive in length and width, the ideal belt sander should feature a long and wide belt to allow you to finish the job quicker.
 

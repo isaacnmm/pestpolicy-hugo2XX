@@ -21,7 +21,7 @@ Nevertheless, keeping your deck looking new is not a challenging endeavor if you
 
 Composite decks require you to obtain a cleaner with the capacity to perform below the surface by penetrating deep areas. See Also: Best Belt Sander for Deck.
 
-##  7 Best Deck Cleaner for Trex in 2025
+##  7 Best Deck Cleaner for Trex in 2026
 
 ###  [1. DEFY Composite Deck Cleaner (2.25 LB) Container for Trex - #1 Pick](https://www.amazon.com/dp/B00BW8H476/?tag=p-policy-20)
 

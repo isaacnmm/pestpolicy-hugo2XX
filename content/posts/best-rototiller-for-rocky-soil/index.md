@@ -18,7 +18,7 @@ Gardening used to be back-breaking, especially if it involved a hoe and a shovel
 
 Many outdoor companies are coming up with rototillers capable of tilling any ground, [including rocky terrain](https://books.google.com/books?hl=en&lr=&id=K7sdCwAAQBAJ&oi=fnd&pg=PR4&dq=Rototiller+for+Rocky+Soil&ots=dJEVsA0i3w&sig=g-d9s3QAXe88WKQTruOwW131aqw).We carefully researched and came up with a list of rototillers and their features that will help you overcome this problem.
 
-##  Rototillers: 9 Best Rototiller for Rocky Soil 2025
+##  Rototillers: 9 Best Rototiller for Rocky Soil in 2026
 
 ###  [1. Sun Joe TJ603E 16-Inch 12-Amp Electric Tiller and Cultivator](https://www.amazon.com/dp/B00V6IEVXM/?tag=p-policy-20)
 

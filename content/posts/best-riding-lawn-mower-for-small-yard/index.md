@@ -18,7 +18,7 @@ Most riding lawn [mowers](https://pestpolicy.com/best-riding-lawn-mower-for-2-ac
 
 With a great riding mower, over the spring season, you can control pests in your small yard and improve its soil condition, keep it's well-manicured and prevent it from appearing overgrown!
 
-##  Mowers: 7 Best Riding Lawn Mower for Small Yard 2025
+##  Mowers: 7 Best Riding Lawn Mower for Small Yard in 2026
 
 ###  [1. Troy-Bilt Intek 540ccRiding Lawn Mower for Hills](https://www.amazon.com/dp/B00MOT0FNW/?tag=p-policy-20)
 

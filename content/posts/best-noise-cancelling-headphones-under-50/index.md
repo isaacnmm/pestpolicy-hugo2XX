@@ -17,7 +17,7 @@ layout: post
 ---
 If you're looking for the best noise canceling [headphones](https://en.wikipedia.org/wiki/Noise-cancelling_headphones)under 50, you're in the right place! You'll love the quiet and relaxed environment away from the constant ambient noises that could otherwise and sadly increase your stress levels. These quality headphones will come in handle for reducing or completing blocking noises while you're traveling on the road or in an airplane.
 
-##  7 Best Noise Cancelling Headphones Under 50 in 2025
+##  7 Best Noise Cancelling Headphones Under 50 in 2026
 
 ###  [1. Sony MDRZX110NC Medium Noise-Cancelling Headphones](https://www.amazon.com/dp/B00NWYGZO6/?tag=p-policy-20)
 

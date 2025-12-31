@@ -18,7 +18,7 @@ Well, I know that choosing a good pregnancy recliner and Nursery is a daunting t
 
 Despite that you could already be using proper posture, I recommend [Belleze Black Leather Recliner](https://www.amazon.com/dp/B0731QHV1V/?tag=p-policy-20)or [Flash Furniture Rocker](https://www.amazon.com/dp/B01BKB9YCW/?tag=p-policy-20)to give you extra pillow support and padding to ease your back and neck pain.
 
-##  Reviews: 7 Best Recliners for Pregnancy in 2025
+##  Reviews: 7 Best Recliners for Pregnancy in 2026
 
 ###  [1. Christopher-Knight Mervynn Modern-Fabric [Recliner](https://pestpolicy.com/best-recliners-for-sleeping/),Cream](https://www.amazon.com/dp/B072HCFWRT/?tag=p-policy-20)
 

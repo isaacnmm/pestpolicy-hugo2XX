@@ -20,7 +20,7 @@ Are you searching for the best [mole](https://pestpolicy.com/why-are-mole-traps-
 
 Well, these pesky creatures are never useful to anyone. In this review, I'll show you why mole traps are the best remedies for eradicating moles. Let's get started! Related: Do Moles Have Eyes?
 
-##  Reviews: Top 9 Best Mole Traps in 2025
+##  Reviews: Top 9 Best Mole Traps in 2026
 
 ###  [1. Tomcat Mole [Trap](https://pestpolicy.com/best-fly-trap/):hands-free, effective, and Innovative](https://www.amazon.com/dp/B0043FHXVM/?tag=p-policy-20)
 

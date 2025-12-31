@@ -18,7 +18,7 @@ With the many shoe brands on the market today, it can be tricky to choose good [
 
 To avoid Corns, Nail problems, Athlete's foot ( [study](https://www.sciencedirect.com/science/article/pii/S0003999317302629)), Collapsed arches and Back pain, and Joint pain - get shoes that are well-cushioned, give arch support, and have flexibility.
 
-##  Reviews: 7 Best Walking Shoes for Lower Back Pain in 2025
+##  Reviews: 7 Best Walking Shoes for Lower Back Pain in 2026
 
 ###  [1. Vionic Womens Walker Classic Shoes](https://www.amazon.com/dp/B0059CZMTI/?tag=p-policy-20)
 

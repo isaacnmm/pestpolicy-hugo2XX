@@ -20,7 +20,7 @@ But any [point and shoot camera](https://en.wikipedia.org/wiki/Point-and-shoot_c
 
 Summary: I recommend [Sony DSC-HX9V](https://www.amazon.com/dp/B004HYFX0C/?tag=p-policy-20)or [Sony DSCW800/B 20. 1 MP](https://www.amazon.com/dp/B00I8BIBCW/?tag=p-policy-20)as the best point and shoot camera under 100.
 
-##  Reviews: 7 Best Point and Shoot Camera Under 100 in 2025
+##  Reviews: 7 Best Point and Shoot Camera Under 100 in 2026
 
 ###  **1. Sony Cyber-shot DSC-HX9V 16.2 MP Exmor R CMOS Camera - #1 Pick**
 

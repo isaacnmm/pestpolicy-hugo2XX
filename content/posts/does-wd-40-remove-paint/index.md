@@ -125,7 +125,7 @@ More so, this solvent has deep penetrant action that works for think paint layer
 
 The compound features active ingredients such as petroleum-based paraffin, aliphatic hydrocarbon (which is similar to kerosene), carbon Dioxide, and aliphatic hydrocarbons that are formulated to break down the paint layer instantly upon application.
 
-###  4. Griot's Garage 10948
+###  4. Griot's Garage 1in 2026
 
 Griots is a top-quality paint and rust removal that works perfectly for car bodies and other automobile parts. The product features a unique chemic formulation that acts instantly upon application. Moreover, Griots is safe and acid-free (PH-balanced). It can be used on the following surfaces painted walls, car rims, glass, chrome, laminated paper, and Stainless Steel trim.
 

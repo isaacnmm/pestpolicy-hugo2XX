@@ -17,7 +17,7 @@ I've reviewed the best tiller for roots - including for chopping roots, weeds, o
 
 For small land, you can use manual tillers but motorized tillers- like the [PTO tillers](https://pestpolicy.com/best-pto-[tiller](https://pestpolicy.com/best-tiller-for-breaking-new-ground/)-for-the-money/),are more appropriate for cultivating a more extensive garden, vegetable garden, or lawn. Read Also: Pole Digger for Rocky Soil.
 
-##  Root Tillers: 7 Best Tiller for Roots in 2025
+##  Root Tillers: 7 Best Tiller for Roots in 2026
 
 ###  [1. Sun-Joe TJ604E 13.5-AMP 16-Inches Electric Garden Cultivator or Tiller](https://www.amazon.com/dp/B01DTIC79Q/?tag=p-policy-20)
 

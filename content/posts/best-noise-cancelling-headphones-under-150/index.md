@@ -18,7 +18,7 @@ What're the best noise-canceling headphones under 150? If you work in a busy off
 
 While these headphones have a reputation for being premium-priced, you don't have to overspend on a decent pair. Check these music production mac computers. [Noise](https://pestpolicy.com/best-noise-cancelling-headphones-under-100/)-cancelingheadphones feature integrated circuitry capable of countering external sound by producing a sound wave that is out of sync to cancel incoming sounds, resulting in more explicit music.
 
-##  Reviews: 7 Best Noise Cancelling Headphones Under 150 in 2025
+##  Reviews: 7 Best Noise Cancelling Headphones Under 150 in 2026
 
 ###  [1. JBL E65BTNC lifestyle Noise-Canceling Headsets - #1 Pick](https://www.amazon.com/dp/B076F9GD92/?tag=p-policy-20)
 

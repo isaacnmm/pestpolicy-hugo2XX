@@ -18,7 +18,7 @@ Regular gamepads will be amazing for racers while the keyboard-mouse combination
 
 Its no secret that a controller cannot give you the amazing gaming experience that a flexible joystick coupled with accurate throttling offers. Read Also: Quality SD card for Raspberry Pi 3.
 
-##  Reviews: Top 7 Best Hotas Joysticks in 2025
+##  Reviews: Top 7 Best Hotas Joysticks in 2026
 
 ###  [1. Thrustmaster HOTAS Warthog Joystick - Best for Flight Simulator X](https://www.amazon.com/dp/B00CBVHJ00/?tag=p-policy-20)
 

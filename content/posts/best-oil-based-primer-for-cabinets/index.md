@@ -22,7 +22,7 @@ The primer prevents tannin-bleeding through paint on cabinets made from woods li
 
 You can use the primers (with hardened Enamel) on woodwork, metal, windows, and doors.
 
-## Top 7 Best Oil Based Primer for Cabinets in 2025
+## Top 7 Best Oil Based Primer for Cabinets in 2026
 
 ###  [1. KILZ High-Hide Premium Sealer, Latex Primer & Interior Stain Blocker](https://www.amazon.com/dp/B0002YOZZU/?tag=p-policy-20)
 

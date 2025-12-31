@@ -17,7 +17,7 @@ Intel recently launched the 6th gen processors, one of which was the Core i7-670
 
 It has an Intel HD 530 that is clocked at some 1, 150 MHz.
 
-##  Reviews: Top 7 Best Motherboard for i7 6700 in 2025
+##  Reviews: Top 7 Best Motherboard for i7 6700 in 2026
 
 ###  [1. ASUS PRIME Z270-P LGA1151 DDR4 - #1 Pick](https://www.amazon.com/dp/B01NAGY3C8/?tag=p-policy-20)
 

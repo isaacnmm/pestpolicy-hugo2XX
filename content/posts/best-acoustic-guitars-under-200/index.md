@@ -18,7 +18,7 @@ A review of the best acoustic guitars under 200 suggests that there is something
 
 Whether you are a beginner, intermediate or expert guitarist looking for an entry-level or a reasonably priced guitar, our featured list will cater to all your needs. This great looking guitar embodies excellent features and bold sound output, giving you great value for money. Read Also: Acoustic Guitars for Country Music-for-country-music/).
 
-##  Reviews: 7 Best Acoustic Guitars Under 200 in 2025
+##  Reviews: 7 Best Acoustic Guitars Under 200 in 2026
 
 ###  1. JasmineS-35 Dreadnought Acoustic [Guitar](https://www.amazon.com/dp/B0002F58TG/?tag=p-policy-20)
 

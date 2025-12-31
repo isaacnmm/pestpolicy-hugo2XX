@@ -18,7 +18,7 @@ The best paint sprayer for doors will help new home completion or re-modeling to
 
 With the right tools and excellent DIY skills, you can spray the doors fast without hiring professional painters. But the paint must be washable and durable. But for the interior doors, you must use self-leveling paint - with quality sprayers. This allows excellent painting laying out and thus results in a smooth finish after drying.
 
-## Top 7 Best Paint Sprayer for Doors in 2025
+## Top 7 Best Paint Sprayer for Doors in 2026
 
 ###  [1. Wagner-Spraytech 0518080 HVLP Stain & Paint Sprayer](https://www.amazon.com/dp/B003PGQI48/?tag=p-policy-20)
 

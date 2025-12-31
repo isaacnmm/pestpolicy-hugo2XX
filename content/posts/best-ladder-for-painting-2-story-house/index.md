@@ -18,7 +18,7 @@ Whats the best [ladder](https://pestpolicy.com/best-folding-ladders-for-painters
 
 Ladders are designed with various features that call for keen selection to suit the job at hand. Perhaps youre stuck and wonders which ladder would fit your house-painting task without hassle among many brands in the current market. See Also: Heres how to stain a deck.
 
-##  7 Best Ladder for Painting 2 Story House 2025
+##  7 Best Ladder for Painting 2 Story House in 2026
 
 ###  [1. TOPRUNG Model-17 with Aluminum Extension - #1 Pick](https://www.amazon.com/dp/B06XVV4TV3/?tag=p-policy-20)
 

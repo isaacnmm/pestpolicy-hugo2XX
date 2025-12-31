@@ -18,7 +18,7 @@ This is the ultimate tool for performing heavy-duty tasks for gardeners and land
 
 The Best Pole Digger for [Rocky](https://pestpolicy.com/best-rototiller-for-rocky-soil/)Soil is a must-have tool for digging into the earth and loosening the soil with that ultimate power and precision - just like tillers for small gardens.
 
-##  Run Down: 9 Best Pole Digger for Rocky Soil 2025
+##  Run Down: 9 Best Pole Digger for Rocky Soil in 2026
 
 ###  [1. Landworks Heavy Duty Eco-Friendly Electric Cordless Auger](https://www.amazon.com/dp/B078HB9QR6/?tag=p-policy-20)
 

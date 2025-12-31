@@ -20,7 +20,7 @@ Remember that if you supinate or under pronate (rolling motion of the feet durin
 
 Ensure you pick the correct pair of shoes to protect yourself from serious and painful conditions.
 
-##  Review: 7 Best Shoes for Supination and Plantar Fasciitis 2025
+##  Review: 7 Best Shoes for Supination and Plantar Fasciitis in 2026
 
 ###  [1. ASICS Women's GEL-Nimbus 20 Running Shoe](https://www.amazon.com/dp/B078TC2LWC/?tag=p-policy-20)-Supination and Plantar Fasciitis Shoes
 

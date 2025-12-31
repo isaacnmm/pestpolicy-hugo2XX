@@ -18,7 +18,7 @@ Whether you are a DIYer or an experienced contractor, using eye and face protect
 
 So, I've compiled a list of the best safety glasses for spray painting - to use with your cordless paint [sprayers](https://pestpolicy.com/[best](https://pestpolicy.com/best-airless-paint-sprayer/)-cordless-paint-sprayers/).Whether the task calls for simple eye protection to prevent dust during surface preparation or splash goggles to safeguard you against toxic solvents including stain for swing set.
 
-## Top 7 Best Safety Glasses for Spray Painting in 2025
+## Top 7 Best Safety Glasses for Spray Painting in 2026
 
 ###  [1. DPG59 130C Reinforcer RX Bi-Focal](https://www.amazon.com/dp/B000646VG2/?tag=p-policy-20)
 

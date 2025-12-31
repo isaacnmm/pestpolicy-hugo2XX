@@ -19,7 +19,7 @@ The best [spray](https://pestpolicy.com/best-spray-paint-for-glass/)paints for [
 
 It'll easily revamp your house and yard chairs to gain or train a bold color. Check this guide on [how to paint plastic](https://pestpolicy.com/how-to-paint-plastic/).Spray paints for your plastic must be designed to adhere to different plastics like Rust-Oleum effectively.
 
-## 7 Best Spray Paints for Plastic in 2025
+## 7 Best Spray Paints for Plastic in 2026
 
 ###  [1. Rust-Oleum 267116 Painter's Touch Ultra Cover](https://www.amazon.com/dp/B00BOUH67K/?tag=p-policy-20)
 

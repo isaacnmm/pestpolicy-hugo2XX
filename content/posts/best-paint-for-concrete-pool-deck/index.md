@@ -19,7 +19,7 @@ Sprucing up your [concrete](https://pestpolicy.com/best-paint-for-a-concrete-dri
 
 Applying concrete paint not only disguises cracks, bubbling, and fading of the pool deck, but it also improves its durability - including on your weathered or slippery deck. Our review of the best paint for concrete pool deckcaters to your different needs, whether you are painting a new deck or looking to give your old pool deck a facelift.
 
-## Top 7 Best Paint for Concrete Pool Deck in 2025
+## Top 7 Best Paint for Concrete Pool Deck in 2026
 
 ###  [1. In the Swim 1 gal. Patio and Deck paint - Non-Slip Finish and Durable Concrete Restoration](https://www.amazon.com/dp/B002WKJ83Q/?tag=p-policy-20)
 

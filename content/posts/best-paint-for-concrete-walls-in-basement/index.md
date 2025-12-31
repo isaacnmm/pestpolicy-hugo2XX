@@ -20,7 +20,7 @@ Although painting concrete in basement walls can be an arduous undertaking, havi
 
 The following is our comprehensive review of the seven best paint for concrete walls in the basement.
 
-## 7 Best Paint for Concrete Walls in Basement 2025
+## 7 Best Paint for Concrete Walls in Basement in 2026
 
 ###  [1. Rust-Oleum 203008 Basement Floor Kit, Tan](https://www.amazon.com/dp/B000LNS3WS/?tag=p-policy-20)
 

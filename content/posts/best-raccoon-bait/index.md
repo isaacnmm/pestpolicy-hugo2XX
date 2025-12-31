@@ -20,7 +20,7 @@ Looking for the best [raccoon](https://pestpolicy.com/best-raccoon-traps/)bait? 
 
 If theres a wild animal that will courageously venture into your property, then it is a raccoon. Their masked faces and piercing stare is terrifying to some people. Others, however, find them adorable. Until they start knocking over garbage all over the backyard, stealing your fruits and vegetables, and nibbling on wooden fixtures. Related: how to trap raccoons.
 
-##  Reviews: Top 7 Best Raccoon Bait for 2025
+##  Reviews: Top 7 Best Raccoon Bait for in 2026
 
 ###  [1. Coon Gitter Dog-proof Bait for Dp - #1 Pick](https://www.amazon.com/dp/B01J81MQOY/?tag=p-policy-20)
 

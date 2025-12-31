@@ -21,7 +21,7 @@ When choosing interior paints, consider factors such as stickiness strength, wat
 
 You may use most of the concrete paints available in the market for outdoor surfaces, but ensure that your [interior paints](https://pestpolicy.com/[best](https://pestpolicy.com/best-acrylic-paint-for-pouring/)-paint-sprayer-for-interior-walls/)are safe for indoor use. Get paints that are non-peeling and resistant to mold/humid conditions.
 
-## Top 7 Best White Paints for Interior Walls in 2025
+## Top 7 Best White Paints for Interior Walls in 2026
 
 ###  [1. INSL-X -01 WaterBlock Acrylic Masonry Waterproofer](https://www.amazon.com/dp/B07KXN7XSY/?tag=p-policy-20)
 

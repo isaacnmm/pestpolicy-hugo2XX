@@ -21,7 +21,7 @@ Or make it even worse and specify whether the digital delay or analog delay is t
 
 The delay pedals for guitar, particularly those for different budgets and tastes. It has three knobs: DELAY, MIX, and REGEN (controlling delay or repeats, delay level, and toggles modulation respectively). However, MXR M169 Carbon Copy will not work for all guitar players. For example, some players could want a more crisp and clear tone that only the digital de can produce. Read Also: Acoustic Guitar Under 500.
 
-##  Reviews: 7 Best Delay Pedals for Guitar in 2025
+##  Reviews: 7 Best Delay Pedals for Guitar in 2026
 
 ###  [1. MXR M169 Carbon Copy Analog Delay (600ms Delay) - #1 Pick](https://www.amazon.com/dp/B0016ZZKJO/?tag=p-policy-20)
 

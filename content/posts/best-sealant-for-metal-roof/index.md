@@ -18,7 +18,7 @@ What's the best sealant for metal roof? If you intend to achieve a perfect finis
 
 Alternatively, your metal roof may be leaking, and this may worry you about how to go about it. Often, people find themselves entangled among conflicting options available in the market and, at times, end up choosing the wrong sealant. Indeed, it becomes very complicated and expensive if you think of replacing the entire leaking roof. So, let's get started.
 
-##  Top 7 Best Sealant for Metal Roof in in 2025
+##  Top 7 Best Sealant for Metal Roof in in 2026
 
 ###  [1. Liquid Rubber Color Waterproof Sealant - #1 Pick](https://www.amazon.com/dp/B07ZC8GJ5J/?tag=p-policy-20)
 
