@@ -1,5 +1,5 @@
 ---
-title: Best Lawn Weed Killer
+title: 7 Best Lawn Weed Killer in 2026
 description: A lush, green lawn is often considered the hallmark of a well-maintained
   home. However, the relentless invasion of weeds can quickly turn that vision into
   a...

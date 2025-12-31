@@ -1,5 +1,5 @@
 ---
-title: Best Medicine for Ear Mites in Cats
+title: 7 Best Medicine for Ear Mites in Cats in 2026
 description: Cats who spend most of the time outdoors are more likely to get ear mites.
   They can cause ear infections to your cat besides injuries sustained from...
 slug: best-medicine-for-ear-mites-in-cats

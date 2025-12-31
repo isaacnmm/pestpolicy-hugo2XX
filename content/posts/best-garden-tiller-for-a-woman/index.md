@@ -1,5 +1,5 @@
 ---
-title: Best Garden Tiller for a Woman
+title: 7 Best Garden Tiller for a Woman in 2026
 description: Garden tillers make land preparation easy , efficient and less tiresome.
   However, not all garden tillers are ideal for use by women gardeners. Since women...
 slug: best-garden-tiller-for-a-woman

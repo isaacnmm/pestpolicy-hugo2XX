@@ -1,5 +1,5 @@
 ---
-title: Best Ergonomic Sofa
+title: 7 Best Ergonomic Sofa in 2026
 description: The best Ergonomic Sofa is designed to adapt to your biomechanics' movements
   while you are working in office spaces, lounge, or living room.
 slug: best-ergonomic-sofa

@@ -1,5 +1,5 @@
 ---
-title: Best Grass for High Traffic
+title: 7 Best Grass for High Traffic in 2026
 description: A beautiful, verdant lawn is often the centerpiece of a home's outdoor
   space, but for many, it's also a highly utilized area.
 slug: best-grass-for-high-traffic

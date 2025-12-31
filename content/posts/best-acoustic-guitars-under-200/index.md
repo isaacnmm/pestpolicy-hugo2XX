@@ -1,5 +1,5 @@
 ---
-title: Best Acoustic Guitars Under 200
+title: 7 Best Acoustic Guitars Under 200 in 2026
 description: A review of the best acoustic guitars under 200 suggests that there is
   something for everyone depending on your budget and personal preferences
 slug: best-acoustic-guitars-under-200

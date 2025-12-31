@@ -1,5 +1,5 @@
 ---
-title: Best Grub Killer for Lawns
+title: 7 Best Grub Killer for Lawns in 2026
 description: Are you looking for thebest grub killer for lawns? Grubs in the garden
   can be a real pain.However, it is a widespread problem.
 slug: best-grub-killer-for-lawns

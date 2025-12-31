@@ -1,5 +1,5 @@
 ---
-title: Best Spray Paints for Graffiti
+title: 7 Best Spray Paints for Graffiti in 2026
 description: If youre looking for the best spray paints for graffiti, youre just in
   time for a great surprise. The paint must be true-to-color and with high staying
   power...

@@ -1,5 +1,5 @@
 ---
-title: Best Cross Training Shoes for Bad Knees
+title: 7 Best Cross Training Shoes for Bad Knees in 2026
 description: If you wish to engage in cross-training activities but have bad knees,
   you need to invest incorrect footwear.
 slug: best-cross-training-shoes-for-bad-knees

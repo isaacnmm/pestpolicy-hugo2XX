@@ -1,5 +1,5 @@
 ---
-title: Best Paint for a Concrete Driveway
+title: 7 Best Paint for a Concrete Driveway in 2026
 description: Whats the best paint for a concrete driveway? An unpainted concrete driveway
   leaves you with drab grey color and an unappealing look. Your driveway is the...
 slug: best-paint-for-a-concrete-driveway

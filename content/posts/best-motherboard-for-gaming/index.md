@@ -1,5 +1,5 @@
 ---
-title: Best Motherboard for Gaming
+title: 7 Best Motherboard for Gaming in 2026
 description: The best motherboard for gaming is truly the unrecognized hero in PC
   gaming.
 slug: best-motherboard-for-gaming

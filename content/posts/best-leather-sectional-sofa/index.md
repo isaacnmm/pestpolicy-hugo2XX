@@ -1,5 +1,5 @@
 ---
-title: Best Leather Sectional Sofa
+title: 7 Best Leather Sectional Sofa in 2026
 description: Are you searching the internet for the best leather sectional sofa? Well,
   a leather sectional sofa is an excellent masterpiece office of living room addition...
 slug: best-leather-sectional-sofa

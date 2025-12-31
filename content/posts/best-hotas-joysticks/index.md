@@ -1,5 +1,5 @@
 ---
-title: Best Hotas Joysticks
+title: 7 Best Hotas Joysticks in 2026
 description: Regular gamepads will be amazing for racers while the keyboard-mouse
   combination is snappy in-flight games, you'll enjoy acquiring the Best Hotas Joysticks...
 slug: best-hotas-joysticks

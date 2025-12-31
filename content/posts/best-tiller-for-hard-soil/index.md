@@ -1,5 +1,5 @@
 ---
-title: Best Tiller for Hard Soil
+title: 7 Best Tiller for Hard Soil in 2026
 description: Breaking new ground or tilling hard soil in your garden requires the
   right tools to make your work easier and perfect. Thats where a powered tiller comes
   in....

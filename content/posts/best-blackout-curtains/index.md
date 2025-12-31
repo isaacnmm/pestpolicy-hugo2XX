@@ -1,5 +1,5 @@
 ---
-title: Best Blackout Curtains
+title: 7 Best Blackout Curtains in 2026
 description: If you're like most of us, you hate that dazzling sunlight entering through
   your window or door during the lazy mornings.
 slug: best-blackout-curtains

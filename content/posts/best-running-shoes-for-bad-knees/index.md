@@ -1,5 +1,5 @@
 ---
-title: Best Running Shoes for Bad Knees
+title: 7 Best Running Shoes for Bad Knees in 2026
 description: Are you looking for thebest running shoes for bad kneesor knee pain ?
   Knee pain can be a real challenge to runners. It can negatively impact their workouts,...
 slug: best-running-shoes-for-bad-knees

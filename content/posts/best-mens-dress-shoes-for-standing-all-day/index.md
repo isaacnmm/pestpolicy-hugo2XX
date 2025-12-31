@@ -1,5 +1,5 @@
 ---
-title: Best Mens Dress Shoes for Standing All Day
+title: 7 Best Mens Dress Shoes for Standing All Day in 2026
 description: If your job involves standing all day, you need comfortable and supportive
   footwear to take you through the day. Hence, in this article, I present Best Men's...
 slug: best-mens-dress-shoes-for-standing-all-day

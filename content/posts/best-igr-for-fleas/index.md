@@ -1,5 +1,5 @@
 ---
-title: Best Igr for Fleas
+title: 7 Best Igr for Fleas in 2026
 description: When choosing the best IGR Insect Growth Regulator for fleas, you can
   consider things like effectiveness, safety, ease of use, and the specific environment...
 slug: best-igr-for-fleas

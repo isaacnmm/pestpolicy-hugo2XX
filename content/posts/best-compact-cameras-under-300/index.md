@@ -1,5 +1,5 @@
 ---
-title: Best Compact Cameras Under 300
+title: 7 Best Compact Cameras Under 300 in 2026
 description: In this post, Ive reviewed the best compact cameras under 300. Granted,
   its the end of summer and you need to take great shots of your kids. Maybe 7 years...
 slug: best-compact-cameras-under-300

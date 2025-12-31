@@ -1,5 +1,5 @@
 ---
-title: Best Spray for Sand Fleas
+title: 7 Best Spray for Sand Fleas in 2026
 description: When choosing the best spray for sand fleas, you can consider factors
   like effectiveness, safety, ease of use, and duration of protection. These key factors...
 slug: best-spray-for-sand-fleas

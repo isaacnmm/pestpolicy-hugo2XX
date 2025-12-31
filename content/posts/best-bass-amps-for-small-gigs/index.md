@@ -1,5 +1,5 @@
 ---
-title: Best Bass Amps for Small Gigs
+title: 7 Best Bass Amps for Small Gigs in 2026
 description: Focusing on the best bass amps for small gigs would be a brilliant move
   towards improving your daily entertainment activities. Typically, you need to have
   an...

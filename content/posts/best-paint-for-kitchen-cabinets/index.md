@@ -1,5 +1,5 @@
 ---
-title: Best Paint for Kitchen Cabinets
+title: 7 Best Paint for Kitchen Cabinets in 2026
 description: By reading this article on the best paint for cabinets, you will not
   only acquire in-depth knowledge on the best cabinet paint, but you will also be
   able to...

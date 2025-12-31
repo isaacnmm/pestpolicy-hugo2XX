@@ -1,5 +1,5 @@
 ---
-title: Best Paint Brushes for Edging
+title: 7 Best Paint Brushes for Edging in 2026
 description: As a painter, you must have experienced some of the common challenges
   associated with painting edges. Did you know that such problems usually arise because
   of...

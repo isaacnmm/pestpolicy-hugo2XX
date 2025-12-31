@@ -1,5 +1,5 @@
 ---
-title: Best Shoes for Surgical Techs
+title: 7 Best Shoes for Surgical Techs in 2026
 description: Today Ill review the Best Shoes for Surgical Techs. Surgical Techs are
   always on their feet for long hours at the operating room OR providing surgical
   care...

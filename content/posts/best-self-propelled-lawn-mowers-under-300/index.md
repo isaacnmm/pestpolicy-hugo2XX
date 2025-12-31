@@ -1,5 +1,5 @@
 ---
-title: Best Self Propelled Lawn Mowers Under 300
+title: 7 Best Self Propelled Lawn Mowers Under 300 in 2026
 description: Lawn care doesnt have to be an endeavour that blows your budget or breaks
   your bank with the advent of the best self propelled mower under 300. If you own
   a...

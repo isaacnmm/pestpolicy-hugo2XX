@@ -1,5 +1,5 @@
 ---
-title: Best Mosquito Yard Spray
+title: 7 Best Mosquito Yard Spray in 2026
 description: So, which are the best mosquito yard sprays? Mosquito infestation will
   deny you the peaceful moments on your beautifully maintained yard or lawn. These
   bugs...

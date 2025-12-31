@@ -1,5 +1,5 @@
 ---
-title: Best Flea Collars for Dogs
+title: 7 Best Flea Collars for Dogs in 2026
 description: Flea collars are a popular and effective way to protect your dog from
   fleas and ticks. These collars offer a long-lasting solution for flea control, providing...
 slug: best-flea-collars-for-dogs

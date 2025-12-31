@@ -1,5 +1,5 @@
 ---
-title: Best Acoustic Guitar for Small Hands
+title: 7 Best Acoustic Guitar for Small Hands in 2026
 description: Guitar players will have different body physiques like big or small arms,
   hands, height, shoulders, and backs. Regardless, you'll need a great device for...
 slug: best-acoustic-guitar-for-small-hands

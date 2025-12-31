@@ -1,5 +1,5 @@
 ---
-title: Best Fire Ant Killer for Lawns
+title: 7 Best Fire Ant Killer for Lawns in 2026
 description: When choosing the best fire ant killer for lawns, you can consider factors
   like effectiveness, safety, application method, and environmental impact.
 slug: best-fire-ant-killer-for-lawns

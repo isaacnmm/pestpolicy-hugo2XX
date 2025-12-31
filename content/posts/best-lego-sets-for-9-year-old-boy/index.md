@@ -1,5 +1,5 @@
 ---
-title: Best Lego Sets for 9 Year Old Boy
+title: 7 Best Lego Sets for 9 Year Old Boy in 2026
 description: Today I present a superb compilation of the Best Lego Sets for 9 Year
   Old Boy. I have included various types of mind-blowing sets to keep your little
   one...

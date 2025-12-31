@@ -1,5 +1,5 @@
 ---
-title: Best Acrylic Paint for Pouring
+title: 7 Best Acrylic Paint for Pouring in 2026
 description: If you're looking for the best acrylic paint for pouring, you have to
   choose between different paint textures and brands
 slug: best-acrylic-paint-for-pouring

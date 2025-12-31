@@ -1,5 +1,5 @@
 ---
-title: Best Flowers for Flourishing Fall Garden
+title: 7 Best Flowers for Flourishing Fall Garden in 2026
 description: As the long, sun-drenched days of summer begin to wane, many gardens
   start to show signs of fatigue. The dazzling displays of peak season annuals and...
 slug: best-flowers-for-flourishing-fall-garden

@@ -1,5 +1,5 @@
 ---
-title: Best Reclining Sectional Sofas
+title: 7 Best Reclining Sectional Sofas in 2026
 description: I am sure you love sectional sofas. How about getting the best reclining
   sectional sofas?
 slug: best-reclining-sectional-sofas

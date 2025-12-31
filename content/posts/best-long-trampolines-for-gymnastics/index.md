@@ -1,5 +1,5 @@
 ---
-title: Best Long Trampolines for Gymnastics
+title: 7 Best Long Trampolines for Gymnastics in 2026
 description: If you or your child aspires to be the next Rosie MacLennan , you need
   to invest in the Best Long Trampolines for Gymnastics.
 slug: best-long-trampolines-for-gymnastics

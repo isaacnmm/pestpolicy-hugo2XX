@@ -1,5 +1,5 @@
 ---
-title: Best Outdoor Rocking Chairs
+title: 7 Best Outdoor Rocking Chairs in 2026
 description: Let me guess!At one time, you needed to relax on your outdoor porch but
   lacked comfortable sitting furniture.
 slug: best-outdoor-rocking-chairs

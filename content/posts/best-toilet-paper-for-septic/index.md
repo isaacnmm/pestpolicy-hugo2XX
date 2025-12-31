@@ -1,5 +1,5 @@
 ---
-title: Best Toilet Paper for Septic
+title: 7 Best Toilet Paper for Septic in 2026
 description: Some toilet papers are low quality, non-biodegradable, and may end up
   clogging your toiletsdrains or even block the sewer and septic system.
 slug: best-toilet-paper-for-septic

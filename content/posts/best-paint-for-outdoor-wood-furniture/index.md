@@ -1,5 +1,5 @@
 ---
-title: Best Paint for Outdoor Wood Furniture
+title: 7 Best Paint for Outdoor Wood Furniture in 2026
 description: The best paint for outdoor wood furniture and outdoor deckscan be sprayed
   using your deck stain sprayer
 slug: best-paint-for-outdoor-wood-furniture

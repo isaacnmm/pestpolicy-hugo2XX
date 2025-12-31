@@ -1,5 +1,5 @@
 ---
-title: Best Shoes for Cardio Dance
+title: 7 Best Shoes for Cardio Dance in 2026
 description: Cardio Dance is a fun and enjoyable way to engage in a full-body workout.
   However, youll need to invest in Best Shoes for Cardio Dance because of the endless...
 slug: best-shoes-for-cardio-dance

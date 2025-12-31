@@ -1,5 +1,5 @@
 ---
-title: Best Shoes for Bunions and Plantar Fasciitis
+title: 7 Best Shoes for Bunions and Plantar Fasciitis in 2026
 description: Dont let Bunions and Plantar Fasciitis discourage you from doing what
   you love most. Investing in some of the Best Shoes for Bunions and Plantar Fasciitis...
 slug: best-shoes-for-bunions-and-plantar-fasciitis

@@ -1,5 +1,5 @@
 ---
-title: Best Flea Shampoos for Dogs
+title: 7 Best Flea Shampoos for Dogs in 2026
 description: Fleas are more than just a nuisance
 slug: best-flea-shampoos-for-dogs
 date: 2025-08-15T15:16:55+03:00

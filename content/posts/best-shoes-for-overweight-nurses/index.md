@@ -1,5 +1,5 @@
 ---
-title: Best Shoes for Overweight Nurses
+title: 7 Best Shoes for Overweight Nurses in 2026
 description: Todays article is about Best Shoes for Overweight Nurses. Being an Overweight
   nurse shouldnt discourage you from doing the good work of attending to your...
 slug: best-shoes-for-overweight-nurses

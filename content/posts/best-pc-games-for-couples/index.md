@@ -1,5 +1,5 @@
 ---
-title: Best Pc Games for Couples
+title: 7 Best Pc Games for Couples in 2026
 description: Looking for the best pc games for couples? Well, co-op games for couples
   offer an excellent opportunity to spend time, bond, and celebrate love.
 slug: best-pc-games-for-couples

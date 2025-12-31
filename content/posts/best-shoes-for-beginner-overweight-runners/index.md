@@ -1,5 +1,5 @@
 ---
-title: Best Shoes for Beginner Overweight Runners
+title: 7 Best Shoes for Beginner Overweight Runners in 2026
 description: Best Shoes for Beginner Overweight Runners should have a wide base, plenty
   of cushioning, correct shock absorption, and support. If youre overweight and have...
 slug: best-shoes-for-beginner-overweight-runners

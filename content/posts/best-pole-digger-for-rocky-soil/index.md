@@ -1,5 +1,5 @@
 ---
-title: Best Pole Digger for Rocky Soil
+title: 7 Best Pole Digger for Rocky Soil in 2026
 description: This is the ultimate tool for performing heavy-duty tasks for gardeners
   and landscaping enthusiasts seeking to make holes for erecting posts or planting...
 slug: best-pole-digger-for-rocky-soil

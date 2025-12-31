@@ -1,5 +1,5 @@
 ---
-title: Best Paints for Aluminum Boats
+title: 7 Best Paints for Aluminum Boats in 2026
 description: The best way to give your aluminum boat a new look is by having the best
   paints for aluminum boats by your side. In addition to your skills, the more you...
 slug: best-paints-for-aluminum-boats

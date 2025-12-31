@@ -1,5 +1,5 @@
 ---
-title: Best Grass Seed for Overseeding
+title: 7 Best Grass Seed for Overseeding in 2026
 description: A lush, dense, and vibrant lawn is the envy of many homeowners. However,
   even the most meticulously cared-for lawns can thin out over time due to wear and...
 slug: best-grass-seed-for-overseeding

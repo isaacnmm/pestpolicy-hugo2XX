@@ -1,5 +1,5 @@
 ---
-title: Best Flea Spray for Home
+title: 7 Best Flea Spray for Home in 2026
 description: Looking for the best flea spray for your home? Say no more! In this post,
   Ill discuss that and other related questions.
 slug: best-flea-spray-for-home

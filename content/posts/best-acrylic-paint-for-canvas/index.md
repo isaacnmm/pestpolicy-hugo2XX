@@ -1,5 +1,5 @@
 ---
-title: Best Acrylic Paint for Canvas
+title: 7 Best Acrylic Paint for Canvas in 2026
 description: If you're a beginner or expert painter artist hunting for the best acrylic
   paint for canvas, then relax you're in the right place. Well, the canvas is a...
 slug: best-acrylic-paint-for-canvas

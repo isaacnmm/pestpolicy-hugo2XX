@@ -1,5 +1,5 @@
 ---
-title: Best Weed Barrier Under Gravel
+title: 7 Best Weed Barrier Under Gravel in 2026
 description: Are you looking for the best weed barrier under gravel? Well, Ive covered
   it all below.
 slug: best-weed-barrier-under-gravel

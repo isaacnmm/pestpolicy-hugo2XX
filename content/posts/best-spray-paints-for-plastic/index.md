@@ -1,5 +1,5 @@
 ---
-title: Best Spray Paints for Plastic
+title: 7 Best Spray Paints for Plastic in 2026
 description: The best spray paints for plastic will entirely transform the look and
   feel of your plastic objects or household items. It'll easily revamp your house
   and...

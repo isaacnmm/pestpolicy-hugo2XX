@@ -1,5 +1,5 @@
 ---
-title: Best Wasp Spray
+title: 7 Best Wasp Spray in 2026
 description: To defeat wasps colonies in your house or compound, youll need to acquire
   the best wasp spray. This is important, as wasps can be a nuisance at home,...
 slug: best-wasp-spray

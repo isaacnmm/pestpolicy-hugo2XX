@@ -1,5 +1,5 @@
 ---
-title: Best Running Shoes for Men With Wide Feet
+title: 7 Best Running Shoes for Men With Wide Feet in 2026
 description: When it comes to picking the best running shoes for men with wide feet,
   comfort is king. Unfortunately, most shoe brands are not wide enough to accommodate...
 slug: best-running-shoes-for-men-with-wide-feet

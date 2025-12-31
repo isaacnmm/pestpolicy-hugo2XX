@@ -1,5 +1,5 @@
 ---
-title: Best Camera for Beginner Filmmaker
+title: 7 Best Camera for Beginner Filmmaker in 2026
 description: Are you tired of smartphone photography or filming? Then you should invest
   in an entry-level camera that gives you high-quality footage. It enhances your...
 slug: best-camera-for-beginner-filmmaker

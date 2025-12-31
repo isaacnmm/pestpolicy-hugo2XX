@@ -1,5 +1,5 @@
 ---
-title: Best Flea Collar for Dogs
+title: 7 Best Flea Collar for Dogs in 2026
 description: Are you searching for the best flea collar to keep your dog free from
   pesky fleas and ticks? Look no further! We've reviewed some of the top-rated flea...
 slug: best-flea-collar-for-dogs

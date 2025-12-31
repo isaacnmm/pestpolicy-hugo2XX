@@ -1,5 +1,5 @@
 ---
-title: Best White Paints for Interior Walls
+title: 7 Best White Paints for Interior Walls in 2026
 description: Selecting the best white paints for interior walls is an essential step
   towards achieving an excellent final finish. Interior walls require outstanding
   paint...

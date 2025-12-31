@@ -1,5 +1,5 @@
 ---
-title: Best Recliners for Sleeping
+title: 7 Best Recliners for Sleeping in 2026
 description: It's never easy to find an excellent recliner for senior citizens, pregnant
   women, the sick, people with terminal back pain, those with some disability or...
 slug: best-recliners-for-sleeping

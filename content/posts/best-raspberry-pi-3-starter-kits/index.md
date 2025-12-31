@@ -1,5 +1,5 @@
 ---
-title: Best Raspberry Pi 3 Starter Kits
+title: 7 Best Raspberry Pi 3 Starter Kits in 2026
 description: Raspberry Pi 3-b-review is the most powerful single-board credit-card-sized
   computer.
 slug: best-raspberry-pi-3-starter-kits

@@ -1,5 +1,5 @@
 ---
-title: Best Mosquito Repellent for Yard
+title: 7 Best Mosquito Repellent for Yard in 2026
 description: Do you find yourself constantly worrying about your kids getting mosquitoes
   bites every time they are out playing in your backyard?
 slug: best-mosquito-repellent-for-yard

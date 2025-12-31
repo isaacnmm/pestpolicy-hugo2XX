@@ -1,5 +1,5 @@
 ---
-title: Best Sandals for Lower Back Pain
+title: 7 Best Sandals for Lower Back Pain in 2026
 description: If youre suffering from lower back pain-for-lower-back-pain and looking
   for supportive yet stylish sandals, youre right on time.
 slug: best-sandals-for-lower-back-pain

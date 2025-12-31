@@ -1,5 +1,5 @@
 ---
-title: Best Spray Paint for Metal
+title: 7 Best Spray Paint for Metal in 2026
 description: By choosing to read this article on the best spray paint for metal, you
   will gain extra information on selecting spray paint for your DIY project. Wrong
   spray...

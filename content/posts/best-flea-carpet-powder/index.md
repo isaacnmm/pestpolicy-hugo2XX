@@ -1,5 +1,5 @@
 ---
-title: Best Flea Carpet Powder
+title: 7 Best Flea Carpet Powder in 2026
 description: If you have pets like cats or dogs, fleas are an inevitable problem.
   While treating your pets is essential, its not enough to fully eliminate fleas.
 slug: best-flea-carpet-powder

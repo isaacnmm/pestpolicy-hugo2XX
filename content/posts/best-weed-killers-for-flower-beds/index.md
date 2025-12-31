@@ -1,5 +1,5 @@
 ---
-title: Best Weed Killers for Flower Beds
+title: 7 Best Weed Killers for Flower Beds in 2026
 description: When choosing the best weed killers for flower beds or lawns-for-lawns
   , you can consider things like effectiveness, safety for flowers, ease of application,...
 slug: best-weed-killers-for-flower-beds

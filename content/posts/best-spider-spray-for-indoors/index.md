@@ -1,5 +1,5 @@
 ---
-title: Best Spider Spray for Indoors
+title: 7 Best Spider Spray for Indoors in 2026
 description: Looking for best spider spray for indoors? Say no more! Spring marks
   an annual onslaught of spiders, hornets, wasps, ants plus various nuisance insects.
   Thus,...

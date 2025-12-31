@@ -1,5 +1,5 @@
 ---
-title: Best Gopher Poison
+title: 7 Best Gopher Poison in 2026
 description: Gophers are herbivores and feed on different kinds of roots. They also
   eat leaves and some insects
 slug: best-gopher-poison

@@ -1,5 +1,5 @@
 ---
-title: Best Cordless Hedge Trimmer
+title: 7 Best Cordless Hedge Trimmer in 2026
 description: Modern landscaping and gardening are becoming easy by day due to the
   introduction of electric tools that make life amazing. The trimming that used to
   take...

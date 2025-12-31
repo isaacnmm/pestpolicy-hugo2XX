@@ -1,5 +1,5 @@
 ---
-title: Best Spray for Yellow Jackets
+title: 7 Best Spray for Yellow Jackets in 2026
 description: Yellow Jackets also known as wasps or hornets are infamous for their
   painful stings and aggressive behavior, which can cause not only quick discomfort
   but...

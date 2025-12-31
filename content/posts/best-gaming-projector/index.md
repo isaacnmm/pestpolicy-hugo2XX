@@ -1,5 +1,5 @@
 ---
-title: Best Gaming Projector
+title: 7 Best Gaming Projector in 2026
 description: To spice up your best gaming experience, we present a thoroughly analyzed
   list of the Best Gaming Projector.
 slug: best-gaming-projector

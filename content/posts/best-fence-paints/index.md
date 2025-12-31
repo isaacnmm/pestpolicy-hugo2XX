@@ -1,5 +1,5 @@
 ---
-title: Best Fence Paints
+title: 7 Best Fence Paints in 2026
 description: A fence is a complimentary part of our homes and a good home needs an
   equally beautiful fence . To have a beautiful fence
 slug: best-fence-paints

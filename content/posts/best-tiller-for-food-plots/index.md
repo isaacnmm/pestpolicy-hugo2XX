@@ -1,5 +1,5 @@
 ---
-title: Best Tiller for Food Plots
+title: 7 Best Tiller for Food Plots in 2026
 description: When it comes to preparing food plots, having the right tiller can make
   all the difference. Whether youre planting a garden for personal use or working
   on a...

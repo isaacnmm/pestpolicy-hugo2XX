@@ -1,5 +1,5 @@
 ---
-title: Best Bottom Paint for Trailered Boats
+title: 7 Best Bottom Paint for Trailered Boats in 2026
 description: Most boats that spend a lot of time in the water and risk developing
   growth and fouls that affect the boat's performance.
 slug: best-bottom-paint-for-trailered-boats

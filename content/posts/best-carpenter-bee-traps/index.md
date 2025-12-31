@@ -1,5 +1,5 @@
 ---
-title: Best Carpenter Bee Traps
+title: 7 Best Carpenter Bee Traps in 2026
 description: When choosing the best carpenter bee traps, you can consider things like
   effectiveness, durability, safety, and ease of use.
 slug: best-carpenter-bee-traps

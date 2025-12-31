@@ -1,5 +1,5 @@
 ---
-title: Best Cordless Cultivators for a Small Garden
+title: 7 Best Cordless Cultivators for a Small Garden in 2026
 description: While gas-powered tillers may offer more raw power, corded tillers remain
   a popular choice for many gardeners
 slug: best-cordless-cultivators-for-a-small-garden

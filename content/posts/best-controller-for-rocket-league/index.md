@@ -1,5 +1,5 @@
 ---
-title: Best Controller for Rocket League
+title: 7 Best Controller for Rocket League in 2026
 description: With a suitable controller, it'll be much easier to do aerials and have
   favorable triggers
 slug: best-controller-for-rocket-league

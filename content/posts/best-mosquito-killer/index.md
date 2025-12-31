@@ -1,5 +1,5 @@
 ---
-title: Best Mosquito Killer
+title: 7 Best Mosquito Killer in 2026
 description: When choosing the best mosquito killer, you can consider things like
   effectiveness, safety, and ease of use. These factors are crucial in ensuring you
   select...

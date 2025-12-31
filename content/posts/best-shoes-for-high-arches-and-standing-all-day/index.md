@@ -1,5 +1,5 @@
 ---
-title: Best Shoes for High Arches and Standing All Day
+title: 7 Best Shoes for High Arches and Standing All Day in 2026
 description: Today I present the Best Shoes for High Arches and Standing All Day.
   Having high arches can make Standing All Day an unbearable task.
 slug: best-shoes-for-high-arches-and-standing-all-day

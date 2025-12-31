@@ -1,5 +1,5 @@
 ---
-title: Best Camera for Youtube
+title: 7 Best Camera for Youtube in 2026
 description: Quality video shooting and You-tubing is a preserve of professional videographers.
   This is thanks to the advancement in video camera technology. So, which is...
 slug: best-camera-for-youtube

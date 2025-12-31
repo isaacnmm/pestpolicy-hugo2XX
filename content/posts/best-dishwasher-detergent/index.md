@@ -1,5 +1,5 @@
 ---
-title: Best Dishwasher Detergent
+title: 7 Best Dishwasher Detergent in 2026
 description: The value of your dishwasher will depend on the effectiveness of the
   detergents you use in it.
 slug: best-dishwasher-detergent

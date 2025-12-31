@@ -1,5 +1,5 @@
 ---
-title: Best Walk Behind Mower for Hills
+title: 7 Best Walk Behind Mower for Hills in 2026
 description: Maintaining a hilly lawn can be challenging, but with the right walk-behind
   mower, it can become a manageable
 slug: best-walk-behind-mower-for-hills

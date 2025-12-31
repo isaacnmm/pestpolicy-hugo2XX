@@ -1,5 +1,5 @@
 ---
-title: Best Drones for Still Photography
+title: 7 Best Drones for Still Photography in 2026
 description: The world of photography has been transformed by drone technology or
   surveillance , opening up breathtaking aerial perspectives that were once impossible...
 slug: best-drones-for-still-photography

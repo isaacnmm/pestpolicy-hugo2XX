@@ -1,5 +1,5 @@
 ---
-title: Best Termite Bait Stations
+title: 7 Best Termite Bait Stations in 2026
 description: Termite bait stations provide an effective and convenient way of getting
   rid of termites from homes.
 slug: best-termite-bait-stations

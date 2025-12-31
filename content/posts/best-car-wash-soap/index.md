@@ -1,5 +1,5 @@
 ---
-title: Best Car Wash Soap
+title: 7 Best Car Wash Soap in 2026
 description: Cleaning your cars with the wrong soap contributes to the deterioration
   of their paint. Dish soaps are for removing grease and are thus not good for the
   paint...

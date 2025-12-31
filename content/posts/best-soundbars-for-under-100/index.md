@@ -1,5 +1,5 @@
 ---
-title: Best Soundbars for Under 100
+title: 7 Best Soundbars for Under 100 in 2026
 description: If you're looking for a budget soundbar , here's a compilation of my
   best soundbars for under 100. You'll find the soundbars worth a lot as they'll provide...
 slug: best-soundbars-for-under-100

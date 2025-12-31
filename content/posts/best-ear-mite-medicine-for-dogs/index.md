@@ -1,5 +1,5 @@
 ---
-title: Best Ear Mite Medicine for Dogs
+title: 7 Best Ear Mite Medicine for Dogs in 2026
 description: Are you be looking for the best ear mite medicine for dogs? Definitely,
   Ill help with that! Ear mites also called Otodectes cynotis mites is a parasitic...
 slug: best-ear-mite-medicine-for-dogs

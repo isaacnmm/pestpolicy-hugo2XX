@@ -1,5 +1,5 @@
 ---
-title: Best Swing Sets Under 500
+title: 7 Best Swing Sets Under 500 in 2026
 description: Are you looking for an affordable but durable swing set? We know at times,
   parents are pressed within a rock and hard place, trying to make their children...
 slug: best-swing-sets-under-500

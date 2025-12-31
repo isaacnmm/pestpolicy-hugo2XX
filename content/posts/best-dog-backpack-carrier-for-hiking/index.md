@@ -1,5 +1,5 @@
 ---
-title: Best Dog Backpack Carrier for Hiking
+title: 7 Best Dog Backpack Carrier for Hiking in 2026
 description: When choosing the best dog backpack carrier for hiking, you can consider
   things like comfort, durability, size, and safety.
 slug: best-dog-backpack-carrier-for-hiking

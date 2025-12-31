@@ -1,5 +1,5 @@
 ---
-title: Best Ladder for Painting 2 Story House
+title: 7 Best Ladder for Painting 2 Story House in 2026
 description: Whats the best ladder for painting 2 story house? Painting 2 story house-a-House
   may be challenging especially when it comes to reaching the roof or ceiling...
 slug: best-ladder-for-painting-2-story-house

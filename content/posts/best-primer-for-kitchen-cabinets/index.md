@@ -1,5 +1,5 @@
 ---
-title: Best Primer for Kitchen Cabinets
+title: 7 Best Primer for Kitchen Cabinets in 2026
 description: Are you looking to facelift your kitchen cabinetshttpspestpolicy.combest-paint-for-kitchen-cabinets
   ? A primer is used as a preparatory coat on previously...
 slug: best-primer-for-kitchen-cabinets

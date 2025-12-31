@@ -1,5 +1,5 @@
 ---
-title: Best Electric Tiller for Clay Soil
+title: 7 Best Electric Tiller for Clay Soil in 2026
 description: Clay soil may not be the best for your gardening needs.
 slug: best-electric-tiller-for-clay-soil
 date: 2025-08-15T15:16:55+03:00

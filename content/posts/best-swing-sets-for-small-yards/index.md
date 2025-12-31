@@ -1,5 +1,5 @@
 ---
-title: Best Swing Sets for Small Yards
+title: 7 Best Swing Sets for Small Yards in 2026
 description: Are you looking for the Best Swing Sets for Small Yards? well, in this
   article I will provide a comprehensive guide on some of the high-rated swing sets
   that...

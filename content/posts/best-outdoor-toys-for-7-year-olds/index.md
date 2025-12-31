@@ -1,5 +1,5 @@
 ---
-title: Best Outdoor Toys for 7 Year Olds
+title: 7 Best Outdoor Toys for 7 Year Olds in 2026
 description: Make summer more interesting for your 7-year old by buying the Best Outdoor
   Toys for 7-Year-Olds. Outdoor toys provide kids with hours of fun and...
 slug: best-outdoor-toys-for-7-year-olds

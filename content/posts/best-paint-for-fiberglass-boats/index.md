@@ -1,5 +1,5 @@
 ---
-title: Best Paint for Fiberglass Boats
+title: 7 Best Paint for Fiberglass Boats in 2026
 description: Fiberglass enjoys an age-old reputation as a strong and robust material,
   making it ideal for boat construction- try the best paint for fiberglass boats ....
 slug: best-paint-for-fiberglass-boats

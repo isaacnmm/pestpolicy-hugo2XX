@@ -1,5 +1,5 @@
 ---
-title: Best Tick Shampoo for Dogs
+title: 7 Best Tick Shampoo for Dogs in 2026
 description: Hugging and interacting with your dog provides a relieving experience
   for many people. Ticks and mites cause diseases like skin lesions or blood depletion,
   or...

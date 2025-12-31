@@ -1,5 +1,5 @@
 ---
-title: Best Shoes for Box Jumps
+title: 7 Best Shoes for Box Jumps in 2026
 description: The Best Shoes for Box Jumps are the Inov-8 Mens F-Lite 235 v3 and Reebok
   Men's Nano X1 Cross Trainer . These two CrossFit trainers top my list for box jump...
 slug: best-shoes-for-box-jumps

@@ -1,5 +1,5 @@
 ---
-title: Best Rototiller for Rocky Soil
+title: 7 Best Rototiller for Rocky Soil in 2026
 description: Gardening used to be back-breaking, especially if it involved a hoe and
   a shovel. However, with the advancement in technology. Many outdoor companies are...
 slug: best-rototiller-for-rocky-soil

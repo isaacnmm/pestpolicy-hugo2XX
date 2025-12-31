@@ -1,5 +1,5 @@
 ---
-title: Best Skechers for Arch Support
+title: 7 Best Skechers for Arch Support in 2026
 description: If youre looking for the best sketchers for arch support youre at the
   right place. Skechers makes some of the most comfortable and supportive footwear
   for...

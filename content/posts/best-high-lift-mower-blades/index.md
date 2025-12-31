@@ -1,5 +1,5 @@
 ---
-title: Best High Lift Mower Blades
+title: 7 Best High Lift Mower Blades in 2026
 description: Blades are one of the most components of a lawnmower. You need the best
   available blades to achieve that clean and efficient cut on your lawn.
 slug: best-high-lift-mower-blades

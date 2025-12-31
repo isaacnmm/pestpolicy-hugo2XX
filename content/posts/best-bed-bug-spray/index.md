@@ -1,5 +1,5 @@
 ---
-title: Best Bed Bug Spray
+title: 7 Best Bed Bug Spray in 2026
 description: Sometimes all we want is the best bed bug spray
 slug: best-bed-bug-spray
 date: 2025-08-15T15:16:55+03:00

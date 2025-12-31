@@ -1,5 +1,5 @@
 ---
-title: Best Paint for Interior Doors
+title: 7 Best Paint for Interior Doors in 2026
 description: The interior of your house can be a high traffic zone, especially if
   you have more occupants who must move from one room to another. During such movement,...
 slug: best-paint-for-interior-doors

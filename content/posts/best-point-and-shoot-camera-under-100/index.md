@@ -1,5 +1,5 @@
 ---
-title: Best Point and Shoot Camera Under 100
+title: 7 Best Point and Shoot Camera Under 100 in 2026
 description: Most smartphone cameras have inadequate shooting features . But any point
   and shoot camera have optical zoom changing the perspective of shots, larger...
 slug: best-point-and-shoot-camera-under-100

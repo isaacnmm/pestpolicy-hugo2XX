@@ -1,5 +1,5 @@
 ---
-title: Best Shoes for Lateral Movement
+title: 7 Best Shoes for Lateral Movement in 2026
 description: Investing in the Best Shoes for Lateral Movement will allow you to expand
   your workout routine.
 slug: best-shoes-for-lateral-movement

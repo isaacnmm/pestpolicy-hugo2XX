@@ -1,5 +1,5 @@
 ---
-title: Best Do It Yourself Lawn Care
+title: 7 Best Do It Yourself Lawn Care in 2026
 description: For many homeowners, maintaining a beautiful lawn is a source of pride
   and enjoyment. While professional lawn care services offer convenience, a growing...
 slug: best-do-it-yourself-lawn-care

@@ -1,5 +1,5 @@
 ---
-title: Best Paint for Outdoor Wood Deck
+title: 7 Best Paint for Outdoor Wood Deck in 2026
 description: For us, DIY homeowners, painting an old deck with fragmented paint, or
   revamping it with current technology, is the best way to give it a new look. This...
 slug: best-paint-for-outdoor-wood-deck

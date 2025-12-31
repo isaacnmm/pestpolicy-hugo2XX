@@ -1,5 +1,5 @@
 ---
-title: Best Dishwasher Detergent to Prevent Etching
+title: 7 Best Dishwasher Detergent to Prevent Etching in 2026
 description: The best dishwasher detergent to prevent etching will help you with glassware,
   ceramics, and metallic items as its not harsh or have very high pH...
 slug: best-dishwasher-detergent-to-prevent-etching

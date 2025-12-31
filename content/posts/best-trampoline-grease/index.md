@@ -1,5 +1,5 @@
 ---
-title: Best Trampoline Grease
+title: 7 Best Trampoline Grease in 2026
 description: If you want the best functionality and durability for your trampoline,
   you need to get the Best Trampoline Grease. Most trampolines squeak and its a nuisance...
 slug: best-trampoline-grease

@@ -1,5 +1,5 @@
 ---
-title: Best Infield Gloves
+title: 7 Best Infield Gloves in 2026
 description: Being the best infielder you are, you'll need to make lightning-fast
   plays. The line drives and grounders must not stand a chance when you have the Best...
 slug: best-infield-gloves

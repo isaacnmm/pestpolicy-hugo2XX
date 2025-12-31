@@ -1,5 +1,5 @@
 ---
-title: Best Paint Sprayer Under 200
+title: 7 Best Paint Sprayer Under 200 in 2026
 description: The best paint sprayer under 200 will come in handy when you need a budget-friendly
   sprayer for applying paint on walls or large surfaces. While at it, get a...
 slug: best-paint-sprayer-under-200

@@ -1,5 +1,5 @@
 ---
-title: Best Dog Beds
+title: 7 Best Dog Beds in 2026
 description: A dog that has comfortable bedding best dog beds is always a happily
   living pet, and it will definitely bond with the owner and other households amazingly...
 slug: best-dog-beds

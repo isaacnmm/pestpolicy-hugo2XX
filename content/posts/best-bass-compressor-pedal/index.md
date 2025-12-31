@@ -1,5 +1,5 @@
 ---
-title: Best Bass Compressor Pedal
+title: 7 Best Bass Compressor Pedal in 2026
 description: If you are interested in seamless music playing experience you might
   want to consider getting Best Bass Compressor Pedals.
 slug: best-bass-compressor-pedal

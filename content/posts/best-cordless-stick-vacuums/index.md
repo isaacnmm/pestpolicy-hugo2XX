@@ -1,5 +1,5 @@
 ---
-title: Best Cordless Stick Vacuums
+title: 7 Best Cordless Stick Vacuums in 2026
 description: In today's fast-paced world, keeping your home spotless should be effortless
   and efficient. Cordless stick vacuums are revolutionizing how we clean, offering...
 slug: best-cordless-stick-vacuums

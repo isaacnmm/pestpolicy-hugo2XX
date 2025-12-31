@@ -1,5 +1,5 @@
 ---
-title: Best Spray Gun for Enamel Paint
+title: 7 Best Spray Gun for Enamel Paint in 2026
 description: If you are a professional painter or into DIY projects, you can confirm
   that painting especially enamel paints is not an easy task-try the best spray gun
   for...

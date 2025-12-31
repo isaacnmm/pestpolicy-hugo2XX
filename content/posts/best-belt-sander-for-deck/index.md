@@ -1,5 +1,5 @@
 ---
-title: Best Belt Sander for Deck
+title: 7 Best Belt Sander for Deck in 2026
 description: Whats the best belt sander for the deck? Choosing the right sander is
   essential when you are dealing with a large volume of wood.
 slug: best-belt-sander-for-deck

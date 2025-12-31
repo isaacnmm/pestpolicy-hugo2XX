@@ -1,5 +1,5 @@
 ---
-title: Best Flea Spray for House Carpets
+title: 7 Best Flea Spray for House Carpets in 2026
 description: When choosing the best flea spray for house carpets, you can consider
   things like effectiveness, ease of use-come-from , safety for pets and children,
   and...

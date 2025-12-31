@@ -1,5 +1,5 @@
 ---
-title: Best Home Depot Gutter Guards
+title: 7 Best Home Depot Gutter Guards in 2026
 description: Home Depot is a go-to destination for homeowners embarking on DIY projects,
   and gutter guard installation is no exception.
 slug: best-home-depot-gutter-guards

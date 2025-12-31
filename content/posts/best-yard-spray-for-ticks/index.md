@@ -1,5 +1,5 @@
 ---
-title: Best Yard Spray for Ticks
+title: 7 Best Yard Spray for Ticks in 2026
 description: Seeking for the best yard spray for ticks? Search no more! But first,
   what damage have ticks caused you?Well, having ticks around your compound can be
   very...

@@ -1,5 +1,5 @@
 ---
-title: Best Riding Lawn Mower for Small Yard
+title: 7 Best Riding Lawn Mower for Small Yard in 2026
 description: Most riding lawn mowers will be overkill for a small yard. Thus, you'll
   require a more straightforward yet powerful mower
 slug: best-riding-lawn-mower-for-small-yard

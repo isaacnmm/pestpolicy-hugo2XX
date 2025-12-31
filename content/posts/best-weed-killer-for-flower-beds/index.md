@@ -1,5 +1,5 @@
 ---
-title: Best Weed Killer for Flower Beds
+title: 7 Best Weed Killer for Flower Beds in 2026
 description: looking for the best weed killer for flower beds? Gardening or weeding
   is a time consuming and demanding hobby that not many can keep up with.
 slug: best-weed-killer-for-flower-beds

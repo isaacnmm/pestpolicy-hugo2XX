@@ -1,5 +1,5 @@
 ---
-title: Best Self Defense Weapon Besides Gun
+title: 7 Best Self Defense Weapon Besides Gun in 2026
 description: Maybe you dont fancy guns, or they are illegal for the public in your
   state.However, you still need the best self-defense weapon besides guns.
 slug: best-self-defense-weapon-besides-gun

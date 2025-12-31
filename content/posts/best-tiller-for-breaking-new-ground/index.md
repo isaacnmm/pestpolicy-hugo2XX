@@ -1,5 +1,5 @@
 ---
-title: Best Tiller for Breaking New Ground
+title: 7 Best Tiller for Breaking New Ground in 2026
 description: When searching for the best tiller for breaking new ground, the manufacturer
   is not as important as the type of tool chosen.
 slug: best-tiller-for-breaking-new-ground

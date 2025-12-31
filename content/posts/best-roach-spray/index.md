@@ -1,5 +1,5 @@
 ---
-title: Best Roach Spray
+title: 7 Best Roach Spray in 2026
 description: In this article, I will review the best roach sprays. Cockroach infestation
   in your house or compound can really be problematic if not attended. Cockroaches...
 slug: best-roach-spray

@@ -1,5 +1,5 @@
 ---
-title: Best Short Scale Electric Guitars
+title: 7 Best Short Scale Electric Guitars in 2026
 description: If you are a kid, a player with petite hands or a traveler wishing to
   play the guitar
 slug: best-short-scale-electric-guitars

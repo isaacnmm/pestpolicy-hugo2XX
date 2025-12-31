@@ -1,5 +1,5 @@
 ---
-title: Best Dress Shoes for Back Pain
+title: 7 Best Dress Shoes for Back Pain in 2026
 description: Wearing the Best Dress Shoes For Back Pain can make your workdays comfortable
   and bearable.
 slug: best-dress-shoes-for-back-pain

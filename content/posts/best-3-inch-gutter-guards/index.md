@@ -1,5 +1,5 @@
 ---
-title: Best 3 Inch Gutter Guards
+title: 7 Best 3 Inch Gutter Guards in 2026
 description: While 5-inch and 6-inch gutters are the most common sizes found on residential
   homes today, older homes, sheds, small outbuildings, and specialized...
 slug: best-3-inch-gutter-guards

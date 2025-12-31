@@ -1,5 +1,5 @@
 ---
-title: Best Grass to Grow in Shade
+title: 7 Best Grass to Grow in Shade in 2026
 description: Achieving a uniformly green and healthy lawn can be one of the most rewarding
   aspects of homeownership, but it often presents a significant challenge shade.
 slug: best-grass-to-grow-in-shade

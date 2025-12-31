@@ -1,5 +1,5 @@
 ---
-title: Best Dog Brush for Short Hair Shedding
+title: 7 Best Dog Brush for Short Hair Shedding in 2026
 description: Sometimes vacuuming your carpets, floors, or sofas off any dog hair is
   never enough. It can get tiring and time-consuming, significantly when your dog
   is...

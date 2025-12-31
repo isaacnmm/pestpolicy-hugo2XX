@@ -1,5 +1,5 @@
 ---
-title: Best Substrate for Bearded Dragons
+title: 7 Best Substrate for Bearded Dragons in 2026
 description: When choosing the best substrate for bearded dragons, you can consider
   things like safety, ease of cleaning, and the natural feel that mimics their...
 slug: best-substrate-for-bearded-dragons

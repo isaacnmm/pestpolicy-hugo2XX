@@ -1,5 +1,5 @@
 ---
-title: Best Soundbars Under 300
+title: 7 Best Soundbars Under 300 in 2026
 description: If you are a music enthusiast and intend to have a high-quality sound,
   then, choosing the best soundbars under 300 is a crucial step towards your success....
 slug: best-soundbars-under-300

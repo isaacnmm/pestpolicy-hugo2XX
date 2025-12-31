@@ -1,5 +1,5 @@
 ---
-title: Best Driveway Alarms Wired Options
+title: 7 Best Driveway Alarms Wired Options in 2026
 description: Driveway alarms are an essential tool for monitoring activity in your
   driveway, offering an added layer of security for your home.
 slug: best-driveway-alarms-wired-options

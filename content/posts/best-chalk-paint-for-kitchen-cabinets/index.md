@@ -1,5 +1,5 @@
 ---
-title: Best Chalk Paint for Kitchen Cabinets
+title: 7 Best Chalk Paint for Kitchen Cabinets in 2026
 description: With any of the best chalk paint for kitchen cabinets and the right tool,
   you can quickly revive the beauty of the kitchen cabinets by painting them ....
 slug: best-chalk-paint-for-kitchen-cabinets

@@ -1,5 +1,5 @@
 ---
-title: Best Rear Tine Tiller
+title: 7 Best Rear Tine Tiller in 2026
 description: In this article, I've reviewed the best rear tine tillers. These garden
   tools have power and versatility.
 slug: best-rear-tine-tiller

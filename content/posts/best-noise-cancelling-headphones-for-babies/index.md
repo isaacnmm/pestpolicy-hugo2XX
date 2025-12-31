@@ -1,5 +1,5 @@
 ---
-title: Best Noise Cancelling Headphones for Babies
+title: 7 Best Noise Cancelling Headphones for Babies in 2026
 description: The world is full of noise
 slug: best-noise-cancelling-headphones-for-babies
 date: 2025-08-15T15:16:55+03:00

@@ -1,5 +1,5 @@
 ---
-title: Best Paint Brushes for Oil Based Paint
+title: 7 Best Paint Brushes for Oil Based Paint in 2026
 description: A paint job is not just a job without a good paintbrush. Finding good
   paint for your surface and the proper brush guarantees you an excellent job as a...
 slug: best-paint-brushes-for-oil-based-paint

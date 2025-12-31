@@ -1,5 +1,5 @@
 ---
-title: Best Drywall Primer Sealer
+title: 7 Best Drywall Primer Sealer in 2026
 description: Drywalls and other surfaces could be challenging especially getting the
   primer-sealers for them as you prepare them for painting. In this article, we...
 slug: best-drywall-primer-sealer

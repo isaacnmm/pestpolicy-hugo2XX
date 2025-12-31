@@ -1,5 +1,5 @@
 ---
-title: Best Flea Spray for Carpets
+title: 7 Best Flea Spray for Carpets in 2026
 description: Keeping your carpets free from fleas is essential for maintaining a healthy
   and comfortable home environment. Fleas can quickly infest carpets, causing...
 slug: best-flea-spray-for-carpets

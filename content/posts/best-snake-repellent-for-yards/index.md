@@ -1,5 +1,5 @@
 ---
-title: Best Snake Repellent for Yards
+title: 7 Best Snake Repellent for Yards in 2026
 description: Snakes can be beneficial when they capture and eat damaging pests such
   as mice and slugs. So you don't want to kill these either venomous or non-venomous...
 slug: best-snake-repellent-for-yards

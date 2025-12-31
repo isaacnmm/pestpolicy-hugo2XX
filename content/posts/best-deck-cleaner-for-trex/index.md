@@ -1,5 +1,5 @@
 ---
-title: Best Deck Cleaner for Trex
+title: 7 Best Deck Cleaner for Trex in 2026
 description: Are you searching for the best deck cleaner for Trex? Cleaning a Trex
   deck may seem like a difficult task at first, given the relatively new nature of
   this...
